@@ -1,0 +1,64 @@
+name	tag	span	text	code
+casos_clinicos_profesiones93	PACIENTE-PROFESION	('374', '396')	auxiliar de enfermería	5321.1.1
+casos_clinicos_profesiones93	PACIENTE-SITUACION_LABORAL	('405', '415')	no trabaja	SCTID: 73438004
+casos_clinicos_profesiones93	PACIENTE-SITUACION_LABORAL	('441', '468')	pensionista por incapacidad	SCTID: 112690009
+cc_onco32	PACIENTE-PROFESION	('115', '123')	mecánico	7231.1
+casos_clinicos_profesiones91	PACIENTE-PROFESION	('528', '562')	Trabaja en una plantación agrícola	6130.2
+casos_clinicos_profesiones91	PACIENTE-SITUACION_LABORAL	('588', '601')	baja maternal	SCTID: 224457004
+casos_clinicos_profesiones91	OTROS-SITUACION_LABORAL	('798', '808')	compañeros	SCTID: 106541005
+casos_clinicos_profesiones91	PACIENTE-SITUACION_LABORAL	('1006', '1032')	trabaja en el departamento	SCTID: 106541005
+caso_clinico_psiquiatria122	PACIENTE-SITUACION_LABORAL	('20', '30')	estudiante	SCTID: 65853000
+caso_clinico_psiquiatria122	OTROS-SITUACION_LABORAL	('123', '134')	estudiantes	SCTID: 65853000
+caso_clinico_psiquiatria122	SANITARIO-PROFESION	('505', '515')	psiquiatra	2634.2.3
+caso_clinico_psiquiatria122	OTROS-PROFESION	('160', '168')	profesor	23
+caso_clinico_psiquiatria122	OTROS-PROFESION	('305', '313')	profesor	23
+caso_clinico_psiquiatria122	OTROS-SITUACION_LABORAL	('775', '794')	compañeros de clase	SCTID: 65853000
+caso_clinico_psiquiatria122	PACIENTE-PROFESION	('1401', '1416')	primer ministro	1111
+caso_clinico_psiquiatria122	OTROS-PROFESION	('1185', '1194')	locutores	2656
+caso_clinico_radiologia213	PACIENTE-PROFESION	('45', '56')	funcionario	4
+caso_clinico_radiologia213	SANITARIO-PROFESION	('1046', '1092')	radiólogos de la sección de músculoesquelético	2212
+casos_clinicos_profesiones92	PACIENTE-PROFESION	('14', '36')	auxiliar de enfermería	5321.1.1
+caso_clinico_psiquiatria121	PACIENTE-PROFESION	('41', '62')	veterano del ejército	310
+caso_clinico_psiquiatria121	PACIENTE-SITUACION_LABORAL	('88', '94')	alumno	SCTID: 65853000
+caso_clinico_psiquiatria121	PACIENTE-SITUACION_LABORAL	('1132', '1149')	estar de servicio	SCTID: 106541005
+caso_clinico_psiquiatria123	SANITARIO-PROFESION	('2334', '2343')	enfermera	2221.3
+caso_clinico_psiquiatria123	SANITARIO-PROFESION	('2318', '2328')	examinador	2212
+caso_clinico_psiquiatria123	OTROS-PROFESION	('109', '116')	policía	5412.1
+caso_clinico_psiquiatria123	OTROS-PROFESION	('236', '244')	policías	5412.1
+caso_clinico_psiquiatria123	SANITARIO-PROFESION	('728', '756')	equipo encargado del ingreso	2212
+caso_clinico_psiquiatria123	SANITARIO-PROFESION	('882', '903')	equipo de psiquiatría	2634.2.3
+caso_clinico_psiquiatria123	SANITARIO-PROFESION	('2563', '2576')	entrevistador	2212
+caso_clinico_psiquiatria123	OTROS-PROFESION	('3125', '3133')	policías	5412.1
+caso_clinico_psiquiatria123	OTROS-PROFESION	('3363', '3370')	policía	5412.1
+caso_clinico_psiquiatria123	PACIENTE-PROFESION	('4205', '4247')	profesor de matemáticas de enseñanza media	2330.1.11
+caso_clinico_radiologia883	PACIENTE-PROFESION	('315', '322')	albañil	7112.1
+caso_clinico_radiologia883	PACIENTE-PROFESION	('413', '432')	trabajó en una mina	8111.5
+caso_clinico_psiquiatria120	SANITARIO-PROFESION	('1785', '1805')	miembro del personal	SCTID: 106541005
+caso_clinico_psiquiatria120	SANITARIO-PROFESION	('1406', '1416')	psiquiatra	2634.2.3
+caso_clinico_psiquiatria120	SANITARIO-PROFESION	('1816', '1826')	psiquiatra	2634.2.3
+caso_clinico_psiquiatria120	SANITARIO-PROFESION	('2445', '2455')	psiquiatra	2634.2.3
+caso_clinico_psiquiatria120	SANITARIO-PROFESION	('2760', '2770')	psiquiatra	2634.2.3
+caso_clinico_psiquiatria120	OTROS-PROFESION	('68', '75')	policía	5412.1
+caso_clinico_psiquiatria120	OTROS-PROFESION	('290', '297')	policía	5412.1
+caso_clinico_psiquiatria120	OTROS-PROFESION	('332', '341')	conductor	83
+caso_clinico_psiquiatria120	OTROS-PROFESION	('680', '689')	conductor	83
+caso_clinico_psiquiatria120	OTROS-PROFESION	('835', '844')	conductor	83
+caso_clinico_psiquiatria120	SANITARIO-PROFESION	('1279', '1292')	entrevistador	2212
+caso_clinico_psiquiatria120	SANITARIO-PROFESION	('1548', '1593')	hospital psiquiátrico estatal donde trabajaba	2634.2.3
+cc_onco31	SANITARIO-PROFESION	('157', '184')	médico de Atención Primaria	2211.1
+caso_clinico_radiologia351	PACIENTE-SITUACION_LABORAL	('16', '26')	Preescolar	SCTID: 65853000
+cc_onco45	SANITARIO-PROFESION	('8904', '8917')	equipo médico	2211.1
+cc_onco45	FAMILIAR-PROFESION	('262', '269')	celador	5329.1
+cc_onco45	SANITARIO-PROFESION	('8877', '8886')	psicóloga	2634.2
+caso_clinico_radiologia565	SANITARIO-PROFESION	('50', '58')	pediatra	2212
+casos_clinicos_profesiones90	OTROS-PROFESION	('1731', '1753')	trabajadores del campo	6130.2
+casos_clinicos_profesiones90	PACIENTE-PROFESION	('45', '64')	Trabaja en el campo	6130.2
+casos_clinicos_profesiones94	PACIENTE-PROFESION	('27', '59')	trabaja en el sector de la pesca	6222
+casos_clinicos_profesiones94	SANITARIO-PROFESION	('1064', '1075')	dermatólogo	2212
+casos_clinicos_profesiones94	SANITARIO-PROFESION	('1318', '1329')	dermatólogo	2212
+caso_clinico_psiquiatria124	SANITARIO-PROFESION	('2545', '2555')	examinador	2212
+caso_clinico_psiquiatria124	SANITARIO-PROFESION	('1975', '2001')	psiquiatra del ambulatorio	2634.2.3
+caso_clinico_psiquiatria124	PACIENTE-PROFESION	('22', '39')	analista de bolsa	2413.1
+caso_clinico_psiquiatria124	PACIENTE-PROFESION	('941', '998')	analista de bolsa para un importante banco de inversiones	2413.1
+caso_clinico_psiquiatria124	FAMILIAR-PROFESION	('1419', '1437')	hombre de negocios	1120.2
+caso_clinico_psiquiatria124	PACIENTE-PROFESION	('2676', '2694')	atender su negocio	1120.2
