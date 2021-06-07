@@ -1,0 +1,21 @@
+
+Antecedentes	O
+personales	O
+no	O
+patológicos	O
+:	O
+Niega	O
+abuso	O
+de	O
+sustancias	O
+ilícitas	O
+,	O
+alcohol	O
+y	O
+tabaco	O
+consumo	O
+ocasional	O
+,	O
+no	O
+perjudicial	O
+.	O

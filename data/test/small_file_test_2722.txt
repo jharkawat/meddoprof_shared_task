@@ -1,0 +1,15 @@
+
+Antecedentes	O
+familiares	O
+:	O
+madre	O
+con	O
+cáncer	O
+de	O
+mama	O
+tratada	O
+con	O
+quimioterapia	O
+y	O
+radioterapia	O
+.	O

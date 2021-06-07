@@ -1,0 +1,10 @@
+
+Fumadora	O
+de	O
+3	O
+-	O
+4	O
+cigarros	O
+/	O
+día	O
+.	O

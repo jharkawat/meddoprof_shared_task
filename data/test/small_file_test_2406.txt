@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+llega	O
+remitido	O
+desde	O
+otro	O
+centro	O
+con	O
+carácter	O
+urgente	O
+-	O
+preferente	O
+con	O
+diagnóstico	O
+de	O
+carcinoma	O
+epidermoide	O
+de	O
+pulmón	O
+eIV	O
+para	O
+tratamiento	O
+citotóxico	O
+.	O

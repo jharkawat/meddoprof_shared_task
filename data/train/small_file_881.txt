@@ -1,0 +1,11 @@
+
+Colombia	O
+Correo	O
+electrónico	O
+:	O
+ricgalan	O
+@	O
+gmail	O
+.	O
+com	O
+.	O

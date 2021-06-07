@@ -1,0 +1,9 @@
+
+El	O
+diagnóstico	O
+final	O
+es	O
+de	O
+esquizofrenia	O
+hebefrénica	O
+.	O

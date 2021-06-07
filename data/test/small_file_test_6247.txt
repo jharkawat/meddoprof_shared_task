@@ -1,0 +1,12 @@
+
+Carcinoma	O
+renal	O
+mixto	O
+(	O
+células	O
+claras	O
+y	O
+papilar	O
+)	O
+estadio	O
+IV	O

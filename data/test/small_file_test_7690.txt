@@ -1,0 +1,5 @@
+
+Sin	O
+medicación	O
+habitual	O
+.	O

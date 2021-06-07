@@ -1,0 +1,8 @@
+
+El	O
+paciente	O
+ingresa	O
+de	O
+forma	O
+involuntaria	O
+.	O

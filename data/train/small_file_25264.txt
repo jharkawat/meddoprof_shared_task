@@ -1,0 +1,18 @@
+
+Criterios	O
+clínico	O
+-	O
+analíticos	O
+de	O
+insuficiencia	O
+hepática	O
+leve	O
+(	O
+Child	O
+-	O
+Pugh	O
+A	O
+6	O
+puntos	O
+)	O
+.	O

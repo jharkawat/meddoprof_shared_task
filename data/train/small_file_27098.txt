@@ -1,0 +1,10 @@
+
+En	O
+el	O
+año	O
+2007	O
+nace	O
+el	O
+paciente	O
+identificado	O
+.	O

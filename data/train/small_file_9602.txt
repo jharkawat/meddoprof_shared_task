@@ -1,0 +1,22 @@
+
+Varón	O
+de	O
+54	O
+an	O
+̃	O
+os	O
+,	O
+sin	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+,	O
+agricultor	B-PROFESION
+que	O
+vive	O
+en	O
+un	O
+área	O
+rural	O
+.	O

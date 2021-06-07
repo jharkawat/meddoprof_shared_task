@@ -1,0 +1,6 @@
+
+Abdomen	O
+:	O
+RHA	O
+conservados	O
+.	O

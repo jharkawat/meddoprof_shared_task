@@ -1,0 +1,10 @@
+
+Ecografia	O
+mamaria	O
+:	O
+ginecomastia	O
+sin	O
+otros	O
+hallazgos	O
+relevantes	O
+.	O

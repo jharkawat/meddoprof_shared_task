@@ -1,0 +1,26 @@
+
+Se	O
+observó	O
+que	O
+era	O
+muy	O
+metódico	O
+y	O
+ordenado	O
+(	O
+a	O
+la	O
+hora	O
+de	O
+arreglar	O
+sus	O
+cosas	O
+,	O
+doblar	O
+la	O
+ropa	O
+.	O
+.	O
+.	O
+)	O
+.	O

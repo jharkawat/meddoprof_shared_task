@@ -1,0 +1,23 @@
+
+Tras	O
+la	O
+evaluación	O
+de	O
+la	O
+paciente	O
+por	O
+medio	O
+de	O
+exploración	O
+psicopatológica	O
+,	O
+la	O
+orientación	O
+diagnóstica	O
+es	O
+de	O
+trastorno	O
+adaptativo	O
+tipo	O
+mixto	O
+.	O

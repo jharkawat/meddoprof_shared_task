@@ -1,0 +1,17 @@
+
+-	O
+Endoscopia	O
+digestiva	O
+alta	O
+:	O
+Restos	O
+alimenticios	O
+en	O
+cámara	O
+gástrica	O
+tras	O
+12	O
+horas	O
+de	O
+ayuno	O
+.	O

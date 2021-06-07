@@ -1,0 +1,10 @@
+
+Deja	O
+de	O
+tomar	O
+la	O
+medicación	O
+por	O
+cuenta	O
+propia	O
+.	O

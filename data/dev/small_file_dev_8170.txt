@@ -1,0 +1,13 @@
+
+Vive	O
+con	O
+sus	O
+padres	O
+en	O
+un	O
+ambiente	O
+socio	O
+-	O
+familiar	O
+complicado	O
+.	O

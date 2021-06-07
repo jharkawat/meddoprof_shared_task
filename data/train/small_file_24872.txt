@@ -1,0 +1,15 @@
+
+En	O
+resumen	O
+,	O
+durante	O
+tres	O
+años	O
+sufre	O
+catatonías	O
+acinéticas	O
+con	O
+síntomas	O
+neurovegetativos	O
+acompañantes	O
+.	O

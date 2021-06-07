@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+recibió	O
+tratamiento	O
+con	O
+acetaminofén	O
+y	O
+amoxicilina	O
+,	O
+sin	O
+presentar	O
+mejoría	O
+.	O

@@ -1,0 +1,15 @@
+
+Serología	O
+:	O
+negativo	O
+a	O
+lúes	O
+,	O
+VIH	O
+,	O
+VHS	O
+,	O
+VEB	O
+y	O
+CMV	O
+.	O

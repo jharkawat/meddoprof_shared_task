@@ -1,0 +1,12 @@
+
+No	O
+hay	O
+historia	O
+familiar	O
+de	O
+enfermedades	O
+mentales	O
+en	O
+su	O
+familia	O
+.	O

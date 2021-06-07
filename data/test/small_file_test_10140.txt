@@ -1,0 +1,24 @@
+
+Tras	O
+esto	O
+,	O
+se	O
+puso	O
+de	O
+manifiesto	O
+que	O
+el	O
+paciente	O
+recibía	O
+tratamiento	O
+con	O
+R	O
+-	O
+CHOP	O
+más	O
+placebo	O
+,	O
+sin	O
+el	O
+antiangiogénico	O
+.	O

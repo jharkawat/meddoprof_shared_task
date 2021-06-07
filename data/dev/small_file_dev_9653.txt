@@ -1,0 +1,13 @@
+
+La	O
+culpa	O
+es	O
+de	O
+los	O
+Psiquiatras	B-PROFESION
+que	O
+no	O
+quieren	O
+ingresarme	O
+"	O
+.	O

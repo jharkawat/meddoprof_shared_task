@@ -1,0 +1,26 @@
+
+Tras	O
+un	O
+intervalo	O
+libre	O
+de	O
+enfermedad	O
+(	O
+ILE	O
+)	O
+de	O
+7	O
+meses	O
+,	O
+la	O
+paciente	O
+manifiesta	O
+astenia	O
+grado	O
+2	O
+y	O
+pérdida	O
+de	O
+5	O
+kg	O
+.	O

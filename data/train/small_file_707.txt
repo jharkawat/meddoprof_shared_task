@@ -1,0 +1,27 @@
+
+Se	O
+tomaron	O
+muestras	O
+que	O
+fueron	O
+cultivadas	O
+en	O
+tioglicolato	O
+,	O
+agar	O
+sangre	O
+y	O
+agar	O
+chocolate	O
+y	O
+,	O
+posteriormente	O
+,	O
+analizadas	O
+mediante	O
+un	O
+sistema	O
+BACTEC	O
+9240	O
+®	O
+.	O

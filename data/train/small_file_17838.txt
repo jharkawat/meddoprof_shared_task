@@ -1,0 +1,21 @@
+
+Está	O
+sudoroso	O
+y	O
+presenta	O
+desviación	O
+forzada	O
+de	O
+la	O
+mirada	O
+hacia	O
+la	O
+derecha	O
+con	O
+distonía	O
+cervical	O
+hacia	O
+el	O
+mismo	O
+lado	O
+.	O

@@ -1,0 +1,7 @@
+
+Signos	O
+degenerativos	O
+con	O
+numerosas	O
+protusiones	O
+.	O

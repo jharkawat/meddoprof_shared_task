@@ -1,0 +1,10 @@
+
+Aislamiento	O
+social	O
+parcial	O
+;	O
+escasa	O
+conciencia	O
+de	O
+enfermedad	O
+.	O

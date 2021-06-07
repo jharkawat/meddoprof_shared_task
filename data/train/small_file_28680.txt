@@ -1,0 +1,15 @@
+
+Síntomas	O
+negativos	O
+de	O
+embotamiento	O
+emocional	O
+,	O
+disminución	O
+de	O
+la	O
+capacidad	O
+hedónica	O
+y	O
+apatía	O
+.	O

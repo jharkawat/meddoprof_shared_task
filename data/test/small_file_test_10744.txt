@@ -1,0 +1,17 @@
+
+Varón	O
+de	O
+78	O
+años	O
+que	O
+acude	O
+por	O
+tumoración	O
+parotídea	O
+izquierda	O
+de	O
+un	O
+mes	O
+de	O
+evolución	O
+.	O

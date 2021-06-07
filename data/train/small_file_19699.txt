@@ -1,0 +1,14 @@
+
+REFERIDO	O
+POR	O
+:	O
+Afirma	O
+que	O
+llegó	O
+directamente	O
+al	O
+Hospital	O
+infantil	O
+universitario	O
+decaldas	O
+.	O

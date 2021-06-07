@@ -1,0 +1,9 @@
+
+Reingresa	O
+en	O
+la	O
+unidad	O
+de	O
+cuidados	O
+intensivos	O
+.	O

@@ -1,0 +1,9 @@
+
+Rituales	O
+obsesivos	O
+con	O
+lavado	O
+compulsivo	O
+de	O
+manos	O
+.	O

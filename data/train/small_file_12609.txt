@@ -1,0 +1,16 @@
+
+La	O
+cirugía	O
+Heart	O
+Port	O
+se	O
+lleva	O
+a	O
+cabo	O
+mediante	O
+abordaje	O
+por	O
+minitoracotomía	O
+anterior	O
+derecha	O
+.	O

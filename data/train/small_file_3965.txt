@@ -1,0 +1,18 @@
+
+En	O
+el	O
+curso	O
+de	O
+la	O
+entrevista	O
+se	O
+muestra	O
+deprimida	O
+y	O
+decaída	O
+,	O
+con	O
+tendencia	O
+al	O
+llanto	O
+.	O

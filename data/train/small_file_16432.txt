@@ -1,0 +1,6 @@
+
+Retirada	O
+del	O
+tratamiento	O
+previo	O
+.	O

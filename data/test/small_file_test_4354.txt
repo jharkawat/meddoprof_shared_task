@@ -1,0 +1,11 @@
+
+La	O
+PET	O
+posquirúrgica	O
+no	O
+es	O
+sospechosa	O
+de	O
+afectación	O
+ganglionar	O
+.	O

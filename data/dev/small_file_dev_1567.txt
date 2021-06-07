@@ -1,0 +1,19 @@
+
+Antecedentes	O
+personales	O
+:	O
+paciente	O
+de	O
+53	O
+años	O
+,	O
+soltero	O
+,	O
+menor	O
+de	O
+una	O
+fratría	O
+de	O
+2	O
+hermanos	O
+.	O

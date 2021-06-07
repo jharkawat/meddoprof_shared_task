@@ -1,0 +1,7 @@
+
+Lesiones	O
+nodulares	O
+en	O
+vidrio	O
+deslustrado	O
+.	O

@@ -1,0 +1,15 @@
+
+No	O
+lesiones	O
+similares	O
+en	O
+el	O
+resto	O
+de	O
+la	O
+superficie	O
+cutánea	O
+ni	O
+en	O
+mucosas	O
+.	O

@@ -1,0 +1,22 @@
+
+Ante	O
+estos	O
+hallazgos	O
+se	O
+solicita	O
+una	O
+tomografía	O
+computarizada	O
+(	O
+TC	O
+)	O
+de	O
+tórax	O
+y	O
+abdomen	O
+y	O
+se	O
+continúan	O
+los	O
+estudios	O
+.	O

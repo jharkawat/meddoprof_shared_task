@@ -1,0 +1,9 @@
+
+Ocupacionales	O
+:	O
+comerciante	B-PROFESION
+,	O
+actualmente	O
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+.	O

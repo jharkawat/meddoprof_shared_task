@@ -1,0 +1,27 @@
+
+En	O
+el	O
+año	O
+1989	O
+,	O
+a	O
+raíz	O
+de	O
+una	O
+ruptura	O
+sentimental	O
+surgen	O
+"	O
+ligeros	O
+trastornos	O
+conductuales	O
+"	O
+e	O
+inadaptaciones	O
+a	O
+la	O
+realidad	O
+de	O
+difícil	O
+valoración	O
+.	O

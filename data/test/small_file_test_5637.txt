@@ -1,0 +1,22 @@
+
+Tras	O
+estudio	O
+anatomopatológico	O
+,	O
+se	O
+confirma	O
+el	O
+diagnóstico	O
+de	O
+tumor	O
+de	O
+células	O
+gigantes	O
+del	O
+hueso	O
+con	O
+amplias	O
+zonas	O
+de	O
+necrosis	O
+.	O

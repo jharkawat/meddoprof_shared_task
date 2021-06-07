@@ -1,0 +1,24 @@
+
+Previamente	O
+al	O
+ingreso	O
+,	O
+la	O
+paciente	O
+acudió	O
+en	O
+tres	O
+ocasiones	O
+a	O
+Urgencias	O
+refiriendo	O
+múltiples	O
+hematomas	O
+en	O
+las	O
+extremidades	O
+junto	O
+con	O
+dolor	O
+abdominal	O
+.	O

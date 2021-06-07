@@ -1,0 +1,5 @@
+
+No	O
+tratamientos	O
+habituales	O
+.	O

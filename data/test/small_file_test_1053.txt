@@ -1,0 +1,5 @@
+
+Diagnóstico	O
+y	O
+tratamiento	O
+actual	O

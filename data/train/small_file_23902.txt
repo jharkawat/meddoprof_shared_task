@@ -1,0 +1,20 @@
+
+-	O
+Metástasis	O
+a	O
+nivel	O
+cerebral	O
+o	O
+en	O
+líquido	O
+cefalorraquídeo	O
+:	O
+diagnóstico	O
+que	O
+quedó	O
+descartado	O
+con	O
+el	O
+estudio	O
+orgánico	O
+.	O

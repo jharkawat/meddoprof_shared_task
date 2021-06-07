@@ -1,0 +1,13 @@
+
+Ante	O
+esto	O
+es	O
+remitido	O
+a	O
+Medicina	O
+Interna	O
+para	O
+continuar	O
+su	O
+estudio	O
+.	O

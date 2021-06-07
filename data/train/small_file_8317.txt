@@ -1,0 +1,26 @@
+
+Análisis	O
+:	O
+leucocitos	O
+13980	O
+(	O
+N12440	O
+)	O
+,	O
+resto	O
+de	O
+hemograma	O
+,	O
+coagulación	O
+,	O
+función	O
+renal	O
+,	O
+iones	O
+,	O
+perfil	O
+hepático	O
+y	O
+marcadores	O
+tumorales	O
+negativos	O

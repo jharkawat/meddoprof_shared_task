@@ -1,0 +1,18 @@
+
+No	O
+tenía	O
+animales	O
+domésticos	O
+,	O
+no	O
+vivía	O
+en	O
+área	O
+rural	O
+ni	O
+comentaba	O
+viajes	O
+recientes	O
+al	O
+extranjero	O
+.	O

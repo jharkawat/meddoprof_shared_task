@@ -1,0 +1,16 @@
+
+Su	O
+esposo	O
+,	O
+que	O
+era	O
+barrendero	B-PROFESION
+,	O
+consumía	O
+marihuana	O
+regularmente	O
+y	O
+tenía	O
+tuberculosis	O
+pulmonar	O
+.	O

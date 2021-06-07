@@ -1,0 +1,10 @@
+
+Antecedentes	O
+personales	O
+:	O
+no	O
+reacciones	O
+alérgicas	O
+medicamentosas	O
+conocidas	O
+.	O

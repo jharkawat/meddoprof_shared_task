@@ -1,0 +1,5 @@
+
+Padre	O
+vive	O
+sano	O
+.	O

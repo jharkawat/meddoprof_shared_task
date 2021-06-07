@@ -1,0 +1,24 @@
+
+-	O
+Líquido	O
+pleural	O
+:	O
+abundantes	O
+grupos	O
+celulares	O
+que	O
+podrían	O
+corresponder	O
+a	O
+mesotelio	O
+con	O
+marcados	O
+cambios	O
+reactivos	O
+,	O
+inflamatorios	O
+,	O
+de	O
+predominio	O
+linfocitario	O
+.	O

@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+se	O
+encuentra	O
+consciente	O
+,	O
+alerta	O
+y	O
+orientada	O
+en	O
+las	O
+3	O
+esferas	O
+.	O

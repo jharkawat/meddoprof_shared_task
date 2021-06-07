@@ -1,0 +1,19 @@
+
+Una	O
+vez	O
+en	O
+planta	O
+se	O
+amplían	O
+los	O
+estudios	O
+solicitando	O
+proteinograma	O
+y	O
+catecolaminas	O
+en	O
+orina	O
+con	O
+valores	O
+normales	O
+.	O

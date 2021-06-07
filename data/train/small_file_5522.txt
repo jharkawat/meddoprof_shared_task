@@ -1,0 +1,12 @@
+
+Nuestro	O
+paciente	O
+cuenta	O
+con	O
+un	O
+apoyo	O
+familiar	O
+y	O
+social	O
+pleno	O
+.	O

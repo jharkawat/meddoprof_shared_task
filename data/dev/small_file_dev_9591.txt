@@ -1,0 +1,23 @@
+
+Los	O
+padres	O
+le	O
+ingresan	O
+pequeñas	O
+cantidades	O
+de	O
+dinero	O
+,	O
+que	O
+utiliza	O
+mal	O
+,	O
+comprando	O
+"	O
+comida	O
+rápida	O
+"	O
+y	O
+objetos	O
+superfluos	O
+.	O

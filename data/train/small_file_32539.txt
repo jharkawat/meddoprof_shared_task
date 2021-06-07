@@ -1,0 +1,20 @@
+
+Coagulación	O
+:	O
+INR	O
+,	O
+1	O
+,	O
+58	O
+;	O
+TTPA	O
+,	O
+46	O
+,	O
+6	O
+segundos	O
+;	O
+fibrinógeno	O
+,	O
+550	O
+.	O

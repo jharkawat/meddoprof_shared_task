@@ -1,0 +1,23 @@
+
+Acude	O
+a	O
+Urgencias	O
+de	O
+nuestro	O
+Hospital	O
+una	O
+paciente	O
+de	O
+39	O
+an	O
+̃	O
+os	O
+por	O
+astenia	O
+,	O
+pérdida	O
+de	O
+peso	O
+e	O
+ictericia	O
+.	O

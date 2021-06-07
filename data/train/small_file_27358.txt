@@ -1,0 +1,7 @@
+
+Barítono	B-PROFESION
+y	O
+director	B-PROFESION
+de	I-PROFESION
+escena	I-PROFESION
+.	O

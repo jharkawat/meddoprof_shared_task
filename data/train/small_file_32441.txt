@@ -1,0 +1,20 @@
+
+Rendimiento	O
+académico	O
+aceptable	O
+,	O
+completó	O
+estudios	O
+de	O
+Bachillerato	O
+y	O
+de	O
+hostelería	O
+(	O
+Formación	O
+Profesional	O
+de	O
+grado	O
+superior	O
+)	O
+.	O

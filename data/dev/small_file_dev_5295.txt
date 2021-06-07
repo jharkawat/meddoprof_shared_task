@@ -1,0 +1,10 @@
+
+También	O
+se	O
+realizó	O
+sondaje	O
+vesical	O
+detectándose	O
+orinas	O
+anaranjadas	O
+.	O

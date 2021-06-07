@@ -1,0 +1,23 @@
+
+Fomentar	O
+la	O
+sociabilidad	O
+acompañando	O
+y	O
+supervisando	O
+la	O
+vinculación	O
+a	O
+un	O
+recurso	O
+terciario	O
+:	O
+voluntariado	B-ACTIVIDAD
+en	I-ACTIVIDAD
+un	I-ACTIVIDAD
+centro	I-ACTIVIDAD
+de	I-ACTIVIDAD
+acogida	I-ACTIVIDAD
+de	I-ACTIVIDAD
+animales	I-ACTIVIDAD
+.	O

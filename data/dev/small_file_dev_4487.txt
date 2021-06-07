@@ -1,0 +1,17 @@
+
+En	O
+su	O
+último	O
+laboratorio	O
+,	O
+hace	O
+5	O
+meses	O
+,	O
+presentaba	O
+una	O
+HbA1C	O
+de	O
+8	O
+%	O
+.	O

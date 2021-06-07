@@ -1,0 +1,24 @@
+
+Mujer	O
+de	O
+20	O
+años	O
+,	O
+con	O
+antecedentes	O
+de	O
+anorexia	O
+nerviosa	O
+y	O
+depresión	O
+de	O
+un	O
+año	O
+de	O
+evolución	O
+,	O
+en	O
+tratamiento	O
+con	O
+escitalopram	O
+.	O

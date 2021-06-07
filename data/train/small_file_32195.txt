@@ -1,0 +1,11 @@
+
+Antecedentes	O
+médicos	O
+:	O
+hipercolesterolemia	O
+en	O
+tratamiento	O
+farmacológico	O
+y	O
+ginecomastia	O
+.	O

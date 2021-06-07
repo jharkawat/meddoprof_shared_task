@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+fue	O
+dado	O
+de	O
+alta	O
+sin	O
+cefalea	O
+.	O

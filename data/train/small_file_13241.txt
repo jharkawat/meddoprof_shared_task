@@ -1,0 +1,22 @@
+
+Sin	O
+embargo	O
+,	O
+los	O
+mecanismos	O
+específicos	O
+por	O
+los	O
+cuales	O
+el	O
+veneno	O
+de	O
+Loxosceles	O
+ejerce	O
+estos	O
+síntomas	O
+nocivos	O
+son	O
+poco	O
+conocidos	O
+.	O

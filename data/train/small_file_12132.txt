@@ -1,0 +1,6 @@
+
+No	O
+soplos	O
+ni	O
+extratonos	O
+.	O

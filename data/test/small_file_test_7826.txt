@@ -1,0 +1,13 @@
+
+No	O
+hay	O
+presencia	O
+de	O
+lesiones	O
+ocupantes	O
+de	O
+espacio	O
+(	O
+LOE	O
+)	O
+.	O

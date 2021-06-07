@@ -1,0 +1,16 @@
+
+Antecedentes	O
+familiares	O
+:	O
+padre	O
+fallecido	O
+por	O
+suicidio	O
+consumado	O
+cuando	O
+el	O
+paciente	O
+tenía	O
+10	O
+años	O
+.	O

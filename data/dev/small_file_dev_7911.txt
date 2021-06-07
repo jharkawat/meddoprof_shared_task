@@ -1,0 +1,14 @@
+
+Dicha	O
+clínica	O
+le	O
+impedía	O
+el	O
+descanso	O
+nocturno	O
+y	O
+empeoraba	O
+con	O
+la	O
+movilización	O
+.	O

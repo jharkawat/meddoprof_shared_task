@@ -1,0 +1,10 @@
+
+Se	O
+solicita	O
+valoración	O
+urgente	O
+al	O
+neurólogo	B-PROFESION
+de	O
+guardia	O
+.	O

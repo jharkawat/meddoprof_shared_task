@@ -1,0 +1,8 @@
+
+A	O
+las	O
+48	O
+horas	O
+se	O
+negativizan	O
+.	O

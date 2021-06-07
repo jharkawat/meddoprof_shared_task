@@ -1,0 +1,7 @@
+
+No	O
+consume	O
+en	O
+la	O
+actualidad	O
+.	O

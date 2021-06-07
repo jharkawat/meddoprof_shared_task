@@ -1,0 +1,18 @@
+
+Hipotiroidismo	O
+gestacional	O
+durante	O
+su	O
+segundo	O
+embarazo	O
+(	O
+hace	O
+5	O
+años	O
+)	O
+,	O
+desde	O
+entonces	O
+sin	O
+tratamiento	O
+.	O

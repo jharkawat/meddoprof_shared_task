@@ -1,0 +1,25 @@
+
+También	O
+mencionar	O
+los	O
+ingresos	O
+múltiples	O
+que	O
+ha	O
+tenido	O
+en	O
+la	O
+Unidad	O
+de	O
+Hospitalización	O
+Breve	O
+con	O
+presencia	O
+de	O
+psicopatología	O
+,	O
+principalmente	O
+en	O
+contexto	O
+psicótico	O
+.	O

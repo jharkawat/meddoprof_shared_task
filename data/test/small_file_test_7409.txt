@@ -1,0 +1,26 @@
+
+Acude	O
+a	O
+la	O
+consulta	O
+un	O
+paciente	O
+varón	O
+de	O
+46	O
+años	O
+,	O
+caucásico	O
+,	O
+activo	B-SITUACION_LABORAL
+laboralmente	I-SITUACION_LABORAL
+,	O
+separado	O
+y	O
+con	O
+una	O
+hija	O
+de	O
+12	O
+años	O
+.	O

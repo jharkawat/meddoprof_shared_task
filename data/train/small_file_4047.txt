@@ -1,0 +1,25 @@
+
+Crema	O
+de	O
+Valerato	O
+de	O
+betametasona	O
+0	O
+.	O
+5	O
+mg	O
+/	O
+Clioquinol	O
+10	O
+mg	O
+/	O
+Sulfato	O
+de	O
+gentamicina	O
+1mg	O
+vía	O
+tópica	O
+para	O
+evitar	O
+sobreinfección	O
+.	O

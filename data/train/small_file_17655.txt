@@ -1,0 +1,17 @@
+
+Fue	O
+dado	O
+de	O
+alta	O
+con	O
+una	O
+cuadrantanopsia	O
+superior	O
+derecha	O
+como	O
+secuela	O
+y	O
+tratamiento	O
+con	O
+estatina	O
+.	O

@@ -1,0 +1,20 @@
+
+Los	O
+quistes	O
+presentaban	O
+paredes	O
+hiperreflectivas	O
+delgadas	O
+con	O
+contenido	O
+líquido	O
+hiporreflectivo	O
+,	O
+sugiriendo	O
+el	O
+diagnóstico	O
+de	O
+quistes	O
+primarios	O
+neuroepiteliales	O
+.	O

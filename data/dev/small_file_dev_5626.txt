@@ -1,0 +1,25 @@
+
+Primeramente	O
+había	O
+acudido	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+,	O
+quien	O
+le	O
+realizó	O
+una	O
+tira	O
+reactiva	O
+con	O
+resultado	O
+positivo	O
+para	O
+leucocitos	O
+en	O
+orina	O
+.	O

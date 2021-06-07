@@ -1,0 +1,19 @@
+
+Tuberculosis	O
+diseminada	O
+con	O
+afectación	O
+esplénica	O
+,	O
+pulmonar	O
+y	O
+ganglionar	O
+,	O
+en	O
+paciente	O
+con	O
+infección	O
+por	O
+el	O
+VIH	O
+.	O

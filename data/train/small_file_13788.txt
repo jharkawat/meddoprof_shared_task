@@ -1,0 +1,6 @@
+
+No	O
+refiere	O
+dolor	O
+torácico	O
+.	O

@@ -1,0 +1,22 @@
+
+Su	O
+droga	O
+de	O
+elección	O
+es	O
+la	O
+cocaina	O
+y	O
+le	O
+ha	O
+supuesto	O
+problemas	O
+legales	O
+en	O
+relación	O
+con	O
+la	O
+tenencia	O
+de	O
+drogas	O
+.	O

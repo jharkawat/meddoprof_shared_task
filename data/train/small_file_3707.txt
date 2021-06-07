@@ -1,0 +1,16 @@
+
+Anatomía	O
+Patológica	O
+:	O
+ganglios	O
+linfáticos	O
+con	O
+ocupación	O
+masiva	O
+por	O
+neoplasia	O
+de	O
+alto	O
+grado	O
+histológico	O
+.	O

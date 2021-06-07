@@ -1,0 +1,9 @@
+
+Su	O
+medicación	O
+consistía	O
+en	O
+sitagliptina	O
+y	O
+miglitol	O
+.	O

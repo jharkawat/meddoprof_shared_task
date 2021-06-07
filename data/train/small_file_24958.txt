@@ -1,0 +1,13 @@
+
+Histriónica	O
+,	O
+tiene	O
+miedo	O
+de	O
+perder	O
+el	O
+habla	O
+en	O
+cualquier	O
+momento	O
+.	O

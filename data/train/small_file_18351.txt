@@ -1,0 +1,11 @@
+
+Inicia	O
+tto	O
+con	O
+escitalopram	O
+10	O
+mg	O
+con	O
+mejoría	O
+parcial	O
+.	O

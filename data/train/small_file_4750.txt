@@ -1,0 +1,9 @@
+
+Actualmente	O
+a	O
+la	O
+espera	O
+de	O
+intervención	O
+quirúrgica	O
+.	O

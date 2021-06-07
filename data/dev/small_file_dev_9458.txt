@@ -1,0 +1,15 @@
+
+INTERCONSULTA	O
+A	O
+OFTALMOLOGÍA	O
+:	O
+Biomicroscopia	O
+AO	O
+cornea	O
+normal	O
+,	O
+cristalino	O
+trasparente	O
+y	O
+bien	O
+.	O

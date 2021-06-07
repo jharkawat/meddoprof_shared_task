@@ -1,0 +1,5 @@
+
+CVI	O
+levemente	O
+ensanchada	O
+.	O

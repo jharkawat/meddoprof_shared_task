@@ -1,0 +1,15 @@
+
+Se	O
+estableció	O
+el	O
+diagnostico	O
+sindrómico	O
+de	O
+pericarditis	O
+aguda	O
+y	O
+el	O
+paciente	O
+quedo	O
+ingresado	O
+.	O

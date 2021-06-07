@@ -1,0 +1,25 @@
+
+Durante	O
+este	O
+último	O
+año	O
+ha	O
+encadenado	O
+contratos	O
+mensuales	O
+,	O
+sin	O
+garantías	O
+de	O
+renovación	O
+al	O
+mes	O
+siguiente	O
+previa	O
+a	O
+la	O
+firma	O
+de	O
+dicho	O
+contrato	O
+.	O

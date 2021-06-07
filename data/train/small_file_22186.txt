@@ -1,0 +1,25 @@
+
+Considera	O
+que	O
+si	O
+hubiera	O
+realizado	O
+antes	O
+su	O
+tesis	O
+doctoral	O
+en	O
+lugar	O
+de	O
+dedicarse	O
+tanto	O
+a	O
+su	O
+familia	O
+,	O
+ahora	O
+ésta	O
+se	O
+lo	O
+agradecería	O
+.	O

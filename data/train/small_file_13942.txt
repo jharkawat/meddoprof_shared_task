@@ -1,0 +1,18 @@
+
+En	O
+la	O
+bioquímica	O
+destacó	O
+PCR	O
+11	O
+mg	O
+/	O
+dL	O
+,	O
+siendo	O
+el	O
+resto	O
+de	O
+los	O
+parámetrosnormales	O
+.	O

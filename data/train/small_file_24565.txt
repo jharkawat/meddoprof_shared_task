@@ -1,0 +1,21 @@
+
+Aunque	O
+la	O
+paciente	O
+atribuía	O
+estas	O
+verbalizaciones	O
+a	O
+su	O
+cuñado	O
+,	O
+impresiona	O
+que	O
+eran	O
+propias	O
+y	O
+dirigidas	O
+a	O
+su	O
+marido	O
+.	O

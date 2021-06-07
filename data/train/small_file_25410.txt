@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+estuvo	O
+en	O
+tratamiento	O
+con	O
+metadona	O
+y	O
+buprenorfina	O
+en	O
+Estados	O
+Unidos	O
+por	O
+su	O
+adicción	O
+a	O
+la	O
+heroína	O
+.	O

@@ -1,0 +1,18 @@
+
+Estaba	O
+en	O
+tratamiento	O
+crónico	O
+con	O
+omeprazol	O
+,	O
+olmesartán	O
+/	O
+hicroclorotiazida	O
+,	O
+simvastatina	O
+,	O
+clopidogrel	O
+e	O
+insulina	O
+.	O

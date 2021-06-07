@@ -1,0 +1,7 @@
+
+Fumador	O
+de	O
+6	O
+cigarrillos	O
+diarios	O
+.	O

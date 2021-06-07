@@ -1,0 +1,14 @@
+
+-	O
+Mamografía	O
+craneocaudal	O
+y	O
+oblicua	O
+bilateral	O
+:	O
+mama	O
+izquierda	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

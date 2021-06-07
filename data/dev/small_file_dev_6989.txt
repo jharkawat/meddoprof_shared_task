@@ -1,0 +1,25 @@
+
+En	O
+las	O
+revisiones	O
+ambulatorias	O
+posteriores	O
+se	O
+evidenció	O
+una	O
+franca	O
+mejoría	O
+de	O
+los	O
+quistes	O
+pulmonares	O
+con	O
+desaparición	O
+total	O
+de	O
+los	O
+mismos	O
+tras	O
+el	O
+tratamiento	O
+.	O

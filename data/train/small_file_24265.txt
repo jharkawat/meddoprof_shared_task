@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+relata	O
+que	O
+"	O
+el	O
+hospital	O
+me	O
+metió	O
+el	O
+VIH	O
+"	O
+.	O

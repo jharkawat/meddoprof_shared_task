@@ -1,0 +1,25 @@
+
+En	O
+el	O
+frotis	O
+de	O
+sangre	O
+periférica	O
+,	O
+células	O
+inmaduras	O
+con	O
+granulación	O
+basófila	O
+,	O
+granulocitos	O
+maduros	O
+degranulados	O
+,	O
+y	O
+algunas	O
+plaquetas	O
+grandes	O
+con	O
+seudonúcleo	O
+.	O

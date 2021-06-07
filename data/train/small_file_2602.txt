@@ -1,0 +1,15 @@
+
+Con	O
+la	O
+primera	O
+dosis	O
+presenta	O
+anafilaxia	O
+a	O
+las	O
+3	O
+,	O
+5h	O
+de	O
+administrarlo	O
+.	O

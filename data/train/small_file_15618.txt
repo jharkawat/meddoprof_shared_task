@@ -1,0 +1,14 @@
+
+Su	O
+hermana	O
+también	O
+está	O
+diagnosticada	O
+de	O
+DM1	O
+y	O
+es	O
+portadora	O
+de	O
+marcapasos	O
+.	O

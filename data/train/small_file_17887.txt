@@ -1,0 +1,8 @@
+
+Las	O
+pupilas	O
+eran	O
+simétricas	O
+y	O
+normorreactivas	O
+.	O

@@ -1,0 +1,25 @@
+
+Pulmones	O
+:	O
+Hipoventilados	O
+,	O
+murmullo	O
+vesicular	O
+disminuido	O
+en	O
+ambos	O
+campos	O
+pulmonares	O
+,	O
+sibilantes	O
+abundantes	O
+en	O
+ambos	O
+campos	O
+pulmonares	O
+,	O
+resonantes	O
+a	O
+la	O
+percusion	O
+.	O

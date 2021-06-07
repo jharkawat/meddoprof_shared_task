@@ -1,0 +1,10 @@
+
+LID	O
+1	O
+,	O
+3	O
+cm	O
+(	O
+ametabólica	O
+)	O
+.	O

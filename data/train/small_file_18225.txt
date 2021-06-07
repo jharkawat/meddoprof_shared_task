@@ -1,0 +1,26 @@
+
+3243	O
+A	O
+>	O
+G	O
+del	O
+tRNA	O
+(	O
+Leu	O
+)	O
+del	O
+mtDNA	O
+,	O
+compatible	O
+con	O
+una	O
+diabetes	O
+de	O
+herencia	O
+materna	O
+con	O
+sordera	O
+(	O
+MIDD	O
+)	O
+.	O

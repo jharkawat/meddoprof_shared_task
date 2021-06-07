@@ -1,0 +1,8 @@
+
+NOC	O
+:	O
+conocimiento	O
+:	O
+régimen	O
+terapéutico	O
+.	O

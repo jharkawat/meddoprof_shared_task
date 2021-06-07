@@ -1,0 +1,23 @@
+
+Pan	O
+-	O
+TNE	O
+grado	O
+2	O
+(	O
+ki67	O
+desconocido	O
+)	O
+estadio	O
+IV	O
+al	O
+diagnóstico	O
+en	O
+octubre	O
+2010	O
+por	O
+metástasis	O
+hepáticas	O
+y	O
+ganglionares	O
+.	O

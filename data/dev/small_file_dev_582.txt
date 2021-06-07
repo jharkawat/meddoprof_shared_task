@@ -1,0 +1,16 @@
+
+n	O
+Valproico	O
+:	O
+26	O
+(	O
+RN	O
+50	O
+-	O
+100	O
++	O
+/	O
+-	O
+20	O
+)	O
+.	O

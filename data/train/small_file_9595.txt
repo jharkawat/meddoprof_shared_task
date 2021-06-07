@@ -1,0 +1,21 @@
+
+También	O
+presentó	O
+dolor	O
+intenso	O
+en	O
+HI	O
+,	O
+con	O
+requerimiento	O
+de	O
+opiáceos	O
+en	O
+perfusión	O
+,	O
+en	O
+relación	O
+con	O
+distensión	O
+esplénica	O
+.	O

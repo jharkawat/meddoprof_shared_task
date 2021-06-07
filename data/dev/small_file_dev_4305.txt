@@ -1,0 +1,19 @@
+
+Datos	O
+clínicos	O
+:	O
+Preescolar	B-SITUACION_LABORAL
+de	O
+2	O
+años	O
+que	O
+estando	O
+previamente	O
+asintomático	O
+comienza	O
+con	O
+cefalea	O
+brusca	O
+y	O
+vómitos	O
+.	O

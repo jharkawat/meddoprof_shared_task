@@ -1,0 +1,22 @@
+
+Consulta	O
+por	O
+padecer	O
+desde	O
+hace	O
+más	O
+de	O
+ocho	O
+meses	O
+crisis	O
+de	O
+angustia	O
+en	O
+el	O
+momento	O
+de	O
+salir	O
+de	O
+su	O
+casa	O
+.	O

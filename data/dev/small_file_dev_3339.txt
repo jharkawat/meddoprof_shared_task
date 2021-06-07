@@ -1,0 +1,25 @@
+
+Es	O
+bueno	O
+aclarar	O
+que	O
+la	O
+madre	O
+,	O
+en	O
+todas	O
+las	O
+consultas	O
+,	O
+asumió	O
+el	O
+papel	O
+protagónico	O
+;	O
+la	O
+adolescente	O
+no	O
+emite	O
+criterio	O
+alguno	O
+.	O

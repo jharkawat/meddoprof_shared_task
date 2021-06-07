@@ -1,0 +1,15 @@
+
+El	O
+metabolismo	O
+del	O
+hierro	O
+muestra	O
+hiperferritinemia	O
+(	O
+Ferritina	O
+1280	O
+ng	O
+/	O
+ml	O
+)	O
+.	O

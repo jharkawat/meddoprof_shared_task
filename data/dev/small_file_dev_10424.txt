@@ -1,0 +1,17 @@
+
+Después	O
+de	O
+la	O
+secundaria	O
+estudió	O
+para	O
+ser	O
+enfermera	B-PROFESION
+y	O
+tuvo	B-PROFESION
+varios	I-PROFESION
+trabajos	I-PROFESION
+en	I-PROFESION
+salas	I-PROFESION
+geriátricas	I-PROFESION
+.	O

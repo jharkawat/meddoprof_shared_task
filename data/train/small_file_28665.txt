@@ -1,0 +1,23 @@
+
+Cuenta	O
+,	O
+además	O
+,	O
+que	O
+ha	O
+tenido	O
+que	O
+poner	O
+cerrojos	O
+en	O
+la	O
+puerta	O
+de	O
+su	O
+habitación	O
+por	O
+miedo	O
+a	O
+su	O
+hijo	O
+.	O

@@ -1,0 +1,13 @@
+
+No	O
+se	O
+palpan	O
+masas	O
+ni	O
+visceromegalias	O
+y	O
+el	O
+peristaltismo	O
+está	O
+conservado	O
+.	O

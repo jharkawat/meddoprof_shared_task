@@ -1,0 +1,10 @@
+
+Sin	O
+antecedentes	O
+familiares	O
+oncológicos	O
+ni	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

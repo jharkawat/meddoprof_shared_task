@@ -1,0 +1,17 @@
+
+Tratamiento	O
+actual	O
+:	O
+clozapina	O
+100	O
+mg	O
+por	O
+la	O
+mañana	O
+y	O
+200	O
+mg	O
+antes	O
+de	O
+acostarse	O
+.	O

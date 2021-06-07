@@ -1,0 +1,6 @@
+
+IgE	O
+especifica	O
+:	O
+pendiente	O
+.	O

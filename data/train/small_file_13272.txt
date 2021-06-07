@@ -1,0 +1,12 @@
+
+Frotis	O
+de	O
+sangre	O
+periférica	O
+que	O
+confirmaba	O
+linfopenia	O
+absoluta	O
+y	O
+anisocitosis	O
+.	O

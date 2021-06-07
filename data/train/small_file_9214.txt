@@ -1,0 +1,8 @@
+
+-	O
+EKG	O
+:	O
+FC	O
+a	O
+100lpm	O
+.	O

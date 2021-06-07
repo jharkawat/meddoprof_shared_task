@@ -1,0 +1,15 @@
+
+Intolerancia	O
+a	O
+la	O
+fructosa	O
+asociada	O
+a	O
+sangrados	O
+digestivos	O
+e	O
+intolerancia	O
+a	O
+la	O
+lactosa	O
+.	O

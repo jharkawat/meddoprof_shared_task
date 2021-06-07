@@ -1,0 +1,5 @@
+
+Orina	O
+no	O
+patológica	O
+.	O

@@ -1,0 +1,8 @@
+
+Exploración	O
+abdominal	O
+:	O
+Sin	O
+distensión	O
+abdominal	O
+.	O

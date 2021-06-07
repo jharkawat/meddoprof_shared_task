@@ -1,0 +1,13 @@
+
+Apgar	O
+familiar	O
+con	O
+una	O
+puntuación	O
+de	O
+10	O
+(	O
+familia	O
+normofuncionante	O
+)	O
+.	O

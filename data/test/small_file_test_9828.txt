@@ -1,0 +1,6 @@
+
+Ha	O
+trabajado	O
+de	O
+administrativo	B-PROFESION
+.	O

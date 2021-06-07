@@ -1,0 +1,14 @@
+
+Había	O
+sido	O
+fumador	O
+de	O
+10	O
+cigarrillos	O
+/	O
+día	O
+hasta	O
+hacía	O
+8	O
+años	O
+.	O

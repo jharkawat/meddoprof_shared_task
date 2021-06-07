@@ -1,0 +1,23 @@
+
+Se	O
+decide	O
+el	O
+cambio	O
+de	O
+tratamiento	O
+antipsicótico	O
+,	O
+de	O
+forma	O
+que	O
+se	O
+disminuye	O
+progresivamente	O
+la	O
+dosis	O
+oral	O
+y	O
+posteriormente	O
+la	O
+inyectable	O
+.	O

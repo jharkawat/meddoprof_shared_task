@@ -1,0 +1,26 @@
+
+Frecuentemente	O
+presentaba	O
+discineias	O
+orobucales	O
+,	O
+distonías	O
+,	O
+rigidez	O
+en	O
+rueda	O
+dentada	O
+,	O
+sialorrea	O
+,	O
+somnolencia	O
+excesiva	O
+con	O
+aturdimiento	O
+,	O
+mareos	O
+con	O
+caídas	O
+,	O
+etc	O
+.	O

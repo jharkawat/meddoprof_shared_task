@@ -1,0 +1,19 @@
+
+Además	O
+,	O
+tras	O
+el	O
+tratamiento	O
+con	O
+Interferon	O
+y	O
+Ribavirina	O
+la	O
+carga	O
+viral	O
+se	O
+ha	O
+confirmado	O
+como	O
+negativa	O
+.	O

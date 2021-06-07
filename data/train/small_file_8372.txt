@@ -1,0 +1,19 @@
+
+Descartamos	O
+esta	O
+posibilidad	O
+desde	O
+el	O
+principio	O
+pues	O
+el	O
+paciente	O
+no	O
+tomaba	O
+ninguna	O
+medicación	O
+al	O
+inicio	O
+del	O
+cuadro	O
+.	O

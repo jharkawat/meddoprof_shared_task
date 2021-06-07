@@ -1,0 +1,20 @@
+
+Un	O
+ingreso	O
+en	O
+noviembre	O
+2009	O
+en	O
+por	O
+ideas	O
+de	O
+suicidio	O
+y	O
+pensamientos	O
+obsesivos	O
+(	O
+hace	O
+dos	O
+meses	O
+)	O
+.	O

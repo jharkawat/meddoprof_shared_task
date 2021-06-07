@@ -1,0 +1,9 @@
+
+Edad	O
+:	O
+59	O
+años	O
+Sexo	O
+:	O
+M	O
+.	O

@@ -1,0 +1,23 @@
+
+Ambos	O
+hongos	O
+producen	O
+una	O
+infección	O
+indolente	O
+con	O
+cambios	O
+granulomatosos	O
+en	O
+la	O
+piel	O
+y	O
+tejido	O
+celular	O
+subcutáneo	O
+sin	O
+afectación	O
+ósea	O
+ni	O
+sistémica	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+se	O
+objetivaron	O
+sin	O
+embargo	O
+rasgos	O
+negativistas	O
+.	O

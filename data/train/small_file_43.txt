@@ -1,0 +1,23 @@
+
+Al	O
+sospechar	O
+infección	O
+por	O
+Mycoplasma	O
+pneumoniae	O
+,	O
+se	O
+recetó	O
+azitromicina	O
+a	O
+una	O
+dosis	O
+de	O
+500	O
+mg	O
+al	O
+día	O
+durante	O
+tres	O
+días	O
+.	O

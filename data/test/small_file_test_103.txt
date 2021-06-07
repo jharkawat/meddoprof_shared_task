@@ -1,0 +1,9 @@
+
+-	O
+neumopatías	O
+(	O
+tuberculosis	O
+pulmonar	O
+,	O
+asma	O
+)	O

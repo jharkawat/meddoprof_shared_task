@@ -1,0 +1,19 @@
+
+Por	O
+ello	O
+,	O
+se	O
+solicita	O
+una	O
+tomografía	O
+computarizada	O
+(	O
+TC	O
+)	O
+abdominal	O
+urgente	O
+para	O
+descartar	O
+complicaciones	O
+intraabdominales	O
+.	O

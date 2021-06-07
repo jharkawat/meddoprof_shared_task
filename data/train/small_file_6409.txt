@@ -1,0 +1,18 @@
+
+Los	O
+drenajes	O
+están	O
+limpios	O
+y	O
+la	O
+herida	O
+quirúrgica	O
+tiene	O
+buen	O
+aspecto	O
+,	O
+sin	O
+signos	O
+de	O
+infección	O
+.	O

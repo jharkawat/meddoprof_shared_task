@@ -1,0 +1,5 @@
+
+Alérgico	O
+al	O
+polen	O
+.	O

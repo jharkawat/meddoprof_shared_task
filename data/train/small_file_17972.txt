@@ -1,0 +1,22 @@
+
+Exploración	O
+Neurológica	O
+en	O
+la	O
+primera	O
+consulta	O
+de	O
+Neurología	O
+:	O
+Alerta	O
+,	O
+colaborador	O
+,	O
+bajo	O
+coeficiente	O
+intelectual	O
+,	O
+lenguaje	O
+tosco	O
+monosilábico	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+la	O
+auscultación	O
+,	O
+los	O
+tonos	O
+cardiacos	O
+eran	O
+rítmicos	O
+,	O
+sin	O
+soplos	O
+y	O
+el	O
+murmullo	O
+vesicular	O
+se	O
+encontraba	O
+conservado	O
+.	O

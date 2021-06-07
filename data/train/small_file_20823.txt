@@ -1,0 +1,10 @@
+
+Trastorno	O
+por	O
+Dependencia	O
+de	O
+Cannabis	O
+en	O
+remisión	O
+parcial	O
+.	O

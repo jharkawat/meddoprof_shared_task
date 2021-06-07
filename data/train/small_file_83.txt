@@ -1,0 +1,12 @@
+
+Una	O
+radiografía	O
+torácica	O
+mostró	O
+infiltrados	O
+parcheados	O
+bilaterales	O
+en	O
+ambos	O
+pulmones	O
+.	O

@@ -1,0 +1,22 @@
+
+ANTECEDENTES	O
+:	O
+Antecedentes	O
+patológicos	O
+y	O
+familiares	O
+:	O
+No	O
+Hábitos	O
+nocivos	O
+:	O
+niega	O
+tabaco	O
+,	O
+drogas	O
+o	O
+alcohol	O
+Contactos	O
+TBC	O
+:	O
+niega	O

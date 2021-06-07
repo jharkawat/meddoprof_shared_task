@@ -1,0 +1,12 @@
+
+Ambos	O
+padres	O
+divorciados	O
+cuando	O
+cuenta	O
+con	O
+3	O
+años	O
+de	O
+edad	O
+.	O

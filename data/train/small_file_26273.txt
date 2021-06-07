@@ -1,0 +1,20 @@
+
+Predominan	O
+los	O
+síntomas	O
+negativos	O
+,	O
+con	O
+un	O
+discurso	O
+empobrecido	O
+,	O
+un	O
+importante	O
+retraimiento	O
+social	O
+y	O
+el	O
+aplanamiento	O
+afectivo	O
+.	O

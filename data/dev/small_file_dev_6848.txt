@@ -1,0 +1,26 @@
+
+Mycobacterium	O
+tuberculosis	O
+sigue	O
+siendo	O
+uno	O
+de	O
+los	O
+agentes	O
+oportunistas	O
+que	O
+afecta	O
+con	O
+mayor	O
+frecuencia	O
+a	O
+pacientes	O
+con	O
+síndrome	O
+de	O
+inmunodeficiencia	O
+adquirida	O
+(	O
+SIDA	O
+)	O
+.	O

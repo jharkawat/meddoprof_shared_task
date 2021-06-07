@@ -1,0 +1,20 @@
+
+Fumadora	O
+de	O
+15	O
+cigarrillos	O
+/	O
+día	O
+hasta	O
+2011	O
+(	O
+historia	O
+tabáquica	O
+acumulada	O
+de	O
+23	O
+paquetes	O
+/	O
+año	O
+)	O
+.	O

@@ -1,0 +1,19 @@
+
+EXPLORACIÓN	O
+:	O
+Niño	O
+de	O
+4	O
+años	O
+que	O
+presenta	O
+dificultad	O
+para	O
+el	O
+lenguaje	O
+(	O
+compresión	O
+)	O
+,	O
+TDAH	O
+.	O

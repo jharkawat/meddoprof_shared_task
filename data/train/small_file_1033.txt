@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Aritz	O
+Bidaguren	O
+Urbieta	O
+NºCol	O
+:	O
+28	O
+28	O
+57898	O
+.	O

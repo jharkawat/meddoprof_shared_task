@@ -1,0 +1,18 @@
+
+Contactan	O
+con	O
+un	O
+centro	O
+de	O
+salud	O
+mental	O
+y	O
+un	O
+centro	O
+de	O
+atención	O
+a	O
+drogodependientes	O
+de	O
+zona	O
+.	O

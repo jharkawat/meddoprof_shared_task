@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+no	O
+recuerda	O
+esta	O
+etapa	O
+,	O
+tiene	O
+conocimiento	O
+de	O
+la	O
+misma	O
+a	O
+través	O
+de	O
+su	O
+familia	O
+;	O
+solo	O
+recuerda	O
+tratamiento	O
+con	O
+ansiolíticos	O
+.	O

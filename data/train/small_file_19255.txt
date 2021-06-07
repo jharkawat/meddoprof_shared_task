@@ -1,0 +1,23 @@
+
+Cuadro	O
+maníaco	O
+franco	O
+con	O
+pseudomanierismos	O
+y	O
+discurso	O
+inconexo	O
+,	O
+conductas	O
+extrañas	O
+,	O
+risas	O
+,	O
+insultos	O
+,	O
+tics	O
+faciales	O
+,	O
+rigidez	O
+muscular	O
+.	O

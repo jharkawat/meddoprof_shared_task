@@ -1,0 +1,11 @@
+
+Refiere	O
+que	O
+se	O
+iba	O
+de	O
+vacaciones	O
+a	O
+otro	O
+país	O
+.	O

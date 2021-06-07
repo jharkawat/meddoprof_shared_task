@@ -1,0 +1,20 @@
+
+No	O
+aparecen	O
+de	O
+cara	O
+a	O
+su	O
+alta	O
+hospitalaria	O
+contenidos	O
+delirantes	O
+en	O
+primer	O
+plano	O
+que	O
+repercutan	O
+en	O
+su	O
+comportamiento	O
+.	O

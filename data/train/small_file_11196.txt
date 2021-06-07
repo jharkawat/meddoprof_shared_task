@@ -1,0 +1,5 @@
+
+Niega	O
+dolor	O
+abdominal	O
+.	O

@@ -1,0 +1,26 @@
+
+A	O
+la	O
+inspección	O
+orofaríngea	O
+se	O
+apreciaba	O
+un	O
+abombamiento	O
+de	O
+la	O
+amígdala	O
+ipsilateral	O
+con	O
+protusión	O
+de	O
+la	O
+pared	O
+retrofaríngea	O
+,	O
+que	O
+comprometía	O
+la	O
+vía	O
+aérea	O
+.	O

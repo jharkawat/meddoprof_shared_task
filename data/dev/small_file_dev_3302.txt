@@ -1,0 +1,21 @@
+
+Se	O
+instaura	O
+tratamiento	O
+con	O
+Risperidona	O
+1	O
+,	O
+5	O
+mg	O
+/	O
+24	O
+horas	O
+con	O
+buena	O
+tolerancia	O
+y	O
+respuesta	O
+al	O
+mismo	O
+.	O

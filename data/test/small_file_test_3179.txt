@@ -1,0 +1,18 @@
+
+Lesiones	O
+focales	O
+hepáticas	O
+en	O
+los	O
+segmentos	O
+VI	O
+y	O
+VII	O
+de	O
+menos	O
+de	O
+2	O
+cm	O
+,	O
+hipodensas	O
+.	O

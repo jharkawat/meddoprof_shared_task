@@ -1,0 +1,14 @@
+
+Jubilado	B-SITUACION_LABORAL
+,	O
+trabajaba	B-PROFESION
+como	I-PROFESION
+marino	I-PROFESION
+mercante	I-PROFESION
+en	O
+máquinas	O
+con	O
+inhalación	O
+de	O
+humos	O
+.	O

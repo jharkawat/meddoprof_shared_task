@@ -1,0 +1,8 @@
+
+Hogar	O
+en	O
+malas	O
+condiciones	O
+de	O
+salubridad	O
+.	O

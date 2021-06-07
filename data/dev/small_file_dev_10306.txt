@@ -1,0 +1,10 @@
+
+En	O
+particular	O
+se	O
+preocupaba	O
+por	O
+su	O
+aptitud	O
+sexual	O
+.	O

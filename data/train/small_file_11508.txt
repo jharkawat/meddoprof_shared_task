@@ -1,0 +1,24 @@
+
+Natural	O
+de	O
+China	O
+,	O
+reside	O
+en	O
+Espan	O
+̃	O
+a	O
+desde	O
+hace	O
+quince	O
+an	O
+̃	O
+os	O
+;	O
+trabaja	O
+como	O
+responsable	B-PROFESION
+de	I-PROFESION
+una	I-PROFESION
+tienda	I-PROFESION
+.	O

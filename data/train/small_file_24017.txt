@@ -1,0 +1,19 @@
+
+Eduardo	O
+tiene	O
+45	O
+años	O
+y	O
+fue	O
+diagnosticado	O
+de	O
+Esquizofrenia	O
+Paranoide	O
+(	O
+EP	O
+)	O
+hace	O
+más	O
+de	O
+15	O
+.	O

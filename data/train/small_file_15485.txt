@@ -1,0 +1,15 @@
+
+La	O
+evaluación	O
+cardiovascular	O
+y	O
+electrocardiográfica	O
+sin	O
+contraindicaciones	O
+para	O
+el	O
+uso	O
+de	O
+antimoniales	O
+pentavalentes	O
+.	O

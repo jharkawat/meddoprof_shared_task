@@ -1,0 +1,25 @@
+
+En	O
+parte	O
+inferior	O
+de	O
+hilio	O
+derecho	O
+y	O
+en	O
+topografía	O
+del	O
+bronquio	O
+se	O
+observa	O
+una	O
+imagen	O
+de	O
+densidad	O
+metálica	O
+en	O
+relación	O
+a	O
+corona	O
+dentaria	O
+.	O

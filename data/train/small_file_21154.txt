@@ -1,0 +1,27 @@
+
+Al	O
+cabo	O
+de	O
+otras	O
+dos	O
+semanas	O
+retomó	B-SITUACION_LABORAL
+su	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+completo	O
+,	O
+y	O
+por	O
+último	O
+se	O
+recuperó	O
+totalmente	O
+y	O
+pudo	O
+trabajar	O
+como	O
+lo	O
+hacía	O
+con	O
+anterioridad	O
+.	O

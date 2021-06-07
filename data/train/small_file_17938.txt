@@ -1,0 +1,10 @@
+
+Foco	O
+contusivo	O
+hemorrágico	O
+de	O
+escasos	O
+milímetros	O
+frontal	O
+izquierdo	O
+.	O

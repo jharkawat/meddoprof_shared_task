@@ -1,0 +1,14 @@
+
+Pericarditis	O
+purulenta	O
+complicada	O
+con	O
+taponamiento	O
+debida	O
+a	O
+Streptococcus	O
+dysgalatiae	O
+spp	O
+.	O
+equisimilis	O
+.	O

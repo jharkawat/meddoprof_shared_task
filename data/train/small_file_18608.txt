@@ -1,0 +1,25 @@
+
+Se	O
+instaura	O
+tratamiento	O
+antitérmico	O
+y	O
+tratamiento	O
+antibiótico	O
+de	O
+amplio	O
+espectro	O
+pero	O
+la	O
+sobreinfección	O
+respiratoria	O
+resulta	O
+refractaria	O
+al	O
+tratamiento	O
+antibiótico	O
+falleciendo	O
+finalmente	O
+el	O
+paciente	O
+.	O

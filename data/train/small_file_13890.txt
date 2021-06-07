@@ -1,0 +1,15 @@
+
+El	O
+tratamiento	O
+de	O
+elección	O
+es	O
+la	O
+antibioterapia	O
+junto	O
+con	O
+el	O
+desbridamiento	O
+quirúrgico	O
+precoz	O
+.	O

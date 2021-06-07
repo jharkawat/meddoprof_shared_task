@@ -1,0 +1,23 @@
+
+Varón	O
+de	O
+38	O
+años	O
+de	O
+edad	O
+,	O
+acude	O
+a	O
+Urgencias	O
+de	O
+forma	O
+voluntaria	O
+y	O
+acompañado	O
+por	O
+su	O
+madre	O
+solicitando	O
+atención	O
+psiquiátrica	O
+.	O

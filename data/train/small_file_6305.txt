@@ -1,0 +1,11 @@
+
+Carga	O
+viral	O
+RNA	O
+VHC	O
+2450000	O
+(	O
+Positivo	O
+1b	O
+)	O
+.	O

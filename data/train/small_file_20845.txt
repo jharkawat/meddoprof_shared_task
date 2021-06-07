@@ -1,0 +1,12 @@
+
+Con	O
+ruidos	O
+pulmonares	O
+normales	O
+y	O
+peristalsis	O
+presentes	O
+a	O
+la	O
+auscultación	O
+.	O

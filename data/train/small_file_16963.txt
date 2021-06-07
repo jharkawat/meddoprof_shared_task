@@ -1,0 +1,18 @@
+
+A	O
+los	O
+15	O
+minutos	O
+comenzó	O
+con	O
+los	O
+signos	O
+y	O
+síntomas	O
+que	O
+motivaron	O
+su	O
+asistencia	O
+a	O
+Urgencias	O
+.	O

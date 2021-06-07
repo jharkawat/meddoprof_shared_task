@@ -1,0 +1,20 @@
+
+Hipertensión	O
+arterial	O
+en	O
+tratamiento	O
+farmacológico	O
+con	O
+enalapril	O
+20	O
+mg	O
+vía	O
+oral	O
+cada	O
+24	O
+horas	O
+desde	O
+septiembre	O
+de	O
+2009	O
+.	O

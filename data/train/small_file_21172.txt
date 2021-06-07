@@ -1,0 +1,25 @@
+
+Esto	O
+último	O
+le	O
+lleva	O
+a	O
+abandonar	B-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+Educación	I-SITUACION_LABORAL
+Secundaria	O
+Obligatoria	O
+para	O
+empezar	O
+un	O
+programa	O
+de	O
+Garantía	O
+Social	O
+donde	O
+también	O
+presenta	O
+problemas	O
+de	O
+conducta	O
+.	O

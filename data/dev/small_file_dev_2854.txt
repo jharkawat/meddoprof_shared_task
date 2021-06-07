@@ -1,0 +1,16 @@
+
+Ha	O
+abandonado	O
+tratamiento	O
+farmacológico	O
+y	O
+seguimiento	O
+por	O
+parte	O
+de	O
+la	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+.	O

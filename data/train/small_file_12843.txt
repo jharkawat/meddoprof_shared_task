@@ -1,0 +1,11 @@
+
+Se	O
+consiguió	O
+una	O
+estatura	O
+de	O
+1	O
+,	O
+38	O
+cm	O
+.	O

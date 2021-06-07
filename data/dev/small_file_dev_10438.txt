@@ -1,0 +1,12 @@
+
+Tiene	O
+cuatro	O
+hijos	O
+sanos	O
+-	O
+una	O
+mujer	O
+y	O
+tres	O
+varones	O
+.	O

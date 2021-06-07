@@ -1,0 +1,12 @@
+
+Un	O
+parto	O
+eutócico	O
+a	O
+término	O
+previo	O
+al	O
+tratamiento	O
+con	O
+hemodiálisis	O
+.	O

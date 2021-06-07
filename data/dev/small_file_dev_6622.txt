@@ -1,0 +1,25 @@
+
+Durante	O
+la	O
+intervención	O
+el	O
+paciente	O
+presentó	O
+una	O
+parada	O
+cardiorrespiratoria	O
+con	O
+reanimación	O
+cardiopulmonar	O
+avanzadas	O
+sin	O
+éxito	O
+,	O
+falleciendo	O
+el	O
+paciente	O
+a	O
+los	O
+30	O
+minutos	O
+.	O

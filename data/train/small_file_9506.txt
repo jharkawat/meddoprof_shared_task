@@ -1,0 +1,18 @@
+
+No	O
+ha	O
+presentado	O
+clínica	O
+respiratoria	O
+,	O
+abdominal	O
+,	O
+ni	O
+infecciosa	O
+,	O
+manteniéndose	O
+afebril	O
+en	O
+todo	O
+momento	O
+.	O

@@ -1,0 +1,16 @@
+
+Tras	O
+entrevista	O
+con	O
+la	O
+paciente	O
+y	O
+posteriormente	O
+con	O
+familiares	O
+,	O
+se	O
+decide	O
+nuevo	O
+ingreso	O
+.	O

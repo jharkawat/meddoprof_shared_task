@@ -1,0 +1,10 @@
+
+No	O
+crisis	O
+febriles	O
+ni	O
+antecedentes	O
+familiares	O
+de	O
+epilepsia	O
+.	O

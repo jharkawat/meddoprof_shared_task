@@ -1,0 +1,19 @@
+
+A	O
+pesar	O
+de	O
+poseer	O
+estudios	O
+superiores	O
+y	O
+hablar	O
+varios	O
+idiomas	O
+siempre	O
+ha	B-PROFESION
+desempeñado	I-PROFESION
+trabajos	I-PROFESION
+de	I-PROFESION
+baja	I-PROFESION
+cualificación	I-PROFESION
+.	O

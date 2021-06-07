@@ -1,0 +1,19 @@
+
+Menos	O
+frecuente	O
+,	O
+aunque	O
+a	O
+considerar	O
+en	O
+nuestro	O
+paciente	O
+,	O
+es	O
+la	O
+pericarditis	O
+tuberculosa	O
+(	O
+PTB	O
+)	O
+.	O

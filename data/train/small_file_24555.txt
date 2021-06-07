@@ -1,0 +1,24 @@
+
+La	O
+familia	O
+había	O
+detectado	O
+en	O
+la	O
+paciente	O
+"	O
+aumento	O
+de	O
+la	O
+energía	O
+"	O
+tras	O
+las	O
+sesiones	O
+,	O
+y	O
+comentarios	O
+sobre	O
+la	O
+reencarnación	O
+.	O

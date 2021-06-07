@@ -1,0 +1,14 @@
+
+Ha	O
+realizado	O
+tratamiento	O
+con	O
+carbamazepina	O
+,	O
+oxcarbazepina	O
+y	O
+topiramato	O
+,	O
+sin	O
+mejoría	O
+.	O

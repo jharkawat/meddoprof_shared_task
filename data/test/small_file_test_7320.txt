@@ -1,0 +1,19 @@
+
+La	O
+citología	O
+del	O
+líquido	O
+pleural	O
+es	O
+concluyente	O
+para	O
+adenocarcinoma	O
+,	O
+CK7	O
++	O
+,	O
+TTF	O
+-	O
+1	O
++	O
+.	O

@@ -1,0 +1,5 @@
+
+No	O
+tratamiento	O
+domiciliario	O
+.	O

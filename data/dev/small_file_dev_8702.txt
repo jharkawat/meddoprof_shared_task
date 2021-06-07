@@ -1,0 +1,11 @@
+
+Tras	O
+permanecer	O
+un	O
+mes	O
+en	O
+Rumanía	O
+regresa	O
+a	O
+España	O
+.	O

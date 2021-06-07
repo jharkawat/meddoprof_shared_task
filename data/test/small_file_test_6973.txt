@@ -1,0 +1,8 @@
+
+El	O
+dolor	O
+empeora	O
+con	O
+la	O
+ingesta	O
+.	O

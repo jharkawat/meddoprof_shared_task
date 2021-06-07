@@ -1,0 +1,16 @@
+
+No	O
+comprende	O
+las	O
+reglas	O
+básicas	O
+para	O
+participar	O
+con	O
+los	O
+otros	O
+en	O
+el	O
+juego	O
+coordinado	O
+.	O

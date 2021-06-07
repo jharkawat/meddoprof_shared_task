@@ -1,0 +1,17 @@
+
+Recibió	O
+esquema	O
+antibiótico	O
+con	O
+levofloxacina	O
+con	O
+mejoría	O
+de	O
+la	O
+tos	O
+y	O
+resolución	O
+del	O
+síndrome	O
+febril	O
+.	O

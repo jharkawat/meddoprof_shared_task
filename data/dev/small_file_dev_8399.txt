@@ -1,0 +1,14 @@
+
+Proteína	O
+C	O
+reactiva	O
+(	O
+PCR	O
+)	O
+63	O
+,	O
+57	O
+mg	O
+/	O
+l	O
+.	O

@@ -1,0 +1,24 @@
+
+La	O
+resonancia	O
+informa	O
+de	O
+cambios	O
+espondiloartrósicos	O
+con	O
+protrusiones	O
+discales	O
+a	O
+nivel	O
+L2	O
+-	O
+L3	O
+y	O
+L5	O
+-	O
+S1	O
+,	O
+sin	O
+otros	O
+hallazgos	O
+.	O

@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+sin	O
+adenopatías	O
+con	O
+orofaringe	O
+,	O
+piel	O
+y	O
+faneras	O
+normales	O
+.	O

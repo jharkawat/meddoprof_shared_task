@@ -1,0 +1,17 @@
+
+Evitaba	O
+ir	O
+a	O
+reuniones	O
+o	O
+fiestas	O
+porque	O
+tenía	O
+miedo	O
+a	O
+las	O
+críticas	O
+o	O
+al	O
+rechazo	O
+.	O

@@ -1,0 +1,10 @@
+
+Leve	O
+derrame	O
+pleural	O
+derecho	O
+no	O
+complicado	O
+ni	O
+organizado	O
+.	O

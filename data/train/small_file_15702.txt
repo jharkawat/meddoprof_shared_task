@@ -1,0 +1,23 @@
+
+Aripiprazol	O
+10	O
+mg	O
+en	O
+la	O
+cena	O
+,	O
+diazepam	O
+5	O
+mg	O
+en	O
+la	O
+cena	O
+y	O
+ácido	O
+valproico	O
+500	O
+mg	O
+cada	O
+8	O
+horas	O
+.	O

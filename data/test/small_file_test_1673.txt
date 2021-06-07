@@ -1,0 +1,26 @@
+
+Se	O
+realizó	O
+también	O
+un	O
+test	O
+de	O
+vitalidad	O
+donde	O
+se	O
+apreciaron	O
+signos	O
+de	O
+vitalidad	O
+positiva	O
+en	O
+2	O
+.	O
+1	O
+y	O
+negativa	O
+en	O
+1	O
+.	O
+1	O
+.	O

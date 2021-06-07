@@ -1,0 +1,9 @@
+
+de	O
+alprazolam	O
+retard	O
+diarios	O
+-	O
+y	O
+30mg	O
+.	O

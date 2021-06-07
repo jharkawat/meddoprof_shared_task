@@ -1,0 +1,21 @@
+
+Cuando	O
+en	O
+la	O
+segunda	O
+pregunto	O
+por	O
+algunos	O
+datos	O
+sobre	O
+los	O
+que	O
+tengo	O
+dudas	O
+expresa	O
+su	O
+disgusto	O
+y	O
+su	O
+enfado	O
+.	O

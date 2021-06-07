@@ -1,0 +1,10 @@
+
+Biopsia	O
+de	O
+arteria	O
+temporal	O
+izquierda	O
+sin	O
+alteraciones	O
+histológicas	O
+.	O

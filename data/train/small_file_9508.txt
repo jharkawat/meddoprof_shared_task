@@ -1,0 +1,23 @@
+
+A	O
+la	O
+exploración	O
+en	O
+consultas	O
+presenta	O
+buen	O
+estado	O
+general	O
+,	O
+está	O
+bien	O
+hidratada	O
+y	O
+perfundida	O
+,	O
+eupneica	O
+en	O
+reposo	O
+y	O
+afebril	O
+.	O

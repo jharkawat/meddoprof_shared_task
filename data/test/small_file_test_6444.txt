@@ -1,0 +1,17 @@
+
+Carcinoma	O
+ductal	O
+infiltrante	O
+de	O
+mama	O
+derecha	O
+estadio	O
+IV	O
+(	O
+metástasis	O
+pulmonares	O
+y	O
+óseas	O
+mútiples	O
+)	O
+.	O

@@ -1,0 +1,25 @@
+
+Si	O
+estudiamos	O
+los	O
+casos	O
+de	O
+fiebre	O
+en	O
+viajeros	O
+al	O
+regreso	O
+del	O
+trópico	O
+,	O
+el	O
+11	O
+%	O
+de	O
+ellos	O
+presentan	O
+clínica	O
+de	O
+infección	O
+respiratoria	O
+.	O

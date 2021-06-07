@@ -1,0 +1,5 @@
+
+Sin	O
+alergias	O
+medicamentosas	O
+.	O

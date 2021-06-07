@@ -1,0 +1,18 @@
+
+El	O
+dolor	O
+se	O
+ha	O
+ido	O
+incrementando	O
+progresivamente	O
+,	O
+realizando	O
+,	O
+en	O
+la	O
+actualidad	O
+,	O
+solamente	O
+marcha	O
+.	O

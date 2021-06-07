@@ -1,0 +1,12 @@
+
+Radiología	O
+simple	O
+de	O
+tórax	O
+con	O
+infiltrados	O
+intersticiales	O
+retículo	O
+nodular	O
+bilaterales	O
+.	O

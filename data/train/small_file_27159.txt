@@ -1,0 +1,6 @@
+
+Trastorno	O
+de	O
+ansiedad	O
+por	O
+separación	O

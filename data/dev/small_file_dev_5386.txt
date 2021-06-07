@@ -1,0 +1,22 @@
+
+A	O
+su	O
+llegada	O
+,	O
+no	O
+se	O
+aprecia	O
+focalidad	O
+neurológica	O
+alguna	O
+,	O
+si	O
+bien	O
+la	O
+sedación	O
+dificulta	O
+un	O
+mejor	O
+examen	O
+neurológico	O
+.	O

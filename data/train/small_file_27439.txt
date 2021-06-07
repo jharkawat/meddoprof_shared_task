@@ -1,0 +1,19 @@
+
+No	O
+es	O
+capaz	O
+de	O
+cambiar	O
+el	O
+criterio	O
+de	O
+decisión	O
+a	O
+pesar	O
+del	O
+feedback	O
+negativo	O
+sobre	O
+su	O
+ejecución	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+existen	O
+antecedentes	O
+de	O
+enfermedad	O
+neoplásica	O
+en	O
+la	O
+familia	O
+.	O

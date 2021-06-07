@@ -1,0 +1,15 @@
+
+-	O
+Trastornos	O
+por	O
+consumo	O
+de	O
+sustancias	O
+:	O
+no	O
+antecedentes	O
+,	O
+pruebas	O
+toxicológicas	O
+negativas	O
+.	O

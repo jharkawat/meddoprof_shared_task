@@ -1,0 +1,12 @@
+
+Leucocitos	O
+4	O
+,	O
+82	O
+x103	O
+/	O
+μl	O
+con	O
+fórmula	O
+normal	O
+.	O

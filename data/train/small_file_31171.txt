@@ -1,0 +1,21 @@
+
+Estudio	O
+EEG	O
+:	O
+registro	O
+EEG	O
+realizado	O
+en	O
+planta	O
+de	O
+Psiquiatría	O
+con	O
+gorro	O
+de	O
+electrodos	O
+en	O
+paciente	O
+consciente	O
+y	O
+colaboradora	O
+.	O

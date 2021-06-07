@@ -1,0 +1,24 @@
+
+Una	O
+RMN	O
+mostró	O
+una	O
+señal	O
+anómala	O
+bilateral	O
+en	O
+la	O
+sustancia	O
+blanca	O
+profunda	O
+,	O
+que	O
+podía	O
+indicar	O
+infartos	O
+de	O
+la	O
+zona	O
+marginal	O
+subcortical	O
+.	O

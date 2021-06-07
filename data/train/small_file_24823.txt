@@ -1,0 +1,15 @@
+
+Estudios	O
+primarios	O
+,	O
+trabajos	O
+eventuales	O
+cortos	O
+,	O
+en	O
+la	O
+actualidad	O
+está	O
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+.	O

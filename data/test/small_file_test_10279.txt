@@ -1,0 +1,25 @@
+
+Se	O
+inicia	O
+tratamiento	O
+tópico	O
+corticoide	O
+y	O
+antihistamínico	O
+y	O
+el	O
+paciente	O
+es	O
+remitido	O
+al	O
+servicio	O
+de	O
+Medicina	O
+Interna	O
+para	O
+estudio	O
+dado	O
+el	O
+cuadro	O
+constitucional	O
+.	O

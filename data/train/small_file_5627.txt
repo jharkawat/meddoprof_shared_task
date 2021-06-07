@@ -1,0 +1,10 @@
+
+Necrosis	O
+primera	O
+falange	O
+de	O
+2o	O
+dedo	O
+mano	O
+izquierda	O
+.	O

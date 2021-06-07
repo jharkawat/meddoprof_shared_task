@@ -1,0 +1,13 @@
+
+La	O
+biopsia	O
+rectal	O
+reveló	O
+un	O
+adenoma	O
+velloso	O
+con	O
+displasia	O
+epitelial	O
+severa	O
+.	O

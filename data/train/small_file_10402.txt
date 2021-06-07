@@ -1,0 +1,24 @@
+
+En	O
+el	O
+caso	O
+de	O
+nuestra	O
+paciente	O
+se	O
+optó	O
+por	O
+tratamiento	O
+con	O
+2	O
+gramos	O
+de	O
+mesalazina	O
+cada	O
+12	O
+horas	O
+con	O
+excelente	O
+respuesta	O
+clínica	O
+.	O

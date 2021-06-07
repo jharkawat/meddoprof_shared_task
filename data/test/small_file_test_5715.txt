@@ -1,0 +1,10 @@
+
+Tumor	O
+neuroendocrino	O
+grado	O
+2	O
+de	O
+íleon	O
+,	O
+estadio	O
+IV	O

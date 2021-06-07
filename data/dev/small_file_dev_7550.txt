@@ -1,0 +1,26 @@
+
+Se	O
+solicitan	O
+coprocultivo	O
+,	O
+toxina	O
+de	O
+Clostridium	O
+difficile	O
+y	O
+parásitos	O
+2	O
+tandas	O
+de	O
+3	O
+muestras	O
+recogidas	O
+a	O
+días	O
+alternos	O
+,	O
+siendo	O
+todos	O
+ellos	O
+negativos	O
+.	O

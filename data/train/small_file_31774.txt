@@ -1,0 +1,12 @@
+
+Ocupación	O
+de	O
+ambos	O
+senos	O
+maxilares	O
+y	O
+del	O
+seno	O
+esfenoidal	O
+derecho	O
+.	O

@@ -1,0 +1,9 @@
+
+Hemograma	O
+y	O
+coagulación	O
+:	O
+Sin	O
+alteraciones	O
+significativas	O
+.	O

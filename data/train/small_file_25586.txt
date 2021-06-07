@@ -1,0 +1,19 @@
+
+Manifestaba	O
+que	O
+el	O
+consumo	O
+de	O
+cocaína	O
+siempre	O
+había	O
+estado	O
+muy	O
+condicionado	O
+por	O
+su	O
+actividad	O
+y	O
+prácticas	O
+sexuales	O
+.	O

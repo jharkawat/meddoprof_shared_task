@@ -1,0 +1,13 @@
+
+No	O
+hábitos	O
+tóxicos	O
+,	O
+no	O
+medicación	O
+crónica	O
+,	O
+ambiente	O
+familiar	O
+adecuado	O
+.	O

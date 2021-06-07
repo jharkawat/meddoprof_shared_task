@@ -1,0 +1,9 @@
+
+Consumo	O
+perjudicial	O
+de	O
+alcohol	O
+y	O
+otros	O
+tóxicos	O
+.	O

@@ -1,0 +1,15 @@
+
+No	O
+obstante	O
+ante	O
+la	O
+ausencia	O
+de	O
+respuesta	O
+se	O
+decide	O
+consultar	O
+con	O
+Enfermedades	O
+Infecciosas	O
+.	O

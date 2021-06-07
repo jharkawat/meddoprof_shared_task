@@ -1,0 +1,12 @@
+
+VHB	O
+:	O
+AgHBs	O
+-	O
+,	O
+AcHBs	O
+-	O
+,	O
+AcHBc	O
++	O
+.	O

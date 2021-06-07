@@ -1,0 +1,27 @@
+
+En	O
+dicha	O
+exploración	O
+se	O
+evidencian	O
+múltiples	O
+zonas	O
+de	O
+hipocaptación	O
+de	O
+contraste	O
+intravenososo	O
+de	O
+forma	O
+triangular	O
+en	O
+ambos	O
+riñones	O
+y	O
+bazo	O
+que	O
+sugieren	O
+áreas	O
+de	O
+infarto	O
+.	O

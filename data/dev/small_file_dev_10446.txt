@@ -1,0 +1,23 @@
+
+Recordó	O
+haber	O
+tomado	O
+las	O
+primeras	O
+píldoras	O
+,	O
+no	O
+por	O
+una	O
+enfermedad	O
+específica	O
+sino	O
+por	O
+una	O
+indigestión	O
+y	O
+constipación	O
+de	O
+dos	O
+días	O
+.	O

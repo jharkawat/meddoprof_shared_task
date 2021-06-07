@@ -1,0 +1,23 @@
+
+No	O
+realiza	O
+tratamiento	O
+domiciliario	O
+de	O
+forma	O
+habitual	O
+,	O
+afirmando	O
+ser	O
+fumador	O
+ocasional	O
+y	O
+consumidor	O
+de	O
+bebidas	O
+alcohólicas	O
+los	O
+fines	O
+de	O
+semana	O
+.	O

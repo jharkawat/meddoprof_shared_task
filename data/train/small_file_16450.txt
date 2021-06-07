@@ -1,0 +1,16 @@
+
+Como	O
+antecedentes	O
+personales	O
+presentaba	O
+discopatía	O
+degenerativa	O
+L4	O
+-	O
+L5	O
+y	O
+cólicos	O
+nefríticos	O
+de	O
+repetición	O
+.	O

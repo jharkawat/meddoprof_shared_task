@@ -1,0 +1,16 @@
+
+Nunca	O
+tuvo	O
+gran	O
+apetito	O
+pero	O
+los	O
+últimos	O
+meses	O
+éste	O
+se	O
+había	O
+deteriorado	O
+mas	O
+aun	O
+.	O

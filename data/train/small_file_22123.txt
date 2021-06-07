@@ -1,0 +1,12 @@
+
+Al	O
+alta	O
+se	O
+le	O
+pautó	O
+un	O
+ISRS	O
+(	O
+Fluoxetina	O
+)	O
+.	O

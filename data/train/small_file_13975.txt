@@ -1,0 +1,15 @@
+
+Neurológico	O
+:	O
+Ausencia	O
+de	O
+focalidad	O
+motora	O
+,	O
+sensitiva	O
+,	O
+signos	O
+piramidales	O
+o	O
+cerebelosos	O
+.	O

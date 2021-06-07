@@ -1,0 +1,21 @@
+
+Tampoco	O
+ha	O
+tomado	O
+nuevos	O
+fármacos	O
+ni	O
+correlaciona	O
+comienzo	O
+de	O
+la	O
+clínica	O
+con	O
+esfuerzo	O
+o	O
+traumatismo	O
+craneoencefálico	O
+/	O
+craneofacial	O
+previo	O
+.	O

@@ -1,0 +1,26 @@
+
+Relación	O
+conyugal	O
+conservada	O
+y	O
+cohesionada	O
+,	O
+salvo	O
+leve	O
+complementariedad	O
+en	O
+relación	O
+a	O
+la	O
+contención	O
+del	O
+impacto	O
+de	O
+los	O
+síntomas	O
+conversivos	O
+en	O
+la	O
+dinámica	O
+cotidiana	O
+.	O

@@ -1,0 +1,17 @@
+
+Paciente	O
+de	O
+40	O
+años	O
+,	O
+boxeador	B-PROFESION
+profesional	I-PROFESION
+durante	O
+15	O
+años	O
+,	O
+actualmente	O
+portero	B-PROFESION
+de	I-PROFESION
+discoteca	I-PROFESION
+.	O

@@ -1,0 +1,15 @@
+
+Sin	O
+familiares	O
+cercanos	O
+,	O
+salvo	O
+una	O
+hermana	O
+,	O
+que	O
+vive	O
+en	O
+otra	O
+localidad	O
+.	O

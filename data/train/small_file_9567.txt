@@ -1,0 +1,5 @@
+
+Test	O
+Coombs	O
+positivo	O
+.	O

@@ -1,0 +1,24 @@
+
+Estado	O
+nutricional	O
+:	O
+Regular	O
+.	O
+Estado	O
+de	O
+Conciencia	O
+:	O
+Consciente	O
+,	O
+orientado	O
+en	O
+tiempo	O
+,	O
+espacio	O
+y	O
+persona	O
+.	O
+Cabeza	O
+:	O
+Normal	O
+.	O

@@ -1,0 +1,18 @@
+
+Gammapatía	O
+monoclonal	O
+de	O
+significado	O
+incierto	O
+con	O
+5	O
+%	O
+de	O
+células	O
+plasmáticas	O
+en	O
+control	O
+evolutivo	O
+por	O
+Hematología	O
+.	O

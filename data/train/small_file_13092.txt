@@ -1,0 +1,27 @@
+
+Dos	O
+días	O
+después	O
+del	O
+ingreso	O
+en	O
+UCI	O
+se	O
+opera	O
+bajo	O
+control	O
+radiológico	O
+se	O
+reduce	O
+la	O
+luxación	O
+C4	O
+-	O
+C5	O
+,	O
+consiguiendose	O
+una	O
+reducción	O
+casi	O
+total	O
+.	O

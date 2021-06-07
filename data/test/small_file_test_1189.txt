@@ -1,0 +1,18 @@
+
+Al	O
+inicio	O
+del	O
+cuadro	O
+,	O
+se	O
+le	O
+realizó	O
+una	O
+radiografía	O
+de	O
+tórax	O
+,	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

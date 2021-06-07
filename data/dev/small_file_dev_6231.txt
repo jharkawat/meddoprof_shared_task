@@ -1,0 +1,22 @@
+
+Otros	O
+animales	O
+relacionados	O
+con	O
+la	O
+esporotricosis	O
+son	O
+roedores	O
+(	O
+entre	O
+ellos	O
+ratas	O
+,	O
+ratones	O
+,	O
+ardillas	O
+)	O
+,	O
+y	O
+armadillos	O
+.	O

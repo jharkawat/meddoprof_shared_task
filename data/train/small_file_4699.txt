@@ -1,0 +1,10 @@
+
+La	O
+anatomía	O
+patológica	O
+muestra	O
+carcinoma	O
+epidermoide	O
+de	O
+lengua	O
+.	O

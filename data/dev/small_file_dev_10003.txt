@@ -1,0 +1,10 @@
+
+Después	O
+de	O
+una	O
+inyección	O
+intravenosa	O
+de	O
+20	O
+mg	O
+.	O

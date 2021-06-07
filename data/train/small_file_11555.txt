@@ -1,0 +1,25 @@
+
+Procedimos	O
+a	O
+la	O
+exploración	O
+física	O
+de	O
+la	O
+paciente	O
+,	O
+la	O
+cual	O
+no	O
+reveló	O
+ningún	O
+hallazgo	O
+patológico	O
+a	O
+excepción	O
+de	O
+una	O
+ligera	O
+ictericia	O
+conjuntival	O
+.	O

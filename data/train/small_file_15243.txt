@@ -1,0 +1,26 @@
+
+Su	O
+médico	B-PROFESION
+detecta	O
+eosinofilia	O
+e	O
+hipertransaminasemia	O
+y	O
+lo	O
+deriva	O
+al	O
+digestólogo	B-PROFESION
+,	O
+quien	O
+lo	O
+diagnostica	O
+de	O
+esteatosis	O
+hepática	O
+,	O
+recomendando	O
+pérdida	O
+ponderal	O
+y	O
+furosemida	O
+.	O

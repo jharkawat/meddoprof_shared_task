@@ -1,0 +1,17 @@
+
+Nuestra	O
+paciente	O
+vive	O
+con	O
+su	O
+hija	O
+de	O
+10	O
+años	O
+,	O
+quienes	O
+conforman	O
+el	O
+núcleo	O
+familiar	O
+.	O

@@ -1,0 +1,20 @@
+
+Se	O
+realiza	O
+biopsia	O
+-	O
+punch	O
+de	O
+4	O
+mm	O
+de	O
+lesión	O
+de	O
+cuarto	O
+espacio	O
+interdigital	O
+de	O
+la	O
+mano	O
+izquierda	O
+.	O

@@ -1,0 +1,12 @@
+
+Megadosis	O
+de	O
+corticoides	O
+seguidos	O
+de	O
+pauta	O
+descendente	O
+y	O
+anexectomía	O
+derecha	O
+.	O

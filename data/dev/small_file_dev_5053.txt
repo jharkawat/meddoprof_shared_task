@@ -1,0 +1,22 @@
+
+Estenosis	O
+de	O
+la	O
+aorta	O
+abdominal	O
+"	O
+en	O
+sacacorchos	O
+"	O
+,	O
+estenosis	O
+de	O
+la	O
+arteria	O
+mesentérica	O
+superior	O
+de	O
+aproximadamente	O
+2	O
+cm	O
+.	O

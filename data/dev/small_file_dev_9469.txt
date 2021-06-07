@@ -1,0 +1,14 @@
+
+Aorta	O
+torácica	O
+descendente	O
+y	O
+abdominal	O
+morfológicamente	O
+normal	O
+sin	O
+alteración	O
+en	O
+los	O
+flujos	O
+.	O

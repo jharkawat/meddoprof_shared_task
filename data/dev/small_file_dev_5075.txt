@@ -1,0 +1,12 @@
+
+Destacaba	O
+la	O
+existencia	O
+de	O
+una	O
+celulitis	O
+en	O
+el	O
+antebrazo	O
+izquierdo	O
+.	O

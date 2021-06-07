@@ -1,0 +1,7 @@
+
+La	O
+orientación	O
+temporal	O
+es	O
+baja	O
+.	O

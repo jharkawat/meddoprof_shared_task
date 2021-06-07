@@ -1,0 +1,17 @@
+
+Carcinoma	O
+anaplásico	O
+de	O
+células	O
+pequeñas	O
+de	O
+tipo	O
+mixto	O
+(	O
+células	O
+pequeñas	O
+/	O
+células	O
+grandes	O
+)	O
+.	O

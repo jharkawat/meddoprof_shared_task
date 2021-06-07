@@ -1,0 +1,27 @@
+
+Se	O
+realiza	O
+analítica	O
+con	O
+hemograma	O
+y	O
+bioquímica	O
+con	O
+resultados	O
+normales	O
+.	O
+Tóxicos	O
+en	O
+orina	O
+con	O
+resultados	O
+positivos	O
+a	O
+cannabis	O
+y	O
+benzodiacepinas	O
+.	O
+TAC	O
+sin	O
+alteraciones	O
+.	O

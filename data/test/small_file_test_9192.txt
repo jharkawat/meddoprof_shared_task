@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+fallece	O
+sin	O
+haber	O
+podido	O
+iniciar	O
+estudio	O
+de	O
+extensión	O
+ni	O
+obtener	O
+diagnóstico	O
+histológico	O
+.	O

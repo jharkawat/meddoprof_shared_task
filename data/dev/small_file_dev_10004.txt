@@ -1,0 +1,19 @@
+
+comenzó	O
+a	O
+sentirse	O
+bien	O
+,	O
+tuvo	O
+la	O
+sensación	O
+de	O
+sentirse	O
+todopoderoso	O
+y	O
+su	O
+sueño	O
+y	O
+cansancio	O
+desaparecieron	O
+.	O

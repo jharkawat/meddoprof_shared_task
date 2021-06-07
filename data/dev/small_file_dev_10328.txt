@@ -1,0 +1,13 @@
+
+Su	O
+estado	O
+de	O
+ánimo	O
+era	O
+neutral	O
+y	O
+tenía	O
+respuestas	O
+emocionales	O
+adecuadas	O
+.	O

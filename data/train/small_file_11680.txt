@@ -1,0 +1,26 @@
+
+Además	O
+del	O
+carcinoma	O
+de	O
+células	O
+renales	O
+,	O
+masas	O
+sólidas	O
+pueden	O
+representar	O
+metástasis	O
+de	O
+un	O
+tumor	O
+primario	O
+o	O
+una	O
+masa	O
+renal	O
+benigna	O
+,	O
+como	O
+son	O
+:	O

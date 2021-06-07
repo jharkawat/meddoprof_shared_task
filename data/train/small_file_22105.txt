@@ -1,0 +1,17 @@
+
+Lo	O
+que	O
+me	O
+fastidia	O
+es	O
+el	O
+tiempo	O
+que	O
+he	O
+perdido	O
+estos	O
+meses	O
+con	O
+los	O
+ataques	O
+.	O

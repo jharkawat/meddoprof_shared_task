@@ -1,0 +1,21 @@
+
+En	O
+este	O
+caso	O
+la	O
+paciente	O
+presentaba	O
+delirios	O
+y	O
+alucinaciones	O
+asociados	O
+a	O
+síntomas	O
+negativos	O
+,	O
+clínica	O
+más	O
+compatible	O
+con	O
+esquizofrenia	O
+.	O

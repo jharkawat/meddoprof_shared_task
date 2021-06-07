@@ -1,0 +1,12 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+no	O
+se	O
+observan	O
+déficits	O
+ni	O
+alteraciones	O
+.	O

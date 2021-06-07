@@ -1,0 +1,9 @@
+
+Hace	O
+la	O
+pinza	O
+con	O
+la	O
+mano	O
+izda	O
+.	O

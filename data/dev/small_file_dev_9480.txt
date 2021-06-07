@@ -1,0 +1,13 @@
+
+Ventrículo	O
+derecho	O
+(	O
+VD	O
+)	O
+no	O
+dilatado	O
+,	O
+función	O
+sistólica	O
+normal	O
+.	O

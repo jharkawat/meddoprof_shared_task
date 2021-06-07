@@ -1,0 +1,23 @@
+
+Se	O
+evidencia	O
+un	O
+pene	O
+fláccido	O
+con	O
+un	O
+gran	O
+corte	O
+transversal	O
+en	O
+la	O
+unión	O
+del	O
+tercio	O
+proximal	O
+con	O
+los	O
+dos	O
+tercios	O
+distales	O
+.	O

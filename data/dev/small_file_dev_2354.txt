@@ -1,0 +1,21 @@
+
+Se	O
+realizaron	O
+analíticas	O
+de	O
+control	O
+con	O
+resultados	O
+dentro	O
+de	O
+la	O
+normalidad	O
+y	O
+niveles	O
+de	O
+clozapina	O
+487	O
+ng	O
+/	O
+ml	O
+.	O

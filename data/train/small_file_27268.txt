@@ -1,0 +1,16 @@
+
+Se	O
+aconseja	O
+seguimiento	O
+por	O
+parte	O
+de	O
+Medicina	O
+Interna	O
+y	O
+no	O
+se	O
+pauta	O
+ningún	O
+tratamiento	O
+.	O

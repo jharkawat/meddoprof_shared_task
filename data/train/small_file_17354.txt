@@ -1,0 +1,8 @@
+
+Quistes	O
+de	O
+Giardia	O
+positivos	O
+en	O
+heces	O
+.	O

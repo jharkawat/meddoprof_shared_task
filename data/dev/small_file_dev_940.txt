@@ -1,0 +1,12 @@
+
+Padres	O
+separados	O
+,	O
+vive	O
+de	O
+manera	O
+alterna	O
+con	O
+ambos	O
+progenitores	O
+.	O

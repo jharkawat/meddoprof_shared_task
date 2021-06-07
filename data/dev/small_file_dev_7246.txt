@@ -1,0 +1,24 @@
+
+Al	O
+ser	O
+revisado	O
+en	O
+la	O
+consulta	O
+de	O
+Infecciosos	O
+,	O
+se	O
+inicia	O
+tratamiento	O
+con	O
+praziquantel	O
+1400	O
+mg	O
+cada	O
+8	O
+horas	O
+durante	O
+1	O
+día	O
+.	O

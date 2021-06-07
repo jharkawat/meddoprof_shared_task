@@ -1,0 +1,21 @@
+
+Aunque	O
+no	O
+suele	O
+asociar	O
+discapacidad	O
+intelectual	O
+moderada	O
+,	O
+un	O
+porcentaje	O
+bajo	O
+puede	O
+tener	O
+retraso	O
+psicomotor	O
+y	O
+dificultades	O
+de	O
+aprendizaje	O
+.	O

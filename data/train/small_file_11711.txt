@@ -1,0 +1,27 @@
+
+La	O
+auscultación	O
+indica	O
+un	O
+ritmo	O
+cardíaco	O
+de	O
+116	O
+lpm	O
+,	O
+y	O
+la	O
+respiratoria	O
+,	O
+disminución	O
+generalizada	O
+del	O
+murmullo	O
+vesicular	O
+que	O
+queda	O
+abolido	O
+en	O
+base	O
+derecha	O
+.	O

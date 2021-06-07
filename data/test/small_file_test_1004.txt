@@ -1,0 +1,7 @@
+
+Edad	O
+17	O
+:	O
+Empiezaa	B-SITUACION_LABORAL
+trabajar	I-SITUACION_LABORAL
+.	O

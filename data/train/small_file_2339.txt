@@ -1,0 +1,10 @@
+
+Patrón	O
+1	O
+:	O
+Mantenimiento	O
+-	O
+Percepción	O
+de	O
+la	O
+Salud	O

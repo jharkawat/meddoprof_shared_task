@@ -1,0 +1,8 @@
+
+El	O
+paciente	O
+presentaba	O
+regular	O
+estado	O
+general	O
+.	O

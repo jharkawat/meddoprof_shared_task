@@ -1,0 +1,9 @@
+
+Resto	O
+de	O
+estudio	O
+sin	O
+hallazgos	O
+de	O
+interés	O
+.	O

@@ -1,0 +1,12 @@
+
+La	O
+auscultación	O
+cardíaca	O
+y	O
+pulmonar	O
+quedan	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

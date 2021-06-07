@@ -1,0 +1,10 @@
+
+Los	O
+síntomas	O
+alucinatorios	O
+se	O
+atenuaron	O
+de	O
+manera	O
+ostensible	O
+.	O

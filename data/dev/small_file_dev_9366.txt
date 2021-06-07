@@ -1,0 +1,25 @@
+
+En	O
+el	O
+esqueleto	O
+apendicular	O
+las	O
+lesiones	O
+habituales	O
+son	O
+metafisarias	O
+o	O
+diafisarias	O
+,	O
+radiolúcidas	O
+,	O
+bien	O
+definidas	O
+y	O
+frecuentemente	O
+delimitadas	O
+por	O
+un	O
+halo	O
+escleroso	O
+.	O

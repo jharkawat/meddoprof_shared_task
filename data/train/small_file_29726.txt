@@ -1,0 +1,14 @@
+
+Psicopatológicamente	O
+no	O
+hubo	O
+mejoría	O
+relevante	O
+global	O
+,	O
+pero	O
+mejoró	O
+parcialmente	O
+la	O
+psicomotricidad	O
+.	O

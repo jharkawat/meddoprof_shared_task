@@ -1,0 +1,19 @@
+
+Sin	O
+embargo	O
+,	O
+posteriormente	O
+al	O
+mes	O
+de	O
+vacaciones	O
+"	O
+vuelve	O
+al	O
+ostracismo	O
+"	O
+cada	O
+año	O
+más	O
+acentuado	O
+.	O

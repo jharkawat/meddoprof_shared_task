@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+se	O
+muestra	O
+en	O
+consulta	O
+receloso	O
+de	O
+la	O
+derivación	O
+.	O

@@ -1,0 +1,17 @@
+
+En	O
+el	O
+frotis	O
+realizado	O
+se	O
+observaban	O
+eosinófilos	O
+maduros	O
+,	O
+por	O
+lo	O
+que	O
+descartamos	O
+tumores	O
+hematológicos	O
+.	O

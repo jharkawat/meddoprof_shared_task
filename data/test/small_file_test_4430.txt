@@ -1,0 +1,10 @@
+
+Tumor	O
+miofibroblástico	O
+inflamatorio	O
+,	O
+también	O
+llamado	O
+pseudotumor	O
+inflamatorio	O
+.	O

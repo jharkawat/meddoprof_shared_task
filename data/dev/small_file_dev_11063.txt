@@ -1,0 +1,7 @@
+
+Campos	O
+Pulmonares	O
+:	O
+sin	O
+particularidad	O
+.	O

@@ -1,0 +1,13 @@
+
+Acude	O
+de	O
+manera	O
+ocasional	O
+a	O
+un	O
+fisioterapeuta	B-PROFESION
+para	O
+aliviar	O
+los	O
+dolores	O
+.	O

@@ -1,0 +1,19 @@
+
+El	O
+rendimiento	O
+cognitivo	O
+se	O
+sitúa	O
+en	O
+un	O
+rango	O
+medio	O
+-	O
+bajo	O
+en	O
+comparación	O
+con	O
+su	O
+grupo	O
+normativo	O
+.	O

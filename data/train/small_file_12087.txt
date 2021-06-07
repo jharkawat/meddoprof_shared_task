@@ -1,0 +1,7 @@
+
+Hipertensión	O
+arterial	O
+(	O
+HTA	O
+)	O
+.	O

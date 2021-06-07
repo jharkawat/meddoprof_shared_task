@@ -1,0 +1,11 @@
+
+Se	O
+cursa	O
+el	O
+ingreso	O
+con	O
+carácter	O
+jurídico	O
+de	O
+involuntariedad	O
+.	O

@@ -1,0 +1,10 @@
+
+Presentaba	O
+el	O
+hábito	O
+de	O
+ingerir	O
+agua	O
+no	O
+potable	O
+.	O

@@ -1,0 +1,10 @@
+
+Adenocarcinoma	O
+de	O
+pulmón	O
+no	O
+mutado	O
+,	O
+estadio	O
+IIIb	O
+.	O

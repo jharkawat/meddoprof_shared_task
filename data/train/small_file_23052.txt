@@ -1,0 +1,27 @@
+
+Padre	O
+operado	O
+de	O
+úlcera	O
+gástrica	O
+;	O
+madre	O
+con	O
+alergias	O
+múltiples	O
+con	O
+crisis	O
+asmáticas	O
+y	O
+síntomas	O
+dermatológicos	O
+de	O
+toda	O
+la	O
+vida	O
+;	O
+hermana	O
+sana	O
+,	O
+independiente	O
+.	O

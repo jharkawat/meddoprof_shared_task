@@ -1,0 +1,10 @@
+
+La	O
+lesión	O
+mesentérica	O
+también	O
+presenta	O
+un	O
+diámetro	O
+inferior	O
+.	O

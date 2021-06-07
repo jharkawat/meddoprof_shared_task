@@ -1,0 +1,18 @@
+
+Tiene	O
+dos	O
+hijos	O
+,	O
+y	O
+convive	O
+con	O
+uno	O
+de	O
+ellos	O
+,	O
+una	O
+chica	O
+de	O
+15	O
+años	O
+.	O

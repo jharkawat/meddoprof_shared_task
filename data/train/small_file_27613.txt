@@ -1,0 +1,16 @@
+
+Parto	O
+pretérmino	O
+a	O
+las	O
+34	O
+semanas	O
+por	O
+cesárea	O
+debido	O
+a	O
+presentación	O
+podálica	O
+y	O
+sangrado	O
+.	O

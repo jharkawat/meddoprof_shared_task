@@ -1,0 +1,17 @@
+
+Gradualmente	O
+se	O
+volvió	O
+ansiosa	O
+e	O
+irascible	O
+,	O
+y	O
+varias	O
+veces	O
+dio	O
+parte	O
+a	O
+lo	O
+policía	B-PROFESION
+.	O

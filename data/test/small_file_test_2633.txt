@@ -1,0 +1,18 @@
+
+-	O
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+de	O
+ingreso	O
+no	O
+se	O
+aprecian	O
+infiltrados	O
+alveolares	O
+ni	O
+otras	O
+alteraciones	O
+.	O

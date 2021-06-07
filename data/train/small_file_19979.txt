@@ -1,0 +1,17 @@
+
+Se	O
+le	O
+efectuó	O
+una	O
+tomografía	O
+computarizada	O
+(	O
+TAC	O
+)	O
+de	O
+cráneo	O
+que	O
+también	O
+resultó	O
+normal	O
+.	O

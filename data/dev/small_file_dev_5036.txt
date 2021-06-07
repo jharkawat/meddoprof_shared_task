@@ -1,0 +1,27 @@
+
+Paciente	O
+varón	O
+de	O
+60	O
+años	O
+que	O
+consulta	O
+por	O
+dolor	O
+lumbar	O
+derecho	O
+irradiado	O
+a	O
+abdomen	O
+acompañado	O
+de	O
+hematuria	O
+,	O
+en	O
+varias	O
+ocasiones	O
+en	O
+diversos	O
+centros	O
+hospitalarios	O
+.	O

@@ -1,0 +1,8 @@
+
+Heces	O
+Fecales	O
+,	O
+cituria	O
+:	O
+negativas	O
+.	O

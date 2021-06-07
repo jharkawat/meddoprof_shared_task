@@ -1,0 +1,19 @@
+
+Presentó	O
+encefalopatía	O
+grado	O
+2	O
+secundaria	O
+a	O
+ifosfamida	O
+no	O
+relacionada	O
+con	O
+otra	O
+medicación	O
+concomitante	O
+,	O
+que	O
+se	O
+resolvió	O
+.	O

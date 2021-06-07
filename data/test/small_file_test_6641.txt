@@ -1,0 +1,15 @@
+
+Náuseas	O
+con	O
+dos	O
+episodios	O
+de	O
+vómitos	O
+alimenticios	O
+,	O
+sin	O
+otros	O
+hallazgos	O
+de	O
+interés	O
+.	O

@@ -1,0 +1,18 @@
+
+Desde	O
+entonces	O
+el	O
+paciente	O
+no	B-SITUACION_LABORAL
+ha	I-SITUACION_LABORAL
+tenido	I-SITUACION_LABORAL
+otro	I-SITUACION_LABORAL
+empleo	I-SITUACION_LABORAL
+ni	O
+relaciones	O
+de	O
+pareja	O
+o	O
+amistad	O
+significativas	O
+.	O

@@ -1,0 +1,18 @@
+
+Eje	O
+I	O
+:	O
+Vivencia	O
+de	O
+la	O
+enfermedad	O
+,	O
+características	O
+de	O
+la	O
+situación	O
+actual	O
+y	O
+prerrequisitos	O
+del	O
+tratamiento	O

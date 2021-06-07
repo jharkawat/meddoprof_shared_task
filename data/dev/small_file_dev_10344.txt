@@ -1,0 +1,17 @@
+
+Tuvo	O
+tres	O
+hijos	O
+que	O
+se	O
+quedaron	O
+con	O
+su	O
+mamá	O
+cuando	O
+él	O
+se	O
+fue	O
+a	O
+Kuwait	O
+.	O

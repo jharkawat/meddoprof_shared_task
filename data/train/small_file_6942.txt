@@ -1,0 +1,17 @@
+
+No	O
+se	O
+observaron	O
+depósitos	O
+en	O
+la	O
+inmunofluorescencia	O
+directa	O
+frente	O
+a	O
+inmunoglobulinas	O
+,	O
+fibrinógeno	O
+y	O
+complemento	O
+.	O

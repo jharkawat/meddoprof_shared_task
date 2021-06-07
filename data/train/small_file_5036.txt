@@ -1,0 +1,20 @@
+
+Además	O
+presenta	O
+múltiples	O
+lesiones	O
+secundarias	O
+a	O
+daño	O
+solar	O
+en	O
+la	O
+espalda	O
+que	O
+al	O
+aspecto	O
+macro	O
+impresionan	O
+de	O
+lentigos	O
+.	O

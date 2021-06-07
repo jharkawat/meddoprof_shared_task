@@ -1,0 +1,4 @@
+
+Padres	O
+divorciados	O
+.	O

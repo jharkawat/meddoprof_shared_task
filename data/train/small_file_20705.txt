@@ -1,0 +1,26 @@
+
+Paciente	O
+de	O
+38	O
+años	O
+de	O
+edad	O
+que	O
+acude	O
+a	O
+revisión	O
+en	O
+Consultas	O
+de	O
+Enfermedades	O
+Infecciosas	O
+refiriendo	O
+deterioro	O
+de	O
+memoria	O
+en	O
+los	O
+dos	O
+últimos	O
+meses	O
+.	O

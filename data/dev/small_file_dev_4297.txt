@@ -1,0 +1,10 @@
+
+Se	O
+solicita	O
+Rx	O
+y	O
+RM	O
+de	O
+rodilla	O
+derecha	O
+.	O

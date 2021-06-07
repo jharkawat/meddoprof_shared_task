@@ -1,0 +1,7 @@
+
+Se	O
+sospecha	O
+trombosis	O
+venosa	O
+cerebral	O
+.	O

@@ -1,0 +1,22 @@
+
+Ningún	O
+antipsicótico	O
+fue	O
+de	O
+utilidad	O
+en	O
+nuestro	O
+paciente	O
+llegando	O
+al	O
+límite	O
+de	O
+impresionar	O
+de	O
+estar	O
+instaurándose	O
+un	O
+grave	O
+defecto	O
+psicótico	O
+.	O

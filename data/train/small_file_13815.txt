@@ -1,0 +1,27 @@
+
+En	O
+las	O
+formas	O
+malignas	O
+,	O
+el	O
+mesotelioma	O
+pericárdico	O
+y	O
+los	O
+sarcomas	O
+son	O
+los	O
+más	O
+frecuentes	O
+dentro	O
+de	O
+su	O
+rareza	O
+y	O
+el	O
+pronóstico	O
+suele	O
+ser	O
+incierto	O
+.	O

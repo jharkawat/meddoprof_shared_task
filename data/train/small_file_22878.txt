@@ -1,0 +1,15 @@
+
+Cursó	B-SITUACION_LABORAL
+los	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+básicos	I-SITUACION_LABORAL
+sin	O
+dificultad	O
+y	O
+bien	O
+adaptada	O
+en	O
+el	O
+ámbito	O
+escolar	O
+.	O

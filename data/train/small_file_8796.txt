@@ -1,0 +1,19 @@
+
+Ecocardiograma	O
+:	O
+Ventrículo	O
+izquierdo	O
+no	O
+dilatado	O
+,	O
+no	O
+hipertrófico	O
+,	O
+con	O
+función	O
+sistólica	O
+global	O
+y	O
+segmentaria	O
+normal	O
+.	O

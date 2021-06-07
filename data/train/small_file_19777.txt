@@ -1,0 +1,5 @@
+
+No	O
+crisis	O
+convulsivas	O
+.	O

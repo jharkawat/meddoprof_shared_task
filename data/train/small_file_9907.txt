@@ -1,0 +1,25 @@
+
+Además	O
+en	O
+la	O
+última	O
+semana	O
+diarrea	O
+que	O
+asocia	O
+a	O
+la	O
+toma	O
+de	O
+AINES	O
+para	O
+el	O
+dolor	O
+y	O
+pérdida	O
+de	O
+apetito	O
+y	O
+de	O
+peso	O
+.	O

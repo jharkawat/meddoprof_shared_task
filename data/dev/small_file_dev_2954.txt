@@ -1,0 +1,10 @@
+
+No	O
+alergias	O
+medicamentosas	O
+y	O
+vacunas	O
+según	O
+calendario	O
+vacunal	O
+.	O

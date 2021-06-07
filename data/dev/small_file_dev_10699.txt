@@ -1,0 +1,24 @@
+
+Mujer	O
+de	O
+40	O
+años	O
+,	O
+fumadora	O
+de	O
+20	O
+cigarrillos	O
+/	O
+día	O
+desde	O
+hace	O
+veinte	O
+años	O
+,	O
+hipertensa	O
+sin	O
+otros	O
+antecedentes	O
+de	O
+interés	O
+.	O

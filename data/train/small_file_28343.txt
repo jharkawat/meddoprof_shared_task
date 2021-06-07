@@ -1,0 +1,14 @@
+
+Se	O
+han	O
+planteado	O
+objetivos	O
+terapéuticos	O
+,	O
+tanto	O
+a	O
+nivel	O
+interpersonal	O
+como	O
+psicosexual	O
+.	O

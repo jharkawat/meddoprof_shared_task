@@ -1,0 +1,12 @@
+
+Le	O
+fueron	O
+solicitados	O
+estudios	O
+diagnósticos	O
+de	O
+laboratorio	O
+y	O
+de	O
+imágenes	O
+:	O

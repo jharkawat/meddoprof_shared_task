@@ -1,0 +1,15 @@
+
+En	O
+noviembre	O
+de	O
+2008	O
+,	O
+es	O
+intervenido	O
+quirúrgicamente	O
+mediante	O
+prostatectomía	O
+radical	O
+sin	O
+linfadenectomía	O
+.	O

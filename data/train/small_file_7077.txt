@@ -1,0 +1,19 @@
+
+Se	O
+completó	O
+el	O
+estudio	O
+mediante	O
+otra	O
+biopsia	O
+cutánea	O
+para	O
+inmunofluorescencia	O
+directa	O
+(	O
+IFD	O
+)	O
+que	O
+fue	O
+negativa	O
+.	O

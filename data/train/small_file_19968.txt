@@ -1,0 +1,14 @@
+
+Negó	O
+que	O
+tuviera	O
+síntomas	O
+del	O
+trastorno	O
+de	O
+estrés	O
+postraumático	O
+(	O
+TEPT	O
+)	O
+.	O

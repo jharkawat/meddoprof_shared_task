@@ -1,0 +1,13 @@
+
+Datos	O
+morfológicos	O
+compatibles	O
+con	O
+diagnóstico	O
+radiológico	O
+de	O
+tumor	O
+de	O
+células	O
+gigantes	O
+.	O

@@ -1,0 +1,20 @@
+
+Tías	O
+maternas	O
+en	O
+tratamiento	O
+psiquiátrico	O
+,	O
+presentando	O
+temblor	O
+en	O
+extremidades	O
+,	O
+una	O
+de	O
+ellas	O
+en	O
+silla	O
+de	O
+ruedas	O
+.	O

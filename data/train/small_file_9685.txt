@@ -1,0 +1,10 @@
+
+Engrosamiento	O
+de	O
+septos	O
+alveolares	O
+con	O
+infiltración	O
+de	O
+capilar	O
+.	O

@@ -1,0 +1,22 @@
+
+Fragmentos	O
+de	O
+vejiga	O
+con	O
+infiltración	O
+tumoral	O
+:	O
+fragmentos	O
+de	O
+pared	O
+vesical	O
+con	O
+infiltración	O
+de	O
+la	O
+capa	O
+muscular	O
+esxterna	O
+por	O
+carcinosarcoma	O
+.	O

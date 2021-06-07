@@ -1,0 +1,21 @@
+
+Paciente	O
+de	O
+19	O
+años	O
+que	O
+acude	O
+a	O
+consulta	O
+de	O
+Atención	O
+Primaria	O
+por	O
+tos	O
+continua	O
+de	O
+tres	O
+semanas	O
+de	O
+evolución	O
+.	O

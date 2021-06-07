@@ -1,0 +1,10 @@
+
+Niega	O
+fiebre	O
+,	O
+sintomatología	O
+infecciosa	O
+o	O
+dolor	O
+abdominal	O
+.	O

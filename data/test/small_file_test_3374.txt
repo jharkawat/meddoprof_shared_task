@@ -1,0 +1,12 @@
+
+Ante	O
+los	O
+hallazgos	O
+pautamos	O
+tratamiento	O
+antiagregante	O
+y	O
+mantenemos	O
+el	O
+anticomicial	O
+.	O

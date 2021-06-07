@@ -1,0 +1,17 @@
+
+Se	O
+decide	O
+no	O
+asociar	O
+análogos	O
+de	O
+la	O
+somatostatina	O
+para	O
+no	O
+sumar	O
+toxicidades	O
+al	O
+esquema	O
+anterior	O
+.	O

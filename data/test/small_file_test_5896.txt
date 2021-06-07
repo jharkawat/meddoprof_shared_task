@@ -1,0 +1,17 @@
+
+Se	O
+realiza	O
+ecocardiograma	O
+,	O
+que	O
+visualiza	O
+masa	O
+a	O
+expensas	O
+de	O
+pared	O
+posterior	O
+de	O
+aurícula	O
+derecha	O
+.	O

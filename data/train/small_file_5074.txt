@@ -1,0 +1,27 @@
+
+Además	O
+,	O
+ha	O
+sido	O
+visto	O
+en	O
+varias	O
+ocasiones	O
+por	O
+el	O
+servicio	O
+de	O
+cardiología	O
+por	O
+episodios	O
+de	O
+dolor	O
+torácico	O
+no	O
+sugerentes	O
+de	O
+angina	O
+con	O
+ergometría	O
+negativa	O
+.	O

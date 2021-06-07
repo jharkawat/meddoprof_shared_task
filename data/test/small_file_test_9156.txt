@@ -1,0 +1,10 @@
+
+Sensibilidad	O
+tacto	O
+-	O
+algésica	O
+disminuida	O
+en	O
+muslo	O
+izquierdo	O
+.	O

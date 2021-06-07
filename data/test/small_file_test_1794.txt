@@ -1,0 +1,27 @@
+
+Diagnosticado	O
+en	O
+septiembre	O
+de	O
+2015	O
+de	O
+adenocarcinoma	O
+mucosecretor	O
+de	O
+pulmón	O
+en	O
+estadio	O
+cT3N2M1	O
+(	O
+diseminación	O
+pleural	O
+,	O
+pulmonar	O
+y	O
+ganglionar	O
+)	O
+,	O
+EGFR	O
+no	O
+mutado	O
+.	O

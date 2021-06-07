@@ -1,0 +1,9 @@
+
+Actualmente	O
+jubilado	B-SITUACION_LABORAL
+,	O
+cuida	B-ACTIVIDAD
+a	I-ACTIVIDAD
+su	I-ACTIVIDAD
+esposa	I-ACTIVIDAD
+.	O

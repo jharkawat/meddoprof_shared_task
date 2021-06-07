@@ -1,0 +1,17 @@
+
+Relata	O
+una	O
+adolescencia	O
+con	O
+buen	O
+rendimiento	O
+académico	O
+,	O
+consigue	O
+la	O
+licenciatura	O
+de	O
+Auxiliar	O
+de	O
+Administrativo	O
+.	O

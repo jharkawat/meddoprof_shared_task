@@ -1,0 +1,9 @@
+
+Otros	O
+agentes	O
+implicados	O
+son	O
+la	O
+Brucella	O
+spp	O
+.	O

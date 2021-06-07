@@ -1,0 +1,16 @@
+
+Ana	O
+refiere	O
+que	O
+para	O
+"	O
+la	O
+tensión	O
+"	O
+su	O
+madre	O
+toma	O
+venlafaxina	O
+y	O
+quetiapina	O
+.	O

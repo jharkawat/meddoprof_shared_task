@@ -1,0 +1,26 @@
+
+Biopsia	O
+de	O
+piel	O
+No	O
+.	O
+11214	O
+-	O
+9	O
+:	O
+La	O
+epidermis	O
+muestra	O
+una	O
+imagen	O
+eczematosa	O
+típica	O
+subaguda	O
+con	O
+exoserosis	O
+exudativa	O
+inflamatoria	O
+y	O
+vesículas	O
+espongióticas	O
+.	O

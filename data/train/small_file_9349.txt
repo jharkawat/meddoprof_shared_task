@@ -1,0 +1,8 @@
+
+IgG	O
+anti	O
+-	O
+VCA	O
+,	O
+Ac	O
+.	O

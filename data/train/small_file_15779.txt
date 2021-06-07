@@ -1,0 +1,6 @@
+
+Nervios	O
+craneales	O
+bajos	O
+normales	O
+.	O

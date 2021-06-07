@@ -1,0 +1,10 @@
+
+Tardaba	O
+mucho	O
+tiempo	O
+en	O
+responder	O
+a	O
+las	O
+preguntas	O
+.	O

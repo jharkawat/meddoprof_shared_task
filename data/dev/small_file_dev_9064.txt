@@ -1,0 +1,7 @@
+
+PCR	O
+79	O
+mg	O
+/	O
+l	O
+.	O

@@ -1,0 +1,19 @@
+
+Adecuado	O
+soporte	O
+familiar	O
+y	O
+sanitario	O
+tanto	O
+por	O
+parte	O
+del	O
+equipo	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+o	I-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+hospitalaria	I-PROFESION
+.	O

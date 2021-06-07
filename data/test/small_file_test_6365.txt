@@ -1,0 +1,26 @@
+
+En	O
+él	O
+se	O
+confirma	O
+el	O
+aumento	O
+de	O
+la	O
+masa	O
+mediastínica	O
+en	O
+1	O
+cm	O
+,	O
+pero	O
+se	O
+objetiva	O
+una	O
+respuesta	O
+parcial	O
+de	O
+las	O
+lesiones	O
+hepáticas	O
+.	O

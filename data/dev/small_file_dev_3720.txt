@@ -1,0 +1,16 @@
+
+Su	O
+rendimiento	O
+escolar	O
+ha	O
+bajado	O
+mucho	O
+y	O
+repite	O
+a	O
+menudo	O
+que	O
+se	O
+quiere	O
+morir	O
+.	O

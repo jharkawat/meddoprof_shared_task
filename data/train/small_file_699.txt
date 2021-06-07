@@ -1,0 +1,23 @@
+
+No	O
+se	O
+observaba	O
+líquido	O
+libre	O
+,	O
+en	O
+cantidad	O
+significativa	O
+,	O
+entre	O
+las	O
+asas	O
+o	O
+en	O
+el	O
+fondo	O
+de	O
+saco	O
+de	O
+Douglas	O
+.	O

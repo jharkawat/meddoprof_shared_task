@@ -1,0 +1,23 @@
+
+Refiere	O
+episodios	O
+de	O
+dificultad	O
+en	O
+el	O
+lenguaje	O
+,	O
+tras	O
+los	O
+cuales	O
+presenta	O
+una	O
+lentitud	O
+en	O
+el	O
+habla	O
+,	O
+bradipsiquia	O
+y	O
+debilidad	O
+.	O

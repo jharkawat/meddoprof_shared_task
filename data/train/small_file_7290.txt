@@ -1,0 +1,27 @@
+
+Se	O
+le	O
+ha	O
+explicado	O
+al	O
+paciente	O
+la	O
+importancia	O
+de	O
+evitar	O
+ese	O
+producto	O
+así	O
+como	O
+de	O
+los	O
+productos	O
+que	O
+puedan	O
+contener	O
+octocrileno	O
+hasta	O
+finalizar	O
+el	O
+estudio	O
+.	O

@@ -1,0 +1,6 @@
+
+Eutímico	O
+con	O
+afecto	O
+apropiado	O
+.	O

@@ -1,0 +1,14 @@
+
+Ex	B-PROFESION
+militar	I-PROFESION
+(	O
+Dudoso	O
+evento	O
+coronario	O
+durante	O
+la	O
+guerra	O
+en	O
+IRAK	O
+)	O
+.	O

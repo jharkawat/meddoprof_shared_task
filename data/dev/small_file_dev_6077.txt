@@ -1,0 +1,15 @@
+
+En	O
+la	O
+tinción	O
+de	O
+Gram	O
+se	O
+observó	O
+un	O
+bacilo	O
+gramnegativo	O
+con	O
+gran	O
+pleomorfismo	O
+.	O

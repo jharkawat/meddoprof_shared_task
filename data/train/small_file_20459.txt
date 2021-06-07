@@ -1,0 +1,13 @@
+
+Refiere	O
+caminar	O
+4500	O
+metros	O
+,	O
+3	O
+a	O
+4	O
+veces	O
+por	O
+semana	O
+.	O

@@ -1,0 +1,13 @@
+
+Múltiples	O
+lesiones	O
+hepáticas	O
+compatibles	O
+con	O
+metástasis	O
+en	O
+todos	O
+los	O
+segmentos	O
+hepáticos	O
+.	O

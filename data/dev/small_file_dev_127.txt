@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+tuvo	O
+que	O
+ser	O
+ingresada	O
+de	O
+manera	O
+urgente	O
+e	O
+intervenida	O
+quirúrgicamente	O
+de	O
+las	O
+múltiples	O
+fracturas	O
+que	O
+presentó	O
+.	O

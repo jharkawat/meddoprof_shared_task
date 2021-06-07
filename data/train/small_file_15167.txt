@@ -1,0 +1,8 @@
+
+Neumonía	O
+por	O
+broncoaspiración	O
+de	O
+distribución	O
+atípica	O
+.	O

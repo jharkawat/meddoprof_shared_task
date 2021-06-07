@@ -1,0 +1,14 @@
+
+Es	O
+ingresado	O
+en	O
+el	O
+Servicio	O
+de	O
+Enfermedades	O
+Infecciosas	O
+del	O
+Adulto	O
+del	O
+HUC	O
+.	O

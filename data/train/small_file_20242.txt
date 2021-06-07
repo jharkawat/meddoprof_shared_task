@@ -1,0 +1,21 @@
+
+Tenía	O
+el	O
+ánimo	O
+deprimido	O
+y	O
+el	O
+afecto	O
+aparecía	O
+tenso	O
+y	O
+disfórico	O
+,	O
+pero	O
+sin	O
+restricciones	O
+y	O
+con	O
+reactividad	O
+normal	O
+.	O

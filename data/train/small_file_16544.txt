@@ -1,0 +1,7 @@
+
+Marcha	O
+sin	O
+patrón	O
+neurológico	O
+específico	O
+.	O

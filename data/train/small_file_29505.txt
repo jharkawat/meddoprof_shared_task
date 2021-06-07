@@ -1,0 +1,5 @@
+
+Repite	O
+determinadas	O
+frases	O
+.	O

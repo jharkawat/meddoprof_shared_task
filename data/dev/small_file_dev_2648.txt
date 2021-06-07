@@ -1,0 +1,11 @@
+
+Pseudomatosis	O
+en	O
+colon	O
+derecho	O
+por	O
+presencia	O
+de	O
+heces	O
+semisólidas	O
+.	O

@@ -1,0 +1,11 @@
+
+En	O
+Neurología	O
+persiste	O
+el	O
+diagnóstico	O
+de	O
+Microcefalia	O
+y	O
+Sd	O
+.	O

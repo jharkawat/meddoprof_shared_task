@@ -1,0 +1,13 @@
+
+En	O
+la	O
+exploración	O
+física	O
+no	O
+presenta	O
+alteraciones	O
+reseñables	O
+excepto	O
+inyección	O
+conjuntival	O
+.	O

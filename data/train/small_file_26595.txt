@@ -1,0 +1,14 @@
+
+Los	O
+rendimientos	O
+escolares	O
+son	O
+malos	O
+y	O
+en	O
+los	O
+últimos	O
+meses	O
+han	O
+empeorado	O
+.	O

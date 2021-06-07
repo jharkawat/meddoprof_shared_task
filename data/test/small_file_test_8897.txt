@@ -1,0 +1,21 @@
+
+En	O
+octubre	O
+de	O
+2014	O
+se	O
+realiza	O
+rescate	O
+de	O
+quirúrgico	O
+de	O
+la	O
+lesión	O
+y	O
+exéresis	O
+de	O
+lesión	O
+sospechosa	O
+en	O
+hígado	O
+.	O

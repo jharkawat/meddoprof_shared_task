@@ -1,0 +1,19 @@
+
+En	O
+los	O
+dos	O
+años	O
+de	O
+seguimiento	O
+,	O
+el	O
+paciente	O
+no	O
+ha	O
+desarrollado	O
+sintomatología	O
+negativa	O
+ni	O
+episodios	O
+afectivos	O
+.	O

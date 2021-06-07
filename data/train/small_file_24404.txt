@@ -1,0 +1,16 @@
+
+Paciente	O
+de	O
+59	O
+años	O
+,	O
+licenciada	O
+en	O
+ciencias	O
+exactas	O
+y	O
+ex	B-PROFESION
+profesora	I-PROFESION
+de	I-PROFESION
+instituto	I-PROFESION
+.	O

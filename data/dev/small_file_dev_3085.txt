@@ -1,0 +1,14 @@
+
+–	O
+Acudir	O
+a	O
+citas	O
+programadas	O
+con	O
+psiquiatra	B-PROFESION
+y	O
+equipo	B-PROFESION
+terapéutico	I-PROFESION
+de	O
+referencia	O
+.	O

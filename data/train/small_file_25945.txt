@@ -1,0 +1,21 @@
+
+Refería	O
+ver	O
+personas	O
+acostadas	O
+en	O
+la	O
+cama	O
+junto	O
+a	O
+él	O
+,	O
+manifestando	O
+que	O
+había	O
+un	O
+complot	O
+para	O
+hacerle	O
+daño	O
+.	O

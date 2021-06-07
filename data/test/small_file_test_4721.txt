@@ -1,0 +1,5 @@
+
+Sin	O
+adenomegalias	O
+cervicales	O
+.	O

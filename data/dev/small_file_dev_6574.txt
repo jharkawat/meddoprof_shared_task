@@ -1,0 +1,23 @@
+
+Únicamente	O
+llamaba	O
+la	O
+atención	O
+dolor	O
+moderado	O
+a	O
+la	O
+palpación	O
+en	O
+trapecio	O
+izquierdo	O
+,	O
+sin	O
+dolor	O
+a	O
+la	O
+palpación	O
+de	O
+apófisis	O
+espinosas	O
+.	O

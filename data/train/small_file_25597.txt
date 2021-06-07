@@ -1,0 +1,23 @@
+
+Su	O
+situación	O
+laboral	O
+siempre	O
+ha	O
+sido	O
+muy	O
+inestable	O
+,	O
+pues	O
+ha	B-SITUACION_LABORAL
+tenido	I-SITUACION_LABORAL
+múltiples	I-SITUACION_LABORAL
+trabajos	I-SITUACION_LABORAL
+con	O
+contratos	O
+temporales	O
+o	O
+a	O
+tiempo	O
+parcial	O
+.	O

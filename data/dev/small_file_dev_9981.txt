@@ -1,0 +1,27 @@
+
+Antes	O
+de	O
+la	O
+operación	O
+,	O
+la	O
+paciente	O
+se	O
+había	O
+comportado	O
+normalmente	O
+y	O
+sus	O
+hijos	O
+no	O
+habían	O
+notado	O
+deterioro	O
+en	O
+su	O
+memoria	O
+o	O
+en	O
+su	O
+concentración	O
+.	O

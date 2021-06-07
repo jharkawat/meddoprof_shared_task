@@ -1,0 +1,8 @@
+
+Reflejo	O
+cutáneo	O
+-	O
+plantar	O
+flexor	O
+bilateral	O
+.	O

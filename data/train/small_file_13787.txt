@@ -1,0 +1,10 @@
+
+No	O
+ha	O
+presentado	O
+tos	O
+,	O
+expectoración	O
+ni	O
+sibilancias	O
+.	O

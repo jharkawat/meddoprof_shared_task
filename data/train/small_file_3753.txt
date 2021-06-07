@@ -1,0 +1,15 @@
+
+En	O
+la	O
+exploración	O
+está	O
+consciente	O
+y	O
+orientada	O
+en	O
+persona	O
+,	O
+espacio	O
+y	O
+tiempo	O
+.	O

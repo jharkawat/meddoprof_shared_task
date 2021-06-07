@@ -1,0 +1,25 @@
+
+Exploración	O
+neurológica	O
+:	O
+muy	O
+limitada	O
+por	O
+falta	O
+de	O
+colaboración	O
+del	O
+paciente	O
+y	O
+componente	O
+farmacológico	O
+(	O
+clorazepato	O
+dipotásico	O
+y	O
+haloperidol	O
+a	O
+dosis	O
+elevadas	O
+)	O
+.	O

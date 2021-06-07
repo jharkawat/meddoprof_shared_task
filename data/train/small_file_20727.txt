@@ -1,0 +1,16 @@
+
+No	O
+se	O
+palpan	O
+adenopatías	O
+en	O
+cadenas	O
+ganglionares	O
+cervicales	O
+,	O
+supraclaviculares	O
+,	O
+axilares	O
+ni	O
+inguinales	O
+.	O

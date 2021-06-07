@@ -1,0 +1,21 @@
+
+Acepta	O
+iniciar	O
+el	O
+curso	O
+escolar	O
+,	O
+pero	O
+el	O
+primer	O
+día	O
+es	O
+expulsado	O
+por	O
+fumar	O
+cannabis	O
+en	O
+el	O
+recinto	O
+escolar	O
+.	O

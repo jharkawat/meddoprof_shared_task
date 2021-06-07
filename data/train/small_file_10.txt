@@ -1,0 +1,10 @@
+
+Una	O
+TAC	O
+torácica	O
+mostró	O
+infiltrados	O
+pulmonares	O
+intersticiales	O
+bilaterales	O
+.	O

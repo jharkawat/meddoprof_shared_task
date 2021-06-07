@@ -1,0 +1,27 @@
+
+Ha	O
+tenido	O
+repercusiones	O
+legales	O
+relacionadas	O
+con	O
+la	O
+conducción	O
+–	O
+retirada	O
+temporal	O
+del	O
+carnet	O
+de	O
+conducir	O
+–	O
+,	O
+así	O
+como	O
+múltiples	O
+episodios	O
+de	O
+heteroagresividad	O
+a	O
+terceros	O
+.	O

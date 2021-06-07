@@ -1,0 +1,24 @@
+
+La	O
+exploración	O
+psicopatológica	O
+durante	O
+el	O
+ingreso	O
+no	O
+presenta	O
+variaciones	O
+importantes	O
+:	O
+Se	O
+muestra	O
+consciente	O
+,	O
+orientado	O
+en	O
+tiempo	O
+,	O
+espacio	O
+y	O
+persona	O
+.	O

@@ -1,0 +1,12 @@
+
+Negó	O
+tener	O
+irritabilidad	O
+Trastornos	O
+depresivos	O
+prominente	O
+y	O
+discutir	O
+por	O
+todo	O
+.	O

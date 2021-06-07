@@ -1,0 +1,17 @@
+
+A	O
+nivel	O
+social	O
+tiene	O
+escasas	O
+relaciones	O
+con	O
+iguales	O
+y	O
+no	O
+ha	O
+tenido	O
+parejas	O
+estables	O
+conocidas	O
+.	O

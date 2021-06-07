@@ -1,0 +1,25 @@
+
+Desde	O
+hace	O
+un	O
+mes	O
+comenta	O
+que	O
+viene	O
+presentando	O
+tos	O
+seca	O
+persistente	O
+y	O
+disnea	O
+sin	O
+mejoría	O
+con	O
+salbutamol	O
+/	O
+budesonida	O
+a	O
+raíz	O
+de	O
+catarro	O
+.	O

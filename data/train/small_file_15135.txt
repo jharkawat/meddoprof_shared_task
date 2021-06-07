@@ -1,0 +1,15 @@
+
+Negó	O
+haber	O
+realizado	O
+viajes	O
+recientes	O
+o	O
+haber	O
+estado	O
+expuesto	O
+a	O
+agentes	O
+tóxicos	O
+ambientales	O
+.	O

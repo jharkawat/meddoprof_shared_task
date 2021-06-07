@@ -1,0 +1,27 @@
+
+Sumida	O
+en	O
+el	O
+desamparo	O
+y	O
+la	O
+impotencia	O
+,	O
+la	O
+policía	B-PROFESION
+la	O
+trae	O
+al	O
+hospital	O
+porque	O
+quería	O
+suicidarse	O
+con	O
+una	O
+bolsa	O
+de	O
+plástico	O
+sobre	O
+la	O
+cabeza	O
+.	O

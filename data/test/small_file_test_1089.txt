@@ -1,0 +1,24 @@
+
+Los	O
+exámenes	O
+de	O
+laboratorio	O
+revelaron	O
+típicamente	O
+leucopenia	O
+,	O
+linfopenia	O
+importante	O
+,	O
+plaquetopenia	O
+,	O
+elevación	O
+del	O
+dímero	O
+-	O
+D	O
+,	O
+DHL	O
+y	O
+ferritina	O
+.	O

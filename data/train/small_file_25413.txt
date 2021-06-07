@@ -1,0 +1,21 @@
+
+A	O
+mediados	O
+de	O
+2008	O
+acude	O
+a	O
+nuestro	O
+centro	O
+después	O
+de	O
+ser	O
+dada	O
+de	O
+alta	O
+,	O
+por	O
+un	O
+intento	O
+autolítico	O
+.	O

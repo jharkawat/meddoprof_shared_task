@@ -1,0 +1,22 @@
+
+Se	O
+clasifica	O
+dentro	O
+del	O
+grado	O
+4	O
+de	O
+la	O
+escala	O
+de	O
+House	O
+-	O
+Brackmann	O
+que	O
+evalúa	O
+la	O
+gravedad	O
+de	O
+parálisis	O
+facial	O
+.	O

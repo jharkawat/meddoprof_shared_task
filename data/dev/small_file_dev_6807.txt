@@ -1,0 +1,12 @@
+
+Infección	O
+de	O
+prótesis	O
+endovascular	O
+por	O
+Aggregatibacter	O
+aphrophilus	O
+y	O
+Streptococcus	O
+oralis	O
+.	O

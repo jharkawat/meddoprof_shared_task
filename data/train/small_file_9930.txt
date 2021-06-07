@@ -1,0 +1,15 @@
+
+En	O
+cuando	O
+a	O
+la	O
+causa	O
+infecciosa	O
+,	O
+puede	O
+ser	O
+tanto	O
+vírica	O
+como	O
+bacteriana	O
+.	O

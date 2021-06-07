@@ -1,0 +1,22 @@
+
+Continúa	O
+triste	O
+aunque	O
+el	O
+insomnio	O
+ha	O
+mejorado	O
+con	O
+la	O
+medicación	O
+,	O
+de	O
+manera	O
+que	O
+ya	O
+no	O
+se	O
+encuentra	O
+tan	O
+cansada	O
+.	O

@@ -1,0 +1,7 @@
+
+Sin	O
+valoraciones	O
+previas	O
+por	O
+psiquiatría	O
+.	O

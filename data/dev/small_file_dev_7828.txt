@@ -1,0 +1,10 @@
+
+Los	O
+hemocultivos	O
+extraídos	O
+en	O
+Urgencias	O
+también	O
+resultaron	O
+negativos	O
+.	O

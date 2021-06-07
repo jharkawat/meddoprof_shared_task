@@ -1,0 +1,16 @@
+
+Acuden	O
+a	O
+consulta	O
+para	O
+valoración	O
+psicológica	O
+por	O
+presentar	O
+alopeciade	O
+areata	O
+desde	O
+el	O
+verano	O
+pasado	O
+.	O

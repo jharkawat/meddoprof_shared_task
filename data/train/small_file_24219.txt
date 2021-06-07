@@ -1,0 +1,23 @@
+
+Nos	O
+dijo	O
+que	O
+se	O
+encontraba	O
+"	O
+bien	O
+"	O
+y	O
+no	O
+se	O
+objetivaron	O
+síntomas	O
+o	O
+signos	O
+que	O
+apuntaran	O
+a	O
+un	O
+proceso	O
+afectivo	O
+.	O

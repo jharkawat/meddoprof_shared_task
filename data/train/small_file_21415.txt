@@ -1,0 +1,15 @@
+
+Su	O
+madre	O
+tuvo	O
+una	O
+depresión	O
+posparto	O
+y	O
+una	O
+tía	O
+materna	O
+presenta	O
+depresiones	O
+recurrentes	O
+.	O

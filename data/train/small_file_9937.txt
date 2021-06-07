@@ -1,0 +1,20 @@
+
+El	O
+granuloma	O
+es	O
+la	O
+lesión	O
+fundamental	O
+de	O
+la	O
+sarcoidosis	O
+,	O
+consistente	O
+en	O
+un	O
+acúmulo	O
+local	O
+de	O
+células	O
+inflamatorias	O
+.	O

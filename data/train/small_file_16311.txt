@@ -1,0 +1,25 @@
+
+Se	O
+administró	O
+ceftriaxona	O
+2	O
+gr	O
+intravenosa	O
+durante	O
+14	O
+días	O
+y	O
+posteriormente	O
+doxiciclina	O
+100	O
+g	O
+vía	O
+oral	O
+cada	O
+12	O
+horas	O
+durante	O
+otros	O
+14	O
+días	O
+.	O

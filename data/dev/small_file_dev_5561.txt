@@ -1,0 +1,9 @@
+
+Discreta	O
+uretrorragia	O
+en	O
+forma	O
+de	O
+líquido	O
+serosanguinolento	O
+.	O

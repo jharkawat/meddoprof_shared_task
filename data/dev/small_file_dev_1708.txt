@@ -1,0 +1,10 @@
+
+lozapina	O
+300	O
+:	O
+0	O
+-	O
+0	O
+-	O
+1	O
+.	O

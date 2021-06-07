@@ -1,0 +1,25 @@
+
+No	O
+hubo	O
+anomalías	O
+en	O
+el	O
+examen	O
+físico	O
+ni	O
+en	O
+los	O
+análisis	O
+rutinarios	O
+de	O
+laboratorio	O
+,	O
+tampoco	O
+en	O
+el	O
+electroencefalograma	O
+y	O
+la	O
+tomografía	O
+cerebral	O
+.	O

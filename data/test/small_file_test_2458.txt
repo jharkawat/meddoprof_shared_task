@@ -1,0 +1,17 @@
+
+-	O
+PET	O
+-	O
+TC	O
+:	O
+captación	O
+patológica	O
+de	O
+adenopatías	O
+ya	O
+descritas	O
+previamente	O
+en	O
+la	O
+TC	O
+.	O

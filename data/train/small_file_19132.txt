@@ -1,0 +1,7 @@
+
+No	O
+tiene	O
+relaciones	O
+de	O
+amistad	O
+.	O

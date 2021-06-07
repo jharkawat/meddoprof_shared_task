@@ -1,0 +1,25 @@
+
+Elevada	O
+actividad	O
+física	O
+durante	O
+los	O
+15	O
+años	O
+previos	O
+a	O
+consulta	O
+(	O
+corría	O
+varios	O
+kilómetros	O
+al	O
+día	O
+y	O
+participaba	O
+con	O
+frecuencia	O
+en	O
+maratones	O
+)	O
+.	O

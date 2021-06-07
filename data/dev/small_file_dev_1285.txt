@@ -1,0 +1,18 @@
+
+Nula	O
+conciencia	O
+de	O
+enfermedad	O
+,	O
+no	O
+seguía	O
+revisiones	O
+psiquiátricas	O
+sino	O
+con	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

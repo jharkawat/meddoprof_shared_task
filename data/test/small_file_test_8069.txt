@@ -1,0 +1,8 @@
+
+Eventración	O
+infraumbilical	O
+pendiente	O
+de	O
+cirugía	O
+programada	O
+.	O

@@ -1,0 +1,10 @@
+
+La	O
+madre	O
+sigue	O
+tratamiento	O
+por	O
+trastorno	O
+depresivo	O
+mayor	O
+.	O

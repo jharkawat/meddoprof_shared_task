@@ -1,0 +1,14 @@
+
+QTc	O
+:	O
+0	O
+.	O
+46	O
+seg	O
+Conclusión	O
+:	O
+ECG	O
+sin	O
+valores	O
+patológicos	O
+.	O

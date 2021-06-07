@@ -1,0 +1,6 @@
+
+Lesiones	O
+osteoblásticas	O
+múltiples	O
+estables	O
+.	O

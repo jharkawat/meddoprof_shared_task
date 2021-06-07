@@ -1,0 +1,25 @@
+
+Se	O
+realizó	O
+una	O
+exploración	O
+orientada	O
+al	O
+diagnóstico	O
+retrospectivo	O
+del	O
+Trastorno	O
+por	O
+déficit	O
+de	O
+atención	O
+e	O
+hiperactividad	O
+(	O
+TDAH	O
+)	O
+,	O
+confirmándose	O
+dicho	O
+diagnóstico	O
+.	O

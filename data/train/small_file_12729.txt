@@ -1,0 +1,25 @@
+
+En	O
+las	O
+primeras	O
+24	O
+horas	O
+requiere	O
+aporte	O
+de	O
+volumen	O
+por	O
+sensación	O
+subjetiva	O
+de	O
+sed	O
+y	O
+persistencia	O
+de	O
+consumo	O
+de	O
+bicarbonato	O
+con	O
+lactato	O
+normal	O
+.	O

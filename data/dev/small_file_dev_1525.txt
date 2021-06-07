@@ -1,0 +1,22 @@
+
+Hepatitis	O
+de	O
+origen	O
+tóxico	O
+:	O
+se	O
+basa	O
+principalmente	O
+en	O
+la	O
+cronología	O
+entre	O
+la	O
+introducción	O
+del	O
+fármaco	O
+y	O
+la	O
+alteración	O
+hepática	O
+.	O

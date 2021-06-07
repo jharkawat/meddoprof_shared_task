@@ -1,0 +1,16 @@
+
+Es	O
+soltero	O
+y	O
+sin	O
+hijos	O
+,	O
+convive	O
+con	O
+sus	O
+padres	O
+en	O
+el	O
+domicilio	O
+familiar	O
+.	O

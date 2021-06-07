@@ -1,0 +1,8 @@
+
+No	O
+consume	O
+ni	O
+tabaco	O
+ni	O
+alcohol	O
+.	O

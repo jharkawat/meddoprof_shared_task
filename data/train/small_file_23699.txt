@@ -1,0 +1,8 @@
+
+No	O
+se	O
+recogen	O
+de	O
+interés	O
+psiquiátrico	O
+.	O

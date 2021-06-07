@@ -1,0 +1,17 @@
+
+Se	O
+realizó	O
+un	O
+TAC	O
+de	O
+urgencia	O
+que	O
+ponía	O
+de	O
+manifiesto	O
+la	O
+dirección	O
+de	O
+la	O
+flecha	O
+.	O

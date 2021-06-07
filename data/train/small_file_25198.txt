@@ -1,0 +1,20 @@
+
+Hernia	O
+discal	O
+a	O
+nivel	O
+de	O
+L3	O
+-	O
+L4	O
+por	O
+la	O
+que	O
+ha	O
+realizado	O
+tratamiento	O
+analgésico	O
+mediante	O
+infiltraciones	O
+intramusculares	O
+.	O

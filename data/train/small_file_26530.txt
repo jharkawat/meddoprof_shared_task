@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+se	O
+mostró	O
+conductualmente	O
+adecuada	O
+durante	O
+todo	O
+el	O
+ingreso	O
+.	O

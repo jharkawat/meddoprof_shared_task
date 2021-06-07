@@ -1,0 +1,5 @@
+
+Otoscopia	O
+:	O
+normal	O
+.	O

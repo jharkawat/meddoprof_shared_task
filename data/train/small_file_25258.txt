@@ -1,0 +1,16 @@
+
+Nunca	O
+había	O
+presentado	O
+infecciones	O
+oportunistas	O
+,	O
+no	O
+realizaba	O
+profilaxis	O
+para	O
+la	O
+neumonía	O
+por	O
+Pneumocystis	O
+.	O

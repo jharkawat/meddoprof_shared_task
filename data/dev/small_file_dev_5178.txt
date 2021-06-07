@@ -1,0 +1,13 @@
+
+Como	O
+único	O
+antecendente	O
+personal	O
+,	O
+HTA	O
+en	O
+tratamiento	O
+enalapril	O
+20	O
+mg	O
+.	O

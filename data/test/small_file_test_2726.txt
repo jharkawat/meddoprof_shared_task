@@ -1,0 +1,12 @@
+
+No	O
+presenta	O
+adenopatías	O
+cervicales	O
+,	O
+supraclaviculares	O
+,	O
+axilares	O
+ni	O
+inguinales	O
+.	O

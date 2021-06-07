@@ -1,0 +1,7 @@
+
+Dilatación	O
+aneurismática	O
+de	O
+raíz	O
+aórtica	O
+.	O

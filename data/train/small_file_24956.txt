@@ -1,0 +1,21 @@
+
+Poco	O
+a	O
+poco	O
+,	O
+su	O
+delirio	O
+se	O
+refuerza	O
+con	O
+angustias	O
+,	O
+tomando	O
+un	O
+fondo	O
+distímico	O
+y	O
+de	O
+contenido	O
+afectivo	O
+.	O

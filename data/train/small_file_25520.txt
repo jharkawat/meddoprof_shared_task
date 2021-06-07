@@ -1,0 +1,23 @@
+
+Al	O
+comenzar	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+trabajar	I-SITUACION_LABORAL
+y	O
+realizar	O
+un	O
+mayor	O
+esfuerzo	O
+físico	O
+,	O
+solicitó	O
+un	O
+aumento	O
+de	O
+dosis	O
+,	O
+por	O
+encontrarse	O
+más	O
+cansada	O
+.	O

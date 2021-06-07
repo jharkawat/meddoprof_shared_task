@@ -1,0 +1,12 @@
+
+El	O
+ayuntamiento	O
+se	O
+ofreció	O
+a	O
+colaborar	O
+económicamente	O
+en	O
+dicho	O
+proyecto	O
+.	O

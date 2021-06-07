@@ -1,0 +1,23 @@
+
+Además	O
+de	O
+lo	O
+anterior	O
+a	O
+tratamiento	O
+con	O
+biperideno	O
+4	O
+mg	O
+/	O
+24	O
+h	O
+y	O
+lorazepam	O
+1	O
+mg	O
+si	O
+padece	O
+de	O
+insomnio	O
+.	O

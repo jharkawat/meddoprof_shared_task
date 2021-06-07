@@ -1,0 +1,25 @@
+
+En	O
+uno	O
+de	O
+ellos	O
+estaba	O
+África	O
+,	O
+en	O
+postura	O
+fetal	O
+,	O
+y	O
+con	O
+un	O
+letrero	O
+enorme	O
+en	O
+el	O
+que	O
+rezaba	O
+"	O
+ayúdame	O
+"	O
+.	O

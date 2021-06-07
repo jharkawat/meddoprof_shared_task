@@ -1,0 +1,27 @@
+
+La	O
+fiebre	O
+resolvió	O
+dentro	O
+de	O
+las	O
+48h	O
+posteriores	O
+al	O
+inicio	O
+del	O
+tratamiento	O
+y	O
+la	O
+remisión	O
+completa	O
+de	O
+los	O
+síntomas	O
+ocurrió	O
+dentro	O
+de	O
+los	O
+6	O
+días	O
+.	O

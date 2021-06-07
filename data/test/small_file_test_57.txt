@@ -1,0 +1,22 @@
+
+Nombre	O
+de	O
+quién	O
+elaboró	O
+la	O
+Historia	O
+Clínica	O
+:	O
+(	O
+estudiante	B-SITUACION_LABORAL
+de	O
+4o	O
+.	O
+semestre	O
+de	O
+la	O
+carrera	O
+de	O
+Médico	B-PROFESION
+Cirujano	I-PROFESION
+)	O

@@ -1,0 +1,19 @@
+
+Es	O
+atendido	O
+durante	O
+6	O
+meses	O
+en	O
+un	O
+centro	O
+de	O
+salud	O
+mental	O
+con	O
+escasa	O
+mejoría	O
+de	O
+la	O
+sintomatología	O
+.	O

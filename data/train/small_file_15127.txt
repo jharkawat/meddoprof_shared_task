@@ -1,0 +1,27 @@
+
+Se	O
+realiza	O
+biopsia	O
+con	O
+aguja	O
+gruesa	O
+de	O
+adenopatía	O
+inguinal	O
+izquierda	O
+,	O
+con	O
+estudio	O
+anatomopatológico	O
+compatible	O
+con	O
+linfoma	O
+B	O
+difuso	O
+de	O
+célula	O
+grande	O
+,	O
+fenotipo	O
+ABC	O
+.	O

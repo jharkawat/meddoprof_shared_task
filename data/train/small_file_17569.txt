@@ -1,0 +1,13 @@
+
+Compatible	O
+con	O
+polineuropatía	O
+sensitivo	O
+motora	O
+axonal	O
+,	O
+con	O
+datos	O
+de	O
+desmielinización	O
+.	O

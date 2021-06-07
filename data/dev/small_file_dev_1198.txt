@@ -1,0 +1,22 @@
+
+Neuroimagen	O
+:	O
+TAC	O
+de	O
+urgencias	O
+(	O
+30	O
+junio	O
+2017	O
+)	O
+:	O
+sin	O
+hallazgos	O
+,	O
+importante	O
+artefactación	O
+por	O
+movimiento	O
+del	O
+sujeto	O
+.	O

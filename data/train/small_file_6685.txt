@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+había	O
+realizado	O
+analítica	O
+de	O
+orina	O
+y	O
+sangre	O
+que	O
+incluía	O
+hematimetría	O
+,	O
+coagulación	O
+y	O
+bioquímica	O
+que	O
+no	O
+mostraban	O
+alteraciones	O
+significativas	O
+.	O

@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+es	O
+un	O
+hombre	O
+de	O
+51	O
+años	O
+,	O
+casado	O
+,	O
+asistente	B-PROFESION
+social	I-PROFESION
+.	O

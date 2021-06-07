@@ -1,0 +1,9 @@
+
+-	O
+Trastorno	O
+disociativo	O
+no	O
+especificado	O
+F44	O
+.	O
+9	O

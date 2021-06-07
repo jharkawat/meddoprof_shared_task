@@ -1,0 +1,22 @@
+
+Continuó	O
+tratamiento	O
+de	O
+quimioterapia	O
+con	O
+reducción	O
+de	O
+la	O
+dosis	O
+total	O
+un	O
+25	O
+%	O
+,	O
+continuando	O
+con	O
+buena	O
+tolerancia	O
+al	O
+tratamiento	O
+.	O

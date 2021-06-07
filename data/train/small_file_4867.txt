@@ -1,0 +1,21 @@
+
+Meses	O
+después	O
+acude	O
+a	O
+consulta	O
+de	O
+Atención	O
+Primaria	O
+con	O
+buenos	O
+controles	O
+de	O
+TA	O
+y	O
+desaparición	O
+completa	O
+de	O
+las	O
+cefaleas	O
+.	O

@@ -1,0 +1,10 @@
+
+Radiografía	O
+de	O
+tórax	O
+y	O
+electrocardiograma	O
+sin	O
+alteraciones	O
+significativas	O
+.	O

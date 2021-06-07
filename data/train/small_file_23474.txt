@@ -1,0 +1,18 @@
+
+Nunca	O
+ha	O
+consumido	O
+opiáceos	O
+,	O
+anfetaminas	O
+u	O
+otras	O
+sustancias	O
+de	O
+abuso	O
+;	O
+excepto	O
+cocaína	O
+y	O
+alcohol	O
+.	O

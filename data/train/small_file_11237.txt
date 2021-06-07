@@ -1,0 +1,13 @@
+
+-	O
+Colonoscopia	O
+:	O
+Se	O
+explora	O
+hasta	O
+ciego	O
+identificando	O
+la	O
+válvula	O
+ileocecal	O
+.	O

@@ -1,0 +1,18 @@
+
+ECG	O
+a	O
+ritmo	O
+sinusal	O
+a	O
+76	O
+lpm	O
+;	O
+la	O
+radiografía	O
+de	O
+tórax	O
+sin	O
+alteraciones	O
+patológicas	O
+significativas	O
+.	O

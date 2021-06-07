@@ -1,0 +1,17 @@
+
+Dada	O
+la	O
+ausencia	O
+de	O
+mejoría	O
+clínica	O
+se	O
+solicita	O
+valoración	O
+por	O
+Medicina	O
+Interna	O
+para	O
+estudio	O
+diagnóstico	O
+.	O

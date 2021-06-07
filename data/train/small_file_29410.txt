@@ -1,0 +1,12 @@
+
+No	O
+signos	O
+de	O
+intoxicación	O
+o	O
+abstinenciales	O
+a	O
+tóxicos	O
+o	O
+psicofármacos	O
+.	O

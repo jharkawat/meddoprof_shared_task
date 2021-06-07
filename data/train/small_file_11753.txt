@@ -1,0 +1,19 @@
+
+No	O
+tenía	O
+lesiones	O
+cutáneas	O
+,	O
+pero	O
+presentaba	O
+edema	O
+a	O
+nivel	O
+palpebral	O
+bilateral	O
+,	O
+sin	O
+otros	O
+edemas	O
+periféricos	O
+.	O

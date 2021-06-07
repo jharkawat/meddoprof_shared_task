@@ -1,0 +1,23 @@
+
+La	O
+PCR	O
+para	O
+Coxiella	O
+fue	O
+negativa	O
+,	O
+probablemente	O
+debido	O
+a	O
+que	O
+había	O
+recibido	O
+tratamiento	O
+con	O
+Doxiciclina	O
+cuando	O
+se	O
+extrajo	O
+la	O
+muestra	O
+.	O

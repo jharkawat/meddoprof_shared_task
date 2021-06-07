@@ -1,0 +1,6 @@
+
+No	O
+ha	O
+tenido	O
+caídas	O
+.	O

@@ -1,0 +1,26 @@
+
+A	O
+la	O
+edad	O
+de	O
+24	O
+años	O
+contrae	O
+su	O
+primer	O
+matrimonio	O
+(	O
+habiendo	O
+tenido	O
+sus	O
+primeras	O
+relaciones	O
+sexuales	O
+a	O
+la	O
+edad	O
+de	O
+18	O
+años	O
+)	O
+.	O

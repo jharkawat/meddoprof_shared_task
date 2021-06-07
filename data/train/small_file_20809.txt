@@ -1,0 +1,16 @@
+
+Marcadores	O
+de	O
+virus	O
+VIH	O
+,	O
+VHB	O
+y	O
+VHC	O
+son	O
+negativos	O
+,	O
+VRDL	O
+y	O
+Mantoux	O
+negativos	O

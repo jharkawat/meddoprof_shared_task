@@ -1,0 +1,10 @@
+
+El	O
+resto	O
+de	O
+parénquima	O
+tiene	O
+una	O
+señal	O
+normal	O
+.	O

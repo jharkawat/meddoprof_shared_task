@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+había	O
+presenciado	O
+el	O
+suicidio	O
+de	O
+su	O
+cuñada	O
+lo	O
+que	O
+la	O
+había	O
+traumatizado	O
+severamente	O
+.	O

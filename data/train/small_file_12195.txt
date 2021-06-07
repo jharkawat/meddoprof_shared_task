@@ -1,0 +1,21 @@
+
+Estudiado	O
+en	O
+consulta	O
+de	O
+enfermedades	O
+infecciosas	O
+por	O
+Mantoux	O
+positivo	O
+en	O
+2010	O
+,	O
+con	O
+esputo	O
+negativo	O
+para	O
+BAAR	O
+y	O
+micobacterias	O
+.	O

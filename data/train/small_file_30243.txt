@@ -1,0 +1,11 @@
+
+También	O
+presentó	O
+ideas	O
+megalomaníacas	O
+y	O
+abandonó	B-SITUACION_LABORAL
+los	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+universitarios	I-SITUACION_LABORAL
+.	O

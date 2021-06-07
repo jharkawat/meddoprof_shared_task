@@ -1,0 +1,8 @@
+
+NIC	O
+:	O
+Acuerdo	O
+con	O
+el	O
+paciente	O
+.	O

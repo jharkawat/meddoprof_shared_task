@@ -1,0 +1,20 @@
+
+Se	O
+presenta	O
+el	O
+caso	O
+de	O
+un	O
+varón	O
+de	O
+26	O
+años	O
+,	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+de	O
+curso	O
+continuo	O
+.	O

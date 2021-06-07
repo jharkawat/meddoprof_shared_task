@@ -1,0 +1,9 @@
+
+No	O
+se	O
+evidenciaron	O
+edemas	O
+ni	O
+ingurgitación	O
+yugular	O
+.	O

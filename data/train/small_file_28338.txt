@@ -1,0 +1,8 @@
+
+(	O
+CriteriosDSM	O
+-	O
+IV	O
+-	O
+TR	O
+)	O

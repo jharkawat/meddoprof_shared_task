@@ -1,0 +1,11 @@
+
+En	O
+los	O
+últimos	O
+meses	O
+no	O
+comenta	O
+pérdida	O
+de	O
+peso	O
+.	O

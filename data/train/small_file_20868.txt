@@ -1,0 +1,23 @@
+
+El	O
+padre	O
+(	O
+73	O
+años	O
+)	O
+fue	O
+intervenido	O
+de	O
+un	O
+Carcinoma	O
+de	O
+colon	O
+,	O
+y	O
+es	O
+portador	O
+de	O
+una	O
+colostomía	O
+definitiva	O
+.	O

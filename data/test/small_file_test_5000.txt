@@ -1,0 +1,21 @@
+
+Ante	O
+tales	O
+hallazgos	O
+,	O
+se	O
+suspende	O
+el	O
+tratamiento	O
+con	O
+pemetrexed	O
+y	O
+se	O
+inicia	O
+tratamiento	O
+de	O
+segunda	O
+línea	O
+con	O
+docetaxel	O
+.	O

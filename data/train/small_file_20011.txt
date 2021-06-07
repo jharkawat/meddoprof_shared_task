@@ -1,0 +1,11 @@
+
+Negó	O
+tener	O
+ideas	O
+de	O
+culpa	O
+,	O
+suicidio	O
+o	O
+inutilidad	O
+.	O

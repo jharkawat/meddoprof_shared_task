@@ -1,0 +1,7 @@
+
+Familiares	O
+niegan	O
+tabaquismo	O
+y	O
+adicciones	O
+.	O

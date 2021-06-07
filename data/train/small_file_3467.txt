@@ -1,0 +1,5 @@
+
+Constantes	O
+vitales	O
+normales	O
+.	O

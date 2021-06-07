@@ -1,0 +1,10 @@
+
+Ocupación	O
+:	O
+Prejubilado	B-SITUACION_LABORAL
+trabajó	B-PROFESION
+en	I-PROFESION
+cubiertas	I-PROFESION
+de	I-PROFESION
+tejado	I-PROFESION
+.	O

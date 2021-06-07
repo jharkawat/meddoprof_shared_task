@@ -1,0 +1,27 @@
+
+Como	O
+toxicidades	O
+había	O
+presentado	O
+,	O
+tras	O
+el	O
+cuarto	O
+ciclo	O
+,	O
+síntomas	O
+grado	O
+1	O
+:	O
+rash	O
+cutáneo	O
+,	O
+síndrome	O
+pseudo	O
+gripal	O
+,	O
+fatiga	O
+y	O
+toxicidad	O
+hepática	O
+.	O

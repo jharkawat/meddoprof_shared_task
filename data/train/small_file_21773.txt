@@ -1,0 +1,21 @@
+
+A	O
+los	O
+cuadro	O
+meses	O
+del	O
+fallecimiento	O
+de	O
+su	O
+padre	O
+,	O
+falleció	O
+,	O
+también	O
+de	O
+cáncer	O
+,	O
+su	O
+abuelo	O
+paterno	O
+.	O

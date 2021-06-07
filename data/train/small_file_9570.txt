@@ -1,0 +1,12 @@
+
+Biopsia	O
+médula	O
+ósea	O
+:	O
+Hipoplasia	O
+granulocítica	O
+,	O
+sin	O
+otros	O
+hallazgos	O
+.	O

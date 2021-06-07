@@ -1,0 +1,9 @@
+
+Teníainfiltrados	O
+alveolares	O
+,	O
+fiebre	O
+,	O
+derrame	O
+pleural	O
+.	O

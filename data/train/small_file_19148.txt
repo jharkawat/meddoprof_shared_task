@@ -1,0 +1,9 @@
+
+Imágenes	O
+intrusivas	O
+de	O
+contenido	O
+agresivo	O
+y	O
+sexual	O
+.	O

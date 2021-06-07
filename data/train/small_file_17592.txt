@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+consulta	O
+por	O
+dolor	O
+de	O
+cabeza	O
+y	O
+visión	O
+doble	O
+.	O

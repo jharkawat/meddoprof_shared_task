@@ -1,0 +1,16 @@
+
+De	O
+sus	O
+antecedentes	O
+familiares	O
+destaca	O
+el	O
+abuelo	O
+paterno	O
+con	O
+trastorno	O
+por	O
+dependencia	O
+del	O
+alcohol	O
+.	O

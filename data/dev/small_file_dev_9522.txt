@@ -1,0 +1,5 @@
+
+Apendicetomía	O
+complicada	O
+con	O
+peritonitis	O

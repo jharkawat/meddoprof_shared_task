@@ -1,0 +1,11 @@
+
+Allen	O
+sin	O
+ir	O
+acompañada	O
+de	O
+un	O
+miembro	B-PROFESION
+del	I-PROFESION
+personal	I-PROFESION
+.	O

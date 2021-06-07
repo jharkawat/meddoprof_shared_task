@@ -1,0 +1,21 @@
+
+Según	O
+refiere	O
+la	O
+familia	O
+el	O
+cuadro	O
+depresivo	O
+del	O
+enfermo	O
+es	O
+importante	O
+con	O
+llanto	O
+espontáneo	O
+,	O
+ideaciones	O
+suicidas	O
+y	O
+abulia	O
+.	O

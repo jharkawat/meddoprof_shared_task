@@ -1,0 +1,10 @@
+
+Fue	O
+intervenido	O
+de	O
+hernia	O
+inguinal	O
+bilateral	O
+en	O
+2005	O
+.	O

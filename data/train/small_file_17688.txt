@@ -1,0 +1,7 @@
+
+Sin	O
+antecedentes	O
+familiares	O
+de	O
+cefaleas	O
+.	O

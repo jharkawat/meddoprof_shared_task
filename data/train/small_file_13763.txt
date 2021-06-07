@@ -1,0 +1,14 @@
+
+EEG	O
+:	O
+actividad	O
+bioeléctrica	O
+lentificada	O
+de	O
+mediano	O
+voltaje	O
+sin	O
+otras	O
+anomalías	O
+superpuestas	O
+.	O

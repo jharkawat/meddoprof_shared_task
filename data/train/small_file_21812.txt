@@ -1,0 +1,18 @@
+
+Además	O
+,	O
+acusa	O
+a	O
+dos	O
+de	O
+sus	O
+empleados	B-SITUACION_LABORAL
+de	O
+ser	O
+cómplices	O
+del	O
+dueño	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+bodega	I-PROFESION
+.	O

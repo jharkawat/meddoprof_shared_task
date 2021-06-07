@@ -1,0 +1,21 @@
+
+La	O
+madre	O
+dijo	O
+que	O
+su	O
+mayor	O
+preocupación	O
+era	O
+que	O
+«	O
+las	O
+medicinas	O
+de	O
+Raquel	O
+no	O
+sirven	O
+de	O
+nada	O
+»	O
+.	O

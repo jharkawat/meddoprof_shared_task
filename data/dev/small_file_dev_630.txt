@@ -1,0 +1,14 @@
+
+Antecedentes	O
+de	O
+consumo	O
+ocasional	O
+de	O
+cannabis	O
+y	O
+de	O
+cocaína	O
+,	O
+actualmente	O
+abstinente	O
+.	O

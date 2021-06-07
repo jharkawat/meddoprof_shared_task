@@ -1,0 +1,24 @@
+
+El	O
+examen	O
+funduscópico	O
+revelaba	O
+un	O
+edema	O
+sectorial	O
+superior	O
+en	O
+OD	O
+y	O
+un	O
+edema	O
+papilar	O
+difuso	O
+con	O
+hemorragias	O
+en	O
+llama	O
+peripapilares	O
+en	O
+OS	O
+.	O

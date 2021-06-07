@@ -1,0 +1,26 @@
+
+Palpación	O
+de	O
+nódulo	O
+duro	O
+y	O
+profundo	O
+mal	O
+definido	O
+en	O
+la	O
+unión	O
+de	O
+cuadrantes	O
+externos	O
+de	O
+la	O
+mama	O
+derecha	O
+y	O
+conglomerado	O
+adenopático	O
+en	O
+axila	O
+ipsilateral	O
+.	O

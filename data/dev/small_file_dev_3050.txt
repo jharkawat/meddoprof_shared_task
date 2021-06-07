@@ -1,0 +1,10 @@
+
+Sueño	O
+-	O
+descanso	O
+:	O
+requiere	O
+medicación	O
+si	O
+insomnio	O
+.	O

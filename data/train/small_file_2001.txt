@@ -1,0 +1,23 @@
+
+Pueden	O
+estar	O
+implicados	O
+otros	O
+receptores	O
+y	O
+neurotransmisorers	O
+como	O
+la	O
+sustancia	O
+P	O
+y	O
+el	O
+péptido	O
+relacionado	O
+con	O
+el	O
+gen	O
+de	O
+la	O
+calcitonina	O
+.	O

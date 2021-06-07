@@ -1,0 +1,15 @@
+
+Situación	O
+basal	O
+con	O
+disnea	O
+grado	O
+II	O
+de	O
+la	O
+NYHA	O
+,	O
+edemas	O
+periféricos	O
+ocasionales	O
+.	O

@@ -1,0 +1,16 @@
+
+A	O
+veces	O
+se	O
+ríe	O
+y	O
+otras	O
+se	O
+pone	O
+serio	O
+sin	O
+relación	O
+con	O
+el	O
+discurso	O
+.	O

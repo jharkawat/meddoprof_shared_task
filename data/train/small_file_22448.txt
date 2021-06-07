@@ -1,0 +1,6 @@
+
+Mejoría	O
+con	O
+restricción	O
+hídrica	O
+.	O

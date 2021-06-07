@@ -1,0 +1,14 @@
+
+En	O
+las	O
+horas	O
+siguientes	O
+la	O
+CK	O
+y	O
+la	O
+creatinina	O
+se	O
+elevaron	O
+progresivamente	O
+.	O

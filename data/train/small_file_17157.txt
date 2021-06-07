@@ -1,0 +1,14 @@
+
+Destacaba	O
+una	O
+tendencia	O
+al	O
+sueño	O
+,	O
+con	O
+apertura	O
+ocular	O
+a	O
+la	O
+llamada	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+la	O
+analítica	O
+de	O
+Urgencias	O
+se	O
+observó	O
+elevación	O
+de	O
+transaminasas	O
+,	O
+de	O
+enzimas	O
+de	O
+colestasis	O
+y	O
+de	O
+amilasa	O
+pancreática	O
+,	O
+así	O
+como	O
+hiperglucemia	O
+y	O
+leucocitosis	O
+.	O

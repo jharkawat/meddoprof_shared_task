@@ -1,0 +1,12 @@
+
+Se	O
+realizaron	O
+estudios	O
+de	O
+resistencia	O
+que	O
+descartaron	O
+resistencia	O
+a	O
+ganciclovir	O
+.	O

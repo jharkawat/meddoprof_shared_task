@@ -1,0 +1,23 @@
+
+Fue	O
+acompañado	O
+por	O
+dos	O
+hombres	B-PROFESION
+de	I-PROFESION
+seguridad	I-PROFESION
+afuera	O
+de	O
+su	O
+centro	O
+de	O
+trabajo	O
+para	O
+posteriormente	O
+ser	O
+llevado	O
+al	O
+Hospital	O
+de	O
+Fuenlabrada	O
+.	O

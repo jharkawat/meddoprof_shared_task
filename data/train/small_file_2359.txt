@@ -1,0 +1,7 @@
+
+Patrón	O
+6	O
+:	O
+Cognitivo	O
+-	O
+Perceptual	O

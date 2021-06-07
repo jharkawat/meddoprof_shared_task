@@ -1,0 +1,16 @@
+
+La	O
+PAI	O
+puede	O
+ser	O
+fácilmente	O
+confundida	O
+con	O
+una	O
+enfermedad	O
+psiquiátrica	O
+,	O
+con	O
+consecuencias	O
+deletéreas	O
+.	O

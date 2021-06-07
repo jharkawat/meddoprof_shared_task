@@ -1,0 +1,11 @@
+
+Al	O
+ser	O
+examinada	O
+la	O
+paciente	O
+se	O
+presenta	O
+algo	O
+desprolija	O
+.	O

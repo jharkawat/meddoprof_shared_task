@@ -1,0 +1,26 @@
+
+Esquema	O
+de	O
+valoración	O
+:	O
+historia	O
+toxicológica	O
+,	O
+historia	O
+escolar	O
+,	O
+historia	O
+laboral	O
+,	O
+exploración	O
+médica	O
+,	O
+aspectos	O
+legales	O
+,	O
+historia	O
+familiar	O
+e	O
+historia	O
+psicológica	O
+.	O

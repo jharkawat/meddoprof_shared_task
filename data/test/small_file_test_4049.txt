@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+presenta	O
+buen	O
+estado	O
+general	O
+,	O
+sin	O
+síntomas	O
+dolorosos	O
+y	O
+muy	O
+buena	O
+tolerancia	O
+a	O
+tratamiento	O
+.	O

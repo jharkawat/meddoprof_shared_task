@@ -1,0 +1,24 @@
+
+•	O
+Ante	O
+los	O
+hallazgos	O
+ecográficos	O
+,	O
+se	O
+decide	O
+el	O
+ingreso	O
+de	O
+la	O
+paciente	O
+en	O
+el	O
+Servicio	O
+de	O
+Urología	O
+para	O
+completar	O
+el	O
+estudio	O
+.	O

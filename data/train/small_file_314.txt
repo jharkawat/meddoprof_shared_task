@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+21	O
+/	O
+03	O
+/	O
+2000	O
+.	O

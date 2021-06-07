@@ -1,0 +1,6 @@
+
+Ecografía	O
+del	O
+aparato	O
+urinario	O
+.	O

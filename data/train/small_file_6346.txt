@@ -1,0 +1,6 @@
+
+Fiebre	O
+de	O
+duración	O
+intermedia	O
+.	O

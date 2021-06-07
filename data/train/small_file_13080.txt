@@ -1,0 +1,12 @@
+
+Hematoma	O
+en	O
+brazo	O
+y	O
+antebrazo	O
+izquierdo	O
+sin	O
+evidencia	O
+de	O
+fractura	O
+.	O

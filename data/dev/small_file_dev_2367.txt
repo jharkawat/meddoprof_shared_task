@@ -1,0 +1,19 @@
+
+Desde	O
+entonces	O
+pierde	O
+amistades	O
+,	O
+abandona	B-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+y	O
+se	O
+reduce	O
+de	O
+forma	O
+llamativa	O
+su	O
+nivel	O
+de	O
+actividades	O
+.	O

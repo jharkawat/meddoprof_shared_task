@@ -1,0 +1,14 @@
+
+El	O
+DEP	O
+había	O
+disminuido	O
+tanto	O
+en	O
+su	O
+diámetro	O
+como	O
+en	O
+su	O
+altura	O
+.	O

@@ -1,0 +1,25 @@
+
+Se	O
+pautó	O
+clonazepam	O
+2	O
+,	O
+5	O
+mg	O
+/	O
+día	O
+,	O
+en	O
+tres	O
+tomas	O
+y	O
+sertralina	O
+hasta	O
+200	O
+mg	O
+/	O
+día	O
+en	O
+2	O
+tomas	O
+.	O

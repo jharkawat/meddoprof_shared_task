@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+recibió	O
+tratamiento	O
+con	O
+analgesia	O
+,	O
+con	O
+escasa	O
+mejoría	O
+de	O
+la	O
+sintomatología	O
+.	O

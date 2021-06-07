@@ -1,0 +1,15 @@
+
+En	O
+aquel	O
+tiempo	O
+,	O
+el	O
+paciente	O
+fumaba	O
+7	O
+-	O
+8	O
+porros	O
+al	O
+día	O
+.	O

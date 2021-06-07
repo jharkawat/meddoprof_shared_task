@@ -1,0 +1,16 @@
+
+-	O
+Radiografía	O
+de	O
+tórax	O
+:	O
+sin	O
+evidencia	O
+de	O
+patología	O
+parenquimatosa	O
+pulmonar	O
+ni	O
+pleural	O
+aguda	O
+.	O

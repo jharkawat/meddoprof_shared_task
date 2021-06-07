@@ -1,0 +1,15 @@
+
+Asocia	O
+gran	O
+preocupación	O
+y	O
+ansiedad	O
+por	O
+el	O
+posible	O
+origen	O
+cardiológico	O
+de	O
+los	O
+síntomas	O
+.	O

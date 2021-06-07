@@ -1,0 +1,10 @@
+
+No	O
+presenta	O
+rigidez	O
+nucal	O
+ni	O
+otros	O
+síntomas	O
+neurológicos	O
+.	O

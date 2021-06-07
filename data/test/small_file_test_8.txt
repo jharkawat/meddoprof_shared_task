@@ -1,0 +1,14 @@
+
+Ultrasonido	O
+:	O
+un	O
+examen	O
+que	O
+usa	O
+ondas	O
+sonoras	O
+para	O
+examinar	O
+el	O
+abdomen	O
+.	O

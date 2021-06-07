@@ -1,0 +1,9 @@
+
+No	O
+ha	O
+tenido	O
+ningún	O
+traumatismo	O
+emocional	O
+reciente	O
+.	O

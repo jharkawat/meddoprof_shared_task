@@ -1,0 +1,12 @@
+
+No	O
+se	O
+evidencian	O
+vegetaciones	O
+ni	O
+otros	O
+signos	O
+ecocardiográficos	O
+de	O
+endocarditis	O
+.	O

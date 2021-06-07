@@ -1,0 +1,9 @@
+
+No	O
+hay	O
+otros	O
+signos	O
+de	O
+focalidad	O
+neurológica	O
+.	O

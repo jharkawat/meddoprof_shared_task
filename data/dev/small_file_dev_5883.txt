@@ -1,0 +1,22 @@
+
+Se	O
+agregó	O
+cotrimoxazol	O
+y	O
+se	O
+trasladó	O
+con	O
+ventilación	O
+mecánica	O
+invasiva	O
+en	O
+avión	O
+ambulancia	O
+a	O
+nuestro	O
+hospital	O
+por	O
+sospecha	O
+de	O
+recurrencia	O
+.	O

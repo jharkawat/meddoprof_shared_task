@@ -1,0 +1,12 @@
+
+No	O
+se	O
+visualiza	O
+necrosis	O
+avascular	O
+ni	O
+lesiones	O
+en	O
+el	O
+labrum	O
+.	O

@@ -1,0 +1,21 @@
+
+Tras	O
+ello	O
+,	O
+el	O
+paciente	O
+presenta	O
+clara	O
+mejoría	O
+clínica	O
+,	O
+consiguiendo	O
+deglución	O
+,	O
+recuperación	O
+de	O
+lenguaje	O
+y	O
+marcha	O
+autónoma	O
+.	O

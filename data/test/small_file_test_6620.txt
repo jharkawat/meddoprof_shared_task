@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+es	O
+derivado	O
+a	O
+Urgencias	O
+de	O
+Oftalmología	O
+para	O
+descartar	O
+desprendimiento	O
+de	O
+retina	O
+junto	O
+con	O
+TC	O
+craneal	O
+preferente	O
+.	O

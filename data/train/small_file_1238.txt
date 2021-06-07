@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+20	O
+/	O
+09	O
+/	O
+1944	O
+.	O

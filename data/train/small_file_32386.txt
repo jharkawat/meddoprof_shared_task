@@ -1,0 +1,19 @@
+
+Lleva	O
+una	O
+vida	O
+ociosa	O
+,	O
+sin	O
+objetivos	O
+ni	O
+interés	O
+,	O
+y	O
+presenta	O
+cada	O
+vez	O
+un	O
+mayor	O
+aislamiento	O
+.	O

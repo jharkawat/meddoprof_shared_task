@@ -1,0 +1,17 @@
+
+A	O
+pesar	O
+de	O
+esto	O
+,	O
+niega	O
+necesidad	O
+de	O
+tratamiento	O
+y	O
+se	O
+resiste	O
+inicialmente	O
+al	O
+ingreso	O
+.	O

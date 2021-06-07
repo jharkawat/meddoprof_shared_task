@@ -1,0 +1,18 @@
+
+Dosis	O
+total	O
+administrada	O
+36	O
+Gy	O
+,	O
+en	O
+fracciones	O
+de	O
+2	O
+Gy	O
+,	O
+cinco	O
+días	O
+en	O
+semana	O
+.	O

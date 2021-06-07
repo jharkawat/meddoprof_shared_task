@@ -1,0 +1,16 @@
+
+Hemograma	O
+y	O
+bioquímica	O
+general	O
+sin	O
+alteraciones	O
+relevantes	O
+,	O
+con	O
+hormonas	O
+tiroideas	O
+en	O
+rango	O
+normal	O
+.	O

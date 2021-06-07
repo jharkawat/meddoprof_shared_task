@@ -1,0 +1,26 @@
+
+Previo	O
+al	O
+ingreso	O
+a	O
+UPR	O
+,	O
+el	O
+paciente	O
+ha	O
+dispuesto	O
+de	O
+tratamientos	O
+psicológicos	O
+y	O
+psicoterapéuticos	O
+así	O
+como	O
+tratamientos	O
+psicofarmacológicos	O
+que	O
+se	O
+exponen	O
+a	O
+continuación	O
+:	O

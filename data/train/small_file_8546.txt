@@ -1,0 +1,14 @@
+
+Eupneico	O
+,	O
+afebril	O
+e	O
+hipertenso	O
+con	O
+cifras	O
+de	O
+150	O
+/	O
+95	O
+mmHg	O
+.	O

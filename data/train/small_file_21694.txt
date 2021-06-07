@@ -1,0 +1,17 @@
+
+Tiene	O
+un	O
+hermano	O
+mayor	O
+(	O
+37	O
+años	O
+)	O
+con	O
+el	O
+que	O
+mantiene	O
+una	O
+excelente	O
+relación	O
+.	O

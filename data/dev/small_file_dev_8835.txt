@@ -1,0 +1,21 @@
+
+Además	O
+refiere	O
+cuadro	O
+constitucional	O
+de	O
+2	O
+meses	O
+de	O
+evolución	O
+,	O
+con	O
+astenia	O
+y	O
+pérdida	O
+ponderal	O
+cuantificada	O
+de	O
+10	O
+kg	O
+.	O

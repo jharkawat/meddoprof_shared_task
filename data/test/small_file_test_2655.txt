@@ -1,0 +1,22 @@
+
+Analíticamente	O
+presenta	O
+normalización	O
+de	O
+la	O
+neutropenia	O
+y	O
+trombopenia	O
+,	O
+pero	O
+persistencia	O
+de	O
+linfopenia	O
+grado	O
+4	O
+(	O
+200	O
+/	O
+ul	O
+)	O
+.	O

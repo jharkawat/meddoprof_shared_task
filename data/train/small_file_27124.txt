@@ -1,0 +1,20 @@
+
+Desde	O
+el	O
+servicio	O
+de	O
+Oftalmología	O
+informan	O
+de	O
+una	O
+exploración	O
+normal	O
+,	O
+salvo	O
+hallazgo	O
+casual	O
+de	O
+leve	O
+borramiento	O
+papilar	O
+.	O

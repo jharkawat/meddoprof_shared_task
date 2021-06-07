@@ -1,0 +1,18 @@
+
+No	O
+existen	O
+confabulaciones	O
+francas	O
+con	O
+respecto	O
+a	O
+aquellos	O
+aspectos	O
+que	O
+nos	O
+son	O
+conocidos	O
+de	O
+su	O
+historia	O
+.	O

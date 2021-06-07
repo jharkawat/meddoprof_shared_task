@@ -1,0 +1,24 @@
+
+Esto	O
+hizo	O
+que	O
+hace	O
+9	O
+años	O
+se	O
+decidiera	O
+a	O
+buscar	O
+un	O
+trabajo	B-PROFESION
+remunerado	I-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+agencia	I-PROFESION
+de	I-PROFESION
+publicidad	I-PROFESION
+dadas	O
+sus	O
+dotes	O
+artísticas	O
+.	O

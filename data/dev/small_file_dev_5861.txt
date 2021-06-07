@@ -1,0 +1,15 @@
+
+El	O
+postoperatorio	O
+transcurre	O
+sin	O
+incidencias	O
+,	O
+retirando	O
+la	O
+sonda	O
+a	O
+los	O
+10	O
+días	O
+.	O

@@ -1,0 +1,22 @@
+
+Se	O
+hace	O
+un	O
+ajuste	O
+progresivo	O
+de	O
+dosis	O
+llegando	O
+a	O
+300	O
+mg	O
+diarios	O
+con	O
+los	O
+que	O
+se	O
+mantiene	O
+hasta	O
+la	O
+actualidad	O
+.	O

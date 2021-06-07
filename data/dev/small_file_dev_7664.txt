@@ -1,0 +1,24 @@
+
+También	O
+sería	O
+necesario	O
+plantearse	O
+el	O
+diagnóstico	O
+de	O
+listeriosis	O
+y	O
+salmonelosis	O
+,	O
+más	O
+probables	O
+en	O
+caso	O
+de	O
+consumo	O
+de	O
+productos	O
+lácteos	O
+no	O
+pasteurizados	O
+.	O

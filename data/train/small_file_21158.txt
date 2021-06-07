@@ -1,0 +1,20 @@
+
+La	O
+leve	O
+deficiencia	O
+fue	O
+confirmada	O
+por	O
+una	O
+ligera	O
+disminución	O
+en	O
+su	O
+rendimiento	O
+en	O
+las	O
+pruebas	O
+de	O
+estado	O
+mental	O
+.	O

@@ -1,0 +1,16 @@
+
+No	O
+había	O
+tampoco	O
+evidencia	O
+de	O
+un	O
+síndrome	O
+amnésico	O
+o	O
+de	O
+un	O
+estado	O
+de	O
+delirium	O
+.	O

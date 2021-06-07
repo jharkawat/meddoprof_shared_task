@@ -1,0 +1,19 @@
+
+A	O
+veces	O
+se	O
+despierta	O
+por	O
+la	O
+noche	O
+,	O
+con	O
+rápida	O
+recuperación	O
+del	O
+sueño	O
+,	O
+sin	O
+despertares	O
+precoces	O
+.	O

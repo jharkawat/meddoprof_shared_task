@@ -1,0 +1,18 @@
+
+Remitido	O
+por	O
+:	O
+Dr	B-PROFESION
+.	I-PROFESION
+Ricardo	O
+Navarro	O
+Suay	O
+r	O
+_	O
+navarro	O
+_	O
+suay	O
+@	O
+yahoo	O
+.	O
+es	O

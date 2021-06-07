@@ -1,0 +1,11 @@
+
+Iba	O
+vestida	O
+con	O
+vaqueros	O
+y	O
+una	O
+camisa	O
+mal	O
+abrochada	O
+.	O

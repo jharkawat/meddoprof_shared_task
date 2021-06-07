@@ -1,0 +1,13 @@
+
+Valorada	O
+por	O
+el	O
+servicio	O
+de	O
+vascular	O
+pendiente	O
+de	O
+realizar	O
+angiografía	O
+terapéutica	O
+.	O

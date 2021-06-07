@@ -1,0 +1,26 @@
+
+A	O
+nivel	O
+psicopatológico	O
+solo	O
+se	O
+objetiva	O
+clínica	O
+compatible	O
+con	O
+un	O
+episodio	O
+depresivo	O
+mayor	O
+,	O
+que	O
+se	O
+interpreta	O
+como	O
+secundario	O
+al	O
+grave	O
+y	O
+progresivo	O
+deterioro	O
+.	O

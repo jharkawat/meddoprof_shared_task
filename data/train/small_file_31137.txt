@@ -1,0 +1,10 @@
+
+Antecedentes	O
+médico	O
+-	O
+psiquiátricos	O
+:	O
+No	O
+alteraciones	O
+orgánicas	O
+.	O

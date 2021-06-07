@@ -1,0 +1,10 @@
+
+Leve	O
+hipoacusia	O
+de	O
+transmisión	O
+en	O
+el	O
+oído	O
+derecho	O
+.	O

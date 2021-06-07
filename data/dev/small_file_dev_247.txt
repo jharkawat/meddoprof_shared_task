@@ -1,0 +1,20 @@
+
+Las	O
+personas	O
+con	O
+EP	O
+y	O
+psicosis	O
+deben	O
+recibir	O
+una	O
+evaluación	O
+médica	O
+general	O
+excluyendo	O
+otras	O
+causas	O
+tratables	O
+de	O
+psicosis	O
+.	O

@@ -1,0 +1,6 @@
+
+Paciente	O
+con	O
+ECOG	O
+0	O
+.	O

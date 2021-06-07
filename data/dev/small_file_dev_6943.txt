@@ -1,0 +1,8 @@
+
+A	O
+la	O
+auscultación	O
+destacaba	O
+hipofonesis	O
+generalizada	O
+.	O

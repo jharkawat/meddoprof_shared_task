@@ -1,0 +1,19 @@
+
+El	O
+diagnóstico	O
+diferencial	O
+lo	O
+planteamos	O
+por	O
+un	O
+lado	O
+en	O
+la	O
+eosinofilia	O
+y	O
+por	O
+otro	O
+en	O
+la	O
+hipertransaminasemia	O
+.	O

@@ -1,0 +1,12 @@
+
+Abdomen	O
+blando	O
+,	O
+depresible	O
+,	O
+sin	O
+palpar	O
+organomegalias	O
+ni	O
+masas	O
+.	O

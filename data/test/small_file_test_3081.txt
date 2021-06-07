@@ -1,0 +1,17 @@
+
+Se	O
+aprecia	O
+fractura	O
+patológica	O
+de	O
+húmero	O
+distal	O
+secundaria	O
+a	O
+la	O
+presencia	O
+de	O
+una	O
+lesión	O
+lítica	O
+.	O

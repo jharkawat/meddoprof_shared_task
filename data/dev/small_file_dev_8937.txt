@@ -1,0 +1,23 @@
+
+Se	O
+mantuvo	O
+el	O
+tratamiento	O
+antituberculoso	O
+durante	O
+18	O
+meses	O
+con	O
+buena	O
+evolución	O
+clínica	O
+y	O
+se	O
+realizó	O
+seguimiento	O
+durante	O
+24	O
+meses	O
+sin	O
+recidiva	O
+.	O

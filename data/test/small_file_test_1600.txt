@@ -1,0 +1,16 @@
+
+En	O
+la	O
+exploración	O
+radiográfica	O
+periapical	O
+se	O
+aprecia	O
+pérdida	O
+ósea	O
+(	O
+PO	O
+)	O
+claramente	O
+detectable	O
+.	O

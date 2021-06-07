@@ -1,0 +1,17 @@
+
+Días	O
+antes	O
+de	O
+su	O
+fallecimiento	O
+se	O
+registra	O
+la	O
+solicitud	O
+de	O
+alprazolam	O
+en	O
+un	O
+centro	O
+sanitario	O
+.	O

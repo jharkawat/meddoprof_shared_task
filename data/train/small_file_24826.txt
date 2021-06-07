@@ -1,0 +1,16 @@
+
+Tratamiento	O
+al	O
+alta	O
+:	O
+Risperdal	O
+3	O
+mg	O
+(	O
+1	O
+-	O
+0	O
+-	O
+2	O
+)	O
+.	O

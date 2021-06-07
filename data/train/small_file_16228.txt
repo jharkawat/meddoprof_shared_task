@@ -1,0 +1,12 @@
+
+PCR	O
+para	O
+herpes	O
+simple	O
+,	O
+varicela	O
+zóster	O
+y	O
+enterovirus	O
+negativas	O
+.	O

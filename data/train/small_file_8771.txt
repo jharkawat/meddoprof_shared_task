@@ -1,0 +1,6 @@
+
+Parásitos	O
+en	O
+sangre	O
+negativos	O
+.	O

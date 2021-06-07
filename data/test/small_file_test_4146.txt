@@ -1,0 +1,18 @@
+
+Ingresa	O
+en	O
+agosto	O
+de	O
+2011	O
+por	O
+síndrome	O
+febril	O
+con	O
+abscesificación	O
+de	O
+conglomerado	O
+en	O
+la	O
+fosa	O
+supraclavicular	O
+.	O

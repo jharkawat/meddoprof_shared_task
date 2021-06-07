@@ -1,0 +1,13 @@
+
+La	O
+separación	O
+fue	O
+amistosa	O
+respecto	O
+a	O
+régimen	O
+de	O
+visitas	O
+,	O
+etc	O
+.	O

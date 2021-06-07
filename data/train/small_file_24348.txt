@@ -1,0 +1,8 @@
+
+No	O
+se	O
+objetivaron	O
+antecedentes	O
+somáticos	O
+relevantes	O
+.	O

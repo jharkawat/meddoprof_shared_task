@@ -1,0 +1,23 @@
+
+Familia	O
+de	O
+clase	O
+media	O
+con	O
+recursos	O
+limitados	O
+,	O
+recibe	O
+la	O
+ayuda	O
+de	O
+una	O
+auxiliar	B-PROFESION
+a	I-PROFESION
+domicilio	I-PROFESION
+durante	O
+dos	O
+horas	O
+al	O
+día	O
+.	O

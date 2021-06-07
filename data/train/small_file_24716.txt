@@ -1,0 +1,19 @@
+
+Se	O
+le	O
+da	O
+el	O
+alta	O
+y	O
+actualmente	O
+se	O
+encuentra	O
+estable	O
+,	O
+con	O
+buena	O
+adherencia	O
+a	O
+pautas	O
+terapéuticas	O
+.	O

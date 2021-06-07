@@ -1,0 +1,11 @@
+
+Antecedentes	O
+de	O
+trastornos	O
+afectivos	O
+en	O
+familiares	O
+de	O
+primer	O
+grado	O
+.	O

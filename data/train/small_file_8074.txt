@@ -1,0 +1,11 @@
+
+Es	O
+catalogado	O
+como	O
+cuadro	O
+psicótico	O
+y	O
+derivado	O
+al	O
+hospital	O
+.	O

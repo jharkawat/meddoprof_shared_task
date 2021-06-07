@@ -1,0 +1,11 @@
+
+Con	O
+el	O
+tratamiento	O
+estuvo	O
+desde	O
+el	O
+2003	O
+al	O
+2006	O
+.	O

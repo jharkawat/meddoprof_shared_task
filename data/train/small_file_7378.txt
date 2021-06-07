@@ -1,0 +1,5 @@
+
+Ocupación	O
+:	O
+electricista	B-PROFESION
+.	O

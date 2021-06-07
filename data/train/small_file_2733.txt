@@ -1,0 +1,4 @@
+
+ROT	O
+normales	O
+.	O

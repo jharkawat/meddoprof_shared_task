@@ -1,0 +1,24 @@
+
+La	O
+sintomatología	O
+extrapiramidal	O
+ha	O
+disminuido	O
+marcadamente	O
+y	O
+tras	O
+pasar	O
+20	O
+años	O
+prácticamente	O
+aislada	O
+en	O
+domicilio	O
+,	O
+la	O
+paciente	O
+ha	O
+recuperado	O
+su	O
+vida	O
+.	O

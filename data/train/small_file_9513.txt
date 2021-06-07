@@ -1,0 +1,5 @@
+
+No	O
+tiene	O
+artritis	O
+.	O

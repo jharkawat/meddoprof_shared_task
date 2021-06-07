@@ -1,0 +1,12 @@
+
+Actualmente	O
+vive	O
+con	O
+una	O
+hermana	O
+que	O
+también	O
+tiene	O
+patología	O
+psiquiátrica	O
+.	O

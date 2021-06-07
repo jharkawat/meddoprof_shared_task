@@ -1,0 +1,26 @@
+
+A	O
+pesar	O
+del	O
+tratamiento	O
+correcto	O
+y	O
+tras	O
+su	O
+finalización	O
+,	O
+el	O
+paciente	O
+sigue	O
+presentando	O
+la	O
+misma	O
+clínica	O
+,	O
+incluso	O
+un	O
+empeoramiento	O
+de	O
+los	O
+síntomas	O
+.	O

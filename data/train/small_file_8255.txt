@@ -1,0 +1,10 @@
+
+No	O
+alergias	O
+,	O
+tóxicos	O
+,	O
+alergias	O
+o	O
+tratamiento	O
+.	O

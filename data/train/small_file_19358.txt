@@ -1,0 +1,8 @@
+
+PAUTA	O
+ACTUAL	O
+:	O
+22	O
+COMP	O
+.	O
+	O

@@ -1,0 +1,8 @@
+
+No	O
+se	O
+objetivaron	O
+otras	O
+anomalías	O
+relevantes	O
+.	O

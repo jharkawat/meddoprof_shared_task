@@ -1,0 +1,14 @@
+
+Recibió	O
+tratamiento	O
+con	O
+dosis	O
+bajas	O
+de	O
+antipsicótico	O
+atípico	O
+con	O
+mejoría	O
+clínica	O
+notoria	O
+.	O

@@ -1,0 +1,15 @@
+
+•	O
+Leucocitos	O
+3	O
+.	O
+200	O
+;	O
+Hematies	O
+3	O
+,	O
+8	O
+;	O
+Plaquetas	O
+:	O
+134000	O

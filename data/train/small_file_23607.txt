@@ -1,0 +1,10 @@
+
+El	O
+diagnóstico	O
+se	O
+confirmó	O
+posteriormente	O
+mediante	O
+prueba	O
+genética	O
+.	O

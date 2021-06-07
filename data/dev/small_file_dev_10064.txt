@@ -1,0 +1,18 @@
+
+Mas	O
+adelante	O
+se	O
+apartó	O
+de	O
+sus	O
+amigos	O
+y	O
+cada	O
+vez	O
+se	O
+encerró	O
+más	O
+en	O
+sí	O
+mismo	O
+.	O

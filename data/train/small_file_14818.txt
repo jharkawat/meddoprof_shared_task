@@ -1,0 +1,10 @@
+
+Se	O
+inicia	O
+levetiracetam	O
+500mg	O
+y	O
+tratamiento	O
+antihipertensivo	O
+endovenoso	O
+.	O

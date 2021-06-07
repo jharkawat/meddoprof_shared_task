@@ -1,0 +1,14 @@
+
+Previamente	O
+había	O
+sido	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+y	O
+epilepsia	O
+del	O
+lóbulo	O
+temporal	O
+.	O

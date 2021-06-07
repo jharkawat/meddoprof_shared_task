@@ -1,0 +1,15 @@
+
+-	O
+TC	O
+tóraco	O
+-	O
+abdómino	O
+-	O
+pélvica	O
+:	O
+ausencia	O
+de	O
+metástasis	O
+a	O
+distancia	O
+.	O

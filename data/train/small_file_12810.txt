@@ -1,0 +1,15 @@
+
+Ha	O
+seguido	O
+revisiones	O
+en	O
+Neuropediatría	O
+,	O
+Oftalmología	O
+y	O
+en	O
+la	O
+Unidad	O
+de	O
+Trombosis	O
+.	O

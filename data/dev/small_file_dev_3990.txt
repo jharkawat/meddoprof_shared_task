@@ -1,0 +1,12 @@
+
+-	O
+Terapia	O
+Cognitiva	O
+para	O
+la	O
+Esquizofrenia	O
+(	O
+Delirios	O
+y	O
+Alucinaciones	O
+)	O

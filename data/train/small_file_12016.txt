@@ -1,0 +1,23 @@
+
+Tenía	O
+unas	O
+dimensiones	O
+de	O
+19	O
+cm	O
+de	O
+diámetro	O
+longitudinal	O
+por	O
+15	O
+cm	O
+de	O
+diámetro	O
+transverso	O
+por	O
+5	O
+cm	O
+de	O
+diámetro	O
+anteroposterior	O
+.	O

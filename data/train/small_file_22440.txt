@@ -1,0 +1,5 @@
+
+Sodio	O
+previo	O
+normal	O
+.	O

@@ -1,0 +1,13 @@
+
+Éstas	O
+condicionan	O
+una	O
+herniación	O
+subfalcina	O
+y	O
+desplazamiento	O
+de	O
+la	O
+línea	O
+media	O
+.	O

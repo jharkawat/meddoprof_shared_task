@@ -1,0 +1,16 @@
+
+El	O
+motivo	O
+de	B-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+baja	I-SITUACION_LABORAL
+actual	O
+es	O
+dolor	O
+neuropático	O
+(	O
+no	O
+aporta	O
+informes	O
+)	O
+.	O

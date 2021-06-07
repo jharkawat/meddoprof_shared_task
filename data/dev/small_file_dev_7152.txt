@@ -1,0 +1,25 @@
+
+Natural	O
+de	O
+Colombia	O
+,	O
+jubilado	B-SITUACION_LABORAL
+,	O
+trabajó	O
+como	O
+agricultor	B-PROFESION
+en	O
+Colombia	O
+e	O
+Inglaterra	O
+,	O
+para	O
+posteriormente	O
+trabajar	B-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+industria	I-PROFESION
+farmacéutica	I-PROFESION
+en	O
+Inglaterra	O
+.	O

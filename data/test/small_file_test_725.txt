@@ -1,0 +1,10 @@
+
+Datos	O
+de	O
+la	O
+exploración	O
+:	O
+Abdomen	O
+doloroso	O
+difusamente	O
+.	O

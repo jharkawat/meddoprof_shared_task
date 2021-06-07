@@ -1,0 +1,23 @@
+
+Antecedentes	O
+personales	O
+:	O
+Intervenido	O
+de	O
+Hernia	O
+inguinal	O
+derecha	O
+.	O
+Pendiente	O
+de	O
+intervenirse	O
+de	O
+supuesta	O
+hernia	O
+inguinal	O
+izquierda	O
+.	O
+Profesión	O
+:	O
+peluquero	B-PROFESION
+.	O

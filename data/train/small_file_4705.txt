@@ -1,0 +1,18 @@
+
+Al	O
+finalizar	O
+la	O
+rehabilitación	O
+,	O
+recibe	O
+el	O
+alta	O
+laboral	O
+,	O
+quedando	O
+después	O
+en	B-SITUACION_LABORAL
+situación	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+desempleo	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,13 @@
+
+En	O
+rx	O
+Tórax	O
+:	O
+patrón	O
+intersticial	O
+bilateral	O
+y	O
+nódulos	O
+pulmonares	O
+bilaterales	O
+.	O

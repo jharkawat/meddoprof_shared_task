@@ -1,0 +1,10 @@
+
+Insistencia	O
+en	O
+que	O
+realice	O
+5	O
+comidas	O
+al	O
+día	O
+.	O

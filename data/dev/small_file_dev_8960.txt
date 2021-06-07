@@ -1,0 +1,9 @@
+
+Se	O
+realizó	O
+ECG	O
+,	O
+radiografía	O
+de	O
+tórax	O
+.	O

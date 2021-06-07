@@ -1,0 +1,22 @@
+
+En	O
+marzo	O
+de	O
+2013	O
+,	O
+estando	O
+en	O
+seguimiento	O
+en	O
+Hospital	O
+de	O
+Día	O
+,	O
+vuelve	O
+a	O
+ser	O
+derivado	O
+en	O
+dos	O
+ocasiones	O
+.	O

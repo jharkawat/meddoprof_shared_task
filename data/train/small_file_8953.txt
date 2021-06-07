@@ -1,0 +1,8 @@
+
+No	O
+se	O
+aprecia	O
+condensación	O
+ni	O
+derrame	O
+.	O

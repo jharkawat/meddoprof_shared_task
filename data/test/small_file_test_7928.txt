@@ -1,0 +1,7 @@
+
+Hipoestesia	O
+parchada	O
+en	O
+todo	O
+MII	O
+.	O

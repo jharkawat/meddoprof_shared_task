@@ -1,0 +1,6 @@
+
+No	O
+seguía	O
+tratamiento	O
+habitual	O
+.	O

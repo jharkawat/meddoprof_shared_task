@@ -1,0 +1,6 @@
+
+Se	O
+prescribe	O
+loción	O
+epitelizante	O
+.	O

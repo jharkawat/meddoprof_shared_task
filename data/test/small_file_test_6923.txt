@@ -1,0 +1,11 @@
+
+Gastroscopia	O
+:	O
+esófago	O
+normal	O
+sin	O
+hallazgos	O
+sugestivos	O
+de	O
+candidiasis	O
+.	O

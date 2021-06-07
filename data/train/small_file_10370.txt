@@ -1,0 +1,23 @@
+
+Eupneica	O
+en	O
+reposo	O
+y	O
+hemodinámicamente	O
+estable	O
+con	O
+cifras	O
+tensionales	O
+de	O
+120	O
+/	O
+65	O
+mmHg	O
+y	O
+FC	O
+de	O
+70	O
+latidos	O
+por	O
+minuto	O
+.	O

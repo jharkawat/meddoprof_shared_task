@@ -1,0 +1,18 @@
+
+Se	O
+dieron	O
+pautas	O
+de	O
+conducta	O
+que	O
+no	O
+fueron	O
+efectivas	O
+,	O
+dado	O
+el	O
+intervalo	O
+entre	O
+las	O
+visitas	O
+.	O

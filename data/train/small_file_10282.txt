@@ -1,0 +1,5 @@
+
+ANA	O
+:	O
+negativo	O
+.	O

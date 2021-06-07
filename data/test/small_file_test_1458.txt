@@ -1,0 +1,17 @@
+
+En	O
+estas	O
+visitas	O
+se	O
+revisaron	O
+índices	O
+de	O
+placa	O
+,	O
+PS	O
+,	O
+y	O
+la	O
+estabilidad	O
+oclusal	O
+.	O

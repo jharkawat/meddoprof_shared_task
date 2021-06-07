@@ -1,0 +1,25 @@
+
+Con	O
+estos	O
+dos	O
+últimos	O
+antipsicóticos	O
+se	O
+consigue	O
+una	O
+mejoría	O
+de	O
+los	O
+efectos	O
+secundarios	O
+referidos	O
+,	O
+pero	O
+un	O
+mal	O
+control	O
+de	O
+los	O
+síntomas	O
+psicóticos	O
+.	O

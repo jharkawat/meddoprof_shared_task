@@ -1,0 +1,22 @@
+
+Pérdida	O
+de	O
+fuerza	O
+4	O
+/	O
+5	O
+en	O
+el	O
+miembro	O
+inferior	O
+derecho	O
+y	O
+2	O
+/	O
+5	O
+en	O
+el	O
+miembro	O
+inferior	O
+izquierdo	O
+.	O

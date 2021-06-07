@@ -1,0 +1,27 @@
+
+En	O
+estudio	O
+de	O
+reevaluación	O
+por	O
+TC	O
+se	O
+confirma	O
+esta	O
+respuesta	O
+junto	O
+con	O
+disminución	O
+de	O
+las	O
+dimensiones	O
+de	O
+la	O
+lesión	O
+de	O
+oído	O
+medio	O
+del	O
+40	O
+%	O
+.	O

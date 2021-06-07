@@ -1,0 +1,9 @@
+
+Esputo	O
+:	O
+cultivo	O
+con	O
+flora	O
+regional	O
+normal	O
+.	O

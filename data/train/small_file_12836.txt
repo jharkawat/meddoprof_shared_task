@@ -1,0 +1,10 @@
+
+El	O
+TAC	O
+craneofacial	O
+delimitó	O
+la	O
+extensión	O
+del	O
+proceso	O
+.	O

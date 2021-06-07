@@ -1,0 +1,24 @@
+
+Coleman	O
+describió	O
+que	O
+sus	O
+vicios	O
+eran	O
+«	O
+el	O
+alcohol	O
+,	O
+los	O
+cigarrillos	O
+,	O
+no	O
+respetar	O
+a	O
+mis	O
+padres	O
+y	O
+las	O
+chicas	O
+»	O
+.	O

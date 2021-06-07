@@ -1,0 +1,14 @@
+
+Reside	O
+,	O
+desde	O
+hace	O
+un	O
+año	O
+,	O
+en	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+centro	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+deshabituación	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,13 @@
+
+Intenta	O
+llamar	O
+la	O
+atención	O
+y	O
+buscar	O
+el	O
+afecto	O
+en	O
+los	O
+profesores	B-PROFESION
+.	O

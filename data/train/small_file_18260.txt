@@ -1,0 +1,14 @@
+
+En	O
+la	O
+OCT	O
+no	O
+existían	O
+imágenes	O
+de	O
+edema	O
+macular	O
+ni	O
+fluido	O
+subfoveal	O
+.	O

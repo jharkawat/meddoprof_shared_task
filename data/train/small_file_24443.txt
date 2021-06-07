@@ -1,0 +1,18 @@
+
+En	O
+el	O
+momento	O
+actual	O
+comienza	O
+a	O
+cursar	O
+un	O
+módulo	O
+superior	O
+y	O
+colabora	B-PROFESION
+en	I-PROFESION
+el	I-PROFESION
+negocio	I-PROFESION
+familiar	I-PROFESION
+.	O

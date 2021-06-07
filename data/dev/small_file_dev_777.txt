@@ -1,0 +1,5 @@
+
+Régimen	O
+dietético	O
+extravagante	O
+.	O

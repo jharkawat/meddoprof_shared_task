@@ -1,0 +1,16 @@
+
+Sus	O
+dos	O
+hermanos	O
+mayores	O
+fueron	O
+bastante	O
+exitosos	O
+en	O
+la	O
+escuela	O
+y	O
+en	O
+sus	O
+carreras	O
+.	O

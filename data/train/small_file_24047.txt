@@ -1,0 +1,13 @@
+
+Estudios	O
+completados	O
+hasta	O
+el	O
+momento	O
+satisfactoriamente	O
+,	O
+hasta	O
+3o	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+ESO	I-SITUACION_LABORAL
+.	O

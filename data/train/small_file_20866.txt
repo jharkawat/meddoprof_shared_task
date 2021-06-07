@@ -1,0 +1,20 @@
+
+Está	O
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+(	O
+ha	B-PROFESION
+tenido	I-PROFESION
+trabajos	I-PROFESION
+esporádicos	I-PROFESION
+como	O
+limpiador	B-PROFESION
+,	O
+guardia	B-PROFESION
+de	I-PROFESION
+seguridad	I-PROFESION
+,	O
+etc	O
+.	O
+)	O
+.	O

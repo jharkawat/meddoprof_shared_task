@@ -1,0 +1,11 @@
+
+Presenta	O
+dolor	O
+periumbilical	O
+que	O
+se	O
+acentúa	O
+con	O
+los	O
+movimientos	O
+.	O

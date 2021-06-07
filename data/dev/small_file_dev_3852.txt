@@ -1,0 +1,21 @@
+
+El	O
+entrevistador	B-PROFESION
+se	O
+muestra	O
+algo	O
+incrédulo	O
+y	O
+Susana	O
+afirma	O
+que	O
+mucha	O
+gente	O
+no	O
+cree	O
+que	O
+ella	O
+es	O
+un	O
+genio	O
+.	O

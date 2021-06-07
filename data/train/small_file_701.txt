@@ -1,0 +1,22 @@
+
+Se	O
+premedica	O
+al	O
+paciente	O
+con	O
+amoxicilina	O
+y	O
+ácido	O
+clavulánico	O
+1	O
+.	O
+000	O
+/	O
+200	O
+mg	O
+intravenosos	O
+,	O
+respectivamente	O
+,	O
+unidosis	O
+.	O

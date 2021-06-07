@@ -1,0 +1,19 @@
+
+Precisa	O
+tratamiento	O
+con	O
+rocaltrol	O
+y	O
+gluconato	O
+cálcico	O
+y	O
+sustitución	O
+de	O
+hormonas	O
+tiroideas	O
+con	O
+100	O
+mg	O
+de	O
+levotiroxina	O
+.	O

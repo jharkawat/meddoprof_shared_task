@@ -1,0 +1,15 @@
+
+Madre	O
+diagnosticada	O
+de	O
+una	O
+neoplasia	O
+de	O
+mama	O
+a	O
+la	O
+edad	O
+de	O
+60	O
+años	O
+.	O

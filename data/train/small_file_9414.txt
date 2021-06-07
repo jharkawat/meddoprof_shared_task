@@ -1,0 +1,12 @@
+
+PCR	O
+sangre	O
+(	O
+resultado	O
+4	O
+semanas	O
+posterior	O
+)	O
+:	O
+Negativa	O
+.	O

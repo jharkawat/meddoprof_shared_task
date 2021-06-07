@@ -1,0 +1,16 @@
+
+Su	O
+padre	O
+padecía	O
+de	O
+artritis	O
+psoriásica	O
+,	O
+como	O
+único	O
+antecedente	O
+familiar	O
+médico	O
+de	O
+interés	O
+.	O

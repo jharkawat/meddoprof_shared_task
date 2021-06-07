@@ -1,0 +1,24 @@
+
+Se	O
+debe	O
+sospechar	O
+en	O
+personas	O
+que	O
+han	O
+viajado	O
+al	O
+África	O
+subsahariana	O
+y	O
+han	O
+podido	O
+estar	O
+en	O
+contacto	O
+con	O
+ganado	O
+o	O
+animales	O
+salvajes	O
+.	O

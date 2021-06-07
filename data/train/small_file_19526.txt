@@ -1,0 +1,7 @@
+
+Niega	O
+antecedentes	O
+quirúrgicos	O
+y	O
+transfusionales	O
+.	O

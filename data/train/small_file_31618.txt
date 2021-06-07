@@ -1,0 +1,14 @@
+
+Biopsia	O
+cutánea	O
+(	O
+junio	O
+/	O
+2008	O
+)	O
+:	O
+nevus	O
+melanocítico	O
+intradérmico	O
+pediculado	O
+.	O

@@ -1,0 +1,13 @@
+
+Niega	O
+haber	O
+tomado	O
+tóxicos	O
+,	O
+no	O
+refiere	O
+fiebre	O
+ni	O
+traumatismo	O
+previo	O
+.	O

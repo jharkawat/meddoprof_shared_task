@@ -1,0 +1,21 @@
+
+Recibe	O
+tratamiento	O
+ambulatorio	O
+con	O
+antirretrovirales	O
+desde	O
+hace	O
+un	O
+año	O
+y	O
+su	O
+pareja	O
+sexual	O
+(	O
+concubina	O
+)	O
+recibe	O
+igual	O
+tratamiento	O
+.	O

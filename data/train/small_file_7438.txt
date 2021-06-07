@@ -1,0 +1,7 @@
+
+Sin	O
+antecedentes	O
+quirúrgicos	O
+de	O
+interés	O
+.	O

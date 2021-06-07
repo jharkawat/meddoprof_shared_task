@@ -1,0 +1,9 @@
+
+Temperatura	O
+:	O
+34	O
+,	O
+5	O
+°	O
+C	O
+.	O

@@ -1,0 +1,17 @@
+
+Eupneica	O
+en	O
+reposo	O
+con	O
+12	O
+-	O
+14	O
+rpm	O
+con	O
+O2	O
+a	O
+2	O
+lpm	O
+en	O
+GN	O
+.	O

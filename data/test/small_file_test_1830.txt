@@ -1,0 +1,27 @@
+
+Durante	O
+su	O
+ingreso	O
+y	O
+tras	O
+la	O
+mejoría	O
+de	O
+la	O
+clínica	O
+que	O
+motivó	O
+el	O
+mismo	O
+,	O
+el	O
+paciente	O
+presentó	O
+dolor	O
+lumbar	O
+con	O
+irradiación	O
+a	O
+extremidades	O
+inferiores	O
+.	O

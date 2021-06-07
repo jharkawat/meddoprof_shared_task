@@ -1,0 +1,16 @@
+
+Vivienda	O
+:	O
+Casa	O
+de	O
+block	O
+techada	O
+de	O
+cemento	O
+,	O
+3	O
+habitaciones	O
+viven	O
+7	O
+personas	O
+.	O

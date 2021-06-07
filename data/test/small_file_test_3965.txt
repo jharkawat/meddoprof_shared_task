@@ -1,0 +1,18 @@
+
+El	O
+citoplasma	O
+era	O
+basófilo	O
+,	O
+vacuolado	O
+,	O
+sin	O
+granulación	O
+o	O
+con	O
+muy	O
+escasa	O
+granulación	O
+fina	O
+azurófila	O
+.	O

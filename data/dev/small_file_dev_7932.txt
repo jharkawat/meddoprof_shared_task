@@ -1,0 +1,21 @@
+
+RM	O
+corte	O
+sagital	O
+columna	O
+lumbosacra	O
+secuencia	O
+T1	O
+y	O
+T2	O
+:	O
+afectaión	O
+de	O
+cuerpos	O
+vertebrales	O
+L3	O
+,	O
+L4	O
+y	O
+L5	O
+.	O

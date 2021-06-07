@@ -1,0 +1,24 @@
+
+Se	O
+realiza	O
+cirugía	O
+con	O
+exéresis	O
+macroscópica	O
+de	O
+una	O
+lesión	O
+polilobulada	O
+de	O
+5	O
+cm	O
+,	O
+con	O
+hallazgos	O
+histopatológicos	O
+compatibles	O
+con	O
+recidiva	O
+de	O
+angiomixoma	O
+.	O

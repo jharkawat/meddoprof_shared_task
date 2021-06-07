@@ -1,0 +1,11 @@
+
+Abusó	O
+ocasionalmente	O
+del	O
+alcohol	O
+y	O
+cannabis	O
+en	O
+dicho	O
+período	O
+.	O

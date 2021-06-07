@@ -1,0 +1,10 @@
+
+Como	O
+antecedentes	O
+personales	O
+sólo	O
+destacaba	O
+alergia	O
+a	O
+ampicilina	O
+.	O

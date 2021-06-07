@@ -1,0 +1,22 @@
+
+Su	O
+médico	B-PROFESION
+le	O
+remitió	O
+a	O
+Urgencias	O
+de	O
+nuestro	O
+centro	O
+con	O
+el	O
+diagnóstico	O
+de	O
+condilomas	O
+genitales	O
+de	O
+3	O
+semanas	O
+de	O
+evolución	O
+.	O

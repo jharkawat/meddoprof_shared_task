@@ -1,0 +1,14 @@
+
+Sin	O
+embargo	O
+,	O
+el	O
+examen	O
+de	O
+concentración	O
+y	O
+memoria	O
+reveló	O
+algunas	O
+dificultades	O
+.	O

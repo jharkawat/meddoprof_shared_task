@@ -1,0 +1,16 @@
+
+Al	O
+separarse	O
+(	O
+estuvo	O
+casada	O
+2	O
+años	O
+)	O
+comenzó	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+realizar	I-SITUACION_LABORAL
+su	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+actual	I-SITUACION_LABORAL
+.	O

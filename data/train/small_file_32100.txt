@@ -1,0 +1,24 @@
+
+Tras	O
+la	O
+primera	O
+semana	O
+de	O
+ingreso	O
+,	O
+suspendemos	O
+el	O
+tratamiento	O
+neuroléptico	O
+empleado	O
+previamente	O
+e	O
+introducimos	O
+olanzapina	O
+(	O
+15	O
+mg	O
+/	O
+día	O
+)	O
+.	O

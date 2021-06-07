@@ -1,0 +1,16 @@
+
+No	O
+constan	O
+en	O
+su	O
+historial	O
+ingresos	O
+o	O
+consultas	O
+previas	O
+por	O
+procesos	O
+respiratorios	O
+o	O
+digestivos	O
+.	O

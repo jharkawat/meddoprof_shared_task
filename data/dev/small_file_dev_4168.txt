@@ -1,0 +1,13 @@
+
+SME	O
+:	O
+niega	O
+mialgias	O
+,	O
+artralgia	O
+,	O
+lumbalgias	O
+,	O
+rigidez	O
+matutina	O
+.	O

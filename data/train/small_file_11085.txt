@@ -1,0 +1,12 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+rituximab	O
+endovenoso	O
+con	O
+buena	O
+evolución	O
+posterior	O
+.	O

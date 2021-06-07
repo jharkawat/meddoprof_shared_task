@@ -1,0 +1,16 @@
+
+6	O
+)	O
+Fracaso	O
+renal	O
+mixto	O
+en	O
+contexto	O
+de	O
+depleción	O
+iv	O
++	O
+nefrotoxicidad	O
+por	O
+Colistina	O
+.	O

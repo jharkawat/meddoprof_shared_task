@@ -1,0 +1,26 @@
+
+La	O
+radióloga	O
+concluía	O
+en	O
+su	O
+informe	O
+que	O
+los	O
+hallazgos	O
+eran	O
+inespecíficos	O
+y	O
+que	O
+podían	O
+corresponder	O
+a	O
+múltiples	O
+causas	O
+entre	O
+ellas	O
+patologías	O
+inflamatorias	O
+o	O
+infecciosas	O
+.	O

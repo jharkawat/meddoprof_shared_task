@@ -1,0 +1,20 @@
+
+Tóxicos	O
+en	O
+orina	O
+:	O
+negativos	O
+para	O
+cocaína	O
+,	O
+anfetaminas	O
+,	O
+benzodiacepinas	O
+,	O
+barbitúricos	O
+,	O
+cannabis	O
+y	O
+antidepresivos	O
+triciclitos	O
+.	O

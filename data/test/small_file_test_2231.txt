@@ -1,0 +1,21 @@
+
+Recibe	O
+dosis	O
+única	O
+de	O
+radioterapia	O
+(	O
+8	O
+Gy	O
+)	O
+en	O
+el	O
+segmento	O
+de	O
+la	O
+columna	O
+de	O
+D3	O
+a	O
+D7	O
+.	O

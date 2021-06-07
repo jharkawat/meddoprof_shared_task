@@ -1,0 +1,8 @@
+
+Antecedentes	O
+personales	O
+:	O
+cesárea	O
+de	O
+urgencia	O
+.	O

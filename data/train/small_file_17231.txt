@@ -1,0 +1,8 @@
+
+Al	O
+ingreso	O
+estaba	O
+afebril	O
+y	O
+normotensa	O
+.	O

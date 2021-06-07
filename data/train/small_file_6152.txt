@@ -1,0 +1,24 @@
+
+Radiografía	O
+de	O
+tórax	O
+:	O
+silueta	O
+cardiomediastínica	O
+dentro	O
+de	O
+los	O
+límites	O
+de	O
+la	O
+normalidad	O
+,	O
+no	O
+imágenes	O
+de	O
+derrame	O
+pleural	O
+,	O
+ni	O
+condensación	O
+.	O

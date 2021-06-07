@@ -1,0 +1,11 @@
+
+FECHA	O
+DE	O
+NACIMIENTO	O
+:	O
+25	O
+de	O
+septiembre	O
+de	O
+1994	O
+.	O

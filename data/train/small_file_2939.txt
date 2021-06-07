@@ -1,0 +1,24 @@
+
+Al	O
+mismo	O
+tiempo	O
+comienza	O
+con	O
+disnea	O
+,	O
+siendo	O
+a	O
+principio	O
+de	O
+medianos	O
+esfuerzos	O
+que	O
+va	O
+en	O
+aumento	O
+,	O
+haciéndose	O
+prácticamente	O
+de	O
+reposo	O
+.	O

@@ -1,0 +1,26 @@
+
+En	O
+este	O
+caso	O
+,	O
+se	O
+llevó	O
+a	O
+cabo	O
+una	O
+reducción	O
+gradual	O
+de	O
+la	O
+dosis	O
+de	O
+levodopa	O
+,	O
+se	O
+mantuvo	O
+rivastigmina	O
+y	O
+se	O
+introdujo	O
+clozapina	O
+.	O

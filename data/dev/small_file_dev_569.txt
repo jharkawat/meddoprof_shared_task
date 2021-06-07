@@ -1,0 +1,4 @@
+
+Higiene	O
+deficitaria	O
+.	O

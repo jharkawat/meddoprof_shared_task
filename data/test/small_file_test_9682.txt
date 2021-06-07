@@ -1,0 +1,15 @@
+
+Independiente	O
+para	O
+las	O
+AVD	O
+,	O
+toda	O
+su	O
+vida	O
+había	O
+sido	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+.	O

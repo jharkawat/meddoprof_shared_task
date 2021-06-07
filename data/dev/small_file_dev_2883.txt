@@ -1,0 +1,11 @@
+
+María	O
+fue	O
+diagnosticada	O
+hace	O
+5	O
+años	O
+de	O
+psicosis	O
+inespecificada	O
+.	O

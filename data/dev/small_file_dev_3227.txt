@@ -1,0 +1,10 @@
+
+El	O
+diagnostico	O
+miasmático	O
+del	O
+paciente	O
+resultó	O
+sicótico	O
+desarrollado	O
+.	O

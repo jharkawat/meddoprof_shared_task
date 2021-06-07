@@ -1,0 +1,18 @@
+
+Estas	O
+lesiones	O
+provocan	O
+estenosis	O
+del	O
+canal	O
+raquídeo	O
+y	O
+mielopatía	O
+compresiva	O
+del	O
+cordón	O
+posterior	O
+al	O
+nivel	O
+D9	O
+.	O

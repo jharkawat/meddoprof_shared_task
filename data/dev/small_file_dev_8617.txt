@@ -1,0 +1,19 @@
+
+Eupneico	O
+en	O
+reposo	O
+,	O
+con	O
+buena	O
+tolerancia	O
+al	O
+decúbito	O
+y	O
+saturación	O
+basal	O
+de	O
+oxígeno	O
+del	O
+97	O
+%	O
+.	O

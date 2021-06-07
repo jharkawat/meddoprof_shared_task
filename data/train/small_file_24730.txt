@@ -1,0 +1,6 @@
+
+Relación	O
+paciente	O
+-	O
+examinador	B-PROFESION
+.	O

@@ -1,0 +1,26 @@
+
+Posteriormente	O
+se	O
+añade	O
+clozapina	O
+,	O
+administrándose	O
+100	O
+mg	O
+al	O
+día	O
+,	O
+evitando	O
+dosis	O
+mayores	O
+por	O
+intolerancia	O
+y	O
+se	O
+mantiene	O
+paliperidona	O
+LAI	O
+150	O
+mg	O
+mensuales	O
+.	O

@@ -1,0 +1,16 @@
+
+La	O
+paciente	O
+admitió	O
+que	O
+tomaba	O
+las	O
+pastillas	O
+pero	O
+dijo	O
+que	O
+no	O
+le	O
+causaban	O
+problema	O
+.	O

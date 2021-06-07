@@ -1,0 +1,11 @@
+
+No	O
+disuria	O
+,	O
+no	O
+polaquiuria	O
+,	O
+no	O
+tenesmo	O
+vesical	O
+.	O

@@ -1,0 +1,23 @@
+
+Paciente	O
+de	O
+43	O
+años	O
+de	O
+edad	O
+que	O
+acude	O
+a	O
+la	O
+urgencia	O
+por	O
+fiebre	O
+y	O
+malestar	O
+general	O
+de	O
+tres	O
+semanas	O
+de	O
+evolución	O
+.	O

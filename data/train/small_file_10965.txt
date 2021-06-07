@@ -1,0 +1,27 @@
+
+Hemostasia	O
+:	O
+TP	O
+14	O
+"	O
+1	O
+seg	O
+,	O
+INR	O
+1	O
+"	O
+23	O
+,	O
+TPTA	O
+23	O
+"	O
+5	O
+seg	O
+,	O
+fibrinógeno	O
+derivado	O
+595	O
+mg	O
+/	O
+dl	O
+.	O

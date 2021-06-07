@@ -1,0 +1,12 @@
+
+En	O
+tratamiento	O
+con	O
+augmentine	O
+hace	O
+6	O
+días	O
+por	O
+otitis	O
+media	O
+.	O

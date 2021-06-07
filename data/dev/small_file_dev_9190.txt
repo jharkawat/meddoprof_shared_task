@@ -1,0 +1,15 @@
+
+Nuestro	O
+paciente	O
+no	O
+refería	O
+relaciones	O
+sexuales	O
+de	O
+riesgo	O
+ni	O
+historia	O
+de	O
+sífilis	O
+previa	O
+.	O

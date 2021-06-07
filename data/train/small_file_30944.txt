@@ -1,0 +1,14 @@
+
+En	O
+ella	O
+se	O
+han	O
+ensayado	O
+diferentes	O
+métodos	O
+psicofarmacológicos	O
+con	O
+combinaciones	O
+de	O
+antipsicóticos	O
+.	O

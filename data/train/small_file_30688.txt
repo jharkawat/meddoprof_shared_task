@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+experimentó	O
+diversos	O
+cambios	O
+en	O
+su	O
+tratamiento	O
+desde	O
+que	O
+tuvo	O
+su	O
+primer	O
+episodio	O
+psicótico	O
+.	O

@@ -1,0 +1,11 @@
+
+Acropaquias	O
+en	O
+dedos	O
+de	O
+ambas	O
+manos	O
+,	O
+hiperqueratosis	O
+palmar	O
+.	O

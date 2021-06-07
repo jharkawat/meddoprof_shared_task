@@ -1,0 +1,15 @@
+
+-	O
+Absceso	O
+piógeno	O
+(	O
+S	O
+.	O
+aureus	O
+,	O
+Streptococcus	O
+spp	O
+y	O
+enterobacterias	O
+)	O
+.	O

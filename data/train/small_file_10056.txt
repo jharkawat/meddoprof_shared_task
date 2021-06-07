@@ -1,0 +1,7 @@
+
+No	O
+adenopatías	O
+submaxilares	O
+ni	O
+supraclaviculares	O
+.	O

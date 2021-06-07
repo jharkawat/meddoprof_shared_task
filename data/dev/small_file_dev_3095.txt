@@ -1,0 +1,21 @@
+
+Enfermedades	O
+previas	O
+:	O
+Tres	O
+episodios	O
+de	O
+convulsión	O
+febril	O
+antes	O
+de	O
+los	O
+cuatro	O
+años	O
+,	O
+controlada	O
+en	O
+consulta	O
+de	O
+Neuropediatría	O
+.	O

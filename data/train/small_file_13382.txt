@@ -1,0 +1,21 @@
+
+Durante	O
+su	O
+estancia	O
+en	O
+planta	O
+el	O
+paciente	O
+permanece	O
+estable	O
+hemodinámicamente	O
+,	O
+afebril	O
+y	O
+,	O
+continuando	O
+con	O
+esputos	O
+hemoptoicos	O
+escasos	O
+.	O

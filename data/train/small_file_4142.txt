@@ -1,0 +1,21 @@
+
+Hay	O
+una	O
+relación	O
+distante	O
+con	O
+el	O
+marido	O
+e	O
+hijo	O
+mayor	O
+,	O
+y	O
+buena	O
+con	O
+el	O
+pequeño	O
+y	O
+sus	O
+padres	O
+.	O

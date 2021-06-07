@@ -1,0 +1,21 @@
+
+Tras	O
+valorar	O
+la	O
+situación	O
+de	O
+la	O
+paciente	O
+,	O
+se	O
+considera	O
+la	O
+opción	O
+de	O
+inclusión	O
+en	O
+el	O
+ensayo	O
+clínico	O
+ARCTIC	O
+.	O

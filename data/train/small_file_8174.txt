@@ -1,0 +1,4 @@
+
+Niega	O
+fiebre	O
+.	O

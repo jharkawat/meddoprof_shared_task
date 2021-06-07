@@ -1,0 +1,5 @@
+
+Fluencia	O
+verbal	O
+disminuida	O
+.	O

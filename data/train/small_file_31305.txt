@@ -1,0 +1,27 @@
+
+Es	O
+importante	O
+considerar	O
+que	O
+la	O
+inteligencia	O
+se	O
+compone	O
+de	O
+una	O
+serie	O
+de	O
+habilidades	O
+diferentes	O
+que	O
+interactúan	O
+y	O
+trabajan	O
+juntas	O
+para	O
+producir	O
+un	O
+funcionamiento	O
+cognitivo	O
+general	O
+.	O

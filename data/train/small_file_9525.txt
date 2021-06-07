@@ -1,0 +1,23 @@
+
+La	O
+presencia	O
+de	O
+una	O
+púrpura	O
+palpable	O
+debe	O
+hacernos	O
+pensar	O
+en	O
+una	O
+vasculitis	O
+cutánea	O
+,	O
+la	O
+cual	O
+debe	O
+ser	O
+confirmada	O
+mediante	O
+biopsia	O
+.	O

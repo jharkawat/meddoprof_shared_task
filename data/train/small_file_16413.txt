@@ -1,0 +1,10 @@
+
+No	O
+edemas	O
+ni	O
+signos	O
+de	O
+insuficiencia	O
+venosa	O
+crónica	O
+.	O

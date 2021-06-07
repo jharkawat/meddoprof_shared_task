@@ -1,0 +1,23 @@
+
+Como	O
+antecedentes	O
+,	O
+destaca	O
+un	O
+consumo	O
+moderado	O
+de	O
+alcohol	O
+(	O
+fines	O
+de	O
+semana	O
+)	O
+y	O
+fumador	O
+de	O
+10	O
+cigarrillos	O
+al	O
+día	O
+.	O

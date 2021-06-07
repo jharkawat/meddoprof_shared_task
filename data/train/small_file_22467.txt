@@ -1,0 +1,19 @@
+
+Suspensión	O
+escitalopram	O
+,	O
+se	O
+disminuye	O
+dosis	O
+haloperidol	O
+a	O
+10gotas	O
+/	O
+d	O
+,	O
+restricción	O
+hídrica	O
+,	O
+perfusión	O
+NaCL	O
+.	O

@@ -1,0 +1,16 @@
+
+Nunca	O
+había	O
+presentado	O
+esta	O
+clínica	O
+,	O
+ni	O
+antecedentes	O
+familiares	O
+de	O
+problemas	O
+psiquiátricos	O
+ni	O
+neurológicos	O
+.	O

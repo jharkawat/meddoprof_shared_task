@@ -1,0 +1,21 @@
+
+Aprovechando	O
+que	O
+es	O
+médico	B-PROFESION
+del	I-PROFESION
+hospital	I-PROFESION
+ha	O
+acudido	O
+a	O
+consulta	O
+de	O
+neurología	O
+donde	O
+le	O
+pautaron	O
+melatonina	O
+de	O
+liberación	O
+prolongada	O
+.	O

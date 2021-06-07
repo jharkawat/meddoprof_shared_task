@@ -1,0 +1,9 @@
+
+Radiografía	O
+AP	O
+y	O
+lateral	O
+tórax	O
+:	O
+normal	O
+.	O

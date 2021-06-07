@@ -1,0 +1,7 @@
+
+No	O
+otras	O
+alteraciones	O
+afectivas	O
+mayores	O
+.	O

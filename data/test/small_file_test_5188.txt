@@ -1,0 +1,12 @@
+
+Por	O
+encima	O
+del	O
+diafragma	O
+se	O
+localiza	O
+en	O
+el	O
+mediastino	O
+anterior	O
+.	O

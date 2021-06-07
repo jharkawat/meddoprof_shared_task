@@ -1,0 +1,23 @@
+
+Tanto	O
+en	O
+la	O
+cara	O
+como	O
+en	O
+el	O
+dorso	O
+de	O
+las	O
+manos	O
+se	O
+apreciaban	O
+elementos	O
+purpúricos	O
+,	O
+papulosos	O
+,	O
+pustulosos	O
+y	O
+necróticos	O
+.	O

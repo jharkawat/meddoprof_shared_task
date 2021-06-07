@@ -1,0 +1,27 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+la	O
+paciente	O
+presenta	O
+un	O
+buen	O
+estado	O
+general	O
+y	O
+sigue	O
+controles	O
+por	O
+nuestra	O
+parte	O
+,	O
+no	O
+hallando	O
+recidiva	O
+tumoral	O
+hasta	O
+la	O
+fecha	O
+.	O

@@ -1,0 +1,14 @@
+
+Se	O
+solicita	O
+TC	O
+abdomino	O
+-	O
+pélvico	O
+:	O
+No	O
+se	O
+visualiza	O
+riñón	O
+derecho	O
+.	O

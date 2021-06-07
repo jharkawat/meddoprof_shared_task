@@ -1,0 +1,25 @@
+
+A	O
+los	O
+8	O
+años	O
+se	O
+luxó	O
+el	O
+tobillo	O
+,	O
+fue	O
+atendido	O
+por	O
+médico	B-PROFESION
+particular	I-PROFESION
+quien	O
+le	O
+puso	O
+una	O
+férula	O
+deyeso	O
+por	O
+veinte	O
+días	O
+.	O

@@ -1,0 +1,18 @@
+
+Fumadora	O
+activa	O
+de	O
+3	O
+-	O
+4	O
+cigarrillos	O
+/	O
+día	O
+y	O
+consumo	O
+ocasional	O
+drogas	O
+disen	O
+̃	O
+o	O
+.	O

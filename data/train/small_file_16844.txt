@@ -1,0 +1,5 @@
+
+Coombs	O
+directo	O
+negativo	O
+.	O

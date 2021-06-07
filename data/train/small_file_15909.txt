@@ -1,0 +1,12 @@
+
+Hemorragia	O
+cerebral	O
+tálamo	O
+-	O
+capsular	O
+izquierda	O
+secundaria	O
+a	O
+hipertensión	O
+arterial	O
+.	O

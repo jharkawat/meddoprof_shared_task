@@ -1,0 +1,24 @@
+
+Antecedentes	O
+personales	O
+:	O
+viuda	O
+,	O
+madre	O
+de	O
+un	O
+hijo	O
+,	O
+residente	O
+en	O
+Sant	O
+Feliu	O
+de	O
+Llobregat	O
+en	O
+donde	O
+convive	O
+con	O
+su	O
+madre	O
+.	O

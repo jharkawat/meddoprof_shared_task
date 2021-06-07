@@ -1,0 +1,6 @@
+
+Aumento	O
+de	O
+ansiedad	O
+basal	O
+.	O

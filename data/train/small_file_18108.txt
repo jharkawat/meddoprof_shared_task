@@ -1,0 +1,27 @@
+
+Tras	O
+la	O
+cirugía	O
+,	O
+la	O
+paciente	O
+presenta	O
+varios	O
+accidentes	O
+cerebrovasculares	O
+con	O
+afectación	O
+hemisférica	O
+izquierda	O
+que	O
+le	O
+provocan	O
+afasia	O
+,	O
+hemiplejia	O
+,	O
+agnosia	O
+y	O
+defecto	O
+campimétrico	O
+.	O

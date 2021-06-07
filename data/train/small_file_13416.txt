@@ -1,0 +1,23 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+que	O
+dicha	O
+DM	O
+tuviese	O
+un	O
+componente	O
+autoinmune	O
+no	O
+diagnosticado	O
+previamente	O
+,	O
+solicitamos	O
+diversos	O
+estudios	O
+analíticos	O
+de	O
+autoinmunidad	O
+.	O

@@ -1,0 +1,24 @@
+
+En	O
+estos	O
+pacientes	O
+la	O
+conducta	O
+es	O
+vivida	O
+como	O
+la	O
+solución	O
+a	O
+su	O
+problema	O
+,	O
+presentando	O
+alta	O
+sensibilidad	O
+y	O
+bajo	O
+umbral	O
+para	O
+reaccionar	O
+.	O

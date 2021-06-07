@@ -1,0 +1,25 @@
+
+Aún	O
+estando	O
+pendientes	O
+de	O
+los	O
+cultivos	O
+microbiológicos	O
+y	O
+dada	O
+la	O
+alta	O
+sospecha	O
+de	O
+peritonitis	O
+tuberculosa	O
+se	O
+inició	O
+un	O
+tratamiento	O
+específico	O
+empírico	O
+con	O
+tuberculostáticos	O
+.	O

@@ -1,0 +1,13 @@
+
+Destaca	O
+bradipsíquico	O
+y	O
+bradilálico	O
+,	O
+poco	O
+colaborador	O
+,	O
+con	O
+lenguaje	O
+monosilábico	O
+.	O

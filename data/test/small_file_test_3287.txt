@@ -1,0 +1,23 @@
+
+Se	O
+remite	O
+la	O
+pieza	O
+quirúrgica	O
+a	O
+Anatomía	O
+Patológica	O
+,	O
+evidenciándose	O
+una	O
+respuesta	O
+completa	O
+patológica	O
+(	O
+cambios	O
+posquimiorradioterapia	O
+sin	O
+carcinoma	O
+residual	O
+)	O
+.	O

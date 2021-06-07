@@ -1,0 +1,14 @@
+
+Cuando	O
+veía	O
+la	O
+televisión	O
+notaba	O
+que	O
+los	O
+locutores	B-PROFESION
+lo	O
+criticaban	O
+con	O
+indirectas	O
+.	O

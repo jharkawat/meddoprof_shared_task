@@ -1,0 +1,17 @@
+
+Se	O
+intervino	O
+mediante	O
+lobectomía	O
+superior	O
+derecha	O
+y	O
+linfadenectomía	O
+hilio	O
+-	O
+mediastínica	O
+en	O
+diciembre	O
+de	O
+2008	O
+.	O

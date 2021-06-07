@@ -1,0 +1,20 @@
+
+Aparece	O
+sintomatología	O
+depresiva	O
+posterior	O
+a	O
+las	O
+mismas	O
+(	O
+tristeza	O
+,	O
+despertar	O
+precoz	O
+y	O
+variaciones	O
+diurnas	O
+del	O
+humor	O
+)	O
+.	O

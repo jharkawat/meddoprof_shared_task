@@ -1,0 +1,18 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+oseltamivir	O
+y	O
+levofloxacino	O
+por	O
+no	O
+poder	O
+descartar	O
+una	O
+neumonía	O
+por	O
+bacterias	O
+atípicas	O
+.	O

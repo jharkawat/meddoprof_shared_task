@@ -1,0 +1,12 @@
+
+Se	O
+instauró	O
+profilaxis	O
+antibiótica	O
+,	O
+profilaxis	O
+antitetánica	O
+y	O
+profilaxis	O
+antitrombótica	O
+.	O

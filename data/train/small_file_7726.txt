@@ -1,0 +1,8 @@
+
+No	O
+se	O
+objetiva	O
+anhedonia	O
+ni	O
+apatía	O
+.	O

@@ -1,0 +1,8 @@
+
+Estaba	O
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+desde	O
+3	O
+años	O
+.	O

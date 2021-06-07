@@ -1,0 +1,9 @@
+
+–	O
+Conducta	O
+de	O
+búsqueda	O
+de	O
+la	O
+salud	O
+.	O

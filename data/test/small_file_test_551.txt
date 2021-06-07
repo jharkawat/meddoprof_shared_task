@@ -1,0 +1,14 @@
+
+Hiatus	O
+medio	O
+que	O
+corresponde	O
+al	O
+edema	O
+fusiforme	O
+y	O
+déficit	O
+de	O
+cierre	O
+posterior	O
+.	O

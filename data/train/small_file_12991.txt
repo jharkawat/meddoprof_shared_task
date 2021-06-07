@@ -1,0 +1,15 @@
+
+Frecuencia	O
+respiratoria	O
+18	O
+respiraciones	O
+por	O
+minuto	O
+respirando	O
+aire	O
+ambiente	O
+,	O
+saturación	O
+97	O
+%	O
+.	O

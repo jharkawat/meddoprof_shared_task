@@ -1,0 +1,17 @@
+
+La	O
+presencia	O
+de	O
+un	O
+test	O
+HLA	O
+B27	O
+negativo	O
+y	O
+una	O
+evolución	O
+aguda	O
+descartan	O
+esta	O
+entidad	O
+.	O

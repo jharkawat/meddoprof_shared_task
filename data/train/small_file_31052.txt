@@ -1,0 +1,11 @@
+
+La	O
+madre	O
+es	O
+empleada	B-PROFESION
+de	I-PROFESION
+hogar	I-PROFESION
+a	O
+tiempo	O
+parcial	O
+.	O

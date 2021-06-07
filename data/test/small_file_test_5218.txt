@@ -1,0 +1,26 @@
+
+No	O
+tenía	O
+alergias	O
+medicamentosas	O
+conocidas	O
+ni	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+,	O
+salvo	O
+la	O
+extirpación	O
+de	O
+un	O
+carcinoma	O
+basocelular	O
+de	O
+la	O
+mejilla	O
+derecha	O
+en	O
+2013	O
+.	O

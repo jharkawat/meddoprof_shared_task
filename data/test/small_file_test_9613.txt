@@ -1,0 +1,6 @@
+
+Sin	O
+masas	O
+ni	O
+megalias	O
+.	O

@@ -1,0 +1,14 @@
+
+No	O
+se	O
+palpan	O
+adenopatías	O
+en	O
+otros	O
+territorios	O
+,	O
+no	O
+hepatomegalia	O
+ni	O
+esplenomegalia	O
+.	O

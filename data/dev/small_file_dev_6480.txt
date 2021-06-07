@@ -1,0 +1,10 @@
+
+Se	O
+agregan	O
+náusea	O
+y	O
+vómito	O
+de	O
+contenido	O
+gástrico	O
+.	O

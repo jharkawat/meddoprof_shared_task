@@ -1,0 +1,16 @@
+
+Fracturas	O
+L1	O
+,	O
+L3	O
+,	O
+L4	O
+,	O
+L5	O
+.	O
+n	O
+ECG	O
+:	O
+taquicardia	O
+sinusal	O
+.	O

@@ -1,0 +1,8 @@
+
+Lleva	O
+en	O
+España	O
+aproximadamente	O
+20	O
+años	O
+.	O

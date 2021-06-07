@@ -1,0 +1,23 @@
+
+Se	O
+le	O
+puso	O
+tratamiento	O
+con	O
+citostáticos	O
+y	O
+no	O
+se	O
+operó	O
+,	O
+pues	O
+el	O
+neurólogo	B-PROFESION
+le	O
+refirió	O
+que	O
+se	O
+iba	O
+a	O
+resolver	O
+.	O

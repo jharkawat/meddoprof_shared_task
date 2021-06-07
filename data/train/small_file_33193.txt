@@ -1,0 +1,24 @@
+
+Con	O
+esto	O
+,	O
+el	O
+paciente	O
+pudo	O
+reanudar	O
+actividad	O
+habitual	O
+para	O
+un	O
+chico	O
+de	O
+su	O
+edad	O
+y	O
+vincularse	O
+a	O
+dispositivos	O
+de	O
+reinserción	O
+laboral	O
+.	O

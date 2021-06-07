@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+negaba	O
+el	O
+uso	O
+de	O
+colirios	O
+,	O
+filtros	O
+solares	O
+u	O
+otras	O
+cremas	O
+faciales	O
+.	O

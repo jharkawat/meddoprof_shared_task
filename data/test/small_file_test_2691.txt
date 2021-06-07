@@ -1,0 +1,13 @@
+
+Abdomen	O
+indoloro	O
+,	O
+sin	O
+masas	O
+ni	O
+megalias	O
+palpables	O
+a	O
+la	O
+exploración	O
+.	O

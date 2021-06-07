@@ -1,0 +1,13 @@
+
+Sí	O
+se	O
+describían	O
+conductas	O
+pueriles	O
+y	O
+funcionamiento	O
+propio	O
+de	O
+retraso	O
+mental	O
+.	O

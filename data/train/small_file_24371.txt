@@ -1,0 +1,9 @@
+
+-	O
+Trastorno	O
+obsesivo	O
+-	O
+compulsivo	O
+F42	O
+.	O
+8	O

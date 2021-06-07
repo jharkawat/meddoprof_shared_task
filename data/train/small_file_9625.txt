@@ -1,0 +1,19 @@
+
+Enviada	O
+para	O
+traumatología	O
+,	O
+cirugía	O
+con	O
+limpieza	O
+y	O
+raspado	O
+de	O
+articulación	O
+del	O
+tobillo	O
+,	O
+probable	O
+osteonecrosis	O
+aséptica	O
+.	O

@@ -1,0 +1,11 @@
+
+Embarazo	O
+,	O
+parto	O
+y	O
+desarrollo	O
+psicomotor	O
+sin	O
+alteraciones	O
+referidas	O
+.	O

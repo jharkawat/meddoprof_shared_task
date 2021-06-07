@@ -1,0 +1,22 @@
+
+Niega	O
+antecedentes	O
+médicos	O
+y	O
+quirúrgicos	O
+de	O
+interés	O
+.	O
+Hábitos	O
+tóxicos	O
+:	O
+fumador	O
+habitual	O
+de	O
+1	O
+paquete	O
+de	O
+cigarrillos	O
+al	O
+día	O
+.	O

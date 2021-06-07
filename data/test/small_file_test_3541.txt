@@ -1,0 +1,19 @@
+
+-	O
+Anatomía	O
+patológica	O
+de	O
+biopsia	O
+hepática	O
+:	O
+metástasis	O
+por	O
+carcinoma	O
+neuroendocrino	O
+bien	O
+diferenciado	O
+de	O
+probable	O
+origen	O
+gastroenteropancreático	O
+.	O

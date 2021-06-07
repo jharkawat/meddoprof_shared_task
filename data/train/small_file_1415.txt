@@ -1,0 +1,15 @@
+
+Dados	O
+los	O
+antecedentes	O
+patológicos	O
+del	O
+paciente	O
+no	O
+es	O
+recomendable	O
+el	O
+empleo	O
+de	O
+fluoropirimidinas	O
+.	O

@@ -1,0 +1,16 @@
+
+En	O
+la	O
+mezcla	O
+se	O
+encuentran	O
+:	O
+piedra	O
+,	O
+arena	O
+,	O
+arena	O
+granítica	O
+y	O
+filler	O
+.	O

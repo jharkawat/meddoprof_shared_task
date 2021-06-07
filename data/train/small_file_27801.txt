@@ -1,0 +1,23 @@
+
+Por	O
+este	O
+motivo	O
+se	O
+decide	O
+cambio	O
+a	O
+neuroléptico	O
+depot	O
+,	O
+paliperidona	O
+100	O
+mg	O
+/	O
+mes	O
+,	O
+buscando	O
+mejorar	O
+la	O
+adherencia	O
+terapéutica	O
+.	O

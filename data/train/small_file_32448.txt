@@ -1,0 +1,22 @@
+
+Consumo	O
+de	O
+alcohol	O
+de	O
+inicio	O
+en	O
+la	O
+adolescencia	O
+,	O
+principalmente	O
+,	O
+fines	O
+de	O
+semana	O
+,	O
+con	O
+tendencia	O
+al	O
+patrón	O
+compulsivo	O
+.	O

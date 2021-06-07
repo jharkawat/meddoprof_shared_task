@@ -1,0 +1,11 @@
+
+Tiene	O
+solo	O
+una	O
+hermana	O
+gemela	O
+,	O
+médico	B-PROFESION
+de	O
+profesión	O
+.	O

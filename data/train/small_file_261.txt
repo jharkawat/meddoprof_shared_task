@@ -1,0 +1,19 @@
+
+Antes	O
+del	O
+inicio	O
+de	O
+los	O
+síntomas	O
+,	O
+se	O
+hallaba	O
+bien	O
+de	O
+salud	O
+y	O
+trabajaba	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+tiempo	I-SITUACION_LABORAL
+completo	I-SITUACION_LABORAL
+.	O

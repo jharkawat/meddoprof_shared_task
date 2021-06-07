@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+niega	O
+síntomas	O
+miccionales	O
+y	O
+hematuria	O
+en	O
+fechas	O
+recientes	O
+.	O

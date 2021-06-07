@@ -1,0 +1,6 @@
+
+No	O
+episodios	O
+de	O
+cefalea	O
+.	O

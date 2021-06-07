@@ -1,0 +1,14 @@
+
+En	O
+la	O
+infancia	O
+pasó	O
+la	O
+hepatitis	O
+A	O
+y	O
+tuvo	O
+una	O
+probable	O
+púrpura	O
+.	O

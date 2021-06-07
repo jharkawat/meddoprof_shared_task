@@ -1,0 +1,12 @@
+
+Se	O
+la	O
+trasladó	O
+a	O
+la	O
+UCI	O
+por	O
+posible	O
+intubación	O
+inminente	O
+.	O

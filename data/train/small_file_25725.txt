@@ -1,0 +1,8 @@
+
+No	O
+síntomas	O
+de	O
+primer	O
+rango	O
+Schneider	O
+.	O

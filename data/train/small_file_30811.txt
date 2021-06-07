@@ -1,0 +1,17 @@
+
+Rigidez	O
+moderada	O
+y	O
+síntomas	O
+extrapiramidales	O
+de	O
+posible	O
+origen	O
+farmacológico	O
+(	O
+discinesias	O
+oro	O
+-	O
+linguales	O
+)	O
+.	O

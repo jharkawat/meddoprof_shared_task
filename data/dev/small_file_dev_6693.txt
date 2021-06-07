@@ -1,0 +1,13 @@
+
+Diagnosticado	O
+de	O
+síndrome	O
+de	O
+Sjögren	O
+primario	O
+con	O
+brotes	O
+habituales	O
+de	O
+artritis	O
+.	O

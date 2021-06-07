@@ -1,0 +1,27 @@
+
+En	O
+cuanto	O
+a	O
+factores	O
+estresantes	O
+,	O
+lo	O
+agobiaban	O
+sus	O
+actuales	O
+responsabilidades	O
+,	O
+como	O
+ir	O
+a	O
+la	O
+facultad	O
+y	O
+atender	O
+sus	O
+actividades	O
+eclesiásticas	O
+casi	O
+a	O
+diario	O
+.	O

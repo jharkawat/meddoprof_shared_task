@@ -1,0 +1,15 @@
+
+•	O
+Se	O
+decide	O
+ingreso	O
+en	O
+Medicina	O
+Interna	O
+para	O
+completar	O
+el	O
+estudio	O
+y	O
+tratamiento	O
+.	O

@@ -1,0 +1,17 @@
+
+Con	O
+buena	O
+evolución	O
+clínica	O
+y	O
+de	O
+laboratorio	O
+,	O
+es	O
+dada	O
+de	O
+alta	O
+con	O
+seguimiento	O
+médico	O
+.	O

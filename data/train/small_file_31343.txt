@@ -1,0 +1,9 @@
+
+Inició	B-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+licenciatura	I-SITUACION_LABORAL
+de	O
+Geografía	O
+e	O
+Historia	O
+.	O

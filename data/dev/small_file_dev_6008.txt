@@ -1,0 +1,25 @@
+
+Actualmente	O
+está	O
+en	O
+seguimiento	O
+en	O
+consulta	O
+de	O
+Urología	O
+con	O
+control	O
+inicial	O
+(	O
+TC	O
+,	O
+radiografía	O
+de	O
+tórax	O
+y	O
+analítica	O
+)	O
+,	O
+sin	O
+alteraciones	O
+.	O

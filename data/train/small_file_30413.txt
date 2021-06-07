@@ -1,0 +1,16 @@
+
+También	O
+se	O
+introdujo	O
+50	O
+mg	O
+de	O
+sertralina	O
+,	O
+que	O
+luego	O
+se	O
+suspendió	O
+por	O
+intolerancia	O
+.	O

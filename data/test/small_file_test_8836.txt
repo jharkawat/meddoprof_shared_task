@@ -1,0 +1,15 @@
+
+Se	O
+toma	O
+una	O
+biopsia	O
+pulmonar	O
+que	O
+es	O
+informada	O
+como	O
+carcinoma	O
+de	O
+célula	O
+pequeña	O
+.	O

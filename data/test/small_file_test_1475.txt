@@ -1,0 +1,12 @@
+
+Se	O
+diagnosticó	O
+una	O
+periodontitis	O
+crónica	O
+moderada	O
+generalizada	O
+,	O
+localmente	O
+avanzada	O
+.	O

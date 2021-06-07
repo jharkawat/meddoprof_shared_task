@@ -1,0 +1,20 @@
+
+Le	O
+gusta	O
+la	O
+profesión	O
+que	O
+ha	O
+estudiado	O
+(	O
+Filología	O
+inglesa	O
+)	O
+pero	O
+no	O
+se	O
+siente	O
+entusiasmado	O
+por	O
+ella	O
+.	O

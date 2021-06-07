@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+no	O
+presentó	O
+ninguna	O
+focalidad	O
+neurológica	O
+y	O
+no	O
+se	O
+instauró	O
+tratamiento	O
+corticoide	O
+durante	O
+su	O
+ingreso	O
+.	O

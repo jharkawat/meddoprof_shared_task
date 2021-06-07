@@ -1,0 +1,10 @@
+
+En	O
+los	O
+antecedentes	O
+quirúrgicos	O
+CIN3	O
+y	O
+varices	O
+MMII	O
+.	O

@@ -1,0 +1,26 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+bacteriemia	O
+se	O
+tomaron	O
+hemocultivos	O
+y	O
+se	O
+inició	O
+tratamiento	O
+antibiótico	O
+empírico	O
+con	O
+cefotaxima	O
+,	O
+consiguiendo	O
+la	O
+remisión	O
+del	O
+cuadro	O
+en	O
+48h	O
+.	O

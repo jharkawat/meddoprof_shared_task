@@ -1,0 +1,24 @@
+
+Se	O
+cita	O
+a	O
+la	O
+paciente	O
+en	O
+la	O
+consulta	O
+de	O
+dermatología	O
+del	O
+Centro	O
+de	O
+Diagnóstico	O
+y	O
+Tratamiento	O
+para	O
+valoración	O
+y	O
+programación	O
+de	O
+tratamiento	O
+.	O

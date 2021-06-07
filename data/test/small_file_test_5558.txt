@@ -1,0 +1,6 @@
+
+No	O
+otras	O
+lesiones	O
+hepáticas	O
+.	O

@@ -1,0 +1,6 @@
+
+Otoscopia	O
+normal	O
+,	O
+normoacusia	O
+.	O

@@ -1,0 +1,10 @@
+
+Vivía	O
+solo	O
+con	O
+su	O
+madre	O
+antes	O
+del	O
+traslado	O
+.	O

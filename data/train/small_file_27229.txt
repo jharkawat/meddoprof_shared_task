@@ -1,0 +1,7 @@
+
+Consumo	O
+ocasional	O
+de	O
+sustancias	O
+psicoactivas	O
+.	O

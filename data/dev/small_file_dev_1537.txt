@@ -1,0 +1,9 @@
+
+Presentaba	O
+sintomatología	O
+delirante	O
+de	O
+perjuicio	O
+e	O
+hipocondríaca	O
+.	O

@@ -1,0 +1,15 @@
+
+El	O
+diagnóstico	O
+fue	O
+de	O
+tumor	O
+fibroso	O
+solitario	O
+con	O
+diámetro	O
+máximo	O
+de	O
+16	O
+cm	O
+.	O

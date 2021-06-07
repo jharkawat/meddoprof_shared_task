@@ -1,0 +1,8 @@
+
+Los	O
+resultados	O
+se	O
+muestran	O
+a	O
+continuación	O
+:	O

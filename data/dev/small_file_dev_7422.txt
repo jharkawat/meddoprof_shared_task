@@ -1,0 +1,17 @@
+
+Acudió	O
+al	O
+hospital	O
+por	O
+inicio	O
+abrupto	O
+de	O
+fiebre	O
+,	O
+confusión	O
+,	O
+petequias	O
+y	O
+hemorragias	O
+conjuntivales	O
+.	O

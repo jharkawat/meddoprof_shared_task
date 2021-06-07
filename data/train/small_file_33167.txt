@@ -1,0 +1,23 @@
+
+En	O
+ocasiones	O
+,	O
+la	O
+limitación	O
+era	O
+tan	O
+importante	O
+,	O
+que	O
+el	O
+paciente	O
+tenía	O
+que	O
+usar	O
+una	O
+silla	O
+de	O
+ruedas	O
+para	O
+desplazarse	O
+.	O

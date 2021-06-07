@@ -1,0 +1,20 @@
+
+Esta	O
+clínica	O
+se	O
+había	O
+agudizado	O
+en	O
+los	O
+últimos	O
+2	O
+-	O
+3	O
+meses	O
+previos	O
+a	O
+la	O
+visita	O
+a	O
+Urgencias	O
+.	O

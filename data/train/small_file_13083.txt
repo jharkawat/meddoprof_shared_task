@@ -1,0 +1,14 @@
+
+A	O
+su	O
+llegada	O
+,	O
+está	O
+IOT	O
+,	O
+sedado	O
+y	O
+conectado	O
+a	O
+VM	O
+.	O

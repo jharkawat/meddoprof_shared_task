@@ -1,0 +1,20 @@
+
+En	O
+cuanto	O
+al	O
+sueño	O
+,	O
+presenta	O
+cierta	O
+dificultad	O
+para	O
+mantener	O
+un	O
+patrón	O
+estable	O
+y	O
+duerme	O
+con	O
+sus	O
+padres	O
+.	O

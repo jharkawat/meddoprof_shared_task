@@ -1,0 +1,24 @@
+
+Metilfenidato	O
+,	O
+por	O
+la	O
+baja	O
+respuesta	O
+,	O
+aparición	O
+de	O
+tics	O
+y	O
+aumento	O
+de	O
+la	O
+ansiedad	O
+,	O
+empeoramiento	O
+atención	O
+a	O
+mitad	O
+de	O
+mañana	O
+.	O

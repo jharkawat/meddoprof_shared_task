@@ -1,0 +1,10 @@
+
+La	O
+ecocardiografía	O
+no	O
+mostró	O
+datos	O
+de	O
+endocarditis	O
+infecciosa	O
+.	O

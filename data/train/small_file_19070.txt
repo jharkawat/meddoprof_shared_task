@@ -1,0 +1,10 @@
+
+No	O
+se	O
+evidencian	O
+alteraciones	O
+del	O
+contenido	O
+del	O
+pensamiento	O
+.	O

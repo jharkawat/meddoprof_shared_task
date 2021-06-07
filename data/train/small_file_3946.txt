@@ -1,0 +1,21 @@
+
+Se	O
+decide	O
+ingreso	O
+en	O
+planta	O
+de	O
+digestivo	O
+con	O
+diagnóstico	O
+de	O
+disfagia	O
+a	O
+líquidos	O
+y	O
+sólidos	O
+y	O
+posible	O
+LOE	O
+esofágica	O
+.	O

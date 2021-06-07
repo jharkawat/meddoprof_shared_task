@@ -1,0 +1,7 @@
+
+La	O
+sensación	O
+de	O
+mareo	O
+cesó	O
+.	O

@@ -1,0 +1,18 @@
+
+Antecedente	O
+de	O
+hospitalización	O
+del	O
+padre	O
+por	O
+fiebre	O
+y	O
+dolor	O
+abdominal	O
+,	O
+con	O
+diagnóstico	O
+de	O
+fiebre	O
+tifoidea	O
+.	O

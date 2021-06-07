@@ -1,0 +1,16 @@
+
+Aparece	O
+como	O
+un	O
+chico	O
+retraído	O
+,	O
+con	O
+la	O
+mirada	O
+perdida	O
+,	O
+suspicaz	O
+y	O
+desconfiado	O
+.	O

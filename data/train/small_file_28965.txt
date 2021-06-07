@@ -1,0 +1,25 @@
+
+Normalización	O
+conductual	O
+y	O
+mantenimiento	O
+de	O
+actividades	O
+de	O
+ocio	O
+(	O
+en	O
+el	O
+CTI	O
+y	O
+en	O
+la	O
+comunidad	O
+)	O
+y	O
+formativo	O
+-	O
+laborales	O
+con	O
+aprovechamiento	O
+.	O

@@ -1,0 +1,21 @@
+
+Trabaja	O
+como	O
+empresario	B-PROFESION
+,	O
+manteniendo	O
+una	O
+vida	O
+activa	O
+,	O
+y	O
+realizando	O
+múltiples	O
+comidas	O
+fuera	O
+del	O
+hogar	O
+por	O
+motivos	O
+laborales	O
+.	O

@@ -1,0 +1,18 @@
+
+Leandro	O
+padece	O
+una	O
+enfermedad	O
+renal	O
+desde	O
+la	O
+infancia	O
+,	O
+que	O
+precisa	O
+control	O
+farmacológico	O
+y	O
+dietético	O
+estricto	O
+.	O

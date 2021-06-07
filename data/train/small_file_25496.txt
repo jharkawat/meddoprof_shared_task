@@ -1,0 +1,23 @@
+
+Cuando	O
+llega	O
+al	O
+centro	O
+en	O
+octubre	O
+de	O
+2008	O
+se	O
+encuentra	O
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+y	O
+es	O
+pareja	O
+de	O
+un	O
+partícipe	O
+de	O
+nuestro	O
+dispositivo	O
+.	O

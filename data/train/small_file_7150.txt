@@ -1,0 +1,16 @@
+
+No	O
+refiere	O
+traumatismo	O
+previo	O
+de	O
+la	O
+zona	O
+,	O
+ni	O
+haberse	O
+rasurado	O
+nunca	O
+los	O
+antebrazos	O
+.	O

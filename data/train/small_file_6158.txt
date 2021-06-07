@@ -1,0 +1,21 @@
+
+Tiene	O
+buen	O
+apoyo	O
+sociofamiliar	O
+,	O
+aunque	O
+sus	O
+padres	O
+y	O
+su	O
+hermana	O
+residen	O
+en	O
+otra	O
+ciudad	O
+diferente	O
+a	O
+la	O
+suya	O
+.	O

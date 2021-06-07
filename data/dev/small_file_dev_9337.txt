@@ -1,0 +1,6 @@
+
+El	O
+abdomen	O
+era	O
+anodino	O
+.	O

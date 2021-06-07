@@ -1,0 +1,14 @@
+
+Se	O
+pautó	O
+doxiciclina	O
+empírica	O
+a	O
+dosis	O
+de	O
+100	O
+mg	O
+cada	O
+12	O
+horas	O
+.	O

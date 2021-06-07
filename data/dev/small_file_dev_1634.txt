@@ -1,0 +1,15 @@
+
+Realiza	O
+seguimiento	O
+en	O
+equipo	B-PROFESION
+de	I-PROFESION
+Salud	I-PROFESION
+Mental	I-PROFESION
+de	O
+zona	O
+desde	O
+los	O
+18	O
+años	O
+.	O

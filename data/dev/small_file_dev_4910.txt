@@ -1,0 +1,24 @@
+
+Hacia	O
+la	O
+derecha	O
+limitación	O
+en	O
+la	O
+adducción	O
+ojo	O
+izquierdo	O
+con	O
+nistagmus	O
+en	O
+ojo	O
+derecho	O
+en	O
+abducción	O
+(	O
+oftalmoplejia	O
+internuclear	O
+ojo	O
+izquierdo	O
+)	O
+.	O

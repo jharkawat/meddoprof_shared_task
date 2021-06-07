@@ -1,0 +1,24 @@
+
+La	O
+deriva	O
+a	O
+Endocrinología	O
+(	O
+18	O
+/	O
+9	O
+/	O
+2015	O
+)	O
+donde	O
+le	O
+toman	O
+medidas	O
+antropométricas	O
+y	O
+pruebas	O
+analíticas	O
+para	O
+descartar	O
+metabolopatías	O
+.	O

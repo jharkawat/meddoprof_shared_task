@@ -1,0 +1,24 @@
+
+Voces	O
+que	O
+lo	O
+insultan	O
+y	O
+comentan	O
+	O
+"	O
+veo	O
+muertos	O
+,	O
+puertas	O
+que	O
+se	O
+abren	O
+y	O
+se	O
+cierran	O
+.	O
+.	O
+.	O
+"	O
+	O

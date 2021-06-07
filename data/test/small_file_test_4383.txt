@@ -1,0 +1,13 @@
+
+Sospecha	O
+de	O
+melanoma	O
+coroideo	O
+en	O
+globo	O
+ocular	O
+izquierdo	O
+con	O
+debút	O
+sinérgico	O
+.	O

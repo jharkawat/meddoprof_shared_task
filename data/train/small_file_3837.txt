@@ -1,0 +1,7 @@
+
+No	O
+se	O
+aprecian	O
+lesiones	O
+cutáneas	O
+.	O

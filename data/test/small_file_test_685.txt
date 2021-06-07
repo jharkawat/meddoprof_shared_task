@@ -1,0 +1,8 @@
+
+No	O
+uñas	O
+en	O
+vidrio	O
+de	O
+reloj	O
+.	O

@@ -1,0 +1,16 @@
+
+En	O
+la	O
+resonancia	O
+magnética	O
+craneal	O
+realizada	O
+no	O
+se	O
+observaron	O
+hallazgos	O
+de	O
+especial	O
+significado	O
+patológico	O
+.	O

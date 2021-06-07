@@ -1,0 +1,22 @@
+
+Aunque	O
+muchos	O
+casos	O
+se	O
+identifican	O
+inicialmente	O
+de	O
+manera	O
+incidental	O
+,	O
+algunos	O
+pacientes	O
+presentan	O
+dolor	O
+,	O
+hematuria	O
+o	O
+una	O
+masa	O
+palpable	O
+.	O

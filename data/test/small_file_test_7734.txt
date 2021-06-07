@@ -1,0 +1,21 @@
+
+Con	O
+estos	O
+resultados	O
+,	O
+se	O
+orienta	O
+el	O
+caso	O
+como	O
+una	O
+miastenia	O
+gravis	O
+paraneoplásica	O
+en	O
+un	O
+paciente	O
+con	O
+carcinoma	O
+tímico	O
+.	O

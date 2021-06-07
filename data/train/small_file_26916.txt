@@ -1,0 +1,12 @@
+
+Mantuvo	O
+seguimiento	O
+por	O
+parte	O
+de	O
+Oftalmología	O
+por	O
+retinopatía	O
+del	O
+prematuro	O
+.	O

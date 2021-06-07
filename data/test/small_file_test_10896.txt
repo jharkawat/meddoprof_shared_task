@@ -1,0 +1,6 @@
+
+Una	O
+abuela	O
+es	O
+diabética	O
+.	O

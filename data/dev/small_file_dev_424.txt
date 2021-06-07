@@ -1,0 +1,18 @@
+
+Mini	O
+examen	O
+cognoscitivo	O
+:	O
+33	O
+/	O
+35	O
+.	O
+n	O
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+96	O
+lpm	O
+.	O

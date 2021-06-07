@@ -1,0 +1,8 @@
+
+Los	O
+hemocultivos	O
+y	O
+urinocultivos	O
+son	O
+negativos	O
+.	O

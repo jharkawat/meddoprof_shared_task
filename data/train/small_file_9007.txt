@@ -1,0 +1,14 @@
+
+Ante	O
+estos	O
+hallazgos	O
+,	O
+su	O
+MAP	B-PROFESION
+lo	O
+deriva	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+.	O

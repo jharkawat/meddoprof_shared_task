@@ -1,0 +1,11 @@
+
+Nivel	O
+cultural	O
+medio	O
+-	O
+alto	O
+,	O
+de	O
+profesión	O
+enfermero	B-PROFESION
+.	O

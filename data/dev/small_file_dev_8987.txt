@@ -1,0 +1,27 @@
+
+Tras	O
+la	O
+intervención	O
+,	O
+el	O
+paciente	O
+comenzó	O
+a	O
+mejorar	O
+,	O
+con	O
+disminución	O
+de	O
+la	O
+fiebre	O
+,	O
+mejoría	O
+del	O
+estado	O
+general	O
+y	O
+recuperación	O
+de	O
+las	O
+citopenias	O
+.	O

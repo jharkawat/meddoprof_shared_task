@@ -1,0 +1,15 @@
+
+El	O
+cuadro	O
+se	O
+acompaña	O
+de	O
+mordedura	O
+de	O
+la	O
+lengua	O
+y	O
+relajación	O
+de	O
+esfínteres	O
+.	O

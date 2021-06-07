@@ -1,0 +1,14 @@
+
+Se	O
+cursa	O
+estudio	O
+de	O
+EGFR	O
+y	O
+ALK	O
+con	O
+resultado	O
+negativo	O
+para	O
+mutaciones	O
+.	O

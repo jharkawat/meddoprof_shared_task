@@ -1,0 +1,16 @@
+
+Consulta	O
+en	O
+junio	O
+del	O
+2014	O
+por	O
+lesión	O
+pigmentada	O
+en	O
+espalda	O
+de	O
+años	O
+de	O
+evolución	O
+.	O

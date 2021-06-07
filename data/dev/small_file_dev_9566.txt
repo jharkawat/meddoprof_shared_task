@@ -1,0 +1,12 @@
+
+Es	O
+la	O
+primera	O
+vez	O
+que	O
+los	O
+padres	O
+ponen	O
+una	O
+denuncia	O
+.	O

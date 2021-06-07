@@ -1,0 +1,12 @@
+
+No	O
+hay	O
+diagnóstico	O
+,	O
+características	O
+de	O
+personalidad	O
+obsesiva	O
+-	O
+compulsiva	O
+.	O

@@ -1,0 +1,25 @@
+
+Durante	O
+su	O
+ingreso	O
+es	O
+visitado	O
+por	O
+la	O
+interconsulta	O
+de	O
+Psiquiatría	O
+,	O
+objetivándose	O
+una	O
+progresiva	O
+remisión	O
+de	O
+su	O
+estado	O
+confusional	O
+hasta	O
+la	O
+estabilidad	O
+psicopatológica	O
+.	O

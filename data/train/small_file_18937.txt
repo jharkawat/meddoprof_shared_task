@@ -1,0 +1,19 @@
+
+Miguel	O
+se	O
+adaptó	O
+a	O
+la	O
+unidad	O
+,	O
+sin	O
+presentar	O
+problemas	O
+con	O
+sus	O
+compañeros	O
+o	O
+con	O
+el	O
+equipo	B-PROFESION
+.	O

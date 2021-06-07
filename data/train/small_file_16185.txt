@@ -1,0 +1,23 @@
+
+Durante	O
+el	O
+ingreso	O
+,	O
+el	O
+paciente	O
+mantuvo	O
+buen	O
+control	O
+de	O
+las	O
+constantes	O
+vitales	O
+(	O
+tensión	O
+arterial	O
+,	O
+temperatura	O
+y	O
+glucemias	O
+)	O
+.	O

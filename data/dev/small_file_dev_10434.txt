@@ -1,0 +1,11 @@
+
+Era	O
+saludable	O
+y	O
+su	O
+peso	O
+estaba	O
+en	O
+el	O
+promedio	O
+.	O

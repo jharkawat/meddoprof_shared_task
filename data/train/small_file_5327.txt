@@ -1,0 +1,6 @@
+
+Juicio	O
+clínico	O
+:	O
+Miopericarditis	O
+.	O

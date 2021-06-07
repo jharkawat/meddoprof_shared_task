@@ -1,0 +1,25 @@
+
+Ultrasonido	O
+abdominal	O
+:	O
+hígado	O
+con	O
+aumento	O
+difuso	O
+de	O
+la	O
+ecogenicidad	O
+,	O
+aspecto	O
+esteatósico	O
+leve	O
+,	O
+vesícula	O
+parcialmente	O
+estimulada	O
+,	O
+páncreas	O
+y	O
+bazo	O
+normales	O
+.	O

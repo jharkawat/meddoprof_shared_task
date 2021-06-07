@@ -1,0 +1,19 @@
+
+Presentaba	O
+astenia	O
+,	O
+anorexia	O
+y	O
+pérdida	O
+de	O
+3	O
+kg	O
+de	O
+peso	O
+aproximadamente	O
+desde	O
+el	O
+inicio	O
+del	O
+cuadro	O
+.	O

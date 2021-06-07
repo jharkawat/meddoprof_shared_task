@@ -1,0 +1,13 @@
+
+»	O
+Neutropenia	O
+grado	O
+4	O
+y	O
+trombopenia	O
+grado	O
+2	O
+secundario	O
+a	O
+quimioterapia	O
+.	O

@@ -1,0 +1,26 @@
+
+Persiste	O
+metabolismo	O
+de	O
+baja	O
+intensidad	O
+en	O
+la	O
+metástasis	O
+ósea	O
+conocida	O
+en	O
+rama	O
+iliopubiana	O
+derecha	O
+(	O
+SUVmax	O
+=	O
+3	O
+.	O
+28	O
+g	O
+/	O
+ml	O
+)	O
+.	O

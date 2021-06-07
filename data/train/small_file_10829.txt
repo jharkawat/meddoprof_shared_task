@@ -1,0 +1,24 @@
+
+Al	O
+día	O
+siguiente	O
+,	O
+el	O
+paciente	O
+comienza	O
+con	O
+un	O
+dolor	O
+agudo	O
+en	O
+la	O
+planta	O
+del	O
+pie	O
+derecho	O
+con	O
+eritema	O
+y	O
+edema	O
+asociados	O
+.	O

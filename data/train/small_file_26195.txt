@@ -1,0 +1,4 @@
+
+Heteroagresividad	O
+verbal	O
+.	O

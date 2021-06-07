@@ -1,0 +1,12 @@
+
+No	O
+son	O
+descamativas	O
+aunque	O
+si	O
+le	O
+producen	O
+un	O
+prurito	O
+leve	O
+.	O

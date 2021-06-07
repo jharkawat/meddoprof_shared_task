@@ -1,0 +1,19 @@
+
+En	O
+la	O
+exploración	O
+extraoral	O
+solamente	O
+encontramos	O
+anomalía	O
+en	O
+el	O
+hábito	O
+de	O
+respiración	O
+,	O
+que	O
+es	O
+fundamentalmente	O
+oral	O
+.	O

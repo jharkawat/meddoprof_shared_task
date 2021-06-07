@@ -1,0 +1,25 @@
+
+Los	O
+datos	O
+obtenidos	O
+indican	O
+adecuación	O
+a	O
+nivel	O
+de	O
+capacidades	O
+comunicativas	O
+,	O
+tales	O
+como	O
+reconocimiento	O
+,	O
+seguir	O
+órdenes	O
+y	O
+retroacción	O
+de	O
+demanda	O
+e	O
+inhibición	O
+.	O

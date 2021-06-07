@@ -1,0 +1,18 @@
+
+Primo	O
+hermano	O
+de	O
+su	O
+madre	O
+diagnosticado	O
+de	O
+enfermedad	O
+de	O
+Parkinson	O
+de	O
+inicio	O
+a	O
+los	O
+72	O
+años	O
+.	O

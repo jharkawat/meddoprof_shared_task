@@ -1,0 +1,4 @@
+
+Hipotiroidismo	O
+primario	O
+.	O

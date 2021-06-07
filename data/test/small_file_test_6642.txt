@@ -1,0 +1,11 @@
+
+No	O
+presenta	O
+fiebre	O
+termometrada	O
+en	O
+domicilio	O
+ni	O
+sensación	O
+distérmica	O
+.	O

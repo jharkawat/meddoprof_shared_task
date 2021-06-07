@@ -1,0 +1,19 @@
+
+A	O
+su	O
+vez	O
+como	O
+consecuencia	O
+aumenta	O
+también	O
+la	O
+violencia	O
+en	O
+su	O
+domicilio	O
+actual	O
+que	O
+es	O
+el	O
+paterno	O
+.	O

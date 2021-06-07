@@ -1,0 +1,21 @@
+
+Habitualmente	O
+no	O
+hay	O
+presencia	O
+de	O
+leucocitosis	O
+y	O
+la	O
+elevación	O
+de	O
+VSG	O
+,	O
+de	O
+estar	O
+presente	O
+,	O
+es	O
+poco	O
+relevante	O
+.	O

@@ -1,0 +1,27 @@
+
+Su	O
+preocupación	O
+principal	O
+era	O
+que	O
+los	O
+antiinflamatorios	O
+no	O
+hacían	O
+su	O
+efecto	O
+por	O
+el	O
+síndrome	O
+emético	O
+que	O
+presentaba	O
+y	O
+el	O
+dolor	O
+lumbar	O
+era	O
+incontrolable	O
+en	O
+domicilio	O
+.	O

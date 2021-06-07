@@ -1,0 +1,6 @@
+
+Descompensación	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

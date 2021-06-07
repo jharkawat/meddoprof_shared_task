@@ -1,0 +1,13 @@
+
+En	O
+planta	O
+de	O
+cardiología	O
+tiene	O
+en	O
+ocasiones	O
+sensación	O
+de	O
+opresión	O
+ligera	O
+.	O

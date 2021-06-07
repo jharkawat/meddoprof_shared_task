@@ -1,0 +1,12 @@
+
+Se	O
+hallaba	O
+eupneico	O
+en	O
+reposo	O
+sin	O
+trabajo	O
+respiratorio	O
+y	O
+normocoloreado	O
+.	O

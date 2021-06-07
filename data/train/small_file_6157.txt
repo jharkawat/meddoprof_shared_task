@@ -1,0 +1,17 @@
+
+Además	O
+,	O
+en	O
+los	O
+últimos	O
+tres	O
+meses	O
+ha	O
+realizado	O
+una	O
+media	O
+de	O
+8	O
+guardias	O
+mensuales	O
+.	O

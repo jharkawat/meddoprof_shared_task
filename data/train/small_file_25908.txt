@@ -1,0 +1,18 @@
+
+Varón	O
+de	O
+28	O
+años	O
+que	O
+acude	O
+a	O
+consulta	O
+por	O
+cuadro	O
+confusional	O
+y	O
+trastorno	O
+de	O
+la	O
+conducta	O
+.	O

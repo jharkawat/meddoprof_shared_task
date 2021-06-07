@@ -1,0 +1,7 @@
+
+No	O
+destaca	O
+ninguna	O
+otra	O
+sintomatología	O
+.	O

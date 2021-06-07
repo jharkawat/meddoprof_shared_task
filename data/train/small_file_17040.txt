@@ -1,0 +1,18 @@
+
+Tomografía	O
+computarizada	O
+cerebral	O
+donde	O
+se	O
+aprecia	O
+una	O
+vena	O
+de	O
+gran	O
+calibre	O
+en	O
+el	O
+hemisferio	O
+cerebral	O
+izquierdo	O
+.	O

@@ -1,0 +1,25 @@
+
+En	O
+el	O
+caso	O
+de	O
+blastomicosis	O
+,	O
+a	O
+pesar	O
+de	O
+ser	O
+endémica	O
+de	O
+Estados	O
+Unidos	O
+y	O
+Canadá	O
+se	O
+han	O
+descrito	O
+algunos	O
+casos	O
+en	O
+África	O
+.	O

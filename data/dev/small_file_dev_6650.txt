@@ -1,0 +1,17 @@
+
+a	O
+)	O
+infecciones	O
+agudas	O
+como	O
+mononucleosis	O
+,	O
+hepatitis	O
+vírica	O
+,	O
+infección	O
+por	O
+CMV	O
+o	O
+toxoplasma	O
+;	O

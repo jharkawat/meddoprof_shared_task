@@ -1,0 +1,12 @@
+
+Hemograma	O
+,	O
+coagulación	O
+y	O
+bioquímica	O
+con	O
+perfil	O
+hepático	O
+:	O
+normales	O
+.	O

@@ -1,0 +1,15 @@
+
+El	O
+padre	O
+era	O
+un	O
+asesor	B-PROFESION
+fiscal	I-PROFESION
+de	O
+éxito	O
+que	O
+trabajaba	O
+a	O
+todas	O
+horas	O
+.	O

@@ -1,0 +1,23 @@
+
+Dijo	O
+de	O
+sí	O
+misma	O
+que	O
+había	O
+sido	O
+una	O
+niña	O
+«	O
+callada	O
+y	O
+ansiosa	O
+»	O
+,	O
+no	O
+una	O
+«	O
+»	O
+alborotadora	O
+»	O
+.	O

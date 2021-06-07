@@ -1,0 +1,16 @@
+
+Legionella	O
+/	O
+Neumococo	O
+en	O
+orina	O
+que	O
+fue	O
+negativa	O
+;	O
+así	O
+como	O
+cultivo	O
+de	O
+esputo	O
+.	O

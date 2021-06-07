@@ -1,0 +1,25 @@
+
+Quería	O
+que	O
+cerraran	O
+todas	O
+las	O
+puertas	O
+y	O
+ventanas	O
+,	O
+y	O
+se	O
+negaba	O
+a	O
+comer	O
+porque	O
+tenía	O
+miedo	O
+de	O
+que	O
+su	O
+comida	O
+estuviera	O
+envenenada	O
+.	O

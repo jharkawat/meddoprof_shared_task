@@ -1,0 +1,17 @@
+
+Asimismo	O
+,	O
+en	O
+la	O
+entrevista	O
+inicial	O
+en	O
+Urgencias	O
+,	O
+se	O
+refiere	O
+perplejidad	O
+y	O
+estupor	O
+psicótico	O
+.	O

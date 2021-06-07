@@ -1,0 +1,8 @@
+
+TRASTORNO	O
+DE	O
+LA	O
+PERCEPCIÓN	O
+(	O
+00122	O
+)	O

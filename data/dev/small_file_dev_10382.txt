@@ -1,0 +1,12 @@
+
+Terminó	O
+la	O
+secundaria	O
+con	O
+notas	O
+sobresalientes	O
+y	O
+estudió	O
+servicio	O
+social	O
+.	O

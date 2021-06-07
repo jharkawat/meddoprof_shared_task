@@ -1,0 +1,11 @@
+
+EGFR	O
+nativo	O
+,	O
+ALK	O
+traslocado	O
+por	O
+IHQ	O
+y	O
+FISH	O
+.	O

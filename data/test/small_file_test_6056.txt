@@ -1,0 +1,17 @@
+
+En	O
+tórax	O
+se	O
+objetivaron	O
+múltiples	O
+adenopatías	O
+mediastínicas	O
+e	O
+hiliares	O
+discretamente	O
+hipermetabólicas	O
+no	O
+sugestivas	O
+de	O
+malignidad	O
+.	O

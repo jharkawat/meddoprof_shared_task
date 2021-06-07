@@ -1,0 +1,12 @@
+
+Destacan	O
+zonas	O
+de	O
+piel	O
+hipopigmentadas	O
+en	O
+tronco	O
+y	O
+extremidades	O
+superiores	O
+.	O

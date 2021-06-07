@@ -1,0 +1,8 @@
+
+No	O
+otros	O
+signos	O
+de	O
+alarma	O
+neurológica	O
+.	O

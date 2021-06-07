@@ -1,0 +1,27 @@
+
+En	O
+la	O
+exploración	O
+física	O
+,	O
+destaca	O
+la	O
+aparición	O
+de	O
+parestesias	O
+G1	O
+en	O
+puntas	O
+de	O
+dedos	O
+de	O
+manos	O
+y	O
+pies	O
+,	O
+y	O
+persistencia	O
+del	O
+exantema	O
+G3	O
+.	O

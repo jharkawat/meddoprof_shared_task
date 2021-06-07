@@ -1,0 +1,15 @@
+
+La	O
+herida	O
+abdominal	O
+precisa	O
+de	O
+tratamiento	O
+con	O
+presión	O
+negativa	O
+y	O
+ambas	O
+curas	O
+diarias	O
+.	O

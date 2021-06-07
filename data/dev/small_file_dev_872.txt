@@ -1,0 +1,15 @@
+
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+,	O
+sin	O
+alteraciones	O
+en	O
+la	O
+repolarización	O
+ni	O
+la	O
+conducción	O
+.	O

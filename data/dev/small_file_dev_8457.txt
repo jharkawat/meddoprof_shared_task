@@ -1,0 +1,27 @@
+
+Se	O
+realizó	O
+una	O
+radiografía	O
+de	O
+abdomen	O
+en	O
+supino	O
+sin	O
+hallazgos	O
+relevantes	O
+,	O
+así	O
+como	O
+una	O
+ecografía	O
+abdominal	O
+que	O
+mostraba	O
+una	O
+esplenomegalia	O
+homogénea	O
+sin	O
+otras	O
+alteraciones	O
+.	O

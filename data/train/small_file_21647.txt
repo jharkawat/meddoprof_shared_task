@@ -1,0 +1,7 @@
+
+Vive	O
+en	O
+una	O
+habitación	O
+alquilada	O
+.	O

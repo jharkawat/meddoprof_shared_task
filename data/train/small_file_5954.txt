@@ -1,0 +1,27 @@
+
+Acude	O
+a	O
+SUAP	O
+por	O
+cuadro	O
+de	O
+babeo	O
+,	O
+imposibilidad	O
+de	O
+articular	O
+palabra	O
+y	O
+desviación	O
+de	O
+comisura	O
+bucal	O
+mientras	O
+veía	O
+la	O
+TV	O
+hace	O
+unas	O
+dos	O
+horas	O
+.	O

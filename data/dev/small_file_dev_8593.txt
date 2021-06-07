@@ -1,0 +1,9 @@
+
+Hiperecogenicidad	O
+del	O
+tejido	O
+periportal	O
+con	O
+intensa	O
+fibrosis	O
+.	O

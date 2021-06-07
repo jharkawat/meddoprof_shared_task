@@ -1,0 +1,13 @@
+
+Resto	O
+de	O
+la	O
+exploración	O
+por	O
+órganos	O
+y	O
+sistemas	O
+y	O
+constantes	O
+normales	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+le	O
+administran	O
+comprimidos	O
+sublinguales	O
+de	O
+buprenorfina	O
+/	O
+naloxona	O
+cada	O
+14	O
+días	O
+,	O
+por	O
+motivos	O
+laborales	O
+.	O

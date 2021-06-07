@@ -1,0 +1,23 @@
+
+Ambulatoriamente	O
+es	O
+necesario	O
+llegar	O
+hasta	O
+los	O
+100	O
+mg	O
+/	O
+día	O
+,	O
+consiguiéndose	O
+una	O
+aceptable	O
+respuesta	O
+,	O
+aunque	O
+no	O
+una	O
+remisión	O
+completa	O
+.	O

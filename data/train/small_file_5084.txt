@@ -1,0 +1,7 @@
+
+Exploración	O
+:	O
+Regular	O
+estado	O
+general	O
+.	O

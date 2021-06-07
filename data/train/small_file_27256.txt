@@ -1,0 +1,18 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+encefalitis	O
+,	O
+se	O
+procede	O
+al	O
+ingreso	O
+en	O
+la	O
+planta	O
+de	O
+Enfermedades	O
+Infecciosas	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+la	O
+exploración	O
+general	O
+,	O
+las	O
+carótidas	O
+latían	O
+simétricas	O
+y	O
+sin	O
+soplos	O
+,	O
+y	O
+la	O
+auscultación	O
+cardiopulmonar	O
+era	O
+normal	O
+.	O

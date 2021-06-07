@@ -1,0 +1,15 @@
+
+No	O
+lesiones	O
+cutáneas	O
+,	O
+pulsos	O
+periféricos	O
+presentes	O
+sin	O
+signos	O
+de	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

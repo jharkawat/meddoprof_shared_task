@@ -1,0 +1,15 @@
+
+Refería	O
+que	O
+había	O
+una	O
+conspiración	O
+contra	O
+él	O
+y	O
+por	O
+eso	O
+no	O
+le	O
+contrataban	O
+.	O

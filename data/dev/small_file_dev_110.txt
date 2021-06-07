@@ -1,0 +1,16 @@
+
+Veinticuatro	O
+horas	O
+más	O
+tarde	O
+,	O
+la	O
+paciente	O
+acude	O
+de	O
+nuevo	O
+al	O
+servicio	O
+de	O
+Urgencias	O
+.	O

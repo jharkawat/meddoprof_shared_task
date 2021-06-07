@@ -1,0 +1,12 @@
+
+Actualmente	O
+,	O
+la	O
+paciente	O
+sigue	O
+presentando	O
+criterios	O
+de	O
+enfermedad	O
+estable	O
+.	O

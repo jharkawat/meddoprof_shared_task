@@ -1,0 +1,27 @@
+
+Tomografía	O
+computarizada	O
+craneal	O
+:	O
+masa	O
+parietal	O
+derecha	O
+de	O
+aproximadamente	O
+37	O
+x	O
+32	O
+mm	O
+,	O
+de	O
+bordes	O
+isodensos	O
+a	O
+la	O
+sustancia	O
+gris	O
+y	O
+de	O
+centro	O
+hipodenso	O
+.	O

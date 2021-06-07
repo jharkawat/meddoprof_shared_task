@@ -1,0 +1,18 @@
+
+La	O
+pediatra	B-PROFESION
+completa	O
+la	O
+historia	O
+clínica	O
+preguntando	O
+sobre	O
+la	O
+posible	O
+presencia	O
+en	O
+los	O
+últimos	O
+meses	O
+de	O
+:	O

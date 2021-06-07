@@ -1,0 +1,17 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+otitis	O
+externa	O
+maligna	O
+se	O
+solicitó	O
+TAC	O
+ótico	O
+y	O
+gammagrafía	O
+ósea	O
+preferente	O
+.	O

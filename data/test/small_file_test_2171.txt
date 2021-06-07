@@ -1,0 +1,13 @@
+
+No	O
+sufre	O
+dolor	O
+durante	O
+la	O
+palpación	O
+ni	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+.	O

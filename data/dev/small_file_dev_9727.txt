@@ -1,0 +1,21 @@
+
+Los	O
+pulsos	O
+se	O
+palpaban	O
+con	O
+normalidad	O
+y	O
+eran	O
+simétricos	O
+,	O
+salvo	O
+el	O
+pulso	O
+pedio	O
+de	O
+ambos	O
+pies	O
+,	O
+débil	O
+.	O

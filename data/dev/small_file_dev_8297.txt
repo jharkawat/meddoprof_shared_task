@@ -1,0 +1,18 @@
+
+En	O
+la	O
+consulta	O
+de	O
+valoración	O
+de	O
+nuestro	O
+centro	O
+,	O
+la	O
+paciente	O
+refiere	O
+palpitaciones	O
+y	O
+dolor	O
+torácico	O
+.	O

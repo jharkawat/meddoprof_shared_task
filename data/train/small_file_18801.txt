@@ -1,0 +1,16 @@
+
+Se	O
+embarca	O
+en	O
+una	O
+relación	O
+con	O
+un	O
+hombre	O
+que	O
+ha	O
+sido	O
+consumidor	O
+de	O
+alcohol	O
+.	O

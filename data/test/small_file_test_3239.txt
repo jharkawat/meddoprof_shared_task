@@ -1,0 +1,11 @@
+
+Se	O
+realiza	O
+biopsia	O
+de	O
+la	O
+zona	O
+positiva	O
+carcinoma	O
+epidermoide	O
+.	O

@@ -1,0 +1,12 @@
+
+Ahora	O
+pasaré	O
+a	O
+describir	O
+un	O
+vivenciar	O
+patológico	O
+fundamental	O
+del	O
+paciente	O
+.	O

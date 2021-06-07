@@ -1,0 +1,13 @@
+
+Tras	O
+descartarse	O
+una	O
+causa	O
+orgánica	O
+de	O
+los	O
+acúfenos	O
+ingresó	O
+en	O
+psiquiatría	O
+.	O

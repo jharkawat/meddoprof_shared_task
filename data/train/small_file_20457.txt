@@ -1,0 +1,17 @@
+
+Antecedente	O
+clínico	O
+:	O
+hipertrigliceridemia	O
+,	O
+antecedente	O
+quirúrgico	O
+de	O
+colecistec	O
+-	O
+tomía	O
+a	O
+los	O
+36	O
+años	O
+.	O

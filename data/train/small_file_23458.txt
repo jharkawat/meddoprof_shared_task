@@ -1,0 +1,13 @@
+
+La	O
+psiquiatría	O
+de	O
+interconsulta	O
+participa	O
+en	O
+el	O
+manejo	O
+sintomático	O
+del	O
+paciente	O
+.	O

@@ -1,0 +1,18 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+historia	O
+clínica	O
+orienta	O
+como	O
+primera	O
+posibilidad	O
+la	O
+causa	O
+infecciosa	O
+de	O
+origen	O
+micótico	O
+.	O

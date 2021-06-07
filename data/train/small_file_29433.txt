@@ -1,0 +1,20 @@
+
+Desaparece	O
+la	O
+sintomatología	O
+psicótica	O
+,	O
+objetivándose	O
+clínicamente	O
+mejoría	O
+,	O
+también	O
+el	O
+paciente	O
+y	O
+los	O
+familiares	O
+aprecian	O
+la	O
+mejoría	O
+.	O

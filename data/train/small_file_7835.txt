@@ -1,0 +1,6 @@
+
+Asma	O
+Bronquial	O
+sin	O
+tratamiento	O
+.	O

@@ -1,0 +1,17 @@
+
+Se	O
+realiza	O
+ecografía	O
+abdominal	O
+donde	O
+se	O
+objetiva	O
+colelitiasis	O
+múltiple	O
+sin	O
+criterios	O
+ecográficos	O
+de	O
+colecistitis	O
+aguda	O
+.	O

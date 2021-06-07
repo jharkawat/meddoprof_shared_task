@@ -1,0 +1,17 @@
+
+El	O
+estudio	O
+se	O
+amplía	O
+con	O
+RMN	O
+de	O
+abdomen	O
+:	O
+Hígado	O
+normal	O
+,	O
+sin	O
+captaciones	O
+patológicas	O
+.	O

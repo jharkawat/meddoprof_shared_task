@@ -1,0 +1,25 @@
+
+También	O
+ha	B-SITUACION_LABORAL
+estado	I-SITUACION_LABORAL
+en	I-SITUACION_LABORAL
+pisos	I-SITUACION_LABORAL
+tutelados	I-SITUACION_LABORAL
+y	O
+en	O
+trabajos	O
+protegidos	O
+,	O
+pero	O
+todos	O
+estos	O
+recursos	O
+fueron	O
+fracasando	O
+debido	O
+a	O
+la	O
+gravedad	O
+del	O
+caso	O
+.	O

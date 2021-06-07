@@ -1,0 +1,24 @@
+
+No	O
+se	O
+realizaron	O
+incisiones	O
+liberadoras	O
+a	O
+excepción	O
+de	O
+una	O
+mínima	O
+incisión	O
+de	O
+3	O
+mm	O
+en	O
+palatino	O
+de	O
+la	O
+pieza	O
+2	O
+.	O
+3	O
+.	O

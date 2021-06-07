@@ -1,0 +1,9 @@
+
+Actualmente	O
+el	O
+paciente	O
+se	O
+encuentra	O
+sin	O
+medicación	O
+.	O

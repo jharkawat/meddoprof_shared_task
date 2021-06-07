@@ -1,0 +1,5 @@
+
+Toxoplasma	O
+IgG	O
+negativo	O
+.	O

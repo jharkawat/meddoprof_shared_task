@@ -1,0 +1,5 @@
+
+Metástasis	O
+de	O
+adenocarcinoma	O
+.	O

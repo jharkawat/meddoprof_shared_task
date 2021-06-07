@@ -1,0 +1,27 @@
+
+Podría	O
+tratarse	O
+de	O
+dos	O
+neoplasias	O
+independientes	O
+(	O
+tumores	O
+de	O
+colisión	O
+)	O
+o	O
+de	O
+formas	O
+mixtas	O
+de	O
+carcinoma	O
+exocrino	O
+-	O
+neuroendocrino	O
+(	O
+tumores	O
+de	O
+composición	O
+)	O
+.	O

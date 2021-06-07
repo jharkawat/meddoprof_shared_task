@@ -1,0 +1,22 @@
+
+Se	O
+objetiva	O
+durante	O
+las	O
+entrevista	O
+y	O
+a	O
+medida	O
+que	O
+transcurre	O
+las	O
+mismas	O
+fatigabilidad	O
+,	O
+empeorando	O
+sus	O
+respuestas	O
+y	O
+estado	O
+clínico	O
+.	O

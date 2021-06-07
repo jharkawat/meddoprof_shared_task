@@ -1,0 +1,10 @@
+
+Regular	O
+estado	O
+general	O
+,	O
+afectado	O
+por	O
+el	O
+dolor	O
+.	O

@@ -1,0 +1,9 @@
+
+NANDA	O
+:	O
+manejo	O
+inefectivo	O
+del	O
+régimen	O
+terapéutico	O
+.	O

@@ -1,0 +1,26 @@
+
+Ingresa	O
+en	O
+Unidad	O
+de	O
+Cuidados	O
+Intensivos	O
+,	O
+donde	O
+presenta	O
+dos	O
+nuevos	O
+episodios	O
+convulsivos	O
+que	O
+ceden	O
+con	O
+Diazepam	O
+intravenoso	O
+y	O
+se	O
+inicia	O
+perfusión	O
+de	O
+Levetiracetam	O
+.	O

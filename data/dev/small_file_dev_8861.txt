@@ -1,0 +1,23 @@
+
+Puede	O
+producirse	O
+por	O
+acúmulo	O
+de	O
+sustancias	O
+,	O
+como	O
+en	O
+la	O
+hemocromatosis	O
+o	O
+por	O
+infiltración	O
+de	O
+tumores	O
+,	O
+tanto	O
+benignos	O
+como	O
+malignos	O
+.	O

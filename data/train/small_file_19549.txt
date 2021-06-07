@@ -1,0 +1,11 @@
+
+Nunca	O
+tuvo	O
+el	O
+deseo	O
+de	O
+estudiar	O
+una	O
+carrera	O
+universitaria	O
+.	O

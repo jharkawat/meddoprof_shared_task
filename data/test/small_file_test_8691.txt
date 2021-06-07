@@ -1,0 +1,16 @@
+
+A	O
+continuación	O
+,	O
+nuestro	O
+paciente	O
+va	O
+a	O
+requerir	O
+una	O
+serie	O
+de	O
+ablaciones	O
+por	O
+radiofrecuencia	O
+:	O

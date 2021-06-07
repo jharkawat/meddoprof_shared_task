@@ -1,0 +1,26 @@
+
+Primer	O
+episodio	O
+:	O
+tras	O
+19	O
+días	O
+de	O
+tratamiento	O
+con	O
+levofloxacino	O
+,	O
+se	O
+ingresa	O
+a	O
+la	O
+paciente	O
+del	O
+21	O
+de	O
+enero	O
+al	O
+8	O
+de	O
+febrero	O
+.	O

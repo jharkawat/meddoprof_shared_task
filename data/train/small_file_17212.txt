@@ -1,0 +1,10 @@
+
+Edema	O
+peritumoral	O
+que	O
+condiciona	O
+escaso	O
+efecto	O
+de	O
+masa	O
+.	O

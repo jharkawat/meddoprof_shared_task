@@ -1,0 +1,23 @@
+
+La	O
+Enfermedad	O
+de	O
+Castelman	O
+o	O
+también	O
+llamada	O
+hiperplasia	O
+angiofolicular	O
+de	O
+nódulos	O
+linfáticos	O
+en	O
+su	O
+forma	O
+de	O
+presentación	O
+multicéntrica	O
+sería	O
+otra	O
+posibilidad	O
+.	O

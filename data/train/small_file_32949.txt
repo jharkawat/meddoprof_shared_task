@@ -1,0 +1,15 @@
+
+Intervención	O
+psicoterapéutica	O
+orientada	O
+a	O
+la	O
+rehabilitación	O
+cognitiva	O
+y	O
+al	O
+desarrollo	O
+de	O
+habilidades	O
+sociales	O
+.	O

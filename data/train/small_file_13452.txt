@@ -1,0 +1,15 @@
+
+Buen	O
+estado	O
+general	O
+,	O
+consciente	O
+,	O
+alerta	O
+,	O
+desorientado	O
+en	O
+espacio	O
+y	O
+tiempo	O
+.	O

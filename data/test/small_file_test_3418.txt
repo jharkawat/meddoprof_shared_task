@@ -1,0 +1,21 @@
+
+Paciente	O
+de	O
+38	O
+años	O
+sin	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+(	O
+dos	O
+embarazos	O
+,	O
+dos	O
+partos	O
+,	O
+ningún	O
+aborto	O
+)	O
+.	O

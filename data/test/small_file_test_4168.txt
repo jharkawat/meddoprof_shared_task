@@ -1,0 +1,13 @@
+
+Signos	O
+de	O
+broncoespasmo	O
+,	O
+con	O
+crepitantes	O
+finos	O
+en	O
+ambas	O
+bases	O
+pulmonares	O
+.	O

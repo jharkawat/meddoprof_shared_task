@@ -1,0 +1,27 @@
+
+La	O
+evolución	O
+posterior	O
+requirió	O
+la	O
+amputación	O
+de	O
+los	O
+10	O
+dedos	O
+de	O
+los	O
+pies	O
+con	O
+conservación	O
+de	O
+la	O
+primera	O
+falange	O
+del	O
+primer	O
+dedo	O
+de	O
+ambos	O
+pies	O
+.	O

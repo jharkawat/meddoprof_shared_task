@@ -1,0 +1,7 @@
+
+El	O
+examen	O
+físico	O
+fue	O
+anodino	O
+.	O

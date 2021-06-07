@@ -1,0 +1,19 @@
+
+Dice	O
+tener	O
+amigas	O
+,	O
+pero	O
+reconoce	O
+dificultades	O
+para	O
+relacionarse	O
+y	O
+tener	O
+poca	O
+capacidad	O
+para	O
+mantener	O
+relaciones	O
+estrechas	O
+.	O

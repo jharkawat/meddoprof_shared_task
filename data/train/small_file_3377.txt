@@ -1,0 +1,17 @@
+
+Inician	O
+tratamiento	O
+quimioprofiláctico	O
+con	O
+isoniacida	O
+300mg	O
+/	O
+24h	O
+durante	O
+9	O
+meses	O
+,	O
+con	O
+adecuada	O
+tolerancia	O
+.	O

@@ -1,0 +1,19 @@
+
+El	O
+tercer	O
+caso	O
+es	O
+el	O
+de	O
+una	O
+mujer	O
+de	O
+30	O
+años	O
+de	O
+edad	O
+,	O
+de	O
+nacionalidad	O
+española	O
+.	O

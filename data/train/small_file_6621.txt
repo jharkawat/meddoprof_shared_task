@@ -1,0 +1,12 @@
+
+Inicialmente	O
+surgieron	O
+en	O
+cara	O
+interna	O
+de	O
+muslo	O
+y	O
+pierna	O
+derecha	O
+.	O

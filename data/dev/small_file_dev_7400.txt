@@ -1,0 +1,10 @@
+
+El	O
+cultivo	O
+para	O
+hongos	O
+y	O
+micobacterias	O
+fue	O
+negativo	O
+.	O

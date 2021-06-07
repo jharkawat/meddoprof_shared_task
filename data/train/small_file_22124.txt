@@ -1,0 +1,11 @@
+
+Queja	O
+principal	O
+motivo	O
+de	O
+consulta	O
+:	O
+Problemas	O
+de	O
+pareja	O
+.	O

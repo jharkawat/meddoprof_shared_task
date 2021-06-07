@@ -1,0 +1,10 @@
+
+A	O
+la	O
+vez	O
+,	O
+empezó	O
+a	O
+practicar	O
+reiki	O
+.	O

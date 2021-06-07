@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+regresó	O
+con	O
+un	O
+estado	O
+general	O
+muy	O
+deficiente	O
+,	O
+por	O
+lo	O
+cual	O
+se	O
+volvió	O
+a	O
+internar	O
+.	O

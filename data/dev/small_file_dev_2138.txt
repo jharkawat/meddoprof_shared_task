@@ -1,0 +1,25 @@
+
+Tras	O
+el	O
+inicio	O
+de	O
+clozapina	O
+:	O
+hemogramas	O
+semanales	O
+seriados	O
+las	O
+primeras	O
+18	O
+semanas	O
+,	O
+posteriormente	O
+hemogramas	O
+mensuales	O
+:	O
+dentro	O
+del	O
+rango	O
+de	O
+normalidad	O
+.	O

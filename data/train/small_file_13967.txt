@@ -1,0 +1,11 @@
+
+Revisada	O
+por	O
+Cardiólogo	B-PROFESION
+por	O
+precordalgias	O
+atípicas	O
+asociada	O
+a	O
+palpitaciones	O
+.	O

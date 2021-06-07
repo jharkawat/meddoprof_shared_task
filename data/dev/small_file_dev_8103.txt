@@ -1,0 +1,10 @@
+
+Endocarditis	O
+aórtica	O
+por	O
+S	O
+.	O
+sanguinis	O
+sobre	O
+válvula	O
+bicúspide	O

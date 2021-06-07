@@ -1,0 +1,26 @@
+
+En	O
+2006	O
+sufrió	O
+un	O
+accidente	O
+de	O
+tráfico	O
+que	O
+le	O
+provocó	O
+un	O
+neumotórax	O
+,	O
+pérdida	O
+de	O
+conocimiento	O
+por	O
+conmoción	O
+cerebral	O
+y	O
+una	O
+fractura	O
+triple	O
+costal	O
+.	O

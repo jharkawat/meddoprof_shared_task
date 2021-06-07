@@ -1,0 +1,22 @@
+
+ACP	O
+:	O
+rítmico	O
+,	O
+ligeramente	O
+taquicárdico	O
+,	O
+leve	O
+disminución	O
+del	O
+MV	O
+en	O
+bases	O
+(	O
+mayor	O
+en	O
+izquierda	O
+,	O
+hipoventila	O
+)	O
+.	O

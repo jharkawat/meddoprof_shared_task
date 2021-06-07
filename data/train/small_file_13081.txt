@@ -1,0 +1,8 @@
+
+TAC	O
+Craneal	O
+y	O
+Abdominal	O
+sin	O
+lesiones	O
+.	O

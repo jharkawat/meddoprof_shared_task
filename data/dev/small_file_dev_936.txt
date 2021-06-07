@@ -1,0 +1,14 @@
+
+Manifiesta	O
+propósito	O
+de	O
+continuar	O
+en	O
+Comunidad	O
+Terapéutica	O
+con	O
+su	O
+programa	O
+asistencial	O
+diurno	O
+.	O

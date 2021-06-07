@@ -1,0 +1,23 @@
+
+Leucocitos	O
+10	O
+,	O
+3x109	O
+/	O
+L	O
+(	O
+Neutrófilos	O
+9	O
+,	O
+14x109	O
+/	O
+L	O
+,	O
+Linfocitos	O
+0	O
+,	O
+71x109	O
+/	O
+L	O
+)	O
+.	O

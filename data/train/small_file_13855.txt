@@ -1,0 +1,14 @@
+
+No	O
+tenía	O
+contacto	O
+con	O
+animales	O
+ni	O
+había	O
+realizado	O
+viajes	O
+al	O
+extranjero	O
+recientemente	O
+.	O

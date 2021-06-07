@@ -1,0 +1,21 @@
+
+Este	O
+fármaco	O
+había	O
+logrado	O
+la	O
+remisión	O
+sintomatológica	O
+que	O
+causaba	O
+importante	O
+repercusión	O
+vivencial	O
+sin	O
+empeorar	O
+su	O
+enfermedad	O
+motora	O
+de	O
+base	O
+.	O

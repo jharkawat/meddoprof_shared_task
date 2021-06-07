@@ -1,0 +1,27 @@
+
+Paciente	O
+de	O
+70	O
+an	O
+̃	O
+os	O
+que	O
+acudió	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+de	O
+nuestro	O
+hospital	O
+por	O
+dolor	O
+en	O
+fosa	O
+ilíaca	O
+izquierda	O
+desde	O
+hacía	O
+tres	O
+días	O
+.	O

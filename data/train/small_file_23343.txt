@@ -1,0 +1,7 @@
+
+Madre	O
+de	O
+dos	O
+hijos	O
+independizados	O
+.	O

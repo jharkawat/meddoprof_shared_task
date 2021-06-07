@@ -1,0 +1,15 @@
+
+Trastorno	O
+psicótico	O
+agudo	O
+polimorfo	O
+,	O
+sin	O
+síntomas	O
+de	O
+esquizofrenia	O
+-	O
+F23	O
+.	O
+0	O
+.	O

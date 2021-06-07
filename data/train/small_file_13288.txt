@@ -1,0 +1,13 @@
+
+Trombosis	O
+de	O
+la	O
+vena	O
+porta	O
+principal	O
+con	O
+cavernomatosis	O
+,	O
+esplenomegalia	O
+homogénea	O
+.	O

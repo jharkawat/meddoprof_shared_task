@@ -1,0 +1,10 @@
+
+Antecedentes	O
+personales	O
+y	O
+familiares	O
+psiquiátricos	O
+:	O
+no	O
+diagnosticados	O
+.	O

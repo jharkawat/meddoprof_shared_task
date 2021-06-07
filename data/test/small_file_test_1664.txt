@@ -1,0 +1,17 @@
+
+Se	O
+hizo	O
+la	O
+exéresis	O
+de	O
+la	O
+tumoración	O
+bajo	O
+anestesia	O
+local	O
+infiltrativa	O
+y	O
+con	O
+bisturí	O
+frío	O
+.	O

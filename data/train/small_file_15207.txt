@@ -1,0 +1,27 @@
+
+Puede	O
+aparecer	O
+como	O
+una	O
+/	O
+s	O
+lesión	O
+/	O
+es	O
+lítica	O
+/	O
+s	O
+en	O
+la	O
+metáfisis	O
+o	O
+diáfisis	O
+con	O
+una	O
+apariencia	O
+de	O
+"	O
+vidrio	O
+esmerilado	O
+"	O
+.	O

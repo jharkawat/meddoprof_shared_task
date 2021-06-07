@@ -1,0 +1,10 @@
+
+Está	O
+desconfiado	O
+y	O
+teme	O
+estar	O
+con	O
+gente	O
+desconocida	O
+.	O

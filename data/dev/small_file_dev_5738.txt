@@ -1,0 +1,19 @@
+
+Tras	O
+8	O
+meses	O
+de	O
+seguimiento	O
+en	O
+su	O
+centro	O
+de	O
+Atención	O
+Primaria	O
+es	O
+remitida	O
+a	O
+Urología	O
+para	O
+estudio	O
+.	O

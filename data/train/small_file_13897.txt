@@ -1,0 +1,25 @@
+
+Se	O
+objetivó	O
+hepatomegalia	O
+de	O
+3	O
+cm	O
+dolorosa	O
+y	O
+exantema	O
+cutáneo	O
+inespecífico	O
+en	O
+tronco	O
+,	O
+no	O
+pruriginoso	O
+y	O
+evanescente	O
+en	O
+menos	O
+de	O
+8	O
+horas	O
+.	O

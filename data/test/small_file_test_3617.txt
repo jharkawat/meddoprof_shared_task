@@ -1,0 +1,22 @@
+
+En	O
+mayo	O
+de	O
+2015	O
+acudió	O
+a	O
+Urgencias	O
+por	O
+mareos	O
+,	O
+náuseas	O
+y	O
+vómitos	O
+,	O
+diagnosticándose	O
+metástasis	O
+hemorrágicas	O
+cerebrales	O
+y	O
+cerebelosas	O
+.	O

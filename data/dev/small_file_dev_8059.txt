@@ -1,0 +1,25 @@
+
+Consulta	O
+por	O
+cuadro	O
+de	O
+dos	O
+meses	O
+de	O
+evolución	O
+consistente	O
+en	O
+sudoración	O
+profusa	O
+y	O
+sensación	O
+distérmica	O
+no	O
+termometrada	O
+,	O
+astenia	O
+generalizada	O
+y	O
+dolor	O
+lumbar	O
+.	O

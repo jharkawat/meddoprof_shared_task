@@ -1,0 +1,21 @@
+
+Hemograma	O
+:	O
+Hb	O
+13	O
+.	O
+6	O
+g	O
+/	O
+dL	O
+,	O
+Hct	O
+41	O
+%	O
+,	O
+VCM	O
+77	O
+.	O
+9	O
+fL	O
+.	O

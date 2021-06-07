@@ -1,0 +1,9 @@
+
+No	O
+toma	O
+ningún	O
+fármaco	O
+de	O
+manera	O
+regular	O
+.	O

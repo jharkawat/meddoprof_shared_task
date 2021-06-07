@@ -1,0 +1,6 @@
+
+Límites	O
+externos	O
+familiares	O
+conservados	O
+.	O

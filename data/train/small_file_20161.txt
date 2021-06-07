@@ -1,0 +1,18 @@
+
+Creía	O
+que	O
+pronto	O
+la	O
+arrestarían	O
+y	O
+prefería	O
+quitarse	O
+la	O
+vida	O
+antes	O
+que	O
+ir	O
+a	O
+la	O
+cárcel	O
+.	O

@@ -1,0 +1,18 @@
+
+Antecedentes	O
+:	O
+El	O
+desenvolvimiento	O
+del	O
+paciente	O
+era	O
+bastante	O
+normal	O
+y	O
+el	O
+informe	O
+de	O
+su	O
+trabajo	O
+satisfactorio	O
+.	O

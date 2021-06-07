@@ -1,0 +1,25 @@
+
+Se	O
+solicita	O
+entonces	O
+biopsia	O
+para	O
+confirmación	O
+y	O
+diagnóstico	O
+histológico	O
+,	O
+que	O
+resulta	O
+positiva	O
+para	O
+carcinoma	O
+renal	O
+de	O
+células	O
+claras	O
+grado	O
+de	O
+Fuhrman	O
+I	O
+.	O

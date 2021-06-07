@@ -1,0 +1,19 @@
+
+Test	O
+de	O
+cronicidad	O
+al	O
+ingreso	O
+61	O
+sobre	O
+84	O
+a	O
+los	O
+3	O
+meses	O
+52	O
+y	O
+al	O
+año	O
+32	O
+.	O

@@ -1,0 +1,6 @@
+
+Sin	O
+hábitos	O
+tóxicos	O
+reseñables	O
+.	O

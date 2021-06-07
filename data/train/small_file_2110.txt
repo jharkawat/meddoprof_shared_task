@@ -1,0 +1,27 @@
+
+El	O
+ECG	O
+mostraba	O
+un	O
+ascenso	O
+del	O
+punto	O
+J	O
+con	O
+ligera	O
+elevación	O
+del	O
+segmento	O
+ST	O
+en	O
+prácticamente	O
+todas	O
+las	O
+derivaciones	O
+(	O
+excepto	O
+aVR	O
+y	O
+V1	O
+)	O
+.	O

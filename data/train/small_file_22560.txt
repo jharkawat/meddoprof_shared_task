@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+requiere	O
+ingreso	O
+en	O
+la	O
+Unidad	O
+de	O
+Internamiento	O
+Breve	O
+.	O

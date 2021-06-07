@@ -1,0 +1,6 @@
+
+No	O
+signos	O
+disautonómicos	O
+oculares	O
+.	O

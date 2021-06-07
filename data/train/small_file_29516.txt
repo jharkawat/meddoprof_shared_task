@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+nunca	O
+ha	O
+consumido	O
+drogas	O
+o	O
+alcohol	O
+.	O

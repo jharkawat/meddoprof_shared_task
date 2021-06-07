@@ -1,0 +1,9 @@
+
+Patrón	O
+de	O
+llenado	O
+mitral	O
+de	O
+tipo	O
+restrictivo	O
+.	O

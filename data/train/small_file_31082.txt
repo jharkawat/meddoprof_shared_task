@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+cumple	O
+criterios	O
+diagnósticos	O
+DSM	O
+-	O
+V	O
+de	O
+esquizofrenia	O
+.	O

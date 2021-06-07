@@ -1,0 +1,13 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+Abacavir	O
+/	O
+Lamivudina	O
+y	O
+Darunavir	O
+/	O
+Ritonavir	O
+.	O

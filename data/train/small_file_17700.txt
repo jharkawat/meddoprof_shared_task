@@ -1,0 +1,22 @@
+
+La	O
+palpación	O
+de	O
+la	O
+zona	O
+dolorosa	O
+no	O
+mostró	O
+sensibilidad	O
+en	O
+la	O
+tróclea	O
+o	O
+las	O
+salidas	O
+de	O
+nervios	O
+supraorbitarios	O
+o	O
+supratroclear	O
+.	O

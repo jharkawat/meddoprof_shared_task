@@ -1,0 +1,27 @@
+
+Los	O
+microorganismos	O
+más	O
+frecuente	O
+de	O
+origen	O
+bacteriano	O
+son	O
+:	O
+Escherichia	O
+coli	O
+enterotoxigénica	O
+,	O
+Escherichia	O
+coli	O
+enteroagregativa	O
+,	O
+Campylobacter	O
+jejuni	O
+,	O
+Shigella	O
+spp	O
+y	O
+Salmonella	O
+spp	O
+.	O

@@ -1,0 +1,18 @@
+
+Durante	O
+la	O
+cirugía	O
+se	O
+exploró	O
+el	O
+hígado	O
+y	O
+la	O
+cavidad	O
+abdominal	O
+sin	O
+hallazgos	O
+sospechosos	O
+de	O
+malignidad	O
+.	O

@@ -1,0 +1,9 @@
+
+Antecedentes	O
+personales	O
+:	O
+no	O
+tiene	O
+alergias	O
+conocidas	O
+.	O

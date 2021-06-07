@@ -1,0 +1,10 @@
+
+Nunca	O
+fueron	O
+un	O
+problema	O
+de	O
+prescripción	O
+de	O
+clozapina	O
+.	O

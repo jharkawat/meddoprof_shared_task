@@ -1,0 +1,18 @@
+
+Se	O
+extirpa	O
+la	O
+cápsula	O
+del	O
+absceso	O
+que	O
+llega	O
+a	O
+ventrículo	O
+pero	O
+no	O
+está	O
+abierto	O
+a	O
+él	O
+.	O

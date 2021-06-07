@@ -1,0 +1,6 @@
+
+Cultivo	O
+del	O
+líquido	O
+negativo	O
+.	O

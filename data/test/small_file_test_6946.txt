@@ -1,0 +1,16 @@
+
+Así	O
+mismo	O
+,	O
+se	O
+detecta	O
+una	O
+lesión	O
+suprarrenal	O
+izquierda	O
+de	O
+93	O
+x	O
+82	O
+mm	O
+.	O

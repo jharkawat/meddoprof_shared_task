@@ -1,0 +1,15 @@
+
+TA	O
+120	O
+/	O
+85	O
+y	O
+saturación	O
+basal	O
+99	O
+%	O
+con	O
+ventilación	O
+pulmonar	O
+normal	O
+.	O

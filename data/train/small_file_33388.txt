@@ -1,0 +1,9 @@
+
+Paciente	O
+consciente	O
+,	O
+alerta	O
+y	O
+bien	O
+orientado	O
+.	O

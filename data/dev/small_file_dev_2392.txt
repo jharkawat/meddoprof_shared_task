@@ -1,0 +1,15 @@
+
+Se	O
+somete	O
+a	O
+CPRE	O
++	O
+esfinterotomía	O
+ya	O
+que	O
+se	O
+confirma	O
+la	O
+papilitis	O
+fibrosa	O
+.	O

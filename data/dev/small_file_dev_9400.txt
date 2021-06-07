@@ -1,0 +1,11 @@
+
+Tensión	O
+arterial	O
+(	O
+TA	O
+)	O
+:	O
+124	O
+/	O
+60	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+se	O
+observan	O
+signos	O
+degenerativos	O
+.	O

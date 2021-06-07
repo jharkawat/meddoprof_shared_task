@@ -1,0 +1,19 @@
+
+La	O
+evolución	O
+del	O
+paciente	O
+es	O
+tórpida	O
+,	O
+con	O
+algias	O
+que	O
+no	O
+ceden	O
+con	O
+analgesia	O
+y	O
+síndrome	O
+febril	O
+.	O

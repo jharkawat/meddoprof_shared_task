@@ -1,0 +1,12 @@
+
+Se	O
+lo	O
+trató	O
+con	O
+6	O
+mg	O
+de	O
+haloperidol	O
+por	O
+día	O
+.	O

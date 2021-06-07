@@ -1,0 +1,23 @@
+
+Exploración	O
+física	O
+:	O
+113	O
+lpm	O
+,	O
+temperatura	O
+de	O
+38	O
+.	O
+6oC	O
+,	O
+leve	O
+esplenomegalia	O
+palpable	O
+,	O
+siendo	O
+todo	O
+lo	O
+demás	O
+anodino	O
+.	O

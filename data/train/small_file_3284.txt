@@ -1,0 +1,7 @@
+
+Coagulación	O
+INR	O
+1	O
+,	O
+22	O
+.	O

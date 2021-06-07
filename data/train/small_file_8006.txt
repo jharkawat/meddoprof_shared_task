@@ -1,0 +1,23 @@
+
+Se	O
+indica	O
+suspender	O
+tratamiento	O
+,	O
+pero	O
+a	O
+los	O
+5	O
+meses	O
+persisten	O
+gonadotropinas	O
+suprimidas	O
+y	O
+testosterona	O
+36	O
+.	O
+7	O
+ng	O
+/	O
+ml	O
+.	O

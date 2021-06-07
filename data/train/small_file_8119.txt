@@ -1,0 +1,26 @@
+
+Comienza	O
+de	O
+forma	O
+subaguda	O
+con	O
+fiebre	O
+y	O
+dolor	O
+centrotorácico	O
+de	O
+características	O
+pleuríticas	O
+que	O
+cambia	O
+con	O
+los	O
+movimientos	O
+posturales	O
+,	O
+asociando	O
+disnea	O
+de	O
+moderados	O
+esfuerzos	O
+.	O

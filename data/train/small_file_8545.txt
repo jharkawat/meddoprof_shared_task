@@ -1,0 +1,6 @@
+
+Normohidratado	O
+y	O
+bien	O
+perfundido	O
+.	O

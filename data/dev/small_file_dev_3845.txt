@@ -1,0 +1,23 @@
+
+Se	O
+siente	O
+avergonzado	O
+de	O
+la	O
+conducta	O
+de	O
+su	O
+hermana	O
+e	O
+intenta	O
+por	O
+todos	O
+los	O
+medios	O
+no	O
+salir	O
+de	O
+casa	O
+con	O
+ella	O
+.	O

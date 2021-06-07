@@ -1,0 +1,18 @@
+
+Frotis	O
+por	O
+aposición	O
+de	O
+un	O
+segmento	O
+de	O
+la	O
+mucosa	O
+nasal	O
+:	O
+positiva	O
+para	O
+amastigotes	O
+de	O
+Leishmania	O
+.	O

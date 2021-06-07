@@ -1,0 +1,22 @@
+
+El	O
+procedimiento	O
+se	O
+inició	O
+con	O
+una	O
+incisión	O
+sulcular	O
+vestibular	O
+y	O
+palatina	O
+hasta	O
+contactar	O
+con	O
+la	O
+cresta	O
+del	O
+hueso	O
+alveolar	O
+marginal	O
+.	O

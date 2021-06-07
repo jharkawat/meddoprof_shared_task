@@ -1,0 +1,21 @@
+
+Se	O
+inicia	O
+antiagregación	O
+con	O
+ácido	O
+acetilsalicílico	O
+300	O
+mg	O
+/	O
+día	O
+y	O
+se	O
+recomienda	O
+la	O
+abstención	O
+de	O
+consumo	O
+de	O
+tóxicos	O
+.	O

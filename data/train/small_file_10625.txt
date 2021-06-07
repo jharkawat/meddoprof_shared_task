@@ -1,0 +1,11 @@
+
+Soltero	O
+,	O
+trabajador	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+,	O
+recientemente	O
+jubilado	B-SITUACION_LABORAL
+.	O

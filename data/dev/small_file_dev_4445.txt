@@ -1,0 +1,8 @@
+
+TRATAMIENTO	O
+:	O
+Se	O
+realiza	O
+Lobectomía	O
+superior	O
+izquierda	O

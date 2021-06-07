@@ -1,0 +1,7 @@
+
+Ex	O
+tabaquista	O
+de	O
+5	O
+py	O
+.	O

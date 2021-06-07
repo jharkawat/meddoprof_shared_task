@@ -1,0 +1,27 @@
+
+La	O
+paciente	O
+es	O
+visitada	O
+a	O
+los	O
+3	O
+meses	O
+de	O
+la	O
+prescripción	O
+del	O
+Apremilast	O
+,	O
+presentando	O
+buena	O
+tolerancia	O
+al	O
+mismo	O
+y	O
+no	O
+objetivándose	O
+ningún	O
+efecto	O
+adverso	O
+.	O

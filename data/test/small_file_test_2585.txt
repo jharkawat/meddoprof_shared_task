@@ -1,0 +1,7 @@
+
+Aspecto	O
+descuidado	O
+y	O
+contacto	O
+distante	O
+.	O

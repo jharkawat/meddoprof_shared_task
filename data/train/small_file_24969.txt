@@ -1,0 +1,11 @@
+
+Tanto	O
+la	O
+gestación	O
+como	O
+el	O
+desarrollo	O
+psicomotor	O
+fueron	O
+normales	O
+.	O

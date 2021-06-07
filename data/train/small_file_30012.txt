@@ -1,0 +1,4 @@
+
+Neumopericardio	O
+leve	O
+.	O

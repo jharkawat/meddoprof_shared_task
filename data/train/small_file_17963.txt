@@ -1,0 +1,15 @@
+
+Ha	O
+ido	O
+a	O
+educación	O
+especial	O
+y	O
+en	O
+la	O
+actualidad	O
+trabaja	B-PROFESION
+en	I-PROFESION
+Centro	I-PROFESION
+ocupacional	I-PROFESION
+.	O

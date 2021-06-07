@@ -1,0 +1,22 @@
+
+Tiene	O
+una	O
+hija	O
+con	O
+la	O
+que	O
+mantiene	O
+una	O
+muy	O
+buena	O
+relación	O
+y	O
+que	O
+en	O
+este	O
+momento	O
+es	O
+su	O
+cuidadora	B-SITUACION_LABORAL
+principal	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,13 @@
+
+Hiporexia	O
+y	O
+abandono	O
+del	O
+autocuidado	O
+con	O
+repercusión	O
+afectiva	O
+de	O
+sintomatología	O
+psicótica	O
+.	O

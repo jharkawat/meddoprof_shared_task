@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+es	O
+derivado	O
+a	O
+urología	O
+,	O
+que	O
+solicita	O
+perfil	O
+hormonal	O
+y	O
+ecografía	O
+doppler	O
+de	O
+pene	O
+donde	O
+no	O
+destacan	O
+alteraciones	O
+.	O

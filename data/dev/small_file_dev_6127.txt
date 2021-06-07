@@ -1,0 +1,19 @@
+
+El	O
+juicio	O
+fue	O
+de	O
+artritis	O
+séptica	O
+de	O
+la	O
+primera	O
+articulación	O
+condroesternal	O
+derecha	O
+con	O
+colección	O
+líquida	O
+y	O
+absceso	O
+.	O

@@ -1,0 +1,10 @@
+
+Se	O
+inicia	O
+corticoterapia	O
+mediante	O
+dexametasona	O
+a	O
+dosis	O
+antiinflamatorias	O
+.	O

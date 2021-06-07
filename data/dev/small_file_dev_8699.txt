@@ -1,0 +1,26 @@
+
+No	O
+había	O
+tenido	O
+contacto	O
+con	O
+animales	O
+,	O
+bebido	O
+agua	O
+no	O
+embotellada	O
+,	O
+consumido	O
+productos	O
+lácteos	O
+locales	O
+ni	O
+tampoco	O
+había	O
+realizado	O
+baños	O
+en	O
+agua	O
+dulce	O
+.	O

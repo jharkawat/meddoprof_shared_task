@@ -1,0 +1,6 @@
+
+Madre	O
+:	O
+suicidio	O
+consumado	O
+.	O

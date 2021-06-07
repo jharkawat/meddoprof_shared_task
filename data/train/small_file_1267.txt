@@ -1,0 +1,18 @@
+
+Las	O
+células	O
+se	O
+muestran	O
+intensamente	O
+positivas	O
+para	O
+marcadores	O
+endoteliales	O
+CD	O
+-	O
+31	O
+y	O
+CD	O
+-	O
+34	O
+.	O

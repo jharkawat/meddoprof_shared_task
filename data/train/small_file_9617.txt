@@ -1,0 +1,25 @@
+
+Enviada	O
+a	O
+la	O
+consulta	O
+externa	O
+de	O
+Medicina	O
+Interna	O
+por	O
+leucocitosis	O
+con	O
+linfocitosis	O
+y	O
+monocitosis	O
+,	O
+y	O
+anticuerpos	O
+antinucleares	O
+positivos	O
+ANA	O
+1	O
+/	O
+160	O
+.	O

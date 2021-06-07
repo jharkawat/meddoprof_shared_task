@@ -1,0 +1,14 @@
+
+Conciencia	O
+parcial	O
+de	O
+enfermedad	O
+con	O
+buena	O
+adherencia	O
+terapéutica	O
+y	O
+cumplimentación	O
+de	O
+tratamiento	O
+.	O

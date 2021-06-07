@@ -1,0 +1,17 @@
+
+Las	O
+células	O
+tumorales	O
+expresan	O
+S	O
+-	O
+100	O
+,	O
+citoqueratina	O
+8	O
+y	O
+antígeno	O
+de	O
+membrana	O
+epitelial	O
+.	O

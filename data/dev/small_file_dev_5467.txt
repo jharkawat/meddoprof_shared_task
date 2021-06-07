@@ -1,0 +1,5 @@
+
+Tensión	O
+arterial	O
+elevada	O
+.	O

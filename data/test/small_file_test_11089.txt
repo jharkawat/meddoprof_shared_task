@@ -1,0 +1,16 @@
+
+Mantiene	O
+una	O
+relación	O
+de	O
+pareja	O
+con	O
+un	O
+hombre	O
+español	O
+desde	O
+hace	O
+aproximadamente	O
+5	O
+años	O
+.	O

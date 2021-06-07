@@ -1,0 +1,20 @@
+
+No	O
+se	O
+han	O
+presentado	O
+dificultades	O
+para	O
+fijar	O
+la	O
+dosis	O
+,	O
+la	O
+paciente	O
+ha	O
+tolerado	O
+la	O
+disminución	O
+sin	O
+problemas	O
+.	O

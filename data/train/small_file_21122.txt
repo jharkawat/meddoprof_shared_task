@@ -1,0 +1,15 @@
+
+Su	O
+padre	O
+era	O
+carpintero	B-PROFESION
+y	O
+la	O
+familia	O
+vivía	O
+en	O
+un	O
+pueblo	O
+de	O
+provincia	O
+.	O

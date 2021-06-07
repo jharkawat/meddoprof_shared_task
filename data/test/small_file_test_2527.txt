@@ -1,0 +1,18 @@
+
+-	O
+Sin	O
+focalidad	O
+neurológica	O
+,	O
+con	O
+movilidad	O
+y	O
+carga	O
+limitadas	O
+por	O
+atrofia	O
+muscular	O
+de	O
+predominio	O
+proximal	O
+.	O

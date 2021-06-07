@@ -1,0 +1,8 @@
+
+Fumadora	O
+activa	O
+6	O
+paquetes	O
+/	O
+años	O
+.	O

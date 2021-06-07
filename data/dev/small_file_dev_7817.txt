@@ -1,0 +1,19 @@
+
+Puede	O
+causar	O
+meningitis	O
+linfocitaria	O
+con	O
+afectación	O
+cerebelosa	O
+y	O
+de	O
+pares	O
+craneales	O
+(	O
+principalmente	O
+,	O
+nervio	O
+facial	O
+)	O
+.	O

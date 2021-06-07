@@ -1,0 +1,6 @@
+
+No	O
+signos	O
+de	O
+peritonismo	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+alergias	O
+medicamentosas	O
+conocidas	O
+ni	O
+toma	O
+medicación	O
+.	O

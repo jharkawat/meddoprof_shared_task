@@ -1,0 +1,19 @@
+
+La	O
+actitud	O
+familiar	O
+ha	O
+sido	O
+hermética	O
+ante	O
+la	O
+intervención	O
+sanitaria	O
+,	O
+viviéndola	O
+de	O
+forma	O
+negativa	O
+y	O
+agresiva	O
+.	O

@@ -1,0 +1,10 @@
+
+Rx	O
+tórax	O
+PA	O
+y	O
+L	O
+sin	O
+alteraciones	O
+significativas	O
+.	O

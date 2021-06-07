@@ -1,0 +1,26 @@
+
+Exploración	O
+:	O
+buen	O
+estado	O
+general	O
+,	O
+consciente	O
+orientada	O
+y	O
+colaboradora	O
+,	O
+bien	O
+hidratada	O
+y	O
+perfundida	O
+,	O
+normocoloreada	O
+,	O
+eupneica	O
+en	O
+reposo	O
+,	O
+hemodinámicamente	O
+estable	O
+.	O

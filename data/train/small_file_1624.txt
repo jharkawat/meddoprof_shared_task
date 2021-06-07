@@ -1,0 +1,16 @@
+
+Se	O
+identificó	O
+gran	O
+desgarro	O
+en	O
+todo	O
+el	O
+cuerpo	O
+lingual	O
+con	O
+idéntica	O
+presencia	O
+del	O
+pigmento	O
+.	O

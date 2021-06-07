@@ -1,0 +1,20 @@
+
+Explica	O
+intoxicaciones	O
+sin	O
+repercusiones	O
+conductuales	O
+aunque	O
+sí	O
+alteraciones	O
+amnésicas	O
+secundarias	O
+en	O
+forma	O
+de	O
+"	O
+black	O
+-	O
+out	O
+"	O
+.	O

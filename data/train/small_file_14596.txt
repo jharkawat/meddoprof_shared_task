@@ -1,0 +1,20 @@
+
+En	O
+tratamiento	O
+con	O
+bisoprolol	O
+,	O
+furosemida	O
+,	O
+esomeprazol	O
+,	O
+irbesartán	O
+,	O
+atorvastatina	O
+,	O
+pregabalina	O
+,	O
+lorazepam	O
+y	O
+acenocumarol	O
+.	O

@@ -1,0 +1,14 @@
+
+Conclusión	O
+:	O
+poliartritis	O
+con	O
+afectación	O
+de	O
+sacroilíacas	O
+,	O
+manos	O
+y	O
+tobillo	O
+derecho	O
+.	O

@@ -1,0 +1,16 @@
+
+Se	O
+le	O
+insistió	O
+que	O
+era	O
+necesario	O
+que	O
+vuelva	O
+a	O
+acudir	O
+,	O
+pero	O
+nunca	O
+regresó	O
+.	O

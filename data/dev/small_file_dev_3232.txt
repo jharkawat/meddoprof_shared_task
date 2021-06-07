@@ -1,0 +1,15 @@
+
+Sin	O
+antecedentes	O
+personales	O
+psiquiátricos	O
+;	O
+madre	O
+y	O
+hermana	O
+con	O
+síndrome	O
+ansioso	O
+-	O
+depresivo	O
+.	O

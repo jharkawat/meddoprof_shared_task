@@ -1,0 +1,25 @@
+
+Ante	O
+esta	O
+estenosis	O
+de	O
+conducto	O
+de	O
+máxima	O
+severidad	O
+,	O
+se	O
+decidió	O
+ingreso	O
+hospitalario	O
+para	O
+tratamiento	O
+quirúrgico	O
+y	O
+evitar	O
+la	O
+evolución	O
+a	O
+la	O
+cuadriplejía	O
+.	O

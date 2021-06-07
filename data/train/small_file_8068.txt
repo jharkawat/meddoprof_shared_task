@@ -1,0 +1,5 @@
+
+Ex	O
+-	O
+fumador	O
+.	O

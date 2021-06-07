@@ -1,0 +1,10 @@
+
+IgA	O
+anti	O
+-	O
+transglutaminasa	O
+(	O
+celiaquía	O
+)	O
+negativo	O
+.	O

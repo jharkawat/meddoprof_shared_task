@@ -1,0 +1,16 @@
+
+Evoluciona	O
+favorablemente	O
+con	O
+tratamiento	O
+analgésico	O
+y	O
+reposo	O
+dándose	O
+de	O
+alta	O
+a	O
+los	O
+pocos	O
+días	O
+.	O

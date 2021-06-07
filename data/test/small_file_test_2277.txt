@@ -1,0 +1,8 @@
+
+RCP	O
+indiferente	O
+derecho	O
+,	O
+flexor	O
+izquierdo	O
+.	O

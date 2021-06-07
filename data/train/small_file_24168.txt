@@ -1,0 +1,7 @@
+
+Trastorno	O
+esquizoafectivo	O
+,	O
+subtipo	O
+bipolar	O
+.	O

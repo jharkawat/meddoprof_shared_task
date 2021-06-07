@@ -1,0 +1,7 @@
+
+Clozapina	O
+200	O
+mg	O
+/	O
+día	O
+.	O

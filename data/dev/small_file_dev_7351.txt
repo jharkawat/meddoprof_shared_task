@@ -1,0 +1,11 @@
+
+Una	O
+infección	O
+fúngica	O
+diseminada	O
+debería	O
+ser	O
+tenida	O
+en	O
+cuenta	O
+.	O

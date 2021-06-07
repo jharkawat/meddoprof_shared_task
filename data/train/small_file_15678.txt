@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+acudió	O
+a	O
+Urgencias	O
+por	O
+presentar	O
+dos	O
+episodios	O
+de	O
+desconexión	O
+del	O
+medio	O
+y	O
+movimientos	O
+tónico	O
+clónicos	O
+generalizados	O
+.	O

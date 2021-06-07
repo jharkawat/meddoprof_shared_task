@@ -1,0 +1,6 @@
+
+El	O
+EEG	O
+era	O
+normal	O
+.	O

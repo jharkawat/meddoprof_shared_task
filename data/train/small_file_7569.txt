@@ -1,0 +1,20 @@
+
+La	O
+lesión	O
+había	O
+asentado	O
+sobre	O
+una	O
+piel	O
+previamente	O
+normal	O
+y	O
+no	O
+relacionaba	O
+su	O
+aparición	O
+con	O
+un	O
+antecedente	O
+traumático	O
+.	O

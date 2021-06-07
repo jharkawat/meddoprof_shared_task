@@ -1,0 +1,12 @@
+
+Dosis	O
+con	O
+la	O
+que	O
+se	O
+obtiene	O
+una	O
+mejoría	O
+clínica	O
+progresiva	O
+.	O

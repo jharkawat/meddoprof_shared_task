@@ -1,0 +1,27 @@
+
+La	O
+paciente	O
+se	O
+encuentra	O
+en	O
+estricto	O
+seguimiento	O
+radiológico	O
+y	O
+endocrino	O
+,	O
+no	O
+presentando	O
+a	O
+los	O
+3	O
+meses	O
+signos	O
+de	O
+recidiva	O
+tumoral	O
+ni	O
+de	O
+enfermedad	O
+metastásica	O
+.	O

@@ -1,0 +1,26 @@
+
+A	O
+la	O
+exploración	O
+física	O
+observamos	O
+múltiples	O
+maculopápulas	O
+eritematovioláceas	O
+,	O
+brillantes	O
+y	O
+de	O
+superficie	O
+aplanada	O
+,	O
+agrupadas	O
+siguiendo	O
+los	O
+trayectos	O
+de	O
+las	O
+líneas	O
+de	O
+Blaschko	O
+.	O

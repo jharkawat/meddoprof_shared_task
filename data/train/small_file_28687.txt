@@ -1,0 +1,24 @@
+
+Analítica	O
+general	O
+(	O
+hemograma	O
+,	O
+bioquímica	O
+y	O
+perfil	O
+tiroideo	O
+)	O
+,	O
+sistemático	O
+de	O
+orina	O
+y	O
+tóxicos	O
+en	O
+orina	O
+,	O
+sin	O
+alteraciones	O
+reseñables	O
+.	O

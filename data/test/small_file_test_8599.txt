@@ -1,0 +1,16 @@
+
+»	O
+Biopsia	O
+de	O
+la	O
+adenopatía	O
+supraclavicular	O
+:	O
+carcinoma	O
+neuroendocrino	O
+con	O
+Ki67	O
+:	O
+99	O
+%	O
+.	O

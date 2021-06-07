@@ -1,0 +1,24 @@
+
+No	O
+hay	O
+disuria	O
+,	O
+nunca	O
+ha	O
+presentado	O
+hematuria	O
+,	O
+la	O
+orina	O
+es	O
+de	O
+coloración	O
+ámbar	O
+y	O
+olor	O
+suigéneris	O
+,	O
+no	O
+hay	O
+incontinencia	O
+.	O

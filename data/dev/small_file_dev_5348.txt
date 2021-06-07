@@ -1,0 +1,23 @@
+
+48	O
+h	O
+antes	O
+ha	O
+sido	O
+valorado	O
+en	O
+otro	O
+hospital	O
+,	O
+en	O
+el	O
+que	O
+se	O
+realiza	O
+estudio	O
+de	O
+imagen	O
+mediante	O
+TAC	O
+craneal	O
+.	O

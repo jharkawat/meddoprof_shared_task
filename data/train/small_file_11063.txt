@@ -1,0 +1,21 @@
+
+En	O
+Rx	O
+tórax	O
+se	O
+aprecia	O
+una	O
+línea	O
+de	O
+2	O
+mm	O
+que	O
+rodea	O
+la	O
+silueta	O
+cardíaca	O
+,	O
+compatible	O
+con	O
+neumomediastino	O
+.	O

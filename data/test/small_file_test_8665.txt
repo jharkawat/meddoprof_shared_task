@@ -1,0 +1,14 @@
+
+»	O
+Socio	O
+-	O
+familiares	O
+:	O
+actualmente	O
+jubilado	B-SITUACION_LABORAL
+,	O
+trabajó	B-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+metalurgia	I-PROFESION
+.	O

@@ -1,0 +1,23 @@
+
+Debido	O
+a	O
+su	O
+descompensación	O
+respiratoria	O
+,	O
+fue	O
+trasladado	O
+a	O
+la	O
+Unidad	O
+de	O
+Cuidados	O
+Intensivos	O
+(	O
+UCI	O
+)	O
+para	O
+su	O
+monitorización	O
+cercana	O
+.	O

@@ -1,0 +1,21 @@
+
+Fue	O
+intervenido	O
+de	O
+cataratas	O
+en	O
+agosto	O
+2018	O
+y	O
+en	O
+febrero	O
+2019	O
+,	O
+con	O
+mejoría	O
+llamativa	O
+de	O
+la	O
+agudeza	O
+visual	O
+.	O

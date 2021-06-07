@@ -1,0 +1,21 @@
+
+En	O
+2012	O
+,	O
+nuevo	O
+ingreso	O
+hospitalario	O
+por	O
+idéntico	O
+cuadro	O
+clínico	O
+y	O
+aislamiento	O
+en	O
+hemocultivos	O
+de	O
+E	O
+.	O
+coli	O
+BLEE	O
+.	O

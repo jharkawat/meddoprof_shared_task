@@ -1,0 +1,25 @@
+
+En	O
+dicho	O
+ingreso	O
+se	O
+detecta	O
+además	O
+una	O
+anomalía	O
+congénita	O
+de	O
+la	O
+vía	O
+biliar	O
+(	O
+hamartomatosis	O
+múltiple	O
+biliar	O
+ó	O
+complejos	O
+de	O
+Von	O
+Meyenburg	O
+)	O
+.	O

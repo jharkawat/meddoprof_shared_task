@@ -1,0 +1,23 @@
+
+En	O
+septiembre	O
+de	O
+2017	O
+,	O
+identificó	O
+una	O
+marca	O
+de	O
+café	O
+natural	O
+que	O
+tenía	O
+fructosa	O
+y	O
+le	O
+provocaban	O
+episodios	O
+de	O
+dolor	O
+abdominal	O
+.	O

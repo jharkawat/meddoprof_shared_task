@@ -1,0 +1,25 @@
+
+Su	O
+tratamiento	O
+en	O
+dicho	O
+momento	O
+consistía	O
+en	O
+6	O
+mg	O
+de	O
+clonazepam	O
+al	O
+día	O
+,	O
+divididos	O
+en	O
+3	O
+tomas	O
+y	O
+200	O
+mg	O
+de	O
+quetiapina	O
+.	O

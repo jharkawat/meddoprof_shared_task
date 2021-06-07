@@ -1,0 +1,11 @@
+
+-	O
+Se	O
+realiza	O
+ECG	O
+donde	O
+se	O
+visualiza	O
+taquicardia	O
+sinusal	O
+.	O

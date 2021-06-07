@@ -1,0 +1,18 @@
+
+A	O
+la	O
+palpación	O
+del	O
+cuello	O
+presenta	O
+una	O
+glándula	O
+tiroidea	O
+de	O
+tamaño	O
+normal	O
+y	O
+sin	O
+nódulos	O
+palpables	O
+.	O

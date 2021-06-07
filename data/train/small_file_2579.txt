@@ -1,0 +1,24 @@
+
+Comenta	O
+que	O
+3	O
+semanas	O
+previas	O
+al	O
+primer	O
+episodio	O
+(	O
+futbol	O
+)	O
+presento	O
+:	O
+faringitis	O
+exudativa	O
+,	O
+fiebre	O
+,	O
+dolor	O
+abdominal	O
+y	O
+adenopatías	O
+.	O

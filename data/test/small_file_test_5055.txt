@@ -1,0 +1,16 @@
+
+Nódulo	O
+subpleural	O
+en	O
+lóbulo	O
+inferior	O
+izquierdo	O
+sin	O
+actividad	O
+en	O
+la	O
+PET	O
+a	O
+controlar	O
+evolutivamente	O
+.	O

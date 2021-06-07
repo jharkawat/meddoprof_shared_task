@@ -1,0 +1,24 @@
+
+Mujer	O
+de	O
+38	O
+años	O
+,	O
+diestra	O
+,	O
+que	O
+consulta	O
+por	O
+presentar	O
+desde	O
+la	O
+adolescencia	O
+gran	O
+facilidad	O
+para	O
+quedarse	O
+dormida	O
+durante	O
+el	O
+día	O
+.	O

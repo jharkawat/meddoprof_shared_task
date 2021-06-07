@@ -1,0 +1,13 @@
+
+En	O
+el	O
+material	O
+cultivado	O
+creció	O
+E	O
+.	O
+coli	O
+productor	O
+de	O
+BLEE	O
+.	O

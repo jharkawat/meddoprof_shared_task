@@ -1,0 +1,13 @@
+
+Su	O
+discurso	O
+,	O
+aunque	O
+espontáneo	O
+era	O
+disártrico	O
+,	O
+sobreincluyente	O
+y	O
+tangencial	O
+.	O

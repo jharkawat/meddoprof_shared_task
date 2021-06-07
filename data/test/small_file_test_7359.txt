@@ -1,0 +1,8 @@
+
+El	O
+protooncogén	O
+KRAS	O
+no	O
+presentaba	O
+mutaciones	O
+.	O

@@ -1,0 +1,25 @@
+
+Siete	O
+días	O
+después	O
+del	O
+primer	O
+síntoma	O
+apareció	O
+la	O
+anosmia	O
+,	O
+la	O
+que	O
+persistió	O
+hasta	O
+el	O
+final	O
+del	O
+aislamiento	O
+domiciliario	O
+(	O
+día	O
+14	O
+)	O
+.	O

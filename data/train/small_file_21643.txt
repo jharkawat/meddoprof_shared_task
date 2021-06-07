@@ -1,0 +1,27 @@
+
+Risperidona	O
+de	O
+liberación	O
+prolongada	O
+(	O
+50	O
+mg	O
+/	O
+15días	O
+)	O
+,	O
+Metilfenidato	O
+de	O
+liberación	O
+prolongada	O
+54	O
+mg	O
+/	O
+día	O
+y	O
+Oxcarbacepina	O
+1200	O
+mg	O
+/	O
+día	O
+.	O

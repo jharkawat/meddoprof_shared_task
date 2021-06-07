@@ -1,0 +1,16 @@
+
+El	O
+abdomen	O
+era	O
+blando	O
+,	O
+sin	O
+masas	O
+,	O
+visceromegalias	O
+ni	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+.	O

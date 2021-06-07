@@ -1,0 +1,8 @@
+
+Motivo	O
+de	O
+la	O
+consulta	O
+:	O
+accidente	O
+laboral	O

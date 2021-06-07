@@ -1,0 +1,17 @@
+
+Fue	O
+dado	O
+de	O
+alta	O
+a	O
+los	O
+15	O
+días	O
+de	O
+la	O
+cirugía	O
+,	O
+estando	O
+completamente	O
+asintomático	O
+.	O

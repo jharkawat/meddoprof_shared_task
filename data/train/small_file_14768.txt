@@ -1,0 +1,12 @@
+
+Estuvo	O
+viviendo	O
+unos	O
+años	O
+en	O
+un	O
+país	O
+de	O
+África	O
+ecuatorial	O
+.	O

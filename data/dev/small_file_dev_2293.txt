@@ -1,0 +1,9 @@
+
+Psicológicamente	O
+su	O
+obesidad	O
+ha	O
+deteriorado	O
+su	O
+autoestima	O
+.	O

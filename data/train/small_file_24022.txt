@@ -1,0 +1,20 @@
+
+Tras	O
+el	O
+diagnóstico	O
+de	O
+la	O
+enfermedad	O
+se	O
+casó	O
+,	O
+tuvo	O
+dos	O
+hijas	O
+y	O
+hace	O
+seis	O
+años	O
+se	O
+separó	O
+.	O

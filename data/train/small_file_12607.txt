@@ -1,0 +1,19 @@
+
+Como	O
+antecedentes	O
+personales	O
+destaca	O
+fibrilación	O
+auricular	O
+(	O
+FA	O
+)	O
+secundaria	O
+a	O
+valvulopatía	O
+mitral	O
+reumática	O
+e	O
+insuficiencia	O
+tricuspídea	O
+.	O

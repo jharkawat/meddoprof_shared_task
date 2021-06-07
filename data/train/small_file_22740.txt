@@ -1,0 +1,15 @@
+
+Esto	O
+le	O
+llevó	O
+a	O
+realizar	O
+un	O
+intento	O
+autolítico	O
+y	O
+posteriormente	O
+dejar	B-SITUACION_LABORAL
+ese	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+.	O

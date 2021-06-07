@@ -1,0 +1,13 @@
+
+Con	O
+todo	O
+se	O
+llegó	O
+al	O
+diagnóstico	O
+de	O
+DIABETES	O
+MELLITUS	O
+TIPO	O
+II	O
+.	O

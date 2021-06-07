@@ -1,0 +1,16 @@
+
+Abuso	O
+de	O
+alcohol	O
+,	O
+no	O
+acude	O
+a	O
+seguimiento	O
+por	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+ambulatoria	O
+.	O

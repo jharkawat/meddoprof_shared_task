@@ -1,0 +1,12 @@
+
+Se	O
+extienden	O
+del	O
+abdomen	O
+al	O
+tórax	O
+,	O
+brazos	O
+y	O
+muslos	O
+.	O

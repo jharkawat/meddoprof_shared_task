@@ -1,0 +1,15 @@
+
+Peso	O
+al	O
+nacer	O
+2670gr	O
+;	O
+longitud	O
+46	O
+,	O
+5cm	O
+;	O
+perímetro	O
+cefálico	O
+36cm	O
+.	O

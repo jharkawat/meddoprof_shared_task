@@ -1,0 +1,17 @@
+
+Tras	O
+la	O
+antibioterapia	O
+tópica	O
+y	O
+sistémica	O
+la	O
+lesión	O
+había	O
+permanecido	O
+estable	O
+,	O
+sin	O
+presentar	O
+mejoría	O
+.	O

@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+expresa	O
+acatisia	O
+,	O
+difícil	O
+de	O
+objetivar	O
+en	O
+la	O
+exploración	O
+.	O
+ansiedad	O
+desproporcionada	O
+para	O
+las	O
+circunstancias	O
+.	O
+tristeza	O
+presente	O
+pero	O
+no	O
+generalizada	O
+.	O

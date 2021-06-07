@@ -1,0 +1,22 @@
+
+Nuestro	O
+paciente	O
+llega	O
+asustado	O
+refiriendo	O
+que	O
+"	O
+se	O
+ve	O
+los	O
+dedos	O
+negros	O
+"	O
+y	O
+eso	O
+nunca	O
+antes	O
+le	O
+había	O
+ocurrido	O
+.	O

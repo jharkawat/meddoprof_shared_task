@@ -1,0 +1,6 @@
+
+La	O
+auscultación	O
+es	O
+normal	O
+.	O

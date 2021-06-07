@@ -1,0 +1,10 @@
+
+Niega	O
+otra	O
+sintomatología	O
+relevante	O
+por	O
+aparatos	O
+y	O
+sistemas	O
+.	O

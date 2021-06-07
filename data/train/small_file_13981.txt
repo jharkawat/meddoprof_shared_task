@@ -1,0 +1,6 @@
+
+Abdomen	O
+anodino	O
+sin	O
+soplos	O
+.	O

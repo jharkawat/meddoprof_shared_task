@@ -1,0 +1,22 @@
+
+Varón	O
+de	O
+80	O
+años	O
+de	O
+edad	O
+que	O
+como	O
+único	O
+antecedente	O
+de	O
+interés	O
+presenta	O
+dislipemia	O
+en	O
+tratamiento	O
+con	O
+fluvastatina	O
+80	O
+mg	O
+.	O

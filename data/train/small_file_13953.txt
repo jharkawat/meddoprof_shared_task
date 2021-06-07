@@ -1,0 +1,22 @@
+
+A	O
+pesar	O
+de	O
+instauración	O
+de	O
+antibioterapia	O
+y	O
+control	O
+de	O
+PIO	O
+,	O
+el	O
+paciente	O
+empeoró	O
+clínicamente	O
+,	O
+destacando	O
+intenso	O
+dolor	O
+retroocular	O
+.	O

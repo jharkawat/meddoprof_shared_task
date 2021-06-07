@@ -1,0 +1,11 @@
+
+Rx	O
+tórax	O
+:	O
+índice	O
+cardiotorácico	O
+dentro	O
+de	O
+límites	O
+normales	O
+.	O

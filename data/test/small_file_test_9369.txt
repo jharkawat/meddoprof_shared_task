@@ -1,0 +1,16 @@
+
+Auscultación	O
+pulmonar	O
+:	O
+disminución	O
+global	O
+del	O
+murmullo	O
+vesicular	O
+,	O
+con	O
+hipoventilación	O
+en	O
+base	O
+izquierda	O
+.	O

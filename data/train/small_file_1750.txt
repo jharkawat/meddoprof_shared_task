@@ -1,0 +1,8 @@
+
+Diagnosticado	O
+de	O
+silicosis	O
+complicada	O
+en	O
+FMP	O
+.	O

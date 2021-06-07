@@ -1,0 +1,12 @@
+
+Se	O
+realizó	O
+ecografía	O
+abdominal	O
+con	O
+hallazgos	O
+sugestivos	O
+de	O
+colitis	O
+neutropénica	O
+.	O

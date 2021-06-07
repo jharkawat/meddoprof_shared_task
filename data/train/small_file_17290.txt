@@ -1,0 +1,27 @@
+
+•	O
+Se	O
+realizó	O
+una	O
+resonancia	O
+magnética	O
+(	O
+RM	O
+)	O
+cerebral	O
+normal	O
+,	O
+comprobándose	O
+que	O
+las	O
+amígdalas	O
+cerebelosas	O
+no	O
+sobrepasaban	O
+el	O
+límite	O
+inferior	O
+del	O
+foramen	O
+magno	O
+.	O

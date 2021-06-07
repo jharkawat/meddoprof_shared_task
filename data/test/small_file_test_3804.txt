@@ -1,0 +1,12 @@
+
+Ausencia	O
+de	O
+cuerpo	O
+y	O
+cola	O
+de	O
+páncreas	O
+por	O
+cirugía	O
+previa	O
+.	O

@@ -1,0 +1,20 @@
+
+La	O
+pareja	O
+debió	O
+afrontar	O
+dificultades	O
+sociales	O
+,	O
+y	O
+las	O
+consecuencias	O
+de	O
+un	O
+trastorno	O
+psiquiátrico	O
+materno	O
+(	O
+esquizofrenia	O
+)	O
+.	O

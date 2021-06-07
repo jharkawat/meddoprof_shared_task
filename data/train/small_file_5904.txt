@@ -1,0 +1,9 @@
+
+TAC	O
+de	O
+tórax	O
+con	O
+múltiples	O
+consolidaciones	O
+bilaterales	O
+.	O

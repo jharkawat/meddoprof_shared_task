@@ -1,0 +1,21 @@
+
+*	O
+*	O
+Serología	O
+negativa	O
+para	O
+fiebre	O
+Q	O
+,	O
+VHB	O
+,	O
+VHC	O
+,	O
+VHA	O
+,	O
+Brucella	O
+,	O
+VIH	O
+,	O
+Borrelia	O
+.	O

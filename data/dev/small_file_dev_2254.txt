@@ -1,0 +1,8 @@
+
+Secundarios	O
+:	O
+gestante	O
+de	O
+28	O
+semanas	O
+.	O

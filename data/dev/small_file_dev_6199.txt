@@ -1,0 +1,15 @@
+
+Tenía	O
+hipotrofia	O
+e	O
+hipotonía	O
+de	O
+ambos	O
+miembros	O
+inferiores	O
+y	O
+presentaba	O
+mano	O
+derecha	O
+péndula	O
+.	O

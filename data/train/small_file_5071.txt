@@ -1,0 +1,13 @@
+
+Jubilado	B-SITUACION_LABORAL
+en	O
+el	O
+momento	O
+actual	O
+habiendo	B-PROFESION
+trabajado	I-PROFESION
+previamente	I-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+.	O

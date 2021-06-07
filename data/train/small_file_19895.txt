@@ -1,0 +1,25 @@
+
+Nunca	O
+ha	O
+tenido	O
+una	O
+relación	O
+de	O
+pareja	O
+estable	O
+,	O
+lo	O
+que	O
+afirma	O
+que	O
+no	O
+le	O
+preocupa	O
+,	O
+así	O
+como	O
+tampoco	O
+las	O
+relaciones	O
+sexuales	O
+.	O

@@ -1,0 +1,23 @@
+
+OBSERVACIONES	O
+:	O
+la	O
+entrevista	O
+se	O
+le	O
+realiza	O
+a	O
+la	O
+madre	O
+y	O
+abuela	O
+,	O
+ya	O
+que	O
+el	O
+niño	O
+está	O
+en	O
+el	O
+colegio	O
+.	O

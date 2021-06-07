@@ -1,0 +1,5 @@
+
+Vejiga	O
+urinaria	O
+replecionada	O
+.	O

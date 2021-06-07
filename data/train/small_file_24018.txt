@@ -1,0 +1,17 @@
+
+Es	O
+ex	O
+consumidor	O
+de	O
+drogas	O
+vía	O
+parenteral	O
+y	O
+se	O
+mantiene	O
+abstinente	O
+desde	O
+los	O
+25	O
+años	O
+.	O

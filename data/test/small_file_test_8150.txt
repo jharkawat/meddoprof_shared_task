@@ -1,0 +1,20 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+controles	O
+de	O
+glucemias	O
+preprandiales	O
+y	O
+pauta	O
+correctora	O
+de	O
+insulina	O
+con	O
+buena	O
+tolerancia	O
+y	O
+evolución	O
+.	O

@@ -1,0 +1,8 @@
+
+Temperatura	O
+:	O
+37	O
+.	O
+8	O
+°	O
+C	O

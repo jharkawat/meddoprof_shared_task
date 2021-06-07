@@ -1,0 +1,7 @@
+
+Arterias	O
+coronarias	O
+sin	O
+lesiones	O
+angiográficas	O
+.	O

@@ -1,0 +1,23 @@
+
+Con	O
+estos	O
+datos	O
+,	O
+se	O
+remitió	O
+a	O
+nuestro	O
+centro	O
+para	O
+valoración	O
+por	O
+el	O
+Comité	O
+de	O
+Tumores	O
+musculo	O
+-	O
+esqueléticos	O
+y	O
+tratamiento	O
+.	O

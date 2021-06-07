@@ -1,0 +1,10 @@
+
+La	O
+paciente	O
+se	O
+encuentra	O
+consciente	O
+y	O
+orientada	O
+globalmente	O
+.	O

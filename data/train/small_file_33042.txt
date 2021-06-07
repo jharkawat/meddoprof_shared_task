@@ -1,0 +1,23 @@
+
+(	O
+Tratamiento	O
+con	O
+fármacos	O
+agonistas	O
+dopaminérgicos	O
+.	O
+Deterioro	O
+cognitivo	O
+leve	O
+.	O
+Fragilidad	O
+psicológica	O
+por	O
+conflictiva	O
+familiar	O
+y	O
+enfermedad	O
+de	O
+Parkinson	O
+)	O
+.	O

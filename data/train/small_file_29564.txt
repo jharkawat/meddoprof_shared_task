@@ -1,0 +1,25 @@
+
+Acudía	O
+con	O
+aceptable	O
+adaptación	O
+a	O
+actividades	O
+externas	O
+organizadas	O
+por	O
+la	O
+CT	O
+(	O
+excursiones	O
+a	O
+la	O
+playa	O
+,	O
+salidas	O
+lúdicas	O
+en	O
+la	O
+ciudad	O
+)	O
+.	O

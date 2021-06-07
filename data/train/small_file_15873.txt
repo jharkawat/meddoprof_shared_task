@@ -1,0 +1,19 @@
+
+A	O
+su	O
+llegada	O
+a	O
+Urgencias	O
+el	O
+paciente	O
+presenta	O
+cifras	O
+de	O
+tensión	O
+arterial	O
+de	O
+216	O
+/	O
+136	O
+mmHg	O
+.	O

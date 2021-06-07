@@ -1,0 +1,20 @@
+
+Actualmente	O
+,	O
+la	O
+reacción	O
+inflamatoria	O
+celular	O
+ha	O
+desaparecido	O
+,	O
+a	O
+pesar	O
+de	O
+la	O
+persistencia	O
+de	O
+la	O
+vitritis	O
+periférica	O
+.	O

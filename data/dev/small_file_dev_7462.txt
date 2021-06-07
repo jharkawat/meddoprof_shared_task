@@ -1,0 +1,23 @@
+
+Dado	O
+dicho	O
+antecedente	O
+,	O
+el	O
+diagnóstico	O
+resultaba	O
+muy	O
+amplio	O
+,	O
+siendo	O
+los	O
+hongos	O
+y	O
+las	O
+micobacterias	O
+los	O
+agentes	O
+etiológicos	O
+más	O
+plausibles	O
+.	O

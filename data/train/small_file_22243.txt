@@ -1,0 +1,21 @@
+
+Podemos	O
+hacer	O
+el	O
+diagnóstico	O
+diferencial	O
+con	O
+"	O
+Trastorno	O
+de	O
+pánico	O
+(	O
+ansiedad	O
+paroxística	O
+episódica	O
+)	O
+F41	O
+.	O
+0	O
+"	O
+.	O

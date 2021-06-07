@@ -1,0 +1,22 @@
+
+La	O
+fase	O
+causal	O
+se	O
+completó	O
+con	O
+el	O
+tratamiento	O
+endodóntico	O
+de	O
+la	O
+pieza	O
+1	O
+.	O
+7	O
+y	O
+un	O
+ajuste	O
+oclusal	O
+selectivo	O
+.	O

@@ -1,0 +1,16 @@
+
+Como	O
+antecedentes	O
+personales	O
+padece	O
+asma	O
+,	O
+hipotiroidismo	O
+subclínico	O
+e	O
+hiperprolactinemia	O
+leve	O
+sin	O
+repercusión	O
+clínica	O
+.	O

@@ -1,0 +1,15 @@
+
+El	O
+mantenimiento	O
+anestésico	O
+se	O
+realizó	O
+con	O
+mezcla	O
+de	O
+O2	O
+,	O
+aire	O
+y	O
+sevofluorano	O
+.	O

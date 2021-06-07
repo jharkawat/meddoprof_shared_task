@@ -1,0 +1,23 @@
+
+Éste	O
+se	O
+realiza	O
+para	O
+que	O
+pueda	O
+regresar	O
+al	O
+domicilio	O
+del	O
+tío	O
+materno	O
+,	O
+que	O
+constituye	O
+su	O
+único	O
+vínculo	O
+familiar	O
+de	O
+soporte	O
+.	O

@@ -1,0 +1,14 @@
+
+Se	O
+realizó	O
+una	O
+biopsia	O
+renal	O
+compatible	O
+con	O
+carcinoma	O
+de	O
+células	O
+renales	O
+bilateral	O
+.	O

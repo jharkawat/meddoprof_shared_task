@@ -1,0 +1,24 @@
+
+»	O
+Estenosis	O
+carotídea	O
+derecha	O
+con	O
+estenosis	O
+del	O
+60	O
+%	O
+por	O
+placa	O
+ulcerada	O
+,	O
+fue	O
+tratada	O
+con	O
+angioplastia	O
+y	O
+stent	O
+carotídeo	O
+en	O
+2010	O
+.	O

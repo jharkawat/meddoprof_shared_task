@@ -1,0 +1,9 @@
+
+Frecuencia	O
+cardiaca	O
+:	O
+89xminTemp	O
+:	O
+36	O
+.	O
+5oC	O

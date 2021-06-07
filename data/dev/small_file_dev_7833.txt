@@ -1,0 +1,12 @@
+
+RMN	O
+cerebral	O
+del	O
+paciente	O
+:	O
+ligera	O
+atrofia	O
+de	O
+vermis	O
+cerebeloso	O
+.	O

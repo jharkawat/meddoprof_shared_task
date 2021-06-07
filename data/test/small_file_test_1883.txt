@@ -1,0 +1,13 @@
+
+Todos	O
+estos	O
+hallazgos	O
+compatibles	O
+con	O
+un	O
+tumor	O
+neuroendocrino	O
+de	O
+alto	O
+grado	O
+.	O

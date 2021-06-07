@@ -1,0 +1,24 @@
+
+Hablaba	O
+de	O
+un	O
+proyecto	O
+importante	O
+que	O
+era	O
+secreto	O
+,	O
+incluso	O
+"	O
+era	O
+secreto	O
+para	O
+él	O
+"	O
+y	O
+que	O
+había	O
+gente	O
+intentando	O
+obtenerlo	O
+.	O

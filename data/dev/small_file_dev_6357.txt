@@ -1,0 +1,8 @@
+
+No	O
+había	O
+tomado	O
+la	O
+profilaxis	O
+antipalúdica	O
+.	O

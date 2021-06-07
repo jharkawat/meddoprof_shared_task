@@ -1,0 +1,6 @@
+
+Se	O
+desestimó	O
+tratamiento	O
+quirúrgico	O
+.	O

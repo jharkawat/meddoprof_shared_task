@@ -1,0 +1,13 @@
+
+Ante	O
+esta	O
+situación	O
+clínica	O
+se	O
+decidió	O
+el	O
+cambio	O
+de	O
+antibioterapia	O
+empírica	O
+.	O

@@ -1,0 +1,19 @@
+
+Temperatura	O
+36	O
+,	O
+6	O
+oC	O
+,	O
+tensión	O
+arterial	O
+136	O
+/	O
+90	O
+mmHg	O
+,	O
+frecuencia	O
+cardiaca	O
+77	O
+lpm	O
+.	O

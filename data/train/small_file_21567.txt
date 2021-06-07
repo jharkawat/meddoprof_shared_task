@@ -1,0 +1,11 @@
+
+Mientras	O
+habla	O
+intenta	O
+contener	O
+las	O
+lágrimas	O
+sin	O
+lograrlo	O
+totalmente	O
+.	O

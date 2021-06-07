@@ -1,0 +1,18 @@
+
+Permanece	O
+en	O
+coma	O
+según	O
+historia	O
+clínica	O
+durante	O
+15	O
+días	O
+hasta	O
+recuperación	O
+total	O
+del	O
+nivel	O
+de	O
+conciencia	O
+.	O

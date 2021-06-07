@@ -1,0 +1,25 @@
+
+Además	O
+,	O
+se	O
+realizó	O
+ecocardiograma	O
+de	O
+esfuerzo	O
+,	O
+que	O
+resultó	O
+ser	O
+normal	O
+,	O
+sin	O
+aparición	O
+de	O
+gradientes	O
+ni	O
+cambios	O
+de	O
+la	O
+actividad	O
+segmentaria	O
+.	O

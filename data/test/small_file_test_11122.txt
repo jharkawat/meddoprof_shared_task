@@ -1,0 +1,26 @@
+
+En	O
+la	O
+intervención	O
+,	O
+la	O
+familia	O
+se	O
+muestra	O
+capaz	O
+de	O
+asumir	O
+pautas	O
+y	O
+colaborar	O
+,	O
+facilitando	O
+el	O
+trabajo	O
+y	O
+capacitándoles	O
+para	O
+un	O
+funcionamiento	O
+autónomo	O
+.	O

@@ -1,0 +1,18 @@
+
+Nunca	B-SITUACION_LABORAL
+ha	I-SITUACION_LABORAL
+trabajado	I-SITUACION_LABORAL
+debido	O
+a	O
+las	O
+limitaciones	O
+intelectuales	O
+,	O
+no	O
+llegando	O
+a	O
+concluir	O
+el	O
+graduado	O
+escolar	O
+.	O

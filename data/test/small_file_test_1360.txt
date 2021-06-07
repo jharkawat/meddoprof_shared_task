@@ -1,0 +1,27 @@
+
+Se	O
+le	O
+auscultaban	O
+escasos	O
+estertores	O
+crepitantes	O
+teleinspiratorios	O
+subescapulares	O
+derechos	O
+,	O
+sin	O
+síndrome	O
+de	O
+condensación	O
+y	O
+se	O
+le	O
+observaba	O
+tranquilo	O
+,	O
+sin	O
+taquipnea	O
+y	O
+negando	O
+disnea	O
+.	O

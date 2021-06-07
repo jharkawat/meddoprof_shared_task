@@ -1,0 +1,24 @@
+
+Como	O
+sus	O
+acompañantes	O
+notan	O
+que	O
+no	O
+mejora	O
+,	O
+e	O
+incluso	O
+la	O
+notan	O
+algo	O
+confusa	O
+,	O
+deciden	O
+traerla	O
+a	O
+Urgencias	O
+de	O
+nuestro	O
+hospital	O
+.	O

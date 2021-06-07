@@ -1,0 +1,15 @@
+
+El	O
+caso	O
+planteó	O
+diversos	O
+diagnósticos	O
+diferenciales	O
+:	O
+hiperreactividad	O
+bronquial	O
+o	O
+infección	O
+vías	O
+respiratorias	O
+.	O

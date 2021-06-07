@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+59	O
+años	O
+,	O
+histerectomizada	O
+varios	O
+años	O
+antes	O
+por	O
+miomatosis	O
+uterina	O
+,	O
+sin	O
+otros	O
+antecedentes	O
+a	O
+destacar	O
+.	O

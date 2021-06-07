@@ -1,0 +1,15 @@
+
+No	O
+había	O
+realizado	O
+viajes	O
+recientemente	O
+ni	O
+había	O
+tenido	O
+contactos	O
+conocidos	O
+con	O
+pacientes	O
+tuberculosos	O
+.	O

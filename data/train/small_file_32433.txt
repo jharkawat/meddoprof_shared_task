@@ -1,0 +1,21 @@
+
+Se	O
+trata	O
+de	O
+un	O
+varón	O
+de	O
+25	O
+años	O
+,	O
+que	O
+realiza	O
+seguimiento	O
+en	O
+la	O
+Unidad	O
+de	O
+Primeros	O
+Episodios	O
+Psicóticos	O
+.	O

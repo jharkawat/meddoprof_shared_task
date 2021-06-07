@@ -1,0 +1,14 @@
+
+Sin	O
+embargo	O
+,	O
+tienen	O
+poca	O
+repercusión	O
+y	O
+lo	O
+vive	O
+con	O
+distancia	O
+emocional	O
+.	O

@@ -1,0 +1,9 @@
+
+Pericarditis	O
+tuberculosa	O
+por	O
+M	O
+.	O
+tuberculosis	O
+multidrogorresistente	O
+.	O

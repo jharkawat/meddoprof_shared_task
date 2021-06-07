@@ -1,0 +1,13 @@
+
+Niega	O
+haber	O
+estado	O
+en	O
+el	O
+campo	O
+ni	O
+en	O
+otras	O
+zonas	O
+rurales	O
+.	O

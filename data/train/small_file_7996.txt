@@ -1,0 +1,13 @@
+
+Consulta	O
+en	O
+2009	O
+por	O
+disminución	O
+de	O
+la	O
+libido	O
+y	O
+disfunción	O
+eréctil	O
+.	O

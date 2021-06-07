@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+persiste	O
+con	O
+dicho	O
+cuadro	O
+clínico	O
+durante	O
+dos	O
+meses	O
+,	O
+hasta	O
+que	O
+remite	O
+espontáneamente	O
+.	O

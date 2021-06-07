@@ -1,0 +1,26 @@
+
+Antes	O
+de	O
+irse	O
+se	O
+le	O
+administra	O
+risperidona	O
+en	O
+presentación	O
+depot	O
+por	O
+los	O
+antecedentes	O
+de	O
+abandono	O
+del	O
+tratamiento	O
+(	O
+25	O
+mg	O
+/	O
+14	O
+días	O
+)	O
+.	O

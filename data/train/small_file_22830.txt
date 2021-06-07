@@ -1,0 +1,12 @@
+
+En	O
+Traumatología	O
+se	O
+realizan	O
+pruebas	O
+complementarias	O
+que	O
+descartan	O
+patología	O
+orgánica	O
+.	O

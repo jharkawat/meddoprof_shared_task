@@ -1,0 +1,12 @@
+
+Se	O
+rescata	O
+serología	O
+durante	O
+proceso	O
+agudo	O
+IgM	O
+positiva	O
+para	O
+EpsteinBarr	O
+.	O

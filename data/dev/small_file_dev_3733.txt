@@ -1,0 +1,27 @@
+
+(	O
+aunque	O
+vea	O
+que	O
+no	O
+están	O
+puestas	O
+)	O
+,	O
+y	O
+que	O
+«	O
+quiere	O
+controlarlo	O
+todo	O
+,	O
+para	O
+que	O
+no	O
+opinen	O
+nada	O
+malo	O
+de	O
+mí	O
+»	O
+.	O

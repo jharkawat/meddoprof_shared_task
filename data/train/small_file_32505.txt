@@ -1,0 +1,12 @@
+
+Consumo	O
+perjudicial	O
+de	O
+cannabis	O
+y	O
+alcohol	O
+desde	O
+los	O
+25	O
+años	O
+.	O

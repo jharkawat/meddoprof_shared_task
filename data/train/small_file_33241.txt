@@ -1,0 +1,15 @@
+
+Estudios	O
+hasta	O
+2o	O
+de	O
+Bachillerato	O
+(	O
+inconcluso	O
+)	O
+y	O
+posee	O
+curso	O
+de	O
+submarinismo	O
+.	O

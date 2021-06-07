@@ -1,0 +1,17 @@
+
+No	O
+veía	O
+por	O
+qué	O
+las	O
+pastillas	O
+eran	O
+un	O
+problema	O
+si	O
+no	O
+eran	O
+"	O
+narcóticos	O
+"	O
+.	O

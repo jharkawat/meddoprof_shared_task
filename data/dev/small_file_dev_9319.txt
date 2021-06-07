@@ -1,0 +1,27 @@
+
+En	O
+la	O
+RM	O
+lumbo	O
+-	O
+sacro	O
+-	O
+pélvica	O
+potenciada	O
+en	O
+T2	O
+se	O
+objetivó	O
+una	O
+sacroileitis	O
+aguda	O
+izquierda	O
+y	O
+un	O
+absceso	O
+en	O
+el	O
+músculo	O
+ilíaco	O
+izquierdo	O
+.	O

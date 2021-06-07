@@ -1,0 +1,5 @@
+
+Raza	O
+:	O
+Mestiza	O
+.	O

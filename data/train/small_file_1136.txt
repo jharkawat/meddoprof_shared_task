@@ -1,0 +1,24 @@
+
+Esta	O
+se	O
+realiza	O
+vía	O
+femoral	O
+izquierda	O
+y	O
+no	O
+se	O
+evidencian	O
+lesiones	O
+angiográficamente	O
+significativas	O
+,	O
+aunque	O
+la	O
+DA	O
+muestra	O
+un	O
+flujo	O
+TIMI	O
+I	O
+.	O

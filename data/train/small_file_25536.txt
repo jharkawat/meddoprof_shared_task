@@ -1,0 +1,27 @@
+
+Como	O
+antecedentes	O
+psiquiátricos	O
+destacamos	O
+un	O
+ingreso	O
+previo	O
+en	O
+el	O
+2005	O
+por	O
+manía	O
+secundaria	O
+a	O
+consumo	O
+de	O
+ketamina	O
+,	O
+sustancia	O
+que	O
+consume	O
+desde	O
+el	O
+año	O
+1999	O
+.	O

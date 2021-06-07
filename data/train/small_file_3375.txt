@@ -1,0 +1,15 @@
+
+Al	O
+padre	O
+se	O
+le	O
+vuelve	O
+a	O
+realizar	O
+a	O
+las	O
+ocho	O
+semanas	O
+persistiendo	O
+negativo	O
+.	O

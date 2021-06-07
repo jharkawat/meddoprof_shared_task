@@ -1,0 +1,25 @@
+
+A	O
+los	O
+22	O
+años	O
+se	O
+le	O
+diagnostica	O
+infección	O
+por	O
+virus	O
+de	O
+la	O
+inmunodefi	O
+ciencia	O
+humana	O
+-	O
+VIH	O
+y	O
+seguidamente	O
+trastorno	O
+depresivo	O
+no	O
+clasificado	O
+.	O

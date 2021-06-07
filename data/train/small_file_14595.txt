@@ -1,0 +1,23 @@
+
+Mujer	O
+de	O
+74	O
+años	O
+con	O
+antecedentes	O
+de	O
+hipertensión	O
+,	O
+dislipemia	O
+,	O
+cardiopatía	O
+hipertensiva	O
+,	O
+FA	O
+paroxística	O
+y	O
+melanoma	O
+rectal	O
+intervenido	O
+quirúrgicamente	O
+.	O

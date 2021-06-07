@@ -1,0 +1,3 @@
+
+SIGNOS	O
+VITALES	O

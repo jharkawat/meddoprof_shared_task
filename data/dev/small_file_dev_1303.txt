@@ -1,0 +1,25 @@
+
+La	O
+hija	O
+fue	O
+diagnosticada	O
+de	O
+esquizofrenia	O
+paranoide	O
+,	O
+pautándole	O
+clozapina	O
+300	O
+mg	O
+al	O
+día	O
+e	O
+ingresándola	O
+,	O
+mediante	O
+una	O
+Orden	O
+de	O
+Internamiento	O
+Involuntario	O
+.	O

@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+trabaja	B-PROFESION
+en	I-PROFESION
+construcción	I-PROFESION
+y	I-PROFESION
+hosteleria	I-PROFESION
+con	O
+buena	O
+situación	O
+funcional	O
+con	O
+ECOG	O
+de	O
+1	O
+.	O

@@ -1,0 +1,20 @@
+
+Órganos	O
+de	O
+los	O
+sentidos	O
+:	O
+No	O
+presenta	O
+alteraciones	O
+de	O
+la	O
+visión	O
+,	O
+audición	O
+,	O
+olfato	O
+,	O
+gusto	O
+otacto	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+atribuyó	O
+a	O
+dosificación	O
+excesiva	O
+de	O
+antipsicóticos	O
+,	O
+que	O
+fueron	O
+suspendidos	O
+,	O
+y	O
+se	O
+siguió	O
+la	O
+evolución	O
+.	O

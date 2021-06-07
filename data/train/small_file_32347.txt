@@ -1,0 +1,25 @@
+
+En	O
+octubre	O
+de	O
+2014	O
+,	O
+reingresa	O
+desde	O
+el	O
+centro	O
+penitenciario	O
+de	O
+Bonxe	O
+en	O
+la	O
+Unidad	O
+de	O
+Custodia	O
+por	O
+persistir	O
+las	O
+alteraciones	O
+del	O
+comportamiento	O
+.	O

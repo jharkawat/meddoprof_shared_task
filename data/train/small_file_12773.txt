@@ -1,0 +1,27 @@
+
+Inicialmente	O
+,	O
+los	O
+vómitos	O
+cedieron	O
+a	O
+las	O
+24	O
+horas	O
+tras	O
+la	O
+administración	O
+intravenosa	O
+de	O
+un	O
+antiemético	O
+,	O
+tras	O
+lo	O
+cual	O
+permaneció	O
+asintomático	O
+durante	O
+3	O
+días	O
+.	O

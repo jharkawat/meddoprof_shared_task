@@ -1,0 +1,12 @@
+
+Trastorno	O
+mixto	O
+ansioso	O
+-	O
+depresivo	O
+(	O
+F41	O
+.	O
+1	O
+)	O
+.	O

@@ -1,0 +1,6 @@
+
+Colocándose	O
+tratamiento	O
+antibiótico	O
+empírico	O
+.	O

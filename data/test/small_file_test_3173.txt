@@ -1,0 +1,11 @@
+
+-	O
+Serología	O
+virus	O
+hepatotropos	O
+:	O
+hepatitis	O
+C	O
+IgG	O
+ELISA	O
+.	O

@@ -1,0 +1,13 @@
+
+Autopercepción	O
+-	O
+autoconcepto	O
+:	O
+no	O
+es	O
+consciente	O
+de	O
+su	O
+trastorno	O
+mental	O
+.	O

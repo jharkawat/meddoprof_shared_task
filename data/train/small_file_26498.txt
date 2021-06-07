@@ -1,0 +1,9 @@
+
+Actualmente	O
+matriculada	O
+en	B-SITUACION_LABORAL
+4o	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+educación	I-SITUACION_LABORAL
+secundaria	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,12 @@
+
+Nódulos	O
+pulmonares	O
+bilaterales	O
+de	O
+hasta	O
+9	O
+mm	O
+de	O
+aspecto	O
+metastásico	O
+.	O

@@ -1,0 +1,16 @@
+
+También	O
+reconoce	O
+consumo	O
+moderado	O
+de	O
+alcohol	O
+los	O
+fines	O
+de	O
+semana	O
+cuando	O
+sale	O
+con	O
+amigos	O
+.	O

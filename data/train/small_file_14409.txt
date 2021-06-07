@@ -1,0 +1,21 @@
+
+Fue	O
+derivado	O
+desde	O
+oftalmología	O
+por	O
+cuadro	O
+de	O
+queratitis	O
+ulcerativa	O
+periférica	O
+estable	O
+con	O
+PR3	O
+positivos	O
+,	O
+sin	O
+otra	O
+sintomatología	O
+sistémica	O
+.	O

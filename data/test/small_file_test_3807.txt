@@ -1,0 +1,12 @@
+
+Conclusión	O
+:	O
+Neoplasia	O
+de	O
+sigma	O
+T4	O
+-	O
+N2	O
+-	O
+M1	O
+.	O

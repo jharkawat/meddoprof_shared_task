@@ -1,0 +1,11 @@
+
+Incremento	O
+en	O
+territorio	O
+4R	O
+que	O
+sugiere	O
+afectación	O
+ganglionar	O
+reactiva	O
+.	O

@@ -1,0 +1,8 @@
+
+Oído	O
+:	O
+Conducto	O
+auditivo	O
+externo	O
+permeable	O
+.	O

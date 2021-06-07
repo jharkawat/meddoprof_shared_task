@@ -1,0 +1,22 @@
+
+Además	O
+,	O
+verbalizaba	O
+en	O
+presencia	O
+de	O
+su	O
+madre	O
+sus	O
+intenciones	O
+de	O
+coger	O
+una	O
+escopeta	O
+y	O
+"	O
+acabar	O
+con	O
+todos	O
+"	O
+.	O

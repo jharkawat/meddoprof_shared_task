@@ -1,0 +1,8 @@
+
+Estamos	O
+disminuyendo	O
+la	O
+dosis	O
+de	O
+antipsicótico	O
+.	O

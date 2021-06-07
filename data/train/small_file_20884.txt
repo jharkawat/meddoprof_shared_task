@@ -1,0 +1,18 @@
+
+A	O
+veces	O
+ha	O
+tomado	O
+tranquilizantes	O
+y	O
+fármacos	O
+de	O
+sus	O
+padres	O
+,	O
+pero	O
+no	O
+recuerda	O
+los	O
+nombres	O
+.	O

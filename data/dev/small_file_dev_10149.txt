@@ -1,0 +1,16 @@
+
+Dijo	O
+que	O
+había	O
+sido	O
+sentenciado	O
+a	O
+muerte	O
+y	O
+que	O
+su	O
+vida	O
+estaba	O
+en	O
+peligro	O
+.	O

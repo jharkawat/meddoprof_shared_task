@@ -1,0 +1,26 @@
+
+En	O
+los	O
+antecedentes	O
+familiares	O
+,	O
+destaca	O
+una	O
+hermana	O
+de	O
+abuelo	O
+materno	O
+diagnosticada	O
+de	O
+carcinoma	O
+de	O
+mama	O
+y	O
+muerta	O
+con	O
+enfermedad	O
+a	O
+los	O
+42	O
+años	O
+.	O

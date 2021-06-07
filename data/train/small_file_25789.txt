@@ -1,0 +1,21 @@
+
+El	O
+citado	O
+estado	O
+"	O
+carencial	O
+"	O
+podría	O
+atribuirse	O
+entonces	O
+al	O
+conocido	O
+Síndrome	O
+Amotivacional	O
+asociado	O
+al	O
+consumo	O
+crónico	O
+de	O
+cannabis	O
+.	O

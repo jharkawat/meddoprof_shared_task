@@ -1,0 +1,8 @@
+
+Screening	O
+Enfermedad	O
+celíaca	O
+:	O
+-	O
+Acs	O
+.	O

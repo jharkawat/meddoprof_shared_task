@@ -1,0 +1,11 @@
+
+-	O
+Biopsia	O
+del	O
+LSI	O
+:	O
+carcinoma	O
+de	O
+célula	O
+pequeña	O
+.	O

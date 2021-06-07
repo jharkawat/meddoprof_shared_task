@@ -1,0 +1,14 @@
+
+Respuesta	O
+completa	O
+tras	O
+el	O
+tratamiento	O
+de	O
+quimioterapia	O
+de	O
+inducción	O
+y	O
+quimiorradioterapia	O
+concomitante	O
+.	O

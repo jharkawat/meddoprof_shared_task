@@ -1,0 +1,10 @@
+
+Receptor	O
+de	O
+estrógenos	O
+(	O
+RE	O
+)	O
+:	O
+negativo	O
+.	O

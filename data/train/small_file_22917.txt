@@ -1,0 +1,27 @@
+
+Presentó	O
+un	O
+desarrollo	O
+psicomotor	O
+retrasado	O
+,	O
+no	O
+iniciando	O
+la	O
+deambulación	O
+hasta	O
+los	O
+1	O
+-	O
+2	O
+años	O
+y	O
+no	O
+usando	O
+un	O
+lenguaje	O
+comprensible	O
+hasta	O
+los	O
+cinco	O
+.	O

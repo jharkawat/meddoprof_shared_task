@@ -1,0 +1,20 @@
+
+En	O
+cambio	O
+,	O
+la	O
+PCR	O
+para	O
+organismos	O
+atípicos	O
+,	O
+como	O
+Mycoplasma	O
+,	O
+Chlamydia	O
+y	O
+Bordetella	O
+,	O
+fue	O
+negativa	O
+.	O

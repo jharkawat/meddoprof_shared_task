@@ -1,0 +1,13 @@
+
+No	O
+presentaba	O
+alergias	O
+medicamentosas	O
+ni	O
+tomaba	O
+medicación	O
+ni	O
+refería	O
+hábitos	O
+tóxicos	O
+.	O

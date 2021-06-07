@@ -1,0 +1,7 @@
+
+Sin	O
+antecedentes	O
+familiares	O
+oncológicos	O
+conocidos	O
+.	O

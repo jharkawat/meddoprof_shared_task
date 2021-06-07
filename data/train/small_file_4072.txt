@@ -1,0 +1,13 @@
+
+Murmullo	O
+vesicular	O
+conservado	O
+,	O
+con	O
+sibilancias	O
+espiratorias	O
+en	O
+ambos	O
+campos	O
+pulmonares	O
+.	O

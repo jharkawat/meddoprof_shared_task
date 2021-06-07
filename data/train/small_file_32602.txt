@@ -1,0 +1,10 @@
+
+No	O
+existía	O
+patología	O
+orgánica	O
+que	O
+explicase	O
+tal	O
+comportamiento	O
+.	O

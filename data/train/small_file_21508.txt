@@ -1,0 +1,15 @@
+
+Manolo	O
+Perpiñá	O
+tiene	O
+24	O
+años	O
+,	O
+es	O
+el	O
+hermano	O
+mayor	O
+de	O
+dos	O
+varones	O
+.	O

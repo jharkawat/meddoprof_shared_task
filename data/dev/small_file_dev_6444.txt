@@ -1,0 +1,20 @@
+
+2	O
+-	O
+Linfoma	O
+primario	O
+cerebral	O
+:	O
+Se	O
+trata	O
+de	O
+una	O
+variante	O
+poco	O
+frecuente	O
+de	O
+linfoma	O
+no	O
+Hodgkin	O
+extranodal	O
+.	O

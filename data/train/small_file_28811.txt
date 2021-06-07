@@ -1,0 +1,26 @@
+
+Con	O
+esta	O
+medicación	O
+se	O
+encontró	O
+más	O
+tranquilo	O
+,	O
+pero	O
+aumentó	O
+el	O
+consumo	O
+de	O
+tabaco	O
+y	O
+la	O
+ingesta	O
+de	O
+alimentos	O
+y	O
+líquidos	O
+de	O
+forma	O
+compulsiva	O
+.	O

@@ -1,0 +1,12 @@
+
+Anamnesis	O
+:	O
+varón	O
+de	O
+17	O
+años	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

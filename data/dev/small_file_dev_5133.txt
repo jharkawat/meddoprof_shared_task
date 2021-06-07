@@ -1,0 +1,23 @@
+
+Con	O
+diagnóstico	O
+de	O
+trombofilia	O
+paraneoplásica	O
+secundaria	O
+a	O
+adenocarcinoma	O
+de	O
+mama	O
+con	O
+afectación	O
+yugular	O
+bilateral	O
+,	O
+tronco	O
+braquiocefálico	O
+y	O
+vena	O
+subclavia	O
+izquierda	O
+.	O

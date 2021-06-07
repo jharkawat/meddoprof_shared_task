@@ -1,0 +1,14 @@
+
+Anastomosis	O
+de	O
+ambos	O
+cuerpos	O
+cavernosos	O
+también	O
+con	O
+puntos	O
+simples	O
+de	O
+hilo	O
+reabsorbible	O
+.	O

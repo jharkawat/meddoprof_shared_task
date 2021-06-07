@@ -1,0 +1,10 @@
+
+Los	O
+hemocultivos	O
+,	O
+urocultivo	O
+y	O
+coprocultivo	O
+fueron	O
+negativos	O
+.	O

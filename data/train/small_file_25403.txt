@@ -1,0 +1,8 @@
+
+Actualmente	O
+está	O
+en	B-SITUACION_LABORAL
+situación	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+desempleo	I-SITUACION_LABORAL
+.	O

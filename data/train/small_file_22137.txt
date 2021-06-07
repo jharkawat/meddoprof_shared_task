@@ -1,0 +1,18 @@
+
+Cuando	O
+Pilar	O
+cumplió	O
+18	O
+años	O
+su	O
+madre	O
+sufrió	O
+un	O
+infarto	O
+cerebral	O
+y	O
+falleció	O
+2	O
+años	O
+después	O
+.	O

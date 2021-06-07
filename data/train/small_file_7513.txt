@@ -1,0 +1,14 @@
+
+Negaba	O
+haber	O
+iniciado	O
+ninguna	O
+medicación	O
+nueva	O
+recientemente	O
+,	O
+así	O
+como	O
+AINEs	O
+tópicos	O
+.	O

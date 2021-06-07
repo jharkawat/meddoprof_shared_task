@@ -1,0 +1,18 @@
+
+Tras	O
+estabilización	O
+hemodinámica	O
+se	O
+puede	O
+retirar	O
+la	O
+hemodiafiltración	O
+veno	O
+-	O
+venosa	O
+contínua	O
+e	O
+iniciar	O
+hemodiálisis	O
+convencional	O
+.	O

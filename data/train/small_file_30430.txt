@@ -1,0 +1,11 @@
+
+Ha	B-PROFESION
+trabajado	I-PROFESION
+en	I-PROFESION
+hostelería	I-PROFESION
+hace	O
+más	O
+de	O
+10	O
+años	O
+.	O

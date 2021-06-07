@@ -1,0 +1,10 @@
+
+Mantiene	O
+tratamiento	O
+con	O
+mismo	O
+esquema	O
+con	O
+buena	O
+tolerancia	O
+.	O

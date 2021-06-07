@@ -1,0 +1,15 @@
+
+Su	O
+familia	O
+era	O
+muy	O
+demandante	O
+en	O
+cuanto	O
+a	O
+los	O
+cuidados	O
+médicos	O
+del	O
+paciente	O
+.	O

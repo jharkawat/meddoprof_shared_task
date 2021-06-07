@@ -1,0 +1,18 @@
+
+Acudió	O
+al	O
+servicio	O
+de	O
+Urgencias	O
+,	O
+mostrando	O
+ligera	O
+inquietud	O
+psicomotriz	O
+y	O
+marcada	O
+angustia	O
+durante	O
+la	O
+entrevista	O
+.	O

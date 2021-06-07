@@ -1,0 +1,19 @@
+
+Se	O
+realiza	O
+el	O
+cierre	O
+temporal	O
+de	O
+la	O
+pared	O
+abdominal	O
+mediante	O
+dispositivo	O
+VAC	O
+(	O
+Vaccum	O
+Assited	O
+Closure	O
+)	O
+.	O

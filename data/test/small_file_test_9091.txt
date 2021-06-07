@@ -1,0 +1,7 @@
+
+No	O
+tomadora	O
+de	O
+tratamientos	O
+habituales	O
+.	O

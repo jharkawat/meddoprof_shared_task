@@ -1,0 +1,9 @@
+
+No	O
+lesiones	O
+cutáneas	O
+,	O
+petequias	O
+ni	O
+hematomas	O
+.	O

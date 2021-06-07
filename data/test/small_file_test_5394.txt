@@ -1,0 +1,26 @@
+
+A	O
+pesar	O
+del	O
+diagnóstico	O
+inicial	O
+de	O
+metástasis	O
+de	O
+tumor	O
+neuroendocrino	O
+,	O
+el	O
+estudio	O
+histológico	O
+definitivo	O
+de	O
+la	O
+pieza	O
+quirúrgica	O
+es	O
+de	O
+un	O
+colangiocarcinoma	O
+intrahepático	O
+.	O

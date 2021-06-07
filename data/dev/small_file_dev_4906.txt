@@ -1,0 +1,4 @@
+
+Habla	O
+disártrica	O
+.	O

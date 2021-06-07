@@ -1,0 +1,21 @@
+
+Antecedentes	O
+personales	O
+:	O
+paciente	O
+sin	O
+RAM	O
+,	O
+ni	O
+FRCV	O
+(	O
+no	O
+HTA	O
+,	O
+no	O
+diabética	O
+,	O
+no	O
+dislipemica	O
+)	O
+.	O

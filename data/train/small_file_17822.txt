@@ -1,0 +1,15 @@
+
+Remitimos	O
+a	O
+la	O
+paciente	O
+a	O
+Endocrinología	O
+y	O
+Neurocirugía	O
+para	O
+su	O
+valoración	O
+y	O
+seguimiento	O
+.	O

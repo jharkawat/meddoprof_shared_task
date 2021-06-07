@@ -1,0 +1,21 @@
+
+Dolor	O
+intenso	O
+a	O
+la	O
+palpación	O
+sobre	O
+articulación	O
+esternoclavicular	O
+izquierda	O
+y	O
+dolor	O
+muscular	O
+en	O
+tercio	O
+superior	O
+de	O
+región	O
+trapezoidal	O
+izquierda	O
+.	O

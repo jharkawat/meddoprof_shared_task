@@ -1,0 +1,10 @@
+
+Paciente	O
+varón	O
+diagnósticado	O
+de	O
+trastorno	O
+esquizoafectivo	O
+tipo	O
+bipolar	O
+.	O

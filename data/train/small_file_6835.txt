@@ -1,0 +1,17 @@
+
+Sus	O
+antecedentes	O
+familiares	O
+,	O
+sobre	O
+todo	O
+desde	O
+el	O
+punto	O
+de	O
+vista	O
+dermatológico	O
+,	O
+resultaron	O
+irrelevantes	O
+.	O

@@ -1,0 +1,24 @@
+
+Hipercolesterolemia	O
+e	O
+hipertensión	O
+arterial	O
+en	O
+tratamiento	O
+farmacológico	O
+,	O
+con	O
+rosuvastatina	O
+10	O
+mg	O
+/	O
+día	O
+y	O
+enalapril	O
+20	O
+mg	O
+/	O
+día	O
+,	O
+respectivamente	O
+.	O

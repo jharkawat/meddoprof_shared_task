@@ -1,0 +1,18 @@
+
+RMN	O
+cerebral	O
+:	O
+lesiones	O
+focales	O
+intraparenquimatosas	O
+con	O
+captación	O
+en	O
+anillo	O
+con	O
+marcada	O
+cantidad	O
+de	O
+edema	O
+vasogénico	O
+.	O

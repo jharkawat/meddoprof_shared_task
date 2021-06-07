@@ -1,0 +1,22 @@
+
+Bajo	O
+anestesia	O
+general	O
+e	O
+intubación	O
+nasotraqueal	O
+,	O
+el	O
+paciente	O
+fue	O
+colocado	O
+en	O
+posición	O
+supina	O
+y	O
+posición	O
+neutra	O
+de	O
+la	O
+cabeza	O
+.	O

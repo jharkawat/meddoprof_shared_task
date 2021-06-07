@@ -1,0 +1,13 @@
+
+Mínimas	O
+lesiones	O
+purpúricas	O
+en	O
+las	O
+piernas	O
+,	O
+sugestivas	O
+de	O
+vasculitis	O
+séptica	O
+.	O

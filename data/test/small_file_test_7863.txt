@@ -1,0 +1,26 @@
+
+Mujer	O
+de	O
+38	O
+años	O
+,	O
+remitida	O
+por	O
+el	O
+servicio	O
+de	O
+Medicina	O
+Interna	O
+ante	O
+hallazgos	O
+de	O
+sarcoma	O
+pleomórfico	O
+de	O
+alto	O
+grado	O
+avanzado	O
+en	O
+el	O
+diagnóstico	O
+.	O

@@ -1,0 +1,8 @@
+
+Ha	O
+descuidado	O
+notablemente	O
+su	O
+aseo	O
+personal	O
+.	O

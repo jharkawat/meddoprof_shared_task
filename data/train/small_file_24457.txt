@@ -1,0 +1,12 @@
+
+No	O
+se	O
+objetivan	O
+síntomas	O
+de	O
+la	O
+esfera	O
+afectiva	O
+ni	O
+psicótica	O
+.	O

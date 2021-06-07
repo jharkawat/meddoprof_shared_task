@@ -1,0 +1,27 @@
+
+Al	O
+explorar	O
+los	O
+periodos	O
+de	O
+irritabilidad	O
+,	O
+disforia	O
+y	O
+aislamiento	O
+social	O
+,	O
+el	O
+clínico	B-PROFESION
+preguntó	O
+si	O
+,	O
+en	O
+ocasiones	O
+,	O
+Raquel	O
+había	O
+estado	O
+especialmente	O
+contenta	O
+.	O

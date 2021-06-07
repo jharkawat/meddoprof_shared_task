@@ -1,0 +1,26 @@
+
+Se	O
+realizó	O
+Angio	O
+-	O
+TC	O
+y	O
+arteriografía	O
+urgente	O
+objetivándose	O
+pseudoaneurisma	O
+de	O
+carótida	O
+izquierda	O
+en	O
+porción	O
+C3	O
+,	O
+de	O
+15	O
+mm	O
+como	O
+causa	O
+de	O
+sangrado	O
+.	O

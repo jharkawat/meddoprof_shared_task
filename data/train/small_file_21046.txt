@@ -1,0 +1,12 @@
+
+No	O
+se	O
+detectaron	O
+anomalías	O
+en	O
+el	O
+examen	O
+físicos	O
+y	O
+neurológico	O
+.	O

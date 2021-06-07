@@ -1,0 +1,11 @@
+
+Se	O
+trata	O
+de	O
+una	O
+familia	O
+nuclear	O
+con	O
+parientes	O
+próximos	O
+.	O

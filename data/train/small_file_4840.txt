@@ -1,0 +1,23 @@
+
+Se	O
+indican	O
+medidas	O
+higiénico	O
+dietéticas	O
+y	O
+se	O
+pauta	O
+enalapril	O
+5	O
+cada	O
+24	O
+horas	O
+y	O
+se	O
+cita	O
+en	O
+unas	O
+semanas	O
+para	O
+evaluación	O
+.	O

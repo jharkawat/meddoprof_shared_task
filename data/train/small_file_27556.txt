@@ -1,0 +1,9 @@
+
+Ánimo	O
+deprimido	O
+leve	O
+reactivo	O
+a	O
+situación	O
+actual	O
+.	O

@@ -1,0 +1,10 @@
+
+Varón	O
+53	O
+años	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

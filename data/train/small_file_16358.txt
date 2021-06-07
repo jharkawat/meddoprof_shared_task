@@ -1,0 +1,19 @@
+
+La	O
+anamnesis	O
+revela	O
+la	O
+ausencia	O
+de	O
+alergias	O
+a	O
+sustancias	O
+medicamentosas	O
+,	O
+problemas	O
+médicos	O
+e	O
+intervenciones	O
+quirúrgicas	O
+previas	O
+.	O

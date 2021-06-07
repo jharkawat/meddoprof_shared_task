@@ -1,0 +1,15 @@
+
+A	O
+su	O
+ingreso	O
+hospitalario	O
+,	O
+la	O
+paciente	O
+se	O
+encuentra	O
+estable	O
+hemodinámicamente	O
+y	O
+apirética	O
+.	O

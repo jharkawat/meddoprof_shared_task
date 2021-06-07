@@ -1,0 +1,13 @@
+
+Síndrome	O
+radiológico	O
+aislado	O
+con	O
+alta	O
+probabilidad	O
+de	O
+desarrollar	O
+esclerosis	O
+múltiple	O
+pseudotumoral	O
+.	O

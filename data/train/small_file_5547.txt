@@ -1,0 +1,5 @@
+
+Tumoración	O
+cervical	O
+izquierda	O
+.	O

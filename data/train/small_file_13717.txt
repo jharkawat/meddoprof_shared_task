@@ -1,0 +1,6 @@
+
+CULTIVO	O
+ESPUTO	O
+:	O
+aspergillus	O
+fumigatus	O

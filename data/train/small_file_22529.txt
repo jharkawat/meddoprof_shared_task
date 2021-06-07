@@ -1,0 +1,8 @@
+
+Se	O
+propone	O
+tratamiento	O
+con	O
+risperidona	O
+1mg	O
+.	O

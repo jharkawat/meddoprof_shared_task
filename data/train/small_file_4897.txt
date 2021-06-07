@@ -1,0 +1,9 @@
+
+Temperatura	O
+en	O
+consulta	O
+:	O
+36	O
+,	O
+4o	O
+.	O

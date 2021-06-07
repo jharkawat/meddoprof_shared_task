@@ -1,0 +1,26 @@
+
+Estuvo	O
+ingresado	O
+tres	O
+meses	O
+en	O
+los	O
+cuales	O
+la	O
+familia	O
+pudo	O
+realizar	O
+una	O
+limpieza	O
+intensiva	O
+en	O
+el	O
+hogar	O
+del	O
+usuario	O
+(	O
+estaba	O
+totalmente	O
+descuidada	O
+)	O
+.	O

@@ -1,0 +1,14 @@
+
+Ideación	O
+delirante	O
+autorreferencial	O
+y	O
+de	O
+perjuicio	O
+con	O
+importante	O
+repercusión	O
+afectiva	O
+y	O
+conductual	O
+.	O

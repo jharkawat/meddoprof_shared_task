@@ -1,0 +1,17 @@
+
+A	O
+la	O
+auscultación	O
+cardíaca	O
+presentaba	O
+tonos	O
+rítmicos	O
+sin	O
+soplos	O
+,	O
+siendo	O
+la	O
+auscultación	O
+pulmonar	O
+normal	O
+.	O

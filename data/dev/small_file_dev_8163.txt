@@ -1,0 +1,22 @@
+
+Se	O
+observó	O
+un	O
+pericardio	O
+muy	O
+engrosado	O
+y	O
+se	O
+extrajo	O
+un	O
+líquido	O
+purulento	O
+muy	O
+espeso	O
+y	O
+organizado	O
+que	O
+recubría	O
+el	O
+miocardio	O
+.	O

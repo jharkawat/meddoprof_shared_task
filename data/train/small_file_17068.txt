@@ -1,0 +1,21 @@
+
+Sistémica	O
+:	O
+tensión	O
+arterial	O
+140	O
+/	O
+90	O
+mmHg	O
+,	O
+frecuencia	O
+cardiaca	O
+66	O
+lpm	O
+;	O
+temperatura	O
+36	O
+,	O
+6	O
+oC	O
+.	O

@@ -1,0 +1,21 @@
+
+(	O
+Estudio	O
+con	O
+CIV	O
+)	O
+:	O
+Derrame	O
+pleural	O
+bilateral	O
+,	O
+algo	O
+mayor	O
+en	O
+el	O
+hemitórax	O
+derecho	O
+,	O
+engrosamientos	O
+septales	O
+.	O

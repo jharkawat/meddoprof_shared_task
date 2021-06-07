@@ -1,0 +1,7 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+rechazamos	O
+.	O

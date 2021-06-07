@@ -1,0 +1,19 @@
+
+Serologías	O
+:	O
+descarta	O
+sífilis	O
+,	O
+toxoplasma	O
+,	O
+Cytomegalovirus	O
+,	O
+virus	O
+del	O
+herpes	O
+y	O
+virus	O
+del	O
+Epstein	O
+Barr	O
+.	O

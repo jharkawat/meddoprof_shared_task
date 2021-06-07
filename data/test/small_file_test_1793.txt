@@ -1,0 +1,11 @@
+
+Fumador	O
+de	O
+8	O
+puritos	O
+diarios	O
+(	O
+nunca	O
+cigarrillos	O
+)	O
+.	O

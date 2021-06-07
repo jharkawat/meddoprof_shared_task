@@ -1,0 +1,27 @@
+
+Iniciando	O
+tratamiento	O
+con	O
+Risperidona	O
+5	O
+mg	O
+en	O
+la	O
+noche	O
+,	O
+Sertralina	O
+50	O
+mg	O
+en	O
+el	O
+desayuno	O
+y	O
+se	O
+recomienda	O
+tratamiento	O
+en	O
+modalidad	O
+Hospital	O
+de	O
+Día	O
+.	O

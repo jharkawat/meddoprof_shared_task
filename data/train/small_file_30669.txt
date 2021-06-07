@@ -1,0 +1,21 @@
+
+Dada	O
+la	O
+refractariedad	O
+de	O
+la	O
+sintomatología	O
+se	O
+introduce	O
+tratamiento	O
+con	O
+clozapina	O
+hasta	O
+alcanzar	O
+dosis	O
+de	O
+300	O
+mg	O
+al	O
+día	O
+.	O

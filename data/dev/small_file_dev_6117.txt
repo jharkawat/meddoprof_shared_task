@@ -1,0 +1,24 @@
+
+Tampoco	O
+se	O
+apreciaron	O
+exantemas	O
+ni	O
+petequias	O
+,	O
+manchas	O
+de	O
+Janeway	O
+,	O
+nódulos	O
+de	O
+Osler	O
+ni	O
+hemorragias	O
+en	O
+astilla	O
+en	O
+la	O
+exploración	O
+cutánea	O
+.	O

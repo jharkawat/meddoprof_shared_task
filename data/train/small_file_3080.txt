@@ -1,0 +1,5 @@
+
+Exploración	O
+:	O
+BEG	O
+.	O

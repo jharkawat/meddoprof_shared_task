@@ -1,0 +1,10 @@
+
+Muestra	O
+gran	O
+empatía	O
+con	O
+los	O
+profesionales	B-PROFESION
+del	I-PROFESION
+centro	I-PROFESION
+.	O

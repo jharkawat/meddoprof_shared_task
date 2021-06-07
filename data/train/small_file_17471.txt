@@ -1,0 +1,12 @@
+
+Aumento	O
+del	O
+umbral	O
+de	O
+excitabilidad	O
+al	O
+estímulo	O
+magnético	O
+parietal	O
+derecho	O
+.	O

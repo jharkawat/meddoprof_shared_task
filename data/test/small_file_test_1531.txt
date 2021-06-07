@@ -1,0 +1,18 @@
+
+Nuestro	O
+caso	O
+clínico	O
+presenta	O
+serie	O
+radiográfica	O
+periapical	O
+completa	O
+en	O
+la	O
+cual	O
+no	O
+se	O
+sospecha	O
+de	O
+periodontitis	O
+.	O

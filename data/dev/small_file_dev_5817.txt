@@ -1,0 +1,20 @@
+
+Se	O
+procede	O
+a	O
+la	O
+exéresis	O
+de	O
+la	O
+masa	O
+retroperitoneal	O
+derecha	O
+junto	O
+con	O
+nefrectomía	O
+y	O
+adrenalectomía	O
+ipsilateral	O
+y	O
+colecistectomía	O
+.	O

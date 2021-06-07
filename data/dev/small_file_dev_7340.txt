@@ -1,0 +1,23 @@
+
+Se	O
+observaban	O
+adenopatías	O
+de	O
+entre	O
+9	O
+y	O
+21	O
+mm	O
+a	O
+nivel	O
+paraaórtico	O
+,	O
+paracava	O
+,	O
+interaortocavos	O
+y	O
+en	O
+ambas	O
+iliacas	O
+primitivas	O
+.	O

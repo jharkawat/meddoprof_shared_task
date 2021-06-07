@@ -1,0 +1,12 @@
+
+ECO	O
+-	O
+mamografía	O
+:	O
+Mama	O
+derecha	O
+:	O
+engrosamiento	O
+cutáneo	O
+perialeolar	O
+.	O

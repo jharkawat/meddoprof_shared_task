@@ -1,0 +1,15 @@
+
+Insistió	O
+en	O
+que	O
+quería	O
+ingresar	O
+en	O
+una	O
+escuela	O
+técnica	O
+,	O
+lo	O
+que	O
+hizo	O
+.	O

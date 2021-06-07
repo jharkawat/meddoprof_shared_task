@@ -1,0 +1,10 @@
+
+Las	O
+suturas	O
+se	O
+retiraron	O
+a	O
+las	O
+2	O
+semanas	O
+.	O

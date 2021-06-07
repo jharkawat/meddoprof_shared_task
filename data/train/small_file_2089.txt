@@ -1,0 +1,24 @@
+
+-	O
+Se	O
+realizan	O
+4	O
+sesiones	O
+más	O
+de	O
+seguimiento	O
+,	O
+hasta	O
+que	O
+la	O
+paciente	O
+es	O
+dada	O
+de	O
+alta	O
+por	O
+el	O
+Servicio	O
+de	O
+Rehabilitación	O
+.	O

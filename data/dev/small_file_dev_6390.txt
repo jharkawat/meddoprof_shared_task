@@ -1,0 +1,9 @@
+
+Animales	O
+en	O
+el	O
+domicilio	O
+:	O
+un	O
+perro	O
+.	O

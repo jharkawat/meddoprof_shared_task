@@ -1,0 +1,25 @@
+
+En	O
+un	O
+principio	O
+,	O
+por	O
+el	O
+antecedente	O
+de	O
+HTA	O
+sin	O
+tratamiento	O
+y	O
+la	O
+exploración	O
+neurológica	O
+,	O
+el	O
+diagnóstico	O
+se	O
+orientó	O
+hacia	O
+un	O
+ACV	O
+.	O

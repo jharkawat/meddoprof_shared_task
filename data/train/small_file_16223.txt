@@ -1,0 +1,6 @@
+
+IgM	O
+de	O
+VEB	O
+negativa	O
+.	O

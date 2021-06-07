@@ -1,0 +1,6 @@
+
+Parestesia	O
+en	O
+Miembros	O
+Inferiores	O
+.	O

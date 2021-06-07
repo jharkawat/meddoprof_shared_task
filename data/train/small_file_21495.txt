@@ -1,0 +1,18 @@
+
+Se	O
+presenta	O
+como	O
+una	O
+persona	O
+que	O
+ha	O
+sido	O
+alegre	O
+,	O
+sociable	O
+y	O
+con	O
+muchas	O
+aficiones	O
+culturales	O
+.	O

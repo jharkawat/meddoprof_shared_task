@@ -1,0 +1,7 @@
+
+Nombre	O
+:	O
+José	O
+Ramón	O
+Vázquez	O
+.	O

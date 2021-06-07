@@ -1,0 +1,6 @@
+
+-	O
+Electrocardiograma	O
+:	O
+Normal	O
+.	O

@@ -1,0 +1,8 @@
+
+Eutímico	O
+,	O
+sin	O
+sintomatología	O
+afectiva	O
+mayor	O
+.	O

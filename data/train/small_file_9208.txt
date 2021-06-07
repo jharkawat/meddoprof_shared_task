@@ -1,0 +1,8 @@
+
+Procalcitonina	O
+0	O
+.	O
+44	O
+μg	O
+/	O
+L	O

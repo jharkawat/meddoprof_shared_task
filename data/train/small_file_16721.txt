@@ -1,0 +1,7 @@
+
+Frecuencia	O
+cardiaca	O
+:	O
+90	O
+lpm	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+permeación	O
+vascular	O
+ni	O
+infiltración	O
+perineural	O
+.	O

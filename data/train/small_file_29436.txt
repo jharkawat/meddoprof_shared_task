@@ -1,0 +1,23 @@
+
+Está	O
+acudiendo	O
+a	O
+sus	O
+citas	O
+en	O
+un	O
+centro	O
+de	O
+Salud	O
+Mental	O
+de	O
+zona	O
+y	O
+realizando	O
+un	O
+adecuado	O
+seguimiento	O
+y	O
+cumplimiento	O
+terapéutico	O
+.	O

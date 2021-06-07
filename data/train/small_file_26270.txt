@@ -1,0 +1,10 @@
+
+Al	O
+alta	O
+se	O
+le	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

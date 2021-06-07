@@ -1,0 +1,13 @@
+
+Rotura	O
+de	O
+aneurisma	O
+micótico	O
+en	O
+arteria	O
+subclavia	O
+izquierda	O
+por	O
+Streptoccocus	O
+pneumoniae	O
+.	O

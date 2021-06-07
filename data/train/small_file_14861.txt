@@ -1,0 +1,14 @@
+
+Serología	O
+de	O
+fiebre	O
+intermedias	O
+negativa	O
+(	O
+incluyendo	O
+sífilis	O
+,	O
+VIH	O
+hepatitis	O
+)	O
+.	O

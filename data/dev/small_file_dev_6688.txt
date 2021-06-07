@@ -1,0 +1,14 @@
+
+A	O
+la	O
+semana	O
+de	O
+tratamiento	O
+antibiótico	O
+se	O
+obtuvieron	O
+hemocultivos	O
+que	O
+fueron	O
+negativos	O
+.	O

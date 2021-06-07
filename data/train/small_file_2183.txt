@@ -1,0 +1,11 @@
+
+Se	O
+controla	O
+la	O
+hipotermia	O
+con	O
+medidas	O
+pasivas	O
+de	O
+calor	O
+.	O

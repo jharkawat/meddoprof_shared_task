@@ -1,0 +1,15 @@
+
+Se	O
+le	O
+realizó	O
+un	O
+Ecocardiograma	O
+que	O
+mostró	O
+únicamente	O
+un	O
+prolapso	O
+de	O
+Válvula	O
+Mitral	O
+.	O

@@ -1,0 +1,16 @@
+
+Esto	O
+nos	O
+obligará	O
+a	O
+solicitar	O
+una	O
+punción	O
+aspiración	O
+de	O
+médula	O
+ósea	O
+(	O
+PAMO	O
+)	O
+.	O

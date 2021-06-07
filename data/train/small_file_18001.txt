@@ -1,0 +1,13 @@
+
+Tratamiento	O
+Se	O
+inicia	O
+tratamiento	O
+con	O
+valproato	O
+1000	O
+mg	O
+cada	O
+24	O
+horas	O
+.	O

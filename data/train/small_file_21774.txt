@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+56	O
+años	O
+de	O
+edad	O
+enviada	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+por	O
+estado	O
+de	O
+ánimo	O
+triste	O
+.	O

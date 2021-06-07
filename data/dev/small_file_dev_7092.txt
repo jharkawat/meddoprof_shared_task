@@ -1,0 +1,27 @@
+
+Su	O
+diagnóstico	O
+se	O
+basa	O
+principalmente	O
+en	O
+el	O
+uso	O
+de	O
+la	O
+reacción	O
+en	O
+cadena	O
+de	O
+la	O
+polimerasa	O
+,	O
+así	O
+como	O
+de	O
+técnicas	O
+inmunohistoquímicas	O
+de	O
+inmunofluorescencia	O
+directa	O
+.	O

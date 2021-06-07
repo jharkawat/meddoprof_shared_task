@@ -1,0 +1,7 @@
+
+No	O
+se	O
+aprecian	O
+alteraciones	O
+sensoperceptivas	O
+.	O

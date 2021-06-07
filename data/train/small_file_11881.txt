@@ -1,0 +1,6 @@
+
+Nariz	O
+con	O
+punta	O
+bullosa	O
+.	O

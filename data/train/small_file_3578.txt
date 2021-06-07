@@ -1,0 +1,14 @@
+
+Etapa	O
+I	O
+formación	O
+del	O
+ciclo	O
+vital	O
+,	O
+con	O
+relación	O
+conyugal	O
+sin	O
+hijos	O
+.	O

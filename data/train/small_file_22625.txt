@@ -1,0 +1,19 @@
+
+Se	O
+fue	O
+disminuyendo	O
+la	O
+dosis	O
+de	O
+lamotrigina	O
+,	O
+aripiprazol	O
+y	O
+sertralina	O
+hasta	O
+interrumpirlos	O
+en	O
+enero	O
+de	O
+2006	O
+.	O

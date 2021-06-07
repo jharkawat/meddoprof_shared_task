@@ -1,0 +1,14 @@
+
+Enfisema	O
+por	O
+déficit	O
+de	O
+alfa	O
+-	O
+1	O
+-	O
+antitripsina	O
+en	O
+paciente	O
+exfumadora	O
+.	O

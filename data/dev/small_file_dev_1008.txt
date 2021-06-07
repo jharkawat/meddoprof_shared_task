@@ -1,0 +1,11 @@
+
+Antecedentes	O
+médico	O
+:	O
+alérgico	O
+a	O
+metamizol	O
+y	O
+dexketoprofeno	O
+trometamol	O
+.	O

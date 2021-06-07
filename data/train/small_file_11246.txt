@@ -1,0 +1,6 @@
+
+Hipertrofia	O
+Benigna	O
+de	O
+Próstata	O
+.	O

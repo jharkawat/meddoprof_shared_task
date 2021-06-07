@@ -1,0 +1,7 @@
+
+EKG	O
+seriados	O
+informados	O
+como	O
+normales	O
+.	O

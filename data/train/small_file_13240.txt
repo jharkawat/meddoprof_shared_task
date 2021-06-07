@@ -1,0 +1,21 @@
+
+Provocan	O
+cuadros	O
+que	O
+se	O
+asocian	O
+a	O
+dolor	O
+,	O
+eritema	O
+y	O
+edema	O
+localizados	O
+,	O
+seguido	O
+por	O
+el	O
+desarrollo	O
+de	O
+necrosis	O
+.	O

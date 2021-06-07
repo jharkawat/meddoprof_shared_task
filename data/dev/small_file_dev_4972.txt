@@ -1,0 +1,4 @@
+
+Un	O
+vomito	O
+.	O

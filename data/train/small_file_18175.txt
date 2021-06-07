@@ -1,0 +1,18 @@
+
+Data	O
+de	O
+muerte	O
+estimada	O
+entre	O
+4	O
+y	O
+6	O
+h	O
+,	O
+más	O
+próxima	O
+a	O
+las	O
+4	O
+h	O
+.	O

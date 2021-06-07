@@ -1,0 +1,5 @@
+
+PESO	O
+:	O
+60	O
+kg	O

@@ -1,0 +1,27 @@
+
+Es	O
+estudiante	B-SITUACION_LABORAL
+y	O
+mantiene	O
+una	O
+vida	O
+activa	O
+normal	O
+para	O
+su	O
+edad	O
+,	O
+sin	O
+referir	O
+alergias	O
+medicamentosas	O
+conocidas	O
+,	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+o	O
+intervenciones	O
+quirúrgicas	O
+.	O

@@ -1,0 +1,11 @@
+
+Bloqueo	O
+de	O
+rama	O
+izquierda	O
+con	O
+trastornos	O
+de	O
+repolarización	O
+secundarios	O
+.	O

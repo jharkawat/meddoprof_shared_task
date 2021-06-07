@@ -1,0 +1,21 @@
+
+No	O
+hubo	O
+signos	O
+de	O
+sufrimiento	O
+fetal	O
+,	O
+mientras	O
+que	O
+su	O
+hermano	O
+sí	O
+necesitó	O
+incubadora	O
+,	O
+aunque	O
+sin	O
+repercusiones	O
+posteriores	O
+.	O

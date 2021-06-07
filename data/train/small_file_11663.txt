@@ -1,0 +1,10 @@
+
+Niega	O
+viajes	O
+al	O
+extranjero	O
+o	O
+conductas	O
+de	O
+riesgo	O
+.	O

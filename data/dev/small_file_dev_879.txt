@@ -1,0 +1,24 @@
+
+Sin	O
+embargo	O
+,	O
+poco	O
+tiempo	O
+después	O
+comienza	O
+a	O
+experimentar	O
+sintomatología	O
+psicótica	O
+,	O
+siendo	O
+por	O
+lo	O
+tanto	O
+diagnosticado	O
+de	O
+"	O
+trastorno	O
+esquizofreniforme	O
+"	O
+.	O

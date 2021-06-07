@@ -1,0 +1,13 @@
+
+Una	O
+mujer	O
+de	O
+43	O
+a	O
+.	O
+acude	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+.	O

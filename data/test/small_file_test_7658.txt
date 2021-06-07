@@ -1,0 +1,22 @@
+
+ECG	O
+:	O
+ritmo	O
+sinocal	O
+con	O
+bloqueo	O
+AV	O
+de	O
+primer	O
+grado	O
+a	O
+54	O
+lpm	O
+;	O
+sin	O
+alteraciones	O
+agudas	O
+de	O
+la	O
+repolarización	O
+.	O

@@ -1,0 +1,18 @@
+
+Valvulopatía	O
+aórtica	O
+degenerativa	O
+con	O
+estenosis	O
+leve	O
+(	O
+gradiente	O
+máximo	O
+de	O
+31	O
+mmHg	O
+)	O
+,	O
+sin	O
+insuficiencia	O
+.	O

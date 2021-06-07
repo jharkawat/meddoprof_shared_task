@@ -1,0 +1,22 @@
+
+Paciente	O
+varón	O
+de	O
+10	O
+años	O
+,	O
+ingresado	O
+en	O
+nuestra	O
+Sala	O
+de	O
+Psiquiatría	O
+Infanto	O
+-	O
+Juvenil	O
+por	O
+un	O
+episodio	O
+de	O
+agitación	O
+.	O

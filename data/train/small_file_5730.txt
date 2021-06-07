@@ -1,0 +1,22 @@
+
+Descripción	O
+del	O
+caso	O
+:	O
+paciente	O
+varón	O
+de	O
+61	O
+años	O
+que	O
+acude	O
+a	O
+urgencias	O
+de	O
+traumatología	O
+por	O
+hemiparesia	O
+de	O
+hemicuerpo	O
+izquierdo	O
+.	O

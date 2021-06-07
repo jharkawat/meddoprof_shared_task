@@ -1,0 +1,9 @@
+
+Fuerza	O
+3	O
+/	O
+5	O
+MSI	O
+y	O
+MII	O
+.	O

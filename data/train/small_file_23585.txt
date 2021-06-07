@@ -1,0 +1,8 @@
+
+Glaucoma	O
+e	O
+infarto	O
+de	O
+miocardio	O
+antiguo	O
+.	O

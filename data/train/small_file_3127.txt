@@ -1,0 +1,13 @@
+
+El	O
+registro	O
+ambulatorio	O
+de	O
+la	O
+presión	O
+arterial	O
+fue	O
+catalogado	O
+como	O
+normal	O
+.	O

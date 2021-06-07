@@ -1,0 +1,26 @@
+
+En	O
+las	O
+sesiones	O
+de	O
+terapia	O
+con	O
+el	O
+Psicólogo	B-PROFESION
+Adjunto	O
+del	O
+Servicio	O
+de	O
+Hematología	O
+está	O
+presente	O
+un	O
+psicólogo	B-PROFESION
+en	O
+formación	O
+,	O
+con	O
+consentimiento	O
+del	O
+paciente	O
+.	O

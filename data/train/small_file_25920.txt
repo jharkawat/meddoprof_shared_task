@@ -1,0 +1,12 @@
+
+Refiere	O
+contacto	O
+puntual	O
+con	O
+otras	O
+drogas	O
+como	O
+alcohol	O
+y	O
+éxtasis	O
+.	O

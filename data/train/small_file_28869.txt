@@ -1,0 +1,18 @@
+
+Paciente	O
+de	O
+28	O
+años	O
+que	O
+ingresa	O
+de	O
+forma	O
+voluntaria	O
+desde	O
+Urgencias	O
+por	O
+descompensación	O
+de	O
+su	O
+esquizofrenia	O
+.	O

@@ -1,0 +1,8 @@
+
+Niega	O
+otro	O
+tipo	O
+de	O
+alteraciones	O
+sensoperceptivas	O
+.	O

@@ -1,0 +1,17 @@
+
+Mujer	O
+de	O
+76	O
+años	O
+que	O
+acude	O
+a	O
+urgencias	O
+derivada	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+.	O

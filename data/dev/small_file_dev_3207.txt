@@ -1,0 +1,10 @@
+
+no	O
+me	O
+era	O
+fácil	O
+llevar	O
+los	O
+estudios	O
+"	O
+.	O

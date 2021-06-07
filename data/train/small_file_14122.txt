@@ -1,0 +1,9 @@
+
+Intervenciones	O
+quirúrgicas	O
+previas	O
+:	O
+tendón	O
+de	O
+Aquiles	O
+.	O

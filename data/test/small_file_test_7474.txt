@@ -1,0 +1,24 @@
+
+La	O
+Anatomía	O
+Patológica	O
+informó	O
+de	O
+carcinoma	O
+renal	O
+de	O
+células	O
+claras	O
+(	O
+CCRc	O
+)	O
+,	O
+estadio	O
+II	O
+(	O
+pT2	O
+)	O
+G1	O
+de	O
+Fuhrman	O
+.	O

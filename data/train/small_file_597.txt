@@ -1,0 +1,17 @@
+
+Su	O
+primer	O
+hijo	O
+(	O
+un	O
+varón	O
+)	O
+nació	O
+hace	O
+cinco	O
+meses	O
+en	O
+un	O
+parto	O
+complicado	O
+.	O

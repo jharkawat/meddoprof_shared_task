@@ -1,0 +1,26 @@
+
+Tampoco	O
+emprende	O
+comportamientos	O
+rituales	O
+relacionados	O
+con	O
+la	O
+preparación	O
+de	O
+la	O
+comida	O
+que	O
+va	O
+a	O
+ingerir	O
+,	O
+con	O
+la	O
+compra	O
+previa	O
+de	O
+alimentos	O
+,	O
+etc	O
+.	O

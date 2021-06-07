@@ -1,0 +1,16 @@
+
+Llamaba	O
+la	O
+atención	O
+al	O
+entrar	O
+en	O
+la	O
+consulta	O
+una	O
+importante	O
+hipomimia	O
+facial	O
+y	O
+bradicinesia	O
+.	O

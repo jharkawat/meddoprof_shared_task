@@ -1,0 +1,12 @@
+
+Disminución	O
+voluntaria	O
+de	O
+la	O
+ingesta	O
+en	O
+relación	O
+con	O
+creencias	O
+delirantes	O
+.	O

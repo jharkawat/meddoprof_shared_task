@@ -1,0 +1,7 @@
+
+Alta	O
+en	O
+diciembre	O
+de	O
+2012	O
+.	O

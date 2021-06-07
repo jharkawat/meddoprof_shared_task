@@ -1,0 +1,16 @@
+
+No	O
+tiene	O
+dificultades	O
+para	O
+conciliar	O
+el	O
+sueño	O
+pero	O
+si	O
+que	O
+dice	O
+que	O
+se	O
+desvela	O
+.	O

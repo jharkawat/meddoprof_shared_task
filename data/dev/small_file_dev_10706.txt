@@ -1,0 +1,12 @@
+
+Está	O
+entratamiento	O
+con	O
+Adiro	O
+200	O
+,	O
+y	O
+un	O
+diurético	O
+esporádicamente	O
+.	O

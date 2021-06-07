@@ -1,0 +1,19 @@
+
+La	O
+cifra	O
+de	O
+leucocitos	O
+totales	O
+fue	O
+de	O
+10	O
+.	O
+000	O
+/	O
+mm3	O
+con	O
+600	O
+linfocitos	O
+/	O
+mm3	O
+.	O

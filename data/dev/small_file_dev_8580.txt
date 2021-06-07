@@ -1,0 +1,19 @@
+
+•	O
+Serología	O
+:	O
+Strongyloides	O
+(	O
+ELISA	O
+)	O
+:	O
+NEGATIVA	O
+;	O
+Schistosoma	O
+(	O
+ELISA	O
+)	O
+:	O
+MUY	O
+POSITIVA	O
+.	O

@@ -1,0 +1,13 @@
+
+Los	O
+padres	O
+se	O
+vieron	O
+sobrepasados	O
+con	O
+el	O
+comportamiento	O
+de	O
+su	O
+hija	O
+.	O

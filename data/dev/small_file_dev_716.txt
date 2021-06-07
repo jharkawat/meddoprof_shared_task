@@ -1,0 +1,27 @@
+
+Mejora	O
+la	O
+clínica	O
+delirante	O
+con	O
+la	O
+asociación	O
+de	O
+quetiapina	O
+hasta	O
+900	O
+mg	O
+/	O
+día	O
+y	O
+pimozida	O
+hasta	O
+8	O
+mg	O
+/	O
+día	O
+asociado	O
+a	O
+los	O
+estabilizantes	O
+.	O

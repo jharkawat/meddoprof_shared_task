@@ -1,0 +1,23 @@
+
+Finalmente	O
+se	O
+decide	O
+iniciar	O
+tratamiento	O
+con	O
+bortezomib	O
+,	O
+recibiendo	O
+una	O
+única	O
+dosis	O
+debido	O
+al	O
+fallecimiento	O
+por	O
+sepsis	O
+en	O
+contexto	O
+de	O
+neutropenia	O
+.	O

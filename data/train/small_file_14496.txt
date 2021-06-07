@@ -1,0 +1,17 @@
+
+Lesión	O
+eritematosa	O
+e	O
+indurada	O
+en	O
+lóbulo	O
+de	O
+la	O
+oreja	O
+izquierda	O
+,	O
+dolorosa	O
+a	O
+la	O
+palpación	O
+.	O

@@ -1,0 +1,17 @@
+
+Comenzó	O
+a	O
+mediados	O
+de	O
+2017	O
+con	O
+diarrea	O
+acuosa	O
+,	O
+dolor	O
+abdominal	O
+y	O
+pérdida	O
+de	O
+peso	O
+.	O

@@ -1,0 +1,24 @@
+
+Auscultación	O
+cardiaca	O
+:	O
+rítmica	O
+,	O
+taquicárdica	O
+,	O
+con	O
+soplo	O
+sistólico	O
++	O
++	O
+/	O
++	O
++	O
++	O
++	O
+panfocal	O
+,	O
+de	O
+predominio	O
+aórtico	O
+.	O

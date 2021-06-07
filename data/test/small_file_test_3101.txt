@@ -1,0 +1,11 @@
+
+A	O
+.	O
+C	O
+.	O
+:	O
+Rítmico	O
+a	O
+90	O
+lpm	O
+.	O

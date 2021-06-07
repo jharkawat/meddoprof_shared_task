@@ -1,0 +1,8 @@
+
+No	O
+existe	O
+visceromegalia	O
+ni	O
+alteraciones	O
+respiratorias	O
+.	O

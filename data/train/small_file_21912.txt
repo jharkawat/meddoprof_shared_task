@@ -1,0 +1,24 @@
+
+Trastorno	O
+por	O
+dependencia	O
+de	O
+cannabis	O
+,	O
+grave	O
+,	O
+con	O
+dependencia	O
+fisiológica	O
+(	O
+DSM	O
+-	O
+IV	O
+-	O
+TR	O
+:	O
+304	O
+.	O
+34	O
+)	O
+.	O

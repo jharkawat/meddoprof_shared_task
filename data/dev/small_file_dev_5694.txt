@@ -1,0 +1,22 @@
+
+Ante	O
+estos	O
+hallazgos	O
+se	O
+propone	O
+tratamiento	O
+paliativo	O
+sintomático	O
+con	O
+radioterapia	O
+3D	O
+de	O
+la	O
+masa	O
+de	O
+partes	O
+blandas	O
+a	O
+nivel	O
+vertebral	O
+.	O

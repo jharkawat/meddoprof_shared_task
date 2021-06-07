@@ -1,0 +1,25 @@
+
+Auscultación	O
+cardiorrespiratoria	O
+:	O
+demostraba	O
+la	O
+presencia	O
+de	O
+tonos	O
+rítmicos	O
+y	O
+puros	O
+,	O
+sin	O
+soplos	O
+,	O
+y	O
+un	O
+murmullo	O
+vesicular	O
+pulmonar	O
+presente	O
+y	O
+normal	O
+.	O

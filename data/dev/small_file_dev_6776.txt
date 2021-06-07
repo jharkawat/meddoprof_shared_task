@@ -1,0 +1,26 @@
+
+Tras	O
+comentar	O
+el	O
+caso	O
+con	O
+el	O
+Servicio	O
+de	O
+Cirugia	O
+Vascular	O
+consensuamos	O
+tratamiento	O
+antibiótico	O
+conservador	O
+frente	O
+a	O
+la	O
+cirugía	O
+electiva	O
+debido	O
+al	O
+elevado	O
+riesgo	O
+quirúrgico	O
+.	O

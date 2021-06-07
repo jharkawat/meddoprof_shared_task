@@ -1,0 +1,18 @@
+
+Disminución	O
+de	O
+la	O
+masa	O
+cardiaca	O
+y	O
+de	O
+los	O
+nódulos	O
+pulmonares	O
+,	O
+con	O
+desaparición	O
+del	O
+derrame	O
+pleural	O
+.	O

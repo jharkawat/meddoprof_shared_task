@@ -1,0 +1,26 @@
+
+-	O
+RM	O
+de	O
+cráneo	O
+(	O
+con	O
+y	O
+sin	O
+contraste	O
+)	O
+:	O
+se	O
+aprecian	O
+dos	O
+lesiones	O
+intraaxiales	O
+hemisféricas	O
+derechas	O
+de	O
+gran	O
+tamaño	O
+y	O
+localización	O
+periférica	O
+.	O

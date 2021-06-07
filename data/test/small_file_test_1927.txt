@@ -1,0 +1,26 @@
+
+Histológicamente	O
+,	O
+en	O
+la	O
+ByAMO	O
+se	O
+observa	O
+una	O
+disminución	O
+de	O
+celularidad	O
+global	O
+,	O
+sin	O
+evidencia	O
+de	O
+malignidad	O
+,	O
+ausencia	O
+de	O
+granulomas	O
+y	O
+leve	O
+plasmocitosis	O
+.	O

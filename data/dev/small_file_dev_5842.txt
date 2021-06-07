@@ -1,0 +1,26 @@
+
+En	O
+la	O
+fase	O
+miccional	O
+llama	O
+la	O
+atención	O
+un	O
+defecto	O
+de	O
+repleción	O
+a	O
+modo	O
+de	O
+pliegue	O
+oblicuo	O
+en	O
+el	O
+tercio	O
+medio	O
+de	O
+la	O
+uretra	O
+bulbar	O
+.	O

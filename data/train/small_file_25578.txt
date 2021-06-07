@@ -1,0 +1,17 @@
+
+Generalmente	O
+comenzaba	O
+bebiendo	O
+alcohol	O
+y	O
+después	O
+consumía	O
+cocaína	O
+,	O
+pero	O
+también	O
+solía	O
+consumir	O
+solamente	O
+cocaína	O
+.	O

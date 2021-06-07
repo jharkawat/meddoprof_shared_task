@@ -1,0 +1,13 @@
+
+Ante	O
+los	O
+resultados	O
+se	O
+realizó	O
+una	O
+prueba	O
+que	O
+apoyó	O
+el	O
+diagnóstico	O
+.	O

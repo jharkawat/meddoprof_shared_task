@@ -1,0 +1,23 @@
+
+Abscesos	O
+cerebrales	O
+por	O
+Nocardia	O
+farcinica	O
+en	O
+paciente	O
+gravemente	O
+inmunodeprimida	O
+con	O
+infección	O
+por	O
+VIH	O
+,	O
+tratamiento	O
+corticoideo	O
+prolongado	O
+y	O
+abuso	O
+de	O
+drogas	O
+.	O

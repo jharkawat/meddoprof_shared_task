@@ -1,0 +1,16 @@
+
+Varón	O
+de	O
+47	O
+años	O
+de	O
+edad	O
+,	O
+actualmente	O
+pensionista	B-SITUACION_LABORAL
+(	O
+trabajó	O
+como	O
+cocinero	B-PROFESION
+)	O
+.	O

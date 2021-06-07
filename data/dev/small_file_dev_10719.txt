@@ -1,0 +1,16 @@
+
+A	O
+menudo	O
+se	O
+descompensa	O
+su	O
+insuficiencia	O
+cardiaca	O
+y	O
+/	O
+o	O
+presenta	O
+epistaxis	O
+o	O
+gingivorragias	O
+.	O

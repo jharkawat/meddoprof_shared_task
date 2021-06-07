@@ -1,0 +1,11 @@
+
+Tejido	O
+celular	O
+subcutáneo	O
+(	O
+TCS	O
+)	O
+:	O
+No	O
+infiltrado	O
+.	O

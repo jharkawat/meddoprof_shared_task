@@ -1,0 +1,10 @@
+
+Antecedentes	O
+familiares	O
+:	O
+hermano	O
+con	O
+posible	O
+trastorno	O
+psicótico	O
+.	O

@@ -1,0 +1,8 @@
+
+Sin	O
+otros	O
+hallazgos	O
+de	O
+focalidad	O
+neurológica	O
+.	O

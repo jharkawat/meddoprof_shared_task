@@ -1,0 +1,7 @@
+
+Tratamiento	O
+:	O
+antipsicóticos	O
+y	O
+anticonvulsivantes	O
+.	O

@@ -1,0 +1,6 @@
+
+Pequeño	O
+derrame	O
+pleural	O
+derecho	O
+.	O

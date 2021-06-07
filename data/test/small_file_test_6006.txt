@@ -1,0 +1,26 @@
+
+En	O
+parénquima	O
+hepático	O
+se	O
+confirma	O
+la	O
+presencia	O
+de	O
+múltiples	O
+focos	O
+hipermetabólicos	O
+,	O
+compatibles	O
+todos	O
+ellos	O
+con	O
+infiltración	O
+tumoral	O
+(	O
+confirmado	O
+posteriormente	O
+por	O
+AP	O
+)	O
+.	O

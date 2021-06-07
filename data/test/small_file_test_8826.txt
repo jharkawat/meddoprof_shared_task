@@ -1,0 +1,17 @@
+
+Además	O
+,	O
+fue	O
+intervenido	O
+de	O
+una	O
+hernia	O
+discal	O
+en	O
+L4	O
+-	O
+L5	O
+(	O
+2013	O
+)	O
+.	O

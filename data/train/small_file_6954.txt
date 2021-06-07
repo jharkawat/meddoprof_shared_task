@@ -1,0 +1,16 @@
+
+A	O
+la	O
+dermatoscopia	O
+la	O
+lesión	O
+presentaba	O
+telangiectasias	O
+en	O
+la	O
+periferia	O
+y	O
+un	O
+tapón	O
+corneo	O
+.	O

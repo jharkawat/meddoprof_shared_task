@@ -1,0 +1,11 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+se	O
+muestra	O
+de	O
+forma	O
+adjunta	O
+.	O

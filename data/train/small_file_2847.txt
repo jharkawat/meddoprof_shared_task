@@ -1,0 +1,24 @@
+
+Neumonía	O
+grave	O
+complicada	O
+con	O
+insuficiencia	O
+respiratoria	O
+secundaria	O
+,	O
+crisis	O
+hipertensiva	O
+,	O
+fibrilación	O
+auricular	O
+con	O
+respuesta	O
+ventricular	O
+rápida	O
+y	O
+parada	O
+cardiorrespiratoria	O
+en	O
+2014	O
+.	O

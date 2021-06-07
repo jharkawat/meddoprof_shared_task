@@ -1,0 +1,14 @@
+
+Antecedentes	O
+:	O
+varón	O
+de	O
+41	O
+años	O
+,	O
+casado	O
+,	O
+actividad	B-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+estable	I-SITUACION_LABORAL
+.	O

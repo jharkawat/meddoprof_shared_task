@@ -1,0 +1,17 @@
+
+En	O
+relación	O
+a	O
+la	O
+afectividad	O
+se	O
+evidencia	O
+inestabilidad	O
+emocional	O
+predominando	O
+un	O
+estado	O
+de	O
+ánimo	O
+disfórico	O
+.	O

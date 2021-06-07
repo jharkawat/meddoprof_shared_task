@@ -1,0 +1,12 @@
+
+En	O
+el	O
+cultivo	O
+de	O
+lesiones	O
+orales	O
+se	O
+identifica	O
+Candida	O
+albicans	O
+.	O

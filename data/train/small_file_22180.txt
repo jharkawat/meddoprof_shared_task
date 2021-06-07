@@ -1,0 +1,12 @@
+
+Es	O
+profesora	B-PROFESION
+de	I-PROFESION
+Historia	I-PROFESION
+del	I-PROFESION
+Arte	I-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+universidad	I-PROFESION
+privada	I-PROFESION
+.	O

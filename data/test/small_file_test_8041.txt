@@ -1,0 +1,6 @@
+
+Mayor	O
+cantidad	O
+de	O
+ascitis	O
+.	O

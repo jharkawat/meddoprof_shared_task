@@ -1,0 +1,19 @@
+
+Penetra	O
+directamente	O
+en	O
+la	O
+piel	O
+en	O
+contacto	O
+con	O
+el	O
+suelo	O
+o	O
+el	O
+agua	O
+contaminada	O
+con	O
+heces	O
+humanas	O
+.	O

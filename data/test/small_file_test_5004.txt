@@ -1,0 +1,24 @@
+
+Se	O
+remite	O
+nuevamente	O
+a	O
+oncología	O
+radioterápica	O
+para	O
+valoración	O
+de	O
+tratamiento	O
+antiálgico	O
+y	O
+se	O
+ajusta	O
+el	O
+tratamiento	O
+con	O
+aumento	O
+de	O
+dosis	O
+de	O
+opioides	O
+.	O

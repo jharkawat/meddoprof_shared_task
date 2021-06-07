@@ -1,0 +1,21 @@
+
+Tiene	O
+37	O
+años	O
+,	O
+es	O
+soltero	O
+y	O
+es	O
+el	O
+dueño	B-PROFESION
+de	I-PROFESION
+un	I-PROFESION
+restaurante	I-PROFESION
+en	O
+un	O
+pequeño	O
+pueblo	O
+de	O
+Alicante	O
+.	O

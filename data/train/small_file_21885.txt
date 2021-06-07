@@ -1,0 +1,27 @@
+
+El	O
+consumo	O
+de	O
+cannabis	O
+nunca	O
+le	O
+ha	O
+provocado	O
+síntomas	O
+ansiosos	O
+ni	O
+psicóticos	O
+aunque	O
+,	O
+en	O
+algunas	O
+ocasiones	O
+,	O
+le	O
+ha	O
+inducido	O
+ideas	O
+de	O
+autorreferencia	O
+pasajeras	O
+.	O

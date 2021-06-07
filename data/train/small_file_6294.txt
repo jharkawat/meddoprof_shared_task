@@ -1,0 +1,5 @@
+
+Hormonas	O
+tiroideas	O
+normales	O
+.	O

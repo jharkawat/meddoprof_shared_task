@@ -1,0 +1,22 @@
+
+Tenía	O
+antecedentes	O
+familiares	O
+de	O
+un	O
+tío	O
+materno	O
+con	O
+un	O
+cáncer	O
+de	O
+páncreas	O
+y	O
+una	O
+tía	O
+materna	O
+con	O
+cáncer	O
+de	O
+ovario	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+se	O
+observan	O
+bandas	O
+de	O
+aspecto	O
+monoclonal	O
+.	O

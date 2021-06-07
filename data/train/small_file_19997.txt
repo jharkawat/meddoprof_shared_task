@@ -1,0 +1,27 @@
+
+Describió	O
+su	O
+grado	O
+de	O
+energía	O
+como	O
+«	O
+bueno	O
+»	O
+y	O
+su	O
+pensamiento	O
+como	O
+claro	O
+«	O
+excepto	O
+cuando	O
+tratan	O
+de	O
+meterme	O
+ideas	O
+en	O
+la	O
+cabeza	O
+»	O
+.	O

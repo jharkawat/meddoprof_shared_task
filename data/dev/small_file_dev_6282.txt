@@ -1,0 +1,7 @@
+
+asintomático	O
+leve	O
+eritema	O
+y	O
+edema	O
+perilesional	O

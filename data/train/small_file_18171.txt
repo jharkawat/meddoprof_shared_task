@@ -1,0 +1,9 @@
+
+Cuello	O
+corto	O
+,	O
+propio	O
+de	O
+su	O
+biotipo	O
+.	O

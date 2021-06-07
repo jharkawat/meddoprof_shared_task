@@ -1,0 +1,8 @@
+
+No	O
+se	O
+ha	O
+intervenido	O
+quirúrgicamente	O
+nunca	O
+.	O

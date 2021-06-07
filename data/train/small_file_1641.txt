@@ -1,0 +1,7 @@
+
+Dr	B-PROFESION
+.	I-PROFESION
+Gabriel	O
+Maldonado	O
+Fonseca	O
+.	O

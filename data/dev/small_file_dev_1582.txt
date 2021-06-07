@@ -1,0 +1,6 @@
+
+No	O
+refiere	O
+alteraciones	O
+sensoperceptivas	O
+.	O

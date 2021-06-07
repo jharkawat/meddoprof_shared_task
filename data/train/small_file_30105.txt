@@ -1,0 +1,14 @@
+
+Se	O
+le	O
+pauta	O
+tratamiento	O
+ansiolítico	O
+con	O
+seguimiento	O
+por	O
+el	O
+servicio	O
+de	O
+AP	O
+.	O

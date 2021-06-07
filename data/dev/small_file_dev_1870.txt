@@ -1,0 +1,19 @@
+
+Se	O
+decide	O
+,	O
+ante	O
+la	O
+persistencia	O
+de	O
+la	O
+sintomatología	O
+descrita	O
+,	O
+iniciar	O
+tratamiento	O
+con	O
+clozapina	O
+y	O
+litio	O
+.	O

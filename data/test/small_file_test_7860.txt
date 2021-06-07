@@ -1,0 +1,19 @@
+
+En	O
+su	O
+valoración	O
+en	O
+marzo	O
+de	O
+2019	O
+se	O
+objetiva	O
+progresión	O
+pulmonar	O
+y	O
+de	O
+masa	O
+de	O
+partes	O
+blandas	O
+.	O

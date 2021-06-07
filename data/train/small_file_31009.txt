@@ -1,0 +1,6 @@
+
+Conciencia	O
+parcial	O
+de	O
+enfermedad	O
+.	O

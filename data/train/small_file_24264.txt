@@ -1,0 +1,13 @@
+
+Esto	O
+deriva	O
+en	O
+una	O
+falta	O
+de	O
+confianza	O
+con	O
+los	O
+profesionales	B-PROFESION
+sanitarios	I-PROFESION
+.	O

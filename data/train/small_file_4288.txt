@@ -1,0 +1,23 @@
+
+Motivado	O
+por	O
+la	O
+gran	O
+cantidad	O
+de	O
+glucosa	O
+en	O
+orina	O
+que	O
+la	O
+paciente	O
+tenía	O
+se	O
+solicitó	O
+analítica	O
+,	O
+para	O
+estudio	O
+más	O
+exhaustivo	O
+.	O

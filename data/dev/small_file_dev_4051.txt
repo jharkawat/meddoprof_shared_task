@@ -1,0 +1,25 @@
+
+Según	O
+su	O
+hermano	O
+,	O
+ha	O
+mostrado	O
+una	O
+preocupación	O
+cada	O
+vez	O
+mayor	O
+por	O
+estas	O
+voces	O
+y	O
+sus	O
+actividades	O
+diarias	O
+se	O
+han	O
+vuelto	O
+más	O
+desorganizadas	O
+.	O

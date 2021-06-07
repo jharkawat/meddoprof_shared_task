@@ -1,0 +1,11 @@
+
+Tiene	O
+un	O
+familiar	O
+de	O
+primer	O
+orden	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+.	O

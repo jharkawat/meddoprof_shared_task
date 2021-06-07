@@ -1,0 +1,15 @@
+
+Mujer	O
+de	O
+carácter	O
+extrovertido	O
+,	O
+abierta	O
+,	O
+con	O
+buen	O
+apoyo	O
+familiar	O
+y	O
+social	O
+.	O

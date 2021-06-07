@@ -1,0 +1,15 @@
+
+Dados	O
+los	O
+antecedentes	O
+personales	O
+de	O
+nuestro	O
+paciente	O
+,	O
+se	O
+descarta	O
+como	O
+primera	O
+posibilidad	O
+.	O

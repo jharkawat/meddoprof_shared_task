@@ -1,0 +1,24 @@
+
+Actualmente	O
+la	O
+paciente	O
+acude	O
+a	O
+revisiones	O
+por	O
+parte	O
+de	O
+dermatología	O
+cada	O
+6	O
+meses	O
+con	O
+ecografía	O
+ganglionar	O
+según	O
+protocolo	O
+de	O
+seguimiento	O
+de	O
+melanoma	O
+.	O

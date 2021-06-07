@@ -1,0 +1,11 @@
+
+NANDA	O
+:	O
+00138	O
+Riesgo	O
+de	O
+violencia	O
+dirigida	O
+a	O
+otros	O
+.	O

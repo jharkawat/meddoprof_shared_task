@@ -1,0 +1,24 @@
+
+Motivo	O
+de	O
+consulta	O
+:	O
+El	O
+paciente	O
+ingresó	O
+a	O
+una	O
+clínica	O
+psiquiátrica	O
+porque	O
+sentía	O
+que	O
+un	O
+grupo	O
+mafioso	O
+lo	O
+perseguía	O
+y	O
+quería	O
+matarlo	O
+.	O

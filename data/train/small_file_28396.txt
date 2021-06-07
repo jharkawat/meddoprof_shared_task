@@ -1,0 +1,19 @@
+
+Serologías	O
+con	O
+marcadores	O
+de	O
+hepatitis	O
+,	O
+VIH	O
+y	O
+RPR	O
+negativos	O
+.	O
+n	O
+TAC	O
+cerebral	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

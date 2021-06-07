@@ -1,0 +1,11 @@
+
+Ella	O
+explica	O
+que	O
+su	O
+madre	O
+es	O
+"	O
+manipuladora	O
+"	O
+.	O

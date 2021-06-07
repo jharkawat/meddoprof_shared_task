@@ -1,0 +1,7 @@
+
+No	O
+recuerda	O
+traumatismos	O
+pélvicos	O
+previos	O
+.	O

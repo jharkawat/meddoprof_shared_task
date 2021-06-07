@@ -1,0 +1,11 @@
+
+No	O
+se	O
+objetivan	O
+alteraciones	O
+sensoperceptivas	O
+ni	O
+otros	O
+síntomas	O
+psicóticos	O
+.	O

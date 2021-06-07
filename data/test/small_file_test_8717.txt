@@ -1,0 +1,10 @@
+
+Bilirrubina	O
+indirecta	O
+1	O
+,	O
+0	O
+mg	O
+/	O
+dl	O
+.	O

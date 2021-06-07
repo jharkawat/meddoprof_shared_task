@@ -1,0 +1,11 @@
+
+A	O
+los	O
+dos	O
+meses	O
+acude	O
+de	O
+nuevo	O
+a	O
+Urgencias	O
+.	O

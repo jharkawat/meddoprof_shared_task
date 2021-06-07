@@ -1,0 +1,16 @@
+
+En	O
+la	O
+urgencia	O
+se	O
+le	O
+recoge	O
+orina	O
+y	O
+aparece	O
+positividad	O
+para	O
+cocaína	O
+y	O
+cánnabis	O
+.	O

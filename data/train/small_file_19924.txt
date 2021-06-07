@@ -1,0 +1,18 @@
+
+Se	O
+obtuvo	O
+más	O
+información	O
+de	O
+un	O
+psiquiatra	B-PROFESION
+que	O
+había	O
+acudido	O
+al	O
+SU	O
+poco	O
+después	O
+del	O
+accidente	O
+.	O

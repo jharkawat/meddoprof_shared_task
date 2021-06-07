@@ -1,0 +1,18 @@
+
+Se	O
+realizó	O
+punción	O
+aspiración	O
+con	O
+aguja	O
+fina	O
+de	O
+una	O
+adenopatía	O
+laterocervical	O
+que	O
+fue	O
+informada	O
+como	O
+reactiva	O
+.	O

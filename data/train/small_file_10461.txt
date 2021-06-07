@@ -1,0 +1,12 @@
+
+No	O
+se	O
+realiza	O
+punción	O
+lumbar	O
+por	O
+riesgo	O
+de	O
+herniación	O
+cerebral	O
+.	O

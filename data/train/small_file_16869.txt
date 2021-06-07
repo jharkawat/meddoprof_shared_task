@@ -1,0 +1,22 @@
+
+Una	O
+mujer	O
+de	O
+34	O
+años	O
+acude	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+por	O
+cefalea	O
+,	O
+visión	O
+borrosa	O
+y	O
+dificultad	O
+para	O
+articular	O
+lenguaje	O
+.	O

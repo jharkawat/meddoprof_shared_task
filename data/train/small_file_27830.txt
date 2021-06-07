@@ -1,0 +1,18 @@
+
+Tras	O
+su	O
+alta	O
+el	O
+paciente	O
+continúa	O
+seguimiento	O
+por	O
+los	O
+tres	O
+servicios	O
+que	O
+han	O
+valorado	O
+su	O
+caso	O
+.	O

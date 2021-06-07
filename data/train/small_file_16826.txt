@@ -1,0 +1,10 @@
+
+Intervenciones	O
+quirúrgicas	O
+:	O
+apendicectomía	O
+,	O
+colecistectomía	O
+y	O
+amigdalectomía	O
+.	O

@@ -1,0 +1,19 @@
+
+Durante	O
+la	O
+hospitalización	O
+,	O
+se	O
+midieron	O
+reiteradamente	O
+anticuerpos	O
+anti	O
+-	O
+MBG	O
+por	O
+ELISA	O
+,	O
+resultando	O
+siempre	O
+negativos	O
+.	O

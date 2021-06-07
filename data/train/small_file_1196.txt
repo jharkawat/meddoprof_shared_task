@@ -1,0 +1,26 @@
+
+Una	O
+vez	O
+superada	O
+la	O
+paresia	O
+y	O
+la	O
+dismetría	O
+,	O
+y	O
+con	O
+LTCD4	O
+mayor	O
+a	O
+200	O
+céls	O
+/	O
+mm3	O
+se	O
+decidió	O
+suspender	O
+la	O
+terapia	O
+antiparasitaria	O
+.	O

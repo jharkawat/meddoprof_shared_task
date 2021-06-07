@@ -1,0 +1,17 @@
+
+Descriptor	O
+M	O
+:	O
+lesión	O
+suprarrenal	O
+derecha	O
+de	O
+14	O
+mm	O
+(	O
+SVU	O
+7	O
+.	O
+5	O
+)	O
+.	O

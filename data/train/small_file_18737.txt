@@ -1,0 +1,27 @@
+
+Al	O
+ingreso	O
+se	O
+constata	O
+afebril	O
+,	O
+normotensa	O
+,	O
+con	O
+tendencia	O
+a	O
+la	O
+taquicardia	O
+(	O
+con	O
+frecuencias	O
+cardiacas	O
+oscilando	O
+alrededor	O
+de	O
+100	O
+latidos	O
+por	O
+minuto	O
+)	O
+.	O

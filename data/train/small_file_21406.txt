@@ -1,0 +1,24 @@
+
+Comenzó	O
+a	O
+tratarla	O
+con	O
+escitalopram	O
+10	O
+mg	O
+y	O
+de	O
+forma	O
+gradual	O
+comenzaron	O
+a	O
+mejorar	O
+su	O
+ansiedad	O
+y	O
+sus	O
+temores	O
+hacia	O
+su	O
+hijo	O
+.	O

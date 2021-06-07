@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+es	O
+ingresada	O
+en	O
+el	O
+Servicio	O
+de	O
+Aparato	O
+Digestivo	O
+.	O

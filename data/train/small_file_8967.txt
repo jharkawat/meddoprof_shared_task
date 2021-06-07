@@ -1,0 +1,10 @@
+
+Crioglobulina	O
+mixta	O
+negativa	O
+por	O
+las	O
+pruebas	O
+de	O
+laboratorio	O
+.	O

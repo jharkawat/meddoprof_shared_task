@@ -1,0 +1,21 @@
+
+Se	O
+completaron	O
+estudios	O
+con	O
+determinaciones	O
+de	O
+hipercoagulabilidad	O
+y	O
+ecografía	O
+doppler	O
+de	O
+troncos	O
+supra	O
+aórticos	O
+y	O
+ambos	O
+estudios	O
+fueron	O
+normales	O
+.	O

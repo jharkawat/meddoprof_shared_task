@@ -1,0 +1,14 @@
+
+Tuvo	O
+un	O
+último	O
+ingreso	O
+hace	O
+1	O
+mes	O
+por	O
+sepsis	O
+de	O
+origen	O
+urinaria	O
+.	O

@@ -1,0 +1,15 @@
+
+Realizó	B-SITUACION_LABORAL
+Graduado	I-SITUACION_LABORAL
+Escolar	I-SITUACION_LABORAL
+y	O
+FP1	O
+Rama	O
+Electricidad	O
+,	O
+según	O
+refieren	O
+con	O
+buenas	O
+calificaciones	O
+.	O

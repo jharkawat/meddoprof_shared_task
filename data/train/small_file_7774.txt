@@ -1,0 +1,13 @@
+
+La	O
+sospecha	O
+diagnóstica	O
+es	O
+de	O
+psoriasis	O
+guttata	O
+secundaria	O
+a	O
+faringoamigdalitis	O
+estreptocócica	O
+.	O

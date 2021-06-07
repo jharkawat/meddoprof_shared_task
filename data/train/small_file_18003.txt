@@ -1,0 +1,23 @@
+
+Leve	O
+disminución	O
+en	O
+la	O
+frecuencia	O
+de	O
+las	O
+crisis	O
+de	O
+ausencia	O
+con	O
+aumento	O
+del	O
+temblor	O
+y	O
+de	O
+la	O
+ataxia	O
+de	O
+la	O
+marcha	O
+.	O

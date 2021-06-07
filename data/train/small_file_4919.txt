@@ -1,0 +1,8 @@
+
+Tc	O
+de	O
+cráneo	O
+:	O
+sin	O
+alteraciones	O
+.	O

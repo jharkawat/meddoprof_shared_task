@@ -1,0 +1,7 @@
+
+Fractura	O
+de	O
+huesos	O
+propios	O
+nasales	O
+.	O

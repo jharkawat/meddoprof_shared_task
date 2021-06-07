@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+disfruta	O
+de	O
+diferentes	O
+permisos	O
+de	O
+salida	O
+que	O
+se	O
+desarrollan	O
+sin	O
+incidentes	O
+.	O

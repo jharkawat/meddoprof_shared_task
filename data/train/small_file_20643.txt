@@ -1,0 +1,13 @@
+
+Diagnóstico	O
+clínico	O
+:	O
+síntomas	O
+psicológicos	O
+que	O
+afectan	O
+a	O
+una	O
+enfermedad	O
+médica	O
+.	O

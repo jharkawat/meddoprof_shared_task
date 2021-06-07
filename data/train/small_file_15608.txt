@@ -1,0 +1,19 @@
+
+Aunque	O
+llegue	O
+a	O
+dormir	O
+14	O
+horas	O
+seguidas	O
+el	O
+resto	O
+del	O
+día	O
+,	O
+sigue	O
+teniendo	O
+momentos	O
+de	O
+somnolencia	O
+.	O

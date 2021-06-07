@@ -1,0 +1,18 @@
+
+Orina	O
+:	O
+destaca	O
+proteína	O
+-	O
+orina	O
+/	O
+creatinina	O
+-	O
+orina	O
+2359	O
+"	O
+35	O
+mg	O
+/	O
+g	O
+.	O

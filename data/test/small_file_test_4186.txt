@@ -1,0 +1,9 @@
+
+No	O
+se	O
+identifica	O
+líquido	O
+libre	O
+cavidad	O
+abdominal	O
+.	O

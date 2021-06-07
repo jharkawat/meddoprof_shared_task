@@ -1,0 +1,18 @@
+
+Exploración	O
+neurológica	O
+:	O
+Consciente	O
+y	O
+orientado	O
+con	O
+Glasgow	O
+15	O
+(	O
+rápido	O
+deterioro	O
+a	O
+Glasgow	O
+8	O
+)	O
+.	O

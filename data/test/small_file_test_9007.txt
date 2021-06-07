@@ -1,0 +1,23 @@
+
+La	O
+tomografía	O
+por	O
+emisión	O
+de	O
+positrones	O
+(	O
+PET	O
+)	O
+mostró	O
+captaciones	O
+patológicas	O
+en	O
+peritoneo	O
+,	O
+ángulo	O
+hepático	O
+del	O
+colon	O
+y	O
+sigma	O
+.	O

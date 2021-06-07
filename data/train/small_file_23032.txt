@@ -1,0 +1,25 @@
+
+Realizan	O
+una	O
+exploración	O
+neurológica	O
+,	O
+en	O
+la	O
+que	O
+sólo	O
+puede	O
+objetivarse	O
+una	O
+excavación	O
+pupilar	O
+izquierda	O
+,	O
+el	O
+resto	O
+de	O
+exploración	O
+es	O
+rigurosamente	O
+normal	O
+.	O

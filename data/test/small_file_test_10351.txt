@@ -1,0 +1,10 @@
+
+Nódulo	O
+leptomeníngeo	O
+captante	O
+de	O
+1	O
+cm	O
+parietooccipital	O
+izquierdo	O
+.	O

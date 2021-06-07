@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+fue	O
+derivado	O
+desde	O
+el	O
+Centro	O
+de	O
+Salud	O
+Mental	O
+al	O
+Centro	O
+de	O
+Tratamiento	O
+Integral	O
+de	O
+Montevil	O
+en	O
+el	O
+año	O
+2007	O
+.	O

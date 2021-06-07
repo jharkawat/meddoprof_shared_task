@@ -1,0 +1,18 @@
+
+A	O
+los	O
+9	O
+meses	O
+,	O
+en	O
+mayo	O
+de	O
+2018	O
+,	O
+se	O
+detectó	O
+progresión	O
+pleural	O
+y	O
+pulmonar	O
+.	O

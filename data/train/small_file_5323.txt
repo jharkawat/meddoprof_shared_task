@@ -1,0 +1,11 @@
+
+Paciente	O
+soltero	O
+,	O
+vive	O
+solo	O
+y	O
+trabaja	O
+de	O
+informático	B-PROFESION
+.	O

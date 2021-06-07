@@ -1,0 +1,18 @@
+
+Se	O
+solicitan	O
+serología	O
+para	O
+sífilis	O
+,	O
+PCR	O
+para	O
+otras	O
+ITS	O
+y	O
+coprocultivo	O
+,	O
+que	O
+resultan	O
+negativos	O
+.	O

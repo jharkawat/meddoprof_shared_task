@@ -1,0 +1,9 @@
+
+Fluidez	O
+categorial	O
+:	O
+9	O
+palabras	O
+/	O
+min	O
+.	O

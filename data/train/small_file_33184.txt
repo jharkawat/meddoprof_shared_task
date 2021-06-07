@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+fue	O
+diagnosticado	O
+de	O
+Distonía	O
+Crónica	O
+Tardía	O
+cervical	O
+y	O
+torácica	O
+axial	O
+conocida	O
+como	O
+síndrome	O
+de	O
+Pisa	O
+(	O
+SP	O
+)	O
+.	O

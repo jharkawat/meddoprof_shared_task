@@ -1,0 +1,19 @@
+
+Repercusión	O
+afectiva	O
+y	O
+conductual	O
+de	O
+la	O
+sintomatología	O
+descrita	O
+(	O
+angustia	O
+psicótica	O
+,	O
+irritabilidad	O
+y	O
+aislamiento	O
+social	O
+)	O
+.	O

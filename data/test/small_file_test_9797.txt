@@ -1,0 +1,18 @@
+
+Además	O
+,	O
+se	O
+observaron	O
+focos	O
+de	O
+carcinoma	O
+ductal	O
+infiltrante	O
+de	O
+mama	O
+,	O
+tipo	O
+sólido	O
+y	O
+comedocarcinoma	O
+.	O

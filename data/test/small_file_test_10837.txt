@@ -1,0 +1,14 @@
+
+Continúa	O
+ingreso	O
+con	O
+antibioterapia	O
+intravenosa	O
+y	O
+seguimiento	O
+,	O
+con	O
+buena	O
+evolución	O
+clínica	O
+.	O

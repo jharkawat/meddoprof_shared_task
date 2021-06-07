@@ -1,0 +1,27 @@
+
+El	O
+tratamiento	O
+indicado	O
+para	O
+este	O
+tipo	O
+de	O
+lesiones	O
+es	O
+la	O
+extirpación	O
+quirúrgica	O
+de	O
+la	O
+misma	O
+,	O
+llevando	O
+a	O
+cabo	O
+una	O
+biopsia	O
+excisional	O
+para	O
+su	O
+estudio	O
+.	O

@@ -1,0 +1,26 @@
+
+Acude	O
+al	O
+Centro	O
+de	O
+Atención	O
+de	O
+Drogodependientes	O
+acompañado	O
+de	O
+un	O
+amigo	O
+refiriendo	O
+que	O
+le	O
+han	O
+dicho	O
+que	O
+los	O
+"	O
+porros	O
+le	O
+sientan	O
+mal	O
+"	O
+.	O

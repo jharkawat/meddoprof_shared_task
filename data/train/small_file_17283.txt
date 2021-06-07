@@ -1,0 +1,23 @@
+
+El	O
+dolor	O
+alcanzaba	O
+esta	O
+intensidad	O
+en	O
+menos	O
+de	O
+un	O
+minuto	O
+tras	O
+su	O
+inicio	O
+y	O
+persistía	O
+un	O
+total	O
+de	O
+unos	O
+tres	O
+minutos	O
+.	O

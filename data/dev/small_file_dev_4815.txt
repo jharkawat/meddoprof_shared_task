@@ -1,0 +1,16 @@
+
+Coagulación	O
+:	O
+INR	O
+:	O
+10	O
+,	O
+TP	O
+32	O
+seg	O
+,	O
+TTPA	O
+:	O
+52	O
+seg	O
+.	O

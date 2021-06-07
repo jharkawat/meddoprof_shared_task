@@ -1,0 +1,18 @@
+
+En	O
+general	O
+,	O
+la	O
+valoración	O
+psicológica	O
+era	O
+consistente	O
+con	O
+neuroticismo	O
+,	O
+pero	O
+no	O
+demostró	O
+daño	O
+cerebral	O
+.	O

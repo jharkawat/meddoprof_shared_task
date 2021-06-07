@@ -1,0 +1,15 @@
+
+No	O
+se	O
+observa	O
+eritropoyesis	O
+extramedular	O
+;	O
+compatible	O
+con	O
+hepatoblastoma	O
+embrionario	O
+con	O
+diferenciación	O
+colangiolar	O
+.	O

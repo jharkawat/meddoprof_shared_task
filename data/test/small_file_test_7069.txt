@@ -1,0 +1,14 @@
+
+Inicia	O
+tratamiento	O
+con	O
+quimioterapia	O
+de	O
+acuerdo	O
+al	O
+esquema	O
+BEP	O
+x	O
+4	O
+ciclos	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+la	O
+siguiente	O
+cita	O
+,	O
+olanzapina	O
+tuvo	O
+que	O
+ser	O
+retirada	O
+por	O
+mala	O
+tolerabilidad	O
+,	O
+además	O
+de	O
+persistencia	O
+de	O
+las	O
+alucinaciones	O
+y	O
+síntomas	O
+asociados	O
+a	O
+estas	O
+.	O

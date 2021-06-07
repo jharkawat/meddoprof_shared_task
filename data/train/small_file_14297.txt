@@ -1,0 +1,16 @@
+
+Fumador	O
+desde	O
+hace	O
+40	O
+años	O
+de	O
+1	O
+cajetilla	O
+/	O
+día	O
+,	O
+no	O
+bebedor	O
+habitual	O
+.	O

@@ -1,0 +1,18 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+no	O
+se	O
+aprecian	O
+signos	O
+de	O
+focalidad	O
+neurológica	O
+con	O
+pupilas	O
+isocóricas	O
+y	O
+normorreactivas	O
+.	O

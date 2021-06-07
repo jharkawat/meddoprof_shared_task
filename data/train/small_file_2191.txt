@@ -1,0 +1,22 @@
+
+Se	O
+continúa	O
+la	O
+perfusión	O
+i	O
+.	O
+v	O
+de	O
+fluidoterapia	O
+(	O
+Ringer	O
+Lactato	O
+)	O
+y	O
+se	O
+continúa	O
+la	O
+sedoanalgesia	O
+con	O
+ketamina	O
+.	O

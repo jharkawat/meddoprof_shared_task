@@ -1,0 +1,15 @@
+
+Comentaba	O
+estado	O
+de	O
+ánimo	O
+disminuido	O
+con	O
+escasa	O
+labilidad	O
+emocional	O
+y	O
+mal	O
+descanso	O
+nocturno	O
+.	O

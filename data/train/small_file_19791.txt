@@ -1,0 +1,9 @@
+
+Padre	O
+:	O
+cardiopatía	O
+isquémica	O
+y	O
+diabetes	O
+mellitus	O
+.	O

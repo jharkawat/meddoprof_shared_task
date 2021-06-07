@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+recibe	O
+el	O
+alta	O
+dos	O
+semanas	O
+más	O
+tarde	O
+,	O
+tras	O
+4	O
+semanas	O
+de	O
+antibioterapia	O
+,	O
+con	O
+adecuada	O
+recuperación	O
+clínica	O
+y	O
+analítica	O
+.	O

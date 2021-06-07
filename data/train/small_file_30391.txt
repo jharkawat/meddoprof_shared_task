@@ -1,0 +1,23 @@
+
+Ante	O
+la	O
+pérdida	O
+progresiva	O
+de	O
+la	O
+audición	O
+,	O
+utilizó	O
+audífonos	O
+bilaterales	O
+desde	O
+2011	O
+con	O
+un	O
+beneficio	O
+adecuado	O
+hasta	O
+octubre	O
+de	O
+2018	O
+.	O

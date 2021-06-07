@@ -1,0 +1,20 @@
+
+Su	O
+esposo	O
+notó	O
+que	O
+a	O
+veces	O
+era	O
+incapaz	O
+de	O
+acordarse	O
+de	O
+cosas	O
+que	O
+habían	O
+sucedido	O
+el	O
+día	O
+anterior	O
+.	O

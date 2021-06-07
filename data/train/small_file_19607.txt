@@ -1,0 +1,8 @@
+
+Eje	O
+III	O
+Probable	O
+epilepsia	O
+de	O
+Lóbulo	O
+temporal	O

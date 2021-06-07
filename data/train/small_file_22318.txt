@@ -1,0 +1,12 @@
+
+Con	O
+el	O
+tratamiento	O
+mejoró	O
+sólo	O
+parcialmente	O
+,	O
+continuaba	O
+poco	O
+participativo	O
+.	O

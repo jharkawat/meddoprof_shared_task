@@ -1,0 +1,11 @@
+
+Sintomatología	O
+negativa	O
+manifiesta	O
+en	O
+ligera	O
+apatía	O
+,	O
+aplanamiento	O
+afectivo	O
+.	O

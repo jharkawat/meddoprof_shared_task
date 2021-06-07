@@ -1,0 +1,25 @@
+
+Se	O
+indicó	O
+tratamiento	O
+con	O
+betametasona	O
+-	O
+gentamicina	O
+crema	O
+cada	O
+12	O
+horas	O
+durante	O
+7	O
+días	O
+,	O
+y	O
+cada	O
+24	O
+horas	O
+durante	O
+otros	O
+7	O
+días	O
+.	O

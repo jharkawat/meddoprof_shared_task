@@ -1,0 +1,23 @@
+
+En	O
+la	O
+exploración	O
+física	O
+,	O
+el	O
+paciente	O
+presenta	O
+un	O
+buen	O
+estado	O
+general	O
+,	O
+con	O
+una	O
+auscultación	O
+cardiopulmonar	O
+y	O
+carotidea	O
+sin	O
+alteraciones	O
+.	O

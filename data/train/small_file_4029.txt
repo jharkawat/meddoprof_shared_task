@@ -1,0 +1,10 @@
+
+Lorazepam	O
+1	O
+mg	O
+,	O
+1	O
+comprimido	O
+al	O
+acostarse	O
+.	O

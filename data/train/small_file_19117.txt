@@ -1,0 +1,6 @@
+
+Actualmente	O
+no	O
+está	O
+acudiendo	O
+.	O

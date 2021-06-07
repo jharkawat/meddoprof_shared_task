@@ -1,0 +1,14 @@
+
+Parásitos	O
+en	O
+heces	O
+con	O
+técnica	O
+de	O
+concentración	O
+(	O
+x3	O
+)	O
+:	O
+NEGATIVOS	O
+.	O

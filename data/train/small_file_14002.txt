@@ -1,0 +1,26 @@
+
+Dos	O
+episodios	O
+de	O
+pérdida	O
+de	O
+consciencia	O
+de	O
+minutos	O
+de	O
+duración	O
+,	O
+en	O
+días	O
+consecutivos	O
+,	O
+en	O
+relación	O
+con	O
+esfuerzo	O
+físico	O
+(	O
+subir	O
+cuestas	O
+)	O
+.	O

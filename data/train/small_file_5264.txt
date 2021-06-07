@@ -1,0 +1,19 @@
+
+Inicio	O
+de	O
+Duloxetina	O
+a	O
+dosis	O
+de	O
+30	O
+mg	O
+al	O
+día	O
+junto	O
+con	O
+Lorazepam	O
+2mg	O
+por	O
+la	O
+noche	O
+.	O

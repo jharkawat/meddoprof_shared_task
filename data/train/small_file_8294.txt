@@ -1,0 +1,13 @@
+
+En	O
+el	O
+electroencefalograma	O
+se	O
+evidenció	O
+lentificación	O
+generalizada	O
+,	O
+afectación	O
+cerebral	O
+difusa	O
+.	O

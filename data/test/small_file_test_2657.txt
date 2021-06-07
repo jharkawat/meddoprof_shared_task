@@ -1,0 +1,8 @@
+
+Se	O
+toman	O
+nuevas	O
+muestras	O
+para	O
+cultivos	O
+.	O

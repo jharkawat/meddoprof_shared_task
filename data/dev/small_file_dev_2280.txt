@@ -1,0 +1,24 @@
+
+Empieza	O
+el	O
+circuito	O
+dando	O
+el	O
+primer	O
+paso	O
+que	O
+es	O
+ir	O
+a	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+familia	I-PROFESION
+(	O
+29	O
+/	O
+7	O
+/	O
+2015	O
+)	O
+.	O

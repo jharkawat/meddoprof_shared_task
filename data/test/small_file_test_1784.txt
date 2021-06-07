@@ -1,0 +1,20 @@
+
+Cirugía	O
+periodontal	O
+en	O
+el	O
+primer	O
+sextante	O
+:	O
+Levantamiento	O
+del	O
+colgajo	O
+y	O
+Sutura	O
+;	O
+Cicatrización	O
+a	O
+los	O
+10	O
+días	O
+.	O

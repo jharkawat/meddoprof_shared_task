@@ -1,0 +1,9 @@
+
+No	O
+se	O
+objetivan	O
+ecosíntomas	O
+durante	O
+las	O
+entrevistas	O
+.	O

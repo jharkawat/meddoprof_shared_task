@@ -1,0 +1,24 @@
+
+Se	O
+van	O
+sucediendo	O
+los	O
+permisos	O
+a	O
+su	O
+domicilio	O
+y	O
+,	O
+finalmente	O
+,	O
+se	O
+procede	O
+al	O
+alta	O
+57	O
+días	O
+después	O
+de	O
+su	O
+ingreso	O
+.	O

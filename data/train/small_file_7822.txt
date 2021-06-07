@@ -1,0 +1,21 @@
+
+La	O
+madre	O
+recuerda	O
+que	O
+hace	O
+años	O
+tuvo	O
+un	O
+cuadro	O
+similar	O
+coincidiendo	O
+con	O
+otro	O
+cuadro	O
+catarral	O
+pero	O
+mucho	O
+menos	O
+florido	O
+.	O

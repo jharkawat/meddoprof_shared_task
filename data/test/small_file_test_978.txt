@@ -1,0 +1,12 @@
+
+De	O
+siempre	O
+le	O
+dijeron	O
+que	O
+este	O
+hombre	O
+era	O
+su	O
+padre	O
+.	O

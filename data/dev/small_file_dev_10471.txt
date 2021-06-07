@@ -1,0 +1,16 @@
+
+La	O
+paciente	O
+había	O
+estado	O
+en	O
+su	O
+habitación	O
+escuchando	O
+heavy	O
+metal	O
+rock	O
+en	O
+su	O
+estéreo	O
+.	O

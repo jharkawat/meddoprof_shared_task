@@ -1,0 +1,14 @@
+
+Los	O
+hallazgos	O
+mencionados	O
+sugieren	O
+una	O
+pileflebitis	O
+o	O
+probable	O
+trombosis	O
+séptica	O
+portal	O
+derecha	O
+.	O

@@ -1,0 +1,9 @@
+
+Unión	O
+con	O
+cayado	O
+aórtico	O
+sin	O
+hallazgos	O
+significativos	O
+.	O

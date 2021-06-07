@@ -1,0 +1,19 @@
+
+Niño	O
+de	O
+11	O
+años	O
+cuyos	O
+padres	O
+consultan	O
+por	O
+fracaso	O
+escolar	O
+y	O
+problemas	O
+de	O
+comportamiento	O
+en	O
+la	O
+escuela	O
+.	O

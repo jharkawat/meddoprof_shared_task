@@ -1,0 +1,8 @@
+
+Se	O
+realiza	O
+cruce	O
+duodenal	O
+y	O
+colecistectomía	O
+.	O

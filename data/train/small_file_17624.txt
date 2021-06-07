@@ -1,0 +1,24 @@
+
+Ocupación	O
+del	O
+seno	O
+esfenoidal	O
+derecho	O
+con	O
+remodelación	O
+del	O
+clivus	O
+por	O
+lesión	O
+no	O
+agresiva	O
+inflamatoria	O
+,	O
+que	O
+muestra	O
+características	O
+de	O
+sinusitis	O
+-	O
+mucocele	O
+.	O

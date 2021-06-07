@@ -1,0 +1,13 @@
+
+Una	O
+hermana	O
+menor	O
+(	O
+14	O
+años	O
+)	O
+también	O
+vive	O
+en	O
+España	O
+.	O

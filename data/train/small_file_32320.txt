@@ -1,0 +1,27 @@
+
+Consultas	O
+ambulatorias	O
+de	O
+psiquiatría	O
+privada	O
+(	O
+1983	O
+-	O
+1999	O
+)	O
+:	O
+inicio	O
+a	O
+los	O
+21	O
+años	O
+,	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+residual	O
+y	O
+psicosis	O
+maníaco	O
+depresiva	O
+.	O

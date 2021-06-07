@@ -1,0 +1,13 @@
+
+Incapacitado	B-SITUACION_LABORAL
+legalmente	I-SITUACION_LABORAL
+desde	O
+septiembre	O
+de	O
+2004	O
+,	O
+tutelado	B-SITUACION_LABORAL
+por	O
+una	O
+fundación	O
+.	O

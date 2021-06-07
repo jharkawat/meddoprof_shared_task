@@ -1,0 +1,25 @@
+
+Destaca	O
+a	O
+su	O
+llegada	O
+TA	O
+122	O
+/	O
+67	O
+mmHg	O
+,	O
+FC	O
+91	O
+lpm	O
+,	O
+SatO2	O
+97	O
+%	O
+sin	O
+O2	O
+,	O
+37	O
+,	O
+8oC	O
+.	O

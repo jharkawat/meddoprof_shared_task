@@ -1,0 +1,27 @@
+
+El	O
+dolor	O
+empezó	O
+en	O
+la	O
+región	O
+lumbar	O
+de	O
+forma	O
+bilateral	O
+y	O
+continua	O
+,	O
+sin	O
+modificarse	O
+con	O
+los	O
+movimientos	O
+o	O
+posición	O
+y	O
+sin	O
+otros	O
+síntomas	O
+asociados	O
+.	O

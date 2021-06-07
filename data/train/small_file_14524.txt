@@ -1,0 +1,16 @@
+
+Se	O
+realizaron	O
+una	O
+prueba	O
+del	O
+Mantoux	O
+y	O
+una	O
+serología	O
+de	O
+VIH	O
+que	O
+resultaron	O
+negativas	O
+.	O

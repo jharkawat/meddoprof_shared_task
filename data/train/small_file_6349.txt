@@ -1,0 +1,12 @@
+
+Se	O
+indica	O
+tratamiento	O
+con	O
+antitérmicos	O
+orales	O
+y	O
+control	O
+de	O
+temperatura	O
+.	O

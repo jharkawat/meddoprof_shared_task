@@ -1,0 +1,18 @@
+
+Paciente	O
+consciente	O
+,	O
+orientado	O
+y	O
+colaborador	O
+,	O
+con	O
+estado	O
+general	O
+conservado	O
+,	O
+bien	O
+hidratado	O
+y	O
+perfundido	O
+.	O

@@ -1,0 +1,12 @@
+
+Es	O
+derivado	O
+a	O
+urgencias	O
+hospitalarias	O
+para	O
+valoración	O
+por	O
+Cirugía	O
+Maxilofacial	O
+.	O

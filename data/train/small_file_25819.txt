@@ -1,0 +1,21 @@
+
+Este	O
+caso	O
+señala	O
+la	O
+importancia	O
+de	O
+la	O
+neuroimagen	O
+en	O
+el	O
+diagnóstico	O
+,	O
+de	O
+al	O
+menos	O
+algunos	O
+casos	O
+de	O
+esquizofrenia	O
+.	O

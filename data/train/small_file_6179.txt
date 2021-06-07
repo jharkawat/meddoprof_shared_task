@@ -1,0 +1,17 @@
+
+Actualmente	O
+continua	O
+en	O
+tratamiento	O
+de	O
+manera	O
+conjunta	O
+con	O
+su	O
+psicóloga	B-PROFESION
+y	O
+su	O
+médica	B-PROFESION
+de	I-PROFESION
+familia	I-PROFESION
+.	O

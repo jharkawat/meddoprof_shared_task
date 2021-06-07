@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+fallece	O
+a	O
+los	O
+nueve	O
+meses	O
+del	O
+diagnóstico	O
+,	O
+como	O
+consecuencia	O
+de	O
+progresión	O
+de	O
+la	O
+enfermedad	O
+.	O

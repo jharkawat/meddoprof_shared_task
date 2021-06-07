@@ -1,0 +1,12 @@
+
+Shock	O
+séptico	O
+con	O
+fallo	O
+multiorgánico	O
+por	O
+NAC	O
+bacteriémica	O
+por	O
+MRSA	O
+.	O

@@ -1,0 +1,22 @@
+
+Acude	O
+a	O
+urgencias	O
+en	O
+diciembre	O
+de	O
+2012	O
+con	O
+clínica	O
+de	O
+cólico	O
+nefrítico	O
+y	O
+es	O
+derivada	O
+a	O
+las	O
+consultas	O
+de	O
+Urología	O
+.	O

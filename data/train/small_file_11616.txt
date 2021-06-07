@@ -1,0 +1,26 @@
+
+Se	O
+hizo	O
+una	O
+Resonancia	O
+Magnética	O
+craneal	O
+(	O
+RM	O
+)	O
+con	O
+algunas	O
+imágenes	O
+puntiformes	O
+hiperintensas	O
+en	O
+sustancia	O
+blanca	O
+subcortical	O
+bihemisfericas	O
+inespecíficas	O
+en	O
+T2	O
+y	O
+FLAIR	O
+.	O

@@ -1,0 +1,23 @@
+
+•	O
+Biopsia	O
+del	O
+cornete	O
+nasal	O
+inferior	O
+derecho	O
+:	O
+mucosa	O
+nasal	O
+con	O
+inflamación	O
+crónica	O
+de	O
+predominio	O
+linfoplasmocitario	O
+con	O
+presencia	O
+de	O
+aislados	O
+eosinófilos	O
+.	O

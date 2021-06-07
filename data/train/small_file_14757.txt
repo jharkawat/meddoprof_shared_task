@@ -1,0 +1,19 @@
+
+Taquipneica	O
+,	O
+sudorosa	O
+y	O
+pálida	O
+con	O
+TA	O
+102	O
+/	O
+69mmHG	O
+,	O
+SatO2	O
+basal	O
+84	O
+%	O
+y	O
+taquicárdica	O
+.	O

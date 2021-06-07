@@ -1,0 +1,4 @@
+
+PCR	O
+negativa	O
+.	O

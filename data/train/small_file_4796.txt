@@ -1,0 +1,14 @@
+
+El	O
+hallazgo	O
+radiográfico	O
+de	O
+la	O
+suelta	O
+de	O
+globos	O
+sugiere	O
+metástasis	O
+pulmonares	O
+múltiples	O
+.	O

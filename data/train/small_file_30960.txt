@@ -1,0 +1,7 @@
+
+8	O
+sesiones	O
+en	O
+fase	O
+aguda	O
+.	O

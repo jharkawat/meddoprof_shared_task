@@ -1,0 +1,18 @@
+
+Contaba	O
+con	O
+la	O
+ternura	O
+de	O
+una	O
+niña	O
+,	O
+la	O
+soledad	O
+que	O
+había	O
+sentido	O
+todos	O
+estos	O
+años	O
+.	O

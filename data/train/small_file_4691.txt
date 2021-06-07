@@ -1,0 +1,13 @@
+
+La	O
+lesión	O
+no	O
+es	O
+dolorosa	O
+,	O
+ni	O
+le	O
+produce	O
+molestia	O
+alguna	O
+.	O

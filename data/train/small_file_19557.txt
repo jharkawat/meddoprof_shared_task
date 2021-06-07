@@ -1,0 +1,13 @@
+
+Quiere	O
+seguir	O
+laborando	O
+ahí	O
+para	O
+ahorrar	O
+dinero	O
+y	O
+establecer	O
+una	O
+zapatería	O
+.	O

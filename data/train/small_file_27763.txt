@@ -1,0 +1,25 @@
+
+No	O
+presenta	O
+antecedentes	O
+familiares	O
+de	O
+relevancia	O
+,	O
+a	O
+excepción	O
+de	O
+hermano	O
+con	O
+diagnóstico	O
+de	O
+parálisis	O
+cerebral	O
+y	O
+padre	O
+diagnosticado	O
+de	O
+psoriasis	O
+e	O
+hipercolesterolemia	O
+.	O

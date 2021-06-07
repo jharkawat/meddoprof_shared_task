@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+falleció	O
+4	O
+meses	O
+después	O
+del	O
+diagnóstico	O
+.	O

@@ -1,0 +1,10 @@
+
+Valoración	O
+por	O
+Pediatría	O
+y	O
+Cardiología	O
+sin	O
+hallazgos	O
+significativos	O
+.	O

@@ -1,0 +1,10 @@
+
+Dolor	O
+abdominal	O
+en	O
+hipogastrio	O
+de	O
+semanas	O
+de	O
+evolución	O
+.	O

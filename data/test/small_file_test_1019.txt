@@ -1,0 +1,18 @@
+
+Edad	O
+22	O
+:	O
+Su	O
+«	O
+abuelo	O
+»	O
+abraza	O
+a	O
+su	O
+hermana	O
+pequeña	O
+(	O
+6	O
+años	O
+)	O
+.	O

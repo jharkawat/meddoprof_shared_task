@@ -1,0 +1,17 @@
+
+Además	O
+refería	O
+dolor	O
+a	O
+nivel	O
+de	O
+trayecto	O
+inguinal	O
+derecho	O
+que	O
+se	O
+incrementaba	O
+con	O
+la	O
+deambulación	O
+.	O

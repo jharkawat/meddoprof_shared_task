@@ -1,0 +1,11 @@
+
+El	O
+estudio	O
+anatomopatológico	O
+de	O
+la	O
+pieza	O
+de	O
+resección	O
+fue	O
+:	O

@@ -1,0 +1,12 @@
+
+No	O
+presenta	O
+alergias	O
+medicamentosas	O
+ni	O
+sigue	O
+tratamiento	O
+de	O
+forma	O
+habitual	O
+.	O

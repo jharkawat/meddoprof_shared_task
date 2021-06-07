@@ -1,0 +1,19 @@
+
+Hubo	O
+una	O
+reducción	O
+de	O
+profundidad	O
+al	O
+sondaje	O
+generalizada	O
+,	O
+siendo	O
+resuelta	O
+en	O
+la	O
+mayoría	O
+de	O
+las	O
+localizaciones	O
+.	O

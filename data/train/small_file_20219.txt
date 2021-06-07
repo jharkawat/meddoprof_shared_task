@@ -1,0 +1,23 @@
+
+Después	O
+se	O
+«	O
+arrastraba	O
+durante	O
+el	O
+día	O
+siguiente	O
+»	O
+sin	O
+estar	O
+cansada	O
+por	O
+haber	O
+dormido	O
+tan	O
+solo	O
+2	O
+o	O
+3	O
+horas	O
+.	O

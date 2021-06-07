@@ -1,0 +1,9 @@
+
+Rx	O
+tórax	O
+y	O
+Ecografía	O
+abdominal	O
+sin	O
+alteraciones	O
+.	O

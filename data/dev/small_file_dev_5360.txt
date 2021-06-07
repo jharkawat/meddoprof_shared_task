@@ -1,0 +1,17 @@
+
+Motilidad	O
+ocular	O
+difícil	O
+de	O
+explorar	O
+por	O
+el	O
+edema	O
+,	O
+pero	O
+extrínseca	O
+e	O
+intrínseca	O
+conservada	O
+aparentemente	O
+.	O

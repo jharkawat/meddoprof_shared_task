@@ -1,0 +1,4 @@
+
+Enfermedades	O
+Herditarias	O
+:	O

@@ -1,0 +1,21 @@
+
+Esto	O
+nos	O
+garantizará	O
+que	O
+el	O
+margen	O
+vestibular	O
+del	O
+pilar	O
+,	O
+más	O
+bajo	O
+que	O
+el	O
+palatino	O
+,	O
+quede	O
+correctamente	O
+orientado	O
+.	O

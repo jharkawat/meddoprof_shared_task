@@ -1,0 +1,17 @@
+
+También	O
+refiere	O
+algunas	O
+decepciones	O
+con	O
+amistades	O
+de	O
+la	O
+infancia	O
+al	O
+llegar	O
+a	O
+la	O
+edad	O
+adulta	O
+.	O

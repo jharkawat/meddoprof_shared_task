@@ -1,0 +1,7 @@
+
+Muy	O
+clara	O
+conciencia	O
+de	O
+enfermedad	O
+.	O

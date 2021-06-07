@@ -1,0 +1,18 @@
+
+A	O
+la	O
+que	O
+en	O
+los	O
+últimos	O
+dos	O
+meses	O
+se	O
+asocia	O
+pérdida	O
+ponderal	O
+de	O
+unos	O
+10	O
+Kg	O
+.	O

@@ -1,0 +1,27 @@
+
+El	O
+paciente	O
+es	O
+ingresado	O
+e	O
+intervenido	O
+de	O
+forma	O
+preferente	O
+,	O
+realizándose	O
+tumorectomía	O
+,	O
+disección	O
+cervical	O
+bilateral	O
+y	O
+reconstrucción	O
+del	O
+defecto	O
+intraoral	O
+mediante	O
+colgajo	O
+microvascularizado	O
+antebraquial	O
+.	O

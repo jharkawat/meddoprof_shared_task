@@ -1,0 +1,14 @@
+
+CABEZA	O
+Y	O
+CUELLO	O
+:	O
+Paciente	O
+con	O
+antecedentes	O
+de	O
+cefalea	O
+en	O
+región	O
+temporalderecha	O
+.	O

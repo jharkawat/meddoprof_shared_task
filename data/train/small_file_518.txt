@@ -1,0 +1,18 @@
+
+El	O
+cultivo	O
+de	O
+orina	O
+es	O
+positivo	O
+a	O
+Enterococo	O
+y	O
+el	O
+pH	O
+urinario	O
+de	O
+6	O
+,	O
+7	O
+.	O

@@ -1,0 +1,6 @@
+
+HTA	O
+esencial	O
+sin	O
+tratamiento	O
+.	O

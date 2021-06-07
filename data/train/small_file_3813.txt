@@ -1,0 +1,22 @@
+
+Dado	O
+el	O
+cuadro	O
+clínico	O
+del	O
+paciente	O
+y	O
+los	O
+antecedentes	O
+,	O
+se	O
+decide	O
+derivar	O
+a	O
+Urgencias	O
+para	O
+estudio	O
+analítico	O
+y	O
+radiológico	O
+.	O

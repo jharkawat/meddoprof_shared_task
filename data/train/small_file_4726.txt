@@ -1,0 +1,11 @@
+
+No	O
+tiene	O
+familiares	O
+fuera	O
+de	O
+su	O
+país	O
+de	O
+origen	O
+.	O

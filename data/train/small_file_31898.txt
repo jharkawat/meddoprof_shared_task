@@ -1,0 +1,9 @@
+
+Ánimo	O
+depresivo	O
+acompañado	O
+de	O
+anhedonia	O
+y	O
+apatía	O
+.	O

@@ -1,0 +1,5 @@
+
+No	O
+retinopatía	O
+diabética	O
+.	O

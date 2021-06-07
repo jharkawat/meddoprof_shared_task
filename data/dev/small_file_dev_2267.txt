@@ -1,0 +1,20 @@
+
+Su	O
+dieta	O
+es	O
+hipercalórica	O
+,	O
+consume	O
+abundantes	O
+alimentos	O
+fritos	O
+y	O
+dulces	O
+y	O
+en	O
+cantidades	O
+mayores	O
+de	O
+las	O
+adecuadas	O
+.	O

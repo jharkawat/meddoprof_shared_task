@@ -1,0 +1,22 @@
+
+No	O
+se	O
+objetivaron	O
+ingurgitación	O
+yugular	O
+,	O
+reflujo	O
+hepatoyugular	O
+,	O
+edemas	O
+en	O
+los	O
+miembros	O
+ni	O
+otros	O
+signos	O
+compatibles	O
+con	O
+insuficiencia	O
+cardíaca	O
+.	O

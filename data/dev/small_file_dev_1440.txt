@@ -1,0 +1,22 @@
+
+Necesita	O
+que	O
+la	O
+calefacción	O
+y	O
+el	O
+radiador	O
+de	O
+la	O
+sala	O
+de	O
+estar	O
+donde	O
+está	O
+cada	O
+mañana	O
+estén	O
+puestos	O
+en	O
+marcha	O
+.	O

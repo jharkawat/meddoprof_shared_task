@@ -1,0 +1,26 @@
+
+Al	O
+participar	O
+en	O
+una	O
+mini	O
+-	O
+maratón	O
+,	O
+cuando	O
+llevaba	O
+corrido	O
+8	O
+km	O
+,	O
+presentó	O
+pesadez	O
+en	O
+las	O
+piernas	O
+y	O
+falta	O
+de	O
+fuerzas	O
+generalizadas	O
+.	O

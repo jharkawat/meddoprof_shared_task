@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+se	B-PROFESION
+dedica	I-PROFESION
+a	I-PROFESION
+la	I-PROFESION
+ingeniería	I-PROFESION
+informática	I-PROFESION
+y	O
+vive	O
+con	O
+su	O
+mujer	O
+e	O
+hija	O
+en	O
+la	O
+misma	O
+residencia	O
+.	O

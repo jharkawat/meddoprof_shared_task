@@ -1,0 +1,19 @@
+
+Tras	O
+la	O
+cirugía	O
+en	O
+centro	O
+privado	O
+,	O
+el	O
+paciente	O
+solicita	O
+continuar	O
+tratamiento	O
+en	O
+su	O
+hospital	O
+de	O
+referencia	O
+.	O

@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+se	O
+encuentra	O
+consciente	O
+,	O
+orientada	O
+en	O
+espacio	O
+,	O
+tiempo	O
+y	O
+persona	O
+.	O

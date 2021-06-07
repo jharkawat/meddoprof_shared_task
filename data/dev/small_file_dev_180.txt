@@ -1,0 +1,17 @@
+
+Refieren	O
+que	O
+sufría	O
+acoso	O
+por	O
+parte	O
+de	O
+los	O
+compañeros	B-SITUACION_LABORAL
+y	O
+comienza	O
+con	O
+problemas	O
+de	O
+ansiedad	O
+.	O

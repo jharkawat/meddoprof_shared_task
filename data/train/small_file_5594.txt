@@ -1,0 +1,11 @@
+
+Exploración	O
+neurológica	O
+:	O
+consciente	O
+con	O
+desorientación	O
+temporo	O
+-	O
+espacial	O
+.	O

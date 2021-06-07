@@ -1,0 +1,16 @@
+
+Su	O
+hermano	O
+gemelo	O
+tuvo	O
+un	O
+cuadro	O
+clínico	O
+similar	O
+,	O
+que	O
+le	O
+ocasionó	O
+la	O
+muerte	O
+.	O

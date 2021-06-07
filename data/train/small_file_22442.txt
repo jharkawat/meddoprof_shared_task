@@ -1,0 +1,11 @@
+
+Juicio	O
+clínico	O
+:	O
+hiponatremia	O
+grave	O
+inducida	O
+por	O
+diuréticos	O
+tiazídicos	O
+.	O

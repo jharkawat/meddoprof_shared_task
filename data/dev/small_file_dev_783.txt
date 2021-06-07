@@ -1,0 +1,13 @@
+
+Sustancias	O
+de	O
+abuso	O
+en	O
+orina	O
+:	O
+cannabis	O
+positivo	O
+,	O
+anfetaminas	O
+positivo	O
+.	O

@@ -1,0 +1,10 @@
+
+No	O
+está	O
+en	O
+seguimiento	O
+ni	O
+tratamiento	O
+por	O
+Psiquiatría	O
+.	O

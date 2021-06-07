@@ -1,0 +1,17 @@
+
+La	O
+valoración	O
+es	O
+:	O
+WHO	O
+/	O
+DAS	O
+:	O
+Funcionamiento	O
+personal	O
+(	O
+autocuidados	O
+)	O
+:	O
+3	O
+.	O

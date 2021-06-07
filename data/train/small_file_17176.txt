@@ -1,0 +1,26 @@
+
+•	O
+Psicosis	O
+en	O
+el	O
+contexto	O
+de	O
+un	O
+síndrome	O
+confusional	O
+agudo	O
+en	O
+paciente	O
+con	O
+abuso	O
+crónico	O
+de	O
+psicoestimulantes	O
+(	O
+cocaína	O
+,	O
+heroína	O
+y	O
+metadona	O
+)	O
+.	O

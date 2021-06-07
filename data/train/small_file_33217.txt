@@ -1,0 +1,27 @@
+
+Todo	O
+dentro	O
+de	O
+los	O
+límites	O
+de	O
+la	O
+normalidad	O
+,	O
+a	O
+excepción	O
+de	O
+triglicéridos	O
+,	O
+colesterol	O
+total	O
+y	O
+LDL	O
+-	O
+c	O
+que	O
+se	O
+encuentran	O
+discretamente	O
+elevados	O
+.	O

@@ -1,0 +1,10 @@
+
+ICP	O
+sobre	O
+DA	O
+con	O
+tres	O
+stents	O
+farmacoactivos	O
+solapados	O
+.	O

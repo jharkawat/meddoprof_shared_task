@@ -1,0 +1,22 @@
+
+Autoinmunidad	O
+negativa	O
+,	O
+salvo	O
+anticuerpos	O
+antitiroglobulina	O
+329	O
+UI	O
+/	O
+ml	O
+(	O
+10	O
+-	O
+115	O
+)	O
+,	O
+con	O
+perfil	O
+tiroideo	O
+normal	O
+.	O

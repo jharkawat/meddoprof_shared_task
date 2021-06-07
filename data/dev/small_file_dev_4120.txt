@@ -1,0 +1,6 @@
+
+Estado	O
+civil	O
+:	O
+Union	O
+libre	O

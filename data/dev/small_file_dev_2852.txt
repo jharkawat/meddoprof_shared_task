@@ -1,0 +1,10 @@
+
+Ex	O
+fumadora	O
+de	O
+tabaco	O
+desde	O
+hace	O
+20	O
+años	O
+.	O

@@ -1,0 +1,11 @@
+
+Destacaban	O
+placas	O
+de	O
+psoriasis	O
+excoriadas	O
+en	O
+ambos	O
+miembros	O
+inferiores	O
+.	O

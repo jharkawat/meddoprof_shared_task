@@ -1,0 +1,7 @@
+
+Arteria	O
+ilíaca	O
+primitiva	O
+izquierda	O
+ectásica	O
+.	O

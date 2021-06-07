@@ -1,0 +1,11 @@
+
+Sí	O
+reconoce	O
+que	O
+sigue	O
+existiendo	O
+problemas	O
+con	O
+los	O
+vecinos	O
+.	O

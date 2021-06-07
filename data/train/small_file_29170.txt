@@ -1,0 +1,9 @@
+
+Hemograma	O
+,	O
+bioquímica	O
+y	O
+TAC	O
+craneal	O
+normales	O
+.	O

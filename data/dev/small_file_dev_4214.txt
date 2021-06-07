@@ -1,0 +1,23 @@
+
+x	O
+11	O
+mm	O
+de	O
+espesor	O
+,	O
+con	O
+engrosamiento	O
+de	O
+fascias	O
+látero	O
+-	O
+conales	O
+y	O
+aumento	O
+de	O
+la	O
+densidad	O
+de	O
+la	O
+grasa	O
+.	O

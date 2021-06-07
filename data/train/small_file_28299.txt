@@ -1,0 +1,23 @@
+
+Señala	O
+sentimientos	O
+de	O
+vergüenza	O
+secundarios	O
+,	O
+lo	O
+cualmotivó	O
+que	O
+no	O
+notificara	O
+lo	O
+sucedido	O
+a	O
+su	O
+familia	O
+nuclear	O
+hasta	O
+hace	O
+un	O
+año	O
+.	O

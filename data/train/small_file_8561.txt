@@ -1,0 +1,6 @@
+
+Equilibrio	O
+ácid	O
+base	O
+normal	O
+.	O

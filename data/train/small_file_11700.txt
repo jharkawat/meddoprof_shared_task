@@ -1,0 +1,13 @@
+
+El	O
+abdomen	O
+es	O
+blando	O
+y	O
+depresible	O
+y	O
+no	O
+existe	O
+focalidad	O
+neurológica	O
+.	O

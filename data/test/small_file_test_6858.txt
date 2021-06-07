@@ -1,0 +1,21 @@
+
+Se	O
+decidió	O
+entonces	O
+reintroducir	O
+el	O
+docetaxel	O
+a	O
+la	O
+misma	O
+dosis	O
+,	O
+recibiendo	O
+ocho	O
+ciclos	O
+más	O
+hasta	O
+noviembre	O
+de	O
+2018	O
+.	O

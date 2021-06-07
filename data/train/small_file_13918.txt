@@ -1,0 +1,12 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+amiloidosis	O
+cardiaca	O
+se	O
+realiza	O
+biopsia	O
+cardiaca	O
+:	O

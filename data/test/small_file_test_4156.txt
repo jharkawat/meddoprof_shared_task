@@ -1,0 +1,10 @@
+
+Diagnosticado	O
+en	O
+1994	O
+de	O
+carcinoma	O
+papilar	O
+de	O
+tiroides	O
+.	O

@@ -1,0 +1,17 @@
+
+Donde	O
+le	O
+pautaron	O
+Bromazepam	O
+1	O
+,	O
+5	O
+mg	O
+(	O
+1	O
+-	O
+0	O
+-	O
+1	O
+)	O
+.	O

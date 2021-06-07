@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+completó	O
+una	O
+estancia	O
+hospitalaria	O
+de	O
+12	O
+días	O
+,	O
+período	O
+en	O
+el	O
+cual	O
+presentó	O
+episodios	O
+repetitivos	O
+de	O
+tos	O
+seca	O
+.	O

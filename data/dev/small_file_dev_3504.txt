@@ -1,0 +1,19 @@
+
+También	O
+puede	O
+considerarse	O
+que	O
+en	O
+este	O
+paciente	O
+ya	O
+se	O
+ha	O
+establecido	O
+un	O
+síndrome	O
+psiquiátrico	O
+"	O
+Depresivo	O
+"	O
+.	O

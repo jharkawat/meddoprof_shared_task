@@ -1,0 +1,8 @@
+
+Paciente	O
+relata	O
+tener	O
+alergia	O
+a	O
+plantas	O
+.	O

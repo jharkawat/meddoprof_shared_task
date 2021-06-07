@@ -1,0 +1,9 @@
+
+Niega	O
+otra	O
+clínica	O
+psicótica	O
+ni	O
+alteraciones	O
+sensoperceptivas	O
+.	O

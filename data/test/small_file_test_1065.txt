@@ -1,0 +1,25 @@
+
+Se	O
+subordinan	O
+los	O
+deseos	O
+propios	O
+a	O
+los	O
+del	O
+otro	O
+para	O
+no	O
+arriesgar	O
+la	O
+cercanía	O
+de	O
+la	O
+relación	O
+(	O
+angustia	O
+frente	O
+a	O
+la	O
+separación	O
+)	O

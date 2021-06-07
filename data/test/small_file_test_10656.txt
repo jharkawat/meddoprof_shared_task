@@ -1,0 +1,15 @@
+
+Continúa	O
+seguimiento	O
+periódico	O
+clínico	O
+y	O
+radiológico	O
+sin	O
+evidencia	O
+de	O
+recidiva	O
+hasta	O
+la	O
+actualidad	O
+.	O

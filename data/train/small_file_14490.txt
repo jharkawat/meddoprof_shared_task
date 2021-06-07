@@ -1,0 +1,6 @@
+
+No	O
+ha	O
+tenido	O
+fiebre	O
+.	O

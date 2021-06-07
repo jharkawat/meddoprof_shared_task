@@ -1,0 +1,13 @@
+
+Labilidad	O
+emocional	O
+,	O
+se	O
+angustia	O
+al	O
+hablar	O
+de	O
+las	O
+alteraciones	O
+sensoperceptivas	O
+.	O

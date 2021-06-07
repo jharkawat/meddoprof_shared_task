@@ -1,0 +1,11 @@
+
+Auscultación	O
+cardio	O
+pulmonar	O
+:	O
+tonos	O
+rítmicos	O
+a	O
+100	O
+lpm	O
+.	O

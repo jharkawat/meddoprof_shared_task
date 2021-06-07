@@ -1,0 +1,8 @@
+
+Es	O
+con	O
+quien	O
+tiene	O
+buena	O
+relación	O
+.	O

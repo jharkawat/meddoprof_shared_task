@@ -1,0 +1,8 @@
+
+No	O
+signos	O
+meníngeos	O
+ni	O
+rigidez	O
+nucal	O
+.	O

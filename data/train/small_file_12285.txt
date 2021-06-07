@@ -1,0 +1,23 @@
+
+QRS	O
+estrecho	O
+con	O
+trastorno	O
+de	O
+la	O
+conducción	O
+con	O
+imagen	O
+de	O
+bloqueo	O
+incompleto	O
+de	O
+rama	O
+derecha	O
+con	O
+alteraciones	O
+secundarias	O
+de	O
+la	O
+repolarización	O
+.	O

@@ -1,0 +1,10 @@
+
+La	O
+paciente	O
+recibe	O
+cuatro	O
+ciclos	O
+con	O
+excelente	O
+tolerancia	O
+.	O

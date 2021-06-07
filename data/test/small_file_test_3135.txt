@@ -1,0 +1,10 @@
+
+Lesión	O
+lítica	O
+de	O
+tercio	O
+distal	O
+de	O
+húmero	O
+derecho	O
+.	O

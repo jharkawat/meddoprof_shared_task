@@ -1,0 +1,20 @@
+
+Debido	O
+a	O
+su	O
+impulsividad	O
+ha	O
+tenido	O
+una	O
+discusión	O
+con	O
+un	O
+policía	B-PROFESION
+municipal	I-PROFESION
+que	O
+lo	O
+ha	O
+denunciado	O
+por	O
+desacato	O
+.	O

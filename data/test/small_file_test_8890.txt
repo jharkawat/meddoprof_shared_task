@@ -1,0 +1,21 @@
+
+En	O
+noviembre	O
+de	O
+2011	O
+se	O
+constató	O
+en	O
+control	O
+mediante	O
+TC	O
+recidiva	O
+ganglionar	O
+inguinal	O
+bilateral	O
+,	O
+que	O
+se	O
+confirma	O
+anatomopatológicamente	O
+.	O

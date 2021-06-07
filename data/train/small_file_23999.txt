@@ -1,0 +1,6 @@
+
+Aspecto	O
+e	O
+higiene	O
+descuidada	O
+.	O

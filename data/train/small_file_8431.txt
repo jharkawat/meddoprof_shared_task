@@ -1,0 +1,25 @@
+
+Anamnesis	O
+por	O
+aparatos	O
+rigurosamente	O
+normal	O
+,	O
+salvo	O
+un	O
+dudoso	O
+Raynaud	O
+,	O
+con	O
+dolor	O
+en	O
+dedos	O
+con	O
+el	O
+frío	O
+y	O
+un	O
+̃	O
+as	O
+moradas	O
+.	O

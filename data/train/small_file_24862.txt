@@ -1,0 +1,14 @@
+
+Tratamiento	O
+habitual	O
+:	O
+risperidona	O
+9mg	O
+/	O
+día	O
+,	O
+lorazepam	O
+3mg	O
+/	O
+día	O
+.	O

@@ -1,0 +1,24 @@
+
+Aunque	O
+Laura	O
+no	O
+cree	O
+que	O
+Raúl	O
+haya	O
+consumido	O
+drogas	O
+,	O
+decide	O
+comprobarlo	O
+,	O
+pues	O
+no	O
+es	O
+la	O
+primera	O
+vez	O
+que	O
+se	O
+equivoca	O
+.	O

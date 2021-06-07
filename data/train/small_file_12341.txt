@@ -1,0 +1,9 @@
+
+Su	O
+esposa	O
+afirma	O
+haber	O
+observado	O
+pausas	O
+respiratorias	O
+.	O

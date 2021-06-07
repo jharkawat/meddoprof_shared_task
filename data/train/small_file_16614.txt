@@ -1,0 +1,27 @@
+
+Con	O
+estos	O
+resultados	O
+,	O
+el	O
+paciente	O
+fue	O
+dado	O
+de	O
+alta	O
+y	O
+se	O
+programó	O
+su	O
+ingreso	O
+para	O
+realizar	O
+la	O
+biopsia	O
+de	O
+una	O
+de	O
+las	O
+lesiones	O
+cerebrales	O
+.	O

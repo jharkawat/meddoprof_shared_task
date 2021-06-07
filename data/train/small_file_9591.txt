@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+en	O
+planta	O
+mantiene	O
+fiebre	O
+alta	O
+los	O
+primeros	O
+días	O
+del	O
+ingreso	O
+,	O
+a	O
+pesar	O
+de	O
+antibioterapia	O
+empírica	O
+con	O
+imipenem	O
+y	O
+AINES	O
+.	O

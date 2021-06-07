@@ -1,0 +1,22 @@
+
+En	O
+abril	O
+de	O
+2013	O
+presenta	O
+neoplasia	O
+vesical	O
+realizándose	O
+RTU	O
+que	O
+se	O
+informa	O
+de	O
+carcinoma	O
+urotelial	O
+de	O
+vejiga	O
+,	O
+pT1	O
+G3	O
+.	O

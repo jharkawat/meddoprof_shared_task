@@ -1,0 +1,24 @@
+
+Ha	O
+perdido	O
+interés	O
+por	O
+la	O
+escuela	O
+y	O
+por	O
+las	O
+actividades	O
+sociales	O
+,	O
+y	O
+durante	O
+los	O
+últimos	O
+6	O
+meses	O
+casi	O
+no	O
+ha	O
+estudiado	O
+.	O

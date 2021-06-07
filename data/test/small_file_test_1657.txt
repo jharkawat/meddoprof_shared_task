@@ -1,0 +1,12 @@
+
+Fue	O
+intervenido	O
+quirúrgicamente	O
+a	O
+los	O
+50	O
+años	O
+de	O
+fístula	O
+perianal	O
+.	O

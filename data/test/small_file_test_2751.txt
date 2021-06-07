@@ -1,0 +1,11 @@
+
+Todo	O
+esto	O
+se	O
+corresponde	O
+con	O
+el	O
+diagnóstico	O
+de	O
+cordoma	O
+.	O

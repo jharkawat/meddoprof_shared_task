@@ -1,0 +1,22 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+y	O
+desde	O
+hacía	O
+dos	O
+y	O
+años	O
+,	O
+tenía	O
+una	O
+media	O
+semanal	O
+de	O
+cuatro	O
+atracones	O
+/	O
+vómitos	O
+.	O

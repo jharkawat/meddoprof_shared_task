@@ -1,0 +1,23 @@
+
+»	O
+Biopsia	O
+de	O
+la	O
+masa	O
+mediastínica	O
+anterior	O
+:	O
+neoplasia	O
+maligna	O
+,	O
+que	O
+muestra	O
+características	O
+citomorfológicas	O
+,	O
+encuadrables	O
+en	O
+un	O
+sarcoma	O
+pleomórfico	O
+.	O

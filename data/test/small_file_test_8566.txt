@@ -1,0 +1,19 @@
+
+Pólipo	O
+endometrial	O
+en	O
+el	O
+año	O
+2012	O
+asintomático	O
+,	O
+detectado	O
+en	O
+revisión	O
+rutinaria	O
+y	O
+fue	O
+resecado	O
+mediante	O
+laparoscopia	O
+.	O

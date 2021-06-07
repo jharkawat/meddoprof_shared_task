@@ -1,0 +1,10 @@
+
+Trabajaba	B-PROFESION
+de	I-PROFESION
+personal	I-PROFESION
+docente	I-PROFESION
+en	O
+un	O
+ambiente	O
+rural	O
+.	O

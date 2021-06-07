@@ -1,0 +1,21 @@
+
+Era	O
+la	O
+única	O
+mujer	O
+de	O
+su	O
+curso	O
+y	O
+un	O
+año	O
+después	O
+abandonó	O
+porque	O
+no	O
+le	O
+gustaba	O
+más	O
+la	O
+escuela	O
+.	O

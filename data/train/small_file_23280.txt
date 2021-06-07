@@ -1,0 +1,17 @@
+
+El	O
+cuadro	O
+se	O
+identificó	O
+como	O
+un	O
+Episodio	O
+Disociativo	O
+Agudo	O
+versus	O
+Psicótico	O
+Agudo	O
+con	O
+clínica	O
+maniforme	O
+.	O

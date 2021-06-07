@@ -1,0 +1,23 @@
+
+Decide	O
+acudir	O
+a	O
+la	O
+consulta	O
+de	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+pues	O
+desde	O
+hace	O
+unas	O
+semanas	O
+nota	O
+retracción	O
+del	O
+pezón	O
+derecho	O
+.	O

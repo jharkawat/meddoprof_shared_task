@@ -1,0 +1,18 @@
+
+Comenta	O
+que	O
+algunas	O
+personas	O
+le	O
+miran	O
+de	O
+forma	O
+especial	O
+y	O
+que	O
+los	O
+vecinos	O
+hablan	O
+de	O
+él	O
+.	O

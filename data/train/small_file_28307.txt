@@ -1,0 +1,7 @@
+
+Parto	O
+y	O
+puerperio	O
+sin	O
+incidencias	O
+.	O

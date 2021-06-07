@@ -1,0 +1,13 @@
+
+Discurso	O
+espontáneo	O
+,	O
+con	O
+cierta	O
+latencia	O
+de	O
+respuesta	O
+,	O
+y	O
+perseveración	O
+.	O

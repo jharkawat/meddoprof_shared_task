@@ -1,0 +1,13 @@
+
+Entre	O
+las	O
+enfermedades	O
+autoinmunes	O
+habría	O
+que	O
+considerar	O
+sobre	O
+todo	O
+la	O
+sarcoidosis	O
+.	O

@@ -1,0 +1,16 @@
+
+Como	O
+efectos	O
+secundarios	O
+de	O
+la	O
+radioterapia	O
+presenta	O
+dermitis	O
+grado	O
+1	O
+y	O
+mucositis	O
+grado	O
+1	O
+.	O

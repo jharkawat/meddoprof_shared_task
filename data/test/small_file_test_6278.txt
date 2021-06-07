@@ -1,0 +1,4 @@
+
+Paciente	O
+frágil	O
+.	O

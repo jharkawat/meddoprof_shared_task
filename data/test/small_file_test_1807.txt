@@ -1,0 +1,8 @@
+
+Auscultación	O
+pulmonar	O
+:	O
+hipoventilación	O
+basal	O
+derecha	O
+.	O

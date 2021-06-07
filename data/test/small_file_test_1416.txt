@@ -1,0 +1,13 @@
+
+Se	O
+detectaron	O
+imágenes	O
+periapicales	O
+radiolúcidas	O
+en	O
+la	O
+pieza	O
+1	O
+.	O
+7	O
+.	O

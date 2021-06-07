@@ -1,0 +1,15 @@
+
+Padre	O
+diagnosticado	O
+a	O
+los	O
+72	O
+de	O
+un	O
+carcinoma	O
+escamoso	O
+de	O
+pilar	O
+amigdalino	O
+izquierdo	O
+.	O

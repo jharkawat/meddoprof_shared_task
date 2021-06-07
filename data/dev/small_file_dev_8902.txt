@@ -1,0 +1,26 @@
+
+Presentó	O
+una	O
+tuberculosis	O
+pulmonar	O
+(	O
+TBP	O
+)	O
+10	O
+años	O
+antes	O
+tratada	O
+en	O
+su	O
+país	O
+durante	O
+seis	O
+meses	O
+con	O
+una	O
+pauta	O
+diaria	O
+que	O
+contenía	O
+rifampicina	O
+.	O

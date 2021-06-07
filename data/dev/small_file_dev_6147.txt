@@ -1,0 +1,27 @@
+
+•	O
+Cándida	O
+albicans	O
+:	O
+Es	O
+un	O
+patógeno	O
+que	O
+produce	O
+principalmente	O
+artritis	O
+en	O
+pacientes	O
+que	O
+eran	O
+usuarios	O
+de	O
+drogas	O
+por	O
+vía	O
+parenteral	O
+,	O
+principalmente	O
+heroína	O
+marrón	O
+.	O

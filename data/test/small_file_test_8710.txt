@@ -1,0 +1,4 @@
+
+Peristaltismo	O
+presente	O
+.	O

@@ -1,0 +1,17 @@
+
+En	O
+la	O
+TC	O
+de	O
+control	O
+,	O
+se	O
+apreciaba	O
+una	O
+atelectasia	O
+completa	O
+del	O
+lóbulo	O
+superior	O
+izquierdo	O
+.	O

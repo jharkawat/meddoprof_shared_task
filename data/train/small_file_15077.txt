@@ -1,0 +1,20 @@
+
+En	O
+marzo	O
+de	O
+2017	O
+acude	O
+a	O
+consulta	O
+de	O
+cardiología	O
+un	O
+varón	O
+de	O
+75	O
+años	O
+por	O
+disnea	O
+de	O
+esfuerzo	O
+.	O

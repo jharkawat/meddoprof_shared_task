@@ -1,0 +1,13 @@
+
+Los	O
+bordes	O
+de	O
+resección	O
+quirúrgica	O
+se	O
+encontraban	O
+libres	O
+de	O
+afectación	O
+neoplásica	O
+.	O

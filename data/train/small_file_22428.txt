@@ -1,0 +1,19 @@
+
+Tabaquismo	O
+activo	O
+,	O
+bronquitis	O
+crónica	O
+,	O
+VIH	O
+estadío	O
+C3	O
+con	O
+TARGA	O
+desde	O
+1996	O
+,	O
+VHC	O
+genotipo	O
+4	O
+.	O

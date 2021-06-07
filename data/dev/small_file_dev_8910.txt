@@ -1,0 +1,22 @@
+
+En	O
+la	O
+analítica	O
+de	O
+urgencias	O
+presentaba	O
+9600	O
+x10e9	O
+/	O
+L	O
+leucocitos	O
+,	O
+13	O
+.	O
+5	O
+%	O
+monocitos	O
+;	O
+resto	O
+normal	O
+.	O

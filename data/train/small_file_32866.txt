@@ -1,0 +1,13 @@
+
+Ayudar	O
+al	O
+paciente	O
+a	O
+identificar	O
+las	O
+situaciones	O
+que	O
+precipitan	O
+la	O
+ansiedad	O
+.	O

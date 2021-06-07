@@ -1,0 +1,20 @@
+
+Antecedentes	O
+de	O
+hipertensión	O
+arterial	O
+estando	O
+bien	O
+controlado	O
+con	O
+dos	O
+fármacos	O
+,	O
+enalapril	O
+5	O
+mg	O
+y	O
+manidipino	O
+10	O
+mg	O
+.	O

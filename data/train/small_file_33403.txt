@@ -1,0 +1,21 @@
+
+En	O
+un	O
+primer	O
+momento	O
+se	O
+retiró	O
+quetiapina	O
+debido	O
+a	O
+su	O
+falta	O
+de	O
+efectividad	O
+y	O
+se	O
+introdujo	O
+olanzapina	O
+5	O
+mg	O
+.	O

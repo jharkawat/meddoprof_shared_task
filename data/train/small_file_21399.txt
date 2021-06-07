@@ -1,0 +1,8 @@
+
+Abandonó	O
+el	O
+tratamiento	O
+en	O
+pocos	O
+meses	O
+.	O

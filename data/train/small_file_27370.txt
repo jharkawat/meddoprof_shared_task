@@ -1,0 +1,23 @@
+
+Sus	O
+padres	O
+han	O
+encontrado	O
+escritos	O
+con	O
+sus	O
+objetivos	O
+,	O
+así	O
+como	O
+una	O
+lista	O
+de	O
+otras	O
+personas	O
+a	O
+las	O
+que	O
+quería	O
+agredir	O
+.	O

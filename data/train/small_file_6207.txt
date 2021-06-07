@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+nacida	O
+en	O
+Sudamérica	O
+reside	O
+en	O
+nuestro	O
+país	O
+desde	O
+hace	O
+5	O
+años	O
+.	O

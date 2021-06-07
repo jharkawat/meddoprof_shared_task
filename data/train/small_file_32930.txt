@@ -1,0 +1,23 @@
+
+El	O
+humor	O
+básico	O
+era	O
+hipotímico	O
+,	O
+la	O
+reactividad	O
+emocional	O
+escasa	O
+,	O
+se	O
+mostraba	O
+apático	O
+y	O
+carecía	O
+de	O
+cualquier	O
+proyecto	O
+de	O
+futuro	O
+.	O

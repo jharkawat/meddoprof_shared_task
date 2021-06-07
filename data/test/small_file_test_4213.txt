@@ -1,0 +1,20 @@
+
+Había	O
+tenido	O
+distermia	O
+y	O
+pérdida	O
+ponderal	O
+progresiva	O
+de	O
+,	O
+aproximadamente	O
+,	O
+6	O
+-	O
+7	O
+kg	O
+en	O
+esos	O
+meses	O
+.	O

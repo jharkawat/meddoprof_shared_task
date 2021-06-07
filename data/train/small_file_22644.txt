@@ -1,0 +1,7 @@
+
+La	O
+ideación	O
+suicida	O
+había	O
+desaparecido	O
+.	O

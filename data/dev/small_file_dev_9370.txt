@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+no	O
+presentaba	O
+clínica	O
+sistémica	O
+sugestiva	O
+ni	O
+alteraciones	O
+en	O
+la	O
+radiografía	O
+de	O
+tórax	O
+compatibles	O
+.	O

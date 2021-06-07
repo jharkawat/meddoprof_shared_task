@@ -1,0 +1,25 @@
+
+Se	O
+descarta	O
+patología	O
+somática	O
+compatible	O
+con	O
+los	O
+episodios	O
+y	O
+es	O
+derivado	O
+a	O
+nuestro	O
+servicio	O
+en	O
+Octubre	O
+de	O
+2018	O
+por	O
+sospecha	O
+de	O
+etiología	O
+psicógena	O
+.	O

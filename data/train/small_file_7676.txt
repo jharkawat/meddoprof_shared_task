@@ -1,0 +1,26 @@
+
+La	O
+paciente	O
+fue	O
+derivada	O
+al	O
+servicio	O
+de	O
+traumatología	O
+,	O
+donde	O
+fue	O
+valorada	O
+y	O
+se	O
+desestimó	O
+realizar	O
+ningún	O
+tratamiento	O
+,	O
+por	O
+tratarse	O
+de	O
+hernias	O
+asintomáticas	O
+.	O

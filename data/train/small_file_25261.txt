@@ -1,0 +1,20 @@
+
+Probable	O
+hepatopatía	O
+crónica	O
+avanzada	O
+por	O
+presentar	O
+en	O
+2005	O
+una	O
+ecografía	O
+abdominal	O
+con	O
+signos	O
+de	O
+hipertensión	O
+portal	O
+y	O
+esplenomegalia	O
+.	O

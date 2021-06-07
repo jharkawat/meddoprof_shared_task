@@ -1,0 +1,11 @@
+
+Antisocial	O
+de	O
+la	O
+personalidad	O
+y	O
+abuso	O
+de	O
+múltiples	O
+tóxicos	O
+.	O

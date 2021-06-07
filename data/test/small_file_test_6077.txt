@@ -1,0 +1,14 @@
+
+Se	O
+solicitó	O
+una	O
+TC	O
+de	O
+reevaluación	O
+que	O
+se	O
+encuentra	O
+pendiente	O
+de	O
+realizar	O
+.	O

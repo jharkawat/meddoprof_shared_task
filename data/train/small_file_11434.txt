@@ -1,0 +1,24 @@
+
+Aceptable	O
+estado	O
+general	O
+,	O
+afebril	O
+(	O
+36	O
+,	O
+5o	O
+)	O
+,	O
+eupneico	O
+en	O
+reposo	O
+,	O
+saturando	O
+al	O
+99	O
+%	O
+respirando	O
+aire	O
+ambiente	O
+.	O

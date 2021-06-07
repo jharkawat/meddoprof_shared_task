@@ -1,0 +1,10 @@
+
+En	O
+cavidad	O
+abdominal	O
+no	O
+se	O
+observan	O
+focos	O
+hipermetabólicos	O
+.	O

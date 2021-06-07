@@ -1,0 +1,27 @@
+
+Una	O
+hora	O
+después	O
+de	O
+llegar	O
+a	O
+Urgencias	O
+presentó	O
+una	O
+crisis	O
+tónico	O
+-	O
+clónica	O
+generalizada	O
+que	O
+cedió	O
+tras	O
+la	O
+administración	O
+de	O
+2	O
+mg	O
+de	O
+diazepam	O
+intravenoso	O
+.	O

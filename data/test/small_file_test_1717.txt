@@ -1,0 +1,12 @@
+
+La	O
+lesión	O
+fue	O
+enviada	O
+en	O
+su	O
+totalidad	O
+para	O
+estudio	O
+anatomopatológico	O
+.	O

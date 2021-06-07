@@ -1,0 +1,10 @@
+
+Sepsis	O
+respiratoria	O
+por	O
+tuberculosis	O
+pulmonar	O
+y	O
+SHF	O
+secundario	O
+.	O

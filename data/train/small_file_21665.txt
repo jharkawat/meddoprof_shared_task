@@ -1,0 +1,22 @@
+
+En	O
+el	O
+período	O
+previo	O
+a	O
+la	O
+consulta	O
+,	O
+relata	O
+sufrir	O
+crisis	O
+todos	O
+los	O
+días	O
+e	O
+incluso	O
+varias	O
+veces	O
+al	O
+día	O
+.	O

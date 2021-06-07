@@ -1,0 +1,6 @@
+
+El	O
+afecto	O
+era	O
+lábil	O
+.	O

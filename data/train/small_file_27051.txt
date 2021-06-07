@@ -1,0 +1,6 @@
+
+Prueba	O
+de	O
+embarazo	O
+negativa	O
+.	O

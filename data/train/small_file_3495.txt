@@ -1,0 +1,19 @@
+
+Mejoró	O
+con	O
+el	O
+cese	O
+de	O
+la	O
+ingesta	O
+de	O
+alcohol	O
+y	O
+la	O
+toma	O
+de	O
+pregabalina	O
+en	O
+pauta	O
+descendente	O
+.	O

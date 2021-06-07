@@ -1,0 +1,15 @@
+
+En	O
+el	O
+electroneurograma	O
+puso	O
+de	O
+manifiesto	O
+una	O
+polineuropatía	O
+de	O
+predominio	O
+sensitivo	O
+y	O
+axonal	O
+.	O

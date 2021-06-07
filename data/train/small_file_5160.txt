@@ -1,0 +1,5 @@
+
+Ondas	O
+T	O
+positivas	O
+.	O

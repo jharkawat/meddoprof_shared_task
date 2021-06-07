@@ -1,0 +1,12 @@
+
+G1A0P1	O
+,	O
+fecha	O
+de	O
+parto	O
+30	O
+/	O
+04	O
+/	O
+2012	O
+.	O

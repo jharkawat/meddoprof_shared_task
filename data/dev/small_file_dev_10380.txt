@@ -1,0 +1,17 @@
+
+Antecedentes	O
+:	O
+Se	O
+crió	O
+en	O
+un	O
+pueblo	O
+de	O
+provincia	O
+de	O
+una	O
+región	O
+rural	O
+del	O
+país	O
+.	O

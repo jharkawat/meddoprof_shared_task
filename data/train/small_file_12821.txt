@@ -1,0 +1,6 @@
+
+No	O
+otros	O
+antecedentes	O
+médicos	O
+.	O

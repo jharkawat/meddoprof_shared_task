@@ -1,0 +1,5 @@
+
+Sin	O
+ideación	O
+suicida	O
+.	O

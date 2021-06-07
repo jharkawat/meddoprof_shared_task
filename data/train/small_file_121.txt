@@ -1,0 +1,11 @@
+
+No	O
+había	O
+carencias	O
+neurológicas	O
+focales	O
+ni	O
+afectaciones	O
+cognitivas	O
+aparentes	O
+.	O

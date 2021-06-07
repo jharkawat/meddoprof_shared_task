@@ -1,0 +1,19 @@
+
+Antecedentes	O
+patológicos	O
+de	O
+hipertensión	O
+arterial	O
+en	O
+tratamiento	O
+con	O
+enalapril	O
+y	O
+familiares	O
+con	O
+neoplasias	O
+de	O
+pulmón	O
+y	O
+mama	O
+.	O

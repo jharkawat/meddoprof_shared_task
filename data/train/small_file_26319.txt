@@ -1,0 +1,24 @@
+
+Etapa	O
+de	O
+Educación	O
+Primaria	O
+en	O
+centro	O
+escolar	O
+público	O
+,	O
+cambiando	O
+en	O
+el	O
+segundo	O
+curso	O
+a	O
+otro	O
+centro	O
+por	O
+preferencia	O
+de	O
+los	O
+padres	O
+.	O

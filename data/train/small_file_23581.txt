@@ -1,0 +1,10 @@
+
+Eje	O
+1	O
+:	O
+Dependencia	O
+de	O
+cannabis	O
+y	O
+alcohol	O
+.	O

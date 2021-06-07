@@ -1,0 +1,5 @@
+
+Tiene	O
+dormitorio	O
+propio	O
+.	O

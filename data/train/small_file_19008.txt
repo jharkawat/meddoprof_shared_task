@@ -1,0 +1,24 @@
+
+Tras	O
+un	O
+permiso	O
+domiciliario	O
+,	O
+la	O
+paciente	O
+se	O
+encuentra	O
+casi	O
+totalmente	O
+restablecida	O
+,	O
+con	O
+deseos	O
+de	O
+volver	O
+a	O
+casa	O
+con	O
+sus	O
+hijos	O
+.	O

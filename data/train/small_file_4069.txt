@@ -1,0 +1,11 @@
+
+Exploración	O
+otorrinolaringológica	O
+:	O
+faringe	O
+sin	O
+exudados	O
+ni	O
+placas	O
+purulentas	O
+.	O

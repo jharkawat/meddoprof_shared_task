@@ -1,0 +1,7 @@
+
+Se	O
+procede	O
+a	O
+hemicolectomía	O
+derecha	O
+.	O

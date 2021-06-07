@@ -1,0 +1,22 @@
+
+Pocos	O
+días	O
+tras	O
+la	O
+hospitalización	O
+fue	O
+necesario	O
+suspender	O
+la	O
+profilaxis	O
+con	O
+valganciclovir	O
+por	O
+presentar	O
+neutropenia	O
+de	O
+800	O
+neutrófilos	O
+/	O
+mm3	O
+.	O

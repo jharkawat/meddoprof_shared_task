@@ -1,0 +1,18 @@
+
+Refiere	O
+sentirse	O
+deprimido	O
+en	O
+relación	O
+con	O
+estas	O
+sensaciones	O
+,	O
+expresando	O
+deseos	O
+de	O
+muerte	O
+en	O
+algunos	O
+momentos	O
+.	O

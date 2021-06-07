@@ -1,0 +1,19 @@
+
+ECOCARDIO	O
+:	O
+ventrículo	O
+izquierdo	O
+dilatado	O
+,	O
+hipertrofia	O
+concéntrica	O
+con	O
+FE	O
+(	O
+fracción	O
+de	O
+eyección	O
+)	O
+35	O
+%	O
+.	O

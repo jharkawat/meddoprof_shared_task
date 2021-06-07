@@ -1,0 +1,6 @@
+
+Primer	O
+y	O
+único	O
+embarazo	O
+.	O

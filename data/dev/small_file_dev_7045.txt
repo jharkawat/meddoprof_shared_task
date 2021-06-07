@@ -1,0 +1,25 @@
+
+Finalmente	O
+,	O
+en	O
+los	O
+hemcoultivos	O
+para	O
+micobacterias	O
+creció	O
+M	O
+.	O
+tuberculosis	O
+,	O
+sensible	O
+a	O
+estreptomicina	O
+,	O
+rifampicina	O
+,	O
+pirazinamida	O
+,	O
+isoniazida	O
+y	O
+etambutol	O
+.	O

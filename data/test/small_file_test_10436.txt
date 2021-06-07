@@ -1,0 +1,18 @@
+
+En	O
+enero	O
+de	O
+2017	O
+,	O
+se	O
+reinicia	O
+la	O
+doble	O
+inhibición	O
+con	O
+dosis	O
+reducidas	O
+según	O
+ficha	O
+técnica	O
+.	O

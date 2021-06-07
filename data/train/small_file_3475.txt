@@ -1,0 +1,21 @@
+
+Disminución	O
+de	O
+sensibilidad	O
+dolorosa	O
+y	O
+epicrítica	O
+en	O
+EII	O
+sin	O
+frialdad	O
+de	O
+miembros	O
+y	O
+pulso	O
+pedio	O
+conservado	O
+,	O
+propiocepción	O
+normal	O
+.	O

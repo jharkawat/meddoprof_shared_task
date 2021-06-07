@@ -1,0 +1,10 @@
+
+-	O
+Signos	O
+de	O
+mucositis	O
+oral	O
+con	O
+sobreinfección	O
+fúngica	O
+.	O

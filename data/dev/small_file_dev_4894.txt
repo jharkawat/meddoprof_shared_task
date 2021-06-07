@@ -1,0 +1,15 @@
+
+Motivo	O
+de	O
+consulta	O
+:	O
+Paciente	O
+de	O
+75	O
+años	O
+que	O
+ingresa	O
+procedente	O
+de	O
+urgencias	O
+.	O

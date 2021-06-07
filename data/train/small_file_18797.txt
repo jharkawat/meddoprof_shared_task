@@ -1,0 +1,17 @@
+
+Se	O
+niega	O
+a	O
+realizar	O
+otros	O
+tratamientos	O
+que	O
+requieren	O
+ingreso	O
+para	O
+poder	O
+ayudar	O
+a	O
+su	O
+hija	O
+.	O

@@ -1,0 +1,25 @@
+
+Acudió	O
+a	O
+nuestra	O
+consulta	O
+derivada	O
+desde	O
+el	O
+Servicio	O
+de	O
+Alergología	O
+por	O
+ánimo	O
+bajo	O
+que	O
+según	O
+referían	O
+complicaba	O
+el	O
+abordaje	O
+de	O
+su	O
+sintomatología	O
+alérgica	O
+.	O

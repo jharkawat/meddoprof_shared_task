@@ -1,0 +1,16 @@
+
+También	O
+presentaba	O
+astenia	O
+,	O
+sensación	O
+febril	O
+no	O
+termometrada	O
+y	O
+pérdida	O
+de	O
+peso	O
+no	O
+cuantificada	O
+.	O

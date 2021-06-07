@@ -1,0 +1,18 @@
+
+-	O
+Enfermedades	O
+infecciosas	O
+:	O
+Los	O
+hemocultivos	O
+,	O
+urocultivo	O
+,	O
+sistemático	O
+de	O
+orina	O
+y	O
+Quantiferon	O
+fueron	O
+negativos	O
+.	O

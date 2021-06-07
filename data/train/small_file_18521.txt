@@ -1,0 +1,10 @@
+
+e	O
+infusión	O
+de	O
+Haloperidol	O
+2mg	O
+/	O
+cada	O
+hora	O
+.	O

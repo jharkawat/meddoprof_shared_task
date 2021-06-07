@@ -1,0 +1,13 @@
+
+Contacto	O
+exclusivamente	O
+telefónico	O
+con	O
+su	O
+padre	O
+biológico	O
+desde	O
+hace	O
+2	O
+años	O
+.	O

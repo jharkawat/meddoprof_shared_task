@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+durante	O
+todo	O
+este	O
+tiempo	O
+había	O
+mantenido	O
+tratamiento	O
+domiciliario	O
+con	O
+prednisona	O
+,	O
+tacrolimus	O
+y	O
+valganciclovir	O
+profiláctico	O
+.	O

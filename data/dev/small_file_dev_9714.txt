@@ -1,0 +1,16 @@
+
+La	O
+lesión	O
+permanece	O
+estable	O
+y	O
+sigue	O
+controles	O
+periódicos	O
+por	O
+atencion	O
+primaria	O
+y	O
+salud	O
+laboral	O
+.	O

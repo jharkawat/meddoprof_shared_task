@@ -1,0 +1,26 @@
+
+No	O
+se	O
+han	O
+observado	O
+síntomas	O
+afectivos	O
+significativos	O
+,	O
+lo	O
+que	O
+permite	O
+descartar	O
+un	O
+trastorno	O
+esquizoafectivo	O
+y	O
+un	O
+trastorno	O
+depresivo	O
+o	O
+bipolar	O
+con	O
+características	O
+psicóticas	O
+.	O

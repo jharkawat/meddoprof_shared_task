@@ -1,0 +1,15 @@
+
+Antecedentes	O
+familiares	O
+:	O
+familiar	O
+de	O
+tercer	O
+grado	O
+con	O
+diagnóstico	O
+de	O
+trastorno	O
+obsesivo	O
+compulsivo	O
+.	O

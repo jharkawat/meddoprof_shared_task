@@ -1,0 +1,24 @@
+
+Las	O
+molestias	O
+gástricas	O
+resultaron	O
+ser	O
+de	O
+causa	O
+orgánica	O
+,	O
+una	O
+úlcera	O
+gástrica	O
+que	O
+llegó	O
+incluso	O
+a	O
+perforarse	O
+y	O
+requerir	O
+intervención	O
+de	O
+urgencia	O
+.	O

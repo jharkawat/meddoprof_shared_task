@@ -1,0 +1,25 @@
+
+El	O
+ingreso	O
+en	O
+el	O
+Centro	O
+de	O
+Patología	O
+Dual	O
+fue	O
+de	O
+carácter	O
+voluntario	O
+,	O
+programado	O
+,	O
+derivado	O
+desde	O
+un	O
+Centro	O
+de	O
+Atención	O
+al	O
+Drogodependiente	O
+.	O

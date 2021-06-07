@@ -1,0 +1,17 @@
+
+Ella	O
+se	O
+sentía	O
+orgullosa	O
+diciéndoles	O
+a	O
+sus	O
+vecinos	O
+que	O
+él	O
+era	O
+"	O
+realmente	O
+bueno	O
+"	O
+.	O

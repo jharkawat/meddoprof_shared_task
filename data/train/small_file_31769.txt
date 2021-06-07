@@ -1,0 +1,10 @@
+
+Impresiona	O
+el	O
+deterioro	O
+cognitivo	O
+asociado	O
+a	O
+su	O
+enfermedad	O
+.	O

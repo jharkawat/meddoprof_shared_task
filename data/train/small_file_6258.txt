@@ -1,0 +1,10 @@
+
+Juicio	O
+clínico	O
+:	O
+síndrome	O
+de	O
+Guillain	O
+-	O
+Barré	O
+.	O

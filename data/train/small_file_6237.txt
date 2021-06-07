@@ -1,0 +1,15 @@
+
+Es	O
+diagnosticado	O
+de	O
+faringitis	O
+aguda	O
+y	O
+tratado	O
+con	O
+azitromicina	O
+,	O
+acetilcisteina	O
+y	O
+paracetamol	O
+.	O

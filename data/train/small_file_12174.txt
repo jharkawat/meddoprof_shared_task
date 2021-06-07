@@ -1,0 +1,15 @@
+
+La	O
+radiografía	O
+(	O
+Rx	O
+)	O
+de	O
+tórax	O
+y	O
+la	O
+ecografía	O
+abdominal	O
+fueron	O
+normales	O
+.	O

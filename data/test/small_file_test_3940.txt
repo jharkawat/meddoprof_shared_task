@@ -1,0 +1,18 @@
+
+Desde	O
+la	O
+primera	O
+intervención	O
+la	O
+paciente	O
+presenta	O
+amenorrea	O
+prolongada	O
+y	O
+una	O
+galactorrea	O
+que	O
+fueron	O
+cediendo	O
+posteriormente	O
+.	O

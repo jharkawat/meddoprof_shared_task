@@ -1,0 +1,21 @@
+
+Irregularidad	O
+en	O
+hábitos	O
+alimenticios	O
+,	O
+los	O
+días	O
+que	O
+no	O
+acude	O
+a	O
+Hospital	O
+de	O
+Día	O
+compra	O
+comida	O
+precocinada	O
+o	O
+bocadillos	O
+.	O

@@ -1,0 +1,15 @@
+
+A	O
+nivel	O
+farmacológico	O
+,	O
+se	O
+mantiene	O
+en	O
+monoterapia	O
+con	O
+clozapina	O
+150	O
+mg	O
+/	O
+día	O

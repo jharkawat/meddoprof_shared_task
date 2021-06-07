@@ -1,0 +1,6 @@
+
+Resto	O
+de	O
+bioquímica	O
+normal	O
+.	O

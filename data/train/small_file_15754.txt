@@ -1,0 +1,14 @@
+
+Antecedentes	O
+médicos	O
+:	O
+no	O
+hipertensión	O
+arterial	O
+,	O
+no	O
+dislipemia	O
+ni	O
+diabetes	O
+mellitus	O
+.	O

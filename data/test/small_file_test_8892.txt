@@ -1,0 +1,16 @@
+
+Requirió	O
+reducción	O
+de	O
+dosis	O
+por	O
+toxicidad	O
+hematológica	O
+(	O
+anemia	O
+G3	O
+y	O
+trombopenia	O
+G1	O
+)	O
+.	O

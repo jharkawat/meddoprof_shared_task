@@ -1,0 +1,27 @@
+
+La	O
+paciente	O
+refería	O
+las	O
+lesiones	O
+de	O
+4	O
+meses	O
+de	O
+evolución	O
+,	O
+sin	O
+mejoría	O
+a	O
+pesar	O
+del	O
+empleo	O
+de	O
+emolientes	O
+y	O
+en	O
+alguna	O
+ocasión	O
+corticoides	O
+tópicos	O
+.	O

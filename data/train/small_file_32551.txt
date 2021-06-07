@@ -1,0 +1,8 @@
+
+Grado	O
+I	O
+.	O
+Resto	O
+sin	O
+interés	O
+.	O

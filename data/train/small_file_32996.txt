@@ -1,0 +1,20 @@
+
+Durante	O
+el	O
+ingreso	O
+se	O
+suspendió	O
+toda	O
+la	O
+medicación	O
+antipsicótica	O
+permitiendo	O
+tratamiento	O
+únicamente	O
+con	O
+clonazepam	O
+1	O
+mg	O
+al	O
+día	O
+.	O

@@ -1,0 +1,10 @@
+
+Cursó	B-SITUACION_LABORAL
+sus	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+primarios	I-SITUACION_LABORAL
+con	O
+malos	O
+rendimientos	O
+académicos	O
+.	O

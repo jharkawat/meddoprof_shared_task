@@ -1,0 +1,11 @@
+
+Paciente	O
+con	O
+ligero	O
+exoftalmos	O
+sin	O
+bocio	O
+ni	O
+ingurgitación	O
+yugular	O
+.	O

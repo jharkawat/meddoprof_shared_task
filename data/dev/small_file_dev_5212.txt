@@ -1,0 +1,7 @@
+
+Auscultación	O
+pulmonar	O
+:	O
+Hipofonesis	O
+generalizada	O
+.	O

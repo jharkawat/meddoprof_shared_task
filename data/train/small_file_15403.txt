@@ -1,0 +1,10 @@
+
+La	O
+evaluación	O
+cardiovascular	O
+concluye	O
+ausencia	O
+de	O
+enfermedad	O
+cardiovascular	O
+.	O

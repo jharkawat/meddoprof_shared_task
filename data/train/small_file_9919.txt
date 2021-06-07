@@ -1,0 +1,4 @@
+
+Quantiferon	O
+negativo	O
+.	O

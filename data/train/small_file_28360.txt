@@ -1,0 +1,9 @@
+
+Paciente	O
+varón	O
+de	O
+37	O
+años	O
+,	O
+soltero	O
+.	O

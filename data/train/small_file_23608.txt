@@ -1,0 +1,23 @@
+
+La	O
+PAI	O
+es	O
+una	O
+entidad	O
+infradiagnosticada	O
+por	O
+la	O
+inespecificidad	O
+de	O
+su	O
+expresión	O
+clínica	O
+y	O
+por	O
+las	O
+dificultades	O
+técnicas	O
+en	O
+el	O
+diagnóstico	O
+.	O

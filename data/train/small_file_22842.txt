@@ -1,0 +1,22 @@
+
+Explica	O
+que	O
+igual	O
+que	O
+los	O
+huesos	O
+crecen	O
+en	O
+longitud	O
+en	O
+la	O
+infancia	O
+,	O
+cuando	O
+llega	O
+una	O
+edad	O
+crecen	O
+en	O
+grosor	O
+.	O

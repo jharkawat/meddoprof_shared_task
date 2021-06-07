@@ -1,0 +1,10 @@
+
+A	O
+las	O
+pocas	O
+semanas	O
+ambas	O
+lesiones	O
+estaban	O
+resueltas	O
+.	O

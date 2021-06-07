@@ -1,0 +1,13 @@
+
+Refiere	O
+que	O
+su	O
+fecha	O
+de	O
+última	O
+regla	O
+fue	O
+hace	O
+una	O
+semana	O
+.	O

@@ -1,0 +1,20 @@
+
+A	O
+la	O
+madre	O
+y	O
+hermano	O
+se	O
+les	O
+descarta	O
+tuberculosis	O
+activa	O
+realizándose	O
+radiografía	O
+de	O
+tórax	O
+y	O
+cultivo	O
+de	O
+esputo	O
+.	O

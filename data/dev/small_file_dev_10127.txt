@@ -1,0 +1,25 @@
+
+A	O
+veces	O
+se	O
+sentía	O
+extremadamente	O
+feliz	O
+sin	O
+causa	O
+aparente	O
+,	O
+tenía	O
+planes	O
+extravagantes	O
+,	O
+se	O
+mostraba	O
+hiperactivo	O
+y	O
+hablaba	O
+mucho	O
+interfiriendo	O
+en	O
+todo	O
+.	O

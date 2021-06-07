@@ -1,0 +1,23 @@
+
+Se	O
+identifica	O
+una	O
+mutación	O
+en	O
+homocigosis	O
+en	O
+el	O
+gen	O
+AIRE	O
+,	O
+causante	O
+de	O
+síndrome	O
+poliglandular	O
+autoinmune	O
+tipo	O
+I	O
+(	O
+APECED	O
+)	O
+.	O

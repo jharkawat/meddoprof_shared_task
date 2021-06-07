@@ -1,0 +1,24 @@
+
+No	O
+hubo	O
+lesiones	O
+de	O
+importancia	O
+(	O
+vivían	O
+en	O
+un	O
+primer	O
+piso	O
+)	O
+,	O
+pero	O
+el	O
+marido	O
+decidió	O
+iniciar	O
+los	O
+trámites	O
+de	O
+divorcio	O
+.	O

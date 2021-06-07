@@ -1,0 +1,18 @@
+
+Radiografía	O
+de	O
+tórax	O
+anteroposterior	O
+que	O
+muestra	O
+infiltrados	O
+mixtos	O
+difusos	O
+de	O
+predominio	O
+alveolar	O
+en	O
+ambos	O
+campos	O
+pulmonares	O
+.	O

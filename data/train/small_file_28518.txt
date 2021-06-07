@@ -1,0 +1,9 @@
+
+Persiste	O
+clínica	O
+obsesivoide	O
+relacionada	O
+con	O
+las	O
+compras	O
+.	O

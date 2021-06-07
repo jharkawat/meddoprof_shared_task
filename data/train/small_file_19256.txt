@@ -1,0 +1,9 @@
+
+Contención	O
+mecánica	O
+y	O
+farmacológica	O
+con	O
+olanzapina	O
+IM	O
+.	O

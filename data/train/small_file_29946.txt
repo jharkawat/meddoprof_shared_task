@@ -1,0 +1,16 @@
+
+No	O
+consume	O
+tabaco	O
+y	O
+nunca	O
+ha	O
+probado	O
+la	O
+cocaína	O
+,	O
+alucinógenos	O
+ni	O
+otros	O
+tóxicos	O
+.	O

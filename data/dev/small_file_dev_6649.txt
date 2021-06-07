@@ -1,0 +1,6 @@
+
+Puede	O
+ser	O
+secundaria	O
+a	O
+:	O

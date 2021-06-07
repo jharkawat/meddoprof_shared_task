@@ -1,0 +1,15 @@
+
+Depende	O
+de	O
+su	O
+esposa	O
+para	O
+casi	O
+todas	O
+las	O
+actividades	O
+de	O
+la	O
+vida	O
+diaria	O
+.	O

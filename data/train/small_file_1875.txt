@@ -1,0 +1,14 @@
+
+Ambos	O
+casos	O
+presentaron	O
+una	O
+evolución	O
+favorable	O
+sin	O
+efectos	O
+adversos	O
+durante	O
+curas	O
+posteriores	O
+.	O

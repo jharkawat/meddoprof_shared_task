@@ -1,0 +1,20 @@
+
+Se	O
+extirpa	O
+la	O
+lesión	O
+completa	O
+con	O
+márgenes	O
+suficientes	O
+y	O
+se	O
+envía	O
+la	O
+pieza	O
+al	O
+servicio	O
+de	O
+anatomía	O
+patología	O
+.	O

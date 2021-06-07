@@ -1,0 +1,15 @@
+
+Su	O
+actitud	O
+era	O
+adecuada	O
+,	O
+aunque	O
+un	O
+poco	O
+pueril	O
+y	O
+con	O
+cierta	O
+suspicacia	O
+.	O

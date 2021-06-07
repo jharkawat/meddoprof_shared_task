@@ -1,0 +1,4 @@
+
+No	O
+meningismo	O
+.	O

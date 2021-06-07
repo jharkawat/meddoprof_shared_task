@@ -1,0 +1,13 @@
+
+-	O
+Consumo	O
+abusivo	O
+de	O
+hachís	O
+desde	O
+la	O
+adolescencia	O
+hasta	O
+la	O
+actualidad	O
+.	O

@@ -1,0 +1,13 @@
+
+El	O
+electroencefalograma	O
+(	O
+EEG	O
+)	O
+mostraba	O
+actividad	O
+delta	O
+rítmica	O
+intermitente	O
+frontal	O
+.	O

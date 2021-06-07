@@ -1,0 +1,15 @@
+
+Cuando	O
+Ana	O
+le	O
+cuenta	O
+un	O
+problema	O
+coge	O
+el	O
+rosario	O
+y	O
+empieza	O
+a	O
+rezar	O
+.	O

@@ -1,0 +1,18 @@
+
+El	O
+análisis	O
+del	O
+líquido	O
+cefalorraquídeo	O
+(	O
+LCR	O
+)	O
+estaba	O
+limitado	O
+debido	O
+a	O
+una	O
+punción	O
+lumbar	O
+traumática	O
+.	O

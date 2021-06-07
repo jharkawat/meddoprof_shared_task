@@ -1,0 +1,24 @@
+
+No	O
+hay	O
+antecedentes	O
+familiares	O
+somáticos	O
+o	O
+mentales	O
+relevantes	O
+,	O
+aunque	O
+refiere	O
+que	O
+su	O
+madre	O
+ha	O
+sido	O
+desde	O
+siempre	O
+algo	O
+"	O
+nerviosa	O
+"	O
+.	O

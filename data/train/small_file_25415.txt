@@ -1,0 +1,27 @@
+
+No	O
+había	O
+estado	O
+anteriormente	O
+en	O
+tratamiento	O
+por	O
+su	O
+dependencia	O
+a	O
+opioides	O
+legales	O
+,	O
+aunque	O
+sí	O
+con	O
+buprenorfina	O
+por	O
+su	O
+adicción	O
+a	O
+heroína	O
+en	O
+Estados	O
+Unidos	O
+.	O

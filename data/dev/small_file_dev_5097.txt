@@ -1,0 +1,18 @@
+
+A	O
+los	O
+13	O
+días	O
+la	O
+enferma	O
+fue	O
+extubada	O
+y	O
+trasladada	O
+a	O
+la	O
+planta	O
+de	O
+hospitalización	O
+convencional	O
+.	O

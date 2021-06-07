@@ -1,0 +1,27 @@
+
+Se	O
+realizó	O
+biopsia	O
+de	O
+una	O
+de	O
+las	O
+lesiones	O
+cutáneas	O
+,	O
+descritas	O
+previamente	O
+,	O
+con	O
+cultivo	O
+y	O
+baciloscopia	O
+negativos	O
+,	O
+y	O
+diagnóstico	O
+anatomopatológico	O
+de	O
+dermatitis	O
+psoriasiforme	O
+.	O

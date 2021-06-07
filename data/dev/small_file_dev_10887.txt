@@ -1,0 +1,23 @@
+
+Juntamente	O
+con	O
+familiares	O
+,	O
+en	O
+la	O
+guardia	O
+,	O
+realizo	O
+estudios	O
+de	O
+laboratorio	O
+,	O
+Rayo	O
+-	O
+x	O
+,	O
+ECG	O
+y	O
+ecografía	O
+abdominal	O
+.	O

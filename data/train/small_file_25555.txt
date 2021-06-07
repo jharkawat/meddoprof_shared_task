@@ -1,0 +1,7 @@
+
+Presión	O
+del	O
+habla	O
+ligeramente	O
+aumentada	O
+.	O

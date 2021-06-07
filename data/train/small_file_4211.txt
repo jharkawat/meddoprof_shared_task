@@ -1,0 +1,19 @@
+
+Neoplasia	O
+de	O
+vesícula	O
+localmente	O
+avanzada	O
+con	O
+obstrucción	O
+de	O
+vía	O
+biliar	O
+secundaria	O
+a	O
+adenopatías	O
+y	O
+colocación	O
+de	O
+endoprótesis	O
+.	O

@@ -1,0 +1,10 @@
+
+Sedimento	O
+con	O
+10	O
+-	O
+20	O
+hematíes	O
+por	O
+campo	O
+.	O

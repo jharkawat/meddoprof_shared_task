@@ -1,0 +1,10 @@
+
+La	O
+antigenuria	O
+de	O
+Legionella	O
+y	O
+neumococo	O
+fueron	O
+negativas	O
+.	O

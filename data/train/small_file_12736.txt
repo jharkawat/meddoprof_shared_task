@@ -1,0 +1,19 @@
+
+Tras	O
+la	O
+histerectomía	O
+la	O
+paciente	O
+se	O
+mantiene	O
+estable	O
+y	O
+afebril	O
+tras	O
+retirada	O
+de	O
+paracetamol	O
+y	O
+metamizol	O
+pautados	O
+.	O

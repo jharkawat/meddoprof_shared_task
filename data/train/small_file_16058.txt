@@ -1,0 +1,11 @@
+
+Varón	O
+de	O
+42	O
+años	O
+que	O
+consulta	O
+por	O
+alteración	O
+conductual	O
+.	O

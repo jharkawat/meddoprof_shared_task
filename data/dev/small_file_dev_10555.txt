@@ -1,0 +1,10 @@
+
+En	O
+el	O
+domicilio	O
+tiene	O
+2	O
+perros	O
+correctamente	O
+vacunados	O
+.	O

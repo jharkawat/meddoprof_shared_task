@@ -1,0 +1,13 @@
+
+Una	O
+semana	O
+después	O
+el	O
+paciente	O
+refiere	O
+intensa	O
+astenia	O
+de	O
+nueva	O
+aparición	O
+.	O

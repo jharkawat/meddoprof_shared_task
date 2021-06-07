@@ -1,0 +1,22 @@
+
+Dijo	O
+que	O
+no	O
+bebía	O
+alcohol	O
+,	O
+ni	O
+consumía	O
+drogas	O
+ni	O
+tomaba	O
+otros	O
+medicamentos	O
+aparte	O
+de	O
+los	O
+prescritos	O
+para	O
+el	O
+TDAH	O
+.	O

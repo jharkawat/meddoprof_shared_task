@@ -1,0 +1,20 @@
+
+La	O
+aparición	O
+de	O
+abscesos	O
+paravertebrales	O
+es	O
+menos	O
+frecuente	O
+que	O
+en	O
+la	O
+tuberculosis	O
+,	O
+aunque	O
+su	O
+presencia	O
+es	O
+posible	O
+.	O

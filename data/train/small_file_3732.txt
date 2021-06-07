@@ -1,0 +1,16 @@
+
+Por	O
+nuestra	O
+parte	O
+,	O
+ponemos	O
+al	O
+equipo	B-PROFESION
+de	I-PROFESION
+Cuidados	I-PROFESION
+Paliativos	I-PROFESION
+en	O
+conocimiento	O
+del	O
+caso	O
+.	O

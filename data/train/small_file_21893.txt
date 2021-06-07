@@ -1,0 +1,17 @@
+
+No	O
+refiere	O
+conductas	O
+autoagresivas	O
+aunque	O
+si	O
+refiere	O
+heteroagresividad	O
+verbal	O
+dirigida	O
+a	O
+sus	O
+familiares	O
+y	O
+pareja	O
+.	O

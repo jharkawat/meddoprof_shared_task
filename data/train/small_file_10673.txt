@@ -1,0 +1,22 @@
+
+En	O
+tratamiento	O
+para	O
+deshabituación	O
+a	O
+opiáceos	O
+con	O
+metadona	O
+oral	O
+de	O
+mantenimiento	O
+(	O
+120	O
+mg	O
+,	O
+una	O
+vez	O
+al	O
+día	O
+)	O
+.	O

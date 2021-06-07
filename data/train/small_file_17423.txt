@@ -1,0 +1,17 @@
+
+Síndrome	O
+de	O
+cefalea	O
+y	O
+déficit	O
+neurológicos	O
+transitorios	O
+con	O
+linfocitosis	O
+del	O
+líquido	O
+cefalorraquídeo	O
+(	O
+HaNDL	O
+)	O
+.	O

@@ -1,0 +1,22 @@
+
+En	O
+la	O
+entrevista	O
+inicial	O
+,	O
+el	O
+tío	O
+del	O
+paciente	O
+objetiva	O
+que	O
+parece	O
+haber	O
+"	O
+envejecido	O
+50	O
+años	O
+en	O
+1	O
+"	O
+.	O

@@ -1,0 +1,27 @@
+
+Respiratoriamente	O
+persiste	O
+con	O
+insuficiencia	O
+respiratoria	O
+grave	O
+,	O
+precisando	O
+soporte	O
+ventilatorio	O
+,	O
+sin	O
+mejoría	O
+en	O
+los	O
+infiltrados	O
+bilaterales	O
+en	O
+el	O
+estudio	O
+de	O
+la	O
+radiografía	O
+de	O
+tórax	O
+.	O

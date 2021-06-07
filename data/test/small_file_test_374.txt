@@ -1,0 +1,14 @@
+
+Aparente	O
+escoliosis	O
+en	O
+región	O
+dorsal	O
+,	O
+ligero	O
+encorvamiento	O
+en	O
+la	O
+región	O
+cervical	O
+.	O

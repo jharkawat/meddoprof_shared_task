@@ -1,0 +1,18 @@
+
+Su	O
+situación	O
+basal	O
+es	O
+:	O
+activo	O
+e	O
+independiente	O
+para	O
+las	O
+actividades	O
+básicas	O
+de	O
+la	O
+vida	O
+diaria	O
+.	O

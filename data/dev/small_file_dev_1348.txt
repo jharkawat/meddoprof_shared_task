@@ -1,0 +1,18 @@
+
+Se	O
+han	O
+descrito	O
+unos	O
+80	O
+casos	O
+aproximadamente	O
+similares	O
+en	O
+la	O
+literatura	O
+tras	O
+revisar	O
+publicaciones	O
+en	O
+PubMed	O
+.	O

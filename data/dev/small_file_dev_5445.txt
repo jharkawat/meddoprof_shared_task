@@ -1,0 +1,24 @@
+
+Una	O
+puntuación	O
+de	O
+17	O
+correspondería	O
+a	O
+un	O
+patrón	O
+de	O
+síntomas	O
+moderados	O
+con	O
+mala	O
+calidad	O
+de	O
+vida	O
+en	O
+relación	O
+con	O
+su	O
+situación	O
+miccional	O
+.	O

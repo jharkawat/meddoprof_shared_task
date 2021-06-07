@@ -1,0 +1,15 @@
+
+Después	O
+de	O
+ello	O
+se	O
+recluyó	O
+en	O
+su	O
+departamento	O
+y	O
+sólo	O
+salía	O
+de	O
+noche	O
+.	O

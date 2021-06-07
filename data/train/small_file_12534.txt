@@ -1,0 +1,9 @@
+
+No	O
+ha	O
+presentado	O
+pródromos	O
+ni	O
+síndrome	O
+febril	O
+.	O

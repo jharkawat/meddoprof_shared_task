@@ -1,0 +1,16 @@
+
+Hiperqueratosis	O
+evidente	O
+en	O
+ambas	O
+plantas	O
+de	O
+los	O
+pies	O
+con	O
+grietas	O
+sin	O
+otros	O
+datos	O
+reseñables	O
+.	O

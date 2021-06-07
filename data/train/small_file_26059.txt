@@ -1,0 +1,20 @@
+
+Se	O
+diagnostica	O
+de	O
+Esquizofrenia	O
+,	O
+pautándose	O
+Olanzapina	O
+sin	O
+mejoría	O
+;	O
+se	O
+cambia	O
+a	O
+Aripiprazol	O
+,	O
+con	O
+buena	O
+respuesta	O
+.	O

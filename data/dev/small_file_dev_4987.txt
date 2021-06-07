@@ -1,0 +1,18 @@
+
+analítica	O
+:	O
+Glucosa	O
+207	O
+mg	O
+/	O
+dl	O
+,	O
+Urea	O
+67	O
+mg	O
+/	O
+dl	O
+resto	O
+bioquímica	O
+normal	O
+.	O

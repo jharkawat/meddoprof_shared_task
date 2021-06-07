@@ -1,0 +1,10 @@
+
+lo	O
+que	O
+me	O
+pasó	O
+en	O
+Madrid	O
+.	O
+.	O
+.	O

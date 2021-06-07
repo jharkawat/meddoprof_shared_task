@@ -1,0 +1,8 @@
+
+En	O
+la	O
+actualidad	O
+pensionista	B-SITUACION_LABORAL
+por	I-SITUACION_LABORAL
+enfermedad	I-SITUACION_LABORAL
+.	O

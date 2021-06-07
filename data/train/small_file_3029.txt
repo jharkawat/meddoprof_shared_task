@@ -1,0 +1,7 @@
+
+Niega	O
+la	O
+posibilidad	O
+de	O
+embarazo	O
+.	O

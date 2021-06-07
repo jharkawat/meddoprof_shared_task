@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+fue	O
+dada	O
+de	O
+alta	O
+a	O
+su	O
+domicilio	O
+,	O
+asintomática	O
+luego	O
+de	O
+la	O
+quinta	O
+sesión	O
+de	O
+plasmaféresis	O
+.	O

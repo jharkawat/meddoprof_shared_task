@@ -1,0 +1,8 @@
+
+Juicio	O
+clínico	O
+:	O
+fibrilación	O
+auricular	O
+paroxística	O
+.	O

@@ -1,0 +1,15 @@
+
+Se	O
+decide	O
+realizar	O
+una	O
+punción	O
+lumbar	O
+,	O
+obteniendo	O
+un	O
+LCR	O
+de	O
+características	O
+hemáticas	O
+.	O

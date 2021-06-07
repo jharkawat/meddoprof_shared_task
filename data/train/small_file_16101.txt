@@ -1,0 +1,7 @@
+
+Paresia	O
+del	O
+III	O
+par	O
+izquierdo	O
+.	O

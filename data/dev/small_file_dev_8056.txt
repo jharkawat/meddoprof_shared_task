@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+vive	O
+en	O
+ámbito	O
+rural	O
+y	O
+trabaja	B-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+.	O

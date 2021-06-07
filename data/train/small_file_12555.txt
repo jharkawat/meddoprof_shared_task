@@ -1,0 +1,12 @@
+
+Grado	O
+NYHA	O
+I	O
+,	O
+sin	O
+limitación	O
+para	O
+realizar	O
+actividad	O
+fisica	O
+.	O

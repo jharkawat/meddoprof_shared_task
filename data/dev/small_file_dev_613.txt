@@ -1,0 +1,16 @@
+
+Lavados	O
+con	O
+agua	O
+y	O
+jabón	O
+de	O
+las	O
+lesiones	O
+en	O
+dedos	O
+y	O
+cubrirlas	O
+con	O
+gasas	O
+.	O

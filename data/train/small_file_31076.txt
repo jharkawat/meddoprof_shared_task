@@ -1,0 +1,26 @@
+
+Desnutrición	O
+calórico	O
+-	O
+proteica	O
+(	O
+peso	O
+:	O
+38	O
+,	O
+8kg	O
+,	O
+IMC	O
+:	O
+15	O
+,	O
+54	O
+)	O
+.	O
+ECG	O
+:	O
+QTc	O
+corregido	O
+ligeramente	O
+alargado	O
+.	O

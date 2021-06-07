@@ -1,0 +1,19 @@
+
+Biopsia	O
+con	O
+aguja	O
+gruesa	O
+guiada	O
+por	O
+TC	O
+de	O
+lesión	O
+lítica	O
+en	O
+cóndilo	O
+femoral	O
+interno	O
+de	O
+rodilla	O
+izquierda	O
+.	O

@@ -1,0 +1,27 @@
+
+Al	O
+preguntarle	O
+qué	O
+decía	O
+,	O
+la	O
+paciente	O
+miró	O
+momentáneamente	O
+a	O
+los	O
+ojos	O
+del	O
+entrevistador	B-PROFESION
+y	O
+tan	O
+solo	O
+repitió	O
+«	O
+Lo	O
+siento	O
+,	O
+lo	O
+siento	O
+»	O
+.	O

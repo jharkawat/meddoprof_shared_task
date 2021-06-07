@@ -1,0 +1,9 @@
+
+Sin	O
+líquido	O
+libre	O
+en	O
+la	O
+cavidad	O
+abdominal	O
+.	O

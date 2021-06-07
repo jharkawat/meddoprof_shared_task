@@ -1,0 +1,10 @@
+
+Sus	O
+padres	O
+tienen	O
+sensación	O
+de	O
+desesperación	O
+y	O
+derrota	O
+.	O

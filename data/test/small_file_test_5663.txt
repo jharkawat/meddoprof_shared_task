@@ -1,0 +1,9 @@
+
+tinción	O
+IHQ	O
+para	O
+HHV	O
+-	O
+8	O
+negativo	O
+.	O

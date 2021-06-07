@@ -1,0 +1,13 @@
+
+En	O
+la	O
+etapa	O
+inicial	O
+se	O
+suplementó	O
+clozapina	O
+con	O
+haloperidol	O
+en	O
+solución	O
+.	O

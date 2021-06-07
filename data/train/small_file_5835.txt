@@ -1,0 +1,9 @@
+
+Refiere	O
+un	O
+vómito	O
+aislado	O
+la	O
+noche	O
+anterior	O
+.	O

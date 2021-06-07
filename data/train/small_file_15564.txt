@@ -1,0 +1,12 @@
+
+Posteriormente	O
+,	O
+el	O
+paciente	O
+ya	O
+no	O
+presentó	O
+el	O
+dolor	O
+lumbar	O
+.	O

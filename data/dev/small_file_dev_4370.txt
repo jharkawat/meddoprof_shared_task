@@ -1,0 +1,19 @@
+
+En	O
+esa	O
+oportunidad	O
+fue	O
+imposible	O
+realizar	O
+un	O
+estudio	O
+de	O
+difusión	O
+de	O
+monóxido	O
+de	O
+carbono	O
+(	O
+DLCO	O
+)	O
+.	O

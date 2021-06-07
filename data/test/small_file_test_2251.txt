@@ -1,0 +1,23 @@
+
+»	O
+Aneurisma	O
+arterioesclerótico	O
+de	O
+aorta	O
+infrarrenal	O
+de	O
+36	O
+mm	O
+de	O
+diámetro	O
+transverso	O
+mayor	O
+en	O
+seguimiento	O
+por	O
+las	O
+consultas	O
+de	O
+Radiología	O
+Intervencionista	O
+.	O

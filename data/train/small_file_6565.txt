@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+se	O
+encontraba	O
+consciente	O
+,	O
+orientado	O
+,	O
+normocoloreado	O
+y	O
+normohidratado	O
+.	O

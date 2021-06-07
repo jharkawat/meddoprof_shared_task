@@ -1,0 +1,9 @@
+
+Sin	O
+evidencia	O
+de	O
+lesiones	O
+pulmonares	O
+o	O
+adenopatías	O
+.	O

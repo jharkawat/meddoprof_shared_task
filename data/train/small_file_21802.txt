@@ -1,0 +1,22 @@
+
+Está	O
+en	O
+tratamiento	O
+a	O
+raíz	O
+de	O
+ser	O
+acusado	O
+por	O
+agredir	O
+al	O
+dueño	B-PROFESION
+de	I-PROFESION
+una	I-PROFESION
+bodega	I-PROFESION
+del	O
+pueblo	O
+(	O
+Luis	O
+)	O
+.	O

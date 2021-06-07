@@ -1,0 +1,24 @@
+
+Y	O
+ante	O
+la	O
+pegunta	O
+de	O
+si	O
+se	O
+ha	O
+escapado	O
+alguna	O
+vez	O
+,	O
+dice	O
+que	O
+nunca	O
+"	O
+al	O
+menos	O
+que	O
+yo	O
+sepa	O
+"	O
+.	O

@@ -1,0 +1,23 @@
+
+Paciente	O
+de	O
+51	O
+años	O
+de	O
+edad	O
+,	O
+perteneciente	O
+a	O
+una	O
+familia	O
+de	O
+ocho	O
+hermanos	O
+con	O
+un	O
+nivel	O
+socioeconómico	O
+y	O
+académico	O
+bajo	O
+.	O

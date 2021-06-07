@@ -1,0 +1,23 @@
+
+Vive	O
+con	O
+su	O
+marido	O
+,	O
+de	O
+45	O
+años	O
+y	O
+de	O
+profesión	O
+conductor	B-PROFESION
+de	I-PROFESION
+autobús	I-PROFESION
+,	O
+y	O
+su	O
+hija	O
+de	O
+15	O
+años	O
+.	O

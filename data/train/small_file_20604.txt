@@ -1,0 +1,21 @@
+
+Claudia	O
+muestra	O
+cierta	O
+actitud	O
+de	O
+dependenciamanifestada	O
+en	O
+la	O
+relación	O
+con	O
+el	O
+terapeuta	B-PROFESION
+y	O
+la	O
+excesiva	O
+vinculación	O
+hacia	O
+los	O
+objetos	O
+.	O

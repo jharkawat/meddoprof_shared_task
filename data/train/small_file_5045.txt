@@ -1,0 +1,13 @@
+
+El	O
+único	O
+sustento	O
+familiar	O
+es	O
+la	O
+pensión	B-SITUACION_LABORAL
+no	I-SITUACION_LABORAL
+contributiva	I-SITUACION_LABORAL
+del	O
+marido	O
+.	O

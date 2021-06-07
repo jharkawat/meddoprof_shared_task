@@ -1,0 +1,21 @@
+
+»	O
+TC	O
+toracoabdominal	O
+14	O
+/	O
+10	O
+/	O
+2016	O
+:	O
+masa	O
+en	O
+mediastino	O
+superior	O
+de	O
+50	O
+mm	O
+de	O
+diámetro	O
+mayor	O
+.	O

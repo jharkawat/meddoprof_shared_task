@@ -1,0 +1,22 @@
+
+Abdomen	O
+hepatomegalia	O
+de	O
+2	O
+traveses	O
+de	O
+dedo	O
+neurológico	O
+:	O
+fuerza	O
+4	O
+/	O
+5	O
+en	O
+miembros	O
+inferiores	O
+con	O
+reflejos	O
+osteotendinosos	O
+abolidos	O
+.	O

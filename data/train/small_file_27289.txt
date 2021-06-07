@@ -1,0 +1,6 @@
+
+Resto	O
+de	O
+virus	O
+negativo	O
+.	O

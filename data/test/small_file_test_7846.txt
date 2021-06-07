@@ -1,0 +1,17 @@
+
+Carcinoma	O
+suprarrenal	O
+de	O
+corteza	O
+adrenal	O
+estadio	O
+IV	O
+cT4N0M1	O
+(	O
+óseas	O
+,	O
+pulmonares	O
+)	O
+no	O
+funcionante	O
+.	O

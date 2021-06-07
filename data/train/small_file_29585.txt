@@ -1,0 +1,13 @@
+
+La	O
+sintomatología	O
+productiva	O
+está	O
+mitigada	O
+,	O
+sin	O
+repercusión	O
+afectiva	O
+o	O
+conductual	O
+.	O

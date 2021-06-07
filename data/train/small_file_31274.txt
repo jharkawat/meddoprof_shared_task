@@ -1,0 +1,9 @@
+
+Dermatitis	O
+seborreica	O
+en	O
+cuero	O
+cabelludo	O
+y	O
+cara	O
+.	O

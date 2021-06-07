@@ -1,0 +1,6 @@
+
+Sin	O
+antecedentes	O
+familiares	O
+psiquiátricos	O
+.	O

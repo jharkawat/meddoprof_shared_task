@@ -1,0 +1,14 @@
+
+Se	O
+realizó	O
+un	O
+urocultivo	O
+previo	O
+al	O
+ingreso	O
+que	O
+arrojó	O
+un	O
+resultado	O
+negativo	O
+.	O

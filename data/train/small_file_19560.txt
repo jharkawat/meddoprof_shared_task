@@ -1,0 +1,7 @@
+
+Interrogatorio	O
+por	O
+aparatos	O
+y	O
+sistemas	O
+:	O

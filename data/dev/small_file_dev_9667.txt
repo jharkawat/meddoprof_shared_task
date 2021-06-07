@@ -1,0 +1,13 @@
+
+En	O
+cuanto	O
+a	O
+la	O
+sedestación	O
+,	O
+no	O
+presenta	O
+control	O
+de	O
+tronco	O
+.	O

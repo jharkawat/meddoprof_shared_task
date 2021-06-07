@@ -1,0 +1,18 @@
+
+A	O
+la	O
+exploración	O
+,	O
+tenía	O
+aspecto	O
+enfermo	O
+,	O
+se	O
+mostraba	O
+incómoda	O
+y	O
+con	O
+un	O
+malestar	O
+intenso	O
+.	O

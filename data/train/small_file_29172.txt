@@ -1,0 +1,10 @@
+
+Esquizofrenia	O
+que	O
+presentaba	O
+un	O
+síndrome	O
+de	O
+identificación	O
+delirante	O
+.	O

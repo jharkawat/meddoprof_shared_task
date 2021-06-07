@@ -1,0 +1,22 @@
+
+Se	O
+advirtió	O
+de	O
+la	O
+importancia	O
+de	O
+verificar	O
+la	O
+composición	O
+de	O
+medicamentos	O
+a	O
+ingerir	O
+y	O
+evitar	O
+la	O
+administración	O
+parenteral	O
+de	O
+fructosa	O
+.	O

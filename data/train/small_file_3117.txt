@@ -1,0 +1,16 @@
+
+Es	O
+más	O
+raro	O
+,	O
+pero	O
+a	O
+veces	O
+también	O
+ha	O
+tenido	O
+episodios	O
+durante	O
+el	O
+día	O
+.	O

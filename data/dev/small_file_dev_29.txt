@@ -1,0 +1,8 @@
+
+Psicosis	O
+derivada	O
+de	O
+su	O
+tratamiento	O
+dopaminérgico	O
+.	O

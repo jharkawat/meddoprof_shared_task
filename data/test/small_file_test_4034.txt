@@ -1,0 +1,16 @@
+
+Metástasis	O
+coroidea	O
+derecha	O
+y	O
+metástasis	O
+cerebrales	O
+en	O
+paciente	O
+con	O
+Adenocarcinoma	O
+de	O
+pulmón	O
+en	O
+progresión	O
+.	O

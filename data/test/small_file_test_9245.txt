@@ -1,0 +1,26 @@
+
+Diagnosticado	O
+en	O
+noviembre	O
+de	O
+2011	O
+de	O
+carcinoma	O
+escamoso	O
+de	O
+alto	O
+grado	O
+en	O
+cuerda	O
+vocal	O
+izquierda	O
+a	O
+raíz	O
+de	O
+disfonía	O
+de	O
+dos	O
+meses	O
+de	O
+evolución	O
+.	O

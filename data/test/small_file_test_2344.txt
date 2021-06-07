@@ -1,0 +1,14 @@
+
+ECOG	O
+PS	O
+(	O
+Eastern	O
+Cooperative	O
+Oncology	O
+Group	O
+Performance	O
+status	O
+)	O
+=	O
+0	O
+.	O

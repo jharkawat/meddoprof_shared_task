@@ -1,0 +1,5 @@
+
+No	O
+RAM	O
+conocidas	O
+.	O

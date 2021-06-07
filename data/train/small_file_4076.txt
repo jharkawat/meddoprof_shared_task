@@ -1,0 +1,4 @@
+
+Sin	O
+defensa	O
+.	O

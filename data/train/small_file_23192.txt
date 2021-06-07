@@ -1,0 +1,20 @@
+
+RMN	O
+cerebral	O
+:	O
+no	O
+se	O
+observan	O
+alteraciones	O
+de	O
+la	O
+intensidad	O
+de	O
+señal	O
+de	O
+la	O
+sustancia	O
+blanca	O
+ni	O
+gris	O
+.	O

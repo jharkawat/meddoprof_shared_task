@@ -1,0 +1,6 @@
+
+Abdomen	O
+sin	O
+hallazgos	O
+significativos	O
+.	O

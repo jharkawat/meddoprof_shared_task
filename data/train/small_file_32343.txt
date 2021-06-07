@@ -1,0 +1,14 @@
+
+En	O
+septiembre	O
+de	O
+2014	O
+,	O
+es	O
+derivada	B-SITUACION_LABORAL
+del	I-SITUACION_LABORAL
+centro	I-SITUACION_LABORAL
+penitenciario	I-SITUACION_LABORAL
+de	O
+Bonxe	O
+.	O

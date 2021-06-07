@@ -1,0 +1,8 @@
+
+A	O
+la	O
+exploración	O
+física	O
+:	O
+BEG	O
+.	O

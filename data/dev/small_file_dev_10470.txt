@@ -1,0 +1,24 @@
+
+Los	O
+padres	O
+no	O
+sabían	O
+qué	O
+hacer	O
+y	O
+llamaron	O
+al	O
+médico	B-PROFESION
+de	I-PROFESION
+familia	I-PROFESION
+,	O
+el	O
+que	O
+los	O
+derivó	O
+a	O
+un	O
+servicio	O
+de	O
+psiquiatría	O
+.	O

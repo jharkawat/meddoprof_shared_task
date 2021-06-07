@@ -1,0 +1,12 @@
+
+Además	O
+presenta	O
+tres	O
+episodios	O
+de	O
+cefalea	O
+controladas	O
+con	O
+analgésicos	O
+menores	O
+.	O

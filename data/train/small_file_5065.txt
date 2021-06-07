@@ -1,0 +1,18 @@
+
+Hasta	O
+la	O
+fecha	O
+persiste	O
+asintomática	O
+desde	O
+el	O
+punto	O
+de	O
+vista	O
+dermatológico	O
+,	O
+sin	O
+signos	O
+de	O
+recidivas	O
+.	O

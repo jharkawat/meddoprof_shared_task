@@ -1,0 +1,19 @@
+
+El	O
+estroma	O
+presenta	O
+tejido	O
+conectivo	O
+y	O
+muscular	O
+desorganizado	O
+con	O
+focos	O
+de	O
+hemorragia	O
+,	O
+abundantes	O
+sirerófagos	O
+y	O
+macrófagos	O
+.	O

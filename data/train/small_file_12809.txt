@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+presentó	O
+buena	O
+evolución	O
+clínica	O
+(	O
+hemiparesia	O
+izquierda	O
+resuelta	O
+)	O
+y	O
+radiológica	O
+posterior	O
+.	O

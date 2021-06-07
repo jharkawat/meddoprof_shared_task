@@ -1,0 +1,16 @@
+
+Válvula	O
+mitral	O
+con	O
+velo	O
+anterior	O
+elongado	O
+,	O
+movilidad	O
+conservada	O
+,	O
+con	O
+mínima	O
+insuficiencia	O
+protosistólica	O
+.	O

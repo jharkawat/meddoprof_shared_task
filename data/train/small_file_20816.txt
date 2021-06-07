@@ -1,0 +1,16 @@
+
+Sustenta	O
+la	O
+temática	O
+delirante	O
+en	O
+una	O
+contraargumentación	O
+lógica	O
+amparada	O
+en	O
+sus	O
+propias	O
+interpretaciones	O
+delirantes	O
+.	O

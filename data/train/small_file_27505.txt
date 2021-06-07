@@ -1,0 +1,7 @@
+
+1oESO	B-SITUACION_LABORAL
+con	O
+mal	O
+rendimiento	O
+académico	O
+.	O

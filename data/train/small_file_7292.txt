@@ -1,0 +1,10 @@
+
+Sin	O
+antecedentes	O
+personales	O
+médicos	O
+o	O
+dermatológicos	O
+de	O
+interés	O
+.	O

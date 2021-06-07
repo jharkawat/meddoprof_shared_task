@@ -1,0 +1,20 @@
+
+La	O
+niña	O
+se	O
+desarrolló	O
+normalmente	O
+durante	O
+su	O
+infancia	O
+y	O
+se	O
+mostró	O
+feliz	O
+y	O
+sociable	O
+hasta	O
+los	O
+14	O
+años	O
+.	O

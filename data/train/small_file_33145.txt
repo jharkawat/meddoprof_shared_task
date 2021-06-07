@@ -1,0 +1,25 @@
+
+Tras	O
+realizar	O
+las	O
+evaluaciones	O
+,	O
+así	O
+como	O
+entrevistas	O
+con	O
+la	O
+paciente	O
+,	O
+se	O
+realiza	O
+el	O
+diagnóstico	O
+de	O
+trastorno	O
+psicótico	O
+secundario	O
+a	O
+medicación	O
+antiparkinsoniana	O
+.	O

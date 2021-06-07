@@ -1,0 +1,9 @@
+
+No	O
+presenta	O
+datos	O
+a	O
+señalar	O
+de	O
+relevancia	O
+.	O

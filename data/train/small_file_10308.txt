@@ -1,0 +1,11 @@
+
+Poliartralgias	O
+y	O
+cefalea	O
+secundarias	O
+a	O
+infección	O
+por	O
+Parvovirus	O
+B19	O
+.	O

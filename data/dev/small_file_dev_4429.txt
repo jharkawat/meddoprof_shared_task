@@ -1,0 +1,17 @@
+
+TC	O
+Tórax	O
+s	O
+/	O
+contraste	O
+EV	O
+con	O
+cortes	O
+axiales	O
+:	O
+Ventana	O
+para	O
+Parénquima	O
+:	O
+imagen	O
+2	O

@@ -1,0 +1,18 @@
+
+El	O
+hijo	O
+mayor	O
+estuvo	O
+en	O
+el	O
+extranjero	O
+durante	O
+cinco	O
+años	O
+y	O
+recién	O
+ha	O
+venido	O
+de	O
+vacaciones	O
+.	O

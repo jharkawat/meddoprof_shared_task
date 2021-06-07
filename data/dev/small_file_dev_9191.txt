@@ -1,0 +1,10 @@
+
+Tampoco	O
+presentaba	O
+lesiones	O
+cutáneas	O
+sugestivas	O
+de	O
+sífilis	O
+secundaria	O
+.	O

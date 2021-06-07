@@ -1,0 +1,14 @@
+
+Adenoma	O
+suprarrenal	O
+izquierdo	O
+de	O
+13	O
+mm	O
+,	O
+resto	O
+de	O
+hallazgos	O
+sin	O
+interés	O
+.	O

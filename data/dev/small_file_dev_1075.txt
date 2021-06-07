@@ -1,0 +1,23 @@
+
+Se	O
+realiza	O
+la	O
+adquisición	O
+de	O
+imágenes	O
+de	O
+SPECT	O
+transversales	O
+del	O
+cerebro	O
+,	O
+a	O
+partir	O
+de	O
+las	O
+3	O
+horas	O
+post	O
+-	O
+inyección	O
+.	O

@@ -1,0 +1,19 @@
+
+Su	O
+madre	O
+trabajaba	O
+como	O
+peluquera	B-PROFESION
+,	O
+y	O
+la	O
+desbordaban	O
+los	O
+encargos	O
+,	O
+"	O
+vivía	O
+esclavizada	O
+peinando	O
+"	O
+.	O

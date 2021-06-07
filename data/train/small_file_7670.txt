@@ -1,0 +1,27 @@
+
+Las	O
+lesiones	O
+aparecían	O
+durante	O
+la	O
+bipedestación	O
+y	O
+con	O
+la	O
+dorsiflexión	O
+del	O
+pie	O
+,	O
+y	O
+desaparecían	O
+durante	O
+el	O
+decúbito	O
+o	O
+con	O
+la	O
+flexión	O
+plantar	O
+del	O
+pie	O
+.	O

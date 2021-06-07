@@ -1,0 +1,5 @@
+
+Hasta	O
+que	O
+apruebe	O
+.	O

@@ -1,0 +1,11 @@
+
+ANA	O
++	O
+moteado	O
+1	O
+/	O
+320	O
+y	O
+ENA	O
+negativos	O
+.	O

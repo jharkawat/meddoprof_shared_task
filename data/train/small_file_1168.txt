@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Carlos	O
+Aller	O
+Pérez	O
+NºCol	O
+:	O
+31	O
+31	O
+80563	O
+.	O

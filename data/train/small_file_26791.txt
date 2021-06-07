@@ -1,0 +1,15 @@
+
+Su	O
+habitación	O
+la	O
+tenía	O
+llena	O
+de	O
+Biblias	O
+,	O
+velas	O
+e	O
+imágenes	O
+de	O
+santos	O
+.	O

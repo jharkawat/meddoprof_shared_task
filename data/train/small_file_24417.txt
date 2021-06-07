@@ -1,0 +1,22 @@
+
+Tras	O
+esto	O
+habla	O
+de	O
+que	O
+sus	O
+hermanos	O
+"	O
+no	O
+son	O
+sus	O
+hermanos	O
+"	O
+,	O
+atribuyendo	O
+al	O
+profesor	B-PROFESION
+amigo	O
+el	O
+cambio	O
+.	O

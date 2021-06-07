@@ -1,0 +1,4 @@
+
+Imagen	O
+5	O
+.	O

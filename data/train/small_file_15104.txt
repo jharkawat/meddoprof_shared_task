@@ -1,0 +1,22 @@
+
+Ante	O
+estos	O
+hallazgos	O
+,	O
+y	O
+la	O
+sospecha	O
+de	O
+patología	O
+aguda	O
+biliar	O
+se	O
+realiza	O
+de	O
+urgencias	O
+una	O
+ecografía	O
+abdominal	O
+siendo	O
+anodina	O
+.	O

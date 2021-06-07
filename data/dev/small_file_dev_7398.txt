@@ -1,0 +1,12 @@
+
+El	O
+oseltamivir	O
+se	O
+suspendió	O
+a	O
+los	O
+5	O
+días	O
+de	O
+tratamiento	O
+.	O

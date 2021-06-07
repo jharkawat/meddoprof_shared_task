@@ -1,0 +1,21 @@
+
+En	O
+ese	O
+momento	O
+,	O
+su	O
+psiquiatra	B-PROFESION
+le	O
+dijo	O
+que	O
+estaba	O
+en	O
+pleno	O
+duelo	O
+y	O
+que	O
+esa	O
+reacción	O
+era	O
+normal	O
+.	O

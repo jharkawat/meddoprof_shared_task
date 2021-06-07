@@ -1,0 +1,13 @@
+
+Estable	O
+clínicamente	O
+,	O
+sigue	O
+control	O
+ambulatorio	O
+en	O
+USM	O
+durante	O
+3	O
+años	O
+.	O

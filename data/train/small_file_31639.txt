@@ -1,0 +1,16 @@
+
+En	O
+marzo	O
+de	O
+2006	O
+,	O
+se	O
+realizó	O
+un	O
+ecocardiograma	O
+que	O
+no	O
+mostró	O
+hallazgos	O
+patológicos	O
+.	O

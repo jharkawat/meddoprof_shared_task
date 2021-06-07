@@ -1,0 +1,14 @@
+
+Sacaba	O
+al	O
+personal	B-PROFESION
+del	I-PROFESION
+hospital	I-PROFESION
+a	O
+empujones	O
+cuando	O
+querían	O
+lavarla	O
+o	O
+cuidarla	O
+.	O

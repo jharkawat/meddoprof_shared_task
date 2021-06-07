@@ -1,0 +1,18 @@
+
+Paciente	O
+de	O
+75	O
+años	O
+procedente	O
+de	O
+su	O
+MAP	B-PROFESION
+con	O
+los	O
+siguientes	O
+antecedentes	O
+personales	O
+:	O
+No	O
+AMC	O
+.	O

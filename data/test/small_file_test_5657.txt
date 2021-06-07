@@ -1,0 +1,25 @@
+
+Edematización	O
+de	O
+miembros	O
+inferiores	O
+con	O
+fóvea	O
+III	O
+/	O
+IV	O
+hasta	O
+tercio	O
+medio	O
+,	O
+pulsos	O
+dislates	O
+presentes	O
+,	O
+signos	O
+de	O
+insuficiencia	O
+venosa	O
+crónica	O
+presentes	O
+.	O

@@ -1,0 +1,21 @@
+
+A	O
+pesar	O
+de	O
+reposición	O
+de	O
+bicarbonato	O
+,	O
+persistió	O
+con	O
+acidosis	O
+metabólica	O
+por	O
+lo	O
+que	O
+se	O
+le	O
+realizó	O
+diálisis	O
+peritoneal	O
+.	O

@@ -1,0 +1,20 @@
+
+Al	O
+día	O
+49	O
+°	O
+de	O
+la	O
+hospitalización	O
+se	O
+efectuó	O
+resección	O
+anterior	O
+del	O
+recto	O
+con	O
+anastomosis	O
+término	O
+-	O
+terminal	O
+.	O

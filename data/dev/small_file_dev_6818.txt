@@ -1,0 +1,19 @@
+
+Presentaba	O
+múltiples	O
+lesiones	O
+verrucosas	O
+en	O
+miembros	O
+superiores	O
+e	O
+inferiores	O
+,	O
+y	O
+lesiones	O
+compatibles	O
+con	O
+muguet	O
+en	O
+orofaringe	O
+.	O

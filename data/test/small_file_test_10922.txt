@@ -1,0 +1,10 @@
+
+Sospechamos	O
+que	O
+la	O
+comprensión	O
+auditiva	O
+también	O
+esté	O
+afectada	O
+.	O

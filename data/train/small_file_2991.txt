@@ -1,0 +1,23 @@
+
+Se	O
+informa	O
+a	O
+la	O
+paciente	O
+y	O
+a	O
+su	O
+madre	O
+del	O
+proceso	O
+IVE	O
+y	O
+se	O
+pone	O
+en	O
+conocimiento	O
+de	O
+la	O
+trabajadora	B-PROFESION
+social	I-PROFESION
+.	O

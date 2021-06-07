@@ -1,0 +1,25 @@
+
+En	O
+nuestro	O
+caso	O
+,	O
+la	O
+información	O
+epidemiológica	O
+fue	O
+fundamental	O
+para	O
+establecer	O
+una	O
+sospecha	O
+de	O
+zoonosis	O
+,	O
+solicitar	O
+estudio	O
+serológico	O
+e	O
+iniciar	O
+antibioterapia	O
+empírica	O
+.	O

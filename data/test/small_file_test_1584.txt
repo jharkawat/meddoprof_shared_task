@@ -1,0 +1,16 @@
+
+Una	O
+vez	O
+diagnosticada	O
+la	O
+paciente	O
+de	O
+periodontitis	O
+habrá	O
+que	O
+establecer	O
+el	O
+estadio	O
+y	O
+grado	O
+.	O

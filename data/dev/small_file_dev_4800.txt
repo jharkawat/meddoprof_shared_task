@@ -1,0 +1,9 @@
+
+AP	O
+:	O
+MV	O
+conservado	O
+alguna	O
+sibilancia	O
+dispersa	O
+.	O

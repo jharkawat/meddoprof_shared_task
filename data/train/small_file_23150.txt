@@ -1,0 +1,19 @@
+
+En	O
+una	O
+ocasión	O
+presenta	O
+una	O
+arritmia	O
+sinusal	O
+,	O
+oscilando	O
+entre	O
+los	O
+84	O
+y	O
+116	O
+latidos	O
+por	O
+minuto	O
+.	O

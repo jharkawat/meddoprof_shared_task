@@ -1,0 +1,26 @@
+
+Además	O
+,	O
+la	O
+duración	O
+del	O
+episodio	O
+depresivo	O
+acaecido	O
+en	O
+su	O
+debut	O
+fue	O
+breve	O
+en	O
+relación	O
+con	O
+la	O
+duración	O
+de	O
+los	O
+periodos	O
+activos	O
+de	O
+enfermedad	O
+.	O

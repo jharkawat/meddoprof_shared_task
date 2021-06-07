@@ -1,0 +1,24 @@
+
+En	O
+la	O
+TAC	O
+de	O
+evaluación	O
+tras	O
+tres	O
+ciclos	O
+de	O
+tratamiento	O
+(	O
+septiembre	O
+del	O
+2015	O
+)	O
+se	O
+observa	O
+enfermedad	O
+estable	O
+según	O
+criterios	O
+RECIST	O
+.	O

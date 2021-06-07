@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+presenta	O
+un	O
+buen	O
+apoyo	O
+familiar	O
+,	O
+adecuada	O
+comprensión	O
+del	O
+diagnóstico	O
+.	O

@@ -1,0 +1,24 @@
+
+Iniciamos	O
+tratamiento	O
+con	O
+prednisona	O
+con	O
+buena	O
+evolución	O
+y	O
+derivamos	O
+a	O
+Neurocirugía	O
+por	O
+hidrocefalia	O
+normotensiva	O
+,	O
+con	O
+colocación	O
+posterior	O
+de	O
+válvula	O
+de	O
+derivación	O
+.	O

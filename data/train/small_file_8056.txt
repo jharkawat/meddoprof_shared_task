@@ -1,0 +1,20 @@
+
+Además	O
+se	O
+había	O
+realizado	O
+una	O
+ecografía	O
+mamaria	O
+,	O
+sugerente	O
+de	O
+ginecomastia	O
+bilateral	O
+,	O
+sin	O
+nódulos	O
+apreciables	O
+ni	O
+adenopatías	O
+.	O

@@ -1,0 +1,10 @@
+
+Rx	O
+AP	O
+de	O
+tórax	O
+:	O
+Sin	O
+alteraciones	O
+relevantes	O
+.	O

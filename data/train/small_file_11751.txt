@@ -1,0 +1,13 @@
+
+No	O
+refería	O
+otra	O
+sintomatología	O
+en	O
+la	O
+anamnesis	O
+por	O
+órganos	O
+y	O
+aparatos	O
+.	O

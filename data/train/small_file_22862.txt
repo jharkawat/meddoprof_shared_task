@@ -1,0 +1,17 @@
+
+Fue	O
+dado	O
+de	O
+alta	O
+tras	O
+22	O
+días	O
+,	O
+con	O
+recuperación	O
+sólo	O
+parcial	O
+de	O
+la	O
+sintomatología	O
+.	O

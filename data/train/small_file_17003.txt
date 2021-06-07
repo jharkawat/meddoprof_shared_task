@@ -1,0 +1,26 @@
+
+•	O
+Para	O
+el	O
+manejo	O
+terapéutico	O
+se	O
+solicitó	O
+valoración	O
+neuroquirúrgica	O
+,	O
+decidiendo	O
+posponer	O
+la	O
+cirugía	O
+hasta	O
+completar	O
+el	O
+estudio	O
+mediante	O
+resonancia	O
+magnética	O
+(	O
+RM	O
+)	O
+.	O

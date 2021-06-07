@@ -1,0 +1,12 @@
+
+Es	O
+frecuente	O
+la	O
+sobreinfección	O
+bacteriana	O
+con	O
+el	O
+desarrollo	O
+de	O
+pielonefritis	O
+.	O

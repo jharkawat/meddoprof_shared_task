@@ -1,0 +1,11 @@
+
+TEST	O
+psicológicos	O
+:	O
+WISE	O
+:	O
+CI	O
+total	O
+:	O
+129	O
+.	O

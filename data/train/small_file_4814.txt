@@ -1,0 +1,10 @@
+
+-	O
+AF	O
+madre	O
+con	O
+tiroidectomía	O
+por	O
+nódulo	O
+tiroideo	O
+.	O

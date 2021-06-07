@@ -1,0 +1,6 @@
+
+Niega	O
+consumo	O
+de	O
+alcohol	O
+.	O

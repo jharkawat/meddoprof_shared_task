@@ -1,0 +1,9 @@
+
+FUENTE	O
+Mixta	O
+(	O
+Paciente	O
+–	O
+Historia	O
+Clínica	O
+)	O

@@ -1,0 +1,14 @@
+
+Se	O
+realizó	O
+una	O
+resonancia	O
+magnética	O
+cerebral	O
+sin	O
+evidenciarse	O
+alteraciones	O
+a	O
+nivel	O
+hipofisario	O
+.	O

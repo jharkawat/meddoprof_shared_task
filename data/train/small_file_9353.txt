@@ -1,0 +1,20 @@
+
+Borrelia	O
+Legionella	O
+,	O
+Mycoplasma	O
+pneumoniae	O
+,	O
+Ricketssia	O
+connorii	O
+,	O
+Salmonella	O
+tiphy	O
+y	O
+paratiphy	O
+A	O
+,	O
+B	O
+,	O
+C	O
+.	O

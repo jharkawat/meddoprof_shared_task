@@ -1,0 +1,8 @@
+
+No	O
+ha	O
+hecho	O
+viajes	O
+al	O
+extranjero	O
+.	O

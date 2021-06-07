@@ -1,0 +1,13 @@
+
+Trabaja	O
+como	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+y	O
+realiza	O
+viajes	O
+frecuentes	O
+a	O
+Argelia	O
+.	O

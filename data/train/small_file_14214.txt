@@ -1,0 +1,5 @@
+
+Natural	O
+de	O
+Perú	O
+.	O

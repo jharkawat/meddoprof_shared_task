@@ -1,0 +1,27 @@
+
+Presentamos	O
+el	O
+caso	O
+de	O
+un	O
+niño	O
+de	O
+6	O
+años	O
+de	O
+edad	O
+,	O
+con	O
+antecedentes	O
+familiares	O
+de	O
+padre	O
+apicultor	B-PROFESION
+con	O
+hipersensibilidad	O
+a	O
+veneno	O
+de	O
+Apis	O
+Mellifera	O
+.	O

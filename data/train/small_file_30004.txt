@@ -1,0 +1,12 @@
+
+Auscultación	O
+pulmonar	O
+MVC	O
+(	O
+no	O
+se	O
+auscultan	O
+ruidos	O
+sobreañadidos	O
+)	O
+.	O

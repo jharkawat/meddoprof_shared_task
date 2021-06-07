@@ -1,0 +1,19 @@
+
+No	O
+se	O
+recogen	O
+alteraciones	O
+durante	O
+el	O
+embarazo	O
+,	O
+naciendo	O
+de	O
+parto	O
+eutócico	O
+a	O
+término	O
+en	O
+medio	O
+hospitalario	O
+.	O

@@ -1,0 +1,13 @@
+
+Se	O
+inició	O
+segunda	O
+línea	O
+de	O
+quimioterapia	O
+con	O
+docetaxel	O
+con	O
+buena	O
+tolerancia	O
+.	O

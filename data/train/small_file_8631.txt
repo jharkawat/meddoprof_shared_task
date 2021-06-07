@@ -1,0 +1,25 @@
+
+·	O
+TAC	O
+de	O
+macizo	O
+facial	O
+encontrándose	O
+además	O
+de	O
+la	O
+sinupatía	O
+maxilar	O
+conocida	O
+,	O
+poliposis	O
+nasal	O
+,	O
+sinusitis	O
+etmoidal	O
+,	O
+frontal	O
+y	O
+esfenoidal	O
+bilateral	O
+.	O

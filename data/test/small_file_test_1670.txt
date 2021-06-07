@@ -1,0 +1,19 @@
+
+UNA	O
+MUJER	O
+DE	O
+32	O
+AÑOS	O
+diagnosticada	O
+de	O
+periodontitis	O
+crónica	O
+moderada	O
+y	O
+avanzada	O
+en	O
+pieza	O
+2	O
+.	O
+1	O
+.	O

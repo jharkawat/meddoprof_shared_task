@@ -1,0 +1,23 @@
+
+Se	O
+mantiene	O
+esquema	O
+TAR	O
+y	O
+se	O
+inicia	O
+tratamiento	O
+con	O
+isoniacida	O
+,	O
+etambutol	O
+,	O
+pirazinamida	O
+y	O
+rifabutina	O
+con	O
+desaparición	O
+de	O
+la	O
+fiebre	O
+.	O

@@ -1,0 +1,11 @@
+
+A	O
+las	O
+citas	O
+con	O
+la	O
+familia	O
+acudió	O
+la	O
+madre	O
+.	O

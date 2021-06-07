@@ -1,0 +1,5 @@
+
+Sin	O
+significancia	O
+clínica	O
+.	O

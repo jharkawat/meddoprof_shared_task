@@ -1,0 +1,13 @@
+
+No	O
+sabía	O
+por	O
+qué	O
+razón	O
+su	O
+marido	O
+podría	O
+haber	O
+ingerido	O
+lejía	O
+.	O

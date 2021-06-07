@@ -1,0 +1,11 @@
+
+Poco	O
+participativa	O
+en	O
+actividades	O
+programadas	O
+en	O
+Hospital	O
+de	O
+Día	O
+.	O

@@ -1,0 +1,22 @@
+
+Microsinequia	O
+en	O
+la	O
+comisura	O
+anterior	O
+,	O
+CVD	O
+:	O
+hipervascularización	O
+de	O
+la	O
+base	O
+y	O
+pequeña	O
+escotadura	O
+próxima	O
+a	O
+la	O
+comisura	O
+anterior	O
+.	O

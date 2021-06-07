@@ -1,0 +1,16 @@
+
+»	O
+Punción	O
+-	O
+biopsia	O
+de	O
+médula	O
+ósea	O
+:	O
+sin	O
+signos	O
+de	O
+infiltración	O
+por	O
+linfoma	O
+.	O

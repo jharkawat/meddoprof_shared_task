@@ -1,0 +1,11 @@
+
+Intervenida	O
+de	O
+apendicitis	O
+,	O
+cataratas	O
+,	O
+meniscectomía	O
+y	O
+colecistectomía	O
+.	O

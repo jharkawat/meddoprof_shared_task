@@ -1,0 +1,8 @@
+
+Heces	O
+con	O
+consistencia	O
+y	O
+aspecto	O
+normal	O
+.	O

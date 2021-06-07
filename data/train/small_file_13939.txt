@@ -1,0 +1,11 @@
+
+sólido	O
+(	O
+broncopulmonar	O
+)	O
+o	O
+hematológico	O
+(	O
+linfoma	O
+)	O
+.	O

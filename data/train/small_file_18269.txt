@@ -1,0 +1,9 @@
+
+El	O
+fondo	O
+de	O
+ojo	O
+derecho	O
+era	O
+normal	O
+.	O

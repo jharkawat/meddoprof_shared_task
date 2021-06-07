@@ -1,0 +1,7 @@
+
+Ha	B-SITUACION_LABORAL
+desempeñado	I-SITUACION_LABORAL
+diversos	I-SITUACION_LABORAL
+empleos	I-SITUACION_LABORAL
+temporales	O
+.	O

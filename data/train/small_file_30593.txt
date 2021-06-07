@@ -1,0 +1,25 @@
+
+Antecedentes	O
+psiquiátricos	O
+:	O
+desde	O
+la	O
+infancia	O
+tuvo	O
+retraimiento	O
+social	O
+,	O
+que	O
+se	O
+acentuó	O
+en	O
+la	O
+adolescencia	O
+con	O
+ideas	O
+obsesivas	O
+de	O
+limpieza	O
+,	O
+rituales	O
+.	O

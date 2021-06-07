@@ -1,0 +1,9 @@
+
+Trabajaba	B-PROFESION
+con	I-PROFESION
+su	I-PROFESION
+hermano	I-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+tienda	I-PROFESION
+.	O

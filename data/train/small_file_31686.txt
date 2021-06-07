@@ -1,0 +1,5 @@
+
+Línea	O
+media	O
+centrada	O
+.	O

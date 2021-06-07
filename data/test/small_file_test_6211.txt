@@ -1,0 +1,11 @@
+
+Abandono	O
+del	O
+hábito	O
+enólico	O
+hace	O
+más	O
+de	O
+12	O
+años	O
+.	O

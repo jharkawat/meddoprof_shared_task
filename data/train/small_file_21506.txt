@@ -1,0 +1,17 @@
+
+Pone	O
+todas	O
+las	O
+escusas	O
+posibles	O
+para	O
+no	O
+encontrarse	O
+con	O
+ellos	O
+ni	O
+con	O
+su	O
+hermana	O
+pequeña	O
+.	O

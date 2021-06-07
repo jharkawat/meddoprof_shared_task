@@ -1,0 +1,19 @@
+
+La	O
+situación	O
+ha	O
+cambiado	O
+porque	O
+se	O
+trabajó	O
+con	O
+ellos	O
+y	O
+pudieron	O
+entender	O
+la	O
+enfermedad	O
+mental	O
+del	O
+usuario	O
+.	O

@@ -1,0 +1,16 @@
+
+-	O
+dolores	O
+físicos	O
+intensos	O
+,	O
+pese	O
+a	O
+la	O
+medicación	O
+recientemente	O
+indicada	O
+por	O
+su	O
+MAP	B-PROFESION
+.	O

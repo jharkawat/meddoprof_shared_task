@@ -1,0 +1,25 @@
+
+Sin	O
+embargo	O
+,	O
+inicialmente	O
+,	O
+no	O
+se	O
+observaron	O
+grandes	O
+cambios	O
+en	O
+la	O
+neuroimagen	O
+de	O
+control	O
+,	O
+quedando	O
+pendiente	O
+de	O
+nueva	O
+RMN	O
+de	O
+cráneo	O
+.	O

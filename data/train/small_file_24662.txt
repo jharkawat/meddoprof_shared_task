@@ -1,0 +1,24 @@
+
+Describen	O
+embarazo	O
+,	O
+parto	O
+y	O
+desarrollo	O
+psicomotor	O
+normales	O
+,	O
+así	O
+como	O
+una	O
+infancia	O
+feliz	O
+,	O
+buen	O
+trato	O
+con	O
+padres	O
+y	O
+hermana	O
+menor	O
+.	O

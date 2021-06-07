@@ -1,0 +1,12 @@
+
+Adenocarcinoma	O
+de	O
+pulmón	O
+estadio	O
+IV	O
+con	O
+EGFR	O
+y	O
+ALK	O
+negativos	O
+.	O

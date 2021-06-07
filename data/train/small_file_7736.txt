@@ -1,0 +1,14 @@
+
+Se	O
+pacta	O
+con	O
+la	O
+paciente	O
+que	O
+avisará	O
+si	O
+se	O
+produce	O
+empeoramiento	O
+anímico	O
+.	O

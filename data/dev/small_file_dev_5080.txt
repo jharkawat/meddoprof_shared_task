@@ -1,0 +1,7 @@
+
+No	O
+se	O
+realizó	O
+gasometría	O
+arterial	O
+.	O

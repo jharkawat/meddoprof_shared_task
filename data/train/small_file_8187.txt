@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+destaca	O
+hipoventilación	O
+generalizada	O
+con	O
+saturación	O
+basal	O
+del	O
+92	O
+%	O
+.	O

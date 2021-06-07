@@ -1,0 +1,18 @@
+
+En	O
+estas	O
+entidades	O
+existe	O
+un	O
+mayor	O
+grado	O
+de	O
+afectación	O
+sistémica	O
+y	O
+suelen	O
+tener	O
+un	O
+curso	O
+crónico	O
+.	O

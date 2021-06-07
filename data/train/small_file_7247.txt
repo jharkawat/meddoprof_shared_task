@@ -1,0 +1,21 @@
+
+Se	O
+intentó	O
+tratamiento	O
+médico	O
+pero	O
+evolucionó	O
+con	O
+compromiso	O
+óseo	O
+por	O
+lo	O
+que	O
+se	O
+realizó	O
+amputación	O
+de	O
+la	O
+falange	O
+distal	O
+.	O

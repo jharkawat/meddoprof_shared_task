@@ -1,0 +1,12 @@
+
+La	O
+orina	O
+era	O
+claramente	O
+colúrica	O
+y	O
+destacaba	O
+una	O
+bacteriuria	O
+intensa	O
+.	O

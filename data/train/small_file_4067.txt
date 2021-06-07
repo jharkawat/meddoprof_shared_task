@@ -1,0 +1,5 @@
+
+Eupneica	O
+en	O
+reposo	O
+.	O

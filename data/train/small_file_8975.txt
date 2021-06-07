@@ -1,0 +1,26 @@
+
+Habitualmente	O
+es	O
+una	O
+infección	O
+polimicrobiana	O
+en	O
+la	O
+que	O
+los	O
+agentes	O
+patógenos	O
+más	O
+prevalentes	O
+son	O
+Neisseria	O
+gonorrhoeae	O
+y	O
+Chlamydia	O
+trachomatis	O
+,	O
+ambos	O
+de	O
+transmisión	O
+sexual	O
+.	O

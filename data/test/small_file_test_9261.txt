@@ -1,0 +1,19 @@
+
+El	O
+estudio	O
+de	O
+extensión	O
+con	O
+tomografía	O
+por	O
+emisión	O
+de	O
+positrones	O
+(	O
+PET	O
+-	O
+TC	O
+)	O
+resulta	O
+negativo	O
+.	O

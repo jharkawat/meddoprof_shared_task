@@ -1,0 +1,26 @@
+
+Una	O
+semana	O
+antes	O
+de	O
+su	O
+hospitalización	O
+se	O
+agregó	O
+fiebre	O
+,	O
+cefalea	O
+intensa	O
+,	O
+convulsiones	O
+,	O
+alteración	O
+de	O
+memoria	O
+y	O
+pérdida	O
+de	O
+control	O
+de	O
+esfínteres	O
+.	O

@@ -1,0 +1,8 @@
+
+Mujer	O
+de	O
+62	O
+años	O
+,	O
+jubilada	B-SITUACION_LABORAL
+.	O

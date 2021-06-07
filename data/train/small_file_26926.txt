@@ -1,0 +1,10 @@
+
+También	O
+tuvo	O
+síndrome	O
+de	O
+apnea	O
+obstructiva	O
+del	O
+sueño	O
+.	O

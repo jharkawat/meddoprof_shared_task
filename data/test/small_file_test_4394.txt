@@ -1,0 +1,16 @@
+
+Se	O
+inició	O
+tratamiento	O
+y	O
+medidas	O
+de	O
+soporte	O
+con	O
+mala	O
+evolución	O
+del	O
+paciente	O
+y	O
+fallecimiento	O
+.	O

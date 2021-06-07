@@ -1,0 +1,6 @@
+
+Estudio	O
+vertebral	O
+cervical	O
+normal	O
+.	O

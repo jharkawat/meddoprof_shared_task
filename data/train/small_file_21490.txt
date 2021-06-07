@@ -1,0 +1,14 @@
+
+Sus	O
+padres	O
+viven	O
+en	O
+la	O
+misma	O
+ciudad	O
+no	O
+muy	O
+lejos	O
+del	O
+domicilio	O
+.	O

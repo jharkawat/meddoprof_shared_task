@@ -1,0 +1,7 @@
+
+Convivencia	O
+familiar	O
+en	O
+períodos	O
+vacacionales	O
+.	O

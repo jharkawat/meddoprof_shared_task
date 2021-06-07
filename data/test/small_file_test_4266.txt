@@ -1,0 +1,21 @@
+
+El	O
+resultado	O
+es	O
+compatible	O
+con	O
+carcinoma	O
+anaplásico	O
+de	O
+células	O
+pequeñas	O
+tipo	O
+mixto	O
+(	O
+células	O
+pequeñas	O
+/	O
+células	O
+grandes	O
+)	O
+.	O

@@ -1,0 +1,25 @@
+
+Paciente	O
+de	O
+42	O
+años	O
+,	O
+acude	O
+para	O
+ingreso	O
+programado	O
+por	O
+su	O
+FEA	O
+de	O
+referencia	O
+por	O
+alteraciones	O
+conductuales	O
+en	O
+recurso	O
+de	O
+FAISEM	O
+donde	O
+reside	O
+.	O

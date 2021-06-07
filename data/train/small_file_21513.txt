@@ -1,0 +1,23 @@
+
+Piensa	O
+que	O
+los	O
+estudios	O
+han	O
+sido	O
+excesivamente	O
+teóricos	O
+y	O
+que	O
+no	O
+sabe	O
+si	O
+será	O
+capaz	O
+de	O
+desenvolverse	O
+en	O
+la	O
+vida	O
+profesional	O
+.	O

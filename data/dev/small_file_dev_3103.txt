@@ -1,0 +1,12 @@
+
+Abdomen	O
+:	O
+Blando	O
+,	O
+indoloro	O
+,	O
+no	O
+visceromegalia	O
+ni	O
+masas	O
+.	O

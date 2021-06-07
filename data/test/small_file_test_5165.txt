@@ -1,0 +1,22 @@
+
+Temperatura	O
+36	O
+,	O
+3	O
+oC	O
+,	O
+tensión	O
+arterial	O
+126	O
+/	O
+80	O
+mmHg	O
+,	O
+FC	O
+94	O
+lpm	O
+,	O
+FR	O
+16	O
+rpm	O
+.	O

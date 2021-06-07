@@ -1,0 +1,8 @@
+
+Nivel	O
+cognitivo	O
+adecuado	O
+para	O
+su	O
+edad	O
+.	O

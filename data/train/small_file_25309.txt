@@ -1,0 +1,11 @@
+
+Mantiene	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+protegido	I-SITUACION_LABORAL
+desde	O
+mediados	O
+del	O
+año	O
+2002	O
+.	O

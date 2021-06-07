@@ -1,0 +1,23 @@
+
+Se	O
+trata	O
+de	O
+un	O
+paciente	O
+de	O
+35	O
+años	O
+de	O
+edad	O
+,	O
+cubano	O
+,	O
+de	O
+profesión	O
+chofer	B-PROFESION
+,	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

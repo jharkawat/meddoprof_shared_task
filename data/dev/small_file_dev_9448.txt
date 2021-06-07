@@ -1,0 +1,19 @@
+
+Diámetro	O
+de	O
+aorta	O
+descendente	O
+a	O
+nivel	O
+de	O
+la	O
+bifurcación	O
+de	O
+arteria	O
+pulmonar	O
+:	O
+31	O
+x	O
+29	O
+mm	O
+.	O

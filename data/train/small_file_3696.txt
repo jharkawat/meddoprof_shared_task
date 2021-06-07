@@ -1,0 +1,24 @@
+
+Ante	O
+este	O
+hallazgo	O
+compatible	O
+con	O
+hernia	O
+inguinal	O
+no	O
+complicada	O
+,	O
+se	O
+decide	O
+derivar	O
+a	O
+Cirugía	O
+General	O
+para	O
+valoración	O
+e	O
+intervención	O
+quirúrgica	O
+programada	O
+.	O

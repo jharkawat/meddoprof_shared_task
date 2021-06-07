@@ -1,0 +1,19 @@
+
+-	O
+Las	O
+causas	O
+medicamentosas	O
+y	O
+tóxicas	O
+,	O
+como	O
+Síndrome	O
+de	O
+DRESS	O
+y	O
+Síndrome	O
+de	O
+Steven	O
+-	O
+Johnson	O
+.	O

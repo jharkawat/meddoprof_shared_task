@@ -1,0 +1,10 @@
+
+Pericarditis	O
+constrictiva	O
+idiopática	O
+con	O
+Insuficiencia	O
+cardíaca	O
+derecha	O
+secundaria	O
+.	O

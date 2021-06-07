@@ -1,0 +1,25 @@
+
+Esto	O
+ocurría	O
+día	O
+tras	O
+día	O
+,	O
+hasta	O
+el	O
+punto	O
+que	O
+a	O
+veces	O
+le	O
+cerraban	O
+la	O
+puerta	O
+para	O
+que	O
+no	O
+pudiese	O
+ir	O
+con	O
+ellos	O
+.	O

@@ -1,0 +1,14 @@
+
+Antecedentes	O
+personales	O
+:	O
+mujer	O
+de	O
+46	O
+años	O
+,	O
+soltera	O
+e	O
+hija	O
+única	O
+.	O

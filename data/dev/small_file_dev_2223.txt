@@ -1,0 +1,26 @@
+
+En	O
+seguimiento	O
+desde	O
+2009	O
+a	O
+2013	O
+en	O
+USMC	O
+rural	O
+de	O
+la	O
+provincia	O
+,	O
+con	O
+diagnóstico	O
+de	O
+"	O
+trastorno	O
+esquizoafectivo	O
+"	O
+y	O
+tratamiento	O
+con	O
+olanzapina	O
+.	O

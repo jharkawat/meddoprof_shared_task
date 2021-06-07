@@ -1,0 +1,11 @@
+
+Dolor	O
+a	O
+la	O
+puñopercusión	O
+en	O
+las	O
+apófisis	O
+espinosas	O
+cervicales	O
+.	O

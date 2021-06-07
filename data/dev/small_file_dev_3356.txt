@@ -1,0 +1,16 @@
+
+Actualmente	O
+se	O
+revisa	O
+por	O
+la	O
+osteoporosis	O
+con	O
+un	O
+endocrino	B-PROFESION
+en	O
+el	O
+hospital	O
+Hermanos	O
+Almejeira	O
+.	O

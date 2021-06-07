@@ -1,0 +1,23 @@
+
+Posteriormente	O
+el	O
+cultivo	O
+de	O
+LCR	O
+fue	O
+negativo	O
+y	O
+en	O
+los	O
+Hemocultivos	O
+creció	O
+un	O
+S	O
+gallolyticus	O
+spp	O
+pasteurianus	O
+sensible	O
+a	O
+la	O
+Penicilina	O
+.	O

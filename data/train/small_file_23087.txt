@@ -1,0 +1,10 @@
+
+Ex	O
+-	O
+consumidora	O
+de	O
+cocaína	O
+y	O
+heroína	O
+intravenosa	O
+.	O

@@ -1,0 +1,9 @@
+
+Asocia	O
+disnea	O
+al	O
+caminar	O
+y	O
+subir	O
+escaleras	O
+.	O

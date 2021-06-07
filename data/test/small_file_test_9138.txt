@@ -1,0 +1,27 @@
+
+Dos	O
+días	O
+más	O
+tarde	O
+,	O
+el	O
+día	O
+15	O
+de	O
+febrero	O
+,	O
+vuelve	O
+a	O
+acudir	O
+a	O
+dicho	O
+servicio	O
+por	O
+persistencia	O
+del	O
+deterioro	O
+de	O
+su	O
+estado	O
+basal	O
+.	O

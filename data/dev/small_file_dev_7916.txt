@@ -1,0 +1,24 @@
+
+Por	O
+otra	O
+parte	O
+la	O
+lesión	O
+hepática	O
+se	O
+mantenía	O
+estable	O
+respecto	O
+a	O
+la	O
+prueba	O
+de	O
+imagen	O
+previa	O
+,	O
+sin	O
+datos	O
+de	O
+trombosis	O
+portal	O
+.	O

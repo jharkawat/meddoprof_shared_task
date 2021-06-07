@@ -1,0 +1,15 @@
+
+Se	O
+traslada	O
+al	O
+hospital	O
+donde	O
+se	O
+monitoriza	O
+y	O
+se	O
+hace	O
+interconsulta	O
+a	O
+psiquiatría	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+indica	O
+punción	O
+lumbar	O
+que	O
+,	O
+finalmente	O
+,	O
+no	O
+se	O
+lleva	O
+a	O
+cabo	O
+por	O
+pancitopenia	O
+grado	O
+4	O
+.	O

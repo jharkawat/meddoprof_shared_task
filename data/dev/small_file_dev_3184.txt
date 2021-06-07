@@ -1,0 +1,18 @@
+
+Realiza	O
+una	O
+dieta	O
+equilibrada	O
+y	O
+hace	O
+en	O
+la	O
+medida	O
+de	O
+lo	O
+posible	O
+cinco	O
+comidas	O
+al	O
+día	O
+.	O

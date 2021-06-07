@@ -1,0 +1,23 @@
+
+Llamó	O
+a	O
+amigos	O
+y	O
+parientes	O
+,	O
+así	O
+como	O
+también	O
+a	O
+la	O
+clínica	O
+maternal	O
+,	O
+quejándose	O
+por	O
+el	O
+trato	O
+que	O
+había	O
+recibido	O
+.	O

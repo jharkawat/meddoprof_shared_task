@@ -1,0 +1,19 @@
+
+Su	O
+madre	O
+la	O
+describe	O
+como	O
+una	O
+niña	O
+aislada	O
+,	O
+"	O
+diferente	O
+"	O
+,	O
+con	O
+escaso	O
+interés	O
+social	O
+.	O

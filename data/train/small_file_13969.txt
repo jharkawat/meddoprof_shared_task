@@ -1,0 +1,20 @@
+
+Pérdida	O
+de	O
+consciencia	O
+aguda	O
+de	O
+minutos	O
+de	O
+duración	O
+con	O
+desviación	O
+de	O
+la	O
+comisura	O
+bucal	O
+y	O
+recuperación	O
+con	O
+somnolencia	O
+.	O

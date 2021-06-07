@@ -1,0 +1,19 @@
+
+Los	O
+acompañamientos	O
+terapéuticos	O
+fueron	O
+muy	O
+importantes	O
+ya	O
+que	O
+se	O
+reforzó	O
+en	O
+vínculo	O
+que	O
+se	O
+mantenía	O
+con	O
+él	O
+.	O

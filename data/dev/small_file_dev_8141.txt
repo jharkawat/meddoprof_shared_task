@@ -1,0 +1,21 @@
+
+En	O
+estos	O
+casos	O
+,	O
+la	O
+gran	O
+mayoría	O
+(	O
+más	O
+del	O
+90	O
+%	O
+)	O
+de	O
+pericarditis	O
+son	O
+idiopáticas	O
+o	O
+virales	O
+.	O

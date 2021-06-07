@@ -1,0 +1,17 @@
+
+La	O
+auscultación	O
+cardiopulmonar	O
+era	O
+rítmica	O
+,	O
+sin	O
+soplos	O
+ni	O
+roces	O
+cardiacos	O
+,	O
+con	O
+roncus	O
+bibasales	O
+.	O

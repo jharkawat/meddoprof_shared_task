@@ -1,0 +1,7 @@
+
+No	O
+realizaba	O
+ningún	O
+tratamiento	O
+habitual	O
+.	O

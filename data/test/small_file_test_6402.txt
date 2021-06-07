@@ -1,0 +1,15 @@
+
+Se	O
+decide	O
+no	O
+administrar	O
+tratamiento	O
+de	O
+quimioterapia	O
+adyuvante	O
+debido	O
+al	O
+escaso	O
+beneficio	O
+esperado	O
+.	O

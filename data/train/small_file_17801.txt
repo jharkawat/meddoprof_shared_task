@@ -1,0 +1,17 @@
+
+Tanto	O
+las	O
+pruebas	O
+cerebelosas	O
+como	O
+la	O
+marcha	O
+fueron	O
+normales	O
+y	O
+los	O
+signos	O
+meníngeos	O
+fueron	O
+negativos	O
+.	O

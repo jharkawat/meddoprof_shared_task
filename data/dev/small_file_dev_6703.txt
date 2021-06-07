@@ -1,0 +1,26 @@
+
+El	O
+sistemático	O
+de	O
+orina	O
+no	O
+presenta	O
+datos	O
+sugestivos	O
+de	O
+infección	O
+y	O
+la	O
+radiografía	O
+de	O
+tórax	O
+no	O
+muestra	O
+infiltrados	O
+pulmonares	O
+ni	O
+otras	O
+alteraciones	O
+de	O
+interés	O
+.	O

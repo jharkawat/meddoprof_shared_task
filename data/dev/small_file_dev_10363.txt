@@ -1,0 +1,25 @@
+
+Se	O
+le	O
+permitió	O
+trabajar	O
+en	O
+los	O
+archivos	O
+-	O
+un	O
+trabajo	O
+fácil	O
+que	O
+anteriormente	O
+se	O
+le	O
+daba	O
+a	O
+los	O
+empleados	B-SITUACION_LABORAL
+que	O
+estaban	O
+por	O
+jubilarse	O
+.	O

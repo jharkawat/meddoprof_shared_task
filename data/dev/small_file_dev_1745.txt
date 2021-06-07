@@ -1,0 +1,22 @@
+
+Varón	O
+de	O
+20	O
+años	O
+,	O
+acude	O
+al	O
+servicio	O
+de	O
+Urgencias	O
+por	O
+alteraciones	O
+de	O
+conducta	O
+en	O
+domicilio	O
+y	O
+desorganización	O
+del	O
+pensamiento	O
+.	O

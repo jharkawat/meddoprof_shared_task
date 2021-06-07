@@ -1,0 +1,20 @@
+
+Durante	O
+la	O
+pelea	O
+,	O
+su	O
+madre	O
+le	O
+tiró	O
+un	O
+cazo	O
+de	O
+agua	O
+caliente	O
+y	O
+le	O
+quemó	O
+el	O
+hombro	O
+.	O

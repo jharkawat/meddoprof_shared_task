@@ -1,0 +1,4 @@
+
+Hemocultivo	O
+negativo	O
+.	O

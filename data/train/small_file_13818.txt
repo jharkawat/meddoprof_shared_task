@@ -1,0 +1,11 @@
+
+La	O
+histología	O
+fue	O
+compatible	O
+con	O
+mesotelioma	O
+pericárdico	O
+epitelioide	O
+pleomorfo	O
+.	O

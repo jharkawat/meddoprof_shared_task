@@ -1,0 +1,22 @@
+
+Marcha	O
+con	O
+buen	O
+paso	O
+,	O
+aumento	O
+de	O
+base	O
+de	O
+sustentación	O
+,	O
+lateropulsión	O
+derecha	O
+,	O
+braceo	O
+izquierdo	O
+disminuido	O
+y	O
+giro	O
+conservado	O
+.	O

@@ -1,0 +1,25 @@
+
+En	O
+los	O
+últimos	O
+años	O
+incrementa	O
+su	O
+consumo	O
+de	O
+hachís	O
+,	O
+llegando	O
+a	O
+un	O
+consumo	O
+de	O
+10	O
+a	O
+12	O
+"	O
+porros	O
+"	O
+al	O
+día	O
+.	O

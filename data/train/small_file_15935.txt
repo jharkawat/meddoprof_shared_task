@@ -1,0 +1,14 @@
+
+Es	O
+intervenido	O
+mediante	O
+nefrectomía	O
+y	O
+prostatectomía	O
+radical	O
+(	O
+7	O
+/	O
+2004	O
+)	O
+.	O

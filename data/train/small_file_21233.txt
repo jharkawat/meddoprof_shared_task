@@ -1,0 +1,25 @@
+
+Había	O
+iniciado	O
+tratamiento	O
+psiquiátrico	O
+en	O
+ese	O
+momento	O
+,	O
+que	O
+posteriormente	O
+abandona	O
+,	O
+al	O
+no	O
+notar	O
+cambios	O
+en	O
+su	O
+estado	O
+clínico	O
+,	O
+según	O
+refiere	O
+.	O

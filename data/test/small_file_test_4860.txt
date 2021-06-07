@@ -1,0 +1,25 @@
+
+Según	O
+el	O
+relato	O
+de	O
+la	O
+paciente	O
+,	O
+presentaba	O
+desde	O
+hacía	O
+meses	O
+un	O
+cuadro	O
+clínico	O
+compatible	O
+con	O
+lumbalgia	O
+mecánica	O
+,	O
+sin	O
+otra	O
+clínica	O
+asociada	O
+.	O

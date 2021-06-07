@@ -1,0 +1,15 @@
+
+Además	O
+,	O
+se	O
+diagnosticó	O
+de	O
+neumonía	O
+varicelosa	O
+secundaria	O
+y	O
+anemia	O
+megaloblástica	O
+por	O
+azatioprina	O
+.	O

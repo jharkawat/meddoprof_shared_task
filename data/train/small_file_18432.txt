@@ -1,0 +1,23 @@
+
+Su	O
+vida	O
+cotidiana	O
+transcurre	O
+en	O
+casa	O
+,	O
+sin	O
+hacer	O
+nada	O
+;	O
+pisa	O
+la	O
+calle	O
+sólo	O
+para	O
+conseguir	O
+el	O
+dinero	O
+que	O
+necesita	O
+.	O

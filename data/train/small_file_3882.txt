@@ -1,0 +1,14 @@
+
+Aviso	O
+domiciliario	O
+para	O
+valoración	O
+y	O
+tratamiento	O
+de	O
+paciente	O
+con	O
+cuadro	O
+confusional	O
+agudo	O
+.	O

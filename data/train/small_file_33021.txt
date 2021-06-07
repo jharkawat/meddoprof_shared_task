@@ -1,0 +1,6 @@
+
+Leve	O
+disartria	O
+y	O
+somnolencia	O
+.	O

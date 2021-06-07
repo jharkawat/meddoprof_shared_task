@@ -1,0 +1,22 @@
+
+Acude	O
+por	O
+un	O
+cuadro	O
+de	O
+parestesias	O
+y	O
+dolor	O
+localizado	O
+en	O
+zona	O
+glútea	O
+lateral	O
+extendiéndose	O
+por	O
+cara	O
+externa	O
+hacia	O
+la	O
+rodilla	O
+.	O

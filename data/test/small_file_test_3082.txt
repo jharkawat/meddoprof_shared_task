@@ -1,0 +1,18 @@
+
+Ingresa	O
+en	O
+Traumatología	O
+para	O
+estabilización	O
+quirúrgica	O
+de	O
+la	O
+fractura	O
+y	O
+se	O
+realiza	O
+interconsulta	O
+a	O
+Medicina	O
+Interna	O
+.	O

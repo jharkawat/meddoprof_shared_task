@@ -1,0 +1,15 @@
+
+Se	O
+tomó	O
+biopsia	O
+y	O
+se	O
+pidió	O
+un	O
+estudio	O
+de	O
+extensión	O
+local	O
+del	O
+proceso	O
+.	O

@@ -1,0 +1,19 @@
+
+Actualmente	O
+,	O
+la	O
+paciente	O
+está	O
+pendiente	O
+de	O
+nueva	O
+reevaluación	O
+de	O
+enfermedad	O
+con	O
+TC	O
+para	O
+intentar	O
+resección	O
+quirúrgica	O
+.	O

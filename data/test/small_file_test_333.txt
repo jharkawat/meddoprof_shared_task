@@ -1,0 +1,7 @@
+
+Motilidad	O
+adecuada	O
+del	O
+globo	O
+ocular	O
+.	O

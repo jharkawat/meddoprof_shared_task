@@ -1,0 +1,13 @@
+
+Durante	O
+su	O
+ingreso	O
+presenta	O
+episodios	O
+de	O
+febrícula	O
+vespertina	O
+con	O
+sudoración	O
+profusa	O
+.	O

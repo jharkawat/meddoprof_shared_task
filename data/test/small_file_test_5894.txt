@@ -1,0 +1,22 @@
+
+Se	O
+realiza	O
+Rx	O
+de	O
+tórax	O
+donde	O
+se	O
+objetiva	O
+infiltrados	O
+alveolares	O
+parcheados	O
+bilaterales	O
+con	O
+afectación	O
+de	O
+la	O
+totalidad	O
+de	O
+ambos	O
+hemitórax	O
+.	O

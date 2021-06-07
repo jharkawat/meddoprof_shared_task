@@ -1,0 +1,4 @@
+
+TC	O
+torácico	O
+.	O

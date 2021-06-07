@@ -1,0 +1,19 @@
+
+Se	O
+realiza	O
+cepillado	O
+citológico	O
+en	O
+región	O
+anterior	O
+de	O
+carina	O
+donde	O
+se	O
+aprecia	O
+un	O
+festoneado	O
+de	O
+la	O
+mucosa	O
+.	O

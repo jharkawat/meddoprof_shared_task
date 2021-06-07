@@ -1,0 +1,10 @@
+
+No	O
+manifiesta	O
+sintomatología	O
+afectiva	O
+mayor	O
+ni	O
+gran	O
+angustia	O
+.	O

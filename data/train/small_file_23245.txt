@@ -1,0 +1,10 @@
+
+No	O
+se	O
+observó	O
+ningún	O
+otro	O
+síntoma	O
+no	O
+psicótico	O
+.	O

@@ -1,0 +1,7 @@
+
+Hijo	O
+único	O
+de	O
+padres	O
+separados	O
+.	O

@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+27	O
+años	O
+,	O
+ingresa	O
+en	O
+la	O
+sala	O
+de	O
+agudos	O
+de	O
+Psiquiatría	O
+,	O
+procedente	O
+de	O
+Urgencias	O
+.	O

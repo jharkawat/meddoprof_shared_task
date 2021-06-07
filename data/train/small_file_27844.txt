@@ -1,0 +1,16 @@
+
+No	O
+se	O
+le	O
+dio	O
+y	O
+marchó	O
+amenazando	O
+con	O
+denunciar	O
+a	O
+los	O
+médicos	B-PROFESION
+del	I-PROFESION
+centro	I-PROFESION
+.	O

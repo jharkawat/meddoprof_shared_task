@@ -1,0 +1,27 @@
+
+Causas	O
+hematológicas	O
+no	O
+neoplásicas	O
+:	O
+anemia	O
+hemolítica	O
+,	O
+púrpura	O
+trombocitopénica	O
+inmune	O
+(	O
+sobre	O
+todo	O
+en	O
+las	O
+formas	O
+secundarias	O
+de	O
+la	O
+enfermedad	O
+)	O
+o	O
+trastornos	O
+histocitiarios	O
+.	O

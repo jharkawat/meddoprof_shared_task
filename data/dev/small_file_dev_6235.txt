@@ -1,0 +1,15 @@
+
+La	O
+infección	O
+por	O
+Nocardia	O
+spp	O
+puede	O
+dividirse	O
+en	O
+pulmonar	O
+,	O
+sistémica	O
+o	O
+cutánea	O
+.	O

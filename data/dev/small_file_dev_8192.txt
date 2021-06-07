@@ -1,0 +1,17 @@
+
+El	O
+tránsito	O
+con	O
+bario	O
+presentaba	O
+hallazgos	O
+compatibles	O
+con	O
+un	O
+cuadro	O
+inflamatorio	O
+regional	O
+o	O
+componente	O
+malabsortivo	O
+.	O

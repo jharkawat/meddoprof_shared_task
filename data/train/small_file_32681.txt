@@ -1,0 +1,9 @@
+
+Resto	O
+del	O
+estudio	O
+,	O
+sin	O
+alteraciones	O
+significativas	O
+.	O

@@ -1,0 +1,13 @@
+
+Hermana	O
+fallecida	O
+por	O
+enfermedad	O
+cardiológica	O
+a	O
+los	O
+6	O
+meses	O
+de	O
+edad	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+se	O
+deriva	O
+a	O
+la	O
+unidad	O
+de	O
+hospitalización	O
+domiciliaria	O
+para	O
+seguimiento	O
+y	O
+tratamiento	O
+siendo	O
+finalmente	O
+éxitus	O
+.	O

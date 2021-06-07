@@ -1,0 +1,15 @@
+
+Se	O
+apreció	O
+seroconversión	O
+para	O
+Leptospira	O
+,	O
+con	O
+títulos	O
+superiores	O
+a	O
+1	O
+:	O
+1280	O
+.	O

@@ -1,0 +1,6 @@
+
+Echinococo	O
+(	O
+-	O
+)	O
+.	O

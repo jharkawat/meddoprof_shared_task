@@ -1,0 +1,8 @@
+
+No	O
+presenta	O
+otros	O
+hallazgos	O
+de	O
+interés	O
+.	O

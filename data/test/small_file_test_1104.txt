@@ -1,0 +1,25 @@
+
+Se	O
+realizó	O
+la	O
+reacción	O
+en	O
+cadena	O
+polimerasa	O
+en	O
+tiempo	O
+real	O
+para	O
+SARS	O
+-	O
+Cov	O
+-	O
+2	O
+,	O
+resultando	O
+positivo	O
+(	O
+InGenius	O
+®	O
+)	O
+.	O

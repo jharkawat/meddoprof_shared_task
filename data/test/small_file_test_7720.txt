@@ -1,0 +1,23 @@
+
+En	O
+cuanto	O
+el	O
+dolor	O
+en	O
+EII	O
+,	O
+se	O
+descarta	O
+trombosis	O
+venosa	O
+profunda	O
+y	O
+se	O
+instaura	O
+analgesia	O
+endovenosa	O
+con	O
+paracetamol	O
+y	O
+dexketoprofeno	O
+.	O

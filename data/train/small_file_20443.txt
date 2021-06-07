@@ -1,0 +1,13 @@
+
+Amador	O
+iba	O
+bien	O
+vestido	O
+y	O
+se	O
+mostraba	O
+colaborador	O
+y	O
+bien	O
+orientado	O
+.	O

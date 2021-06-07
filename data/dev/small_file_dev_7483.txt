@@ -1,0 +1,8 @@
+
+Neurotoxicidad	O
+y	O
+colestasis	O
+hepática	O
+por	O
+voriconazol	O
+.	O

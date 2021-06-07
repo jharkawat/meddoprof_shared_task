@@ -1,0 +1,24 @@
+
+Se	O
+pauta	O
+lorazepam	O
+hasta	O
+15	O
+mg	O
+/	O
+día	O
+,	O
+olanzapina	O
+hasta	O
+30	O
+mg	O
+/	O
+día	O
+y	O
+oxcarbazepina	O
+hasta	O
+1200	O
+mg	O
+/	O
+día	O
+.	O

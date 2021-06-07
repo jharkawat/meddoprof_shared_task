@@ -1,0 +1,14 @@
+
+Aduce	O
+que	O
+prefiere	O
+la	O
+comida	O
+de	O
+su	O
+madre	O
+a	O
+la	O
+del	O
+hospital	O
+.	O

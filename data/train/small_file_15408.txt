@@ -1,0 +1,20 @@
+
+Su	O
+enfermedad	O
+se	O
+inició	O
+con	O
+una	O
+pápula	O
+eritematosa	O
+y	O
+pruriginosa	O
+en	O
+la	O
+región	O
+lumbar	O
+que	O
+luego	O
+se	O
+ulceró	O
+.	O

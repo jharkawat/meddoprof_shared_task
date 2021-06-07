@@ -1,0 +1,24 @@
+
+Los	O
+sentidos	O
+con	O
+que	O
+se	O
+ha	O
+empleado	O
+la	O
+expresión	O
+son	O
+muy	O
+diversos	O
+y	O
+la	O
+problemática	O
+penal	O
+al	O
+respecto	O
+no	O
+está	O
+claramente	O
+planteada	O
+.	O

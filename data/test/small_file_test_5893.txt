@@ -1,0 +1,11 @@
+
+No	O
+dolor	O
+torácico	O
+en	O
+reposo	O
+ni	O
+con	O
+los	O
+esfuerzos	O
+.	O

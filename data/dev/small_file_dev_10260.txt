@@ -1,0 +1,12 @@
+
+Tienen	O
+buenos	O
+ingresos	O
+y	O
+tienen	O
+un	O
+buen	O
+nivel	O
+de	O
+vida	O
+.	O

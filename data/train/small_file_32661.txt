@@ -1,0 +1,26 @@
+
+A	O
+la	O
+exploración	O
+del	O
+estado	O
+mental	O
+,	O
+se	O
+encuentra	O
+consciente	O
+y	O
+orientado	O
+de	O
+forma	O
+global	O
+,	O
+aparentemente	O
+tranquilo	O
+,	O
+colaborador	O
+,	O
+abordable	O
+y	O
+atento	O
+.	O

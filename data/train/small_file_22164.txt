@@ -1,0 +1,20 @@
+
+Iban	O
+a	O
+mediodía	O
+,	O
+almorzaban	O
+y	O
+jugaban	O
+,	O
+después	O
+empezó	O
+a	O
+ir	O
+todos	O
+los	O
+días	O
+a	O
+cualquier	O
+hora	O
+.	O

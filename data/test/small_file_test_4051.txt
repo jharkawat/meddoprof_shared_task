@@ -1,0 +1,10 @@
+
+Persisten	O
+las	O
+imágenes	O
+de	O
+adenopatías	O
+en	O
+hilio	O
+izquierdo	O
+.	O

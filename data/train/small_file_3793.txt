@@ -1,0 +1,17 @@
+
+Consciente	O
+,	O
+orientado	O
+,	O
+colaborador	O
+,	O
+eupneico	O
+en	O
+reposo	O
+,	O
+normohidratado	O
+,	O
+normoperfundido	O
+,	O
+normocoloreado	O
+.	O

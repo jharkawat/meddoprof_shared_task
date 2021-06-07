@@ -1,0 +1,16 @@
+
+Se	O
+realizó	O
+una	O
+colonoscopia	O
+,	O
+cuyo	O
+informe	O
+anatomopatológico	O
+fue	O
+una	O
+colitis	O
+crónica	O
+leve	O
+inespecífica	O
+.	O

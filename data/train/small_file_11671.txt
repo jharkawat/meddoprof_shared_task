@@ -1,0 +1,12 @@
+
+En	O
+el	O
+abdomen	O
+y	O
+las	O
+extremidades	O
+no	O
+se	O
+encuentran	O
+alteraciones	O
+.	O

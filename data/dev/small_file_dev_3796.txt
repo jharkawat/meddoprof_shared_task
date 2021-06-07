@@ -1,0 +1,20 @@
+
+Sin	O
+embargo	O
+,	O
+no	O
+empleaba	O
+el	O
+lenguaje	O
+para	O
+comunicarse	O
+,	O
+sino	O
+que	O
+repetía	O
+frases	O
+una	O
+y	O
+otra	O
+vez	O
+.	O

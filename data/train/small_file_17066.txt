@@ -1,0 +1,8 @@
+
+Trabajaba	O
+como	O
+dependienta	B-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+comercio	I-PROFESION
+.	O

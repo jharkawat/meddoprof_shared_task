@@ -1,0 +1,10 @@
+
+Escasa	O
+repercusión	O
+emocional	O
+de	O
+la	O
+clínica	O
+delirante	O
+señalada	O
+.	O

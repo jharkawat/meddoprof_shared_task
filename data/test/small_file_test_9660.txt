@@ -1,0 +1,12 @@
+
+Puede	O
+iniciar	O
+actividades	O
+deportivas	O
+como	O
+natación	O
+y	O
+deambula	O
+con	O
+muletas	O
+.	O

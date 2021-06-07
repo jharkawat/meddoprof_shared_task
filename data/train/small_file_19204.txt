@@ -1,0 +1,7 @@
+
+Primer	O
+contacto	O
+con	O
+salud	O
+mental	O
+.	O

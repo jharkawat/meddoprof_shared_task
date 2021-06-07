@@ -1,0 +1,20 @@
+
+VCM	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+Plaquetas	O
+:	O
+249	O
+x	O
+103	O
+/	O
+μL	O
+.	O

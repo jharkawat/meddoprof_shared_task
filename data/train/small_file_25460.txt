@@ -1,0 +1,21 @@
+
+Ingresa	O
+en	O
+nuestro	O
+centro	O
+en	O
+enero	O
+de	O
+2001	O
+por	O
+consumo	O
+de	O
+heroína	O
+fumada	O
+(	O
+esporádicamente	O
+mezclada	O
+con	O
+cocaína	O
+)	O
+.	O

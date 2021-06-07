@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+responde	O
+de	O
+manera	O
+satisfactoria	O
+al	O
+tratamiento	O
+,	O
+logrando	O
+estar	O
+completamente	O
+asintomático	O
+.	O

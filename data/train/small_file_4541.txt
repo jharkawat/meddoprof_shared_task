@@ -1,0 +1,13 @@
+
+-	O
+Carcinoma	O
+de	O
+colon	O
+tratado	O
+con	O
+hemicolectomia	O
+derecha	O
+en	O
+año	O
+2007	O
+.	O

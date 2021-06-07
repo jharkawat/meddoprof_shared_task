@@ -1,0 +1,11 @@
+
+Antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+:	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

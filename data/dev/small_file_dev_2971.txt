@@ -1,0 +1,16 @@
+
+Se	O
+encontraba	O
+viviendo	O
+en	B-SITUACION_LABORAL
+piso	I-SITUACION_LABORAL
+tutelado	I-SITUACION_LABORAL
+gestionado	O
+por	O
+Servicios	O
+Sociales	O
+de	O
+su	O
+Comunidad	O
+Autónoma	O
+.	O

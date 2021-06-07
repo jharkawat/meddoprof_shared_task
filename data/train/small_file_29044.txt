@@ -1,0 +1,20 @@
+
+Antecedentes	O
+médicos	O
+:	O
+accidente	O
+de	O
+tráfico	O
+en	O
+1996	O
+con	O
+diversas	O
+fracturas	O
+y	O
+traumatismo	O
+craneoencefálico	O
+con	O
+pérdida	O
+de	O
+conocimiento	O
+.	O

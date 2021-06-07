@@ -1,0 +1,15 @@
+
+El	O
+día	O
+6	O
+de	O
+hospitalización	O
+se	O
+realizó	O
+un	O
+Test	O
+de	O
+Evaluación	O
+Cognitiva	O
+Montreal	O
+.	O

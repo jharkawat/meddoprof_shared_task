@@ -1,0 +1,19 @@
+
+En	O
+un	O
+control	O
+sucesivo	O
+un	O
+año	O
+después	O
+,	O
+aparecen	O
+metástasis	O
+pulmonares	O
+múltiples	O
+,	O
+atribuidas	O
+al	O
+primario	O
+parotídeo	O
+.	O

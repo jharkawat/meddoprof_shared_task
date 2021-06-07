@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+fue	O
+tratada	O
+empíricamente	O
+con	O
+doxiciclina	O
+(	O
+200mg	O
+/	O
+24h	O
+durante	O
+6	O
+días	O
+)	O
+.	O

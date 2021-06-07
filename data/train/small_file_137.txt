@@ -1,0 +1,11 @@
+
+También	O
+negó	O
+haber	O
+consumido	O
+drogas	O
+,	O
+alcohol	O
+o	O
+tabaco	O
+.	O

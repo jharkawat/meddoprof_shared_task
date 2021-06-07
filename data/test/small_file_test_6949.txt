@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+se	O
+encuentra	O
+asintomático	O
+y	O
+sin	O
+síndrome	O
+tóxico	O
+asociado	O
+;	O
+índice	O
+de	O
+Karnofsky	O
+(	O
+IK	O
+)	O
+del	O
+100	O
+%	O
+.	O

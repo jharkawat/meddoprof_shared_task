@@ -1,0 +1,14 @@
+
+Ingresa	O
+a	O
+cargo	O
+de	O
+Neurología	O
+con	O
+diagnóstico	O
+de	O
+Síndrome	O
+confusional	O
+en	O
+estudio	O
+.	O

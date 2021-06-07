@@ -1,0 +1,11 @@
+
+-	O
+Miositis	O
+en	O
+inserción	O
+esternal	O
+del	O
+músculo	O
+esternocleidomastoideo	O
+izquierdo	O
+.	O

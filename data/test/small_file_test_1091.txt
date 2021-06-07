@@ -1,0 +1,26 @@
+
+Sus	O
+imágenes	O
+radiológicas	O
+consistieron	O
+igualmente	O
+de	O
+imágenes	O
+en	O
+vidrio	O
+despulido	O
+,	O
+en	O
+parches	O
+bilaterales	O
+y	O
+profusos	O
+,	O
+abarcando	O
+prácticamente	O
+todas	O
+las	O
+regiones	O
+del	O
+pulmón	O
+.	O

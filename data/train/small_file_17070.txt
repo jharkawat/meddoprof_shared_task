@@ -1,0 +1,10 @@
+
+Eupneica	O
+,	O
+leve	O
+palidez	O
+mucocutánea	O
+,	O
+no	O
+diaforética	O
+.	O

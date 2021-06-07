@@ -1,0 +1,26 @@
+
+Los	O
+segundos	O
+hemocultivos	O
+extraidos	O
+sin	O
+fiebre	O
+y	O
+el	O
+SEPTIFAST	O
+fueron	O
+negativos	O
+y	O
+la	O
+TC	O
+abdominal	O
+no	O
+mostró	O
+datos	O
+de	O
+infección	O
+intraabdominal	O
+ni	O
+patología	O
+colónica	O
+.	O

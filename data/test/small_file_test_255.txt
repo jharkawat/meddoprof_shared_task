@@ -1,0 +1,7 @@
+
+No	O
+se	O
+refieren	O
+otros	O
+trastornos	O
+.	O

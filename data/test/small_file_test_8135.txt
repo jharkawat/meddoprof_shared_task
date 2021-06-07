@@ -1,0 +1,10 @@
+
+Metástasis	O
+de	O
+adenocarcinoma	O
+,	O
+de	O
+probable	O
+origen	O
+pulmonar	O
+.	O

@@ -1,0 +1,27 @@
+
+Tras	O
+dicho	O
+descanso	O
+la	O
+afectación	O
+cutánea	O
+disminuyó	O
+a	O
+grado	O
+1	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+reintrodujo	O
+el	O
+erlotinib	O
+a	O
+dosis	O
+de	O
+100	O
+mg	O
+/	O
+día	O
+.	O

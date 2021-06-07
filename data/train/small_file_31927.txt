@@ -1,0 +1,9 @@
+
+Frecuencia	O
+Cardiaca	O
+(	O
+FC	O
+)	O
+:	O
+77	O
+lpm	O

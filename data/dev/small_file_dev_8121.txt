@@ -1,0 +1,23 @@
+
+Un	O
+ECG	O
+puso	O
+de	O
+manifiesto	O
+un	O
+ritmo	O
+sinusal	O
+junto	O
+a	O
+una	O
+elevación	O
+del	O
+segmento	O
+ST	O
+con	O
+concavidad	O
+superior	O
+en	O
+múltiples	O
+derivaciones	O
+.	O

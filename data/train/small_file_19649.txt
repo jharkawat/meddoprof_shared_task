@@ -1,0 +1,8 @@
+
+Tipo	O
+de	O
+parto	O
+:	O
+Normal	O
+:	O
+X	O

@@ -1,0 +1,16 @@
+
+Reside	O
+en	O
+piso	O
+de	O
+acogida	O
+y	O
+es	O
+estudiante	B-SITUACION_LABORAL
+en	I-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+módulo	I-SITUACION_LABORAL
+de	O
+formación	O
+profesional	O
+.	O

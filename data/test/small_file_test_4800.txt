@@ -1,0 +1,11 @@
+
+CK	O
+19	O
+:	O
+positiva	O
+(	O
++	O
++	O
++	O
+)	O
+.	O

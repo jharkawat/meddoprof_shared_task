@@ -1,0 +1,10 @@
+
+No	O
+había	O
+presentado	O
+descompensaciones	O
+clínicas	O
+de	O
+hepatopatía	O
+crónica	O
+.	O

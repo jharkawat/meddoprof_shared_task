@@ -1,0 +1,15 @@
+
+Refería	O
+que	O
+se	O
+sentía	O
+vigilado	O
+y	O
+pedía	O
+que	O
+bajasen	O
+las	O
+persianas	O
+de	O
+casa	O
+.	O

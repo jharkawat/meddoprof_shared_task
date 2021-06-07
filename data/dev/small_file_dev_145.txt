@@ -1,0 +1,9 @@
+
+Antecedentes	O
+personales	O
+:	O
+nacido	O
+de	O
+parto	O
+eutócico	O
+.	O

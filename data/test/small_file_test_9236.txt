@@ -1,0 +1,5 @@
+
+Situación	O
+socio	O
+-	O
+funcional	O

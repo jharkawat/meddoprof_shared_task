@@ -1,0 +1,18 @@
+
+Adenopatías	O
+palpables	O
+latero	O
+-	O
+cervicales	O
+izquierdas	O
+,	O
+móviles	O
+,	O
+dolorosas	O
+,	O
+con	O
+dudosa	O
+tumefacción	O
+parotídea	O
+bilateral	O
+.	O

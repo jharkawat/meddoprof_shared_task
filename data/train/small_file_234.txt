@@ -1,0 +1,20 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+realizada	O
+muestra	O
+aumento	O
+de	O
+la	O
+trama	O
+broncovascular	O
+y	O
+dudoso	O
+infiltrado	O
+en	O
+lóbulo	O
+inferior	O
+izquierdo	O
+.	O

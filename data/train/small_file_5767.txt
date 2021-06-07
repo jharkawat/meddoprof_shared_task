@@ -1,0 +1,27 @@
+
+A	O
+pesar	O
+de	O
+toracocentesis	O
+,	O
+la	O
+evolución	O
+es	O
+tórpida	O
+y	O
+el	O
+paciente	O
+fallece	O
+a	O
+las	O
+horas	O
+del	O
+ingreso	O
+,	O
+tras	O
+pauta	O
+de	O
+perfusión	O
+de	O
+morfina	O
+.	O

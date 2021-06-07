@@ -1,0 +1,14 @@
+
+Adenocarcinoma	O
+de	O
+tipo	O
+entérico	O
+de	O
+fosa	O
+nasal	O
+izquierda	O
+cT3NxM0	O
+,	O
+estadio	O
+III	O
+.	O

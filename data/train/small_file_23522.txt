@@ -1,0 +1,17 @@
+
+Paciente	O
+de	O
+63	O
+años	O
+,	O
+con	O
+5	O
+años	O
+de	O
+evolución	O
+de	O
+un	O
+trastorno	O
+obsesivo	O
+compulsivo	O
+.	O

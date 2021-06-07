@@ -1,0 +1,19 @@
+
+Ante	O
+los	O
+datos	O
+epidemiológicos	O
+,	O
+clínica	O
+y	O
+resultados	O
+serológicos	O
+se	O
+trata	O
+de	O
+un	O
+cuadro	O
+compatible	O
+con	O
+Leptopirosis	O
+.	O

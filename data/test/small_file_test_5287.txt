@@ -1,0 +1,17 @@
+
+Como	O
+antecedentes	O
+familiares	O
+:	O
+padre	O
+fallecido	O
+por	O
+patología	O
+cardiovascular	O
+;	O
+la	O
+paciente	O
+desconoce	O
+más	O
+información	O
+.	O

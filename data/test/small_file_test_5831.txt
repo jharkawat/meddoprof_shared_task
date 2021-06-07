@@ -1,0 +1,7 @@
+
+EGFR	O
+Nativo	O
+,	O
+ALK	O
+traslocado	O
+.	O

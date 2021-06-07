@@ -1,0 +1,17 @@
+
+Mujer	O
+de	O
+43	O
+años	O
+,	O
+casada	O
+con	O
+una	O
+hija	O
+,	O
+actualmente	O
+es	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+.	O

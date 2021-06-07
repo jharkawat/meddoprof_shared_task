@@ -1,0 +1,16 @@
+
+Padre	O
+fallecido	O
+por	O
+cáncer	O
+de	O
+vejiga	O
+en	O
+2010	O
+(	O
+historia	O
+personal	O
+de	O
+alcoholismo	O
+)	O
+.	O

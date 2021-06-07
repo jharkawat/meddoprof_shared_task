@@ -1,0 +1,21 @@
+
+Se	O
+solicitó	O
+estudio	O
+de	O
+crioglobulinas	O
+que	O
+resultó	O
+positivo	O
+,	O
+aunque	O
+no	O
+se	O
+pudo	O
+analizar	O
+el	O
+criocrito	O
+por	O
+problemas	O
+técnicos	O
+.	O

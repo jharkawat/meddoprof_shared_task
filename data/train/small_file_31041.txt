@@ -1,0 +1,23 @@
+
+Se	O
+ha	O
+decidido	O
+mantener	O
+la	O
+misma	O
+dosis	O
+al	O
+alta	O
+de	O
+clozapina	O
+,	O
+150	O
+mg	O
+/	O
+d	O
+,	O
+en	O
+única	O
+toma	O
+nocturna	O
+.	O

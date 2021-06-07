@@ -1,0 +1,8 @@
+
+La	O
+clínica	O
+ansiosa	O
+ha	O
+remitido	O
+progresivamente	O
+.	O

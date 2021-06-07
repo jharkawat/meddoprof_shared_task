@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+era	O
+natural	O
+de	O
+Almería	O
+,	O
+residente	O
+actualmente	O
+en	O
+Granada	O
+desde	O
+hacía	O
+15	O
+años	O
+.	O

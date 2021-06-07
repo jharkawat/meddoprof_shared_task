@@ -1,0 +1,10 @@
+
+ACV	O
+:	O
+Ruidos	O
+cardíacos	O
+rítmicos	O
+y	O
+bien	O
+golpeados	O
+.	O

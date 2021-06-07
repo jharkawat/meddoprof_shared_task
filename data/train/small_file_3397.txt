@@ -1,0 +1,15 @@
+
+Evitar	O
+acostarse	O
+antes	O
+de	O
+dos	O
+horas	O
+después	O
+de	O
+cenar	O
+,	O
+evitar	O
+comidas	O
+copiosas	O
+.	O

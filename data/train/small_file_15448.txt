@@ -1,0 +1,22 @@
+
+Se	O
+hospitalizó	O
+y	O
+recibió	O
+una	O
+segunda	O
+serie	O
+de	O
+antimoniato	O
+de	O
+meglumina	O
+con	O
+lo	O
+cual	O
+las	O
+lesiones	O
+mejoraron	O
+de	O
+manera	O
+satisfactoria	O
+.	O

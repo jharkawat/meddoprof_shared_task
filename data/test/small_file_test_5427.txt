@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+inicia	O
+un	O
+progresivo	O
+deterioro	O
+con	O
+aparición	O
+de	O
+pancitopenia	O
+mantenida	O
+por	O
+infiltración	O
+medular	O
+,	O
+falleciendo	O
+,	O
+desgraciadamente	O
+,	O
+en	O
+febrero	O
+de	O
+2016	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+cuanto	O
+a	O
+los	O
+antecedentes	O
+personales	O
+,	O
+únicamente	O
+dislipemia	O
+en	O
+el	O
+contexto	O
+de	O
+hipercolesterolemia	O
+familiar	O
+,	O
+en	O
+tratamiento	O
+con	O
+ezetimiba	O
+10	O
+mg	O
+/	O
+24	O
+h	O
+.	O

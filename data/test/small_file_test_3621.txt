@@ -1,0 +1,15 @@
+
+Mujer	O
+de	O
+74	O
+años	O
+,	O
+sin	O
+alergias	O
+farmacológicas	O
+conocidas	O
+,	O
+cocinera	B-PROFESION
+de	O
+profesión	O
+.	O

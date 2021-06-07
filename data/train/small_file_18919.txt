@@ -1,0 +1,15 @@
+
+También	O
+consume	O
+alcohol	O
+de	O
+forma	O
+ocasional	O
+,	O
+esporádicamente	O
+asociado	O
+al	O
+resto	O
+de	O
+sustancias	O
+.	O

@@ -1,0 +1,12 @@
+
+A	O
+la	O
+exploración	O
+física	O
+la	O
+paciente	O
+presenta	O
+marcada	O
+asimetría	O
+mamaria	O
+.	O

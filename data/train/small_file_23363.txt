@@ -1,0 +1,26 @@
+
+Al	O
+parecer	O
+,	O
+desde	O
+su	O
+juventud	O
+escribe	O
+por	O
+afición	O
+poemas	O
+y	O
+relatos	O
+,	O
+algunos	O
+de	O
+los	O
+cuales	O
+han	O
+sido	O
+publicados	O
+en	O
+revistas	O
+o	O
+premiados	O
+.	O

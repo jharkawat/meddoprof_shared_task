@@ -1,0 +1,10 @@
+
+Evoluciona	O
+con	O
+deterioro	O
+del	O
+sensorio	O
+en	O
+forma	O
+progresiva	O
+.	O

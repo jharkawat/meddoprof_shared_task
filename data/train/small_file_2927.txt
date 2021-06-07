@@ -1,0 +1,12 @@
+
+Anamnesis	O
+:	O
+mujer	O
+de	O
+84	O
+años	O
+con	O
+los	O
+siguientes	O
+antecedentes	O
+:	O

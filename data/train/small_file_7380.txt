@@ -1,0 +1,8 @@
+
+No	O
+refiere	O
+antecedentes	O
+conocidos	O
+de	O
+atopia	O
+.	O

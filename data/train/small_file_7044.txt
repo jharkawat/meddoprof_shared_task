@@ -1,0 +1,12 @@
+
+Las	O
+lesiones	O
+son	O
+asintomáticas	O
+,	O
+no	O
+produciéndole	O
+prurito	O
+ni	O
+dolor	O
+.	O

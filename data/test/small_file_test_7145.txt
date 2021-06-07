@@ -1,0 +1,23 @@
+
+Se	O
+amplía	O
+estudio	O
+con	O
+RM	O
+(	O
+resonancia	O
+magnética	O
+)	O
+cerebral	O
+para	O
+descartar	O
+metástasis	O
+o	O
+hipofisitis	O
+y	O
+se	O
+solicita	O
+perfil	O
+hormonal	O
+completo	O
+.	O

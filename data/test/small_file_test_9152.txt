@@ -1,0 +1,14 @@
+
+Destaca	O
+edema	O
+con	O
+fóvea	O
+leve	O
+a	O
+la	O
+presión	O
+hasta	O
+raíz	O
+de	O
+muslo	O
+.	O

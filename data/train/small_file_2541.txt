@@ -1,0 +1,9 @@
+
+Para	O
+confirmarlo	O
+,	O
+realizamos	O
+diversos	O
+prick	O
+test	O
+:	O

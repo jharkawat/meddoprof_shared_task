@@ -1,0 +1,11 @@
+
+Aparece	O
+derrame	O
+pleural	O
+hasta	O
+tercio	O
+medio	O
+de	O
+pulmón	O
+derecho	O
+.	O

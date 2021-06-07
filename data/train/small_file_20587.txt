@@ -1,0 +1,26 @@
+
+Intercambio	O
+con	O
+la	O
+madre	O
+:	O
+CF	O
+se	O
+identifica	O
+con	O
+su	O
+madre	O
+,	O
+adoptando	O
+su	O
+rol	O
+,	O
+y	O
+haciendo	O
+que	O
+sus	O
+padres	O
+sean	O
+los	O
+hijos	O
+.	O

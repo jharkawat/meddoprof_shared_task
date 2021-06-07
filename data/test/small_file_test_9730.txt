@@ -1,0 +1,10 @@
+
+Encefalitis	O
+autoinmune	O
+paraneoplásica	O
+por	O
+anticuerpos	O
+anti	O
+-	O
+NMDA	O
+.	O

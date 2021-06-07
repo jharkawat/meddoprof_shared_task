@@ -1,0 +1,23 @@
+
+Pese	O
+a	O
+que	O
+el	O
+centro	O
+académico	O
+realizó	O
+distintas	O
+actuaciones	O
+con	O
+el	O
+fin	O
+de	O
+reconducir	O
+la	O
+situación	O
+,	O
+éstas	O
+no	O
+tuvieron	O
+éxito	O
+.	O

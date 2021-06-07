@@ -1,0 +1,9 @@
+
+Trastorno	O
+ansioso	O
+-	O
+depresivo	O
+en	O
+tratamiento	O
+farmacológico	O
+.	O

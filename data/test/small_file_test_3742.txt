@@ -1,0 +1,12 @@
+
+El	O
+parénquima	O
+pulmonar	O
+se	O
+encontraba	O
+bien	O
+ventilado	O
+,	O
+sin	O
+hallazgos	O
+.	O

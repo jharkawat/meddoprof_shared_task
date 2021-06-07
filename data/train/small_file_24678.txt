@@ -1,0 +1,16 @@
+
+Tras	O
+el	O
+alta	O
+hospitalaria	O
+mantiene	O
+seguimiento	O
+periódico	O
+durante	O
+unos	O
+meses	O
+en	O
+USM	O
+de	O
+zona	O
+.	O

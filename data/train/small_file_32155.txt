@@ -1,0 +1,12 @@
+
+Se	O
+pautó	O
+tratamiento	O
+con	O
+antidepresivos	O
+que	O
+tomó	O
+de	O
+manera	O
+irregular	O
+.	O

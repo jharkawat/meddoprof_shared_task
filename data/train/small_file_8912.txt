@@ -1,0 +1,5 @@
+
+No	O
+hipertrofia	O
+glandular	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+le	O
+explicó	O
+a	O
+la	O
+paciente	O
+la	O
+dudosa	O
+indicación	O
+de	O
+tratamiento	O
+adyuvante	O
+tras	O
+la	O
+segunda	O
+cirugía	O
+.	O

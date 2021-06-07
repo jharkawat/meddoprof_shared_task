@@ -1,0 +1,11 @@
+
+Sin	O
+otra	O
+focalidad	O
+(	O
+EDSS	O
+1	O
+.	O
+5	O
+)	O
+.	O

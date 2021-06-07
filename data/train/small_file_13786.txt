@@ -1,0 +1,15 @@
+
+La	O
+disnea	O
+es	O
+de	O
+grado	O
+variable	O
+y	O
+de	O
+diferente	O
+intensidad	O
+según	O
+las	O
+circunstancias	O
+.	O

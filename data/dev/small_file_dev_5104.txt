@@ -1,0 +1,12 @@
+
+Tromboflebitis	O
+séptica	O
+por	O
+SARM	O
+-	O
+AC	O
+con	O
+embolias	O
+sépticas	O
+pulmonares	O
+.	O

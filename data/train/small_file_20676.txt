@@ -1,0 +1,8 @@
+
+Diagnóstico	O
+:	O
+Meningitis	O
+aguda	O
+por	O
+LM	O
+.	O

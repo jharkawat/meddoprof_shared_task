@@ -1,0 +1,7 @@
+
+No	O
+fasciculaciones	O
+ni	O
+síntomas	O
+sensitivos	O
+.	O

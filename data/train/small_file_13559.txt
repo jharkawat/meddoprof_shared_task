@@ -1,0 +1,23 @@
+
+Acude	B-ACTIVIDAD
+asiduamente	I-ACTIVIDAD
+al	I-ACTIVIDAD
+gimnasio	I-ACTIVIDAD
+y	O
+reconoce	O
+el	O
+uso	O
+de	O
+suplementos	O
+proteicos	O
+y	O
+vitamínicos	O
+,	O
+que	O
+suspende	O
+la	O
+semana	O
+previa	O
+al	O
+ingreso	O
+.	O

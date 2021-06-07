@@ -1,0 +1,11 @@
+
+La	O
+lesión	O
+parece	O
+invadir	O
+el	O
+esplenio	O
+del	O
+cuerpo	O
+calloso	O
+.	O

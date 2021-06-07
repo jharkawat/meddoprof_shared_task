@@ -1,0 +1,21 @@
+
+Los	O
+padres	O
+refieren	O
+que	O
+desde	O
+que	O
+era	O
+bebé	O
+,	O
+era	O
+muy	O
+inquieto	O
+e	O
+irritable	O
+y	O
+solía	O
+llorar	O
+de	O
+noche	O
+.	O

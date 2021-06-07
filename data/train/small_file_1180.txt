@@ -1,0 +1,12 @@
+
+La	O
+serología	O
+IgM	O
+e	O
+IgG	O
+para	O
+Toxoplasma	O
+gondii	O
+resultaron	O
+negativas	O
+.	O

@@ -1,0 +1,5 @@
+
+Ánimo	O
+bajo	O
+reactivo	O
+.	O

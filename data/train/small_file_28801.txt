@@ -1,0 +1,14 @@
+
+Dicho	O
+cuadro	O
+propició	O
+un	O
+ingreso	O
+de	O
+20	O
+días	O
+en	O
+hospital	O
+psiquiátrico	O
+privado	O
+.	O

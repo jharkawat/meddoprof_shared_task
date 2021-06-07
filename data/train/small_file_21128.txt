@@ -1,0 +1,20 @@
+
+A	O
+los	O
+28	O
+años	O
+se	O
+casó	O
+con	O
+una	O
+enfermera	B-PROFESION
+dos	O
+años	O
+menor	O
+que	O
+él	O
+y	O
+tuvieron	O
+tres	O
+hijos	O
+.	O

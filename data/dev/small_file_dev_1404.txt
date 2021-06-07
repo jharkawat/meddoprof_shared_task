@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+refiere	O
+sequedad	O
+de	O
+piel	O
+pero	O
+que	O
+intenta	O
+hidratarla	O
+cada	O
+día	O
+mediante	O
+la	O
+aplicación	O
+de	O
+cremas	O
+hidratants	O
+.	O

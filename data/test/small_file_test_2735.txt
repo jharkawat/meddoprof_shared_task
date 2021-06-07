@@ -1,0 +1,5 @@
+
+No	O
+atipia	O
+manifiesta	O
+.	O

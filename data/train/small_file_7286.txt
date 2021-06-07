@@ -1,0 +1,24 @@
+
+Reinterrogando	O
+al	O
+paciente	O
+refería	O
+aplicarse	O
+diariamente	O
+fotoprotector	O
+en	O
+cara	O
+,	O
+cuello	O
+y	O
+brazos	O
+,	O
+coincidiendo	O
+con	O
+las	O
+zonas	O
+afectadas	O
+por	O
+la	O
+dermatitis	O
+.	O

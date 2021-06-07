@@ -1,0 +1,13 @@
+
+En	O
+parénquima	O
+pulmonar	O
+no	O
+se	O
+visualizan	O
+formaciones	O
+nodulares	O
+ni	O
+consolidaciones	O
+parenquimatosas	O
+.	O

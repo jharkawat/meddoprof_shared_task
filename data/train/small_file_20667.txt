@@ -1,0 +1,11 @@
+
+La	O
+TC	O
+encefálica	O
+y	O
+el	O
+examen	O
+ORL	O
+fueron	O
+normales	O
+.	O

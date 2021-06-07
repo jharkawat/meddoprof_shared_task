@@ -1,0 +1,11 @@
+
+Aurícula	O
+izquierda	O
+levemente	O
+dilatada	O
+,	O
+aurícula	O
+derecha	O
+no	O
+dilatada	O
+.	O

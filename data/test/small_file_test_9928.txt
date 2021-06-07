@@ -1,0 +1,23 @@
+
+Como	O
+toxicidad	O
+presentó	O
+una	O
+neutropenia	O
+y	O
+trombopenia	O
+grado	O
+I	O
+,	O
+decoloración	O
+cutánea	O
+y	O
+del	O
+vello	O
+e	O
+HTA	O
+grado	O
+I2	O
+,	O
+3	O
+.	O

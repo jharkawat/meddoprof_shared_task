@@ -1,0 +1,15 @@
+
+Mujer	O
+de	O
+25	O
+an	O
+̃	O
+os	O
+con	O
+Antecedentes	O
+Familiares	O
+de	O
+madre	O
+con	O
+polimiositis	O
+.	O

@@ -1,0 +1,13 @@
+
+Normalmente	O
+era	O
+incapaz	O
+de	O
+hablar	O
+fuera	O
+de	O
+casa	O
+o	O
+de	O
+clase	O
+.	O

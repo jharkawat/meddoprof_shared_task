@@ -1,0 +1,8 @@
+
+No	O
+pérdida	O
+de	O
+fuerza	O
+ni	O
+sensibilidad	O
+.	O

@@ -1,0 +1,14 @@
+
+Niega	O
+pensamientos	O
+de	O
+muerte	O
+o	O
+ideación	O
+suicida	O
+en	O
+el	O
+momento	O
+del	O
+ingreso	O
+.	O

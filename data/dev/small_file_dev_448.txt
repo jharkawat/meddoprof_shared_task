@@ -1,0 +1,21 @@
+
+Por	O
+dicho	O
+motivo	O
+,	O
+se	O
+ha	O
+ido	O
+aumentando	O
+progresivamente	O
+clozapina	O
+,	O
+siendo	O
+su	O
+dosis	O
+actual	O
+175	O
+mg	O
+/	O
+día	O
+.	O

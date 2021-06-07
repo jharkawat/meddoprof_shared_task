@@ -1,0 +1,27 @@
+
+Se	O
+realizó	O
+una	O
+biopsia	O
+cutánea	O
+dónde	O
+se	O
+observaba	O
+una	O
+necrosis	O
+epidérmica	O
+con	O
+una	O
+proliferación	O
+en	O
+la	O
+dermis	O
+de	O
+numerosos	O
+vasos	O
+y	O
+un	O
+infiltrado	O
+inflamatorio	O
+mixto	O
+.	O

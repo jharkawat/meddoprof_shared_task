@@ -1,0 +1,13 @@
+
+Al	O
+ingreso	O
+,	O
+el	O
+paciente	O
+refirió	O
+disnea	O
+,	O
+anosmia	O
+y	O
+ageusia	O
+.	O

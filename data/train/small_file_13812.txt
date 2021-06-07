@@ -1,0 +1,18 @@
+
+Dentro	O
+del	O
+diagnóstico	O
+diferencial	O
+de	O
+masas	O
+pericárdicas	O
+se	O
+encuentra	O
+el	O
+quiste	O
+pericárdico	O
+,	O
+hematomas	O
+y	O
+tumores	O
+.	O

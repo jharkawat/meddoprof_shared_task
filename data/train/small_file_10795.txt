@@ -1,0 +1,20 @@
+
+Como	O
+antecedentes	O
+familiares	O
+cabe	O
+destacar	O
+una	O
+hermana	O
+diagnosticada	O
+de	O
+lupus	O
+eritematoso	O
+sistémico	O
+y	O
+otra	O
+hermana	O
+con	O
+hepatitis	O
+autoinmune	O
+.	O

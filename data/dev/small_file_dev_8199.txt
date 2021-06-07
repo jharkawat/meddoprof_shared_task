@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+refirió	O
+además	O
+disnea	O
+y	O
+mareos	O
+al	O
+caminar	O
+.	O

@@ -1,0 +1,14 @@
+
+A	O
+los	O
+doce	O
+años	O
+ingresa	O
+a	O
+la	O
+educación	O
+secundaria	O
+con	O
+buen	O
+aprovechamiento	O
+.	O

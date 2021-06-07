@@ -1,0 +1,15 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+amoxicilina	O
+750	O
+mg	O
+cada	O
+8	O
+horas	O
+durante	O
+10	O
+días	O
+.	O

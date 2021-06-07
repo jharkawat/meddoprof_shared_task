@@ -1,0 +1,7 @@
+
+Intervenido	O
+de	O
+adenoma	O
+paramaxilar	O
+derecho	O
+.	O

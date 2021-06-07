@@ -1,0 +1,15 @@
+
+Múltiples	O
+ingresos	O
+por	O
+depresión	O
+con	O
+síntomas	O
+psicóticos	O
+y	O
+un	O
+ingreso	O
+por	O
+cuadro	O
+hipomaniaco	O
+.	O

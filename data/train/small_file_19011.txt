@@ -1,0 +1,27 @@
+
+Se	O
+trata	O
+de	O
+una	O
+mujer	O
+de	O
+37	O
+años	O
+gestante	O
+que	O
+realiza	O
+seguimiento	O
+en	O
+el	O
+Centro	O
+de	O
+Salud	O
+Mental	O
+por	O
+antecedentes	O
+de	O
+trastorno	O
+bipolar	O
+tipo	O
+I	O
+.	O

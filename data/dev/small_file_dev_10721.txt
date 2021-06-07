@@ -1,0 +1,14 @@
+
+Sabe	O
+que	O
+tiene	O
+una	O
+enfermedad	O
+incurable	O
+y	O
+que	O
+necesita	O
+transfusiones	O
+para	O
+vivir	O
+.	O

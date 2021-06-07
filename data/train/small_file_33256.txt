@@ -1,0 +1,7 @@
+
+Reacciona	O
+apropiadamente	O
+a	O
+la	O
+entrevista	O
+.	O

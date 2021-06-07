@@ -1,0 +1,17 @@
+
+Nace	O
+de	O
+una	O
+gestación	O
+no	O
+deseada	O
+debido	O
+a	O
+la	O
+precaria	O
+situación	O
+económica	O
+de	O
+su	O
+familia	O
+.	O

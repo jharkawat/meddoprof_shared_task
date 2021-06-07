@@ -1,0 +1,21 @@
+
+Se	O
+observaban	O
+varias	O
+adenopatías	O
+en	O
+mediastino	O
+superior	O
+(	O
+retroesternal	O
+de	O
+1	O
+,	O
+2	O
+cm	O
+)	O
+y	O
+en	O
+espacio	O
+prevascular	O
+.	O

@@ -1,0 +1,19 @@
+
+En	O
+los	O
+controles	O
+sucesivos	O
+,	O
+después	O
+de	O
+10	O
+meses	O
+,	O
+no	O
+se	O
+han	O
+observado	O
+signos	O
+de	O
+recidiva	O
+.	O

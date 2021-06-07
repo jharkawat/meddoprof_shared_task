@@ -1,0 +1,12 @@
+
+Se	O
+realizaron	O
+pruebas	O
+analíticas	O
+y	O
+exploraciones	O
+complementarias	O
+sin	O
+hallazgos	O
+significativos	O
+.	O

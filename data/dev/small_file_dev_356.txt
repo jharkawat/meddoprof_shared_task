@@ -1,0 +1,8 @@
+
+Hallazgo	O
+compatible	O
+con	O
+Parkinson	O
+idiopático	O
+"	O
+.	O

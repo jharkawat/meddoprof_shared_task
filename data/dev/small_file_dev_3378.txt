@@ -1,0 +1,21 @@
+
+La	O
+etiología	O
+es	O
+multifactorial	O
+en	O
+la	O
+que	O
+intervienen	O
+predisposición	O
+genética	O
+y	O
+biológica	O
+,	O
+aprendizajes	O
+previos	O
+y	O
+señales	O
+del	O
+entorno	O
+.	O

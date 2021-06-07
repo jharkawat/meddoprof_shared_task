@@ -1,0 +1,17 @@
+
+Reconoce	O
+no	O
+tener	O
+ningún	O
+hobby	O
+más	O
+allá	O
+del	O
+juego	O
+excepto	O
+escuchar	O
+música	O
+ocasionalmente	O
+mientras	O
+juega	O
+.	O

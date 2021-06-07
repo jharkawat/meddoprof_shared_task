@@ -1,0 +1,25 @@
+
+A	O
+nivel	O
+sexual	O
+,	O
+el	O
+paciente	O
+considera	O
+escasa	O
+la	O
+frecuencia	O
+de	O
+las	O
+relaciones	O
+íntimas	O
+y	O
+refiere	O
+tener	O
+poca	O
+satisfacción	O
+en	O
+el	O
+momento	O
+actual	O
+.	O

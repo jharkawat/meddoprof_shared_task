@@ -1,0 +1,16 @@
+
+Dados	O
+los	O
+antecedentes	O
+neurológicos	O
+,	O
+se	O
+decide	O
+realizar	O
+tratamiento	O
+RT	O
+secuencial	O
+sin	O
+QT	O
+concomitante	O
+.	O

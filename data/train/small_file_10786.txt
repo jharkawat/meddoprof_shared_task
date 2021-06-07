@@ -1,0 +1,26 @@
+
+En	O
+su	O
+última	O
+revisión	O
+(	O
+13	O
+/	O
+12	O
+/	O
+2018	O
+)	O
+ha	O
+tenido	O
+una	O
+ganancia	O
+ponderal	O
+neta	O
+de	O
+4	O
+kg	O
+desde	O
+su	O
+primera	O
+revisión	O
+.	O

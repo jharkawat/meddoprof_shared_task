@@ -1,0 +1,20 @@
+
+Parece	O
+ser	O
+que	O
+tanto	O
+el	O
+bisabuelo	O
+como	O
+el	O
+abuelo	O
+paterno	O
+ejercían	O
+malos	O
+tratos	O
+hacia	O
+sus	O
+mujeres	O
+e	O
+hijos	O
+.	O

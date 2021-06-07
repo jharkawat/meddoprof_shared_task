@@ -1,0 +1,6 @@
+
+Lenguaje	O
+hiperfónico	O
+y	O
+malsonante	O
+.	O

@@ -1,0 +1,5 @@
+
+Reacción	O
+a	O
+fármacos	O
+.	O

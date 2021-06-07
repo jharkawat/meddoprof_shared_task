@@ -1,0 +1,7 @@
+
+Viene	O
+acompañado	O
+de	O
+su	O
+hermana	O
+.	O

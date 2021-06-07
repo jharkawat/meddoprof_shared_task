@@ -1,0 +1,10 @@
+
+Incapacitado	B-SITUACION_LABORAL
+legalmente	I-SITUACION_LABORAL
+,	O
+su	O
+madre	O
+es	O
+su	O
+tutora	B-ACTIVIDAD
+.	O

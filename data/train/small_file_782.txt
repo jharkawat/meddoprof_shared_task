@@ -1,0 +1,21 @@
+
+Estas	O
+tres	O
+lesiones	O
+evolucionaron	O
+día	O
+a	O
+día	O
+tomando	O
+mayores	O
+proporciones	O
+e	O
+incluyendo	O
+las	O
+partes	O
+blandas	O
+de	O
+la	O
+región	O
+facial	O
+.	O

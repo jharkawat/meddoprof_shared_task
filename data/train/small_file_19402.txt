@@ -1,0 +1,15 @@
+
+Tiene	O
+una	O
+buena	O
+relación	O
+afectiva	O
+con	O
+su	O
+madre	O
+pero	O
+con	O
+existe	O
+poca	O
+comunicación	O
+.	O

@@ -1,0 +1,20 @@
+
+La	O
+etiología	O
+más	O
+frecuente	O
+incluye	O
+causas	O
+infecciosas	O
+,	O
+causas	O
+neoplásicas	O
+y	O
+enfermedades	O
+autoinmunes	O
+y	O
+endocrinológicas	O
+(	O
+hipertiroidismo	O
+)	O
+.	O

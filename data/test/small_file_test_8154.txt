@@ -1,0 +1,22 @@
+
+Es	O
+valorada	O
+por	O
+Servicio	O
+de	O
+Broncoscopias	O
+que	O
+realiza	O
+toracocentesis	O
+diagnóstica	O
+,	O
+drenando	O
+1	O
+,	O
+5	O
+l	O
+de	O
+características	O
+de	O
+exudado	O
+.	O

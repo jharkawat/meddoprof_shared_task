@@ -1,0 +1,23 @@
+
+Verbalizaba	O
+ideas	O
+delirantes	O
+de	O
+perjuicio	O
+,	O
+junto	O
+con	O
+interpretaciones	O
+delirantes	O
+,	O
+y	O
+fue	O
+hospitalizada	O
+en	O
+una	O
+sala	O
+de	O
+Psiquiatría	O
+de	O
+adultos	O
+.	O

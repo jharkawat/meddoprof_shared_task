@@ -1,0 +1,16 @@
+
+Refiere	O
+cuadro	O
+de	O
+astenia	O
+,	O
+anorexia	O
+y	O
+pérdida	O
+de	O
+peso	O
+desde	O
+hace	O
+3	O
+meses	O
+.	O

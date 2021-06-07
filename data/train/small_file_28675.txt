@@ -1,0 +1,14 @@
+
+Ideación	O
+delirante	O
+de	O
+perjuicio	O
+y	O
+místico	O
+-	O
+religiosa	O
+con	O
+importante	O
+repercusión	O
+conductual	O
+.	O

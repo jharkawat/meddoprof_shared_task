@@ -1,0 +1,8 @@
+
+El	O
+prick	O
+test	O
+fue	O
+positivo	O
+para	O
+:	O

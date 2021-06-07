@@ -1,0 +1,22 @@
+
+Hombre	O
+de	O
+32	O
+años	O
+de	O
+nacionalidad	O
+española	O
+,	O
+informático	B-PROFESION
+de	O
+profesión	O
+y	O
+sin	O
+antecedentes	O
+patológicos	O
+personales	O
+o	O
+familiares	O
+de	O
+interés	O
+.	O

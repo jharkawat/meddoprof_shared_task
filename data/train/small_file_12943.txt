@@ -1,0 +1,14 @@
+
+Tras	O
+diez	O
+días	O
+de	O
+ingreso	O
+se	O
+puede	O
+suspender	O
+la	O
+perfusión	O
+de	O
+noradrenalina	O
+.	O

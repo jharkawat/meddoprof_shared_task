@@ -1,0 +1,24 @@
+
+Volvemos	O
+a	O
+valorar	O
+al	O
+paciente	O
+al	O
+día	O
+siguiente	O
+ya	O
+que	O
+nos	O
+avisa	O
+una	O
+de	O
+sus	O
+hijas	O
+por	O
+teléfono	O
+por	O
+falta	O
+de	O
+mejoría	O
+.	O

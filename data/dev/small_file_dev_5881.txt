@@ -1,0 +1,25 @@
+
+Se	O
+hospitalizó	O
+y	O
+se	O
+trató	O
+como	O
+neumonía	O
+multilobar	O
+con	O
+ceftazidima	O
+1g	O
+c	O
+/	O
+12	O
+h	O
+y	O
+vancomicina	O
+1	O
+g	O
+c	O
+/	O
+72	O
+h	O
+.	O

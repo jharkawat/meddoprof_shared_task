@@ -1,0 +1,9 @@
+
+La	O
+auscultación	O
+pulmonar	O
+reveló	O
+crepitantes	O
+basales	O
+bilaterales	O
+.	O

@@ -1,0 +1,16 @@
+
+Está	O
+inquieto	O
+pero	O
+no	O
+agitado	O
+,	O
+con	O
+humor	O
+expansivo	O
+,	O
+verborreico	O
+y	O
+con	O
+distraibilidad	O
+.	O

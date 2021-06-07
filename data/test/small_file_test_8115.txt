@@ -1,0 +1,14 @@
+
+Se	O
+extiende	O
+a	O
+mediastino	O
+con	O
+infiltración	O
+capsular	O
+hasta	O
+nivel	O
+de	O
+la	O
+carina	O
+.	O

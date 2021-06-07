@@ -1,0 +1,27 @@
+
+A	O
+los	O
+18	O
+años	O
+de	O
+edad	O
+se	O
+traslada	O
+a	O
+casa	O
+de	O
+su	O
+primera	O
+pareja	O
+describiendo	O
+una	O
+relación	O
+sentimental	O
+inestable	O
+y	O
+compleja	O
+de	O
+intensa	O
+dependencia	O
+emocional	O
+.	O

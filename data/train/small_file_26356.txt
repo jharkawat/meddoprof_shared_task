@@ -1,0 +1,8 @@
+
+Ánimo	O
+bajo	O
+,	O
+apatía	O
+,	O
+anhedonia	O
+.	O

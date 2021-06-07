@@ -1,0 +1,21 @@
+
+Antecedentes	O
+familiares	O
+de	O
+madre	O
+operada	O
+de	O
+cáncer	O
+de	O
+mama	O
+y	O
+un	O
+hermano	O
+fallecido	O
+de	O
+tumor	O
+de	O
+cabeza	O
+y	O
+cuello	O
+.	O

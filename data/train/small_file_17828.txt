@@ -1,0 +1,25 @@
+
+Varón	O
+de	O
+26	O
+años	O
+,	O
+enfermero	B-PROFESION
+de	O
+profesión	O
+,	O
+fumador	O
+de	O
+unos	O
+15	O
+cigarrillos	O
+al	O
+día	O
+y	O
+en	O
+tratamiento	O
+por	O
+insomnio	O
+de	O
+conciliación	O
+.	O

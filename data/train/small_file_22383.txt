@@ -1,0 +1,7 @@
+
+No	O
+se	O
+objetiva	O
+focalidad	O
+neurológica	O
+.	O

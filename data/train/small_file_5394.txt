@@ -1,0 +1,17 @@
+
+Analítica	O
+con	O
+marcadores	O
+tumorales	O
+:	O
+Antígeno	O
+C	O
+.	O
+A	O
+.	O
+125	O
+:	O
+84	O
+U	O
+/	O
+ml	O

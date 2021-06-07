@@ -1,0 +1,26 @@
+
+Durante	O
+cuatro	O
+meses	O
+antes	O
+de	O
+la	O
+derivación	O
+no	O
+había	O
+podido	O
+reunirse	O
+con	O
+otros	O
+estudiantes	B-SITUACION_LABORAL
+para	O
+almorzar	O
+en	O
+la	O
+cantina	O
+porque	O
+se	O
+sentía	O
+terriblemente	O
+ansiosa	O
+.	O

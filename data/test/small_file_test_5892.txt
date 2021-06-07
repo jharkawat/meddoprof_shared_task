@@ -1,0 +1,9 @@
+
+No	O
+pérdida	O
+de	O
+peso	O
+ni	O
+sudoración	O
+profusa	O
+.	O

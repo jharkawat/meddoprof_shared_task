@@ -1,0 +1,23 @@
+
+También	O
+se	O
+solicitó	O
+valoración	O
+por	O
+neumología	O
+para	O
+el	O
+estudio	O
+de	O
+un	O
+posible	O
+síndrome	O
+de	O
+apnea	O
+obstructiva	O
+del	O
+sueño	O
+(	O
+SAOS	O
+)	O
+.	O

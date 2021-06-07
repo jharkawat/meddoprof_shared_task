@@ -1,0 +1,11 @@
+
+Demencia	O
+asociada	O
+al	O
+VIH	O
+y	O
+neumonía	O
+por	O
+Pneumocystis	O
+jirovecii	O
+.	O

@@ -1,0 +1,24 @@
+
+Ha	O
+seguido	O
+tratamiento	O
+con	O
+amoxicilina	O
+-	O
+clavulánico	O
+500	O
+/	O
+125mg	O
+,	O
+1000	O
+/	O
+62	O
+,	O
+5mg	O
+y	O
+levofloxacino	O
+500mg	O
+sin	O
+mejoría	O
+clínica	O
+.	O

@@ -1,0 +1,15 @@
+
+Ante	O
+estos	O
+hallazgos	O
+se	O
+contacta	O
+con	O
+Cirugía	O
+General	O
+para	O
+valoración	O
+por	O
+su	O
+parte	O
+.	O

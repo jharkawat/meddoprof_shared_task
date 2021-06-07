@@ -1,0 +1,22 @@
+
+La	O
+causa	O
+más	O
+frecuente	O
+de	O
+ascitis	O
+en	O
+el	O
+contexto	O
+de	O
+hipertensión	O
+portal	O
+es	O
+la	O
+hepatopatía	O
+crónica	O
+cirrótica	O
+por	O
+cualquier	O
+etiología	O
+.	O

@@ -1,0 +1,11 @@
+
+Es	O
+hija	O
+única	O
+,	O
+actualmente	O
+vive	O
+con	O
+su	O
+madre	O
+.	O

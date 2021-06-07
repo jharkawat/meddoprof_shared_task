@@ -1,0 +1,22 @@
+
+No	O
+presentaba	O
+eosinofilia	O
+,	O
+que	O
+en	O
+un	O
+paciente	O
+con	O
+fiebre	O
+y	O
+clínica	O
+respiratoria	O
+nos	O
+hubiese	O
+orientado	O
+inicialmente	O
+a	O
+sospechar	O
+helmintiasis	O
+.	O

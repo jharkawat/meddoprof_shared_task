@@ -1,0 +1,25 @@
+
+de	O
+Urgencias	O
+,	O
+se	O
+le	O
+practica	O
+Rx	O
+de	O
+tórax	O
+que	O
+pone	O
+de	O
+manifiesto	O
+masa	O
+en	O
+lóbulo	O
+superior	O
+derecho	O
+(	O
+LSD	O
+)	O
+de	O
+pulmón	O
+.	O

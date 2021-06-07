@@ -1,0 +1,10 @@
+
+PCR	O
+CMV	O
+y	O
+herpes	O
+virus	O
+tipo	O
+8	O
+positivo	O
+.	O

@@ -1,0 +1,16 @@
+
+No	O
+se	O
+objetivaron	O
+signos	O
+inflamatorios	O
+cutáneos	O
+tales	O
+como	O
+eritema	O
+,	O
+edema	O
+o	O
+hipertermia	O
+local	O
+.	O

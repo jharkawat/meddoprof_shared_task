@@ -1,0 +1,27 @@
+
+Varón	O
+de	O
+75	O
+años	O
+que	O
+acude	O
+por	O
+segunda	O
+vez	O
+durante	O
+la	O
+última	O
+semana	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+por	O
+deterioro	O
+del	O
+estado	O
+general	O
+y	O
+clínica	O
+respiratoria	O
+.	O

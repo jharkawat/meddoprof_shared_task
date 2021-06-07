@@ -1,0 +1,27 @@
+
+Transcurridas	O
+2	O
+horas	O
+de	O
+la	O
+primera	O
+visita	O
+África	O
+no	O
+había	O
+pronunciado	O
+palabra	O
+,	O
+sólo	O
+había	O
+asentido	O
+en	O
+alguna	O
+pregunta	O
+o	O
+había	O
+negado	O
+con	O
+la	O
+cabeza	O
+.	O

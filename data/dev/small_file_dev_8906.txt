@@ -1,0 +1,8 @@
+
+SatO2	O
+98	O
+%	O
+a	O
+FiO2	O
+ambiente	O
+.	O

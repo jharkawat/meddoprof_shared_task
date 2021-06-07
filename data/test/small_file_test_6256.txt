@@ -1,0 +1,18 @@
+
+Desde	O
+entonces	O
+el	O
+paciente	O
+continuó	O
+tratamiento	O
+sin	O
+efectos	O
+tóxicos	O
+importantes	O
+con	O
+TA	O
+<	O
+150	O
+/	O
+90mmHg	O
+.	O

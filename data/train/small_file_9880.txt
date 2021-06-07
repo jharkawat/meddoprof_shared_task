@@ -1,0 +1,24 @@
+
+En	O
+estos	O
+casos	O
+suelen	O
+existir	O
+alteraciones	O
+en	O
+el	O
+hemograma	O
+y	O
+/	O
+o	O
+frotis	O
+que	O
+no	O
+correspondían	O
+con	O
+el	O
+de	O
+de	O
+nuestra	O
+paciente	O
+.	O

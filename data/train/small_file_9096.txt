@@ -1,0 +1,15 @@
+
+En	O
+el	O
+plano	O
+axial	O
+tiene	O
+unos	O
+diámetros	O
+máximos	O
+de	O
+37	O
+x	O
+34	O
+mm	O
+.	O

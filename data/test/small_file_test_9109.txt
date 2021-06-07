@@ -1,0 +1,23 @@
+
+AP	O
+:	O
+adenocarcinoma	O
+en	O
+LSD	O
+de	O
+3	O
+,	O
+5	O
+cm	O
+con	O
+afectación	O
+de	O
+la	O
+pleura	O
+visceral	O
+,	O
+pero	O
+margen	O
+bronquial	O
+libre	O
+.	O

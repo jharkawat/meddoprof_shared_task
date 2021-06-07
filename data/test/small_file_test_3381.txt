@@ -1,0 +1,26 @@
+
+Recibe	O
+RDT	O
+-	O
+IGRT	O
+3D	O
+sobre	O
+la	O
+masa	O
+pulmonar	O
+,	O
+con	O
+intención	O
+curativa	O
+,	O
+con	O
+una	O
+dosis	O
+de	O
+64	O
+Gy	O
+y	O
+un	O
+fraccionamiento	O
+convencional	O
+.	O

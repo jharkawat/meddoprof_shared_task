@@ -1,0 +1,11 @@
+
+Dermatitis	O
+de	O
+contacto	O
+alérgica	O
+aerotransportada	O
+por	O
+madera	O
+de	O
+roble	O
+.	O

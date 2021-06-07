@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+aceptó	O
+recibir	O
+ayuda	O
+y	O
+contactamos	O
+personalmente	O
+con	O
+una	O
+psiquiatra	B-PROFESION
+que	O
+es	O
+especialista	B-PROFESION
+en	I-PROFESION
+trastornos	I-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+conducta	I-PROFESION
+alimentaria	I-PROFESION
+.	O

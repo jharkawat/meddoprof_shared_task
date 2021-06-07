@@ -1,0 +1,18 @@
+
+Se	O
+cursan	O
+hemocultivos	O
+y	O
+urinocultivo	O
+y	O
+se	O
+decide	O
+ingreso	O
+hospitalario	O
+ante	O
+la	O
+sospecha	O
+de	O
+Endocarditis	O
+Infecciosa	O
+.	O

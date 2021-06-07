@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+23	O
+/	O
+04	O
+/	O
+1959	O
+.	O

@@ -1,0 +1,27 @@
+
+Biopsia	O
+:	O
+Piel	O
+con	O
+una	O
+degeneración	O
+hidrópica	O
+de	O
+la	O
+capa	O
+basal	O
+asociada	O
+a	O
+queratinocitos	O
+necróticos	O
+dispersos	O
+,	O
+especialmente	O
+en	O
+la	O
+porción	O
+inferior	O
+de	O
+la	O
+epidermis	O
+.	O

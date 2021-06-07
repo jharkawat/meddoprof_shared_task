@@ -1,0 +1,18 @@
+
+Fue	O
+diagnosticada	O
+de	O
+cólico	O
+nefrítico	O
+,	O
+tratada	O
+con	O
+Metamizol	O
+y	O
+dada	O
+de	O
+alta	O
+con	O
+observación	O
+domiciliaria	O
+.	O

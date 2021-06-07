@@ -1,0 +1,13 @@
+
+Exploración	O
+física	O
+:	O
+talla	O
+1	O
+,	O
+84	O
+,	O
+peso	O
+101	O
+kg	O
+.	O

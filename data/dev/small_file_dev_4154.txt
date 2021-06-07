@@ -1,0 +1,9 @@
+
+Clopidogrel	O
+75mg	O
+1	O
+c	O
+/	O
+24	O
+h	O
+.	O

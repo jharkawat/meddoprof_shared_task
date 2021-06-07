@@ -1,0 +1,16 @@
+
+Su	O
+estado	O
+de	O
+ánimo	O
+era	O
+moderadamente	O
+depresivo	O
+y	O
+lloraba	O
+silenciosamente	O
+mientras	O
+describía	O
+sus	O
+dificultades	O
+.	O

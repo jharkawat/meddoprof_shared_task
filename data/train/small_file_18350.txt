@@ -1,0 +1,22 @@
+
+•	O
+2007	O
+–	O
+acude	O
+a	O
+CSMA	O
+de	O
+Martorell	O
+derivado	O
+por	O
+el	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+con	O
+diagnostico	O
+de	O
+trastorno	O
+depresivo	O
+mayor	O
+.	O

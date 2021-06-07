@@ -1,0 +1,14 @@
+
+Los	O
+exámenes	O
+de	O
+ingreso	O
+mostraron	O
+azotemia	O
+y	O
+elevación	O
+de	O
+las	O
+enzimas	O
+musculares	O
+.	O

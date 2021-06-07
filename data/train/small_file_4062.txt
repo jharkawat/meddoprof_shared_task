@@ -1,0 +1,11 @@
+
+-	O
+No	O
+alergias	O
+medicamentosas	O
+conocidas	O
+-	O
+No	O
+padece	O
+ninguna	O
+enfermedad	O

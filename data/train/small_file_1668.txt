@@ -1,0 +1,21 @@
+
+Al	O
+rescatarlo	O
+y	O
+llevarlo	O
+al	O
+hospital	O
+,	O
+los	O
+médicos	B-PROFESION
+decidieron	O
+amputarle	O
+la	O
+extremidad	O
+izquierda	O
+por	O
+debajo	O
+de	O
+la	O
+rodilla	O
+.	O

@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+desestimó	O
+la	O
+realización	O
+de	O
+un	O
+tercer	O
+fotoparche	O
+con	O
+la	O
+batería	O
+fragancias	O
+por	O
+separado	O
+.	O

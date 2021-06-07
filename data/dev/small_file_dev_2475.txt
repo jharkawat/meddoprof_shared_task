@@ -1,0 +1,11 @@
+
+Se	O
+añaden	O
+al	O
+diagnóstico	O
+posible	O
+episodio	O
+maniaco	O
+y	O
+catatonía	O
+.	O

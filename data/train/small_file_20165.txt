@@ -1,0 +1,6 @@
+
+Una	O
+hermana	O
+tenía	O
+depresión	O
+.	O

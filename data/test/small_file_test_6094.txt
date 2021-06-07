@@ -1,0 +1,11 @@
+
+Anatomía	O
+patológica	O
+(	O
+AP	O
+)	O
+:	O
+Adenocarcinoma	O
+poco	O
+diferenciado	O
+.	O

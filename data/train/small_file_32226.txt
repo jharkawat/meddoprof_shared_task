@@ -1,0 +1,27 @@
+
+Desde	O
+la	O
+introducción	O
+de	O
+memantina	O
+,	O
+se	O
+mejora	O
+la	O
+sintomatología	O
+negativa	O
+y	O
+la	O
+funcionalidad	O
+del	O
+paciente	O
+,	O
+decidiendo	O
+,	O
+por	O
+tanto	O
+,	O
+mantener	O
+este	O
+tratamiento	O
+.	O

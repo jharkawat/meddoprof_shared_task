@@ -1,0 +1,10 @@
+
+Negativa	O
+para	O
+malignidad	O
+,	O
+ausencia	O
+de	O
+microorganismos	O
+patógenos	O
+.	O

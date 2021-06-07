@@ -1,0 +1,9 @@
+
+Ha	O
+sufrido	O
+episodios	O
+compatibles	O
+con	O
+alucinosis	O
+alcohólica	O
+.	O

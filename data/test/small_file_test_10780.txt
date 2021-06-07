@@ -1,0 +1,11 @@
+
+El	O
+estudio	O
+audiométrico	O
+realizado	O
+a	O
+los	O
+padres	O
+fue	O
+normal	O
+.	O

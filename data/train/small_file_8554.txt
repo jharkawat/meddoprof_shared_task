@@ -1,0 +1,21 @@
+
+Previo	O
+al	O
+ingreso	O
+y	O
+durante	O
+el	O
+mismo	O
+se	O
+realizó	O
+una	O
+batería	O
+de	O
+pruebas	O
+complementarias	O
+antes	O
+de	O
+llegar	O
+al	O
+diagnóstico	O
+.	O

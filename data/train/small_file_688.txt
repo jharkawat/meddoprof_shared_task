@@ -1,0 +1,13 @@
+
+Médico	B-PROFESION
+:	O
+Ana	O
+Isabel	O
+Jiménez	O
+Ortega	O
+NºCol	O
+:	O
+28	O
+28	O
+92034	O
+.	O

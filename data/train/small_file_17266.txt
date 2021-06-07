@@ -1,0 +1,13 @@
+
+Insuficiencia	O
+mitral	O
+ligera	O
+con	O
+acentuada	O
+calcificación	O
+en	O
+el	O
+anillo	O
+mitral	O
+posterior	O
+.	O

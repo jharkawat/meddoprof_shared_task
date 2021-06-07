@@ -1,0 +1,21 @@
+
+Persiste	O
+la	O
+paralasis	O
+facial	O
+derecha	O
+con	O
+Romberg	O
+positivo	O
+el	O
+cual	O
+fue	O
+negativo	O
+tras	O
+varios	O
+días	O
+de	O
+tratamiento	O
+con	O
+corticoides	O
+.	O

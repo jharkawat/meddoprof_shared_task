@@ -1,0 +1,25 @@
+
+La	O
+lesión	O
+del	O
+nervio	O
+ciático	O
+puede	O
+cursar	O
+con	O
+impotencia	O
+funcional	O
+del	O
+miembro	O
+inferior	O
+afecto	O
+y	O
+,	O
+ocasionalmente	O
+,	O
+pérdida	O
+del	O
+control	O
+de	O
+esfínteres	O
+.	O

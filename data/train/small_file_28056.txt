@@ -1,0 +1,15 @@
+
+Uno	O
+de	O
+ellos	O
+resultó	O
+muerto	O
+y	O
+David	O
+y	O
+otros	O
+policías	B-PROFESION
+heridos	O
+de	O
+gravedad	O
+.	O

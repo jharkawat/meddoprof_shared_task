@@ -1,0 +1,18 @@
+
+En	O
+el	O
+banco	O
+era	O
+un	O
+empleado	B-SITUACION_LABORAL
+responsable	O
+aunque	O
+tenía	O
+una	O
+peculiar	O
+falta	O
+de	O
+ambición	O
+e	O
+interés	O
+.	O

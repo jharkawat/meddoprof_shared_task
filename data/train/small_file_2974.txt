@@ -1,0 +1,24 @@
+
+Sus	O
+padres	O
+se	O
+divorciaron	O
+hace	O
+un	O
+año	O
+,	O
+mantiene	O
+buena	O
+relación	O
+con	O
+su	O
+padre	O
+al	O
+que	O
+ve	O
+en	O
+fines	O
+de	O
+semana	O
+alternos	O
+.	O

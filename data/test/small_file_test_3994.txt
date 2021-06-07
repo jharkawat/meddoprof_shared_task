@@ -1,0 +1,21 @@
+
+Falleció	O
+a	O
+los	O
+14	O
+días	O
+de	O
+su	O
+ingreso	O
+a	O
+pesar	O
+del	O
+tratamiento	O
+con	O
+vancomicina	O
+asociada	O
+a	O
+piperacilina	O
+/	O
+tazobactam	O
+.	O

@@ -1,0 +1,17 @@
+
+Continua	O
+tratamiento	O
+con	O
+Permetrexed	O
+de	O
+mantenimiento	O
+del	O
+que	O
+ha	O
+recibido	O
+hasta	O
+la	O
+fecha	O
+3	O
+ciclos	O
+.	O

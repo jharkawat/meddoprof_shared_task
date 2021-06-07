@@ -1,0 +1,6 @@
+
+No	O
+ingresos	O
+previos	O
+relevantes	O
+.	O

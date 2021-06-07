@@ -1,0 +1,16 @@
+
+Esa	O
+tarde	O
+el	O
+paciente	O
+sufre	O
+tres	O
+nuevos	O
+episodios	O
+de	O
+fibrilación	O
+ventricular	O
+en	O
+la	O
+UCI	O
+.	O

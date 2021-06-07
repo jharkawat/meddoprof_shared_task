@@ -1,0 +1,7 @@
+
+Fractura	O
+maleolo	O
+interno	O
+tobillo	O
+izquierdo	O
+.	O

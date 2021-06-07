@@ -1,0 +1,27 @@
+
+La	O
+mejoría	O
+neurocognitiva	O
+se	O
+produjo	O
+,	O
+contra	O
+todo	O
+pronóstico	O
+,	O
+y	O
+de	O
+manera	O
+instantánea	O
+,	O
+días	O
+después	O
+de	O
+la	O
+administración	O
+del	O
+primer	O
+ciclo	O
+de	O
+quimioterapia	O
+.	O

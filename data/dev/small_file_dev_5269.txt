@@ -1,0 +1,20 @@
+
+Ingresa	O
+en	O
+medicina	O
+interna	O
+,	O
+para	O
+continuar	O
+estudio	O
+y	O
+tratamiento	O
+;	O
+donde	O
+se	O
+le	O
+realizan	O
+hemocultivos	O
+:	O
+negativos	O
+.	O

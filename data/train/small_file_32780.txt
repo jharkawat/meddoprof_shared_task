@@ -1,0 +1,27 @@
+
+Presenta	O
+estreñimiento	O
+(	O
+frecuencia	O
+deposicional	O
+:	O
+2	O
+veces	O
+por	O
+semana	O
+)	O
+debido	O
+,	O
+en	O
+gran	O
+parte	O
+,	O
+al	O
+sedentarismo	O
+y	O
+la	O
+dieta	O
+baja	O
+en	O
+fibra	O
+.	O

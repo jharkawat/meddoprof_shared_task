@@ -1,0 +1,17 @@
+
+Sintomatología	O
+actual	O
+:	O
+aumento	O
+del	O
+perímetro	O
+abdominal	O
+sin	O
+dolor	O
+abdominal	O
+asociado	O
+u	O
+otra	O
+sintomatología	O
+digestiva	O
+.	O

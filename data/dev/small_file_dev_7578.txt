@@ -1,0 +1,15 @@
+
+Se	O
+transmite	O
+por	O
+ingestión	O
+de	O
+carne	O
+poco	O
+hecha	O
+,	O
+especialmente	O
+carne	O
+de	O
+cerdo	O
+.	O

@@ -1,0 +1,11 @@
+
+Edad	O
+28	O
+-	O
+30	O
+:	O
+Muerte	O
+de	O
+abuela	O
+M	O
+.	O

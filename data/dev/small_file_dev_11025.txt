@@ -1,0 +1,27 @@
+
+MOTILIDAD	O
+PASIVA	O
+:	O
+El	O
+paciente	O
+a	O
+presenta	O
+movilización	O
+de	O
+los	O
+diferentes	O
+segmentos	O
+corporales	O
+,	O
+apreciando	O
+la	O
+resistencia	O
+normal	O
+que	O
+el	O
+musculo	O
+le	O
+oponga	O
+al	O
+movimiento	O
+.	O

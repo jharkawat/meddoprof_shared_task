@@ -1,0 +1,22 @@
+
+A	O
+los	O
+20	O
+años	O
+,	O
+se	O
+percibe	O
+un	O
+cambio	O
+en	O
+el	O
+paciente	O
+,	O
+comienza	O
+el	O
+absentismo	O
+escolar	O
+y	O
+el	O
+fracaso	O
+.	O

@@ -1,0 +1,19 @@
+
+Un	O
+año	O
+antes	O
+fue	O
+diagnosticado	O
+de	O
+neumonía	O
+basal	O
+derecha	O
+que	O
+resolvió	O
+con	O
+tratamiento	O
+antibiótico	O
+a	O
+nivel	O
+ambulatorio	O
+.	O

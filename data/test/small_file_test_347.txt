@@ -1,0 +1,15 @@
+
+Dentadura	O
+con	O
+todas	O
+las	O
+piezas	O
+completas	O
+,	O
+sin	O
+caries	O
+,	O
+sin	O
+aparatos	O
+ortodoncistas	O
+.	O

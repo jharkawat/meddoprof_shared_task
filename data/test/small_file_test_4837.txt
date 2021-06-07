@@ -1,0 +1,23 @@
+
+»	O
+TC	O
+tórax	O
+-	O
+abdomen	O
+:	O
+múltiples	O
+lesiones	O
+focales	O
+hipodensas	O
+mal	O
+definidas	O
+y	O
+de	O
+pequeño	O
+tamaño	O
+en	O
+todo	O
+el	O
+parénquima	O
+hepático	O
+.	O

@@ -1,0 +1,25 @@
+
+Hasta	O
+sus	O
+58	O
+años	O
+,	O
+la	O
+paciente	O
+lleva	O
+una	O
+vida	O
+acomodada	O
+,	O
+frecuenta	O
+el	O
+ambiente	O
+artístico	O
+y	O
+participa	O
+activamente	O
+cantando	B-ACTIVIDAD
+música	I-ACTIVIDAD
+tradicional	I-ACTIVIDAD
+judía	I-ACTIVIDAD
+.	O

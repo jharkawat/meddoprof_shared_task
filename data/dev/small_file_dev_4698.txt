@@ -1,0 +1,9 @@
+
+Taquipneica	O
+con	O
+saturación	O
+al	O
+96	O
+%	O
+basal	O
+.	O

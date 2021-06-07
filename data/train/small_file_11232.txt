@@ -1,0 +1,10 @@
+
+Vesícula	O
+plegada	O
+con	O
+cierto	O
+engrosamiento	O
+concéntrico	O
+de	O
+pared	O
+.	O

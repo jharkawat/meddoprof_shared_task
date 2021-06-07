@@ -1,0 +1,23 @@
+
+Presentaba	O
+una	O
+conducta	O
+bizarra	O
+,	O
+tomaba	O
+taxis	O
+sin	O
+tener	O
+dinero	O
+con	O
+que	O
+pagarlos	O
+,	O
+alternando	O
+esta	O
+conducta	O
+con	O
+agresividad	O
+e	O
+irritabilidad	O
+.	O

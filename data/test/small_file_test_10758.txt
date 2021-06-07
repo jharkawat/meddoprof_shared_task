@@ -1,0 +1,26 @@
+
+El	O
+paciente	O
+fue	O
+trasladado	O
+al	O
+servicio	O
+de	O
+radiología	O
+intervencionista	O
+para	O
+embolización	O
+,	O
+fue	O
+ingresado	O
+en	O
+cuidados	O
+intensivos	O
+y	O
+dado	O
+de	O
+alta	O
+por	O
+evolución	O
+favorable	O
+.	O

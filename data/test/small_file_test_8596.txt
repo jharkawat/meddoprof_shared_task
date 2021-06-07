@@ -1,0 +1,26 @@
+
+Acúmulos	O
+puntuales	O
+en	O
+región	O
+de	O
+área	O
+cardiaca	O
+,	O
+que	O
+parecen	O
+localizarse	O
+en	O
+ambos	O
+ventrículos	O
+y	O
+no	O
+pudieron	O
+diferenciarse	O
+totalmente	O
+en	O
+localización	O
+intracardiaca	O
+/	O
+paracardiaca	O
+.	O

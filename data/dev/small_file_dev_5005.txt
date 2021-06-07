@@ -1,0 +1,21 @@
+
+Mecanismo	O
+patogénico	O
+:	O
+presión	O
+isquémica	O
+que	O
+ejerce	O
+el	O
+fecaloma	O
+contra	O
+la	O
+pared	O
+colónica	O
+hasta	O
+llegar	O
+a	O
+la	O
+perforación	O
+transmural	O
+.	O

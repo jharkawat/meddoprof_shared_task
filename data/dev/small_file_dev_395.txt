@@ -1,0 +1,13 @@
+
+La	O
+familia	O
+destacaba	O
+un	O
+mayor	O
+predominio	O
+nocturno	O
+de	O
+esta	O
+clínica	O
+psicótica	O
+.	O

@@ -1,0 +1,26 @@
+
+En	O
+términos	O
+actuales	O
+hablaríamos	O
+de	O
+una	O
+realidad	O
+virtual	O
+que	O
+ofrece	O
+una	O
+señal	O
+de	O
+retroalimentación	O
+visual	O
+externa	O
+,	O
+que	O
+extingue	O
+la	O
+huella	O
+de	O
+memoria	O
+anterior	O
+.	O

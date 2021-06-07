@@ -1,0 +1,14 @@
+
+Niega	O
+otros	O
+hábitos	O
+tóxicos	O
+y	O
+no	O
+presenta	O
+otros	O
+factores	O
+de	O
+riesgo	O
+vascular	O
+.	O

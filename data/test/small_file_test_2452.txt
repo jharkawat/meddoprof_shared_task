@@ -1,0 +1,7 @@
+
+No	O
+se	O
+evidencia	O
+derrame	O
+pleural	O
+.	O

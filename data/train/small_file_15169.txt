@@ -1,0 +1,7 @@
+
+Citología	O
+BAS	O
+:	O
+metaplasia	O
+escamosa	O
+.	O

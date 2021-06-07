@@ -1,0 +1,7 @@
+
+Consume	O
+puntualmente	O
+cocaína	O
+y	O
+benzodiacepinas	O
+.	O

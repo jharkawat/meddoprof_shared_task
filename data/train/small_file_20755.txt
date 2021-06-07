@@ -1,0 +1,18 @@
+
+Desde	O
+los	O
+16	O
+años	O
+realiza	O
+seguimiento	O
+en	O
+el	O
+Equipo	B-PROFESION
+de	I-PROFESION
+Salud	I-PROFESION
+Mental	I-PROFESION
+Comunitario	I-PROFESION
+por	O
+alteraciones	O
+conductuales	O
+.	O

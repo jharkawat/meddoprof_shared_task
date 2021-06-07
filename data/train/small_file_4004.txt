@@ -1,0 +1,10 @@
+
+Refiere	O
+además	O
+insomnio	O
+y	O
+gran	O
+ansiedad	O
+al	O
+despertar	O
+.	O

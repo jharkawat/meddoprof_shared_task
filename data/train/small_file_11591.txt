@@ -1,0 +1,17 @@
+
+La	O
+Rx	O
+tórax	O
+mostró	O
+un	O
+índice	O
+cardiotorácico	O
+normal	O
+,	O
+sin	O
+alteraciones	O
+pleuro	O
+-	O
+parenquimatosas	O
+significativas	O
+.	O

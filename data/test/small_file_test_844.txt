@@ -1,0 +1,19 @@
+
+Antecedentes	O
+Personales	O
+:	O
+Hipertensión	O
+Arterial	O
+,	O
+en	O
+tratamiento	O
+con	O
+Enalapril	O
+,	O
+Exfumador	O
+No	O
+refiere	O
+antecedentes	O
+familiares	O
+de	O
+cáncer	O

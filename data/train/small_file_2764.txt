@@ -1,0 +1,19 @@
+
+En	O
+semanas	O
+posteriores	O
+ha	O
+acudido	O
+en	O
+varias	O
+ocasiones	O
+al	O
+servicio	O
+de	O
+urgencias	O
+por	O
+cefalea	O
+y	O
+crisis	O
+epileptógenas	O
+.	O

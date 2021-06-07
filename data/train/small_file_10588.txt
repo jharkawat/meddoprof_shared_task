@@ -1,0 +1,7 @@
+
+Vacunado	O
+para	O
+la	O
+Hepatitis	O
+B	O
+.	O

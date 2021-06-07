@@ -1,0 +1,8 @@
+
+El	O
+electroencefalograma	O
+no	O
+mostró	O
+hallazgos	O
+significativos	O
+.	O

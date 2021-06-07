@@ -1,0 +1,26 @@
+
+A	O
+los	O
+8	O
+meses	O
+de	O
+tratamiento	O
+y	O
+dada	O
+la	O
+buena	O
+evolución	O
+clínica	O
+,	O
+se	O
+decide	O
+disminuir	O
+paulatinamente	O
+la	O
+dosis	O
+de	O
+risperidona	O
+hasta	O
+3	O
+mg	O
+.	O

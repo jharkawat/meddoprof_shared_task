@@ -1,0 +1,14 @@
+
+El	O
+estudio	O
+molecular	O
+no	O
+presenta	O
+mutaciones	O
+de	O
+EGFR	O
+ni	O
+reordenamiento	O
+de	O
+ALK	O
+.	O

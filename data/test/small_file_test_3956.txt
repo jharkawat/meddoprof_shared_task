@@ -1,0 +1,25 @@
+
+Hipoventilación	O
+y	O
+crepitantes	O
+finos	O
+en	O
+ambas	O
+bases	O
+pulmonares	O
+,	O
+arritmia	O
+cardíaca	O
+sin	O
+soplos	O
+,	O
+hepatomegalia	O
+de	O
+4	O
+cm	O
+por	O
+debajo	O
+de	O
+reborde	O
+costal	O
+.	O

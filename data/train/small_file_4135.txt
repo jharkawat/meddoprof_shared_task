@@ -1,0 +1,24 @@
+
+Según	O
+la	O
+EVA	O
+,	O
+el	O
+dolor	O
+es	O
+10	O
+/	O
+10	O
+en	O
+el	O
+trabajo	O
+y	O
+3	O
+-	O
+5	O
+/	O
+10	O
+en	O
+la	O
+casa	O
+.	O

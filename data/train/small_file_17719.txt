@@ -1,0 +1,11 @@
+
+Fumador	O
+2	O
+cigarrillos	O
+/	O
+día	O
+,	O
+no	O
+hábito	O
+enólico	O
+.	O

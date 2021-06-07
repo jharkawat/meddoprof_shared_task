@@ -1,0 +1,18 @@
+
+-	O
+Puede	O
+ocurrir	O
+en	O
+uno	O
+o	O
+en	O
+varios	O
+huesos	O
+(	O
+monostotic	O
+and	O
+polyostotic	O
+fibrous	O
+dysplasia	O
+)	O
+.	O

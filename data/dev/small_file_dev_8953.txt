@@ -1,0 +1,13 @@
+
+A	O
+nivel	O
+de	O
+abdomen	O
+se	O
+palpaba	O
+hepato	O
+-	O
+esplenomegalia	O
+no	O
+dolorosa	O
+.	O

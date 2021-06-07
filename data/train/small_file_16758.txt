@@ -1,0 +1,14 @@
+
+Seis	O
+meses	O
+antes	O
+le	O
+había	O
+sido	O
+concedida	O
+una	O
+baja	B-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+por	O
+dorsalgia	O
+.	O

@@ -1,0 +1,25 @@
+
+Los	O
+hemocultivos	O
+un	O
+mes	O
+después	O
+de	O
+finalizar	O
+el	O
+tratamiento	O
+también	O
+son	O
+negativos	O
+y	O
+es	O
+dado	O
+de	O
+alta	O
+de	O
+la	O
+consulta	O
+de	O
+Enfermedades	O
+Infecciosas	O
+.	O

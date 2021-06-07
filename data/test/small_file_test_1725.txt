@@ -1,0 +1,23 @@
+
+El	O
+segundo	O
+molar	O
+inferior	O
+derecho	O
+no	O
+presentaba	O
+caries	O
+,	O
+ni	O
+movilidad	O
+,	O
+ni	O
+dolor	O
+a	O
+la	O
+percusión	O
+y	O
+tenía	O
+vitalidad	O
+positiva	O
+.	O

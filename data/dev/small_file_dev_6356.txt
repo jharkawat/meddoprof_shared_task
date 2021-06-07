@@ -1,0 +1,22 @@
+
+En	O
+la	O
+anamnesis	O
+destacaba	O
+que	O
+el	O
+paciente	O
+había	O
+regresado	O
+,	O
+hacía	O
+siete	O
+días	O
+,	O
+de	O
+una	O
+zona	O
+rural	O
+de	O
+Sudáfrica	O
+.	O

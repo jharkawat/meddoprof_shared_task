@@ -1,0 +1,14 @@
+
+Se	O
+solicitan	O
+exámenes	O
+de	O
+función	O
+pulmonar	O
+y	O
+tomografía	O
+computada	O
+de	O
+alta	O
+resolución	O
+.	O

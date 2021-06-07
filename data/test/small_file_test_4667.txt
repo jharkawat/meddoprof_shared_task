@@ -1,0 +1,20 @@
+
+La	O
+exploración	O
+neurológica	O
+(	O
+pares	O
+craneales	O
+,	O
+fuerza	O
+,	O
+sensibilidad	O
+,	O
+marcha	O
+,	O
+coordinación	O
+)	O
+era	O
+rigurosamente	O
+normal	O
+.	O

@@ -1,0 +1,21 @@
+
+Finalmente	O
+el	O
+diagnóstico	O
+se	O
+confirmó	O
+mediante	O
+biopsia	O
+que	O
+reveló	O
+la	O
+presencia	O
+de	O
+huevos	O
+del	O
+parásito	O
+en	O
+el	O
+parénquima	O
+hepático	O
+.	O

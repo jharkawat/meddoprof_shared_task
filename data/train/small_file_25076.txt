@@ -1,0 +1,11 @@
+
+Tomografía	O
+axial	O
+computarizada	O
+(	O
+TAC	O
+)	O
+craneal	O
+:	O
+normal	O
+.	O

@@ -1,0 +1,8 @@
+
+Afecto	O
+con	O
+predominio	O
+de	O
+la	O
+irritabilidad	O
+.	O

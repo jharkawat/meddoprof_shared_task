@@ -1,0 +1,21 @@
+
+En	O
+ecografía	O
+vaginal	O
+se	O
+observa	O
+mioma	O
+de	O
+10cm	O
+con	O
+ocupación	O
+de	O
+Douglas	O
+,	O
+DIU	O
+normoinserto	O
+y	O
+anejo	O
+izquierdo	O
+empastado	O
+.	O

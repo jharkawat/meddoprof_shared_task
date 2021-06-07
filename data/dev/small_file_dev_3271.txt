@@ -1,0 +1,8 @@
+
+La	O
+hermana	O
+aborta	O
+espontáneamente	O
+esa	O
+tarde	O
+.	O

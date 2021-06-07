@@ -1,0 +1,23 @@
+
+Se	O
+trata	O
+de	O
+una	O
+mujer	O
+de	O
+57años	O
+que	O
+consultó	O
+en	O
+nuestro	O
+centro	O
+de	O
+salud	O
+mental	O
+por	O
+episodio	O
+depresivo	O
+con	O
+síntomas	O
+melancólicos	O
+.	O

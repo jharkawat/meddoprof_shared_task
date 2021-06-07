@@ -1,0 +1,24 @@
+
+La	O
+pápula	O
+está	O
+constituida	O
+por	O
+un	O
+denso	O
+infiltrado	O
+inflamatorio	O
+situado	O
+en	O
+una	O
+papila	O
+dérmica	O
+ensanchada	O
+e	O
+inmediatamente	O
+por	O
+debajo	O
+del	O
+epitelio	O
+epidérmico	O
+.	O

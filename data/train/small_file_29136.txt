@@ -1,0 +1,16 @@
+
+En	O
+esta	O
+situación	O
+,	O
+se	O
+decide	O
+un	O
+ingreso	O
+en	O
+nuestra	O
+Unidad	O
+de	O
+Hospitalización	O
+Psiquiátrica	O
+.	O

@@ -1,0 +1,13 @@
+
+Rx	O
+cervical	O
+(	O
+marzo	O
+/	O
+2002	O
+)	O
+:	O
+no	O
+alteraciones	O
+radiológicas	O
+.	O

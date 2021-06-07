@@ -1,0 +1,21 @@
+
+Hasta	O
+la	O
+fecha	O
+,	O
+ha	O
+seguido	O
+controles	O
+en	O
+consultas	O
+externas	O
+de	O
+Neurología	O
+y	O
+Psiquiatría	O
+,	O
+sin	O
+presentar	O
+nuevos	O
+episodios	O
+.	O

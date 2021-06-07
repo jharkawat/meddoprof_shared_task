@@ -1,0 +1,9 @@
+
+Presenta	O
+agitación	O
+psicomotriz	O
+incipiente	O
+con	O
+escasa	O
+colaboración	O
+.	O

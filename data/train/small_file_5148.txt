@@ -1,0 +1,26 @@
+
+Tras	O
+valoración	O
+en	O
+urgencias	O
+del	O
+Centro	O
+de	O
+Salud	O
+,	O
+se	O
+deriva	O
+a	O
+Urgencias	O
+hospitalarias	O
+donde	O
+el	O
+paciente	O
+continúa	O
+con	O
+dolor	O
+pero	O
+refiere	O
+cierta	O
+mejoría	O
+.	O

@@ -1,0 +1,16 @@
+
+La	O
+madre	O
+dice	O
+que	O
+no	O
+,	O
+porque	O
+Raúl	O
+siempre	O
+ha	O
+sido	O
+un	O
+buen	O
+alumno	B-SITUACION_LABORAL
+.	O

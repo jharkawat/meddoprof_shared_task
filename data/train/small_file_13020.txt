@@ -1,0 +1,9 @@
+
+—	O
+ECG	O
+:	O
+RS	O
+a	O
+95	O
+lpm	O
+.	O

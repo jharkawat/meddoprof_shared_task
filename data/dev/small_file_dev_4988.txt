@@ -1,0 +1,12 @@
+
+Hemograma	O
+leucocitosis	O
+de	O
+15	O
+.	O
+980	O
+con	O
+90	O
+%	O
+neutrófilos	O
+.	O

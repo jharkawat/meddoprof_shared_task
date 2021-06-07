@@ -1,0 +1,5 @@
+
+Patrón	O
+intestinal	O
+normal	O
+.	O

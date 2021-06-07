@@ -1,0 +1,21 @@
+
+Se	O
+le	O
+ofreció	O
+una	O
+segunda	O
+línea	O
+de	O
+tratamiento	O
+con	O
+quimioterapia	O
+que	O
+el	O
+paciente	O
+prefirió	O
+no	O
+recibir	O
+por	O
+el	O
+momento	O
+.	O

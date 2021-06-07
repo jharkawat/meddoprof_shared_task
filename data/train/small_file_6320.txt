@@ -1,0 +1,12 @@
+
+Diagnóstico	O
+:	O
+Intoxicación	O
+crónica	O
+por	O
+mercurio	O
+y	O
+Hepatopatía	O
+por	O
+VHC	O
+.	O

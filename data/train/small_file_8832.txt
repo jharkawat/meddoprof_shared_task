@@ -1,0 +1,12 @@
+
+La	O
+biopsia	O
+de	O
+médula	O
+ósea	O
+mostró	O
+signos	O
+moderados	O
+de	O
+hemofagocitosis	O
+.	O

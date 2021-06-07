@@ -1,0 +1,16 @@
+
+La	O
+Palpación	O
+bimanual	O
+del	O
+suelo	O
+de	O
+la	O
+boca	O
+,	O
+lengua	O
+,	O
+labios	O
+:	O
+normal	O
+.	O

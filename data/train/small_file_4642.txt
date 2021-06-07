@@ -1,0 +1,13 @@
+
+A	O
+su	O
+llegada	O
+al	O
+hospital	O
+,	O
+su	O
+estado	O
+no	O
+ha	O
+cambiado	O
+.	O

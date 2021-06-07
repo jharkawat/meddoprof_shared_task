@@ -1,0 +1,23 @@
+
+Se	O
+propone	O
+a	O
+la	O
+paciente	O
+realizar	O
+una	O
+nueva	O
+intervención	O
+quirúrgica	O
+para	O
+la	O
+corrección	O
+de	O
+la	O
+incontinencia	O
+urinaria	O
+evitando	O
+la	O
+vía	O
+transobturatriz	O
+.	O

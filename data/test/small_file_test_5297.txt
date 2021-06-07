@@ -1,0 +1,20 @@
+
+A	O
+la	O
+auscultación	O
+cardíaca	O
+,	O
+tonos	O
+rítmicos	O
+,	O
+soplo	O
+expulsivo	O
+aórtico	O
+grado	O
+III	O
+/	O
+VI	O
+de	O
+nueva	O
+aparición	O
+.	O

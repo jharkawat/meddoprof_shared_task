@@ -1,0 +1,26 @@
+
+Los	O
+síntomas	O
+pueden	O
+ir	O
+desapareciendo	O
+si	O
+el	O
+paciente	O
+deja	O
+de	O
+fumar	O
+radicalmente	O
+,	O
+pues	O
+de	O
+lo	O
+contrario	O
+,	O
+el	O
+resultado	O
+serían	O
+las	O
+múltiples	O
+amputaciones	O
+.	O

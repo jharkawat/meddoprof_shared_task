@@ -1,0 +1,23 @@
+
+Antecedentes	O
+familiares	O
+:	O
+hermano	O
+gemelo	O
+del	O
+padre	O
+con	O
+trastorno	O
+esquizofrénico	O
+y	O
+una	O
+hermana	O
+con	O
+esquizofrenia	O
+paranoide	O
+y	O
+en	O
+tratamiento	O
+con	O
+quetiapina	O
+.	O

@@ -1,0 +1,13 @@
+
+Se	O
+recomendó	O
+vigilar	O
+las	O
+heces	O
+durante	O
+3	O
+meses	O
+tras	O
+el	O
+tratamiento	O
+.	O

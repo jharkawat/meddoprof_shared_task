@@ -1,0 +1,12 @@
+
+Mujer	O
+de	O
+48	O
+años	O
+que	O
+ingresa	O
+por	O
+un	O
+cuadro	O
+psicótico	O
+.	O

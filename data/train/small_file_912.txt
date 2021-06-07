@@ -1,0 +1,24 @@
+
+de	O
+pirazinamida	O
+en	O
+ayunas	O
+durante	O
+dos	O
+meses	O
+,	O
+continuando	O
+4	O
+meses	O
+mas	O
+con	O
+rifampicina	O
+600	O
+mgr	O
+e	O
+isoniazida	O
+300	O
+mgr	O
+al	O
+día	O
+.	O

@@ -1,0 +1,5 @@
+
+Refería	O
+intensa	O
+cefalea	O
+.	O

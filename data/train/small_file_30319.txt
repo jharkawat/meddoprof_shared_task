@@ -1,0 +1,25 @@
+
+Acude	O
+con	O
+su	O
+hijo	O
+,	O
+me	O
+alegra	O
+ver	O
+que	O
+después	O
+de	O
+todo	O
+este	O
+tiempo	O
+su	O
+aspecto	O
+ha	O
+mejorado	O
+,	O
+se	O
+encuentra	O
+más	O
+expresiva	O
+.	O

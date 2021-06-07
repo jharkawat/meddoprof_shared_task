@@ -1,0 +1,12 @@
+
+y	O
+percatamos	O
+que	O
+al	O
+pasar	O
+por	O
+delante	O
+del	O
+espejo	O
+sonríe	O
+.	O

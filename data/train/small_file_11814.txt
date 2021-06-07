@@ -1,0 +1,10 @@
+
+Radiografía	O
+de	O
+tórax	O
+normal	O
+y	O
+ecografía	O
+abdominal	O
+normal	O
+.	O

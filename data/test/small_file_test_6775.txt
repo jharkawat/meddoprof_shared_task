@@ -1,0 +1,16 @@
+
+Sin	O
+alergias	O
+conocidas	O
+,	O
+hábitos	O
+tóxicos	O
+ni	O
+patología	O
+previa	O
+de	O
+interés	O
+salvo	O
+la	O
+oncológica	O
+.	O

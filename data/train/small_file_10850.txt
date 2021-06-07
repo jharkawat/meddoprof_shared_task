@@ -1,0 +1,23 @@
+
+En	O
+diciembre	O
+de	O
+2018	O
+presenta	O
+cuadro	O
+de	O
+dolor	O
+abdominal	O
+de	O
+inicio	O
+brusco	O
+,	O
+con	O
+astenia	O
+intensa	O
+y	O
+disminución	O
+del	O
+estado	O
+funcional	O
+.	O

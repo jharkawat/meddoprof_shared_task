@@ -1,0 +1,27 @@
+
+Acusó	O
+a	O
+una	O
+cantidad	O
+de	O
+personas	O
+de	O
+querer	O
+hacerle	O
+daño	O
+y	O
+de	O
+que	O
+buscaban	O
+la	O
+oportunidad	O
+de	O
+forzarla	O
+para	O
+que	O
+tenga	O
+relaciones	O
+sexuales	O
+con	O
+ellos	O
+.	O

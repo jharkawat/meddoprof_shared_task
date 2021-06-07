@@ -1,0 +1,26 @@
+
+•	O
+Se	O
+solicita	O
+estado	O
+mutacional	O
+de	O
+EGFR	O
+,	O
+que	O
+resulta	O
+nativo	O
+,	O
+y	O
+de	O
+K	O
+-	O
+ras	O
+que	O
+aparece	O
+mutado	O
+en	O
+el	O
+codón	O
+12	O
+.	O

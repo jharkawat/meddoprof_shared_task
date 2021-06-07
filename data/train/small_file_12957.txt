@@ -1,0 +1,24 @@
+
+En	O
+el	O
+electrocardiograma	O
+(	O
+ECG	O
+)	O
+se	O
+objetiva	O
+segmento	O
+ST	O
+infradesnivelado	O
+en	O
+derivaciones	O
+correspondientes	O
+a	O
+septo	O
+y	O
+cara	O
+lateral	O
+del	O
+ventrículo	O
+izquierdo	O
+.	O

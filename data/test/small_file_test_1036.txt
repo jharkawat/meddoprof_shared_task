@@ -1,0 +1,8 @@
+
+Se	O
+hace	O
+una	O
+reducción	O
+de	O
+estómago	O
+.	O

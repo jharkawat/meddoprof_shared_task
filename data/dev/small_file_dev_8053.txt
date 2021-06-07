@@ -1,0 +1,16 @@
+
+Absceso	O
+pulmonar	O
+primario	O
+en	O
+lóbulo	O
+superior	O
+derecho	O
+en	O
+paciente	O
+con	O
+enfermedad	O
+periodontal	O
+y	O
+alcoholismo	O
+.	O

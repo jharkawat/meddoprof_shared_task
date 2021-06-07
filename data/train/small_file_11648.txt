@@ -1,0 +1,9 @@
+
+Es	O
+fundamental	O
+identificar	O
+el	O
+posible	O
+foco	O
+infeccioso	O
+.	O

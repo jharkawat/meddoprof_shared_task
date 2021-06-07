@@ -1,0 +1,14 @@
+
+Mujer	O
+de	O
+55	O
+años	O
+que	O
+presenta	O
+como	O
+antecedentes	O
+personales	O
+relevantes	O
+hábito	O
+tabáquico	O
+.	O

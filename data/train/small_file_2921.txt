@@ -1,0 +1,11 @@
+
+Se	O
+contactó	O
+con	O
+Neurocirugía	O
+para	O
+valoración	O
+de	O
+tratamiento	O
+oncológico	O
+.	O

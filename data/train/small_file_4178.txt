@@ -1,0 +1,13 @@
+
+Balanopostitis	O
+candidiásica	O
+probablemente	O
+secundaria	O
+a	O
+Diabetes	O
+Mellitus	O
+tipo	O
+II	O
+no	O
+diagnosticada	O
+.	O

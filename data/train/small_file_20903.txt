@@ -1,0 +1,12 @@
+
+NIC	O
+:	O
+Fomento	O
+de	O
+la	O
+implicación	O
+familiar	O
+(	O
+hermana	O
+)	O
+.	O

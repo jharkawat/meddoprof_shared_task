@@ -1,0 +1,6 @@
+
+Trastorno	O
+obsesivo	O
+de	O
+la	O
+personalidad	O

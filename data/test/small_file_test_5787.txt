@@ -1,0 +1,13 @@
+
+Aceptable	O
+evolución	O
+tanto	O
+clínica	O
+como	O
+subjetiva	O
+con	O
+el	O
+tratamiento	O
+antibiótico	O
+dirigido	O
+.	O

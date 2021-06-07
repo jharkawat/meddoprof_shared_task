@@ -1,0 +1,24 @@
+
+•	O
+ECG	O
+:	O
+taquicardia	O
+sinusal	O
+a	O
+118	O
+lpm	O
+,	O
+eje	O
+a	O
+60o	O
+,	O
+conducción	O
+normal	O
+,	O
+sin	O
+alteraciones	O
+agudas	O
+de	O
+la	O
+repolarización	O
+.	O

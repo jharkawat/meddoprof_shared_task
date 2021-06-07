@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+30	O
+/	O
+06	O
+/	O
+1957	O
+.	O

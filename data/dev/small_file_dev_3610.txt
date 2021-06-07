@@ -1,0 +1,14 @@
+
+Antecedentes	O
+primo	O
+materno	O
+con	O
+diabetes	O
+mellitus	O
+,	O
+primo	O
+paterno	O
+con	O
+anorexia	O
+nerviosa	O
+.	O

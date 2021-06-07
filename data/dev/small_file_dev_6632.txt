@@ -1,0 +1,11 @@
+
+No	O
+se	O
+evidenciaron	O
+adenopatías	O
+ni	O
+megalias	O
+en	O
+la	O
+exploración	O
+.	O

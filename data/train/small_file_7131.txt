@@ -1,0 +1,17 @@
+
+A	O
+las	O
+dos	O
+semanas	O
+las	O
+lesiones	O
+se	O
+habían	O
+resuelto	O
+,	O
+sin	O
+descamación	O
+ni	O
+pigmentación	O
+postinflamatorias	O
+.	O

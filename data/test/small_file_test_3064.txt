@@ -1,0 +1,8 @@
+
+Amplificación	O
+genómica	O
+M	O
+tuberculosis	O
+complex	O
+negativa	O
+.	O

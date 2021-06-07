@@ -1,0 +1,16 @@
+
+La	O
+paciente	O
+comienza	O
+el	O
+tratamiento	O
+al	O
+dar	O
+negativo	O
+en	O
+orina	O
+a	O
+metadona	O
+y	O
+buprenorfina	O
+.	O

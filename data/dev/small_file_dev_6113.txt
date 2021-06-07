@@ -1,0 +1,13 @@
+
+La	O
+auscultación	O
+respiratoria	O
+presentaba	O
+murmullo	O
+vesicular	O
+conservado	O
+,	O
+sin	O
+ruidos	O
+sobreañadidos	O
+.	O

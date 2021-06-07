@@ -1,0 +1,12 @@
+
+ECG	O
+:	O
+Ritmo	O
+sinusal	O
+,	O
+sin	O
+trastornos	O
+en	O
+la	O
+repolarización	O
+.	O

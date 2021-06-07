@@ -1,0 +1,20 @@
+
+En	O
+la	O
+evolución	O
+agregó	O
+chuchos	O
+de	O
+frío	O
+y	O
+temperatura	O
+axilar	O
+de	O
+38	O
+°	O
+C	O
+,	O
+a	O
+predominio	O
+vespertino	O
+.	O

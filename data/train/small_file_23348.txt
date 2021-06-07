@@ -1,0 +1,6 @@
+
+Evaluación	O
+psiquiátrica	O
+durante	O
+el	O
+ingreso	O

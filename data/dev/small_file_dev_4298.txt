@@ -1,0 +1,10 @@
+
+Rx	O
+rodilla	O
+derecha	O
+;	O
+Proyección	O
+frontal	O
+y	O
+lateral	O
+.	O

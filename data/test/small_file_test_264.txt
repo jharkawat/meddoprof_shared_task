@@ -1,0 +1,16 @@
+
+No	O
+hay	O
+disminución	O
+de	O
+la	O
+capacidad	O
+auditiva	O
+,	O
+acufenos	O
+,	O
+otalgia	O
+,	O
+ni	O
+otorrea	O
+.	O

@@ -1,0 +1,11 @@
+
+Constantes	O
+:	O
+Tensión	O
+arterial	O
+:	O
+110	O
+/	O
+65	O
+mmHg	O
+.	O

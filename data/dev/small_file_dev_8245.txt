@@ -1,0 +1,9 @@
+
+Se	O
+extraen	O
+hemocultivos	O
+que	O
+posteriormente	O
+resultaron	O
+negativos	O
+.	O

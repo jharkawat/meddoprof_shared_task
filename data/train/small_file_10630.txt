@@ -1,0 +1,19 @@
+
+•	O
+Diabetes	O
+mellitus	O
+tipo	O
+2	O
+diagnosticada	O
+en	O
+2006	O
+,	O
+con	O
+aceptable	O
+control	O
+glucémico	O
+con	O
+dieta	O
+y	O
+ejercicio	O
+.	O

@@ -1,0 +1,20 @@
+
+Se	O
+le	O
+realizó	O
+una	O
+analítica	O
+,	O
+donde	O
+la	O
+bioquímica	O
+,	O
+el	O
+hemograma	O
+y	O
+la	O
+coagulación	O
+básica	O
+fueron	O
+normales	O
+.	O

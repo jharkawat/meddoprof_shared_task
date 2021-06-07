@@ -1,0 +1,19 @@
+
+En	O
+la	O
+38	O
+semana	O
+de	O
+gestación	O
+consulta	O
+de	O
+forma	O
+urgente	O
+por	O
+pérdida	O
+de	O
+visión	O
+de	O
+ojo	O
+izquierdo	O
+.	O

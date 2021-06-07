@@ -1,0 +1,6 @@
+
+No	O
+recuerda	O
+su	O
+duración	O
+.	O

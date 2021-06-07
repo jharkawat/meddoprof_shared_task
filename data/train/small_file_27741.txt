@@ -1,0 +1,21 @@
+
+Se	O
+realiza	O
+detección	O
+de	O
+tóxicos	O
+en	O
+orina	O
+,	O
+que	O
+es	O
+negativa	O
+para	O
+THC	O
+,	O
+cocaína	O
+,	O
+opioides	O
+y	O
+anfetamina	O
+.	O

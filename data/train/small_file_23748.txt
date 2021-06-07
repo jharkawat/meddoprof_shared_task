@@ -1,0 +1,24 @@
+
+Nunca	O
+ha	O
+reconocido	O
+consumir	O
+cannabis	O
+hasta	O
+el	O
+episodio	O
+de	O
+noviembre	O
+de	O
+2007	O
+,	O
+en	O
+el	O
+que	O
+el	O
+consumo	O
+se	O
+comprueba	O
+mediante	O
+urianálsis	O
+.	O

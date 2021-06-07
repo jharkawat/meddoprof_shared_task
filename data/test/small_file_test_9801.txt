@@ -1,0 +1,25 @@
+
+Tras	O
+el	O
+primer	O
+ciclo	O
+de	O
+quimioterapia	O
+,	O
+se	O
+realizaron	O
+estudios	O
+de	O
+extensión	O
+observando	O
+metástasis	O
+en	O
+D5	O
+en	O
+la	O
+gammagrafía	O
+y	O
+metástasis	O
+pulmonares	O
+bilaterales	O
+.	O

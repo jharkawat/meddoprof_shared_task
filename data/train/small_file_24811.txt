@@ -1,0 +1,10 @@
+
+El	O
+diagnóstico	O
+inicial	O
+es	O
+Trastorno	O
+Psicótico	O
+por	O
+Cannabis	O
+.	O

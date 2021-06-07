@@ -1,0 +1,26 @@
+
+Síntomas	O
+que	O
+parecen	O
+empeorar	O
+con	O
+el	O
+cambio	O
+de	O
+su	O
+tratamiento	O
+habitual	O
+(	O
+paliperidona	O
+,	O
+con	O
+el	O
+que	O
+ya	O
+presentaba	O
+la	O
+clínica	O
+)	O
+a	O
+aripiprazol	O
+.	O

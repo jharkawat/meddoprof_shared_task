@@ -1,0 +1,23 @@
+
+En	O
+este	O
+caso	O
+se	O
+realizó	O
+la	O
+endodoncia	O
+del	O
+diente	O
+2	O
+.	O
+1	O
+por	O
+presentar	O
+vitalidad	O
+negativa	O
+en	O
+las	O
+pruebas	O
+diagnósticas	O
+realizadas	O
+.	O

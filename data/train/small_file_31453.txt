@@ -1,0 +1,10 @@
+
+Desaparece	O
+la	O
+clínica	O
+ansiosa	O
+y	O
+la	O
+ideación	O
+autolítica	O
+.	O

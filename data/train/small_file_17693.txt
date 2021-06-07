@@ -1,0 +1,19 @@
+
+Las	O
+punzadas	O
+podían	O
+repetirse	O
+varias	O
+veces	O
+al	O
+día	O
+y	O
+únicamente	O
+se	O
+producían	O
+en	O
+contacto	O
+con	O
+temperaturas	O
+bajas	O
+.	O

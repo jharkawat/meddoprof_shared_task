@@ -1,0 +1,20 @@
+
+Siempre	O
+que	O
+salgo	O
+a	O
+recibirla	O
+a	O
+la	O
+sala	O
+de	O
+espera	O
+,	O
+está	O
+hablando	O
+con	O
+otro	O
+paciente	O
+o	O
+familiar	O
+.	O

@@ -1,0 +1,5 @@
+
+Niega	O
+otros	O
+tóxicos	O
+.	O

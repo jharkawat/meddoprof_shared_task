@@ -1,0 +1,23 @@
+
+Los	O
+niveles	O
+de	O
+glucagón	O
+fueron	O
+repetidamente	O
+elevados	O
+(	O
+>	O
+400	O
+pg	O
+/	O
+ml	O
+)	O
+,	O
+con	O
+normalidad	O
+del	O
+resto	O
+de	O
+hormonas	O
+.	O

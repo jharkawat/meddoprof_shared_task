@@ -1,0 +1,10 @@
+
+Lamotrigina	O
+es	O
+un	O
+antiepiléptico	O
+y	O
+no	O
+estaría	O
+indicado	O
+.	O

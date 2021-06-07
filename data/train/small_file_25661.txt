@@ -1,0 +1,22 @@
+
+Ingresa	O
+en	O
+Psiquiatría	O
+por	O
+sospecha	O
+de	O
+delirio	O
+compartido	O
+con	O
+su	O
+hija	O
+,	O
+en	O
+situación	O
+de	O
+descompensación	O
+psicopatológica	O
+en	O
+ese	O
+momento	O
+.	O

@@ -1,0 +1,10 @@
+
+La	O
+auscultación	O
+cardiaca	O
+era	O
+rítmica	O
+y	O
+sin	O
+soplos	O
+.	O

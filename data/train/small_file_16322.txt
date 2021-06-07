@@ -1,0 +1,16 @@
+
+Tras	O
+una	O
+anamnesis	O
+exhaustiva	O
+refería	O
+haber	O
+consumido	O
+cocaína	O
+previamente	O
+al	O
+inicio	O
+de	O
+la	O
+sintomatología	O
+.	O

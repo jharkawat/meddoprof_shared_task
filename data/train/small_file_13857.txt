@@ -1,0 +1,27 @@
+
+Consulta	O
+en	O
+nuestro	O
+centro	O
+en	O
+Enero	O
+de	O
+este	O
+año	O
+por	O
+fiebre	O
+(	O
+38oC	O
+)	O
+con	O
+escalofríos	O
+,	O
+ictericia	O
+y	O
+coluria	O
+de	O
+24	O
+horas	O
+de	O
+evolución	O
+.	O

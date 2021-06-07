@@ -1,0 +1,17 @@
+
+Según	O
+refiere	O
+la	O
+paciente	O
+,	O
+el	O
+padre	O
+tiene	O
+más	O
+hijos	O
+,	O
+fruto	O
+de	O
+otras	O
+relaciones	O
+.	O

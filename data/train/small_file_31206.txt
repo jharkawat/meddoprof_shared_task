@@ -1,0 +1,6 @@
+
+Infecciones	O
+agudas	O
+de	O
+repetición	O
+.	O

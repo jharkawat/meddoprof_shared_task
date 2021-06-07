@@ -1,0 +1,16 @@
+
+Cuando	O
+tuvo	O
+a	O
+su	O
+hijo	O
+se	O
+vino	O
+abajo	O
+al	O
+sentirse	O
+sola	O
+para	O
+poder	O
+cuidarlo	O
+.	O

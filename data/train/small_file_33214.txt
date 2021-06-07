@@ -1,0 +1,26 @@
+
+En	O
+el	O
+TAC	O
+cerebral	O
+y	O
+la	O
+resonancia	O
+magnética	O
+craneal	O
+,	O
+se	O
+observan	O
+estructuras	O
+de	O
+tamaño	O
+y	O
+morfología	O
+dentro	O
+de	O
+los	O
+límites	O
+de	O
+la	O
+normalidad	O
+.	O

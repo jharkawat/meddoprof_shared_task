@@ -1,0 +1,13 @@
+
+Se	O
+practicó	O
+una	O
+analítica	O
+de	O
+sangre	O
+y	O
+una	O
+TC	O
+cerebral	O
+urgentes	O
+.	O

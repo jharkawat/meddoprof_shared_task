@@ -1,0 +1,4 @@
+
+Discurso	O
+coherente	O
+.	O

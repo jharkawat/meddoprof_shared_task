@@ -1,0 +1,8 @@
+
+Laboral	O
+:	O
+Cuidadora	B-PROFESION
+de	I-PROFESION
+gente	I-PROFESION
+mayor	I-PROFESION
+.	O

@@ -1,0 +1,15 @@
+
+En	O
+caso	O
+de	O
+requerirla	O
+,	O
+esta	O
+se	O
+inicia	O
+a	O
+partir	O
+del	O
+ciclo	O
+8	O
+.	O

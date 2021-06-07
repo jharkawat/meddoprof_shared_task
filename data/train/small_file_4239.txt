@@ -1,0 +1,12 @@
+
+Su	O
+padre	O
+,	O
+anciano	O
+frágil	O
+,	O
+le	O
+exige	O
+demasiada	O
+atención	O
+.	O

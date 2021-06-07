@@ -1,0 +1,13 @@
+
+Empeoramiento	O
+de	O
+la	O
+trombosis	O
+del	O
+tronco	O
+tibioperoneo	O
+y	O
+ART	O
+tibial	O
+anterior	O
+.	O

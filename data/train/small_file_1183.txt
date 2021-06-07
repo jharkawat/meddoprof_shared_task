@@ -1,0 +1,6 @@
+
+No	O
+se	O
+realizó	O
+electroencefalograma	O
+.	O

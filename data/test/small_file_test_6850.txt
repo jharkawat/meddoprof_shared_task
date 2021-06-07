@@ -1,0 +1,18 @@
+
+Posteriormente	O
+,	O
+inició	O
+seguimiento	O
+periódico	O
+por	O
+Oncología	O
+Médica	O
+y	O
+Cirugía	O
+Torácica	O
+con	O
+TC	O
+y	O
+evaluación	O
+clínica	O
+.	O

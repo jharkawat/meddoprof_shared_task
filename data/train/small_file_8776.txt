@@ -1,0 +1,5 @@
+
+R	O
+conori	O
+negativo	O
+.	O

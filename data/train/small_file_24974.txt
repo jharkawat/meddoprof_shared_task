@@ -1,0 +1,14 @@
+
+Al	O
+final	O
+le	O
+hicieron	O
+una	O
+urografía	O
+y	O
+cistoscopía	O
+que	O
+resultaron	O
+también	O
+negativas	O
+.	O

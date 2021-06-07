@@ -1,0 +1,18 @@
+
+Se	O
+disminuyó	O
+progresivamente	O
+durante	O
+6	O
+meses	O
+hasta	O
+1	O
+⁄	O
+2	O
+comprimido	O
+de	O
+75	O
+mg	O
+/	O
+día	O
+.	O

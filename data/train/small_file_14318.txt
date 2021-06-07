@@ -1,0 +1,10 @@
+
+Se	O
+decide	O
+ingresar	O
+en	O
+planta	O
+de	O
+nuestro	O
+servicio	O
+.	O

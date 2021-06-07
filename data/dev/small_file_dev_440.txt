@@ -1,0 +1,5 @@
+
+Trastornos	O
+psicóticos	O
+primarios	O
+.	O

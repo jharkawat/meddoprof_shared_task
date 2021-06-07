@@ -1,0 +1,26 @@
+
+Se	O
+propuso	O
+como	O
+primera	O
+estrategia	O
+terapéutica	O
+el	O
+empleo	O
+de	O
+quimioterapia	O
+con	O
+seis	O
+ciclos	O
+de	O
+una	O
+combinación	O
+de	O
+vincristina	O
+-	O
+ifosfamida	O
+-	O
+etopósido	O
+y	O
+adriamicina	O
+.	O

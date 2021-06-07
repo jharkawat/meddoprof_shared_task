@@ -1,0 +1,6 @@
+
+Hiperglucemia	O
+alterada	O
+en	O
+ayunas	O
+.	O

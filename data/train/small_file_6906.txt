@@ -1,0 +1,22 @@
+
+El	O
+caso	O
+fue	O
+comunicado	O
+al	O
+servicio	O
+de	O
+medicina	O
+preventiva	O
+de	O
+nuestro	O
+hospital	O
+al	O
+tratarse	O
+de	O
+una	O
+enfermedad	O
+de	O
+declaración	O
+obligatoria	O
+.	O

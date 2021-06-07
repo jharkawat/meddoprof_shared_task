@@ -1,0 +1,19 @@
+
+Se	O
+le	O
+diagnostica	O
+definitivamente	O
+de	O
+trastorno	O
+delirante	O
+erotomaniaco	O
+y	O
+se	O
+le	O
+pauta	O
+risperidona	O
+im	O
+/	O
+15	O
+días	O
+.	O

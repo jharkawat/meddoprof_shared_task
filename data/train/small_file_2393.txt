@@ -1,0 +1,20 @@
+
+Niña	O
+de	O
+5	O
+años	O
+,	O
+dermatitis	O
+atópica	O
+,	O
+tras	O
+la	O
+ingesta	O
+de	O
+horchata	O
+presentó	O
+cuadro	O
+compatible	O
+con	O
+anafilaxia	O
+.	O

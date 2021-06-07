@@ -1,0 +1,13 @@
+
+Al	O
+nacer	O
+2450	O
+gr	O
+de	O
+peso	O
+con	O
+talla	O
+de	O
+46	O
+cm	O
+.	O

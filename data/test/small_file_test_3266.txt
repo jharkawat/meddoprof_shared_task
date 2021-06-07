@@ -1,0 +1,20 @@
+
+En	O
+el	O
+interior	O
+de	O
+la	O
+masa	O
+se	O
+ven	O
+pequeñas	O
+colecciones	O
+que	O
+pueden	O
+ser	O
+purulentas	O
+o	O
+por	O
+necrosis	O
+tumoral	O
+.	O

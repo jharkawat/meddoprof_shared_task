@@ -1,0 +1,22 @@
+
+Para	O
+clasificar	O
+en	O
+estadios	O
+y	O
+grados	O
+la	O
+periodontitis	O
+que	O
+presenta	O
+la	O
+paciente	O
+podemos	O
+dirigirnos	O
+al	O
+algoritmo	O
+de	O
+toma	O
+de	O
+decisiones	O
+.	O

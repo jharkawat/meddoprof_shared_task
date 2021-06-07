@@ -1,0 +1,14 @@
+
+Médico	B-PROFESION
+residente	I-PROFESION
+de	I-PROFESION
+nefrología	I-PROFESION
+de	O
+un	O
+hospital	O
+nacional	O
+nivel	O
+IV	O
+en	O
+Lima	O
+.	O

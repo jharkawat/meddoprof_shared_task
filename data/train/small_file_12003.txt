@@ -1,0 +1,14 @@
+
+Llamaba	O
+la	O
+atención	O
+la	O
+presencia	O
+de	O
+abundante	O
+líquido	O
+ascítico	O
+en	O
+cavidad	O
+abdominal	O
+.	O

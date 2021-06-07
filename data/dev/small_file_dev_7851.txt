@@ -1,0 +1,24 @@
+
+TA	O
+120	O
+/	O
+65	O
+mmHg	O
+,	O
+FC	O
+75	O
+lpm	O
+,	O
+sat	O
+de	O
+O2	O
+al	O
+99	O
+%	O
+con	O
+fiO2	O
+de	O
+0	O
+,	O
+21	O
+.	O

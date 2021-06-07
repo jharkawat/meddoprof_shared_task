@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+presenta	O
+excelente	O
+evolución	O
+con	O
+tratamiento	O
+sintomático	O
+,	O
+normalizando	O
+pruebas	O
+de	O
+función	O
+hepática	O
+10	O
+días	O
+después	O
+de	O
+la	O
+presentación	O
+.	O

@@ -1,0 +1,15 @@
+
+PACIENTE	O
+VARÓN	O
+DE	O
+50	O
+AÑOS	O
+que	O
+acude	O
+al	O
+periodoncista	B-PROFESION
+enviado	O
+por	O
+su	O
+familia	O
+.	O

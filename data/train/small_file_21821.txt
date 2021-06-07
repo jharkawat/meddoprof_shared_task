@@ -1,0 +1,25 @@
+
+No	O
+es	O
+fumador	O
+,	O
+y	O
+en	O
+el	O
+pasado	O
+ha	O
+consumido	O
+de	O
+forma	O
+ocasional	O
+alcohol	O
+y	O
+cannabis	O
+,	O
+con	O
+algún	O
+consumo	O
+puntual	O
+de	O
+cocaína	O
+.	O

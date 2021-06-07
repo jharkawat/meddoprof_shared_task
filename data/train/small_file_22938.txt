@@ -1,0 +1,11 @@
+
+Se	O
+observaba	O
+en	O
+esta	O
+temática	O
+una	O
+clara	O
+ideación	O
+autorreferencial	O
+.	O

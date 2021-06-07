@@ -1,0 +1,13 @@
+
+Se	O
+acompaña	O
+de	O
+un	O
+denso	O
+infiltrado	O
+linfoplasmocitario	O
+con	O
+reacción	O
+liquenoide	O
+epidérmica	O
+.	O

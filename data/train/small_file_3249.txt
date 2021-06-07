@@ -1,0 +1,13 @@
+
+Se	O
+aisló	O
+en	O
+sangre	O
+bacilo	O
+gram	O
+negativo	O
+(	O
+Klebsiella	O
+pneumoniae	O
+)	O
+.	O

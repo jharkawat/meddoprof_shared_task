@@ -1,0 +1,7 @@
+
+La	O
+TC	O
+encefálica	O
+fue	O
+normal	O
+.	O

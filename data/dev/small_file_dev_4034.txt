@@ -1,0 +1,14 @@
+
+Ante	O
+la	O
+presencia	O
+del	O
+psiquiatra	B-PROFESION
+,	O
+Cairon	O
+repite	O
+constantemente	O
+"	O
+soy	O
+Vishnu	O
+.	O

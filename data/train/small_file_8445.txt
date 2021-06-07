@@ -1,0 +1,12 @@
+
+Consulta	O
+de	O
+Medicina	O
+Interna	O
+:	O
+Analítica	O
+:	O
+Hemograma	O
+:	O
+normal	O
+.	O

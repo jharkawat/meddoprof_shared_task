@@ -1,0 +1,10 @@
+
+La	O
+motilidad	O
+ocular	O
+extrínseca	O
+e	O
+intrínseca	O
+fue	O
+normal	O
+.	O

@@ -1,0 +1,20 @@
+
+Una	O
+amplia	O
+batería	O
+serológica	O
+que	O
+incluía	O
+fiebre	O
+Q	O
+por	O
+fijación	O
+de	O
+complemento	O
+(	O
+suero	O
+anticomplementémico	O
+)	O
+fue	O
+negativa	O
+.	O

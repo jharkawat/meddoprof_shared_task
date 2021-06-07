@@ -1,0 +1,24 @@
+
+Se	O
+ha	O
+observado	O
+una	O
+buena	O
+actitud	O
+durante	O
+estas	O
+semanas	O
+,	O
+sin	O
+alteraciones	O
+de	O
+conducta	O
+y	O
+con	O
+buena	O
+predisposición	O
+a	O
+las	O
+recomendaciones	O
+médicas	O
+.	O

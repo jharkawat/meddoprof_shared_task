@@ -1,0 +1,22 @@
+
+Tras	O
+ser	O
+evaluada	O
+en	O
+domicilio	O
+y	O
+sospechar	O
+intoxicación	O
+/	O
+sobredosis	O
+farmacológica	O
+por	O
+presencia	O
+de	O
+bradicardia	O
+,	O
+se	O
+remite	O
+a	O
+Urgencias	O
+.	O

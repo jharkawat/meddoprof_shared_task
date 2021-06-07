@@ -1,0 +1,22 @@
+
+Comienza	O
+tratamiento	O
+antiretroviral	O
+en	O
+2005	O
+con	O
+una	O
+pausa	O
+de	O
+unos	O
+meses	O
+"	O
+porque	O
+le	O
+hacía	O
+sentirse	O
+como	O
+un	O
+enfermo	O
+"	O
+.	O

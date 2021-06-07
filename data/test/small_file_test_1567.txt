@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+portaba	O
+una	O
+ortopantomografía	O
+y	O
+dada	O
+su	O
+situación	O
+con	O
+el	O
+tiroides	O
+se	O
+tomó	O
+la	O
+decisión	O
+de	O
+no	O
+hacer	O
+una	O
+serie	O
+periapical	O
+completa	O
+.	O

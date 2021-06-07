@@ -1,0 +1,21 @@
+
+La	O
+pareja	O
+tuvo	O
+tres	O
+hijos	O
+los	O
+que	O
+no	O
+viven	O
+con	O
+ellos	O
+y	O
+a	O
+los	O
+que	O
+aparentemente	O
+les	O
+va	O
+bien	O
+.	O

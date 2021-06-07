@@ -1,0 +1,26 @@
+
+Aparte	O
+de	O
+la	O
+sífilis	O
+ya	O
+diagnosticada	O
+,	O
+la	O
+probabilidad	O
+de	O
+otra	O
+infección	O
+de	O
+trasmisión	O
+sexual	O
+(	O
+ITS	O
+)	O
+es	O
+bastante	O
+elevada	O
+en	O
+nuestro	O
+paciente	O
+.	O

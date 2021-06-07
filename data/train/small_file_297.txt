@@ -1,0 +1,20 @@
+
+El	O
+médico	B-PROFESION
+diagnosticó	O
+urticaria	O
+,	O
+pero	O
+también	O
+señaló	O
+la	O
+posibilidad	O
+de	O
+una	O
+reacción	O
+alérgica	O
+o	O
+una	O
+enfermedad	O
+vírica	O
+.	O

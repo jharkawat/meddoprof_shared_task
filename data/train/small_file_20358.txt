@@ -1,0 +1,6 @@
+
+Sus	O
+inquietudes	O
+suicidas	O
+aumentaron	O
+.	O

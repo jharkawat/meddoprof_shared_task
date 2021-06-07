@@ -1,0 +1,27 @@
+
+En	O
+su	O
+crecimiento	O
+en	O
+sentido	O
+craneal	O
+la	O
+masa	O
+llega	O
+a	O
+contactar	O
+con	O
+la	O
+pared	O
+lateral	O
+derecha	O
+de	O
+la	O
+aorta	O
+ascendente	O
+,	O
+sin	O
+existir	O
+clara	O
+infiltración	O
+.	O

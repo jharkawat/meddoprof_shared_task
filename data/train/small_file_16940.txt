@@ -1,0 +1,6 @@
+
+Cultivo	O
+y	O
+gram	O
+negativo	O
+.	O

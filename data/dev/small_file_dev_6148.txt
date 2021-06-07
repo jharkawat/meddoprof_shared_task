@@ -1,0 +1,27 @@
+
+Entre	O
+otros	O
+factores	O
+de	O
+riesgo	O
+para	O
+presentar	O
+costocondritis	O
+por	O
+Cándida	O
+spp	O
+están	O
+la	O
+radiación	O
+de	O
+la	O
+pared	O
+torácica	O
+,	O
+cirugía	O
+abdominal	O
+o	O
+cateterización	O
+venosa	O
+reciente	O
+.	O

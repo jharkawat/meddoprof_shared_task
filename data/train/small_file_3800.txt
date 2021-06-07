@@ -1,0 +1,8 @@
+
+No	O
+presenta	O
+adenopatías	O
+en	O
+otra	O
+región	O
+.	O

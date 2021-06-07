@@ -1,0 +1,21 @@
+
+A	O
+la	O
+exploración	O
+descartamos	O
+existencia	O
+de	O
+adenopatías	O
+,	O
+datos	O
+inflamatorios	O
+faringoamigdalares	O
+,	O
+masas	O
+cervicales	O
+con	O
+rino	O
+y	O
+otoscopia	O
+normales	O
+.	O

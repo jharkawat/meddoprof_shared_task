@@ -1,0 +1,15 @@
+
+No	O
+sabe	O
+expresar	O
+sentimientos	O
+ni	O
+necesidades	O
+,	O
+si	O
+le	O
+ocurre	O
+algo	O
+grita	O
+angustiado	O
+.	O

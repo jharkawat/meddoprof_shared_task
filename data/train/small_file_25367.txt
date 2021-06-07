@@ -1,0 +1,15 @@
+
+Realizó	B-SITUACION_LABORAL
+los	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+primarios	I-SITUACION_LABORAL
+,	O
+aunque	O
+no	O
+obtuvo	O
+el	O
+titulo	O
+de	O
+Graduado	O
+Escolar	O
+.	O

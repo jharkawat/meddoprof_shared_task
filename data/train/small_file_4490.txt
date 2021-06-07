@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+comenta	O
+que	O
+se	O
+encuentra	O
+rara	O
+,	O
+como	O
+mareada	O
+y	O
+con	O
+sensación	O
+de	O
+embotamiento	O
+emocional	O
+,	O
+pero	O
+sin	O
+nerviosismo	O
+.	O

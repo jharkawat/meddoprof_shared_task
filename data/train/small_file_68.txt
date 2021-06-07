@@ -1,0 +1,27 @@
+
+Sin	O
+embargo	O
+,	O
+los	O
+reflejos	O
+del	O
+tronco	O
+encefálico	O
+se	O
+mantenían	O
+,	O
+con	O
+reflejo	O
+fotomotor	O
+y	O
+tusígeno	O
+,	O
+capacidad	O
+de	O
+respiración	O
+espontánea	O
+y	O
+respuesta	O
+al	O
+dolor	O
+.	O

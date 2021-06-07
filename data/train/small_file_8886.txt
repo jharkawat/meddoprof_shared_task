@@ -1,0 +1,10 @@
+
+Intervenciones	O
+quirúrgicas	O
+:	O
+Desprendimiento	O
+de	O
+retina	O
+Ojo	O
+derecho	O
+.	O

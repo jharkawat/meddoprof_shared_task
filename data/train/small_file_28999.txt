@@ -1,0 +1,5 @@
+
+RMN	O
+sin	O
+hallazgos	O
+.	O

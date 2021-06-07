@@ -1,0 +1,9 @@
+
+No	O
+padecía	O
+fiebre	O
+,	O
+ni	O
+síndrome	O
+constitucional	O
+.	O

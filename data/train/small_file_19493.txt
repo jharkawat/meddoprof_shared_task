@@ -1,0 +1,6 @@
+
+Edo	O
+civil	O
+:	O
+Soltero	O
+.	O

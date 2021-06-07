@@ -1,0 +1,10 @@
+
+Tóxicos	O
+en	O
+orina	O
+positivos	O
+para	O
+anfetaminas	O
+y	O
+hachish	O
+.	O

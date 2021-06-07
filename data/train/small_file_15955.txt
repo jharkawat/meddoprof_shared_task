@@ -1,0 +1,18 @@
+
+Estática	O
+con	O
+anteflexión	O
+cervical	O
+,	O
+inclinación	O
+del	O
+tronco	O
+a	O
+la	O
+derecha	O
+y	O
+descenso	O
+del	O
+hombro	O
+izquierdo	O
+.	O

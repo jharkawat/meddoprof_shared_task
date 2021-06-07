@@ -1,0 +1,19 @@
+
+No	O
+presenta	O
+somnolencia	O
+diurna	O
+y	O
+su	O
+mala	O
+higiene	O
+de	O
+sueño	O
+no	O
+tiene	O
+repercusión	O
+clínica	O
+en	O
+la	O
+actualidad	O
+.	O

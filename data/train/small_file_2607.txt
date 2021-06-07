@@ -1,0 +1,19 @@
+
+Precisó	O
+asistencia	O
+en	O
+urgencias	O
+donde	O
+recibió	O
+tratamiento	O
+con	O
+corticoides	O
+y	O
+antihistamínicos	O
+orales	O
+con	O
+mejoría	O
+en	O
+5	O
+días	O
+.	O

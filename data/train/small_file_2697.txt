@@ -1,0 +1,14 @@
+
+RMN	O
+columna	O
+(	O
+no	O
+se	O
+pudo	O
+realizar	O
+cráneo	O
+)	O
+:	O
+mielopatía	O
+cervical	O
+.	O

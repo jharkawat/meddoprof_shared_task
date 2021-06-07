@@ -1,0 +1,8 @@
+
+Hipoventilación	O
+pulmonar	O
+con	O
+algunos	O
+sibilantes	O
+aislados	O
+.	O

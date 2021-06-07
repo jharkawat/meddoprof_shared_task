@@ -1,0 +1,21 @@
+
+Cuenta	O
+que	O
+el	O
+demonio	O
+le	O
+dice	O
+que	O
+mate	O
+a	O
+la	O
+gente	O
+,	O
+o	O
+que	O
+les	O
+haga	O
+daño	O
+.	O
+.	O
+.	O

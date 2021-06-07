@@ -1,0 +1,23 @@
+
+Se	O
+realizó	O
+tratamiento	O
+con	O
+terbinafina	O
+oral	O
+250	O
+mg	O
+al	O
+día	O
+durante	O
+un	O
+período	O
+de	O
+6	O
+semanas	O
+,	O
+acompañándose	O
+de	O
+terbinafina	O
+tópica	O
+.	O

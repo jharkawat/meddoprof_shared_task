@@ -1,0 +1,7 @@
+
+Se	O
+decide	O
+suspender	O
+la	O
+amikacina	O
+.	O

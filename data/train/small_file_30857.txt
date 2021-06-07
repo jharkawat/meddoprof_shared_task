@@ -1,0 +1,15 @@
+
+Conocido	O
+en	O
+el	O
+CSM	O
+desde	O
+2011	O
+,	O
+tras	O
+tratamientos	O
+previos	O
+con	O
+psiquiatras	B-PROFESION
+privados	O
+.	O

@@ -1,0 +1,9 @@
+
+Digit	O
+spam	O
+inverso	O
+:	O
+4	O
+/	O
+7	O
+.	O

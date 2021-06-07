@@ -1,0 +1,20 @@
+
+F	O
+:	O
+No	O
+,	O
+él	O
+cree	O
+que	O
+ya	O
+estoy	O
+preparado	O
+y	O
+que	O
+debería	O
+probar	O
+a	O
+ver	O
+qué	O
+pasa	O
+.	O

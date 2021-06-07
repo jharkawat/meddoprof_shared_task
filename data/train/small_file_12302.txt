@@ -1,0 +1,25 @@
+
+Se	O
+anticoagula	O
+con	O
+enoxaparina	O
+y	O
+se	O
+doble	O
+antiagrega	O
+con	O
+ácido	O
+acetilsalicilico	O
+100	O
+mg	O
+y	O
+clopidogrel	O
+75	O
+mg	O
+ante	O
+la	O
+sospecha	O
+clínica	O
+de	O
+IAM	O
+.	O

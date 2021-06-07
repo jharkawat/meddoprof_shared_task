@@ -1,0 +1,14 @@
+
+Vive	O
+con	O
+el	O
+hermano	O
+y	O
+los	O
+padres	O
+,	O
+propietarios	O
+de	O
+la	O
+vivienda	O
+.	O

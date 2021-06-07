@@ -1,0 +1,18 @@
+
+Este	O
+ingreso	O
+duró	O
+4	O
+días	O
+y	O
+al	O
+alta	O
+pasó	O
+a	O
+vivir	O
+a	O
+casa	O
+de	O
+una	O
+hermana	O
+.	O

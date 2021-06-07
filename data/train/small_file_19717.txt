@@ -1,0 +1,6 @@
+
+Refiere	O
+gastritis	O
+e	O
+hipoglucemia	O
+.	O

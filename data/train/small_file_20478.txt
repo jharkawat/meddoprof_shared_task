@@ -1,0 +1,17 @@
+
+CF	O
+no	O
+fue	O
+a	O
+la	O
+guardería	O
+,	O
+permaneció	O
+en	O
+casa	O
+al	O
+cuidado	O
+de	O
+su	O
+madre	O
+.	O

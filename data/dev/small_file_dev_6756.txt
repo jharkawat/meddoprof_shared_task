@@ -1,0 +1,16 @@
+
+Varón	O
+de	O
+76	O
+años	O
+que	O
+ingresa	O
+por	O
+síndrome	O
+febril	O
+precedido	O
+de	O
+escalofríos	O
+y	O
+tiritonas	O
+.	O

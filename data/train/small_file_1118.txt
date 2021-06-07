@@ -1,0 +1,15 @@
+
+Entre	O
+los	O
+antecedentes	O
+personales	O
+encontramos	O
+:	O
+alérgica	O
+al	O
+Paracetamol	O
+,	O
+hipotiroidismo	O
+,	O
+microapneas	O
+.	O

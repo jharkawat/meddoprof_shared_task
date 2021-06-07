@@ -1,0 +1,14 @@
+
+TAC	O
+de	O
+base	O
+de	O
+cráneo	O
+,	O
+tórax	O
+,	O
+abdomen	O
+y	O
+pelvis	O
+normal	O
+.	O

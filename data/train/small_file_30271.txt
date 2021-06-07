@@ -1,0 +1,17 @@
+
+Se	O
+han	O
+realizado	O
+todos	O
+los	O
+controles	O
+hematológicos	O
+correspondientes	O
+,	O
+sin	O
+presentar	O
+en	O
+ningún	O
+momento	O
+alteraciones	O
+.	O

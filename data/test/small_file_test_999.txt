@@ -1,0 +1,9 @@
+
+Edad	O
+16	O
+:	O
+Nace	O
+su	O
+hermana	O
+pequeña	O
+.	O

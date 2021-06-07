@@ -1,0 +1,9 @@
+
+Estos	O
+síntomas	O
+habían	O
+empezado	O
+antes	O
+del	O
+ingreso	O
+.	O

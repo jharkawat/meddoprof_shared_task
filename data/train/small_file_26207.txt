@@ -1,0 +1,9 @@
+
+Discurso	O
+desorganizado	O
+centrado	O
+en	O
+la	O
+temática	O
+delirante	O
+.	O

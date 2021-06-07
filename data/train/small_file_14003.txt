@@ -1,0 +1,12 @@
+
+Ausencia	O
+de	O
+pródromos	O
+,	O
+dolor	O
+torácico	O
+,	O
+palpitaciones	O
+o	O
+disnea	O
+.	O

@@ -1,0 +1,17 @@
+
+Venía	O
+acompañado	O
+de	O
+familiares	O
+,	O
+quienes	O
+insistían	O
+en	O
+el	O
+empeoramiento	O
+progresivo	O
+desde	O
+hacía	O
+2	O
+semanas	O
+.	O

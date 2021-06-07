@@ -1,0 +1,18 @@
+
+Bajo	O
+la	O
+sospecha	O
+de	O
+coagulopatía	O
+se	O
+realizó	O
+48	O
+horas	O
+de	O
+empaquetamiento	O
+y	O
+posteriormente	O
+malla	O
+de	O
+Velcro	O
+.	O

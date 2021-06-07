@@ -1,0 +1,25 @@
+
+Es	O
+llevada	O
+al	O
+hospital	O
+psiquiátrico	O
+por	O
+unidad	O
+SAMUR	O
+tras	O
+encontrarla	O
+intentando	O
+cruzar	O
+la	O
+autopista	O
+de	O
+varios	O
+carriles	O
+con	O
+grave	O
+riesgo	O
+para	O
+su	O
+vida	O
+.	O

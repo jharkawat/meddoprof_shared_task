@@ -1,0 +1,15 @@
+
+Se	O
+realiza	O
+TAC	O
+cráneo	O
+,	O
+tórax	O
+,	O
+abdomen	O
+y	O
+ecografía	O
+testicular	O
+sin	O
+hallazgos	O
+.	O

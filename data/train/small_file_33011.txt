@@ -1,0 +1,19 @@
+
+Antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+:	O
+enfermedad	O
+de	O
+Parkinson	O
+en	O
+estadio	O
+II	O
+de	O
+la	O
+clasificación	O
+Hoehn	O
+y	O
+Yahr	O
+.	O

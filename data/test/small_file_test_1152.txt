@@ -1,0 +1,18 @@
+
+Hígado	O
+con	O
+leve	O
+aumento	O
+de	O
+la	O
+ecogenicidad	O
+y	O
+líquido	O
+libre	O
+de	O
+pequeña	O
+cuantía	O
+en	O
+el	O
+hipogastrio	O
+.	O

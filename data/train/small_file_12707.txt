@@ -1,0 +1,10 @@
+
+Vesícula	O
+distendida	O
+,	O
+alitiásica	O
+,	O
+de	O
+pared	O
+fina	O
+.	O

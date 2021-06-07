@@ -1,0 +1,10 @@
+
+No	O
+dismetría	O
+en	O
+la	O
+prueba	O
+dedo	O
+-	O
+nariz	O
+.	O

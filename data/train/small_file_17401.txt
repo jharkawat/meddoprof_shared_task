@@ -1,0 +1,21 @@
+
+Acude	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+,	O
+quien	O
+le	O
+diagnostica	O
+de	O
+crisis	O
+de	O
+ansiedad	O
+y	O
+le	O
+receta	O
+diazepam	O
+.	O

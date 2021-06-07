@@ -1,0 +1,18 @@
+
+Podía	O
+oir	O
+a	O
+su	O
+cuñada	O
+decir	O
+que	O
+no	O
+servía	O
+para	O
+nada	O
+y	O
+que	O
+también	O
+debía	O
+morir	O
+.	O

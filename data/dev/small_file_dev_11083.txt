@@ -1,0 +1,5 @@
+
+Fiebre	O
+y	O
+sudoración	O
+.	O

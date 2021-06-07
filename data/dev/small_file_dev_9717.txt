@@ -1,0 +1,14 @@
+
+No	O
+refiere	O
+otros	O
+antecedentes	O
+de	O
+interés	O
+y	O
+niega	O
+antecedentes	O
+familiares	O
+de	O
+cardiopatía	O
+.	O

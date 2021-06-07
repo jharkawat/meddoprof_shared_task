@@ -1,0 +1,25 @@
+
+Actualmente	O
+sigue	O
+tratamiento	O
+cognitivo	O
+conductal	O
+,	O
+conjuntamente	O
+con	O
+topiramato	O
+,	O
+duloxetina	O
+y	O
+control	O
+de	O
+orina	O
+aleatorio	O
+al	O
+que	O
+se	O
+somete	O
+de	O
+forma	O
+voluntaria	O
+.	O

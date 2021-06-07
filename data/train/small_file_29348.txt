@@ -1,0 +1,13 @@
+
+Durante	O
+el	O
+ingreso	O
+se	O
+retiró	O
+paliperidona	O
+,	O
+tanto	O
+oral	O
+como	O
+inyectable	O
+.	O

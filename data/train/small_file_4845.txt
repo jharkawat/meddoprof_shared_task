@@ -1,0 +1,17 @@
+
+Abuelos	O
+paternos	O
+se	O
+han	O
+mudado	O
+cerca	O
+de	O
+su	O
+domicilio	O
+y	O
+también	O
+mantiene	O
+una	O
+buena	O
+relación	O
+.	O

@@ -1,0 +1,19 @@
+
+Aneurisma	O
+de	O
+aorta	O
+ascendente	O
+e	O
+insuficiencia	O
+aórtica	O
+grave	O
+secundaria	O
+intervenida	O
+.	O
+plastia	O
+de	O
+David	O
+y	O
+tubo	O
+aórtico	O
+.	O

@@ -1,0 +1,7 @@
+
+Engrosamiento	O
+difuso	O
+de	O
+calota	O
+craneal	O
+.	O

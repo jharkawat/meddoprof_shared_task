@@ -1,0 +1,20 @@
+
+Tanto	O
+la	O
+clínica	O
+del	O
+paciente	O
+como	O
+el	O
+resultado	O
+de	O
+las	O
+pruebas	O
+complementarias	O
+sugirieron	O
+una	O
+discinesia	O
+producida	O
+por	O
+antipsicóticos	O
+.	O

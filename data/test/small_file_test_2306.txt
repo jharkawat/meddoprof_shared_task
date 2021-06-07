@@ -1,0 +1,15 @@
+
+»	O
+Carcinoma	O
+de	O
+pulmón	O
+de	O
+células	O
+grandes	O
+estadio	O
+IV	O
+(	O
+T2B	O
+N3	O
+M1B	O
+)	O

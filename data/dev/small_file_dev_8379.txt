@@ -1,0 +1,5 @@
+
+Tuberculosis	O
+diseminada	O
+multirresistente	O
+.	O

@@ -1,0 +1,11 @@
+
+La	O
+paciente	O
+,	O
+desde	O
+hace	O
+2	O
+años	O
+,	O
+refiere	O
+:	O

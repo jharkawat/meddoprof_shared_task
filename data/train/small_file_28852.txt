@@ -1,0 +1,10 @@
+
+El	O
+discurso	O
+tendía	O
+a	O
+ser	O
+pobre	O
+y	O
+perseverante	O
+.	O

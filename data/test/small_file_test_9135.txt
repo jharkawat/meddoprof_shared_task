@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+acude	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+el	O
+día	O
+12	O
+de	O
+febrero	O
+de	O
+2018	O
+por	O
+deterioro	O
+del	O
+estado	O
+general	O
+y	O
+clínica	O
+respiratoria	O
+.	O

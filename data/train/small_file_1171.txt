@@ -1,0 +1,11 @@
+
+Recordaba	O
+que	O
+en	O
+su	O
+infancia	O
+había	O
+jugado	O
+con	O
+vinchucas	O
+.	O

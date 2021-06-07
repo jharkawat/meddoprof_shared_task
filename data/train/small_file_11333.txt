@@ -1,0 +1,13 @@
+
+De	O
+nacionalidad	O
+Rumana	O
+,	O
+trabajador	B-PROFESION
+del	I-PROFESION
+campo	I-PROFESION
+,	O
+conductor	B-PROFESION
+de	I-PROFESION
+tractor	I-PROFESION
+.	O

@@ -1,0 +1,5 @@
+
+Peritonitis	O
+purulenta	O
+generalizada	O
+.	O

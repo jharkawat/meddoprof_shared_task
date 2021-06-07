@@ -1,0 +1,21 @@
+
+El	O
+profesor	B-PROFESION
+de	O
+la	O
+clase	O
+anterior	O
+afirma	O
+que	O
+Raúl	O
+se	O
+había	O
+comportado	O
+perfectamente	O
+y	O
+había	O
+participado	O
+sin	O
+ningún	O
+problema	O
+.	O

@@ -1,0 +1,14 @@
+
+Esta	O
+sería	O
+una	O
+opción	O
+defendida	O
+,	O
+sin	O
+duda	O
+,	O
+por	O
+muchos	O
+autores	B-PROFESION
+.	O

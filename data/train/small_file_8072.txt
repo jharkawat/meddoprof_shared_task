@@ -1,0 +1,22 @@
+
+En	O
+los	O
+días	O
+previos	O
+habían	O
+recibido	O
+varios	O
+avisos	O
+por	O
+parte	O
+del	O
+paciente	O
+para	O
+denunciar	O
+un	O
+robo	O
+sufrido	O
+en	O
+su	O
+domicilio	O
+.	O

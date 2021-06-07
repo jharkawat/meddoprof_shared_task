@@ -1,0 +1,20 @@
+
+A	O
+la	O
+exploración	O
+física	O
+:	O
+febril	O
+,	O
+39oC	O
+,	O
+TA	O
+130	O
+/	O
+70	O
+mmHg	O
+,	O
+FC	O
+112	O
+lpm	O
+.	O

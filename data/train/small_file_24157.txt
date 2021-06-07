@@ -1,0 +1,5 @@
+
+Contacto	O
+parcialmente	O
+sintónico	O
+.	O

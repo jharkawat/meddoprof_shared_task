@@ -1,0 +1,14 @@
+
+El	O
+diagnóstico	O
+es	O
+sobre	O
+todo	O
+clínico	O
+combinado	O
+con	O
+histológico	O
+si	O
+se	O
+precisase	O
+.	O

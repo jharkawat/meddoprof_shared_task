@@ -1,0 +1,18 @@
+
+Trastorno	O
+por	O
+consumo	O
+de	O
+estimulantes	O
+(	O
+sulfato	O
+de	O
+anfetamina	O
+,	O
+grave	O
+(	O
+304	O
+.	O
+40	O
+)	O
+.	O

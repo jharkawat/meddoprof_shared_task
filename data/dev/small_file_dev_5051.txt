@@ -1,0 +1,26 @@
+
+Pólipo	O
+sesil	O
+15	O
+mm	O
+que	O
+se	O
+resecciona	O
+,	O
+resultado	O
+anatomía	O
+patológica	O
+:	O
+adenocarcinoma	O
+intramucoso	O
+focal	O
+sobre	O
+pólipo	O
+adenomatoso	O
+tubular	O
+con	O
+displasia	O
+epitelial	O
+alto	O
+grado	O
+.	O

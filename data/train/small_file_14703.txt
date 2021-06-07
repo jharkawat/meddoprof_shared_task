@@ -1,0 +1,16 @@
+
+Se	O
+realizó	O
+un	O
+Angio	O
+-	O
+TAC	O
+en	O
+el	O
+que	O
+no	O
+se	O
+evidenció	O
+tromboembolismo	O
+pulmonar	O
+.	O

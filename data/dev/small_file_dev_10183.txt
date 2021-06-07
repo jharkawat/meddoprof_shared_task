@@ -1,0 +1,26 @@
+
+Él	O
+describió	O
+a	O
+su	O
+esposa	O
+como	O
+una	O
+persona	O
+extrovertida	O
+,	O
+sociable	O
+y	O
+muy	O
+confiable	O
+,	O
+pero	O
+algo	O
+malhumorada	O
+y	O
+con	O
+un	O
+temperamento	O
+rápidamente	O
+cambiante	O
+.	O

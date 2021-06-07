@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+fue	O
+dado	O
+de	O
+alta	O
+21	O
+días	O
+después	O
+del	O
+ingreso	O
+,	O
+en	O
+buen	O
+estado	O
+de	O
+salud	O
+.	O

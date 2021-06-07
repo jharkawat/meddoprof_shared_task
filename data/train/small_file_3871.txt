@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+vivía	O
+con	O
+su	O
+esposa	O
+,	O
+su	O
+hijo	O
+y	O
+su	O
+madre	O
+,	O
+que	O
+estuvieron	O
+apoyándolo	O
+todo	O
+el	O
+tiempo	O
+.	O

@@ -1,0 +1,23 @@
+
+A	O
+la	O
+exploración	O
+la	O
+paciente	O
+se	O
+muestra	O
+consciente	O
+,	O
+orientada	O
+,	O
+colaboradora	O
+aunque	O
+con	O
+cierta	O
+irritabilidad	O
+que	O
+es	O
+capaz	O
+de	O
+contener	O
+.	O

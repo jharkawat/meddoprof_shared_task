@@ -1,0 +1,26 @@
+
+Estas	O
+observaciones	O
+nos	O
+permiten	O
+hacer	O
+un	O
+diagnóstico	O
+clínico	O
+seguro	O
+de	O
+demencia	O
+en	O
+la	O
+enfermedad	O
+de	O
+Alzheimer	O
+de	O
+inicio	O
+tardío	O
+(	O
+F00	O
+.	O
+1	O
+)	O
+.	O

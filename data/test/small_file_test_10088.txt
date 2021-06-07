@@ -1,0 +1,26 @@
+
+Sin	O
+embargo	O
+,	O
+posteriormente	O
+,	O
+presentó	O
+deterioro	O
+clínico	O
+progresivo	O
+con	O
+reaparición	O
+de	O
+la	O
+febrícula	O
+y	O
+la	O
+tos	O
+y	O
+cuadro	O
+de	O
+hemoptisis	O
+no	O
+presente	O
+previamente	O
+.	O

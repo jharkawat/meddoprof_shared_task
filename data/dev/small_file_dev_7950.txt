@@ -1,0 +1,19 @@
+
+Los	O
+hemocultivos	O
+,	O
+extraidos	O
+de	O
+nuevo	O
+sin	O
+fiebre	O
+,	O
+fueron	O
+nuevamente	O
+informados	O
+como	O
+positivos	O
+para	O
+Clostridium	O
+ramosum	O
+.	O

@@ -1,0 +1,10 @@
+
+Vive	O
+en	O
+un	O
+coche	O
+tras	O
+disputa	O
+con	O
+familiares	O
+.	O

@@ -1,0 +1,15 @@
+
+Su	O
+madre	O
+trabaja	O
+en	O
+una	O
+empresa	O
+como	O
+limpiadora	B-PROFESION
+y	O
+su	O
+padre	O
+es	O
+jornalero	B-PROFESION
+.	O

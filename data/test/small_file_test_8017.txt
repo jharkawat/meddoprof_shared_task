@@ -1,0 +1,17 @@
+
+Se	O
+decide	O
+extirpar	O
+ambas	O
+lesiones	O
+,	O
+siendo	O
+intervenida	O
+el	O
+día	O
+13	O
+de	O
+diciembre	O
+de	O
+2013	O
+.	O

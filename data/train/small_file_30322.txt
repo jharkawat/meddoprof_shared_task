@@ -1,0 +1,20 @@
+
+Habla	O
+de	O
+las	O
+actividades	O
+que	O
+realiza	O
+en	O
+el	O
+CRPS	O
+,	O
+donde	O
+acude	O
+a	O
+diario	O
+y	O
+se	O
+siente	O
+bien	O
+.	O

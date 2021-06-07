@@ -1,0 +1,12 @@
+
+Relación	O
+cráneo	O
+-	O
+corpórea	O
+adecuada	O
+,	O
+forma	O
+y	O
+volumen	O
+adecuados	O
+.	O

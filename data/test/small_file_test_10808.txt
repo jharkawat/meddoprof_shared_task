@@ -1,0 +1,14 @@
+
+Fue	O
+manejado	O
+por	O
+su	O
+Pediatra	B-PROFESION
+de	O
+zona	O
+con	O
+Amoxicilina	O
+sin	O
+respuesta	O
+clínica	O
+.	O

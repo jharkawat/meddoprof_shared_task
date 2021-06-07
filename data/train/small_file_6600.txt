@@ -1,0 +1,25 @@
+
+Con	O
+el	O
+cese	O
+de	O
+la	O
+causa	O
+desencadenante	O
+del	O
+rascado	O
+,	O
+en	O
+este	O
+caso	O
+la	O
+infección	O
+fúngica	O
+,	O
+las	O
+lesiones	O
+perforantes	O
+comienzan	O
+a	O
+remitir	O
+progresivamente	O

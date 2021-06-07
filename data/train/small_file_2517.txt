@@ -1,0 +1,20 @@
+
+Niña	O
+de	O
+10	O
+años	O
+diagnosticada	O
+en	O
+otro	O
+centro	O
+de	O
+alergia	O
+a	O
+frutos	O
+secos	O
+tras	O
+anafilaxia	O
+leve	O
+por	O
+cacahuete	O
+.	O

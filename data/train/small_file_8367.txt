@@ -1,0 +1,23 @@
+
+La	O
+eosinofilia	O
+es	O
+una	O
+alteración	O
+analítica	O
+que	O
+aparece	O
+con	O
+relativa	O
+frecuencia	O
+,	O
+y	O
+que	O
+puede	O
+tener	O
+una	O
+gran	O
+variedad	O
+de	O
+etiologías	O
+.	O

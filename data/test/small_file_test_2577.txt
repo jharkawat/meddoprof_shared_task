@@ -1,0 +1,15 @@
+
+Su	O
+peso	O
+es	O
+de	O
+68	O
+kg	O
+,	O
+con	O
+una	O
+altura	O
+de	O
+166	O
+centímetros	O
+.	O

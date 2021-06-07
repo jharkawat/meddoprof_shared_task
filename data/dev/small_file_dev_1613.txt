@@ -1,0 +1,22 @@
+
+Tras	O
+el	O
+alta	O
+de	O
+UME	O
+,	O
+el	O
+paciente	O
+se	O
+encuentra	O
+viviendo	O
+en	O
+una	O
+Residencia	O
+y	O
+en	B-SITUACION_LABORAL
+situación	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+incapacitación	I-SITUACION_LABORAL
+civil	I-SITUACION_LABORAL
+.	O

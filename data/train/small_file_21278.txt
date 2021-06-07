@@ -1,0 +1,22 @@
+
+Es	O
+el	O
+segundo	O
+de	O
+4	O
+hermanos	O
+,	O
+cuyas	O
+edades	O
+son	O
+17	O
+,	O
+15	O
+,	O
+12	O
+y	O
+7	O
+años	O
+,	O
+respectivamente	O
+.	O

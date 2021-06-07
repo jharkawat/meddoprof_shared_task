@@ -1,0 +1,26 @@
+
+El	O
+paciente	O
+era	O
+hijo	O
+único	O
+y	O
+le	O
+había	O
+ido	O
+bien	O
+en	O
+la	O
+escuela	O
+y	O
+nunca	O
+había	O
+dado	O
+a	O
+su	O
+madre	O
+ningún	O
+tipo	O
+de	O
+problema	O
+.	O

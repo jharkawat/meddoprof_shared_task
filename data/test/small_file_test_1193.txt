@@ -1,0 +1,26 @@
+
+Con	O
+el	O
+diagnóstico	O
+de	O
+probable	O
+afectación	O
+pulmonar	O
+por	O
+COVID	O
+-	O
+19	O
+,	O
+se	O
+le	O
+recomendó	O
+tratamiento	O
+sintomático	O
+con	O
+paracetamol	O
+1	O
+g	O
+cada	O
+ocho	O
+horas	O
+.	O

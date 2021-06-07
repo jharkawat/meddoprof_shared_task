@@ -1,0 +1,21 @@
+
+Es	O
+un	O
+niño	O
+querido	O
+.	O
+El	O
+paciente	O
+había	O
+ido	O
+adquiriendo	O
+los	O
+distintos	O
+hitos	O
+del	O
+desarrollo	O
+psicomotor	O
+en	O
+plazos	O
+habituales	O
+.	O

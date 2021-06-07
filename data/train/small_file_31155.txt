@@ -1,0 +1,17 @@
+
+En	O
+el	O
+momento	O
+de	O
+la	O
+hospitalización	O
+se	O
+encontraba	O
+consciente	O
+,	O
+poco	O
+abordable	O
+,	O
+facies	O
+hipomímica	O
+.	O

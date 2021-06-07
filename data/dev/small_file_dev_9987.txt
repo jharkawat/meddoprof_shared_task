@@ -1,0 +1,10 @@
+
+Nunca	O
+había	O
+estado	O
+internada	O
+antes	O
+de	O
+este	O
+incidente	O
+.	O

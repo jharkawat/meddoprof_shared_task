@@ -1,0 +1,24 @@
+
+Añade	O
+episodio	O
+de	O
+temblor	O
+generalizado	O
+con	O
+relajación	O
+de	O
+esfínteres	O
+,	O
+mordedura	O
+de	O
+lengua	O
+y	O
+estupor	O
+postcrítico	O
+,	O
+con	O
+amnesia	O
+de	O
+lo	O
+sucedido	O
+.	O

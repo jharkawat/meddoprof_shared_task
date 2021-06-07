@@ -1,0 +1,10 @@
+
+Conducta	O
+:	O
+presenta	O
+conductas	O
+de	O
+aislamiento	O
+y	O
+retraída	O
+.	O

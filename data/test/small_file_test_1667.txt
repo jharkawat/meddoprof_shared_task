@@ -1,0 +1,21 @@
+
+En	O
+un	O
+control	O
+al	O
+mes	O
+de	O
+la	O
+exéresis	O
+,	O
+la	O
+herida	O
+mostraba	O
+aspecto	O
+erosivo	O
+pero	O
+no	O
+se	O
+palpaba	O
+tumoración	O
+.	O

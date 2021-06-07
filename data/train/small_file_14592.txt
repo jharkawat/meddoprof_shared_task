@@ -1,0 +1,21 @@
+
+Con	O
+respecto	O
+al	O
+estudio	O
+de	O
+autoinmunidad	O
+,	O
+los	O
+anticuerpos	O
+antinucleares	O
+así	O
+como	O
+antiRo	O
+52	O
+y	O
+antiRo	O
+60	O
+resultan	O
+positivos	O
+.	O

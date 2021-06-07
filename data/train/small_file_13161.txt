@@ -1,0 +1,13 @@
+
+AP	O
+:	O
+Bronqueolitis	O
+crónica	O
+de	O
+tipo	O
+folicular	O
+,	O
+con	O
+escasos	O
+macrófagos	O
+.	O

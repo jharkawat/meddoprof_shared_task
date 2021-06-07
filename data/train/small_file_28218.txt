@@ -1,0 +1,13 @@
+
+en	O
+agosto	O
+de	O
+2004	O
+reaparecieron	O
+crisis	O
+comiciales	O
+,	O
+tratadas	O
+con	O
+Lamotrigina	O
+.	O

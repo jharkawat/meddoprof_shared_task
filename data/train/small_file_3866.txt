@@ -1,0 +1,15 @@
+
+Refiere	O
+dolor	O
+intenso	O
+en	O
+miembro	O
+inferior	O
+que	O
+cede	O
+solo	O
+parcialmente	O
+con	O
+la	O
+medicación	O
+.	O

@@ -1,0 +1,25 @@
+
+Se	O
+han	O
+pautado	O
+tres	O
+ciclos	O
+en	O
+total	O
+,	O
+con	O
+aparición	O
+de	O
+neumonía	O
+en	O
+situación	O
+de	O
+neutropenia	O
+entre	O
+el	O
+segundo	O
+y	O
+el	O
+tercer	O
+ciclo	O
+.	O

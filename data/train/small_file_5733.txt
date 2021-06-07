@@ -1,0 +1,6 @@
+
+No	O
+sudoración	O
+ni	O
+fiebre	O
+.	O

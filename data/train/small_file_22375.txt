@@ -1,0 +1,10 @@
+
+Sin	O
+hallazgos	O
+significativos	O
+en	O
+la	O
+exploración	O
+física	O
+general	O
+.	O

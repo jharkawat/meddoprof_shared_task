@@ -1,0 +1,4 @@
+
+Bilirrubina	O
+normal	O
+.	O

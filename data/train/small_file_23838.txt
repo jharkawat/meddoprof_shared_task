@@ -1,0 +1,20 @@
+
+Estabilización	O
+y	O
+traslado	O
+a	O
+planta	O
+de	O
+Medicina	O
+Interna	O
+,	O
+una	O
+semana	O
+de	O
+ingreso	O
+,	O
+superación	O
+somática	O
+del	O
+episodio	O
+.	O

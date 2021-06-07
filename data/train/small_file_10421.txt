@@ -1,0 +1,15 @@
+
+Se	O
+decide	O
+traslado	O
+a	O
+centro	O
+de	O
+referencia	O
+para	O
+la	O
+realización	O
+de	O
+biopsia	O
+renal	O
+.	O

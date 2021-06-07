@@ -1,0 +1,10 @@
+
+El	O
+motivo	O
+de	O
+estos	O
+ingresos	O
+era	O
+siempre	O
+similar	O
+.	O

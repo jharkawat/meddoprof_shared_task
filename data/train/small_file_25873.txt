@@ -1,0 +1,18 @@
+
+Su	O
+tratamiento	O
+actual	O
+es	O
+Aripiprazol	O
+depot	O
+y	O
+Risperidona	O
+oral	O
+,	O
+manteniéndose	O
+el	O
+sistema	O
+delirante	O
+mayoritariamente	O
+encapsulado	O
+.	O

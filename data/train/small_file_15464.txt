@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+presentó	O
+una	O
+reacción	O
+anafiláctica	O
+y	O
+se	O
+suspendieron	O
+los	O
+medicamentos	O
+.	O

@@ -1,0 +1,17 @@
+
+Tampoco	O
+había	O
+información	O
+sobre	O
+alguna	O
+enfermedad	O
+mental	O
+o	O
+trastornos	O
+de	O
+conducta	O
+en	O
+su	O
+familia	O
+directa	O
+.	O

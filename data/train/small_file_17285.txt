@@ -1,0 +1,9 @@
+
+No	O
+asociaban	O
+clínica	O
+autonómica	O
+ni	O
+otra	O
+sintomatología	O
+.	O

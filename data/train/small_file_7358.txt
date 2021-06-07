@@ -1,0 +1,12 @@
+
+Mujer	O
+de	O
+21	O
+años	O
+de	O
+edad	O
+con	O
+antecedentes	O
+de	O
+apendicectomía	O
+.	O

@@ -1,0 +1,7 @@
+
+•	O
+Niega	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

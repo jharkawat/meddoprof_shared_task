@@ -1,0 +1,22 @@
+
+Antecedente	O
+de	O
+hematuria	O
+en	O
+la	O
+infancia	O
+para	O
+la	O
+que	O
+recibió	O
+un	O
+tratamiento	O
+que	O
+no	O
+recuerda	O
+,	O
+quedando	O
+desde	O
+entonces	O
+asintomático	O
+.	O

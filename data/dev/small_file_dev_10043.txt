@@ -1,0 +1,8 @@
+
+Sentía	O
+que	O
+su	O
+teléfono	O
+estaba	O
+intervenido	O
+.	O

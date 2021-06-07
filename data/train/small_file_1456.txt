@@ -1,0 +1,22 @@
+
+Fumadora	O
+de	O
+20	O
+cigarrillos	O
+/	O
+día	O
+,	O
+con	O
+un	O
+nivel	O
+de	O
+dependencia	O
+(	O
+según	O
+el	O
+test	O
+de	O
+Fagerstrom	O
+)	O
+elevado	O
+.	O

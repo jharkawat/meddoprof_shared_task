@@ -1,0 +1,18 @@
+
+El	O
+electrocardiograma	O
+mostraba	O
+un	O
+ritmo	O
+sinusal	O
+a	O
+98	O
+latidos	O
+por	O
+minuto	O
+sin	O
+alteraciones	O
+de	O
+la	O
+repolarización	O
+.	O

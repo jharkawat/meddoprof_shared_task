@@ -1,0 +1,7 @@
+
+Fue	O
+alta	O
+caminando	O
+con	O
+andador	O
+.	O

@@ -1,0 +1,6 @@
+
+Colonización	O
+por	O
+Aspergillus	O
+fumigatus	O
+.	O

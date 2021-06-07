@@ -1,0 +1,21 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+clopidogrel	O
+(	O
+paciente	O
+previamente	O
+antiagregado	O
+con	O
+ácido	O
+acetilsalicílico	O
+)	O
+y	O
+con	O
+estatinas	O
+a	O
+dosis	O
+altas	O
+.	O

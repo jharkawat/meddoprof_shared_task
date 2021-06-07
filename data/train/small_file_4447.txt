@@ -1,0 +1,21 @@
+
+Han	O
+empezado	O
+a	O
+dar	O
+algo	O
+de	O
+autonomía	O
+al	O
+paciente	O
+y	O
+a	O
+hacer	O
+cosas	O
+juntos	O
+y	O
+reestablecer	O
+las	O
+relaciones	O
+sociales	O
+.	O

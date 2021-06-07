@@ -1,0 +1,7 @@
+
+Padre	O
+y	O
+hermano	O
+con	O
+etilismo	O
+.	O

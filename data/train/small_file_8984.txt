@@ -1,0 +1,18 @@
+
+Se	O
+programó	O
+para	O
+intervención	O
+quirúrgica	O
+realizándose	O
+histerectomía	O
+más	O
+salpinguectomía	O
+bilateral	O
+con	O
+resultado	O
+anatomopatológico	O
+de	O
+endometritis	O
+xantogranulomatosa	O
+.	O

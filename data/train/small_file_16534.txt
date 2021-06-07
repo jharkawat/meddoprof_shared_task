@@ -1,0 +1,4 @@
+
+Nominación	O
+adecuada	O
+.	O

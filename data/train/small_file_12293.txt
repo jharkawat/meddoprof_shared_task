@@ -1,0 +1,11 @@
+
+No	O
+insuficiencia	O
+tricúspide	O
+ni	O
+datos	O
+indirectos	O
+de	O
+hipertensión	O
+pulmonar	O
+.	O

@@ -1,0 +1,18 @@
+
+Además	O
+se	O
+evidencia	O
+tumoración	O
+nodular	O
+en	O
+margen	O
+anocutáneo	O
+posterior	O
+descrita	O
+en	O
+exploración	O
+física	O
+y	O
+hemorroides	O
+internas	O
+.	O

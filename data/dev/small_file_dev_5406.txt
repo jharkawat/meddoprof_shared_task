@@ -1,0 +1,16 @@
+
+El	O
+escenario	O
+clínico	O
+corresponde	O
+a	O
+un	O
+modelo	O
+asistencial	O
+frecuente	O
+en	O
+nuestra	O
+práctica	O
+clínica	O
+diaria	O
+.	O

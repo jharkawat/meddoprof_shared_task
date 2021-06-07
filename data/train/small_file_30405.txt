@@ -1,0 +1,19 @@
+
+Describe	O
+la	O
+voz	O
+de	O
+dos	O
+personas	O
+que	O
+identifica	O
+como	O
+la	O
+de	O
+sus	O
+padres	O
+,	O
+ambos	O
+ya	O
+fallecidos	O
+.	O

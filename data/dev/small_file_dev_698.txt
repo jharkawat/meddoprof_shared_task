@@ -1,0 +1,13 @@
+
+Siempre	O
+he	O
+mantenido	O
+este	O
+principio	O
+como	O
+prioritario	O
+en	O
+mi	O
+ejercicio	O
+profesional	O
+.	O

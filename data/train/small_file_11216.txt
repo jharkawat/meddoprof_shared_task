@@ -1,0 +1,5 @@
+
+Abdomen	O
+:	O
+Blando	O
+.	O

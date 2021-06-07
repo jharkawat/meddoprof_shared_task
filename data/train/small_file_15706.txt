@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+punción	O
+lumbar	O
+,	O
+obteniendo	O
+LCR	O
+en	O
+cuyo	O
+análisis	O
+solo	O
+se	O
+objetivó	O
+presencia	O
+de	O
+8	O
+leucocitos	O
+de	O
+predominio	O
+linfocitario	O
+.	O

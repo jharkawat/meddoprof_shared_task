@@ -1,0 +1,14 @@
+
+Tiende	O
+a	O
+tensiones	O
+arteriales	O
+elevadas	O
+por	O
+lo	O
+que	O
+se	O
+instaura	O
+medicación	O
+antihipertensiva	O
+.	O

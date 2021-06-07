@@ -1,0 +1,15 @@
+
+Vive	O
+con	O
+sus	O
+padres	O
+en	O
+una	O
+zona	O
+humilde	O
+de	O
+la	O
+ciudad	O
+de	O
+Huelva	O
+.	O

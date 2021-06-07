@@ -1,0 +1,24 @@
+
+Seguidamente	O
+,	O
+presentó	O
+manifestaciones	O
+clínicas	O
+características	O
+de	O
+un	O
+episodio	O
+maniaco	O
+probablemente	O
+inducido	O
+por	O
+el	O
+tratamiento	O
+antidepresivo	O
+mencionado	O
+,	O
+dada	O
+la	O
+coincidencia	O
+temporal	O
+.	O

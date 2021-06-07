@@ -1,0 +1,25 @@
+
+Se	O
+retiró	O
+catéter	O
+venoso	O
+central	O
+colocado	O
+para	O
+nutrición	O
+parenteral	O
+y	O
+se	O
+aisló	O
+S	O
+.	O
+epidermidis	O
+tanto	O
+en	O
+hemocultivos	O
+como	O
+en	O
+cultivo	O
+de	O
+catéter	O
+.	O

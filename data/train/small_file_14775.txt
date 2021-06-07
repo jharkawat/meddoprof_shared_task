@@ -1,0 +1,24 @@
+
+El	O
+proteinograma	O
+,	O
+anticuerpos	O
+(	O
+anti	O
+-	O
+LKM	O
+,	O
+ANA	O
+,	O
+antimitocondriales	O
+,	O
+y	O
+ANCA	O
+)	O
+,	O
+ceruloplasmina	O
+y	O
+ferritina	O
+fueron	O
+normales	O
+.	O

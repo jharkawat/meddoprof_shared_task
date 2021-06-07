@@ -1,0 +1,14 @@
+
+Antecedentes	O
+personales	O
+:	O
+soltero	O
+,	O
+hijo	O
+único	O
+,	O
+vive	O
+con	O
+sus	O
+padres	O
+.	O

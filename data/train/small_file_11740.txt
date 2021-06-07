@@ -1,0 +1,9 @@
+
+Esporádicamente	O
+tomaba	O
+antiinflamatorios	O
+no	O
+esteroideos	O
+como	O
+analgésicos	O
+.	O

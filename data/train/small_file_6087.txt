@@ -1,0 +1,12 @@
+
+RMN	O
+lumbar	O
+y	O
+lumbosacra	O
+:	O
+síndrome	O
+facetario	O
+L4	O
+-	O
+L5	O
+.	O

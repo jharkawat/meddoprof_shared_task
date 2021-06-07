@@ -1,0 +1,15 @@
+
+Episodio	O
+de	O
+agitación	O
+psicomotriz	O
+en	O
+Urgencias	O
+y	O
+heteroagresividad	O
+dirigida	O
+a	O
+familia	O
+y	O
+mobiliario	O
+.	O

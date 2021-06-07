@@ -1,0 +1,11 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+se	O
+encontraba	O
+atenta	O
+y	O
+orientada	O
+.	O

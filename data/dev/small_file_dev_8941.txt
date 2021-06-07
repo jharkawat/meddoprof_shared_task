@@ -1,0 +1,26 @@
+
+El	O
+paciente	O
+no	O
+tenía	O
+antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+familiares	O
+ni	O
+personales	O
+de	O
+interés	O
+y	O
+únicamente	O
+refería	O
+la	O
+toma	O
+ocasional	O
+de	O
+omeprazol	O
+y	O
+analgésicos	O
+habituales	O
+.	O

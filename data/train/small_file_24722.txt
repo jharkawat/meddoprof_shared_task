@@ -1,0 +1,14 @@
+
+Antecedentes	O
+de	O
+consumo	O
+de	O
+cannabis	O
+,	O
+cocaína	O
+y	O
+heroína	O
+,	O
+actualmente	O
+inactivo	O
+.	O

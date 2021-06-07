@@ -1,0 +1,11 @@
+
+Tricobezoar	O
+,	O
+trastornos	O
+de	O
+ansiedad	O
+,	O
+tricotilomanía	O
+,	O
+tricofagia	O
+.	O

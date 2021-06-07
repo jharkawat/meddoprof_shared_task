@@ -1,0 +1,17 @@
+
+Pensamiento	O
+circunstancial	O
+,	O
+divagatorio	O
+,	O
+discurso	O
+prolijo	O
+,	O
+en	O
+ocasiones	O
+disgregado	O
+,	O
+vacío	O
+en	O
+contenido	O
+.	O

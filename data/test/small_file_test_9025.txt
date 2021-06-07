@@ -1,0 +1,14 @@
+
+Trombosis	O
+parcial	O
+de	O
+arteria	O
+(	O
+ART	O
+)	O
+iliaca	O
+común	O
+izquierda	O
+hasta	O
+externa	O
+.	O

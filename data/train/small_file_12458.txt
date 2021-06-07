@@ -1,0 +1,27 @@
+
+Tras	O
+esto	O
+,	O
+se	O
+decide	O
+ingreso	O
+a	O
+Medicina	O
+Interna	O
+para	O
+completar	O
+estudio	O
+de	O
+ictericia	O
+obstructiva	O
+sin	O
+dilatación	O
+inicial	O
+de	O
+la	O
+vía	O
+biliar	O
+y	O
+síndrome	O
+constitucional	O
+.	O

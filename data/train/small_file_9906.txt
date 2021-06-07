@@ -1,0 +1,10 @@
+
+Asocia	O
+inflamación	O
+articular	O
+,	O
+impotencia	O
+funcional	O
+y	O
+febrícula	O
+.	O

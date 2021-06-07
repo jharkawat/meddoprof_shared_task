@@ -1,0 +1,10 @@
+
+Grado	O
+de	O
+Instrucción	O
+:	O
+Superior	O
+Técnico	O
+(	O
+incompleta	O
+)	O

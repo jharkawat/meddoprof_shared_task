@@ -1,0 +1,6 @@
+
+Vive	O
+con	O
+sus	O
+padres	O
+.	O

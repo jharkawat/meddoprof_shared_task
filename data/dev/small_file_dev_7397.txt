@@ -1,0 +1,11 @@
+
+Se	O
+modificó	O
+la	O
+antibioterapia	O
+basándola	O
+en	O
+levofloxacino	O
+y	O
+ceftriaxona	O
+.	O

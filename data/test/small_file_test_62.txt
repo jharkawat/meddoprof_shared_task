@@ -1,0 +1,19 @@
+
+Cédula	O
+de	O
+identificación	O
+institucional	O
+(	O
+IMSS	O
+,	O
+ISSSTE	O
+,	O
+SSA	O
+,	O
+Iztacala	O
+,	O
+ISEM	O
+,	O
+etc	O
+.	O
+)	O

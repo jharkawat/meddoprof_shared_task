@@ -1,0 +1,25 @@
+
+Se	O
+realizó	O
+telerradiografía	O
+de	O
+tórax	O
+que	O
+puso	O
+de	O
+manifiesto	O
+opacidades	O
+de	O
+tipo	O
+alveolar	O
+bilateral	O
+confluentes	O
+con	O
+aspecto	O
+"	O
+en	O
+alas	O
+de	O
+mariposa	O
+"	O
+.	O

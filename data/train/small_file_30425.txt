@@ -1,0 +1,12 @@
+
+Se	O
+programó	O
+ingreso	O
+hospitalario	O
+para	O
+atajar	O
+la	O
+creciente	O
+trayectoria	O
+disfuncional	O
+.	O

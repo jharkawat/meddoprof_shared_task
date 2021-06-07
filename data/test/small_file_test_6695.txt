@@ -1,0 +1,17 @@
+
+En	O
+octubre	O
+de	O
+2010	O
+,	O
+la	O
+paciente	O
+debuta	O
+con	O
+un	O
+cuadro	O
+de	O
+coluria	O
+y	O
+acolia	O
+.	O

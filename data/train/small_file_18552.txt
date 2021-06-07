@@ -1,0 +1,8 @@
+
+Neuropatía	O
+diabética	O
+en	O
+tratamiento	O
+con	O
+gabapentina	O
+.	O

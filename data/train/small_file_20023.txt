@@ -1,0 +1,22 @@
+
+Le	O
+colocaron	O
+medios	O
+de	O
+contención	O
+y	O
+le	O
+administraron	O
+por	O
+vía	O
+intramuscular	O
+2	O
+mg	O
+de	O
+lorazepam	O
+y	O
+5	O
+mg	O
+de	O
+haloperidol	O
+.	O

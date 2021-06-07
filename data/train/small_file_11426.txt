@@ -1,0 +1,7 @@
+
+No	O
+realiza	O
+tratamiento	O
+domiciliario	O
+habitual	O
+.	O

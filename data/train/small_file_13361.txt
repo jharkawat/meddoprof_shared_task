@@ -1,0 +1,22 @@
+
+Los	O
+marcadores	O
+tumorales	O
+resultan	O
+negativos	O
+(	O
+CEA	O
+,	O
+PSA	O
+,	O
+alfa	O
+-	O
+1	O
+-	O
+fetoproteína	O
+,	O
+HCG	O
+-	O
+Beta	O
+)	O
+.	O

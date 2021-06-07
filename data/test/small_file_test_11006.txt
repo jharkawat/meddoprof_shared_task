@@ -1,0 +1,20 @@
+
+Se	O
+envió	O
+una	O
+muestra	O
+al	O
+servicio	O
+de	O
+Microbiología	O
+,	O
+que	O
+evidenció	O
+cultivo	O
+positivo	O
+para	O
+Clostridium	O
+sp	O
+y	O
+Prevotella	O
+.	O

@@ -1,0 +1,10 @@
+
+Ingram	O
+parecía	O
+tener	O
+distimia	O
+y	O
+depresión	O
+mayor	O
+recurrente	O
+.	O

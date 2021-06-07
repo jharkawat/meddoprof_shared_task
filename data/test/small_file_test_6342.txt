@@ -1,0 +1,21 @@
+
+»	O
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+75	O
+lpm	O
+,	O
+eje	O
+QRS	O
+a	O
+60o	O
+,	O
+sin	O
+alteraciones	O
+en	O
+la	O
+repolarización	O
+.	O

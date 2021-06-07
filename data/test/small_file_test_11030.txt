@@ -1,0 +1,23 @@
+
+TAC	O
+craneal	O
+:	O
+masa	O
+etmoido	O
+-	O
+nasal	O
+de	O
+aspecto	O
+quístico	O
+con	O
+disrupción	O
+de	O
+la	O
+cortical	O
+adyacente	O
+a	O
+la	O
+"	O
+crista	O
+gali	O
+"	O

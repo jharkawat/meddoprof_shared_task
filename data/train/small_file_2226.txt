@@ -1,0 +1,11 @@
+
+Médico	B-PROFESION
+:	O
+Rafael	O
+García	O
+Cañas	O
+NºCol	O
+:	O
+28	O
+28	O
+.	O

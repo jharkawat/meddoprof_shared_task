@@ -1,0 +1,21 @@
+
+Dicha	O
+masa	O
+obstruye	O
+el	O
+bronquio	O
+del	O
+lobar	O
+superior	O
+condicionando	O
+una	O
+atelectasia	O
+posobstructiva	O
+,	O
+sin	O
+cambios	O
+significativos	O
+respecto	O
+al	O
+control	O
+.	O

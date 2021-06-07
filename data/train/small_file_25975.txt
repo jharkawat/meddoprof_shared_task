@@ -1,0 +1,25 @@
+
+Se	O
+presenta	O
+el	O
+caso	O
+de	O
+una	O
+mujer	O
+de	O
+30	O
+años	O
+cuyo	O
+único	O
+antecedente	O
+es	O
+un	O
+ingreso	O
+a	O
+los	O
+20	O
+años	O
+por	O
+trastorno	O
+esquizofreniforme	O
+.	O

@@ -1,0 +1,20 @@
+
+No	O
+se	O
+aprecian	O
+edemas	O
+ni	O
+signos	O
+de	O
+insuficiencia	O
+venosa	O
+crónica	O
+en	O
+las	O
+extremidades	O
+,	O
+con	O
+pulsos	O
+distales	O
+conservados	O
+.	O

@@ -1,0 +1,22 @@
+
+—	O
+TC	O
+simple	O
+de	O
+cráneo	O
+:	O
+parénquima	O
+cerebral	O
+sin	O
+alteraciones	O
+de	O
+la	O
+densidad	O
+sugestivas	O
+de	O
+proceso	O
+isquémico	O
+o	O
+hemorrágico	O
+agudo	O
+.	O

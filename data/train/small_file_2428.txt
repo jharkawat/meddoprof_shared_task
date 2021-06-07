@@ -1,0 +1,16 @@
+
+Se	O
+precisó	O
+adrenalina	O
+,	O
+salbutamol	O
+,	O
+antihistamínicos	O
+y	O
+esteroides	O
+sistémicos	O
+para	O
+resolver	O
+la	O
+anafilaxia	O
+.	O

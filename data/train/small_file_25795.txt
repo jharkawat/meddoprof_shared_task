@@ -1,0 +1,22 @@
+
+Como	O
+tratamiento	O
+farmacológico	O
+se	O
+indicó	O
+el	O
+mantenimiento	O
+con	O
+1	O
+cp	O
+de	O
+escitalopram	O
+de	O
+20	O
+mg	O
+diario	O
+administrado	O
+con	O
+el	O
+desayuno	O
+.	O

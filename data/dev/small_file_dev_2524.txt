@@ -1,0 +1,26 @@
+
+No	O
+se	O
+plantea	O
+internamiento	O
+en	O
+Psiquiatría	O
+dada	O
+la	O
+escasa	O
+mejora	O
+en	O
+lo	O
+conductual	O
+,	O
+su	O
+nivel	O
+de	O
+colaboración	O
+con	O
+el	O
+tratamiento	O
+oral	O
+es	O
+aceptable	O
+.	O

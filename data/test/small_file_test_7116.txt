@@ -1,0 +1,13 @@
+
+A	O
+remarcar	O
+antecedentes	O
+familiares	O
+de	O
+primera	O
+línea	O
+con	O
+disfunciones	O
+tiroideas	O
+conocidas	O
+.	O

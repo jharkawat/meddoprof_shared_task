@@ -1,0 +1,27 @@
+
+-	O
+Serologías	O
+:	O
+Infecciones	O
+pasadas	O
+:	O
+CMV	O
+,	O
+VEB	O
+y	O
+VHA	O
+.	O
+Negativas	O
+:	O
+Parvovirus	O
+,	O
+Brucella	O
+,	O
+Mycoplasma	O
+pneumoniae	O
+,	O
+Coxiella	O
+burnetti	O
+,	O
+VHB	O
+.	O

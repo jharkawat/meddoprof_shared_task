@@ -1,0 +1,14 @@
+
+Hematomas	O
+renales	O
+bilaterales	O
+secundarios	O
+a	O
+aneurismas	O
+bilaterales	O
+y	O
+fístula	O
+arteriovenosa	O
+renal	O
+derecha	O
+.	O

@@ -1,0 +1,20 @@
+
+En	O
+planta	O
+presenta	O
+una	O
+facies	O
+congestiva	O
+,	O
+respiración	O
+superficial	O
+a	O
+22	O
+rpm	O
+,	O
+SatO2	O
+basal	O
+de	O
+89	O
+%	O
+.	O

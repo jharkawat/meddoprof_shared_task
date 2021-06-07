@@ -1,0 +1,27 @@
+
+Se	O
+realiza	O
+analítica	O
+completa	O
+con	O
+TSH	O
+,	O
+estudio	O
+de	O
+anemias	O
+,	O
+serología	O
+,	O
+tóxicos	O
+en	O
+orina	O
+,	O
+TAC	O
+cerebral	O
+y	O
+ECG	O
+,	O
+que	O
+resultaron	O
+normales	O
+.	O

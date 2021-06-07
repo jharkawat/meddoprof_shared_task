@@ -1,0 +1,10 @@
+
+Estas	O
+dos	O
+lesiones	O
+podrían	O
+corresponder	O
+a	O
+lesiones	O
+metastásicas	O
+.	O

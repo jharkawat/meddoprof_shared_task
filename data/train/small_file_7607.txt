@@ -1,0 +1,20 @@
+
+Negaba	O
+antecedentes	O
+dermatológicos	O
+,	O
+introducción	O
+de	O
+fármacos	O
+o	O
+productos	O
+de	O
+herboristería	O
+en	O
+las	O
+semanas	O
+previas	O
+y	O
+ambiente	O
+epidémico	O
+.	O

@@ -1,0 +1,23 @@
+
+Acude	O
+el	O
+7	O
+/	O
+12	O
+/	O
+2017	O
+a	O
+Urgencias	O
+por	O
+acúfenos	O
+y	O
+parestesias	O
+en	O
+hemicuerpo	O
+izquierdo	O
+de	O
+una	O
+semana	O
+de	O
+evolución	O
+.	O

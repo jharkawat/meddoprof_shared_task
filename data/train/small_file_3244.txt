@@ -1,0 +1,19 @@
+
+Tras	O
+ser	O
+revalorada	O
+,	O
+se	O
+comprobó	O
+valores	O
+de	O
+glucemia	O
+(	O
+117	O
+mg	O
+/	O
+dl	O
+)	O
+y	O
+oligoanuria	O
+.	O

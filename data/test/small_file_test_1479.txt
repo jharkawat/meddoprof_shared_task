@@ -1,0 +1,10 @@
+
+El	O
+resto	O
+de	O
+piezas	O
+presentaban	O
+un	O
+buen	O
+pronóstico	O
+.	O

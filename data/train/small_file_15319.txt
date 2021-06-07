@@ -1,0 +1,8 @@
+
+Se	O
+decidió	O
+realizar	O
+nuevas	O
+endoscopías	O
+digestivas	O
+.	O

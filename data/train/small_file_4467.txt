@@ -1,0 +1,23 @@
+
+Tiene	O
+tres	O
+hijas	O
+,	O
+una	O
+hija	O
+de	O
+42	O
+y	O
+otra	O
+de	O
+38	O
+años	O
+,	O
+y	O
+la	O
+hija	O
+fallecida	O
+con	O
+41	O
+años	O
+.	O

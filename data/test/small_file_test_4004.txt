@@ -1,0 +1,13 @@
+
+Se	O
+realiza	O
+biopsia	O
+transbronquial	O
+con	O
+diagnóstico	O
+anatomopatológico	O
+de	O
+adenocarcinoma	O
+de	O
+pulmón	O
+.	O

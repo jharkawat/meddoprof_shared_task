@@ -1,0 +1,12 @@
+
+Se	O
+le	O
+recetó	O
+laninamivir	O
+,	O
+pero	O
+sus	O
+síntomas	O
+no	O
+mejoraron	O
+.	O

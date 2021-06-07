@@ -1,0 +1,24 @@
+
+A	O
+pesar	O
+de	O
+la	O
+recomendación	O
+de	O
+cambio	O
+terapéutico	O
+a	O
+clozapina	O
+,	O
+el	O
+paciente	O
+se	O
+niega	O
+argumentando	O
+los	O
+continuos	O
+análisis	O
+de	O
+sangre	O
+obligatorios	O
+.	O

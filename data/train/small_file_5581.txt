@@ -1,0 +1,6 @@
+
+Niega	O
+traumatismo	O
+craneoencefálico	O
+previo	O
+.	O

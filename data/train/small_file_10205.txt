@@ -1,0 +1,4 @@
+
+Colonoscopia	O
+hasta	O
+ciego	O

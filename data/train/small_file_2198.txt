@@ -1,0 +1,19 @@
+
+Se	O
+confirma	O
+la	O
+presencia	O
+de	O
+las	O
+tres	O
+lesiones	O
+y	O
+bajo	O
+anestesia	O
+general	O
+,	O
+se	O
+realiza	O
+laparotomía	O
+xifopubiana	O
+.	O

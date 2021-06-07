@@ -1,0 +1,17 @@
+
+Se	O
+realiza	O
+audiometría	O
+donde	O
+se	O
+aprecia	O
+una	O
+hipoacusia	O
+de	O
+transmisión	O
+izquierda	O
+(	O
+tabla	O
+1	O
+)	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+volvió	O
+a	O
+presentar	O
+más	O
+crisis	O
+.	O

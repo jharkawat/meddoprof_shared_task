@@ -1,0 +1,5 @@
+
+SCID	O
+-	O
+I	O
+:	O

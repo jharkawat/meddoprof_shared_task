@@ -1,0 +1,27 @@
+
+Se	O
+introduce	O
+de	O
+forma	O
+ambulatoria	O
+amisulprida	O
+y	O
+sertralina	O
+para	O
+paliar	O
+dicha	O
+sintomatología	O
+,	O
+con	O
+empeoramiento	O
+progresivo	O
+por	O
+lo	O
+que	O
+acaba	O
+ingresando	O
+(	O
+cuarto	O
+ingreso	O
+)	O
+.	O

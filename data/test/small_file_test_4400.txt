@@ -1,0 +1,21 @@
+
+Acude	O
+a	O
+urgencias	O
+por	O
+tos	O
+y	O
+expectoración	O
+de	O
+unos	O
+cinco	O
+meses	O
+de	O
+evolución	O
+asociando	O
+esputos	O
+hemoptoicos	O
+de	O
+forma	O
+ocasional	O
+.	O

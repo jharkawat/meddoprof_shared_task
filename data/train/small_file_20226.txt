@@ -1,0 +1,20 @@
+
+Bravo	O
+había	O
+visto	O
+en	O
+el	O
+instituto	O
+a	O
+un	O
+orientador	B-PROFESION
+por	O
+parecer	O
+«	O
+malhumorada	O
+»	O
+y	O
+sacar	O
+malas	O
+notas	O
+.	O

@@ -1,0 +1,21 @@
+
+De	O
+inicio	O
+,	O
+se	O
+pensó	O
+en	O
+un	O
+cuadro	O
+de	O
+carácter	O
+alérgico	O
+,	O
+en	O
+probable	O
+relación	O
+al	O
+epitelio	O
+de	O
+gato	O
+.	O

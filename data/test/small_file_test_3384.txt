@@ -1,0 +1,14 @@
+
+Paciente	O
+de	O
+33	O
+años	O
+,	O
+enfermero	B-PROFESION
+de	O
+profesión	O
+,	O
+sin	O
+hábitos	O
+tóxicos	O
+.	O

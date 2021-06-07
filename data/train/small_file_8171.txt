@@ -1,0 +1,13 @@
+
+Varón	O
+de	O
+50	O
+an	O
+̃	O
+os	O
+,	O
+transportista	B-PROFESION
+de	I-PROFESION
+alimentos	I-PROFESION
+empaquetados	I-PROFESION
+.	O

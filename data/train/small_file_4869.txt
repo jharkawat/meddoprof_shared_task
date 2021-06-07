@@ -1,0 +1,7 @@
+
+Hipertensión	O
+esencial	O
+en	O
+paciente	O
+joven	O
+.	O

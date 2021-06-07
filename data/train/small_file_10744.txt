@@ -1,0 +1,8 @@
+
+El	O
+reflejo	O
+cutáneoplantar	O
+es	O
+extensor	O
+bilateral	O
+.	O

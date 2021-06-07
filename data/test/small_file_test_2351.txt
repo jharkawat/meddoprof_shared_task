@@ -1,0 +1,16 @@
+
+-	O
+Hemograma	O
+,	O
+bioquimica	O
+y	O
+hemostasia	O
+:	O
+bien	O
+,	O
+incluida	O
+LDH	O
+en	O
+rango	O
+normal	O
+.	O

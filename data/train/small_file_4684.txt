@@ -1,0 +1,4 @@
+
+Afta	O
+oral	O
+.	O

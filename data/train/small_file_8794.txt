@@ -1,0 +1,6 @@
+
+Ecografía	O
+Abdominal	O
+:	O
+Hepatoesplenomegalia	O
+.	O

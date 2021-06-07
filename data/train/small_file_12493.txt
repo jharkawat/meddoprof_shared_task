@@ -1,0 +1,24 @@
+
+Así	O
+mismo	O
+,	O
+también	O
+se	O
+pidió	O
+un	O
+Mantoux	O
+y	O
+se	O
+completó	O
+la	O
+analítica	O
+con	O
+ANAS	O
+,	O
+beta	O
+-	O
+2	O
+antimicroglobulina	O
+y	O
+ECA	O
+.	O

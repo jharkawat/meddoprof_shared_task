@@ -1,0 +1,6 @@
+
+Sin	O
+fiebre	O
+ni	O
+vómitos	O
+.	O

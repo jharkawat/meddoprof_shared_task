@@ -1,0 +1,9 @@
+
+Había	O
+trabajado	O
+como	O
+camionero	B-PROFESION
+,	O
+ya	O
+jubilado	B-SITUACION_LABORAL
+.	O

@@ -1,0 +1,6 @@
+
+Estudiante	B-SITUACION_LABORAL
+de	O
+procedencia	O
+rural	O
+.	O

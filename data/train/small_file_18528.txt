@@ -1,0 +1,21 @@
+
+Comola	O
+agitación	O
+persistía	O
+,	O
+se	O
+incrementó	O
+el	O
+Haloperidol	O
+hasta	O
+180	O
+mg	O
+junto	O
+con	O
+5	O
+bolos	O
+de	O
+2	O
+mgde	O
+Midazolam	O
+.	O

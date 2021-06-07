@@ -1,0 +1,25 @@
+
+Mujer	O
+de	O
+89	O
+años	O
+con	O
+AP	O
+:	O
+HTA	O
+,	O
+DM	O
+tipo	O
+2	O
+,	O
+HVI	O
+,	O
+Estenosis	O
+severa	O
+con	O
+IAo	O
+leve	O
+,	O
+HTP	O
+moderada	O
+.	O

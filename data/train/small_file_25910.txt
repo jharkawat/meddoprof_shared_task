@@ -1,0 +1,22 @@
+
+No	O
+patología	O
+orgánica	O
+asociada	O
+,	O
+antecedentes	O
+de	O
+cuadro	O
+psicótico	O
+en	O
+el	O
+año	O
+2003	O
+,	O
+posterior	O
+a	O
+la	O
+ingestión	O
+de	O
+cannabis	O
+.	O

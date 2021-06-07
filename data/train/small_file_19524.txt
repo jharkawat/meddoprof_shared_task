@@ -1,0 +1,6 @@
+
+Es	O
+alérgico	O
+al	O
+polvo	O
+.	O

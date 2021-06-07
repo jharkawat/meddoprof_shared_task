@@ -1,0 +1,10 @@
+
+Inició	O
+el	O
+seguimiento	O
+en	O
+el	O
+equipo	B-PROFESION
+en	O
+1994	O
+.	O

@@ -1,0 +1,11 @@
+
+Antecedentes	O
+Personales	O
+:	O
+Trastorno	O
+ansioso	O
+-	O
+depresivo	O
+,	O
+insomnio	O
+.	O

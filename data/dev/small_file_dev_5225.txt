@@ -1,0 +1,10 @@
+
+Celularidad	O
+linfoide	O
+polimorfa	O
+;	O
+no	O
+signos	O
+de	O
+malignidad	O
+.	O

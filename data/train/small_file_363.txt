@@ -1,0 +1,14 @@
+
+Una	O
+tomografía	O
+axial	O
+computada	O
+de	O
+encéfalo	O
+(	O
+sin	O
+contraste	O
+)	O
+fue	O
+normal	O
+.	O

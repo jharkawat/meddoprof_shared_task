@@ -1,0 +1,27 @@
+
+Coagulación	O
+:	O
+DimeroD	O
+604	O
+,	O
+TTPa	O
+18	O
+.	O
+6	O
+,	O
+Act	O
+TP	O
+%	O
+89	O
+,	O
+INR	O
+1	O
+,	O
+FG	O
+81	O
+,	O
+Troponina	O
+0	O
+.	O
+05	O
+.	O

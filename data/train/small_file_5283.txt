@@ -1,0 +1,10 @@
+
+Exploración	O
+física	O
+:	O
+Paciente	O
+con	O
+buen	O
+estado	O
+general	O
+.	O

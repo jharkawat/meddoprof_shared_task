@@ -1,0 +1,15 @@
+
+El	O
+padre	O
+es	O
+bebedor	O
+social	O
+y	O
+su	O
+abuela	O
+y	O
+bisabuela	O
+materna	O
+eran	O
+alcohólicas	O
+.	O

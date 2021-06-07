@@ -1,0 +1,26 @@
+
+Aunque	O
+nuestro	O
+paciente	O
+no	O
+precisó	O
+terapia	O
+de	O
+sustitución	O
+renal	O
+,	O
+en	O
+ocasiones	O
+es	O
+necesario	O
+aplicarla	O
+de	O
+forma	O
+temporal	O
+hasta	O
+la	O
+resolución	O
+del	O
+fracaso	O
+renal	O
+.	O

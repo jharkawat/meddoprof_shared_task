@@ -1,0 +1,21 @@
+
+Verbaliza	O
+su	O
+enfado	O
+hacia	O
+los	O
+profesionales	B-PROFESION
+de	I-PROFESION
+ORL	I-PROFESION
+porque	O
+le	O
+han	O
+dejado	O
+entrever	O
+un	O
+posible	O
+origen	O
+"	O
+psicológico	O
+"	O
+.	O

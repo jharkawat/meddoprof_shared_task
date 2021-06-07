@@ -1,0 +1,19 @@
+
+La	O
+respuesta	O
+al	O
+tratamiento	O
+con	O
+clozapina	O
+es	O
+favorable	O
+,	O
+lo	O
+que	O
+permite	O
+trabajar	O
+aspectos	O
+emocionales	O
+y	O
+conductuales	O
+.	O

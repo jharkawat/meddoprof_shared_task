@@ -1,0 +1,11 @@
+
+Auscultación	O
+cardiopulmonar	O
+:	O
+ruidos	O
+cardíacos	O
+arrítmicos	O
+,	O
+sin	O
+soplos	O
+.	O

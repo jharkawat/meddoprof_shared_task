@@ -1,0 +1,10 @@
+
+Además	O
+reconoce	O
+algún	O
+consumo	O
+de	O
+cannabis	O
+de	O
+nuevo	O
+.	O

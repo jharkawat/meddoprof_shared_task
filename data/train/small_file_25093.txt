@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+se	O
+mostró	O
+abordable	O
+y	O
+muy	O
+colaboradora	O
+durante	O
+su	O
+estancia	O
+en	O
+planta	O
+.	O

@@ -1,0 +1,10 @@
+
+La	O
+palpación	O
+de	O
+las	O
+arterias	O
+temporales	O
+era	O
+normal	O
+.	O

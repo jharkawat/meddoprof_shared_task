@@ -1,0 +1,19 @@
+
+La	O
+analítica	O
+realizada	O
+en	O
+urgencias	O
+(	O
+hemograma	O
+,	O
+bioquímica	O
+y	O
+coagulación	O
+)	O
+se	O
+encontraba	O
+en	O
+valores	O
+normales	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+pide	O
+analítica	O
+completa	O
+y	O
+tóxicos	O
+en	O
+orina	O
+,	O
+realiza	O
+gastroscopia	O
+,	O
+TAC	O
+de	O
+urgencias	O
+y	O
+EEG	O
+.	O

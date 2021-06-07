@@ -1,0 +1,6 @@
+
+No	O
+fiebre	O
+ni	O
+traumatismo	O
+.	O

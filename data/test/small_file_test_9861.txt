@@ -1,0 +1,7 @@
+
+Ionograma	O
+en	O
+rango	O
+de	O
+normalidad	O
+.	O

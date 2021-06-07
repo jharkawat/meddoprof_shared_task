@@ -1,0 +1,10 @@
+
+Antecedentes	O
+personales	O
+:	O
+natural	O
+de	O
+Palma	O
+de	O
+Mallorca	O
+.	O

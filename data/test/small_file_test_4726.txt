@@ -1,0 +1,20 @@
+
+Molestias	O
+y	O
+estímulo	O
+miccional	O
+con	O
+la	O
+palpación	O
+en	O
+el	O
+hipogastrio	O
+aunque	O
+no	O
+se	O
+delimita	O
+un	O
+claro	O
+globo	O
+vesical	O
+.	O

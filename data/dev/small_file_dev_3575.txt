@@ -1,0 +1,15 @@
+
+Preocupación	O
+por	O
+ser	O
+la	O
+responsable	O
+de	O
+que	O
+enfermen	O
+su	O
+marido	O
+y	O
+su	O
+hija	O
+.	O

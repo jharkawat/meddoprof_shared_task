@@ -1,0 +1,19 @@
+
+Había	O
+comenzado	O
+un	O
+nuevo	O
+trabajo	O
+cuatro	O
+meses	O
+antes	O
+de	O
+ser	O
+internada	O
+y	O
+estaba	O
+considerando	O
+cambiarlo	O
+de	O
+nuevo	O
+.	O

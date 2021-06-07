@@ -1,0 +1,15 @@
+
+Sueño	O
+fragmentado	O
+debido	O
+a	O
+la	O
+situación	O
+de	O
+alerta	O
+secundaria	O
+a	O
+percepción	O
+de	O
+vigilancia	O
+.	O

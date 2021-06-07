@@ -1,0 +1,6 @@
+
+Apellidos	O
+:	O
+Rodriguez	O
+Miranda	O
+.	O

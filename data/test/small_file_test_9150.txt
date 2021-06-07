@@ -1,0 +1,9 @@
+
+Paciente	O
+estable	O
+,	O
+eupneico	O
+,	O
+tolerando	O
+decúbito	O
+.	O

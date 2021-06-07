@@ -1,0 +1,10 @@
+
+PSA	O
+en	O
+lento	O
+ascenso	O
+tras	O
+el	O
+séptimo	O
+ciclo	O
+.	O

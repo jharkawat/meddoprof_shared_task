@@ -1,0 +1,25 @@
+
+Diagnostico	O
+pre	O
+-	O
+operatorio	O
+:	O
+Colecistitis	O
+crónica	O
+escleroatrofica	O
+Operación	O
+realizada	O
+:	O
+Colecistectomía	O
+convencional	O
++	O
+Dren	O
+kehr	O
+Diagnostico	O
+post	O
+-	O
+operatorio	O
+:	O
+Vesícula	O
+escleroatrofica	O
+.	O

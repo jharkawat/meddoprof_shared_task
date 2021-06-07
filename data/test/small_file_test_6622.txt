@@ -1,0 +1,13 @@
+
+En	O
+la	O
+TC	O
+no	O
+se	O
+aprecia	O
+la	O
+existencia	O
+de	O
+lesiones	O
+intracraneales	O
+.	O

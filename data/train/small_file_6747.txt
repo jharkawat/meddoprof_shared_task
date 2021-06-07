@@ -1,0 +1,16 @@
+
+La	O
+paciente	O
+siguió	O
+curas	O
+periódicas	O
+durante	O
+6	O
+semanas	O
+con	O
+resolución	O
+total	O
+de	O
+la	O
+lesión	O
+.	O

@@ -1,0 +1,24 @@
+
+Tras	O
+ser	O
+valorada	O
+in	O
+situ	O
+en	O
+el	O
+centro	O
+de	O
+salud	O
+,	O
+se	O
+decidió	O
+traslado	O
+urgente	O
+al	O
+hospital	O
+comarcal	O
+de	O
+referencia	O
+más	O
+cercano	O
+.	O

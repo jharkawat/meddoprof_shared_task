@@ -1,0 +1,8 @@
+
+El	O
+paciente	O
+no	O
+requirió	O
+tratamiento	O
+específico	O
+.	O

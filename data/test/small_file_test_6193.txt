@@ -1,0 +1,26 @@
+
+Regular	O
+evolución	O
+clínica	O
+en	O
+las	O
+primeras	O
+24	O
+horas	O
+con	O
+varios	O
+episodios	O
+de	O
+ritmo	O
+nodal	O
+con	O
+escape	O
+ventricular	O
+a	O
+30	O
+lpm	O
+y	O
+tendencia	O
+a	O
+oliguria	O
+.	O

@@ -1,0 +1,16 @@
+
+El	O
+electroencefalograma	O
+del	O
+paciente	O
+,	O
+obtenido	O
+el	O
+día	O
+siguiente	O
+,	O
+no	O
+mostró	O
+ninguna	O
+anomalía	O
+.	O

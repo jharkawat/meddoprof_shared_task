@@ -1,0 +1,18 @@
+
+Tras	O
+su	O
+alta	O
+es	O
+valorada	O
+en	O
+nuestras	O
+consultas	O
+,	O
+encontrándose	O
+la	O
+paciente	O
+estable	O
+,	O
+PS	O
+0	O
+.	O

@@ -1,0 +1,23 @@
+
+Mujer	O
+de	O
+51	O
+años	O
+de	O
+edad	O
+que	O
+previamente	O
+había	B-PROFESION
+trabajado	I-PROFESION
+en	I-PROFESION
+labores	I-PROFESION
+de	I-PROFESION
+limpieza	I-PROFESION
+sin	O
+hábitos	O
+tóxicos	O
+(	O
+nunca	O
+fumadora	O
+)	O
+.	O

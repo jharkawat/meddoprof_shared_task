@@ -1,0 +1,13 @@
+
+Si	O
+se	O
+le	O
+fuerza	O
+,	O
+se	O
+enfada	O
+y	O
+su	O
+rendimiento	O
+disminuye	O
+.	O

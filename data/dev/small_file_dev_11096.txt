@@ -1,0 +1,5 @@
+
+3	O
+-	O
+Abdômen	O
+agudo	O

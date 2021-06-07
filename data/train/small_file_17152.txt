@@ -1,0 +1,16 @@
+
+No	O
+fiebre	O
+termometrada	O
+(	O
+el	O
+paciente	O
+refería	O
+sensación	O
+distérmica	O
+)	O
+ni	O
+otra	O
+sintomatología	O
+añadida	O
+.	O

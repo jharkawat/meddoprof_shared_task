@@ -1,0 +1,17 @@
+
+Abdomen	O
+:	O
+presentaba	O
+semiología	O
+de	O
+ascitis	O
+moderada	O
+sin	O
+dolor	O
+,	O
+sin	O
+otros	O
+hallazgos	O
+de	O
+interés	O
+.	O

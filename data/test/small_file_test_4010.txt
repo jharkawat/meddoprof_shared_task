@@ -1,0 +1,25 @@
+
+Se	O
+realiza	O
+fibrobroncoscopia	O
+con	O
+masa	O
+sangrante	O
+en	O
+la	O
+carina	O
+y	O
+se	O
+procede	O
+a	O
+radioterapia	O
+con	O
+intención	O
+paliativa	O
+con	O
+mejoría	O
+a	O
+las	O
+cuatro	O
+sesiones	O
+.	O

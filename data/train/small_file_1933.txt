@@ -1,0 +1,23 @@
+
+-	O
+Dolor	O
+en	O
+el	O
+muñón	O
+:	O
+La	O
+sensación	O
+dolorosa	O
+localizada	O
+en	O
+el	O
+muñón	O
+que	O
+persiste	O
+más	O
+allá	O
+de	O
+periodo	O
+de	O
+cicatrización	O
+.	O

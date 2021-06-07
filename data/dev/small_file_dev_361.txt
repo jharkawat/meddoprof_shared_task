@@ -1,0 +1,8 @@
+
+La	O
+respuesta	O
+fue	O
+favorable	O
+pero	O
+parcial	O
+.	O

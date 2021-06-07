@@ -1,0 +1,17 @@
+
+Se	O
+decide	O
+instaurar	O
+tratamiento	O
+con	O
+metilprednisolona	O
+250	O
+mg	O
+intravenosa	O
+cada	O
+6	O
+horas	O
+durante	O
+3	O
+días	O
+.	O

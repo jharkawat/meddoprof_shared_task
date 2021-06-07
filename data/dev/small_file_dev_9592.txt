@@ -1,0 +1,19 @@
+
+Hace	O
+un	O
+año	O
+estuvo	O
+en	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+albergue	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+indomiciliados	I-SITUACION_LABORAL
+,	O
+del	O
+que	O
+fue	O
+expulsado	O
+por	O
+mal	O
+comportamiento	O
+.	O

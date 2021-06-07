@@ -1,0 +1,6 @@
+
+1	O
+-	O
+Pancreatitis	O
+Aguda	O
+:	O

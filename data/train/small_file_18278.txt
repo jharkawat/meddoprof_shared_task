@@ -1,0 +1,25 @@
+
+La	O
+exploración	O
+oftalmológica	O
+evidenció	O
+desprendimiento	O
+de	O
+la	O
+retina	O
+que	O
+afectaba	O
+a	O
+los	O
+cuadrantes	O
+temporales	O
+con	O
+afectación	O
+macular	O
+y	O
+un	O
+desgarro	O
+de	O
+2	O
+h	O
+.	O

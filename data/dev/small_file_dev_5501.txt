@@ -1,0 +1,7 @@
+
+No	O
+se	O
+palpa	O
+globo	O
+vesical	O
+.	O

@@ -1,0 +1,20 @@
+
+Infecciosas	O
+:	O
+absceso	O
+pulmonar	O
+,	O
+neumonía	O
+redonda	O
+,	O
+quiste	O
+hidatídico	O
+,	O
+actinomicosis	O
+,	O
+micetomas	O
+,	O
+émbolos	O
+sépticos	O
+o	O
+granulomas	O

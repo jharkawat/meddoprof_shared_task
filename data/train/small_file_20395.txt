@@ -1,0 +1,9 @@
+
+El	O
+afecto	O
+era	O
+irritable	O
+y	O
+de	O
+enfado	O
+.	O

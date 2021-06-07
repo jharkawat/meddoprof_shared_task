@@ -1,0 +1,10 @@
+
+Hasta	O
+2012	O
+trabajaba	B-PROFESION
+de	I-PROFESION
+adjunta	I-PROFESION
+a	I-PROFESION
+una	I-PROFESION
+farmacia	I-PROFESION
+.	O

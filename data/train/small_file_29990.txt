@@ -1,0 +1,24 @@
+
+Ante	O
+la	O
+reacentuación	O
+de	O
+los	O
+síntomas	O
+,	O
+aparecen	O
+de	O
+nuevo	O
+ideas	O
+autolíticas	O
+y	O
+realiza	O
+un	O
+intento	O
+de	O
+suicidio	O
+con	O
+un	O
+arma	O
+blanca	O
+.	O

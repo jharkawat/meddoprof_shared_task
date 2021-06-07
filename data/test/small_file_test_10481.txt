@@ -1,0 +1,16 @@
+
+Se	O
+realiza	O
+biopsia	O
+renal	O
+que	O
+informa	O
+de	O
+carcinoma	O
+de	O
+células	O
+claras	O
+,	O
+Führman	O
+I	O
+.	O

@@ -1,0 +1,13 @@
+
+Ante	O
+ototoxicidad	O
+y	O
+astenia	O
+g3	O
+,	O
+se	O
+continúa	O
+sólo	O
+con	O
+lapatinib	O
+.	O

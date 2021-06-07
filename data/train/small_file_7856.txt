@@ -1,0 +1,27 @@
+
+Auscultación	O
+respiratoria	O
+(	O
+AR	O
+)	O
+:	O
+Murmullo	O
+vesicular	O
+normal	O
+,	O
+no	O
+presencia	O
+de	O
+estertores	O
+,	O
+frecuencia	O
+respiratoria	O
+(	O
+FR	O
+)	O
+:	O
+18	O
+respiraciones	O
+por	O
+minuto	O
+.	O

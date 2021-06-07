@@ -1,0 +1,21 @@
+
+-	O
+Análisis	O
+:	O
+A	O
+destacar	O
+:	O
+Urea	O
+41	O
+mg	O
+/	O
+dl	O
+,	O
+Creatinina	O
+1	O
+.	O
+37	O
+mg	O
+/	O
+dl	O
+.	O

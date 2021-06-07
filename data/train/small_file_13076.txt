@@ -1,0 +1,10 @@
+
+Leve	O
+derrame	O
+pleural	O
+izquierdo	O
+con	O
+atelectasia	O
+pasiva	O
+asociada	O
+.	O

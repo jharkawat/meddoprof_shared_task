@@ -1,0 +1,12 @@
+
+No	O
+esta	O
+consciente	O
+de	O
+su	O
+enfermedad	O
+y	O
+necesidad	O
+de	O
+tratamiento	O
+.	O

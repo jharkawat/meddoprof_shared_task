@@ -1,0 +1,10 @@
+
+Hace	O
+una	O
+semana	O
+es	O
+cuando	O
+hizo	O
+el	O
+dibujo	O
+.	O

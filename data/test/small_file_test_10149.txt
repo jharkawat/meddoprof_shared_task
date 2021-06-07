@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+trabajaba	O
+de	O
+jardinero	B-PROFESION
+,	O
+en	O
+contacto	O
+con	O
+fertilizantes	O
+y	O
+pesticidas	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+el	O
+plan	O
+de	O
+trabajo	O
+se	O
+estableció	O
+un	O
+régimen	O
+de	O
+visitas	O
+para	O
+que	O
+Susana	O
+pudiera	O
+relacionarse	O
+con	O
+su	O
+hija	O
+.	O

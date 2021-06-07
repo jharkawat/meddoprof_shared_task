@@ -1,0 +1,14 @@
+
+Se	O
+decide	O
+pautar	O
+clozapina	O
+hasta	O
+150	O
+mg	O
+/	O
+d	O
+con	O
+NP	O
+correctos	O
+.	O

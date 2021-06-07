@@ -1,0 +1,17 @@
+
+En	O
+tratamiento	O
+actual	O
+con	O
+corticoterapia	O
+y	O
+crema	O
+oculo	O
+-	O
+epitelizante	O
+por	O
+postoperatorio	O
+de	O
+última	O
+intervención	O
+.	O

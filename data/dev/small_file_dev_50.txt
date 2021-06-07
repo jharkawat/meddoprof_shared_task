@@ -1,0 +1,10 @@
+
+Fue	O
+ingresada	O
+en	O
+la	O
+Unidad	O
+de	O
+Hospitalización	O
+Psiquiátrica	O
+.	O

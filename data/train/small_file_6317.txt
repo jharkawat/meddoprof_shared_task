@@ -1,0 +1,10 @@
+
+Casado	O
+,	O
+sin	O
+hijos	O
+y	O
+nivel	O
+socioeconómico	O
+medio	O
+.	O

@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+55	O
+an	O
+̃	O
+os	O
+intervenida	O
+de	O
+forma	O
+programada	O
+para	O
+sustitución	O
+valvular	O
+mitral	O
+y	O
+anuloplastia	O
+tricuspídea	O
+.	O

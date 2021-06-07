@@ -1,0 +1,11 @@
+
+n	O
+Valproato	O
+en	O
+sangre	O
+:	O
+48	O
+,	O
+8	O
+*	O
+.	O

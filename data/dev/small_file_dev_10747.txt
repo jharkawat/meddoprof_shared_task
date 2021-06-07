@@ -1,0 +1,12 @@
+
+Auscultación	O
+cardiaca	O
+rítmica	O
+y	O
+sin	O
+soplos	O
+,	O
+no	O
+edema	O
+periférico	O
+.	O

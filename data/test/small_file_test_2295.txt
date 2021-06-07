@@ -1,0 +1,10 @@
+
+No	O
+evidencia	O
+de	O
+masas	O
+ni	O
+imágenes	O
+de	O
+litiasis	O
+.	O

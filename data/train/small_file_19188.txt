@@ -1,0 +1,21 @@
+
+Tio	O
+paterno	O
+con	O
+antecedentes	O
+de	O
+consumo	O
+de	O
+cocaína	O
+,	O
+y	O
+heroína	O
+por	O
+vía	O
+parenteral	O
+,	O
+actualmente	O
+en	O
+remisión	O
+sostenida	O
+.	O

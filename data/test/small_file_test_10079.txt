@@ -1,0 +1,23 @@
+
+Ante	O
+los	O
+hallazgos	O
+clínicos	O
+y	O
+radiológicos	O
+,	O
+se	O
+decidió	O
+ingreso	O
+del	O
+paciente	O
+en	O
+el	O
+Servicio	O
+de	O
+Medicina	O
+Interna	O
+para	O
+completar	O
+estudio	O
+.	O

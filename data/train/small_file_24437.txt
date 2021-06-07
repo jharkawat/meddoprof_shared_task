@@ -1,0 +1,9 @@
+
+Sintomatología	O
+psicótica	O
+positiva	O
+residual	O
+e	O
+insight	O
+parcial	O
+.	O

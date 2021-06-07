@@ -1,0 +1,15 @@
+
+El	O
+electrocardiograma	O
+mostraba	O
+ritmo	O
+sinusal	O
+sin	O
+alteraciones	O
+del	O
+QRS	O
+ni	O
+de	O
+la	O
+repolarización	O
+.	O

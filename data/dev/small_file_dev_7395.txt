@@ -1,0 +1,13 @@
+
+Durante	O
+su	O
+estancia	O
+en	O
+la	O
+UCI	O
+fue	O
+presentado	O
+deterioro	O
+clínico	O
+progresivo	O
+.	O

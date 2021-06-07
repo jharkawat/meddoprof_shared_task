@@ -1,0 +1,9 @@
+
+No	O
+presenta	O
+antecedente	O
+familiar	O
+de	O
+clínica	O
+psicótica	O
+.	O

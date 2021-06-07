@@ -1,0 +1,11 @@
+
+Neoplasia	O
+pulmonar	O
+en	O
+LSD	O
+cT2a	O
+,	O
+N3	O
+,	O
+Mx	O
+.	O

@@ -1,0 +1,27 @@
+
+Se	O
+diseñan	O
+estrategias	O
+que	O
+incluyen	O
+servicio	O
+de	O
+atención	O
+a	O
+domicilio	O
+,	O
+inclusión	O
+en	O
+programas	O
+de	O
+tratamiento	O
+con	O
+neurolépticos	O
+depot	O
+y	O
+visitas	O
+domiciliarias	O
+con	O
+escasos	O
+resultados	O
+.	O

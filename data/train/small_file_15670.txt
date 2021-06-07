@@ -1,0 +1,18 @@
+
+Tres	O
+meses	O
+más	O
+tarde	O
+,	O
+la	O
+dosis	O
+de	O
+modafinilo	O
+del	O
+mediodía	O
+se	O
+redujo	O
+a	O
+la	O
+mitad	O
+.	O

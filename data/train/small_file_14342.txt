@@ -1,0 +1,12 @@
+
+Sin	O
+hábitos	O
+tóxicos	O
+,	O
+alergias	O
+medicamentosas	O
+ni	O
+antecedentes	O
+médicos	O
+conocidos	O
+.	O

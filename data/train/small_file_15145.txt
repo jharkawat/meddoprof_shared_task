@@ -1,0 +1,23 @@
+
+Durante	O
+el	O
+seguimiento	O
+en	O
+consultas	O
+se	O
+ha	O
+ido	O
+descendiendo	O
+la	O
+dosis	O
+de	O
+corticoides	O
+,	O
+hasta	O
+suspenderse	O
+al	O
+cabo	O
+de	O
+3	O
+meses	O
+.	O

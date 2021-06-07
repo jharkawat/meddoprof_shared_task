@@ -1,0 +1,14 @@
+
+Varón	O
+,	O
+extranjero	O
+,	O
+nacido	O
+en	O
+un	O
+país	O
+de	O
+la	O
+Comunidad	O
+Europea	O
+.	O

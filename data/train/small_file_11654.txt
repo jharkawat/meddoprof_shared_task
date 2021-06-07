@@ -1,0 +1,15 @@
+
+A	O
+las	O
+24	O
+horas	O
+la	O
+paciente	O
+pasa	O
+a	O
+estar	O
+afebril	O
+y	O
+recupera	O
+tensiones	O
+.	O

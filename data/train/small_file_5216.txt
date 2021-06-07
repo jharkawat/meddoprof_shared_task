@@ -1,0 +1,24 @@
+
+Diagnósticos	O
+a	O
+descartar	O
+:	O
+pérdidas	O
+digestivas	O
+,	O
+dados	O
+los	O
+antecedentes	O
+personales	O
+y	O
+familiares	O
+,	O
+angiodisplasias	O
+en	O
+paciente	O
+anticoagulada	O
+y	O
+con	O
+estenosis	O
+aortica	O
+.	O

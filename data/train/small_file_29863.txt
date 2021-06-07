@@ -1,0 +1,23 @@
+
+Estuvo	O
+durante	O
+mucho	O
+tiempo	O
+ingresado	O
+en	O
+un	O
+centro	O
+para	O
+enfermos	O
+mentales	O
+crónicos	O
+,	O
+así	O
+como	O
+en	O
+numerosas	O
+ocasiones	O
+hospitalizado	O
+de	O
+urgencia	O
+.	O

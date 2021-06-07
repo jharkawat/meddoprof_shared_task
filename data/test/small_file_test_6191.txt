@@ -1,0 +1,27 @@
+
+La	O
+semana	O
+previa	O
+había	O
+presentado	O
+2	O
+episodios	O
+de	O
+rectorragia	O
+,	O
+por	O
+lo	O
+que	O
+existe	O
+contraindicación	O
+absoluta	O
+para	O
+fibrinólisis	O
+(	O
+tema	O
+a	O
+debatir	O
+en	O
+discusión	O
+)	O
+.	O

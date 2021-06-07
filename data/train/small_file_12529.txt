@@ -1,0 +1,19 @@
+
+Se	O
+propuso	O
+a	O
+la	O
+paciente	O
+realizar	O
+biopsia	O
+por	O
+broncoscopia	O
+pero	O
+la	O
+paciente	O
+no	O
+accedió	O
+a	O
+dicha	O
+prueba	O
+.	O

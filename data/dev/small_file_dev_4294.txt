@@ -1,0 +1,18 @@
+
+Paciente	O
+de	O
+14	O
+años	O
+,	O
+sin	O
+antecedentes	O
+médicos	O
+de	O
+importancia	O
+,	O
+cadete	B-ACTIVIDAD
+de	I-ACTIVIDAD
+escuela	I-ACTIVIDAD
+de	I-ACTIVIDAD
+fútbol	I-ACTIVIDAD
+.	O

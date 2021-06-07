@@ -1,0 +1,25 @@
+
+Se	O
+solicita	O
+una	O
+ecografía	O
+cervical	O
+que	O
+informa	O
+de	O
+probable	O
+quiste	O
+branquial	O
+de	O
+2o	O
+arco	O
+,	O
+ante	O
+lo	O
+cual	O
+se	O
+decide	O
+solicitar	O
+un	O
+TAC	O
+.	O

@@ -1,0 +1,13 @@
+
+Destaca	O
+una	O
+marcada	O
+ictericia	O
+subconjuntival	O
+junto	O
+con	O
+sangrado	O
+en	O
+mucosa	O
+oral	O
+.	O

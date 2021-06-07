@@ -1,0 +1,8 @@
+
+Tensión	O
+Arterial	O
+:	O
+100	O
+/	O
+50	O
+mmHg	O

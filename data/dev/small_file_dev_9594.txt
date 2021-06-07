@@ -1,0 +1,21 @@
+
+Toma	O
+tratamiento	O
+psicofarmacológico	O
+de	O
+forma	O
+errada	O
+,	O
+pero	O
+sin	O
+seguimiento	O
+por	O
+parte	O
+de	O
+Psiquiatría	O
+desde	O
+el	O
+traslado	O
+de	O
+domicilio	O
+.	O

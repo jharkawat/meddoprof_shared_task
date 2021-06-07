@@ -1,0 +1,17 @@
+
+Mujer	O
+de	O
+17	O
+años	O
+diagnosticada	O
+de	O
+Síndrome	O
+de	O
+Lennox	O
+-	O
+Gastaut	O
+(	O
+encefalopatía	O
+epiléptica	O
+)	O
+.	O

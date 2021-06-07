@@ -1,0 +1,6 @@
+
+VDRL	O
+:	O
+no	O
+reactivo	O
+.	O

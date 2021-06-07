@@ -1,0 +1,12 @@
+
+Sin	O
+antecedentes	O
+patológicos	O
+de	O
+interés	O
+ni	O
+reacciones	O
+alérgicas	O
+medicamentosas	O
+conocidas	O
+.	O

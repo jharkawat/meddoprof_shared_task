@@ -1,0 +1,12 @@
+
+A	O
+las	O
+dos	O
+semanas	O
+recae	O
+en	O
+el	O
+consumo	O
+de	O
+cannabis	O
+.	O

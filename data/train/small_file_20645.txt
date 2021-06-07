@@ -1,0 +1,7 @@
+
+Psicoterapia	O
+individual	O
+con	O
+la	O
+niña	O
+.	O

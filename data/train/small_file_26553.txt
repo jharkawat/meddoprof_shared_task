@@ -1,0 +1,16 @@
+
+No	O
+había	O
+sido	O
+diagnosticada	O
+de	O
+ninguna	O
+patología	O
+y	O
+no	O
+describían	O
+otros	O
+antecedentes	O
+familiares	O
+psiquiátricos	O
+.	O

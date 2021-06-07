@@ -1,0 +1,17 @@
+
+En	O
+el	O
+mediastino	O
+y	O
+las	O
+regiones	O
+hiliares	O
+no	O
+se	O
+visualizaban	O
+adenopatías	O
+de	O
+tamaño	O
+radiológico	O
+significativo	O
+.	O

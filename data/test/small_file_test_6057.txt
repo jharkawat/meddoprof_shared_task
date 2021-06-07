@@ -1,0 +1,22 @@
+
+En	O
+abdomen	O
+y	O
+pelvis	O
+se	O
+confirmaron	O
+los	O
+hallazgos	O
+del	O
+TC	O
+visualizándose	O
+múltiples	O
+adenopatías	O
+hipermetabólicas	O
+sugestivas	O
+de	O
+malignidad	O
+a	O
+nivel	O
+reroperitoneal	O
+.	O

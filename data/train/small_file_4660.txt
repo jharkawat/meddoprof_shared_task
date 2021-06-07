@@ -1,0 +1,17 @@
+
+Debilidad	O
+en	O
+miembros	O
+izquierdos	O
+con	O
+tono	O
+presente	O
+aunque	O
+difícil	O
+de	O
+explorar	O
+por	O
+falta	O
+de	O
+colaboración	O
+.	O

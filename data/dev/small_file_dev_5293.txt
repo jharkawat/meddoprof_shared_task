@@ -1,0 +1,23 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+SIADH	O
+agudo	O
+,	O
+se	O
+completa	O
+estudio	O
+con	O
+CT	O
+craneal	O
+y	O
+tóraco	O
+-	O
+abdominal	O
+objetivándose	O
+únicamente	O
+hígado	O
+graso	O
+.	O

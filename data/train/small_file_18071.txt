@@ -1,0 +1,27 @@
+
+La	O
+quemosis	O
+conjuntival	O
+evolucionó	O
+rápidamente	O
+a	O
+hiposfagma	O
+generalizado	O
+permitiendo	O
+apreciar	O
+la	O
+existencia	O
+de	O
+una	O
+masa	O
+subconjuntival	O
+nasal	O
+superior	O
+que	O
+se	O
+correspondía	O
+con	O
+el	O
+cristalino	O
+prolapsado	O
+.	O

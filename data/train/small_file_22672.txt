@@ -1,0 +1,11 @@
+
+Iniciamos	O
+tratamiento	O
+con	O
+clorazepato	O
+dipotásico	O
+15	O
+mg	O
+/	O
+día	O
+.	O

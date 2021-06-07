@@ -1,0 +1,5 @@
+
+Pálido	O
+y	O
+sudoroso	O
+.	O

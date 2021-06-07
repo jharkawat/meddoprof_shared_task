@@ -1,0 +1,19 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+quetiapina	O
+hasta	O
+200	O
+mg	O
+al	O
+día	O
+,	O
+con	O
+remisión	O
+clínica	O
+y	O
+buena	O
+tolerancia	O
+.	O

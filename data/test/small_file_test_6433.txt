@@ -1,0 +1,16 @@
+
+-	O
+Ecografía	O
+mamaria	O
+y	O
+axilar	O
+bilateral	O
+:	O
+mama	O
+y	O
+axila	O
+izquierdas	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

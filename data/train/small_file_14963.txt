@@ -1,0 +1,27 @@
+
+Existen	O
+23	O
+casos	O
+publicados	O
+de	O
+tumores	O
+esofágicos	O
+,	O
+mayoritariamente	O
+de	O
+la	O
+unión	O
+gastroesofágica	O
+,	O
+siendo	O
+más	O
+frecuentes	O
+el	O
+carcinoma	O
+de	O
+células	O
+escamosas	O
+y	O
+el	O
+adenocarcinoma	O
+.	O

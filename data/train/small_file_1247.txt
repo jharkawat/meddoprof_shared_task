@@ -1,0 +1,12 @@
+
+El	O
+resto	O
+de	O
+antecedentes	O
+personales	O
+y	O
+familiares	O
+carecían	O
+de	O
+interés	O
+.	O

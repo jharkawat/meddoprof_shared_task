@@ -1,0 +1,22 @@
+
+En	O
+ésta	O
+se	O
+confirmó	O
+la	O
+afectación	O
+epidural	O
+además	O
+de	O
+un	O
+componente	O
+subdural	O
+y	O
+parietal	O
+del	O
+empiema	O
+de	O
+hasta	O
+16	O
+mm	O
+.	O

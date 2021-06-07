@@ -1,0 +1,26 @@
+
+En	O
+el	O
+tratamiento	O
+se	O
+realizaron	O
+etilometrías	O
+diarias	O
+mediante	O
+etilómetro	O
+digital	O
+,	O
+con	O
+el	O
+fin	O
+de	O
+supervisar	O
+la	O
+abstinencia	O
+y	O
+la	O
+buena	O
+evolución	O
+del	O
+caso	O
+.	O

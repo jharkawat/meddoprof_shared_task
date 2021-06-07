@@ -1,0 +1,8 @@
+
+No	O
+antecedente	O
+traumático	O
+ni	O
+sobreesfuerzo	O
+previo	O
+.	O

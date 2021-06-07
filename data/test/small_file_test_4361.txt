@@ -1,0 +1,10 @@
+
+Cuadro	O
+paraneoplásico	O
+cutáneo	O
+,	O
+compatible	O
+con	O
+dermatomiositis	O
+amiopática	O
+.	O

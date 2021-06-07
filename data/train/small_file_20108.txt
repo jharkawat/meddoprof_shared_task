@@ -1,0 +1,16 @@
+
+Se	O
+observó	O
+mejoría	O
+en	B-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+colegio	I-SITUACION_LABORAL
+,	O
+en	O
+la	O
+vida	O
+social	O
+y	O
+en	O
+casa	O
+.	O

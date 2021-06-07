@@ -1,0 +1,11 @@
+
+Las	O
+lesiones	O
+cutáneas	O
+en	O
+la	O
+sarcoidosis	O
+son	O
+muy	O
+variadas	O
+.	O

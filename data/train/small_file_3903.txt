@@ -1,0 +1,11 @@
+
+Juicio	O
+clínico	O
+(	O
+lista	O
+de	O
+problemas	O
+,	O
+diagnóstico	O
+diferencial	O
+)	O

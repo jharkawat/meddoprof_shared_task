@@ -1,0 +1,13 @@
+
+La	O
+exploración	O
+abdominal	O
+destaca	O
+,	O
+hepatomegalia	O
+no	O
+dolorosa	O
+de	O
+5	O
+cm	O
+.	O

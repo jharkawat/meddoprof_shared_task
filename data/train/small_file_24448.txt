@@ -1,0 +1,15 @@
+
+Entre	O
+los	O
+antecedentes	O
+psiquiátricos	O
+familiares	O
+la	O
+madre	O
+refiere	O
+sintomatologia	O
+ansiosa	O
+de	O
+larga	O
+evolución	O
+.	O

@@ -1,0 +1,23 @@
+
+Sarcoidosis	O
+hepática	O
+y	O
+ganglionar	O
+con	O
+trombosis	O
+portal	O
+asociada	O
+que	O
+evoluciona	O
+a	O
+cirrosis	O
+con	O
+hipertensión	O
+portal	O
+refractaria	O
+que	O
+precisa	O
+trasplante	O
+hepático	O
+ortotópico	O
+.	O

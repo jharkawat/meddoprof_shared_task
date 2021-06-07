@@ -1,0 +1,20 @@
+
+Antecedentes	O
+psiquiátricos	O
+:	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+,	O
+en	O
+seguimiento	O
+por	O
+psiquiatra	B-PROFESION
+privado	O
+y	O
+estabilizado	O
+psicopatológicamente	O
+durante	O
+años	O
+.	O

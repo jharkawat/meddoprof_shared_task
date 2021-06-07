@@ -1,0 +1,16 @@
+
+Tras	O
+la	O
+cesárea	O
+,	O
+la	O
+paciente	O
+es	O
+de	O
+nuevo	O
+valorada	O
+por	O
+psiquiatra	B-PROFESION
+de	O
+enlace	O
+.	O

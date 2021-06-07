@@ -1,0 +1,16 @@
+
+Antecedentes	O
+:	O
+La	O
+paciente	O
+creció	O
+en	O
+un	O
+pueblo	O
+,	O
+donde	O
+su	O
+padre	O
+era	O
+alfarero	B-PROFESION
+.	O

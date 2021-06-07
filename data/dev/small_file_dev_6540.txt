@@ -1,0 +1,22 @@
+
+Se	O
+solicitaron	O
+cultivos	O
+de	O
+orina	O
+,	O
+que	O
+resultaron	O
+negativos	O
+y	O
+hemocultivos	O
+,	O
+que	O
+dieron	O
+un	O
+resultado	O
+positivo	O
+para	O
+Brucella	O
+mellitensis	O
+.	O

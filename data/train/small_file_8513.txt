@@ -1,0 +1,6 @@
+
+Sin	O
+datos	O
+de	O
+hemólisis	O
+.	O

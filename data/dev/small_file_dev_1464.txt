@@ -1,0 +1,18 @@
+
+No	O
+refiere	O
+tener	O
+sentimientos	O
+de	O
+culpa	O
+de	O
+contenido	O
+religión	O
+o	O
+disculpas	O
+religiosas	O
+por	O
+la	O
+insuficiente	O
+alimentación	O
+.	O

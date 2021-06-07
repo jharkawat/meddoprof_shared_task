@@ -1,0 +1,8 @@
+
+Crisis	O
+maniformes	O
+inducidas	O
+versus	O
+trastorno	O
+bipolar	O
+.	O

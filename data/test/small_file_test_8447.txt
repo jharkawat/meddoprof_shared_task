@@ -1,0 +1,10 @@
+
+En	O
+tratamiento	O
+médico	O
+diario	O
+con	O
+levonorgestrel	O
+/	O
+etinilestradiol	O
+.	O

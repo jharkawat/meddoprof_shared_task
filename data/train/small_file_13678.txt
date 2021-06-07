@@ -1,0 +1,12 @@
+
+-	O
+ECG	O
+:	O
+en	O
+ritmo	O
+sinusal	O
+,	O
+con	O
+sobrecarga	O
+sistólica	O
+.	O

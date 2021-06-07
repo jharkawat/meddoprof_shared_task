@@ -1,0 +1,13 @@
+
+La	O
+autoinmunidad	O
+resultó	O
+negativa	O
+,	O
+así	O
+como	O
+el	O
+HLA	O
+-	O
+B27	O
+.	O

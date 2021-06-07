@@ -1,0 +1,4 @@
+
+Cultivo	O
+negativo	O
+.	O

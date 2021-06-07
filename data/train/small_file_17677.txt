@@ -1,0 +1,6 @@
+
+ACP	O
+-	O
+derecha	O
+permeable	O
+.	O

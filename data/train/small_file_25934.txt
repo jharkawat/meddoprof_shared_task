@@ -1,0 +1,24 @@
+
+En	O
+el	O
+mes	O
+de	O
+mayo	O
+de	O
+2008	O
+ingresa	O
+por	O
+síntomas	O
+confusionales	O
+y	O
+conducta	O
+agresiva	O
+,	O
+agrediendo	O
+a	O
+un	O
+policía	B-PROFESION
+con	O
+un	O
+cuchillo	O
+.	O

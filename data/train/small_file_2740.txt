@@ -1,0 +1,8 @@
+
+Sin	O
+presencia	O
+de	O
+defensa	O
+ni	O
+rebote	O
+.	O

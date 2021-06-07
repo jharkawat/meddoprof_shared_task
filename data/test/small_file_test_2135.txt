@@ -1,0 +1,20 @@
+
+Ecografía	O
+de	O
+la	O
+axila	O
+izquierda	O
+:	O
+ganglio	O
+sospechoso	O
+de	O
+11	O
+mm	O
+con	O
+engrosamiento	O
+cortical	O
+excéntrico	O
+que	O
+se	O
+biopsia	O
+.	O

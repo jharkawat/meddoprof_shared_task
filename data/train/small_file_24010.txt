@@ -1,0 +1,9 @@
+
+No	O
+se	O
+ha	O
+evidenciado	O
+sintomatología	O
+negativa	O
+concomitante	O
+.	O

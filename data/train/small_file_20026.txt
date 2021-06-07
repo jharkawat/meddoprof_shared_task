@@ -1,0 +1,18 @@
+
+A	O
+pesar	O
+de	O
+la	O
+contención	O
+,	O
+seguía	O
+muy	O
+agitado	O
+y	O
+decía	O
+que	O
+recibía	O
+mensajes	O
+de	O
+Dios	O
+.	O

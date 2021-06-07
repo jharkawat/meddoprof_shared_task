@@ -1,0 +1,26 @@
+
+Acudió	O
+a	O
+dicho	O
+centro	O
+alrededor	O
+de	O
+los	O
+doce	O
+años	O
+,	O
+según	O
+refieren	O
+los	O
+padres	O
+,	O
+porque	O
+presentaba	O
+dificultades	O
+para	O
+expresar	O
+sus	O
+emociones	O
+y	O
+preocupaciones	O
+.	O

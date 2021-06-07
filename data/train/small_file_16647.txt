@@ -1,0 +1,12 @@
+
+Durante	O
+su	O
+ingreso	O
+se	O
+inició	O
+tratamiento	O
+con	O
+anticomiciales	O
+y	O
+antiagregantes	O
+.	O

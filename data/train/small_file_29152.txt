@@ -1,0 +1,14 @@
+
+En	O
+enero	O
+de	O
+1995	O
+,	O
+se	O
+cambia	O
+pipotiacina	O
+y	O
+tioridacina	O
+por	O
+risperidona	O
+.	O

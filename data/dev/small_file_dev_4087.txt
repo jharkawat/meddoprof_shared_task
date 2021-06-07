@@ -1,0 +1,6 @@
+
+Mujer	O
+63	O
+años	O
+de	O
+edad	O

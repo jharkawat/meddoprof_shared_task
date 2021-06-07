@@ -1,0 +1,23 @@
+
+Dada	O
+las	O
+dificultades	O
+presentadas	O
+en	O
+el	O
+aprendizaje	O
+durante	O
+la	O
+infancia	O
+,	O
+se	O
+planteó	O
+en	O
+un	O
+principio	O
+el	O
+diagnóstico	O
+de	O
+TDAH	O
+inatento	O
+.	O

@@ -1,0 +1,19 @@
+
+Presencia	O
+de	O
+radiopacidad	O
+homogénea	O
+en	O
+la	O
+base	O
+pulmonar	O
+derecha	O
+que	O
+borraba	O
+el	O
+ángulo	O
+cardiofrénico	O
+de	O
+ese	O
+lado	O
+.	O

@@ -1,0 +1,21 @@
+
+Tenía	O
+buena	O
+relación	O
+con	O
+sus	O
+padres	O
+y	O
+sus	O
+dos	O
+hermanos	O
+y	O
+vivía	O
+de	O
+forma	O
+autónoma	O
+junto	O
+a	O
+su	O
+pareja	O
+.	O

@@ -1,0 +1,27 @@
+
+Además	O
+,	O
+tiene	O
+otros	O
+dos	O
+hermanos	O
+menores	O
+de	O
+edad	O
+(	O
+de	O
+14	O
+y	O
+9	O
+años	O
+)	O
+,	O
+cuya	O
+custodia	O
+se	O
+ha	O
+retirado	O
+a	O
+los	O
+padres	O
+.	O

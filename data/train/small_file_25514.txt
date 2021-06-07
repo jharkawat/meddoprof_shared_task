@@ -1,0 +1,26 @@
+
+Esta	O
+dosis	O
+se	O
+mantiene	O
+hasta	O
+principios	O
+de	O
+noviembre	O
+,	O
+cuando	O
+manifiesta	O
+intranquilidad	O
+y	O
+se	O
+eleva	O
+a	O
+18	O
+mg	O
+/	O
+día	O
+de	O
+buprenorfina	O
+/	O
+naloxona	O
+.	O

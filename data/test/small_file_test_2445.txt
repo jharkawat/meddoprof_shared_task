@@ -1,0 +1,6 @@
+
+No	O
+afasias	O
+ni	O
+disnomias	O
+.	O

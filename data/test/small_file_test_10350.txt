@@ -1,0 +1,27 @@
+
+»	O
+RM	O
+cerebral	O
+con	O
+contraste	O
+:	O
+lesión	O
+hemorrágica	O
+temporal	O
+derecha	O
+(	O
+2	O
+,	O
+8	O
+cm	O
+)	O
+y	O
+occipital	O
+izquierda	O
+(	O
+3	O
+,	O
+5	O
+cm	O
+)	O
+.	O

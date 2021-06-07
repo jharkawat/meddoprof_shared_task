@@ -1,0 +1,21 @@
+
+No	O
+refiere	O
+alteraciones	O
+durante	O
+el	O
+embarazo	O
+de	O
+su	O
+madre	O
+,	O
+ni	O
+en	O
+el	O
+parto	O
+ni	O
+en	O
+el	O
+desarrollo	O
+psicomotor	O
+.	O

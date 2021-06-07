@@ -1,0 +1,16 @@
+
+Se	O
+instauro	O
+tratamiento	O
+con	O
+antiinflamatorios	O
+no	O
+esteroideos	O
+,	O
+siendo	O
+remitido	O
+a	O
+nuestras	O
+consultas	O
+externas	O
+.	O

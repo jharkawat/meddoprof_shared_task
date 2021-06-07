@@ -1,0 +1,18 @@
+
+Diagnóstico	O
+diferencial	O
+amplio	O
+por	O
+lo	O
+que	O
+se	O
+decide	O
+biopsia	O
+(	O
+BAG	O
+)	O
+de	O
+músculo	O
+ilíaco	O
+derecho	O
+.	O

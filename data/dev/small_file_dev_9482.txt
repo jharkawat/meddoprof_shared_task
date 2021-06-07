@@ -1,0 +1,24 @@
+
+Plastia	O
+aórtica	O
+(	O
+técnica	O
+David	O
+)	O
+,	O
+velos	O
+finos	O
+,	O
+buena	O
+apertura	O
+(	O
+gradiente	O
+máx	O
+5	O
+mmHg	O
+/	O
+gradiente	O
+medio	O
+2mmHg	O
+)	O
+.	O

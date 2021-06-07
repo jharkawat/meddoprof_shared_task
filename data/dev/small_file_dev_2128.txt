@@ -1,0 +1,5 @@
+
+Persiste	O
+cierta	O
+perplejidad	O
+.	O

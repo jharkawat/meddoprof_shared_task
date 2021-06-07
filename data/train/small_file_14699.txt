@@ -1,0 +1,22 @@
+
+En	O
+ese	O
+momento	O
+,	O
+no	O
+refería	O
+dolor	O
+ni	O
+inflamación	O
+en	O
+MSD	O
+,	O
+pero	O
+sí	O
+ligera	O
+disnea	O
+en	O
+esa	O
+última	O
+semana	O
+.	O

@@ -1,0 +1,8 @@
+
+Diagnóstico	O
+DSM	O
+-	O
+IV	O
+-	O
+R	O
+:	O

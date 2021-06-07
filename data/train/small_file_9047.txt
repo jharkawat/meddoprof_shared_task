@@ -1,0 +1,20 @@
+
+Se	O
+practica	O
+un	O
+arteriografía	O
+vía	O
+braquial	O
+izquierda	O
+y	O
+se	O
+emboliza	O
+rama	O
+de	O
+arteria	O
+subclavia	O
+izquierda	O
+responsable	O
+del	O
+sangrado	O
+.	O

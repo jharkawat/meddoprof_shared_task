@@ -1,0 +1,8 @@
+
+Sibilancias	O
+dispersas	O
+e	O
+hipoventilación	O
+basal	O
+izquierda	O
+.	O

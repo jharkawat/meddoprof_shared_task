@@ -1,0 +1,8 @@
+
+Cultivo	O
+de	O
+Aspirado	O
+Bronquial	O
+:	O
+Negativo	O
+.	O

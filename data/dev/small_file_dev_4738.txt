@@ -1,0 +1,20 @@
+
+TAC	O
+cerebral	O
+informa	O
+:	O
+ocupación	O
+parcial	O
+de	O
+seno	O
+frontal	O
+y	O
+celdillas	O
+etmoidales	O
+con	O
+ocupación	O
+completa	O
+de	O
+seno	O
+esfenoidal	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+muestra	O
+alteraciones	O
+cardiológicas	O
+ni	O
+respiratorias	O
+.	O

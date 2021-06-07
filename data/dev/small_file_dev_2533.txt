@@ -1,0 +1,15 @@
+
+Tratamiento	O
+final	O
+:	O
+solo	O
+3	O
+comprimidos	O
+de	O
+clozapina	O
+de	O
+100	O
+mg	O
+al	O
+día	O
+.	O

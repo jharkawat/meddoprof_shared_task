@@ -1,0 +1,24 @@
+
+La	O
+hibridación	O
+in	O
+situ	O
+para	O
+EBER	O
+ha	O
+resultado	O
+Diagnóstico	O
+positiva	O
+.	O
+:	O
+Linfoma	O
+no	O
+Hodgkin	O
+NT	O
+/	O
+K	O
+extranodal	O
+de	O
+tipo	O
+nasal	O
+.	O

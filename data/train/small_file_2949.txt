@@ -1,0 +1,9 @@
+
+Extremidades	O
+inferiores	O
+con	O
+edema	O
+importante	O
+hasta	O
+rodilla	O
+.	O

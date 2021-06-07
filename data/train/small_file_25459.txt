@@ -1,0 +1,10 @@
+
+Recibe	O
+atención	O
+psicológica	O
+a	O
+demanda	O
+y	O
+tratamiento	O
+psicofarmacológico	O
+.	O

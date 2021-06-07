@@ -1,0 +1,7 @@
+
+No	O
+adenopatías	O
+mediastínicas	O
+ni	O
+hiliares	O
+.	O

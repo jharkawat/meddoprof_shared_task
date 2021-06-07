@@ -1,0 +1,23 @@
+
+En	O
+el	O
+resto	O
+de	O
+la	O
+exploración	O
+física	O
+no	O
+había	O
+ningún	O
+otro	O
+dato	O
+a	O
+destacar	O
+,	O
+incluido	O
+el	O
+ECG	O
+que	O
+fue	O
+normal	O
+.	O

@@ -1,0 +1,12 @@
+
+Se	O
+realizó	O
+biopsia	O
+de	O
+médula	O
+ósea	O
+que	O
+descarta	O
+síndrome	O
+linfoproliferativo	O
+.	O

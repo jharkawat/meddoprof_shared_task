@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+pertenece	O
+a	O
+un	O
+tipo	O
+de	O
+familia	O
+nuclear	O
+íntegra	O
+,	O
+en	O
+fase	O
+de	O
+contracción	O
+completa	O
+.	O

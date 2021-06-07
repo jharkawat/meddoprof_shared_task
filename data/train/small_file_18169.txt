@@ -1,0 +1,12 @@
+
+La	O
+vivienda	O
+se	O
+encontró	O
+completamente	O
+cerrada	O
+y	O
+en	O
+perfecto	O
+orden	O
+.	O

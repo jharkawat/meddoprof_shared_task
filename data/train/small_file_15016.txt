@@ -1,0 +1,15 @@
+
+No	O
+ha	O
+presentado	O
+episodios	O
+presincopales	O
+ni	O
+síncopes	O
+previamente	O
+ni	O
+otra	O
+sintomatología	O
+respiratoria	O
+acompañante	O
+.	O

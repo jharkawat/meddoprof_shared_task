@@ -1,0 +1,11 @@
+
+La	O
+radiografía	O
+simple	O
+de	O
+abdomen	O
+no	O
+mostraba	O
+alteraciones	O
+reseñables	O
+.	O

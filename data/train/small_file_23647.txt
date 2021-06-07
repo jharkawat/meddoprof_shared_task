@@ -1,0 +1,22 @@
+
+Sale	O
+de	O
+alta	O
+con	O
+los	O
+mismos	O
+diagnósticos	O
+y	O
+en	O
+tratamiento	O
+con	O
+haloperidol	O
+,	O
+suspendiendo	O
+la	O
+medicación	O
+nuevamente	O
+nada	O
+más	O
+salir	O
+.	O

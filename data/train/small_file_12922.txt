@@ -1,0 +1,19 @@
+
+Discectomía	O
+ligeramente	O
+aumentada	O
+,	O
+extracción	O
+de	O
+la	O
+hernia	O
+extruída	O
+C6C7	O
+masiva	O
+con	O
+facilidad	O
+en	O
+cuatro	O
+fragmentos	O
+grandes	O
+.	O

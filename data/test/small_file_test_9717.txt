@@ -1,0 +1,13 @@
+
+Destaca	O
+por	O
+ser	O
+hipovascular	O
+y	O
+con	O
+realce	O
+periférico	O
+de	O
+forma	O
+nodular	O
+.	O

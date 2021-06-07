@@ -1,0 +1,5 @@
+
+No	O
+IQ	O
+relevantes	O
+.	O

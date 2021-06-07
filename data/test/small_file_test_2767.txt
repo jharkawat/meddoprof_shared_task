@@ -1,0 +1,5 @@
+
+Ex	O
+bebedor	O
+severo	O
+.	O

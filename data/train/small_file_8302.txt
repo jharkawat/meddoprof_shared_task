@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+refiere	O
+los	O
+días	O
+previos	O
+inquietud	O
+por	O
+la	O
+que	O
+acudió	O
+a	O
+Médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+siendo	O
+diagnosticada	O
+de	O
+ansiedad	O
+.	O

@@ -1,0 +1,26 @@
+
+Se	O
+solicitaron	O
+hemocultivos	O
+que	O
+resultaron	O
+positivos	O
+para	O
+Staphylococcus	O
+epidermidis	O
+y	O
+se	O
+sospechó	O
+endocarditis	O
+,	O
+realizándose	O
+ecocardiograma	O
+que	O
+mostró	O
+una	O
+vegetación	O
+sobre	O
+válvula	O
+aórtica	O
+degenerativa	O
+.	O

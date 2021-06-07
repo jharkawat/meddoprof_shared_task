@@ -1,0 +1,15 @@
+
+Antecedente	O
+de	O
+cáncer	O
+de	O
+colon	O
+,	O
+operado	O
+hace	O
+15	O
+años	O
+como	O
+único	O
+tratamiento	O
+.	O

@@ -1,0 +1,23 @@
+
+Tras	O
+una	O
+adecuada	O
+valoración	O
+se	O
+realiza	O
+un	O
+plan	O
+individual	O
+de	O
+rehabilitación	O
+donde	O
+se	O
+incluye	O
+la	O
+necesidad	O
+de	O
+ajuste	O
+farmacológico	O
+con	O
+clozapina	O
+.	O

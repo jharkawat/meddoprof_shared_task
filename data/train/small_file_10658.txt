@@ -1,0 +1,19 @@
+
+En	O
+noviembre	O
+de	O
+2018	O
+,	O
+sufrió	O
+una	O
+caída	O
+accidental	O
+,	O
+con	O
+resultado	O
+de	O
+fractura	O
+de	O
+húmero	O
+derecho	O
+.	O

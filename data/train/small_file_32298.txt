@@ -1,0 +1,8 @@
+
+Antecedentes	O
+personales	O
+:	O
+natural	O
+de	O
+Marruecos	O
+.	O

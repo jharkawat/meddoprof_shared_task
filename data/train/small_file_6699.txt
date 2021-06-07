@@ -1,0 +1,24 @@
+
+Actualmente	O
+el	O
+paciente	O
+continúa	O
+a	O
+seguimiento	O
+en	O
+consultas	O
+debido	O
+a	O
+la	O
+psoriasis	O
+sin	O
+que	O
+se	O
+evidenciaran	O
+cambios	O
+en	O
+las	O
+lesiones	O
+de	O
+argiria	O
+.	O

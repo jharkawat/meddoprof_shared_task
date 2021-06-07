@@ -1,0 +1,6 @@
+
+Padre	O
+consumidor	O
+de	O
+tóxicos	O
+.	O

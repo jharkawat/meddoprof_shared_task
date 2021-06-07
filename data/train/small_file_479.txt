@@ -1,0 +1,13 @@
+
+Médico	B-PROFESION
+:	O
+Agapito	O
+Adrián	O
+Núñez	O
+Serrano	O
+NºCol	O
+:	O
+28	O
+28	O
+01346	O
+.	O

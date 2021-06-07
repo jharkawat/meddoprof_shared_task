@@ -1,0 +1,25 @@
+
+Las	O
+infecciones	O
+micóticas	O
+generalmente	O
+producen	O
+enfermedad	O
+pulmonar	O
+,	O
+pero	O
+en	O
+ocasiones	O
+se	O
+diseminan	O
+por	O
+el	O
+torrente	O
+sanguíneo	O
+y	O
+dan	O
+lugar	O
+a	O
+osteomielitis	O
+vertebral	O
+.	O

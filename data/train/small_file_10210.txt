@@ -1,0 +1,16 @@
+
+En	O
+la	O
+muestra	O
+recibida	O
+no	O
+se	O
+observa	O
+displasia	O
+epitelial	O
+ni	O
+signos	O
+de	O
+malignidad	O
+histológica	O
+.	O

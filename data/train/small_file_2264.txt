@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+Ingreso	O
+:	O
+04	O
+/	O
+03	O
+/	O
+2014	O
+.	O

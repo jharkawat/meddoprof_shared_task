@@ -1,0 +1,8 @@
+
+Tratamiento	O
+realizado	O
+en	O
+otra	O
+institución	O
+médica	O
+.	O

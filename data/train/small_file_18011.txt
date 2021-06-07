@@ -1,0 +1,24 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+carmabacepina	O
+,	O
+primero	O
+con	O
+200	O
+mg	O
+y	O
+posteriormente	O
+con	O
+400	O
+mg	O
+al	O
+día	O
+,	O
+mejorando	O
+los	O
+síntomas	O
+significativamente	O
+.	O

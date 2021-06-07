@@ -1,0 +1,6 @@
+
+Se	O
+ingresa	O
+en	O
+cardiología	O
+.	O

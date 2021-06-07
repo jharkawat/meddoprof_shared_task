@@ -1,0 +1,16 @@
+
+-	O
+El	O
+resultado	O
+anatomopatológico	O
+de	O
+la	O
+lesión	O
+endobronquial	O
+obtenida	O
+por	O
+fibrobroncoscopia	O
+es	O
+carcinoma	O
+epidermoide	O
+.	O

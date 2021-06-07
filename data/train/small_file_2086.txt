@@ -1,0 +1,26 @@
+
+Esta	O
+se	O
+origina	O
+tras	O
+haber	O
+estado	O
+recordando	O
+la	O
+tarde	O
+anterior	O
+el	O
+atentado	O
+con	O
+otro	O
+compañero	B-SITUACION_LABORAL
+,	O
+también	O
+herido	O
+,	O
+al	O
+que	O
+daban	O
+de	O
+alta	O
+.	O

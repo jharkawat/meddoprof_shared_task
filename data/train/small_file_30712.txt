@@ -1,0 +1,16 @@
+
+El	O
+discurso	O
+estaba	O
+centrado	O
+únicamente	O
+en	O
+temática	O
+delirante	O
+de	O
+tipo	O
+religioso	O
+,	O
+con	O
+pararrespuestas	O
+.	O

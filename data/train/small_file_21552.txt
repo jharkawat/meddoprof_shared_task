@@ -1,0 +1,15 @@
+
+Tras	O
+el	O
+tratamiento	O
+psicoterapéutico	O
+y	O
+farmacológico	O
+(	O
+tranquilizante	O
+y	O
+antidepresivo	O
+)	O
+se	O
+recuperó	O
+.	O

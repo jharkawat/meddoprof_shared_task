@@ -1,0 +1,25 @@
+
+Presentaba	O
+además	O
+exantema	O
+macular	O
+generalizado	O
+con	O
+afectación	O
+de	O
+cara	O
+,	O
+tronco	O
+,	O
+extremidades	O
+y	O
+palmas	O
+de	O
+ambas	O
+manos	O
+,	O
+sin	O
+petequias	O
+ni	O
+equímosis	O
+.	O

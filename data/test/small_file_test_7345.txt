@@ -1,0 +1,26 @@
+
+Sin	O
+embargo	O
+,	O
+ingresa	O
+el	O
+05	O
+/	O
+05	O
+/	O
+2017	O
+por	O
+un	O
+cuadro	O
+suboclusivo	O
+secundario	O
+a	O
+la	O
+afectación	O
+peritoneal	O
+con	O
+deterioro	O
+del	O
+estado	O
+general	O
+.	O

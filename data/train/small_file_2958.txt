@@ -1,0 +1,5 @@
+
+Hipertensión	O
+pulmonar	O
+secundaria	O
+.	O

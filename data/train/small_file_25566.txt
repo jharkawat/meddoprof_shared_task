@@ -1,0 +1,19 @@
+
+En	O
+las	O
+sucesivas	O
+revisiones	O
+ambulatorias	O
+el	O
+paciente	O
+se	O
+mantiene	O
+eutímico	O
+,	O
+adaptado	O
+socio	O
+-	O
+laboralmente	O
+y	O
+abstinente	O
+.	O

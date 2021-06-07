@@ -1,0 +1,16 @@
+
+Pérdida	O
+de	O
+visión	O
+es	O
+la	O
+complicación	O
+más	O
+grave	O
+(	O
+neuritis	O
+óptica	O
+anterior	O
+isquémica	O
+)	O
+.	O

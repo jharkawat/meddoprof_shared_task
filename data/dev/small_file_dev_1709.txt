@@ -1,0 +1,9 @@
+
+paliperidona	O
+inyectable	O
+150	O
+mg	O
+/	O
+28	O
+días	O
+.	O

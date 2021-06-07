@@ -1,0 +1,16 @@
+
+Desviación	O
+bucal	O
+hacia	O
+lado	O
+sano	O
+y	O
+desaparición	O
+de	O
+arrugas	O
+en	O
+frente	O
+del	O
+lado	O
+afectado	O
+.	O

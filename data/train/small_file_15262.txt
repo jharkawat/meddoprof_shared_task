@@ -1,0 +1,17 @@
+
+Se	O
+realiza	O
+biopsia	O
+de	O
+arteria	O
+temporal	O
+para	O
+descartar	O
+arteritis	O
+de	O
+células	O
+gigantes	O
+que	O
+es	O
+negativa	O
+.	O

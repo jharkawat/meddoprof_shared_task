@@ -1,0 +1,15 @@
+
+La	O
+hija	O
+de	O
+la	O
+paciente	O
+,	O
+asintomática	O
+,	O
+presenta	O
+asimismo	O
+deficiencia	O
+de	O
+PFK	O
+.	O

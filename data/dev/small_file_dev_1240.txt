@@ -1,0 +1,16 @@
+
+Antecedentes	O
+médicos	O
+:	O
+RAMC	O
+:	O
+distonía	O
+tras	O
+administración	O
+de	O
+haloperidol	O
+,	O
+clorpromacina	O
+y	O
+flufenazina	O
+.	O

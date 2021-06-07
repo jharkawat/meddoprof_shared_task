@@ -1,0 +1,22 @@
+
+Asociación	O
+con	O
+la	O
+Polimialgia	O
+Reumática	O
+en	O
+un	O
+50	O
+%	O
+de	O
+los	O
+casos	O
+,	O
+pudiendo	O
+ser	O
+en	O
+ocasiones	O
+el	O
+único	O
+síntoma	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+consume	O
+productos	O
+de	O
+herbolario	O
+.	O

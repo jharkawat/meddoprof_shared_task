@@ -1,0 +1,13 @@
+
+Varón	O
+de	O
+52	O
+años	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+,	O
+informático	B-PROFESION
+.	O

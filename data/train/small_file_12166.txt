@@ -1,0 +1,22 @@
+
+La	O
+medicación	O
+crónica	O
+que	O
+tomaba	O
+actualmente	O
+consistía	O
+en	O
+metformina	O
+,	O
+vildagliptina	O
+e	O
+ibuprofeno	O
+en	O
+el	O
+último	O
+mes	O
+por	O
+dolor	O
+lumbar	O
+.	O

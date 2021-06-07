@@ -1,0 +1,15 @@
+
+La	O
+ecografía	O
+abdominal	O
+realizada	O
+no	O
+aportó	O
+información	O
+relevante	O
+para	O
+el	O
+caso	O
+en	O
+cuestión	O
+.	O

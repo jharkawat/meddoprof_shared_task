@@ -1,0 +1,6 @@
+
+Sedación	O
+por	O
+intubación	O
+orotraqueal	O
+.	O

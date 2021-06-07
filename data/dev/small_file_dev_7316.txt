@@ -1,0 +1,14 @@
+
+Los	O
+miembros	O
+inferiores	O
+no	O
+presentaban	O
+edemas	O
+ni	O
+signos	O
+de	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

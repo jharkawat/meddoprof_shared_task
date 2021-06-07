@@ -1,0 +1,18 @@
+
+Se	O
+realizó	O
+una	O
+PAAF	O
+de	O
+la	O
+articulación	O
+condroesternal	O
+con	O
+cultivo	O
+negativo	O
+(	O
+bajo	O
+tratamiento	O
+antibiótico	O
+)	O
+.	O

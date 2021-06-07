@@ -1,0 +1,17 @@
+
+En	O
+contra	O
+de	O
+este	O
+diagnóstico	O
+,	O
+está	O
+la	O
+negatividad	O
+para	O
+malignidad	O
+del	O
+TC	O
+de	O
+tórax	O
+.	O

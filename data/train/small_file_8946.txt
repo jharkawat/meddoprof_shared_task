@@ -1,0 +1,18 @@
+
+Negativas	O
+:	O
+Mycoplasma	O
+pneumoniae	O
+,	O
+Legionella	O
+pneumophila	O
+,	O
+Hidatidosis	O
+,	O
+VIH	O
+,	O
+Chlamydia	O
+trachomatis	O
+y	O
+psitacci	O
+.	O

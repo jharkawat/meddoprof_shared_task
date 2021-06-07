@@ -1,0 +1,6 @@
+
+No	O
+enfermedades	O
+de	O
+interés	O
+.	O

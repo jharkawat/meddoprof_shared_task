@@ -1,0 +1,11 @@
+
+No	O
+otras	O
+lesiones	O
+en	O
+el	O
+resto	O
+del	O
+tegumento	O
+cutáneo	O
+.	O

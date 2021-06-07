@@ -1,0 +1,12 @@
+
+Diarrea	O
+con	O
+presencia	O
+de	O
+grasa	O
+y	O
+heces	O
+con	O
+color	O
+arcilla	O
+.	O

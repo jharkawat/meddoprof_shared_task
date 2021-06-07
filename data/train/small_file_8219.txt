@@ -1,0 +1,20 @@
+
+Ingresó	O
+para	O
+estudio	O
+de	O
+dolor	O
+lumbo	O
+-	O
+sacro	O
+,	O
+síndrome	O
+general	O
+y	O
+fiebre	O
+de	O
+3	O
+meses	O
+de	O
+evolución	O
+.	O

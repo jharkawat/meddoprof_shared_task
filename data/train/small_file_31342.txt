@@ -1,0 +1,21 @@
+
+Tuvo	O
+un	O
+buen	O
+rendimiento	O
+académico	O
+,	O
+pero	O
+tuvo	O
+dificultad	O
+para	O
+interaccionar	O
+con	O
+sus	O
+iguales	O
+(	O
+escasas	O
+habilidades	O
+sociales	O
+)	O
+.	O

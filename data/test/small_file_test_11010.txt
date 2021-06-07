@@ -1,0 +1,11 @@
+
+Derrame	O
+pleural	O
+derecho	O
+con	O
+imagen	O
+de	O
+condensación	O
+pulmonar	O
+derecha	O
+.	O

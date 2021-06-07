@@ -1,0 +1,5 @@
+
+Antígeno	O
+criptocócico	O
+negativo	O
+.	O

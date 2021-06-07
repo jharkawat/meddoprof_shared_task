@@ -1,0 +1,14 @@
+
+Su	O
+esposo	O
+la	O
+describió	O
+como	O
+una	O
+persona	O
+serena	O
+,	O
+sociable	O
+y	O
+jovial	O
+.	O

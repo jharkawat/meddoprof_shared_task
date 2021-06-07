@@ -1,0 +1,22 @@
+
+Tratamiento	O
+habitual	O
+:	O
+omeprazol	O
+20	O
+mg	O
+/	O
+día	O
+,	O
+rosuvastatina	O
+10	O
+mg	O
+/	O
+día	O
+y	O
+paroxetina	O
+20	O
+mg	O
+/	O
+día	O
+.	O

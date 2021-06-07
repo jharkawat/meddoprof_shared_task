@@ -1,0 +1,11 @@
+
+Durante	O
+el	O
+ingreso	O
+en	O
+Medicina	O
+Interna	O
+inicia	O
+radioterapia	O
+holocraneal	O
+.	O

@@ -1,0 +1,10 @@
+
+Acudía	O
+a	O
+nuestra	O
+consulta	O
+acompañado	O
+por	O
+su	O
+mujer	O
+.	O

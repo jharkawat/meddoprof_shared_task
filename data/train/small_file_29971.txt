@@ -1,0 +1,22 @@
+
+Se	O
+le	O
+diagnostica	O
+de	O
+episodio	O
+de	O
+flash	O
+-	O
+back	O
+en	O
+relación	O
+con	O
+el	O
+consumo	O
+de	O
+cannabis	O
+y	O
+se	O
+pautan	O
+ansiolíticos	O
+.	O

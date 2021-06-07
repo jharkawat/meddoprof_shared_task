@@ -1,0 +1,16 @@
+
+La	O
+situación	O
+familiar	O
+ha	O
+empeorado	O
+tras	O
+el	O
+ingreso	O
+en	B-SITUACION_LABORAL
+prisión	I-SITUACION_LABORAL
+del	O
+cabeza	O
+de	O
+familia	O
+.	O

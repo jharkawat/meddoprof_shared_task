@@ -1,0 +1,12 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+se	O
+observaron	O
+infiltrados	O
+alveolares	O
+bilaterales	O
+.	O

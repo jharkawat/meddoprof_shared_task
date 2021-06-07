@@ -1,0 +1,5 @@
+
+No	O
+globo	O
+vesical	O
+.	O

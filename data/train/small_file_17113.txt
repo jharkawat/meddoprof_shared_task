@@ -1,0 +1,24 @@
+
+Con	O
+este	O
+motivo	O
+se	O
+solicitó	O
+una	O
+TC	O
+craneal	O
+urgente	O
+,	O
+que	O
+puso	O
+de	O
+manifiesto	O
+datos	O
+sugerentes	O
+de	O
+trombosis	O
+del	O
+sistema	O
+profundo	O
+venoso	O
+.	O

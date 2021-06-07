@@ -1,0 +1,12 @@
+
+Craneotomía	O
+que	O
+muestra	O
+la	O
+lesión	O
+ocupante	O
+de	O
+espacio	O
+temporal	O
+derecha	O
+.	O

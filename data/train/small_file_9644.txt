@@ -1,0 +1,18 @@
+
+Reconoce	O
+comer	O
+escasamente	O
+desde	O
+hace	O
+1	O
+an	O
+̃	O
+o	O
+(	O
+analítica	O
+en	O
+ese	O
+periodo	O
+normal	O
+)	O
+.	O

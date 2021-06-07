@@ -1,0 +1,14 @@
+
+Abandono	O
+del	O
+autocuidado	O
+,	O
+así	O
+como	O
+el	O
+de	O
+su	O
+mascota	O
+y	O
+domicilio	O
+.	O

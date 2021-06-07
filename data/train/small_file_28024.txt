@@ -1,0 +1,13 @@
+
+Miriam	O
+se	O
+sentía	O
+agradecida	O
+por	O
+los	O
+esfuerzos	O
+de	O
+Ricardo	O
+por	O
+ayudarla	O
+.	O

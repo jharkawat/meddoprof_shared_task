@@ -1,0 +1,9 @@
+
+TSH	O
+,	O
+T3	O
+y	O
+anticuerpos	O
+antitiroideos	O
+normales	O
+.	O

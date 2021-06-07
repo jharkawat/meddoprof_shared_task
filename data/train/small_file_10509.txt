@@ -1,0 +1,10 @@
+
+Cazador	B-ACTIVIDAD
+y	O
+consumidor	O
+habitual	O
+de	O
+carne	O
+de	O
+jabalí	O
+.	O

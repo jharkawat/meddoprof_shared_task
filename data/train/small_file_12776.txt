@@ -1,0 +1,20 @@
+
+Como	O
+antecedentes	O
+personales	O
+,	O
+fue	O
+fruto	O
+de	O
+un	O
+embarazo	O
+conseguido	O
+de	O
+forma	O
+natural	O
+,	O
+controlado	O
+y	O
+sin	O
+incidencias	O
+.	O

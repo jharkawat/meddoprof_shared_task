@@ -1,0 +1,12 @@
+
+Embarazo	O
+gemelar	O
+sin	O
+complicaciones	O
+,	O
+nacieron	O
+en	O
+la	O
+semana	O
+39	O
+.	O

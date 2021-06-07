@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+cumple	O
+los	O
+criterios	O
+DSM	O
+IV	O
+para	O
+esquizofrenia	O
+y	O
+trastorno	O
+límite	O
+de	O
+la	O
+personalidad	O
+.	O

@@ -1,0 +1,26 @@
+
+Un	O
+fondo	O
+de	O
+ojo	O
+mostró	O
+edema	O
+de	O
+papila	O
+con	O
+tortuosidad	O
+de	O
+los	O
+vasos	O
+venosos	O
+en	O
+retina	O
+derecha	O
+,	O
+junto	O
+con	O
+hemorragias	O
+en	O
+astilla	O
+peripapilares	O
+.	O

@@ -1,0 +1,14 @@
+
+Se	O
+solicitan	O
+niveles	O
+de	O
+ácido	O
+valproico	O
+con	O
+resultado	O
+de	O
+70	O
+,	O
+9	O
+.	O

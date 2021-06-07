@@ -1,0 +1,13 @@
+
+Relataron	O
+que	O
+no	O
+tenía	O
+alergias	O
+,	O
+ni	O
+antecedentes	O
+orgánicos	O
+de	O
+interés	O
+.	O

@@ -1,0 +1,13 @@
+
+Diagnóstico	O
+:	O
+sarcoma	O
+pleomórfico	O
+cuyo	O
+inmunofenotipo	O
+es	O
+encuadrable	O
+en	O
+rabdomiosarcoma	O
+pleomórfico	O
+.	O

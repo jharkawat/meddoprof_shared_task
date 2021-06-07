@@ -1,0 +1,24 @@
+
+Se	O
+objetivó	O
+agresividad	O
+verbal	O
+hacia	O
+la	O
+madre	O
+,	O
+que	O
+además	O
+insistía	O
+en	O
+que	O
+estaba	O
+bien	O
+"	O
+es	O
+un	O
+niño	O
+muy	O
+bueno	O
+"	O
+.	O

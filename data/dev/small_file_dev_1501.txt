@@ -1,0 +1,9 @@
+
+Discurso	O
+minimizador	O
+,	O
+centrado	O
+en	O
+patología	O
+somática	O
+.	O

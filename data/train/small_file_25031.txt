@@ -1,0 +1,13 @@
+
+No	O
+se	O
+registran	O
+alteraciones	O
+del	O
+embarazo	O
+,	O
+parto	O
+o	O
+desarrollo	O
+psicomotor	O
+.	O

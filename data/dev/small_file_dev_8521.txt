@@ -1,0 +1,10 @@
+
+No	O
+hábitos	O
+tóxicos	O
+ni	O
+otros	O
+antecedentes	O
+de	O
+interés	O
+.	O

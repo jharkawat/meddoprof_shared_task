@@ -1,0 +1,24 @@
+
+En	O
+los	O
+tres	O
+últimos	O
+años	O
+no	O
+se	O
+han	O
+producido	O
+nuevas	O
+recaídas	O
+afectivas	O
+,	O
+alteraciones	O
+en	O
+la	O
+motilidad	O
+del	O
+paciente	O
+ni	O
+alteraciones	O
+neurovegetativas	O
+.	O

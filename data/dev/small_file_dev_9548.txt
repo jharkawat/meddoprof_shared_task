@@ -1,0 +1,18 @@
+
+Se	O
+matriculó	O
+al	O
+finalizar	O
+bachillerato	O
+en	O
+una	O
+academia	O
+de	O
+informática	O
+y	O
+mecanografía	O
+,	O
+que	O
+no	O
+finalizó	O
+.	O

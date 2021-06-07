@@ -1,0 +1,15 @@
+
+Aparecen	O
+actitudes	O
+oposicionistas	O
+negándose	O
+el	O
+paciente	O
+a	O
+comer	O
+o	O
+a	O
+tomar	O
+la	O
+medicación	O
+.	O

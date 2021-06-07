@@ -1,0 +1,6 @@
+
+Quejas	O
+frecuentes	O
+de	O
+cefaleas	O
+.	O

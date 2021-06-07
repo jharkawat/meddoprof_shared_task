@@ -1,0 +1,15 @@
+
+Tarda	O
+mucho	O
+en	O
+quedarse	O
+dormida	O
+y	O
+se	O
+despierta	O
+varias	O
+veces	O
+por	O
+la	O
+noche	O
+.	O

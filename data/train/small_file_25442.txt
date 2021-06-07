@@ -1,0 +1,11 @@
+
+Tiene	O
+estudios	O
+hasta	O
+COU	O
+;	O
+realiza	O
+cursos	O
+de	O
+formación	O
+.	O

@@ -1,0 +1,15 @@
+
+Una	O
+vecina	O
+alertó	O
+a	O
+las	O
+hermanas	O
+"	O
+porque	O
+le	O
+veía	O
+muy	O
+mal	O
+"	O
+.	O

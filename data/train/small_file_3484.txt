@@ -1,0 +1,13 @@
+
+Ecografía	O
+abdominal	O
+:	O
+Ecogenicidad	O
+hepática	O
+aumentada	O
+compatible	O
+con	O
+esteatosis	O
+ya	O
+conocida	O
+.	O

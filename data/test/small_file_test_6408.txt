@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+presenta	O
+buena	O
+tolerancia	O
+al	O
+tratamiento	O
+,	O
+aunque	O
+con	O
+neurotoxicidad	O
+grado	O
+1	O
+.	O

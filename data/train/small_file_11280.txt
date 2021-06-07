@@ -1,0 +1,27 @@
+
+FG	O
+(	O
+MDRD	O
+-	O
+IDMS	O
+)	O
+95	O
+,	O
+2	O
+mL	O
+/	O
+min	O
+/	O
+1	O
+,	O
+73	O
+m2	O
+;	O
+Proteínas	O
+7	O
+,	O
+7	O
+g	O
+/	O
+dl	O
+.	O

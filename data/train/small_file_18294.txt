@@ -1,0 +1,27 @@
+
+La	O
+mejor	O
+agudeza	O
+visual	O
+corregida	O
+1	O
+mes	O
+posterior	O
+a	O
+la	O
+inyección	O
+fue	O
+de	O
+cuenta	O
+dedos	O
+a	O
+1	O
+metro	O
+la	O
+cual	O
+se	O
+mantuvo	O
+durante	O
+el	O
+seguimiento	O
+.	O

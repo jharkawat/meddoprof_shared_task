@@ -1,0 +1,24 @@
+
+Escolar	B-SITUACION_LABORAL
+de	O
+4	O
+an	O
+̃	O
+os	O
+que	O
+consulta	O
+en	O
+hospital	O
+comarcal	O
+con	O
+cuadro	O
+de	O
+vómitos	O
+y	O
+cefalea	O
+de	O
+9	O
+días	O
+de	O
+evolución	O
+.	O

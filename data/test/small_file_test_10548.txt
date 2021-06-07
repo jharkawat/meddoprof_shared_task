@@ -1,0 +1,13 @@
+
+En	O
+la	O
+entrevista	O
+,	O
+refiere	O
+2	O
+ingresos	O
+previos	O
+en	O
+hospitales	O
+diferentes	O
+.	O

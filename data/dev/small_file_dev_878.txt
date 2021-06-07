@@ -1,0 +1,24 @@
+
+Por	O
+este	O
+motivo	O
+,	O
+en	O
+un	O
+primer	O
+momento	O
+es	O
+diagnosticado	O
+de	O
+"	O
+trastorno	O
+adaptativo	O
+con	O
+síntomas	O
+ansiosos	O
+"	O
+y	O
+tratado	O
+como	O
+tal	O
+.	O

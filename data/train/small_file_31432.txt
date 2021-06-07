@@ -1,0 +1,10 @@
+
+Lenguaje	O
+muy	O
+empobrecido	O
+con	O
+llamativa	O
+latencia	O
+de	O
+respuesta	O
+.	O

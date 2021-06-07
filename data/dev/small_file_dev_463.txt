@@ -1,0 +1,15 @@
+
+Debido	O
+a	O
+que	O
+la	O
+pica	O
+puede	O
+estar	O
+asociada	O
+a	O
+un	O
+déficit	O
+de	O
+nutrientes	O
+.	O

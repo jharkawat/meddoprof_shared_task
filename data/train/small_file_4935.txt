@@ -1,0 +1,27 @@
+
+-	O
+Biopsia	O
+de	O
+piel	O
+:	O
+realizada	O
+la	O
+técnica	O
+IHQ	O
+de	O
+c	O
+-	O
+kit	O
+,	O
+ésta	O
+ha	O
+resultado	O
+positiva	O
+en	O
+mastocitos	O
+,	O
+corroborando	O
+su	O
+número	O
+aumentado	O
+.	O

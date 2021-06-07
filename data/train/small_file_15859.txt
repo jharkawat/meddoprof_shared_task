@@ -1,0 +1,8 @@
+
+Continuó	O
+seguimiento	O
+por	O
+Neurología	O
+y	O
+Reumatología	O
+.	O

@@ -1,0 +1,26 @@
+
+La	O
+radiografía	O
+torácica	O
+mostró	O
+una	O
+mejora	O
+de	O
+las	O
+consolidaciones	O
+y	O
+las	O
+opacidades	O
+de	O
+vidrio	O
+esmerilado	O
+;	O
+la	O
+TAC	O
+torácica	O
+mostró	O
+desaparición	O
+del	O
+derrame	O
+pleural	O
+.	O

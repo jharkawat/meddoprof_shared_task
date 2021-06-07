@@ -1,0 +1,23 @@
+
+Añade	O
+que	O
+lo	O
+han	O
+hecho	O
+y	O
+que	O
+él	O
+le	O
+ha	O
+pedido	O
+que	O
+intente	O
+expresarle	O
+sus	O
+preocupaciones	O
+para	O
+poder	O
+buscar	O
+juntos	O
+soluciones	O
+.	O

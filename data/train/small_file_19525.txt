@@ -1,0 +1,19 @@
+
+A	O
+la	O
+edad	O
+de	O
+19	O
+sufrió	O
+un	O
+episodio	O
+convulsivo	O
+,	O
+se	O
+le	O
+dio	O
+tratamiento	O
+que	O
+no	O
+especifica	O
+.	O

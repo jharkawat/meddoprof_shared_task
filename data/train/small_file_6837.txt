@@ -1,0 +1,18 @@
+
+Describía	O
+además	O
+dichas	O
+lesiones	O
+como	O
+intensamente	O
+pruriginosas	O
+y	O
+desprendimiento	O
+espontáneo	O
+del	O
+pelo	O
+localizado	O
+sobre	O
+las	O
+mismas	O
+.	O

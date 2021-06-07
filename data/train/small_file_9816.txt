@@ -1,0 +1,20 @@
+
+Como	O
+antecedentes	O
+familiares	O
+,	O
+madre	O
+con	O
+Carcinoma	O
+de	O
+mama	O
+y	O
+hermana	O
+con	O
+Esclerosis	O
+múltiple	O
+y	O
+abortos	O
+de	O
+repetición	O
+.	O

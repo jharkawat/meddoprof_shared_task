@@ -1,0 +1,8 @@
+
+HbA1c	O
+normal	O
+5	O
+,	O
+3	O
+%	O
+.	O

@@ -1,0 +1,17 @@
+
+En	O
+el	O
+servicio	O
+de	O
+psiquiatría	O
+se	O
+decidió	O
+la	O
+potenciación	O
+con	O
+carbamazepina	O
+unida	O
+a	O
+la	O
+sertralina	O
+.	O

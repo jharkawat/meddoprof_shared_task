@@ -1,0 +1,10 @@
+
+Localidad	O
+/	O
+Provincia	O
+:	O
+Santa	O
+Cruz	O
+de	O
+Tenerife	O
+.	O

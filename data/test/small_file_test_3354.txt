@@ -1,0 +1,4 @@
+
+Citología	O
+negativa	O
+.	O

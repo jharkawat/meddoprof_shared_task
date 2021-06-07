@@ -1,0 +1,10 @@
+
+Infecciones	O
+localizadas	O
+:	O
+Abscesos	O
+intraabdominales	O
+,	O
+endocarditis	O
+infecciosa	O
+.	O

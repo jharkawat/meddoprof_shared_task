@@ -1,0 +1,21 @@
+
+Al	O
+ingreso	O
+en	O
+urgencias	O
+,	O
+refirió	O
+tener	O
+conjuntivitis	O
+en	O
+los	O
+últimos	O
+10	O
+días	O
+y	O
+febrícula	O
+durante	O
+la	O
+última	O
+semana	O
+.	O

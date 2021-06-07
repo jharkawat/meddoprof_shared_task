@@ -1,0 +1,12 @@
+
+Suele	O
+causar	O
+infección	O
+de	O
+la	O
+articular	O
+sacroilíaca	O
+mediante	O
+diseminación	O
+hematógena	O
+.	O

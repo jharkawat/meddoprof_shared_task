@@ -1,0 +1,10 @@
+
+Parto	O
+gemelar	O
+a	O
+término	O
+,	O
+con	O
+cesárea	O
+programada	O
+.	O

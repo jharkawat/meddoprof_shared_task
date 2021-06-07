@@ -1,0 +1,6 @@
+
+Lenguaje	O
+escaso	O
+pero	O
+coherente	O
+.	O

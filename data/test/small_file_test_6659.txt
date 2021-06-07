@@ -1,0 +1,10 @@
+
+Blando	O
+y	O
+depresible	O
+,	O
+levemente	O
+doloroso	O
+en	O
+epigastrio	O
+.	O

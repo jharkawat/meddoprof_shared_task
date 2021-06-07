@@ -1,0 +1,10 @@
+
+Eritema	O
+migrans	O
+múltiple	O
+en	O
+distintas	O
+etapas	O
+de	O
+evolución	O
+.	O

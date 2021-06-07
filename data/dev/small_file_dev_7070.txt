@@ -1,0 +1,14 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+(	O
+hasta	O
+ciego	O
+)	O
+no	O
+descubrió	O
+anomalías	O
+.	O

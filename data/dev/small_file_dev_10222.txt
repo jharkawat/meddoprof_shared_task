@@ -1,0 +1,22 @@
+
+A	O
+los	O
+14	O
+años	O
+la	O
+paciente	O
+fue	O
+gravemente	O
+mordida	O
+por	O
+un	O
+perro	O
+y	O
+recibió	O
+tratamiento	O
+que	O
+incluyó	O
+la	O
+vacuna	O
+antirrábica	O
+.	O

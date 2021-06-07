@@ -1,0 +1,5 @@
+
+Aceptable	O
+estado	O
+general	O
+.	O

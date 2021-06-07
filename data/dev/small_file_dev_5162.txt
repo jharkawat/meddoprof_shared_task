@@ -1,0 +1,14 @@
+
+RX	O
+tórax	O
+:	O
+imagen	O
+paracardiaca	O
+izquierda	O
+con	O
+enfisema	O
+subcutáneo	O
+sugerente	O
+de	O
+neumomediastino	O
+.	O

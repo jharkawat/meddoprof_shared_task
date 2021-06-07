@@ -1,0 +1,20 @@
+
+En	O
+la	O
+bioquímica	O
+,	O
+la	O
+PCR	O
+resultó	O
+levemente	O
+elevada	O
+,	O
+estando	O
+el	O
+resto	O
+de	O
+valores	O
+en	O
+rango	O
+normal	O
+.	O

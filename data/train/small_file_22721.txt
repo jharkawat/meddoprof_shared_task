@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+permaneció	O
+6	O
+días	O
+internado	O
+,	O
+tras	O
+los	O
+cuales	O
+las	O
+alucinaciones	O
+persistieron	O
+.	O

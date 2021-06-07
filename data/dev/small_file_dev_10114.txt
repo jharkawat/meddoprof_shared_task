@@ -1,0 +1,5 @@
+
+Negó	O
+tener	O
+alucinaciones	O
+.	O

@@ -1,0 +1,13 @@
+
+Dice	O
+que	O
+"	O
+quiere	O
+ingresar	O
+,	O
+descansar	O
+de	O
+tanto	O
+taller	O
+"	O
+.	O

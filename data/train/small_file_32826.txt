@@ -1,0 +1,12 @@
+
+Ayudar	O
+al	O
+paciente	O
+a	O
+identificar	O
+una	O
+meta	O
+de	O
+cambio	O
+específica	O
+.	O

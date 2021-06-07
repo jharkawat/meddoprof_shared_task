@@ -1,0 +1,7 @@
+
+Signos	O
+de	O
+broncopatía	O
+crónica	O
+grave	O
+.	O

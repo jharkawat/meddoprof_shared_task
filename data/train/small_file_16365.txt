@@ -1,0 +1,23 @@
+
+En	O
+la	O
+exploración	O
+general	O
+destaca	O
+la	O
+persistencia	O
+de	O
+un	O
+estado	O
+febril	O
+;	O
+cráneo	O
+,	O
+cuello	O
+,	O
+tórax	O
+y	O
+abdomen	O
+estrictamente	O
+normales	O
+.	O

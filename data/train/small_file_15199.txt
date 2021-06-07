@@ -1,0 +1,27 @@
+
+-	O
+Es	O
+una	O
+lesión	O
+en	O
+la	O
+que	O
+porciones	O
+del	O
+hueso	O
+son	O
+reemplazadas	O
+por	O
+tejido	O
+conectivo	O
+fibroso	O
+y	O
+hueso	O
+trabecular	O
+mal	O
+formado	O
+que	O
+origina	O
+cavitación	O
+medular	O
+.	O

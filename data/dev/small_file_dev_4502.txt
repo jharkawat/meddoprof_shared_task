@@ -1,0 +1,26 @@
+
+Se	O
+presenta	O
+el	O
+caso	O
+de	O
+un	O
+paciente	O
+de	O
+91	O
+años	O
+en	O
+estudio	O
+por	O
+disminución	O
+del	O
+hematocrito	O
+,	O
+astenia	O
+,	O
+adinamia	O
+y	O
+tos	O
+,	O
+afebril	O
+.	O

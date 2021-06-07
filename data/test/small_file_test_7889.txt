@@ -1,0 +1,17 @@
+
+»	O
+Abdomen	O
+:	O
+gran	O
+masa	O
+abdominal	O
+que	O
+ocupa	O
+todo	O
+el	O
+hemiabdomen	O
+derecho	O
+de	O
+consistencia	O
+pétrea	O
+.	O

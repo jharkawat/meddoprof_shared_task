@@ -1,0 +1,7 @@
+
+No	O
+presenta	O
+ideas	O
+de	O
+autolisis	O
+.	O

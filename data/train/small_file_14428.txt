@@ -1,0 +1,12 @@
+
+PCR	O
+21	O
+.	O
+7	O
+,	O
+ANCA	O
+(	O
+PR3	O
+)	O
+199	O
+.	O

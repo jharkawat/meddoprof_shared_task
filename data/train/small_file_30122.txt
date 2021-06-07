@@ -1,0 +1,17 @@
+
+A	O
+su	O
+llegada	O
+al	O
+Hospital	O
+de	O
+Día	O
+,	O
+está	O
+consciente	O
+y	O
+orientado	O
+auto	O
+y	O
+alopsíquicamente	O
+.	O

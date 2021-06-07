@@ -1,0 +1,7 @@
+
+Eupneico	O
+en	O
+reposo	O
+sin	O
+oxígeno	O
+.	O

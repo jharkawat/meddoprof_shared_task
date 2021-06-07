@@ -1,0 +1,15 @@
+
+Al	O
+salir	O
+de	O
+la	O
+guardería	O
+,	O
+Raúl	O
+solía	O
+permanecer	O
+solo	O
+con	O
+su	O
+abuelo	O
+.	O

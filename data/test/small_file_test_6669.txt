@@ -1,0 +1,15 @@
+
+Se	O
+solicitan	O
+además	O
+radiografías	O
+de	O
+tórax	O
+y	O
+abdomen	O
+,	O
+sin	O
+observarse	O
+hallazgos	O
+reseñables	O
+.	O

@@ -1,0 +1,21 @@
+
+Se	O
+instaura	O
+tratamiento	O
+antipsicótico	O
+con	O
+aripiprazol	O
+,	O
+a	O
+dosis	O
+de	O
+20	O
+mgrs	O
+/	O
+día	O
+,	O
+junto	O
+con	O
+tratamiento	O
+hipnótico	O
+.	O

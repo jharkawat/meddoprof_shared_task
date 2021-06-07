@@ -1,0 +1,22 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+una	O
+mononucleosis	O
+infecciosa	O
+,	O
+se	O
+pauta	O
+tratamiento	O
+,	O
+se	O
+solicita	O
+analítica	O
+y	O
+el	O
+test	O
+de	O
+MNI	O
+.	O

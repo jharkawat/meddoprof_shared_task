@@ -1,0 +1,22 @@
+
+Piel	O
+y	O
+anexos	O
+:	O
+Presenta	O
+una	O
+costra	O
+serohemàtica	O
+en	O
+el	O
+dorso	O
+de	O
+la	O
+mano	O
+derecha	O
+entre	O
+elprimer	O
+y	O
+segundo	O
+dedo	O
+.	O

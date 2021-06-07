@@ -1,0 +1,25 @@
+
+En	O
+las	O
+tres	O
+ocasiones	O
+,	O
+se	O
+realizó	O
+una	O
+analítica	O
+,	O
+apreciándose	O
+plaquetopenia	O
+,	O
+que	O
+se	O
+atribuyó	O
+a	O
+causa	O
+inmunitaria	O
+por	O
+enfermedad	O
+de	O
+base	O
+.	O

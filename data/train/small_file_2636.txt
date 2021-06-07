@@ -1,0 +1,25 @@
+
+TC	O
+(	O
+prick	O
+/	O
+prick	O
+)	O
+con	O
+piel	O
+y	O
+pulpa	O
+de	O
+patata	O
+crudas	O
+:	O
+positivos	O
+,	O
+con	O
+pulpa	O
+y	O
+piel	O
+cocidas	O
+:	O
+negativos	O
+.	O

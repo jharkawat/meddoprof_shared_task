@@ -1,0 +1,16 @@
+
+TC	O
+y	O
+RMN	O
+craneal	O
+:	O
+infarto	O
+isquémico	O
+en	O
+territorio	O
+frontera	O
+temporo	O
+-	O
+occipital	O
+izquierdo	O
+.	O

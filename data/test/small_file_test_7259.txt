@@ -1,0 +1,6 @@
+
+Es	O
+profesor	B-PROFESION
+de	I-PROFESION
+universidad	I-PROFESION
+.	O

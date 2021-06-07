@@ -1,0 +1,18 @@
+
+Fue	O
+necesario	O
+intubar	O
+al	O
+paciente	O
+por	O
+agotamiento	O
+muscular	O
+,	O
+presentando	O
+mucha	O
+desadaptación	O
+a	O
+la	O
+ventilación	O
+invasiva	O
+.	O

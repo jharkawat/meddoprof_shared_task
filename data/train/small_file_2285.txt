@@ -1,0 +1,14 @@
+
+También	O
+se	O
+visualiza	O
+una	O
+lesión	O
+quística	O
+yuxtaarticular	O
+en	O
+relación	O
+con	O
+trocánter	O
+mayor	O
+.	O

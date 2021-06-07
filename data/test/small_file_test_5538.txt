@@ -1,0 +1,19 @@
+
+Se	O
+completó	O
+tratamiento	O
+adyuvante	O
+con	O
+el	O
+mismo	O
+esquema	O
+,	O
+que	O
+finalizó	O
+el	O
+26	O
+de	O
+agosto	O
+de	O
+2004	O
+.	O

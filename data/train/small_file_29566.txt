@@ -1,0 +1,19 @@
+
+Realizó	O
+un	O
+curso	O
+de	O
+fotografía	O
+(	O
+en	O
+ámbito	O
+no	O
+protegido	O
+)	O
+con	O
+frecuencia	O
+semanal	O
+y	O
+aceptable	O
+ajuste	O
+.	O

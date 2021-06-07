@@ -1,0 +1,24 @@
+
+Tras	O
+3	O
+meses	O
+de	O
+tratamiento	O
+,	O
+existe	O
+beneficio	O
+clínico	O
+importante	O
+,	O
+restableciéndose	O
+el	O
+PS	O
+a	O
+1	O
+y	O
+objetivándose	O
+una	O
+RP	O
+en	O
+TC	O
+.	O

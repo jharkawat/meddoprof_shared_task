@@ -1,0 +1,21 @@
+
+A	O
+la	O
+exploración	O
+física	O
+se	O
+objetivan	O
+conglomerados	O
+adenopáticos	O
+parotídeo	O
+derecho	O
+y	O
+axilares	O
+e	O
+inguinales	O
+bilaterales	O
+,	O
+pétreos	O
+,	O
+indoloros	O
+.	O

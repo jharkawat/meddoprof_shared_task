@@ -1,0 +1,13 @@
+
+A	O
+la	O
+cabeza	O
+en	O
+nuestro	O
+medio	O
+sería	O
+infección	O
+por	O
+Sporothrix	O
+schenckii	O
+.	O

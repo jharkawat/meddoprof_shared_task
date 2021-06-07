@@ -1,0 +1,8 @@
+
+Realizada	O
+biopsia	O
+hepática	O
+con	O
+resultado	O
+inespecífico	O
+.	O

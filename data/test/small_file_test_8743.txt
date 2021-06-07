@@ -1,0 +1,25 @@
+
+Actualmente	O
+,	O
+nuestro	O
+paciente	O
+persiste	O
+clínicamente	O
+con	O
+dolor	O
+costal	O
+derecho	O
+de	O
+características	O
+pleuríticas	O
+que	O
+controla	O
+con	O
+la	O
+toma	O
+puntual	O
+de	O
+paracetamol	O
+y	O
+metamizol	O
+.	O

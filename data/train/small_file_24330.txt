@@ -1,0 +1,12 @@
+
+Poco	O
+a	O
+poco	O
+el	O
+paciente	O
+fue	O
+logrando	O
+una	O
+lenta	O
+mejoría	O
+.	O

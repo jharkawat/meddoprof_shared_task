@@ -1,0 +1,16 @@
+
+Los	O
+hallazgos	O
+son	O
+compatibles	O
+con	O
+quiste	O
+de	O
+la	O
+bolsa	O
+de	O
+Rathke	O
+de	O
+contenido	O
+proteináceo	O
+.	O

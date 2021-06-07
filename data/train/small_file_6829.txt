@@ -1,0 +1,15 @@
+
+Dada	O
+la	O
+escasa	O
+sintomatología	O
+,	O
+se	O
+decidió	O
+no	O
+tratar	O
+,	O
+simplemente	O
+observar	O
+la	O
+evolución	O

@@ -1,0 +1,24 @@
+
+Vesícula	O
+colapsada	O
+de	O
+paredes	O
+edematosas	O
+(	O
+ambos	O
+hallazgos	O
+podrían	O
+corresponder	O
+con	O
+cuadro	O
+de	O
+hepatitis	O
+,	O
+a	O
+correlacionar	O
+con	O
+clínica	O
+y	O
+analítica	O
+)	O
+.	O

@@ -1,0 +1,7 @@
+
+La	O
+tinción	O
+Gram	O
+fue	O
+negativa	O
+.	O

@@ -1,0 +1,11 @@
+
+Niega	O
+ortopnea	O
+,	O
+edemas	O
+,	O
+dolor	O
+torácico	O
+ni	O
+hemoptisis	O
+.	O

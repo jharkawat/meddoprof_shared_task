@@ -1,0 +1,22 @@
+
+Gasometría	O
+venosa	O
+,	O
+bioquímica	O
+,	O
+hematimetría	O
+,	O
+coagulación	O
+,	O
+autoinmunidad	O
+sin	O
+hallazgos	O
+patológicos	O
+,	O
+y	O
+serologías	O
+VIH	O
+y	O
+RPR	O
+negativas	O
+.	O

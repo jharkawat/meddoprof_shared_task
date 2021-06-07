@@ -1,0 +1,26 @@
+
+Aunque	O
+no	O
+hay	O
+criterios	O
+mayores	O
+de	O
+mastocitosis	O
+,	O
+la	O
+tasa	O
+de	O
+mastocitos	O
+es	O
+superior	O
+a	O
+la	O
+normal	O
+,	O
+en	O
+su	O
+mayoría	O
+de	O
+aspecto	O
+patológico	O
+.	O

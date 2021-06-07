@@ -1,0 +1,9 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+es	O
+anodina	O
+.	O

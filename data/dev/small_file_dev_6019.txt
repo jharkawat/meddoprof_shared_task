@@ -1,0 +1,13 @@
+
+No	O
+presentaba	O
+hallazgos	O
+patológicos	O
+a	O
+la	O
+exploración	O
+en	O
+las	O
+piezas	O
+dentales	O
+.	O

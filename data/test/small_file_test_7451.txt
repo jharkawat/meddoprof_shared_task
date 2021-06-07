@@ -1,0 +1,22 @@
+
+A	O
+las	O
+dos	O
+semanas	O
+de	O
+iniciar	O
+tratamiento	O
+,	O
+se	O
+resolvieron	O
+la	O
+astenia	O
+y	O
+la	O
+impotencia	O
+,	O
+quedando	O
+el	O
+paciente	O
+asintomático	O
+.	O

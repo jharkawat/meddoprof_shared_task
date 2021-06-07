@@ -1,0 +1,18 @@
+
+Autismo	O
+infantil	O
+F84	O
+.	O
+0	O
+,	O
+CIE10	O
+,	O
+Trastorno	O
+mixto	O
+ansioso	O
+-	O
+depresivo	O
+F41	O
+.	O
+2	O
+;	O

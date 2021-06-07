@@ -1,0 +1,18 @@
+
+Abdomen	O
+,	O
+EEII	O
+,	O
+y	O
+Neurológica	O
+:	O
+sin	O
+hallazgos	O
+de	O
+interés	O
+,	O
+salvo	O
+adenopatías	O
+inguinales	O
+bilaterales	O
+.	O

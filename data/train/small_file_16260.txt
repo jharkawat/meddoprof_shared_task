@@ -1,0 +1,7 @@
+
+No	O
+diabetes	O
+mellitus	O
+ni	O
+hipercolesterolemia	O
+.	O

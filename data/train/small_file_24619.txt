@@ -1,0 +1,16 @@
+
+También	O
+emplea	O
+todo	O
+el	O
+dinero	O
+de	O
+la	O
+herencia	O
+de	O
+su	O
+madre	O
+en	O
+compras	O
+innecesarias	O
+.	O

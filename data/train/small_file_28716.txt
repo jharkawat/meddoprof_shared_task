@@ -1,0 +1,27 @@
+
+En	O
+este	O
+contexto	O
+de	O
+angustia	O
+reactiva	O
+,	O
+aparecen	O
+ideas	O
+de	O
+muerte	O
+que	O
+le	O
+han	O
+llevado	O
+a	O
+ingerir	O
+pastillas	O
+en	O
+alguna	O
+ocasión	O
+sin	O
+acudir	O
+a	O
+Urgencias	O
+.	O

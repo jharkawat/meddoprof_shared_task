@@ -1,0 +1,21 @@
+
+Expresa	O
+que	O
+"	O
+hay	O
+dos	O
+reyes	O
+en	O
+mi	O
+cuerpo	O
+,	O
+en	O
+mi	O
+mente	O
+y	O
+en	O
+mi	O
+cerebro	O
+.	O
+.	O
+.	O

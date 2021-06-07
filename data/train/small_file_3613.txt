@@ -1,0 +1,13 @@
+
+Y	O
+aunque	O
+asintomático	O
+,	O
+presencia	O
+de	O
+leucocitosis	O
+con	O
+linfocitosis	O
+en	O
+analíticas	O
+.	O

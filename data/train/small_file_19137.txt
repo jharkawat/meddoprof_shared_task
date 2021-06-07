@@ -1,0 +1,23 @@
+
+Actividades	O
+regulares	O
+:	O
+acudir	O
+a	O
+su	O
+casa	O
+a	O
+darle	O
+de	O
+comer	O
+a	O
+los	O
+animales	O
+,	O
+ir	B-ACTIVIDAD
+al	I-ACTIVIDAD
+gimnasio	I-ACTIVIDAD
+y	I-ACTIVIDAD
+a	I-ACTIVIDAD
+boxear	I-ACTIVIDAD
+.	O

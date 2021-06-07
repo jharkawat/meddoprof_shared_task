@@ -1,0 +1,19 @@
+
+El	O
+29	O
+de	O
+marzo	O
+fue	O
+ingresado	O
+con	O
+tos	O
+,	O
+fiebre	O
+y	O
+disnea	O
+de	O
+5	O
+días	O
+de	O
+evolución	O
+.	O

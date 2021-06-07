@@ -1,0 +1,13 @@
+
+tendrías	O
+que	O
+haberlo	O
+dicho	O
+.	O
+.	O
+.	O
+haz	O
+esto	O
+.	O
+.	O
+.	O

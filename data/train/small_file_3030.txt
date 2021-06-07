@@ -1,0 +1,7 @@
+
+Niega	O
+traumatismo	O
+o	O
+sobreesfuerzo	O
+previo	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+la	O
+primera	O
+exploración	O
+no	O
+colabora	O
+y	O
+muestra	O
+una	O
+actitud	O
+paranoide	O
+,	O
+hostil	O
+y	O
+oposicionista	O
+,	O
+con	O
+mal	O
+contacto	O
+.	O

@@ -1,0 +1,21 @@
+
+No	O
+hay	O
+adenopatías	O
+de	O
+tamaño	O
+patológico	O
+en	O
+las	O
+diferentes	O
+cadenas	O
+ganglionares	O
+valoradas	O
+a	O
+nivel	O
+pélvico	O
+y	O
+en	O
+el	O
+retroperitoneo	O
+.	O

@@ -1,0 +1,7 @@
+
+Saturación	O
+O2	O
+:	O
+99	O
+%	O
+.	O

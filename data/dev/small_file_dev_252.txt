@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+46	O
+años	O
+de	O
+edad	O
+,	O
+diagnosticada	O
+de	O
+esquizofrenia	O
+paranoide	O
+F20	O
+.	O
+0	O
+CIE	O
+-	O
+10	O
+.	O

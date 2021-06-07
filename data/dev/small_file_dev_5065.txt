@@ -1,0 +1,12 @@
+
+Sin	O
+recidiva	O
+de	O
+adenocarcinoma	O
+recto	O
+en	O
+seguimiento	O
+por	O
+cirugía	O
+general	O
+.	O

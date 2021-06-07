@@ -1,0 +1,18 @@
+
+Se	O
+deriva	O
+a	O
+Urgencias	O
+de	O
+hospital	O
+,	O
+para	O
+descartar	O
+causas	O
+agudas	O
+de	O
+dolor	O
+abdominal	O
+en	O
+anciano	O
+.	O

@@ -1,0 +1,16 @@
+
+Reconoce	O
+negativa	O
+a	O
+la	O
+ingesta	O
+y	O
+vómitos	O
+autoprovocados	O
+en	O
+contexto	O
+de	O
+ideas	O
+de	O
+envenenamiento	O
+.	O

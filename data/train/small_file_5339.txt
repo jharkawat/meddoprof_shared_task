@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+reside	O
+en	O
+Madrid	O
+pero	O
+por	O
+motivos	O
+de	O
+trabajo	O
+se	O
+había	O
+traslado	O
+en	O
+los	O
+últimos	O
+días	O
+a	O
+Huelva	O
+para	O
+realizar	O
+unos	O
+trabajos	O
+.	O

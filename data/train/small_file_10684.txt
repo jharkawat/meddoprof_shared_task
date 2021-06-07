@@ -1,0 +1,16 @@
+
+La	O
+paciente	O
+acude	O
+a	O
+Urgencias	O
+por	O
+cuadro	O
+de	O
+tos	O
+sin	O
+expectoración	O
+y	O
+sin	O
+fiebre	O
+.	O

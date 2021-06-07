@@ -1,0 +1,9 @@
+
+Estos	O
+hallazgos	O
+sugirieron	O
+apendicitis	O
+del	O
+remanente	O
+apendicular	O
+.	O

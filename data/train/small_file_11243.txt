@@ -1,0 +1,11 @@
+
+Se	O
+comentara	O
+el	O
+diagnóstico	O
+diferencial	O
+y	O
+diagnóstico	O
+clínico	O
+definitivo	O
+.	O

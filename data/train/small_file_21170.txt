@@ -1,0 +1,22 @@
+
+El	O
+joven	O
+fue	O
+diagnosticado	O
+de	O
+TDAH	O
+a	O
+la	O
+edad	O
+de	O
+9	O
+años	O
+y	O
+recibió	O
+tratamiento	O
+con	O
+metilfenidato	O
+durante	O
+un	O
+año	O
+.	O

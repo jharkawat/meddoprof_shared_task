@@ -1,0 +1,18 @@
+
+En	O
+la	O
+mañana	O
+siguiente	O
+agregó	O
+fiebre	O
+elevada	O
+de	O
+39	O
+°	O
+C	O
+axilar	O
+,	O
+cefalea	O
+y	O
+vómitos	O
+.	O

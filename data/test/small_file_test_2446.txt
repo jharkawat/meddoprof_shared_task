@@ -1,0 +1,8 @@
+
+Habla	O
+normal	O
+en	O
+fluencia	O
+y	O
+contenido	O
+.	O

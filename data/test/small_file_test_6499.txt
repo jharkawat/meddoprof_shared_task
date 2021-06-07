@@ -1,0 +1,11 @@
+
+Hipopituitarismo	O
+parcial	O
+secundario	O
+a	O
+hipofisitis	O
+autoinmune	O
+inducida	O
+por	O
+pembrolizumab	O
+.	O

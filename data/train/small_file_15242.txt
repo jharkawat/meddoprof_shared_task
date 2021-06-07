@@ -1,0 +1,26 @@
+
+Consulta	O
+por	O
+edemas	O
+progresivos	O
+en	O
+miembros	O
+inferiores	O
+,	O
+abdomen	O
+,	O
+cuello	O
+y	O
+cara	O
+;	O
+y	O
+disnea	O
+de	O
+mínimos	O
+esfuerzos	O
+de	O
+8	O
+meses	O
+de	O
+evolución	O
+.	O

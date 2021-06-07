@@ -1,0 +1,7 @@
+
+Autónomo	O
+e	O
+independiente	O
+para	O
+AVD	O
+.	O

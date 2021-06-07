@@ -1,0 +1,21 @@
+
+Ha	O
+referido	O
+preocupación	O
+por	O
+si	O
+puede	O
+tener	O
+hijos	O
+o	O
+no	O
+,	O
+por	O
+el	O
+riesgo	O
+de	O
+transmisión	O
+de	O
+la	O
+enfermedad	O
+.	O

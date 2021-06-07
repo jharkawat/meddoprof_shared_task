@@ -1,0 +1,5 @@
+
+Compatible	O
+con	O
+carcinoma	O
+.	O

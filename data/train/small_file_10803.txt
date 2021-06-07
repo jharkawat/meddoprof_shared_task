@@ -1,0 +1,10 @@
+
+Es	O
+intervenido	O
+el	O
+30	O
+de	O
+octubre	O
+de	O
+2018	O
+.	O

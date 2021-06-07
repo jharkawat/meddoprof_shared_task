@@ -1,0 +1,22 @@
+
+Tras	O
+valoración	O
+clínica	O
+y	O
+electrocardiográfica	O
+y	O
+después	O
+de	O
+realizar	O
+un	O
+test	O
+de	O
+flecainida	O
+,	O
+se	O
+realizó	O
+un	O
+diagnóstico	O
+de	O
+SB	O
+.	O

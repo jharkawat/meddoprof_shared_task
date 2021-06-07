@@ -1,0 +1,6 @@
+
+Abdomen	O
+:	O
+RHA	O
+aumentados	O
+.	O

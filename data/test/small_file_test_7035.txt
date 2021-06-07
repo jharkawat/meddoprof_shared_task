@@ -1,0 +1,13 @@
+
+Antecedente	O
+oncológico	O
+familiar	O
+de	O
+hermano	O
+con	O
+cáncer	O
+no	O
+microcítico	O
+de	O
+pulmón	O
+.	O

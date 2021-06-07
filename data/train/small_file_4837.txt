@@ -1,0 +1,4 @@
+
+QRS	O
+normal	O
+.	O

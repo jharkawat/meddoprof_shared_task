@@ -1,0 +1,15 @@
+
+Dice	O
+que	O
+se	O
+siente	O
+apoyada	O
+y	O
+querida	O
+y	O
+que	O
+confía	O
+en	O
+él	O
+plenamente	O
+.	O

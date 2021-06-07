@@ -1,0 +1,13 @@
+
+es	O
+como	O
+volver	O
+atrás	O
+,	O
+a	O
+Colombia	O
+.	O
+.	O
+.	O
+"	O
+.	O

@@ -1,0 +1,6 @@
+
+Tabaquismo	O
+:	O
+No	O
+fuma	O
+.	O

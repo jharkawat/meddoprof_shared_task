@@ -1,0 +1,5 @@
+
+Trabajaba	O
+como	O
+profesora	B-PROFESION
+.	O

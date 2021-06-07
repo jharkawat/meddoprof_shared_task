@@ -1,0 +1,24 @@
+
+Posteriomente	O
+se	O
+amplió	O
+la	O
+batería	O
+para	O
+detección	O
+del	O
+virus	O
+del	O
+herpes	O
+humano	O
+8	O
+(	O
+HHV	O
+-	O
+8	O
+)	O
+,	O
+que	O
+resultó	O
+positivo	O
+.	O

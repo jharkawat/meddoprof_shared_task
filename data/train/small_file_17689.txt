@@ -1,0 +1,22 @@
+
+Residente	O
+en	O
+una	O
+ciudad	O
+de	O
+la	O
+meseta	O
+norte	O
+,	O
+con	O
+clima	O
+continental	O
+seco	O
+,	O
+con	O
+veranos	O
+cálidos	O
+e	O
+inviernos	O
+fríos	O
+.	O

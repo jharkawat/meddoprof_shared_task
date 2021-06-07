@@ -1,0 +1,4 @@
+
+Discurso	O
+desorganizado	O
+.	O

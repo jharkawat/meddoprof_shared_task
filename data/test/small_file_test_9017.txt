@@ -1,0 +1,18 @@
+
+Exploración	O
+abdominal	O
+distendida	O
+pero	O
+no	O
+dolorosa	O
+,	O
+matidez	O
+a	O
+la	O
+percusión	O
+,	O
+signo	O
+de	O
+oleada	O
+ascítica	O
+.	O

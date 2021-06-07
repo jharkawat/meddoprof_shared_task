@@ -1,0 +1,19 @@
+
+Tras	O
+normalización	O
+de	O
+función	O
+hepática	O
+y	O
+retirada	O
+de	O
+tratamiento	O
+es	O
+necesario	O
+ingreso	O
+en	O
+Psiquiatría	O
+por	O
+descompensación	O
+psicótica	O
+.	O

@@ -1,0 +1,15 @@
+
+En	O
+1	O
+minuto	O
+pudo	O
+recordar	O
+14	O
+cosas	O
+a	O
+la	O
+venta	O
+en	O
+los	O
+supermercados	O
+.	O

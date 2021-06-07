@@ -1,0 +1,23 @@
+
+Cabeza	O
+y	O
+cuello	O
+:	O
+masa	O
+laterocervical	O
+derecha	O
+de	O
+7	O
+x	O
+6	O
+cm	O
+no	O
+dolorosa	O
+que	O
+desplaza	O
+la	O
+tráquea	O
+a	O
+la	O
+izquierda	O
+.	O

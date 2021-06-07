@@ -1,0 +1,17 @@
+
+No	O
+se	O
+aprecian	O
+alteraciones	O
+patológicas	O
+,	O
+salvo	O
+dolor	O
+dorsal	O
+a	O
+la	O
+percusión	O
+de	O
+cuerpos	O
+vertebrales	O
+.	O

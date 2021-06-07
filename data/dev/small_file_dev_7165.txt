@@ -1,0 +1,19 @@
+
+Presentaba	O
+ictericia	O
+conjuntival	O
+,	O
+sin	O
+lesiones	O
+cutáneas	O
+(	O
+salvo	O
+placa	O
+de	O
+psoriasis	O
+occipital	O
+)	O
+ni	O
+adenopatías	O
+palpables	O
+.	O

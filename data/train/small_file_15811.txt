@@ -1,0 +1,11 @@
+
+Tiene	O
+4	O
+perros	O
+,	O
+2	O
+gatos	O
+y	O
+es	O
+florista	B-PROFESION
+.	O

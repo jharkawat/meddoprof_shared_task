@@ -1,0 +1,8 @@
+
+Amígdalas	O
+sinenrojecimiento	O
+,	O
+pus	O
+o	O
+inflamación	O
+.	O

@@ -1,0 +1,27 @@
+
+-	O
+Fibrovideoendoscopia	O
+en	O
+la	O
+que	O
+se	O
+observa	O
+una	O
+desestructuración	O
+de	O
+la	O
+anatomía	O
+de	O
+los	O
+senos	O
+paranasales	O
+con	O
+abundante	O
+secreción	O
+mucopurulenta	O
+en	O
+cavidad	O
+nasal	O
+y	O
+sinusal	O
+.	O

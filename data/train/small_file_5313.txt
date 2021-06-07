@@ -1,0 +1,25 @@
+
+Ecocardiograma	O
+a	O
+pie	O
+de	O
+cama	O
+:	O
+VI	O
+no	O
+dilatado	O
+ni	O
+hipertrófico	O
+con	O
+función	O
+sistólica	O
+conservada	O
+,	O
+sin	O
+alteraciones	O
+segmentarias	O
+ni	O
+de	O
+la	O
+contractibilidad	O
+.	O

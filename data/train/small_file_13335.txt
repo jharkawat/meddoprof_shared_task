@@ -1,0 +1,6 @@
+
+Trabaja	O
+como	O
+auxiliar	B-PROFESION
+administrativa	I-PROFESION
+.	O

@@ -1,0 +1,7 @@
+
+Trabaja	O
+como	O
+cuidadora	B-PROFESION
+de	I-PROFESION
+ancianos	I-PROFESION
+.	O

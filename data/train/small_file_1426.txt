@@ -1,0 +1,7 @@
+
+La	O
+ecocardiografía	O
+descarta	O
+tromboembolismo	O
+pulmonar	O
+.	O

@@ -1,0 +1,8 @@
+
+Padre	O
+biológico	O
+:	O
+Diagnosticado	O
+de	O
+Esquizofrenia	O
+.	O

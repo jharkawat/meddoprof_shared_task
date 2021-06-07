@@ -1,0 +1,11 @@
+
+Se	B-PROFESION
+dedica	I-PROFESION
+al	I-PROFESION
+campo	I-PROFESION
+(	O
+trabaja	B-PROFESION
+con	I-PROFESION
+animales	I-PROFESION
+)	O
+.	O

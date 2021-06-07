@@ -1,0 +1,11 @@
+
+No	O
+HTA	O
+,	O
+no	O
+diabetes	O
+mellitus	O
+,	O
+no	O
+dislipemia	O
+.	O

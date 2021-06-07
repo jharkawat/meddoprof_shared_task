@@ -1,0 +1,15 @@
+
+HbA1c	O
+6	O
+,	O
+5	O
+%	O
+,	O
+TSH	O
+2	O
+,	O
+4	O
+mU	O
+/	O
+l	O
+.	O

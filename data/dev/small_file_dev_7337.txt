@@ -1,0 +1,23 @@
+
+En	O
+la	O
+región	O
+axilar	O
+izquierda	O
+se	O
+visualizaron	O
+adenopatías	O
+de	O
+entre	O
+9	O
+,	O
+5	O
+y	O
+11	O
+,	O
+5	O
+mm	O
+de	O
+eje	O
+corto	O
+.	O

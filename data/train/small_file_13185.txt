@@ -1,0 +1,10 @@
+
+No	O
+hallazgos	O
+patológicos	O
+en	O
+mediastino	O
+ni	O
+parénquima	O
+pulmonar	O
+.	O

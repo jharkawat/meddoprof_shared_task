@@ -1,0 +1,20 @@
+
+-	O
+Del	O
+dolor	O
+abdominal	O
+:	O
+isquemia	O
+mesentérica	O
+,	O
+colitis	O
+isquémica	O
+,	O
+Infarto	O
+arterial	O
+,	O
+gastroenteritis	O
+aguda	O
+,	O
+cólico	O
+biliar	O

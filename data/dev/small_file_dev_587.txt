@@ -1,0 +1,12 @@
+
+n	O
+Bioquimica	O
+:	O
+Glu	O
+213	O
+;	O
+urea	O
+52	O
+;	O
+ác	O
+.	O

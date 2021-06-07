@@ -1,0 +1,16 @@
+
+Se	O
+realiza	O
+vídeo	O
+-	O
+electroencefalografía	O
+(	O
+V	O
+-	O
+EEG	O
+)	O
+sin	O
+objetivarse	O
+actividad	O
+epileptiforme	O
+.	O

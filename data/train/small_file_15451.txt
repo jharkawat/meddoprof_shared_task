@@ -1,0 +1,27 @@
+
+Sucre	O
+,	O
+quien	O
+refiere	O
+enfermedad	O
+de	O
+cuatro	O
+meses	O
+de	O
+evolución	O
+iniciada	O
+en	O
+la	O
+región	O
+poplítea	O
+derecha	O
+,	O
+que	O
+se	O
+ulceró	O
+y	O
+aumentó	O
+progresivamente	O
+de	O
+tamaño	O
+.	O

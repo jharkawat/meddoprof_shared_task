@@ -1,0 +1,6 @@
+
+Diabetes	O
+Mellitus	O
+tipo	O
+II	O
+.	O

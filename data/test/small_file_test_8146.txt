@@ -1,0 +1,16 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+heparina	O
+de	O
+bajo	O
+peso	O
+molecular	O
+con	O
+buena	O
+tolerancia	O
+y	O
+evolución	O
+.	O

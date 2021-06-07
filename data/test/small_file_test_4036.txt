@@ -1,0 +1,27 @@
+
+En	O
+este	O
+momento	O
+se	O
+cambia	O
+gefitinib	O
+por	O
+erlotinib	O
+a	O
+dosis	O
+de	O
+150	O
+mg	O
+diarios	O
+,	O
+suspendiendo	O
+terapia	O
+sistémica	O
+con	O
+pemetrexed	O
+tras	O
+cuatro	O
+ciclos	O
+de	O
+tratamiento	O
+.	O

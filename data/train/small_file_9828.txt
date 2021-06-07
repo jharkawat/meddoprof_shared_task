@@ -1,0 +1,13 @@
+
+En	O
+el	O
+Servicio	O
+de	O
+Urgencias	O
+se	O
+realizan	O
+pruebas	O
+complementarias	O
+donde	O
+destacan	O
+:	O

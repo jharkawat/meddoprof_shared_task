@@ -1,0 +1,26 @@
+
+Con	O
+la	O
+dermatoscopia	O
+de	O
+luz	O
+polarizada	O
+se	O
+advertía	O
+que	O
+dichas	O
+pápulas	O
+estaban	O
+conformadas	O
+por	O
+una	O
+red	O
+vascular	O
+dilatada	O
+sobre	O
+un	O
+fondo	O
+eritemato	O
+-	O
+anaranjado	O
+.	O

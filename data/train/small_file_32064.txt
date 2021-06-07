@@ -1,0 +1,10 @@
+
+Trabaja	O
+de	O
+Guardia	B-PROFESION
+de	I-PROFESION
+Seguridad	I-PROFESION
+desde	O
+hace	O
+años	O
+.	O

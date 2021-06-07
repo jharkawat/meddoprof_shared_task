@@ -1,0 +1,10 @@
+
+Sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+y	O
+sin	O
+hábitos	O
+tóxicos	O
+.	O

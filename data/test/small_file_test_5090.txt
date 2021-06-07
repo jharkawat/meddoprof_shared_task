@@ -1,0 +1,16 @@
+
+Se	O
+solicitó	O
+TAC	O
+de	O
+tórax	O
+y	O
+cuello	O
+y	O
+se	O
+remite	O
+a	O
+CCEE	O
+de	O
+Neumología	O
+.	O

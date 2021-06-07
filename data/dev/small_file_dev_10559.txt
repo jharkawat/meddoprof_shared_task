@@ -1,0 +1,13 @@
+
+Su	O
+mujer	O
+ha	O
+sido	O
+diagnósticada	O
+hace	O
+2	O
+meses	O
+de	O
+tuberculosis	O
+renal	O
+.	O

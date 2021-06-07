@@ -1,0 +1,14 @@
+
+Se	O
+realizó	O
+fibrobroncoscopía	O
+que	O
+descartó	O
+hemorragia	O
+alveolar	O
+y	O
+se	O
+tomó	O
+lavado	O
+bronquioalveolar	O
+.	O

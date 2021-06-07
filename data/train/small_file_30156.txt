@@ -1,0 +1,10 @@
+
+Antecedentes	O
+médicos	O
+:	O
+sin	O
+antecedentes	O
+personales	O
+orgánicos	O
+consignados	O
+.	O

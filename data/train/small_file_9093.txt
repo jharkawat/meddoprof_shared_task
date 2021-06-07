@@ -1,0 +1,10 @@
+
+No	O
+se	O
+observa	O
+la	O
+presencia	O
+de	O
+sangrados	O
+intraabdominales	O
+.	O

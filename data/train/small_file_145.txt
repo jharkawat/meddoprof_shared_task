@@ -1,0 +1,17 @@
+
+El	O
+equipo	B-PROFESION
+de	I-PROFESION
+psiquiatría	I-PROFESION
+autorizó	O
+su	O
+alta	O
+para	O
+pasar	O
+a	O
+un	O
+centro	O
+de	O
+rehabilitación	O
+subagudo	O
+.	O

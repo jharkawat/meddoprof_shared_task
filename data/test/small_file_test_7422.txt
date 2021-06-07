@@ -1,0 +1,9 @@
+
+No	O
+se	O
+muestra	O
+enfermedad	O
+a	O
+otros	O
+niveles	O
+.	O

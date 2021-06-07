@@ -1,0 +1,12 @@
+
+El	O
+discurso	O
+es	O
+espontáneo	O
+,	O
+fluido	O
+,	O
+coherente	O
+y	O
+estructurado	O
+.	O

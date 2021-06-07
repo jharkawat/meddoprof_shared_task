@@ -1,0 +1,17 @@
+
+Con	O
+la	O
+inclusión	O
+de	O
+clozapina	O
+a	O
+su	O
+pauta	O
+farmacológica	O
+habitual	O
+se	O
+ha	O
+logrado	O
+estabilización	O
+clínica	O
+.	O

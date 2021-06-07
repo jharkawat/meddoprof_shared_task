@@ -1,0 +1,12 @@
+
+Se	O
+valoraron	O
+a	O
+la	O
+hija	O
+y	O
+al	O
+padre	O
+por	O
+separado	O
+.	O

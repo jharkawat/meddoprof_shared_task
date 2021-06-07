@@ -1,0 +1,27 @@
+
+Ingresó	O
+en	O
+la	O
+Unidad	O
+de	O
+Agudos	O
+de	O
+Psiquiatría	O
+,	O
+fue	O
+tratado	O
+con	O
+haloperidol	O
+hasta	O
+20	O
+mg	O
+/	O
+día	O
+y	O
+amitriptilina	O
+hasta	O
+225	O
+mg	O
+/	O
+día	O
+.	O

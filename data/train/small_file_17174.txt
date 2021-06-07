@@ -1,0 +1,15 @@
+
+Resonancia	O
+magnética	O
+craneal	O
+en	O
+secuencia	O
+T2	O
+que	O
+objetiva	O
+hiperseñal	O
+de	O
+los	O
+globos	O
+pálidos	O
+.	O

@@ -1,0 +1,17 @@
+
+En	O
+sangre	O
+periférica	O
+las	O
+células	O
+leucémicas	O
+mostrarían	O
+proyecciones	O
+citoplasmáticas	O
+que	O
+aparentan	O
+"	O
+células	O
+peludas	O
+"	O
+.	O

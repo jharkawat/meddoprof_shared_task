@@ -1,0 +1,16 @@
+
+No	O
+se	O
+observan	O
+infiltrados	O
+tumorales	O
+de	O
+forma	O
+multifocal	O
+se	O
+observan	O
+moderados	O
+signos	O
+de	O
+hemofagocitosis	O
+.	O

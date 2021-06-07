@@ -1,0 +1,24 @@
+
+Se	O
+indica	O
+tratamiento	O
+antipsicótico	O
+con	O
+risperidona	O
+6	O
+mg	O
+al	O
+día	O
+,	O
+oxcarbacepina	O
+900	O
+mg	O
+al	O
+día	O
+y	O
+cloracepato	O
+dipotásico	O
+45mg	O
+al	O
+día	O
+.	O

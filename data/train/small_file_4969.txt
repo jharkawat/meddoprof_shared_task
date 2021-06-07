@@ -1,0 +1,10 @@
+
+A	O
+la	O
+palpación	O
+se	O
+encuentran	O
+adenopatías	O
+pequeñas	O
+supraclaviculares	O
+.	O

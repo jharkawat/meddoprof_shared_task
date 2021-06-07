@@ -1,0 +1,8 @@
+
+El	O
+discurso	O
+era	O
+coherente	O
+e	O
+intencional	O
+.	O

@@ -1,0 +1,15 @@
+
+Por	O
+el	O
+miedo	O
+a	O
+un	O
+nuevo	O
+ataque	O
+Ana	O
+no	O
+realiza	O
+ninguna	O
+actividad	O
+social	O
+.	O

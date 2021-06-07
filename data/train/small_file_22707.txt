@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+podía	O
+reconocerlos	O
+como	O
+irreales	O
+y	O
+tenían	O
+un	O
+alto	O
+impacto	O
+emocional	O
+en	O
+el	O
+mismo	O
+,	O
+generándole	O
+angustia	O
+e	O
+incertidumbre	O
+.	O

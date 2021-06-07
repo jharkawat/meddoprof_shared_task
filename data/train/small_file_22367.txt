@@ -1,0 +1,19 @@
+
+Tratamiento	O
+actual	O
+con	O
+Bromazepam	O
+1	O
+,	O
+5	O
+mg	O
+(	O
+0	O
+-	O
+0	O
+-	O
+1	O
+,	O
+5	O
+)	O
+.	O

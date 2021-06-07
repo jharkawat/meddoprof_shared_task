@@ -1,0 +1,9 @@
+
+Cursó	O
+estudios	O
+universitarios	O
+con	O
+alta	O
+productividad	O
+académica	O
+.	O

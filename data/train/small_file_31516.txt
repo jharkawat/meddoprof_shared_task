@@ -1,0 +1,24 @@
+
+De	O
+personalidad	O
+premórbida	O
+,	O
+introvertido	O
+,	O
+reservado	O
+,	O
+tímido	O
+,	O
+con	O
+dificultades	O
+para	O
+las	O
+relaciones	O
+sociales	O
+,	O
+apenas	O
+tenía	O
+amigos	O
+ni	O
+pareja	O
+.	O

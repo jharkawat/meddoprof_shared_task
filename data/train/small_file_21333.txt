@@ -1,0 +1,25 @@
+
+Seguidamente	O
+se	O
+dirige	O
+hacia	O
+otro	O
+compañero	B-SITUACION_LABORAL
+y	O
+le	O
+tira	O
+la	O
+mesa	O
+,	O
+le	O
+coge	O
+las	O
+hojas	O
+de	O
+la	O
+carpeta	O
+y	O
+se	O
+las	O
+rompe	O
+.	O

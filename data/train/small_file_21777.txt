@@ -1,0 +1,18 @@
+
+Parto	O
+y	O
+desarrollo	O
+psicomotriz	O
+normal	O
+,	O
+infancia	O
+y	O
+adolescencia	O
+normales	O
+,	O
+escolarizada	O
+hasta	O
+los	O
+14	O
+años	O
+.	O

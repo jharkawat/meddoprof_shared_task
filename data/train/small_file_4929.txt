@@ -1,0 +1,6 @@
+
+-	O
+Tc	O
+abdominal	O
+normal	O
+.	O

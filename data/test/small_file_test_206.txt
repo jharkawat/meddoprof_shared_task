@@ -1,0 +1,22 @@
+
+A	O
+los	O
+12	O
+años	O
+se	O
+lesionó	O
+la	O
+espalda	O
+jugando	O
+pero	O
+no	O
+asistió	O
+al	O
+médico	B-PROFESION
+ni	O
+recibió	O
+tratamiento	O
+o	O
+reposo	O
+alguno	O
+.	O

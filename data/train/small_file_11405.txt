@@ -1,0 +1,5 @@
+
+ROT	O
+sin	O
+hallazgos	O
+.	O

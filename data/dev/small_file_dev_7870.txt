@@ -1,0 +1,21 @@
+
+Radiografía	O
+de	O
+tórax	O
+con	O
+silueta	O
+cardiomediastínica	O
+dentro	O
+de	O
+los	O
+límites	O
+de	O
+la	O
+normalidad	O
+y	O
+parénquimas	O
+pulmonares	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

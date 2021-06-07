@@ -1,0 +1,9 @@
+
+Tos	O
+con	O
+esputos	O
+verdosos	O
+desde	O
+el	O
+inicio	O
+.	O

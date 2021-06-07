@@ -1,0 +1,10 @@
+
+Sin	O
+molestias	O
+miccionales	O
+,	O
+no	O
+diarreas	O
+ni	O
+sangrado	O
+.	O

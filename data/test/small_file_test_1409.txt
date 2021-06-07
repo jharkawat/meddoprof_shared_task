@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+exploración	O
+clínica	O
+con	O
+registro	O
+de	O
+los	O
+parámetros	O
+periodontales	O
+,	O
+índice	O
+de	O
+placa	O
+,	O
+y	O
+seriada	O
+fotográfica	O
+y	O
+radiológica	O
+.	O

@@ -1,0 +1,12 @@
+
+IgG	O
+para	O
+CMV	O
+y	O
+VEB	O
+positivas	O
+,	O
+Ig	O
+M	O
+negativa	O
+.	O

@@ -1,0 +1,27 @@
+
+Desde	O
+entonces	O
+,	O
+ha	O
+hecho	O
+seguimiento	O
+estrecho	O
+por	O
+Psiquiatría	O
+y	O
+se	O
+han	O
+ensayado	O
+diversos	O
+fármacos	O
+,	O
+con	O
+sensibilidad	O
+elevada	O
+a	O
+efectos	O
+secundarios	O
+y	O
+respuesta	O
+parcial	O
+.	O

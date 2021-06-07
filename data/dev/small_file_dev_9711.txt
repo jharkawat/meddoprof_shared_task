@@ -1,0 +1,8 @@
+
+La	O
+paciente	O
+no	O
+recibió	O
+ningún	O
+tratamiento	O
+.	O

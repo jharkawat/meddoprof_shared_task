@@ -1,0 +1,24 @@
+
+A	O
+la	O
+exploración	O
+Ta38	O
+́	O
+4	O
+con	O
+dolor	O
+a	O
+la	O
+palpación	O
+de	O
+las	O
+apófisis	O
+vertebrales	O
+lumbares	O
+y	O
+de	O
+la	O
+musculatura	O
+paravertebral	O
+lumbar	O
+.	O

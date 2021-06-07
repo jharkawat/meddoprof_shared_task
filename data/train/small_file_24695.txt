@@ -1,0 +1,27 @@
+
+Ella	O
+relata	O
+el	O
+hecho	O
+como	O
+que	O
+es	O
+víctima	O
+de	O
+un	O
+impulso	O
+que	O
+no	O
+puede	O
+controlar	O
+y	O
+que	O
+actúa	O
+en	O
+ocasiones	O
+en	O
+contra	O
+de	O
+su	O
+voluntad	O
+.	O

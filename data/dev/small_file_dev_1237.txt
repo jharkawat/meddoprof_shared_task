@@ -1,0 +1,13 @@
+
+Ha	O
+trabajado	O
+desde	O
+los	O
+18	O
+años	O
+como	O
+cocinero	B-PROFESION
+de	O
+manera	O
+esporádica	O
+.	O

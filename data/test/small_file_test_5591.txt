@@ -1,0 +1,6 @@
+
+Refiere	O
+polaquiuria	O
+y	O
+nicturia	O
+.	O

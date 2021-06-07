@@ -1,0 +1,12 @@
+
+El	O
+cuadro	O
+se	O
+interpretó	O
+como	O
+probable	O
+miopericarditis	O
+secundaria	O
+a	O
+ATRA	O
+.	O

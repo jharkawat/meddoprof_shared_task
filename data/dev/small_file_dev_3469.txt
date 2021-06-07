@@ -1,0 +1,18 @@
+
+En	O
+varias	O
+ocasiones	O
+le	O
+subió	O
+la	O
+presión	O
+arterial	O
+hasta	O
+cifras	O
+como	O
+200	O
+/	O
+100	O
+mm	O
+Hg	O
+.	O

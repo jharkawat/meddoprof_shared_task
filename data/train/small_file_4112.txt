@@ -1,0 +1,21 @@
+
+A	O
+la	O
+auscultación	O
+,	O
+lo	O
+único	O
+a	O
+destacar	O
+era	O
+la	O
+presencia	O
+de	O
+sibilancias	O
+espiratorias	O
+,	O
+siendo	O
+el	O
+resto	O
+normal	O
+.	O

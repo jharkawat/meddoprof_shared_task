@@ -1,0 +1,14 @@
+
+Engrosamiento	O
+nodular	O
+de	O
+la	O
+glándula	O
+suprarrenal	O
+izquierda	O
+sin	O
+poder	O
+descartarse	O
+lesión	O
+metastásica	O
+.	O

@@ -1,0 +1,15 @@
+
+Ante	O
+tal	O
+estado	O
+,	O
+decidió	O
+acudir	O
+por	O
+tercera	O
+vez	O
+a	O
+urgencias	O
+del	O
+HCUVA	O
+.	O

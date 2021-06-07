@@ -1,0 +1,19 @@
+
+En	O
+el	O
+cayado	O
+aórtico	O
+existían	O
+placas	O
+de	O
+ateroma	O
+,	O
+más	O
+frecuentes	O
+y	O
+calcificadas	O
+en	O
+la	O
+aorta	O
+abdominal	O
+.	O

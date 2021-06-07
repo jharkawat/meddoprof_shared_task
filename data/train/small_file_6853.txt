@@ -1,0 +1,14 @@
+
+En	O
+el	O
+cultivo	O
+del	O
+core	O
+para	O
+hongos	O
+se	O
+aisló	O
+Trichopyton	O
+mentagrophytes	O
+var	O
+.	O

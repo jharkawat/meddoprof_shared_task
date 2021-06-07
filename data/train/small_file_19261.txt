@@ -1,0 +1,11 @@
+
+Sensación	O
+de	O
+irritabilidad	O
+y	O
+agresividad	O
+verbal	O
+con	O
+los	O
+compañeros	O
+.	O

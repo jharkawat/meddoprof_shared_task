@@ -1,0 +1,19 @@
+
+A	O
+)	O
+EBUS	O
+de	O
+adenopatía	O
+de	O
+región	O
+7	O
+(	O
+dato	O
+clínico	O
+)	O
+:	O
+positivo	O
+para	O
+células	O
+malignas	O
+.	O

@@ -1,0 +1,12 @@
+
+Se	O
+realizó	O
+una	O
+biopsia	O
+cutánea	O
+para	O
+estudio	O
+histológico	O
+y	O
+microbiológico	O
+.	O

@@ -1,0 +1,22 @@
+
+Dada	O
+la	O
+edad	O
+del	O
+paciente	O
+,	O
+cabría	O
+plantearse	O
+la	O
+enfermedad	O
+de	O
+Creutzfeldt	O
+-	O
+Jakob	O
+o	O
+la	O
+hidrocefalia	O
+normotensiva	O
+del	O
+adulto	O
+.	O

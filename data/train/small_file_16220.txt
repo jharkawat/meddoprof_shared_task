@@ -1,0 +1,7 @@
+
+Hepatitis	O
+B	O
+y	O
+C	O
+negativas	O
+.	O

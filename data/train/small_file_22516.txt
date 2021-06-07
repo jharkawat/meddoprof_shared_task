@@ -1,0 +1,20 @@
+
+Presenta	O
+buen	O
+aspecto	O
+,	O
+cuidado	O
+,	O
+con	O
+ligera	O
+agitación	O
+motora	O
+que	O
+desaparece	O
+a	O
+lo	O
+largo	O
+de	O
+la	O
+conversación	O
+.	O

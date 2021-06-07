@@ -1,0 +1,9 @@
+
+No	O
+presenta	O
+alergias	O
+ni	O
+intolerancias	O
+alimentarias	O
+previas	O
+.	O

@@ -1,0 +1,13 @@
+
+Discurso	O
+coherente	O
+y	O
+estructurado	O
+,	O
+con	O
+ritmo	O
+normal	O
+y	O
+tono	O
+elevado	O
+.	O

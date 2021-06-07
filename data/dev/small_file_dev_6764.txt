@@ -1,0 +1,27 @@
+
+A	O
+la	O
+exploración	O
+física	O
+presenta	O
+tonos	O
+rítmicos	O
+a	O
+90	O
+latidos	O
+por	O
+minuto	O
+,	O
+con	O
+soplo	O
+sistólico	O
+V	O
+/	O
+VI	O
+irradiado	O
+a	O
+axila	O
+no	O
+descrito	O
+previamente	O
+.	O

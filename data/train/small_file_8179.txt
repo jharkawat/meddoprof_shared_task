@@ -1,0 +1,17 @@
+
+Descartada	O
+razonablemente	O
+causa	O
+tóxico	O
+-	O
+medicamentosa	O
+se	O
+inicia	O
+estudio	O
+de	O
+otras	O
+etiologías	O
+de	O
+hepatitis	O
+agudas	O
+.	O

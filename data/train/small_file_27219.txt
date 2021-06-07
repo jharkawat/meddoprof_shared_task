@@ -1,0 +1,5 @@
+
+Tiene	O
+pareja	O
+sentimental	O
+.	O

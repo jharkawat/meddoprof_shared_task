@@ -1,0 +1,15 @@
+
+Es	O
+seguido	O
+en	O
+consulta	O
+una	O
+semana	O
+y	O
+un	O
+mes	O
+después	O
+de	O
+la	O
+intervención	O
+.	O

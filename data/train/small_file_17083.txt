@@ -1,0 +1,5 @@
+
+Grasping	O
+positivo	O
+bilateral	O
+.	O

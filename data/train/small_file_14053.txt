@@ -1,0 +1,7 @@
+
+Cráneo	O
+y	O
+cara	O
+:	O
+Normal	O
+.	O

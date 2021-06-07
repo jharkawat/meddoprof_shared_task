@@ -1,0 +1,19 @@
+
+Tienen	O
+excesiva	O
+permisividad	O
+con	O
+él	O
+debido	O
+a	O
+su	O
+enfermedad	O
+,	O
+que	O
+en	O
+ocasiones	O
+molesta	O
+a	O
+los	O
+compañeros	B-SITUACION_LABORAL
+.	O

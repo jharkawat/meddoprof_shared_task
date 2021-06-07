@@ -1,0 +1,10 @@
+
+Radiografía	O
+tórax	O
+con	O
+aumento	O
+densidad	O
+del	O
+hemitórax	O
+izquierdo	O
+.	O

@@ -1,0 +1,4 @@
+
+Bebedor	O
+moderado	O
+.	O

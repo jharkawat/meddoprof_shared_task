@@ -1,0 +1,7 @@
+
+La	O
+laringoscopia	O
+nasofaríngea	O
+fue	O
+normal	O
+.	O

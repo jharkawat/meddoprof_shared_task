@@ -1,0 +1,12 @@
+
+Y	O
+en	O
+un	O
+pasado	O
+fue	O
+consumidor	O
+de	O
+cannabis	O
+y	O
+cocaína	O
+.	O

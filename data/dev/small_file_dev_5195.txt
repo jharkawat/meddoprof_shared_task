@@ -1,0 +1,26 @@
+
+Mientras	O
+sube	O
+a	O
+la	O
+planta	O
+,	O
+tiene	O
+dos	O
+picos	O
+febriles	O
+de	O
+39oC	O
+,	O
+observándose	O
+que	O
+al	O
+bajar	O
+la	O
+Ta	O
+el	O
+paciente	O
+mejora	O
+del	O
+hipo	O
+.	O

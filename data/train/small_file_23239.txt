@@ -1,0 +1,9 @@
+
+El	O
+paciente	O
+no	O
+tenía	O
+ningún	O
+antecedente	O
+psiquiátrico	O
+.	O

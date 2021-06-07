@@ -1,0 +1,15 @@
+
+Su	O
+CI	O
+Verbal	O
+presenta	O
+un	O
+valor	O
+tipo	O
+promedio	O
+(	O
+CI	O
+de	O
+100	O
+)	O
+.	O

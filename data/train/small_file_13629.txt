@@ -1,0 +1,24 @@
+
+Como	O
+hallazgo	O
+aparecen	O
+unas	O
+adenopatías	O
+mediastínicas	O
+que	O
+se	O
+extienden	O
+a	O
+retroperitoneo	O
+con	O
+una	O
+imagen	O
+de	O
+captación	O
+de	O
+aorta	O
+abdominal	O
+en	O
+PET	O
+complementario	O
+.	O

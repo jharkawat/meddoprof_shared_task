@@ -1,0 +1,19 @@
+
+Su	O
+primera	O
+y	O
+única	O
+relación	O
+sexual	O
+fue	O
+a	O
+los	O
+23	O
+años	O
+con	O
+preservativo	O
+y	O
+con	O
+una	O
+prostituta	B-PROFESION
+.	O

@@ -1,0 +1,24 @@
+
+SPET	O
+cerebral	O
+con	O
+IOFLUPANO	O
+I	O
+-	O
+123	O
+con	O
+captación	O
+conservada	O
+en	O
+ambos	O
+núcleos	O
+estriados	O
+y	O
+signos	O
+de	O
+degeneración	O
+de	O
+neuronas	O
+presinápticas	O
+dopaminérgicas	O
+.	O

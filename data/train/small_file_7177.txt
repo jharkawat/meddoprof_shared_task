@@ -1,0 +1,10 @@
+
+Enfermedad	O
+de	O
+Fox	O
+Fordyce	O
+o	O
+Miliaria	O
+apocrina	O
+axilar	O
+.	O

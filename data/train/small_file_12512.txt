@@ -1,0 +1,16 @@
+
+A	O
+su	O
+llegada	O
+a	O
+Urgencias	O
+,	O
+la	O
+paciente	O
+se	O
+encontraba	O
+afebril	O
+y	O
+hemodinámicamente	O
+estable	O
+.	O

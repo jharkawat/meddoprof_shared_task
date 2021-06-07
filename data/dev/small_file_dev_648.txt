@@ -1,0 +1,18 @@
+
+Ánimo	O
+disfórico	O
+e	O
+irritable	O
+con	O
+marcada	O
+labilidad	O
+emocional	O
+llegando	O
+al	O
+final	O
+de	O
+la	O
+entrevista	O
+al	O
+llanto	O
+.	O

@@ -1,0 +1,8 @@
+
+Aceptó	O
+y	O
+firmó	O
+el	O
+consentimiento	O
+informado	O
+.	O

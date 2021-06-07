@@ -1,0 +1,11 @@
+
+Relaciones	O
+con	O
+chicas	O
+a	O
+través	O
+de	O
+chats	O
+de	O
+internet	O
+.	O

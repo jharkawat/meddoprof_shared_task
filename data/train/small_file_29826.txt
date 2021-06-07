@@ -1,0 +1,21 @@
+
+Aún	O
+presentado	O
+un	O
+cuadro	O
+con	O
+tinte	O
+obsesivo	O
+,	O
+la	O
+ansiedad	O
+y	O
+el	O
+desarrollo	O
+del	O
+cuadro	O
+son	O
+de	O
+naturaleza	O
+psicótica	O
+.	O

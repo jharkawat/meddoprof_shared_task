@@ -1,0 +1,7 @@
+
+Adenopatías	O
+mediastínicas	O
+de	O
+tamaño	O
+patológico	O
+.	O

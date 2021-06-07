@@ -1,0 +1,9 @@
+
+Constantes	O
+vitales	O
+en	O
+rango	O
+de	O
+la	O
+normalidad	O
+.	O

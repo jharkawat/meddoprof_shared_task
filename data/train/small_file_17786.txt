@@ -1,0 +1,19 @@
+
+A	O
+la	O
+anamnesis	O
+dirigida	O
+niega	O
+cefalea	O
+,	O
+episodios	O
+previos	O
+similares	O
+,	O
+así	O
+como	O
+síntomas	O
+trigémino	O
+-	O
+autonómicos	O
+.	O

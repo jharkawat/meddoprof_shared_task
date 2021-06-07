@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+es	O
+intervenido	O
+de	O
+neoplasia	O
+de	O
+colon	O
+con	O
+resultado	O
+anatomopatológico	O
+de	O
+adenocarcinoma	O
+estadio	O
+III	O
+(	O
+pT3pN2M0	O
+)	O
+.	O

@@ -1,0 +1,25 @@
+
+En	O
+la	O
+actualidad	O
+la	O
+paciente	O
+se	O
+encuentra	O
+con	O
+dificultad	O
+para	O
+dormir	O
+,	O
+labilidad	O
+emocional	O
+y	O
+llanto	O
+fácil	O
+debido	O
+al	O
+fallecimiento	O
+de	O
+su	O
+hija	O
+.	O

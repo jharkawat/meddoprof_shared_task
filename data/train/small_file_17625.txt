@@ -1,0 +1,14 @@
+
+Numerosas	O
+lesiones	O
+vásculo	O
+-	O
+degenerativas	O
+crónicas	O
+en	O
+la	O
+sustancia	O
+blanca	O
+subcortical	O
+bilateral	O
+.	O

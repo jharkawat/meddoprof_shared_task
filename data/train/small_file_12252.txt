@@ -1,0 +1,8 @@
+
+Se	O
+realizó	O
+una	O
+exploración	O
+oftalmológica	O
+completa	O
+.	O

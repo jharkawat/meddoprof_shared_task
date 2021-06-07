@@ -1,0 +1,23 @@
+
+No	O
+está	O
+muy	O
+de	O
+acuerdo	O
+con	O
+el	O
+ingreso	O
+,	O
+pero	O
+este	O
+no	O
+le	O
+genera	O
+malestar	O
+ni	O
+ansiedad	O
+significativos	O
+según	O
+nos	O
+comenta	O
+.	O

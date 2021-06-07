@@ -1,0 +1,16 @@
+
+Bloqueo	O
+motor	O
+mediano	O
+izquierdo	O
+en	O
+el	O
+antebrazo	O
+con	O
+disminución	O
+de	O
+amplitud	O
+del	O
+53	O
+%	O
+.	O

@@ -1,0 +1,4 @@
+
+Actitud	O
+suspicaz	O
+.	O

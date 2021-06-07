@@ -1,0 +1,26 @@
+
+En	O
+última	O
+TC	O
+de	O
+control	O
+(	O
+abril	O
+/	O
+2018	O
+)	O
+tras	O
+8	O
+ciclos	O
+de	O
+tratamiento	O
+con	O
+olaparib	O
+,	O
+no	O
+se	O
+objetiva	O
+ningún	O
+implante	O
+peritoneal	O
+.	O

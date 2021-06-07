@@ -1,0 +1,23 @@
+
+Antecedentes	O
+familiares	O
+:	O
+El	O
+abuelo	O
+materno	O
+se	O
+suicidó	O
+a	O
+los	O
+50	O
+años	O
+,	O
+al	O
+parecer	O
+como	O
+consecuencia	O
+de	O
+una	O
+Depresión	O
+grave	O
+.	O

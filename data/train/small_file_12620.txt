@@ -1,0 +1,20 @@
+
+Se	O
+decide	O
+realizar	O
+traqueostomía	O
+percutánea	O
+por	O
+días	O
+prolongados	O
+de	O
+intubación	O
+para	O
+mejorar	O
+ventilación	O
+y	O
+disminuir	O
+incidencia	O
+de	O
+infección	O
+.	O

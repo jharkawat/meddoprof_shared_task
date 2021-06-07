@@ -1,0 +1,18 @@
+
+Pápulas	O
+eritematosas	O
+diseminadas	O
+en	O
+el	O
+tórax	O
+anterior	O
+,	O
+algunas	O
+presentan	O
+costra	O
+superficial	O
+y	O
+otras	O
+umbilicación	O
+central	O
+.	O

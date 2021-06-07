@@ -1,0 +1,15 @@
+
+Evoluciona	O
+hacia	O
+ánimo	O
+depresivo	O
+,	O
+cierta	O
+perplejidad	O
+,	O
+lentitud	O
+motora	O
+y	O
+en	O
+lenguaje	O
+.	O

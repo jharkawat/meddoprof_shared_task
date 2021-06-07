@@ -1,0 +1,10 @@
+
+Niega	O
+astenia	O
+,	O
+anorexia	O
+o	O
+pérdida	O
+de	O
+peso	O
+.	O

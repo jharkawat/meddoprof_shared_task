@@ -1,0 +1,16 @@
+
+Últimamente	O
+más	O
+angustiada	O
+,	O
+llamando	O
+de	O
+madrugada	O
+a	O
+compañeros	B-SITUACION_LABORAL
+,	O
+para	O
+comprobar	O
+que	O
+sabían	O
+.	O

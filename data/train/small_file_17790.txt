@@ -1,0 +1,6 @@
+
+Estaba	O
+normotensa	O
+y	O
+afebril	O
+.	O

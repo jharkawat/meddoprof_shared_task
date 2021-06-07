@@ -1,0 +1,21 @@
+
+Ecográficamente	O
+se	O
+demuestra	O
+que	O
+ambas	O
+vías	O
+excretoras	O
+han	O
+recuperado	O
+su	O
+morfología	O
+normal	O
+,	O
+persistiendo	O
+el	O
+adelgazamiento	O
+de	O
+la	O
+cortical	O
+.	O

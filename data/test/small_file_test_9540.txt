@@ -1,0 +1,12 @@
+
+»	O
+Melanoma	O
+retroauricular	O
+izquierdo	O
+pT2b	O
+resecado	O
+en	O
+octubre	O
+de	O
+2012	O
+.	O

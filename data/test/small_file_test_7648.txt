@@ -1,0 +1,6 @@
+
+Incapacidad	O
+para	O
+la	O
+marcha	O
+.	O

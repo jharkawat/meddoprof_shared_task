@@ -1,0 +1,8 @@
+
+No	O
+presenta	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+.	O

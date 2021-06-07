@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+refirió	O
+expulsar	O
+una	O
+"	O
+lombriz	O
+"	O
+en	O
+sus	O
+deposiciones	O
+.	O

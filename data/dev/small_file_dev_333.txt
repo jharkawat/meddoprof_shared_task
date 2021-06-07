@@ -1,0 +1,14 @@
+
+Se	O
+instaura	O
+de	O
+nuevo	O
+el	O
+tratamiento	O
+con	O
+clozapina	O
+junto	O
+con	O
+ácido	O
+valproico	O
+.	O

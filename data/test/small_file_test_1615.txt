@@ -1,0 +1,20 @@
+
+Al	O
+examen	O
+periodontal	O
+presenta	O
+profundidades	O
+al	O
+sonde	O
+localizadas	O
+en	O
+la	O
+zona	O
+distal	O
+del	O
+molar	O
+y	O
+furca	O
+con	O
+supuración	O
+.	O

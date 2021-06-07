@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+ha	O
+recibido	O
+múltiples	O
+tratamientos	O
+en	O
+su	O
+evolución	O
+.	O

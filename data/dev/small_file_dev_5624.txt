@@ -1,0 +1,13 @@
+
+Tampoco	O
+refería	O
+hábito	O
+tabáquico	O
+ni	O
+exposición	O
+a	O
+tabaco	O
+o	O
+sustancias	O
+nocivas	O
+.	O

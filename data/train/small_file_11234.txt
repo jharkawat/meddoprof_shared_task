@@ -1,0 +1,4 @@
+
+Bazo	O
+ausente	O
+.	O

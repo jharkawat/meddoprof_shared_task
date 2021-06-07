@@ -1,0 +1,13 @@
+
+Sindactilia	O
+cutánea	O
+leve	O
+en	O
+ambas	O
+manos	O
+,	O
+mayor	O
+en	O
+mano	O
+izquierda	O
+.	O

@@ -1,0 +1,9 @@
+
+Fenotipo	O
+que	O
+se	O
+suaviza	O
+con	O
+la	O
+edad	O
+.	O

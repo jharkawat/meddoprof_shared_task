@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+regresa	O
+con	O
+lesiones	O
+ulcerativas	O
+y	O
+agrietadas	O
+,	O
+superpuestas	O
+a	O
+las	O
+lesiones	O
+verrugosas	O
+de	O
+inicio	O
+.	O

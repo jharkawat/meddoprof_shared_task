@@ -1,0 +1,14 @@
+
+Aumento	O
+del	O
+consumo	O
+de	O
+tabaco	O
+,	O
+lenguaje	O
+insultante	O
+,	O
+obsesiones	O
+y	O
+rituales	O
+.	O

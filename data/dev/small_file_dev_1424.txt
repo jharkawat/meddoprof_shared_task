@@ -1,0 +1,10 @@
+
+Refiere	O
+tensión	O
+muscular	O
+cuando	O
+esta	O
+con	O
+la	O
+madre	O
+.	O

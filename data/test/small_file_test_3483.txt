@@ -1,0 +1,18 @@
+
+Paciente	O
+varón	O
+de	O
+62	O
+años	O
+,	O
+que	O
+presenta	O
+como	O
+antecedentes	O
+reseñables	O
+ser	O
+exfumador	O
+y	O
+bebedor	O
+importante	O
+.	O

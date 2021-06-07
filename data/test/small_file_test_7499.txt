@@ -1,0 +1,11 @@
+
+No	O
+es	O
+doloroso	O
+,	O
+sin	O
+palpar	O
+masas	O
+ni	O
+megalias	O
+.	O

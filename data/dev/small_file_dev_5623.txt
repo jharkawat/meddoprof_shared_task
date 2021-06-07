@@ -1,0 +1,11 @@
+
+No	O
+refería	O
+antecedentes	O
+obstétricos	O
+ni	O
+antecedentes	O
+de	O
+infecciones	O
+urinarias	O
+.	O

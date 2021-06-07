@@ -1,0 +1,26 @@
+
+Hija	O
+única	O
+,	O
+relata	O
+una	O
+estupenda	O
+infancia	O
+,	O
+muy	O
+feliz	O
+a	O
+pesar	O
+de	O
+la	O
+trágica	O
+muerte	O
+de	O
+su	O
+padre	O
+cuando	O
+ella	O
+tenía	O
+3	O
+años	O
+.	O

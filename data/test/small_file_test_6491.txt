@@ -1,0 +1,8 @@
+
+El	O
+proteinograma	O
+reveló	O
+una	O
+hipoalbuminemia	O
+moderada	O
+.	O

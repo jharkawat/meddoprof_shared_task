@@ -1,0 +1,16 @@
+
+Nunca	O
+ha	O
+sufrido	O
+sedación	O
+,	O
+sialorrea	O
+,	O
+ganancia	O
+ponderal	O
+ni	O
+alteraciones	O
+en	O
+el	O
+hemograma	O
+.	O

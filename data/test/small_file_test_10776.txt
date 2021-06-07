@@ -1,0 +1,26 @@
+
+Tres	O
+meses	O
+después	O
+,	O
+tras	O
+la	O
+desaparición	O
+de	O
+la	O
+otitis	O
+serosa	O
+,	O
+presentaba	O
+una	O
+audiometría	O
+con	O
+hipoacusia	O
+neurosensorial	O
+bilateral	O
+leve	O
+con	O
+predominio	O
+en	O
+2000Hz	O
+.	O

@@ -1,0 +1,14 @@
+
+Paciente	O
+mujer	O
+de	O
+55	O
+años	O
+sin	O
+antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+de	O
+interés	O
+.	O

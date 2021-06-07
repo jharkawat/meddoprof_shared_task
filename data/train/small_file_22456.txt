@@ -1,0 +1,8 @@
+
+Tres	O
+hermanos	O
+fallecidos	O
+por	O
+suicidio	O
+consumado	O
+.	O

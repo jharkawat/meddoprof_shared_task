@@ -1,0 +1,15 @@
+
+Los	O
+anticuerpos	O
+onconeuronales	O
+y	O
+anti	O
+-	O
+neuropilo	O
+fueron	O
+negativos	O
+en	O
+LCR	O
+y	O
+suero	O
+.	O

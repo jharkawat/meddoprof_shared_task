@@ -1,0 +1,11 @@
+
+Asimetría	O
+facial	O
+secundaria	O
+al	O
+edema	O
+con	O
+motilidad	O
+facial	O
+conservada	O
+.	O

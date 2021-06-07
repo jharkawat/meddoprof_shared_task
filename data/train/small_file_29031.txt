@@ -1,0 +1,13 @@
+
+Destaca	O
+la	O
+presencia	O
+de	O
+dislipemia	O
+en	O
+tratamiento	O
+ya	O
+documentada	O
+en	O
+2010	O
+.	O

@@ -1,0 +1,11 @@
+
+Importante	O
+distocia	O
+familiar	O
+conocida	O
+por	O
+Servicios	O
+Sociales	O
+de	O
+Zona	O
+.	O

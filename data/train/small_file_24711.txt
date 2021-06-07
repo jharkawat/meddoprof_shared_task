@@ -1,0 +1,27 @@
+
+Permanece	O
+estable	O
+durante	O
+meses	O
+pero	O
+presenta	O
+nuevas	O
+recaídas	O
+coincidentes	O
+con	O
+la	O
+disminución	O
+de	O
+dosis	O
+de	O
+risperidona	O
+im	O
+,	O
+así	O
+como	O
+el	O
+abandono	O
+del	O
+tratamiento	O
+psicoterapéutico	O
+.	O

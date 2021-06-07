@@ -1,0 +1,17 @@
+
+En	O
+los	O
+adultos	O
+,	O
+las	O
+mujeres	O
+tienen	O
+intervalos	O
+QT	O
+ligeramente	O
+más	O
+largos	O
+que	O
+los	O
+hombres	O
+.	O

@@ -1,0 +1,14 @@
+
+Riesgo	O
+de	O
+hetero	O
+y	O
+autoagresividad	O
+por	O
+dificultad	O
+de	O
+control	O
+de	O
+los	O
+impulsos	O
+.	O

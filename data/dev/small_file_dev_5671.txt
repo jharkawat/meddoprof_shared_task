@@ -1,0 +1,23 @@
+
+No	O
+se	O
+visualizan	O
+anomalías	O
+vasculares	O
+,	O
+fistulas	O
+arteriovenosas	O
+,	O
+malformación	O
+arterial	O
+en	O
+las	O
+arterias	O
+cavernosas	O
+,	O
+ni	O
+en	O
+las	O
+arterias	O
+pélvicas	O
+.	O

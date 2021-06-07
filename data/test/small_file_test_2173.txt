@@ -1,0 +1,5 @@
+
+Ruidos	O
+intestinales	O
+presentes	O
+.	O

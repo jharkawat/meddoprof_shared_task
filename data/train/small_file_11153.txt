@@ -1,0 +1,12 @@
+
+Biopsia	O
+mucosa	O
+nasal	O
+:	O
+pólipos	O
+inflamatorios	O
+sin	O
+evidencia	O
+de	O
+vasculitis	O
+.	O

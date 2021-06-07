@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+continúa	O
+revisiones	O
+en	O
+psiquiatría	O
+y	O
+la	O
+medida	O
+más	O
+importante	O
+tomada	O
+fue	O
+la	O
+suspensión	O
+de	O
+aripiprazol	O
+.	O

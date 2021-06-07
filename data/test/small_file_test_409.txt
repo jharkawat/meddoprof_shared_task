@@ -1,0 +1,6 @@
+
+Profesión	O
+u	O
+oficio	O
+:	O
+estudiante	B-SITUACION_LABORAL

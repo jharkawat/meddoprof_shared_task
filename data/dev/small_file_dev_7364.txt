@@ -1,0 +1,16 @@
+
+Sin	O
+embargo	O
+sorprendería	O
+que	O
+teniendo	O
+una	O
+afectación	O
+pulmonar	O
+tan	O
+extensa	O
+la	O
+baciloscopia	O
+fuera	O
+negativa	O
+.	O

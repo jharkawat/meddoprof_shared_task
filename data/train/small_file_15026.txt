@@ -1,0 +1,8 @@
+
+No	O
+ha	O
+presentado	O
+fiebre	O
+ni	O
+calambres	O
+.	O

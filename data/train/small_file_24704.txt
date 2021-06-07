@@ -1,0 +1,16 @@
+
+Al	O
+alta	O
+recibe	O
+diagnóstico	O
+de	O
+psicosis	O
+inespecífica	O
+y	O
+se	O
+le	O
+pauta	O
+olanzapina	O
+y	O
+clorazepato	O
+.	O

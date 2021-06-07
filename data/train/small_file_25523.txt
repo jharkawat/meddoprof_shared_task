@@ -1,0 +1,14 @@
+
+Siempre	O
+se	O
+ha	O
+mostrado	O
+colaboradora	O
+y	O
+ha	O
+realizado	O
+correctamente	O
+el	O
+tratamiento	O
+pautado	O
+.	O

@@ -1,0 +1,12 @@
+
+Abdomen	O
+blando	O
+y	O
+depresible	O
+,	O
+sin	O
+dolor	O
+durante	O
+la	O
+palpación	O
+.	O

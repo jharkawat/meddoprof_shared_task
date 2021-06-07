@@ -1,0 +1,19 @@
+
+Se	O
+administra	O
+RT	O
+antiálgica	O
+cervical	O
+y	O
+se	O
+pospone	O
+tratamiento	O
+a	O
+nivel	O
+holocraneal	O
+hasta	O
+progresión	O
+radiológica	O
+o	O
+clínica	O
+.	O

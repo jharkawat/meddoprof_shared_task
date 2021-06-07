@@ -1,0 +1,15 @@
+
+Antecedentes	O
+:	O
+El	O
+paciente	O
+era	O
+el	O
+tercero	O
+de	O
+tres	O
+hijos	O
+de	O
+un	O
+taxista	B-PROFESION
+.	O

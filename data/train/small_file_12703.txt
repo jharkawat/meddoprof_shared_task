@@ -1,0 +1,12 @@
+
+Grapas	O
+metálicas	O
+en	O
+hipogástrico	O
+en	O
+relación	O
+con	O
+el	O
+antecedente	O
+quirúrgico	O
+.	O

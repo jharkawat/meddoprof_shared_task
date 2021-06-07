@@ -1,0 +1,14 @@
+
+Ansiedad	O
+referida	O
+y	O
+manifiesta	O
+,	O
+en	O
+forma	O
+de	O
+una	O
+intensa	O
+angustia	O
+psicótica	O
+.	O

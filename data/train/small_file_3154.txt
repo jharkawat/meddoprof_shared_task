@@ -1,0 +1,13 @@
+
+Buen	O
+estado	O
+general	O
+,	O
+consciente	O
+,	O
+orientado	O
+,	O
+colaborador	O
+,	O
+atento	O
+.	O

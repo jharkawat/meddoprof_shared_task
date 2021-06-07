@@ -1,0 +1,15 @@
+
+Derrame	O
+pericárdico	O
+de	O
+hasta	O
+3	O
+cm	O
+con	O
+signos	O
+radiológicos	O
+compatibles	O
+con	O
+taponamiento	O
+cardíaco	O
+.	O

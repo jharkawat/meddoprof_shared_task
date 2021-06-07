@@ -1,0 +1,11 @@
+
+20	O
+años	O
+:	O
+abandono	B-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+por	O
+"	O
+estrés	O
+"	O
+	O

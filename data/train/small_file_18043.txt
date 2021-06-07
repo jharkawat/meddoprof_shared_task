@@ -1,0 +1,23 @@
+
+A	O
+los	O
+3	O
+meses	O
+,	O
+la	O
+AV	O
+en	O
+OI	O
+fue	O
+20	O
+/	O
+20	O
+y	O
+el	O
+examen	O
+funduscópico	O
+no	O
+reveló	O
+hallazgos	O
+significativos	O
+.	O

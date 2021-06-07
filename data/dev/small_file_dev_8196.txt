@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+presentaba	O
+datos	O
+clínicos	O
+y	O
+analíticos	O
+de	O
+desnutrición	O
+calórico	O
+-	O
+proteica	O
+.	O

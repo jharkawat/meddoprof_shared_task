@@ -1,0 +1,23 @@
+
+Tras	O
+haber	O
+estado	O
+tomando	O
+el	O
+sol	O
+(	O
+reconocía	O
+haberse	O
+quedado	O
+dormido	O
+una	O
+hora	O
+)	O
+notó	O
+disminución	O
+de	O
+AV	O
+en	O
+el	O
+OD	O
+.	O

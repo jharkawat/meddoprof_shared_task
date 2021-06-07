@@ -1,0 +1,19 @@
+
+Catarros	O
+no	O
+frecuentes	O
+y	O
+en	O
+ocasiones	O
+cursan	O
+con	O
+sibilantes	O
+,	O
+aunque	O
+no	O
+le	O
+obligan	O
+a	O
+utilizar	O
+aerosoles	O
+.	O

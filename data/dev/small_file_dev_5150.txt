@@ -1,0 +1,25 @@
+
+Se	O
+decide	O
+que	O
+la	O
+paciente	O
+debe	O
+ingresar	O
+en	O
+UCI	O
+,	O
+pero	O
+previamente	O
+se	O
+debe	O
+"	O
+negociar	O
+"	O
+el	O
+drenaje	O
+del	O
+absceso	O
+desde	O
+urgencias	O
+.	O

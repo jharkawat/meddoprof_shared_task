@@ -1,0 +1,18 @@
+
+Alimentación	O
+:	O
+Realiza	O
+3	O
+refecciones	O
+durante	O
+el	O
+día	O
+,	O
+en	O
+las	O
+cuales	O
+como	O
+alimentos	O
+sin	O
+restricciones	O
+.	O

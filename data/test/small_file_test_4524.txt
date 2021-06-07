@@ -1,0 +1,14 @@
+
+En	O
+enero	O
+de	O
+2008	O
+fue	O
+valorado	O
+en	O
+el	O
+Servicio	O
+de	O
+Oncología	O
+Médica	O
+.	O

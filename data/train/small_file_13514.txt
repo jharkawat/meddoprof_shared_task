@@ -1,0 +1,21 @@
+
+Tras	O
+modificar	O
+terapia	O
+antirretroviral	O
+a	O
+tenofovir	O
+-	O
+alafenamida	O
+/	O
+emtricitabina	O
+y	O
+dolutegravir	O
+,	O
+el	O
+paciente	O
+presenta	O
+clara	O
+mejoría	O
+neurológica	O
+.	O

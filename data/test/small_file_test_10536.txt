@@ -1,0 +1,15 @@
+
+Ha	O
+sido	O
+intervenida	O
+quirúrgicamente	O
+hace	O
+más	O
+de	O
+20	O
+años	O
+de	O
+un	O
+bocio	O
+multinodular	O
+.	O

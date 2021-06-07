@@ -1,0 +1,23 @@
+
+Su	O
+hermana	O
+,	O
+que	O
+era	O
+dos	O
+años	O
+mayor	O
+,	O
+murió	O
+a	O
+los	O
+33	O
+años	O
+al	O
+chocar	O
+su	O
+automóvil	O
+contra	O
+un	O
+árbol	O
+.	O

@@ -1,0 +1,15 @@
+
+Alta	O
+emoción	O
+expresada	O
+familiar	O
+;	O
+ambivalencia	O
+en	O
+la	O
+puesta	O
+de	O
+límites	O
+y	O
+sobreprotección	O
+.	O

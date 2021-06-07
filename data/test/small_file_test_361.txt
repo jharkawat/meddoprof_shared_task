@@ -1,0 +1,17 @@
+
+Puntos	O
+dolorosos	O
+abdominales	O
+negativos	O
+,	O
+dolor	O
+a	O
+la	O
+presión	O
+localizado	O
+en	O
+mesogastrio	O
+de	O
+intensidad	O
+moderada	O
+.	O

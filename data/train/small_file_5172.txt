@@ -1,0 +1,10 @@
+
+ICC	O
+con	O
+FEV1	O
+preservada	O
+y	O
+clase	O
+funcional	O
+II	O
+.	O

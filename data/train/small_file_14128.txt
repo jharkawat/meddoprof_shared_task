@@ -1,0 +1,25 @@
+
+Además	O
+,	O
+presentaba	O
+astenia	O
+intensa	O
+y	O
+trastornos	O
+del	O
+ánimo	O
+por	O
+el	O
+que	O
+es	O
+diagnosticado	O
+de	O
+reacción	O
+mixta	O
+de	O
+ansiedad	O
+y	O
+depresión	O
+por	O
+psiquiatría	O
+.	O

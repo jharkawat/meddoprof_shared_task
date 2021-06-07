@@ -1,0 +1,26 @@
+
+Presentaba	O
+extensa	O
+linfangitis	O
+carcinomatosa	O
+extramural	O
+,	O
+infiltración	O
+de	O
+linfáticos	O
+perineurales	O
+e	O
+infiltración	O
+metastásica	O
+en	O
+15	O
+de	O
+los	O
+23	O
+ganglios	O
+extirpados	O
+por	O
+células	O
+de	O
+adenocarcinoma	O
+.	O

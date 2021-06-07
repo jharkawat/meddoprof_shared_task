@@ -1,0 +1,19 @@
+
+A	O
+los	O
+34	O
+años	O
+de	O
+edad	O
+,	O
+lanza	O
+una	O
+nota	O
+por	O
+la	O
+ventana	O
+"	O
+solicitando	O
+ayuda	O
+"	O
+.	O

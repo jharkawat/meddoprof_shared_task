@@ -1,0 +1,16 @@
+
+Vive	O
+en	O
+Valencia	O
+en	O
+la	O
+casa	O
+familiar	O
+,	O
+junto	O
+con	O
+sus	O
+padres	O
+y	O
+hermanos	O
+.	O

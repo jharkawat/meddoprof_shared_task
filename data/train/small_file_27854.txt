@@ -1,0 +1,25 @@
+
+Las	O
+disfunciones	O
+en	O
+la	O
+relación	O
+médico	B-PROFESION
+-	O
+paciente	O
+,	O
+profesional	B-PROFESION
+-	O
+paciente	O
+,	O
+son	O
+un	O
+factor	O
+de	O
+riesgo	O
+,	O
+como	O
+en	O
+este	O
+caso	O
+.	O

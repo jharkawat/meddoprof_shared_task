@@ -1,0 +1,17 @@
+
+La	O
+intensidad	O
+y	O
+frecuencia	O
+de	O
+la	O
+escucha	O
+de	O
+voces	O
+se	O
+atenúa	O
+significativamente	O
+durante	O
+el	O
+ingreso	O
+.	O

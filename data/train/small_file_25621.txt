@@ -1,0 +1,6 @@
+
+Trastorno	O
+bipolar	O
+tipo	O
+II	O
+.	O

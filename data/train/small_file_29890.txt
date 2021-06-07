@@ -1,0 +1,20 @@
+
+Antecedentes	O
+familiares	O
+:	O
+sus	O
+padres	O
+fallecieron	O
+hace	O
+10	O
+y	O
+12	O
+años	O
+con	O
+historia	O
+de	O
+consumo	O
+perjudicial	O
+de	O
+alcohol	O
+.	O

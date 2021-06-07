@@ -1,0 +1,4 @@
+
+Murphy	O
+negativo	O
+.	O

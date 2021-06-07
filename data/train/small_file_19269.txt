@@ -1,0 +1,7 @@
+
+Trastorno	O
+bipolar	O
+episodio	O
+más	O
+reciente	O
+maníaco	O

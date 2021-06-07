@@ -1,0 +1,11 @@
+
+Diagnóstico	O
+AP	O
+:	O
+Enfermedad	O
+de	O
+Castleman	O
+Hialino	O
+-	O
+Vascular	O
+.	O

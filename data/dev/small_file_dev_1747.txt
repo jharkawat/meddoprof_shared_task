@@ -1,0 +1,18 @@
+
+Desde	O
+hace	O
+1	O
+año	O
+,	O
+el	O
+paciente	O
+no	O
+toma	O
+ninguna	O
+medicación	O
+,	O
+según	O
+refiere	O
+la	O
+familia	O
+.	O

@@ -1,0 +1,12 @@
+
+Además	O
+se	O
+observa	O
+pequeño	O
+nódulo	O
+en	O
+dorso	O
+de	O
+mano	O
+izquierda	O
+.	O

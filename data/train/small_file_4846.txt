@@ -1,0 +1,13 @@
+
+Abuelo	O
+materno	O
+fallecido	O
+hace	O
+un	O
+año	O
+a	O
+consecuencia	O
+de	O
+un	O
+Ictus	O
+.	O

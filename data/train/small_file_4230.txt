@@ -1,0 +1,10 @@
+
+Se	O
+pautó	O
+tratamiento	O
+empírico	O
+y	O
+se	O
+solicitó	O
+analítica	O
+.	O

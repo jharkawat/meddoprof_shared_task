@@ -1,0 +1,17 @@
+
+Parto	O
+en	O
+semana	O
+38	O
+mediante	O
+cesárea	O
+por	O
+sospecha	O
+de	O
+pérdida	O
+de	O
+bienestar	O
+fetal	O
+y	O
+RCI	O
+.	O

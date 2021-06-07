@@ -1,0 +1,17 @@
+
+Radiografía	O
+de	O
+tórax	O
+:	O
+ateroma	O
+aórtico	O
+calcificado	O
+con	O
+silueta	O
+cardiaca	O
+normal	O
+y	O
+mínima	O
+redistribución	O
+vascular	O
+.	O

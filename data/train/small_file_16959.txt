@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+comentó	O
+que	O
+previamente	O
+al	O
+inicio	O
+de	O
+la	O
+clínica	O
+descrita	O
+había	O
+estado	O
+manipulando	O
+plantas	O
+.	O

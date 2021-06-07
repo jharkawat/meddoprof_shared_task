@@ -1,0 +1,23 @@
+
+El	O
+estudio	O
+inmunohistoquímico	O
+demostró	O
+expresión	O
+de	O
+CDX2	O
+,	O
+por	O
+lo	O
+que	O
+era	O
+preciso	O
+descartar	O
+una	O
+infiltración	O
+por	O
+adenocarcinoma	O
+de	O
+origen	O
+digestivo	O
+.	O

@@ -1,0 +1,26 @@
+
+En	O
+el	O
+momento	O
+actual	O
+el	O
+paciente	O
+sigue	O
+asintomático	O
+y	O
+está	O
+pendiente	O
+de	O
+reevaluación	O
+radiológica	O
+y	O
+analítica	O
+a	O
+las	O
+8	O
+semanas	O
+de	O
+finalizar	O
+el	O
+tratamiento	O
+.	O

@@ -1,0 +1,24 @@
+
+Acude	O
+regularmente	O
+a	O
+las	O
+visitas	O
+programadas	O
+tanto	O
+con	O
+Psiquiatría	O
+como	O
+con	O
+Enfermería	O
+,	O
+siempre	O
+acompañado	O
+por	O
+personal	B-PROFESION
+de	I-PROFESION
+Servicios	I-PROFESION
+Sociales	I-PROFESION
+de	O
+zona	O
+.	O

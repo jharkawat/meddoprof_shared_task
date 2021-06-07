@@ -1,0 +1,9 @@
+
+No	O
+realizaba	O
+crítica	O
+del	O
+episodio	O
+psicótico	O
+señalado	O
+.	O

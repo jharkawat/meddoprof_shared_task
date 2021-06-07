@@ -1,0 +1,10 @@
+
+Mujer	O
+de	O
+51	O
+años	O
+sin	O
+antecedentes	O
+de	O
+interés	O
+.	O

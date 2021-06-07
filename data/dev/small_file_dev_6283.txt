@@ -1,0 +1,8 @@
+
+Aparición	O
+brusca	O
+de	O
+fiebre	O
+elevada	O
+hasta	O
+39oC	O

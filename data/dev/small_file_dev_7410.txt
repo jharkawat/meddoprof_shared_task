@@ -1,0 +1,19 @@
+
+Dos	O
+días	O
+después	O
+de	O
+iniciar	O
+tratamiento	O
+antifúngico	O
+y	O
+23	O
+después	O
+de	O
+ingresar	O
+en	O
+la	O
+UCI	O
+,	O
+falleció	O
+.	O

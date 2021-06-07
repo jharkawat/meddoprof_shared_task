@@ -1,0 +1,24 @@
+
+En	O
+alguna	O
+ocasión	O
+ha	O
+comentado	O
+que	O
+desea	O
+morir	O
+,	O
+pero	O
+nunca	O
+ha	O
+intentado	O
+suicidarse	O
+ni	O
+le	O
+ha	O
+pasado	O
+por	O
+la	O
+cabeza	O
+hacerlo	O
+.	O

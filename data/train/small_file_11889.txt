@@ -1,0 +1,13 @@
+
+Locomotor	O
+:	O
+hemicuerpo	O
+izquierdo	O
+más	O
+pequen	O
+̃	O
+o	O
+que	O
+el	O
+derecho	O
+.	O

@@ -1,0 +1,19 @@
+
+El	O
+sueldo	O
+no	O
+lo	O
+utilizaba	O
+para	O
+la	O
+casa	O
+sino	O
+para	O
+ella	O
+y	O
+tampoco	O
+tenía	O
+nada	O
+de	O
+dinero	O
+.	O

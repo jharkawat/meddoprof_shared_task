@@ -1,0 +1,6 @@
+
+MARCADORES	O
+TUMORALES	O
+:	O
+Negativos	O
+.	O

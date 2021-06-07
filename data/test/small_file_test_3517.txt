@@ -1,0 +1,10 @@
+
+Antecedentes	O
+de	O
+hipotiroidismo	O
+iátrogeno	O
+tras	O
+radioiodo	O
+por	O
+hipertiroidismo	O
+.	O

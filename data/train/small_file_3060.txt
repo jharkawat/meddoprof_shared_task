@@ -1,0 +1,10 @@
+
+Se	O
+pauta	O
+analgesia	O
+intravenosa	O
+durante	O
+su	O
+estancia	O
+hospitalaria	O
+.	O

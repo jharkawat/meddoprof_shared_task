@@ -1,0 +1,27 @@
+
+Coordinación	O
+De	O
+forma	O
+presencial	O
+y	O
+telefónica	O
+el	O
+equipo	O
+asistencial	O
+se	O
+coordinó	O
+con	O
+los	O
+padres	O
+y	O
+con	O
+los	O
+profesionales	B-SITUACION_LABORAL
+de	O
+la	O
+CT	O
+contactados	O
+durante	O
+el	O
+ingreso	O
+.	O

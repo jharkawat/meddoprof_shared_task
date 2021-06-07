@@ -1,0 +1,24 @@
+
+Alrededor	O
+de	O
+estas	O
+últimas	O
+se	O
+apreciaba	O
+una	O
+población	O
+celular	O
+de	O
+elementos	O
+grandes	O
+y	O
+pleomorfos	O
+que	O
+se	O
+distribuían	O
+siguiendo	O
+un	O
+patrón	O
+histológico	O
+cohesivo	O
+.	O

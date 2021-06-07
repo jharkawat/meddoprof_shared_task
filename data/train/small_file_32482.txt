@@ -1,0 +1,20 @@
+
+Secundario	O
+a	O
+la	O
+clínica	O
+psicótica	O
+productiva	O
+,	O
+existe	O
+un	O
+importante	O
+aislamiento	O
+social	O
+,	O
+sintomatología	O
+ansiosa	O
+y	O
+ánimo	O
+bajo	O
+.	O

@@ -1,0 +1,8 @@
+
+Rx	O
+de	O
+fémur	O
+de	O
+frente	O
+posquirúrgico	O
+.	O

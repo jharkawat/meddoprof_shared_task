@@ -1,0 +1,19 @@
+
+Tras	O
+la	O
+valoración	O
+por	O
+Medicina	O
+Interna	O
+y	O
+Neurología	O
+se	O
+procede	O
+a	O
+su	O
+traslado	O
+al	O
+Servicio	O
+de	O
+Neurología	O
+.	O

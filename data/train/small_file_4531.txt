@@ -1,0 +1,18 @@
+
+No	O
+se	O
+ha	O
+vuelto	O
+a	O
+repetir	O
+,	O
+aunque	O
+tampoco	O
+ha	O
+sufrido	O
+un	O
+nuevo	O
+acontecimiento	O
+vital	O
+estresante	O
+.	O

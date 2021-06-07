@@ -1,0 +1,10 @@
+
+Una	O
+abuela	O
+y	O
+sus	O
+tíos	O
+presentan	O
+alteraciones	O
+visuales	O
+.	O

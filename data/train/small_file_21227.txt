@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+se	O
+define	O
+como	O
+una	O
+persona	O
+alegre	O
+,	O
+sociable	O
+,	O
+simpática	O
+pero	O
+muy	O
+nerviosa	O
+e	O
+impaciente	O
+.	O

@@ -1,0 +1,14 @@
+
+Isquemia	O
+cerebral	O
+de	O
+repetición	O
+en	O
+probable	O
+relación	O
+con	O
+vasculopatía	O
+asociada	O
+a	O
+VIH	O
+.	O

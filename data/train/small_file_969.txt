@@ -1,0 +1,27 @@
+
+Fue	O
+diagnosticada	O
+de	O
+EM	O
+hace	O
+10	O
+años	O
+y	O
+ha	O
+presentado	O
+6	O
+brotes	O
+por	O
+lo	O
+que	O
+requirió	O
+tratamiento	O
+con	O
+Copaxone	O
+®	O
+(	O
+Acetato	O
+de	O
+Glatirámero	O
+)	O
+.	O

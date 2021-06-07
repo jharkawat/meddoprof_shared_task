@@ -1,0 +1,6 @@
+
+Sin	O
+AP	O
+familiares	O
+conocidos	O
+.	O

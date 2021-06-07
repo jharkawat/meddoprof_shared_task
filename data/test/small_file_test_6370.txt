@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+ha	O
+presentado	O
+un	O
+postoperatorio	O
+sin	O
+complicaciones	O
+.	O

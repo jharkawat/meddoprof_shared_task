@@ -1,0 +1,19 @@
+
+Aparte	O
+de	O
+este	O
+incidente	O
+,	O
+no	O
+refiere	O
+otra	O
+sintomatología	O
+y	O
+la	O
+exploración	O
+física	O
+y	O
+neurológica	O
+es	O
+normal	O
+.	O

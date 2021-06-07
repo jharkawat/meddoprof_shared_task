@@ -1,0 +1,9 @@
+
+Dada	O
+la	O
+clínica	O
+,	O
+antecedentes	O
+y	O
+resultados	O
+:	O

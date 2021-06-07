@@ -1,0 +1,7 @@
+
+No	O
+pérdidas	O
+de	O
+conciencia	O
+espontáneas	O
+.	O

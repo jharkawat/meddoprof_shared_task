@@ -1,0 +1,16 @@
+
+Se	O
+procede	O
+a	O
+monitorización	O
+hemodinámica	O
+,	O
+precisando	O
+soporte	O
+con	O
+fluidoterapia	O
+intensiva	O
+y	O
+drogas	O
+vasoactivas	O
+.	O

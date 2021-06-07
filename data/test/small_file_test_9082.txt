@@ -1,0 +1,23 @@
+
+Para	O
+el	O
+estudio	O
+de	O
+la	O
+neumonitis	O
+realizamos	O
+pruebas	O
+de	O
+función	O
+respiratoria	O
+,	O
+broncoscopia	O
+y	O
+lavado	O
+broncoalveolar	O
+,	O
+sin	O
+evidencia	O
+de	O
+enfermedad	O
+.	O

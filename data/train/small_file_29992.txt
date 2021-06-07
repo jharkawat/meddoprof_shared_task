@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+se	O
+encuentra	O
+consciente	O
+y	O
+orientado	O
+en	O
+todas	O
+las	O
+esferas	O
+.	O

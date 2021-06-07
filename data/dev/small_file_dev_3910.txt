@@ -1,0 +1,17 @@
+
+Se	O
+siente	O
+constantemente	O
+cansada	O
+y	O
+hace	O
+una	O
+siesta	O
+al	O
+llegar	O
+a	O
+casa	O
+de	O
+la	O
+escuela	O
+.	O

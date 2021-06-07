@@ -1,0 +1,9 @@
+
+En	O
+la	O
+actualidad	O
+no	O
+toma	O
+ningún	O
+tratamiento	O
+.	O

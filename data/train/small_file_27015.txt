@@ -1,0 +1,12 @@
+
+Su	O
+madre	O
+,	O
+de	O
+56	O
+años	O
+,	O
+trabaja	O
+como	O
+profesora	B-PROFESION
+.	O

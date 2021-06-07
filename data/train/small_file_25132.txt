@@ -1,0 +1,21 @@
+
+Mantiene	O
+una	O
+relación	O
+de	O
+pareja	O
+estable	O
+y	O
+se	O
+encontraba	O
+trabajando	O
+en	O
+una	O
+obra	O
+como	O
+escayolista	B-PROFESION
+en	O
+los	O
+últimos	O
+meses	O
+.	O

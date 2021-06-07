@@ -1,0 +1,14 @@
+
+Su	O
+médico	B-PROFESION
+había	O
+prescrito	O
+antiinflamatorios	O
+de	O
+forma	O
+mantenida	O
+,	O
+con	O
+respuesta	O
+parcial	O
+.	O

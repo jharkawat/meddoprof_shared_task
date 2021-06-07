@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+ha	O
+presentado	O
+siempre	O
+escasa	O
+o	O
+nula	O
+conciencia	O
+de	O
+enfermedad	O
+.	O

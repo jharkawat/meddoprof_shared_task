@@ -1,0 +1,19 @@
+
+PA	O
+:	O
+134	O
+/	O
+73mmHg	O
+;	O
+FC	O
+:	O
+108lpm	O
+;	O
+FR	O
+:	O
+12rpm	O
+;	O
+SatO2	O
+99	O
+%	O
+.	O

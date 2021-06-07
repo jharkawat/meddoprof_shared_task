@@ -1,0 +1,9 @@
+
+Proteína	O
+14	O
+-	O
+3	O
+-	O
+3	O
+negativa	O
+.	O

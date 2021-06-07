@@ -1,0 +1,11 @@
+
+No	O
+hay	O
+antecedentes	O
+médicos	O
+de	O
+relevancia	O
+en	O
+la	O
+familia	O
+.	O

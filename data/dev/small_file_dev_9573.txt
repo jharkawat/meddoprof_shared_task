@@ -1,0 +1,11 @@
+
+Al	O
+alta	O
+los	O
+familiares	O
+relatan	O
+un	O
+cambio	O
+mu	O
+reseñable	O
+.	O

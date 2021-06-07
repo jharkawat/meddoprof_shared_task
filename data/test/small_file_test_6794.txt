@@ -1,0 +1,5 @@
+
+Peso	O
+32	O
+kg	O
+.	O

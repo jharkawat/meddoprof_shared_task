@@ -1,0 +1,11 @@
+
+No	O
+tenía	O
+antecedentes	O
+familiares	O
+de	O
+enfermedades	O
+del	O
+sistema	O
+nervioso	O
+.	O

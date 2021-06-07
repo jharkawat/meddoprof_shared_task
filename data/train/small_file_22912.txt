@@ -1,0 +1,13 @@
+
+Este	O
+cuadro	O
+se	O
+incluye	O
+dentro	O
+del	O
+grupo	O
+de	O
+los	O
+Trastornos	O
+Somatomorfos	O
+.	O

@@ -1,0 +1,12 @@
+
+La	O
+PET	O
+-	O
+TC	O
+descarta	O
+hipermetabolismo	O
+en	O
+las	O
+lesiones	O
+hepáticas	O
+.	O

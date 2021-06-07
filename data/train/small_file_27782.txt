@@ -1,0 +1,18 @@
+
+El	O
+examen	O
+general	O
+de	O
+orina	O
+no	O
+muestra	O
+hallazgos	O
+patológicos	O
+y	O
+los	O
+tóxicos	O
+en	O
+orina	O
+son	O
+negativos	O
+.	O

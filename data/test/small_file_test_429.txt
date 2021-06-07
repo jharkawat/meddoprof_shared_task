@@ -1,0 +1,25 @@
+
+Patrón	O
+de	O
+actividades	O
+y	O
+ejercicio	O
+:	O
+Estudiante	B-SITUACION_LABORAL
+de	O
+3	O
+°	O
+de	O
+secundaria	O
+,	O
+tono	O
+y	O
+fuerza	O
+muscular	O
+conservada	O
+,	O
+se	O
+levanta	O
+al	O
+baño	O
+.	O

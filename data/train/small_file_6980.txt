@@ -1,0 +1,13 @@
+
+Tras	O
+ser	O
+valorada	O
+por	O
+oncología	O
+médica	O
+inicia	O
+tratamiento	O
+quimioterápico	O
+con	O
+dacarbazina	O
+.	O

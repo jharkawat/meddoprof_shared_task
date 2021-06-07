@@ -1,0 +1,22 @@
+
+Por	O
+la	O
+noche	O
+el	O
+paciente	O
+presenta	O
+dolor	O
+intenso	O
+en	O
+el	O
+antebrazo	O
+por	O
+lo	O
+que	O
+decide	O
+tomar	O
+1	O
+comprimido	O
+de	O
+ibuprofeno	O
+.	O

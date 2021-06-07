@@ -1,0 +1,12 @@
+
+Broncoscopia	O
+(	O
+16	O
+-	O
+12	O
+-	O
+14	O
+)	O
+:	O
+Normal	O
+.	O

@@ -1,0 +1,22 @@
+
+A	O
+nivel	O
+funcional	O
+el	O
+paciente	O
+no	O
+es	O
+autónomo	O
+para	O
+el	O
+manejo	O
+del	O
+tratamiento	O
+,	O
+este	O
+es	O
+controlado	O
+por	O
+su	O
+madre	O
+.	O

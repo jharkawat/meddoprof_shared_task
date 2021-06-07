@@ -1,0 +1,25 @@
+
+A	O
+finales	O
+de	O
+2012	O
+,	O
+se	O
+comienza	O
+a	O
+reducir	O
+el	O
+tratamiento	O
+con	O
+clozapina	O
+por	O
+elevación	O
+de	O
+GGT	O
+(	O
+645	O
+UI	O
+/	O
+l	O
+)	O
+.	O

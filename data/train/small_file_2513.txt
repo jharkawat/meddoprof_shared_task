@@ -1,0 +1,9 @@
+
+El	O
+paciente	O
+desconoce	O
+si	O
+hubo	O
+mediciones	O
+ambientales	O
+.	O

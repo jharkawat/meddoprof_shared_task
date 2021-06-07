@@ -1,0 +1,9 @@
+
+Al	O
+alta	O
+persistía	O
+la	O
+hemianopsia	O
+homónima	O
+derecha	O
+.	O

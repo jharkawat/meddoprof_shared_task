@@ -1,0 +1,26 @@
+
+Se	O
+registraron	O
+las	O
+siguientes	O
+constantes	O
+vitales	O
+:	O
+PANI	O
+:	O
+115	O
+/	O
+73	O
+mmHg	O
+,	O
+FC	O
+:	O
+83	O
+lpm	O
+y	O
+SatO2	O
+basal	O
+:	O
+98	O
+%	O
+.	O

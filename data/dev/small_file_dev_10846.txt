@@ -1,0 +1,9 @@
+
+Radiografía	O
+de	O
+tórax	O
+de	O
+ingreso	O
+sin	O
+infiltrados	O
+.	O

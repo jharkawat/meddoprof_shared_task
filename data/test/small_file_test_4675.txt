@@ -1,0 +1,13 @@
+
+Ante	O
+dichos	O
+hallazgos	O
+se	O
+sospecha	O
+síndrome	O
+de	O
+Cushing	O
+y	O
+se	O
+solicita	O
+:	O

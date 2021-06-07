@@ -1,0 +1,9 @@
+
+Es	O
+una	O
+niña	O
+muy	O
+sociable	O
+y	O
+participativa	O
+.	O

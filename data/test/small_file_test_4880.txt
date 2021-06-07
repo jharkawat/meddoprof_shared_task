@@ -1,0 +1,23 @@
+
+Fue	O
+dada	O
+de	O
+alta	O
+a	O
+planta	O
+a	O
+los	O
+seis	O
+días	O
+tolerando	O
+la	O
+dieta	O
+oral	O
+y	O
+con	O
+la	O
+herida	O
+en	O
+buen	O
+estado	O
+.	O

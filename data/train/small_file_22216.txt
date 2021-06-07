@@ -1,0 +1,5 @@
+
+No	O
+otros	O
+consumos	O
+.	O

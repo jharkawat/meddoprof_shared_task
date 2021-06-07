@@ -1,0 +1,22 @@
+
+La	O
+función	O
+sistólica	O
+está	O
+conservada	O
+(	O
+el	O
+65	O
+%	O
+por	O
+Simpson	O
+biplanar	O
+)	O
+y	O
+no	O
+hay	O
+datos	O
+de	O
+disfunción	O
+diastólica	O
+.	O

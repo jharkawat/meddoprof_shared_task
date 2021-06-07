@@ -1,0 +1,9 @@
+
+Viven	O
+en	O
+una	O
+zona	O
+de	O
+transformación	O
+social	O
+.	O

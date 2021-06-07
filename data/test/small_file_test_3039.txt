@@ -1,0 +1,12 @@
+
+No	O
+se	O
+observan	O
+por	O
+esta	O
+técnica	O
+imágenes	O
+sugestivas	O
+de	O
+endocarditis	O
+.	O

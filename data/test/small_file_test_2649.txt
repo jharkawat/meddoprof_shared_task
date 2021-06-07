@@ -1,0 +1,24 @@
+
+La	O
+paciente	O
+se	O
+mantiene	O
+afebril	O
+,	O
+con	O
+buen	O
+estado	O
+general	O
+,	O
+mejoría	O
+discreta	O
+de	O
+las	O
+lesiones	O
+orales	O
+,	O
+y	O
+buena	O
+tolerancia	O
+oral	O
+.	O

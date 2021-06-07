@@ -1,0 +1,26 @@
+
+A	O
+las	O
+48h	O
+del	O
+ingreso	O
+avisan	O
+a	O
+Medicina	O
+Interna	O
+de	O
+guardia	O
+para	O
+valoración	O
+por	O
+fiebre	O
+y	O
+deterioro	O
+del	O
+nivel	O
+de	O
+conciencia	O
+de	O
+la	O
+paciente	O
+.	O

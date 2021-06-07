@@ -1,0 +1,23 @@
+
+Sistemático	O
+de	O
+orina	O
+:	O
+Proteínas	O
++	O
++	O
++	O
+,	O
+HB	O
+:	O
++	O
++	O
++	O
+,	O
+Hematíes	O
+:	O
+325	O
+,	O
+resto	O
+normal	O
+.	O

@@ -1,0 +1,25 @@
+
+El	O
+112	O
+lo	O
+encuentra	O
+atrapado	O
+,	O
+en	O
+supino	O
+lateral	O
+izquierdo	O
+,	O
+flexionado	O
+,	O
+con	O
+las	O
+rodillas	O
+elevadas	O
+a	O
+la	O
+altura	O
+de	O
+la	O
+cadera	O
+.	O

@@ -1,0 +1,10 @@
+
+Cabeza	O
+y	O
+cuello	O
+:	O
+prótesis	O
+dental	O
+superior	O
+completa	O
+.	O

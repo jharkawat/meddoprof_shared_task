@@ -1,0 +1,12 @@
+
+Glioblastoma	O
+multiforme	O
+grado	O
+IV	O
+de	O
+la	O
+OMS	O
+de	O
+presentación	O
+ictal	O
+.	O

@@ -1,0 +1,19 @@
+
+El	O
+padre	O
+tiene	O
+55	O
+años	O
+y	O
+trabajaba	O
+fontanero	B-PROFESION
+hasta	O
+el	O
+2004	O
+cuando	O
+sufre	O
+una	O
+angina	O
+de	O
+pecho	O
+.	O

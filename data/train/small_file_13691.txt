@@ -1,0 +1,6 @@
+
+No	O
+viajes	O
+al	O
+extranjero	O
+.	O

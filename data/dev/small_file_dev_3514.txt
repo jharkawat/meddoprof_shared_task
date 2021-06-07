@@ -1,0 +1,22 @@
+
+En	O
+el	O
+test	O
+aplicado	O
+se	O
+encontró	O
+que	O
+era	O
+una	O
+persona	O
+muy	O
+vulnerable	O
+al	O
+estrés	O
+con	O
+una	O
+puntuación	O
+de	O
+62	O
+puntos	O
+.	O

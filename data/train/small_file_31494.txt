@@ -1,0 +1,19 @@
+
+El	O
+registro	O
+video	O
+-	O
+EEG	O
+muestra	O
+un	O
+trazado	O
+de	O
+fondo	O
+que	O
+se	O
+encuentra	O
+dentro	O
+de	O
+límites	O
+normales	O
+.	O

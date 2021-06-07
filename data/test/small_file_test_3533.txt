@@ -1,0 +1,26 @@
+
+-	O
+TC	O
+TAP	O
+:	O
+bullas	O
+en	O
+vértices	O
+pulmonares	O
+,	O
+discretos	O
+signos	O
+de	O
+enfisema	O
+,	O
+masa	O
+adenopática	O
+mediastínica	O
+,	O
+paratraqueal	O
+derecha	O
+con	O
+signos	O
+de	O
+necrosis	O
+.	O

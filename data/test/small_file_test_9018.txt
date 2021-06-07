@@ -1,0 +1,10 @@
+
+MMII	O
+con	O
+edema	O
+con	O
+fóvea	O
+hasta	O
+tercio	O
+proximal	O
+.	O

@@ -1,0 +1,17 @@
+
+A	O
+la	O
+mañana	O
+siguiente	O
+en	O
+su	O
+Centro	O
+de	O
+Salud	O
+se	O
+procede	O
+a	O
+Sondaje	O
+Vesical	O
+transitorio	O
+.	O

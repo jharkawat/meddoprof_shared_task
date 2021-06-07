@@ -1,0 +1,24 @@
+
+Se	O
+objetivó	O
+por	O
+varios	O
+médicos	B-PROFESION
+que	O
+se	O
+encontraban	O
+presenciando	O
+el	O
+desfile	O
+la	O
+ausencia	O
+de	O
+pulso	O
+arterial	O
+y	O
+se	O
+diagnosticó	O
+de	O
+parada	O
+cardiorespiratoria	O
+.	O

@@ -1,0 +1,22 @@
+
+En	O
+los	O
+días	O
+previos	O
+al	O
+ingreso	O
+ha	O
+empezado	O
+a	O
+decir	O
+que	O
+"	O
+el	O
+tiempo	O
+y	O
+el	O
+espacio	O
+no	O
+coinciden	O
+"	O
+.	O

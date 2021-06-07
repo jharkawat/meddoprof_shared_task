@@ -1,0 +1,20 @@
+
+En	O
+el	O
+caso	O
+presentado	O
+,	O
+debemos	O
+tener	O
+en	O
+cuenta	O
+algunos	O
+aspectos	O
+importantes	O
+para	O
+establecer	O
+un	O
+diagnóstico	O
+diferencial	O
+correcto	O
+.	O

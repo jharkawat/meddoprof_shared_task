@@ -1,0 +1,27 @@
+
+Al	O
+mes	O
+de	O
+tratamiento	O
+recuperó	O
+la	O
+memoria	O
+de	O
+corto	O
+y	O
+de	O
+mediano	O
+plazo	O
+,	O
+se	O
+constató	O
+leve	O
+dismetría	O
+y	O
+paresia	O
+de	O
+la	O
+extremidad	O
+inferior	O
+derecha	O
+.	O

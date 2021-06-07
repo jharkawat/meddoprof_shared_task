@@ -1,0 +1,16 @@
+
+Esos	O
+días	O
+no	O
+salgo	O
+con	O
+mi	O
+novia	O
+y	O
+recupero	O
+las	O
+horas	O
+de	O
+estudio	O
+perdidas	O
+.	O

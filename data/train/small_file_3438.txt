@@ -1,0 +1,17 @@
+
+Ingresada	O
+en	O
+Neumología	O
+no	O
+presenta	O
+dolor	O
+tras	O
+analgesia	O
+pautada	O
+,	O
+con	O
+analítica	O
+en	O
+rangos	O
+normales	O
+.	O

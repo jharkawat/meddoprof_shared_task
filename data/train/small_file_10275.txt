@@ -1,0 +1,7 @@
+
+Reticulocitos	O
+0	O
+.	O
+1	O
+%	O
+.	O

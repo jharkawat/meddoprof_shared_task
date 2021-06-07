@@ -1,0 +1,8 @@
+
+Sospecha	O
+de	O
+síndrome	O
+Kikuchi	O
+-	O
+Fujimoto	O
+.	O

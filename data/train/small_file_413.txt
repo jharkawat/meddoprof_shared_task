@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+volvió	O
+a	O
+«	O
+sentir	O
+el	O
+olor	O
+de	O
+su	O
+padre	O
+»	O
+cerca	O
+de	O
+ella	O
+.	O

@@ -1,0 +1,24 @@
+
+no	O
+puedo	O
+evitarlo	O
+.	O
+.	O
+.	O
+estoy	O
+tenso	O
+todo	O
+el	O
+día	O
+,	O
+me	O
+duele	O
+todo	O
+el	O
+cuerpo	O
+,	O
+duermo	O
+fatal	O
+.	O
+.	O
+.	O

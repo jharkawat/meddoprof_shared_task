@@ -1,0 +1,13 @@
+
+El	O
+cultivo	O
+de	O
+esputo	O
+también	O
+fue	O
+negativo	O
+para	O
+bacterias	O
+y	O
+micobacterias	O
+.	O

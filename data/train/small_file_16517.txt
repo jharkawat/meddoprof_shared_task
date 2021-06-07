@@ -1,0 +1,26 @@
+
+Una	O
+nueva	O
+RM	O
+craneal	O
+confirma	O
+el	O
+empeoramiento	O
+de	O
+las	O
+lesiones	O
+,	O
+mostrando	O
+un	O
+componente	O
+de	O
+necrosis	O
+cortical	O
+y	O
+pérdida	O
+de	O
+volumen	O
+del	O
+parénquima	O
+cerebral	O
+.	O

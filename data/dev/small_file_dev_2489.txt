@@ -1,0 +1,13 @@
+
+Se	O
+introduce	O
+clozapina	O
+25	O
+mg	O
+y	O
+se	O
+sube	O
+la	O
+dosis	O
+lentamente	O
+.	O

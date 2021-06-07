@@ -1,0 +1,23 @@
+
+Ante	O
+la	O
+situación	O
+de	O
+recidiva	O
+virológica	O
+,	O
+se	O
+inició	O
+tratamiento	O
+con	O
+sofosbuvir	O
+/	O
+velpatasvir	O
+/	O
+voxilaprevir	O
+que	O
+mantuvo	O
+durante	O
+12	O
+semanas	O
+.	O

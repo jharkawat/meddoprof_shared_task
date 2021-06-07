@@ -1,0 +1,11 @@
+
+TAC	O
+cerebro	O
+y	O
+RMN	O
+craneal	O
+:	O
+sin	O
+hallazgos	O
+significativos	O
+.	O

@@ -1,0 +1,23 @@
+
+SGI	O
+:	O
+niega	O
+nauseas	O
+,	O
+vomitos	O
+,	O
+disfagia	O
+,	O
+odiofagia	O
+,	O
+epigastralgia	O
+,	O
+diarrea	O
+,	O
+colicos	O
+,	O
+anorexia	O
+,	O
+dolor	O
+abdominal	O
+.	O

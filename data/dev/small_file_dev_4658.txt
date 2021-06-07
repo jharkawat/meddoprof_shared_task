@@ -1,0 +1,12 @@
+
+Basofilos	O
+-	O
+0	O
+%	O
+(	O
+0	O
+-	O
+2	O
+.	O
+00	O
+)	O

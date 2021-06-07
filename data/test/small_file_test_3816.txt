@@ -1,0 +1,18 @@
+
+Se	O
+solicita	O
+segunda	O
+opinión	O
+(	O
+Hospital	O
+12	O
+de	O
+Octubre	O
+)	O
+que	O
+es	O
+concordante	O
+con	O
+el	O
+diagnóstico	O
+.	O

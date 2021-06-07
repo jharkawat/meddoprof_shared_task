@@ -1,0 +1,14 @@
+
+Taxista	B-PROFESION
+de	O
+profesión	O
+en	O
+la	O
+actualidad	O
+;	O
+soldado	B-PROFESION
+profesional	I-PROFESION
+durante	O
+su	O
+juventud	O
+.	O

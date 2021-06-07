@@ -1,0 +1,23 @@
+
+Hipoglucemias	O
+,	O
+dificultades	O
+de	O
+alimentación	O
+y	O
+otras	O
+:	O
+escoliosis	O
+,	O
+déficit	O
+de	O
+la	O
+hormona	O
+del	O
+crecimiento	O
+(	O
+GH	O
+)	O
+,	O
+etc	O
+.	O

@@ -1,0 +1,13 @@
+
+es	O
+mi	O
+subconsciente	O
+que	O
+quiere	O
+que	O
+haga	O
+las	O
+cosas	O
+perfectas	O
+"	O
+.	O

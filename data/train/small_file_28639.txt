@@ -1,0 +1,12 @@
+
+En	O
+todo	O
+momento	O
+han	O
+permanecido	O
+dentro	O
+de	O
+los	O
+parámetros	O
+normales	O
+.	O

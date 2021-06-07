@@ -1,0 +1,16 @@
+
+Consulta	O
+por	O
+dolor	O
+en	O
+las	O
+pantorrillas	O
+cuando	O
+sube	O
+cuestas	O
+desde	O
+hace	O
+unos	O
+2	O
+meses	O
+.	O

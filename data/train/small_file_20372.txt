@@ -1,0 +1,13 @@
+
+Al	O
+preguntarle	O
+,	O
+dijo	O
+que	O
+el	O
+psiquiatra	B-PROFESION
+era	O
+«	O
+idiota	O
+»	O
+.	O

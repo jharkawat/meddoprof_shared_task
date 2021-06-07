@@ -1,0 +1,15 @@
+
+PPR	O
+(	O
+puño	O
+percusión	O
+renal	O
+)	O
+derecha	O
+negativa	O
+y	O
+PPR	O
+derecha	O
+:	O
+dudosa	O
+.	O

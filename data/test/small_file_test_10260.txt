@@ -1,0 +1,6 @@
+
+No	O
+se	O
+observa	O
+necrosis	O
+.	O

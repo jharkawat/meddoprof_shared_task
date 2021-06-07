@@ -1,0 +1,12 @@
+
+Las	O
+lesiones	O
+aparecieron	O
+hace	O
+13	O
+años	O
+durante	O
+un	O
+embarazo	O
+previo	O
+.	O

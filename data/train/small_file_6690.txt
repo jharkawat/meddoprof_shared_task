@@ -1,0 +1,8 @@
+
+La	O
+biopsia	O
+es	O
+compatible	O
+con	O
+argiria	O
+.	O

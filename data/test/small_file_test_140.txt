@@ -1,0 +1,20 @@
+
+Los	O
+baños	O
+tienen	O
+escusado	O
+,	O
+lavabo	O
+y	O
+regadera	O
+,	O
+utilizan	O
+papel	O
+higiénico	O
+que	O
+es	O
+depositado	O
+en	O
+botes	O
+cerrados	O
+.	O

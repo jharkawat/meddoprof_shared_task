@@ -1,0 +1,17 @@
+
+Su	O
+esposo	O
+trabajaba	O
+como	O
+programador	B-PROFESION
+de	I-PROFESION
+sistemas	I-PROFESION
+y	O
+describieron	O
+su	O
+matrimonio	O
+como	O
+bueno	O
+y	O
+estable	O
+.	O

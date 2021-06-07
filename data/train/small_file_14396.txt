@@ -1,0 +1,8 @@
+
+Fumador	O
+de	O
+30	O
+cigarros	O
+al	O
+día	O
+.	O

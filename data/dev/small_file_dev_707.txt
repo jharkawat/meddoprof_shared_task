@@ -1,0 +1,26 @@
+
+No	O
+obstante	O
+,	O
+en	O
+mayo	O
+la	O
+familia	O
+me	O
+comunica	O
+que	O
+su	O
+padre	O
+había	O
+fallecido	O
+por	O
+autolísis	O
+:	O
+se	O
+fue	O
+al	O
+campo	O
+y	O
+no	O
+regresó	O
+.	O

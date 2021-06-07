@@ -1,0 +1,9 @@
+
+No	O
+se	O
+sentía	O
+atemorizada	O
+por	O
+estos	O
+seres	O
+.	O

@@ -1,0 +1,18 @@
+
+—	O
+EMG	O
+:	O
+Polineuropatía	O
+axonal	O
+sensitiva	O
+de	O
+grado	O
+moderado	O
+y	O
+de	O
+predominio	O
+distal	O
+en	O
+miembros	O
+inferiores	O
+.	O

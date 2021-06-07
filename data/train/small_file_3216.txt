@@ -1,0 +1,27 @@
+
+A	O
+la	O
+exploración	O
+física	O
+,	O
+auscultación	O
+cardiorespiratoria	O
+sin	O
+alteraciones	O
+,	O
+abdomen	O
+blando	O
+y	O
+depresible	O
+no	O
+doloroso	O
+a	O
+la	O
+palpación	O
+,	O
+con	O
+puñopercusión	O
+renal	O
+izquierda	O
+positiva	O
+.	O

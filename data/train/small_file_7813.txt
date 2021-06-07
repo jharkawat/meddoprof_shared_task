@@ -1,0 +1,20 @@
+
+La	O
+mujer	O
+se	O
+muestra	O
+muy	O
+susceptible	O
+ante	O
+la	O
+situación	O
+de	O
+no	O
+poder	O
+descansar	O
+por	O
+los	O
+abundantes	O
+picores	O
+nocturnos	O
+.	O

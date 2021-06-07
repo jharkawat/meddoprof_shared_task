@@ -1,0 +1,14 @@
+
+Drogadicción	O
+:	O
+Refiere	O
+no	O
+haber	O
+ingerido	O
+o	O
+utilizado	O
+alguna	O
+otra	O
+sustancia	O
+tóxica	O
+.	O

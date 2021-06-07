@@ -1,0 +1,11 @@
+
+Ha	O
+experimentado	O
+un	O
+aumento	O
+en	O
+el	O
+dominio	O
+del	O
+vocabulario	O
+.	O

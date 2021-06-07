@@ -1,0 +1,19 @@
+
+Se	O
+realiza	O
+biopsia	O
+de	O
+la	O
+adenopatía	O
+cervical	O
+con	O
+estudio	O
+morfológico	O
+e	O
+inmunohistoquímico	O
+sin	O
+evidencia	O
+de	O
+proceso	O
+maligno	O
+.	O

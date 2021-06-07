@@ -1,0 +1,25 @@
+
+Con	O
+toda	O
+su	O
+familia	O
+de	O
+origen	O
+mantiene	O
+una	O
+relación	O
+que	O
+califica	O
+como	O
+"	O
+muy	O
+buena	O
+,	O
+soy	O
+quien	O
+soy	O
+gracias	O
+a	O
+ellos	O
+"	O
+.	O

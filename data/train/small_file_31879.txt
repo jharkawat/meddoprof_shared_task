@@ -1,0 +1,24 @@
+
+Paciente	O
+de	O
+12	O
+años	O
+,	O
+natural	O
+de	O
+Asturias	O
+actualmente	O
+residiendo	O
+en	O
+Gijón	O
+con	O
+su	O
+madre	O
+y	O
+una	O
+hermana	O
+mayor	O
+de	O
+17	O
+años	O
+.	O

@@ -1,0 +1,14 @@
+
+Actualmente	O
+está	O
+en	O
+una	O
+dosis	O
+de	O
+4	O
+mg	O
+de	O
+buprenorfina	O
+/	O
+naloxona	O
+.	O

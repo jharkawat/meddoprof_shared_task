@@ -1,0 +1,15 @@
+
+Anemia	O
+G1	O
+de	O
+perfil	O
+mixto	O
+secundaria	O
+a	O
+ferropenia	O
+y	O
+déficit	O
+de	O
+vitamina	O
+B12	O
+.	O

@@ -1,0 +1,11 @@
+
+Posible	O
+infiltrado	O
+nodular	O
+en	O
+lóbulo	O
+medio	O
+de	O
+pulmón	O
+izquierdo	O
+.	O

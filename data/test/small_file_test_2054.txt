@@ -1,0 +1,6 @@
+
+Hemostasia	O
+y	O
+coagulación	O
+normal	O
+.	O

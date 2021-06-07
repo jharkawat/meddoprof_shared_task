@@ -1,0 +1,7 @@
+
+No	O
+rash	O
+ni	O
+lesiones	O
+petequiales	O
+.	O

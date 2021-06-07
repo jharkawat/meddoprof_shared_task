@@ -1,0 +1,7 @@
+
+Contiene	O
+con	O
+dificultad	O
+su	O
+angustia	O
+.	O

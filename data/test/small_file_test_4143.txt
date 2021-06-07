@@ -1,0 +1,22 @@
+
+Se	O
+solicita	O
+test	O
+molecular	O
+CancerTYPE	O
+ID	O
+®	O
+para	O
+intentar	O
+localizar	O
+origen	O
+del	O
+tumor	O
+y	O
+orientar	O
+con	O
+más	O
+exactitud	O
+el	O
+tratamiento	O
+.	O

@@ -1,0 +1,14 @@
+
+Antecedentes	O
+familiares	O
+:	O
+Padre	O
+diagnosticado	O
+de	O
+epilepsia	O
+,	O
+tractorista	B-PROFESION
+en	I-PROFESION
+finca	I-PROFESION
+ganadera	I-PROFESION
+.	O

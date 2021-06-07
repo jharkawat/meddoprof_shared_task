@@ -1,0 +1,7 @@
+
+Trastorno	O
+dismórfico	O
+corporal	O
+F45	O
+.	O
+2	O

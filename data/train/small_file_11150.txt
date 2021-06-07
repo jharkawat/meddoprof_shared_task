@@ -1,0 +1,8 @@
+
+Endoscopia	O
+digestiva	O
+alta	O
+:	O
+gastritis	O
+crónica	O
+.	O

@@ -1,0 +1,15 @@
+
+Quedaba	O
+un	O
+estrecho	O
+pasillo	O
+que	O
+conectaba	O
+el	O
+dormitorio	O
+con	O
+la	O
+cocina	O
+y	O
+baño	O
+.	O

@@ -1,0 +1,21 @@
+
+Dijo	O
+no	O
+tener	O
+alucinaciones	O
+pero	O
+sí	O
+admitió	O
+,	O
+sonriendo	O
+,	O
+que	O
+tenía	O
+una	O
+capacidad	O
+única	O
+de	O
+predecir	O
+la	O
+bolsa	O
+.	O

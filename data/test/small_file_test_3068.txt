@@ -1,0 +1,10 @@
+
+No	O
+existió	O
+evidencia	O
+de	O
+ningún	O
+aislamiento	O
+microbiológico	O
+significativo	O
+.	O

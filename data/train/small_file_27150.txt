@@ -1,0 +1,18 @@
+
+Los	O
+desvanecimientos	O
+se	O
+producen	O
+siempre	O
+en	O
+compañía	O
+y	O
+con	O
+previsión	O
+de	O
+ayuda	O
+y	O
+movilización	O
+del	O
+entorno	O
+.	O

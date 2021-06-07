@@ -1,0 +1,13 @@
+
+La	O
+cirugía	O
+se	O
+realizó	O
+bajo	O
+anestesia	O
+general	O
+y	O
+en	O
+decúbito	O
+prono	O
+.	O

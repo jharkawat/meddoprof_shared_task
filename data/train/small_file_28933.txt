@@ -1,0 +1,13 @@
+
+Reconoce	O
+haber	O
+amenazado	O
+de	O
+muerte	O
+a	O
+un	O
+vecino	O
+de	O
+su	O
+localidad	O
+.	O

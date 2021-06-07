@@ -1,0 +1,16 @@
+
+Dolor	O
+a	O
+la	O
+palpación	O
+en	O
+epigástrico	O
+y	O
+hipocondrio	O
+,	O
+signo	O
+de	O
+Grey	O
+-	O
+Turner	O
+.	O

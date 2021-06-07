@@ -1,0 +1,22 @@
+
+No	O
+se	O
+envió	O
+suero	O
+para	O
+confirmación	O
+en	O
+el	O
+INS	O
+,	O
+como	O
+tampoco	O
+información	O
+más	O
+detallada	O
+acerca	O
+de	O
+la	O
+historia	O
+clínica	O
+.	O

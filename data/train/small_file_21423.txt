@@ -1,0 +1,25 @@
+
+Disminución	O
+de	O
+la	O
+necesidad	O
+de	O
+dormir	O
+(	O
+p	O
+.	O
+ej	O
+.	O
+,	O
+se	O
+siente	O
+descansado	O
+después	O
+de	O
+sólo	O
+tres	O
+horas	O
+de	O
+sueño	O
+)	O
+.	O

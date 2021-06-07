@@ -1,0 +1,12 @@
+
+La	O
+causa	O
+más	O
+común	O
+de	O
+meningitis	O
+vírica	O
+son	O
+los	O
+enterovirus	O
+.	O

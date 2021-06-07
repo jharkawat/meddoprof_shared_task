@@ -1,0 +1,11 @@
+
+Presentaba	O
+coágulos	O
+de	O
+sangre	O
+en	O
+el	O
+canal	O
+auditivo	O
+izquierdo	O
+.	O

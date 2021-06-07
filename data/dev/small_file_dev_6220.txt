@@ -1,0 +1,10 @@
+
+La	O
+electromiografía	O
+mostró	O
+hallazgos	O
+compatibles	O
+con	O
+mononeuropatía	O
+múltiple	O
+.	O

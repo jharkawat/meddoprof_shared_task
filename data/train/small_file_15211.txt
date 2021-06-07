@@ -1,0 +1,9 @@
+
+En	O
+adultos	O
+:	O
+La	O
+mayoría	O
+están	O
+asintomáticos	O
+.	O

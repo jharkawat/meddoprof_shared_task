@@ -1,0 +1,15 @@
+
+Tiene	O
+buena	O
+relación	O
+con	O
+sus	O
+padres	O
+y	O
+hermanos	O
+,	O
+con	O
+los	O
+que	O
+convive	O
+.	O

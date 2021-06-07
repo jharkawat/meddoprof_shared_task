@@ -1,0 +1,8 @@
+
+Deportista	B-PROFESION
+de	I-PROFESION
+élite	I-PROFESION
+(	I-PROFESION
+sky	I-PROFESION
+)	O
+.	O

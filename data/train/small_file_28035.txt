@@ -1,0 +1,18 @@
+
+Sin	O
+embargo	O
+,	O
+comentaba	O
+que	O
+cuando	O
+su	O
+hija	O
+cumpliera	O
+un	O
+año	O
+tendría	O
+relaciones	O
+sexuales	O
+con	O
+ella	O
+.	O

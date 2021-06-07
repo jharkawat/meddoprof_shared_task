@@ -1,0 +1,19 @@
+
+Mini	O
+Mental	O
+State	O
+Examination	O
+(	O
+MMSE	O
+)	O
+,	O
+puntuación	O
+directa	O
+(	O
+Máx	O
+.	O
+30	O
+)	O
+:	O
+30	O
+.	O

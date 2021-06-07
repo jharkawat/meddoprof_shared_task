@@ -1,0 +1,27 @@
+
+Se	O
+evaluó	O
+de	O
+nuevo	O
+la	O
+respuesta	O
+al	O
+tratamiento	O
+con	O
+PET	O
+-	O
+TC	O
+y	O
+persistía	O
+actividad	O
+metabólica	O
+en	O
+la	O
+lesión	O
+paracardiaca	O
+,	O
+sin	O
+otros	O
+focos	O
+hipercaptantes	O
+.	O

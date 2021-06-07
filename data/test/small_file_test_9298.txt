@@ -1,0 +1,10 @@
+
+A	O
+su	O
+llegada	O
+,	O
+hemodinamia	O
+correcta	O
+y	O
+afebril	O
+.	O

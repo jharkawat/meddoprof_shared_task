@@ -1,0 +1,7 @@
+
+Consumo	O
+de	O
+cafeína	O
+y	O
+tabaco	O
+.	O

@@ -1,0 +1,10 @@
+
+Afecto	O
+incongruente	O
+con	O
+sonrisas	O
+inadecuadas	O
+para	O
+el	O
+contexto	O
+.	O

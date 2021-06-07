@@ -1,0 +1,27 @@
+
+Se	O
+presenta	O
+un	O
+caso	O
+de	O
+un	O
+enfermo	O
+que	O
+debutó	O
+con	O
+este	O
+comportamiento	O
+,	O
+reiterándolo	O
+hasta	O
+tres	O
+veces	O
+en	O
+el	O
+plazo	O
+de	O
+menos	O
+de	O
+una	O
+semana	O
+.	O

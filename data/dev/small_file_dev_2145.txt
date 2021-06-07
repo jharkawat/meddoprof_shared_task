@@ -1,0 +1,13 @@
+
+Se	O
+inició	O
+tratamiento	O
+neuroléptico	O
+con	O
+risperidona	O
+hasta	O
+9	O
+mg	O
+/	O
+día	O
+.	O

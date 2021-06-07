@@ -1,0 +1,23 @@
+
+Consciente	O
+,	O
+orientado	O
+en	O
+tiempo	O
+y	O
+espacio	O
+,	O
+no	O
+trastornos	O
+del	O
+lenguaje	O
+,	O
+se	O
+objetivó	O
+ptosis	O
+palpebral	O
+derecha	O
+con	O
+miosis	O
+homolateral	O
+.	O

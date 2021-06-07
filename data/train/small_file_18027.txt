@@ -1,0 +1,12 @@
+
+Refería	O
+deterioro	O
+visual	O
+inmediato	O
+con	O
+escotoma	O
+central	O
+del	O
+mismo	O
+ojo	O
+.	O

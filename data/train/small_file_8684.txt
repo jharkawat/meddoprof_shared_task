@@ -1,0 +1,18 @@
+
+Como	O
+otro	O
+dato	O
+asociado	O
+,	O
+presenta	O
+congestión	O
+en	O
+fosa	O
+nasal	O
+derecha	O
+de	O
+10	O
+meses	O
+de	O
+evolución	O
+.	O

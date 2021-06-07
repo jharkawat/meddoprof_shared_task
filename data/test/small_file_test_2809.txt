@@ -1,0 +1,15 @@
+
+Inmunofenotipo	O
+:	O
+fosfatasa	O
+alcalina	O
+placentaria	O
+,	O
+C	O
+KIT	O
+(	O
+CD117	O
+)	O
+:	O
+positivo	O
+.	O

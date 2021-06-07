@@ -1,0 +1,18 @@
+
+Durante	O
+su	O
+hospitalización	O
+se	O
+inició	O
+tratamiento	O
+con	O
+clozapina	O
+y	O
+se	O
+fue	O
+disminuyendo	O
+la	O
+dosis	O
+de	O
+quetiapina	O
+.	O

@@ -1,0 +1,26 @@
+
+Se	O
+han	O
+realizado	O
+todas	O
+las	O
+determinaciones	O
+recomendadas	O
+desde	O
+la	O
+instauración	O
+de	O
+clozapina	O
+en	O
+el	O
+año	O
+2007	O
+,	O
+así	O
+como	O
+ECG	O
+y	O
+otras	O
+determinaciones	O
+pertinentes	O
+.	O

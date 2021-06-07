@@ -1,0 +1,7 @@
+
+Fue	O
+traqueostomizado	O
+y	O
+luego	O
+decanulado	O
+.	O

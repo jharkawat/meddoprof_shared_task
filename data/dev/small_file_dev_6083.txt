@@ -1,0 +1,15 @@
+
+Tiene	O
+en	O
+su	O
+domicilio	O
+un	O
+perro	O
+y	O
+un	O
+gato	O
+que	O
+cuida	O
+él	O
+mismo	O
+.	O

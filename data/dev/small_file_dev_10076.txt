@@ -1,0 +1,24 @@
+
+Admitió	O
+que	O
+desde	O
+hace	O
+tiempo	O
+no	O
+se	O
+interesaba	O
+por	O
+nada	O
+,	O
+no	O
+sentía	O
+placer	O
+por	O
+ninguna	O
+actividad	O
+y	O
+no	O
+se	O
+tenía	O
+confianza	O
+.	O

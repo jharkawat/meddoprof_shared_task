@@ -1,0 +1,4 @@
+
+CPK	O
+normal	O
+.	O

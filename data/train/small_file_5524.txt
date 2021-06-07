@@ -1,0 +1,10 @@
+
+Varón	O
+deportista	B-ACTIVIDAD
+,	O
+practica	B-ACTIVIDAD
+golf	I-ACTIVIDAD
+todas	O
+las	O
+semanas	O
+.	O

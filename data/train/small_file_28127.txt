@@ -1,0 +1,8 @@
+
+Cabeza	O
+y	O
+Cuello	O
+:	O
+Conjuntivas	O
+rosadas	O
+.	O

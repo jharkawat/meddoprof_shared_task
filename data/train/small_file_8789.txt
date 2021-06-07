@@ -1,0 +1,5 @@
+
+Borrelia	O
+IgG	O
+negativo	O
+.	O

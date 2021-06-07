@@ -1,0 +1,26 @@
+
+En	O
+relación	O
+con	O
+toma	O
+de	O
+ibuprofeno	O
+en	O
+paciente	O
+con	O
+dudosa	O
+historia	O
+previa	O
+de	O
+alergia	O
+medicamentosa	O
+y	O
+asma	O
+bronquial	O
+que	O
+produce	O
+episodio	O
+de	O
+shock	O
+anafilático	O
+.	O

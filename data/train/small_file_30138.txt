@@ -1,0 +1,16 @@
+
+A	O
+nivel	O
+diagnóstico	O
+,	O
+se	O
+plantea	O
+en	O
+primer	O
+lugar	O
+la	O
+presencia	O
+de	O
+patología	O
+orgánica	O
+.	O

@@ -1,0 +1,12 @@
+
+Tenía	O
+antecedentes	O
+de	O
+hipertensión	O
+,	O
+controlada	O
+mediante	O
+comprimidos	O
+de	O
+Valsartan	O
+.	O

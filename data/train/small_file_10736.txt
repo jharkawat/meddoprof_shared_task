@@ -1,0 +1,25 @@
+
+En	O
+la	O
+anamnesis	O
+por	O
+aparatos	O
+,	O
+refiere	O
+un	O
+cuadro	O
+catarral	O
+15	O
+días	O
+antes	O
+del	O
+inicio	O
+de	O
+los	O
+síntomas	O
+,	O
+resuelto	O
+tras	O
+tratamiento	O
+sintomático	O
+.	O

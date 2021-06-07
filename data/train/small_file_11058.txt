@@ -1,0 +1,6 @@
+
+Insuficiencia	O
+aórtica	O
+moderada	O
+secundaria	O
+.	O

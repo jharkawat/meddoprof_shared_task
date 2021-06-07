@@ -1,0 +1,10 @@
+
+No	O
+se	O
+detectaron	O
+adenopatías	O
+en	O
+cadenas	O
+ganglionares	O
+periféricas	O
+.	O

@@ -1,0 +1,20 @@
+
+-	O
+Ergometría	O
+.	O
+-	O
+Debe	O
+detenerse	O
+por	O
+presentar	O
+fatiga	O
+general	O
+a	O
+los	O
+6	O
+.	O
+20	O
+min	O
+de	O
+BRUCE	O
+.	O

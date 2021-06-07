@@ -1,0 +1,22 @@
+
+El	O
+tratamiento	O
+psicofarmacológico	O
+actual	O
+consiste	O
+en	O
+clozapina	O
+200	O
+mg	O
+(	O
+1	O
+-	O
+0	O
+-	O
+2	O
+)	O
+y	O
+lormetazepam	O
+2	O
+mg	O
+.	O

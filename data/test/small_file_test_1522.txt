@@ -1,0 +1,13 @@
+
+Según	O
+la	O
+clasificación	O
+de	O
+House	O
+lo	O
+clasificamos	O
+como	O
+un	O
+paciente	O
+filosófico	O
+.	O

@@ -1,0 +1,6 @@
+
+Senos	O
+costofrénicos	O
+no	O
+pinzados	O
+.	O

@@ -1,0 +1,17 @@
+
+Fue	O
+mantenido	O
+en	O
+observación	O
+durante	O
+24	O
+horas	O
+con	O
+dieta	O
+absoluta	O
+,	O
+sueroterapia	O
+y	O
+ciprofloxacino	O
+intravenoso	O
+.	O

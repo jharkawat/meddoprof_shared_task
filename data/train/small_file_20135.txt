@@ -1,0 +1,23 @@
+
+Le	O
+preocupaba	O
+haber	O
+sido	O
+un	O
+mal	O
+padre	O
+y	O
+haber	O
+dedicado	O
+demasiado	O
+tiempo	O
+a	O
+su	O
+carrera	O
+y	O
+demasiado	O
+poco	O
+a	O
+su	O
+hijo	O
+.	O

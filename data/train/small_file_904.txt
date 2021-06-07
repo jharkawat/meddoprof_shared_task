@@ -1,0 +1,12 @@
+
+Anatomía	O
+patológica	O
+:	O
+dermatitis	O
+granulomatosa	O
+,	O
+sugestiva	O
+de	O
+dermatitis	O
+tuberculosa	O
+.	O

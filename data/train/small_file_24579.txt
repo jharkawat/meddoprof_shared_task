@@ -1,0 +1,11 @@
+
+A	O
+pesar	O
+de	O
+ello	O
+,	O
+se	O
+retiró	O
+el	O
+dispositivo	O
+.	O

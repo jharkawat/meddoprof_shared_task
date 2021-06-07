@@ -1,0 +1,25 @@
+
+Actualmente	O
+,	O
+se	O
+mantiene	O
+a	O
+tratamiento	O
+con	O
+AINE	O
+:	O
+dexketoprofeno	O
+de	O
+25	O
+mg	O
+si	O
+dolor	O
+,	O
+pendiente	O
+de	O
+evaluación	O
+por	O
+Servicio	O
+de	O
+Reumatología	O
+.	O

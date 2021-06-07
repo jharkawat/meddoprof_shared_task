@@ -1,0 +1,11 @@
+
+Juicio	O
+clínico	O
+:	O
+Neumonía	O
+organizativa	O
+criptogenética	O
+(	O
+NOC	O
+)	O
+.	O

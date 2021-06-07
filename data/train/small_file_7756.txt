@@ -1,0 +1,20 @@
+
+Como	O
+antecedente	O
+de	O
+interés	O
+en	O
+la	O
+anamnesis	O
+,	O
+tenia	O
+un	O
+gato	O
+doméstico	O
+que	O
+nunca	O
+había	O
+llevado	O
+al	O
+veterinario	O
+.	O

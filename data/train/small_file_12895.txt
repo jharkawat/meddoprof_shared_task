@@ -1,0 +1,13 @@
+
+—	O
+Hiperreflexia	O
+en	O
+miembros	O
+inferiores	O
+con	O
+aumento	O
+del	O
+área	O
+reflexogena	O
+rotuliana	O
+.	O

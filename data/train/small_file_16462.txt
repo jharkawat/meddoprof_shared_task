@@ -1,0 +1,9 @@
+
+No	O
+hipersensibilidad	O
+al	O
+tacto	O
+ni	O
+dolor	O
+facial	O
+.	O

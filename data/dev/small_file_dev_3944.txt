@@ -1,0 +1,18 @@
+
+Se	O
+diagnosticaron	O
+trastornos	O
+del	O
+comportamiento	O
+con	O
+inestabilidad	O
+,	O
+retraso	O
+del	O
+desarrollo	O
+y	O
+trastorno	O
+de	O
+la	O
+comunicación	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+le	O
+aplica	O
+la	O
+escala	O
+de	O
+Hamilton	O
+para	O
+ansiedad	O
+que	O
+registra	O
+11	O
+puntos	O
+(	O
+ansiedad	O
+leve	O
+)	O
+.	O

@@ -1,0 +1,24 @@
+
+-	O
+Ecografía	O
+de	O
+abdomen	O
+:	O
+Lesión	O
+quística	O
+de	O
+unos	O
+14x10cm	O
+que	O
+ocupa	O
+hemipelvis	O
+derecha	O
+hasta	O
+mesogastrio	O
+,	O
+con	O
+un	O
+polo	O
+ecogénico	O
+polipoide	O
+.	O

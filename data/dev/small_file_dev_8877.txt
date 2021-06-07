@@ -1,0 +1,24 @@
+
+Se	O
+amplió	O
+el	O
+estudio	O
+con	O
+pruebas	O
+hematológicas	O
+como	O
+fueron	O
+test	O
+de	O
+Coombs	O
+y	O
+haptoglobina	O
+que	O
+resultaron	O
+negativos	O
+,	O
+descartándose	O
+proceso	O
+hematológico	O
+subyacente	O
+.	O

@@ -1,0 +1,6 @@
+
+ECG	O
+:	O
+sin	O
+alteraciones	O
+.	O

@@ -1,0 +1,15 @@
+
+Derrame	O
+pericárdico	O
+moderado	O
+junto	O
+derrame	O
+pleural	O
+bilateral	O
+con	O
+presencia	O
+de	O
+implantes	O
+pleurales	O
+derechos	O
+.	O

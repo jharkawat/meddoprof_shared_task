@@ -1,0 +1,21 @@
+
+Varón	O
+de	O
+51	O
+años	O
+que	O
+acude	O
+a	O
+las	O
+consultas	O
+de	O
+atención	O
+primaria	O
+por	O
+dos	O
+episodios	O
+de	O
+pérdida	O
+de	O
+conciencia	O
+.	O

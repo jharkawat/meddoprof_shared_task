@@ -1,0 +1,18 @@
+
+Consumo	O
+en	O
+2008	O
+de	O
+Winstrol	O
+(	O
+estanozolol	O
+)	O
+y	O
+Testex	O
+prolongatum	O
+(	O
+cipionato	O
+de	O
+testosterona	O
+)	O
+.	O

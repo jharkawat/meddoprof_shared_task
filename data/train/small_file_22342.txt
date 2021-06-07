@@ -1,0 +1,22 @@
+
+-	O
+Laboratorio	O
+:	O
+hemoglobina	O
+14	O
+,	O
+6	O
+g	O
+/	O
+dl	O
+,	O
+leucocitos	O
+4300	O
+/	O
+mm3	O
+,	O
+plaquetas	O
+141000	O
+/	O
+mm3	O
+.	O

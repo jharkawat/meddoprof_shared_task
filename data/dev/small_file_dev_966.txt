@@ -1,0 +1,11 @@
+
+Reconoce	O
+consumo	O
+de	O
+THC	O
+y	O
+plantea	O
+deseo	O
+de	O
+abandonarlo	O
+.	O

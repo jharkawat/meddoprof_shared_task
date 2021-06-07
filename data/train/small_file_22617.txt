@@ -1,0 +1,21 @@
+
+Para	O
+aumentar	O
+el	O
+efecto	O
+antidepresivo	O
+,	O
+se	O
+añadió	O
+metilfenidato	O
+30	O
+mg	O
+/	O
+día	O
+con	O
+mejoría	O
+de	O
+sus	O
+síntomas	O
+físicos	O
+.	O

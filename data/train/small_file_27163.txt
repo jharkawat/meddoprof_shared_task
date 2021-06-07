@@ -1,0 +1,5 @@
+
+Vértigo	O
+paroxístico	O
+benigno	O
+.	O

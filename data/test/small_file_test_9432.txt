@@ -1,0 +1,5 @@
+
+Trabaja	O
+de	O
+profesora	B-PROFESION
+.	O

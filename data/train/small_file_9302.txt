@@ -1,0 +1,9 @@
+
+Mellitus	O
+tipo	O
+2	O
+en	O
+tratamiento	O
+con	O
+ADO	O
+.	O

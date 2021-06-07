@@ -1,0 +1,22 @@
+
+TRATAMIENTO	O
+DEBIDO	O
+A	O
+LA	O
+MALPOSICIÓN	O
+DENTARIA	O
+y	O
+la	O
+frecuente	O
+respiración	O
+oral	O
+se	O
+remite	O
+al	O
+paciente	O
+al	O
+ortodoncista	B-PROFESION
+y	O
+al	O
+otorrinolaringólogo	B-PROFESION
+.	O

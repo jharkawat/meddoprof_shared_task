@@ -1,0 +1,9 @@
+
+No	O
+relaciones	O
+sociales	O
+fuera	O
+del	O
+entorno	O
+familiar	O
+.	O

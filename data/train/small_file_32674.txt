@@ -1,0 +1,24 @@
+
+Primer	O
+control	O
+:	O
+neutrófilos	O
+absolutos	O
+:	O
+4	O
+,	O
+50	O
+x109	O
+/	O
+l	O
+;	O
+linfocitos	O
+absolutos	O
+:	O
+3	O
+,	O
+20	O
+x109	O
+/	O
+l	O
+.	O

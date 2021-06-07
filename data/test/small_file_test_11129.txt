@@ -1,0 +1,23 @@
+
+La	O
+segunda	O
+fase	O
+,	O
+enmarcada	O
+ya	O
+a	O
+nivel	O
+ambulatorio	O
+,	O
+está	O
+marcada	O
+por	O
+un	O
+replanteamiento	O
+del	O
+encuadre	O
+y	O
+los	O
+objetivos	O
+psicoterapéuticos	O
+.	O

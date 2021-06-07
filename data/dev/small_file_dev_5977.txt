@@ -1,0 +1,7 @@
+
+Urgencia	O
+miccional	O
+con	O
+incontinencia	O
+ocasional	O
+.	O

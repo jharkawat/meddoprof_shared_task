@@ -1,0 +1,12 @@
+
+Síndrome	O
+linfoproliferativo	O
+B	O
+Tipo	O
+Leucemia	O
+Linfática	O
+Crónica	O
+(	O
+LLC	O
+)	O
+.	O

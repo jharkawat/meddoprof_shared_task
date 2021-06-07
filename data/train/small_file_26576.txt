@@ -1,0 +1,19 @@
+
+Antecedentes	O
+personales	O
+:	O
+Embarazo	O
+no	O
+deseado	O
+por	O
+la	O
+madre	O
+,	O
+se	O
+quedó	O
+embarazada	O
+por	O
+la	O
+insistencia	O
+paterna	O
+.	O

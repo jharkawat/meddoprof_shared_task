@@ -1,0 +1,7 @@
+
+No	O
+tiene	O
+antecedentes	O
+oncológicos	O
+destacables	O
+.	O

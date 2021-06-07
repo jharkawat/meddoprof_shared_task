@@ -1,0 +1,25 @@
+
+Los	O
+hallazgos	O
+son	O
+compatibles	O
+con	O
+afectación	O
+por	O
+cordoma	O
+sacro	O
+,	O
+con	O
+aumento	O
+de	O
+tamaño	O
+con	O
+respecto	O
+a	O
+los	O
+descritos	O
+en	O
+el	O
+control	O
+previo	O
+.	O

@@ -1,0 +1,17 @@
+
+Abscesos	O
+tuberculosos	O
+gigantes	O
+de	O
+la	O
+musculatura	O
+retroperitoneal	O
+como	O
+complicación	O
+de	O
+osteomielitis	O
+vertebral	O
+por	O
+Mycobacterium	O
+tuberculosis	O
+.	O

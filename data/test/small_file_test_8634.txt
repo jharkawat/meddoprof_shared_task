@@ -1,0 +1,8 @@
+
+Morfología	O
+de	O
+surcos	O
+y	O
+ventrículos	O
+normal	O
+.	O

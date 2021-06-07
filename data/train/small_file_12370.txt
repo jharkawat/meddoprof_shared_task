@@ -1,0 +1,25 @@
+
+La	O
+exploración	O
+inicial	O
+muestra	O
+como	O
+signos	O
+destacados	O
+,	O
+miosis	O
+bilateral	O
+y	O
+auscultación	O
+pulmonar	O
+con	O
+crepitantes	O
+húmedos	O
+bilaterales	O
+,	O
+mas	O
+acusados	O
+en	O
+hemitórax	O
+izquierdo	O
+.	O

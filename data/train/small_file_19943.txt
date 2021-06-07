@@ -1,0 +1,17 @@
+
+El	O
+trayecto	O
+en	O
+autobús	O
+hasta	O
+el	O
+centro	O
+comercial	O
+pretendía	O
+ser	O
+un	O
+paso	O
+en	O
+esa	O
+dirección	O
+.	O

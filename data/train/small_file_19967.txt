@@ -1,0 +1,16 @@
+
+Coleman	O
+dijo	O
+que	O
+no	O
+tenía	O
+síntomas	O
+depresivos	O
+,	O
+maníacos	O
+o	O
+psicóticos	O
+ni	O
+ideación	O
+violenta	O
+.	O

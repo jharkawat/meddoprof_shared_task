@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+refiere	O
+comportamiento	O
+alimentario	O
+disfuncional	O
+de	O
+seis	O
+meses	O
+de	O
+evolución	O
+tras	O
+ganancia	O
+ponderal	O
+(	O
+5	O
+kilos	O
+)	O
+secundaria	O
+a	O
+tratamiento	O
+con	O
+ACO	O
+.	O

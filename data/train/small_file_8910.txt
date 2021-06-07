@@ -1,0 +1,10 @@
+
+Sin	O
+lesiones	O
+cutáneas	O
+ni	O
+signos	O
+inflamatorios	O
+en	O
+articulaciones	O
+.	O

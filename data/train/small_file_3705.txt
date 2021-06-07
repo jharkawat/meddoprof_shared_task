@@ -1,0 +1,23 @@
+
+Se	O
+inicia	O
+seguimiento	O
+por	O
+Oncología	O
+donde	O
+comentan	O
+el	O
+caso	O
+en	O
+comité	O
+de	O
+tumores	O
+y	O
+tratan	O
+de	O
+adoptar	O
+un	O
+plan	O
+de	O
+abordaje	O
+.	O

@@ -1,0 +1,17 @@
+
+En	O
+el	O
+TAC	O
+realizado	O
+se	O
+describe	O
+una	O
+lesión	O
+dependiente	O
+de	O
+lóbulo	O
+hepático	O
+derecho	O
+,	O
+hipovascular	O
+.	O

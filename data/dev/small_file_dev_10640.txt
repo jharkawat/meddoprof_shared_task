@@ -1,0 +1,7 @@
+
+HIGIENE	O
+Y	O
+ESTADO	O
+DE	O
+LA	O
+PIEL	O

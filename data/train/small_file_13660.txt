@@ -1,0 +1,14 @@
+
+Se	O
+inician	O
+antihipertensivos	O
+e	O
+inducción	O
+durante	O
+6	O
+meses	O
+con	O
+metilprednisolona	O
+y	O
+ciclofosfamida	O
+.	O

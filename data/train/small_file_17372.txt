@@ -1,0 +1,17 @@
+
+A	O
+su	O
+vez	O
+se	O
+realizó	O
+tratamiento	O
+erradicador	O
+con	O
+metronidazol	O
+contra	O
+la	O
+giardiasis	O
+intestinal	O
+asintomática	O
+coexistente	O
+.	O

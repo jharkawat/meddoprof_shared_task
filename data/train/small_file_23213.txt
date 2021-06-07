@@ -1,0 +1,14 @@
+
+Se	O
+aumentó	O
+la	O
+dosis	O
+de	O
+paroxetina	O
+a	O
+40	O
+-	O
+mg	O
+/	O
+día	O
+.	O

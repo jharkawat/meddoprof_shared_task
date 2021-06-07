@@ -1,0 +1,13 @@
+
+Talla	O
+1	O
+.	O
+67	O
+m	O
+Peso	O
+90	O
+kg	O
+IMC	O
+32	O
+.	O
+27	O

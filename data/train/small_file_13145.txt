@@ -1,0 +1,16 @@
+
+PLAN	O
+se	O
+remite	O
+a	O
+Endocrino	B-PROFESION
+quien	O
+confirma	O
+el	O
+diagnóstico	O
+y	O
+comienza	O
+tratamiento	O
+con	O
+desmopresina	O
+.	O

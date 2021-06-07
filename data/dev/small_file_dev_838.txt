@@ -1,0 +1,11 @@
+
+Con	O
+este	O
+tratamiento	O
+hace	O
+cuadro	O
+catatoniforme	O
+y	O
+se	O
+suspende	O
+.	O

@@ -1,0 +1,9 @@
+
+La	O
+paciente	O
+fallece	O
+a	O
+las	O
+48	O
+horas	O
+.	O

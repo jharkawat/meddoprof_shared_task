@@ -1,0 +1,8 @@
+
+No	O
+toma	O
+medicación	O
+de	O
+forma	O
+habitual	O
+.	O

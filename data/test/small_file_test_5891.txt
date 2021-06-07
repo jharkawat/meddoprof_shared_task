@@ -1,0 +1,9 @@
+
+No	O
+fiebre	O
+termometrada	O
+ni	O
+sensación	O
+distérmica	O
+asociada	O
+.	O

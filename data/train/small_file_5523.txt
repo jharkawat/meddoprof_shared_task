@@ -1,0 +1,10 @@
+
+Pertenece	O
+a	O
+un	O
+nivel	O
+sociocultural	O
+medio	O
+-	O
+alto	O
+.	O

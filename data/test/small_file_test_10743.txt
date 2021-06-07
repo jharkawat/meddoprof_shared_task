@@ -1,0 +1,13 @@
+
+En	O
+control	O
+,	O
+el	O
+paciente	O
+refiere	O
+completa	O
+resolución	O
+de	O
+los	O
+síntomas	O
+.	O

@@ -1,0 +1,10 @@
+
+Abdomen	O
+:	O
+pequeñas	O
+cicatrices	O
+en	O
+relación	O
+a	O
+cirugía	O
+.	O

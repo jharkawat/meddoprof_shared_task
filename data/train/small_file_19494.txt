@@ -1,0 +1,6 @@
+
+Tipo	O
+de	O
+interrogatorio	O
+:	O
+directo	O

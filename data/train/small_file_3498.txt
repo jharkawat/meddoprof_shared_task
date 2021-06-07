@@ -1,0 +1,11 @@
+
+Enfoque	O
+Individual	O
+(	O
+anamnesis	O
+,	O
+exploración	O
+,	O
+pruebas	O
+complementarias	O
+)	O

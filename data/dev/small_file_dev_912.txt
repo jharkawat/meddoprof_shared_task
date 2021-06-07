@@ -1,0 +1,9 @@
+
+Auscultación	O
+cardiaca	O
+:	O
+rítmico	O
+sin	O
+soplos	O
+sobreañadidos	O
+.	O

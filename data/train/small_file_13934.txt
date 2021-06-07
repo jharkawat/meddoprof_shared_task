@@ -1,0 +1,24 @@
+
+El	O
+estudio	O
+etiológico	O
+de	O
+una	O
+uveítis	O
+unilateral	O
+en	O
+este	O
+paciente	O
+requiere	O
+el	O
+despistaje	O
+de	O
+enfermedades	O
+infecciosas	O
+locales	O
+o	O
+sistémicas	O
+y	O
+enfermedades	O
+inflamatorias	O
+.	O

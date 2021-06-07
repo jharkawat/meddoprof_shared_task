@@ -1,0 +1,6 @@
+
+No	O
+presentaba	O
+signos	O
+meníngeos	O
+.	O

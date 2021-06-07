@@ -1,0 +1,22 @@
+
+-	O
+Microbiología	O
+de	O
+LCR	O
+:	O
+negativo	O
+para	O
+micobacterias	O
+,	O
+herpesvirus	O
+,	O
+enterovirus	O
+,	O
+virus	O
+herpes	O
+simple	O
+,	O
+virus	O
+varicela	O
+zóster	O
+.	O

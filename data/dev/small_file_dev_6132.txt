@@ -1,0 +1,22 @@
+
+El	O
+Síndrome	O
+de	O
+Tietze	O
+se	O
+considera	O
+normalmente	O
+un	O
+proceso	O
+benigno	O
+que	O
+afecta	O
+a	O
+adultos	O
+jóvenes	O
+entre	O
+18	O
+y	O
+32	O
+años	O
+.	O

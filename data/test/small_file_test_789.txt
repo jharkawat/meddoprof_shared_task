@@ -1,0 +1,16 @@
+
+Antonio	O
+es	O
+un	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+enfermería	I-PROFESION
+que	O
+trabaja	O
+en	O
+el	O
+centro	O
+de	O
+transfusiones	O
+sanguíneas	O
+.	O

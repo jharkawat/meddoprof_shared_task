@@ -1,0 +1,19 @@
+
+Era	O
+fumador	O
+de	O
+15	O
+años	O
+/	O
+paquete	O
+y	O
+era	O
+bebedor	O
+de	O
+menos	O
+de	O
+20	O
+g	O
+/	O
+día	O
+.	O

@@ -1,0 +1,27 @@
+
+Una	O
+vez	O
+la	O
+casa	O
+estuvo	O
+reformada	O
+y	O
+limpia	O
+,	O
+se	O
+dio	O
+de	O
+alta	O
+al	O
+usuario	O
+y	O
+pudimos	O
+vincularnos	O
+con	O
+él	O
+para	O
+trabajar	O
+los	O
+objetivos	O
+pautados	O
+.	O

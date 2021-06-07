@@ -1,0 +1,9 @@
+
+Antecedentes	O
+medico	O
+-	O
+quirúrgicos	O
+:	O
+sin	O
+interés	O
+.	O

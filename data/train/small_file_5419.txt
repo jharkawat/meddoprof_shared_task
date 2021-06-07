@@ -1,0 +1,22 @@
+
+Auscultación	O
+:	O
+corazón	O
+rítmico	O
+a	O
+99	O
+latidos	O
+por	O
+minuto	O
+,	O
+sin	O
+soplos	O
+,	O
+murmullo	O
+vesicular	O
+conservado	O
+,	O
+sin	O
+ruidos	O
+sobreañadidos	O
+.	O

@@ -1,0 +1,12 @@
+
+Paracetamol	O
+1	O
+g	O
+cada	O
+8	O
+horas	O
+si	O
+precisa	O
+para	O
+dolor	O
+.	O

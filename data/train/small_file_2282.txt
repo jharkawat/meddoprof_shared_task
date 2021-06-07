@@ -1,0 +1,18 @@
+
+La	O
+cabeza	O
+femoral	O
+presenta	O
+un	O
+pequeño	O
+islote	O
+óseo	O
+y	O
+el	O
+ángulo	O
+alfa	O
+es	O
+mayor	O
+de	O
+50o	O
+.	O

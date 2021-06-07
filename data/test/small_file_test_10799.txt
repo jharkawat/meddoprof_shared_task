@@ -1,0 +1,24 @@
+
+Se	O
+ocluye	O
+también	O
+la	O
+cavidad	O
+con	O
+fascia	O
+y	O
+grasa	O
+extraída	O
+de	O
+abdomen	O
+y	O
+se	O
+cierra	O
+el	O
+CAE	O
+en	O
+forma	O
+de	O
+saco	O
+ciego	O
+.	O

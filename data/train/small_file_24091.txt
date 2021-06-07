@@ -1,0 +1,25 @@
+
+En	O
+el	O
+seguimiento	O
+ambulatorio	O
+posterior	O
+se	O
+practica	O
+un	O
+SPECT	O
+donde	O
+se	O
+aprecia	O
+un	O
+mínimo	O
+defecto	O
+de	O
+perfusión	O
+en	O
+región	O
+temporoparietal	O
+del	O
+lado	O
+izquierdo	O
+.	O

@@ -1,0 +1,15 @@
+
+Finalmente	O
+,	O
+el	O
+paciente	O
+fallece	O
+el	O
+15	O
+de	O
+marzo	O
+por	O
+insuficiencia	O
+respiratoria	O
+aguda	O
+.	O

@@ -1,0 +1,6 @@
+
+No	O
+náuseas	O
+ni	O
+vómitos	O
+.	O

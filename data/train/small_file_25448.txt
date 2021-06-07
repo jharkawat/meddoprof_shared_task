@@ -1,0 +1,26 @@
+
+Sale	O
+de	O
+Guinea	O
+cuando	O
+tenía	O
+unos	O
+20	O
+años	O
+y	O
+estuvo	O
+viviendo	O
+durante	O
+8	O
+años	O
+en	O
+otros	O
+países	O
+africanos	O
+,	O
+hasta	O
+que	O
+llega	O
+a	O
+España	O
+.	O

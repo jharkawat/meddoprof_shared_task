@@ -1,0 +1,15 @@
+
+En	O
+la	O
+ecografía	O
+abdominal	O
+se	O
+evidenció	O
+parénquima	O
+hepático	O
+de	O
+bordes	O
+irregulares	O
+y	O
+esplenomegalia	O
+.	O

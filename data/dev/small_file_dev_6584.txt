@@ -1,0 +1,17 @@
+
+El	O
+cultivo	O
+para	O
+bacterias	O
+del	O
+líquido	O
+cefalorraquideo	O
+(	O
+LCR	O
+)	O
+y	O
+la	O
+citología	O
+fueron	O
+negativos	O
+.	O

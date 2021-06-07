@@ -1,0 +1,8 @@
+
+Me	O
+parece	O
+una	O
+pérdida	O
+de	O
+tiempo	O
+.	O

@@ -1,0 +1,14 @@
+
+Fecha	O
+de	O
+última	O
+menstruación	O
+:	O
+hace	O
+3	O
+meses	O
+pues	O
+tiene	O
+folículo	O
+hemorrágico	O
+.	O

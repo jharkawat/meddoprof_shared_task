@@ -1,0 +1,27 @@
+
+En	O
+la	O
+AVI	O
+se	O
+confirmó	O
+la	O
+obliteración	O
+de	O
+los	O
+pólipos	O
+maculares	O
+,	O
+aunque	O
+se	O
+evidenció	O
+alguna	O
+estructura	O
+hiperfluorescente	O
+junto	O
+a	O
+la	O
+arcada	O
+vascular	O
+temporal	O
+superior	O
+.	O

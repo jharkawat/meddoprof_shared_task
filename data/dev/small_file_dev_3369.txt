@@ -1,0 +1,15 @@
+
+No	O
+tiene	O
+ningún	O
+familiar	O
+cercano	O
+que	O
+presente	O
+o	O
+haya	O
+presentado	O
+una	O
+sintomatología	O
+similar	O
+.	O

@@ -1,0 +1,26 @@
+
+A	O
+la	O
+exploración	O
+,	O
+presentaba	O
+dolor	O
+selectivo	O
+a	O
+la	O
+palpación	O
+en	O
+hipogastrio	O
+y	O
+fosa	O
+ilíaca	O
+izquierda	O
+sin	O
+signos	O
+de	O
+peritonismo	O
+con	O
+ruidos	O
+hidroaéreos	O
+presentes	O
+.	O

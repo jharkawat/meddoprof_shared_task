@@ -1,0 +1,10 @@
+
+Bueno	O
+tono	O
+ocular	O
+,	O
+sin	O
+dolor	O
+a	O
+palpación	O
+.	O

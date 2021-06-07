@@ -1,0 +1,19 @@
+
+Discurso	O
+enlentecido	O
+,	O
+aunque	O
+espontáneo	O
+,	O
+coherente	O
+,	O
+lógico	O
+y	O
+bien	O
+estructurado	O
+centrado	O
+en	O
+relatar	O
+temática	O
+delirante	O
+.	O

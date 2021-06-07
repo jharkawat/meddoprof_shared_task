@@ -1,0 +1,20 @@
+
+-	O
+Arteriosclerosis	O
+leve	O
+-	O
+moderada	O
+a	O
+nivel	O
+de	O
+aorta	O
+,	O
+arterias	O
+coronarias	O
+y	O
+arterias	O
+de	O
+polígono	O
+de	O
+Willis	O
+.	O

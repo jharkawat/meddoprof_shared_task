@@ -1,0 +1,8 @@
+
+ECG	O
+:	O
+taquicardia	O
+sinusal	O
+a	O
+110	O
+lpm	O

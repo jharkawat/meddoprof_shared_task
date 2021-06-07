@@ -1,0 +1,6 @@
+
+Llenura	O
+abdominal	O
+por	O
+gases	O
+.	O

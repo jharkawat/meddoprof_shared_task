@@ -1,0 +1,26 @@
+
+A	O
+la	O
+exploración	O
+,	O
+abdomen	O
+blando	O
+y	O
+depresible	O
+,	O
+doloroso	O
+a	O
+la	O
+palpación	O
+profunda	O
+,	O
+sin	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+y	O
+ruidos	O
+hidroaéreos	O
+conservados	O
+.	O

@@ -1,0 +1,19 @@
+
+También	O
+se	O
+le	O
+realiza	O
+RMN	O
+urgente	O
+:	O
+Se	O
+estudia	O
+en	O
+T1	O
+,	O
+T2	O
+y	O
+con	O
+supresión	O
+grasa	O
+.	O

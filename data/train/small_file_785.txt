@@ -1,0 +1,14 @@
+
+La	O
+evolución	O
+de	O
+la	O
+paciente	O
+denota	O
+signos	O
+de	O
+falla	O
+,	O
+sin	O
+fiebre	O
+.	O

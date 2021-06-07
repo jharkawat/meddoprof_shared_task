@@ -1,0 +1,16 @@
+
+Es	O
+remitido	O
+en	O
+ambulancia	O
+desde	O
+UHSM	O
+de	O
+Hospital	O
+Clínico	O
+de	O
+Granada	O
+donde	O
+permanecía	O
+ingresado	O
+.	O

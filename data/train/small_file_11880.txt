@@ -1,0 +1,8 @@
+
+Ojos	O
+con	O
+hendiduras	O
+palpebrales	O
+algo	O
+acortadas	O
+.	O

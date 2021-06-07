@@ -1,0 +1,24 @@
+
+La	O
+clínica	O
+consiste	O
+en	O
+dolor	O
+,	O
+afectación	O
+de	O
+la	O
+sensibilidad	O
+y	O
+disfunción	O
+neurológica	O
+con	O
+la	O
+aparición	O
+de	O
+lesiones	O
+líticas	O
+y	O
+esclerosis	O
+marginal	O
+.	O

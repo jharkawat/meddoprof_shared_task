@@ -1,0 +1,13 @@
+
+La	O
+lesión	O
+ósea	O
+descrita	O
+en	O
+rama	O
+iliopubiana	O
+derecha	O
+en	O
+el	O
+estudio	O
+actual	O

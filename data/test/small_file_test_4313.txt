@@ -1,0 +1,5 @@
+
+Sin	O
+adenopatías	O
+palpables	O
+.	O

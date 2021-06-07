@@ -1,0 +1,11 @@
+
+Tiene	O
+una	O
+nuera	O
+médica	B-PROFESION
+,	O
+con	O
+buenos	O
+contactos	O
+hospitalarios	O
+.	O

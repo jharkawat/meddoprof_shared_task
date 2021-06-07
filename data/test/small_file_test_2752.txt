@@ -1,0 +1,15 @@
+
+En	O
+ese	O
+momento	O
+no	O
+recibe	O
+más	O
+tratamiento	O
+y	O
+empieza	O
+a	O
+realizar	O
+seguimiento	O
+periódico	O
+.	O

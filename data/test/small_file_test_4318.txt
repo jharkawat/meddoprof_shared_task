@@ -1,0 +1,19 @@
+
+Abdomen	O
+:	O
+blando	O
+,	O
+no	O
+doloroso	O
+,	O
+sin	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+ni	O
+masas	O
+ni	O
+vísceromegalias	O
+palpables	O
+.	O

@@ -1,0 +1,16 @@
+
+Fue	O
+tratada	O
+con	O
+inmovilización	O
+y	O
+condicionó	O
+un	O
+llamativo	O
+descenso	O
+en	O
+la	O
+actividad	O
+física	O
+diaria	O
+.	O

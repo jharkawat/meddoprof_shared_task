@@ -1,0 +1,26 @@
+
+La	O
+paciente	O
+inicia	O
+la	O
+QT	O
+el	O
+día	O
+26	O
+/	O
+10	O
+/	O
+2015	O
+,	O
+completando	O
+el	O
+tercer	O
+ciclo	O
+el	O
+día	O
+18	O
+/	O
+12	O
+/	O
+2015	O
+.	O

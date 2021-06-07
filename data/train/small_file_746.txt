@@ -1,0 +1,12 @@
+
+Se	O
+realiza	O
+interconsulta	O
+urgente	O
+a	O
+Urología	O
+que	O
+realiza	O
+nefrostomía	O
+derecha	O
+.	O

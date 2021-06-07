@@ -1,0 +1,21 @@
+
+Al	O
+examen	O
+radiográfico	O
+se	O
+apreciaba	O
+una	O
+ligera	O
+reabsorción	O
+a	O
+manera	O
+de	O
+depresión	O
+cóncava	O
+,	O
+con	O
+un	O
+trabeculado	O
+óseo	O
+normal	O
+.	O

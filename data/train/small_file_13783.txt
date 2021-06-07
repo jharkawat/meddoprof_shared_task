@@ -1,0 +1,17 @@
+
+Paciente	O
+mujer	O
+de	O
+54	O
+años	O
+con	O
+RAMs	O
+a	O
+diclofenaco	O
+,	O
+ibuprofeno	O
+,	O
+mefenámico	O
+y	O
+varidasa	O
+.	O

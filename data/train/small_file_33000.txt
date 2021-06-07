@@ -1,0 +1,24 @@
+
+Después	O
+de	O
+un	O
+mes	O
+sin	O
+tratamiento	O
+con	O
+fármacos	O
+neurolépticos	O
+,	O
+mejoró	O
+el	O
+trastorno	O
+del	O
+movimiento	O
+pero	O
+inició	O
+clínica	O
+psicótica	O
+de	O
+características	O
+paranoides	O
+.	O

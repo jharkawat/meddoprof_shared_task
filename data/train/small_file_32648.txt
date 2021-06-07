@@ -1,0 +1,26 @@
+
+Son	O
+voces	O
+masculinas	O
+algo	O
+feminizadas	O
+(	O
+"	O
+la	O
+voz	O
+de	O
+espinete	O
+"	O
+)	O
+que	O
+le	O
+incitan	O
+a	O
+cometer	O
+acciones	O
+autoagresivas	O
+y	O
+verbalizan	O
+ideas	O
+suicidas	O
+.	O

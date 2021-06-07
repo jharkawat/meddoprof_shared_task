@@ -1,0 +1,15 @@
+
+Pruebas	O
+complementarias	O
+:	O
+hemograma	O
+:	O
+leucocitosis	O
+17	O
+,	O
+84	O
+con	O
+84	O
+%	O
+neutrófilos	O
+.	O

@@ -1,0 +1,22 @@
+
+Estos	O
+ingresos	O
+han	O
+ido	O
+aumentando	O
+ya	O
+que	O
+ha	O
+necesitado	O
+incremento	O
+en	O
+la	O
+dosis	O
+farmacológica	O
+y	O
+mayor	O
+tiempo	O
+en	O
+la	O
+estabilización	O
+.	O

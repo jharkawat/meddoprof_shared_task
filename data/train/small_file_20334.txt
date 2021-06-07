@@ -1,0 +1,24 @@
+
+Aunque	O
+Nadia	O
+se	O
+mostró	O
+al	O
+principio	O
+poco	O
+dispuesta	O
+a	O
+hablar	O
+de	O
+sí	O
+misma	O
+,	O
+dijo	O
+que	O
+se	O
+notaba	O
+tensa	O
+a	O
+todas	O
+horas	O
+.	O

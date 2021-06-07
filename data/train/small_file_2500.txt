@@ -1,0 +1,12 @@
+
+Iniciados	O
+cereales	O
+sin	O
+gluten	O
+10	O
+días	O
+antes	O
+de	O
+manera	O
+irregular	O
+.	O

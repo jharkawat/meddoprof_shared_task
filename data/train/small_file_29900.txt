@@ -1,0 +1,22 @@
+
+Ella	O
+los	O
+toma	O
+por	O
+un	O
+grupo	O
+de	O
+psicólogos	B-PROFESION
+y	O
+que	O
+las	O
+preguntas	O
+que	O
+le	O
+hacen	O
+forman	O
+parte	O
+de	O
+un	O
+test	O
+.	O

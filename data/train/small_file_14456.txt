@@ -1,0 +1,8 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+fue	O
+anodina	O
+.	O

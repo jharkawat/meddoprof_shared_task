@@ -1,0 +1,11 @@
+
+Con	O
+realce	O
+en	O
+anillo	O
+grueso	O
+tras	O
+administración	O
+de	O
+contraste	O
+.	O

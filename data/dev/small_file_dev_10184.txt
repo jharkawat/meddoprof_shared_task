@@ -1,0 +1,9 @@
+
+Su	O
+salud	O
+física	O
+siempre	O
+había	O
+sido	O
+buena	O
+.	O

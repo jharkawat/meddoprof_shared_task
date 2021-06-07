@@ -1,0 +1,5 @@
+
+Hernia	O
+discal	O
+lumbar	O
+.	O

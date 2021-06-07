@@ -1,0 +1,8 @@
+
+Refiere	O
+sentirse	O
+muy	O
+distanciada	O
+de	O
+ellos	O
+.	O

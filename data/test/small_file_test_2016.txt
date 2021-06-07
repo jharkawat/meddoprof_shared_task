@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+inicia	O
+tratamiento	O
+el	O
+día	O
+15	O
+/	O
+02	O
+/	O
+17	O
+.	O

@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+se	O
+encuentra	O
+con	O
+ganas	O
+y	O
+desea	O
+continuar	O
+QT	O
+.	O

@@ -1,0 +1,15 @@
+
+El	O
+cuadro	O
+cede	O
+tras	O
+la	O
+administración	O
+de	O
+dexclorfeniramina	O
+y	O
+retirada	O
+de	O
+la	O
+clorhexidina	O
+.	O

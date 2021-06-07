@@ -1,0 +1,10 @@
+
+Realizaba	O
+tratamiento	O
+con	O
+Losartan	O
+–	O
+Hidroclorotiazida	O
+y	O
+Omeprazol	O
+.	O

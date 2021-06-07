@@ -1,0 +1,8 @@
+
+Cocina	O
+con	O
+ajo	O
+de	O
+forma	O
+habitual	O
+.	O

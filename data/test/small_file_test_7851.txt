@@ -1,0 +1,20 @@
+
+En	O
+la	O
+ecografía	O
+se	O
+objetiva	O
+presencia	O
+de	O
+masa	O
+suprarrenal	O
+derecha	O
+por	O
+lo	O
+que	O
+deriva	O
+al	O
+paciente	O
+a	O
+Endocrinología	O
+.	O

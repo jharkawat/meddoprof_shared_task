@@ -1,0 +1,6 @@
+
+No	O
+se	O
+auscultan	O
+soplos	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+hay	O
+otros	O
+hallazgos	O
+de	O
+interés	O
+en	O
+la	O
+exploración	O
+.	O

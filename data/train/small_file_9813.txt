@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+recibió	O
+tratamiento	O
+con	O
+Azitromicina	O
+,	O
+paracetamol	O
+e	O
+ibuprofeno	O
+.	O

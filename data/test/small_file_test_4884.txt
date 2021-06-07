@@ -1,0 +1,26 @@
+
+La	O
+tumoración	O
+presentaba	O
+extensas	O
+áreas	O
+de	O
+necrosis	O
+,	O
+junto	O
+con	O
+invasión	O
+macroscópica	O
+y	O
+microscópica	O
+de	O
+la	O
+vena	O
+suprarrenal	O
+,	O
+esplénica	O
+y	O
+de	O
+adenopatía	O
+peripancreática	O
+.	O

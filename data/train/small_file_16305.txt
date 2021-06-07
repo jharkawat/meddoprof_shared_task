@@ -1,0 +1,8 @@
+
+Enfermedad	O
+cerebrovascular	O
+isquémica	O
+de	O
+pequeño	O
+vaso	O
+.	O

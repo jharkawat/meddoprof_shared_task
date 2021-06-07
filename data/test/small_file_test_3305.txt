@@ -1,0 +1,8 @@
+
+No	O
+refiere	O
+otra	O
+clínica	O
+a	O
+destacar	O
+.	O

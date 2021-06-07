@@ -1,0 +1,25 @@
+
+Dados	O
+los	O
+antecedentes	O
+personales	O
+se	O
+decide	O
+iniciar	O
+budesonida	O
+160	O
+mcg	O
+/	O
+formoterol	O
+fumarato	O
+dihidrato	O
+4	O
+,	O
+5	O
+mcg	O
+2	O
+inhalaciones	O
+cada	O
+12	O
+horas	O
+.	O

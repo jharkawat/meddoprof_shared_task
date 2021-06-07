@@ -1,0 +1,27 @@
+
+Se	O
+deriva	O
+a	O
+urgencias	O
+hospitalarias	O
+para	O
+ingreso	O
+en	O
+medicina	O
+interna	O
+o	O
+neurología	O
+para	O
+descartar	O
+otras	O
+causas	O
+,	O
+confirmar	O
+nuestro	O
+diagnóstico	O
+y	O
+continuar	O
+con	O
+el	O
+tratamiento	O
+.	O

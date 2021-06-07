@@ -1,0 +1,12 @@
+
+El	O
+primero	O
+tuvo	O
+un	O
+episodio	O
+depresivo	O
+y	O
+tiene	O
+CI	O
+Límite	O
+.	O

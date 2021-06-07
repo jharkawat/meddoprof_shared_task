@@ -1,0 +1,27 @@
+
+Cinco	O
+meses	O
+después	O
+se	O
+vuelve	O
+a	O
+derivar	O
+para	O
+ingreso	O
+por	O
+invasión	O
+de	O
+su	O
+delirio	O
+crónico	O
+con	O
+gran	O
+angustia	O
+psicótica	O
+a	O
+pesar	O
+del	O
+adecuado	O
+cumplimiento	O
+terapéutico	O
+.	O

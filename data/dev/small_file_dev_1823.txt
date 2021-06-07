@@ -1,0 +1,17 @@
+
+En	O
+cuanto	O
+a	O
+las	O
+relaciones	O
+sentimentales	O
+que	O
+ha	O
+tenido	O
+han	O
+sido	O
+siempre	O
+inestables	O
+y	O
+tortuosas	O
+.	O

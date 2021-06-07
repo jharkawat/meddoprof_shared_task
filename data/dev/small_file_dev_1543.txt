@@ -1,0 +1,10 @@
+
+Al	O
+inicio	O
+,	O
+valoración	O
+para	O
+descartar	O
+patología	O
+orgánica	O
+.	O

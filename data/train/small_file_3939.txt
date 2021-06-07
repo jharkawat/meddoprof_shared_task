@@ -1,0 +1,5 @@
+
+Sin	O
+deterioro	O
+cognitivo	O
+.	O

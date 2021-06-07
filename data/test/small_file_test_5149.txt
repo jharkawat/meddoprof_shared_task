@@ -1,0 +1,20 @@
+
+El	O
+estudio	O
+de	O
+LCR	O
+fue	O
+negativo	O
+para	O
+células	O
+malignas	O
+con	O
+anticuerpos	O
+onconeuronales	O
+y	O
+anticuerpos	O
+antirreceptor	O
+de	O
+acetilcolina	O
+negativos	O
+.	O

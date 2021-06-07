@@ -1,0 +1,17 @@
+
+A	O
+su	O
+ingreso	O
+en	O
+planta	O
+de	O
+medicina	O
+interna	O
+,	O
+persiste	O
+con	O
+dolor	O
+abdominal	O
+no	O
+controlado	O
+.	O

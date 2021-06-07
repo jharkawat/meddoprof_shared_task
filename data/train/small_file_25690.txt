@@ -1,0 +1,10 @@
+
+Tiene	O
+repercusiones	O
+importantes	O
+en	O
+la	O
+vida	O
+del	O
+paciente	O
+.	O

@@ -1,0 +1,15 @@
+
+Acude	O
+a	O
+revisión	O
+de	O
+liquen	O
+plano	O
+de	O
+mucosa	O
+oral	O
+de	O
+años	O
+de	O
+evolución	O
+.	O

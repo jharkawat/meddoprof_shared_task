@@ -1,0 +1,25 @@
+
+Sin	O
+embargo	O
+,	O
+con	O
+los	O
+dos	O
+primeros	O
+se	O
+objetivan	O
+cierto	O
+enlentecimiento	O
+y	O
+despistes	O
+cognitivos	O
+y	O
+con	O
+el	O
+último	O
+no	O
+se	O
+alcanzan	O
+resultados	O
+terapéuticos	O
+.	O

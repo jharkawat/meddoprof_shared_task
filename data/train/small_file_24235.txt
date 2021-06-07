@@ -1,0 +1,7 @@
+
+Su	O
+tratamiento	O
+se	O
+fue	O
+ajustando	O
+.	O

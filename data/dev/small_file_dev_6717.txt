@@ -1,0 +1,26 @@
+
+A	O
+la	O
+exploración	O
+hipertenso	O
+(	O
+TA	O
+179	O
+/	O
+79	O
+mmHg	O
+)	O
+,	O
+con	O
+frecuencia	O
+cardiaca	O
+normal	O
+(	O
+66	O
+lpm	O
+)	O
+,	O
+eupneico	O
+y	O
+afebril	O
+.	O

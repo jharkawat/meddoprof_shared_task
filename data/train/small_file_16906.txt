@@ -1,0 +1,7 @@
+
+No	O
+se	O
+demuestra	O
+efecto	O
+masa	O
+.	O

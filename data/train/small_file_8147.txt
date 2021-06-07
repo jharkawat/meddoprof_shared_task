@@ -1,0 +1,14 @@
+
+Paciente	O
+de	O
+46	O
+an	O
+̃	O
+os	O
+ingresado	O
+por	O
+celulitis	O
+miembro	O
+inferior	O
+izquierdo	O
+.	O

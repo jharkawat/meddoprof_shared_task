@@ -1,0 +1,16 @@
+
+Los	O
+bomberos	B-PROFESION
+cortaron	O
+cuidadosamente	O
+el	O
+arpón	O
+para	O
+facilitar	O
+el	O
+traslado	O
+del	O
+paciente	O
+al	O
+hospital	O
+.	O

@@ -1,0 +1,13 @@
+
+Actitud	O
+desafiante	O
+y	O
+hostil	O
+con	O
+episodios	O
+de	O
+irritabilidad	O
+durante	O
+la	O
+entrevista	O
+.	O

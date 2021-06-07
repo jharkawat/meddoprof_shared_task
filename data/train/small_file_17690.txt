@@ -1,0 +1,12 @@
+
+Trabajador	O
+como	O
+vigilante	B-PROFESION
+de	I-PROFESION
+seguridad	I-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+almacén	I-PROFESION
+de	I-PROFESION
+alimentos	I-PROFESION
+.	O

@@ -1,0 +1,10 @@
+
+Era	O
+incapaz	O
+de	O
+advertir	O
+la	O
+naturaleza	O
+del	O
+problema	O
+.	O

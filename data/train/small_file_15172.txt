@@ -1,0 +1,9 @@
+
+Ecoendoscopia	O
+:	O
+Estenosis	O
+esofágica	O
+de	O
+aspecto	O
+neoplásico	O
+.	O

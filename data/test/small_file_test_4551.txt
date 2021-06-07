@@ -1,0 +1,24 @@
+
+Únicamente	O
+destacaba	O
+tonos	O
+cardíacos	O
+arrítmicos	O
+,	O
+sin	O
+soplos	O
+ni	O
+edemas	O
+en	O
+extremidades	O
+,	O
+e	O
+hipofonesis	O
+basal	O
+derecha	O
+,	O
+en	O
+la	O
+auscultación	O
+cardiorrespiratoria	O
+.	O

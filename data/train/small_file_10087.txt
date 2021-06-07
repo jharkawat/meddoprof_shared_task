@@ -1,0 +1,5 @@
+
+Neumomediastino	O
+espontáneo	O
+con	O
+Neumopericardio	O

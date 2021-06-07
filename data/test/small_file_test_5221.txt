@@ -1,0 +1,14 @@
+
+Había	O
+perdido	O
+14	O
+kg	O
+en	O
+los	O
+últimos	O
+8	O
+meses	O
+de	O
+manera	O
+voluntaria	O
+.	O

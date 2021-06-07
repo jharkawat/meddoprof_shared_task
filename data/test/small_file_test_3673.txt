@@ -1,0 +1,11 @@
+
+Paciente	O
+de	O
+54	O
+años	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

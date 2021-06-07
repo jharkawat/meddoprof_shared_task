@@ -1,0 +1,14 @@
+
+Hemograma	O
+basal	O
+,	O
+previo	O
+inicio	O
+de	O
+clozapina	O
+,	O
+dentro	O
+de	O
+límites	O
+normales	O
+.	O

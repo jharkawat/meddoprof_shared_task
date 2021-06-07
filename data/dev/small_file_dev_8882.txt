@@ -1,0 +1,23 @@
+
+Las	O
+baciloscopias	O
+seriadas	O
+que	O
+se	O
+realizaron	O
+se	O
+mantuvieron	O
+persistentemente	O
+positivas	O
+,	O
+con	O
+un	O
+antibiograma	O
+para	O
+M	O
+.	O
+tuberculosis	O
+sensible	O
+a	O
+rifampicina	O
+.	O

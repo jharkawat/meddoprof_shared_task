@@ -1,0 +1,14 @@
+
+El	O
+cultivo	O
+microbiológico	O
+de	O
+la	O
+zona	O
+ulcerada	O
+de	O
+la	O
+lesión	O
+fue	O
+negativo	O
+.	O

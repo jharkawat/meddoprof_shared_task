@@ -1,0 +1,11 @@
+
+De	O
+profesión	B-PROFESION
+abrillantamiento	I-PROFESION
+de	I-PROFESION
+suelos	I-PROFESION
+y	O
+pintor	B-PROFESION
+de	I-PROFESION
+paredes	I-PROFESION
+.	O

@@ -1,0 +1,9 @@
+
+Se	O
+acompaña	O
+de	O
+dolor	O
+en	O
+ambos	O
+antebrazos	O
+.	O

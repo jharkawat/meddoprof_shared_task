@@ -1,0 +1,6 @@
+
+No	O
+clínica	O
+gastrointestinal	O
+previa	O
+.	O

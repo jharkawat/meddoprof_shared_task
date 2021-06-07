@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+había	O
+mejorado	O
+su	O
+higiene	O
+oral	O
+,	O
+y	O
+mostraba	O
+una	O
+reducción	O
+generalizada	O
+de	O
+bolsas	O
+periodontales	O
+.	O

@@ -1,0 +1,23 @@
+
+Tras	O
+este	O
+tratamiento	O
+,	O
+en	O
+octubre	O
+/	O
+2014	O
+se	O
+realiza	O
+una	O
+biopsia	O
+quirúrgica	O
+del	O
+cuerpo	O
+vertebral	O
+de	O
+D7	O
+compatible	O
+con	O
+hemangioma	O
+.	O

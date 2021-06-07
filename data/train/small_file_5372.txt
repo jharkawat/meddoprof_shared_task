@@ -1,0 +1,12 @@
+
+Sin	O
+fiebre	O
+ni	O
+otra	O
+sintomatología	O
+en	O
+la	O
+anamnesis	O
+por	O
+aparatos	O
+.	O

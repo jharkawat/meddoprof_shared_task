@@ -1,0 +1,8 @@
+
+Un	O
+primo	O
+precisó	O
+un	O
+trasplante	O
+hepático	O
+.	O

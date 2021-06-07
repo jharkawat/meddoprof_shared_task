@@ -1,0 +1,25 @@
+
+Varón	O
+de	O
+72	O
+años	O
+,	O
+exfumador	O
+y	O
+bebedor	O
+ocasional	O
+,	O
+con	O
+antecedentes	O
+personales	O
+de	O
+hipertensión	O
+arterial	O
+de	O
+larga	O
+evolución	O
+e	O
+insuficiencia	O
+renal	O
+crónica	O
+.	O

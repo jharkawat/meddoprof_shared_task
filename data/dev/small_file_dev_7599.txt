@@ -1,0 +1,22 @@
+
+Estudiada	O
+en	O
+2004	O
+en	O
+Servicio	O
+de	O
+Digestivo	O
+por	O
+historia	O
+de	O
+náuseas	O
+y	O
+pirosis	O
+con	O
+endoscopia	O
+digestiva	O
+alta	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

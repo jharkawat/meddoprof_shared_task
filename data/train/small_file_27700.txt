@@ -1,0 +1,11 @@
+
+El	O
+padre	O
+falleció	O
+cuatro	O
+años	O
+antes	O
+por	O
+accidente	O
+cerebrovascular	O
+.	O

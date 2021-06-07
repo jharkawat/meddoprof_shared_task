@@ -1,0 +1,24 @@
+
+A	O
+comienzos	O
+del	O
+año	O
+2017	O
+el	O
+paciente	O
+requiere	O
+de	O
+un	O
+nuevo	O
+ingreso	O
+por	O
+presentar	O
+alteraciones	O
+de	O
+conducta	O
+en	O
+contexto	O
+de	O
+síntomas	O
+psicóticos	O
+.	O

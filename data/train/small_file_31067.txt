@@ -1,0 +1,24 @@
+
+Actitud	O
+oposicionista	O
+,	O
+se	O
+muestra	O
+reticente	O
+a	O
+la	O
+toma	O
+de	O
+medicación	O
+y	O
+permanece	O
+la	O
+mayor	O
+parte	O
+del	O
+tiempo	O
+aislada	O
+en	O
+la	O
+habitación	O
+.	O

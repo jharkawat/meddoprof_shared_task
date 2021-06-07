@@ -1,0 +1,6 @@
+
+Cefaleas	O
+frecuentes	O
+de	O
+pequeño	O
+.	O

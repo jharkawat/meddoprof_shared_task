@@ -1,0 +1,23 @@
+
+Ingresa	O
+a	O
+la	O
+unidad	O
+de	O
+tratamiento	O
+intensivo	O
+debido	O
+a	O
+un	O
+intento	O
+de	O
+suicidio	O
+por	O
+medio	O
+de	O
+la	O
+ingesta	O
+masiva	O
+de	O
+escitalopram	O
+.	O

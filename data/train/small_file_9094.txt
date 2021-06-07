@@ -1,0 +1,19 @@
+
+Ateromatosis	O
+aórtica	O
+con	O
+presencia	O
+de	O
+placa	O
+irregular	O
+y	O
+ulcerada	O
+en	O
+la	O
+pared	O
+posterior	O
+de	O
+la	O
+aorta	O
+descendente	O
+.	O

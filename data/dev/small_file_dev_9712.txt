@@ -1,0 +1,24 @@
+
+Se	O
+realizaron	O
+cambios	O
+en	O
+su	O
+entorno	O
+laboral	O
+:	O
+reducción	O
+de	O
+campos	O
+eléctromagnéticos	O
+y	O
+mejora	O
+de	O
+las	O
+condiciones	O
+ergonómicas	O
+de	O
+trabajo	O
+entre	O
+otros	O
+.	O

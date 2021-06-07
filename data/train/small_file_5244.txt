@@ -1,0 +1,9 @@
+
+Hemograma	O
+:	O
+Hb	O
+19	O
+g	O
+/	O
+l	O
+.	O

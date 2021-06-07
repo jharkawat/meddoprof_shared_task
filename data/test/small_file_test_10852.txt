@@ -1,0 +1,27 @@
+
+A	O
+la	O
+exploración	O
+se	O
+observó	O
+una	O
+lesión	O
+verrucosa	O
+y	O
+vascularizada	O
+en	O
+toda	O
+la	O
+extensión	O
+del	O
+meato	O
+medio	O
+derecho	O
+que	O
+impedía	O
+la	O
+visualización	O
+del	O
+cornete	O
+medio	O
+.	O

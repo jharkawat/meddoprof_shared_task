@@ -1,0 +1,13 @@
+
+Médico	B-PROFESION
+:	O
+José	O
+Jesús	O
+Blanco	O
+Pérez	O
+NºCol	O
+:	O
+36	O
+28	O
+20145	O
+.	O

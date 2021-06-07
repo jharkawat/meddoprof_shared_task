@@ -1,0 +1,19 @@
+
+Se	O
+solicitan	O
+Inmunoglobulinas	O
+en	O
+sangre	O
+(	O
+IgG	O
+,	O
+IgA	O
+,	O
+IgM	O
+)	O
+,	O
+estando	O
+todas	O
+ligeramente	O
+disminuidas	O
+.	O

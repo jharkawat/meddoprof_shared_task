@@ -1,0 +1,7 @@
+
+Boca	O
+sin	O
+foco	O
+séptico	O
+activo	O
+.	O

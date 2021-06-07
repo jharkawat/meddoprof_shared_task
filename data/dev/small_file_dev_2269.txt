@@ -1,0 +1,12 @@
+
+Su	O
+marido	O
+consume	O
+una	O
+dieta	O
+similar	O
+pero	O
+no	O
+tiene	O
+sobrepeso	O
+.	O

@@ -1,0 +1,15 @@
+
+Este	O
+nunca	O
+se	O
+ha	O
+ocupado	O
+del	O
+niño	O
+,	O
+que	O
+padece	O
+una	O
+enfermedad	O
+celíaca	O
+.	O

@@ -1,0 +1,24 @@
+
+En	O
+general	O
+,	O
+las	O
+reacciones	O
+a	O
+vivencias	O
+exteriores	O
+(	O
+como	O
+puede	O
+ser	O
+una	O
+enfermedad	O
+grave	O
+)	O
+son	O
+parcialmente	O
+independientes	O
+del	O
+carácter	O
+individual	O
+.	O

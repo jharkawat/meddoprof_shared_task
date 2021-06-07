@@ -1,0 +1,22 @@
+
+Baciloscopia	O
+de	O
+esputo	O
+:	O
+se	O
+detecta	O
+ADN	O
+de	O
+Mycobacterium	O
+tuberculosis	O
+con	O
+sensibilidad	O
+a	O
+todos	O
+los	O
+fármacos	O
+de	O
+primera	O
+línea	O
+testados	O
+.	O

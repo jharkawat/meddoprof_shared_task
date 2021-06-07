@@ -1,0 +1,7 @@
+
+No	O
+es	O
+fumador	O
+ni	O
+bebedor	O
+.	O

@@ -1,0 +1,25 @@
+
+Destacar	O
+en	O
+su	O
+discurso	O
+la	O
+presencia	O
+de	O
+giros	O
+y	O
+recursos	O
+lingüísticos	O
+con	O
+asociaciones	O
+paralógicas	O
+y	O
+paragramatismos	O
+(	O
+estos	O
+impresionaban	O
+de	O
+tipo	O
+crónico	O
+)	O
+.	O

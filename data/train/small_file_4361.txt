@@ -1,0 +1,22 @@
+
+.	O
+Días	O
+después	O
+el	O
+paciente	O
+empieza	O
+a	O
+presentar	O
+astenia	O
+,	O
+dolor	O
+dorsolumbar	O
+limitante	O
+,	O
+mareos	O
+e	O
+inestabilidad	O
+de	O
+la	O
+marcha	O
+.	O

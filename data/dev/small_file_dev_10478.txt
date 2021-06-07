@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+podía	O
+ser	O
+bastante	O
+agradable	O
+por	O
+momentos	O
+,	O
+pero	O
+se	O
+enojaba	O
+y	O
+se	O
+volvía	O
+peleadora	O
+enseguida	O
+sin	O
+razón	O
+aparente	O
+.	O

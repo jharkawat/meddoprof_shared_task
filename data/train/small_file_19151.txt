@@ -1,0 +1,7 @@
+
+No	O
+se	O
+detectan	O
+alteraciones	O
+sensoperceptivas	O
+.	O

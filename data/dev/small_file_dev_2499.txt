@@ -1,0 +1,14 @@
+
+Por	O
+parte	O
+de	O
+Medicina	O
+Interna	O
+fue	O
+dado	O
+de	O
+alta	O
+,	O
+descartando	O
+organicidad	O
+.	O

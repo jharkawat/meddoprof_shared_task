@@ -1,0 +1,21 @@
+
+La	O
+situación	O
+clínica	O
+al	O
+ingreso	O
+es	O
+de	O
+colaboración	O
+,	O
+a	O
+pesar	O
+de	O
+una	O
+ausencia	O
+total	O
+de	O
+conciencia	O
+de	O
+enfermedad	O
+.	O

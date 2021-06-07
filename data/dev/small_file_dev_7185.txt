@@ -1,0 +1,24 @@
+
+EE	O
+.	O
+UU	O
+.	O
+:	O
+enfermedad	O
+de	O
+Lyme	O
+,	O
+babesiosis	O
+,	O
+coccidioidomycosis	O
+,	O
+tularemia	O
+,	O
+infección	O
+por	O
+Hantavirus	O
+,	O
+rickettssiosis	O
+.	O
+.	O
+.	O

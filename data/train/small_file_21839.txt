@@ -1,0 +1,10 @@
+
+Dependiente	O
+en	O
+todo	O
+lo	O
+cotidiano	O
+de	O
+su	O
+madre	O
+.	O

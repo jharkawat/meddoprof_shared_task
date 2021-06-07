@@ -1,0 +1,16 @@
+
+La	O
+etapa	O
+1	O
+incluye	O
+la	O
+adenopatía	O
+hiliar	O
+,	O
+a	O
+menudo	O
+con	O
+afectación	O
+paratraqueal	O
+derecha	O
+.	O

@@ -1,0 +1,25 @@
+
+Con	O
+el	O
+paso	O
+a	O
+educación	O
+secundaria	O
+no	O
+ha	O
+necesitado	O
+de	O
+adaptación	O
+y	O
+ha	O
+finalizado	O
+tercero	O
+de	O
+educación	O
+secundaria	O
+con	O
+un	O
+rendimiento	O
+académico	O
+adecuado	O
+.	O

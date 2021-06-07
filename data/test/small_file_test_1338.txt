@@ -1,0 +1,16 @@
+
+Los	O
+residuos	O
+se	O
+deberán	O
+manejar	O
+de	O
+manera	O
+diferencial	O
+(	O
+bolsas	O
+y	O
+canecas	O
+separadas	O
+)	O
+.	O

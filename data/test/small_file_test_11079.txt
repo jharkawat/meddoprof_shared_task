@@ -1,0 +1,13 @@
+
+Solicita	O
+un	O
+informe	O
+psicológico	O
+para	O
+realizar	O
+una	O
+inducción	O
+temprana	O
+al	O
+parto	O
+.	O

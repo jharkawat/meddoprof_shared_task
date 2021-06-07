@@ -1,0 +1,13 @@
+
+Se	O
+remiten	O
+a	O
+anatomía	O
+patológica	O
+con	O
+resultado	O
+de	O
+Linfoma	O
+de	O
+Hodgkin	O
+.	O

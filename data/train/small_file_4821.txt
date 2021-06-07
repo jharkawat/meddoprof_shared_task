@@ -1,0 +1,12 @@
+
+No	O
+ha	O
+tenido	O
+hasta	O
+el	O
+momento	O
+,	O
+tratamiento	O
+medicamentoso	O
+alguno	O
+.	O

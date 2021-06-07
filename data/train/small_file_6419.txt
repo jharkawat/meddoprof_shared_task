@@ -1,0 +1,19 @@
+
+La	O
+auscultación	O
+Cardiorrespiratoria	O
+era	O
+rítmica	O
+y	O
+sin	O
+soplos	O
+con	O
+buena	O
+ventilación	O
+sin	O
+alteraciones	O
+en	O
+el	O
+murmullo	O
+vesicular	O
+.	O

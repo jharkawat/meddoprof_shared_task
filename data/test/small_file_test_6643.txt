@@ -1,0 +1,8 @@
+
+Niega	O
+disnea	O
+,	O
+tos	O
+ni	O
+expectoración	O
+.	O

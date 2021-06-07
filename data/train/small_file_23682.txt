@@ -1,0 +1,24 @@
+
+El	O
+consumo	O
+de	O
+esta	O
+sustancia	O
+ha	O
+ido	O
+adquiriendo	O
+popularidad	O
+en	O
+España	O
+en	O
+el	O
+contexto	O
+de	O
+fiestas	O
+rave	O
+y	O
+como	O
+droga	O
+de	O
+club	O
+.	O

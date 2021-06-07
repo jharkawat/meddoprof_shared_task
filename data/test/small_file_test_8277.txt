@@ -1,0 +1,10 @@
+
+No	O
+refería	O
+hábitos	O
+tóxicos	O
+ni	O
+antecedentes	O
+familiares	O
+oncológicos	O
+.	O

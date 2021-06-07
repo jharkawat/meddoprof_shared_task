@@ -1,0 +1,23 @@
+
+Cuando	O
+terminó	O
+la	O
+Universidad	O
+trabajó	B-PROFESION
+unos	I-PROFESION
+años	I-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+delegación	I-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+Hacienda	I-PROFESION
+Pública	I-PROFESION
+,	O
+puesto	O
+al	O
+que	O
+accedió	O
+por	O
+oposición	O
+.	O

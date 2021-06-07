@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+es	O
+trasladada	O
+a	O
+la	O
+planta	O
+de	O
+Medicina	O
+Interna	O
+.	O

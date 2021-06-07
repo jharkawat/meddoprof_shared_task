@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+no	O
+había	O
+introducido	O
+tampoco	O
+nuevos	O
+fármacos	O
+que	O
+justificara	O
+el	O
+cuadro	O
+.	O

@@ -1,0 +1,15 @@
+
+EKG	O
+:	O
+Ritmo	O
+sinusal	O
+a	O
+75	O
+lpm	O
+sin	O
+alteraciones	O
+agudas	O
+en	O
+la	O
+repolarización	O
+.	O

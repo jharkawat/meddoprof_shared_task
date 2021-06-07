@@ -1,0 +1,12 @@
+
+UN	O
+HOMBRE	O
+DE	O
+60	O
+AÑOS	O
+diagnosticado	O
+de	O
+periodontitis	O
+crónica	O
+avanzada	O
+.	O

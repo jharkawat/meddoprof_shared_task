@@ -1,0 +1,25 @@
+
+En	O
+planta	O
+de	O
+hospitalización	O
+se	O
+ampliaron	O
+las	O
+pruebas	O
+complementarias	O
+con	O
+analítica	O
+completa	O
+:	O
+colesterol	O
+total	O
+89mg	O
+/	O
+dl	O
+,	O
+HDLc	O
+23mg	O
+/	O
+dl	O
+.	O

@@ -1,0 +1,21 @@
+
+Estos	O
+síntomas	O
+aumentaban	O
+progresivamente	O
+de	O
+intensidad	O
+en	O
+cinco	O
+minutos	O
+y	O
+permanecían	O
+durante	O
+una	O
+hora	O
+,	O
+cediendo	O
+en	O
+forma	O
+espontanea	O
+.	O

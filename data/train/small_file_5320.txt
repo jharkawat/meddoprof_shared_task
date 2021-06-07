@@ -1,0 +1,9 @@
+
+Cateterismo	O
+cardiaco	O
+:	O
+arterias	O
+coronarias	O
+sin	O
+lesiones	O
+.	O

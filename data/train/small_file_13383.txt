@@ -1,0 +1,13 @@
+
+Se	O
+comienza	O
+estudio	O
+de	O
+masa	O
+pulmonar	O
+planteándose	O
+los	O
+siguientes	O
+diagnósticos	O
+diferenciales	O
+.	O

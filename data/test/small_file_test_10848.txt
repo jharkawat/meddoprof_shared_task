@@ -1,0 +1,9 @@
+
+No	O
+fue	O
+necesaria	O
+la	O
+realización	O
+de	O
+traqueotomía	O
+.	O

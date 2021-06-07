@@ -1,0 +1,8 @@
+
+Adecuado	O
+conductualmente	O
+sin	O
+auto	O
+-	O
+heteroagresividad	O
+.	O

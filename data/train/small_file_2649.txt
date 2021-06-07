@@ -1,0 +1,16 @@
+
+Ocasionalmente	O
+,	O
+tras	O
+ingerir	O
+leche	O
+y	O
+queso	O
+de	O
+vaca	O
+,	O
+surgen	O
+estridor	O
+y	O
+disfonía	O
+.	O

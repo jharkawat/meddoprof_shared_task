@@ -1,0 +1,20 @@
+
+Reside	O
+en	O
+zona	O
+rural	O
+;	O
+no	O
+ha	O
+realizado	O
+viajes	O
+recientemente	O
+fuera	O
+de	O
+su	O
+localidad	O
+ni	O
+salidas	O
+al	O
+campo	O
+.	O

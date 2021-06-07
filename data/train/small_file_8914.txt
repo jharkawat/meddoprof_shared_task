@@ -1,0 +1,26 @@
+
+Pruebas	O
+complementarias	O
+:	O
+Primer	O
+ingreso	O
+:	O
+-	O
+Hemograma	O
+con	O
+anemia	O
+ligera	O
+(	O
+Hb	O
+11	O
+.	O
+4	O
+g	O
+/	O
+dl	O
+)	O
+,	O
+VCM	O
+86	O
+fL	O
+.	O

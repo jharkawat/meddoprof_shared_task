@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+presentó	O
+buena	O
+tolerancia	O
+y	O
+respuesta	O
+al	O
+tratamiento	O
+.	O

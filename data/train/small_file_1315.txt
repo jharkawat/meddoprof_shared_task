@@ -1,0 +1,15 @@
+
+El	O
+enfermo	O
+fue	O
+dado	O
+de	O
+alta	O
+asintomático	O
+a	O
+los	O
+29	O
+días	O
+de	O
+ingreso	O
+.	O

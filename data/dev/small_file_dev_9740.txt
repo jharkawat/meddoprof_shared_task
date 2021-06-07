@@ -1,0 +1,24 @@
+
+Por	O
+su	O
+parte	O
+,	O
+el	O
+neumólogo	B-PROFESION
+indicó	O
+la	O
+realización	O
+de	O
+una	O
+polisomnografía	O
+convencional	O
+después	O
+de	O
+obtener	O
+un	O
+índice	O
+de	O
+apneashipopneas	O
+de	O
+24	O
+.	O

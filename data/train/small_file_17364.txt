@@ -1,0 +1,18 @@
+
+Alrededor	O
+de	O
+la	O
+lesión	O
+existe	O
+una	O
+tenue	O
+hipointensidad	O
+que	O
+traduce	O
+depósito	O
+de	O
+hemosiderina	O
+por	O
+sangrado	O
+previo	O
+.	O

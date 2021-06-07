@@ -1,0 +1,5 @@
+
+Negaba	O
+ideación	O
+autolesiva	O
+.	O

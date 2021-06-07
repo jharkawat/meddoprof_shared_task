@@ -1,0 +1,22 @@
+
+A	O
+su	O
+llegada	O
+a	O
+Urgencias	O
+el	O
+paciente	O
+permanecía	O
+estable	O
+,	O
+con	O
+auscultación	O
+cardiopulmonar	O
+similar	O
+al	O
+ingreso	O
+previo	O
+,	O
+sin	O
+estertores	O
+.	O

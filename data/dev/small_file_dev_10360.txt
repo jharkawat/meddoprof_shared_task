@@ -1,0 +1,25 @@
+
+Motivo	O
+de	O
+consulta	O
+:	O
+fue	O
+derivado	O
+para	O
+una	O
+evaluación	O
+psiquiátrica	O
+porque	O
+durante	O
+tres	O
+años	O
+se	O
+había	O
+sentido	O
+cada	O
+vez	O
+más	O
+y	O
+más	O
+agotado	O
+.	O

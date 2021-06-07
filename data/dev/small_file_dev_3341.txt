@@ -1,0 +1,17 @@
+
+APP	O
+:	O
+Carcinoma	O
+cerebral	O
+con	O
+metástasis	O
+ósea	O
+en	O
+L4	O
+y	O
+L5	O
+,	O
+no	O
+precisa	O
+tratamiento	O
+.	O

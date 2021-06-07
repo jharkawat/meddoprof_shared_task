@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+es	O
+muy	O
+demandante	O
+de	O
+atención	O
+por	O
+parte	O
+de	O
+sus	O
+padres	O
+.	O

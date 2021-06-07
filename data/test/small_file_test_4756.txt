@@ -1,0 +1,15 @@
+
+»	O
+Biopsia	O
+con	O
+aguja	O
+gruesa	O
+de	O
+masa	O
+pulmonar	O
+guiada	O
+por	O
+TC	O
+:	O
+adenocarcinoma	O
+.	O

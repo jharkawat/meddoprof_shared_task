@@ -1,0 +1,17 @@
+
+Su	O
+índice	O
+de	O
+masa	O
+corporal	O
+(	O
+IMC	O
+)	O
+es	O
+de	O
+32	O
+,	O
+46	O
+kg	O
+/	O
+.	O

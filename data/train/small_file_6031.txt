@@ -1,0 +1,6 @@
+
+El	O
+paciente	O
+es	O
+viudo	O
+.	O

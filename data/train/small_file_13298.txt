@@ -1,0 +1,13 @@
+
+No	O
+se	O
+detectaron	O
+microorganismos	O
+con	O
+las	O
+técnicas	O
+de	O
+PAS	O
+y	O
+Zielh	O
+.	O

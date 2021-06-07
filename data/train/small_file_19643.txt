@@ -1,0 +1,17 @@
+
+Alimentación	O
+:	O
+Cuantas	O
+veces	O
+come	O
+en	O
+el	O
+día	O
+:	O
+tres	O
+veces	O
+no	O
+siempre	O
+en	O
+horas	O
+iguales	O

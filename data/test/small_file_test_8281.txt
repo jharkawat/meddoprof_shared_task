@@ -1,0 +1,22 @@
+
+Tras	O
+la	O
+mejoría	O
+del	O
+derrame	O
+y	O
+permaneciendo	O
+asintomático	O
+,	O
+fue	O
+dado	O
+de	O
+alta	O
+y	O
+continuó	O
+en	O
+seguimiento	O
+por	O
+dicho	O
+servicio	O
+.	O

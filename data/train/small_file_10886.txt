@@ -1,0 +1,10 @@
+
+Profesión	O
+:	O
+Operador	B-PROFESION
+de	I-PROFESION
+campo	I-PROFESION
+en	I-PROFESION
+planta	I-PROFESION
+química	I-PROFESION
+.	O

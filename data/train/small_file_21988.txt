@@ -1,0 +1,12 @@
+
+Puri	O
+tiene	O
+20	O
+años	O
+y	O
+es	O
+estudiante	B-SITUACION_LABORAL
+de	O
+baile	O
+clásico	O
+.	O

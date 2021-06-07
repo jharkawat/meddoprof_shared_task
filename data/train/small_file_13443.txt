@@ -1,0 +1,18 @@
+
+Actualmente	O
+,	O
+no	O
+ha	O
+tenido	O
+nuevas	O
+crisis	O
+atónicas	O
+y	O
+con	O
+valores	O
+normales	O
+de	O
+TSH	O
+y	O
+T4	O
+.	O

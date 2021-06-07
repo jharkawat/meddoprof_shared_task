@@ -1,0 +1,10 @@
+
+Vesícula	O
+biliar	O
+alitiásica	O
+con	O
+paredes	O
+regulares	O
+espesor	O
+normal	O
+.	O

@@ -1,0 +1,17 @@
+
+Corte	O
+coronal	O
+que	O
+muestra	O
+el	O
+macroadenoma	O
+que	O
+engloba	O
+ambos	O
+nervios	O
+ópticos	O
+y	O
+comprime	O
+ambos	O
+temporales	O
+.	O

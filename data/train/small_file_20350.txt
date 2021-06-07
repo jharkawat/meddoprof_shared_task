@@ -1,0 +1,24 @@
+
+Cuando	O
+esta	O
+le	O
+preguntó	O
+a	O
+Nadia	O
+por	O
+el	O
+incidente	O
+,	O
+Nadia	O
+lo	O
+negó	O
+,	O
+diciendo	O
+que	O
+se	O
+había	O
+caído	O
+en	O
+la	O
+calle	O
+.	O

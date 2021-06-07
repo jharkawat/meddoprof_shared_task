@@ -1,0 +1,7 @@
+
+Dexketoprofeno	O
+50	O
+mg	O
+en	O
+2	O
+ml	O

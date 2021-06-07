@@ -1,0 +1,15 @@
+
+Pensamiento	O
+obsesivo	O
+con	O
+ideas	O
+de	O
+culpa	O
+en	O
+relación	O
+a	O
+haber	O
+realizado	O
+actos	O
+execrables	O
+.	O

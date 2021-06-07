@@ -1,0 +1,27 @@
+
+Amelia	O
+vive	O
+con	O
+su	O
+hija	O
+María	O
+de	O
+43	O
+años	O
+y	O
+su	O
+yerno	O
+de	O
+47	O
+años	O
+y	O
+tres	O
+nietos	O
+,	O
+13	O
+,	O
+9	O
+y	O
+5	O
+años	O
+.	O

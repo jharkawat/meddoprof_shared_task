@@ -1,0 +1,5 @@
+
+Neutropenia	O
+crónica	O
+idiopática	O
+.	O

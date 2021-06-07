@@ -1,0 +1,18 @@
+
+La	O
+tomografía	O
+computarizada	O
+craneal	O
+(	O
+TC	O
+)	O
+y	O
+l	O
+punción	O
+lumbar	O
+(	O
+PL	O
+)	O
+fueron	O
+normales	O
+.	O

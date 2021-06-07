@@ -1,0 +1,21 @@
+
+El	O
+motivo	O
+de	O
+su	O
+consulta	O
+es	O
+que	O
+está	O
+embarazada	O
+y	O
+solicita	O
+una	O
+interrupción	O
+voluntaria	O
+del	O
+embarazo	O
+(	O
+IVE	O
+)	O
+.	O

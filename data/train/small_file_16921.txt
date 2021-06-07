@@ -1,0 +1,15 @@
+
+Trabajaba	O
+como	O
+conductor	B-PROFESION
+de	I-PROFESION
+camión	I-PROFESION
+y	O
+tenía	O
+como	O
+actividad	O
+de	O
+ocio	O
+la	O
+caza	B-ACTIVIDAD
+.	O

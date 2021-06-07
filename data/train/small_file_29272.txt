@@ -1,0 +1,8 @@
+
+Ideación	O
+delirante	O
+paranoide	O
+y	O
+de	O
+perjuicio	O
+.	O

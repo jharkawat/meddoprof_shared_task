@@ -1,0 +1,17 @@
+
+Se	O
+solicita	O
+electrocardiograma	O
+,	O
+radiografía	O
+de	O
+tórax	O
+,	O
+analítica	O
+de	O
+BQ	O
+,	O
+hemograma	O
+y	O
+coagulación	O
+.	O

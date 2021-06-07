@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+no	O
+acudió	O
+a	O
+la	O
+siguiente	O
+cita	O
+en	O
+el	O
+Hospital	O
+de	O
+Día	O
+al	O
+fallecer	O
+en	O
+el	O
+domicilio	O
+.	O

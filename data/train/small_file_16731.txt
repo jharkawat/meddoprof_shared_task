@@ -1,0 +1,16 @@
+
+Hipercolesterolemia	O
+(	O
+colesterol	O
+224	O
+mg	O
+/	O
+dl	O
+,	O
+LDL	O
+131	O
+mg	O
+/	O
+dl	O
+)	O
+.	O

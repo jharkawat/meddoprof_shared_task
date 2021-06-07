@@ -1,0 +1,21 @@
+
+Aporta	O
+en	O
+consulta	O
+,	O
+libro	O
+de	O
+registros	O
+en	O
+ayunas	O
+y	O
+preprandiales	O
+con	O
+presencia	O
+de	O
+frecuentes	O
+hiperglucemias	O
+,	O
+sin	O
+hipoglucemias	O
+.	O

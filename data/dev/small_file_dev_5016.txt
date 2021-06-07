@@ -1,0 +1,12 @@
+
+Se	O
+palpa	O
+masa	O
+abdominal	O
+de	O
+gran	O
+tamaño	O
+,	O
+escasamente	O
+móvil	O
+.	O

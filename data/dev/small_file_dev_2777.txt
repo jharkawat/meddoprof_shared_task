@@ -1,0 +1,4 @@
+
+Estudios	B-SITUACION_LABORAL
+primarios	I-SITUACION_LABORAL
+.	O

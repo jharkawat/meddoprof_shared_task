@@ -1,0 +1,19 @@
+
+Coincide	O
+en	O
+el	O
+tiempo	O
+la	O
+aparición	O
+de	O
+esta	O
+clínica	O
+maniforme	O
+con	O
+el	O
+aumento	O
+de	O
+dosis	O
+de	O
+clomipramina	O
+.	O

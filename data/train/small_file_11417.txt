@@ -1,0 +1,10 @@
+
+Antecedentes	O
+personales	O
+:	O
+Niega	O
+reacciones	O
+adversas	O
+a	O
+fármacos	O
+.	O

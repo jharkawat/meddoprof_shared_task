@@ -1,0 +1,22 @@
+
+Dijo	O
+que	O
+tenía	O
+la	O
+sensación	O
+de	O
+que	O
+sus	O
+compañeros	O
+de	O
+trabajo	O
+lo	O
+vigilaban	O
+y	O
+hablaban	O
+de	O
+él	O
+a	O
+sus	O
+espaldas	O
+.	O

@@ -1,0 +1,26 @@
+
+Derivado	O
+desde	O
+la	O
+fundación	O
+Jiménez	O
+Díaz	O
+donde	O
+ha	O
+estado	O
+ingresado	O
+48	O
+horas	O
+con	O
+un	O
+diagnóstico	O
+de	O
+psicosis	O
+no	O
+especificada	O
+y	O
+abuso	O
+de	O
+cannabis	O
+continuo	O
+.	O

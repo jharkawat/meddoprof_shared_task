@@ -1,0 +1,25 @@
+
+Vive	O
+con	O
+sus	O
+padres	O
+y	O
+tiene	O
+un	O
+hijo	O
+de	O
+5	O
+años	O
+de	O
+edad	O
+al	O
+cual	O
+no	O
+se	O
+le	O
+han	O
+presentado	O
+indicios	O
+del	O
+Síndrome	O
+.	O

@@ -1,0 +1,21 @@
+
+Padre	O
+con	O
+esquizofrenia	O
+,	O
+madre	O
+con	O
+trastorno	O
+afectivo	O
+bipolar	O
+,	O
+hermana	O
+con	O
+esquizofrenia	O
+,	O
+hermano	O
+con	O
+trastorno	O
+afectivo	O
+familiar	O
+.	O

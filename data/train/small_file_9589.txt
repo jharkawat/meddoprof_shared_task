@@ -1,0 +1,10 @@
+
+-	O
+Enfermedades	O
+por	O
+depósito	O
+:	O
+Enfermedad	O
+de	O
+Gaucher	O
+.	O

@@ -1,0 +1,23 @@
+
+El	O
+estado	O
+de	O
+ánimo	O
+de	O
+Eva	O
+es	O
+negativo	O
+,	O
+está	O
+poco	O
+motivada	O
+y	O
+sólo	O
+se	O
+relaciona	O
+con	O
+una	O
+amiga	O
+del	O
+colegio	O
+.	O

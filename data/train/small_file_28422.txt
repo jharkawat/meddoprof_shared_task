@@ -1,0 +1,5 @@
+
+Ligera	O
+discinesia	O
+orofacial	O
+.	O

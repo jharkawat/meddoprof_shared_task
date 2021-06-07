@@ -1,0 +1,7 @@
+
+Hepatomegalia	O
+dolorosa	O
+2	O
+cm	O
+traveses	O
+.	O

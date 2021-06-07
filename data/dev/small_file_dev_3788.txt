@@ -1,0 +1,24 @@
+
+Al	O
+principio	O
+,	O
+mantiene	O
+contacto	O
+visual	O
+con	O
+el	O
+examinador	B-PROFESION
+,	O
+pero	O
+no	O
+presta	O
+atención	O
+a	O
+todo	O
+lo	O
+que	O
+pasa	O
+a	O
+su	O
+alrededor	O
+.	O

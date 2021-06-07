@@ -1,0 +1,14 @@
+
+A	O
+nivel	O
+sentimental	O
+,	O
+mantuvo	O
+una	O
+relación	O
+de	O
+pareja	O
+durante	O
+4	O
+años	O
+.	O

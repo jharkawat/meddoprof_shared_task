@@ -1,0 +1,19 @@
+
+Antecedentes	O
+personales	O
+:	O
+Nacido	O
+de	O
+embarazo	O
+(	O
+con	O
+hiperemesis	O
+)	O
+y	O
+parto	O
+normal	O
+,	O
+sin	O
+complicaciones	O
+perinatales	O
+.	O

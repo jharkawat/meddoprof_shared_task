@@ -1,0 +1,25 @@
+
+La	O
+irritabilidad	O
+,	O
+moderadamente	O
+controlada	O
+con	O
+fármacos	O
+se	O
+desajusta	O
+y	O
+aumenta	O
+regresando	O
+a	O
+la	O
+heteroagresividad	O
+que	O
+desde	O
+el	O
+seguimiento	O
+en	O
+CSM	O
+estaba	O
+controlada	O
+.	O

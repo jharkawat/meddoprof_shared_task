@@ -1,0 +1,23 @@
+
+Por	O
+persistencia	O
+,	O
+aumento	O
+de	O
+intensidad	O
+y	O
+fiebre	O
+de	O
+39	O
+°	O
+C	O
+es	O
+remitido	O
+en	O
+segunda	O
+consulta	O
+al	O
+servicio	O
+de	O
+urgencias	O
+.	O

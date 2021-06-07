@@ -1,0 +1,9 @@
+
+AFP	O
+3	O
+.	O
+10	O
+mu	O
+/	O
+ml	O
+.	O

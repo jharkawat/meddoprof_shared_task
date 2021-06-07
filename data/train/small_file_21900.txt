@@ -1,0 +1,21 @@
+
+No	O
+refiere	O
+crisis	O
+de	O
+ansiedad	O
+,	O
+ni	O
+estados	O
+de	O
+alerta	O
+,	O
+ni	O
+fobias	O
+ni	O
+pensamientos	O
+obsesivos	O
+ni	O
+actos	O
+ritualistas	O
+.	O

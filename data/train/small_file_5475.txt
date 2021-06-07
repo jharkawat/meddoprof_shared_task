@@ -1,0 +1,8 @@
+
+Juicio	O
+clínico	O
+:	O
+Enfermedad	O
+Inflamatoria	O
+Pélvica	O
+.	O

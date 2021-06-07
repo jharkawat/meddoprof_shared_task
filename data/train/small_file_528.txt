@@ -1,0 +1,18 @@
+
+Cuando	O
+el	O
+cultivo	O
+se	O
+negativizó	O
+la	O
+mejoría	O
+fue	O
+más	O
+evidente	O
+aunque	O
+sin	O
+llegar	O
+completamente	O
+a	O
+desaparecer	O
+.	O

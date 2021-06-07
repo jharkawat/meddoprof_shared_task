@@ -1,0 +1,17 @@
+
+Resto	O
+de	O
+hemograma	O
+,	O
+función	O
+renal	O
+,	O
+iones	O
+,	O
+amilasa	O
+,	O
+transaminasas	O
+y	O
+bilirrubina	O
+normal	O
+.	O

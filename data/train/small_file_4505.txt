@@ -1,0 +1,17 @@
+
+Con	O
+2	O
+hijos	O
+varones	O
+de	O
+34	O
+y	O
+32	O
+,	O
+y	O
+una	O
+hija	O
+de	O
+28	O
+años	O
+.	O

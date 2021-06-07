@@ -1,0 +1,6 @@
+
+Sin	O
+antecedentes	O
+de	O
+interés	O
+.	O

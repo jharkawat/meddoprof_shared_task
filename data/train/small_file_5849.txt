@@ -1,0 +1,26 @@
+
+-	O
+Abdomen	O
+blando	O
+,	O
+depresible	O
+,	O
+levemente	O
+doloroso	O
+a	O
+la	O
+palpación	O
+en	O
+hipocondrio	O
+izquierdo	O
+,	O
+sin	O
+signos	O
+de	O
+defensa	O
+abdominal	O
+ni	O
+de	O
+irritación	O
+peritoneal	O
+.	O

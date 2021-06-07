@@ -1,0 +1,23 @@
+
+•	O
+Electromiografía	O
+(	O
+EMG	O
+)	O
+-	O
+electroneurografía	O
+(	O
+ENG	O
+)	O
+:	O
+afectación	O
+neurógena	O
+subaguda	O
+-	O
+crónica	O
+en	O
+el	O
+territorio	O
+CPE	O
+izquierdo	O
+.	O

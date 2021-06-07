@@ -1,0 +1,9 @@
+
+La	O
+medicación	O
+la	O
+hubo	O
+abandonado	O
+por	O
+intolerancia	O
+.	O

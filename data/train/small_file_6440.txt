@@ -1,0 +1,21 @@
+
+Se	O
+comentan	O
+los	O
+hallazgos	O
+con	O
+el	O
+servicio	O
+de	O
+neumología	O
+y	O
+se	O
+decide	O
+conjuntamente	O
+el	O
+ingreso	O
+del	O
+paciente	O
+para	O
+estudio	O
+.	O

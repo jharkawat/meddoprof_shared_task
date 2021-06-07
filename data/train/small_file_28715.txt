@@ -1,0 +1,21 @@
+
+Comenta	O
+además	O
+que	O
+Telecinco	O
+le	O
+envía	O
+a	O
+veces	O
+mensajes	O
+que	O
+dicen	O
+que	O
+"	O
+tiene	O
+que	O
+abandonar	O
+la	O
+casa	O
+"	O
+.	O

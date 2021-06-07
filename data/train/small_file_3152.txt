@@ -1,0 +1,22 @@
+
+Refiere	O
+que	O
+ya	O
+no	O
+puede	O
+más	O
+y	O
+acude	O
+a	O
+nuestra	O
+consulta	O
+solicitando	O
+la	O
+baja	B-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+porque	O
+necesita	O
+descansar	O
+unos	O
+días	O
+.	O

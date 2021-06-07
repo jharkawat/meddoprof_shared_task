@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+es	O
+diagnosticada	O
+de	O
+granulomatosis	O
+con	O
+poliangeítis	O
+activa	O
+con	O
+afección	O
+de	O
+vías	O
+respiratorias	O
+superiores	O
+e	O
+insuficiencia	O
+renal	O
+rápidamente	O
+progresiva	O
+.	O

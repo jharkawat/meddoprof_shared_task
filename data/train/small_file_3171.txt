@@ -1,0 +1,21 @@
+
+La	O
+relación	O
+de	O
+empatía	O
+y	O
+confianza	O
+fue	O
+aumentando	O
+y	O
+forjándose	O
+una	O
+buena	O
+relación	O
+médico	B-PROFESION
+-	O
+paciente	O
+en	O
+cada	O
+visita	O
+.	O

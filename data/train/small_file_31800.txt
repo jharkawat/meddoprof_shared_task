@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+estaba	O
+siendo	O
+tratado	O
+con	O
+palmitato	O
+de	O
+paliperidona	O
+100	O
+mg	O
+i	O
+.	O
+m	O
+.	O
+cada	O
+28	O
+días	O
+desde	O
+hacía	O
+5	O
+meses	O
+.	O

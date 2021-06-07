@@ -1,0 +1,13 @@
+
+Bulbo	O
+y	O
+segunda	O
+porción	O
+duodenal	O
+con	O
+mucosa	O
+blanquecina	O
+que	O
+se	O
+biopsia	O
+.	O

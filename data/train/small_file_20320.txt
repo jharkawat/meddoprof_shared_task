@@ -1,0 +1,18 @@
+
+Sin	O
+embargo	O
+considera	O
+que	O
+"	O
+no	O
+le	O
+gusta	O
+mucho	O
+"	O
+,	O
+y	O
+puede	O
+pasar	O
+sin	O
+beber	O
+.	O

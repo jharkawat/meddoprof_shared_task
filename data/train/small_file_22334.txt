@@ -1,0 +1,22 @@
+
+Como	O
+antecedentes	O
+personales	O
+,	O
+ex	O
+-	O
+fumadora	O
+de	O
+10	O
+cigarros	O
+/	O
+día	O
+hasta	O
+hace	O
+unos	O
+años	O
+y	O
+diagnosticada	O
+de	O
+EPOC	O
+.	O

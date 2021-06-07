@@ -1,0 +1,7 @@
+
+Es	O
+viuda	O
+y	O
+vive	O
+sola	O
+.	O

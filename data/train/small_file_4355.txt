@@ -1,0 +1,15 @@
+
+Tras	O
+dichos	O
+hallazgos	O
+se	O
+decide	O
+derivación	O
+a	O
+consultas	O
+de	O
+Neumología	O
+con	O
+carácter	O
+preferente	O
+.	O

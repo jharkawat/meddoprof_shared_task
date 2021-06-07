@@ -1,0 +1,23 @@
+
+En	O
+la	O
+analítica	O
+presentó	O
+glucosuria	O
+de	O
+1000	O
+y	O
+256	O
+de	O
+glucosa	O
+,	O
+diagnosticándosele	O
+en	O
+ese	O
+momento	O
+de	O
+diabetes	O
+mellitus	O
+tipo	O
+II	O
+.	O

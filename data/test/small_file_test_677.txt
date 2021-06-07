@@ -1,0 +1,10 @@
+
+Imágenes	O
+micronodulillares	O
+bilaterales	O
+con	O
+diana	O
+en	O
+lóbulo	O
+medio	O
+.	O

@@ -1,0 +1,11 @@
+
+Pide	O
+expresamente	O
+que	O
+no	O
+se	O
+le	O
+reduzca	O
+la	O
+medicación	O
+.	O

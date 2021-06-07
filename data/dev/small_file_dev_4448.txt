@@ -1,0 +1,24 @@
+
+DIAGNOSTICO	O
+ANATOMO	O
+PATOLOGICO	O
+•	O
+QUISTE	O
+HIDATÍDICO	O
+con	O
+reacción	O
+inflamatoria	O
+crónica	O
+tipo	O
+cuerpo	O
+extraño	O
+•	O
+Antracosis	O
+•	O
+Ganglios	O
+hiliares	O
+:	O
+hiperplasia	O
+folicular	O
+y	O
+antracosis	O

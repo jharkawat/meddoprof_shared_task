@@ -1,0 +1,24 @@
+
+Con	O
+su	O
+abuela	O
+no	O
+tiene	O
+relación	O
+alguna	O
+,	O
+a	O
+pesar	O
+de	O
+que	O
+los	O
+primeros	O
+años	O
+de	O
+su	O
+vida	O
+los	O
+pasó	O
+íntegramentecon	O
+ella	O
+.	O

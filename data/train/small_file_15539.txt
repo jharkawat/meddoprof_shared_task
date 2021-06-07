@@ -1,0 +1,7 @@
+
+Refería	O
+prurito	O
+y	O
+dolor	O
+punzante	O
+.	O

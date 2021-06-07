@@ -1,0 +1,19 @@
+
+También	O
+reconoce	O
+consumo	O
+de	O
+alcohol	O
+algunos	O
+fines	O
+de	O
+semana	O
+(	O
+2	O
+-	O
+3	O
+cubalibres	O
+cuando	O
+sale	O
+)	O
+.	O

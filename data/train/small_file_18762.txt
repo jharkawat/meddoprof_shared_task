@@ -1,0 +1,13 @@
+
+En	O
+la	O
+pauta	O
+de	O
+consumo	O
+refiere	O
+hacer	O
+uso	O
+de	O
+bebidas	O
+fermentadas	O
+.	O

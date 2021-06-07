@@ -1,0 +1,27 @@
+
+Es	O
+valorada	O
+por	O
+un	O
+digestólogo	B-PROFESION
+por	O
+un	O
+nuevo	O
+cuadro	O
+de	O
+3	O
+días	O
+de	O
+vómitos	O
+alimenticios	O
+acompañados	O
+de	O
+calambres	O
+en	O
+los	O
+miembros	O
+superiores	O
+,	O
+sin	O
+fiebre	O
+.	O

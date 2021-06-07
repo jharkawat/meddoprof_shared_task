@@ -1,0 +1,26 @@
+
+Acude	O
+a	O
+consulta	O
+un	O
+varón	O
+de	O
+18	O
+años	O
+de	O
+edad	O
+,	O
+derivado	O
+desde	O
+el	O
+Servicio	O
+de	O
+Urgencia	O
+con	O
+el	O
+diagnóstico	O
+de	O
+probable	O
+episodio	O
+psicótico	O
+.	O

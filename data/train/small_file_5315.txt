@@ -1,0 +1,5 @@
+
+Válvula	O
+mitral	O
+normal	O
+.	O

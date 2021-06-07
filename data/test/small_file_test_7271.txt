@@ -1,0 +1,10 @@
+
+ECOG	O
+1	O
+:	O
+consciente	O
+,	O
+orientado	O
+y	O
+colaborador	O
+.	O

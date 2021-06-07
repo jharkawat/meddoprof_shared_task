@@ -1,0 +1,12 @@
+
+Ha	B-PROFESION
+trabajado	I-PROFESION
+en	I-PROFESION
+diversos	I-PROFESION
+locales	I-PROFESION
+del	I-PROFESION
+sector	I-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+hostelería	I-PROFESION
+.	O

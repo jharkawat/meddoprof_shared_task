@@ -1,0 +1,7 @@
+
+Presenta	O
+juicio	O
+de	O
+realidad	O
+conservado	O
+.	O

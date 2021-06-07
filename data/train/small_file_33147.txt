@@ -1,0 +1,23 @@
+
+Debido	O
+a	O
+estos	O
+síntomas	O
+psicóticos	O
+presentados	O
+(	O
+pudiendo	O
+observar	O
+efectos	O
+psicóticos	O
+dopaminomiméticos	O
+)	O
+se	O
+reduce	O
+la	O
+levodopa	O
+y	O
+se	O
+añade	O
+neuroléptico	O
+.	O

@@ -1,0 +1,20 @@
+
+La	O
+familia	O
+de	O
+José	O
+Luis	O
+vive	O
+actualmente	O
+en	O
+la	O
+casa	O
+donde	O
+desde	O
+siempre	O
+ha	O
+vivido	O
+la	O
+familia	O
+paterna	O
+.	O

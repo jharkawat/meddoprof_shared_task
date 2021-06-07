@@ -1,0 +1,4 @@
+
+TSH	O
+normal	O
+.	O

@@ -1,0 +1,11 @@
+
+me	O
+abren	O
+y	O
+entran	O
+por	O
+la	O
+nuca	O
+.	O
+.	O
+.	O

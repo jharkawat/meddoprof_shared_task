@@ -1,0 +1,19 @@
+
+El	O
+tratamiento	O
+que	O
+realizaba	O
+habitualmente	O
+con	O
+tamoxifeno	O
+,	O
+acfol	O
+y	O
+optovite	O
+no	O
+presenta	O
+relación	O
+con	O
+la	O
+eosinofilia	O
+.	O

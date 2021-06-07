@@ -1,0 +1,16 @@
+
+Se	O
+consultó	O
+el	O
+caso	O
+con	O
+Cirugía	O
+General	O
+,	O
+que	O
+recomendó	O
+tratamiento	O
+conservador	O
+con	O
+antibioterapia	O
+.	O

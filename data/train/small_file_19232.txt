@@ -1,0 +1,18 @@
+
+OCI	O
+-	O
+R	O
+:	O
+Puntuación	O
+elevada	O
+para	O
+conductas	O
+de	O
+acumulación	O
+,	O
+necesidad	O
+de	O
+orden	O
+,	O
+comprobación	O
+.	O

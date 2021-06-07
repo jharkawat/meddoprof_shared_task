@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+se	O
+sentía	O
+bien	O
+sin	O
+nuevos	O
+síntomas	O
+,	O
+y	O
+pudo	O
+respirar	O
+en	O
+aire	O
+ambiental	O
+.	O

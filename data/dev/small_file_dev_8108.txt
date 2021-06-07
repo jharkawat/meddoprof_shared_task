@@ -1,0 +1,16 @@
+
+En	O
+la	O
+exploración	O
+física	O
+estaba	O
+consciente	O
+,	O
+orientado	O
+y	O
+con	O
+moderada	O
+sensación	O
+de	O
+enfermedad	O
+.	O

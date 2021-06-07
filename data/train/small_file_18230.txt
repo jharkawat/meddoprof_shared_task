@@ -1,0 +1,26 @@
+
+Con	O
+este	O
+tratamiento	O
+el	O
+cuadro	O
+agudo	O
+cedió	O
+,	O
+quedándose	O
+un	O
+dacriocistocele	O
+purulento	O
+con	O
+una	O
+secreción	O
+mucosa	O
+de	O
+aspecto	O
+marronáceo	O
+que	O
+requirió	O
+drenaje	O
+y	O
+mechado	O
+.	O

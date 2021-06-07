@@ -1,0 +1,14 @@
+
+Sin	O
+incidencias	O
+intraoperatorias	O
+,	O
+se	O
+ingresa	O
+en	O
+uci	O
+para	O
+control	O
+postoperatorio	O
+inmediato	O
+.	O

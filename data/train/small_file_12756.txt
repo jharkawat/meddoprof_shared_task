@@ -1,0 +1,23 @@
+
+El	O
+reconocimiento	O
+de	O
+la	O
+TGA	O
+en	O
+pacientes	O
+fue	O
+el	O
+resultado	O
+de	O
+las	O
+observaciones	O
+de	O
+Fanconi	O
+en	O
+1932	O
+y	O
+Taussig	O
+en	O
+1938	O
+.	O

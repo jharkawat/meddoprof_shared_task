@@ -1,0 +1,7 @@
+
+No	O
+signos	O
+de	O
+compresión	O
+extrínseca	O
+.	O

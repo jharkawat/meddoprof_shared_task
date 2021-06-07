@@ -1,0 +1,21 @@
+
+Además	O
+,	O
+el	O
+paciente	O
+presentaba	O
+una	O
+úlcera	O
+gingival	O
+de	O
+dos	O
+meses	O
+de	O
+evolución	O
+:	O
+maligna	O
+,	O
+tras	O
+estudio	O
+histológico	O
+.	O

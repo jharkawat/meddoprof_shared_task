@@ -1,0 +1,13 @@
+
+A	O
+partir	O
+de	O
+entonces	O
+,	O
+el	O
+paciente	O
+evolucionó	O
+de	O
+forma	O
+negativa	O
+.	O

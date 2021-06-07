@@ -1,0 +1,13 @@
+
+GESTAS	O
+:	O
+2	O
+PARTOS	O
+:	O
+1	O
+CESAREAS	O
+:	O
+1	O
+ABORTOS	O
+:	O
+0	O

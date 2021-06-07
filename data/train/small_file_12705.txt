@@ -1,0 +1,8 @@
+
+No	O
+se	O
+observan	O
+signos	O
+de	O
+neumoperitoneo	O
+.	O

@@ -1,0 +1,16 @@
+
+Su	O
+presión	O
+arterial	O
+sistólica	O
+era	O
+de	O
+110	O
+mmHg	O
+y	O
+la	O
+diastólica	O
+de	O
+55	O
+mmHg	O
+.	O

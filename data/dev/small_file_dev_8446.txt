@@ -1,0 +1,15 @@
+
+No	O
+presentaba	O
+clínica	O
+respiratoria	O
+ni	O
+urinaria	O
+asociada	O
+,	O
+aunque	O
+refería	O
+dolor	O
+abdominal	O
+leve	O
+.	O

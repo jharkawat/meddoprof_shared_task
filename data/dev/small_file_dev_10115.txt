@@ -1,0 +1,18 @@
+
+Le	O
+desagradaba	O
+tener	O
+que	O
+hablar	O
+de	O
+estos	O
+problemas	O
+y	O
+parecía	O
+estar	O
+cansada	O
+por	O
+sus	O
+preocupaciones	O
+persistentes	O
+.	O

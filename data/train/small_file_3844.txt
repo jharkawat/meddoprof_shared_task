@@ -1,0 +1,17 @@
+
+Informe	O
+del	O
+radiólogo	B-PROFESION
+:	O
+masa	O
+apical	O
+bien	O
+definida	O
+,	O
+con	O
+dudosos	O
+signos	O
+de	O
+lesión	O
+extrapleural	O
+.	O

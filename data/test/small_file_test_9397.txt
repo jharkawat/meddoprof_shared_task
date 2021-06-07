@@ -1,0 +1,25 @@
+
+Ante	O
+los	O
+buenos	O
+resultados	O
+,	O
+se	O
+procedió	O
+a	O
+la	O
+revisión	O
+de	O
+la	O
+biopsia	O
+antigua	O
+,	O
+que	O
+confirmó	O
+un	O
+tumor	O
+mülleriano	O
+mixto	O
+o	O
+carcinosarcoma	O
+.	O

@@ -1,0 +1,9 @@
+
+Refiere	O
+no	O
+consumir	O
+tabaco	O
+ni	O
+otros	O
+tóxicos	O
+.	O

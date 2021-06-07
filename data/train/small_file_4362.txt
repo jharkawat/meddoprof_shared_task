@@ -1,0 +1,27 @@
+
+Desde	O
+entonces	O
+ha	O
+comenzado	O
+con	O
+empeoramiento	O
+paulatino	O
+del	O
+estado	O
+general	O
+,	O
+astenia	O
+,	O
+hasta	O
+necesitar	O
+ayuda	O
+para	O
+todas	O
+las	O
+actividades	O
+básicas	O
+de	O
+la	O
+vida	O
+diaria	O
+.	O

@@ -1,0 +1,21 @@
+
+Abdomen	O
+blando	O
+y	O
+depresible	O
+con	O
+leve	O
+molestia	O
+a	O
+la	O
+palpación	O
+profunda	O
+en	O
+epigastrio	O
+,	O
+sin	O
+palpar	O
+masas	O
+o	O
+visceromegalias	O
+.	O

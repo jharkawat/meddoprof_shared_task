@@ -1,0 +1,7 @@
+
+Sin	O
+lesiones	O
+aparentes	O
+ni	O
+tatuajes	O
+.	O

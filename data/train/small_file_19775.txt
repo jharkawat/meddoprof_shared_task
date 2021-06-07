@@ -1,0 +1,10 @@
+
+A	O
+los	O
+28	O
+años	O
+fractura	O
+vertebral	O
+lumbar	O
+cerrada	O
+.	O

@@ -1,0 +1,4 @@
+
+Tono	O
+normal	O
+.	O

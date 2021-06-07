@@ -1,0 +1,15 @@
+
+Mujer	O
+de	O
+40	O
+años	O
+,	O
+con	O
+el	O
+antecedente	O
+de	O
+glioma	O
+frontal	O
+izquierdo	O
+operado	O
+.	O

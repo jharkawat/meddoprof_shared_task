@@ -1,0 +1,18 @@
+
+Adultez	O
+:	O
+Asistía	O
+a	O
+la	O
+universidad	O
+hasta	O
+3er	O
+año	O
+pero	O
+se	O
+retira	O
+debido	O
+a	O
+sus	O
+síntomas	O
+.	O

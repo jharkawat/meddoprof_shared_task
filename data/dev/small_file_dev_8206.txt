@@ -1,0 +1,12 @@
+
+La	O
+PCR	O
+para	O
+Tropheryma	O
+whipplei	O
+fue	O
+positiva	O
+para	O
+dicho	O
+germen	O
+.	O

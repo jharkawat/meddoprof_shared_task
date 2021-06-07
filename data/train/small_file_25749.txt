@@ -1,0 +1,25 @@
+
+Bebedor	O
+de	O
+alcohol	O
+desde	O
+los	O
+7	O
+años	O
+,	O
+presentando	O
+un	O
+patrón	O
+de	O
+ingesta	O
+recreacional	O
+,	O
+de	O
+cantidades	O
+moderadas	O
+y	O
+en	O
+fines	O
+de	O
+semana	O
+.	O

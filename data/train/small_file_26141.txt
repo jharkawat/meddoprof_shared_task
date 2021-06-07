@@ -1,0 +1,27 @@
+
+Refieren	O
+que	O
+asegura	O
+estar	O
+siendo	O
+perseguida	O
+por	O
+un	O
+asesino	O
+que	O
+quiere	O
+matarla	O
+y	O
+que	O
+éste	O
+se	O
+disfraza	O
+de	O
+otras	O
+personas	O
+para	O
+evitar	O
+que	O
+lo	O
+descubran	O
+.	O

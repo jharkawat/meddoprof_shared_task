@@ -1,0 +1,11 @@
+
+Valvulopatía	O
+aórtica	O
+degenerativa	O
+,	O
+estenosis	O
+aórtica	O
+leve	O
+-	O
+moderada	O
+.	O

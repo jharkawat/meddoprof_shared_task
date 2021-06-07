@@ -1,0 +1,20 @@
+
+Diagnosticada	O
+de	O
+celulitis	O
+hace	O
+una	O
+semana	O
+,	O
+en	O
+tratamiento	O
+con	O
+Amoxicilina	O
+/	O
+ácido	O
+clavulánico	O
+y	O
+fucidine	O
+pomada	O
+®	O
+.	O

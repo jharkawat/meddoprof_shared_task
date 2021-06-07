@@ -1,0 +1,18 @@
+
+Si	O
+alguien	O
+se	O
+ha	O
+reído	O
+de	O
+mí	O
+me	O
+paso	O
+todo	O
+el	O
+día	O
+pensando	O
+en	O
+eso	O
+"	O
+.	O

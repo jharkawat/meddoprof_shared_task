@@ -1,0 +1,6 @@
+
+No	O
+soporto	O
+la	O
+hipocresía	O
+.	O

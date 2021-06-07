@@ -1,0 +1,8 @@
+
+Debut	O
+con	O
+fractura	O
+patológica	O
+del	O
+húmero	O
+.	O

@@ -1,0 +1,25 @@
+
+Traída	O
+a	O
+urgencias	O
+por	O
+familiares	O
+quienes	O
+comentan	O
+alteraciones	O
+de	O
+conducta	O
+y	O
+nula	O
+toma	O
+de	O
+medicación	O
+,	O
+procediéndose	O
+a	O
+ingreso	O
+involuntario	O
+por	O
+descompensación	O
+psicopatológica	O
+.	O

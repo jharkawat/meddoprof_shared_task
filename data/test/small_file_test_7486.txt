@@ -1,0 +1,19 @@
+
+En	O
+abril	O
+de	O
+2012	O
+,	O
+se	O
+realiza	O
+hemitiroidectomía	O
+izquierda	O
+,	O
+con	O
+resultado	O
+de	O
+metástasis	O
+tiroidea	O
+por	O
+CCRc	O
+.	O

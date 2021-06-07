@@ -1,0 +1,8 @@
+
+ANA	O
+,	O
+ENA	O
+y	O
+ANCA	O
+negativos	O
+.	O

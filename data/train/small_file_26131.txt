@@ -1,0 +1,12 @@
+
+Presenta	O
+hiporexia	O
+con	O
+vómito	O
+tras	O
+cada	O
+ingesta	O
+,	O
+aspecto	O
+caquéctico	O
+.	O

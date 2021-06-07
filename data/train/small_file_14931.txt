@@ -1,0 +1,15 @@
+
+Con	O
+todos	O
+estos	O
+datos	O
+el	O
+diagnóstico	O
+fue	O
+de	O
+tumor	O
+neuroendocrino	O
+compatible	O
+con	O
+glucagonoma	O
+.	O

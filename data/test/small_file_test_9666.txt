@@ -1,0 +1,21 @@
+
+Tumoración	O
+lítica	O
+en	O
+región	O
+epifisometafisaria	O
+distal	O
+interna	O
+del	O
+fémur	O
+izquierdo	O
+ya	O
+conocida	O
+y	O
+diagnosticada	O
+de	O
+tumor	O
+de	O
+células	O
+gigantes	O
+.	O

@@ -1,0 +1,6 @@
+
+En	O
+urgencias	O
+se	O
+realiza	O
+:	O

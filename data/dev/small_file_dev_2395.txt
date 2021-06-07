@@ -1,0 +1,22 @@
+
+Remiten	O
+los	O
+trastornos	O
+del	O
+pensamiento	O
+,	O
+cede	O
+la	O
+angustia	O
+y	O
+el	O
+paciente	O
+es	O
+dado	O
+de	O
+alta	O
+.	O
+CPRE	O
++	O
+esfinterotomía	O
+.	O

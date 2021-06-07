@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+evoluciona	O
+bien	O
+y	O
+se	O
+da	O
+de	O
+alta	O
+al	O
+décimo	O
+día	O
+de	O
+la	O
+operación	O
+.	O

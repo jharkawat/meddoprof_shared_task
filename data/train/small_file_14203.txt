@@ -1,0 +1,7 @@
+
+La	O
+tumoración	O
+contacta	O
+con	O
+páncreas	O
+.	O

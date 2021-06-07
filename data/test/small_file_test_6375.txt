@@ -1,0 +1,7 @@
+
+Anticonceptivos	O
+orales	O
+durante	O
+8	O
+años	O
+.	O

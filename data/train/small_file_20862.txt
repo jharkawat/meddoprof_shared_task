@@ -1,0 +1,17 @@
+
+Antonio	O
+acude	O
+a	O
+nuestro	O
+centro	O
+remitido	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+familia	I-PROFESION
+(	O
+brote	O
+sicótico	O
+)	O
+.	O

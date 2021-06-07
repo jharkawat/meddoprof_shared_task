@@ -1,0 +1,24 @@
+
+Negó	O
+que	O
+hubiera	O
+consumido	O
+otras	O
+drogas	O
+excepto	O
+una	O
+vez	O
+,	O
+hacía	O
+3	O
+años	O
+,	O
+en	O
+que	O
+tomó	O
+cocaína	O
+sin	O
+que	O
+pasara	O
+nada	O
+.	O

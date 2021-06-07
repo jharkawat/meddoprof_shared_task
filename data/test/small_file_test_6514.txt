@@ -1,0 +1,14 @@
+
+Como	O
+antecedentes	O
+médicos	O
+presenta	O
+diabetes	O
+mellitus	O
+tipo	O
+II	O
+que	O
+controla	O
+con	O
+dieta	O
+.	O

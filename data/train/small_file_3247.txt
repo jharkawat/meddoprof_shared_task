@@ -1,0 +1,25 @@
+
+Ante	O
+estos	O
+hallazgos	O
+se	O
+colocó	O
+un	O
+catéter	O
+doble	O
+J	O
+,	O
+para	O
+evacuar	O
+el	O
+contenido	O
+líquido	O
+purulento	O
+que	O
+se	O
+encontraba	O
+acumulado	O
+en	O
+dicha	O
+localización	O
+.	O

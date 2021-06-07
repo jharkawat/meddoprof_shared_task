@@ -1,0 +1,9 @@
+
+Persona	O
+responsable	O
+:	O
+María	O
+LN	O
+(	O
+madre	O
+)	O

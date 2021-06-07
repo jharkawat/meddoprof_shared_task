@@ -1,0 +1,10 @@
+
+Campos	O
+pulmonares	O
+bien	O
+ventilados	O
+,	O
+sin	O
+ruidos	O
+agregados	O
+.	O

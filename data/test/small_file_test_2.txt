@@ -1,0 +1,13 @@
+
+Obstrucción	O
+intestinal	O
+aguda	O
+por	O
+bridas	O
+postoperatorias	O
+,	O
+cuerpos	O
+extraños	O
+,	O
+etc	O
+.	O

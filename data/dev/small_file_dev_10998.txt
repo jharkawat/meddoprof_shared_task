@@ -1,0 +1,20 @@
+
+Palpación	O
+:	O
+Expansión	O
+de	O
+las	O
+bases	O
+y	O
+vértices	O
+conservadas	O
+,	O
+vibraciones	O
+vocales	O
+se	O
+palpan	O
+normales	O
+(	O
++	O
+)	O
+.	O

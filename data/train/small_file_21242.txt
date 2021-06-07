@@ -1,0 +1,10 @@
+
+(	O
+Enfermedad	O
+,	O
+hospitales	O
+,	O
+etc	O
+.	O
+)	O
+.	O

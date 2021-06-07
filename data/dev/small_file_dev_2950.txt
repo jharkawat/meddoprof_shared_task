@@ -1,0 +1,10 @@
+
+–	O
+Esquizofrenia	O
+con	O
+síntomas	O
+paranoides	O
+y	O
+de	O
+desorganización	O
+.	O

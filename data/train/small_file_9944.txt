@@ -1,0 +1,8 @@
+
+La	O
+etapa	O
+4	O
+consiste	O
+en	O
+fibrosis	O
+.	O

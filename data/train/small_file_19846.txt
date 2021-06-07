@@ -1,0 +1,14 @@
+
+Fobia	O
+social	O
+[	O
+300	O
+.	O
+23	O
+]	O
+(	O
+trastorno	O
+de	O
+ansiedad	O
+social	O
+)	O

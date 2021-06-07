@@ -1,0 +1,27 @@
+
+Estos	O
+datos	O
+nos	O
+hicieron	O
+pensar	O
+en	O
+el	O
+déficit	O
+de	O
+linfocitos	O
+CD4	O
++	O
+idiopático	O
+(	O
+ICL	O
+)	O
+como	O
+entidad	O
+responsable	O
+de	O
+la	O
+linfopenia	O
+de	O
+nuestro	O
+paciente	O
+.	O

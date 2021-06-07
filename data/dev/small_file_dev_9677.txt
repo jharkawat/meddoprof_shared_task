@@ -1,0 +1,8 @@
+
+Tiene	O
+un	O
+hermano	O
+de	O
+12	O
+meses	O
+.	O

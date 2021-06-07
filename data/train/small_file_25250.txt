@@ -1,0 +1,12 @@
+
+Fumador	O
+de	O
+2	O
+-	O
+3	O
+cigarrillos	O
+de	O
+hachís	O
+al	O
+día	O
+.	O

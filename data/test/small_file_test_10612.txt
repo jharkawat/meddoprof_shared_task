@@ -1,0 +1,23 @@
+
+Ante	O
+el	O
+diagnóstico	O
+de	O
+carcinoma	O
+de	O
+células	O
+claras	O
+renal	O
+estadio	O
+IV	O
+,	O
+es	O
+derivada	O
+a	O
+consulta	O
+de	O
+Oncología	O
+Médica	O
+para	O
+tratamiento	O
+.	O

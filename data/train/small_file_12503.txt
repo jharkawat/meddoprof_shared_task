@@ -1,0 +1,12 @@
+
+Mujer	O
+de	O
+76	O
+an	O
+̃	O
+os	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

@@ -1,0 +1,10 @@
+
+Está	O
+separado	O
+y	O
+es	O
+padre	O
+de	O
+tres	O
+hijas	O
+.	O

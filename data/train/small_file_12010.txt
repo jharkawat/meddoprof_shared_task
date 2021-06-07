@@ -1,0 +1,16 @@
+
+El	O
+tumor	O
+medía	O
+19	O
+cm	O
+de	O
+diámetro	O
+longitudinal	O
+por	O
+11	O
+cm	O
+de	O
+diámetro	O
+transverso	O
+.	O

@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+ha	O
+estado	O
+en	O
+una	O
+situación	O
+marginal	O
+debido	O
+a	O
+la	O
+enfermedad	O
+mental	O
+no	O
+diagnosticada	O
+hasta	O
+el	O
+momento	O
+.	O

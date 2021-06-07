@@ -1,0 +1,25 @@
+
+Hipótesis	O
+sistémica	O
+:	O
+las	O
+hijas	O
+de	O
+la	O
+paciente	O
+habitan	O
+en	O
+su	O
+misma	O
+localidad	O
+,	O
+gozan	O
+de	O
+buena	O
+salud	O
+y	O
+no	O
+toman	O
+ninguna	O
+medicación	O
+.	O

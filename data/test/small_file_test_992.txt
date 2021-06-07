@@ -1,0 +1,22 @@
+
+Es	O
+expulsada	O
+de	O
+su	O
+clase	O
+y	O
+acusada	O
+por	O
+su	O
+madre	O
+de	O
+crear	O
+problemas	O
+familiares	O
+y	O
+castigada	O
+sin	O
+regalo	O
+de	O
+cumpleaños	O
+.	O

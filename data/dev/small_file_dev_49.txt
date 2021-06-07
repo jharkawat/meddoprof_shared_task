@@ -1,0 +1,23 @@
+
+La	O
+paciente	O
+se	O
+encontraba	O
+alterada	O
+y	O
+suspicaz	O
+,	O
+presentaba	O
+diaforesis	O
+y	O
+,	O
+en	O
+ocasiones	O
+,	O
+su	O
+lenguaje	O
+era	O
+disgregado	O
+e	O
+incoherente	O
+.	O

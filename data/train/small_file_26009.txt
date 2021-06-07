@@ -1,0 +1,22 @@
+
+Discurso	O
+fluido	O
+y	O
+espontaneo	O
+,	O
+al	O
+profundizar	O
+en	O
+la	O
+entrevista	O
+verbaliza	O
+ideación	O
+delirante	O
+profusa	O
+de	O
+contenido	O
+extravagante	O
+sin	O
+repercusión	O
+afectiva	O
+.	O

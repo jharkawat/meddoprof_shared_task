@@ -1,0 +1,6 @@
+
+Muy	O
+escasa	O
+red	O
+social	O
+.	O

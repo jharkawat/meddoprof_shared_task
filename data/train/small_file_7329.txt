@@ -1,0 +1,22 @@
+
+El	O
+resto	O
+de	O
+alérgenos	O
+,	O
+incluyendo	O
+el	O
+corticoide	O
+tópico	O
+que	O
+empleó	O
+en	O
+último	O
+lugar	O
+(	O
+betametasona	O
+valerato	O
+)	O
+fueron	O
+negativos	O
+.	O

@@ -1,0 +1,19 @@
+
+Paciente	O
+de	O
+45	O
+años	O
+,	O
+trabajador	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+,	O
+que	O
+acude	O
+a	O
+consulta	O
+de	O
+atención	O
+primaria	O
+.	O

@@ -1,0 +1,14 @@
+
+En	O
+el	O
+transcurso	O
+de	O
+este	O
+ingreso	O
+,	O
+se	O
+descartó	O
+síndrome	O
+neuroléptico	O
+maligno	O
+.	O

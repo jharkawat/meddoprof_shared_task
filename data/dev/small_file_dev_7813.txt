@@ -1,0 +1,12 @@
+
+Los	O
+animales	O
+domésticos	O
+como	O
+perro	O
+y	O
+gato	O
+actúan	O
+como	O
+reservorio	O
+.	O

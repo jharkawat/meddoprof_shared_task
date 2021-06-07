@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+recibió	O
+terapia	O
+antibiótica	O
+con	O
+ceftriaxona	O
+y	O
+clindamicina	O
+,	O
+y	O
+mantuvo	O
+una	O
+evolución	O
+estacionaria	O
+.	O

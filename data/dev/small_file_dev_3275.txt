@@ -1,0 +1,26 @@
+
+Se	O
+muestra	O
+irritable	O
+y	O
+tenso	O
+en	O
+la	O
+entrevista	O
+,	O
+escasamente	O
+colaborador	O
+,	O
+con	O
+episodios	O
+de	O
+heteroagresividad	O
+de	O
+inicio	O
+repentino	O
+y	O
+sin	O
+relación	O
+con	O
+contexto	O
+.	O

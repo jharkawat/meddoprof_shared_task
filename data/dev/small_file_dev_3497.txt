@@ -1,0 +1,24 @@
+
+En	O
+este	O
+caso	O
+la	O
+personalidad	O
+del	O
+paciente	O
+con	O
+su	O
+patrón	O
+A	O
+y	O
+rasgos	O
+compulsivos	O
+es	O
+muy	O
+sensible	O
+al	O
+padecimiento	O
+del	O
+estrés	O
+crónico	O
+.	O

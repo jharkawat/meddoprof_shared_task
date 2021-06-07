@@ -1,0 +1,17 @@
+
+La	O
+serología	O
+de	O
+HIV	O
+,	O
+Rosa	O
+de	O
+Bengala	O
+,	O
+Fiebre	O
+Q	O
+y	O
+Leishmania	O
+fueron	O
+negativas	O
+.	O

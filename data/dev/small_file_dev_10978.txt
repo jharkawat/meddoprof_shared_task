@@ -1,0 +1,15 @@
+
+La	O
+palpación	O
+confirma	O
+buena	O
+implantación	O
+de	O
+cejas	O
+y	O
+pestanas	O
+,	O
+no	O
+hay	O
+seborreas	O
+.	O

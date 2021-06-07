@@ -1,0 +1,5 @@
+
+No	O
+muestra	O
+secundarismos	O
+.	O

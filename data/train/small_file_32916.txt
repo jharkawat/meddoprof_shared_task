@@ -1,0 +1,22 @@
+
+Abandonó	B-SITUACION_LABORAL
+espontáneamente	I-SITUACION_LABORAL
+su	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+,	O
+ante	O
+la	O
+actitud	O
+hostil	O
+hacia	O
+él	O
+que	O
+comenzó	O
+a	O
+observar	O
+en	O
+una	O
+de	O
+sus	O
+compañeras	B-SITUACION_LABORAL
+.	O

@@ -1,0 +1,22 @@
+
+En	O
+ese	O
+momento	O
+teníamos	O
+el	O
+resultado	O
+del	O
+estudio	O
+molecular	O
+,	O
+detectándose	O
+la	O
+mutación	O
+en	O
+L858R	O
+del	O
+exón	O
+21	O
+del	O
+EGFR	O
+.	O

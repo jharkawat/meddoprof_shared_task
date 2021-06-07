@@ -1,0 +1,6 @@
+
+Leve	O
+atrofia	O
+cortical	O
+cerebral	O
+.	O

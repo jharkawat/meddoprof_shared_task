@@ -1,0 +1,8 @@
+
+Abdomen	O
+blando	O
+,	O
+sin	O
+masas	O
+palpables	O
+.	O

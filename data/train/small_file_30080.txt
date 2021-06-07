@@ -1,0 +1,7 @@
+
+Alérgico	O
+a	O
+metoclopramida	O
+y	O
+cleboprida	O
+.	O

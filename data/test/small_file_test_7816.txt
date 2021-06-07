@@ -1,0 +1,21 @@
+
+Tractos	O
+fibrosis	O
+,	O
+bronquiectasias	O
+de	O
+tracción	O
+y	O
+granulomas	O
+calcificados	O
+de	O
+aspecto	O
+fibrótico	O
+-	O
+residual	O
+en	O
+probable	O
+secuela	O
+de	O
+tuberculosis	O
+.	O

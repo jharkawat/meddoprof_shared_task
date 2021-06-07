@@ -1,0 +1,6 @@
+
+Personalidad	O
+sensitivo	O
+-	O
+paranoide	O
+.	O

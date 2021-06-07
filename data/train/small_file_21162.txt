@@ -1,0 +1,21 @@
+
+No	O
+se	O
+sospechó	O
+de	O
+otro	O
+trastorno	O
+mental	O
+y	O
+no	O
+había	O
+antecedentes	O
+de	O
+consumo	O
+de	O
+alcohol	O
+o	O
+de	O
+sustancias	O
+psicoactivas	O
+.	O

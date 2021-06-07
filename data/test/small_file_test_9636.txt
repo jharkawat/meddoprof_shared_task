@@ -1,0 +1,16 @@
+
+TC	O
+de	O
+tórax	O
+,	O
+abdomen	O
+y	O
+pelvis	O
+realizado	O
+tras	O
+la	O
+administración	O
+de	O
+contraste	O
+intravenoso	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+ha	O
+tenido	O
+malaria	O
+ni	O
+ha	O
+tomado	O
+nunca	O
+quinina	O
+.	O

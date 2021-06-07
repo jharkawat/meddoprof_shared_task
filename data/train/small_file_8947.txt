@@ -1,0 +1,26 @@
+
+IgG	O
+Chlmydia	O
+pneumoniae	O
+1	O
+/	O
+64	O
+.	O
+Borrelia	O
+,	O
+Coxiella	O
+,	O
+Treponema	O
+pallidum	O
+,	O
+Brucella	O
+,	O
+Yersinina	O
+,	O
+Salmonella	O
+,	O
+Ricketsia	O
+y	O
+Leishmania	O
+negativas	O
+.	O

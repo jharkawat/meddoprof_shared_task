@@ -1,0 +1,22 @@
+
+En	O
+el	O
+momento	O
+actual	O
+se	O
+encuentra	O
+libre	O
+de	O
+enfermedad	O
+(	O
+resonancia	O
+magnética	O
++	O
+TC	O
+tórax	O
+-	O
+abdomen	O
+-	O
+pelvis	O
+)	O
+.	O

@@ -1,0 +1,20 @@
+
+Relata	O
+que	O
+hace	O
+dos	O
+años	O
+a	O
+raíz	O
+de	O
+un	O
+confl	O
+icto	O
+laboral	O
+,	O
+presenta	O
+agotamiento	O
+emocional	O
+y	O
+estrés	O
+.	O

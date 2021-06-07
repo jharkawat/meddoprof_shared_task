@@ -1,0 +1,11 @@
+
+689518781	O
+E	O
+-	O
+mail	O
+:	O
+temeal	O
+@	O
+hotmail	O
+.	O
+com	O

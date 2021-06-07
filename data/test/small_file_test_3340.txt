@@ -1,0 +1,8 @@
+
+Abdomen	O
+sin	O
+hallazgos	O
+a	O
+la	O
+exploración	O
+.	O

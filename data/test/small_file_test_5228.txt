@@ -1,0 +1,13 @@
+
+Las	O
+biopsias	O
+tomadas	O
+de	O
+la	O
+lesión	O
+fueron	O
+compatibles	O
+con	O
+adenocarcinoma	O
+indiferenciado	O
+.	O

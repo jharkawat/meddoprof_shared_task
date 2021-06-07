@@ -1,0 +1,21 @@
+
+Una	O
+mujer	O
+de	O
+26	O
+años	O
+llama	O
+a	O
+su	O
+médico	B-PROFESION
+quejándose	O
+de	O
+dolor	O
+de	O
+garganta	O
+y	O
+una	O
+tos	O
+seca	O
+persistente	O
+.	O

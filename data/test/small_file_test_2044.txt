@@ -1,0 +1,9 @@
+
+No	O
+hay	O
+afectación	O
+de	O
+las	O
+funciones	O
+superiores	O
+.	O

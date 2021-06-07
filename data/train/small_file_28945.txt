@@ -1,0 +1,22 @@
+
+A	O
+pesar	O
+de	O
+ello	O
+,	O
+la	O
+evolución	O
+es	O
+tórpida	O
+,	O
+y	O
+con	O
+múltiples	O
+ingresos	O
+en	O
+la	O
+Unidad	O
+Hospitalaria	O
+de	O
+Agudos	O
+.	O

@@ -1,0 +1,7 @@
+
+Se	O
+pauta	O
+midazolam	O
+de	O
+rescate	O
+.	O

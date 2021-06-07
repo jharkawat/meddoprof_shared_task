@@ -1,0 +1,11 @@
+
+Hemograma	O
+con	O
+leucocitos	O
+12410	O
+,	O
+hemoglobina	O
+15	O
+.	O
+6	O
+.	O

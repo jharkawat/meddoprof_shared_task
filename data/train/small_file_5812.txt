@@ -1,0 +1,10 @@
+
+Se	O
+contacta	O
+con	O
+Cirugía	O
+Cardiaca	O
+de	O
+forma	O
+urgente	O
+.	O

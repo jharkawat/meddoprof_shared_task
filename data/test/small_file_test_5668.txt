@@ -1,0 +1,10 @@
+
+Infiltración	O
+por	O
+linfoma	O
+B	O
+difuso	O
+de	O
+célula	O
+grande	O
+.	O

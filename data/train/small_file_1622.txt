@@ -1,0 +1,27 @@
+
+Gran	O
+lesión	O
+contusa	O
+en	O
+cavidad	O
+bucal	O
+con	O
+desgarro	O
+periorificial	O
+en	O
+ambos	O
+márgenes	O
+y	O
+forma	O
+estrellada	O
+,	O
+con	O
+acentuada	O
+destrucción	O
+hacia	O
+el	O
+lado	O
+derecho	O
+del	O
+individuo	O
+.	O

@@ -1,0 +1,26 @@
+
+Dado	O
+la	O
+ausencia	O
+de	O
+respuesta	O
+inicial	O
+y	O
+la	O
+necesidad	O
+de	O
+altas	O
+concentraciones	O
+de	O
+oxigenoterapia	O
+ingresa	O
+en	O
+la	O
+unidad	O
+de	O
+cuidados	O
+intensivos	O
+(	O
+UCI	O
+)	O
+.	O

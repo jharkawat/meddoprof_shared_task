@@ -1,0 +1,26 @@
+
+Inicia	O
+tratamiento	O
+rehabilitador	O
+,	O
+persistiendo	O
+al	O
+alta	O
+disartria	O
+leve	O
+inteligible	O
+y	O
+sutil	O
+dismetría	O
+en	O
+las	O
+extremidades	O
+derechas	O
+,	O
+con	O
+cierta	O
+dificultad	O
+en	O
+la	O
+marcha	O
+.	O

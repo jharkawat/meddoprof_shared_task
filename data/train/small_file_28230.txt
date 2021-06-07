@@ -1,0 +1,24 @@
+
+En	O
+las	O
+últimas	O
+semanas	O
+hemos	O
+indicado	O
+el	O
+aumento	O
+de	O
+dosis	O
+de	O
+Lamotriginay	O
+han	O
+disminuido	O
+considerablemente	O
+la	O
+frecuencia	O
+e	O
+intensidad	O
+de	O
+las	O
+crisis	O
+.	O

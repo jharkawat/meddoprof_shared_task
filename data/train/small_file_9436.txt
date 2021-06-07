@@ -1,0 +1,5 @@
+
+Hipertrofia	O
+arterias	O
+bronquiales	O
+.	O

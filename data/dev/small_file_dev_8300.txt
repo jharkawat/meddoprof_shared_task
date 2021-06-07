@@ -1,0 +1,25 @@
+
+Se	O
+ingresa	O
+a	O
+la	O
+paciente	O
+para	O
+:	O
+ajustar	O
+el	O
+TAT	O
+,	O
+reiniciar	O
+el	O
+TAR	O
+y	O
+completar	O
+el	O
+estudio	O
+de	O
+las	O
+alteraciones	O
+del	O
+ECG	O
+.	O

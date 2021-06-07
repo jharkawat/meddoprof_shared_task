@@ -1,0 +1,12 @@
+
+Trastorno	O
+obsesivo	O
+-	O
+compulsivo	O
+,	O
+con	O
+poca	O
+conciencia	O
+de	O
+enfermedad	O
+.	O

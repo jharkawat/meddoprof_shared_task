@@ -1,0 +1,22 @@
+
+Primera	O
+visita	O
+a	O
+Oncología	O
+(	O
+16	O
+de	O
+febrero	O
+de	O
+2012	O
+)	O
+:	O
+se	O
+remite	O
+al	O
+Servicio	O
+de	O
+Cirugía	O
+General	O
+y	O
+de	O

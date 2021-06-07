@@ -1,0 +1,16 @@
+
+Al	O
+ingreso	O
+la	O
+paciente	O
+se	O
+encontraba	O
+orientada	O
+,	O
+hiperalerta	O
+,	O
+presentaba	O
+moderada	O
+inquietud	O
+psicomotriz	O
+.	O

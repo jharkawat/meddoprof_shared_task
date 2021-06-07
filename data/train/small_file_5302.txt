@@ -1,0 +1,18 @@
+
+Radiografía	O
+de	O
+tórax	O
+:	O
+no	O
+se	O
+evidencian	O
+alteraciones	O
+en	O
+las	O
+partes	O
+blandas	O
+extratorácicas	O
+ni	O
+lesiones	O
+óseas	O
+.	O

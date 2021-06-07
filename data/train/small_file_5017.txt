@@ -1,0 +1,26 @@
+
+Diagnóstico	O
+diferencial	O
+con	O
+otras	O
+enfermedades	O
+ampollosas	O
+:	O
+pénfigo	O
+vulgar	O
+,	O
+penfigoide	O
+ampolloso	O
+,	O
+dermatitis	O
+herpetiforme	O
+,	O
+primoinfección	O
+herpética	O
+,	O
+lupus	O
+,	O
+vasculitis	O
+.	O
+.	O
+.	O

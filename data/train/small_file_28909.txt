@@ -1,0 +1,22 @@
+
+Actualmente	O
+toma	O
+clozapina	O
+300	O
+mg	O
+/	O
+día	O
+y	O
+,	O
+a	O
+falta	O
+de	O
+realizar	O
+salidas	O
+al	O
+domicilio	O
+,	O
+con	O
+resultados	O
+prometedores	O
+.	O

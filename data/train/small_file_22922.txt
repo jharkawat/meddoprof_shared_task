@@ -1,0 +1,21 @@
+
+Durante	O
+esta	O
+etapa	O
+se	O
+realizó	O
+exploración	O
+psicométrica	O
+de	O
+su	O
+nivel	O
+intelectual	O
+,	O
+obteniéndose	O
+un	O
+coeficiente	O
+superior	O
+a	O
+la	O
+media	O
+.	O

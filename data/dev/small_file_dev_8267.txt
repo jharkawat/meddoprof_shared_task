@@ -1,0 +1,13 @@
+
+Se	O
+solicita	O
+una	O
+resonancia	O
+magnética	O
+(	O
+RM	O
+)	O
+cerebral	O
+con	O
+contraste	O
+.	O

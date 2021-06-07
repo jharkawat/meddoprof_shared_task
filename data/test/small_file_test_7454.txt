@@ -1,0 +1,13 @@
+
+A	O
+las	O
+tres	O
+semanas	O
+acudió	O
+a	O
+control	O
+en	O
+consulta	O
+estando	O
+asintomático	O
+.	O

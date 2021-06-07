@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+tiene	O
+una	O
+historia	O
+de	O
+mal	O
+rendimiento	O
+académico	O
+(	O
+abandono	B-SITUACION_LABORAL
+del	I-SITUACION_LABORAL
+colegio	I-SITUACION_LABORAL
+)	O
+y	O
+laboral	O
+.	O

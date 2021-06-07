@@ -1,0 +1,24 @@
+
+Analíticamente	O
+también	O
+presentó	O
+evolución	O
+tórpida	O
+con	O
+pancitopenia	O
+,	O
+secundaria	O
+a	O
+sepsis	O
+por	O
+Acinetobacter	O
+Ursigii	O
+e	O
+infección	O
+diseminada	O
+por	O
+citomegalovirus	O
+(	O
+CMV	O
+)	O
+.	O

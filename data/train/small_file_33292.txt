@@ -1,0 +1,8 @@
+
+Patrón	O
+5	O
+–	O
+Sueño	O
+y	O
+descanso	O
+.	O

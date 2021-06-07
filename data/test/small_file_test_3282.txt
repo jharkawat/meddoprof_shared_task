@@ -1,0 +1,12 @@
+
+Precisa	O
+de	O
+transfusión	O
+de	O
+concentrado	O
+de	O
+hematíes	O
+por	O
+sangrado	O
+tumoral	O
+.	O

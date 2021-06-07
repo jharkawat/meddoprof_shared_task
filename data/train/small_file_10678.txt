@@ -1,0 +1,21 @@
+
+En	O
+diciembre	O
+de	O
+2018	O
+,	O
+la	O
+paciente	O
+ingresa	O
+procedente	O
+de	O
+domicilio	O
+por	O
+mal	O
+control	O
+del	O
+dolor	O
+a	O
+nivel	O
+local	O
+.	O

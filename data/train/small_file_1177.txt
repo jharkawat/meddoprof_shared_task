@@ -1,0 +1,12 @@
+
+En	O
+el	O
+estudio	O
+del	O
+laboratorio	O
+general	O
+sólo	O
+destacó	O
+anemia	O
+leve	O
+.	O

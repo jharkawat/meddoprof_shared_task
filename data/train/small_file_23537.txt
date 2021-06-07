@@ -1,0 +1,15 @@
+
+No	O
+mejoró	O
+con	O
+el	O
+tratamiento	O
+psicofarmacológico	O
+,	O
+conductual	O
+,	O
+ni	O
+respondió	O
+al	O
+placebo	O
+.	O

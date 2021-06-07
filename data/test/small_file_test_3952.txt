@@ -1,0 +1,16 @@
+
+Recibía	O
+tratamiento	O
+crónico	O
+con	O
+ADO	O
+,	O
+torasemida	O
+,	O
+omeprazol	O
+,	O
+AAS	O
+,	O
+y	O
+candesartán	O
+.	O

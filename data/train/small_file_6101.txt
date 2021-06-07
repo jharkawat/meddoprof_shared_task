@@ -1,0 +1,25 @@
+
+Acudimos	O
+al	O
+domicilio	O
+a	O
+valorar	O
+a	O
+la	O
+paciente	O
+por	O
+presentar	O
+,	O
+desde	O
+hace	O
+dos	O
+dias	O
+,	O
+dolor	O
+e	O
+inflamación	O
+de	O
+la	O
+pierna	O
+derecha	O
+.	O

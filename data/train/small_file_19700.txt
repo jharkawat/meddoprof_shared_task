@@ -1,0 +1,11 @@
+
+FECHA	O
+DE	O
+INGRESO	O
+:	O
+29	O
+de	O
+agosto	O
+de	O
+2012	O
+.	O

@@ -1,0 +1,26 @@
+
+Los	O
+controles	O
+tensionales	O
+permanecen	O
+dentro	O
+de	O
+los	O
+valores	O
+normales	O
+(	O
+TAS	O
+<	O
+140	O
+;	O
+TAD	O
+<	O
+90	O
+mmHg	O
+)	O
+,	O
+aunque	O
+presenta	O
+mínimos	O
+edemas	O
+.	O

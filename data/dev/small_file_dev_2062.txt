@@ -1,0 +1,26 @@
+
+Niveles	O
+de	O
+prolactina	O
+durante	O
+el	O
+tratamiento	O
+con	O
+amisulprida	O
+:	O
+115	O
+,	O
+08	O
+ng	O
+/	O
+Ml	O
+(	O
+2	O
+,	O
+8	O
+–	O
+29	O
+,	O
+2	O
+)	O
+.	O

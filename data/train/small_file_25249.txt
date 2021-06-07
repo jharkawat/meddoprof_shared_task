@@ -1,0 +1,14 @@
+
+Fumador	O
+de	O
+un	O
+paquete	O
+de	O
+tabaco	O
+al	O
+día	O
+desde	O
+los	O
+18	O
+años	O
+.	O

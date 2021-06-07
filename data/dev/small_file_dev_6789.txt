@@ -1,0 +1,22 @@
+
+El	O
+diagnóstico	O
+de	O
+EI	O
+se	O
+establece	O
+con	O
+los	O
+criterios	O
+de	O
+Duke	O
+modificados	O
+,	O
+que	O
+consta	O
+de	O
+criterios	O
+mayores	O
+y	O
+menores	O
+.	O

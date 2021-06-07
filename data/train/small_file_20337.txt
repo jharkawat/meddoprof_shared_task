@@ -1,0 +1,18 @@
+
+Se	O
+negaba	O
+a	O
+salir	O
+de	O
+casa	O
+sola	O
+por	O
+miedo	O
+a	O
+verse	O
+obligada	O
+a	O
+hablar	O
+con	O
+alguien	O
+.	O

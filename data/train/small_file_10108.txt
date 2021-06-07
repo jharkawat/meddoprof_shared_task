@@ -1,0 +1,7 @@
+
+Blumberg	O
+negativo	O
+y	O
+Murphy	O
+negativo	O
+.	O

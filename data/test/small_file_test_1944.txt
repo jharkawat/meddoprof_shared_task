@@ -1,0 +1,25 @@
+
+Además	O
+,	O
+se	O
+usó	O
+pegfilgrastim	O
+,	O
+como	O
+profilaxis	O
+de	O
+neutropenia	O
+febril	O
+(	O
+para	O
+evitar	O
+múltiples	O
+inyecciones	O
+ante	O
+el	O
+alto	O
+riesgo	O
+de	O
+sangrado	O
+)	O
+.	O

@@ -1,0 +1,9 @@
+
+NIHSS	O
+a	O
+los	O
+tres	O
+meses	O
+sin	O
+cambios	O
+.	O

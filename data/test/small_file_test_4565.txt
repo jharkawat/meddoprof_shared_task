@@ -1,0 +1,8 @@
+
+Se	O
+practicó	O
+una	O
+tumorectomía	O
+y	O
+linfadenectomía	O
+.	O

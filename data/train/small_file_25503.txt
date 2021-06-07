@@ -1,0 +1,7 @@
+
+Presenta	O
+rasgos	O
+de	O
+personalidad	O
+dependiente	O
+.	O

@@ -1,0 +1,22 @@
+
+En	O
+junio	O
+de	O
+2009	O
+,	O
+al	O
+terminarse	O
+el	O
+programa	O
+con	O
+Subutex	O
+®	O
+,	O
+se	O
+decide	O
+pasarle	O
+a	O
+buprenorfina	O
+/	O
+naloxona	O
+.	O

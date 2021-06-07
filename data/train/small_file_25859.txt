@@ -1,0 +1,21 @@
+
+Varón	O
+,	O
+14	O
+años	O
+,	O
+con	O
+síntomas	O
+psicóticos	O
+esquizofreniformes	O
+(	O
+autoreferencialidad	O
+,	O
+alucinaciones	O
+acústicas	O
+)	O
+y	O
+ambiente	O
+social	O
+desfavorable	O
+.	O

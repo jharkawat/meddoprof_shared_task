@@ -1,0 +1,15 @@
+
+Ecografía	O
+abdominal	O
+(	O
+febrero	O
+2016	O
+)	O
+:	O
+hígado	O
+de	O
+tamaño	O
+y	O
+morfología	O
+normal	O
+.	O

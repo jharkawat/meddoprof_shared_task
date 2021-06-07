@@ -1,0 +1,25 @@
+
+El	O
+enfoque	O
+en	O
+consulta	O
+de	O
+primaria	O
+debe	O
+tener	O
+en	O
+mente	O
+las	O
+necesidades	O
+de	O
+estos	O
+pacientes	O
+y	O
+el	O
+carácter	O
+de	O
+vulnerabilidad	O
+en	O
+muchos	O
+casos	O
+.	O

@@ -1,0 +1,12 @@
+
+Sertralina	O
+150	O
+mg	O
+,	O
+por	O
+cefalea	O
+y	O
+aumento	O
+de	O
+tics	O
+.	O

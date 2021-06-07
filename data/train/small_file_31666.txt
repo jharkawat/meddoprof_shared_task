@@ -1,0 +1,13 @@
+
+Tiene	O
+concedida	O
+una	O
+incapacidad	B-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+permanente	I-SITUACION_LABORAL
+desde	O
+2009	O
+por	O
+enfermedad	O
+mental	O
+.	O

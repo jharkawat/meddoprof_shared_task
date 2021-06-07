@@ -1,0 +1,21 @@
+
+Ha	O
+tenido	O
+dos	O
+episodios	O
+de	O
+intoxicación	O
+aguda	O
+por	O
+benzodiacepinas	O
+y	O
+opioides	O
+que	O
+han	O
+necesitado	O
+ingresos	O
+hospitalarios	O
+con	O
+lavado	O
+gástrico	O
+.	O

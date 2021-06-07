@@ -1,0 +1,19 @@
+
+En	O
+la	O
+admisión	O
+los	O
+padres	O
+se	O
+lamentaron	O
+de	O
+ver	O
+al	O
+paciente	O
+casi	O
+siempre	O
+en	O
+cama	O
+fumando	O
+porros	O
+.	O

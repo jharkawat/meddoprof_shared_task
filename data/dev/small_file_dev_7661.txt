@@ -1,0 +1,24 @@
+
+En	O
+el	O
+caso	O
+de	O
+nuestro	O
+paciente	O
+la	O
+procedencia	O
+de	O
+California	O
+no	O
+constituye	O
+una	O
+zona	O
+de	O
+riesgo	O
+para	O
+el	O
+contagio	O
+de	O
+estas	O
+enfermedades	O
+.	O

@@ -1,0 +1,6 @@
+
+Rx	O
+de	O
+tórax	O
+AP	O
+.	O

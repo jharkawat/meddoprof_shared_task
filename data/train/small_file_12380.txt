@@ -1,0 +1,14 @@
+
+Radiografía	O
+de	O
+tórax	O
+con	O
+infiltrados	O
+intersticiales	O
+bilaterales	O
+más	O
+acusados	O
+en	O
+hemitórax	O
+izquierdo	O
+.	O

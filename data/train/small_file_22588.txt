@@ -1,0 +1,27 @@
+
+En	O
+la	O
+anamnesis	O
+destaca	O
+el	O
+antecedente	O
+de	O
+cambios	O
+de	O
+conducta	O
+,	O
+olvidos	O
+frecuentes	O
+,	O
+falta	O
+de	O
+iniciativa	O
+e	O
+indiferencia	O
+afectiva	O
+de	O
+un	O
+mes	O
+de	O
+evolución	O
+.	O

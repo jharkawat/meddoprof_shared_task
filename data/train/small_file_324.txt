@@ -1,0 +1,19 @@
+
+Al	O
+día	O
+subsiguiente	O
+acudió	O
+al	O
+hospital	O
+por	O
+debilidad	O
+muscular	O
+,	O
+mialgias	O
+difusas	O
+,	O
+calambres	O
+y	O
+malestar	O
+general	O
+.	O

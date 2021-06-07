@@ -1,0 +1,17 @@
+
+Tras	O
+los	O
+hallazgos	O
+de	O
+la	O
+TC	O
+abdominal	O
+se	O
+procede	O
+al	O
+ingreso	O
+del	O
+paciente	O
+para	O
+estudio	O
+.	O

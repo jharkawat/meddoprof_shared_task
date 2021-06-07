@@ -1,0 +1,17 @@
+
+Extenso	O
+edema	O
+de	O
+paredes	O
+de	O
+vesícula	O
+biliar	O
+sin	O
+imágenes	O
+de	O
+carácter	O
+inflamatorio	O
+de	O
+vías	O
+biliares	O
+.	O

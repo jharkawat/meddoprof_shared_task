@@ -1,0 +1,20 @@
+
+Tiene	O
+una	O
+infusión	O
+intraduodenal	O
+de	O
+levodopa	O
+(	O
+perfusor	O
+levodopa	O
+al	O
+duodeno	O
+de	O
+forma	O
+continua	O
+mediante	O
+una	O
+gastrostomía	O
+)	O
+.	O

@@ -1,0 +1,24 @@
+
+Existen	O
+además	O
+alucinaciones	O
+corporales	O
+superficiales	O
+,	O
+"	O
+mi	O
+pómulo	O
+está	O
+hundido	O
+"	O
+,	O
+y	O
+cenestésicas	O
+,	O
+"	O
+el	O
+sacro	O
+se	O
+horizontaliza	O
+"	O
+.	O

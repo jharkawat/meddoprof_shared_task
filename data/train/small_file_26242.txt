@@ -1,0 +1,6 @@
+
+Tiene	O
+una	O
+hermana	O
+sana	O
+.	O

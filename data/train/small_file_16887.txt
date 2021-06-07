@@ -1,0 +1,13 @@
+
+No	O
+había	O
+edema	O
+de	O
+papila	O
+y	O
+la	O
+agudeza	O
+visual	O
+era	O
+normal	O
+.	O

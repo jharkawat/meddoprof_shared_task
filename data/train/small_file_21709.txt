@@ -1,0 +1,26 @@
+
+yo	O
+quería	O
+casarme	O
+pero	O
+empecé	O
+a	O
+dudar	O
+de	O
+si	O
+iba	O
+a	O
+ser	O
+buen	O
+marido	O
+,	O
+de	O
+si	O
+podía	O
+hacer	O
+daño	O
+a	O
+Ana	O
+.	O
+.	O
+.	O

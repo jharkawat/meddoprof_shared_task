@@ -1,0 +1,27 @@
+
+Cursamos	O
+interconsulta	O
+a	O
+Neurología	O
+para	O
+el	O
+control	O
+de	O
+las	O
+crisis	O
+,	O
+y	O
+con	O
+Citogenética	O
+para	O
+descartar	O
+la	O
+Enfermedad	O
+de	O
+Huntington	O
+como	O
+origen	O
+de	O
+su	O
+patología	O
+.	O

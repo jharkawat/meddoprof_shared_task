@@ -1,0 +1,9 @@
+
+Resto	O
+de	O
+la	O
+exploración	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

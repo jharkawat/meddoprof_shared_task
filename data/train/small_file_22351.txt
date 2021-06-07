@@ -1,0 +1,16 @@
+
+Subpoblaciones	O
+linfocitarias	O
+:	O
+CD4	O
+427	O
+/	O
+40	O
+%	O
+;	O
+CD8	O
+134	O
+/	O
+13	O
+%	O
+.	O

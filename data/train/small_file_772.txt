@@ -1,0 +1,20 @@
+
+Se	O
+presentó	O
+a	O
+la	O
+consulta	O
+en	O
+forma	O
+ambulatoria	O
+los	O
+primeros	O
+días	O
+del	O
+mes	O
+de	O
+marzo	O
+del	O
+año	O
+2005	O
+.	O

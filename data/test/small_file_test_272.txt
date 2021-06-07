@@ -1,0 +1,20 @@
+
+Tiene	O
+alopecia	O
+poco	O
+desarrollada	O
+,	O
+no	O
+hay	O
+presencia	O
+de	O
+úlceras	O
+en	O
+la	O
+piel	O
+,	O
+queloides	O
+,	O
+fisuras	O
+oronchas	O
+.	O

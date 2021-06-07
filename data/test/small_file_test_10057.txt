@@ -1,0 +1,14 @@
+
+Además	O
+,	O
+se	O
+inicia	O
+tratamiento	O
+con	O
+ácido	O
+zoledrónico	O
+mensual	O
+por	O
+afectación	O
+ósea	O
+.	O

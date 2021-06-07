@@ -1,0 +1,14 @@
+
+Tras	O
+intervención	O
+quirúrgica	O
+ingresa	O
+en	O
+Unidad	O
+de	O
+Cuidados	O
+Intensivos	O
+con	O
+excelente	O
+evolución	O
+.	O

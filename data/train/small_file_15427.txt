@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+mejoró	O
+,	O
+se	O
+cicatrizaron	O
+las	O
+úlceras	O
+y	O
+seis	O
+meses	O
+después	O
+se	O
+apreció	O
+su	O
+recuperación	O
+con	O
+persistencia	O
+de	O
+las	O
+lesiones	O
+verrugosas	O
+.	O

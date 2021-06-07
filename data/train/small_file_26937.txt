@@ -1,0 +1,24 @@
+
+En	O
+la	O
+semana	O
+14	O
+la	O
+madre	O
+tuvo	O
+que	O
+ser	O
+hospitalizada	O
+por	O
+riesgo	O
+de	O
+aborto	O
+,	O
+guardando	O
+reposo	O
+absoluto	O
+durante	O
+mes	O
+y	O
+medio	O
+.	O

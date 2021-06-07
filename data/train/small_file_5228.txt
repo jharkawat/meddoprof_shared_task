@@ -1,0 +1,16 @@
+
+Astenia	O
+diurna	O
+y	O
+nerviosismo	O
+e	O
+intranquilidad	O
+vespertina	O
+,	O
+con	O
+dificultad	O
+para	O
+conciliar	O
+el	O
+sueño	O
+.	O

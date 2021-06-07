@@ -1,0 +1,21 @@
+
+Artritis	O
+condroesternal	O
+con	O
+masa	O
+de	O
+partes	O
+blandas	O
+abscesificada	O
+secundaria	O
+a	O
+bacteriemia	O
+por	O
+Staphylococcus	O
+aureus	O
+meticillin	O
+sensible	O
+en	O
+paciente	O
+inmunodeprimido	O
+.	O

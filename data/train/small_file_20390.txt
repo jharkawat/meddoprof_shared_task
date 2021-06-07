@@ -1,0 +1,21 @@
+
+Habitualmente	O
+faltaba	O
+al	O
+colegio	O
+,	O
+pero	O
+ni	O
+se	O
+había	O
+fugado	O
+,	O
+ni	O
+volvía	O
+a	O
+casa	O
+ya	O
+entrada	O
+la	O
+noche	O
+.	O

@@ -1,0 +1,9 @@
+
+Adenopatía	O
+en	O
+mediastino	O
+anterior	O
+de	O
+12	O
+mm	O
+.	O

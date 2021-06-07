@@ -1,0 +1,26 @@
+
+Se	O
+derivó	O
+a	O
+consulta	O
+de	O
+neumología	O
+-	O
+consulta	O
+de	O
+trastornos	O
+respiratorios	O
+del	O
+sueño	O
+,	O
+donde	O
+se	O
+solicitó	O
+poligrafía	O
+respiratoria	O
+domiciliaria	O
+para	O
+confirmar	O
+el	O
+diagnóstico	O
+.	O

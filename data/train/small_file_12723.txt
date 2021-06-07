@@ -1,0 +1,11 @@
+
+No	O
+signos	O
+de	O
+uropatía	O
+obstructiva	O
+en	O
+este	O
+estudio	O
+"	O
+.	O

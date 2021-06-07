@@ -1,0 +1,22 @@
+
+Tras	O
+el	O
+alta	O
+hospitalaria	O
+persisten	O
+los	O
+episodios	O
+de	O
+amnesia	O
+,	O
+con	O
+sensación	O
+de	O
+bloqueo	O
+a	O
+nivel	O
+motor	O
+y	O
+del	O
+lenguaje	O
+.	O

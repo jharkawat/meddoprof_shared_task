@@ -1,0 +1,27 @@
+
+Desde	O
+la	O
+primera	O
+entrevista	O
+se	O
+hizo	O
+tratamiento	O
+motivacional	O
+para	O
+abandonar	O
+el	O
+consumo	O
+de	O
+cannabis	O
+,	O
+incidiendo	O
+en	O
+la	O
+probable	O
+relación	O
+causal	O
+con	O
+los	O
+síntomas	O
+psicóticos	O
+.	O

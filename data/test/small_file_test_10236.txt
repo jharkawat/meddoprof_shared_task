@@ -1,0 +1,11 @@
+
+Jubilada	B-SITUACION_LABORAL
+desde	O
+los	O
+65	O
+años	O
+y	O
+maestra	B-PROFESION
+de	O
+profesión	O
+.	O

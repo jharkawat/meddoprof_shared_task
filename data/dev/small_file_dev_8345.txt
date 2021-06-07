@@ -1,0 +1,24 @@
+
+•	O
+Meningitis	O
+tuberculosa	O
+:	O
+la	O
+infección	O
+del	O
+SNC	O
+por	O
+M	O
+.	O
+tuberculosis	O
+se	O
+debe	O
+sospechar	O
+fuertemente	O
+en	O
+pacientes	O
+con	O
+una	O
+tuberculosis	O
+activa	O
+.	O

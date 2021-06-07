@@ -1,0 +1,19 @@
+
+La	O
+Eco	O
+-	O
+broncoscopia	O
+junto	O
+con	O
+la	O
+punción	O
+de	O
+adenopatías	O
+fueron	O
+compatibles	O
+con	O
+linfadenitis	O
+granulomatosa	O
+no	O
+necrotizante	O
+.	O

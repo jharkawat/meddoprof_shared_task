@@ -1,0 +1,24 @@
+
+Luego	O
+de	O
+recibir	O
+una	O
+carga	O
+de	O
+fenitoína	O
+intravenosa	O
+las	O
+crisis	O
+se	O
+distancian	O
+progresivamente	O
+en	O
+un	O
+periodo	O
+de	O
+minutos	O
+hasta	O
+desaparecer	O
+por	O
+completo	O
+.	O

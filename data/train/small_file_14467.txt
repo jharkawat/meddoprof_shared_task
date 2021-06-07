@@ -1,0 +1,19 @@
+
+Ante	O
+esta	O
+evolución	O
+se	O
+procede	O
+a	O
+realizar	O
+cateterismo	O
+cardiaco	O
+derecho	O
+por	O
+vía	O
+femoral	O
+en	O
+noviembre	O
+de	O
+2011	O
+.	O

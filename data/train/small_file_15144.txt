@@ -1,0 +1,24 @@
+
+Tras	O
+el	O
+resultado	O
+de	O
+anatomopatológico	O
+se	O
+inició	O
+tratamiento	O
+con	O
+prednisona	O
+0	O
+,	O
+5	O
+mg	O
+/	O
+kg	O
+desapareciendo	O
+la	O
+fiebre	O
+y	O
+la	O
+disnea	O
+.	O

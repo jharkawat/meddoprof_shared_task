@@ -1,0 +1,24 @@
+
+En	O
+el	O
+estudio	O
+de	O
+conectivopatías	O
+los	O
+resultados	O
+bioquímicos	O
+:	O
+ANA	O
+,	O
+ENA	O
+,	O
+ANCA	O
+Y	O
+ECA	O
+descartan	O
+LES	O
+,	O
+Sarcoidosis	O
+y	O
+vasculitis	O
+.	O

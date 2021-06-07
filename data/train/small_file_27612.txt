@@ -1,0 +1,19 @@
+
+Embarazo	O
+deseado	O
+en	O
+madre	O
+de	O
+43	O
+años	O
+,	O
+que	O
+cursa	O
+con	O
+diabetes	O
+materna	O
+bajo	O
+tratamiento	O
+con	O
+insulina	O
+.	O

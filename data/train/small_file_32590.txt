@@ -1,0 +1,13 @@
+
+Frecuentemente	O
+huía	O
+de	O
+casa	O
+llegando	O
+a	O
+pasar	O
+hasta	O
+3	O
+días	O
+desaparecida	O
+.	O

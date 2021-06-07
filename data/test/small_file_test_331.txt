@@ -1,0 +1,18 @@
+
+Ptosis	O
+(	O
+congénito	O
+puro	O
+)	O
+ligero	O
+del	O
+párpado	O
+derecho	O
+sin	O
+que	O
+ocasione	O
+problemas	O
+de	O
+visibilidad	O
+omovilidad	O
+.	O

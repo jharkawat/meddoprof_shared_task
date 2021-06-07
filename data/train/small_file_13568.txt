@@ -1,0 +1,15 @@
+
+La	O
+rabdomiólisis	O
+asociada	O
+al	O
+virus	O
+Influenza	O
+A	O
+está	O
+poco	O
+descrita	O
+en	O
+la	O
+literatura	O
+.	O

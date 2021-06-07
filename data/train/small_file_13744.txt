@@ -1,0 +1,20 @@
+
+Ante	O
+esta	O
+sintomatología	O
+se	O
+realiza	O
+un	O
+TAC	O
+craneal	O
+que	O
+es	O
+normal	O
+,	O
+procediéndose	O
+al	O
+alta	O
+de	O
+la	O
+paciente	O
+.	O

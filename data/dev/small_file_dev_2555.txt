@@ -1,0 +1,7 @@
+
+Exploración	O
+cardiopulmonar	O
+y	O
+abdominal	O
+anodina	O
+.	O

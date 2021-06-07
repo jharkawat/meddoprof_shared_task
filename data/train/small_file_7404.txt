@@ -1,0 +1,15 @@
+
+No	O
+contacta	O
+con	O
+productos	O
+químicos	O
+relevantes	O
+posibles	O
+causantes	O
+de	O
+dermatitis	O
+por	O
+alérgenos	O
+aerotransportados	O
+.	O

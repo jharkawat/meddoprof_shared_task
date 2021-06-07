@@ -1,0 +1,15 @@
+
+Se	O
+descartó	O
+,	O
+mediante	O
+biopsia	O
+prostática	O
+,	O
+ausencia	O
+de	O
+malignidad	O
+del	O
+tejido	O
+prostático	O
+.	O

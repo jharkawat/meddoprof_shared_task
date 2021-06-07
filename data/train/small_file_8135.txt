@@ -1,0 +1,10 @@
+
+Es	O
+originaria	O
+de	O
+Rumania	O
+donde	O
+trabajaba	O
+como	O
+veterinaria	B-PROFESION
+.	O

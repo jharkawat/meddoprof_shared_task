@@ -1,0 +1,16 @@
+
+Reacciona	O
+con	O
+agresividad	O
+cuando	O
+se	O
+intenta	O
+indagar	O
+sobre	O
+la	O
+valoración	O
+crítica	O
+del	O
+intento	O
+autolítico	O
+.	O

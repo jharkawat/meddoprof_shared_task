@@ -1,0 +1,27 @@
+
+Se	O
+le	O
+practicó	O
+hisopado	O
+con	O
+resultado	O
+positivo	O
+72	O
+horas	O
+posterior	O
+a	O
+toma	O
+de	O
+muestra	O
+,	O
+y	O
+se	O
+le	O
+indicó	O
+aislamiento	O
+domiciliario	O
+,	O
+aun	O
+estando	O
+asintomático	O
+.	O

@@ -1,0 +1,11 @@
+
+-	O
+Hernia	O
+inguinal	O
+(	O
+intervenido	O
+en	O
+tres	O
+ocasiones	O
+)	O
+.	O

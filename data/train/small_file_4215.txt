@@ -1,0 +1,27 @@
+
+Según	O
+la	O
+Ley	O
+de	O
+Autonomía	O
+del	O
+paciente	O
+y	O
+siguiendo	O
+uno	O
+de	O
+los	O
+principios	O
+básicos	O
+de	O
+la	O
+bioética	O
+,	O
+toda	O
+persona	O
+tiene	O
+derecho	O
+a	O
+ser	O
+informada	O
+.	O

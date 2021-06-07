@@ -1,0 +1,10 @@
+
+La	O
+comprensión	O
+auditiva	O
+es	O
+mejor	O
+que	O
+la	O
+expresión	O
+.	O

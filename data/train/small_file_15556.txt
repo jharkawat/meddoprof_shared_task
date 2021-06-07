@@ -1,0 +1,19 @@
+
+También	O
+afectó	O
+a	O
+los	O
+músculos	O
+retrovertebrales	O
+derechos	O
+en	O
+los	O
+cuerpos	O
+vertebrales	O
+lumbares	O
+(	O
+L4	O
+y	O
+L5	O
+)	O
+.	O

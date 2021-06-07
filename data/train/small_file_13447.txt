@@ -1,0 +1,15 @@
+
+Acude	O
+a	O
+urgencias	O
+de	O
+nuestro	O
+hospital	O
+derivado	O
+de	O
+Motril	O
+para	O
+valoración	O
+por	O
+Psiquiatría	O
+.	O

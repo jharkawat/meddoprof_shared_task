@@ -1,0 +1,17 @@
+
+Antecedentes	O
+familiares	O
+:	O
+padre	O
+con	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+paranoide	O
+con	O
+suicidio	O
+por	O
+ahorcamiento	O
+en	O
+1987	O
+.	O

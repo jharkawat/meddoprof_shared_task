@@ -1,0 +1,12 @@
+
+ECG	O
+:	O
+Fibrilación	O
+auricular	O
+con	O
+una	O
+RVM	O
+a	O
+80	O
+lpm	O
+.	O

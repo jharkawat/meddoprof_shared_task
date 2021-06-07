@@ -1,0 +1,11 @@
+
+Refiere	O
+que	O
+previamente	O
+había	O
+usado	O
+esta	O
+pomada	O
+sin	O
+incidencias	O
+.	O

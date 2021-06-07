@@ -1,0 +1,14 @@
+
+Imagen	O
+clínica	O
+postextracción	O
+que	O
+muestra	O
+la	O
+extensa	O
+reabsorción	O
+ósea	O
+del	O
+proceso	O
+alveolar	O
+.	O

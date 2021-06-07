@@ -1,0 +1,9 @@
+
+Personalidad	O
+premórbida	O
+con	O
+tendencia	O
+a	O
+la	O
+introversión	O
+.	O

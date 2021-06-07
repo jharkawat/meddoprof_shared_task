@@ -1,0 +1,16 @@
+
+La	O
+identificación	O
+etiológica	O
+se	O
+basa	O
+en	O
+la	O
+positividad	O
+para	O
+el	O
+crecimiento	O
+en	O
+cultivos	O
+microbiológicos	O
+.	O

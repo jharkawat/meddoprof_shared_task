@@ -1,0 +1,23 @@
+
+Se	O
+solicita	O
+BAG	O
+de	O
+masa	O
+pulmonar	O
+siendo	O
+informada	O
+como	O
+carcinoma	O
+,	O
+pero	O
+precisando	O
+de	O
+mayor	O
+cantidad	O
+de	O
+material	O
+para	O
+filiar	O
+origen	O
+.	O

@@ -1,0 +1,10 @@
+
+Actualmente	O
+ánimo	O
+depresivo	O
+mantenido	O
+,	O
+anhedonia	O
+y	O
+apatía	O
+.	O

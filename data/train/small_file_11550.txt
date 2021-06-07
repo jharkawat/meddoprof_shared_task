@@ -1,0 +1,25 @@
+
+La	O
+sen	O
+̃	O
+ora	O
+negaba	O
+haber	O
+tenido	O
+vómitos	O
+o	O
+deposiciones	O
+diarreicas	O
+en	O
+los	O
+últimos	O
+días	O
+y	O
+tampoco	O
+refería	O
+sintomatología	O
+genitourinaria	O
+ni	O
+infecciosa	O
+alguna	O
+.	O

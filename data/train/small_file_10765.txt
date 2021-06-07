@@ -1,0 +1,18 @@
+
+Refiere	O
+que	O
+,	O
+en	O
+la	O
+adolescencia	O
+,	O
+le	O
+realizaron	O
+una	O
+biopsia	O
+hepática	O
+que	O
+no	O
+fue	O
+concluyente	O
+.	O

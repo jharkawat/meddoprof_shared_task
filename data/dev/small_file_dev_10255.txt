@@ -1,0 +1,12 @@
+
+Su	O
+padre	O
+era	O
+empleado	B-PROFESION
+público	I-PROFESION
+y	O
+su	O
+madre	O
+era	O
+maestra	B-PROFESION
+.	O

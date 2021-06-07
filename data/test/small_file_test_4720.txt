@@ -1,0 +1,8 @@
+
+Asimetría	O
+facial	O
+por	O
+las	O
+secuelas	O
+quirúrgicas	O
+.	O

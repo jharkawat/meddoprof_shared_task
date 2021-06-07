@@ -1,0 +1,24 @@
+
+Una	O
+vez	O
+confirmada	O
+la	O
+sospecha	O
+de	O
+diabetes	O
+insípida	O
+se	O
+instaura	O
+tratamiento	O
+con	O
+DDVAP	O
+,	O
+con	O
+el	O
+cual	O
+se	O
+consigue	O
+un	O
+control	O
+sintomático	O
+.	O

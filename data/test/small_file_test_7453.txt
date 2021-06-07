@@ -1,0 +1,11 @@
+
+En	O
+abril	O
+,	O
+el	O
+paciente	O
+recibió	O
+la	O
+cuarta	O
+dosis	O
+.	O

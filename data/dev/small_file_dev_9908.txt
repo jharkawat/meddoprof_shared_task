@@ -1,0 +1,27 @@
+
+Tiempo	O
+de	O
+tromboplastina	O
+parcial	O
+26	O
+,	O
+6	O
+seg	O
+,	O
+tiempo	O
+de	O
+tromboplastina	O
+parcial	O
+(	O
+ratio	O
+)	O
+:	O
+0	O
+,	O
+89	O
+,	O
+INR	O
+1	O
+,	O
+15	O
+.	O

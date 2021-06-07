@@ -1,0 +1,25 @@
+
+Tras	O
+9	O
+días	O
+de	O
+ingreso	O
+,	O
+el	O
+personal	B-PROFESION
+de	I-PROFESION
+enfermería	I-PROFESION
+se	O
+encuentra	O
+al	O
+paciente	O
+inconsciente	O
+dentro	O
+del	O
+ban	O
+̃	O
+o	O
+de	O
+la	O
+habitación	O
+.	O

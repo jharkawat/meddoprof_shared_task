@@ -1,0 +1,21 @@
+
+Bravo	O
+era	O
+la	O
+menor	O
+de	O
+tres	O
+hermanos	O
+crecidos	O
+en	O
+un	O
+hogar	O
+situado	O
+en	O
+una	O
+zona	O
+residencial	O
+de	O
+clase	O
+media	O
+.	O

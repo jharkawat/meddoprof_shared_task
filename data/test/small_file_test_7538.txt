@@ -1,0 +1,25 @@
+
+Se	O
+remite	O
+a	O
+cirugía	O
+para	O
+exéresis	O
+de	O
+la	O
+lesión	O
+,	O
+siendo	O
+intervenida	O
+el	O
+13	O
+/	O
+12	O
+/	O
+2018	O
+con	O
+cuadrantectomía	O
+de	O
+mama	O
+derecha	O
+.	O

@@ -1,0 +1,7 @@
+
+Pueril	O
+,	O
+presenta	O
+conductas	O
+regresivas	O
+.	O

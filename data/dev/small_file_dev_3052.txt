@@ -1,0 +1,6 @@
+
+Sabe	O
+leer	O
+y	O
+escribir	O
+.	O

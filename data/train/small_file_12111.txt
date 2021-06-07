@@ -1,0 +1,6 @@
+
+Hipotiroidismo	O
+en	O
+tratamiento	O
+sustitutivo	O
+.	O

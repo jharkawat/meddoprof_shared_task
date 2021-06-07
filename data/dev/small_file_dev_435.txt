@@ -1,0 +1,20 @@
+
+Podría	O
+haber	O
+apoyado	O
+este	O
+diagnóstico	O
+el	O
+predominio	O
+nocturno	O
+de	O
+los	O
+síntomas	O
+psicóticos	O
+y	O
+la	O
+inquietud	O
+psicomotriz	O
+que	O
+exhibía	O
+.	O

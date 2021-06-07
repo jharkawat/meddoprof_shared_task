@@ -1,0 +1,21 @@
+
+No	O
+se	O
+observan	O
+alteraciones	O
+significativas	O
+en	O
+la	O
+intensidad	O
+de	O
+señal	O
+del	O
+parénquima	O
+cerebral	O
+,	O
+cerebelo	O
+ni	O
+en	O
+tronco	O
+encefálico	O
+.	O

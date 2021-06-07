@@ -1,0 +1,10 @@
+
+Habla	O
+poco	O
+en	O
+respuesta	O
+a	O
+las	O
+preguntas	O
+formuladas	O
+.	O

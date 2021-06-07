@@ -1,0 +1,27 @@
+
+Persistía	O
+una	O
+anemia	O
+normocítica	O
+por	O
+lo	O
+que	O
+se	O
+realiza	O
+Gastroscopia	O
+con	O
+el	O
+siguiente	O
+hallazgo	O
+:	O
+gastritis	O
+crónica	O
+y	O
+H	O
+.	O
+pilory	O
+y	O
+Colonoscopia	O
+sin	O
+hallazgos	O
+.	O

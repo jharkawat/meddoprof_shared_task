@@ -1,0 +1,10 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+03	O
+-	O
+abril	O
+-	O
+1981	O

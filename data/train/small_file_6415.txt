@@ -1,0 +1,25 @@
+
+Según	O
+nos	O
+refirió	O
+nuestro	O
+paciente	O
+,	O
+la	O
+sensación	O
+opresiva	O
+era	O
+de	O
+una	O
+duración	O
+no	O
+mayor	O
+de	O
+dos	O
+horas	O
+y	O
+ésta	O
+se	O
+autolimitaba	O
+espontáneamente	O
+.	O

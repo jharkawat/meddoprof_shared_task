@@ -1,0 +1,24 @@
+
+Cabe	O
+destacar	O
+que	O
+desde	O
+esta	O
+prueba	O
+,	O
+realizada	O
+en	O
+el	O
+año	O
+2001	O
+,	O
+no	O
+se	O
+le	O
+ha	O
+realizado	O
+ninguna	O
+otra	O
+prueba	O
+neurológica	O
+.	O

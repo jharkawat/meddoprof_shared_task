@@ -1,0 +1,9 @@
+
+Fue	O
+dado	O
+de	O
+alta	O
+con	O
+cefuroxima	O
+axetilo	O
+.	O

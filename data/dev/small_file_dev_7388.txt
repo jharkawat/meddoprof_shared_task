@@ -1,0 +1,27 @@
+
+En	O
+ella	O
+el	O
+herpes	O
+virus	O
+humano	O
+8	O
+se	O
+ha	O
+descrito	O
+como	O
+agente	O
+etiológico	O
+de	O
+la	O
+enfermedad	O
+tanto	O
+en	O
+pacientes	O
+infectados	O
+por	O
+HIV	O
+como	O
+no	O
+infectados	O
+.	O

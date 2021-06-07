@@ -1,0 +1,26 @@
+
+Por	O
+ello	O
+,	O
+se	O
+decidió	O
+repetir	O
+un	O
+ciclo	O
+de	O
+tratamiento	O
+intravenoso	O
+y	O
+potenciar	O
+el	O
+tratamiento	O
+al	O
+alta	O
+con	O
+dos	O
+fármacos	O
+activos	O
+frente	O
+a	O
+Clostridium	O
+.	O

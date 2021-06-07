@@ -1,0 +1,14 @@
+
+Se	O
+aprecia	O
+ausencia	O
+de	O
+corteza	O
+orbitofrontal	O
+bilateral	O
+y	O
+de	O
+polo	O
+temporal	O
+izquierdo	O
+.	O

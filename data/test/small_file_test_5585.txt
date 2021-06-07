@@ -1,0 +1,21 @@
+
+Presentamos	O
+el	O
+caso	O
+de	O
+un	O
+paciente	O
+varón	O
+de	O
+59	O
+años	O
+de	O
+edad	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+hasta	O
+la	O
+fecha	O
+.	O

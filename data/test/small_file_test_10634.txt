@@ -1,0 +1,9 @@
+
+Reconstrucción	O
+de	O
+mama	O
+derecha	O
+con	O
+buen	O
+aspecto	O
+.	O

@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+no	O
+presenta	O
+clínica	O
+autorreferencial	O
+ni	O
+persecutoria	O
+.	O

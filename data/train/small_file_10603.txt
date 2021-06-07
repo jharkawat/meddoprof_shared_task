@@ -1,0 +1,12 @@
+
+El	O
+rastreo	O
+óseo	O
+mostró	O
+patología	O
+articular	O
+politópica	O
+en	O
+fase	O
+inflamatoria	O
+.	O

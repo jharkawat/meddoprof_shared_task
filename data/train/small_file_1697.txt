@@ -1,0 +1,19 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+se	O
+observaba	O
+un	O
+patrón	O
+micronodular	O
+bilateral	O
+con	O
+conglomerados	O
+en	O
+ambos	O
+lóbulos	O
+superiores	O
+.	O

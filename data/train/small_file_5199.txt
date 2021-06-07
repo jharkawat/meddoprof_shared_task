@@ -1,0 +1,20 @@
+
+TAC	O
+ABDOMINO	O
+-	O
+PELVICO	O
+:	O
+leve	O
+derrame	O
+pleural	O
+derecho	O
+,	O
+lesión	O
+hepática	O
+calcificada	O
+compatible	O
+con	O
+quiste	O
+hidatídico	O
+calcificado	O
+.	O

@@ -1,0 +1,10 @@
+
+Tensión	O
+arterial	O
+>	O
+140	O
+/	O
+90	O
+.	O
+2	O
+.	O

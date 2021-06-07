@@ -1,0 +1,7 @@
+
+Patología	O
+de	O
+la	O
+serie	O
+blanca	O
+.	O

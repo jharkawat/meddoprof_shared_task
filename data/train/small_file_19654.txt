@@ -1,0 +1,19 @@
+
+Porque	O
+él	O
+era	O
+medico	B-PROFESION
+y	O
+consideraba	O
+un	O
+éxito	O
+el	O
+casarse	O
+con	O
+un	O
+hombre	O
+de	O
+la	O
+alta	O
+sociedad	O
+.	O

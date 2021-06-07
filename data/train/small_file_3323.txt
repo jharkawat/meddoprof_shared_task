@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+acude	O
+a	O
+consulta	O
+por	O
+presentar	O
+tos	O
+seca	O
+de	O
+tres	O
+semanas	O
+de	O
+evolución	O
+de	O
+intensidad	O
+creciente	O
+que	O
+interfiere	O
+en	O
+el	O
+descanso	O
+nocturno	O
+.	O

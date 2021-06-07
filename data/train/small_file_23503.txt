@@ -1,0 +1,16 @@
+
+Tras	O
+la	O
+retirada	O
+de	O
+este	O
+fármaco	O
+,	O
+presentó	O
+un	O
+cuadro	O
+maniaco	O
+con	O
+síntomas	O
+psicóticos	O
+.	O

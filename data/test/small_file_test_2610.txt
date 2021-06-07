@@ -1,0 +1,26 @@
+
+Al	O
+alta	O
+queda	O
+citado	O
+en	O
+consultas	O
+de	O
+Oncología	O
+Médica	O
+,	O
+donde	O
+tras	O
+ser	O
+evaluado	O
+el	O
+caso	O
+en	O
+Sesión	O
+Interdisciplinaria	O
+se	O
+propone	O
+tratamiento	O
+con	O
+quimiorradioterapia	O
+.	O

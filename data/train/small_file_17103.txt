@@ -1,0 +1,24 @@
+
+Imagen	O
+de	O
+la	O
+resonancia	O
+magnética	O
+en	O
+secuencia	O
+T2	O
+-	O
+FLAIR	O
+,	O
+en	O
+la	O
+que	O
+se	O
+observa	O
+hiperintensidad	O
+bitalámica	O
+correspondiente	O
+con	O
+infarto	O
+venoso	O
+.	O

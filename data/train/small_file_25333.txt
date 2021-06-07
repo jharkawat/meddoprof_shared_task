@@ -1,0 +1,10 @@
+
+Presenta	O
+enuresis	O
+y	O
+encopresis	O
+tanto	O
+diurna	O
+como	O
+nocturna	O
+.	O

@@ -1,0 +1,13 @@
+
+A	O
+la	O
+exploración	O
+no	O
+se	O
+identificaron	O
+residuos	O
+metálicos	O
+en	O
+este	O
+trayecto	O
+.	O

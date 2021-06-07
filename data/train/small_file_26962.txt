@@ -1,0 +1,8 @@
+
+Adecuado	O
+contacto	O
+ocular	O
+durante	O
+las	O
+entrevistas	O
+.	O

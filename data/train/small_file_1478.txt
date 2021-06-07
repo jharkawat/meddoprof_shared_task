@@ -1,0 +1,21 @@
+
+Se	O
+describen	O
+cambios	O
+de	O
+enfisema	O
+y	O
+acúmulos	O
+intraalveolares	O
+de	O
+histiocitos	O
+con	O
+fina	O
+pigmentación	O
+parduzca	O
+citoplasmática	O
+,	O
+asociados	O
+a	O
+neumocitoshiperplásicos	O
+.	O

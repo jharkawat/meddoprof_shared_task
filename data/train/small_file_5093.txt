@@ -1,0 +1,15 @@
+
+Dolor	O
+a	O
+la	O
+palpación	O
+de	O
+apófisis	O
+espinosas	O
+lumbares	O
+sin	O
+irradiación	O
+por	O
+miembros	O
+inferiores	O
+.	O

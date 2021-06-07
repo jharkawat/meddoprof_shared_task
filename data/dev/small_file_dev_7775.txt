@@ -1,0 +1,27 @@
+
+En	O
+Urgencias	O
+se	O
+realiza	O
+una	O
+analítica	O
+de	O
+sangre	O
+donde	O
+destaca	O
+en	O
+el	O
+hemograma	O
+una	O
+plaquetopenia	O
+de	O
+40	O
+.	O
+000	O
+con	O
+resto	O
+de	O
+las	O
+series	O
+normales	O
+.	O

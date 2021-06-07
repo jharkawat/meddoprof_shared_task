@@ -1,0 +1,7 @@
+
+Trabaja	O
+como	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+enfermeria	I-PROFESION
+.	O

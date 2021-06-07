@@ -1,0 +1,6 @@
+
+No	O
+disfagia	O
+ni	O
+disnea	O
+.	O

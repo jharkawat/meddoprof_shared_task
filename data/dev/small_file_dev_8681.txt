@@ -1,0 +1,27 @@
+
+Se	O
+remite	O
+de	O
+nuevo	O
+a	O
+ORL	O
+para	O
+limpieza	O
+quirúrgica	O
+y	O
+toma	O
+de	O
+muestras	O
+para	O
+estudio	O
+microbiológico	O
+y	O
+el	O
+paciente	O
+no	O
+vuelve	O
+a	O
+consulta	O
+hasta	O
+2015	O
+.	O

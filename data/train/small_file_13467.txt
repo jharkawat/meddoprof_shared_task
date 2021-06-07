@@ -1,0 +1,11 @@
+
+Persistencia	O
+pese	O
+a	O
+tratamiento	O
+antidiarreico	O
+y	O
+tratamiento	O
+antibiótico	O
+empírico	O
+.	O

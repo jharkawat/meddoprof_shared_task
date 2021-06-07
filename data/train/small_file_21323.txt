@@ -1,0 +1,15 @@
+
+También	O
+en	O
+Barcelona	O
+,	O
+estuvo	O
+asistiendo	O
+a	O
+la	O
+consulta	O
+de	O
+un	O
+médico	B-PROFESION
+homeópata	I-PROFESION
+.	O

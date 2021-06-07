@@ -1,0 +1,6 @@
+
+Se	O
+pautó	O
+psicoterapia	O
+individual	O
+.	O

@@ -1,0 +1,13 @@
+
+Tumor	O
+adrenocortical	O
+izquierdo	O
+hipersecretor	O
+de	O
+cortisol	O
+con	O
+características	O
+radiológicas	O
+de	O
+malignidad	O
+.	O

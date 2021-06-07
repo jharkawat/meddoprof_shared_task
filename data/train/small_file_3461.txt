@@ -1,0 +1,7 @@
+
+No	O
+refiere	O
+seguir	O
+ningún	O
+tratamiento	O
+.	O

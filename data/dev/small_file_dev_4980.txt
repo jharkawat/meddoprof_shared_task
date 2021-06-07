@@ -1,0 +1,21 @@
+
+Abdomen	O
+:	O
+blando	O
+,	O
+depresible	O
+,	O
+doloroso	O
+a	O
+nivel	O
+de	O
+hipogastrio	O
+y	O
+FII	O
+,	O
+con	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+.	O

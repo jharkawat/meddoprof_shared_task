@@ -1,0 +1,13 @@
+
+Endocarditis	O
+sobre	O
+válvula	O
+aórtica	O
+por	O
+Tropheryma	O
+whipplei	O
+con	O
+insuficiencia	O
+aórtica	O
+moderada	O
+.	O

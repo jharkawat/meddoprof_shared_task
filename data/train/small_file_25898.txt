@@ -1,0 +1,20 @@
+
+PSICOPATOLOGÍA	O
+:	O
+sintomatología	O
+positiva	O
+siempre	O
+presente	O
+(	O
+alucinaciones	O
+auditivas	O
+,	O
+imperativas	O
+y	O
+autolesivas	O
+con	O
+ideación	O
+de	O
+perjuicio	O
+)	O
+.	O

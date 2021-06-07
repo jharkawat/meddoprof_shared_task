@@ -1,0 +1,11 @@
+
+Hacía	O
+13	O
+años	O
+que	O
+trabajaba	B-PROFESION
+en	I-PROFESION
+su	I-PROFESION
+actual	I-PROFESION
+empresa	I-PROFESION
+.	O

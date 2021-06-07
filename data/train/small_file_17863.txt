@@ -1,0 +1,11 @@
+
+Síndrome	O
+de	O
+abstinencia	O
+de	O
+opiáceos	O
+cursando	O
+como	O
+distonía	O
+aguda	O
+.	O

@@ -1,0 +1,4 @@
+
+Parvovirus	O
+positivo	O
+.	O

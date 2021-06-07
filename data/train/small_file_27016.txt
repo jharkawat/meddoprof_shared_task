@@ -1,0 +1,15 @@
+
+Su	O
+padre	O
+,	O
+de	O
+66	O
+años	O
+,	O
+esta	O
+prejubilado	B-SITUACION_LABORAL
+desde	O
+los	O
+59	O
+años	O
+.	O

@@ -1,0 +1,21 @@
+
+Motivo	O
+de	O
+consulta	O
+:	O
+El	O
+paciente	O
+fue	O
+llevado	O
+a	O
+la	O
+sala	O
+de	O
+emergencias	O
+de	O
+psiquiatría	O
+por	O
+una	O
+asistente	B-PROFESION
+social	I-PROFESION
+.	O

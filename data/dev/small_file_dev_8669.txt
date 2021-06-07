@@ -1,0 +1,16 @@
+
+Antiestreptolisina	O
+55	O
+U	O
+/	O
+mL	O
+,	O
+Factor	O
+Reumatoide	O
+9	O
+,	O
+7	O
+U	O
+/	O
+mL	O
+.	O

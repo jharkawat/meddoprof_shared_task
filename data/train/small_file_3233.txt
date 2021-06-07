@@ -1,0 +1,9 @@
+
+Buen	O
+apoyo	O
+familiar	O
+y	O
+adecuadas	O
+relaciones	O
+sociales	O
+.	O

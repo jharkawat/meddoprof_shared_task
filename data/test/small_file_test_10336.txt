@@ -1,0 +1,10 @@
+
+A	O
+nivel	O
+otorrinolaringológico	O
+,	O
+no	O
+presentó	O
+adenopatías	O
+palpables	O
+.	O

@@ -1,0 +1,21 @@
+
+El	O
+17	O
+de	O
+abril	O
+se	O
+realizó	O
+nueva	O
+PCR	O
+de	O
+SARS	O
+-	O
+CoV	O
+-	O
+2	O
+,	O
+que	O
+continúa	O
+siendo	O
+positiva	O
+.	O

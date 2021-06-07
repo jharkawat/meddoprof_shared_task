@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+no	O
+refería	O
+molestias	O
+urinarias	O
+ni	O
+otra	O
+sintomatología	O
+.	O

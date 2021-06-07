@@ -1,0 +1,15 @@
+
+Serología	O
+hepatitis	O
+,	O
+influenza	O
+,	O
+mononucleosis	O
+,	O
+herpes	O
+:	O
+Influenza	O
+B	O
+IgM	O
+positivo	O
+.	O

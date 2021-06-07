@@ -1,0 +1,12 @@
+
+Dificultad	O
+para	O
+concentrarse	O
+en	O
+cualquier	O
+tarea	O
+que	O
+con	O
+dificultad	O
+emprende	O
+.	O

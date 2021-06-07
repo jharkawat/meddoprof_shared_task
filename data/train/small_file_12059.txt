@@ -1,0 +1,21 @@
+
+Esto	O
+origina	O
+una	O
+insuficiencia	O
+cardiaca	O
+derecha	O
+con	O
+taponamiento	O
+cardiaco	O
+,	O
+hipertensión	O
+venosa	O
+,	O
+necrosis	O
+tubular	O
+aguda	O
+y	O
+congestión	O
+hepática	O
+.	O

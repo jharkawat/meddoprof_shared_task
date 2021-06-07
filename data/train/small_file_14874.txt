@@ -1,0 +1,27 @@
+
+Había	O
+presentado	O
+así	O
+mismo	O
+un	O
+episodio	O
+aislado	O
+de	O
+fiebre	O
+de	O
+hasta	O
+38oC	O
+sin	O
+foco	O
+claro	O
+que	O
+había	O
+cedido	O
+tras	O
+la	O
+administración	O
+de	O
+amoxicilina	O
+-	O
+clavulánico	O
+.	O

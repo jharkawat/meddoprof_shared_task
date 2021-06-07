@@ -1,0 +1,14 @@
+
+Junto	O
+a	O
+pansinusitis	O
+de	O
+ambos	O
+senos	O
+maxilares	O
+,	O
+frontales	O
+y	O
+etmoidal	O
+izquierdo	O
+.	O

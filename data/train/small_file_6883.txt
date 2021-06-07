@@ -1,0 +1,18 @@
+
+Minociclina	O
+100	O
+mg	O
+cada	O
+24	O
+horas	O
+durante	O
+3	O
+meses	O
+,	O
+con	O
+las	O
+indicaciones	O
+y	O
+precauciones	O
+oportunas	O
+.	O

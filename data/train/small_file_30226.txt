@@ -1,0 +1,10 @@
+
+Esquizofrenia	O
+paranoide	O
+y	O
+trastorno	O
+límite	O
+de	O
+la	O
+personalidad	O
+.	O

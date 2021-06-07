@@ -1,0 +1,10 @@
+
+Calendario	O
+vacunal	O
+reglado	O
+,	O
+sin	O
+incluir	O
+vacuna	O
+antineumocócica	O
+.	O

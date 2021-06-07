@@ -1,0 +1,20 @@
+
+Previamente	O
+se	O
+han	O
+ensayado	O
+varios	O
+tratamientos	O
+(	O
+aripiprazol	O
+y	O
+risperidona	O
+inyectables	O
+)	O
+que	O
+ha	O
+abandonado	O
+por	O
+efectos	O
+secundarios	O
+.	O

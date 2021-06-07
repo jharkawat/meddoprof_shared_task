@@ -1,0 +1,8 @@
+
+Trombosis	O
+parcial	O
+de	O
+ART	O
+femoral	O
+izquierda	O
+.	O

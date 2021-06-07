@@ -1,0 +1,17 @@
+
+No	O
+ha	O
+asociado	O
+problemas	O
+con	O
+otros	O
+materiales	O
+textiles	O
+,	O
+trajes	O
+húmedos	O
+,	O
+calzado	O
+o	O
+peluquería	O
+.	O

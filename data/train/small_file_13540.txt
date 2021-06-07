@@ -1,0 +1,11 @@
+
+Antecedentes	O
+:	O
+No	O
+enfermedades	O
+médico	O
+-	O
+quirúrgicas	O
+de	O
+interés	O
+.	O

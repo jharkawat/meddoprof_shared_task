@@ -1,0 +1,25 @@
+
+Refiere	O
+haber	O
+sido	O
+objeto	O
+de	O
+burlas	O
+y	O
+rechazo	O
+de	O
+sus	O
+compañeros	B-SITUACION_LABORAL
+desde	O
+la	O
+infancia	O
+,	O
+que	O
+se	O
+han	O
+agravado	O
+en	O
+los	O
+últimos	O
+meses	O
+.	O

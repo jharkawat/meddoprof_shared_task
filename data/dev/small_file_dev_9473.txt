@@ -1,0 +1,8 @@
+
+Ligero	O
+derrame	O
+pericárdico	O
+lateral	O
+7	O
+mm	O
+.	O

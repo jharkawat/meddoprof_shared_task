@@ -1,0 +1,13 @@
+
+No	O
+quiso	O
+sentarse	O
+y	O
+se	O
+puso	O
+a	O
+correr	O
+por	O
+el	O
+SU	O
+.	O

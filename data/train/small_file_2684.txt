@@ -1,0 +1,5 @@
+
+No	O
+clara	O
+espasticidad	O
+.	O

@@ -1,0 +1,20 @@
+
+En	O
+este	O
+,	O
+apareció	O
+una	O
+sombra	O
+y	O
+le	O
+prescribieron	O
+una	O
+resonancia	O
+,	O
+que	O
+dio	O
+positiva	O
+a	O
+carcinoma	O
+cerebral	O
+.	O

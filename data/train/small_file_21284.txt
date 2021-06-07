@@ -1,0 +1,16 @@
+
+El	O
+sujeto	O
+cuenta	O
+con	O
+una	O
+capacidad	O
+intelectual	O
+limitada	O
+,	O
+con	O
+serias	O
+dificultades	O
+para	O
+relacionarse	O
+.	O

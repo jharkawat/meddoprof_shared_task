@@ -1,0 +1,27 @@
+
+También	O
+está	O
+contento	O
+con	O
+el	O
+voluntariado	O
+ya	O
+que	O
+expresa	O
+que	O
+se	O
+siente	O
+bien	O
+y	O
+cómodo	O
+al	O
+poder	O
+realizar	O
+esta	O
+actividad	O
+de	O
+ayuda	O
+a	O
+los	O
+animales	O
+.	O

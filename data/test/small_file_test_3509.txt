@@ -1,0 +1,25 @@
+
+Como	O
+toxicidades	O
+reseñables	O
+al	O
+inicio	O
+del	O
+tratamiento	O
+pesentó	O
+neuropatía	O
+grado	O
+1	O
+,	O
+astenia	O
+grado	O
+1	O
+,	O
+anemia	O
+grado	O
+1	O
+y	O
+diarrea	O
+grado	O
+2	O
+.	O

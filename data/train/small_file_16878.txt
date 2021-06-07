@@ -1,0 +1,19 @@
+
+Fue	O
+dada	O
+de	O
+alta	O
+con	O
+el	O
+diagnóstico	O
+de	O
+una	O
+posible	O
+migraña	O
+y	O
+tratamiento	O
+con	O
+antiinflamatorios	O
+no	O
+esteroideos	O
+.	O

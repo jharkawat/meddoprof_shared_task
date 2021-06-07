@@ -1,0 +1,20 @@
+
+Ingresó	O
+en	O
+observación	O
+para	O
+determinación	O
+seriada	O
+de	O
+marcadores	O
+hepáticos	O
+y	O
+estudio	O
+de	O
+virus	O
+hepatotropos	O
+que	O
+resultaron	O
+todos	O
+negativos	O
+.	O

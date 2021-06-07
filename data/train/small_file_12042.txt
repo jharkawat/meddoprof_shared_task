@@ -1,0 +1,13 @@
+
+El	O
+resto	O
+de	O
+órganos	O
+y	O
+vísceras	O
+no	O
+presentaba	O
+alteraciones	O
+histológicas	O
+significativas	O
+.	O

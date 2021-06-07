@@ -1,0 +1,20 @@
+
+Incapacitado	B-SITUACION_LABORAL
+para	O
+el	O
+manejo	O
+de	O
+sus	O
+bienes	O
+,	O
+es	O
+tutelado	B-SITUACION_LABORAL
+por	O
+la	O
+Fundación	O
+que	O
+se	O
+encarga	O
+de	O
+ello	O
+.	O

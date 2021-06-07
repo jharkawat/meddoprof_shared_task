@@ -1,0 +1,21 @@
+
+Paresia	O
+de	O
+la	O
+mirada	O
+conjugada	O
+hacia	O
+la	O
+izquierda	O
+(	O
+no	O
+realiza	O
+abducción	O
+ojo	O
+izquierdo	O
+ni	O
+adducción	O
+del	O
+derecho	O
+)	O
+.	O

@@ -1,0 +1,20 @@
+
+Su	O
+contacto	O
+ha	O
+mejorado	O
+mucho	O
+(	O
+ratificado	O
+por	O
+la	O
+familia	O
+,	O
+que	O
+le	O
+ve	O
+ya	O
+casi	O
+recuperado	O
+)	O
+.	O

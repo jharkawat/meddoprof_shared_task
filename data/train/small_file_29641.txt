@@ -1,0 +1,15 @@
+
+Lo	O
+tolera	O
+bien	O
+y	O
+aprecia	O
+la	O
+mejoría	O
+con	O
+el	O
+pequeño	O
+incremento	O
+del	O
+antipsicótico	O
+.	O

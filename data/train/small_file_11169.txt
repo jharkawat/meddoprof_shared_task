@@ -1,0 +1,21 @@
+
+Abdomen	O
+;	O
+blando	O
+,	O
+depresible	O
+,	O
+no	O
+doloroso	O
+,	O
+sin	O
+masas	O
+ni	O
+megalias	O
+,	O
+no	O
+signos	O
+agudos	O
+de	O
+peritonismo	O
+.	O

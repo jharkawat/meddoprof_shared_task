@@ -1,0 +1,27 @@
+
+Aparece	O
+una	O
+trombosis	O
+venosa	O
+profunda	O
+de	O
+la	O
+poplítea	O
+derecha	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+inicia	O
+tratamiento	O
+con	O
+heparina	O
+de	O
+bajo	O
+peso	O
+molecular	O
+a	O
+dosis	O
+descoagulante	O
+.	O

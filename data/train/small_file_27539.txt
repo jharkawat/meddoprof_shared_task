@@ -1,0 +1,5 @@
+
+Ser	O
+más	O
+sociable	O
+.	O

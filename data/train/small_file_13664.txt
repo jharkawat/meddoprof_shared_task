@@ -1,0 +1,19 @@
+
+Por	O
+ello	O
+,	O
+se	O
+solicita	O
+un	O
+PET	O
+-	O
+TAC	O
+pero	O
+dicha	O
+petición	O
+fue	O
+denegada	O
+en	O
+dos	O
+ocasiones	O
+.	O

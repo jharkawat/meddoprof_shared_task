@@ -1,0 +1,5 @@
+
+BOC	O
+:	O
+negativas	O
+.	O

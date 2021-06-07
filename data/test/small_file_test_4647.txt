@@ -1,0 +1,15 @@
+
+La	O
+biopsia	O
+programada	O
+hubo	O
+de	O
+posponerse	O
+por	O
+intolerancia	O
+del	O
+paciente	O
+a	O
+la	O
+exploración	O
+.	O

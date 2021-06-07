@@ -1,0 +1,13 @@
+
+En	O
+la	O
+TC	O
+craneal	O
+de	O
+control	O
+han	O
+desaparecido	O
+las	O
+colecciones	O
+subdurales	O
+.	O

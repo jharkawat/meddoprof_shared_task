@@ -1,0 +1,10 @@
+
+Antecedentes	O
+médicos	O
+:	O
+RAM	O
+:	O
+cefuroxima	O
+y	O
+claritromicina	O
+.	O

@@ -1,0 +1,23 @@
+
+El	O
+resto	O
+de	O
+iones	O
+se	O
+encontraban	O
+en	O
+rango	O
+de	O
+la	O
+normalidad	O
+:	O
+sodio	O
+137	O
+mEq	O
+/	O
+l	O
+,	O
+potasio	O
+de	O
+3	O
+.	O

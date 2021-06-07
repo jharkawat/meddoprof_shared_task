@@ -1,0 +1,6 @@
+
+C3	O
+y	O
+C4	O
+normales	O
+.	O

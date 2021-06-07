@@ -1,0 +1,8 @@
+
+Presenta	O
+un	O
+discurso	O
+adecuado	O
+y	O
+coherente	O
+.	O

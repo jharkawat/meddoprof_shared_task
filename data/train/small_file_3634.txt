@@ -1,0 +1,11 @@
+
+Antecedentes	O
+personales	O
+:	O
+Cáncer	O
+de	O
+mama	O
+intervenido	O
+en	O
+2000	O
+.	O

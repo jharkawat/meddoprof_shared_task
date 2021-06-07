@@ -1,0 +1,15 @@
+
+Patrón	O
+compatible	O
+con	O
+Linfangitis	O
+carcinomatosa	O
+en	O
+ambos	O
+lóbulos	O
+superiores	O
+,	O
+sobre	O
+todo	O
+derecho	O
+.	O

@@ -1,0 +1,12 @@
+
+Examen	O
+neurológico	O
+:	O
+no	O
+se	O
+aprecian	O
+alteraciones	O
+ni	O
+focalidades	O
+groseras	O
+.	O

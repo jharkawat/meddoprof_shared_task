@@ -1,0 +1,10 @@
+
+Test	O
+de	O
+supresión	O
+de	O
+cortisol	O
+con	O
+dexametasona	O
+negativo	O
+.	O

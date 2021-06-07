@@ -1,0 +1,8 @@
+
+Síndrome	O
+delirante	O
+alucinatorio	O
+de	O
+origen	O
+farmacológico	O
+.	O

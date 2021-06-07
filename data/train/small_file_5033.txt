@@ -1,0 +1,7 @@
+
+No	O
+refiere	O
+cortejo	O
+vegetativo	O
+asociado	O
+.	O

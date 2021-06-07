@@ -1,0 +1,11 @@
+
+No	O
+acudió	O
+a	O
+la	O
+última	O
+cita	O
+en	O
+el	O
+equipo	B-PROFESION
+.	O

@@ -1,0 +1,5 @@
+
+No	O
+traumatismos	O
+craneoencefálicos	O
+.	O

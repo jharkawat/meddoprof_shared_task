@@ -1,0 +1,10 @@
+
+En	O
+controles	O
+posteriores	O
+,	O
+el	O
+paciente	O
+continuaba	O
+asintomático	O
+.	O

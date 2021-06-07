@@ -1,0 +1,20 @@
+
+A	O
+los	O
+cinco	O
+años	O
+,	O
+la	O
+familia	O
+se	O
+fue	O
+a	O
+vivir	O
+a	O
+Francia	O
+y	O
+se	O
+instaló	O
+en	O
+Montpellier	O
+.	O

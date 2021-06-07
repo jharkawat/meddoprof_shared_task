@@ -1,0 +1,8 @@
+
+Varón	O
+de	O
+43	O
+años	O
+de	O
+edad	O
+.	O

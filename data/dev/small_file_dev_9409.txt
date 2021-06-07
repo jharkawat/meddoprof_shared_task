@@ -1,0 +1,14 @@
+
+Auscultación	O
+cardiaca	O
+:	O
+rítmico	O
+,	O
+soplo	O
+diastólico	O
+paraesternal	O
+izquierdo	O
+IV	O
+/	O
+VI	O
+.	O

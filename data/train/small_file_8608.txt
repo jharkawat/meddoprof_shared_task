@@ -1,0 +1,13 @@
+
+No	O
+consumo	O
+de	O
+productos	O
+no	O
+higienizados	O
+,	O
+no	O
+contacto	O
+con	O
+animales	O
+.	O

@@ -1,0 +1,25 @@
+
+Colombia	O
+:	O
+hepatitis	O
+A	O
+y	O
+B	O
+,	O
+Dengue	O
+,	O
+fiebres	O
+entéricas	O
+,	O
+leishmaniosis	O
+,	O
+amebiasis	O
+y	O
+parasitosis	O
+,	O
+destacando	O
+malaria	O
+y	O
+babesiosis	O
+principalmente	O
+.	O

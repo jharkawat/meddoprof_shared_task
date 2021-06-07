@@ -1,0 +1,22 @@
+
+El	O
+29	O
+de	O
+febrero	O
+de	O
+2012	O
+se	O
+realiza	O
+cistoprostatetcomía	O
+radical	O
+con	O
+linfadenecotmía	O
+iliaco	O
+obturatriz	O
+bilateral	O
+y	O
+derivación	O
+urinaria	O
+tipo	O
+Bricker	O
+.	O

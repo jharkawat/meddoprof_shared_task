@@ -1,0 +1,14 @@
+
+No	O
+se	O
+observan	O
+realces	O
+leptomeníngeos	O
+que	O
+sugieran	O
+la	O
+presencia	O
+de	O
+carcinomatosis	O
+asociada	O
+.	O

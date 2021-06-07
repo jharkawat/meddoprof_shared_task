@@ -1,0 +1,14 @@
+
+Durante	O
+su	O
+seguimiento	O
+,	O
+el	O
+paciente	O
+no	O
+ha	O
+presentado	O
+nuevas	O
+recidivas	O
+tumorales	O
+.	O

@@ -1,0 +1,17 @@
+
+Ingresa	O
+en	O
+planta	O
+de	O
+Medicina	O
+Interna	O
+con	O
+el	O
+diagnóstico	O
+de	O
+celulitis	O
+en	O
+miembro	O
+inferior	O
+derecho	O
+.	O

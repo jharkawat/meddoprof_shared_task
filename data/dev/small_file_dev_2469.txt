@@ -1,0 +1,9 @@
+
+Responde	O
+a	O
+nuestras	O
+preguntas	O
+con	O
+monosílabos	O
+repetitivos	O
+.	O

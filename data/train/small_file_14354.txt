@@ -1,0 +1,9 @@
+
+Se	O
+solicitó	O
+HLA	O
+B51	O
+que	O
+fue	O
+positivo	O
+.	O

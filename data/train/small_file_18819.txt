@@ -1,0 +1,11 @@
+
+Las	O
+actividades	O
+le	O
+sirven	O
+para	O
+sentirse	O
+integrada	O
+en	O
+algo	O
+.	O

@@ -1,0 +1,17 @@
+
+En	O
+la	O
+ecografía	O
+pulmonar	O
+se	O
+observó	O
+un	O
+patrón	O
+de	O
+líneas	O
+B	O
+a	O
+nivel	O
+paraesternal	O
+derecho	O
+.	O

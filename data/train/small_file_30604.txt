@@ -1,0 +1,27 @@
+
+Aspecto	O
+atlético	O
+,	O
+delgado	O
+,	O
+buen	O
+contacto	O
+visual	O
+.	O
+Utiliza	O
+un	O
+lenguaje	O
+pseudofilosófico	O
+,	O
+cargado	O
+de	O
+tecnicismos	O
+,	O
+con	O
+latencia	O
+de	O
+respuesta	O
+y	O
+bloqueos	O
+ocasionales	O
+.	O

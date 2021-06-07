@@ -1,0 +1,26 @@
+
+Dado	O
+el	O
+diagnóstico	O
+de	O
+infección	O
+por	O
+el	O
+VIH	O
+,	O
+se	O
+inició	O
+tratamiento	O
+antirretroviral	O
+con	O
+cobertura	O
+para	O
+el	O
+VHB	O
+con	O
+raltegravir	O
+,	O
+emtricitabina	O
+y	O
+tenofovir	O
+.	O

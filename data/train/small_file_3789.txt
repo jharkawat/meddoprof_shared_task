@@ -1,0 +1,24 @@
+
+Desde	O
+hace	O
+un	O
+mes	O
+presenta	O
+fiebre	O
+de	O
+hasta	O
+38	O
+,	O
+2oC	O
+que	O
+se	O
+acompaña	O
+de	O
+mialgias	O
+,	O
+cefalea	O
+y	O
+mal	O
+estado	O
+general	O
+.	O

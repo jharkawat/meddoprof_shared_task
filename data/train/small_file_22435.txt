@@ -1,0 +1,14 @@
+
+Al	O
+alta	O
+hospitalaria	O
+,	O
+se	O
+instaura	O
+tratamiento	O
+con	O
+agomelatina	O
+25mg	O
+/	O
+d	O
+.	O

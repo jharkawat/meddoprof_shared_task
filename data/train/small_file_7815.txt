@@ -1,0 +1,10 @@
+
+El	O
+tratamiento	O
+prescrito	O
+por	O
+parte	O
+del	O
+facultativo	B-PROFESION
+es	O
+:	O

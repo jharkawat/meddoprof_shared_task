@@ -1,0 +1,17 @@
+
+Ecocardiografía	O
+:	O
+Estudio	O
+dentro	O
+de	O
+la	O
+normalidad	O
+sin	O
+signos	O
+de	O
+patología	O
+derecha	O
+ni	O
+de	O
+suprahepáticas	O
+.	O

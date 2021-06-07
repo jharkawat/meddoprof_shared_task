@@ -1,0 +1,13 @@
+
+Se	O
+objetiva	O
+pérdida	O
+de	O
+fuerza	O
+4	O
+/	O
+5	O
+en	O
+musculatura	O
+proximal	O
+.	O

@@ -1,0 +1,26 @@
+
+Durante	O
+el	O
+ingreso	O
+,	O
+presenta	O
+analítica	O
+de	O
+sangre	O
+normal	O
+(	O
+incluido	O
+hemograma	O
+con	O
+morfología	O
+de	O
+sangre	O
+periférica	O
+y	O
+poblaciones	O
+,	O
+bioquímica	O
+y	O
+coagulación	O
+)	O
+.	O

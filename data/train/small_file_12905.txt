@@ -1,0 +1,20 @@
+
+Lesión	O
+focal	O
+hiperintensa	O
+de	O
+1	O
+,	O
+15cm	O
+de	O
+longitud	O
+en	O
+la	O
+médula	O
+espinal	O
+a	O
+la	O
+altura	O
+de	O
+C4C5	O
+.	O

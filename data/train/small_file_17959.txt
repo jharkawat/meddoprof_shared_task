@@ -1,0 +1,11 @@
+
+Hermana	O
+fallecida	O
+en	O
+edad	O
+neonatal	O
+por	O
+cardiopatía	O
+no	O
+especificada	O
+.	O

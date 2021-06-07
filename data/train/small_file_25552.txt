@@ -1,0 +1,17 @@
+
+El	O
+electroencefalograma	O
+(	O
+EEG	O
+)	O
+y	O
+la	O
+tomografía	O
+computarizada	O
+(	O
+TC	O
+)	O
+craneal	O
+resultaron	O
+normales	O
+.	O

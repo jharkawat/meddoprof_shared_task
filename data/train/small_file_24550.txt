@@ -1,0 +1,14 @@
+
+Vive	O
+con	O
+su	O
+marido	O
+y	O
+su	O
+hija	O
+de	O
+veinte	O
+años	O
+de	O
+edad	O
+.	O

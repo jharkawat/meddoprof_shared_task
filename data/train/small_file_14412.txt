@@ -1,0 +1,12 @@
+
+PCR	O
+en	O
+niveles	O
+entre	O
+12	O
+-	O
+20	O
+mg	O
+/	O
+dl	O
+.	O

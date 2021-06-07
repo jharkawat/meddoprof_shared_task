@@ -1,0 +1,13 @@
+
+Consume	O
+alcohol	O
+esporádicamente	O
+,	O
+usuaria	O
+de	O
+cachimba	O
+,	O
+niega	O
+otros	O
+tóxicos	O
+.	O

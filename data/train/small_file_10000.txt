@@ -1,0 +1,10 @@
+
+Ingresa	O
+por	O
+astenia	O
+intensa	O
+y	O
+marcada	O
+palidez	O
+cutánea	O
+.	O

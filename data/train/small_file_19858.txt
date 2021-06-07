@@ -1,0 +1,12 @@
+
+-	O
+Fractura	O
+vertebra	O
+,	O
+vertebral	O
+lumbar	O
+[	O
+805	O
+.	O
+4	O
+]	O

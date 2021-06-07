@@ -1,0 +1,6 @@
+
+No	O
+refiere	O
+traumatismo	O
+craneal	O
+.	O

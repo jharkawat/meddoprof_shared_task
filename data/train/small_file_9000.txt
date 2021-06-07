@@ -1,0 +1,23 @@
+
+Su	O
+pareja	O
+se	O
+lo	O
+encuentra	O
+inconsciente	O
+en	O
+la	O
+ban	O
+̃	O
+era	O
+,	O
+pero	O
+se	O
+recupera	O
+de	O
+forma	O
+espontánea	O
+en	O
+unos	O
+segundos	O
+.	O

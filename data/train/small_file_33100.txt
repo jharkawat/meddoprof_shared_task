@@ -1,0 +1,15 @@
+
+Posterior	O
+a	O
+este	O
+episodio	O
+,	O
+la	O
+paciente	O
+se	O
+recuperó	O
+manteniendo	O
+la	O
+estabilidad	O
+afectiva	O
+.	O

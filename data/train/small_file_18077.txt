@@ -1,0 +1,12 @@
+
+Mujer	O
+de	O
+45	O
+años	O
+,	O
+sin	O
+antecedentes	O
+oftalmológicos	O
+de	O
+interés	O
+.	O

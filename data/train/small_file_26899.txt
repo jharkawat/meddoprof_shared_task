@@ -1,0 +1,21 @@
+
+Describe	O
+un	O
+episodio	O
+en	O
+el	O
+que	O
+dio	O
+un	O
+golpe	O
+al	O
+armario	O
+como	O
+forma	O
+de	O
+liberar	O
+la	O
+rabia	O
+que	O
+sentía	O
+.	O

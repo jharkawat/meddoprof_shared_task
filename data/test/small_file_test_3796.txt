@@ -1,0 +1,23 @@
+
+Alteración	O
+de	O
+la	O
+grasa	O
+perilesional	O
+y	O
+pérdida	O
+de	O
+planos	O
+grasos	O
+de	O
+separación	O
+con	O
+musculatura	O
+de	O
+pared	O
+(	O
+recto	O
+anterior	O
+izquierdo	O
+)	O
+.	O

@@ -1,0 +1,17 @@
+
+Asocia	O
+una	O
+astenia	O
+y	O
+miopatía	O
+corticoidea	O
+con	O
+reducción	O
+de	O
+la	O
+movilidad	O
+y	O
+necesidad	O
+de	O
+andador	O
+.	O

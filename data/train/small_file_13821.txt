@@ -1,0 +1,24 @@
+
+Estudiante	B-SITUACION_LABORAL
+,	O
+origen	O
+magrebí	O
+sin	O
+viajes	O
+fuera	O
+de	O
+España	O
+desde	O
+hacía	O
+años	O
+;	O
+negaba	O
+relaciones	O
+sexuales	O
+ni	O
+otros	O
+datos	O
+epidemiológicos	O
+de	O
+interés	O
+.	O

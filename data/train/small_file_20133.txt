@@ -1,0 +1,25 @@
+
+Molero	O
+se	O
+había	O
+sentido	O
+muy	O
+próximo	O
+a	O
+su	O
+maltrecho	O
+hijo	O
+y	O
+quedó	O
+enseguida	O
+destrozado	O
+,	O
+como	O
+si	O
+la	O
+vida	O
+ya	O
+no	O
+tuviera	O
+sentido	O
+.	O

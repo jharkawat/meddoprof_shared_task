@@ -1,0 +1,25 @@
+
+Actualmente	O
+lleva	O
+13	O
+meses	O
+de	O
+supervivencia	O
+tras	O
+el	O
+diagnóstico	O
+,	O
+pendiente	O
+de	O
+valoración	O
+tras	O
+la	O
+radioterapia	O
+,	O
+para	O
+decisión	O
+de	O
+actitud	O
+a	O
+seguir	O
+.	O

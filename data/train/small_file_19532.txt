@@ -1,0 +1,15 @@
+
+IVSA	O
+:	O
+23	O
+años	O
+(	O
+con	O
+una	O
+prostituta	B-PROFESION
+)	O
+con	O
+uso	O
+de	O
+preservativo	O
+.	O

@@ -1,0 +1,12 @@
+
+Tras	O
+la	O
+estabilización	O
+del	O
+paciente	O
+pasa	O
+a	O
+camas	O
+de	O
+reanimación	O
+.	O

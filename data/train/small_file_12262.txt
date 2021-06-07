@@ -1,0 +1,11 @@
+
+Sin	O
+historia	O
+cardiológica	O
+previa	O
+ni	O
+antecedentes	O
+familiares	O
+de	O
+interés	O
+.	O

@@ -1,0 +1,26 @@
+
+Una	O
+semana	O
+más	O
+tarde	O
+se	O
+agregó	O
+sensación	O
+febril	O
+no	O
+cuantificada	O
+,	O
+compromiso	O
+del	O
+estado	O
+general	O
+,	O
+insomnio	O
+y	O
+dolor	O
+en	O
+ambas	O
+muñecas	O
+y	O
+rodillas	O
+.	O

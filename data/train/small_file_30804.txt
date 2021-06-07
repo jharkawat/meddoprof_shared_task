@@ -1,0 +1,15 @@
+
+Refería	O
+que	O
+podía	O
+escuchar	O
+cómo	O
+hablaba	O
+mal	O
+de	O
+ella	O
+y	O
+de	O
+su	O
+familia	O
+.	O

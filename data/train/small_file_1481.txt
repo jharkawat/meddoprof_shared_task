@@ -1,0 +1,12 @@
+
+Elena	O
+Gabilondo	O
+Larrañaga	O
+Médico	B-PROFESION
+Unidad	I-PROFESION
+Básica	I-PROFESION
+de	I-PROFESION
+Prevención	I-PROFESION
+del	O
+H	O
+.	O

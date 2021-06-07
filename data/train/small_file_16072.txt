@@ -1,0 +1,6 @@
+
+En	O
+tratamiento	O
+desde	O
+entonces	O
+.	O

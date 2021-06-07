@@ -1,0 +1,19 @@
+
+Presentaba	O
+elevación	O
+de	O
+enzimas	O
+cardiacas	O
+(	O
+troponinas	O
+)	O
+y	O
+fue	O
+valorada	O
+por	O
+Cardiología	O
+y	O
+se	O
+realizó	O
+electrocardiograma	O
+.	O

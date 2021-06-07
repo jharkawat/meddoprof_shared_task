@@ -1,0 +1,27 @@
+
+Durante	O
+un	O
+período	O
+breve	O
+antes	O
+del	O
+fallecimiento	O
+de	O
+sus	O
+padres	O
+acudió	O
+a	O
+un	O
+médico	B-PROFESION
+naturista	I-PROFESION
+que	O
+trataba	O
+también	O
+a	O
+su	O
+madre	O
+con	O
+homeopatía	O
+y	O
+masajes	O
+.	O

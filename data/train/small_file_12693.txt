@@ -1,0 +1,14 @@
+
+A	O
+la	O
+auscultación	O
+cardiaca	O
+:	O
+rítmica	O
+a	O
+120	O
+lpm	O
+,	O
+sin	O
+soplos	O
+.	O

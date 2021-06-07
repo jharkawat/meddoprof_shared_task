@@ -1,0 +1,4 @@
+
+Trastorno	O
+somatomorfo	O
+indiferenciado	O

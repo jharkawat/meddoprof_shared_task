@@ -1,0 +1,9 @@
+
+Sin	O
+clinica	O
+naso	O
+-	O
+ocular	O
+ni	O
+bronquial	O
+.	O

@@ -1,0 +1,18 @@
+
+Buen	O
+murmullo	O
+vesicular	O
+con	O
+roncus	O
+aislados	O
+parahiliares	O
+en	O
+hemitórax	O
+derecho	O
+y	O
+crepitantes	O
+leves	O
+en	O
+base	O
+izquierda	O
+.	O

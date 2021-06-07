@@ -1,0 +1,14 @@
+
+Dijo	O
+no	O
+tener	O
+otras	O
+alucinaciones	O
+,	O
+ni	O
+ideas	O
+de	O
+suicidio	O
+u	O
+homicidio	O
+.	O

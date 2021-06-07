@@ -1,0 +1,13 @@
+
+Discurso	O
+fluido	O
+,	O
+con	O
+alteraciones	O
+en	O
+forma	O
+y	O
+contenido	O
+del	O
+pensamiento	O
+.	O

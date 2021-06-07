@@ -1,0 +1,11 @@
+
+La	O
+paciente	O
+mide	O
+desde	O
+los	O
+15	O
+años	O
+173	O
+cm	O
+.	O

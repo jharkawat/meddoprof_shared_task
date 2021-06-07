@@ -1,0 +1,22 @@
+
+Consulta	O
+en	O
+el	O
+Servicio	O
+de	O
+Urgencias	O
+por	O
+cefalea	O
+holocraneal	O
+intensa	O
+e	O
+inestabilidad	O
+a	O
+la	O
+marcha	O
+de	O
+cuatro	O
+días	O
+de	O
+evolución	O
+.	O

@@ -1,0 +1,14 @@
+
+Crecimiento	O
+de	O
+una	O
+lesión	O
+hipervascular	O
+subcapsular	O
+del	O
+segmento	O
+III	O
+compatible	O
+con	O
+metástasis	O
+.	O

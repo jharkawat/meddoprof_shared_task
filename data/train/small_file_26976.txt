@@ -1,0 +1,9 @@
+
+Juicio	O
+de	O
+realidad	O
+acorde	O
+a	O
+su	O
+edad	O
+.	O

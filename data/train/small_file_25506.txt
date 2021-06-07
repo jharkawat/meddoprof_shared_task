@@ -1,0 +1,15 @@
+
+También	O
+ha	O
+estado	O
+en	O
+programas	O
+de	O
+reinserción	O
+y	O
+en	O
+un	O
+piso	O
+de	O
+estancia	O
+.	O

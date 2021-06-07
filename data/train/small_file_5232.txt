@@ -1,0 +1,13 @@
+
+En	O
+tratamiento	O
+domiciliario	O
+con	O
+Duloxetina	O
+30	O
+mg	O
+1	O
+comprimido	O
+al	O
+día	O
+.	O

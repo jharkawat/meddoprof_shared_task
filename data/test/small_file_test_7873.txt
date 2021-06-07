@@ -1,0 +1,27 @@
+
+Se	O
+solicitó	O
+una	O
+TC	O
+-	O
+TAP	O
+con	O
+contraste	O
+en	O
+el	O
+que	O
+se	O
+objetivó	O
+una	O
+gran	O
+masa	O
+retroperitoneal	O
+derecha	O
+de	O
+114	O
+x	O
+118	O
+x	O
+162	O
+mm	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+tiene	O
+antecedentes	O
+personales	O
+médicos	O
+de	O
+interés	O
+.	O

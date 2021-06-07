@@ -1,0 +1,21 @@
+
+La	O
+paciente	O
+continúa	O
+seguimiento	O
+en	O
+consultas	O
+externas	O
+de	O
+Oncología	O
+Médica	O
+con	O
+TC	O
+-	O
+TAP	O
+y	O
+analítica	O
+cada	O
+tres	O
+meses	O
+.	O

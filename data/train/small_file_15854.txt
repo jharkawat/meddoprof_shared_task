@@ -1,0 +1,17 @@
+
+Conjuntamente	O
+con	O
+Reumatología	O
+,	O
+se	O
+continuó	O
+tratamiento	O
+con	O
+tappering	O
+de	O
+prednisona	O
+hasta	O
+dosis	O
+de	O
+mantenimiento	O
+.	O

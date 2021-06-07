@@ -1,0 +1,8 @@
+
+-	O
+Trastorno	O
+psicótico	O
+inducido	O
+por	O
+cannabis	O
+.	O

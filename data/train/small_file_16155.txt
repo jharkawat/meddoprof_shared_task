@@ -1,0 +1,10 @@
+
+Fuerza	O
+global	O
+normal	O
+y	O
+segmentaria	O
+5	O
+/	O
+5	O
+.	O

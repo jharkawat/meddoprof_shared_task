@@ -1,0 +1,26 @@
+
+Ante	O
+esta	O
+situación	O
+de	O
+empeoramiento	O
+progresivo	O
+que	O
+no	O
+responde	O
+al	O
+tratamiento	O
+,	O
+se	O
+suspende	O
+la	O
+cirugía	O
+planeada	O
+y	O
+se	O
+decide	O
+limitación	O
+del	O
+esfuerzo	O
+terapéutico	O
+.	O

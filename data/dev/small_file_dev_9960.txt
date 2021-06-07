@@ -1,0 +1,15 @@
+
+DM	O
+tipo	O
+2	O
+con	O
+buen	O
+control	O
+(	O
+HbA1c	O
+6	O
+,	O
+5	O
+%	O
+)	O
+.	O

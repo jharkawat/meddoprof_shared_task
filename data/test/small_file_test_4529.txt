@@ -1,0 +1,20 @@
+
+Con	O
+fluoropirimidina	O
+en	O
+monoterapia	O
+el	O
+riesgo	O
+pasaba	O
+a	O
+un	O
+33	O
+,	O
+5	O
+%	O
+,	O
+reduciéndose	O
+un	O
+38	O
+%	O
+.	O

@@ -1,0 +1,7 @@
+
+Se	O
+ensaya	O
+olanzapina	O
+sin	O
+respuesta	O
+.	O

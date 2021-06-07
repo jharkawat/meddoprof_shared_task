@@ -1,0 +1,10 @@
+
+Su	O
+nuevo	O
+médico	B-PROFESION
+también	O
+se	O
+fue	O
+del	O
+país	O
+.	O

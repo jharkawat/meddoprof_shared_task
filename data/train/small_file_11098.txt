@@ -1,0 +1,12 @@
+
+Intervenciones	O
+:	O
+fractura	O
+peroné	O
+izquierdo	O
+,	O
+ligamento	O
+lateral	O
+interno	O
+izquierdo	O
+.	O

@@ -1,0 +1,26 @@
+
+Durante	O
+la	O
+exploración	O
+la	O
+paciente	O
+presenta	O
+un	O
+Eastern	O
+Cooperative	O
+Oncology	O
+Group	O
+(	O
+ECOG	O
+)	O
+de	O
+0	O
+,	O
+mide	O
+150	O
+cm	O
+y	O
+pesa	O
+54	O
+kg	O
+.	O

@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+refería	O
+cirugía	O
+apendicular	O
+4	O
+meses	O
+antes	O
+de	O
+la	O
+consulta	O
+.	O

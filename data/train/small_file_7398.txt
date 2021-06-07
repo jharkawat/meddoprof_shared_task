@@ -1,0 +1,13 @@
+
+No	O
+refiere	O
+historia	O
+previa	O
+de	O
+alergia	O
+medicamentosa	O
+,	O
+alimentaria	O
+o	O
+ambiental	O
+.	O

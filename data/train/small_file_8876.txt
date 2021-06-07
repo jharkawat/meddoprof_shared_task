@@ -1,0 +1,16 @@
+
+Cultivos	O
+y	O
+baciloscopia	O
+de	O
+esputo	O
+y	O
+orina	O
+,	O
+mantoux	O
+y	O
+test	O
+de	O
+Igra	O
+negativos	O
+.	O

@@ -1,0 +1,8 @@
+
+Bromuro	O
+de	O
+glicopironio	O
++	O
+indacaterol	O
+inhalador	O
+.	O

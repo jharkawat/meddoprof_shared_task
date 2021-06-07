@@ -1,0 +1,9 @@
+
+Hábito	O
+intestinal	O
+mantenido	O
+,	O
+sin	O
+productos	O
+patológicos	O
+.	O

@@ -1,0 +1,16 @@
+
+En	O
+el	O
+servicio	O
+de	O
+urgencia	O
+se	O
+lo	O
+hidrató	O
+,	O
+enviándolo	O
+posteriormente	O
+a	O
+su	O
+domicilio	O
+.	O

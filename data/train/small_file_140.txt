@@ -1,0 +1,15 @@
+
+Negó	O
+síntomas	O
+pasados	O
+o	O
+actuales	O
+de	O
+alteraciones	O
+del	O
+estado	O
+de	O
+ánimo	O
+o	O
+ansiedad	O
+.	O

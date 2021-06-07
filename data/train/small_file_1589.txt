@@ -1,0 +1,12 @@
+
+El	O
+resto	O
+de	O
+la	O
+valoración	O
+estaba	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

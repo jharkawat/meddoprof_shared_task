@@ -1,0 +1,25 @@
+
+Se	O
+siente	O
+continuamente	O
+cansado	O
+y	O
+muy	O
+abatido	O
+,	O
+con	O
+ataques	O
+frecuentes	O
+de	O
+llanto	O
+desde	O
+que	O
+se	O
+separó	O
+de	O
+su	O
+novia	O
+hace	O
+6	O
+meses	O
+.	O

@@ -1,0 +1,23 @@
+
+En	O
+el	O
+seno	O
+de	O
+una	O
+enfermedad	O
+metastásica	O
+con	O
+progresión	O
+rápida	O
+comienza	O
+(	O
+julio	O
+de	O
+2010	O
+)	O
+quimioterapia	O
+con	O
+cisplatino	O
+y	O
+vinorelbina	O
+.	O

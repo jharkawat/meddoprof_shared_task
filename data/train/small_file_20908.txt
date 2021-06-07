@@ -1,0 +1,10 @@
+
+Alteración	O
+del	O
+estilo	O
+de	O
+vida	O
+del	O
+cuidador	B-PROFESION
+principal	I-PROFESION
+.	O

@@ -1,0 +1,6 @@
+
+Probable	O
+neumomediastino	O
+con	O
+neumopericardio	O
+.	O

@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+no	O
+refería	O
+otra	O
+clínica	O
+asociada	O
+a	O
+este	O
+cuadro	O
+.	O

@@ -1,0 +1,8 @@
+
+Enfermedades	O
+somáticas	O
+:	O
+HTA	O
+e	O
+hipercolesterolemia	O
+.	O

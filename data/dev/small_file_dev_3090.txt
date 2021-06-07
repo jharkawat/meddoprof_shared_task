@@ -1,0 +1,8 @@
+
+Parto	O
+asistencial	O
+,	O
+a	O
+término	O
+,	O
+eutócico	O

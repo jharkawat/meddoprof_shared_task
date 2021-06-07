@@ -1,0 +1,6 @@
+
+Sicosis	O
+de	O
+la	O
+barba	O
+.	O

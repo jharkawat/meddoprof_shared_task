@@ -1,0 +1,12 @@
+
+Clozapina	O
+(	O
+mg	O
+)	O
+:	O
+100	O
+-	O
+125	O
+-	O
+200	O
+.	O

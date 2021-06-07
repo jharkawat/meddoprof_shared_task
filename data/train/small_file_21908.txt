@@ -1,0 +1,25 @@
+
+WURS	O
+-	O
+25	O
+:	O
+escala	O
+dirigida	O
+al	O
+paciente	O
+para	O
+realizar	O
+diagnostico	O
+retrospectivo	O
+:	O
+53	O
+/	O
+100	O
+(	O
+positivo	O
+a	O
+partir	O
+de	O
+36	O
+)	O
+.	O

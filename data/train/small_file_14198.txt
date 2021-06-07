@@ -1,0 +1,15 @@
+
+En	O
+hemitórax	O
+derecho	O
+,	O
+vidrio	O
+deslustrado	O
+focal	O
+en	O
+LSD	O
+,	O
+con	O
+tres	O
+nódulos	O
+.	O

@@ -1,0 +1,15 @@
+
+Manifiesta	O
+asimismo	O
+mejora	O
+de	O
+su	O
+estado	O
+anímico	O
+y	O
+remisión	O
+de	O
+la	O
+ideación	O
+suicida	O
+.	O

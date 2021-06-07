@@ -1,0 +1,17 @@
+
+El	O
+resto	O
+del	O
+estudio	O
+realizado	O
+no	O
+muestra	O
+otros	O
+hallazgos	O
+de	O
+significativos	O
+en	O
+el	O
+momento	O
+actual	O
+.	O

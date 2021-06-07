@@ -1,0 +1,26 @@
+
+Pruebas	O
+cutáneas	O
+estándar	O
+mediante	O
+prick	O
+test	O
+con	O
+neumoalergenos	O
+habituales	O
+(	O
+hongos	O
+,	O
+ácaros	O
+,	O
+epitelio	O
+de	O
+animales	O
+,	O
+pólenes	O
+,	O
+látex	O
+)	O
+:	O
+negativo	O
+.	O

@@ -1,0 +1,11 @@
+
+Ecodoppler	O
+de	O
+TSA	O
+:	O
+carótidas	O
+con	O
+ateromatosis	O
+sin	O
+estenosis	O
+.	O

@@ -1,0 +1,11 @@
+
+Refiere	O
+que	O
+los	O
+episodios	O
+febriles	O
+coinciden	O
+con	O
+la	O
+menstruación	O
+.	O

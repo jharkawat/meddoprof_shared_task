@@ -1,0 +1,11 @@
+
+La	O
+familia	O
+no	O
+ha	O
+tenido	O
+que	O
+emplear	O
+medidas	O
+legales	O
+.	O

@@ -1,0 +1,24 @@
+
+Ante	O
+esto	O
+el	O
+paciente	O
+opta	O
+por	O
+el	O
+alta	O
+voluntaria	O
+y	O
+acude	O
+a	O
+nuestro	O
+centro	O
+,	O
+ingresando	O
+el	O
+3	O
+de	O
+noviembre	O
+de	O
+2016	O
+.	O

@@ -1,0 +1,16 @@
+
+Es	O
+la	O
+mayor	O
+de	O
+dos	O
+hermanos	O
+(	O
+el	O
+hermano	O
+tiene	O
+4	O
+años	O
+menos	O
+)	O
+.	O

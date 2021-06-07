@@ -1,0 +1,12 @@
+
+RMN	O
+cerebral	O
+:	O
+sistema	O
+ventricular	O
+de	O
+tamaño	O
+y	O
+morfología	O
+normal	O
+.	O

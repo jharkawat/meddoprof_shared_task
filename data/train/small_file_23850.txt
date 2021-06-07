@@ -1,0 +1,16 @@
+
+En	O
+el	O
+EEG	O
+destaca	O
+una	O
+marcada	O
+lenificación	O
+y	O
+atenuación	O
+difusa	O
+de	O
+ritmo	O
+de	O
+fondo	O
+.	O

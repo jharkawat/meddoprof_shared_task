@@ -1,0 +1,22 @@
+
+Se	O
+prescribió	O
+colutorio	O
+de	O
+Clorhexidina	O
+0	O
+,	O
+12	O
+%	O
+,	O
+durante	O
+1	O
+minuto	O
+dos	O
+veces	O
+al	O
+día	O
+durante	O
+esta	O
+fase	O
+.	O

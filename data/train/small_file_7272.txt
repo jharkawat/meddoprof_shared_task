@@ -1,0 +1,25 @@
+
+Paciente	O
+varón	O
+de	O
+79	O
+años	O
+con	O
+antecedentes	O
+personales	O
+de	O
+HTA	O
+,	O
+Diabetes	O
+Mellitus	O
+tipo	O
+II	O
+,	O
+EPOC	O
+,	O
+enfisema	O
+pulmonar	O
+y	O
+cardiopatía	O
+isquémica	O
+.	O

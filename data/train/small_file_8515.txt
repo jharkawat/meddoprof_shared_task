@@ -1,0 +1,17 @@
+
+-	O
+Se	O
+solicitó	O
+body	O
+-	O
+TAC	O
+para	O
+despistaje	O
+de	O
+neoplasia	O
+,	O
+siendo	O
+éstos	O
+los	O
+resultados	O
+:	O

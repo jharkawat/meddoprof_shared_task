@@ -1,0 +1,26 @@
+
+Además	O
+la	O
+relación	O
+temporal	O
+entre	O
+el	O
+inicio	O
+de	O
+la	O
+enfermedad	O
+(	O
+varios	O
+meses	O
+antes	O
+)	O
+y	O
+la	O
+aparición	O
+del	O
+cuadro	O
+maníaco	O
+no	O
+es	O
+clara	O
+.	O

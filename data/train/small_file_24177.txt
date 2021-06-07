@@ -1,0 +1,26 @@
+
+Destacaba	O
+notable	O
+pérdida	O
+de	O
+funcionalidad	O
+psicosocial	O
+derivada	O
+de	O
+hipobulia	O
+,	O
+apatía	O
+e	O
+hipoprosexia	O
+,	O
+comportando	O
+aislamiento	O
+social	O
+,	O
+distanciamiento	O
+conyugal	O
+y	O
+pérdida	B-SITUACION_LABORAL
+del	I-SITUACION_LABORAL
+empleo	I-SITUACION_LABORAL
+.	O

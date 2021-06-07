@@ -1,0 +1,25 @@
+
+DIAGNÓSTICO	O
+EN	O
+LA	O
+ACTUALIDAD	O
+,	O
+con	O
+la	O
+nueva	O
+clasificación	O
+y	O
+el	O
+nuevo	O
+algoritmo	O
+hubiéramos	O
+seguido	O
+el	O
+siguiente	O
+árbol	O
+clínico	O
+de	O
+toma	O
+de	O
+decisiones	O
+.	O

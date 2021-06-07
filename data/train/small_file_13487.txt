@@ -1,0 +1,14 @@
+
+Debemos	O
+plantearnos	O
+las	O
+alteraciones	O
+neurológicas	O
+que	O
+pueden	O
+aparecer	O
+en	O
+un	O
+paciente	O
+alcohólico	O
+.	O

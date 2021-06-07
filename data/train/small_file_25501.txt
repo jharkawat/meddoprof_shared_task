@@ -1,0 +1,18 @@
+
+Mantoux	O
+positivo	O
+en	O
+febrero	O
+de	O
+2008	O
+,	O
+realizó	O
+quimioprofilaxis	O
+con	O
+Cemidon	O
+®	O
+300	O
+durante	O
+6	O
+meses	O
+.	O

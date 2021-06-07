@@ -1,0 +1,9 @@
+
+Mano	O
+izquierda	O
+con	O
+clinodactilia	O
+del	O
+V	O
+dedo	O
+.	O

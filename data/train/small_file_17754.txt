@@ -1,0 +1,19 @@
+
+Autoinmunidad	O
+:	O
+normal	O
+,	O
+incluyendo	O
+ANA	O
+,	O
+anti	O
+-	O
+DNA	O
+,	O
+ANOE	O
+,	O
+ANCA	O
+,	O
+anticoagulante	O
+lúpico	O
+.	O

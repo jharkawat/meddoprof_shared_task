@@ -1,0 +1,8 @@
+
+Residente	O
+en	O
+Burgos	O
+en	O
+medio	O
+rural	O
+.	O

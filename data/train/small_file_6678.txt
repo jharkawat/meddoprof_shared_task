@@ -1,0 +1,24 @@
+
+A	O
+la	O
+anamnesis	O
+dirigida	O
+no	O
+relaciona	O
+con	O
+ningún	O
+desencadenante	O
+,	O
+pero	O
+sí	O
+refería	O
+haber	O
+trabajado	O
+como	O
+joyero	B-PROFESION
+,	O
+manipulando	O
+plata	O
+con	O
+frecuencia	O
+.	O

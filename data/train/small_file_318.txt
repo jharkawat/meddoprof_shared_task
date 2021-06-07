@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Itziar	O
+Palacios	O
+Zabalza	O
+NºCol	O
+:	O
+50	O
+50	O
+11945	O
+.	O

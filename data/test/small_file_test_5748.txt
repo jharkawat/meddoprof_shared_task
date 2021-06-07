@@ -1,0 +1,12 @@
+
+Afasia	O
+sin	O
+respuesta	O
+verbal	O
+,	O
+no	O
+obedece	O
+a	O
+órdenes	O
+sencillas	O
+.	O

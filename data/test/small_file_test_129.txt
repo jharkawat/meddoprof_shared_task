@@ -1,0 +1,19 @@
+
+Siempre	O
+toma	O
+en	O
+la	O
+cena	O
+un	O
+vaso	O
+de	O
+leche	O
+entera	O
+de	O
+vaca	O
+ultrapasteurizada	O
+y	O
+ocasionalmente	O
+una	O
+fruta	O
+.	O

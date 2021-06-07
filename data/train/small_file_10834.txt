@@ -1,0 +1,8 @@
+
+Se	O
+solicita	O
+valoración	O
+por	O
+Cirugía	O
+Cardiaca	O
+.	O

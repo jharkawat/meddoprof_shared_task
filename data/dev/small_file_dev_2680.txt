@@ -1,0 +1,17 @@
+
+Dicha	O
+sintomatología	O
+resistente	O
+al	O
+tratamiento	O
+le	O
+ha	O
+producido	O
+gran	O
+repercusión	O
+conductual	O
+,	O
+vivencial	O
+y	O
+emocional	O
+.	O

@@ -1,0 +1,13 @@
+
+La	O
+auscultación	O
+pulmonar	O
+fue	O
+de	O
+murmullo	O
+vesicular	O
+conservado	O
+sin	O
+ruidos	O
+patológicos	O
+.	O

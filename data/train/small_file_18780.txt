@@ -1,0 +1,12 @@
+
+Ansiedad	O
+anticipatoria	O
+en	O
+relación	O
+a	O
+problemas	O
+que	O
+todavía	O
+no	O
+existen	O
+.	O

@@ -1,0 +1,24 @@
+
+Comienzan	O
+a	O
+salir	O
+los	O
+incisivos	O
+a	O
+los	O
+seis	O
+meses	O
+,	O
+caninos	O
+a	O
+los	O
+16	O
+y	O
+completa	O
+las	O
+20	O
+piezas	O
+a	O
+los22	O
+meses	O
+.	O

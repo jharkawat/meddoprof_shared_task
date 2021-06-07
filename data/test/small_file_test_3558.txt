@@ -1,0 +1,27 @@
+
+En	O
+TC	O
+de	O
+reevaluación	O
+(	O
+abril	O
+de	O
+2014	O
+)	O
+se	O
+observa	O
+mejoría	O
+radiológica	O
+con	O
+reducción	O
+en	O
+el	O
+tamaño	O
+de	O
+los	O
+conglomerados	O
+adenopáticos	O
+mediastínicos	O
+y	O
+abdominales	O
+.	O

@@ -1,0 +1,13 @@
+
+La	O
+PCR	O
+de	O
+gripe	O
+fue	O
+negativa	O
+para	O
+influenza	O
+A	O
+y	O
+B	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+hay	O
+otras	O
+lesiones	O
+en	O
+la	O
+piel	O
+.	O

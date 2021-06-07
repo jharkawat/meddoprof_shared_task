@@ -1,0 +1,15 @@
+
+Comenta	O
+cierta	O
+pérdida	O
+de	O
+peso	O
+en	O
+los	O
+últimos	O
+meses	O
+y	O
+alguna	O
+cefalea	O
+ocasional	O
+.	O

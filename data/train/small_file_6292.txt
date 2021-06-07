@@ -1,0 +1,6 @@
+
+Serología	O
+para	O
+sífilis	O
+negativa	O
+.	O

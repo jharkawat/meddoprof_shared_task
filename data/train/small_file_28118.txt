@@ -1,0 +1,4 @@
+
+Signos	O
+vitales	O
+:	O

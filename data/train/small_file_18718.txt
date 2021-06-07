@@ -1,0 +1,12 @@
+
+Frecuentó	B-ACTIVIDAD
+varias	I-ACTIVIDAD
+actividades	I-ACTIVIDAD
+extracurriculares	I-ACTIVIDAD
+como	I-ACTIVIDAD
+petanca	I-ACTIVIDAD
+,	I-ACTIVIDAD
+hipoterapia	I-ACTIVIDAD
+y	I-ACTIVIDAD
+danza	I-ACTIVIDAD
+.	O

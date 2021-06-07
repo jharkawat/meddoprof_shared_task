@@ -1,0 +1,9 @@
+
+Mantiene	O
+adecuada	O
+socialización	O
+con	O
+compañeros	B-SITUACION_LABORAL
+del	I-SITUACION_LABORAL
+curso	I-SITUACION_LABORAL
+.	O

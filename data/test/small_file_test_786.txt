@@ -1,0 +1,7 @@
+
+Se	O
+decide	O
+traslado	O
+a	O
+UVI	O
+.	O

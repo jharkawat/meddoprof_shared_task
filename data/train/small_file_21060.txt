@@ -1,0 +1,13 @@
+
+Ingresó	O
+a	O
+un	O
+servicio	O
+de	O
+traumatología	O
+después	O
+de	O
+quebrarse	O
+una	O
+pierna	O
+.	O

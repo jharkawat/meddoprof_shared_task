@@ -1,0 +1,19 @@
+
+Es	O
+capaz	O
+de	O
+comer	O
+solo	O
+,	O
+aunque	O
+presenta	O
+disfagia	O
+a	O
+líquidos	O
+,	O
+tolerando	O
+comidas	O
+con	O
+estructura	O
+mixta	O
+.	O

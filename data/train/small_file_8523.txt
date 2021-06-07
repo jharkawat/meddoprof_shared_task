@@ -1,0 +1,23 @@
+
+El	O
+postoperatorio	O
+fue	O
+tórpido	O
+y	O
+la	O
+hemólisis	O
+continuó	O
+a	O
+pesar	O
+de	O
+la	O
+exéresis	O
+de	O
+una	O
+alta	O
+carga	O
+tumoral	O
+del	O
+tumor	O
+primario	O
+.	O

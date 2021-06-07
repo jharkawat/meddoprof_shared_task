@@ -1,0 +1,22 @@
+
+La	O
+radiografía	O
+simple	O
+muestra	O
+una	O
+lesión	O
+radiolucente	O
+,	O
+bien	O
+definida	O
+,	O
+con	O
+bordes	O
+esclerosos	O
+y	O
+adelgazamiento	O
+excéntrico	O
+de	O
+la	O
+cortical	O
+.	O

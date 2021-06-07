@@ -1,0 +1,16 @@
+
+Hombre	O
+de	O
+31	O
+años	O
+,	O
+soldado	B-PROFESION
+,	O
+procedente	O
+del	O
+municipio	O
+de	O
+Girón	O
+,	O
+Santander	O
+.	O

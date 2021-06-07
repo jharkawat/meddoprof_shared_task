@@ -1,0 +1,26 @@
+
+Allen	O
+había	O
+amenazado	O
+al	O
+conductor	B-PROFESION
+con	O
+un	O
+cuchillo	O
+,	O
+había	O
+tomado	O
+el	O
+control	O
+del	O
+autobús	O
+urbano	O
+,	O
+casi	O
+vacío	O
+,	O
+y	O
+lo	O
+había	O
+estrellado	O
+.	O

@@ -1,0 +1,27 @@
+
+A	O
+su	O
+llegada	O
+iniciamos	O
+nutrición	O
+parenteral	O
+,	O
+aumentamos	O
+la	O
+dosis	O
+de	O
+corticoide	O
+y	O
+se	O
+pauta	O
+cinitaprida	O
+como	O
+procinético	O
+,	O
+mejorando	O
+la	O
+tolerancia	O
+a	O
+la	O
+dieta	O
+.	O

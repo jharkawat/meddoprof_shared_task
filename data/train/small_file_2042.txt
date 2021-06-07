@@ -1,0 +1,12 @@
+
+Memantina	O
+y	O
+amitriptilina	O
+fueron	O
+ineficaces	O
+para	O
+el	O
+tratamiento	O
+del	O
+DMF	O
+.	O

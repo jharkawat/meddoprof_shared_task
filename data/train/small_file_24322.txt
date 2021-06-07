@@ -1,0 +1,12 @@
+
+Bioquímica	O
+y	O
+hemograma	O
+-	O
+normales	O
+Toxicos	O
+en	O
+orina	O
+-	O
+negativo	O
+.	O

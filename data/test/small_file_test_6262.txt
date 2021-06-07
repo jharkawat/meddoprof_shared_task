@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+presenta	O
+gran	O
+mejoría	O
+clínica	O
+y	O
+de	O
+la	O
+función	O
+renal	O
+tras	O
+el	O
+cambio	O
+de	O
+fármaco	O
+,	O
+que	O
+se	O
+confirma	O
+por	O
+imagen	O
+.	O

@@ -1,0 +1,19 @@
+
+Finalmente	O
+se	O
+diagnostica	O
+al	O
+paciente	O
+de	O
+un	O
+TCG	O
+mixto	O
+de	O
+teste	O
+derecho	O
+estadio	O
+pT3cN3cM1a	O
+S2	O
+-	O
+IIIB	O
+.	O

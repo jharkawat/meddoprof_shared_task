@@ -1,0 +1,18 @@
+
+El	O
+abdomen	O
+es	O
+blando	O
+y	O
+depresible	O
+,	O
+sin	O
+dolor	O
+a	O
+la	O
+palpación	O
+,	O
+masas	O
+ni	O
+organomegalias	O
+.	O

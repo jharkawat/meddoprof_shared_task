@@ -1,0 +1,12 @@
+
+Refería	O
+sentirse	O
+atemorizada	O
+porque	O
+creía	O
+que	O
+su	O
+marido	O
+intentaba	O
+envenenarla	O
+.	O

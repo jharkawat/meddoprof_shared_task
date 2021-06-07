@@ -1,0 +1,8 @@
+
+El	O
+contacto	O
+es	O
+reactivo	O
+pero	O
+insulso	O
+.	O

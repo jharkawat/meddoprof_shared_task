@@ -1,0 +1,9 @@
+
+Uno	O
+de	O
+sus	O
+tíos	O
+se	O
+suicidó	O
+después	O
+.	O

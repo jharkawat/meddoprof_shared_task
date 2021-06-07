@@ -1,0 +1,18 @@
+
+Alcanzaba	O
+el	O
+dorso	O
+del	O
+cornete	O
+inferior	O
+sin	O
+infiltrarlo	O
+y	O
+sin	O
+llegar	O
+al	O
+suelo	O
+de	O
+la	O
+fosa	O
+.	O

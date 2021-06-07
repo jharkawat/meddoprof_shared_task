@@ -1,0 +1,25 @@
+
+En	O
+los	O
+últimos	O
+días	O
+acudió	O
+a	O
+Urgencias	O
+por	O
+empeoramiento	O
+de	O
+la	O
+disnea	O
+,	O
+dolor	O
+torácico	O
+,	O
+tos	O
+con	O
+expectoración	O
+hemoptóica	O
+abundante	O
+y	O
+febrícula	O
+.	O

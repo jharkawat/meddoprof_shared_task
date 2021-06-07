@@ -1,0 +1,8 @@
+
+Apática	O
+,	O
+hipoactiva	O
+con	O
+autoestima	O
+bajo	O
+.	O

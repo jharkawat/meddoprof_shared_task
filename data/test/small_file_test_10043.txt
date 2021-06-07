@@ -1,0 +1,4 @@
+
+Obesidad	O
+troncular	O
+.	O

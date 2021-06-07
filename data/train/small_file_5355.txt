@@ -1,0 +1,14 @@
+
+Biólogo	B-PROFESION
+,	O
+extrovertido	O
+y	O
+reside	O
+con	O
+su	O
+mujer	O
+e	O
+hijo	O
+en	O
+Madrid	O
+.	O

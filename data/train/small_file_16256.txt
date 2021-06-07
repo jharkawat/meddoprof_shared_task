@@ -1,0 +1,20 @@
+
+Finalmente	O
+,	O
+la	O
+paciente	O
+fue	O
+dada	O
+de	O
+alta	O
+asintomática	O
+el	O
+vigésimo	O
+día	O
+desde	O
+su	O
+primera	O
+visita	O
+a	O
+Urgencias	O
+.	O

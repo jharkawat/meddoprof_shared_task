@@ -1,0 +1,23 @@
+
+Persisten	O
+las	O
+dificultades	O
+en	O
+cuanto	O
+a	O
+la	O
+gestión	O
+del	O
+dinero	O
+,	O
+que	O
+se	O
+trabajan	O
+con	O
+la	O
+educadora	B-PROFESION
+y	O
+la	O
+trabajadora	B-PROFESION
+social	I-PROFESION
+.	O

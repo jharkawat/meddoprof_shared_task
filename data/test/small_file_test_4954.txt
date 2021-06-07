@@ -1,0 +1,22 @@
+
+Áreas	O
+irradiadas	O
+:	O
+cadenas	O
+ganglionares	O
+cervicales	O
+bilaterales	O
+;	O
+cadenas	O
+ganglionares	O
+supraclaviculares	O
+bilaterales	O
+;	O
+mediastino	O
+,	O
+y	O
+bazo	O
+e	O
+hilio	O
+esplénico	O
+.	O

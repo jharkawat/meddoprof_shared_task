@@ -1,0 +1,20 @@
+
+Se	O
+da	O
+de	O
+alta	O
+con	O
+el	O
+diagnóstico	O
+de	O
+cólico	O
+biliar	O
+complicado	O
+,	O
+en	O
+tratamiento	O
+con	O
+metronidazol	O
+y	O
+levofloxacino	O
+.	O

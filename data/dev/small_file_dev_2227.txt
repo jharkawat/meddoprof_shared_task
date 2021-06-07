@@ -1,0 +1,16 @@
+
+Se	O
+estableció	O
+como	O
+último	O
+juicio	O
+clínico	O
+el	O
+de	O
+esquizofrenia	O
+paranoide	O
+episódica	O
+con	O
+defecto	O
+progresivo	O
+.	O

@@ -1,0 +1,11 @@
+
+Actualmente	O
+,	O
+se	O
+encuentra	O
+pensionado	B-SITUACION_LABORAL
+por	I-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+enfermedad	I-SITUACION_LABORAL
+mental	I-SITUACION_LABORAL
+.	O

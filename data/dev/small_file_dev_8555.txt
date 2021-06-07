@@ -1,0 +1,10 @@
+
+Y	O
+otros	O
+menos	O
+frecuentes	O
+como	O
+Toxocara	O
+o	O
+Anisakis	O
+.	O

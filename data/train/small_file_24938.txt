@@ -1,0 +1,10 @@
+
+Poco	O
+tiempo	O
+después	O
+,	O
+cae	O
+en	O
+una	O
+depresión	O
+.	O

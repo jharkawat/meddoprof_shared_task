@@ -1,0 +1,6 @@
+
+Palidez	O
+cutáneo	O
+-	O
+mucosa	O
+.	O

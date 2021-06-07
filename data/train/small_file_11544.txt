@@ -1,0 +1,13 @@
+
+El	O
+periodo	O
+de	O
+incubación	O
+suele	O
+ser	O
+de	O
+7	O
+a	O
+14	O
+días	O
+.	O

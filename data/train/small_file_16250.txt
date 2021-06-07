@@ -1,0 +1,26 @@
+
+La	O
+paciente	O
+recibió	O
+tratamiento	O
+con	O
+ampicilina	O
+ante	O
+la	O
+sospecha	O
+de	O
+meningitis	O
+por	O
+Listeria	O
+,	O
+que	O
+se	O
+suspendió	O
+tras	O
+el	O
+resultado	O
+negativo	O
+de	O
+la	O
+PCR	O
+.	O

@@ -1,0 +1,27 @@
+
+ANTECEDENTES	O
+TÓXICOS	O
+:	O
+consumo	O
+de	O
+alcohol	O
+casi	O
+diario	O
+,	O
+en	O
+cantidad	O
+alta	O
+"	O
+bebe	O
+mucho	O
+alcohol	O
+"	O
+,	O
+principalmente	O
+aperitivos	O
+o	O
+"	O
+trago	O
+barato	O
+"	O
+.	O

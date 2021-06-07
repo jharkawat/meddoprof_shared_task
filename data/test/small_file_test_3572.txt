@@ -1,0 +1,6 @@
+
+No	O
+aceptó	O
+tratamiento	O
+quimioterápico	O
+.	O

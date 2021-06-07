@@ -1,0 +1,12 @@
+
+No	O
+edemas	O
+ni	O
+signos	O
+de	O
+patología	O
+vascular	O
+en	O
+miembros	O
+inferiores	O
+.	O

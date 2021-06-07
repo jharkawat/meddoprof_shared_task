@@ -1,0 +1,4 @@
+
+Lenguaje	O
+correcto	O
+.	O

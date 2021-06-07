@@ -1,0 +1,17 @@
+
+En	O
+las	O
+notas	O
+clínicas	O
+se	O
+citan	O
+insultos	O
+a	O
+los	O
+profesionales	B-PROFESION
+y	O
+una	O
+elevada	O
+rotación	O
+médica	O
+.	O

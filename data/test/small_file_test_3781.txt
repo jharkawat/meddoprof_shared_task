@@ -1,0 +1,8 @@
+
+PTK	O
+vs	O
+.	O
+placebo	O
+de	O
+mantenimiento	O
+.	O

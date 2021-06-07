@@ -1,0 +1,24 @@
+
+Uno	O
+siempre	O
+tiene	O
+que	O
+ser	O
+el	O
+mismo	O
+,	O
+hacer	O
+lo	O
+mismo	O
+,	O
+comportarse	O
+igual	O
+,	O
+tanto	O
+si	O
+estás	O
+solo	O
+como	O
+si	O
+no	O
+.	O

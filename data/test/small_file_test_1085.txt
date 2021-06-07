@@ -1,0 +1,4 @@
+
+Tabaquismo	O
+negativo	O
+.	O

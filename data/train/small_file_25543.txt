@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+es	O
+recogido	O
+por	O
+la	O
+Guardia	B-PROFESION
+Civil	I-PROFESION
+en	O
+la	O
+autopista	O
+tras	O
+haber	O
+sufrido	O
+un	O
+accidente	O
+de	O
+tráfico	O
+.	O

@@ -1,0 +1,16 @@
+
+Cabeza	O
+y	O
+cuello	O
+:	O
+no	O
+IY	O
+boca	O
+séptica	O
+con	O
+ausencia	O
+de	O
+varias	O
+piezas	O
+dentarias	O
+.	O

@@ -1,0 +1,16 @@
+
+Dificultad	O
+para	O
+vincularse	O
+al	O
+centro	O
+de	O
+salud	O
+mental	O
+dada	O
+su	O
+nula	O
+conciencia	O
+de	O
+enfermedad	O
+.	O

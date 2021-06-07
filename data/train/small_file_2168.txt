@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+25	O
+/	O
+12	O
+/	O
+1952	O
+.	O

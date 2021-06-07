@@ -1,0 +1,18 @@
+
+En	O
+la	O
+exploración	O
+física	O
+destaca	O
+,	O
+sensación	O
+de	O
+enfermedad	O
+,	O
+con	O
+caquexia	O
+importante	O
+y	O
+sequedad	O
+cutánea	O
+.	O

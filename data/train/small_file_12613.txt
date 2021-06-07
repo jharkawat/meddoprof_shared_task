@@ -1,0 +1,13 @@
+
+Se	O
+contacta	O
+con	O
+cirujanos	B-PROFESION
+cardíacos	I-PROFESION
+y	I-PROFESION
+torácicos	I-PROFESION
+que	O
+deciden	O
+actitud	O
+expectante	O
+.	O

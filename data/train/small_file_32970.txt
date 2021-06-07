@@ -1,0 +1,26 @@
+
+Durante	O
+la	O
+infancia	O
+presentó	O
+un	O
+trastorno	O
+del	O
+lenguaje	O
+,	O
+consistente	O
+en	O
+tartamudeo	O
+,	O
+durante	O
+dos	O
+periodos	O
+de	O
+dos	O
+años	O
+y	O
+que	O
+remitió	O
+sin	O
+tratamiento	O
+.	O

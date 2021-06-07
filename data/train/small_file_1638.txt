@@ -1,0 +1,13 @@
+
+Los	O
+análisis	O
+toxicológicos	O
+fueron	O
+negativos	O
+tanto	O
+para	O
+alcohol	O
+como	O
+para	O
+drogas	O
+.	O

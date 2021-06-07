@@ -1,0 +1,15 @@
+
+No	O
+se	O
+observan	O
+células	O
+que	O
+recuerden	O
+a	O
+los	O
+hepatocitos	O
+fetales	O
+o	O
+del	O
+adulto	O
+.	O

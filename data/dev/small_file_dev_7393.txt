@@ -1,0 +1,16 @@
+
+Un	O
+trastorno	O
+linfoproliferativo	O
+asociado	O
+a	O
+este	O
+virus	O
+no	O
+puede	O
+ser	O
+descartado	O
+en	O
+nuestro	O
+paciente	O
+.	O

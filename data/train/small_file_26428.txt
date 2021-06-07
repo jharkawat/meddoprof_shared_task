@@ -1,0 +1,26 @@
+
+Consideraba	O
+que	O
+los	O
+profesores	B-PROFESION
+"	O
+dicen	O
+mucho	O
+pero	O
+no	O
+hacen	O
+nada	O
+"	O
+y	O
+aunque	O
+pensaba	O
+que	O
+tenía	O
+amigas	O
+no	O
+se	O
+sentía	O
+bien	O
+en	O
+colegio	O
+.	O

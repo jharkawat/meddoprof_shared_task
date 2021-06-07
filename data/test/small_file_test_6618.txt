@@ -1,0 +1,21 @@
+
+Clínicamente	O
+,	O
+el	O
+paciente	O
+presenta	O
+buena	O
+situación	O
+funcional	O
+con	O
+ECOG	O
+0	O
+-	O
+1	O
+y	O
+perfecta	O
+tolerancia	O
+a	O
+la	O
+quimioterapia	O
+.	O

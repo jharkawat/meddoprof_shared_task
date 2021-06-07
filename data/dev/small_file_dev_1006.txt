@@ -1,0 +1,14 @@
+
+Tiene	O
+una	O
+discapacidad	O
+del	O
+33	O
+%	O
+por	O
+trastorno	O
+del	O
+desarrollo	O
+sin	O
+especificar	O
+.	O

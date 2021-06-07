@@ -1,0 +1,7 @@
+
+No	O
+se	O
+observaron	O
+lesiones	O
+cutáneas	O
+.	O

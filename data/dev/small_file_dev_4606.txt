@@ -1,0 +1,8 @@
+
+LUGAR	O
+DE	O
+NACIMIENTO	O
+:	O
+LEÓN	O
+,	O
+GTO	O

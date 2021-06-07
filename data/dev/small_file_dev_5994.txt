@@ -1,0 +1,16 @@
+
+El	O
+diagnóstico	O
+diferencial	O
+incluiría	O
+el	O
+adenocarcinoma	O
+vesical	O
+primario	O
+;	O
+metastásico	O
+y	O
+adenocarcinoma	O
+de	O
+uraco	O
+.	O

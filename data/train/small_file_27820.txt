@@ -1,0 +1,23 @@
+
+Se	O
+decide	O
+la	O
+introducción	O
+de	O
+tratamiento	O
+con	O
+clozapina	O
+dado	O
+lo	O
+resistente	O
+de	O
+la	O
+clínica	O
+productiva	O
+y	O
+la	O
+ineficacia	O
+de	O
+antipsicóticos	O
+previos	O
+.	O

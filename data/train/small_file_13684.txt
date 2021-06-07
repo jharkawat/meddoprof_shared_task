@@ -1,0 +1,12 @@
+
+Mujer	O
+49	O
+años	O
+que	O
+acude	O
+a	O
+urgencias	O
+por	O
+dolor	O
+abdominal	O
+.	O

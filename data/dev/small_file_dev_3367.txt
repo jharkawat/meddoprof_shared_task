@@ -1,0 +1,19 @@
+
+No	O
+ha	O
+padecido	O
+episodios	O
+de	O
+esta	O
+naturaleza	O
+estando	O
+en	O
+su	O
+casa	O
+,	O
+ni	O
+acompañada	O
+ni	O
+estando	O
+sola	O
+.	O

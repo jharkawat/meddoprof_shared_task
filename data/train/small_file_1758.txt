@@ -1,0 +1,15 @@
+
+El	O
+cultivo	O
+fue	O
+positivo	O
+para	O
+Aspergillus	O
+fumigatus	O
+en	O
+esputo	O
+y	O
+en	O
+aspirado	O
+bronquial	O
+.	O

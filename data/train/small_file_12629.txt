@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+niega	O
+disnea	O
+,	O
+dolor	O
+torácico	O
+u	O
+otra	O
+sintomatología	O
+.	O

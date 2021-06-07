@@ -1,0 +1,12 @@
+
+No	O
+se	O
+evidenciaron	O
+lesiones	O
+cutáneas	O
+ni	O
+articulares	O
+a	O
+otros	O
+niveles	O
+.	O

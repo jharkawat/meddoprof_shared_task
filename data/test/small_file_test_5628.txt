@@ -1,0 +1,21 @@
+
+»	O
+Los	O
+marcadores	O
+tumorales	O
+solicitados	O
+(	O
+CEA	O
+;	O
+Ca	O
+19	O
+.	O
+9	O
+;	O
+PSA	O
+y	O
+CYFRA21	O
+)	O
+resultaron	O
+negativos	O
+.	O

@@ -1,0 +1,20 @@
+
+La	O
+maestra	B-PROFESION
+del	I-PROFESION
+cole	I-PROFESION
+ha	O
+ha	O
+comunicado	O
+a	O
+los	O
+padres	O
+que	O
+estos	O
+problemas	O
+pueden	O
+afectar	O
+su	O
+evolución	O
+escolar	O
+.	O

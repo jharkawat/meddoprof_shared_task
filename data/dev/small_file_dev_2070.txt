@@ -1,0 +1,25 @@
+
+En	O
+este	O
+caso	O
+concreto	O
+,	O
+inicialmente	O
+consideramos	O
+el	O
+trastorno	O
+esquizofreniforme	O
+,	O
+esquizofrenia	O
+,	O
+trastorno	O
+de	O
+la	O
+personalidad	O
+esquizotípica	O
+y	O
+trastorno	O
+obsesivo	O
+-	O
+compulsivo	O
+:	O

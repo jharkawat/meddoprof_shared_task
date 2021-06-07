@@ -1,0 +1,10 @@
+
+Su	O
+padre	O
+falleció	O
+en	O
+1997	O
+por	O
+un	O
+infarto	O
+.	O

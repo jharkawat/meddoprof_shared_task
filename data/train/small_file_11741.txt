@@ -1,0 +1,17 @@
+
+Intervenido	O
+de	O
+neuroma	O
+de	O
+Morton	O
+en	O
+el	O
+pie	O
+izquierdo	O
+,	O
+herniorrafia	O
+inguinal	O
+izquierda	O
+y	O
+fimosis	O
+.	O

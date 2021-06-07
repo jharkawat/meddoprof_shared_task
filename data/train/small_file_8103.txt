@@ -1,0 +1,17 @@
+
+Fue	O
+llevado	O
+24	O
+horas	O
+después	O
+de	O
+la	O
+ingesta	O
+a	O
+su	O
+Hospital	O
+General	O
+de	O
+Zona	O
+correspondiente	O
+.	O

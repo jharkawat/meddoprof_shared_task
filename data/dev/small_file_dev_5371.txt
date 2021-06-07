@@ -1,0 +1,13 @@
+
+Ante	O
+lo	O
+sugerente	O
+del	O
+cuadro	O
+se	O
+realiza	O
+punción	O
+lumbar	O
+:	O
+Aspecto	O
+.	O

@@ -1,0 +1,11 @@
+
+Cultivo	O
+de	O
+bacterias	O
+sin	O
+gérmenes	O
+y	O
+PCR	O
+virus	O
+negativas	O
+.	O

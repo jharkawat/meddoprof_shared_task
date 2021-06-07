@@ -1,0 +1,9 @@
+
+Los	O
+rasgos	O
+de	O
+personalidad	O
+previos	O
+son	O
+adaptativos	O
+.	O

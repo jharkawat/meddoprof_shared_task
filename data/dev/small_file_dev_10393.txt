@@ -1,0 +1,10 @@
+
+Mantenía	O
+buenas	O
+relaciones	O
+con	O
+sus	O
+clientes	O
+y	O
+colegas	B-SITUACION_LABORAL
+.	O

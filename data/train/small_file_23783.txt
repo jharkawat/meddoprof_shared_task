@@ -1,0 +1,19 @@
+
+En	O
+controles	O
+telefónicos	O
+la	O
+familia	O
+informa	O
+que	O
+el	O
+paciente	O
+está	O
+bien	O
+y	O
+no	O
+ha	O
+reanudado	O
+el	O
+consumo	O
+.	O

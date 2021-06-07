@@ -1,0 +1,10 @@
+
+Además	O
+del	O
+tratamiento	O
+antihipertensivo	O
+,	O
+tomaba	O
+ocasionalmente	O
+clebopride	O
+.	O

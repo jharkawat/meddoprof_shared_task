@@ -1,0 +1,17 @@
+
+Trabajó	B-PROFESION
+brevemente	I-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+,	O
+abandonándolo	O
+hace	O
+unos	O
+meses	O
+debido	O
+a	O
+su	O
+sintomatología	O
+actual	O
+.	O

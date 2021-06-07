@@ -1,0 +1,23 @@
+
+Dos	O
+semanas	O
+antes	O
+de	O
+su	O
+ingreso	O
+comienza	O
+con	O
+tos	O
+seca	O
+y	O
+fiebre	O
+que	O
+atribuye	O
+a	O
+un	O
+cuadro	O
+catarral	O
+de	O
+vías	O
+altas	O
+.	O

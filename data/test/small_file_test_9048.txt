@@ -1,0 +1,27 @@
+
+Debido	O
+al	O
+estado	O
+oncológico	O
+,	O
+estado	O
+del	O
+paciente	O
+y	O
+estado	O
+vascular	O
+se	O
+decidió	O
+optar	O
+por	O
+un	O
+tratamiento	O
+sintomático	O
+exclusivo	O
+consensuado	O
+con	O
+el	O
+paciente	O
+y	O
+familiares	O
+.	O

@@ -1,0 +1,16 @@
+
+Al	O
+tratarse	O
+de	O
+un	O
+efecto	O
+adverso	O
+grave	O
+,	O
+la	O
+paciente	O
+sale	O
+del	O
+ensayo	O
+clínico	O
+.	O

@@ -1,0 +1,27 @@
+
+Posteriormente	O
+en	O
+el	O
+año	O
+1996	O
+,	O
+se	O
+realiza	O
+reconocimiento	O
+médico	O
+laboral	O
+,	O
+encontrándose	O
+en	O
+los	O
+resultados	O
+analíticos	O
+,	O
+positividad	O
+para	O
+VHC	O
+y	O
+negativo	O
+para	O
+VIH	O
+.	O

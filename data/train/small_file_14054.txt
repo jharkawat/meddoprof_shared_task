@@ -1,0 +1,7 @@
+
+Piel	O
+y	O
+faneras	O
+:	O
+normal	O
+.	O

@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+se	O
+ha	O
+mantenido	O
+en	O
+respuesta	O
+parcial	O
+hasta	O
+el	O
+final	O
+de	O
+tratamiento	O
+,	O
+en	O
+setiembre	O
+de	O
+2016	O
+.	O

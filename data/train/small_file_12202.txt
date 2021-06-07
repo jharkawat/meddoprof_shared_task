@@ -1,0 +1,23 @@
+
+Entra	O
+en	O
+contacto	O
+con	O
+musculatura	O
+glútea	O
+izquierda	O
+,	O
+que	O
+presenta	O
+focos	O
+de	O
+incremento	O
+de	O
+atenuación	O
+y	O
+reticulación	O
+de	O
+la	O
+grasa	O
+regional	O
+.	O

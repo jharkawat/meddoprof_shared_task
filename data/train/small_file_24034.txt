@@ -1,0 +1,15 @@
+
+Durante	O
+un	O
+ingreso	O
+para	O
+desintoxicación	O
+fue	O
+diagnosticado	O
+de	O
+trastorno	O
+de	O
+personalidad	O
+tipo	O
+paranoide	O
+.	O

@@ -1,0 +1,15 @@
+
+Analítica	O
+,	O
+electroencefalograma	O
+,	O
+serologías	O
+y	O
+tomografia	O
+axial	O
+computarizada	O
+,	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

@@ -1,0 +1,10 @@
+
+No	O
+adenopatías	O
+en	O
+las	O
+cadenas	O
+iliacas	O
+ni	O
+inguinales	O
+.	O

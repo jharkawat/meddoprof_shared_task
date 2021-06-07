@@ -1,0 +1,15 @@
+
+-	O
+Antecedentes	O
+personales	O
+médicos	O
+:	O
+no	O
+RAMc	O
+,	O
+no	O
+DM	O
+,	O
+no	O
+dislipemia	O
+.	O

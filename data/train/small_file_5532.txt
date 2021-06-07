@@ -1,0 +1,10 @@
+
+No	O
+aceptaba	O
+ver	O
+tal	O
+deterioro	O
+tan	O
+rápidamente	O
+progresivo	O
+.	O

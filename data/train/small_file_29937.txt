@@ -1,0 +1,22 @@
+
+Historia	O
+de	O
+pediatría	O
+:	O
+refiere	O
+que	O
+el	O
+embarazo	O
+y	O
+el	O
+parto	O
+fueron	O
+normales	O
+,	O
+que	O
+el	O
+desarrollo	O
+físico	O
+fue	O
+adecuado	O
+.	O

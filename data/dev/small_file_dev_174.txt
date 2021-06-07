@@ -1,0 +1,10 @@
+
+Antecedentes	O
+personales	O
+:	O
+sin	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+.	O

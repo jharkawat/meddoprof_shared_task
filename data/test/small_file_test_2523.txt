@@ -1,0 +1,7 @@
+
+-	O
+Facies	O
+en	O
+luna	O
+llena	O
+.	O

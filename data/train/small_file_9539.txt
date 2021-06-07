@@ -1,0 +1,23 @@
+
+El	O
+electroneurograma	O
+mostró	O
+mostraba	O
+signos	O
+de	O
+polineuropatía	O
+incipiente	O
+sensitivomotora	O
+,	O
+de	O
+predominio	O
+sensitivo	O
+y	O
+axonal	O
+,	O
+más	O
+evidenciada	O
+en	O
+miembros	O
+inferiores	O
+.	O

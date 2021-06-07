@@ -1,0 +1,16 @@
+
+Una	O
+punción	O
+lumbar	O
+mostró	O
+un	O
+líquido	O
+cefalorraquídeo	O
+claro	O
+y	O
+transparente	O
+con	O
+presión	O
+de21	O
+cm	O
+.	O

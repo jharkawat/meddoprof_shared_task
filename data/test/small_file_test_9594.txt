@@ -1,0 +1,6 @@
+
+No	O
+tiene	O
+hábitos	O
+tóxicos	O
+.	O

@@ -1,0 +1,14 @@
+
+Se	O
+diagnostica	O
+de	O
+afectación	O
+tumoral	O
+por	O
+condrosarcoma	O
+,	O
+decidiéndose	O
+realizar	O
+intervención	O
+quirúrgica	O
+.	O

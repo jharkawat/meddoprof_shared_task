@@ -1,0 +1,18 @@
+
+Ante	O
+el	O
+fracaso	O
+con	O
+antipsicóticos	O
+previos	O
+,	O
+se	O
+decide	O
+instaurar	O
+clozapina	O
+y	O
+,	O
+posteriormente	O
+,	O
+TEC	O
+.	O

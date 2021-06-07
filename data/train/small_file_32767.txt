@@ -1,0 +1,17 @@
+
+Admite	O
+abusar	O
+ocasionalmente	O
+de	O
+bebidas	O
+energéticas	O
+para	O
+poder	O
+"	O
+aguantar	O
+mejor	O
+en	O
+el	O
+juego	O
+"	O
+.	O

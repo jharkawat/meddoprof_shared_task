@@ -1,0 +1,21 @@
+
+Para	O
+él	O
+,	O
+su	O
+madre	O
+es	O
+la	O
+persona	O
+más	O
+abnegada	O
+que	O
+conoce	O
+,	O
+con	O
+una	O
+admiración	O
+y	O
+sumisión	O
+extrema	O
+.	O

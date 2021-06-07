@@ -1,0 +1,6 @@
+
+Trabajó	B-PROFESION
+en	I-PROFESION
+plantaciones	I-PROFESION
+algodoneras	I-PROFESION
+.	O

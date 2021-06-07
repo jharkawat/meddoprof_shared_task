@@ -1,0 +1,24 @@
+
+La	O
+esplenomegalia	O
+es	O
+un	O
+signo	O
+inespecífico	O
+que	O
+puede	O
+ser	O
+secundario	O
+a	O
+varias	O
+patologías	O
+,	O
+y	O
+muchas	O
+de	O
+ellas	O
+pueden	O
+cursar	O
+con	O
+fiebre	O
+.	O

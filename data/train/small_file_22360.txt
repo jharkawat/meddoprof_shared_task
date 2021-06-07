@@ -1,0 +1,12 @@
+
+Paciente	O
+desconectada	O
+de	O
+su	O
+entorno	O
+en	O
+las	O
+últimas	O
+24	O
+horas	O
+.	O

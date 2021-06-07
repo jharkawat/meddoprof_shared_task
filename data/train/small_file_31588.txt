@@ -1,0 +1,12 @@
+
+Consumo	O
+diario	O
+de	O
+tabaco	O
+(	O
+10	O
+cigarrillos	O
+al	O
+día	O
+)	O
+.	O

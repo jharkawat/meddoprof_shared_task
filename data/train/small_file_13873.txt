@@ -1,0 +1,20 @@
+
+El	O
+test	O
+de	O
+Paul	O
+Bunell	O
+fue	O
+negativo	O
+y	O
+un	O
+frotis	O
+sanguíneo	O
+descartó	O
+que	O
+se	O
+tratase	O
+de	O
+mononucleosis	O
+infecciosa	O
+.	O

@@ -1,0 +1,20 @@
+
+Se	O
+la	O
+medica	O
+con	O
+alprazolam	O
+,	O
+comenzando	O
+con	O
+1	O
+,	O
+5	O
+mg	O
+por	O
+día	O
+repartido	O
+en	O
+tres	O
+tomas	O
+.	O

@@ -1,0 +1,21 @@
+
+Tensión	O
+arterial	O
+de	O
+128	O
+/	O
+60	O
+mm	O
+de	O
+Hg	O
+,	O
+frecuencia	O
+cardiaca	O
+de	O
+81	O
+lpm	O
+,	O
+temperatura	O
+de	O
+37oC	O
+.	O

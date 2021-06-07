@@ -1,0 +1,16 @@
+
+Es	O
+un	O
+ataque	O
+de	O
+angustia	O
+con	O
+predisposición	O
+situacional	O
+(	O
+ocurre	O
+en	O
+determinadas	O
+situaciones	O
+)	O
+.	O

@@ -1,0 +1,23 @@
+
+Llama	O
+la	O
+atención	O
+el	O
+importante	O
+edema	O
+palpebral	O
+dcho	O
+que	O
+presenta	O
+el	O
+paciente	O
+,	O
+que	O
+impide	O
+hasta	O
+la	O
+apertura	O
+correcta	O
+del	O
+ojo	O
+.	O

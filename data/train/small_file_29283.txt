@@ -1,0 +1,17 @@
+
+Analítica	O
+de	O
+sangre	O
+con	O
+hormonas	O
+tiroideas	O
+,	O
+EKG	O
+,	O
+TAC	O
+,	O
+EEG	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

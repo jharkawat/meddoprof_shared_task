@@ -1,0 +1,15 @@
+
+Un	O
+hijo	O
+sano	O
+,	O
+nacido	O
+tras	O
+fecundación	O
+in	O
+vitro	O
+y	O
+con	O
+parto	O
+normal	O
+.	O

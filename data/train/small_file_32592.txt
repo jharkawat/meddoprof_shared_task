@@ -1,0 +1,10 @@
+
+Comenzó	O
+a	O
+consumir	O
+bebidas	O
+alcohólicas	O
+de	O
+manera	O
+habitual	O
+.	O

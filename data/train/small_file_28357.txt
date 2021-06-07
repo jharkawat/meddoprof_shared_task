@@ -1,0 +1,24 @@
+
+En	O
+el	O
+plano	O
+interpersonal	O
+,	O
+ha	O
+reducido	O
+la	O
+erotización	O
+y	O
+dependencia	O
+hacia	O
+la	O
+figura	O
+masculina	O
+,	O
+adoptando	O
+una	O
+actitud	O
+más	O
+asertiva	O
+yautónoma	O
+.	O

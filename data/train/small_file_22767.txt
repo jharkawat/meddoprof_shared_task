@@ -1,0 +1,12 @@
+
+Hemograma	O
+,	O
+función	O
+renal	O
+,	O
+lipidograma	O
+y	O
+hormonas	O
+tiroideas	O
+normales	O
+.	O

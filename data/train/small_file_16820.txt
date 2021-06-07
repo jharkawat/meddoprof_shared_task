@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+47	O
+años	O
+,	O
+con	O
+los	O
+siguientes	O
+antecedentes	O
+patológicos	O
+:	O
+reacción	O
+adversa	O
+a	O
+los	O
+antiinflamatorios	O
+no	O
+esteroideos	O
+.	O

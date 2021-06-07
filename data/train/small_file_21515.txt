@@ -1,0 +1,10 @@
+
+Acude	O
+al	O
+psicólogo	B-PROFESION
+por	O
+insistencia	O
+de	O
+su	O
+padre	O
+.	O

@@ -1,0 +1,8 @@
+
+Toma	O
+bebidas	O
+alcohólicas	O
+de	O
+forma	O
+ocasional	O
+.	O

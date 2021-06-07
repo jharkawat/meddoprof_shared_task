@@ -1,0 +1,25 @@
+
+Ante	O
+los	O
+problemas	O
+familiares	O
+y	O
+la	O
+actitud	O
+oposicionista	O
+con	O
+sus	O
+padres	O
+se	O
+va	O
+de	O
+casa	O
+para	O
+irse	O
+a	O
+otra	O
+ciudad	O
+con	O
+unos	O
+amigos	O
+.	O

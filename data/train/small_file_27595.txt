@@ -1,0 +1,20 @@
+
+Un	O
+ingreso	O
+a	O
+los	O
+15	O
+años	O
+de	O
+edad	O
+por	O
+aumento	O
+del	O
+gradiente	O
+de	O
+la	O
+estenosis	O
+para	O
+realizar	O
+cirugía	O
+.	O

@@ -1,0 +1,20 @@
+
+En	O
+el	O
+electrorencefalograma	O
+se	O
+aprecia	O
+focalidad	O
+lenta	O
+posterior	O
+bilateral	O
+de	O
+predominio	O
+derecho	O
+,	O
+sobre	O
+actividad	O
+de	O
+fondo	O
+conservada	O
+.	O

@@ -1,0 +1,17 @@
+
+El	O
+padre	O
+trabajaba	O
+como	O
+agente	B-PROFESION
+comercial	I-PROFESION
+viajando	O
+con	O
+frecuencia	O
+y	O
+la	O
+madre	O
+ejercía	O
+como	O
+maestra	B-PROFESION
+.	O

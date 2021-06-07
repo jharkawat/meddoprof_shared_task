@@ -1,0 +1,21 @@
+
+Redujo	O
+el	O
+consumo	O
+de	O
+tabaco	O
+de	O
+40	O
+a	O
+10	O
+cigarrillos	O
+al	O
+día	O
+y	O
+los	O
+que	O
+fumaba	O
+los	O
+consumía	O
+despacio	O
+.	O

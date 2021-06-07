@@ -1,0 +1,14 @@
+
+Salvo	O
+náuseas	O
+ocasionales	O
+y	O
+una	O
+ligera	O
+astenia	O
+,	O
+no	O
+refiere	O
+otra	O
+sintomatología	O
+.	O

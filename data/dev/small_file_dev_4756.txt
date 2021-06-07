@@ -1,0 +1,6 @@
+
+La	O
+auscultación	O
+pulmonar	O
+normal	O
+.	O

@@ -1,0 +1,6 @@
+
+Son	O
+predominantemente	O
+difusión	O
+positivas	O
+.	O

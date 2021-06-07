@@ -1,0 +1,10 @@
+
+El	O
+Doppler	O
+umbilical	O
+se	O
+encuentra	O
+dentro	O
+de	O
+la	O
+normalidad	O

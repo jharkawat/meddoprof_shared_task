@@ -1,0 +1,20 @@
+
+Ante	O
+los	O
+hallazgos	O
+de	O
+las	O
+pruebas	O
+complementarias	O
+se	O
+solicita	O
+valoración	O
+por	O
+parte	O
+de	O
+Oncología	O
+Radioterápica	O
+y	O
+de	O
+Neurocirugía	O
+.	O

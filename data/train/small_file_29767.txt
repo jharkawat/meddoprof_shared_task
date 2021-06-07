@@ -1,0 +1,24 @@
+
+Mientras	O
+tanto	O
+,	O
+los	O
+síntomas	O
+positivos	O
+no	O
+pasan	O
+de	O
+un	O
+delirio	O
+mal	O
+estructurado	O
+de	O
+culpa	O
+,	O
+apragmático	O
+e	O
+irreductible	O
+a	O
+cualquier	O
+confrontación	O
+.	O

@@ -1,0 +1,18 @@
+
+No	O
+presentaba	O
+ningún	O
+síntoma	O
+psicótico	O
+,	O
+ni	O
+ideación	O
+delirante	O
+ni	O
+tomaba	O
+medicación	O
+desde	O
+hacía	O
+tres	O
+meses	O
+.	O

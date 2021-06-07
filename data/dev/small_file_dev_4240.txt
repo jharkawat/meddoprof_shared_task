@@ -1,0 +1,10 @@
+
+ecuencia	O
+coronal	O
+Fat	O
+-	O
+sat	O
+y	O
+coronal	O
+T1	O
+.	O

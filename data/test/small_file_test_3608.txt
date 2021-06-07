@@ -1,0 +1,24 @@
+
+En	O
+la	O
+TC	O
+de	O
+evaluación	O
+,	O
+tras	O
+el	O
+séptimo	O
+ciclo	O
+,	O
+se	O
+observó	O
+una	O
+respuesta	O
+que	O
+no	O
+cumplía	O
+criterios	O
+para	O
+considerarla	O
+parcial	O
+.	O

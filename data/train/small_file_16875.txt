@@ -1,0 +1,14 @@
+
+El	O
+dolor	O
+empeoraba	O
+con	O
+maniobras	O
+de	O
+Valsalva	O
+,	O
+no	O
+con	O
+el	O
+decúbito	O
+.	O

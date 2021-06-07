@@ -1,0 +1,20 @@
+
+En	O
+la	O
+base	O
+de	O
+hemitórax	O
+derecho	O
+se	O
+observa	O
+una	O
+tracción	O
+pleurodiafragmática	O
+de	O
+aspecto	O
+secuelar	O
+(	O
+tienda	O
+pleural	O
+)	O
+.	O

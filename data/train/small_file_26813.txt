@@ -1,0 +1,16 @@
+
+A	O
+pesar	O
+del	O
+tratamiento	O
+continuaba	O
+con	O
+brotes	O
+que	O
+fluctuaban	O
+a	O
+lo	O
+largo	O
+del	O
+día	O
+.	O

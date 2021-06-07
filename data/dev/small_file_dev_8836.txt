@@ -1,0 +1,9 @@
+
+No	O
+otra	O
+sintomatología	O
+por	O
+órganos	O
+y	O
+aparatos	O
+.	O

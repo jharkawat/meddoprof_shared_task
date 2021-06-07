@@ -1,0 +1,15 @@
+
+Se	O
+solicitó	O
+una	O
+ecografía	O
+,	O
+que	O
+únicamente	O
+describía	O
+esplenomegalia	O
+homogénea	O
+de	O
+14	O
+cm	O
+.	O

@@ -1,0 +1,5 @@
+
+Serie	O
+megacariocítica	O
+ausente	O
+.	O

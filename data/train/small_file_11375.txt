@@ -1,0 +1,14 @@
+
+Se	O
+deriva	O
+el	O
+paciente	O
+a	O
+consultas	O
+externas	O
+de	O
+ENf	O
+infecciosas	O
+para	O
+seguimiento	O
+.	O

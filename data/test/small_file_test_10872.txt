@@ -1,0 +1,27 @@
+
+Endovascular	O
+VS	O
+tratamiento	O
+quirúrgico	O
+(	O
+división	O
+de	O
+la	O
+fístula	O
+y	O
+la	O
+reconstrucción	O
+de	O
+la	O
+arteria	O
+y	O
+la	O
+vena	O
+,	O
+con	O
+ligadura	O
+de	O
+la	O
+vena	O
+)	O
+.	O

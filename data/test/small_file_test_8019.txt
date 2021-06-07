@@ -1,0 +1,25 @@
+
+Se	O
+deriva	O
+a	O
+Oncología	O
+Médica	O
+para	O
+plantear	O
+tratamiento	O
+,	O
+donde	O
+es	O
+vista	O
+por	O
+primera	O
+vez	O
+en	O
+consulta	O
+el	O
+16	O
+de	O
+enero	O
+del	O
+2014	O
+.	O

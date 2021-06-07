@@ -1,0 +1,16 @@
+
+A	O
+la	O
+auscultación	O
+cardiorrespiratoria	O
+los	O
+tonos	O
+son	O
+rítmicos	O
+y	O
+conserva	O
+un	O
+buen	O
+murmullo	O
+vesicular	O
+.	O

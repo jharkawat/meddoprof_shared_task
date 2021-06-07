@@ -1,0 +1,15 @@
+
+En	O
+la	O
+ecografía	O
+se	O
+objetiva	O
+nódulo	O
+hipoecoico	O
+en	O
+lóbulo	O
+tiroideo	O
+derecho	O
+TIRADS	O
+4	O
+.	O

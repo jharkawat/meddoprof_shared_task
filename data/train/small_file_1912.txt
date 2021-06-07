@@ -1,0 +1,24 @@
+
+La	O
+paciente	O
+es	O
+evacuada	O
+al	O
+ROLE	O
+-	O
+2	O
+,	O
+se	O
+realiza	O
+estabilización	O
+hemodinámica	O
+y	O
+amputación	O
+de	O
+emergencia	O
+con	O
+desarticulación	O
+de	O
+la	O
+rodilla	O
+.	O

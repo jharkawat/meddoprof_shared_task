@@ -1,0 +1,10 @@
+
+F25	O
+.	O
+0	O
+Trastorno	O
+esquizoafectivo	O
+de	O
+tipo	O
+maníaco	O
+.	O

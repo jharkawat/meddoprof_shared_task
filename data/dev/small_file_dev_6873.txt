@@ -1,0 +1,17 @@
+
+Fue	O
+valorado	O
+por	O
+Dermatología	O
+considerando	O
+las	O
+lesiones	O
+compatibles	O
+con	O
+prúrigo	O
+nodular	O
+y	O
+pautando	O
+esteroides	O
+tópicos	O
+.	O

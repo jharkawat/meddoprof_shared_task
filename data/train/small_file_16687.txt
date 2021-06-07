@@ -1,0 +1,11 @@
+
+Reflejo	O
+cutáneo	O
+-	O
+plantar	O
+derecho	O
+flexor	O
+e	O
+izquierdo	O
+indiferente	O
+.	O

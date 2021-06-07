@@ -1,0 +1,9 @@
+
+No	O
+refiere	O
+otro	O
+tipo	O
+de	O
+crisis	O
+epiléptica	O
+.	O

@@ -1,0 +1,16 @@
+
+-	O
+Carcinoma	O
+urotelial	O
+papilar	O
+de	O
+alto	O
+grado	O
+infiltrante	O
+,	O
+intervenido	O
+mediante	O
+RTU	O
+en	O
+2012	O
+.	O

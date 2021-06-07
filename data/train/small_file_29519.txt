@@ -1,0 +1,25 @@
+
+Los	O
+antecedentes	O
+familiares	O
+de	O
+epilepsia	O
+y	O
+la	O
+presentación	O
+de	O
+una	O
+crisis	O
+convulsiva	O
+aislada	O
+podrían	O
+hacer	O
+sospechar	O
+la	O
+presencia	O
+de	O
+epilepsia	O
+con	O
+síntomas	O
+psicóticos	O
+.	O

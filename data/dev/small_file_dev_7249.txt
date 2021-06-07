@@ -1,0 +1,13 @@
+
+Esquistosomiasis	O
+crónica	O
+de	O
+la	O
+vía	O
+urinaria	O
+con	O
+ureterohidronefrosis	O
+izquierda	O
+severa	O
+secundaria	O
+.	O

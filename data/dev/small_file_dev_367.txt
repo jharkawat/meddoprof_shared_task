@@ -1,0 +1,26 @@
+
+Se	O
+añadió	O
+tratamiento	O
+con	O
+entacapona	O
+,	O
+fármaco	O
+inhibidor	O
+a	O
+de	O
+la	O
+catecol	O
+-	O
+O	O
+-	O
+metiltransferasa	O
+,	O
+a	O
+dosis	O
+de	O
+1000	O
+mg	O
+/	O
+día	O
+.	O

@@ -1,0 +1,13 @@
+
+También	O
+necesitó	O
+tratamiento	O
+para	O
+episodios	O
+transitorios	O
+de	O
+desorientación	O
+con	O
+excitación	O
+psicomotora	O
+.	O

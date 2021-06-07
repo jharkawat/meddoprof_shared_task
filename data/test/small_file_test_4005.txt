@@ -1,0 +1,14 @@
+
+El	O
+estudio	O
+de	O
+la	O
+mutación	O
+EGFR	O
+resulta	O
+positiva	O
+en	O
+el	O
+exón	O
+19	O
+.	O

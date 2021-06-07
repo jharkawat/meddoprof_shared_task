@@ -1,0 +1,27 @@
+
+La	O
+paciente	O
+presentaba	O
+varias	O
+queratosis	O
+seborreicas	O
+dorsales	O
+y	O
+lumbares	O
+y	O
+en	O
+región	O
+dorsal	O
+derecha	O
+se	O
+observó	O
+placa	O
+perlada	O
+de	O
+1	O
+,	O
+2	O
+cm	O
+de	O
+diámetro	O
+.	O

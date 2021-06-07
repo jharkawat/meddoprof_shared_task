@@ -1,0 +1,9 @@
+
+Exantema	O
+fijo	O
+medicamentoso	O
+en	O
+relación	O
+a	O
+amoxicilina	O
+.	O

@@ -1,0 +1,9 @@
+
+Finalmente	O
+la	O
+paciente	O
+fallece	O
+en	O
+marzo	O
+2016	O
+.	O

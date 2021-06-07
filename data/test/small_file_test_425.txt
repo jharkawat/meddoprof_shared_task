@@ -1,0 +1,19 @@
+
+Supervisa	O
+la	O
+preparación	O
+de	O
+los	O
+alimentos	O
+,	O
+tiene	O
+desconfianza	O
+en	O
+comer	O
+,	O
+piensa	O
+que	O
+todo	O
+esta	O
+contaminado	O
+.	O

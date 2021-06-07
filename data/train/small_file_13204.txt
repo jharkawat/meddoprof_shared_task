@@ -1,0 +1,27 @@
+
+Pocos	O
+días	O
+después	O
+,	O
+la	O
+plaquetopenia	O
+se	O
+recuperó	O
+y	O
+se	O
+realizó	O
+una	O
+punción	O
+lumbar	O
+compatible	O
+con	O
+Guillain	O
+-	O
+Barré	O
+(	O
+disociación	O
+albúmino	O
+-	O
+citológica	O
+)	O
+.	O

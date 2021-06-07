@@ -1,0 +1,5 @@
+
+No	O
+enfermedad	O
+intercurrente	O
+.	O

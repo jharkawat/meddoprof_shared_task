@@ -1,0 +1,21 @@
+
+Recientemente	O
+ha	O
+recibido	O
+tratamiento	O
+con	O
+fosfomicina	O
+3	O
+g	O
+,	O
+dosis	O
+única	O
+,	O
+por	O
+sospecha	O
+de	O
+infección	O
+del	O
+tracto	O
+urinario	O
+.	O

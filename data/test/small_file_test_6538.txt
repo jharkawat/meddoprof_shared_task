@@ -1,0 +1,17 @@
+
+En	O
+los	O
+días	O
+posteriores	O
+,	O
+se	O
+realizaron	O
+diversas	O
+pruebas	O
+que	O
+fueron	O
+aproximando	O
+el	O
+diagnóstico	O
+final	O
+:	O

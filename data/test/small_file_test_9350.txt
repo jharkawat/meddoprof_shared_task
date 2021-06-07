@@ -1,0 +1,17 @@
+
+Mediante	O
+biopsia	O
+de	O
+masa	O
+anexial	O
+derecha	O
+se	O
+describe	O
+un	O
+tumor	O
+maligno	O
+compatible	O
+con	O
+origen	O
+ovárico	O
+.	O

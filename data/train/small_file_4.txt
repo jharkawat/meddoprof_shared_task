@@ -1,0 +1,26 @@
+
+A	O
+la	O
+exploración	O
+,	O
+presentó	O
+fiebre	O
+(	O
+40	O
+°	O
+C	O
+)	O
+y	O
+disnea	O
+con	O
+una	O
+saturación	O
+de	O
+oxígeno	O
+del	O
+91	O
+%	O
+en	O
+aire	O
+ambiental	O
+.	O

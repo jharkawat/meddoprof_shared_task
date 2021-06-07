@@ -1,0 +1,9 @@
+
+IMC	O
+20	O
+.	O
+2	O
+kg	O
+/	O
+m2	O
+.	O

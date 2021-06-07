@@ -1,0 +1,5 @@
+
+Reacción	O
+motriz	O
+60	O
+%	O

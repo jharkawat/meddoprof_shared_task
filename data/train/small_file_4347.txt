@@ -1,0 +1,10 @@
+
+Tiene	O
+3	O
+hijos	O
+que	O
+no	O
+viven	O
+con	O
+ellos	O
+.	O

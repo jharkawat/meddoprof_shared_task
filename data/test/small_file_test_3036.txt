@@ -1,0 +1,12 @@
+
+Ventrículo	O
+derecho	O
+de	O
+tamaño	O
+y	O
+función	O
+normal	O
+Insuficiencia	O
+tricúspide	O
+ligera	O
+.	O

@@ -1,0 +1,19 @@
+
+Tras	O
+la	O
+intervención	O
+,	O
+el	O
+paciente	O
+presenta	O
+importante	O
+mejoría	O
+clínica	O
+,	O
+dejándose	O
+el	O
+catéter	O
+conectado	O
+a	O
+bolsa	O
+.	O

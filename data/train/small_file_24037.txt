@@ -1,0 +1,21 @@
+
+El	O
+virus	O
+C	O
+es	O
+genotipo	O
+I	O
+y	O
+la	O
+PCR	O
+para	O
+RNA	O
+de	O
+VHC	O
+da	O
+>	O
+700	O
+.	O
+000	O
+copias	O
+.	O

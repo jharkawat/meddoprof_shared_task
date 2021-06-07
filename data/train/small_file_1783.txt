@@ -1,0 +1,26 @@
+
+Fumaba	O
+10	O
+cigarrillos	O
+/	O
+día	O
+desde	O
+los	O
+14	O
+años	O
+(	O
+10	O
+,	O
+5	O
+paquetes	O
+/	O
+año	O
+)	O
+y	O
+8	O
+porros	O
+de	O
+marihuana	O
+/	O
+día	O
+.	O

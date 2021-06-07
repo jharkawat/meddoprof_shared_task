@@ -1,0 +1,13 @@
+
+Antecedentes	O
+familiares	O
+:	O
+no	O
+se	O
+registran	O
+enfermedades	O
+psiquiátricas	O
+en	O
+su	O
+familia	O
+.	O

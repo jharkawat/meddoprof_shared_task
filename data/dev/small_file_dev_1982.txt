@@ -1,0 +1,16 @@
+
+Antecedentes	O
+personales	O
+:	O
+desde	O
+los	O
+2	O
+a	O
+los	O
+8	O
+años	O
+han	O
+residido	O
+en	O
+París	O
+.	O

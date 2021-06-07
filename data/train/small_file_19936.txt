@@ -1,0 +1,17 @@
+
+El	O
+psiquiatra	B-PROFESION
+dijo	O
+que	O
+no	O
+acababa	O
+de	O
+explicarse	O
+la	O
+razón	O
+de	O
+que	O
+sacara	O
+el	O
+cuchillo	O
+.	O

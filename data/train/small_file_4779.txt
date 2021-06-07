@@ -1,0 +1,13 @@
+
+MMII	O
+:	O
+hematoma	O
+en	O
+evolución	O
+en	O
+cara	O
+lateral	O
+de	O
+pierna	O
+izquierda	O
+.	O

@@ -1,0 +1,13 @@
+
+Entre	O
+los	O
+antecedentes	O
+personales	O
+del	O
+paciente	O
+figuraba	O
+un	O
+episodio	O
+psicótico	O
+previo	O
+.	O

@@ -1,0 +1,26 @@
+
+Este	O
+dolor	O
+se	O
+intensifica	O
+con	O
+el	O
+paso	O
+de	O
+los	O
+días	O
+,	O
+sobre	O
+todo	O
+por	O
+la	O
+noche	O
+,	O
+al	O
+tener	O
+que	O
+dormir	O
+sobre	O
+un	O
+lateral	O
+.	O

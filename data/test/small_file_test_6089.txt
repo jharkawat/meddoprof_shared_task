@@ -1,0 +1,9 @@
+
+A	O
+nivel	O
+superficial	O
+confinada	O
+en	O
+musculatura	O
+cigomática	O
+.	O

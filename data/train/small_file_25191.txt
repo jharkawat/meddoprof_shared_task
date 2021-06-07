@@ -1,0 +1,7 @@
+
+El	O
+desarrollo	O
+psicomotor	O
+fue	O
+normal	O
+.	O

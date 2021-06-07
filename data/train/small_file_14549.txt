@@ -1,0 +1,16 @@
+
+Además	O
+leucocitosis	O
+de	O
+12000	O
+células	O
+/	O
+microlitro	O
+con	O
+un	O
+20	O
+%	O
+de	O
+eosinófilos	O
+maduros	O
+.	O

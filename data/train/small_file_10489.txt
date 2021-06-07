@@ -1,0 +1,7 @@
+
+Cultivo	O
+positivo	O
+para	O
+Blastomyces	O
+dermatitidis	O
+.	O

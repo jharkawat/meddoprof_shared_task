@@ -1,0 +1,10 @@
+
+Discurso	O
+difícil	O
+de	O
+comprender	O
+,	O
+con	O
+asociaciones	O
+laxas	O
+.	O

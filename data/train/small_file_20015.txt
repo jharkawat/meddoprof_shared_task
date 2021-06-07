@@ -1,0 +1,13 @@
+
+Parecía	O
+no	O
+tener	O
+ninguna	O
+consciencia	O
+de	O
+que	O
+sus	O
+creencias	O
+fueran	O
+anómalas	O
+.	O

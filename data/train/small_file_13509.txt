@@ -1,0 +1,27 @@
+
+En	O
+las	O
+primeras	O
+24	O
+horas	O
+de	O
+ingreso	O
+,	O
+el	O
+paciente	O
+presenta	O
+comportamiento	O
+mórico	O
+y	O
+fiebre	O
+,	O
+presentando	O
+disfasia	O
+sensitivo	O
+-	O
+motora	O
+transcortical	O
+y	O
+marcha	O
+apráxica	O
+.	O

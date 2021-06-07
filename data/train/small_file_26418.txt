@@ -1,0 +1,16 @@
+
+Ante	O
+la	O
+dificultad	O
+para	O
+valorar	O
+el	O
+riesgo	O
+suicida	O
+había	O
+sopesado	O
+la	O
+posibilidad	O
+del	O
+ingreso	O
+.	O

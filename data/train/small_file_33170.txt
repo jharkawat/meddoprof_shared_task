@@ -1,0 +1,13 @@
+
+Destacaban	O
+unos	O
+espasmos	O
+distónicos	O
+de	O
+tronco	O
+,	O
+cervicales	O
+y	O
+miembros	O
+superiores	O
+.	O

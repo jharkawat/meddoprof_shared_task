@@ -1,0 +1,6 @@
+
+Radiografía	O
+torácica	O
+:	O
+cardiomegalia	O
+.	O

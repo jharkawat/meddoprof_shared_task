@@ -1,0 +1,15 @@
+
+Los	O
+ataques	O
+han	O
+continuado	O
+pero	O
+ocurren	O
+en	O
+los	O
+lugares	O
+donde	O
+ella	O
+más	O
+teme	O
+.	O

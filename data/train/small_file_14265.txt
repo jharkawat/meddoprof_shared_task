@@ -1,0 +1,8 @@
+
+La	O
+serología	O
+de	O
+autoinmunidad	O
+era	O
+negativa	O
+.	O

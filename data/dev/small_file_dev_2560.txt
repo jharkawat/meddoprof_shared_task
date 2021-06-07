@@ -1,0 +1,13 @@
+
+No	O
+se	O
+observan	O
+asimetrías	O
+faciales	O
+o	O
+corporales	O
+ni	O
+tampoco	O
+estigmas	O
+cutáneos	O
+.	O

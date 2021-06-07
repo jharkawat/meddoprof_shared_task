@@ -1,0 +1,12 @@
+
+Aplanamiento	O
+afectivo	O
+importante	O
+,	O
+aunque	O
+él	O
+describe	O
+un	O
+ánimo	O
+decaído	O
+.	O

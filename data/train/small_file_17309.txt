@@ -1,0 +1,6 @@
+
+Pubertad	O
+con	O
+12	O
+años	O
+.	O

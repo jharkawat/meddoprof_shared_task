@@ -1,0 +1,26 @@
+
+Anamnesis	O
+:	O
+En	O
+noviembre	O
+de	O
+2014	O
+comienza	O
+con	O
+fiebre	O
+de	O
+38o	O
+,	O
+no	O
+tos	O
+,	O
+no	O
+expectoración	O
+,	O
+por	O
+lo	O
+que	O
+acude	O
+al	O
+S	O
+.	O

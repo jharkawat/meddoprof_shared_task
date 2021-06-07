@@ -1,0 +1,27 @@
+
+Juicio	O
+clínico	O
+:	O
+Trastorno	O
+de	O
+adaptación	O
+con	O
+estado	O
+de	O
+ánimo	O
+deprimido	O
+(	O
+F43	O
+.	O
+21	O
+,	O
+CIE	O
+-	O
+10	O
+)	O
+,	O
+secuente	O
+a	O
+patología	O
+física	O
+crónica	O

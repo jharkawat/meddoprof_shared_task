@@ -1,0 +1,20 @@
+
+Acudió	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+por	O
+aumento	O
+del	O
+tamaño	O
+del	O
+escroto	O
+de	O
+6	O
+meses	O
+de	O
+evolución	O
+.	O

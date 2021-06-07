@@ -1,0 +1,26 @@
+
+En	O
+enero	O
+de	O
+2006	O
+,	O
+comenzó	O
+con	O
+una	O
+dieta	O
+hipocalórica	O
+,	O
+con	O
+una	O
+pérdida	O
+ponderal	O
+de	O
+hasta	O
+18	O
+kg	O
+incluso	O
+habiendo	O
+abandonado	O
+la	O
+dieta	O
+.	O

@@ -1,0 +1,11 @@
+
+Estaba	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+desde	O
+hace	O
+unos	O
+diez	O
+años	O
+.	O

@@ -1,0 +1,20 @@
+
+En	O
+mayo	O
+presentó	O
+cuadro	O
+de	O
+neumonía	O
+asociada	O
+a	O
+cuidados	O
+sanitarios	O
+,	O
+por	O
+la	O
+que	O
+precisó	O
+para	O
+tratamiento	O
+antibiótico	O
+.	O

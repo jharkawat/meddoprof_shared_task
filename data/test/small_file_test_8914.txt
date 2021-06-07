@@ -1,0 +1,27 @@
+
+En	O
+febrero	O
+/	O
+2017	O
+durante	O
+seguimiento	O
+aparece	O
+en	O
+TC	O
+:	O
+LOE	O
+segmento	O
+VII	O
+-	O
+VIII	O
+subcapsular	O
+de	O
+20	O
+mm	O
+de	O
+diámetro	O
+que	O
+sugiere	O
+enfermedad	O
+metastásica	O
+.	O

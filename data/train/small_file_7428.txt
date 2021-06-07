@@ -1,0 +1,16 @@
+
+Ocupaba	O
+la	O
+mayor	O
+parte	O
+del	O
+tiempo	O
+en	O
+la	O
+realización	O
+de	O
+manicuras	O
+con	O
+esmaltes	O
+semipermanentes	O
+.	O

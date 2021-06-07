@@ -1,0 +1,13 @@
+
+Al	O
+parecer	O
+evolucionó	O
+en	O
+forma	O
+correcta	O
+y	O
+no	O
+se	O
+detectaron	O
+secuelas	O
+.	O

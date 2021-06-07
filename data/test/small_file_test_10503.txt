@@ -1,0 +1,15 @@
+
+Sus	O
+constantes	O
+vitales	O
+eran	O
+:	O
+tensión	O
+arterial	O
+:	O
+115	O
+/	O
+95	O
+mm	O
+Hg	O
+.	O

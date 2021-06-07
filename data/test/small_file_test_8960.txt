@@ -1,0 +1,27 @@
+
+Por	O
+ese	O
+motivo	O
+,	O
+comienza	O
+estudio	O
+en	O
+su	O
+Hospital	O
+comarcal	O
+de	O
+referencia	O
+,	O
+donde	O
+permanece	O
+ingresado	O
+en	O
+Medicina	O
+Interna	O
+del	O
+3	O
+al	O
+19	O
+noviembre	O
+2017	O
+.	O

@@ -1,0 +1,27 @@
+
+Como	O
+no	O
+perdía	O
+peso	O
+,	O
+ha	O
+acudido	O
+a	O
+una	O
+consulta	O
+privada	O
+y	O
+el	O
+médico	B-PROFESION
+le	O
+solicita	O
+lo	O
+mismo	O
+que	O
+se	O
+le	O
+determinó	O
+hace	O
+un	O
+mes	O
+.	O

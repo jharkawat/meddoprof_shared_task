@@ -1,0 +1,13 @@
+
+Convive	O
+con	O
+8	O
+personas	O
+en	O
+una	O
+casa	O
+con	O
+buenas	O
+condiciones	O
+higiénicas	O
+.	O

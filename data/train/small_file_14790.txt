@@ -1,0 +1,9 @@
+
+-	O
+Rx	O
+Tórax	O
+:	O
+derrame	O
+pleural	O
+derecho	O
+.	O

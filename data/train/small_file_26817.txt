@@ -1,0 +1,10 @@
+
+Se	O
+confirmó	O
+el	O
+diagnóstico	O
+de	O
+Lupus	O
+Eritematoso	O
+Sistémico	O
+.	O

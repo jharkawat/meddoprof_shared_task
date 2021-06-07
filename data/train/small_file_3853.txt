@@ -1,0 +1,15 @@
+
+Carcinoma	O
+Neuroendocrino	O
+de	O
+Pulmón	O
+(	O
+Pancoast	O
+)	O
+estadio	O
+IV	O
+:	O
+T4	O
+N0	O
+M1b	O
+.	O

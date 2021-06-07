@@ -1,0 +1,17 @@
+
+Es	O
+traído	O
+en	O
+ambulancia	O
+terrestre	O
+hasta	O
+el	O
+Hospital	O
+Militar	O
+Español	O
+situado	O
+dentro	O
+de	O
+dicha	O
+base	O
+.	O

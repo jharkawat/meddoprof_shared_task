@@ -1,0 +1,16 @@
+
+La	O
+paciente	O
+evoluciona	O
+favorablemente	O
+,	O
+permaneciendo	O
+consciente	O
+y	O
+colaboradora	O
+,	O
+eupneica	O
+con	O
+aire	O
+ambiente	O
+.	O

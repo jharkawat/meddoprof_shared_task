@@ -1,0 +1,10 @@
+
+Bebedora	O
+activa	O
+de	O
+5	O
+g	O
+de	O
+etanol	O
+diarios	O
+.	O

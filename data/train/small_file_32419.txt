@@ -1,0 +1,26 @@
+
+Serologías	O
+infecciosas	O
+negativas	O
+.	O
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+56	O
+lpm	O
+sin	O
+alteraciones	O
+.	O
+TAC	O
+craneal	O
+:	O
+no	O
+se	O
+aprecian	O
+alteraciones	O
+radiológicas	O
+de	O
+interés	O
+.	O

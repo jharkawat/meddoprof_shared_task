@@ -1,0 +1,5 @@
+
+No	O
+dolor	O
+abdominal	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+distorsión	O
+en	O
+la	O
+imagen	O
+corporal	O
+.	O

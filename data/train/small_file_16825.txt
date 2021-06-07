@@ -1,0 +1,10 @@
+
+Anticuerpos	O
+antinucleares	O
+positivos	O
+y	O
+anti	O
+-	O
+DNA	O
+positivos	O
+.	O

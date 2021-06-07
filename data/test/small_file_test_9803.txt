@@ -1,0 +1,27 @@
+
+Se	O
+administraron	O
+seis	O
+ciclos	O
+con	O
+el	O
+esquema	O
+de	O
+antraciclina	O
+,	O
+observando	O
+estabilización	O
+por	O
+pruebas	O
+de	O
+imagen	O
+,	O
+y	O
+finalizando	O
+dicho	O
+tratamiento	O
+en	O
+noviembre	O
+de	O
+2016	O
+.	O

@@ -1,0 +1,7 @@
+
+Poliposis	O
+familiar	O
+en	O
+varios	O
+miembros	O
+.	O

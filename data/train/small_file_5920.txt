@@ -1,0 +1,17 @@
+
+Es	O
+ingresada	O
+nuevamente	O
+y	O
+tratada	O
+con	O
+corticoides	O
+orales	O
+y	O
+medidas	O
+de	O
+soporte	O
+hasta	O
+su	O
+mejoría	O
+.	O

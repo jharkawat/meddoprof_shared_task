@@ -1,0 +1,10 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+corticoides	O
+y	O
+tratamiento	O
+rehabilitador	O
+.	O

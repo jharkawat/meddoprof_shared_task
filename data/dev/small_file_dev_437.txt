@@ -1,0 +1,7 @@
+
+Demencia	O
+con	O
+Cuerpos	O
+de	O
+Lewy	O
+.	O

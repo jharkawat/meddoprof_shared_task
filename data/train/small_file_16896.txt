@@ -1,0 +1,27 @@
+
+El	O
+estudio	O
+de	O
+hipercoagulabilidad	O
+que	O
+incluía	O
+tiempos	O
+de	O
+coagulación	O
+,	O
+estudios	O
+de	O
+trombofilia	O
+y	O
+genotipos	O
+del	O
+factor	O
+V	O
+de	O
+Leiden	O
+y	O
+P20210	O
+,	O
+fue	O
+normal	O
+.	O

@@ -1,0 +1,15 @@
+
+El	O
+cuadro	O
+psicótico	O
+se	O
+inicia	O
+con	O
+alucinaciones	O
+floridas	O
+,	O
+inicialmente	O
+visuales	O
+y	O
+cenestésicas	O
+.	O

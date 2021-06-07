@@ -1,0 +1,20 @@
+
+Se	O
+realizan	O
+perfiles	O
+(	O
+normales	O
+)	O
+,	O
+autoinmunidad	O
+negativa	O
+,	O
+electromiograma	O
+y	O
+electroneurograma	O
+anodinos	O
+,	O
+biopsia	O
+muscular	O
+normal	O
+.	O

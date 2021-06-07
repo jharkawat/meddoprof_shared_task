@@ -1,0 +1,20 @@
+
+Vive	O
+con	O
+su	O
+marido	O
+,	O
+es	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+,	O
+y	O
+tiene	O
+dos	O
+hijas	O
+sanas	O
+nacidas	O
+mediante	O
+cesárea	O
+.	O

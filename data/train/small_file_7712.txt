@@ -1,0 +1,14 @@
+
+Estudió	O
+filosofía	O
+y	O
+letras	O
+,	O
+habiendo	O
+trabajado	O
+en	O
+el	O
+pasado	O
+como	O
+administrativa	B-PROFESION
+.	O

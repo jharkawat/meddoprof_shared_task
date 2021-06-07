@@ -1,0 +1,20 @@
+
+Sospechando	O
+una	O
+infección	O
+de	O
+piel	O
+y	O
+partes	O
+blandas	O
+necrotizante	O
+,	O
+se	O
+comentó	O
+el	O
+caso	O
+con	O
+Dermatología	O
+para	O
+valoración	O
+.	O

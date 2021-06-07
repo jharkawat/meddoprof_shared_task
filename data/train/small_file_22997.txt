@@ -1,0 +1,27 @@
+
+Donde	O
+mostraba	O
+un	O
+rendimiento	O
+claramente	O
+bajo	O
+era	O
+en	O
+la	O
+prueba	O
+de	O
+tarjetas	O
+de	O
+Wisconsin	O
+en	O
+la	O
+que	O
+unicamente	O
+completa	O
+3	O
+categorías	O
+con	O
+una	O
+ejecución	O
+irregular	O
+.	O

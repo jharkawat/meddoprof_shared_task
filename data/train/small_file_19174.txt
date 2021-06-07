@@ -1,0 +1,8 @@
+
+Consumo	O
+actual	O
+12	O
+cigarrillos	O
+/	O
+día	O
+.	O

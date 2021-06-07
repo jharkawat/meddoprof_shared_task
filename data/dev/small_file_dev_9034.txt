@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+negó	O
+rotundamente	O
+haber	O
+tenido	O
+contactos	O
+sexuales	O
+de	O
+riesgo	O
+.	O

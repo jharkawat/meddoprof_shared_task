@@ -1,0 +1,9 @@
+
+Se	O
+realizó	O
+SDS	O
+PAGE	O
+y	O
+Western	O
+Blot	O
+.	O

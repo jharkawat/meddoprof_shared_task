@@ -1,0 +1,21 @@
+
+Tres	O
+meses	O
+antes	O
+comenzó	O
+a	O
+«	O
+oír	O
+voces	O
+que	O
+trataban	O
+de	O
+hacerme	O
+sentir	O
+culpable	O
+»	O
+casi	O
+todos	O
+los	O
+días	O
+.	O

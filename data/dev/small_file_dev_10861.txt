@@ -1,0 +1,4 @@
+
+Ecocardiograma	O
+normal	O
+.	O

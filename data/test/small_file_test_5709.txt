@@ -1,0 +1,11 @@
+
+Hemograma	O
+y	O
+coagulación	O
+:	O
+normal	O
+excepto	O
+fibrinogeno	O
+:	O
+709	O
+.	O

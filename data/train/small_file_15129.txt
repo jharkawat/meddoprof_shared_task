@@ -1,0 +1,21 @@
+
+Se	O
+deriva	O
+al	O
+paciente	O
+a	O
+Hematología	O
+,	O
+donde	O
+se	O
+realiza	O
+biopsia	O
+de	O
+médula	O
+ósea	O
+,	O
+libre	O
+de	O
+infiltrados	O
+neoplásicos	O
+.	O

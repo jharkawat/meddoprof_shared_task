@@ -1,0 +1,22 @@
+
+Analítica	O
+:	O
+proteína	O
+C	O
+reactiva	O
+142	O
+,	O
+procalcitonina	O
+0	O
+.	O
+07	O
+,	O
+leucocitos	O
+14590	O
+/	O
+μL	O
+con	O
+neutrofilia	O
+93	O
+%	O
+.	O

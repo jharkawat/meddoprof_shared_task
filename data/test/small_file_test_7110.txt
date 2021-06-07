@@ -1,0 +1,11 @@
+
+No	O
+hay	O
+un	O
+desarrollo	O
+completo	O
+de	O
+la	O
+cava	O
+inferior	O
+.	O

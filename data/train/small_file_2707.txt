@@ -1,0 +1,6 @@
+
+Enfermedad	O
+de	O
+Parkinson	O
+idiopática	O
+.	O

@@ -1,0 +1,10 @@
+
+Eva	O
+es	O
+la	O
+hija	O
+única	O
+de	O
+una	O
+pareja	O
+.	O

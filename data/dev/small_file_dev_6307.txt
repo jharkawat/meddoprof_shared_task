@@ -1,0 +1,11 @@
+
+Rx	O
+tórax	O
+sin	O
+infiltrados	O
+ni	O
+alteraciones	O
+en	O
+la	O
+silueta	O
+cardíaca	O

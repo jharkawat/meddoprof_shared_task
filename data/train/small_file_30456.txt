@@ -1,0 +1,6 @@
+
+Hemograma	O
+:	O
+en	O
+rango	O
+.	O

@@ -1,0 +1,23 @@
+
+En	O
+Urgencias	O
+se	O
+modificó	O
+al	O
+inicio	O
+la	O
+pauta	O
+de	O
+HBPM	O
+por	O
+ausencia	O
+de	O
+nuevos	O
+trombos	O
+,	O
+pero	O
+se	O
+ingresó	O
+para	O
+estudio	O
+.	O

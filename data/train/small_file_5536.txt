@@ -1,0 +1,23 @@
+
+Aparición	O
+muy	O
+aguda	O
+,	O
+con	O
+evolución	O
+tórpida	O
+y	O
+con	O
+síntomas	O
+refractarios	O
+a	O
+opioides	O
+mayores	O
+,	O
+además	O
+de	O
+exploración	O
+física	O
+totalmente	O
+compatible	O
+.	O

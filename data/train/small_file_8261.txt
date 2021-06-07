@@ -1,0 +1,17 @@
+
+No	O
+adenopatías	O
+periféricas	O
+,	O
+auscultación	O
+cardiorrespiratoria	O
+normal	O
+,	O
+abdomen	O
+depresible	O
+y	O
+levemente	O
+doloroso	O
+en	O
+epigastrio	O
+.	O

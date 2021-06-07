@@ -1,0 +1,11 @@
+
+Es	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+y	O
+su	O
+marido	O
+está	O
+jubilado	B-SITUACION_LABORAL
+.	O

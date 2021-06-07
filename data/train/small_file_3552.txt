@@ -1,0 +1,14 @@
+
+El	O
+SSJ	O
+son	O
+lesiones	O
+agudas	O
+no	O
+autolimitadas	O
+que	O
+incluyen	O
+además	O
+manifestaciones	O
+viscerales	O
+.	O

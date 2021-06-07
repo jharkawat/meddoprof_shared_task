@@ -1,0 +1,15 @@
+
+Radiografía	O
+de	O
+tórax	O
+con	O
+ligera	O
+cardiomegalia	O
+,	O
+sin	O
+hallazgos	O
+patológicos	O
+en	O
+parénquimas	O
+pulmonares	O
+.	O

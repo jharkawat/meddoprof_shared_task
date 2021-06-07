@@ -1,0 +1,16 @@
+
+Cada	O
+crisis	O
+suele	O
+durar	O
+sólo	O
+unos	O
+minutos	O
+,	O
+pero	O
+también	O
+puede	O
+persistir	O
+más	O
+tiempo	O
+.	O

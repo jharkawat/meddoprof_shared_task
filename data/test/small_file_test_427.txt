@@ -1,0 +1,27 @@
+
+Patrón	O
+de	O
+eliminación	O
+:	O
+No	O
+presenta	O
+SV	O
+,	O
+disposiciones	O
+disminuidas	O
+por	O
+la	O
+falta	O
+de	O
+ingesta	O
+,	O
+y	O
+en	O
+cuando	O
+a	O
+los	O
+hábitosvesicales	O
+micciona	O
+sin	O
+dificultades	O
+.	O

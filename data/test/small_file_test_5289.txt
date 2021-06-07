@@ -1,0 +1,19 @@
+
+Inició	O
+quimioterapia	O
+de	O
+primera	O
+línea	O
+según	O
+esquema	O
+cisplatino	O
+y	O
+pemetrexed	O
+,	O
+realizó	O
+cuatro	O
+ciclos	O
+obteniendo	O
+respuesta	O
+parcial	O
+.	O

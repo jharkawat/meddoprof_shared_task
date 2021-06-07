@@ -1,0 +1,14 @@
+
+En	O
+fase	O
+sintomática	O
+se	O
+deben	O
+realizar	O
+imágenes	O
+para	O
+filiación	O
+de	O
+las	O
+lesiones	O
+.	O

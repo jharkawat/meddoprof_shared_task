@@ -1,0 +1,25 @@
+
+No	O
+hay	O
+diagnóstico	O
+en	O
+eje	O
+II	O
+,	O
+aunque	O
+si	O
+presenta	O
+rasgos	O
+muy	O
+impulsivos	O
+(	O
+DSM	O
+-	O
+IV	O
+-	O
+TR	O
+:	O
+V71	O
+.	O
+09	O
+)	O

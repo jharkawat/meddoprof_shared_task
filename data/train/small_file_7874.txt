@@ -1,0 +1,9 @@
+
+Rx	O
+de	O
+tórax	O
+:	O
+no	O
+alteraciones	O
+pleuropulmonares	O
+.	O

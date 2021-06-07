@@ -1,0 +1,18 @@
+
+quería	O
+vivir	O
+la	O
+vida	O
+que	O
+tenía	O
+mi	O
+hijo	O
+porque	O
+no	O
+le	O
+gustaba	O
+la	O
+suya	O
+.	O
+.	O
+.	O

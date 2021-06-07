@@ -1,0 +1,21 @@
+
+Motivo	O
+de	O
+consulta	O
+:	O
+fue	O
+reinternado	O
+en	O
+un	O
+hospital	O
+psiquiátrico	O
+porque	O
+en	O
+los	O
+últimos	O
+dos	O
+meses	O
+se	O
+había	O
+deprimido	O
+.	O

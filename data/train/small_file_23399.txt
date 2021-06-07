@@ -1,0 +1,6 @@
+
+Reside	O
+con	O
+su	O
+hermana	O
+.	O

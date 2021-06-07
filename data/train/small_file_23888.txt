@@ -1,0 +1,6 @@
+
+Ecopraxias	O
+y	O
+temblor	O
+leve	O
+.	O

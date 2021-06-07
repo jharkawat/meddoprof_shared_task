@@ -1,0 +1,20 @@
+
+La	O
+familia	O
+refiere	O
+que	O
+pedía	O
+sueldos	O
+elevados	O
+,	O
+presentaba	O
+una	O
+actitud	O
+prepotente	O
+y	O
+de	O
+desprecio	O
+a	O
+los	O
+entrevistadores	B-PROFESION
+.	O

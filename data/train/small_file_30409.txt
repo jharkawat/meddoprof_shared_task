@@ -1,0 +1,26 @@
+
+En	O
+asociación	O
+,	O
+desarrolló	O
+ideas	O
+de	O
+culpabilidad	O
+que	O
+se	O
+refieren	O
+a	O
+"	O
+quieren	O
+castigarme	O
+"	O
+,	O
+aunque	O
+no	O
+caracterizó	O
+su	O
+contenido	O
+con	O
+más	O
+detalle	O
+.	O

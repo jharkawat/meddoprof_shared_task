@@ -1,0 +1,7 @@
+
+Ocupación	O
+:	O
+Transportista	B-PROFESION
+(	O
+taxista	B-PROFESION
+)	O

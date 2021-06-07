@@ -1,0 +1,8 @@
+
+Describe	O
+paciente	O
+afecto	O
+del	O
+Síndrome	O
+de	O
+Microdeleción	O

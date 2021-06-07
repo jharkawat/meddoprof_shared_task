@@ -1,0 +1,21 @@
+
+Resto	O
+de	O
+hormonas	O
+hipofisarias	O
+(	O
+PRL	O
+,	O
+GH	O
+,	O
+TSH	O
+,	O
+FSH	O
+y	O
+LH	O
+)	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

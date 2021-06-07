@@ -1,0 +1,13 @@
+
+Usa	O
+calcetines	O
+y	O
+zapatos	O
+de	O
+piel	O
+o	O
+de	O
+tela	O
+tipo	O
+tenis	O
+.	O

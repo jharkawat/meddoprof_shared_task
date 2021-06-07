@@ -1,0 +1,11 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+memantina	O
+20	O
+mg	O
+/	O
+día	O
+.	O

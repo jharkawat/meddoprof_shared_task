@@ -1,0 +1,15 @@
+
+Su	O
+urólogo	B-PROFESION
+nos	O
+aseguró	O
+que	O
+se	O
+había	O
+seguido	O
+el	O
+protocolo	O
+en	O
+la	O
+aplicación	O
+.	O

@@ -1,0 +1,15 @@
+
+Se	O
+le	O
+realizan	O
+electrocardiograma	O
+,	O
+radiografías	O
+de	O
+tórax	O
+y	O
+abdomen	O
+que	O
+resultan	O
+anodinas	O
+.	O

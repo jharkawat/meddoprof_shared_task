@@ -1,0 +1,9 @@
+
+Abdomen	O
+blando	O
+y	O
+depresible	O
+,	O
+sin	O
+visceromegalias	O
+.	O

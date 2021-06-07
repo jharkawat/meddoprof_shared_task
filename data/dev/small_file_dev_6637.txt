@@ -1,0 +1,13 @@
+
+Únicamente	O
+destacaba	O
+una	O
+PCR	O
+de	O
+42	O
+.	O
+4	O
+mg	O
+/	O
+L	O
+.	O

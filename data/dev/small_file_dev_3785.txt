@@ -1,0 +1,8 @@
+
+Su	O
+voz	O
+es	O
+plana	O
+y	O
+monótona	O
+.	O

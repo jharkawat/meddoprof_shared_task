@@ -1,0 +1,17 @@
+
+Inicia	O
+tratamiento	O
+antirretroviral	O
+con	O
+tenofovir	O
+/	O
+emtricitabina	O
+/	O
+darunavir	O
+/	O
+cobicistat	O
+,	O
+con	O
+buena	O
+tolerancia	O
+.	O

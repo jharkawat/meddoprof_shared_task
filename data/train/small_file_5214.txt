@@ -1,0 +1,5 @@
+
+Cardiopatía	O
+isquémica	O
+estable	O
+.	O

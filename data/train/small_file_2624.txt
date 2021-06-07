@@ -1,0 +1,18 @@
+
+Se	O
+realiza	O
+provocación	O
+oral	O
+controlada	O
+(	O
+POC	O
+)	O
+con	O
+sémola	O
+de	O
+trigo	O
+,	O
+con	O
+buena	O
+tolerancia	O
+.	O

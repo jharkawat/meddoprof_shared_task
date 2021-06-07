@@ -1,0 +1,14 @@
+
+Convive	O
+en	O
+el	O
+seno	O
+de	O
+una	O
+familia	O
+de	O
+nivel	O
+medio	O
+-	O
+alto	O
+.	O

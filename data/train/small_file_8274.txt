@@ -1,0 +1,10 @@
+
+Los	O
+marcadores	O
+tumorales	O
+C	O
+.	O
+E	O
+.	O
+A	O
+.	O

@@ -1,0 +1,19 @@
+
+No	O
+se	O
+detecta	O
+insuficiencia	O
+tricuspídea	O
+que	O
+permita	O
+estimar	O
+la	O
+presión	O
+sistólica	O
+de	O
+arteria	O
+pulmonar	O
+(	O
+PSAP	O
+)	O
+.	O

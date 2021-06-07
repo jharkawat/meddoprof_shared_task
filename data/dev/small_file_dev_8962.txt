@@ -1,0 +1,14 @@
+
+En	O
+la	O
+ecografía	O
+abdominal	O
+destacaba	O
+hepatomegalia	O
+y	O
+esplenomegalia	O
+moderadas	O
+de	O
+ecogenicidad	O
+heterogénea	O
+.	O

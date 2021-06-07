@@ -1,0 +1,18 @@
+
+Dicha	O
+medicación	O
+hacía	O
+que	O
+estuviera	O
+tranquilo	O
+en	O
+clase	O
+,	O
+pero	O
+le	O
+adormecía	O
+y	O
+le	O
+mantenía	O
+ausente	O
+.	O

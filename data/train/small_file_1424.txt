@@ -1,0 +1,17 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+evidencia	O
+infiltrados	O
+pulmonares	O
+bilaterales	O
+y	O
+dudosa	O
+condensación	O
+en	O
+lóbulo	O
+inferior	O
+derecho	O
+.	O

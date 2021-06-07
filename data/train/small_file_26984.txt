@@ -1,0 +1,10 @@
+
+Su	O
+calendario	O
+vacunal	O
+está	O
+acorde	O
+a	O
+la	O
+edad	O
+.	O

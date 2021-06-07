@@ -1,0 +1,11 @@
+
+Tras	O
+un	O
+primer	O
+episodio	O
+psicótico	O
+requirió	O
+una	O
+hospitalización	O
+psiquiátrica	O
+.	O

@@ -1,0 +1,24 @@
+
+En	O
+la	O
+sala	O
+de	O
+hospitalización	O
+la	O
+psiquiatra	B-PROFESION
+y	O
+la	O
+residente	B-PROFESION
+antes	O
+de	O
+pasar	O
+la	O
+visita	O
+diaria	O
+conversan	O
+sobre	O
+el	O
+caso	O
+del	O
+paciente	O
+.	O

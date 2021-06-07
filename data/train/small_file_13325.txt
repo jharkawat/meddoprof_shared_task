@@ -1,0 +1,27 @@
+
+Se	O
+produce	O
+por	O
+diseminación	O
+hematógena	O
+o	O
+linfática	O
+,	O
+y	O
+puede	O
+afectar	O
+a	O
+cualquier	O
+nivel	O
+,	O
+aunque	O
+lo	O
+más	O
+frecuente	O
+es	O
+a	O
+nivel	O
+cervical	O
+y	O
+supraclavicular	O
+.	O

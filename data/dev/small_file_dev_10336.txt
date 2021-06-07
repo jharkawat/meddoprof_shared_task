@@ -1,0 +1,21 @@
+
+Durante	O
+la	O
+invasión	O
+Iraquí	O
+a	O
+Kuwait	O
+el	O
+paciente	O
+sufrió	O
+un	O
+trauma	O
+severo	O
+cuando	O
+su	O
+hermana	O
+fue	O
+violada	O
+delante	O
+suyo	O
+.	O

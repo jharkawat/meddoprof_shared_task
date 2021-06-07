@@ -1,0 +1,8 @@
+
+Juicio	O
+Clínico	O
+:	O
+TVP	O
+poplíteo	O
+sural	O
+.	O

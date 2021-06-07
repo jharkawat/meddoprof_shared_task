@@ -1,0 +1,19 @@
+
+Agobiado	O
+por	O
+su	O
+estado	O
+de	O
+salud	O
+desde	O
+el	O
+último	O
+ingreso	O
+ya	O
+que	O
+ha	O
+presentado	O
+un	O
+deterioro	O
+importante	O
+.	O

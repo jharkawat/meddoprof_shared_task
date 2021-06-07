@@ -1,0 +1,18 @@
+
+Clínicamente	O
+cursan	O
+con	O
+cefalea	O
+,	O
+convulsiones	O
+,	O
+vómitos	O
+,	O
+sincope	O
+,	O
+alteraciones	O
+conductuales	O
+y	O
+focalidad	O
+neurológica	O
+.	O

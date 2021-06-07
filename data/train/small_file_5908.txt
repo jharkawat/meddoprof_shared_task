@@ -1,0 +1,26 @@
+
+Tras	O
+el	O
+diagnóstico	O
+,	O
+se	O
+instaura	O
+tratamiento	O
+con	O
+prednisona	O
+oral	O
+durante	O
+tres	O
+meses	O
+,	O
+comenzando	O
+con40mg	O
+/	O
+día	O
+/	O
+1	O
+mes	O
+y	O
+descenso	O
+paulatino	O
+.	O

@@ -1,0 +1,24 @@
+
+No	O
+se	O
+produce	O
+mejoría	O
+sostenida	O
+,	O
+empeorando	O
+posteriormente	O
+y	O
+siendo	O
+visible	O
+la	O
+intensa	O
+actividad	O
+alucinatoria	O
+(	O
+soliloquios	O
+,	O
+fascies	O
+de	O
+alucinada	O
+)	O
+.	O

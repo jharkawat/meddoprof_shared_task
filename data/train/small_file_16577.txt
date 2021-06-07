@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+presenta	O
+una	O
+leve	O
+mejoría	O
+tras	O
+la	O
+corrección	O
+de	O
+los	O
+déficits	O
+hormonales	O
+.	O

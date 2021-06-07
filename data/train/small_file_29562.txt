@@ -1,0 +1,22 @@
+
+Incluso	O
+a	O
+pesar	O
+de	O
+los	O
+ingresos	O
+tan	O
+prolongados	O
+en	O
+Unidad	O
+de	O
+Agudos	O
+no	O
+había	O
+desarrollado	O
+ninguna	O
+vinculación	O
+con	O
+otros	O
+pacientes	O
+.	O

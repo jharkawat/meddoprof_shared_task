@@ -1,0 +1,12 @@
+
+Sus	O
+notas	O
+han	O
+bajado	O
+de	O
+sobresalientes	O
+a	O
+notables	O
+y	O
+aprobados	O
+.	O

@@ -1,0 +1,15 @@
+
+Alemania	O
+para	O
+vivir	O
+con	O
+su	O
+abuela	O
+materna	O
+,	O
+mientras	O
+su	O
+madre	O
+continuaba	O
+ingresada	O
+.	O

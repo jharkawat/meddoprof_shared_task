@@ -1,0 +1,23 @@
+
+Se	O
+decide	O
+disminuir	O
+clozapina	O
+a	O
+400	O
+mg	O
+/	O
+24	O
+h	O
+,	O
+y	O
+se	O
+deriva	O
+a	O
+los	O
+servicios	O
+de	O
+Endocrinología	O
+y	O
+Digestivo	O
+.	O

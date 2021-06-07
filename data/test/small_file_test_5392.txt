@@ -1,0 +1,18 @@
+
+Como	O
+centro	O
+terciario	O
+,	O
+el	O
+paciente	O
+es	O
+derivado	O
+a	O
+nuestro	O
+centro	O
+para	O
+realización	O
+de	O
+cirugía	O
+hepática	O
+.	O

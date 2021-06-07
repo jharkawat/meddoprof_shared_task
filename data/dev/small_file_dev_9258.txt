@@ -1,0 +1,13 @@
+
+La	O
+auscultación	O
+cardiorrespiratoria	O
+y	O
+la	O
+exploración	O
+abdominal	O
+no	O
+mostraron	O
+signos	O
+patológicos	O
+.	O

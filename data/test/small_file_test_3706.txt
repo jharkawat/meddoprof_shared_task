@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+completa	O
+tratamiento	O
+con	O
+buena	O
+tolerancia	O
+,	O
+alcanzando	O
+una	O
+dosis	O
+total	O
+de	O
+66	O
+Gy	O
+y	O
+respuesta	O
+parcial	O
+alta	O
+en	O
+RM	O
+de	O
+reevaluación	O
+.	O

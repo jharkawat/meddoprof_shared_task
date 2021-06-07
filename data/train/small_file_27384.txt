@@ -1,0 +1,27 @@
+
+Se	O
+pospone	O
+la	O
+reincorporación	O
+a	O
+las	O
+aulas	O
+por	O
+la	O
+clínica	O
+conductual	O
+,	O
+acudiendo	O
+sólo	O
+en	O
+un	O
+par	O
+de	O
+ocasiones	O
+que	O
+la	O
+paciente	O
+vive	O
+como	O
+negativas	O
+.	O

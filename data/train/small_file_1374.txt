@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Mario	O
+García	O
+Conde	O
+NºCol	O
+:	O
+38	O
+38	O
+23354	O
+.	O

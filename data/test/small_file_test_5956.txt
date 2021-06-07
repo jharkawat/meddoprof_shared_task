@@ -1,0 +1,16 @@
+
+Presenta	O
+,	O
+además	O
+,	O
+adenopatías	O
+submandibulares	O
+y	O
+yugulodigástricas	O
+bilaterales	O
+de	O
+tamaño	O
+en	O
+límite	O
+superior	O
+.	O

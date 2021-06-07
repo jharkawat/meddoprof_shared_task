@@ -1,0 +1,22 @@
+
+En	O
+este	O
+momento	O
+,	O
+se	O
+decide	O
+presentar	O
+en	O
+comité	O
+de	O
+tumores	O
+óseos	O
+para	O
+valorar	O
+curetaje	O
+y	O
+posterior	O
+relleno	O
+con	O
+cemento	O
+.	O

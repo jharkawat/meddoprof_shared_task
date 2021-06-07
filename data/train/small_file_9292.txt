@@ -1,0 +1,20 @@
+
+El	O
+análisis	O
+microbiológico	O
+de	O
+la	O
+biopsia	O
+muscular	O
+para	O
+gérmenes	O
+de	O
+corta	O
+y	O
+larga	O
+incubación	O
+no	O
+aportó	O
+ninguna	O
+información	O
+.	O

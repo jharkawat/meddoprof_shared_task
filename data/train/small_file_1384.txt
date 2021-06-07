@@ -1,0 +1,20 @@
+
+Se	O
+utilizó	O
+coagulación	O
+por	O
+radiofrecuencia	O
+,	O
+tanto	O
+mono	O
+como	O
+bipolar	O
+y	O
+cera	O
+de	O
+hueso	O
+para	O
+controlar	O
+la	O
+hemorragia	O
+.	O

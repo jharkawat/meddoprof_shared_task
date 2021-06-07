@@ -1,0 +1,10 @@
+
+No	O
+se	O
+insona	O
+la	O
+arteria	O
+comunicante	O
+posterior	O
+derecha	O
+.	O

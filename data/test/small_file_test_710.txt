@@ -1,0 +1,7 @@
+
+Los	O
+techos	O
+eran	O
+de	O
+fibrocemento	O
+.	O

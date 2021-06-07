@@ -1,0 +1,22 @@
+
+•	O
+Bacterias	O
+:	O
+las	O
+más	O
+frecuentemente	O
+aisladas	O
+en	O
+líquido	O
+pericárdico	O
+son	O
+Staphylococcus	O
+spp	O
+,	O
+S	O
+.	O
+pneumoniae	O
+y	O
+Streptococcus	O
+spp	O
+.	O

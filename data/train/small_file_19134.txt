@@ -1,0 +1,9 @@
+
+Relaciones	O
+aceptables	O
+con	O
+otros	O
+usuarios	O
+de	O
+CT	O
+.	O

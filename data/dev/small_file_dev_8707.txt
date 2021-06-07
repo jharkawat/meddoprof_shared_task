@@ -1,0 +1,11 @@
+
+Presentaba	O
+muguet	O
+orofaríngeo	O
+y	O
+no	O
+se	O
+palpaban	O
+adenopatías	O
+periféricas	O
+.	O

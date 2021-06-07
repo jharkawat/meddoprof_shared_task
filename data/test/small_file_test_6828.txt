@@ -1,0 +1,19 @@
+
+Se	O
+pauta	O
+sueroterapia	O
+intensa	O
+,	O
+antieméticos	O
+y	O
+antibioterapia	O
+de	O
+amplio	O
+espectro	O
+por	O
+neumonía	O
+nosocomial	O
+en	O
+paciente	O
+inmunodeprimida	O
+.	O

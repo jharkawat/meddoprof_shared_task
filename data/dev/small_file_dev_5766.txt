@@ -1,0 +1,15 @@
+
+Rastreo	O
+del	O
+tumor	O
+intestinal	O
+:	O
+buena	O
+evolución	O
+postoperatoria	O
+,	O
+permaneciendo	O
+la	O
+paciente	O
+asintomática	O
+.	O

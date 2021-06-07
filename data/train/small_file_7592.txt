@@ -1,0 +1,24 @@
+
+Se	O
+tomó	O
+otra	O
+muestra	O
+para	O
+realizar	O
+estudio	O
+molecular	O
+del	O
+genoma	O
+del	O
+virus	O
+del	O
+papiloma	O
+humano	O
+(	O
+HPV	O
+)	O
+mediante	O
+PCR	O
+-	O
+RT	O
+.	O

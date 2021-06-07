@@ -1,0 +1,18 @@
+
+A	O
+nivel	O
+abdominal	O
+la	O
+exploración	O
+era	O
+bastante	O
+anodina	O
+,	O
+sin	O
+palpación	O
+de	O
+puntos	O
+dolorosos	O
+ni	O
+visceromegalias	O
+.	O

@@ -1,0 +1,21 @@
+
+Escolarización	O
+normal	O
+,	O
+era	O
+un	O
+niño	O
+activo	O
+,	O
+hablador	O
+y	O
+revoltoso	O
+en	O
+clase	O
+,	O
+estudiante	B-SITUACION_LABORAL
+normal	O
+e	O
+integrado	O
+socialmente	O
+.	O

@@ -1,0 +1,16 @@
+
+Palpación	O
+de	O
+borde	O
+hepático	O
+,	O
+doloroso	O
+,	O
+2	O
+cm	O
+por	O
+debajo	O
+del	O
+reborde	O
+costal	O
+.	O

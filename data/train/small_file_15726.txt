@@ -1,0 +1,12 @@
+
+Auscultación	O
+cardiopulmonar	O
+normal	O
+y	O
+abdomen	O
+sin	O
+masas	O
+palpables	O
+ni	O
+megalias	O
+.	O

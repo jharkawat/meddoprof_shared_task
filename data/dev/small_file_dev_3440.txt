@@ -1,0 +1,5 @@
+
+Raza	O
+:	O
+Blanca	O
+.	O

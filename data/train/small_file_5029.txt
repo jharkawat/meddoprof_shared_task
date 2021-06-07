@@ -1,0 +1,26 @@
+
+Pólipos	O
+colónicos	O
+,	O
+ulcus	O
+duodenal	O
+curado	O
+,	O
+hernia	O
+hiatal	O
+,	O
+esofagitis	O
+,	O
+gastritis	O
+erosiva	O
+,	O
+faringitis	O
+crónica	O
+,	O
+fibromialgia	O
+,	O
+trastorno	O
+bipolar	O
+,	O
+migrañas	O
+.	O

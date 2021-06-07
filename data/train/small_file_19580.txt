@@ -1,0 +1,23 @@
+
+Cabeza	O
+Cráneo	O
+:	O
+normocefalo	O
+,	O
+sin	O
+zonas	O
+de	O
+alopecia	O
+,	O
+cabello	O
+de	O
+aspecto	O
+,	O
+consistencia	O
+e	O
+implantación	O
+normales	O
+,	O
+sin	O
+exostosis	O
+.	O

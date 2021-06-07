@@ -1,0 +1,5 @@
+
+Lesiones	O
+no	O
+infiltradas	O
+.	O

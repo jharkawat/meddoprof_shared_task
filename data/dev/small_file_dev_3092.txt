@@ -1,0 +1,4 @@
+
+Vacunaciones	O
+correctas	O
+.	O

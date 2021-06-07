@@ -1,0 +1,24 @@
+
+Actualmente	O
+duerme	O
+muy	O
+mal	O
+y	O
+molesta	O
+a	O
+sus	O
+padres	O
+porque	O
+se	O
+levanta	O
+por	O
+las	O
+noches	O
+y	O
+anda	O
+por	O
+la	O
+casa	O
+haciendo	O
+ruido	O
+.	O

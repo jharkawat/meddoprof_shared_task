@@ -1,0 +1,9 @@
+
+Alimentación	O
+:	O
+Lactancia	O
+artificial	O
+desde	O
+el	O
+nacimiento	O
+.	O

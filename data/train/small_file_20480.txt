@@ -1,0 +1,7 @@
+
+Se	O
+refiere	O
+buena	O
+relación	O
+social	O
+.	O

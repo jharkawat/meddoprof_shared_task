@@ -1,0 +1,11 @@
+
+Desde	O
+oftalmología	O
+se	O
+deriva	O
+a	O
+medicina	O
+Interna	O
+para	O
+estudio	O
+.	O

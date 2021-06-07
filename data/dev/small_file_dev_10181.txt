@@ -1,0 +1,23 @@
+
+En	O
+la	O
+escuela	O
+le	O
+iba	O
+bastante	O
+bien	O
+y	O
+luego	O
+consiguió	B-PROFESION
+trabajo	I-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+biblioteca	I-PROFESION
+donde	O
+ha	O
+estado	O
+empleada	B-SITUACION_LABORAL
+hasta	O
+el	O
+momento	O
+.	O

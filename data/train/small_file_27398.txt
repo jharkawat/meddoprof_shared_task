@@ -1,0 +1,4 @@
+
+Afecto	O
+inapropiado	O
+.	O

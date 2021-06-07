@@ -1,0 +1,25 @@
+
+Acudió	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+en	O
+marzo	O
+2009	O
+con	O
+hemoptisis	O
+amenazante	O
+,	O
+precedida	O
+de	O
+tos	O
+y	O
+expectoración	O
+marronácea	O
+de	O
+4	O
+semanas	O
+de	O
+evolución	O
+.	O

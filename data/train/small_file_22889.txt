@@ -1,0 +1,26 @@
+
+Analítica	O
+general	O
+:	O
+leucocitos	O
+2100x10x9	O
+/	O
+L	O
+;	O
+hematocrito	O
+33	O
+,	O
+2	O
+%	O
+;	O
+VCM	O
+94	O
+,	O
+3fl	O
+;	O
+plaquetas	O
+33	O
+x10x9	O
+/	O
+L	O
+.	O

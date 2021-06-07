@@ -1,0 +1,5 @@
+
+Actitud	O
+parcialmente	O
+colaboradora	O
+.	O

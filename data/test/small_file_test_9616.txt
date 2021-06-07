@@ -1,0 +1,8 @@
+
+Dolor	O
+y	O
+tumefacción	O
+en	O
+rodilla	O
+izquierda	O
+.	O

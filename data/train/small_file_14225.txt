@@ -1,0 +1,13 @@
+
+No	O
+dolor	O
+a	O
+la	O
+percusión	O
+vertebral	O
+ni	O
+con	O
+la	O
+presión	O
+craneal	O
+.	O

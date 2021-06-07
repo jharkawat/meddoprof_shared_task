@@ -1,0 +1,25 @@
+
+La	O
+historia	O
+de	O
+este	O
+paciente	O
+también	O
+manifiesta	O
+el	O
+aumento	O
+de	O
+conciencia	O
+de	O
+enfermedad	O
+y	O
+la	O
+excelente	O
+adherencia	O
+al	O
+tratamiento	O
+por	O
+los	O
+beneficios	O
+percibidos	O
+.	O

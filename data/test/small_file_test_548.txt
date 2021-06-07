@@ -1,0 +1,11 @@
+
+Borde	O
+libre	O
+de	O
+CVD	O
+irregular	O
+con	O
+relieve	O
+nodular	O
+ancho	O
+.	O

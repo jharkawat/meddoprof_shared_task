@@ -1,0 +1,11 @@
+
+Estudios	B-SITUACION_LABORAL
+primarios	I-SITUACION_LABORAL
+,	O
+luego	O
+trabajó	B-PROFESION
+parcialmente	I-PROFESION
+en	I-PROFESION
+negocio	I-PROFESION
+familiar	I-PROFESION
+.	O

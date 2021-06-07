@@ -1,0 +1,7 @@
+
+La	O
+CPK	O
+está	O
+en	O
+descenso	O
+.	O

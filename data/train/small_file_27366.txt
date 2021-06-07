@@ -1,0 +1,7 @@
+
+Siempre	O
+ha	O
+escogido	O
+actividades	O
+solitarias	O
+.	O

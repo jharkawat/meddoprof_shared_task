@@ -1,0 +1,16 @@
+
+Se	O
+realizó	O
+ecocardiografía	O
+transtorácica	O
+para	O
+completar	O
+el	O
+estudio	O
+de	O
+la	O
+fiebre	O
+de	O
+origen	O
+desconocido	O
+.	O

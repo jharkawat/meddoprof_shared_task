@@ -1,0 +1,11 @@
+
+Su	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+trató	O
+con	O
+ansiolíticos	O
+sin	O
+mejoría	O
+.	O

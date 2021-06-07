@@ -1,0 +1,4 @@
+
+Dermatitis	O
+psoriasiforme	O
+.	O

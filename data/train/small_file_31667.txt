@@ -1,0 +1,18 @@
+
+En	O
+su	O
+personalidad	O
+premórbida	O
+destaca	O
+como	O
+una	O
+persona	O
+sociable	O
+con	O
+rasgos	O
+dependientes	O
+y	O
+sin	O
+hábitos	O
+tóxicos	O
+.	O

@@ -1,0 +1,10 @@
+
+Ansiedad	O
+y	O
+tensión	O
+han	O
+disminuido	O
+aunque	O
+siguen	O
+presentes	O
+.	O

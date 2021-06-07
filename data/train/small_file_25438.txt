@@ -1,0 +1,18 @@
+
+Durante	O
+este	O
+periodo	O
+se	O
+le	O
+ha	O
+diagnosticado	O
+hipertiroidismo	O
+,	O
+patología	O
+para	O
+la	O
+que	O
+está	O
+en	O
+tratamiento	O
+.	O

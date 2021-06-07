@@ -1,0 +1,6 @@
+
+Interna	O
+para	O
+continuar	O
+estudio	O
+.	O

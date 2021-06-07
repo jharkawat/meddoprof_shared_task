@@ -1,0 +1,21 @@
+
+Negó	O
+tener	O
+factores	O
+de	O
+estrés	O
+agudo	O
+en	O
+sus	O
+relaciones	O
+personales	O
+,	O
+por	O
+el	O
+trabajo	O
+o	O
+por	O
+la	O
+situación	O
+económica	O
+.	O

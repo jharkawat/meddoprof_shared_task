@@ -1,0 +1,11 @@
+
+En	O
+2009	O
+sufre	O
+una	O
+Hemorragia	O
+Subaracnoidea	O
+(	O
+HSA	O
+)	O
+.	O

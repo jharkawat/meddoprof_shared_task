@@ -1,0 +1,11 @@
+
+Fumador	O
+de	O
+unos	O
+ocho	O
+o	O
+diez	O
+cigarrillos	O
+de	O
+tabaco	O
+.	O

@@ -1,0 +1,25 @@
+
+-	O
+Punción	O
+Lumbar	O
+:	O
+1150	O
+células	O
+con	O
+84	O
+%	O
+PMN	O
+,	O
+310	O
+proteínas	O
+,	O
+35	O
+.	O
+6	O
+glucosa	O
+,	O
+Gram	O
+positivo	O
+para	O
+listeria	O
+.	O

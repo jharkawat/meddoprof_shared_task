@@ -1,0 +1,22 @@
+
+Se	O
+inicia	O
+cobertura	O
+antibiótica	O
+con	O
+vancomicina	O
+,	O
+rifampicina	O
+y	O
+azitromicina	O
+intravenosa	O
+,	O
+iniciándose	O
+a	O
+su	O
+vez	O
+tratamiento	O
+antirretroviral	O
+con	O
+Atripla	O
+.	O

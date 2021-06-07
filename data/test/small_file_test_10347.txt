@@ -1,0 +1,8 @@
+
+Engrosamiento	O
+perióstico	O
+en	O
+capas	O
+de	O
+cebolla	O
+.	O

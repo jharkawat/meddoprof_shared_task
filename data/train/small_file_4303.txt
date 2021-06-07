@@ -1,0 +1,8 @@
+
+Control	O
+del	O
+peso	O
+y	O
+tensión	O
+arterial	O
+.	O

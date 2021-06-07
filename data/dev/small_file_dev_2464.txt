@@ -1,0 +1,12 @@
+
+La	O
+CPK	O
+comienza	O
+a	O
+descender	O
+y	O
+empieza	O
+a	O
+encontrarse	O
+afebril	O
+.	O

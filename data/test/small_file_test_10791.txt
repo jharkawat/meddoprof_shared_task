@@ -1,0 +1,24 @@
+
+Se	O
+pide	O
+RM	O
+de	O
+poro	O
+acústico	O
+y	O
+se	O
+informa	O
+como	O
+posible	O
+colesteatoma	O
+intratimpánico	O
+por	O
+objetivarse	O
+en	O
+secuencia	O
+hasta	O
+dos	O
+focos	O
+de	O
+hiperseñal	O
+.	O

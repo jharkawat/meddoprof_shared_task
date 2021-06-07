@@ -1,0 +1,8 @@
+
+Un	O
+tío	O
+abuelo	O
+es	O
+discapacitado	O
+psíquico	O
+.	O

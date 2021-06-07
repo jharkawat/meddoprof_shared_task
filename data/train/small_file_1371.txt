@@ -1,0 +1,9 @@
+
+Edad	O
+:	O
+50	O
+años	O
+Sexo	O
+:	O
+M	O
+.	O

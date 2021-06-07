@@ -1,0 +1,23 @@
+
+Cadenas	O
+ligeras	O
+Kappa	O
+libre	O
+101	O
+.	O
+93	O
+mg	O
+/	O
+dl	O
+,	O
+cadenas	O
+ligeras	O
+Lambda	O
+libre	O
+0	O
+.	O
+56	O
+mg	O
+/	O
+dl	O
+.	O

@@ -1,0 +1,25 @@
+
+Según	O
+el	O
+servicio	O
+de	O
+traumatología	O
+,	O
+la	O
+paciente	O
+no	O
+presentaba	O
+crecimiento	O
+de	O
+partes	O
+blandas	O
+en	O
+la	O
+lesión	O
+del	O
+húmero	O
+como	O
+para	O
+realizar	O
+biopsia	O
+.	O

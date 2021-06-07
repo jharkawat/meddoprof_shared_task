@@ -1,0 +1,24 @@
+
+Según	O
+nos	O
+explica	O
+,	O
+ha	O
+estado	O
+deprimida	O
+desde	O
+el	O
+día	O
+en	O
+que	O
+tuvo	O
+una	O
+pelea	O
+con	O
+su	O
+madre	O
+,	O
+dos	O
+años	O
+antes	O
+.	O

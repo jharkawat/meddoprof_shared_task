@@ -1,0 +1,14 @@
+
+Se	O
+apreciaron	O
+presencia	O
+de	O
+vesículas	O
+grasas	O
+pequeñas	O
+en	O
+la	O
+región	O
+lateral	O
+izquierda	O
+.	O

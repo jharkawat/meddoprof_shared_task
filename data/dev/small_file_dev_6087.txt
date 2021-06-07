@@ -1,0 +1,18 @@
+
+Tres	O
+semanas	O
+antes	O
+del	O
+ingreso	O
+la	O
+expectoración	O
+se	O
+hace	O
+hemoptoica	O
+,	O
+motivando	O
+su	O
+consulta	O
+al	O
+hospital	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+el	O
+hemograma	O
+destacaba	O
+8700	O
+leucocitos	O
+(	O
+81	O
+,	O
+5	O
+%	O
+neutrófilos	O
+)	O
+,	O
+Hb15	O
+,	O
+7	O
+mg	O
+/	O
+dl	O
+y	O
+120	O
+,	O
+000	O
+plaquetas	O
+.	O

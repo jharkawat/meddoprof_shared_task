@@ -1,0 +1,9 @@
+
+Hemocultivos	O
+:	O
+4	O
+frascos	O
+con	O
+Estaphilococcus	O
+auricularis	O
+.	O

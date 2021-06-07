@@ -1,0 +1,6 @@
+
+Parto	O
+eutócico	O
+sin	O
+complicaciones	O
+.	O

@@ -1,0 +1,27 @@
+
+Su	O
+padre	O
+padeció	O
+corea	O
+minor	O
+a	O
+los	O
+trece	O
+años	O
+y	O
+ha	O
+iniciado	O
+varias	O
+psicoterapias	O
+que	O
+no	O
+ha	O
+finalizado	O
+por	O
+diagnóstico	O
+de	O
+trastorno	O
+obsesivo	O
+-	O
+compulsivo	O
+.	O

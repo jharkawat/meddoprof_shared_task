@@ -1,0 +1,11 @@
+
+Eje	O
+IV	O
+:	O
+Cambios	O
+repentinos	O
+de	O
+cuidadores	B-PROFESION
+primarios	I-PROFESION
+,	O
+aislamiento	O

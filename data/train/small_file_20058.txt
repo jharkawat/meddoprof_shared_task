@@ -1,0 +1,27 @@
+
+Hill	O
+después	O
+de	O
+aquello	O
+,	O
+pero	O
+este	O
+no	O
+había	O
+respondido	O
+ni	O
+al	O
+teléfono	O
+,	O
+ni	O
+al	O
+correo	O
+electrónico	O
+,	O
+ni	O
+a	O
+los	O
+mensajes	O
+de	O
+texto	O
+.	O

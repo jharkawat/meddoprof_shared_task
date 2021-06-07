@@ -1,0 +1,6 @@
+
+Padres	O
+vivos	O
+y	O
+sanos	O
+.	O

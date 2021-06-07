@@ -1,0 +1,24 @@
+
+Pruebas	O
+complementarias	O
+:	O
+Proteinograma	O
+,	O
+cuantificación	O
+de	O
+inmunoglobulinas	O
+,	O
+ecocardiograma	O
+,	O
+electroencefalograma	O
+,	O
+tomografía	O
+computarizada	O
+y	O
+resonancia	O
+magnética	O
+cerebral	O
+,	O
+pruebas	O
+genéticas	O
+.	O

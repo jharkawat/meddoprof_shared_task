@@ -1,0 +1,17 @@
+
+El	O
+antígeno	O
+de	O
+Legionella	O
+en	O
+orina	O
+y	O
+el	O
+antígeno	O
+neumocócico	O
+en	O
+orina	O
+fueron	O
+ambos	O
+negativos	O
+.	O

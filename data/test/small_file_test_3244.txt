@@ -1,0 +1,15 @@
+
+Lesión	O
+descrita	O
+multilobulada	O
+exudativa	O
+a	O
+nivel	O
+coccígeo	O
+en	O
+contacto	O
+con	O
+plano	O
+óseo	O
+sacro	O
+.	O

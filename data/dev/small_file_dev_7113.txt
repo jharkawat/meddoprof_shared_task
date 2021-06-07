@@ -1,0 +1,16 @@
+
+Inicia	O
+tratamiento	O
+con	O
+analgésicos	O
+,	O
+antiinflamatorios	O
+y	O
+relajante	O
+muscular	O
+,	O
+además	O
+de	O
+un	O
+antitusígeno	O
+.	O

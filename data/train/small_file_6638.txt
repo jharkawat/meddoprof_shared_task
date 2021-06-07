@@ -1,0 +1,19 @@
+
+Los	O
+estudios	O
+complementarios	O
+ayudaron	O
+a	O
+descartar	O
+otros	O
+procesos	O
+(	O
+vasculitis	O
+,	O
+infecciones	O
+,	O
+trombosis	O
+vascular	O
+etc	O
+)	O
+.	O

@@ -1,0 +1,26 @@
+
+Tras	O
+finalizar	O
+corticoterapia	O
+,	O
+presenta	O
+tres	O
+crisis	O
+tónico	O
+-	O
+clónicas	O
+generalizadas	O
+sin	O
+recuperación	O
+,	O
+precisando	O
+intubación	O
+orotraqueal	O
+e	O
+ingreso	O
+en	O
+Unidad	O
+de	O
+Cuidados	O
+Intensivos	O
+.	O

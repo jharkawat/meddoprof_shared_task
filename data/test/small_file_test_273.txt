@@ -1,0 +1,23 @@
+
+No	O
+se	O
+refiere	O
+palidez	O
+,	O
+ictericia	O
+,	O
+cianosis	O
+,	O
+eritema	O
+,	O
+hipertricosis	O
+,	O
+hiperhidrosis	O
+,	O
+pielatrófica	O
+,	O
+laxa	O
+o	O
+demasiado	O
+elástica	O
+.	O

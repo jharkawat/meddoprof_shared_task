@@ -1,0 +1,13 @@
+
+Indica	O
+no	O
+poder	O
+dormir	O
+más	O
+debido	O
+a	O
+que	O
+tiene	O
+hijos	O
+pequeños	O
+.	O

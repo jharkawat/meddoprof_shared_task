@@ -1,0 +1,11 @@
+
+ECOG	O
+0	O
+,	O
+eupneico	O
+,	O
+bien	O
+hidratado	O
+y	O
+perfundido	O
+.	O

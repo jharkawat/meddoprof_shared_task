@@ -1,0 +1,13 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+miastenia	O
+gravis	O
+se	O
+solicita	O
+valoración	O
+por	O
+Neurología	O
+.	O

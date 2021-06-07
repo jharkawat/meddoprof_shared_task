@@ -1,0 +1,21 @@
+
+Varón	O
+de	O
+35	O
+años	O
+,	O
+natural	O
+de	O
+Malí	O
+y	O
+residente	O
+en	O
+España	O
+desde	O
+hace	O
+8	O
+años	O
+,	O
+trabajador	B-PROFESION
+agrícola	I-PROFESION
+.	O

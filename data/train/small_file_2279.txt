@@ -1,0 +1,26 @@
+
+Pruebas	O
+complementarias	O
+:	O
+La	O
+radiología	O
+simple	O
+anteroposterior	O
+(	O
+AP	O
+)	O
+presentaba	O
+una	O
+deformidad	O
+en	O
+forma	O
+de	O
+joroba	O
+en	O
+región	O
+cérvico	O
+-	O
+cefálica	O
+femoral	O
+derecha	O
+.	O

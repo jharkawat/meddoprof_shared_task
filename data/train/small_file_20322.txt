@@ -1,0 +1,16 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+edad	O
+del	O
+paciente	O
+hace	O
+que	O
+no	O
+pueda	O
+realizarse	O
+este	O
+diagnóstico	O
+.	O

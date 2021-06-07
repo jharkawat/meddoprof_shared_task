@@ -1,0 +1,25 @@
+
+Los	O
+síntomas	O
+predominantes	O
+al	O
+inicio	O
+del	O
+cuadro	O
+eran	O
+irritabilidad	O
+extrema	O
+,	O
+insomnio	O
+,	O
+sentimientos	O
+de	O
+vacío	O
+,	O
+anhedonia	O
+,	O
+y	O
+pérdida	O
+de	O
+libido	O
+.	O

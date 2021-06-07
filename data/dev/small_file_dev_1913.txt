@@ -1,0 +1,17 @@
+
+Paciente	O
+varón	O
+,	O
+23	O
+años	O
+,	O
+mediano	O
+de	O
+3	O
+hermanos	O
+,	O
+convive	O
+con	O
+su	O
+familia	O
+.	O

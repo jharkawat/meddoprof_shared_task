@@ -1,0 +1,11 @@
+
+Actualmente	O
+el	O
+paciente	O
+ve	O
+mal	O
+con	O
+el	O
+ojo	O
+izquierdo	O
+.	O

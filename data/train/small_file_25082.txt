@@ -1,0 +1,19 @@
+
+Evaluación	O
+psicológica	O
+:	O
+el	O
+discurso	O
+de	O
+la	O
+paciente	O
+la	O
+ubica	O
+entre	O
+los	O
+estadios	O
+de	O
+contemplación	O
+y	O
+acción	O
+.	O

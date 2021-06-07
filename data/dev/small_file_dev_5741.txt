@@ -1,0 +1,6 @@
+
+No	O
+otros	O
+síntomas	O
+reseñables	O
+.	O

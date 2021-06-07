@@ -1,0 +1,23 @@
+
+Un	O
+mes	O
+después	O
+se	O
+repitió	O
+la	O
+RM	O
+craneal	O
+,	O
+donde	O
+no	O
+se	O
+detectaron	O
+nuevas	O
+lesiones	O
+,	O
+pero	O
+ninguna	O
+realzaba	O
+con	O
+gadolinio	O
+.	O

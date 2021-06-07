@@ -1,0 +1,4 @@
+
+DIAGNÓSTICO	O
+CLÍNICO	O
+:	O

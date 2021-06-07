@@ -1,0 +1,17 @@
+
+Sin	O
+embargo	O
+,	O
+el	O
+estar	O
+alejado	O
+de	O
+sus	O
+responsabilidades	O
+de	O
+trabajo	O
+no	O
+mejoró	O
+su	O
+situación	O
+.	O

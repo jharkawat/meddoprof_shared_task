@@ -1,0 +1,10 @@
+
+La	O
+paciente	O
+no	O
+ha	O
+acudido	O
+a	O
+ningún	O
+psiquiatra	B-PROFESION
+.	O

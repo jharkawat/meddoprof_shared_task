@@ -1,0 +1,20 @@
+
+Un	O
+ataque	O
+de	O
+pánico	O
+a	O
+menudo	O
+se	O
+sigue	O
+de	O
+un	O
+miedo	O
+persistente	O
+a	O
+tener	O
+otro	O
+ataque	O
+de	O
+pánico	O
+.	O

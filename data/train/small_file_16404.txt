@@ -1,0 +1,17 @@
+
+Los	O
+15	O
+días	O
+previos	O
+la	O
+paciente	O
+refiere	O
+sensación	O
+de	O
+pesadez	O
+gástrica	O
+,	O
+náuseas	O
+y	O
+astenia	O
+.	O

@@ -1,0 +1,8 @@
+
+Derrame	O
+pleural	O
+bilateral	O
+de	O
+distribución	O
+típica	O
+.	O

@@ -1,0 +1,16 @@
+
+No	O
+ha	O
+presentado	O
+diarrea	O
+,	O
+ni	O
+vómitos	O
+,	O
+ni	O
+fiebre	O
+(	O
+sin	O
+termometrar	O
+)	O
+.	O

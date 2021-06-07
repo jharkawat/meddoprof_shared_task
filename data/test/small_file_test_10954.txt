@@ -1,0 +1,10 @@
+
+Parece	O
+que	O
+se	O
+decanta	O
+por	O
+la	O
+mano	O
+derecha	O
+.	O

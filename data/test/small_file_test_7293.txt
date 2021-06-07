@@ -1,0 +1,10 @@
+
+Estudio	O
+microbiológico	O
+negativo	O
+y	O
+citología	O
+negativa	O
+para	O
+malignidad	O
+.	O

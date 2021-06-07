@@ -1,0 +1,26 @@
+
+Inicia	O
+QT	O
+con	O
+esquema	O
+XELOX	O
+(	O
+oxaliplatino	O
+y	O
+capecitabina	O
+)	O
+con	O
+intención	O
+perioperatoria	O
+del	O
+que	O
+recibe	O
+3	O
+ciclos	O
+,	O
+con	O
+estabilidad	O
+de	O
+la	O
+enfermedad	O
+.	O

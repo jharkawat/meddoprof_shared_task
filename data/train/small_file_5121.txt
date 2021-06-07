@@ -1,0 +1,12 @@
+
+Anamnesis	O
+:	O
+paciente	O
+de	O
+15	O
+años	O
+sin	O
+antecedentes	O
+de	O
+interés	O
+.	O

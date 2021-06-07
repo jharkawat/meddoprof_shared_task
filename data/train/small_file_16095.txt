@@ -1,0 +1,8 @@
+
+Cicatriz	O
+supraciliar	O
+izquierda	O
+con	O
+protrusión	O
+ósea	O
+.	O

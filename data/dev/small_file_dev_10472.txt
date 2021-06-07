@@ -1,0 +1,26 @@
+
+Tenía	O
+el	O
+volumen	O
+muy	O
+alto	O
+,	O
+entonces	O
+sus	O
+padres	O
+fueron	O
+a	O
+su	O
+habitación	O
+y	O
+le	O
+pidieron	O
+que	O
+bajara	O
+"	O
+esa	O
+música	O
+de	O
+locos	O
+"	O
+.	O

@@ -1,0 +1,12 @@
+
+Déficits	O
+en	O
+hábitos	O
+de	O
+autocuidado	O
+si	O
+no	O
+se	O
+le	O
+recuerda	O
+.	O

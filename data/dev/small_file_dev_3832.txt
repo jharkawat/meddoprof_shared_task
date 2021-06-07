@@ -1,0 +1,27 @@
+
+Los	O
+resultados	O
+de	O
+un	O
+reconocimiento	O
+médico	O
+realizado	O
+a	O
+la	O
+edad	O
+de	O
+12	O
+años	O
+por	O
+problemas	O
+escolares	O
+han	O
+mostrado	O
+pensamientos	O
+extravagantes	O
+y	O
+estructura	O
+del	O
+sueño	O
+fragmentada	O
+.	O

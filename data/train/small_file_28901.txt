@@ -1,0 +1,7 @@
+
+Hiporexia	O
+con	O
+pérdida	O
+de	O
+peso	O
+.	O

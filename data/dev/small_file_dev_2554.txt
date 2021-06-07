@@ -1,0 +1,10 @@
+
+Buen	O
+estado	O
+físico	O
+general	O
+,	O
+hidratada	O
+y	O
+normocoloreada	O
+.	O

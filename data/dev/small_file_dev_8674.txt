@@ -1,0 +1,6 @@
+
+No	O
+se	O
+observan	O
+BAAR	O
+.	O

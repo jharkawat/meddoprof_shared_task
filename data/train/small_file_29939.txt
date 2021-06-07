@@ -1,0 +1,13 @@
+
+Los	O
+cursos	O
+de	O
+primaria	O
+los	O
+llevó	O
+a	O
+cabo	O
+con	O
+buen	O
+rendimiento	O
+.	O

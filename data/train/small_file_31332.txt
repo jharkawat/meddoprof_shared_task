@@ -1,0 +1,27 @@
+
+Está	O
+alerta	O
+y	O
+preocupado	O
+por	O
+las	O
+intenciones	O
+agresivas	O
+del	O
+mundo	O
+,	O
+por	O
+ejemplo	O
+,	O
+con	O
+la	O
+idea	O
+de	O
+que	O
+su	O
+familia	O
+pretende	O
+involucrarlo	O
+en	O
+crímenes	O
+.	O

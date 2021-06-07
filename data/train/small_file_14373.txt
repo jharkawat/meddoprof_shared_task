@@ -1,0 +1,15 @@
+
+Ante	O
+sospecha	O
+de	O
+celulitis	O
+,	O
+se	O
+inicia	O
+tratamiento	O
+con	O
+Augmentine	O
+con	O
+mala	O
+evolución	O
+.	O

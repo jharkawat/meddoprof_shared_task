@@ -1,0 +1,22 @@
+
+Test	O
+BPRS	O
+al	O
+ingreso	O
+de	O
+56	O
+sobre	O
+126	O
+,	O
+a	O
+los	O
+3	O
+meses	O
+de	O
+24	O
+y	O
+al	O
+año	O
+de	O
+20	O
+.	O

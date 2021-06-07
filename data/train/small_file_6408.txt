@@ -1,0 +1,15 @@
+
+El	O
+dolor	O
+está	O
+bien	O
+controlado	O
+,	O
+comienza	O
+a	O
+tolerar	O
+dieta	O
+y	O
+a	O
+deambular	O
+.	O

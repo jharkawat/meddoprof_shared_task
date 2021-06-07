@@ -1,0 +1,23 @@
+
+El	O
+cuadro	O
+clínico	O
+se	O
+inició	O
+con	O
+una	O
+cefalea	O
+intensa	O
+y	O
+de	O
+características	O
+punzantes	O
+,	O
+asociada	O
+a	O
+náuseas	O
+sin	O
+otros	O
+síntomas	O
+acompañantes	O
+.	O

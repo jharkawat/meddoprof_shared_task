@@ -1,0 +1,17 @@
+
+No	O
+refiere	O
+giro	O
+de	O
+objetos	O
+ni	O
+síntomas	O
+catarrales	O
+ni	O
+sensación	O
+de	O
+taponamiento	O
+ótico	O
+ni	O
+acúfenos	O
+.	O

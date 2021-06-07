@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+comenzó	O
+quimioterapia	O
+con	O
+buena	O
+tolerancia	O
+(	O
+salvo	O
+astenia	O
+grado	O
+1	O
+)	O
+.	O

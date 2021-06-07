@@ -1,0 +1,9 @@
+
+Rx	O
+ABDOMEN	O
+:	O
+imagen	O
+compatible	O
+con	O
+neumoperitoneo	O
+.	O

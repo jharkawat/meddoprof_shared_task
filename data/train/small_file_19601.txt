@@ -1,0 +1,12 @@
+
+Pensamiento	O
+es	O
+organizado	O
+con	O
+capacidad	O
+de	O
+análisis	O
+y	O
+síntesis	O
+adecuados	O
+.	O

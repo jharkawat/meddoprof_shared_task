@@ -1,0 +1,25 @@
+
+Reinterrogado	O
+,	O
+hace	O
+tres	O
+meses	O
+cambió	O
+sus	O
+gafas	O
+de	O
+vista	O
+por	O
+razones	O
+estéticas	O
+,	O
+iniciándose	O
+el	O
+cuadro	O
+clínico	O
+descrito	O
+aproximadamente	O
+siete	O
+días	O
+después	O
+.	O

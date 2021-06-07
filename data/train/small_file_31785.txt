@@ -1,0 +1,24 @@
+
+Durante	O
+la	O
+instauración	O
+del	O
+tratamiento	O
+con	O
+clozapina	O
+,	O
+se	O
+realizaron	O
+hemogramas	O
+de	O
+control	O
+semanal	O
+hasta	O
+la	O
+semana	O
+18	O
+y	O
+posteriormente	O
+hemogramas	O
+mensuales	O
+.	O

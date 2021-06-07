@@ -1,0 +1,8 @@
+
+Amenaza	O
+de	O
+nacimiento	O
+al	O
+5o	O
+mes	O
+.	O

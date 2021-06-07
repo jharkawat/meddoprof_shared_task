@@ -1,0 +1,19 @@
+
+Pares	O
+craneales	O
+normales	O
+,	O
+disartria	O
+,	O
+motilidad	O
+y	O
+sensibilidad	O
+de	O
+miembros	O
+normales	O
+,	O
+dismetría	O
+dedo	O
+-	O
+naríz	O
+.	O

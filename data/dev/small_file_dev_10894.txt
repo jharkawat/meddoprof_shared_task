@@ -1,0 +1,5 @@
+
+Tabaco	O
+:	O
+Niega	O
+.	O

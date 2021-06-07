@@ -1,0 +1,21 @@
+
+Encefalitis	O
+aguda	O
+severa	O
+de	O
+etiología	O
+autoinmune	O
+con	O
+anticuerpos	O
+anticanales	O
+de	O
+potasio	O
+voltaje	O
+-	O
+dependientes	O
+(	O
+anti	O
+-	O
+VGKC	O
+)	O
+.	O

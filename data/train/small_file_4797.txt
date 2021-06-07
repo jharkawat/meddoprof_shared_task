@@ -1,0 +1,17 @@
+
+Cualquier	O
+tumor	O
+que	O
+se	O
+disemine	O
+vía	O
+hematógena	O
+puede	O
+dar	O
+lugar	O
+a	O
+este	O
+tipo	O
+de	O
+metástasis	O
+.	O

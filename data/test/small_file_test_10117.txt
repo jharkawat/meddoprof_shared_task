@@ -1,0 +1,7 @@
+
+Sin	O
+edemas	O
+en	O
+miembros	O
+inferiores	O
+.	O

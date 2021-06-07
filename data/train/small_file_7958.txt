@@ -1,0 +1,6 @@
+
+Compatible	O
+con	O
+liquen	O
+nítido	O
+.	O

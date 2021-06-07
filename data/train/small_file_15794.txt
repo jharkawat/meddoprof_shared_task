@@ -1,0 +1,7 @@
+
+Imagen	O
+sugestiva	O
+de	O
+sinusitis	O
+maxiloetmoidal	O
+.	O

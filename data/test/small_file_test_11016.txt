@@ -1,0 +1,22 @@
+
+Tras	O
+25	O
+días	O
+de	O
+ingreso	O
+hospitalario	O
+la	O
+paciente	O
+fue	O
+dada	O
+de	O
+alta	O
+con	O
+tratamiento	O
+médico	O
+(	O
+Levofloxacino	O
+y	O
+Metronidazol	O
+)	O
+.	O

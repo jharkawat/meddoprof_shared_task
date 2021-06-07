@@ -1,0 +1,14 @@
+
+La	O
+auscultación	O
+cardiopulmonar	O
+fue	O
+normal	O
+y	O
+el	O
+resto	O
+de	O
+la	O
+exploración	O
+anodina	O
+.	O

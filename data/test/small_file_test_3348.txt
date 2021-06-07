@@ -1,0 +1,24 @@
+
+CD	O
+56	O
+(	O
++	O
+)	O
+,	O
+cromogranina	O
+A	O
+(	O
++	O
+)	O
+,	O
+sinaptofisina	O
+(	O
++	O
+)	O
+,	O
+CD	O
+45	O
+(	O
+-	O
+)	O
+.	O

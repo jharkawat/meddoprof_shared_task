@@ -1,0 +1,19 @@
+
+Además	O
+,	O
+se	O
+solicitan	O
+tóxicos	O
+en	O
+orina	O
+,	O
+siendo	O
+positivos	O
+para	O
+THC	O
+y	O
+negativo	O
+para	O
+otros	O
+tóxicos	O
+.	O

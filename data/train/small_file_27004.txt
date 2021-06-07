@@ -1,0 +1,23 @@
+
+Existió	O
+un	O
+retraso	O
+en	O
+la	O
+adquisición	O
+del	O
+lenguaje	O
+,	O
+no	O
+iniciándose	O
+hasta	O
+pasados	O
+los	O
+dos	O
+años	O
+,	O
+sin	O
+necesidad	O
+de	O
+logopeda	B-PROFESION
+.	O

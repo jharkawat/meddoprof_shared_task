@@ -1,0 +1,19 @@
+
+Realizó	B-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+hasta	O
+COU	O
+y	O
+comenzó	O
+una	O
+Ingeniería	O
+técnica	O
+que	O
+,	O
+después	O
+de	O
+un	O
+año	O
+,	O
+abandonó	O
+.	O

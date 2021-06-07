@@ -1,0 +1,6 @@
+
+Sin	O
+adenopatías	O
+periféricas	O
+palpables	O
+.	O

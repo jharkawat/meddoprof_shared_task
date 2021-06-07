@@ -1,0 +1,5 @@
+
+Conserva	O
+murmullo	O
+vesicular	O
+.	O

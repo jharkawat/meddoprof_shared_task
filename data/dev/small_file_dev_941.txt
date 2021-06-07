@@ -1,0 +1,23 @@
+
+Tiene	O
+un	O
+hijo	O
+de	O
+3	O
+años	O
+,	O
+fruto	O
+de	O
+una	O
+relación	O
+de	O
+pareja	O
+anterior	O
+,	O
+el	O
+cual	O
+vive	O
+con	O
+su	O
+madre	O
+.	O

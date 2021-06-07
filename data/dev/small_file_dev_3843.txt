@@ -1,0 +1,16 @@
+
+El	O
+hermano	O
+de	O
+Susana	O
+tiene	O
+actualmente	O
+12	O
+años	O
+y	O
+es	O
+un	O
+niño	O
+totalmente	O
+normal	O
+.	O

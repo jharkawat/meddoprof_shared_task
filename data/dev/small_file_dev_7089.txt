@@ -1,0 +1,10 @@
+
+Nuestro	O
+paciente	O
+tenía	O
+una	O
+lúes	O
+de	O
+data	O
+indeterminada	O
+.	O

@@ -1,0 +1,20 @@
+
+A	O
+la	O
+Exploración	O
+física	O
+el	O
+paciente	O
+presentaba	O
+un	O
+regular	O
+estado	O
+general	O
+,	O
+estaba	O
+desnutrido	O
+,	O
+normotenso	O
+y	O
+afebril	O
+.	O

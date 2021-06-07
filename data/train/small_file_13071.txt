@@ -1,0 +1,8 @@
+
+Se	O
+traslada	O
+a	O
+Hospital	O
+Santa	O
+Lucía	O
+.	O

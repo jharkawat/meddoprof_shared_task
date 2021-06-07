@@ -1,0 +1,27 @@
+
+Su	O
+madre	O
+decía	O
+que	O
+"	O
+no	O
+hay	O
+hora	O
+en	O
+el	O
+día	O
+que	O
+descanse	O
+la	O
+lavadora	O
+:	O
+funciona	O
+de	O
+día	O
+y	O
+de	O
+noche	O
+estoy	O
+agotada	O
+"	O
+.	O

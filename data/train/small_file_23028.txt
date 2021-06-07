@@ -1,0 +1,21 @@
+
+Electrocardiograma	O
+:	O
+informado	O
+como	O
+ritmo	O
+sinusal	O
+,	O
+posible	O
+crecimiento	O
+auricular	O
+y	O
+alteraciones	O
+en	O
+la	O
+repolarización	O
+en	O
+el	O
+segmento	O
+ST	O
+.	O

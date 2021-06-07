@@ -1,0 +1,11 @@
+
+En	O
+diciembre	O
+de	O
+2007	O
+fue	O
+intervenido	O
+quirúrgicamente	O
+mediante	O
+sigmoidectomía	O
+.	O

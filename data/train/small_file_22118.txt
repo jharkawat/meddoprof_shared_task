@@ -1,0 +1,18 @@
+
+Pilar	O
+es	O
+una	O
+mujer	O
+de	O
+34	O
+años	O
+,	O
+casada	O
+,	O
+con	O
+una	O
+hija	O
+de	O
+8	O
+meses	O
+.	O

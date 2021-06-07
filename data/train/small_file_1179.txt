@@ -1,0 +1,12 @@
+
+La	O
+endoscopia	O
+digestiva	O
+alta	O
+demostró	O
+lesiones	O
+sugerentes	O
+de	O
+candidiasis	O
+esofágica	O
+.	O

@@ -1,0 +1,22 @@
+
+También	O
+comenta	O
+que	O
+muchos	O
+días	O
+no	O
+se	O
+toma	O
+la	O
+medicación	O
+o	O
+no	O
+se	O
+la	O
+toma	O
+correctamente	O
+respecto	O
+a	O
+la	O
+pauta	O
+.	O

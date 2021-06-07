@@ -1,0 +1,26 @@
+
+A	O
+la	O
+exploración	O
+presenta	O
+descamación	O
+y	O
+fisuración	O
+en	O
+pulpejos	O
+de	O
+los	O
+primeros	O
+tres	O
+dedos	O
+de	O
+mano	O
+derecha	O
+y	O
+de	O
+primer	O
+dedo	O
+de	O
+mano	O
+izquierda	O
+.	O

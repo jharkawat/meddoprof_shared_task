@@ -1,0 +1,10 @@
+
+La	O
+ascultación	O
+pulmonar	O
+y	O
+palpación	O
+abdominal	O
+son	O
+normales	O
+.	O

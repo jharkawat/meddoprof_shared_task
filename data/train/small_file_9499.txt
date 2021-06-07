@@ -1,0 +1,13 @@
+
+Insuficiencia	O
+renal	O
+crónica	O
+en	O
+programa	O
+de	O
+hemodiálisis	O
+hipertensión	O
+arterial	O
+hematoma	O
+subdural	O
+.	O

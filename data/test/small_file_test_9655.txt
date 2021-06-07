@@ -1,0 +1,10 @@
+
+Tumor	O
+de	O
+células	O
+gigantes	O
+en	O
+cóndilo	O
+femoral	O
+izquierdo	O
+.	O

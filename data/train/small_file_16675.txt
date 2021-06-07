@@ -1,0 +1,5 @@
+
+No	O
+soplos	O
+carotídeos	O
+.	O

@@ -1,0 +1,6 @@
+
+No	O
+lesiones	O
+en	O
+mucosas	O
+.	O

@@ -1,0 +1,17 @@
+
+Su	O
+esposa	O
+lo	O
+llevó	O
+a	O
+un	O
+médico	B-PROFESION
+clínico	O
+quien	O
+lo	O
+derivó	O
+a	O
+un	O
+hospital	O
+psiquiátrico	O
+.	O

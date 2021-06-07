@@ -1,0 +1,17 @@
+
+En	O
+cuanto	O
+al	O
+tratamiento	O
+psicofarmacológico	O
+,	O
+se	O
+administró	O
+Fluoxetina	O
+20	O
+1	O
+-	O
+0	O
+-	O
+0	O
+.	O

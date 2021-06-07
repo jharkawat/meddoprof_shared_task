@@ -1,0 +1,26 @@
+
+El	O
+paciente	O
+es	O
+el	O
+menor	O
+de	O
+una	O
+fratria	O
+de	O
+tres	O
+hermanos	O
+,	O
+tiene	O
+un	O
+hermano	O
+de	O
+18	O
+años	O
+y	O
+una	O
+hermana	O
+de	O
+15	O
+años	O
+.	O

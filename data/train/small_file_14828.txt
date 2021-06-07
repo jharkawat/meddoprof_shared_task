@@ -1,0 +1,18 @@
+
+Progresivamente	O
+se	O
+corrige	O
+la	O
+hiponatremia	O
+,	O
+y	O
+presenta	O
+resolución	O
+completa	O
+del	O
+cuadro	O
+,	O
+estando	O
+posteriormente	O
+normotensa	O
+.	O

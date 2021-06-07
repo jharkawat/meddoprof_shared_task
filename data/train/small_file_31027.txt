@@ -1,0 +1,14 @@
+
+A	O
+la	O
+semana	O
+de	O
+su	O
+ingreso	O
+,	O
+la	O
+evolución	O
+sigue	O
+siendo	O
+desfavorable	O
+.	O

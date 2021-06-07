@@ -1,0 +1,18 @@
+
+Imagen	O
+lítica	O
+en	O
+localización	O
+posterosuperior	O
+de	O
+cuerpo	O
+vertebral	O
+L1	O
+,	O
+a	O
+considerar	O
+la	O
+posibilidad	O
+de	O
+metástasis	O
+.	O

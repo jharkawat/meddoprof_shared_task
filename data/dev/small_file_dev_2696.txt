@@ -1,0 +1,8 @@
+
+Tras	O
+instaurar	O
+el	O
+tratamiento	O
+antidepresivo	O
+mejoró	O
+.	O

@@ -1,0 +1,13 @@
+
+Desde	O
+su	O
+ingreso	O
+el	O
+paciente	O
+había	O
+permanecido	O
+afebril	O
+en	O
+todo	O
+momento	O
+.	O

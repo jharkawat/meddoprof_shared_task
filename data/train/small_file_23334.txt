@@ -1,0 +1,25 @@
+
+La	O
+señora	O
+Oriol	O
+,	O
+mujer	O
+caucásica	O
+de	O
+64	O
+años	O
+,	O
+ingresa	O
+a	O
+la	O
+unidad	O
+de	O
+hospitalización	O
+de	O
+psiquiatría	O
+para	O
+estudio	O
+de	O
+episodio	O
+psicótico	O
+.	O

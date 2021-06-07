@@ -1,0 +1,19 @@
+
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+64	O
+lpm	O
+.	O
+eje	O
+normal	O
+.	O
+onda	O
+q	O
+en	O
+I	O
+y	O
+aVL	O
+.	O

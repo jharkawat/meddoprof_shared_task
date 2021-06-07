@@ -1,0 +1,22 @@
+
+Discurso	O
+fluido	O
+,	O
+espontá	O
+-	O
+neo	O
+,	O
+reiterativo	O
+,	O
+coherente	O
+,	O
+ilógico	O
+y	O
+bien	O
+estructurado	O
+centrado	O
+en	O
+relatar	O
+temática	O
+delirante	O
+.	O

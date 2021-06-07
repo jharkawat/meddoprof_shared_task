@@ -1,0 +1,13 @@
+
+Se	O
+inicia	O
+quimioterapia	O
+en	O
+esquema	O
+AC	O
+(	O
+adriamicina	O
+,	O
+ciclofosfamida	O
+)	O
+.	O

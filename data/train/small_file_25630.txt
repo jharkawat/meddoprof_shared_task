@@ -1,0 +1,5 @@
+
+No	O
+Diabetes	O
+mellitus	O
+.	O

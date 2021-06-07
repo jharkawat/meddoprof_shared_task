@@ -1,0 +1,11 @@
+
+QT	O
+400	O
+mseg	O
+sin	O
+otras	O
+alteraciones	O
+de	O
+la	O
+repolarización	O
+.	O

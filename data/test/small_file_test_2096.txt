@@ -1,0 +1,21 @@
+
+Tranquila	O
+en	O
+planta	O
+,	O
+en	O
+cama	O
+,	O
+sin	O
+dificultad	O
+respiratoria	O
+,	O
+bien	O
+hidratada	O
+,	O
+totalmente	O
+consciente	O
+y	O
+bien	O
+orientada	O
+.	O

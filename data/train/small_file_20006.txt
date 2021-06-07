@@ -1,0 +1,11 @@
+
+No	O
+había	O
+antecedentes	O
+familiares	O
+de	O
+problemas	O
+psiquiátricos	O
+de	O
+importancia	O
+.	O

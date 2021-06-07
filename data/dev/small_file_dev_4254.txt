@@ -1,0 +1,13 @@
+
+El	O
+diagnóstico	O
+histopatológico	O
+determinó	O
+que	O
+se	O
+trataba	O
+de	O
+una	O
+hidatidosis	O
+ósea	O
+.	O

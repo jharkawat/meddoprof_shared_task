@@ -1,0 +1,24 @@
+
+Su	O
+actitud	O
+durante	O
+la	O
+entrevista	O
+es	O
+colaboradora	O
+y	O
+franca	O
+,	O
+no	O
+rehúye	O
+los	O
+temas	O
+,	O
+y	O
+su	O
+discurso	O
+es	O
+coherente	O
+y	O
+adecuado	O
+.	O

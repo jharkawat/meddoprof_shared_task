@@ -1,0 +1,15 @@
+
+Acude	O
+al	O
+servicio	O
+por	O
+presentar	O
+eritema	O
+inflamatorio	O
+intenso	O
+de	O
+alas	O
+de	O
+la	O
+nariz	O
+.	O

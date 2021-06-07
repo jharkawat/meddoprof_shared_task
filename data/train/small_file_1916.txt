@@ -1,0 +1,13 @@
+
+Tras	O
+interconsulta	O
+hospitalaria	O
+es	O
+valorada	O
+por	O
+el	O
+Servicio	O
+de	O
+Psicología	O
+Clínica	O
+.	O

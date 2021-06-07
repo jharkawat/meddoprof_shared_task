@@ -1,0 +1,23 @@
+
+Lesión	O
+nodular	O
+fusiforme	O
+32x16	O
+mm	O
+de	O
+origen	O
+adenopático	O
+laterocervical	O
+izquierdo	O
+(	O
+VA	O
+-	O
+II	O
+)	O
+y	O
+lesión	O
+supraclavicular	O
+izquierda	O
+22x15	O
+mm	O
+.	O

@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+un	O
+diagnóstico	O
+de	O
+trastorno	O
+obsesivo	O
+compulsivo	O
+con	O
+tics	O
+crónicos	O
+y	O
+acumulación	O
+,	O
+así	O
+como	O
+síndrome	O
+del	O
+acento	O
+extranjero	O
+.	O

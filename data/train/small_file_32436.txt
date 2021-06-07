@@ -1,0 +1,24 @@
+
+Residió	O
+junto	O
+con	O
+sus	O
+padres	O
+y	O
+sus	O
+hermanos	O
+hasta	O
+los	O
+13	O
+años	O
+de	O
+edad	O
+,	O
+momento	O
+en	O
+que	O
+sus	O
+padres	O
+se	O
+separan	O
+.	O

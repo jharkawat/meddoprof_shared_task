@@ -1,0 +1,15 @@
+
+Escala	O
+de	O
+Ideación	O
+Suicida	O
+(	O
+SSI	O
+)	O
+,	O
+ideación	O
+suicida	O
+leve	O
+-	O
+moderada	O
+.	O

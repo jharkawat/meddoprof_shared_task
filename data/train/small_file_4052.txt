@@ -1,0 +1,15 @@
+
+Preguntamos	O
+qué	O
+tal	O
+le	O
+fue	O
+lo	O
+que	O
+le	O
+mandamos	O
+y	O
+cómo	O
+se	O
+encuentra	O
+.	O

@@ -1,0 +1,24 @@
+
+Se	O
+realizó	O
+radiografía	O
+de	O
+abdomen	O
+apreciándose	O
+heces	O
+y	O
+gases	O
+intestinales	O
+en	O
+marco	O
+cólico	O
+,	O
+sin	O
+imágenes	O
+de	O
+densidad	O
+calcio	O
+a	O
+nivel	O
+renoureteral	O
+.	O

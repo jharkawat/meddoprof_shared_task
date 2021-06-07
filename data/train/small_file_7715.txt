@@ -1,0 +1,10 @@
+
+No	O
+posee	O
+círculo	O
+de	O
+iguales	O
+ni	O
+aficiones	O
+establecidas	O
+.	O

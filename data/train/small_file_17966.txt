@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+es	O
+valorado	O
+por	O
+primera	O
+vez	O
+en	O
+Neuropediatría	O
+a	O
+los	O
+21	O
+meses	O
+de	O
+edad	O
+por	O
+incapacidad	O
+para	O
+la	O
+deambulación	O
+autónoma	O
+.	O

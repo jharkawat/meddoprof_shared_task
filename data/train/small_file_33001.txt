@@ -1,0 +1,23 @@
+
+Se	O
+decidió	O
+la	O
+introducción	O
+de	O
+clozapina	O
+con	O
+mejoría	O
+de	O
+los	O
+síntomas	O
+paranoides	O
+y	O
+remisión	O
+de	O
+las	O
+discinesias	O
+tardías	O
+de	O
+forma	O
+progresiva	O
+.	O

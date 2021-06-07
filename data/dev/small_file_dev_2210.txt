@@ -1,0 +1,22 @@
+
+Se	O
+discute	O
+si	O
+los	O
+rasgos	O
+atribuidos	O
+a	O
+sus	O
+familiares	O
+no	O
+podrían	O
+ser	O
+considerados	O
+como	O
+síntomas	O
+del	O
+espectro	O
+de	O
+la	O
+esquizofrenia	O
+.	O

@@ -1,0 +1,4 @@
+
+Leucocitos	O
+25	O
+.	O

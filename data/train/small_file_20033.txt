@@ -1,0 +1,19 @@
+
+Un	O
+repaso	O
+de	O
+su	O
+historia	O
+clínica	O
+electrónica	O
+reveló	O
+que	O
+había	O
+tenido	O
+un	O
+episodio	O
+parecido	O
+2	O
+años	O
+antes	O
+.	O

@@ -1,0 +1,11 @@
+
+Sin	O
+antecedentes	O
+somáticos	O
+de	O
+interés	O
+,	O
+no	O
+alergias	O
+conocidas	O
+.	O

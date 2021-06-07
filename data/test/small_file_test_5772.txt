@@ -1,0 +1,5 @@
+
+Pneumoniae	O
+IgM	O
+negativos	O
+.	O

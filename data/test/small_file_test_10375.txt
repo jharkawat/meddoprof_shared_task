@@ -1,0 +1,6 @@
+
+Exfumadora	O
+desde	O
+dicho	O
+episodio	O
+.	O

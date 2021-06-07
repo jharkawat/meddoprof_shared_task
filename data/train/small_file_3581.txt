@@ -1,0 +1,6 @@
+
+Vive	O
+en	O
+medio	O
+rural	O
+.	O

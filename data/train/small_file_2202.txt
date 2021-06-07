@@ -1,0 +1,16 @@
+
+de	O
+intestino	O
+delgado	O
+a	O
+nivel	O
+de	O
+la	O
+lesión	O
+sin	O
+restablecimiento	O
+de	O
+la	O
+continuidad	O
+intestinal	O
+.	O

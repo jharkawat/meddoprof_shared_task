@@ -1,0 +1,15 @@
+
+Se	O
+mantuvo	O
+tratamiento	O
+antibiótico	O
+hasta	O
+completar	O
+14	O
+días	O
+con	O
+desaparición	O
+de	O
+toda	O
+sintomatología	O
+.	O

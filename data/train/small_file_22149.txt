@@ -1,0 +1,26 @@
+
+Conoció	O
+entonces	O
+a	O
+su	O
+actual	O
+marido	O
+,	O
+y	O
+tras	O
+un	O
+breve	O
+período	O
+de	O
+convivencia	O
+,	O
+se	O
+casaron	O
+y	O
+enseguida	O
+quedó	O
+embarazada	O
+de	O
+su	O
+hija	O
+.	O

@@ -1,0 +1,6 @@
+
+Se	O
+completó	O
+estudio	O
+con	O
+:	O

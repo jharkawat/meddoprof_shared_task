@@ -1,0 +1,8 @@
+
+Patrón	O
+8	O
+–	O
+Rol	O
+y	O
+relaciones	O
+.	O

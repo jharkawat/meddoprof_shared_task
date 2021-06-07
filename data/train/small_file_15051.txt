@@ -1,0 +1,6 @@
+
+No	O
+signos	O
+de	O
+artritis	O
+.	O

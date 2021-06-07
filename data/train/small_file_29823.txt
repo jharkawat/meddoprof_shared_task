@@ -1,0 +1,25 @@
+
+Niega	O
+otros	O
+delirios	O
+persecutorios	O
+o	O
+megalomaníacos	O
+,	O
+o	O
+bien	O
+trastornos	O
+en	O
+la	O
+propiedad	O
+del	O
+pensamiento	O
+o	O
+trastornos	O
+senso	O
+-	O
+perceptivos	O
+en	O
+cualquier	O
+canal	O
+.	O

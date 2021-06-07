@@ -1,0 +1,17 @@
+
+Comenzó	O
+a	O
+comentar	O
+que	O
+era	O
+Jesucristo	O
+,	O
+que	O
+tenía	O
+los	O
+clavos	O
+clavados	O
+en	O
+la	O
+mano	O
+.	O

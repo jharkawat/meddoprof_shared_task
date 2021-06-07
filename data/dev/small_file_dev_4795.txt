@@ -1,0 +1,9 @@
+
+Frecuencia	O
+respiratoria	O
+:	O
+15	O
+respiraciones	O
+/	O
+minuto	O
+.	O

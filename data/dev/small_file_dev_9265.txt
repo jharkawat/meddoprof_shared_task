@@ -1,0 +1,11 @@
+
+El	O
+análisis	O
+sanguíneo	O
+reveló	O
+signos	O
+inespecíficos	O
+de	O
+inflamación	O
+sistémica	O
+.	O

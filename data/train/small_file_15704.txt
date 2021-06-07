@@ -1,0 +1,24 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+efecto	O
+adverso	O
+de	O
+la	O
+medicación	O
+,	O
+la	O
+misma	O
+se	O
+cambió	O
+por	O
+ácido	O
+valproico	O
+500	O
+mg	O
+cada	O
+8	O
+horas	O
+.	O

@@ -1,0 +1,10 @@
+
+Tenía	O
+un	O
+hermano	O
+dos	O
+años	O
+menor	O
+,	O
+ingeniero	B-PROFESION
+.	O

@@ -1,0 +1,13 @@
+
+Lesiones	O
+dérmicas	O
+descamativas	O
+en	O
+manos	O
+y	O
+cara	O
+,	O
+simétricas	O
+,	O
+inespecíficas	O
+.	O

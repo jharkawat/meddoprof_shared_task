@@ -1,0 +1,16 @@
+
+Invidente	O
+por	O
+glaucoma	O
+y	O
+neuritis	O
+bilateral	O
+retrobulbar	O
+,	O
+con	O
+antecedentes	O
+de	O
+infarto	O
+de	O
+miocardio	O
+.	O

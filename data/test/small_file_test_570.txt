@@ -1,0 +1,14 @@
+
+En	O
+la	O
+rx	O
+de	O
+senos	O
+paranasales	O
+se	O
+observa	O
+velamiento	O
+del	O
+seno	O
+maxilar	O
+.	O

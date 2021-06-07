@@ -1,0 +1,8 @@
+
+No	O
+otros	O
+estigmas	O
+de	O
+sangrado	O
+externo	O
+.	O

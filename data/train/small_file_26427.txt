@@ -1,0 +1,12 @@
+
+Lo	O
+que	O
+más	O
+triste	O
+le	O
+ponía	O
+era	O
+ir	O
+al	O
+colegio	O
+.	O

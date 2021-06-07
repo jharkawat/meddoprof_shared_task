@@ -1,0 +1,16 @@
+
+Antecedentes	O
+familiares	O
+:	O
+su	O
+padre	O
+estaba	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+,	O
+fallecido	O
+por	O
+suicidio	O
+.	O

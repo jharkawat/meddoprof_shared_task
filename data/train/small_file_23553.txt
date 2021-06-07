@@ -1,0 +1,10 @@
+
+Padre	O
+fallecido	O
+en	O
+2001	O
+por	O
+infarto	O
+de	O
+miocardio	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+describió	O
+a	O
+la	O
+madre	O
+como	O
+problemática	O
+,	O
+exigiendo	O
+la	O
+realización	O
+de	O
+más	O
+pruebas	O
+antes	O
+del	O
+alta	O
+.	O

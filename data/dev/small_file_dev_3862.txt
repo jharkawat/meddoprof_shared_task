@@ -1,0 +1,10 @@
+
+Eje	O
+I	O
+:	O
+Esquizofrenia	O
+de	O
+tipo	O
+Indiferenciado	O
+Continuo	O
+.	O

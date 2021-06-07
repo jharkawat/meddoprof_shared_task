@@ -1,0 +1,10 @@
+
+-	O
+Sentimientos	O
+de	O
+culpa	O
+excesivos	O
+e	O
+ideación	O
+suicida	O
+.	O

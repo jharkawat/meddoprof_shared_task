@@ -1,0 +1,15 @@
+
+Frecuentes	O
+infecciones	O
+respiratorias	O
+que	O
+requerían	O
+hospitalización	O
+,	O
+antibioterapia	O
+casi	O
+permanente	O
+y	O
+fisioterapia	O
+respiratoria	O
+.	O

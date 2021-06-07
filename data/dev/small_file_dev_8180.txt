@@ -1,0 +1,10 @@
+
+Presentaba	O
+aumento	O
+de	O
+la	O
+pigmentación	O
+de	O
+la	O
+piel	O
+.	O

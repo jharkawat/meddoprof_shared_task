@@ -1,0 +1,18 @@
+
+Sin	O
+embargo	O
+,	O
+esa	O
+mejoría	O
+fue	O
+quizá	O
+la	O
+más	O
+importante	O
+que	O
+hubo	O
+experimentado	O
+hasta	O
+esas	O
+fechas	O
+.	O

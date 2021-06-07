@@ -1,0 +1,20 @@
+
+Actualmente	O
+presenta	O
+clínica	O
+ansioso	O
+-	O
+depresiva	O
+que	O
+precisa	O
+seguimiento	O
+por	O
+parte	O
+de	O
+Atención	O
+Primaria	O
+y	O
+de	O
+Salud	O
+Mental	O
+.	O

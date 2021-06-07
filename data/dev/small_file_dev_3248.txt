@@ -1,0 +1,17 @@
+
+Padre	O
+de	O
+una	O
+niña	O
+que	O
+nace	O
+en	O
+2000	O
+,	O
+con	O
+la	O
+que	O
+mantiene	O
+escasa	O
+relación	O
+.	O

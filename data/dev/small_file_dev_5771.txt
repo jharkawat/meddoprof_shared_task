@@ -1,0 +1,12 @@
+
+El	O
+informe	O
+patológico	O
+es	O
+concordante	O
+con	O
+micropólipos	O
+adenomatosos	O
+-	O
+hiperplásicos	O
+.	O

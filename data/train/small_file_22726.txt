@@ -1,0 +1,13 @@
+
+Su	O
+padre	O
+era	O
+diabético	O
+y	O
+falleció	O
+por	O
+un	O
+infarto	O
+de	O
+miocardio	O
+.	O

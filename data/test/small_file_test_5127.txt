@@ -1,0 +1,12 @@
+
+Juicio	O
+Diagnóstico	O
+:	O
+Adenocarcinoma	O
+de	O
+Pulmón	O
+estadío	O
+IVA	O
+(	O
+T3N2M1b	O
+)	O

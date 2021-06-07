@@ -1,0 +1,7 @@
+
+Mastocitosis	O
+sistémica	O
+leve	O
+o	O
+indolente	O
+.	O

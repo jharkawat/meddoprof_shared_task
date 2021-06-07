@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+evolucionó	O
+con	O
+leve	O
+hiperpigmentación	O
+postinflamatoria	O
+de	O
+las	O
+zonas	O
+implicadas	O
+,	O
+resolviéndose	O
+tras	O
+3	O
+meses	O
+.	O

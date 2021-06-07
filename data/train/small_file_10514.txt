@@ -1,0 +1,23 @@
+
+El	O
+enfermo	O
+había	O
+sido	O
+valorado	O
+por	O
+Digestivo	O
+con	O
+realización	O
+de	O
+endoscopia	O
+oral	O
+normal	O
+,	O
+y	O
+por	O
+ORL	O
+sin	O
+encontrar	O
+patología	O
+asociada	O
+.	O

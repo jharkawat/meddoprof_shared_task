@@ -1,0 +1,6 @@
+
+-	O
+Mucositis	O
+grado	O
+2	O
+.	O

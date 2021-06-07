@@ -1,0 +1,17 @@
+
+Inicia	O
+tratamiento	O
+con	O
+olaparib	O
+50	O
+mg	O
+8	O
+-	O
+0	O
+-	O
+8	O
+desde	O
+octubre	O
+/	O
+2017	O
+.	O

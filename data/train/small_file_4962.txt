@@ -1,0 +1,15 @@
+
+Sin	O
+embargo	O
+,	O
+sí	O
+comenta	O
+que	O
+todas	O
+las	O
+noches	O
+presenta	O
+sudoración	O
+generalizada	O
+profusa	O
+.	O

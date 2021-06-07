@@ -1,0 +1,10 @@
+
+Intervenido	O
+hace	O
+más	O
+de	O
+15	O
+años	O
+de	O
+colecistectomía	O
+.	O

@@ -1,0 +1,12 @@
+
+Hipoestesia	O
+al	O
+pinchazo	O
+braquio	O
+-	O
+crural	O
+izquierda	O
+sin	O
+hipopalestesia	O
+asociada	O
+.	O

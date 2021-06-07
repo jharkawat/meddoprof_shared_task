@@ -1,0 +1,15 @@
+
+A	O
+las	O
+24	O
+horas	O
+la	O
+paciente	O
+evoluciona	O
+menos	O
+agitada	O
+,	O
+sin	O
+ideas	O
+paranoides	O
+.	O

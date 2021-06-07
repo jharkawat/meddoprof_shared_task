@@ -1,0 +1,13 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+destaca	O
+dificultad	O
+para	O
+la	O
+marcha	O
+en	O
+tándem	O
+.	O

@@ -1,0 +1,27 @@
+
+La	O
+morfología	O
+de	O
+las	O
+lesiones	O
+y	O
+la	O
+exposición	O
+crónica	O
+a	O
+una	O
+fuente	O
+de	O
+calor	O
+en	O
+su	O
+actividad	O
+laboral	O
+sugirieron	O
+el	O
+diagnóstico	O
+de	O
+eritema	O
+ab	O
+igne	O
+.	O

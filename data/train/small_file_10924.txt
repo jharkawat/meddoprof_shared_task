@@ -1,0 +1,8 @@
+
+Abdomen	O
+-	O
+pelvis	O
+:	O
+discreta	O
+esplenomegalia	O
+.	O

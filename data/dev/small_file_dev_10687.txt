@@ -1,0 +1,14 @@
+
+No	O
+constan	O
+alergias	O
+medicamentosas	O
+conocidas	O
+ni	O
+antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+de	O
+interés	O
+.	O

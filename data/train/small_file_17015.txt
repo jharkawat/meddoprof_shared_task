@@ -1,0 +1,22 @@
+
+Tras	O
+seis	O
+meses	O
+de	O
+seguimiento	O
+,	O
+el	O
+paciente	O
+continúa	O
+asintomático	O
+,	O
+no	O
+toma	O
+medicación	O
+y	O
+no	O
+ha	O
+experimentado	O
+ninguna	O
+recidiva	O
+.	O

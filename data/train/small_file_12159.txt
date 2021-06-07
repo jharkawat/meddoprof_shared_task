@@ -1,0 +1,15 @@
+
+Taquicardia	O
+ventricular	O
+polimórfica	O
+tipo	O
+torsades	O
+de	O
+pointes	O
+secundaria	O
+a	O
+QT	O
+largo	O
+por	O
+amiodarona	O
+.	O

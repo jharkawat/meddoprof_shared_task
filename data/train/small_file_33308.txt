@@ -1,0 +1,8 @@
+
+Durante	O
+la	O
+entrevista	O
+se	O
+muestra	O
+tranquilo	O
+.	O

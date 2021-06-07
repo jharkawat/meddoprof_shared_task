@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+padece	O
+una	O
+osteoartritis	O
+degenerativa	O
+coxofemoral	O
+izquierda	O
+que	O
+le	O
+produce	O
+graves	O
+molestias	O
+y	O
+le	O
+incapacita	O
+en	O
+su	O
+actividad	O
+diaria	O
+.	O

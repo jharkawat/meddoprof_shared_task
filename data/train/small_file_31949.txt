@@ -1,0 +1,6 @@
+
+Sí	O
+control	O
+de	O
+impulsos	O
+.	O

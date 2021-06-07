@@ -1,0 +1,26 @@
+
+Se	O
+pueden	O
+objetivar	O
+infiltrados	O
+apicales	O
+y	O
+enfermedad	O
+cavitada	O
+,	O
+así	O
+como	O
+infiltrados	O
+atípicos	O
+,	O
+derrames	O
+pleurales	O
+,	O
+enfermedad	O
+miliar	O
+o	O
+radiografía	O
+de	O
+tórax	O
+normal	O
+.	O

@@ -1,0 +1,25 @@
+
+Tras	O
+una	O
+valoración	O
+inicial	O
+sin	O
+datos	O
+de	O
+alarma	O
+la	O
+paciente	O
+es	O
+alta	O
+hospitalaria	O
+con	O
+sospecha	O
+diagnóstica	O
+de	O
+Síndrome	O
+gripal	O
+sin	O
+pautar	O
+tratamiento	O
+específico	O
+.	O

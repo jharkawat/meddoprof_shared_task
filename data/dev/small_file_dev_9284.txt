@@ -1,0 +1,22 @@
+
+La	O
+espondilitis	O
+anquilosante	O
+suele	O
+cursar	O
+con	O
+positividad	O
+en	O
+la	O
+determinación	O
+del	O
+HLA	O
+B27	O
+y	O
+tener	O
+un	O
+curso	O
+subagudo	O
+o	O
+crónico	O
+.	O

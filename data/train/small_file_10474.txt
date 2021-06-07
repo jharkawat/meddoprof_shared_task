@@ -1,0 +1,5 @@
+
+FTA	O
+BS	O
+positivo	O
+.	O

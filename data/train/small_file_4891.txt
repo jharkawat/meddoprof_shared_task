@@ -1,0 +1,22 @@
+
+Refiere	O
+anteriormente	O
+tener	O
+edema	O
+de	O
+labio	O
+y	O
+prurito	O
+oral	O
+cuando	O
+come	O
+marisco	O
+y	O
+edemas	O
+si	O
+acompaña	O
+esta	O
+ingesta	O
+con	O
+ejercicio	O
+.	O

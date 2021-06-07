@@ -1,0 +1,10 @@
+
+No	O
+presentaba	O
+ideación	O
+delirante	O
+autorreferencial	O
+ni	O
+de	O
+perjuicio	O
+.	O

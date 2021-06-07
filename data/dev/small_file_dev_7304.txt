@@ -1,0 +1,12 @@
+
+No	O
+tenía	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+ni	O
+realizaba	O
+tratamiento	O
+habitual	O
+.	O

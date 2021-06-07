@@ -1,0 +1,7 @@
+
+Cátedra	O
+de	O
+Anatomía	O
+Patológica	O
+B	O
+.	O

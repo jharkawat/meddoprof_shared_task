@@ -1,0 +1,6 @@
+
+Presión	O
+venosa	O
+yugular	O
+normal	O
+.	O

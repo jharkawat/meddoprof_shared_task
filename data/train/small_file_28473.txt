@@ -1,0 +1,16 @@
+
+Finalizó	O
+sus	O
+estudios	O
+secundarios	O
+de	O
+formación	O
+profesional	O
+de	O
+primer	O
+grado	O
+y	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+enfermería	I-PROFESION
+.	O

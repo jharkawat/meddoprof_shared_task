@@ -1,0 +1,17 @@
+
+Las	O
+características	O
+neurorradiológicas	O
+no	O
+son	O
+patognomónicas	O
+y	O
+pueden	O
+ser	O
+muy	O
+similares	O
+a	O
+las	O
+del	O
+linfoma	O
+.	O

@@ -1,0 +1,27 @@
+
+Niega	O
+tener	O
+fiebre	O
+y	O
+no	O
+ha	O
+viajado	O
+en	O
+los	O
+últimos	O
+14	O
+días	O
+o	O
+ha	O
+estado	O
+en	O
+contacto	O
+con	O
+un	O
+caso	O
+confirmado	O
+de	O
+COVID	O
+-	O
+19	O
+.	O

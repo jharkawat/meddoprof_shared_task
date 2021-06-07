@@ -1,0 +1,5 @@
+
+Aversión	O
+al	O
+sexo	O
+.	O

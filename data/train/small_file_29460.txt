@@ -1,0 +1,15 @@
+
+Personalidad	O
+previa	O
+según	O
+el	O
+padre	O
+"	O
+normal	O
+,	O
+muy	O
+tranquilo	O
+,	O
+introvertido	O
+"	O
+.	O

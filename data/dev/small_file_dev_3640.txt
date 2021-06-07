@@ -1,0 +1,9 @@
+
+Ha	O
+perdido	O
+5	O
+Kg	O
+en	O
+este	O
+mes	O
+.	O

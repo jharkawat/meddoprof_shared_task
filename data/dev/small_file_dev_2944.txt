@@ -1,0 +1,20 @@
+
+–	O
+Clozapina	O
+200	O
+mg	O
+(	O
+0	O
+-	O
+0	O
+-	O
+0	O
+-	O
+1	O
+,	O
+5	O
+)	O
+con	O
+hemograma	O
+semanal	O
+.	O

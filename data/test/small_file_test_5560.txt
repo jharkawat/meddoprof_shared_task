@@ -1,0 +1,13 @@
+
+Vesícula	O
+,	O
+riñones	O
+,	O
+bazo	O
+,	O
+vejiga	O
+,	O
+sin	O
+alteraciones	O
+morfológicas	O
+.	O

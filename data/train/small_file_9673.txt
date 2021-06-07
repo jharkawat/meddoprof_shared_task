@@ -1,0 +1,15 @@
+
+Enfermería	O
+lo	O
+coloca	O
+en	O
+Trendelemburg	O
+y	O
+pauta	O
+fluidoterapia	O
+y	O
+oxigenoterapia	O
+con	O
+mejoría	O
+clínica	O
+.	O

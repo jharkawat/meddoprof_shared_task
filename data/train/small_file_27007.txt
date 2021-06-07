@@ -1,0 +1,23 @@
+
+Acudió	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+guardería	I-SITUACION_LABORAL
+desde	O
+el	O
+año	O
+y	O
+medio	O
+,	O
+con	O
+dificultades	O
+en	O
+la	O
+adaptación	O
+escolar	O
+debido	O
+al	O
+retraso	O
+madurativo	O
+presentado	O
+.	O

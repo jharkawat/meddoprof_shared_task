@@ -1,0 +1,9 @@
+
+Consumidora	O
+de	O
+cannabis	O
+desde	O
+los	O
+11	O
+años	O
+.	O

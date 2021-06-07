@@ -1,0 +1,15 @@
+
+Destacaba	O
+,	O
+por	O
+último	O
+,	O
+inatención	O
+al	O
+lado	O
+izquierdo	O
+y	O
+anosognosia	O
+del	O
+déficit	O
+.	O

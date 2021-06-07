@@ -1,0 +1,10 @@
+
+No	O
+refiere	O
+miedo	O
+a	O
+otras	O
+situaciones	O
+sociales	O
+distintas	O
+.	O

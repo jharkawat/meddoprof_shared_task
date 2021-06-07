@@ -1,0 +1,6 @@
+
+Ni	O
+ahora	O
+ni	O
+después	O
+.	O

@@ -1,0 +1,15 @@
+
+Leve	O
+claudicación	O
+de	O
+la	O
+extremidad	O
+superior	O
+derecha	O
+en	O
+forma	O
+de	O
+pronación	O
+en	O
+Barré	O
+.	O

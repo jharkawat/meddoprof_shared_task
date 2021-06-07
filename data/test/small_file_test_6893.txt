@@ -1,0 +1,11 @@
+
+Exploración	O
+cardiopulmonar	O
+,	O
+abdominal	O
+y	O
+neurológica	O
+sin	O
+hallazgos	O
+relevantes	O
+.	O

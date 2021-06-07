@@ -1,0 +1,25 @@
+
+Con	O
+46	O
+años	O
+concluye	O
+su	O
+permanencia	O
+en	O
+Comunidad	O
+Terapéutica	O
+,	O
+estando	O
+en	O
+la	O
+actualidad	O
+en	O
+seguimiento	O
+por	O
+su	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+Comunitaria	O
+.	O

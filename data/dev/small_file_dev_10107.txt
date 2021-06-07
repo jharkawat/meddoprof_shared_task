@@ -1,0 +1,13 @@
+
+Sus	O
+colegas	B-SITUACION_LABORAL
+la	O
+caracterizaban	O
+como	O
+meticulosa	O
+y	O
+bastante	O
+estricta	O
+como	O
+maestra	B-PROFESION
+.	O

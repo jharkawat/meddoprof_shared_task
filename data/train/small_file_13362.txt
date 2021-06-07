@@ -1,0 +1,12 @@
+
+El	O
+estudio	O
+de	O
+autoinmunidad	O
+con	O
+ANA	O
+y	O
+ENA	O
+es	O
+negativo	O
+.	O

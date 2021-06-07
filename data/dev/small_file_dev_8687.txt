@@ -1,0 +1,9 @@
+
+No	O
+está	O
+claro	O
+si	O
+ha	O
+seguido	O
+tratamiento	O
+.	O

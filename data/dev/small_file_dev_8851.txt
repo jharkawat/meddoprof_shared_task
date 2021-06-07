@@ -1,0 +1,26 @@
+
+Las	O
+serologías	O
+solicitadas	O
+para	O
+VIH	O
+,	O
+virus	O
+hepatotropos	O
+,	O
+VEB	O
+,	O
+parvovirus	O
+,	O
+el	O
+resto	O
+de	O
+los	O
+estudios	O
+microbiológicos	O
+y	O
+de	O
+autoinmunidad	O
+son	O
+negativos	O
+.	O

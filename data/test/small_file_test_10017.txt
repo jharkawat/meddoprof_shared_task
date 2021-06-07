@@ -1,0 +1,27 @@
+
+Vasculopatía	O
+con	O
+isquemia	O
+crónica	O
+de	O
+extremidades	O
+inferiores	O
+(	O
+arteriosclerosis	O
+obliterante	O
+)	O
+,	O
+ictus	O
+isquémico	O
+protuberancial	O
+izquierdo	O
+en	O
+febrero	O
+de	O
+2015	O
+,	O
+sin	O
+secuelas	O
+neurológicas	O
+posteriores	O
+.	O

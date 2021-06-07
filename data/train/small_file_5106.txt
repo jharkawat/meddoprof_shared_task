@@ -1,0 +1,27 @@
+
+Tiene	O
+una	O
+gran	O
+vida	O
+comunitaria	O
+,	O
+camina	O
+de	O
+6	O
+-	O
+10km	O
+al	O
+día	O
+,	O
+acude	O
+a	O
+todas	O
+sus	O
+revisiones	O
+y	O
+se	O
+preocupa	O
+por	O
+su	O
+salud	O
+.	O

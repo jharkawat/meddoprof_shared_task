@@ -1,0 +1,13 @@
+
+Neurológica	O
+:	O
+Destaca	O
+únicamente	O
+hipoacusia	O
+derecha	O
+así	O
+como	O
+discreta	O
+hiperreflexia	O
+derecha	O
+.	O

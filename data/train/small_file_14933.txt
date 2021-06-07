@@ -1,0 +1,20 @@
+
+Además	O
+,	O
+no	O
+se	O
+detectaron	O
+mutaciones	O
+del	O
+síndrome	O
+de	O
+Von	O
+Hippel	O
+Lindau	O
+ni	O
+MEN	O
+1	O
+ni	O
+Von	O
+Recklinghausen	O
+.	O

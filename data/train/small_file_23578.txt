@@ -1,0 +1,19 @@
+
+En	O
+el	O
+momento	O
+actual	O
+la	O
+hija	O
+esta	O
+en	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+centro	I-SITUACION_LABORAL
+penitenciario	I-SITUACION_LABORAL
+por	O
+conducta	O
+delictiva	O
+asociada	O
+al	O
+consumo	O
+.	O

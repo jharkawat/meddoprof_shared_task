@@ -1,0 +1,9 @@
+
+El	O
+juicio	O
+de	O
+realidad	O
+se	O
+halla	O
+mermado	O
+.	O

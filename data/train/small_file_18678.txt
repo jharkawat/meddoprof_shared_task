@@ -1,0 +1,13 @@
+
+En	O
+los	O
+pasillos	O
+del	O
+juzgado	O
+se	O
+encuentra	O
+físicamente	O
+con	O
+el	O
+agresor	O
+.	O

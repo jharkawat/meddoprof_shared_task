@@ -1,0 +1,18 @@
+
+Coagulación	O
+:	O
+TP	O
+15	O
+.	O
+2	O
+,	O
+INR	O
+1	O
+.	O
+3	O
+,	O
+Fibrinógeno	O
+1004mg	O
+/	O
+dL	O
+.	O

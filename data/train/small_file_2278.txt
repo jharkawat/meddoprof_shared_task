@@ -1,0 +1,14 @@
+
+Presenta	O
+dolor	O
+para	O
+la	O
+marcha	O
+con	O
+flexión	O
+forzada	O
+de	O
+cadera	O
+y	O
+rodilla	O
+.	O

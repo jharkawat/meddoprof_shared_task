@@ -1,0 +1,23 @@
+
+Tras	O
+el	O
+tratamiento	O
+el	O
+paciente	O
+refería	O
+mejoría	O
+de	O
+la	O
+sensación	O
+de	O
+acorchamiento	O
+en	O
+las	O
+piernas	O
+y	O
+apreciaba	O
+más	O
+estabilidad	O
+al	O
+caminar	O
+.	O

@@ -1,0 +1,17 @@
+
+-	O
+Masa	O
+cardiaca	O
+en	O
+aurícula	O
+derecha	O
+sospechosa	O
+de	O
+tumor	O
+de	O
+alto	O
+grado	O
+sin	O
+DGCO	O
+histológico	O
+.	O

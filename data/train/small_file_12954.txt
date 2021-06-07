@@ -1,0 +1,16 @@
+
+El	O
+personal	B-PROFESION
+de	I-PROFESION
+enfermería	I-PROFESION
+inicia	O
+de	O
+forma	O
+inmediata	O
+masaje	O
+cardiaco	O
+avisando	O
+al	O
+personal	B-PROFESION
+médico	I-PROFESION
+.	O

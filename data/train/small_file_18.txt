@@ -1,0 +1,20 @@
+
+La	O
+prueba	O
+de	O
+COVID	O
+-	O
+19	O
+(	O
+PCR	O
+de	O
+SARS	O
+-	O
+CoV	O
+-	O
+2	O
+)	O
+dio	O
+resultado	O
+positivo	O
+.	O

@@ -1,0 +1,10 @@
+
+No	O
+presenta	O
+fiebre	O
+ni	O
+afectación	O
+del	O
+estado	O
+general	O
+.	O

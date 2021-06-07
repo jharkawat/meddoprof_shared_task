@@ -1,0 +1,16 @@
+
+Síndrome	O
+febril	O
+sin	O
+foco	O
+infeccioso	O
+en	O
+paciente	O
+en	O
+tratamiento	O
+con	O
+inhibidores	O
+BRAF	O
+y	O
+MEK	O
+.	O

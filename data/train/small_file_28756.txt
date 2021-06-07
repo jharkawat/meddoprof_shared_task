@@ -1,0 +1,9 @@
+
+Convive	O
+con	O
+los	O
+padres	O
+y	O
+hermana	O
+menor	O
+.	O

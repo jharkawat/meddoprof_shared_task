@@ -1,0 +1,10 @@
+
+No	O
+otros	O
+hallazgos	O
+reseñables	O
+en	O
+exploración	O
+por	O
+aparatos	O
+.	O

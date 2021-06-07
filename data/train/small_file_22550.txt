@@ -1,0 +1,25 @@
+
+Sitúan	O
+los	O
+tres	O
+años	O
+y	O
+medio	O
+como	O
+fecha	O
+de	O
+inicio	O
+del	O
+cuadro	O
+.	O
+El	O
+paciente	O
+no	O
+parece	O
+mostrar	O
+síntomas	O
+de	O
+hiperactividad	O
+conductual	O
+mantenida	O
+.	O

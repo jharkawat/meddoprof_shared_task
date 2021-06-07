@@ -1,0 +1,10 @@
+
+Válvula	O
+mitral	O
+con	O
+buena	O
+apertura	O
+y	O
+sin	O
+insuficiencia	O
+.	O

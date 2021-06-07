@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+realiza	O
+vida	O
+laboral	O
+activa	O
+y	O
+mantiene	O
+un	O
+ritmo	O
+deposicional	O
+sin	O
+alteraciones	O
+.	O

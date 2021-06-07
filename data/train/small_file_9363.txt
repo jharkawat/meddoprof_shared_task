@@ -1,0 +1,11 @@
+
+Adenoma	O
+suprarrenal	O
+izquierdo	O
+de	O
+28	O
+mm	O
+de	O
+diámetro	O
+máximo	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+noviembre	O
+de	O
+2014	O
+,	O
+recibió	O
+everolimus	O
+10	O
+mg	O
+/	O
+día	O
+vía	O
+oral	O
+teniendo	O
+como	O
+toxicidad	O
+hiperglucemia	O
+,	O
+anemia	O
+,	O
+neutropenia	O
+y	O
+astenia	O
+grado	O
+12	O
+.	O

@@ -1,0 +1,26 @@
+
+PCO2	O
+40	O
+mmHg	O
+,	O
+HCO3	O
+-	O
+25	O
+,	O
+0	O
+mmol	O
+/	O
+l	O
+,	O
+EB	O
+0	O
+,	O
+6	O
+Clearance	O
+de	O
+creatinina	O
+98	O
+ml	O
+/	O
+min	O
+.	O

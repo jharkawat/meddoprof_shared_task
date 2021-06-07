@@ -1,0 +1,20 @@
+
+Entretanto	O
+el	O
+paciente	O
+empeora	O
+clínicamente	O
+con	O
+disminución	O
+de	O
+la	O
+fuerza	O
+y	O
+aparición	O
+de	O
+FA	O
+paroxística	O
+que	O
+se	O
+anticoagula	O
+.	O

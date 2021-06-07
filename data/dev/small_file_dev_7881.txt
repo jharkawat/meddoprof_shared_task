@@ -1,0 +1,17 @@
+
+Las	O
+causas	O
+principales	O
+son	O
+las	O
+infecciones	O
+,	O
+neoplasias	O
+,	O
+enfermedades	O
+del	O
+tejido	O
+conectivo	O
+y	O
+fármacos	O
+.	O

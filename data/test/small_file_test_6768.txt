@@ -1,0 +1,17 @@
+
+Fue	O
+dado	O
+de	O
+alta	O
+a	O
+un	O
+centro	O
+sociosanitario	O
+para	O
+continuar	O
+el	O
+tratamiento	O
+y	O
+la	O
+rehabilitación	O
+.	O

@@ -1,0 +1,14 @@
+
+Refiere	O
+que	O
+parte	O
+de	O
+su	O
+familia	O
+es	O
+cómplice	O
+de	O
+estas	O
+personas	O
+poderosas	O
+.	O

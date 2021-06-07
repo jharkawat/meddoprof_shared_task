@@ -1,0 +1,13 @@
+
+Varón	O
+de	O
+52	O
+años	O
+,	O
+que	O
+trabajaba	B-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+arsenal	I-PROFESION
+militar	I-PROFESION
+.	O

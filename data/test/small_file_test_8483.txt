@@ -1,0 +1,17 @@
+
+Por	O
+ello	O
+,	O
+se	O
+decidió	O
+tratamiento	O
+con	O
+anticoagulación	O
+indefinida	O
+con	O
+heparina	O
+de	O
+bajo	O
+peso	O
+molecular	O
+.	O

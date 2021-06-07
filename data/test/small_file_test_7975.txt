@@ -1,0 +1,19 @@
+
+La	O
+auscultación	O
+cardiaca	O
+es	O
+rítmica	O
+sin	O
+soplos	O
+y	O
+en	O
+la	O
+auscultación	O
+pulmonar	O
+no	O
+se	O
+obtienen	O
+ruidos	O
+patológicos	O
+.	O

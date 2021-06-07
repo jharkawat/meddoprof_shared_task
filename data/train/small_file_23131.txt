@@ -1,0 +1,25 @@
+
+A	O
+las	O
+tres	O
+horas	O
+presenta	O
+dos	O
+episodios	O
+de	O
+crisis	O
+generalizada	O
+tónica	O
+,	O
+que	O
+ceden	O
+tras	O
+la	O
+administración	O
+de	O
+13	O
+mg	O
+de	O
+diazepam	O
+intramuscular	O
+.	O

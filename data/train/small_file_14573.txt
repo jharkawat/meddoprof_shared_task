@@ -1,0 +1,12 @@
+
+En	O
+urgencias	O
+se	O
+inició	O
+tratamiento	O
+empírico	O
+con	O
+doxicicina	O
+y	O
+ceftriaxona	O
+.	O

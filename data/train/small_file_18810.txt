@@ -1,0 +1,21 @@
+
+A	O
+nivel	O
+laboral	O
+tiene	B-PROFESION
+un	I-PROFESION
+trabajo	I-PROFESION
+de	I-PROFESION
+cara	I-PROFESION
+al	I-PROFESION
+público	I-PROFESION
+pero	O
+se	O
+encuentra	O
+en	B-SITUACION_LABORAL
+situación	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+incapacidad	I-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+transitoria	I-SITUACION_LABORAL
+.	O

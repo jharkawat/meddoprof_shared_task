@@ -1,0 +1,20 @@
+
+La	O
+presencia	O
+de	O
+una	O
+infección	O
+intratorácica	O
+(	O
+neumonía	O
+o	O
+empiema	O
+)	O
+,	O
+obliga	O
+a	O
+descartar	O
+una	O
+pericarditis	O
+purulenta	O
+.	O

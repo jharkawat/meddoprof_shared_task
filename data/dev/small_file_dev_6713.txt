@@ -1,0 +1,13 @@
+
+El	O
+hemocultivo	O
+de	O
+control	O
+tras	O
+6	O
+días	O
+de	O
+antibioterapia	O
+fue	O
+negativo	O
+.	O

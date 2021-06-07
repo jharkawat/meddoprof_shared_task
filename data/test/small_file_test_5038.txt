@@ -1,0 +1,25 @@
+
+Se	O
+realiza	O
+ecografía	O
+-	O
+doppler	O
+que	O
+muestra	O
+signos	O
+de	O
+malignidad	O
+,	O
+y	O
+posteriormente	O
+una	O
+biopsia	O
+que	O
+confirma	O
+metástasis	O
+de	O
+carcinoma	O
+de	O
+células	O
+escamosas	O
+.	O

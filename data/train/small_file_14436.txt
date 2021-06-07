@@ -1,0 +1,21 @@
+
+Biopsia	O
+(	O
+BAG	O
+)	O
+de	O
+masa	O
+pulmonar	O
+:	O
+Parénquima	O
+pulmonar	O
+junto	O
+tejido	O
+fibroso	O
+con	O
+infiltrado	O
+inflamatorio	O
+mixto	O
+con	O
+eosinófilos	O
+.	O

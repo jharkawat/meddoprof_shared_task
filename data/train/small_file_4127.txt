@@ -1,0 +1,20 @@
+
+Anamnesis	O
+:	O
+La	O
+paciente	O
+consultó	O
+en	O
+el	O
+año	O
+2008	O
+tras	O
+ser	O
+diagnosticada	O
+de	O
+fibromialgia	O
+por	O
+Reumatología	O
+y	O
+Traumatología	O
+.	O

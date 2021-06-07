@@ -1,0 +1,15 @@
+
+El	O
+clima	O
+familiar	O
+denota	O
+elevada	O
+ansiedad	O
+manifiesta	O
+durante	O
+los	O
+primeros	O
+contactos	O
+con	O
+ellos	O
+.	O

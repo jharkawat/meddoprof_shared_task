@@ -1,0 +1,17 @@
+
+Negó	O
+que	O
+hubiera	O
+consumido	O
+drogas	O
+o	O
+alcohol	O
+y	O
+dijo	O
+que	O
+no	O
+había	O
+intentado	O
+hacerse	O
+daño	O
+.	O

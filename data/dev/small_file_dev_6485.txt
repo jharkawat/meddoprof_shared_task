@@ -1,0 +1,14 @@
+
+Ingresa	O
+a	O
+hospitalización	O
+con	O
+diagnóstico	O
+de	O
+parálisis	O
+facial	O
+periférica	O
+y	O
+síndrome	O
+cerebeloso	O
+.	O

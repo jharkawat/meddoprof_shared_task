@@ -1,0 +1,14 @@
+
+Sin	O
+embargo	O
+,	O
+el	O
+diagnóstico	O
+de	O
+un	O
+linfoma	O
+debe	O
+ser	O
+siempre	O
+histológico	O
+.	O

@@ -1,0 +1,10 @@
+
+Apendicetomía	O
+y	O
+cirugía	O
+de	O
+menisco	O
+en	O
+rodilla	O
+derecha	O
+.	O

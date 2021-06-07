@@ -1,0 +1,11 @@
+
+Refiere	O
+sensación	O
+distérmica	O
+no	O
+termometrada	O
+en	O
+los	O
+últimos	O
+días	O
+.	O

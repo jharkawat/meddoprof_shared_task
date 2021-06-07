@@ -1,0 +1,13 @@
+
+Después	O
+de	O
+comer	O
+como	O
+desaforada	O
+se	O
+sentía	O
+explotar	O
+pero	O
+no	O
+vomitaba	O
+.	O

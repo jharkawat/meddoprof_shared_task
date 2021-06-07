@@ -1,0 +1,9 @@
+
+Es	O
+el	O
+mayor	O
+de	O
+todos	O
+sus	O
+hermanos	O
+.	O

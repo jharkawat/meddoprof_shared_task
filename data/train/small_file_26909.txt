@@ -1,0 +1,12 @@
+
+Médico	O
+-	O
+quirúrgicos	O
+:	O
+No	O
+alergias	O
+medicamentosas	O
+o	O
+alimentarias	O
+conocidas	O
+.	O

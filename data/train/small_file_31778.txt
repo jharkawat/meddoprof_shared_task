@@ -1,0 +1,6 @@
+
+Mediastino	O
+de	O
+tamaño	O
+normal	O
+.	O

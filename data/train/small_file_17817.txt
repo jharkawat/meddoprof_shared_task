@@ -1,0 +1,10 @@
+
+Macroadenoma	O
+hipofisario	O
+secretor	O
+de	O
+prolactina	O
+(	O
+prolactinoma	O
+)	O
+.	O

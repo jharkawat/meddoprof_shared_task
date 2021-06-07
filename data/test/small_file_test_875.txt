@@ -1,0 +1,27 @@
+
+Es	O
+una	O
+buena	O
+profesional	O
+,	O
+por	O
+lo	O
+que	O
+la	O
+dirección	O
+de	O
+la	O
+empresa	O
+le	O
+asignó	O
+un	O
+puesto	O
+superior	O
+el	O
+que	O
+desempeñaba	O
+con	O
+aumento	O
+del	O
+salario	O
+.	O

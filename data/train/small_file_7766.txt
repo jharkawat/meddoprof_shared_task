@@ -1,0 +1,24 @@
+
+El	O
+tratamiento	O
+quirúrgico	O
+fue	O
+curativo	O
+y	O
+actualmente	O
+el	O
+paciente	O
+sigue	O
+en	O
+revisión	O
+semestral	O
+en	O
+consultas	O
+sin	O
+haber	O
+presentado	O
+recidiva	O
+de	O
+la	O
+enfermedad	O
+.	O

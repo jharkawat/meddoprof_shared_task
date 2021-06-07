@@ -1,0 +1,7 @@
+
+TC	O
+craneal	O
+:	O
+sin	O
+hallazgos	O
+.	O

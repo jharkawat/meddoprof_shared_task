@@ -1,0 +1,17 @@
+
+Autointoxicación	O
+con	O
+una	O
+gran	O
+cantidad	O
+no	O
+determinada	O
+de	O
+tramadol	O
+,	O
+benzodiacepinas	O
+,	O
+alcohol	O
+y	O
+cocaína	O
+.	O

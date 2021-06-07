@@ -1,0 +1,24 @@
+
+Se	O
+trata	O
+de	O
+una	O
+mujer	O
+que	O
+ha	O
+acudido	O
+a	O
+un	O
+recurso	O
+externo	O
+de	O
+ayuda	O
+,	O
+pero	O
+al	O
+que	O
+no	O
+se	O
+plantea	O
+volver	O
+.	O

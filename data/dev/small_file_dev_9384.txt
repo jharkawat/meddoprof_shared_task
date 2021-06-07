@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+evolucionó	O
+de	O
+forma	O
+favorable	O
+durante	O
+el	O
+ingreso	O
+,	O
+realizándose	O
+curas	O
+locales	O
+diarias	O
+sin	O
+incidencias	O
+.	O

@@ -1,0 +1,13 @@
+
+Cuadro	O
+clínico	O
+compatible	O
+con	O
+arteritis	O
+de	O
+células	O
+gigantes	O
+(	O
+ACG	O
+)	O
+.	O

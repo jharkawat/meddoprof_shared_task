@@ -1,0 +1,14 @@
+
+Se	O
+separó	O
+de	O
+su	O
+primer	O
+marido	O
+y	O
+ahora	O
+esta	O
+con	O
+el	O
+segundo	O
+.	O

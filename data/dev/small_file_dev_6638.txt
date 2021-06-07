@@ -1,0 +1,26 @@
+
+Se	O
+extrajeron	O
+hemocultivos	O
+,	O
+coincidiendo	O
+con	O
+un	O
+momento	O
+de	O
+la	O
+fiebre	O
+y	O
+de	O
+la	O
+tiritona	O
+,	O
+y	O
+la	O
+paciente	O
+ingresó	O
+en	O
+planta	O
+para	O
+estudio	O
+.	O

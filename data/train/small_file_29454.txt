@@ -1,0 +1,18 @@
+
+Es	O
+el	O
+segundo	O
+de	O
+tres	O
+hermanos	O
+,	O
+los	O
+otros	O
+sanos	O
+,	O
+conviven	O
+con	O
+sus	O
+respectivas	O
+familias	O
+.	O

@@ -1,0 +1,27 @@
+
+Lleva	O
+una	O
+vida	O
+relativamente	O
+normal	O
+,	O
+con	O
+la	O
+limitación	O
+descrita	O
+para	O
+la	O
+práctica	O
+de	O
+algún	O
+deporte	O
+y	O
+que	O
+le	O
+condiciona	O
+llevar	O
+una	O
+vida	O
+relativamente	O
+sedentaria	O
+.	O

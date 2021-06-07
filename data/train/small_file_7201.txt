@@ -1,0 +1,26 @@
+
+Acude	O
+a	O
+consulta	O
+un	O
+varón	O
+de	O
+52	O
+años	O
+de	O
+edad	O
+con	O
+antecedentes	O
+personales	O
+de	O
+Diabetes	O
+Mellitus	O
+tipo	O
+II	O
+,	O
+hipertensión	O
+arterial	O
+y	O
+hepatitis	O
+C	O
+.	O

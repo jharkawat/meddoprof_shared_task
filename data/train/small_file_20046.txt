@@ -1,0 +1,23 @@
+
+A	O
+menudo	O
+se	O
+reía	O
+sin	O
+motivo	O
+aparente	O
+y	O
+luego	O
+se	O
+enfadaba	O
+,	O
+frustrado	O
+,	O
+cuando	O
+creía	O
+que	O
+lo	O
+habían	O
+entendido	O
+mal	O
+.	O

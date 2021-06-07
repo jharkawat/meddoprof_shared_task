@@ -1,0 +1,10 @@
+
+Padre	O
+y	O
+hermana	O
+con	O
+diagnóstico	O
+de	O
+trastorno	O
+bipolar	O
+.	O

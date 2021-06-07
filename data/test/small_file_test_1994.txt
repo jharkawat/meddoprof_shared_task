@@ -1,0 +1,18 @@
+
+se	O
+decide	O
+dar	O
+bolus	O
+de	O
+rituximab	O
+,	O
+que	O
+realiza	O
+el	O
+día	O
+10	O
+/	O
+05	O
+/	O
+16	O
+.	O

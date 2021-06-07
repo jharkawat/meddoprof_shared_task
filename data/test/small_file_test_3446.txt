@@ -1,0 +1,24 @@
+
+Los	O
+estudios	O
+postoperatorios	O
+no	O
+objetivaron	O
+enfermedad	O
+residual	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+propone	O
+tratamiento	O
+con	O
+esquema	O
+cisplatino	O
+-	O
+taxotere	O
+por	O
+6	O
+ciclos	O
+.	O

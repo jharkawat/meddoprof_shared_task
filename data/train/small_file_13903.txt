@@ -1,0 +1,20 @@
+
+La	O
+TAC	O
+toraco	O
+-	O
+abdominal	O
+mostró	O
+hallazgos	O
+compatibles	O
+con	O
+neumonía	O
+y	O
+hepatomegalia	O
+con	O
+numerosas	O
+adenopatías	O
+en	O
+hilio	O
+hepático	O
+.	O

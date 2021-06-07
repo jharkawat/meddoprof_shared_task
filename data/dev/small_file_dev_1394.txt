@@ -1,0 +1,6 @@
+
+Expresión	O
+facial	O
+:	O
+alerta	O
+.	O

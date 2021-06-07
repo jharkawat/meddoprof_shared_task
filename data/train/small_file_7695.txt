@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+58	O
+años	O
+,	O
+en	O
+seguimiento	O
+por	O
+Servicio	O
+de	O
+Dermatología	O
+tras	O
+ser	O
+diagnosticada	O
+de	O
+psoriasis	O
+en	O
+2010	O
+.	O

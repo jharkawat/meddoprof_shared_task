@@ -1,0 +1,6 @@
+
+Hay	O
+amnesia	O
+del	O
+episodio	O
+.	O

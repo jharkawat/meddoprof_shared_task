@@ -1,0 +1,9 @@
+
+Auscultación	O
+respiratoria	O
+:	O
+MVC	O
+sin	O
+ruidos	O
+sobreañadidos	O
+.	O

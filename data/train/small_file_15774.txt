@@ -1,0 +1,5 @@
+
+Pulsos	O
+distales	O
+presentes	O
+.	O

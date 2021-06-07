@@ -1,0 +1,9 @@
+
+ANTECEDENTES	O
+ALÉRGICOS	O
+:	O
+al	O
+polvo	O
+y	O
+lana	O
+.	O

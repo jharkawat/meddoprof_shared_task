@@ -1,0 +1,23 @@
+
+Tras	O
+un	O
+mes	O
+de	O
+tratamiento	O
+,	O
+el	O
+paciente	O
+acude	O
+a	O
+control	O
+clínico	O
+,	O
+evidenciándose	O
+rash	O
+facial	O
+de	O
+tipo	O
+acneiforme	O
+grado	O
+1	O
+.	O

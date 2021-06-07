@@ -1,0 +1,20 @@
+
+La	O
+epidermis	O
+no	O
+muestra	O
+alteraciones	O
+y	O
+el	O
+pigmento	O
+no	O
+se	O
+tiñe	O
+Perl	O
+"	O
+s	O
+ni	O
+con	O
+Masson	O
+Fontana	O
+.	O

@@ -1,0 +1,10 @@
+
+El	O
+examen	O
+torácico	O
+mostraba	O
+crepitaciones	O
+tipo	O
+velcro	O
+bilateral	O
+.	O

@@ -1,0 +1,15 @@
+
+Todos	O
+viven	O
+fuera	O
+del	O
+domicilio	O
+familiar	O
+,	O
+los	O
+hijos	O
+menores	O
+en	O
+distinta	O
+localidad	O
+.	O

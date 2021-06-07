@@ -1,0 +1,13 @@
+
+A	O
+pesar	O
+de	O
+ello	O
+continuaba	O
+sin	O
+ser	O
+subsidiario	O
+de	O
+tratamiento	O
+quirúrgico	O
+.	O

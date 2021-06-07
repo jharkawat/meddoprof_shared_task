@@ -1,0 +1,11 @@
+
+Nos	O
+conocimos	O
+hace	O
+meses	O
+en	O
+el	O
+Servicio	O
+de	O
+Urgencias	O
+.	O

@@ -1,0 +1,19 @@
+
+Fumador	O
+de	O
+unos	O
+30	O
+cigarrillos	O
+/	O
+día	O
+desde	O
+los	O
+15	O
+años	O
+(	O
+33	O
+paquetes	O
+/	O
+año	O
+)	O
+.	O

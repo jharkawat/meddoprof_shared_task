@@ -1,0 +1,23 @@
+
+Radiografía	O
+de	O
+tórax	O
+,	O
+función	O
+tiroidea	O
+,	O
+renal	O
+,	O
+proteinograma	O
+,	O
+inmunoglobulinas	O
+,	O
+estudio	O
+del	O
+complemento	O
+y	O
+hemostasia	O
+:	O
+sin	O
+alteraciones	O
+.	O

@@ -1,0 +1,27 @@
+
+El	O
+día	O
+siguiente	O
+su	O
+PaO2	O
+había	O
+disminuido	O
+a	O
+59	O
+mmHg	O
+,	O
+a	O
+pesar	O
+de	O
+estar	O
+con	O
+la	O
+mascarilla	O
+;	O
+se	O
+decidió	O
+iniciar	O
+tratamiento	O
+con	O
+APt	O
+.	O

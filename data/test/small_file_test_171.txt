@@ -1,0 +1,12 @@
+
+La	O
+BCG	O
+fue	O
+aplicada	O
+durante	O
+el	O
+primer	O
+mes	O
+de	O
+vida	O
+.	O

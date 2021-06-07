@@ -1,0 +1,19 @@
+
+Se	O
+observa	O
+ánimo	O
+depresivo	O
+,	O
+facies	O
+triste	O
+,	O
+ansiedad	O
+moderada	O
+,	O
+llanto	O
+al	O
+hablar	O
+de	O
+su	O
+familia	O
+.	O

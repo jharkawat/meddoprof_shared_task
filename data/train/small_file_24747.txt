@@ -1,0 +1,24 @@
+
+En	O
+psicoanálisis	O
+la	O
+estructura	O
+de	O
+carácter	O
+representa	O
+la	O
+forma	O
+particular	O
+en	O
+la	O
+cual	O
+la	O
+energía	O
+está	O
+encausada	O
+en	O
+el	O
+proceso	O
+de	O
+vivir	O
+.	O

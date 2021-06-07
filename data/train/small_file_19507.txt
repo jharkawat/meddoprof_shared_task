@@ -1,0 +1,19 @@
+
+Me	O
+tuve	O
+que	O
+ir	O
+solo	O
+al	O
+trabajo	O
+y	O
+al	O
+llegar	O
+me	O
+dio	O
+un	O
+ataque	O
+de	O
+ira	O
+.	O
+"	O

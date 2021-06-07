@@ -1,0 +1,18 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+mostró	O
+la	O
+presencia	O
+de	O
+infiltrados	O
+mixtos	O
+de	O
+predominio	O
+alveolar	O
+de	O
+distribución	O
+difusa	O
+.	O

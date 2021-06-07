@@ -1,0 +1,5 @@
+
+Ingresos	O
+en	O
+Escocia	O
+:	O

@@ -1,0 +1,8 @@
+
+2	O
+,	O
+5	O
+semanas	O
+de	O
+evolución	O
+.	O

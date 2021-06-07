@@ -1,0 +1,10 @@
+
+Autocrítica	O
+patológica	O
+por	O
+su	O
+debilidad	O
+y	O
+sus	O
+errores	O
+.	O

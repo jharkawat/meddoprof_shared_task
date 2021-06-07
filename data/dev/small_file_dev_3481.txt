@@ -1,0 +1,10 @@
+
+En	O
+el	O
+trabajo	O
+era	O
+una	O
+persona	O
+muy	O
+perfeccionista	O
+.	O

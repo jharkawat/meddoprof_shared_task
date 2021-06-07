@@ -1,0 +1,18 @@
+
+Notable	O
+mejoría	O
+radiológica	O
+(	O
+respuesta	O
+parcial	O
+,	O
+según	O
+criterios	O
+de	O
+valoración	O
+de	O
+respuesta	O
+para	O
+linfomas	O
+)	O
+.	O

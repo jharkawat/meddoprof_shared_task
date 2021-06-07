@@ -1,0 +1,17 @@
+
+Estas	O
+crisis	O
+duran	O
+entre	O
+40	O
+y	O
+60	O
+segundos	O
+y	O
+recurren	O
+cada	O
+1	O
+-	O
+2	O
+minutos	O
+.	O

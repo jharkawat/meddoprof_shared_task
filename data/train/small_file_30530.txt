@@ -1,0 +1,26 @@
+
+Pasa	O
+de	O
+estar	O
+paralizada	O
+y	O
+bloqueada	O
+por	O
+las	O
+voces	O
+,	O
+mutista	O
+y	O
+aislada	O
+,	O
+a	O
+tener	O
+una	O
+actitud	O
+y	O
+estado	O
+de	O
+ánimo	O
+completamente	O
+funcional	O
+.	O

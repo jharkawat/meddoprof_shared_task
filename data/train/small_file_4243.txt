@@ -1,0 +1,14 @@
+
+El	O
+matrimonio	O
+tiene	O
+dos	O
+hijos	O
+ya	O
+emancipados	O
+de	O
+28	O
+y	O
+23	O
+años	O
+.	O

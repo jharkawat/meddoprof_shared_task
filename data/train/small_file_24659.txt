@@ -1,0 +1,14 @@
+
+Se	O
+encuentra	O
+más	O
+estable	O
+anímicamente	O
+y	O
+lleva	O
+6	O
+meses	O
+trabajando	O
+como	O
+comercial	B-PROFESION
+.	O

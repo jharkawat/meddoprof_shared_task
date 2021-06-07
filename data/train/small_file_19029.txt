@@ -1,0 +1,15 @@
+
+Mantiene	O
+una	O
+buena	O
+relación	O
+con	O
+su	O
+núcleo	O
+familiar	O
+y	O
+con	O
+su	O
+familia	O
+política	O
+.	O

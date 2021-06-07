@@ -1,0 +1,17 @@
+
+Se	O
+comenta	O
+el	O
+caso	O
+con	O
+Endocrinología	O
+y	O
+se	O
+inicia	O
+tratamiento	O
+sustitutivo	O
+con	O
+hidroaltesona	O
+y	O
+tiroxina	O
+.	O

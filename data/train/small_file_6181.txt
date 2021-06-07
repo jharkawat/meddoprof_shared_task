@@ -1,0 +1,21 @@
+
+Mujer	O
+de	O
+41	O
+años	O
+que	O
+acude	O
+a	O
+consulta	O
+por	O
+presentar	O
+herida	O
+en	O
+segunda	O
+falange	O
+de	O
+mano	O
+derecha	O
+y	O
+cervicalgia	O
+.	O

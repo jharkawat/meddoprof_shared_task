@@ -1,0 +1,25 @@
+
+Al	O
+tercer	O
+ciclo	O
+se	O
+practicó	O
+una	O
+reevaluación	O
+radiológica	O
+,	O
+en	O
+la	O
+que	O
+se	O
+detecta	O
+respuesta	O
+parcial	O
+,	O
+por	O
+lo	O
+que	O
+prosigue	O
+el	O
+tratamiento	O
+.	O

@@ -1,0 +1,10 @@
+
+No	O
+se	O
+produce	O
+pérdida	O
+completa	O
+de	O
+la	O
+conciencia	O
+.	O

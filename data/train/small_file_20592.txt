@@ -1,0 +1,20 @@
+
+Cuando	O
+el	O
+padre	O
+empieza	O
+a	O
+intervenir	O
+en	O
+el	O
+juego	O
+,	O
+la	O
+madre	O
+tiende	O
+a	O
+retirarse	O
+de	O
+la	O
+situación	O
+.	O

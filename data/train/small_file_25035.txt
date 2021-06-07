@@ -1,0 +1,11 @@
+
+Ha	B-SITUACION_LABORAL
+trabajado	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+forma	I-SITUACION_LABORAL
+esporádica	I-SITUACION_LABORAL
+en	O
+empleos	O
+no	O
+cualificados	O
+.	O

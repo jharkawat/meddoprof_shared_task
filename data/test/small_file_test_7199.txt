@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+refiere	O
+mejoría	O
+del	O
+dolor	O
+desde	O
+que	O
+comienza	O
+el	O
+tercer	O
+comprimido	O
+y	O
+la	O
+movilidad	O
+va	O
+mejorando	O
+progresivamente	O
+.	O

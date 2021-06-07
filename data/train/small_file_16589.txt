@@ -1,0 +1,5 @@
+
+Abdomen	O
+sin	O
+alteraciones	O
+.	O

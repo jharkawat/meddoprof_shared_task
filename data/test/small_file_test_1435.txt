@@ -1,0 +1,14 @@
+
+A	O
+las	O
+6	O
+semanas	O
+se	O
+llevó	O
+a	O
+cabo	O
+la	O
+revaluación	O
+del	O
+caso	O
+.	O

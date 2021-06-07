@@ -1,0 +1,26 @@
+
+No	O
+sabe	O
+precisar	O
+si	O
+presenta	O
+sudoración	O
+normal	O
+en	O
+el	O
+lado	O
+izquierdo	O
+de	O
+la	O
+cara	O
+y	O
+no	O
+ha	O
+notado	O
+pérdida	O
+de	O
+fuerza	O
+ni	O
+alteraciones	O
+sensitivas	O
+.	O

@@ -1,0 +1,8 @@
+
+»	O
+No	O
+menciona	O
+alergia	O
+a	O
+medicamentos	O
+.	O

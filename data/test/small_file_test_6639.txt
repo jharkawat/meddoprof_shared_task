@@ -1,0 +1,6 @@
+
+Niega	O
+síndrome	O
+miccional	O
+acompañante	O
+.	O

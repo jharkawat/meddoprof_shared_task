@@ -1,0 +1,22 @@
+
+En	O
+el	O
+estudio	O
+de	O
+autoinmunidad	O
+se	O
+objetiva	O
+FR	O
+18	O
+,	O
+70UI	O
+/	O
+ml	O
+,	O
+ANA	O
+y	O
+Anti	O
+DNA	O
+son	O
+negativos	O
+.	O

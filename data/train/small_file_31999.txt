@@ -1,0 +1,22 @@
+
+Se	O
+añadió	O
+a	O
+su	O
+tratamiento	O
+habitual	O
+medicación	O
+antipsicótica	O
+(	O
+hasta	O
+6	O
+mg	O
+de	O
+risperidona	O
+repartida	O
+en	O
+comida	O
+y	O
+cena	O
+)	O
+.	O

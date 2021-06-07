@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+pasa	O
+de	O
+UCI	O
+a	O
+planta	O
+de	O
+Medicina	O
+Interna	O
+.	O

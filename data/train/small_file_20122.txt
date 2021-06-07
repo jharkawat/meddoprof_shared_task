@@ -1,0 +1,8 @@
+
+Raquel	O
+no	O
+tenía	O
+problemas	O
+de	O
+salud	O
+.	O

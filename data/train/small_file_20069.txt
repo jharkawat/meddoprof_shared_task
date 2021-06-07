@@ -1,0 +1,14 @@
+
+Seguía	O
+tenso	O
+y	O
+nervioso	O
+,	O
+pero	O
+afirmaba	O
+no	O
+tener	O
+paranoia	O
+ni	O
+miedo	O
+.	O

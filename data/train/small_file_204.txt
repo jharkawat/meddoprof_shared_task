@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+se	O
+trasladó	O
+a	O
+un	O
+centro	O
+de	O
+neurorrehabilitación	O
+el	O
+27	O
+de	O
+abril	O
+para	O
+su	O
+convalecencia	O
+y	O
+tratamiento	O
+.	O

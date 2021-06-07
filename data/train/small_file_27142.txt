@@ -1,0 +1,23 @@
+
+No	O
+auto	O
+ni	O
+heteraogresivo	O
+en	O
+el	O
+momento	O
+de	O
+la	O
+exploración	O
+ni	O
+destacada	O
+por	O
+los	O
+familiares	O
+en	O
+relación	O
+a	O
+la	O
+historia	O
+pasada	O
+.	O

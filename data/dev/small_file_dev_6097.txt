@@ -1,0 +1,20 @@
+
+Al	O
+no	O
+evidenciar	O
+alas	O
+72	O
+horas	O
+mejoría	O
+clínica	O
+,	O
+ni	O
+radiológica	O
+,	O
+se	O
+decidió	O
+practicar	O
+broncoscopia	O
+y	O
+LBA	O
+.	O

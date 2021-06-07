@@ -1,0 +1,22 @@
+
+Ha	O
+habido	O
+controversia	O
+respecto	O
+a	O
+la	O
+comprensión	O
+de	O
+la	O
+conducta	O
+negativista	O
+que	O
+se	O
+observa	O
+en	O
+los	O
+niños	O
+con	O
+mutismo	O
+selectivo	O
+.	O

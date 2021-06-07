@@ -1,0 +1,27 @@
+
+Desde	O
+entonces	O
+ha	O
+tomado	O
+distintos	O
+tratamientos	O
+como	O
+Quetiapina	O
+,	O
+olanzapina	O
+,	O
+fluoxetina	O
+,	O
+lorazepam	O
+,	O
+risperidona	O
+y	O
+midazolam	O
+,	O
+son	O
+los	O
+que	O
+el	O
+paciente	O
+recuerda	O
+.	O

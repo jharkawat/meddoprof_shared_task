@@ -1,0 +1,8 @@
+
+-	O
+Amputación	O
+de	O
+miembro	O
+inferior	O
+derecho	O
+.	O

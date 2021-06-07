@@ -1,0 +1,19 @@
+
+Despierta	O
+a	O
+su	O
+hermano	O
+a	O
+todas	O
+horas	O
+de	O
+la	O
+noche	O
+para	O
+discutir	O
+con	O
+él	O
+de	O
+temas	O
+religiosos	O
+.	O

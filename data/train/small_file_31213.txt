@@ -1,0 +1,9 @@
+
+Se	O
+le	O
+realizó	O
+estudio	O
+genético	O
+descartándose	O
+alteraciones	O
+.	O

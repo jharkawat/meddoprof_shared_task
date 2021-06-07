@@ -1,0 +1,26 @@
+
+El	O
+Anisakis	O
+simplex	O
+es	O
+un	O
+nematodo	O
+,	O
+descrito	O
+que	O
+parasita	O
+al	O
+pescado	O
+,	O
+siendo	O
+el	O
+hombre	O
+un	O
+huésped	O
+intermediario	O
+,	O
+mostrando	O
+una	O
+distribución	O
+mundial	O
+.	O

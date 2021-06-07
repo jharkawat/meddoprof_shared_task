@@ -1,0 +1,6 @@
+
+Puerperio	O
+inmediato	O
+sin	O
+complicaciones	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+tenía	O
+alergias	O
+medicamentosas	O
+,	O
+era	O
+alérgico	O
+al	O
+polen	O
+.	O

@@ -1,0 +1,20 @@
+
+En	O
+este	O
+proceso	O
+tan	O
+dilatado	O
+en	O
+el	O
+tiempo	O
+se	O
+han	O
+realizado	O
+múltiples	O
+pruebas	O
+complementarias	O
+(	O
+RX	O
+ECG	O
+)	O
+.	O

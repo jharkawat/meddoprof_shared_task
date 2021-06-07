@@ -1,0 +1,11 @@
+
+Su	O
+M	O
+le	O
+rompe	O
+un	O
+plumero	O
+en	O
+la	O
+cabeza	O
+.	O

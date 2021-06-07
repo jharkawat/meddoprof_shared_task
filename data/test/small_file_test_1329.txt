@@ -1,0 +1,11 @@
+
+La	O
+madre	O
+está	O
+en	O
+cuidados	O
+intensivos	O
+con	O
+ventilación	O
+mecánica	O
+.	O

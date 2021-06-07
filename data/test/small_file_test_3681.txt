@@ -1,0 +1,24 @@
+
+Es	O
+valorado	O
+por	O
+ORL	O
+,	O
+objetivándose	O
+una	O
+degeneración	O
+polipoidea	O
+en	O
+la	O
+cabeza	O
+del	O
+cornete	O
+medio	O
+izquierdo	O
+en	O
+nasofibrolaringoscopia	O
+y	O
+se	O
+completa	O
+estudio	O
+.	O

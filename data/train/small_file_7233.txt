@@ -1,0 +1,11 @@
+
+Posteriormente	O
+recibió	O
+metotrexato	O
+,	O
+que	O
+se	O
+suspendió	O
+por	O
+anemia	O
+.	O

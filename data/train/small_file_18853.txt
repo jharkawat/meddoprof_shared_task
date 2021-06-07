@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+los	O
+considera	O
+egodistónicos	O
+,	O
+refiere	O
+malestar	O
+consecuente	O
+de	O
+la	O
+rumia	O
+y	O
+presenta	O
+dificultades	O
+para	O
+no	O
+actuar	O
+en	O
+base	O
+a	O
+ellos	O
+.	O

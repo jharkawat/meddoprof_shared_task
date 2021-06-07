@@ -1,0 +1,25 @@
+
+Su	O
+madre	O
+,	O
+también	O
+había	O
+padecido	O
+un	O
+episodio	O
+depresivo	O
+cuando	O
+sus	O
+hijos	O
+eran	O
+pequeños	O
+,	O
+siguió	O
+tratamiento	O
+y	O
+no	O
+volvió	O
+a	O
+tener	O
+recaídas	O
+.	O

@@ -1,0 +1,27 @@
+
+Analítica	O
+:	O
+hemograma	O
+,	O
+en	O
+rango	O
+;	O
+bioquímica	O
+,	O
+en	O
+rango	O
+incluido	O
+perfil	O
+tiroideo	O
+y	O
+PRL	O
+;	O
+colinesterasa	O
+,	O
+en	O
+rango	O
+;	O
+serología	O
+,	O
+negativa	O
+.	O

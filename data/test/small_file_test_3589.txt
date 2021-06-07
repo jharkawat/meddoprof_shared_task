@@ -1,0 +1,10 @@
+
+No	O
+se	O
+observaron	O
+alteraciones	O
+en	O
+las	O
+enzimas	O
+cardiacas	O
+.	O

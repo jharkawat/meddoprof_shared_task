@@ -1,0 +1,21 @@
+
+Negaba	O
+síntomas	O
+trigéminoautonómicos	O
+,	O
+o	O
+que	O
+le	O
+despertara	O
+por	O
+la	O
+noche	O
+,	O
+o	O
+que	O
+aumentara	O
+con	O
+maniobras	O
+de	O
+Valsalva	O
+.	O

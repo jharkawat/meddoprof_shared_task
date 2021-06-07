@@ -1,0 +1,21 @@
+
+Abdomen	O
+:	O
+hepatomegalia	O
+homogénea	O
+sin	O
+LOEs	O
+con	O
+porta	O
+y	O
+bazo	O
+normal	O
+,	O
+sin	O
+lesiones	O
+en	O
+la	O
+pared	O
+ni	O
+liquido	O
+.	O

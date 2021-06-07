@@ -1,0 +1,19 @@
+
+Adolescente	O
+(	O
+USMIA	O
+)	O
+a	O
+petición	O
+del	O
+colegio	O
+y	O
+de	O
+la	O
+psicóloga	B-PROFESION
+particular	O
+a	O
+la	O
+que	O
+acude	O
+.	O

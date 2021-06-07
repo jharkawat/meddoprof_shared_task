@@ -1,0 +1,24 @@
+
+Seguimiento	O
+irregular	O
+en	O
+CSMA	O
+de	O
+Martorell	O
+y	O
+una	O
+consulta	O
+a	O
+servicio	O
+de	O
+Urgencias	O
+en	O
+2010	O
+por	O
+crisis	O
+de	O
+ansiedad	O
+y	O
+empeoramiento	O
+anímico	O
+.	O

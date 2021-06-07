@@ -1,0 +1,20 @@
+
+Disfonía	O
+,	O
+no	O
+alteración	O
+en	O
+la	O
+articulación	O
+ni	O
+en	O
+la	O
+fluidez	O
+del	O
+lenguaje	O
+con	O
+capacidad	O
+de	O
+comprensión	O
+conservada	O
+.	O

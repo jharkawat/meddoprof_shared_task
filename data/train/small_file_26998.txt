@@ -1,0 +1,23 @@
+
+La	O
+paciente	O
+fue	O
+la	O
+primera	O
+en	O
+nacer	O
+por	O
+parto	O
+eutócico	O
+a	O
+término	O
+,	O
+sin	O
+embargo	O
+,	O
+su	O
+hermano	O
+precisó	O
+de	O
+cesárea	O
+.	O

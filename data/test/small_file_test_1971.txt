@@ -1,0 +1,14 @@
+
+Hipoestesia	O
+en	O
+el	O
+dorso	O
+del	O
+pie	O
+derecho	O
+y	O
+zona	O
+medial	O
+mano	O
+derecha	O
+.	O

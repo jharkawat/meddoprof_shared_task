@@ -1,0 +1,13 @@
+
+-	O
+Focos	O
+de	O
+miocardioesclerosis	O
+y	O
+leves	O
+signos	O
+de	O
+hipertrofia	O
+cardiaca	O
+izquierda	O
+.	O

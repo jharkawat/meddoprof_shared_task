@@ -1,0 +1,27 @@
+
+»	O
+Carcinoma	O
+indiferenciado	O
+de	O
+mama	O
+triple	O
+negativo	O
+con	O
+primario	O
+oculto	O
+en	O
+forma	O
+de	O
+metástasis	O
+cutánea	O
+en	O
+la	O
+zona	O
+dorsal	O
+en	O
+septiembre	O
+/	O
+2012	O
+en	O
+Brasil	O
+.	O

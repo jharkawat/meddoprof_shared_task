@@ -1,0 +1,10 @@
+
+Se	O
+siente	O
+inútil	O
+y	O
+un	O
+estorbo	O
+en	O
+casa	O
+.	O

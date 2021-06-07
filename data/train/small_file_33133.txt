@@ -1,0 +1,14 @@
+
+Parkinson	O
+"	O
+s	O
+Disease	O
+Cognitive	O
+Rating	O
+Scale	O
+(	O
+PD	O
+-	O
+CRS	O
+)	O
+.	O

@@ -1,0 +1,15 @@
+
+Discreta	O
+hipoventilación	O
+en	O
+la	O
+región	O
+superior	O
+del	O
+hemitórax	O
+izquierdo	O
+,	O
+sin	O
+ruidos	O
+patológicos	O
+.	O

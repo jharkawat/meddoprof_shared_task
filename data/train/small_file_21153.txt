@@ -1,0 +1,10 @@
+
+Comenzó	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+trabajar	I-SITUACION_LABORAL
+nuevamente	I-SITUACION_LABORAL
+pero	O
+sólo	O
+medio	O
+día	O
+.	O

@@ -1,0 +1,18 @@
+
+Presenta	O
+una	O
+minusvalía	O
+del	O
+66	O
+%	O
+y	O
+percibe	O
+una	O
+pensión	B-SITUACION_LABORAL
+no	I-SITUACION_LABORAL
+contributiva	I-SITUACION_LABORAL
+del	O
+IASS	O
+desde	O
+2012	O
+.	O

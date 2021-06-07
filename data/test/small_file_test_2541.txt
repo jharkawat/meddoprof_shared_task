@@ -1,0 +1,5 @@
+
+Complejos	O
+QRS	O
+estrechos	O
+.	O

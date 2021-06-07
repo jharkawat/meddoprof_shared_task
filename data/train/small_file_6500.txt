@@ -1,0 +1,9 @@
+
+Los	O
+cultivos	O
+y	O
+las	O
+serologías	O
+fueron	O
+negativos	O
+.	O

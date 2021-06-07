@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+evolucionó	O
+favorablemente	O
+,	O
+con	O
+normalización	O
+de	O
+función	O
+renal	O
+.	O

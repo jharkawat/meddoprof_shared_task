@@ -1,0 +1,10 @@
+
+Peso	O
+:	O
+65	O
+kg	O
+,	O
+talla	O
+162	O
+cm	O
+.	O

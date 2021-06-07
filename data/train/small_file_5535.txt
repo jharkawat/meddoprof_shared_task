@@ -1,0 +1,24 @@
+
+A	O
+pesar	O
+de	O
+ausencia	O
+de	O
+hallazgos	O
+de	O
+lesiones	O
+óseas	O
+compatibles	O
+con	O
+fractura	O
+patológica	O
+en	O
+pruebas	O
+complementarias	O
+previas	O
+,	O
+nuestra	O
+sospecha	O
+era	O
+evidente	O
+.	O

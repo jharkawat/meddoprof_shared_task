@@ -1,0 +1,19 @@
+
+Se	O
+realizó	O
+ecografía	O
+abdominal	O
+que	O
+no	O
+mostró	O
+dilatación	O
+de	O
+vías	O
+biliares	O
+ni	O
+signos	O
+de	O
+litiasis	O
+o	O
+colecistitis	O
+.	O

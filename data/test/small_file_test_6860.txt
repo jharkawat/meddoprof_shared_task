@@ -1,0 +1,25 @@
+
+A	O
+la	O
+vista	O
+de	O
+estos	O
+resultados	O
+,	O
+en	O
+enero	O
+de	O
+2019	O
+comenzó	O
+tratamiento	O
+con	O
+pazopanib	O
+800	O
+mg	O
+al	O
+día	O
+,	O
+con	O
+buena	O
+tolerancia	O
+.	O

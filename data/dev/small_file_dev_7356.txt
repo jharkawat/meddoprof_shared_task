@@ -1,0 +1,10 @@
+
+Otra	O
+causa	O
+de	O
+micosis	O
+diseminada	O
+es	O
+la	O
+blastomicosis	O
+.	O

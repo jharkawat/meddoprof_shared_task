@@ -1,0 +1,17 @@
+
+Inicia	O
+imatinib	O
+400	O
+mg	O
+/	O
+día	O
+adyuvante	O
+en	O
+abril	O
+de	O
+2013	O
+,	O
+con	O
+buena	O
+tolerancia	O
+.	O

@@ -1,0 +1,9 @@
+
+Un	O
+ecodoppler	O
+venoso	O
+descartó	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

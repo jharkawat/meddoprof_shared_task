@@ -1,0 +1,26 @@
+
+Al	O
+hallarnos	O
+ante	O
+un	O
+Síndrome	O
+bulbar	O
+con	O
+debilidad	O
+muscular	O
+asimétrica	O
+con	O
+parámetros	O
+de	O
+miositis	O
+,	O
+se	O
+decidió	O
+realizar	O
+el	O
+diagnostico	O
+diferencial	O
+con	O
+:	O
+1	O
+.	O

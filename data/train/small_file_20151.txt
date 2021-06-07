@@ -1,0 +1,10 @@
+
+Nadie	O
+se	O
+había	O
+suicidado	O
+anteriormente	O
+en	O
+la	O
+familia	O
+.	O

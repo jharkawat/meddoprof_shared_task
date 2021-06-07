@@ -1,0 +1,8 @@
+
+Atelectasia	O
+por	O
+hipoventilación	O
+basal	O
+posterior	O
+derecha	O
+.	O

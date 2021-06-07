@@ -1,0 +1,12 @@
+
+Trabajó	O
+a	O
+través	O
+de	O
+empleo	B-SITUACION_LABORAL
+protegido	I-SITUACION_LABORAL
+entre	O
+2004	O
+y	O
+2012	O
+.	O

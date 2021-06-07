@@ -1,0 +1,23 @@
+
+Se	O
+discutió	O
+ampliamente	O
+la	O
+intervención	O
+quirúrgica	O
+,	O
+haciendo	O
+hincapié	O
+en	O
+la	O
+escasa	O
+posibilidad	O
+de	O
+conseguir	O
+una	O
+resección	O
+completa	O
+de	O
+la	O
+lesión	O
+.	O

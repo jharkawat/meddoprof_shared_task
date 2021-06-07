@@ -1,0 +1,25 @@
+
+Valorado	O
+en	O
+Servicio	O
+de	O
+Cirugía	O
+Vascular	O
+,	O
+tras	O
+exploración	O
+física	O
+y	O
+realización	O
+de	O
+Ecodoppler	O
+,	O
+se	O
+considera	O
+baja	O
+probabilidad	O
+de	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

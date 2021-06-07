@@ -1,0 +1,12 @@
+
+En	O
+la	O
+edad	O
+adulta	O
+ingresó	O
+en	B-SITUACION_LABORAL
+prisión	I-SITUACION_LABORAL
+por	O
+5	O
+meses	O
+.	O

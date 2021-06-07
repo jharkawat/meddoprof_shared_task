@@ -1,0 +1,15 @@
+
+Su	O
+actitud	O
+en	O
+ocasiones	O
+disfórica	O
+y	O
+recelosa	O
+,	O
+en	O
+otras	O
+jovial	O
+y	O
+seductora	O
+.	O

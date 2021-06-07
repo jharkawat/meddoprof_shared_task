@@ -1,0 +1,7 @@
+
+Rx	O
+de	O
+senos	O
+sin	O
+ocupación	O
+.	O

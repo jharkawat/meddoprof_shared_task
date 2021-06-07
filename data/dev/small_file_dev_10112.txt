@@ -1,0 +1,8 @@
+
+Su	O
+conversación	O
+era	O
+coherente	O
+y	O
+acertada	O
+.	O

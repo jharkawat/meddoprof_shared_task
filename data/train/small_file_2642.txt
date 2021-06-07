@@ -1,0 +1,17 @@
+
+Otras	O
+frutas	O
+y	O
+hortalizas	O
+(	O
+patata	O
+.	O
+.	O
+.	O
+)	O
+:	O
+<	O
+0	O
+,	O
+1	O
+.	O

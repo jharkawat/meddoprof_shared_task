@@ -1,0 +1,12 @@
+
+Tiene	O
+previsto	O
+reincorporarse	O
+al	O
+trabajo	O
+docente	B-PROFESION
+en	O
+el	O
+próximo	O
+curso	O
+.	O

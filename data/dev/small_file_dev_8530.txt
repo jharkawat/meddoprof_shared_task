@@ -1,0 +1,12 @@
+
+TA	O
+:	O
+145	O
+/	O
+90	O
+,	O
+Peso	O
+:	O
+60	O
+kg	O
+.	O

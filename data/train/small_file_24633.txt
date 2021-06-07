@@ -1,0 +1,24 @@
+
+Con	O
+su	O
+madre	O
+fallecida	O
+,	O
+la	O
+paciente	O
+realiza	O
+una	O
+búsqueda	O
+de	O
+la	O
+relación	O
+con	O
+su	O
+padre	O
+de	O
+una	O
+manera	O
+primitiva	O
+y	O
+pueril	O
+.	O

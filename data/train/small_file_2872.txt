@@ -1,0 +1,15 @@
+
+Abdomen	O
+doloroso	O
+a	O
+la	O
+palpación	O
+de	O
+manera	O
+difusa	O
+,	O
+de	O
+predominio	O
+en	O
+hipogastrio	O
+.	O

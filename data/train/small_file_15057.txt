@@ -1,0 +1,27 @@
+
+1	O
+.	O
+ante	O
+la	O
+posibilidad	O
+de	O
+una	O
+reacción	O
+adversa	O
+a	O
+medicamentos	O
+revisamos	O
+y	O
+retiramos	O
+los	O
+fármacos	O
+potencialmente	O
+implicados	O
+(	O
+Gemfibrocilo	O
+/	O
+Benzodiazepinas	O
+/	O
+Escitalopram	O
+)	O
+.	O

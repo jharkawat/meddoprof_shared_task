@@ -1,0 +1,24 @@
+
+Se	O
+ha	O
+realizado	O
+TC	O
+cérvico	O
+-	O
+toracoabdominal	O
+tras	O
+8	O
+semanas	O
+del	O
+fin	O
+del	O
+tratamiento	O
+donde	O
+no	O
+se	O
+evidencia	O
+recaída	O
+local	O
+ni	O
+sistémica	O
+.	O

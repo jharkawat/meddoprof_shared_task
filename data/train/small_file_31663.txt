@@ -1,0 +1,24 @@
+
+Desde	O
+hace	O
+dos	O
+meses	O
+vivía	O
+en	O
+casa	O
+de	O
+su	O
+hermano	O
+con	O
+su	O
+madre	O
+,	O
+al	O
+encontrarse	O
+los	O
+padres	O
+en	O
+proceso	O
+de	O
+separación	O
+.	O

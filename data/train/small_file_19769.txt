@@ -1,0 +1,23 @@
+
+A	O
+los	O
+29	O
+años	O
+,	O
+acudió	O
+a	O
+la	O
+Unidad	O
+de	O
+Alcohología	O
+a	O
+efectos	O
+de	O
+solicitar	O
+ingreso	O
+hospitalario	O
+para	O
+desintoxicación	O
+de	O
+alcohol	O
+.	O

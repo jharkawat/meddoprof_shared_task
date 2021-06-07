@@ -1,0 +1,16 @@
+
+Durante	O
+la	O
+información	O
+médica	O
+solo	O
+lloraban	O
+solicitando	O
+que	O
+retirásemos	O
+las	O
+medidas	O
+de	O
+soporte	O
+vital	O
+.	O

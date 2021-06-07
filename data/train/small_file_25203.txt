@@ -1,0 +1,16 @@
+
+Padre	O
+con	O
+probable	O
+abuso	O
+de	O
+alcohol	O
+y	O
+rasgos	O
+de	O
+la	O
+personalidad	O
+del	O
+cluster	O
+B	O
+.	O

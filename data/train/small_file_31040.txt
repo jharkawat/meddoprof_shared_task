@@ -1,0 +1,19 @@
+
+Hasta	O
+la	O
+fecha	O
+,	O
+ha	O
+sido	O
+revisado	O
+en	O
+dos	O
+ocasiones	O
+en	O
+su	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+Comunitaria	O
+.	O

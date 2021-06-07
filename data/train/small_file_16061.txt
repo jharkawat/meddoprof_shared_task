@@ -1,0 +1,6 @@
+
+Ingreso	O
+durante	O
+4	O
+semanas	O
+.	O

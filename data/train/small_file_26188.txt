@@ -1,0 +1,11 @@
+
+La	O
+respuesta	O
+al	O
+tratamiento	O
+antipsicótico	O
+fue	O
+irregular	O
+e	O
+incompleta	O
+.	O

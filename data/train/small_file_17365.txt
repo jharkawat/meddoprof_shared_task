@@ -1,0 +1,14 @@
+
+Asociado	O
+a	O
+la	O
+lesión	O
+se	O
+observa	O
+un	O
+angioma	O
+venoso	O
+de	O
+menor	O
+tamaño	O
+.	O

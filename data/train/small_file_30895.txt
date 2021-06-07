@@ -1,0 +1,20 @@
+
+Antecedentes	O
+personales	O
+:	O
+varón	O
+,	O
+actualmente	O
+tiene	O
+37	O
+años	O
+,	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+a	O
+los	O
+21	O
+años	O
+.	O

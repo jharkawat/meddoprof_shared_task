@@ -1,0 +1,14 @@
+
+Diagnóstico	O
+diferencial	O
+:	O
+cistitis	O
+,	O
+uretritis	O
+,	O
+prostatitis	O
+,	O
+fimosis	O
+,	O
+parafimosis	O
+.	O

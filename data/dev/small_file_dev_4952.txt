@@ -1,0 +1,24 @@
+
+A	O
+su	O
+vez	O
+el	O
+paciente	O
+presentó	O
+como	O
+complicación	O
+,	O
+tromboflebitis	O
+en	O
+miembro	O
+superior	O
+izquierdo	O
+,	O
+pautándosele	O
+HBPM	O
+,	O
+con	O
+buena	O
+progresión	O
+clínica	O
+.	O

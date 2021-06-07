@@ -1,0 +1,6 @@
+
+Nunca	O
+había	O
+sido	O
+fumador	O
+.	O

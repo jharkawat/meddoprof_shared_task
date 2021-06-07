@@ -1,0 +1,18 @@
+
+Y	O
+la	O
+cura	O
+de	O
+malla	O
+infectada	O
+se	O
+traslada	O
+a	O
+planta	O
+con	O
+continuidad	O
+de	O
+curas	O
+con	O
+TPN	O
+.	O

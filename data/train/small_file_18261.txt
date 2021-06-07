@@ -1,0 +1,9 @@
+
+Persistía	O
+cierto	O
+levantamiento	O
+del	O
+epitelio	O
+pigmentado	O
+macular	O
+.	O

@@ -1,0 +1,22 @@
+
+Aislamiento	O
+social	O
+desde	O
+la	O
+adultez	O
+temprana	O
+,	O
+"	O
+hacía	O
+amigos	O
+"	O
+pero	O
+sus	O
+amistades	O
+duraban	O
+poco	O
+tiempo	O
+porque	O
+desconfiaba	O
+después	O
+.	O

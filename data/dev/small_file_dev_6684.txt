@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+permaneció	O
+afebril	O
+desde	O
+el	O
+primer	O
+día	O
+de	O
+tratamiento	O
+.	O

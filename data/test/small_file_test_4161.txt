@@ -1,0 +1,17 @@
+
+Asocia	O
+edemas	O
+en	O
+extremidades	O
+inferiores	O
+,	O
+astenia	O
+,	O
+anorexia	O
+y	O
+pérdida	O
+de	O
+peso	O
+no	O
+cuantificada	O
+.	O

@@ -1,0 +1,12 @@
+
+Frecuencia	O
+cardiaca	O
+(	O
+FC	O
+)	O
+:	O
+80	O
+latidos	O
+por	O
+minuto	O
+.	O

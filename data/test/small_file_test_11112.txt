@@ -1,0 +1,8 @@
+
+El	O
+primer	O
+objetivo	O
+es	O
+el	O
+parto	O
+.	O

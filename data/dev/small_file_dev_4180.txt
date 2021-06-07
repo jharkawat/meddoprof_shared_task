@@ -1,0 +1,16 @@
+
+Nariz	O
+:	O
+aleteo	O
+nasal	O
+,	O
+tabique	O
+nasal	O
+central	O
+,	O
+coanas	O
+permeables	O
+,	O
+no	O
+secresiones	O
+.	O

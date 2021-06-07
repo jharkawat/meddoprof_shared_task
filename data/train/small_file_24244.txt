@@ -1,0 +1,22 @@
+
+Epilepsia	O
+del	O
+Lóbulo	O
+Temporal	O
+:	O
+Crisis	O
+comiciales	O
+con	O
+sintomatología	O
+psiquiátrica	O
+(	O
+versus	O
+Esquizofrenia	O
+paranoide	O
+y	O
+Epilepsia	O
+del	O
+lóbulo	O
+temporal	O
+)	O
+.	O

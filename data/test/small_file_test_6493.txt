@@ -1,0 +1,13 @@
+
+El	O
+estudio	O
+de	O
+anemia	O
+fue	O
+compatible	O
+con	O
+anemia	O
+de	O
+trastornos	O
+crónicos	O
+.	O

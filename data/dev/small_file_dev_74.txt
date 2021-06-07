@@ -1,0 +1,15 @@
+
+No	O
+trastornos	O
+de	O
+la	O
+senso	O
+-	O
+percepción	O
+ni	O
+de	O
+la	O
+vivencia	O
+del	O
+Yo	O
+.	O

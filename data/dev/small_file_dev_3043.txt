@@ -1,0 +1,21 @@
+
+Nutricional	O
+-	O
+metabólico	O
+:	O
+peso	O
+:	O
+49	O
+kg	O
+,	O
+altura	O
+:	O
+152	O
+cm	O
+;	O
+IMC	O
+:	O
+21	O
+,	O
+20	O
+.	O

@@ -1,0 +1,14 @@
+
+Refiere	O
+un	O
+periodo	O
+de	O
+abstinencia	O
+de	O
+hasta	O
+8	O
+meses	O
+,	O
+manteniéndose	O
+asintomático	O
+.	O

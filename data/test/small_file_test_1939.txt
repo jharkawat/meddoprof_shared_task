@@ -1,0 +1,21 @@
+
+Sólo	O
+se	O
+consiguió	O
+una	O
+respuesta	O
+inicial	O
+de	O
+3	O
+días	O
+de	O
+duración	O
+(	O
+pasándose	O
+de	O
+trombopenia	O
+G4	O
+a	O
+G2	O
+)	O
+.	O

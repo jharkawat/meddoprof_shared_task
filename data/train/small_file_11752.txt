@@ -1,0 +1,21 @@
+
+A	O
+la	O
+exploración	O
+física	O
+,	O
+el	O
+paciente	O
+presentaba	O
+buen	O
+aspecto	O
+general	O
+,	O
+con	O
+constantes	O
+vitales	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

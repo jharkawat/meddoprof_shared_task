@@ -1,0 +1,21 @@
+
+Las	O
+profesionales	B-PROFESION
+responsables	O
+del	O
+caso	O
+son	O
+una	O
+Psicóloga	B-PROFESION
+Clínica	I-PROFESION
+y	O
+la	O
+Terapeuta	B-PROFESION
+Ocupacional	I-PROFESION
+de	O
+la	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+.	O

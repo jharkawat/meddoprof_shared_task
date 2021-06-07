@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+Ingreso	O
+:	O
+15	O
+/	O
+05	O
+/	O
+2018	O
+.	O

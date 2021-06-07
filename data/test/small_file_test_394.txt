@@ -1,0 +1,9 @@
+
+Guardar	O
+reposo	O
+hasta	O
+que	O
+cesen	O
+los	O
+síntomas	O
+.	O

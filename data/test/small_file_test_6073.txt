@@ -1,0 +1,27 @@
+
+En	O
+el	O
+TC	O
+se	O
+objetivó	O
+una	O
+nueva	O
+progresión	O
+ganglionar	O
+y	O
+,	O
+en	O
+la	O
+gammagrafía	O
+ósea	O
+se	O
+observó	O
+de	O
+forma	O
+indirecta	O
+una	O
+lesión	O
+osteolítica	O
+en	O
+L5	O
+.	O

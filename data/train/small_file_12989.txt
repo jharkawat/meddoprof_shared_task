@@ -1,0 +1,7 @@
+
+Tensión	O
+arterial	O
+128	O
+/	O
+87	O
+.	O

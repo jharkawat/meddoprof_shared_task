@@ -1,0 +1,22 @@
+
+Durante	O
+el	O
+tratamiento	O
+con	O
+nifurtimox	O
+no	O
+se	O
+dispuso	O
+de	O
+técnicas	O
+de	O
+biología	O
+molecular	O
+para	O
+la	O
+detección	O
+de	O
+T	O
+.	O
+cruzi	O
+.	O

@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+15	O
+/	O
+06	O
+/	O
+1979	O
+.	O

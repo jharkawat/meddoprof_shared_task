@@ -1,0 +1,11 @@
+
+-	O
+Inmunofijación	O
+en	O
+suero	O
+y	O
+en	O
+orina	O
+:	O
+Negativo	O
+.	O

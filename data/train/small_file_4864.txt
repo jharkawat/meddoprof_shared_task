@@ -1,0 +1,15 @@
+
+MAPA	O
+:	O
+TASM	O
+128	O
+(	O
+166	O
+-	O
+97	O
+,	O
+36	O
+%	O
+>	O
+140	O
+.	O

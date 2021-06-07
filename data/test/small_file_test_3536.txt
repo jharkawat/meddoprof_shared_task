@@ -1,0 +1,7 @@
+
+No	O
+hay	O
+dilatación	O
+de	O
+vías	O
+.	O

@@ -1,0 +1,7 @@
+
+Consumidor	O
+de	O
+cannabis	O
+y	O
+alcohol	O
+.	O

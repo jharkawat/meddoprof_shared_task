@@ -1,0 +1,9 @@
+
+Presenta	O
+una	O
+llamativa	O
+palidez	O
+muco	O
+-	O
+cutánea	O
+.	O

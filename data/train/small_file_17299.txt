@@ -1,0 +1,8 @@
+
+Fue	O
+preciso	O
+asociar	O
+omeprazol	O
+por	O
+pirosis	O
+.	O

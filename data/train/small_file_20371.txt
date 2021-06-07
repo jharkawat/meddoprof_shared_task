@@ -1,0 +1,14 @@
+
+El	O
+cumplimiento	O
+fue	O
+solamente	O
+esporádico	O
+,	O
+con	O
+la	O
+terapia	O
+y	O
+la	O
+medicación	O
+.	O

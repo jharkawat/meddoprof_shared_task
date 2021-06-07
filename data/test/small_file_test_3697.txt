@@ -1,0 +1,26 @@
+
+La	O
+lesión	O
+se	O
+encuentra	O
+en	O
+íntima	O
+relación	O
+con	O
+la	O
+pared	O
+medial	O
+de	O
+la	O
+órbita	O
+y	O
+mide	O
+3	O
+,	O
+2	O
+x	O
+1	O
+,	O
+6	O
+cm	O
+.	O

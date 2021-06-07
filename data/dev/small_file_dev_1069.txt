@@ -1,0 +1,7 @@
+
+Genética	O
+:	O
+X	O
+frágil	O
+negativo	O
+.	O

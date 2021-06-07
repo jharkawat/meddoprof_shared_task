@@ -1,0 +1,13 @@
+
+También	O
+es	O
+relativamente	O
+frecuente	O
+que	O
+las	O
+infecciones	O
+sean	O
+por	O
+flora	O
+endógena	O
+.	O

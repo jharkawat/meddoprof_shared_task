@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+es	O
+evaluada	O
+2	O
+días	O
+después	O
+y	O
+ya	O
+refiere	O
+mejoría	O
+significativa	O
+.	O

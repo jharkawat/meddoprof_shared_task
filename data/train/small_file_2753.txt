@@ -1,0 +1,22 @@
+
+Familia	O
+nuclear	O
+con	O
+parientes	O
+próximos	O
+,	O
+normofuncional	O
+,	O
+que	O
+se	O
+encuentra	O
+en	O
+la	O
+etapa	O
+de	O
+extensión	O
+IIb	O
+del	O
+ciclo	O
+vital	O
+.	O

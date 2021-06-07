@@ -1,0 +1,13 @@
+
+ANA	O
+,	O
+anticuerpos	O
+p	O
+-	O
+ANCA	O
+y	O
+MPO	O
+-	O
+ANCA	O
+negativos	O
+.	O

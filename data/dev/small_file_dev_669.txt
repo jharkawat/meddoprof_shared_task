@@ -1,0 +1,25 @@
+
+En	O
+una	O
+ocasión	O
+había	O
+propinado	O
+un	O
+puñetazo	O
+en	O
+el	O
+plexo	O
+solar	O
+a	O
+su	O
+padre	O
+que	O
+le	O
+hizo	O
+hincar	O
+la	O
+rodilla	O
+en	O
+el	O
+suelo	O
+.	O

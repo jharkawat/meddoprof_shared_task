@@ -1,0 +1,13 @@
+
+Recuerda	O
+haber	O
+recibido	O
+tratamiento	O
+ansiolítico	O
+con	O
+mejoría	O
+parcial	O
+de	O
+la	O
+sintomatología	O
+.	O

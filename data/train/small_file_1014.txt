@@ -1,0 +1,10 @@
+
+Seis	O
+meses	O
+después	O
+,	O
+el	O
+paciente	O
+continúa	O
+asintomático	O
+.	O

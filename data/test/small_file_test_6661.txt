@@ -1,0 +1,8 @@
+
+No	O
+se	O
+palpan	O
+masas	O
+ni	O
+organomegalias	O
+.	O

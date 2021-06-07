@@ -1,0 +1,21 @@
+
+No	O
+hay	O
+que	O
+olvidar	O
+,	O
+que	O
+la	O
+baciloscopia	O
+y	O
+el	O
+cultivo	O
+del	O
+LCR	O
+son	O
+el	O
+mejor	O
+método	O
+de	O
+diagnóstico	O
+.	O

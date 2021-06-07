@@ -1,0 +1,19 @@
+
+Se	O
+decide	O
+continuar	O
+con	O
+el	O
+siguiente	O
+ciclo	O
+,	O
+en	O
+el	O
+que	O
+se	O
+administra	O
+nivolumab	O
+con	O
+adecuada	O
+tolerancia	O
+.	O

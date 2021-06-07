@@ -1,0 +1,27 @@
+
+En	O
+los	O
+últimos	O
+meses	O
+,	O
+las	O
+infecciones	O
+han	O
+aumentado	O
+motivadas	O
+,	O
+en	O
+parte	O
+,	O
+porque	O
+se	O
+niega	O
+a	O
+realizar	O
+los	O
+ejercicios	O
+de	O
+fisioterapia	O
+respiratoria	O
+pautados	O
+.	O

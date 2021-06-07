@@ -1,0 +1,21 @@
+
+Se	O
+elaboró	O
+un	O
+plan	O
+para	O
+la	O
+recuperación	O
+del	O
+contacto	O
+con	O
+su	O
+familia	O
+que	O
+se	O
+había	O
+perdido	O
+casi	O
+por	O
+completo	O
+.	O

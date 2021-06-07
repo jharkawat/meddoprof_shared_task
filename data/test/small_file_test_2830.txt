@@ -1,0 +1,11 @@
+
+LSD	O
+subpleural	O
+0	O
+,	O
+51	O
+cm	O
+(	O
+ametabólica	O
+)	O
+.	O

@@ -1,0 +1,26 @@
+
+Tras	O
+el	O
+alta	O
+se	O
+inician	O
+las	O
+citas	O
+de	O
+valoración	O
+,	O
+junto	O
+con	O
+un	O
+programa	O
+de	O
+naltrexona	O
+y	O
+controles	O
+de	O
+orina	O
+para	O
+verificar	O
+la	O
+abstinencia	O
+.	O

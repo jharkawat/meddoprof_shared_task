@@ -1,0 +1,5 @@
+
+Hipercolesterolemia	O
+sin	O
+tratamiento	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+la	O
+consulta	O
+se	O
+le	O
+propone	O
+a	O
+la	O
+paciente	O
+cirugía	O
+que	O
+descarta	O
+al	O
+estar	O
+completamente	O
+asintomática	O
+de	O
+su	O
+patología	O
+.	O

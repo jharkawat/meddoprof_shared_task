@@ -1,0 +1,19 @@
+
+En	O
+la	O
+analítica	O
+sanguínea	O
+,	O
+incluyendo	O
+bioquímica	O
+,	O
+hemograma	O
+y	O
+hemostasia	O
+,	O
+no	O
+se	O
+encuentran	O
+alteraciones	O
+significativas	O
+.	O

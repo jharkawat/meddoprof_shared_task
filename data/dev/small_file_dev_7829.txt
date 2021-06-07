@@ -1,0 +1,19 @@
+
+Las	O
+muestras	O
+de	O
+LCR	O
+sembradas	O
+en	O
+agar	O
+chocolate	O
+y	O
+agar	O
+sangre	O
+fueron	O
+negativas	O
+a	O
+las	O
+72	O
+horas	O
+.	O

@@ -1,0 +1,23 @@
+
+El	O
+servicio	O
+pediátrico	O
+del	O
+hospital	O
+ingresa	O
+a	O
+un	O
+niño	O
+de	O
+4	O
+años	O
+que	O
+tiene	O
+dolor	O
+en	O
+sus	O
+extremidades	O
+inferiores	O
+y	O
+torpeza	O
+.	O

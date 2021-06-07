@@ -1,0 +1,9 @@
+
+Masa	O
+blanda	O
+axilar	O
+ipsilateral	O
+no	O
+claramente	O
+delimitada	O
+.	O

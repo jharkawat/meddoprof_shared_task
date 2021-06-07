@@ -1,0 +1,15 @@
+
+No	O
+cefalea	O
+ni	O
+signos	O
+de	O
+confusión	O
+posterior	O
+aunque	O
+la	O
+esposa	O
+refiere	O
+enrojecimiento	O
+facial	O
+.	O

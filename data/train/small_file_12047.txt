@@ -1,0 +1,7 @@
+
+—	O
+Arteriosclerosis	O
+complicada	O
+en	O
+aorta	O
+.	O

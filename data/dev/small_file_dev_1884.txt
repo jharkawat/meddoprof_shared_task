@@ -1,0 +1,22 @@
+
+En	O
+tratamiento	O
+psicofarmacológico	O
+con	O
+clorazepato	O
+5	O
+mg	O
+condicional	O
+a	O
+ansiedad	O
+prescrito	O
+por	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+desde	O
+hace	O
+años	O
+.	O

@@ -1,0 +1,15 @@
+
+Lactancia	O
+natural	O
+hasta	O
+los	O
+9	O
+meses	O
+,	O
+buena	O
+adaptación	O
+a	O
+la	O
+alimentación	O
+complementaria	O
+.	O

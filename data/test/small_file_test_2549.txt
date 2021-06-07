@@ -1,0 +1,19 @@
+
+-	O
+Toxicidad	O
+a	O
+sobredosificación	O
+de	O
+imatinib	O
+:	O
+hepática	O
+grado	O
+2	O
+,	O
+hematológica	O
+grado	O
+4	O
+y	O
+clínica	O
+musculoesquelética	O
+.	O

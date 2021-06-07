@@ -1,0 +1,20 @@
+
+Cuando	O
+su	O
+pareja	O
+se	B-SITUACION_LABORAL
+jubila	I-SITUACION_LABORAL
+a	O
+ambos	O
+les	O
+cuesta	O
+adaptarse	O
+a	O
+estar	O
+juntos	O
+,	O
+aunque	O
+se	O
+mantiene	O
+abstinente	O
+.	O

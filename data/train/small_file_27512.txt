@@ -1,0 +1,21 @@
+
+En	O
+la	O
+entrevista	O
+con	O
+la	O
+paciente	O
+refiere	O
+estar	O
+aquí	O
+para	O
+reducir	O
+la	O
+medicación	O
+y	O
+"	O
+ver	O
+qué	O
+sucede	O
+"	O
+.	O

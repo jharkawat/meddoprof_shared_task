@@ -1,0 +1,20 @@
+
+La	O
+hospitalización	O
+cursa	O
+sin	O
+incidencias	O
+y	O
+al	O
+cabo	O
+de	O
+6	O
+días	O
+de	O
+ingreso	O
+se	O
+le	O
+da	O
+el	O
+alta	O
+.	O

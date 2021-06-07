@@ -1,0 +1,20 @@
+
+A	O
+la	O
+vista	O
+de	O
+los	O
+hallazgos	O
+encontrados	O
+la	O
+paciente	O
+ingresa	O
+en	O
+planta	O
+para	O
+un	O
+correcto	O
+manejo	O
+del	O
+cuadro	O
+.	O

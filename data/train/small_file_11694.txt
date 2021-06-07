@@ -1,0 +1,12 @@
+
+No	O
+toma	O
+tratamiento	O
+crónico	O
+ni	O
+relata	O
+alergias	O
+a	O
+ningún	O
+medicamento	O
+.	O

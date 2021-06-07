@@ -1,0 +1,24 @@
+
+La	O
+paciente	O
+se	O
+mantiene	O
+afebril	O
+y	O
+con	O
+buen	O
+estado	O
+general	O
+,	O
+sin	O
+ningún	O
+hallazgo	O
+patológico	O
+en	O
+la	O
+exploración	O
+por	O
+aparatos	O
+y	O
+sistemas	O
+.	O

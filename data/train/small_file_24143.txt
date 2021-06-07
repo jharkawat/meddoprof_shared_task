@@ -1,0 +1,27 @@
+
+Personalidad	O
+premórbida	O
+extravertida	O
+y	O
+afable	O
+,	O
+sin	O
+identificarse	O
+a	O
+través	O
+de	O
+terceros	O
+informantes	O
+posible	O
+presencia	O
+de	O
+rasgos	O
+de	O
+la	O
+personalidad	O
+esquizotípicos	O
+u	O
+obsesivo	O
+-	O
+compulsivos	O
+.	O

@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+recibe	O
+el	O
+alta	O
+con	O
+diagnóstico	O
+de	O
+dolor	O
+de	O
+características	O
+musculares	O
+.	O

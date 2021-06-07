@@ -1,0 +1,13 @@
+
+Tratamiento	O
+:	O
+clozapina	O
+,	O
+paliperidona	O
+,	O
+aripiprazol	O
+,	O
+quetiapina	O
+y	O
+lorazepam	O
+.	O

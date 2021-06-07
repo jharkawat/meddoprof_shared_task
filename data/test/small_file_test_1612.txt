@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+recibió	O
+tratamiento	O
+periodontal	O
+básico	O
+que	O
+consistió	O
+en	O
+instrucciones	O
+de	O
+higiene	O
+oral	O
+y	O
+técnicas	O
+de	O
+motivación	O
+y	O
+raspado	O
+y	O
+alisado	O
+radicular	O
+.	O

@@ -1,0 +1,13 @@
+
+Acude	O
+Rosa	O
+a	O
+la	O
+consulta	O
+,	O
+paciente	O
+asmática	O
+de	O
+39	O
+años	O
+.	O

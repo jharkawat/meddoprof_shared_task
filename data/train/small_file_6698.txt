@@ -1,0 +1,11 @@
+
+Las	O
+lesiones	O
+tienen	O
+tendencia	O
+a	O
+persistir	O
+en	O
+el	O
+tiempo	O
+.	O

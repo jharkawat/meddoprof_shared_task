@@ -1,0 +1,23 @@
+
+Sin	O
+embargo	O
+no	O
+hay	O
+antecedentes	O
+familiares	O
+de	O
+interés	O
+y	O
+tampoco	O
+existe	O
+una	O
+historia	O
+previa	O
+que	O
+sugiera	O
+la	O
+presencia	O
+de	O
+una	O
+leucodistrofia	O
+.	O

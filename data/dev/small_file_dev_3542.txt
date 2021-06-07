@@ -1,0 +1,24 @@
+
+Limpia	O
+todo	O
+objeto	O
+inerte	O
+que	O
+entra	O
+a	O
+su	O
+casa	O
+(	O
+productos	O
+de	O
+la	O
+compra	O
+,	O
+ropa	O
+,	O
+papeles	O
+,	O
+etc	O
+.	O
+)	O
+.	O

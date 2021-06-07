@@ -1,0 +1,15 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+dabrafenib	O
+150	O
+mg	O
+cada	O
+12	O
+horas	O
+en	O
+febrero	O
+2016	O
+.	O

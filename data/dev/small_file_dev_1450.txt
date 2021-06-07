@@ -1,0 +1,26 @@
+
+Su	O
+estatus	O
+económico	O
+es	O
+medio	O
+,	O
+puesto	O
+que	O
+ella	O
+no	B-SITUACION_LABORAL
+trabaja	I-SITUACION_LABORAL
+y	O
+los	O
+ingresos	O
+que	O
+llegan	O
+a	O
+casa	O
+proceden	O
+del	O
+sueldo	O
+de	O
+su	O
+marido	O
+.	O

@@ -1,0 +1,6 @@
+
+Fallece	O
+36	O
+horas	O
+después	O
+.	O

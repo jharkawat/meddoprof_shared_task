@@ -1,0 +1,20 @@
+
+En	O
+las	O
+imágenes	O
+de	O
+tomografía	O
+se	O
+evidencia	O
+cámara	O
+gástrica	O
+en	O
+contacto	O
+con	O
+la	O
+pared	O
+posterior	O
+izquierda	O
+del	O
+tórax	O
+.	O

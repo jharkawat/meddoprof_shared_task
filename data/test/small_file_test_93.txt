@@ -1,0 +1,4 @@
+
+Enfermedades	O
+familiares	O
+:	O

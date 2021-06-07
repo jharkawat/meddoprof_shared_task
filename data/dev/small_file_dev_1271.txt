@@ -1,0 +1,13 @@
+
+Se	O
+comenzó	O
+tratamiento	O
+con	O
+distintos	O
+antipsicóticos	O
+de	O
+primera	O
+y	O
+segunda	O
+generación	O
+.	O

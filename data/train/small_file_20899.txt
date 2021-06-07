@@ -1,0 +1,14 @@
+
+Diagnóstico	O
+de	O
+Enfermería	O
+NANDA	O
+:	O
+00148	O
+Temor	O
+NOC	O
+:	O
+Autocontrol	O
+del	O
+miedo	O
+.	O

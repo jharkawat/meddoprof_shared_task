@@ -1,0 +1,10 @@
+
+Su	O
+aspecto	O
+era	O
+adecuado	O
+,	O
+limpio	O
+y	O
+aseado	O
+.	O

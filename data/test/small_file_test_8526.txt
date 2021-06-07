@@ -1,0 +1,10 @@
+
+No	O
+tiene	O
+otras	O
+alteraciones	O
+por	O
+aparatos	O
+ni	O
+sistemas	O
+.	O

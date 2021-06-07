@@ -1,0 +1,8 @@
+
+No	O
+hay	O
+adenopatías	O
+axilares	O
+ni	O
+hiliares	O
+.	O

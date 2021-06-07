@@ -1,0 +1,19 @@
+
+A	O
+su	O
+llegada	O
+,	O
+se	O
+revisa	O
+su	O
+evolución	O
+desde	O
+el	O
+inicio	O
+del	O
+diagnóstico	O
+hasta	O
+el	O
+momento	O
+actual	O
+.	O

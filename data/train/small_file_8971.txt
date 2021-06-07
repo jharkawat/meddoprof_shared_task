@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+presentaba	O
+elevación	O
+de	O
+los	O
+marcadores	O
+tumorales	O
+CA	O
+125	O
+y	O
+CA	O
+19	O
+.	O
+9	O
+.	O

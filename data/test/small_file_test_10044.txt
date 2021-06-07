@@ -1,0 +1,5 @@
+
+Normocoloreado	O
+y	O
+normohidratado	O
+.	O

@@ -1,0 +1,23 @@
+
+Toda	O
+esta	O
+sintomatología	O
+,	O
+estaba	O
+atravesada	O
+por	O
+una	O
+marcada	O
+conducta	O
+pasiva	O
+que	O
+daba	O
+poca	O
+oportunidad	O
+para	O
+emprender	O
+el	O
+trabajo	O
+recuperacional	O
+integral	O
+.	O

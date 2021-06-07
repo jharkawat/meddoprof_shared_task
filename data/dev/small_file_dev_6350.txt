@@ -1,0 +1,26 @@
+
+Se	O
+solicitó	O
+serología	O
+IgM	O
+e	O
+IgG	O
+para	O
+Borrelia	O
+burgdorferi	O
+,	O
+el	O
+cual	O
+fue	O
+realizado	O
+en	O
+el	O
+Laboratorio	O
+Clínico	O
+de	O
+Red	O
+de	O
+Salud	O
+UC	O
+Christus	O
+.	O

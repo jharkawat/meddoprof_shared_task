@@ -1,0 +1,12 @@
+
+Resto	O
+de	O
+antecedentes	O
+sin	O
+interés	O
+para	O
+el	O
+cuadro	O
+clínico	O
+actual	O
+.	O

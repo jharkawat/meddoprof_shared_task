@@ -1,0 +1,21 @@
+
+No	O
+refiere	O
+clínica	O
+afectiva	O
+mayor	O
+aunque	O
+si	O
+frecuentes	O
+oscilaciones	O
+anímicas	O
+y	O
+episodios	O
+de	O
+disforia	O
+en	O
+contexto	O
+de	O
+situaciones	O
+estresantes	O
+.	O

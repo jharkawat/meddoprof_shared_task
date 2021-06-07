@@ -1,0 +1,26 @@
+
+En	O
+enero	O
+de	O
+2015	O
+,	O
+recibió	O
+el	O
+séptimo	O
+y	O
+último	O
+ciclo	O
+con	O
+doxorubicina	O
+,	O
+con	O
+una	O
+dosis	O
+total	O
+acumulada	O
+de	O
+525	O
+mg	O
+/	O
+m2	O
+.	O

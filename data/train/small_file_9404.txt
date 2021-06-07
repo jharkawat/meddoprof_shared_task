@@ -1,0 +1,16 @@
+
+Hematocrito	O
+23	O
+%	O
+,	O
+VCM	O
+92	O
+fL	O
+Plaquetas	O
+37	O
+x10	O
+^	O
+9	O
+/	O
+L	O
+.	O

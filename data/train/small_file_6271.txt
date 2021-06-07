@@ -1,0 +1,26 @@
+
+Consulta	O
+por	O
+presentar	O
+cuadro	O
+de	O
+parestesias	O
+,	O
+disestesias	O
+y	O
+calambres	O
+musculares	O
+en	O
+miembros	O
+inferiores	O
+,	O
+predominante	O
+en	O
+gemelos	O
+,	O
+de	O
+un	O
+mes	O
+de	O
+evolución	O
+.	O

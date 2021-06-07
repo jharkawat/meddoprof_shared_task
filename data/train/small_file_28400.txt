@@ -1,0 +1,17 @@
+
+Trastorno	O
+mental	O
+de	O
+etiología	O
+orgánica	O
+;	O
+descartado	O
+ante	O
+la	O
+normalidad	O
+de	O
+las	O
+diversas	O
+exploraciones	O
+complementarias	O
+.	O

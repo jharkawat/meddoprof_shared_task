@@ -1,0 +1,23 @@
+
+lo	O
+llevaron	O
+de	O
+urgencia	O
+en	O
+varias	O
+ocasiones	O
+al	O
+CSM	O
+pero	O
+no	O
+acababa	O
+de	O
+mejorar	O
+a	O
+pesar	O
+de	O
+diversos	O
+ajustes	O
+de	O
+tratamiento	O
+.	O

@@ -1,0 +1,25 @@
+
+Además	O
+,	O
+durante	O
+el	O
+ingreso	O
+el	O
+paciente	O
+presenta	O
+fiebre	O
+y	O
+los	O
+hemocultivos	O
+resultan	O
+positivos	O
+para	O
+una	O
+levadura	O
+,	O
+estableciéndose	O
+el	O
+diagnóstico	O
+de	O
+candidemia	O
+.	O

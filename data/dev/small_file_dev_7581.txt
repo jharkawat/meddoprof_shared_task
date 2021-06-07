@@ -1,0 +1,17 @@
+
+El	O
+diagnóstico	O
+se	O
+realiza	O
+por	O
+visualización	O
+del	O
+gusano	O
+recuperado	O
+de	O
+la	O
+emesis	O
+o	O
+por	O
+endoscopia	O
+.	O

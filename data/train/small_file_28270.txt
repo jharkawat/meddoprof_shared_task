@@ -1,0 +1,27 @@
+
+en	O
+aquel	O
+momento	O
+se	O
+iniciaron	O
+trámites	O
+para	O
+solicitar	O
+una	O
+valoración	O
+de	O
+incapacitación	O
+civil	O
+de	O
+Susana	O
+y	O
+que	O
+se	O
+asumiera	O
+la	O
+función	O
+tutelar	O
+desde	O
+una	O
+fundación	O
+.	O

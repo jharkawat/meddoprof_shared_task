@@ -1,0 +1,16 @@
+
+Con	O
+la	O
+orientación	O
+clínica	O
+de	O
+ascitis	O
+a	O
+estudio	O
+el	O
+paciente	O
+ingresa	O
+en	O
+Oncología	O
+Médica	O
+.	O

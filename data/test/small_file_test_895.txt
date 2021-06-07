@@ -1,0 +1,18 @@
+
+Su	O
+tratamiento	O
+se	O
+basó	O
+,	O
+fundamentalmente	O
+,	O
+en	O
+prescripción	O
+psicofarmacológica	O
+de	O
+sales	O
+de	O
+litio	O
+y	O
+valproato	O
+.	O

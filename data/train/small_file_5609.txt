@@ -1,0 +1,18 @@
+
+La	O
+analítica	O
+solicitada	O
+,	O
+que	O
+incluía	O
+vitamina	O
+B12	O
+,	O
+ácido	O
+fólico	O
+y	O
+serología	O
+,	O
+fue	O
+normal	O
+.	O

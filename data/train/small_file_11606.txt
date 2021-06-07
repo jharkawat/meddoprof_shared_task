@@ -1,0 +1,13 @@
+
+Se	O
+inicia	O
+Aciclovir	O
+,	O
+Ampicilina	O
+y	O
+Ceftriaxona	O
+e	O
+ingresa	O
+en	O
+Neurología	O
+.	O

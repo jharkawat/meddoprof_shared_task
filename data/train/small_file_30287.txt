@@ -1,0 +1,12 @@
+
+Tras	O
+dicha	O
+atención	O
+,	O
+la	O
+paciente	O
+ingresó	O
+en	O
+el	O
+hospital	O
+.	O

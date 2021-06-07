@@ -1,0 +1,13 @@
+
+En	O
+este	O
+contexto	O
+,	O
+inicia	O
+segunda	O
+línea	O
+de	O
+tratamiento	O
+con	O
+crizotinib	O
+.	O

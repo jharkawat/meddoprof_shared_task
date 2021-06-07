@@ -1,0 +1,21 @@
+
+Recibió	O
+quimioterapia	O
+neoadyuvante	O
+con	O
+doxorrubicina	O
+-	O
+ciclofosfamida	O
+(	O
+4	O
+ciclos	O
+)	O
+,	O
+seguido	O
+de	O
+docetaxel	O
+(	O
+4	O
+ciclos	O
+)	O
+.	O

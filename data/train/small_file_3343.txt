@@ -1,0 +1,12 @@
+
+Extensa	O
+lesión	O
+cavitada	O
+en	O
+lóbulo	O
+superior	O
+derecho	O
+con	O
+nivel	O
+hidroaéreo	O
+.	O

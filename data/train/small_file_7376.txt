@@ -1,0 +1,8 @@
+
+Suele	O
+ir	O
+en	O
+bicicleta	O
+de	O
+montaña	O
+.	O

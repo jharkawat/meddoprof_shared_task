@@ -1,0 +1,22 @@
+
+Nunca	O
+se	O
+identificó	O
+Corynebacterium	O
+ureoliticum	O
+,	O
+como	O
+se	O
+sospechó	O
+inicialmente	O
+,	O
+a	O
+pesar	O
+de	O
+insistir	O
+al	O
+microbiólogo	O
+en	O
+su	O
+búsqueda	O
+.	O

@@ -1,0 +1,11 @@
+
+de	O
+alcohol	O
+/	O
+día	O
+y	O
+cocaína	O
+fines	O
+de	O
+semana	O
+.	O

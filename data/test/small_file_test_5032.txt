@@ -1,0 +1,17 @@
+
+No	O
+presenta	O
+ningún	O
+antecedente	O
+respiratorio	O
+,	O
+y	O
+ha	O
+trabajado	O
+como	O
+comercial	B-PROFESION
+(	O
+ya	O
+jubilado	B-SITUACION_LABORAL
+)	O
+.	O

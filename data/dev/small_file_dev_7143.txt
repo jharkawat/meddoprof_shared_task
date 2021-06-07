@@ -1,0 +1,22 @@
+
+La	O
+determinación	O
+de	O
+ADA	O
+fue	O
+normal	O
+y	O
+los	O
+marcadores	O
+tumorales	O
+y	O
+cultivos	O
+(	O
+incluido	O
+el	O
+de	O
+micobacterias	O
+)	O
+fueron	O
+negativos	O
+.	O

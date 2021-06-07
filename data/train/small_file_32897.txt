@@ -1,0 +1,9 @@
+
+Hemograma	O
+y	O
+bioquímica	O
+:	O
+sin	O
+hallazgos	O
+significativos	O
+.	O

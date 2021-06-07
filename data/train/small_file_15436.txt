@@ -1,0 +1,22 @@
+
+Alcohólico	O
+consuetudinario	O
+,	O
+con	O
+ingesta	O
+de	O
+una	O
+botella	O
+de	O
+ron	O
+blanco	O
+todos	O
+los	O
+días	O
+desde	O
+los	O
+26	O
+años	O
+de	O
+edad	O
+.	O

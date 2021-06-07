@@ -1,0 +1,11 @@
+
+Reside	O
+en	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+piso	I-SITUACION_LABORAL
+tutelado	I-SITUACION_LABORAL
+,	O
+supervisado	O
+por	O
+FAISEM	O
+.	O

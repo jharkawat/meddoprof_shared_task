@@ -1,0 +1,10 @@
+
+Afectación	O
+de	O
+la	O
+sensibilidad	O
+discriminativa	O
+en	O
+miembros	O
+inferiores	O
+.	O

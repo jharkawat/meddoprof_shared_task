@@ -1,0 +1,20 @@
+
+Movía	O
+la	O
+pierna	O
+rápidamente	O
+arriba	O
+y	O
+abajo	O
+,	O
+pero	O
+sin	O
+levantarse	O
+de	O
+la	O
+silla	O
+ni	O
+amenazar	O
+al	O
+entrevistador	B-PROFESION
+.	O

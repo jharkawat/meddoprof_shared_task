@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+es	O
+intervenido	O
+de	O
+manera	O
+urgente	O
+mediante	O
+hemicolectomía	O
+izda	O
+abierta	O
+con	O
+ileostomía	O
+de	O
+protección	O
+.	O

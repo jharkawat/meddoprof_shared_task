@@ -1,0 +1,6 @@
+
+Edad	O
+:	O
+55	O
+años	O
+.	O

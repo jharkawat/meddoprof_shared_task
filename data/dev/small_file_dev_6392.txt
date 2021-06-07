@@ -1,0 +1,17 @@
+
+Comienza	O
+además	O
+con	O
+cefalea	O
+holocraneal	O
+y	O
+dolor	O
+interescapular	O
+,	O
+seguidos	O
+de	O
+sudoración	O
+y	O
+quebrantamiento	O
+general	O
+.	O

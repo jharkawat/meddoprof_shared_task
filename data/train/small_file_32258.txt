@@ -1,0 +1,20 @@
+
+Actualmente	O
+,	O
+el	O
+paciente	O
+reside	O
+en	O
+una	O
+comunidad	O
+laica	O
+y	O
+participa	O
+activamente	O
+de	O
+las	O
+actividades	O
+de	O
+la	O
+misma	O
+.	O

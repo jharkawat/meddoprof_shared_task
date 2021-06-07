@@ -1,0 +1,5 @@
+
+Pares	O
+craneales	O
+conservados	O
+.	O

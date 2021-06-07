@@ -1,0 +1,16 @@
+
+Leve	O
+hipoestesia	O
+tactoalgésica	O
+braquio	O
+-	O
+crural	O
+derecha	O
+,	O
+hipopalestesia	O
+moderada	O
+en	O
+los	O
+miembros	O
+inferiores	O
+.	O

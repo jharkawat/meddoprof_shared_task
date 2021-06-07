@@ -1,0 +1,17 @@
+
+Se	O
+instaura	O
+progresivamente	O
+tratamiento	O
+con	O
+clozapina	O
+a	O
+la	O
+vez	O
+que	O
+se	O
+disminuye	O
+olanzapina	O
+hasta	O
+retirarla	O
+.	O

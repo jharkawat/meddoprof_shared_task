@@ -1,0 +1,18 @@
+
+Buena	O
+tolerancia	O
+inicial	O
+con	O
+toxicidad	O
+G2	O
+en	O
+la	O
+mucosa	O
+de	O
+la	O
+cavidad	O
+oral	O
+y	O
+G1	O
+gastrointestinal	O
+.	O

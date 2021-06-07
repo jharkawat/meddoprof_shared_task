@@ -1,0 +1,16 @@
+
+Colestasis	O
+disociada	O
+en	O
+paciente	O
+colecistectomizado	O
+,	O
+sin	O
+dolor	O
+abdominal	O
+y	O
+con	O
+fibroscan	O
+F3	O
+patológico	O
+.	O

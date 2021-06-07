@@ -1,0 +1,11 @@
+
+TAC	O
+de	O
+cráneo	O
+:	O
+sin	O
+anomalías	O
+ni	O
+lesiones	O
+significativas	O
+.	O

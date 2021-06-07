@@ -1,0 +1,22 @@
+
+La	O
+herida	O
+cicatrizó	O
+totalmente	O
+y	O
+sin	O
+dejar	O
+secuelas	O
+al	O
+cabo	O
+de	O
+2	O
+meses	O
+después	O
+de	O
+la	O
+exéresis	O
+de	O
+la	O
+lesión	O
+.	O

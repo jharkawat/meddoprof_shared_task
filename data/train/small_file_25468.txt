@@ -1,0 +1,20 @@
+
+Cuando	O
+ha	O
+estado	O
+ingresado	O
+se	O
+le	O
+ha	O
+llevado	O
+la	O
+medicación	O
+al	O
+hospital	O
+para	O
+que	O
+no	O
+interrumpiera	O
+su	O
+tratamiento	O
+.	O

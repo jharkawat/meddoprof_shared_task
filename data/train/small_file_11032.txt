@@ -1,0 +1,13 @@
+
+Sangre	O
+oculta	O
+en	O
+heces	O
+:	O
+1a	O
+muestra	O
+positiva	O
+,	O
+2a	O
+negativa	O
+.	O

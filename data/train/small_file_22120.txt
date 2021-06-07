@@ -1,0 +1,9 @@
+
+Abandonó	B-SITUACION_LABORAL
+su	I-SITUACION_LABORAL
+actividad	I-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+cuando	O
+se	O
+casó	O
+.	O

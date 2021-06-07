@@ -1,0 +1,24 @@
+
+Endocarditis	O
+aguda	O
+en	O
+paciente	O
+con	O
+adenocarcinoma	O
+de	O
+pulmón	O
+diseminado	O
+cT3N3M1b	O
+-	O
+IV	O
+por	O
+cerebrales	O
+,	O
+en	O
+progresión	O
+a	O
+primer	O
+ciclo	O
+de	O
+quimioterapia	O
+.	O

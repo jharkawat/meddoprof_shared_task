@@ -1,0 +1,22 @@
+
+Pasados	O
+14	O
+días	O
+de	O
+tratamiento	O
+antibiótico	O
+se	O
+realiza	O
+colonoscopia	O
+,	O
+que	O
+descarta	O
+la	O
+presencia	O
+de	O
+lesiones	O
+neoplásicas	O
+en	O
+el	O
+colon	O
+.	O

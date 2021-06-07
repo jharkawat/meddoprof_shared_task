@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+inicia	O
+revisiones	O
+en	O
+consulta	O
+de	O
+hospital	O
+de	O
+día	O
+,	O
+realizándose	O
+analíticas	O
+seriadas	O
+que	O
+no	O
+muestran	O
+alteraciones	O
+en	O
+enzimas	O
+hepáticas	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+lesiones	O
+cutáneas	O
+de	O
+novo	O
+.	O

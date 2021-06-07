@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+experimentó	O
+un	O
+gran	O
+alivio	O
+cuando	O
+el	O
+médico	B-PROFESION
+general	I-PROFESION
+le	O
+preguntó	O
+por	O
+el	O
+antecedente	O
+de	O
+abuso	O
+sexual	O
+.	O

@@ -1,0 +1,22 @@
+
+Plaquetas	O
+38mil	O
+,	O
+TP	O
+16	O
+.	O
+1	O
+,	O
+TTP17	O
+.	O
+9	O
+,	O
+TP	O
+%	O
+67	O
+,	O
+INR	O
+1	O
+.	O
+22	O
+.	O

@@ -1,0 +1,27 @@
+
+Según	O
+la	O
+paciente	O
+,	O
+el	O
+factor	O
+desencadenante	O
+fue	O
+la	O
+noticia	O
+,	O
+hacía	O
+2	O
+meses	O
+,	O
+de	O
+la	O
+necesidad	O
+de	O
+operación	O
+de	O
+cataratas	O
+de	O
+su	O
+madre	O
+.	O

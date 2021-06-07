@@ -1,0 +1,24 @@
+
+Tenía	O
+adenopatías	O
+inguinales	O
+bilaterales	O
+de	O
+consistencia	O
+gomosa	O
+,	O
+no	O
+dolorosas	O
+y	O
+rodaderas	O
+,	O
+con	O
+cicatriz	O
+por	O
+extirpación	O
+ganglionar	O
+reciente	O
+en	O
+ingle	O
+derecha	O
+.	O

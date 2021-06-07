@@ -1,0 +1,11 @@
+
+Paliperidona	O
+21	O
+mg	O
+,	O
+por	O
+aparición	O
+discinesias	O
+en	O
+manos	O
+.	O

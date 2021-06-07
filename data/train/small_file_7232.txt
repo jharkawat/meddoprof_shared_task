@@ -1,0 +1,17 @@
+
+Recibió	O
+corticoides	O
+y	O
+azatioprina	O
+,	O
+que	O
+suspendió	O
+en	O
+contexto	O
+de	O
+artritis	O
+séptica	O
+de	O
+rodilla	O
+izquierda	O
+.	O

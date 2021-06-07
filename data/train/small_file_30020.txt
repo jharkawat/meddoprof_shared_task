@@ -1,0 +1,5 @@
+
+Luxación	O
+astrágalo	O
+derecho	O
+.	O

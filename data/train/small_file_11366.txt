@@ -1,0 +1,20 @@
+
+Ecografía	O
+de	O
+mano	O
+derecha	O
+:	O
+Marcado	O
+edema	O
+del	O
+tejido	O
+celular	O
+subcutáneo	O
+a	O
+nivel	O
+de	O
+toda	O
+la	O
+mano	O
+derecha	O
+.	O

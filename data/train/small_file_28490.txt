@@ -1,0 +1,10 @@
+
+Niega	O
+haber	O
+presentado	O
+episodios	O
+maniformes	O
+en	O
+la	O
+evolución	O
+.	O

@@ -1,0 +1,18 @@
+
+La	O
+determinación	O
+de	O
+tóxicos	O
+fue	O
+positiva	O
+para	O
+cocaína	O
+(	O
+>	O
+5	O
+.	O
+000	O
+)	O
+y	O
+opiáceos	O
+.	O

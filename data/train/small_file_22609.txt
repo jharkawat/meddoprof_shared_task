@@ -1,0 +1,24 @@
+
+El	O
+EEG	O
+de	O
+control	O
+muestra	O
+sólo	O
+ocasional	O
+actividad	O
+epileptiforme	O
+interictal	O
+bifrontal	O
+sincrónica	O
+,	O
+en	O
+salvas	O
+de	O
+1	O
+-	O
+2	O
+segundos	O
+de	O
+duración	O
+.	O

@@ -1,0 +1,21 @@
+
+Consultó	O
+por	O
+cefalea	O
+,	O
+vómitos	O
+y	O
+fiebre	O
+elevada	O
+de	O
+hasta	O
+40	O
+°	O
+C	O
+axilar	O
+en	O
+las	O
+últimas	O
+48	O
+horas	O
+.	O

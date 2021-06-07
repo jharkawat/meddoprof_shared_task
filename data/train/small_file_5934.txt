@@ -1,0 +1,27 @@
+
+Por	O
+su	O
+baja	O
+incidencia	O
+suelen	O
+pasar	O
+desapercibidas	O
+y	O
+tardan	O
+en	O
+diagnosticarse	O
+;	O
+en	O
+el	O
+caso	O
+de	O
+nuestra	O
+paciente	O
+,	O
+a	O
+los	O
+tres	O
+meses	O
+del	O
+comienzo	O
+.	O

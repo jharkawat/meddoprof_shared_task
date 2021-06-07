@@ -1,0 +1,6 @@
+
+Discurso	O
+deficiente	O
+en	O
+detalles	O
+.	O

@@ -1,0 +1,19 @@
+
+En	O
+marzo	O
+del	O
+2013	O
+nuevo	O
+ingreso	O
+por	O
+coledocolitiasis	O
+que	O
+precisó	O
+de	O
+intervención	O
+quirúrgica	O
+en	O
+abril	O
+del	O
+2013	O
+.	O

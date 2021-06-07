@@ -1,0 +1,13 @@
+
+La	O
+tumefacción	O
+disminuía	O
+con	O
+el	O
+reposo	O
+pero	O
+no	O
+desaparecía	O
+por	O
+completo	O
+.	O

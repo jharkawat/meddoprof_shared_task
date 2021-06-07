@@ -1,0 +1,13 @@
+
+Tampoco	O
+refería	O
+síndrome	O
+miccional	O
+ni	O
+datos	O
+de	O
+artritis	O
+o	O
+lesiones	O
+cutáneas	O
+.	O

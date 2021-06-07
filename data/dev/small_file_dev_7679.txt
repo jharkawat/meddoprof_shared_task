@@ -1,0 +1,19 @@
+
+Extracción	O
+de	O
+la	O
+pieza	O
+para	O
+realizar	O
+la	O
+anastomosis	O
+extracorpórea	O
+,	O
+apreciando	O
+el	O
+segmento	O
+intestinal	O
+duplicado	O
+e	O
+inflamado	O
+.	O

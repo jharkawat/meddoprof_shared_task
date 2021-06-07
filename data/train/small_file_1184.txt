@@ -1,0 +1,23 @@
+
+La	O
+serología	O
+de	O
+Chagas	O
+por	O
+técnica	O
+ELISA	O
+e	O
+IFI	O
+fueron	O
+positivas	O
+,	O
+esta	O
+última	O
+en	O
+títulos	O
+de	O
+IgG	O
+1	O
+/	O
+160	O
+.	O

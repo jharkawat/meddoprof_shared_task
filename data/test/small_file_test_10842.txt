@@ -1,0 +1,24 @@
+
+A	O
+la	O
+exploración	O
+encontramos	O
+un	O
+paciente	O
+de	O
+aspecto	O
+séptico	O
+,	O
+disneico	O
+y	O
+con	O
+un	O
+importante	O
+estrechamiento	O
+del	O
+vestíbulo	O
+laríngeo	O
+visto	O
+por	O
+nasofibroendoscopia	O
+.	O

@@ -1,0 +1,18 @@
+
+No	O
+se	O
+identifican	O
+realces	O
+leptomeníngeos	O
+,	O
+no	O
+obstante	O
+no	O
+descartable	O
+la	O
+posibilidad	O
+de	O
+carcinomatosis	O
+en	O
+leptomeníngea	O
+.	O

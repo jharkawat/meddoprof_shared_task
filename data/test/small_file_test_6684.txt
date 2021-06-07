@@ -1,0 +1,18 @@
+
+Permaneciendo	O
+estable	O
+,	O
+se	O
+decidió	O
+alta	O
+hospitalaria	O
+y	O
+control	O
+precoz	O
+en	O
+consultas	O
+externas	O
+de	O
+Oncología	O
+Médica	O
+.	O

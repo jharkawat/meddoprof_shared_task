@@ -1,0 +1,20 @@
+
+»	O
+Auscultación	O
+cardiopulmonar	O
+:	O
+tonos	O
+cardiacos	O
+rítmicos	O
+sin	O
+soplos	O
+audibles	O
+,	O
+murmullo	O
+vesicular	O
+conservado	O
+sin	O
+ruidos	O
+patológicos	O
+sobreañadidos	O
+.	O

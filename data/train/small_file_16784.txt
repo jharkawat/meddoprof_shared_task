@@ -1,0 +1,13 @@
+
+Ideación	O
+de	O
+muerte	O
+,	O
+pobremente	O
+estructurada	O
+,	O
+sin	O
+clara	O
+intencionalidad	O
+autolítica	O
+.	O

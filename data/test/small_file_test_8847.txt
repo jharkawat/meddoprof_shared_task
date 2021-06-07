@@ -1,0 +1,17 @@
+
+Mujer	O
+de	O
+55	O
+años	O
+de	O
+edad	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+y	O
+sin	O
+hábitos	O
+tóxicos	O
+.	O

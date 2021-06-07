@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+electromiografía	O
+compatible	O
+con	O
+mononeuropatía	O
+sensitiva	O
+del	O
+nervio	O
+mediano	O
+izquierdo	O
+,	O
+no	O
+compresiva	O
+,	O
+de	O
+grado	O
+leve	O
+a	O
+moderado	O
+.	O

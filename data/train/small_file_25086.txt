@@ -1,0 +1,20 @@
+
+Fenitoína	O
+200	O
+mg	O
+/	O
+12	O
+horas	O
+,	O
+pautada	O
+en	O
+el	O
+último	O
+año	O
+tras	O
+la	O
+aparición	O
+de	O
+crisis	O
+convulsivas	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+el	O
+cultivo	O
+del	O
+material	O
+del	O
+absceso	O
+se	O
+identificó	O
+Salmonella	O
+enterica	O
+sensible	O
+a	O
+quinolonas	O
+y	O
+cefalosporinas	O
+de	O
+tercera	O
+generación	O
+.	O

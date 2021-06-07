@@ -1,0 +1,25 @@
+
+A	O
+los	O
+15	O
+años	O
+inició	O
+el	O
+consumo	O
+de	O
+diferentes	O
+sustancias	O
+,	O
+comenzando	O
+por	O
+cannabis	O
+y	O
+,	O
+posteriormente	O
+,	O
+anfetaminas	O
+,	O
+alcohol	O
+y	O
+cocaína	O
+.	O

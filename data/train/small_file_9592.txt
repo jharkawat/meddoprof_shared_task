@@ -1,0 +1,12 @@
+
+Tan	O
+solo	O
+se	O
+consigue	O
+control	O
+de	O
+la	O
+fiebre	O
+con	O
+corticoides	O
+.	O

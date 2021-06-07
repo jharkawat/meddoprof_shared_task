@@ -1,0 +1,17 @@
+
+Carcinoma	O
+epidermoide	O
+de	O
+pulmón	O
+T1N0M0	O
+,	O
+adenocarcinoma	O
+de	O
+páncreas	O
+poco	O
+diferenciado	O
+T1NxMx	O
+,	O
+bocio	O
+coloide	O
+.	O

@@ -1,0 +1,20 @@
+
+Continúa	O
+con	O
+terapia	O
+de	O
+mantenimiento	O
+con	O
+trastuzumab	O
++	O
+ácido	O
+zoledrónico	O
+trisemanal	O
+,	O
+añadiendo	O
+Tamoxifeno	O
+20	O
+mg	O
+/	O
+día	O
+.	O

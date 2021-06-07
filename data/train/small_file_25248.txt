@@ -1,0 +1,13 @@
+
+Al	O
+ingreso	O
+consume	O
+150	O
+-	O
+200	O
+g	O
+/	O
+OH	O
+/	O
+día	O
+.	O

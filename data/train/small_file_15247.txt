@@ -1,0 +1,10 @@
+
+Se	O
+prescribe	O
+el	O
+mismo	O
+tratamiento	O
+junto	O
+con	O
+alopurinol	O
+.	O

@@ -1,0 +1,18 @@
+
+Tóxicos	O
+en	O
+orina	O
+:	O
+positivo	O
+para	O
+tetrahidrocannabinoides	O
+en	O
+el	O
+primer	O
+ingreso	O
+,	O
+negativo	O
+en	O
+el	O
+segundo	O
+.	O

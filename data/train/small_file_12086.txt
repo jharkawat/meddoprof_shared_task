@@ -1,0 +1,22 @@
+
+Presenta	O
+como	O
+antecedentes	O
+médicos	O
+:	O
+ictus	O
+lateral	O
+bulbar	O
+izquierdo	O
+con	O
+disfagia	O
+leve	O
+y	O
+síndrome	O
+hemisensitivo	O
+con	O
+dolor	O
+neuropático	O
+derecho	O
+residual	O
+.	O

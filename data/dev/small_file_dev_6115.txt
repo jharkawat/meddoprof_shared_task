@@ -1,0 +1,14 @@
+
+No	O
+se	O
+apreciaron	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+y	O
+presentaba	O
+ruidos	O
+hidroaéreos	O
+normales	O
+.	O

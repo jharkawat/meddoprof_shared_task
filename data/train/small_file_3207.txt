@@ -1,0 +1,14 @@
+
+Mal	O
+estado	O
+general	O
+y	O
+dolor	O
+en	O
+fosa	O
+renal	O
+izquierda	O
+(	O
+FRI	O
+)	O
+.	O

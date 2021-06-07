@@ -1,0 +1,21 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+una	O
+pauta	O
+de	O
+hidroxicloroquina	O
+y	O
+se	O
+optimizó	O
+para	O
+respiración	O
+asistida	O
+para	O
+protección	O
+de	O
+los	O
+pulmones	O
+.	O

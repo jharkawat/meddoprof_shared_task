@@ -1,0 +1,9 @@
+
+Un	O
+mes	O
+después	O
+persisten	O
+lesiones	O
+cutáneas	O
+residuales	O
+.	O

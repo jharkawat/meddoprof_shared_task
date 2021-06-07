@@ -1,0 +1,21 @@
+
+Neurocirugía	O
+indica	O
+TAC	O
+para	O
+evaluar	O
+edema	O
+perilesional	O
+que	O
+finalmente	O
+se	O
+descarta	O
+por	O
+lo	O
+que	O
+se	O
+decide	O
+ingreso	O
+en	O
+Psiquiatría	O
+.	O

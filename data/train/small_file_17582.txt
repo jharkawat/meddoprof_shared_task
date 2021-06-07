@@ -1,0 +1,25 @@
+
+Polineuropatía	O
+amiloidótica	O
+familiar	O
+por	O
+mutación	O
+de	O
+la	O
+transtirretina	O
+(	O
+PAF	O
+-	O
+TTR	O
+)	O
+a	O
+nivel	O
+de	O
+Val30Met	O
+en	O
+el	O
+gen	O
+de	O
+la	O
+TTR	O
+.	O

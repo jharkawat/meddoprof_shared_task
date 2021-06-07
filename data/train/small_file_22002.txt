@@ -1,0 +1,19 @@
+
+Antonia	O
+tiene	O
+58	O
+años	O
+,	O
+está	O
+separada	O
+y	O
+tiene	O
+un	O
+hijo	O
+,	O
+Daniel	O
+,	O
+de	O
+17	O
+años	O
+.	O

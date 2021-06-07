@@ -1,0 +1,10 @@
+
+Discurso	O
+taquifásico	O
+con	O
+taquipsiquia	O
+franca	O
+y	O
+asociaciones	O
+laxas	O
+.	O

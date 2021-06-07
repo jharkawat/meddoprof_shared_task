@@ -1,0 +1,25 @@
+
+No	O
+obstante	O
+,	O
+desde	O
+el	O
+centro	O
+académico	O
+le	O
+informan	O
+de	O
+que	O
+su	O
+ritmo	O
+de	O
+trabajo	O
+es	O
+incompatible	O
+con	O
+los	O
+requerimientos	O
+de	O
+su	O
+ocupación	O
+.	O

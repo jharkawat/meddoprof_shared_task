@@ -1,0 +1,25 @@
+
+Se	O
+realiza	O
+biopsia	O
+y	O
+se	O
+envía	O
+a	O
+Anatomía	O
+Patológica	O
+,	O
+con	O
+resultado	O
+de	O
+carcinoma	O
+de	O
+células	O
+claras	O
+en	O
+paciente	O
+con	O
+antecedente	O
+de	O
+CCRc	O
+.	O

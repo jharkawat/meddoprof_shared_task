@@ -1,0 +1,15 @@
+
+Se	O
+presenta	O
+sucio	O
+,	O
+con	O
+aspecto	O
+descuidado	O
+,	O
+intranquilo	O
+,	O
+suspicaz	O
+aunque	O
+colabora	O
+.	O

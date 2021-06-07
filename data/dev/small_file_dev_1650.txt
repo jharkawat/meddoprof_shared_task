@@ -1,0 +1,11 @@
+
+Insomnio	O
+mixto	O
+con	O
+disminución	O
+de	O
+las	O
+horas	O
+de	O
+sueño	O
+.	O

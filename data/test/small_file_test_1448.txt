@@ -1,0 +1,18 @@
+
+Se	O
+prescribió	O
+Clorhexidina	O
+0	O
+,	O
+12	O
+%	O
+durante	O
+15	O
+días	O
+y	O
+antiinflamatorios	O
+las	O
+primeras	O
+48	O
+h	O
+.	O

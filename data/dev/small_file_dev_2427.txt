@@ -1,0 +1,27 @@
+
+TAC	O
+craneal	O
+,	O
+analítica	O
+(	O
+CPK	O
+126	O
+UI	O
+/	O
+l	O
+,	O
+valores	O
+normales	O
+0	O
+-	O
+195	O
+UI	O
+/	O
+l	O
+)	O
+y	O
+radiografía	O
+de	O
+tórax	O
+anodinos	O
+.	O

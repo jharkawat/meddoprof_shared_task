@@ -1,0 +1,18 @@
+
+Previamente	O
+había	O
+realizado	O
+tratamientos	O
+con	O
+propanolol	O
+y	O
+con	O
+topiramato	O
+,	O
+que	O
+fue	O
+retirado	O
+por	O
+efectos	O
+secundarios	O
+.	O

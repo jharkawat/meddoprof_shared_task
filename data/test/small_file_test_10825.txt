@@ -1,0 +1,22 @@
+
+Se	O
+presenta	O
+el	O
+caso	O
+de	O
+un	O
+neonato	O
+de	O
+20	O
+días	O
+de	O
+edad	O
+con	O
+otomastoiditis	O
+aguda	O
+complicada	O
+con	O
+abscesos	O
+subperiósticos	O
+bilaterales	O
+.	O

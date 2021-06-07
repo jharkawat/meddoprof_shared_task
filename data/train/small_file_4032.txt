@@ -1,0 +1,23 @@
+
+A	O
+la	O
+exploración	O
+,	O
+persistían	O
+las	O
+lesiones	O
+en	O
+flexuras	O
+axilares	O
+e	O
+inguinales	O
+con	O
+poca	O
+variación	O
+con	O
+respecto	O
+a	O
+la	O
+última	O
+vez	O
+.	O

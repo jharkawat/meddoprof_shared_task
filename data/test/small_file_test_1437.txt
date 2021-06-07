@@ -1,0 +1,20 @@
+
+Se	O
+optó	O
+por	O
+un	O
+retratamiento	O
+no	O
+quirúrgico	O
+de	O
+las	O
+bolsas	O
+<	O
+5	O
+mm	O
+que	O
+permitieran	O
+un	O
+acceso	O
+óptimo	O
+.	O

@@ -1,0 +1,15 @@
+
+Trombosis	O
+de	O
+la	O
+rama	O
+segmentaria	O
+basal	O
+posterior	O
+de	O
+la	O
+arteria	O
+lobar	O
+inferior	O
+derecha	O
+.	O

@@ -1,0 +1,19 @@
+
+Tras	O
+el	O
+estudio	O
+pertinente	O
+,	O
+el	O
+tratamiento	O
+consiste	O
+en	O
+iniciar	O
+medicación	O
+antiagregante	O
+para	O
+prevenir	O
+nuevos	O
+episodios	O
+ictales	O
+.	O

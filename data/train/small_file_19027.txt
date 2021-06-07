@@ -1,0 +1,14 @@
+
+Tiene	O
+un	O
+hermano	O
+de	O
+35	O
+años	O
+,	O
+institucionalizado	B-SITUACION_LABORAL
+por	O
+presentar	O
+parálisis	O
+cerebral	O
+.	O

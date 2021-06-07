@@ -1,0 +1,14 @@
+
+Palidez	O
+cutánea	O
+y	O
+ausencia	O
+de	O
+vello	O
+en	O
+la	O
+cara	O
+y	O
+los	O
+miembros	O
+.	O

@@ -1,0 +1,4 @@
+
+Embarazo	O
+ectópico	O
+.	O

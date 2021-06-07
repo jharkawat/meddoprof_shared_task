@@ -1,0 +1,12 @@
+
+Sacroileítis	O
+izquierda	O
+por	O
+Staphylococcus	O
+Aureus	O
+meticilín	O
+resistente	O
+de	O
+origen	O
+cutáneo	O
+.	O

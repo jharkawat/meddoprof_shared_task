@@ -1,0 +1,10 @@
+
+A	O
+las	O
+72	O
+horas	O
+es	O
+extubado	O
+sin	O
+incidencias	O
+.	O

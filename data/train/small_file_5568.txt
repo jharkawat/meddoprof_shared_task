@@ -1,0 +1,8 @@
+
+48	O
+horas	O
+después	O
+la	O
+paciente	O
+fallece	O
+.	O

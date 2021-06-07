@@ -1,0 +1,17 @@
+
+El	O
+diagnóstico	O
+de	O
+leptospirosis	O
+se	O
+basa	O
+en	O
+la	O
+clínica	O
+dentro	O
+de	O
+un	O
+contexto	O
+epidemiológico	O
+adecuado	O
+.	O

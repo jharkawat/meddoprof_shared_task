@@ -1,0 +1,10 @@
+
+Insuficiencia	O
+cardiorrespiratoria	O
+,	O
+insuficiencia	O
+cardíaca	O
+por	O
+disfunción	O
+diastólica	O
+.	O

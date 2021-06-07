@@ -1,0 +1,22 @@
+
+La	O
+segunda	O
+semana	O
+de	O
+aislamiento	O
+reapareció	O
+la	O
+cefalea	O
+de	O
+tipo	O
+holocraneana	O
+,	O
+con	O
+intensidad	O
+leve	O
+y	O
+que	O
+cedía	O
+con	O
+reposo	O
+.	O

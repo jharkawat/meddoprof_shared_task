@@ -1,0 +1,23 @@
+
+Fue	O
+de	O
+alta	O
+en	O
+tratamiento	O
+con	O
+80	O
+mg	O
+de	O
+prednisona	O
+cada	O
+24	O
+horas	O
+y	O
+400	O
+mg	O
+de	O
+albendazol	O
+cada	O
+12	O
+horas	O
+.	O

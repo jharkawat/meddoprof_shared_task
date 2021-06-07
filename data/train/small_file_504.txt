@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+27	O
+/	O
+08	O
+/	O
+2002	O
+.	O

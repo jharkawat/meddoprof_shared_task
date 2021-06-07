@@ -1,0 +1,8 @@
+
+Tibial	O
+anterior	O
+4	O
++	O
+/	O
+5	O
+.	O

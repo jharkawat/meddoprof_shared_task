@@ -1,0 +1,8 @@
+
+Presenta	O
+lagrimeo	O
+ocular	O
+y	O
+bostezos	O
+frecuentes	O
+.	O

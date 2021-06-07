@@ -1,0 +1,26 @@
+
+La	O
+paciente	O
+sufre	O
+una	O
+descompensación	O
+sintomática	O
+a	O
+pesar	O
+de	O
+estar	O
+tomando	O
+hasta	O
+20	O
+mg	O
+de	O
+aripiprazol	O
+combinado	O
+con	O
+risperidona	O
+de	O
+8	O
+-	O
+12	O
+mg	O
+.	O

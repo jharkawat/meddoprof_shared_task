@@ -1,0 +1,6 @@
+
+2	O
+)	O
+Tratamiento	O
+psicoterapéutico	O
+.	O

@@ -1,0 +1,20 @@
+
+Durante	O
+muchos	O
+años	O
+ha	O
+estado	O
+en	O
+situación	O
+administrativa	O
+irregular	O
+al	O
+estar	O
+en	B-SITUACION_LABORAL
+situación	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+calle	I-SITUACION_LABORAL
+y	O
+descompensada	O
+psicopatológicamente	O
+.	O

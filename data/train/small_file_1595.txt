@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+ingresó	O
+con	O
+ventilación	O
+mecánica	O
+y	O
+hemodinámicamente	O
+estable	O
+en	O
+la	O
+unidad	O
+de	O
+cuidados	O
+intensivos	O
+.	O

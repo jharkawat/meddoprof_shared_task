@@ -1,0 +1,26 @@
+
+Además	O
+,	O
+se	O
+describe	O
+una	O
+vena	O
+cava	O
+izquierda	O
+como	O
+variante	O
+de	O
+la	O
+normalidad	O
+,	O
+que	O
+se	O
+encuentra	O
+trombosada	O
+al	O
+menos	O
+hasta	O
+la	O
+ilíaca	O
+primitiva	O
+.	O

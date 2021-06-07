@@ -1,0 +1,21 @@
+
+Se	O
+trata	O
+de	O
+una	O
+mujer	O
+de	O
+36	O
+an	O
+̃	O
+os	O
+que	O
+acude	O
+a	O
+Urgencias	O
+por	O
+síndrome	O
+febril	O
+y	O
+cefalea	O
+.	O

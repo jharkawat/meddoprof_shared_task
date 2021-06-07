@@ -1,0 +1,6 @@
+
+Discurso	O
+espontáneo	O
+,	O
+coherente	O
+.	O

@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+no	O
+estaba	O
+tembloroso	O
+y	O
+los	O
+reflejos	O
+tendinosos	O
+profundos	O
+eran	O
+simétricos	O
+y	O
+de	O
+grado	O
+2	O
+(	O
+de	O
+4	O
+)	O
+.	O

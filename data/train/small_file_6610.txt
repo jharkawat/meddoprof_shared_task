@@ -1,0 +1,14 @@
+
+La	O
+capa	O
+granulosa	O
+se	O
+muestra	O
+ausente	O
+en	O
+algunos	O
+puntos	O
+coincidiendo	O
+con	O
+paraqueratosis	O
+.	O

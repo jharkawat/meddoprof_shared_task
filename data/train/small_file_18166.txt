@@ -1,0 +1,12 @@
+
+Como	O
+antecedentes	O
+patológicos	O
+personales	O
+no	O
+se	O
+recogieron	O
+datos	O
+de	O
+interés	O
+.	O

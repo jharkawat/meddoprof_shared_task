@@ -1,0 +1,7 @@
+
+Padre	O
+fallecido	O
+de	O
+disección	O
+aórtica	O
+.	O

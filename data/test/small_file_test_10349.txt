@@ -1,0 +1,25 @@
+
+»	O
+Biopsia	O
+con	O
+aguja	O
+gruesa	O
+(	O
+BAG	O
+)	O
+percutánea	O
+:	O
+biopsia	O
+de	O
+partes	O
+blandas	O
+de	O
+9	O
+x	O
+9	O
+x	O
+12	O
+cm	O
+parostal	O
+izquierda	O
+.	O

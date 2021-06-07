@@ -1,0 +1,16 @@
+
+Refería	O
+ideación	O
+suicida	O
+reactiva	O
+a	O
+dicho	O
+malestar	O
+sin	O
+realizar	O
+crítica	O
+de	O
+la	O
+sobreingesta	O
+medicamentosa	O
+.	O

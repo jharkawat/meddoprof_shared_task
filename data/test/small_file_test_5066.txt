@@ -1,0 +1,17 @@
+
+En	O
+la	O
+aleatorización	O
+,	O
+al	O
+paciente	O
+le	O
+corresponde	O
+la	O
+combinación	O
+de	O
+inmunoterapia	O
+junto	O
+a	O
+quimioterapia	O
+.	O

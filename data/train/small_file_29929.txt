@@ -1,0 +1,26 @@
+
+Al	O
+finalizar	O
+la	O
+actividad	O
+extraescolar	O
+en	O
+el	O
+centro	O
+,	O
+se	O
+recomienda	O
+a	O
+la	O
+paciente	O
+tramitar	O
+la	O
+Incapacidad	B-SITUACION_LABORAL
+Permanente	I-SITUACION_LABORAL
+Absoluta	I-SITUACION_LABORAL
+y	O
+realizar	B-ACTIVIDAD
+tareas	I-ACTIVIDAD
+de	I-ACTIVIDAD
+voluntariado	I-ACTIVIDAD
+.	O

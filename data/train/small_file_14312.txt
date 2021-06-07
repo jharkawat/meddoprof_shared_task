@@ -1,0 +1,9 @@
+
+Sangre	O
+en	O
+heces	O
+:	O
+primera	O
+muestra	O
+positiva	O
+.	O

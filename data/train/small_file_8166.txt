@@ -1,0 +1,10 @@
+
+-	O
+Rx	O
+tórax	O
+:	O
+Engrosamiento	O
+peribronquial	O
+perihiliar	O
+bilateral	O
+.	O

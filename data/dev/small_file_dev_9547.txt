@@ -1,0 +1,24 @@
+
+A	O
+los	O
+17	O
+años	O
+(	O
+1o	B-SITUACION_LABORAL
+BUP	I-SITUACION_LABORAL
+)	I-SITUACION_LABORAL
+se	I-SITUACION_LABORAL
+cambió	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+colegio	I-SITUACION_LABORAL
+porque	O
+"	O
+se	O
+metían	O
+conmigo	O
+porque	O
+era	O
+buen	O
+estudiante	B-SITUACION_LABORAL
+"	O
+.	O

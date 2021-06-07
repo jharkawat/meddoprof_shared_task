@@ -1,0 +1,11 @@
+
+Supuesto	O
+síndrome	O
+de	O
+Raynaud	O
+(	O
+sin	O
+informes	O
+recogidos	O
+)	O
+.	O

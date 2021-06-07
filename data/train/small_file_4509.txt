@@ -1,0 +1,14 @@
+
+Tras	O
+su	O
+matrimonio	O
+se	O
+dedicó	O
+a	O
+cuidar	O
+de	O
+su	O
+marido	O
+e	O
+hijos	O
+.	O

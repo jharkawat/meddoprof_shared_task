@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+fue	O
+diagnosticado	O
+de	O
+dermatitis	O
+alérgica	O
+de	O
+contacto	O
+(	O
+DAC	O
+)	O
+a	O
+alcohol	O
+bencílico	O
+en	O
+Solaraze	O
+®	O
+.	O

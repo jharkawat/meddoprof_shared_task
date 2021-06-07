@@ -1,0 +1,17 @@
+
+La	O
+familia	O
+refiere	O
+que	O
+lo	O
+había	O
+pasado	O
+muy	O
+mal	O
+tras	O
+la	O
+separación	O
+de	O
+los	O
+padres	O
+.	O

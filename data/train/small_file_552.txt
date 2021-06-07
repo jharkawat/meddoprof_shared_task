@@ -1,0 +1,21 @@
+
+A	O
+su	O
+llegada	O
+,	O
+el	O
+paciente	O
+se	O
+encontraba	O
+consciente	O
+aunque	O
+con	O
+signos	O
+de	O
+agotamiento	O
+extremo	O
+,	O
+deshidratación	O
+e	O
+hipotermia	O
+.	O

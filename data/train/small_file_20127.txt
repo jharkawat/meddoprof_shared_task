@@ -1,0 +1,18 @@
+
+No	O
+sabía	O
+por	O
+qué	O
+se	O
+sentía	O
+así	O
+y	O
+odiaba	O
+no	O
+saber	O
+cómo	O
+estaría	O
+al	O
+día	O
+siguiente	O
+.	O

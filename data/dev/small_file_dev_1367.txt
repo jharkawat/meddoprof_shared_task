@@ -1,0 +1,10 @@
+
+En	O
+la	O
+actualidad	O
+es	O
+empleada	B-PROFESION
+de	I-PROFESION
+marketing	I-PROFESION
+telefónico	I-PROFESION
+.	O

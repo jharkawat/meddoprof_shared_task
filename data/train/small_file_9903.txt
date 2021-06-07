@@ -1,0 +1,15 @@
+
+Enfermedad	O
+celiaca	O
+latente	O
+,	O
+déficit	O
+selectivo	O
+de	O
+IgA	O
+,	O
+intervenida	O
+de	O
+legrado	O
+uterino	O
+.	O

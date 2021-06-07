@@ -1,0 +1,20 @@
+
+Como	O
+conclusión	O
+final	O
+de	O
+la	O
+exploración	O
+se	O
+catalogó	O
+como	O
+miocardiopatía	O
+con	O
+criterios	O
+de	O
+no	O
+compactación	O
+en	O
+cara	O
+lateral	O
+.	O

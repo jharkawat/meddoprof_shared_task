@@ -1,0 +1,19 @@
+
+El	O
+proceso	O
+diagnóstico	O
+se	O
+alargó	O
+durante	O
+2	O
+años	O
+ya	O
+que	O
+se	O
+trata	O
+de	O
+un	O
+diagnóstico	O
+de	O
+exclusión	O
+.	O

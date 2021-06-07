@@ -1,0 +1,16 @@
+
+En	O
+el	O
+Servicio	O
+de	O
+Urgencias	O
+mantuvo	O
+una	O
+actitud	O
+de	O
+colaboración	O
+parcial	O
+a	O
+la	O
+exploración	O
+.	O

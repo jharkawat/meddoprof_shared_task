@@ -1,0 +1,13 @@
+
+Alopecia	O
+moderada	O
+de	O
+predominio	O
+frontal	O
+y	O
+más	O
+marcada	O
+en	O
+el	O
+vértex	O
+.	O

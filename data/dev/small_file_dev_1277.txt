@@ -1,0 +1,27 @@
+
+Se	O
+realizan	O
+los	O
+controles	O
+habituales	O
+con	O
+recuento	O
+leucocitario	O
+dentro	O
+de	O
+la	O
+normalidad	O
+y	O
+el	O
+paciente	O
+,	O
+hasta	O
+el	O
+momento	O
+,	O
+no	O
+ha	O
+referido	O
+efectos	O
+secundarios	O
+.	O

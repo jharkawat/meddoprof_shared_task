@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+completó	O
+6	O
+meses	O
+de	O
+tratamiento	O
+con	O
+ciprofloxacino	O
+oral	O
+a	O
+dosis	O
+de	O
+750	O
+mg	O
+cada	O
+12	O
+horas	O
+.	O

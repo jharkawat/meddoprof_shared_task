@@ -1,0 +1,18 @@
+
+Auscultación	O
+cardiorrespiratoria	O
+:	O
+tonos	O
+rítmicos	O
+,	O
+sin	O
+soplos	O
+a	O
+70	O
+lpm	O
+,	O
+murmullo	O
+vesicular	O
+conservado	O
+bilateral	O
+.	O

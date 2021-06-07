@@ -1,0 +1,11 @@
+
+No	O
+ha	O
+vuelto	O
+a	O
+presentar	O
+clínica	O
+depresiva	O
+ni	O
+psicótica	O
+.	O

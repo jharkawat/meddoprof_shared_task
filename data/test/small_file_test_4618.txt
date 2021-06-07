@@ -1,0 +1,18 @@
+
+Adenopatía	O
+yugulodigástrica	O
+izquierda	O
+en	O
+el	O
+límite	O
+alto	O
+de	O
+la	O
+normalidad	O
+(	O
+1	O
+,	O
+6	O
+cm	O
+)	O
+.	O

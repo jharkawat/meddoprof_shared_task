@@ -1,0 +1,21 @@
+
+Ha	O
+tomado	O
+varias	O
+combinaciones	O
+de	O
+medicación	O
+,	O
+pero	O
+siempre	O
+con	O
+cierta	O
+cantidad	O
+de	O
+clozapina	O
+(	O
+actualmente	O
+300	O
+mg	O
+)	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+muestra	O
+un	O
+posible	O
+empleo	O
+de	O
+la	O
+escala	O
+MBI	O
+-	O
+C	O
+para	O
+favorecer	O
+la	O
+orientación	O
+diagnóstica	O
+.	O

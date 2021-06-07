@@ -1,0 +1,19 @@
+
+No	O
+presenta	O
+alteraciones	O
+significativas	O
+en	O
+TAC	O
+craneal	O
+,	O
+siendo	O
+también	O
+normales	O
+tanto	O
+el	O
+electroencefalograma	O
+como	O
+el	O
+electrocardiograma	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+consultas	O
+de	O
+oncología	O
+se	O
+recogen	O
+los	O
+resultados	O
+de	O
+biopsia	O
+intraoperatoria	O
+con	O
+diagnóstico	O
+definitivo	O
+de	O
+cistoadenoma	O
+mucinoso	O
+de	O
+ovario	O
+izquierdo	O
+sin	O
+afectación	O
+de	O
+trompa	O
+uterina	O
+.	O

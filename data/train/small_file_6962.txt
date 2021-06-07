@@ -1,0 +1,16 @@
+
+Actualmente	O
+la	O
+paciente	O
+sigue	O
+revisiones	O
+periódicas	O
+,	O
+sin	O
+observarse	O
+signos	O
+clínicos	O
+sugestivos	O
+de	O
+recidiva	O
+.	O

@@ -1,0 +1,12 @@
+
+Son	O
+frecuentes	O
+las	O
+recaídas	O
+tras	O
+la	O
+supresión	O
+del	O
+tratamiento	O
+corticoideo	O
+.	O

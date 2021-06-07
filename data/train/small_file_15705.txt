@@ -1,0 +1,24 @@
+
+Se	O
+completó	O
+el	O
+estudio	O
+con	O
+una	O
+resonancia	O
+magnética	O
+(	O
+RM	O
+)	O
+cerebral	O
+,	O
+estudio	O
+inmunológico	O
+y	O
+serológico	O
+descartando	O
+posibles	O
+causas	O
+del	O
+cuadro	O
+.	O

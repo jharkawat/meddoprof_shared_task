@@ -1,0 +1,22 @@
+
+A	O
+las	O
+18	O
+horas	O
+después	O
+del	O
+inicio	O
+de	O
+síntomas	O
+,	O
+acudió	O
+a	O
+unidad	O
+de	O
+muestreo	O
+de	O
+coronavirus	O
+en	O
+su	O
+hospital	O
+.	O

@@ -1,0 +1,22 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+mostró	O
+algunas	O
+calcificaciones	O
+a	O
+predominio	O
+parahiliar	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+solicitó	O
+una	O
+tomografía	O
+de	O
+tórax	O
+.	O

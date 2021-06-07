@@ -1,0 +1,21 @@
+
+A	O
+la	O
+exploración	O
+física	O
+se	O
+observa	O
+paciente	O
+aparentemente	O
+sano	O
+,	O
+consciente	O
+y	O
+orientado	O
+en	O
+persona	O
+,	O
+espacio	O
+y	O
+tiempo	O
+.	O

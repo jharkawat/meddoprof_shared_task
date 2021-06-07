@@ -1,0 +1,17 @@
+
+Éstas	O
+,	O
+según	O
+el	O
+paciente	O
+,	O
+"	O
+le	O
+han	O
+insistido	O
+mucho	O
+para	O
+que	O
+acudiera	O
+"	O
+.	O

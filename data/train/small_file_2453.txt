@@ -1,0 +1,10 @@
+
+Se	O
+prohíbe	O
+la	O
+utilización	O
+de	O
+clorhexidina	O
+y	O
+betadine	O
+.	O

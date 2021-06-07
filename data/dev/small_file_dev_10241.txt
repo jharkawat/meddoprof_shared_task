@@ -1,0 +1,13 @@
+
+Se	O
+le	O
+hizo	O
+un	O
+electrocardiograma	O
+pero	O
+no	O
+se	O
+le	O
+detectaron	O
+anormalidades	O
+.	O

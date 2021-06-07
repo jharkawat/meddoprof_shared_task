@@ -1,0 +1,5 @@
+
+Alta	O
+cohesión	O
+familiar	O
+.	O

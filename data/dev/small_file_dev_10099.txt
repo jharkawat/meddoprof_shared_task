@@ -1,0 +1,10 @@
+
+Tenía	O
+una	O
+hija	O
+que	O
+vivía	O
+con	O
+el	O
+padre	O
+.	O

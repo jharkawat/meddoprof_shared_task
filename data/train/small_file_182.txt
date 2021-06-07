@@ -1,0 +1,15 @@
+
+En	O
+la	O
+TAC	O
+pulmonar	O
+se	O
+apreciaron	O
+leves	O
+opacidades	O
+de	O
+vidrio	O
+esmerilado	O
+parcheadas	O
+bilaterales	O
+.	O

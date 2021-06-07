@@ -1,0 +1,27 @@
+
+Ha	O
+presentado	O
+tendencia	O
+a	O
+manifestarsíntomas	O
+físicos	O
+con	O
+frecuencia	O
+(	O
+gastroenteritis	O
+,	O
+salmonela	O
+,	O
+resfriados	O
+,	O
+etc	O
+.	O
+)	O
+,	O
+recurriendo	O
+a	O
+Urgencias	O
+con	O
+alta	O
+periodicidad	O
+.	O

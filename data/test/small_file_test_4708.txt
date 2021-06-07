@@ -1,0 +1,20 @@
+
+Es	O
+intervenido	O
+en	O
+noviembre	O
+de	O
+2009	O
+,	O
+realizándose	O
+una	O
+craniectomía	O
+subtotal	O
+frontal	O
+con	O
+maxilectomía	O
+,	O
+esfenoidectomía	O
+y	O
+etmoidectomía	O
+.	O

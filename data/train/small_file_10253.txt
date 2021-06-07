@@ -1,0 +1,17 @@
+
+Su	O
+hija	O
+hace	O
+aproximadamente	O
+10	O
+días	O
+ha	O
+presentado	O
+la	O
+5a	O
+enfermedad	O
+(	O
+eritema	O
+infeccioso	O
+)	O
+.	O

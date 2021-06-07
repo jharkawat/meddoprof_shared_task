@@ -1,0 +1,14 @@
+
+Admitió	O
+que	O
+no	O
+dormía	O
+,	O
+pero	O
+negó	O
+que	O
+ello	O
+fuera	O
+un	O
+problema	O
+.	O

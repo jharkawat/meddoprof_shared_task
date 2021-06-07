@@ -1,0 +1,16 @@
+
+Se	O
+le	O
+mantuvo	O
+de	B-SITUACION_LABORAL
+baja	I-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+hasta	O
+que	O
+se	O
+le	O
+concedió	O
+la	O
+incapacidad	B-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+.	O

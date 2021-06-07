@@ -1,0 +1,14 @@
+
+El	O
+segmento	O
+PR	O
+puede	O
+estar	O
+descendido	O
+(	O
+curva	O
+de	O
+lesión	O
+auricular	O
+)	O
+.	O

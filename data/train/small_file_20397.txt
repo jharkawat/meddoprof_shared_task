@@ -1,0 +1,7 @@
+
+También	O
+negó	O
+tener	O
+síntomas	O
+psicóticos	O
+.	O

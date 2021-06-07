@@ -1,0 +1,24 @@
+
+A	O
+pesar	O
+del	O
+tratamiento	O
+,	O
+no	O
+se	O
+observa	O
+mejoría	O
+clínica	O
+por	O
+lo	O
+que	O
+se	O
+reinterroga	O
+sobre	O
+hábitos	O
+tóxicos	O
+que	O
+el	O
+paciente	O
+niega	O
+.	O

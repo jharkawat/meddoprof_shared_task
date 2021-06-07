@@ -1,0 +1,10 @@
+
+Su	O
+marido	O
+padece	O
+cáncer	O
+pulmón	O
+microcítico	O
+en	O
+remisión	O
+.	O

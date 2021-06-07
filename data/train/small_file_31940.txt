@@ -1,0 +1,17 @@
+
+Refiere	O
+buena	O
+relación	O
+con	O
+sus	O
+madre	O
+,	O
+hermana	O
+y	O
+abuelos	O
+que	O
+colaboran	O
+en	O
+su	O
+cuidado	O
+.	O

@@ -1,0 +1,17 @@
+
+Diagnóstico	O
+genético	O
+de	O
+Síndrome	O
+de	O
+Microdeleción	O
+22q11	O
+.	O
+2	O
+a	O
+los	O
+13	O
+años	O
+de	O
+edad	O
+.	O

@@ -1,0 +1,9 @@
+
+Domicilio	O
+:	O
+Duarte	O
+Quirós	O
+1300	O
+,	O
+5000	O
+.	O

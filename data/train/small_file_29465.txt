@@ -1,0 +1,27 @@
+
+A	O
+partir	O
+de	O
+2001	O
+,	O
+se	O
+repiten	O
+los	O
+ingresos	O
+,	O
+muy	O
+numerosos	O
+,	O
+llegando	O
+a	O
+estar	O
+prácticamente	O
+hospitalizado	O
+de	O
+forma	O
+continua	O
+hasta	O
+finales	O
+de	O
+2003	O
+.	O

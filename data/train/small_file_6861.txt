@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+fue	O
+evaluado	O
+de	O
+forma	O
+periódica	O
+en	O
+las	O
+consultas	O
+de	O
+Dermatología	O
+en	O
+aras	O
+de	O
+obtener	O
+un	O
+buen	O
+control	O
+del	O
+cuadro	O
+inflamatorio	O
+extenso	O
+.	O

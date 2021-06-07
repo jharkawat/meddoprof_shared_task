@@ -1,0 +1,6 @@
+
+Precisa	O
+silla	O
+de	O
+ruedas	O
+.	O

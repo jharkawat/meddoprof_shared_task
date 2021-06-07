@@ -1,0 +1,24 @@
+
+Mujer	O
+de	O
+15	O
+años	O
+,	O
+padres	O
+separados	O
+,	O
+que	O
+reside	O
+con	O
+su	O
+madre	O
+y	O
+la	O
+pareja	O
+de	O
+ésta	O
+en	O
+un	O
+medio	O
+urbano	O
+.	O

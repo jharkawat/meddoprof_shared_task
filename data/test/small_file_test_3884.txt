@@ -1,0 +1,11 @@
+
+Diagnosticado	O
+en	O
+1998	O
+de	O
+carcinoma	O
+escamoso	O
+pulmonar	O
+estadio	O
+IIIB	O
+.	O

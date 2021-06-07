@@ -1,0 +1,8 @@
+
+No	O
+tiene	O
+mascotas	O
+en	O
+su	O
+domicilio	O
+.	O

@@ -1,0 +1,15 @@
+
+—	O
+Trastorno	O
+de	O
+la	O
+marcha	O
+como	O
+síntoma	O
+de	O
+inicio	O
+de	O
+un	O
+tumor	O
+tiroideo	O
+.	O

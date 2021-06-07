@@ -1,0 +1,20 @@
+
+Afecta	O
+de	O
+Enfermedad	O
+de	O
+Parkinson	O
+diagnosticada	O
+desde	O
+hace	O
+5	O
+años	O
+,	O
+con	O
+buen	O
+control	O
+en	O
+tratamiento	O
+con	O
+Levodopa	O
+.	O

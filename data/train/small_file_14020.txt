@@ -1,0 +1,10 @@
+
+Se	O
+implanta	O
+en	O
+UCI	O
+marcapasos	O
+definitivo	O
+medtronic	O
+VVIR	O
+.	O

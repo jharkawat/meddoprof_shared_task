@@ -1,0 +1,24 @@
+
+Sufre	O
+una	O
+caída	O
+durante	O
+la	O
+práctica	O
+deportiva	O
+desde	O
+su	O
+propia	O
+altura	O
+,	O
+apoyando	O
+la	O
+muñeca	O
+izquierda	O
+y	O
+produciéndose	O
+una	O
+hiperextensión	O
+de	O
+ésta	O
+.	O

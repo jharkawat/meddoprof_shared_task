@@ -1,0 +1,15 @@
+
+La	O
+metilprednisolona	O
+se	O
+reduce	O
+en	O
+la	O
+siguiente	O
+semana	O
+a	O
+10	O
+mg	O
+al	O
+día	O
+.	O

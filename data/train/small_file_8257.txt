@@ -1,0 +1,26 @@
+
+Refiere	O
+dolor	O
+y	O
+tumefacción	O
+en	O
+cara	O
+posterior	O
+de	O
+muslos	O
+,	O
+glúteos	O
+y	O
+lumbares	O
+;	O
+de	O
+inicio	O
+brusco	O
+hace	O
+un	O
+mes	O
+,	O
+sin	O
+síntomas	O
+constitucionales	O
+.	O

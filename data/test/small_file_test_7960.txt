@@ -1,0 +1,23 @@
+
+Se	O
+trata	O
+de	O
+un	O
+varón	O
+de	O
+76	O
+años	O
+,	O
+pescador	B-PROFESION
+jubilado	B-SITUACION_LABORAL
+,	O
+hipertenso	O
+y	O
+diabético	O
+no	O
+insulinodependiente	O
+sin	O
+ninguna	O
+medicación	O
+activa	O
+.	O

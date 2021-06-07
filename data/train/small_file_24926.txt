@@ -1,0 +1,21 @@
+
+Villegas	O
+,	O
+de	O
+constitución	O
+pícnica	O
+y	O
+63	O
+años	O
+de	O
+edad	O
+,	O
+empezó	O
+su	O
+seguimiento	O
+en	O
+psiquiatría	O
+hace	O
+5	O
+años	O
+.	O

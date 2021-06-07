@@ -1,0 +1,23 @@
+
+En	O
+febrero	O
+de	O
+2009	O
+se	O
+detecta	O
+una	O
+lesión	O
+vulvar	O
+derecha	O
+de	O
+crecimiento	O
+progresivo	O
+por	O
+la	O
+que	O
+acude	O
+a	O
+consulta	O
+de	O
+Ginecología	O
+.	O

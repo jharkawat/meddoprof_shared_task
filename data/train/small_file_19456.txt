@@ -1,0 +1,11 @@
+
+Descartar	O
+una	O
+etiología	O
+médicaNo	O
+hay	O
+datos	O
+que	O
+sugieran	O
+patología	O
+médica	O

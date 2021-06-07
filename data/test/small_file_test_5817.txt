@@ -1,0 +1,26 @@
+
+Broncoaspirado	O
+y	O
+cepillado	O
+:	O
+Negativo	O
+BAG	O
+de	O
+masa	O
+de	O
+LSD	O
+guiada	O
+por	O
+TC	O
+(	O
+22	O
+-	O
+12	O
+-	O
+14	O
+)	O
+:	O
+Adenocarcinoma	O
+de	O
+pulmón	O
+.	O

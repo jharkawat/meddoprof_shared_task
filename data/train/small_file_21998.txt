@@ -1,0 +1,13 @@
+
+Debido	O
+a	O
+que	O
+estudia	B-SITUACION_LABORAL
+baile	I-SITUACION_LABORAL
+clásico	I-SITUACION_LABORAL
+,	O
+hace	B-ACTIVIDAD
+ejercicio	I-ACTIVIDAD
+a	I-ACTIVIDAD
+diario	I-ACTIVIDAD
+.	O

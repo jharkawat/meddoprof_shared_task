@@ -1,0 +1,12 @@
+
+Acude	O
+a	O
+la	O
+consulta	O
+remitido	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+.	O

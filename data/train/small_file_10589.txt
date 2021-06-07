@@ -1,0 +1,12 @@
+
+No	O
+medicaciones	O
+habituales	O
+ni	O
+antecedentes	O
+familiares	O
+de	O
+enfermedades	O
+autoinmunes	O
+sistémicas	O
+.	O

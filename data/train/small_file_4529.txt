@@ -1,0 +1,27 @@
+
+Le	O
+confiesa	O
+que	O
+por	O
+desconfianza	O
+acudió	O
+a	O
+las	O
+urgencias	O
+hospitalarias	O
+;	O
+y	O
+que	O
+,	O
+tras	O
+el	O
+alta	O
+y	O
+descartar	O
+patología	O
+grave	O
+,	O
+quedó	O
+más	O
+tranquilo	O
+.	O

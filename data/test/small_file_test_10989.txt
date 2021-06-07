@@ -1,0 +1,20 @@
+
+Izdo	O
+:	O
+en	O
+frecuencias	O
+de	O
+250	O
+,	O
+500	O
+,	O
+1000	O
+,	O
+2000Hz	O
+responde	O
+a	O
+intensidades	O
+de	O
+20	O
+dB	O
+.	O

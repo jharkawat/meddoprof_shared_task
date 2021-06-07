@@ -1,0 +1,22 @@
+
+Lesión	O
+quística	O
+de	O
+4	O
+cm	O
+y	O
+otra	O
+más	O
+inferior	O
+de	O
+1	O
+,	O
+7	O
+cm	O
+en	O
+mama	O
+izquierda	O
+,	O
+sin	O
+cambios	O
+.	O

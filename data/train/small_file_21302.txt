@@ -1,0 +1,26 @@
+
+Su	O
+madre	O
+cuenta	O
+que	O
+cuando	O
+éste	O
+era	O
+pequeño	O
+,	O
+sus	O
+primos	O
+se	O
+lo	O
+llevaban	O
+a	O
+su	O
+casa	O
+y	O
+a	O
+Raúl	O
+siempre	O
+se	O
+lo	O
+dejaban	O
+.	O

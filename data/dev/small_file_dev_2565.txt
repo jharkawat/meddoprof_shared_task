@@ -1,0 +1,18 @@
+
+Presenta	O
+facies	O
+dolorida	O
+,	O
+recostada	O
+en	O
+la	O
+cama	O
+sin	O
+poder	O
+levantarse	O
+por	O
+las	O
+quejas	O
+de	O
+dolor	O
+.	O

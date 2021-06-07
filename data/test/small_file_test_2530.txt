@@ -1,0 +1,8 @@
+
+Altamente	O
+sugestivo	O
+de	O
+encefalopatía	O
+metabólica	O
+inespecífica	O
+.	O

@@ -1,0 +1,5 @@
+
+Líquido	O
+libre	O
+purulento	O
+.	O

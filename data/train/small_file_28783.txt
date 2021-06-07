@@ -1,0 +1,6 @@
+
+Hiperorexia	O
+con	O
+ganancia	O
+ponderal	O
+.	O

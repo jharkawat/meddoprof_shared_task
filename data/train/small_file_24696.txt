@@ -1,0 +1,25 @@
+
+Dicho	O
+impulso	O
+va	O
+encaminado	O
+a	O
+reunirse	O
+con	O
+su	O
+amado	O
+(	O
+a	O
+pesar	O
+de	O
+saber	O
+que	O
+está	O
+casado	O
+y	O
+que	O
+no	O
+le	O
+corresponde	O
+)	O
+.	O

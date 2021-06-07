@@ -1,0 +1,12 @@
+
+TAC	O
+craneal	O
+sin	O
+contraste	O
+I	O
+.	O
+V	O
+.	O
+:	O
+Normal	O
+.	O

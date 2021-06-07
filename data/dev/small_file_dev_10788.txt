@@ -1,0 +1,16 @@
+
+Sospechaba	O
+que	O
+hubieran	O
+instalado	O
+micrófonos	O
+y	O
+cámaras	O
+de	O
+video	O
+en	O
+su	O
+casa	O
+para	O
+vigilarle	O
+.	O

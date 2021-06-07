@@ -1,0 +1,18 @@
+
+Admite	O
+un	O
+consumo	O
+esporádico	O
+de	O
+anfetaminas	O
+en	O
+relación	O
+con	O
+fiestas	O
+del	O
+pueblo	O
+y	O
+conciertos	O
+de	O
+música	O
+.	O

@@ -1,0 +1,25 @@
+
+Se	O
+explicó	O
+a	O
+la	O
+paciente	O
+el	O
+probable	O
+origen	O
+de	O
+su	O
+consulta	O
+,	O
+junto	O
+con	O
+la	O
+indicación	O
+de	O
+no	O
+aplicar	O
+el	O
+filtro	O
+solar	O
+sospechoso	O
+.	O

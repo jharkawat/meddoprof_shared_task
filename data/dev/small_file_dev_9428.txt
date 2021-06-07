@@ -1,0 +1,5 @@
+
+Llenado	O
+mitral	O
+normal	O
+.	O

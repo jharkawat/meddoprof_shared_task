@@ -1,0 +1,16 @@
+
+En	O
+el	O
+líquido	O
+cefalorraquídeo	O
+(	O
+LCR	O
+)	O
+había	O
+una	O
+moderada	O
+pleocitosis	O
+de	O
+predominio	O
+mononuclear	O
+.	O

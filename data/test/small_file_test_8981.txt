@@ -1,0 +1,27 @@
+
+En	O
+la	O
+exploración	O
+,	O
+facies	O
+Cushingoide	O
+que	O
+se	O
+correlaciona	O
+con	O
+un	O
+mal	O
+control	O
+glucémico	O
+por	O
+tratamiento	O
+esteroideo	O
+,	O
+sin	O
+cambios	O
+en	O
+exploración	O
+neurológica	O
+al	O
+alta	O
+.	O

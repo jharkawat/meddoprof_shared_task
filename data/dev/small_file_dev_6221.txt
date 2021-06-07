@@ -1,0 +1,16 @@
+
+Se	O
+le	O
+practicó	O
+una	O
+biopsia	O
+de	O
+piel	O
+de	O
+una	O
+de	O
+las	O
+lesiones	O
+de	O
+mano	O
+.	O

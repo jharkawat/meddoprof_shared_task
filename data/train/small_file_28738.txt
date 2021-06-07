@@ -1,0 +1,14 @@
+
+Apetito	O
+disminuido	O
+con	O
+pérdida	O
+ponderal	O
+de	O
+4	O
+kg	O
+en	O
+el	O
+último	O
+mes	O
+.	O

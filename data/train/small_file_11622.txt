@@ -1,0 +1,24 @@
+
+En	O
+la	O
+fase	O
+aguda	O
+del	O
+HaNDL	O
+hay	O
+grandes	O
+áreas	O
+cerebrales	O
+de	O
+hipoperfusión	O
+y	O
+la	O
+SPECT	O
+puede	O
+permanecer	O
+alterada	O
+por	O
+semanas	O
+o	O
+meses	O
+.	O

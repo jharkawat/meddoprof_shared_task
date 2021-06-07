@@ -1,0 +1,26 @@
+
+Diagnóstico	O
+diferencial	O
+:	O
+hidrocefalia	O
+normotensiva	O
+del	O
+adulto	O
+,	O
+enfermedad	O
+de	O
+Alzheimer	O
+,	O
+enfermedad	O
+de	O
+Parkinson	O
+,	O
+infección	O
+(	O
+urinaria	O
+,	O
+respiratoria	O
+.	O
+.	O
+.	O
+)	O

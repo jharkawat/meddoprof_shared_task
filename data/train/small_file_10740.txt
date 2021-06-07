@@ -1,0 +1,12 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+,	O
+las	O
+funciones	O
+superiores	O
+están	O
+conservadas	O
+.	O

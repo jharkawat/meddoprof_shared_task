@@ -1,0 +1,19 @@
+
+En	O
+radiografía	O
+de	O
+tórax	O
+destaca	O
+signos	O
+de	O
+enfisema	O
+pulmonar	O
+y	O
+en	O
+ecografía	O
+abdominal	O
+esplenomegalia	O
+de	O
+14	O
+cm	O
+.	O

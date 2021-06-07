@@ -1,0 +1,13 @@
+
+Al	O
+alta	O
+se	O
+derivó	O
+a	O
+Hospital	O
+de	O
+Día	O
+para	O
+continuar	O
+tratamiento	O
+.	O

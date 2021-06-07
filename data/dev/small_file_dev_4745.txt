@@ -1,0 +1,25 @@
+
+A	O
+las	O
+48	O
+hs	O
+postdrenaje	O
+se	O
+decide	O
+alta	O
+por	O
+buena	O
+evolución	O
+,	O
+afebril	O
+y	O
+buen	O
+estado	O
+general	O
+con	O
+tratamiento	O
+antibiótico	O
+ceftriaxona	O
+y	O
+metronidazol	O
+.	O

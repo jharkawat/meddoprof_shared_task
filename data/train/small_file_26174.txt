@@ -1,0 +1,10 @@
+
+Solicita	O
+el	O
+cambio	O
+de	O
+puesto	O
+,	O
+sin	O
+alivio	O
+.	O

@@ -1,0 +1,8 @@
+
+Ligero	O
+derrame	O
+pericárdico	O
+sin	O
+compromiso	O
+hemodinámico	O
+.	O

@@ -1,0 +1,21 @@
+
+A	O
+pesar	O
+de	O
+suspender	O
+el	O
+tratamiento	O
+con	O
+cicloserina	O
+persistieron	O
+las	O
+alteraciones	O
+del	O
+comportamiento	O
+,	O
+mostrándose	O
+con	O
+una	O
+actitud	O
+desinhibida	O
+.	O

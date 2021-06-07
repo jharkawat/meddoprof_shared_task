@@ -1,0 +1,17 @@
+
+Radiografía	O
+de	O
+tórax	O
+postero	O
+-	O
+anterior	O
+y	O
+lateral	O
+:	O
+silueta	O
+cardiovascular	O
+dentro	O
+de	O
+límites	O
+normales	O
+.	O

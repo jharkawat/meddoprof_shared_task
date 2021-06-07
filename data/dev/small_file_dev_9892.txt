@@ -1,0 +1,19 @@
+
+El	O
+día	O
+del	O
+ingreso	O
+presenta	O
+un	O
+episodio	O
+en	O
+reposo	O
+de	O
+15	O
+minutos	O
+de	O
+duración	O
+que	O
+cedió	O
+espontáneamente	O
+.	O

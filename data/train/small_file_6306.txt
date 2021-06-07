@@ -1,0 +1,26 @@
+
+Serología	O
+:	O
+(	O
+Anti	O
+-	O
+HBc	O
+)	O
+core	O
+HB	O
+negativo	O
+,	O
+Ac	O
+frente	O
+VHC	O
+positivo	O
+,	O
+Ac	O
+frente	O
+a	O
+VIH	O
+1	O
+/	O
+2	O
+negativo	O
+.	O

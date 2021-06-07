@@ -1,0 +1,27 @@
+
+Mujer	O
+de	O
+47	O
+años	O
+que	O
+presenta	O
+desde	O
+hace	O
+dos	O
+años	O
+presenta	O
+lesiones	O
+redondeadas	O
+descamativas	O
+muy	O
+pruriginosas	O
+localizadas	O
+únicamente	O
+en	O
+manos	O
+que	O
+mejoran	O
+en	O
+periodo	O
+vacacional	O
+.	O

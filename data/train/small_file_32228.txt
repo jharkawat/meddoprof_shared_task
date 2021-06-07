@@ -1,0 +1,19 @@
+
+Desde	O
+el	O
+alta	O
+en	O
+la	O
+UPR	O
+,	O
+el	O
+paciente	O
+ha	O
+asistido	O
+de	O
+forma	O
+regular	O
+al	O
+Recurso	O
+remitido	O
+.	O

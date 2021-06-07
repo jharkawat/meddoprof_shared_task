@@ -1,0 +1,22 @@
+
+Su	O
+memoria	O
+inmediata	O
+se	O
+limitaba	O
+a	O
+cinco	O
+dígitos	O
+y	O
+se	O
+olvidaba	O
+uno	O
+de	O
+tres	O
+objetos	O
+al	O
+cabo	O
+de	O
+tres	O
+minutos	O
+.	O

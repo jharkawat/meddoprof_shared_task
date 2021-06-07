@@ -1,0 +1,17 @@
+
+RMN	O
+cervical	O
+y	O
+dorsal	O
+:	O
+no	O
+se	O
+observan	O
+signos	O
+de	O
+mielopatía	O
+ni	O
+de	O
+carcinomatosis	O
+meníngea	O
+.	O

@@ -1,0 +1,23 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+familia	O
+refiere	O
+que	O
+últimamente	O
+le	O
+notan	O
+pérdidas	O
+de	O
+memoria	O
+reciente	O
+y	O
+con	O
+problemas	O
+para	O
+gestionar	O
+su	O
+dinero	O
+.	O

@@ -1,0 +1,27 @@
+
+Acude	O
+a	O
+la	O
+consulta	O
+del	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+por	O
+odinofagia	O
+de	O
+dos	O
+días	O
+de	O
+evolución	O
+asociando	O
+malestar	O
+general	O
+y	O
+sensación	O
+distérmica	O
+sin	O
+termometrar	O
+temperatura	O
+.	O

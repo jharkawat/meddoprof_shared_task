@@ -1,0 +1,27 @@
+
+Varón	O
+de	O
+27	O
+años	O
+de	O
+edad	O
+que	O
+consulta	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+por	O
+presentar	O
+incontinencia	O
+urinaria	O
+y	O
+enuresis	O
+de	O
+2	O
+meses	O
+de	O
+evolución	O
+.	O

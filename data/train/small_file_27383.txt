@@ -1,0 +1,16 @@
+
+Ante	O
+la	O
+dificultad	O
+de	O
+manejo	O
+de	O
+estos	O
+episodios	O
+acuden	O
+en	O
+varias	O
+ocasiones	O
+a	O
+Urgencias	O
+.	O

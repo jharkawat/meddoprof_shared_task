@@ -1,0 +1,9 @@
+
+Se	O
+mueve	O
+de	O
+un	O
+lado	O
+para	O
+otro	O
+.	O

@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+presenta	O
+excelente	O
+tolerancia	O
+al	O
+tratamiento	O
+quimioterápico	O
+,	O
+no	O
+precisando	O
+reducción	O
+de	O
+dosis	O
+en	O
+ninguno	O
+de	O
+los	O
+ciclos	O
+de	O
+quimioterapia	O
+.	O

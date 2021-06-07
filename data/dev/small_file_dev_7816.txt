@@ -1,0 +1,25 @@
+
+3	O
+-	O
+Enfermedad	O
+de	O
+Lyme	O
+:	O
+causada	O
+por	O
+Borrelia	O
+burgdorferi	O
+que	O
+,	O
+característicamente	O
+,	O
+cursa	O
+con	O
+eritema	O
+migratorio	O
+tras	O
+la	O
+picadura	O
+de	O
+garrapata	O
+.	O

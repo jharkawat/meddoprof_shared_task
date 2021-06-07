@@ -1,0 +1,16 @@
+
+En	O
+el	O
+hemocultivo	O
+se	O
+aisló	O
+Fusobacterium	O
+spp	O
+,	O
+pendiente	O
+de	O
+identificación	O
+definitiva	O
+y	O
+antibiograma	O
+.	O

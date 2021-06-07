@@ -1,0 +1,18 @@
+
+A	O
+menudo	O
+se	O
+sentía	O
+aprehensivo	O
+,	O
+tenía	O
+palpitaciones	O
+y	O
+comenzaba	O
+a	O
+temblar	O
+sin	O
+una	O
+razón	O
+aparente	O
+.	O

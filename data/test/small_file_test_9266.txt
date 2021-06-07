@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+se	O
+presenta	O
+en	O
+el	O
+momento	O
+asintomático	O
+,	O
+niega	O
+dolor	O
+o	O
+supuración	O
+peritraqueostomía	O
+.	O

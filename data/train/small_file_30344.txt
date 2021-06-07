@@ -1,0 +1,11 @@
+
+Abdomen	O
+:	O
+blando	O
+depresible	O
+,	O
+sin	O
+masas	O
+ni	O
+megalias	O
+.	O

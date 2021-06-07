@@ -1,0 +1,26 @@
+
+Refiere	O
+mejoría	O
+franca	O
+del	O
+dolor	O
+,	O
+con	O
+respuesta	O
+parcial	O
+por	O
+criterios	O
+RECIST	O
+,	O
+presentando	O
+astenia	O
+G2	O
+y	O
+neumonitis	O
+post	O
+-	O
+RT	O
+como	O
+efectos	O
+secundarios	O
+.	O

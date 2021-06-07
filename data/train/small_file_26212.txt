@@ -1,0 +1,8 @@
+
+MEC	O
+-	O
+30	O
+:	O
+29	O
+puntos	O
+.	O

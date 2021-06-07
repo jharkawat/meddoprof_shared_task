@@ -1,0 +1,12 @@
+
+No	O
+presentaba	O
+ningún	O
+otro	O
+antecedente	O
+personal	O
+ni	O
+familiar	O
+de	O
+interés	O
+.	O

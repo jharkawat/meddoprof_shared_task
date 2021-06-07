@@ -1,0 +1,13 @@
+
+Médico	B-PROFESION
+:	O
+Pedro	O
+Veiga	O
+San	O
+Román	O
+NºCol	O
+:	O
+08	O
+08	O
+45698	O
+.	O

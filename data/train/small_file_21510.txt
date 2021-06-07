@@ -1,0 +1,22 @@
+
+Acaba	O
+de	O
+terminar	O
+la	O
+carrera	O
+y	O
+aun	O
+no	B-SITUACION_LABORAL
+trabaja	I-SITUACION_LABORAL
+,	O
+está	O
+planteándose	O
+cursar	O
+un	O
+posgrado	O
+por	O
+recomendación	O
+de	O
+su	O
+padre	O
+.	O

@@ -1,0 +1,25 @@
+
+El	O
+diagnóstico	O
+diferencial	O
+en	O
+la	O
+actualidad	O
+,	O
+es	O
+entre	O
+un	O
+deterioro	O
+cognitivo	O
+asociado	O
+a	O
+enfermedad	O
+mental	O
+grave	O
+o	O
+deterioro	O
+cognitivo	O
+de	O
+tipo	O
+neurodegenerativo	O
+.	O

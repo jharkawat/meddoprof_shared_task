@@ -1,0 +1,17 @@
+
+Además	O
+,	O
+se	O
+observa	O
+hipertricosis	O
+que	O
+afecta	O
+a	O
+las	O
+cuatro	O
+extremidades	O
+y	O
+a	O
+la	O
+espalda	O
+.	O

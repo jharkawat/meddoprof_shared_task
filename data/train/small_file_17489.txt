@@ -1,0 +1,7 @@
+
+La	O
+paciente	O
+trabaja	O
+como	O
+enfermera	B-PROFESION
+.	O

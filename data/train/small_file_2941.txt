@@ -1,0 +1,13 @@
+
+Valorada	O
+en	O
+Neumología	O
+por	O
+insuficiencia	O
+cardiorrespiratoria	O
+se	O
+prescribe	O
+oxígeno	O
+a	O
+domicilio	O
+.	O

@@ -1,0 +1,14 @@
+
+Anteriormente	O
+había	O
+tenido	O
+encuentros	O
+con	O
+traficantes	B-PROFESION
+porque	O
+durante	O
+años	O
+había	O
+consumido	O
+metanfetamina	O
+.	O

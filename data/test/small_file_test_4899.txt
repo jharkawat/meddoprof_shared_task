@@ -1,0 +1,23 @@
+
+Paciente	O
+varón	O
+de	O
+39	O
+años	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+;	O
+intervenido	O
+de	O
+hernia	O
+inguinal	O
+derecha	O
+y	O
+amigdalectomía	O
+en	O
+la	O
+infancia	O
+.	O

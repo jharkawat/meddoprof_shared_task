@@ -1,0 +1,24 @@
+
+A	O
+la	O
+exploración	O
+:	O
+artritis	O
+de	O
+manos	O
+(	O
+MCF	O
+e	O
+IFP	O
+más	O
+la	O
+izquierda	O
+)	O
+con	O
+limitación	O
+de	O
+la	O
+movilidad	O
+y	O
+dolor	O
+.	O

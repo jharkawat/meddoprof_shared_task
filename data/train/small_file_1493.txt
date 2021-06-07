@@ -1,0 +1,7 @@
+
+País	O
+de	O
+nacimiento	O
+:	O
+España	O
+.	O

@@ -1,0 +1,11 @@
+
+Duelo	O
+normal	O
+vs	O
+Duelo	O
+de	O
+riesgo	O
+vs	O
+Duelo	O
+patológico	O
+.	O

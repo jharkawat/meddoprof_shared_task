@@ -1,0 +1,23 @@
+
+La	O
+sospecha	O
+diagnostica	O
+inicial	O
+fue	O
+de	O
+lupus	O
+-	O
+like	O
+con	O
+presencia	O
+de	O
+3	O
+/	O
+11	O
+criterios	O
+clasificatorios	O
+del	O
+ACR	O
+de	O
+1997	O
+.	O

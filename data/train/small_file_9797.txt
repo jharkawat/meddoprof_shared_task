@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+ingresó	O
+para	O
+observación	O
+evolutiva	O
+y	O
+estudio	O
+.	O

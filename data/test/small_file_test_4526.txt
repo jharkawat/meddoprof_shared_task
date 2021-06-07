@@ -1,0 +1,7 @@
+
+com	O
+/	O
+colonstandard	O
+.	O
+jsp	O
+.	O

@@ -1,0 +1,20 @@
+
+Se	O
+la	O
+colocó	O
+en	O
+decúbito	O
+prono	O
+con	O
+paralización	O
+intermitente	O
+para	O
+mejorar	O
+la	O
+oxigenación	O
+y	O
+sincronizarla	O
+con	O
+el	O
+respirador	O
+.	O

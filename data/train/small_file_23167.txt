@@ -1,0 +1,20 @@
+
+Lenguaje	O
+espontáneo	O
+,	O
+con	O
+habla	O
+lenta	O
+y	O
+aumento	O
+en	O
+el	O
+tiempo	O
+de	O
+respuesta	O
+;	O
+discurso	O
+coherente	O
+,	O
+empobrecido	O
+.	O

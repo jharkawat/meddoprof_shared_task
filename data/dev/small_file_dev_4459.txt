@@ -1,0 +1,26 @@
+
+Evaluación	O
+de	O
+columna	O
+lumbar	O
+y	O
+sacra	O
+:	O
+signo	O
+de	O
+Lasegue	O
+positivo	O
+,	O
+disminución	O
+de	O
+reflejo	O
+rotuliano	O
+y	O
+tibial	O
+posterior	O
+,	O
+sin	O
+otros	O
+datos	O
+positivos	O
+.	O

@@ -1,0 +1,6 @@
+
+Jubilado	B-SITUACION_LABORAL
+hace	O
+10	O
+años	O
+.	O

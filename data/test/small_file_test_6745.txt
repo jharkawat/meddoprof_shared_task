@@ -1,0 +1,17 @@
+
+Diagnosticado	O
+en	O
+el	O
+2015	O
+de	O
+meningioma	O
+del	O
+seno	O
+cavernoso	O
+tratado	O
+mediante	O
+radiocirugía	O
+con	O
+gamma	O
+knife	O
+.	O

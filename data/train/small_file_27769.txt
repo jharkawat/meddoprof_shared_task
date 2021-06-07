@@ -1,0 +1,6 @@
+
+Aspecto	O
+correcto	O
+y	O
+aseado	O
+.	O

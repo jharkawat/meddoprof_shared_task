@@ -1,0 +1,10 @@
+
+Se	O
+descartaron	O
+complicaciones	O
+intracraneales	O
+y	O
+trombosis	O
+de	O
+senos	O
+.	O

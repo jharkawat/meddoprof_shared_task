@@ -1,0 +1,12 @@
+
+Categoría	O
+y	O
+subcategoría	O
+:	O
+retos	O
+familiares	O
+(	O
+el	O
+padre	O
+)	O
+.	O

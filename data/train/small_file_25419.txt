@@ -1,0 +1,23 @@
+
+La	O
+fase	O
+de	O
+inducción	O
+comienza	O
+en	O
+octubre	O
+de	O
+2008	O
+y	O
+duró	O
+tres	O
+días	O
+;	O
+con	O
+una	O
+dosis	O
+inicial	O
+de	O
+8	O
+mg	O
+.	O

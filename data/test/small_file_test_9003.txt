@@ -1,0 +1,8 @@
+
+No	O
+presentó	O
+historia	O
+familiar	O
+de	O
+neoplasias	O
+.	O

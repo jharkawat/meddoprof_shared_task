@@ -1,0 +1,14 @@
+
+Mycoplasma	O
+pneumoniae	O
+:	O
+IgG	O
+2	O
+.	O
+2	O
+e	O
+IgM	O
+2	O
+.	O
+8	O
+.	O

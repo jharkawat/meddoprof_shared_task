@@ -1,0 +1,22 @@
+
+Durante	O
+su	O
+internamiento	O
+se	O
+encontró	O
+tranquilo	O
+,	O
+con	O
+somnolencia	O
+y	O
+niega	O
+alucinaciones	O
+,	O
+continua	O
+desorientado	O
+y	O
+con	O
+alteración	O
+de	O
+memoria	O
+.	O

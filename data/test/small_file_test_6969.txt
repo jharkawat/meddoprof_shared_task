@@ -1,0 +1,18 @@
+
+Dada	O
+la	O
+toxicidad	O
+inmunorrelacionada	O
+y	O
+la	O
+ausencia	O
+de	O
+progresión	O
+radiológica	O
+,	O
+se	O
+decide	O
+seguir	O
+con	O
+controles	O
+.	O

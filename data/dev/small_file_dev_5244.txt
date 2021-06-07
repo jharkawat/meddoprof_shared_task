@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+está	O
+consciente	O
+y	O
+colaboradora	O
+,	O
+desorientada	O
+en	O
+tiempo	O
+y	O
+espacio	O
+,	O
+presenta	O
+lenguaje	O
+desorganizado	O
+.	O

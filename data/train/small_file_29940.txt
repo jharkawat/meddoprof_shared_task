@@ -1,0 +1,20 @@
+
+En	O
+tercero	O
+de	O
+primaria	O
+le	O
+llevaron	O
+a	O
+un	O
+psicólogo	B-PROFESION
+pues	O
+los	O
+padres	O
+le	O
+notaban	O
+muy	O
+nervioso	O
+e	O
+inquieto	O
+.	O

@@ -1,0 +1,8 @@
+
+Proteinograma	O
+en	O
+sangre	O
+y	O
+orina	O
+normales	O
+.	O

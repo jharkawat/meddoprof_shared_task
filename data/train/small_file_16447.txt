@@ -1,0 +1,9 @@
+
+Niega	O
+agravamiento	O
+con	O
+la	O
+actividad	O
+física	O
+rutinaria	O
+.	O

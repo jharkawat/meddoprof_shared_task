@@ -1,0 +1,23 @@
+
+En	O
+la	O
+exploración	O
+física	O
+la	O
+paciente	O
+estaba	O
+hemodinámicamente	O
+estable	O
+,	O
+con	O
+buen	O
+estado	O
+general	O
+,	O
+normocoloreada	O
+,	O
+bien	O
+hidratada	O
+y	O
+eupneica	O
+.	O

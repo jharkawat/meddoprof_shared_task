@@ -1,0 +1,10 @@
+
+Su	O
+ánimo	O
+está	O
+empeorando	O
+y	O
+está	O
+muy	O
+asustado	O
+.	O

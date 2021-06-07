@@ -1,0 +1,26 @@
+
+Se	O
+desempeña	O
+como	O
+vendedor	B-PROFESION
+calificado	I-PROFESION
+de	I-PROFESION
+una	I-PROFESION
+empresa	I-PROFESION
+multinacional	I-PROFESION
+de	I-PROFESION
+gaseosas	I-PROFESION
+que	O
+últimamente	O
+modificó	O
+su	O
+staff	B-PROFESION
+de	I-PROFESION
+ventas	I-PROFESION
+por	O
+la	O
+incorporación	O
+de	O
+nuevas	O
+tecnologías	O
+.	O

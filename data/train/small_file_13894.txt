@@ -1,0 +1,24 @@
+
+Fue	O
+tratado	O
+por	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Familia	I-PROFESION
+con	O
+azitromicina	O
+y	O
+levofloxacino	O
+por	O
+sospecha	O
+de	O
+neumonía	O
+adquirida	O
+en	O
+la	O
+comunidad	O
+,	O
+sin	O
+mejoría	O
+.	O

@@ -1,0 +1,22 @@
+
+La	O
+madre	O
+de	O
+Claudia	O
+tiene	O
+una	O
+amplia	O
+historia	O
+de	O
+problemas	O
+mentales	O
+,	O
+con	O
+múltiples	O
+hospitalizaciones	O
+y	O
+un	O
+largo	O
+tratamiento	O
+ambulatorio	O
+.	O

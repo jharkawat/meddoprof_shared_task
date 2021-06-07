@@ -1,0 +1,23 @@
+
+Reducimos	O
+la	O
+dosis	O
+de	O
+risperidona	O
+a	O
+4	O
+mg	O
+/	O
+día	O
+pero	O
+,	O
+tras	O
+varios	O
+días	O
+,	O
+persisten	O
+los	O
+mismos	O
+síntomas	O
+secundarios	O
+.	O

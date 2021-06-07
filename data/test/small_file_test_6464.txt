@@ -1,0 +1,15 @@
+
+En	O
+agosto	O
+2015	O
+,	O
+de	O
+nuevo	O
+ingreso	O
+hospitalario	O
+por	O
+diplopia	O
+binocular	O
+y	O
+vértigo	O
+.	O

@@ -1,0 +1,5 @@
+
+Planta	O
+-	O
+1	O
+.	O

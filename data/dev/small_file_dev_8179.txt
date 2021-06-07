@@ -1,0 +1,22 @@
+
+Estaba	O
+consciente	O
+,	O
+orientado	O
+y	O
+colaborador	O
+pero	O
+bradipsíquico	O
+,	O
+con	O
+tensión	O
+arterial	O
+110	O
+/	O
+80	O
+y	O
+temperatura	O
+37	O
+,	O
+4oC	O
+.	O

@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+quedó	O
+hospitalizado	O
+en	O
+la	O
+Unidad	O
+de	O
+Medicina	O
+Interna	O
+.	O

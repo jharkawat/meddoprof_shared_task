@@ -1,0 +1,22 @@
+
+Al	O
+terminar	O
+la	O
+escuela	O
+salió	O
+con	O
+una	O
+chica	O
+,	O
+pero	O
+luego	O
+perdió	O
+interés	O
+,	O
+y	O
+ella	O
+lo	O
+dejó	O
+por	O
+otro	O
+.	O

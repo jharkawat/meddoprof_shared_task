@@ -1,0 +1,13 @@
+
+-	O
+Posible	O
+alergia	O
+a	O
+metamizol	O
+,	O
+AINEs	O
+y	O
+clavulánico	O
+no	O
+documentadas	O
+.	O

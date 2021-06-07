@@ -1,0 +1,23 @@
+
+Ante	O
+la	O
+normalidad	O
+de	O
+las	O
+diferentes	O
+exploraciones	O
+,	O
+se	O
+descarta	O
+que	O
+los	O
+episodios	O
+que	O
+motivan	O
+el	O
+ingreso	O
+sean	O
+de	O
+origen	O
+comicial	O
+.	O

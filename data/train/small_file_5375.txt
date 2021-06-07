@@ -1,0 +1,12 @@
+
+Auscultación	O
+cardiorrespiratoria	O
+:	O
+tonos	O
+rítmicos	O
+a	O
+buena	O
+frecuencia	O
+sin	O
+soplos	O
+.	O

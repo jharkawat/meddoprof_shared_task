@@ -1,0 +1,10 @@
+
+Es	O
+el	O
+segundo	O
+de	O
+una	O
+fatria	O
+de	O
+tres	O
+.	O

@@ -1,0 +1,14 @@
+
+El	O
+cual	O
+diagnosticó	O
+un	O
+Síndrome	O
+Depresivo	O
+,	O
+indicándole	O
+tratamiento	O
+con	O
+antidepresivos	O
+tricíclicos	O
+.	O

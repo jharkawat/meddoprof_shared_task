@@ -1,0 +1,11 @@
+
+La	O
+razón	O
+de	O
+la	O
+muerte	O
+fue	O
+un	O
+ataque	O
+cardíaco	O
+.	O

@@ -1,0 +1,26 @@
+
+Se	O
+realizó	O
+TC	O
+cérvico	O
+-	O
+torácico	O
+de	O
+control	O
+con	O
+respuesta	O
+radiológica	O
+favorable	O
+,	O
+y	O
+con	O
+posterior	O
+traslado	O
+a	O
+planta	O
+de	O
+hospitalización	O
+de	O
+Enfermedades	O
+Infecciosas	O
+.	O

@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+física	O
+llama	O
+la	O
+atención	O
+crepitación	O
+subcutánea	O
+alrededor	O
+del	O
+cuello	O
+.	O

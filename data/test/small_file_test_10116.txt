@@ -1,0 +1,13 @@
+
+Hipoventilación	O
+en	O
+porción	O
+superior	O
+de	O
+hemitórax	O
+izquierdo	O
+a	O
+la	O
+auscultación	O
+pulmonar	O
+.	O

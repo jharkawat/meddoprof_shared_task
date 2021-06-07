@@ -1,0 +1,15 @@
+
+»	O
+Abdomen	O
+:	O
+blando	O
+y	O
+depresible	O
+con	O
+cicatriz	O
+de	O
+laparotomía	O
+supraumbilical	O
+y	O
+esternotomía	O
+.	O

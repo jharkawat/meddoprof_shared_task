@@ -1,0 +1,14 @@
+
+El	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+,	O
+solicita	O
+interconsulta	O
+al	O
+servicio	O
+de	O
+dermatología	O
+.	O

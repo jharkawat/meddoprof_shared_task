@@ -1,0 +1,8 @@
+
+No	O
+se	O
+aprecia	O
+líquido	O
+libre	O
+intraabdominal	O
+.	O

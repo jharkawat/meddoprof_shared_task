@@ -1,0 +1,16 @@
+
+-	O
+Nódulo	O
+inguinal	O
+derecho	O
+de	O
+1	O
+cm	O
+(	O
+SUVmáx	O
+.	O
+2	O
+,	O
+6	O
+)	O
+.	O

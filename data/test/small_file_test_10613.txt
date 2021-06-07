@@ -1,0 +1,26 @@
+
+Inicialmente	O
+,	O
+considerada	O
+como	O
+de	O
+pronóstico	O
+medio	O
+,	O
+se	O
+comienza	O
+con	O
+sunitinib	O
+50	O
+mg	O
+cada	O
+24	O
+h	O
+durante	O
+4	O
+semanas	O
+y	O
+2	O
+de	O
+descanso	O
+.	O

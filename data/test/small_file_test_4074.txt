@@ -1,0 +1,17 @@
+
+Ingesta	O
+de	O
+licor	O
+:	O
+un	O
+vaso	O
+de	O
+cerveza	O
+con	O
+las	O
+comidas	O
+hasta	O
+diciembre	O
+de	O
+2011	O
+.	O

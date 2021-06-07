@@ -1,0 +1,15 @@
+
+Desde	O
+enfermería	O
+,	O
+se	O
+realiza	O
+valoración	O
+al	O
+ingreso	O
+y	O
+posterior	O
+atención	O
+al	O
+paciente	O
+.	O

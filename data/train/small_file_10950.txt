@@ -1,0 +1,9 @@
+
+Abdomen	O
+:	O
+blando	O
+,	O
+depresible	O
+,	O
+indoloro	O
+.	O

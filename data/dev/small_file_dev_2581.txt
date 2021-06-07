@@ -1,0 +1,15 @@
+
+Presenta	O
+hiporexia	O
+con	O
+perdida	O
+ponderal	O
+,	O
+insomnio	O
+de	O
+conciliación	O
+y	O
+falta	O
+de	O
+libido	O
+.	O

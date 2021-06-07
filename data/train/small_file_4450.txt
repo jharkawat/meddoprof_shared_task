@@ -1,0 +1,27 @@
+
+Comenta	O
+que	O
+su	O
+madre	O
+ha	O
+sido	O
+valorada	O
+por	O
+psicólogo	B-PROFESION
+privado	O
+y	O
+nos	O
+muestra	O
+el	O
+móvil	O
+con	O
+el	O
+nombre	O
+de	O
+un	O
+antidepresivo	O
+recomendado	O
+por	O
+dicho	O
+profesional	B-PROFESION
+.	O

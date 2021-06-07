@@ -1,0 +1,21 @@
+
+En	O
+la	O
+muñeca	O
+izquierda	O
+se	O
+observó	O
+fractura	O
+antigua	O
+impactada	O
+en	O
+el	O
+radio	O
+en	O
+relación	O
+con	O
+los	O
+antecedentes	O
+del	O
+paciente	O
+.	O

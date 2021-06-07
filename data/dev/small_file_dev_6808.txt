@@ -1,0 +1,16 @@
+
+Absceso	O
+en	O
+músculo	O
+psoas	O
+izquierdo	O
+en	O
+contacto	O
+con	O
+la	O
+endoprótesis	O
+de	O
+la	O
+misma	O
+etiología	O
+.	O
