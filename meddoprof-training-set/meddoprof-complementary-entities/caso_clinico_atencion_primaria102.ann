@@ -1,0 +1,132 @@
+T1	SINTOMA 71 85	adormecimiento
+T2	SINTOMA 88 123	pérdida de fuerzas en ambas piernas
+T3	SINTOMA 334 374	pérdida de fuerza en miembros inferiores
+T4	SINTOMA 379 411	hormigueo de cintura hacia abajo
+T5	SINTOMA 414 436	algias en pantorrillas
+T6	SINTOMA 1018 1024	soplos
+T7	SINTOMA 1170 1185	visceromegalias
+T8	SINTOMA 1266 1333	sensibilidad superficial táctil y fuerza de extremidades inferiores
+T9	SINTOMA 1372 1408	pulsos pedios presentes y simétricos
+T10	SINTOMA 1950 1959	fallecido
+T11	SINTOMA 2267 2284	pérdida de fuerza
+T12	SINTOMA 2286 2312	claudicación con la marcha
+T13	SINTOMA 2627 2644	síntomas lumbares
+T14	SINTOMA 3483 3501	facies cushingoide
+T15	SINTOMA 4385 4398	palpitaciones
+T16	SINTOMA 4574 4588	fatiga general
+T17	SINTOMA 4642 4656	dolor torácico
+T18	SINTOMA 5785 5792	astenia
+T19	SINTOMA 5795 5801	disnea
+T20	PROCEDIMIENTO 852 870	Exploración física
+T21	PROCEDIMIENTO 3746 3751	AINES
+T22	PROCEDIMIENTO 3768 3782	antidepresivos
+T23	PROCEDIMIENTO 3784 3799	corticoides....
+T24	PROCEDIMIENTO 4100 4122	exploración ecográfica
+T25	PROCEDIMIENTO 4882 4893	Eco-doppler
+T26	PROCEDIMIENTO 5226 5238	RMN cardíaca
+T27	PROCEDIMIENTO 5583 5606	Cateterismo terapéutico
+T28	NEG 1014 1017	sin
+T29	NSCO 1018 1045	soplos, roces ni extratonos
+T30	NEG 1102 1105	Sin
+T31	NSCO 1106 1135	ruidos patológicos de interés
+T32	NEG 1167 1169	No
+T33	NSCO 1170 1185	visceromegalias
+T34	NEG 1334 1337	sin
+T35	NSCO 1338 1350	alteraciones
+T36	NEG 1537 1540	sin
+T37	NSCO 1541 1553	alteraciones
+T38	NEG 1640 1643	Sin
+T39	NSCO 1644 1668	hallazgos significativos
+T40	UNC 2204 2212	posibles
+T41	USCO 2213 2265	causantes de los síntomas de los miembros inferiores
+T42	NEG 2613 2615	no
+T43	NSCO 2616 2644	presentaba síntomas lumbares
+T44	NEG 2944 2946	no
+T45	NSCO 2947 2963	parecía probable
+T46	NEG 2969 2980	ausencia de
+T47	NSCO 2981 3005	antecedentes específicos
+T48	NEG 3447 3449	no
+T49	NSCO 3450 3568	presentaba signos exploratorios (facies cushingoide, estrías...en el hipercortisolismo) ni alteraciones de laboratorio
+T50	NEG 3659 3661	no
+T51	NSCO 3662 3734	se pensó en esta posibilidad apoyándose en la presencia de pulsos pedios
+T52	NEG 3799 3801	no
+T53	NSCO 3802 3817	eran utilizados
+T54	NEG 3967 3977	desestiman
+T55	NSCO 3978 4035	las alteraciones en la columna como causa de los síntomas
+T56	NEG 4517 4520	sin
+T57	NSCO 4521 4530	hallazgos
+T58	NSCO 4531 4612	-Ergometría.- Debe detenerse por presentar fatiga general a los 6.20 min de BRUCE
+T59	NEG 4614 4616	No
+T60	NSCO 4617 4656	eventos arrítmicos ni de dolor torácico
+T61	NEG 4714 4725	Se descarta
+T62	NSCO 4726 4756	enfermedad hiperaldosteronismo
+T63	NSCO 4757 4768	-Valoración
+T64	NEG 5521 5524	sin
+T65	NSCO 5525 5548	realce miocardio tardío
+T66	NEG 5677 5680	Sin
+T67	NSCO 5681 5709	gradientes post intervención
+T68	NEG 5724 5739	ha desaparecido
+T69	NSCO 5740 5780	la sintomatología de miembros inferiores
+T70	NEG 5894 5896	no
+T71	NSCO 5897 5949	se comprobaron en la evaluación inicial del paciente
+T72	FARMACO 719 729	Bromazepam
+T73	FARMACO 741 749	Atenolol
+T74	FARMACO 761 770	Enalapril
+T75	FARMACO 771 801	20mg+Hidroclorotiazida 6mg/24h
+T76	FARMACO 803 812	Omeprazol
+T77	FARMACO 824 833	Metamizol
+T78	ORG_VIVO 27 35	paciente
+T79	ORG_VIVO 42 47	varón
+T80	ORG_VIVO 281 289	paciente
+T81	ORG_VIVO 528 538	personales
+T82	ORG_VIVO 1760 1768	familiar
+T83	ORG_VIVO 1783 1791	Paciente
+T84	ORG_VIVO 1832 1837	hijos
+T85	ORG_VIVO 1893 1912	soldado profesional
+T86	ORG_VIVO 1924 1932	juventud
+T87	ORG_VIVO 1936 1944	hermanos
+T88	ORG_VIVO 1999 2009	familiares
+T89	ORG_VIVO 2026 2034	hermanos
+T90	ORG_VIVO 2428 2436	paciente
+T91	ORG_VIVO 2604 2612	paciente
+T92	ORG_VIVO 3438 3446	paciente
+T93	ORG_VIVO 3825 3833	paciente
+T94	ORG_VIVO 4049 4057	cirujano
+T95	ORG_VIVO 5941 5949	paciente
+T96	ENFERMEDAD 146 167	hipertensión arterial
+T97	ENFERMEDAD 630 641	ferropénica
+T98	ENFERMEDAD 642 654	-Hemorroides
+T99	ENFERMEDAD 657 668	Fisura anal
+T100	ENFERMEDAD 1170 1185	visceromegalias
+T101	ENFERMEDAD 2039 2047	diabetes
+T102	ENFERMEDAD 2070 2085	cáncer de colon
+T103	ENFERMEDAD 2108 2123	cáncer de labio
+T104	ENFERMEDAD 2358 2393	trombosis aórtica, iliaca o femoral
+T105	ENFERMEDAD 2527 2544	discopatía lumbar
+T106	ENFERMEDAD 2546 2573	estenosis del canal medular
+T107	ENFERMEDAD 2575 2600	fracturas vertebrales....
+T108	ENFERMEDAD 2730 2753	Neuropatías periféricas
+T109	ENFERMEDAD 2755 2763	diabetes
+T110	ENFERMEDAD 2799 2827	Tumores medulares: Schwanoma
+T111	ENFERMEDAD 2829 2880	Neurofibroma...Enfermedad de la unión neuromuscular
+T112	ENFERMEDAD 2882 2915	Miasteni Gravis, Eaton-Lambert...
+T113	ENFERMEDAD 3077 3098	hipertensión arterial
+T114	ENFERMEDAD 3120 3170	Enfermedad renal primaria tanto aguda como crónica
+T115	ENFERMEDAD 3172 3197	Hipertensión renovascular
+T116	ENFERMEDAD 3246 3265	insuficiencia renal
+T117	ENFERMEDAD 3297 3325	Hiperaldosteronismo primario
+T118	ENFERMEDAD 3327 3346	Síndrome de Cushing
+T119	ENFERMEDAD 3348 3362	Feocromocitoma
+T120	ENFERMEDAD 3364 3369	Hiper
+T121	ENFERMEDAD 3372 3386	hipotiroidismo
+T122	ENFERMEDAD 3388 3407	Hiperparatiroidismo
+T123	ENFERMEDAD 3409 3420	Acromegalia
+T124	ENFERMEDAD 3519 3536	hipercortisolismo
+T125	ENFERMEDAD 4134 4155	fibrilación auricular
+T126	ENFERMEDAD 4726 4756	enfermedad hiperaldosteronismo
+T127	ENFERMEDAD 4757 4768	-Valoración
+T128	ENFERMEDAD 5155 5201	enfermedad renal crónica de etiología vascular
+T129	ENFERMEDAD 5251 5282	Coartación de Aorta Post-ductal
+T130	PACIENTE-PROFESION 1854 1861	Taxista
+T131	SANITARIO-PROFESION 4049 4066	cirujano vascular
+T132	PACIENTE-PROFESION 1893 1912	soldado profesional

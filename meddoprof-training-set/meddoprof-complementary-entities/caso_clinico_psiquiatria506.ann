@@ -1,0 +1,70 @@
+T1	SINTOMA 291 300	agitación
+T2	SINTOMA 445 473	temblor de reposo asimétrico
+T3	SINTOMA 475 482	rigidez
+T4	SINTOMA 485 497	bradicinesia
+T5	SINTOMA 947 969	alucinaciones visuales
+T6	SINTOMA 974 998	alteraciones de conducta
+T7	SINTOMA 1234 1255	agitación psicomotriz
+T8	SINTOMA 2491 2525	desorientación en tiempo y espacio
+T9	SINTOMA 2527 2553	inestabilidad en la marcha
+T10	SINTOMA 2597 2604	rigidez
+T11	SINTOMA 2606 2618	bradicinesia
+T12	SINTOMA 2620 2636	hipomimia facial
+T13	SINTOMA 2638 2652	habla hipófona
+T14	SINTOMA 2714 2736	alucinaciones visuales
+T15	SINTOMA 3126 3135	agitación
+T16	PROCEDIMIENTO 1996 2022	valoración psicopatológica
+T17	PROCEDIMIENTO 2064 2073	Hemograma
+T18	PROCEDIMIENTO 2133 2143	TC craneal
+T19	PROCEDIMIENTO 3302 3326	medicación antipsicótica
+T20	PROCEDIMIENTO 3669 3684	benzodiacepinas
+T21	PROCEDIMIENTO 3723 3731	opiáceos
+T22	NEG 87 90	sin
+T23	NSCO 91 123	otra patología médica de interés
+T24	NEG 1013 1015	no
+T25	NSCO 1016 1058	remiten con modificaciones del tratamiento
+T26	NEG 1480 1482	no
+T27	NSCO 1483 1527	es posible realizar una adecuada exploración
+T28	NEG 1969 1971	no
+T29	NSCO 1972 2037	es posible realizar una valoración psicopatológica en ese momento
+T30	NEG 2180 2182	No
+T31	NSCO 2183 2298	se observan alteraciones tomodensitométricas significativas, efecto masa, colecciones ni signos de hemorragia aguda
+T32	NEG 2491 2505	desorientación
+T33	NEG 2860 2871	ausencia de
+T34	NSCO 2872 2901	una historia clínica completa
+T35	NEG 2909 2917	falta de
+T36	NSCO 2918 2942	cooperación del paciente
+T37	UNC 3044 3051	posible
+T38	USCO 3052 3063	organicidad
+T39	NEG 3212 3222	excluyendo
+T40	NSCO 3223 3257	otras causas tratables de psicosis
+T41	FARMACO 525 533	levodopa
+T42	FARMACO 803 815	rivastigmina
+T43	FARMACO 3711 3721	amantadina
+T44	FARMACO 3807 3815	levodopa
+T45	FARMACO 3828 3840	rivastigmina
+T46	FARMACO 3856 3865	clozapina
+T47	ORG_VIVO 26 31	varón
+T48	ORG_VIVO 319 327	paciente
+T49	ORG_VIVO 1107 1115	paciente
+T50	ORG_VIVO 1170 1178	paciente
+T51	ORG_VIVO 1291 1299	personal
+T52	ORG_VIVO 1853 1861	paciente
+T53	ORG_VIVO 2795 2803	paciente
+T54	ORG_VIVO 2934 2942	paciente
+T55	ORG_VIVO 3141 3149	personas
+T56	ENFERMEDAD 62 85	enfermedad de Parkinson
+T57	ENFERMEDAD 819 836	ENFERMEDAD ACTUAL
+T58	ENFERMEDAD 1826 1848	hematoma periorbitario
+T59	ENFERMEDAD 2145 2178	atrofia de predominio subcortical
+T60	ENFERMEDAD 2282 2298	hemorragia aguda
+T61	ENFERMEDAD 2312 2336	fractura en seno maxilar
+T62	ENFERMEDAD 2387 2446	Fractura de la pared lateral de la órbita y arco cigomático
+T63	ENFERMEDAD 2620 2636	hipomimia facial
+T64	ENFERMEDAD 3159 3167	psicosis
+T65	ENFERMEDAD 3249 3257	psicosis
+T66	ENFERMEDAD 3519 3547	proceso médico intercurrente
+T67	ENFERMEDAD 3549 3567	infección de orina
+T68	ENFERMEDAD 3569 3583	deshidratación
+T69	PACIENTE-SITUACION_LABORAL 238 256	institucionalizado
+T70	OTROS-PROFESION 1291 1316	personal de la residencia

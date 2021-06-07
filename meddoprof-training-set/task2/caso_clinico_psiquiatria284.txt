@@ -1,0 +1,34 @@
+Motivo de consulta:
+
+Presentamos el caso de una paciente de 14 años que acudió a Urgencias por la aparición de alucinaciones auditivas y dificultades en el lenguaje.
+
+Antecedentes personales:
+
+Menor de 2 hermanos. Embarazo sin complicaciones y parto eutócico. Desarrollo psicomotriz normal. Estudios completados hasta el momento satisfactoriamente, hasta 3o de ESO. Buen desarrollo de habilidades sociales, con buena cobertura tanto a nivel social como familiar. No presentaba antecedentes psiquiátricos personales ni familiares.
+
+Enfermedad Actual:
+
+La paciente acudió al Servicio de Urgencias refiriendo un cuadro de confusión de palabras, con cambios en la nominación, y afirmaba haber oído voces que la llamaban, con cierta conciencia de realidad. La paciente no refería otra clínica asociada a este cuadro.
+
+Se le realizó una exploración neurológica y pruebas complementarias (TAC craneal y LCR) que resultan ser normales, es por ello que fue dada de alta de este servicio. La paciente tras unos días acudió nuevamente a la urgencia por un nuevo cuadro de confusión de palabras con alteración de la nominación puntual y alucinosis auditiva, sin otra clínica asociada. En nuevas pruebas complementarias, se le realizó una nueva punción lumbar donde se observó en líquido cefalorraquídeo la presencia de un ligero aumento de linfocitos, siendo el TAC y EEG normales. Tras este hallazgo la paciente fue ingresada en el Servicio de Pediatría para estudio.
+
+Evolución:
+
+Estando la paciente ingresada en el Servicio de Pediatría avisaron al médico de guardia por un cuadro de agitación psicomotriz con alucinaciones auditivas y disforia importante, que no mejoró tras la administración de Haloperidol oral y Lorazepam de 1mg, es por ello que fue ingresada en la Unidad de Cuidados Intensivos.
+
+Su evolución en UCI fue fluctuante, consistente en alteraciones severas de la conducta con agitación psicomotriz, desinhibición, fluctuaciones del nivel de conciencia, hasta un estado similar a un cuadro de catatonía que duró alrededor de 4-5 días. En ocasiones presentaba cun predominio de movimientos coreoatetoides complejos de extremidades, pelvis y abdomen, con incorporación tónica, con extremidades hiperextendidas en la cama, discinesias orofaciales, chupeteo, salivación e hipertonía. Posteriormente cedió el cuadro motor dando paso a un estado con predominio de alucinaciones auditivas, acompañado de manera intermitente de ecolalia, mutismo, lenguaje ininteligible, y gritos.
+
+Este cuadro fue tratado en primer lugar con antibioterapia extensa y antivíricos por la sospecha de Meningoencefalitis (Ceftriaxona, Ampicilina, Doxiciclina, Ganciclovir, y Amikacina), por los hallazgos en la punción lumbar. Posteriormente se retiraron los antibióticos dado que los resultados de diversos cultivos de Líquido Cefalorraquídeo fueron negativos. Se introdujo un anticomicial para evitar las crisis (Fenitoína) y corticoides (dosis de 60mg/día de metilprednisolona que posteriormente se disminuyeron a 40mg/día).
+
+Se realizó una interconsulta a Psiquiatría con el fin de poder controlar farmacológicamente las agitaciones de la paciente, pautándosele clorazepato dipotásico 15mg, alprazolam 1 mg, y Haloperidol (dosis creciente). Debido a que no se logró controlar en ningún momento estas agitaciones se introdujeron Propofol y Cloruro Mórfico iv que consiguieron frenar los episodios más graves de agitación.
+
+Después de un mes de ingreso en la Unidad de Cuidados Intensivos la paciente empezó a mejorar con un lenguaje coherente y sin discinesias aunque aún persistían de manera recortada los cuadros de agitación y de desorientación. Dada a la estabilidad del cuadro ingresó en la Unidad de Neurología para proseguir con su estudio.
+
+Pruebas Complementarias en Neurología y diagnóstico:
+
+Analítica con hematimetría y bioquímica básicas normales; ANAS, anti-cardiolipina, serología para Borrelia, VIH, sarampión etc. negativos. Punción lumbar con resultado de 140 células el 100% linfocíticas que van en descenso según avanza el ingreso. TAC y RMN cerebral normales.
+
+Ante la sospecha de una posible encefalitis límbica (por la clínica y el resultado de la punción lumbar) se analizó la presencia de Anticuerpos Anti-NMDAR, que resultaron positivos, por lo que se diagnosticó a la paciente de Encefalitis por Anticuerpos antiNMDAR. Así mismo debido a la estrecha relación de esta Encefalitis Límbica con el Teratoma Ovárico se le realizó a la paciente un TAC Body que reveló la presencia de una masa de más de 6 cm en ovario izquierdo, por lo que se le realizó una quistectomía laparoscópica confirmando un Teratoma Ovárico Maduro.
+
+Tratamiento:
+Además de la resección del tumor fue tratada con Inmunoglobulina IV 0,4 mg/kg de peso/día durante 5 días con importante mejoría de la paciente.

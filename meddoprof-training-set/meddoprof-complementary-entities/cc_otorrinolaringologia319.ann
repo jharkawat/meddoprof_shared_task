@@ -1,0 +1,42 @@
+T1	SINTOMA 340 350	ex fumador
+T2	PROCEDIMIENTO 245 256	corticoides
+T3	PROCEDIMIENTO 259 277	antivirales orales
+T4	PROCEDIMIENTO 392 406	otomicroscopia
+T5	PROCEDIMIENTO 513 525	TC mastoides
+T6	PROCEDIMIENTO 638 657	RM de poro acústico
+T7	PROCEDIMIENTO 1357 1387	mastoidectomía radical abierta
+T8	PROCEDIMIENTO 1501 1539	extirpan los restos de cadena osicular
+T9	PROCEDIMIENTO 1562 1588	injerto de fascia temporal
+T10	PROCEDIMIENTO 2061 2063	RM
+T11	PROCEDIMIENTO 2066 2068	TC
+T12	PROCEDIMIENTO 2100 2128	reanimación de nervio facial
+T13	NEG 229 232	Sin
+T14	NSCO 233 256	mejoría con corticoides
+T15	UNC 407 413	parece
+T16	USCO 414 482	existir ocupación posterosuperior intratimpánica con tímpano cerrado
+T17	UNC 676 683	posible
+T18	USCO 684 711	colesteatoma intratimpánico
+T19	NEG 772 774	No
+T20	NSCO 775 842	hay lesiones en conducto auditivo interno ni ángulo pontocerebeloso
+T21	NEG 1174 1177	sin
+T22	NSCO 1178 1256	extenderse hacia el ganglio geniculado ni a través del foramen estilomastoideo
+T23	NEG 1844 1853	negativas
+T24	NEG 1898 1901	sin
+T25	NSCO 1902 1921	clínica vertiginosa
+T26	ORG_VIVO 0 6	Hombre
+T27	ORG_VIVO 55 72	médico de familia
+T28	ORG_VIVO 259 270	antivirales
+T29	ORG_VIVO 297 307	personales
+T30	ORG_VIVO 1858 1866	paciente
+T31	ENFERMEDAD 104 137	parálisis facial periférica aguda
+T32	ENFERMEDAD 206 227	hipoacusia progresiva
+T33	ENFERMEDAD 312 322	hipertenso
+T34	ENFERMEDAD 684 711	colesteatoma intratimpánico
+T35	ENFERMEDAD 779 842	lesiones en conducto auditivo interno ni ángulo pontocerebeloso
+T36	ENFERMEDAD 942 1029	lesión encapsulada, friable y vascularizada que ocupa la totalidad de la caja timpánica
+T37	ENFERMEDAD 1302 1344	osteolisis del yunque y cruras del estribo
+T38	ENFERMEDAD 1771 1781	schwannoma
+T39	ENFERMEDAD 1783 1792	neurinoma
+T40	ENFERMEDAD 2018 2034	parálisis facial
+T41	ENFERMEDAD 2037 2047	hipoacusia
+T42	SANITARIO-PROFESION 55 72	médico de familia

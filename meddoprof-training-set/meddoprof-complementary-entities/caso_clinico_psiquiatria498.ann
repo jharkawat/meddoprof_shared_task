@@ -1,0 +1,45 @@
+T1	SINTOMA 561 624	alteraciones motoras de tipo discinético en la región orofacial
+T2	SINTOMA 644 680	distónico en la región paravertebral
+T3	SINTOMA 1322 1385	espasmos distónicos de tronco, cervicales y miembros superiores
+T4	SINTOMA 1550 1563	involuntarios
+T5	SINTOMA 1566 1603	continuos de la musculatura orofacial
+T6	SINTOMA 1641 1650	orientado
+T7	SINTOMA 1653 1664	euproséxico
+T8	SINTOMA 1791 1820	alteraciones sensoperceptivas
+T9	SINTOMA 1856 1867	apatoabulia
+T10	SINTOMA 3050 3059	distonías
+T11	PROCEDIMIENTO 2361 2386	tratamiento antipsicótico
+T12	PROCEDIMIENTO 2499 2546	tratamiento intramuscular con toxina botulínica
+T13	NEG 122 125	sin
+T14	NSCO 126 178	alergias medicamentosas ni hábitos tóxicos conocidos
+T15	NEG 1761 1764	sin
+T16	NSCO 1765 1786	contenidos delirantes
+T17	NEG 1788 1790	No
+T18	NSCO 1791 1820	alteraciones sensoperceptivas
+T19	NEG 1897 1899	No
+T20	NSCO 1900 1919	ideación autolítica
+T21	NEG 2825 2836	ausencia de
+T22	NSCO 2837 2905	mejoría, los cambios de antipsicóticos y los tratamientos realizados
+T23	FARMACO 397 408	risperidona
+T24	FARMACO 446 471	palmitato de paliperidona
+T25	FARMACO 2214 2224	biperideno
+T26	FARMACO 2227 2240	tetrabenazina
+T27	FARMACO 2389 2400	aripiprazol
+T28	FARMACO 2430 2440	olanzapina
+T29	FARMACO 2529 2546	toxina botulínica
+T30	FARMACO 2943 2952	clozapina
+T31	ORG_VIVO 0 5	Varón
+T32	ORG_VIVO 532 540	paciente
+T33	ORG_VIVO 1046 1054	paciente
+T34	ORG_VIVO 1973 1981	paciente
+T35	ORG_VIVO 2264 2272	paciente
+T36	ORG_VIVO 2591 2599	paciente
+T37	ORG_VIVO 2728 2736	paciente
+T38	ORG_VIVO 3006 3014	paciente
+T39	ORG_VIVO 3130 3138	paciente
+T40	ORG_VIVO 3180 3185	chico
+T41	ENFERMEDAD 36 59	esquizofrenia paranoide
+T42	ENFERMEDAD 126 149	alergias medicamentosas
+T43	ENFERMEDAD 2003 2035	Distonía Crónica Tardía cervical
+T44	ENFERMEDAD 2067 2083	síndrome de Pisa
+T45	ENFERMEDAD 2305 2321	patología motora

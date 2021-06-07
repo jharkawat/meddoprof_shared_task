@@ -1,0 +1,185 @@
+T1	SINTOMA 800 808	febriles
+T2	SINTOMA 1367 1380	hipoglucemias
+T3	SINTOMA 1423 1440	ganancia ponderal
+T4	SINTOMA 1451 1481	dificultades para la deglución
+T5	SINTOMA 1978 2000	estancamiento ponderal
+T6	SINTOMA 2762 2775	Braquicefalia
+T7	SINTOMA 3146 3160	Abdomen normal
+T8	SINTOMA 3778 3796	asimetría corporal
+T9	SINTOMA 3824 3845	mancha café con leche
+T10	SINTOMA 3847 3877	dificultades para la deglución
+T11	SINTOMA 4818 4832	hipertelorismo
+T12	SINTOMA 5013 5022	hipotonía
+T13	SINTOMA 5149 5157	epicanto
+T14	SINTOMA 5159 5170	micrognatia
+T15	SINTOMA 5596 5620	anomalías craneofaciales
+T16	SINTOMA 5850 5863	baja estatura
+T17	SINTOMA 5865 5901	hiperextensión de las articulaciones
+T18	SINTOMA 5903 5919	depresión ocular
+T19	SINTOMA 5989 6000	micrognatia
+T20	SINTOMA 6002 6019	frente prominente
+T21	SINTOMA 6021 6046	hipoacusia neurosensorial
+T22	SINTOMA 6048 6066	anomalías oculares
+T23	SINTOMA 6089 6114	erupción dental retrasada
+T24	SINTOMA 6156 6168	hiperlaxitud
+T25	SINTOMA 6324 6336	manchas café
+T26	SINTOMA 6348 6366	asimetría corporal
+T27	SINTOMA 6368 6396	dificultades de alimentación
+T28	SINTOMA 6433 6460	alteraciones craneofaciales
+T29	SINTOMA 6478 6491	Hipoglucemias
+T30	SINTOMA 6493 6521	dificultades de alimentación
+T31	SINTOMA 7617 7655	asimetría de miembros, cara triangular
+T32	SINTOMA 7664 7716	anomalías como clinodactilia del V dedo de las manos
+T33	SINTOMA 7718 7743	problemas de alimentación
+T34	PROCEDIMIENTO 696 717	ecografías prenatales
+T35	PROCEDIMIENTO 986 993	cesárea
+T36	PROCEDIMIENTO 1519 1537	sonda nasogástrica
+T37	PROCEDIMIENTO 1539 1542	SNG
+T38	PROCEDIMIENTO 1864 1884	Cierre de fontanelas
+T39	PROCEDIMIENTO 2371 2389	exploración física
+T40	PROCEDIMIENTO 2448 2466	Exploración física
+T41	PROCEDIMIENTO 3110 3137	Auscultación cardiopulmonar
+T42	PROCEDIMIENTO 7120 7144	valoración oftalmológica
+T43	PROCEDIMIENTO 7146 7160	ecocardiograma
+T44	PROCEDIMIENTO 7163 7182	ecografía abdominal
+T45	PROCEDIMIENTO 7235 7244	hemograma
+T46	NEG 191 193	no
+T47	NSCO 194 207	consanguíneos
+T48	NEG 273 275	No
+T49	NSCO 276 291	hábitos tóxicos
+T50	NEG 293 295	no
+T51	NSCO 296 314	medicación crónica
+T52	NEG 729 731	no
+T53	NSCO 732 766	se evidencian anomalías congénitas
+T54	NEG 788 790	No
+T55	NSCO 791 859	procesos febriles, infecciones, ni traumatismos durante la gestación
+T56	NEG 861 863	No
+T57	NSCO 864 897	tomó ácido fólico preconcepcional
+T58	UNC 998 1009	sospecha de
+T59	USCO 1010 1042	pérdida de bienestar fetal y RCI
+T60	NEG 1098 1109	desconocido
+T61	NEG 1116 1118	no
+T62	NSCO 1119 1138	precisó reanimación
+T63	NEG 1168 1170	no
+T64	NSCO 1171 1207	consta longitud ni perímetro craneal
+T65	NEG 1296 1298	no
+T66	NSCO 1299 1330	presentó complicaciones mayores
+T67	NEG 2041 2044	sin
+T68	NSCO 2045 2074	constar seguimiento posterior
+T69	NEG 2131 2147	podido descartar
+T70	NSCO 2148 2171	múltiples causas de RCI
+T71	NEG 3563 3565	No
+T72	NSCO 3566 3575	focalidad
+T73	NEG 3672 3683	ausencia de
+T74	NSCO 3684 3707	otros factores causales
+T75	NEG 4347 4355	ausencia
+T76	NSCO 4356 4390	completa o parcial de un cromosoma
+T77	UNC 7021 7029	sospecha
+T78	NEG 7791 7793	no
+T79	NSCO 7794 7841	suele asociar discapacidad intelectual moderada
+T80	ORG_VIVO 151 161	familiares
+T81	ORG_VIVO 168 174	padres
+T82	ORG_VIVO 325 333	familiar
+T83	ORG_VIVO 359 371	progenitores
+T84	ORG_VIVO 396 401	hijos
+T85	ORG_VIVO 588 598	personales
+T86	ORG_VIVO 1031 1036	fetal
+T87	ORG_VIVO 1222 1230	neonatal
+T88	ORG_VIVO 1802 1810	lactante
+T89	ORG_VIVO 2103 2111	familiar
+T90	ORG_VIVO 2114 2122	personal
+T91	ORG_VIVO 2182 2190	maternos
+T92	ORG_VIVO 3709 3717	maternos
+T93	ORG_VIVO 3923 3931	hermanos
+T94	ORG_VIVO 6771 6776	viuda
+T95	ORG_VIVO 8070 8080	individuos
+T96	ENFERMEDAD 95 136	retraso de crecimiento de origen prenatal
+T97	ENFERMEDAD 402 412	fallecidos
+T98	ENFERMEDAD 442 463	cardiopatía congénita
+T99	ENFERMEDAD 470 489	hipoplasia pulmonar
+T100	ENFERMEDAD 746 766	anomalías congénitas
+T101	ENFERMEDAD 810 821	infecciones
+T102	ENFERMEDAD 1039 1042	RCI
+T103	ENFERMEDAD 1442 1448	anemia
+T104	ENFERMEDAD 1639 1659	retraso del lenguaje
+T105	ENFERMEDAD 1815 1823	neumonía
+T106	ENFERMEDAD 2168 2171	RCI
+T107	ENFERMEDAD 2192 2214	infecciones congénitas
+T108	ENFERMEDAD 2289 2304	cromosomopatías
+T109	ENFERMEDAD 2306 2333	enfermedad gastrointestinal
+T110	ENFERMEDAD 2762 2775	Braquicefalia
+T111	ENFERMEDAD 2817 2845	malformación capilar central
+T112	ENFERMEDAD 3302 3326	clinodactilia del V dedo
+T113	ENFERMEDAD 3409 3448	Sindactilia cutánea leve en ambas manos
+T114	ENFERMEDAD 3475 3485	Escoliosis
+T115	ENFERMEDAD 3728 3739	infecciones
+T116	ENFERMEDAD 3798 3822	clinodactilia del V dedo
+T117	ENFERMEDAD 3887 3898	cardiopatía
+T118	ENFERMEDAD 3901 3922	muerte prematura en 2
+T119	ENFERMEDAD 4004 4019	Cromosomopatías
+T120	ENFERMEDAD 4029 4037	trisomía
+T121	ENFERMEDAD 4050 4061	deleción 4p
+T122	ENFERMEDAD 4063 4090	síndrome de Wolf-Hirschhorn
+T123	ENFERMEDAD 4093 4104	deleción 5p
+T124	ENFERMEDAD 4106 4126	síndrome Cri du Chat
+T125	ENFERMEDAD 4129 4143	deleción 12p14
+T126	ENFERMEDAD 4145 4159	deleción 22q11
+T127	ENFERMEDAD 4193 4228	malformaciones congénitas múltiples
+T128	ENFERMEDAD 4230 4274	retraso psicomotor y fenotipo característico
+T129	ENFERMEDAD 4415 4438	deleción isocromosoma X
+T130	ENFERMEDAD 4484 4505	insuficiencia ovárica
+T131	ENFERMEDAD 4526 4537	cardiopatía
+T132	ENFERMEDAD 4539 4554	anomalías óseas
+T133	ENFERMEDAD 4556 4565	linfedema
+T134	ENFERMEDAD 4574 4588	Delecion 12p14
+T135	ENFERMEDAD 4601 4613	microcefalia
+T136	ENFERMEDAD 4616 4662	retraso acompañados de características de SRS
+T137	ENFERMEDAD 4666 4684	Deleción distal 4p
+T138	ENFERMEDAD 4687 4714	síndrome de Wolf-Hirschhorn
+T139	ENFERMEDAD 4716 4740	trastorno del desarrollo
+T140	ENFERMEDAD 4818 4832	hipertelorismo
+T141	ENFERMEDAD 4943 4967	discapacidad intelectual
+T142	ENFERMEDAD 4969 5010	retraso grave en el desarrollo psicomotor
+T143	ENFERMEDAD 5026 5037	Deleción 5p
+T144	ENFERMEDAD 5040 5052	síndrome Cri
+T145	ENFERMEDAD 5062 5084	síndrome caracterizado
+T146	ENFERMEDAD 5116 5128	microcefalia
+T147	ENFERMEDAD 5159 5170	micrognatia
+T148	ENFERMEDAD 5173 5200	retraso psicomotor moderado
+T149	ENFERMEDAD 5204 5228	Enfermedades monogénicas
+T150	ENFERMEDAD 5230 5259	síndrome de Cornelia de Lange
+T151	ENFERMEDAD 5411 5414	RCI
+T152	ENFERMEDAD 5437 5466	reflujo gastroesofágico grave
+T153	ENFERMEDAD 5468 5486	Retraso psicomotor
+T154	ENFERMEDAD 5521 5551	trastorno del espectro autista
+T155	ENFERMEDAD 5553 5573	trastorno conductual
+T156	ENFERMEDAD 5575 5587	microcefalia
+T157	ENFERMEDAD 5596 5620	anomalías craneofaciales
+T158	ENFERMEDAD 5921 5939	anomalía de Rieger
+T159	ENFERMEDAD 5967 5970	RCI
+T160	ENFERMEDAD 5989 6000	micrognatia
+T161	ENFERMEDAD 6021 6046	hipoacusia neurosensorial
+T162	ENFERMEDAD 6048 6066	anomalías oculares
+T163	ENFERMEDAD 6089 6114	erupción dental retrasada
+T164	ENFERMEDAD 6128 6139	lipoatrofia
+T165	ENFERMEDAD 6141 6154	hiperglucemia
+T166	ENFERMEDAD 6156 6168	hiperlaxitud
+T167	ENFERMEDAD 6276 6299	retraso psicomotor leve
+T168	ENFERMEDAD 6302 6322	retraso del lenguaje
+T169	ENFERMEDAD 6531 6541	escoliosis
+T170	ENFERMEDAD 6671 6700	trastorno raro del desarrollo
+T171	ENFERMEDAD 6747 6761	hipertelorismo
+T172	ENFERMEDAD 6794 6815	membrana interdigital
+T173	ENFERMEDAD 6817 6847	hiperlaxitud de articulaciones
+T174	ENFERMEDAD 6849 6862	criptorquidea
+T175	ENFERMEDAD 6864 6879	macroorquidismo
+T176	ENFERMEDAD 6894 6909	escroto en chal
+T177	ENFERMEDAD 6969 6987	retraso psicomotor
+T178	ENFERMEDAD 7048 7074	síndrome de Russell-Silver
+T179	ENFERMEDAD 7469 7495	síndrome de Russell-Silver
+T180	ENFERMEDAD 7498 7508	MIM 180860
+T181	ENFERMEDAD 7516 7533	síndrome genético
+T182	ENFERMEDAD 7552 7555	RCI
+T183	ENFERMEDAD 7745 7777	reflujo gastroesofágico moderado
+T184	ENFERMEDAD 7874 7892	retraso psicomotor
+T185	PACIENTE-SITUACION_LABORAL 0 7	Escolar

@@ -1,0 +1,102 @@
+T1	SINTOMA 86 95	fallecido
+T2	SINTOMA 311 318	fumador
+T3	SINTOMA 432 441	fallecido
+T4	SINTOMA 804 828	alteraciones de conducta
+T5	SINTOMA 875 883	inquieto
+T6	SINTOMA 885 894	irritable
+T7	SINTOMA 919 930	soliloquios
+T8	SINTOMA 1326 1337	somnolencia
+T9	SINTOMA 1611 1619	angustia
+T10	SINTOMA 1622 1635	irritabilidad
+T11	SINTOMA 1686 1699	fallecimiento
+T12	SINTOMA 2100 2109	orientado
+T13	SINTOMA 2191 2215	fallos mnésicos groseros
+T14	SINTOMA 2522 2551	alteraciones sensoperceptivas
+T15	SINTOMA 2692 2714	embotamiento emocional
+T16	SINTOMA 2716 2752	disminución de la capacidad hedónica
+T17	SINTOMA 2755 2761	apatía
+T18	SINTOMA 2832 2840	Insomnio
+T19	SINTOMA 3428 3451	alucinaciones auditivas
+T20	SINTOMA 4305 4313	ansiedad
+T21	SINTOMA 4316 4324	insomnio
+T22	PROCEDIMIENTO 164 192	tratamiento con fenofibratos
+T23	PROCEDIMIENTO 219 234	parto prematuro
+T24	PROCEDIMIENTO 1150 1173	fármacos antipsicóticos
+T25	PROCEDIMIENTO 2974 2983	hemograma
+T26	PROCEDIMIENTO 3039 3055	tóxicos en orina
+T27	NEG 143 145	no
+T28	NSCO 146 149	HTA
+T29	NEG 151 153	No
+T30	NSCO 154 156	DM
+T31	NEG 236 241	Niega
+T32	NSCO 242 268	intervenciones quirúrgicas
+T33	NEG 270 273	Sin
+T34	NSCO 274 292	alergias conocidas
+T35	NEG 896 899	sin
+T36	NSCO 900 912	poder dormir
+T37	NEG 974 976	no
+T38	NSCO 977 1000	ha tomado la medicación
+T39	NEG 1844 1846	no
+T40	NSCO 1847 1867	ha salido a la calle
+T41	NEG 2188 2190	No
+T42	NSCO 2191 2215	fallos mnésicos groseros
+T43	NEG 2217 2219	No
+T44	NSCO 2220 2273	signos/síntomas de intoxicación/abstinencia a tóxicos
+T45	NEG 2488 2493	Niega
+T46	NSCO 2494 2551	fenómenos de primer rango y alteraciones sensoperceptivas
+T47	NEG 2560 2562	no
+T48	NSCO 2563 2582	se pueden descartar
+T49	UNC 2584 2597	Impresiona de
+T50	USCO 2598 2607	minimizar
+T51	NEG 2679 2691	negativos de
+T52	NSCO 2692 2714	embotamiento emocional
+T53	NEG 2763 2768	Niega
+T54	NSCO 2769 2788	ideación autolítica
+T55	NEG 3057 3060	sin
+T56	NSCO 3061 3084	alteraciones reseñables
+T57	NEG 3602 3616	desapareciendo
+T58	NSCO 3617 3645	estas a la semana de ingreso
+T59	NEG 3773 3776	sin
+T60	NSCO 3777 3788	incidencias
+T61	NEG 3940 3943	sin
+T62	NSCO 3944 3955	incidencias
+T63	NEG 4069 4080	ausencia de
+T64	NSCO 4081 4145	psicopatología aguda que justifique una prolongación del ingreso
+T65	FARMACO 674 683	clozapina
+T66	FARMACO 703 712	clozapina
+T67	FARMACO 1224 1233	clozapina
+T68	FARMACO 3696 3705	clozapina
+T69	FARMACO 4223 4232	clozapina
+T70	FARMACO 4249 4258	clozapina
+T71	FARMACO 4278 4287	lorazepam
+T72	ORG_VIVO 0 14	Paciente varón
+T73	ORG_VIVO 54 62	familiar
+T74	ORG_VIVO 70 75	madre
+T75	ORG_VIVO 80 85	padre
+T76	ORG_VIVO 340 346	tabaco
+T77	ORG_VIVO 362 372	familiares
+T78	ORG_VIVO 377 382	padre
+T79	ORG_VIVO 793 798	madre
+T80	ORG_VIVO 1379 1384	madre
+T81	ORG_VIVO 1549 1554	amigo
+T82	ORG_VIVO 1706 1711	padre
+T83	ORG_VIVO 2052 2056	hijo
+T84	ORG_VIVO 3167 3175	paciente
+T85	ORG_VIVO 3329 3334	amigo
+T86	ORG_VIVO 3574 3579	madre
+T87	ORG_VIVO 3881 3891	psiquiatra
+T88	ORG_VIVO 3996 4004	paciente
+T89	ENFERMEDAD 146 149	HTA
+T90	ENFERMEDAD 154 156	DM
+T91	ENFERMEDAD 407 430	esquizofrenia paranoide
+T92	ENFERMEDAD 446 454	suicidio
+T93	ENFERMEDAD 630 653	esquizofrenia paranoide
+T94	ENFERMEDAD 732 749	ENFERMEDAD ACTUAL
+T95	ENFERMEDAD 2239 2273	intoxicación/abstinencia a tóxicos
+T96	ENFERMEDAD 2808 2814	muerte
+T97	ENFERMEDAD 3087 3098	DIAGNÓSTICO
+T98	ENFERMEDAD 3099 3122	Esquizofrenia paranoide
+T99	ENFERMEDAD 3124 3129	F20.0
+T100	ENFERMEDAD 4305 4313	ansiedad
+T101	OTROS-PROFESION 1887 1894	Policía
+T102	SANITARIO-PROFESION 3881 3891	psiquiatra

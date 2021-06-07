@@ -1,0 +1,66 @@
+T1	SINTOMA 827 835	angustia
+T2	SINTOMA 837 848	perplejidad
+T3	SINTOMA 850 887	alteraciones formales del pensamiento
+T4	SINTOMA 889 919	intensa actividad alucinatoria
+T5	SINTOMA 1731 1750	síntomas psicóticos
+T6	SINTOMA 1916 1927	perplejidad
+T7	SINTOMA 1930 1939	catatonía
+T8	SINTOMA 2089 2097	angustia
+T9	SINTOMA 2099 2106	mutista
+T10	SINTOMA 2421 2429	angustia
+T11	SINTOMA 2435 2448	sobresedación
+T12	SINTOMA 2604 2615	soliloquios
+T13	SINTOMA 2617 2624	fascies
+T14	SINTOMA 2665 2685	distonías cervicales
+T15	SINTOMA 2823 2847	paroxismos alucinatorios
+T16	SINTOMA 2943 2956	alucinaciones
+T17	PROCEDIMIENTO 2146 2155	Hemograma
+T18	PROCEDIMIENTO 3688 3697	anestesia
+T19	UNC 1818 1824	dudosa
+T20	USCO 1825 1834	filiación
+T21	NEG 2196 2199	sin
+T22	NSCO 2200 2220	interés.n Bioquímica
+T23	UNC 2371 2382	sospecha de
+T24	USCO 2383 2448	episodios de distonías acompañados de angustia y de sobresedación
+T25	NEG 2493 2495	No
+T26	NSCO 2496 2524	se produce mejoría sostenida
+T27	NEG 2861 2863	no
+T28	NSCO 2864 2872	responde
+T29	FARMACO 703 712	clozapina
+T30	FARMACO 1264 1273	clozapina
+T31	FARMACO 1278 1289	aripiprazol
+T32	FARMACO 1291 1302	amisulprida
+T33	FARMACO 1304 1316	paliperidona
+T34	FARMACO 1339 1350	risperidona
+T35	FARMACO 1532 1541	clozapina
+T36	FARMACO 1544 1555	haloperidol
+T37	FARMACO 3135 3144	clozapina
+T38	FARMACO 3147 3160	zuclopentixol
+T39	FARMACO 3244 3253	clozapina
+T40	FARMACO 3269 3282	zuclopentixol
+T41	FARMACO 3770 3777	esmolol
+T42	FARMACO 3808 3822	succinilcolina
+T43	FARMACO 3865 3874	clozapina
+T44	FARMACO 3891 3904	zuclopentixol
+T45	FARMACO 3921 3930	trazodona
+T46	FARMACO 3982 3994	levotiroxina
+T47	FARMACO 4011 4021	metformina
+T48	ORG_VIVO 0 5	Mujer
+T49	ORG_VIVO 34 43	terapeuta
+T50	ORG_VIVO 202 212	personales
+T51	ORG_VIVO 246 251	padre
+T52	ORG_VIVO 476 486	familiares
+T53	ORG_VIVO 2852 2860	paciente
+T54	ORG_VIVO 2994 3002	paciente
+T55	ENFERMEDAD 291 308	enfermedad mental
+T56	ENFERMEDAD 363 387	diabetes mellitus tipo 2
+T57	ENFERMEDAD 414 417	HTA
+T58	ENFERMEDAD 419 433	hipotiroidismo
+T59	ENFERMEDAD 436 444	obesidad
+T60	ENFERMEDAD 548 571	esquizofrenia paranoide
+T61	ENFERMEDAD 2252 2263	DIAGNÓSTICO
+T62	ENFERMEDAD 2264 2287	Esquizofrenia paranoide
+T63	ENFERMEDAD 2688 2705	crisis oculógiras
+T64	ENFERMEDAD 3723 3743	crisis hipertensivas
+T65	PACIENTE-SITUACION_LABORAL 278 308	Jubilada por enfermedad mental
+T66	SANITARIO-PROFESION 34 43	terapeuta

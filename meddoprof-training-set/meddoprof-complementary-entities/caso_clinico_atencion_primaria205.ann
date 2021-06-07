@@ -1,0 +1,44 @@
+T1	SINTOMA 1415 1427	taquicárdico
+T2	PROCEDIMIENTO 290 299	anamnesis
+T3	PROCEDIMIENTO 361 370	anamnesis
+T4	PROCEDIMIENTO 1393 1414	Auscultación cardíaca
+T5	PROCEDIMIENTO 1542 1545	ECG
+T6	PROCEDIMIENTO 1904 1912	sedación
+T7	PROCEDIMIENTO 2192 2205	test de orina
+T8	PROCEDIMIENTO 2234 2245	TAC craneal
+T9	NEG 224 226	no
+T10	NSCO 227 267	contamos con historial clínico del mismo
+T11	NEG 406 418	negativa del
+T12	NSCO 419 439	paciente a colaborar
+T13	NEG 1134 1139	Nunca
+T14	NSCO 1140 1240	había presentado esta clínica, ni antecedentes familiares de problemas psiquiátricos ni neurológicos
+T15	NEG 1267 1269	no
+T16	NSCO 1270 1293	es consumidor de drogas
+T17	NEG 1354 1356	No
+T18	NSCO 1357 1391	visualización de lesiones cutáneas
+T19	NEG 1630 1633	sin
+T20	NSCO 1634 1646	alteraciones
+T21	NEG 1996 1998	no
+T22	NSCO 1999 2006	perciba
+T23	NEG 2246 2249	sin
+T24	NSCO 2250 2274	alteraciones patológicas
+T25	FARMACO 1926 1935	midazolam
+T26	FARMACO 2218 2231	metanfetamina
+T27	ORG_VIVO 166 174	paciente
+T28	ORG_VIVO 205 213	paciente
+T29	ORG_VIVO 393 398	amigo
+T30	ORG_VIVO 419 427	paciente
+T31	ORG_VIVO 483 491	paciente
+T32	ORG_VIVO 688 693	amigo
+T33	ORG_VIVO 781 786	mujer
+T34	ORG_VIVO 1187 1197	familiares
+T35	ORG_VIVO 1261 1266	amigo
+T36	ORG_VIVO 1657 1665	Familiar
+T37	ORG_VIVO 1718 1723	mujer
+T38	ORG_VIVO 1726 1730	hijo
+T39	ORG_VIVO 1978 1986	paciente
+T40	ORG_VIVO 2118 2126	paciente
+T41	ENFERMEDAD 1066 1072	muerte
+T42	ENFERMEDAD 1374 1391	lesiones cutáneas
+T43	ENFERMEDAD 1803 1827	Síndrome psicótico agudo
+T44	PACIENTE-PROFESION 1680 1687	Biólogo

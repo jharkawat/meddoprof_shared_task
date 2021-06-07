@@ -1,0 +1,114 @@
+T1	SINTOMA 745 760	dolor abdominal
+T2	SINTOMA 783 798	astenia intensa
+T3	SINTOMA 801 833	disminución del estado funcional
+T4	SINTOMA 1637 1652	dolor abdominal
+T5	SINTOMA 3962 3968	fiebre
+T6	SINTOMA 6063 6070	afebril
+T7	PROCEDIMIENTO 71 83	orquiectomía
+T8	PROCEDIMIENTO 86 98	radioterapia
+T9	PROCEDIMIENTO 108 136	enucleación de ojo izquierdo
+T10	PROCEDIMIENTO 1194 1205	laparotomía
+T11	PROCEDIMIENTO 1388 1450	resección ileocecal con anastomosis íleo-cólica latero-lateral
+T12	PROCEDIMIENTO 1727 1740	TAC abdominal
+T13	PROCEDIMIENTO 1828 1851	anastomosis íleo-cólica
+T14	PROCEDIMIENTO 2042 2098	ileostomía en asa, exteriorizando en fosa ilíaca derecha
+T15	PROCEDIMIENTO 2235 2263	revascularización percutánea
+T16	PROCEDIMIENTO 2444 2484	stent en la arteria mesentérica superior
+T17	PROCEDIMIENTO 2520 2582	by-pass de arteria ilíaca común a arteria mesentérica superior
+T18	PROCEDIMIENTO 2612 2629	revascularización
+T19	PROCEDIMIENTO 2683 2693	ileostomía
+T20	PROCEDIMIENTO 2806 2860	resección de un segmento de 15 cm de intestino delgado
+T21	PROCEDIMIENTO 2989 2999	ileostomía
+T22	PROCEDIMIENTO 3023 3046	anastomosis íleo-cólica
+T23	PROCEDIMIENTO 3269 3279	ileostomía
+T24	PROCEDIMIENTO 3361 3381	nutrición parenteral
+T25	PROCEDIMIENTO 3432 3436	PICC
+T26	PROCEDIMIENTO 3564 3574	ileostomía
+T27	PROCEDIMIENTO 3667 3693	nutrición enteral continua
+T28	PROCEDIMIENTO 3767 3777	ileostomía
+T29	PROCEDIMIENTO 3838 3852	nutrición oral
+T30	PROCEDIMIENTO 3975 3987	hemocultivos
+T31	PROCEDIMIENTO 4137 4154	recambio del PICC
+T32	PROCEDIMIENTO 4162 4184	revisión oftalmológica
+T33	PROCEDIMIENTO 4589 4615	nutrición parenteral total
+T34	PROCEDIMIENTO 4765 4798	nutrición parenteral domiciliaria
+T35	PROCEDIMIENTO 5507 5527	nutrición parenteral
+T36	PROCEDIMIENTO 6180 6196	ileostomía menor
+T37	PROCEDIMIENTO 6481 6490	angio-TAC
+T38	PROCEDIMIENTO 6561 6597	restauración del tránsito intestinal
+T39	PROCEDIMIENTO 6630 6663	nutrición parenteral domiciliaria
+T40	NEG 243 245	No
+T41	NSCO 246 297	antecedentes familiares de eventos cardiovasculares
+T42	NEG 299 301	No
+T43	NSCO 302 334	tratamiento farmacológico activo
+T44	NEG 336 338	No
+T45	NSCO 339 394	presenta alergias ni intolerancias alimentarias previas
+T46	UNC 990 998	probable
+T47	USCO 999 1055	relación con isquemia intestinal en asas de íleon distal
+T48	UNC 1947 1960	sugestivos de
+T49	USCO 1961 1986	áreas de perfusión límite
+T50	NEG 1987 1990	sin
+T51	NSCO 1991 2011	necrosis establecida
+T52	NEG 2214 2216	no
+T53	NSCO 2217 2263	siendo posible la revascularización percutánea
+T54	NEG 2486 2489	sin
+T55	NSCO 2490 2495	éxito
+T56	NEG 2861 2863	no
+T57	NSCO 2864 2870	viable
+T58	NEG 3727 3730	sin
+T59	NSCO 3731 3777	conseguir disminuir el débito de la ileostomía
+T60	UNC 3807 3816	no podría
+T61	USCO 3817 3863	ser dado de alta con nutrición oral ni enteral
+T62	NEG 5656 5659	sin
+T63	NSCO 5660 5677	calcio ni fósforo
+T64	NEG 6063 6070	afebril
+T65	NEG 6072 6075	sin
+T66	NSCO 6076 6130	incidencias relacionadas con la conexión y desconexión
+T67	NEG 6322 6325	sin
+T68	NSCO 6326 6376	precisar cambios en la composición de la nutrición
+T69	FARMACO 3620 3630	loperamida
+T70	FARMACO 4110 4120	fluconazol
+T71	FARMACO 5392 5415	clorhexidina alcohólica
+T72	ORG_VIVO 0 5	Varón
+T73	ORG_VIVO 35 45	personales
+T74	ORG_VIVO 259 269	familiares
+T75	ORG_VIVO 426 431	madre
+T76	ORG_VIVO 1455 1463	paciente
+T77	ORG_VIVO 2299 2307	paciente
+T78	ORG_VIVO 2908 2916	paciente
+T79	ORG_VIVO 3482 3490	paciente
+T80	ORG_VIVO 3798 3806	paciente
+T81	ORG_VIVO 3944 3952	paciente
+T82	ORG_VIVO 4016 4024	levadura
+T83	ORG_VIVO 4334 4342	paciente
+T84	ORG_VIVO 4468 4476	paciente
+T85	ORG_VIVO 4683 4691	paciente
+T86	ORG_VIVO 4697 4704	familia
+T87	ORG_VIVO 4710 4717	hermana
+T88	ORG_VIVO 4733 4742	cuidadora
+T89	ORG_VIVO 4837 4845	paciente
+T90	ORG_VIVO 4851 4858	hermana
+T91	ORG_VIVO 5174 5182	paciente
+T92	ORG_VIVO 5460 5468	paciente
+T93	ORG_VIVO 5963 5971	paciente
+T94	ENFERMEDAD 49 57	seminoma
+T95	ENFERMEDAD 141 170	traumatismo ocular accidental
+T96	ENFERMEDAD 196 217	hipertensión arterial
+T97	ENFERMEDAD 905 944	necrosis isquémica de intestino delgado
+T98	ENFERMEDAD 957 985	neumatosis porto-mesentérica
+T99	ENFERMEDAD 1012 1055	isquemia intestinal en asas de íleon distal
+T100	ENFERMEDAD 1071 1130	trombo suboclusivo en arteria mesentérica superior proximal
+T101	ENFERMEDAD 1222 1279	necrosis isquémica de intestino delgado en íleon terminal
+T102	ENFERMEDAD 1691 1723	perforación de intestino delgado
+T103	ENFERMEDAD 1781 1813	perforación de intestino delgado
+T104	ENFERMEDAD 2750 2782	isquemia transmural irreversible
+T105	ENFERMEDAD 3201 3256	fallo intestinal tipo II con intestino delgado residual
+T106	ENFERMEDAD 3291 3349	desnutrición relacionada con la enfermedad moderada-severa
+T107	ENFERMEDAD 3883 3897	deshidratación
+T108	ENFERMEDAD 3900 3912	desnutrición
+T109	ENFERMEDAD 4060 4070	candidemia
+T110	ENFERMEDAD 4234 4244	candidemia
+T111	ENFERMEDAD 4391 4400	infección
+T112	FAMILIAR-SITUACION_LABORAL 4723 4742	principal cuidadora
+T113	SANITARIO-PROFESION 3128 3159	equipo de Nutrición y Dietética
+T114	PACIENTE-PROFESION 466 485	trabaja en el campo

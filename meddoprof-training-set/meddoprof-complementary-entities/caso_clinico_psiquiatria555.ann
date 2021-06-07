@@ -1,0 +1,224 @@
+T1	SINTOMA 119 136	amenazas suicidas
+T2	SINTOMA 718 730	desesperanza
+T3	SINTOMA 864 877	dismorfofobia
+T4	SINTOMA 1480 1489	irritable
+T5	SINTOMA 1495 1516	reacciones disfóricas
+T6	SINTOMA 2069 2077	acúfenos
+T7	SINTOMA 2080 2101	dolor en globo ocular
+T8	SINTOMA 2154 2162	lagrimeo
+T9	SINTOMA 2382 2418	algias inespecíficas osteomusculares
+T10	SINTOMA 3366 3375	hidratada
+T11	SINTOMA 3378 3392	normocoloreada
+T12	SINTOMA 3500 3510	meningismo
+T13	SINTOMA 3531 3538	cefalea
+T14	SINTOMA 3552 3561	fotofobia
+T15	SINTOMA 3563 3569	ptosis
+T16	SINTOMA 3572 3593	enrojecimiento ocular
+T17	SINTOMA 3708 3713	dolor
+T18	SINTOMA 3724 3744	Dolor a la palpación
+T19	SINTOMA 3875 3894	asimetrías faciales
+T20	SINTOMA 4097 4107	consciente
+T21	SINTOMA 4110 4119	orientada
+T22	SINTOMA 4145 4157	colaboradora
+T23	SINTOMA 4224 4239	facies dolorida
+T24	SINTOMA 4301 4306	dolor
+T25	SINTOMA 4683 4692	anhedonia
+T26	SINTOMA 4694 4700	apatía
+T27	SINTOMA 4703 4714	sentimiento
+T28	SINTOMA 4718 4728	minusvalía
+T29	SINTOMA 4731 4742	incapacidad
+T30	SINTOMA 4823 4837	desesperanzada
+T31	SINTOMA 5776 5784	angustia
+T32	SINTOMA 6870 6908	alucinaciones corporales superficiales
+T33	SINTOMA 7051 7059	acúfenos
+T34	SINTOMA 7141 7150	hiporexia
+T35	SINTOMA 7155 7171	perdida ponderal
+T36	SINTOMA 7173 7181	insomnio
+T37	SINTOMA 7200 7215	falta de libido
+T38	SINTOMA 8756 8764	delirios
+T39	SINTOMA 8837 8850	alucinaciones
+T40	SINTOMA 9528 9536	delirios
+T41	SINTOMA 9839 9851	desesperanza
+T42	SINTOMA 9854 9866	culpabilidad
+T43	SINTOMA 10256 10264	delirios
+T44	SINTOMA 10468 10473	dolor
+T45	SINTOMA 11295 11303	delirios
+T46	PROCEDIMIENTO 2819 2846	tratamientos antidepresivos
+T47	PROCEDIMIENTO 2887 2901	antipsicóticos
+T48	PROCEDIMIENTO 3394 3420	Exploración cardiopulmonar
+T49	PROCEDIMIENTO 3638 3673	palpación de ambos puntos de Arnold
+T50	PROCEDIMIENTO 3949 3969	electroencefalograma
+T51	PROCEDIMIENTO 3984 4014	tomografia axial computarizada
+T52	PROCEDIMIENTO 6634 6648	rehabilitación
+T53	PROCEDIMIENTO 10314 10335	terapia antidepresiva
+T54	PROCEDIMIENTO 10425 10435	analgésico
+T55	PROCEDIMIENTO 10631 10652	terapia antipsicótica
+T56	PROCEDIMIENTO 10915 10929	antipsicóticos
+T57	NEG 469 478	le retira
+T58	NSCO 479 488	la mirada
+T59	NEG 879 882	sin
+T60	NSCO 883 927	reacciones adversas medicamentosas conocidas
+T61	NEG 961 964	sin
+T62	NSCO 965 1006	otros hábitos tóxicos presentes o pasados
+T63	NEG 1621 1629	falta de
+T64	NSCO 1630 1644	ayuda recibida
+T65	NEG 1759 1769	incapaz de
+T66	NSCO 1770 1791	iniciar algún trabajo
+T67	NEG 2145 2153	falta de
+T68	NSCO 2154 2162	lagrimeo
+T69	NEG 2205 2208	sin
+T70	NSCO 2209 2238	alcanzar la remisión completa
+T71	NEG 2351 2354	sin
+T72	NSCO 2355 2371	remisión clínica
+T73	NEG 2389 2402	inespecíficas
+T74	NSCO 2403 2418	osteomusculares
+T75	NEG 3442 3453	Ausencia de
+T76	NSCO 3454 3475	focalidad neurológica
+T77	NEG 3477 3479	No
+T78	NSCO 3480 3510	rigidez o signos de meningismo
+T79	NEG 3540 3551	ausencia de
+T80	NSCO 3552 3561	fotofobia
+T81	NEG 3615 3617	no
+T82	NSCO 3618 3633	están a presión
+T83	NEG 3690 3692	no
+T84	NSCO 3693 3723	desencadena un dolor irradiado
+T85	NEG 3860 3862	No
+T86	NSCO 3863 3936	se observan asimetrías faciales o corporales ni tampoco estigmas cutáneos
+T87	NEG 4016 4019	sin
+T88	NSCO 4020 4041	hallazgos patológicos
+T89	NEG 4193 4195	no
+T90	NSCO 4196 4213	le podemos ayudar
+T91	NEG 4262 4265	sin
+T92	NSCO 4266 4306	poder levantarse por las quejas de dolor
+T93	NEG 4410 4413	sin
+T94	NSCO 4414 4431	déficits mnésicos
+T95	NEG 4562 4572	incapaz de
+T96	NSCO 4573 4664	reconducirse hacia otras esferas de la vida ni de diferenciar lo primordial de lo accesorio
+T97	NEG 4731 4742	incapacidad
+T98	NEG 4782 4793	ausencia de
+T99	NSCO 4794 4801	mejoría
+T100	UNC 4989 4995	podría
+T101	USCO 4996 5029	haber evitado todas las dolencias
+T102	NEG 5539 5541	No
+T103	NEG 6572 6575	sin
+T104	NSCO 6576 6595	quedar satisfecha o
+T105	NEG 7093 7095	no
+T106	NSCO 7096 7130	impresionan de origen alucinatorio
+T107	NEG 7200 7208	falta de
+T108	NSCO 7209 7215	libido
+T109	NEG 7367 7385	imposibilidad para
+T110	NSCO 7386 7423	el manejo ambulatorio de los síntomas
+T111	NEG 7679 7682	sin
+T112	NSCO 7683 7687	duda
+T113	NEG 7957 7968	se descartó
+T114	NSCO 7969 8013	el diagnóstico trastorno dismórfico corporal
+T115	NEG 8410 8412	No
+T116	NEG 8793 8801	negativa
+T117	NSCO 8801 8858	, desorganización del pensamiento o alucinaciones francas
+T118	NEG 8870 8872	no
+T119	NSCO 8873 8894	cumplir el criterio E
+T120	NEG 8910 8912	no
+T121	NSCO 8913 8954	se puede atribuir a otra afección médica"
+T122	NEG 10368 10371	sin
+T123	NSCO 10372 10390	observarse mejoría
+T124	NEG 10749 10757	falta de
+T125	NSCO 10758 10767	respuesta
+T126	NEG 10828 10831	sin
+T127	NSCO 10832 10860	evidenciarse notable mejoría
+T128	NEG 11275 11290	desaparición de
+T129	NSCO 11291 11319	los delirios más abigarrados
+T130	NEG 11504 11516	desaparición
+T131	NSCO 11517 11547	absoluta del riesgo autolítico
+T132	FARMACO 2848 2858	fluoxetina
+T133	FARMACO 2860 2871	fluvoxamina
+T134	FARMACO 2873 2883	duloxetina
+T135	FARMACO 2903 2914	ziprasidona
+T136	FARMACO 2916 2927	risperidona
+T137	FARMACO 2929 2939	olanzapina
+T138	FARMACO 2988 2998	quetiapina
+T139	FARMACO 3046 3056	topiramato
+T140	FARMACO 3078 3089	aripiprazol
+T141	FARMACO 3111 3121	clonazepam
+T142	FARMACO 3141 3154	amitriptilina
+T143	FARMACO 3175 3186	mirtazapina
+T144	FARMACO 3207 3218	gabapentina
+T145	FARMACO 3240 3250	rabeprazol
+T146	FARMACO 3272 3302	calcio pidolato/colecalciferol
+T147	FARMACO 10006 10016	Topiramato
+T148	FARMACO 10096 10107	gabapentina
+T149	FARMACO 10110 10120	clonazepam
+T150	FARMACO 10166 10174	diazepam
+T151	FARMACO 10337 10348	mirtazapina
+T152	FARMACO 10354 10366	clomipramina
+T153	FARMACO 10492 10502	duloxetina
+T154	FARMACO 10684 10695	aripiprazol
+T155	FARMACO 10720 10732	paliperidona
+T156	FARMACO 10815 10826	amisulprida
+T157	FARMACO 11067 11076	clozapina
+T158	FARMACO 11742 11752	duloxetina
+T159	FARMACO 11765 11774	clozapina
+T160	FARMACO 11788 11796	diazepam
+T161	ORG_VIVO 0 8	Paciente
+T162	ORG_VIVO 68 78	familiares
+T163	ORG_VIVO 318 326	dentista
+T164	ORG_VIVO 463 468	gente
+T165	ORG_VIVO 555 576	cirujano maxilofacial
+T166	ORG_VIVO 582 595	neurocirujano
+T167	ORG_VIVO 1246 1253	persona
+T168	ORG_VIVO 1276 1287	trabajadora
+T169	ORG_VIVO 1289 1299	estudiante
+T170	ORG_VIVO 1378 1388	familiares
+T171	ORG_VIVO 1439 1447	paciente
+T172	ORG_VIVO 1530 1538	familiar
+T173	ORG_VIVO 1604 1614	familiares
+T174	ORG_VIVO 2630 2638	familiar
+T175	ORG_VIVO 4075 4083	paciente
+T176	ORG_VIVO 4322 4330	personal
+T177	ORG_VIVO 5062 5068	médico
+T178	ORG_VIVO 6291 6296	gente
+T179	ORG_VIVO 6329 6334	niños
+T180	ORG_VIVO 6564 6571	médicos
+T181	ORG_VIVO 7297 7307	familiares
+T182	ORG_VIVO 7774 7782	paciente
+T183	ORG_VIVO 7853 7861	juventud
+T184	ORG_VIVO 8463 8471	juventud
+T185	ORG_VIVO 8668 8676	paciente
+T186	ORG_VIVO 9040 9048	juventud
+T187	ORG_VIVO 9107 9117	familiares
+T188	ORG_VIVO 9413 9421	paciente
+T189	ORG_VIVO 10067 10075	paciente
+T190	ORG_VIVO 11396 11404	paciente
+T191	ORG_VIVO 11591 11601	familiares
+T192	ORG_VIVO 11632 11640	paciente
+T193	ORG_VIVO 11703 11711	paciente
+T194	ENFERMEDAD 252 282	fractura de una sutura craneal
+T195	ENFERMEDAD 655 663	migrañas
+T196	ENFERMEDAD 864 877	dismorfofobia
+T197	ENFERMEDAD 1039 1067	traumatismo craneoencefálico
+T198	ENFERMEDAD 1073 1091	lesión del peñasco
+T199	ENFERMEDAD 1167 1171	coma
+T200	ENFERMEDAD 1843 1866	epilepsia postraumática
+T201	ENFERMEDAD 2293 2301	artrosis
+T202	ENFERMEDAD 2304 2329	artritis por meniscopatía
+T203	ENFERMEDAD 2586 2610	sintomatología depresiva
+T204	ENFERMEDAD 2723 2739	cuadro depresivo
+T205	ENFERMEDAD 7835 7861	traumatismo en la juventud
+T206	ENFERMEDAD 7984 8013	trastorno dismórfico corporal
+T207	ENFERMEDAD 8078 8099	trastornos psicóticos
+T208	ENFERMEDAD 8114 8133	obsesivo-compulsivo
+T209	ENFERMEDAD 8226 8262	trastorno delirante de tipo somático
+T210	ENFERMEDAD 8633 8646	esquizofrenia
+T211	ENFERMEDAD 8719 8732	esquizofrenia
+T212	ENFERMEDAD 9358 9377	trastorno delirante
+T213	ENFERMEDAD 9383 9396	esquizofrenia
+T214	ENFERMEDAD 9443 9462	trastorno psicótico
+T215	ENFERMEDAD 9494 9522	traumatismo craneoencefálico
+T216	ENFERMEDAD 9528 9536	delirios
+T217	ENFERMEDAD 9590 9618	traumatismo craneoencefálico
+T218	ENFERMEDAD 11014 11023	depresiva
+T219	SANITARIO-PROFESION 555 576	cirujano maxilofacial
+T220	OTROS-PROFESION 318 326	dentista
+T221	PACIENTE-SITUACION_LABORAL 1289 1299	estudiante
+T222	SANITARIO-PROFESION 5062 5068	médico
+T223	SANITARIO-PROFESION 6564 6571	médicos
+T224	SANITARIO-PROFESION 582 595	neurocirujano

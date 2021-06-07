@@ -1,0 +1,169 @@
+T1	SINTOMA 333 340	fumador
+T2	SINTOMA 1171 1179	falleció
+T3	SINTOMA 2930 2935	dolor
+T4	SINTOMA 3851 3866	visceromegalias
+T5	SINTOMA 3897 3903	edemas
+T6	SINTOMA 5602 5634	pérdida brusca de visión del ojo
+T7	SINTOMA 7548 7565	ocupación de oído
+T8	SINTOMA 7582 7611	parestesias en labio inferior
+T9	PROCEDIMIENTO 580 601	tratamiento dietético
+T10	PROCEDIMIENTO 784 819	inhibidores de la bomba de protones
+T11	PROCEDIMIENTO 1266 1287	Medicación analgésica
+T12	PROCEDIMIENTO 1375 1388	Toma laxantes
+T13	PROCEDIMIENTO 1391 1436	inhibidores de la bomba de protones a demanda
+T14	PROCEDIMIENTO 1748 1760	tacto rectal
+T15	PROCEDIMIENTO 1779 1798	biopsia de próstata
+T16	PROCEDIMIENTO 1890 1912	prostatectomía radical
+T17	PROCEDIMIENTO 1917 1932	linfadenectomía
+T18	PROCEDIMIENTO 2039 2051	radioterapia
+T19	PROCEDIMIENTO 2382 2398	gammagrafía ósea
+T20	PROCEDIMIENTO 3178 3180	TC
+T21	PROCEDIMIENTO 3476 3513	derivación urinaria de la vía derecha
+T22	PROCEDIMIENTO 3590 3608	Exploración física
+T23	PROCEDIMIENTO 3621 3642	Auscultación cardiaca
+T24	PROCEDIMIENTO 3666 3687	Auscultación pulmonar
+T25	PROCEDIMIENTO 3760 3781	Exploración abdominal
+T26	PROCEDIMIENTO 3923 3935	Tacto rectal
+T27	PROCEDIMIENTO 4197 4208	Tratamiento
+T28	PROCEDIMIENTO 4209 4222	»Radioterapia
+T29	PROCEDIMIENTO 4443 4469	tratamiento quimioterápico
+T30	PROCEDIMIENTO 4920 4943	quimioterapia paliativa
+T31	PROCEDIMIENTO 5032 5034	TC
+T32	PROCEDIMIENTO 5549 5562	quimioterapia
+T33	PROCEDIMIENTO 5813 5823	TC craneal
+T34	PROCEDIMIENTO 5899 5924	exploración oftalmológica
+T35	PROCEDIMIENTO 5962 5964	TC
+T36	PROCEDIMIENTO 6342 6357	anticoagulación
+T37	PROCEDIMIENTO 6424 6438	quimioterápico
+T38	PROCEDIMIENTO 6487 6489	TC
+T39	PROCEDIMIENTO 6897 6926	biopsia mediante aguja gruesa
+T40	PROCEDIMIENTO 6946 6971	examen anatomo-patológico
+T41	PROCEDIMIENTO 7301 7327	tratamiento quimioterápico
+T42	PROCEDIMIENTO 7633 7645	RM de cráneo
+T43	PROCEDIMIENTO 7809 7829	resonancia magnética
+T44	PROCEDIMIENTO 8441 8459	terapia corticoide
+T45	NEG 143 146	Sin
+T46	NSCO 147 180	alergias medicamentosas conocidas
+T47	NEG 316 321	Nunca
+T48	NSCO 322 340	había sido fumador
+T49	NEG 473 483	suspendido
+T50	NEG 576 579	sin
+T51	NSCO 580 618	tratamiento dietético ni farmacológico
+T52	NEG 916 918	No
+T53	NSCO 919 973	tiene otros antecedentes médico-quirúrgicos de interés
+T54	NEG 1130 1141	desconocida
+T55	NEG 1143 1148	nunca
+T56	NSCO 1149 1168	recibió tratamiento
+T57	NEG 1913 1916	sin
+T58	NSCO 1917 1932	linfadenectomía
+T59	NEG 2957 2970	suspensión de
+T60	NSCO 2971 2986	la enzalutamida
+T61	NEG 3034 3037	sin
+T62	NSCO 3038 3068	buena respuesta al tratamiento
+T63	NEG 3241 3243	no
+T64	NSCO 3244 3274	presentes en controles previos
+T65	NEG 3652 3655	sin
+T66	NSCO 3656 3662	soplos
+T67	NEG 3720 3723	Sin
+T68	NSCO 3724 3756	ruidos patológicos sobreañadidos
+T69	NEG 3801 3803	no
+T70	NSCO 3804 3827	doloroso a la palpación
+T71	NEG 3829 3831	No
+T72	NSCO 3832 3866	se palpan masas ni visceromegalias
+T73	NEG 3893 3896	sin
+T74	NSCO 3897 3919	edemas ni datos de TVP
+T75	NEG 3964 3966	no
+T76	NSCO 3967 3975	indurada
+T77	UNC 4692 4699	posible
+T78	USCO 4700 4725	linfangitis carcinomatosa
+T79	UNC 4772 4785	sugestivas de
+T80	USCO 4786 4803	nuevas metástasis
+T81	NEG 5433 5446	inespecíficas
+T82	NEG 5668 5671	sin
+T83	NSCO 5672 5708	otra clínica neurológica acompañante
+T84	NEG 5965 5967	no
+T85	NSCO 5968 6019	se aprecia la existencia de lesiones intracraneales
+T86	UNC 6103 6110	posible
+T87	USCO 6111 6147	existencia de una obstrucción de las
+T88	NEG 7288 7297	suspender
+T89	NSCO 7298 7334	su tratamiento quimioterápico actual
+T90	NEG 7865 7867	no
+T91	NSCO 7868 7918	conocidos hasta el momento en localización craneal
+T92	UNC 8328 8337	sugestivo
+T93	USCO 8338 8375	metástasis en nervio óptico izquierdo
+T94	NEG 8462 8473	se suspende
+T95	NSCO 8474 8488	el nuevo ciclo
+T96	FARMACO 1292 1299	morfina
+T97	FARMACO 1348 1359	gabapentina
+T98	FARMACO 1362 1372	duloxetina
+T99	FARMACO 1472 1489	carbonato cálcico
+T100	FARMACO 2054 2066	bicalutamida
+T101	FARMACO 2621 2633	enzalutamida
+T102	FARMACO 2673 2690	ácido zoledrónico
+T103	FARMACO 2816 2828	enzalutamida
+T104	FARMACO 2974 2986	enzalutamida
+T105	FARMACO 4291 4300	docetaxel
+T106	FARMACO 4303 4314	cabazitaxel
+T107	FARMACO 4961 4970	docetaxel
+T108	FARMACO 4971 4981	prednisona
+T109	FARMACO 5122 5131	docetaxel
+T110	FARMACO 5132 5142	prednisona
+T111	FARMACO 6362 6394	heparinas de bajo peso molecular
+T112	FARMACO 7365 7376	cabazitaxel
+T113	ORG_VIVO 10 15	Varón
+T114	ORG_VIVO 84 92	jubilado
+T115	ORG_VIVO 996 1004	familiar
+T116	ORG_VIVO 1045 1052	familia
+T117	ORG_VIVO 1057 1062	padre
+T118	ORG_VIVO 1647 1674	médico de Atención Primaria
+T119	ORG_VIVO 3528 3536	paciente
+T120	ORG_VIVO 5007 5015	paciente
+T121	ORG_VIVO 5465 5473	paciente
+T122	ORG_VIVO 5713 5721	paciente
+T123	ORG_VIVO 6314 6322	paciente
+T124	ORG_VIVO 7219 7227	paciente
+T125	ORG_VIVO 8118 8126	paciente
+T126	ORG_VIVO 8490 8498	Paciente
+T127	ENFERMEDAD 376 397	hipertensión arterial
+T128	ENFERMEDAD 533 552	Hipercolesterolemia
+T129	ENFERMEDAD 555 575	hipertrigliceridemia
+T130	ENFERMEDAD 653 673	diverticulitis aguda
+T131	ENFERMEDAD 749 764	hernia de hiato
+T132	ENFERMEDAD 857 872	hernia inguinal
+T133	ENFERMEDAD 1008 1029	enfermedad neoplásica
+T134	ENFERMEDAD 1084 1105	neoplasia de próstata
+T135	ENFERMEDAD 1223 1242	enfermad neoplásica
+T136	ENFERMEDAD 1561 1582	carcinoma de próstata
+T137	ENFERMEDAD 1951 1978	adenocarcinoma clásico PT3a
+T138	ENFERMEDAD 2417 2505	múltiples focos de captación en esternón, costillas, escápula y articulación sacroiliaca
+T139	ENFERMEDAD 2551 2567	metástasis óseas
+T140	ENFERMEDAD 3117 3140	metástasis ganglionares
+T141	ENFERMEDAD 3196 3225	adenopatías retroperitoneales
+T142	ENFERMEDAD 3301 3321	ureterohidronefrosis
+T143	ENFERMEDAD 3334 3375	atrapamiento del tercio distal del uréter
+T144	ENFERMEDAD 3406 3427	adenopatía patológica
+T145	ENFERMEDAD 3916 3919	TVP
+T146	ENFERMEDAD 4043 4069	Adenocarcinoma de próstata
+T147	ENFERMEDAD 4111 4184	Metástasis óseas, viscerales (esplénicas y pulmonares) y en nervio óptico
+T148	ENFERMEDAD 4618 4643	lesiones a nivel visceral
+T149	ENFERMEDAD 4668 4689	metástasis pulmonares
+T150	ENFERMEDAD 4700 4725	linfangitis carcinomatosa
+T151	ENFERMEDAD 4752 4803	lesiones esplénicas sugestivas de nuevas metástasis
+T152	ENFERMEDAD 5323 5354	enfermedad estable a nivel óseo
+T153	ENFERMEDAD 5396 5446	lesiones subcentimétricas esplénicas inespecíficas
+T154	ENFERMEDAD 5777 5802	desprendimiento de retina
+T155	ENFERMEDAD 5996 6019	lesiones intracraneales
+T156	ENFERMEDAD 6129 6178	obstrucción de las ramas arteriales retrooculares
+T157	ENFERMEDAD 6267 6295	enfermedad oncológica activa
+T158	ENFERMEDAD 6652 6671	lesiones esplénicas
+T159	ENFERMEDAD 6800 6819	lesiones viscerales
+T160	ENFERMEDAD 6839 6867	enfermedad ósea y ganglionar
+T161	ENFERMEDAD 7010 7029	lesiones esplénicas
+T162	ENFERMEDAD 7784 7804	próstata metastásica
+T163	ENFERMEDAD 7854 7864	metástasis
+T164	ENFERMEDAD 7920 7948	Afectación ósea generalizada
+T165	ENFERMEDAD 7951 8044	diseminación dural en fosa posterior, fosa craneal media, cavum de Mekel y convexidad craneal
+T166	ENFERMEDAD 8338 8365	metástasis en nervio óptico
+T167	SANITARIO-PROFESION 1647 1674	médico de Atención Primaria
+T168	PACIENTE-SITUACION_LABORAL 84 92	jubilado
+T169	PACIENTE-PROFESION 127 141	administrativo

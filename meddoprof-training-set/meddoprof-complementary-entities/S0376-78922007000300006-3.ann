@@ -1,0 +1,19 @@
+T1	SINTOMA 468 505	dolor y tumefacción en el dedo índice
+T2	SINTOMA 630 649	hinchazón simétrica
+T3	SINTOMA 652 683	actitud en semiflexión del dedo
+T4	SINTOMA 685 757	dolor a la palpación sobre el trayecto tendinoso flexor del segundo dedo
+T5	SINTOMA 760 798	dolor con la extensión pasiva del dedo
+T6	SINTOMA 830 892	área hipoecogénica alrededor del tendón flexor del dedo índice
+T7	SINTOMA 1249 1273	draglezlopez@hotmail.com
+T8	PROCEDIMIENTO 1045 1111	drenaje con apertura de las poleas A1 y A5 y sistema de irrigación
+T9	PROCEDIMIENTO 1249 1273	draglezlopez@hotmail.com
+T10	NEG 419 422	sin
+T11	NSCO 423 454	antecedentes médicos de interés
+T12	ORG_VIVO 10 18	paciente
+T13	ORG_VIVO 381 389	paciente
+T14	ORG_VIVO 391 396	Varón
+T15	ORG_VIVO 409 417	pescador
+T16	ORG_VIVO 561 568	pescado
+T17	SANITARIO-PROFESION 307 313	Médico
+T18	SANITARIO-PROFESION 1113 1132	Responsable clínico
+T19	PACIENTE-PROFESION 409 417	pescador

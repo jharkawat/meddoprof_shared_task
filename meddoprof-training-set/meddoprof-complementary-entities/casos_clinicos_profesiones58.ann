@@ -1,0 +1,11 @@
+T1	SINTOMA 154 209	dolor en las piernas sobre todo a nivel de pantorrillas
+T2	SINTOMA 285 290	dolor
+T3	SINTOMA 471 478	fumador
+T4	NEG 235 237	no
+T5	NSCO 238 255	tenía importancia
+T6	NEG 324 326	no
+T7	NSCO 327 353	tiene antecedentes médicos
+T8	ORG_VIVO 11 19	paciente
+T9	ENFERMEDAD 413 428	hernia inguinal
+T10	PACIENTE-PROFESION 40 48	dentista
+T11	PACIENTE-SITUACION_LABORAL 49 57	jubilado

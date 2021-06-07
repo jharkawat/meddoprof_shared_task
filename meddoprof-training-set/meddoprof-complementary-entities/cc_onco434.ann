@@ -1,0 +1,131 @@
+T1	SINTOMA 265 274	hematuria
+T2	SINTOMA 351 371	molestia epigástrica
+T3	SINTOMA 392 407	dolor abdominal
+T4	SINTOMA 409 416	Náuseas
+T5	SINTOMA 438 445	vómitos
+T6	SINTOMA 504 510	fiebre
+T7	SINTOMA 540 560	sensación distérmica
+T8	SINTOMA 568 574	disnea
+T9	SINTOMA 576 579	tos
+T10	SINTOMA 583 596	expectoración
+T11	SINTOMA 828 838	Consciente
+T12	SINTOMA 841 850	orientada
+T13	SINTOMA 879 898	Palidez mucocutánea
+T14	SINTOMA 1198 1220	doloroso en epigastrio
+T15	SINTOMA 1239 1260	irritación peritoneal
+T16	SINTOMA 1284 1298	organomegalias
+T17	SINTOMA 1327 1385	petequias en región pretibial de ambos miembros inferiores
+T18	SINTOMA 1394 1400	edemas
+T19	SINTOMA 1419 1460	Pulsos periféricos palpables y simétricos
+T20	SINTOMA 2220 2227	afebril
+T21	SINTOMA 2314 2323	hematuria
+T22	SINTOMA 2330 2337	náuseas
+T23	SINTOMA 2363 2380	dolor epigástrico
+T24	SINTOMA 3113 3152	inflamación difusa de la pared gástrica
+T25	PROCEDIMIENTO 206 231	radioterapia concomitante
+T26	PROCEDIMIENTO 799 817	Exploración física
+T27	PROCEDIMIENTO 1808 1839	radiografías de tórax y abdomen
+T28	PROCEDIMIENTO 1932 1973	antibioterapia empírica con levofloxacino
+T29	PROCEDIMIENTO 1982 2008	extracción de hemocultivos
+T30	PROCEDIMIENTO 2011 2021	urocultivo
+T31	PROCEDIMIENTO 2050 2071	tratamiento con G-CSF
+T32	PROCEDIMIENTO 2661 2696	transfusión de un pool de plaquetas
+T33	PROCEDIMIENTO 2843 2862	ecografía abdominal
+T34	PROCEDIMIENTO 2918 2942	TC toracoabdominopélvico
+T35	PROCEDIMIENTO 3221 3241	nutrición parenteral
+T36	PROCEDIMIENTO 3334 3387	transfusiones de concentrados de hematíes y plaquetas
+T37	PROCEDIMIENTO 3412 3433	lavado broncoalveolar
+T38	PROCEDIMIENTO 3839 3868	resonancia magnética cerebral
+T39	PROCEDIMIENTO 4091 4113	tratamiento corticoide
+T40	NEG 299 304	Niega
+T41	NSCO 305 335	síndrome miccional acompañante
+T42	NEG 372 375	sin
+T43	NSCO 376 407	otros puntos de dolor abdominal
+T44	NEG 460 463	sin
+T45	NSCO 464 490	otros hallazgos de interés
+T46	NEG 492 494	No
+T47	NSCO 495 560	presenta fiebre termometrada en domicilio ni sensación distérmica
+T48	NEG 562 567	Niega
+T49	NSCO 568 596	disnea, tos ni expectoración
+T50	NEG 984 987	sin
+T51	NSCO 988 1015	auscultarse soplos ni roces
+T52	NEG 1058 1060	No
+T53	NSCO 1061 1109	muestra otros ruidos respiratorios sobreañadidos
+T54	NEG 1152 1154	no
+T55	NSCO 1155 1165	aumentados
+T56	NEG 1222 1224	No
+T57	NSCO 1225 1260	hay signos de irritación peritoneal
+T58	NEG 1262 1264	No
+T59	NSCO 1265 1298	se palpan masas ni organomegalias
+T60	NEG 1387 1389	No
+T61	NSCO 1390 1417	hay edemas ni signos de TVP
+T62	NEG 1477 1480	sin
+T63	NSCO 1481 1502	focalidad neurológica
+T64	NEG 1644 1647	sin
+T65	NSCO 1648 1692	alteraciones en la serie roja ni plaquetaria
+T66	NEG 1746 1748	no
+T67	NSCO 1749 1752	fue
+T68	UNC 1753 1767	compatible con
+T69	USCO 1768 1786	infección urinaria
+T70	NEG 1841 1844	sin
+T71	NSCO 1845 1876	observarse hallazgos reseñables
+T72	NEG 2038 2047	negativos
+T73	NEG 2110 2121	Se suspende
+T74	NSCO 2122 2165	por el momento tratamiento con temozolamida
+T75	NEG 2220 2227	afebril
+T76	NEG 2295 2310	desaparición de
+T77	NSCO 2311 2337	la hematuria y las náuseas
+T78	NEG 2382 2384	No
+T79	NEG 2864 2867	sin
+T80	NSCO 2868 2900	objetivarse hallazgos reseñables
+T81	UNC 2965 2980	compatibles con
+T82	USCO 2981 3017	aspergilosis broncopulmonar invasiva
+T83	NEG 3054 3056	no
+T84	NSCO 3057 3085	presente en estudios previos
+T85	NEG 3399 3401	no
+T86	NSCO 3402 3433	solicitar lavado broncoalveolar
+T87	UNC 3677 3690	probablemente
+T88	USCO 3691 3716	secundaria a temozolamida
+T89	NEG 3795 3797	no
+T90	NSCO 3798 3825	había recibido temozolamida
+T91	NEG 4032 4034	no
+T92	NSCO 4035 4073	presentó ninguna focalidad neurológica
+T93	NEG 4076 4078	no
+T94	NSCO 4079 4132	se instauró tratamiento corticoide durante su ingreso
+T95	FARMACO 179 191	temozolamida
+T96	FARMACO 1960 1973	levofloxacino
+T97	FARMACO 2066 2071	G-CSF
+T98	FARMACO 2153 2165	temozolamida
+T99	FARMACO 2769 2781	metronidazol
+T100	FARMACO 2783 2792	aztreonam
+T101	FARMACO 2795 2807	cotrimoxazol
+T102	FARMACO 3563 3574	voriconazol
+T103	FARMACO 3577 3591	anidulafungina
+T104	FARMACO 3704 3716	temozolamida
+T105	FARMACO 3813 3825	temozolamida
+T106	ORG_VIVO 10 15	Mujer
+T107	ORG_VIVO 624 632	paciente
+T108	ORG_VIVO 646 677	profesora de educación infantil
+T109	ORG_VIVO 735 741	padres
+T110	ORG_VIVO 744 751	hermana
+T111	ORG_VIVO 2201 2209	paciente
+T112	ORG_VIVO 3183 3191	paciente
+T113	ORG_VIVO 3247 3255	paciente
+T114	ORG_VIVO 3547 3558	antifúngica
+T115	ORG_VIVO 3786 3794	paciente
+T116	ORG_VIVO 4023 4031	paciente
+T117	ENFERMEDAD 65 88	glioblastoma multiforme
+T118	ENFERMEDAD 90 120	IDH1 mutado y metilación pMGMT
+T119	ENFERMEDAD 305 335	síndrome miccional acompañante
+T120	ENFERMEDAD 1414 1417	TVP
+T121	ENFERMEDAD 1608 1619	neutropenia
+T122	ENFERMEDAD 1768 1786	infección urinaria
+T123	ENFERMEDAD 1898 1909	neutropenia
+T124	ENFERMEDAD 2314 2323	hematuria
+T125	ENFERMEDAD 2981 3017	aspergilosis broncopulmonar invasiva
+T126	ENFERMEDAD 3028 3043	derrame pleural
+T127	ENFERMEDAD 3275 3287	neutropénica
+T128	ENFERMEDAD 3290 3302	trombopénica
+T129	ENFERMEDAD 3618 3645	Aspergilosis broncoinvasiva
+T130	ENFERMEDAD 3661 3716	aplasia medular probablemente secundaria a temozolamida
+T131	PACIENTE-PROFESION 646 677	profesora de educación infantil

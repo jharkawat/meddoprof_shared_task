@@ -1,0 +1,73 @@
+T1	SINTOMA 608 634	eccema en pezón de la mama
+T2	SINTOMA 3439 3468	niveles elevados de estradiol
+T3	PROCEDIMIENTO 293 299	partos
+T4	PROCEDIMIENTO 307 314	cesárea
+T5	PROCEDIMIENTO 317 334	lactancia materna
+T6	PROCEDIMIENTO 654 664	mamografía
+T7	PROCEDIMIENTO 752 769	ecografía mamaria
+T8	PROCEDIMIENTO 1059 1074	biopsia cutánea
+T9	PROCEDIMIENTO 1200 1219	mastectomía derecha
+T10	PROCEDIMIENTO 1224 1262	biopsia selectiva de ganglio centinela
+T11	PROCEDIMIENTO 1561 1594	biopsias de 3 ganglios centinelas
+T12	PROCEDIMIENTO 1899 1944	linfadenectomía resecando 6 ganglios axilares
+T13	PROCEDIMIENTO 2134 2162	tratamiento de quimioterapia
+T14	PROCEDIMIENTO 2274 2296	ciclo de quimioterapia
+T15	PROCEDIMIENTO 2368 2379	gammagrafía
+T16	PROCEDIMIENTO 2428 2464	biopsia del pedículo vertebral en D5
+T17	PROCEDIMIENTO 2738 2767	radioterapia externa sobre D5
+T18	PROCEDIMIENTO 2801 2822	anexectomía bilateral
+T19	PROCEDIMIENTO 3239 3257	Exploración física
+T20	PROCEDIMIENTO 3269 3287	exploración física
+T21	PROCEDIMIENTO 3512 3529	doble anexectomía
+T22	PROCEDIMIENTO 4234 4288	medición del estradiol mediante cromatografía de masas
+T23	UNC 1111 1125	compatible con
+T24	USCO 1126 1154	carcinoma ductal infiltrante
+T25	NEG 1795 1798	sin
+T26	NSCO 1799 1812	amplificación
+T27	UNC 2072 2086	compatible con
+T28	USCO 2087 2122	perfil inmunohistoquímico luminal B
+T29	UNC 2473 2487	compatible con
+T30	USCO 2488 2519	metástasis de carcinoma de mama
+T31	NEG 3333 3336	sin
+T32	NSCO 3337 3357	hallazgos de interés
+T33	UNC 3944 3959	compatibles con
+T34	USCO 3960 4033	falso positivo en el inmunoensayo por reactividad cruzada con fulvestrant
+T35	FARMACO 2177 2188	adriamicina
+T36	FARMACO 2202 2216	ciclofosfamida
+T37	FARMACO 2568 2580	antraciclina
+T38	FARMACO 2891 2902	fulvestrant
+T39	FARMACO 2922 2931	denosumab
+T40	FARMACO 3820 3831	fulvestrant
+T41	FARMACO 3834 3843	denosumab
+T42	FARMACO 4082 4090	diosmina
+T43	FARMACO 4120 4131	calcifediol
+T44	FARMACO 4159 4170	fulvestrant
+T45	ORG_VIVO 28 36	paciente
+T46	ORG_VIVO 73 81	Pediatra
+T47	ORG_VIVO 116 126	personales
+T48	ORG_VIVO 327 334	materna
+T49	ORG_VIVO 425 435	familiares
+T50	ORG_VIVO 449 456	hermana
+T51	ORG_VIVO 460 474	abuelo materno
+T52	ORG_VIVO 590 598	paciente
+T53	ORG_VIVO 3499 3507	paciente
+T54	ORG_VIVO 3913 3921	paciente
+T55	ENFERMEDAD 146 186	varices en ambas extremidades inferiores
+T56	ENFERMEDAD 492 509	carcinoma de mama
+T57	ENFERMEDAD 608 634	eccema en pezón de la mama
+T58	ENFERMEDAD 692 736	microcalcificaciones retroareolares mamarias
+T59	ENFERMEDAD 787 818	lesión sólida de 2,6 cm en mama
+T60	ENFERMEDAD 829 858	adenopatía axilar homolateral
+T61	ENFERMEDAD 936 1054	lesiones sólidas de 6 mm y 8 mm en cuadrante supero externo y unión de cuadrantes internos de características benignas
+T62	ENFERMEDAD 1081 1098	lesión de la mama
+T63	ENFERMEDAD 1126 1154	carcinoma ductal infiltrante
+T64	ENFERMEDAD 1302 1379	carcinoma ductal infiltrante grado 2 de 4,7 cm con invasión vásculo-linfática
+T65	ENFERMEDAD 1410 1439	enfermedad de Paget del pezón
+T66	ENFERMEDAD 1472 1508	carcinoma ductal infiltrante de mama
+T67	ENFERMEDAD 1524 1539	comedocarcinoma
+T68	ENFERMEDAD 2010 2046	carcinoma ductal infiltrante de mama
+T69	ENFERMEDAD 2345 2361	metástasis en D5
+T70	ENFERMEDAD 2382 2415	metástasis pulmonares bilaterales
+T71	ENFERMEDAD 2488 2519	metástasis de carcinoma de mama
+T72	ENFERMEDAD 3678 3764	Carcinoma ductal infiltrante de mama subtipo luminal B, estadio IV por afectación ósea
+T73	PACIENTE-PROFESION 73 81	Pediatra

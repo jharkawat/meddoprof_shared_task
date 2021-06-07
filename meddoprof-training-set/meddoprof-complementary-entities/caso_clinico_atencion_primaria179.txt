@@ -1,0 +1,49 @@
+Motivo de consulta
+Acude a consulta por cefalea hemicraneal izquierda pulsátil de varios meses de evolución.
+
+Enfoque individual
+Anamnesis: Varón de 21 años con los siguientes antecedentes:
+-AF madre con tiroidectomía por nódulo tiroideo. Padre vive sano. -Rinoconjuntivitis alérgica.
+-No alergias medicamentosas conocidas.
+-No fumador. Bebedor de fines de semana.
+-No intervenciones quirúrgicas.
+No ha tenido hasta el momento, tratamiento medicamentoso alguno.
+Hace dos años tuvo un episodio de cefalea hemicraneal izquierda que tras sueño nocturno, a la mañana siguiente no podía articular las palabras. Acudió a urgencias y tras toma de TA se constató cifras de 150/80 y se dio de alta con el diagnóstico de migraña.
+Al año siguiente sufrió un episodio de las mismas características al realizar una subida a la sierra. Cedió progresivamente con la toma de metamizol y sueño.
+
+Exploración física
+-Buen estado general, eupneico, bien hidratado y perfundido. No signos de focalidad neurológica
+-ACR: tonos cardiacos rítmicos, no soplos. Murmullo vesicular conservado sin ruidos sobreañadidos.
+-Miembros inferiores sin edemas ni signos de trombosis venosa profunda. -Resto de exploración normal
+
+Pruebas complementarias
+TA 140/90; FC 86 lpm, Saturación 97%.
+-ECG: ritmo sinusal a 100 lpm. Eje normal. QRS normal. No se observa bloqueos de rama ni alteraciones en la repolarización.
+- Analítica en consulta de AP: sin alteraciones significativas.
+Se indican medidas higiénico dietéticas y se pauta enalapril 5 cada 24 horas y se cita en unas semanas para evaluación.
+
+Enfoque familiar y comunitario
+Varón de 21 años, soltero vive con los padres y una hermana. Estudiante de económicas (antes ingeniería que abandono). Buena relación con los padres y con la hermana. Abuelos paternos se han mudado cerca de su domicilio y también mantiene una buena relación. Abuelo materno fallecido hace un año a consecuencia de un Ictus.
+Realiza de forma regular ejercicio físico saliendo a correr con el padre.
+Nivel socio cultural medio-alto.
+
+Plan de Acción y Evolución
+Acude a la consulta por persistencia del dolor de cabeza y se objetiva una TA de 150/90 y con alguna subida esporádica de 200/95 por lo que se remite a la consulta de Medicina Interna para descartar hipertensión secundaria.
+
+Exploración en consulta de Medicina Interna:
+TA en MSD 152/84 y en MSI 147/86 Fc: 86 lm IMC=25 Peso 76 Talla 1,75 ACP: normal. Abdomen normal. No soplos abdominales MMII: no edemas.
+
+Pruebas complementarias:
+Hemograma normal BQ: glucemia 112. Creatinina 1,05; AC úrico 5,5; PT 7,4; albúmina 5; amilasa 104; CK 150; NA 138; Cl 102; PCR 0,7, cortisol 13.8, aldosterona 121.9, renina 10.2, catecolaminas negativas, orina: proteínas indicios, Aclaramiento de creatinina 120 ml/mm
+Rx tórax PA y L sin alteraciones significativas. ECG Rs a 100 lm.
+Ecografía de abdomen: hígado de tamaño y contorno normal y vesícula biliar sin litiasis en su interior, páncreas y bazo normales, sin alteraciones renales.
+Ecocardio transtorácica: Ventrículo izquierdo no dilatado con espesor de paredes normales, función sistólica conservada con Fracción de eyección normal.
+Se decide en esta consulta aumentar el enalapril a 20 mg cada 24 horas.
+Se cita a revisión para valorar MAPA y se cursa petición de angioTac
+MAPA: TASM 128(166-97, 36%>140. TADM 62 (94-40) 2%>90 PERFIL DIPPER
+En una posterior revisión se informa de angioTac normal, ha desaparecido la cefalea pero algunos controles de TA siguen siendo altos por lo que se añade al tratamiento de enalapril 20 hidroclorotiazida de 12.5
+Meses después acude a consulta de Atención Primaria con buenos controles de TA y desaparición completa de las cefaleas.
+
+Juicio clínico y diagnóstico diferencial
+Hipertensión esencial en paciente joven.
+Diagnóstico diferencial: lo podíamos establecer con todas aquellas situaciones que tengan como síntoma principal cefalea. Desde cuadros de migrañas, sinusitis, alteraciones metabólicas, procesos neoplásicos ocupantes de espacio, trastorno de ansiedad.

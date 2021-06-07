@@ -1,0 +1,64 @@
+T1	SINTOMA 337 343	fiebre
+T2	SINTOMA 420 430	sudoración
+T3	SINTOMA 432 443	escalofríos
+T4	SINTOMA 445 504	dolores articulares, sobre todo en espalda y ambas rodillas
+T5	SINTOMA 506 516	impotencia
+T6	SINTOMA 518 529	nerviosismo
+T7	SINTOMA 531 539	mialgias
+T8	SINTOMA 541 548	astenia
+T9	SINTOMA 609 615	disnea
+T10	SINTOMA 618 634	dolor precordial
+T11	SINTOMA 781 787	fiebre
+T12	SINTOMA 1869 1929	soplo sistólico II/IV en segundo espacio intercostal derecho
+T13	SINTOMA 1935 1969	irradiación a los vasos del cuello
+T14	PROCEDIMIENTO 862 907	tratamiento médico con varios antimicrobianos
+T15	PROCEDIMIENTO 1768 1781	examen físico
+T16	PROCEDIMIENTO 2039 2053	Ecocardiograma
+T17	PROCEDIMIENTO 2090 2132	Rayos X de tórax anteroposterior y lateral
+T18	PROCEDIMIENTO 2818 2829	Hemocultivo
+T19	PROCEDIMIENTO 2892 2917	prueba de Rosa de Bengala
+T20	NEG 565 571	impide
+T21	NSCO 572 607	realizar sus actividades habituales
+T22	NEG 909 912	sin
+T23	NSCO 913 933	mejoría del paciente
+T24	NEG 935 946	Se descartó
+T25	NSCO 947 993	la posibilidad de otras causas de endocarditis
+T26	NEG 1081 1083	no
+T27	NSCO 1084 1111	disponibilidad de reactivos
+T28	NEG 1112 1114	no
+T29	NSCO 1115 1142	se realizaron estas pruebas
+T30	NEG 1841 1843	no
+T31	NSCO 1844 1867	tercero ni cuarto ruido
+T32	NEG 2134 2136	no
+T33	NSCO 2137 2157	se observan lesiones
+T34	NEG 2852 2854	no
+T35	NSCO 2855 2877	aislamiento bacteriano
+T36	FARMACO 3101 3112	gentamicina
+T37	FARMACO 3156 3165	amikacina
+T38	FARMACO 3214 3225	doxiciclina
+T39	FARMACO 3263 3274	rifampicina
+T40	ORG_VIVO 0 6	Hombre
+T41	ORG_VIVO 28 37	campesino
+T42	ORG_VIVO 925 933	paciente
+T43	ORG_VIVO 1335 1343	paciente
+T44	ORG_VIVO 1406 1419	ganado vacuno
+T45	ORG_VIVO 1420 1429	y porcino
+T46	ORG_VIVO 1450 1458	animales
+T47	ORG_VIVO 1623 1629	ganado
+T48	ORG_VIVO 2867 2877	bacteriano
+T49	ORG_VIVO 2979 2987	Brucella
+T50	ORG_VIVO 3037 3045	paciente
+T51	ENFERMEDAD 225 261	endocarditis infecciosa por Brucella
+T52	ENFERMEDAD 264 294	insuficiencia aórtica moderada
+T53	ENFERMEDAD 680 703	síndrome febril crónico
+T54	ENFERMEDAD 764 797	endocarditis por fiebre reumática
+T55	ENFERMEDAD 981 993	endocarditis
+T56	ENFERMEDAD 1060 1070	brucelosis
+T57	ENFERMEDAD 1245 1268	endocarditis infecciosa
+T58	ENFERMEDAD 1537 1570	microtraumatismos en manos y pies
+T59	ENFERMEDAD 1642 1652	brucelosis
+T60	ENFERMEDAD 2055 2086	vegetaciones en válvula aórtica
+T61	ENFERMEDAD 3389 3425	endocarditis infecciosa por Brucella
+T62	ENFERMEDAD 3428 3458	insuficiencia aórtica moderada
+T63	ENFERMEDAD 3539 3551	valvulopatía
+T64	PACIENTE-PROFESION 28 37	campesino

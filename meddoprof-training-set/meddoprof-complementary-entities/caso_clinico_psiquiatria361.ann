@@ -1,0 +1,24 @@
+T1	SINTOMA 189 197	insomnio
+T2	SINTOMA 1466 1482	síntoma positivo
+T3	SINTOMA 1484 1505	aplanamiento afectivo
+T4	SINTOMA 1511 1527	síntoma negativo
+T5	SINTOMA 1530 1569	deterioro funcional en el ámbito social
+T6	PROCEDIMIENTO 753 764	TAC craneal
+T7	NEG 783 792	negativos
+T8	NEG 1104 1115	Se descartó
+T9	NSCO 1116 1135	Trastorno Delirante
+T10	NEG 1519 1527	negativo
+T11	FARMACO 879 889	Olanzapina
+T12	FARMACO 1013 1024	Risperidona
+T13	FARMACO 1027 1037	Olanzapina
+T14	ORG_VIVO 64 69	Varón
+T15	ORG_VIVO 240 247	vecinos
+T16	ORG_VIVO 1571 1579	familiar
+T17	ENFERMEDAD 178 186	ansiedad
+T18	ENFERMEDAD 267 290	Trastorno de Adaptación
+T19	ENFERMEDAD 409 447	Trastorno de la Personalidad Paranoide
+T20	ENFERMEDAD 853 866	Esquizofrenia
+T21	ENFERMEDAD 1116 1135	Trastorno Delirante
+T22	ENFERMEDAD 1314 1327	Esquizofrenia
+T23	ENFERMEDAD 1389 1402	Esquizofrenia
+T24	ENFERMEDAD 1651 1664	Esquizofrenia

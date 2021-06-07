@@ -1,0 +1,93 @@
+T1	SINTOMA 447 455	embarazo
+T2	SINTOMA 806 814	inquieto
+T3	SINTOMA 1088 1102	hiperactividad
+T4	SINTOMA 1858 1883	sensaciones desagradables
+T5	SINTOMA 1960 1968	angustia
+T6	SINTOMA 1974 1987	palpitaciones
+T7	SINTOMA 2020 2041	oía a la gente hablar
+T8	SINTOMA 2065 2087	sensación de extrañeza
+T9	SINTOMA 2093 2103	irrealidad
+T10	SINTOMA 2363 2386	alucinaciones auditivas
+T11	SINTOMA 2624 2645	agitación psicomotriz
+T12	SINTOMA 2939 2957	síntomas afectivos
+T13	SINTOMA 2959 2986	trastornos sensoperceptivos
+T14	SINTOMA 2990 3013	alteraciones cognitivas
+T15	SINTOMA 3975 3983	angustia
+T16	SINTOMA 4265 4273	angustia
+T17	PROCEDIMIENTO 461 466	parto
+T18	PROCEDIMIENTO 3018 3049	exploración física, neurológica
+T19	PROCEDIMIENTO 3051 3069	electrocardiograma
+T20	PROCEDIMIENTO 3112 3141	detección de tóxicos en orina
+T21	NEG 315 321	retiró
+T22	NSCO 322 378	su pediatra por la remisión clínica de su cuadro de TDAH
+T23	NEG 577 579	no
+T24	NSCO 580 594	estaba a gusto
+T25	NEG 1362 1364	No
+T26	NSCO 1365 1379	consume tabaco
+T27	NEG 1382 1387	nunca
+T28	NSCO 1388 1440	ha probado la cocaína, alucinógenos ni otros tóxicos
+T29	NEG 1502 1505	Sin
+T30	NSCO 1506 1527	patologías de interés
+T31	NEG 2352 2354	No
+T32	NSCO 2355 2416	refiere alucinaciones auditivas o de otra modalidad sensorial
+T33	NEG 2570 2572	no
+T34	NSCO 2573 2593	tomaba metilfenidato
+T35	NEG 2650 2655	cedió
+T36	NSCO 2656 2692	con la administración de haloperidol
+T37	NEG 2923 2925	no
+T38	NSCO 2926 3013	evidenciando síntomas afectivos, trastornos sensoperceptivos ni alteraciones cognitivas
+T39	NEG 3391 3393	no
+T40	NSCO 3394 3420	volvió a consumir cannabis
+T41	NEG 3483 3486	sin
+T42	NSCO 3487 3506	consumo de cannabis
+T43	NEG 3798 3800	no
+T44	NSCO 3801 3829	hubiera nadie a su alrededor
+T45	NEG 4290 4292	no
+T46	NSCO 4293 4370	se objetivaban alteraciones sensoperceptivas ni del contenido del pensamiento
+T47	NEG 4553 4555	no
+T48	NSCO 4556 4584	se detectan tóxicos en orina
+T49	FARMACO 243 256	metilfenidato
+T50	FARMACO 850 863	metilfenidato
+T51	FARMACO 2580 2593	metilfenidato
+T52	FARMACO 2681 2692	haloperidol
+T53	ORG_VIVO 13 23	personales
+T54	ORG_VIVO 27 35	paciente
+T55	ORG_VIVO 49 55	padres
+T56	ORG_VIVO 187 195	infancia
+T57	ORG_VIVO 325 333	pediatra
+T58	ORG_VIVO 571 575	niño
+T59	ORG_VIVO 754 763	psicólogo
+T60	ORG_VIVO 773 779	padres
+T61	ORG_VIVO 1175 1183	cannabis
+T62	ORG_VIVO 1373 1379	tabaco
+T63	ORG_VIVO 1445 1450	madre
+T64	ORG_VIVO 1491 1501	familiares
+T65	ORG_VIVO 1539 1546	hermana
+T66	ORG_VIVO 1620 1626	amigos
+T67	ORG_VIVO 1641 1645	Bull
+T68	ORG_VIVO 2029 2034	gente
+T69	ORG_VIVO 2119 2124	gente
+T70	ORG_VIVO 2254 2263	amistades
+T71	ORG_VIVO 2307 2312	gente
+T72	ORG_VIVO 2754 2762	cannabis
+T73	ORG_VIVO 3160 3168	cannabis
+T74	ORG_VIVO 3285 3293	cannabis
+T75	ORG_VIVO 3412 3420	cannabis
+T76	ORG_VIVO 3441 3446	madre
+T77	ORG_VIVO 3498 3506	cannabis
+T78	ORG_VIVO 3659 3667	personas
+T79	ORG_VIVO 3938 3944	padres
+T80	ORG_VIVO 4095 4100	gente
+T81	ORG_VIVO 4660 4668	cannabis
+T82	ENFERMEDAD 118 151	trastorno por déficit de atención
+T83	ENFERMEDAD 172 176	TDAH
+T84	ENFERMEDAD 374 378	TDAH
+T85	ENFERMEDAD 2737 2762	intoxicación por cannabis
+T86	ENFERMEDAD 2913 2921	ansiedad
+T87	ENFERMEDAD 2959 2986	trastornos sensoperceptivos
+T88	ENFERMEDAD 3268 3293	intoxicación por cannabis
+T89	ENFERMEDAD 3487 3506	consumo de cannabis
+T90	ENFERMEDAD 4649 4668	consumo de cannabis
+T91	SANITARIO-PROFESION 325 333	pediatra
+T92	PACIENTE-SITUACION_LABORAL 534 561	acudía a un colegio privado
+T93	SANITARIO-PROFESION 754 763	psicólogo

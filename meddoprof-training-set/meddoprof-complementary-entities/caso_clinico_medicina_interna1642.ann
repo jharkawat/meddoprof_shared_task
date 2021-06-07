@@ -1,0 +1,91 @@
+T1	SINTOMA 527 591	dolor moderado-intenso en región proximal de miembros inferiores
+T2	SINTOMA 708 719	parestesias
+T3	SINTOMA 722 818	debilidad distal en MMII que afecta primero y de manera predominante a la flexión dorsal del pie
+T4	SINTOMA 896 905	debilidad
+T5	SINTOMA 1051 1058	afebril
+T6	SINTOMA 1061 1086	hemodinámicamente estable
+T7	SINTOMA 1112 1122	consciente
+T8	SINTOMA 1124 1133	orientada
+T9	SINTOMA 1322 1330	nistagmo
+T10	SINTOMA 1583 1625	dificultad para la flexión plantar del pie
+T11	SINTOMA 1669 1731	hipoestesia extereoceptiva en la cara lateral de ambas piernas
+T12	SINTOMA 1738 1766	pérdida de la bóveda plantar
+T13	SINTOMA 2171 2191	alteración sensitiva
+T14	SINTOMA 2194 2250	debilidad progresiva y ascendente de miembros inferiores
+T15	SINTOMA 2255 2273	arreflexia aquílea
+T16	SINTOMA 2358 2369	eosinofilia
+T17	SINTOMA 2983 3026	opacidades parcheadas en vidrio deslustrado
+T18	SINTOMA 3765 3801	fuerza distal en miembros inferiores
+T19	PROCEDIMIENTO 1967 1990	exploración del romberg
+T20	PROCEDIMIENTO 2029 2048	analítica sanguínea
+T21	PROCEDIMIENTO 2050 2070	radiografía de tórax
+T22	PROCEDIMIENTO 2073 2083	TC craneal
+T23	PROCEDIMIENTO 2108 2122	punción lumbar
+T24	PROCEDIMIENTO 2279 2294	análisis de LCR
+T25	PROCEDIMIENTO 2954 2968	TACAR pulmonar
+T26	PROCEDIMIENTO 3028 3051	TC de senos paranasales
+T27	PROCEDIMIENTO 3837 3861	biopsia por broncoscopia
+T28	PROCEDIMIENTO 3909 3933	biopsia del nervio sural
+T29	NEG 18 21	sin
+T30	NSCO 22 55	alergias medicamentosas conocidas
+T31	NEG 98 100	no
+T32	NSCO 101 125	diabética ni dislipémica
+T33	NEG 127 129	No
+T34	NSCO 130 158	hábitos tabáquico ni etílico
+T35	NEG 224 227	Sin
+T36	NSCO 228 272	antecedentes de patología neurológica previa
+T37	UNC 390 403	probablemente
+T38	USCO 404 414	extrínseca
+T39	NEG 1051 1058	afebril
+T40	NEG 1290 1292	no
+T41	NSCO 1293 1310	estaban limitados
+T42	NEG 1313 1315	no
+T43	NSCO 1316 1330	había nistagmo
+T44	NEG 1332 1334	No
+T45	NSCO 1335 1399	había alteración de los pares V ni VII ni tampoco de pares bajos
+T46	UNC 1826 1840	compatible con
+T47	USCO 1841 1882	lesión del nervio peroneo común bilateral
+T48	NEG 1995 2003	negativa
+T49	UNC 2131 2142	sospecha de
+T50	USCO 2143 2169	síndrome de Guillain Barré
+T51	UNC 2503 2515	sugestiva de
+T52	USCO 2516 2539	mononeuropatía múltiple
+T53	UNC 2541 2552	se sospecha
+T54	USCO 2553 2629	en Urgencias una posible vasculitis en contexto de Síndrome de Churg-Strauss
+T55	NEG 3879 3881	no
+T56	NSCO 3882 3904	accedió a dicha prueba
+T57	NEG 3981 3983	no
+T58	NSCO 3984 3999	pudo realizarse
+T59	NEG 4004 4012	falta de
+T60	NSCO 4013 4049	personal entrenado en nuestro centro
+T61	FARMACO 2671 2688	metilprednisolona
+T62	FARMACO 3553 3570	metilprednisolona
+T63	FARMACO 3591 3601	prednisona
+T64	ORG_VIVO 0 5	Mujer
+T65	ORG_VIVO 174 182	juventud
+T66	ORG_VIVO 502 510	paciente
+T67	ORG_VIVO 1028 1036	paciente
+T68	ORG_VIVO 2452 2462	personales
+T69	ORG_VIVO 2469 2477	paciente
+T70	ORG_VIVO 2769 2777	paciente
+T71	ORG_VIVO 3216 3224	paciente
+T72	ORG_VIVO 3819 3827	paciente
+T73	ORG_VIVO 3870 3878	paciente
+T74	ORG_VIVO 4013 4021	personal
+T75	ENFERMEDAD 57 67	Hipertensa
+T76	ENFERMEDAD 101 110	diabética
+T77	ENFERMEDAD 327 344	sinusitis maxilar
+T78	ENFERMEDAD 356 372	rinitis alérgica
+T79	ENFERMEDAD 375 414	asma bronquial probablemente extrínseca
+T80	ENFERMEDAD 1841 1872	lesión del nervio peroneo común
+T81	ENFERMEDAD 2143 2169	síndrome de Guillain Barré
+T82	ENFERMEDAD 2341 2353	leucocitosis
+T83	ENFERMEDAD 2516 2539	mononeuropatía múltiple
+T84	ENFERMEDAD 2578 2588	vasculitis
+T85	ENFERMEDAD 2604 2629	Síndrome de Churg-Strauss
+T86	ENFERMEDAD 3066 3078	pansinusitis
+T87	ENFERMEDAD 3136 3179	neuropatía axonal de ambos nervios peroneos
+T88	ENFERMEDAD 3314 3367	vasculitis sistémica tipo granulomatosis eosinofílica
+T89	ENFERMEDAD 3372 3384	poliangeítis
+T90	SANITARIO-PROFESION 4013 4021	personal
+T91	PACIENTE-PROFESION 160 194	Trabajó en la juventud en el campo

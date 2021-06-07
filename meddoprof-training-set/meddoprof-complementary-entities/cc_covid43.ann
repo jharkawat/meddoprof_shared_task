@@ -1,0 +1,96 @@
+T1	SINTOMA 76 82	disnea
+T2	SINTOMA 84 87	tos
+T3	SINTOMA 89 95	fiebre
+T4	SINTOMA 112 119	diarrea
+T5	SINTOMA 272 294	síntomas respiratorios
+T6	SINTOMA 680 703	dificultad respiratoria
+T7	SINTOMA 727 759	crepitantes en campos pulmonares
+T8	SINTOMA 1656 1686	volúmenes pulmonares reducidos
+T9	SINTOMA 1691 1742	opacidades bilaterales en la zona pulmonar inferior
+T10	SINTOMA 2313 2382	opacidades en vidrio esmerilado confluentes en los lóbulos superiores
+T11	SINTOMA 2395 2434	opacidades alveolares leves irregulares
+T12	SINTOMA 2511 2592	opacidades alveolares heterogéneas en el segmento medial del lóbulo medio derecho
+T13	SINTOMA 3616 3663	opacidades difusas alrededor del hilio pulmonar
+T14	PROCEDIMIENTO 553 574	oxigeno suplementario
+T15	PROCEDIMIENTO 643 656	examen físico
+T16	PROCEDIMIENTO 1338 1398	reacción en cadena polimerasa en tiempo real para SARS-Cov-2
+T17	PROCEDIMIENTO 1436 1473	panel respiratorio viral nasofaríngeo
+T18	PROCEDIMIENTO 1628 1648	radiografía de tórax
+T19	PROCEDIMIENTO 1961 1987	cánula nasal de alto flujo
+T20	PROCEDIMIENTO 2224 2239	angiotomografía
+T21	PROCEDIMIENTO 2693 2707	ecocardiograma
+T22	PROCEDIMIENTO 3535 3555	radiografía de tórax
+T23	PROCEDIMIENTO 3742 3759	cultivo de esputo
+T24	PROCEDIMIENTO 3764 3779	tinción de Gram
+T25	PROCEDIMIENTO 4181 4204	cultivo final de esputo
+T26	PROCEDIMIENTO 4411 4423	cánula nasal
+T27	NEG 29 32	sin
+T28	NSCO 33 53	antecedentes médicos
+T29	NEG 96 98	no
+T30	NSCO 99 109	objetivada
+T31	NEG 710 712	no
+T32	NSCO 713 759	se detectaron crepitantes en campos pulmonares
+T33	NEG 1487 1489	no
+T34	NSCO 1490 1529	aisló ningún otro patógeno respiratorio
+T35	NEG 1614 1623	negativos
+T36	NEG 1818 1830	se suspendió
+T37	NSCO 1831 1846	la azitromicina
+T38	NEG 2253 2261	negativa
+T39	NSCO 2262 2291	para tromboembolismo pulmonar
+T40	NEG 2708 2710	no
+T41	NSCO 2711 2758	mostró signos de sobrecarga ventricular derecha
+T42	NEG 3001 3003	no
+T43	NSCO 3004 3010	aceptó
+T44	NEG 3191 3203	se suspendió
+T45	NSCO 3204 3242	la administración de hidroxicloroquina
+T46	UNC 3446 3453	posible
+T47	USCO 3454 3530	tormenta de citoquinas debido a la elevación de los marcadores inflamatorios
+T48	UNC 3673 3684	sospecha de
+T49	USCO 3685 3730	una neumonía intrahospitalaria sobre-agregada
+T50	NEG 3800 3809	negativos
+T51	NEG 3893 3905	se suspendió
+T52	NSCO 3906 3926	la metilprednisolona
+T53	NEG 4131 4139	negativa
+T54	NEG 4152 4164	se suspendió
+T55	NSCO 4165 4176	vancomicina
+T56	NEG 4276 4288	se suspendió
+T57	FARMACO 1771 1782	ceftriaxona
+T58	FARMACO 1785 1797	azitromicina
+T59	FARMACO 1834 1846	azitromicina
+T60	FARMACO 1859 1876	hidroxicloroquina
+T61	FARMACO 2845 2856	enoxaparina
+T62	FARMACO 2971 2982	Tocilizumab
+T63	FARMACO 3225 3242	hidroxicloroquina
+T64	FARMACO 3256 3266	Remdesivir
+T65	FARMACO 3390 3407	metilprednisolona
+T66	FARMACO 3860 3868	cefepime
+T67	FARMACO 3871 3882	vancomicina
+T68	FARMACO 3909 3926	metilprednisolona
+T69	FARMACO 4165 4176	vancomicina
+T70	FARMACO 4259 4267	cefepime
+T71	FARMACO 4399 4406	oxígeno
+T72	ORG_VIVO 3 17	paciente varón
+T73	ORG_VIVO 136 144	paciente
+T74	ORG_VIVO 223 243	compañero de trabajo
+T75	ORG_VIVO 246 267	miembro de la familia
+T76	ORG_VIVO 667 675	paciente
+T77	ORG_VIVO 1388 1398	SARS-Cov-2
+T78	ORG_VIVO 1455 1460	viral
+T79	ORG_VIVO 1508 1529	patógeno respiratorio
+T80	ORG_VIVO 1546 1556	Legionella
+T81	ORG_VIVO 1580 1591	neumocócico
+T82	ORG_VIVO 1907 1915	paciente
+T83	ORG_VIVO 2896 2904	paciente
+T84	ORG_VIVO 2992 3000	paciente
+T85	ORG_VIVO 3047 3055	paciente
+T86	ORG_VIVO 3787 3809	bacilos gram negativos
+T87	ORG_VIVO 4060 4105	Staphylococcus aureus resistente a meticilina
+T88	ORG_VIVO 4217 4242	flora respiratoria normal
+T89	ORG_VIVO 4336 4344	paciente
+T90	ENFERMEDAD 2061 2089	descompensación respiratoria
+T91	ENFERMEDAD 2267 2291	tromboembolismo pulmonar
+T92	ENFERMEDAD 3689 3730	neumonía intrahospitalaria sobre-agregada
+T93	ENFERMEDAD 3994 4020	neumonía intrahospitalaria
+T94	ENFERMEDAD 4036 4122	prueba de descarte para Staphylococcus aureus resistente a meticilina en fosas nasales
+T95	OTROS-SITUACION_LABORAL 223 243	compañero de trabajo
+T96	PACIENTE-PROFESION 145 195	refirió trabajar en el aeropuerto vendiendo flores

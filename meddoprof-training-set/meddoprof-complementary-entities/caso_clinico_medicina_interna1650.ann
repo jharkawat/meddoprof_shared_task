@@ -1,0 +1,64 @@
+T1	SINTOMA 214 246	tumefacción del miembro superior
+T2	SINTOMA 525 531	disnea
+T3	SINTOMA 533 547	dolor torácico
+T4	SINTOMA 760 823	MSI ligeramente aumentado de tamaño, edematoso hasta los dedos
+T5	PROCEDIMIENTO 720 738	exploración física
+T6	PROCEDIMIENTO 887 905	exploración física
+T7	PROCEDIMIENTO 972 981	hemograma
+T8	PROCEDIMIENTO 1105 1129	ecografía doppler de MSI
+T9	PROCEDIMIENTO 1584 1620	trombolisis local guiada con catéter
+T10	PROCEDIMIENTO 1690 1750	flebografía MSI mediante abordaje de vena basílica izquierda
+T11	PROCEDIMIENTO 1993 2031	catéter de fribinolisis multiperforado
+T12	PROCEDIMIENTO 2304 2307	TAC
+T13	PROCEDIMIENTO 2582 2591	ecografía
+T14	PROCEDIMIENTO 2781 2832	cirugía descompresiva de estrecho torácico superior
+T15	PROCEDIMIENTO 2862 2918	resección de primer arco costal izquierdo por vía axilar
+T16	PROCEDIMIENTO 2999 3023	anticoagulación con HBPM
+T17	PROCEDIMIENTO 3066 3088	estudio de trombofilia
+T18	NEG 108 110	no
+T19	NSCO 111 172	presentaba ningún antecedente médico ni quirúrgico de interés
+T20	NEG 478 480	no
+T21	NSCO 481 505	desaparecía por completo
+T22	NEG 519 524	niega
+T23	NSCO 525 569	disnea, dolor torácico u otra sintomatología
+T24	UNC 630 641	sospecha de
+T25	USCO 642 645	TVP
+T26	NEG 825 828	sin
+T27	NSCO 829 870	fóvea y la presencia del signo de Urschel
+T28	UNC 1221 1228	sugiere
+T29	USCO 1229 1258	trombosis parcial de la misma
+T30	UNC 1259 1272	probablemente
+T31	USCO 1273 1306	secundaria a hipertrofia muscular
+T32	UNC 1539 1550	sospecha de
+T33	USCO 1551 1557	un SPS
+T34	NEG 2196 2207	se suspende
+T35	NEG 2249 2252	sin
+T36	NSCO 2253 2278	complicaciones inmediatas
+T37	NEG 2321 2323	no
+T38	NSCO 2324 2394	detectó anomalías anatómicas estructurales en triangulo inter-escaleno
+T39	NEG 2968 2971	sin
+T40	NSCO 2972 2986	complicaciones
+T41	NEG 3101 3109	negativo
+T42	NEG 3191 3194	sin
+T43	NSCO 3195 3260	ningún tipo de incidencia en los 3 años de seguimiento posterior
+T44	FARMACO 2220 2224	HBPM
+T45	FARMACO 2226 2237	Enoxaparina
+T46	FARMACO 3019 3023	HBPM
+T47	ORG_VIVO 0 14	Paciente varón
+T48	ORG_VIVO 35 57	deportista profesional
+T49	ORG_VIVO 63 83	jugador de balonmano
+T50	ORG_VIVO 510 518	paciente
+T51	ORG_VIVO 592 619	Médico de Atención Primaria
+T52	ORG_VIVO 3114 3122	paciente
+T53	ENFERMEDAD 642 645	TVP
+T54	ENFERMEDAD 1229 1306	trombosis parcial de la misma probablemente secundaria a hipertrofia muscular
+T55	ENFERMEDAD 1309 1341	compresión secundaria de la vena
+T56	ENFERMEDAD 1445 1455	TVP de MSI
+T57	ENFERMEDAD 1762 1797	trombosis parcial de la vena axilar
+T58	ENFERMEDAD 2332 2394	anomalías anatómicas estructurales en triangulo inter-escaleno
+T59	ENFERMEDAD 2607 2653	trombosis en tercio proximal de vena subclavia
+T60	ENFERMEDAD 3077 3088	trombofilia
+T61	SANITARIO-PROFESION 592 619	Médico de Atención Primaria
+T62	PACIENTE-PROFESION 35 57	deportista profesional
+T63	PACIENTE-PROFESION 3151 3190	jugar al balonmano de forma profesional
+T64	PACIENTE-PROFESION 63 83	jugador de balonmano

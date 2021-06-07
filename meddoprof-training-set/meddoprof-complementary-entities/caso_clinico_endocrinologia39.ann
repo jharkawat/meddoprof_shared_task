@@ -1,0 +1,59 @@
+T1	SINTOMA 122 170	elevación de testosterona y aumento de estradiol
+T2	SINTOMA 253 264	galactorrea
+T3	SINTOMA 314 343	aumento de acné en la espalda
+T4	SINTOMA 591 606	hábito atlético
+T5	SINTOMA 848 856	doloroso
+T6	PROCEDIMIENTO 562 580	exploración física
+T7	PROCEDIMIENTO 752 769	palpación mamaria
+T8	PROCEDIMIENTO 893 913	palpación testicular
+T9	PROCEDIMIENTO 1204 1221	ecografía mamaria
+T10	PROCEDIMIENTO 2052 2072	ecografía testicular
+T11	NEG 44 47	sin
+T12	NSCO 48 83	antecedentes patológicos de interés
+T13	NEG 225 227	no
+T14	NSCO 228 306	refería haber presentado galactorrea ni ninguna otra sintomatología de interés
+T15	NEG 424 426	no
+T16	NSCO 427 495	refería usar fármacos con efecto androgénico o preparados hormonales
+T17	NEG 845 847	no
+T18	NSCO 848 856	doloroso
+T19	NEG 858 861	sin
+T20	NSCO 862 888	galactorrea a la expresión
+T21	NEG 1018 1027	negativos
+T22	NEG 1260 1263	sin
+T23	NSCO 1264 1298	nódulos apreciables ni adenopatías
+T24	NEG 1421 1423	no
+T25	NSCO 1424 1465	volviese a tomar productos hiperproteicos
+T26	NEG 1507 1509	no
+T27	NSCO 1510 1560	refería cambios en la ginecomastia ni a otro nivel
+T28	NEG 1868 1870	no
+T29	NSCO 1871 1909	utilizar productos hormonales exógenos
+T30	NEG 2144 2147	sin
+T31	NSCO 2148 2166	otras alteraciones
+T32	UNC 2345 2358	sugestivas de
+T33	USCO 2359 2368	neoplasia
+T34	UNC 2431 2443	posiblemente
+T35	USCO 2444 2470	focos tumorales necrosados
+T36	UNC 2484 2492	sospecha
+T37	USCO 2493 2544	diagnóstica de seminoma el paciente fue intervenido
+T38	NEG 2642 2645	sin
+T39	NSCO 2646 2672	invasión de la rete testis
+T40	NEG 2807 2810	sin
+T41	NSCO 2811 2845	necesidad de tratamiento adyuvante
+T42	ORG_VIVO 26 31	varón
+T43	ORG_VIVO 216 224	paciente
+T44	ORG_VIVO 1498 1506	paciente
+T45	ORG_VIVO 1856 1864	paciente
+T46	ORG_VIVO 2520 2528	paciente
+T47	ORG_VIVO 2733 2741	paciente
+T48	ENFERMEDAD 325 343	acné en la espalda
+T49	ENFERMEDAD 1236 1248	ginecomastia
+T50	ENFERMEDAD 1287 1298	adenopatías
+T51	ENFERMEDAD 1532 1544	ginecomastia
+T52	ENFERMEDAD 1947 1987	tumor testicular productor de andrógenos
+T53	ENFERMEDAD 2133 2143	varicocele
+T54	ENFERMEDAD 2313 2368	calcificaciones en su interior, sugestivas de neoplasia
+T55	ENFERMEDAD 2508 2516	seminoma
+T56	ENFERMEDAD 2602 2672	seminoma clásico confinado al testículo sin invasión de la rete testis
+T57	ENFERMEDAD 2675 2715	carcinoma intratubular estadio A pT1N0M0
+T58	PACIENTE-ACTIVIDAD 352 385	acudía con frecuencia al gimnasio
+T59	PACIENTE-ACTIVIDAD 389 422	practicaba fundamentalmente pesas

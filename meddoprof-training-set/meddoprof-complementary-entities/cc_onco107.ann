@@ -1,0 +1,181 @@
+T1	SINTOMA 1691 1715	dificultad para levantar
+T2	SINTOMA 1768 1782	visión borrosa
+T3	SINTOMA 1809 1829	alteración del habla
+T4	SINTOMA 1842 1848	fiebre
+T5	SINTOMA 1850 1864	dolor torácico
+T6	SINTOMA 1866 1879	palpitaciones
+T7	SINTOMA 2171 2196	ruidos cardíacos rítmicos
+T8	SINTOMA 2201 2207	soplos
+T9	SINTOMA 2322 2328	edemas
+T10	SINTOMA 2465 2475	Consciente
+T11	SINTOMA 2478 2487	orientado
+T12	SINTOMA 3072 3112	hipoestesia tactoalgésica braquio-crural
+T13	SINTOMA 3122 3172	hipopalestesia moderada en los miembros inferiores
+T14	SINTOMA 3177 3187	dismetrías
+T15	SINTOMA 5981 5997	ganancia de peso
+T16	SINTOMA 6040 6069	deterioro de la función renal
+T17	SINTOMA 6097 6108	proteinuria
+T18	SINTOMA 6419 6439	disminución del peso
+T19	SINTOMA 6752 6771	déficit neurológico
+T20	SINTOMA 6801 6808	cefalea
+T21	SINTOMA 6810 6843	deterioro del nivel de conciencia
+T22	SINTOMA 6845 6855	hemiplejia
+T23	SINTOMA 6865 6888	desviación de la mirada
+T24	SINTOMA 6908 6927	nistagmo horizontal
+T25	SINTOMA 7774 7824	movimientos tónico-clónicos en el miembro superior
+T26	SINTOMA 8794 8801	fallece
+T27	PROCEDIMIENTO 422 426	AINE
+T28	PROCEDIMIENTO 656 713	tratada con stent recubiertos en tronco, DA y circunfleja
+T29	PROCEDIMIENTO 793 813	anticoagulación oral
+T30	PROCEDIMIENTO 903 933	angioplastia y stent carotídeo
+T31	PROCEDIMIENTO 2026 2044	Exploración física
+T32	PROCEDIMIENTO 2148 2169	Auscultación cardíaca
+T33	PROCEDIMIENTO 2211 2232	Auscultación pulmonar
+T34	PROCEDIMIENTO 2440 2463	Exploración neurológica
+T35	PROCEDIMIENTO 2641 2652	campimetría
+T36	PROCEDIMIENTO 3216 3236	Radiografía de tórax
+T37	PROCEDIMIENTO 3256 3266	TC craneal
+T38	PROCEDIMIENTO 3626 3637	TC torácica
+T39	PROCEDIMIENTO 3812 3823	RM cerebral
+T40	PROCEDIMIENTO 4116 4131	Ecografía renal
+T41	PROCEDIMIENTO 4423 4445	Estudio de trombofilia
+T42	PROCEDIMIENTO 4588 4594	PET-TC
+T43	PROCEDIMIENTO 4832 4856	PAAF de la masa pulmonar
+T44	PROCEDIMIENTO 4901 4912	RM cerebral
+T45	PROCEDIMIENTO 5885 5908	tratamiento citostático
+T46	PROCEDIMIENTO 6539 6561	estudio de trombofilia
+T47	PROCEDIMIENTO 6668 6703	ecografía renal, TC toracoabdominal
+T48	PROCEDIMIENTO 6944 6955	TC cerebral
+T49	PROCEDIMIENTO 7442 7455	quimioterapia
+T50	PROCEDIMIENTO 7697 7725	profilaxis anticonvulsivante
+T51	PROCEDIMIENTO 7974 7999	RM cerebral sin contraste
+T52	PROCEDIMIENTO 8140 8164	radioterapia holocraneal
+T53	PROCEDIMIENTO 8566 8572	PET-TC
+T54	PROCEDIMIENTO 8605 8626	tratamiento paliativo
+T55	NEG 227 229	No
+T56	NSCO 230 261	menciona alergia a medicamentos
+T57	NEG 1831 1833	No
+T58	NSCO 1834 1910	refiere fiebre, dolor torácico, palpitaciones u otra sintomatología asociada
+T59	NEG 2197 2200	sin
+T60	NSCO 2201 2207	soplos
+T61	NEG 2273 2275	no
+T62	NSCO 2276 2293	masas ni megalias
+T63	NEG 2672 2674	No
+T64	NSCO 2675 2687	anosognosgia
+T65	NEG 2689 2691	No
+T66	NSCO 2692 2704	negligencias
+T67	NEG 2771 2774	sin
+T68	NSCO 2775 2788	restricciones
+T69	NEG 3174 3176	No
+T70	NSCO 3177 3187	dismetrías
+T71	NEG 3420 3422	No
+T72	NSCO 3423 3486	se observan efectos de masa ni desplazamiento de la línea media
+T73	NEG 3534 3537	sin
+T74	NSCO 3538 3562	hallazgos significativos
+T75	NEG 3895 3898	sin
+T76	NSCO 3899 3927	efecto significativo de masa
+T77	NEG 3929 3931	No
+T78	NSCO 3932 3981	se puede descartar completamente en la actualidad
+T79	NEG 4187 4190	sin
+T80	NSCO 4191 4228	dilatación de sus sistemas excretores
+T81	NEG 4260 4262	No
+T82	NSCO 4263 4305	evidencia de masas ni imágenes de litiasis
+T83	NEG 4576 4584	negativo
+T84	NEG 5028 5030	No
+T85	NSCO 5031 5065	tiene efecto de masa significativo
+T86	UNC 5087 5102	compatibles con
+T87	USCO 5103 5113	metástasis
+T88	NEG 5641 5644	sin
+T89	NSCO 5645 5662	beneficio clínico
+T90	UNC 6208 6216	sugieren
+T91	USCO 6217 6253	el diagnóstico de síndrome nefrótico
+T92	UNC 6254 6267	probablemente
+T93	USCO 6268 6282	paraneoplásico
+T94	NEG 6618 6621	sin
+T95	NSCO 6622 6666	evidencia de trombosis en estudios de imagen
+T96	NEG 7634 7637	sin
+T97	NSCO 7638 7661	toxicidades destacables
+T98	NEG 7986 7989	sin
+T99	NSCO 7990 7999	contraste
+T100	UNC 8101 8116	compatibles con
+T101	USCO 8117 8127	metástasis
+T102	NEG 8229 8232	sin
+T103	NSCO 8233 8261	nuevos episodios convulsivos
+T104	NEG 8687 8690	sin
+T105	NSCO 8691 8715	ningún beneficio clínico
+T106	FARMACO 1261 1271	furosemida
+T107	FARMACO 1287 1297	bisoprolol
+T108	FARMACO 1312 1320	ramipril
+T109	FARMACO 1335 1345	nifedipino
+T110	FARMACO 1361 1371	doxazosina
+T111	FARMACO 1386 1399	atorvastatina
+T112	FARMACO 1415 1424	omeprazol
+T113	FARMACO 1440 1455	ácido valproico
+T114	FARMACO 1472 1482	alopurinol
+T115	FARMACO 1499 1511	acenocumarol
+T116	FARMACO 1956 1968	acenocumarol
+T117	FARMACO 5352 5357	taxol
+T118	FARMACO 5360 5371	gemcitabina
+T119	FARMACO 5575 5586	vinorelbina
+T120	FARMACO 6362 6370	albúmina
+T121	FARMACO 7117 7126	fenitoína
+T122	FARMACO 7470 7475	taxol
+T123	FARMACO 7490 7501	gemcitabina
+T124	FARMACO 7730 7739	fenitoína
+T125	FARMACO 7948 7957	fenitoína
+T126	FARMACO 8300 8315	ácido valproico
+T127	FARMACO 8398 8403	taxol
+T128	FARMACO 8404 8415	gemcitabina
+T129	FARMACO 8631 8642	vinorelbina
+T130	ORG_VIVO 10 15	Varón
+T131	ORG_VIVO 44 49	hijos
+T132	ORG_VIVO 214 224	personales
+T133	ORG_VIVO 8785 8793	paciente
+T134	ENFERMEDAD 265 294	Hipertensión arterial crónica
+T135	ENFERMEDAD 296 308	dislipidemia
+T136	ENFERMEDAD 310 323	hiperuricemia
+T137	ENFERMEDAD 375 402	Insuficiencia renal crónica
+T138	ENFERMEDAD 459 484	nefropatía angioesclerosa
+T139	ENFERMEDAD 540 569	Cardiopatía isquémica crónica
+T140	ENFERMEDAD 573 589	Angina inestable
+T141	ENFERMEDAD 616 654	enfermedad de tronco, DA y circunfleja
+T142	ENFERMEDAD 717 750	Fibrilación auricular paroxística
+T143	ENFERMEDAD 817 836	Estenosis carotídea
+T144	ENFERMEDAD 849 885	estenosis del 60% por placa ulcerada
+T145	ENFERMEDAD 945 994	Aneurisma arterioesclerótico de aorta infrarrenal
+T146	ENFERMEDAD 3280 3351	hematoma intraparenquimatoso de morfología nodular en el lóbulo frontal
+T147	ENFERMEDAD 3576 3612	hematoma intraparenquimatoso frontal
+T148	ENFERMEDAD 3651 3681	neoformación pulmonar inferior
+T149	ENFERMEDAD 3704 3729	adenopatías mediastínicas
+T150	ENFERMEDAD 3732 3764	implante tumoral retroperitoneal
+T151	ENFERMEDAD 3793 3808	derrame pleural
+T152	ENFERMEDAD 3837 3859	hematoma prerrolándico
+T153	ENFERMEDAD 4014 4024	metástasis
+T154	ENFERMEDAD 4029 4050	hemorragia secundaria
+T155	ENFERMEDAD 4385 4394	trombosis
+T156	ENFERMEDAD 4396 4411	Derrame pleural
+T157	ENFERMEDAD 4434 4445	trombofilia
+T158	ENFERMEDAD 4633 4685	adenopatías-conglomerados adenopáticos mediastínicos
+T159	ENFERMEDAD 4759 4779	metabólicas malignas
+T160	ENFERMEDAD 4781 4806	Derrame pleural bilateral
+T161	ENFERMEDAD 4869 4897	carcinoma de células grandes
+T162	ENFERMEDAD 4950 4984	lesiones en el hemisferio cerebral
+T163	ENFERMEDAD 5103 5113	metástasis
+T164	ENFERMEDAD 5130 5179	Carcinoma de pulmón de células grandes estadio IV
+T165	ENFERMEDAD 5181 5191	T2B N3 M1B
+T166	ENFERMEDAD 5195 5238	Síndrome nefrótico de origen paraneoplásico
+T167	ENFERMEDAD 5241 5282	Déficit de AT III y proteína S secundario
+T168	ENFERMEDAD 5798 5813	lesión pulmonar
+T169	ENFERMEDAD 6125 6144	hipercolesterolemia
+T170	ENFERMEDAD 6147 6167	hipertrigliceridemia
+T171	ENFERMEDAD 6235 6282	síndrome nefrótico probablemente paraneoplásico
+T172	ENFERMEDAD 6508 6526	síndrome nefrótico
+T173	ENFERMEDAD 6550 6561	trombofilia
+T174	ENFERMEDAD 6635 6644	trombosis
+T175	ENFERMEDAD 6989 7021	lesiones occipitales bilaterales
+T176	ENFERMEDAD 7863 7909	convulsión focal motora en el miembro superior
+T177	ENFERMEDAD 8024 8058	lesiones en el hemisferio cerebral
+T178	ENFERMEDAD 8117 8127	metástasis
+T179	PACIENTE-PROFESION 1227 1237	Empresario
+T180	PACIENTE-PROFESION 71 101	dedicado a labores comerciales
+T181	SANITARIO-PROFESION 8730 8780	equipo de soporte y cuidado paliativo domiciliario

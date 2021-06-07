@@ -1,0 +1,156 @@
+T1	SINTOMA 1268 1275	fallece
+T2	SINTOMA 3864 3877	fallecimiento
+T3	SINTOMA 5245 5253	tristeza
+T4	SINTOMA 5292 5310	rostro inexpresivo
+T5	SINTOMA 5329 5360	siempre pensativo y arrinconado
+T6	SINTOMA 8755 8773	rasgos compulsivos
+T7	SINTOMA 9349 9367	rasgos compulsivos
+T8	SINTOMA 9899 9924	Sensación de autoeficacia
+T9	PROCEDIMIENTO 5874 5916	tratamiento con antidepresivos tricíclicos
+T10	UNC 337 346	padre con
+T11	USCO 347 442	presencia de síndrome demencial de origen vascular y neuropatía de posible etiología alcohólica
+T12	NEG 893 896	sin
+T13	NSCO 897 917	repetir grado alguno
+T14	NEG 1389 1391	no
+T15	NSCO 1392 1448	pudo afrontar de manera adecuada la muerte de su cónyuge
+T16	NEG 2219 2222	sin
+T17	NSCO 2223 2229	sueldo
+T18	NEG 2515 2517	no
+T19	NSCO 2518 2547	haber podido concebir un hijo
+T20	NEG 2689 2691	no
+T21	NSCO 2692 2702	intentarlo
+T22	NEG 3211 3213	no
+T23	NSCO 3214 3223	puede más
+T24	NEG 3505 3507	no
+T25	NSCO 3508 3525	se merece la vida
+T26	NEG 3623 3628	nunca
+T27	NEG 3629 3638	ha cedido
+T28	NSCO 3639 3653	ante esta idea
+T29	NEG 3934 3936	no
+T30	NSCO 3937 3978	haberle podido en vida, brindar el cariño
+T31	NEG 4304 4306	No
+T32	NSCO 4307 4328	tenía ganas de vivir"
+T33	NEG 4851 4853	no
+T34	NSCO 4854 4890	ingiriendo grandes cantidades de sal
+T35	UNC 5467 5473	parece
+T36	USCO 5474 5484	importarle
+T37	NEG 6153 6155	no
+T38	NSCO 6156 6194	acostumbra a delegar responsabilidades
+T39	NEG 7372 7388	imposibilidad de
+T40	NSCO 7389 7399	realizarlo
+T41	NEG 7647 7649	no
+T42	NSCO 7650 7677	es la que escogió para ella
+T43	NEG 7906 7908	no
+T44	NSCO 7909 7938	ver cumplidas sus necesidades
+T45	NEG 8232 8234	no
+T46	NSCO 8235 8268	se preparó de una manera adecuada
+T47	NEG 9187 9189	no
+T48	NSCO 9190 9221	dependen de él sino del destino
+T49	NEG 9841 9843	no
+T50	NSCO 9844 9897	considerar satisfactoria su vida y útil su existencia
+T51	FARMACO 4659 4676	hidroclorotiazida
+T52	FARMACO 4696 4705	captopril
+T53	FARMACO 5657 5665	Diazepán
+T54	ORG_VIVO 20 29	Masculino
+T55	ORG_VIVO 215 225	Personales
+T56	ORG_VIVO 276 286	familiares
+T57	ORG_VIVO 288 293	Madre
+T58	ORG_VIVO 337 342	padre
+T59	ORG_VIVO 465 473	familiar
+T60	ORG_VIVO 476 484	Paciente
+T61	ORG_VIVO 639 643	niño
+T62	ORG_VIVO 728 738	familiares
+T63	ORG_VIVO 817 825	hermanos
+T64	ORG_VIVO 841 848	1 varón
+T65	ORG_VIVO 1262 1267	madre
+T66	ORG_VIVO 1371 1378	familia
+T67	ORG_VIVO 1383 1388	padre
+T68	ORG_VIVO 1441 1448	cónyuge
+T69	ORG_VIVO 1661 1669	paciente
+T70	ORG_VIVO 1705 1710	padre
+T71	ORG_VIVO 1782 1787	padre
+T72	ORG_VIVO 1908 1916	paciente
+T73	ORG_VIVO 1945 1953	cuidador
+T74	ORG_VIVO 1972 1980	hermanas
+T75	ORG_VIVO 2297 2303	esposa
+T76	ORG_VIVO 2397 2405	personas
+T77	ORG_VIVO 2411 2418	anciano
+T78	ORG_VIVO 2454 2462	paciente
+T79	ORG_VIVO 2468 2474	esposa
+T80	ORG_VIVO 2543 2547	hijo
+T81	ORG_VIVO 2744 2756	especialista
+T82	ORG_VIVO 2802 2807	padre
+T83	ORG_VIVO 3149 3157	paciente
+T84	ORG_VIVO 3280 3286	esposa
+T85	ORG_VIVO 3294 3297	ama
+T86	ORG_VIVO 3387 3395	procrear
+T87	ORG_VIVO 3449 3456	cónyuge
+T88	ORG_VIVO 3616 3622	esposa
+T89	ORG_VIVO 3743 3749	hombre
+T90	ORG_VIVO 3754 3757	ama
+T91	ORG_VIVO 3844 3852	paciente
+T92	ORG_VIVO 3884 3889	madre
+T93	ORG_VIVO 4203 4208	padre
+T94	ORG_VIVO 4275 4281	esposa
+T95	ORG_VIVO 4380 4385	padre
+T96	ORG_VIVO 4427 4433	tabaco
+T97	ORG_VIVO 4450 4456	esposa
+T98	ORG_VIVO 4606 4623	médico de familia
+T99	ORG_VIVO 4808 4814	esposa
+T100	ORG_VIVO 5458 5466	personal
+T101	ORG_VIVO 5725 5727	Dr
+T102	ORG_VIVO 5766 5785	guardia de medicina
+T103	ORG_VIVO 6115 6121	esposa
+T104	ORG_VIVO 6125 6133	paciente
+T105	ORG_VIVO 6141 6148	persona
+T106	ORG_VIVO 6302 6309	persona
+T107	ORG_VIVO 6417 6422	padre
+T108	ORG_VIVO 6694 6701	persona
+T109	ORG_VIVO 6830 6835	padre
+T110	ORG_VIVO 7065 7073	paciente
+T111	ORG_VIVO 7220 7228	cuidador
+T112	ORG_VIVO 7243 7248	padre
+T113	ORG_VIVO 7333 7337	hijo
+T114	ORG_VIVO 7477 7482	padre
+T115	ORG_VIVO 7526 7532	esposa
+T116	ORG_VIVO 7799 7804	padre
+T117	ORG_VIVO 8118 8126	paciente
+T118	ORG_VIVO 8177 8182	madre
+T119	ORG_VIVO 8437 8445	paciente
+T120	ORG_VIVO 8728 8736	paciente
+T121	ORG_VIVO 8900 8908	paciente
+T122	ORG_VIVO 8936 8944	paciente
+T123	ORG_VIVO 9409 9417	paciente
+T124	ORG_VIVO 9492 9500	personal
+T125	ORG_VIVO 9677 9685	paciente
+T126	ORG_VIVO 9718 9726	paciente
+T127	ORG_VIVO 9795 9803	paciente
+T128	ORG_VIVO 10016 10024	paciente
+T129	ORG_VIVO 10071 10078	persona
+T130	ORG_VIVO 10173 10181	paciente
+T131	ORG_VIVO 10274 10281	persona
+T132	ENFERMEDAD 151 169	Síndrome depresivo
+T133	ENFERMEDAD 227 248	Hipertensión arterial
+T134	ENFERMEDAD 308 335	Infarto agudo del miocardio
+T135	ENFERMEDAD 360 397	síndrome demencial de origen vascular
+T136	ENFERMEDAD 400 442	neuropatía de posible etiología alcohólica
+T137	ENFERMEDAD 1282 1309	Infarto agudo del miocardio
+T138	ENFERMEDAD 1802 1826	padecimiento neurológico
+T139	ENFERMEDAD 2958 2975	demencia vascular
+T140	ENFERMEDAD 3096 3119	lesiones en sus glúteos
+T141	ENFERMEDAD 5118 5130	hipertensión
+T142	ENFERMEDAD 5608 5654	intento suicida por ingestión de psicofármacos
+T143	ENFERMEDAD 5842 5860	Síndrome Depresivo
+T144	ENFERMEDAD 6485 6503	síndrome depresivo
+T145	ENFERMEDAD 8793 8824	padecimiento del estrés crónico
+T146	ENFERMEDAD 9442 9463	síndrome psiquiátrico
+T147	ENFERMEDAD 9465 9474	Depresivo
+T148	ENFERMEDAD 10462 10470	suicidio
+T149	SANITARIO-PROFESION 5725 5728	Dr.
+T150	PACIENTE-SITUACION_LABORAL 1945 1961	cuidador crucial
+T151	PACIENTE-SITUACION_LABORAL 7220 7236	cuidador crucial
+T152	SANITARIO-PROFESION 2744 2756	especialista
+T153	FAMILIAR-SITUACION_LABORAL 1894 1902	inválido
+T154	PACIENTE-SITUACION_LABORAL 2174 2195	abandona su profesión
+T155	SANITARIO-PROFESION 4606 4623	médico de familia
+T156	PACIENTE-SITUACION_LABORAL 7117 7133	Dejar su trabajo

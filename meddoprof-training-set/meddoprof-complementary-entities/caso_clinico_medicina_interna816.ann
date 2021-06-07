@@ -1,0 +1,55 @@
+T1	SINTOMA 219 231	asintomático
+T2	SINTOMA 600 607	ascitis
+T3	SINTOMA 612 618	edemas
+T4	PROCEDIMIENTO 454 473	ecografía abdominal
+T5	PROCEDIMIENTO 527 545	Exploración Física
+T6	PROCEDIMIENTO 549 567	exploración física
+T7	PROCEDIMIENTO 623 655	auscultación cardiorrespiratoria
+T8	PROCEDIMIENTO 658 682	exploración neurológicas
+T9	PROCEDIMIENTO 836 849	proteinograma
+T10	PROCEDIMIENTO 955 982	ecografía doppler abdominal
+T11	PROCEDIMIENTO 1176 1191	endoscopia oral
+T12	PROCEDIMIENTO 1419 1443	serología de Schistosoma
+T13	PROCEDIMIENTO 1570 1577	biopsia
+T14	NEG 219 231	asintomático
+T15	NEG 282 284	no
+T16	NSCO 285 346	presentaba otras patologías ni realizaba tratamiento habitual
+T17	NEG 503 506	sin
+T18	NSCO 507 524	cirrosis hepática
+T19	NEG 585 587	No
+T20	NSCO 588 618	se objetivó ascitis, ni edemas
+T21	NEG 1049 1052	sin
+T22	NSCO 1053 1078	esplenomegalia congestiva
+T23	NEG 1347 1355	negativa
+T24	NSCO 1356 1371	para lúes y VIH
+T25	NEG 1466 1468	No
+T26	NSCO 1469 1521	se detectaron parásitos ni huevos del mismo en heces
+T27	NEG 1720 1722	no
+T28	NSCO 1723 1771	cirrótica en relación con Schistosomiasis hepato
+T29	ORG_VIVO 10 15	Varón
+T30	ORG_VIVO 117 120	VHC
+T31	ORG_VIVO 196 204	paciente
+T32	ORG_VIVO 1329 1332	VHB
+T33	ORG_VIVO 1335 1338	VHA
+T34	ORG_VIVO 1368 1371	VIH
+T35	ORG_VIVO 1432 1443	Schistosoma
+T36	ORG_VIVO 1483 1492	parásitos
+T37	ORG_VIVO 1496 1502	huevos
+T38	ORG_VIVO 1605 1611	huevos
+T39	ORG_VIVO 1616 1624	parásito
+T40	ORG_VIVO 1785 1793	paciente
+T41	ENFERMEDAD 70 115	infección crónica por virus de la hepatitis C
+T42	ENFERMEDAD 483 502	hipertensión portal
+T43	ENFERMEDAD 507 524	cirrosis hepática
+T44	ENFERMEDAD 600 607	ascitis
+T45	ENFERMEDAD 1000 1019	hipertensión portal
+T46	ENFERMEDAD 1024 1047	shunts porto-sistémicos
+T47	ENFERMEDAD 1053 1078	esplenomegalia congestiva
+T48	ENFERMEDAD 1203 1221	varices esofágicas
+T49	ENFERMEDAD 1269 1293	infección activa por VHC
+T50	ENFERMEDAD 1605 1650	huevos del parásito en el parénquima hepático
+T51	ENFERMEDAD 1700 1719	hipertensión portal
+T52	ENFERMEDAD 1723 1732	cirrótica
+T53	ENFERMEDAD 1749 1781	Schistosomiasis hepato-esplénica
+T54	ENFERMEDAD 1798 1853	infección crónica por VHC genotipo 1a con fibrosis leve
+T55	PACIENTE-SITUACION_LABORAL 168 191	en centro penitenciario

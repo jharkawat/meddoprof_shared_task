@@ -1,0 +1,49 @@
+T1	SINTOMA 746 756	pesadillas
+T2	SINTOMA 1769 1776	ansioso
+T3	SINTOMA 1810 1826	hiperventilación
+T4	SINTOMA 1888 1911	golpes en el escritorio
+T5	SINTOMA 2038 2061	pérdida de sentimientos
+T6	SINTOMA 2097 2110	desesperación
+T7	PROCEDIMIENTO 684 705	reconstituirle el ano
+T8	NEG 1639 1641	no
+T9	NSCO 1642 1657	consumía drogas
+T10	NEG 2122 2124	no
+T11	NSCO 2125 2163	podía olvidarse de recuerdos terribles
+T12	NEG 2371 2373	No
+T13	NSCO 2374 2424	quería hablar acerca de sus experiencias en Kuwait
+T14	NEG 2519 2521	no
+T15	NSCO 2522 2566	podía recordar algunos eventos de la tortura
+T16	NEG 2570 2572	No
+T17	NSCO 2573 2631	puedo aclarar la historia completa en mi mente" se quejaba
+T18	UNC 2671 2681	parecen no
+T19	USCO 2682 2690	dejarme"
+T20	NEG 2727 2729	no
+T21	NSCO 2730 2748	había podido mirar
+T22	NEG 2827 2837	incapaz de
+T23	NSCO 2838 2869	defender el honor de su hermana
+T24	NEG 2874 2876	no
+T25	NSCO 2877 2889	hubiera sido
+T26	ORG_VIVO 3 11	paciente
+T27	ORG_VIVO 18 24	chofer
+T28	ORG_VIVO 175 183	paciente
+T29	ORG_VIVO 283 290	familia
+T30	ORG_VIVO 319 324	hijos
+T31	ORG_VIVO 365 373	paciente
+T32	ORG_VIVO 408 415	hermana
+T33	ORG_VIVO 725 733	paciente
+T34	ORG_VIVO 815 822	hermana
+T35	ORG_VIVO 1042 1050	paciente
+T36	ORG_VIVO 1165 1170	padre
+T37	ORG_VIVO 1278 1286	hermanos
+T38	ORG_VIVO 1292 1299	hermana
+T39	ORG_VIVO 1372 1377	hijos
+T40	ORG_VIVO 1401 1405	mamá
+T41	ORG_VIVO 1497 1504	vecinos
+T42	ORG_VIVO 1509 1516	hermano
+T43	ORG_VIVO 2764 2771	familia
+T44	ORG_VIVO 2862 2869	hermana
+T45	ORG_VIVO 2903 2908	hijos
+T46	ORG_VIVO 2914 2921	familia
+T47	ENFERMEDAD 384 397	trauma severo
+T48	ENFERMEDAD 848 856	ansiedad
+T49	PACIENTE-PROFESION 18 24	chofer

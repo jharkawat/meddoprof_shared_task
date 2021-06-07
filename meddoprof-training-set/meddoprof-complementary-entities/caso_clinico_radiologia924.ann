@@ -1,0 +1,19 @@
+T1	SINTOMA 239 256	tos no productiva
+T2	PROCEDIMIENTO 181 204	tratamiento antibiótico
+T3	PROCEDIMIENTO 464 484	Radiografía de tórax
+T4	PROCEDIMIENTO 641 681	Tomografía axial computada sin contraste
+T5	PROCEDIMIENTO 1040 1103	Reconstrucción corona yacoronales reconstrucción coronal en MIP
+T6	NEG 218 221	sin
+T7	NSCO 222 233	tratamiento
+T8	NEG 243 245	no
+T9	NSCO 246 256	productiva
+T10	NEG 258 261	sin
+T11	NSCO 262 276	otros síntomas
+T12	NEG 668 671	sin
+T13	NSCO 672 681	contraste
+T14	UNC 798 812	compatible con
+T15	USCO 813 830	una corona dental
+T16	ORG_VIVO 0 18	Paciente masculino
+T17	ORG_VIVO 1460 1465	arbol
+T18	ENFERMEDAD 166 176	bronquitis
+T19	ENFERMEDAD 401 416	cáncer de colon

@@ -1,0 +1,10 @@
+T1	SINTOMA 139 160	ideas heteroagresivas
+T2	SINTOMA 413 427	metamorfopsias
+T3	SINTOMA 676 695	tendencia al acting
+T4	PROCEDIMIENTO 369 387	eco de pensamiento
+T5	NEG 562 566	cede
+T6	NSCO 567 594	la sintomatología psicótica
+T7	ORG_VIVO 0 5	Varón
+T8	ENFERMEDAD 34 46	TP Paranoide
+T9	ENFERMEDAD 192 223	sintomatología psicótica franca
+T10	ENFERMEDAD 570 594	sintomatología psicótica

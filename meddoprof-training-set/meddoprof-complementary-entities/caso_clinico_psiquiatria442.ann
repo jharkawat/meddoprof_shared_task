@@ -1,0 +1,74 @@
+T1	SINTOMA 1678 1683	temor
+T2	SINTOMA 2555 2584	alteraciones sensoperceptivas
+T3	SINTOMA 2643 2651	Insomnio
+T4	SINTOMA 2694 2703	hiporexia
+T5	SINTOMA 4089 4097	eutímico
+T6	SINTOMA 4463 4471	insomnio
+T7	PROCEDIMIENTO 703 733	tratamiento psicofarmacológico
+T8	PROCEDIMIENTO 2758 2767	Hemograma
+T9	NEG 390 392	no
+T10	NSCO 393 416	AP orgánicos de interés
+T11	NEG 424 426	No
+T12	NSCO 427 440	IQ relevantes
+T13	NEG 442 444	No
+T14	NSCO 445 476	consumo de tóxicos concomitante
+T15	NEG 591 593	No
+T16	NSCO 594 630	acudió a la última cita en el equipo
+T17	NEG 1200 1211	desaparecen
+T18	NSCO 1212 1221	las cosas
+T19	UNC 1693 1700	pudiera
+T20	USCO 1701 1719	suceder en el piso
+T21	NEG 1935 1937	no
+T22	NSCO 1938 1970	poder soportar más la situación"
+T23	NEG 2529 2531	no
+T24	NSCO 2532 2549	pueda estar allí"
+T25	NEG 2551 2554	Sin
+T26	NSCO 2555 2642	alteraciones sensoperceptivas verbalizadas espontáneamente o en la exploración dirigida
+T27	NEG 3096 3099	sin
+T28	NSCO 3100 3121	franca estructuración
+T29	FARMACO 770 789	zuclopentixol depot
+T30	FARMACO 805 817	paliperidona
+T31	FARMACO 837 849	lormetazepam
+T32	FARMACO 864 873	trazodona
+T33	FARMACO 891 906	levomepromazina
+T34	FARMACO 3432 3442	olanzapina
+T35	FARMACO 3569 3580	risperidona
+T36	FARMACO 3816 3825	clozapina
+T37	FARMACO 3963 3972	clozapina
+T38	FARMACO 4317 4326	clozapina
+T39	FARMACO 4343 4352	clozapina
+T40	FARMACO 4369 4381	lormetazepam
+T41	FARMACO 4396 4418	clorazepato dipotásico
+T42	FARMACO 4475 4488	zuclopentixol
+T43	ORG_VIVO 0 14	Paciente varón
+T44	ORG_VIVO 130 138	paciente
+T45	ORG_VIVO 930 938	paciente
+T46	ORG_VIVO 1411 1419	paciente
+T47	ORG_VIVO 1536 1554	compañeros de piso
+T48	ORG_VIVO 1668 1673	madre
+T49	ORG_VIVO 1848 1853	madre
+T50	ORG_VIVO 1877 1885	paciente
+T51	ORG_VIVO 2391 2409	personal de FAISEM
+T52	ORG_VIVO 2429 2447	compañeros de piso
+T53	ORG_VIVO 3052 3070	compañeros de piso
+T54	ORG_VIVO 3076 3094	personal de FAISEM
+T55	ORG_VIVO 3518 3526	paciente
+T56	ORG_VIVO 4069 4077	paciente
+T57	ENFERMEDAD 565 588	esquizofrenia paranoide
+T58	ENFERMEDAD 2254 2264	hipertimia
+T59	ENFERMEDAD 2802 2813	DIAGNÓSTICO
+T60	ENFERMEDAD 2814 2843	Esquizofrenia paranoide - F20
+T61	ENFERMEDAD 3530 3548	ideación delirante
+T62	ENFERMEDAD 3847 3871	esquizofrenia resistente
+T63	ENFERMEDAD 4452 4460	ansiedad
+T64	ENFERMEDAD 4463 4471	insomnio
+T65	OTROS-SITUACION_LABORAL 1536 1554	compañeros de piso
+T66	OTROS-SITUACION_LABORAL 2429 2447	compañeros de piso
+T67	OTROS-SITUACION_LABORAL 3052 3070	compañeros de piso
+T68	SANITARIO-PROFESION 624 630	equipo
+T69	OTROS-PROFESION 2391 2409	personal de FAISEM
+T70	OTROS-PROFESION 3076 3094	personal de FAISEM
+T71	PACIENTE-SITUACION_LABORAL 62 81	en un piso tutelado
+T72	OTROS-SITUACION_LABORAL 1016 1037	integrante en el piso
+T73	OTROS-PROFESION 1560 1568	monitora
+T74	OTROS-PROFESION 2076 2084	monitora

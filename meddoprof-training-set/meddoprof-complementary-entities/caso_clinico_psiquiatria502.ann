@@ -1,0 +1,145 @@
+T1	SINTOMA 390 407	temblor en reposo
+T2	SINTOMA 409 428	hipertonía muscular
+T3	SINTOMA 431 443	bradicinesia
+T4	SINTOMA 824 846	sintomatología ansiosa
+T5	SINTOMA 1066 1074	suspicaz
+T6	SINTOMA 1087 1097	diaforesis
+T7	SINTOMA 1312 1320	delirios
+T8	SINTOMA 1782 1802	discinesia orofacial
+T9	SINTOMA 2130 2157	alteraciones de la conducta
+T10	SINTOMA 3320 3330	consciente
+T11	SINTOMA 3332 3341	orientada
+T12	SINTOMA 3344 3361	poco colaboradora
+T13	SINTOMA 3576 3597	inquietud psicomotriz
+T14	SINTOMA 3608 3630	sintomatología ansiosa
+T15	SINTOMA 3799 3812	irritabilidad
+T16	SINTOMA 3974 3990	ánimo disminuido
+T17	SINTOMA 3995 4021	escasa labilidad emocional
+T18	SINTOMA 4024 4045	mal descanso nocturno
+T19	SINTOMA 4247 4272	Ruidos cardiacos rítmicos
+T20	SINTOMA 4277 4283	soplos
+T21	SINTOMA 4285 4361	Abdomen blando, depresible, levemente doloroso a la palpación en hipogastrio
+T22	SINTOMA 4376 4397	irritación peritoneal
+T23	SINTOMA 5883 5905	sintomatología ansiosa
+T24	SINTOMA 6332 6349	intensa inquietud
+T25	SINTOMA 6351 6361	sudoración
+T26	SINTOMA 6364 6384	alto nivel de alerta
+T27	SINTOMA 6733 6746	parkinsonismo
+T28	PROCEDIMIENTO 468 487	analítica sanguínea
+T29	PROCEDIMIENTO 568 596	Spect Datscan y RNM cerebral
+T30	PROCEDIMIENTO 4337 4361	palpación en hipogastrio
+T31	PROCEDIMIENTO 4723 4732	hemograma
+T32	PROCEDIMIENTO 4800 4818	Electrocardiograma
+T33	PROCEDIMIENTO 4891 4911	Radiografía de tórax
+T34	PROCEDIMIENTO 5029 5041	RMN cerebral
+T35	PROCEDIMIENTO 5343 5346	EEG
+T36	PROCEDIMIENTO 6880 6883	ECG
+T37	NEG 210 213	sin
+T38	NSCO 214 231	ocupación laboral
+T39	NEG 1144 1155	incoherente
+T40	NEG 2628 2633	niega
+T41	NSCO 2634 2661	la posesión de dicho objeto
+T42	UNC 2808 2814	parece
+T43	NEG 3051 3062	ausencia de
+T44	NSCO 3063 3101	introspección por parte de la paciente
+T45	NEG 3251 3262	ausencia de
+T46	NSCO 3263 3280	clínica psicótica
+T47	NEG 3397 3408	ausencia de
+T48	NSCO 3409 3422	introspección
+T49	NEG 3836 3838	No
+T50	NSCO 3839 3889	presentaba agresividad física ni clínica delirante
+T51	NEG 3891 3893	No
+T52	NSCO 3894 3952	trastornos de la senso-percepción ni de la vivencia del Yo
+T53	NEG 4225 4228	sin
+T54	NSCO 4229 4245	ruidos agregados
+T55	NEG 4273 4276	sin
+T56	NSCO 4277 4283	soplos
+T57	NEG 4363 4366	sin
+T58	NSCO 4367 4397	datos de irritación peritoneal
+T59	NEG 4399 4402	sin
+T60	NSCO 4403 4420	masas ni megalias
+T61	NEG 4453 4461	negativa
+T62	NEG 4609 4611	No
+T63	NSCO 4612 4642	reflejos de liberación frontal
+T64	NEG 4644 4646	No
+T65	NSCO 4647 4667	movimientos atípicos
+T66	NEG 4669 4671	No
+T67	NSCO 4672 4685	piramidalismo
+T68	NEG 5011 5014	sin
+T69	NSCO 5015 5027	alteraciones
+T70	NEG 5134 5146	inespecífica
+T71	NEG 5247 5250	sin
+T72	NSCO 5251 5341	que se adviertan alteraciones morfológicas u otros cambios de señal en parénquima cerebral
+T73	NEG 5465 5473	descartó
+T74	NSCO 5474 5547	que los síntomas clínicos fueran secundarios a la enfermedad de Parkinson
+T75	NEG 5594 5597	sin
+T76	NSCO 5598 5631	cambios de la pauta farmacológica
+T77	NEG 6138 6140	no
+T78	NSCO 6141 6172	total- remisión de los síntomas
+T79	NEG 6698 6700	no
+T80	NSCO 6701 6746	se objetiva empeoramiento de su parkinsonismo
+T81	NEG 6884 6887	sin
+T82	NSCO 6888 6900	alteraciones
+T83	NEG 7216 7227	remisión de
+T84	NSCO 7228 7240	los síntomas
+T85	NEG 7280 7292	ausencia del
+T86	NSCO 7293 7319	carácter hostil y agresivo
+T87	NEG 7404 7407	sin
+T88	NSCO 7408 7419	incidencias
+T89	FARMACO 725 735	pramipexol
+T90	FARMACO 1381 1390	lorazepam
+T91	FARMACO 1402 1412	olanzapina
+T92	FARMACO 1441 1450	rasaglina
+T93	FARMACO 1586 1596	olanzapina
+T94	FARMACO 1825 1835	olanzapina
+T95	FARMACO 1840 1850	quetiapina
+T96	FARMACO 1956 1965	carbidopa
+T97	FARMACO 1966 1974	levodopa
+T98	FARMACO 5822 5832	quetiapina
+T99	FARMACO 6926 6935	clozapina
+T100	FARMACO 7146 7155	clozapina
+T101	ORG_VIVO 30 35	mujer
+T102	ORG_VIVO 139 144	madre
+T103	ORG_VIVO 152 156	hija
+T104	ORG_VIVO 180 186	marido
+T105	ORG_VIVO 192 196	hija
+T106	ORG_VIVO 267 275	paciente
+T107	ORG_VIVO 301 307	marido
+T108	ORG_VIVO 313 325	especialista
+T109	ORG_VIVO 769 777	paciente
+T110	ORG_VIVO 902 908	marido
+T111	ORG_VIVO 1032 1040	paciente
+T112	ORG_VIVO 2043 2049	marido
+T113	ORG_VIVO 2056 2064	paciente
+T114	ORG_VIVO 2115 2120	mujer
+T115	ORG_VIVO 2579 2585	marido
+T116	ORG_VIVO 2724 2731	persona
+T117	ORG_VIVO 2743 2751	cuidador
+T118	ORG_VIVO 2799 2807	paciente
+T119	ORG_VIVO 2998 3006	familiar
+T120	ORG_VIVO 3093 3101	paciente
+T121	ORG_VIVO 3311 3319	Paciente
+T122	ORG_VIVO 3453 3461	personal
+T123	ORG_VIVO 3716 3724	personal
+T124	ORG_VIVO 6038 6046	paciente
+T125	ORG_VIVO 6058 6068	familiares
+T126	ORG_VIVO 6273 6281	paciente
+T127	ORG_VIVO 6460 6466	marido
+T128	ORG_VIVO 6469 6473	hija
+T129	ORG_VIVO 6606 6614	paciente
+T130	ORG_VIVO 6636 6646	familiares
+T131	ORG_VIVO 6842 6850	paciente
+T132	ENFERMEDAD 65 121	trastorno psicótico inducido por sustancias/medicamentos
+T133	ENFERMEDAD 620 654	enfermedad de Parkinson Idiopática
+T134	ENFERMEDAD 1251 1279	trastorno psicótico inducido
+T135	ENFERMEDAD 1312 1320	delirios
+T136	ENFERMEDAD 1730 1758	distonía en miembro superior
+T137	ENFERMEDAD 1782 1802	discinesia orofacial
+T138	ENFERMEDAD 2001 2018	ENFERMEDAD ACTUAL
+T139	ENFERMEDAD 5126 5146	gliosis inespecífica
+T140	ENFERMEDAD 5154 5236	isquémicos crónicos en sustancia blanca periventricular frontal derecha y parietal
+T141	ENFERMEDAD 5524 5547	enfermedad de Parkinson
+T142	ENFERMEDAD 5708 5742	enfermedad de Parkinson idiopático
+T143	FAMILIAR-SITUACION_LABORAL 2733 2751	principal cuidador
+T144	SANITARIO-PROFESION 313 339	especialista en Neurología
+T145	PACIENTE-SITUACION_LABORAL 210 231	sin ocupación laboral

@@ -1,0 +1,207 @@
+T1	SINTOMA 18 28	ex fumador
+T2	SINTOMA 234 242	tos seca
+T3	SINTOMA 245 251	fiebre
+T4	SINTOMA 270 299	cuadro catarral de vías altas
+T5	SINTOMA 322 336	dolor torácico
+T6	SINTOMA 370 416	irradiación a región interescapular y escápula
+T7	SINTOMA 646 649	tos
+T8	SINTOMA 655 660	dolor
+T9	SINTOMA 772 778	disnea
+T10	SINTOMA 889 898	taquipnea
+T11	SINTOMA 999 1020	crepitantes bibasales
+T12	SINTOMA 1981 1984	tos
+T13	SINTOMA 1986 1992	fiebre
+T14	SINTOMA 1994 2022	dolor torácico de fase aguda
+T15	SINTOMA 2083 2094	taquicardia
+T16	SINTOMA 2167 2188	crepitantes bibasales
+T17	SINTOMA 2225 2256	dolor torácico e interescapular
+T18	SINTOMA 2284 2289	dolor
+T19	SINTOMA 3465 3471	soplos
+T20	SINTOMA 3475 3491	roce pericárdico
+T21	SINTOMA 3757 3780	crepitantes bilaterales
+T22	SINTOMA 4529 4535	fiebre
+T23	SINTOMA 5170 5196	elevación de transaminasas
+T24	SINTOMA 6622 6625	tos
+T25	SINTOMA 6627 6658	dolor torácico e interescapular
+T26	SINTOMA 6662 6703	disminución de los estertores crepitantes
+T27	PROCEDIMIENTO 539 550	analgésicos
+T28	PROCEDIMIENTO 552 569	antiinflamatorios
+T29	PROCEDIMIENTO 572 590	relajante muscular
+T30	PROCEDIMIENTO 927 948	auscultación cardiaca
+T31	PROCEDIMIENTO 969 990	auscultación pulmonar
+T32	PROCEDIMIENTO 1176 1185	hemograma
+T33	PROCEDIMIENTO 1412 1432	Radiografía de tórax
+T34	PROCEDIMIENTO 1578 1581	ECG
+T35	PROCEDIMIENTO 2061 2081	radiografía de tórax
+T36	PROCEDIMIENTO 2195 2207	auscultación
+T37	PROCEDIMIENTO 2632 2646	ecocardiograma
+T38	PROCEDIMIENTO 2648 2659	TC de tórax
+T39	PROCEDIMIENTO 3498 3501	ECG
+T40	PROCEDIMIENTO 3635 3649	ecocardiograma
+T41	PROCEDIMIENTO 4297 4317	radiografía de tórax
+T42	PROCEDIMIENTO 4774 4793	ecografía abdominal
+T43	PROCEDIMIENTO 4911 4927	serología de VIH
+T44	PROCEDIMIENTO 4985 5012	determinación de ANA y ANCA
+T45	PROCEDIMIENTO 5069 5088	ecografía abdominal
+T46	PROCEDIMIENTO 5237 5265	ecocardiograma transtorácico
+T47	PROCEDIMIENTO 5457 5483	toracocentesis diagnóstica
+T48	PROCEDIMIENTO 5486 5504	pericardiocentesis
+T49	PROCEDIMIENTO 5509 5542	colocación de drenaje pericárdico
+T50	PROCEDIMIENTO 6078 6097	análisis citológico
+T51	PROCEDIMIENTO 6195 6207	hemocultivos
+T52	PROCEDIMIENTO 6275 6298	tratamiento antibiótico
+T53	PROCEDIMIENTO 6470 6526	tratamiento deplectivo con furosemida y antiinflamatorio
+T54	PROCEDIMIENTO 6811 6827	ecocardiográfico
+T55	NEG 18 20	ex
+T56	NSCO 21 28	fumador
+T57	NEG 356 364	atípicas
+T58	UNC 486 493	posible
+T59	USCO 494 514	contractura muscular
+T60	NEG 737 754	En ningún momento
+T61	NSCO 755 778	había presentado disnea
+T62	NEG 885 888	sin
+T63	NSCO 889 922	taquipnea ni trabajo respiratorio
+T64	NEG 1049 1051	no
+T65	NSCO 1052 1080	mostró hallazgos patológicos
+T66	NEG 1614 1617	sin
+T67	NSCO 1618 1645	otros hallazgos patológicos
+T68	NEG 1670 1673	sin
+T69	NSCO 1674 1695	hallazgos patológicos
+T70	UNC 1875 1883	probable
+T71	USCO 1884 1910	es una sepsis respiratoria
+T72	NEG 2110 2112	no
+T73	NSCO 2113 2164	explicaría la existencia de derrame pleural derecho
+T74	NEG 2309 2317	atípicas
+T75	NEG 2334 2343	descartar
+T76	NSCO 2344 2453	la presencia de patología cardiaca tipo síndrome coronario agudo o aneurisma disecante de aorta intratorácica
+T77	NEG 2458 2469	ausencia de
+T78	NSCO 2470 2559	cambios eléctricos y elevación de enzimas cardiacas hace improbable el primer diagnóstico
+T79	UNC 2669 2675	parece
+T80	USCO 2676 2681	menos
+T81	UNC 2682 2690	probable
+T82	USCO 2691 2714	por su menor frecuencia
+T83	NEG 2717 2728	ausencia de
+T84	NSCO 2729 2737	factores
+T85	UNC 2934 2941	pudiera
+T86	USCO 2942 2992	ser paraneumónico o tratarse incluso de un empiema
+T87	UNC 3132 3138	podría
+T88	USCO 3139 3239	encuadrarse en el contexto de una endocarditis infecciosa sobre válvula nativa u otras valvulopatías
+T89	NEG 3447 3449	no
+T90	NSCO 3450 3491	se objetivaron soplos ni roce pericárdico
+T91	NEG 3502 3504	no
+T92	NSCO 3505 3540	mostró signos de pericarditis aguda
+T93	NEG 3542 3544	No
+T94	UNC 3598 3603	sería
+T95	USCO 3604 3684	necesaria la realización de un ecocardiograma y otras determinaciones analíticas
+T96	UNC 3723 3731	pudieran
+T97	USCO 3732 3857	explicar la presencia de crepitantes bilaterales sería la existencia de una fibrosis pulmonar o una linfangitis carcinomatosa
+T98	NEG 3869 3880	ausencia de
+T99	NSCO 3881 3895	otros síntomas
+T100	UNC 3905 3911	parece
+T101	USCO 3912 3965	razonable descartarlas al menos en el momento inicial
+T102	UNC 3986 3993	pudiera
+T103	USCO 3994 4048	también estar en relación con lesiones osteomusculares
+T104	NEG 4144 4146	no
+T105	NSCO 4147 4155	conocido
+T106	NEG 4201 4204	sin
+T107	NSCO 4205 4210	éxito
+T108	NEG 4260 4262	no
+T109	NSCO 4263 4317	visualizarse lesiones óseas en la radiografía de tórax
+T110	UNC 4349 4355	podría
+T111	USCO 4356 4412	estar en relación con un amplio abanico de posibilidades
+T112	NEG 4595 4597	no
+T113	NSCO 4598 4608	reconocido
+T114	NEG 4971 4980	negativas
+T115	NSCO 4982 5016	La determinación de ANA y ANCA fue
+T116	NEG 5017 5025	negativa
+T117	NEG 5027 5040	descartándose
+T118	NSCO 5041 5061	patología autoinmune
+T119	UNC 5140 5146	podría
+T120	USCO 5147 5196	justificar la discreta elevación de transaminasas
+T121	UNC 5616 5631	compatibles con
+T122	USCO 5632 5656	exudado polimorfonuclear
+T123	NEG 5657 5660	sin
+T124	NSCO 5661 5687	características de empiema
+T125	NSCO 5987 6052	los marcadores tumorales y cultivos (incluido el de micobacterias
+T126	NEG 6061 6070	negativos
+T127	NEG 6162 6174	inespecífica
+T128	NEG 6240 6242	no
+T129	NSCO 6243 6252	capsulado
+T130	NEG 6603 6618	desaparición de
+T131	NSCO 6619 6658	la tos, dolor torácico e interescapular
+T132	NEG 6865 6868	sin
+T133	NSCO 6869 6890	datos de pericarditis
+T134	FARMACO 6300 6311	ceftriaxona
+T135	FARMACO 6314 6327	levofloxacino
+T136	FARMACO 6431 6444	levofloxacino
+T137	FARMACO 6497 6507	furosemida
+T138	FARMACO 6531 6541	ibuprofeno
+T139	ORG_VIVO 0 5	Varón
+T140	ORG_VIVO 4539 4554	citomegalovirus
+T141	ORG_VIVO 4556 4577	virus de Epstein Barr
+T142	ORG_VIVO 4824 4832	paciente
+T143	ORG_VIVO 4924 4927	VIH
+T144	ORG_VIVO 4929 4932	VHB
+T145	ORG_VIVO 4934 4937	VHC
+T146	ORG_VIVO 4939 4946	sífilis
+T147	ORG_VIVO 4948 4951	CMV
+T148	ORG_VIVO 4954 4957	VEB
+T149	ORG_VIVO 6039 6052	micobacterias
+T150	ORG_VIVO 6217 6252	Haemophilus influenzae no capsulado
+T151	ORG_VIVO 6258 6266	paciente
+T152	ORG_VIVO 6927 6935	paciente
+T153	ENFERMEDAD 270 299	cuadro catarral de vías altas
+T154	ENFERMEDAD 494 514	contractura muscular
+T155	ENFERMEDAD 1472 1487	derrame pleural
+T156	ENFERMEDAD 1525 1564	infiltrado neumónico en lóbulo inferior
+T157	ENFERMEDAD 1583 1602	taquicardia sinusal
+T158	ENFERMEDAD 1891 1910	sepsis respiratoria
+T159	ENFERMEDAD 1915 1969	neumonía de adquisición comunitaria en lóbulo inferior
+T160	ENFERMEDAD 2083 2094	taquicardia
+T161	ENFERMEDAD 2141 2156	derrame pleural
+T162	ENFERMEDAD 2360 2378	patología cardiaca
+T163	ENFERMEDAD 2384 2408	síndrome coronario agudo
+T164	ENFERMEDAD 2411 2453	aneurisma disecante de aorta intratorácica
+T165	ENFERMEDAD 2768 2789	hipertensión arterial
+T166	ENFERMEDAD 2792 2802	tabaquismo
+T167	ENFERMEDAD 2820 2835	derrame pleural
+T168	ENFERMEDAD 2908 2923	derrame pleural
+T169	ENFERMEDAD 2946 2959	paraneumónico
+T170	ENFERMEDAD 2985 2992	empiema
+T171	ENFERMEDAD 3027 3049	insuficiencia cardiaca
+T172	ENFERMEDAD 3083 3110	patologías cardiovasculares
+T173	ENFERMEDAD 3173 3196	endocarditis infecciosa
+T174	ENFERMEDAD 3226 3239	valvulopatías
+T175	ENFERMEDAD 3265 3277	pericarditis
+T176	ENFERMEDAD 3279 3298	derrame pericárdico
+T177	ENFERMEDAD 3371 3387	mixoma auricular
+T178	ENFERMEDAD 3389 3409	amiloidosis cardiaca
+T179	ENFERMEDAD 3411 3426	conectivopatías
+T180	ENFERMEDAD 3522 3540	pericarditis aguda
+T181	ENFERMEDAD 3808 3825	fibrosis pulmonar
+T182	ENFERMEDAD 3832 3857	linfangitis carcinomatosa
+T183	ENFERMEDAD 4024 4048	lesiones osteomusculares
+T184	ENFERMEDAD 4087 4118	lesión lítica tipo plasmocitoma
+T185	ENFERMEDAD 4121 4143	metástasis de primario
+T186	ENFERMEDAD 4414 4433	esteatosis hepática
+T187	ENFERMEDAD 4435 4481	infección crónica por virus de hepatitis B o C
+T188	ENFERMEDAD 4483 4527	infección aguda por otros virus hepatotropos
+T189	ENFERMEDAD 4625 4647	insuficiencia cardiaca
+T190	ENFERMEDAD 4649 4695	lesiones ocupantes de espacio a nivel hepático
+T191	ENFERMEDAD 5041 5061	patología autoinmune
+T192	ENFERMEDAD 5115 5134	esteatosis hepática
+T193	ENFERMEDAD 5209 5224	derrame pleural
+T194	ENFERMEDAD 5291 5317	derrame pericárdico severo
+T195	ENFERMEDAD 5395 5410	derrame pleural
+T196	ENFERMEDAD 5680 5687	empiema
+T197	ENFERMEDAD 6195 6252	hemocultivos se aisló Haemophilus influenzae no capsulado
+T198	ENFERMEDAD 6792 6807	derrame pleural
+T199	ENFERMEDAD 6838 6857	derrame pericárdico
+T200	ENFERMEDAD 6878 6890	pericarditis
+T201	ENFERMEDAD 6957 7015	neumonía de adquisición en la comunidad en lóbulo inferior
+T202	ENFERMEDAD 7027 7065	bacteriemia por Haemophilus influenzae
+T203	ENFERMEDAD 7068 7096	pleuropericarditis purulenta
+T204	ENFERMEDAD 7101 7127	derrame pericárdico severo
+T205	ENFERMEDAD 7130 7163	insuficiencia cardiaca secundaria
+T206	PACIENTE-ACTIVIDAD 143 160	acude al gimnasio
+T207	PACIENTE-ACTIVIDAD 163 186	hace ejercicio a diario

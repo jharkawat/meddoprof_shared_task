@@ -1,0 +1,101 @@
+T1	SINTOMA 1826 1833	astenia
+T2	SINTOMA 1952 1964	perdido peso
+T3	SINTOMA 2052 2074	debilidad generalizada
+T4	SINTOMA 2448 2460	leucocitosis
+T5	SINTOMA 2755 2762	astenia
+T6	SINTOMA 2818 2848	vómitos autolimitados biliosos
+T7	SINTOMA 2851 2868	edemas maleolares
+T8	SINTOMA 2910 2939	edemas maleolares bilaterales
+T9	SINTOMA 2957 2984	abdomen blando y depresible
+T10	SINTOMA 3010 3030	dolor a la palpación
+T11	SINTOMA 3044 3065	irritación peritoneal
+T12	SINTOMA 3084 3137	masa de consistencia dura de localización epigástrica
+T13	SINTOMA 3148 3161	hepatomegalia
+T14	SINTOMA 3166 3196	ingurgitación yugular positiva
+T15	SINTOMA 3390 3395	dolía
+T16	SINTOMA 3473 3499	elevación de transaminasas
+T17	SINTOMA 3577 3589	leucocitosis
+T18	SINTOMA 4565 4606	dilatación del Wirsung a nivel de la cola
+T19	SINTOMA 5106 5112	edemas
+T20	SINTOMA 5126 5137	hipotensión
+T21	SINTOMA 5140 5146	mareos
+T22	SINTOMA 5148 5159	falleciendo
+T23	PROCEDIMIENTO 303 324	antidiabéticos orales
+T24	PROCEDIMIENTO 2876 2894	exploración física
+T25	PROCEDIMIENTO 3817 3869	tomografía axial computarizada (TAC) toracoabdominal
+T26	NEG 487 490	sin
+T27	NSCO 491 568	otros factores de riesgo cardiovascular ni intervenciones quirúrgicas previas
+T28	NEG 969 971	no
+T29	NSCO 972 1012	presentaba otras alteraciones analíticas
+T30	UNC 1139 1146	valorar
+T31	USCO 1147 1176	un posible cambio terapéutico
+T32	NEG 1327 1330	sin
+T33	NSCO 1331 1402	haber el paciente modificado sus hábitos dietéticos ni actividad física
+T34	NEG 1416 1418	no
+T35	NSCO 1419 1451	incumplir el tratamiento pautado
+T36	NEG 1750 1752	no
+T37	NSCO 1753 1770	existiese mejoría
+T38	NEG 1846 1848	no
+T39	NSCO 1849 1870	consultar a un médico
+T40	NEG 1974 1976	no
+T41	NSCO 1977 1988	objetivadas
+T42	NEG 1991 1994	sin
+T43	NSCO 1995 2030	haber realizado dietas ni ejercicio
+T44	NEG 2388 2390	no
+T45	NSCO 2391 2422	presentes en analíticas previas
+T46	UNC 2990 2996	dudosa
+T47	USCO 2997 3004	ascitis
+T48	NEG 3006 3009	sin
+T49	NSCO 3010 3065	dolor a la palpación ni signos de irritación peritoneal
+T50	NEG 3198 3200	no
+T51	NSCO 3201 3222	descritas previamente
+T52	NEG 3371 3373	no
+T53	NSCO 3374 3395	le molestaba ni dolía
+T54	NEG 3397 3399	no
+T55	NSCO 3400 3431	le había adjudicado importancia
+T56	NEG 3762 3774	asintomático
+T57	FARMACO 143 153	dabigatrán
+T58	FARMACO 326 336	metformina
+T59	FARMACO 354 366	sitagliptina
+T60	FARMACO 1546 1557	glimepirida
+T61	ORG_VIVO 26 40	paciente varón
+T62	ORG_VIVO 573 581	paciente
+T63	ORG_VIVO 918 926	paciente
+T64	ORG_VIVO 1042 1059	médico de familia
+T65	ORG_VIVO 1181 1193	especialista
+T66	ORG_VIVO 1340 1348	paciente
+T67	ORG_VIVO 1459 1476	médico de familia
+T68	ORG_VIVO 1481 1494	endocrinólogo
+T69	ORG_VIVO 1792 1800	paciente
+T70	ORG_VIVO 1864 1870	médico
+T71	ORG_VIVO 2110 2127	médico de familia
+T72	ORG_VIVO 2522 2539	médico de familia
+T73	ORG_VIVO 2613 2621	paciente
+T74	ORG_VIVO 3240 3248	paciente
+T75	ORG_VIVO 3690 3698	paciente
+T76	ORG_VIVO 3753 3761	paciente
+T77	ORG_VIVO 5004 5012	paciente
+T78	ENFERMEDAD 86 107	fibrilación auricular
+T79	ENFERMEDAD 155 165	dislipemia
+T80	ENFERMEDAD 232 262	hiperplasia benigna prostática
+T81	ENFERMEDAD 266 283	diabético tipo II
+T82	ENFERMEDAD 905 913	diabetes
+T83	ENFERMEDAD 2997 3004	ascitis
+T84	ENFERMEDAD 3515 3525	colestasis
+T85	ENFERMEDAD 3561 3574	hiperglucemia
+T86	ENFERMEDAD 3577 3589	leucocitosis
+T87	ENFERMEDAD 3893 3908	derrame pleural
+T88	ENFERMEDAD 3924 4005	nódulos pulmonares subcentimétricos localizados en lóbulo medio y lóbulo inferior
+T89	ENFERMEDAD 4263 4355	ascitis multicompartimental de distribución atípica, perihepática, periesplénica y en pelvis
+T90	ENFERMEDAD 4676 4714	trombosis de vena mesentérica superior
+T91	ENFERMEDAD 4720 4793	trombo luminal en confluencia de vena porta con vena mesentérica inferior
+T92	ENFERMEDAD 4928 4949	neoplasia de páncreas
+T93	ENFERMEDAD 4954 4972	hígado metastásico
+T94	ENFERMEDAD 5096 5103	ascitis
+T95	ENFERMEDAD 5199 5218	fallo multiorgánico
+T96	SANITARIO-PROFESION 1181 1193	especialista
+T97	SANITARIO-PROFESION 1864 1870	médico
+T98	SANITARIO-PROFESION 1042 1059	médico de familia
+T99	SANITARIO-PROFESION 1459 1476	médico de familia
+T100	SANITARIO-PROFESION 2110 2127	médico de familia
+T101	SANITARIO-PROFESION 2522 2539	médico de familia

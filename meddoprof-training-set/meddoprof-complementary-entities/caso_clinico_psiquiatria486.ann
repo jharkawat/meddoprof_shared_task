@@ -1,0 +1,124 @@
+T1	SINTOMA 1038 1055	enuresis nocturna
+T2	SINTOMA 1357 1363	alegre
+T3	SINTOMA 4380 4389	orientada
+T4	SINTOMA 4391 4402	hiperalerta
+T5	SINTOMA 4424 4445	inquietud psicomotriz
+T6	SINTOMA 4481 4497	Afecto disfórico
+T7	SINTOMA 4499 4515	Ansiedad elevada
+T8	SINTOMA 4525 4533	insomnio
+T9	SINTOMA 4548 4567	ideación autolesiva
+T10	SINTOMA 5912 5920	enuresis
+T11	SINTOMA 5926 5941	fugas continuas
+T12	SINTOMA 7026 7035	sialorrea
+T13	PROCEDIMIENTO 2419 2438	ligadura de trompas
+T14	PROCEDIMIENTO 3886 3894	sedación
+T15	PROCEDIMIENTO 5384 5404	control hematológico
+T16	NEG 272 285	Imposibilidad
+T17	NEG 371 373	no
+T18	NSCO 374 414	se había conseguido un control razonable
+T19	NEG 846 848	no
+T20	NSCO 849 897	está interferido por la patología de la paciente
+T21	NEG 2897 2899	No
+T22	NSCO 2900 2926	existía patología orgánica
+T23	NEG 3023 3025	no
+T24	NSCO 3026 3044	hay hora en el día
+T25	NEG 3571 3573	No
+T26	NSCO 3574 3656	constan otros antecedentes médico-quirúrgicos ni alergias farmacológicas conocidas
+T27	NEG 3658 3660	No
+T28	NSCO 3661 3713	hay antecedentes médicos de relevancia en la familia
+T29	UNC 3868 3875	posible
+T30	USCO 3876 3894	conseguir sedación
+T31	NEG 4142 4144	no
+T32	NSCO 4145 4152	alargar
+T33	NEG 4653 4656	sin
+T34	NSCO 4657 4707	llegar a conformar ideación delirante estructurada
+T35	NEG 5212 5221	suspender
+T36	NSCO 5222 5239	haloperidol depot
+T37	NEG 5520 5534	desapareciendo
+T38	NEG 6631 6633	no
+T39	NSCO 6634 6642	habiendo
+T40	NEG 6675 6682	Tampoco
+T41	NSCO 6683 6747	presentó durante este periodo efectos secundarios de importancia
+T42	NEG 6888 6890	No
+T43	NSCO 6891 6939	ha sido necesario ajuste de dosis por el momento
+T44	FARMACO 4174 4185	haloperidol
+T45	FARMACO 4187 4202	levomepromazina
+T46	FARMACO 4204 4219	ácido valpróico
+T47	FARMACO 4221 4234	carbamazepina
+T48	FARMACO 4236 4247	risperidona
+T49	FARMACO 4249 4261	amisulpiride
+T50	FARMACO 4263 4272	decanoato
+T51	FARMACO 4276 4287	haloperidol
+T52	FARMACO 4289 4312	zuclopentixol decanoato
+T53	FARMACO 5112 5136	decanoato de haloperidol
+T54	FARMACO 5150 5162	amisulpiride
+T55	FARMACO 5177 5186	lorazepam
+T56	FARMACO 5222 5233	haloperidol
+T57	FARMACO 5280 5292	amisulpiride
+T58	FARMACO 5295 5304	lorazepam
+T59	FARMACO 5342 5351	clozapina
+T60	FARMACO 5559 5568	clozapina
+T61	FARMACO 5578 5590	amisulpiride
+T62	FARMACO 5601 5610	lorazepam
+T63	FARMACO 6817 6826	clozapina
+T64	FARMACO 6867 6876	lorazepam
+T65	ORG_VIVO 0 5	Mujer
+T66	ORG_VIVO 159 166	familia
+T67	ORG_VIVO 303 310	familia
+T68	ORG_VIVO 485 495	personales
+T69	ORG_VIVO 507 512	mujer
+T70	ORG_VIVO 602 608	padres
+T71	ORG_VIVO 613 618	padre
+T72	ORG_VIVO 630 637	abogado
+T73	ORG_VIVO 643 648	madre
+T74	ORG_VIVO 780 787	hermana
+T75	ORG_VIVO 796 802	médico
+T76	ORG_VIVO 829 837	familiar
+T77	ORG_VIVO 889 897	paciente
+T78	ORG_VIVO 1190 1197	familia
+T79	ORG_VIVO 1294 1299	madre
+T80	ORG_VIVO 1317 1325	infancia
+T81	ORG_VIVO 1345 1349	niña
+T82	ORG_VIVO 1518 1525	hermana
+T83	ORG_VIVO 1637 1644	hermana
+T84	ORG_VIVO 1705 1712	hermano
+T85	ORG_VIVO 1827 1839	adolescencia
+T86	ORG_VIVO 1846 1854	paciente
+T87	ORG_VIVO 2281 2286	madre
+T88	ORG_VIVO 2379 2387	paciente
+T89	ORG_VIVO 2671 2677	padres
+T90	ORG_VIVO 2767 2772	madre
+T91	ORG_VIVO 2780 2787	sobrino
+T92	ORG_VIVO 3006 3011	madre
+T93	ORG_VIVO 3117 3124	hermana
+T94	ORG_VIVO 3154 3162	familiar
+T95	ORG_VIVO 3241 3246	madre
+T96	ORG_VIVO 3285 3292	sobrino
+T97	ORG_VIVO 3353 3361	paciente
+T98	ORG_VIVO 3365 3369	bebé
+T99	ORG_VIVO 3374 3381	familia
+T100	ORG_VIVO 3706 3713	familia
+T101	ORG_VIVO 4357 4365	paciente
+T102	ORG_VIVO 4612 4619	familia
+T103	ORG_VIVO 4631 4652	personal del hospital
+T104	ORG_VIVO 4821 4828	hermana
+T105	ORG_VIVO 5768 5777	pacientes
+T106	ORG_VIVO 6139 6144	madre
+T107	ORG_VIVO 6432 6439	hermana
+T108	ORG_VIVO 6457 6464	sobrino
+T109	ORG_VIVO 6473 6477	bebé
+T110	ORG_VIVO 6534 6541	familia
+T111	ORG_VIVO 6552 6559	hermana
+T112	ORG_VIVO 6563 6577	amiga personal
+T113	ENFERMEDAD 3482 3506	meningitis meningocócica
+T114	ENFERMEDAD 3524 3560	secuela una discapacidad intelectual
+T115	ENFERMEDAD 3623 3646	alergias farmacológicas
+T116	ENFERMEDAD 5900 5909	potomanía
+T117	FAMILIAR-PROFESION 630 637	abogado
+T118	FAMILIAR-SITUACION_LABORAL 3203 3226	estudios universitarios
+T119	FAMILIAR-PROFESION 796 802	médico
+T120	SANITARIO-PROFESION 4631 4652	personal del hospital
+T121	FAMILIAR-PROFESION 661 708	propietaria y artesana de un taller de bordados
+T122	PACIENTE-SITUACION_LABORAL 1074 1099	Inicia estudios primarios
+T123	PACIENTE-SITUACION_LABORAL 1209 1230	abandone los estudios
+T124	PACIENTE-PROFESION 1233 1287	comience a aprender el oficio en el taller de bordados

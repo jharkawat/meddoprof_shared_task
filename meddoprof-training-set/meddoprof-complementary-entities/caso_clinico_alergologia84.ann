@@ -1,0 +1,18 @@
+T1	SINTOMA 30 37	vómitos
+T2	SINTOMA 49 57	letargia
+T3	PROCEDIMIENTO 137 153	provocación oral
+T4	NEG 114 117	sin
+T5	NSCO 118 124	gluten
+T6	NEG 251 254	sin
+T7	NSCO 255 286	gluten a partir de los 15 meses
+T8	NEG 336 349	negativo para
+T9	NSCO 350 358	cereales
+T10	NEG 360 368	Rechazan
+T11	NSCO 369 410	la POC con maíz, prefiriendo la evitación
+T12	ORG_VIVO 0 4	Niña
+T13	ORG_VIVO 87 94	materna
+T14	ORG_VIVO 105 113	cereales
+T15	ORG_VIVO 185 190	trigo
+T16	ORG_VIVO 244 250	cereal
+T17	ORG_VIVO 350 358	cereales
+T18	ORG_VIVO 380 384	maíz

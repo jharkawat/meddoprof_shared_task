@@ -1,0 +1,32 @@
+T1	SINTOMA 322 325	tos
+T2	SINTOMA 328 349	estridor respiratorio
+T3	SINTOMA 553 563	tos brusca
+T4	SINTOMA 566 583	estridor laríngeo
+T5	SINTOMA 1311 1314	tos
+T6	SINTOMA 1364 1367	tos
+T7	SINTOMA 1380 1388	estridor
+T8	PROCEDIMIENTO 404 437	ciclo de inmunoterapia subcutánea
+T9	PROCEDIMIENTO 617 638	auscultación pulmonar
+T10	PROCEDIMIENTO 1099 1112	inmunoterapia
+T11	PROCEDIMIENTO 1233 1246	inmunoterapia
+T12	PROCEDIMIENTO 1407 1420	inmunoterapia
+T13	NEG 639 641	no
+T14	NSCO 642 652	patológica
+T15	NEG 707 709	No
+T16	UNC 734 745	sospecha de
+T17	USCO 746 811	la existencia de un componente psicógeno involucrado en el cuadro
+T18	NEG 1457 1460	sin
+T19	NSCO 1461 1527	incidencias tras objetivarse el origen psicógeno de dicha reacción
+T20	FARMACO 976 983	placebo
+T21	ORG_VIVO 0 4	Niña
+T22	ORG_VIVO 95 100	olivo
+T23	ORG_VIVO 103 112	gramíneas
+T24	ORG_VIVO 467 472	olivo
+T25	ORG_VIVO 475 484	gramíneas
+T26	ORG_VIVO 988 996	paciente
+T27	ORG_VIVO 1342 1350	paciente
+T28	ENFERMEDAD 35 52	rinoconjuntivitis
+T29	ENFERMEDAD 55 69	asma bronquial
+T30	ENFERMEDAD 74 112	alergia a pólenes de olivo y gramíneas
+T31	ENFERMEDAD 116 140	síndrome de alergia oral
+T32	ENFERMEDAD 167 186	alergia a profilina

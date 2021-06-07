@@ -1,0 +1,38 @@
+T1	SINTOMA 109 133	sintomatología psicótica
+T2	SINTOMA 440 448	insomnio
+T3	SINTOMA 450 474	sensación de ver sombras
+T4	SINTOMA 576 587	soliloquios
+T5	SINTOMA 590 610	discurso incoherente
+T6	SINTOMA 733 743	Consciente
+T7	SINTOMA 745 754	orientado
+T8	SINTOMA 766 776	tembloroso
+T9	SINTOMA 792 803	nerviosismo
+T10	SINTOMA 805 813	insomnio
+T11	SINTOMA 824 847	alucinaciones auditivas
+T12	SINTOMA 850 881	vivencias de despersonalización
+T13	SINTOMA 916 933	heteroagresividad
+T14	PROCEDIMIENTO 267 286	tiroidectomía total
+T15	PROCEDIMIENTO 704 731	Exploración psicopatológica
+T16	PROCEDIMIENTO 1190 1222	tratamiento sustitutivo tiroideo
+T17	NEG 599 610	incoherente
+T18	NEG 883 885	No
+T19	NSCO 886 904	síntomas afectivos
+T20	NEG 906 908	No
+T21	NSCO 909 933	auto o heteroagresividad
+T22	NEG 1057 1066	negativas
+T23	NEG 1176 1189	suspensión de
+T24	NSCO 1190 1222	tratamiento sustitutivo tiroideo
+T25	NEG 1224 1235	remisión de
+T26	NSCO 1236 1248	los síntomas
+T27	NEG 1281 1284	sin
+T28	NSCO 1285 1307	precisar neurolépticos
+T29	FARMACO 340 352	Levotiroxina
+T30	FARMACO 689 701	Levotiroxina
+T31	ORG_VIVO 26 31	varón
+T32	ORG_VIVO 387 395	paciente
+T33	ORG_VIVO 548 559	acompañante
+T34	ORG_VIVO 615 623	paciente
+T35	ENFERMEDAD 109 133	sintomatología psicótica
+T36	ENFERMEDAD 176 190	fumador activo
+T37	ENFERMEDAD 203 231	enfermedad de Graves-Basedow
+T38	ENFERMEDAD 303 320	crisis tirotóxica

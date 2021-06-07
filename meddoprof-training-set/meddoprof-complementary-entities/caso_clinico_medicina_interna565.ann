@@ -1,0 +1,82 @@
+T1	SINTOMA 47 64	cefalea tensional
+T2	SINTOMA 216 273	dolor lumbar izquierdo irradiado a cara anterior de muslo
+T3	SINTOMA 362 367	dolor
+T4	SINTOMA 369 401	debilidad de miembros inferiores
+T5	SINTOMA 451 504	hipoestesia genital, glútea ni en miembros inferiores
+T6	SINTOMA 510 533	alteración esfinteriana
+T7	SINTOMA 717 722	dolor
+T8	SINTOMA 768 823	debilidad motora contrarresistencia en miembro inferior
+T9	SINTOMA 841 846	dolor
+T10	SINTOMA 904 927	alteraciones sensitivas
+T11	SINTOMA 1081 1097	signos meníngeos
+T12	SINTOMA 1565 1598	edema de articulación sacroilíaca
+T13	SINTOMA 2043 2049	fiebre
+T14	PROCEDIMIENTO 560 578	Exploración Física
+T15	PROCEDIMIENTO 579 611	Auscultación cardiorrespiratoria
+T16	PROCEDIMIENTO 614 633	palpación abdominal
+T17	PROCEDIMIENTO 740 763	Exploración neurológica
+T18	PROCEDIMIENTO 1134 1157	exploración neurológica
+T19	PROCEDIMIENTO 1389 1409	Radiografía de tórax
+T20	PROCEDIMIENTO 1421 1463	Resonancia Magnética de columna lumbosacra
+T21	PROCEDIMIENTO 1708 1722	antibioterapia
+T22	PROCEDIMIENTO 2260 2274	antibioterapia
+T23	PROCEDIMIENTO 2292 2301	Test IGRA
+T24	PROCEDIMIENTO 2349 2377	Ecocardiograma transtorácico
+T25	NEG 93 96	sin
+T26	NSCO 97 206	viajes fuera de España desde hacía años; negaba relaciones sexuales ni otros datos epidemiológicos de interés
+T27	NEG 433 445	inespecífica
+T28	NEG 447 450	sin
+T29	NSCO 451 504	hipoestesia genital, glútea ni en miembros inferiores
+T30	NEG 506 509	Sin
+T31	NSCO 510 557	alteración esfinteriana ni ninguna otra clínica
+T32	NEG 724 727	sin
+T33	NSCO 728 738	supuración
+T34	NEG 900 903	Sin
+T35	NSCO 904 927	alteraciones sensitivas
+T36	NEG 1078 1080	No
+T37	NSCO 1081 1097	signos meníngeos
+T38	NEG 1158 1161	sin
+T39	NSCO 1162 1171	hallazgos
+T40	NEG 1464 1472	descartó
+T41	NSCO 1473 1490	espondilodiscitis
+T42	UNC 1642 1656	compatible con
+T43	USCO 1657 1687	sacroileítis izquierda extensa
+T44	NEG 2338 2347	negativos
+T45	NEG 2378 2381	sin
+T46	NSCO 2382 2404	signos de endocarditis
+T47	UNC 2424 2440	parecía probable
+T48	USCO 2441 2489	que el origen del cuadro fuese la sobreinfección
+T49	FARMACO 1736 1745	Linezolid
+T50	FARMACO 1748 1759	Ceftriaxona
+T51	FARMACO 2112 2125	Isotretinoina
+T52	FARMACO 2279 2290	Daptomicina
+T53	ORG_VIVO 10 15	Varón
+T54	ORG_VIVO 66 76	Estudiante
+T55	ORG_VIVO 1805 1815	bacteriana
+T56	ORG_VIVO 1843 1851	Brucella
+T57	ORG_VIVO 1854 1875	Staphylococcus Aureus
+T58	ORG_VIVO 1877 1898	Pseudomona Aeruginosa
+T59	ORG_VIVO 1900 1912	Streptococci
+T60	ORG_VIVO 1914 1924	Salmonella
+T61	ORG_VIVO 1926 1940	Klebsiella spp
+T62	ORG_VIVO 2191 2233	Staphylococcus Aureus meticilín resistente
+T63	ORG_VIVO 2235 2239	SAMR
+T64	ORG_VIVO 2534 2542	paciente
+T65	ENFERMEDAD 1473 1490	espondilodiscitis
+T66	ENFERMEDAD 1492 1508	absceso epidural
+T67	ENFERMEDAD 1511 1538	compresión de canal medular
+T68	ENFERMEDAD 1565 1598	edema de articulación sacroilíaca
+T69	ENFERMEDAD 1657 1687	sacroileítis izquierda extensa
+T70	ENFERMEDAD 1786 1798	Sacroileítis
+T71	ENFERMEDAD 1805 1940	bacteriana es la causa más frecuente (Brucella , Staphylococcus Aureus, Pseudomona Aeruginosa, Streptococci, Salmonella, Klebsiella spp
+T72	ENFERMEDAD 1945 1970	Espondilitis anquilosante
+T73	ENFERMEDAD 1972 1989	artritis reactiva
+T74	ENFERMEDAD 1991 2012	artropatía psoriásica
+T75	ENFERMEDAD 2014 2041	artritis por microcristales
+T76	ENFERMEDAD 2073 2079	Behcet
+T77	ENFERMEDAD 2083 2108	Síndromes paraneoplásicos
+T78	ENFERMEDAD 2178 2239	hemocultivos Staphylococcus Aureus meticilín resistente (SAMR
+T79	ENFERMEDAD 2392 2404	endocarditis
+T80	ENFERMEDAD 2475 2489	sobreinfección
+T81	ENFERMEDAD 2625 2712	Sacroileítis izquierda por Staphylococcus Aureus meticilín resistente de origen cutáneo
+T82	PACIENTE-SITUACION_LABORAL 66 76	Estudiante

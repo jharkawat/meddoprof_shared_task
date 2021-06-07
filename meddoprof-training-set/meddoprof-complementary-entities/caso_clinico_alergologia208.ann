@@ -1,0 +1,11 @@
+T1	SINTOMA 12 19	vómitos
+T2	SINTOMA 21 30	hipotonía
+T3	SINTOMA 33 43	postración
+T4	NEG 83 86	sin
+T5	NSCO 87 93	gluten
+T6	NEG 152 155	sin
+T7	NSCO 156 196	gluten 10 días antes de manera irregular
+T8	ORG_VIVO 74 82	cereales
+T9	ORG_VIVO 95 99	maíz
+T10	ORG_VIVO 102 107	arroz
+T11	ORG_VIVO 143 151	cereales

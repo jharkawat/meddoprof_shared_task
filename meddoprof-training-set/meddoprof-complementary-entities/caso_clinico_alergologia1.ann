@@ -1,0 +1,28 @@
+T1	PROCEDIMIENTO 524 543	pruebas epicutáneas
+T2	PROCEDIMIENTO 1099 1110	corticoides
+T3	PROCEDIMIENTO 1112 1128	antihistamínicos
+T4	NEG 375 378	sin
+T5	NSCO 379 386	mejoría
+T6	NEG 388 390	No
+T7	NSCO 391 426	refiere ningún desencadenante claro
+T8	NEG 1011 1013	no
+T9	NSCO 1014 1058	rascar la zona de contacto con los reactivos
+T10	NEG 1060 1062	no
+T11	NSCO 1063 1076	mojar la zona
+T12	NEG 1079 1081	no
+T13	NSCO 1082 1110	usar medicación: corticoides
+T14	FARMACO 279 296	metilprednisolona
+T15	FARMACO 353 374	furoato de mometasona
+T16	ORG_VIVO 0 5	Mujer
+T17	ORG_VIVO 146 155	gramíneas
+T18	ORG_VIVO 191 218	médico de atención primaria
+T19	ORG_VIVO 431 458	médico de atención primaria
+T20	ORG_VIVO 676 684	paciente
+T21	ORG_VIVO 1497 1508	dermatólogo
+T22	ENFERMEDAD 130 155	asma alérgico a gramíneas
+T23	ENFERMEDAD 223 246	lesión en dorso de mano
+T24	ENFERMEDAD 1378 1409	dermatitis alérgica de contacto
+T25	PACIENTE-PROFESION 26 62	auxiliar en una clínica odontológica
+T26	SANITARIO-PROFESION 1497 1508	dermatólogo
+T27	SANITARIO-PROFESION 191 218	médico de atención primaria
+T28	SANITARIO-PROFESION 431 458	médico de atención primaria

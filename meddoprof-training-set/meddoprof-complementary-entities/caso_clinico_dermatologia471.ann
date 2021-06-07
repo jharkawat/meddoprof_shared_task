@@ -1,0 +1,21 @@
+T1	SINTOMA 449 456	prurito
+T2	PROCEDIMIENTO 45 59	apendicectomía
+T3	PROCEDIMIENTO 604 631	tratamiento con corticoides
+T4	PROCEDIMIENTO 634 657	antihistamínicos orales
+T5	PROCEDIMIENTO 1031 1053	corticoides sistémicos
+T6	PROCEDIMIENTO 1135 1154	pruebas epicutáneas
+T7	NEG 1107 1119	asintomática
+T8	NEG 1615 1623	negativo
+T9	NSCO 1624 1646	• Batería de plásticos
+T10	NEG 1656 1664	negativo
+T11	ORG_VIVO 0 5	Mujer
+T12	ORG_VIVO 72 96	estudiante de ingeniería
+T13	ORG_VIVO 238 249	estudiantes
+T14	ORG_VIVO 252 262	profesores
+T15	ORG_VIVO 1084 1092	paciente
+T16	ORG_VIVO 1365 1373	paciente
+T17	ENFERMEDAD 459 543	lesiones cutáneas sobreelevadas, limitadas a la porción anterior de ambos antebrazos
+T18	OTROS-ACTIVIDAD 195 222	equipo de "Fórmula Student"
+T19	PACIENTE-SITUACION_LABORAL 72 82	estudiante
+T20	OTROS-SITUACION_LABORAL 238 249	estudiantes
+T21	OTROS-PROFESION 252 290	profesores de la Escuela de Ingeniería

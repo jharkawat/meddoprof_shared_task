@@ -1,0 +1,71 @@
+T1	SINTOMA 224 238	fumador activo
+T2	SINTOMA 310 325	dolor abdominal
+T3	SINTOMA 965 975	Consciente
+T4	SINTOMA 978 987	orientado
+T5	SINTOMA 1035 1049	Normocoloreado
+T6	SINTOMA 1177 1183	soplos
+T7	SINTOMA 1322 1327	dolor
+T8	SINTOMA 1362 1383	irritación peritoneal
+T9	SINTOMA 1417 1446	Ruidos intestinales presentes
+T10	PROCEDIMIENTO 684 686	TC
+T11	PROCEDIMIENTO 912 930	Exploración física
+T12	PROCEDIMIENTO 1134 1139	Tórax
+T13	PROCEDIMIENTO 1141 1162	auscultación cardiaca
+T14	PROCEDIMIENTO 1185 1206	Auscultación pulmonar
+T15	PROCEDIMIENTO 1579 1581	TC
+T16	PROCEDIMIENTO 1829 1832	PET
+T17	PROCEDIMIENTO 2248 2278	Estudio funcional respiratorio
+T18	PROCEDIMIENTO 2406 2409	PET
+T19	PROCEDIMIENTO 2530 2586	resección atípica del nódulo con biopsia intraoperatoria
+T20	PROCEDIMIENTO 2642 2661	Anatomía Patológica
+T21	NEG 180 183	sin
+T22	NSCO 184 238	controles en el Servicio de Digestivo y fumador activo
+T23	NEG 734 736	no
+T24	NSCO 737 792	se objetivan signos de recidiva ni diseminación tumoral
+T25	NEG 1069 1071	no
+T26	NSCO 1072 1131	se palpan adenopatías supraclaviculares ni laterocervicales
+T27	NEG 1173 1176	sin
+T28	NSCO 1177 1183	soplos
+T29	NEG 1313 1315	No
+T30	NSCO 1316 1383	sufre dolor durante la palpación ni signos de irritación peritoneal
+T31	NEG 1385 1387	No
+T32	NSCO 1388 1415	se palpan masas ni megalias
+T33	NEG 1455 1458	sin
+T34	NSCO 1459 1464	edema
+T35	NEG 1511 1523	asintomático
+T36	NEG 1726 1738	inespecífico
+T37	NEG 1974 1976	no
+T38	NSCO 1977 2030	pudiendo discernir entre origen primario o secundario
+T39	UNC 2064 2071	sugiere
+T40	USCO 2072 2102	afectación ganglionar reactiva
+T41	NEG 2145 2153	negativo
+T42	NSCO 2154 2175	para células malignas
+T43	NEG 2215 2223	negativo
+T44	NSCO 2224 2245	para células malignas
+T45	NEG 2356 2359	sin
+T46	NSCO 2360 2384	histología de malignidad
+T47	NEG 2761 2764	sin
+T48	NSCO 2765 2790	evidencia de tuberculosis
+T49	FARMACO 166 174	metadona
+T50	FARMACO 566 578	capecitabina
+T51	FARMACO 612 624	oxaliplatino
+T52	ORG_VIVO 10 15	Varón
+T53	ORG_VIVO 50 56	pintor
+T54	ORG_VIVO 59 69	carpintero
+T55	ORG_VIVO 88 98	personales
+T56	ORG_VIVO 155 163	cannabis
+T57	ORG_VIVO 176 179	VHC
+T58	ORG_VIVO 808 816	paciente
+T59	ORG_VIVO 1502 1510	paciente
+T60	ORG_VIVO 1818 1826	paciente
+T61	ENFERMEDAD 398 421	adenocarcinoma de colon
+T62	ENFERMEDAD 1082 1111	adenopatías supraclaviculares
+T63	ENFERMEDAD 1661 1703	Adenopatías subcentimétricas mediastínicas
+T64	ENFERMEDAD 1788 1798	metástasis
+T65	ENFERMEDAD 1895 1930	nódulo conocido en vértice pulmonar
+T66	ENFERMEDAD 2185 2200	nódulo pulmonar
+T67	ENFERMEDAD 2340 2355	Nódulo pulmonar
+T68	ENFERMEDAD 2494 2511	Tumores Torácicos
+T69	ENFERMEDAD 2778 2790	tuberculosis
+T70	PACIENTE-PROFESION 50 56	pintor
+T71	PACIENTE-PROFESION 59 69	carpintero

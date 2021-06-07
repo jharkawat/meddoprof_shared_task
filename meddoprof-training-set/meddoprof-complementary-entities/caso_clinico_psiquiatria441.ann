@@ -1,0 +1,69 @@
+T1	SINTOMA 1653 1660	Fumador
+T2	SINTOMA 1794 1804	consciente
+T3	SINTOMA 1807 1816	orientado
+T4	SINTOMA 1818 1844	aspecto general desaliñado
+T5	SINTOMA 1899 1917	contacto psicótico
+T6	SINTOMA 2401 2419	Apetito disminuido
+T7	SINTOMA 4148 4156	insomnio
+T8	PROCEDIMIENTO 2494 2503	Hemograma
+T9	PROCEDIMIENTO 2620 2629	Hemograma
+T10	NEG 505 513	negativa
+T11	NSCO 514 524	a retornar
+T12	NEG 785 788	sin
+T13	NSCO 789 794	hijos
+T14	NEG 942 944	no
+T15	NSCO 945 977	trastornos orgánicos destacables
+T16	NEG 1523 1527	nula
+T17	NSCO 1528 1615	toma de tratamiento oral por amplia presencia de secundarismos de índole extrapiramidal
+T18	NEG 2149 2151	no
+T19	NSCO 2152 2189	alcanzan alto grado de estructuración
+T20	UNC 2194 2201	parecen
+T21	USCO 2202 2211	movilizar
+T22	NEG 2259 2264	Niega
+T23	NSCO 2265 2287	actividad alucinatoria
+T24	NEG 2367 2369	No
+T25	NSCO 2370 2399	fenómenos de alienación yoica
+T26	NEG 3131 3133	no
+T27	NSCO 3134 3142	carbura"
+T28	NEG 3956 3959	sin
+T29	NSCO 3960 3971	incidencias
+T30	FARMACO 1221 1232	risperidona
+T31	FARMACO 1245 1255	olanzapina
+T32	FARMACO 1322 1332	clonazepam
+T33	FARMACO 1441 1452	haloperidol
+T34	FARMACO 2945 2954	clozapina
+T35	FARMACO 3447 3456	clozapina
+T36	FARMACO 3994 4003	clozapina
+T37	FARMACO 4018 4027	valproato
+T38	FARMACO 4028 4050	sódico/ácido valproico
+T39	FARMACO 4104 4114	clonazepam
+T40	ORG_VIVO 0 8	Paciente
+T41	ORG_VIVO 377 387	psiquiatra
+T42	ORG_VIVO 473 483	compañeros
+T43	ORG_VIVO 546 556	personales
+T44	ORG_VIVO 741 751	personales
+T45	ORG_VIVO 776 783	Soltero
+T46	ORG_VIVO 789 794	hijos
+T47	ORG_VIVO 1480 1488	paciente
+T48	ORG_VIVO 1696 1704	cannabis
+T49	ORG_VIVO 1774 1782	paciente
+T50	ORG_VIVO 2094 2113	compañeros del piso
+T51	ORG_VIVO 2581 2589	cannabis
+T52	ORG_VIVO 3006 3014	paciente
+T53	ORG_VIVO 3461 3469	paciente
+T54	ENFERMEDAD 945 965	trastornos orgánicos
+T55	ENFERMEDAD 1072 1095	esquizofrenia paranoide
+T56	ENFERMEDAD 1345 1353	ansiedad
+T57	ENFERMEDAD 1398 1427	Síndrome neuroléptico maligno
+T58	ENFERMEDAD 1577 1615	secundarismos de índole extrapiramidal
+T59	ENFERMEDAD 2681 2692	DIAGNÓSTICO
+T60	ENFERMEDAD 2693 2724	Esquizofrenia paranoide - F20.0
+T61	ENFERMEDAD 3258 3286	ideación delirante paranoide
+T62	ENFERMEDAD 4137 4145	ansiedad
+T63	PACIENTE-SITUACION_LABORAL 801 817	en piso tutelado
+T64	PACIENTE-SITUACION_LABORAL 891 917	pensionista por enfermedad
+T65	SANITARIO-PROFESION 377 394	psiquiatra en CSM
+T66	PACIENTE-PROFESION 826 852	Ha trabajado en hostelería
+T67	OTROS-SITUACION_LABORAL 2094 2113	compañeros del piso
+T68	OTROS-PROFESION 2116 2125	monitores
+T69	OTROS-PROFESION 3923 3931	monitora

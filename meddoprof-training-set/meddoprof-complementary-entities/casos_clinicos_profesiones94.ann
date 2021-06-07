@@ -1,0 +1,32 @@
+T1	PROCEDIMIENTO 443 456	examen físico
+T2	PROCEDIMIENTO 1203 1219	hidratar la piel
+T3	PROCEDIMIENTO 1432 1439	biopsia
+T4	PROCEDIMIENTO 1445 1470	estudio anatomopatológico
+T5	NEG 358 360	No
+T6	NSCO 361 402	refiere antecedentes familiares de cáncer
+T7	NEG 404 406	No
+T8	NSCO 407 437	refiere alergia a medicamentos
+T9	NEG 785 787	no
+T10	NSCO 788 816	es dolorosa a la exploración
+T11	NEG 818 820	No
+T12	NSCO 821 883	se palpan adenopatías en área epitrocleares, ni en área axilar
+T13	UNC 1149 1156	posible
+T14	USCO 1157 1180	evitar exposición solar
+T15	FARMACO 337 346	Enalapril
+T16	ORG_VIVO 0 14	Paciente varón
+T17	ORG_VIVO 283 293	Personales
+T18	ORG_VIVO 382 392	familiares
+T19	ORG_VIVO 1064 1075	dermatólogo
+T20	ORG_VIVO 1292 1300	paciente
+T21	ORG_VIVO 1318 1329	dermatólogo
+T22	ENFERMEDAD 295 316	Hipertensión Arterial
+T23	ENFERMEDAD 396 402	cáncer
+T24	ENFERMEDAD 470 516	lesión única localizada en región de la muñeca
+T25	ENFERMEDAD 831 864	adenopatías en área epitrocleares
+T26	ENFERMEDAD 927 1002	lesión de carcinoma espino celular, lesiones queratósicas, lesión verrugosa
+T27	ENFERMEDAD 1004 1011	fibroma
+T28	ENFERMEDAD 1240 1266	lesiones en zona de muñeca
+T29	ENFERMEDAD 1498 1513	queratoacantoma
+T30	PACIENTE-PROFESION 27 59	trabaja en el sector de la pesca
+T31	SANITARIO-PROFESION 1064 1075	dermatólogo
+T32	SANITARIO-PROFESION 1318 1329	dermatólogo

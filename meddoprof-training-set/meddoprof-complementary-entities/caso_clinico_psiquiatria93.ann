@@ -1,0 +1,54 @@
+T1	SINTOMA 889 898	fallecido
+T2	SINTOMA 1780 1788	embarazo
+T3	PROCEDIMIENTO 1794 1810	parto de Beatriz
+T4	NEG 209 211	no
+T5	NSCO 212 231	acababa de «encajar
+T6	NEG 484 486	no
+T7	NSCO 487 511	se relacionaba con nadie
+T8	NEG 901 903	no
+T9	NSCO 904 925	tenía ningún contacto
+T10	NEG 1064 1066	no
+T11	NSCO 1067 1132	se notificaron crisis epilépticas ni problemas debidos a fármacos
+T12	NEG 1405 1407	No
+T13	NSCO 1408 1456	es capaz de responder a preguntas sobre el libro
+T14	NEG 1648 1650	no
+T15	NSCO 1651 1657	presta
+T16	NEG 1921 1923	no
+T17	NSCO 1924 1931	hablaba
+T18	NEG 2022 2024	no
+T19	NEG 2142 2144	no
+T20	NSCO 2145 2185	ha tenido lazos estrechos con sus padres
+T21	NEG 2345 2348	sin
+T22	NSCO 2349 2355	hablar
+T23	NEG 2487 2489	no
+T24	NSCO 2490 2527	empleaba el lenguaje para comunicarse
+T25	NEG 2695 2697	no
+T26	NSCO 2698 2711	entendía nada
+T27	NEG 2993 2995	No
+T28	NSCO 2996 3009	tener familia
+T29	NEG 3116 3127	ausencia de
+T30	NSCO 3128 3162	conocimiento de las demás personas
+T31	ORG_VIVO 29 34	chica
+T32	ORG_VIVO 72 84	especialista
+T33	ORG_VIVO 93 103	cuidadores
+T34	ORG_VIVO 247 255	personas
+T35	ORG_VIVO 420 428	personas
+T36	ORG_VIVO 562 588	personal de la institución
+T37	ORG_VIVO 875 881	padres
+T38	ORG_VIVO 939 946	hermano
+T39	ORG_VIVO 1333 1341	infantil
+T40	ORG_VIVO 1843 1849	padres
+T41	ORG_VIVO 1916 1920	niña
+T42	ORG_VIVO 2179 2185	padres
+T43	ORG_VIVO 2853 2861	personal
+T44	ORG_VIVO 3002 3009	familia
+T45	ORG_VIVO 3154 3162	personas
+T46	ORG_VIVO 3209 3219	compañeros
+T47	ENFERMEDAD 1082 1100	crisis epilépticas
+T48	ENFERMEDAD 1243 1265	trastornos adaptativos
+T49	ENFERMEDAD 2884 2901	Trastorno Autista
+T50	SANITARIO-PROFESION 72 84	especialista
+T51	SANITARIO-PROFESION 1631 1641	examinador
+T52	OTROS-PROFESION 562 588	personal de la institución
+T53	OTROS-PROFESION 2853 2861	personal
+T54	OTROS-PROFESION 93 122	cuidadores de su hogar grupal

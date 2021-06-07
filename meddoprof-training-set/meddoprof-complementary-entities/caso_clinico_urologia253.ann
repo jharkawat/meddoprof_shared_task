@@ -1,0 +1,69 @@
+T1	SINTOMA 116 163	dolor disociado de la micción en la fosa ilíaca
+T2	SINTOMA 858 907	abdomen blando y depresible, sin puntos dolorosos
+T3	PROCEDIMIENTO 490 503	tira reactiva
+T4	PROCEDIMIENTO 569 592	tratamiento antibiótico
+T5	PROCEDIMIENTO 818 836	Exploración física
+T6	PROCEDIMIENTO 1046 1065	Ecografía urológica
+T7	PROCEDIMIENTO 1270 1289	exploración vesical
+T8	PROCEDIMIENTO 1507 1529	resección transuretral
+T9	PROCEDIMIENTO 1672 1687	sondaje vesical
+T10	PROCEDIMIENTO 2107 2147	tomografía computarizada (TC) de abdomen
+T11	PROCEDIMIENTO 2486 2488	TC
+T12	PROCEDIMIENTO 2543 2562	cistectomía parcial
+T13	PROCEDIMIENTO 2870 2906	análisis posterior anatomopatológico
+T14	PROCEDIMIENTO 3278 3291	quimioterapia
+T15	PROCEDIMIENTO 3323 3345	radioterapia adyuvante
+T16	NEG 101 104	sin
+T17	NSCO 105 113	coágulos
+T18	NEG 173 175	No
+T19	NSCO 176 249	refería antecedentes obstétricos ni antecedentes de infecciones urinarias
+T20	NEG 251 258	Tampoco
+T21	NSCO 259 327	refería hábito tabáquico ni exposición a tabaco o sustancias nocivas
+T22	NEG 594 597	sin
+T23	NSCO 598 614	percibir mejoría
+T24	UNC 695 703	sospecha
+T25	USCO 704 759	inicial era infección del tracto urinario como cistitis
+T26	NEG 768 787	tampoco se descartó
+T27	NSCO 788 815	una posible causa litiásica
+T28	NEG 887 890	sin
+T29	NSCO 891 907	puntos dolorosos
+T30	NEG 940 943	sin
+T31	NSCO 944 982	cicatrices de cirugía abdominal previa
+T32	NEG 1115 1118	sin
+T33	NSCO 1119 1153	anomalías ni presencia de litiasis
+T34	UNC 1538 1549	sospecha de
+T35	USCO 1550 1566	un tumor vesical
+T36	UNC 2016 2030	compatible con
+T37	USCO 2031 2064	adenocarcinoma mucinoso de vejiga
+T38	UNC 2156 2167	sospecha de
+T39	USCO 2168 2248	adenocarcinoma de uraco y posible invasión de la pared abdominal hasta el obligo
+T40	NEG 2250 2252	No
+T41	NSCO 2253 2378	se halló infiltración grasa prevesical ni enfermedad a distancia, ni tampoco presencia de adenopatías ni patología intestinal
+T42	NEG 2608 2619	ausencia de
+T43	NSCO 2620 2639	signos radiológicos
+T44	FARMACO 3296 3306	cisplatino
+T45	FARMACO 3309 3320	gemcitabina
+T46	ORG_VIVO 14 22	paciente
+T47	ORG_VIVO 300 306	tabaco
+T48	ORG_VIVO 440 467	médico de Atención Primaria
+T49	ORG_VIVO 645 657	especialista
+T50	ORG_VIVO 682 690	paciente
+T51	ORG_VIVO 840 848	paciente
+T52	ORG_VIVO 1760 1768	patólogo
+T53	ORG_VIVO 2593 2601	paciente
+T54	ENFERMEDAD 78 100	hematuria macroscópica
+T55	ENFERMEDAD 228 249	infecciones urinarias
+T56	ENFERMEDAD 716 745	infección del tracto urinario
+T57	ENFERMEDAD 751 759	cistitis
+T58	ENFERMEDAD 1145 1153	litiasis
+T59	ENFERMEDAD 1553 1566	tumor vesical
+T60	ENFERMEDAD 1800 1830	neoformación epitelial atípica
+T61	ENFERMEDAD 2031 2064	adenocarcinoma mucinoso de vejiga
+T62	ENFERMEDAD 2168 2191	adenocarcinoma de uraco
+T63	ENFERMEDAD 2202 2248	invasión de la pared abdominal hasta el obligo
+T64	ENFERMEDAD 2343 2354	adenopatías
+T65	ENFERMEDAD 2358 2378	patología intestinal
+T66	ENFERMEDAD 2398 2421	ascitis a nivel pélvico
+T67	SANITARIO-PROFESION 645 657	especialista
+T68	SANITARIO-PROFESION 440 467	médico de Atención Primaria
+T69	SANITARIO-PROFESION 1760 1768	patólogo

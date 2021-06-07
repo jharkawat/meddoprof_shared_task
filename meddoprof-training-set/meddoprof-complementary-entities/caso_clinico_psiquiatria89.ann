@@ -1,0 +1,15 @@
+T1	SINTOMA 223 230	Fumador
+T2	NEG 161 163	No
+T3	NSCO 164 221	presenta antecedentes psiquiátricos ni médicos de interés
+T4	NEG 266 268	no
+T5	NSCO 269 290	otros hábitos tóxicos
+T6	NEG 579 581	no
+T7	NSCO 582 615	salir de casa en la última semana
+T8	NEG 624 626	no
+T9	NSCO 627 670	ha presentado crisis de la misma intensidad
+T10	ORG_VIVO 0 5	Varón
+T11	ORG_VIVO 251 257	tabaco
+T12	ORG_VIVO 308 316	hermanos
+T13	ORG_VIVO 330 336	pareja
+T14	ENFERMEDAD 487 517	crisis de ansiedad en la calle
+T15	PACIENTE-PROFESION 401 444	administrativo en una empresa de transporte

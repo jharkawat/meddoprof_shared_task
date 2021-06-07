@@ -1,0 +1,48 @@
+T1	SINTOMA 955 965	estertores
+T2	SINTOMA 1079 1084	soplo
+T3	SINTOMA 1257 1271	visceromegalia
+T4	SINTOMA 2073 2078	edema
+T5	SINTOMA 2168 2211	engrosamiento psoriasiforme de la epidermis
+T6	PROCEDIMIENTO 515 535	pomadas antibióticas
+T7	PROCEDIMIENTO 549 577	antihistamínico por vía oral
+T8	PROCEDIMIENTO 611 626	biopsia de piel
+T9	PROCEDIMIENTO 771 784	Examen físico
+T10	PROCEDIMIENTO 880 905	Auscultación respiratoria
+T11	PROCEDIMIENTO 1377 1397	Examen Dermatológico
+T12	PROCEDIMIENTO 1625 1634	Hemograma
+T13	PROCEDIMIENTO 1866 1885	Estudio micolóogico
+T14	PROCEDIMIENTO 1898 1913	Biopsia de piel
+T15	NEG 581 583	no
+T16	NSCO 584 626	mejorar se decide realizar biopsia de piel
+T17	NEG 758 760	No
+T18	NSCO 761 768	refiere
+T19	NEG 864 866	No
+T20	NSCO 867 877	infiltrado
+T21	NEG 939 941	no
+T22	NSCO 942 965	presencia de estertores
+T23	NEG 1076 1078	No
+T24	NSCO 1079 1084	soplo
+T25	NEG 1202 1204	No
+T26	NSCO 1205 1252	doloroso a la palpación superficial ni profunda
+T27	NEG 1254 1256	no
+T28	NSCO 1257 1271	visceromegalia
+T29	NEG 1887 1895	negativo
+T30	NEG 1914 1916	No
+T31	UNC 2275 2289	compatible con
+T32	USCO 2290 2304	eczema numular
+T33	FARMACO 537 546	Neomicina
+T34	ORG_VIVO 17 25	Paciente
+T35	ORG_VIVO 93 104	ama de casa
+T36	ORG_VIVO 178 186	Paciente
+T37	ORG_VIVO 210 227	Médico de Familia
+T38	ORG_VIVO 654 664	personales
+T39	ORG_VIVO 746 756	familiares
+T40	ORG_VIVO 1367 1374	persona
+T41	ENFERMEDAD 127 141	Lesión en piel
+T42	ENFERMEDAD 269 299	lesiones de piel, pruriginosas
+T43	ENFERMEDAD 666 687	hipertensión arterial
+T44	ENFERMEDAD 689 692	HTA
+T45	ENFERMEDAD 907 909	AR
+T46	ENFERMEDAD 2290 2304	eczema numular
+T47	SANITARIO-PROFESION 210 227	Médico de Familia
+T48	PACIENTE-SITUACION_LABORAL 93 104	ama de casa

@@ -1,0 +1,92 @@
+T1	SINTOMA 305 312	fumador
+T2	SINTOMA 435 453	molestias en teste
+T3	SINTOMA 1067 1072	dolor
+T4	SINTOMA 1762 1776	masa abdominal
+T5	SINTOMA 1778 1795	plenitud gástrica
+T6	SINTOMA 1797 1804	astenia
+T7	SINTOMA 1807 1823	dolores lumbares
+T8	SINTOMA 1947 1972	hemodinámicamente estable
+T9	SINTOMA 2800 2830	desplazamiento de la vena cava
+T10	PROCEDIMIENTO 684 713	orquiectomía inguinal derecha
+T11	PROCEDIMIENTO 1172 1201	tratamiento con quimioterapia
+T12	PROCEDIMIENTO 1895 1913	Exploración física
+T13	PROCEDIMIENTO 2014 2032	exploración física
+T14	PROCEDIMIENTO 2191 2202	TC corporal
+T15	PROCEDIMIENTO 3539 3570	linfadenectomía retroperitoneal
+T16	PROCEDIMIENTO 4031 4056	colocación de nefrostomía
+T17	PROCEDIMIENTO 4058 4098	revisión quirúrgica de cavidad abdominal
+T18	PROCEDIMIENTO 4101 4129	sutura de puntos dehiscentes
+T19	PROCEDIMIENTO 4174 4204	soporte con drogas vasoactivas
+T20	PROCEDIMIENTO 4207 4221	antibioterapia
+T21	PROCEDIMIENTO 4560 4571	TC corporal
+T22	PROCEDIMIENTO 4727 4746	Nefrectomía derecha
+T23	PROCEDIMIENTO 5253 5283	resección de masa mediastínica
+T24	NEG 174 176	no
+T25	NSCO 177 300	aporta otros antecedentes personales ni familiares de interés, ni intervenciones quirúrgicas previas o tratamiento habitual
+T26	NEG 869 872	sin
+T27	NSCO 873 973	invasión vascular ni linfática, ni infiltración del epidídimo, túnica vaginalis o cordón espermático
+T28	NEG 1596 1604	falta de
+T29	NSCO 1605 1613	recursos
+T30	UNC 1978 1986	aparente
+T31	USCO 1987 2006	buen estado general
+T32	NEG 2230 2243	inespecíficas
+T33	NEG 2297 2299	no
+T34	NSCO 2300 2345	se identifican adenopatías hiliomediastínicas
+T35	NEG 3031 3034	Sin
+T36	NSCO 3035 3048	hidronefrosis
+T37	NEG 3081 3083	no
+T38	NSCO 3084 3139	se identifican lesiones nodulares ni otras alteraciones
+T39	NEG 3256 3267	ausencia de
+T40	NSCO 3268 3350	respuesta al tratamiento sistémico y la presencia de teratoma en el tumor primario
+T41	UNC 3352 3363	se sospecha
+T42	USCO 3364 3392	un "growing teratoma" masivo
+T43	UNC 3889 3903	compatible con
+T44	USCO 3904 3909	orina
+T45	UNC 3916 3927	sospecha de
+T46	USCO 3928 4005	complicación intraabdominal posquirúrgica tipo dehiscencia de sutura ureteral
+T47	UNC 4379 4393	compatible con
+T48	USCO 4394 4437	metástasis por teratoma de tipo postpuberal
+T49	UNC 4683 4690	valorar
+T50	USCO 4691 4723	recidiva tumoral o rebote tímico
+T51	NEG 5080 5082	no
+T52	NSCO 5083 5144	se identifica vena renal izquierda sustituida por colaterales
+T53	NEG 5146 5148	No
+T54	NSCO 5149 5195	hay un desarrollo completo de la cava inferior
+T55	NEG 5321 5324	sin
+T56	NSCO 5325 5354	complicaciones posoperatorias
+T57	ORG_VIVO 36 46	personales
+T58	ORG_VIVO 49 59	familiares
+T59	ORG_VIVO 76 81	varón
+T60	ORG_VIVO 203 213	personales
+T61	ORG_VIVO 217 227	familiares
+T62	ORG_VIVO 936 952	túnica vaginalis
+T63	ORG_VIVO 978 986	paciente
+T64	ORG_VIVO 1257 1265	paciente
+T65	ORG_VIVO 1938 1946	paciente
+T66	ORG_VIVO 3421 3429	paciente
+T67	ORG_VIVO 4142 4150	paciente
+T68	ORG_VIVO 4501 4509	paciente
+T69	ENFERMEDAD 627 647	neoplasia testicular
+T70	ENFERMEDAD 755 801	tumor mixto de células germinales en testículo
+T71	ENFERMEDAD 908 973	infiltración del epidídimo, túnica vaginalis o cordón espermático
+T72	ENFERMEDAD 1125 1163	enfermedad metastásica retroperitoneal
+T73	ENFERMEDAD 2218 2260	Adenopatías inespecíficas laterocervicales
+T74	ENFERMEDAD 2315 2345	adenopatías hiliomediastínicas
+T75	ENFERMEDAD 2469 2480	adenopatías
+T76	ENFERMEDAD 2833 2876	estenosis de aorta abdominal por compresión
+T77	ENFERMEDAD 3035 3048	hidronefrosis
+T78	ENFERMEDAD 3321 3329	teratoma
+T79	ENFERMEDAD 3336 3350	tumor primario
+T80	ENFERMEDAD 3368 3384	growing teratoma
+T81	ENFERMEDAD 3593 3636	lesiones de enorme tamaño en retroperitoneo
+T82	ENFERMEDAD 3692 3721	rotura de uréter y vena renal
+T83	ENFERMEDAD 3782 3809	fracaso renal agudo anúrico
+T84	ENFERMEDAD 3881 3909	ascitis compatible con orina
+T85	ENFERMEDAD 3975 4005	dehiscencia de sutura ureteral
+T86	ENFERMEDAD 4008 4019	peritonitis
+T87	ENFERMEDAD 4255 4271	sepsis abdominal
+T88	ENFERMEDAD 4394 4437	metástasis por teratoma de tipo postpuberal
+T89	ENFERMEDAD 4868 4883	colección renal
+T90	ENFERMEDAD 5393 5411	hiperplasia tímica
+T91	PACIENTE-SITUACION_LABORAL 137 146	refugiado
+T92	PACIENTE-SITUACION_LABORAL 1698 1707	refugiado

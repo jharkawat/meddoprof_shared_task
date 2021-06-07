@@ -1,0 +1,140 @@
+T1	SINTOMA 806 824	malestar emocional
+T2	SINTOMA 834 849	celos excesivos
+T3	SINTOMA 854 878	conductas comprobatorias
+T4	SINTOMA 881 896	hipervigilancia
+T5	SINTOMA 972 994	sintomatología ansiosa
+T6	SINTOMA 996 1018	pensamientos obsesivos
+T7	SINTOMA 1137 1145	malestar
+T8	SINTOMA 2287 2313	rasgos obsesivocompulsivos
+T9	SINTOMA 2695 2704	cansancio
+T10	SINTOMA 2902 2924	pensamientos obsesivos
+T11	SINTOMA 3024 3056	malestar consecuente de la rumia
+T12	SINTOMA 4205 4223	malestar emocional
+T13	SINTOMA 9653 9661	malestar
+T14	SINTOMA 10665 10673	malestar
+T15	SINTOMA 11194 11233	pensamientos automáticos de infidelidad
+T16	SINTOMA 11269 11291	pensamientos obsesivos
+T17	SINTOMA 11459 11477	malestar emocional
+T18	PROCEDIMIENTO 2052 2078	anticonceptivos hormonales
+T19	PROCEDIMIENTO 4017 4039	coito con preservativo
+T20	PROCEDIMIENTO 7131 7153	reducción de estímulos
+T21	PROCEDIMIENTO 7957 7971	terapia sexual
+T22	PROCEDIMIENTO 8347 8361	terapia sexual
+T23	PROCEDIMIENTO 10041 10055	terapia sexual
+T24	NEG 307 310	sin
+T25	NSCO 311 417	adversidades en el núcleo sociofamiliar o acontecimientos vitales estresantes de relevancia en su historia
+T26	UNC 930 937	posible
+T27	USCO 938 949	infidelidad
+T28	NEG 1554 1556	no
+T29	NSCO 1557 1633	ha vivido ninguna infidelidad en primera persona, ni en su familia de origen
+T30	NEG 1973 1975	no
+T31	NSCO 1976 2026	ha supuesto un problema con las anteriores parejas
+T32	NEG 2080 2082	No
+T33	NSCO 2083 2175	refiere problemas en el desarrollo, ni antecedentes psiquiátricos ni psicológicos personales
+T34	NEG 3086 3088	no
+T35	NSCO 3089 3111	actuar en base a ellos
+T36	NEG 3387 3389	no
+T37	NSCO 3390 3399	le miente
+T38	UNC 3598 3602	duda
+T39	USCO 3603 3604	o
+T40	UNC 3605 3613	sospecha
+T41	USCO 3614 3639	que le asalte al paciente
+T42	NEG 4093 4095	no
+T43	NSCO 4096 4134	desea tomar anticonceptivos hormonales
+T44	UNC 4573 4580	pudiera
+T45	USCO 4581 4586	tener
+T46	NEG 6365 6367	no
+T47	NSCO 6368 6404	necesariamente ligadas a la realidad
+T48	NEG 7675 7678	sin
+T49	NSCO 7679 7690	provocarlas
+T50	NEG 8585 8587	no
+T51	NSCO 8588 8631	reducida al coito que promueve la intimidad
+T52	NEG 8929 8931	no
+T53	NSCO 8932 8959	realizar aquellas conductas
+T54	NEG 9253 9255	no
+T55	NSCO 9256 9277	hay un consumo diario
+T56	NEG 10723 10725	no
+T57	NSCO 10726 10758	son esencialmente de infidelidad
+T58	NEG 11055 11057	no
+T59	NSCO 11058 11119	controlar a su pareja vía redes sociales ni comprobar su piso
+T60	NEG 12447 12450	sin
+T61	NSCO 12451 12515	entrar en discusiones, interrogaciones o conductas controladoras
+T62	ORG_VIVO 19 27	PACIENTE
+T63	ORG_VIVO 29 34	Varón
+T64	ORG_VIVO 143 149	amigos
+T65	ORG_VIVO 168 174	padres
+T66	ORG_VIVO 196 203	hermano
+T67	ORG_VIVO 226 232	pareja
+T68	ORG_VIVO 288 295	familia
+T69	ORG_VIVO 632 638	pareja
+T70	ORG_VIVO 687 695	paciente
+T71	ORG_VIVO 774 801	médico de Atención Primaria
+T72	ORG_VIVO 906 912	pareja
+T73	ORG_VIVO 954 962	paciente
+T74	ORG_VIVO 1051 1057	pareja
+T75	ORG_VIVO 1252 1257	mujer
+T76	ORG_VIVO 1414 1422	paciente
+T77	ORG_VIVO 1433 1445	adolescencia
+T78	ORG_VIVO 1598 1605	persona
+T79	ORG_VIVO 1616 1623	familia
+T80	ORG_VIVO 1687 1695	infancia
+T81	ORG_VIVO 1731 1738	vecinos
+T82	ORG_VIVO 1829 1838	amistades
+T83	ORG_VIVO 1845 1853	infancia
+T84	ORG_VIVO 2019 2026	parejas
+T85	ORG_VIVO 2165 2175	personales
+T86	ORG_VIVO 2206 2216	familiares
+T87	ORG_VIVO 2229 2240	tío paterno
+T88	ORG_VIVO 2414 2422	paciente
+T89	ORG_VIVO 2480 2486	pareja
+T90	ORG_VIVO 2745 2753	paciente
+T91	ORG_VIVO 2774 2780	pareja
+T92	ORG_VIVO 2956 2962	pareja
+T93	ORG_VIVO 2978 2986	paciente
+T94	ORG_VIVO 3170 3176	pareja
+T95	ORG_VIVO 3360 3366	pareja
+T96	ORG_VIVO 3468 3474	pareja
+T97	ORG_VIVO 3573 3579	pareja
+T98	ORG_VIVO 3631 3639	paciente
+T99	ORG_VIVO 3719 3725	pareja
+T100	ORG_VIVO 3861 3869	paciente
+T101	ORG_VIVO 4086 4092	pareja
+T102	ORG_VIVO 4532 4538	pareja
+T103	ORG_VIVO 4668 4674	pareja
+T104	ORG_VIVO 4726 4734	paciente
+T105	ORG_VIVO 5114 5120	pareja
+T106	ORG_VIVO 5342 5350	paciente
+T107	ORG_VIVO 5585 5591	pareja
+T108	ORG_VIVO 5660 5666	pareja
+T109	ORG_VIVO 6122 6130	paciente
+T110	ORG_VIVO 7093 7101	paciente
+T111	ORG_VIVO 7183 7189	pareja
+T112	ORG_VIVO 7876 7882	pareja
+T113	ORG_VIVO 8426 8432	pareja
+T114	ORG_VIVO 8788 8794	pareja
+T115	ORG_VIVO 8852 8858	pareja
+T116	ORG_VIVO 8892 8900	paciente
+T117	ORG_VIVO 9134 9140	pareja
+T118	ORG_VIVO 9728 9734	pareja
+T119	ORG_VIVO 10245 10251	pareja
+T120	ORG_VIVO 10283 10291	paciente
+T121	ORG_VIVO 11038 11046	paciente
+T122	ORG_VIVO 11073 11079	pareja
+T123	ORG_VIVO 11353 11361	paciente
+T124	ORG_VIVO 11529 11537	paciente
+T125	ORG_VIVO 11578 11584	pareja
+T126	ORG_VIVO 11710 11718	paciente
+T127	ORG_VIVO 11851 11859	paciente
+T128	ORG_VIVO 12137 12145	paciente
+T129	ORG_VIVO 12206 12212	pareja
+T130	ORG_VIVO 12219 12225	pareja
+T131	ORG_VIVO 12643 12649	pareja
+T132	ORG_VIVO 12895 12901	pareja
+T133	ENFERMEDAD 854 878	conductas comprobatorias
+T134	ENFERMEDAD 1183 1204	HISTORIA DEL PROBLEMA
+T135	ENFERMEDAD 2260 2273	esquizofrenia
+T136	ENFERMEDAD 4919 4945	APLICACIÓN DEL TRATAMIENTO
+T137	ENFERMEDAD 6195 6217	Trastornos Emocionales
+T138	PACIENTE-PROFESION 485 514	administrativo en una empresa
+T139	PACIENTE-SITUACION_LABORAL 419 445	Realiza un ciclo formativo
+T140	SANITARIO-PROFESION 774 801	médico de Atención Primaria

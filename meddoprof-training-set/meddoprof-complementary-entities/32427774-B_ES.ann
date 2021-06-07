@@ -1,0 +1,45 @@
+T1	SINTOMA 138 144	fiebre
+T2	SINTOMA 146 149	tos
+T3	SINTOMA 151 157	disnea
+T4	SINTOMA 160 169	debilidad
+T5	SINTOMA 580 632	infiltrados parcheados bilaterales en ambos pulmones
+T6	SINTOMA 766 775	taquipnea
+T7	SINTOMA 781 787	disnea
+T8	SINTOMA 1027 1079	valor alto de dímero D (8,34 ug/mL) y de fibrinógeno
+T9	SINTOMA 2068 2074	disnea
+T10	PROCEDIMIENTO 552 572	radiografía torácica
+T11	PROCEDIMIENTO 651 687	oxigenoterapia mediante cánula nasal
+T12	PROCEDIMIENTO 812 837	mascarilla con reservorio
+T13	PROCEDIMIENTO 927 937	intubación
+T14	PROCEDIMIENTO 952 970	prueba de COVID-19
+T15	PROCEDIMIENTO 1362 1387	mascarilla con reservorio
+T16	PROCEDIMIENTO 1709 1734	mascarilla con reservorio
+T17	PROCEDIMIENTO 1743 1755	cánula nasal
+T18	PROCEDIMIENTO 2124 2134	esteroides
+T19	UNC 919 926	posible
+T20	USCO 927 947	intubación inminente
+T21	NEG 1858 1867	se retiró
+T22	NSCO 1868 1883	la heparina i.v
+T23	NEG 1960 1963	sin
+T24	NSCO 1964 1979	nuevos síntomas
+T25	NEG 2058 2060	no
+T26	NSCO 2061 2074	sufría disnea
+T27	FARMACO 253 265	azitromicina
+T28	FARMACO 267 290	amoxicilina/clavulanato
+T29	FARMACO 293 306	levofloxacina
+T30	FARMACO 1217 1220	APt
+T31	FARMACO 1442 1459	hidroxicloroquina
+T32	FARMACO 1486 1503	metilprednisolona
+T33	FARMACO 1871 1879	heparina
+T34	ORG_VIVO 6 11	mujer
+T35	ORG_VIVO 207 234	médico de atención primaria
+T36	ORG_VIVO 1585 1593	personal
+T37	ORG_VIVO 1936 1944	paciente
+T38	ORG_VIVO 2046 2054	paciente
+T39	ENFERMEDAD 43 47	asma
+T40	ENFERMEDAD 49 61	hipertensión
+T41	ENFERMEDAD 63 77	hiperlipidemia
+T42	ENFERMEDAD 80 108	diabetes mellitus de tipo II
+T43	ENFERMEDAD 962 970	COVID-19
+T44	SANITARIO-PROFESION 207 234	médico de atención primaria
+T45	SANITARIO-PROFESION 1585 1593	personal

@@ -1,0 +1,77 @@
+T1	SINTOMA 1000 1008	Eupneica
+T2	SINTOMA 1182 1196	Abdomen blando
+T3	SINTOMA 1965 2002	engrosamiento difuso de región vulvar
+T4	PROCEDIMIENTO 385 415	neoadyuvante con quimioterapia
+T5	PROCEDIMIENTO 457 476	mastectomía radical
+T6	PROCEDIMIENTO 479 494	linfadenectomía
+T7	PROCEDIMIENTO 578 590	radioterapia
+T8	PROCEDIMIENTO 592 594	RT
+T9	PROCEDIMIENTO 619 662	hormonoterapia con inhibidores de aromatasa
+T10	PROCEDIMIENTO 935 953	Exploración física
+T11	PROCEDIMIENTO 1057 1087	Reconstrucción de mama derecha
+T12	PROCEDIMIENTO 1146 1173	Auscultación cardiopulmonar
+T13	PROCEDIMIENTO 1219 1243	Exploración ginecológica
+T14	PROCEDIMIENTO 1399 1417	citología cervical
+T15	PROCEDIMIENTO 1457 1490	resonancia magnética (RM) pélvica
+T16	PROCEDIMIENTO 1575 1602	administración de contraste
+T17	PROCEDIMIENTO 1939 1949	RM pélvica
+T18	PROCEDIMIENTO 2465 2477	radioterapia
+T19	PROCEDIMIENTO 2776 2788	RM de pelvis
+T20	PROCEDIMIENTO 2835 2862	administración de contraste
+T21	PROCEDIMIENTO 2887 2908	exéresis macroscópica
+T22	PROCEDIMIENTO 3079 3098	vulvectomía radical
+T23	PROCEDIMIENTO 3245 3264	CDI de mama derecha
+T24	PROCEDIMIENTO 3285 3300	QT neoadyuvante
+T25	PROCEDIMIENTO 3328 3350	RT complementaria e IA
+T26	PROCEDIMIENTO 3467 3506	exéresis quirúrgica y RT complementaria
+T27	NEG 54 57	Sin
+T28	NSCO 58 91	alergias medicamentosas conocidas
+T29	NEG 95 98	Sin
+T30	NSCO 99 114	hábitos tóxicos
+T31	NEG 146 149	Sin
+T32	NSCO 150 196	antecedentes familiares oncológicos de interés
+T33	NEG 690 693	sin
+T34	NSCO 694 735	evidencia de recidiva hasta la actualidad
+T35	NEG 1010 1012	No
+T36	NSCO 1013 1055	presenta adenopatías periféricas palpables
+T37	NEG 1106 1108	No
+T38	NSCO 1109 1144	se palpan nódulos en mama izquierda
+T39	NEG 1198 1201	sin
+T40	NSCO 1202 1217	masas palpables
+T41	NEG 1345 1348	sin
+T42	NSCO 1349 1361	alteraciones
+T43	NEG 1430 1438	negativa
+T44	NSCO 1439 1454	para malignidad
+T45	UNC 1603 1617	compatible con
+T46	USCO 1618 1632	lesión tumoral
+T47	UNC 1669 1680	sospecha de
+T48	USCO 1681 1693	tumor vulvar
+T49	UNC 1806 1817	sospecha de
+T50	USCO 1818 1830	tumor vulvar
+T51	NEG 2577 2588	se suspende
+T52	NSCO 2589 2636	el tratamiento por radiodermitis grado 3 vulvar
+T53	UNC 2976 2991	compatibles con
+T54	USCO 2992 3015	recidiva de angiomixoma
+T55	NEG 3177 3180	sin
+T56	NSCO 3181 3222	evidencia de recidiva hasta la actualidad
+T57	NEG 3367 3370	Sin
+T58	NSCO 3371 3388	datos de recidiva
+T59	ORG_VIVO 10 15	Mujer
+T60	ORG_VIVO 41 51	PERSONALES
+T61	ORG_VIVO 163 173	familiares
+T62	ORG_VIVO 2407 2415	paciente
+T63	ORG_VIVO 3106 3114	paciente
+T64	ENFERMEDAD 252 278	nódulo palpable en la mama
+T65	ENFERMEDAD 290 318	carcinoma ductal infiltrante
+T66	ENFERMEDAD 792 807	HISTORIA ACTUAL
+T67	ENFERMEDAD 842 855	lesión vulvar
+T68	ENFERMEDAD 1022 1045	adenopatías periféricas
+T69	ENFERMEDAD 1681 1693	tumor vulvar
+T70	ENFERMEDAD 1719 1740	tumores ginecológicos
+T71	ENFERMEDAD 1818 1830	tumor vulvar
+T72	ENFERMEDAD 1856 1877	Tumores Ginecológicos
+T73	ENFERMEDAD 2204 2231	angiomixoma agresivo vulvar
+T74	ENFERMEDAD 2311 2332	tumores ginecológicos
+T75	ENFERMEDAD 2608 2657	radiodermitis grado 3 vulvar, inguinal y perineal
+T76	ENFERMEDAD 2992 3015	recidiva de angiomixoma
+T77	ENFERMEDAD 3405 3432	Angiomixoma vulvar agresivo

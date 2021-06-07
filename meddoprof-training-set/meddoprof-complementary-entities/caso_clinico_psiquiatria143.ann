@@ -1,0 +1,137 @@
+T1	SINTOMA 702 709	Fumador
+T2	SINTOMA 1247 1280	patrón de conductas desadaptativo
+T3	SINTOMA 1357 1382	conductas heteroagresivas
+T4	SINTOMA 2621 2633	desconfianza
+T5	SINTOMA 3995 4014	relajación muscular
+T6	SINTOMA 4830 4840	Consciente
+T7	SINTOMA 4842 4851	orientado
+T8	SINTOMA 4859 4875	alopsíquicamente
+T9	SINTOMA 5060 5089	alteraciones sensoperceptivas
+T10	SINTOMA 5156 5174	angustia psicótica
+T11	SINTOMA 5176 5189	irritabilidad
+T12	SINTOMA 5877 5896	rasgos antisociales
+T13	PROCEDIMIENTO 238 265	Exploración psicopatológica
+T14	PROCEDIMIENTO 4323 4351	interrogatorios a criminales
+T15	PROCEDIMIENTO 4800 4827	Exploración psicopatológica
+T16	PROCEDIMIENTO 5595 5613	Exploración física
+T17	PROCEDIMIENTO 5674 5683	Hemograma
+T18	NEG 60 63	sin
+T19	NSCO 64 94	actividad ocupacional conocida
+T20	NEG 529 531	No
+T21	NSCO 532 610	ha protagonizado ingresos previos en la Unidad de Hospitalización Psiquiátrica
+T22	NEG 848 853	Niega
+T23	NSCO 854 870	otras sustancias
+T24	NEG 1779 1784	Nunca
+T25	NSCO 1785 1801	ha tenido pareja
+T26	NEG 2369 2378	negativas
+T27	NSCO 2378 2379	"
+T28	NEG 3108 3111	sin
+T29	NEG 3622 3630	se niega
+T30	NSCO 3631 3691	a la ingesta de alimentos cocinados en el domicilio familiar
+T31	NEG 4629 4632	sin
+T32	NSCO 4633 4645	previo aviso
+T33	NEG 4691 4693	no
+T34	NSCO 4694 4696	la
+T35	NEG 5054 5059	Niega
+T36	NSCO 5060 5089	alteraciones sensoperceptivas
+T37	NEG 5294 5305	ausencia de
+T38	NSCO 5306 5401	responsabilidad y carencia de compromisos respecto a circunstancias distintas al puro hedonismo
+T39	NEG 5403 5414	Ausencia de
+T40	NSCO 5415 5452	autocrítica de circunstancias pasadas
+T41	NEG 5466 5470	Nula
+T42	NSCO 5471 5497	capacidad de introspección
+T43	NEG 5533 5535	No
+T44	NSCO 5536 5557	estructura autolítica
+T45	NEG 5615 5618	Sin
+T46	NSCO 5619 5640	hallazgos patológicos
+T47	NEG 5707 5710	sin
+T48	NSCO 5711 5720	hallazgos
+T49	NEG 5761 5770	negativos
+T50	NEG 5787 5796	negativos
+T51	NSCO 5798 5814	Tóxicos en orina
+T52	NEG 5816 5825	negativos
+T53	NEG 6175 6178	sin
+T54	NSCO 6179 6237	objetivarse deterioro en las actividades de su vida diaria
+T55	UNC 6428 6437	sin clara
+T56	USCO 6438 6471	conciencia de consumo perjudicial
+T57	NEG 6474 6485	Ausencia de
+T58	NSCO 6486 6510	conciencia de enfermedad
+T59	NEG 6913 6916	Sin
+T60	NSCO 6917 6928	diagnóstico
+T61	FARMACO 767 770	THC
+T62	FARMACO 2266 2278	escopolamina
+T63	FARMACO 3920 3932	escopolamina
+T64	FARMACO 4393 4405	escopolamina
+T65	FARMACO 5986 5997	Aripiprazol
+T66	FARMACO 6014 6023	Lorazepam
+T67	FARMACO 6029 6036	1⁄2-1⁄2
+T68	FARMACO 6627 6638	Aripiprazol
+T69	ORG_VIVO 34 39	varón
+T70	ORG_VIVO 138 148	familiares
+T71	ORG_VIVO 186 192	padres
+T72	ORG_VIVO 195 202	hermana
+T73	ORG_VIVO 227 235	paciente
+T74	ORG_VIVO 296 304	paciente
+T75	ORG_VIVO 311 321	familiares
+T76	ORG_VIVO 640 650	psiquiatra
+T77	ORG_VIVO 886 896	Familiares
+T78	ORG_VIVO 898 903	Padre
+T79	ORG_VIVO 1015 1020	Niñez
+T80	ORG_VIVO 1023 1035	adolescencia
+T81	ORG_VIVO 1038 1046	Infancia
+T82	ORG_VIVO 1221 1233	adolescencia
+T83	ORG_VIVO 1392 1400	familiar
+T84	ORG_VIVO 1523 1528	madre
+T85	ORG_VIVO 1529 1533	hijo
+T86	ORG_VIVO 1555 1562	paterna
+T87	ORG_VIVO 1604 1616	progenitores
+T88	ORG_VIVO 1648 1656	paciente
+T89	ORG_VIVO 1703 1708	madre
+T90	ORG_VIVO 1726 1731	padre
+T91	ORG_VIVO 1753 1761	paciente
+T92	ORG_VIVO 1795 1801	pareja
+T93	ORG_VIVO 1881 1888	asexual
+T94	ORG_VIVO 2446 2454	paciente
+T95	ORG_VIVO 2941 2949	familiar
+T96	ORG_VIVO 2961 2969	sobrinas
+T97	ORG_VIVO 2976 2981	madre
+T98	ORG_VIVO 3020 3028	paciente
+T99	ORG_VIVO 3270 3277	familia
+T100	ORG_VIVO 3285 3295	solanáceas
+T101	ORG_VIVO 3418 3424	flores
+T102	ORG_VIVO 3429 3435	jardín
+T103	ORG_VIVO 3451 3456	madre
+T104	ORG_VIVO 3683 3691	familiar
+T105	ORG_VIVO 3800 3816	Hyosciamus niger
+T106	ORG_VIVO 3818 3824	beleño
+T107	ORG_VIVO 3831 3847	Atropa belladona
+T108	ORG_VIVO 3849 3858	belladona
+T109	ORG_VIVO 3873 3895	Mandrágora officinarum
+T110	ORG_VIVO 3963 3971	enfermos
+T111	ORG_VIVO 4064 4072	paciente
+T112	ORG_VIVO 4577 4585	familiar
+T113	ORG_VIVO 4590 4598	paciente
+T114	ORG_VIVO 4675 4682	familia
+T115	ORG_VIVO 5736 5741	virus
+T116	ORG_VIVO 5742 5745	VIH
+T117	ORG_VIVO 5747 5750	VHB
+T118	ORG_VIVO 5753 5756	VHC
+T119	ORG_VIVO 5772 5776	VRDL
+T120	ORG_VIVO 6071 6079	paciente
+T121	ORG_VIVO 6751 6759	Cannabis
+T122	ENFERMEDAD 968 993	cirrosis hepática enólica
+T123	ENFERMEDAD 1257 1280	conductas desadaptativo
+T124	ENFERMEDAD 1357 1382	conductas heteroagresivas
+T125	ENFERMEDAD 4458 4476	parálisis agitante
+T126	ENFERMEDAD 5016 5052	Ideación delirante de envenenamiento
+T127	ENFERMEDAD 5156 5174	angustia psicótica
+T128	ENFERMEDAD 6135 6173	trastorno de contenido del pensamiento
+T129	ENFERMEDAD 6677 6706	Trastorno de Ideas Delirantes
+T130	ENFERMEDAD 6722 6759	Trastorno por Dependencia de Cannabis
+T131	ENFERMEDAD 6782 6853	Trastorno por Dependencia de Nicotina con dependencia fisiológica grave
+T132	ENFERMEDAD 6865 6900	Trastorno Paranoide de Personalidad
+T133	SANITARIO-PROFESION 368 402	Equipo de Salud Mental Comunitario
+T134	OTROS-PROFESION 4364 4370	espías
+T135	SANITARIO-PROFESION 640 650	psiquiatra
+T136	PACIENTE-SITUACION_LABORAL 60 85	sin actividad ocupacional
+T137	OTROS-PROFESION 4353 4361	soldados

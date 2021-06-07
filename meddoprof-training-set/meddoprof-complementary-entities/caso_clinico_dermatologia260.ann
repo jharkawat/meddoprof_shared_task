@@ -1,0 +1,45 @@
+T1	PROCEDIMIENTO 194 217	tratamiento antibiótico
+T2	PROCEDIMIENTO 469 482	histerectomía
+T3	PROCEDIMIENTO 487 509	anexectomía unilateral
+T4	PROCEDIMIENTO 592 610	Exploración física
+T5	PROCEDIMIENTO 758 771	fondo vaginal
+T6	PROCEDIMIENTO 869 884	Biopsia cutánea
+T7	PROCEDIMIENTO 897 948	Ecografia de cadenas ganglionares inguino-femorales
+T8	PROCEDIMIENTO 979 997	TC abdominopélvico
+T9	PROCEDIMIENTO 1187 1207	exenteración pélvica
+T10	PROCEDIMIENTO 1492 1518	tratamiento quimioterápico
+T11	PROCEDIMIENTO 1578 1591	quimioterapia
+T12	PROCEDIMIENTO 1765 1786	tratamiento paliativo
+T13	PROCEDIMIENTO 1791 1803	radioterapia
+T14	NEG 177 179	no
+T15	NSCO 180 217	respondía con tratamiento antibiótico
+T16	NEG 385 387	no
+T17	NSCO 388 422	sabía precisar tiempo de evolución
+T18	NEG 549 551	no
+T19	NSCO 552 589	había realizado revisión ginecológica
+T20	NEG 792 794	No
+T21	NSCO 795 834	se palpaban adenopatías locorregionales
+T22	NEG 950 953	Sin
+T23	NSCO 954 975	hallazgos patológicos
+T24	NEG 999 1002	sin
+T25	NSCO 1003 1036	hallazgos de enfermedad sistémica
+T26	UNC 1176 1186	se plantea
+T27	USCO 1187 1235	exenteración pélvica como tratamiento quirúrgico
+T28	FARMACO 1523 1534	dacarbazina
+T29	ORG_VIVO 10 15	Mujer
+T30	ORG_VIVO 65 92	médico de atención primaria
+T31	ORG_VIVO 97 105	paciente
+T32	ORG_VIVO 250 256	médico
+T33	ORG_VIVO 376 384	paciente
+T34	ORG_VIVO 1271 1279	paciente
+T35	ORG_VIVO 1282 1292	familiares
+T36	ORG_VIVO 1404 1412	paciente
+T37	ORG_VIVO 1709 1717	paciente
+T38	ENFERMEDAD 125 143	infección urinaria
+T39	ENFERMEDAD 265 291	lesión pigmentada en vulva
+T40	ENFERMEDAD 514 530	mioma anemizante
+T41	ENFERMEDAD 807 834	adenopatías locorregionales
+T42	ENFERMEDAD 1016 1036	enfermedad sistémica
+T43	ENFERMEDAD 1051 1086	Melanoma vulvar localmente avanzado
+T44	SANITARIO-PROFESION 250 256	médico
+T45	SANITARIO-PROFESION 65 92	médico de atención primaria

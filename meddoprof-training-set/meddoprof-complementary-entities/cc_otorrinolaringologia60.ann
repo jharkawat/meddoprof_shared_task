@@ -1,0 +1,22 @@
+T1	SINTOMA 70 80	odinofagia
+T2	SINTOMA 83 89	fiebre
+T3	SINTOMA 391 397	fiebre
+T4	PROCEDIMIENTO 170 182	TAC cervical
+T5	PROCEDIMIENTO 265 303	drenaje en quirófano por vía transoral
+T6	PROCEDIMIENTO 420 423	TAC
+T7	PROCEDIMIENTO 549 574	corticoides y antibiótico
+T8	PROCEDIMIENTO 662 665	TAC
+T9	PROCEDIMIENTO 808 861	drenaje en quirófano por vía transoral y cervicotomía
+T10	PROCEDIMIENTO 903 917	drenaje a piel
+T11	PROCEDIMIENTO 924 942	sonda nasogástrica
+T12	PROCEDIMIENTO 1008 1026	tránsito esofágico
+T13	NEG 461 464	sin
+T14	NSCO 465 513	colecciones diagnosticándose de tiroiditis aguda
+T15	ORG_VIVO 27 32	mujer
+T16	ORG_VIVO 308 316	paciente
+T17	ORG_VIVO 627 635	paciente
+T18	ENFERMEDAD 217 239	colección parafaríngea
+T19	ENFERMEDAD 497 513	tiroiditis aguda
+T20	ENFERMEDAD 682 698	absceso tiroideo
+T21	ENFERMEDAD 761 783	colección parafaríngea
+T22	ENFERMEDAD 1046 1068	fístula faringocutánea

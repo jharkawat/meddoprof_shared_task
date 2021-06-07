@@ -1,0 +1,47 @@
+T1	SINTOMA 960 972	asintomático
+T2	SINTOMA 1163 1192	manchas negruzcas en el pecho
+T3	PROCEDIMIENTO 799 801	TC
+T4	PROCEDIMIENTO 1324 1342	Exploración física
+T5	PROCEDIMIENTO 1609 1627	exploración física
+T6	PROCEDIMIENTO 1754 1783	TC de tórax, abdomen y pelvis
+T7	NEG 163 165	no
+T8	NSCO 166 198	recibe ningún tratamiento activo
+T9	NEG 476 485	negativos
+T10	NEG 824 836	asintomático
+T11	NEG 960 972	asintomático
+T12	NEG 1079 1081	no
+T13	NSCO 1082 1092	programada
+T14	NEG 1255 1257	no
+T15	NSCO 1258 1321	presenta síndrome constitucional ni ninguna otra sintomatología
+T16	NEG 2378 2380	no
+T17	NSCO 2381 2402	asociar el nintedanib
+T18	FARMACO 657 667	cisplatino
+T19	FARMACO 668 678	pemetrexed
+T20	FARMACO 890 900	pemetrexed
+T21	FARMACO 2284 2293	docetaxel
+T22	FARMACO 2392 2402	nintedanib
+T23	ORG_VIVO 10 16	Hombre
+T24	ORG_VIVO 203 211	paciente
+T25	ORG_VIVO 308 313	padre
+T26	ORG_VIVO 815 823	paciente
+T27	ORG_VIVO 941 949	paciente
+T28	ORG_VIVO 1044 1052	paciente
+T29	ORG_VIVO 2025 2031	hombre
+T30	ENFERMEDAD 48 71	esquizofrenia paranoide
+T31	ENFERMEDAD 104 113	psoriasis
+T32	ENFERMEDAD 359 428	adenocarcinoma de pulmón T2 N1 M1 (estadio IV) por afectación pleural
+T33	ENFERMEDAD 431 456	linfangitis carcinomatosa
+T34	ENFERMEDAD 458 475	EGFR, ALK y PD-L1
+T35	ENFERMEDAD 533 548	derrame pleural
+T36	ENFERMEDAD 620 642	enfermedad metastásica
+T37	ENFERMEDAD 1267 1290	síndrome constitucional
+T38	ENFERMEDAD 1370 1434	queratosis seborreicas en la línea intermamaria y en los hombros
+T39	ENFERMEDAD 1800 1829	progresión del tumor primario
+T40	ENFERMEDAD 1842 1872	adenopatías a nivel subaórtico
+T41	ENFERMEDAD 1948 1979	síndrome cutáneo paraneoplásico
+T42	ENFERMEDAD 1994 2018	síndrome de Leser-Trélat
+T43	ENFERMEDAD 2056 2080	adenocarcinoma de pulmón
+T44	ENFERMEDAD 2138 2161	síndrome paraneoplásico
+T45	ENFERMEDAD 2190 2199	neoplasia
+T46	ENFERMEDAD 2257 2279	enfermedad metastásica
+T47	PACIENTE-SITUACION_LABORAL 282 293	desempleado

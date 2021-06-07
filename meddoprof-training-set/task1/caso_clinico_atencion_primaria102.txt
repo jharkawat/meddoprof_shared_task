@@ -1,0 +1,59 @@
+Motivo de consulta
+Nuestro paciente es un varón de 46 años de edad con adormecimiento y pérdida de fuerzas en ambas piernas y con antecedentes de hipertensión arterial mal controlada, entre otros.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: el paciente acude a consulta en Junio de 2015 aquejando pérdida de fuerza en miembros inferiores con hormigueo de cintura hacia abajo y algias en pantorrillas que le obligan a detenerse cuando sube cuestas, de varios meses de evolución.
+Antecedentes personales:
+-Exfumador desde 2014.
+-Hipertensión arterial mal controlada conocida desde 2009.
+-Anemia ferropénica
+-Hemorroides y Fisura anal intervenidas
+
+Tratamiento farmacológico habitual:
+Bromazepam 1,5mg/24h, Atenolol 50mg/24h , Enalapril 20mg+Hidroclorotiazida 6mg/24h, Omeprazol 20mg 24h y Metamizol 575mg a demanda.
+
+Exploración física:
+-Tensiones arteriales en diferentes consultas: 160-180 mm/Hg de sistólica y 66-90 mm/Hg de diastólica
+-Auscultación cardíaca: tonos rítmicos, sin soplos, roces ni extratonos.
+-Auscultación pulmonar: murmullo vesicular conservado. Sin ruidos patológicos de interés. -Abdomen: Blando, depresible. No visceromegalias.
+-Neurológica: PINLA, MOEC. Pares craneales, así como reflejos osteotendinosos, sensibilidad superficial táctil y fuerza de extremidades inferiores sin alteraciones.
+-Palpación de ambos pulsos pedios presentes y simétricos.
+-IMC 31.057 kg/m2
+
+Pruebas complementarias:
+-Análisis: A destacar: Urea 41 mg/dl, Creatinina 1.37 mg/dl. Resto de la analítica sin alteraciones, incluidos iones, función tiroidea y bioquímica básica.
+-EKG: Ritmo sinusal a 72 lpm. Sin hallazgos significativos.
+-Radiografía de columna dorsolumbar: Reducción del espacio intervertebral L5-S1.
+
+Enfoque familiar y comunitario
+Paciente con buen apoyo social, casado y con dos hijos de 12 y 8 años. Taxista de profesión en la actualidad; soldado profesional durante su juventud. 6 hermanos, uno fallecido en un accidente de moto.
+
+Antecedentes familiares destacables:
+-3 hermanos con diabetes.
+-Madre fallecida por cáncer de colon.
+-Padre fallecido por cáncer de labio.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+1.- Patologías posibles causantes de los síntomas de los miembros inferiores (pérdida de fuerza, claudicación con la marcha):
+-Vasculares: claudicación intermitente por trombosis aórtica, iliaca o femoral. Se intentó descartar enviando al paciente a Cirugía Vascular, aunque sus pulsos pedios estaban presentes.
+-Traumatológicas: como la discopatía lumbar, estenosis del canal medular, fracturas vertebrales.... El paciente no presentaba síntomas lumbares, aunque tenía alteraciones radiológicas. Fue remitido a Traumatología
+-Neurológicas: Neuropatías periféricas: diabetes, alcohol, infecciosas, fármacos... Tumores medulares: Schwanoma, Neurofibroma...Enfermedad de la unión neuromuscular: Miasteni Gravis, Eaton-Lambert... Inicialmente esta patología no parecía probable, por ausencia de antecedentes específicos y semiología exploratoria acorde.
+2.- Patologías posibles causantes de hipertensión arterial secundaria:
+Renales: Enfermedad renal primaria tanto aguda como crónica. Hipertensión renovascular: podía tenerse en cuenta debido a las cifras de insuficiencia renal encontradas. Endocrinológicas: Hiperaldosteronismo primario, Síndrome de Cushing, Feocromocitoma, Hiper e hipotiroidismo, Hiperparatiroidismo, Acromegalia. Inicialmente el paciente no presentaba signos exploratorios (facies cushingoide, estrías...en el hipercortisolismo) ni alteraciones de laboratorio (función tiroidea e iones normales) que sustentaran alguna de ellas.
+Coartación de Aorta: no se pensó en esta posibilidad apoyándose en la presencia de pulsos pedios.
+Fármacos: AINES de uso crónico, antidepresivos, corticoides....no eran utilizados por el paciente
+
+Plan de acción y evolución
+Inicialmente se solicita valoración por parte del servicio de Cirugía Ortopédica y Traumatología quienes desestiman las alteraciones en la columna como causa de los síntomas y derivan al cirujano vascular.
+
+En Cirugía Vascular durante la exploración ecográfica se detecta fibrilación auricular, ventrículo izquierdo con alteración segmentaria en segmento medio inferoseptal y fracción de eyección conservada. Cardiovertido con éxito, tras la Cardioversión acude a consulta y nos comenta que sigue cansándose, con rachas de palpitaciones y subidas de tensión arterial registrando cifras hasta 180 de sistólica. Posteriormente se realiza:
+-Estudio Holter.- sin hallazgos
+-Ergometría.- Debe detenerse por presentar fatiga general a los 6.20 min de BRUCE. No eventos arrítmicos ni de dolor torácico. Respuesta tensional normal.
+-Valoración Endocrinología: Se descarta enfermedad hiperaldosteronismo
+-Valoración por el servicio de Nefrología por presentar cifras de creatinina 1.5 mg/dl y aclaramiento de 55ml/24h. Solicitan Eco-doppler color de las arterias renales: Discreta menor señal doppler color en riñón derecho con respecto al izquierdo, así como patrón de flujo doppler tipo parvus-tardus en arteria renal derecha y una elevación de los índices de resistencia intrarrenal. Diagnosticando enfermedad renal crónica de etiología vascular.
+
+Finalmente se realiza RMN cardíaca que detecta Coartación de Aorta Post-ductal con diámetro mínimo de 6mm, longitud de 14mm y velocidad máxima detectada de 320 cm/s, con extensa colateralidad por mamarias internas e intercostales. Ventrículo izquierdo con hipertrofia leve y función normal (Fracción de eyección 59%) sin realce miocardio tardío.
+
+En Noviembre de 2016 se realiza Cateterismo terapéutico: Se implanta por vía percutánea un Stent en la zona de la coartación. Sin gradientes post intervención.
+
+Actualmente ha desaparecido la sintomatología de miembros inferiores, la astenia y disnea de esfuerzo. Presenta pulsos femorales, que estaban ausentes antes de la intervención y que no se comprobaron en la evaluación inicial del paciente. Mantiene presiones sistólicas entre 120-150mmHg, se han normalizado las cifras de función renal y se ha incorporado a su vida laboral.

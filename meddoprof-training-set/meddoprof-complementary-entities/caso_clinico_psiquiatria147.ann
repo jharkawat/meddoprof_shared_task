@@ -1,0 +1,102 @@
+T1	SINTOMA 1446 1452	jovial
+T2	SINTOMA 1600 1608	retraida
+T3	SINTOMA 1610 1617	apática
+T4	SINTOMA 1618 1627	irritable
+T5	SINTOMA 1671 1679	falleció
+T6	SINTOMA 1894 1901	ansiosa
+T7	SINTOMA 1904 1912	suspicaz
+T8	SINTOMA 1914 1946	Desorientada en tiempo y espacio
+T9	SINTOMA 3207 3213	apatía
+T10	SINTOMA 3216 3226	suspicacia
+T11	SINTOMA 3229 3242	irritabilidad
+T12	SINTOMA 3892 3900	delirios
+T13	SINTOMA 3902 3915	alucinaciones
+T14	SINTOMA 3918 3937	síntomas depresivos
+T15	PROCEDIMIENTO 2920 2940	tomografía computada
+T16	NEG 463 465	no
+T17	NSCO 466 496	podía recordar algunos nombres
+T18	NEG 529 539	incapaz de
+T19	NSCO 540 594	acordarse de cosas que habían sucedido el día anterior
+T20	NEG 723 726	sin
+T21	NSCO 727 751	las cosas que necesitaba
+T22	NEG 887 889	no
+T23	NSCO 890 899	la salaba
+T24	NEG 1018 1020	no
+T25	NSCO 1021 1060	había podido hacer las tareas del hogar
+T26	NEG 1061 1064	sin
+T27	NSCO 1065 1083	ayuda de su marido
+T28	NEG 1169 1172	sin
+T29	NSCO 1173 1193	resultados aparentes
+T30	NEG 1358 1363	nunca
+T31	NSCO 1364 1385	más volvió a trabajar
+T32	NEG 1454 1456	No
+T33	NSCO 1457 1520	había habido mayores problemas en el matrimonio o con los hijos
+T34	NEG 1914 1926	Desorientada
+T35	NEG 1988 1990	no
+T36	NSCO 1991 2024	sus edades o fechas de nacimiento
+T37	NEG 2026 2033	Tampoco
+T38	NSCO 2034 2108	podía recordar la suya propia ni sabía el nombre del presidente de su pais
+T39	NEG 2232 2234	No
+T40	NSCO 2235 2303	podía recordar tres objetos después de un intervalo de cinco minutos
+T41	NEG 2305 2307	No
+T42	NSCO 2308 2327	pudo copiar un cubo
+T43	NEG 2425 2427	no
+T44	NSCO 2428 2452	podía contar hacia atrás
+T45	NEG 2501 2503	no
+T46	NSCO 2504 2537	podía detectar el error de lógica
+T47	NEG 2610 2614	casi
+T48	NSCO 2615 2662	todos los accidentes ocurren en el último vagón
+T49	NEG 2697 2707	incapaz de
+T50	NSCO 2708 2743	advertir la naturaleza del problema
+T51	NEG 2745 2747	No
+T52	NSCO 2748 2806	se detectaron anomalías en el examen físicos y neurológico
+T53	NEG 2900 2909	negativos
+T54	NEG 3464 3475	ausencia de
+T55	NSCO 3476 3496	una causa específica
+T56	NEG 3812 3815	sin
+T57	NSCO 3816 3837	la ayuda de su esposo
+T58	NEG 3880 3891	ausencia de
+T59	NSCO 3892 3937	delirios, alucinaciones o síntomas depresivos
+T60	NEG 4064 4067	sin
+T61	NSCO 4068 4088	síntomas adicionales
+T62	ORG_VIVO 3 11	paciente
+T63	ORG_VIVO 18 29	ama de casa
+T64	ORG_VIVO 57 62	hijos
+T65	ORG_VIVO 96 104	paciente
+T66	ORG_VIVO 136 143	persona
+T67	ORG_VIVO 220 226	esposo
+T68	ORG_VIVO 262 279	médico de familia
+T69	ORG_VIVO 371 377	marido
+T70	ORG_VIVO 436 444	paciente
+T71	ORG_VIVO 501 507	esposo
+T72	ORG_VIVO 1077 1083	marido
+T73	ORG_VIVO 1099 1114	médico familiar
+T74	ORG_VIVO 1213 1221	paciente
+T75	ORG_VIVO 1235 1241	esposo
+T76	ORG_VIVO 1246 1253	maestro
+T77	ORG_VIVO 1299 1306	maestra
+T78	ORG_VIVO 1351 1355	hijo
+T79	ORG_VIVO 1390 1396	esposo
+T80	ORG_VIVO 1419 1426	persona
+T81	ORG_VIVO 1515 1520	hijos
+T82	ORG_VIVO 1577 1583	esposa
+T83	ORG_VIVO 1650 1655	padre
+T84	ORG_VIVO 1662 1670	paciente
+T85	ORG_VIVO 1704 1712	enfermos
+T86	ORG_VIVO 1831 1839	paciente
+T87	ORG_VIVO 1977 1982	hijos
+T88	ORG_VIVO 2597 2605	paciente
+T89	ORG_VIVO 2995 3003	paciente
+T90	ORG_VIVO 3779 3787	paciente
+T91	ORG_VIVO 3831 3837	esposo
+T92	ENFERMEDAD 1774 1791	arterioesclerosis
+T93	ENFERMEDAD 3603 3611	demencia
+T94	ENFERMEDAD 3618 3641	enfermedad de Alzheimer
+T95	ENFERMEDAD 3735 3761	demencia de grado moderado
+T96	ENFERMEDAD 4020 4043	Enfermedad de Alzheimer
+T97	PACIENTE-SITUACION_LABORAL 18 29	ama de casa
+T98	FAMILIAR-SITUACION_LABORAL 1254 1262	jubilado
+T99	PACIENTE-PROFESION 1299 1306	maestra
+T100	FAMILIAR-PROFESION 1246 1253	maestro
+T101	SANITARIO-PROFESION 262 279	médico de familia
+T102	SANITARIO-PROFESION 1099 1114	médico familiar

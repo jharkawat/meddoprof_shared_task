@@ -1,0 +1,89 @@
+T1	SINTOMA 2444 2462	ideación delirante
+T2	SINTOMA 2901 2939	orientada en tiempo, espacio y persona
+T3	SINTOMA 2952 2964	colaboradora
+T4	SINTOMA 3066 3083	distimia de miedo
+T5	SINTOMA 3251 3273	soliloquios murmurados
+T6	SINTOMA 3275 3290	sonrisa heboide
+T7	SINTOMA 4371 4394	alucinaciones auditivas
+T8	SINTOMA 4396 4420	bloqueos del pensamiento
+T9	SINTOMA 4728 4751	alucinaciones auditivas
+T10	SINTOMA 5019 5033	sonrisa pueril
+T11	SINTOMA 5035 5049	lenguaje parco
+T12	SINTOMA 5051 5060	hipofonía
+T13	PROCEDIMIENTO 1982 2012	tratamiento psicofarmacológico
+T14	PROCEDIMIENTO 3660 3677	examen ecográfico
+T15	PROCEDIMIENTO 3694 3708	anatomía fetal
+T16	PROCEDIMIENTO 3795 3835	estudio Doppler de las arterias uterinas
+T17	NEG 357 365	retirada
+T18	NEG 452 454	no
+T19	NSCO 455 464	referidos
+T20	NEG 1504 1506	no
+T21	NSCO 1507 1533	figura información clínica
+T22	NEG 1918 1920	no
+T23	NSCO 1921 1977	disponer de lugar de residencia ni apoyo familiar alguno
+T24	NEG 2118 2122	nula
+T25	NSCO 2123 2159	toma de tratamiento desde hace meses
+T26	NEG 2342 2344	no
+T27	NSCO 2345 2363	toma la medicación
+T28	NEG 2514 2523	imposible
+T29	NSCO 2524 2537	la contención
+T30	NEG 3709 3711	no
+T31	NSCO 3712 3790	muestra ningun defecto morfológico ni marcadores ecográficos de cromosomopatía
+T32	NEG 4500 4502	no
+T33	NSCO 4503 4531	recordaba cómo debía tomarla
+T34	FARMACO 718 728	olanzapina
+T35	FARMACO 886 896	olanzapina
+T36	FARMACO 899 910	fluvoxamina
+T37	FARMACO 934 944	quetiapina
+T38	FARMACO 947 957	sertralina
+T39	FARMACO 2032 2043	risperidona
+T40	FARMACO 2056 2066	olanzapina
+T41	FARMACO 2081 2091	clonazepam
+T42	FARMACO 2181 2192	ziprasidona
+T43	FARMACO 2194 2205	aripiprazol
+T44	FARMACO 2207 2217	quetiapina
+T45	FARMACO 2220 2229	asenapina
+T46	FARMACO 4626 4635	clozapina
+T47	FARMACO 5327 5336	clozapina
+T48	FARMACO 5351 5360	clozapina
+T49	FARMACO 5375 5385	clonazepam
+T50	ORG_VIVO 0 8	Paciente
+T51	ORG_VIVO 47 50	MAP
+T52	ORG_VIVO 193 201	paciente
+T53	ORG_VIVO 228 236	familiar
+T54	ORG_VIVO 265 275	personales
+T55	ORG_VIVO 277 285	gestante
+T56	ORG_VIVO 311 315	hija
+T57	ORG_VIVO 440 450	familiares
+T58	ORG_VIVO 1962 1970	familiar
+T59	ORG_VIVO 2101 2109	paciente
+T60	ORG_VIVO 2280 2291	trabajadora
+T61	ORG_VIVO 2321 2329	paciente
+T62	ORG_VIVO 2574 2592	médico de cabecera
+T63	ORG_VIVO 2666 2676	psiquiatra
+T64	ORG_VIVO 2737 2745	paciente
+T65	ORG_VIVO 2757 2765	gestante
+T66	ORG_VIVO 2932 2939	persona
+T67	ORG_VIVO 3361 3367	hombre
+T68	ORG_VIVO 3615 3620	fetal
+T69	ORG_VIVO 3703 3708	fetal
+T70	ORG_VIVO 3987 3995	gestante
+T71	ORG_VIVO 4110 4115	madre
+T72	ORG_VIVO 4220 4225	madre
+T73	ORG_VIVO 4449 4457	paciente
+T74	ORG_VIVO 4763 4770	persona
+T75	ORG_VIVO 4805 4811	hombre
+T76	ENFERMEDAD 277 285	gestante
+T77	ENFERMEDAD 530 563	esquizofrenia paranoide episódica
+T78	ENFERMEDAD 673 698	trastorno esquizoafectivo
+T79	ENFERMEDAD 835 858	trastorno psicótico n.e
+T80	ENFERMEDAD 1189 1205	Exclusión Social
+T81	ENFERMEDAD 1384 1417	esquizofrenia paranoide episódica
+T82	ENFERMEDAD 2232 2249	ENFERMEDAD ACTUAL
+T83	ENFERMEDAD 3776 3790	cromosomopatía
+T84	ENFERMEDAD 3909 3942	esquizofrenia paranoide episódica
+T85	SANITARIO-PROFESION 47 50	MAP
+T86	SANITARIO-PROFESION 2574 2592	médico de cabecera
+T87	SANITARIO-PROFESION 2666 2676	psiquiatra
+T88	OTROS-PROFESION 2280 2298	trabajadora social
+T89	PACIENTE-SITUACION_LABORAL 1842 1867	vida marginal en la calle

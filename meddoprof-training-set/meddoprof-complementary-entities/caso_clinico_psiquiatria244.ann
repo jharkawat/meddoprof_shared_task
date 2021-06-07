@@ -1,0 +1,8 @@
+T1	SINTOMA 342 356	picos febriles
+T2	FARMACO 126 144	carbonato de litio
+T3	FARMACO 213 218	litio
+T4	ORG_VIVO 34 42	paciente
+T5	ORG_VIVO 304 318	microorganismo
+T6	ENFERMEDAD 71 96	trastorno esquizoafectivo
+T7	ENFERMEDAD 196 218	intoxicación por litio
+T8	ENFERMEDAD 278 326	infección urinaria por un microorganismo atípico

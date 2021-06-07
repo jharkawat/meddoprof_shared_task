@@ -1,0 +1,99 @@
+T1	SINTOMA 63 87	alteraciones de conducta
+T2	SINTOMA 90 111	movimientos anormales
+T3	SINTOMA 370 379	paranoide
+T4	SINTOMA 1381 1395	descoordinados
+T5	SINTOMA 1530 1540	mioclonias
+T6	SINTOMA 1976 1999	movimientos mioclónicos
+T7	SINTOMA 2001 2009	coreicos
+T8	SINTOMA 2011 2020	temblores
+T9	SINTOMA 2023 2034	manierismos
+T10	SINTOMA 2574 2588	intranquilidad
+T11	SINTOMA 2592 2601	inquietud
+T12	SINTOMA 3674 3684	mioclonías
+T13	SINTOMA 3691 3700	temblores
+T14	SINTOMA 3805 3835	protusión parcial de la lengua
+T15	PROCEDIMIENTO 2161 2164	RMN
+T16	PROCEDIMIENTO 2193 2196	EEG
+T17	PROCEDIMIENTO 3314 3339	sustitución de clonazepam
+T18	NEG 589 594	Nunca
+T19	NSCO 595 647	ha trabajado debido a las limitaciones intelectuales
+T20	NEG 649 651	no
+T21	NSCO 652 691	llegando a concluir el graduado escolar
+T22	NEG 943 946	sin
+T23	NSCO 947 993	llegar a realizar ninguna actividad remunerada
+T24	NEG 1398 1401	sin
+T25	NSCO 1402 1424	una finalidad aparente
+T26	NEG 1601 1608	retirar
+T27	NSCO 1609 1636	por completo la risperidona
+T28	NEG 2166 2169	sin
+T29	NSCO 2170 2191	hallazgos patológicos
+T30	NEG 2216 2224	negativa
+T31	NSCO 2225 2233	para VIH
+T32	UNC 2508 2515	pudiera
+T33	USCO 2516 2523	padecer
+T34	NEG 2547 2549	no
+T35	NSCO 2550 2601	presentaba sensación de intranquilidad ni inquietud
+T36	NEG 2676 2678	no
+T37	NSCO 2679 2724	hay posturas anómalas mantenidas en el tiempo
+T38	NEG 2752 2754	no
+T39	NSCO 2755 2780	mejora con el tratamiento
+T40	NEG 2781 2783	no
+T41	NSCO 2784 2814	tiene componente bucofonatorio
+T42	NEG 2817 2819	no
+T43	NSCO 2820 2875	presenta refuerzo de los movimientos tras la inhibición
+T44	NSCO 2927 2994	la habitual para la enfermedad ni la buena respuesta al tratamiento
+T45	NEG 3642 3656	desapareciendo
+T46	NSCO 3657 3700	por completo las mioclonías y los temblores
+T47	NEG 3840 3842	no
+T48	NSCO 3843 3886	le impiden realizar sus actividades básicas
+T49	NEG 4210 4212	no
+T50	NSCO 4213 4283	ha vuelto a presentar alteraciones de conducta del tipo heteroagresivo
+T51	FARMACO 406 417	risperidona
+T52	FARMACO 1029 1040	risperidona
+T53	FARMACO 1276 1287	risperidona
+T54	FARMACO 1625 1636	risperidona
+T55	FARMACO 1710 1720	olanzapina
+T56	FARMACO 1722 1730	diazepam
+T57	FARMACO 1732 1742	biperideno
+T58	FARMACO 1744 1754	quetiapina
+T59	FARMACO 1756 1765	valproico
+T60	FARMACO 1770 1774	Dopa
+T61	FARMACO 2089 2099	clonazepam
+T62	FARMACO 2141 2151	quetiapina
+T63	FARMACO 3164 3174	quetiapina
+T64	FARMACO 3177 3187	clonazepam
+T65	FARMACO 3222 3231	clozapina
+T66	FARMACO 3329 3339	clonazepam
+T67	FARMACO 3353 3361	diazepam
+T68	FARMACO 3464 3473	clozapina
+T69	FARMACO 3981 3990	clozapina
+T70	FARMACO 4049 4057	diazepam
+T71	ORG_VIVO 19 24	Mujer
+T72	ORG_VIVO 130 138	paciente
+T73	ORG_VIVO 452 460	paciente
+T74	ORG_VIVO 515 521	padres
+T75	ORG_VIVO 754 761	familia
+T76	ORG_VIVO 763 769	padres
+T77	ORG_VIVO 776 784	hermanos
+T78	ORG_VIVO 797 802	menor
+T79	ORG_VIVO 851 860	amistades
+T80	ORG_VIVO 1091 1099	paciente
+T81	ORG_VIVO 1319 1327	paciente
+T82	ORG_VIVO 1915 1923	paciente
+T83	ORG_VIVO 2230 2233	VIH
+T84	ORG_VIVO 2235 2238	VHB
+T85	ORG_VIVO 2240 2243	VHC
+T86	ORG_VIVO 2458 2466	paciente
+T87	ORG_VIVO 2538 2546	paciente
+T88	ORG_VIVO 2915 2923	paciente
+T89	ORG_VIVO 3044 3052	paciente
+T90	ORG_VIVO 3389 3397	paciente
+T91	ORG_VIVO 3950 3958	paciente
+T92	ENFERMEDAD 161 190	trastorno de ideas delirantes
+T93	ENFERMEDAD 220 244	discapacidad intelectual
+T94	ENFERMEDAD 254 277	encefalopatía perinatal
+T95	ENFERMEDAD 370 379	paranoide
+T96	ENFERMEDAD 3023 3040	discinesia tardía
+T97	ENFERMEDAD 3057 3086	trastorno de ideas delirantes
+T98	ENFERMEDAD 3097 3116	retraso mental leve
+T99	PACIENTE-SITUACION_LABORAL 589 607	Nunca ha trabajado

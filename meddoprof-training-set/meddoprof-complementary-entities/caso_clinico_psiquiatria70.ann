@@ -1,0 +1,94 @@
+T1	SINTOMA 104 125	agitación psicomotriz
+T2	SINTOMA 140 157	heteroagresividad
+T3	SINTOMA 177 200	conductas acontextuales
+T4	SINTOMA 257 275	mostrándose hostil
+T5	SINTOMA 277 286	irritable
+T6	SINTOMA 288 296	suspicaz
+T7	SINTOMA 329 350	agitación psicomotriz
+T8	SINTOMA 2122 2131	irritable
+T9	SINTOMA 2133 2142	disfórico
+T10	SINTOMA 2144 2153	impulsivo
+T11	SINTOMA 3255 3268	irritabilidad
+T12	SINTOMA 4321 4331	consciente
+T13	SINTOMA 4333 4371	orientado en tiempo, espacio y persona
+T14	SINTOMA 4380 4396	alopsíquicamente
+T15	SINTOMA 4409 4418	irritable
+T16	SINTOMA 4710 4719	agitación
+T17	PROCEDIMIENTO 2563 2578	benzodiacepinas
+T18	PROCEDIMIENTO 4256 4283	Exploración Psicopatológica
+T19	NEG 552 556	nula
+T20	NSCO 557 581	conciencia de enfermedad
+T21	UNC 697 698	?
+T22	NEG 705 708	sin
+T23	NSCO 709 716	interés
+T24	NEG 1449 1451	no
+T25	NSCO 1452 1468	secuelas físicas
+T26	NEG 2155 2157	No
+T27	NSCO 2158 2221	presenta fallos de memoria groseros en las entrevistas ni éstos
+T28	NEG 3214 3216	no
+T29	NSCO 3217 3249	dispone de teléfono ni ordenador
+T30	NEG 4229 4231	no
+T31	NSCO 4232 4253	denunciar al paciente
+T32	NEG 4527 4530	sin
+T33	NSCO 4531 4552	relación con contexto
+T34	NEG 4765 4767	No
+T35	NSCO 4768 4792	fallos groseros mnésicos
+T36	NEG 4893 4905	imposibilita
+T37	NSCO 4906 4957	la exploración de forma o contenido del pensamiento
+T38	UNC 4966 4979	impresiona de
+T39	USCO 4980 4988	bloqueos
+T40	FARMACO 503 513	Olanzapina
+T41	FARMACO 2504 2519	ácido valproico
+T42	ORG_VIVO 12 17	Varón
+T43	ORG_VIVO 164 174	familiares
+T44	ORG_VIVO 395 402	familia
+T45	ORG_VIVO 603 611	paciente
+T46	ORG_VIVO 671 681	Familiares
+T47	ORG_VIVO 683 688	Madre
+T48	ORG_VIVO 732 742	Personales
+T49	ORG_VIVO 841 853	adolescencia
+T50	ORG_VIVO 954 961	familia
+T51	ORG_VIVO 1000 1007	Soltero
+T52	ORG_VIVO 1009 1014	Padre
+T53	ORG_VIVO 1022 1026	niña
+T54	ORG_VIVO 1581 1589	paciente
+T55	ORG_VIVO 1602 1607	padre
+T56	ORG_VIVO 1618 1626	hermanos
+T57	ORG_VIVO 1688 1697	cuidadora
+T58	ORG_VIVO 1704 1709	madre
+T59	ORG_VIVO 1715 1720	mujer
+T60	ORG_VIVO 1950 1958	paciente
+T61	ORG_VIVO 1972 1978	padres
+T62	ORG_VIVO 2038 2048	vecindario
+T63	ORG_VIVO 2116 2121	joven
+T64	ORG_VIVO 2244 2251	familia
+T65	ORG_VIVO 2667 2675	paciente
+T66	ORG_VIVO 2854 2864	familiares
+T67	ORG_VIVO 3112 3118	padres
+T68	ORG_VIVO 3193 3201	paciente
+T69	ORG_VIVO 3440 3448	paciente
+T70	ORG_VIVO 3527 3534	familia
+T71	ORG_VIVO 3627 3635	paciente
+T72	ORG_VIVO 3677 3683	padres
+T73	ORG_VIVO 3750 3757	hermana
+T74	ORG_VIVO 3772 3780	familiar
+T75	ORG_VIVO 3879 3887	familiar
+T76	ORG_VIVO 3904 3911	hermana
+T77	ORG_VIVO 3919 3925	pareja
+T78	ORG_VIVO 3986 3994	paciente
+T79	ORG_VIVO 4116 4123	hermana
+T80	ORG_VIVO 4169 4176	hermana
+T81	ORG_VIVO 4214 4221	familia
+T82	ORG_VIVO 4245 4253	paciente
+T83	ORG_VIVO 4301 4309	paciente
+T84	ORG_VIVO 4364 4371	persona
+T85	ENFERMEDAD 177 200	conductas acontextuales
+T86	ENFERMEDAD 1129 1149	intoxicación enólica
+T87	ENFERMEDAD 1214 1230	politraumatizado
+T88	ENFERMEDAD 1241 1269	traumatismo craneoencefálico
+T89	ENFERMEDAD 1271 1274	TCE
+T90	ENFERMEDAD 2343 2380	Trastorno Orgánico de la Personalidad
+T91	PACIENTE-PROFESION 765 810	Trabajo estable hasta 2002 en la construcción
+T92	PACIENTE-SITUACION_LABORAL 1652 1673	pensión por invalidez
+T93	FAMILIAR-SITUACION_LABORAL 1688 1697	cuidadora
+T94	OTROS-PROFESION 1999 2023	Fuerzas de Orden Público

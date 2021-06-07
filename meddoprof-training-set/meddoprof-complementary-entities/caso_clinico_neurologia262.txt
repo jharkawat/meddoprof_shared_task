@@ -1,0 +1,26 @@
+Anamnesis
+Paciente varón de 56 años con antecedentes personales de psoriasis de 20 años de evolución y fumador de 5-6 cigarrillos al día, sin otros hábitos tóxicos. Trabajaba como conductor de camión y tenía como actividad de ocio la caza. Su medicación habitual era calcipotriol y betametasona.
+El paciente comenzó con cefalea frontal de características pulsátiles, de inicio progresivo, que no se modificaba con las maniobras de Valsalva ni con los cambios de posición. Por este motivo acudió a su médico de cabecera, que le pautó paracetamol e ibuprofeno. Tres días después presentaba unas conductas extrañas (se colocaba tres calcetines en el mismo pie, la correa del perro en el cuello) junto con alteración de la articulación del lenguaje y fiebre de 38,5 oC, acudiendo al Servicio de Urgencias, donde se le diagnosticó de sinusitis y se le inició tratamiento con amoxicilina-ácido clavulánico 875 mg/125 mg cada 8 horas, junto con antiinflamatorios. Al día siguiente presentaba vómitos, confusión, mayor alteración del lenguaje, fiebre termometrada e inestabilidad, por lo que regresó al Servicio de Urgencias, donde fue valorado por el neurólogo de guardia. En la anamnesis dirigida el paciente no tenía conocimiento de picaduras de insectos ni viajes al extranjero recientemente.
+
+Exploración física
+En Urgencias presentaba un estado somnoliento, aunque despertaba a la llamada, se encontraba inatento, desorientado en espacio y tiempo con comportamiento inhibido. El lenguaje era poco fluido aunque coherente, nominaba bien y repetía correctamente, obedeciendo órdenes sencillas y con cierta dificultad las más complejas. La exploración de los pares craneales era normal. Presentaba una leve claudicación distal en el miembro superior derecho, con reflejos osteotendinosos conservados y simétricos con reflejos cutáneo- plantar flexor bilateral; no presentaba afectación del sistema sensitivo ni en las pruebas de función cerebelosa, con marcha ligeramente atáxica con tándem inestable.
+No se observaron signos de irritación meníngea.
+
+Pruebas complementarias
+Durante su estancia en el Servicio de Urgencias y en planta de hospitalización se realizaron una serie de pruebas complementarias:
+• Analítica general con hemograma normal, bioquímica con colesterol total de 185 mg/dl, colesterol HDL 31 mg/dl, colesterol LDL 107 mg/dl; el resto, incluyendo coagulación, sedimento de orina y gasometría venosa, con valores dentro de los parámetros de normalidad.
+• Electrocardiograma de urgencias: ritmo sinusal a 76 lpm, sin otros hallazgos.
+• Radiografía de tórax de urgencias: sin hallazgos patológicos.
+• Punción lumbar de Urgencias: leucocitosis de predominio linfocítico (leucocitos 160/μl, linfocitos 80%, polimorfonucleares 20%, glucosa 63 mg/dl, proteínas 148 mg/dl). Cultivo y gram negativo. Reacción en cadena de la polimerasa (PCR) positivo a virus de la Toscana.
+• Tomografía computarizada (TC) de cráneo sin contraste: ocupación del seno maxilar derecho en probable relación con sinupatía crónica, resto sin hallazgos.
+• Electroencefalograma en planta: sin registro de actividad de tipo epileptiforme.
+• Resonancia magnética cerebral sin contraste en planta: quiste en el seno maxilar derecho, resto sin alteraciones.
+
+Diagnóstico
+Meningoencefalitis por virus de la Toscana.
+
+Tratamiento
+El paciente no requirió tratamiento específico.
+
+Evolución
+Durante su estancia en la sala de hospitalización se le administró inicialmente aciclovir por la sospecha de meningoencefalitis por virus herpéticos, el cual se le retiró en los días posteriores al recibir el resultado positivo al virus de la Toscana en el líquido cefalorraquídeo, evolucionando favorablemente, quedando a su alta hospitalaria sin clínica con una exploración física normal.

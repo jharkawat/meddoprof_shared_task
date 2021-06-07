@@ -1,0 +1,78 @@
+T1	SINTOMA 147 163	malestar general
+T2	SINTOMA 202 215	artromialgias
+T3	SINTOMA 217 226	febrícula
+T4	SINTOMA 228 235	cefalea
+T5	SINTOMA 237 245	tos seca
+T6	SINTOMA 248 258	odinofagia
+T7	SINTOMA 512 518	fiebre
+T8	SINTOMA 533 544	cervicalgia
+T9	SINTOMA 546 556	artralgias
+T10	SINTOMA 559 574	dolor abdominal
+T11	SINTOMA 592 599	coluria
+T12	SINTOMA 671 712	dolor abdominal localizado en hipocondrio
+T13	SINTOMA 725 740	Murphy positivo
+T14	SINTOMA 743 755	poliartritis
+T15	SINTOMA 806 818	leucocitosis
+T16	SINTOMA 916 936	hipertransaminasemia
+T17	SINTOMA 1104 1110	fiebre
+T18	SINTOMA 1206 1212	febril
+T19	SINTOMA 1288 1297	ictericia
+T20	SINTOMA 1768 1774	fiebre
+T21	PROCEDIMIENTO 645 663	exploración física
+T22	PROCEDIMIENTO 1042 1061	ecografía abdominal
+T23	PROCEDIMIENTO 1379 1391	hemocultivos
+T24	PROCEDIMIENTO 1502 1533	serología de virus hepatotrópos
+T25	PROCEDIMIENTO 1591 1604	TAC abdominal
+T26	PROCEDIMIENTO 2371 2401	serología frente a C. Burnetii
+T27	NEG 68 71	sin
+T28	NSCO 72 106	antecedentes personales de interés
+T29	NEG 288 291	sin
+T30	NSCO 292 319	datos de alarma la paciente
+T31	NEG 385 388	sin
+T32	NSCO 389 418	pautar tratamiento específico
+T33	UNC 979 990	sospecha de
+T34	USCO 991 1006	patología aguda
+T35	UNC 1187 1198	sospecha de
+T36	USCO 1199 1216	cuadro febril con
+T37	UNC 1217 1225	probable
+T38	USCO 1226 1240	foco abdominal
+T39	NEG 1241 1243	no
+T40	NSCO 1244 1251	filiado
+T41	UNC 1325 1333	sospecha
+T42	USCO 1334 1356	es de colangitis aguda
+T43	NEG 1435 1438	sin
+T44	NSCO 1439 1446	mejoría
+T45	NEG 1613 1616	sin
+T46	NSCO 1617 1656	evidencia de colecistitis ni colangitis
+T47	NEG 1706 1716	descartado
+T48	NSCO 1717 1774	la presencia de patología biliar que justifique la fiebre
+T49	UNC 1981 1989	probable
+T50	USCO 1990 2024	contacto con animales contaminados
+T51	UNC 2140 2153	sospecha como
+T52	USCO 2154 2243	posibilidad diagnóstica síndrome febril en el contexto de Infección por Coxiella Burnetti
+T53	FARMACO 1404 1415	Ceftriaxona
+T54	FARMACO 2254 2265	doxiciclina
+T55	ORG_VIVO 27 32	mujer
+T56	ORG_VIVO 45 54	carnicera
+T57	ORG_VIVO 85 95	personales
+T58	ORG_VIVO 311 319	paciente
+T59	ORG_VIVO 1515 1533	virus hepatotrópos
+T60	ORG_VIVO 1824 1832	paciente
+T61	ORG_VIVO 1958 1966	Paciente
+T62	ORG_VIVO 2003 2011	animales
+T63	ORG_VIVO 2071 2079	paciente
+T64	ORG_VIVO 2390 2401	C. Burnetii
+T65	ENFERMEDAD 369 384	Síndrome gripal
+T66	ENFERMEDAD 743 755	poliartritis
+T67	ENFERMEDAD 806 818	leucocitosis
+T68	ENFERMEDAD 991 1013	patología aguda biliar
+T69	ENFERMEDAD 1115 1127	poliartritis
+T70	ENFERMEDAD 1340 1356	colangitis aguda
+T71	ENFERMEDAD 1543 1565	autoinmunidad hepática
+T72	ENFERMEDAD 1630 1642	colecistitis
+T73	ENFERMEDAD 1646 1656	colangitis
+T74	ENFERMEDAD 1733 1749	patología biliar
+T75	ENFERMEDAD 2212 2243	Infección por Coxiella Burnetti
+T76	ENFERMEDAD 2459 2468	Fiebre Q.
+T77	PACIENTE-PROFESION 45 54	carnicera
+T78	PACIENTE-PROFESION 1967 1976	carnicera

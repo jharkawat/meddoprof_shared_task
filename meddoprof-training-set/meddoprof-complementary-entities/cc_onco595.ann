@@ -1,0 +1,153 @@
+T1	SINTOMA 1672 1699	aumento de transaminasas G3
+T2	SINTOMA 1884 1891	astenia
+T3	SINTOMA 1894 1902	mialgias
+T4	SINTOMA 2022 2090	pérdida de fuerza generalizada, de predominio en miembros inferiores
+T5	SINTOMA 2167 2175	mialgias
+T6	SINTOMA 2201 2213	orina oscura
+T7	SINTOMA 2219 2236	clínica miccional
+T8	SINTOMA 2238 2245	afebril
+T9	SINTOMA 2349 2359	consciente
+T10	SINTOMA 2361 2370	orientada
+T11	SINTOMA 2373 2385	colaboradora
+T12	SINTOMA 2387 2401	bien hidratada
+T13	SINTOMA 2416 2424	eupneica
+T14	SINTOMA 2530 2537	afebril
+T15	SINTOMA 2570 2586	tonos arrítmicos
+T16	SINTOMA 2676 2716	Abdomen blando y depresible, no doloroso
+T17	SINTOMA 2794 2815	irritación peritoneal
+T18	SINTOMA 2840 2868	edemas con fóvea pretibiales
+T19	SINTOMA 3062 3088	Incapacidad para la marcha
+T20	SINTOMA 3703 3716	cardiomegalia
+T21	SINTOMA 5440 5460	hipertransaminasemia
+T22	SINTOMA 5561 5614	descenso progresivo de enzimas hepáticas y musculares
+T23	SINTOMA 5713 5742	aumento de enzimas musculares
+T24	SINTOMA 5819 5837	debilidad muscular
+T25	PROCEDIMIENTO 742 755	quimioterapia
+T26	PROCEDIMIENTO 879 909	mastectomía radical modificada
+T27	PROCEDIMIENTO 977 989	radioterapia
+T28	PROCEDIMIENTO 992 1006	hormonoterapia
+T29	PROCEDIMIENTO 1329 1347	exploración física
+T30	PROCEDIMIENTO 2289 2307	Exploración física
+T31	PROCEDIMIENTO 2541 2568	Auscultación cardiopulmonar
+T32	PROCEDIMIENTO 2897 2920	Exploración neurológica
+T33	PROCEDIMIENTO 3217 3226	Hemograma
+T34	PROCEDIMIENTO 3681 3701	Radiografía de tórax
+T35	PROCEDIMIENTO 3795 3798	ECG
+T36	PROCEDIMIENTO 3961 3970	Hemograma
+T37	PROCEDIMIENTO 4752 4773	Estudio autoinmunidad
+T38	PROCEDIMIENTO 5095 5119	sueroterapia intravenosa
+T39	PROCEDIMIENTO 5122 5148	alcalinización de la orina
+T40	NEG 68 70	No
+T41	NSCO 71 75	RAMc
+T42	NEG 77 82	Niega
+T43	NSCO 83 98	hábitos tóxicos
+T44	NEG 724 732	negativo
+T45	NEG 1311 1323	asintomática
+T46	NEG 1348 1350	no
+T47	NSCO 1351 1390	mostraba signos de actividad neoplásica
+T48	NEG 1713 1715	no
+T49	NSCO 1716 1740	se prescribe palbociclib
+T50	NEG 2215 2218	sin
+T51	NSCO 2219 2236	clínica miccional
+T52	NEG 2238 2245	afebril
+T53	NSCO 2246 2286	y negaba otra sintomatología acompañante
+T54	NEG 2530 2537	afebril
+T55	NEG 2636 2639	sin
+T56	NSCO 2640 2672	ruidos patológicos sobreañadidos
+T57	NEG 2705 2707	no
+T58	NSCO 2708 2746	doloroso durante la palpación profunda
+T59	NEG 2780 2783	sin
+T60	NSCO 2784 2815	signos de irritación peritoneal
+T61	NEG 2870 2873	sin
+T62	NSCO 2874 2893	signos de trombosis
+T63	NEG 3090 3092	No
+T64	NSCO 3093 3128	hay alteraciones de pares craneales
+T65	NEG 3753 3756	sin
+T66	NSCO 3757 3793	pinzamiento de senos, ni infiltrados
+T67	NEG 3855 3858	sin
+T68	NSCO 3859 3899	alteraciones agudas de la repolarización
+T69	NEG 4657 4666	negativos
+T70	NEG 4672 4674	no
+T71	NSCO 4675 4685	inmunizado
+T72	NEG 4691 4699	negativo
+T73	UNC 4705 4719	compatible con
+T74	USCO 4720 4736	infección pasada
+T75	NEG 4742 4750	negativo
+T76	NEG 4775 4778	ANA
+T77	NSCO 4779 4787	negativo
+T78	NEG 4802 4810	negativo
+T79	NSCO 4812 4833	Ac antimitocondriales
+T80	NEG 4834 4842	negativo
+T81	NEG 4858 4866	negativo
+T82	NEG 4879 4887	negativo
+T83	NEG 4902 4910	negativo
+T84	NEG 5267 5282	Se suspendieron
+T85	NSCO 5283 5295	los fármacos
+T86	UNC 5300 5311	sospecha de
+T87	USCO 5312 5339	interacción con palbociclib
+T88	NEG 5398 5406	retirado
+T89	NSCO 5407 5426	en la semana previa
+T90	NEG 6139 6151	asintomática
+T91	NEG 6153 6156	sin
+T92	NSCO 6157 6200	síntomas secundarios a las metástasis óseas
+T93	FARMACO 317 327	amiodarona
+T94	FARMACO 341 351	bisoprolol
+T95	FARMACO 363 378	espironolactona
+T96	FARMACO 393 403	furosemida
+T97	FARMACO 416 428	simvastatina
+T98	FARMACO 441 455	canagliflozina
+T99	FARMACO 469 481	acenocumarol
+T100	FARMACO 483 493	exemestano
+T101	FARMACO 773 786	doxorrubicina
+T102	FARMACO 787 801	ciclofosfamida
+T103	FARMACO 825 834	docetaxel
+T104	FARMACO 1008 1016	letrozol
+T105	FARMACO 1533 1544	palbociclib
+T106	FARMACO 1547 1557	exemestano
+T107	FARMACO 1769 1779	exemestano
+T108	FARMACO 5004 5015	palbociclib
+T109	FARMACO 5017 5026	estatinas
+T110	FARMACO 5029 5039	amiodarona
+T111	FARMACO 5176 5186	furosemida
+T112	FARMACO 5328 5339	palbociclib
+T113	FARMACO 5350 5358	estatina
+T114	FARMACO 5364 5374	amiodarona
+T115	FARMACO 6357 6367	exemestano
+T116	ORG_VIVO 10 15	Mujer
+T117	ORG_VIVO 55 65	personales
+T118	ORG_VIVO 1100 1127	médico de Atención Primaria
+T119	ORG_VIVO 1256 1283	médico de Atención Primaria
+T120	ORG_VIVO 1288 1296	paciente
+T121	ORG_VIVO 1583 1591	paciente
+T122	ORG_VIVO 1803 1811	paciente
+T123	ORG_VIVO 2310 2318	Paciente
+T124	ORG_VIVO 4643 4646	VHA
+T125	ORG_VIVO 4648 4651	VHB
+T126	ORG_VIVO 4653 4656	VHC
+T127	ORG_VIVO 4668 4671	VHB
+T128	ORG_VIVO 4687 4690	VIH
+T129	ORG_VIVO 4701 4704	VEB
+T130	ORG_VIVO 4738 4741	CMV
+T131	ORG_VIVO 5225 5233	paciente
+T132	ORG_VIVO 5533 5541	paciente
+T133	ORG_VIVO 6117 6125	paciente
+T134	ENFERMEDAD 100 121	Hipertensión arterial
+T135	ENFERMEDAD 123 133	dislipemia
+T136	ENFERMEDAD 136 160	diabetes mellitus tipo 2
+T137	ENFERMEDAD 164 197	Fibrilación auricular paroxística
+T138	ENFERMEDAD 199 228	Valvulopatía mitral reumática
+T139	ENFERMEDAD 230 251	Hipertensión pulmonar
+T140	ENFERMEDAD 255 291	Insuficiencia renal crónica moderada
+T141	ENFERMEDAD 552 592	carcinoma lobulillar infiltrante de mama
+T142	ENFERMEDAD 1449 1495	metástasis óseas en columna vertebral y pelvis
+T143	ENFERMEDAD 1648 1666	toxicidad hepática
+T144	ENFERMEDAD 2884 2893	trombosis
+T145	ENFERMEDAD 4925 4938	Rabdomiolisis
+T146	ENFERMEDAD 4941 4961	hepatitis secundaria
+T147	ENFERMEDAD 4964 4987	toxicidad farmacológica
+T148	ENFERMEDAD 5239 5257	patología cardiaca
+T149	ENFERMEDAD 5440 5460	hipertransaminasemia
+T150	ENFERMEDAD 6184 6200	metástasis óseas
+T151	SANITARIO-PROFESION 1100 1127	médico de Atención Primaria
+T152	SANITARIO-PROFESION 1256 1283	médico de Atención Primaria
+T153	PACIENTE-SITUACION_LABORAL 28 39	Ama de casa

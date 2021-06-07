@@ -1,0 +1,77 @@
+T1	SINTOMA 111 130	sintomas delirantes
+T2	SINTOMA 132 155	alucinaciones auditivas
+T3	SINTOMA 1353 1362	distonías
+T4	SINTOMA 1364 1388	rigidez en rueda dentada
+T5	SINTOMA 1390 1399	sialorrea
+T6	SINTOMA 1401 1421	somnolencia excesiva
+T7	SINTOMA 1426 1438	aturdimiento
+T8	SINTOMA 1440 1446	mareos
+T9	SINTOMA 1761 1768	fumador
+T10	SINTOMA 2197 2220	alucinaciones auditivas
+T11	SINTOMA 3497 3517	movimientos oculares
+T12	PROCEDIMIENTO 1634 1643	hemograma
+T13	PROCEDIMIENTO 2624 2657	retirar el resto de psicofármacos
+T14	UNC 927 933	parece
+T15	USCO 934 985	un caso habitual de esquizofrenia paranoide crónica
+T16	NEG 1024 1026	no
+T17	NSCO 1027 1065	toleraba ningún tipo de antipsicóticos
+T18	NEG 1292 1302	retirarlos
+T19	NEG 1607 1610	sin
+T20	NSCO 1611 1643	repercusión a nivel de hemograma
+T21	NEG 1956 1958	no
+T22	NSCO 1959 1989	se observan signos patológicos
+T23	NEG 2290 2294	nula
+T24	NSCO 2295 2355	adherencia o ineficacia de todos los antipsicóticos probados
+T25	NEG 2624 2631	retirar
+T26	NSCO 2632 2657	el resto de psicofármacos
+T27	UNC 2673 2680	posible
+T28	USCO 2681 2746	disminuir la dosis de clozapina por la hipersedación y salivación
+T29	NEG 2826 2828	No
+T30	NSCO 2829 2860	se observan efectos secundarios
+T31	NEG 2989 2991	no
+T32	NSCO 2992 3024	ha vuelto a tener ningún ingreso
+T33	NEG 3112 3114	no
+T34	NSCO 3115 3131	han sido óptimos
+T35	NEG 3133 3135	no
+T36	NSCO 3136 3154	ha tenido recaídas
+T37	NEG 3269 3272	sin
+T38	NSCO 3273 3303	interponerse en su vida diaria
+T39	NEG 3560 3565	ceden
+T40	NSCO 3566 3582	con un lorazepam
+T41	NEG 3602 3605	sin
+T42	NSCO 3606 3625	mayor trascendencia
+T43	FARMACO 1121 1132	haloperidol
+T44	FARMACO 1702 1715	atorvastatina
+T45	FARMACO 2384 2393	clozapina
+T46	FARMACO 2703 2712	clozapina
+T47	FARMACO 2799 2808	clozapina
+T48	FARMACO 3573 3582	lorazepam
+T49	FARMACO 3689 3698	clozapina
+T50	FARMACO 3724 3733	lorazepam
+T51	ORG_VIVO 0 5	Varón
+T52	ORG_VIVO 328 336	paciente
+T53	ORG_VIVO 358 365	persona
+T54	ORG_VIVO 536 541	madre
+T55	ORG_VIVO 609 615	amigos
+T56	ORG_VIVO 716 724	enfermos
+T57	ORG_VIVO 864 869	madre
+T58	ORG_VIVO 904 911	hermano
+T59	ORG_VIVO 1008 1016	paciente
+T60	ORG_VIVO 2014 2022	paciente
+T61	ORG_VIVO 2577 2585	paciente
+T62	ORG_VIVO 2764 2772	paciente
+T63	ORG_VIVO 2982 2987	novia
+T64	ORG_VIVO 3101 3111	familiares
+T65	ORG_VIVO 3677 3685	paciente
+T66	ENFERMEDAD 27 50	esquizofrenia paranoide
+T67	ENFERMEDAD 111 130	sintomas delirantes
+T68	ENFERMEDAD 954 985	esquizofrenia paranoide crónica
+T69	ENFERMEDAD 1654 1673	hipercolesterolemia
+T70	ENFERMEDAD 1761 1768	fumador
+T71	ENFERMEDAD 1790 1798	obesidad
+T72	ENFERMEDAD 1854 1873	hipercolesterolemia
+T73	ENFERMEDAD 2114 2137	esquizofrenia paranoide
+T74	ENFERMEDAD 3464 3472	ansiedad
+T75	ENFERMEDAD 3741 3749	ansiedad
+T76	PACIENTE-SITUACION_LABORAL 57 73	servicio militar
+T77	PACIENTE-SITUACION_LABORAL 807 830	incapacitado legalmente

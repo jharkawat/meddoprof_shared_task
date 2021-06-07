@@ -1,0 +1,118 @@
+T1	SINTOMA 337 353	sequedad de boca
+T2	SINTOMA 487 524	dificultades en la interacción social
+T3	SINTOMA 1226 1253	pérdida del contacto ocular
+T4	SINTOMA 1281 1312	desorganización del pensamiento
+T5	SINTOMA 1417 1434	discurso monótono
+T6	SINTOMA 1436 1463	dificultades en abstracción
+T7	SINTOMA 3199 3218	decaimiento anímico
+T8	SINTOMA 3220 3232	desesperanza
+T9	SINTOMA 3575 3596	embotamiento afectivo
+T10	SINTOMA 3603 3611	angustia
+T11	SINTOMA 3740 3749	inquietud
+T12	SINTOMA 3753 3773	alteraciones motoras
+T13	SINTOMA 4061 4118	dificultades en la comprensión de instrucciones sencillas
+T14	SINTOMA 4440 4459	decaimiento anímico
+T15	SINTOMA 4476 4502	pérdida de su salud mental
+T16	SINTOMA 4595 4614	decaimiento anímico
+T17	SINTOMA 4700 4729	alteraciones sensoperceptivas
+T18	SINTOMA 6274 6296	pérdida de habilidades
+T19	SINTOMA 7141 7160	ideación autolítica
+T20	PROCEDIMIENTO 1141 1157	Estudio genético
+T21	PROCEDIMIENTO 1177 1180	RMN
+T22	PROCEDIMIENTO 2268 2288	pruebas psicométicas
+T23	PROCEDIMIENTO 2838 2851	antidepresivo
+T24	PROCEDIMIENTO 3079 3093	antidepresivos
+T25	PROCEDIMIENTO 5068 5077	hemograma
+T26	PROCEDIMIENTO 5092 5102	hemostasia
+T27	PROCEDIMIENTO 5144 5147	ECG
+T28	PROCEDIMIENTO 5193 5196	EEG
+T29	PROCEDIMIENTO 5199 5211	RMN cerebral
+T30	PROCEDIMIENTO 6541 6554	antidepresivo
+T31	PROCEDIMIENTO 6767 6776	hemograma
+T32	PROCEDIMIENTO 6778 6788	hemostasia
+T33	PROCEDIMIENTO 7429 7453	rehabilitación cognitiva
+T34	NEG 438 440	No
+T35	NSCO 441 450	pataletas
+T36	NEG 526 528	no
+T37	NSCO 529 559	impresiona de trastorno fóbico
+T38	NEG 617 619	no
+T39	NSCO 620 658	llega a tener un funcionamiento normal
+T40	NEG 1010 1013	sin
+T41	NSCO 1014 1029	mejoría clínica
+T42	NEG 1121 1123	no
+T43	NSCO 1124 1138	significativas
+T44	NEG 1158 1161	sin
+T45	NSCO 1162 1174	alteraciones
+T46	UNC 2090 2103	probablemente
+T47	USCO 2104 2139	reactivo a pérdida de funcionalidad
+T48	UNC 2399 2410	sospecha de
+T49	USCO 2411 2431	síndrome de Asperger
+T50	NEG 3303 3307	Nula
+T51	NSCO 3308 3375	respuesta a tratamientos farmacológicos previos a nivel ambulatorio
+T52	NEG 3612 3622	desaparece
+T53	NSCO 3623 3634	rápidamente
+T54	NEG 3736 3739	sin
+T55	NSCO 3740 3773	inquietud ni alteraciones motoras
+T56	UNC 4317 4331	impresionan de
+T57	USCO 4332 4342	delirantes
+T58	UNC 4849 4862	probablemente
+T59	USCO 4863 4919	hay subyacente un mecanismo defensivo de racionalización
+T60	NEG 5212 5215	sin
+T61	NSCO 5216 5249	objetivarse hallazgos patológicos
+T62	UNC 5555 5562	posible
+T63	USCO 5563 5601	trastorno del desarrollo tipo Asperger
+T64	NEG 5702 5704	no
+T65	NSCO 5705 5810	solamente permanece la anterior sintomatología y aparición de clínica susceptible con síntomas psicóticos
+T66	UNC 5844 5850	podría
+T67	USCO 5851 5939	considerarse regresión cognitiva (pérdida de funciones ejecutivas adquiridas previamente
+T68	NEG 5964 5974	plantearse
+T69	NSCO 5975 6007	patologías tipo síndrome de Rett
+T70	NEG 6116 6118	no
+T71	NSCO 6119 6127	presente
+T72	NEG 6831 6834	sin
+T73	NSCO 6835 6873	observarse alteraciones significativas
+T74	NEG 7078 7081	sin
+T75	NSCO 7082 7104	repercusión conductual
+T76	FARMACO 196 206	cefuroxima
+T77	FARMACO 209 223	claritromicina
+T78	FARMACO 251 265	claritromicina
+T79	FARMACO 302 314	clomipramina
+T80	FARMACO 981 994	metilfenidato
+T81	FARMACO 997 1008	atomoxetina
+T82	FARMACO 6659 6668	clozapina
+T83	FARMACO 6742 6751	clozapina
+T84	FARMACO 7583 7597	desvenlafaxina
+T85	FARMACO 7617 7626	clozapina
+T86	ORG_VIVO 0 8	Paciente
+T87	ORG_VIVO 469 477	infancia
+T88	ORG_VIVO 914 927	neuropediatra
+T89	ORG_VIVO 1368 1376	paciente
+T90	ORG_VIVO 1855 1861	padres
+T91	ORG_VIVO 2050 2056	amigos
+T92	ORG_VIVO 2633 2642	pacientes
+T93	ORG_VIVO 2780 2791	psiquiatras
+T94	ORG_VIVO 4196 4204	paciente
+T95	ORG_VIVO 5327 5335	infancia
+T96	ORG_VIVO 6060 6068	infancia
+T97	ORG_VIVO 6877 6885	paciente
+T98	ENFERMEDAD 92 111	ideación autolítica
+T99	ENFERMEDAD 225 265	Púrpura anafilactoide por claritromicina
+T100	ENFERMEDAD 543 559	trastorno fóbico
+T101	ENFERMEDAD 947 951	TDAH
+T102	ENFERMEDAD 2411 2431	síndrome de Asperger
+T103	ENFERMEDAD 2647 2655	Asperger
+T104	ENFERMEDAD 3189 3197	ansiedad
+T105	ENFERMEDAD 3244 3250	muerte
+T106	ENFERMEDAD 3272 3291	trastorno psicótico
+T107	ENFERMEDAD 4531 4549	muerte congruentes
+T108	ENFERMEDAD 5382 5395	TDAH inatento
+T109	ENFERMEDAD 5563 5601	trastorno del desarrollo tipo Asperger
+T110	ENFERMEDAD 5991 6007	síndrome de Rett
+T111	ENFERMEDAD 6016 6043	trastorno psicótico crónico
+T112	ENFERMEDAD 6185 6198	esquizofrenia
+T113	ENFERMEDAD 6398 6422	cuadro psicótico crónico
+T114	ENFERMEDAD 6475 6500	esquizofrenia hebefrénica
+T115	ENFERMEDAD 6603 6629	fracaso con antipsicóticos
+T116	SANITARIO-PROFESION 2780 2791	psiquiatras
+T117	SANITARIO-PROFESION 2896 2907	psiquiatras
+T118	PACIENTE-SITUACION_LABORAL 1901 1920	repite 3o de la ESO

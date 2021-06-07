@@ -1,0 +1,65 @@
+T1	SINTOMA 1980 2016	alucinaciones auditivas comentadoras
+T2	SINTOMA 2034 2051	afectividad lábil
+T3	SINTOMA 2054 2069	conducta pueril
+T4	SINTOMA 2353 2377	plaquetopenia fluctuante
+T5	SINTOMA 2410 2420	leucopenia
+T6	SINTOMA 3390 3418	deterioro cognitivo moderado
+T7	PROCEDIMIENTO 454 465	fototerapia
+T8	PROCEDIMIENTO 746 758	septoplastia
+T9	PROCEDIMIENTO 761 776	turbino-plastia
+T10	PROCEDIMIENTO 1015 1024	ecografía
+T11	PROCEDIMIENTO 1372 1394	tratamiento logopédico
+T12	PROCEDIMIENTO 2248 2265	análisis de orina
+T13	PROCEDIMIENTO 2267 2294	pruebas de función tiroidea
+T14	PROCEDIMIENTO 2308 2328	electroencefalograma
+T15	PROCEDIMIENTO 2428 2462	tomografía computarizada de cráneo
+T16	PROCEDIMIENTO 2581 2610	evaluación de la inteligencia
+T17	PROCEDIMIENTO 3174 3202	Test del Factor G de Cattell
+T18	PROCEDIMIENTO 3545 3570	pruebas neuropsicológicas
+T19	NEG 1683 1685	no
+T20	NSCO 1686 1734	permite establecer un cociente intelectual total
+T21	NEG 2383 2385	no
+T22	NSCO 2386 2406	llegó a normalizarse
+T23	NEG 2681 2683	no
+T24	NSCO 2684 2699	pudo terminarse
+T25	NEG 2707 2723	imposibilidad de
+T26	NSCO 2724 2755	obtener una valoración adecuada
+T27	NEG 3140 3150	suspensión
+T28	NEG 3251 3253	no
+T29	NSCO 3254 3290	parecía comprender las instrucciones
+T30	NEG 3324 3326	no
+T31	NSCO 3327 3357	relacionadas con las preguntas
+T32	NEG 3433 3443	suspensión
+T33	NSCO 3444 3464	total del topiramato
+T34	FARMACO 3056 3066	topiramato
+T35	FARMACO 3454 3464	topiramato
+T36	ORG_VIVO 0 5	Mujer
+T37	ORG_VIVO 130 138	familiar
+T38	ORG_VIVO 154 164	familiares
+T39	ORG_VIVO 166 172	Abuela
+T40	ORG_VIVO 205 210	Madre
+T41	ORG_VIVO 361 371	personales
+T42	ORG_VIVO 1905 1913	paciente
+T43	ORG_VIVO 2116 2124	familiar
+T44	ORG_VIVO 2642 2650	paciente
+T45	ORG_VIVO 3242 3250	paciente
+T46	ORG_VIVO 3576 3584	paciente
+T47	ENFERMEDAD 96 138	trastorno de conducta en el medio familiar
+T48	ENFERMEDAD 177 203	síndrome ansioso-depresivo
+T49	ENFERMEDAD 302 328	síndrome ansioso-depresivo
+T50	ENFERMEDAD 331 345	hipotiroidismo
+T51	ENFERMEDAD 373 384	Oligoamnios
+T52	ENFERMEDAD 671 687	dismorfia septal
+T53	ENFERMEDAD 692 718	insuficiencia velopalatina
+T54	ENFERMEDAD 721 741	rinitis hipertrófica
+T55	ENFERMEDAD 1052 1077	trastorno psicótico agudo
+T56	ENFERMEDAD 1093 1100	F23 CIE
+T57	ENFERMEDAD 1110 1133	esquizofrenia paranoide
+T58	ENFERMEDAD 1135 1142	F20 CIE
+T59	ENFERMEDAD 1271 1289	retraso madurativo
+T60	ENFERMEDAD 1350 1358	dislexia
+T61	ENFERMEDAD 2353 2366	plaquetopenia
+T62	ENFERMEDAD 2410 2420	leucopenia
+T63	ENFERMEDAD 3390 3418	deterioro cognitivo moderado
+T64	ENFERMEDAD 3606 3631	esquizofrenia hebefrénica
+T65	ENFERMEDAD 3645 3650	CIE10

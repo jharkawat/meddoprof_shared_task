@@ -1,0 +1,223 @@
+T1	SINTOMA 184 192	embarazo
+T2	SINTOMA 966 992	pérdida de conciencia 1981
+T3	SINTOMA 2244 2259	ideas obsesivas
+T4	SINTOMA 2670 2674	....
+T5	SINTOMA 2729 2737	insomnio
+T6	SINTOMA 2739 2747	anorexia
+T7	SINTOMA 2818 2845	dificultad para concentrase
+T8	SINTOMA 4136 4149	alucinaciones
+T9	SINTOMA 5401 5408	bizarra
+T10	SINTOMA 8575 8582	mutismo
+T11	SINTOMA 8652 8683	desorientación temporo-espacial
+T12	SINTOMA 8709 8737	pérdida de memoria inmediata
+T13	SINTOMA 8866 8890	sintomatología delirante
+T14	SINTOMA 12263 12283	delirio erotomaníaco
+T15	PROCEDIMIENTO 1813 1835	cirugía reconstructiva
+T16	PROCEDIMIENTO 3030 3050	tratamiento sedativo
+T17	PROCEDIMIENTO 5695 5721	psicoterapia psicodinámica
+T18	PROCEDIMIENTO 6417 6432	benzodiazepinas
+T19	PROCEDIMIENTO 7135 7163	tratamiento psicoterapéutico
+T20	PROCEDIMIENTO 8969 8980	TAC craneal
+T21	PROCEDIMIENTO 9008 9011	EEG
+T22	PROCEDIMIENTO 9086 9095	hemograma
+T23	PROCEDIMIENTO 12362 12384	tratamiento parenteral
+T24	NEG 1938 1940	no
+T25	NSCO 1941 1950	por su ex
+T26	NEG 2150 2152	no
+T27	NSCO 2153 2174	podía asistir a verla
+T28	NEG 2452 2454	no
+T29	NSCO 2455 2474	acepta ni comprende
+T30	NEG 2482 2484	no
+T31	NSCO 2485 2509	sienta lo mismo por ella
+T32	UNC 3129 3137	aparente
+T33	USCO 3138 3154	estado delirante
+T34	NEG 3227 3229	no
+T35	NSCO 3230 3317	presenta alteraciones de conducta ni problemas de convivencia con el resto de pacientes
+T36	NEG 3381 3383	no
+T37	NSCO 3384 3398	puede evitarlo
+T38	UNC 3400 3416	impresionando de
+T39	USCO 3417 3464	fondo neurótico y reacciones de tipo histeroide
+T40	NEG 3640 3642	no
+T41	NSCO 3643 3681	habría de fondo una psicosis delirante
+T42	NEG 4124 4126	no
+T43	NSCO 4127 4195	presenta alucinaciones, ni ideación autolítica, ni clínica delirante
+T44	NEG 4294 4296	no
+T45	NSCO 4297 4319	lo va a volver a hacer
+T46	NEG 4851 4853	no
+T47	NSCO 4854 4872	acude a su trabajo
+T48	NSCO 4921 4935	casi ni duerme
+T49	NEG 5323 5334	ausencia de
+T50	NSCO 5335 5364	conciencia de sus actuaciones
+T51	UNC 5510 5518	posibles
+T52	USCO 5519 5586	diagnósticos de psicosis histérica, erotomanía o psicosis psicógena
+T53	NEG 5923 5926	sin
+T54	NSCO 5927 5937	ingresarla
+T55	NEG 6359 6361	no
+T56	NSCO 6362 6451	precisando como tratamiento farmacológico nada más que benzodiazepinas durante los mismos
+T57	NEG 6560 6563	sin
+T58	NSCO 6564 6583	síntomas psicóticos
+T59	NEG 6703 6706	sin
+T60	NSCO 6707 6724	poder controlarse
+T61	NEG 6726 6728	no
+T62	NSCO 6729 6794	existiendo sintomatología delirante manifiesta como justificación
+T63	NEG 7498 7501	sin
+T64	NSCO 7502 7520	ver a su ex-amante
+T65	NEG 7903 7905	no
+T66	NSCO 7906 7921	puede controlar
+T67	NEG 8065 8067	no
+T68	NSCO 8068 8082	le corresponde
+T69	NEG 8129 8131	no
+T70	NSCO 8132 8169	poder controlar su "obsesión amorosa"
+T71	NEG 8652 8666	desorientación
+T72	NEG 8750 8754	nula
+T73	NSCO 8755 8797	capacidad para la abstracción o el cálculo
+T74	NEG 8862 8865	sin
+T75	NSCO 8866 8890	sintomatología delirante
+T76	NEG 8981 8984	sin
+T77	NSCO 8985 9006	hallazgos patológicos
+T78	NEG 9576 9579	sin
+T79	NSCO 9580 9585	rumbo
+T80	NEG 9588 9591	sin
+T81	NSCO 9592 9627	descanso cargada con dichas compras
+T82	NEG 10014 10017	sin
+T83	NSCO 10018 10041	que ella pueda oponerse
+T84	NEG 10051 10054	sin
+T85	NSCO 10055 10113	control alrededor de las inmediaciones de la casa de su ex
+T86	NEG 10278 10290	inespecífica
+T87	NEG 10384 10387	sin
+T88	NSCO 10388 10417	clínica afectiva ni psicótica
+T89	UNC 10523 10536	probablemente
+T90	USCO 10537 10601	desencadenados por la disminución o el abandono de la medicación
+T91	UNC 10973 10982	no parece
+T92	USCO 10983 11000	poder controlarse
+T93	NEG 11189 11192	sin
+T94	NSCO 11193 11198	parar
+T95	NEG 11203 11205	no
+T96	NSCO 11206 11234	cumple alguno de los 3 pasos
+T97	NEG 11250 11252	no
+T98	NSCO 11253 11262	es válida
+T99	FARMACO 3713 3724	tioridazina
+T100	FARMACO 3726 3737	haloperidol
+T101	FARMACO 3740 3753	amitriptilina
+T102	FARMACO 4410 4423	clorpromazina
+T103	FARMACO 4426 4437	clorazepato
+T104	FARMACO 5635 5646	clorazepato
+T105	FARMACO 5649 5659	flurazepam
+T106	FARMACO 5662 5673	derivándola
+T107	FARMACO 5967 5978	clorazepato
+T108	FARMACO 6811 6822	perfenacina
+T109	FARMACO 6825 6838	amitriptilina
+T110	FARMACO 8447 8452	litio
+T111	FARMACO 8454 8464	paroxetina
+T112	FARMACO 8467 8478	clorazepato
+T113	FARMACO 9307 9312	litio
+T114	FARMACO 9314 9324	biperideno
+T115	FARMACO 9326 9337	risperidona
+T116	FARMACO 9340 9351	clorazepato
+T117	FARMACO 10305 10315	olanzapina
+T118	FARMACO 10318 10329	clorazepato
+T119	FARMACO 10639 10648	clozapina
+T120	FARMACO 10650 10663	carbamazepina
+T121	FARMACO 10665 10674	valproato
+T122	FARMACO 10676 10686	quetiapina
+T123	FARMACO 10688 10700	amisulpiride
+T124	FARMACO 10702 10721	zuclopentixol depot
+T125	FARMACO 10841 10860	zuclopentixol depot
+T126	FARMACO 11379 11398	zuclopentixol depot
+T127	FARMACO 11400 11410	paroxetina
+T128	FARMACO 11412 11422	quetiapina
+T129	FARMACO 11424 11432	diazepam
+T130	FARMACO 11435 11447	lormetazepam
+T131	FARMACO 11577 11588	risperidona
+T132	FARMACO 11707 11718	risperidona
+T133	FARMACO 11879 11890	risperidona
+T134	FARMACO 11904 11916	paliperidona
+T135	FARMACO 12025 12037	paliperidona
+T136	ORG_VIVO 51 56	Mujer
+T137	ORG_VIVO 118 125	hermana
+T138	ORG_VIVO 128 134	cuñado
+T139	ORG_VIVO 247 255	infancia
+T140	ORG_VIVO 278 284	padres
+T141	ORG_VIVO 287 294	hermana
+T142	ORG_VIVO 377 383	hombre
+T143	ORG_VIVO 481 486	Mujer
+T144	ORG_VIVO 537 545	familiar
+T145	ORG_VIVO 613 627	administrativa
+T146	ORG_VIVO 1339 1349	familiares
+T147	ORG_VIVO 1355 1362	hermana
+T148	ORG_VIVO 1392 1399	sobrino
+T149	ORG_VIVO 1910 1931	compañeros de trabajo
+T150	ORG_VIVO 1948 1957	ex-amante
+T151	ORG_VIVO 3218 3226	paciente
+T152	ORG_VIVO 3308 3317	pacientes
+T153	ORG_VIVO 3502 3523	compañeros de trabajo
+T154	ORG_VIVO 3910 3915	amigo
+T155	ORG_VIVO 4022 4026	bebé
+T156	ORG_VIVO 4088 4092	bebé
+T157	ORG_VIVO 4640 4645	niños
+T158	ORG_VIVO 4785 4792	familia
+T159	ORG_VIVO 4808 4813	hijos
+T160	ORG_VIVO 4818 4822	niño
+T161	ORG_VIVO 4827 4831	niña
+T162	ORG_VIVO 4940 4947	enferma
+T163	ORG_VIVO 5043 5051	personal
+T164	ORG_VIVO 5430 5439	ex-amante
+T165	ORG_VIVO 6309 6317	paciente
+T166	ORG_VIVO 6656 6664	paciente
+T167	ORG_VIVO 7018 7026	paciente
+T168	ORG_VIVO 7171 7181	psiquiatra
+T169	ORG_VIVO 7194 7201	familia
+T170	ORG_VIVO 7400 7410	psiquiatra
+T171	ORG_VIVO 7511 7520	ex-amante
+T172	ORG_VIVO 7877 7884	víctima
+T173	ORG_VIVO 8502 8509	sobrino
+T174	ORG_VIVO 9534 9539	niños
+T175	ORG_VIVO 10185 10192	familia
+T176	ORG_VIVO 11164 11169	hijos
+T177	ORG_VIVO 11302 11307	seres
+T178	ORG_VIVO 11322 11332	familiares
+T179	ORG_VIVO 11938 11946	paciente
+T180	ORG_VIVO 12224 12233	ex-amante
+T181	ENFERMEDAD 790 821	enfermedad mental incapacitante
+T182	ENFERMEDAD 850 853	HTA
+T183	ENFERMEDAD 855 863	glaucoma
+T184	ENFERMEDAD 865 880	hernia de hiato
+T185	ENFERMEDAD 882 908	fractura de tibia y peroné
+T186	ENFERMEDAD 960 963	TCE
+T187	ENFERMEDAD 1195 1227	trastorno delirante erotomaníaco
+T188	ENFERMEDAD 1231 1242	Clerambault
+T189	ENFERMEDAD 1367 1386	trastorno distímico
+T190	ENFERMEDAD 1426 1434	suicidio
+T191	ENFERMEDAD 1451 1468	Enfermedad mental
+T192	ENFERMEDAD 1496 1515	trastornos mentales
+T193	ENFERMEDAD 1653 1679	fractura de tibia y peroné
+T194	ENFERMEDAD 1691 1694	TCE
+T195	ENFERMEDAD 2244 2259	ideas obsesivas
+T196	ENFERMEDAD 2711 2719	ansiedad
+T197	ENFERMEDAD 3093 3101	ansiedad
+T198	ENFERMEDAD 3563 3590	trastorno ansioso-depresivo
+T199	ENFERMEDAD 3598 3615	neurosis obsesiva
+T200	ENFERMEDAD 3663 3681	psicosis delirante
+T201	ENFERMEDAD 5535 5553	psicosis histérica
+T202	ENFERMEDAD 5555 5565	erotomanía
+T203	ENFERMEDAD 5568 5586	psicosis psicógena
+T204	ENFERMEDAD 8429 8432	TOC
+T205	ENFERMEDAD 8514 8522	suicidio
+T206	ENFERMEDAD 8593 8612	deterioro cognitivo
+T207	ENFERMEDAD 9027 9042	foco epiléptico
+T208	ENFERMEDAD 9203 9217	pseudodemencia
+T209	ENFERMEDAD 9246 9267	trastorno disociativo
+T210	ENFERMEDAD 10269 10290	psicosis inespecífica
+T211	ENFERMEDAD 11530 11562	trastorno delirante erotomaniaco
+T212	ENFERMEDAD 12113 12135	conductas apragmáticas
+T213	ENFERMEDAD 12263 12283	delirio erotomaníaco
+T214	PACIENTE-SITUACION_LABORAL 717 725	Jubilada
+T215	PACIENTE-PROFESION 613 660	administrativa durante 20 años en un Ministerio
+T216	OTROS-SITUACION_LABORAL 1910 1931	compañeros de trabajo
+T217	OTROS-SITUACION_LABORAL 3502 3523	compañeros de trabajo
+T218	OTROS-PROFESION 441 462	jefe en el Ministerio
+T219	SANITARIO-PROFESION 7171 7181	psiquiatra
+T220	SANITARIO-PROFESION 7400 7410	psiquiatra
+T221	PACIENTE-PROFESION 446 478	en el Ministerio donde trabajaba
+T222	PACIENTE-SITUACION_LABORAL 765 807	invalidez permanente por enfermedad mental
+T223	PACIENTE-SITUACION_LABORAL 6955 6991	invalidez laboral total y permanente

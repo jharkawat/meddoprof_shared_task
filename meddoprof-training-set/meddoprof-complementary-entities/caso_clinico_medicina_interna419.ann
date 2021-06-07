@@ -1,0 +1,61 @@
+T1	SINTOMA 18 25	fumador
+T2	SINTOMA 137 144	cefalea
+T3	SINTOMA 147 153	fiebre
+T4	SINTOMA 187 210	alteración del lenguaje
+T5	SINTOMA 252 264	obnubilación
+T6	SINTOMA 271 286	rigidez de nuca
+T7	SINTOMA 289 311	lenguaje ininteligible
+T8	SINTOMA 345 351	fiebre
+T9	PROCEDIMIENTO 218 241	exploración neurológica
+T10	PROCEDIMIENTO 371 389	exploración física
+T11	PROCEDIMIENTO 471 494	tratamiento antibiótico
+T12	PROCEDIMIENTO 539 550	TC Cerebral
+T13	PROCEDIMIENTO 572 586	punción lumbar
+T14	PROCEDIMIENTO 925 939	Ecocardiograma
+T15	PROCEDIMIENTO 1175 1189	cultivo de LCR
+T16	PROCEDIMIENTO 1212 1224	Hemocultivos
+T17	PROCEDIMIENTO 1339 1375	Ecografías Hepato-Bilio- Pancreática
+T18	PROCEDIMIENTO 1551 1571	TAC Toraco-Abdominal
+T19	PROCEDIMIENTO 1698 1710	Gastroscopia
+T20	PROCEDIMIENTO 1735 1747	Colonoscopia
+T21	PROCEDIMIENTO 1858 1870	Gastroscopia
+T22	PROCEDIMIENTO 2051 2077	quimioterapia neoadyuvante
+T23	PROCEDIMIENTO 2082 2110	resección gástrica posterior
+T24	NEG 77 80	sin
+T25	NSCO 81 110	otros antecedentes de interés
+T26	NEG 438 440	no
+T27	NSCO 441 461	conocido previamente
+T28	UNC 788 796	probable
+T29	USCO 797 809	Endocarditis
+T30	NEG 872 884	asintomático
+T31	NEG 1055 1058	sin
+T32	NSCO 1059 1075	indicación clara
+T33	NEG 1194 1202	negativo
+T34	NEG 1469 1478	negativas
+T35	UNC 1652 1666	compatible con
+T36	USCO 1667 1677	adenopatía
+T37	UNC 2353 2366	probablemente
+T38	USCO 2367 2385	ha sido este tumor
+T39	ORG_VIVO 0 5	Varón
+T40	ORG_VIVO 54 62	mecánico
+T41	ORG_VIVO 707 715	paciente
+T42	ORG_VIVO 824 832	paciente
+T43	ORG_VIVO 1235 1291	S gallolyticus spp pasteurianus sensible a la Penicilina
+T44	ORG_VIVO 1330 1338	paciente
+T45	ORG_VIVO 1770 1784	S gallolyticus
+T46	ENFERMEDAD 18 33	fumador de pipa
+T47	ENFERMEDAD 164 184	Síndrome Confusional
+T48	ENFERMEDAD 758 785	Meningitis Aguda Bacteriana
+T49	ENFERMEDAD 797 809	Endocarditis
+T50	ENFERMEDAD 965 991	prolapso de Válvula Mitral
+T51	ENFERMEDAD 1404 1419	Hepatocarcinoma
+T52	ENFERMEDAD 1422 1449	Tumor de Células Germinales
+T53	ENFERMEDAD 1501 1519	tumores germinales
+T54	ENFERMEDAD 1600 1651	lesión nodular de 4x3 cm próxima al fundus gástrico
+T55	ENFERMEDAD 1667 1677	adenopatía
+T56	ENFERMEDAD 1718 1728	adenopatía
+T57	ENFERMEDAD 1987 2001	Adenocarcinoma
+T58	ENFERMEDAD 2157 2171	tumor gástrico
+T59	ENFERMEDAD 2218 2251	Adenocarcinoma Gástrico Hepatoide
+T60	ENFERMEDAD 2324 2352	infección por S gallolyticus
+T61	PACIENTE-PROFESION 54 62	mecánico

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 55 años de edad, sin alergias medicamentosas conocidas, con hipertensión arterial diagnosticada hace 9 años en tratamiento con irbesartán.
+La paciente ingresó para estudio en el Servicio de Medicina Interna por presentar desde hacía 5 meses un cuadro de palpitaciones, aumento de la tensión arterial no controlable con tratamiento médico, rash cutáneo en el tronco y las extremidades, hipertricosis y cefalea. Además, la paciente refería desde hacía 2 meses distensión abdominal, por lo que el médico de atención primaria solicitó una ecografía abdominal, hallándose una masa adyacente al riñón izquierdo de 7 cm.
+
+Examen físico
+Paciente con ligero exoftalmos sin bocio ni ingurgitación yugular. Presentaba aumento del almohadillado cervical, facies redondeada, rash cutáneo en la cara, el cuello, el tronco y las extremidades, con hematomas en la raíz superior de los muslos. Auscultación cardiaca y pulmonar sin alteraciones. El abdomen era blando, depresible, no doloroso a la palpación, con ruidos hidroaéreos presentes. Las extremidades inferiores no presentaban edemas ni signos de trombosis venosa profunda. Tensión arterial sistólica de 181 mmHg y diastólica de 102 mmHg, con una frecuencia cardiaca de 80 lpm.
+
+Pruebas complementarias
+• Bioquímica sanguínea: destacó un aumento del colesterol total 298 mg/d, de la enzima lactato deshidrogenasa (LDH) 476 UI/l y de la hemoglobina glicosilada a1c NGSP/DCCT 6,2%. Enzima convertidora de la angiotensina (ECA) dentro de los valores normales.
+• Sistemático de sangre: parámetros dentro de la normalidad.
+• Marcadores tumorales: aumento del CA 15-3 36,45 UI/ml, del CA 125 38,14 U/ml, del CYFRA 21-1 5,70 ng/dl, de la enolasa neuroespecífica 24 ng/ml y del proGRP 40,02 pg/ml.
+• Catecolaminas en orina: dentro de los valores normales.
+• El estudio hormonal evidenció únicamente hipersecreción de cortisol con disminución de la ACTH. Cortisol 9 am: 24,28 μg/dl. Cortisol 21 pm: 37,25 μg/dl. ACTH 9 am: 1 pg/ml. Aldosterona y renina plasmáticas normales.
+• Ecografía de abdomen: imagen nodular de 7 cm de eje mayor que ocupa el espacio suprarrenal izquierdo, adyacente al riñón, sin depender del mismo. Se aprecia algún nódulo satélite frente a adenopatías metastásicas.
+• Tomografía computarizada abdómino-pélvica: masa suprarrenal izquierda de contorno polilobulado con zonas de baja densidad probablemente por necrosis, calcificación puntiforme grosera e hipercaptación, de unas dimensiones máximas aproximadas de 85 x 72 x 66 mm. Se observan vasos prominentes en la periferia de la masa y existe una zona de dudoso plano de separación respecto al bazo. Una prolongación de la masa en sentido medial invade la vena renal izquierda. No se observan adenopatías mesentéricas ni retroperitoneales. Pequeña adenopatía redondeada, algo llamativa, de unos 6 mm en situación paraórtica izquierda.
+• Biopsia con aguja fina de la masa suprarrenal: adenoma suprarrenal.
+
+Diagnóstico
+Tumor adrenocortical izquierdo hipersecretor de cortisol con características radiológicas de malignidad. Síndrome de Cushing.
+
+Tratamiento
+Se programó intervención quirúrgica, advirtiendo a la paciente del compromiso de la vena renal izquierda y, como consecuencia, la probabilidad de realizar también una nefrectomía. Durante la intervención quirúrgica se observó que no existía plano de separación con el riñón, con invasión tumoral de la vena renal izquierda que obligó a realizar, además de la suprarrenalectomía, la nefrectomía radical izquierda. No se objetivaron adenopatías regionales macroscópicas.
+El estudio anatomopatológico de la pieza demostró un carcinoma adrenocortical de 12 x 8 cm con áreas de patrón oncocítico, con invasión de la cápsula y trombo tumoral de gran tamaño en la vena renal. Riñón izquierdo libre de infiltración. Según la clasificación de la American Joint Comitte on Cancer (AJCC)1: T4N0M0. Estadio IV.
+
+Evolución
+La paciente se encuentra en estricto seguimiento radiológico y endocrino, no presentando a los 3 meses signos de recidiva tumoral ni de enfermedad metastásica. Los valores hormonales se normalizaron tras la cirugía, reflejándose clínicamente en la desaparición de los rasgos cushingoides y en un correcto control de las cifras tensionales, precisando únicamente un fármaco hipotensor (irbersartán).

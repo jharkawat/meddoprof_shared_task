@@ -1,0 +1,87 @@
+T1	SINTOMA 115 129	dolor inguinal
+T2	SINTOMA 243 271	próstata aumentada de tamaño
+T3	SINTOMA 2439 2449	odinofagia
+T4	SINTOMA 2566 2600	máculas en facies, brazos y muslos
+T5	SINTOMA 4211 4215	ECOG
+T6	SINTOMA 4461 4489	dolor intenso en zona lumbar
+T7	SINTOMA 4517 4551	disestesias en miembros inferiores
+T8	SINTOMA 4794 4805	falleciendo
+T9	PROCEDIMIENTO 179 190	analgésicos
+T10	PROCEDIMIENTO 193 211	Exploración física
+T11	PROCEDIMIENTO 215 227	tacto rectal
+T12	PROCEDIMIENTO 464 484	Ecografía prostática
+T13	PROCEDIMIENTO 570 594	TC toracoabdominopélvica
+T14	PROCEDIMIENTO 873 891	RM abdominopélvica
+T15	PROCEDIMIENTO 1191 1209	Biopsia prostática
+T16	PROCEDIMIENTO 1390 1393	IHQ
+T17	PROCEDIMIENTO 2026 2039	quimioterapia
+T18	PROCEDIMIENTO 2133 2146	quimioterapia
+T19	PROCEDIMIENTO 2200 2212	radioterapia
+T20	PROCEDIMIENTO 2260 2272	ciclo HD-VAC
+T21	PROCEDIMIENTO 2400 2412	ciclo HD-VAC
+T22	PROCEDIMIENTO 2628 2643	biopsia cutánea
+T23	PROCEDIMIENTO 2800 2813	quimioterapia
+T24	PROCEDIMIENTO 2955 2982	cistoprostatectomía radical
+T25	PROCEDIMIENTO 2985 3010	linfadenectomía bilateral
+T26	PROCEDIMIENTO 3015 3040	estudio anatomopatológico
+T27	PROCEDIMIENTO 3274 3276	TC
+T28	PROCEDIMIENTO 3310 3332	radioterapia en pelvis
+T29	PROCEDIMIENTO 3432 3445	quimioterapia
+T30	PROCEDIMIENTO 3471 3483	radioterapia
+T31	PROCEDIMIENTO 3734 3747	quimioterapia
+T32	PROCEDIMIENTO 4421 4434	quimioterapia
+T33	PROCEDIMIENTO 4580 4600	RM de columna dorsal
+T34	PROCEDIMIENTO 4727 4747	radioterapia externa
+T35	NEG 36 39	sin
+T36	NSCO 40 63	antecedentes de interés
+T37	NEG 163 166	sin
+T38	NSCO 167 190	respuesta a analgésicos
+T39	NEG 305 307	No
+T40	NSCO 308 340	se palpan adenopatías inguinales
+T41	NEG 858 861	sin
+T42	NSCO 862 869	interés
+T43	NEG 1636 1647	negatividad
+T44	UNC 2273 2281	probable
+T45	USCO 2282 2325	encefalopatía incipiente por ciclofosfamida
+T46	NEG 2327 2335	cediendo
+T47	NSCO 2336 2373	con tratamiento sintomático y tiamina
+T48	UNC 2682 2694	sugestivo de
+T49	USCO 2695 2717	reacción medicamentosa
+T50	NEG 2842 2845	sin
+T51	NSCO 2846 2877	precisar ingresos hospitalarios
+T52	NEG 3554 3557	sin
+T53	NSCO 3558 3592	alternativas terapéuticas avaladas
+T54	NEG 3613 3615	no
+T55	NSCO 3616 3670	disponer de ensayo clínico abierto para esta patología
+T56	NEG 4317 4324	rechaza
+T57	NSCO 4325 4361	continuar con más tratamiento activo
+T58	NEG 4494 4496	no
+T59	NSCO 4497 4551	cede con opioides y disestesias en miembros inferiores
+T60	FARMACO 2311 2325	ciclofosfamida
+T61	FARMACO 2366 2373	tiamina
+T62	FARMACO 2765 2775	prednisona
+T63	FARMACO 3760 3771	vinorelbina
+T64	FARMACO 3807 3821	ciclofosfamida
+T65	FARMACO 3969 3979	irinotecán
+T66	FARMACO 4049 4061	temozolamida
+T67	FARMACO 4363 4372	sunitinib
+T68	ORG_VIVO 10 15	Varón
+T69	ORG_VIVO 2417 2425	paciente
+T70	ORG_VIVO 3398 3406	paciente
+T71	ORG_VIVO 4200 4208	paciente
+T72	ORG_VIVO 4308 4316	paciente
+T73	ORG_VIVO 4439 4447	paciente
+T74	ORG_VIVO 4760 4768	paciente
+T75	ENFERMEDAD 93 112	síndrome prostático
+T76	ENFERMEDAD 318 340	adenopatías inguinales
+T77	ENFERMEDAD 767 850	vejiga en su pared posterior, vesícula seminal izquierda y pared anterior del recto
+T78	ENFERMEDAD 1129 1172	Adenopatías en cadena del obturador interno
+T79	ENFERMEDAD 1226 1243	neoplasia maligna
+T80	ENFERMEDAD 1772 1833	Tumor desmoplásico de células pequeñas y redondas de próstata
+T81	ENFERMEDAD 1893 1954	tumor desmoplásico de células pequeñas y redondas de próstata
+T82	ENFERMEDAD 2282 2295	encefalopatía
+T83	ENFERMEDAD 2695 2717	reacción medicamentosa
+T84	ENFERMEDAD 3048 3154	tumor desmoplásico de células pequeñas y redondas que afecta a próstata, ambas vesículas seminales, uréter
+T85	ENFERMEDAD 3497 3516	progresión pulmonar
+T86	ENFERMEDAD 4619 4644	compresión medular en D11
+T87	SANITARIO-PROFESION 81 88	urólogo

@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 170 179	Otoscopia
+T2	PROCEDIMIENTO 253 264	Eco-Doppler
+T3	PROCEDIMIENTO 266 276	RESULTADOS
+T4	PROCEDIMIENTO 277 285	Angio-RM
+T5	PROCEDIMIENTO 487 500	arteriografía
+T6	PROCEDIMIENTO 776 789	arteriografía
+T7	PROCEDIMIENTO 791 810	Si acúfeno pulsátil
+T8	PROCEDIMIENTO 814 825	Eco-doppler
+T9	PROCEDIMIENTO 941 1004	reconstrucción de la arteria y la vena, con ligadura de la vena
+T10	UNC 209 220	sospecha de
+T11	USCO 221 252	alteración vascular solicitamos
+T12	UNC 728 735	posible
+T13	USCO 736 760	tratamiento endovascular
+T14	ORG_VIVO 0 5	Mujer
+T15	ORG_VIVO 433 441	paciente
+T16	ENFERMEDAD 638 646	angiomas
+T17	ENFERMEDAD 648 675	tumores vasculares o neural
+T18	ENFERMEDAD 678 699	aneurismas vasculares

@@ -1,0 +1,82 @@
+T1	SINTOMA 19 49	Dolor abdominal en hipogastrio
+T2	SINTOMA 274 304	dolor abdominal en hipogastrio
+T3	SINTOMA 344 353	febrícula
+T4	SINTOMA 427 465	pérdida de unos 6-7 kilogramos de peso
+T5	SINTOMA 537 544	fumador
+T6	SINTOMA 599 612	epigastralgia
+T7	SINTOMA 615 622	pirosis
+T8	SINTOMA 864 875	rectorragia
+T9	SINTOMA 1013 1057	dolor moderado a la palpación en hipogastrio
+T10	SINTOMA 2705 2711	fiebre
+T11	SINTOMA 2744 2755	neutropenia
+T12	PROCEDIMIENTO 401 410	analgesia
+T13	PROCEDIMIENTO 1033 1057	palpación en hipogastrio
+T14	PROCEDIMIENTO 1491 1504	TAC abdominal
+T15	PROCEDIMIENTO 1868 1882	antibioterapia
+T16	PROCEDIMIENTO 2008 2017	hemograma
+T17	PROCEDIMIENTO 2242 2255	proteinograma
+T18	PROCEDIMIENTO 2370 2397	frotis de sangre periférica
+T19	PROCEDIMIENTO 2478 2506	tratamiento con vitamina B12
+T20	PROCEDIMIENTO 2560 2574	antibioterapia
+T21	PROCEDIMIENTO 2650 2662	hemocultivos
+T22	PROCEDIMIENTO 2665 2678	coprocultivos
+T23	PROCEDIMIENTO 2946 2973	frotis de sangre periférica
+T24	PROCEDIMIENTO 3103 3129	estudio del inmunofenotipo
+T25	PROCEDIMIENTO 3249 3274	aspiración de médula ósea
+T26	PROCEDIMIENTO 3300 3325	terapia con quimioterapia
+T27	PROCEDIMIENTO 3805 3827	injerto contra huésped
+T28	PROCEDIMIENTO 3888 3898	esteroides
+T29	NEG 360 362	no
+T30	NSCO 363 410	había respondido satisfactoriamente a analgesia
+T31	NEG 755 757	no
+T32	NSCO 758 768	complicada
+T33	NEG 923 925	no
+T34	NSCO 926 937	complicadas
+T35	UNC 1510 1521	sospecha de
+T36	USCO 1522 1584	síndrome febril y neutropenia secundaria a infección abdominal
+T37	UNC 1621 1636	compatibles con
+T38	USCO 1637 1660	un proceso inflamatorio
+T39	UNC 1935 1946	sospecha de
+T40	USCO 1947 1981	enfermedad inflamatoria intestinal
+T41	NEG 2398 2400	no
+T42	NSCO 2401 2432	se observaron células inmaduras
+T43	NEG 2621 2633	se suspendió
+T44	NSCO 2646 2689	los hemocultivos y coprocultivos resultaron
+T45	NEG 2690 2699	negativos
+T46	NEG 2728 2730	No
+T47	UNC 3142 3156	compatible con
+T48	USCO 3157 3185	Leucemia Mieloblástica Aguda
+T49	UNC 3682 3689	posible
+T50	USCO 3690 3716	enterocolitis neutropénica
+T51	FARMACO 1887 1896	Meropenem
+T52	FARMACO 2494 2506	vitamina B12
+T53	FARMACO 2579 2588	meropenem
+T54	FARMACO 3733 3745	Piperacilina
+T55	FARMACO 3746 3756	Tazobactam
+T56	ORG_VIVO 183 188	varón
+T57	ORG_VIVO 772 791	Helicobacter Pylori
+T58	ORG_VIVO 3378 3385	hermana
+T59	ORG_VIVO 3452 3460	paciente
+T60	ORG_VIVO 3820 3827	huésped
+T61	ORG_VIVO 4001 4009	paciente
+T62	ENFERMEDAD 698 736	enfermedad por reflujo gastroesofágico
+T63	ENFERMEDAD 741 754	hernia hiatal
+T64	ENFERMEDAD 772 791	Helicobacter Pylori
+T65	ENFERMEDAD 902 922	hemorroides internas
+T66	ENFERMEDAD 1277 1283	anemia
+T67	ENFERMEDAD 1522 1537	síndrome febril
+T68	ENFERMEDAD 1540 1562	neutropenia secundaria
+T69	ENFERMEDAD 1565 1584	infección abdominal
+T70	ENFERMEDAD 1640 1687	proceso inflamatorio-infeccioso en íleon distal
+T71	ENFERMEDAD 1698 1757	adenopatías reactivas a nivel mesentérico y retroperitoneal
+T72	ENFERMEDAD 1947 1981	enfermedad inflamatoria intestinal
+T73	ENFERMEDAD 2035 2052	neutropenia grave
+T74	ENFERMEDAD 2055 2085	anemia normocítica-hipocrómica
+T75	ENFERMEDAD 2096 2119	déficit de vitamina B12
+T76	ENFERMEDAD 2744 2755	neutropenia
+T77	ENFERMEDAD 3005 3020	hemopatía aguda
+T78	ENFERMEDAD 3049 3075	blastos de hábito mieloide
+T79	ENFERMEDAD 3157 3185	Leucemia Mieloblástica Aguda
+T80	ENFERMEDAD 3641 3659	neutropenia febril
+T81	ENFERMEDAD 3690 3716	enterocolitis neutropénica
+T82	ENFERMEDAD 3791 3848	enfermedad de injerto contra huésped, en su forma cutánea

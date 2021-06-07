@@ -1,0 +1,76 @@
+T1	SINTOMA 19 59	Dolor abdominal localizado en epigastrio
+T2	SINTOMA 102 109	náuseas
+T3	SINTOMA 360 400	dolor abdominal localizado en epigastrio
+T4	SINTOMA 415 422	náuseas
+T5	SINTOMA 514 529	pérdida de peso
+T6	SINTOMA 1015 1030	dolor abdominal
+T7	SINTOMA 1150 1185	masa palpable a nivel de epigastrio
+T8	SINTOMA 1225 1230	dolor
+T9	SINTOMA 1251 1262	peritonismo
+T10	SINTOMA 1443 1493	masa de 12x5,1 centímetros a nivel de luz gástrica
+T11	SINTOMA 2163 2173	tricofagia
+T12	SINTOMA 2758 2776	cierto nerviosismo
+T13	PROCEDIMIENTO 586 605	ecografía abdominal
+T14	PROCEDIMIENTO 1306 1325	ecografía abdominal
+T15	PROCEDIMIENTO 1402 1404	TC
+T16	PROCEDIMIENTO 3159 3174	endoscopia alta
+T17	PROCEDIMIENTO 3456 3486	extracción mediante endoscopia
+T18	NEG 225 228	sin
+T19	NSCO 229 252	antecedentes de interés
+T20	NEG 452 457	Niega
+T21	NSCO 458 483	transgresiones dietéticas
+T22	NEG 514 524	pérdida de
+T23	NSCO 525 563	peso u otra sintomatología acompañante
+T24	NEG 1032 1034	no
+T25	NSCO 1035 1066	atendemos a esto por el momento
+T26	NEG 1237 1240	sin
+T27	NSCO 1241 1287	signos de peritonismo u obstrucción intestinal
+T28	NEG 1405 1408	sin
+T29	NSCO 1409 1426	contraste urgente
+T30	UNC 1536 1542	podría
+T31	USCO 1543 1571	corresponder con tricobezoar
+T32	NEG 2521 2526	niega
+T33	NEG 3201 3203	no
+T34	NSCO 3204 3245	hay indicación de intervención quirúrgica
+T35	NEG 3257 3273	haber descartado
+T36	NSCO 3274 3333	obstrucción intestinal mediante las pruebas complementarias
+T37	NEG 3439 3441	no
+T38	NSCO 3442 3486	es posible su extracción mediante endoscopia
+T39	NEG 3593 3595	no
+T40	NSCO 3596 3625	sea valorada por Salud Mental
+T41	ORG_VIVO 208 213	mujer
+T42	ORG_VIVO 754 762	paciente
+T43	ORG_VIVO 818 824	padres
+T44	ORG_VIVO 1085 1093	paciente
+T45	ORG_VIVO 1216 1224	paciente
+T46	ORG_VIVO 1638 1646	familiar
+T47	ORG_VIVO 1677 1685	paciente
+T48	ORG_VIVO 1689 1696	familia
+T49	ORG_VIVO 1733 1737	hija
+T50	ORG_VIVO 1758 1764	padres
+T51	ORG_VIVO 1766 1789	estudiante de instituto
+T52	ORG_VIVO 1810 1815	padre
+T53	ORG_VIVO 1868 1873	madre
+T54	ORG_VIVO 1911 1918	familia
+T55	ORG_VIVO 2007 2011	hijo
+T56	ORG_VIVO 2231 2239	paciente
+T57	ORG_VIVO 2512 2520	paciente
+T58	ORG_VIVO 2648 2653	madre
+T59	ORG_VIVO 2858 2866	paciente
+T60	ORG_VIVO 2934 2942	paciente
+T61	ORG_VIVO 3574 3582	paciente
+T62	ORG_VIVO 3743 3751	paciente
+T63	ORG_VIVO 3827 3854	médico de Atención Primaria
+T64	ENFERMEDAD 1265 1287	obstrucción intestinal
+T65	ENFERMEDAD 1560 1571	tricobezoar
+T66	ENFERMEDAD 2110 2121	Tricobezoar
+T67	ENFERMEDAD 2123 2145	trastornos de ansiedad
+T68	ENFERMEDAD 2147 2161	tricotilomanía
+T69	ENFERMEDAD 2163 2173	tricofagia
+T70	ENFERMEDAD 2388 2396	ansiedad
+T71	ENFERMEDAD 2401 2415	tricotilomanía
+T72	ENFERMEDAD 2916 2924	alopecia
+T73	ENFERMEDAD 3274 3296	obstrucción intestinal
+T74	ENFERMEDAD 3379 3390	tricobezoar
+T75	PACIENTE-SITUACION_LABORAL 1766 1789	estudiante de instituto
+T76	SANITARIO-PROFESION 3827 3854	médico de Atención Primaria

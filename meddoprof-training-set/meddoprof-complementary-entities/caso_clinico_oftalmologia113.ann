@@ -1,0 +1,18 @@
+T1	SINTOMA 159 175	deterioro visual
+T2	PROCEDIMIENTO 342 359	rejilla de Amsler
+T3	PROCEDIMIENTO 431 445	biomicroscopía
+T4	PROCEDIMIENTO 487 499	fondo de ojo
+T5	PROCEDIMIENTO 587 607	Test de Watkze-Allen
+T6	PROCEDIMIENTO 622 625	OCT
+T7	PROCEDIMIENTO 736 762	vitrectomía vía pars plana
+T8	PROCEDIMIENTO 765 808	extracción de la membrana limitante interna
+T9	PROCEDIMIENTO 1143 1146	OCT
+T10	FARMACO 840 850	Prednisona
+T11	ORG_VIVO 0 5	Varón
+T12	ORG_VIVO 996 1004	paciente
+T13	ENFERMEDAD 102 134	contusión con un clavo en el ojo
+T14	ENFERMEDAD 463 499	iritis moderada y en el fondo de ojo
+T15	ENFERMEDAD 501 520	hemovítreo inferior
+T16	ENFERMEDAD 522 544	hemorragia peripapilar
+T17	ENFERMEDAD 550 585	agujero macular de espesor completo
+T18	ENFERMEDAD 654 669	agujero macular

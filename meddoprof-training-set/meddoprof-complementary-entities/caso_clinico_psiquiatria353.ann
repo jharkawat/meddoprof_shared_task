@@ -1,0 +1,47 @@
+T1	SINTOMA 736 774	alteraciones sensoperceptivas visuales
+T2	SINTOMA 789 807	ideación delirante
+T3	SINTOMA 813 835	mensaje heteroagresivo
+T4	SINTOMA 897 906	agitación
+T5	SINTOMA 1231 1245	rigidez motriz
+T6	SINTOMA 1247 1272	rueda dentada en el brazo
+T7	SINTOMA 1274 1282	ecolalia
+T8	SINTOMA 1284 1294	catalepsia
+T9	SINTOMA 1296 1314	flexibilidad cérea
+T10	SINTOMA 1320 1358	alteración de reactantes de fase aguda
+T11	SINTOMA 1364 1370	fiebre
+T12	PROCEDIMIENTO 1418 1432	antipsicóticos
+T13	PROCEDIMIENTO 1448 1463	benzodiacepinas
+T14	PROCEDIMIENTO 1544 1547	EEG
+T15	PROCEDIMIENTO 1550 1552	RM
+T16	PROCEDIMIENTO 1615 1629	punción lumbar
+T17	NEG 600 603	sin
+T18	NSCO 604 621	recuerdo posterio
+T19	UNC 927 935	aparente
+T20	USCO 936 951	contacto normal
+T21	NEG 1316 1319	sin
+T22	NSCO 1320 1358	alteración de reactantes de fase aguda
+T23	NEG 1360 1363	sin
+T24	NSCO 1364 1370	fiebre
+T25	NEG 1372 1375	sin
+T26	NSCO 1376 1404	alteración de signos vitales
+T27	NEG 1406 1417	Se suspende
+T28	NSCO 1418 1432	antipsicóticos
+T29	UNC 1468 1476	probable
+T30	USCO 1477 1542	cuadro catatoniforme más biperideno por síntomas extrapiramidales
+T31	FARMACO 1143 1152	clozapina
+T32	FARMACO 1188 1197	clozapina
+T33	FARMACO 1502 1512	biperideno
+T34	ORG_VIVO 63 68	Mujer
+T35	ORG_VIVO 97 105	familiar
+T36	ORG_VIVO 134 139	madre
+T37	ORG_VIVO 158 163	padre
+T38	ORG_VIVO 193 199	Padres
+T39	ORG_VIVO 241 249	personal
+T40	ORG_VIVO 366 374	hermanos
+T41	ORG_VIVO 376 382	padres
+T42	ORG_VIVO 426 431	niñez
+T43	ORG_VIVO 575 582	hermana
+T44	ORG_VIVO 590 598	cuchillo
+T45	ENFERMEDAD 109 132	tiroiditis de Hashimoto
+T46	ENFERMEDAD 144 155	alcoholismo
+T47	FAMILIAR-SITUACION_LABORAL 164 174	en prisión

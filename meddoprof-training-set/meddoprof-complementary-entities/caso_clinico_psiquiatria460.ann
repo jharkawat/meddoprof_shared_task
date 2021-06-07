@@ -1,0 +1,113 @@
+T1	SINTOMA 541 559	terrores nocturnos
+T2	SINTOMA 639 684	dificultad para interaccionar con sus iguales
+T3	SINTOMA 1516 1529	irritabilidad
+T4	SINTOMA 1752 1790	gesticulaciones constantes soliloquios
+T5	SINTOMA 1793 1810	risas inmotivadas
+T6	SINTOMA 1878 1903	sintomatología productiva
+T7	SINTOMA 2560 2585	sintomatología productiva
+T8	SINTOMA 2587 2610	alucinaciones auditivas
+T9	SINTOMA 2612 2620	verbales
+T10	SINTOMA 2622 2635	egodistónicas
+T11	SINTOMA 2676 2705	síntomas obsesivo-compulsivos
+T12	SINTOMA 4085 4114	alteraciones sensoperceptivas
+T13	SINTOMA 4127 4140	alucinaciones
+T14	SINTOMA 4273 4278	temor
+T15	SINTOMA 4281 4286	culpa
+T16	SINTOMA 5507 5520	alucinaciones
+T17	SINTOMA 5663 5676	alucinaciones
+T18	PROCEDIMIENTO 561 564	EEG
+T19	PROCEDIMIENTO 847 861	rehabilitación
+T20	PROCEDIMIENTO 2879 2904	terapia electroconvulsiva
+T21	PROCEDIMIENTO 3047 3059	TAC cerebral
+T22	PROCEDIMIENTO 3230 3242	RMN cerebral
+T23	PROCEDIMIENTO 3718 3727	hemograma
+T24	PROCEDIMIENTO 4934 4943	hemograma
+T25	NEG 565 568	sin
+T26	NSCO 569 590	hallazgos patológicos
+T27	NEG 929 932	sin
+T28	NSCO 933 982	antecedentes conocidos de alergias medicamentosas
+T29	NEG 984 986	No
+T30	NSCO 987 1074	presenta otras enfermedades médicas de interés ni intervenciones quirúrgicas destacadas
+T31	NEG 1076 1078	no
+T32	NSCO 1079 1147	padece hipertensión arterial, diabetes mellitus tipo 2 ni dislipemia
+T33	NEG 2461 2469	negativa
+T34	NSCO 2470 2519	con la presencia crónica fluctuante en intensidad
+T35	NEG 2810 2818	falta de
+T36	NSCO 2819 2840	respuesta terapéutica
+T37	NEG 2949 2951	no
+T38	NSCO 2952 2961	mantenida
+T39	NEG 3105 3107	No
+T40	NSCO 3108 3193	se encontraron lesiones ocupantes de espacio (LOEs) ni otros hallazgos significativos
+T41	NEG 3379 3381	No
+T42	NSCO 3382 3512	presentó alteraciones morfológicas ni de intensidad de señal significativas en parénquima cerebral, cerebeloso o tronco encefálico
+T43	NEG 3514 3516	No
+T44	NSCO 3517 3640	se evidenciaron lesiones isquémicas agudas/subagudas, colecciones hemáticas intracraneales ni lesiones ocupantes de espacio
+T45	NEG 5679 5681	No
+T46	NSCO 5682 5738	existen otras alternativas en el diagnóstico diferencial
+T47	FARMACO 1242 1251	clozapina
+T48	FARMACO 1271 1283	brivaracetam
+T49	FARMACO 2118 2129	monoterapia
+T50	FARMACO 2177 2187	olanzapina
+T51	FARMACO 2189 2199	quetiapina
+T52	FARMACO 2201 2212	risperidona
+T53	FARMACO 2214 2225	amisulprida
+T54	FARMACO 2227 2238	ziprasidona
+T55	FARMACO 2240 2251	aripiprazol
+T56	FARMACO 2253 2263	fluoxetina
+T57	FARMACO 2266 2277	fluvoxamina
+T58	FARMACO 2982 2991	clozapina
+T59	FARMACO 4660 4669	clozapina
+T60	FARMACO 4672 4682	quetiapina
+T61	FARMACO 4694 4705	amisulprida
+T62	FARMACO 6006 6015	Clozapina
+T63	FARMACO 6035 6045	Quetiapina
+T64	FARMACO 6062 6071	Lorazepam
+T65	FARMACO 6085 6095	Citalopram
+T66	FARMACO 6197 6206	Clozapina
+T67	FARMACO 6226 6237	Amisulprida
+T68	FARMACO 6257 6267	Quetiapina
+T69	FARMACO 6320 6330	Biperideno
+T70	FARMACO 6345 6353	Diazepam
+T71	FARMACO 6367 6377	Citalopram
+T72	FARMACO 6421 6433	Simvastatina
+T73	FARMACO 6500 6509	clozapina
+T74	FARMACO 6512 6523	amisulprida
+T75	ORG_VIVO 15 29	paciente varón
+T76	ORG_VIVO 243 253	personales
+T77	ORG_VIVO 268 276	familiar
+T78	ORG_VIVO 291 297	padres
+T79	ORG_VIVO 307 314	hermana
+T80	ORG_VIVO 326 333	sobrina
+T81	ORG_VIVO 458 462	niño
+T82	ORG_VIVO 1337 1341	café
+T83	ORG_VIVO 1443 1448	madre
+T84	ORG_VIVO 1558 1570	adolescencia
+T85	ORG_VIVO 1651 1669	médico de cabecera
+T86	ORG_VIVO 4037 4045	paciente
+T87	ORG_VIVO 4162 4169	persona
+T88	ORG_VIVO 5814 5822	paciente
+T89	ORG_VIVO 6667 6675	paciente
+T90	ENFERMEDAD 60 84	esquizofrenia resistente
+T91	ENFERMEDAD 139 184	reagudización de clínica psicótica productiva
+T92	ENFERMEDAD 959 982	alergias medicamentosas
+T93	ENFERMEDAD 1086 1107	hipertensión arterial
+T94	ENFERMEDAD 1109 1133	diabetes mellitus tipo 2
+T95	ENFERMEDAD 1137 1147	dislipemia
+T96	ENFERMEDAD 1207 1228	epilepsia iatrogénica
+T97	ENFERMEDAD 1319 1335	abuso de cafeína
+T98	ENFERMEDAD 1702 1710	psicosis
+T99	ENFERMEDAD 2746 2775	trastorno obsesivo compulsivo
+T100	ENFERMEDAD 3258 3278	epilepsia secundaria
+T101	ENFERMEDAD 3330 3377	crisis comiciales tónico-clónicas generalizadas
+T102	ENFERMEDAD 3533 3569	lesiones isquémicas agudas/subagudas
+T103	ENFERMEDAD 3571 3607	colecciones hemáticas intracraneales
+T104	ENFERMEDAD 4465 4488	reagudización psicótica
+T105	ENFERMEDAD 4809 4828	hipercolesterolemia
+T106	ENFERMEDAD 5142 5155	esquizofrenia
+T107	ENFERMEDAD 5221 5240	Trastornos Mentales
+T108	ENFERMEDAD 5242 5247	DSM-V
+T109	ENFERMEDAD 5349 5373	esquizofrenia resistente
+T110	ENFERMEDAD 5827 5851	esquizofrenia resistente
+T111	SANITARIO-PROFESION 1651 1669	médico de cabecera
+T112	PACIENTE-SITUACION_LABORAL 765 786	Abandonó los estudios
+T113	PACIENTE-SITUACION_LABORAL 717 739	Inició la licenciatura

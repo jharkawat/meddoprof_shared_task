@@ -1,0 +1,19 @@
+T1	SINTOMA 130 147	obstrucción nasal
+T2	SINTOMA 150 169	ronquidos nocturnos
+T3	SINTOMA 212 262	masa que ocupa el tercio superior de la fosa nasal
+T4	SINTOMA 324 374	masa que ocupa el tercio superior de la fosa nasal
+T5	PROCEDIMIENTO 311 322	Fibroscopia
+T6	PROCEDIMIENTO 439 476	tomografía computarizada (TC) craneal
+T7	PROCEDIMIENTO 607 618	TAC craneal
+T8	PROCEDIMIENTO 735 750	RM craneofacial
+T9	PROCEDIMIENTO 959 962	RNM
+T10	PROCEDIMIENTO 1102 1129	craneotomía frontal derecha
+T11	PROCEDIMIENTO 1131 1256	extirpando el meningocele con orificio de salida en lámina cribosa, posterior cierre con duramadre, hueso propio y pericráneo
+T12	ORG_VIVO 0 5	Varón
+T13	ENFERMEDAD 48 81	meningitis neumocócica recurrente
+T14	ENFERMEDAD 130 147	obstrucción nasal
+T15	ENFERMEDAD 212 262	masa que ocupa el tercio superior de la fosa nasal
+T16	ENFERMEDAD 324 374	masa que ocupa el tercio superior de la fosa nasal
+T17	ENFERMEDAD 856 885	lesión de componente quístico
+T18	ENFERMEDAD 964 1087	lesión de componente quístico en fosa nasal derecha, con pedículo en fosa craneal anterior a través de la lámina cribiforme
+T19	ENFERMEDAD 1314 1325	meningocele

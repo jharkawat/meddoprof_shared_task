@@ -1,0 +1,16 @@
+T1	SINTOMA 104 115	impaciencia
+T2	SINTOMA 185 191	Disnea
+T3	SINTOMA 194 200	fatiga
+T4	SINTOMA 368 396	problemas gastrointestinales
+T5	SINTOMA 398 417	digestiones pesadas
+T6	SINTOMA 419 426	diarrea
+T7	SINTOMA 428 441	estreñimiento
+T8	SINTOMA 456 462	mareos
+T9	NEG 162 164	no
+T10	NSCO 165 183	consigue controlar
+T11	NEG 471 473	no
+T12	NSCO 474 499	suele beber fuera de casa
+T13	ORG_VIVO 0 5	Varón
+T14	ENFERMEDAD 29 37	ansiedad
+T15	ENFERMEDAD 249 257	ansiedad
+T16	ENFERMEDAD 570 578	ansiedad

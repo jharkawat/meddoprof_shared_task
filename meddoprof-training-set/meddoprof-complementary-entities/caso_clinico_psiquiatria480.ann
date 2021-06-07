@@ -1,0 +1,100 @@
+T1	SINTOMA 1537 1545	falleció
+T2	SINTOMA 1575 1596	problemas del corazón
+T3	SINTOMA 3467 3477	consciente
+T4	SINTOMA 3485 3494	orientada
+T5	SINTOMA 3496 3502	alerta
+T6	SINTOMA 3711 3742	alteraciones del comportamiento
+T7	SINTOMA 3750 3779	alteraciones sensoperceptivas
+T8	SINTOMA 5739 5747	insomnio
+T9	PROCEDIMIENTO 156 186	tratamiento psicofarmacológico
+T10	PROCEDIMIENTO 2254 2284	tratamiento con antipsicóticos
+T11	NEG 1679 1681	No
+T12	NSCO 1682 1707	cuenta con apoyo familiar
+T13	NEG 1720 1722	no
+T14	NSCO 1723 1789	puede hacerse cargo de la paciente dados los problemas de conducta
+T15	NEG 1809 1811	no
+T16	NSCO 1812 1825	admite normas
+T17	NEG 1879 1881	no
+T18	NSCO 1882 1907	se atiende a sus demandas
+T19	NEG 2455 2459	nula
+T20	NSCO 2460 2484	conciencia de enfermedad
+T21	NEG 2940 2943	sin
+T22	NSCO 2944 2975	un domicilio dónde poder acudir
+T23	NEG 3744 3749	Niega
+T24	NSCO 3750 3779	alteraciones sensoperceptivas
+T25	NEG 3906 3908	no
+T26	NSCO 3909 3978	pueden ser encuadrados en ninguno de los demás tipos de esquizofrenia
+T27	FARMACO 2322 2329	heroína
+T28	FARMACO 2332 2339	cocaína
+T29	FARMACO 4494 4503	clozapina
+T30	FARMACO 5538 5547	clozapina
+T31	FARMACO 5568 5583	ácido valproico
+T32	FARMACO 5600 5610	topiramato
+T33	FARMACO 5627 5649	clorazepato dipotásico
+T34	FARMACO 5681 5692	haloperidol
+T35	FARMACO 5710 5722	lormetazepam
+T36	ORG_VIVO 0 8	Paciente
+T37	ORG_VIVO 216 224	paciente
+T38	ORG_VIVO 348 356	cannabis
+T39	ORG_VIVO 420 430	personales
+T40	ORG_VIVO 443 449	abuela
+T41	ORG_VIVO 489 494	madre
+T42	ORG_VIVO 548 556	paciente
+T43	ORG_VIVO 610 616	abuela
+T44	ORG_VIVO 827 837	familiares
+T45	ORG_VIVO 842 847	madre
+T46	ORG_VIVO 866 874	paciente
+T47	ORG_VIVO 977 985	paciente
+T48	ORG_VIVO 1063 1069	marido
+T49	ORG_VIVO 1074 1079	padre
+T50	ORG_VIVO 1119 1127	paciente
+T51	ORG_VIVO 1157 1164	hermano
+T52	ORG_VIVO 1183 1191	paciente
+T53	ORG_VIVO 1196 1201	padre
+T54	ORG_VIVO 1212 1217	hijos
+T55	ORG_VIVO 1268 1276	hermanos
+T56	ORG_VIVO 1280 1285	padre
+T57	ORG_VIVO 1288 1293	madre
+T58	ORG_VIVO 1295 1302	hermana
+T59	ORG_VIVO 1330 1334	hija
+T60	ORG_VIVO 1394 1401	hermano
+T61	ORG_VIVO 1444 1449	hijos
+T62	ORG_VIVO 1454 1468	abuela materna
+T63	ORG_VIVO 1473 1480	persona
+T64	ORG_VIVO 1601 1615	abuelo materno
+T65	ORG_VIVO 1672 1677	hijos
+T66	ORG_VIVO 1699 1707	familiar
+T67	ORG_VIVO 1712 1719	hermana
+T68	ORG_VIVO 1749 1757	paciente
+T69	ORG_VIVO 2081 2089	infancia
+T70	ORG_VIVO 2092 2104	adolescencia
+T71	ORG_VIVO 2312 2320	cannabis
+T72	ORG_VIVO 2688 2693	hijos
+T73	ORG_VIVO 2708 2717	amistades
+T74	ORG_VIVO 2863 2871	familiar
+T75	ORG_VIVO 2900 2908	paciente
+T76	ORG_VIVO 3235 3243	personas
+T77	ORG_VIVO 3607 3612	hijos
+T78	ORG_VIVO 3627 3636	amistades
+T79	ORG_VIVO 4288 4296	cannabis
+T80	ORG_VIVO 4673 4681	Personas
+T81	ENFERMEDAD 247 294	esquizofrenia paranoide tipo indiferenciada CIE
+T82	ENFERMEDAD 1628 1651	enfermedad de Alzheimer
+T83	ENFERMEDAD 2109 2131	trastornos de conducta
+T84	ENFERMEDAD 2216 2240	sintomatología psicótica
+T85	ENFERMEDAD 2294 2339	abuso de tóxicos (cannabis, heroína y cocaína
+T86	ENFERMEDAD 2620 2660	ideación delirante de tipo megalomaníaco
+T87	ENFERMEDAD 3007 3027	desinhibición sexual
+T88	ENFERMEDAD 3566 3579	megalomaníaco
+T89	ENFERMEDAD 3809 3846	esquizofrenia tipo indiferenciado CIE
+T90	ENFERMEDAD 3965 3978	esquizofrenia
+T91	ENFERMEDAD 4159 4177	hiperprolactinemia
+T92	ENFERMEDAD 4686 4703	Enfermedad Mental
+T93	ENFERMEDAD 5671 5679	ansiedad
+T94	FAMILIAR-SITUACION_LABORAL 881 911	en un centro de deshabituación
+T95	PACIENTE-PROFESION 703 736	trabajado en una tienda de bolsos
+T96	PACIENTE-PROFESION 774 791	en una pescadería
+T97	PACIENTE-PROFESION 794 811	en una gasolinera
+T98	PACIENTE-SITUACION_LABORAL 944 966	en una casa de acogida
+T99	FAMILIAR-PROFESION 1355 1387	trabaja en una tienda de móviles
+T100	PACIENTE-PROFESION 1949 1961	prostitución

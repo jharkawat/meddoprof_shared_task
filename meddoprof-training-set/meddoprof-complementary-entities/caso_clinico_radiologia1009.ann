@@ -1,0 +1,48 @@
+T1	SINTOMA 458 477	diaforesis nocturna
+T2	SINTOMA 485 501	pérdida ponderal
+T3	SINTOMA 626 636	consciente
+T4	SINTOMA 649 658	orientada
+T5	SINTOMA 681 702	palidez de tegumentos
+T6	SINTOMA 704 724	mucosas orales secas
+T7	SINTOMA 726 736	polipneica
+T8	SINTOMA 748 785	murmullo vesicular audible disminuido
+T9	SINTOMA 802 832	precordio rítmico de buen tono
+T10	SINTOMA 857 906	abdomen blando, depresible con peristalsis normal
+T11	SINTOMA 908 918	hepatalgia
+T12	PROCEDIMIENTO 594 612	EXPLORACION FISICA
+T13	PROCEDIMIENTO 1513 1524	ULTRASONIDO
+T14	PROCEDIMIENTO 1525 1528	USG
+T15	PROCEDIMIENTO 1614 1625	RX de torax
+T16	NEG 122 127	niega
+T17	NSCO 128 136	zoonosis
+T18	NEG 138 143	niega
+T19	NSCO 144 154	tabaquismo
+T20	NEG 251 256	Niega
+T21	NSCO 257 265	diabetes
+T22	NEG 282 287	niega
+T23	NSCO 288 299	traumáticos
+T24	NEG 413 415	no
+T25	NSCO 416 429	cuantificadas
+T26	NEG 431 434	sin
+T27	NSCO 435 456	predominio de horario
+T28	NEG 479 484	niega
+T29	NSCO 485 501	pérdida ponderal
+T30	NEG 503 508	niega
+T31	NSCO 509 532	sintomatología agregada
+T32	NEG 560 563	sin
+T33	NSCO 564 571	mejoría
+T34	NEG 787 790	sin
+T35	NSCO 791 800	agregados
+T36	NEG 984 987	sin
+T37	NSCO 988 993	edema
+T38	NEG 1033 1036	sin
+T39	NSCO 1037 1058	datos de focalización
+T40	NEG 1580 1582	no
+T41	NSCO 1583 1592	agudizada
+T42	ORG_VIVO 24 29	Mujer
+T43	ORG_VIVO 233 244	ama de casa
+T44	ENFERMEDAD 156 167	alcoholismo
+T45	ENFERMEDAD 257 265	diabetes
+T46	ENFERMEDAD 268 280	hipertensión
+T47	ENFERMEDAD 1553 1579	Litiasis vesicular crónica
+T48	PACIENTE-SITUACION_LABORAL 233 244	ama de casa

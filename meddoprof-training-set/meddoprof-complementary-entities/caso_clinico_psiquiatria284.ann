@@ -1,0 +1,109 @@
+T1	SINTOMA 111 134	alucinaciones auditivas
+T2	SINTOMA 137 164	dificultades en el lenguaje
+T3	SINTOMA 1575 1596	agitación psicomotriz
+T4	SINTOMA 1601 1624	alucinaciones auditivas
+T5	SINTOMA 1627 1635	disforia
+T6	SINTOMA 1884 1905	agitación psicomotriz
+T7	SINTOMA 1907 1920	desinhibición
+T8	SINTOMA 1922 1959	fluctuaciones del nivel de conciencia
+T9	SINTOMA 2000 2009	catatonía
+T10	SINTOMA 2227 2250	discinesias orofaciales
+T11	SINTOMA 2252 2260	chupeteo
+T12	SINTOMA 2262 2272	salivación
+T13	SINTOMA 2275 2285	hipertonía
+T14	SINTOMA 2365 2388	alucinaciones auditivas
+T15	SINTOMA 2427 2435	ecolalia
+T16	SINTOMA 2437 2444	mutismo
+T17	SINTOMA 2446 2468	lenguaje ininteligible
+T18	SINTOMA 3393 3402	agitación
+T19	SINTOMA 3531 3542	discinesias
+T20	SINTOMA 3600 3609	agitación
+T21	SINTOMA 3615 3629	desorientación
+T22	PROCEDIMIENTO 831 854	exploración neurológica
+T23	PROCEDIMIENTO 882 899	TAC craneal y LCR
+T24	PROCEDIMIENTO 1232 1246	punción lumbar
+T25	PROCEDIMIENTO 1350 1353	TAC
+T26	PROCEDIMIENTO 1356 1359	EEG
+T27	PROCEDIMIENTO 2525 2539	antibioterapia
+T28	PROCEDIMIENTO 2690 2704	punción lumbar
+T29	PROCEDIMIENTO 2738 2750	antibióticos
+T30	PROCEDIMIENTO 2787 2822	cultivos de Líquido Cefalorraquídeo
+T31	PROCEDIMIENTO 2907 2918	corticoides
+T32	PROCEDIMIENTO 3799 3811	hematimetría
+T33	PROCEDIMIENTO 3924 3938	Punción lumbar
+T34	PROCEDIMIENTO 4034 4052	TAC y RMN cerebral
+T35	PROCEDIMIENTO 4153 4167	punción lumbar
+T36	PROCEDIMIENTO 4451 4459	TAC Body
+T37	PROCEDIMIENTO 4561 4587	quistectomía laparoscópica
+T38	PROCEDIMIENTO 4655 4674	resección del tumor
+T39	NEG 223 226	sin
+T40	NSCO 227 241	complicaciones
+T41	NEG 463 465	No
+T42	NSCO 466 528	presentaba antecedentes psiquiátricos personales ni familiares
+T43	NEG 764 766	no
+T44	NSCO 767 810	refería otra clínica asociada a este cuadro
+T45	NEG 1146 1149	sin
+T46	NSCO 1150 1171	otra clínica asociada
+T47	NEG 1652 1654	no
+T48	NSCO 1655 1723	mejoró tras la administración de Haloperidol oral y Lorazepam de 1mg
+T49	NEG 2302 2307	cedió
+T50	NSCO 2308 2329	el cuadro motor dando
+T51	UNC 2569 2580	sospecha de
+T52	USCO 2581 2612	Meningoencefalitis (Ceftriaxona
+T53	NEG 2721 2733	se retiraron
+T54	NSCO 2734 2822	los antibióticos dado que los resultados de diversos cultivos de Líquido Cefalorraquídeo
+T55	NEG 2830 2839	negativos
+T56	NEG 3237 3239	no
+T57	NSCO 3240 3402	se logró controlar en ningún momento estas agitaciones se introdujeron Propofol y Cloruro Mórfico iv que consiguieron frenar los episodios más graves de agitación
+T58	NEG 3527 3530	sin
+T59	NSCO 3531 3542	discinesias
+T60	NEG 3615 3629	desorientación
+T61	NEG 3913 3922	negativos
+T62	UNC 4072 4083	sospecha de
+T63	USCO 4084 4115	una posible encefalitis límbica
+T64	FARMACO 1688 1699	Haloperidol
+T65	FARMACO 1707 1716	Lorazepam
+T66	FARMACO 2601 2612	Ceftriaxona
+T67	FARMACO 2614 2624	Ampicilina
+T68	FARMACO 2626 2637	Doxiciclina
+T69	FARMACO 2639 2650	Ganciclovir
+T70	FARMACO 2654 2663	Amikacina
+T71	FARMACO 2894 2903	Fenitoína
+T72	FARMACO 2941 2958	metilprednisolona
+T73	FARMACO 3145 3167	clorazepato dipotásico
+T74	FARMACO 3174 3184	alprazolam
+T75	FARMACO 3193 3204	Haloperidol
+T76	FARMACO 3311 3319	Propofol
+T77	FARMACO 3322 3337	Cloruro Mórfico
+T78	FARMACO 4691 4706	Inmunoglobulina
+T79	ORG_VIVO 48 56	paciente
+T80	ORG_VIVO 180 190	personales
+T81	ORG_VIVO 204 212	hermanos
+T82	ORG_VIVO 453 461	familiar
+T83	ORG_VIVO 504 514	personales
+T84	ORG_VIVO 518 528	familiares
+T85	ORG_VIVO 554 562	paciente
+T86	ORG_VIVO 755 763	paciente
+T87	ORG_VIVO 982 990	paciente
+T88	ORG_VIVO 1392 1400	paciente
+T89	ORG_VIVO 1481 1489	paciente
+T90	ORG_VIVO 1540 1546	médico
+T91	ORG_VIVO 2550 2561	antivíricos
+T92	ORG_VIVO 3122 3130	paciente
+T93	ORG_VIVO 3473 3481	paciente
+T94	ORG_VIVO 3883 3891	Borrelia
+T95	ORG_VIVO 3893 3896	VIH
+T96	ORG_VIVO 3898 3907	sarampión
+T97	ORG_VIVO 4277 4285	paciente
+T98	ORG_VIVO 4439 4447	paciente
+T99	ORG_VIVO 4776 4784	paciente
+T100	ENFERMEDAD 214 222	Embarazo
+T101	ENFERMEDAD 1125 1144	alucinosis auditiva
+T102	ENFERMEDAD 2581 2599	Meningoencefalitis
+T103	ENFERMEDAD 4096 4115	encefalitis límbica
+T104	ENFERMEDAD 4289 4326	Encefalitis por Anticuerpos antiNMDAR
+T105	ENFERMEDAD 4376 4395	Encefalitis Límbica
+T106	ENFERMEDAD 4403 4419	Teratoma Ovárico
+T107	ENFERMEDAD 4603 4619	Teratoma Ovárico
+T108	SANITARIO-PROFESION 1540 1546	médico
+T109	PACIENTE-SITUACION_LABORAL 355 364	3o de ESO

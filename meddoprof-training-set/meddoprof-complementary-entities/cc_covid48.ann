@@ -1,0 +1,12 @@
+T1	SINTOMA 414 424	odinofagia
+T2	PROCEDIMIENTO 312 336	aislamiento domiciliario
+T3	PROCEDIMIENTO 568 592	aislamiento domiciliario
+T4	NEG 93 105	asintomático
+T5	NEG 350 362	asintomático
+T6	NEG 477 479	No
+T7	NSCO 480 507	se le tomó hisopado control
+T8	ORG_VIVO 0 14	Paciente varón
+T9	ORG_VIVO 27 33	médico
+T10	ORG_VIVO 162 170	paciente
+T11	ENFERMEDAD 193 201	COVID-19
+T12	PACIENTE-PROFESION 27 58	médico residente de cardiología

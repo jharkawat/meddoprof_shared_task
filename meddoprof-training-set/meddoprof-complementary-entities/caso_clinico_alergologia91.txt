@@ -1,0 +1,19 @@
+Niño de 17 meses de edad, con AF negativos para atopia y AP: Dermatitis atópica, Bronquitis disneizante. Sensibilización a ácaros.
+El niño jugando con unas patatas crudas sin pelar presentó urticaria en manos, angioedema labial y conjuntivitis, siendo tratado con antihistamínicos.
+Pocas semanas después estando manipulando un melocotón presentó un cuadro clínico similar. Además refieren que tras la ingesta de calabaza y calabacín presenta diarrea profusa a la hora de la ingesta sin otros síntomas asociados, y tras la ingesta de Nutella se queja de picor oral.
+
+Tolera patata cocinada y otras frutas, nunca ha comido melocotón ni frutos secos.
+
+Resultados:
+TC(Prick): con extractos de inhalantes, frutas, hortalizas, frutos secos, legumbres, látex, harinas y panalergenos: positivos a ácaros, melocotón, avellana, nuez y cacahuete.
+TC(prick/prick) con piel y pulpa de patata crudas: positivos, con pulpa y piel cocidas: negativos.
+IgETotal:139kUI/L
+IgEespecífica (kUA/L): Dermatophagoides pteronyssinus:58, rPru p3:10,4, rPru p1-p4: < 0,1, calabaza:0,97,
+Cacahuete:0,43, rAra h1,h2,h3,h8: <0,1,rAra h9(LTP):1,58,
+Avelllana: 0,27, rCor a1,a8(LTP),a9: < 0,1,rCor a14:0,29.
+Nuez:5,16, rJug r1:0,67, rJug r3 (LTP): 4,94. Otras frutas y hortalizas(patata...): <0,1.
+SDS-PAGE se observa fijación de IgE en Prup3 y en una proteína de la patata de pm: 60kDa que no parece pertenecer al grupo de las LTPs
+Prueba de exposición controlada(PEC) a cacahuete negativa. PEC a nuez: anafilaxia con la segunda dosis (1/8 de nuez)
+
+Conclusiones:
+En conclusión se trata de un niño con dermatitis atópica, sensibilizado a ácaros que presenta un Síndrome LTP (alergia a melocotón y frutos secos) y alergia a patata cruda, que no parece estar relacionada con su sensibilización a LTP.

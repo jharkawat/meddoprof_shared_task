@@ -1,0 +1,60 @@
+T1	SINTOMA 997 1019	sintomatologia ansiosa
+T2	SINTOMA 1087 1099	introvertida
+T3	SINTOMA 1396 1426	dificultades para relacionarse
+T4	SINTOMA 1700 1720	elevada introversión
+T5	SINTOMA 1992 2002	onicofagia
+T6	SINTOMA 2005 2022	bruxismo nocturno
+T7	SINTOMA 2281 2295	rasgos fóbicos
+T8	SINTOMA 2443 2464	dificultades sociales
+T9	PROCEDIMIENTO 633 672	tratamiento con hormona del crecimiento
+T10	PROCEDIMIENTO 817 832	examen genético
+T11	NEG 425 428	sin
+T12	NSCO 429 442	repetir curso
+T13	NEG 834 837	sin
+T14	NSCO 838 904	observarse ninguna alteración genética, ni numérica ni estructural
+T15	NEG 906 911	Niega
+T16	NSCO 912 930	consumo de tóxicos
+T17	NEG 1888 1891	sin
+T18	NSCO 1892 1919	alteraciones a nivel formal
+T19	NEG 2024 2026	No
+T20	NSCO 2027 2083	se objetivan síntomas de la esfera afectiva ni psicótica
+T21	NEG 2085 2087	No
+T22	NSCO 2088 2139	alteraciones del curso ni contenido del pensamiento
+T23	NEG 2141 2143	No
+T24	NSCO 2144 2178	alteraciónes de la sensopercepción
+T25	UNC 2225 2237	orienta como
+T26	USCO 2238 2279	un Trastorno de la Personalidad Cluster C
+T27	FARMACO 2383 2393	Sertralina
+T28	ORG_VIVO 16 24	paciente
+T29	ORG_VIVO 225 232	adultos
+T30	ORG_VIVO 262 267	madre
+T31	ORG_VIVO 289 297	hermanas
+T32	ORG_VIVO 299 305	Padres
+T33	ORG_VIVO 329 334	madre
+T34	ORG_VIVO 340 347	hermana
+T35	ORG_VIVO 360 368	infancia
+T36	ORG_VIVO 527 535	familiar
+T37	ORG_VIVO 797 805	infancia
+T38	ORG_VIVO 969 979	familiares
+T39	ORG_VIVO 983 988	madre
+T40	ORG_VIVO 1053 1058	padre
+T41	ORG_VIVO 1068 1075	persona
+T42	ORG_VIVO 1158 1168	familiares
+T43	ORG_VIVO 1179 1186	paterna
+T44	ORG_VIVO 1229 1237	paciente
+T45	ORG_VIVO 1477 1485	familiar
+T46	ORG_VIVO 1725 1730	madre
+T47	ORG_VIVO 1752 1756	niña
+T48	ENFERMEDAD 52 61	DSM-IV-TR
+T49	ENFERMEDAD 66 78	Fobia social
+T50	ENFERMEDAD 81 121	Trastorno dependiente de la personalidad
+T51	ENFERMEDAD 586 611	retraso en el crecimiento
+T52	ENFERMEDAD 741 761	sangrados digestivos
+T53	ENFERMEDAD 1321 1333	Fobia Social
+T54	ENFERMEDAD 1521 1533	Fobia Social
+T55	ENFERMEDAD 1536 1573	Trastorno Dependiente de Personalidad
+T56	ENFERMEDAD 1953 1990	ideas obsesivas de tipo hipocondríaco
+T57	ENFERMEDAD 1992 2002	onicofagia
+T58	ENFERMEDAD 2005 2022	bruxismo nocturno
+T59	ENFERMEDAD 2241 2279	Trastorno de la Personalidad Cluster C
+T60	PACIENTE-PROFESION 504 535	colabora en el negocio familiar

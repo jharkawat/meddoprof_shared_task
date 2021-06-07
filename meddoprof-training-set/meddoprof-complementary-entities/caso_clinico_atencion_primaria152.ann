@@ -1,0 +1,96 @@
+T1	SINTOMA 424 432	falleció
+T2	SINTOMA 630 638	insomnio
+T3	SINTOMA 871 878	escozor
+T4	SINTOMA 881 886	dolor
+T5	SINTOMA 919 929	Consciente
+T6	SINTOMA 932 941	orientada
+T7	SINTOMA 1270 1285	Ánimo deprimido
+T8	SINTOMA 1362 1368	llanto
+T9	SINTOMA 1526 1537	psicomotriz
+T10	SINTOMA 1909 1922	fallecimiento
+T11	SINTOMA 3220 3227	escozor
+T12	SINTOMA 3303 3311	insomnio
+T13	SINTOMA 3959 3967	falleció
+T14	SINTOMA 4056 4065	fallecido
+T15	PROCEDIMIENTO 899 917	Exploración física
+T16	PROCEDIMIENTO 1248 1268	Exploración psíquica
+T17	PROCEDIMIENTO 3464 3477	Test de apoyo
+T18	PROCEDIMIENTO 3670 3679	Hemograma
+T19	PROCEDIMIENTO 5014 5029	benzodiacepinas
+T20	NEG 672 680	falta de
+T21	NSCO 681 712	descanso le repercute de manera
+T22	NEG 1370 1372	No
+T23	NSCO 1373 1400	presenta ideas de autolisis
+T24	NEG 1467 1478	Ausencia de
+T25	NSCO 1479 1523	otras alteraciones de la esfera cognoscitiva
+T26	NEG 1758 1760	no
+T27	NSCO 1761 1785	acertaban el diagnóstico
+T28	UNC 2367 2369	vs
+T29	USCO 2370 2405	Duelo de riesgo vs Duelo patológico
+T30	UNC 2431 2433	vs
+T31	USCO 2434 2538	Tinea cruris vs Psoriasis invertida vs Dermatitis atópica vs Dermatitis secundaria a deficiencia de zinc
+T32	UNC 3104 3111	posible
+T33	USCO 3112 3131	psoriasis invertida
+T34	NEG 3189 3191	no
+T35	NSCO 3192 3213	le había sentado bien
+T36	NEG 3360 3362	no
+T37	NSCO 3363 3387	se encuentra tan cansada
+T38	NEG 3541 3552	Ausencia de
+T39	NSCO 3553 3571	Síndrome Depresivo
+T40	NEG 4111 4113	no
+T41	NSCO 4114 4168	constituye un trastorno por duelo complejo persistente
+T42	UNC 4871 4879	posibles
+T43	USCO 4880 4902	futuras complicaciones
+T44	NEG 4987 4995	Retirada
+T45	NSCO 4996 5029	progresiva de las benzodiacepinas
+T46	NEG 5201 5203	no
+T47	NSCO 5204 5233	le quedan lesiones en la piel
+T48	FARMACO 2717 2726	Lorazepam
+T49	FARMACO 4677 4689	betametasona
+T50	FARMACO 4697 4707	Clioquinol
+T51	FARMACO 4725 4736	gentamicina
+T52	ORG_VIVO 84 94	personales
+T53	ORG_VIVO 119 132	recién nacido
+T54	ORG_VIVO 318 323	Mujer
+T55	ORG_VIVO 436 443	hermano
+T56	ORG_VIVO 1548 1556	familiar
+T57	ORG_VIVO 1574 1582	paciente
+T58	ORG_VIVO 1594 1602	infancia
+T59	ORG_VIVO 1816 1822	padres
+T60	ORG_VIVO 1825 1833	hermanos
+T61	ORG_VIVO 1927 1934	hermano
+T62	ORG_VIVO 2055 2061	amigos
+T63	ORG_VIVO 2114 2122	enfermos
+T64	ORG_VIVO 3971 3977	pareja
+T65	ORG_VIVO 4056 4065	fallecido
+T66	ORG_VIVO 4361 4369	personas
+T67	ORG_VIVO 4544 4552	paciente
+T68	ORG_VIVO 5398 5404	amigos
+T69	ENFERMEDAD 30 49	lesiones en la piel
+T70	ENFERMEDAD 96 132	Estenosis pilórica del recién nacido
+T71	ENFERMEDAD 134 153	enfermedad de Crohn
+T72	ENFERMEDAD 262 274	desnutrición
+T73	ENFERMEDAD 277 304	síndrome de intestino corto
+T74	ENFERMEDAD 646 654	ansiedad
+T75	ENFERMEDAD 784 845	lesiones de la piel a nivel de pliegues axilares e inguinales
+T76	ENFERMEDAD 1187 1246	grieta con componente exudativo sobre todo a nivel inguinal
+T77	ENFERMEDAD 2450 2469	Psoriasis invertida
+T78	ENFERMEDAD 2473 2491	Dermatitis atópica
+T79	ENFERMEDAD 2495 2538	Dermatitis secundaria a deficiencia de zinc
+T80	ENFERMEDAD 2926 2968	lesiones en flexuras axilares e inguinales
+T81	ENFERMEDAD 3112 3131	psoriasis invertida
+T82	ENFERMEDAD 3530 3539	depresión
+T83	ENFERMEDAD 3553 3571	Síndrome Depresivo
+T84	ENFERMEDAD 3597 3605	ansiedad
+T85	ENFERMEDAD 3619 3627	ansiedad
+T86	ENFERMEDAD 3862 3868	muerte
+T87	ENFERMEDAD 3990 4007	enfermedad física
+T88	ENFERMEDAD 4128 4168	trastorno por duelo complejo persistente
+T89	ENFERMEDAD 4232 4238	muerte
+T90	ENFERMEDAD 4268 4307	Dermatitis secundaria a déficit de zinc
+T91	ENFERMEDAD 4374 4393	enfermedad de Crohn
+T92	ENFERMEDAD 4764 4778	sobreinfección
+T93	ENFERMEDAD 5214 5233	lesiones en la piel
+T94	ENFERMEDAD 5439 5447	ansiedad
+T95	PACIENTE-SITUACION_LABORAL 2078 2091	en su trabajo
+T96	PACIENTE-SITUACION_LABORAL 5345 5358	en el trabajo

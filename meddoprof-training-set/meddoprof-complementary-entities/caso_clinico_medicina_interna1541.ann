@@ -1,0 +1,129 @@
+T1	SINTOMA 363 370	astenia
+T2	SINTOMA 373 381	anorexia
+T3	SINTOMA 406 422	malestar general
+T4	SINTOMA 448 457	ictericia
+T5	SINTOMA 537 544	vómitos
+T6	SINTOMA 547 570	deposiciones diarreicas
+T7	SINTOMA 609 638	sintomatología genitourinaria
+T8	SINTOMA 1689 1710	ictericia conjuntival
+T9	SINTOMA 2575 2588	ritmo sinusal
+T10	SINTOMA 6677 6698	reexposición positiva
+T11	PROCEDIMIENTO 1281 1296	anticoagulantes
+T12	PROCEDIMIENTO 1468 1488	anticoagulación oral
+T13	PROCEDIMIENTO 1583 1601	exploración física
+T14	PROCEDIMIENTO 1823 1842	analítica de sangre
+T15	PROCEDIMIENTO 1857 1866	hemograma
+T16	PROCEDIMIENTO 2537 2555	electrocardiograma
+T17	PROCEDIMIENTO 2643 2662	ecografía abdominal
+T18	PROCEDIMIENTO 2796 2816	estudio inmunológico
+T19	PROCEDIMIENTO 3214 3243	estudio de virus hepatotropos
+T20	PROCEDIMIENTO 3588 3620	anticoagulación con acenocumarol
+T21	PROCEDIMIENTO 4553 4654	pruebas serológicas de los virus hepatotropos A, B y C, el citomegalovirus y el virus de Epstein-Barr
+T22	PROCEDIMIENTO 4964 5008	determinación de marcadores de autoinmunidad
+T23	PROCEDIMIENTO 5578 5594	biopsia hepática
+T24	PROCEDIMIENTO 5701 5716	ultrasonografía
+T25	PROCEDIMIENTO 5721 5749	colangioresonancia magnética
+T26	PROCEDIMIENTO 5754 5795	tomografía axial computarizada de abdomen
+T27	PROCEDIMIENTO 5801 5847	colangiopancreatografía retrógrada endoscópica
+T28	PROCEDIMIENTO 5963 5982	ecografía abdominal
+T29	PROCEDIMIENTO 6215 6235	serología de sífilis
+T30	NEG 187 189	no
+T31	NSCO 190 203	diagnosticada
+T32	NEG 221 224	sin
+T33	NSCO 225 299	antecedentes conocidos de alergias medicamentosas ni de consumo de tóxicos
+T34	NEG 593 600	tampoco
+T35	NSCO 601 659	refería sintomatología genitourinaria ni infecciosa alguna
+T36	NEG 1269 1272	sin
+T37	NSCO 1273 1296	toma de anticoagulantes
+T38	NEG 1626 1628	no
+T39	NSCO 1629 1710	reveló ningún hallazgo patológico a excepción de una ligera ictericia conjuntival
+T40	NEG 1867 1870	sin
+T41	NSCO 1871 1883	alteraciones
+T42	NEG 2057 2059	no
+T43	NSCO 2060 2084	usuarios de acenocumarol
+T44	NEG 2591 2593	no
+T45	NSCO 2594 2638	presentaba alteraciones de la repolarización
+T46	NEG 2673 2675	no
+T47	NSCO 2676 2729	aportó información relevante para el caso en cuestión
+T48	NEG 2821 2829	negativo
+T49	NEG 3095 3097	No
+T50	NSCO 3098 3136	había registro de bilirrubina ni de FA
+T51	NEG 3265 3274	negativos
+T52	NEG 4860 4862	no
+T53	NSCO 4863 4896	fue estudiado en nuestra paciente
+T54	NEG 4909 4917	ausencia
+T55	NSCO 4918 4958	completa de signos/síntomas de infección
+T56	NEG 5386 5397	no descarta
+T57	NSCO 5398 5436	el diagnóstico de hepatotoxicidad dado
+T58	NEG 6630 6644	suspensión del
+T59	NSCO 6645 6698	agente causal y la presencia de reexposición positiva
+T60	FARMACO 966 978	acenocumarol
+T61	FARMACO 1554 1565	rivaroxaban
+T62	FARMACO 2072 2084	acenocumarol
+T63	FARMACO 3341 3352	rivaroxaban
+T64	FARMACO 3562 3573	rivaroxaban
+T65	FARMACO 3608 3620	acenocumarol
+T66	ORG_VIVO 27 35	paciente
+T67	ORG_VIVO 74 84	personales
+T68	ORG_VIVO 309 317	paciente
+T69	ORG_VIVO 509 516	señora
+T70	ORG_VIVO 665 669	hija
+T71	ORG_VIVO 676 684	paciente
+T72	ORG_VIVO 733 738	madre
+T73	ORG_VIVO 802 829	Médico de Atención Primaria
+T74	ORG_VIVO 831 834	MAP
+T75	ORG_VIVO 901 909	paciente
+T76	ORG_VIVO 943 946	MAP
+T77	ORG_VIVO 950 958	paciente
+T78	ORG_VIVO 1198 1206	paciente
+T79	ORG_VIVO 1254 1262	personas
+T80	ORG_VIVO 1414 1422	paciente
+T81	ORG_VIVO 1608 1616	paciente
+T82	ORG_VIVO 3225 3243	virus hepatotropos
+T83	ORG_VIVO 3495 3503	paciente
+T84	ORG_VIVO 4162 4168	médico
+T85	ORG_VIVO 4198 4207	pacientes
+T86	ORG_VIVO 4580 4600	virus hepatotropos A
+T87	ORG_VIVO 4600 4603	, B
+T88	ORG_VIVO 4604 4607	y C
+T89	ORG_VIVO 4612 4627	citomegalovirus
+T90	ORG_VIVO 4633 4654	virus de Epstein-Barr
+T91	ORG_VIVO 4665 4668	VHA
+T92	ORG_VIVO 4679 4682	HBc
+T93	ORG_VIVO 4689 4692	VHC
+T94	ORG_VIVO 4698 4701	VHC
+T95	ORG_VIVO 4707 4710	CMV
+T96	ORG_VIVO 4713 4716	EBV
+T97	ORG_VIVO 4729 4739	bacteriana
+T98	ORG_VIVO 4741 4751	Salmonella
+T99	ORG_VIVO 4753 4766	Campylobacter
+T100	ORG_VIVO 4768 4776	Listeria
+T101	ORG_VIVO 4778 4786	Coxiella
+T102	ORG_VIVO 4888 4896	paciente
+T103	ORG_VIVO 6228 6235	sífilis
+T104	ORG_VIVO 6305 6314	pacientes
+T105	ENFERMEDAD 88 123	accidente cerebrovascular isquémico
+T106	ENFERMEDAD 153 186	fibrilación auricular paroxística
+T107	ENFERMEDAD 251 274	alergias medicamentosas
+T108	ENFERMEDAD 1381 1398	arritmia cardiaca
+T109	ENFERMEDAD 2758 2790	infección por virus hepatotropos
+T110	ENFERMEDAD 3525 3573	hepatotoxicidad secundaria a toma de rivaroxaban
+T111	ENFERMEDAD 3674 3695	fibrilación auricular
+T112	ENFERMEDAD 3801 3820	infecciones víricas
+T113	ENFERMEDAD 3822 3844	toxicidad por fármacos
+T114	ENFERMEDAD 3864 3878	metabolopatías
+T115	ENFERMEDAD 3880 3900	procesos autoinmunes
+T116	ENFERMEDAD 4078 4093	lesión hepática
+T117	ENFERMEDAD 4395 4419	reacciones hepatotóxicas
+T118	ENFERMEDAD 4453 4467	daño hepático
+T119	ENFERMEDAD 4515 4533	ingesta alcohólica
+T120	ENFERMEDAD 4829 4849	infección bacteriana
+T121	ENFERMEDAD 4949 4958	infección
+T122	ENFERMEDAD 5416 5431	hepatotoxicidad
+T123	ENFERMEDAD 5867 5928	lesiones neoplásicas, vasculares y patología de la vía biliar
+T124	ENFERMEDAD 6401 6420	enfermedad hepática
+T125	ENFERMEDAD 6453 6468	hepatotoxicidad
+T126	SANITARIO-PROFESION 831 834	MAP
+T127	SANITARIO-PROFESION 943 946	MAP
+T128	SANITARIO-PROFESION 802 829	Médico de Atención Primaria
+T129	SANITARIO-PROFESION 4162 4168	médico

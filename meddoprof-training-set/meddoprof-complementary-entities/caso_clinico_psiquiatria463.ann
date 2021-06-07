@@ -1,0 +1,96 @@
+T1	SINTOMA 114 122	falleció
+T2	SINTOMA 303 312	fallecido
+T3	SINTOMA 1114 1133	ideación autolítica
+T4	SINTOMA 1598 1609	obsesividad
+T5	SINTOMA 2855 2865	consciente
+T6	SINTOMA 2868 2877	orientado
+T7	SINTOMA 3177 3200	alucinaciones auditivas
+T8	SINTOMA 3212 3238	alucinaciones cenestésicas
+T9	SINTOMA 3401 3410	Hiporexia
+T10	PROCEDIMIENTO 1944 1959	benzodiacepinas
+T11	PROCEDIMIENTO 2110 2146	pruebas de diferentes antipsicóticos
+T12	PROCEDIMIENTO 2375 2390	benzodiacepinas
+T13	PROCEDIMIENTO 3914 3926	TAC cerebral
+T14	PROCEDIMIENTO 4218 4238	Electroencefalograma
+T15	PROCEDIMIENTO 4279 4297	registro video-EEG
+T16	NEG 57 60	sin
+T17	NSCO 61 66	hijos
+T18	NEG 577 580	sin
+T19	NSCO 581 600	salir del domicilio
+T20	NEG 671 674	sin
+T21	NSCO 675 716	mantener relaciones con familia ni amigos
+T22	NEG 1227 1230	sin
+T23	NSCO 1231 1258	conseguir la remisión total
+T24	NEG 1324 1326	no
+T25	NSCO 1327 1334	tratada
+T26	NEG 1754 1757	sin
+T27	NSCO 1758 1779	llegar a conseguir la
+T28	NEG 1780 1795	desaparición de
+T29	NSCO 1796 1856	las alucinaciones auditivas egodistónicas de tipo imperativo
+T30	NEG 2363 2374	retirada de
+T31	NSCO 2375 2390	benzodiacepinas
+T32	NEG 2594 2609	desaparición de
+T33	NSCO 2610 2632	la ideación autolítica
+T34	UNC 3203 3211	posibles
+T35	USCO 3212 3238	alucinaciones cenestésicas
+T36	NEG 3780 3783	sin
+T37	NSCO 3784 3810	alteraciones.n Coagulación
+T38	NEG 3812 3815	sin
+T39	NSCO 3816 3849	alteraciones.n Hormonas tiroideas
+T40	NEG 3851 3854	sin
+T41	NSCO 3855 3879	alteraciones.n Serología
+T42	NEG 3904 3913	negativos
+T43	NEG 4008 4010	No
+T44	NSCO 4011 4054	colecciones hemáticas intra ni extraaxiales
+T45	NEG 4056 4058	No
+T46	NSCO 4059 4138	desplazamiento de la línea media ni semiología radiológica de proceso expansivo
+T47	NEG 4140 4142	No
+T48	NSCO 4143 4165	alteraciones en calota
+T49	NEG 4175 4178	sin
+T50	NSCO 4179 4216	hallazgos radiológicos significativos
+T51	NEG 4371 4373	No
+T52	NSCO 4374 4452	se objetivó la presencia de actividad asociada de forma específica a epilepsia
+T53	NEG 5126 5134	falta de
+T54	NSCO 5135 5155	remisión sintomática
+T55	FARMACO 2180 2192	paliperidona
+T56	FARMACO 2194 2205	aripiprazol
+T57	FARMACO 2207 2217	olanzapina
+T58	FARMACO 2271 2280	clozapina
+T59	FARMACO 2420 2429	clozapina
+T60	FARMACO 2469 2478	clozapina
+T61	FARMACO 5226 5238	paliperidona
+T62	FARMACO 5258 5268	olanzapina
+T63	FARMACO 5270 5281	aripiprazol
+T64	FARMACO 5283 5298	levomepromazina
+T65	FARMACO 5300 5309	lorazepam
+T66	FARMACO 5311 5323	lormetazepam
+T67	FARMACO 5325 5335	flurazepam
+T68	FARMACO 5337 5348	fluvoxamina
+T69	FARMACO 5350 5363	amitriptilina
+T70	FARMACO 5365 5376	venlafaxina
+T71	FARMACO 5378 5389	gabapentina
+T72	ORG_VIVO 26 34	paciente
+T73	ORG_VIVO 47 54	soltero
+T74	ORG_VIVO 61 66	hijos
+T75	ORG_VIVO 86 91	madre
+T76	ORG_VIVO 108 113	padre
+T77	ORG_VIVO 273 281	paciente
+T78	ORG_VIVO 297 302	padre
+T79	ORG_VIVO 456 461	padre
+T80	ORG_VIVO 699 706	familia
+T81	ORG_VIVO 710 716	amigos
+T82	ORG_VIVO 2243 2251	paciente
+T83	ORG_VIVO 3881 3884	VHB
+T84	ORG_VIVO 3886 3889	VHC
+T85	ORG_VIVO 3891 3894	VIH
+T86	ORG_VIVO 3897 3901	lúes
+T87	ENFERMEDAD 529 537	suicidio
+T88	ENFERMEDAD 1050 1074	sintomatología psicótica
+T89	ENFERMEDAD 1285 1293	psicosis
+T90	ENFERMEDAD 2008 2025	ENFERMEDAD ACTUAL
+T91	ENFERMEDAD 3047 3056	paranoide
+T92	ENFERMEDAD 4443 4452	epilepsia
+T93	ENFERMEDAD 4504 4531	trastorno esquizofreniforme
+T94	ENFERMEDAD 4640 4664	sintomatología psicótica
+T95	ENFERMEDAD 4678 4701	esquizofrenia paranoide
+T96	ENFERMEDAD 4748 4771	esquizofrenia paranoide

@@ -1,0 +1,75 @@
+T1	SINTOMA 2708 2724	masa suprarrenal
+T2	SINTOMA 3790 3797	nauseas
+T3	SINTOMA 3799 3806	vómitos
+T4	SINTOMA 3809 3816	ascitis
+T5	SINTOMA 3827 3857	deterioro de su estado general
+T6	SINTOMA 4021 4027	exitus
+T7	PROCEDIMIENTO 1070 1077	biopsia
+T8	PROCEDIMIENTO 1798 1814	exéresis-biopsia
+T9	PROCEDIMIENTO 2105 2124	Anatomía Patológica
+T10	PROCEDIMIENTO 2670 2694	tomografía computerizada
+T11	PROCEDIMIENTO 2809 2825	gammagrafía ósea
+T12	PROCEDIMIENTO 2876 2894	Punción-Aspiración
+T13	PROCEDIMIENTO 3015 3038	ampliación de resección
+T14	PROCEDIMIENTO 3065 3078	colgajo sural
+T15	PROCEDIMIENTO 3082 3113	vaciamiento ganglionar inguinal
+T16	PROCEDIMIENTO 3293 3341	resección laparoscópica de suprarrenal izquierda
+T17	PROCEDIMIENTO 3353 3372	estudio histológico
+T18	PROCEDIMIENTO 3672 3698	tratamiento inmunoterápico
+T19	PROCEDIMIENTO 3870 3893	paracentesis evacuadora
+T20	PROCEDIMIENTO 3950 3958	angio-TC
+T21	NEG 27 30	sin
+T22	NSCO 31 54	antecedentes de interés
+T23	NEG 510 512	no
+T24	NSCO 513 539	cicatrización de la lesión
+T25	NEG 784 787	sin
+T26	NSCO 788 831	observarse criterios de lesión melanocítica
+T27	UNC 1743 1755	sin aparente
+T28	USCO 1756 1786	afectación de planos profundos
+T29	NEG 2215 2218	sin
+T30	NSCO 2219 2237	crecimiento radial
+T31	NEG 2358 2361	sin
+T32	NSCO 2362 2373	satelitosis
+T33	NEG 2436 2438	no
+T34	NSCO 2439 2445	mutado
+T35	UNC 2735 2747	sugestiva de
+T36	USCO 2748 2758	metástasis
+T37	UNC 2774 2784	sospechosa
+T38	USCO 2785 2804	en ilíaco izquierdo
+T39	NEG 2834 2842	negativa
+T40	NSCO 2843 2868	para metástasis blásticas
+T41	NEG 3138 3140	no
+T42	NSCO 3141 3186	observa melanoma residual en la pieza cutánea
+T43	NEG 3509 3518	evidentes
+T44	NSCO 3519 3539	signos de progresión
+T45	NEG 3959 3967	descarta
+T46	NSCO 3968 3983	sangrado activo
+T47	FARMACO 3700 3720	Ipilimumab-Nivolumab
+T48	ORG_VIVO 0 14	Paciente varón
+T49	ORG_VIVO 423 431	paciente
+T50	ORG_VIVO 1338 1346	paciente
+T51	ORG_VIVO 1452 1460	paciente
+T52	ORG_VIVO 1466 1493	Médico de Atención Primaria
+T53	ORG_VIVO 1509 1517	paciente
+T54	ORG_VIVO 1931 1939	paciente
+T55	ORG_VIVO 3747 3755	paciente
+T56	ENFERMEDAD 638 681	lesión en el talón derecho hiperqueratósica
+T57	ENFERMEDAD 812 831	lesión melanocítica
+T58	ENFERMEDAD 864 916	lesión reactiva proliferativa tipo granuloma piógeno
+T59	ENFERMEDAD 1238 1254	lesión en el pie
+T60	ENFERMEDAD 1535 1551	granuloma en pie
+T61	ENFERMEDAD 1582 1652	lesión tumoral sólida, exofítica, a expensas de cara lateral del talón
+T62	ENFERMEDAD 2147 2163	melanoma maligno
+T63	ENFERMEDAD 2165 2181	melanoma nodular
+T64	ENFERMEDAD 2748 2758	metástasis
+T65	ENFERMEDAD 2762 2794	lesión ósea sospechosa en ilíaco
+T66	ENFERMEDAD 2848 2868	metástasis blásticas
+T67	ENFERMEDAD 2913 2963	adenopatía inguinal positiva para células malignas
+T68	ENFERMEDAD 3149 3186	melanoma residual en la pieza cutánea
+T69	ENFERMEDAD 3388 3410	metástasis de melanoma
+T70	ENFERMEDAD 3553 3585	metástasis pulmonares, hepáticas
+T71	ENFERMEDAD 3587 3612	carcinomatosis peritoneal
+T72	ENFERMEDAD 3615 3643	implantes en pared abdominal
+T73	ENFERMEDAD 3809 3816	ascitis
+T74	ENFERMEDAD 4032 4053	fracaso multiorgánico
+T75	SANITARIO-PROFESION 1466 1493	Médico de Atención Primaria

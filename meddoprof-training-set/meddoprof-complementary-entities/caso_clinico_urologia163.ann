@@ -1,0 +1,84 @@
+T1	SINTOMA 103 140	síntomas del tracto urinario inferior
+T2	SINTOMA 150 168	disfunción eréctil
+T3	SINTOMA 489 506	tenesmo miccional
+T4	SINTOMA 508 526	urgencia miccional
+T5	SINTOMA 567 586	goteo postmiccional
+T6	SINTOMA 997 1019	debilidad generalizada
+T7	SINTOMA 1041 1047	mareos
+T8	SINTOMA 1049 1069	pérdida de la libido
+T9	SINTOMA 1476 1491	visceromegalias
+T10	SINTOMA 3724 3748	sintomatología miccional
+T11	SINTOMA 3905 3941	disminución del volumen de eyaculado
+T12	PROCEDIMIENTO 599 608	anamnesis
+T13	PROCEDIMIENTO 1191 1204	Examen físico
+T14	PROCEDIMIENTO 1285 1302	antihipertensivos
+T15	PROCEDIMIENTO 1322 1352	Hernioplastia inguinal derecha
+T16	PROCEDIMIENTO 1634 1646	Tacto rectal
+T17	PROCEDIMIENTO 1924 1928	IIEF
+T18	PROCEDIMIENTO 2171 2198	Análisis de orina elemental
+T19	PROCEDIMIENTO 2210 2220	Urocultivo
+T20	PROCEDIMIENTO 2233 2252	Citologías de orina
+T21	PROCEDIMIENTO 2273 2292	Ecografía urológica
+T22	PROCEDIMIENTO 2501 2512	Flujometría
+T23	PROCEDIMIENTO 3949 3960	flujometría
+T24	NEG 1095 1104	suspendió
+T25	NSCO 1105 1119	el tratamiento
+T26	NEG 1435 1437	no
+T27	NSCO 1438 1461	doloroso a la palpación
+T28	NEG 1463 1465	no
+T29	NSCO 1466 1471	masas
+T30	NEG 1473 1475	no
+T31	NSCO 1476 1491	visceromegalias
+T32	NSCO 1493 1501	Blumberg
+T33	NEG 1502 1510	negativo
+T34	NEG 1512 1514	No
+T35	NSCO 1515 1537	se palpa globo vesical
+T36	NEG 1570 1578	negativa
+T37	NEG 1607 1610	sin
+T38	NSCO 1611 1632	hallazgos patológicos
+T39	NEG 1801 1803	no
+T40	NSCO 1804 1812	dolorosa
+T41	NEG 2208 2209	•
+T42	NSCO 2210 2220	Urocultivo
+T43	NEG 2221 2229	negativo
+T44	NEG 2260 2269	negativas
+T45	NEG 2312 2315	sin
+T46	NSCO 2316 2351	dilatación de ambas vías excretoras
+T47	NEG 2360 2363	sin
+T48	NSCO 2364 2383	signos de esfuerzos
+T49	NEG 2796 2799	sin
+T50	NSCO 2800 2835	complicaciones durante su evolución
+T51	UNC 3162 3168	podría
+T52	USCO 3169 3179	superponer
+T53	NEG 3506 3518	se le retiró
+T54	NSCO 3519 3555	la asociación de fármacos prescritos
+T55	NEG 4287 4290	sin
+T56	NSCO 4291 4373	añadir efectos secundarios (seguridad) que justifiquen el abandono del tratamiento
+T57	FARMACO 293 304	tamsulosina
+T58	FARMACO 3584 3591	Silodyx
+T59	ORG_VIVO 10 15	Varón
+T60	ORG_VIVO 65 92	médico de Atención Primaria
+T61	ORG_VIVO 94 97	MAP
+T62	ORG_VIVO 178 186	paciente
+T63	ORG_VIVO 334 337	MAP
+T64	ORG_VIVO 613 621	paciente
+T65	ORG_VIVO 1161 1188	médico de Atención Primaria
+T66	ORG_VIVO 2718 2723	varón
+T67	ORG_VIVO 3220 3229	pacientes
+T68	ORG_VIVO 3352 3359	urólogo
+T69	ORG_VIVO 3497 3505	paciente
+T70	ORG_VIVO 3887 3893	pareja
+T71	ORG_VIVO 4141 4149	paciente
+T72	ORG_VIVO 4259 4267	paciente
+T73	ORG_VIVO 4465 4473	paciente
+T74	ENFERMEDAD 150 168	disfunción eréctil
+T75	ENFERMEDAD 1205 1214	Exfumador
+T76	ENFERMEDAD 1235 1265	Hipertensión arterial esencial
+T77	ENFERMEDAD 2746 2777	hipertrofia benigna de próstata
+T78	ENFERMEDAD 2779 2782	HPB
+T79	ENFERMEDAD 4084 4087	HBP
+T80	SANITARIO-PROFESION 94 97	MAP
+T81	SANITARIO-PROFESION 334 337	MAP
+T82	SANITARIO-PROFESION 65 92	médico de Atención Primaria
+T83	SANITARIO-PROFESION 1161 1188	médico de Atención Primaria
+T84	SANITARIO-PROFESION 3352 3359	urólogo

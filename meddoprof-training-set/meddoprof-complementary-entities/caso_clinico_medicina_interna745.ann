@@ -1,0 +1,85 @@
+T1	SINTOMA 339 357	episodios febriles
+T2	SINTOMA 402 417	síndrome febril
+T3	SINTOMA 629 644	síndrome febril
+T4	SINTOMA 712 720	febriles
+T5	SINTOMA 772 787	síndrome febril
+T6	SINTOMA 1028 1043	síndrome febril
+T7	SINTOMA 1107 1113	fiebre
+T8	SINTOMA 1169 1198	disnea de moderados esfuerzos
+T9	SINTOMA 1205 1220	dolor abdominal
+T10	SINTOMA 1236 1250	dolor torácico
+T11	SINTOMA 1319 1366	hipofonesis en los 2/3 inferiores del hemitórax
+T12	SINTOMA 1586 1592	fiebre
+T13	SINTOMA 1855 1861	fiebre
+T14	SINTOMA 2018 2024	fiebre
+T15	PROCEDIMIENTO 419 462	TAC cráneo-cérvico- tóraco-abdomino-pélvico
+T16	PROCEDIMIENTO 464 471	PET-TAC
+T17	PROCEDIMIENTO 473 485	colonoscopia
+T18	PROCEDIMIENTO 519 531	hemocultivos
+T19	PROCEDIMIENTO 533 583	cultivo de micobacterias en sangre, orina y esputo
+T20	PROCEDIMIENTO 587 597	urocultivo
+T21	PROCEDIMIENTO 832 847	ecocardiografía
+T22	PROCEDIMIENTO 849 861	hemocultivos
+T23	PROCEDIMIENTO 863 873	urocultivo
+T24	PROCEDIMIENTO 875 892	cultivo de esputo
+T25	PROCEDIMIENTO 1288 1306	exploración física
+T26	PROCEDIMIENTO 1540 1560	radiografía de tórax
+T27	PROCEDIMIENTO 2165 2189	PAAF de grasa subcutánea
+T28	PROCEDIMIENTO 2233 2246	test genético
+T29	NSCO 487 567	marcadores tumorales, cortisol, hemocultivos, cultivo de micobacterias en sangre
+T30	NEG 598 601	sin
+T31	NSCO 602 611	hallazgos
+T32	NEG 981 990	negativos
+T33	NEG 1221 1233	inespecífico
+T34	UNC 1944 1951	orienta
+T35	USCO 1952 2034	a pensar que la paciente pueda padecer un síndrome hereditario de fiebre periódica
+T36	NEG 2205 2218	negativa para
+T37	NSCO 2219 2230	amiloidosis
+T38	FARMACO 170 180	bisoprolol
+T39	FARMACO 182 192	furosemida
+T40	FARMACO 194 205	esomeprazol
+T41	FARMACO 207 217	irbesartán
+T42	FARMACO 219 232	atorvastatina
+T43	FARMACO 234 245	pregabalina
+T44	FARMACO 247 256	lorazepam
+T45	FARMACO 259 271	acenocumarol
+T46	FARMACO 2345 2355	colchicina
+T47	ORG_VIVO 0 5	Mujer
+T48	ORG_VIVO 544 557	micobacterias
+T49	ORG_VIVO 678 686	infancia
+T50	ORG_VIVO 689 701	adolescencia
+T51	ORG_VIVO 957 960	VIH
+T52	ORG_VIVO 962 965	VHB
+T53	ORG_VIVO 967 970	VHC
+T54	ORG_VIVO 973 980	sífilis
+T55	ORG_VIVO 1968 1976	paciente
+T56	ORG_VIVO 2102 2110	Familiar
+T57	ORG_VIVO 2272 2280	Familiar
+T58	ENFERMEDAD 37 49	hipertensión
+T59	ENFERMEDAD 51 61	dislipemia
+T60	ENFERMEDAD 63 87	cardiopatía hipertensiva
+T61	ENFERMEDAD 89 103	FA paroxística
+T62	ENFERMEDAD 106 121	melanoma rectal
+T63	ENFERMEDAD 402 417	síndrome febril
+T64	ENFERMEDAD 629 644	síndrome febril
+T65	ENFERMEDAD 772 787	síndrome febril
+T66	ENFERMEDAD 790 815	derrame pleuropericárdico
+T67	ENFERMEDAD 924 940	neumonía atípica
+T68	ENFERMEDAD 1028 1043	síndrome febril
+T69	ENFERMEDAD 1046 1061	derrame pleural
+T70	ENFERMEDAD 1508 1523	derrame pleural
+T71	ENFERMEDAD 1715 1727	endocarditis
+T72	ENFERMEDAD 1729 1758	arteritis de células gigantes
+T73	ENFERMEDAD 1760 1779	panarteritis nodosa
+T74	ENFERMEDAD 1781 1784	LES
+T75	ENFERMEDAD 1786 1789	TBC
+T76	ENFERMEDAD 1808 1835	melanoma rectal/ metástasis
+T77	ENFERMEDAD 1837 1840	TEP
+T78	ENFERMEDAD 1842 1853	sarcoidosis
+T79	ENFERMEDAD 1877 1896	enfermedad de Still
+T80	ENFERMEDAD 1898 1903	Fabry
+T81	ENFERMEDAD 1906 1922	Kikuchi-Fujimoto
+T82	ENFERMEDAD 1994 2014	síndrome hereditario
+T83	ENFERMEDAD 2036 2066	enfermedades autoinflamatorias
+T84	ENFERMEDAD 2219 2230	amiloidosis
+T85	ENFERMEDAD 2296 2325	heterocigota para el gen MEFV

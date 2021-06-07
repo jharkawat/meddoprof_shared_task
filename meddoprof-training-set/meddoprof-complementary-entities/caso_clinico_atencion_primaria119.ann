@@ -1,0 +1,130 @@
+T1	SINTOMA 40 59	dolor en fosa renal
+T2	SINTOMA 255 265	broncópata
+T3	SINTOMA 691 719	dolor contínuo en fosa renal
+T4	SINTOMA 862 916	abdomen blando y depresible no doloroso a la palpación
+T5	SINTOMA 922 960	puñopercusión renal izquierda positiva
+T6	SINTOMA 1172 1267	dolor persistente en región lumbar izquierda con irradiación hacia hipogastrio y región genital
+T7	SINTOMA 1321 1327	vómito
+T8	SINTOMA 1362 1369	afebril
+T9	SINTOMA 1547 1559	leucocitosis
+T10	SINTOMA 2288 2311	encontrarla muy decaída
+T11	SINTOMA 2313 2324	somnolienta
+T12	SINTOMA 2331 2346	sudoración fría
+T13	SINTOMA 2410 2428	mal estado general
+T14	SINTOMA 2494 2512	tendencia al sueño
+T15	SINTOMA 2514 2536	dificultad en el habla
+T16	SINTOMA 2538 2545	palidez
+T17	SINTOMA 2548 2561	frialdad piel
+T18	SINTOMA 2719 2726	afebril
+T19	SINTOMA 3435 3446	hipotensión
+T20	SINTOMA 3736 3754	tendencia al sueño
+T21	SINTOMA 3757 3763	disnea
+T22	SINTOMA 3803 3815	leucocitosis
+T23	SINTOMA 3820 3831	neutrofilia
+T24	SINTOMA 3833 3873	elevación de PCR (352,5) y de creatinina
+T25	SINTOMA 3949 3960	oligoanuria
+T26	SINTOMA 4516 4522	fiebre
+T27	SINTOMA 4525 4545	edemas generalizados
+T28	SINTOMA 4649 4671	consolidación pulmonar
+T29	PROCEDIMIENTO 792 810	exploración física
+T30	PROCEDIMIENTO 812 843	auscultación cardiorespiratoria
+T31	PROCEDIMIENTO 1088 1104	analgesia simple
+T32	PROCEDIMIENTO 1382 1404	radiografía de abdomen
+T33	PROCEDIMIENTO 1836 1859	tratamiento intravenoso
+T34	PROCEDIMIENTO 1877 1894	antiinflamatorios
+T35	PROCEDIMIENTO 1897 1915	antiespasmolíticos
+T36	PROCEDIMIENTO 3276 3305	toma de vía venosa periférica
+T37	PROCEDIMIENTO 4029 4044	sondaje vesical
+T38	PROCEDIMIENTO 4095 4118	TAC de abdomen y pelvis
+T39	PROCEDIMIENTO 4355 4370	catéter doble J
+T40	PROCEDIMIENTO 4683 4703	radiografía de tórax
+T41	PROCEDIMIENTO 4769 4789	ventilación mecánica
+T42	PROCEDIMIENTO 4812 4833	cobertura antibiótica
+T43	PROCEDIMIENTO 4835 4843	sedación
+T44	PROCEDIMIENTO 4846 4855	analgesia
+T45	PROCEDIMIENTO 4939 4951	traqueotomía
+T46	NEG 181 184	sin
+T47	NSCO 185 197	RAM, ni FRCV
+T48	NEG 199 201	no
+T49	NSCO 202 205	HTA
+T50	NEG 207 209	no
+T51	NSCO 210 219	diabética
+T52	NEG 221 223	no
+T53	NSCO 224 235	dislipemica
+T54	NEG 238 240	No
+T55	NSCO 241 265	cardiópata ni broncópata
+T56	NEG 267 269	No
+T57	NSCO 270 295	hábitos tóxicos conocidos
+T58	UNC 488 499	sospecha de
+T59	USCO 500 527	síndrome de apnea del sueño
+T60	NEG 844 847	sin
+T61	NSCO 848 860	alteraciones
+T62	NEG 890 892	no
+T63	NSCO 893 916	doloroso a la palpación
+T64	NEG 1073 1075	no
+T65	NSCO 1076 1104	mejoría con analgesia simple
+T66	NEG 1299 1307	negativa
+T67	NEG 1362 1369	afebril
+T68	NEG 1462 1465	sin
+T69	NSCO 1466 1514	imágenes de densidad calcio a nivel renoureteral
+T70	NEG 1768 1776	negativo
+T71	NEG 1779 1785	ningún
+T72	NSCO 1786 1793	hematíe
+T73	NEG 2719 2726	afebril
+T74	NEG 3374 3376	no
+T75	NSCO 3377 3433	se observó mejoría clínica manteniéndose signos de shock
+T76	NEG 4578 4586	negativo
+T77	NEG 4860 4862	no
+T78	NSCO 4863 4926	existir adecuada adaptación a dispositivo de ayuda ventilatoria
+T79	FARMACO 561 570	Omeprazol
+T80	FARMACO 1013 1022	Metamizol
+T81	FARMACO 2029 2040	Paracetamol
+T82	FARMACO 2042 2050	Tramadol
+T83	FARMACO 2084 2098	Dexketoprofeno
+T84	FARMACO 3044 3052	Tramadol
+T85	ORG_VIVO 160 170	personales
+T86	ORG_VIVO 172 180	paciente
+T87	ORG_VIVO 622 627	Mujer
+T88	ORG_VIVO 1109 1117	paciente
+T89	ORG_VIVO 2120 2147	médico de atención primaria
+T90	ORG_VIVO 2209 2217	paciente
+T91	ORG_VIVO 2236 2242	esposo
+T92	ORG_VIVO 2245 2252	hermana
+T93	ORG_VIVO 2371 2398	médico de Atención Primaria
+T94	ORG_VIVO 2737 2745	familiar
+T95	ORG_VIVO 2835 2846	ama de casa
+T96	ORG_VIVO 2860 2866	esposo
+T97	ORG_VIVO 2879 2887	familiar
+T98	ORG_VIVO 3529 3537	paciente
+T99	ORG_VIVO 4498 4506	paciente
+T100	ORG_VIVO 4566 4586	bacilo gram negativo
+T101	ORG_VIVO 4588 4609	Klebsiella pneumoniae
+T102	ORG_VIVO 5127 5136	levaduras
+T103	ENFERMEDAD 193 197	FRCV
+T104	ENFERMEDAD 202 205	HTA
+T105	ENFERMEDAD 210 219	diabética
+T106	ENFERMEDAD 319 333	litiasis renal
+T107	ENFERMEDAD 335 352	obesidad grado II
+T108	ENFERMEDAD 366 391	hipotiroidismo autoinmune
+T109	ENFERMEDAD 393 408	hernia de hiato
+T110	ENFERMEDAD 410 419	cataratas
+T111	ENFERMEDAD 421 455	condrocalcinosis en ambas rodillas
+T112	ENFERMEDAD 457 477	síndrome subacromial
+T113	ENFERMEDAD 500 527	síndrome de apnea del sueño
+T114	ENFERMEDAD 983 999	cólico nefrítico
+T115	ENFERMEDAD 2454 2470	enfermedad grave
+T116	ENFERMEDAD 2599 2619	hipotensión arterial
+T117	ENFERMEDAD 3010 3015	shock
+T118	ENFERMEDAD 3017 3036	cólico renoureteral
+T119	ENFERMEDAD 3038 3052	RAM a Tramadol
+T120	ENFERMEDAD 3104 3109	shock
+T121	ENFERMEDAD 3435 3446	hipotensión
+T122	ENFERMEDAD 4254 4287	obstrucción completa por litiasis
+T123	ENFERMEDAD 4547 4609	Se aisló en sangre bacilo gram negativo (Klebsiella pneumoniae
+T124	ENFERMEDAD 4621 4636	derrame pleural
+T125	ENFERMEDAD 4649 4671	consolidación pulmonar
+T126	ENFERMEDAD 5040 5084	isquemia y necrosis de dedos de manos y pies
+T127	ENFERMEDAD 5089 5103	polineuropatía
+T128	PACIENTE-SITUACION_LABORAL 2835 2846	ama de casa
+T129	SANITARIO-PROFESION 2371 2398	médico de Atención Primaria
+T130	SANITARIO-PROFESION 2120 2147	médico de atención primaria

@@ -1,0 +1,52 @@
+T1	SINTOMA 166 184	dolor en la cadera
+T2	SINTOMA 1319 1337	síntomas dolorosos
+T3	SINTOMA 2464 2476	asintomático
+T4	PROCEDIMIENTO 313 315	RM
+T5	PROCEDIMIENTO 422 433	TC de tórax
+T6	PROCEDIMIENTO 435 446	TC de tórax
+T7	PROCEDIMIENTO 733 750	fibrobroncoscopia
+T8	PROCEDIMIENTO 1097 1144	radioterápico paliativo sobre acetábulo derecho
+T9	PROCEDIMIENTO 1159 1185	tratamiento quimioterápico
+T10	PROCEDIMIENTO 1432 1434	TC
+T11	PROCEDIMIENTO 2121 2123	TC
+T12	PROCEDIMIENTO 2233 2235	TC
+T13	UNC 351 363	sugestivo de
+T14	USCO 364 382	lesión metastásica
+T15	NEG 884 892	negativo
+T16	NEG 1031 1039	negativo
+T17	NEG 1315 1318	sin
+T18	NSCO 1319 1337	síntomas dolorosos
+T19	NEG 1438 1453	desaparición de
+T20	NSCO 1454 1461	derrame
+T21	NEG 1855 1857	no
+T22	NSCO 1858 1874	se ha modificado
+T23	NEG 1951 1967	han desaparecido
+T24	NEG 2199 2202	sin
+T25	NSCO 2203 2231	lesión sólida en su interior
+T26	NEG 2464 2476	asintomático
+T27	FARMACO 1198 1210	carboplatino
+T28	FARMACO 1211 1232	paclitaxelbevacizumab
+T29	FARMACO 2529 2540	bevacizumab
+T30	ORG_VIVO 15 20	varón
+T31	ORG_VIVO 58 68	personales
+T32	ORG_VIVO 1276 1284	paciente
+T33	ORG_VIVO 2420 2428	paciente
+T34	ENFERMEDAD 72 95	diabetes melitus tipo 2
+T35	ENFERMEDAD 97 106	exfumador
+T36	ENFERMEDAD 319 382	metástasis en acetábulo derecho sugestivo de lesión metastásica
+T37	ENFERMEDAD 476 526	lesión nodular de 34 x 34 mm en el lóbulo inferior
+T38	ENFERMEDAD 593 608	derrame pleural
+T39	ENFERMEDAD 630 649	derrame pericárdico
+T40	ENFERMEDAD 651 700	Adenopatías mediastínicas precava y pretraqueales
+T41	ENFERMEDAD 764 807	compresión extrínseca de bronquio principal
+T42	ENFERMEDAD 853 877	adenocarcinoma de pulmón
+T43	ENFERMEDAD 913 958	adenocarcinoma de pulmón T4,N2,M1 estadio IVb
+T44	ENFERMEDAD 960 974	EGFR negativo3
+T45	ENFERMEDAD 996 1030	adenocarcinoma de pulmón EIVb EGFR
+T46	ENFERMEDAD 1046 1073	metástasis ósea sintomática
+T47	ENFERMEDAD 1454 1469	derrame pleural
+T48	ENFERMEDAD 1481 1500	derrame pericárdico
+T49	ENFERMEDAD 1528 1548	adenopatías en hilio
+T50	ENFERMEDAD 1906 1916	adenopatía
+T51	PACIENTE-PROFESION 130 138	ebanista
+T52	PACIENTE-SITUACION_LABORAL 139 147	jubilado

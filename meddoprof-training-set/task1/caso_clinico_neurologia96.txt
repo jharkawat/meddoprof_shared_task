@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 49 años, músico de profesión, con colitis ulcerosa como único antecedente de interés. Acudió al Servicio de Urgencias por lo que ella define como episodios de mareo. Dos semanas antes comenzó a experimentar episodios durante los cuales percibía dentro de su cabeza música de forma desorganizada. Días más tarde, mientras estaba tocando un instrumento musical, presentó sensación de mareo, sin giro de objetos, que le obligó a cesar en su actividad y que se resolvió en pocos segundos. Minutos después sufrió un nuevo episodio, esta vez con pérdida de la consciencia y caída del instrumento de las manos, asociado a palidez cutánea y clonías en los miembros superiores, recuperándose completamente en pocos segundos. Esa misma tarde, al salir del coche, experimentó nuevamente sensación de música dentro de la cabeza seguida de mareo con palidez cutánea, caída al suelo y traumatismo frontal. Refería cuadro catarral autolimitado 3 semanas antes.  Examen físico La paciente presentaba buen estado general, estaba afebril y normotensa. La auscultación cardiaca era rítmica y sin soplos. La auscultación pulmonar presentaba murmullo vesicular conservado sin ruidos sobreañadidos. El abdomen era depresible, no doloroso a la palpación, sin masas ni megalias. Los pulsos distales estaban presentes y eran simétricos. No había edemas.
+Las funciones cerebrales superiores eran normales. El lenguaje era fluente y apropiado. Las pupilas eran simétricas y normorreactivas. La campimetría por confrontación era normal. La motilidad ocular extrínseca era normal. No presentaba asimetrías faciales. El V par sensitivo y motor era normal. La motilidad lingual y velopalatina eran normales. La fuerza, el tono y el trofismo eran normales en las cuatro extremidades. Los reflejos osteotendinosos eran normales y simétricos. Los reflejos cutáneo-plantares eran flexores. La sensibilidad era normal. Las pruebas cerebelosas eran normales. No presentaba signos meníngeos.
+
+Pruebas complementarias
+• Análisis de sangre: hemograma, bioquímica, coagulación y función tiroidea normales.
+• Análisis de orina: de 1 a 3 hematíes por campo, resto normal.
+• Análisis de líquido cefalorraquídeo: aspecto claro, 1 leucocito, glucosa 50 mg/dl, proteínas 0,5 g/l.
+• Citología de líquido cefalorraquídeo: frotis de escasa celularidad sin evidencia de células atípicas.
+• Reacción en cadena de la polimerasa en líquido cefalorraquídeo: virus del herpes simple tipo 1 y tipo 2 no detectables, virus de Epstein-Barr no detectable, virus del herpes tipo 6 no detectable.
+• Electrocardiograma: ritmo sinusal a 59 lpm.
+• Electroencefalograma: trazado de reposo e hiperventilación sin signos patológicos de valor.
+• Holter electrocardiográfico: ritmo sinusal, intervalos dentro de la normalidad, sin pausas ni eventos de interés.
+• Radiografía de tórax: sin evidencia de patología pleuropulmonar aguda.
+• Tomografía computarizada cerebral: lesión hiperdensa temporal derecha, con escasa visualización de la cisura de Silvio.
+• Resonancia magnética (RM) cerebral: engrosamiento cortical con hiperseñal en secuencias FLAIR y T2 en la región temporal anterior derecha, con límites imprecisos y dos pequeños focos hipercaptantes en las porciones más anterior y más craneal de la lesión, respectivamente. Hallazgos compatibles con astrocitoma de bajo grado como primera posibilidad diagnóstica. Resonancia magnética cerebral en secuencia FLAIR donde se observa engrosamiento cortical con hiperseñal en la región temporal anterior derecha.
+• Espectroscopia por RM: reducción del pico de N-acetilaspartato y aumento del pico de colina, hallazgos típicos de patología neoplásica aunque no patognomónicos.
+
+Diagnóstico
+Epilepsia sintomática cursando con crisis parciales complejas secundaria a lesión temporal derecha de probable origen neoplásico.
+
+Tratamiento
+Se pautó tratamiento anticomicial con levetiracetam en dosis de 500 mg cada 12 horas con buena respuesta, y tras valorar el caso de forma conjunta con el Servicio de Neurocirugía se programó la intervención quirúrgica para exéresis completa de la lesión. Craneotomía que muestra la lesión ocupante de espacio temporal derecha. El estudio anatomopatológico de la lesión permitió establecer el diagnóstico de oligodendroglioma grado II de la OMS con un índice de proliferación medido con Ki-67 del 8%. Si bien la neoplasia no mostró rasgos morfológicos correspondientes a la forma anaplásica, el índice de proliferación fue superior al 5% aceptado por la OMS en el grado II, por lo que pudiera existir un comportamiento más agresivo de lo esperado para este grado histológico.
+
+Evolución
+En el momento actual han pasado 3 meses tras la intervención y la paciente se encuentra estable, no ha habido complicaciones peri ni postquirúrgicas ni nueva clínica comicial. Tampoco se han detectado déficits manifiestos subjetivos ni objetivos que impidan el desempeño de su labor como instrumentista, la cual ha retomado.

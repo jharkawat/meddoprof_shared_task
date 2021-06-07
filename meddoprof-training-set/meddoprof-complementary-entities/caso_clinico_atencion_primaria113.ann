@@ -1,0 +1,138 @@
+T1	SINTOMA 185 224	dolor intenso y continuo en fosa iliaca
+T2	SINTOMA 365 382	clínica miccional
+T3	SINTOMA 388 395	nauseas
+T4	SINTOMA 399 406	vómitos
+T5	SINTOMA 412 448	alteraciones del hábito deposicional
+T6	SINTOMA 593 600	Afebril
+T7	SINTOMA 626 634	embarazo
+T8	SINTOMA 1303 1321	postura antiálgica
+T9	SINTOMA 1323 1343	consciente orientada
+T10	SINTOMA 1346 1358	colaboradora
+T11	SINTOMA 1360 1367	Glasgow
+T12	SINTOMA 1375 1383	eupneica
+T13	SINTOMA 1395 1413	tolerando decúbito
+T14	SINTOMA 1419 1440	ingurgitación yugular
+T15	SINTOMA 1466 1495	hidratación de piel y mucosas
+T16	SINTOMA 1649 1687	dolorosa a la palpación en fosa iliaca
+T17	SINTOMA 1701 1718	defensa abdominal
+T18	SINTOMA 1734 1755	irritación peritoneal
+T19	SINTOMA 1761 1779	ruidos hidroaéreos
+T20	SINTOMA 2749 2754	dolor
+T21	SINTOMA 2968 2973	dolor
+T22	SINTOMA 4403 4415	ansiedad....
+T23	SINTOMA 4528 4535	Ileitis
+T24	PROCEDIMIENTO 1243 1261	exploración física
+T25	PROCEDIMIENTO 1466 1485	hidratación de piel
+T26	PROCEDIMIENTO 1497 1529	auscultación cardiorrespiratoria
+T27	PROCEDIMIENTO 1581 1602	exploración abdominal
+T28	PROCEDIMIENTO 1980 2007	analítica de sangre y orina
+T29	PROCEDIMIENTO 2028 2040	Rx abdominal
+T30	PROCEDIMIENTO 2128 2140	hematimetría
+T31	PROCEDIMIENTO 2396 2417	radiografía abdominal
+T32	PROCEDIMIENTO 2524 2545	analgesia intravenosa
+T33	PROCEDIMIENTO 2677 2699	analgesia domiciliaria
+T34	PROCEDIMIENTO 2818 2836	exploración física
+T35	PROCEDIMIENTO 3007 3026	ecografía abdominal
+T36	PROCEDIMIENTO 3705 3715	citologías
+T37	PROCEDIMIENTO 4744 4764	resonancia magnética
+T38	PROCEDIMIENTO 4802 4823	analgesia intravenosa
+T39	NEG 264 266	no
+T40	NSCO 267 309	ha calmado con la toma de paracetamol oral
+T41	NEG 311 314	sin
+T42	NSCO 315 359	irradiación hacia otras regiones abdominales
+T43	NEG 361 364	sin
+T44	NSCO 365 382	clínica miccional
+T45	NEG 384 387	sin
+T46	NSCO 388 406	nauseas ni vómitos
+T47	NEG 408 411	sin
+T48	NSCO 412 448	alteraciones del hábito deposicional
+T49	NEG 502 504	no
+T50	NSCO 505 591	presenta otra sintomatología acompañante a nivel respiratorio, cardiaco ni neurológico
+T51	NEG 593 600	Afebril
+T52	NEG 602 607	Niega
+T53	NSCO 608 634	la posibilidad de embarazo
+T54	NEG 636 641	Niega
+T55	NSCO 642 676	traumatismo o sobreesfuerzo previo
+T56	NEG 679 681	No
+T57	NSCO 682 724	presenta alergias medicamentosas conocidas
+T58	NEG 726 729	sin
+T59	NSCO 730 764	antecedentes familiares de interés
+T60	NEG 1036 1039	sin
+T61	NSCO 1040 1082	otra patología ni antecedentes quirúrgicos
+T62	NEG 1203 1206	Sin
+T63	NSCO 1207 1237	ingresos hospitalarios previos
+T64	NEG 1415 1418	sin
+T65	NSCO 1419 1440	ingurgitación yugular
+T66	NEG 1622 1625	sin
+T67	NSCO 1626 1643	masas ni megalias
+T68	NEG 1697 1700	sin
+T69	NSCO 1701 1718	defensa abdominal
+T70	NEG 1720 1723	sin
+T71	NSCO 1724 1755	signos de irritación peritoneal
+T72	NEG 1805 1807	no
+T73	NSCO 1808 1827	aumentados Blumberg
+T74	NEG 1885 1894	negativos
+T75	NEG 1896 1899	Sin
+T76	NSCO 1900 1942	signos de ascitis ni alteraciones dérmicas
+T77	NEG 1944 1947	sin
+T78	NSCO 1948 1967	hernias abdominales
+T79	NEG 2068 2081	negativos del
+T80	NSCO 2082 2098	test gestacional
+T81	NEG 2358 2367	negativos
+T82	NEG 2379 2388	negativos
+T83	NEG 2418 2430	se descartan
+T84	NSCO 2431 2463	signos de obstrucción intestinal
+T85	NEG 2466 2468	no
+T86	NSCO 2469 2508	se aprecian otros hallazgos patológicos
+T87	NEG 2772 2774	no
+T88	NSCO 2775 2813	cede a tratamiento oral ni intravenoso
+T89	NEG 2837 2839	no
+T90	NSCO 2840 2860	muestra nuevos datos
+T91	NEG 2907 2910	sin
+T92	NSCO 2911 2945	obtenerse alteración de las mismas
+T93	UNC 3051 3058	posible
+T94	USCO 3059 3075	teratoma ovárico
+T95	UNC 3339 3346	valorar
+T96	USCO 3347 3382	los factores de riesgo modificables
+T97	NEG 3773 3775	no
+T98	NSCO 3776 3784	ováricas
+T99	NEG 4089 4091	no
+T100	NSCO 4092 4133	habrían producido nunca expresión clínica
+T101	NEG 4135 4138	sin
+T102	NSCO 4139 4184	disminuir la mortalidad por dichas patologías
+T103	FARMACO 293 304	paracetamol
+T104	FARMACO 2550 2564	dexketoprofeno
+T105	ORG_VIVO 115 120	Mujer
+T106	ORG_VIVO 743 753	familiares
+T107	ORG_VIVO 786 796	personales
+T108	ORG_VIVO 2733 2741	paciente
+T109	ORG_VIVO 3086 3094	familiar
+T110	ORG_VIVO 3112 3117	madre
+T111	ORG_VIVO 3124 3132	paciente
+T112	ORG_VIVO 3158 3175	médico de familia
+T113	ORG_VIVO 3245 3252	familia
+T114	ORG_VIVO 3426 3435	pacientes
+T115	ORG_VIVO 3559 3569	familiares
+T116	ORG_VIVO 4657 4665	paciente
+T117	ORG_VIVO 5008 5016	paciente
+T118	ENFERMEDAD 626 634	embarazo
+T119	ENFERMEDAD 1084 1108	fumadora de 4-5 cigarros
+T120	ENFERMEDAD 1910 1917	ascitis
+T121	ENFERMEDAD 1948 1967	hernias abdominales
+T122	ENFERMEDAD 2441 2463	obstrucción intestinal
+T123	ENFERMEDAD 2662 2674	cólico renal
+T124	ENFERMEDAD 3059 3075	teratoma ovárico
+T125	ENFERMEDAD 3305 3329	neoplasias ginecológicas
+T126	ENFERMEDAD 3749 3784	neoplasias cervicales y no ováricas
+T127	ENFERMEDAD 3826 3843	tumores de ovario
+T128	ENFERMEDAD 4064 4083	neoplasias silentes
+T129	ENFERMEDAD 4392 4401	depresión
+T130	ENFERMEDAD 4403 4415	ansiedad....
+T131	ENFERMEDAD 4480 4491	Apendicitis
+T132	ENFERMEDAD 4511 4526	Infarto omental
+T133	ENFERMEDAD 4528 4535	Ileitis
+T134	ENFERMEDAD 4537 4554	Embarazo ectópico
+T135	ENFERMEDAD 4556 4581	Quiste ovárico complicado
+T136	ENFERMEDAD 4583 4596	Tumor ovárico
+T137	ENFERMEDAD 4598 4613	Torsión ovárica
+T138	SANITARIO-PROFESION 3158 3175	médico de familia

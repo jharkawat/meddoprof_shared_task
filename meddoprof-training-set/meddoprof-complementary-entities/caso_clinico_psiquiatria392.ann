@@ -1,0 +1,115 @@
+T1	SINTOMA 2814 2831	mala alimentación
+T2	SINTOMA 2969 2983	desorientación
+T3	SINTOMA 2985 3005	lenguaje incoherente
+T4	SINTOMA 3007 3016	agitación
+T5	SINTOMA 3018 3038	conductas regresivas
+T6	SINTOMA 4629 4652	inestabilidad emocional
+T7	SINTOMA 7059 7072	inestabilidad
+T8	PROCEDIMIENTO 156 164	opiáceos
+T9	PROCEDIMIENTO 5433 5460	tratamiento antirretroviral
+T10	PROCEDIMIENTO 8847 8864	apoyo psicosocial
+T11	UNC 1338 1345	pudiera
+T12	USCO 1346 1358	relacionarse
+T13	NEG 1632 1641	se retira
+T14	NSCO 1642 1664	la tutela a los padres
+T15	NEG 2400 2405	nunca
+T16	NSCO 2406 2464	ha perdido el vínculo con el servicio de drogodependencias
+T17	NEG 2845 2848	sin
+T18	NSCO 2849 2868	rumbo por la calles
+T19	NEG 2969 2983	desorientación
+T20	NEG 2994 3005	incoherente
+T21	NEG 3789 3791	no
+T22	NSCO 3792 3843	se podía contar con ningún apoyo familiar ni social
+T23	NEG 6319 6321	no
+T24	NSCO 6322 6341	se llegó a producir
+T25	NEG 6697 6699	no
+T26	NSCO 6700 6720	puede disfrutar dado
+T27	UNC 6869 6876	pareció
+T28	USCO 6877 6921	ser posible a partir de la primavera de 2011
+T29	NEG 7936 7938	no
+T30	NSCO 7939 7968	pueda disponer de la vivienda
+T31	NEG 9266 9268	no
+T32	NSCO 9269 9297	solo se trataba de favorecer
+T33	NEG 9485 9487	no
+T34	NSCO 9488 9510	consideramos convenien
+T35	NEG 9666 9668	no
+T36	NSCO 9669 9730	se valoraron viables.en cuanto a la propuesta de intervención
+T37	NEG 10326 10328	no
+T38	NSCO 10329 10357	han conseguido la titulación
+T39	ORG_VIVO 3 14	Sra. Susana
+T40	ORG_VIVO 254 262	hermanos
+T41	ORG_VIVO 291 296	madre
+T42	ORG_VIVO 362 370	paciente
+T43	ORG_VIVO 382 391	cuidadora
+T44	ORG_VIVO 399 407	hermanos
+T45	ORG_VIVO 428 433	padre
+T46	ORG_VIVO 474 482	paciente
+T47	ORG_VIVO 505 512	paterno
+T48	ORG_VIVO 548 562	abuela materna
+T49	ORG_VIVO 591 596	hijas
+T50	ORG_VIVO 598 605	hermana
+T51	ORG_VIVO 624 629	madre
+T52	ORG_VIVO 665 669	niña
+T53	ORG_VIVO 806 816	maternales
+T54	ORG_VIVO 940 948	infancia
+T55	ORG_VIVO 954 966	Adolescencia
+T56	ORG_VIVO 1006 1010	hija
+T57	ORG_VIVO 1033 1041	familiar
+T58	ORG_VIVO 1082 1091	bisabuela
+T59	ORG_VIVO 1093 1107	abuela materna
+T60	ORG_VIVO 1235 1239	hija
+T61	ORG_VIVO 1241 1252	tía materna
+T62	ORG_VIVO 1366 1370	hija
+T63	ORG_VIVO 1396 1400	hija
+T64	ORG_VIVO 1487 1492	varón
+T65	ORG_VIVO 1658 1664	padres
+T66	ORG_VIVO 1703 1710	hermana
+T67	ORG_VIVO 1728 1734	esposo
+T68	ORG_VIVO 1771 1775	niña
+T69	ORG_VIVO 3112 3117	hijas
+T70	ORG_VIVO 3825 3833	familiar
+T71	ORG_VIVO 4042 4047	hijas
+T72	ORG_VIVO 5052 5062	educadores
+T73	ORG_VIVO 5341 5349	personas
+T74	ORG_VIVO 5378 5381	ViH
+T75	ORG_VIVO 5445 5460	antirretroviral
+T76	ORG_VIVO 5493 5498	viral
+T77	ORG_VIVO 5583 5587	hija
+T78	ORG_VIVO 5671 5681	tía abuela
+T79	ORG_VIVO 6289 6297	enfermos
+T80	ORG_VIVO 6411 6423	convivientes
+T81	ORG_VIVO 7093 7097	hija
+T82	ORG_VIVO 7684 7692	infancia
+T83	ORG_VIVO 7863 7867	hija
+T84	ORG_VIVO 7927 7935	paciente
+T85	ORG_VIVO 8757 8767	familiares
+T86	ORG_VIVO 8775 8779	hija
+T87	ORG_VIVO 8872 8881	educadora
+T88	ORG_VIVO 9110 9114	hija
+T89	ORG_VIVO 9738 9742	hija
+T90	ORG_VIVO 9845 9853	familiar
+T91	ORG_VIVO 9899 9906	menores
+T92	ORG_VIVO 9911 9915	hija
+T93	ORG_VIVO 9957 9962	chico
+T94	ORG_VIVO 10086 10090	hija
+T95	ORG_VIVO 10291 10298	jóvenes
+T96	ORG_VIVO 10437 10447	psiquiatra
+T97	ORG_VIVO 10468 10477	terapeuta
+T98	ORG_VIVO 10502 10520	trabajadora social
+T99	ORG_VIVO 10525 10541	educadora social
+T100	ORG_VIVO 10547 10558	coterapeuta
+T101	ENFERMEDAD 214 230	abuso de cocaína
+T102	ENFERMEDAD 1163 1191	proceso avanzado de demencia
+T103	ENFERMEDAD 3049 3057	suicidio
+T104	FAMILIAR-PROFESION 298 314	chófer de camión
+T105	PACIENTE-SITUACION_LABORAL 382 407	cuidadora de los hermanos
+T106	OTROS-PROFESION 3224 3238	equipo del cAS
+T107	SANITARIO-PROFESION 10437 10462	psiquiatra psicoterapeuta
+T108	SANITARIO-PROFESION 10468 10477	terapeuta
+T109	OTROS-PROFESION 10502 10520	trabajadora social
+T110	OTROS-PROFESION 3542 3559	directora del cAS
+T111	OTROS-PROFESION 5052 5070	educadores del cAS
+T112	OTROS-PROFESION 8872 8889	educadora del cAS
+T113	OTROS-PROFESION 10426 10435	directora
+T114	OTROS-PROFESION 10525 10541	educadora social
+T115	SANITARIO-PROFESION 10547 10566	coterapeuta del cAS

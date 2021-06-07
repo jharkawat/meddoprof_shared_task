@@ -1,0 +1,73 @@
+T1	SINTOMA 116 130	visión borrosa
+T2	SINTOMA 169 181	miodesopsias
+T3	SINTOMA 228 260	disminución de la agudeza visual
+T4	SINTOMA 515 523	diplopía
+T5	SINTOMA 525 531	fiebre
+T6	SINTOMA 533 540	cefalea
+T7	SINTOMA 542 554	dolor ocular
+T8	SINTOMA 557 567	periocular
+T9	SINTOMA 569 576	náuseas
+T10	SINTOMA 578 585	vómitos
+T11	SINTOMA 587 610	claudicación mandibular
+T12	SINTOMA 728 746	exantema en tronco
+T13	SINTOMA 786 802	erupción cutánea
+T14	SINTOMA 933 956	localizas en la espalda
+T15	SINTOMA 961 972	pruriginosa
+T16	SINTOMA 1255 1317	edema de papila con tortuosidad de los vasos venosos en retina
+T17	PROCEDIMIENTO 363 385	RM craneal y de órbita
+T18	PROCEDIMIENTO 753 771	exploración física
+T19	PROCEDIMIENTO 1106 1129	exploración neurológica
+T20	PROCEDIMIENTO 1235 1247	fondo de ojo
+T21	PROCEDIMIENTO 1378 1404	serología de autoinmunidad
+T22	PROCEDIMIENTO 1422 1442	serología infecciosa
+T23	PROCEDIMIENTO 1642 1656	punción lumbar
+T24	PROCEDIMIENTO 1771 1803	serología a Borrelia y a Brucela
+T25	PROCEDIMIENTO 1821 1834	serología RPR
+T26	PROCEDIMIENTO 1860 1874	ecocardiograma
+T27	PROCEDIMIENTO 1927 1939	RM de cráneo
+T28	PROCEDIMIENTO 2154 2177	tratamiento antibiótico
+T29	NEG 18 21	sin
+T30	NSCO 22 30	alergias
+T31	NEG 504 506	no
+T32	NSCO 507 621	refería diplopía, fiebre, cefalea, dolor ocular o periocular, náuseas, vómitos, claudicación mandibular o artritis
+T33	NEG 958 960	no
+T34	NSCO 961 972	pruriginosa
+T35	NEG 976 978	no
+T36	NSCO 979 991	descamativas
+T37	NEG 993 995	No
+T38	NSCO 996 1054	tenía lesiones en otros lugares ni se palpaban adenopatías
+T39	NEG 1193 1205	ausencia del
+T40	NSCO 1206 1230	reflejo pupilar aferente
+T41	NEG 1409 1417	negativa
+T42	NEG 1447 1455	negativa
+T43	NSCO 1456 1468	para Brucela
+T44	NEG 1758 1766	negativo
+T45	NEG 1808 1816	negativa
+T46	NEG 1847 1855	negativa
+T47	FARMACO 2182 2201	Penicilina G sódica
+T48	ORG_VIVO 0 5	Varón
+T49	ORG_VIVO 196 207	oftalmólogo
+T50	ORG_VIVO 495 503	paciente
+T51	ORG_VIVO 1461 1468	Brucela
+T52	ORG_VIVO 1470 1478	Borrelia
+T53	ORG_VIVO 1480 1491	Rickecttsia
+T54	ORG_VIVO 1493 1496	VIH
+T55	ORG_VIVO 1498 1519	virus de Ebstein-Barr
+T56	ORG_VIVO 1523 1540	Toxoplasma gondii
+T57	ORG_VIVO 1562 1580	Treponema pallidum
+T58	ORG_VIVO 1629 1636	FTA-Abs
+T59	ORG_VIVO 1783 1791	Borrelia
+T60	ORG_VIVO 1796 1803	Brucela
+T61	ENFERMEDAD 63 74	hepatitis A
+T62	ENFERMEDAD 169 181	miodesopsias
+T63	ENFERMEDAD 317 326	papilitis
+T64	ENFERMEDAD 613 621	artritis
+T65	ENFERMEDAD 786 906	erupción cutánea en forma de máculas eritematosas de forma ovoide, y localizadas en abdomen con predominio periumbilical
+T66	ENFERMEDAD 1043 1054	adenopatías
+T67	ENFERMEDAD 1337 1373	hemorragias en astilla peripapilares
+T68	ENFERMEDAD 1984 2003	papilitis en el ojo
+T69	ENFERMEDAD 2016 2023	Sífilis
+T70	ENFERMEDAD 2047 2091	sífilis secundaria por la afectación cutánea
+T71	ENFERMEDAD 2097 2106	neurolúes
+T72	ENFERMEDAD 2119 2144	enfermedad ocular luética
+T73	SANITARIO-PROFESION 196 207	oftalmólogo

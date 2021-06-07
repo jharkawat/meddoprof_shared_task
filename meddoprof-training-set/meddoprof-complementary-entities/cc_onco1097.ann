@@ -1,0 +1,82 @@
+T1	SINTOMA 63 77	dolor cervical
+T2	SINTOMA 243 281	parestesias en los miembros superiores
+T3	SINTOMA 284 344	alteración de la sensibilidad en las extremidades inferiores
+T4	SINTOMA 989 1003	Normocoloreado
+T5	SINTOMA 1097 1117	escleras anictéricas
+T6	SINTOMA 1155 1216	Dolor a la puñopercusión en las apófisis espinosas cervicales
+T7	SINTOMA 1218 1234	Abdomen indoloro
+T8	SINTOMA 1590 1637	reflejos osteotendinosos presentes y simétricos
+T9	SINTOMA 1722 1768	parestesias distales en la extremidad superior
+T10	SINTOMA 3783 3791	disfonía
+T11	SINTOMA 3829 3837	disfagia
+T12	SINTOMA 4020 4034	dolor cervical
+T13	PROCEDIMIENTO 143 160	antiinflamatorios
+T14	PROCEDIMIENTO 204 213	analgesia
+T15	PROCEDIMIENTO 772 833	polipectomía con asa de diatermia de adenoma tubular de colon
+T16	PROCEDIMIENTO 950 963	Examen físico
+T17	PROCEDIMIENTO 1119 1146	Auscultación cardiopulmonar
+T18	PROCEDIMIENTO 1299 1322	exploración neurológica
+T19	PROCEDIMIENTO 1863 1901	Radiografía simple de columna cervical
+T20	PROCEDIMIENTO 1975 2001	TC tóraco-abdómino-pélvica
+T21	PROCEDIMIENTO 2092 2111	RM columna cervical
+T22	PROCEDIMIENTO 2259 2262	EMG
+T23	PROCEDIMIENTO 2276 2291	electromiograma
+T24	PROCEDIMIENTO 2294 2311	electroneurograma
+T25	PROCEDIMIENTO 3195 3241	corpectomía de los cuerpos vertebrales C6 y C7
+T26	PROCEDIMIENTO 3244 3275	descompresión del canal medular
+T27	PROCEDIMIENTO 3277 3328	colocando un implante y una placa cervical anterior
+T28	PROCEDIMIENTO 3436 3469	potenciales evocados somestésicos
+T29	PROCEDIMIENTO 3569 3597	potenciales evocados motores
+T30	PROCEDIMIENTO 3907 3921	rehabilitación
+T31	PROCEDIMIENTO 4050 4059	analgesia
+T32	PROCEDIMIENTO 4152 4165	quimioterapia
+T33	NEG 897 900	Sin
+T34	NSCO 901 947	antecedentes familiares oncológicos de interés
+T35	NEG 1023 1025	No
+T36	NSCO 1026 1047	adenopatías palpables
+T37	NEG 1236 1239	sin
+T38	NSCO 1240 1284	masas ni megalias palpables a la exploración
+T39	NEG 1425 1427	No
+T40	NSCO 1428 1487	alteraciones en la comprensión ni construcción del lenguaje
+T41	NEG 1796 1799	sin
+T42	NSCO 1800 1834	aumento de la base de sustentación
+T43	NEG 2075 2078	sin
+T44	NSCO 2079 2088	hallazgos
+T45	UNC 2312 2327	compatibles con
+T46	USCO 2328 2441	datos de afectación neurógena de características crónicas en la musculatura dependiente del nivel C6-C7 bilateral
+T47	NEG 3672 3675	sin
+T48	NSCO 3676 3712	modificaciones al finalizar la misma
+T49	NEG 3967 3982	desaparición de
+T50	NSCO 3983 4017	la focalidad neurológica sensitiva
+T51	NEG 4136 4148	se desestima
+T52	NSCO 4149 4175	la quimioterapia adyuvante
+T53	NEG 4596 4598	no
+T54	NSCO 4599 4628	indican tratamiento adyuvante
+T55	FARMACO 564 574	alopurinol
+T56	ORG_VIVO 10 15	Varón
+T57	ORG_VIVO 92 119	médico de Atención Primaria
+T58	ORG_VIVO 394 404	personales
+T59	ORG_VIVO 914 924	familiares
+T60	ORG_VIVO 3765 3773	paciente
+T61	ENFERMEDAD 414 435	hipertensión arterial
+T62	ENFERMEDAD 457 476	hipercolesterolemia
+T63	ENFERMEDAD 509 522	hiperuricemia
+T64	ENFERMEDAD 540 544	gota
+T65	ENFERMEDAD 584 605	meningitis bacteriana
+T66	ENFERMEDAD 632 657	parálisis facial residual
+T67	ENFERMEDAD 720 739	lipoma en el flanco
+T68	ENFERMEDAD 809 833	adenoma tubular de colon
+T69	ENFERMEDAD 1026 1037	adenopatías
+T70	ENFERMEDAD 1334 1350	parálisis facial
+T71	ENFERMEDAD 1916 1970	destrucción de cuerpos vertebrales cervicales (C6 y C7
+T72	ENFERMEDAD 2016 2055	lesión lítica, multiloculada en C6 y C7
+T73	ENFERMEDAD 2126 2184	lesión lítica expansiva en los cuerpos vertebrales C6 y C7
+T74	ENFERMEDAD 2201 2255	estenosis del canal y compresión de la médula cervical
+T75	ENFERMEDAD 2337 2431	afectación neurógena de características crónicas en la musculatura dependiente del nivel C6-C7
+T76	ENFERMEDAD 2977 3007	tumor de estirpe cartilaginosa
+T77	ENFERMEDAD 3028 3064	afectación tumoral por condrosarcoma
+T78	ENFERMEDAD 3113 3157	Condrosarcoma óseo de cuerpo vertebral C6-C7
+T79	ENFERMEDAD 3351 3400	infiltración ósea por condrosarcoma de bajo grado
+T80	ENFERMEDAD 3783 3826	disfonía por lesión del recurrente laríngeo
+T81	ENFERMEDAD 4673 4700	condrosarcoma de bajo grado
+T82	SANITARIO-PROFESION 92 119	médico de Atención Primaria

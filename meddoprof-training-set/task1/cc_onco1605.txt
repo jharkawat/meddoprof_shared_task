@@ -1,0 +1,42 @@
+Anamnesis
+Mujer de 50 años de edad, trabajadora de la limpieza, fumadora de 32 paquetes-año sin otros hábitos tóxicos. Destaca entre sus antecedentes personales un síndrome ansioso depresivo, bocio multinodular con hipertiroidismo, hipoacusia bilateral de transmisión, síndrome del túnel del carpo bilateral, condrocalcinosis, peritroncanteritis, espondiloartrosis, hepatopatía medicamentosa. Alergia a penicilina. Entre sus antecedentes familiares oncológicos, refiere padre fallecido por carcinoma hepático y tía paterna por carcinoma de mama.
+En abril 2011 comienza con alteración sensitiva (parestesia y disestesia) ascendente en ambos miembros inferiores (primero en extremidad inferior derecha hasta raíz de muslo y días después en la extremidad izquierda). En julio 2011, de forma aguda, presenta sensación de inestabilidad con dificultad para la marcha y dificultad articulatoria del lenguaje de carácter progresivo y fluctuante. Había tenido distermia y pérdida ponderal progresiva de, aproximadamente, 6-7 kg en esos meses.
+
+Exploración física
+Exploración neurológica: nistagmus horizontal en las miradas laterales extremas y nistagmus vertical en la supraversión. Campimetría por confrontación, movimientos oculares intrínsecos y extrínsecos y resto de pares craneales normales. Hipoestesia termoalgésica en pierna derecha y cara anterior de muslo izquierdo. Motor normal. Reflejos osteotendinosos 2/4 en miembros superiores y abolidos en miembros inferiores. Reflejo cutaneoplantar flexor bilateral. Leve dismetría dedo-nariz bilateral. Marcha atáxica. Resto de la exploración general sin hallazgos relevantes.
+
+Pruebas complementarias
+• Hemograma: normal. VSG 19 1.a hora.
+• Bioquímica: GOT 60 U/L; GPT 200 U/L; GGT 79 U/L; calcio 10,3 mg/dL; PCR 0,1 mg/dL; resto normal. ECA 22.
+• Coagulación: normal.
+• Proteinograma e inmunoglobulinas normales. ANA + moteado 1/320 y ENA negativos. TSH, T3 y anticuerpos antitiroideos normales.
+• Marcadores tumorales: CEA, AFP, CA-125, CA-15.3 y GYCAK normales. CEA-72.4 11,4 U/mL; CYFRA-21: 3,5 U/mL.
+• Serología: VHB, VHC, VHA, VIH, lúes, borrelia negativos. IgG-CMV +.
+• Estudio del líquido cefalorraquídeo: biocitoquímica: glucosa 72 m/dL (DTT 111); leucocitos 4; proteínas 187 mg/dL. Citología sin alteraciones significativas. PCR para micobacterias negativa.
+• Electrocardiograma y ecocardiografía: normales.
+• Potenciales evocados multimodales: normales.
+• Radiografía de tórax: sin hallazgos significativos.
+• RM cerebral con/sin gadolinio, incluida espectroscopia y angio-RM de cuello y cráneo (29 de julio de 2011): lesiones temporal izquierda y frontal anterior paramedial izquierda, que afectan a corteza y región subcortical, carecen de edema y efecto masa significativo, siendo hiperintensas en Flair, T2 y secuencia potenciada en difusión, aunque su coeficiente difusión está aumentado. Tras contraste paramagnético no experimentan realce. Sugieren un carácter isquémico agudo. Otras opciones son patología inflamatoria/desmielinizante o tumoraciones gliales escasamente agresivas en el contexto de gliomatosis. Se aprecian varias lesiones puntiformes hiperintensas en Flair, compatibles con pequeñas lesiones isquémicas crónicas. No presenta alteraciones significativas en troncos supraaórticos.
+• RM de columna: relieve mixto discoosteofitario posterior C5-C6 con cierta estenosis del canal y de forámenes de conjunción C5-C6, sin evidencia de compresión medular. A nivel dorsal medio, imagen de relieve posterior que impronta de forma suave en el espacio subaracnoideo premedular sin signos de afectación medular.
+• TC toracoabdominopélvica: pequeña masa de partes blandas a nivel de la parte derecha de la bifurcación traqueal, que asoma en el bronquio principal derecho, no experimenta captación de contraste y, aunque es inespecífica, el hecho de que coexistan dos adenopatías mediastínicas, una carinal y la otra pretraqueal derecha, hace que no se pueda descartar una incipiente neoplasia.
+• RM de control con y sin gadolinio incluida espectroscopia (10 de agosto de 2011): tras tratamiento corticoideo, ambas lesiones han experimentado una disminución de señal y de tamaño. Siguen sin realzar tras el contraste. Hemos realizado espectroscopia sobre la lesión frontal, apreciándose disminución del N-acetilaspartato y aumento moderado de la colina. Se considera encefalitis autoinmune paraneoplásica.
+• Anticuerpos antineuronales: anti-Yo, anti-RI, anti-CV2, anti-Ma1 negativos y anti-Hu+ >1/100.
+• PET-TC: aumentos de metabolismos nodulares a nivel de mediastino, estaciones 2R (SUV máx. 12,30), 4R (SUV máx. 12,23) e hiliar derecha (SUV máx. 6,28).
+• Broncoscopia: normal. Se realiza cepillado citológico en región anterior de carina donde se aprecia un festoneado de la mucosa. Se realizan varias punciones de adenopatía 4R con citólogo in situ. Anatomía patológica: ausencia de células neoplásicas.
+
+Evolución
+Con el diagnóstico de encefalitis paraneoplásica con anticuerpos anti-Hu positivos es trasladada a nuestra Unidad. Dada la ausencia de diagnóstico histopatológico de neoplasia, se solicita mediastinoscopia.
+El día 7 de septiembre de 2011, se realiza videomediastinoscopia cervical con biopsia de adenopatías mediastínicas paratraqueales. El resultado es compatible con carcinoma anaplásico de células pequeñas tipo mixto (células pequeñas/células grandes). Ki-67 alto > 60 %.
+
+Diagnóstico
+Encefalitis paraneoplásica con anticuerpos anti-Hu positivos. Carcinoma anaplásico de células pequeñas de tipo mixto (células pequeñas/células grandes). CD56+, cromogranina–, sinaptofisina–/+, enolasa–, CKAE1/AE3–, CK7–, CK20–, CD45–, S100–, MELAN A–, HMB45–, CEA–, EMA–, TTF1–. Ki-67 > 60%.
+
+Tratamiento
+Se cataloga como carcinoma anaplásico de células pequeñas con encefalitis paraneoplásica y tras valoración en sesión clínica se decide tratamiento con radioterapia y quimioterapia. Inicia el primer ciclo el 23 de septiembre de 2011, previsto radioterapia y quimioterapia concomitante con el segundo, el 17 de octubre de 2011. Del día 18 de octubre de 2011 al 28 de noviembre de 2011 recibe tratamiento con irradiación externa sobre la región torácica (lesión pulmonar y áreas ganglionares mediastínicas), mediante campos conformados en 3D, administrándose una dosis de 50 Gy, fraccionamiento 2 Gy cinco días a la semana.
+
+Evolución
+Durante el tratamiento, presenta deterioro del estado general con astenia y debilidad, más acusada en miembros inferiores, inestabilidad en la marcha y sensación permanente de mareo con cefalea leve que le impide la deambulación y la bipedestación. Continúa con quimioterapia hasta seis ciclos (último el 6 de febrero de 2012), persistiendo dicha sintomatología.
+El día 20 de febrero de 2012 acude al Servicio de Urgencias por deterioro neurológico consistente en alteración del lenguaje y de la orientación temporoespacial.
+Se solicita RM cerebral que muestra la práctica desaparición de las lesiones previas. Se aprecian algunas pequeñas imágenes hiperintensas T2 y Flair a nivel de la sustancia blanca supratentorial que no parecen guardar relación con las anteriores. Deben tratarse de áreas de leucoencefalopatía de probable origen vascular oclusivo crónico o pequeños infartos isquémicos lacunares profundos. Se observa un realce contrastado dural tenue que podría corresponderse también con cambios secuelares a su patología inflamatoria previa, siendo menos probable que se tratara de carcinomatosis leptomeníngea.
+Se pauta dexametasona 8 mg cada 8 horas e inicia radioterapia holocraneal. Sin embargo, en curso de tratamiento, presenta empeoramiento neurológico y se decide suspender el mismo. Se indica punción lumbar que, finalmente, no se lleva a cabo por pancitopenia grado 4. Se administra tratamiento sintomático sin mejoría, presentando un cuadro confusional con agitación psicomotriz y disminución progresiva del nivel de conciencia. Dado el empeoramiento rápidamente progresivo, se decide limitar el esfuerzo terapéutico y es trasladada a la Unidad de Cuidados
+Paliativos donde empeora ulteriormente, asociando anasarca y edema pulmonar y fallece el 2 de abril de 2012 por insuficiencia respiratoria.

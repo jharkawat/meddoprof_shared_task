@@ -1,0 +1,48 @@
+T1	SINTOMA 169 174	mareo
+T2	SINTOMA 217 230	inestabilidad
+T3	SINTOMA 232 239	Náuseas
+T4	SINTOMA 242 249	vómitos
+T5	SINTOMA 545 555	Consciente
+T6	SINTOMA 557 566	orientado
+T7	SINTOMA 1116 1137	hipoestesia en a cara
+T8	SINTOMA 1192 1216	Disestesia en hemicuerpo
+T9	SINTOMA 1523 1529	edemas
+T10	PROCEDIMIENTO 492 510	Exploración física
+T11	PROCEDIMIENTO 1312 1370	prueba dedo-nariz y talón rodilla en extremidades derechas
+T12	PROCEDIMIENTO 1593 1596	ECG
+T13	PROCEDIMIENTO 1688 1700	TAC cerebral
+T14	PROCEDIMIENTO 1918 1920	RM
+T15	PROCEDIMIENTO 1932 1943	RM cerebral
+T16	PROCEDIMIENTO 1955 1976	administración de CIV
+T17	NEG 265 267	No
+T18	NSCO 268 313	reacciones alérgicas medicamentosas conocidas
+T19	NEG 315 317	No
+T20	NSCO 318 330	hipertensión
+T21	NEG 769 771	no
+T22	NSCO 772 828	realiza abducción ojo izquierdo ni adducción del derecho
+T23	NEG 1435 1438	sin
+T24	NSCO 1439 1445	soplos
+T25	NEG 1447 1449	No
+T26	NSCO 1450 1467	soplos carotídeos
+T27	NEG 1493 1496	sin
+T28	NSCO 1497 1512	ruidos añadidos
+T29	NEG 1520 1522	no
+T30	NSCO 1523 1529	edemas
+T31	NEG 1618 1620	no
+T32	NSCO 1621 1632	alt CAV-CIV
+T33	NEG 1634 1636	no
+T34	NSCO 1637 1686	signos de isquemia aguda ni alt de repolarización
+T35	NEG 1702 1705	Sin
+T36	NSCO 1706 1806	alteraciones morfológicas ni densitométricas en parénquima cereberal, cerebeloso ni troncoencefálico
+T37	NEG 1808 1811	Sin
+T38	NSCO 1812 1916	alteraciones significativas en estructuras óseas, senos paranasales ni celdillas mastoideas visualizadas
+T39	NEG 1944 1947	sin
+T40	NSCO 1948 1976	y tras administración de CIV
+T41	FARMACO 460 473	atorvastatina
+T42	ORG_VIVO 20 28	Paciente
+T43	ENFERMEDAD 268 303	reacciones alérgicas medicamentosas
+T44	ENFERMEDAD 318 330	hipertensión
+T45	ENFERMEDAD 332 349	Diabetes mellitus
+T46	ENFERMEDAD 351 361	Dislipemia
+T47	ENFERMEDAD 1647 1661	isquemia aguda
+T48	PACIENTE-PROFESION 97 119	en el campo trabajando

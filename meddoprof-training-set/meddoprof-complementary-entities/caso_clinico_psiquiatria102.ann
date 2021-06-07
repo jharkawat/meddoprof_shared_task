@@ -1,0 +1,18 @@
+T1	SINTOMA 381 387	disnea
+T2	SINTOMA 389 430	dolor precordial tipo picada no irradiado
+T3	SINTOMA 432 459	temblor en las extremidades
+T4	SINTOMA 461 475	desrealización
+T5	SINTOMA 477 515	parestesias en los miembros superiores
+T6	SINTOMA 517 527	diaforesis
+T7	SINTOMA 725 733	inquieto
+T8	NEG 329 332	sin
+T9	NSCO 333 354	evento desencadenante
+T10	UNC 355 363	aparente
+T11	USCO 364 387	y acompañados de disnea
+T12	NEG 418 420	no
+T13	NSCO 421 430	irradiado
+T14	NEG 666 674	cediendo
+T15	NSCO 675 694	en forma espontanea
+T16	ORG_VIVO 0 8	Paciente
+T17	ENFERMEDAD 302 310	ansiedad
+T18	PACIENTE-PROFESION 74 81	albañil

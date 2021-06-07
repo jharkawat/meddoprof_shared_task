@@ -1,0 +1,80 @@
+T1	SINTOMA 45 57	obnubilación
+T2	SINTOMA 59 67	cefaleas
+T3	SINTOMA 216 232	pulsos femorales
+T4	SINTOMA 566 578	obnubilación
+T5	SINTOMA 581 588	cefalea
+T6	SINTOMA 814 821	fumador
+T7	SINTOMA 851 862	alcoholismo
+T8	SINTOMA 1108 1115	cefalea
+T9	SINTOMA 1117 1124	vómitos
+T10	SINTOMA 1126 1138	obnubilación
+T11	SINTOMA 1241 1252	somnoliento
+T12	SINTOMA 1260 1269	orientado
+T13	SINTOMA 1272 1283	colaborador
+T14	SINTOMA 1531 1571	Abdomen; blando, depresible, no doloroso
+T15	SINTOMA 1616 1627	peritonismo
+T16	SINTOMA 1659 1665	edemas
+T17	SINTOMA 2304 2317	cardiomegalia
+T18	PROCEDIMIENTO 340 388	angioplastia con implante de stent farmacoactivo
+T19	PROCEDIMIENTO 1188 1206	Exploración física
+T20	PROCEDIMIENTO 1335 1366	auscultación cardiorespiratoria
+T21	PROCEDIMIENTO 1919 1928	hemograma
+T22	PROCEDIMIENTO 2128 2131	EKG
+T23	PROCEDIMIENTO 2272 2292	Radiografía de tórax
+T24	PROCEDIMIENTO 2372 2382	TC Craneal
+T25	PROCEDIMIENTO 2483 2496	proteinograma
+T26	PROCEDIMIENTO 2550 2565	Ecocardiografía
+T27	PROCEDIMIENTO 2754 2767	doppler renal
+T28	PROCEDIMIENTO 2882 2897	Angio-RMN tórax
+T29	PROCEDIMIENTO 3354 3419	angioplastia con implante de stent farmacoactivo en aorta ístmica
+T30	NEG 204 215	ausencia de
+T31	NSCO 216 232	pulsos femorales
+T32	NEG 776 778	No
+T33	NSCO 779 812	alergias a medicamentos conocidas
+T34	NEG 848 850	no
+T35	NSCO 851 862	alcoholismo
+T36	NEG 911 914	sin
+T37	NSCO 915 935	realizar tratamiento
+T38	NEG 937 939	No
+T39	NSCO 940 1008	presenta otras enfermedades de interés ni intervenciones quirúrgicas
+T40	NEG 1560 1562	no
+T41	NSCO 1563 1571	doloroso
+T42	NEG 1573 1576	sin
+T43	NSCO 1577 1594	masas ni megalias
+T44	NEG 1596 1598	no
+T45	NSCO 1599 1627	signos agudos de peritonismo
+T46	NEG 1646 1648	no
+T47	NSCO 1649 1704	presentan edemas ni signos de trombosis venosa profunda
+T48	NEG 2118 2126	negativo
+T49	NEG 2233 2236	sin
+T50	NSCO 2237 2270	alteraciones de la repolarización
+T51	NEG 2319 2322	sin
+T52	NSCO 2323 2370	hallazgos patológicos en parénquimas pulmonares
+T53	NEG 2383 2386	sin
+T54	NSCO 2387 2427	alteraciones significativas para su edad
+T55	UNC 2617 2629	sugestiva de
+T56	USCO 2630 2669	coartación aortica con flujo turbulento
+T57	NEG 2812 2815	sin
+T58	NSCO 2816 2845	datos de uropatía obstructiva
+T59	NEG 2864 2867	sin
+T60	NSCO 2868 2877	estenosis
+T61	NEG 3461 3475	desapareciendo
+T62	NSCO 3476 3511	toda la sintomatología acompañante
+T63	ORG_VIVO 0 5	Varón
+T64	ORG_VIVO 419 427	paciente
+T65	ORG_VIVO 463 468	varón
+T66	ORG_VIVO 684 694	personales
+T67	ORG_VIVO 737 747	trabajador
+T68	ORG_VIVO 764 774	agricultor
+T69	ORG_VIVO 3623 3631	paciente
+T70	ENFERMEDAD 907 910	HTA
+T71	ENFERMEDAD 1679 1704	trombosis venosa profunda
+T72	ENFERMEDAD 2198 2221	hipertrofia ventricular
+T73	ENFERMEDAD 2630 2648	coartación aortica
+T74	ENFERMEDAD 2825 2845	uropatía obstructiva
+T75	ENFERMEDAD 2847 2863	arterias renales
+T76	ENFERMEDAD 2920 2954	coartación severa de aorta ístmica
+T77	ENFERMEDAD 3170 3195	coartación aórtica severa
+T78	ENFERMEDAD 3210 3213	HTA
+T79	ENFERMEDAD 3218 3244	encefalopatía hipertensiva
+T80	PACIENTE-PROFESION 764 774	agricultor

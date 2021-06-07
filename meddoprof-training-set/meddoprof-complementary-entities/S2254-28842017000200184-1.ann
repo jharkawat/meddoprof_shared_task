@@ -1,0 +1,97 @@
+T1	SINTOMA 379 389	sextigesta
+T2	SINTOMA 2061 2090	movimientos fetales positivos
+T3	SINTOMA 2917 2923	edemas
+T4	SINTOMA 3131 3139	dolorosa
+T5	SINTOMA 3907 3936	edemas en miembros inferiores
+T6	SINTOMA 3951 3972	alteraciones cutáneas
+T7	SINTOMA 4340 4349	cansancio
+T8	SINTOMA 4431 4440	orientada
+T9	SINTOMA 4522 4557	dolor derivado de las contracciones
+T10	SINTOMA 5573 5600	eloisafdezordonez@gmail.com
+T11	PROCEDIMIENTO 578 600	tratamiento tocolítico
+T12	PROCEDIMIENTO 836 848	hemodiálisis
+T13	PROCEDIMIENTO 1057 1101	hemodiálisis con catéter vascular tunelizado
+T14	PROCEDIMIENTO 1134 1148	parto eutócico
+T15	PROCEDIMIENTO 1185 1197	hemodiálisis
+T16	PROCEDIMIENTO 1478 1486	diálisis
+T17	PROCEDIMIENTO 1983 2001	estudio ecográfico
+T18	PROCEDIMIENTO 2107 2116	biometría
+T19	PROCEDIMIENTO 2209 2226	Doppler umbilical
+T20	PROCEDIMIENTO 2313 2348	maduración pulmonar con corticoides
+T21	PROCEDIMIENTO 2361 2382	controles ecográficos
+T22	PROCEDIMIENTO 2385 2405	monitorización fetal
+T23	PROCEDIMIENTO 2441 2453	hemodiálisis
+T24	PROCEDIMIENTO 2965 2989	transfusiones sanguíneas
+T25	PROCEDIMIENTO 3001 3013	hemodiálisis
+T26	PROCEDIMIENTO 3146 3170	exploración ginecológica
+T27	PROCEDIMIENTO 3217 3222	parto
+T28	PROCEDIMIENTO 3246 3251	parto
+T29	PROCEDIMIENTO 3298 3312	parto eutócico
+T30	NEG 699 702	sin
+T31	NSCO 703 718	interés clínico
+T32	NSCO 719 750	Antecedentes personales de ITUs
+T33	NEG 1933 1935	No
+T34	NSCO 1936 1975	se objetiva salida de líquido amniótico
+T35	NEG 3271 3274	sin
+T36	NSCO 3275 3286	incidencias
+T37	NEG 3438 3441	sin
+T38	NSCO 3442 3456	complicaciones
+T39	NEG 3669 3672	-No
+T40	NSCO 3673 3715	presenta alergias medicamentosas conocidas
+T41	NEG 3717 3720	-No
+T42	NSCO 3721 3744	refiere hábitos tóxicos
+T43	NEG 3938 3941	-No
+T44	NSCO 3942 3972	presenta alteraciones cutáneas
+T45	NEG 4276 4278	no
+T46	NSCO 4279 4304	poder dormir más debido a
+T47	NEG 4442 4445	-No
+T48	NSCO 4446 4510	presenta dificultad para el entendimiento de su proceso de salud
+T49	NEG 5072 5075	sin
+T50	NSCO 5076 5083	valorar
+T51	NEG 5206 5208	no
+T52	NSCO 5209 5233	puede cuidar a sus hijos
+T53	FARMACO 2739 2753	eritropoyetina
+T54	FARMACO 2773 2781	heparina
+T55	ORG_VIVO 10 18	paciente
+T56	ORG_VIVO 358 366	Paciente
+T57	ORG_VIVO 451 458	materna
+T58	ORG_VIVO 650 660	Personales
+T59	ORG_VIVO 663 673	Familiares
+T60	ORG_VIVO 688 698	familiares
+T61	ORG_VIVO 732 742	personales
+T62	ORG_VIVO 1466 1474	maternas
+T63	ORG_VIVO 1517 1521	feto
+T64	ORG_VIVO 1586 1594	gestante
+T65	ORG_VIVO 1784 1791	matrona
+T66	ORG_VIVO 2013 2017	feto
+T67	ORG_VIVO 2073 2080	fetales
+T68	ORG_VIVO 2400 2405	fetal
+T69	ORG_VIVO 2613 2621	paciente
+T70	ORG_VIVO 3190 3198	paciente
+T71	ORG_VIVO 3317 3330	recién nacido
+T72	ORG_VIVO 3337 3342	varón
+T73	ORG_VIVO 4139 4144	hijos
+T74	ORG_VIVO 4202 4213	ama de casa
+T75	ORG_VIVO 4315 4320	hijos
+T76	ORG_VIVO 4376 4381	hijos
+T77	ORG_VIVO 4695 4699	bebé
+T78	ORG_VIVO 4779 4785	pareja
+T79	ORG_VIVO 4792 4797	hijos
+T80	ORG_VIVO 4842 4849	familia
+T81	ORG_VIVO 4881 4889	familiar
+T82	ORG_VIVO 4951 4956	madre
+T83	ORG_VIVO 4963 4970	hermana
+T84	ORG_VIVO 5024 5029	hijos
+T85	ORG_VIVO 5228 5233	hijos
+T86	ENFERMEDAD 423 458	insuficiencia renal crónica materna
+T87	ENFERMEDAD 746 750	ITUs
+T88	ENFERMEDAD 752 774	litiasis de repetición
+T89	ENFERMEDAD 776 803	Insuficiencia Renal Crónica
+T90	ENFERMEDAD 805 808	IRC
+T91	ENFERMEDAD 857 876	hiperparatiroidismo
+T92	ENFERMEDAD 890 904	anemia crónica
+T93	ENFERMEDAD 942 961	pielonefritis aguda
+T94	ENFERMEDAD 1306 1309	IRC
+T95	PACIENTE-SITUACION_LABORAL 4800 4811	Ama de casa
+T96	SANITARIO-PROFESION 315 321	Médico
+T97	PACIENTE-SITUACION_LABORAL 4202 4213	ama de casa

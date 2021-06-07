@@ -1,0 +1,29 @@
+Motivo de consulta
+Síndrome constitucional.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: mujer de 27 años con antecedente de episodios de anemización leve por menorragias, acude a su centro de salud por presentar desde hace meses astenia, malestar general, anorexia, sudoración nocturna con picos febriles de predominio vespertino junto a periodos de hipermenorreas sin otra sintomatología acompañante.
+
+La exploración física impresiona de gravedad encontrando frialdad y gran palidez cutánea, tensión arterial 91/55 lpm, fiebre de 39 oC sin foco aparente, adenopatías bilaterales cervicales más predominantes izquierdas y supraclaviculares. La auscultación cardiopulmonar y la exploración abdominal así como la del resto de aparatos son normales. Dada la gravedad clínica se decide derivar a urgencias hospitalarias.
+
+Pruebas complementarias en urgencias:
+-Se realiza ECG donde se visualiza taquicardia sinusal.
+-En analítica destaca anemia marcada con hemoglobina de 6.4, VCM 85, haptoglobina 626, ferritina 217, PCR 98 y plaquetas 608000.
+-En Radiografía de tórax se distinguen imágenes perihiliares bilaterales sugestivas de adenopatías. Se transfunde a la paciente y se ingresa en Medicina Interna con sospecha de Síndrome Linfoproliferativo para ampliar estudio.
+-Se realiza analítica completa con serología vírica (VEB, CMV, VIH, hepatovirus), vitamina B 12 y ácido fólico, ECA, ANCA y ANA, anticoagulante lúpico, coombs directo, sin encontrar alteraciones significativas salvo infección pasada por VEB.
+-Frotis de sangre periférica sin datos de hemólisis intravascular.
+-Gen JAK2, BCR/bl1 sin alteraciones.
+-Mantoux negativo.
+-En TAC de cuello y tórax se visualizan múltiples adenopatías cervicales, mediastínicas, axilares y supraclaviculares, incluso intraparotídeas que forman conglomerados en mediastino anterior. Además se aprecia lesión nodular pulmonar paramediastínica anterior en lóbulo superior izquierdo por lo que se realiza PET/TC para descartar metabolismo activo.
+-TC de abdomen normal.
+
+Se hace interconculta con hematología y cirugía general para exéresis de adenopatía laterocervical izquierda captante en PET/TC con resultado anatomopatológico congruente con linfoma de Hodgkin tipo clásico, variante celularidad mixta.
+
+Enfoque familiar y comunitario, juicio clínico
+Juicio clínico: anemia severa sintomática de procesos crónicos secundaria a linfoma de Hodgkin tipo clásico, variante celularidad mixta, agudizada por componente de ferropenia adicional. Finalmente se deriva a hematología.
+
+Se comunica el nuevo diagnóstico a la paciente y su madre a quienes les cuesta asimilar la noticia, provocando en las mismas un estado de angustia y negación. Ambas se encontraban viviendo un acontecimiento familiar estresante por el fallecimiento reciente de su padre, por lo que fue esencial el seguimiento desde Atención Primaria haciendo un abordaje psicosocial.
+
+Plan de acción y evolución
+Según la estadificación de Ann-Arbor la paciente se encontraba en un estadio II por lo que fue tratada con 8 ciclos de quimioterapia con esquema tipo ABVD seguida de radioterapia de campo afecto.
+La paciente fue seguida desde Atención Primaria donde se hizo un abordaje integral, tratando las complicaciones del tratamiento y ofreciendo apoyo psicológico a la paciente y su madre mediante visitas programadas con la psicóloga del centro de salud y con su médico de familia.

@@ -1,0 +1,85 @@
+T1	SINTOMA 57 64	fumador
+T2	SINTOMA 749 763	desorientación
+T3	SINTOMA 815 846	pérdida del nivel de conciencia
+T4	SINTOMA 849 873	relajación de esfínteres
+T5	SINTOMA 1151 1227	dolor en cadera derecha e irradiada hacia la extremidad inferior ipsilateral
+T6	SINTOMA 1880 1890	consciente
+T7	SINTOMA 1892 1901	orientado
+T8	SINTOMA 3941 3973	empeoramiento del estado general
+T9	SINTOMA 3982 3992	postración
+T10	SINTOMA 4059 4066	fallece
+T11	PROCEDIMIENTO 264 292	radiocirugía con gamma knife
+T12	PROCEDIMIENTO 553 565	radioterapia
+T13	PROCEDIMIENTO 607 631	tratamiento anticomicial
+T14	PROCEDIMIENTO 879 916	tomografía computarizada (TC) craneal
+T15	PROCEDIMIENTO 1035 1044	hemograma
+T16	PROCEDIMIENTO 1073 1100	pruebas de función hepática
+T17	PROCEDIMIENTO 1244 1262	radiografía simple
+T18	PROCEDIMIENTO 1275 1285	TC pélvica
+T19	PROCEDIMIENTO 1420 1464	biopsia con aguja gruesa (BAG) guiada por TC
+T20	PROCEDIMIENTO 1540 1558	inmunohistoquímica
+T21	PROCEDIMIENTO 1612 1630	Exploración física
+T22	PROCEDIMIENTO 2061 2071	RM pélvica
+T23	PROCEDIMIENTO 2078 2096	TC toracoabdominal
+T24	PROCEDIMIENTO 2156 2164	BAG ósea
+T25	PROCEDIMIENTO 2405 2413	BAG ósea
+T26	PROCEDIMIENTO 2802 2812	Octreoscan
+T27	PROCEDIMIENTO 3236 3259	radioterapia antiálgica
+T28	PROCEDIMIENTO 3436 3450	rehabilitación
+T29	NEG 91 94	sin
+T30	NSCO 95 128	alergias medicamentosas conocidas
+T31	NEG 131 134	sin
+T32	NSCO 135 187	antecedentes familiares ni personales de importancia
+T33	UNC 441 455	compatible con
+T34	USCO 456 516	meningioma transicional del seno cavernoso grado I de la OMS
+T35	NEG 749 763	desorientación
+T36	NEG 925 933	descartó
+T37	NSCO 934 962	patología aguda intracraneal
+T38	NEG 1016 1019	sin
+T39	NSCO 1020 1100	alteración del hemograma, ionograma, función renal o pruebas de función hepática
+T40	NEG 1509 1511	no
+T41	NSCO 1512 1519	filiado
+T42	NEG 1522 1525	sin
+T43	NSCO 1526 1558	disponerse de inmunohistoquímica
+T44	NEG 1823 1826	sin
+T45	NSCO 1827 1842	focalidad aguda
+T46	NEG 1844 1847	sin
+T47	NSCO 1848 1864	parálisis facial
+T48	NEG 1968 1971	sin
+T49	NSCO 1972 2001	déficits motores o sensitivos
+T50	UNC 2250 2264	compatible con
+T51	USCO 2265 2275	meningioma
+T52	NEG 2528 2538	determinar
+T53	NSCO 2539 2578	la presencia de mutaciones del gen TERT
+T54	NEG 2584 2586	no
+T55	NSCO 2587 2631	fue posible por mala calidad de ADN obtenido
+T56	NEG 2723 2731	negativo
+T57	FARMACO 636 649	levetiracetam
+T58	FARMACO 3064 3074	tamoxifeno
+T59	FARMACO 3093 3110	ácido zoledrónico
+T60	FARMACO 3819 3835	hidroxicarbamida
+T61	ORG_VIVO 10 15	Varón
+T62	ORG_VIVO 148 158	familiares
+T63	ORG_VIVO 162 172	personales
+T64	ORG_VIVO 1680 1688	paciente
+T65	ORG_VIVO 4050 4058	paciente
+T66	ENFERMEDAD 217 246	meningioma del seno cavernoso
+T67	ENFERMEDAD 328 344	recidiva tumoral
+T68	ENFERMEDAD 456 516	meningioma transicional del seno cavernoso grado I de la OMS
+T69	ENFERMEDAD 934 962	patología aguda intracraneal
+T70	ENFERMEDAD 1308 1342	fractura patológica a nivel iliaco
+T71	ENFERMEDAD 1499 1508	carcinoma
+T72	ENFERMEDAD 1751 1767	ptosis palpebral
+T73	ENFERMEDAD 1848 1864	parálisis facial
+T74	ENFERMEDAD 2108 2132	afectación ósea múltiple
+T75	ENFERMEDAD 2187 2201	lesión pélvica
+T76	ENFERMEDAD 2265 2275	meningioma
+T77	ENFERMEDAD 2300 2328	invasión ósea por meningioma
+T78	ENFERMEDAD 2555 2578	mutaciones del gen TERT
+T79	ENFERMEDAD 2898 2940	meningioma transicional del seno cavernoso
+T80	ENFERMEDAD 2960 2986	metástasis óseas múltiples
+T81	ENFERMEDAD 3536 3552	parálisis facial
+T82	ENFERMEDAD 3611 3657	enfermedad a nivel intracraneal y extracraneal
+T83	ENFERMEDAD 3683 3723	lesiones óseas líticas a nivel vertebral
+T84	ENFERMEDAD 3730 3760	lesión en segmento IV hepático
+T85	PACIENTE-PROFESION 28 42	administrativo

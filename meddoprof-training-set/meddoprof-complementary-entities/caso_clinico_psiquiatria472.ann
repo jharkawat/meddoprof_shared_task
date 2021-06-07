@@ -1,0 +1,91 @@
+T1	SINTOMA 1720 1736	ideas paranoides
+T2	SINTOMA 1739 1763	clínica autorreferencial
+T3	SINTOMA 2226 2249	alteraciones en apetito
+T4	SINTOMA 4055 4079	sintomatología paranoide
+T5	SINTOMA 5784 5792	ansiedad
+T6	PROCEDIMIENTO 2458 2469	TAC craneal
+T7	PROCEDIMIENTO 2504 2524	electroencefalograma
+T8	PROCEDIMIENTO 2533 2551	electrocardiograma
+T9	PROCEDIMIENTO 2559 2579	evaluación cognitiva
+T10	PROCEDIMIENTO 5558 5588	tratamiento psicofarmacológico
+T11	PROCEDIMIENTO 5810 5835	tratamiento antipsicótico
+T12	PROCEDIMIENTO 5941 5968	tratamientos antipsicóticos
+T13	NEG 2223 2225	No
+T14	NSCO 2226 2268	alteraciones en apetito o esfera del sueño
+T15	NEG 2347 2349	No
+T16	NSCO 2350 2388	presenta datos a señalar de relevancia
+T17	NEG 2415 2417	No
+T18	NSCO 2418 2469	presenta alteraciones significativas en TAC craneal
+T19	NEG 4020 4022	no
+T20	NSCO 4023 4030	consumo
+T21	UNC 4195 4202	posible
+T22	USCO 4203 4249	presencia de un trastorno del espectro bipolar
+T23	NEG 4319 4321	no
+T24	NSCO 4322 4362	ha llegado a cumplir criterios completos
+T25	UNC 4411 4418	valorar
+T26	USCO 4419 4442	otros diagnósticos como
+T27	UNC 4443 4449	podría
+T28	USCO 4450 4485	ser el de trastorno esquizoafectivo
+T29	NEG 4850 4852	no
+T30	NSCO 4853 4866	los cumpliría
+T31	UNC 4933 4940	valorar
+T32	USCO 4941 4998	la presencia de posible base de personalidad disfuncional
+T33	NEG 5082 5084	No
+T34	UNC 5253 5268	podrían valorar
+T35	USCO 5269 5322	en el contexto rasgos de la personalidad del paciente
+T36	FARMACO 3157 3172	ácido valproico
+T37	FARMACO 3247 3256	clozapina
+T38	FARMACO 5600 5609	clozapina
+T39	FARMACO 5628 5639	aripiprazol
+T40	FARMACO 5653 5668	ácido valproico
+T41	FARMACO 5701 5712	gabapentina
+T42	FARMACO 5727 5737	sertralina
+T43	FARMACO 5752 5761	lorazepam
+T44	FARMACO 5867 5876	clozapina
+T45	FARMACO 6337 6346	clozapina
+T46	FARMACO 7211 7220	clozapina
+T47	ORG_VIVO 0 5	Varón
+T48	ORG_VIVO 98 106	juventud
+T49	ORG_VIVO 286 296	personales
+T50	ORG_VIVO 375 383	hermanos
+T51	ORG_VIVO 860 868	cannabis
+T52	ORG_VIVO 3296 3304	paciente
+T53	ORG_VIVO 3644 3652	paciente
+T54	ORG_VIVO 3784 3792	cannabis
+T55	ORG_VIVO 3983 3991	paciente
+T56	ORG_VIVO 5314 5322	paciente
+T57	ORG_VIVO 5456 5464	paciente
+T58	ORG_VIVO 6184 6192	paciente
+T59	ORG_VIVO 6390 6398	paciente
+T60	ORG_VIVO 6887 6895	paciente
+T61	ORG_VIVO 7120 7128	paciente
+T62	ORG_VIVO 7164 7170	tabaco
+T63	ORG_VIVO 7288 7294	tabaco
+T64	ENFERMEDAD 205 218	esquizofrenia
+T65	ENFERMEDAD 221 256	trastorno por consumo de sustancias
+T66	ENFERMEDAD 331 348	enfermedad mental
+T67	ENFERMEDAD 485 516	dermatitis alérgica de contacto
+T68	ENFERMEDAD 638 655	distrofia macular
+T69	ENFERMEDAD 669 675	miopía
+T70	ENFERMEDAD 723 733	dislipemia
+T71	ENFERMEDAD 1554 1579	descompensación psicótica
+T72	ENFERMEDAD 1720 1736	ideas paranoides
+T73	ENFERMEDAD 2012 2018	muerte
+T74	ENFERMEDAD 3480 3493	esquizofrenia
+T75	ENFERMEDAD 3517 3541	sintomatología psicótica
+T76	ENFERMEDAD 3578 3587	paranoide
+T77	ENFERMEDAD 3681 3716	trastorno por consumo de sustancias
+T78	ENFERMEDAD 3746 3751	DSM-V
+T79	ENFERMEDAD 4055 4079	sintomatología paranoide
+T80	ENFERMEDAD 4108 4136	trastorno psicótico primario
+T81	ENFERMEDAD 4219 4249	trastorno del espectro bipolar
+T82	ENFERMEDAD 4460 4485	trastorno esquizoafectivo
+T83	ENFERMEDAD 5189 5214	trastorno de personalidad
+T84	ENFERMEDAD 5367 5406	descompensación desorganizada/paranoide
+T85	ENFERMEDAD 5784 5792	ansiedad
+T86	ENFERMEDAD 6197 6221	sintomatología psicótica
+T87	ENFERMEDAD 6671 6695	sintomatología psicótica
+T88	ENFERMEDAD 6935 6948	esquizofrenia
+T89	ENFERMEDAD 6951 6986	trastorno por consumo de sustancias
+T90	PACIENTE-SITUACION_LABORAL 313 348	cobra pensión por enfermedad mental
+T91	PACIENTE-SITUACION_LABORAL 385 399	Tiene estudios

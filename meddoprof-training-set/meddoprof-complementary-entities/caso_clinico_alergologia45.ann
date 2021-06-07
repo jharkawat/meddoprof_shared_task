@@ -1,0 +1,46 @@
+T1	SINTOMA 57 65	exantema
+T2	SINTOMA 137 143	fiebre
+T3	SINTOMA 145 152	astenia
+T4	SINTOMA 154 174	hepatoesplenomegalia
+T5	SINTOMA 206 243	elevación de reactantes de fase aguda
+T6	SINTOMA 246 266	hipertransaminasemia
+T7	SINTOMA 326 332	febril
+T8	SINTOMA 343 363	signos inflamatorios
+T9	PROCEDIMIENTO 910 937	tratamiento con corticoides
+T10	NEG 392 403	Se descarta
+T11	NSCO 404 407	VIH
+T12	NEG 611 619	negativo
+T13	NEG 701 709	negativo
+T14	NEG 712 723	se descarta
+T15	NSCO 724 767	la existencia de proceso linfoproliferativo
+T16	UNC 848 860	orienta como
+T17	USCO 861 898	artritis idiopática juvenil sistémica
+T18	FARMACO 945 962	metilprednisolona
+T19	FARMACO 965 977	prednisolona
+T20	FARMACO 1033 1044	azatioprina
+T21	FARMACO 1062 1070	anakinra
+T22	ORG_VIVO 0 4	Niña
+T23	ORG_VIVO 26 32	padres
+T24	ORG_VIVO 268 276	Vacunada
+T25	ORG_VIVO 280 283	BCG
+T26	ORG_VIVO 404 407	VIH
+T27	ORG_VIVO 450 473	gérmenes intracelulares
+T28	ORG_VIVO 639 646	BCGitis
+T29	ORG_VIVO 881 888	juvenil
+T30	ORG_VIVO 1560 1568	paciente
+T31	ENFERMEDAD 154 174	hepatoesplenomegalia
+T32	ENFERMEDAD 177 196	derrame pericárdico
+T33	ENFERMEDAD 246 266	hipertransaminasemia
+T34	ENFERMEDAD 404 407	VIH
+T35	ENFERMEDAD 504 525	granulomatosa crónica
+T36	ENFERMEDAD 590 607	infección por BCG
+T37	ENFERMEDAD 741 767	proceso linfoproliferativo
+T38	ENFERMEDAD 861 898	artritis idiopática juvenil sistémica
+T39	ENFERMEDAD 1083 1117	candidiasis mucocutánea recurrente
+T40	ENFERMEDAD 1192 1203	infecciones
+T41	ENFERMEDAD 1286 1324	mutación en homocigosis en el gen AIRE
+T42	ENFERMEDAD 1338 1378	síndrome poliglandular autoinmune tipo I
+T43	ENFERMEDAD 1380 1386	APECED
+T44	ENFERMEDAD 1437 1452	síndrome APECED
+T45	ENFERMEDAD 1468 1491	candidiasis mucocutánea
+T46	ENFERMEDAD 1494 1512	hipoparatiroidismo

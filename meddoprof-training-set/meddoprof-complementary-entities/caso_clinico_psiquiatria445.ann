@@ -1,0 +1,51 @@
+T1	SINTOMA 1651 1659	insomnio
+T2	SINTOMA 1769 1784	ánimo depresivo
+T3	SINTOMA 1912 1937	manifestaciones afectivas
+T4	SINTOMA 2028 2051	alucinaciones auditivas
+T5	NEG 159 162	sin
+T6	NSCO 163 168	hijos
+T7	NEG 324 327	sin
+T8	NSCO 328 340	antecedentes
+T9	NEG 1642 1644	No
+T10	NSCO 1645 1659	tiene insomnio
+T11	UNC 1717 1724	no sabe
+T12	USCO 1725 1733	negociar
+T13	UNC 1735 1742	no sabe
+T14	USCO 1743 1751	escuchar
+T15	NEG 2022 2027	Niega
+T16	NSCO 2028 2051	alucinaciones auditivas
+T17	NEG 2053 2055	No
+T18	NSCO 2056 2090	se aprecia empeoramiento cognitivo
+T19	NEG 2600 2609	suspender
+T20	NSCO 2610 2619	clozapina
+T21	FARMACO 2317 2327	olanzapina
+T22	FARMACO 2329 2340	haloperidol
+T23	FARMACO 2342 2351	risperdal
+T24	FARMACO 2364 2373	risperdal
+T25	FARMACO 2382 2394	paliperidona
+T26	FARMACO 2415 2427	paliperidona
+T27	FARMACO 2511 2520	clozapina
+T28	FARMACO 2610 2619	clozapina
+T29	FARMACO 2707 2716	clozapina
+T30	ORG_VIVO 0 8	Paciente
+T31	ORG_VIVO 137 147	personales
+T32	ORG_VIVO 149 156	soltero
+T33	ORG_VIVO 163 168	hijos
+T34	ORG_VIVO 176 181	menor
+T35	ORG_VIVO 187 195	hermanos
+T36	ORG_VIVO 312 322	familiares
+T37	ORG_VIVO 380 388	infancia
+T38	ORG_VIVO 436 448	adolescencia
+T39	ORG_VIVO 532 538	padres
+T40	ORG_VIVO 1854 1860	novios
+T41	ENFERMEDAD 277 296	trastornos mentales
+T42	ENFERMEDAD 868 886	ideación psicótica
+T43	ENFERMEDAD 2112 2139	clúster obsesivo-compulsivo
+T44	ENFERMEDAD 2148 2173	trastorno psicótico agudo
+T45	ENFERMEDAD 2180 2203	esquizofrenia paranoide
+T46	ENFERMEDAD 2206 2230	trastorno esquizobsesivo
+T47	PACIENTE-SITUACION_LABORAL 594 607	En el colegio
+T48	PACIENTE-SITUACION_LABORAL 1096 1124	ha estado en pisos tutelados
+T49	PACIENTE-SITUACION_LABORAL 1287 1307	incapacitación legal
+T50	PACIENTE-SITUACION_LABORAL 247 271	en un Centro residencial
+T51	PACIENTE-SITUACION_LABORAL 1321 1346	en una Unidad Residencial

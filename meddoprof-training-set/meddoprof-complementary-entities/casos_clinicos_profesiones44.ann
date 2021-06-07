@@ -1,0 +1,14 @@
+T1	SINTOMA 244 272	pérdida súbita de conciencia
+T2	PROCEDIMIENTO 539 551	RCP avanzada
+T3	PROCEDIMIENTO 695 698	EKG
+T4	NEG 57 60	sin
+T5	NSCO 61 88	hábitos tóxicos reconocidos
+T6	NEG 301 312	ausencia de
+T7	NSCO 313 331	pulsos periféricos
+T8	ORG_VIVO 15 20	varón
+T9	ORG_VIVO 33 42	camionero
+T10	ENFERMEDAD 94 103	sobrepeso
+T11	ENFERMEDAD 122 141	hipercolesterolemia
+T12	ENFERMEDAD 244 258	pérdida súbita
+T13	ENFERMEDAD 454 477	fibrilación ventricular
+T14	PACIENTE-PROFESION 33 42	camionero

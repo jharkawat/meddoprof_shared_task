@@ -1,0 +1,95 @@
+T1	SINTOMA 303 337	tumoración en fosa supraclavicular
+T2	SINTOMA 384 392	dolorosa
+T3	SINTOMA 411 454	impotencia funcional en el miembro superior
+T4	SINTOMA 479 485	fiebre
+T5	SINTOMA 667 706	murmullo vesicular conservado bilateral
+T6	SINTOMA 720 728	doloroso
+T7	SINTOMA 800 806	edemas
+T8	SINTOMA 925 933	doloroso
+T9	SINTOMA 2688 2708	masa supraclavicular
+T10	SINTOMA 3616 3631	síndrome febril
+T11	SINTOMA 4509 4516	fallece
+T12	PROCEDIMIENTO 545 563	Exploración física
+T13	PROCEDIMIENTO 596 628	Auscultación cardiorrespiratoria
+T14	PROCEDIMIENTO 1033 1042	hemograma
+T15	PROCEDIMIENTO 1186 1218	TC cérvico-toracoabdominopélvica
+T16	PROCEDIMIENTO 1535 1542	biopsia
+T17	PROCEDIMIENTO 1756 1783	análisis inmunohistoquímico
+T18	PROCEDIMIENTO 2109 2115	PET-TC
+T19	PROCEDIMIENTO 2351 2377	valoración endoscópica ORL
+T20	PROCEDIMIENTO 2396 2413	fibrobroncoscopia
+T21	PROCEDIMIENTO 2826 2854	test molecular CancerTYPE ID
+T22	PROCEDIMIENTO 3702 3704	TC
+T23	PROCEDIMIENTO 4016 4026	analgésico
+T24	PROCEDIMIENTO 4029 4043	anticoagulante
+T25	PROCEDIMIENTO 4055 4079	radioterapia holocraneal
+T26	PROCEDIMIENTO 4082 4123	hemostática sobre la masa supraclavicular
+T27	PROCEDIMIENTO 4296 4322	tratamiento anticoagulante
+T28	PROCEDIMIENTO 4403 4427	transfusiones sanguíneas
+T29	NEG 203 206	sin
+T30	NSCO 207 225	interés oncológico
+T31	NEG 511 514	sin
+T32	NSCO 515 542	ninguna otra sintomatología
+T33	NEG 646 649	sin
+T34	NSCO 650 665	soplos a 70 lpm
+T35	NEG 717 719	no
+T36	NSCO 720 728	doloroso
+T37	NEG 730 732	no
+T38	NSCO 733 760	se palpan masas ni megalias
+T39	NEG 762 765	sin
+T40	NSCO 766 773	ascitis
+T41	NEG 796 799	sin
+T42	NSCO 800 806	edemas
+T43	NEG 922 924	no
+T44	NSCO 925 933	doloroso
+T45	NEG 935 937	no
+T46	NSCO 938 993	se palpan otras adenopatías periféricas a otros niveles
+T47	UNC 1701 1709	probable
+T48	USCO 1710 1746	carcinoma indiferenciado epitelioide
+T49	NEG 1889 1897	negativa
+T50	NSCO 1898 1939	para marcadores melanocíticos y linfoides
+T51	UNC 1966 1974	probable
+T52	USCO 1975 1989	un mesotelioma
+T53	NEG 2208 2211	sin
+T54	NSCO 2212 2298	evidenciar otras alteraciones metabólicas que sugieran enfermedad maligna macroscópica
+T55	NEG 2441 2449	negativo
+T56	UNC 3369 3385	sugiere probable
+T57	USCO 3386 3401	origen pulmonar
+T58	NEG 3778 3780	no
+T59	NSCO 3781 3807	solo a nivel locorregional
+T60	NEG 4337 4347	suspendido
+T61	NSCO 4348 4383	por sangrado incoercible de la masa
+T62	FARMACO 2605 2615	cisplatino
+T63	FARMACO 2618 2627	docetaxel
+T64	FARMACO 3248 3258	ifosfamida
+T65	FARMACO 3515 3527	carboplatino
+T66	FARMACO 3530 3540	pemetrexed
+T67	FARMACO 4135 4144	erlotinib
+T68	ORG_VIVO 10 15	Varón
+T69	ORG_VIVO 53 63	personales
+T70	ORG_VIVO 148 177	trabajador en la construcción
+T71	ORG_VIVO 192 202	familiares
+T72	ORG_VIVO 4501 4508	enfermo
+T73	ENFERMEDAD 95 115	hernia discal lumbar
+T74	ENFERMEDAD 117 126	exfumador
+T75	ENFERMEDAD 766 773	ascitis
+T76	ENFERMEDAD 825 876	conglomerado adenopático en la fosa supraclavicular
+T77	ENFERMEDAD 954 977	adenopatías periféricas
+T78	ENFERMEDAD 1360 1388	adenopatías yugulodigástrica
+T79	ENFERMEDAD 1484 1520	conglomerado adenopático metastásico
+T80	ENFERMEDAD 1578 1598	neoformación maligna
+T81	ENFERMEDAD 1680 1699	proceso metastático
+T82	ENFERMEDAD 1710 1746	carcinoma indiferenciado epitelioide
+T83	ENFERMEDAD 1978 1989	mesotelioma
+T84	ENFERMEDAD 2167 2207	conglomerado adenopático supraclavicular
+T85	ENFERMEDAD 2267 2298	enfermedad maligna macroscópica
+T86	ENFERMEDAD 2564 2578	tumor primario
+T87	ENFERMEDAD 3103 3143	linfedema importante en miembro superior
+T88	ENFERMEDAD 3413 3436	adenocarcinoma pulmonar
+T89	ENFERMEDAD 3443 3471	carcinoma escamoso de pulmón
+T90	ENFERMEDAD 3616 3694	síndrome febril con abscesificación de conglomerado en la fosa supraclavicular
+T91	ENFERMEDAD 3895 3932	trombosis de vena yugular y subclavia
+T92	ENFERMEDAD 4440 4466	complicaciones infecciosas
+T93	ENFERMEDAD 4589 4615	Metástasis supraclavicular
+T94	ENFERMEDAD 4619 4642	adenocarcinoma pulmonar
+T95	PACIENTE-PROFESION 148 177	trabajador en la construcción

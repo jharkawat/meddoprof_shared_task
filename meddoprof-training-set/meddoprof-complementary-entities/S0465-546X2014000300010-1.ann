@@ -1,0 +1,49 @@
+T1	SINTOMA 942 980	dolor abdominal ubicado en hipocondrio
+T2	SINTOMA 1117 1124	nauseas
+T3	SINTOMA 1126 1133	vómitos
+T4	SINTOMA 1136 1143	astenia
+T5	SINTOMA 1151 1158	coluria
+T6	SINTOMA 1160 1166	acolia
+T7	SINTOMA 1169 1178	ictericia
+T8	SINTOMA 2386 2406	finolito@hotmail.com
+T9	PROCEDIMIENTO 632 654	pruebas confirmatorias
+T10	PROCEDIMIENTO 1353 1383	serología para hepatitis A y B
+T11	NEG 656 659	sin
+T12	NSCO 660 745	encontrarse información en la historia clínica de datos de enfermedades transmisibles
+T13	NEG 828 837	negativos
+T14	NSCO 838 875	los marcadores virales para Hepatitis
+T15	NEG 1020 1023	sin
+T16	NSCO 1024 1035	irradiación
+T17	NEG 1037 1039	no
+T18	NSCO 1040 1098	cede con cambios posturales ni con tratamiento ambulatorio
+T19	NEG 1145 1150	Niega
+T20	NSCO 1151 1158	coluria
+T21	NEG 1384 1393	negativos
+T22	NEG 1809 1822	negativo para
+T23	NSCO 1823 1826	VIH
+T24	FARMACO 1443 1451	Konakión
+T25	FARMACO 1454 1462	Lisozima
+T26	ORG_VIVO 342 350	paciente
+T27	ORG_VIVO 352 357	Mujer
+T28	ORG_VIVO 376 401	profesional de enfermería
+T29	ORG_VIVO 598 606	paciente
+T30	ORG_VIVO 789 796	enfermo
+T31	ORG_VIVO 805 816	trabajadora
+T32	ORG_VIVO 853 860	virales
+T33	ORG_VIVO 1493 1499	Humana
+T34	ORG_VIVO 1535 1543	vacunada
+T35	ORG_VIVO 1803 1806	VHC
+T36	ORG_VIVO 1823 1826	VIH
+T37	ORG_VIVO 1872 1882	personales
+T38	ORG_VIVO 1889 1900	trabajadora
+T39	ORG_VIVO 1955 1963	paciente
+T40	ORG_VIVO 2042 2047	virus
+T41	ORG_VIVO 2194 2202	paciente
+T42	ORG_VIVO 2215 2226	trabajadora
+T43	ENFERMEDAD 719 745	enfermedades transmisibles
+T44	ENFERMEDAD 1332 1350	hipertransaminemia
+T45	SANITARIO-PROFESION 274 280	Médico
+T46	PACIENTE-PROFESION 376 448	profesional de enfermería en área de hospitalización de Medicina Interna
+T47	PACIENTE-SITUACION_LABORAL 805 816	trabajadora
+T48	PACIENTE-SITUACION_LABORAL 1889 1900	trabajadora
+T49	PACIENTE-SITUACION_LABORAL 2215 2226	trabajadora

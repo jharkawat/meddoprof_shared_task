@@ -1,0 +1,98 @@
+T1	SINTOMA 222 229	cefalea
+T2	SINTOMA 840 848	dolorosa
+T3	SINTOMA 1707 1715	disfagia
+T4	SINTOMA 3146 3154	disfonía
+T5	SINTOMA 3198 3231	dolor en región cervical anterior
+T6	SINTOMA 3243 3249	febril
+T7	SINTOMA 3252 3279	aumento de volumen cervical
+T8	SINTOMA 3689 3695	fiebre
+T9	SINTOMA 3955 3970	tenesmo vesical
+T10	PROCEDIMIENTO 434 445	analgésicos
+T11	PROCEDIMIENTO 1890 1897	biopsia
+T12	PROCEDIMIENTO 2036 2048	tumorectomía
+T13	PROCEDIMIENTO 2050 2078	disección cervical bilateral
+T14	PROCEDIMIENTO 2081 2117	reconstrucción del defecto intraoral
+T15	PROCEDIMIENTO 2127 2166	colgajo microvascularizado antebraquial
+T16	PROCEDIMIENTO 2188 2200	radioterapia
+T17	PROCEDIMIENTO 2348 2432	reconstrucción de menisco interno y ligamento cruzado posterior de rodilla izquierda
+T18	PROCEDIMIENTO 2475 2489	rehabilitación
+T19	PROCEDIMIENTO 2656 2670	rehabilitación
+T20	PROCEDIMIENTO 3058 3070	radioterapia
+T21	PROCEDIMIENTO 3378 3391	TAC de cuello
+T22	PROCEDIMIENTO 3480 3513	drenaje del absceso cervicofacial
+T23	PROCEDIMIENTO 3519 3536	anestesia general
+T24	PROCEDIMIENTO 3552 3572	ventilación mecánica
+T25	PROCEDIMIENTO 3600 3609	analgesia
+T26	PROCEDIMIENTO 3612 3638	antibioterapia intravenosa
+T27	PROCEDIMIENTO 3819 3831	fisioterapia
+T28	PROCEDIMIENTO 3887 3907	colgajo antebraquial
+T29	NEG 100 103	Sin
+T30	NSCO 104 138	antecedentes familiares de interés
+T31	NEG 165 168	sin
+T32	NSCO 169 202	alergias medicamentosas conocidas
+T33	NEG 547 558	incapacidad
+T34	NSCO 559 567	temporal
+T35	NEG 692 703	incapacidad
+T36	NSCO 704 712	temporal
+T37	NEG 834 836	no
+T38	NSCO 837 879	es dolorosa, ni le produce molestia alguna
+T39	NEG 932 934	no
+T40	NSCO 935 975	infiltrada en zona inferior de la lengua
+T41	UNC 1378 1385	posible
+T42	USCO 1386 1403	origen traumático
+T43	NEG 1506 1508	no
+T44	NSCO 1509 1516	mejoría
+T45	NEG 1528 1530	no
+T46	NSCO 1531 1541	desaparece
+T47	NEG 1560 1562	no
+T48	NSCO 1563 1581	vuelve a consultar
+T49	UNC 1834 1845	sospecha de
+T50	USCO 1846 1860	lesión maligna
+T51	NEG 2311 2322	incapacidad
+T52	NSCO 2323 2381	temporal tras cirugía de reconstrucción de menisco interno
+T53	NEG 3664 3666	no
+T54	NSCO 3667 3695	ha vuelto a presentar fiebre
+T55	NEG 4032 4042	descartado
+T56	NSCO 4043 4052	infección
+T57	FARMACO 415 423	atenolol
+T58	FARMACO 1120 1137	ácido hialurónico
+T59	ORG_VIVO 117 127	familiares
+T60	ORG_VIVO 153 163	personales
+T61	ORG_VIVO 497 511	paciente varón
+T62	ORG_VIVO 1316 1324	paciente
+T63	ORG_VIVO 1551 1559	paciente
+T64	ORG_VIVO 1771 1788	médico de familia
+T65	ORG_VIVO 1966 1974	paciente
+T66	ORG_VIVO 2211 2219	familiar
+T67	ORG_VIVO 2234 2241	Soltero
+T68	ORG_VIVO 2710 2718	familiar
+T69	ORG_VIVO 2751 2757	padres
+T70	ORG_VIVO 3042 3050	paciente
+T71	ORG_VIVO 3724 3732	paciente
+T72	ORG_VIVO 4110 4118	paciente
+T73	ORG_VIVO 4243 4251	personal
+T74	ORG_VIVO 4254 4262	familiar
+T75	ENFERMEDAD 169 192	alergias medicamentosas
+T76	ENFERMEDAD 204 220	rinitis alérgica
+T77	ENFERMEDAD 242 270	taquicardia supraventricular
+T78	ENFERMEDAD 272 289	rotura de menisco
+T79	ENFERMEDAD 363 390	herpes zoster de repetición
+T80	ENFERMEDAD 757 793	lesión en cara inferior de la lengua
+T81	ENFERMEDAD 895 975	lesión erosiva de contorno irregular no infiltrada en zona inferior de la lengua
+T82	ENFERMEDAD 1370 1403	afta de posible origen traumático
+T83	ENFERMEDAD 1846 1860	lesión maligna
+T84	ENFERMEDAD 1930 1961	carcinoma epidermoide de lengua
+T85	ENFERMEDAD 2595 2611	cáncer de lengua
+T86	ENFERMEDAD 2837 2909	carcinoma epidermoide de cara ventral-borde lateral derecho de la lengua
+T87	ENFERMEDAD 2936 2976	aftas de origen infeccioso, liquen plano
+T88	ENFERMEDAD 3413 3436	colección abscesificada
+T89	ENFERMEDAD 3492 3513	absceso cervicofacial
+T90	ENFERMEDAD 4043 4052	infección
+T91	ENFERMEDAD 4055 4073	retención urinaria
+T92	ENFERMEDAD 4093 4099	cáncer
+T93	PACIENTE-SITUACION_LABORAL 2532 2557	en situación de desempleo
+T94	SANITARIO-PROFESION 1771 1788	médico de familia
+T95	PACIENTE-SITUACION_LABORAL 531 567	en situación de incapacidad temporal
+T96	PACIENTE-SITUACION_LABORAL 692 712	incapacidad temporal
+T97	PACIENTE-SITUACION_LABORAL 2295 2331	en situación de incapacidad temporal
+T98	PACIENTE-SITUACION_LABORAL 2567 2573	parado

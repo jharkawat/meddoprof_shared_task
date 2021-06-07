@@ -1,0 +1,143 @@
+T1	SINTOMA 637 642	dolor
+T2	SINTOMA 1385 1393	inquieto
+T3	SINTOMA 1396 1403	rebelde
+T4	SINTOMA 2242 2258	ideas paranoides
+T5	SINTOMA 2865 2879	hiperactividad
+T6	SINTOMA 3219 3229	consciente
+T7	SINTOMA 3861 3880	labilidad emocional
+T8	SINTOMA 3885 3894	anhedonia
+T9	SINTOMA 3896 3904	insomnio
+T10	SINTOMA 3923 3933	sueño roto
+T11	SINTOMA 3945 3953	angustia
+T12	SINTOMA 3955 3968	irritabilidad
+T13	SINTOMA 4082 4101	retraimiento social
+T14	SINTOMA 4196 4232	alteraciones de la memoria inmediata
+T15	SINTOMA 4497 4512	ideas obsesivas
+T16	SINTOMA 4817 4833	agitación motora
+T17	SINTOMA 5483 5490	Fumador
+T18	SINTOMA 6326 6347	irritabilidad intensa
+T19	SINTOMA 6349 6364	ideas obsesivas
+T20	SINTOMA 6366 6374	anorexia
+T21	SINTOMA 6376 6412	alteración en el tránsito intestinal
+T22	SINTOMA 6414 6434	sensación distérmica
+T23	SINTOMA 6437 6466	aumento del consumo de tabaco
+T24	SINTOMA 6518 6526	insomnio
+T25	SINTOMA 6840 6853	irritabilidad
+T26	PROCEDIMIENTO 2797 2820	pruebas complementerias
+T27	PROCEDIMIENTO 2831 2834	ECG
+T28	NEG 212 214	no
+T29	NSCO 215 221	quiere
+T30	NEG 250 252	No
+T31	NSCO 253 307	hay nada que reseñar entre los antecedentes familiares
+T32	NEG 875 877	no
+T33	NSCO 878 911	llevar parche ni gafas al colegio
+T34	NEG 1702 1704	no
+T35	NSCO 1705 1735	quiso preparar la selectividad
+T36	NEG 2183 2185	no
+T37	NSCO 2186 2194	le gusta
+T38	NEG 2231 2233	no
+T39	NSCO 2234 2277	refiere ideas paranoides cuando la consumía
+T40	NEG 2368 2370	no
+T41	NSCO 2371 2408	toma más de dos o tres copas los días
+T42	UNC 2857 2864	posible
+T43	USCO 2865 2879	hiperactividad
+T44	NEG 3237 3239	no
+T45	NSCO 3240 3293	había obtenido su objetivo que era la desintoxicación
+T46	NEG 3514 3517	sin
+T47	NSCO 3518 3531	apoyo externo
+T48	NEG 3748 3750	no
+T49	NSCO 3751 3762	consumidora
+T50	NEG 3881 3884	sin
+T51	NSCO 3885 3894	anhedonia
+T52	NEG 3984 3992	falta de
+T53	NSCO 3993 4013	control en sus actos
+T54	NEG 4104 4120	imposibilidad de
+T55	NSCO 4121 4143	concentrarse en tareas
+T56	NEG 4294 4296	no
+T57	NSCO 4297 4304	termina
+T58	NEG 4312 4314	no
+T59	NSCO 4315 4360	es capaz de concentrarse durante mucho tiempo
+T60	NEG 4445 4447	No
+T61	NSCO 4448 4488	presenta ideas delirantes de ningún tipo
+T62	NEG 4549 4551	no
+T63	NSCO 4552 4564	pienso bien"
+T64	NEG 4676 4686	incapaz de
+T65	NSCO 4687 4701	desintoxicarse
+T66	NEG 4838 4848	desaparece
+T67	NSCO 4849 4878	a lo largo de la conversación
+T68	NEG 4997 4999	no
+T69	NSCO 5000 5008	forzadas
+T70	UNC 5309 5316	no sabe
+T71	USCO 5317 5323	si eso
+T72	NEG 5534 5536	No
+T73	NSCO 5537 5555	hay otros consumos
+T74	NEG 5833 5835	no
+T75	NSCO 5836 5859	ve solución en el beber
+T76	NEG 6208 6211	sin
+T77	NSCO 6212 6250	fumar cannabis dos o tres día seguidos
+T78	NEG 6571 6573	no
+T79	NSCO 6574 6596	hay abstinencia puesto
+T80	NEG 6894 6896	no
+T81	NSCO 6897 6926	el resto de la sintomatología
+T82	NEG 7174 7176	no
+T83	NSCO 7177 7227	ha conseguido la abstinencia durante más de un mes
+T84	FARMACO 2898 2908	sertralina
+T85	FARMACO 2911 2921	topiramato
+T86	FARMACO 5997 6007	alprazolam
+T87	FARMACO 6035 6046	mirtazapina
+T88	FARMACO 6955 6966	risperidona
+T89	ORG_VIVO 0 5	Varón
+T90	ORG_VIVO 144 152	cannabis
+T91	ORG_VIVO 297 307	familiares
+T92	ORG_VIVO 323 333	personales
+T93	ORG_VIVO 348 356	infancia
+T94	ORG_VIVO 612 620	paciente
+T95	ORG_VIVO 759 767	paciente
+T96	ORG_VIVO 984 992	paciente
+T97	ORG_VIVO 1193 1199	padres
+T98	ORG_VIVO 1219 1236	psicólogo escolar
+T99	ORG_VIVO 1260 1268	paciente
+T100	ORG_VIVO 1455 1463	paciente
+T101	ORG_VIVO 1786 1794	cannabis
+T102	ORG_VIVO 1857 1863	chicos
+T103	ORG_VIVO 1956 1962	tabaco
+T104	ORG_VIVO 1964 1972	cannabis
+T105	ORG_VIVO 2439 2447	paciente
+T106	ORG_VIVO 2634 2639	novia
+T107	ORG_VIVO 2664 2672	cannabis
+T108	ORG_VIVO 2951 2959	cannabis
+T109	ORG_VIVO 2964 2972	paciente
+T110	ORG_VIVO 3313 3321	paciente
+T111	ORG_VIVO 3335 3341	padres
+T112	ORG_VIVO 3348 3355	hermana
+T113	ORG_VIVO 3400 3408	familiar
+T114	ORG_VIVO 3553 3576	profesor de autoescuela
+T115	ORG_VIVO 3626 3634	familiar
+T116	ORG_VIVO 3719 3724	novia
+T117	ORG_VIVO 3826 3834	paciente
+T118	ORG_VIVO 4569 4577	paciente
+T119	ORG_VIVO 4655 4663	cannabis
+T120	ORG_VIVO 5078 5090	interlocutor
+T121	ORG_VIVO 5356 5366	personales
+T122	ORG_VIVO 5526 5532	tabaco
+T123	ORG_VIVO 6064 6072	paciente
+T124	ORG_VIVO 6218 6226	cannabis
+T125	ORG_VIVO 6460 6466	tabaco
+T126	ORG_VIVO 7161 7169	paciente
+T127	ENFERMEDAD 400 428	malformación de los uréteres
+T128	ENFERMEDAD 690 699	ambliopía
+T129	ENFERMEDAD 1775 1794	consumo de cannabis
+T130	ENFERMEDAD 2865 2879	hiperactividad
+T131	ENFERMEDAD 2940 2959	consumo de cannabis
+T132	ENFERMEDAD 3851 3859	ansiedad
+T133	ENFERMEDAD 4644 4663	consumo de cannabis
+T134	ENFERMEDAD 5680 5688	ansiedad
+T135	ENFERMEDAD 6280 6288	ansiedad
+T136	ENFERMEDAD 6619 6627	ansiedad
+T137	ENFERMEDAD 6880 6888	ansiedad
+T138	ENFERMEDAD 7052 7060	ansiedad
+T139	OTROS-PROFESION 1219 1236	psicólogo escolar
+T140	PACIENTE-SITUACION_LABORAL 3410 3433	Trabaja a media jornada
+T141	PACIENTE-SITUACION_LABORAL 3458 3481	prepara la selectividad
+T142	PACIENTE-SITUACION_LABORAL 3499 3506	estudia
+T143	PACIENTE-PROFESION 3553 3576	profesor de autoescuela

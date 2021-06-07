@@ -1,0 +1,96 @@
+T1	SINTOMA 19 26	Omalgia
+T2	SINTOMA 959 987	deterioro del estado general
+T3	SINTOMA 1043 1063	algias generalizadas
+T4	SINTOMA 1080 1122	dolor se focaliza a nivel de brazo derecho
+T5	SINTOMA 1484 1489	dolor
+T6	SINTOMA 1696 1701	dolor
+T7	SINTOMA 2238 2243	dolor
+T8	SINTOMA 2296 2301	dolor
+T9	SINTOMA 2460 2465	dolor
+T10	SINTOMA 2589 2605	deterioro físico
+T11	SINTOMA 2647 2655	angustia
+T12	SINTOMA 2657 2666	inquietud
+T13	SINTOMA 2669 2680	frustración
+T14	SINTOMA 2751 2756	dolor
+T15	SINTOMA 2794 2802	inquieto
+T16	SINTOMA 2805 2814	depresivo
+T17	SINTOMA 3496 3501	dolor
+T18	SINTOMA 3946 3951	dolor
+T19	SINTOMA 4021 4036	signos faciales
+T20	SINTOMA 4040 4051	sufrimiento
+T21	SINTOMA 4053 4064	somnoliento
+T22	PROCEDIMIENTO 513 524	RTU vesical
+T23	PROCEDIMIENTO 604 617	RM de caderas
+T24	PROCEDIMIENTO 1208 1217	analgesia
+T25	PROCEDIMIENTO 1550 1559	analgesia
+T26	PROCEDIMIENTO 2490 2517	analgesia de tercer escalón
+T27	PROCEDIMIENTO 3261 3279	exploración física
+T28	PROCEDIMIENTO 3963 3984	analgesia intravenosa
+T29	PROCEDIMIENTO 4281 4299	sedación paliativa
+T30	NEG 139 142	sin
+T31	NSCO 143 176	alergias medicamentosas conocidas
+T32	NEG 378 381	sin
+T33	NSCO 382 437	evidencia de enfermedad a distancia hasta la actualidad
+T34	UNC 680 695	compatibles con
+T35	USCO 696 759	metástasis óseas de tipo lítico a nivel de ambos huesos ilíacos
+T36	NEG 777 780	sin
+T37	NSCO 781 828	datos de fracturas patológicas hasta el momento
+T38	NEG 1248 1264	imposibilidad de
+T39	NSCO 1265 1286	traslado del paciente
+T40	NEG 1578 1581	sin
+T41	NSCO 1582 1595	mejoría clara
+T42	NEG 2816 2818	No
+T43	NSCO 2819 2872	aceptaba ver tal deterioro tan rápidamente progresivo
+T44	UNC 2954 2965	sospecha de
+T45	USCO 2966 3004	fractura patológica del húmero derecho
+T46	NEG 3017 3028	ausencia de
+T47	NSCO 3029 3056	hallazgos de lesiones óseas
+T48	UNC 3057 3072	compatibles con
+T49	USCO 3073 3127	fractura patológica en pruebas complementarias previas
+T50	UNC 3137 3145	sospecha
+T51	USCO 3146 3158	era evidente
+T52	UNC 3291 3301	compatible
+T53	UNC 3463 3470	posible
+T54	USCO 3471 3501	ingreso para control del dolor
+T55	NEG 3685 3687	no
+T56	NSCO 3688 3708	como medida curativa
+T57	ORG_VIVO 121 126	Varón
+T58	ORG_VIVO 856 860	hija
+T59	ORG_VIVO 904 909	padre
+T60	ORG_VIVO 1189 1193	hija
+T61	ORG_VIVO 1278 1286	paciente
+T62	ORG_VIVO 1653 1657	hija
+T63	ORG_VIVO 1661 1670	enfermera
+T64	ORG_VIVO 1745 1753	familiar
+T65	ORG_VIVO 1776 1784	paciente
+T66	ORG_VIVO 1805 1813	familiar
+T67	ORG_VIVO 1877 1882	Varón
+T68	ORG_VIVO 2101 2105	hija
+T69	ORG_VIVO 2109 2118	enfermera
+T70	ORG_VIVO 2143 2152	cuidadora
+T71	ORG_VIVO 2179 2187	paciente
+T72	ORG_VIVO 2692 2700	paciente
+T73	ORG_VIVO 3372 3380	paciente
+T74	ORG_VIVO 3609 3621	traumatólogo
+T75	ORG_VIVO 3759 3767	paciente
+T76	ORG_VIVO 3872 3880	paciente
+T77	ORG_VIVO 4104 4111	familia
+T78	ORG_VIVO 4376 4384	paciente
+T79	ENFERMEDAD 143 166	alergias medicamentosas
+T80	ENFERMEDAD 236 257	hipertensión arterial
+T81	ENFERMEDAD 260 284	diabetes mellitus tipo 2
+T82	ENFERMEDAD 314 335	carcinoma de próstata
+T83	ENFERMEDAD 543 584	carcinoma urotelial papilar de bajo grado
+T84	ENFERMEDAD 622 630	coxalgia
+T85	ENFERMEDAD 696 759	metástasis óseas de tipo lítico a nivel de ambos huesos ilíacos
+T86	ENFERMEDAD 790 811	fracturas patológicas
+T87	ENFERMEDAD 2966 2996	fractura patológica del húmero
+T88	ENFERMEDAD 3042 3056	lesiones óseas
+T89	ENFERMEDAD 3073 3092	fractura patológica
+T90	ENFERMEDAD 3553 3582	fractura patológica de húmero
+T91	FAMILIAR-SITUACION_LABORAL 2143 2162	cuidadora principal
+T92	PACIENTE-ACTIVIDAD 1883 1893	deportista
+T93	FAMILIAR-PROFESION 1661 1670	enfermera
+T94	FAMILIAR-PROFESION 2109 2118	enfermera
+T95	SANITARIO-PROFESION 3609 3621	traumatólogo
+T96	PACIENTE-ACTIVIDAD 1895 1908	practica golf

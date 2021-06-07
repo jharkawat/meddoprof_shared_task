@@ -1,0 +1,151 @@
+T1	SINTOMA 557 566	agitación
+T2	SINTOMA 568 576	insomnio
+T3	SINTOMA 579 613	alucinaciones visuales y auditivas
+T4	SINTOMA 677 687	consciente
+T5	SINTOMA 689 695	alerta
+T6	SINTOMA 697 729	desorientado en espacio y tiempo
+T7	SINTOMA 1349 1358	confusión
+T8	SINTOMA 1360 1374	desorientación
+T9	SINTOMA 1376 1385	agitación
+T10	SINTOMA 1387 1410	alucinaciones auditivas
+T11	SINTOMA 1423 1445	rigidez extrapiramidal
+T12	SINTOMA 1459 1481	lenguaje ininteligible
+T13	SINTOMA 1484 1521	fluctuaciones del nivel de conciencia
+T14	SINTOMA 3524 3549	hiperactividad autonómica
+T15	SINTOMA 4425 4450	alteraciones neurológicas
+T16	SINTOMA 4502 4509	diarrea
+T17	PROCEDIMIENTO 1187 1202	benzodiacepinas
+T18	PROCEDIMIENTO 1649 1674	tratamiento antidiarreico
+T19	PROCEDIMIENTO 1677 1700	tratamiento antibiótico
+T20	PROCEDIMIENTO 1755 1775	nutrición parenteral
+T21	PROCEDIMIENTO 1815 1837	catéter venoso central
+T22	PROCEDIMIENTO 1852 1872	nutrición parenteral
+T23	PROCEDIMIENTO 1908 1920	hemocultivos
+T24	PROCEDIMIENTO 1929 1947	cultivo de catéter
+T25	PROCEDIMIENTO 1960 1983	tratamiento antibiótico
+T26	PROCEDIMIENTO 1984 2003	- Lesiones dérmicas
+T27	PROCEDIMIENTO 2248 2258	TAC cráneo
+T28	PROCEDIMIENTO 2442 2445	RMN
+T29	PROCEDIMIENTO 2827 2839	Coprocultivo
+T30	PROCEDIMIENTO 2927 2941	Ecocardiograma
+T31	PROCEDIMIENTO 2943 2946	ECG
+T32	PROCEDIMIENTO 2948 2956	Rx torax
+T33	PROCEDIMIENTO 2990 3009	Ecografía abdominal
+T34	PROCEDIMIENTO 3043 3055	Colonoscopia
+T35	PROCEDIMIENTO 3133 3149	Biopsia de colon
+T36	PROCEDIMIENTO 3580 3611	tratamiento con benzodiazepinas
+T37	PROCEDIMIENTO 4147 4158	RMN craneal
+T38	NEG 76 79	sin
+T39	NSCO 80 126	antecedentes médicos ni quirúrgicos de interés
+T40	NEG 389 391	no
+T41	NSCO 392 402	complicada
+T42	NEG 697 709	desorientado
+T43	NEG 846 848	no
+T44	NSCO 849 858	evaluable
+T45	NEG 920 922	No
+T46	NSCO 923 939	signos meníngeos
+T47	NEG 1002 1015	inespecíficas
+T48	NEG 1041 1044	sin
+T49	NSCO 1045 1068	alteraciones de interés
+T50	NSCO 1070 1087	EVOLUCIÓN INICIAL
+T51	NEG 1261 1263	no
+T52	NSCO 1264 1280	presenta mejoría
+T53	NEG 1360 1374	desorientación
+T54	NEG 1602 1605	sin
+T55	NSCO 1606 1627	productos patológicos
+T56	UNC 1786 1789	sin
+T57	USCO 1790 1794	foco
+T58	UNC 1795 1803	aparente
+T59	NEG 1805 1814	Se retiró
+T60	NSCO 1815 1872	catéter venoso central colocado para nutrición parenteral
+T61	NEG 1949 1951	No
+T62	NSCO 1952 1983	precisó tratamiento antibiótico
+T63	NSCO 2308 2337	infarto o traumatismo antiguo
+T64	NEG 2427 2429	no
+T65	NSCO 2430 2440	desplazada
+T66	NEG 2513 2525	inespecífico
+T67	UNC 2533 2541	sugieren
+T68	USCO 2542 2557	origen vascular
+T69	UNC 2596 2604	probable
+T70	USCO 2605 2664	contusiones antiguas Aumento de los espacios subaracnoideos
+T71	UNC 2689 2701	sugestivo de
+T72	USCO 2702 2709	atrofia
+T73	USCO 2710 2715	* LCR
+T74	NSCO 2799 2816	Cultivo y tinción
+T75	NEG 2817 2825	negativo
+T76	NSCO 2825 2862	* Coprocultivo, toxina de C.difficile
+T77	NEG 2957 2960	sin
+T78	NSCO 2961 2988	alteraciones significativas
+T79	UNC 3081 3093	sugiere como
+T80	USCO 3094 3131	primera posibilidad proceso isquémico
+T81	UNC 3231 3238	podrían
+T82	USCO 3239 3282	ser secundarios a proceso infeccioso previo
+T83	USCO 3284 3307	DIAGNÓSTICO DIFERENCIAL
+T84	USCO 3308 3403	Debemos plantearnos las alteraciones neurológicas que pueden aparecer en un paciente alcohólico
+T85	NEG 3502 3513	ausencia de
+T86	NSCO 3514 3549	signos de hiperactividad autonómica
+T87	NEG 3555 3563	falta de
+T88	NSCO 3564 3571	mejoría
+T89	NEG 3674 3676	no
+T90	NSCO 3677 3709	concordaba con dicho diagnóstico
+T91	NEG 3731 3742	se descartó
+T92	NSCO 3743 3786	que se tratase de una alucinosis alcohólica
+T93	UNC 3814 3820	podría
+T94	USCO 3821 3857	haber sido un déficit de Vitamina B1
+T95	NEG 3940 3942	no
+T96	NSCO 3943 3988	se encontraban los hallazgos clínicos típicos
+T97	NEG 4159 4161	no
+T98	NSCO 4162 4212	aparecían las imágenes patognomónicas del Wernicke
+T99	UNC 4249 4256	podrían
+T100	USCO 4257 4276	explicar la clínica
+T101	NEG 4346 4354	falta de
+T102	NSCO 4355 4362	mejoría
+T103	NEG 4455 4459	nula
+T104	NSCO 4460 4484	respuesta al tratamiento
+T105	NEG 4515 4526	ausencia de
+T106	NSCO 4527 4574	datos relevantes en las pruebas complementarias
+T107	NEG 4719 4721	no
+T108	NSCO 4722 4769	presentar manifestaciones cutáneas muy floridas
+T109	NEG 4938 4940	No
+T110	NSCO 4941 5014	hay actualmente ninguna prueba ni dato de laboratorio para el diagnóstico
+T111	NEG 5730 5742	asintomático
+T112	FARMACO 1204 1211	tiamina
+T113	FARMACO 1214 1224	piridoxina
+T114	FARMACO 3613 3621	tiaprida
+T115	FARMACO 5317 5328	niacinamida
+T116	FARMACO 5599 5610	niacinamida
+T117	ORG_VIVO 13 23	PERSONALES
+T118	ORG_VIVO 50 64	Paciente varón
+T119	ORG_VIVO 175 195	Trabajador del campo
+T120	ORG_VIVO 545 555	familiares
+T121	ORG_VIVO 1091 1099	paciente
+T122	ORG_VIVO 1884 1898	S. epidermidis
+T123	ORG_VIVO 2905 2910	viral
+T124	ORG_VIVO 2911 2914	CMV
+T125	ORG_VIVO 3384 3392	paciente
+T126	ORG_VIVO 5135 5144	pacientes
+T127	ORG_VIVO 5263 5266	VIH
+T128	ORG_VIVO 5525 5533	paciente
+T129	ENFERMEDAD 0 49	ANTECEDENTES PERSONALES E HISTORIA CLÍNICA ACTUAL
+T130	ENFERMEDAD 150 173	etilismo crónico activo
+T131	ENFERMEDAD 332 360	traumatismo craneoencefálico
+T132	ENFERMEDAD 363 388	fractura occipital lineal
+T133	ENFERMEDAD 942 988	Lesiones dérmicas descamativas en manos y cara
+T134	ENFERMEDAD 2130 2148	anemia macrocítica
+T135	ENFERMEDAD 2232 2244	desnutrición
+T136	ENFERMEDAD 2308 2337	infarto o traumatismo antiguo
+T137	ENFERMEDAD 2344 2369	atrofia cortical cerebral
+T138	ENFERMEDAD 2398 2416	fractura occipital
+T139	ENFERMEDAD 3020 3039	hepatopatía crónica
+T140	ENFERMEDAD 3057 3076	colitis con úlceras
+T141	ENFERMEDAD 3114 3131	proceso isquémico
+T142	ENFERMEDAD 3441 3464	síndrome de abstinencia
+T143	ENFERMEDAD 3469 3485	delirium tremens
+T144	ENFERMEDAD 3765 3786	alucinosis alcohólica
+T145	ENFERMEDAD 3835 3857	déficit de Vitamina B1
+T146	ENFERMEDAD 3908 3926	Wernicke-Korsakoff
+T147	ENFERMEDAD 4286 4293	pelagra
+T148	ENFERMEDAD 5238 5261	malabsorción intestinal
+T149	ENFERMEDAD 5263 5266	VIH
+T150	ENFERMEDAD 5438 5445	pelagra
+T151	PACIENTE-PROFESION 175 195	Trabajador del campo

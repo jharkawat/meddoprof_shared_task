@@ -1,0 +1,105 @@
+T1	SINTOMA 91 107	hábito tabáquico
+T2	SINTOMA 292 300	cefaleas
+T3	SINTOMA 431 438	cefalea
+T4	SINTOMA 480 487	cefalea
+T5	SINTOMA 545 554	insidioso
+T6	SINTOMA 566 586	holocraneal opresiva
+T7	SINTOMA 633 638	dolor
+T8	SINTOMA 736 745	sonofobia
+T9	SINTOMA 747 756	fotofobia
+T10	SINTOMA 760 778	cortejo vegetativo
+T11	SINTOMA 828 840	ortostatismo
+T12	SINTOMA 1373 1380	cefalea
+T13	SINTOMA 1660 1667	cefalea
+T14	SINTOMA 1803 1808	dolor
+T15	SINTOMA 1819 1825	fiebre
+T16	SINTOMA 1961 1980	irritación meníngea
+T17	SINTOMA 3617 3624	cefalea
+T18	SINTOMA 3679 3691	asintomático
+T19	PROCEDIMIENTO 453 475	tratamiento analgésico
+T20	PROCEDIMIENTO 805 826	maniobras de Valsalva
+T21	PROCEDIMIENTO 1168 1181	examen físico
+T22	PROCEDIMIENTO 1228 1285	tomografía computarizada (TC) craneal con y sin contraste
+T23	PROCEDIMIENTO 1394 1403	analgesia
+T24	PROCEDIMIENTO 1448 1458	analgésico
+T25	PROCEDIMIENTO 1705 1723	Exploración física
+T26	PROCEDIMIENTO 1985 1997	fondo de ojo
+T27	PROCEDIMIENTO 2003 2021	examen neurológico
+T28	PROCEDIMIENTO 2106 2115	hemograma
+T29	PROCEDIMIENTO 2154 2176	estudio de coagulación
+T30	PROCEDIMIENTO 2225 2235	TC craneal
+T31	PROCEDIMIENTO 2432 2458	valoración neuroquirúrgica
+T32	PROCEDIMIENTO 2527 2547	resonancia magnética
+T33	PROCEDIMIENTO 2549 2551	RM
+T34	PROCEDIMIENTO 2557 2567	RM craneal
+T35	PROCEDIMIENTO 2655 2657	TC
+T36	PROCEDIMIENTO 2918 2938	Resonancia magnética
+T37	PROCEDIMIENTO 3073 3093	Resonancia magnética
+T38	PROCEDIMIENTO 3566 3582	hidratación oral
+T39	PROCEDIMIENTO 3758 3768	TC craneal
+T40	NEG 130 133	sin
+T41	NSCO 134 171	otros antecedentes médicos de interés
+T42	NEG 173 175	No
+T43	NSCO 176 262	presentaba alergias medicamentosas ni había sido sometido a intervenciones quirúrgicas
+T44	NEG 264 266	No
+T45	NSCO 267 338	tenía historia previa de cefaleas ni antecedentes familiares relevantes
+T46	NEG 697 699	No
+T47	NSCO 700 778	asociaba clínica focal neurológica, sonofobia, fotofobia ni cortejo vegetativo
+T48	NEG 780 782	No
+T49	NSCO 783 826	guardaba relación con maniobras de Valsalva
+T50	NEG 843 845	no
+T51	NSCO 846 876	existía antecedente traumático
+T52	NEG 988 991	sin
+T53	NSCO 992 999	trabajo
+T54	NEG 1108 1111	sin
+T55	NSCO 1112 1126	mejoría alguna
+T56	NEG 1272 1275	sin
+T57	NSCO 1276 1285	contraste
+T58	NEG 1291 1293	no
+T59	NSCO 1294 1324	mostraba hallazgos patológicos
+T60	NEG 1810 1812	No
+T61	NSCO 1813 1825	tenía fiebre
+T62	NEG 1909 1911	no
+T63	NSCO 1912 1940	mostraban signos patológicos
+T64	NEG 1942 1944	No
+T65	NSCO 1945 1980	tenía signos de irritación meníngea
+T66	NEG 2353 2356	sin
+T67	NSCO 2357 2389	repercusión sobre la línea media
+T68	NEG 3613 3616	sin
+T69	NSCO 3617 3624	cefalea
+T70	NEG 3679 3691	asintomático
+T71	NEG 3693 3695	no
+T72	NSCO 3696 3711	toma medicación
+T73	NEG 3714 3716	no
+T74	NSCO 3717 3750	ha experimentado ninguna recidiva
+T75	NEG 3780 3796	han desaparecido
+T76	NSCO 3797 3823	las colecciones subdurales
+T77	FARMACO 1061 1072	paracetamol
+T78	FARMACO 1074 1083	naproxeno
+T79	FARMACO 1085 1094	metamizol
+T80	FARMACO 1097 1106	lorazepam
+T81	FARMACO 1471 1484	amitriptilina
+T82	FARMACO 3532 3563	heparina de bajo peso molecular
+T83	ORG_VIVO 10 15	Varón
+T84	ORG_VIVO 53 63	personales
+T85	ORG_VIVO 317 327	familiares
+T86	ORG_VIVO 344 352	paciente
+T87	ORG_VIVO 373 400	médico de Atención Primaria
+T88	ORG_VIVO 1578 1586	paciente
+T89	ORG_VIVO 1752 1760	paciente
+T90	ORG_VIVO 3587 3595	paciente
+T91	ORG_VIVO 3661 3669	paciente
+T92	ENFERMEDAD 67 88	hipertensión arterial
+T93	ENFERMEDAD 91 107	hábito tabáquico
+T94	ENFERMEDAD 187 210	alergias medicamentosas
+T95	ENFERMEDAD 431 450	cefalea refractaria
+T96	ENFERMEDAD 913 921	ansiedad
+T97	ENFERMEDAD 2282 2323	hematomas subdurales bilaterales crónicos
+T98	ENFERMEDAD 2603 2623	hematomas subdurales
+T99	ENFERMEDAD 2827 2859	Hematomas subdurales bilaterales
+T100	ENFERMEDAD 3266 3313	Síndrome de hipotensión intracraneal espontánea
+T101	ENFERMEDAD 3315 3319	SHIE
+T102	ENFERMEDAD 3497 3522	enfermedad tromboembólica
+T103	ENFERMEDAD 3801 3823	colecciones subdurales
+T104	SANITARIO-PROFESION 373 400	médico de Atención Primaria
+T105	PACIENTE-SITUACION_LABORAL 988 999	sin trabajo

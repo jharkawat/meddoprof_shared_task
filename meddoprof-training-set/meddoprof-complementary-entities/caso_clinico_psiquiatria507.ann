@@ -1,0 +1,201 @@
+T1	SINTOMA 338 355	deterioro es alto
+T2	SINTOMA 751 776	dificultades relacionales
+T3	SINTOMA 830 841	desconfiada
+T4	SINTOMA 2008 2033	edema de papila bilateral
+T5	SINTOMA 3330 3339	despierta
+T6	SINTOMA 3371 3381	pesadillas
+T7	SINTOMA 3923 3950	sensaciones en mi cuerpo...
+T8	SINTOMA 4100 4105	dolor
+T9	SINTOMA 4419 4441	presiones en la cabeza
+T10	SINTOMA 4496 4504	quemazón
+T11	SINTOMA 4734 4741	delirio
+T12	SINTOMA 5510 5548	orientada en tiempo, espacio y persona
+T13	SINTOMA 5649 5662	irritabilidad
+T14	SINTOMA 5664 5687	afectividad inapropiada
+T15	SINTOMA 5689 5697	ansiedad
+T16	SINTOMA 5996 6007	soliloquios
+T17	SINTOMA 6009 6021	musitaciones
+T18	SINTOMA 6023 6046	alucinaciones auditivas
+T19	SINTOMA 6108 6136	pseudoalucinaciones visuales
+T20	SINTOMA 6138 6159	estereotipias motoras
+T21	SINTOMA 6161 6170	inquietud
+T22	SINTOMA 6173 6194	agitación psicomotriz
+T23	SINTOMA 6196 6202	abulia
+T24	SINTOMA 6204 6238	alteración del ritmo sueño-vigilia
+T25	SINTOMA 6243 6261	hipersomnia diurna
+T26	SINTOMA 7379 7387	insomnio
+T27	SINTOMA 8283 8294	somnolencia
+T28	SINTOMA 8550 8571	agitación psicomotriz
+T29	SINTOMA 9174 9192	hipersomnia diurna
+T30	PROCEDIMIENTO 2808 2837	tratamiento con neurolépticos
+T31	PROCEDIMIENTO 6420 6445	TAC craneal y RMN craneal
+T32	PROCEDIMIENTO 7486 7500	rehabilitación
+T33	PROCEDIMIENTO 7816 7848	tratamientos psicofarmacológicos
+T34	PROCEDIMIENTO 8296 8304	sedación
+T35	PROCEDIMIENTO 9883 9911	terapia cognitivo conductual
+T36	NEG 161 163	no
+T37	NSCO 164 215	puede vivir de manera independiente en la Comunidad
+T38	NEG 312 314	no
+T39	NSCO 315 323	responde
+T40	NEG 405 408	sin
+T41	NSCO 409 414	hijos
+T42	UNC 1284 1291	posible
+T43	USCO 1292 1308	trastorno mental
+T44	NEG 1309 1312	sin
+T45	NSCO 1313 1324	especificar
+T46	NEG 1434 1436	no
+T47	NSCO 1437 1451	tiene contacto
+T48	NEG 1627 1630	sin
+T49	NSCO 1631 1664	alergias medicamentosas conocidas
+T50	NEG 2035 2045	descartado
+T51	NSCO 2046 2076	proceso expansivo intracraneal
+T52	NEG 2132 2144	retirada del
+T53	NSCO 2145 2152	fármaco
+T54	NEG 2907 2910	sin
+T55	NSCO 2911 2935	conciencia de enfermedad
+T56	NEG 3564 3566	no
+T57	NEG 4130 4132	no
+T58	NSCO 4133 4163	son míos... son otras personas
+T59	NEG 4212 4214	no
+T60	NSCO 4215 4246	es un doble ni una suplantación
+T61	NEG 4344 4353	negativas
+T62	NSCO 4353 4363	... siento
+T63	NEG 4509 4511	no
+T64	NSCO 4512 4551	las oyes?... están ahí...se meten en mí
+T65	NEG 4615 4617	no
+T66	NSCO 4618 4621	ves
+T67	NEG 4631 4633	no
+T68	NSCO 4634 4647	es mi voz!...
+T69	NEG 5610 5613	sin
+T70	NSCO 5614 5635	alteraciones groseras
+T71	NEG 6447 6450	sin
+T72	NSCO 6451 6475	hallazgos significativos
+T73	NEG 6677 6680	sin
+T74	NSCO 6681 6699	signos de recidiva
+T75	NEG 6812 6815	sin
+T76	NSCO 6816 6836	hallazgos de interés
+T77	NEG 7298 7306	retirada
+T78	NSCO 7307 7317	progresiva
+T79	NEG 8219 8228	se retira
+T80	NSCO 8229 8265	por efectos secundarios intolerables
+T81	UNC 8456 8467	sospecha de
+T82	USCO 8468 8507	consumo de alcohol o bebidas excitantes
+T83	NEG 8835 8837	no
+T84	NSCO 8838 8894	pueden mantenerse por interferencia de la sintomatología
+T85	NEG 8930 8935	dejar
+T86	NSCO 8936 8968	el gas o calentadores encendidos
+T87	NEG 9769 9772	sin
+T88	NSCO 9773 9794	llegar a ser completa
+T89	UNC 10072 10079	posible
+T90	USCO 10080 10094	la convivencia
+T91	NEG 11540 11542	no
+T92	NSCO 11543 11628	me puede faltar, ni esta ni el ácido valproico..." A la reagudización de los síntomas
+T93	NEG 11633 11635	no
+T94	NSCO 11636 11673	los llama "crisis" ahora los denomina
+T95	FARMACO 1786 1797	anfetaminas
+T96	FARMACO 1834 1841	cafeína
+T97	FARMACO 2101 2112	risperidona
+T98	FARMACO 6853 6862	valproico
+T99	FARMACO 7124 7133	clozapina
+T100	FARMACO 7181 7190	valproico
+T101	FARMACO 7227 7238	haloperidol
+T102	FARMACO 7276 7288	paliperidona
+T103	FARMACO 7341 7363	clorazepato dipotásico
+T104	FARMACO 7389 7401	lormetazepam
+T105	FARMACO 7981 7992	haloperidol
+T106	FARMACO 7994 8005	risperidona
+T107	FARMACO 8007 8017	olanzapina
+T108	FARMACO 8019 8032	zuclopentixol
+T109	FARMACO 8034 8045	aripiprazol
+T110	FARMACO 8047 8058	amisulpride
+T111	FARMACO 8060 8070	quetiapina
+T112	FARMACO 8072 8083	ziprasidona
+T113	FARMACO 8086 8098	paliperidona
+T114	FARMACO 8147 8156	clozapina
+T115	FARMACO 9589 9598	clozapina
+T116	FARMACO 9609 9624	ácido valproico
+T117	FARMACO 11498 11507	clozapina
+T118	FARMACO 11574 11589	ácido valproico
+T119	ORG_VIVO 0 5	Mujer
+T120	ORG_VIVO 384 394	personales
+T121	ORG_VIVO 409 414	hijos
+T122	ORG_VIVO 558 563	madre
+T123	ORG_VIVO 587 595	infancia
+T124	ORG_VIVO 598 610	adolescencia
+T125	ORG_VIVO 644 648	tíos
+T126	ORG_VIVO 651 665	abuela materna
+T127	ORG_VIVO 684 689	padre
+T128	ORG_VIVO 703 709	pareja
+T129	ORG_VIVO 1120 1130	familiares
+T130	ORG_VIVO 1155 1161	pareja
+T131	ORG_VIVO 1193 1203	familiares
+T132	ORG_VIVO 1205 1211	padres
+T133	ORG_VIVO 1224 1229	madre
+T134	ORG_VIVO 1255 1260	padre
+T135	ORG_VIVO 1348 1356	hermanos
+T136	ORG_VIVO 1362 1369	mujeres
+T137	ORG_VIVO 1375 1381	hombre
+T138	ORG_VIVO 1416 1421	padre
+T139	ORG_VIVO 1456 1463	hermana
+T140	ORG_VIVO 1499 1508	cuidadora
+T141	ORG_VIVO 1515 1523	paciente
+T142	ORG_VIVO 1546 1551	hijos
+T143	ORG_VIVO 1558 1563	nieta
+T144	ORG_VIVO 1804 1812	juventud
+T145	ORG_VIVO 2281 2290	psicóloga
+T146	ORG_VIVO 2364 2372	infancia
+T147	ORG_VIVO 3481 3489	personas
+T148	ORG_VIVO 3496 3503	familia
+T149	ORG_VIVO 3873 3881	personas
+T150	ORG_VIVO 4155 4163	personas
+T151	ORG_VIVO 4309 4316	hombres
+T152	ORG_VIVO 4319 4326	mujeres
+T153	ORG_VIVO 4745 4755	maternidad
+T154	ORG_VIVO 4925 4930	niños
+T155	ORG_VIVO 4937 4941	niña
+T156	ORG_VIVO 5398 5405	familia
+T157	ORG_VIVO 5462 5467	hijos
+T158	ORG_VIVO 5541 5548	persona
+T159	ORG_VIVO 7746 7755	pacientes
+T160	ORG_VIVO 7768 7786	personal sanitario
+T161	ORG_VIVO 7961 7965	mono
+T162	ORG_VIVO 8273 8281	paciente
+T163	ORG_VIVO 9251 9259	personal
+T164	ORG_VIVO 10137 10145	familiar
+T165	ORG_VIVO 10166 10173	hermana
+T166	ORG_VIVO 10205 10214	afectuosa
+T167	ORG_VIVO 10692 10700	Familiar
+T168	ENFERMEDAD 43 79	esquizofrenia paranoide F20.0 CIE-10
+T169	ENFERMEDAD 1212 1222	fallecidos
+T170	ENFERMEDAD 1245 1253	leucemia
+T171	ENFERMEDAD 1276 1279	IAM
+T172	ENFERMEDAD 1292 1308	trastorno mental
+T173	ENFERMEDAD 1591 1595	TDHA
+T174	ENFERMEDAD 1598 1602	asma
+T175	ENFERMEDAD 1775 1797	consumo de anfetaminas
+T176	ENFERMEDAD 1815 1841	consumo abusivo de cafeína
+T177	ENFERMEDAD 1842 1858	Obesidad grado I
+T178	ENFERMEDAD 1939 1952	hipogonadismo
+T179	ENFERMEDAD 1965 1983	hiperprolactinemia
+T180	ENFERMEDAD 2046 2076	proceso expansivo intracraneal
+T181	ENFERMEDAD 2154 2201	Carcinoma basocelular nodular en labio superior
+T182	ENFERMEDAD 2572 2608	reagudización de síntomas psicóticos
+T183	ENFERMEDAD 2611 2634	trastornos conductuales
+T184	ENFERMEDAD 5689 5697	ansiedad
+T185	ENFERMEDAD 6653 6675	Ca basocelular nodular
+T186	ENFERMEDAD 6994 7017	esquizofrenia paranoide
+T187	ENFERMEDAD 7322 7330	ansiedad
+T188	ENFERMEDAD 8317 8337	hipotensión arterial
+T189	ENFERMEDAD 8468 8486	consumo de alcohol
+T190	ENFERMEDAD 9149 9168	trastorno del sueño
+T191	ENFERMEDAD 9174 9192	hipersomnia diurna
+T192	FAMILIAR-SITUACION_LABORAL 1499 1508	cuidadora
+T193	SANITARIO-PROFESION 10670 10712	equipo de Tratamiento Familiar Comunitario
+T194	PACIENTE-SITUACION_LABORAL 420 449	invalidez absoluta permanente
+T195	SANITARIO-PROFESION 9251 9259	personal
+T196	SANITARIO-PROFESION 7768 7786	personal sanitario
+T197	SANITARIO-PROFESION 2281 2290	psicóloga
+T198	PACIENTE-SITUACION_LABORAL 451 482	incapacitación jurídica parcial
+T199	PACIENTE-SITUACION_LABORAL 611 624	en internados
+T200	PACIENTE-SITUACION_LABORAL 920 938	Inicia algún curso
+T201	PACIENTE-PROFESION 1078 1130	actividad laboral en las oficinas de unos familiares

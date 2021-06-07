@@ -1,0 +1,79 @@
+T1	SINTOMA 458 473	dolor abdominal
+T2	SINTOMA 502 518	vómitos biliosos
+T3	SINTOMA 534 552	sudoración profusa
+T4	SINTOMA 603 614	rectorragia
+T5	SINTOMA 715 720	dolor
+T6	SINTOMA 1231 1240	febrícula
+T7	SINTOMA 1261 1273	leucocitosis
+T8	SINTOMA 1276 1299	elevación de creatinina
+T9	SINTOMA 1628 1639	somnolencia
+T10	SINTOMA 1642 1649	palidez
+T11	SINTOMA 1833 1843	hipertenso
+T12	SINTOMA 1845 1857	taquicárdico
+T13	SINTOMA 1899 1908	febrícula
+T14	SINTOMA 1947 2048	abdomen blando, discretamente distendido y timpánico, doloroso a la palpación (superficial y profunda
+T15	SINTOMA 2071 2111	contractura voluntaria de la musculatura
+T16	SINTOMA 2134 2155	irritación peritoneal
+T17	SINTOMA 2158 2186	ruidos hidroaéreos presentes
+T18	SINTOMA 4489 4512	nzrosadodawid@gmail.com
+T19	PROCEDIMIENTO 1318 1330	colonoscopia
+T20	PROCEDIMIENTO 1535 1547	sueroterapia
+T21	PROCEDIMIENTO 1915 1933	exploración física
+T22	PROCEDIMIENTO 2191 2203	tacto rectal
+T23	PROCEDIMIENTO 2389 2407	TC abdominopélvica
+T24	PROCEDIMIENTO 2774 2786	colonoscopia
+T25	PROCEDIMIENTO 3320 3340	nutrición parenteral
+T26	PROCEDIMIENTO 3342 3369	-antibioterapia intravenosa
+T27	PROCEDIMIENTO 3371 3380	analgesia
+T28	PROCEDIMIENTO 3383 3397	corticoterapia
+T29	PROCEDIMIENTO 3424 3436	colonoscopia
+T30	PROCEDIMIENTO 3582 3590	angio-TC
+T31	PROCEDIMIENTO 3596 3643	estudios inmunológicos y de hipercoagulabilidad
+T32	PROCEDIMIENTO 3702 3715	coprocultivos
+T33	PROCEDIMIENTO 3947 3959	colonoscopia
+T34	NEG 388 391	sin
+T35	NSCO 392 434	antecedentes de interés ni hábitos tóxicos
+T36	NEG 700 703	sin
+T37	NSCO 704 720	alivio del dolor
+T38	NEG 722 724	No
+T39	NSCO 725 762	presentó otra sintomatología asociada
+T40	NEG 1438 1444	impide
+T41	NSCO 1445 1467	el paso del endoscopio
+T42	UNC 2113 2123	sin claros
+T43	USCO 2124 2155	signos de irritación peritoneal
+T44	NEG 2409 2412	sin
+T45	NEG 2661 2675	Se descartaron
+T46	NSCO 2676 2703	la presencia de perforación
+T47	NEG 3536 3538	No
+T48	NSCO 3539 3590	se evidenciaron alteraciones vasculares en angio-TC
+T49	NEG 3661 3663	No
+T50	NSCO 3664 3696	se objetivaron focos trombóticos
+T51	NSCO 3698 3715	Los coprocultivos
+T52	NEG 3738 3747	negativos
+T53	NEG 3749 3760	Se descartó
+T54	NSCO 3761 3808	asimismo una enfermedad inflamatoria intestinal
+T55	UNC 3824 3837	no compatible
+T56	USCO 3838 3857	con dicha patología
+T57	NEG 3887 3899	asintomático
+T58	NEG 4042 4051	descartar
+T59	NSCO 4052 4066	otra etiología
+T60	FARMACO 1550 1564	ciprofloxacino
+T61	FARMACO 3342 3357	-antibioterapia
+T62	ORG_VIVO 10 18	paciente
+T63	ORG_VIVO 371 376	Varón
+T64	ORG_VIVO 767 775	paciente
+T65	ORG_VIVO 1162 1170	paciente
+T66	ORG_VIVO 1704 1712	paciente
+T67	ORG_VIVO 1817 1825	paciente
+T68	ORG_VIVO 3238 3245	enfermo
+T69	ORG_VIVO 3862 3869	enfermo
+T70	ORG_VIVO 4236 4244	paciente
+T71	ORG_VIVO 4346 4353	Natalia
+T72	ENFERMEDAD 2622 2643	ganglios mesentéricos
+T73	ENFERMEDAD 2692 2703	perforación
+T74	ENFERMEDAD 2906 2966	ulceraciones geográficas profundas desde la unión rectosigma
+T75	ENFERMEDAD 3146 3163	colitis isquémica
+T76	ENFERMEDAD 3774 3808	enfermedad inflamatoria intestinal
+T77	SANITARIO-PROFESION 324 330	Médico
+T78	PACIENTE-PROFESION 827 834	militar
+T79	SANITARIO-PROFESION 1661 1678	médicos militares

@@ -1,0 +1,21 @@
+T1	SINTOMA 189 232	nódulos subcutáneos bilaterales pretibiales
+T2	SINTOMA 832 855	flexión plantar del pie
+T3	PROCEDIMIENTO 430 448	Exploración física
+T4	PROCEDIMIENTO 904 913	ecografía
+T5	NEG 32 35	sin
+T6	NSCO 36 70	antecedentes personales de interés
+T7	NEG 1262 1274	se desestimó
+T8	NSCO 1275 1302	realizar ningún tratamiento
+T9	NEG 1468 1471	sin
+T10	NSCO 1472 1511	provocar en la paciente molestia alguna
+T11	ORG_VIVO 14 19	mujer
+T12	ORG_VIVO 49 59	personales
+T13	ORG_VIVO 116 143	médico de atención primaria
+T14	ORG_VIVO 237 245	paciente
+T15	ORG_VIVO 1000 1008	paciente
+T16	ORG_VIVO 1189 1197	paciente
+T17	ORG_VIVO 1487 1495	paciente
+T18	ENFERMEDAD 189 232	nódulos subcutáneos bilaterales pretibiales
+T19	ENFERMEDAD 1121 1148	Hernias musculares tibiales
+T20	ENFERMEDAD 1320 1341	hernias asintomáticas
+T21	SANITARIO-PROFESION 116 143	médico de atención primaria

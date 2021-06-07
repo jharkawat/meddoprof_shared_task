@@ -1,0 +1,48 @@
+T1	SINTOMA 859 868	orientada
+T2	SINTOMA 910 922	Ánimo triste
+T3	SINTOMA 924 933	anhedonia
+T4	SINTOMA 935 941	apatía
+T5	SINTOMA 1119 1129	consciente
+T6	SINTOMA 1131 1137	alerta
+T7	PROCEDIMIENTO 827 845	exploración física
+T8	PROCEDIMIENTO 1010 1028	sonda nasogástrica
+T9	PROCEDIMIENTO 1030 1033	SNG
+T10	PROCEDIMIENTO 1735 1747	psicoterapia
+T11	NEG 167 169	No
+T12	NSCO 170 203	alergias medicamentosas conocidas
+T13	NEG 798 803	niega
+T14	NSCO 804 819	desencadenantes
+T15	NEG 943 945	No
+T16	NSCO 946 965	síntomas psicóticos
+T17	NEG 1617 1619	no
+T18	NSCO 1620 1656	poder cuidarla por problemas físicos
+T19	FARMACO 370 381	Venlafaxina
+T20	FARMACO 420 430	Clonazepam
+T21	FARMACO 481 490	Omeprazol
+T22	FARMACO 593 604	Venlafaxina
+T23	FARMACO 615 624	Lorazepam
+T24	FARMACO 635 645	Clonazepam
+T25	FARMACO 656 667	Gabapentina
+T26	FARMACO 679 689	Fluoxetina
+T27	FARMACO 1050 1065	carbón activado
+T28	FARMACO 1068 1079	flumazenilo
+T29	FARMACO 1780 1791	Venlafaxina
+T30	FARMACO 1819 1830	mirtazapina
+T31	FARMACO 1850 1860	Clonazepam
+T32	ORG_VIVO 0 5	Mujer
+T33	ORG_VIVO 45 50	hijos
+T34	ORG_VIVO 155 165	personales
+T35	ORG_VIVO 265 273	familiar
+T36	ORG_VIVO 1084 1092	paciente
+T37	ORG_VIVO 1253 1261	familiar
+T38	ORG_VIVO 1429 1433	hijo
+T39	ORG_VIVO 1466 1474	paciente
+T40	ORG_VIVO 1542 1547	madre
+T41	ENFERMEDAD 93 107	retraso mental
+T42	ENFERMEDAD 110 139	trastorno obsesivo-compulsivo
+T43	ENFERMEDAD 170 193	alergias medicamentosas
+T44	ENFERMEDAD 205 222	Enfisema pulmonar
+T45	ENFERMEDAD 224 252	Trastorno depresivo reactivo
+T46	ENFERMEDAD 967 998	Ideación autolítica persistente
+T47	FAMILIAR-SITUACION_LABORAL 1454 1461	en paro
+T48	FAMILIAR-SITUACION_LABORAL 72 83	dependiente

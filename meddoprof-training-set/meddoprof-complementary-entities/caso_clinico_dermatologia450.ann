@@ -1,0 +1,61 @@
+T1	SINTOMA 1163 1243	lesiones eccematosas en área retroauricular, zona anterior del cuello y mejillas
+T2	SINTOMA 1247 1284	eritema en la zona anterior del brazo
+T3	PROCEDIMIENTO 256 294	broncodilatadores de acción prolongada
+T4	PROCEDIMIENTO 325 336	corticoides
+T5	PROCEDIMIENTO 434 461	oxigenoterapia domiciliaria
+T6	PROCEDIMIENTO 578 592	oxigenoterapia
+T7	PROCEDIMIENTO 1064 1081	corticoide tópico
+T8	PROCEDIMIENTO 1104 1128	cremas antihemorroidales
+T9	PROCEDIMIENTO 1135 1153	exploración física
+T10	PROCEDIMIENTO 1332 1351	pruebas epicutáneas
+T11	PROCEDIMIENTO 1783 1802	pruebas epicutáneas
+T12	UNC 533 544	sospecha de
+T13	USCO 545 592	dermatitis secundaria a gafas de oxigenoterapia
+T14	NEG 914 916	No
+T15	NSCO 917 938	refiere ningún hobbie
+T16	NEG 1083 1088	niega
+T17	NSCO 1089 1128	utilización de cremas antihemorroidales
+T18	UNC 1304 1315	sospecha de
+T19	USCO 1316 1319	DAC
+T20	NEG 1758 1767	negativos
+T21	NEG 1861 1870	negativas
+T22	UNC 2201 2206	podía
+T23	USCO 2207 2246	estar implicado el parche de Nitroplast
+T24	UNC 2815 2827	muy probable
+T25	USCO 2828 2850	que sea el responsable
+T26	FARMACO 164 174	metformina
+T27	FARMACO 176 184	ramipril
+T28	FARMACO 186 196	ivabradina
+T29	FARMACO 198 206	estatina
+T30	FARMACO 208 218	furosemida
+T31	FARMACO 220 242	ácido acetilsalicílico
+T32	FARMACO 244 254	salbutamol
+T33	FARMACO 296 309	agonista-beta
+T34	FARMACO 339 349	silodosina
+T35	FARMACO 351 362	pantoprazol
+T36	FARMACO 364 375	roflumilast
+T37	FARMACO 377 387	rupatadina
+T38	FARMACO 399 413	nitroglicerina
+T39	FARMACO 415 425	mometasona
+T40	ORG_VIVO 0 14	Paciente varón
+T41	ORG_VIVO 43 53	personales
+T42	ORG_VIVO 622 630	paciente
+T43	ORG_VIVO 885 893	jubilado
+T44	ORG_VIVO 906 912	esposa
+T45	ORG_VIVO 1426 1434	paciente
+T46	ORG_VIVO 1828 1837	pacientes
+T47	ORG_VIVO 2134 2142	paciente
+T48	ORG_VIVO 2337 2345	paciente
+T49	ORG_VIVO 2691 2699	paciente
+T50	ORG_VIVO 2990 2998	paciente
+T51	ENFERMEDAD 57 60	HTA
+T52	ENFERMEDAD 62 87	Diabetes Mellitus tipo II
+T53	ENFERMEDAD 89 93	EPOC
+T54	ENFERMEDAD 95 112	enfisema pulmonar
+T55	ENFERMEDAD 115 136	cardiopatía isquémica
+T56	ENFERMEDAD 545 566	dermatitis secundaria
+T57	ENFERMEDAD 669 699	lesiones cutáneas pruriginosas
+T58	ENFERMEDAD 1163 1243	lesiones eccematosas en área retroauricular, zona anterior del cuello y mejillas
+T59	ENFERMEDAD 2460 2470	dermatitis
+T60	PACIENTE-SITUACION_LABORAL 885 893	jubilado
+T61	PACIENTE-ACTIVIDAD 895 912	cuida a su esposa

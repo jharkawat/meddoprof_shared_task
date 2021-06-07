@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 61 años de edad, remitido desde consultas del médico de Atención Primaria (MAP) por síntomas del tracto urinario inferior (STUI) y disfunción eréctil (DE).
+El paciente nos comenta que hace 2 meses inició tratamiento con una combinación de un inhibidor de la 5-α-reductasa y tamsulosina, que le fue prescrito por su MAP para el tratamiento de los STUI, entre los cuales destacaban: frecuencia miccional diurna de hora y media, frecuencia miccional nocturna de 3-4 veces, tenesmo miccional, urgencia miccional con algún episodio de escape de orina y goteo postmiccional.
+Durante la anamnesis, el paciente refiere que desde la aparición de estos síntomas sufre un importante deterioro en su calidad de vida, ya que los STUI dificultan la conciliación del sueño y le obligan a usar algún tipo de absorbente, lo cual interfiere con su vida laboral y social; tras el inicio del tratamiento mejoró su clínica miccional, pero con carácter prácticamente paralelo apareció una clínica de debilidad generalizada que se acompañaba de mareos, pérdida de la libido y DE, motivo por el cual suspendió el tratamiento. Es referido a nuestras consultas por su médico de Atención Primaria.
+
+Examen físico
+Exfumador desde hace 15 años. Hipertensión arterial esencial en tratamiento con antihipertensivos y bien controlada. Hernioplastia inguinal derecha hace 12años. Índice de masa corporal 24. Normotenso. Abdomen: blando, depresible, no doloroso a la palpación, no masas, no visceromegalias. Blumberg negativo. No se palpa globo vesical. Puñopercursión renal bilateral negativa. Pene y genitales externos: sin hallazgos patológicos. Tacto rectal: esfínter normotónico, ampolla rectal vacía. Próstata aumentada de tamaño, grado II-III/IV, con surco medio borrado, de superficie lisa y regular, móvil, no dolorosa y de consistencia fibroelástica.
+
+Pruebas complementarias
+• IPSS (International Prostate Sympton Index): 17.
+• IIEF (International Index of Erectile Function): 15.
+• Analítica general con función renal, perfil lipídico y glucemia dentro de la normalidad.
+• Antígeno prostático específico (PSA) 3,51 ng/dl con un PSA libre de 0,95. Índice calculado de 27%.
+• Análisis de orina elemental: normal.
+• Urocultivo negativo.
+• Citologías de orina (3/3): negativas.
+• Ecografía urológica: riñones normales, sin dilatación de ambas vías excretoras. Vejiga sin signos de esfuerzos, de buena capacidad. Próstata con un volumen aproximado de 75 cc, con escaso crecimiento intravesical y homogénea.
+• Flujometría: Qmáx de 11 ml/s, con un volumen de 320 cc y con una morfología de la curva discretamente aplanada y alargada.
+• Volumen postmiccional de orina estimado por ecografía de 70 cc.
+
+Diagnóstico
+Se trata de un varón con el diagnóstico de hipertrofia benigna de próstata (HPB) sintomática sin complicaciones durante su evolución, al que se le prescribe tratamiento farmacológico desde el escalón asistencial de la AP en el que será imprescindible implementar una recomendación de seguimiento en relación con los valores de las cifras de PSA, que deben ser convenientemente monitorizadas. Desde la perspectiva epidemiológica, el caso clínico presentado se podría superponer perfectamente a un importante número de pacientes referidos a nuestra consulta desde atención primaria por STUI secundarios a HPB que en el momento de la valoración por el urólogo ya han iniciado algún tipo de tratamiento farmacológico para su sintomatología urinaria.
+
+Tratamiento
+Por todos estos motivos, a nuestro paciente se le retiró la asociación de fármacos prescritos y se inició tratamiento con Silodyx® 8 mg una vez al día. Fue reevaluado a los 45 días del inicio del tratamiento y a los 3 meses, manifestando mejoría subjetiva en la sintomatología miccional, un IPSS de 10 y un IIEF de 23, manifestando también que había recuperado el deseo sexual y que mantenía relaciones satisfactorias con su pareja, pese a la disminución del volumen de eyaculado. En la flujometría se objetivó un Qmáx de 16.
+
+Evolución
+Nuestro caso es representativo de la selección individualizada del tratamiento de la HBP. Así, de forma significativa, en función del tipo de paciente, un tratamiento de primera línea consigue una mejoría importante de los síntomas y de la calidad de vida del paciente (eficacia clínica) sin añadir efectos secundarios (seguridad) que justifiquen el abandono del tratamiento y que además corrige un efecto secundario de la medicación previa muy mal percibido por el paciente y que afectaba a un parámetro relevante de su calidad de vida, como es la libido.

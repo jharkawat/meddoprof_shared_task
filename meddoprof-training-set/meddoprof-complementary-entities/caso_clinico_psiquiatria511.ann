@@ -1,0 +1,114 @@
+T1	SINTOMA 368 378	ciclotimia
+T2	SINTOMA 1597 1607	hipertimia
+T3	SINTOMA 3492 3500	eutímico
+T4	SINTOMA 5362 5372	hipertimia
+T5	PROCEDIMIENTO 1922 1941	tratamiento con TEC
+T6	PROCEDIMIENTO 2061 2080	tratamiento con TEC
+T7	PROCEDIMIENTO 2763 2776	antidepresiva
+T8	PROCEDIMIENTO 3854 3880	privación parcial de sueño
+T9	PROCEDIMIENTO 4015 4034	tratamiento con TEC
+T10	NEG 146 157	incapacidad
+T11	NSCO 158 216	laboral debido a patología acústica, visual y psiquiátrica
+T12	NEG 929 931	no
+T13	NSCO 932 940	recuerda
+T14	NEG 1021 1023	no
+T15	NSCO 1024 1074	manteniendo el tratamiento en los años posteriores
+T16	NEG 2364 2371	retirar
+T17	NSCO 2372 2402	parte de la medicación pautada
+T18	NEG 2552 2555	sin
+T19	NSCO 2556 2591	precisar otras medidas terapéuticas
+T20	NEG 3023 3026	sin
+T21	NSCO 3027 3034	mejoría
+T22	NEG 3702 3704	no
+T23	NSCO 3705 3733	el mantenimiento de la misma
+T24	NEG 3954 3957	sin
+T25	NSCO 3958 3991	conseguir ninguna mejoría clínica
+T26	NEG 4345 4355	suspendido
+T27	NSCO 4356 4360	poco
+T28	NEG 4379 4381	no
+T29	NSCO 4382 4391	conseguir
+T30	NEG 4590 4593	sin
+T31	NSCO 4594 4649	que haya habido hallazgos significativos en ningún caso
+T32	NEG 4921 4926	nunca
+T33	NSCO 4927 4956	han precisado hospitalización
+T34	FARMACO 1137 1147	fluoxetina
+T35	FARMACO 1437 1447	fluoxetina
+T36	FARMACO 1475 1486	mirtazapina
+T37	FARMACO 1498 1510	clomipramina
+T38	FARMACO 1768 1786	carbonato de litio
+T39	FARMACO 1799 1810	lamotrigina
+T40	FARMACO 1823 1834	aripiprazol
+T41	FARMACO 2165 2183	carbonato de litio
+T42	FARMACO 2196 2207	mirtazapina
+T43	FARMACO 2219 2231	clomipramina
+T44	FARMACO 2244 2255	lamotrigina
+T45	FARMACO 2268 2278	olanzapina
+T46	FARMACO 2431 2436	litio
+T47	FARMACO 2439 2450	lamotrigina
+T48	FARMACO 2763 2776	antidepresiva
+T49	FARMACO 2791 2803	clomipramina
+T50	FARMACO 2808 2818	duloxetina
+T51	FARMACO 2831 2842	agomelatina
+T52	FARMACO 3103 3112	bupropión
+T53	FARMACO 3329 3338	carbonato
+T54	FARMACO 3342 3347	litio
+T55	FARMACO 3361 3371	duloxetina
+T56	FARMACO 3384 3393	bupropión
+T57	FARMACO 3406 3417	aripiprazol
+T58	FARMACO 3429 3440	lamotrigina
+T59	FARMACO 3607 3615	ketamina
+T60	FARMACO 3940 3953	metilfenidato
+T61	FARMACO 4226 4237	lamotrigina
+T62	FARMACO 4250 4268	carbonato de litio
+T63	FARMACO 4281 4290	bupropión
+T64	FARMACO 5156 5165	clozapina
+T65	FARMACO 5674 5683	carbonato
+T66	FARMACO 5687 5692	litio
+T67	FARMACO 5706 5715	bupropión
+T68	FARMACO 5728 5738	flurazepam
+T69	FARMACO 5756 5765	clozapina
+T70	FARMACO 5806 5815	clozapina
+T71	FARMACO 5831 5840	clozapina
+T72	FARMACO 5855 5873	carbonato de litio
+T73	FARMACO 5884 5893	bupropión
+T74	FARMACO 5909 5919	flurazepam
+T75	ORG_VIVO 0 5	Varón
+T76	ORG_VIVO 54 64	personales
+T77	ORG_VIVO 66 72	casado
+T78	ORG_VIVO 93 98	mujer
+T79	ORG_VIVO 105 116	hijos de 19
+T80	ORG_VIVO 232 242	familiares
+T81	ORG_VIVO 250 255	menor
+T82	ORG_VIVO 261 269	hermanos
+T83	ORG_VIVO 302 312	familiares
+T84	ORG_VIVO 329 336	familia
+T85	ORG_VIVO 474 482	infancia
+T86	ORG_VIVO 920 928	paciente
+T87	ORG_VIVO 1195 1203	paciente
+T88	ORG_VIVO 2857 2865	paciente
+T89	ORG_VIVO 3472 3480	paciente
+T90	ORG_VIVO 4179 4187	paciente
+T91	ORG_VIVO 4771 4779	paciente
+T92	ORG_VIVO 5275 5283	paciente
+T93	ORG_VIVO 5641 5649	paciente
+T94	ENFERMEDAD 368 378	ciclotimia
+T95	ENFERMEDAD 381 398	trastorno bipolar
+T96	ENFERMEDAD 434 457	osteomielitis en pierna
+T97	ENFERMEDAD 484 517	TCE en 1985 con fractura temporal
+T98	ENFERMEDAD 528 553	contusión fronto-temporal
+T99	ENFERMEDAD 710 727	neurosis obsesiva
+T100	ENFERMEDAD 756 779	depresivo grave en 1985
+T101	ENFERMEDAD 807 822	politraumatismo
+T102	ENFERMEDAD 871 880	depresión
+T103	ENFERMEDAD 1309 1318	depresión
+T104	ENFERMEDAD 1327 1330	TOC
+T105	ENFERMEDAD 1403 1423	episodios depresivos
+T106	ENFERMEDAD 1597 1607	hipertimia
+T107	ENFERMEDAD 1656 1681	trastorno bipolar tipo II
+T108	ENFERMEDAD 3568 3585	recaída depresiva
+T109	ENFERMEDAD 3797 3817	episodios depresivos
+T110	ENFERMEDAD 4652 4663	DIAGNÓSTICO
+T111	ENFERMEDAD 4664 4667	TOC
+T112	ENFERMEDAD 4670 4695	trastorno bipolar tipo II
+T113	ENFERMEDAD 5362 5372	hipertimia
+T114	PACIENTE-SITUACION_LABORAL 146 165	incapacidad laboral

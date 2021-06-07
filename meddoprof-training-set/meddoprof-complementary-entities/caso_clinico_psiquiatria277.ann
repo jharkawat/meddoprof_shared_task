@@ -1,0 +1,36 @@
+T1	SINTOMA 386 398	inconsciente
+T2	SINTOMA 1110 1118	malestar
+T3	SINTOMA 1166 1173	insomne
+T4	SINTOMA 1185 1203	conductas bizarras
+T5	SINTOMA 1522 1547	deterioro cognitivo agudo
+T6	PROCEDIMIENTO 244 274	tratamiento psicofarmacológico
+T7	PROCEDIMIENTO 482 493	TAC craneal
+T8	PROCEDIMIENTO 1875 1878	EEG
+T9	PROCEDIMIENTO 1942 1954	RMN cerebral
+T10	NEG 335 338	sin
+T11	NSCO 339 353	noticia alguna
+T12	NEG 386 398	inconsciente
+T13	NEG 899 911	asintomática
+T14	NEG 1119 1134	inespecífico de
+T15	NSCO 1135 1146	la paciente
+T16	NEG 2589 2591	no
+T17	NSCO 2592 2627	ha mejorado de manera significativa
+T18	NEG 2644 2646	no
+T19	NSCO 2647 2662	ha precisado de
+T20	FARMACO 288 298	paroxetina
+T21	FARMACO 308 317	lorazepam
+T22	FARMACO 1018 1028	duloxetina
+T23	ORG_VIVO 0 5	Mujer
+T24	ORG_VIVO 357 364	familia
+T25	ORG_VIVO 1065 1072	familia
+T26	ORG_VIVO 1138 1146	paciente
+T27	ORG_VIVO 1230 1236	vecina
+T28	ORG_VIVO 2471 2479	paciente
+T29	ENFERMEDAD 33 100	Trastorno de Inestabilidad Emocional de la Personalidad Tipo Límite
+T30	ENFERMEDAD 177 195	autointoxicaciones
+T31	ENFERMEDAD 593 606	rabdomiolisis
+T32	ENFERMEDAD 608 633	insuficiencia renal aguda
+T33	ENFERMEDAD 636 687	proceso neumónico secundarios a la autointoxicación
+T34	ENFERMEDAD 1361 1379	Episodio Psicótico
+T35	ENFERMEDAD 1522 1547	deterioro cognitivo agudo
+T36	ENFERMEDAD 1693 1727	Leucoencefalopatía Hipóxica Tardía

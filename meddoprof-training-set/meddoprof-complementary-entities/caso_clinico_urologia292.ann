@@ -1,0 +1,125 @@
+T1	SINTOMA 99 108	hematuria
+T2	SINTOMA 111 123	dolor lumbar
+T3	SINTOMA 598 618	síntomas miccionales
+T4	SINTOMA 621 630	hematuria
+T5	SINTOMA 1094 1131	Abdomen blando y depresible sin masas
+T6	SINTOMA 1135 1150	visceromegalias
+T7	SINTOMA 1381 1390	hematuria
+T8	PROCEDIMIENTO 186 214	antibioterapia empírica oral
+T9	PROCEDIMIENTO 318 329	urocultivos
+T10	PROCEDIMIENTO 414 433	tandas antibióticas
+T11	PROCEDIMIENTO 920 955	Histerectomía con doble anexectomía
+T12	PROCEDIMIENTO 1008 1026	Exploración física
+T13	PROCEDIMIENTO 1027 1045	Exploración física
+T14	PROCEDIMIENTO 1164 1191	percusión de fosas lumbares
+T15	PROCEDIMIENTO 1255 1264	hemograma
+T16	PROCEDIMIENTO 1516 1535	Ecografía abdominal
+T17	PROCEDIMIENTO 1713 1724	cistoscopia
+T18	PROCEDIMIENTO 1751 1773	resección transuretral
+T19	PROCEDIMIENTO 1775 1789	RTU) de vejiga
+T20	PROCEDIMIENTO 2213 2245	rastreo de tumoración intestinal
+T21	PROCEDIMIENTO 2247 2259	Colonoscopia
+T22	PROCEDIMIENTO 2593 2617	Tomografía computarizada
+T23	PROCEDIMIENTO 2619 2621	TC
+T24	PROCEDIMIENTO 2641 2695	resonancia magnética (RM) (contraste) abdómino-pélvica
+T25	PROCEDIMIENTO 3027 3046	cistectomía parcial
+T26	PROCEDIMIENTO 3075 3106	tratamiento de la pared vesical
+T27	PROCEDIMIENTO 3109 3138	valoración del asa intestinal
+T28	PROCEDIMIENTO 3203 3214	laparotomía
+T29	PROCEDIMIENTO 3381 3400	cistectomía parcial
+T30	PROCEDIMIENTO 3486 3508	hemicolectomía derecha
+T31	PROCEDIMIENTO 3532 3554	Hemicolectomía derecha
+T32	PROCEDIMIENTO 3880 3898	inmunohistoquímica
+T33	PROCEDIMIENTO 3988 4007	Cistectomía parcial
+T34	PROCEDIMIENTO 4956 4967	cistectomía
+T35	PROCEDIMIENTO 5011 5013	TC
+T36	UNC 135 152	interpretado como
+T37	USCO 153 171	infección urinaria
+T38	NEG 340 349	negativos
+T39	NEG 377 389	asintomática
+T40	NEG 435 438	sin
+T41	NSCO 439 479	conseguir la normalización del sedimento
+T42	NEG 592 597	niega
+T43	NSCO 598 650	síntomas miccionales y hematuria en fechas recientes
+T44	NEG 714 718	cede
+T45	NSCO 719 733	con ibuprofeno
+T46	NEG 735 737	No
+T47	NSCO 738 763	otros síntomas reseñables
+T48	UNC 790 797	posible
+T49	USCO 798 826	alergia a contrastes yodados
+T50	NEG 971 973	no
+T51	NSCO 974 982	recuerda
+T52	NEG 1122 1125	sin
+T53	NSCO 1126 1150	masas ni visceromegalias
+T54	NSCO 1420 1438	Urocultivo estéril
+T55	NEG 1483 1492	negativos
+T56	NEG 1504 1512	negativa
+T57	NEG 1642 1645	sin
+T58	NSCO 1646 1676	dilatación de la vía excretora
+T59	NEG 2063 2079	negatividad para
+T60	NSCO 2080 2089	vimentina
+T61	NEG 2189 2201	asintomática
+T62	NEG 2624 2627	sin
+T63	NSCO 2628 2637	contraste
+T64	NEG 2704 2707	sin
+T65	NSCO 2708 2737	lesiones ocupantes de espacio
+T66	NEG 2860 2862	No
+T67	NSCO 2863 2964	hay adenopatías de tamaño patológico en las diferentes cadenas ganglionares valoradas a nivel pélvico
+T68	UNC 3140 3151	sospecha de
+T69	USCO 3152 3177	lesión tumoral intestinal
+T70	NEG 3736 3739	sin
+T71	NSCO 3740 3750	perforarla
+T72	NEG 3830 3833	sin
+T73	NSCO 3834 3857	evidencia de metástasis
+T74	NEG 4345 4347	no
+T75	NSCO 4348 4398	pudo encontrarse continuidad entre los dos tumores
+T76	NEG 4400 4402	no
+T77	NSCO 4403 4509	perforación de la serosa del apéndice cecal por el tumor considerado como primitivo ni afectación muscular
+T78	NEG 4768 4771	sin
+T79	NSCO 4772 4796	apoyo familiar ni social
+T80	NEG 4968 4971	sin
+T81	NSCO 4972 5004	demostración de recidiva tumoral
+T82	NEG 5063 5065	no
+T83	NSCO 5066 5087	realizó más controles
+T84	NEG 5298 5300	no
+T85	NSCO 5301 5316	indican clínica
+T86	UNC 5317 5331	compatible con
+T87	USCO 5332 5364	recidiva de la patología tumoral
+T88	FARMACO 723 733	ibuprofeno
+T89	ORG_VIVO 10 15	Mujer
+T90	ORG_VIVO 52 79	médico de Atención Primaria
+T91	ORG_VIVO 368 376	paciente
+T92	ORG_VIVO 583 591	paciente
+T93	ORG_VIVO 778 788	personales
+T94	ORG_VIVO 1440 1473	Bacilos ácido-alcohol resistentes
+T95	ORG_VIVO 2180 2188	paciente
+T96	ORG_VIVO 4654 4662	paciente
+T97	ORG_VIVO 4778 4786	familiar
+T98	ORG_VIVO 4807 4815	paciente
+T99	ORG_VIVO 5054 5062	paciente
+T100	ORG_VIVO 5239 5266	médico de Atención Primaria
+T101	ENFERMEDAD 99 108	hematuria
+T102	ENFERMEDAD 153 171	infección urinaria
+T103	ENFERMEDAD 798 826	alergia a contrastes yodados
+T104	ENFERMEDAD 828 854	Síndrome ansioso-depresivo
+T105	ENFERMEDAD 856 881	Síndrome rígido acinético
+T106	ENFERMEDAD 883 895	Osteoporosis
+T107	ENFERMEDAD 897 918	Hemangiomas hepáticos
+T108	ENFERMEDAD 993 1005	nevus facial
+T109	ENFERMEDAD 1836 1869	adenocarcinoma de tipo intestinal
+T110	ENFERMEDAD 2113 2129	tumor intestinal
+T111	ENFERMEDAD 2552 2591	micropólipos adenomatosos-hiperplásicos
+T112	ENFERMEDAD 2746 2818	asa de intestino en íntimo contacto con la pared lateral derecha vesical
+T113	ENFERMEDAD 2867 2878	adenopatías
+T114	ENFERMEDAD 3152 3177	lesión tumoral intestinal
+T115	ENFERMEDAD 3556 3634	adenoma villoglandular de 5,3 cm ocupando la totalidad del apéndice íleo-cecal
+T116	ENFERMEDAD 3781 3790	neoplasia
+T117	ENFERMEDAD 3807 3828	ganglios mesentéricos
+T118	ENFERMEDAD 3847 3857	metástasis
+T119	ENFERMEDAD 4009 4069	adenocarcinoma moderadamente diferenciado de tipo intestinal
+T120	ENFERMEDAD 4403 4446	perforación de la serosa del apéndice cecal
+T121	ENFERMEDAD 4836 4866	cuadro ansioso-depresivo grave
+T122	ENFERMEDAD 4988 5004	recidiva tumoral
+T123	ENFERMEDAD 5332 5364	recidiva de la patología tumoral
+T124	SANITARIO-PROFESION 52 79	médico de Atención Primaria
+T125	SANITARIO-PROFESION 5239 5266	médico de Atención Primaria

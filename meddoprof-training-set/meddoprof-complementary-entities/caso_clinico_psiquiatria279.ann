@@ -1,0 +1,240 @@
+T1	SINTOMA 151 172	agitación psicomotriz
+T2	SINTOMA 1885 1894	verborrea
+T3	SINTOMA 1896 1917	agitación psicomotriz
+T4	SINTOMA 1919 1933	desorientación
+T5	SINTOMA 1935 1942	temblor
+T6	SINTOMA 1945 1958	alucinaciones
+T7	SINTOMA 2071 2079	insomnio
+T8	SINTOMA 2081 2096	discurso verbal
+T9	SINTOMA 2099 2118	escrito incoherente
+T10	SINTOMA 2120 2133	tics verbales
+T11	SINTOMA 2148 2161	irritabilidad
+T12	SINTOMA 2164 2209	verbalizaciones de ideas de contenido místico
+T13	SINTOMA 2212 2225	megalomaníaco
+T14	SINTOMA 2609 2620	hipertímico
+T15	SINTOMA 2622 2632	logorreico
+T16	SINTOMA 2777 2789	ánimo triste
+T17	SINTOMA 2794 2800	apatía
+T18	SINTOMA 2805 2812	astenia
+T19	SINTOMA 2998 3008	consciente
+T20	SINTOMA 3093 3113	Discurso incoherente
+T21	SINTOMA 3167 3175	ecolalia
+T22	SINTOMA 3178 3186	disfemia
+T23	SINTOMA 3255 3277	alucinaciones visuales
+T24	SINTOMA 4854 4871	labilidad anímica
+T25	SINTOMA 4877 4899	alucinaciones visuales
+T26	SINTOMA 4906 4914	delirios
+T27	SINTOMA 8192 8211	síntomas psicóticos
+T28	SINTOMA 8425 8434	hipomanía
+T29	SINTOMA 9017 9026	agitación
+T30	SINTOMA 9028 9048	desinhibición sexual
+T31	SINTOMA 9098 9111	megalomaníaco
+T32	SINTOMA 9113 9161	dificultad para mantener límites interpersonales
+T33	SINTOMA 9889 9906	síntomas maníacos
+T34	SINTOMA 9997 10010	irritabilidad
+T35	SINTOMA 10355 10363	eutímico
+T36	PROCEDIMIENTO 553 566	quimioterapia
+T37	PROCEDIMIENTO 607 618	corticoides
+T38	PROCEDIMIENTO 784 797	quimioterapia
+T39	PROCEDIMIENTO 1481 1508	exploración psicopatológica
+T40	PROCEDIMIENTO 2506 2519	quimioterapia
+T41	PROCEDIMIENTO 2939 2966	Exploración psicopatológica
+T42	PROCEDIMIENTO 3641 3659	Análisis de sangre
+T43	PROCEDIMIENTO 3661 3670	hemograma
+T44	PROCEDIMIENTO 3846 3863	Análisis de orina
+T45	PROCEDIMIENTO 3885 3899	Punción lumbar
+T46	PROCEDIMIENTO 3929 3941	RMN cerebral
+T47	PROCEDIMIENTO 3975 3995	Electroencefalograma
+T48	PROCEDIMIENTO 4615 4646	tratamiento con quimioterápicos
+T49	PROCEDIMIENTO 4649 4660	corticoides
+T50	PROCEDIMIENTO 5318 5344	tratamiento antineoplásico
+T51	PROCEDIMIENTO 5547 5558	corticoides
+T52	PROCEDIMIENTO 5621 5632	corticoides
+T53	PROCEDIMIENTO 6201 6215	punción lumbar
+T54	PROCEDIMIENTO 6221 6233	RMN cerebral
+T55	PROCEDIMIENTO 6235 6238	EEG
+T56	PROCEDIMIENTO 8478 8491	quimioterapia
+T57	PROCEDIMIENTO 8538 8564	tratamiento quimioterápico
+T58	PROCEDIMIENTO 9743 9770	exploración psicopatológica
+T59	NEG 210 212	no
+T60	NSCO 213 217	RAMc
+T61	NEG 219 221	no
+T62	NSCO 222 224	DM
+T63	NEG 226 228	no
+T64	NSCO 229 239	dislipemia
+T65	NEG 928 930	No
+T66	NSCO 931 952	otros hábitos tóxicos
+T67	NEG 1404 1407	Sin
+T68	NSCO 1408 1456	antecedentes familiares psiquiátricos de interés
+T69	NEG 1919 1933	desorientación
+T70	NEG 2107 2118	incoherente
+T71	NEG 2393 2396	sin
+T72	NSCO 2397 2418	mejoría de la clínica
+T73	UNC 3037 3044	posible
+T74	USCO 3045 3064	valorar orientación
+T75	NEG 3102 3113	incoherente
+T76	UNC 3196 3203	podrían
+T77	USCO 3204 3243	desprenderse ideas de contenido místico
+T78	UNC 3245 3254	Probables
+T79	USCO 3255 3277	alucinaciones visuales
+T80	NEG 3329 3332	sin
+T81	NSCO 3333 3351	signos de ansiedad
+T82	NEG 3834 3842	negativo
+T83	NEG 3865 3868	sin
+T84	NSCO 3869 3881	alteraciones
+T85	NEG 3916 3925	negativos
+T86	NEG 3943 3946	sin
+T87	NSCO 3947 3971	hallazgas significativos
+T88	NEG 4137 4153	quedó descartado
+T89	NSCO 4154 4177	con el estudio orgánico
+T90	NEG 4351 4353	vs
+T91	NSCO 4354 4364	secundaria
+T92	NEG 4495 4498	sin
+T93	NSCO 4499 4570	antecedentes personales ni familiares de trastornos del estado de ánimo
+T94	UNC 4670 4679	altamente
+T95	USCO 4680 4690	improbable
+T96	NEG 5045 5055	descartada
+T97	NSCO 5056 5067	rápidamente
+T98	NEG 5126 5128	no
+T99	NSCO 5129 5163	hallar correlatos en la literatura
+T100	UNC 5299 5306	pudiera
+T101	USCO 5307 5359	deberse al tratamiento antineoplásico con cisplatino
+T102	NEG 5403 5405	no
+T103	NSCO 5406 5476	hallar referencias bibliográficas similares o relacionadas con su caso
+T104	NEG 5938 5948	descartado
+T105	NSCO 5949 5968	en nuestro paciente
+T106	NEG 5977 5988	ausencia de
+T107	NSCO 5989 6026	antecedentes personales psiquiátricos
+T108	UNC 6096 6107	posibilidad
+T109	USCO 6108 6173	diagnóstica la presencia de metástasis a nivel cerebral o espinal
+T110	NEG 6390 6392	no
+T111	NSCO 6393 6403	lo sugería
+T112	NEG 6515 6517	no
+T113	NSCO 6518 6551	lo sugería y la evolución tampoco
+T114	NEG 6568 6570	no
+T115	NSCO 6571 6639	lo refería ni el paciente, ni la familia ni el servicio de oncología
+T116	NEG 6874 6876	no
+T117	NSCO 6877 6894	hubiera surgido a
+T118	NEG 6895 6897	no
+T119	NSCO 6898 6932	ser por la vivencia que la originó
+T120	NEG 7264 7272	falta de
+T121	NSCO 7273 7302	adecuación respecto al motivo
+T122	NEG 7735 7737	no
+T123	NSCO 7738 7776	suelen alcanzar proporciones anormales
+T124	NEG 7815 7826	negación de
+T125	NSCO 7827 7857	la grave enfermedad de su hijo
+T126	NEG 8354 8356	no
+T127	NSCO 8357 8365	es clara
+T128	NEG 9231 9240	Se retiró
+T129	NSCO 9241 9262	el tratamiento previo
+T130	NEG 9268 9270	no
+T131	NSCO 9271 9290	había sido efectivo
+T132	UNC 9693 9700	valorar
+T133	USCO 9701 9728	la eficacia del tratamiento
+T134	NEG 10633 10645	asintomático
+T135	NSCO 10646 10666	psicopatológicamente
+T136	FARMACO 286 296	bisoprolol
+T137	FARMACO 297 314	hidroclorotiazida
+T138	FARMACO 324 333	omeprazol
+T139	FARMACO 335 345	alprazolam
+T140	FARMACO 347 357	ibuprofeno
+T141	FARMACO 571 581	cisplatino
+T142	FARMACO 584 595	permetrexed
+T143	FARMACO 667 679	dexametasona
+T144	FARMACO 711 721	prednisona
+T145	FARMACO 2294 2305	haloperidol
+T146	FARMACO 2316 2325	lorazepam
+T147	FARMACO 2335 2346	haloperidol
+T148	FARMACO 2371 2379	tiaprida
+T149	FARMACO 2382 2391	midazolam
+T150	FARMACO 3553 3564	haloperidol
+T151	FARMACO 4935 4945	cisplatino
+T152	FARMACO 5017 5027	cisplatino
+T153	FARMACO 5349 5359	cisplatino
+T154	FARMACO 9323 9333	quetiapina
+T155	FARMACO 9384 9394	clonazepam
+T156	FARMACO 9437 9447	quetiapina
+T157	FARMACO 9579 9592	tolerabilidad
+T158	FARMACO 10437 10447	clonazepam
+T159	FARMACO 10472 10482	quetiapina
+T160	ORG_VIVO 190 200	personales
+T161	ORG_VIVO 815 825	personales
+T162	ORG_VIVO 1014 1021	familia
+T163	ORG_VIVO 1096 1102	Casado
+T164	ORG_VIVO 1110 1115	hijos
+T165	ORG_VIVO 1129 1135	esposa
+T166	ORG_VIVO 1155 1165	familiares
+T167	ORG_VIVO 1240 1250	familiares
+T168	ORG_VIVO 1275 1285	familiares
+T169	ORG_VIVO 1306 1311	madre
+T170	ORG_VIVO 1317 1324	hermana
+T171	ORG_VIVO 1348 1352	hijo
+T172	ORG_VIVO 1375 1380	Padre
+T173	ORG_VIVO 1421 1431	familiares
+T174	ORG_VIVO 1532 1538	hombre
+T175	ORG_VIVO 1864 1874	familiares
+T176	ORG_VIVO 2424 2434	familiares
+T177	ORG_VIVO 2588 2596	paciente
+T178	ORG_VIVO 2982 2990	paciente
+T179	ORG_VIVO 3810 3813	VHB
+T180	ORG_VIVO 3815 3818	VHC
+T181	ORG_VIVO 3820 3823	VIH
+T182	ORG_VIVO 3825 3832	Sífilis
+T183	ORG_VIVO 4459 4467	paciente
+T184	ORG_VIVO 4512 4522	personales
+T185	ORG_VIVO 4526 4536	familiares
+T186	ORG_VIVO 4800 4808	paciente
+T187	ORG_VIVO 5113 5121	paciente
+T188	ORG_VIVO 5207 5212	mujer
+T189	ORG_VIVO 5668 5677	pacientes
+T190	ORG_VIVO 5960 5968	paciente
+T191	ORG_VIVO 6002 6012	personales
+T192	ORG_VIVO 6588 6596	paciente
+T193	ORG_VIVO 6604 6611	familia
+T194	ORG_VIVO 7793 7801	paciente
+T195	ORG_VIVO 7853 7857	hijo
+T196	ORG_VIVO 8861 8869	paciente
+T197	ORG_VIVO 9623 9632	pacientes
+T198	ORG_VIVO 9678 9686	paciente
+T199	ORG_VIVO 10339 10347	paciente
+T200	ORG_VIVO 10617 10625	paciente
+T201	ENFERMEDAD 222 224	DM
+T202	ENFERMEDAD 229 239	dislipemia
+T203	ENFERMEDAD 241 262	Hipertensión arterial
+T204	ENFERMEDAD 427 456	Adenocarcinoma broncopulmonar
+T205	ENFERMEDAD 461 481	metástasis pleurales
+T206	ENFERMEDAD 1312 1315	LLC
+T207	ENFERMEDAD 1329 1346	neoplasia uterina
+T208	ENFERMEDAD 1357 1372	linfoma cutáneo
+T209	ENFERMEDAD 1385 1402	demencia vascular
+T210	ENFERMEDAD 3011 3025	hipo-proséxico
+T211	ENFERMEDAD 3343 3351	ansiedad
+T212	ENFERMEDAD 3441 3459	cuadro confusional
+T213	ENFERMEDAD 4063 4090	Metástasis a nivel cerebral
+T214	ENFERMEDAD 4416 4430	manía primaria
+T215	ENFERMEDAD 4540 4570	trastornos del estado de ánimo
+T216	ENFERMEDAD 4755 4783	deterioro cognitivo moderado
+T217	ENFERMEDAD 4816 4831	delirium franco
+T218	ENFERMEDAD 5499 5526	cáncer gástrico metastásico
+T219	ENFERMEDAD 5582 5606	trastornos psiquiátricos
+T220	ENFERMEDAD 5807 5815	psicosis
+T221	ENFERMEDAD 5820 5828	delirium
+T222	ENFERMEDAD 5844 5853	depresión
+T223	ENFERMEDAD 5902 5936	trastornos psiquiátricos primarios
+T224	ENFERMEDAD 6029 6051	encefalopatías tóxicas
+T225	ENFERMEDAD 6053 6078	metabólicas e infecciosas
+T226	ENFERMEDAD 6136 6173	metástasis a nivel cerebral o espinal
+T227	ENFERMEDAD 6295 6303	delirium
+T228	ENFERMEDAD 6349 6377	accidentes cerebrovasculares
+T229	ENFERMEDAD 6457 6486	trastornos neuropsiquiátricos
+T230	ENFERMEDAD 6493 6502	Parkinson
+T231	ENFERMEDAD 6643 6653	neoplasias
+T232	ENFERMEDAD 7431 7447	enfermedad grave
+T233	ENFERMEDAD 7859 7874	linfoma cutáneo
+T234	ENFERMEDAD 8339 8353	cuadro maníaco
+T235	ENFERMEDAD 8425 8434	hipomanía
+T236	ENFERMEDAD 8920 8928	delirium
+T237	ENFERMEDAD 9456 9484	fracaso de los neurolépticos
+T238	ENFERMEDAD 9637 9663	patología médica comórbida
+T239	PACIENTE-SITUACION_LABORAL 1214 1222	jubilado
+T240	PACIENTE-PROFESION 1167 1212	Actividad laboral en la industria del calzado

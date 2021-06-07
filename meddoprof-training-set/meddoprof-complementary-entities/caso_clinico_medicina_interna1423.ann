@@ -1,0 +1,76 @@
+T1	SINTOMA 543 549	disnea
+T2	SINTOMA 589 606	tos no productiva
+T3	SINTOMA 611 617	fiebre
+T4	SINTOMA 625 633	ortopnea
+T5	SINTOMA 635 641	edemas
+T6	SINTOMA 643 657	dolor torácico
+T7	SINTOMA 661 671	hemoptisis
+T8	SINTOMA 759 784	palidez de piel y mucosas
+T9	SINTOMA 786 794	Eupneica
+T10	SINTOMA 846 871	hipoventilación bilateral
+T11	SINTOMA 873 902	crepitantes ligeros bibasales
+T12	SINTOMA 1346 1352	disnea
+T13	SINTOMA 1384 1395	proteinuria
+T14	SINTOMA 1423 1437	microhematuria
+T15	PROCEDIMIENTO 90 131	Resección segmentaria de colon transverso
+T16	PROCEDIMIENTO 307 309	TC
+T17	PROCEDIMIENTO 1038 1050	Gasometría A
+T18	PROCEDIMIENTO 1088 1099	Rx de Tórax
+T19	PROCEDIMIENTO 1211 1238	tratamiento con antibiótico
+T20	PROCEDIMIENTO 1249 1271	corticoides sistémicos
+T21	PROCEDIMIENTO 1273 1286	fluidoterapia
+T22	PROCEDIMIENTO 1699 1712	biopsia renal
+T23	NEG 16 18	no
+T24	NSCO 19 21	DM
+T25	NEG 23 25	no
+T26	NSCO 26 29	HTA
+T27	NEG 31 33	no
+T28	NSCO 34 44	dislipemia
+T29	NEG 46 49	Sin
+T30	NSCO 50 88	antecedentes medicamentosos ni tóxicos
+T31	NEG 212 215	sin
+T32	NSCO 216 280	indicación clara de tratamiento adyuvante por parte de Oncología
+T33	NEG 310 312	no
+T34	NSCO 313 337	mostraba patología aguda
+T35	NEG 593 595	no
+T36	NSCO 596 606	productiva
+T37	NEG 607 610	sin
+T38	NSCO 611 617	fiebre
+T39	NEG 619 624	Niega
+T40	NSCO 625 671	ortopnea, edemas, dolor torácico ni hemoptisis
+T41	NEG 685 690	niega
+T42	NSCO 691 733	exteriorización de sangrado de ningún tipo
+T43	UNC 1301 1308	posible
+T44	USCO 1309 1331	infección respiratoria
+T45	NEG 1462 1464	no
+T46	NSCO 1465 1485	conocida previamente
+T47	UNC 1494 1504	impresiona
+T48	USCO 1505 1566	un cuadro clínico de Glomérulonefritis rápidamente progresiva
+T49	UNC 1568 1576	Probable
+T50	USCO 1577 1632	hemorragia alveolar secundaria a ¿Síndrome Goodpasture?
+T51	ORG_VIVO 0 5	Mujer
+T52	ORG_VIVO 403 430	médico de atención Primaria
+T53	ORG_VIVO 467 477	familiares
+T54	ORG_VIVO 484 491	hermano
+T55	ORG_VIVO 676 684	paciente
+T56	ENFERMEDAD 19 21	DM
+T57	ENFERMEDAD 26 29	HTA
+T58	ENFERMEDAD 34 44	dislipemia
+T59	ENFERMEDAD 136 168	Adenocarcinoma bien diferenciado
+T60	ENFERMEDAD 170 196	Estadío B2 de Atler-Coller
+T61	ENFERMEDAD 322 337	patología aguda
+T62	ENFERMEDAD 360 371	anemización
+T63	ENFERMEDAD 1052 1086	Insuficiencia respiratoria parcial
+T64	ENFERMEDAD 1309 1331	infección respiratoria
+T65	ENFERMEDAD 1355 1374	insuficiencia renal
+T66	ENFERMEDAD 1423 1437	microhematuria
+T67	ENFERMEDAD 1440 1461	Hipertensión arterial
+T68	ENFERMEDAD 1526 1566	Glomérulonefritis rápidamente progresiva
+T69	ENFERMEDAD 1577 1607	hemorragia alveolar secundaria
+T70	ENFERMEDAD 1611 1631	Síndrome Goodpasture
+T71	ENFERMEDAD 1727 1746	Insuficiencia renal
+T72	ENFERMEDAD 1783 1823	GN extracapilar tipo III P-Anca positiva
+T73	ENFERMEDAD 1825 1860	poliangeitis microscópica micro PAM
+T74	ENFERMEDAD 1864 1903	hemorragia pulmonar alveolointersticial
+T75	ENFERMEDAD 1917 1941	vasculitis tipo MICROPAM
+T76	SANITARIO-PROFESION 403 430	médico de atención Primaria

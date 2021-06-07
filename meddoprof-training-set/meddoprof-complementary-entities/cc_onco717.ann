@@ -1,0 +1,85 @@
+T1	SINTOMA 467 487	dolor en hipocondrio
+T2	SINTOMA 1380 1390	consciente
+T3	SINTOMA 1392 1401	orientado
+T4	SINTOMA 1432 1439	afebril
+T5	SINTOMA 1441 1449	eupneico
+T6	SINTOMA 3077 3088	alopecia G3
+T7	SINTOMA 3842 3846	rash
+T8	PROCEDIMIENTO 597 606	ecografía
+T9	PROCEDIMIENTO 608 656	tomografía computarizada (TC) de tórax y abdomen
+T10	PROCEDIMIENTO 658 664	PET-TC
+T11	PROCEDIMIENTO 667 683	biopsia hepática
+T12	PROCEDIMIENTO 983 1011	lobectomía lateral izquierda
+T13	PROCEDIMIENTO 1014 1035	segmentectomía VI-VII
+T14	PROCEDIMIENTO 1037 1052	colecistectomía
+T15	PROCEDIMIENTO 1055 1114	linfadenectomía hiliar, retroperitoneal y de tronco celiaco
+T16	PROCEDIMIENTO 1287 1305	Exploración física
+T17	PROCEDIMIENTO 1473 1494	laparotomía subcostal
+T18	PROCEDIMIENTO 1682 1691	Hemograma
+T19	PROCEDIMIENTO 1745 1763	TC toracoabdominal
+T20	PROCEDIMIENTO 2060 2088	lobectomía lateral izquierda
+T21	PROCEDIMIENTO 2091 2112	segmentectomía VI-VII
+T22	PROCEDIMIENTO 2114 2129	colecistectomía
+T23	PROCEDIMIENTO 2132 2154	linfadenectomía hiliar
+T24	PROCEDIMIENTO 2196 2238	reconstrucción de arteria hepática derecha
+T25	PROCEDIMIENTO 2386 2388	TC
+T26	PROCEDIMIENTO 2565 2583	segmentectomía VII
+T27	PROCEDIMIENTO 2891 2904	quimioterapia
+T28	PROCEDIMIENTO 2906 2908	QT
+T29	PROCEDIMIENTO 4621 4623	TC
+T30	NEG 196 198	No
+T31	NSCO 199 282	presenta alergias medicamentosas, hábitos tóxicos ni toma tratamiento habitualmente
+T32	NEG 899 902	sin
+T33	NSCO 903 956	otra diseminación sugestiva de malignidad a distancia
+T34	NEG 1205 1208	sin
+T35	NSCO 1209 1233	presentar complicaciones
+T36	NEG 1432 1439	afebril
+T37	NEG 1513 1515	No
+T38	NSCO 1516 1565	tiene otras alteraciones por aparatos ni sistemas
+T39	NEG 2275 2278	sin
+T40	NSCO 2279 2300	tratamiento adyuvante
+T41	NEG 2309 2317	falta de
+T42	NSCO 2318 2353	beneficio descrito en la literatura
+T43	UNC 2796 2804	probable
+T44	USCO 2805 2846	pulmonar única en lóbulo inferior derecho
+T45	NEG 4104 4112	suspende
+T46	NSCO 4113 4128	definitivamente
+T47	NEG 4300 4314	suspendiéndose
+T48	NSCO 4315 4330	por PE pulmonar
+T49	NEG 4373 4385	asintomático
+T50	FARMACO 2924 2934	cisplatino
+T51	FARMACO 2946 2959	doxorrubicina
+T52	FARMACO 3263 3272	sorafenib
+T53	FARMACO 3774 3783	erlotinib
+T54	FARMACO 3988 3997	sorafenib
+T55	FARMACO 4198 4209	dexanabinol
+T56	FARMACO 4464 4475	gemcitabina
+T57	FARMACO 4490 4502	oxaliplatino
+T58	FARMACO 4942 4951	nivolumab
+T59	ORG_VIVO 25 30	varón
+T60	ORG_VIVO 60 70	familiares
+T61	ORG_VIVO 74 85	tía materna
+T62	ORG_VIVO 131 142	tía paterna
+T63	ORG_VIVO 319 327	personal
+T64	ENFERMEDAD 101 116	melanoma precoz
+T65	ENFERMEDAD 160 182	neoplasia hematológica
+T66	ENFERMEDAD 328 345	migraña ocasional
+T67	ENFERMEDAD 703 716	masa hepática
+T68	ENFERMEDAD 740 779	nódulos metastásicos en lóbulo hepático
+T69	ENFERMEDAD 826 854	hepatocarcinoma fibrolamelar
+T70	ENFERMEDAD 866 898	adenopatías patológicas hiliares
+T71	ENFERMEDAD 1148 1176	hepatocarcinoma fibrolamelar
+T72	ENFERMEDAD 1976 2017	Hepatocarcinoma fibrolamelar estadio IV-A
+T73	ENFERMEDAD 2019 2026	T3aN1M0
+T74	ENFERMEDAD 2463 2509	lesión heterogénea en segmento VI-VII hepática
+T75	ENFERMEDAD 2633 2649	CHC fibrolamelar
+T76	ENFERMEDAD 2710 2727	recidiva hepática
+T77	ENFERMEDAD 2741 2838	implantes perihepático, pelvis), intercostal derecha y probable pulmonar única en lóbulo inferior
+T78	ENFERMEDAD 3077 3085	alopecia
+T79	ENFERMEDAD 3091 3102	neutropenia
+T80	ENFERMEDAD 3356 3373	síndrome mano-pie
+T81	ENFERMEDAD 3511 3529	lesión intercostal
+T82	ENFERMEDAD 4040 4058	toxicidad hepática
+T83	ENFERMEDAD 4061 4078	síndrome mano-pie
+T84	ENFERMEDAD 4655 4673	toxicidad hepática
+T85	ENFERMEDAD 5075 5088	transaminitis

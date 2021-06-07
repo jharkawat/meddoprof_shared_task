@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 73 años de edad, exfumador de 30 paquetes/año y con historia laboral de albañil sin contacto con asbesto, que consulta por disnea progresiva, hasta clase funcional III, y tos seca de un mes de evolución. No refería fiebre, dolor torácico, ni cuadro constitucional. Se trata de un paciente hipertenso, dislipémico, con fibrilación auricular crónica descoagulado con acenocumarol, síndrome de apnea-hipoapnea durante el sueño con CPAP nocturna y antecedente de exéresis de adenomas túbulo-vellosos colónicos.
+
+Exploración física
+Tensión arterial 154/86 mm Hg; frecuencia cardíaca 70 lpm; frecuencia respiratoria 25 rpm; temperatura 37oC; satO2 94%. Índice de Karnofsky del 80%, con sobrepeso. Únicamente destacaba tonos cardíacos arrítmicos, sin soplos ni edemas en extremidades, e hipofonesis basal derecha, en la auscultación cardiorrespiratoria.
+
+Pruebas complementarias
+• La analítica en Urgencias mostraba una bioquímica normal, hemoglobina de 11 g/dl con normocromía y normocitosis, y proteína C reactiva de 2,8 mg/dl.
+• Se realizó una radiografía torácica, que evidenció un derrame pleural derecho que ocupaba los dos tercios inferiores del hemitórax, con signo de la embarazada, sin nodulaciones ni aumento mediastínico, por lo que se hizo toracocentesis diagnóstica con exudado linfocitario (según criterios de Light), con 1.400 células, sin microorganismos, cursándose citología del líquido, ingresando el paciente a espera de resultados, para tratamiento y estudio.
+• En planta se llevaron a cabo las siguientes pruebas:
+• Tomografía computarizada toracoabdominal: describió un derrame pleural derecho con colapso del lóbulo inferior e implantes pleurales homolaterales, sin lesiones pulmonares sugestivas de tumor primario.
+• Resonancia magnética en difusión: se encuentran un total de cinco lesiones, que restringen la difusión, en la pleura derecha, con derrame pleural asociado, sugestivo de malignidad, planteándose un posible primario pleural.
+• Marcadores tumorales: CEA 7,4 ng/ml; CA- 125 126,2 U/ml; AFP 2,1 ng/ml.
+• Citología del líquido pleural: adenocarcinoma con citoqueratina 7 positiva, citoqueratina 20 negativa y TTF-1: negativo, compatible con primario pulmonar, mesotelioma, mama, próstata, germinal y neuroendocrino.
+• Dado que la immunohistoquímica no era concluyente, ya que un tercio de los adenocarcinomas pulmonares son TTF-1 negativo, teniendo en cuenta que la citología no es la técnica diagnóstica ideal para descartar mesotelioma y ante los hallazgos en la resonancia magnética de difusión, se decidió realizar un examen mediante videotoracoscopia para obtener un biopsia pleural y realizar talcaje, con anatomía patológica diagnóstica para metástasis de adenocarcinoma papilar de probable origen prostático, antígeno prostático específico, racemasa, CD-10 y FA prostática positiva.
+• Con el diagnóstico de neoplasia de próstata estadio IV (metástasis pleurales) se decidió estudio de extensión con GGO que demostró metástasis politópicas en huesos largos, tronco y costillas.
+
+Diagnóstico
+Finalmente, se valoró al paciente como afecto de adenocarcinoma de próstata estadio IV por metástasis pleurales y óseas.
+
+Tratamiento y evolución
+Se practicó una tumorectomía y linfadenectomía. En planta se instauró tratamiento con broncodilatadores, corticoides y diurético, con mejoría sintomática y disminución del derrame pleural. Posteriormente a la pleuroscopia con talcaje, y una vez diagnosticado, se inició tratamiento específico con bicalutamida, leuprorelina y ácido zoledrónico. Actualmente, el paciente mantiene un índice de Karnofsky del 80% y no presenta sintomatología respiratoria ni complicaciones óseas.

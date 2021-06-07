@@ -1,0 +1,140 @@
+T1	SINTOMA 343 349	fiebre
+T2	SINTOMA 362 373	escalofríos
+T3	SINTOMA 381 387	vómito
+T4	SINTOMA 394 425	tumoración dolorosa en la axila
+T5	SINTOMA 494 500	fiebre
+T6	SINTOMA 525 530	dolor
+T7	SINTOMA 738 744	fiebre
+T8	SINTOMA 750 767	tumoración axilar
+T9	SINTOMA 789 797	dolorosa
+T10	SINTOMA 914 924	Consciente
+T11	SINTOMA 926 935	orientado
+T12	SINTOMA 938 949	colaborador
+T13	SINTOMA 1074 1128	Abdomen blando, depresible, no doloroso a la palpación
+T14	SINTOMA 1201 1235	tumoración dolorosa a la palpación
+T15	SINTOMA 1714 1720	febril
+T16	SINTOMA 2571 2585	fiebre elevada
+T17	SINTOMA 2588 2610	dolor intenso en axila
+T18	SINTOMA 4794 4800	fiebre
+T19	SINTOMA 4943 4949	fiebre
+T20	SINTOMA 5385 5397	asintomático
+T21	SINTOMA 5968 5980	asintomático
+T22	PROCEDIMIENTO 957 976	hidratación de piel
+T23	PROCEDIMIENTO 1020 1047	auscultación cardiopulmonar
+T24	PROCEDIMIENTO 1410 1419	hemograma
+T25	PROCEDIMIENTO 1422 1444	estudio de coagulación
+T26	PROCEDIMIENTO 1459 1478	pruebas bioquímicas
+T27	PROCEDIMIENTO 1693 1705	hemocultivos
+T28	PROCEDIMIENTO 1725 1772	ecografía de partes blandas de la región axilar
+T29	PROCEDIMIENTO 2070 2093	tratamiento antibiótico
+T30	PROCEDIMIENTO 2233 2242	ecografía
+T31	PROCEDIMIENTO 2632 2655	tratamiento antibiótico
+T32	PROCEDIMIENTO 2710 2730	TAC toraco-abdominal
+T33	PROCEDIMIENTO 2944 2966	inyección de contraste
+T34	PROCEDIMIENTO 3227 3245	punción aspirativa
+T35	PROCEDIMIENTO 5244 5267	tratamiento antibiótico
+T36	PROCEDIMIENTO 5705 5733	PCR para Bartonella henselae
+T37	NEG 111 114	Sin
+T38	NSCO 115 174	hábitos tóxicos, alergias ni viajes recientes al extranjero
+T39	NEG 234 236	No
+T40	NSCO 237 287	refería contacto con animales en los últimos meses
+T41	NEG 1102 1104	no
+T42	NSCO 1105 1128	doloroso a la palpación
+T43	NEG 1130 1133	sin
+T44	NSCO 1134 1167	crecimientos viscerales palpables
+T45	NEG 1665 1674	negativas
+T46	NEG 2399 2401	no
+T47	NSCO 2402 2447	realizó ningún procedimiento en esos momentos
+T48	NEG 3057 3060	sin
+T49	NSCO 3061 3096	descartar otra patología subyacente
+T50	NEG 3991 3993	no
+T51	NSCO 3994 4022	es endémica en nuestro medio
+T52	NEG 4059 4061	no
+T53	NSCO 4062 4091	había viajado fuera de España
+T54	UNC 4489 4496	posible
+T55	USCO 4497 4527	causa de adenopatías supuradas
+T56	NEG 4950 4953	sin
+T57	NSCO 4954 4958	foco
+T58	UNC 4959 4967	aparente
+T59	USCO 4968 4993	y es causa de adenopatías
+T60	NEG 5296 5311	desaparición de
+T61	NSCO 5312 5331	toda sintomatología
+T62	NEG 5385 5397	asintomático
+T63	NEG 5400 5403	sin
+T64	NSCO 5404 5428	nuevos signos o síntomas
+T65	NSCO 5587 5622	los cultivos en medios de bacterias
+T66	NEG 5654 5663	negativos
+T67	UNC 5673 5681	sospecha
+T68	USCO 5682 5689	clínica
+T69	NEG 5968 5980	asintomático
+T70	FARMACO 659 682	Amoxicilina/Clavulánico
+T71	FARMACO 2098 2109	cloxacilina
+T72	FARMACO 2112 2123	ceftriaxona
+T73	FARMACO 5067 5081	Claritromicina
+T74	FARMACO 5880 5892	azitromicina
+T75	ORG_VIVO 0 5	Varón
+T76	ORG_VIVO 80 109	trabajador de la construcción
+T77	ORG_VIVO 258 266	animales
+T78	ORG_VIVO 301 328	médico de atención primaria
+T79	ORG_VIVO 870 878	paciente
+T80	ORG_VIVO 1570 1573	VHB
+T81	ORG_VIVO 1575 1578	VHC
+T82	ORG_VIVO 1580 1583	VHA
+T83	ORG_VIVO 1585 1602	Coxiella burnetti
+T84	ORG_VIVO 1604 1614	Toxoplasma
+T85	ORG_VIVO 1616 1627	Rickettsias
+T86	ORG_VIVO 1635 1638	VIH
+T87	ORG_VIVO 1640 1643	VEB
+T88	ORG_VIVO 1646 1653	rubeóla
+T89	ORG_VIVO 1981 1989	paciente
+T90	ORG_VIVO 2463 2471	cirujano
+T91	ORG_VIVO 2516 2524	paciente
+T92	ORG_VIVO 2550 2557	enfermo
+T93	ORG_VIVO 3587 3593	germen
+T94	ORG_VIVO 3633 3641	S.aureus
+T95	ORG_VIVO 3653 3663	S.pyogenes
+T96	ORG_VIVO 3716 3731	M. tuberculosis
+T97	ORG_VIVO 3799 3807	M. avium
+T98	ORG_VIVO 3810 3825	M. scrofulaceum
+T99	ORG_VIVO 3948 3963	Yersinia pestis
+T100	ORG_VIVO 4035 4043	paciente
+T101	ORG_VIVO 4095 4117	Francisella tularensis
+T102	ORG_VIVO 4119 4138	Bartonella henselae
+T103	ORG_VIVO 4166 4181	microorganismos
+T104	ORG_VIVO 4273 4281	animales
+T105	ORG_VIVO 4316 4324	paciente
+T106	ORG_VIVO 4340 4344	hijo
+T107	ORG_VIVO 4373 4377	gato
+T108	ORG_VIVO 4421 4428	familia
+T109	ORG_VIVO 4459 4480	Chlamydia trachomatis
+T110	ORG_VIVO 4571 4579	paciente
+T111	ORG_VIVO 4775 4783	paciente
+T112	ORG_VIVO 4922 4930	personas
+T113	ORG_VIVO 5366 5374	paciente
+T114	ORG_VIVO 5613 5622	bacterias
+T115	ORG_VIVO 5624 5630	hongos
+T116	ORG_VIVO 5633 5646	micobacterias
+T117	ORG_VIVO 5714 5733	Bartonella henselae
+T118	ORG_VIVO 5842 5850	paciente
+T119	ENFERMEDAD 192 232	dermatitis seborreica en cuero cabelludo
+T120	ENFERMEDAD 2354 2371	adenopatía axilar
+T121	ENFERMEDAD 2781 2819	lesión ocupante de espacio en la axila
+T122	ENFERMEDAD 3031 3055	adenopatía abscesificada
+T123	ENFERMEDAD 3146 3183	adenopatías adyacentes a la principal
+T124	ENFERMEDAD 3424 3450	adenopatía axilar supurada
+T125	ENFERMEDAD 3518 3540	Absceso axilar piógeno
+T126	ENFERMEDAD 3667 3694	Infección por micobacterias
+T127	ENFERMEDAD 3719 3731	tuberculosis
+T128	ENFERMEDAD 3752 3763	adenopatías
+T129	ENFERMEDAD 3848 3860	linfadenitis
+T130	ENFERMEDAD 4506 4566	adenopatías supuradas, particularmente en la región inguinal
+T131	ENFERMEDAD 4646 4664	Linfoma de Hodgkin
+T132	ENFERMEDAD 4673 4684	adenopatías
+T133	ENFERMEDAD 4827 4837	adenopatía
+T134	ENFERMEDAD 4873 4895	enfermedad de Kikuchi-
+T135	ENFERMEDAD 4982 4993	adenopatías
+T136	ENFERMEDAD 5531 5541	adenopatía
+T137	ENFERMEDAD 5807 5837	enfermedad por arañazo de gato
+T138	SANITARIO-PROFESION 301 328	médico de atención primaria
+T139	PACIENTE-PROFESION 80 109	trabajador de la construcción
+T140	SANITARIO-PROFESION 2463 2471	cirujano

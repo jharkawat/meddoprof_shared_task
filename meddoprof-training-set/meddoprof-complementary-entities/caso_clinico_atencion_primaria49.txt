@@ -1,0 +1,32 @@
+Motivo de consulta
+Episodios repetidos de tos, disnea y fiebre.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Mujer de 61, que en el plazo de tres meses sufre dos episodios de tos, disnea y fiebre, diagnosticados de Neumonía aguda de la comunidad, sin respuesta a tratamiento antibiótico y que precisa ingreso hospitalario. Primer episodio: tras 19 días de tratamiento con levofloxacino, se ingresa a la paciente del 21 de enero al 8 de febrero. Segundo ingreso del 1 al 8 de marzo. Según los criterios de la American Thoracic Society se considera neumonía que no responde al tratamiento aquella que no logra estabilidad clínica a las 72h del diagnóstico y tratamiento.
+No se identifica germen causal en ninguno de los episodios. En las dos ocasiones recibe tratamiento con antibióticos (la primera ocasión tazoceliv), corticoides orales, oxígeno y aerosolterapia.
+En abril de 2019, tras nuevo empeoramiento clínico, se sospecha posible neumonía criptogenética, y se solicita fibrobroncoscopia, tras lo que se establece el diagnóstico en base a la siguiente secuencia de resultados:
+Cuadro de evolución fluctuante.
+Infiltrados alveolares migratorios en los estudios radiológicos.
+TAC de tórax con múltiples consolidaciones bilaterales.
+Rápida mejoría de los episodios tras instaurar tratamiento con corticoides orales. Fibrobroncoscopia con aspirado que no aísla flora patógena. Biopsia pulmonar con anatomía patológica que muestra abundante celularidad inflamatoria de tipo crónico.
+Tras el diagnóstico, se instaura tratamiento con prednisona oral durante tres meses, comenzando con40mg/día/1 mes y descenso paulatino. Consigue mejoría clínica y radiológica en corto plazo.
+Tras varios meses asintomática, la paciente ingresa nuevamente en agosto de 2019, un mes después de suspender corticoides orales.
+Desde el primer episodio de neumonía la paciente acude con frecuencia a la consulta de Atención Primaria, unas para aportar informes de evolución y otras para revisión de los procesos respiratorios. En dos ocasiones acude después de ser valorada en Urgencias de hospital por persistencia del atos y la disnea. En Urgencias no se había modificado la dosis de corticoides que recibía la paciente. En el centro de salud,se sube la dosis de prednisona mejorando rápidamente la sintomatología y evitando así ingreso hospitalario.
+El 7 de enero de 2020 la paciente acude nuevamente a consulta de Primaria aportando informe de Urgencias del día anterior, donde ha sido diagnosticada de bronquitis aguda y tratada con inhaladores. En consulta del centro de salud presenta tos seca persistente, disnea y taquipnea. Se analiza la radiografía de tórax realizada en Urgencias e informada como normal, comprobandose, sin embargo,imagen focal nodular única en lóbulo superior derecho. Se repite la radiografía en el centro de salud, que muestra agravamiento de la imagen anterior. Se deriva a Hospital con la sospecha de recidiva de Neumonía criptogénetica. Es ingresada nuevamente y tratada con corticoides orales y medidas de soporte hasta su mejoría.
+
+Enfoque familiar y comunitario
+Mujer de 62 años, separada, dos hijos: el hijo mayor emancipado, con dos hijas; el hijo menor vive con la madre. Como muchas mujeres de su generación compatibiliza trabajo remunerado de auxiliar administrativa, con las tareas domésticas y coopera por las tardes en el cuidado de sus dos nietas pequeñas.
+
+Antecedentes personales: Fumadora de 15 cig/día hasta 2017. Hernia hiatal y dispepsia crónica.
+
+Trastorno ansioso-depresivo en tratamiento farmacológico. Intervenciones quirúrgicas: una cesárea, amigdalectomía y carcinoma in situ de cérvix.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Neumonía criptogenética.
+El diagnóstico diferencial incluiría neumonía aguda por bacterias nosocomiales resistentes, TEP, neoplasias, vasculitis, sarcoidosis y toxicidad por drogas.
+
+Plan de acción y evolución
+Seguimiento conjunto de Neumología y Atención Primaria, valorando de forma precoz la aparición de síntomas respiratorios, para instaurar o modificar tratamiento de base y evitar ingreso hospitalario.
+
+Evolución: la neumonía criptogenética, se engloba dentro del grupo de Neumonías que no responden a tratamiento. Por su baja incidencia suelen pasar desapercibidas y tardan en diagnosticarse; en el caso de nuestra paciente, a los tres meses del comienzo. Son frecuentes las recaídas tras la supresión del tratamiento corticoideo. Nuestra paciente recibió tratamiento con prednisona a dosis decrecientes durante 3 meses y sufrió recaída al mes de la suspensión, requiriendo el tercer ingreso hospitalario. Otra consideración importante a tener en cuenta es que en algunas ocasiones el paciente solo presenta tos y disnea, sin signos auscultatorios apreciables. Esto puede llevar a un infradiagnóstico si no se tiene en cuenta el antecedente clínico y la sospecha diagnóstica. Esta circunstancia explica el erróneo abordaje del cuadro de la paciente cuando era atendida en el Servicio de Urgencias.
+Durante el ingreso hospitalario la paciente ha presentado diabetes secundaria al tratamiento corticoideo. Con la dosis actual de prednisona mantiene glucemias controladas sin tratamiento farmacológico.

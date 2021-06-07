@@ -1,0 +1,39 @@
+T1	PROCEDIMIENTO 1307 1320	examen físico
+T2	NEG 1403 1405	no
+T3	NSCO 1406 1425	tenía una impresora
+T4	NEG 1701 1703	no
+T5	NSCO 1704 1717	se aseguró de
+T6	NEG 1959 1961	no
+T7	NSCO 1962 2002	se había podido sentenciar adecuadamente
+T8	NEG 2214 2217	sin
+T9	NSCO 2218 2223	fecha
+T10	NEG 2226 2229	sin
+T11	NSCO 2230 2235	sello
+T12	NEG 2238 2241	sin
+T13	NSCO 2242 2272	la identificación del hospital
+T14	ORG_VIVO 13 19	médico
+T15	ORG_VIVO 47 63	médico residente
+T16	ORG_VIVO 572 581	pacientes
+T17	ORG_VIVO 660 666	médico
+T18	ORG_VIVO 922 931	pacientes
+T19	ORG_VIVO 967 975	paciente
+T20	ORG_VIVO 997 1005	familiar
+T21	ORG_VIVO 1093 1101	familiar
+T22	ORG_VIVO 1287 1295	paciente
+T23	ORG_VIVO 1623 1631	paciente
+T24	ORG_VIVO 1725 1733	paciente
+T25	ORG_VIVO 1950 1958	familiar
+T26	ORG_VIVO 2046 2064	profesional médico
+T27	ORG_VIVO 2079 2087	paciente
+T28	ORG_VIVO 2277 2298	director del hospital
+T29	ORG_VIVO 2474 2482	paciente
+T30	ORG_VIVO 2542 2550	paciente
+T31	OTROS-PROFESION 2277 2298	director del hospital
+T32	PACIENTE-PROFESION 13 19	médico
+T33	PACIENTE-PROFESION 47 63	médico residente
+T34	PACIENTE-PROFESION 660 666	médico
+T35	OTROS-PROFESION 1176 1183	policía
+T36	PACIENTE-PROFESION 199 257	trabaja en el servicio de emergencia de un hospital básico
+T37	PACIENTE-PROFESION 94 137	profesional del Ministerio de Salud Pública
+T38	PACIENTE-SITUACION_LABORAL 2405 2416	profesional
+T39	PACIENTE-SITUACION_LABORAL 2665 2676	profesional

@@ -1,0 +1,129 @@
+T1	SINTOMA 115 126	cervicalgia
+T2	SINTOMA 373 381	embarazo
+T3	SINTOMA 732 738	fiebre
+T4	SINTOMA 743 753	supuración
+T5	SINTOMA 758 779	inflamación articular
+T6	SINTOMA 868 880	cervicalgias
+T7	SINTOMA 1014 1021	dolores
+T8	SINTOMA 1048 1053	dolor
+T9	SINTOMA 1115 1124	cansancio
+T10	SINTOMA 1287 1306	buen estado general
+T11	SINTOMA 1308 1328	consciente orientada
+T12	SINTOMA 1331 1343	colaboradora
+T13	SINTOMA 1345 1359	bien hidratada
+T14	SINTOMA 1374 1388	normocoloreada
+T15	SINTOMA 1390 1398	eupneica
+T16	SINTOMA 1410 1435	hemodinámicamente estable
+T17	SINTOMA 1437 1477	Dolor a la palpación de músculo trapecio
+T18	SINTOMA 1578 1583	dolor
+T19	SINTOMA 1761 1769	mixedema
+T20	SINTOMA 3284 3295	cervicalgia
+T21	SINTOMA 3706 3717	contractura
+T22	SINTOMA 3929 3948	dolor osteomuscular
+T23	SINTOMA 3950 3972	alteraciones del sueño
+T24	SINTOMA 3974 3992	gastrointestinales
+T25	SINTOMA 4099 4111	cervicalgias
+T26	SINTOMA 4514 4525	cervicalgia
+T27	PROCEDIMIENTO 927 949	tratamiento analgésico
+T28	PROCEDIMIENTO 1077 1102	tratamiento fisioterápico
+T29	PROCEDIMIENTO 1448 1477	palpación de músculo trapecio
+T30	PROCEDIMIENTO 1509 1546	Balance articular de columna cervical
+T31	PROCEDIMIENTO 1651 1669	Palpación tiroidea
+T32	PROCEDIMIENTO 2919 2943	curas con un antiséptico
+T33	PROCEDIMIENTO 3195 3226	analítica de hormonas tiroideas
+T34	PROCEDIMIENTO 3390 3419	analítica con perfil hormonal
+T35	PROCEDIMIENTO 3465 3489	estiramientos cervicales
+T36	PROCEDIMIENTO 3552 3563	analgésicos
+T37	PROCEDIMIENTO 3639 3650	calor local
+T38	NEG 212 214	no
+T39	NSCO 215 260	reacciones alérgicas medicamentosas conocidas
+T40	NEG 262 264	No
+T41	NSCO 265 280	hábitos tóxicos
+T42	NEG 282 284	No
+T43	NSCO 285 325	padece factores de riesgo cardiovascular
+T44	NEG 412 415	sin
+T45	NSCO 416 427	tratamiento
+T46	NEG 429 431	No
+T47	NSCO 432 461	otros antecedentes de interés
+T48	NEG 641 649	falta de
+T49	NSCO 650 657	mejoría
+T50	NEG 659 661	no
+T51	NSCO 662 680	ha realizado curas
+T52	NEG 726 731	Niega
+T53	NSCO 732 779	fiebre, ni supuración, ni inflamación articular
+T54	NEG 912 914	No
+T55	NSCO 915 949	suele tomar tratamiento analgésico
+T56	NEG 1054 1056	no
+T57	NSCO 1057 1102	ha mejorado pese al tratamiento fisioterápico
+T58	NEG 1153 1155	no
+T59	NSCO 1156 1214	le limita para realizar sus actividades diarias habituales
+T60	NEG 1585 1587	No
+T61	NSCO 1588 1649	otra alteración desde el punto de vista del aparato locomotor
+T62	NEG 1671 1673	no
+T63	NSCO 1674 1730	palpamos bocio, ni induraciones o protrusiones tiroideas
+T64	NEG 1732 1734	No
+T65	NSCO 1735 1769	signos de oftalmopatía ni mixedema
+T66	NEG 1875 1877	No
+T67	NSCO 1878 1931	presenta signos de sobreinfección, ni abscesificación
+T68	NEG 1933 1935	No
+T69	NSCO 1936 1990	otros hallazgos reseñables en exploración por aparatos
+T70	NEG 2512 2515	sin
+T71	NSCO 2516 2540	signos de sobreinfección
+T72	NEG 2989 2991	no
+T73	NSCO 2992 3011	la mantenga ocluida
+T74	NEG 3181 3183	no
+T75	NSCO 3184 3226	se realiza analítica de hormonas tiroideas
+T76	UNC 3256 3262	parece
+T77	USCO 3263 3267	poco
+T78	UNC 3268 3276	probable
+T79	USCO 3277 3329	que la cervicalgia se deba a una alteración tiroidea
+T80	UNC 3741 3748	posible
+T81	USCO 3749 3768	a su fisioterapeuta
+T82	UNC 4064 4071	pudiera
+T83	USCO 4072 4145	estar relacionado con esas cervicalgias de repetición de los últimos años
+T84	NEG 4573 4582	suspendió
+T85	NSCO 4583 4612	por el alivio de los síntomas
+T86	NEG 4944 4946	no
+T87	NSCO 4947 4966	puede evitar sentir
+T88	FARMACO 2945 2953	povidona
+T89	FARMACO 2956 2968	clorhexidina
+T90	FARMACO 3583 3593	ibuprofeno
+T91	ORG_VIVO 19 24	Mujer
+T92	ORG_VIVO 982 996	fisioterapeuta
+T93	ORG_VIVO 2084 2092	familiar
+T94	ORG_VIVO 2110 2118	paciente
+T95	ORG_VIVO 2201 2207	marido
+T96	ORG_VIVO 2213 2217	hijo
+T97	ORG_VIVO 2281 2285	hija
+T98	ORG_VIVO 2359 2365	marido
+T99	ORG_VIVO 2880 2888	paciente
+T100	ORG_VIVO 3754 3768	fisioterapeuta
+T101	ORG_VIVO 3802 3810	paciente
+T102	ORG_VIVO 4162 4170	paciente
+T103	ORG_VIVO 4627 4635	paciente
+T104	ORG_VIVO 4883 4889	esposo
+T105	ORG_VIVO 4930 4937	familia
+T106	ORG_VIVO 5089 5095	pareja
+T107	ENFERMEDAD 71 104	herida en segunda falange de mano
+T108	ENFERMEDAD 215 250	reacciones alérgicas medicamentosas
+T109	ENFERMEDAD 327 353	Hipotiroidismo gestacional
+T110	ENFERMEDAD 373 381	embarazo
+T111	ENFERMEDAD 493 545	herida de 5mm de longitud en segunda falange de mano
+T112	ENFERMEDAD 1683 1688	bocio
+T113	ENFERMEDAD 1745 1757	oftalmopatía
+T114	ENFERMEDAD 1761 1769	mixedema
+T115	ENFERMEDAD 1771 1819	Herida inciso-contusa en primera falange de mano
+T116	ENFERMEDAD 1897 1911	sobreinfección
+T117	ENFERMEDAD 2526 2540	sobreinfección
+T118	ENFERMEDAD 2571 2578	absceso
+T119	ENFERMEDAD 2590 2598	artritis
+T120	ENFERMEDAD 2600 2634	paroniquia... Contractura muscular
+T121	ENFERMEDAD 2650 2670	contractura mecánica
+T122	ENFERMEDAD 2672 2686	hipotiroidismo
+T123	ENFERMEDAD 2688 2709	enfermedad de Addison
+T124	ENFERMEDAD 3892 3900	ansiedad
+T125	SANITARIO-PROFESION 982 996	fisioterapeuta
+T126	SANITARIO-PROFESION 3754 3768	fisioterapeuta
+T127	PACIENTE-PROFESION 2321 2354	trabaja en una compañía de teatro
+T128	PACIENTE-PROFESION 2295 2319	Se dedica al espectáculo
+T129	FAMILIAR-PROFESION 2372 2411	alto cargo de una empresa internacional

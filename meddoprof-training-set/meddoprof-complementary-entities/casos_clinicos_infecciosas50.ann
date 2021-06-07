@@ -1,0 +1,98 @@
+T1	SINTOMA 503 511	rinorrea
+T2	SINTOMA 527 544	obstrucción nasal
+T3	SINTOMA 566 585	temblores nocturnos
+T4	SINTOMA 641 647	fiebre
+T5	SINTOMA 1243 1262	rinorrea permanente
+T6	SINTOMA 1278 1295	obstrucción nasal
+T7	PROCEDIMIENTO 958 966	biopsias
+T8	PROCEDIMIENTO 992 1017	estudio anatomopatológico
+T9	PROCEDIMIENTO 1341 1359	exploración física
+T10	PROCEDIMIENTO 1537 1546	Hemograma
+T11	PROCEDIMIENTO 2011 2028	Cultivo de esputo
+T12	PROCEDIMIENTO 2118 2138	Radiografía de tórax
+T13	PROCEDIMIENTO 2215 2239	TAC de senos paranasales
+T14	PROCEDIMIENTO 2560 2582	estudio microbiológico
+T15	PROCEDIMIENTO 3314 3336	estudio microbiológico
+T16	PROCEDIMIENTO 3482 3494	antibiograma
+T17	PROCEDIMIENTO 3535 3567	tratamiento con este antibiótico
+T18	UNC 213 227	compatible con
+T19	USCO 228 241	Rinoescleroma
+T20	NEG 409 412	sin
+T21	NSCO 413 424	olor fétido
+T22	NEG 806 809	Sin
+T23	NSCO 810 843	alergias medicamentosas conocidas
+T24	NEG 1150 1153	sin
+T25	NSCO 1154 1180	diagnóstico microbiológico
+T26	NEG 1303 1310	impedía
+T27	NSCO 1311 1333	respirar correctamente
+T28	NEG 1409 1420	Ausencia de
+T29	NSCO 1421 1426	úvula
+T30	NEG 1479 1482	sin
+T31	NSCO 1483 1507	hallazgos significativos
+T32	NEG 1964 1972	negativo
+T33	NSCO 1973 1989	AntiHBc positivo
+T34	NEG 2063 2065	No
+T35	NSCO 2066 2082	se observan BAAR
+T36	NEG 2084 2086	No
+T37	NSCO 2087 2114	desarrollo de micobacterias
+T38	NEG 2170 2172	No
+T39	NSCO 2173 2211	imagen de infiltrado ni condensaciones
+T40	NEG 2597 2599	no
+T41	NSCO 2600 2606	vuelve
+T42	NEG 3037 3039	no
+T43	NSCO 3040 3057	acudió a revisión
+T44	UNC 3200 3213	No está claro
+T45	USCO 3214 3239	si ha seguido tratamiento
+T46	NSCO 3408 3415	Cultivo
+T47	NEG 3416 3424	negativo
+T48	NSCO 3425 3443	para micobacterias
+T49	FARMACO 3498 3512	Ciprofloxacino
+T50	ORG_VIVO 0 5	Varón
+T51	ORG_VIVO 267 277	personales
+T52	ORG_VIVO 652 660	paciente
+T53	ORG_VIVO 751 759	personas
+T54	ORG_VIVO 1082 1093	bacterianas
+T55	ORG_VIVO 1094 1108	coco-bacilares
+T56	ORG_VIVO 1223 1231	paciente
+T57	ORG_VIVO 1833 1841	Brucella
+T58	ORG_VIVO 1843 1858	Citomegalovirus
+T59	ORG_VIVO 1860 1864	Lúes
+T60	ORG_VIVO 1866 1869	VIH
+T61	ORG_VIVO 1872 1884	Hepatitis C.
+T62	ORG_VIVO 1898 1920	virus de Epstein- Barr
+T63	ORG_VIVO 1946 1956	Toxoplasma
+T64	ORG_VIVO 1958 1963	HBsAg
+T65	ORG_VIVO 1973 1980	AntiHBc
+T66	ORG_VIVO 1991 1998	AntiHBs
+T67	ORG_VIVO 2044 2061	flora orofaríngea
+T68	ORG_VIVO 2078 2082	BAAR
+T69	ORG_VIVO 2101 2114	micobacterias
+T70	ORG_VIVO 2588 2596	paciente
+T71	ORG_VIVO 3028 3036	paciente
+T72	ORG_VIVO 3354 3375	Staphylococcus aureus
+T73	ORG_VIVO 3378 3406	Klebsiella rhinoescleromatis
+T74	ORG_VIVO 3430 3443	micobacterias
+T75	ORG_VIVO 3451 3460	patógenos
+T76	ENFERMEDAD 106 130	Enfermedades Infecciosas
+T77	ENFERMEDAD 178 212	lesión nasal y pilares amigdalinos
+T78	ENFERMEDAD 228 241	Rinoescleroma
+T79	ENFERMEDAD 326 384	herida en la nariz, en la parte superior del tabique nasal
+T80	ENFERMEDAD 888 934	lesión nasal y en techo de pilares amigdalinos
+T81	ENFERMEDAD 1136 1149	rinoescleroma
+T82	ENFERMEDAD 1376 1407	cicatriz en zona nasal superior
+T83	ENFERMEDAD 2464 2484	Lesiones polipoideas
+T84	ENFERMEDAD 2700 2722	infecciones por hongos
+T85	ENFERMEDAD 2724 2773	enfermedades granulomatosas del tipo tuberculosis
+T86	ENFERMEDAD 2775 2786	sarcoidosis
+T87	ENFERMEDAD 2788 2793	lepra
+T88	ENFERMEDAD 2795 2805	vasculitis
+T89	ENFERMEDAD 2807 2832	granulomatosis de Wegener
+T90	ENFERMEDAD 2838 2857	carcinoma verrucoso
+T91	ENFERMEDAD 2867 2888	carcinoma basocelular
+T92	ENFERMEDAD 2897 2908	infecciones
+T93	ENFERMEDAD 2914 2939	leishmaniasis mucocutánea
+T94	ENFERMEDAD 2941 2957	rinoesporidiosis
+T95	ENFERMEDAD 2959 2973	esporotricosis
+T96	ENFERMEDAD 2975 2988	blastomicosis
+T97	ENFERMEDAD 2991 3012	paracoccidiodomicosis
+T98	ENFERMEDAD 3354 3406	Staphylococcus aureus y Klebsiella rhinoescleromatis

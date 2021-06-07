@@ -1,0 +1,7 @@
+T1	SINTOMA 197 233	disminución del nivel de consciencia
+T2	SINTOMA 236 242	fiebre
+T3	NEG 44 47	sin
+T4	NSCO 48 74	antecedentes psiquiátricos
+T5	ORG_VIVO 26 31	varón
+T6	ORG_VIVO 462 470	paciente
+T7	ENFERMEDAD 303 325	encefalitis autoinmune

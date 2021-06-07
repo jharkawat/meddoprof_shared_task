@@ -1,0 +1,177 @@
+T1	SINTOMA 2350 2373	alucinaciones auditivas
+T2	SINTOMA 2599 2636	pensamientos intrusivos egodistónicos
+T3	SINTOMA 3480 3502	alucinaciones visuales
+T4	SINTOMA 4128 4137	amenorrea
+T5	SINTOMA 4691 4696	vigil
+T6	SINTOMA 4698 4708	consciente
+T7	SINTOMA 4711 4720	orientada
+T8	SINTOMA 4728 4744	alopsíquicamente
+T9	SINTOMA 4808 4820	colaboradora
+T10	SINTOMA 5062 5070	eutímica
+T11	SINTOMA 5237 5261	alteraciones del apetito
+T12	SINTOMA 5785 5790	vigil
+T13	SINTOMA 5792 5802	consciente
+T14	SINTOMA 5805 5834	orientada en las tres esferas
+T15	SINTOMA 5951 5957	pueril
+T16	SINTOMA 6188 6217	alteraciones sensoperceptivas
+T17	SINTOMA 6362 6383	aplanamiento afectivo
+T18	PROCEDIMIENTO 281 286	parto
+T19	PROCEDIMIENTO 4471 4484	ECO-abdominal
+T20	PROCEDIMIENTO 6630 6639	hemograma
+T21	PROCEDIMIENTO 6748 6767	Ecografía abdominal
+T22	PROCEDIMIENTO 7824 7837	antidepresivo
+T23	NEG 534 536	no
+T24	NSCO 537 566	tuvo que repetir ningún curso
+T25	NEG 725 727	no
+T26	NSCO 728 740	cualificados
+T27	NEG 1046 1051	niega
+T28	NSCO 1052 1085	alergias medicamentosas conocidas
+T29	NEG 1178 1180	no
+T30	NSCO 1181 1204	toma tratamiento médico
+T31	NEG 1419 1421	no
+T32	NSCO 1422 1426	toma
+T33	NEG 1493 1498	niega
+T34	NSCO 1499 1513	otros consumos
+T35	UNC 1616 1623	Posible
+T36	USCO 1624 1639	clínica ansiosa
+T37	NEG 1640 1642	no
+T38	NSCO 1643 1679	filiada en familiar de segundo grado
+T39	NEG 2242 2247	Niega
+T40	NSCO 2248 2283	recuperación de niveles premórbidos
+T41	NEG 2327 2332	Niega
+T42	NSCO 2333 2389	haber presentado alucinaciones auditivas en la evolución
+T43	UNC 2498 2506	posibles
+T44	USCO 2507 2591	rituales relacionados con la realización de compras compulsivas de objetos de vestir
+T45	NEG 2593 2598	Niega
+T46	NSCO 2599 2667	pensamientos intrusivos egodistónicos ni pensamiento mágico asociado
+T47	NEG 2669 2674	Niega
+T48	NSCO 2675 2728	haber presentado episodios maniformes en la evolución
+T49	NEG 2840 2842	no
+T50	NSCO 2843 2855	especificado
+T51	NEG 2931 2933	no
+T52	NSCO 2934 2975	se objetivó clínica del espectro obsesivo
+T53	NEG 4085 4094	se retiró
+T54	NSCO 4095 4137	tratamiento con paliperidona por amenorrea
+T55	NEG 4822 4827	Niega
+T56	NSCO 4828 4862	alteraciones en la psicomotricidad
+T57	NEG 4931 4934	sin
+T58	NSCO 4935 4991	alteraciones en la forma ni el contenido del pensamiento
+T59	NEG 4993 4998	Niega
+T60	NSCO 4999 5044	ansiedad en el momento actual ni en domicilio
+T61	NEG 5122 5124	No
+T62	NSCO 5125 5162	se objetiva clínica afectiva endógena
+T63	NEG 5164 5169	Niega
+T64	NSCO 5170 5261	alteraciones del sueño (regulado con tratamiento farmacológico) ni alteraciones del apetito
+T65	NEG 5263 5268	Niega
+T66	NSCO 5269 5322	ideación delirante de vigilancia, perjuicio o complot
+T67	UNC 5365 5373	posibles
+T68	USCO 5374 5402	interpretaciones del entorno
+T69	NEG 5404 5409	Niega
+T70	NSCO 5410 5473	fenómenos de lectura, robo, inserción o control del pensamiento
+T71	NEG 5549 5562	inespecíficos
+T72	NEG 5619 5624	Niega
+T73	NSCO 5625 5706	ideación autolítica estructurada en el momento actual, ni ideas pasivas de muerte
+T74	NEG 5878 5881	sin
+T75	NSCO 5882 5916	alteraciones en la psicomotricidad
+T76	NEG 6016 6019	sin
+T77	NSCO 6020 6057	alteraciones formales del pensamiento
+T78	NEG 6116 6119	sin
+T79	NSCO 6120 6154	repercusión afectiva ni conductual
+T80	NEG 6156 6161	Niega
+T81	NSCO 6162 6217	otra clínica psicótica ni alteraciones sensoperceptivas
+T82	NEG 6419 6424	Niega
+T83	NSCO 6425 6471	ideación autolítica ni ideas pasivas de muerte
+T84	NEG 6497 6505	negativa
+T85	NEG 6640 6643	sin
+T86	NSCO 6644 6656	alteraciones
+T87	NEG 6822 6824	No
+T88	NSCO 6825 6860	se objetivan alteraciones hepáticas
+T89	NEG 6970 6973	sin
+T90	NSCO 6974 7033	llegar a cumplir criterios de trastorno obsesivo compulsivo
+T91	NEG 7056 7058	no
+T92	NSCO 7059 7087	presentaba clínica psicótica
+T93	UNC 7207 7215	sospecha
+T94	USCO 7216 7275	que la clínica obsesiva es secundaria a trastorno psicótico
+T95	NEG 7480 7488	negativa
+T96	NEG 8326 8334	falta de
+T97	NSCO 8335 8359	eficacia con aripiprazol
+T98	FARMACO 1230 1240	salbutamol
+T99	FARMACO 1242 1252	ipratropio
+T100	FARMACO 1255 1265	budesónida
+T101	FARMACO 1266 1295	formoterol fumarato dihidrato
+T102	FARMACO 1380 1392	levotiroxina
+T103	FARMACO 2170 2181	haloperidol
+T104	FARMACO 2474 2486	clomipramina
+T105	FARMACO 3075 3080	litio
+T106	FARMACO 3093 3103	olanzapina
+T107	FARMACO 3116 3128	clomipramina
+T108	FARMACO 3302 3311	clozapina
+T109	FARMACO 3343 3355	paliperidona
+T110	FARMACO 3918 3927	clozapina
+T111	FARMACO 3947 3957	sertralina
+T112	FARMACO 4111 4123	paliperidona
+T113	FARMACO 4163 4172	clozapina
+T114	FARMACO 4198 4208	sertralina
+T115	FARMACO 4390 4399	clozapina
+T116	FARMACO 7741 7750	clozapina
+T117	FARMACO 8081 8086	litio
+T118	FARMACO 8088 8100	clomipramina
+T119	FARMACO 8102 8110	diazepam
+T120	FARMACO 8112 8123	aripiprazol
+T121	FARMACO 8125 8135	quetiapina
+T122	FARMACO 8137 8152	ácido valproico
+T123	FARMACO 8154 8164	topiramato
+T124	FARMACO 8167 8177	fluoxetina
+T125	FARMACO 8224 8235	risperidona
+T126	FARMACO 8238 8249	haloperidol
+T127	FARMACO 8265 8277	paliperidona
+T128	FARMACO 8313 8323	olanzapina
+T129	FARMACO 8348 8359	aripiprazol
+T130	FARMACO 8380 8389	clozapina
+T131	FARMACO 8402 8412	sertralina
+T132	FARMACO 8426 8435	lorazepam
+T133	ORG_VIVO 0 5	Mujer
+T134	ORG_VIVO 166 176	personales
+T135	ORG_VIVO 214 222	hermanas
+T136	ORG_VIVO 240 246	padres
+T137	ORG_VIVO 263 271	familiar
+T138	ORG_VIVO 645 667	auxiliar de enfermería
+T139	ORG_VIVO 978 986	infancia
+T140	ORG_VIVO 1120 1126	ácaros
+T141	ORG_VIVO 1479 1491	adolescencia
+T142	ORG_VIVO 1529 1539	familiares
+T143	ORG_VIVO 1541 1549	familiar
+T144	ORG_VIVO 1654 1662	familiar
+T145	ORG_VIVO 3571 3579	paciente
+T146	ORG_VIVO 3737 3751	Paciente mujer
+T147	ORG_VIVO 4012 4020	paciente
+T148	ORG_VIVO 4421 4429	paciente
+T149	ORG_VIVO 4564 4571	familia
+T150	ORG_VIVO 5721 5729	familiar
+T151	ORG_VIVO 6544 6552	familiar
+T152	ORG_VIVO 6914 6922	paciente
+T153	ORG_VIVO 7351 7359	paciente
+T154	ORG_VIVO 7653 7661	paciente
+T155	ORG_VIVO 7898 7906	paciente
+T156	ENFERMEDAD 1052 1075	alergias medicamentosas
+T157	ENFERMEDAD 1093 1126	alergia respiratoria a los ácaros
+T158	ENFERMEDAD 1206 1210	Asma
+T159	ENFERMEDAD 1329 1354	hipotiroidismo subclínico
+T160	ENFERMEDAD 1585 1614	trastorno obsesivo compulsivo
+T161	ENFERMEDAD 1748 1757	rumiativa
+T162	ENFERMEDAD 1835 1857	trastorno psiquiátrico
+T163	ENFERMEDAD 2820 2855	trastorno psicótico no especificado
+T164	ENFERMEDAD 3250 3284	esquizofrenia paranoide subcrónica
+T165	ENFERMEDAD 3418 3444	desorganización conductual
+T166	ENFERMEDAD 3719 3736	ENFERMEDAD ACTUAL
+T167	ENFERMEDAD 3862 3896	esquizofrenia paranoide subcrónica
+T168	ENFERMEDAD 4999 5007	ansiedad
+T169	ENFERMEDAD 5700 5706	muerte
+T170	ENFERMEDAD 6465 6471	muerte
+T171	ENFERMEDAD 7004 7033	trastorno obsesivo compulsivo
+T172	ENFERMEDAD 7178 7201	esquizofrenia paranoide
+T173	ENFERMEDAD 7256 7275	trastorno psicótico
+T174	OTROS-PROFESION 645 667	auxiliar de enfermería
+T175	PACIENTE-SITUACION_LABORAL 669 681	Ha trabajado
+T176	PACIENTE-SITUACION_LABORAL 835 865	incapacidad laboral permanente
+T177	PACIENTE-SITUACION_LABORAL 913 932	percibe una pensión

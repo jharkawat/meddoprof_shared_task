@@ -1,0 +1,124 @@
+T1	SINTOMA 583 605	abdomen y extremidades
+T2	SINTOMA 905 914	Hemograma
+T3	SINTOMA 2046 2054	disfagia
+T4	PROCEDIMIENTO 453 471	Exploración física
+T5	PROCEDIMIENTO 731 782	Exploración cardiopulmonar, abdominal y neurológica
+T6	PROCEDIMIENTO 905 914	Hemograma
+T7	PROCEDIMIENTO 1264 1306	Estudio de resistencia a antirretrovirales
+T8	PROCEDIMIENTO 1471 1497	TC de extensión 09/11/2018
+T9	PROCEDIMIENTO 1797 1824	tratamiento antirretroviral
+T10	PROCEDIMIENTO 1933 1958	biopsia de lesión cutánea
+T11	PROCEDIMIENTO 2156 2168	gastroscopia
+T12	PROCEDIMIENTO 2171 2183	colonoscopia
+T13	PROCEDIMIENTO 2491 2503	colonoscopia
+T14	PROCEDIMIENTO 3072 3094	biopsia de médula ósea
+T15	PROCEDIMIENTO 3386 3399	quimioterapia
+T16	PROCEDIMIENTO 3621 3633	Gastroscopia
+T17	PROCEDIMIENTO 3813 3834	gastroscopia anterior
+T18	PROCEDIMIENTO 3836 3848	Colonoscopia
+T19	PROCEDIMIENTO 4447 4450	TAR
+T20	PROCEDIMIENTO 4660 4673	quimioterapia
+T21	NEG 37 40	sin
+T22	NSCO 41 150	alergias medicamentosas conocidas, ni factores de riesgo cardiovascular, ni enfermedades relevantes conocidas
+T23	NEG 214 219	Niega
+T24	NSCO 220 239	medicación habitual
+T25	NEG 241 246	Niega
+T26	NSCO 247 262	hábitos tóxicos
+T27	NEG 264 267	Sin
+T28	NSCO 268 303	antecedentes oncológicos familiares
+T29	UNC 417 432	compatibles con
+T30	USCO 433 450	sarcoma de Kaposi
+T31	NEG 606 609	sin
+T32	NSCO 610 634	signos de sobreinfección
+T33	UNC 709 722	sugestivos de
+T34	USCO 723 729	muguet
+T35	NEG 783 786	sin
+T36	NSCO 787 807	hallazgos relevantes
+T37	NEG 1310 1318	negativo
+T38	NEG 1388 1396	negativo
+T39	NEG 1439 1447	negativo
+T40	UNC 1746 1757	Sospecha de
+T41	USCO 1758 1775	sarcoma de Kaposi
+T42	UNC 2288 2300	sugestivo de
+T43	USCO 2301 2312	candidiasis
+T44	UNC 2418 2430	sugestiva de
+T45	USCO 2431 2448	sarcoma de Kaposi
+T46	UNC 2645 2658	sugestivas de
+T47	USCO 2659 2676	sarcoma de Kaposi
+T48	UNC 2817 2825	sugieren
+T49	USCO 2826 2843	sarcoma de Kaposi
+T50	UNC 2887 2902	compatibles con
+T51	USCO 2903 2914	candidiasis
+T52	NEG 3016 3029	descartándose
+T53	NSCO 3030 3060	leishmaniasis visceral por PCR
+T54	NEG 3554 3557	sin
+T55	NSCO 3558 3604	evidencia histopatológica de sarcoma de Kaposi
+T56	NEG 3611 3619	negativo
+T57	NEG 3650 3653	sin
+T58	NSCO 3654 3689	hallazgos sugestivos de candidiasis
+T59	NEG 4634 4643	suspender
+T60	NSCO 4644 4673	tratamiento con quimioterapia
+T61	FARMACO 1829 1838	tenofovir
+T62	FARMACO 1839 1852	emtricitabina
+T63	FARMACO 1853 1862	darunavir
+T64	FARMACO 1863 1873	cobicistat
+T65	FARMACO 3227 3240	doxorrubicina
+T66	ORG_VIVO 10 24	Paciente varón
+T67	ORG_VIVO 152 170	Profesor de música
+T68	ORG_VIVO 293 303	familiares
+T69	ORG_VIVO 393 396	VIH
+T70	ORG_VIVO 1140 1145	VIH 1
+T71	ORG_VIVO 1146 1149	y 2
+T72	ORG_VIVO 1172 1175	VIH
+T73	ORG_VIVO 1192 1197	viral
+T74	ORG_VIVO 1289 1306	antirretrovirales
+T75	ORG_VIVO 1337 1340	VHB
+T76	ORG_VIVO 1342 1345	VHC
+T77	ORG_VIVO 1347 1350	VHA
+T78	ORG_VIVO 1352 1370	Treponema pallidum
+T79	ORG_VIVO 1372 1375	CMV
+T80	ORG_VIVO 1377 1387	toxoplasma
+T81	ORG_VIVO 1417 1424	virus 8
+T82	ORG_VIVO 1809 1824	antirretroviral
+T83	ORG_VIVO 2009 2023	herpes virus 8
+T84	ORG_VIVO 2845 2849	HHV8
+T85	ORG_VIVO 2871 2876	hifas
+T86	ORG_VIVO 2879 2886	esporas
+T87	ORG_VIVO 2919 2927	paciente
+T88	ORG_VIVO 3300 3308	paciente
+T89	ORG_VIVO 3606 3610	HHV8
+T90	ORG_VIVO 4257 4262	viral
+T91	ORG_VIVO 4300 4308	paciente
+T92	ORG_VIVO 4447 4450	TAR
+T93	ORG_VIVO 4492 4500	paciente
+T94	ORG_VIVO 4525 4529	HHV8
+T95	ENFERMEDAD 41 64	alergias medicamentosas
+T96	ENFERMEDAD 393 396	VIH
+T97	ENFERMEDAD 399 416	lesiones cutáneas
+T98	ENFERMEDAD 433 450	sarcoma de Kaposi
+T99	ENFERMEDAD 489 581	lesiones violáceas sobreelevadas en cuello, mejilla derecha, punta de nariz, tronco, espalda
+T100	ENFERMEDAD 620 634	sobreinfección
+T101	ENFERMEDAD 1499 1533	poliadenopatías a nivel submaxilar
+T102	ENFERMEDAD 1600 1630	retroperitoneales e inguinales
+T103	ENFERMEDAD 1644 1697	Bronquiectasias los lóbulos inferiores y lóbulo medio
+T104	ENFERMEDAD 1714 1742	Infección por VIH estadio C3
+T105	ENFERMEDAD 1758 1775	sarcoma de Kaposi
+T106	ENFERMEDAD 1944 1958	lesión cutánea
+T107	ENFERMEDAD 1990 2032	sarcoma de Kaposi, herpes virus 8 positivo
+T108	ENFERMEDAD 2095 2101	anemia
+T109	ENFERMEDAD 2301 2376	candidiasis, a nivel de cuerpo y antro 3-4 lesiones sobreelevadas nodulares
+T110	ENFERMEDAD 2431 2457	sarcoma de Kaposi, duodeno
+T111	ENFERMEDAD 2557 2644	lesiones nodulares rojo-cereza sobreelevadas similares a las vistas en cavidad gástrica
+T112	ENFERMEDAD 2659 2676	sarcoma de Kaposi
+T113	ENFERMEDAD 2714 2736	lesión gastroesofágica
+T114	ENFERMEDAD 2826 2858	sarcoma de Kaposi, HHV8 positivo
+T115	ENFERMEDAD 2903 2914	candidiasis
+T116	ENFERMEDAD 3002 3014	pancitopenia
+T117	ENFERMEDAD 3030 3060	leishmaniasis visceral por PCR
+T118	ENFERMEDAD 3119 3147	infección por VIH estadio C3
+T119	ENFERMEDAD 3150 3199	sarcoma de Kaposi con afectación cutánea y mucosa
+T120	ENFERMEDAD 3459 3476	lesiones cutáneas
+T121	ENFERMEDAD 3587 3604	sarcoma de Kaposi
+T122	ENFERMEDAD 3678 3689	candidiasis
+T123	ENFERMEDAD 4533 4550	lesiones cutáneas
+T124	PACIENTE-PROFESION 152 170	Profesor de música

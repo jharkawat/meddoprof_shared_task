@@ -1,0 +1,57 @@
+HISTORIA CLÍNICA
+Se trata de una mujer de 72 años, ama de casa, viuda desde hace cinco años con tres hijos, todos ellos varones. Aunque vive sola, sus hijos están pendientes de ella, cuida de sus nietos y de su casa sin limitaciones.
+No tenía antecedentes patológicos relevantes excepto colecistectomía veinte años antes por colecistitis crónica, e hiperlipidemia tratada con atorvastatina los últimos seis años.
+Desde hacía algunos meses, la paciente venia sintiendo que a veces «le costaba respirar» cuando realizaba sus tareas habituales de la casa, aunque no le concedió importancia, considerándolo «achaques de la edad». No obstante, la paciente consultó con su médico de cabecera quien, al encontrarle una tensión diastólica levemente elevada, indicó tratamiento con hidroclorotiazida, solicitando además una serie de exploraciones rutinarias que la paciente no llegó a realizar al sentirse mejor. Una semana más tarde, mientras buscaba canela en los armarios de su cocina para terminar un postre, la disnea, que había mejorado, se hizo más intensa acompañándose además de dolor torácico que ella refería «como que le apretaba en el pecho». Asustada, decidió llamar a su hijo más próximo, que rápidamente la llevó a Urgencias del hospital comarcal, donde ante la sintomatología (disnea y dolor torácico atípico) le realizaron un electrocardiograma (ECG), que demostró un bloqueo incompleto de rama derecha y elevación del segmento ST. Ante la sospecha de un ángor inestable, fue trasladada inmediatamente al hospital de referencia para completar un estudio más exhaustivo.
+En el Servicio de Urgencias del centro, se confirmaron los hallazgos del ECG, realizándose una radiografía de tórax que mostró una inesperada masa cardiaca de gran tamaño dependiente fundamentalmente de cavidades derechas y un derrame pleural derecho que posteriormente fue evaluada mediante tomografía computarizada (TC), en la que se observó extensión mediastínica sugestiva de malignidad.
+La paciente evolucionó desfavorablemente, con grave empeoramiento del estado general, por lo que fue ingresada en la Unidad de Cuidados Intensivos, donde se complicó con insuficiencia renal, hasta entrar en anuria irreversible, al mismo tiempo que se observó una marcada elevación de las enzimas hepáticas, hasta terminar en un fallo multiorgánico, falleciendo.
+El personal de la UCI, ante la rapidez de los acontecimientos y la ausencia de un diagnóstico de la causa de la muerte, aconsejaron a la familia la realización de una autopsia clínica con el fin de filiar la etiología del fatal desenlace. La familia aceptó y, tras la firma del consentimiento informado correspondiente, el personal del servicio de Anatomía Patológica llevó a cabo la autopsia clínica.
+
+AUTOPSIA
+La autopsia mostró un cadáver con signos de muerte (frialdad, rigidez, livideces, palidez de piel y mucosas), con buen estado de hidratación y nutrición y cicatriz quirúrgica de aproximadamente 25 cm en abdomen, bajo la parrilla costal, correspondiente a colecistectomía previa. No se observaron malformaciones ni amputaciones.
+Se autorizó la apertura de la cavidad torácica y abdominal, excluyéndose la cavidad craneana, en la que órganos y vísceras se encontraban en posición, número y orientación habituales, excepto ausencia de vesícula biliar. Llamaba la atención la presencia de abundante líquido ascítico en cavidad abdominal. El resto de hallazgos significativos fueron los siguientes:
+1. Corazón y cayado aórtico:
+De 1200 gramos y 21 cm de eje mayor, presentaba una arquitectura alterada por la presencia de una gran tumoración de consistencia blanda, aspecto carnoso y coloración blanco-grisácea que afectaba a la aurícula derecha, ventrículo derecho, tabique interventricular y aurícula izquierda, ocupando la práctica totalidad de sus luces, y produciendo estenosis de la arteria pulmonar. El ventrículo izquierdo,salvo en su tabique interventricular, se encontraba respetado, así como las válvulas mitraly semilunar aórticas, con ambas coronarias permeables. El pericardio también se encontraba libre de tumor.
+El tumor medía 19 cm de diámetro longitudinal por 11 cm de diámetro transverso.
+En la cavidad ventricular se observó un área tumoral de necrosis con desprendimiento de un trombo tumoral.
+En el cayado aórtico existían placas de ateroma, más frecuentes y calcificadas en la aorta abdominal.
+2. Pulmón derecho:
+De 250 gramos, algo edematoso, sonrosado y congestivo, crepitando a la palpación. Tenía unas dimensiones de 19 cm de diámetro longitudinal por 15 cm de diámetro transverso por 5 cm de diámetro anteroposterior. Las vías respiratorias y estructuras vasculares estaban libres.
+3. Pulmón izquierdo:
+De 190 gramos y similares características macroscópicas a las observadas en el pulmón derecho, con 19 cm de diámetro longitudinal por 16 cm de diámetro transverso por 5 cm de diámetro anteroposterior. Las vías aéreas estaban permeables y vacías de contenido.
+4. Riñones:
+Mostraron al corte en bivalva vías urinarias permeables y buena delimitación córtico-medular, con uréteres permeables.
+
+Los DIAGNÓSTICOS MACROSCÓPICOS fueron los siguientes:
+— Órganos y vísceras, en posición, número y orientación habitual.
+— Cardiomegalia con tumoración cardiaca.
+— Embolismo tumoral intracardiaco.
+— Estenosis de la arteria pulmonar por compresión tumoral extrínseca.
+— Arterioesclerosis aórtica calcificada y ulcerada (arteriosclerosis complicada).
+— Ascitis.
+
+Posteriormente se tomaron muestras representativas de todos los órganos, obteniéndose los siguientes HALLAZGOS MICROSCÓPICOS RELEVANTES:
+— Corazón: el proceso neoformativo descrito en la macroscopía, correspondía a una neoformación maligna de estirpe linfoide en el que se observaba una proliferación en sábana, sin patrón arquitectural definido de células grandes de hábito blástico, entre las que se identificaban inmunoblastos, centroblastos y células grandes pleomórficas, con escaso citoplasma mal definido y grandes núcleos de contornos irregulares, cromatina en grumos, marcados nucleolos y frecuentes mitosis.
+— Se realizaron estudios inmunohistoquímicos para determinar el inmunofenotipo de la lesión según técnicas de estreptavidina-biotina peroxidasa, utilizando los siguientes anticuerpos y obteniéndose los siguientes resultados:
+— Inmunotinción positiva para: CD20, Bcl-2, Bcl-6, IgM, CD45, MUN1 y Ki67 en más del 90% de las células tumorales, p53 en más del 30% de las células tumorales (fig. 4).
+— Inmunotinción negativa para: HLA-DR1, CD10, CD5 y CD138.
+— El cayado aórtico y la aorta abdominal mostraban áreas de fibrosis con depósitos de cristales de colesterol y ulceración.
+— Pulmones: en gran parte del parénquima pulmonar de ambos pulmones se encontró destrucción de tabiques interalveolares con fusión de espacios aéreos.
+
+En algunas áreas, estos espacios aéreos se encontraban ocupados por hematíes (enfisema panlobulillar y enfisema traumático).
+— Hígado, incrementado de tamaño, con su arquitectura conservada, pero con intensa congestión vascular en venas centrobulillares y espacios sinusoidales del centro del lobulillo.
+— En ambos riñones se observaron necrosis de coagulación parcheada en cortical que afecta fundamentalmente a túbulos contorneados distales con descamación epitelial intraluminal.
+El resto de órganos y vísceras no presentaba alteraciones histológicas significativas.
+
+Los DIAGNÓSTICOS FINALES fueron:
+1. Corazón y vasos sanguíneos:
+— Linfoma B cardíaco primario, difuso de célula grande.
+— Arteriosclerosis complicada en aorta.
+2. Pulmones:
+— Enfermedad pulmonar obstructiva crónica con enfisema panlobulillar bilateral y áreas focales de enfisema traumático.
+3. Hígado:
+— Congestión pasiva crónica.
+4. Riñones:
+— Necrosis tubular aguda.
+
+CAUSA DE MUERTE
+Afectación de cavidades derechas y, en menor intensidad, de aurícula izquierda por un linfoma cardíaco primario (linfoma B difuso de célula grande), con embolismo pulmonar que obstruye la arteria pulmonar. Esto origina una insuficiencia cardiaca derecha con taponamiento cardiaco, hipertensión venosa, necrosis tubular aguda y congestión hepática.

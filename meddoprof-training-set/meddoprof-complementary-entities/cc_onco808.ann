@@ -1,0 +1,91 @@
+T1	SINTOMA 1129 1136	diarrea
+T2	SINTOMA 1185 1191	fiebre
+T3	SINTOMA 1530 1539	mucositis
+T4	SINTOMA 2075 2110	engrosamiento de la pared del ciego
+T5	SINTOMA 2399 2410	trombopenia
+T6	SINTOMA 3037 3070	alteración densitométrica de mama
+T7	PROCEDIMIENTO 824 852	estudio de ganglio centinela
+T8	PROCEDIMIENTO 932 944	radioterapia
+T9	PROCEDIMIENTO 947 960	quimioterapia
+T10	PROCEDIMIENTO 1007 1020	quimioterapia
+T11	PROCEDIMIENTO 1037 1040	TAC
+T12	PROCEDIMIENTO 1263 1281	Exploración física
+T13	PROCEDIMIENTO 1549 1576	auscultación cardiopulmonar
+T14	PROCEDIMIENTO 1600 1621	exploración abdominal
+T15	PROCEDIMIENTO 1658 1680	radiografía de abdomen
+T16	PROCEDIMIENTO 1806 1824	análisis de sangre
+T17	PROCEDIMIENTO 2039 2058	ecografía abdominal
+T18	PROCEDIMIENTO 2361 2374	quimioterapia
+T19	PROCEDIMIENTO 2432 2445	quimioterapia
+T20	PROCEDIMIENTO 2590 2604	antibioterapia
+T21	PROCEDIMIENTO 2766 2777	antibiótico
+T22	PROCEDIMIENTO 2889 2900	antibiótico
+T23	PROCEDIMIENTO 2932 2960	estudio de las LOE hepáticas
+T24	PROCEDIMIENTO 2968 3014	tomografía computarizada toracoabdominopélvica
+T25	PROCEDIMIENTO 3016 3022	TC-TAP
+T26	PROCEDIMIENTO 3483 3517	resonancia magnética (RM) hepática
+T27	PROCEDIMIENTO 3996 4041	biopsia con aguja gruesa guiada por ecografía
+T28	PROCEDIMIENTO 4150 4179	estudio de inmunohistoquímica
+T29	PROCEDIMIENTO 4369 4376	biopsia
+T30	PROCEDIMIENTO 4393 4444	rastreo gammagráfico de receptores de somatostatina
+T31	NEG 91 94	sin
+T32	NSCO 95 137	otros antecedentes ni tratamiento habitual
+T33	NEG 553 562	negativos
+T34	NEG 600 609	negativos
+T35	NEG 729 732	sin
+T36	NSCO 733 746	amplificación
+T37	NEG 1232 1235	sin
+T38	NSCO 1236 1260	otra clínica acompañante
+T39	NEG 1518 1520	no
+T40	NSCO 1521 1539	presenta mucositis
+T41	NEG 1577 1580	sin
+T42	NSCO 1581 1593	alteraciones
+T43	UNC 2112 2135	compatible con sospecha
+T44	USCO 2136 2155	clínica de tiflitis
+T45	NEG 2831 2842	negativo de
+T46	NSCO 2843 2855	los cultivos
+T47	UNC 3085 3093	sugieren
+T48	USCO 3094 3117	cambios postquirúrgicos
+T49	UNC 3415 3428	sugestivas de
+T50	USCO 3429 3466	metástasis hepáticas en segmento VIII
+T51	UNC 3854 3866	sospechar de
+T52	USCO 3867 3906	la naturaleza metastásica de las mismas
+T53	NEG 3917 3926	dudas del
+T54	NSCO 3927 3959	origen de las lesiones hepáticas
+T55	NEG 4300 4309	negativos
+T56	NSCO 4310 4317	para RE
+T57	FARMACO 1042 1051	docetaxel
+T58	FARMACO 1052 1063	adriamicina
+T59	FARMACO 1064 1078	ciclofosfamida
+T60	FARMACO 2618 2630	piperacilina
+T61	FARMACO 2631 2641	tazobactam
+T62	ORG_VIVO 38 46	paciente
+T63	ORG_VIVO 150 159	profesora
+T64	ORG_VIVO 1285 1293	paciente
+T65	ORG_VIVO 3600 3607	caballo
+T66	ENFERMEDAD 200 265	tumor Phyllodes de mama en el cuadrante supero-externo de la mama
+T67	ENFERMEDAD 388 436	nódulo en el cuadrante supero-externo en la mama
+T68	ENFERMEDAD 477 498	carcinoma infiltrante
+T69	ENFERMEDAD 2147 2155	tiflitis
+T70	ENFERMEDAD 2171 2197	lesiones focales hepáticas
+T71	ENFERMEDAD 2297 2320	hemangiomas) de maligno
+T72	ENFERMEDAD 2322 2332	metástasis
+T73	ENFERMEDAD 2348 2356	Tiflitis
+T74	ENFERMEDAD 2377 2388	Neutropenia
+T75	ENFERMEDAD 2399 2418	trombopenia grado 2
+T76	ENFERMEDAD 2448 2496	Lesiones ocupantes de espacio (LOE) en el hígado
+T77	ENFERMEDAD 2708 2730	toxicidad hematológica
+T78	ENFERMEDAD 2739 2747	tiflitis
+T79	ENFERMEDAD 3136 3163	adenopatía de 3 mm en axila
+T80	ENFERMEDAD 3229 3246	enfisema pulmonar
+T81	ENFERMEDAD 3262 3312	lesiones cicatriciales en la región apical derecha
+T82	ENFERMEDAD 3429 3475	metástasis hepáticas en segmento VIII, V y IVB
+T83	ENFERMEDAD 3881 3892	metastásica
+T84	ENFERMEDAD 3941 3959	lesiones hepáticas
+T85	ENFERMEDAD 4076 4095	metástasis hepática
+T86	ENFERMEDAD 4099 4123	carcinoma neuroendocrino
+T87	ENFERMEDAD 4473 4517	acúmulo patológico en el parénquima hepático
+T88	ENFERMEDAD 4914 4944	tumores hepatobiliopancreático
+T89	ENFERMEDAD 4979 4999	tumor neuroendocrino
+T90	ENFERMEDAD 5071 5085	cáncer de mama
+T91	PACIENTE-PROFESION 150 159	profesora

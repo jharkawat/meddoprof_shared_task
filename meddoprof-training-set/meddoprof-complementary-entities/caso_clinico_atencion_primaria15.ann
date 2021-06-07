@@ -1,0 +1,109 @@
+T1	SINTOMA 41 47	afonía
+T2	SINTOMA 875 883	disfagia
+T3	SINTOMA 977 1007	regurgitación de los alimentos
+T4	SINTOMA 1055 1061	afonía
+T5	SINTOMA 1087 1102	dolor abdominal
+T6	SINTOMA 1105 1118	estreñimiento
+T7	SINTOMA 1149 1155	fiebre
+T8	SINTOMA 1372 1378	soplos
+T9	SINTOMA 1384 1407	buen murmullo vesicular
+T10	SINTOMA 1409 1435	Abdomen blando, depresible
+T11	SINTOMA 1545 1556	peritonismo
+T12	PROCEDIMIENTO 441 446	AINEs
+T13	PROCEDIMIENTO 1239 1257	exploración física
+T14	PROCEDIMIENTO 1318 1349	auscultación cardiorespiratoria
+T15	PROCEDIMIENTO 1706 1715	hemograma
+T16	PROCEDIMIENTO 1839 1856	radiografía tórax
+T17	PROCEDIMIENTO 2005 2027	radiografía de abdomen
+T18	PROCEDIMIENTO 2714 2729	Endoscopia oral
+T19	PROCEDIMIENTO 3006 3009	SNG
+T20	PROCEDIMIENTO 3234 3255	Esofagograma baritado
+T21	PROCEDIMIENTO 3569 3597	diverticulotomía endoscópica
+T22	PROCEDIMIENTO 3599 3627	Diverticulotomía endoscópica
+T23	PROCEDIMIENTO 4073 4131	hemoclips en el vértice y laterales de la diverticulotomía
+T24	NEG 246 249	Sin
+T25	NSCO 250 265	hábitos tóxicos
+T26	NEG 1145 1148	sin
+T27	NSCO 1149 1155	fiebre
+T28	NEG 1157 1160	sin
+T29	NSCO 1161 1230	síndrome constitucional, ni otra sintomatología asociada por aparatos
+T30	NEG 1258 1260	no
+T31	NSCO 1261 1292	destaca ningún dato en especial
+T32	NEG 1368 1371	sin
+T33	NSCO 1372 1378	soplos
+T34	NEG 1437 1440	sin
+T35	NSCO 1441 1465	molestias a la palpación
+T36	NEG 1467 1469	no
+T37	NSCO 1470 1487	masas ni megalias
+T38	NEG 1521 1529	negativa
+T39	NEG 1531 1534	sin
+T40	NSCO 1535 1556	signos de peritonismo
+T41	NEG 1564 1567	sin
+T42	NSCO 1568 1577	hallazgos
+T43	NEG 1963 1966	sin
+T44	NSCO 1967 2000	imágenes de condensación pulmonar
+T45	NEG 2105 2108	sin
+T46	NSCO 2109 2130	hallazgos patológicos
+T47	NEG 2288 2291	Sin
+T48	NSCO 2292 2311	deterioro cognitivo
+T49	UNC 2660 2667	posible
+T50	USCO 2668 2681	LOE esofágica
+T51	NEG 3202 3205	sin
+T52	NSCO 3206 3231	lesiones pépticas activas
+T53	UNC 3365 3379	compatible con
+T54	USCO 3380 3401	divertículo de Zenker
+T55	NEG 3799 3802	sin
+T56	NSCO 3803 3814	incidencias
+T57	NEG 3948 3951	sin
+T58	NSCO 3952 3963	incidencias
+T59	FARMACO 191 202	ketoconazol
+T60	FARMACO 204 214	Cefuroxima
+T61	FARMACO 216 230	ciprofloxacino
+T62	FARMACO 233 244	tobramicina
+T63	FARMACO 571 581	bisoprolol
+T64	FARMACO 588 598	furosemida
+T65	FARMACO 607 622	espironolactona
+T66	FARMACO 630 639	omeprazol
+T67	FARMACO 647 661	Nitroglicerina
+T68	FARMACO 669 672	AAS
+T69	FARMACO 681 702	Calcio/colecalciferol
+T70	FARMACO 704 714	metformina
+T71	FARMACO 723 735	simvastatina
+T72	FARMACO 743 752	fentanilo
+T73	FARMACO 760 768	atroaldo
+T74	FARMACO 770 778	seretide
+T75	FARMACO 780 791	deflazacort
+T76	FARMACO 799 811	lormetazepam
+T77	FARMACO 818 830	vitamina B12
+T78	ORG_VIVO 135 140	mujer
+T79	ORG_VIVO 152 159	anciana
+T80	ORG_VIVO 285 295	personales
+T81	ORG_VIVO 2141 2149	familiar
+T82	ORG_VIVO 2180 2187	anciana
+T83	ORG_VIVO 2211 2215	hija
+T84	ORG_VIVO 2326 2335	cuidadora
+T85	ORG_VIVO 2342 2346	hija
+T86	ORG_VIVO 2375 2384	cuidadora
+T87	ORG_VIVO 3519 3527	paciente
+T88	ENFERMEDAD 19 38	Disfagia progresiva
+T89	ENFERMEDAD 305 308	HTA
+T90	ENFERMEDAD 310 319	DM tipo 2
+T91	ENFERMEDAD 321 331	dislipemia
+T92	ENFERMEDAD 333 355	insuficiencia cardiaca
+T93	ENFERMEDAD 377 395	bronquitis crónica
+T94	ENFERMEDAD 397 417	hemorragia digestiva
+T95	ENFERMEDAD 422 446	ulcus secundario a AINEs
+T96	ENFERMEDAD 448 463	hernia de hiato
+T97	ENFERMEDAD 465 479	diverticulosis
+T98	ENFERMEDAD 482 494	osteoporosis
+T99	ENFERMEDAD 1161 1184	síndrome constitucional
+T100	ENFERMEDAD 1869 1896	ensanchamiento mediastínico
+T101	ENFERMEDAD 2483 2500	Disfagia absoluta
+T102	ENFERMEDAD 2517 2538	Divertículo de Zenker
+T103	ENFERMEDAD 2628 2657	disfagia a líquidos y sólidos
+T104	ENFERMEDAD 2668 2681	LOE esofágica
+T105	ENFERMEDAD 2799 2833	divertículo de Zenker lateralizado
+T106	ENFERMEDAD 3206 3223	lesiones pépticas
+T107	ENFERMEDAD 3380 3401	divertículo de Zenker
+T108	FAMILIAR-SITUACION_LABORAL 2326 2335	cuidadora
+T109	OTROS-PROFESION 2375 2384	cuidadora

@@ -1,0 +1,23 @@
+T1	SINTOMA 524 530	fiebre
+T2	SINTOMA 674 738	eritema perilesional, y alguna zona ulcerada en palma de la mano
+T3	PROCEDIMIENTO 556 574	Exploración física
+T4	PROCEDIMIENTO 971 986	biopsia cutánea
+T5	NEG 114 116	no
+T6	NSCO 117 131	sólo en cuidar
+T7	NEG 290 302	asintomática
+T8	NEG 512 514	No
+T9	NSCO 515 553	presenta fiebre ni otra sintomatología
+T10	NEG 748 750	no
+T11	NSCO 751 772	fluctuaba ni supuraba
+T12	NEG 1328 1330	no
+T13	NSCO 1331 1337	tratar
+T14	FARMACO 226 235	enalapril
+T15	ORG_VIVO 10 15	Varón
+T16	ORG_VIVO 72 79	cabrero
+T17	ORG_VIVO 146 152	cabras
+T18	ORG_VIVO 188 193	cabra
+T19	ORG_VIVO 1224 1243	género parapoxvirus
+T20	ENFERMEDAD 46 67	hipertensión arterial
+T21	ENFERMEDAD 283 337	lesión asintomática en el dorso de la palma de la mano
+T22	ENFERMEDAD 710 738	ulcerada en palma de la mano
+T23	PACIENTE-PROFESION 72 79	cabrero

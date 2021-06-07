@@ -1,0 +1,146 @@
+T1	SINTOMA 188 196	insomnio
+T2	SINTOMA 229 238	inquietud
+T3	SINTOMA 241 252	nerviosismo
+T4	SINTOMA 2420 2431	nerviosismo
+T5	SINTOMA 2433 2452	labilidad emocional
+T6	SINTOMA 2510 2522	desesperanza
+T7	SINTOMA 3313 3324	somnolencia
+T8	SINTOMA 3639 3649	consciente
+T9	SINTOMA 3652 3681	orientada en las tres esferas
+T10	SINTOMA 3832 3849	fascies expresiva
+T11	SINTOMA 3851 3865	mirada cansada
+T12	SINTOMA 3867 3896	buen nivel de contacto ocular
+T13	SINTOMA 3918 3930	entrecortado
+T14	SINTOMA 4037 4046	irritable
+T15	SINTOMA 4059 4078	labilidad emocional
+T16	SINTOMA 4117 4123	llanto
+T17	SINTOMA 4176 4185	cansancio
+T18	SINTOMA 4636 4657	inquietud psicomotriz
+T19	SINTOMA 4659 4671	taquipsiquia
+T20	SINTOMA 4673 4683	taquilalia
+T21	SINTOMA 4734 4753	labilidad emocional
+T22	SINTOMA 4766 4800	ideas sobrevaloradas erotomaníacas
+T23	SINTOMA 4803 4820	insomnio pertinaz
+T24	SINTOMA 4839 4848	cansancio
+T25	SINTOMA 5485 5494	inquietud
+T26	SINTOMA 5535 5543	insomnio
+T27	SINTOMA 5570 5589	labilidad emocional
+T28	SINTOMA 5609 5619	hipertimia
+T29	SINTOMA 5818 5825	eutimia
+T30	PROCEDIMIENTO 3384 3409	terapia electroconvulsiva
+T31	PROCEDIMIENTO 5432 5459	reducción de la politerapia
+T32	PROCEDIMIENTO 6300 6314	rehabilitación
+T33	NEG 603 606	sin
+T34	NSCO 607 612	hijos
+T35	UNC 728 734	parece
+T36	USCO 735 797	existir una situación de disfunción familiar muy significativa
+T37	NEG 799 801	no
+T38	NSCO 802 810	trabajan
+T39	NEG 812 814	no
+T40	NSCO 815 830	llevan horarios
+T41	NEG 832 834	no
+T42	NSCO 835 872	asumen ningún tipo de responsabilidad
+T43	UNC 875 882	parecen
+T44	USCO 883 950	depender económicamente de la pensión de la paciente para subsistir
+T45	UNC 998 1011	aparentemente
+T46	USCO 1012 1017	sanas
+T47	NEG 1119 1130	ha retirado
+T48	NSCO 1131 1143	a los padres
+T49	NEG 1211 1213	No
+T50	NSCO 1214 1267	refiere tener amistades ni apenas relaciones sociales
+T51	NEG 1497 1499	no
+T52	NSCO 1500 1523	practica ningún deporte
+T53	NEG 1620 1623	sin
+T54	NSCO 1624 1637	RAM conocidas
+T55	NEG 2578 2589	ausencia de
+T56	NSCO 2590 2597	rutinas
+T57	NEG 3194 3205	ausencia de
+T58	NSCO 3206 3231	respuesta con aripiprazol
+T59	UNC 3932 3942	Impresiona
+T60	USCO 3943 3967	el pensamiento acelerado
+T61	NEG 3969 3971	No
+T62	NSCO 3972 4017	sintomatología de orden psicótico objetivable
+T63	NEG 4159 4162	sin
+T64	NSCO 4163 4185	sensación de cansancio
+T65	UNC 4212 4225	Impresiona de
+T66	USCO 4226 4239	clínica mixta
+T67	NEG 4390 4392	no
+T68	NSCO 4393 4416	habitual en la paciente
+T69	NEG 4418 4420	No
+T70	NSCO 4421 4456	ideación autolítica en este momento
+T71	NEG 4821 4824	sin
+T72	NSCO 4825 4848	percepción de cansancio
+T73	NEG 6088 6090	no
+T74	NSCO 6091 6119	ha habido incidencias graves
+T75	FARMACO 528 538	olanzapina
+T76	FARMACO 1827 1834	cafeína
+T77	FARMACO 1872 1890	carbonato de litio
+T78	FARMACO 1900 1910	quetiapina
+T79	FARMACO 1927 1937	quetiapina
+T80	FARMACO 1962 1972	olanzapina
+T81	FARMACO 1988 1998	clonazepam
+T82	FARMACO 2049 2061	paliperidona
+T83	FARMACO 2089 2101	levotiroxina
+T84	FARMACO 3060 3075	ácido valproico
+T85	FARMACO 3077 3088	risperidona
+T86	FARMACO 3090 3100	olanzapina
+T87	FARMACO 3102 3117	levomepromazina
+T88	FARMACO 3119 3130	aripiprazol
+T89	FARMACO 3138 3143	depot
+T90	FARMACO 3145 3156	haloperidol
+T91	FARMACO 3159 3172	zuclopentixol
+T92	FARMACO 3220 3231	aripiprazol
+T93	FARMACO 3256 3267	haloperidol
+T94	FARMACO 3298 3311	zuclopentixol
+T95	FARMACO 5052 5057	litio
+T96	FARMACO 5368 5377	clozapina
+T97	FARMACO 6477 6495	carbonato de litio
+T98	FARMACO 6505 6514	clozapina
+T99	FARMACO 6531 6543	paliperidona
+T100	FARMACO 6558 6570	levotiroxina
+T101	FARMACO 6587 6599	ácido fólico
+T102	ORG_VIVO 0 5	Mujer
+T103	ORG_VIVO 124 132	educador
+T104	ORG_VIVO 312 320	paciente
+T105	ORG_VIVO 451 461	psiquiatra
+T106	ORG_VIVO 582 592	personales
+T107	ORG_VIVO 607 612	hijos
+T108	ORG_VIVO 720 726	padres
+T109	ORG_VIVO 771 779	familiar
+T110	ORG_VIVO 927 935	paciente
+T111	ORG_VIVO 956 964	paciente
+T112	ORG_VIVO 975 983	hermanas
+T113	ORG_VIVO 1059 1067	hermanos
+T114	ORG_VIVO 1137 1143	padres
+T115	ORG_VIVO 1158 1166	hermanos
+T116	ORG_VIVO 1228 1237	amistades
+T117	ORG_VIVO 1761 1769	cannabis
+T118	ORG_VIVO 2496 2504	familiar
+T119	ORG_VIVO 4372 4382	compañeros
+T120	ORG_VIVO 4408 4416	paciente
+T121	ORG_VIVO 5148 5158	psiquiatra
+T122	ORG_VIVO 5999 6009	educadores
+T123	ORG_VIVO 6125 6133	paciente
+T124	ORG_VIVO 6401 6409	paciente
+T125	ENFERMEDAD 338 362	trastorno bipolar tipo I
+T126	ENFERMEDAD 1179 1209	trastorno del espectro autista
+T127	ENFERMEDAD 1640 1654	hipotiroidismo
+T128	ENFERMEDAD 1740 1769	consumo ocasional de cannabis
+T129	ENFERMEDAD 2278 2311	descompensaciones de tipo maníaco
+T130	ENFERMEDAD 2318 2347	sintomatología afectiva mixta
+T131	ENFERMEDAD 2409 2417	ansiedad
+T132	ENFERMEDAD 4281 4289	ansiedad
+T133	ENFERMEDAD 4970 4981	DIAGNÓSTICO
+T134	ENFERMEDAD 4982 4999	Trastorno bipolar
+T135	ENFERMEDAD 5609 5619	hipertimia
+T136	PACIENTE-SITUACION_LABORAL 1338 1345	en paro
+T137	SANITARIO-PROFESION 6341 6364	equipo multidisciplinar
+T138	SANITARIO-PROFESION 451 461	psiquiatra
+T139	SANITARIO-PROFESION 5148 5158	psiquiatra
+T140	OTROS-PROFESION 124 132	educador
+T141	PACIENTE-SITUACION_LABORAL 139 169	vivienda tutelada donde reside
+T142	PACIENTE-SITUACION_LABORAL 621 645	en una vivienda tutelada
+T143	FAMILIAR-SITUACION_LABORAL 799 810	no trabajan
+T144	PACIENTE-PROFESION 1379 1388	jardinera
+T145	PACIENTE-SITUACION_LABORAL 1575 1595	Invalidez permanente
+T146	OTROS-PROFESION 5999 6009	educadores

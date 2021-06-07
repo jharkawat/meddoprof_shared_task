@@ -1,0 +1,77 @@
+T1	SINTOMA 620 628	diarreas
+T2	SINTOMA 711 726	dolor abdominal
+T3	SINTOMA 735 750	pérdida de peso
+T4	SINTOMA 766 785	sudoración nocturna
+T5	SINTOMA 788 804	malestar general
+T6	SINTOMA 809 815	fiebre
+T7	SINTOMA 2839 2846	astenia
+T8	SINTOMA 2952 2968	ganancia de peso
+T9	SINTOMA 2988 2995	diarrea
+T10	PROCEDIMIENTO 238 265	tratamiento antirretroviral
+T11	PROCEDIMIENTO 818 831	Examen físico
+T12	PROCEDIMIENTO 1330 1342	coprocultivo
+T13	PROCEDIMIENTO 1390 1402	Colonoscopia
+T14	PROCEDIMIENTO 1617 1636	TC de tórax/abdomen
+T15	PROCEDIMIENTO 2041 2057	biopsia colónica
+T16	PROCEDIMIENTO 2191 2215	estudio inmuhistoquímico
+T17	PROCEDIMIENTO 2332 2369	detección del virus del herpes humano
+T18	PROCEDIMIENTO 2567 2580	quimioterapia
+T19	PROCEDIMIENTO 2699 2722	terapia antirretroviral
+T20	PROCEDIMIENTO 2900 2902	TC
+T21	PROCEDIMIENTO 3124 3151	tratamiento antirretroviral
+T22	NEG 55 58	sin
+T23	NSCO 59 74	hábitos tóxicos
+T24	NEG 225 228	sin
+T25	NSCO 229 265	precisar tratamiento antirretroviral
+T26	NEG 447 458	atípicas de
+T27	NSCO 459 479	significado incierto
+T28	NEG 522 525	sin
+T29	NSCO 526 535	controles
+T30	NEG 655 658	sin
+T31	NSCO 659 709	productos patológicos de hasta 8 episodios diarios
+T32	NEG 805 808	sin
+T33	NSCO 809 815	fiebre
+T34	NEG 1039 1041	no
+T35	NSCO 1042 1054	era doloroso
+T36	NEG 1129 1131	no
+T37	NSCO 1132 1150	ocluía el orificio
+T38	NSCO 1330 1342	coprocultivo
+T39	NEG 1343 1351	negativo
+T40	NEG 1561 1564	Sin
+T41	NSCO 1565 1613	progresar en el estudio por riesgo de iatrogenia
+T42	NEG 1696 1699	sin
+T43	NSCO 1700 1712	alteraciones
+T44	NEG 3011 3026	desaparición de
+T45	NSCO 3027 3066	las lesiones en los miembros superiores
+T46	FARMACO 2585 2598	doxorrubicina
+T47	FARMACO 2627 2637	trisemanal
+T48	FARMACO 2724 2733	efavirenz
+T49	FARMACO 2734 2743	tenofovir
+T50	FARMACO 2744 2757	emtricitabina
+T51	ORG_VIVO 10 18	Paciente
+T52	ORG_VIVO 31 40	enfermero
+T53	ORG_VIVO 250 265	antirretroviral
+T54	ORG_VIVO 1359 1364	viral
+T55	ORG_VIVO 2346 2371	virus del herpes humano 8
+T56	ORG_VIVO 2373 2378	HHV-8
+T57	ORG_VIVO 2707 2722	antirretroviral
+T58	ORG_VIVO 2774 2782	paciente
+T59	ORG_VIVO 3136 3151	antirretroviral
+T60	ENFERMEDAD 108 132	Enfermedades Infecciosas
+T61	ENFERMEDAD 156 169	infección VIH
+T62	ENFERMEDAD 301 308	sífilis
+T63	ENFERMEDAD 354 386	coinfección por VHP serotipos 16
+T64	ENFERMEDAD 553 577	Enfermedades Infecciosas
+T65	ENFERMEDAD 868 930	lesión levemente sobreelevada violácea en la punta de la nariz
+T66	ENFERMEDAD 949 1018	lesiones similares en el miembro superior izquierdo y en el antebrazo
+T67	ENFERMEDAD 1100 1150	lesión verruciforme anal que no ocluía el orificio
+T68	ENFERMEDAD 1638 1670	adenopatías axilares bilaterales
+T69	ENFERMEDAD 1889 1949	adenopatías en el epigastrio, retroperitoneo y perirrectales
+T70	ENFERMEDAD 1951 1986	Ascitis mínima a nivel de la pelvis
+T71	ENFERMEDAD 2416 2440	Infección VIH estadio C2
+T72	ENFERMEDAD 2452 2469	sarcoma de Kaposi
+T73	ENFERMEDAD 2472 2542	Sarcoma de Kaposi estadio T1I0S1 con afectación intestinal sintomática
+T74	ENFERMEDAD 2660 2684	Enfermedades Infecciosas
+T75	ENFERMEDAD 3031 3066	lesiones en los miembros superiores
+T76	ENFERMEDAD 3085 3106	lesión nasal superior
+T77	PACIENTE-PROFESION 31 40	enfermero

@@ -1,0 +1,108 @@
+T1	SINTOMA 916 923	fumador
+T2	SINTOMA 1653 1674	agitación psicomotriz
+T3	SINTOMA 3398 3413	insomnio global
+T4	SINTOMA 3415 3428	irritabilidad
+T5	SINTOMA 3441 3466	alteraciones conductuales
+T6	SINTOMA 3611 3620	orientado
+T7	SINTOMA 3628 3644	alopsíquicamente
+T8	SINTOMA 3886 3899	megalomaníaca
+T9	SINTOMA 3976 3999	alucinaciones auditivas
+T10	SINTOMA 4881 4893	asintomático
+T11	SINTOMA 6026 6055	alteraciones de la percepción
+T12	SINTOMA 6291 6298	delirio
+T13	SINTOMA 6629 6637	delirios
+T14	SINTOMA 6640 6653	alucinaciones
+T15	PROCEDIMIENTO 4623 4626	ECG
+T16	PROCEDIMIENTO 4936 4955	ecografía abdominal
+T17	PROCEDIMIENTO 5144 5183	reducción de los fármacos hepatotóxicos
+T18	PROCEDIMIENTO 5224 5247	hidratación intravenosa
+T19	PROCEDIMIENTO 5400 5419	Ecografía abdominal
+T20	PROCEDIMIENTO 5606 5615	Hemograma
+T21	NEG 313 318	nunca
+T22	NSCO 319 346	ha tenido empleo remunerado
+T23	NEG 402 404	no
+T24	NSCO 405 437	contributiva del IASS desde 2012
+T25	NEG 670 673	sin
+T26	NSCO 674 733	conciencia de enfermedad ni adecuada adherencia terapéutica
+T27	NEG 1423 1425	no
+T28	NSCO 1426 1486	ha estado en centros de desintoxicación ni de deshabituación
+T29	UNC 1723 1730	posible
+T30	USCO 1731 1773	interferencia de clínica psicótica de base
+T31	NEG 1852 1854	no
+T32	NSCO 1855 1873	desconfía de ellos
+T33	NEG 4021 4024	sin
+T34	NSCO 4025 4055	sintomatología depresiva mayor
+T35	NEG 4191 4194	Sin
+T36	NSCO 4195 4213	cambios ponderales
+T37	NEG 4291 4294	sin
+T38	NSCO 4295 4315	hallazgos de interés
+T39	NEG 4612 4621	negativas
+T40	NEG 4714 4716	No
+T41	NSCO 4717 4750	alteraciones en la repolarización
+T42	NEG 4881 4893	asintomático
+T43	NEG 5574 5577	sin
+T44	NSCO 5578 5585	interés
+T45	NEG 5616 5619	sin
+T46	NSCO 5620 5640	hallazgo patológicos
+T47	UNC 5774 5782	posibles
+T48	USCO 5783 5809	diagnósticos diferenciales
+T49	NEG 6606 6609	sin
+T50	NSCO 6610 6653	llegar a presentar delirios y alucinaciones
+T51	NEG 7380 7391	incapacidad
+T52	FARMACO 2749 2757	diazepam
+T53	FARMACO 7787 7796	clozapina
+T54	ORG_VIVO 0 14	Paciente varón
+T55	ORG_VIVO 62 72	personales
+T56	ORG_VIVO 90 97	fratría
+T57	ORG_VIVO 105 113	hermanos
+T58	ORG_VIVO 182 190	familiar
+T59	ORG_VIVO 209 216	hermano
+T60	ORG_VIVO 453 463	familiares
+T61	ORG_VIVO 465 470	padre
+T62	ORG_VIVO 966 974	cannabis
+T63	ORG_VIVO 1691 1699	familiar
+T64	ORG_VIVO 1778 1786	paciente
+T65	ORG_VIVO 1831 1841	familiares
+T66	ORG_VIVO 2102 2109	hermano
+T67	ORG_VIVO 2149 2157	paciente
+T68	ORG_VIVO 2570 2576	humano
+T69	ORG_VIVO 3081 3091	familiares
+T70	ORG_VIVO 3242 3250	paciente
+T71	ORG_VIVO 3375 3383	paciente
+T72	ORG_VIVO 3493 3500	vecinos
+T73	ORG_VIVO 4591 4594	VIH
+T74	ORG_VIVO 4596 4599	VHC
+T75	ORG_VIVO 4601 4604	VHB
+T76	ORG_VIVO 4607 4611	lúes
+T77	ORG_VIVO 4859 4867	paciente
+T78	ORG_VIVO 5040 5048	paciente
+T79	ORG_VIVO 6774 6782	paciente
+T80	ORG_VIVO 7037 7045	cannabis
+T81	ORG_VIVO 7422 7432	ser humano
+T82	ORG_VIVO 7557 7565	familiar
+T83	ORG_VIVO 7844 7853	pacientes
+T84	ENFERMEDAD 490 513	esquizofrenia paranoide
+T85	ENFERMEDAD 518 526	suicidio
+T86	ENFERMEDAD 639 668	trastorno de ideas delirantes
+T87	ENFERMEDAD 843 880	ideación delirante y psicótica activa
+T88	ENFERMEDAD 2441 2464	esquizofrenia paranoide
+T89	ENFERMEDAD 3006 3029	intoxicación alcohólica
+T90	ENFERMEDAD 4057 4085	Ideación tanático-autolítica
+T91	ENFERMEDAD 4163 4177	Insomnio mixto
+T92	ENFERMEDAD 5065 5135	hepatitis tóxica multifactorial secundaria a los fármacos y el alcohol
+T93	ENFERMEDAD 5197 5219	abstinencia alcohólica
+T94	ENFERMEDAD 5508 5518	esteatosis
+T95	ENFERMEDAD 5901 5909	psicosis
+T96	ENFERMEDAD 5988 6007	déficits cognitivos
+T97	ENFERMEDAD 6200 6221	trastornos delirantes
+T98	ENFERMEDAD 6505 6528	trastorno esquizotípico
+T99	ENFERMEDAD 6937 6962	trastorno esquizoafectivo
+T100	ENFERMEDAD 7104 7126	trastorno psiquiátrico
+T101	ENFERMEDAD 7267 7301	esquizofrenia paranoide resistente
+T102	ENFERMEDAD 7319 7332	esquizofrenia
+T103	ENFERMEDAD 7464 7481	enfermedad mental
+T104	ENFERMEDAD 7606 7629	esquizofrenia paranoide
+T105	PACIENTE-SITUACION_LABORAL 248 277	Tiene estudios universitarios
+T106	PACIENTE-SITUACION_LABORAL 394 417	pensión no contributiva
+T107	PACIENTE-SITUACION_LABORAL 226 246	incapacitación civil
+T108	PACIENTE-SITUACION_LABORAL 313 346	nunca ha tenido empleo remunerado

@@ -1,0 +1,109 @@
+T1	SINTOMA 52 59	fumador
+T2	SINTOMA 111 119	insomnio
+T3	SINTOMA 222 247	desviación óculo-cefálica
+T4	SINTOMA 410 429	supraversión ocular
+T5	SINTOMA 575 585	consciente
+T6	SINTOMA 591 598	amnesia
+T7	SINTOMA 1143 1150	afebril
+T8	SINTOMA 1152 1164	taquicárdico
+T9	SINTOMA 1176 1215	cifras tensionales ligeramente elevadas
+T10	SINTOMA 1222 1230	sudoroso
+T11	SINTOMA 1242 1273	desviación forzada de la mirada
+T12	SINTOMA 1364 1400	peristaltismo parece estar aumentado
+T13	SINTOMA 1407 1417	consciente
+T14	SINTOMA 1420 1429	orientado
+T15	SINTOMA 1507 1516	midriasis
+T16	SINTOMA 1597 1612	lagrimeo ocular
+T17	SINTOMA 1615 1634	bostezos frecuentes
+T18	SINTOMA 1879 1938	contracción involuntaria del músculo esternocleidomastoideo
+T19	SINTOMA 2140 2164	contracciones musculares
+T20	SINTOMA 2177 2201	dificultad para respirar
+T21	SINTOMA 4219 4239	hipertransaminasemia
+T22	PROCEDIMIENTO 1079 1092	Examen físico
+T23	PROCEDIMIENTO 1337 1349	auscultación
+T24	PROCEDIMIENTO 1480 1498	exploración ocular
+T25	PROCEDIMIENTO 2258 2281	exploración neurológica
+T26	PROCEDIMIENTO 2450 2474	fibrinólisis intravenosa
+T27	PROCEDIMIENTO 2492 2530	tomografía computarizada (TC) cerebral
+T28	PROCEDIMIENTO 2606 2624	análisis de sangre
+T29	PROCEDIMIENTO 2700 2720	radiografía de tórax
+T30	PROCEDIMIENTO 2755 2773	electrocardiograma
+T31	PROCEDIMIENTO 2775 2778	ECG
+T32	PROCEDIMIENTO 2853 2855	TC
+T33	PROCEDIMIENTO 2880 2916	resonancia magnética (RM) encefálica
+T34	PROCEDIMIENTO 2963 2980	análisis de orina
+T35	PROCEDIMIENTO 3006 3021	benzodiacepinas
+T36	PROCEDIMIENTO 3024 3032	opiáceos
+T37	PROCEDIMIENTO 3225 3245	electroencefalograma
+T38	PROCEDIMIENTO 3247 3250	EEG
+T39	PROCEDIMIENTO 3354 3368	punción lumbar
+T40	PROCEDIMIENTO 3373 3389	análisis del LCR
+T41	PROCEDIMIENTO 3455 3472	análisis de orina
+T42	PROCEDIMIENTO 3494 3515	detección de opiáceos
+T43	PROCEDIMIENTO 4017 4059	tratamiento con metadona y benzodiacepinas
+T44	PROCEDIMIENTO 4244 4275	serología de virus hepatotropos
+T45	PROCEDIMIENTO 4287 4306	ecografía abdominal
+T46	PROCEDIMIENTO 4481 4489	opiáceos
+T47	NEG 137 139	No
+T48	NSCO 140 188	refiere otros antecedentes personales de interés
+T49	NEG 303 306	sin
+T50	NSCO 307 342	afectación del nivel de consciencia
+T51	NEG 438 448	incapaz de
+T52	NSCO 449 479	corregirla de forma voluntaria
+T53	NEG 587 590	sin
+T54	NSCO 591 611	amnesia del episodio
+T55	NEG 613 615	No
+T56	NSCO 616 680	presentó otros movimientos anormales asociados ni otros síntomas
+T57	NEG 708 713	niega
+T58	NSCO 714 857	consumo de alcohol u otros tóxicos en los días previos o la posibilidad de contacto con sustancias o fármacos de forma accidental en el trabajo
+T59	NEG 1063 1075	asintomática
+T60	NEG 1143 1150	afebril
+T61	UNC 1378 1384	parece
+T62	USCO 1385 1400	estar aumentado
+T63	NEG 1519 1535	incapacidad para
+T64	NSCO 1536 1572	desviar la mirada hacia la izquierda
+T65	NEG 1712 1717	ceden
+T66	NSCO 1718 1733	espontáneamente
+T67	NEG 2226 2228	no
+T68	NSCO 2229 2281	hay movimientos anormales la exploración neurológica
+T69	NEG 2536 2538	no
+T70	NSCO 2539 2579	mostraba datos de patología intracraneal
+T71	NEG 2721 2723	no
+T72	NSCO 2724 2748	se objetivaron anomalías
+T73	NEG 2922 2924	no
+T74	NSCO 2925 2944	mostró alteraciones
+T75	UNC 3164 3175	posibilidad
+T76	USCO 3176 3197	la etiología comicial
+T77	UNC 3307 3315	probable
+T78	USCO 3316 3336	etiología infecciosa
+T79	NEG 4276 4284	negativa
+T80	NEG 4307 4310	sin
+T81	NSCO 4311 4331	hallazgos relevantes
+T82	UNC 4374 4382	probable
+T83	USCO 4383 4403	origen farmacológico
+T84	FARMACO 3591 3598	morfina
+T85	FARMACO 3788 3795	morfina
+T86	FARMACO 4033 4041	metadona
+T87	FARMACO 4576 4584	metadona
+T88	ORG_VIVO 10 15	Varón
+T89	ORG_VIVO 28 37	enfermero
+T90	ORG_VIVO 167 177	personales
+T91	ORG_VIVO 347 355	paciente
+T92	ORG_VIVO 555 563	paciente
+T93	ORG_VIVO 862 871	enfermero
+T94	ORG_VIVO 1008 1014	pareja
+T95	ORG_VIVO 1121 1129	paciente
+T96	ORG_VIVO 3044 3052	paciente
+T97	ORG_VIVO 3559 3567	paciente
+T98	ORG_VIVO 3932 3940	paciente
+T99	ORG_VIVO 4257 4275	virus hepatotropos
+T100	ORG_VIVO 4528 4536	paciente
+T101	ENFERMEDAD 1295 1312	distonía cervical
+T102	ENFERMEDAD 1694 1711	distonía cervical
+T103	ENFERMEDAD 2407 2426	patología isquémica
+T104	ENFERMEDAD 2557 2579	patología intracraneal
+T105	ENFERMEDAD 3850 3885	Síndrome de abstinencia de opiáceos
+T106	ENFERMEDAD 3900 3914	distonía aguda
+T107	ENFERMEDAD 4466 4489	dependencia de opiáceos
+T108	PACIENTE-PROFESION 28 37	enfermero
+T109	PACIENTE-PROFESION 862 908	enfermero de una Unidad de Cuidados Intensivos

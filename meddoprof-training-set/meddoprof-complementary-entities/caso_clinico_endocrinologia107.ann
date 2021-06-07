@@ -1,0 +1,32 @@
+T1	SINTOMA 1152 1158	mareos
+T2	PROCEDIMIENTO 556 574	exploración física
+T3	PROCEDIMIENTO 1288 1319	monitorización flash de glucosa
+T4	PROCEDIMIENTO 1468 1483	descarga de MFG
+T5	NEG 42 45	sin
+T6	NSCO 46 99	alergias medicamentosas conocidas, ni hábitos tóxicos
+T7	NEG 247 250	sin
+T8	NSCO 251 300	complicaciones microvasculares ni macrovasculares
+T9	NEG 1083 1086	sin
+T10	NSCO 1087 1100	hipoglucemias
+T11	UNC 1392 1400	posibles
+T12	USCO 1401 1427	hipoglucemias inadvertidas
+T13	FARMACO 151 159	losartán
+T14	FARMACO 190 203	atorvastatina
+T15	FARMACO 321 329	insulina
+T16	FARMACO 353 361	insulina
+T17	FARMACO 1854 1862	insulina
+T18	ORG_VIVO 24 29	varón
+T19	ORG_VIVO 439 449	empresario
+T20	ORG_VIVO 1122 1130	paciente
+T21	ENFERMEDAD 110 131	hipertensión arterial
+T22	ENFERMEDAD 167 177	dislipemia
+T23	ENFERMEDAD 211 226	diabetes tipo 2
+T24	ENFERMEDAD 773 781	diabetes
+T25	ENFERMEDAD 828 836	diabetes
+T26	ENFERMEDAD 1067 1081	hiperglucemias
+T27	ENFERMEDAD 1633 1646	hiperglucemia
+T28	ENFERMEDAD 1663 1675	hipoglucemia
+T29	ENFERMEDAD 1690 1702	hipoglucemia
+T30	ENFERMEDAD 2196 2208	hipoglucemia
+T31	ENFERMEDAD 2237 2249	hipoglucemia
+T32	PACIENTE-PROFESION 439 449	empresario

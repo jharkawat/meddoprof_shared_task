@@ -1,0 +1,21 @@
+T1	SINTOMA 210 218	tos seca
+T2	SINTOMA 221 227	disnea
+T3	SINTOMA 263 280	descenso ponderal
+T4	SINTOMA 318 352	estertores crepitantes bilaterales
+T5	PROCEDIMIENTO 293 306	examen físico
+T6	PROCEDIMIENTO 365 390	telerradiografía de tórax
+T7	PROCEDIMIENTO 547 556	hemograma
+T8	PROCEDIMIENTO 856 884	exámenes de función pulmonar
+T9	PROCEDIMIENTO 887 926	tomografía computada de alta resolución
+T10	PROCEDIMIENTO 976 985	hemograma
+T11	PROCEDIMIENTO 1285 1313	exámenes de función pulmonar
+T12	PROCEDIMIENTO 1316 1355	tomografía computada de alta resolución
+T13	NEG 697 705	negativo
+T14	NEG 1126 1134	negativo
+T15	ORG_VIVO 16 33	paciente femenina
+T16	ORG_VIVO 123 126	Dr.
+T17	ORG_VIVO 488 496	mariposa
+T18	ORG_VIVO 693 696	HIV
+T19	ORG_VIVO 1122 1125	HIV
+T20	SANITARIO-PROFESION 123 126	Dr.
+T21	SANITARIO-PROFESION 92 99	guardia

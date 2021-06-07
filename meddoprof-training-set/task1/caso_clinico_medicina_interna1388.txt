@@ -1,0 +1,15 @@
+Historia clínica. Anamnesis
+Mujer de 17 años, estudiante, con hipotiroidismo subclínico, epilepsia generalizada y en estudio por Hematología por bicitopenia. Ingresa por astenia intensa y marcada palidez cutánea. Los días previos había presentado síntomas catarrales.
+
+Exploración física
+Palidez cutánea intensa. TA 213/112 mmHg. FC 103 spm. Exploración neurológica: deterioro cognitivo leve, indiferencia y alteración de la fluencia semántica. Resto de la exploración normal.
+
+Pruebas complementarias
+En la analítica: bilirrubina total 3.44 mg/dL, a expensas de la indirecta, LDH 856 mg/dL, creatinina 2.21 mg/dL, hemoglobina 5.9 g/dL, hematocrito 16.7 % y plaquetas 80.000 K/uL. Test de Coombs directo negativo. Disminución de C3, C4 y haptoglobina sérica. Marcadores de autoinmunidad y serología negativos. Frotis de sangre periférica: más del 4% de esquistocitos. Ecografía abdominal: riñones con aumento del espesor parenquimatoso sin dilatación de vías. RMN craneal: hiperintensidad de astas occipitales de ventrículos laterales sin ventriculomegalia (compatibles con proceso inflamatorio) y marcada atrofia cortical temporoparietal.
+
+Diagnóstico diferencial
+Con test de Coombs directo negativo se descarto origen inmune. La evolución aguda del cuadro y la ausencia de antecedentes familiares no orientaban a anemias hemolíticas congénitas. La presencia de esquistocitos en porcentaje aumentado (más del 1%) orientó a hemólisis mecánica, causadas por valvulopatías o prótesis valvulares (descartadas mediante ecocardiografía); por infecciones (serología negativa) y por microangiopatía trombótica, entre las que se incluyen la púrpura trombótica trombocitopénica (PTT) y el síndrome hemolítico urémico (SHU), opciones más probables. Evolución
+La paciente presentó hipertensión refractaria y empeoramiento de la función renal que requirió traslado a UCI para terapia de reemplazo renal e inicio de plasmaféresis, inmunoglobulinas y ciclofosfamida. Tras control del cuadro inició tratamiento con eculizumab.
+
+Prueba diagnóstica y diagnóstico final
+Se solicitó actividad de la proteína ADAMTS 13 que fue normal y coprocultivo con resultado negativo (no se aisló Escherichia coli productora de toxina shiga). Tras descartar PTT y SHU típico, se llegó al diagnóstico final de SHU atípico (SHUa).

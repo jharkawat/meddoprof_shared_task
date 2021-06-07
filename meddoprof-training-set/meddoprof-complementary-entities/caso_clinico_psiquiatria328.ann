@@ -1,0 +1,19 @@
+T1	SINTOMA 95 114	síntomas psicóticos
+T2	SINTOMA 117 141	alteraciones de conducta
+T3	PROCEDIMIENTO 900 923	fármacos antipsicóticos
+T4	PROCEDIMIENTO 980 985	SPECT
+T5	PROCEDIMIENTO 988 991	EEG
+T6	NEG 1045 1047	no
+T7	NSCO 1048 1059	patológicos
+T8	FARMACO 1253 1265	paliperidona
+T9	FARMACO 1326 1351	palmitato de paliperidona
+T10	ORG_VIVO 16 30	paciente mujer
+T11	ORG_VIVO 305 313	paciente
+T12	ORG_VIVO 634 642	paciente
+T13	ENFERMEDAD 664 706	trastorno esquizotípico de la personalidad
+T14	ENFERMEDAD 840 864	trastorno esquizofrénico
+T15	ENFERMEDAD 888 923	trastorno a fármacos antipsicóticos
+T16	ENFERMEDAD 1142 1155	esquizofrenia
+T17	ENFERMEDAD 1157 1182	trastorno esquizoafectivo
+T18	ENFERMEDAD 1184 1207	trastorno esquizotípico
+T19	ENFERMEDAD 1210 1229	deterioro cognitivo

@@ -1,0 +1,87 @@
+T1	SINTOMA 534 555	molestias abdominales
+T2	SINTOMA 706 711	dolor
+T3	SINTOMA 824 832	anorexia
+T4	SINTOMA 920 990	abdomen blando y depresible, muy doloroso a la presión profunda en FID
+T5	SINTOMA 1005 1024	reacción peritoneal
+T6	SINTOMA 1408 1451	intensa meteorización del intestino delgado
+T7	SINTOMA 2924 2930	febril
+T8	SINTOMA 3694 3700	fiebre
+T9	SINTOMA 4356 4368	asintomático
+T10	SINTOMA 4664 4688	js_beorlegui@hotmail.com
+T11	PROCEDIMIENTO 1106 1146	estudios radiológicos de tórax y abdomen
+T12	PROCEDIMIENTO 1340 1362	estudio de coagulación
+T13	PROCEDIMIENTO 1375 1394	ecografía abdominal
+T14	PROCEDIMIENTO 1638 1661	laparotomía exploradora
+T15	PROCEDIMIENTO 1843 1863	incisión de McBurney
+T16	PROCEDIMIENTO 2025 2063	laparotomía media supra-infraumbilical
+T17	PROCEDIMIENTO 2595 2617	hemicolectomía derecha
+T18	PROCEDIMIENTO 2753 2790	reconstrucción del tránsito digestivo
+T19	PROCEDIMIENTO 2820 2858	anastomosis íleo-cólica latero-lateral
+T20	PROCEDIMIENTO 2991 3003	hemocultivos
+T21	PROCEDIMIENTO 3454 3466	antibiograma
+T22	PROCEDIMIENTO 3722 3733	antibiótica
+T23	PROCEDIMIENTO 4053 4079	antibioterapia intravenosa
+T24	PROCEDIMIENTO 4443 4455	colonoscopia
+T25	PROCEDIMIENTO 4458 4472	TAC de abdomen
+T26	PROCEDIMIENTO 4664 4688	js_beorlegui@hotmail.com
+T27	NEG 388 391	sin
+T28	NSCO 392 437	antecedentes médicos o quirúrgicos de interés
+T29	NEG 556 572	inespecíficas de
+T30	NSCO 573 597	varios días de evolución
+T31	NEG 845 848	sin
+T32	NSCO 849 891	alteraciones del tránsito gastrointestinal
+T33	NEG 1070 1073	sin
+T34	NSCO 1074 1100	otros hallazgos reseñables
+T35	NEG 1147 1149	no
+T36	NSCO 1150 1170	reflejaban patología
+T37	NEG 1456 1463	impedía
+T38	NSCO 1464 1490	la visualización del ciego
+T39	NEG 1517 1519	No
+T40	NSCO 1520 1546	se observaba líquido libre
+T41	UNC 1678 1689	sospecha de
+T42	USCO 1690 1711	una apendicitis aguda
+T43	NEG 3675 3690	desaparición de
+T44	NSCO 3691 3700	la fiebre
+T45	NEG 4038 4049	se suspende
+T46	NSCO 4050 4079	la antibioterapia intravenosa
+T47	NEG 4356 4368	asintomático
+T48	NEG 4484 4486	no
+T49	NSCO 4487 4573	se informaron hallazgos patológicos o sugerentes de enfermedad inflamatoria intestinal
+T50	FARMACO 1742 1753	amoxicilina
+T51	FARMACO 1756 1773	ácido clavulánico
+T52	FARMACO 3495 3505	ampicilina
+T53	FARMACO 3507 3517	cefotaxima
+T54	FARMACO 3519 3530	vancomicina
+T55	FARMACO 3532 3543	rifampicina
+T56	FARMACO 3545 3557	eritromicina
+T57	FARMACO 3559 3571	cotrimoxazol
+T58	FARMACO 3573 3587	ciprofloxacina
+T59	FARMACO 3590 3601	amoxicilina
+T60	FARMACO 3606 3623	ácido clavulánico
+T61	FARMACO 3766 3777	amoxicilina
+T62	FARMACO 3780 3797	ácido clavulánico
+T63	FARMACO 4133 4144	amoxicilina
+T64	FARMACO 4147 4164	ácido clavulánico
+T65	ORG_VIVO 332 346	Paciente varón
+T66	ORG_VIVO 367 386	soldado profesional
+T67	ORG_VIVO 498 504	médico
+T68	ORG_VIVO 602 609	enfermo
+T69	ORG_VIVO 1729 1737	paciente
+T70	ORG_VIVO 2899 2906	enfermo
+T71	ORG_VIVO 3176 3196	bacilo gram positivo
+T72	ORG_VIVO 3208 3221	Listeria spp.
+T73	ORG_VIVO 3279 3289	serotipado
+T74	ORG_VIVO 3330 3338	patógeno
+T75	ORG_VIVO 3383 3446	Listeria de la especie monocytoges perteneciente al serotipo 4b
+T76	ORG_VIVO 3470 3476	germen
+T77	ORG_VIVO 3661 3669	paciente
+T78	ORG_VIVO 4249 4257	paciente
+T79	ORG_VIVO 4334 4341	enfermo
+T80	ENFERMEDAD 1694 1711	apendicitis aguda
+T81	ENFERMEDAD 1935 1946	adenopatías
+T82	ENFERMEDAD 2727 2738	adenopatías
+T83	ENFERMEDAD 3152 3220	líquido biológico de un bacilo gram positivo del género Listeria spp
+T84	ENFERMEDAD 4539 4573	enfermedad inflamatoria intestinal
+T85	SANITARIO-PROFESION 276 282	Médico
+T86	SANITARIO-PROFESION 498 512	médico militar
+T87	PACIENTE-PROFESION 367 374	soldado

@@ -1,0 +1,19 @@
+PACIENTE VARÓN DE 50 AÑOS que acude al periodoncista enviado por su familia. No ha ido nunca al dentista. Su principal motivo de consulta es: acabar con el caos de mi boca que por miedo no he atendido y ahora tengo malestar general en toda la boca y movilidad en los dientes.
+
+En cuanto a su historia médica, es un paciente tipo ASA I, no fumador. En este caso aplicaremos el árbol de toma de decisiones para la clasificación de la periodontitis por estadios y grados. Paciente nuevo al que se le realiza estudio radiográfico completo, exploración integral extraoral e intraoral y registro de parámetros periodontales.
+
+En la exploración extraoral solamente encontramos anomalía en el hábito de respiración, que es fundamentalmente oral. En la intraoral se observa un diastema interincisivo congénito y estrecha banda de tejido queratinizado en #43 bucal. Además, se aprecia una ingente cantidad de depósitos bacterianos y un aspecto del margen gingival con cambios significativos de tamaño, forma, textura y coloración. Las encías aparecen agrandadas, edematosas, brillantes y de color violáceo.
+
+En la exploración radiográfica periapical se aprecia pérdida ósea (PO) claramente detectable. También, en el estudio periodontal completo aparece pérdida de inserción clínica (PIC), recesiones, profundidad de sondaje elevada y alto índice de sangrado. Con estas pruebas diagnósticas podemos sospechar que el paciente tiene periodontitis y podemos continuar con el árbol clínico de toma de decisiones para la clasificación de estadios y grados.
+
+Como prueba diagnóstica adicional se le realizó una medición de la calidad del aliento mediante Oral-Chroma®, registrándose altos valores de compuestos volátiles sulfurados (CVS) en la muestra, tanto de sulfuro de hidrógeno (H2S) como de metil mercaptano (CH3SH), presentes en el metabolismo de ciertas proteínas y en el material de desecho bacteriano.
+
+En 2016, se diagnosticó a este paciente con la clasificación de 1999 como periodontitis crónica avanzada generalizada, recesiones generalizadas, lesiones de furcación, movilidad generalizada, halitosis objetiva severa, caries en #26 distal y diastemas congénitos por agenesias.
+
+En el caso de la clasificación actual seguiríamos el paso 2, y mediante los registros tomados confirmamos que es periodontitis puesto que hay pérdida ósea (PO), pérdida de inserción clínica (PIC), sangrado al sondaje y lesiones de furca, lo que nos deja en el paso 3a. Este paso es el que tiene en cuenta la extensión de la enfermedad, de tal manera que si la periodontitis afecta a más del 30 % de los dientes se considera generalizada. Una vez establecida la extensión pasamos al paso 3b para clasificar el estadio, empezando por la severidad. Este paciente presenta PIC > 5 mm y PO radiográfica > 1/3 medio de las raíces, por lo tanto, es un paciente con periodontitis estadio III o IV.
+
+Estamos en el paso para establecer el estadio según la complejidad y en nuestro caso el paciente presenta PS > 6 mm, migración dentaria con mesialización y abanicamiento de los dientes en los tramos edéntulos, movilidad de grado I a II, lesiones de furca clase II y defecto de cresta ósea, por lo que nuestro paciente presenta periodontitis generalizada estadio IV.
+
+Una vez clasificado el estadio del paciente, el grado se estima con la progresión de la enfermedad, lo cual, si no hay registros previos, se establece mediante un ratio entre la pérdida ósea y la edad del paciente así como teniendo en cuenta los factores de riesgo. En este caso en concreto, el paciente sería clasificado de periodontitis generalizada estadio IV grado C.
+
+El paciente recibió tratamiento periodontal básico que consistió en instrucciones de higiene oral y técnicas de motivación y raspado y alisado radicular.

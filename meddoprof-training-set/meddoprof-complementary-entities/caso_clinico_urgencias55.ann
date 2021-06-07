@@ -1,0 +1,78 @@
+T1	SINTOMA 129 159	desorientación temporoespacial
+T2	SINTOMA 504 514	consciente
+T3	SINTOMA 517 529	colaboradora
+T4	SINTOMA 531 563	desorientada en tiempo y espacio
+T5	SINTOMA 574 596	lenguaje desorganizado
+T6	SINTOMA 609 630	agitación psicomotriz
+T7	SINTOMA 632 639	Afebril
+T8	SINTOMA 657 665	Eupneica
+T9	SINTOMA 815 821	roncus
+T10	SINTOMA 858 864	soplos
+T11	SINTOMA 866 917	Abdomen blando, depresible, no doloroso a palpación
+T12	SINTOMA 987 993	edemas
+T13	SINTOMA 1000 1028	pulsos periféricos presentes
+T14	PROCEDIMIENTO 1043 1052	Hemograma
+T15	PROCEDIMIENTO 1460 1492	Determinación de drogas en orina
+T16	PROCEDIMIENTO 1508 1523	benzodiacepinas
+T17	PROCEDIMIENTO 1526 1552	antidepresivos tricíclicos
+T18	PROCEDIMIENTO 1554 1562	Rx tórax
+T19	PROCEDIMIENTO 1598 1609	TAC craneal
+T20	PROCEDIMIENTO 1698 1701	ECG
+T21	PROCEDIMIENTO 2123 2135	hemocultivos
+T22	PROCEDIMIENTO 2148 2160	Urinocultivo
+T23	PROCEDIMIENTO 2321 2333	sueroterapia
+T24	NEG 129 143	desorientación
+T25	NEG 161 163	No
+T26	NSCO 164 203	tiene alergias medicamentosas conocidas
+T27	UNC 277 279	vs
+T28	USCO 280 318	trastorno esquizoafectivo tipo bipolar
+T29	NEG 320 322	No
+T30	NSCO 323 349	intervenciones quirúrgicas
+T31	NEG 531 543	desorientada
+T32	NEG 632 639	Afebril
+T33	NEG 745 747	No
+T34	NSCO 748 781	aumento de presión venosa yugular
+T35	NEG 783 785	No
+T36	NSCO 786 809	adenopatías periféricas
+T37	NEG 854 857	sin
+T38	NSCO 858 864	soplos
+T39	NEG 894 896	no
+T40	NSCO 897 917	doloroso a palpación
+T41	NEG 919 922	sin
+T42	NSCO 923 930	defensa
+T43	NEG 983 986	sin
+T44	NSCO 987 993	edemas
+T45	NEG 1611 1613	No
+T46	NSCO 1614 1665	alteraciones de la densidad del parénquima cerebral
+T47	NEG 1739 1742	Sin
+T48	NSCO 1743 1773	alteraciones de repolarización
+T49	NEG 2137 2146	negativos
+T50	NEG 2162 2170	negativo
+T51	NEG 2246 2260	suspendiéndose
+T52	NSCO 2261 2266	litio
+T53	FARMACO 375 384	Risperdal
+T54	FARMACO 386 394	Seroquel
+T55	FARMACO 396 404	Depakine
+T56	FARMACO 406 413	Zyprexa
+T57	FARMACO 415 422	Lexatín
+T58	FARMACO 424 436	Lormetazepam
+T59	FARMACO 439 445	Plenur
+T60	FARMACO 2027 2032	litio
+T61	FARMACO 2261 2266	litio
+T62	FARMACO 2282 2291	valproico
+T63	FARMACO 2425 2436	haloperidol
+T64	FARMACO 2599 2610	haloperidol
+T65	ORG_VIVO 0 5	Mujer
+T66	ORG_VIVO 490 498	paciente
+T67	ORG_VIVO 1897 1905	paciente
+T68	ORG_VIVO 2296 2304	paciente
+T69	ORG_VIVO 2490 2498	paciente
+T70	ORG_VIVO 2681 2691	psiquiatra
+T71	ENFERMEDAD 208 223	fumadora activa
+T72	ENFERMEDAD 242 256	hipotiroidismo
+T73	ENFERMEDAD 259 276	trastorno bipolar
+T74	ENFERMEDAD 280 318	trastorno esquizoafectivo tipo bipolar
+T75	ENFERMEDAD 786 809	adenopatías periféricas
+T76	ENFERMEDAD 1982 2025	síndrome confusional agudo de origen tóxico
+T77	PACIENTE-SITUACION_LABORAL 26 36	en prisión
+T78	SANITARIO-PROFESION 2681 2691	psiquiatra

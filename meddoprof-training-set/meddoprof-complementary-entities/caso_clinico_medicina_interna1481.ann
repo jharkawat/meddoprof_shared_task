@@ -1,0 +1,117 @@
+T1	SINTOMA 873 880	astenia
+T2	SINTOMA 891 910	dolor periumbilical
+T3	SINTOMA 1114 1121	diarrea
+T4	SINTOMA 1126 1133	vómitos
+T5	SINTOMA 1138 1144	fiebre
+T6	SINTOMA 1263 1304	signos inflamatorios en intestino delgado
+T7	SINTOMA 1318 1334	deterioro físico
+T8	SINTOMA 1476 1508	consciente orientado colaborador
+T9	SINTOMA 1510 1516	37,4oC
+T10	SINTOMA 1546 1554	eupneico
+T11	SINTOMA 1654 1675	ingurgitación yugular
+T12	SINTOMA 1821 1838	soplos llamativos
+T13	SINTOMA 1936 1989	Abdomen blando depresible, no doloroso a la palpación
+T14	SINTOMA 1994 2011	defensa abdominal
+T15	SINTOMA 2080 2086	edemas
+T16	PROCEDIMIENTO 357 381	tratamiento domiciliario
+T17	PROCEDIMIENTO 1206 1232	ecografía abdomino-pélvica
+T18	PROCEDIMIENTO 1447 1465	Exploración física
+T19	PROCEDIMIENTO 1776 1797	Auscultación cardíaca
+T20	PROCEDIMIENTO 1840 1861	Auscultación pulmonar
+T21	PROCEDIMIENTO 2156 2179	Exploración neurológica
+T22	PROCEDIMIENTO 2250 2259	Hemograma
+T23	PROCEDIMIENTO 2398 2420	Estudio de coagulación
+T24	PROCEDIMIENTO 3119 3131	Hemocultivos
+T25	PROCEDIMIENTO 3252 3262	Urocultivo
+T26	PROCEDIMIENTO 3274 3277	ECG
+T27	PROCEDIMIENTO 3314 3328	Rx AP de tórax
+T28	PROCEDIMIENTO 3359 3372	Rx de abdomen
+T29	PROCEDIMIENTO 3510 3550	TAC con contraste i.v de abdomen y tórax
+T30	PROCEDIMIENTO 4097 4109	Gastroscopia
+T31	PROCEDIMIENTO 4262 4269	biopsia
+T32	PROCEDIMIENTO 4271 4283	Colonoscopia
+T33	PROCEDIMIENTO 4337 4354	biopsias de ileon
+T34	PROCEDIMIENTO 4356 4385	Ecocardiografía transtorácica
+T35	PROCEDIMIENTO 4536 4566	Ecocardiografía Transesofágica
+T36	NEG 44 47	sin
+T37	NSCO 48 81	alergias medicamentosas conocidas
+T38	NEG 770 772	no
+T39	NSCO 773 795	consultó con su médico
+T40	NEG 1084 1087	sin
+T41	NSCO 1088 1095	mejoría
+T42	NEG 1097 1099	No
+T43	NSCO 1100 1144	ha presentado diarrea, ni vómitos, ni fiebre
+T44	NEG 1146 1149	sin
+T45	NSCO 1150 1161	termometrar
+T46	NEG 1640 1642	No
+T47	NSCO 1643 1675	presentaba ingurgitación yugular
+T48	NEG 1757 1759	No
+T49	NSCO 1760 1774	presenta bocio
+T50	NEG 1817 1820	sin
+T51	NSCO 1821 1838	soplos llamativos
+T52	NEG 1897 1900	sin
+T53	NSCO 1901 1934	ruidos patológicos sobreañadidos
+T54	NEG 1963 1965	no
+T55	NSCO 1966 1989	doloroso a la palpación
+T56	NEG 1991 1993	no
+T57	NSCO 1994 2011	defensa abdominal
+T58	NEG 2013 2015	no
+T59	NSCO 2016 2043	se palpan masas ni megalias
+T60	NEG 2076 2079	sin
+T61	NSCO 2080 2125	edemas ni signos de trombosis venosa profunda
+T62	NEG 2187 2190	sin
+T63	NSCO 2191 2200	focalidad
+T64	NEG 2933 2941	negativa
+T65	NEG 3223 3231	Negativo
+T66	NEG 3264 3272	Negativo
+T67	NEG 3330 3333	Sin
+T68	NSCO 3334 3357	alteraciones relevantes
+T69	NEG 3374 3376	No
+T70	NSCO 3377 3418	hay restos de contraste baritado en colon
+T71	NEG 3768 3771	sin
+T72	NSCO 3772 3796	hallazgos significativos
+T73	NEG 4157 4160	sin
+T74	NSCO 4161 4169	lesiones
+T75	NEG 4285 4287	No
+T76	NSCO 4288 4326	alteraciones ni lesiones endoluminales
+T77	NEG 4436 4439	sin
+T78	NSCO 4440 4457	datos estenóticos
+T79	UNC 4583 4594	sospecha de
+T80	USCO 4595 4629	endocarditis sobre válvula aórtica
+T81	FARMACO 387 394	Lexatín
+T82	FARMACO 398 406	Dogmatil
+T83	FARMACO 408 417	Omeprazol
+T84	FARMACO 424 429	Adiro
+T85	FARMACO 435 444	Enalapril
+T86	FARMACO 1076 1082	hierro
+T87	ORG_VIVO 13 23	personales
+T88	ORG_VIVO 25 30	Varón
+T89	ORG_VIVO 486 494	paciente
+T90	ORG_VIVO 583 589	padres
+T91	ORG_VIVO 789 795	médico
+T92	ORG_VIVO 1002 1029	médico de atención primaria
+T93	ORG_VIVO 1398 1401	MAP
+T94	ORG_VIVO 1467 1475	Paciente
+T95	ORG_VIVO 3144 3152	Brucella
+T96	ORG_VIVO 3154 3169	Coxiella fase I
+T97	ORG_VIVO 3170 3174	y II
+T98	ORG_VIVO 3176 3179	EBV
+T99	ORG_VIVO 3181 3191	Bartonella
+T100	ORG_VIVO 3193 3217	Chlamydophila Pneumoniae
+T101	ORG_VIVO 3233 3236	CMV
+T102	ENFERMEDAD 162 184	Hábito enólico intenso
+T103	ENFERMEDAD 205 236	Accidente isquémico transitorio
+T104	ENFERMEDAD 251 272	Hipertensión arterial
+T105	ENFERMEDAD 1057 1063	anemia
+T106	ENFERMEDAD 1677 1755	Adenopatías periféricas en cadena yugular anterior derecha de pequeño tamaño
+T107	ENFERMEDAD 1769 1774	bocio
+T108	ENFERMEDAD 2100 2125	trombosis venosa profunda
+T109	ENFERMEDAD 2445 2451	anemia
+T110	ENFERMEDAD 3552 3622	Adenopatías hiliares y mediastínicas sobre todo en región paratraqueal
+T111	ENFERMEDAD 4405 4426	insuficiencia aórtica
+T112	ENFERMEDAD 4487 4517	Insuficiencia tricuspídea leve
+T113	ENFERMEDAD 4595 4629	endocarditis sobre válvula aórtica
+T114	ENFERMEDAD 4631 4672	Insuficiencia aórtica moderada secundaria
+T115	SANITARIO-PROFESION 1398 1401	MAP
+T116	SANITARIO-PROFESION 789 795	médico
+T117	SANITARIO-PROFESION 1002 1029	médico de atención primaria

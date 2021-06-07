@@ -1,0 +1,46 @@
+T1	SINTOMA 72 85	palpitaciones
+T2	SINTOMA 87 132	sudoración profusa en las palmas de las manos
+T3	SINTOMA 149 157	insomnio
+T4	SINTOMA 159 167	cefaleas
+T5	SINTOMA 2250 2258	tos seca
+T6	SINTOMA 2260 2270	irritativa
+T7	SINTOMA 2289 2296	comezón
+T8	SINTOMA 2973 2987	intranquilidad
+T9	PROCEDIMIENTO 746 751	tomía
+T10	PROCEDIMIENTO 1555 1559	MAPA
+T11	PROCEDIMIENTO 2411 2427	angio-tensina ii
+T12	NEG 767 769	No
+T13	NSCO 770 807	toma medicamentos en forma controlada
+T14	NEG 808 815	excepto
+T15	NSCO 816 825	ocasional
+T16	NEG 919 921	no
+T17	NSCO 922 945	descansa bien de noche"
+T18	NEG 1105 1107	No
+T19	NSCO 1108 1143	presenta signos patológicos excepto
+T20	NEG 1805 1815	Se sugiere
+T21	NSCO 1816 1858	la incorporación de medicación ansiolítica
+T22	NEG 2151 2153	no
+T23	NSCO 2154 2165	se modifica
+T24	NEG 2569 2571	no
+T25	NSCO 2572 2598	alcanzan a valores ideales
+T26	NEG 2708 2710	no
+T27	NSCO 2711 2727	benzodiacepínico
+T28	FARMACO 850 866	benzodiacepínico
+T29	FARMACO 2363 2367	IECA
+T30	FARMACO 2711 2727	benzodiacepínico
+T31	FARMACO 2729 2738	etifoxina
+T32	ORG_VIVO 8 14	hombre
+T33	ORG_VIVO 266 274	vendedor
+T34	ORG_VIVO 1204 1212	personal
+T35	ORG_VIVO 1868 1876	paciente
+T36	ENFERMEDAD 687 707	hipertrigliceridemia
+T37	ENFERMEDAD 1040 1048	ansiedad
+T38	ENFERMEDAD 1073 1081	ansiedad
+T39	ENFERMEDAD 1216 1237	hipertensión arterial
+T40	ENFERMEDAD 1591 1632	Hipertensión sisto-diastólica leve diurna
+T41	ENFERMEDAD 2072 2080	ansiedad
+T42	ENFERMEDAD 2635 2643	ansiedad
+T43	ENFERMEDAD 2933 2941	ansiedad
+T44	ENFERMEDAD 3147 3155	ansiedad
+T45	PACIENTE-PROFESION 266 326	vendedor calificado de una empresa multinacional de gaseosas
+T46	OTROS-PROFESION 355 370	staff de ventas

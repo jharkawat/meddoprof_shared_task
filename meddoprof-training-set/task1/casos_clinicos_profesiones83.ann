@@ -1,0 +1,16 @@
+T1	PROFESION 638 641	Dr.
+T2	PROFESION 618 624	Médico
+T3	PROFESION 770 785	Médico Cirujano
+T6	PROFESION 659 674	médico familiar
+T13	PROFESION 2812 2827	médico familiar
+T15	PROFESION 12541 12558	médico particular
+T16	PROFESION 12740 12746	médico
+T17	SITUACION_LABORAL 434 444	estudiante
+T18	SITUACION_LABORAL 726 736	estudiante
+T7	PROFESION 2325 2336	facultativo
+T8	PROFESION 2771 2782	facultativo
+T9	SITUACION_LABORAL 8785 8809	estudiar el bachillerato
+T10	ACTIVIDAD 8522 8551	Asiste en las mañanas a nadar
+T11	ACTIVIDAD 8638 8680	gusta de practicar deportes de alto riesgo
+T12	PROFESION 9810 9820	ginecólogo
+T14	PROFESION 9953 9967	ginecoobstetra

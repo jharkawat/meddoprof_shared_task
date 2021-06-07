@@ -1,0 +1,63 @@
+T1	SINTOMA 461 500	elevación del segmento ST inferolateral
+T2	SINTOMA 1790 1871	elevación persistente del segmento ST de 1,5 mm en derivaciones inferiores, V 4-6
+T3	SINTOMA 2106 2114	tos seca
+T4	SINTOMA 2116 2125	febrícula
+T5	SINTOMA 2127 2134	cefalea
+T6	SINTOMA 2137 2144	astenia
+T7	SINTOMA 2178 2249	opacidades alveolares coalescentes bilaterales de predominio subpleural
+T8	SINTOMA 2366 2380	linfocitopenia
+T9	SINTOMA 2398 2460	valores elevados de proteína C reactiva (135,6 mg/l), dímero D
+T10	PROCEDIMIENTO 420 423	ECG
+T11	PROCEDIMIENTO 930 942	angioplastia
+T12	PROCEDIMIENTO 1091 1093	DP
+T13	PROCEDIMIENTO 1276 1295	stent farmacoactivo
+T14	PROCEDIMIENTO 1355 1406	revascularizó la DA proximal con otro stent directo
+T15	PROCEDIMIENTO 1539 1559	colocación del stent
+T16	PROCEDIMIENTO 1587 1607	colocación del stent
+T17	PROCEDIMIENTO 1665 1690	embolización en DP distal
+T18	PROCEDIMIENTO 1749 1752	ECG
+T19	PROCEDIMIENTO 1972 1984	angioplastia
+T20	PROCEDIMIENTO 2005 2014	anamnesis
+T21	PROCEDIMIENTO 2150 2170	radiografía de tórax
+T22	PROCEDIMIENTO 2868 2921	tratamiento antitrombótico con ácido acetilsalicílico
+T23	PROCEDIMIENTO 2955 2969	anticoagulante
+T24	PROCEDIMIENTO 3133 3145	antibióticos
+T25	PROCEDIMIENTO 3340 3357	PCR de SARS-CoV-2
+T26	UNC 182 190	sospecha
+T27	USCO 191 210	clínica de COVID-19
+T28	NEG 388 390	no
+T29	NSCO 391 412	tiene hábitos tóxicos
+T30	UNC 1188 1202	compatible con
+T31	USCO 1203 1209	trombo
+T32	UNC 2048 2063	compatibles con
+T33	USCO 2064 2104	COVID-19 de al menos 3 días de evolución
+T34	UNC 2699 2705	dudosa
+T35	UNC 3044 3055	sospecha de
+T36	USCO 3056 3076	estado procoagulante
+T37	NEG 3414 3426	asintomático
+T38	FARMACO 1617 1626	tirofibán
+T39	FARMACO 2899 2921	ácido acetilsalicílico
+T40	FARMACO 2923 2932	prasugrel
+T41	FARMACO 2935 2946	enoxaparina
+T42	FARMACO 3113 3130	hidroxicloroquina
+T43	FARMACO 3147 3158	ceftriaxona
+T44	FARMACO 3159 3171	azitromicina
+T45	ORG_VIVO 26 32	médico
+T46	ORG_VIVO 168 177	pacientes
+T47	ORG_VIVO 2802 2812	SARS-CoV-2
+T48	ORG_VIVO 2818 2826	paciente
+T49	ORG_VIVO 3347 3357	SARS-CoV-2
+T50	ENFERMEDAD 202 210	COVID-19
+T51	ENFERMEDAD 328 344	diabético tipo 2
+T52	ENFERMEDAD 875 921	síndrome de dificultad respiratoria aguda leve
+T53	ENFERMEDAD 969 1037	lesión grave, con gran contenido trombótico, en la arteria coronaria
+T54	ENFERMEDAD 1053 1089	oclusión de la descendente posterior
+T55	ENFERMEDAD 1409 1469	Trombo en la arteria coronaria descendente anterior proximal
+T56	ENFERMEDAD 1470 1500	Trombo en la arteria coronaria
+T57	ENFERMEDAD 1912 1955	bloqueo auriculoventricular de primer grado
+T58	ENFERMEDAD 2064 2072	COVID-19
+T59	ENFERMEDAD 2561 2597	coagulación intravascular diseminada
+T60	ENFERMEDAD 2599 2602	CID
+T61	ENFERMEDAD 2746 2754	COVID-19
+T62	ENFERMEDAD 2788 2812	positiva para SARS-CoV-2
+T63	PACIENTE-PROFESION 26 87	médico de 59 años que trabaja en urgencias extrahospitalarias

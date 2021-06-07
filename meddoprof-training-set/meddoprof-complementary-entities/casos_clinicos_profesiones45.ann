@@ -1,0 +1,7 @@
+T1	SINTOMA 43 50	fumador
+T2	SINTOMA 88 113	dolor en las pantorrillas
+T3	NEG 212 222	desaparece
+T4	NSCO 223 236	con el reposo
+T5	ORG_VIVO 15 20	varón
+T6	ORG_VIVO 33 40	albañil
+T7	PACIENTE-PROFESION 33 40	albañil

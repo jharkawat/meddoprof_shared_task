@@ -1,0 +1,130 @@
+T1	SINTOMA 234 244	consciente
+T2	SINTOMA 247 256	orientado
+T3	SINTOMA 293 310	dolor epigástrico
+T4	SINTOMA 732 738	fiebre
+T5	SINTOMA 740 743	tos
+T6	SINTOMA 1190 1196	fiebre
+T7	SINTOMA 1221 1232	taquicardia
+T8	SINTOMA 1335 1376	opacidad en el lóbulo superior del pulmón
+T9	SINTOMA 1769 1785	falta de apetito
+T10	SINTOMA 2189 2211	carencias neurológicas
+T11	SINTOMA 2223 2246	afectaciones cognitivas
+T12	SINTOMA 2653 2664	nerviosismo
+T13	SINTOMA 2818 2829	escalofríos
+T14	SINTOMA 2845 2856	hipertermia
+T15	SINTOMA 3187 3210	alucinaciones auditivas
+T16	SINTOMA 3262 3282	alucinación auditiva
+T17	SINTOMA 3758 3781	alucinaciones auditivas
+T18	SINTOMA 3826 3839	alucinaciones
+T19	SINTOMA 4124 4156	alteraciones del estado de ánimo
+T20	SINTOMA 4159 4167	ansiedad
+T21	SINTOMA 4455 4463	angustia
+T22	PROCEDIMIENTO 398 420	exploración de la boca
+T23	PROCEDIMIENTO 1004 1034	análisis toxicológico de orina
+T24	PROCEDIMIENTO 1303 1323	radiografía torácica
+T25	PROCEDIMIENTO 2125 2131	RT-PCR
+T26	PROCEDIMIENTO 2159 2178	frotis nasofaríngeo
+T27	PROCEDIMIENTO 2300 2328	Test de Evaluación Cognitiva
+T28	PROCEDIMIENTO 2933 2947	oxigenoterapia
+T29	PROCEDIMIENTO 3045 3070	TAC craneal sin contraste
+T30	PROCEDIMIENTO 3124 3138	punción lumbar
+T31	PROCEDIMIENTO 4951 4965	rehabilitación
+T32	NEG 22 25	sin
+T33	NSCO 26 70	antecedentes médicos ni psiquiátricos acudió
+T34	UNC 104 112	aparente
+T35	USCO 113 132	intento de suicidio
+T36	UNC 158 172	desconocida de
+T37	USCO 173 193	lejía de una botella
+T38	NEG 465 468	sin
+T39	NSCO 469 490	lesiones orofaríngeas
+T40	NEG 656 661	nunca
+T41	NSCO 662 688	había hecho nada parecido»
+T42	NEG 709 711	no
+T43	NSCO 712 780	se había quejado de fiebre, tos ni tenía ninguna enfermedad reciente
+T44	NEG 782 784	No
+T45	NSCO 785 790	sabía
+T46	UNC 815 821	podría
+T47	USCO 822 842	haber ingerido lejía
+T48	NEG 856 858	no
+T49	NSCO 859 933	colaboró durante la entrevista psiquiátrica a causa de su estigma cultural
+T50	UNC 934 942	aparente
+T51	NEG 957 959	no
+T52	NSCO 960 983	necesito ningún loquero
+T53	NEG 985 987	no
+T54	NSCO 988 999	estoy loco»
+T55	NEG 1049 1057	negativo
+T56	UNC 1400 1407	posible
+T57	USCO 1408 1429	neumonía por COVID-19
+T58	NEG 1722 1724	no
+T59	NSCO 1725 1737	colaborativo
+T60	NEG 1769 1777	falta de
+T61	NSCO 1778 1785	apetito
+T62	NEG 2180 2182	No
+T63	NSCO 2183 2256	había carencias neurológicas focales ni afectaciones cognitivas aparentes
+T64	NEG 2444 2446	no
+T65	NSCO 2447 2469	nombrar el rinoceronte
+T66	NEG 3057 3060	sin
+T67	NSCO 3061 3070	contraste
+T68	NEG 3101 3103	No
+T69	NSCO 3104 3138	se practicó ninguna punción lumbar
+T70	NEG 3328 3330	no
+T71	NSCO 3331 3342	reconocible
+T72	NEG 3394 3396	No
+T73	NSCO 3397 3429	estaba seguro del sexo de la voz
+T74	NEG 3655 3657	no
+T75	NSCO 3658 3673	para suicidarse
+T76	NSCO 3923 4002	Negó haber tenido ideas o intentos de suicidio, en la actualidad o en el pasado
+T77	NSCO 4088 4167	Negó síntomas pasados o actuales de alteraciones del estado de ánimo o ansiedad
+T78	NEG 4738 4749	ausencia de
+T79	NSCO 4750 4776	enfermedades psiquiátricas
+T80	FARMACO 1550 1561	ceftriaxona
+T81	FARMACO 1587 1599	azitromicina
+T82	FARMACO 1634 1651	hidroxicloroquina
+T83	FARMACO 2586 2596	olanzapina
+T84	ORG_VIVO 4 10	hombre
+T85	ORG_VIVO 366 393	equipo de atención primaria
+T86	ORG_VIVO 495 501	esposa
+T87	ORG_VIVO 569 575	marido
+T88	ORG_VIVO 580 585	mujer
+T89	ORG_VIVO 601 607	esposo
+T90	ORG_VIVO 808 814	marido
+T91	ORG_VIVO 847 855	paciente
+T92	ORG_VIVO 1434 1442	paciente
+T93	ORG_VIVO 1839 1861	personal de enfermería
+T94	ORG_VIVO 1877 1885	paciente
+T95	ORG_VIVO 2083 2093	SARS-CoV-2
+T96	ORG_VIVO 2342 2350	paciente
+T97	ORG_VIVO 2458 2469	rinoceronte
+T98	ORG_VIVO 2669 2677	paciente
+T99	ORG_VIVO 3915 3921	tabaco
+T100	ORG_VIVO 4276 4286	oficinista
+T101	ORG_VIVO 4291 4297	esposa
+T102	ORG_VIVO 4303 4321	maestra de escuela
+T103	ORG_VIVO 4328 4332	hijo
+T104	ORG_VIVO 4650 4660	personales
+T105	ORG_VIVO 4724 4732	paciente
+T106	ORG_VIVO 4848 4854	esposa
+T107	ORG_VIVO 4863 4881	médico de cabecera
+T108	ORG_VIVO 4886 4907	equipo de psiquiatría
+T109	ENFERMEDAD 124 132	suicidio
+T110	ENFERMEDAD 469 490	lesiones orofaríngeas
+T111	ENFERMEDAD 1408 1429	neumonía por COVID-19
+T112	ENFERMEDAD 1995 2003	suicidio
+T113	ENFERMEDAD 2008 2017	infección
+T114	ENFERMEDAD 2022 2081	síndrome de dificultad respiratoria aguda por coronavirus 2
+T115	ENFERMEDAD 2739 2776	insuficiencia respiratoria hipoxémica
+T116	ENFERMEDAD 2791 2799	COVID-19
+T117	ENFERMEDAD 3961 3969	suicidio
+T118	ENFERMEDAD 4159 4167	ansiedad
+T119	ENFERMEDAD 4473 4481	COVID-19
+T120	ENFERMEDAD 4750 4776	enfermedades psiquiátricas
+T121	ENFERMEDAD 5016 5066	trastorno psicótico asociado a otro proceso médico
+T122	SANITARIO-PROFESION 366 393	equipo de atención primaria
+T123	SANITARIO-PROFESION 4886 4907	equipo de psiquiatría
+T124	FAMILIAR-PROFESION 4303 4321	maestra de escuela
+T125	SANITARIO-PROFESION 4863 4881	médico de cabecera
+T126	SANITARIO-PROFESION 1839 1861	personal de enfermería
+T127	SANITARIO-PROFESION 976 983	loquero
+T128	PACIENTE-PROFESION 4276 4286	oficinista
+T129	FAMILIAR-PROFESION 4345 4362	desarrollador web
+T130	FAMILIAR-SITUACION_LABORAL 4372 4397	trabajaban desde el hogar

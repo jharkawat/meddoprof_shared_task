@@ -1,0 +1,92 @@
+T1	SINTOMA 1813 1832	pérdida del apetito
+T2	SINTOMA 1838 1854	pérdida ponderal
+T3	SINTOMA 2391 2400	orientada
+T4	SINTOMA 2459 2468	Hipomimia
+T5	SINTOMA 2504 2528	fallos mnésicos groseros
+T6	SINTOMA 2981 2987	apatía
+T7	SINTOMA 3003 3039	disminución de la capacidad hedónica
+T8	SINTOMA 3041 3062	Embotamiento afectivo
+T9	SINTOMA 3209 3227	Apetito disminuido
+T10	SINTOMA 3232 3248	pérdida ponderal
+T11	SINTOMA 3987 3998	somnolencia
+T12	SINTOMA 4048 4061	estreñimiento
+T13	SINTOMA 4743 4751	insomnio
+T14	PROCEDIMIENTO 435 449	apendicectomía
+T15	PROCEDIMIENTO 3365 3374	hemograma
+T16	PROCEDIMIENTO 3430 3446	tóxicos en orina
+T17	NEG 369 371	no
+T18	NSCO 372 375	HTA
+T19	NEG 377 379	No
+T20	NSCO 380 382	DM
+T21	NEG 384 386	No
+T22	NSCO 387 389	DL
+T23	NEG 483 486	Sin
+T24	NSCO 487 505	alergias conocidas
+T25	NEG 1772 1775	sin
+T26	NSCO 1776 1794	acudir a Urgencias
+T27	NEG 1872 1874	No
+T28	NSCO 1875 1929	es capaz de identificar causas de esta descompensación
+T29	NEG 2501 2503	No
+T30	NSCO 2504 2528	fallos mnésicos groseros
+T31	NEG 2530 2532	No
+T32	NSCO 2533 2586	signos/síntomas de intoxicación/abstinencia a tóxicos
+T33	NEG 2868 2873	Niega
+T34	NSCO 2874 2903	alteraciones sensoperceptivas
+T35	NEG 2912 2914	no
+T36	NSCO 2915 2934	se pueden descartar
+T37	NEG 3447 3450	sin
+T38	NSCO 3451 3474	alteraciones reseñables
+T39	NEG 3708 3711	sin
+T40	NSCO 3712 3736	alteraciones de conducta
+T41	NEG 3906 3909	sin
+T42	NSCO 3910 3960	incidencias en los controles analíticos periódicos
+T43	NEG 4221 4230	negativos
+T44	NEG 4431 4440	suspender
+T45	NSCO 4441 4451	finalmente
+T46	NEG 4523 4526	sin
+T47	NSCO 4527 4538	incidencias
+T48	FARMACO 871 885	desvenlafaxina
+T49	FARMACO 901 910	clozapina
+T50	FARMACO 929 941	paliperidona
+T51	FARMACO 956 968	paliperidona
+T52	FARMACO 983 994	clorazepato
+T53	FARMACO 3834 3843	clozapina
+T54	FARMACO 4398 4409	clorazepato
+T55	FARMACO 4412 4424	paliperidona
+T56	FARMACO 4628 4637	clozapina
+T57	FARMACO 4656 4670	desvenlafaxina
+T58	FARMACO 4713 4725	lormetazepam
+T59	ORG_VIVO 0 5	Mujer
+T60	ORG_VIVO 142 152	personales
+T61	ORG_VIVO 174 180	marido
+T62	ORG_VIVO 194 202	familiar
+T63	ORG_VIVO 212 225	hijos varones
+T64	ORG_VIVO 240 254	administrativa
+T65	ORG_VIVO 553 559	tabaco
+T66	ORG_VIVO 1047 1055	paciente
+T67	ORG_VIVO 1160 1165	gente
+T68	ORG_VIVO 1230 1236	vecino
+T69	ORG_VIVO 1458 1463	gente
+T70	ORG_VIVO 2194 2202	familiar
+T71	ORG_VIVO 2229 2237	paciente
+T72	ORG_VIVO 3558 3566	paciente
+T73	ENFERMEDAD 44 71	trastorno delirante crónico
+T74	ENFERMEDAD 78 113	trastorno paranoide de personalidad
+T75	ENFERMEDAD 372 375	HTA
+T76	ENFERMEDAD 380 382	DM
+T77	ENFERMEDAD 391 400	psoriasis
+T78	ENFERMEDAD 402 410	artrosis
+T79	ENFERMEDAD 451 481	fractura subcapital del húmero
+T80	ENFERMEDAD 657 684	trastorno delirante crónico
+T81	ENFERMEDAD 691 726	trastorno paranoide de personalidad
+T82	ENFERMEDAD 762 785	esquizofrenia paranoide
+T83	ENFERMEDAD 1013 1030	ENFERMEDAD ACTUAL
+T84	ENFERMEDAD 1708 1714	muerte
+T85	ENFERMEDAD 2459 2468	Hipomimia
+T86	ENFERMEDAD 2552 2586	intoxicación/abstinencia a tóxicos
+T87	ENFERMEDAD 2707 2742	Ideación delirante autorreferencial
+T88	ENFERMEDAD 3090 3109	Ideación autolítica
+T89	ENFERMEDAD 3129 3135	muerte
+T90	ENFERMEDAD 3477 3488	DIAGNÓSTICO
+T91	ENFERMEDAD 3489 3512	Esquizofrenia paranoide
+T92	PACIENTE-PROFESION 240 254	administrativa

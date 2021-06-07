@@ -1,0 +1,10 @@
+T1	SINTOMA 134 142	distimia
+T2	PROCEDIMIENTO 147 172	tratamiento antidepresivo
+T3	NEG 143 146	sin
+T4	NSCO 147 183	tratamiento antidepresivo continuado
+T5	NEG 308 319	retirada de
+T6	NSCO 320 332	este fármaco
+T7	FARMACO 290 298	metadona
+T8	ORG_VIVO 27 32	mujer
+T9	ENFERMEDAD 63 87	dependencia a la heroína
+T10	ENFERMEDAD 134 142	distimia

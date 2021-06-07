@@ -1,0 +1,173 @@
+T1	SINTOMA 322 348	inestabilidad de la marcha
+T2	SINTOMA 404 454	déficit sensitivo-motor en las cuatro extremidades
+T3	SINTOMA 563 591	imposibilidad para la marcha
+T4	SINTOMA 594 635	dificultad para mantener la bipedestación
+T5	SINTOMA 1117 1127	Consciente
+T6	SINTOMA 1130 1139	orientado
+T7	SINTOMA 1172 1180	Eupneico
+T8	SINTOMA 1333 1339	roncus
+T9	SINTOMA 1343 1353	sibilantes
+T10	SINTOMA 1465 1486	irritación peritoneal
+T11	SINTOMA 1518 1524	edemas
+T12	SINTOMA 1544 1580	Pulsos pedios palpables y simétricos
+T13	SINTOMA 1738 1768	Alteración de la propiocepción
+T14	SINTOMA 1835 1842	afasias
+T15	SINTOMA 1846 1855	disnomias
+T16	PROCEDIMIENTO 700 710	TC craneal
+T17	PROCEDIMIENTO 920 942	anamnesis por aparatos
+T18	PROCEDIMIENTO 1061 1074	Examen físico
+T19	PROCEDIMIENTO 1075 1079	- IK
+T20	PROCEDIMIENTO 1215 1236	Auscultación cardiaca
+T21	PROCEDIMIENTO 1276 1297	Auscultación pulmonar
+T22	PROCEDIMIENTO 1584 1607	Exploración neurológica
+T23	PROCEDIMIENTO 1922 1933	RM cerebral
+T24	PROCEDIMIENTO 2039 2052	RM de columna
+T25	PROCEDIMIENTO 2151 2157	TC TAP
+T26	PROCEDIMIENTO 2602 2608	PET-TC
+T27	PROCEDIMIENTO 2677 2679	TC
+T28	PROCEDIMIENTO 2884 2896	Broncoscopia
+T29	PROCEDIMIENTO 3045 3065	lavado endobronquial
+T30	PROCEDIMIENTO 3071 3096	estudio anatomopatológico
+T31	PROCEDIMIENTO 3117 3133	Eco-broncoscopia
+T32	PROCEDIMIENTO 3202 3224	Punción transbronquial
+T33	PROCEDIMIENTO 3302 3321	estudio fisiológico
+T34	PROCEDIMIENTO 3395 3410	Electromiograma
+T35	PROCEDIMIENTO 3892 3912	Microbiología de LCR
+T36	PROCEDIMIENTO 4176 4202	Anatomía patológica de LCR
+T37	PROCEDIMIENTO 4250 4268	Análisis sanguíneo
+T38	PROCEDIMIENTO 4270 4279	hemograma
+T39	PROCEDIMIENTO 4305 4320	Perfil hepático
+T40	PROCEDIMIENTO 4729 4747	inmunohistoquímica
+T41	PROCEDIMIENTO 5234 5250	análisis del LCR
+T42	PROCEDIMIENTO 5753 5766	quimioterapia
+T43	PROCEDIMIENTO 5769 5781	radioterapia
+T44	PROCEDIMIENTO 5786 5799	quimioterapia
+T45	PROCEDIMIENTO 5938 5960	ciclo de quimioterapia
+T46	PROCEDIMIENTO 6070 6096	tratamiento quimioterápico
+T47	PROCEDIMIENTO 6282 6307	radioterapia concomitante
+T48	PROCEDIMIENTO 6498 6524	TC de tórax-abdomen-pelvis
+T49	PROCEDIMIENTO 6714 6738	radioterapia holocraneal
+T50	PROCEDIMIENTO 6894 6920	TC de tórax-abdomen-pelvis
+T51	PROCEDIMIENTO 6923 6929	PET-TC
+T52	NEG 169 171	no
+T53	NSCO 172 180	insulino
+T54	NEG 563 581	imposibilidad para
+T55	NSCO 582 635	la marcha y dificultad para mantener la bipedestación
+T56	NEG 880 882	No
+T57	NSCO 883 942	presentaba otra sintomatología en la anamnesis por aparatos
+T58	NEG 1086 1104	imposibilidad para
+T59	NSCO 1105 1114	la marcha
+T60	NEG 1191 1194	sin
+T61	NSCO 1195 1211	O2 suplementario
+T62	NEG 1247 1249	no
+T63	NSCO 1250 1272	auscultación de soplos
+T64	NEG 1330 1332	no
+T65	NSCO 1333 1353	roncus ni sibilantes
+T66	NEG 1387 1389	no
+T67	NSCO 1390 1423	masas ni organomegalias palpables
+T68	NEG 1451 1454	Sin
+T69	NSCO 1455 1486	signos de irritación peritoneal
+T70	NEG 1515 1517	no
+T71	NSCO 1518 1524	edemas
+T72	NEG 1526 1528	no
+T73	NSCO 1529 1542	signos de TVP
+T74	NEG 1818 1820	no
+T75	NSCO 1821 1830	valorable
+T76	NEG 1832 1834	No
+T77	NSCO 1835 1855	afasias ni disnomias
+T78	NEG 1935 1938	sin
+T79	NSCO 1939 1971	hallazgos significativos excepto
+T80	UNC 1985 1998	sugestivas de
+T81	USCO 1999 2035	pequeños infartos lacunares antiguos
+T82	NEG 2305 2308	sin
+T83	NSCO 2309 2331	nódulos ni infiltrados
+T84	NEG 2333 2335	No
+T85	NSCO 2336 2364	se evidencia derrame pleural
+T86	NEG 2471 2473	No
+T87	NSCO 2474 2512	líquido libre en la cavidad peritoneal
+T88	NEG 2514 2516	No
+T89	NSCO 2517 2565	adenopatías en las cadenas iliacas ni inguinales
+T90	NEG 2585 2588	sin
+T91	NSCO 2589 2598	hallazgos
+T92	NEG 2961 2963	No
+T93	NSCO 2964 2995	signos de compresión extrínseca
+T94	UNC 3322 3336	compatible con
+T95	USCO 3337 3391	patrón axonal de predominio en los miembros inferiores
+T96	NEG 3632 3640	negativo
+T97	NEG 3650 3658	negativo
+T98	NEG 3673 3681	negativo
+T99	NEG 3719 3727	negativo
+T100	NEG 3763 3771	negativo
+T101	NEG 3914 3922	negativo
+T102	NSCO 3923 3941	para micobacterias
+T103	NEG 4070 4078	negativo
+T104	NEG 4089 4097	negativo
+T105	NEG 4110 4118	negativo
+T106	NEG 4128 4136	negativo
+T107	NEG 4146 4154	negativo
+T108	NEG 4164 4172	negativo
+T109	NEG 4236 4239	sin
+T110	NSCO 4240 4246	atipia
+T111	NEG 4550 4553	sin
+T112	NSCO 4554 4563	anomalías
+T113	UNC 4819 4833	compatible con
+T114	USCO 4834 4855	carcinoma microcítico
+T115	UNC 5129 5137	probable
+T116	USCO 5138 5183	síndrome paraneoplásico de origen neurológico
+T117	NEG 5198 5212	negatividad de
+T118	NSCO 5213 5250	los resultados en el análisis del LCR
+T119	UNC 5551 5559	pudieran
+T120	USCO 5560 5599	explicar la sintomatología del paciente
+T121	NEG 6411 6414	sin
+T122	NSCO 6415 6453	efectos tóxicos secundarios relevantes
+T123	NEG 7443 7446	sin
+T124	NSCO 7447 7463	ayuda de andador
+T125	NEG 7646 7649	sin
+T126	NSCO 7650 7690	evidencia de enfermedad hasta el momento
+T127	FARMACO 5884 5894	cisplatino
+T128	FARMACO 5897 5906	etopósido
+T129	ORG_VIVO 10 15	Varón
+T130	ORG_VIVO 60 70	personales
+T131	ORG_VIVO 247 255	paciente
+T132	ORG_VIVO 3628 3631	VIH
+T133	ORG_VIVO 3642 3649	sífilis
+T134	ORG_VIVO 3665 3668	CMV
+T135	ORG_VIVO 3688 3691	CMV
+T136	ORG_VIVO 3711 3714	VEB
+T137	ORG_VIVO 3734 3737	VEB
+T138	ORG_VIVO 3752 3762	Toxoplasma
+T139	ORG_VIVO 3928 3941	micobacterias
+T140	ORG_VIVO 3943 3954	herpesvirus
+T141	ORG_VIVO 3956 3967	enterovirus
+T142	ORG_VIVO 3969 3988	virus herpes simple
+T143	ORG_VIVO 3990 4011	virus varicela zóster
+T144	ORG_VIVO 5113 5121	paciente
+T145	ORG_VIVO 5591 5599	paciente
+T146	ORG_VIVO 5702 5710	paciente
+T147	ORG_VIVO 7427 7435	paciente
+T148	ORG_VIVO 7580 7588	paciente
+T149	ENFERMEDAD 91 100	exfumador
+T150	ENFERMEDAD 152 192	diabetes tipo II no insulino-dependiente
+T151	ENFERMEDAD 203 213	dislipemia
+T152	ENFERMEDAD 404 427	déficit sensitivo-motor
+T153	ENFERMEDAD 747 878	infartos antiguos en el centro semioval y ganglios basales izquierdos con leve leucoaraiosis y atrofia de predomino córtico-frontal
+T154	ENFERMEDAD 1539 1542	TVP
+T155	ENFERMEDAD 2008 2026	infartos lacunares
+T156	ENFERMEDAD 2159 2200	adenopatías a nivel retrocavo-pretraqueal
+T157	ENFERMEDAD 2349 2364	derrame pleural
+T158	ENFERMEDAD 2385 2404	esteatosis hepática
+T159	ENFERMEDAD 2517 2551	adenopatías en las cadenas iliacas
+T160	ENFERMEDAD 2634 2645	adenopatías
+T161	ENFERMEDAD 2684 2716	adenopatía pretraqueal-retrocava
+T162	ENFERMEDAD 3007 3032	broncopatía crónica grave
+T163	ENFERMEDAD 3135 3146	adenopatías
+T164	ENFERMEDAD 3412 3484	polineuropatía sensitivo-motora, de tipo mixto, axonal y desmielinizante
+T165	ENFERMEDAD 4834 4855	carcinoma microcítico
+T166	ENFERMEDAD 5000 5031	carcinoma microcítico de pulmón
+T167	ENFERMEDAD 5138 5161	síndrome paraneoplásico
+T168	ENFERMEDAD 5282 5360	polineuropatía-axonal sensitivo-motora de tipo mixto, axonal y desmielinizante
+T169	ENFERMEDAD 5434 5457	síndrome paraneoplásico
+T170	ENFERMEDAD 5636 5667	carcinoma microcítico de pulmón
+T171	ENFERMEDAD 5669 5697	enfermedad limitada al tórax
+T172	ENFERMEDAD 6112 6123	neutropenia
+T173	ENFERMEDAD 6831 6863	toxicidad aguda dermitis grado 1

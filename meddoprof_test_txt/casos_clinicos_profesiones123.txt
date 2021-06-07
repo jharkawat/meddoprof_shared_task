@@ -1,0 +1,6 @@
+Sexo: Mujer
+Edad: 45 años
+Profesión: Cajera supermercado
+País: España
+
+Motivo de consulta: Paciente intervenida de cuadrantectomía en mama izda con linfadenectomía axilar izda. No alergias conocidas. No habitos tóxicos. No tratamiento farmacológico habitual. Antecedentes quirúrgicos: No. Historia ginecológica: 1 parto (fórceps). Antecedentes familiares de cáncer de mama (una tía paterna)

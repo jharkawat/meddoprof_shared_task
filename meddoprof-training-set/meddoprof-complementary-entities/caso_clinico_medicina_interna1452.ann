@@ -1,0 +1,57 @@
+T1	SINTOMA 1380 1407	pérdida de visión binocular
+T2	SINTOMA 4030 4041	albuminuria
+T3	PROCEDIMIENTO 815 833	Exploración física
+T4	PROCEDIMIENTO 1130 1133	ECG
+T5	PROCEDIMIENTO 1946 1949	ECG
+T6	PROCEDIMIENTO 2607 2621	ecocardiograma
+T7	PROCEDIMIENTO 3235 3261	tratada con inmovilización
+T8	PROCEDIMIENTO 3565 3583	exploración física
+T9	PROCEDIMIENTO 4057 4060	ECG
+T10	NEG 1175 1178	sin
+T11	NSCO 1179 1191	alteraciones
+T12	NEG 1230 1233	sin
+T13	NSCO 1234 1259	alteraciones morfológicas
+T14	NEG 1268 1276	negativa
+T15	NSCO 1277 1283	en III
+T16	NEG 1285 1288	sin
+T17	NSCO 1289 1328	otras alteraciones en la repolarización
+T18	NEG 2527 2538	ausencia de
+T19	NSCO 2539 2560	retinopatía diabética
+T20	NEG 2622 2625	sin
+T21	NSCO 2626 2647	hallazgos patológicos
+T22	NEG 3584 3587	sin
+T23	NSCO 3588 3595	cambios
+T24	NEG 4061 4064	sin
+T25	NSCO 4065 4088	cambios respecto a 2018
+T26	FARMACO 288 297	enalapril
+T27	FARMACO 305 313	atenolol
+T28	FARMACO 322 331	valsartan
+T29	FARMACO 608 620	simvastatina
+T30	FARMACO 2239 2248	valsartan
+T31	FARMACO 2256 2266	amlodipino
+T32	FARMACO 2283 2293	metformina
+T33	FARMACO 2302 2315	empaglifozina
+T34	FARMACO 2335 2348	atorvastatina
+T35	FARMACO 2433 2443	bisoprolol
+T36	FARMACO 4204 4221	hidroclorotiazida
+T37	ORG_VIVO 0 5	Varón
+T38	ORG_VIVO 19 27	paciente
+T39	ORG_VIVO 50 57	familia
+T40	ORG_VIVO 77 84	Soltero
+T41	ORG_VIVO 86 115	trabajador de la construcción
+T42	ORG_VIVO 159 169	personales
+T43	ORG_VIVO 2117 2125	paciente
+T44	ORG_VIVO 2921 2929	paciente
+T45	ORG_VIVO 4282 4290	paciente
+T46	ORG_VIVO 4435 4443	paciente
+T47	ENFERMEDAD 184 205	Hipertensión arterial
+T48	ENFERMEDAD 397 405	Obesidad
+T49	ENFERMEDAD 447 471	Diabetes mellitus tipo 2
+T50	ENFERMEDAD 552 562	Dislipemia
+T51	ENFERMEDAD 2506 2514	catarata
+T52	ENFERMEDAD 2539 2560	retinopatía diabética
+T53	ENFERMEDAD 2776 2789	hipoglucémica
+T54	ENFERMEDAD 3047 3056	cataratas
+T55	ENFERMEDAD 3203 3221	fractura de húmero
+T56	PACIENTE-SITUACION_LABORAL 131 139	jubilado
+T57	PACIENTE-PROFESION 86 115	trabajador de la construcción

@@ -1,0 +1,88 @@
+T1	SINTOMA 164 208	masa irregular y dolorosa a nivel mandibular
+T2	SINTOMA 459 543	masa irregular y dolorosa a nivel parotídeo derecho por detrás del ángulo mandibular
+T3	SINTOMA 636 643	trismus
+T4	SINTOMA 930 999	masa de gran tamaño (7 x 5 x 4 cm) situada en el espacio parafaríngeo
+T5	SINTOMA 2676 2684	acúfenos
+T6	SINTOMA 4342 4360	nódulos pulmonares
+T7	PROCEDIMIENTO 427 445	Exploración física
+T8	PROCEDIMIENTO 709 720	fibroscopio
+T9	PROCEDIMIENTO 780 807	auscultación cardiopulmonar
+T10	PROCEDIMIENTO 901 903	TC
+T11	PROCEDIMIENTO 906 925	RMN cráneo-cervical
+T12	PROCEDIMIENTO 1267 1317	punción con aguja fina (PAAF) de la masa parotídea
+T13	PROCEDIMIENTO 1621 1641	parotidectomía total
+T14	PROCEDIMIENTO 1653 1682	vaciamiento funcional derecho
+T15	PROCEDIMIENTO 1763 1788	estudio anatomopatológico
+T16	PROCEDIMIENTO 1863 1881	ecografía cervical
+T17	PROCEDIMIENTO 1884 1903	tiroidectomía total
+T18	PROCEDIMIENTO 1977 2019	radioterapia en zonas parotídea y cervical
+T19	PROCEDIMIENTO 2222 2249	mandibulectomía segmentaria
+T20	PROCEDIMIENTO 2252 2293	vaciamiento de fosa infratemporal derecha
+T21	PROCEDIMIENTO 2563 2576	quimioterapia
+T22	PROCEDIMIENTO 2763 2765	TC
+T23	PROCEDIMIENTO 3493 3509	estudio de c-kit
+T24	PROCEDIMIENTO 3937 3939	TC
+T25	PROCEDIMIENTO 4754 4756	TC
+T26	NEG 233 235	No
+T27	NSCO 236 284	presenta otros factores de riesgo cardiovascular
+T28	NEG 309 311	no
+T29	NSCO 312 331	toma ningún fármaco
+T30	NEG 645 647	No
+T31	NSCO 648 704	se palpan adenopatías en cadena cervical ni claviculares
+T32	NEG 721 723	no
+T33	NSCO 724 775	muestra otras alteraciones en laringe o hipofaringe
+T34	NEG 820 822	no
+T35	NSCO 823 853	presenta focalidad neurológica
+T36	UNC 1325 1339	compatible con
+T37	USCO 1340 1392	carcinoma adenoide quístico de patrón cilindromatoso
+T38	NEG 2650 2660	suspendido
+T39	NSCO 2661 2697	el primero por acúfenos y neuropatía
+T40	NEG 3213 3222	se retira
+T41	NSCO 3223 3249	por toxicidad hematológica
+T42	NEG 3534 3536	no
+T43	NSCO 3537 3571	se inicia tratamiento con imatinib
+T44	NEG 4051 4054	sin
+T45	NSCO 4055 4066	tratamiento
+T46	NEG 4391 4393	no
+T47	NSCO 4394 4431	cumple criterios RECIST de progresión
+T48	NEG 4511 4522	se suspende
+T49	NSCO 4523 4563	por reacción cutánea en la tercera dosis
+T50	FARMACO 2581 2591	cisplatino
+T51	FARMACO 2594 2605	vinorelbina
+T52	FARMACO 2747 2758	vinorelbina
+T53	FARMACO 3140 3150	cisplatino
+T54	FARMACO 3153 3164	gemcitabina
+T55	FARMACO 3205 3212	platino
+T56	FARMACO 3278 3289	nucleósidos
+T57	FARMACO 3354 3364	paclitaxel
+T58	FARMACO 3563 3571	imatinib
+T59	FARMACO 3724 3736	epirrubicina
+T60	FARMACO 3827 3839	mitoxantrone
+T61	FARMACO 4189 4201	epirrubicina
+T62	FARMACO 4480 4490	cisplatino
+T63	FARMACO 4652 4662	paclitaxel
+T64	FARMACO 4689 4698	cetuximab
+T65	ORG_VIVO 25 30	varón
+T66	ORG_VIVO 371 376	mujer
+T67	ORG_VIVO 382 386	hijo
+T68	ORG_VIVO 415 424	fontanero
+T69	ENFERMEDAD 83 105	otitis externa en oído
+T70	ENFERMEDAD 658 688	adenopatías en cadena cervical
+T71	ENFERMEDAD 1022 1047	compresión de la carótida
+T72	ENFERMEDAD 1094 1142	destrucción parcial de forámenes oval y espinoso
+T73	ENFERMEDAD 1162 1189	adenopatías submandibulares
+T74	ENFERMEDAD 1340 1367	carcinoma adenoide quístico
+T75	ENFERMEDAD 1428 1465	Carcinoma adenoide quístico parotídeo
+T76	ENFERMEDAD 1517 1544	adenopatías locorregionales
+T77	ENFERMEDAD 1835 1852	anomalía tiroidea
+T78	ENFERMEDAD 1916 1953	carcinoma papilar tiroideo sincrónico
+T79	ENFERMEDAD 2162 2193	adenopatías biopsiadas malignas
+T80	ENFERMEDAD 2408 2473	metástasis pulmonares múltiples, atribuidas al primario parotídeo
+T81	ENFERMEDAD 2493 2515	enfermedad metastásica
+T82	ENFERMEDAD 2687 2697	neuropatía
+T83	ENFERMEDAD 2822 2960	lesiones pulmonares con vestigio tumoral estable que a través de fosa craneal media se extiende a la fosa temporal e infiltra la duramadre
+T84	ENFERMEDAD 2966 3005	adenopatías bilaterales submandibulares
+T85	ENFERMEDAD 3227 3249	toxicidad hematológica
+T86	ENFERMEDAD 3962 3991	adenopatías supraclaviculares
+T87	ENFERMEDAD 4839 4867	toxicidad únicamente cutánea
+T88	PACIENTE-PROFESION 415 424	fontanero

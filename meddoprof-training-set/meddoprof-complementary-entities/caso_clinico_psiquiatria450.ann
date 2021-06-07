@@ -1,0 +1,91 @@
+T1	SINTOMA 457 481	sintomatología depresiva
+T2	SINTOMA 1703 1713	Consciente
+T3	SINTOMA 1716 1725	orientada
+T4	SINTOMA 1787 1812	síntomas extrapiramidales
+T5	SINTOMA 2131 2164	Alucinaciones auditivas complejas
+T6	SINTOMA 2296 2317	aplanamiento afectivo
+T7	SINTOMA 2415 2434	ideación autolítica
+T8	SINTOMA 2939 2947	delirios
+T9	SINTOMA 2950 2963	alucinaciones
+T10	SINTOMA 2976 2994	síntomas negativos
+T11	SINTOMA 4368 4377	disartria
+T12	SINTOMA 4380 4396	hipersomnolencia
+T13	PROCEDIMIENTO 4015 4029	antipsicóticos
+T14	PROCEDIMIENTO 4159 4174	benzodiacepinas
+T15	NEG 18 21	sin
+T16	NSCO 22 107	alergias medicamentosas conocidas ni otros antecedentes médico-quirúrgicos de interés
+T17	NEG 1199 1204	nunca
+T18	NSCO 1205 1234	quería ir sola a ningún sitio
+T19	UNC 1262 1269	pudiera
+T20	USCO 1270 1290	cometer algún delito
+T21	UNC 1816 1823	posible
+T22	USCO 1824 1844	origen farmacológico
+T23	NEG 2363 2365	No
+T24	NSCO 2366 2391	alteraciones conductuales
+T25	NEG 2393 2395	No
+T26	NSCO 2396 2434	ideas de muerte ni ideación autolítica
+T27	NEG 2436 2438	No
+T28	NSCO 2439 2464	auto ni heteroagresividad
+T29	NEG 2603 2606	sin
+T30	NSCO 2607 2634	alteraciones significativas
+T31	NEG 2985 2994	negativos
+T32	UNC 3008 3022	compatible con
+T33	USCO 3023 3036	esquizofrenia
+T34	NEG 3216 3223	tampoco
+T35	NSCO 3224 3250	ocurre en el caso expuesto
+T36	NEG 3496 3498	no
+T37	NSCO 3499 3516	está muy alterada
+T38	NEG 4078 4088	desaparece
+T39	NSCO 4089 4122	por completo la clínica psicótica
+T40	UNC 4133 4140	posible
+T41	USCO 4141 4205	retirar todas las benzodiacepinas así como disminuir risperidona
+T42	NEG 4733 4735	No
+T43	NSCO 4736 4758	hay ideación delirante
+T44	FARMACO 789 800	risperidona
+T45	FARMACO 813 824	clorazepato
+T46	FARMACO 837 847	biperideno
+T47	FARMACO 3618 3629	risperidona
+T48	FARMACO 3728 3739	aripiprazol
+T49	FARMACO 3886 3897	aripiprazol
+T50	FARMACO 3912 3923	risperidona
+T51	FARMACO 3975 3984	clozapina
+T52	FARMACO 4194 4205	risperidona
+T53	FARMACO 4227 4236	clozapina
+T54	FARMACO 4246 4257	risperidona
+T55	ORG_VIVO 0 5	Mujer
+T56	ORG_VIVO 218 228	personales
+T57	ORG_VIVO 251 256	hijos
+T58	ORG_VIVO 273 295	auxiliar de enfermería
+T59	ORG_VIVO 429 437	paciente
+T60	ORG_VIVO 552 560	paciente
+T61	ORG_VIVO 587 597	familiares
+T62	ORG_VIVO 862 870	paciente
+T63	ORG_VIVO 1144 1151	familia
+T64	ORG_VIVO 1319 1329	familiares
+T65	ORG_VIVO 1381 1389	paciente
+T66	ORG_VIVO 1467 1472	hijos
+T67	ORG_VIVO 2211 2219	personas
+T68	ORG_VIVO 2698 2706	paciente
+T69	ORG_VIVO 2919 2927	paciente
+T70	ORG_VIVO 3562 3570	paciente
+T71	ORG_VIVO 3799 3807	paciente
+T72	ORG_VIVO 4563 4571	paciente
+T73	ORG_VIVO 4648 4653	nieto
+T74	ORG_VIVO 4694 4702	familiar
+T75	ORG_VIVO 4867 4875	paciente
+T76	ENFERMEDAD 22 45	alergias medicamentosas
+T77	ENFERMEDAD 457 481	sintomatología depresiva
+T78	ENFERMEDAD 710 752	trastorno por ideas delirantes persistente
+T79	ENFERMEDAD 1967 1993	Ideación delirante crónica
+T80	ENFERMEDAD 2405 2411	muerte
+T81	ENFERMEDAD 2741 2764	esquizofrenia paranoide
+T82	ENFERMEDAD 2830 2849	trastorno delirante
+T83	ENFERMEDAD 2888 2901	esquizofrenia
+T84	ENFERMEDAD 3023 3036	esquizofrenia
+T85	ENFERMEDAD 3110 3123	esquizofrenia
+T86	ENFERMEDAD 3137 3156	trastorno delirante
+T87	ENFERMEDAD 3421 3444	esquizofrenia paranoide
+T88	ENFERMEDAD 3459 3478	trastorno delirante
+T89	ENFERMEDAD 3818 3845	descompensación sintomática
+T90	PACIENTE-PROFESION 273 295	auxiliar de enfermería
+T91	PACIENTE-SITUACION_LABORAL 318 336	invalidez absoluta

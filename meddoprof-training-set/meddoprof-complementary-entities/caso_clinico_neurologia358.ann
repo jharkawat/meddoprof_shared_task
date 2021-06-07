@@ -1,0 +1,92 @@
+T1	SINTOMA 283 311	parestesias en el hemicuerpo
+T2	SINTOMA 328 345	alteración visual
+T3	SINTOMA 893 930	hemihipoestesia facial y hemicorporal
+T4	SINTOMA 1055 1062	afebril
+T5	SINTOMA 1217 1323	hipoestesia algésica hemifacial derecha en la segunda y la terecera ramas del trigémino y en el hemicuerpo
+T6	SINTOMA 1335 1394	dismetría en la prueba dedo-nariz en la extremidad superior
+T7	PROCEDIMIENTO 403 440	tomografía computarizada (TC) craneal
+T8	PROCEDIMIENTO 447 481	resonancia magnética (RM) cerebral
+T9	PROCEDIMIENTO 602 619	angio-RM cerebral
+T10	PROCEDIMIENTO 942 960	Exploración física
+T11	PROCEDIMIENTO 1067 1086	exploración general
+T12	PROCEDIMIENTO 1119 1142	exploración neurológica
+T13	PROCEDIMIENTO 1351 1402	prueba dedo-nariz en la extremidad superior derecha
+T14	PROCEDIMIENTO 1470 1479	Hemograma
+T15	PROCEDIMIENTO 1790 1812	Estudio de coagulación
+T16	PROCEDIMIENTO 2410 2427	antirretrovirales
+T17	PROCEDIMIENTO 2431 2449	Electrocardiograma
+T18	PROCEDIMIENTO 2531 2551	Radiografía de tórax
+T19	PROCEDIMIENTO 2554 2582	ecocardiograma transtorácico
+T20	PROCEDIMIENTO 2598 2608	TC craneal
+T21	PROCEDIMIENTO 2818 2829	RM cerebral
+T22	PROCEDIMIENTO 3001 3030	Resonancia magnética cerebral
+T23	PROCEDIMIENTO 3130 3151	angio-RM intracraneal
+T24	PROCEDIMIENTO 3259 3267	Angio-RM
+T25	PROCEDIMIENTO 3357 3371	Punción lumbar
+T26	PROCEDIMIENTO 3886 3909	terapia antirretroviral
+T27	NEG 163 166	sin
+T28	NSCO 167 185	tratamiento actual
+T29	NEG 625 627	no
+T30	NSCO 628 644	mostró hallazgos
+T31	NEG 1055 1062	afebril
+T32	NEG 2088 2096	negativo
+T33	NSCO 2097 2101	ANCA
+T34	NEG 2189 2198	negativos
+T35	NEG 2315 2324	negativos
+T36	NEG 2382 2384	no
+T37	NSCO 2385 2427	resistencia genotípica a antirretrovirales
+T38	UNC 2751 2766	compatibles con
+T39	USCO 2767 2805	lesiones isquémicas subagudas-crónicas
+T40	UNC 2967 2974	sugiere
+T41	USCO 2975 2999	isquemia aguda- subaguda
+T42	NEG 3167 3178	ausencia de
+T43	NSCO 3179 3228	visualización de la ACP izquierda desde su origen
+T44	NEG 3269 3280	ausencia de
+T45	NSCO 3281 3304	visualización de la ACP
+T46	NEG 3478 3486	negativo
+T47	NSCO 3487 3517	para bacterias y micobacterias
+T48	NEG 3595 3604	negativas
+T49	NEG 3611 3619	negativo
+T50	UNC 3698 3706	probable
+T51	USCO 3707 3747	relación con vasculopatía asociada a VIH
+T52	NEG 4030 4032	no
+T53	NSCO 4033 4068	ha vuelto a sufrir nuevos episodios
+T54	FARMACO 797 805	estatina
+T55	FARMACO 3914 3923	darunavir
+T56	FARMACO 3925 3934	ritonavir
+T57	FARMACO 3937 3946	tenofovir
+T58	FARMACO 3951 3964	emtricitabina
+T59	FARMACO 3986 4008	ácido acetilsalicílico
+T60	ORG_VIVO 10 15	Varón
+T61	ORG_VIVO 36 44	bailarín
+T62	ORG_VIVO 81 91	personales
+T63	ORG_VIVO 147 150	VIH
+T64	ORG_VIVO 664 669	viral
+T65	ORG_VIVO 2215 2218	VEB
+T66	ORG_VIVO 2259 2268	Treponema
+T67	ORG_VIVO 2270 2280	toxoplasma
+T68	ORG_VIVO 2282 2297	citomegalovirus
+T69	ORG_VIVO 2332 2337	viral
+T70	ORG_VIVO 2338 2343	VIH-1
+T71	ORG_VIVO 2410 2427	antirretrovirales
+T72	ORG_VIVO 3492 3501	bacterias
+T73	ORG_VIVO 3504 3517	micobacterias
+T74	ORG_VIVO 3558 3569	enterovirus
+T75	ORG_VIVO 3575 3594	herpes simple 1 y 2
+T76	ORG_VIVO 3606 3610	VDRL
+T77	ORG_VIVO 3744 3747	VIH
+T78	ORG_VIVO 3894 3909	antirretroviral
+T79	ENFERMEDAD 95 145	infección por virus de la inmunodeficiencia humana
+T80	ENFERMEDAD 147 150	VIH
+T81	ENFERMEDAD 501 550	lesión isquémica aguda en el territorio posterior
+T82	ENFERMEDAD 1172 1196	cuadrantanopsia superior
+T83	ENFERMEDAD 2299 2314	hepatitis B y C
+T84	ENFERMEDAD 2326 2343	Carga viral VIH-1
+T85	ENFERMEDAD 2618 2684	lesiones hipodensas irregulares en la región parasagital occipital
+T86	ENFERMEDAD 2767 2805	lesiones isquémicas subagudas-crónicas
+T87	ENFERMEDAD 2975 2999	isquemia aguda- subaguda
+T88	ENFERMEDAD 3066 3101	lesión isquémica aguda en el tálamo
+T89	ENFERMEDAD 3663 3694	Isquemia cerebral de repetición
+T90	ENFERMEDAD 3720 3747	vasculopatía asociada a VIH
+T91	ENFERMEDAD 4088 4115	ataxia del miembro superior
+T92	PACIENTE-PROFESION 36 44	bailarín

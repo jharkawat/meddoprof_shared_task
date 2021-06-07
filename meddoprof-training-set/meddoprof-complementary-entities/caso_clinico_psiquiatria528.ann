@@ -1,0 +1,107 @@
+T1	SINTOMA 904 928	alteraciones de conducta
+T2	SINTOMA 3287 3314	deterioro del aseo personal
+T3	PROCEDIMIENTO 486 498	radiografías
+T4	PROCEDIMIENTO 500 503	TAC
+T5	PROCEDIMIENTO 505 515	ecografías
+T6	PROCEDIMIENTO 1042 1067	tratamiento antipsicótico
+T7	PROCEDIMIENTO 4325 4349	estudio neuropsicológico
+T8	PROCEDIMIENTO 4658 4684	Rehabilitación Psicosocial
+T9	PROCEDIMIENTO 4958 4988	tratamiento psicofarmacológico
+T10	NEG 399 401	no
+T11	NSCO 402 410	toleraba
+T12	NEG 415 417	no
+T13	NSCO 418 527	le pidiesen pruebas complementarias que él demandaba continuamente (radiografías, TAC, ecografías, analíticas
+T14	NEG 561 563	no
+T15	NSCO 564 578	le hacían caso
+T16	NEG 658 660	no
+T17	NSCO 661 668	refiere
+T18	NEG 959 961	no
+T19	NSCO 962 993	ha requerido ningún ingreso más
+T20	NEG 1175 1177	no
+T21	NSCO 1178 1209	seguía revisiones psiquiátricas
+T22	NEG 1420 1422	no
+T23	NSCO 1423 1439	la dejaba hablar
+T24	NEG 1500 1502	no
+T25	NSCO 1503 1509	tienes
+T26	NEG 1783 1785	no
+T27	NSCO 1786 1840	toleraba ninguna explicación médica o actuación médica
+T28	NEG 1845 1847	no
+T29	NSCO 1848 1903	fuese o se desviase de lo que él demandaba o solicitaba
+T30	NEG 2629 2631	no
+T31	NSCO 2632 2649	les hacíamos caso
+T32	NEG 3074 3081	impedía
+T33	NSCO 3082 3141	poner la calefacción o comprar cosas o alimentos necesarios
+T34	NEG 3360 3365	nunca
+T35	NSCO 3366 3404	habían querido consultar a Psiquiatría
+T36	NEG 3413 3415	no
+T37	NSCO 3416 3429	estaban locos
+T38	NEG 3566 3573	Tampoco
+T39	NSCO 3574 3612	dejaban que otros primos intervinieran
+T40	NEG 4285 4298	descartándose
+T41	NSCO 4299 4349	mediante estudio médico y estudio neuropsicológico
+T42	NEG 4943 4945	no
+T43	NSCO 4946 4988	se le pautó tratamiento psicofarmacológico
+T44	FARMACO 1119 1130	risperidona
+T45	FARMACO 3953 3962	clozapina
+T46	FARMACO 4760 4769	clozapina
+T47	FARMACO 4897 4908	risperidona
+T48	ORG_VIVO 26 36	personales
+T49	ORG_VIVO 38 43	mujer
+T50	ORG_VIVO 66 70	hija
+T51	ORG_VIVO 108 120	progenitores
+T52	ORG_VIVO 157 167	familiares
+T53	ORG_VIVO 169 174	padre
+T54	ORG_VIVO 553 560	médicos
+T55	ORG_VIVO 628 633	mujer
+T56	ORG_VIVO 1222 1249	médico de Atención Primaria
+T57	ORG_VIVO 1261 1269	paciente
+T58	ORG_VIVO 1282 1293	acompañante
+T59	ORG_VIVO 1300 1305	padre
+T60	ORG_VIVO 1357 1362	padre
+T61	ORG_VIVO 1414 1418	hija
+T62	ORG_VIVO 1610 1615	padre
+T63	ORG_VIVO 2090 2095	madre
+T64	ORG_VIVO 2150 2154	hija
+T65	ORG_VIVO 2203 2209	criada
+T66	ORG_VIVO 2259 2264	madre
+T67	ORG_VIVO 2307 2312	padre
+T68	ORG_VIVO 2398 2420	miembros de la familia
+T69	ORG_VIVO 2494 2498	hija
+T70	ORG_VIVO 2516 2521	madre
+T71	ORG_VIVO 2580 2587	médicos
+T72	ORG_VIVO 2680 2687	familia
+T73	ORG_VIVO 2739 2744	padre
+T74	ORG_VIVO 2789 2794	madre
+T75	ORG_VIVO 2800 2804	hija
+T76	ORG_VIVO 2846 2853	esclava
+T77	ORG_VIVO 3063 3068	padre
+T78	ORG_VIVO 3239 3245	padres
+T79	ORG_VIVO 3306 3314	personal
+T80	ORG_VIVO 3499 3506	médicos
+T81	ORG_VIVO 3592 3598	primos
+T82	ORG_VIVO 3665 3670	padre
+T83	ORG_VIVO 3797 3801	hija
+T84	ORG_VIVO 3858 3862	hija
+T85	ORG_VIVO 3868 3873	padre
+T86	ORG_VIVO 3891 3895	hija
+T87	ORG_VIVO 4046 4051	padre
+T88	ORG_VIVO 4156 4161	mujer
+T89	ORG_VIVO 4251 4256	padre
+T90	ORG_VIVO 4367 4371	hija
+T91	ORG_VIVO 4797 4803	padres
+T92	ORG_VIVO 4879 4884	padre
+T93	ORG_VIVO 4937 4942	madre
+T94	ENFERMEDAD 179 211	trastorno por somatización grave
+T95	ENFERMEDAD 716 739	esquizofrenia paranoide
+T96	ENFERMEDAD 813 831	ideación delirante
+T97	ENFERMEDAD 2104 2145	artrosis degenerativa postrada en la cama
+T98	ENFERMEDAD 2159 2182	esquizofrenia paranoide
+T99	ENFERMEDAD 3917 3940	esquizofrenia paranoide
+T100	ENFERMEDAD 4073 4114	trastorno delirante de contenido somático
+T101	ENFERMEDAD 4116 4129	folie à trois
+T102	ENFERMEDAD 4264 4283	deterioro cognitivo
+T103	SANITARIO-PROFESION 1222 1249	médico de Atención Primaria
+T104	SANITARIO-PROFESION 553 560	médicos
+T105	SANITARIO-PROFESION 2580 2587	médicos
+T106	SANITARIO-PROFESION 3499 3506	médicos
+T107	OTROS-PROFESION 2203 2209	criada

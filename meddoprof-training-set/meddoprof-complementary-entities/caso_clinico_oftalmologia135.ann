@@ -1,0 +1,40 @@
+T1	PROCEDIMIENTO 187 198	gonioscopía
+T2	PROCEDIMIENTO 277 313	iridotomías bilaterales con láser Nd
+T3	PROCEDIMIENTO 405 416	iridotomías
+T4	PROCEDIMIENTO 477 503	biomicroscopía ultrasónica
+T5	PROCEDIMIENTO 505 508	BMU
+T6	PROCEDIMIENTO 827 855	iridoplastia con láser argón
+T7	PROCEDIMIENTO 1027 1049	medicación hipotensora
+T8	PROCEDIMIENTO 1105 1122	tratamiento láser
+T9	PROCEDIMIENTO 1133 1145	iridoplastia
+T10	PROCEDIMIENTO 1160 1163	BMU
+T11	PROCEDIMIENTO 1438 1441	BMU
+T12	PROCEDIMIENTO 2145 2148	BMU
+T13	UNC 728 738	sugiriendo
+T14	USCO 739 791	el diagnóstico de quistes primarios neuroepiteliales
+T15	NEG 1255 1270	desaparición de
+T16	NSCO 1271 1282	los quistes
+T17	NEG 1311 1314	sin
+T18	NSCO 1315 1339	necesidad de tratamiento
+T19	NEG 1385 1388	sin
+T20	NSCO 1389 1399	medicación
+T21	NEG 1518 1521	sin
+T22	NSCO 1522 1569	llegar a producir un bloqueo angular secundario
+T23	NEG 1910 1912	no
+T24	NSCO 1913 1925	fuera médico
+T25	NEG 2220 2223	sin
+T26	NSCO 2224 2313	mostrar incremento en tamaño ni número ni presentar el paciente clínica de cierre angular
+T27	FARMACO 1051 1058	timolol
+T28	FARMACO 1423 1430	Timolol
+T29	FARMACO 2111 2118	Timolol
+T30	ORG_VIVO 0 5	Varón
+T31	ORG_VIVO 978 986	paciente
+T32	ORG_VIVO 1862 1870	paciente
+T33	ORG_VIVO 2057 2065	paciente
+T34	ORG_VIVO 2279 2287	paciente
+T35	ENFERMEDAD 608 629	quistes iridociliares
+T36	ENFERMEDAD 757 791	quistes primarios neuroepiteliales
+T37	ENFERMEDAD 1275 1282	quistes
+T38	ENFERMEDAD 1481 1498	quistes en el ojo
+T39	ENFERMEDAD 1543 1569	bloqueo angular secundario
+T40	ENFERMEDAD 2180 2218	quistes neuroepiteliales en ambos ojos

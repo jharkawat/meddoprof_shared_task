@@ -1,0 +1,18 @@
+T1	SINTOMA 65 72	cefalea
+T2	SINTOMA 74 80	fiebre
+T3	SINTOMA 87 108	petequias en párpados
+T4	SINTOMA 111 126	dolor abdominal
+T5	PROCEDIMIENTO 880 898	mascarilla o gafas
+T6	PROCEDIMIENTO 964 983	extracción de gases
+T7	NEG 838 840	No
+T8	NSCO 841 870	disponía de guantes adecuados
+T9	NEG 872 879	tampoco
+T10	NSCO 880 898	mascarilla o gafas
+T11	NEG 939 941	no
+T12	NSCO 942 983	funcionó el equipo de extracción de gases
+T13	FARMACO 773 789	acetato de etilo
+T14	ORG_VIVO 0 5	Varón
+T15	ORG_VIVO 425 428	VHB
+T16	ORG_VIVO 434 437	VHC
+T17	ENFERMEDAD 465 479	Hepatonecrosis
+T18	PACIENTE-PROFESION 553 588	trabaja en una empresa de limpiezas

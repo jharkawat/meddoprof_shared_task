@@ -1,0 +1,27 @@
+T1	SINTOMA 87 101	cefalea brusca
+T2	SINTOMA 104 111	vómitos
+T3	SINTOMA 122 129	diarrea
+T4	SINTOMA 133 139	fiebre
+T5	PROCEDIMIENTO 281 333	tomografía computarizada (TC) cerebral con contraste
+T6	PROCEDIMIENTO 569 583	punción lumbar
+T7	NEG 61 73	asintomático
+T8	NEG 113 115	No
+T9	NSCO 116 139	tiene diarrea ni fiebre
+T10	UNC 201 212	Se sospecha
+T11	USCO 213 238	trombosis venosa cerebral
+T12	NEG 340 351	se descarta
+T13	NSCO 352 368	trombosis venosa
+T14	NEG 376 387	se descarta
+T15	NSCO 388 404	trombosis venosa
+T16	UNC 520 533	sugestivos de
+T17	USCO 534 551	encefalitis viral
+T18	FARMACO 160 170	augmentine
+T19	ORG_VIVO 16 26	Preescolar
+T20	ORG_VIVO 598 608	adenovirus
+T21	ENFERMEDAD 187 199	otitis media
+T22	ENFERMEDAD 213 238	trombosis venosa cerebral
+T23	ENFERMEDAD 352 368	trombosis venosa
+T24	ENFERMEDAD 388 467	trombosis venosa y se observa hipodensidad córtico-subcortical temporo-parietal
+T25	ENFERMEDAD 534 551	encefalitis viral
+T26	ENFERMEDAD 624 650	Encefalitis por adenovirus
+T27	PACIENTE-SITUACION_LABORAL 16 26	Preescolar

@@ -1,0 +1,72 @@
+T1	SINTOMA 84 92	falleció
+T2	SINTOMA 417 432	dolor de cabeza
+T3	SINTOMA 568 575	cefalea
+T4	SINTOMA 826 843	dolor en el pecho
+T5	SINTOMA 845 856	taquicardia
+T6	SINTOMA 858 863	mareo
+T7	SINTOMA 865 907	parestesias en las extremidades superiores
+T8	SINTOMA 909 923	visión borrosa
+T9	SINTOMA 925 943	sensación de túnel
+T10	SINTOMA 946 961	desvanecimiento
+T11	SINTOMA 2038 2058	molestias digestivas
+T12	SINTOMA 2494 2502	falleció
+T13	SINTOMA 2818 2827	irritable
+T14	SINTOMA 3161 3174	fallecimiento
+T15	SINTOMA 3188 3196	falleció
+T16	PROCEDIMIENTO 2947 2970	tratamiento psicológico
+T17	NEG 1026 1037	se descartó
+T18	NSCO 1038 1049	organicidad
+T19	NEG 1355 1357	no
+T20	NSCO 1358 1408	han vuelto a ocurrir episodios de tanta intensidad
+T21	NEG 1531 1533	no
+T22	NSCO 1534 1555	vuelva a despertarme"
+T23	NEG 1578 1587	ha dejado
+T24	NSCO 1588 1627	progresivamente de realizar actividades
+T25	NEG 1632 1634	no
+T26	NSCO 1635 1654	le resultan seguras
+T27	NEG 1779 1781	no
+T28	NSCO 1782 1815	toma el tratamiento farmacológico
+T29	NEG 1818 1820	no
+T30	NSCO 1821 1835	me hacía nada"
+T31	NEG 1940 1942	no
+T32	NSCO 1943 1959	han desaparecido
+T33	NEG 2638 2640	no
+T34	NSCO 2641 2669	fue informada de la gravedad
+T35	UNC 2717 2727	sería como
+T36	USCO 2728 2737	una gripe
+T37	NEG 2860 2863	sin
+T38	NSCO 2864 2876	poder llorar
+T39	FARMACO 277 287	Alprazolam
+T40	ORG_VIVO 0 5	Mujer
+T41	ORG_VIVO 18 42	estudiante de magisterio
+T42	ORG_VIVO 44 48	hija
+T43	ORG_VIVO 68 73	madre
+T44	ORG_VIVO 78 83	padre
+T45	ORG_VIVO 323 331	paciente
+T46	ORG_VIVO 653 680	médico de Atención Primaria
+T47	ORG_VIVO 722 730	paciente
+T48	ORG_VIVO 1697 1702	madre
+T49	ORG_VIVO 1765 1770	madre
+T50	ORG_VIVO 2254 2272	médico de cabecera
+T51	ORG_VIVO 2304 2309	madre
+T52	ORG_VIVO 2473 2478	padre
+T53	ORG_VIVO 2485 2493	paciente
+T54	ORG_VIVO 2594 2602	paciente
+T55	ORG_VIVO 2685 2690	padre
+T56	ORG_VIVO 2775 2780	padre
+T57	ORG_VIVO 2930 2935	madre
+T58	ORG_VIVO 3131 3136	padre
+T59	ORG_VIVO 3181 3186	padre
+T60	ORG_VIVO 3220 3234	abuelo paterno
+T61	ENFERMEDAD 100 118	cáncer de estómago
+T62	ENFERMEDAD 500 518	tumor en la cabeza
+T63	ENFERMEDAD 1070 1088	crisis de angustia
+T64	ENFERMEDAD 1090 1106	ataque de pánico
+T65	ENFERMEDAD 1173 1181	ansiedad
+T66	ENFERMEDAD 1985 2001	enfermedad grave
+T67	ENFERMEDAD 2153 2159	cáncer
+T68	ENFERMEDAD 2732 2737	gripe
+T69	ENFERMEDAD 3209 3215	cáncer
+T70	PACIENTE-SITUACION_LABORAL 18 28	estudiante
+T71	SANITARIO-PROFESION 653 680	médico de Atención Primaria
+T72	SANITARIO-PROFESION 2254 2272	médico de cabecera

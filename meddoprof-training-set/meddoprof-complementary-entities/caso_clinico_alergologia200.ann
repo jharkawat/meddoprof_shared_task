@@ -1,0 +1,41 @@
+T1	SINTOMA 267 278	hipertermia
+T2	SINTOMA 288 316	erupción cutánea pruriginosa
+T3	SINTOMA 319 331	edema facial
+T4	SINTOMA 481 567	exantema maculopapular simétrico que inicialmente afectaba a tronco y raíz de miembros
+T5	SINTOMA 577 609	descamación especialmente facial
+T6	SINTOMA 660 673	hepatomegalia
+T7	SINTOMA 756 768	leucocitosis
+T8	SINTOMA 770 781	eosinofilia
+T9	PROCEDIMIENTO 391 423	tratamiento con antihistamínicos
+T10	PROCEDIMIENTO 426 449	esteroides parenterales
+T11	PROCEDIMIENTO 1025 1045	Radiografía de tórax
+T12	PROCEDIMIENTO 1105 1141	estudio del complemento y hemostasia
+T13	UNC 341 352	sospecha de
+T14	USCO 353 356	SHA
+T15	NEG 357 368	suspendemos
+T16	NSCO 369 378	fenitoína
+T17	NEG 611 614	sin
+T18	NSCO 615 631	lesiones mucosas
+T19	NEG 657 659	no
+T20	NSCO 660 673	hepatomegalia
+T21	NEG 1143 1146	sin
+T22	NSCO 1147 1159	alteraciones
+T23	FARMACO 129 144	ácido valproico
+T24	FARMACO 147 160	levetiracetam
+T25	FARMACO 186 195	fenitoína
+T26	FARMACO 369 378	fenitoína
+T27	FARMACO 1172 1181	fenitoína
+T28	ORG_VIVO 0 5	Mujer
+T29	ORG_VIVO 98 106	infancia
+T30	ORG_VIVO 929 938	influenza
+T31	ORG_VIVO 955 961	herpes
+T32	ORG_VIVO 963 974	Influenza B
+T33	ORG_VIVO 1012 1023	bacteriuria
+T34	ENFERMEDAD 34 60	Síndrome de Lennox-Gastaut
+T35	ENFERMEDAD 62 86	encefalopatía epiléptica
+T36	ENFERMEDAD 288 316	erupción cutánea pruriginosa
+T37	ENFERMEDAD 353 356	SHA
+T38	ENFERMEDAD 633 655	Adenopatías cervicales
+T39	ENFERMEDAD 660 673	hepatomegalia
+T40	ENFERMEDAD 700 728	lesiones cutáneas residuales
+T41	ENFERMEDAD 955 987	herpes: Influenza B IgM positivo

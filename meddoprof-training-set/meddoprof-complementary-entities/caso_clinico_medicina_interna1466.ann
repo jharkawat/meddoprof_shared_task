@@ -1,0 +1,68 @@
+T1	SINTOMA 838 846	falleció
+T2	SINTOMA 972 993	molestias abdominales
+T3	SINTOMA 1277 1289	hipoglucemia
+T4	SINTOMA 1293 1313	molestias digestivas
+T5	SINTOMA 1331 1339	nauseosa
+T6	SINTOMA 1378 1398	perdido 4 kg de peso
+T7	SINTOMA 3454 3469	dolor abdominal
+T8	SINTOMA 3840 3855	dolor abdominal
+T9	SINTOMA 4026 4073	trasferrina deficiente en carbohidratos elevada
+T10	PROCEDIMIENTO 123 139	estudio genético
+T11	PROCEDIMIENTO 177 210	técnicas de reproducción asistida
+T12	PROCEDIMIENTO 701 717	biopsia hepática
+T13	PROCEDIMIENTO 1571 1589	exploración física
+T14	PROCEDIMIENTO 1686 1705	ecografía abdominal
+T15	PROCEDIMIENTO 1799 1817	densitometría ósea
+T16	PROCEDIMIENTO 2109 2146	administración parenteral de fructosa
+T17	PROCEDIMIENTO 3905 3924	ecografía abdominal
+T18	NEG 636 648	asintomática
+T19	NEG 722 724	no
+T20	NSCO 725 740	fue concluyente
+T21	NEG 742 744	No
+T22	NSCO 745 766	tiene hábitos tóxicos
+T23	NEG 994 1007	inespecíficas
+T24	NEG 1118 1121	sin
+T25	NSCO 1122 1145	ingerir frutas o dulces
+T26	NEG 1191 1197	retiró
+T27	NSCO 1198 1210	las verduras
+T28	NEG 1252 1254	no
+T29	NSCO 1255 1313	presentaba clínica de hipoglucemia ni molestias digestivas
+T30	NEG 1437 1442	Nunca
+T31	NSCO 1443 1445	ha
+T32	NEG 1590 1592	no
+T33	NSCO 1593 1637	se identificaron alteraciones significativas
+T34	NEG 2486 2489	sin
+T35	NSCO 2490 2505	sacarosa diario
+T36	NEG 2596 2598	no
+T37	NSCO 2599 2624	realizar actividad física
+T38	NEG 3929 3931	no
+T39	NSCO 3932 3987	mostró cambios significativos respecto a estudio previo
+T40	FARMACO 2508 2522	colecalciferol
+T41	FARMACO 3605 3616	calcifediol
+T42	ORG_VIVO 0 8	Paciente
+T43	ORG_VIVO 342 352	personales
+T44	ORG_VIVO 412 419	hermano
+T45	ORG_VIVO 517 525	infancia
+T46	ORG_VIVO 669 681	adolescencia
+T47	ORG_VIVO 791 801	familiares
+T48	ORG_VIVO 823 837	abuelo paterno
+T49	ORG_VIVO 886 894	paciente
+T50	ORG_VIVO 908 921	nutricionista
+T51	ORG_VIVO 928 936	infancia
+T52	ORG_VIVO 1492 1498	padres
+T53	ORG_VIVO 1523 1531	infancia
+T54	ORG_VIVO 2285 2294	pacientes
+T55	ORG_VIVO 3779 3783	café
+T56	ENFERMEDAD 110 113	IHF
+T57	ENFERMEDAD 377 391	fallo hepático
+T58	ENFERMEDAD 478 484	muerte
+T59	ENFERMEDAD 593 605	hígado graso
+T60	ENFERMEDAD 608 648	hipetransaminasemia crónica asintomática
+T61	ENFERMEDAD 866 881	hepatocarcinoma
+T62	ENFERMEDAD 957 969	hígado graso
+T63	ENFERMEDAD 1186 1189	IHF
+T64	ENFERMEDAD 1277 1289	hipoglucemia
+T65	ENFERMEDAD 1740 1766	esteatosis hepática difusa
+T66	ENFERMEDAD 3670 3700	hiperparatiroidismo secundario
+T67	OTROS-PROFESION 908 921	nutricionista
+T68	PACIENTE-PROFESION 1533 1563	Trabaja en diseño gráfico web

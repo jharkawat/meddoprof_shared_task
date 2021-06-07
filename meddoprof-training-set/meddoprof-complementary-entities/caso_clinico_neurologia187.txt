@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 27 años. Como antecedentes personales destacan alergia a papaverina, asma en la infancia, consumo habitual de un paquete de tabaco al día y esporádico de algunas drogas. Trabaja en una fábrica de zapatos, donde tiene contacto con diversos tipos de pintura y disolventes.
+
+La paciente consulta inicialmente por pérdida completa de visión en el hemicampo derecho de 30 minutos de duración acompañado de cefalea hemicraneal en la región occipito-parietal izquierda, pulsátil, de varios días de evolución, que cede parcialmente con analgésicos habituales, siendo diagnosticada de migraña con aura. Dos días más tarde vuelve a consultar por persistencia de la alteración del campo visual. Tras una anamnesis exhaustiva refería haber consumido cocaína previamente al inicio de la sintomatología. Después de la valoración inicial se solicita de manera urgente analítica completa, incluyendo tóxicos en orina, tomografía computarizada (TC) craneal y estudio ultrasonográfico transcraneal y de troncos supraaórticos. A la vista de los hallazgos encontrados la paciente ingresa en planta para un correcto manejo del cuadro.
+
+Examen físico
+Normotensa, afebril, bien hidratada y perfundida. La auscultación cardiopulmonar es rítmica, sin soplos, con murmullo vesicular conservado. El abdomen es blando, depresible, no doloroso a la palpación, sin masas ni megalias. No se aprecian edemas ni signos de insuficiencia venosa crónica en las extremidades, con pulsos distales conservados. En la exploración neurológica únicamente destaca una hemianopsia homónima derecha en la campimetría por confrontación. El resto de las funciones corticales y pares craneales es normal. No se objetiva déficit motor o sensitivo, ni alteración de la marcha ni del equilibrio. No signos meníngeos ni rigidez nucal.
+
+Pruebas complementarias
+• Hemograma, bioquímica general (incluyendo hormonas tiroideas, vitamina B12 y ácido fólico) y estudio de trombofilia e hipercoagulabilidad en el rango de la normalidad. Test de embarazo negativo.
+• Estudio de autoinmunidad negativo.
+• Tóxicos en orina: positivo a cocaína.
+• ECG basal: ritmo sinusal sin otras alteraciones.
+• Holter ECG (24 horas): no se detectaron arritmias embolígenas.
+• TC craneal: hipodensidad de 1,3 cm en la región posterior del lóbulo temporal izquierdo, junto con otras de menor tamaño en la sustancia blanca occipital y en la región parietooccipital posterior izquierda. Tras la administración de contraste las lesiones no muestran realce.
+• Resonancia magnética (RM) cerebral: se identifican múltiples zonas de alteración de señal que afectan al hipocampo izquierdo, región paramedial occipital y puntiforme en el tálamo ipsilateral, todas ellas compatibles con etiología isquémica aguda/subaguda en el territorio de la arteria cerebral posterior izquierda. Resonancia magnética cerebral con secuencia de difusión (cortes axiales). Se objetiva una lesión parcheada que restringe a la difusión en el territorio de la arteria cerebral posterior izquierda compatible con lesión isquémica aguda.
+• Ecocardiograma transtorácico: cavidades de morfología y dimensiones en el rango de la normalidad, con buena fracción de eyección y válvulas sin anomalías estructurales.
+• Doppler transcraneal: se aprecia una velocidad sensiblemente disminuida en la arteria cerebral posterior izquierda en comparación con su homóloga derecha, compatible con el antecedente de infarto en ese territorio en los días previos. El resto del polígono de Willis, así como el sistema vertebrobasilar, no presenta anomalías.
+• Dúplex de troncos supraaórticos (TSA): se estudian arterias carótidas y vertebrales (desde el ostium hasta su segmento atloaxoideo), sin que muestren anomalías morfológicas en la pared y la luz, con patrón hemodinámico normal.
+
+Diagnóstico
+Ictus en el territorio de la arteria cerebral posterior izquierda probablemente secundario a consumo de cocaína.
+
+Tratamiento
+Se inicia antiagregación con ácido acetilsalicílico 300 mg/día y se recomienda la abstención de consumo de tóxicos.
+
+Evolución
+Durante su estancia en la planta la paciente presenta una mejoría progresiva del déficit campimétrico, hasta quedar asintomática en el momento del alta.

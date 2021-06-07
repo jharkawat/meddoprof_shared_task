@@ -1,0 +1,66 @@
+T1	SINTOMA 219 225	fiebre
+T2	SINTOMA 227 241	orina colúrica
+T3	SINTOMA 244 297	dolor muscular en la región posterior de ambos muslos
+T4	SINTOMA 324 342	debilidad muscular
+T5	SINTOMA 345 376	dificultad para la deambulación
+T6	SINTOMA 447 456	ictericia
+T7	SINTOMA 458 466	eupneico
+T8	SINTOMA 490 502	taquicárdico
+T9	SINTOMA 506 512	soplos
+T10	SINTOMA 514 521	Abdomen
+T11	SINTOMA 522 535	hepatomegalia
+T12	SINTOMA 934 942	oliguria
+T13	SINTOMA 944 955	hipotensión
+T14	SINTOMA 998 1020	deterioro respiratorio
+T15	SINTOMA 1025 1035	hemoptisis
+T16	SINTOMA 2396 2403	cefalea
+T17	SINTOMA 2405 2416	parestesias
+T18	SINTOMA 2437 2446	depresión
+T19	PROCEDIMIENTO 467 488	auscultación cardiaca
+T20	PROCEDIMIENTO 773 796	tratamiento antibiótico
+T21	PROCEDIMIENTO 1049 1055	IOT-VM
+T22	PROCEDIMIENTO 1107 1127	soporte hemodinámico
+T23	PROCEDIMIENTO 2574 2593	antibióticos orales
+T24	NEG 503 505	no
+T25	NSCO 506 512	soplos
+T26	UNC 713 724	sospecha de
+T27	USCO 725 760	leptospirosis se solicita serología
+T28	NEG 983 985	no
+T29	NSCO 986 995	sostenida
+T30	FARMACO 801 812	doxiciclina
+T31	FARMACO 1145 1156	ceftriaxona
+T32	FARMACO 2603 2614	amoxicilina
+T33	FARMACO 2616 2626	ampicilina
+T34	FARMACO 2628 2639	doxiciclina
+T35	FARMACO 2642 2654	eritromicina
+T36	FARMACO 2676 2690	cefalosporinas
+T37	FARMACO 2715 2725	quinolonas
+T38	ORG_VIVO 0 5	Varón
+T39	ORG_VIVO 103 111	ganadero
+T40	ORG_VIVO 156 161	plaga
+T41	ORG_VIVO 165 172	ratones
+T42	ORG_VIVO 1232 1242	leptospira
+T43	ORG_VIVO 1488 1501	seres humanos
+T44	ORG_VIVO 1539 1548	mamíferos
+T45	ORG_VIVO 1571 1576	ratas
+T46	ORG_VIVO 1578 1585	ratones
+T47	ORG_VIVO 1600 1606	perros
+T48	ORG_VIVO 1608 1613	gatos
+T49	ORG_VIVO 1615 1621	ovejas
+T50	ORG_VIVO 1623 1629	cerdos
+T51	ORG_VIVO 1631 1644	ganado vacuno
+T52	ORG_VIVO 1660 1668	animales
+T53	ORG_VIVO 1822 1831	arroceras
+T54	ORG_VIVO 1969 1978	pacientes
+T55	ORG_VIVO 2155 2164	pacientes
+T56	ENFERMEDAD 34 45	gonartrosis
+T57	ENFERMEDAD 725 738	leptospirosis
+T58	ENFERMEDAD 957 965	delirium
+T59	ENFERMEDAD 1410 1423	leptospirosis
+T60	ENFERMEDAD 2085 2104	fracaso renal agudo
+T61	ENFERMEDAD 2183 2189	muerte
+T62	ENFERMEDAD 2204 2215	fallo renal
+T63	ENFERMEDAD 2217 2237	fallo cardiopulmonar
+T64	ENFERMEDAD 2240 2251	hemorragias
+T65	ENFERMEDAD 2437 2446	depresión
+T66	PACIENTE-PROFESION 103 111	ganadero

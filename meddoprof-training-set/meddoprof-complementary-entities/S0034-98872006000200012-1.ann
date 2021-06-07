@@ -1,0 +1,35 @@
+T1	SINTOMA 707 713	mareos
+T2	SINTOMA 715 730	dolor abdominal
+T3	SINTOMA 732 739	náuseas
+T4	SINTOMA 741 748	vómitos
+T5	SINTOMA 750 757	diarrea
+T6	SINTOMA 759 777	debilidad muscular
+T7	SINTOMA 780 829	calambres musculares intensos en las extremidades
+T8	SINTOMA 958 976	debilidad muscular
+T9	SINTOMA 978 994	mialgias difusas
+T10	SINTOMA 996 1005	calambres
+T11	SINTOMA 1008 1024	malestar general
+T12	SINTOMA 1087 1129	disminución de fuerzas en las extremidades
+T13	SINTOMA 1132 1161	dolor a la palpación muscular
+T14	SINTOMA 1197 1205	azotemia
+T15	SINTOMA 1208 1243	elevación de las enzimas musculares
+T16	SINTOMA 1671 1679	mialgias
+T17	SINTOMA 1685 1694	calambres
+T18	SINTOMA 1700 1735	elevación de las enzimas musculares
+T19	SINTOMA 2173 2195	jvegastieb@hotmail.com
+T20	PROCEDIMIENTO 374 394	entrenamiento físico
+T21	PROCEDIMIENTO 1644 1652	diálisis
+T22	PROCEDIMIENTO 2173 2195	jvegastieb@hotmail.com
+T23	NEG 475 478	sin
+T24	NSCO 479 507	una actividad física intensa
+T25	NEG 1630 1633	sin
+T26	NSCO 1634 1652	emplearse diálisis
+T27	FARMACO 1484 1495	bicarbonato
+T28	FARMACO 1498 1508	furosemide
+T29	ORG_VIVO 330 336	Hombre
+T30	ORG_VIVO 2057 2060	Dr.
+T31	ENFERMEDAD 1335 1393	insuficiencia renal aguda secundaria a una RML de esfuerzo
+T32	ENFERMEDAD 1797 1810	azotemia leve
+T33	SANITARIO-PROFESION 2057 2060	Dr.
+T34	SANITARIO-PROFESION 277 283	Médico
+T35	PACIENTE-PROFESION 349 356	soldado

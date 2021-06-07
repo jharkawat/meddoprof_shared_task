@@ -1,0 +1,46 @@
+T1	SINTOMA 861 886	hemodinámicamente estable
+T2	SINTOMA 888 894	alerta
+T3	SINTOMA 897 906	orientado
+T4	SINTOMA 925 944	déficit neurológico
+T5	SINTOMA 951 966	sangrado activo
+T6	SINTOMA 3170 3188	pvsr74@hotmail.com
+T7	PROCEDIMIENTO 521 535	examen clínico
+T8	PROCEDIMIENTO 1138 1167	radiografía lateral de cráneo
+T9	PROCEDIMIENTO 1271 1274	TAC
+T10	PROCEDIMIENTO 1616 1633	anestesia general
+T11	PROCEDIMIENTO 1636 1659	intubación nasotraqueal
+T12	PROCEDIMIENTO 2094 2136	inactivación del mecanismo barba del arpón
+T13	PROCEDIMIENTO 2150 2176	ligadura con hilo de acero
+T14	PROCEDIMIENTO 2377 2427	suturó entonces con vicryl 3/0 la herida intraoral
+T15	PROCEDIMIENTO 2434 2458	vicryl 4/0 el subcutáneo
+T16	PROCEDIMIENTO 2466 2501	prolene 4/0 la herida submandibular
+T17	PROCEDIMIENTO 2560 2563	TAC
+T18	PROCEDIMIENTO 2904 2915	audiometría
+T19	NEG 921 924	sin
+T20	NSCO 925 944	déficit neurológico
+T21	NEG 947 950	sin
+T22	NSCO 951 966	sangrado activo
+T23	NEG 1030 1032	No
+T24	NSCO 1033 1133	había salida de líquido cefalorraquídeo por la herida de entrada ni por el conducto auditivo externo
+T25	NEG 2273 2275	No
+T26	NSCO 2276 2372	se observó salida de líquido cefalorraquídeo por la herida de entrada ni por el acceso intraoral
+T27	NEG 2682 2685	sin
+T28	NSCO 2686 2715	mostrar focalidad neurológica
+T29	NEG 2793 2796	sin
+T30	NSCO 2797 2833	ningún tipo de trastorno neurológico
+T31	NEG 2835 2837	No
+T32	NSCO 2838 2866	se reportaron complicaciones
+T33	ORG_VIVO 344 352	paciente
+T34	ORG_VIVO 357 362	varón
+T35	ORG_VIVO 540 548	paciente
+T36	ORG_VIVO 820 828	paciente
+T37	ORG_VIVO 845 853	paciente
+T38	ORG_VIVO 1664 1672	paciente
+T39	ORG_VIVO 2630 2638	paciente
+T40	ORG_VIVO 3020 3028	paciente
+T41	ENFERMEDAD 573 625	herida penetrante a nivel de la región submandibular
+T42	ENFERMEDAD 979 1018	coágulos de sangre en el canal auditivo
+T43	ENFERMEDAD 2612 2625	neumoencéfalo
+T44	ENFERMEDAD 2812 2833	trastorno neurológico
+T45	SANITARIO-PROFESION 275 281	Médico
+T46	OTROS-PROFESION 747 755	bomberos

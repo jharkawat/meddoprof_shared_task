@@ -1,0 +1,20 @@
+T1	SINTOMA 144 160	ideas delirantes
+T2	SINTOMA 175 191	ideación suicida
+T3	SINTOMA 496 515	estupor melancólico
+T4	PROCEDIMIENTO 328 330	TC
+T5	PROCEDIMIENTO 401 415	antidepresivos
+T6	PROCEDIMIENTO 434 449	benzodiacepinas
+T7	NEG 51 54	sin
+T8	NSCO 55 78	antecedentes de interés
+T9	UNC 310 321	compatibles
+T10	USCO 322 330	en la TC
+T11	NEG 346 358	asintomático
+T12	NSCO 359 375	hasta el ingreso
+T13	NEG 380 388	falta de
+T14	NSCO 389 415	respuesta a antidepresivos
+T15	ORG_VIVO 34 39	varón
+T16	ENFERMEDAD 144 172	ideas delirantes congruentes
+T17	ENFERMEDAD 175 191	ideación suicida
+T18	ENFERMEDAD 242 261	trastorno depresivo
+T19	ENFERMEDAD 267 296	enfermedad de Fahr basándonos
+T20	ENFERMEDAD 638 656	enfermedad de Fahr

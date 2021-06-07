@@ -1,0 +1,98 @@
+T1	SINTOMA 369 383	adormecimiento
+T2	SINTOMA 386 424	hormigueo en ambas plantas de los pies
+T3	SINTOMA 439 463	rigidez en ambas piernas
+T4	SINTOMA 575 599	incapaz de levantar peso
+T5	SINTOMA 652 665	inestabilidad
+T6	SINTOMA 703 717	adormecimiento
+T7	SINTOMA 720 745	hormigueo de ambas palmas
+T8	SINTOMA 1806 1872	hipoestesia tactoalgésica comparativa en ambas plantas de los pies
+T9	SINTOMA 1878 1938	dismetría en la prueba talón-rodilla con el miembro inferior
+T10	SINTOMA 3154 3169	proteinorraquia
+T11	SINTOMA 4046 4078	debilidad de miembros inferiores
+T12	SINTOMA 4144 4170	inestabilidad de la marcha
+T13	PROCEDIMIENTO 129 142	esplenectomía
+T14	PROCEDIMIENTO 833 842	anamnesis
+T15	PROCEDIMIENTO 1202 1220	exploración física
+T16	PROCEDIMIENTO 1275 1302	auscultación cardiopulmonar
+T17	PROCEDIMIENTO 1339 1362	exploración neurológica
+T18	PROCEDIMIENTO 1411 1422	campimetría
+T19	PROCEDIMIENTO 1501 1537	maniobras antigravitatorias de Barré
+T20	PROCEDIMIENTO 1894 1914	prueba talón-rodilla
+T21	PROCEDIMIENTO 2016 2034	exploración física
+T22	PROCEDIMIENTO 2106 2130	estudio neurofisiológico
+T23	PROCEDIMIENTO 2135 2150	electromiograma
+T24	PROCEDIMIENTO 2152 2201	potenciales de conducción y estimulación cortical
+T25	PROCEDIMIENTO 2340 2369	resonancia magnética cerebral
+T26	PROCEDIMIENTO 2640 2693	administración de contraste paramagnético intravenoso
+T27	PROCEDIMIENTO 2800 2818	análisis sanguíneo
+T28	PROCEDIMIENTO 2994 3018	estudio de autoinmunidad
+T29	PROCEDIMIENTO 3055 3069	punción lumbar
+T30	PROCEDIMIENTO 3512 3524	PET corporal
+T31	PROCEDIMIENTO 4226 4248	tratamiento esteroideo
+T32	PROCEDIMIENTO 4658 4669	RM cerebral
+T33	NEG 245 248	sin
+T34	NSCO 249 274	tratamiento médico activo
+T35	NEG 509 519	desaparece
+T36	NSCO 520 529	en reposo
+T37	NEG 575 585	incapaz de
+T38	NSCO 586 599	levantar peso
+T39	NEG 767 770	sin
+T40	NSCO 771 825	otros síntomas sugestivos de déficit neurológico focal
+T41	NEG 965 970	Niega
+T42	NSCO 971 989	consumo de tóxicos
+T43	NEG 1043 1046	sin
+T44	NSCO 1047 1058	pasteurizar
+T45	NEG 1315 1318	sin
+T46	NSCO 1319 1331	alteraciones
+T47	NEG 1482 1484	No
+T48	NSCO 1485 1551	claudicación en maniobras antigravitatorias de Barré ni Mingazzini
+T49	NEG 1981 1989	negativo
+T50	NEG 2982 2991	negativas
+T51	NEG 3019 3022	sin
+T52	NSCO 3023 3033	alteración
+T53	NEG 3171 3182	descartando
+T54	NSCO 3183 3269	la presencia de células tumorales o enfermedad infecciosa del sistema nervioso central
+T55	NEG 3326 3335	negativos
+T56	NSCO 3336 3342	en LCR
+T57	NEG 3530 3539	descartar
+T58	NSCO 3540 3616	la presencia de una enfermedad linfomatosa, inflamatoria o tumoral sistémica
+T59	NEG 4125 4140	desaparición de
+T60	NSCO 4141 4170	la inestabilidad de la marcha
+T61	NEG 4724 4739	desaparición de
+T62	NSCO 4740 4829	la totalidad de las lesiones puntiformes con captación de contraste descritas previamente
+T63	NEG 4859 4869	descartado
+T64	NSCO 4870 4920	previamente enfermedad sistémica de origen tumoral
+T65	FARMACO 3835 3852	metilprednisolona
+T66	FARMACO 3907 3917	prednisona
+T67	FARMACO 4618 4628	prednisona
+T68	ORG_VIVO 0 5	Varón
+T69	ORG_VIVO 37 47	personales
+T70	ORG_VIVO 1072 1081	garrapata
+T71	ORG_VIVO 1174 1183	neurólogo
+T72	ORG_VIVO 1225 1233	paciente
+T73	ORG_VIVO 2732 2740	paciente
+T74	ORG_VIVO 2872 2875	VIH
+T75	ORG_VIVO 2877 2884	sífilis
+T76	ORG_VIVO 2886 2894	Borrelia
+T77	ORG_VIVO 2896 2903	Brucela
+T78	ORG_VIVO 2905 2910	HTLV1
+T79	ORG_VIVO 2912 2927	Citomegalovirus
+T80	ORG_VIVO 2929 2955	Virus de la familia herpes
+T81	ORG_VIVO 2957 2977	Virus de hepatitis B
+T82	ORG_VIVO 2978 2981	y C
+T83	ORG_VIVO 3711 3719	paciente
+T84	ORG_VIVO 4010 4018	paciente
+T85	ORG_VIVO 4407 4415	paciente
+T86	ORG_VIVO 4955 4963	paciente
+T87	ENFERMEDAD 71 113	linfohistiocitosis hemofagocítica primaria
+T88	ENFERMEDAD 170 230	homocigótico de la mutación Ala91Val del gen de la perforina
+T89	ENFERMEDAD 800 825	déficit neurológico focal
+T90	ENFERMEDAD 868 883	cuadro catarral
+T91	ENFERMEDAD 3219 3269	enfermedad infecciosa del sistema nervioso central
+T92	ENFERMEDAD 3389 3407	linfohistiocitosis
+T93	ENFERMEDAD 3560 3582	enfermedad linfomatosa
+T94	ENFERMEDAD 3599 3616	tumoral sistémica
+T95	ENFERMEDAD 3770 3798	enfermedad infecciosa activa
+T96	ENFERMEDAD 4882 4920	enfermedad sistémica de origen tumoral
+T97	ENFERMEDAD 4987 5004	Síndrome CLIPPERS
+T98	SANITARIO-PROFESION 1174 1183	neurólogo

@@ -1,0 +1,25 @@
+T1	SINTOMA 528 538	hipotermia
+T2	SINTOMA 657 667	hipotermia
+T3	SINTOMA 843 853	hipotermia
+T4	SINTOMA 1113 1123	hipotermia
+T5	PROCEDIMIENTO 124 149	tratamiento antipsicótico
+T6	PROCEDIMIENTO 720 745	tratamiento antipsicótico
+T7	PROCEDIMIENTO 993 1018	tratamiento antipsicótico
+T8	UNC 642 653	probable de
+T9	USCO 654 667	la hipotermia
+T10	UNC 803 811	sugieren
+T11	USCO 812 862	la posibilidad de aparición de hipotermia inducida
+T12	NEG 879 881	no
+T13	NSCO 882 913	solo en animales de laboratorio
+T14	NEG 978 980	no
+T15	NSCO 981 1018	es el único tratamiento antipsicótico
+T16	FARMACO 154 165	haloperidol
+T17	FARMACO 750 761	haloperidol
+T18	FARMACO 867 878	haloperidol
+T19	FARMACO 966 977	haloperidol
+T20	ORG_VIVO 35 43	paciente
+T21	ORG_VIVO 769 777	paciente
+T22	ORG_VIVO 890 898	animales
+T23	ORG_VIVO 935 948	seres humanos
+T24	ENFERMEDAD 66 89	esquizofrenia paranoide
+T25	ENFERMEDAD 207 223	hipotermia grave

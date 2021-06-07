@@ -1,0 +1,139 @@
+T1	SINTOMA 1557 1566	amenorrea
+T2	SINTOMA 1584 1600	pérdida ponderal
+T3	SINTOMA 1990 2006	rasgos obsesivos
+T4	SINTOMA 2115 2123	angustia
+T5	SINTOMA 2489 2495	mareos
+T6	SINTOMA 2497 2510	palpitaciones
+T7	SINTOMA 2512 2520	sudación
+T8	SINTOMA 2522 2533	taquicardia
+T9	SINTOMA 2764 2772	angustia
+T10	SINTOMA 3046 3067	ansiedad generalizada
+T11	SINTOMA 3166 3189	sentimientos depresivos
+T12	SINTOMA 4157 4188	aumento del sistema ventricular
+T13	SINTOMA 4418 4455	deterioro de sus funciones cognitivas
+T14	SINTOMA 4575 4582	astenia
+T15	SINTOMA 4592 4616	pérdida de concentración
+T16	SINTOMA 4705 4720	ánimo deprimido
+T17	SINTOMA 4738 4750	desesperanza
+T18	SINTOMA 4753 4769	ideación suicida
+T19	SINTOMA 5350 5359	temblores
+T20	SINTOMA 5575 5594	síntomas depresivos
+T21	SINTOMA 5640 5648	tristeza
+T22	SINTOMA 5654 5676	falta de concentración
+T23	SINTOMA 5835 5846	hipersomnia
+T24	SINTOMA 5849 5864	astenia severas
+T25	SINTOMA 5875 5898	hipotensión ortostática
+T26	SINTOMA 6497 6523	aumento de la sociabilidad
+T27	SINTOMA 6711 6729	deterioro cerebral
+T28	PROCEDIMIENTO 2835 2858	tratamiento psicológico
+T29	PROCEDIMIENTO 2871 2899	terapia cognitivo conductual
+T30	PROCEDIMIENTO 3291 3305	antidepresivos
+T31	PROCEDIMIENTO 3438 3468	antidepresivos benzodiazepinas
+T32	PROCEDIMIENTO 3918 3927	hemograma
+T33	PROCEDIMIENTO 4103 4133	tomografía axial computerizada
+T34	NEG 424 426	no
+T35	NSCO 427 450	volvió a tener recaídas
+T36	NEG 542 554	asintomático
+T37	UNC 607 615	probable
+T38	USCO 616 636	trastorno adaptativo
+T39	NEG 796 799	sin
+T40	NSCO 800 824	experiencias traumáticas
+T41	NEG 1259 1261	no
+T42	NSCO 1262 1271	duraderas
+T43	UNC 1417 1431	compatible con
+T44	USCO 1432 1449	anorexia nerviosa
+T45	NEG 1779 1782	sin
+T46	NSCO 1783 1817	acudir a tratamiento especializado
+T47	NEG 1819 1836	En ningún momento
+T48	NSCO 1837 1867	presentó síntomas de trastorno
+T49	UNC 1952 1968	podría describir
+T50	USCO 1969 2006	una personalidad con rasgos obsesivos
+T51	NEG 2975 2977	no
+T52	NSCO 2978 3017	ha vuelto a presentarlas desde entonces
+T53	NEG 3019 3021	No
+T54	NEG 3390 3393	sin
+T55	NSCO 3394 3412	mejoría del cuadro
+T56	NEG 3517 3520	sin
+T57	NSCO 3521 3579	ninguna mejoríaRealizó un intento de suicidio en marzo del
+T58	NEG 4086 4095	negativos
+T59	NEG 4618 4620	no
+T60	NSCO 4621 4676	pudiendo concentrarse ni en leer, ni en tocar el violín
+T61	NEG 5261 5263	no
+T62	NSCO 5264 5306	resultó eficaz en la mejoría de la clínica
+T63	NEG 5379 5387	retirada
+T64	NSCO 5388 5432	por interferir en la instrumentación musical
+T65	NEG 5654 5662	falta de
+T66	NSCO 5663 5676	concentración
+T67	NEG 6098 6100	no
+T68	NSCO 6101 6109	presentó
+T69	NEG 6416 6431	desaparición de
+T70	NSCO 6432 6451	las ideas de muerte
+T71	NEG 6774 6776	no
+T72	NSCO 6777 6868	diaria, sentimientos de irrealidad "¿qué es esto?" y miedo a la reaparición de los síntomas
+T73	FARMACO 510 528	carbonato de litio
+T74	FARMACO 3343 3354	recaptación
+T75	FARMACO 3358 3368	serotonina
+T76	FARMACO 3378 3389	venlafaxina
+T77	FARMACO 3821 3833	clomipramina
+T78	FARMACO 3854 3864	clonazepam
+T79	FARMACO 5147 5159	clomipramina
+T80	FARMACO 5233 5251	carbonato de litio
+T81	FARMACO 5473 5484	lamotrigina
+T82	FARMACO 5920 5932	clomipramina
+T83	FARMACO 6059 6072	noradrenalina
+T84	FARMACO 6074 6084	reboxetina
+T85	FARMACO 6154 6164	reboxetina
+T86	FARMACO 6229 6242	metilfenidato
+T87	ORG_VIVO 0 8	Paciente
+T88	ORG_VIVO 148 158	familiares
+T89	ORG_VIVO 179 184	padre
+T90	ORG_VIVO 319 324	madre
+T91	ORG_VIVO 382 387	hijos
+T92	ORG_VIVO 455 462	hermano
+T93	ORG_VIVO 564 571	hermano
+T94	ORG_VIVO 640 648	paciente
+T95	ORG_VIVO 669 677	hermanos
+T96	ORG_VIVO 685 692	familia
+T97	ORG_VIVO 696 703	músicos
+T98	ORG_VIVO 705 710	madre
+T99	ORG_VIVO 712 716	tíos
+T100	ORG_VIVO 725 733	hermanos
+T101	ORG_VIVO 779 787	infancia
+T102	ORG_VIVO 1251 1258	parejas
+T103	ORG_VIVO 1313 1323	familiares
+T104	ORG_VIVO 1689 1694	amiga
+T105	ORG_VIVO 1903 1911	infancia
+T106	ORG_VIVO 2367 2377	cardiólogo
+T107	ORG_VIVO 2623 2631	paciente
+T108	ORG_VIVO 3213 3221	paciente
+T109	ORG_VIVO 3251 3262	psiquiatras
+T110	ORG_VIVO 4063 4066	VIH
+T111	ORG_VIVO 6930 6938	paciente
+T112	ENFERMEDAD 98 106	suicidio
+T113	ENFERMEDAD 124 144	trastornos afectivos
+T114	ENFERMEDAD 473 490	trastorno bipolar
+T115	ENFERMEDAD 616 636	trastorno adaptativo
+T116	ENFERMEDAD 1432 1449	anorexia nerviosa
+T117	ENFERMEDAD 2105 2123	crisis de angustia
+T118	ENFERMEDAD 2439 2457	crisis de angustia
+T119	ENFERMEDAD 2549 2555	muerte
+T120	ENFERMEDAD 2750 2772	trastorno por angustia
+T121	ENFERMEDAD 3046 3067	ansiedad generalizada
+T122	ENFERMEDAD 3558 3566	suicidio
+T123	ENFERMEDAD 3758 3792	trastorno de ansiedad generalizada
+T124	ENFERMEDAD 4403 4416	esquizofrenia
+T125	ENFERMEDAD 5784 5792	ansiedad
+T126	ENFERMEDAD 5875 5898	hipotensión ortostática
+T127	ENFERMEDAD 6445 6451	muerte
+T128	ENFERMEDAD 6661 6684	enfermedad mental grave
+T129	ENFERMEDAD 6711 6729	deterioro cerebral
+T130	SANITARIO-PROFESION 2367 2377	cardiólogo
+T131	PACIENTE-SITUACION_LABORAL 6945 6960	de baja laboral
+T132	SANITARIO-PROFESION 2320 2327	médicos
+T133	SANITARIO-PROFESION 3251 3262	psiquiatras
+T134	FAMILIAR-SITUACION_LABORAL 255 265	en el paro
+T135	FAMILIAR-PROFESION 696 703	músicos
+T136	PACIENTE-PROFESION 1058 1114	trabajando a la vez en instituto de enseñanza secundaria
+T137	PACIENTE-PROFESION 1117 1150	en una escuela de música privada.
+T138	PACIENTE-PROFESION 1159 1196	formó parte de una orquesta de cámara
+T139	PACIENTE-PROFESION 7142 7149	docente

@@ -1,0 +1,162 @@
+T1	SINTOMA 229 256	ensanchamiento mediastínico
+T2	SINTOMA 619 626	cefalea
+T3	SINTOMA 635 643	migrañas
+T4	SINTOMA 693 730	oligoartritis en los dedos de la mano
+T5	SINTOMA 1258 1280	enrojecimiento de ojos
+T6	SINTOMA 1286 1306	disminución de la AV
+T7	SINTOMA 1321 1349	lesiones cutáneas en la cara
+T8	SINTOMA 1352 1359	astenia
+T9	SINTOMA 1410 1417	sofocos
+T10	SINTOMA 1420 1430	sudoración
+T11	SINTOMA 1565 1572	sofocos
+T12	SINTOMA 1617 1623	fiebre
+T13	SINTOMA 1700 1719	Buen estado general
+T14	SINTOMA 1721 1729	eupneica
+T15	SINTOMA 2133 2166	Abdomen y extremidades inferiores
+T16	SINTOMA 3294 3334	disminución de la capacidad inspiratoria
+T17	SINTOMA 3961 3968	astenia
+T18	SINTOMA 4884 4904	prurito generalizado
+T19	SINTOMA 4986 4993	prurito
+T20	PROCEDIMIENTO 162 177	colecistectomía
+T21	PROCEDIMIENTO 180 204	esfinteroplastia en 1990
+T22	PROCEDIMIENTO 264 284	radiografía de tórax
+T23	PROCEDIMIENTO 586 596	litotricia
+T24	PROCEDIMIENTO 1007 1025	TC abdominopélvico
+T25	PROCEDIMIENTO 1680 1698	Exploración física
+T26	PROCEDIMIENTO 1770 1793	Exploración neurológica
+T27	PROCEDIMIENTO 2097 2124	Auscultación cardiopulmonar
+T28	PROCEDIMIENTO 2221 2230	Hemograma
+T29	PROCEDIMIENTO 3069 3096	tratamiento broncodilatador
+T30	PROCEDIMIENTO 3336 3347	TC de tórax
+T31	PROCEDIMIENTO 4280 4298	prueba del Mantoux
+T32	PROCEDIMIENTO 4305 4321	serología de VIH
+T33	PROCEDIMIENTO 5848 5866	prueba diagnóstica
+T34	PROCEDIMIENTO 6323 6376	biopsia con aguja gruesa del ganglio linfático axilar
+T35	PROCEDIMIENTO 6692 6729	biopsia punch del pliegue nasogeniano
+T36	PROCEDIMIENTO 7130 7145	ecocardiografía
+T37	PROCEDIMIENTO 7151 7158	PET-TAC
+T38	NEG 41 44	sin
+T39	NSCO 45 78	factores de riesgo cardiovascular
+T40	NEG 369 371	no
+T41	NSCO 372 407	se continuó por quedarse embarazada
+T42	UNC 1096 1104	probable
+T43	USCO 1105 1135	etiología ganglionar linfática
+T44	NEG 1361 1363	No
+T45	NSCO 1364 1389	ha tenido cambios de peso
+T46	NEG 1604 1606	No
+T47	NSCO 1607 1623	ha tenido fiebre
+T48	NEG 1625 1627	No
+T49	NSCO 1628 1678	refiere otra sintomatología por órganos y aparatos
+T50	NEG 2167 2170	sin
+T51	NSCO 2171 2183	alteraciones
+T52	NEG 2733 2742	negativos
+T53	NEG 2764 2773	negativos
+T54	NEG 2977 2985	negativo
+T55	UNC 3721 3735	compatible con
+T56	USCO 3736 3749	conjuntivitis
+T57	UNC 3797 3812	compatibles con
+T58	USCO 3813 3834	dermatitis seborreica
+T59	NEG 4337 4346	negativas
+T60	UNC 4409 4416	posible
+T61	USCO 4417 4424	linfoma
+T62	NEG 4575 4577	no
+T63	NSCO 4578 4585	Hodgkin
+T64	UNC 5173 5180	parecía
+T65	USCO 5181 5185	poco
+T66	UNC 5186 5194	probable
+T67	UNC 5401 5407	podría
+T68	USCO 5408 5440	tratarse de un linfoma indolente
+T69	NEG 5442 5449	Tampoco
+T70	NSCO 5450 5517	descartamos de entrada la naturaleza metastásica de las adenopatías
+T71	NEG 5641 5652	ausencia de
+T72	NSCO 5653 5677	revisiones ginecológicas
+T73	NEG 5835 5837	no
+T74	NSCO 5838 5877	tiene una prueba diagnóstica definitiva
+T75	NEG 6051 6053	no
+T76	NSCO 6054 6067	caseificantes
+T77	UNC 6247 6261	probables como
+T78	USCO 6262 6287	etiologías de este cuadro
+T79	NEG 6438 6441	sin
+T80	NSCO 6442 6458	necrosis caseosa
+T81	NEG 6507 6515	negativa
+T82	UNC 6528 6534	podría
+T83	USCO 6535 6585	estar en relación con el diagnóstico clínico de SA
+T84	FARMACO 6937 6954	hidroxicloroquina
+T85	FARMACO 6967 6977	budesonida
+T86	FARMACO 7002 7019	hierro II sulfato
+T87	ORG_VIVO 13 23	personales
+T88	ORG_VIVO 24 29	Mujer
+T89	ORG_VIVO 789 800	ama de casa
+T90	ORG_VIVO 1202 1210	paciente
+T91	ORG_VIVO 2690 2693	VHA
+T92	ORG_VIVO 2709 2712	VHB
+T93	ORG_VIVO 2714 2717	VHC
+T94	ORG_VIVO 2719 2722	VIH
+T95	ORG_VIVO 2725 2732	sífilis
+T96	ORG_VIVO 4053 4061	paciente
+T97	ORG_VIVO 4237 4246	pacientes
+T98	ORG_VIVO 4247 4250	VIH
+T99	ORG_VIVO 4318 4321	VIH
+T100	ORG_VIVO 4955 4963	paciente
+T101	ORG_VIVO 5236 5244	paciente
+T102	ORG_VIVO 5627 5635	paciente
+T103	ORG_VIVO 6473 6506	bacilos ácido alcohol resistentes
+T104	ORG_VIVO 6666 6674	paciente
+T105	ENFERMEDAD 80 113	Pancreatitis agudas de repetición
+T106	ENFERMEDAD 118 148	estenosis del esfínter de Oddi
+T107	ENFERMEDAD 229 256	ensanchamiento mediastínico
+T108	ENFERMEDAD 433 438	bocio
+T109	ENFERMEDAD 459 483	nefríticos de repetición
+T110	ENFERMEDAD 489 510	litiasis en el uréter
+T111	ENFERMEDAD 551 565	litiasis renal
+T112	ENFERMEDAD 635 643	migrañas
+T113	ENFERMEDAD 693 730	oligoartritis en los dedos de la mano
+T114	ENFERMEDAD 913 929	cólico nefrítico
+T115	ENFERMEDAD 1088 1135	masa de probable etiología ganglionar linfática
+T116	ENFERMEDAD 1321 1349	lesiones cutáneas en la cara
+T117	ENFERMEDAD 1802 1881	Lesiones cutáneas eritematosas y papulosas en surco nasogeniano y región ciliar
+T118	ENFERMEDAD 1883 1934	Lesión eritematosa e indurada en lóbulo de la oreja
+T119	ENFERMEDAD 1971 1988	Adenopatía axilar
+T120	ENFERMEDAD 3020 3052	Obstrucción bronquial periférica
+T121	ENFERMEDAD 3377 3388	adenopatías
+T122	ENFERMEDAD 3391 3450	infiltración difusa linfática del mediastino anterosuperior
+T123	ENFERMEDAD 3452 3474	ventana aorto-pulmonar
+T124	ENFERMEDAD 3736 3749	conjuntivitis
+T125	ENFERMEDAD 3813 3834	dermatitis seborreica
+T126	ENFERMEDAD 3933 3958	adenopatías mediastínicas
+T127	ENFERMEDAD 4023 4035	tuberculosis
+T128	ENFERMEDAD 4106 4126	adenopatías hiliares
+T129	ENFERMEDAD 4191 4221	tuberculosis pulmonar primaria
+T130	ENFERMEDAD 4247 4250	VIH
+T131	ENFERMEDAD 4417 4424	linfoma
+T132	ENFERMEDAD 4471 4490	masas en mediastino
+T133	ENFERMEDAD 4513 4519	timoma
+T134	ENFERMEDAD 4530 4551	enfermedad de Hodgkin
+T135	ENFERMEDAD 4553 4555	EH
+T136	ENFERMEDAD 4566 4585	linfomas no Hodgkin
+T137	ENFERMEDAD 4587 4590	LNH
+T138	ENFERMEDAD 4670 4673	LNH
+T139	ENFERMEDAD 4791 4793	EH
+T140	ENFERMEDAD 4802 4810	linfomas
+T141	ENFERMEDAD 4943 4945	EH
+T142	ENFERMEDAD 5110 5117	linfoma
+T143	ENFERMEDAD 5263 5274	adenopatías
+T144	ENFERMEDAD 5317 5344	ensanchamiento mediastínico
+T145	ENFERMEDAD 5423 5440	linfoma indolente
+T146	ENFERMEDAD 5487 5517	metastásica de las adenopatías
+T147	ENFERMEDAD 5566 5582	cáncer de pulmón
+T148	ENFERMEDAD 5587 5604	adenopatía axilar
+T149	ENFERMEDAD 5701 5723	tumor primario de mama
+T150	ENFERMEDAD 5802 5813	sarcoidosis
+T151	ENFERMEDAD 6101 6126	adenopatías mediastínicas
+T152	ENFERMEDAD 6136 6150	histoplasmosis
+T153	ENFERMEDAD 6155 6164	silicosis
+T154	ENFERMEDAD 6169 6194	granulomatosis de Wegener
+T155	ENFERMEDAD 6200 6223	enfermedad de Castleman
+T156	ENFERMEDAD 6399 6437	linfadenitis granulomatosa epitelioide
+T157	ENFERMEDAD 6583 6585	SA
+T158	ENFERMEDAD 6636 6659	lesiones dermatológicas
+T159	ENFERMEDAD 6771 6798	granuloma de tipo sarcoideo
+T160	ENFERMEDAD 6892 6903	Sarcoidosis
+T161	ENFERMEDAD 7059 7082	Enfermedades Sistémicas
+T162	PACIENTE-SITUACION_LABORAL 789 800	ama de casa

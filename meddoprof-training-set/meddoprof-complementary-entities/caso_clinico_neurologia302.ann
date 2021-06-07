@@ -1,0 +1,74 @@
+T1	SINTOMA 122 145	cefalea fronto-temporal
+T2	SINTOMA 158 166	diplopía
+T3	SINTOMA 230 237	cefalea
+T4	SINTOMA 289 296	náuseas
+T5	SINTOMA 333 338	dolor
+T6	SINTOMA 701 708	cefalea
+T7	SINTOMA 748 753	dolor
+T8	SINTOMA 776 795	diplopía horizontal
+T9	SINTOMA 846 851	mareo
+T10	SINTOMA 854 867	inestabilidad
+T11	SINTOMA 892 899	cefalea
+T12	SINTOMA 1094 1119	hemodinámicamente estable
+T13	SINTOMA 1121 1128	afebril
+T14	PROCEDIMIENTO 562 609	antiinflamatorios no esteroideos y antibióticos
+T15	PROCEDIMIENTO 647 670	tratamiento corticoideo
+T16	PROCEDIMIENTO 1012 1023	analgésicos
+T17	PROCEDIMIENTO 1026 1044	Exploración física
+T18	PROCEDIMIENTO 1176 1197	auscultación cardiaca
+T19	PROCEDIMIENTO 1221 1244	exploración neurológica
+T20	PROCEDIMIENTO 1452 1461	hemograma
+T21	PROCEDIMIENTO 1515 1550	Estudio del líquido cefalorraquídeo
+T22	PROCEDIMIENTO 1604 1624	estudio inmunológico
+T23	PROCEDIMIENTO 1715 1767	Resonancia magnética (RM) cerebral sin/con gadolinio
+T24	PROCEDIMIENTO 1955 1972	Angio-RM cerebral
+T25	PROCEDIMIENTO 2058 2072	punción lumbar
+T26	PROCEDIMIENTO 2078 2080	RM
+T27	PROCEDIMIENTO 2820 2829	analgesia
+T28	NEG 297 300	sin
+T29	NSCO 301 328	otros síntomas acompañantes
+T30	NEG 400 403	sin
+T31	NSCO 404 433	respetar el descanso nocturno
+T32	UNC 515 526	sospecha de
+T33	USCO 527 557	sinusitis instauró tratamiento
+T34	NEG 580 582	no
+T35	NSCO 583 594	esteroideos
+T36	NEG 611 614	sin
+T37	NSCO 615 624	respuesta
+T38	NEG 996 998	no
+T39	NSCO 999 1023	mejoraba con analgésicos
+T40	NEG 1121 1128	afebril
+T41	NEG 1143 1145	No
+T42	NSCO 1146 1213	presentaba alteraciones en la auscultación cardiaca ni respiratoria
+T43	NEG 1669 1680	Ausencia de
+T44	NSCO 1681 1711	bandas oligoclonales en el LCR
+T45	NEG 1750 1753	sin
+T46	NEG 1852 1854	no
+T47	NSCO 1855 1873	captaban contraste
+T48	NEG 1894 1907	inespecíficas
+T49	NEG 1927 1930	sin
+T50	NSCO 1931 1951	hallazgos reseñables
+T51	NEG 2088 2097	descartar
+T52	NSCO 2098 2114	otras etiologías
+T53	UNC 2134 2142	sospecha
+T54	USCO 2143 2180	diagnóstica de migraña oftalmopléjica
+T55	NEG 2353 2361	retirada
+T56	FARMACO 1758 1767	gadolinio
+T57	FARMACO 2207 2224	metilprednisolona
+T58	FARMACO 2324 2334	prednisona
+T59	FARMACO 2449 2466	metilprednisolona
+T60	ORG_VIVO 10 15	Mujer
+T61	ORG_VIVO 474 501	médico de Atención Primaria
+T62	ORG_VIVO 758 766	paciente
+T63	ORG_VIVO 2683 2691	paciente
+T64	ENFERMEDAD 28 36	fumadora
+T65	ENFERMEDAD 59 80	endometriosis ovárica
+T66	ENFERMEDAD 158 166	diplopía
+T67	ENFERMEDAD 527 536	sinusitis
+T68	ENFERMEDAD 776 795	diplopía horizontal
+T69	ENFERMEDAD 1256 1282	paresia del VI par craneal
+T70	ENFERMEDAD 1301 1320	diplopía horizontal
+T71	ENFERMEDAD 1995 2017	Migraña oftalmopléjica
+T72	ENFERMEDAD 2158 2180	migraña oftalmopléjica
+T73	ENFERMEDAD 2471 2490	paresia oculomotora
+T74	SANITARIO-PROFESION 474 501	médico de Atención Primaria

@@ -1,0 +1,144 @@
+T1	SINTOMA 390 414	dolor en muslo y rodilla
+T2	SINTOMA 3057 3064	náuseas
+T3	SINTOMA 3067 3074	astenia
+T4	SINTOMA 5113 5118	dolor
+T5	SINTOMA 6438 6445	diarrea
+T6	SINTOMA 7530 7537	astenia
+T7	SINTOMA 7826 7837	falleciendo
+T8	PROCEDIMIENTO 549 569	resonancia magnética
+T9	PROCEDIMIENTO 571 573	RM
+T10	PROCEDIMIENTO 689 696	biopsia
+T11	PROCEDIMIENTO 792 837	tomografía axial computerizada (TAC) torácica
+T12	PROCEDIMIENTO 1174 1210	tomografía por emisión de positrones
+T13	PROCEDIMIENTO 1212 1215	PET
+T14	PROCEDIMIENTO 1235 1238	TAC
+T15	PROCEDIMIENTO 1439 1446	biopsia
+T16	PROCEDIMIENTO 1673 1695	Biopsia de lesión ósea
+T17	PROCEDIMIENTO 1881 1909	técnicas de inmuhistoquímica
+T18	PROCEDIMIENTO 2049 2094	Biopsia de lesión ósea con inmunohistoquímica
+T19	PROCEDIMIENTO 2207 2246	determinación inmunohistoquímica de ALK
+T20	PROCEDIMIENTO 2617 2656	tratamiento sistémico con quimioterapia
+T21	PROCEDIMIENTO 2732 2744	radioterapia
+T22	PROCEDIMIENTO 2846 2872	tratamiento quimioterápico
+T23	PROCEDIMIENTO 2898 2901	TAC
+T24	PROCEDIMIENTO 3257 3284	radioterapia estereotáctica
+T25	PROCEDIMIENTO 3286 3290	SBRT
+T26	PROCEDIMIENTO 3299 3302	TAC
+T27	PROCEDIMIENTO 3632 3644	radioterapia
+T28	PROCEDIMIENTO 3851 3874	radioterapia antiálgica
+T29	PROCEDIMIENTO 4020 4029	analgesia
+T30	PROCEDIMIENTO 4044 4052	opioides
+T31	PROCEDIMIENTO 4465 4473	opioides
+T32	PROCEDIMIENTO 4823 4826	TAC
+T33	PROCEDIMIENTO 5123 5132	analgesia
+T34	PROCEDIMIENTO 5597 5610	quimioterapia
+T35	PROCEDIMIENTO 5882 5889	biopsia
+T36	PROCEDIMIENTO 5930 5952	determinación de PD-L1
+T37	PROCEDIMIENTO 6625 6648	tratamiento antibiótico
+T38	PROCEDIMIENTO 6721 6733	coprocultivo
+T39	PROCEDIMIENTO 6857 6870	coprocultivos
+T40	PROCEDIMIENTO 7020 7031	corticoides
+T41	PROCEDIMIENTO 7347 7367	endoscopia digestiva
+T42	NEG 78 81	Sin
+T43	NSCO 82 166	antecedentes patológicos de interés ni reacciones alérgicas medicamentosas conocidas
+T44	NEG 220 222	No
+T45	NSCO 223 247	toma medicación habitual
+T46	NEG 335 338	sin
+T47	NSCO 339 368	antecedente traumático previo
+T48	UNC 760 768	probable
+T49	USCO 769 784	origen pulmonar
+T50	NEG 922 924	No
+T51	NSCO 925 962	se observan adenopatías mediastínicas
+T52	NEG 2009 2018	negativas
+T53	NSCO 2019 2028	para Ck20
+T54	NEG 2179 2181	no
+T55	NSCO 2182 2201	se encuentra mutado
+T56	NEG 2262 2270	negativa
+T57	NEG 2494 2496	no
+T58	NSCO 2497 2509	mutado y ALK
+T59	NEG 2510 2518	negativo
+T60	UNC 3494 3506	sugestiva de
+T61	USCO 3507 3525	lesión metastática
+T62	NEG 3679 3690	se suspende
+T63	NSCO 3691 3720	el tratamiento con pemetrexed
+T64	UNC 4299 4312	sugestivas de
+T65	USCO 4313 4323	metástasis
+T66	NEG 4517 4520	sin
+T67	NSCO 4521 4554	aparición de toxicidad de interés
+T68	NEG 4970 4981	Se suspende
+T69	NEG 5509 5511	no
+T70	NSCO 5512 5569	pequeña localmente avanzado o metastásico tras progresión
+T71	NEG 5674 5676	no
+T72	NSCO 5677 5711	cumple ninguno de los de exclusión
+T73	NEG 5968 5976	negativo
+T74	NEG 6575 6577	no
+T75	NSCO 6578 6613	asociando sintomatología infecciosa
+T76	NEG 6765 6776	ausencia de
+T77	NSCO 6777 6870	mejoría de la diarera con el tratamiento establecido y la negativización de los coprocultivos
+T78	UNC 6912 6920	probable
+T79	USCO 6921 6986	una etiología inmune secundaria al tratamiento del ensayo clínico
+T80	NEG 7122 7133	ausencia de
+T81	NSCO 7134 7149	mejoría clínica
+T82	NEG 7266 7268	no
+T83	NSCO 7269 7367	se considera necesaria la actitud de medidas adicionales ni de realización de endoscopia digestiva
+T84	FARMACO 2682 2692	cisplatino
+T85	FARMACO 2695 2705	pemetrexed
+T86	FARMACO 3181 3191	pemetrexed
+T87	FARMACO 3564 3574	pemetrexed
+T88	FARMACO 3710 3720	pemetrexed
+T89	FARMACO 3766 3775	docetaxel
+T90	FARMACO 4062 4071	fentanilo
+T91	FARMACO 4106 4115	denosumab
+T92	FARMACO 4192 4201	docetaxel
+T93	FARMACO 4492 4501	docetaxel
+T94	FARMACO 4661 4673	carboplatino
+T95	FARMACO 4678 4688	paclitaxel
+T96	FARMACO 5402 5414	tremelimumab
+T97	FARMACO 6337 6347	durvalumab
+T98	FARMACO 6360 6372	tremelimumab
+T99	FARMACO 6653 6665	eritromicina
+T100	FARMACO 7047 7064	metilprednisolona
+T101	FARMACO 7446 7463	metilprednisolona
+T102	ORG_VIVO 11 16	Mujer
+T103	ORG_VIVO 54 63	profesora
+T104	ORG_VIVO 249 254	Madre
+T105	ORG_VIVO 967 975	paciente
+T106	ORG_VIVO 2383 2391	paciente
+T107	ORG_VIVO 3597 3605	paciente
+T108	ORG_VIVO 3907 3915	paciente
+T109	ORG_VIVO 5040 5048	paciente
+T110	ORG_VIVO 5174 5182	paciente
+T111	ORG_VIVO 5468 5477	pacientes
+T112	ORG_VIVO 5623 5631	paciente
+T113	ORG_VIVO 5992 6000	paciente
+T114	ORG_VIVO 6194 6202	paciente
+T115	ORG_VIVO 6696 6714	Campylobacter coli
+T116	ORG_VIVO 7395 7403	paciente
+T117	ORG_VIVO 7658 7666	paciente
+T118	ORG_VIVO 7695 7703	paciente
+T119	ENFERMEDAD 121 156	reacciones alérgicas medicamentosas
+T120	ENFERMEDAD 276 293	neoplasia de mama
+T121	ENFERMEDAD 593 657	lesión lítica de 8 x 31 mm a nivel distal de la diáfisis femoral
+T122	ENFERMEDAD 728 784	metástasis de adenocarcinoma de probable origen pulmonar
+T123	ENFERMEDAD 853 890	nódulo pulmonar en el lóbulo superior
+T124	ENFERMEDAD 937 962	adenopatías mediastínicas
+T125	ENFERMEDAD 1258 1302	lesiones: una en el lóbulo pulmonar superior
+T126	ENFERMEDAD 2404 2437	adenocarcinoma de pulmón avanzado
+T127	ENFERMEDAD 2466 2481	metástasis ósea
+T128	ENFERMEDAD 2578 2595	tumores torácicos
+T129	ENFERMEDAD 2776 2791	nódulo pulmonar
+T130	ENFERMEDAD 2797 2820	metástasis ósea femoral
+T131	ENFERMEDAD 3237 3252	lesión pulmonar
+T132	ENFERMEDAD 3385 3400	nódulo pulmonar
+T133	ENFERMEDAD 3425 3457	lesión ósea a nivel de la cadera
+T134	ENFERMEDAD 3507 3525	lesión metastática
+T135	ENFERMEDAD 4238 4271	lesiones, en glándula suprarrenal
+T136	ENFERMEDAD 4313 4323	metástasis
+T137	ENFERMEDAD 4744 4752	neumonía
+T138	ENFERMEDAD 4769 4780	neutropenia
+T139	ENFERMEDAD 4937 4968	adenopatías axilares izquierdas
+T140	ENFERMEDAD 5482 5553	cáncer de pulmón de célula no pequeña localmente avanzado o metastásico
+T141	ENFERMEDAD 5904 5924	adenopatías axilares
+T142	ENFERMEDAD 7540 7560	miopatía corticoidea
+T143	ENFERMEDAD 7736 7762	sepsis de origen abdominal
+T144	PACIENTE-PROFESION 54 63	profesora

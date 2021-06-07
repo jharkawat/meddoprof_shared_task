@@ -1,0 +1,110 @@
+T1	SINTOMA 82 89	nauseas
+T2	SINTOMA 91 98	vómitos
+T3	SINTOMA 100 107	astenia
+T4	SINTOMA 109 117	mialgias
+T5	SINTOMA 120 126	fiebre
+T6	SINTOMA 131 151	sensación distérmica
+T7	SINTOMA 346 353	afebril
+T8	SINTOMA 403 415	taquicárdico
+T9	SINTOMA 498 510	leucocitosis
+T10	SINTOMA 1245 1256	trombopenia
+T11	SINTOMA 1297 1325	deterioro del estado general
+T12	SINTOMA 1331 1342	hipotensión
+T13	SINTOMA 1371 1393	deterioro respiratorio
+T14	SINTOMA 1544 1554	artralgias
+T15	SINTOMA 1556 1571	dolor abdominal
+T16	SINTOMA 1573 1577	rash
+T17	SINTOMA 1581 1599	exantemas cutáneos
+T18	SINTOMA 1612 1634	síntomas respiratorios
+T19	SINTOMA 1927 1953	deterioro de función renal
+T20	SINTOMA 2666 2688	deterioro respiratorio
+T21	SINTOMA 2773 2780	vómitos
+T22	SINTOMA 3569 3590	agitación psicomotriz
+T23	SINTOMA 3614 3625	trombopenia
+T24	SINTOMA 4020 4027	astenia
+T25	PROCEDIMIENTO 871 891	ecografía de abdomen
+T26	PROCEDIMIENTO 1350 1363	fluidoterapia
+T27	PROCEDIMIENTO 1968 1995	monitorización hemodinámica
+T28	PROCEDIMIENTO 2020 2033	fluidoterapia
+T29	PROCEDIMIENTO 2046 2064	drogas vasoactivas
+T30	PROCEDIMIENTO 2256 2268	hemocultivos
+T31	PROCEDIMIENTO 2270 2281	urocultivos
+T32	PROCEDIMIENTO 2283 2301	estudio serológico
+T33	PROCEDIMIENTO 2577 2598	cobertura antibiótica
+T34	PROCEDIMIENTO 2701 2723	intubación orotraqueal
+T35	PROCEDIMIENTO 2726 2755	ventilación mecánica invasiva
+T36	PROCEDIMIENTO 2817 2849	colocación de sonda nasogástrica
+T37	PROCEDIMIENTO 2863 2896	ampliándose cobertura antibiótica
+T38	PROCEDIMIENTO 3150 3168	estudio serológico
+T39	PROCEDIMIENTO 3179 3202	antibioterapia empírica
+T40	PROCEDIMIENTO 3340 3361	hemodiálisis continua
+T41	PROCEDIMIENTO 3762 3776	antibioterapia
+T42	NEG 346 353	afebril
+T43	NEG 963 966	sin
+T44	NSCO 967 991	hallazgos significativos
+T45	NEG 1013 1015	no
+T46	NSCO 1016 1055	dilatadas ni lesiones hepáticas/renales
+T47	NEG 1501 1503	no
+T48	NSCO 1504 1634	presentó en los días previos al ingreso artralgias, dolor abdominal, rash ni exantemas cutáneos, ni tampoco síntomas respiratorios
+T49	NEG 2074 2085	ausencia de
+T50	UNC 2086 2091	claro
+T51	USCO 2092 2107	foco infeccioso
+T52	NEG 2143 2146	sin
+T53	NSCO 2147 2194	enfermedades ni antecedentes previos de interés
+T54	UNC 2225 2232	posible
+T55	USCO 2233 2241	zoonosis
+T56	NEG 2964 2975	ausencia de
+T57	NSCO 2976 2987	crecimiento
+T58	UNC 3118 3129	sospecha de
+T59	USCO 3130 3138	zoonosis
+T60	NEG 3591 3594	sin
+T61	NSCO 3595 3625	muestra de LCR por trombopenia
+T62	FARMACO 2612 2623	Doxiciclina
+T63	FARMACO 2626 2639	Levofloxacino
+T64	FARMACO 2910 2921	Ceftriaxona
+T65	FARMACO 3779 3790	Ceftriaxona
+T66	ORG_VIVO 0 5	Varón
+T67	ORG_VIVO 12 17	años
+T68	ORG_VIVO 19 50	trabajador en pesca de cangrejo
+T69	ORG_VIVO 1081 1089	paciente
+T70	ORG_VIVO 1279 1287	paciente
+T71	ORG_VIVO 1492 1500	paciente
+T72	ORG_VIVO 1748 1756	pescador
+T73	ORG_VIVO 2127 2135	paciente
+T74	ORG_VIVO 2373 2376	VIH
+T75	ORG_VIVO 2379 2399	Bordetella pertussis
+T76	ORG_VIVO 2401 2420	Brucella abortus sp
+T77	ORG_VIVO 2422 2441	Bartonella henselae
+T78	ORG_VIVO 2444 2455	B. quintana
+T79	ORG_VIVO 2457 2467	Leptospira
+T80	ORG_VIVO 2469 2488	Chlamydia peumoniae
+T81	ORG_VIVO 2490 2508	Rickettsia conorii
+T82	ORG_VIVO 2510 2527	Coxiella burnetti
+T83	ORG_VIVO 2529 2539	Leishmania
+T84	ORG_VIVO 2541 2543	sp
+T85	ORG_VIVO 2545 2562	Toxoplasma gondii
+T86	ORG_VIVO 2792 2796	café
+T87	ORG_VIVO 3021 3031	Leptospira
+T88	ORG_VIVO 3253 3275	Leptospira interrogans
+T89	ORG_VIVO 3484 3490	Adulto
+T90	ORG_VIVO 3682 3696	Leptospira spp
+T91	ORG_VIVO 3898 3907	arrozales
+T92	ENFERMEDAD 184 206	gastroenteritis vírica
+T93	ENFERMEDAD 371 401	hipotensión arterial sistémica
+T94	ENFERMEDAD 936 961	insuficiencia renal aguda
+T95	ENFERMEDAD 1029 1055	lesiones hepáticas/renales
+T96	ENFERMEDAD 1161 1182	Gastroenteritis Aguda
+T97	ENFERMEDAD 1202 1227	insuficiencia renal aguda
+T98	ENFERMEDAD 1229 1242	rabdomiolisis
+T99	ENFERMEDAD 1245 1256	trombopenia
+T100	ENFERMEDAD 1912 1918	anemia
+T101	ENFERMEDAD 2233 2241	zoonosis
+T102	ENFERMEDAD 2324 2371	infección por Virus de Inmunodeficiencia Humana
+T103	ENFERMEDAD 3130 3138	zoonosis
+T104	ENFERMEDAD 3228 3275	enfermedad producida por Leptospira interrogans
+T105	ENFERMEDAD 3389 3427	insuficiencia respiratoria refractaria
+T106	ENFERMEDAD 3446 3490	Síndrome de Distress Respiratorio del Adulto
+T107	ENFERMEDAD 3614 3625	trombopenia
+T108	ENFERMEDAD 3729 3745	Síndrome de Weil
+T109	PACIENTE-PROFESION 1748 1756	pescador
+T110	PACIENTE-PROFESION 19 50	trabajador en pesca de cangrejo

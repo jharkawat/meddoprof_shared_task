@@ -1,0 +1,50 @@
+T1	SINTOMA 102 126	alteraciones de conducta
+T2	SINTOMA 434 454	ánimo apato- abúlico
+T3	SINTOMA 737 766	alteraciones sensoperceptivas
+T4	SINTOMA 777 790	alucinaciones
+T5	SINTOMA 2324 2353	sintomatología extrapiramidal
+T6	SINTOMA 2510 2539	alteraciones sensoperceptivas
+T7	PROCEDIMIENTO 279 321	tratamiento con Terapia Electro Convulsiva
+T8	PROCEDIMIENTO 1788 1816	Resonancia Magnética Craneal
+T9	PROCEDIMIENTO 1934 1948	SPECT cerebral
+T10	PROCEDIMIENTO 2112 2139	SPECT cerebral con DAT-SCAN
+T11	NEG 649 652	sin
+T12	NSCO 653 679	ponerlo en su conocimiento
+T13	NEG 848 859	desconocida
+T14	UNC 962 968	parece
+T15	USCO 969 984	haber empeorado
+T16	NEG 1325 1327	No
+T17	NSCO 1328 1380	se objetivan déficits de memoria o de reconocimiento
+T18	NEG 1391 1398	tampoco
+T19	NSCO 1399 1438	en los procesos de fijación y evocación
+T20	UNC 1454 1461	parecen
+T21	USCO 1462 1512	encontrarse dificultades en la atención focalizada
+T22	UNC 2148 2162	compatible con
+T23	USCO 2163 2193	afectación de ganglios basales
+T24	NEG 2485 2499	desapareciendo
+T25	NSCO 2500 2539	tanto las alteraciones sensoperceptivas
+T26	NEG 2678 2689	ausencia de
+T27	NSCO 2690 2717	un fondo afectivo depresivo
+T28	FARMACO 2853 2865	Escitalopram
+T29	FARMACO 2877 2886	Trazodona
+T30	FARMACO 2919 2931	Rivastigmina
+T31	ORG_VIVO 0 7	Manuela
+T32	ORG_VIVO 15 20	mujer
+T33	ORG_VIVO 381 388	enferma
+T34	ORG_VIVO 628 633	hijas
+T35	ORG_VIVO 1074 1079	hijos
+T36	ORG_VIVO 1082 1088	marido
+T37	ORG_VIVO 1113 1120	persona
+T38	ORG_VIVO 1231 1239	paciente
+T39	ORG_VIVO 2445 2453	paciente
+T40	ORG_VIVO 2809 2817	paciente
+T41	ENFERMEDAD 186 195	depresiva
+T42	ENFERMEDAD 1617 1626	depresivo
+T43	ENFERMEDAD 1659 1677	demencia depresiva
+T44	ENFERMEDAD 1680 1699	deterioro cognitivo
+T45	ENFERMEDAD 1818 1873	Lesiones seniles de la sustancia blanca a nivel frontal
+T46	ENFERMEDAD 1994 2018	hiperperfusión cerebelar
+T47	ENFERMEDAD 2077 2107	Enfermedad por Cuerpos de Lewy
+T48	ENFERMEDAD 2163 2213	afectación de ganglios basales, a nivel de putamen
+T49	ENFERMEDAD 2286 2319	deterioro cognitivo leve-moderado
+T50	ENFERMEDAD 2386 2414	Demencia por cuerpos de Lewy

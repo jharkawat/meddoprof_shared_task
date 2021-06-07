@@ -1,0 +1,18 @@
+T1	SINTOMA 31 51	tumoración parotídea
+T2	PROCEDIMIENTO 249 280	TC con contraste I.V. de cuello
+T3	PROCEDIMIENTO 436 464	PAAF en tumoración parotídea
+T4	PROCEDIMIENTO 500 537	paratoidectomía suprafacial izquierda
+T5	PROCEDIMIENTO 836 849	quimioterapia
+T6	PROCEDIMIENTO 852 864	radioterapia
+T7	NEG 176 178	no
+T8	NSCO 179 206	adherida a planos profundos
+T9	NEG 209 211	no
+T10	NSCO 212 235	dolorosa a la palpación
+T11	NEG 474 476	no
+T12	NSCO 477 488	concluyente
+T13	NEG 553 556	sin
+T14	NSCO 557 568	incidencias
+T15	ORG_VIVO 0 5	Varón
+T16	ENFERMEDAD 370 394	adenopatías en nivel IIB
+T17	ENFERMEDAD 650 682	Carcinoma Oncocítico de Parótida
+T18	ENFERMEDAD 694 717	metástasis ganglionares

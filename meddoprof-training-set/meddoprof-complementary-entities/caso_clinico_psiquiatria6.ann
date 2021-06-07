@@ -1,0 +1,86 @@
+T1	SINTOMA 99 120	alteración conductual
+T2	SINTOMA 295 342	fumadora de medio paquete de cigarrillos diario
+T3	SINTOMA 541 549	ansiedad
+T4	NEG 344 349	niega
+T5	NSCO 350 374	consumo de otros tóxicos
+T6	NEG 625 636	incapacidad
+T7	NEG 937 939	no
+T8	NSCO 940 962	hay muy buena relación
+T9	NEG 1001 1003	no
+T10	NSCO 1004 1022	le presta atención
+T11	NEG 1278 1280	no
+T12	NSCO 1281 1297	se sentía seguro
+T13	NEG 1410 1412	no
+T14	NSCO 1413 1429	hacía las tareas
+T15	NEG 1555 1557	no
+T16	NSCO 1558 1571	pueden seguir
+T17	NEG 1614 1616	no
+T18	NSCO 1617 1632	es como siempre
+T19	UNC 1773 1780	no sabe
+T20	USCO 1781 1785	cuál
+T21	NEG 1894 1896	no
+T22	NSCO 1897 1914	sabiendo muy bien
+T23	NEG 2052 2054	no
+T24	NSCO 2055 2070	lo quiere hacer
+T25	NEG 2093 2095	no
+T26	NSCO 2096 2106	son suyas"
+T27	NEG 2131 2133	no
+T28	NSCO 2134 2162	le dejan pensar con claridad
+T29	NEG 2341 2343	no
+T30	NSCO 2344 2350	quería
+T31	NEG 2494 2496	no
+T32	NSCO 2497 2517	tiene ninguna crisis
+T33	UNC 2648 2654	Parece
+T34	USCO 2655 2658	que
+T35	UNC 2659 2666	no sabe
+T36	USCO 2667 2685	muy bien qué decir
+T37	UNC 2904 2910	Parece
+T38	USCO 2911 2957	que quiera luchar contra las voces del demonio
+T39	NEG 3002 3004	no
+T40	NSCO 3005 3027	se relaciona con nadie
+T41	NEG 3257 3259	no
+T42	NSCO 3260 3279	hace cosas extrañas
+T43	NEG 3303 3308	no de
+T44	NSCO 3309 3318	la manera
+T45	NEG 3450 3452	no
+T46	NSCO 3453 3466	puede ser así
+T47	NEG 3533 3535	no
+T48	NSCO 3536 3557	quiere estar aquí más
+T49	NEG 3563 3565	no
+T50	NSCO 3566 3583	le pasa nada malo
+T51	FARMACO 469 476	Xeplión
+T52	FARMACO 494 506	Lormetazepam
+T53	FARMACO 518 529	Trankimazin
+T54	FARMACO 3707 3717	Olanzapina
+T55	FARMACO 3719 3731	Lormetazepam
+T56	FARMACO 3733 3742	Risperdal
+T57	FARMACO 3801 3809	nicotina
+T58	ORG_VIVO 7 15	paciente
+T59	ORG_VIVO 385 393	familiar
+T60	ORG_VIVO 806 811	hijos
+T61	ORG_VIVO 845 850	chica
+T62	ORG_VIVO 886 892	marido
+T63	ORG_VIVO 929 936	familia
+T64	ORG_VIVO 967 971	hija
+T65	ORG_VIVO 986 998	adolescencia
+T66	ORG_VIVO 1058 1062	hija
+T67	ORG_VIVO 1082 1086	hijo
+T68	ORG_VIVO 1122 1128	marido
+T69	ORG_VIVO 1222 1228	marido
+T70	ORG_VIVO 1390 1396	marido
+T71	ORG_VIVO 1489 1496	familia
+T72	ORG_VIVO 1655 1663	paciente
+T73	ORG_VIVO 1820 1826	marido
+T74	ORG_VIVO 1993 1998	gente
+T75	ORG_VIVO 2623 2628	gente
+T76	ORG_VIVO 3090 3098	personas
+T77	ORG_VIVO 3130 3139	compañera
+T78	ORG_VIVO 3159 3166	anciana
+T79	ENFERMEDAD 161 184	psicosis inespecificada
+T80	ENFERMEDAD 236 256	tentativa autolítica
+T81	ENFERMEDAD 265 290	espondilitis anquilosante
+T82	ENFERMEDAD 427 440	esquizofrenia
+T83	ENFERMEDAD 541 549	ansiedad
+T84	PACIENTE-PROFESION 570 613	Ha trabajado en varias empresas de limpieza
+T85	PACIENTE-SITUACION_LABORAL 615 644	Tiene una incapacidad del 52%
+T86	OTROS-PROFESION 3516 3522	Mossos

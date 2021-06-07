@@ -1,0 +1,66 @@
+T1	SINTOMA 386 404	urgencia miccional
+T2	SINTOMA 437 459	incontinencia urinaria
+T3	SINTOMA 464 471	disuria
+T4	SINTOMA 476 487	polaquiuria
+T5	SINTOMA 492 507	tenesmo vesical
+T6	SINTOMA 537 544	Afebril
+T7	SINTOMA 635 673	Abdomen globuloso y blando, depresible
+T8	SINTOMA 704 722	urgencia miccional
+T9	SINTOMA 755 780	masa en FID e hipogastrio
+T10	SINTOMA 808 819	peritonismo
+T11	PROCEDIMIENTO 1867 1886	anexectomía derecha
+T12	PROCEDIMIENTO 1889 1902	quimioterapia
+T13	NEG 127 129	no
+T14	NSCO 130 153	alergias medicamentosas
+T15	NEG 461 463	No
+T16	NSCO 464 471	disuria
+T17	NEG 473 475	no
+T18	NSCO 476 487	polaquiuria
+T19	NEG 489 491	no
+T20	NSCO 492 507	tenesmo vesical
+T21	NEG 509 511	No
+T22	NSCO 512 535	síndrome constitucional
+T23	NEG 537 544	Afebril
+T24	NEG 782 784	No
+T25	NSCO 785 793	megalias
+T26	NEG 795 797	No
+T27	NSCO 798 819	signos de peritonismo
+T28	NEG 935 938	sin
+T29	NSCO 939 951	alteraciones
+T30	NEG 1026 1035	negativos
+T31	UNC 1173 1181	Sospecha
+T32	USCO 1182 1196	origen anexial
+T33	NEG 1198 1200	No
+T34	NSCO 1201 1214	líquido libre
+T35	NEG 1223 1226	sin
+T36	NSCO 1227 1247	alteraciones murales
+T37	NEG 1255 1258	sin
+T38	NSCO 1259 1268	hallazgos
+T39	NEG 1287 1289	no
+T40	NSCO 1290 1299	dilatados
+T41	FARMACO 240 250	Bisoprolol
+T42	FARMACO 265 276	Candesartán
+T43	FARMACO 283 295	Sitagliptina
+T44	FARMACO 310 320	Metformina
+T45	FARMACO 353 356	AAS
+T46	FARMACO 1907 1917	cisplatino
+T47	ORG_VIVO 109 114	Mujer
+T48	ORG_VIVO 367 375	paciente
+T49	ORG_VIVO 1544 1552	familiar
+T50	ORG_VIVO 1580 1587	Familia
+T51	ORG_VIVO 1633 1641	familiar
+T52	ORG_VIVO 1821 1829	paciente
+T53	ENFERMEDAD 130 153	alergias medicamentosas
+T54	ENFERMEDAD 155 159	FRCV
+T55	ENFERMEDAD 161 164	HTA
+T56	ENFERMEDAD 166 169	DM2
+T57	ENFERMEDAD 171 181	Dislipemia
+T58	ENFERMEDAD 183 216	Neuropatía leve sensitiva en MMII
+T59	ENFERMEDAD 437 459	incontinencia urinaria
+T60	ENFERMEDAD 512 535	síndrome constitucional
+T61	ENFERMEDAD 1060 1138	Lesión quística de unos 14x10cm que ocupa hemipelvis derecha hasta mesogastrio
+T62	ENFERMEDAD 1216 1222	Vejiga
+T63	ENFERMEDAD 1365 1383	Malignidad Ovárica
+T64	ENFERMEDAD 1451 1469	Tumoración anexial
+T65	ENFERMEDAD 1752 1768	Neoplasia ovario
+T66	PACIENTE-SITUACION_LABORAL 1567 1578	Ama de casa

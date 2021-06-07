@@ -1,0 +1,85 @@
+T1	SINTOMA 232 248	fiebre subjetiva
+T2	SINTOMA 260 267	astenia
+T3	SINTOMA 269 277	adinamia
+T4	SINTOMA 279 287	mialgias
+T5	SINTOMA 289 299	odinofagia
+T6	SINTOMA 301 309	tos seca
+T7	SINTOMA 325 340	desvanecimiento
+T8	SINTOMA 927 935	exantema
+T9	SINTOMA 947 966	déficit neurológico
+T10	SINTOMA 1398 1408	leucopenia
+T11	SINTOMA 1481 1496	trombocitopenia
+T12	SINTOMA 1646 1653	afebril
+T13	SINTOMA 1720 1730	leucopenia
+T14	SINTOMA 1742 1757	trombocitopenia
+T15	SINTOMA 2782 2792	leucopenia
+T16	SINTOMA 2804 2819	trombocitopenia
+T17	SINTOMA 2912 2919	náuseas
+T18	SINTOMA 2924 2930	vómito
+T19	SINTOMA 3042 3056	picos febriles
+T20	SINTOMA 3090 3118	manifestaciones hemorrágicas
+T21	SINTOMA 3634 3640	fiebre
+T22	PROCEDIMIENTO 981 994	examen físico
+T23	PROCEDIMIENTO 1115 1136	líquidos intravenosos
+T24	PROCEDIMIENTO 1619 1632	examen físico
+T25	PROCEDIMIENTO 1916 1937	líquidos intravenosos
+T26	PROCEDIMIENTO 1939 1952	antipiréticos
+T27	PROCEDIMIENTO 2368 2397	inmunofluorescencia indirecta
+T28	PROCEDIMIENTO 3072 3085	examen físico
+T29	NEG 396 404	negativa
+T30	NEG 470 473	sin
+T31	NSCO 474 491	presentar mejoría
+T32	NEG 519 521	no
+T33	NSCO 522 539	fueron relevantes
+T34	NEG 894 897	sin
+T35	NSCO 898 909	adenopatías
+T36	NEG 911 913	No
+T37	NSCO 914 966	se evidenció exantema en piel ni déficit neurológico
+T38	NEG 1601 1604	sin
+T39	NSCO 1605 1632	cambios en el examen físico
+T40	NEG 1646 1653	afebril
+T41	UNC 1821 1829	sospecha
+T42	USCO 1830 1847	clínica de dengue
+T43	NEG 1848 1851	sin
+T44	NSCO 1852 1868	signos de alarma
+T45	NEG 2920 2923	sin
+T46	NSCO 2924 2973	vómito en los dos últimos días de hospitalización
+T47	NEG 3011 3018	Tampoco
+T48	NSCO 3019 3118	se documentaron nuevos picos febriles, cambios en el examen físico, ni manifestaciones hemorrágicas
+T49	NEG 3437 3445	negativa
+T50	FARMACO 442 454	acetaminofén
+T51	FARMACO 457 468	amoxicilina
+T52	FARMACO 1100 1112	acetaminofén
+T53	FARMACO 2995 3009	metoclopramida
+T54	ORG_VIVO 15 26	adolescente
+T55	ORG_VIVO 113 137	estudiante de secundaria
+T56	ORG_VIVO 409 417	paciente
+T57	ORG_VIVO 544 552	paciente
+T58	ORG_VIVO 574 582	caballos
+T59	ORG_VIVO 584 589	gatos
+T60	ORG_VIVO 592 598	perros
+T61	ORG_VIVO 668 678	artrópodos
+T62	ORG_VIVO 750 758	paciente
+T63	ORG_VIVO 1545 1553	paciente
+T64	ORG_VIVO 2238 2246	paciente
+T65	ORG_VIVO 2447 2460	R. rickettsii
+T66	ORG_VIVO 2462 2473	cepa Taiaçu
+T67	ORG_VIVO 2475 2483	R. felis
+T68	ORG_VIVO 2486 2499	R. amblyommii
+T69	ORG_VIVO 2501 2506	cepas
+T70	ORG_VIVO 2535 2543	R. akari
+T71	ORG_VIVO 2545 2555	R. parkeri
+T72	ORG_VIVO 2558 2566	R. typhi
+T73	ORG_VIVO 2568 2573	cepas
+T74	ORG_VIVO 2688 2696	paciente
+T75	ORG_VIVO 3149 3157	paciente
+T76	ORG_VIVO 3490 3498	R. felis
+T77	ENFERMEDAD 655 678	picadura por artrópodos
+T78	ENFERMEDAD 898 909	adenopatías
+T79	ENFERMEDAD 1049 1071	laringitis viral aguda
+T80	ENFERMEDAD 1841 1847	dengue
+T81	ENFERMEDAD 2049 2074	infección por rickettsias
+T82	ENFERMEDAD 2782 2792	leucopenia
+T83	ENFERMEDAD 2804 2819	trombocitopenia
+T84	ENFERMEDAD 3365 3378	rickettsiosis
+T85	PACIENTE-SITUACION_LABORAL 113 137	estudiante de secundaria

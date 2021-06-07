@@ -1,0 +1,127 @@
+T1	SINTOMA 1243 1266	alucinaciones auditivas
+T2	SINTOMA 1274 1293	retraimiento social
+T3	SINTOMA 2231 2250	retraimiento social
+T4	SINTOMA 2265 2271	abulia
+T5	SINTOMA 2274 2283	anhedonia
+T6	SINTOMA 2686 2693	delirio
+T7	SINTOMA 2916 2923	delirio
+T8	SINTOMA 4759 4768	orientado
+T9	SINTOMA 4847 4876	sintomatología extrapiramidal
+T10	SINTOMA 4911 4947	Embotamiento afectivo contacto pobre
+T11	SINTOMA 5420 5443	alucinaciones auditivas
+T12	PROCEDIMIENTO 209 241	tratamientos psicofarmacológicos
+T13	PROCEDIMIENTO 3865 3897	tratamientos psicofarmacológicos
+T14	PROCEDIMIENTO 3930 3957	Tratamientos farmacológicos
+T15	PROCEDIMIENTO 4437 4451	antidepresivos
+T16	PROCEDIMIENTO 4494 4534	escitalopram.n Terapia electroconvulsiva
+T17	PROCEDIMIENTO 5706 5717	RMN craneal
+T18	PROCEDIMIENTO 5807 5816	hemograma
+T19	PROCEDIMIENTO 5831 5847	función hormonal
+T20	NEG 316 319	sin
+T21	NSCO 320 353	antecedentes somáticos de interés
+T22	UNC 381 395	compatible con
+T23	USCO 396 412	esquizofrenia de
+T24	NEG 2100 2102	no
+T25	NSCO 2103 2143	elabora una trama delirante estructurada
+T26	NEG 2155 2167	se evidencia
+T27	NSCO 2168 2198	la presencia de sintomatología
+T28	NEG 2199 2207	negativa
+T29	NEG 2667 2670	sin
+T30	NSCO 2671 2771	cesar nunca el delirio de perjuicio ni llegar a adquirir un mayor nivel de autonomía y funcionalidad
+T31	NEG 3357 3359	no
+T32	NSCO 3360 3404	se evidencia una mejoría clínica ni afectiva
+T33	NEG 4626 4628	no
+T34	NSCO 4629 4653	se mantiene en el tiempo
+T35	UNC 4833 4846	impresiona de
+T36	USCO 4847 4876	sintomatología extrapiramidal
+T37	NEG 4890 4898	negativa
+T38	NSCO 5062 5171	Interpreta en los desconocidos el toser o rascarse la cabeza como señales para que deje de fumar o se suicide
+T39	NEG 5390 5392	No
+T40	NSCO 5393 5412	ideación autolítica
+T41	NEG 5414 5419	Niega
+T42	NSCO 5420 5443	alucinaciones auditivas
+T43	NEG 5718 5721	sin
+T44	NSCO 5722 5746	hallazgos significativos
+T45	NEG 5885 5894	negativas
+T46	NEG 6194 6211	En ningún momento
+T47	NSCO 6212 6269	se objetivan episodios con predominio de clínica afectiva
+T48	UNC 6289 6297	posibles
+T49	USCO 6298 6361	diagnósticos como trastorno esquizoafectivo o trastorno bipolar
+T50	UNC 6418 6431	aparentemente
+T51	USCO 6432 6452	inducida por tóxicos
+T52	NEG 6725 6730	niega
+T53	NSCO 6731 6774	la presencia de interpretaciones delirantes
+T54	NEG 6944 6954	incapaz de
+T55	NSCO 6955 6960	hacer
+T56	UNC 7097 7104	posible
+T57	USCO 7105 7147	reaparición de interpretaciones delirantes
+T58	NEG 8036 8044	negativa
+T59	FARMACO 3719 3730	anfetaminas
+T60	FARMACO 3983 3994	haloperidol
+T61	FARMACO 4043 4053	olanzapina
+T62	FARMACO 4078 4090	paliperidona
+T63	FARMACO 4115 4124	clozapina
+T64	FARMACO 4150 4161	risperidona
+T65	FARMACO 4218 4230	paliperidona
+T66	FARMACO 4233 4243	olanzapina
+T67	FARMACO 4268 4280	paliperidona
+T68	FARMACO 4283 4294	perfenazina
+T69	FARMACO 4318 4327	clozapina
+T70	FARMACO 4330 4341	amisulprida
+T71	FARMACO 4367 4376	clozapina
+T72	FARMACO 4379 4390	haloperidol
+T73	FARMACO 4392 4401	clozapina
+T74	FARMACO 4404 4415	aripiprazol
+T75	FARMACO 4481 4492	venlafaxina
+T76	FARMACO 5923 5932	clozapina
+T77	FARMACO 5935 5947	norclozapina
+T78	ORG_VIVO 0 14	Paciente varón
+T79	ORG_VIVO 280 290	personales
+T80	ORG_VIVO 307 315	paciente
+T81	ORG_VIVO 596 602	padres
+T82	ORG_VIVO 613 621	hermanos
+T83	ORG_VIVO 659 665	pareja
+T84	ORG_VIVO 681 691	familiares
+T85	ORG_VIVO 735 740	madre
+T86	ORG_VIVO 743 757	abuela materna
+T87	ORG_VIVO 924 933	compañero
+T88	ORG_VIVO 1154 1175	compañeros de trabajo
+T89	ORG_VIVO 1208 1216	familiar
+T90	ORG_VIVO 1322 1328	pareja
+T91	ORG_VIVO 1456 1464	paciente
+T92	ORG_VIVO 1560 1566	paloma
+T93	ORG_VIVO 2557 2565	paciente
+T94	ORG_VIVO 3183 3191	paciente
+T95	ORG_VIVO 3508 3514	tabaco
+T96	ORG_VIVO 3552 3560	cannabis
+T97	ORG_VIVO 3785 3793	paciente
+T98	ORG_VIVO 5052 5060	paciente
+T99	ORG_VIVO 5539 5547	familiar
+T100	ORG_VIVO 6022 6030	paciente
+T101	ORG_VIVO 6716 6724	paciente
+T102	ORG_VIVO 6965 6972	familia
+T103	ORG_VIVO 7325 7332	familia
+T104	ORG_VIVO 7384 7392	paciente
+T105	ORG_VIVO 7618 7628	psiquiatra
+T106	ORG_VIVO 7813 7821	paciente
+T107	ORG_VIVO 7889 7899	psiquiatra
+T108	ORG_VIVO 8108 8115	familia
+T109	ORG_VIVO 8166 8175	amistades
+T110	ENFERMEDAD 101 121	Psicosis Refractaria
+T111	ENFERMEDAD 396 409	esquizofrenia
+T112	ENFERMEDAD 719 728	depresión
+T113	ENFERMEDAD 760 777	ENFERMEDAD ACTUAL
+T114	ENFERMEDAD 790 808	eclosión psicótica
+T115	ENFERMEDAD 1069 1077	ansiedad
+T116	ENFERMEDAD 1372 1397	descompensación psicótica
+T117	ENFERMEDAD 1641 1656	fracturas óseas
+T118	ENFERMEDAD 2355 2363	Psicosis
+T119	ENFERMEDAD 5236 5242	muerte
+T120	ENFERMEDAD 6316 6341	trastorno esquizoafectivo
+T121	ENFERMEDAD 6344 6361	trastorno bipolar
+T122	ENFERMEDAD 6404 6452	esquizofrenia aparentemente inducida por tóxicos
+T123	OTROS-SITUACION_LABORAL 924 933	compañero
+T124	OTROS-SITUACION_LABORAL 1154 1175	compañeros de trabajo
+T125	SANITARIO-PROFESION 7618 7628	psiquiatra
+T126	SANITARIO-PROFESION 7889 7899	psiquiatra
+T127	PACIENTE-SITUACION_LABORAL 522 548	Había mantenido su trabajo

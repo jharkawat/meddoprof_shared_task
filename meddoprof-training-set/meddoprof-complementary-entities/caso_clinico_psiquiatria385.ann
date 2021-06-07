@@ -1,0 +1,46 @@
+T1	SINTOMA 3064 3084	autoimagen inestable
+T2	SINTOMA 4433 4449	escasa autovalía
+T3	PROCEDIMIENTO 1991 2012	pruebas psicométricas
+T4	PROCEDIMIENTO 2334 2353	exploración clínica
+T5	NEG 205 207	no
+T6	NSCO 208 222	fuese más allá
+T7	UNC 795 810	desconocida con
+T8	USCO 811 846	la que mantenía relación telefónica
+T9	NEG 1438 1441	sin
+T10	NSCO 1442 1492	posibilidad de respuesta por parte de las víctimas
+T11	NEG 1635 1637	No
+T12	NSCO 1638 1680	se encontraron alteraciones significativas
+T13	NEG 1875 1877	no
+T14	NSCO 1878 1891	gubernamental
+T15	NEG 2018 2020	no
+T16	NSCO 2021 2097	resultaron válidas en lo que respecta al cálculo del coeficiente intelectual
+T17	NEG 3075 3084	inestable
+T18	NEG 3908 3911	sin
+T19	NSCO 3912 3988	participación activa en las decisiones derivadas de la convivencia en pareja
+T20	NEG 4107 4118	ausencia de
+T21	NSCO 4119 4145	persistencia de esta en la
+T22	NEG 4146 4154	negativa
+T23	NSCO 4155 4185	a mantener relaciones sexuales
+T24	ORG_VIVO 241 245	hija
+T25	ORG_VIVO 442 449	víctima
+T26	ORG_VIVO 611 617	pareja
+T27	ORG_VIVO 1762 1776	médico forense
+T28	ORG_VIVO 1845 1854	psicólogo
+T29	ORG_VIVO 1908 1917	psicóloga
+T30	ORG_VIVO 2598 2604	pareja
+T31	ORG_VIVO 2706 2712	pareja
+T32	ORG_VIVO 2797 2807	familiares
+T33	ORG_VIVO 2908 2914	pareja
+T34	ORG_VIVO 3033 3041	personas
+T35	ORG_VIVO 3518 3524	pareja
+T36	ORG_VIVO 3572 3578	pareja
+T37	ORG_VIVO 3799 3806	mujeres
+T38	ORG_VIVO 3838 3846	femenino
+T39	ORG_VIVO 3901 3906	hijos
+T40	ORG_VIVO 3982 3988	pareja
+T41	ORG_VIVO 4065 4071	pareja
+T42	ENFERMEDAD 1809 1823	retraso mental
+T43	ENFERMEDAD 3761 3784	distorsiones cognitivas
+T44	PACIENTE-SITUACION_LABORAL 1719 1729	en prisión
+T45	SANITARIO-PROFESION 1908 1925	psicóloga forense
+T46	SANITARIO-PROFESION 1845 1891	psicólogo de una organización no gubernamental

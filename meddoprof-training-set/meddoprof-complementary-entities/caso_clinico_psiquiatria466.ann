@@ -1,0 +1,130 @@
+T1	SINTOMA 1579 1602	alucinaciones auditivas
+T2	SINTOMA 1638 1653	insomnio global
+T3	SINTOMA 1720 1738	síntomas positivos
+T4	SINTOMA 4004 4028	sintomatología depresiva
+T5	SINTOMA 4033 4052	síntomas psicóticos
+T6	SINTOMA 4101 4122	enlentecimiento motor
+T7	SINTOMA 4124 4137	irritabilidad
+T8	SINTOMA 4140 4146	llanto
+T9	SINTOMA 4167 4189	alucinaciones visuales
+T10	SINTOMA 4191 4206	insomnio global
+T11	SINTOMA 4208 4216	ansiedad
+T12	SINTOMA 4306 4325	síntomas psicóticos
+T13	SINTOMA 5985 5994	sialorrea
+T14	SINTOMA 6433 6451	síntomas positivos
+T15	SINTOMA 6928 6941	fallecimiento
+T16	PROCEDIMIENTO 489 504	estudios de EGB
+T17	PROCEDIMIENTO 1057 1087	tratamiento psicofarmacológico
+T18	PROCEDIMIENTO 2766 2778	Radiografías
+T19	PROCEDIMIENTO 2827 2847	Radiografía de tórax
+T20	PROCEDIMIENTO 2883 2905	Radiografía de abdomen
+T21	PROCEDIMIENTO 3101 3112	TAC craneal
+T22	PROCEDIMIENTO 3338 3368	Ecografía del aparato urinario
+T23	PROCEDIMIENTO 3672 3679	Doppler
+T24	PROCEDIMIENTO 5649 5674	terapia electroconvulsiva
+T25	NEG 354 357	sin
+T26	NSCO 358 363	hijos
+T27	NEG 740 751	incapacidad
+T28	NEG 895 898	sin
+T29	NSCO 899 914	hábitos tóxicos
+T30	NEG 950 952	no
+T31	NSCO 953 980	constan antecedentes médico
+T32	NEG 1497 1500	sin
+T33	NSCO 1501 1556	constituir un episodio afectivo mayor propiamente dicho
+T34	NEG 2485 2493	negativo
+T35	NEG 2727 2730	sin
+T36	NSCO 2731 2764	alteraciones en la repolarización
+T37	NEG 2780 2783	sin
+T38	NSCO 2784 2847	alteraciones radiológicas significativas.n Radiografía de tórax
+T39	NEG 3065 3068	Sin
+T40	NSCO 3069 3099	otros hallazgos significativos
+T41	NEG 3122 3125	sin
+T42	NSCO 3126 3147	contraste intravenoso
+T43	NEG 3149 3152	Sin
+T44	NSCO 3153 3237	alteraciones en la diferenciación estructural de la sustancia blanca o gris cerebral
+T45	NEG 3301 3304	sin
+T46	NSCO 3305 3314	anomalías
+T47	NEG 3430 3433	sin
+T48	NSCO 3434 3444	uroectasia
+T49	NEG 3470 3473	sin
+T50	NSCO 3474 3507	evidencia de contenido patológico
+T51	NEG 3680 3688	negativo
+T52	UNC 3786 3801	compatibles con
+T53	USCO 3802 3815	la normalidad
+T54	NEG 3817 3819	No
+T55	NSCO 3820 3869	se observan colecciones líquidas intraabdominales
+T56	NEG 3871 3874	Sin
+T57	NSCO 3875 3901	otros hallazgos valorables
+T58	NEG 4441 4449	cediendo
+T59	NSCO 4450 4470	la clínica depresiva
+T60	NEG 4471 4473	no
+T61	NSCO 4474 4505	así la sintomatología psicótica
+T62	NEG 4703 4705	no
+T63	NSCO 4706 4736	se ha apreciado psicopatología
+T64	UNC 4737 4751	compatible con
+T65	USCO 4752 4780	clínica hipertímica ni mixta
+T66	NEG 5518 5529	retirada de
+T67	NSCO 5530 5543	dicho fármaco
+T68	NEG 5911 5913	No
+T69	NSCO 5914 5971	se evidenciaron efectos secundarios durante la titulación
+T70	NEG 6792 6795	sin
+T71	NSCO 6796 6813	remisión completa
+T72	UNC 6961 6975	impresionan de
+T73	USCO 6976 6999	tener una base obsesiva
+T74	NEG 7573 7575	no
+T75	NSCO 7576 7619	solo ha mejorado la clínica psicopatológica
+T76	FARMACO 2100 2109	clozapina
+T77	FARMACO 2552 2561	clozapina
+T78	FARMACO 4401 4412	venlafaxina
+T79	FARMACO 4422 4433	ziprasidona
+T80	FARMACO 5268 5279	ziprasidona
+T81	FARMACO 5281 5292	haloperidol
+T82	FARMACO 5294 5305	aripiprazol
+T83	FARMACO 5307 5319	paliperidona
+T84	FARMACO 5321 5332	risperidona
+T85	FARMACO 5334 5344	olanzapina
+T86	FARMACO 5346 5356	clotiapina
+T87	FARMACO 5413 5425	paliperidona
+T88	FARMACO 5790 5799	clozapina
+T89	ORG_VIVO 0 5	Mujer
+T90	ORG_VIVO 181 189	paciente
+T91	ORG_VIVO 288 298	personales
+T92	ORG_VIVO 321 328	fratría
+T93	ORG_VIVO 334 342	hermanos
+T94	ORG_VIVO 358 363	hijos
+T95	ORG_VIVO 406 413	hermano
+T96	ORG_VIVO 421 426	madre
+T97	ORG_VIVO 447 453	padres
+T98	ORG_VIVO 571 582	dependienta
+T99	ORG_VIVO 852 859	persona
+T100	ORG_VIVO 2474 2477	VIH
+T101	ORG_VIVO 2480 2484	lúes
+T102	ORG_VIVO 3919 3927	paciente
+T103	ORG_VIVO 5133 5141	paciente
+T104	ORG_VIVO 5738 5746	paciente
+T105	ORG_VIVO 5999 6007	paciente
+T106	ORG_VIVO 6945 6955	familiares
+T107	ORG_VIVO 7288 7298	familiares
+T108	ORG_VIVO 7318 7326	paciente
+T109	ORG_VIVO 7392 7400	familiar
+T110	ORG_VIVO 7468 7476	paciente
+T111	ORG_VIVO 7521 7529	paciente
+T112	ORG_VIVO 7837 7845	paciente
+T113	ENFERMEDAD 34 57	esquizofrenia paranoide
+T114	ENFERMEDAD 59 71	F20.0 CIE-10
+T115	ENFERMEDAD 786 803	enfermedad mental
+T116	ENFERMEDAD 1010 1018	obesidad
+T117	ENFERMEDAD 1092 1125	alérgica a penicilina y derivados
+T118	ENFERMEDAD 2458 2469	hepatitis B
+T119	ENFERMEDAD 3550 3567	esteatosis difusa
+T120	ENFERMEDAD 4004 4028	sintomatología depresiva
+T121	ENFERMEDAD 4208 4216	ansiedad
+T122	ENFERMEDAD 4286 4301	depresivo grave
+T123	ENFERMEDAD 4481 4505	sintomatología psicótica
+T124	ENFERMEDAD 4636 4657	descompensación aguda
+T125	ENFERMEDAD 4949 4974	trastorno esquizoafectivo
+T126	ENFERMEDAD 4976 4986	F25 CIE-10
+T127	PACIENTE-PROFESION 604 612	camarera
+T128	PACIENTE-SITUACION_LABORAL 506 538	Ha desempeñado diversos trabajos
+T129	PACIENTE-PROFESION 571 601	dependienta en un supermercado
+T130	PACIENTE-SITUACION_LABORAL 740 770	incapacidad laboral permanente

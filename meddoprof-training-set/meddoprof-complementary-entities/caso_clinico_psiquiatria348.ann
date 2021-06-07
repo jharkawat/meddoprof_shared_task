@@ -1,0 +1,28 @@
+T1	SINTOMA 93 116	alucinaciones auditivas
+T2	SINTOMA 565 575	Consciente
+T3	SINTOMA 578 587	orientada
+T4	SINTOMA 776 799	Alucinaciones auditivas
+T5	NEG 372 375	Sin
+T6	NSCO 376 412	valoraciones previas por psiquiatría
+T7	NEG 545 548	sin
+T8	NSCO 549 562	secundarismos
+T9	NEG 822 824	No
+T10	NSCO 825 844	ideación autolítica
+T11	NEG 1130 1144	suspensión del
+T12	NSCO 1145 1168	tratamiento con azilect
+T13	FARMACO 457 465	levodopa
+T14	FARMACO 467 476	carbidopa
+T15	FARMACO 478 488	entacapona
+T16	FARMACO 994 1002	levodopa
+T17	FARMACO 1030 1040	quetiapina
+T18	FARMACO 1161 1168	azilect
+T19	FARMACO 1171 1177	neupro
+T20	FARMACO 1192 1200	levodopa
+T21	ORG_VIVO 0 8	Paciente
+T22	ORG_VIVO 167 174	vecinos
+T23	ORG_VIVO 417 425	paciente
+T24	ORG_VIVO 725 732	vecinos
+T25	ENFERMEDAD 37 60	enfermedad de Parkinson
+T26	ENFERMEDAD 608 616	ansiedad
+T27	ENFERMEDAD 734 752	Ideación delirante
+T28	ENFERMEDAD 972 1002	psicosis inducida por levodopa

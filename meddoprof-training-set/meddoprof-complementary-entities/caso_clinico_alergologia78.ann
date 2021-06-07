@@ -1,0 +1,13 @@
+T1	SINTOMA 174 180	fiebre
+T2	NEG 114 116	No
+T3	NSCO 117 180	otras manifestaciones cutáneas, articulares, oculares ni fiebre
+T4	NEG 202 205	sin
+T5	NSCO 206 230	sensibilización alérgica
+T6	NEG 232 234	no
+T7	NSCO 235 260	otras patologías atópicas
+T8	NEG 331 339	negativo
+T9	NEG 380 387	tampoco
+T10	NSCO 388 423	han sido detectadas IgE específicas
+T11	ORG_VIVO 0 8	Paciente
+T12	ORG_VIVO 262 267	Madre
+T13	ENFERMEDAD 182 201	Rinitis persistente

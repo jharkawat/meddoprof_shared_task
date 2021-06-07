@@ -1,0 +1,54 @@
+T1	SINTOMA 43 50	fumador
+T2	SINTOMA 243 252	ciatalgia
+T3	SINTOMA 319 332	masa cervical
+T4	SINTOMA 438 457	masa laterocervical
+T5	SINTOMA 2575 2594	tumoración cervical
+T6	SINTOMA 2683 2695	asintomático
+T7	PROCEDIMIENTO 401 414	Examen físico
+T8	PROCEDIMIENTO 611 620	Hemograma
+T9	PROCEDIMIENTO 665 700	TC de torax y abdomen con contraste
+T10	PROCEDIMIENTO 959 985	TC de cuello con contraste
+T11	PROCEDIMIENTO 1683 1712	extraccion de líquido pleural
+T12	PROCEDIMIENTO 1715 1733	biopsia escisional
+T13	PROCEDIMIENTO 1941 1985	Biopsia incisional de la tumoración cervical
+T14	PROCEDIMIENTO 2242 2271	tratamiento con quimioterapia
+T15	PROCEDIMIENTO 2780 2791	TC de tórax
+T16	NEG 37 42	nunca
+T17	NSCO 43 50	fumador
+T18	NEG 52 55	sin
+T19	NSCO 56 89	alergias medicamentosas conocidas
+T20	NEG 341 343	no
+T21	NSCO 344 370	dolorosa en marzo del 2013
+T22	NEG 372 374	No
+T23	NSCO 375 398	síndrome constitucional
+T24	NEG 478 480	no
+T25	NSCO 481 489	dolorosa
+T26	NEG 917 919	no
+T27	NSCO 920 955	muestra alteraciones significativas
+T28	NEG 1126 1129	sin
+T29	NSCO 1130 1166	captación significativa de contraste
+T30	UNC 1786 1793	podrían
+T31	USCO 1794 1849	corresponder a mesotelio con marcados cambios reactivos
+T32	NEG 2070 2078	negativo
+T33	NEG 2092 2100	negativo
+T34	NEG 2115 2123	negativo
+T35	NEG 2683 2695	asintomático
+T36	NEG 2891 2893	no
+T37	NSCO 2894 2918	visualizados previamente
+T38	FARMACO 2276 2286	cisplatino
+T39	FARMACO 2298 2308	pemetrexed
+T40	FARMACO 3023 3033	cisplatino
+T41	FARMACO 3036 3046	pemetrexed
+T42	ORG_VIVO 10 24	Paciente varón
+T43	ORG_VIVO 2225 2233	paciente
+T44	ORG_VIVO 2664 2672	paciente
+T45	ENFERMEDAD 145 167	hiperplasia prostática
+T46	ENFERMEDAD 169 199	degeneración macular retiniana
+T47	ENFERMEDAD 212 225	hernia discal
+T48	ENFERMEDAD 375 398	síndrome constitucional
+T49	ENFERMEDAD 714 756	masa tumoral de estrecho torácico superior
+T50	ENFERMEDAD 2004 2041	mesotelioma maligno de tipo epitelial
+T51	ENFERMEDAD 2138 2207	Mesotelioma pleural maligno de tipo epitelial con afectación cervical
+T52	ENFERMEDAD 2819 2834	derrame pleural
+T53	ENFERMEDAD 2845 2882	engrosamientos nodulares en la pleura
+T54	PACIENTE-PROFESION 91 127	Trabajó en una fábrica de colorantes

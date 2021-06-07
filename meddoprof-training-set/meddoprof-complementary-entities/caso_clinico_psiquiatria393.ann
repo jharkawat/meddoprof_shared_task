@@ -1,0 +1,73 @@
+T1	SINTOMA 1376 1385	asfixiada
+T2	SINTOMA 2364 2374	consciente
+T3	SINTOMA 2811 2839	capacidad orgásmica limitada
+T4	SINTOMA 5008 5029	fantasías masoquistas
+T5	PROCEDIMIENTO 757 785	tratamiento psicoterapéutico
+T6	PROCEDIMIENTO 3385 3413	tratamiento psicoterapéutico
+T7	PROCEDIMIENTO 3972 4010	reducción del número de masturbaciones
+T8	PROCEDIMIENTO 4584 4615	intervención psicofarmacológica
+T9	NEG 494 496	no
+T10	NSCO 497 507	notificara
+T11	UNC 707 721	compatible con
+T12	USCO 722 739	anorexia nerviosa
+T13	NEG 826 829	sin
+T14	NSCO 830 850	recaídas posteriores
+T15	NEG 1131 1134	sin
+T16	NSCO 1135 1171	llegar al orgasmo en ninguna ocasión
+T17	NEG 1555 1558	sin
+T18	NSCO 1559 1570	incidencias
+T19	NEG 1972 1974	No
+T20	NSCO 1975 2010	antecedentes por consumo de tóxicos
+T21	NEG 2677 2680	sin
+T22	NSCO 2681 2723	otra psicopatología postraumática asociada
+T23	NEG 2944 2946	No
+T24	NSCO 2947 2978	se identifican otras parafilias
+T25	NEG 3100 3102	No
+T26	NSCO 3103 3149	alteraciones en el sueño ni en la alimentación
+T27	NEG 4167 4169	no
+T28	NSCO 4170 4231	verbal con el que erotizaba las interacciones con los hombres
+T29	NEG 5206 5208	No
+T30	NSCO 5209 5272	ha logrado alcanzar el orgasmo con fantasías más convencionales
+T31	NEG 5415 5417	No
+T32	NSCO 5418 5463	tiene pareja ni relaciones sexuales puntuales
+T33	NEG 5556 5559	sin
+T34	NSCO 5560 5576	llegar a intimar
+T35	FARMACO 4634 4646	escitalopram
+T36	ORG_VIVO 19 33	Paciente mujer
+T37	ORG_VIVO 170 178	familiar
+T38	ORG_VIVO 212 220	infancia
+T39	ORG_VIVO 262 270	paciente
+T40	ORG_VIVO 348 356	familiar
+T41	ORG_VIVO 525 532	familia
+T42	ORG_VIVO 614 621	persona
+T43	ORG_VIVO 669 681	adolescencia
+T44	ORG_VIVO 872 884	adolescencia
+T45	ORG_VIVO 1103 1110	hombres
+T46	ORG_VIVO 1218 1223	varón
+T47	ORG_VIVO 1633 1641	infancia
+T48	ORG_VIVO 1797 1809	progenitores
+T49	ORG_VIVO 1878 1885	varones
+T50	ORG_VIVO 1963 1970	mujeres
+T51	ORG_VIVO 2121 2127	pareja
+T52	ORG_VIVO 2228 2235	hombres
+T53	ORG_VIVO 2265 2279	administrativa
+T54	ORG_VIVO 2294 2300	padres
+T55	ORG_VIVO 2405 2412	persona
+T56	ORG_VIVO 2667 2675	infancia
+T57	ORG_VIVO 3598 3605	varones
+T58	ORG_VIVO 3661 3669	femenino
+T59	ORG_VIVO 4224 4231	hombres
+T60	ORG_VIVO 4551 4568	profesional varón
+T61	ORG_VIVO 4789 4798	pacientes
+T62	ORG_VIVO 4981 4989	paciente
+T63	ORG_VIVO 5358 5367	masculina
+T64	ORG_VIVO 5424 5430	pareja
+T65	ORG_VIVO 5501 5508	mujeres
+T66	ENFERMEDAD 223 244	HISTORIA DEL PROBLEMA
+T67	ENFERMEDAD 722 739	anorexia nerviosa
+T68	ENFERMEDAD 1545 1554	puerperio
+T69	ENFERMEDAD 2993 3019	Nosintomatología psicótica
+T70	ENFERMEDAD 3790 3811	conductas masoquistas
+T71	PACIENTE-PROFESION 2265 2279	administrativa
+T72	SANITARIO-PROFESION 4551 4562	profesional
+T73	PACIENTE-SITUACION_LABORAL 1691 1724	Estudios de Primaria y Secundaria

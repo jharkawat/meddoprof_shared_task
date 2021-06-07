@@ -1,0 +1,46 @@
+T1	SINTOMA 181 187	disnea
+T2	SINTOMA 221 227	disnea
+T3	SINTOMA 318 321	tos
+T4	SINTOMA 323 336	expectoración
+T5	SINTOMA 340 351	sibilancias
+T6	SINTOMA 364 378	dolor torácico
+T7	SINTOMA 429 439	sibilantes
+T8	SINTOMA 526 532	disnea
+T9	SINTOMA 587 636	crepitantes secos en planos pulmonares inferiores
+T10	SINTOMA 672 682	sibilantes
+T11	SINTOMA 1085 1103	atrapamiento aéreo
+T12	SINTOMA 1115 1146	capacidad pulmonar total normal
+T13	SINTOMA 1929 1935	disnea
+T14	PROCEDIMIENTO 755 769	placa de tórax
+T15	PROCEDIMIENTO 982 994	espirometría
+T16	PROCEDIMIENTO 1207 1210	TAC
+T17	PROCEDIMIENTO 1322 1349	gammagrafía pulmonar de V/Q
+T18	NEG 301 303	No
+T19	NSCO 304 351	ha presentado tos, expectoración ni sibilancias
+T20	NEG 353 355	No
+T21	NSCO 356 378	refiere dolor torácico
+T22	NEG 389 391	no
+T23	NSCO 392 402	frecuentes
+T24	NEG 448 450	no
+T25	NSCO 451 482	le obligan a utilizar aerosoles
+T26	NEG 538 546	descarta
+T27	NSCO 547 558	cardiopatía
+T28	NEG 669 671	No
+T29	NSCO 672 682	sibilantes
+T30	NEG 684 686	No
+T31	NSCO 687 698	acropaquias
+T32	UNC 1554 1561	valorar
+T33	USCO 1562 1599	conjuntamente las pruebas mencionadas
+T34	FARMACO 37 48	diclofenaco
+T35	FARMACO 50 60	ibuprofeno
+T36	FARMACO 62 72	mefenámico
+T37	FARMACO 1073 1083	salbutamol
+T38	ORG_VIVO 0 14	Paciente mujer
+T39	ORG_VIVO 508 518	Cardiólogo
+T40	ORG_VIVO 1752 1760	paciente
+T41	ORG_VIVO 2008 2016	familiar
+T42	ENFERMEDAD 133 137	EPOC
+T43	ENFERMEDAD 547 558	cardiopatía
+T44	ENFERMEDAD 1265 1293	atelectasias subsegmentarias
+T45	ENFERMEDAD 1654 1687	patología parenquimatosa pulmonar
+T46	SANITARIO-PROFESION 508 518	Cardiólogo

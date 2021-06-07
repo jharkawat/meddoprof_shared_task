@@ -1,0 +1,38 @@
+MOTIVO DE CONSULTA
+Hombre de 54 años que acude a consultas externas de Otorrinolaringología derivado del Médico de Atención Primaria por disfonía de 3 semanas de evolución sin mejoría a pesar de tratamiento con Prednisona y Cefuroxima. A la exploración destacaba parálisis de cuerda vocal izquierda, junto con disnea de esfuerzo grado 1 (escala mMRC) y astenia. Se solicitó TAC de tórax y cuello y se remite a CCEE de Neumología.
+
+ANTECEDENTES PERSONALES
+Exposición al amianto desde 1995 a 1998, fumador de 1,5 paquetes/día (45 años/ paquetes).
+
+EXPLORACIÓN FÍSICA
+Buen estado general, PS 0. Afonía. Auscultación pulmonar con murmullo vesicular conservado sin ruidos sobreañadidos. Parálisis de cuerda vocal izquierda. Resto sin alteraciones.
+
+PRUEBAS COMPLEMENTARIAS
+- Rx de tórax AP: Nódulo pulmonar en hemitórax izquierdo.
+- TC del tórax y cuello con CIV (15/6/17):
+Nódulo pulmonar polilobulado de 18 x 13 x 14 mm situado en segmento superior de LII, sin calcio ni captación destacable, teniendo tractos periféricos que estiran de vasos cercanos y lo anclan a pleura. Existen 2 nódulos más subpleurales de 6 mm en zona inferomedial del mismo lóbulo. 
+Adenopatías hiliar izquierda (12 mm) y ventana aorto-pulmonar (hasta 22 x 29 mm) (N2).
+Nódulo suprarrenal derecho de 16 mm. Formaciones ganglionares subcentimétricas axilares (hasta 7 m en lado izquierdo), así como en ambas cadenas yugulares (hasta 6 mm en cadena II derecha), probablemente sin significado patológico.
+Parálisis de CVI ya conocida sin apreciar tumoraciones laríngeas ni faríngeas.
+En conclusión, posible neoplasia pulmonar en LII que de confirmarse sería T1, N2, M1b.
+- EBUS y Citología (11/07/17). Se visualizan adenopatías en territorios:
+- 11L: de 7.5 cm de eje corto que se punciona. Negativa para células malignas.
+- 4L: varias de 3.9 mm, 4.4 mm, 2.9 mm de eje corto
+- 7: de 10.9 mm, 5.7 mm de eje corto que se punciona. Negativa para células malignas.
+- PET-TAC (5/07/17)
+Descriptor T: Nódulo pulmonar en segmento superior del LII de 18 mm (SUV 5.8) y otro nódulo subpleural posterobasal en LII de 9 mm (SUV 3.7). Descriptor N: ADP paraórtica izquierda, en ventana aortopulmonar, paratraqueal izquierda ingerior, subcarinal, interlobar e hiliar izquierda (SUV de hasta 6.6). Descriptor M: lesión suprarrenal derecha de 14 mm (SVU 7.5). Otros: ganglios laterocervicales laterales (uno en nivel IIA izquierdo de 7 mm con SUV 2.5), ganglio retrocrural derecho con SUV 2. Conclusión: Nódulo LII. Estadificación propuesta: T3 (por 2 nódulos en mismo lóbulo) N2M1b (suprarrenal derecha).
+- PFR completas: fvc 98%; FEv1 99%; fev1/fvc 80; tlc 107; rv 104; dlco 108%; kco 108
+ANATOMÍA PATOLÓGICA Cilindro de nódulo pulmonar: Adenocarcinoma infiltrante TTF-1 +, napsina-, CK20 -, CDX-2 débil y focalmente positivo. Baja expresión de PD-L1 (1-49%). EGFR y ALK: Negativos. 
+Juicio Diagnóstico: Adenocarcinoma de Pulmón estadío IVA (T3N2M1b)
+
+TRATAMIENTO
+En comité de tumores torácicos se decide tratamiento con quimioterapia de 1a línea con esquema CDDP- Permetrexed por 3 ciclos que completa entre agosto y noviembre de 17. Se retrasó 4o ciclo con cambio de Cisplatino por Carboplatino debido a TVP. En PETTAC de reevaluación de octubre de 2017 se objetiva respuesta parcial con disminución de de la actividad de las lesiones descritas en el estudio previo:
+- PET-TAC (30/10/17):
+No hay nuevos hallazgos. Disminución de la actividad de las lesiones descritas en estudio previo. Resta actividad en nódulo pulmonar en segmento superior de lII (1.5 vs 5.2), actividad difusa en el nódulo subpleural posterobasal en LII, en ganglio paratraqueal izquierdo (2.2 vs 6.6), adrenal derecha (2.2 vs 7,5). Ausencia de actividad en los ganglios cervicales bilaterales y en el retrocrural derecho. Respuesta parcial por disminución de la actividad de todas las lesiones conocidas.
+Se descartó mediante RMN y punción lumbar, la afectación metastásica cerebral y meníngea.
+- RM (6/10/17):
+Discreto descenso de las amígdalas cerebelosas a través del foramen magno. Resto de las estructuras cerebrales y cerebelosas de morfología y aspecto normal, sin áreas de captación anómala del contraste.
+Es presentado de nuevo en comité de tumores decidiéndose iniciar tratamiento con RT torácica sobre lesión pulmonar y mediastínica y radioterapia corporal estereotática (SBRT) sobre metástasis suprarrenal, que completa entre Diciembre y Enero de 2018. Continua tratamiento con Permetrexed de mantenimiento del que ha recibido hasta la fecha 3 ciclos. Pendiente de TAC de reevaluación previsto para Marzo-18.
+
+EVOLUCIÓN
+A finales de agosto, tras primer ciclo de quimioterapia, el paciente es remitido a Neurología por diplopía con la mirada a la izquierdo, sin cefalea asociada. Visto en noviembre de 2017 decidiéndose ingreso programado para punción lumbar y descartar afectación meníngea. A la exploración se evidenciaba parálisis en la abducción del ojo derecho con mínimo nistagmo direccional tanto hacia la derecha (parético) como hacia la izquierda. El estudio de LCR fue negativo para células malignas con anticuerpos onconeuronales y anticuerpos antirreceptor de acetilcolina negativos. En la última visita en enero de 2018 el paciente expresa persistencia de la diplopía en la mirada lejana hacia la derecha, sin objetivarse a la exploración limitación en la MOE. Se solicitó TAC cerebral de base de cráneo sin alteraciones. Dado la buena evolución del paciente sería susceptible de paresia del VI par de etiología microvascular. En octubre de 2017, una semana después del tercer ciclo de CDDP - Permetrexed acude a urgencias por dolor abdominal en hipogastrio asociado a vómitos, diarrea con moco y intolerancia oral postquimioterapia. Se ingresó en Oncología con mejoría sintomática tras fluoidoterapia y tratamiento antiemético, con coprocultivos negativos. Se realizó ecografía abdominal con hallazgos sugestivos de colitis neutropénica. Posteriormente, previo a cuarto ciclo de quimioterapia, el paciente acude a la consulta de Oncología por edematización y dolor del miembro inferior izquierdo, evidenciándose tras ecografía doppler venosa de signos de trombosis venosa profunda en vena poplítea y en segmentos proximales de vena tibial posterior. Actualmente el paciente está en tratamiento con tinzaparina sódica 14,000UI/día.

@@ -1,0 +1,96 @@
+T1	SINTOMA 101 122	empeoramiento anímico
+T2	SINTOMA 127 143	ideación suicida
+T3	SINTOMA 2303 2324	síntomas melancólicos
+T4	SINTOMA 2499 2520	empeoramiento anímico
+T5	SINTOMA 2932 2940	tristeza
+T6	SINTOMA 2942 2960	pérdida de ilusión
+T7	SINTOMA 3454 3463	orientado
+T8	SINTOMA 3566 3575	Hipomimia
+T9	SINTOMA 3656 3664	tristeza
+T10	SINTOMA 3679 3695	ritmo circadiano
+T11	SINTOMA 3745 3751	apatía
+T12	SINTOMA 3753 3762	anhedonia
+T13	SINTOMA 3764 3770	abulia
+T14	SINTOMA 3772 3799	dificultad de concentración
+T15	SINTOMA 3885 3890	culpa
+T16	SINTOMA 4078 4107	alteraciones sensoperceptivas
+T17	SINTOMA 4109 4118	Hiporexia
+T18	SINTOMA 4123 4139	perdida ponderal
+T19	PROCEDIMIENTO 706 732	tratamiento antiretroviral
+T20	PROCEDIMIENTO 756 782	tratamiento antiretroviral
+T21	PROCEDIMIENTO 1277 1291	apendicectomía
+T22	PROCEDIMIENTO 1293 1307	amigdalectomía
+T23	PROCEDIMIENTO 1771 1794	tratamiento ansiolítico
+T24	PROCEDIMIENTO 3414 3441	Exploración psicopatológica
+T25	NEG 375 378	Sin
+T26	NSCO 379 392	pareja actual
+T27	NEG 630 635	Niega
+T28	NSCO 636 669	alergias medicamentosas conocidas
+T29	NEG 702 705	Sin
+T30	NSCO 706 745	tratamiento antiretroviral inicialmente
+T31	NEG 1202 1207	Niega
+T32	NSCO 1208 1245	otros antecedentes médicos de interés
+T33	NEG 1899 1902	sin
+T34	NSCO 1903 1919	secuelas físicas
+T35	NEG 2978 2994	incapacidad para
+T36	NSCO 2995 3029	realizar proyectos y de sesperanza
+T37	NEG 3985 3987	No
+T38	NSCO 3988 4070	se aprecia alteración del curso ni del contenido del pensamiento de tipo delirante
+T39	NEG 4072 4077	Niega
+T40	NSCO 4078 4107	alteraciones sensoperceptivas
+T41	NEG 4140 4142	no
+T42	NSCO 4143 4155	cuantificada
+T43	UNC 4282 4293	Orientación
+T44	USCO 4294 4305	diagnóstica
+T45	USCO 4306 4373	Trastorno depresivo mayor recurrente con sintomatología melancólica
+T46	FARMACO 1105 1117	sulfadiacina
+T47	FARMACO 1120 1132	pirimetamina
+T48	FARMACO 2108 2120	escitalopram
+T49	FARMACO 2364 2376	escitalopram
+T50	FARMACO 4771 4783	Escitalopram
+T51	FARMACO 4786 4795	Lorazepam
+T52	FARMACO 5365 5377	Escitalopram
+T53	FARMACO 5392 5401	Lorazepam
+T54	FARMACO 5415 5421	Norvir
+T55	FARMACO 5423 5432	ritonavir
+T56	FARMACO 5459 5468	darunavir
+T57	FARMACO 5496 5506	etravirina
+T58	FARMACO 5534 5545	raltegravir
+T59	ORG_VIVO 19 33	Paciente varón
+T60	ORG_VIVO 190 205	sociofamiliares
+T61	ORG_VIVO 214 221	mediano
+T62	ORG_VIVO 230 238	hermanos
+T63	ORG_VIVO 315 323	ebanista
+T64	ORG_VIVO 379 385	pareja
+T65	ORG_VIVO 394 398	Hijo
+T66	ORG_VIVO 427 433	padres
+T67	ORG_VIVO 514 524	familiares
+T68	ORG_VIVO 549 554	padre
+T69	ORG_VIVO 557 564	hermana
+T70	ORG_VIVO 571 582	tío paterno
+T71	ORG_VIVO 673 676	HIV
+T72	ORG_VIVO 718 732	antiretroviral
+T73	ORG_VIVO 768 782	antiretroviral
+T74	ORG_VIVO 853 860	enfermo
+T75	ORG_VIVO 1037 1051	Antiretroviral
+T76	ORG_VIVO 1314 1322	infancia
+T77	ORG_VIVO 2028 2046	médico de cabecera
+T78	ORG_VIVO 2806 2814	paciente
+T79	ORG_VIVO 3249 3254	gente
+T80	ORG_VIVO 4617 4622	viral
+T81	ORG_VIVO 5089 5097	familiar
+T82	ORG_VIVO 5286 5294	paciente
+T83	ORG_VIVO 5300 5307	familia
+T84	ENFERMEDAD 528 547	Trastorno Depresivo
+T85	ENFERMEDAD 636 659	alergias medicamentosas
+T86	ENFERMEDAD 1061 1083	Toxoplasmosis cerebral
+T87	ENFERMEDAD 1142 1190	retinopatía por CMV con pérdida de visión en ojo
+T88	ENFERMEDAD 1712 1745	recaídas en el consumo de tóxicos
+T89	ENFERMEDAD 1930 1951	sobredosis de cocaína
+T90	ENFERMEDAD 2066 2085	trastorno depresivo
+T91	ENFERMEDAD 2478 2496	crisis de ansiedad
+T92	ENFERMEDAD 3566 3575	Hipomimia
+T93	ENFERMEDAD 4962 4970	suicidio
+T94	PACIENTE-SITUACION_LABORAL 1496 1512	Servicio Militar
+T95	PACIENTE-PROFESION 315 323	ebanista
+T96	SANITARIO-PROFESION 2028 2046	médico de cabecera

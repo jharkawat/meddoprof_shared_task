@@ -1,0 +1,116 @@
+T1	SINTOMA 445 450	dolor
+T2	SINTOMA 2624 2633	febrícula
+T3	SINTOMA 2670 2718	dolor en columna dorso-lumbar irradiado a cadera
+T4	SINTOMA 3146 3152	fiebre
+T5	SINTOMA 3496 3580	abombamiento del muro posterior de D9 hacia el espacio subaracnoideo y puentes óseos
+T6	SINTOMA 3836 3843	afebril
+T7	SINTOMA 3892 3934	dolor selectivo a la palpación de D9 y D10
+T8	SINTOMA 5486 5494	febriles
+T9	PROCEDIMIENTO 875 885	mamografía
+T10	PROCEDIMIENTO 921 930	ecografía
+T11	PROCEDIMIENTO 933 957	biopsia con aguja gruesa
+T12	PROCEDIMIENTO 1152 1170	inmunohistoquímica
+T13	PROCEDIMIENTO 1402 1408	PET/TC
+T14	PROCEDIMIENTO 1704 1730	tratamiento quimioterápico
+T15	PROCEDIMIENTO 1878 1890	radioterapia
+T16	PROCEDIMIENTO 2090 2120	artroplastia parcial cementada
+T17	PROCEDIMIENTO 3306 3318	hemocultivos
+T18	PROCEDIMIENTO 3326 3354	resonancia magnética nuclear
+T19	PROCEDIMIENTO 3356 3359	RMN
+T20	PROCEDIMIENTO 3672 3707	antibioterapia empírica intravenosa
+T21	PROCEDIMIENTO 3733 3751	Exploración física
+T22	PROCEDIMIENTO 3853 3871	exploración física
+T23	PROCEDIMIENTO 4201 4210	hemograma
+T24	PROCEDIMIENTO 4504 4507	RMN
+T25	PROCEDIMIENTO 4545 4565	radiografía de tórax
+T26	PROCEDIMIENTO 4618 4660	ecografía Doppler de troncos supraaórticos
+T27	PROCEDIMIENTO 4667 4690	ecografía transtorácica
+T28	PROCEDIMIENTO 5547 5550	RMN
+T29	PROCEDIMIENTO 5649 5656	biopsia
+T30	PROCEDIMIENTO 5679 5696	aislamiento de SE
+T31	PROCEDIMIENTO 5736 5743	biopsia
+T32	NEG 237 239	No
+T33	NSCO 240 286	presenta alergias ni hábitos tóxicos conocidos
+T34	NEG 361 363	No
+T35	NSCO 364 401	toma otra medicación de forma crónica
+T36	NEG 534 536	No
+T37	NSCO 537 587	presenta otros antecedentes patológicos de interés
+T38	UNC 990 1005	compatibles con
+T39	USCO 1006 1034	carcinoma ductal infiltrante
+T40	NEG 1122 1131	negativos
+T41	NSCO 1260 1299	Los marcadores tumorales al diagnóstico
+T42	NEG 2205 2217	se suspendió
+T43	NSCO 2218 2228	paclitaxel
+T44	NEG 2771 2774	sin
+T45	NSCO 2775 2795	pérdidas funcionales
+T46	NEG 3059 3071	retirada del
+T47	NSCO 3072 3077	mismo
+T48	UNC 3251 3259	sospecha
+T49	USCO 3260 3273	clínica de OV
+T50	NEG 3836 3843	afebril
+T51	NEG 3872 3875	sin
+T52	NSCO 3876 3885	hallazgos
+T53	NEG 4570 4572	no
+T54	NSCO 4573 4603	mostró alteraciones de interés
+T55	NEG 4739 4742	sin
+T56	NSCO 4743 4764	hallazgos patológicos
+T57	UNC 5574 5587	sugestivos de
+T58	USCO 5588 5606	persistencia de OV
+T59	UNC 5744 5758	compatible con
+T60	USCO 5759 5800	proceso crónico inflamatorio en evolución
+T61	FARMACO 321 330	enalapril
+T62	FARMACO 331 348	hidroclorotiazida
+T63	FARMACO 408 419	paracetamol
+T64	FARMACO 1768 1778	paclitaxel
+T65	FARMACO 1780 1790	pertuzumab
+T66	FARMACO 1793 1804	trastuzumab
+T67	FARMACO 2218 2228	paclitaxel
+T68	FARMACO 2240 2248	letrozol
+T69	FARMACO 2250 2260	pertuzumab
+T70	FARMACO 2263 2274	trastuzumab
+T71	FARMACO 2449 2453	TDM1
+T72	FARMACO 3045 3056	vancomicina
+T73	FARMACO 3092 3106	ciprofloxacino
+T74	FARMACO 3218 3226	cefixima
+T75	FARMACO 4960 4971	vancomicina
+T76	FARMACO 4974 4988	ciprofloxacino
+T77	FARMACO 5176 5187	vancomicina
+T78	FARMACO 5364 5376	cotrimoxazol
+T79	FARMACO 5813 5827	ciprofloxacino
+T80	ORG_VIVO 44 49	mujer
+T81	ORG_VIVO 73 91	directora de banca
+T82	ORG_VIVO 116 124	hermanas
+T83	ORG_VIVO 150 156	marido
+T84	ORG_VIVO 168 172	hija
+T85	ORG_VIVO 607 617	familiares
+T86	ORG_VIVO 622 627	padre
+T87	ORG_VIVO 687 692	madre
+T88	ORG_VIVO 738 746	paciente
+T89	ORG_VIVO 1671 1679	paciente
+T90	ORG_VIVO 1853 1861	paciente
+T91	ORG_VIVO 2400 2408	paciente
+T92	ORG_VIVO 2525 2533	paciente
+T93	ORG_VIVO 3025 3027	SE
+T94	ORG_VIVO 4782 4790	paciente
+T95	ORG_VIVO 5030 5032	SE
+T96	ORG_VIVO 5121 5157	microorganismo, oxacilina-resistente
+T97	ORG_VIVO 5451 5459	paciente
+T98	ORG_VIVO 5694 5696	SE
+T99	ENFERMEDAD 291 301	hipertensa
+T100	ENFERMEDAD 514 532	bocio multinodular
+T101	ENFERMEDAD 652 667	cáncer gástrico
+T102	ENFERMEDAD 699 719	cáncer de endometrio
+T103	ENFERMEDAD 800 842	lesión en cuadrante supero-externo de mama
+T104	ENFERMEDAD 1006 1034	carcinoma ductal infiltrante
+T105	ENFERMEDAD 1414 1538	metástasis óseas múltiples blásticas a nivel de D7, D9, apófisis transversa de L4, S1, hueso iliaco derecho y cabeza femoral
+T106	ENFERMEDAD 1570 1581	CDI de mama
+T107	ENFERMEDAD 1650 1666	metástasis óseas
+T108	ENFERMEDAD 1901 1940	metástasis ósea iliaca y cabeza femoral
+T109	ENFERMEDAD 2012 2041	fractura patológica de cadera
+T110	ENFERMEDAD 2968 3023	infección del reservorio por Staphylococcus epidermidis
+T111	ENFERMEDAD 3387 3407	fractura en D9 y D10
+T112	ENFERMEDAD 4223 4241	anemia normocítica
+T113	ENFERMEDAD 4725 4737	endocarditis
+T114	ENFERMEDAD 4812 4873	osteomielitis vertebral D9-D10 por Staphylococcus epidermidis
+T115	ENFERMEDAD 5759 5787	proceso crónico inflamatorio
+T116	PACIENTE-PROFESION 73 91	directora de banca

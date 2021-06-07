@@ -1,0 +1,88 @@
+T1	SINTOMA 646 658	todopoderoso
+T2	SINTOMA 672 681	cansancio
+T3	SINTOMA 921 930	letárgico
+T4	SINTOMA 933 944	somnoliento
+T5	SINTOMA 958 967	irritable
+T6	SINTOMA 970 979	disfórico
+T7	SINTOMA 1632 1639	lúgubre
+T8	SINTOMA 2704 2722	debilidad muscular
+T9	SINTOMA 2725 2748	dificultad para caminar
+T10	SINTOMA 3192 3198	lúcido
+T11	SINTOMA 3200 3221	globalmente orientado
+T12	SINTOMA 3236 3275	impedimento en sus funciones cognitivas
+T13	PROCEDIMIENTO 559 580	inyección intravenosa
+T14	PROCEDIMIENTO 3280 3293	examen físico
+T15	PROCEDIMIENTO 3456 3459	EEG
+T16	NEG 185 187	No
+T17	NSCO 188 202	podía explicar
+T18	NEG 769 771	no
+T19	NSCO 772 797	podía dejar de consumirla
+T20	NEG 878 880	no
+T21	NSCO 881 944	podía conseguir metanfetamina se sentía letárgico y somnoliento
+T22	NEG 1363 1365	no
+T23	NSCO 1366 1382	tener los medios
+T24	NEG 1676 1679	sin
+T25	NSCO 1680 1690	hacer nada
+T26	NEG 1739 1741	no
+T27	NSCO 1742 1771	se animaba a salir de la casa
+T28	NEG 2331 2333	no
+T29	NSCO 2334 2344	calificado
+T30	NEG 2839 2841	no
+T31	NSCO 2842 2867	quiso consultar al médico
+T32	NEG 3224 3226	no
+T33	NSCO 3227 3275	mostraba impedimento en sus funciones cognitivas
+T34	NEG 3322 3324	no
+T35	NSCO 3325 3345	reveló anormalidades
+T36	NEG 3588 3590	No
+T37	NSCO 3591 3629	regresó para su tratamiento de control
+T38	FARMACO 456 469	metanfetamina
+T39	FARMACO 714 727	metanfetamina
+T40	FARMACO 897 910	metanfetamina
+T41	FARMACO 1039 1050	persuadirlo
+T42	FARMACO 1346 1358	perjudicarlo
+T43	FARMACO 1433 1446	metanfetamina
+T44	FARMACO 2808 2821	metanfetamina
+T45	FARMACO 3438 3451	metanfetamina
+T46	FARMACO 3496 3507	haloperidol
+T47	ORG_VIVO 3 11	paciente
+T48	ORG_VIVO 18 27	camionero
+T49	ORG_VIVO 75 83	paciente
+T50	ORG_VIVO 270 275	gente
+T51	ORG_VIVO 496 506	compañeros
+T52	ORG_VIVO 984 990	esposa
+T53	ORG_VIVO 1157 1162	hijos
+T54	ORG_VIVO 1268 1278	compañeros
+T55	ORG_VIVO 1520 1526	esposa
+T56	ORG_VIVO 1555 1560	hijos
+T57	ORG_VIVO 1563 1574	divorciarse
+T58	ORG_VIVO 1728 1734	esposa
+T59	ORG_VIVO 1869 1876	persona
+T60	ORG_VIVO 2072 2078	esposa
+T61	ORG_VIVO 2093 2107	médico clínico
+T62	ORG_VIVO 2169 2177	paciente
+T63	ORG_VIVO 2184 2189	menor
+T64	ORG_VIVO 2197 2213	hermanos varones
+T65	ORG_VIVO 2218 2223	padre
+T66	ORG_VIVO 2263 2269	alumno
+T67	ORG_VIVO 2324 2330	obrero
+T68	ORG_VIVO 2376 2381	mujer
+T69	ORG_VIVO 2412 2418	mesera
+T70	ORG_VIVO 2492 2501	camionero
+T71	ORG_VIVO 2517 2522	hijos
+T72	ORG_VIVO 2619 2627	paciente
+T73	ORG_VIVO 2861 2867	médico
+T74	ORG_VIVO 2906 2914	paciente
+T75	ORG_VIVO 3176 3183	persona
+T76	PACIENTE-PROFESION 18 27	camionero
+T77	PACIENTE-PROFESION 2492 2501	camionero
+T78	SANITARIO-PROFESION 2093 2099	médico
+T79	SANITARIO-PROFESION 2861 2867	médico
+T80	FAMILIAR-PROFESION 2228 2238	almacenero
+T81	PACIENTE-PROFESION 2324 2344	obrero no calificado
+T82	FAMILIAR-PROFESION 2412 2436	mesera en un restaurante
+T83	OTROS-PROFESION 299 315	narcotraficantes
+T84	OTROS-PROFESION 408 419	traficantes
+T85	OTROS-PROFESION 1792 1803	traficantes
+T86	OTROS-PROFESION 3087 3108	traficantes de drogas
+T87	OTROS-SITUACION_LABORAL 496 506	compañeros
+T88	PACIENTE-SITUACION_LABORAL 1198 1222	había perdido el trabajo

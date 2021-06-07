@@ -1,0 +1,62 @@
+T1	SINTOMA 26 33	fumador
+T2	SINTOMA 48 113	edemas progresivos en miembros inferiores, abdomen, cuello y cara
+T3	SINTOMA 117 123	disnea
+T4	SINTOMA 188 199	eosinofilia
+T5	SINTOMA 202 222	hipertransaminasemia
+T6	SINTOMA 400 407	prurito
+T7	SINTOMA 541 552	eosinofilia
+T8	SINTOMA 578 589	trombopenia
+T9	SINTOMA 1084 1109	hiperpigmentación cutánea
+T10	SINTOMA 1123 1144	ingurgitación yugular
+T11	SINTOMA 1146 1161	ritmo de galope
+T12	SINTOMA 1163 1182	crepitantes basales
+T13	SINTOMA 1184 1244	edema de pared abdominal y hasta raíz de miembros inferiores
+T14	SINTOMA 2022 2035	hepatomegalia
+T15	SINTOMA 2038 2052	esplenomegalia
+T16	SINTOMA 2138 2149	eosinofilia
+T17	SINTOMA 2569 2580	eosinofilia
+T18	PROCEDIMIENTO 797 809	coprocultivo
+T19	PROCEDIMIENTO 1328 1342	ecocardiograma
+T20	PROCEDIMIENTO 1865 1868	ECG
+T21	PROCEDIMIENTO 1948 1975	TC de tórax- abdomen-pelvis
+T22	PROCEDIMIENTO 2065 2092	frotis de sangre periférica
+T23	PROCEDIMIENTO 2098 2121	aspirado de médula ósea
+T24	PROCEDIMIENTO 2169 2196	tratamiento con corticoides
+T25	PROCEDIMIENTO 2213 2237	estudio inmunofenotípico
+T26	PROCEDIMIENTO 2472 2487	anticoagulación
+T27	NEG 851 860	negativos
+T28	UNC 1253 1264	sospecha de
+T29	USCO 1265 1315	síndrome hipereosinofílico con afectación cardiaca
+T30	UNC 1351 1365	compatible con
+T31	USCO 1366 1450	una miocardiopatía restrictiva tipo fibrosis endomiocárdica (endocarditis de Löeffer
+T32	FARMACO 328 338	furosemida
+T33	FARMACO 919 929	alopurinol
+T34	FARMACO 2461 2469	imatinib
+T35	FARMACO 2492 2504	fondaparinux
+T36	ORG_VIVO 0 5	Varón
+T37	ORG_VIVO 173 179	médico
+T38	ORG_VIVO 652 665	E. granulosus
+T39	ORG_VIVO 811 820	parásitos
+T40	ENFERMEDAD 18 23	obeso
+T41	ENFERMEDAD 202 222	hipertransaminasemia
+T42	ENFERMEDAD 275 294	esteatosis hepática
+T43	ENFERMEDAD 470 495	insuficiencia renal aguda
+T44	ENFERMEDAD 497 507	colestasis
+T45	ENFERMEDAD 509 522	hiperuricemia
+T46	ENFERMEDAD 524 536	leucocitosis
+T47	ENFERMEDAD 570 576	anemia
+T48	ENFERMEDAD 578 589	trombopenia
+T49	ENFERMEDAD 1265 1291	síndrome hipereosinofílico
+T50	ENFERMEDAD 1296 1315	afectación cardiaca
+T51	ENFERMEDAD 1370 1396	miocardiopatía restrictiva
+T52	ENFERMEDAD 1402 1425	fibrosis endomiocárdica
+T53	ENFERMEDAD 1427 1450	endocarditis de Löeffer
+T54	ENFERMEDAD 1887 1926	isquemia subepicárdica en cara inferior
+T55	ENFERMEDAD 1977 1992	derrame pleural
+T56	ENFERMEDAD 2004 2011	ascitis
+T57	ENFERMEDAD 2022 2035	hepatomegalia
+T58	ENFERMEDAD 2038 2052	esplenomegalia
+T59	ENFERMEDAD 2318 2353	síndrome hipereosinofílico primario
+T60	ENFERMEDAD 2359 2393	síndrome mieloproliferativo clonal
+T61	SANITARIO-PROFESION 238 249	digestólogo
+T62	SANITARIO-PROFESION 173 179	médico

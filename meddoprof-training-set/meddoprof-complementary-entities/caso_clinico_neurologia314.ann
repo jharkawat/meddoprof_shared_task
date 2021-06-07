@@ -1,0 +1,89 @@
+T1	SINTOMA 452 471	cefalea holocraneal
+T2	SINTOMA 530 537	náuseas
+T3	SINTOMA 542 548	vómito
+T4	SINTOMA 560 597	pérdida de fuerza en las extremidades
+T5	SINTOMA 611 650	alteración en la articulación del habla
+T6	SINTOMA 718 739	desconexión del medio
+T7	SINTOMA 928 935	afebril
+T8	SINTOMA 1048 1054	soplos
+T9	SINTOMA 1151 1161	consciente
+T10	SINTOMA 1163 1169	alerta
+T11	SINTOMA 1172 1181	orientado
+T12	SINTOMA 1645 1700	reflejos miotáticos estaban presentes y eran simétricos
+T13	SINTOMA 1724 1733	disartria
+T14	SINTOMA 1753 1768	rigidez de nuca
+T15	SINTOMA 1785 1819	irritación meníngea eran negativos
+T16	SINTOMA 2172 2213	masa parietal derecha de centro hipodenso
+T17	SINTOMA 2740 2859	tumoración glial de alto grado, temporoparietal derecha, que alcanzaba el epéndimo del atrio del ventrículo ipsilateral
+T18	SINTOMA 3019 3043	tumoración glial de alto
+T19	SINTOMA 3374 3399	desviación óculo-cefálica
+T20	SINTOMA 3417 3464	movimientos tónico-clónicos de las extremidades
+T21	SINTOMA 3740 3747	cefalea
+T22	SINTOMA 3757 3776	déficit neurológico
+T23	PROCEDIMIENTO 776 794	Exploración física
+T24	PROCEDIMIENTO 1061 1088	auscultación cardiopulmonar
+T25	PROCEDIMIENTO 1107 1130	exploración neurológica
+T26	PROCEDIMIENTO 1938 1957	analítica sanguínea
+T27	PROCEDIMIENTO 1963 1972	hemograma
+T28	PROCEDIMIENTO 1974 1998	bioquímica y coagulación
+T29	PROCEDIMIENTO 2021 2039	electrocardiograma
+T30	PROCEDIMIENTO 2045 2065	radiografía de tórax
+T31	PROCEDIMIENTO 2107 2144	tomografía computarizada (TC) craneal
+T32	PROCEDIMIENTO 2335 2367	Tomografía computarizada craneal
+T33	PROCEDIMIENTO 2493 2532	administración de contraste intravenoso
+T34	PROCEDIMIENTO 2664 2698	resonancia magnética (RM) cerebral
+T35	PROCEDIMIENTO 2861 2890	Resonancia magnética cerebral
+T36	PROCEDIMIENTO 3266 3276	TC craneal
+T37	PROCEDIMIENTO 3807 3837	resección quirúrgica del tumor
+T38	PROCEDIMIENTO 3908 3915	biopsia
+T39	PROCEDIMIENTO 3934 3953	anatomía patológica
+T40	NEG 538 541	sin
+T41	NSCO 542 548	vómito
+T42	NEG 928 935	afebril
+T43	NEG 1044 1047	sin
+T44	NSCO 1048 1054	soplos
+T45	NEG 1309 1312	sin
+T46	NSCO 1313 1354	restricciones en los movimientos oculares
+T47	NEG 1744 1746	No
+T48	NSCO 1747 1809	tenía rigidez de nuca y los signos de irritación meníngea eran
+T49	NEG 1810 1819	negativos
+T50	NEG 2066 2068	no
+T51	NSCO 2069 2088	mostraban anomalías
+T52	UNC 2297 2309	sugestiva de
+T53	USCO 2310 2333	glioblastoma multiforme
+T54	UNC 2582 2588	parece
+T55	USCO 2589 2627	invadir el esplenio del cuerpo calloso
+T56	UNC 2724 2739	compatibles con
+T57	USCO 2740 2770	tumoración glial de alto grado
+T58	UNC 3004 3018	compatible con
+T59	USCO 3019 3049	tumoración glial de alto grado
+T60	NEG 3570 3573	sin
+T61	NSCO 3574 3597	presentar nuevas crisis
+T62	NEG 3779 3781	No
+T63	NSCO 3782 3837	se pudo llevar a cabo la resección quirúrgica del tumor
+T64	FARMACO 287 296	Enalapril
+T65	FARMACO 299 309	Metformina
+T66	FARMACO 3559 3568	fenitoína
+T67	FARMACO 3637 3649	dexametasona
+T68	ORG_VIVO 10 15	Varón
+T69	ORG_VIVO 52 62	personales
+T70	ORG_VIVO 384 393	neurólogo
+T71	ORG_VIVO 656 666	familiares
+T72	ORG_VIVO 823 831	paciente
+T73	ORG_VIVO 1135 1143	paciente
+T74	ORG_VIVO 3315 3323	paciente
+T75	ENFERMEDAD 66 87	hipertensión arterial
+T76	ENFERMEDAD 89 113	diabetes mellitus tipo 2
+T77	ENFERMEDAD 126 154	artritis esterno- clavicular
+T78	ENFERMEDAD 159 208	osteomielitis del tercio proximal de la clavícula
+T79	ENFERMEDAD 224 239	empiema pleural
+T80	ENFERMEDAD 1420 1440	hemianopsia homónima
+T81	ENFERMEDAD 1521 1542	hemiparesia izquierda
+T82	ENFERMEDAD 1875 1898	anosognosia del déficit
+T83	ENFERMEDAD 2310 2333	glioblastoma multiforme
+T84	ENFERMEDAD 2575 2627	lesión parece invadir el esplenio del cuerpo calloso
+T85	ENFERMEDAD 2740 2770	tumoración glial de alto grado
+T86	ENFERMEDAD 3066 3157	tumor alcanza el epéndimo del ventrículo lateral derecho, contactando con el plexo coroideo
+T87	ENFERMEDAD 3981 4004	glioblastoma multiforme
+T88	ENFERMEDAD 4073 4096	Glioblastoma multiforme
+T89	SANITARIO-PROFESION 384 393	neurólogo

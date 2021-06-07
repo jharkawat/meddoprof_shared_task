@@ -1,0 +1,190 @@
+T1	SINTOMA 118 124	fiebre
+T2	SINTOMA 154 169	dolor abdominal
+T3	SINTOMA 551 558	Fumador
+T4	SINTOMA 618 624	fiebre
+T5	SINTOMA 709 750	dolor abdominal, localizado en epigastrio
+T6	SINTOMA 785 811	tos escasamente productiva
+T7	SINTOMA 817 823	disnea
+T8	SINTOMA 922 929	astenia
+T9	SINTOMA 932 948	pérdida ponderal
+T10	SINTOMA 1083 1091	caquexia
+T11	SINTOMA 1105 1121	sequedad cutánea
+T12	SINTOMA 1136 1145	hipotenso
+T13	SINTOMA 1206 1215	Taquipnea
+T14	SINTOMA 1265 1289	hipofonesis generalizada
+T15	SINTOMA 2147 2186	desplazamiento de las asas intestinales
+T16	SINTOMA 2345 2358	hepatomegalia
+T17	SINTOMA 3134 3147	hepatomegalia
+T18	SINTOMA 3823 3836	hepatomegalia
+T19	SINTOMA 4380 4408	aumento de tamaño del hígado
+T20	SINTOMA 5583 5596	hepatomegalia
+T21	SINTOMA 5623 5637	esplenomegalia
+T22	SINTOMA 5709 5717	caquexia
+T23	SINTOMA 6643 6653	citopenias
+T24	SINTOMA 7235 7255	agotamiento muscular
+T25	SINTOMA 8154 8161	fallece
+T26	PROCEDIMIENTO 1026 1044	exploración física
+T27	PROCEDIMIENTO 1243 1255	auscultación
+T28	PROCEDIMIENTO 1324 1345	exploración abdominal
+T29	PROCEDIMIENTO 1928 1939	radiografía
+T30	PROCEDIMIENTO 2113 2135	radiografía de abdomen
+T31	PROCEDIMIENTO 2385 2396	radiografía
+T32	PROCEDIMIENTO 2445 2459	BAAR en esputo
+T33	PROCEDIMIENTO 4544 4567	transfusiones de sangre
+T34	PROCEDIMIENTO 5352 5366	test de Coombs
+T35	PROCEDIMIENTO 5384 5407	aspirado de médula ósea
+T36	PROCEDIMIENTO 6335 6356	pruebas hematológicas
+T37	PROCEDIMIENTO 6369 6398	test de Coombs y haptoglobina
+T38	PROCEDIMIENTO 6486 6509	aspirado de médula ósea
+T39	PROCEDIMIENTO 6667 6704	transfusiones de plaquetas y hematíes
+T40	PROCEDIMIENTO 6936 6949	baciloscopias
+T41	PROCEDIMIENTO 7027 7039	antibiograma
+T42	PROCEDIMIENTO 7135 7138	PCR
+T43	PROCEDIMIENTO 7211 7218	intubar
+T44	PROCEDIMIENTO 7294 7314	ventilación invasiva
+T45	PROCEDIMIENTO 7378 7391	tubo de tórax
+T46	PROCEDIMIENTO 7416 7427	ventilación
+T47	PROCEDIMIENTO 7444 7456	TAC de tórax
+T48	PROCEDIMIENTO 7966 7984	TC abdominopélvico
+T49	PROCEDIMIENTO 8072 8100	tratamiento tuberculostático
+T50	NEG 270 273	Sin
+T51	NSCO 274 308	antecedentes personales de interés
+T52	NEG 358 360	No
+T53	NSCO 361 410	había regresado recientemente a su país de origen
+T54	NEG 420 423	sin
+T55	NSCO 424 450	hábitos sexuales de riesgo
+T56	NEG 972 974	No
+T57	NSCO 975 1017	otra sintomatología por órganos y aparatos
+T58	NEG 1226 1229	sin
+T59	NSCO 1230 1236	tiraje
+T60	NEG 1369 1371	no
+T61	NSCO 1372 1388	dolorosa de 5 cm
+T62	NEG 2645 2654	negativos
+T63	NEG 2922 2924	no
+T64	NSCO 2925 2946	presentaba al ingreso
+T65	NEG 3210 3219	descartar
+T66	NSCO 3220 3330	una enfermedad en la médula ósea o bien un proceso periférico que explique el consumo o la destrucción celular
+T67	NSCO 3578 3638	leucemias o síndromes mielodisplásicos o mieloproliferativos
+T68	NEG 3640 3657	Se debe descartar
+T69	NSCO 3658 3687	consumo de fármacos o alcohol
+T70	UNC 4670 4679	no parece
+T71	USCO 4680 4696	ocurrir lo mismo
+T72	NEG 5053 5055	no
+T73	NSCO 5056 5090	es sólo un mediador de inflamación
+T74	NEG 5234 5246	se descartan
+T75	NSCO 5247 5269	las causas autoinmunes
+T76	NEG 5413 5422	descartar
+T77	NSCO 5423 5459	una causa central de la pancitopenia
+T78	UNC 5468 5474	podría
+T79	USCO 5475 5521	estar explicada en parte por el cuadro séptico
+T80	UNC 5775 5781	podría
+T81	USCO 5782 5908	ser secundaria a una hepatopatía como la hemocromatosis o estar en el contexto del cuadro séptico como reactante de fase aguda
+T82	NEG 5970 5972	no
+T83	NSCO 5973 6022	se debería olvidar el síndrome hiperferritinémico
+T84	NEG 6414 6423	negativos
+T85	NEG 6425 6438	descartándose
+T86	NSCO 6439 6470	proceso hematológico subyacente
+T87	NEG 6472 6474	No
+T88	NSCO 6475 6509	se realizó aspirado de médula ósea
+T89	NEG 6851 6862	negatividad
+T90	NSCO 6863 6912	en todos los cultivos en medios comunes de sangre
+T91	NEG 7085 7087	No
+T92	NSCO 7088 7130	se aisló el bacilo en ninguna otra muestra
+T93	UNC 7574 7581	Posible
+T94	USCO 7582 7612	fístula pleurobronquial en LSD
+T95	NEG 7705 7708	sin
+T96	NSCO 7709 7737	niveles hidroaéreos ni masas
+T97	NEG 7909 7911	No
+T98	NSCO 7912 7961	adenopatías mediastínicas de tamaño significativo
+T99	NEG 8102 8104	no
+T100	NSCO 8105 8129	presenta mejoría clínica
+T101	FARMACO 6061 6072	rifampicina
+T102	FARMACO 6074 6084	isoniacina
+T103	FARMACO 6086 6095	etambutol
+T104	FARMACO 6098 6110	pirazinamida
+T105	FARMACO 7072 7083	rifampicina
+T106	ORG_VIVO 15 20	varón
+T107	ORG_VIVO 287 297	personales
+T108	ORG_VIVO 588 596	cannabis
+T109	ORG_VIVO 644 657	bacteriémicas
+T110	ORG_VIVO 2268 2276	paciente
+T111	ORG_VIVO 2445 2449	BAAR
+T112	ORG_VIVO 2491 2504	micobacterias
+T113	ORG_VIVO 2539 2542	VIH
+T114	ORG_VIVO 2544 2562	virus hepatotropos
+T115	ORG_VIVO 2564 2567	VEB
+T116	ORG_VIVO 2569 2579	parvovirus
+T117	ORG_VIVO 3082 3090	paciente
+T118	ORG_VIVO 3439 3444	virus
+T119	ORG_VIVO 3569 3576	virales
+T120	ORG_VIVO 3814 3817	VIH
+T121	ORG_VIVO 5285 5292	virales
+T122	ORG_VIVO 5722 5730	paciente
+T123	ORG_VIVO 6149 6157	paciente
+T124	ORG_VIVO 6179 6187	paciente
+T125	ORG_VIVO 6936 6949	baciloscopias
+T126	ORG_VIVO 7045 7083	M. tuberculosis sensible a rifampicina
+T127	ORG_VIVO 7100 7106	bacilo
+T128	ORG_VIVO 7222 7230	paciente
+T129	ORG_VIVO 8084 8100	tuberculostático
+T130	ORG_VIVO 8145 8153	paciente
+T131	ENFERMEDAD 1616 1628	hipocalcemia
+T132	ENFERMEDAD 1802 1814	Pancitopenia
+T133	ENFERMEDAD 2219 2238	taquicardia sinusal
+T134	ENFERMEDAD 2292 2328	shock séptico de origen respiratorio
+T135	ENFERMEDAD 2330 2342	pancitopenia
+T136	ENFERMEDAD 2345 2358	hepatomegalia
+T137	ENFERMEDAD 3095 3114	tuberculosis activa
+T138	ENFERMEDAD 3120 3132	pancitopenia
+T139	ENFERMEDAD 3134 3147	hepatomegalia
+T140	ENFERMEDAD 3188 3200	pancitopenia
+T141	ENFERMEDAD 3224 3252	enfermedad en la médula ósea
+T142	ENFERMEDAD 3395 3410	hiperesplenismo
+T143	ENFERMEDAD 3412 3424	hepatopatías
+T144	ENFERMEDAD 3446 3466	procesos autoinmunes
+T145	ENFERMEDAD 3506 3512	sepsis
+T146	ENFERMEDAD 3578 3587	leucemias
+T147	ENFERMEDAD 3590 3616	síndromes mielodisplásicos
+T148	ENFERMEDAD 3619 3638	mieloproliferativos
+T149	ENFERMEDAD 3701 3712	hepatopatía
+T150	ENFERMEDAD 3742 3768	enfermedades hematológicas
+T151	ENFERMEDAD 3771 3790	infecciones por VEB
+T152	ENFERMEDAD 3814 3817	VIH
+T153	ENFERMEDAD 3823 3836	hepatomegalia
+T154	ENFERMEDAD 3903 3923	hepatitis secundaria
+T155	ENFERMEDAD 3929 3947	proceso infeccioso
+T156	ENFERMEDAD 4048 4062	hemocromatosis
+T157	ENFERMEDAD 4069 4122	infiltración de tumores, tanto benignos como malignos
+T158	ENFERMEDAD 4196 4233	trombosis de las venas suprahepáticas
+T159	ENFERMEDAD 4242 4275	insuficiencia cardiaca congestiva
+T160	ENFERMEDAD 4326 4350	cirrosis biliar primaria
+T161	ENFERMEDAD 4414 4431	hiperferritinemia
+T162	ENFERMEDAD 4499 4505	sepsis
+T163	ENFERMEDAD 4507 4525	patología hepática
+T164	ENFERMEDAD 4527 4541	hemocromatosis
+T165	ENFERMEDAD 4934 4957	síndrome hemofagocítico
+T166	ENFERMEDAD 4959 4962	SHF
+T167	ENFERMEDAD 4965 4984	enfermedad de Still
+T168	ENFERMEDAD 4987 5019	síndrome antifosfolípido maligno
+T169	ENFERMEDAD 5251 5292	causas autoinmunes y los procesos virales
+T170	ENFERMEDAD 5447 5459	pancitopenia
+T171	ENFERMEDAD 5507 5521	cuadro séptico
+T172	ENFERMEDAD 5583 5596	hepatomegalia
+T173	ENFERMEDAD 5623 5637	esplenomegalia
+T174	ENFERMEDAD 5643 5657	tumor hepático
+T175	ENFERMEDAD 5694 5706	desnutrición
+T176	ENFERMEDAD 5757 5774	hiperferritinemia
+T177	ENFERMEDAD 5803 5814	hepatopatía
+T178	ENFERMEDAD 5823 5837	hemocromatosis
+T179	ENFERMEDAD 5865 5879	cuadro séptico
+T180	ENFERMEDAD 5995 6022	síndrome hiperferritinémico
+T181	ENFERMEDAD 6202 6220	fallo respiratorio
+T182	ENFERMEDAD 6567 6579	coagulopatía
+T183	ENFERMEDAD 7330 7349	neumotórax parcelar
+T184	ENFERMEDAD 7582 7612	fístula pleurobronquial en LSD
+T185	ENFERMEDAD 7653 7673	dilatación bronquial
+T186	ENFERMEDAD 7912 7937	adenopatías mediastínicas
+T187	ENFERMEDAD 8182 8201	Sepsis respiratoria
+T188	ENFERMEDAD 8206 8227	tuberculosis pulmonar
+T189	ENFERMEDAD 8230 8244	SHF secundario
+T190	PACIENTE-PROFESION 452 471	Trabaja en el campo

@@ -1,0 +1,56 @@
+T1	SINTOMA 135 142	fumador
+T2	SINTOMA 271 314	crepitación subcutánea alrededor del cuello
+T3	PROCEDIMIENTO 234 252	exploración física
+T4	PROCEDIMIENTO 319 327	Rx tórax
+T5	PROCEDIMIENTO 432 452	TAC cérvico-torácico
+T6	PROCEDIMIENTO 1250 1257	MANTOUX
+T7	PROCEDIMIENTO 1269 1287	ECOGRAFÍA ESCROTAL
+T8	PROCEDIMIENTO 1297 1317	TAC ABDOMINO-PÉLVICO
+T9	PROCEDIMIENTO 1457 1460	TAC
+T10	PROCEDIMIENTO 1635 1668	biopsia de la adenopatía cervical
+T11	PROCEDIMIENTO 1902 1905	TAC
+T12	PROCEDIMIENTO 2138 2163	extirpación de adenopatía
+T13	PROCEDIMIENTO 2166 2191	estudio anatomopatológico
+T14	UNC 388 402	compatible con
+T15	USCO 403 418	neumomediastino
+T16	NEG 1259 1267	Negativo
+T17	UNC 1382 1393	sospecha de
+T18	USCO 1394 1432	un proceso de características malignas
+T19	UNC 1531 1538	posible
+T20	USCO 1539 1585	proceso reactivo/enfermedad linfoproliferativa
+T21	NEG 1587 1590	sin
+T22	NSCO 1591 1622	captación de las lesiones óseas
+T23	NEG 1714 1717	sin
+T24	NSCO 1718 1746	evidencia de proceso maligno
+T25	NEG 1756 1770	negatividad de
+T26	NSCO 1771 1792	las pruebas iniciales
+T27	FARMACO 204 211	cocaína
+T28	FARMACO 2304 2313	rituximab
+T29	ORG_VIVO 15 21	hombre
+T30	ORG_VIVO 98 108	personales
+T31	ORG_VIVO 123 131	̈cantaor
+T32	ORG_VIVO 1214 1217	VIH
+T33	ORG_VIVO 1225 1237	HEPATOTROPOS
+T34	ORG_VIVO 1849 1857	paciente
+T35	ENFERMEDAD 403 418	neumomediastino
+T36	ENFERMEDAD 466 526	Neumomediastino que diseca globalmente planos del mediastino
+T37	ENFERMEDAD 562 644	Enfisema de partes blandas y subcutáneo de localización cervical y supraclavicular
+T38	ENFERMEDAD 656 705	lesiones blásticas en cuerpos dorsales y esternón
+T39	ENFERMEDAD 707 777	Lesión nodular fusiforme 32x16 mm de origen adenopático laterocervical
+T40	ENFERMEDAD 798 820	lesión supraclavicular
+T41	ENFERMEDAD 1329 1366	lesiones blásticas en esqueleto axial
+T42	ENFERMEDAD 1397 1432	proceso de características malignas
+T43	ENFERMEDAD 1490 1515	adenopatía laterocervical
+T44	ENFERMEDAD 1539 1585	proceso reactivo/enfermedad linfoproliferativa
+T45	ENFERMEDAD 1608 1622	lesiones óseas
+T46	ENFERMEDAD 1649 1668	adenopatía cervical
+T47	ENFERMEDAD 1731 1746	proceso maligno
+T48	ENFERMEDAD 1932 1947	neumomediastino
+T49	ENFERMEDAD 1959 1978	enfisema subcutáneo
+T50	ENFERMEDAD 1980 2029	Lesiones blásticas de cuerpos dorsales y esternón
+T51	ENFERMEDAD 2060 2126	lesión nodular lateral izquierda de 35x19 mm de origen adenopático
+T52	ENFERMEDAD 2153 2163	adenopatía
+T53	ENFERMEDAD 2228 2276	Enfermedad de Castleman de tipo hialino vascular
+T54	ENFERMEDAD 2375 2443	Enfermedad de Castleman tipo hialino vascular de predominio cervical
+T55	ENFERMEDAD 2445 2478	Lesiones osteoblásticas múltiples
+T56	PACIENTE-PROFESION 124 131	cantaor

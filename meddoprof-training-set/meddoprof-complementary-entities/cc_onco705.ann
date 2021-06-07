@@ -1,0 +1,166 @@
+T1	SINTOMA 429 441	metrorragias
+T2	SINTOMA 1272 1296	cefalea intensa pulsátil
+T3	SINTOMA 1302 1309	náuseas
+T4	SINTOMA 1312 1321	fotofobia
+T5	SINTOMA 1383 1392	fotopsias
+T6	SINTOMA 1403 1453	dolor EVA 9/10 y cuadrantanopsia temporal inferior
+T7	SINTOMA 1620 1655	dolor a la palpación en fosa iliaca
+T8	SINTOMA 1680 1701	irritación peritoneal
+T9	SINTOMA 1703 1733	ruidos peristálticos presentes
+T10	SINTOMA 1760 1770	consciente
+T11	SINTOMA 1772 1781	orientada
+T12	SINTOMA 2032 2042	dismetrías
+T13	SINTOMA 3557 3569	leucocitosis
+T14	SINTOMA 3588 3599	neutrofilia
+T15	SINTOMA 4772 4779	cefalea
+T16	SINTOMA 5382 5410	Dolor abdominal generalizado
+T17	SINTOMA 5426 5447	irritación peritoneal
+T18	SINTOMA 5449 5456	vómitos
+T19	SINTOMA 5484 5490	fiebre
+T20	SINTOMA 5935 5941	febril
+T21	SINTOMA 6004 6030	desorientación transitoria
+T22	SINTOMA 6943 6950	cefalea
+T23	SINTOMA 6953 6975	desconexión frecuentes
+T24	SINTOMA 7128 7133	dolor
+T25	SINTOMA 7135 7144	agitación
+T26	SINTOMA 7146 7157	desasosiego
+T27	SINTOMA 7363 7370	fallece
+T28	PROCEDIMIENTO 499 521	Ecografía transvaginal
+T29	PROCEDIMIENTO 617 634	Biopsia de cérvix
+T30	PROCEDIMIENTO 767 793	Estudio inmunohistoquímico
+T31	PROCEDIMIENTO 886 916	Resonancia magnética de pelvis
+T32	PROCEDIMIENTO 1134 1146	radioterapia
+T33	PROCEDIMIENTO 1466 1484	Exploración física
+T34	PROCEDIMIENTO 1495 1522	Auscultación cardiopulmonar
+T35	PROCEDIMIENTO 1550 1577	Exploración abdominopélvica
+T36	PROCEDIMIENTO 1735 1758	Exploración neurológica
+T37	PROCEDIMIENTO 1855 1866	campimetría
+T38	PROCEDIMIENTO 2195 2206	TC cerebral
+T39	PROCEDIMIENTO 2428 2437	hemograma
+T40	PROCEDIMIENTO 2530 2550	Radiografía de tórax
+T41	PROCEDIMIENTO 2611 2614	ECG
+T42	PROCEDIMIENTO 3155 3170	anticoagulación
+T43	PROCEDIMIENTO 3696 3711	anticoagulación
+T44	PROCEDIMIENTO 3808 3819	TC cerebral
+T45	PROCEDIMIENTO 3943 3954	RM cerebral
+T46	PROCEDIMIENTO 3957 3965	angio-RM
+T47	PROCEDIMIENTO 4275 4281	PET-TC
+T48	PROCEDIMIENTO 4568 4590	Arteriografía cerebral
+T49	PROCEDIMIENTO 5217 5235	electrocardiograma
+T50	PROCEDIMIENTO 5314 5322	angio-TC
+T51	PROCEDIMIENTO 5528 5540	TC abdominal
+T52	PROCEDIMIENTO 5884 5897	fluidoterapia
+T53	PROCEDIMIENTO 5907 5921	antibioterapia
+T54	PROCEDIMIENTO 6117 6131	antibioterapia
+T55	PROCEDIMIENTO 6276 6282	PET-TC
+T56	PROCEDIMIENTO 6441 6464	quimioterapia paliativa
+T57	PROCEDIMIENTO 6817 6868	radioterapia con intención hemostática sobre pelvis
+T58	PROCEDIMIENTO 7280 7303	sedoanalgesia paliativa
+T59	NEG 28 31	sin
+T60	NSCO 32 65	alergias medicamentosas conocidas
+T61	UNC 696 704	probable
+T62	USCO 705 724	origen endocervical
+T63	NEG 726 729	Sin
+T64	NSCO 730 765	invasión linfovascular o perineural
+T65	NEG 799 808	negativos
+T66	NEG 814 823	negativos
+T67	NEG 874 882	negativa
+T68	NEG 1523 1526	sin
+T69	NSCO 1527 1548	hallazgos patológicos
+T70	NEG 1579 1581	no
+T71	NSCO 1582 1609	se palpan masas ni megalias
+T72	NEG 1666 1669	sin
+T73	NSCO 1670 1701	signos de irritación peritoneal
+T74	NEG 1982 1984	No
+T75	NSCO 1985 2026	hay otros signos de focalidad neurológica
+T76	NEG 2028 2031	Sin
+T77	NSCO 2032 2064	dismetrías ni disdiadococinesias
+T78	NEG 2074 2082	negativo
+T79	NEG 2101 2104	sin
+T80	NSCO 2105 2117	alteraciones
+T81	NEG 2237 2239	no
+T82	NSCO 2240 2338	se evidencian imágenes compatibles con hemorragia intra o extraaxial ni con lesión isquémica aguda
+T83	NEG 2340 2342	No
+T84	NSCO 2343 2366	se identifican imágenes
+T85	UNC 2367 2382	compatibles con
+T86	USCO 2383 2400	proceso expansivo
+T87	NEG 2438 2441	sin
+T88	NSCO 2442 2454	alteraciones
+T89	NEG 2552 2555	sin
+T90	NSCO 2556 2609	alteraciones pleuroparenquimatosas de evolución aguda
+T91	NEG 2640 2643	sin
+T92	NSCO 2644 2677	alteraciones en la repolarización
+T93	UNC 2946 2961	compatibles con
+T94	USCO 2962 2994	ictus isquémico de origen venoso
+T95	UNC 3899 3912	sugestivos de
+T96	USCO 3913 3939	infartos venosos múltiples
+T97	NEG 4797 4805	ausencia
+T98	NSCO 4806 4824	total de la visión
+T99	UNC 4847 4861	compatible con
+T100	USCO 4862 4878	ceguera cortical
+T101	UNC 5090 5097	posible
+T102	USCO 5098 5116	síndrome coronario
+T103	NEG 5339 5341	no
+T104	NSCO 5342 5345	fue
+T105	UNC 5346 5360	compatible con
+T106	USCO 5361 5378	dicho diagnóstico
+T107	UNC 5666 5680	compatible con
+T108	USCO 5681 5709	cuadro de pancreatitis aguda
+T109	UNC 5818 5826	sospecha
+T110	NEG 6004 6018	desorientación
+T111	NSCO 6019 6030	transitoria
+T112	UNC 6053 6060	posible
+T113	USCO 6061 6107	crisis focal en el contexto de lesión cerebral
+T114	UNC 6568 6583	compatibles con
+T115	USCO 6584 6616	ictus isquémico de origen venoso
+T116	UNC 7000 7008	probable
+T117	USCO 7009 7023	causa vascular
+T118	FARMACO 272 302	levonorgestrel/etinilestradiol
+T119	FARMACO 1121 1131	cisplatino
+T120	FARMACO 3186 3217	heparina de bajo peso molecular
+T121	FARMACO 5746 5756	carbapenem
+T122	FARMACO 6485 6516	heparina de bajo peso molecular
+T123	ORG_VIVO 10 15	Mujer
+T124	ORG_VIVO 67 76	carnicera
+T125	ORG_VIVO 1218 1226	paciente
+T126	ORG_VIVO 2792 2800	paciente
+T127	ORG_VIVO 7208 7215	familia
+T128	ENFERMEDAD 146 162	rinitis alérgica
+T129	ENFERMEDAD 165 188	migraña con aura visual
+T130	ENFERMEDAD 221 237	fístula en sacro
+T131	ENFERMEDAD 342 374	adenocarcinoma de cérvix uterino
+T132	ENFERMEDAD 429 441	metrorragias
+T133	ENFERMEDAD 650 724	adenocarcinoma moderadamente diferenciado, de probable origen endocervical
+T134	ENFERMEDAD 918 929	adenopatías
+T135	ENFERMEDAD 1057 1081	tumores multidisciplinar
+T136	ENFERMEDAD 1894 1927	cuadrantanopsia temporal inferior
+T137	ENFERMEDAD 2279 2308	hemorragia intra o extraaxial
+T138	ENFERMEDAD 2316 2338	lesión isquémica aguda
+T139	ENFERMEDAD 2720 2756	adenocarcinoma de cérvix estadio IIB
+T140	ENFERMEDAD 2916 2945	lesiones cerebrales múltiples
+T141	ENFERMEDAD 2962 2994	ictus isquémico de origen venoso
+T142	ENFERMEDAD 2999 3008	trombosis
+T143	ENFERMEDAD 3047 3093	síndrome de hipercoagulabilidad paraneoplásico
+T144	ENFERMEDAD 3095 3116	síndrome de Trousseau
+T145	ENFERMEDAD 3913 3939	infartos venosos múltiples
+T146	ENFERMEDAD 4132 4155	proceso isquémico agudo
+T147	ENFERMEDAD 4294 4334	lesión hipermetabólica en cuello uterino
+T148	ENFERMEDAD 4474 4564	adenopatías hipermetabólicas retrocrurales derechas, retroperitoneales y supraclaviculares
+T149	ENFERMEDAD 4862 4878	ceguera cortical
+T150	ENFERMEDAD 5098 5116	síndrome coronario
+T151	ENFERMEDAD 5262 5286	tromboembolismo pulmonar
+T152	ENFERMEDAD 5637 5665	colecciones peripancreáticas
+T153	ENFERMEDAD 5691 5709	pancreatitis aguda
+T154	ENFERMEDAD 5840 5862	pancreatitis isquémica
+T155	ENFERMEDAD 5959 6001	síndrome paroxístico de despersonalización
+T156	ENFERMEDAD 6061 6073	crisis focal
+T157	ENFERMEDAD 6092 6107	lesión cerebral
+T158	ENFERMEDAD 6302 6332	carcinoma de cérvix estadio IV
+T159	ENFERMEDAD 6334 6363	adenopatías supraclaviculares
+T160	ENFERMEDAD 6376 6400	infiltración mesorrectal
+T161	ENFERMEDAD 6538 6567	lesiones cerebrales múltiples
+T162	ENFERMEDAD 6584 6616	ictus isquémico de origen venoso
+T163	ENFERMEDAD 6621 6630	trombosis
+T164	ENFERMEDAD 6669 6715	síndrome de hipercoagulabilidad paraneoplásico
+T165	ENFERMEDAD 6717 6738	síndrome de Trousseau
+T166	PACIENTE-PROFESION 67 76	carnicera

@@ -1,0 +1,188 @@
+T1	SINTOMA 60 66	fiebre
+T2	SINTOMA 115 137	debilidad generalizada
+T3	SINTOMA 139 146	vómitos
+T4	SINTOMA 148 163	dolor abdominal
+T5	SINTOMA 197 205	oliguria
+T6	SINTOMA 208 217	ictericia
+T7	SINTOMA 284 291	bebedor
+T8	SINTOMA 420 430	Consciente
+T9	SINTOMA 433 442	orientado
+T10	SINTOMA 490 514	ictericia subconjuntival
+T11	SINTOMA 592 609	Abdomen: doloroso
+T12	SINTOMA 639 660	irritación peritoneal
+T13	SINTOMA 1379 1393	microhematuria
+T14	SINTOMA 1434 1459	bilirrubina positivo alto
+T15	SINTOMA 1689 1695	fiebre
+T16	SINTOMA 1698 1707	ictericia
+T17	SINTOMA 2573 2579	fiebre
+T18	SINTOMA 3426 3437	trombopenia
+T19	SINTOMA 4231 4242	trombopenia
+T20	SINTOMA 4244 4250	fiebre
+T21	SINTOMA 5868 5880	asintomático
+T22	PROCEDIMIENTO 389 407	exploración física
+T23	PROCEDIMIENTO 550 582	Auscultación cardiorrespiratoria
+T24	PROCEDIMIENTO 732 741	Hemograma
+T25	PROCEDIMIENTO 1359 1377	Sedimento de orina
+T26	PROCEDIMIENTO 1463 1480	Gasometría venosa
+T27	PROCEDIMIENTO 1528 1548	Radiografía de tórax
+T28	PROCEDIMIENTO 1551 1576	ecografía abdominopélvica
+T29	PROCEDIMIENTO 2061 2080	ecografía abdominal
+T30	PROCEDIMIENTO 2730 2739	ecografía
+T31	PROCEDIMIENTO 3233 3242	ecografía
+T32	PROCEDIMIENTO 3487 3514	frotis de sangre periférica
+T33	PROCEDIMIENTO 5109 5119	diuréticos
+T34	PROCEDIMIENTO 5121 5135	antibioterapia
+T35	PROCEDIMIENTO 5147 5171	transfusión de plaquetas
+T36	PROCEDIMIENTO 5177 5189	hemocultivos
+T37	PROCEDIMIENTO 5191 5201	urocultivo
+T38	PROCEDIMIENTO 5204 5216	coprocultivo
+T39	PROCEDIMIENTO 5249 5337	serologías frente a citomegalovirus, herpes, toxoplasma, varicela, virus de Epstein-Barr
+T40	PROCEDIMIENTO 5634 5648	antibioterapia
+T41	NEG 313 315	No
+T42	NSCO 316 380	ha realizado viajes al extranjero ni tiene contacto con animales
+T43	NEG 625 628	sin
+T44	NSCO 629 660	signos de irritación peritoneal
+T45	NEG 662 664	No
+T46	NSCO 665 673	megalias
+T47	NEG 914 917	sin
+T48	NSCO 918 933	esquistocitosis
+T49	NEG 1578 1581	sin
+T50	NSCO 1582 1603	hallazgos patológicos
+T51	NEG 1935 1937	no
+T52	NSCO 1938 1949	infecciosas
+T53	NEG 2116 2118	no
+T54	NSCO 2119 2127	dilatada
+T55	NEG 2243 2245	no
+T56	NSCO 2246 2282	supera en diez veces el valor normal
+T57	NEG 2397 2399	no
+T58	NSCO 2400 2456	hay datos que sugieran un consumo excesivo (macrocitosis
+T59	NEG 2599 2601	no
+T60	NSCO 2602 2693	infecciosa como en la hepatitis alcohólica, pancreatitis aguda o el carcinoma hepatocelular
+T61	NEG 2788 2791	sin
+T62	NSCO 2792 2822	un claro predominio de GOT>GPT
+T63	NEG 2823 2832	descartan
+T64	NSCO 2833 2847	estos procesos
+T65	NEG 2888 2891	sin
+T66	NSCO 2892 2985	un patrón definido: ni colestasis (Fosfatasa alcalina normal), ni lesión hepatocelular difusa
+T67	NEG 3005 3007	no
+T68	NSCO 3008 3081	están desproporcionadamente elevadas con respecto a la fosfatasa alcalina
+T69	NEG 3160 3162	no
+T70	NSCO 3163 3172	nefrítico
+T71	NEG 3443 3445	no
+T72	NSCO 3446 3552	anemia hemolítica ni esquistocitos en el frotis de sangre periférica, ni explicaría la afectación hepática
+T73	UNC 3954 3963	probables
+T74	USCO 3964 3967	por
+T75	NEG 3968 3970	no
+T76	NSCO 3971 4026	tratarse de un paciente inmunodeprimido ni neutropénico
+T77	NEG 4031 4033	no
+T78	NSCO 4034 4056	haber realizado viajes
+T79	UNC 4081 4089	probable
+T80	USCO 4090 4146	la infección por trematodos hepáticos como Clonorquiasis
+T81	UNC 4267 4275	sospecha
+T82	USCO 4276 4322	un cuadro infeccioso con repercusión sistémica
+T83	NEG 4448 4459	ausencia de
+T84	NSCO 4460 4471	traumatismo
+T85	UNC 4623 4631	sugieren
+T86	USCO 4632 4663	el diagnóstico de leptospirosis
+T87	NEG 4668 4670	no
+T88	NSCO 4671 4757	haber realizado viajes al extranjero excluye otros cuadros infecciosos como Hantavirus
+T89	UNC 4942 4947	puede
+T90	USCO 4948 4971	imitar la leptospirosis
+T91	NSCO 5173 5223	Los hemocultivos, urocultivo y coprocultivo fueron
+T92	NEG 5224 5233	negativos
+T93	NEG 5464 5473	negativas
+T94	NSCO 5474 5492	o infección pasada
+T95	NEG 5525 5533	negativo
+T96	NEG 5541 5549	negativo
+T97	NEG 5560 5568	negativo
+T98	NEG 5580 5588	negativo
+T99	NEG 5868 5880	asintomático
+T100	FARMACO 5669 5678	meropenen
+T101	FARMACO 5680 5692	metronidazol
+T102	FARMACO 5695 5706	doxiciclina
+T103	FARMACO 5923 5934	doxiciclina
+T104	ORG_VIVO 0 8	Paciente
+T105	ORG_VIVO 21 41	trabajador portuario
+T106	ORG_VIVO 237 247	personales
+T107	ORG_VIVO 265 271	tabaco
+T108	ORG_VIVO 273 281	cannabis
+T109	ORG_VIVO 372 380	animales
+T110	ORG_VIVO 1676 1684	paciente
+T111	ORG_VIVO 2363 2371	paciente
+T112	ORG_VIVO 3791 3798	mujeres
+T113	ORG_VIVO 3986 3994	paciente
+T114	ORG_VIVO 4148 4165	Fasciola hepática
+T115	ORG_VIVO 4601 4621	trabajador portuario
+T116	ORG_VIVO 4747 4757	Hantavirus
+T117	ORG_VIVO 4987 4995	paciente
+T118	ORG_VIVO 5269 5284	citomegalovirus
+T119	ORG_VIVO 5286 5292	herpes
+T120	ORG_VIVO 5294 5304	toxoplasma
+T121	ORG_VIVO 5316 5337	virus de Epstein-Barr
+T122	ORG_VIVO 5339 5350	rickettsias
+T123	ORG_VIVO 5352 5372	Borrelia burgdorferi
+T124	ORG_VIVO 5374 5391	Coxiella burnetti
+T125	ORG_VIVO 5393 5396	VIH
+T126	ORG_VIVO 5398 5425	Yersinia pseudotuberculosis
+T127	ORG_VIVO 5428 5442	enterocolitica
+T128	ORG_VIVO 5494 5515	Virus de la hepatitis
+T129	ORG_VIVO 5517 5520	VHA
+T130	ORG_VIVO 5535 5540	HbsAg
+T131	ORG_VIVO 5556 5559	Hbc
+T132	ORG_VIVO 5576 5579	VHC
+T133	ORG_VIVO 5845 5853	paciente
+T134	ENFERMEDAD 284 291	bebedor
+T135	ENFERMEDAD 1728 1758	causas infecciosas: vía biliar
+T136	ENFERMEDAD 1760 1770	colangitis
+T137	ENFERMEDAD 1773 1785	colecistitis
+T138	ENFERMEDAD 1792 1816	hepatitis virales agudas
+T139	ENFERMEDAD 1818 1836	abscesos hepáticos
+T140	ENFERMEDAD 1843 1898	infecciones hepáticas por bacterias, hongos y parásitos
+T141	ENFERMEDAD 1925 1949	hepatitis no infecciosas
+T142	ENFERMEDAD 1959 1979	hepatitis alcohólica
+T143	ENFERMEDAD 1985 2004	hepatitis isquémica
+T144	ENFERMEDAD 2006 2016	vasculitis
+T145	ENFERMEDAD 2018 2055	síndrome antifosfolípido catastrófico
+T146	ENFERMEDAD 2147 2157	colangitis
+T147	ENFERMEDAD 2159 2171	colecistitis
+T148	ENFERMEDAD 2178 2196	abscesos hepáticos
+T149	ENFERMEDAD 2307 2329	hepatitis vírica aguda
+T150	ENFERMEDAD 2332 2351	hepatitis isquémica
+T151	ENFERMEDAD 2444 2456	macrocitosis
+T152	ENFERMEDAD 2477 2498	hipertrofia parotídea
+T153	ENFERMEDAD 2624 2644	hepatitis alcohólica
+T154	ENFERMEDAD 2646 2664	pancreatitis aguda
+T155	ENFERMEDAD 2670 2693	carcinoma hepatocelular
+T156	ENFERMEDAD 2862 2887	hiperbilirrubinemia mixta
+T157	ENFERMEDAD 2915 2925	colestasis
+T158	ENFERMEDAD 2958 2985	lesión hepatocelular difusa
+T159	ENFERMEDAD 3104 3133	fracaso renal agudo oligúrico
+T160	ENFERMEDAD 3141 3172	sedimento urinario no nefrítico
+T161	ENFERMEDAD 3273 3289	cuadro prerrenal
+T162	ENFERMEDAD 3361 3388	síndrome hemolítico urémico
+T163	ENFERMEDAD 3404 3423	insuficiencia renal
+T164	ENFERMEDAD 3426 3437	trombopenia
+T165	ENFERMEDAD 3446 3463	anemia hemolítica
+T166	ENFERMEDAD 3589 3626	síndrome antifosfolípido catastrófico
+T167	ENFERMEDAD 3826 3859	síndrome antifosfolípido primario
+T168	ENFERMEDAD 3878 3905	lupus eritematoso sistémico
+T169	ENFERMEDAD 3912 3933	infecciones hepáticas
+T170	ENFERMEDAD 3995 4010	inmunodeprimido
+T171	ENFERMEDAD 4093 4127	infección por trematodos hepáticos
+T172	ENFERMEDAD 4148 4165	Fasciola hepática
+T173	ENFERMEDAD 4168 4182	Opistorquiasis
+T174	ENFERMEDAD 4207 4229	fallo hepático y renal
+T175	ENFERMEDAD 4231 4242	trombopenia
+T176	ENFERMEDAD 4279 4296	cuadro infeccioso
+T177	ENFERMEDAD 4328 4347	fracaso renal agudo
+T178	ENFERMEDAD 4544 4555	hemorragias
+T179	ENFERMEDAD 4650 4663	leptospirosis
+T180	ENFERMEDAD 4759 4765	Dengue
+T181	ENFERMEDAD 4839 4852	leptospirosis
+T182	ENFERMEDAD 4924 4937	rickettsiosis
+T183	ENFERMEDAD 4958 4971	leptospirosis
+T184	ENFERMEDAD 5982 5995	leptospirosis
+T185	ENFERMEDAD 6046 6074	Leptospirosis icteroazoémica
+T186	ENFERMEDAD 6077 6095	enfermedad de Weil
+T187	PACIENTE-PROFESION 21 41	trabajador portuario
+T188	PACIENTE-PROFESION 4601 4621	trabajador portuario

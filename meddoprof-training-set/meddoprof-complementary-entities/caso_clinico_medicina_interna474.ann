@@ -1,0 +1,70 @@
+T1	SINTOMA 358 364	fiebre
+T2	SINTOMA 410 434	rash pruriginoso en cara
+T3	SINTOMA 537 544	disuria
+T4	SINTOMA 654 664	consciente
+T5	SINTOMA 666 675	orientado
+T6	SINTOMA 678 686	colaboró
+T7	SINTOMA 718 726	eupneico
+T8	SINTOMA 764 778	normocoloreado
+T9	SINTOMA 820 841	exantema morbiliforme
+T10	SINTOMA 1086 1094	dolorosa
+T11	SINTOMA 1182 1194	leucocitosis
+T12	SINTOMA 1213 1224	eosinofilia
+T13	SINTOMA 1367 1401	elevación de las enzimas hepáticas
+T14	SINTOMA 1878 1884	fiebre
+T15	SINTOMA 1889 1900	eosinofilia
+T16	SINTOMA 2164 2170	fiebre
+T17	PROCEDIMIENTO 1142 1151	hemograma
+T18	PROCEDIMIENTO 1305 1321	perfil abdominal
+T19	PROCEDIMIENTO 1578 1598	radiografía de tórax
+T20	PROCEDIMIENTO 1766 1790	estudio de autoinmunidad
+T21	PROCEDIMIENTO 2036 2063	tratamiento con corticoides
+T22	PROCEDIMIENTO 2239 2251	TAC de tórax
+T23	PROCEDIMIENTO 2588 2611	tratamiento corticoideo
+T24	NEG 66 69	sin
+T25	NSCO 70 85	hábitos tóxicos
+T26	NEG 483 485	No
+T27	NSCO 486 583	afirmaba sintomatología de infección respiratoria, disuria u otra clínica por aparatos o sistemas
+T28	NEG 737 740	sin
+T29	NSCO 741 778	trabajo respiratorio y normocoloreado
+T30	NEG 957 959	No
+T31	NSCO 960 1018	se afectaron palmas ni plantas, ni la región periorbitaria
+T32	NEG 1083 1085	no
+T33	NSCO 1086 1094	dolorosa
+T34	NEG 1322 1324	no
+T35	NSCO 1325 1349	presentaron alteraciones
+T36	NEG 1454 1457	sin
+T37	NSCO 1458 1484	otras alteraciones iónicas
+T38	NEG 1745 1754	negativas
+T39	NEG 1801 1803	no
+T40	NSCO 1804 1868	presentó elevación de ANCA, ANA ni pico monoclonal significativo
+T41	NEG 2066 2075	se retiró
+T42	NSCO 2076 2095	el fármaco causante
+T43	NEG 2145 2160	desaparición de
+T44	NSCO 2161 2170	la fiebre
+T45	NEG 2502 2513	se descartó
+T46	NSCO 2514 2534	afectación sistémica
+T47	FARMACO 270 287	eslicarbamacepina
+T48	FARMACO 2436 2460	amoxicilina/ clavulánico
+T49	FARMACO 2667 2684	eslicarbamacepina
+T50	FARMACO 2689 2702	levetiracetam
+T51	ORG_VIVO 24 29	varón
+T52	ORG_VIVO 42 51	ingeniero
+T53	ORG_VIVO 327 335	paciente
+T54	ORG_VIVO 1689 1692	VHB
+T55	ORG_VIVO 1694 1697	VHC
+T56	ORG_VIVO 1699 1702	VIH
+T57	ORG_VIVO 1704 1707	CMV
+T58	ORG_VIVO 1709 1712	VEB
+T59	ORG_VIVO 1714 1717	VHS
+T60	ORG_VIVO 2348 2356	paciente
+T61	ENFERMEDAD 147 182	malformación arteriovenosa temporal
+T62	ENFERMEDAD 211 249	crisis epilépticas parciales complejas
+T63	ENFERMEDAD 513 535	infección respiratoria
+T64	ENFERMEDAD 1182 1194	leucocitosis
+T65	ENFERMEDAD 1421 1440	hiponatremia severa
+T66	ENFERMEDAD 1720 1731	parasitosis
+T67	ENFERMEDAD 1980 2024	Síndrome de Dress secundario a dicho fármaco
+T68	ENFERMEDAD 2368 2404	sobreinfección estreptocócica facial
+T69	ENFERMEDAD 2514 2562	afectación sistémica (renal, pulmonar y hepática
+T70	PACIENTE-PROFESION 42 51	ingeniero

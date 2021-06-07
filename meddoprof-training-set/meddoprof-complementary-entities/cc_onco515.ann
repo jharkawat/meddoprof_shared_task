@@ -1,0 +1,75 @@
+T1	SINTOMA 298 301	tos
+T2	SINTOMA 306 330	expectoración hemoptoica
+T3	SINTOMA 375 384	febrícula
+T4	SINTOMA 512 561	hipofonesis a nivel de lóbulo superior del pulmón
+T5	SINTOMA 735 774	masa a nivel de lóbulo superior derecho
+T6	SINTOMA 865 906	masa de 3,5 cm a nivel de lóbulo superior
+T7	SINTOMA 2881 2892	bradicardia
+T8	PROCEDIMIENTO 414 432	Exploración física
+T9	PROCEDIMIENTO 697 717	radiografía de tórax
+T10	PROCEDIMIENTO 805 829	TC toracoabdominopélvica
+T11	PROCEDIMIENTO 1037 1043	PET-TC
+T12	PROCEDIMIENTO 1099 1128	resonancia magnética cerebral
+T13	PROCEDIMIENTO 1211 1235	biopsia con aguja gruesa
+T14	PROCEDIMIENTO 1379 1406	lobectomía superior derecha
+T15	PROCEDIMIENTO 1409 1443	linfadenectomía hilio-mediastínica
+T16	PROCEDIMIENTO 1492 1515	ciclos de quimioterapia
+T17	PROCEDIMIENTO 1776 1810	radioterapia holocraneal paliativa
+T18	PROCEDIMIENTO 1992 2005	quimioterapia
+T19	PROCEDIMIENTO 2263 2289	radioterapia esteroatáxica
+T20	PROCEDIMIENTO 2505 2539	resonancia magnética (RM) cerebral
+T21	PROCEDIMIENTO 2569 2580	craneotomía
+T22	PROCEDIMIENTO 3157 3168	RM cerebral
+T23	PROCEDIMIENTO 3334 3358	radioterapia holocraneal
+T24	NEG 385 388	sin
+T25	NSCO 389 411	otra clínica adicional
+T26	UNC 915 927	sugestivo de
+T27	USCO 928 946	neoplasia pulmonar
+T28	NEG 988 991	sin
+T29	NSCO 992 1017	hallazgos a otros niveles
+T30	NEG 1129 1137	descartó
+T31	NSCO 1138 1177	la presencia de metástasis a este nivel
+T32	NEG 1852 1855	sin
+T33	NSCO 1856 1881	presentar toxicidad aguda
+T34	NEG 1961 1969	negativa
+T35	NEG 2346 2356	suspendido
+T36	NSCO 2357 2375	tras séptimo ciclo
+T37	UNC 2612 2626	compatible con
+T38	USCO 2627 2645	gliosis y necrosis
+T39	NEG 3708 3720	asintomático
+T40	FARMACO 1530 1540	cisplatino
+T41	FARMACO 1541 1552	vinorelbina
+T42	FARMACO 2027 2037	cisplatino
+T43	FARMACO 2038 2048	pemetrexed
+T44	FARMACO 2310 2320	pemetrexed
+T45	FARMACO 2838 2848	crizotinib
+T46	FARMACO 3510 3519	alectinib
+T47	ORG_VIVO 36 41	varón
+T48	ORG_VIVO 92 121	trabajador en la construcción
+T49	ORG_VIVO 140 145	hijos
+T50	ORG_VIVO 168 176	familiar
+T51	ORG_VIVO 181 189	paciente
+T52	ORG_VIVO 205 232	médico de Atención Primaria
+T53	ORG_VIVO 460 468	paciente
+T54	ORG_VIVO 665 692	médico de Atención Primaria
+T55	ORG_VIVO 3638 3646	paciente
+T56	ENFERMEDAD 928 946	neoplasia pulmonar
+T57	ENFERMEDAD 958 987	nódulo milimétrico subpleural
+T58	ENFERMEDAD 1154 1164	metástasis
+T59	ENFERMEDAD 1253 1278	lesión en lóbulo superior
+T60	ENFERMEDAD 1309 1342	adenocarcinoma de pulmón cT2cN1M0
+T61	ENFERMEDAD 1676 1692	recaída pulmonar
+T62	ENFERMEDAD 1695 1737	metástasis cerebral única a nivel parietal
+T63	ENFERMEDAD 1866 1881	toxicidad aguda
+T64	ENFERMEDAD 2158 2173	lesión cerebral
+T65	ENFERMEDAD 2202 2231	lesión única a nivel cerebral
+T66	ENFERMEDAD 2380 2423	nefritis intersticial secundaria al fármaco
+T67	ENFERMEDAD 2473 2488	lesión parietal
+T68	ENFERMEDAD 2627 2634	gliosis
+T69	ENFERMEDAD 2881 2892	bradicardia
+T70	ENFERMEDAD 2971 2998	enfermedad a nivel cerebral
+T71	ENFERMEDAD 3211 3249	lesiones milimétricas supratentoriales
+T72	ENFERMEDAD 3564 3596	lesiones cerebrales y pulmonares
+T73	SANITARIO-PROFESION 205 232	médico de Atención Primaria
+T74	SANITARIO-PROFESION 665 692	médico de Atención Primaria
+T75	PACIENTE-PROFESION 92 121	trabajador en la construcción

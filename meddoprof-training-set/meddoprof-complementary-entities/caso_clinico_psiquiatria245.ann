@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 358 383	administración de glucosa
+T2	PROCEDIMIENTO 417 442	tratamiento antipsicótico
+T3	PROCEDIMIENTO 495 510	prueba genética
+T4	NEG 404 416	retirada del
+T5	NSCO 417 442	tratamiento antipsicótico
+T6	ORG_VIVO 67 81	paciente varón
+T7	ORG_VIVO 757 786	profesionales de salud mental
+T8	ENFERMEDAD 27 54	porfiria aguda intermitente
+T9	ENFERMEDAD 130 153	esquizofrenia paranoide
+T10	ENFERMEDAD 309 317	porfiria
+T11	ENFERMEDAD 698 721	enfermedad psiquiátrica
+T12	SANITARIO-PROFESION 757 786	profesionales de salud mental

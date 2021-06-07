@@ -1,0 +1,27 @@
+T1	SINTOMA 100 137	alteraciones en el patrón alimentario
+T2	SINTOMA 139 147	caquexia
+T3	SINTOMA 149 157	tristeza
+T4	SINTOMA 159 190	alteración del patrón del sueño
+T5	SINTOMA 192 220	disminución de la autoestima
+T6	PROCEDIMIENTO 871 889	Electrocardiograma
+T7	NEG 543 551	se niega
+T8	NSCO 552 571	a ingerir alimentos
+T9	UNC 604 617	aparentemente
+T10	USCO 618 651	después de un episodio traumático
+T11	FARMACO 1670 1678	Depakote
+T12	FARMACO 1681 1697	valproato sódico
+T13	FARMACO 1710 1717	Effexor
+T14	FARMACO 1721 1732	venlafaxina
+T15	FARMACO 1744 1751	Zyprexa
+T16	FARMACO 1755 1765	Olanzapina
+T17	ORG_VIVO 15 33	paciente masculino
+T18	ORG_VIVO 313 323	estudiante
+T19	ORG_VIVO 496 504	paciente
+T20	ORG_VIVO 666 679	primo materno
+T21	ORG_VIVO 703 716	primo paterno
+T22	ORG_VIVO 1576 1584	paciente
+T23	ENFERMEDAD 222 240	retardo psicomotor
+T24	ENFERMEDAD 684 701	diabetes mellitus
+T25	ENFERMEDAD 721 738	anorexia nerviosa
+T26	ENFERMEDAD 1608 1649	anorexia nerviosa c/ hipertrigliceridemia
+T27	PACIENTE-SITUACION_LABORAL 313 323	estudiante

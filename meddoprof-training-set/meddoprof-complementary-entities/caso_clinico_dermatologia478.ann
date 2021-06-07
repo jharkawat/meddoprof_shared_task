@@ -1,0 +1,22 @@
+T1	SINTOMA 37 56	eczema en las manos
+T2	PROCEDIMIENTO 648 666	exploración física
+T3	PROCEDIMIENTO 807 826	pruebas epicutáneas
+T4	PROCEDIMIENTO 971 990	pruebas epicutáneas
+T5	NEG 58 60	No
+T6	NSCO 61 120	refería historia personal o familiar de psoriasis ni atopia
+T7	NEG 526 528	no
+T8	NSCO 529 538	dominante
+T9	ORG_VIVO 0 5	Mujer
+T10	ORG_VIVO 78 86	personal
+T11	ORG_VIVO 89 97	familiar
+T12	ORG_VIVO 1133 1141	paciente
+T13	ORG_VIVO 1290 1298	paciente
+T14	ENFERMEDAD 37 56	eczema en las manos
+T15	ENFERMEDAD 101 110	psoriasis
+T16	ENFERMEDAD 114 120	atopia
+T17	ENFERMEDAD 309 452	lesiones eczematosas muy pruriginosas en pulpejos, dorso y laterales de casi todos los dedos y en la eminencia tenar del primer dedo de la mano
+T18	ENFERMEDAD 630 640	dermatitis
+T19	ENFERMEDAD 681 778	lesiones secas y fisuradas en eminencia tenar y en el dorso del segundo y tercer dedos de la mano
+T20	ENFERMEDAD 1218 1285	dermatitis de contacto alérgica por acrilatos de origen profesional
+T21	PACIENTE-PROFESION 147 158	esteticista
+T22	PACIENTE-PROFESION 135 144	peluquera

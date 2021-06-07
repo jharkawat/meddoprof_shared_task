@@ -1,0 +1,81 @@
+T1	SINTOMA 160 166	fiebre
+T2	SINTOMA 220 227	cefalea
+T3	SINTOMA 229 247	sudoración profusa
+T4	SINTOMA 258 274	malestar general
+T5	SINTOMA 277 285	mialgias
+T6	SINTOMA 786 792	febril
+T7	SINTOMA 1259 1273	organomegalias
+T8	SINTOMA 1317 1325	exantema
+T9	SINTOMA 1896 1902	fiebre
+T10	SINTOMA 2049 2055	fiebre
+T11	SINTOMA 2202 2209	afebril
+T12	SINTOMA 2386 2392	fiebre
+T13	SINTOMA 2596 2602	fiebre
+T14	SINTOMA 3287 3293	fiebre
+T15	SINTOMA 3295 3302	cefalea
+T16	SINTOMA 3304 3312	mialgias
+T17	SINTOMA 3370 3395	linfadenopatías dolorosas
+T18	PROCEDIMIENTO 293 302	anamnesis
+T19	PROCEDIMIENTO 415 438	profilaxis antipalúdica
+T20	PROCEDIMIENTO 712 730	exploración física
+T21	PROCEDIMIENTO 943 961	exploración física
+T22	PROCEDIMIENTO 1737 1764	análisis de orina elemental
+T23	PROCEDIMIENTO 1770 1790	radiografía de tórax
+T24	PROCEDIMIENTO 1811 1832	prueba de gota gruesa
+T25	PROCEDIMIENTO 2277 2296	inmunofluorescencia
+T26	NEG 36 39	sin
+T27	NSCO 40 74	antecedentes personales de interés
+T28	NEG 396 398	No
+T29	NSCO 399 438	había tomado la profilaxis antipalúdica
+T30	NEG 632 644	asintomática
+T31	NEG 646 648	No
+T32	NSCO 649 703	había otros síntomas que explicasen un foco infeccioso
+T33	NEG 974 981	excepto
+T34	NSCO 982 1039	dos lesiones como las observadas en la figura 1 de 0,5 cm
+T35	NEG 1242 1244	No
+T36	NSCO 1245 1325	se observaban organomegalias ni adenopatías a otros niveles, ni tampoco exantema
+T37	NEG 1841 1849	negativa
+T38	UNC 1914 1927	sugestivas de
+T39	USCO 1928 2012	picaduras debemos de pensar siempre en cuadros producidos por rickettsias importadas
+T40	UNC 2037 2048	sospecha de
+T41	USCO 2049 2082	fiebre secundario a rickettsiosis
+T42	NEG 2202 2209	afebril
+T43	NEG 2955 2957	no
+T44	NSCO 2958 2979	es huésped específica
+T45	NEG 3008 3010	no
+T46	NSCO 3011 3026	son esporádicas
+T47	UNC 3323 3336	sugestivas de
+T48	USCO 3337 3405	picaduras en zonas expuestas con linfadenopatías dolorosas asociadas
+T49	FARMACO 2123 2134	doxiciclina
+T50	FARMACO 2422 2433	doxiciclina
+T51	FARMACO 2493 2507	ciprofloxacino
+T52	ORG_VIVO 15 23	paciente
+T53	ORG_VIVO 53 63	personales
+T54	ORG_VIVO 128 145	médico de familia
+T55	ORG_VIVO 320 328	paciente
+T56	ORG_VIVO 547 555	paciente
+T57	ORG_VIVO 561 566	novia
+T58	ORG_VIVO 747 755	paciente
+T59	ORG_VIVO 1860 1868	paciente
+T60	ORG_VIVO 1990 2001	rickettsias
+T61	ORG_VIVO 2186 2194	paciente
+T62	ORG_VIVO 2625 2643	garrapata africana
+T63	ORG_VIVO 2657 2675	Rickettsia africae
+T64	ORG_VIVO 2806 2825	garrapata Amblyomma
+T65	ORG_VIVO 2837 2857	Amblyomma variegatum
+T66	ORG_VIVO 2862 2870	parasita
+T67	ORG_VIVO 2874 2887	ganado vacuno
+T68	ORG_VIVO 2892 2900	animales
+T69	ORG_VIVO 2928 2938	ser humano
+T70	ORG_VIVO 2945 2954	garrapata
+T71	ORG_VIVO 2961 2968	huésped
+T72	ORG_VIVO 3100 3108	personas
+T73	ORG_VIVO 3183 3189	ganado
+T74	ORG_VIVO 3192 3200	animales
+T75	ENFERMEDAD 585 602	lesiones cutáneas
+T76	ENFERMEDAD 688 703	foco infeccioso
+T77	ENFERMEDAD 1112 1127	lesión ulcerosa
+T78	ENFERMEDAD 1198 1240	adenopatías satélites dolorosas regionales
+T79	ENFERMEDAD 1277 1288	adenopatías
+T80	ENFERMEDAD 2069 2082	rickettsiosis
+T81	SANITARIO-PROFESION 128 145	médico de familia

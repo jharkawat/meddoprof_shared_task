@@ -1,0 +1,245 @@
+T1	SINTOMA 630 723	lesiones ulceradas dolorosas a nivel del 4o dedo de la mano izquierda y el 2o dedo de la mano
+T2	SINTOMA 766 778	acrocianosis
+T3	SINTOMA 1221 1270	exantema maculopapular extremadamente pruriginoso
+T4	SINTOMA 1981 1992	eosinofilia
+T5	SINTOMA 2491 2502	eosinofilia
+T6	SINTOMA 3352 3363	eosinofilia
+T7	SINTOMA 3534 3545	eosinofilia
+T8	SINTOMA 3764 3775	eosinofilia
+T9	SINTOMA 5410 5421	eosinofilia
+T10	SINTOMA 5528 5539	eosinofilia
+T11	SINTOMA 6125 6139	organomegalias
+T12	SINTOMA 6562 6573	eosinofilia
+T13	SINTOMA 6762 6773	eosinofilia
+T14	SINTOMA 7193 7209	hipereosinofilia
+T15	SINTOMA 7539 7550	eosinofilia
+T16	SINTOMA 8402 8418	hipereosinofilia
+T17	SINTOMA 9421 9453	empeoramiento del estado general
+T18	SINTOMA 9473 9484	hipotensión
+T19	SINTOMA 9486 9499	hipoperfusión
+T20	SINTOMA 9502 9535	frialdad marcada en la extremidad
+T21	SINTOMA 10005 10016	eosinofilia
+T22	SINTOMA 10445 10454	dolorosas
+T23	SINTOMA 10852 10863	eosinofilia
+T24	PROCEDIMIENTO 343 359	antihistamínicos
+T25	PROCEDIMIENTO 362 380	corticoides orales
+T26	PROCEDIMIENTO 497 507	esteroides
+T27	PROCEDIMIENTO 538 553	biopsia cutánea
+T28	PROCEDIMIENTO 862 884	tratamiento esteroideo
+T29	PROCEDIMIENTO 895 935	infusión de prostaglandinas intravenosas
+T30	PROCEDIMIENTO 1317 1326	hemograma
+T31	PROCEDIMIENTO 1421 1427	frotis
+T32	PROCEDIMIENTO 1690 1712	estudio de coagulación
+T33	PROCEDIMIENTO 1721 1742	anticoagulante lúpico
+T34	PROCEDIMIENTO 2381 2410	estudio de parásitos en heces
+T35	PROCEDIMIENTO 2518 2532	ecocardiograma
+T36	PROCEDIMIENTO 2624 2639	biopsia cutánea
+T37	PROCEDIMIENTO 2883 2905	biopsia de médula ósea
+T38	PROCEDIMIENTO 3165 3187	TAC torácico-abdominal
+T39	PROCEDIMIENTO 4037 4069	antiinflamatorios no esteroideos
+T40	PROCEDIMIENTO 4071 4106	inhibidores de la bomba de protones
+T41	PROCEDIMIENTO 4243 4302	ReaccionesdehipersensibilidadnofarmacológicasmediadasporIgE
+T42	PROCEDIMIENTO 6060 6063	TAC
+T43	PROCEDIMIENTO 6425 6439	corticoterapia
+T44	PROCEDIMIENTO 7892 7920	prostaglandinas intravenosas
+T45	PROCEDIMIENTO 7923 7942	corticoterapia oral
+T46	PROCEDIMIENTO 8198 8221	tratamiento antibiótico
+T47	PROCEDIMIENTO 8552 8576	estudios parasitológicos
+T48	PROCEDIMIENTO 8680 8700	estudio de extensión
+T49	PROCEDIMIENTO 8925 8940	biopsia cutánea
+T50	PROCEDIMIENTO 8971 8993	biopsia de médula ósea
+T51	PROCEDIMIENTO 9205 9208	TAC
+T52	PROCEDIMIENTO 9331 9342	corticoides
+T53	PROCEDIMIENTO 9770 9783	arteriografía
+T54	PROCEDIMIENTO 9847 9859	fibrinolisis
+T55	PROCEDIMIENTO 10155 10178	tratamiento corticoideo
+T56	NEG 26 29	sin
+T57	NSCO 30 57	más antecedentes personales
+T58	NEG 945 953	falta de
+T59	NSCO 954 961	mejoría
+T60	NEG 2180 2189	negativas
+T61	NEG 2412 2420	negativo
+T62	UNC 2428 2435	valorar
+T63	USCO 2436 2439	una
+T64	UNC 2440 2447	posible
+T65	USCO 2448 2502	infiltración orgánica en el contexto de la eosinofilia
+T66	UNC 2757 2764	posible
+T67	USCO 2765 2811	existencia de un proceso neoplásico subyacente
+T68	NEG 2861 2872	ausencia de
+T69	NSCO 2873 2880	blastos
+T70	NEG 2984 2987	sin
+T71	NSCO 2988 3000	alteraciones
+T72	NEG 3002 3004	no
+T73	NSCO 3005 3012	blastos
+T74	NEG 3102 3110	negativa
+T75	NEG 3152 3161	negativos
+T76	NEG 3189 3191	No
+T77	NSCO 3192 3203	adenopatías
+T78	UNC 3289 3297	probable
+T79	USCO 3298 3322	relación con atelectasia
+T80	UNC 3435 3446	puede tener
+T81	USCO 3447 3478	una gran variedad de etiologías
+T82	NEG 3788 3790	no
+T83	NSCO 3791 3805	asociada a VIH
+T84	UNC 3835 3843	posibles
+T85	USCO 3844 3866	entidades diagnósticas
+T86	NEG 4055 4057	no
+T87	NSCO 4058 4069	esteroideos
+T88	NEG 4190 4192	no
+T89	NSCO 4193 4239	tomaba ninguna medicación al inicio del cuadro
+T90	NEG 4413 4415	no
+T91	NSCO 4416 4456	presentaba ninguna manifestación clínica
+T92	NEG 4531 4533	no
+T93	NSCO 4534 4543	alérgicas
+T94	NEG 5123 5142	permitían descartar
+T95	NSCO 5143 5190	la existencia de cualquiera de estas patologías
+T96	UNC 5396 5404	sugieren
+T97	USCO 5405 5446	>15% eosinofilia) o el Síndrome de Sézary
+T98	NEG 5448 5450	No
+T99	NSCO 5451 5539	deben olvidarse tampoco las mastocitosis sistémicas en las que puede existir eosinofilia
+T100	NEG 5917 5919	no
+T101	NSCO 5920 5978	un proceso neoplásico a nivel pulmonar en nuestro paciente
+T102	NEG 6122 6124	no
+T103	NSCO 6125 6139	organomegalias
+T104	NEG 6268 6279	se descartó
+T105	NSCO 6280 6307	infección por Strongyloides
+T106	NEG 7501 7512	ausencia de
+T107	NSCO 7513 7550	otras causas conocidas de eosinofilia
+T108	UNC 8464 8472	posibles
+T109	USCO 8473 8479	causas
+T110	NEG 8480 8483	sin
+T111	NSCO 8484 8576	encontrarse evidencia de enfermedad autoinmunitaria y con todos los estudios parasitológicos
+T112	NEG 8577 8586	negativos
+T113	NEG 8702 8705	sin
+T114	NSCO 8706 8735	evidencia alguna del parásito
+T115	NEG 8815 8817	no
+T116	NSCO 8818 8855	obteniéndose respuesta clínica alguna
+T117	NEG 8945 8956	ausencia de
+T118	NSCO 8957 8988	blastos en la biopsia de médula
+T119	NEG 9030 9038	negativa
+T120	UNC 9145 9158	probablemente
+T121	USCO 9159 9169	idiopático
+T122	UNC 9224 9232	descartó
+T123	USCO 9233 9236	una
+T124	UNC 9237 9245	probable
+T125	USCO 9246 9268	neoplasia a este nivel
+T126	NEG 9733 9736	sin
+T127	NSCO 9737 9752	flujos distales
+T128	NEG 10183 10185	no
+T129	NSCO 10186 10218	pudo en ningún momento reducirse
+T130	UNC 10897 10904	parecen
+T131	USCO 10905 10920	más controladas
+T132	FARMACO 3991 4001	sulfamidas
+T133	FARMACO 4003 4013	quinolonas
+T134	FARMACO 4015 4028	tetraciclinas
+T135	FARMACO 4108 4118	alopurinol
+T136	FARMACO 7848 7879	heparina de bajo peso molecular
+T137	FARMACO 8223 8236	levofloxacino
+T138	FARMACO 8239 8251	clindamicina
+T139	FARMACO 8762 8772	albendazol
+T140	FARMACO 10242 10252	prednisona
+T141	FARMACO 10276 10290	ciclosporina A
+T142	FARMACO 10758 10769	hidroxiurea
+T143	ORG_VIVO 0 5	Varón
+T144	ORG_VIVO 47 57	personales
+T145	ORG_VIVO 177 188	dermatólogo
+T146	ORG_VIVO 610 618	paciente
+T147	ORG_VIVO 966 974	paciente
+T148	ORG_VIVO 2063 2066	VIH
+T149	ORG_VIVO 2068 2075	Sífilis
+T150	ORG_VIVO 2077 2095	virus hepatotropos
+T151	ORG_VIVO 2097 2104	brucela
+T152	ORG_VIVO 2106 2116	rickettsia
+T153	ORG_VIVO 2118 2126	borrelia
+T154	ORG_VIVO 2128 2139	hidatidosis
+T155	ORG_VIVO 2141 2149	coxiella
+T156	ORG_VIVO 2152 2165	Strongyloides
+T157	ORG_VIVO 2222 2230	anisakis
+T158	ORG_VIVO 2392 2401	parásitos
+T159	ORG_VIVO 3507 3514	autores
+T160	ORG_VIVO 3802 3805	VIH
+T161	ORG_VIVO 3952 3960	familias
+T162	ORG_VIVO 4181 4189	paciente
+T163	ORG_VIVO 4404 4412	paciente
+T164	ORG_VIVO 5970 5978	paciente
+T165	ORG_VIVO 6205 6214	helmintos
+T166	ORG_VIVO 6529 6539	infectivos
+T167	ORG_VIVO 6670 6681	parasitario
+T168	ORG_VIVO 7180 7188	paciente
+T169	ORG_VIVO 7357 7365	patólogo
+T170	ORG_VIVO 7648 7656	paciente
+T171	ORG_VIVO 7974 7982	paciente
+T172	ORG_VIVO 8311 8330	Morganella morganii
+T173	ORG_VIVO 8561 8576	parasitológicos
+T174	ORG_VIVO 8639 8647	anisakis
+T175	ORG_VIVO 8727 8735	parásito
+T176	ORG_VIVO 8749 8757	paciente
+T177	ORG_VIVO 9275 9283	paciente
+T178	ORG_VIVO 9916 9924	paciente
+T179	ORG_VIVO 10021 10029	paciente
+T180	ORG_VIVO 10358 10366	paciente
+T181	ENFERMEDAD 114 146	obesidad de predominio troncular
+T182	ENFERMEDAD 228 323	lesiones cutáneas papulosas y pruriginosas distribuidas por las cuatro extremidades y el tronco
+T183	ENFERMEDAD 570 586	prúrigo subagudo
+T184	ENFERMEDAD 630 689	lesiones ulceradas dolorosas a nivel del 4o dedo de la mano
+T185	ENFERMEDAD 1005 1040	Enfermedades Autoinmunes Sistémicas
+T186	ENFERMEDAD 1145 1174	fenómeno de Raynaud trifásico
+T187	ENFERMEDAD 1374 1391	eosinofilia grave
+T188	ENFERMEDAD 1619 1629	vasculitis
+T189	ENFERMEDAD 2128 2139	hidatidosis
+T190	ENFERMEDAD 2152 2165	Strongyloides
+T191	ENFERMEDAD 2550 2578	insuficiencia aórtica ligera
+T192	ENFERMEDAD 2782 2800	proceso neoplásico
+T193	ENFERMEDAD 3192 3203	adenopatías
+T194	ENFERMEDAD 3311 3322	atelectasia
+T195	ENFERMEDAD 3802 3805	VIH
+T196	ENFERMEDAD 3870 3891	Causas farmacológicas
+T197	ENFERMEDAD 4345 4352	rinitis
+T198	ENFERMEDAD 4373 4377	asma
+T199	ENFERMEDAD 4681 4716	Enfermedades Autoinmunes Sistémicas
+T200	ENFERMEDAD 4739 4761	eosinofilia periférica
+T201	ENFERMEDAD 4783 4797	granulomatosis
+T202	ENFERMEDAD 4802 4814	poliangeítis
+T203	ENFERMEDAD 4829 4852	granulomatosis alérgica
+T204	ENFERMEDAD 4854 4867	Churg-Strauss
+T205	ENFERMEDAD 4892 4919	lupus eritematoso sistémico
+T206	ENFERMEDAD 4921 4940	artritis reumatoide
+T207	ENFERMEDAD 4942 4957	dermatomiositis
+T208	ENFERMEDAD 4959 4972	esclerodermia
+T209	ENFERMEDAD 4974 4985	sarcoidosis
+T210	ENFERMEDAD 5194 5241	Neoplasias: principalmente neoplasias linfoides
+T211	ENFERMEDAD 5249 5257	linfomas
+T212	ENFERMEDAD 5263 5285	leucemias de células B
+T213	ENFERMEDAD 5359 5377	Linfoma de Hodking
+T214	ENFERMEDAD 5428 5446	Síndrome de Sézary
+T215	ENFERMEDAD 5479 5502	mastocitosis sistémicas
+T216	ENFERMEDAD 5821 5864	adenocarcinomas del tracto gastrointestinal
+T217	ENFERMEDAD 5923 5958	proceso neoplásico a nivel pulmonar
+T218	ENFERMEDAD 6280 6307	infección por Strongyloides
+T219	ENFERMEDAD 6387 6413	infección diseminada fatal
+T220	ENFERMEDAD 6467 6478	Anisakiasis
+T221	ENFERMEDAD 6576 6593	lesiones cutáneas
+T222	ENFERMEDAD 6796 6824	síndromes hipereosinofílicos
+T223	ENFERMEDAD 6868 6878	neoplásico
+T224	ENFERMEDAD 6889 6907	mieloproliferativa
+T225	ENFERMEDAD 6948 6972	infecciones parasitarias
+T226	ENFERMEDAD 7000 7021	linfomas de células T
+T227	ENFERMEDAD 7025 7035	idiopático
+T228	ENFERMEDAD 7193 7209	hipereosinofilia
+T229	ENFERMEDAD 7539 7550	eosinofilia
+T230	ENFERMEDAD 8006 8023	lesiones cutáneas
+T231	ENFERMEDAD 8059 8085	lesión ulcerosa de la mano
+T232	ENFERMEDAD 8158 8185	infección de partes blandas
+T233	ENFERMEDAD 8402 8418	hipereosinofilia
+T234	ENFERMEDAD 8509 8535	enfermedad autoinmunitaria
+T235	ENFERMEDAD 9119 9169	síndrome hiperosinofílico probablemente idiopático
+T236	ENFERMEDAD 9246 9255	neoplasia
+T237	ENFERMEDAD 9577 9603	lesión ulcerosa de la mano
+T238	ENFERMEDAD 9811 9820	trombosis
+T239	ENFERMEDAD 9933 9949	isquemia crónica
+T240	ENFERMEDAD 9982 9999	lesiones cutáneas
+T241	ENFERMEDAD 10415 10433	lesiones ulcerosas
+T242	ENFERMEDAD 10477 10507	lesiones cutáneas pruriginosas
+T243	ENFERMEDAD 10941 10978	Síndrome hipereosinofílico idiopático
+T244	SANITARIO-PROFESION 177 188	dermatólogo
+T245	SANITARIO-PROFESION 7357 7365	patólogo

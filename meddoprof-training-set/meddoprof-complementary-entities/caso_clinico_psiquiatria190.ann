@@ -1,0 +1,78 @@
+T1	SINTOMA 1281 1289	embarazo
+T2	SINTOMA 1741 1754	irritabilidad
+T3	SINTOMA 1858 1879	inquietud psicomotriz
+T4	SINTOMA 1882 1896	distraibilidad
+T5	SINTOMA 2645 2651	llanto
+T6	SINTOMA 2779 2790	melancólico
+T7	SINTOMA 2874 2887	irritabilidad
+T8	SINTOMA 2905 2911	llanto
+T9	SINTOMA 3607 3616	inquietud
+T10	SINTOMA 3626 3652	alteraciones psicomotrices
+T11	PROCEDIMIENTO 260 271	RMN craneal
+T12	PROCEDIMIENTO 277 280	EEG
+T13	PROCEDIMIENTO 1429 1454	tratamiento antidepresivo
+T14	PROCEDIMIENTO 3428 3446	exploración física
+T15	NEG 297 300	sin
+T16	NSCO 301 313	alteraciones
+T17	NEG 315 328	descartándose
+T18	NSCO 329 372	patología neurológica o estructural del SNC
+T19	NEG 813 815	no
+T20	NSCO 816 857	había presentado problemas de aprendizaje
+T21	UNC 1000 1009	No parece
+T22	USCO 1010 1067	especialmente rígido o rutinario ni tampoco es despistado
+T23	NEG 1084 1086	no
+T24	NSCO 1087 1128	muestra dificultades para ejecutar tareas
+T25	NEG 1461 1469	cediendo
+T26	NSCO 1470 1511	progresivamente hasta remitir ad integrum
+T27	NEG 1513 1515	No
+T28	NSCO 1516 1593	constan otros antecedentes familiares psiquiátricos en infancia o edad adulta
+T29	UNC 1981 1989	aparente
+T30	UNC 2284 2298	impresionan de
+T31	USCO 2299 2314	grandilocuencia
+T32	UNC 2763 2769	parece
+T33	USCO 2770 2790	triste y melancólico
+T34	UNC 3278 3287	no parece
+T35	USCO 3288 3343	mostrar síntomas de hiperactividad conductual mantenida
+T36	NEG 3345 3352	Tampoco
+T37	NSCO 3353 3423	ha presentado alteraciones en el ritmo del sueño ni en su alimentación
+T38	NEG 3491 3493	no
+T39	NSCO 3494 3559	aporta una explicación consistente para sus oscilaciones anímicas
+T40	NEG 3594 3597	sin
+T41	NSCO 3598 3652	datos de inquietud ni otras alteraciones psicomotrices
+T42	NEG 3670 3672	No
+T43	NSCO 3673 3733	expresa ideas de contenido patológico o inusual para su edad
+T44	NEG 3748 3750	no
+T45	NSCO 3751 3771	sugiere psicoticismo
+T46	UNC 3773 3786	Aparentemente
+T47	USCO 3787 3814	eutímico en las entrevistas
+T48	ORG_VIVO 15 19	niño
+T49	ORG_VIVO 93 101	infantil
+T50	ORG_VIVO 118 126	pediatra
+T51	ORG_VIVO 174 182	paciente
+T52	ORG_VIVO 377 385	paciente
+T53	ORG_VIVO 448 452	hijo
+T54	ORG_VIVO 481 493	progenitores
+T55	ORG_VIVO 499 513	abuela materna
+T56	ORG_VIVO 530 538	familiar
+T57	ORG_VIVO 555 559	niño
+T58	ORG_VIVO 571 579	paciente
+T59	ORG_VIVO 906 912	padres
+T60	ORG_VIVO 932 936	niño
+T61	ORG_VIVO 1309 1314	madre
+T62	ORG_VIVO 1319 1327	paciente
+T63	ORG_VIVO 1543 1553	familiares
+T64	ORG_VIVO 1571 1579	infancia
+T65	ORG_VIVO 1598 1604	padres
+T66	ORG_VIVO 1609 1617	paciente
+T67	ORG_VIVO 2020 2028	paciente
+T68	ORG_VIVO 2155 2165	familiares
+T69	ORG_VIVO 2232 2240	paciente
+T70	ORG_VIVO 2617 2625	paciente
+T71	ORG_VIVO 2755 2761	padres
+T72	ORG_VIVO 3007 3013	padres
+T73	ORG_VIVO 3165 3173	paciente
+T74	ORG_VIVO 3269 3277	paciente
+T75	ORG_VIVO 3482 3490	paciente
+T76	ORG_VIVO 3939 3944	niños
+T77	ENFERMEDAD 1338 1377	cuadro depresivo de intensidad moderada
+T78	SANITARIO-PROFESION 118 126	pediatra

@@ -1,0 +1,65 @@
+T1	SINTOMA 270 280	artralgias
+T2	SINTOMA 285 296	xeroftalmia
+T3	SINTOMA 502 516	tos productiva
+T4	SINTOMA 539 545	fiebre
+T5	SINTOMA 611 614	tos
+T6	SINTOMA 632 647	síndrome febril
+T7	SINTOMA 1068 1081	adenomegalias
+T8	PROCEDIMIENTO 326 342	Actividad física
+T9	PROCEDIMIENTO 563 574	antibiótico
+T10	PROCEDIMIENTO 761 772	Rx de tórax
+T11	PROCEDIMIENTO 782 793	RX DE TORAX
+T12	PROCEDIMIENTO 824 827	TAC
+T13	PROCEDIMIENTO 1083 1105	Ecocardiograma Doppler
+T14	PROCEDIMIENTO 1150 1153	ECG
+T15	PROCEDIMIENTO 1169 1191	Baciloscopía de esputo
+T16	PROCEDIMIENTO 1209 1221	Espirometría
+T17	PROCEDIMIENTO 1250 1263	Examen físico
+T18	PROCEDIMIENTO 2951 2969	guantes de amianto
+T19	PROCEDIMIENTO 3813 3827	Citológico BAL
+T20	NEG 76 78	No
+T21	NEG 140 142	No
+T22	NSCO 143 165	tiene ni tuvo animales
+T23	NEG 167 169	No
+T24	NSCO 170 211	exposición a almohada/acolchado de plumas
+T25	NEG 213 215	No
+T26	NSCO 216 238	hay humedad en la casa
+T27	NEG 240 242	No
+T28	NSCO 243 256	tiene hobbies
+T29	NEG 258 260	No
+T30	NSCO 261 280	presenta artralgias
+T31	NEG 282 284	no
+T32	NSCO 285 296	xeroftalmia
+T33	NEG 298 300	no
+T34	NSCO 301 314	tiene Raynaud
+T35	NEG 318 320	No
+T36	NSCO 321 324	RGE
+T37	NEG 1065 1067	No
+T38	NSCO 1068 1081	adenomegalias
+T39	NEG 1107 1109	No
+T40	NSCO 1110 1113	HTP
+T41	NEG 1265 1267	No
+T42	NSCO 1268 1291	uñas en vidrio de reloj
+T43	NEG 3007 3009	no
+T44	NSCO 3010 3040	se queme la base de la balanza
+T45	NEG 3577 3580	sin
+T46	NSCO 3581 3623	medidas de protección personal, ni control
+T47	NEG 3652 3655	sin
+T48	NSCO 3656 3666	extracción
+T49	NEG 3829 3837	Negativo
+T50	NSCO 3838 3862	para células neoplásicas
+T51	FARMACO 579 592	levofloxacina
+T52	ORG_VIVO 14 22	paciente
+T53	ORG_VIVO 157 165	animales
+T54	ORG_VIVO 1169 1181	Baciloscopía
+T55	ORG_VIVO 3603 3611	personal
+T56	ORG_VIVO 3758 3772	Parasitológico
+T57	ENFERMEDAD 632 647	síndrome febril
+T58	ENFERMEDAD 1068 1081	adenomegalias
+T59	ENFERMEDAD 1110 1113	HTP
+T60	PACIENTE-PROFESION 380 427	Trabaja en el laboratorio de control de calidad
+T61	PACIENTE-PROFESION 1422 1472	trabajar en la Dirección General de Obras Públicas
+T62	PACIENTE-PROFESION 3346 3380	estuvo en la producción de losetas
+T63	PACIENTE-PROFESION 3446 3489	volvió al laboratorio de control de calidad
+T64	PACIENTE-PROFESION 3507 3559	realizó también estos últimos años calado de veredas
+T65	PACIENTE-PROFESION 3086 3125	lo trasladaron a la fábrica de mosaicos

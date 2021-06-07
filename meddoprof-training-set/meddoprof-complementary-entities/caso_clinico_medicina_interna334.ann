@@ -1,0 +1,52 @@
+T1	SINTOMA 44 54	ex-fumador
+T2	PROCEDIMIENTO 380 392	colonoscopia
+T3	PROCEDIMIENTO 595 620	TAC toracoabdominopélvico
+T4	PROCEDIMIENTO 974 999	endoscopia digestiva alta
+T5	PROCEDIMIENTO 1064 1071	biopsia
+T6	PROCEDIMIENTO 1190 1218	ecoendoscopia digestiva alta
+T7	PROCEDIMIENTO 1705 1733	tratamiento tuberculostático
+T8	PROCEDIMIENTO 2267 2293	biopsia de las adenopatías
+T9	PROCEDIMIENTO 2339 2375	cultivo y PCR) y Anatomía Patológica
+T10	PROCEDIMIENTO 2454 2480	fármacos tuberculostáticos
+T11	NEG 256 268	asintomático
+T12	UNC 496 510	compatible con
+T13	USCO 511 552	adenocarcinoma moderadamente diferenciado
+T14	NEG 838 840	no
+T15	NSCO 841 868	son habituales a este nivel
+T16	NEG 883 885	no
+T17	NSCO 886 960	existía enfermedad metastásica locorregional ni hepática (mucho más típico
+T18	FARMACO 191 201	metformina
+T19	FARMACO 203 216	atorvastatina
+T20	FARMACO 219 230	tamsulosina
+T21	ORG_VIVO 26 31	varón
+T22	ORG_VIVO 247 255	paciente
+T23	ORG_VIVO 1317 1343	Mycobacterium tuberculosis
+T24	ORG_VIVO 1482 1490	paciente
+T25	ORG_VIVO 1573 1581	paciente
+T26	ORG_VIVO 1717 1733	tuberculostático
+T27	ORG_VIVO 2039 2049	individuos
+T28	ORG_VIVO 2333 2337	BAAR
+T29	ORG_VIVO 2463 2480	tuberculostáticos
+T30	ENFERMEDAD 100 104	DM 2
+T31	ENFERMEDAD 106 116	dislipemia
+T32	ENFERMEDAD 118 131	neumoconiosis
+T33	ENFERMEDAD 134 165	hiperplasia benigna de próstata
+T34	ENFERMEDAD 410 466	neoformación de aspecto infiltrante en colon descendente
+T35	ENFERMEDAD 511 552	adenocarcinoma moderadamente diferenciado
+T36	ENFERMEDAD 637 696	adenopatías patológicas a nivel de ligamento gastrohepático
+T37	ENFERMEDAD 699 713	hilio hepático
+T38	ENFERMEDAD 790 827	metástasis de adenocarcinoma de colon
+T39	ENFERMEDAD 894 930	enfermedad metastásica locorregional
+T40	ENFERMEDAD 1014 1055	lesión esofágica, sobreelevada y ulcerada
+T41	ENFERMEDAD 1116 1127	adenopatías
+T42	ENFERMEDAD 1355 1433	inflamación crónica granulomatosa necrotizante en muestras de mucosa esofágica
+T43	ENFERMEDAD 1447 1458	adenopatías
+T44	ENFERMEDAD 1494 1517	tuberculosis ganglionar
+T45	ENFERMEDAD 1535 1552	fístula esofágica
+T46	ENFERMEDAD 1638 1661	adenocarcinoma de colon
+T47	ENFERMEDAD 1790 1813	tuberculosis ganglionar
+T48	ENFERMEDAD 1829 1855	tuberculosis extrapulmonar
+T49	ENFERMEDAD 1886 1921	diseminación hematógena o linfática
+T50	ENFERMEDAD 2282 2293	adenopatías
+T51	ENFERMEDAD 2377 2423	inflamación crónica granulomatosa necrotizante
+T52	PACIENTE-PROFESION 57 66	ex-minero

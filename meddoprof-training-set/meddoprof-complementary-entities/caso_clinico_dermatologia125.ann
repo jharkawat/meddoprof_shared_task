@@ -1,0 +1,42 @@
+T1	SINTOMA 167 201	prurito incesante en tobillo y pie
+T2	SINTOMA 511 520	inquietud
+T3	SINTOMA 527 534	prurito
+T4	SINTOMA 668 675	eritema
+T5	SINTOMA 678 741	descamación desde dorso del pie hasta tercio inferior de pierna
+T6	SINTOMA 1827 1834	rascado
+T7	PROCEDIMIENTO 638 656	Exploración física
+T8	PROCEDIMIENTO 1133 1140	biopsia
+T9	NEG 320 323	sin
+T10	NSCO 324 331	mejoría
+T11	NEG 333 338	Niega
+T12	NSCO 339 409	cambios en su medicación habitual (bisoprolol, metformina pioglitazona
+T13	NEG 599 601	no
+T14	NSCO 602 607	curan
+T15	UNC 1003 1014	sospecha de
+T16	USCO 1015 1041	una posible dermatofitosis
+T17	UNC 1471 1486	compatibles con
+T18	USCO 1487 1509	colagenosis perforante
+T19	FARMACO 284 295	bacitracina
+T20	FARMACO 297 306	neomicina
+T21	FARMACO 309 319	polimixina
+T22	FARMACO 374 384	bisoprolol
+T23	FARMACO 386 396	metformina
+T24	FARMACO 397 409	pioglitazona
+T25	FARMACO 411 423	pravastatina
+T26	FARMACO 425 447	ácido acetilsalicílico
+T27	FARMACO 450 460	cilostazol
+T28	FARMACO 1650 1665	dipropionato de
+T29	FARMACO 1666 1690	betametasona-clotrimazol
+T30	ORG_VIVO 10 24	Paciente varón
+T31	ORG_VIVO 1097 1115	Tricophytum rubrum
+T32	ENFERMEDAD 56 59	HTA
+T33	ENFERMEDAD 61 70	DM tipo 2
+T34	ENFERMEDAD 72 93	cardiopatía isquémica
+T35	ENFERMEDAD 836 879	costra central adherida en el dorso del pie
+T36	ENFERMEDAD 1027 1041	dermatofitosis
+T37	ENFERMEDAD 1487 1509	colagenosis perforante
+T38	ENFERMEDAD 1524 1535	Tiña ignota
+T39	ENFERMEDAD 1538 1601	colagenosis perforante adquirida secundaria al rascado continuo
+T40	ENFERMEDAD 1754 1782	tiña por Trichophyton rubrum
+T41	ENFERMEDAD 1852 1869	infección fúngica
+T42	ENFERMEDAD 1875 1895	lesiones perforantes

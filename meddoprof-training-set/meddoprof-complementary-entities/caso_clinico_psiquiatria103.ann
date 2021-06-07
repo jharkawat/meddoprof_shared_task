@@ -1,0 +1,179 @@
+T1	SINTOMA 389 394	dolor
+T2	SINTOMA 952 974	Serología VHB positiva
+T3	SINTOMA 2043 2074	pérdida progresiva de autonomía
+T4	SINTOMA 2408 2422	dolor somático
+T5	SINTOMA 2775 2787	desorientado
+T6	SINTOMA 2825 2836	somnolencia
+T7	SINTOMA 3066 3071	dolor
+T8	SINTOMA 3269 3277	malestar
+T9	SINTOMA 3345 3368	elevada tensión interna
+T10	SINTOMA 3370 3383	irritabilidad
+T11	SINTOMA 3386 3413	dificultades para descansar
+T12	SINTOMA 3431 3448	sueño fragmentado
+T13	SINTOMA 4019 4032	consolidación
+T14	SINTOMA 4256 4267	trombopenia
+T15	SINTOMA 4510 4522	dolor físico
+T16	SINTOMA 4605 4617	dolor lumbar
+T17	SINTOMA 4665 4678	estreñimiento
+T18	SINTOMA 4691 4705	desorientación
+T19	SINTOMA 4732 4749	dolor neuropático
+T20	SINTOMA 4831 4845	desorientación
+T21	SINTOMA 4848 4853	dolor
+T22	SINTOMA 5241 5255	desorientación
+T23	SINTOMA 5267 5285	cuadro confusional
+T24	SINTOMA 5311 5332	agitación psicomotora
+T25	SINTOMA 6439 6448	agitación
+T26	SINTOMA 6792 6811	labilidad emocional
+T27	SINTOMA 7092 7123	desorientación más pronunciados
+T28	SINTOMA 7125 7146	inquietud psicomotora
+T29	SINTOMA 7149 7175	desorganización conductual
+T30	SINTOMA 7593 7614	inquietud psicomotora
+T31	SINTOMA 7669 7691	debilitamiento general
+T32	SINTOMA 7693 7701	anorexia
+T33	SINTOMA 7703 7750	disminución progresiva del nivel de consciencia
+T34	SINTOMA 7854 7860	fiebre
+T35	PROCEDIMIENTO 495 522	exploración psicopatológica
+T36	PROCEDIMIENTO 722 737	insulinoterapia
+T37	PROCEDIMIENTO 2538 2562	tratamiento psicotrópico
+T38	PROCEDIMIENTO 2603 2630	Exploración psicopatológica
+T39	PROCEDIMIENTO 3117 3149	resonancia afectiva y conductual
+T40	PROCEDIMIENTO 3517 3533	gammagrafía ósea
+T41	PROCEDIMIENTO 3649 3670	medicación analgésica
+T42	PROCEDIMIENTO 3684 3700	corsé ortopédico
+T43	PROCEDIMIENTO 3866 3875	hemograma
+T44	PROCEDIMIENTO 3890 3907	gasometría venosa
+T45	PROCEDIMIENTO 3973 3993	Radiografía de tórax
+T46	PROCEDIMIENTO 4059 4077	electrocardiograma
+T47	PROCEDIMIENTO 4446 4461	benzodiacepinas
+T48	PROCEDIMIENTO 4633 4655	tratamiento analgésico
+T49	PROCEDIMIENTO 6296 6325	tratamiento con antidepresivo
+T50	PROCEDIMIENTO 6614 6639	tratamiento antidepresivo
+T51	PROCEDIMIENTO 7375 7386	corticoides
+T52	PROCEDIMIENTO 7480 7497	laxantes y enemas
+T53	PROCEDIMIENTO 7909 7932	tratamiento antitérmico
+T54	PROCEDIMIENTO 7935 7958	tratamiento antibiótico
+T55	PROCEDIMIENTO 8037 8060	tratamiento antibiótico
+T56	NEG 610 613	Sin
+T57	NSCO 614 647	alergias medicamentosas conocidas
+T58	NEG 991 999	negativa
+T59	NEG 1395 1398	Sin
+T60	NSCO 1399 1505	adversidades en el núcleo sociofamiliar aparentemente ni acontecimientos vitales estresantes de relevancia
+T61	NEG 1531 1534	Sin
+T62	NSCO 1535 1588	consumo de tóxicos ni otros comportamientos adictivos
+T63	NEG 1590 1595	Niega
+T64	NSCO 1596 1631	antecedentes familiares al respecto
+T65	NEG 1660 1663	Sin
+T66	NSCO 1664 1807	antecedentes de seguimiento por parte de Psiquiatría ni ingresos en Unidad de Agudos ni conducta suicida previa ni a nivel personal ni familiar
+T67	NEG 1845 1848	sin
+T68	NSCO 1849 1861	alteraciones
+T69	NEG 2158 2161	sin
+T70	NSCO 2162 2196	antecedentes psiquiátricos previos
+T71	NEG 2516 2518	no
+T72	NSCO 2519 2600	tomaba previamente tratamiento psicotrópico ni realizaba seguimiento psiquiátrico
+T73	NEG 2775 2787	desorientado
+T74	NEG 3278 3281	sin
+T75	NSCO 3282 3331	realizar crítica de la sobreingesta medicamentosa
+T76	NEG 3671 3674	sin
+T77	NSCO 3675 3700	requerir corsé ortopédico
+T78	NEG 3908 3911	sin
+T79	NSCO 3912 3932	hallazgos relevantes
+T80	NEG 3944 3947	sin
+T81	NSCO 3948 3971	alteraciones relevantes
+T82	NEG 3994 3997	sin
+T83	NSCO 3998 4051	signos sugestivos de consolidación ni derrame pleural
+T84	NEG 4187 4189	no
+T85	NSCO 4190 4202	anticoagular
+T86	NEG 4691 4705	desorientación
+T87	NEG 4831 4845	desorientación
+T88	NEG 4974 4976	no
+T89	NSCO 4977 5026	pudiéndose determinar la cantidad ingerida exacta
+T90	NEG 5241 5255	desorientación
+T91	UNC 5902 5910	probable
+T92	USCO 5911 5980	debido a la enfermedad de Alzhéimer con alteración del comportamiento
+T93	UNC 6207 6215	probable
+T94	USCO 6216 6282	debido a enfermedad de Alzhéimer con alteración del comportamiento
+T95	NEG 7092 7106	desorientación
+T96	NSCO 7107 7123	más pronunciados
+T97	FARMACO 779 790	gabapentina
+T98	FARMACO 1138 1150	rivastigmina
+T99	FARMACO 2372 2381	lorazepam
+T100	FARMACO 4941 4949	diazepam
+T101	FARMACO 5158 5169	flumazenilo
+T102	FARMACO 5660 5670	paroxetina
+T103	FARMACO 5683 5694	risperidona
+T104	FARMACO 6659 6669	paroxetina
+T105	FARMACO 6672 6683	risperidona
+T106	FARMACO 7412 7427	inmunoglobulina
+T107	ORG_VIVO 0 5	Varón
+T108	ORG_VIVO 205 213	paciente
+T109	ORG_VIVO 433 441	paciente
+T110	ORG_VIVO 458 468	Psiquiatra
+T111	ORG_VIVO 579 589	personales
+T112	ORG_VIVO 962 965	VHB
+T113	ORG_VIVO 985 990	viral
+T114	ORG_VIVO 1175 1181	Padres
+T115	ORG_VIVO 1206 1212	esposa
+T116	ORG_VIVO 1313 1318	hijos
+T117	ORG_VIVO 1360 1368	Jubilado
+T118	ORG_VIVO 1370 1380	ginecólogo
+T119	ORG_VIVO 1609 1619	familiares
+T120	ORG_VIVO 1787 1795	personal
+T121	ORG_VIVO 1799 1807	familiar
+T122	ORG_VIVO 2141 2149	paciente
+T123	ORG_VIVO 2507 2515	paciente
+T124	ORG_VIVO 2706 2714	paciente
+T125	ORG_VIVO 2762 2769	persona
+T126	ORG_VIVO 4291 4299	Paciente
+T127	ORG_VIVO 4575 4583	paciente
+T128	ORG_VIVO 4801 4809	paciente
+T129	ORG_VIVO 4894 4902	paciente
+T130	ORG_VIVO 6524 6532	paciente
+T131	ORG_VIVO 8087 8095	paciente
+T132	ENFERMEDAD 67 75	suicidio
+T133	ENFERMEDAD 85 111	sobreingesta medicamentosa
+T134	ENFERMEDAD 137 163	afectación somática severa
+T135	ENFERMEDAD 260 268	suicidio
+T136	ENFERMEDAD 278 304	sobreingesta medicamentosa
+T137	ENFERMEDAD 323 343	síndrome confusional
+T138	ENFERMEDAD 346 373	enfermedad somática crónica
+T139	ENFERMEDAD 543 563	síndrome confusional
+T140	ENFERMEDAD 614 637	alergias medicamentosas
+T141	ENFERMEDAD 649 670	Hipertensión arterial
+T142	ENFERMEDAD 701 737	Diabetes mellitus en insulinoterapia
+T143	ENFERMEDAD 739 759	Neuropatía diabética
+T144	ENFERMEDAD 792 814	Trombopenia periférica
+T145	ENFERMEDAD 1026 1055	enfermedad de Alzhéimer GDS-3
+T146	ENFERMEDAD 1182 1192	fallecidos
+T147	ENFERMEDAD 2021 2040	deterioro cognitivo
+T148	ENFERMEDAD 2129 2137	suicidio
+T149	ENFERMEDAD 2302 2310	suicidio
+T150	ENFERMEDAD 2320 2346	sobreingesta medicamentosa
+T151	ENFERMEDAD 2444 2470	síndrome confusional agudo
+T152	ENFERMEDAD 3305 3331	sobreingesta medicamentosa
+T153	ENFERMEDAD 3546 3587	aplastamiento vertebral agudo a nivel D11
+T154	ENFERMEDAD 3749 3763	hiperpotasemia
+T155	ENFERMEDAD 3766 3791	insuficiencia renal aguda
+T156	ENFERMEDAD 4036 4051	derrame pleural
+T157	ENFERMEDAD 4091 4108	arritmia cardiaca
+T158	ENFERMEDAD 4113 4134	fibrilación auricular
+T159	ENFERMEDAD 4256 4267	trombopenia
+T160	ENFERMEDAD 4351 4370	deterioro cognitivo
+T161	ENFERMEDAD 4379 4402	enfermedad de Alzhéimer
+T162	ENFERMEDAD 4416 4461	sobreingesta medicamentosa de benzodiacepinas
+T163	ENFERMEDAD 4563 4571	suicidio
+T164	ENFERMEDAD 4665 4678	estreñimiento
+T165	ENFERMEDAD 4911 4949	sobreingesta medicamentosa de diazepam
+T166	ENFERMEDAD 5787 5807	Síndrome confusional
+T167	ENFERMEDAD 5871 5895	Trastorno neurocognitivo
+T168	ENFERMEDAD 5923 5946	enfermedad de Alzhéimer
+T169	ENFERMEDAD 6065 6091	síndrome confusional agudo
+T170	ENFERMEDAD 6176 6200	trastorno neurocognitivo
+T171	ENFERMEDAD 6225 6248	enfermedad de Alzhéimer
+T172	ENFERMEDAD 7224 7244	síndrome confusional
+T173	ENFERMEDAD 7326 7346	plaquetopenia severa
+T174	ENFERMEDAD 7438 7460	suboclusión intestinal
+T175	ENFERMEDAD 7812 7841	infección respiratoria severa
+T176	ENFERMEDAD 7986 8013	sobreinfección respiratoria
+T177	PACIENTE-SITUACION_LABORAL 1360 1368	Jubilado
+T178	SANITARIO-PROFESION 458 468	Psiquiatra
+T179	PACIENTE-PROFESION 1370 1380	ginecólogo

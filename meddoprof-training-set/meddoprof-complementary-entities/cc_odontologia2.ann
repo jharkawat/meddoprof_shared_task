@@ -1,0 +1,45 @@
+T1	SINTOMA 585 616	pérdida dentaria anteroinferior
+T2	PROCEDIMIENTO 301 325	rehabilitación protésica
+T3	PROCEDIMIENTO 666 710	rehabilitación protésica del frente anterior
+T4	PROCEDIMIENTO 930 994	gel de clorhexidina en el periodonto de ambos caninos inferiores
+T5	PROCEDIMIENTO 1109 1147	tratamiento periodontal de los dientes
+T6	PROCEDIMIENTO 1246 1262	injerto de hueso
+T7	PROCEDIMIENTO 1506 1518	tartrectomía
+T8	PROCEDIMIENTO 1664 1718	tartrectomía se extrajeron los dos incisivos laterales
+T9	PROCEDIMIENTO 1829 1841	ferulización
+T10	PROCEDIMIENTO 1865 1877	tartrectomía
+T11	PROCEDIMIENTO 1901 1935	bolsa periodontal de ambos caninos
+T12	PROCEDIMIENTO 3165 3176	apoyo local
+T13	PROCEDIMIENTO 3195 3220	colutorio de clorhexidina
+T14	NEG 203 206	sin
+T15	NSCO 207 219	soporte óseo
+T16	NEG 234 237	sin
+T17	NSCO 238 247	movilidad
+T18	NEG 410 415	falta
+T19	NSCO 416 450	total de cuidado bucal profesional
+T20	NEG 1415 1426	ausencia de
+T21	NSCO 1427 1441	sintomatología
+T22	NEG 2158 2161	sin
+T23	NSCO 2162 2200	necesidad de volver a extraer la aguja
+T24	NEG 2279 2282	sin
+T25	NSCO 2283 2298	restos de sarro
+T26	NEG 2476 2478	no
+T27	NSCO 2479 2498	es necesario contar
+T28	NEG 2586 2588	No
+T29	NSCO 2589 2610	necesitamos controlar
+T30	NEG 2739 2741	no
+T31	NSCO 2742 2759	es comparable más
+T32	NEG 2833 2835	no
+T33	NSCO 2836 2873	precisar la colaboración del paciente
+T34	FARMACO 1049 1061	clorhexidina
+T35	FARMACO 2725 2737	clorhexidina
+T36	FARMACO 3195 3220	colutorio de clorhexidina
+T37	ORG_VIVO 0 8	Paciente
+T38	ORG_VIVO 344 352	paciente
+T39	ORG_VIVO 474 482	paciente
+T40	ORG_VIVO 524 532	paciente
+T41	ORG_VIVO 760 768	paciente
+T42	ORG_VIVO 2510 2518	paciente
+T43	ORG_VIVO 2865 2873	paciente
+T44	ORG_VIVO 2891 2899	paciente
+T45	ORG_VIVO 3300 3310	bacteriano

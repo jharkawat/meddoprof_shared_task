@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 17 años con antecedentes de cefalea tensional. Estudiante, origen magrebí sin viajes fuera de España desde hacía años; negaba relaciones sexuales ni otros datos epidemiológicos de interés.
+Refería dolor lumbar izquierdo irradiado a cara anterior de muslo que cedía en reposo, de dos semanas de evolución.
+Consultó por empeoramiento brusco del dolor, debilidad de miembros inferiores y temperatura de 39oC. Cefalea inespecífica; sin hipoestesia genital, glútea ni en miembros inferiores. Sin alteración esfinteriana ni ninguna otra clínica.
+
+Exploración Física
+Auscultación cardiorrespiratoria y palpación abdominal normales. Dos uñas incarnatas en pies de años de evolución con eritema adyacente y dolor, sin supuración.
+Exploración neurológica con debilidad motora contrarresistencia en miembro inferior izquierdo por el dolor a la movilización; marcha con ampliación de la base. Sin alteraciones sensitivas. Maniobra de Lásegue y Bragard positivas homolateralmente. Reflejo rotuliano izquierdo ligeramente hiperexaltado, reflejos cutáneoplantares flexores. No signos meníngeos, pares craneales normales. Resto de exploración neurológica sin hallazgos.
+
+Evolución Urgencias
+Analíticamente destacaba en sangre periférica proteína C reactiva ( PCR) de 311 mg/l, procalcitonina ( PCT) de 0,13 ng/ml y 26.000 leucocitos a expensas de polimorfonucleares neutrófilos ( PMN). Radiografía de tórax normal.
+La Resonancia Magnética de columna lumbosacra descartó espondilodiscitis, absceso epidural y compresión de canal medular por otra causa; destacaba edema de articulación sacroilíaca izquierda con afectación de partes blandas compatible con sacroileítis izquierda extensa.
+Por ello se inició antibioterapia empírica con Linezolid y Ceftriaxona.
+
+Diagnóstico Diferencial
+Sacroileítis.
+- La bacteriana es la causa más frecuente (Brucella , Staphylococcus Aureus, Pseudomona Aeruginosa, Streptococci, Salmonella, Klebsiella spp).
+- Espondilitis anquilosante, artritis reactiva, artropatía psoriásica, artritis por microcristales, fiebre mediterránea familiar, Behcet.
+- Síndromes paraneoplásicos.
+- Isotretinoina.
+
+Evolución Hospitalización
+Creció en dos tandas de hemocultivos Staphylococcus Aureus meticilín resistente (SAMR), sustituyéndose la antibioterapia por Daptomicina. Test IGRA para tuberculosis y Rosa de bengala negativos. Ecocardiograma transtorácico sin signos de endocarditis.
+Revisando el caso parecía probable que el origen del cuadro fuese la sobreinfección por mala higiene de las uñas incarnatas.
+El paciente experimentó evolución clínica, analítica y radiológica favorable.
+
+Juicio Clínico
+Sacroileítis izquierda por Staphylococcus Aureus meticilín resistente de origen cutáneo.

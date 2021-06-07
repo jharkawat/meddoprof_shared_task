@@ -1,0 +1,192 @@
+T1	SINTOMA 396 403	Fumador
+T2	SINTOMA 828 837	irritable
+T3	SINTOMA 840 848	suspicaz
+T4	SINTOMA 1606 1620	hipervigilante
+T5	SINTOMA 1688 1705	risas inmotivadas
+T6	SINTOMA 2622 2631	orientado
+T7	SINTOMA 2745 2766	Embotamiento afectivo
+T8	SINTOMA 2768 2787	Actitud desconfiada
+T9	SINTOMA 2789 2803	hipervigilante
+T10	SINTOMA 2805 2822	mirada desafiante
+T11	SINTOMA 2886 2903	risas inmotivadas
+T12	SINTOMA 3134 3157	alucinaciones auditivas
+T13	SINTOMA 3159 3170	soliloquios
+T14	SINTOMA 3346 3360	heteroagresivo
+T15	SINTOMA 4772 4786	hipervigilante
+T16	SINTOMA 4789 4800	desconfiado
+T17	SINTOMA 4863 4876	irritabilidad
+T18	SINTOMA 4879 4887	disforia
+T19	SINTOMA 5269 5288	cefalea holocraneal
+T20	SINTOMA 5342 5375	episodios confusionales nocturnos
+T21	SINTOMA 5838 5845	cefalea
+T22	SINTOMA 5851 5874	desorientación nocturna
+T23	SINTOMA 6968 6992	heteroagresividad verbal
+T24	SINTOMA 6995 7026	pérdida del control de impulsos
+T25	SINTOMA 7227 7237	consciente
+T26	SINTOMA 7239 7248	orientado
+T27	SINTOMA 7261 7273	desorientado
+T28	SINTOMA 7490 7499	irritable
+T29	SINTOMA 7520 7546	desorganización conductual
+T30	SINTOMA 7548 7569	Embotamiento afectivo
+T31	SINTOMA 7774 7791	heteroagresividad
+T32	SINTOMA 8260 8281	pérdida de conciencia
+T33	SINTOMA 8286 8299	ruido gutural
+T34	SINTOMA 8431 8439	febriles
+T35	SINTOMA 9480 9489	cansancio
+T36	SINTOMA 9599 9612	irritabilidad
+T37	SINTOMA 10544 10555	hipersomnia
+T38	PROCEDIMIENTO 2555 2579	tratamiento neuroléptico
+T39	PROCEDIMIENTO 3534 3537	ECG
+T40	PROCEDIMIENTO 3570 3579	hemograma
+T41	PROCEDIMIENTO 3640 3663	examen general de orina
+T42	PROCEDIMIENTO 3741 3753	TAC cerebral
+T43	PROCEDIMIENTO 4170 4173	TAC
+T44	PROCEDIMIENTO 4191 4220	Resonancia Magnética cerebral
+T45	PROCEDIMIENTO 4367 4377	RM columna
+T46	PROCEDIMIENTO 4440 4460	electroencefalograma
+T47	PROCEDIMIENTO 8603 8623	Resonancia Magnética
+T48	PROCEDIMIENTO 9041 9061	electroencefalograma
+T49	PROCEDIMIENTO 10136 10175	resección quirúrgica del tumor cerebral
+T50	PROCEDIMIENTO 10254 10277	biopsia intraoperatoria
+T51	PROCEDIMIENTO 10334 10363	extirpación radical del tumor
+T52	NEG 349 351	No
+T53	NSCO 352 394	presenta alergias medicamentosas conocidas
+T54	NEG 450 453	sin
+T55	NSCO 454 492	antecedentes de abuso de otros tóxicos
+T56	NEG 580 583	Sin
+T57	NSCO 584 621	otros antecedentes médicos relevantes
+T58	NEG 1825 1833	negativa
+T59	NSCO 1834 1876	por parte del paciente a la toma del mismo
+T60	NEG 2111 2113	No
+T61	NSCO 2114 2160	presenta antecedentes familiares de relevancia
+T62	NEG 2493 2509	imposibilidad de
+T63	NSCO 2510 2540	contención a nivel ambulatorio
+T64	NEG 2543 2551	negativa
+T65	NSCO 2552 2579	al tratamiento neuroléptico
+T66	UNC 3120 3133	Impresiona de
+T67	USCO 3134 3157	alucinaciones auditivas
+T68	NEG 3253 3258	niega
+T69	NEG 3317 3319	No
+T70	NSCO 3320 3360	se objetiva riesgo auto o heteroagresivo
+T71	NEG 3362 3364	No
+T72	NSCO 3365 3397	ideación autolítica estructurada
+T73	NEG 3664 3666	no
+T74	NSCO 3667 3696	muestra hallazgos patológicos
+T75	NEG 3724 3733	negativos
+T76	NEG 4001 4003	No
+T77	NSCO 4004 4038	hay efecto de masa ni hidrocefalia
+T78	UNC 4055 4062	pudiera
+T79	USCO 4063 4124	corresponder a un oligodendroglioma entre otras posibilidades
+T80	NEG 4339 4342	sin
+T81	NSCO 4343 4386	hallazgos de interés en RM columna completa
+T82	UNC 4610 4618	probable
+T83	USCO 4619 4639	origen medicamentoso
+T84	NEG 4641 4643	No
+T85	NSCO 4644 4698	se registra actividad epileptiforme ni eventos ictales
+T86	NEG 5018 5021	sin
+T87	NSCO 5022 5046	una clara estructuración
+T88	NEG 5199 5201	no
+T89	NSCO 5202 5234	se objetivan efectos secundarios
+T90	NEG 5803 5805	No
+T91	NSCO 5806 5845	vuelve a presentar episodios de cefalea
+T92	NEG 5851 5865	desorientación
+T93	NEG 5900 5912	desaparición
+T94	NEG 6270 6273	sin
+T95	NSCO 6274 6280	efecto
+T96	NEG 6475 6477	no
+T97	NSCO 6478 6490	especificado
+T98	NEG 6870 6872	no
+T99	NSCO 6873 6884	es adecuada
+T100	NEG 7261 7273	desorientado
+T101	NSCO 7274 7291	en tiempo y lugar
+T102	UNC 7324 7333	evidentes
+T103	USCO 7334 7356	en memoria de fijación
+T104	NEG 7627 7635	negación
+T105	NSCO 7636 7666	o minimización de problemática
+T106	UNC 7682 7695	Impresiona de
+T107	USCO 7696 7739	intensa sintomatología psicótica productiva
+T108	NEG 7756 7761	niega
+T109	NEG 7763 7765	No
+T110	NSCO 7766 7829	auto ni heteroagresividad, ni ideación autolítica sistematizada
+T111	NEG 8183 8185	No
+T112	NSCO 8186 8215	presenta nueva sintomatología
+T113	NEG 8624 8626	no
+T114	NSCO 8627 8686	se observan cambios significativos con respecto a la previa
+T115	NEG 8687 8689	No
+T116	NSCO 8690 8786	presenta anomalías en analíticas general, hepática, renal o marcadores de encefalitis autoinmune
+T117	NEG 9540 9552	desaparición
+T118	NSCO 9553 9581	las alteraciones de conducta
+T119	UNC 9819 9827	probable
+T120	USCO 9828 9837	ganglioma
+T121	NEG 10206 10209	sin
+T122	NSCO 10210 10248	complicaciones intra o postoperatorias
+T123	NEG 10396 10398	no
+T124	NSCO 10399 10410	ha mejorado
+T125	FARMACO 1799 1810	risperidona
+T126	FARMACO 5126 5137	risperidona
+T127	FARMACO 5602 5614	dexametasona
+T128	FARMACO 6066 6078	paliperidona
+T129	FARMACO 6570 6582	paliperidona
+T130	FARMACO 6594 6606	dexametasona
+T131	FARMACO 6618 6627	omeprazol
+T132	FARMACO 8086 8095	clozapina
+T133	FARMACO 8505 8520	Ácido Valproico
+T134	FARMACO 9937 9946	clozapina
+T135	FARMACO 9960 9973	Levetiracetam
+T136	ORG_VIVO 26 40	paciente varón
+T137	ORG_VIVO 85 93	familiar
+T138	ORG_VIVO 102 108	padres
+T139	ORG_VIVO 111 118	hermano
+T140	ORG_VIVO 419 427	cannabis
+T141	ORG_VIVO 656 664	paciente
+T142	ORG_VIVO 1171 1179	cannabis
+T143	ORG_VIVO 1259 1267	familiar
+T144	ORG_VIVO 1304 1317	orden público
+T145	ORG_VIVO 1350 1362	progenitores
+T146	ORG_VIVO 1384 1392	paciente
+T147	ORG_VIVO 1848 1856	paciente
+T148	ORG_VIVO 2039 2046	juvenil
+T149	ORG_VIVO 2099 2109	familiares
+T150	ORG_VIVO 2136 2146	familiares
+T151	ORG_VIVO 2177 2184	hermano
+T152	ORG_VIVO 2225 2230	padre
+T153	ORG_VIVO 2303 2311	paciente
+T154	ORG_VIVO 3244 3252	paciente
+T155	ORG_VIVO 4752 4760	paciente
+T156	ORG_VIVO 5685 5693	paciente
+T157	ORG_VIVO 6220 6228	paciente
+T158	ORG_VIVO 7032 7040	paciente
+T159	ORG_VIVO 7252 7259	persona
+T160	ORG_VIVO 7747 7755	paciente
+T161	ORG_VIVO 7998 8006	paciente
+T162	ORG_VIVO 8902 8908	hongos
+T163	ORG_VIVO 8910 8912	BK
+T164	ORG_VIVO 8918 8930	virus herpes
+T165	ORG_VIVO 8932 8943	enterovirus
+T166	ORG_VIVO 10004 10012	paciente
+T167	ORG_VIVO 10387 10395	paciente
+T168	ENFERMEDAD 361 384	alergias medicamentosas
+T169	ENFERMEDAD 511 529	dermatitis atópica
+T170	ENFERMEDAD 531 535	asma
+T171	ENFERMEDAD 538 554	rinitis alérgica
+T172	ENFERMEDAD 571 578	fimosis
+T173	ENFERMEDAD 1160 1179	consumo de cannabis
+T174	ENFERMEDAD 2204 2222	parálisis cerebral
+T175	ENFERMEDAD 2248 2257	psoriasis
+T176	ENFERMEDAD 2260 2279	hipercolesterolemia
+T177	ENFERMEDAD 2282 2299	ENFERMEDAD ACTUAL
+T178	ENFERMEDAD 3780 3867	lesión supratentorial de apariencia intraaxial en línea media y adyacente al ventrículo
+T179	ENFERMEDAD 4026 4038	hidrocefalia
+T180	ENFERMEDAD 4081 4098	oligodendroglioma
+T181	ENFERMEDAD 5777 5801	sintomatología psicótica
+T182	ENFERMEDAD 6455 6490	Trastorno psicótico no especificado
+T183	ENFERMEDAD 6507 6526	Tumoración cerebral
+T184	ENFERMEDAD 8015 8039	sintomatología psicótica
+T185	ENFERMEDAD 8764 8786	encefalitis autoinmune
+T186	ENFERMEDAD 9782 9817	Neoplasia cerebral interventricular
+T187	ENFERMEDAD 9828 9837	ganglioma
+T188	ENFERMEDAD 9840 9870	Crisis epilépticas secundarias
+T189	ENFERMEDAD 9873 9892	Trastorno psicótico
+T190	ENFERMEDAD 10161 10175	tumor cerebral
+T191	ENFERMEDAD 10305 10318	ganglioglioma
+T192	PACIENTE-SITUACION_LABORAL 315 324	3o de ESO

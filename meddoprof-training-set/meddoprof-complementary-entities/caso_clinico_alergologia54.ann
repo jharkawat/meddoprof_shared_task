@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 414 430	estudio genético
+T2	FARMACO 615 627	Ciclosporina
+T3	FARMACO 634 645	Metotrexate
+T4	FARMACO 648 660	Micofenolato
+T5	FARMACO 661 668	mofetil
+T6	FARMACO 817 826	Dupulimab
+T7	FARMACO 877 887	Omalizumab
+T8	FARMACO 990 999	Dupilumab
+T9	ORG_VIVO 0 4	Niña
+T10	ORG_VIVO 169 190	molluscum contagiosum
+T11	ORG_VIVO 293 316	papiloma-virus humano 6
+T12	ENFERMEDAD 20 44	dermatitis atópica grave
+T13	ENFERMEDAD 105 142	candidiasis mucocutánea de repetición
+T14	ENFERMEDAD 144 202	otitis medias supuradas, molluscum contagiosum diseminados
+T15	ENFERMEDAD 205 233	alergia alimentaria múltiple
+T16	ENFERMEDAD 238 248	anafilaxia
+T17	ENFERMEDAD 273 291	verrugas genitales
+T18	ENFERMEDAD 293 314	papiloma-virus humano
+T19	ENFERMEDAD 455 466	OMIM 172100
+T20	ENFERMEDAD 477 508	mutación heterocigota compuesta
+T21	ENFERMEDAD 519 543	dermatitis atópica grave
+T22	ENFERMEDAD 548 576	sobreinfecciones recurrentes
+T23	ENFERMEDAD 717 734	inmunodeficiencia
+T24	ENFERMEDAD 761 771	dermatitis

@@ -1,0 +1,115 @@
+T1	SINTOMA 35 41	fiebre
+T2	SINTOMA 557 572	síndrome febril
+T3	SINTOMA 682 692	sudoración
+T4	SINTOMA 694 701	cefalea
+T5	SINTOMA 704 733	pérdida de unos 6 kgs de peso
+T6	SINTOMA 742 745	tos
+T7	SINTOMA 1051 1059	Eupneico
+T8	SINTOMA 1082 1092	Consciente
+T9	SINTOMA 1095 1104	orientado
+T10	SINTOMA 1110 1123	rigidez nucal
+T11	SINTOMA 1173 1187	Tonos rítmicos
+T12	SINTOMA 1193 1228	soplo sistólico 2/6 en foco aórtico
+T13	SINTOMA 1230 1274	Murmullo vesicular conservado sin estertores
+T14	SINTOMA 1276 1324	Abdomen blando, depresible, sin puntos dolorosos
+T15	SINTOMA 1387 1393	edemas
+T16	SINTOMA 2594 2611	onda q en I y aVL
+T17	SINTOMA 3129 3149	regurgitación mitral
+T18	PROCEDIMIENTO 974 992	Exploración física
+T19	PROCEDIMIENTO 1459 1468	Hemograma
+T20	PROCEDIMIENTO 1558 1574	Frotis sanguíneo
+T21	PROCEDIMIENTO 2372 2389	Gasometría venosa
+T22	PROCEDIMIENTO 2459 2467	Rx tórax
+T23	PROCEDIMIENTO 2553 2556	ECG
+T24	PROCEDIMIENTO 2662 2681	Ecografía abdominal
+T25	PROCEDIMIENTO 2724 2736	Hemocultivos
+T26	PROCEDIMIENTO 2739 2749	urocultivo
+T27	PROCEDIMIENTO 3089 3103	Ecocardiograma
+T28	PROCEDIMIENTO 3306 3331	TAC toracoabdominopélvico
+T29	PROCEDIMIENTO 3407 3432	Endoscopia digestiva alta
+T30	PROCEDIMIENTO 3453 3465	Colonoscopia
+T31	PROCEDIMIENTO 3500 3521	TAC senos paranasales
+T32	PROCEDIMIENTO 3609 3629	Biopsia mucosa nasal
+T33	PROCEDIMIENTO 3697 3715	prueba diagnóstica
+T34	NEG 68 71	sin
+T35	NSCO 72 95	alergias medicamentosas
+T36	NEG 187 189	No
+T37	NSCO 190 221	diabetes mellitus ni dislipemia
+T38	NEG 223 226	Sin
+T39	NSCO 227 242	hábitos tóxicos
+T40	NEG 746 749	sin
+T41	NSCO 750 763	expectoración
+T42	NEG 765 767	No
+T43	NSCO 768 824	alteraciones del hábito intestinal ni síndrome miccional
+T44	NEG 826 831	Niega
+T45	NSCO 832 898	picadura de insectos, mordeduras de animales o lesiones en la piel
+T46	NEG 900 907	Tampoco
+T47	NSCO 908 937	relaciones sexuales de riesgo
+T48	NEG 1106 1109	Sin
+T49	NSCO 1110 1123	rigidez nucal
+T50	NEG 1144 1146	No
+T51	NSCO 1147 1171	presencia de adenopatías
+T52	NEG 1260 1263	sin
+T53	NSCO 1264 1274	estertores
+T54	NEG 1304 1307	sin
+T55	NSCO 1308 1324	puntos dolorosos
+T56	NEG 1383 1386	sin
+T57	NSCO 1387 1432	edemas ni signos de trombosis venosa profunda
+T58	NEG 1575 1578	sin
+T59	NSCO 1579 1588	hallazgos
+T60	NEG 2239 2248	negativos
+T61	NEG 2279 2282	sin
+T62	NSCO 2283 2299	hematuria previa
+T63	NEG 2519 2522	Sin
+T64	NSCO 2523 2551	alteraciones parenquimatosas
+T65	NEG 2613 2615	no
+T66	NSCO 2616 2660	alteraciones del QRS ni de la repolarización
+T67	NEG 2691 2694	sin
+T68	NSCO 2695 2722	alteraciones significativas
+T69	NEG 2751 2760	negativos
+T70	NEG 2818 2827	negativos
+T71	NEG 3005 3014	negativos
+T72	NEG 3215 3218	sin
+T73	NSCO 3219 3252	alteraciones de la contractilidad
+T74	NEG 3254 3256	No
+T75	NSCO 3257 3304	se observan imágenes sugerentes de vegetaciones
+T76	NEG 3371 3374	Sin
+T77	NSCO 3375 3405	otros hallazgos significativos
+T78	NEG 3467 3470	sin
+T79	NSCO 3471 3498	alteraciones significativas
+T80	NEG 3653 3656	sin
+T81	NSCO 3657 3680	evidencia de vasculitis
+T82	FARMACO 432 444	levotiroxina
+T83	FARMACO 446 456	bisoprolol
+T84	FARMACO 458 467	valsartán
+T85	FARMACO 468 485	hidroclorotiazida
+T86	ORG_VIVO 0 5	Varón
+T87	ORG_VIVO 56 66	personales
+T88	ORG_VIVO 527 535	camarero
+T89	ORG_VIVO 844 852	insectos
+T90	ORG_VIVO 868 876	animales
+T91	ORG_VIVO 2783 2786	VEB
+T92	ORG_VIVO 2788 2791	CMV
+T93	ORG_VIVO 2793 2796	VHA
+T94	ORG_VIVO 2798 2801	VHB
+T95	ORG_VIVO 2803 2806	VEB
+T96	ORG_VIVO 2808 2811	VIH
+T97	ENFERMEDAD 72 95	alergias medicamentosas
+T98	ENFERMEDAD 97 127	Hipertensión arterial esencial
+T99	ENFERMEDAD 153 185	Miocardiopatía hipertensiva leve
+T100	ENFERMEDAD 190 207	diabetes mellitus
+T101	ENFERMEDAD 211 221	dislipemia
+T102	ENFERMEDAD 244 267	Hipotiroidismo primario
+T103	ENFERMEDAD 269 311	Anemia ferropénica estudiada por Digestivo
+T104	ENFERMEDAD 313 328	Poliposis nasal
+T105	ENFERMEDAD 346 398	fractura peroné izquierdo, ligamento lateral interno
+T106	ENFERMEDAD 806 824	síndrome miccional
+T107	ENFERMEDAD 832 898	picadura de insectos, mordeduras de animales o lesiones en la piel
+T108	ENFERMEDAD 1160 1171	adenopatías
+T109	ENFERMEDAD 1407 1432	trombosis venosa profunda
+T110	ENFERMEDAD 3352 3369	ascitis en pelvis
+T111	ENFERMEDAD 3434 3451	gastritis crónica
+T112	ENFERMEDAD 3631 3652	pólipos inflamatorios
+T113	ENFERMEDAD 3670 3680	vasculitis
+T114	PACIENTE-PROFESION 527 535	camarero
+T115	PACIENTE-PROFESION 504 525	trabaja en Hostelería

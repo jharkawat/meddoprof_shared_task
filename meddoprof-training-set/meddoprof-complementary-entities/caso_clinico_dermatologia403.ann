@@ -1,0 +1,24 @@
+T1	SINTOMA 720 735	prurito intenso
+T2	SINTOMA 1627 1634	prurito
+T3	PROCEDIMIENTO 371 387	depilación láser
+T4	PROCEDIMIENTO 547 568	tratamiento con láser
+T5	PROCEDIMIENTO 738 756	Exploración física
+T6	PROCEDIMIENTO 989 1008	estudio histológico
+T7	NEG 36 39	sin
+T8	NSCO 40 113	antecedentes médico-quirúrgicos de interés ni toma de medicación habitual
+T9	NEG 115 117	No
+T10	NSCO 118 160	presenta alergias medicamentosas conocidas
+T11	NEG 1258 1260	no
+T12	NSCO 1261 1326	se identificaron alteraciones hormonales o metabólicas reseñables
+T13	FARMACO 1446 1461	ácido retinoico
+T14	FARMACO 1501 1512	fluticasona
+T15	ORG_VIVO 10 24	Paciente mujer
+T16	ORG_VIVO 211 238	médico de atención primaria
+T17	ORG_VIVO 298 306	paciente
+T18	ORG_VIVO 1570 1578	paciente
+T19	ENFERMEDAD 253 270	lesiones axilares
+T20	ENFERMEDAD 683 700	lesiones axilares
+T21	ENFERMEDAD 1023 1039	pápulas axilares
+T22	ENFERMEDAD 1341 1366	Enfermedad de Fox Fordyce
+T23	ENFERMEDAD 1369 1393	Miliaria apocrina axilar
+T24	SANITARIO-PROFESION 211 238	médico de atención primaria

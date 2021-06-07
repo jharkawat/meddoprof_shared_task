@@ -1,0 +1,138 @@
+T1	SINTOMA 152 180	tumoración en la fosa iliaca
+T2	SINTOMA 286 295	lumbalgia
+T3	SINTOMA 463 471	embarazo
+T4	SINTOMA 839 891	masa que ocupaba todo el epigastrio y el hemiabdomen
+T5	SINTOMA 1526 1578	desplazamiento anterior de estómago, páncreas y bazo
+T6	SINTOMA 4820 4859	molestia ocasional en la zona escapular
+T7	SINTOMA 4884 4920	elevación y separación del antebrazo
+T8	PROCEDIMIENTO 690 708	Exploración física
+T9	PROCEDIMIENTO 757 789	auscultación cardiorrespiratoria
+T10	PROCEDIMIENTO 810 829	palpación abdominal
+T11	PROCEDIMIENTO 1296 1329	estudio de catecolaminas en orina
+T12	PROCEDIMIENTO 1402 1448	tomografía computarizada (TC) tóraco-abdominal
+T13	PROCEDIMIENTO 2184 2199	endoscopia oral
+T14	PROCEDIMIENTO 2392 2413	arteriografía aórtica
+T15	PROCEDIMIENTO 2522 2548	embolización preoperatoria
+T16	PROCEDIMIENTO 2720 2801	resección de la masa en bloque, que incluyó esplenopancreatectomía corporo-distal
+T17	PROCEDIMIENTO 2811 2822	nefrectomía
+T18	PROCEDIMIENTO 2825 2849	adrenalectomía izquierda
+T19	PROCEDIMIENTO 2962 3015	transfusión de 24 unidades de concentrado de hematíes
+T20	PROCEDIMIENTO 3503 3505	TC
+T21	PROCEDIMIENTO 4524 4545	quimio o radioterapia
+T22	PROCEDIMIENTO 5032 5034	TC
+T23	PROCEDIMIENTO 5036 5056	resonancia magnética
+T24	PROCEDIMIENTO 5059 5095	tomografía por emisión de positrones
+T25	PROCEDIMIENTO 5258 5281	escapulectomía subtotal
+T26	PROCEDIMIENTO 6104 6107	PET
+T27	PROCEDIMIENTO 6110 6126	gammagrafía ósea
+T28	PROCEDIMIENTO 6429 6455	tratamiento quimioterápico
+T29	PROCEDIMIENTO 6722 6735	quimioterapia
+T30	UNC 271 285	compatible con
+T31	USCO 286 304	lumbalgia mecánica
+T32	NEG 306 309	sin
+T33	NSCO 310 331	otra clínica asociada
+T34	NEG 473 476	sin
+T35	NSCO 477 529	alergias medicamentosas conocidas ni hábitos tóxicos
+T36	NEG 570 573	sin
+T37	NSCO 574 614	realizar ningún tratamiento domiciliario
+T38	NEG 725 728	sin
+T39	NSCO 729 789	hallazgos patológicos en la auscultación cardiorrespiratoria
+T40	NEG 926 928	no
+T41	NSCO 929 940	desplazable
+T42	NEG 942 945	sin
+T43	NSCO 946 990	que pudieran palparse adenopatías regionales
+T44	NEG 1218 1221	sin
+T45	NSCO 1222 1269	encontrarse alteraciones relevantes en la misma
+T46	UNC 1629 1637	aparente
+T47	USCO 1638 1667	infiltración de su parénquima
+T48	UNC 1669 1672	sin
+T49	USCO 1673 1676	que
+T50	UNC 1677 1684	pudiera
+T51	USCO 1685 1728	identificarse la glándula adrenal izquierda
+T52	NEG 1857 1860	sin
+T53	NSCO 1861 1908	que se observaran adenopatías retroperitoneales
+T54	NEG 2084 2086	no
+T55	NSCO 2087 2114	era infiltrada por la misma
+T56	NEG 2125 2141	fin de descartar
+T57	NSCO 2142 2166	la infiltración gástrica
+T58	NEG 2509 2518	imposible
+T59	NSCO 2519 2548	la embolización preoperatoria
+T60	NEG 3146 3155	se retiró
+T61	NSCO 3156 3167	en 24 horas
+T62	NEG 3330 3333	sin
+T63	NSCO 3334 3349	foco infeccioso
+T64	NEG 3522 3524	no
+T65	NSCO 3525 3542	mostró enfermedad
+T66	NEG 3804 3807	sin
+T67	NSCO 3808 3835	alteraciones significativas
+T68	NSCO 4004 4084	Existían otros datos que sugerían el extenso potencial agresivo de la tumoración
+T69	NEG 4259 4261	no
+T70	NSCO 4262 4273	funcionante
+T71	NEG 4274 4277	sin
+T72	NSCO 4278 4297	enfermedad residual
+T73	NEG 4417 4419	no
+T74	NSCO 4420 4431	funcionante
+T75	NEG 4432 4435	sin
+T76	NSCO 4436 4455	enfermedad residual
+T77	NEG 4457 4459	no
+T78	NSCO 4460 4545	existía indicación de tratamiento específico complementario con quimio o radioterapia
+T79	NEG 4674 4677	sin
+T80	NSCO 4678 4696	ninguna incidencia
+T81	NEG 4762 4771	negativos
+T82	NEG 4922 4925	sin
+T83	NSCO 4926 4950	otra clínica acompañante
+T84	NEG 5282 5285	sin
+T85	NSCO 5286 5297	incidencias
+T86	NEG 5435 5447	asintomática
+T87	UNC 5592 5606	compatible con
+T88	USCO 5607 5687	recidiva y una lesión focal hepática en el segmento VIII sugestiva de metástasis
+T89	UNC 6212 6225	sugestivas de
+T90	USCO 6226 6262	metástasis en linfáticos abdominales
+T91	NEG 6599 6601	no
+T92	NSCO 6602 6613	funcionante
+T93	NEG 6615 6617	no
+T94	NSCO 6618 6673	se prescribió bloqueo alfa y beta de forma profiláctica
+T95	NEG 6736 6739	sin
+T96	NSCO 6740 6763	criterios de progresión
+T97	FARMACO 6467 6481	ciclofosfamida
+T98	FARMACO 6499 6510	vincristina
+T99	FARMACO 6529 6533	DTIC
+T100	ORG_VIVO 37 42	mujer
+T101	ORG_VIVO 109 127	médico de cabecera
+T102	ORG_VIVO 214 222	paciente
+T103	ORG_VIVO 336 344	paciente
+T104	ORG_VIVO 378 386	personal
+T105	ORG_VIVO 677 687	familiares
+T106	ORG_VIVO 4645 4653	paciente
+T107	ORG_VIVO 5387 5395	paciente
+T108	ENFERMEDAD 286 304	lumbalgia mecánica
+T109	ENFERMEDAD 415 436	hipertensión arterial
+T110	ENFERMEDAD 477 500	alergias medicamentosas
+T111	ENFERMEDAD 657 666	neoplasia
+T112	ENFERMEDAD 968 990	adenopatías regionales
+T113	ENFERMEDAD 1879 1908	adenopatías retroperitoneales
+T114	ENFERMEDAD 1932 1958	trombosis de la vena renal
+T115	ENFERMEDAD 2145 2166	infiltración gástrica
+T116	ENFERMEDAD 2222 2268	compresión extrínseca en el cuerpo y el fundus
+T117	ENFERMEDAD 2273 2315	varices gástricas incipientes en el fundus
+T118	ENFERMEDAD 2477 2500	fístulas arteriovenosas
+T119	ENFERMEDAD 2671 2682	tumor renal
+T120	ENFERMEDAD 2685 2692	sarcoma
+T121	ENFERMEDAD 2923 2935	coagulopatía
+T122	ENFERMEDAD 3627 3649	feocromocitoma maligno
+T123	ENFERMEDAD 3655 3779	metástasis tumoral en uno o dos ganglios linfáticos yuxtapancreáticos con dos ganglios en el hilio renal libres de neoplasia
+T124	ENFERMEDAD 3900 3970	invasión macroscópica y microscópica de la vena suprarrenal, esplénica
+T125	ENFERMEDAD 3976 4002	adenopatía peripancreática
+T126	ENFERMEDAD 4236 4258	Feocromocitoma maligno
+T127	ENFERMEDAD 4394 4416	feocromocitoma maligno
+T128	ENFERMEDAD 5130 5156	metástasis única escapular
+T129	ENFERMEDAD 5355 5382	recidiva del feocromocitoma
+T130	ENFERMEDAD 5538 5560	lesión retroperitoneal
+T131	ENFERMEDAD 5622 5687	lesión focal hepática en el segmento VIII sugestiva de metástasis
+T132	ENFERMEDAD 5836 5856	recidiva paraaórtica
+T133	ENFERMEDAD 5886 5906	segmentomía hepática
+T134	ENFERMEDAD 5971 5999	metástasis de feocromocitoma
+T135	ENFERMEDAD 6131 6192	lesiones hepáticas de pequeño tamaño en los segmentos V y VII
+T136	ENFERMEDAD 6226 6274	metástasis en linfáticos abdominales, mediastino
+T137	ENFERMEDAD 6274 6303	, peritoneo y arco cigomático
+T138	SANITARIO-PROFESION 109 127	médico de cabecera

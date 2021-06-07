@@ -1,0 +1,181 @@
+T1	SINTOMA 547 558	prejubilada
+T2	SINTOMA 864 869	temor
+T3	SINTOMA 1155 1171	pérdida ponderal
+T4	SINTOMA 1202 1227	disminución de la ingesta
+T5	SINTOMA 1391 1398	afebril
+T6	SINTOMA 1465 1476	taquicardia
+T7	SINTOMA 1502 1510	delgadez
+T8	SINTOMA 2015 2025	linfopenia
+T9	SINTOMA 2345 2351	fiebre
+T10	SINTOMA 2354 2387	deterioro del nivel de conciencia
+T11	SINTOMA 2421 2427	febril
+T12	SINTOMA 2468 2480	semicomatosa
+T13	SINTOMA 4272 4280	delirios
+T14	SINTOMA 4282 4295	alucinaciones
+T15	SINTOMA 4298 4329	perturbaciones de la percepción
+T16	SINTOMA 4690 4724	alteración del nivel de conciencia
+T17	SINTOMA 5389 5395	fiebre
+T18	SINTOMA 5432 5467	disminución del nivel de conciencia
+T19	SINTOMA 6737 6769	alteraciones hidroelectrolíticas
+T20	SINTOMA 7046 7056	leucopenia
+T21	SINTOMA 7083 7093	linfopenia
+T22	SINTOMA 8557 8591	desorientación temporal y personal
+T23	PROCEDIMIENTO 1357 1375	exploración física
+T24	PROCEDIMIENTO 1583 1601	exploración física
+T25	PROCEDIMIENTO 1640 1643	ECG
+T26	PROCEDIMIENTO 1901 1910	hemograma
+T27	PROCEDIMIENTO 2583 2593	TC craneal
+T28	PROCEDIMIENTO 2614 2628	punción lumbar
+T29	PROCEDIMIENTO 2633 2643	TC craneal
+T30	PROCEDIMIENTO 2797 2811	punción lumbar
+T31	PROCEDIMIENTO 3208 3224	análisis del LCR
+T32	PROCEDIMIENTO 3354 3379	PCR de Herpesvirus en LCR
+T33	PROCEDIMIENTO 3381 3406	PCR de enterovirus en LCR
+T34	PROCEDIMIENTO 3408 3411	RMN
+T35	PROCEDIMIENTO 6438 6477	PCR de herpesvirus y enterovirus en LCR
+T36	PROCEDIMIENTO 6803 6819	estudio hormonal
+T37	PROCEDIMIENTO 6918 6927	hemograma
+T38	PROCEDIMIENTO 7420 7445	RMN craneal con contraste
+T39	PROCEDIMIENTO 7698 7722	estudio inmunovirológico
+T40	PROCEDIMIENTO 7829 7847	carga viral en LCR
+T41	PROCEDIMIENTO 8068 8091	terapia antirretroviral
+T42	PROCEDIMIENTO 8155 8167	test de IGRA
+T43	PROCEDIMIENTO 8394 8419	tratamiento antipsicótico
+T44	PROCEDIMIENTO 8684 8711	tratamiento antirretroviral
+T45	NEG 371 374	sin
+T46	NSCO 375 406	que pudiesen contactar con ella
+T47	NEG 595 597	no
+T48	NSCO 598 657	se recogían antecedentes personales o familiares de interés
+T49	NEG 663 670	tampoco
+T50	NSCO 671 706	eran reconocidos por su acompañante
+T51	NEG 1391 1398	afebril
+T52	NEG 1524 1526	no
+T53	NSCO 1527 1553	se encontraron otros datos
+T54	NEG 1706 1709	sin
+T55	NSCO 1710 1750	alteraciones agudas de la repolarización
+T56	NEG 1823 1826	sin
+T57	NSCO 1827 1839	alteraciones
+T58	NEG 2526 2530	nula
+T59	NSCO 2531 2551	a estímulos verbales
+T60	NEG 2696 2707	descartando
+T61	NSCO 2708 2755	lesiones que produjesen efecto masa o sangrados
+T62	NEG 3088 3099	ausencia de
+T63	NSCO 3100 3137	microorganismos en la tinción de Gram
+T64	NEG 4444 4454	descartado
+T65	NSCO 4455 4491	la existencia de una causa orgánica"
+T66	NEG 4605 4607	No
+T67	NSCO 4608 4623	hay que olvidar
+T68	UNC 4768 4778	plantearse
+T69	USCO 4779 4902	la posibilidad de un trastorno psicótico secundario a patología médica general o inducido por sustancias como primera causa
+T70	NEG 5029 5031	No
+T71	NSCO 5032 5056	cabe duda de que el caso
+T72	UNC 5071 5077	podría
+T73	USCO 5078 5106	catalogarse de inicio tardío
+T74	NEG 5141 5144	sin
+T75	NSCO 5145 5183	datos de patología psiquiátrica previa
+T76	NEG 6036 6039	sin
+T77	NSCO 6040 6047	olvidar
+T78	NEG 6111 6113	no
+T79	NSCO 6114 6124	resolverse
+T80	NEG 6491 6500	negativas
+T81	NEG 6513 6524	se suspende
+T82	NSCO 6525 6550	tratamiento con Aciclovir
+T83	NEG 6610 6621	se descarta
+T84	NSCO 6622 6670	la existencia de alteraciones de tipo metabólico
+T85	NEG 6725 6727	no
+T86	NSCO 6728 6794	existían alteraciones hidroelectrolíticas ni datos de desnutrición
+T87	NEG 6901 6910	negativos
+T88	NEG 7446 7448	no
+T89	NSCO 7449 7583	detectó lesiones ocupantes de espacio ni alteraciones vasculares o de la mielinización sugestivas de patología neurológica estructural
+T90	NEG 8101 8111	descartada
+T91	NSCO 8112 8179	la existencia de infección tuberculosa con test de IGRA que resultó
+T92	NEG 8180 8188	negativo
+T93	NEG 8557 8571	desorientación
+T94	NSCO 8572 8591	temporal y personal
+T95	NEG 8727 8739	asintomática
+T96	FARMACO 739 749	fluoxetina
+T97	FARMACO 3260 3269	Aciclovir
+T98	FARMACO 6541 6550	Aciclovir
+T99	FARMACO 8194 8203	tenofovir
+T100	FARMACO 8205 8218	emtricitabina
+T101	FARMACO 8221 8231	cobicistat
+T102	FARMACO 8232 8244	elvitegravir
+T103	FARMACO 8424 8435	haloperidol
+T104	ORG_VIVO 0 5	Mujer
+T105	ORG_VIVO 63 70	hermano
+T106	ORG_VIVO 149 157	paciente
+T107	ORG_VIVO 199 206	hermano
+T108	ORG_VIVO 424 432	paciente
+T109	ORG_VIVO 623 633	personales
+T110	ORG_VIVO 636 646	familiares
+T111	ORG_VIVO 695 706	acompañante
+T112	ORG_VIVO 766 793	médico de atención primaria
+T113	ORG_VIVO 843 851	paciente
+T114	ORG_VIVO 921 927	padres
+T115	ORG_VIVO 1127 1137	familiares
+T116	ORG_VIVO 1236 1244	paciente
+T117	ORG_VIVO 2394 2402	paciente
+T118	ORG_VIVO 2407 2415	paciente
+T119	ORG_VIVO 3100 3115	microorganismos
+T120	ORG_VIVO 3361 3372	Herpesvirus
+T121	ORG_VIVO 3388 3399	enterovirus
+T122	ORG_VIVO 3627 3635	paciente
+T123	ORG_VIVO 4390 4398	paciente
+T124	ORG_VIVO 5018 5026	paciente
+T125	ORG_VIVO 5124 5129	mujer
+T126	ORG_VIVO 5361 5369	paciente
+T127	ORG_VIVO 6445 6456	herpesvirus
+T128	ORG_VIVO 6459 6470	enterovirus
+T129	ORG_VIVO 7145 7153	paciente
+T130	ORG_VIVO 7180 7187	parejas
+T131	ORG_VIVO 7344 7354	familiares
+T132	ORG_VIVO 7665 7670	VIH-1
+T133	ORG_VIVO 7706 7722	inmunovirológico
+T134	ORG_VIVO 7784 7789	viral
+T135	ORG_VIVO 7835 7840	viral
+T136	ORG_VIVO 8023 8028	viral
+T137	ORG_VIVO 8076 8091	antirretroviral
+T138	ORG_VIVO 8291 8299	paciente
+T139	ORG_VIVO 8583 8591	personal
+T140	ORG_VIVO 8596 8604	paciente
+T141	ORG_VIVO 8696 8711	antirretroviral
+T142	ORG_VIVO 8958 8963	mujer
+T143	ENFERMEDAD 933 951	tumor en la cabeza
+T144	ENFERMEDAD 1465 1476	taquicardia
+T145	ENFERMEDAD 1645 1664	taquicardia sinusal
+T146	ENFERMEDAD 1919 1937	anemia normocítica
+T147	ENFERMEDAD 3319 3340	encefalitis herpética
+T148	ENFERMEDAD 3593 3612	trastornos mentales
+T149	ENFERMEDAD 3740 3761	trastornos psicóticos
+T150	ENFERMEDAD 3848 3856	delirium
+T151	ENFERMEDAD 3858 3876	psicosis orgánicas
+T152	ENFERMEDAD 3898 3926	cuadros psicóticos inducidos
+T153	ENFERMEDAD 3943 3959	psicosis tóxicas
+T154	ENFERMEDAD 3965 3978	esquizofrenia
+T155	ENFERMEDAD 3983 3991	paranoia
+T156	ENFERMEDAD 3997 4023	psicosis maníaco-depresiva
+T157	ENFERMEDAD 4149 4163	psicosis aguda
+T158	ENFERMEDAD 4272 4280	delirios
+T159	ENFERMEDAD 4726 4744	déficit de memoria
+T160	ENFERMEDAD 4800 4819	trastorno psicótico
+T161	ENFERMEDAD 5266 5274	psicosis
+T162	ENFERMEDAD 5537 5545	delirium
+T163	ENFERMEDAD 5548 5574	síndrome confusional agudo
+T164	ENFERMEDAD 5808 5834	síndrome confusional agudo
+T165	ENFERMEDAD 6000 6035	trastorno potencialmente reversible
+T166	ENFERMEDAD 6330 6360	afectación estructural del SNC
+T167	ENFERMEDAD 6782 6794	desnutrición
+T168	ENFERMEDAD 6938 6969	anemia normocítica normocrómica
+T169	ENFERMEDAD 7083 7093	linfopenia
+T170	ENFERMEDAD 7550 7583	patología neurológica estructural
+T171	ENFERMEDAD 7665 7670	VIH-1
+T172	ENFERMEDAD 7946 7968	infección VIH avanzada
+T173	ENFERMEDAD 7983 8005	inmunodepresión severo
+T174	ENFERMEDAD 8129 8150	infección tuberculosa
+T175	ENFERMEDAD 8897 8923	síndrome confusional agudo
+T176	ENFERMEDAD 8937 8954	encefalopatía VIH
+T177	ENFERMEDAD 8968 8981	infección VIH
+T178	ENFERMEDAD 9022 9026	SIDA
+T179	PACIENTE-PROFESION 511 525	Administrativa
+T180	SANITARIO-PROFESION 766 793	médico de atención primaria
+T181	PACIENTE-SITUACION_LABORAL 547 558	prejubilada

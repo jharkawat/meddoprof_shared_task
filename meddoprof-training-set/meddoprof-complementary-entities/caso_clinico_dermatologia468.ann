@@ -1,0 +1,24 @@
+T1	SINTOMA 690 697	prurito
+T2	SINTOMA 700 716	sensación urente
+T3	PROCEDIMIENTO 953 964	corticoides
+T4	PROCEDIMIENTO 967 988	antibioterapia tópica
+T5	PROCEDIMIENTO 1182 1201	pruebas epicutáneas
+T6	PROCEDIMIENTO 1209 1236	batería estándar del GEIDAC
+T7	NEG 755 758	sin
+T8	NSCO 759 779	desarrollar lesiones
+T9	UNC 1049 1057	sospecha
+T10	USCO 1058 1102	clínica de eccema alérgico de contacto agudo
+T11	FARMACO 195 208	isotretinoína
+T12	FARMACO 606 619	isotretinoína
+T13	FARMACO 936 951	sulfato de zinc
+T14	ORG_VIVO 4 9	mujer
+T15	ORG_VIVO 22 32	estudiante
+T16	ORG_VIVO 425 433	paciente
+T17	ORG_VIVO 510 519	almendras
+T18	ENFERMEDAD 54 81	acné nódulo-quístico severo
+T19	ENFERMEDAD 95 112	lesiones labiales
+T20	ENFERMEDAD 314 420	costras melicéricas sobre una base eritematosa que comprometían la semimucosa de labio superior e inferior
+T21	ENFERMEDAD 1069 1102	eccema alérgico de contacto agudo
+T22	ENFERMEDAD 1131 1153	Dermatitis de Contacto
+T23	ENFERMEDAD 1297 1312	Alergia Cutánea
+T24	PACIENTE-SITUACION_LABORAL 22 32	estudiante

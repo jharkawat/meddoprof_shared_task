@@ -1,0 +1,57 @@
+T1	SINTOMA 258 264	lloros
+T2	SINTOMA 271 296	falta de sueño casi total
+T3	SINTOMA 1461 1468	bebedor
+T4	SINTOMA 1727 1735	disforia
+T5	SINTOMA 1737 1745	insomnio
+T6	SINTOMA 1747 1765	habla extrañamente
+T7	SINTOMA 1775 1790	hipervigilancia
+T8	SINTOMA 2043 2051	distimia
+T9	SINTOMA 2152 2160	insomnio
+T10	SINTOMA 2840 2853	alucinaciones
+T11	SINTOMA 2871 2880	sonriendo
+T12	PROCEDIMIENTO 1837 1851	antidepresivos
+T13	PROCEDIMIENTO 2953 2971	pruebas cognitivas
+T14	NEG 271 279	falta de
+T15	NSCO 280 296	sueño casi total
+T16	NEG 882 884	no
+T17	NSCO 885 889	solo
+T18	NEG 890 892	no
+T19	NSCO 893 911	era propia de ella
+T20	NEG 1565 1567	no
+T21	NSCO 1568 1626	conocía ni el diagnóstico ni qué tratamientos había tenido
+T22	NEG 2099 2104	nunca
+T23	NSCO 2105 2149	la había visto en los periodos de crispación
+T24	NEG 2777 2779	no
+T25	NSCO 2780 2786	dormía
+T26	NEG 2831 2833	no
+T27	NSCO 2834 2853	tener alucinaciones
+T28	FARMACO 513 523	fluoxetina
+T29	FARMACO 569 579	clonazepam
+T30	ORG_VIVO 0 9	Francisca
+T31	ORG_VIVO 77 82	hijos
+T32	ORG_VIVO 158 164	marido
+T33	ORG_VIVO 692 698	marido
+T34	ORG_VIVO 1191 1201	maternales
+T35	ORG_VIVO 1308 1316	paciente
+T36	ORG_VIVO 1382 1387	padre
+T37	ORG_VIVO 1419 1425	hombre
+T38	ORG_VIVO 1479 1487	paciente
+T39	ORG_VIVO 1505 1519	abuela paterna
+T40	ORG_VIVO 1861 1867	marido
+T41	ORG_VIVO 1975 1985	psiquiatra
+T42	ORG_VIVO 2292 2298	marido
+T43	ORG_VIVO 2381 2389	paciente
+T44	ORG_VIVO 3046 3055	conejillo
+T45	ORG_VIVO 3067 3074	caballo
+T46	ORG_VIVO 3088 3102	perro ladrador
+T47	ENFERMEDAD 1339 1348	depresión
+T48	ENFERMEDAD 1541 1557	crisis nerviosas
+T49	ENFERMEDAD 2043 2051	distimia
+T50	ENFERMEDAD 2054 2063	depresión
+T51	SANITARIO-PROFESION 2545 2555	examinador
+T52	SANITARIO-PROFESION 1975 2001	psiquiatra del ambulatorio
+T53	PACIENTE-PROFESION 22 39	analista de bolsa
+T54	PACIENTE-PROFESION 941 998	analista de bolsa para un importante banco de inversiones
+T55	FAMILIAR-PROFESION 1419 1437	hombre de negocios
+T56	PACIENTE-ACTIVIDAD 784 815	había creado hacía poco un blog
+T57	PACIENTE-PROFESION 2676 2694	atender su negocio

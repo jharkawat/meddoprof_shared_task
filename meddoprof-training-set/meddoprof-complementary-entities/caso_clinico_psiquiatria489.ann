@@ -1,0 +1,116 @@
+T1	SINTOMA 1117 1126	fallecido
+T2	SINTOMA 2024 2042	síntomas positivos
+T3	SINTOMA 3472 3479	náuseas
+T4	SINTOMA 3503 3509	fatiga
+T5	SINTOMA 3515 3523	malestar
+T6	SINTOMA 3976 3991	conducta pueril
+T7	SINTOMA 4179 4197	síntomas positivos
+T8	SINTOMA 4228 4259	alteración del ritmo de vigilia
+T9	PROCEDIMIENTO 1696 1718	extracciones de sangre
+T10	NEG 493 501	negativa
+T11	UNC 514 524	Impresiona
+T12	USCO 525 528	que
+T13	UNC 529 531	no
+T14	USCO 532 597	exista una idea clara y real de la situación clínica del paciente
+T15	NEG 612 620	falta de
+T16	NSCO 621 669	previsión con respecto a su cuidado en el futuro
+T17	NEG 804 806	no
+T18	NSCO 807 819	contributiva
+T19	NEG 1176 1178	no
+T20	NSCO 1179 1214	reacciones alérgicas medicamentosas
+T21	NEG 1282 1285	Sin
+T22	NSCO 1286 1301	hábitos tóxicos
+T23	NEG 1528 1530	no
+T24	NSCO 1531 1559	acabando el servicio militar
+T25	NEG 2012 2023	ausencia de
+T26	NSCO 2024 2042	síntomas positivos
+T27	NEG 2059 2067	niega de
+T28	NSCO 2068 2102	forma reiterada a acudir al equipo
+T29	NEG 2143 2145	No
+T30	NSCO 2146 2170	había tenido entrevistas
+T31	NEG 2857 2859	no
+T32	NSCO 2860 2862	se
+T33	NEG 2878 2889	negativa de
+T34	NSCO 2890 2898	la madre
+T35	NEG 3528 3530	no
+T36	NSCO 3531 3550	estoy igual de bien
+T37	NEG 4543 4546	sin
+T38	NSCO 4547 4577	efectos secundarios relevantes
+T39	NEG 4769 4772	sin
+T40	NSCO 4773 4808	alteraciones de conducta reseñables
+T41	NEG 4810 4812	no
+T42	NSCO 4813 4853	precisando ningún ingreso desde entonces
+T43	NEG 4855 4857	No
+T44	FARMACO 1767 1776	clozapina
+T45	FARMACO 3163 3175	paliperidona
+T46	FARMACO 3330 3339	clozapina
+T47	FARMACO 4416 4425	clozapina
+T48	FARMACO 4666 4675	clozapina
+T49	ORG_VIVO 34 48	paciente varón
+T50	ORG_VIVO 88 98	personales
+T51	ORG_VIVO 112 120	hermanos
+T52	ORG_VIVO 137 142	madre
+T53	ORG_VIVO 158 167	cuidadora
+T54	ORG_VIVO 179 184	Padre
+T55	ORG_VIVO 234 242	personal
+T56	ORG_VIVO 264 272	hermanas
+T57	ORG_VIVO 333 338	madre
+T58	ORG_VIVO 414 422	familiar
+T59	ORG_VIVO 589 597	paciente
+T60	ORG_VIVO 770 775	madre
+T61	ORG_VIVO 832 840	familiar
+T62	ORG_VIVO 882 891	cuidadora
+T63	ORG_VIVO 1021 1043	miembros de la familia
+T64	ORG_VIVO 1045 1052	hermana
+T65	ORG_VIVO 1069 1079	familiares
+T66	ORG_VIVO 1081 1086	padre
+T67	ORG_VIVO 1105 1116	tío paterno
+T68	ORG_VIVO 1331 1337	tabaco
+T69	ORG_VIVO 1682 1693	facultativo
+T70	ORG_VIVO 1925 1933	familiar
+T71	ORG_VIVO 2178 2189	facultativo
+T72	ORG_VIVO 2311 2318	familia
+T73	ORG_VIVO 2342 2351	contactos
+T74	ORG_VIVO 2508 2513	madre
+T75	ORG_VIVO 2582 2590	hermanas
+T76	ORG_VIVO 2662 2667	madre
+T77	ORG_VIVO 2714 2721	hermano
+T78	ORG_VIVO 2893 2898	madre
+T79	ORG_VIVO 3235 3243	paciente
+T80	ORG_VIVO 3401 3409	paciente
+T81	ORG_VIVO 3689 3697	paciente
+T82	ORG_VIVO 3812 3830	personal sanitario
+T83	ORG_VIVO 3872 3877	madre
+T84	ORG_VIVO 3925 3929	niño
+T85	ORG_VIVO 4052 4059	familia
+T86	ORG_VIVO 4097 4105	paciente
+T87	ORG_VIVO 4142 4149	hermana
+T88	ORG_VIVO 4507 4515	paciente
+T89	ORG_VIVO 4680 4688	paciente
+T90	ORG_VIVO 4894 4902	paciente
+T91	ENFERMEDAD 199 215	cáncer de vejiga
+T92	ENFERMEDAD 246 257	alcoholismo
+T93	ENFERMEDAD 1091 1102	alcoholismo
+T94	ENFERMEDAD 1131 1140	autolisis
+T95	ENFERMEDAD 1179 1214	reacciones alérgicas medicamentosas
+T96	ENFERMEDAD 1216 1241	Síndrome de Mallory Weiss
+T97	ENFERMEDAD 1258 1269	hipospadias
+T98	ENFERMEDAD 1874 1933	trastornos de conducta con agresividad en su medio familiar
+T99	ENFERMEDAD 2542 2564	trastornos de conducta
+T100	ENFERMEDAD 2980 3011	descompensación psicopatológica
+T101	ENFERMEDAD 3016 3038	trastornos de conducta
+T102	ENFERMEDAD 4332 4343	DIAGNÓSTICO
+T103	ENFERMEDAD 4344 4367	Esquizofrenia paranoide
+T104	FAMILIAR-SITUACION_LABORAL 158 177	cuidadora principal
+T105	FAMILIAR-SITUACION_LABORAL 882 901	cuidadora principal
+T106	SANITARIO-PROFESION 1589 1595	equipo
+T107	SANITARIO-PROFESION 2096 2102	equipo
+T108	SANITARIO-PROFESION 3216 3222	equipo
+T109	SANITARIO-PROFESION 1682 1693	facultativo
+T110	SANITARIO-PROFESION 2178 2189	facultativo
+T111	FAMILIAR-SITUACION_LABORAL 796 819	pensión no contributiva
+T112	SANITARIO-PROFESION 3812 3830	personal sanitario
+T113	PACIENTE-SITUACION_LABORAL 1424 1440	servicio militar
+T114	PACIENTE-SITUACION_LABORAL 1543 1559	servicio militar
+T115	PACIENTE-SITUACION_LABORAL 677 707	estudios primarios incompletos
+T116	PACIENTE-SITUACION_LABORAL 726 755	minusvalía de 67%, prestación

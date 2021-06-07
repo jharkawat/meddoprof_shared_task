@@ -1,0 +1,39 @@
+T1	SINTOMA 117 137	cefalea holocraneana
+T2	SINTOMA 140 147	náuseas
+T3	SINTOMA 288 307	diplopía horizontal
+T4	SINTOMA 309 352	inestabilidad en la estática y en la marcha
+T5	SINTOMA 401 406	vigil
+T6	SINTOMA 413 422	orientado
+T7	SINTOMA 542 564	dismetría índice-nariz
+T8	PROCEDIMIENTO 424 436	fondo de ojo
+T9	PROCEDIMIENTO 649 662	TC encefálica
+T10	PROCEDIMIENTO 681 717	resonancia magnética (RM) encefálica
+T11	NEG 437 440	sin
+T12	NSCO 441 457	particularidades
+T13	UNC 819 828	probables
+T14	USCO 829 869	microabscesos a dicho nivel Leucocitosis
+T15	NEG 1052 1060	negativo
+T16	NEG 1074 1082	negativo
+T17	NSCO 1084 1135	búsqueda de Cryptococcus con tinción de tinta china
+T18	NEG 1136 1144	negativo
+T19	NSCO 1145 1166	y cultivo para hongos
+T20	NEG 1167 1175	negativo
+T21	NEG 1191 1199	negativo
+T22	NEG 1220 1228	negativa
+T23	UNC 1604 1617	probablemente
+T24	USCO 1618 1624	por LM
+T25	FARMACO 1375 1385	ampicilina
+T26	ORG_VIVO 0 6	Hombre
+T27	ORG_VIVO 392 400	paciente
+T28	ORG_VIVO 1032 1039	familia
+T29	ORG_VIVO 1040 1051	herpesvirus
+T30	ORG_VIVO 1071 1073	BK
+T31	ORG_VIVO 1096 1108	Cryptococcus
+T32	ORG_VIVO 1160 1166	hongos
+T33	ORG_VIVO 1216 1219	HIV
+T34	ENFERMEDAD 288 307	diplopía horizontal
+T35	ENFERMEDAD 355 371	parálisis facial
+T36	ENFERMEDAD 460 495	parálisis del sexto nervio craneano
+T37	ENFERMEDAD 505 532	parálisis facial periférica
+T38	ENFERMEDAD 1313 1345	encefalitis por L. monocytogenes
+T39	ENFERMEDAD 1587 1624	Romboencefalitis probablemente por LM

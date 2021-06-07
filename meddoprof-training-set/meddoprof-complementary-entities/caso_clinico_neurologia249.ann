@@ -1,0 +1,106 @@
+T1	SINTOMA 160 188	impotencia funcional del pie
+T2	SINTOMA 505 512	fumador
+T3	SINTOMA 809 814	dolor
+T4	SINTOMA 1116 1142	buen estado general global
+T5	SINTOMA 1148 1187	cifras tensionales ligeramente elevadas
+T6	SINTOMA 1220 1226	soplos
+T7	SINTOMA 1258 1307	Pulsos pedios débiles pero presentes y simétricos
+T8	SINTOMA 1334 1343	orientado
+T9	SINTOMA 1389 1398	disartria
+T10	SINTOMA 1751 1804	Debilidad 1/5 en la flexión dorsal y eversión del pie
+T11	SINTOMA 1807 1861	debilidad 3/5 en la flexión plantar y aducción del pie
+T12	SINTOMA 1863 1903	Hipoestesia en la parte anterior del pie
+T13	SINTOMA 1948 1958	dismetrías
+T14	PROCEDIMIENTO 347 379	resonancia magnética (RM) lumbar
+T15	PROCEDIMIENTO 405 407	RM
+T16	PROCEDIMIENTO 722 749	bypass aorto-bifemoral ocho
+T17	PROCEDIMIENTO 1060 1078	Exploración física
+T18	PROCEDIMIENTO 1309 1332	Exploración neurológica
+T19	PROCEDIMIENTO 1493 1527	exploración de los pares craneales
+T20	PROCEDIMIENTO 2124 2161	Tomografía computarizada (TC) craneal
+T21	PROCEDIMIENTO 2341 2373	Tomografía computarizada craneal
+T22	PROCEDIMIENTO 2569 2592	Estudio neurosonológico
+T23	PROCEDIMIENTO 3011 3024	arteriografía
+T24	PROCEDIMIENTO 3471 3480	hemograma
+T25	PROCEDIMIENTO 3629 3663	Arteriografía cerebral diagnóstica
+T26	PROCEDIMIENTO 4160 4162	TC
+T27	PROCEDIMIENTO 4432 4454	arteriografía cerebral
+T28	PROCEDIMIENTO 4581 4606	endarterectomía carotídea
+T29	NEG 408 410	no
+T30	NSCO 411 449	reveló compresión radicular ni medular
+T31	NEG 805 808	sin
+T32	NSCO 809 823	dolor asociado
+T33	NEG 997 999	No
+T34	NSCO 1000 1057	refería otra sintomatología asociada con el cuadro actual
+T35	NEG 1216 1219	sin
+T36	NSCO 1220 1234	soplos ni roce
+T37	NEG 1236 1238	No
+T38	NSCO 1239 1256	soplos carotídeos
+T39	NEG 1359 1361	No
+T40	NSCO 1362 1384	trastorno del lenguaje
+T41	NEG 1386 1388	No
+T42	NSCO 1389 1398	disartria
+T43	NEG 1450 1452	no
+T44	NSCO 1453 1475	defectos campimétricos
+T45	NEG 1625 1628	sin
+T46	NSCO 1629 1641	alteraciones
+T47	NEG 1914 1917	sin
+T48	NSCO 1918 1943	seguir un claro dermatoma
+T49	NEG 1945 1947	No
+T50	NSCO 1948 1958	dismetrías
+T51	NEG 2078 2086	Lassegue
+T52	NEG 2087 2095	negativo
+T53	UNC 2294 2309	compatibles con
+T54	USCO 2310 2339	lesiones isquémicas subagudas
+T55	UNC 2520 2535	compatibles con
+T56	USCO 2536 2565	lesiones isquémicas subagudas
+T57	NEG 3355 3357	No
+T58	NSCO 3358 3408	se insona la arteria comunicante posterior derecha
+T59	NEG 3436 3438	no
+T60	NSCO 3439 3448	invertida
+T61	NEG 3537 3540	sin
+T62	NSCO 3541 3553	alteraciones
+T63	NEG 3809 3811	no
+T64	NSCO 3812 3848	condicionaba estenosis significativa
+T65	UNC 3952 3964	posiblemente
+T66	USCO 3965 3980	doble mecanismo
+T67	FARMACO 4276 4287	clopidogrel
+T68	FARMACO 4327 4349	ácido acetilsalicílico
+T69	FARMACO 4357 4366	estatinas
+T70	ORG_VIVO 13 25	traumatólogo
+T71	ORG_VIVO 35 44	neurólogo
+T72	ORG_VIVO 74 82	paciente
+T73	ORG_VIVO 123 131	paciente
+T74	ORG_VIVO 252 260	paciente
+T75	ORG_VIVO 321 333	traumatólogo
+T76	ORG_VIVO 479 495	neurólogo: varón
+T77	ORG_VIVO 1096 1104	paciente
+T78	ORG_VIVO 3035 3043	paciente
+T79	ORG_VIVO 4210 4218	paciente
+T80	ORG_VIVO 4289 4297	paciente
+T81	ORG_VIVO 4474 4482	paciente
+T82	ENFERMEDAD 283 305	patología discal L5-S1
+T83	ENFERMEDAD 577 598	cardiopatía isquémica
+T84	ENFERMEDAD 611 637	infarto agudo de miocardio
+T85	ENFERMEDAD 657 680	vasculopatía periférica
+T86	ENFERMEDAD 685 704	síndrome de Leriche
+T87	ENFERMEDAD 1362 1384	trastorno del lenguaje
+T88	ENFERMEDAD 2163 2247	lesiones hipodensas en el territorio frontera posterior de la arteria cerebral media
+T89	ENFERMEDAD 2249 2279	ACM)-arteria cerebral anterior
+T90	ENFERMEDAD 2310 2339	lesiones isquémicas subagudas
+T91	ENFERMEDAD 2409 2509	lesiones hipodensas en el territorio frontera de la arteria cerebral media-arteria carótida anterior
+T92	ENFERMEDAD 2536 2565	lesiones isquémicas subagudas
+T93	ENFERMEDAD 2699 2750	estenosis del 30-50% en la arteria carótida interna
+T94	ENFERMEDAD 2769 2802	estenosis mayor del 70% en la ACI
+T95	ENFERMEDAD 2926 2984	estenosis >70% en el inicio de la arteria carótida interna
+T96	ENFERMEDAD 3684 3736	estenosis crítica preoclusiva en el origen de la ACI
+T97	ENFERMEDAD 3755 3794	ateroma ulcerada en el origen de la ACI
+T98	ENFERMEDAD 3865 3949	Ictus isquémico en el territorio frontera de la ACM-ACA de etiología aterotrombótica
+T99	ENFERMEDAD 3982 3990	embólico
+T100	ENFERMEDAD 4010 4049	Estenosis crítica sintomática de la ACI
+T101	ENFERMEDAD 4243 4248	Ictus
+T102	ENFERMEDAD 4493 4510	estenosis crítica
+T103	SANITARIO-PROFESION 35 44	neurólogo
+T104	SANITARIO-PROFESION 479 488	neurólogo
+T105	SANITARIO-PROFESION 13 25	traumatólogo
+T106	SANITARIO-PROFESION 321 333	traumatólogo

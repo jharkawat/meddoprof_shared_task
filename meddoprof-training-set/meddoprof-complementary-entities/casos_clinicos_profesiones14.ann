@@ -1,0 +1,37 @@
+T1	SINTOMA 67 108	depresión horizontal en uno de los muslos
+T2	PROCEDIMIENTO 1302 1317	biopsia cutánea
+T3	NEG 262 265	Sin
+T4	NSCO 266 273	interés
+T5	NEG 334 336	No
+T6	NSCO 337 370	alergias medicamentosas conocidas
+T7	NEG 372 374	No
+T8	NSCO 375 390	hábitos tóxicos
+T9	NEG 605 607	no
+T10	NSCO 608 633	indurada de 1 cm de ancho
+T11	UNC 765 773	sospecha
+T12	USCO 774 809	clínica de lipoatrofia semicircular
+T13	NEG 1288 1290	No
+T14	NSCO 1291 1317	se realizó biopsia cutánea
+T15	UNC 1318 1319	?
+T16	NEG 1338 1341	Sin
+T17	NSCO 1342 1349	interes
+T18	UNC 1371 1379	sospecha
+T19	USCO 1380 1419	diagnóstica de lipoatrofia semicircular
+T20	NEG 1613 1615	no
+T21	NSCO 1616 1642	recibió ningún tratamiento
+T22	ORG_VIVO 250 260	personales
+T23	ORG_VIVO 287 292	mujer
+T24	ORG_VIVO 318 332	administrativa
+T25	ORG_VIVO 828 836	paciente
+T26	ORG_VIVO 913 921	paciente
+T27	ORG_VIVO 1329 1337	Familiar
+T28	ORG_VIVO 1519 1527	paciente
+T29	ORG_VIVO 1604 1612	paciente
+T30	ENFERMEDAD 67 108	depresión horizontal en uno de los muslos
+T31	ENFERMEDAD 199 215	HISTORIA CLÍNICA
+T32	ENFERMEDAD 217 224	Enfoque
+T33	ENFERMEDAD 785 809	lipoatrofia semicircular
+T34	ENFERMEDAD 859 886	microtraumatismos repetidos
+T35	ENFERMEDAD 1248 1261	esclerodermia
+T36	ENFERMEDAD 1395 1419	lipoatrofia semicircular
+T37	PACIENTE-PROFESION 318 332	administrativa

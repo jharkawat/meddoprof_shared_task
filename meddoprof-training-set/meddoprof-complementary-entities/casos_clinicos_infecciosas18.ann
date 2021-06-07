@@ -1,0 +1,111 @@
+T1	SINTOMA 329 336	náuseas
+T2	SINTOMA 339 346	pirosis
+T3	SINTOMA 1111 1117	fiebre
+T4	SINTOMA 1133 1140	náuseas
+T5	SINTOMA 1142 1149	vómitos
+T6	SINTOMA 1152 1180	dolor en hipocondrio derecho
+T7	SINTOMA 1516 1522	fiebre
+T8	SINTOMA 1527 1538	escalofríos
+T9	SINTOMA 1540 1547	náuseas
+T10	SINTOMA 1549 1556	vómitos
+T11	SINTOMA 1568 1609	dolor en hipocondrio derecho y epigastrio
+T12	SINTOMA 1629 1690	abdomen blando y depresible, doloroso a la palpación profunda
+T13	SINTOMA 1706 1727	irritación peritoneal
+T14	SINTOMA 1844 1856	leucocitosis
+T15	SINTOMA 1861 1872	neutrofilia
+T16	SINTOMA 2821 2843	dilatación de colédoco
+T17	PROCEDIMIENTO 351 376	endoscopia digestiva alta
+T18	PROCEDIMIENTO 419 467	ligadura de trompas uterinas y prótesis mamarias
+T19	PROCEDIMIENTO 619 628	ecografía
+T20	PROCEDIMIENTO 687 716	colecistectomía laparoscópica
+T21	PROCEDIMIENTO 905 924	ecografía abdominal
+T22	PROCEDIMIENTO 1203 1212	ecografía
+T23	PROCEDIMIENTO 1261 1276	drenaje externo
+T24	PROCEDIMIENTO 1295 1332	antibioterapia intravenosa prolongada
+T25	PROCEDIMIENTO 1906 1918	hemocultivos
+T26	PROCEDIMIENTO 1985 2003	colangioresonancia
+T27	PROCEDIMIENTO 2241 2264	CPRE con esfinterotomía
+T28	PROCEDIMIENTO 2341 2354	TC de abdomen
+T29	PROCEDIMIENTO 2544 2556	hemocultivos
+T30	PROCEDIMIENTO 2719 2728	Hemograma
+T31	PROCEDIMIENTO 2744 2754	Urocultivo
+T32	PROCEDIMIENTO 2776 2795	ecografía abdominal
+T33	PROCEDIMIENTO 2935 2939	CPRE
+T34	PROCEDIMIENTO 2976 3002	antibioterapia intravenosa
+T35	PROCEDIMIENTO 3353 3400	profilaxis secundaria con ácido ursodeoxicólico
+T36	PROCEDIMIENTO 3753 3772	trasplante hepático
+T37	PROCEDIMIENTO 3902 3931	colecistectomía laparoscópica
+T38	PROCEDIMIENTO 4315 4319	CPRE
+T39	NEG 229 234	niega
+T40	NSCO 235 268	diabetes mellitus ni hipertensión
+T41	NEG 377 380	sin
+T42	NSCO 381 402	hallazgos patológicos
+T43	UNC 629 643	compatible con
+T44	USCO 644 672	colecistitis aguda litiásica
+T45	NEG 785 788	sin
+T46	NSCO 789 809	incidencias clínicas
+T47	NEG 1692 1695	sin
+T48	NSCO 1696 1727	signos de irritación peritoneal
+T49	UNC 2055 2062	posible
+T50	USCO 2063 2123	foco de colangitis en rama subsegmentaria de árbol izquierdo
+T51	NEG 2265 2268	sin
+T52	NSCO 2269 2290	obtención de material
+T53	UNC 2369 2376	sugiere
+T54	USCO 2377 2430	sobreinfección de quiste en segmento VI hepático como
+T55	UNC 2431 2439	probable
+T56	USCO 2440 2461	foco de la colangitis
+T57	NEG 2729 2732	sin
+T58	NSCO 2733 2742	hallazgos
+T59	NSCO 2744 2754	Urocultivo
+T60	NEG 2755 2763	negativo
+T61	UNC 2867 2873	dudosa
+T62	USCO 2874 2899	sombra acústica posterior
+T63	NEG 2940 2943	sin
+T64	NSCO 2944 2953	hallazgos
+T65	UNC 4254 4262	probable
+T66	USCO 4263 4302	origen biliar (colangitis de repetición
+T67	FARMACO 492 501	omeprazol
+T68	FARMACO 514 527	rosuvastatina
+T69	FARMACO 540 550	paroxetina
+T70	FARMACO 1334 1342	Imipenem
+T71	FARMACO 3007 3016	Ertapenem
+T72	FARMACO 3379 3400	ácido ursodeoxicólico
+T73	FARMACO 3425 3435	quinolonas
+T74	FARMACO 3437 3451	Ciprofloxacino
+T75	FARMACO 3471 3481	macrólidos
+T76	FARMACO 3483 3495	Azitromicina
+T77	ORG_VIVO 27 32	mujer
+T78	ORG_VIVO 45 54	psicóloga
+T79	ORG_VIVO 1433 1458	E. coli productor de BLEE
+T80	ORG_VIVO 1946 1971	E. coli productor de BLEE
+T81	ORG_VIVO 2560 2572	E. coli BLEE
+T82	ORG_VIVO 3069 3077	paciente
+T83	ORG_VIVO 3206 3234	aislamientos microbiológicos
+T84	ORG_VIVO 3266 3276	pneumoniae
+T85	ORG_VIVO 3278 3285	E. coli
+T86	ORG_VIVO 3301 3311	E. faecium
+T87	ORG_VIVO 3859 3867	paciente
+T88	ORG_VIVO 4403 4411	paciente
+T89	ENFERMEDAD 79 112	alergia documentada a pirazolonas
+T90	ENFERMEDAD 188 198	Dislipemia
+T91	ENFERMEDAD 235 252	diabetes mellitus
+T92	ENFERMEDAD 256 268	hipertensión
+T93	ENFERMEDAD 644 672	colecistitis aguda litiásica
+T94	ENFERMEDAD 1216 1239	colección abscesificada
+T95	ENFERMEDAD 1906 1971	hemocultivos extraídos crece nuevamente E. coli productor de BLEE
+T96	ENFERMEDAD 2071 2123	colangitis en rama subsegmentaria de árbol izquierdo
+T97	ENFERMEDAD 2159 2203	microhamartomas biliares múltiples hepáticos
+T98	ENFERMEDAD 2377 2425	sobreinfección de quiste en segmento VI hepático
+T99	ENFERMEDAD 2451 2461	colangitis
+T100	ENFERMEDAD 2544 2572	hemocultivos de E. coli BLEE
+T101	ENFERMEDAD 3170 3191	colangitis recurrente
+T102	ENFERMEDAD 3571 3594	colangitis bacteriémica
+T103	ENFERMEDAD 3702 3719	colangiocarcinoma
+T104	ENFERMEDAD 3936 3966	colecistopatía aguda litiásica
+T105	ENFERMEDAD 4073 4108	anomalía congénita de la vía biliar
+T106	ENFERMEDAD 4110 4140	hamartomatosis múltiple biliar
+T107	ENFERMEDAD 4206 4276	bacteriemias recurrentes por enterobacterias de probable origen biliar
+T108	ENFERMEDAD 4278 4302	colangitis de repetición
+T109	ENFERMEDAD 4363 4399	Colangitis recurrentes bacteriémicas
+T110	ENFERMEDAD 4416 4456	hamartomatosis múltiple de la via biliar
+T111	PACIENTE-PROFESION 45 54	psicóloga

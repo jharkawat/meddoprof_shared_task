@@ -1,0 +1,212 @@
+T1	SINTOMA 76 83	cefalea
+T2	SINTOMA 86 104	dolor retro-ocular
+T3	SINTOMA 234 241	cefalea
+T4	SINTOMA 358 367	fotofobia
+T5	SINTOMA 430 439	pródromos
+T6	SINTOMA 443 458	síndrome febril
+T7	SINTOMA 680 697	dolor retroocular
+T8	SINTOMA 743 768	alteraciones en la visión
+T9	SINTOMA 844 873	dolor hacia región mandibular
+T10	SINTOMA 932 947	lagrimeo ocular
+T11	SINTOMA 1425 1438	rigidez nucal
+T12	SINTOMA 1448 1469	síntomas neurológicos
+T13	SINTOMA 1851 1858	fumador
+T14	SINTOMA 2002 2013	trombopenia
+T15	SINTOMA 2125 2136	proteinuria
+T16	SINTOMA 2944 2952	Eupneico
+T17	SINTOMA 2954 2964	Consciente
+T18	SINTOMA 2967 2976	orientado
+T19	SINTOMA 3038 3043	dolor
+T20	SINTOMA 3134 3169	enrojecimiento de conjuntiva de ojo
+T21	SINTOMA 3182 3190	lagrimeo
+T22	SINTOMA 3408 3414	soplos
+T23	SINTOMA 3416 3445	murmullo vesicular conservado
+T24	SINTOMA 3487 3496	nistagmus
+T25	SINTOMA 3640 3681	déficit motor o sensitivo en extremidades
+T26	SINTOMA 3826 3845	irritación meníngea
+T27	SINTOMA 4125 4132	cefalea
+T28	SINTOMA 4240 4247	cefalea
+T29	SINTOMA 4270 4287	dolor retroocular
+T30	SINTOMA 5780 5810	disminución del cortisol basal
+T31	SINTOMA 7019 7056	engrosamiento mucoso del seno maxilar
+T32	SINTOMA 7569 7581	asintomático
+T33	PROCEDIMIENTO 528 537	analgesia
+T34	PROCEDIMIENTO 547 552	AINEs
+T35	PROCEDIMIENTO 1141 1150	analgesia
+T36	PROCEDIMIENTO 1561 1570	anamnesis
+T37	PROCEDIMIENTO 1734 1771	tratamiento con antidiabéticos orales
+T38	PROCEDIMIENTO 2182 2202	estudio inmunológico
+T39	PROCEDIMIENTO 2224 2243	Ecografía abdominal
+T40	PROCEDIMIENTO 2315 2328	biopsia renal
+T41	PROCEDIMIENTO 2534 2571	rinoplastia y meniscectomía bilateral
+T42	PROCEDIMIENTO 2854 2872	exploración física
+T43	PROCEDIMIENTO 3064 3083	hidratación de piel
+T44	PROCEDIMIENTO 3095 3125	Exploración de cabeza y cuello
+T45	PROCEDIMIENTO 3367 3394	Auscultación cardiopulmonar
+T46	PROCEDIMIENTO 3447 3470	Exploración neurológica
+T47	PROCEDIMIENTO 3855 3873	exploración física
+T48	PROCEDIMIENTO 4351 4370	TC simple de cráneo
+T49	PROCEDIMIENTO 4405 4424	TC simple de cráneo
+T50	PROCEDIMIENTO 5451 5465	corticoterapia
+T51	PROCEDIMIENTO 5600 5623	tratamiento corticoideo
+T52	PROCEDIMIENTO 5666 5684	analítica hormonal
+T53	PROCEDIMIENTO 5854 5879	TC de arterias cerebrales
+T54	PROCEDIMIENTO 5919 5931	RMN cerebral
+T55	PROCEDIMIENTO 5966 5978	RMN cerebral
+T56	PROCEDIMIENTO 6568 6595	administración de contraste
+T57	PROCEDIMIENTO 7429 7452	corticoides descendente
+T58	PROCEDIMIENTO 7456 7465	analgesia
+T59	PROCEDIMIENTO 7498 7530	tratamiento sustitutivo hormonal
+T60	PROCEDIMIENTO 7822 7825	RMN
+T61	PROCEDIMIENTO 7843 7859	control hormonal
+T62	NEG 378 381	sin
+T63	NSCO 382 411	sonofobia ni síndrome emético
+T64	NEG 413 415	No
+T65	NSCO 416 458	ha presentado pródromos ni síndrome febril
+T66	NEG 739 742	sin
+T67	NSCO 743 768	alteraciones en la visión
+T68	NEG 1025 1028	sin
+T69	NSCO 1029 1082	otra sintomatología respiratoria en el momento actual
+T70	NEG 1268 1273	niega
+T71	NEG 1275 1282	Tampoco
+T72	NSCO 1283 1411	ha tomado nuevos fármacos ni correlaciona comienzo de la clínica con esfuerzo o traumatismo craneoencefálico/craneofacial previo
+T73	NEG 1413 1415	No
+T74	NSCO 1416 1469	presenta rigidez nucal ni otros síntomas neurológicos
+T75	NEG 1471 1473	No
+T76	NSCO 1474 1533	ha viajado recientemente ni ha tenido contacto con animales
+T77	NEG 1535 1538	Sin
+T78	NSCO 1539 1570	otros hallazgos en la anamnesis
+T79	NEG 1915 1917	No
+T80	NSCO 1918 1965	presenta cardiopatías ni broncopatías conocidas
+T81	NEG 1967 1969	No
+T82	NSCO 1970 1991	retinopatía diabética
+T83	NEG 2054 2057	sin
+T84	NSCO 2058 2089	evidenciar hallazgos de interés
+T85	UNC 2396 2404	probable
+T86	USCO 2405 2433	sea una nefropatía diabética
+T87	NEG 2435 2437	No
+T88	NSCO 2438 2465	ingresos previos relevantes
+T89	NEG 2681 2684	sin
+T90	NSCO 2685 2726	limitación para realizar actividad fisica
+T91	NEG 3201 3203	no
+T92	NSCO 3204 3234	ptosis parpebral ni blefaritis
+T93	NEG 3236 3238	no
+T94	NSCO 3239 3302	adenopatías cervicales, ni mandibulares ni pre/retroauriculares
+T95	NEG 3316 3319	sin
+T96	NSCO 3320 3365	signos de infección dentaria ni periodontitis
+T97	NEG 3404 3407	sin
+T98	NSCO 3408 3414	soplos
+T99	NEG 3484 3486	no
+T100	NSCO 3487 3496	nistagmus
+T101	NEG 3561 3564	sin
+T102	NSCO 3565 3577	alteraciones
+T103	NEG 3637 3639	No
+T104	NSCO 3640 3681	déficit motor o sensitivo en extremidades
+T105	NEG 3683 3685	No
+T106	NSCO 3686 3760	alteraciones en Romberg, prueba de la marcha ni en prueba de confrontación
+T107	NEG 3762 3764	No
+T108	NSCO 3765 3782	disdiadococinesia
+T109	NEG 3812 3815	Sin
+T110	NSCO 3816 3845	signos de irritación meníngea
+T111	NEG 3890 3893	sin
+T112	NSCO 3894 3915	focalidad neurológica
+T113	UNC 4093 4101	sospecha
+T114	USCO 4102 4143	diagnóstica inicial de cefalea en rácimos
+T115	NEG 4446 4449	sin
+T116	NSCO 4450 4529	alteraciones de la densidad sugestivas de proceso isquémico o hemorrágico agudo
+T117	NEG 4554 4557	sin
+T118	NSCO 4558 4570	alteraciones
+T119	NEG 4805 4807	no
+T120	NSCO 4808 4839	ha aumentado significativamente
+T121	NEG 4842 4844	no
+T122	NSCO 4845 4875	alcanza la cisterna supraselar
+T123	UNC 4890 4906	probablemente de
+T124	USCO 4907 4931	una hemorragia glandular
+T125	NEG 4933 4935	No
+T126	NSCO 4936 4972	se observan colecciones extraaxiales
+T127	NEG 4980 4983	sin
+T128	NSCO 4984 4992	lesiones
+T129	UNC 5116 5131	compatibles con
+T130	USCO 5132 5140	osteomas
+T131	UNC 5193 5208	compatibles con
+T132	USCO 5209 5235	una apoplejía hipofisiaria
+T133	NEG 5625 5628	sin
+T134	NSCO 5629 5659	presentar incidencias clínicas
+T135	NEG 5881 5884	sin
+T136	NSCO 5885 5906	hallazgos patológicos
+T137	NEG 6393 6396	sin
+T138	NSCO 6397 6408	infiltrarla
+T139	NEG 6463 6466	sin
+T140	NSCO 6467 6509	extensión supraselar ni al seno esfenoidal
+T141	NEG 6511 6513	No
+T142	NSCO 6514 6558	se observa desplazamiento del quiasma óptico
+T143	NEG 6596 6598	no
+T144	NSCO 6599 6616	se observa realce
+T145	UNC 6636 6651	compatibles con
+T146	USCO 6652 6705	quiste de la bolsa de Rathke de contenido proteináceo
+T147	NEG 6758 6760	No
+T148	NSCO 6761 6850	se observan alteraciones en la intensidad de señal del parénquima encefálico visualizado
+T149	UNC 7143 7157	compatible con
+T150	USCO 7158 7211	quiste de la bolsa de Rathke de contenido proteináceo
+T151	NEG 7220 7222	no
+T152	NSCO 7223 7225	se
+T153	UNC 7226 7242	podría descartar
+T154	USCO 7243 7258	un macroadenoma
+T155	NEG 7341 7344	sin
+T156	NSCO 7345 7385	presentar incidencias durante el ingreso
+T157	NEG 7481 7484	sin
+T158	NSCO 7485 7530	necesidad de tratamiento sustitutivo hormonal
+T159	NEG 7569 7581	asintomático
+T160	NEG 7584 7587	sin
+T161	NSCO 7588 7626	alteraciones analíticas significativas
+T162	FARMACO 555 566	paracetamol
+T163	FARMACO 2772 2782	metformina
+T164	FARMACO 2784 2806	ácido acetilsalicílico
+T165	FARMACO 2808 2819	candesartán
+T166	FARMACO 2821 2834	pitavastatina
+T167	FARMACO 2837 2847	alopurinol
+T168	FARMACO 3960 3969	metamizol
+T169	FARMACO 3991 4005	dexketoprofeno
+T170	FARMACO 4027 4035	diazepam
+T171	FARMACO 4054 4066	dexametasona
+T172	FARMACO 5475 5487	dexametasona
+T173	FARMACO 7467 7478	paracetamol
+T174	ORG_VIVO 0 14	Paciente varón
+T175	ORG_VIVO 489 516	médico de Atención Primaria
+T176	ORG_VIVO 1209 1217	paciente
+T177	ORG_VIVO 1525 1533	animales
+T178	ORG_VIVO 1601 1611	personales
+T179	ORG_VIVO 1883 1889	tabaco
+T180	ORG_VIVO 2520 2532	adolescencia
+T181	ORG_VIVO 4200 4208	paciente
+T182	ORG_VIVO 5553 5561	paciente
+T183	ORG_VIVO 7263 7271	paciente
+T184	ORG_VIVO 7547 7555	paciente
+T185	ENFERMEDAD 395 411	síndrome emético
+T186	ENFERMEDAD 1363 1404	traumatismo craneoencefálico/craneofacial
+T187	ENFERMEDAD 1632 1653	hipertensión arterial
+T188	ENFERMEDAD 1676 1703	diabetes mellitus de tipo 2
+T189	ENFERMEDAD 1805 1830	hipercolesterolemia mixta
+T190	ENFERMEDAD 1833 1846	hiperuricemia
+T191	ENFERMEDAD 1927 1939	cardiopatías
+T192	ENFERMEDAD 1970 1991	retinopatía diabética
+T193	ENFERMEDAD 2277 2290	nefrolitiasis
+T194	ENFERMEDAD 2344 2374	glomerulonefritis crescéntrica
+T195	ENFERMEDAD 2413 2433	nefropatía diabética
+T196	ENFERMEDAD 2498 2513	úlcera gástrica
+T197	ENFERMEDAD 3204 3220	ptosis parpebral
+T198	ENFERMEDAD 3224 3234	blefaritis
+T199	ENFERMEDAD 3239 3261	adenopatías cervicales
+T200	ENFERMEDAD 3330 3348	infección dentaria
+T201	ENFERMEDAD 3352 3365	periodontitis
+T202	ENFERMEDAD 4492 4509	proceso isquémico
+T203	ENFERMEDAD 4512 4529	hemorrágico agudo
+T204	ENFERMEDAD 4911 4931	hemorragia glandular
+T205	ENFERMEDAD 5016 5080	lesiones esclerosas en el interior de las celdillas del etmoides
+T206	ENFERMEDAD 5132 5140	osteomas
+T207	ENFERMEDAD 5213 5235	apoplejía hipofisiaria
+T208	ENFERMEDAD 6525 6558	desplazamiento del quiasma óptico
+T209	ENFERMEDAD 6652 6680	quiste de la bolsa de Rathke
+T210	ENFERMEDAD 7158 7186	quiste de la bolsa de Rathke
+T211	ENFERMEDAD 7246 7258	macroadenoma
+T212	SANITARIO-PROFESION 489 516	médico de Atención Primaria

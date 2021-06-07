@@ -1,0 +1,93 @@
+T1	SINTOMA 410 451	Abdomen levemente doloroso a la palpación
+T2	SINTOMA 461 483	masa en la fosa iliaca
+T3	SINTOMA 562 568	edemas
+T4	SINTOMA 695 739	tumoración de 9-10 cm dependiente del ovario
+T5	PROCEDIMIENTO 313 326	Examen físico
+T6	PROCEDIMIENTO 359 391	Auscultación cardiorrespiratoria
+T7	PROCEDIMIENTO 592 615	Exploración neurológica
+T8	PROCEDIMIENTO 666 675	ecografía
+T9	PROCEDIMIENTO 799 818	estudio radiológico
+T10	PROCEDIMIENTO 839 858	TC abdómino-pélvica
+T11	PROCEDIMIENTO 1412 1423	laparotomía
+T12	PROCEDIMIENTO 1558 1579	anexectomía izquierda
+T13	PROCEDIMIENTO 1584 1607	biopsia intraoperatoria
+T14	PROCEDIMIENTO 1787 1806	estudio histológico
+T15	PROCEDIMIENTO 2214 2226	colonoscopia
+T16	PROCEDIMIENTO 2260 2272	gastroscopia
+T17	PROCEDIMIENTO 2383 2390	biopsia
+T18	PROCEDIMIENTO 2469 2490	gammagrafía ósea y TC
+T19	PROCEDIMIENTO 2705 2733	cirugía reglada en la pelvis
+T20	PROCEDIMIENTO 2767 2785	gastrectomía total
+T21	PROCEDIMIENTO 2790 2819	resección del nódulo hepático
+T22	PROCEDIMIENTO 2821 2836	colecistectomía
+T23	PROCEDIMIENTO 2838 2851	histerectomía
+T24	PROCEDIMIENTO 2853 2872	anexectomía derecha
+T25	PROCEDIMIENTO 2874 2888	apendicectomía
+T26	PROCEDIMIENTO 3012 3024	gastrectomía
+T27	PROCEDIMIENTO 3337 3339	TC
+T28	PROCEDIMIENTO 3344 3355	RM hepática
+T29	PROCEDIMIENTO 3361 3367	PET-TC
+T30	PROCEDIMIENTO 3443 3457	peritonectomía
+T31	PROCEDIMIENTO 3525 3538	quimioterapia
+T32	PROCEDIMIENTO 3578 3580	TC
+T33	NEG 30 33	sin
+T34	NSCO 34 65	antecedentes médicos de interés
+T35	NEG 94 100	ningún
+T36	NSCO 101 107	aborto
+T37	NEG 274 277	sin
+T38	NSCO 278 310	síndrome constitucional asociado
+T39	NEG 392 395	sin
+T40	NSCO 396 408	alteraciones
+T41	NEG 495 498	sin
+T42	NSCO 499 516	signos de defensa
+T43	NEG 559 561	no
+T44	NSCO 562 590	edemas ni datos de trombosis
+T45	NEG 751 754	sin
+T46	NSCO 755 792	líquido libre en la cavidad abdominal
+T47	NEG 965 968	sin
+T48	NSCO 969 985	plano de clivaje
+T49	UNC 1316 1327	sospecha de
+T50	USCO 1328 1345	primario gástrico
+T51	UNC 1467 1475	sospecha
+T52	USCO 1476 1527	radiológica de posible infiltración del recto-sigma
+T53	NEG 1608 1610	no
+T54	NSCO 1611 1623	cloncluyente
+T55	NEG 1625 1628	sin
+T56	NSCO 1629 1658	poder confirmar la malignidad
+T57	UNC 2096 2107	sospecha de
+T58	USCO 2108 2125	primario gástrico
+T59	NEG 2228 2231	sin
+T60	NSCO 2232 2252	hallazgos relevantes
+T61	NEG 2492 2494	no
+T62	NSCO 2495 2529	observaron enfermedad a otro nivel
+T63	NEG 3127 3136	negativas
+T64	NSCO 3137 3152	para malignidad
+T65	NEG 3179 3187	negativo
+T66	NEG 3218 3220	no
+T67	NSCO 3221 3252	objetivaron enfermedad residual
+T68	NEG 3368 3370	no
+T69	NSCO 3371 3393	demostraron enfermedad
+T70	NEG 3642 3653	ausencia de
+T71	NSCO 3654 3664	enfermedad
+T72	NEG 3735 3738	sin
+T73	NSCO 3739 3756	datos de recidiva
+T74	FARMACO 3300 3310	cisplatino
+T75	ORG_VIVO 10 18	Paciente
+T76	ORG_VIVO 123 133	familiares
+T77	ORG_VIVO 135 141	abuela
+T78	ORG_VIVO 1363 1371	paciente
+T79	ORG_VIVO 3692 3700	paciente
+T80	ENFERMEDAD 71 80	embarazos
+T81	ENFERMEDAD 154 172	cáncer de estómago
+T82	ENFERMEDAD 244 273	metrorragias intermenstruales
+T83	ENFERMEDAD 278 301	síndrome constitucional
+T84	ENFERMEDAD 581 590	trombosis
+T85	ENFERMEDAD 1215 1247	Tumor de Krukenberg en el ovario
+T86	ENFERMEDAD 1328 1345	primario gástrico
+T87	ENFERMEDAD 1499 1527	infiltración del recto-sigma
+T88	ENFERMEDAD 1869 1901	tumor de Krukenberg en el ovario
+T89	ENFERMEDAD 1989 2085	tumor de Krukenberg en el ovario izquierdo, con áreas infiltradas por células en anillo de sello
+T90	ENFERMEDAD 2108 2125	primario gástrico
+T91	ENFERMEDAD 2291 2376	úlcera gástrica de aspecto maligno en la incisura-curvatura menor del cuerpo gástrico
+T92	ENFERMEDAD 2401 2440	carcinoma de células en anillo de sello
+T93	ENFERMEDAD 2605 2623	Tumores Digestivos

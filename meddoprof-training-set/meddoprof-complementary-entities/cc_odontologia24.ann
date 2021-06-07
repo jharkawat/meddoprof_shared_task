@@ -1,0 +1,20 @@
+T1	SINTOMA 71 110	incomodidad en el primer molar inferior
+T2	SINTOMA 246 269	incomodidad al masticar
+T3	SINTOMA 1104 1160	pérdida de inserción en la raíz mesial del segundo molar
+T4	PROCEDIMIENTO 298 316	examen periodontal
+T5	PROCEDIMIENTO 650 673	injerto substituto óseo
+T6	PROCEDIMIENTO 742 753	Radiografía
+T7	PROCEDIMIENTO 897 956	injerto llena el alvéolo de la raíz mesial del primer molar
+T8	PROCEDIMIENTO 1177 1200	injerto substituto óseo
+T9	PROCEDIMIENTO 1465 1482	injerto por hueso
+T10	NEG 195 198	sin
+T11	NSCO 199 269	síntomas o signos presentes excepto una ligera incomodidad al masticar
+T12	NEG 434 446	imposibilita
+T13	NSCO 447 476	el retratamiento del conducto
+T14	UNC 1498 1506	aparente
+T15	USCO 1507 1665	resolución de la pérdida de inserción preoperatoria en la raíz mesial del segundo molar, señalada por la presencia del compartimento del ligamento periodontal
+T16	FARMACO 612 632	fosfato tricálcico β
+T17	ORG_VIVO 0 8	Paciente
+T18	ORG_VIVO 25 34	masculino
+T19	ENFERMEDAD 774 834	reabsorción ósea en la raíz distal del primer molar inferior
+T20	ENFERMEDAD 1055 1092	reabsorción ósea del proceso alveolar

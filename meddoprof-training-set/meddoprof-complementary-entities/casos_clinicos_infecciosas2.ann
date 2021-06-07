@@ -1,0 +1,159 @@
+T1	SINTOMA 337 353	malestar general
+T2	SINTOMA 355 375	sensación distérmica
+T3	SINTOMA 396 404	tiritona
+T4	SINTOMA 415 418	tos
+T5	SINTOMA 456 492	expectoración herrumbrosa maloliente
+T6	SINTOMA 495 513	dolor en hemitórax
+T7	SINTOMA 545 548	tos
+T8	SINTOMA 573 580	vómitos
+T9	SINTOMA 583 604	pérdida de conciencia
+T10	SINTOMA 1129 1139	consciente
+T11	SINTOMA 1142 1148	alerta
+T12	SINTOMA 1150 1179	orientada en las tres esferas
+T13	SINTOMA 1181 1192	taquipneica
+T14	SINTOMA 1253 1274	mala higiene personal
+T15	SINTOMA 1623 1629	edemas
+T16	SINTOMA 1752 1764	leucocitosis
+T17	SINTOMA 1789 1800	neutrofilia
+T18	SINTOMA 6844 6847	tos
+T19	SINTOMA 6853 6859	fiebre
+T20	PROCEDIMIENTO 164 181	extracción dental
+T21	PROCEDIMIENTO 1011 1025	pulsioximetría
+T22	PROCEDIMIENTO 1310 1335	auscultación respiratoria
+T23	PROCEDIMIENTO 1424 1445	Auscultación cardíaca
+T24	PROCEDIMIENTO 2056 2081	tinción de Gram en esputo
+T25	PROCEDIMIENTO 2183 2195	hemocultivos
+T26	PROCEDIMIENTO 2198 2216	cultivos de esputo
+T27	PROCEDIMIENTO 2224 2244	radiografía de tórax
+T28	PROCEDIMIENTO 2425 2445	Radiografía de tórax
+T29	PROCEDIMIENTO 2860 2880	radiografía de tórax
+T30	PROCEDIMIENTO 4121 4138	extracción dental
+T31	PROCEDIMIENTO 4214 4241	ecografía doppler de cuello
+T32	PROCEDIMIENTO 5232 5256	tomografía computarizada
+T33	PROCEDIMIENTO 5258 5260	TC
+T34	PROCEDIMIENTO 6065 6098	tomografía computerizada de tórax
+T35	PROCEDIMIENTO 6450 6470	Radiografía de tórax
+T36	PROCEDIMIENTO 6524 6547	tratamiento antibiótico
+T37	PROCEDIMIENTO 6936 6949	baciloscopias
+T38	PROCEDIMIENTO 7006 7024	serología para VIH
+T39	PROCEDIMIENTO 7312 7326	antibioterapia
+T40	PROCEDIMIENTO 7404 7415	TC de tórax
+T41	NEG 210 213	sin
+T42	NSCO 214 254	otros antecedentes personales de interés
+T43	NEG 376 378	no
+T44	NSCO 379 413	termometrada con tiritona asociada
+T45	NEG 550 555	Niega
+T46	NSCO 556 646	haber presentado vómitos o pérdida de conciencia en el contexto de sobreingesta de alcohol
+T47	NEG 1507 1509	no
+T48	NSCO 1510 1518	dolorosa
+T49	NEG 1619 1622	sin
+T50	NSCO 1623 1679	edemas ni signos sugerentes de trombosis venosa profunda
+T51	NEG 2021 2024	sin
+T52	NSCO 2025 2051	otros hallazgos de interés
+T53	NEG 2158 2167	negativas
+T54	NEG 2169 2171	Se
+T55	NSCO 2172 2216	extrajeron hemocultivos y cultivos de esputo
+T56	UNC 3624 3632	probable
+T57	USCO 3633 3649	este diagnóstico
+T58	NEG 4339 4349	descartado
+T59	NSCO 4350 4365	en nuestro caso
+T60	NEG 4373 4384	ausencia de
+T61	NSCO 4385 4446	utilización de dicho material previo al cuadro de la paciente
+T62	UNC 4677 4685	sospecha
+T63	NEG 4827 4836	negativos
+T64	NEG 4837 4840	sin
+T65	NSCO 4841 4874	bacilos ácido-alcohol resistentes
+T66	NEG 4968 4971	sin
+T67	NSCO 4972 4992	infección secundaria
+T68	NEG 5690 5692	no
+T69	NSCO 5693 5724	presentan infiltrados alrededor
+T70	UNC 5831 5840	probables
+T71	USCO 5841 5892	fueron descartadas en nuestra paciente inicialmente
+T72	NEG 5930 5941	ausencia de
+T73	NSCO 5942 5957	inmunodepresión
+T74	UNC 6246 6260	compatible con
+T75	USCO 6261 6268	absceso
+T76	NSCO 6861 6891	Los resultados de los cultivos
+T77	NEG 6922 6931	negativos
+T78	NEG 6979 6988	negativas
+T79	NEG 7364 7376	asintomática
+T80	FARMACO 754 764	mepifilina
+T81	FARMACO 782 794	azitromicina
+T82	FARMACO 6598 6606	imipenem
+T83	FARMACO 6609 6618	linezolid
+T84	FARMACO 6620 6632	desescalando
+T85	FARMACO 6656 6679	amoxicilina-clavulánico
+T86	FARMACO 7128 7151	amoxicilina-clavulánico
+T87	ORG_VIVO 0 5	Mujer
+T88	ORG_VIVO 51 57	tabaco
+T89	ORG_VIVO 233 243	personales
+T90	ORG_VIVO 256 262	Casada
+T91	ORG_VIVO 267 273	pareja
+T92	ORG_VIVO 283 288	madre
+T93	ORG_VIVO 294 299	hijos
+T94	ORG_VIVO 302 313	ama de casa
+T95	ORG_VIVO 2083 2095	baciloscopia
+T96	ORG_VIVO 2127 2146	virus de la gripe A
+T97	ORG_VIVO 2147 2150	y B
+T98	ORG_VIVO 2539 2547	paciente
+T99	ORG_VIVO 2980 2988	paciente
+T100	ORG_VIVO 3158 3178	bacterias anaerobias
+T101	ORG_VIVO 3543 3551	paciente
+T102	ORG_VIVO 4010 4035	Fusobacterium necrophorum
+T103	ORG_VIVO 4048 4056	paciente
+T104	ORG_VIVO 4438 4446	paciente
+T105	ORG_VIVO 4691 4700	pacientes
+T106	ORG_VIVO 4786 4794	paciente
+T107	ORG_VIVO 4841 4874	bacilos ácido-alcohol resistentes
+T108	ORG_VIVO 5340 5349	pacientes
+T109	ORG_VIVO 5728 5750	Patógenos oportunistas
+T110	ORG_VIVO 5756 5762	hongos
+T111	ORG_VIVO 5765 5774	parásitos
+T112	ORG_VIVO 5776 5788	Nocardia spp
+T113	ORG_VIVO 5871 5879	paciente
+T114	ORG_VIVO 6936 6949	baciloscopias
+T115	ORG_VIVO 7021 7024	VIH
+T116	ORG_VIVO 7521 7529	paciente
+T117	ENFERMEDAD 137 159	enfermedad periodontal
+T118	ENFERMEDAD 623 646	sobreingesta de alcohol
+T119	ENFERMEDAD 1654 1679	trombosis venosa profunda
+T120	ENFERMEDAD 2345 2361	absceso pulmonar
+T121	ENFERMEDAD 2447 2476	cavitación en lóbulo superior
+T122	ENFERMEDAD 2725 2741	absceso pulmonar
+T123	ENFERMEDAD 2819 2835	absceso pulmonar
+T124	ENFERMEDAD 2906 2922	cavidad pulmonar
+T125	ENFERMEDAD 3117 3201	Infecciones bacterianas: Normalmente por bacterias anaerobias procedentes de la boca
+T126	ENFERMEDAD 3205 3229	Embolia pulmonar séptica
+T127	ENFERMEDAD 3235 3254	embolismos sépticos
+T128	ENFERMEDAD 3323 3354	Infección de válvulas cardiacas
+T129	ENFERMEDAD 3380 3409	abscesos múltiples pulmonares
+T130	ENFERMEDAD 3468 3480	endocarditis
+T131	ENFERMEDAD 3653 3686	Tromboflebitis séptica periférica
+T132	ENFERMEDAD 3731 3750	abscesos pulmonares
+T133	ENFERMEDAD 3803 3823	Síndrome de Lemierre
+T134	ENFERMEDAD 3851 3872	infección orofaríngea
+T135	ENFERMEDAD 3897 3946	tromboflebitis séptica de la vena yugular interna
+T136	ENFERMEDAD 3949 3968	metástasis sépticas
+T137	ENFERMEDAD 4261 4280	Abscesos pulmonares
+T138	ENFERMEDAD 4295 4328	infección relacionada con catéter
+T139	ENFERMEDAD 4450 4471	Tuberculosis pulmonar
+T140	ENFERMEDAD 4525 4532	absceso
+T141	ENFERMEDAD 4878 4896	Neoplasia pulmonar
+T142	ENFERMEDAD 4902 4928	masas tumorales pulmonares
+T143	ENFERMEDAD 4972 4992	infección secundaria
+T144	ENFERMEDAD 5314 5332	nódulos pulmonares
+T145	ENFERMEDAD 5354 5368	Granulomatosis
+T146	ENFERMEDAD 5373 5385	poliangeítis
+T147	ENFERMEDAD 5387 5412	granulomatosis de Wegener
+T148	ENFERMEDAD 5416 5435	artritis reumatoide
+T149	ENFERMEDAD 5478 5486	abscesos
+T150	ENFERMEDAD 5790 5809	quistes hidatídicos
+T151	ENFERMEDAD 5942 5957	inmunodepresión
+T152	ENFERMEDAD 6139 6195	cavidad pulmonar con nivel hidroaéreo en lóbulo superior
+T153	ENFERMEDAD 6261 6338	absceso, con infiltrado pericavitario en segmento superior de lóbulo inferior
+T154	ENFERMEDAD 6472 6497	lesión en lóbulo superior
+T155	ENFERMEDAD 7244 7268	Enfermedades Infecciosas
+T156	ENFERMEDAD 7421 7443	lesión cavitada en LSD
+T157	ENFERMEDAD 7465 7509	Absceso pulmonar primario en lóbulo superior
+T158	ENFERMEDAD 7534 7570	enfermedad periodontal y alcoholismo
+T159	PACIENTE-SITUACION_LABORAL 302 313	ama de casa

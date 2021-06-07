@@ -1,0 +1,35 @@
+T1	SINTOMA 593 759	maculas eritematovioláceas, de disposición reticulada, distribuidas de forma localizada en cara externa de muslo izquierdo, así como en cara interna de muslo y pierna
+T2	PROCEDIMIENTO 440 466	tratamiento anticonceptivo
+T3	PROCEDIMIENTO 563 581	Exploración física
+T4	PROCEDIMIENTO 889 898	hemograma
+T5	PROCEDIMIENTO 953 982	estudio básico de coagulación
+T6	PROCEDIMIENTO 985 998	proteinograma
+T7	PROCEDIMIENTO 1048 1072	estudio de autoinmunidad
+T8	PROCEDIMIENTO 1207 1232	estudio anatomopatológico
+T9	PROCEDIMIENTO 1364 1404	ecografía doppler de miembros inferiores
+T10	NEG 769 771	No
+T11	NSCO 772 817	presentaba atrofia cutánea ni áreas ulceradas
+T12	NEG 1180 1182	no
+T13	NSCO 1183 1202	mostró alteraciones
+T14	NEG 1280 1283	sin
+T15	NSCO 1284 1346	infiltrado perivascular ni trombos en el interior de los vasos
+T16	NEG 1409 1411	no
+T17	NSCO 1412 1435	mostró ninguna anomalía
+T18	UNC 1751 1758	posible
+T19	USCO 1759 1791	la exposición a fuentes de calor
+T20	NEG 1962 1974	desaparición
+T21	NSCO 1975 2012	parcial de las lesiones más recientes
+T22	NEG 2014 2017	sin
+T23	NSCO 2018 2066	cambios en aquellas de mayor tiempo de evolución
+T24	FARMACO 471 501	levonorgestrel/etinilestradiol
+T25	ORG_VIVO 10 15	Mujer
+T26	ORG_VIVO 285 295	personales
+T27	ORG_VIVO 1160 1179	beta2-glicoproteína
+T28	ORG_VIVO 1823 1831	paciente
+T29	ENFERMEDAD 44 95	lesiones asintomáticas en ambos miembros inferiores
+T30	ENFERMEDAD 318 351	psoriasis pustulosa palmo-plantar
+T31	ENFERMEDAD 1579 1594	eritema ab igne
+T32	ENFERMEDAD 1662 1672	vasculitis
+T33	ENFERMEDAD 1674 1685	infecciones
+T34	ENFERMEDAD 1687 1705	trombosis vascular
+T35	PACIENTE-PROFESION 503 541	Trabajaba en el horno de una panadería

@@ -1,0 +1,173 @@
+T1	SINTOMA 279 286	fumador
+T2	SINTOMA 331 338	bebedor
+T3	SINTOMA 571 600	vértigo vestibular periférico
+T4	SINTOMA 681 689	acúfenos
+T5	SINTOMA 692 700	vértigos
+T6	SINTOMA 2962 2977	dolor abdominal
+T7	SINTOMA 3313 3329	pérdida ponderal
+T8	SINTOMA 3345 3354	disgeusia
+T9	SINTOMA 4754 4768	Normocoloreado
+T10	SINTOMA 4771 4785	normohidratado
+T11	SINTOMA 4869 4911	Abdomen y extremidades inferiores anodinos
+T12	SINTOMA 5947 5961	hiporexia leve
+T13	SINTOMA 5963 5970	astenia
+T14	SINTOMA 5972 5981	sensación
+T15	SINTOMA 5982 5990	nauseosa
+T16	SINTOMA 6033 6046	estreñimiento
+T17	SINTOMA 6049 6058	mucositis
+T18	PROCEDIMIENTO 863 876	colonoscopias
+T19	PROCEDIMIENTO 966 978	colonoscopia
+T20	PROCEDIMIENTO 1944 1968	estudio molecular de HPV
+T21	PROCEDIMIENTO 2222 2234	Gastroscopia
+T22	PROCEDIMIENTO 2236 2248	colonoscopia
+T23	PROCEDIMIENTO 2250 2261	TC corporal
+T24	PROCEDIMIENTO 2315 2321	PET-TC
+T25	PROCEDIMIENTO 2412 2427	PET con biopsia
+T26	PROCEDIMIENTO 2430 2447	fibrobroncoscopia
+T27	PROCEDIMIENTO 2637 2648	crioterapia
+T28	PROCEDIMIENTO 3190 3193	PET
+T29	PROCEDIMIENTO 3255 3262	biopsia
+T30	PROCEDIMIENTO 3373 3397	TC toracoabdominopélvica
+T31	PROCEDIMIENTO 3713 3725	gastroscopia
+T32	PROCEDIMIENTO 4039 4047	biopsias
+T33	PROCEDIMIENTO 4070 4082	biopsia ósea
+T34	PROCEDIMIENTO 4235 4264	estudio de inmunohistoquímica
+T35	PROCEDIMIENTO 4423 4441	Exploración física
+T36	PROCEDIMIENTO 4453 4471	exploración física
+T37	PROCEDIMIENTO 4826 4853	Auscultación cardiopulmonar
+T38	PROCEDIMIENTO 5104 5113	Hemograma
+T39	PROCEDIMIENTO 5319 5335	gammagrafía ósea
+T40	PROCEDIMIENTO 5672 5695	quimioterapia paliativa
+T41	PROCEDIMIENTO 5730 5756	tratamiento quimioterápico
+T42	PROCEDIMIENTO 6006 6018	antieméticos
+T43	PROCEDIMIENTO 6496 6521	tratamiento antiagregante
+T44	PROCEDIMIENTO 6534 6536	TC
+T45	PROCEDIMIENTO 6768 6788	radioterapia externa
+T46	UNC 556 570	compatible con
+T47	USCO 571 600	vértigo vestibular periférico
+T48	NEG 807 810	sin
+T49	NSCO 811 828	datos de recidiva
+T50	NEG 834 842	negativo
+T51	NEG 999 1002	sin
+T52	NSCO 1003 1012	hallazgos
+T53	NEG 1168 1171	sin
+T54	NSCO 1172 1205	secuelas neurológicas posteriores
+T55	UNC 1434 1449	compatibles con
+T56	USCO 1450 1467	verrugas vulgares
+T57	NEG 1739 1742	sin
+T58	NSCO 1743 1749	atipia
+T59	UNC 1751 1765	Compatible con
+T60	USCO 1766 1787	queratosis seborreica
+T61	NEG 1824 1827	sin
+T62	NSCO 1828 1834	atipia
+T63	NEG 1875 1878	sin
+T64	NSCO 1879 1931	poder descartarse queratosis seborreica papilomatosa
+T65	NEG 1981 1983	no
+T66	NSCO 1984 1993	valorable
+T67	UNC 2040 2051	sospecha de
+T68	USCO 2052 2073	signo de Leser-Trélat
+T69	UNC 2145 2152	posible
+T70	USCO 2153 2184	patología neoplásica subyacente
+T71	NEG 2282 2290	negativo
+T72	NEG 2448 2457	negativas
+T73	NSCO 2458 2473	para malignidad
+T74	NEG 2525 2536	se descartó
+T75	NSCO 2537 2565	proceso hematológico de base
+T76	UNC 3161 3174	sospechosa de
+T77	USCO 3175 3224	malignidad por PET a nivel de hemisacro izquierdo
+T78	NEG 3264 3274	desaparece
+T79	UNC 3481 3494	sugestivas de
+T80	USCO 3495 3511	metástasis óseas
+T81	NEG 4265 4273	negativo
+T82	NSCO 4274 4284	para HER-2
+T83	NEG 4327 4330	sin
+T84	NSCO 4331 4420	evidencia de celularidad metastásica ni proceso linfoproliferativo en la muestra remitida
+T85	NEG 4787 4790	Sin
+T86	NSCO 4791 4824	adenopatías periféricas palpables
+T87	NEG 4854 4857	sin
+T88	NSCO 4858 4867	hallazgos
+T89	NEG 5135 5138	sin
+T90	NSCO 5139 5151	alteraciones
+T91	NEG 5555 5563	negativo
+T92	NSCO 5564 5571	estadio
+T93	UNC 5579 5590	sospecha de
+T94	USCO 5591 5606	afectación ósea
+T95	NEG 6421 6424	sin
+T96	NSCO 6425 6462	repercusión hemodinámica ni analítica
+T97	NEG 6483 6495	retirada del
+T98	NSCO 6496 6521	tratamiento antiagregante
+T99	NEG 6652 6654	no
+T100	NSCO 6655 6725	concuerda con la estabilidad gammagráfica con respecto al mes de marzo
+T101	NEG 6836 6838	no
+T102	NSCO 6839 6871	intervenido con linitis plástica
+T103	FARMACO 446 459	rosuvastatina
+T104	FARMACO 472 481	enalapril
+T105	FARMACO 1227 1237	cilostazol
+T106	FARMACO 1256 1278	ácido acetilsalicílico
+T107	FARMACO 1291 1300	omeprazol
+T108	FARMACO 2766 2776	acitretina
+T109	FARMACO 5776 5786	cisplatino
+T110	FARMACO 5798 5809	leucovorina
+T111	FARMACO 5822 5837	5-fluorouracilo
+T112	FARMACO 6120 6137	ácido zoledrónico
+T113	ORG_VIVO 102 116	paciente varón
+T114	ORG_VIVO 150 157	albañil
+T115	ORG_VIVO 171 179	jubilado
+T116	ORG_VIVO 196 201	hijos
+T117	ORG_VIVO 221 231	personales
+T118	ORG_VIVO 1867 1873	vírica
+T119	ORG_VIVO 1965 1968	HPV
+T120	ORG_VIVO 2078 2086	paciente
+T121	ORG_VIVO 2478 2486	paciente
+T122	ORG_VIVO 3297 3305	paciente
+T123	ORG_VIVO 6305 6313	paciente
+T124	ORG_VIVO 6743 6751	paciente
+T125	ENFERMEDAD 19 31	Leser-Trélat
+T126	ENFERMEDAD 62 85	adenocarcinoma gástrico
+T127	ENFERMEDAD 254 277	alergias medicamentosas
+T128	ENFERMEDAD 368 387	Hipercolesterolemia
+T129	ENFERMEDAD 390 411	hipertensión arterial
+T130	ENFERMEDAD 571 600	vértigo vestibular periférico
+T131	ENFERMEDAD 740 766	adenocarcinoma de próstata
+T132	ENFERMEDAD 892 908	pólipos de colon
+T133	ENFERMEDAD 1014 1026	Vasculopatía
+T134	ENFERMEDAD 1031 1074	isquemia crónica de extremidades inferiores
+T135	ENFERMEDAD 1076 1104	arteriosclerosis obliterante
+T136	ENFERMEDAD 1107 1137	ictus isquémico protuberancial
+T137	ENFERMEDAD 1172 1205	secuelas neurológicas posteriores
+T138	ENFERMEDAD 1401 1467	lesiones verrugosas diseminadas, compatibles con verrugas vulgares
+T139	ENFERMEDAD 1484 1505	queratosis seborreica
+T140	ENFERMEDAD 1508 1567	acantosis nigricans a nivel de axilas y pliegue interglúteo
+T141	ENFERMEDAD 1659 1668	acantosis
+T142	ENFERMEDAD 1722 1737	hipergranulosis
+T143	ENFERMEDAD 1766 1787	queratosis seborreica
+T144	ENFERMEDAD 1791 1823	Hiperplasia epidérmica verrugosa
+T145	ENFERMEDAD 1859 1873	verruga vírica
+T146	ENFERMEDAD 1897 1931	queratosis seborreica papilomatosa
+T147	ENFERMEDAD 2061 2073	Leser-Trélat
+T148	ENFERMEDAD 2153 2173	patología neoplásica
+T149	ENFERMEDAD 2537 2557	proceso hematológico
+T150	ENFERMEDAD 2889 2898	acantosis
+T151	ENFERMEDAD 2926 2943	lesiones dérmicas
+T152	ENFERMEDAD 3414 3480	nodulares blásticas a nivel de columna vertebral y huesos pélvicos
+T153	ENFERMEDAD 3495 3511	metástasis óseas
+T154	ENFERMEDAD 3543 3653	ganglios de naturaleza indeterminada a nivel de ligamento gastrohepático, hilio hepático y retroperitoneo alto
+T155	ENFERMEDAD 3902 3956	ulceración que afecta a gran parte del cuerpo gástrico
+T156	ENFERMEDAD 3973 4003	neoplasia gástrica infiltrante
+T157	ENFERMEDAD 4164 4228	infiltración por carcinoma difuso de "células en anillo de sello
+T158	ENFERMEDAD 4371 4397	proceso linfoproliferativo
+T159	ENFERMEDAD 4507 4534	múltiples verrugas vulgares
+T160	ENFERMEDAD 4537 4559	queratosis seborreicas
+T161	ENFERMEDAD 4577 4611	acantosis nigricans a nivel axilar
+T162	ENFERMEDAD 4664 4703	paquidermia a nivel de palmas y plantas
+T163	ENFERMEDAD 4734 4752	Obesidad troncular
+T164	ENFERMEDAD 4791 4814	adenopatías periféricas
+T165	ENFERMEDAD 5388 5484	metástasis blásticas a nivel de columna vertebral: D3, D5, D7, D9, L3 y articulación sacroiliaca
+T166	ENFERMEDAD 5530 5548	carcinoma gástrico
+T167	ENFERMEDAD 5591 5606	afectación ósea
+T168	ENFERMEDAD 6049 6058	mucositis
+T169	ENFERMEDAD 6346 6371	hemorragia digestiva alta
+T170	ENFERMEDAD 6821 6835	tumor primario
+T171	ENFERMEDAD 6855 6871	linitis plástica
+T172	PACIENTE-PROFESION 150 157	albañil
+T173	PACIENTE-SITUACION_LABORAL 171 179	jubilado

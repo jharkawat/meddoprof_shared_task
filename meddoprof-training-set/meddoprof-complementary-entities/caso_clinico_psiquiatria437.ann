@@ -1,0 +1,125 @@
+T1	SINTOMA 1710 1719	tranquila
+T2	SINTOMA 1722 1734	colaboradora
+T3	SINTOMA 2646 2655	psicótico
+T4	SINTOMA 2932 2954	inhibición psicomotriz
+T5	SINTOMA 2956 2967	mirada fija
+T6	SINTOMA 2969 2978	sialorrea
+T7	SINTOMA 2980 3014	rigidez de extremidades superiores
+T8	SINTOMA 3016 3042	inestabilidad de la marcha
+T9	SINTOMA 3047 3059	pasos cortos
+T10	SINTOMA 3061 3083	disminución del braceo
+T11	SINTOMA 3301 3324	alucinaciones auditivas
+T12	SINTOMA 5414 5435	aplanamiento afectivo
+T13	SINTOMA 5437 5443	apatía
+T14	SINTOMA 5445 5451	abulia
+T15	SINTOMA 5453 5475	inhibición psicomotriz
+T16	SINTOMA 5518 5536	aislamiento social
+T17	SINTOMA 5539 5583	dificultades para el funcionamiento autónomo
+T18	SINTOMA 6276 6284	falleció
+T19	PROCEDIMIENTO 2033 2058	tratamiento antipsicótico
+T20	PROCEDIMIENTO 3443 3446	TAC
+T21	PROCEDIMIENTO 3568 3595	exploración psicopatológica
+T22	PROCEDIMIENTO 3601 3624	exploración neurológica
+T23	PROCEDIMIENTO 4403 4434	tratamiento con benzodiazepinas
+T24	PROCEDIMIENTO 4528 4553	terapia electroconvulsiva
+T25	PROCEDIMIENTO 4700 4724	medicación antipsicótica
+T26	NEG 180 183	sin
+T27	NSCO 184 234	entender el motivo por el que la habían trasladado
+T28	NEG 715 720	nunca
+T29	NSCO 721 729	apareció
+T30	NEG 1088 1090	no
+T31	NSCO 1091 1124	se atrevía a bañarse ni a asearse
+T32	NEG 1224 1226	no
+T33	NSCO 1227 1239	podía dormir
+T34	NEG 1837 1840	sin
+T35	NSCO 1841 1867	apenas salir del domicilio
+T36	NEG 2321 2324	sin
+T37	NSCO 2325 2374	cambios respecto a la situación previa al ingreso
+T38	NEG 2614 2616	no
+T39	NSCO 2617 2655	se logró controlar el cuadro psicótico
+T40	NEG 3449 3460	descartando
+T41	NSCO 3461 3482	patología a ese nivel
+T42	NEG 4360 4369	Se retiró
+T43	NSCO 4370 4390	toda la pauta previa
+T44	NEG 4459 4461	no
+T45	NSCO 4462 4468	mejoró
+T46	NEG 4572 4575	sin
+T47	NSCO 4576 4583	mejoría
+T48	NEG 4585 4597	se suspendió
+T49	NSCO 4598 4615	dicho tratamiento
+T50	UNC 4625 4636	sospecha de
+T51	USCO 4637 4724	que las alteraciones motoras pudieran estar en relación con la medicación antipsicótica
+T52	NEG 4746 4749	sin
+T53	NSCO 4750 4755	éxito
+T54	NEG 5389 5397	negativa
+T55	NEG 5800 5810	suspendido
+T56	NSCO 5811 5822	aripiprazol
+T57	NEG 6858 6861	sin
+T58	NSCO 6862 6896	efectos secundarios a nivel motriz
+T59	NEG 6943 6945	no
+T60	NSCO 6946 6967	tener ningún problema
+T61	FARMACO 2060 2071	risperidona
+T62	FARMACO 2161 2172	risperidona
+T63	FARMACO 2523 2534	flufenazina
+T64	FARMACO 2569 2579	biperideno
+T65	FARMACO 3689 3698	clozapina
+T66	FARMACO 4735 4745	biperideno
+T67	FARMACO 4968 4979	aripiprazol
+T68	FARMACO 4995 5005	biperideno
+T69	FARMACO 5743 5752	clozapina
+T70	FARMACO 5766 5779	amitriptilina
+T71	FARMACO 5811 5822	aripiprazol
+T72	FARMACO 6230 6239	clozapina
+T73	FARMACO 7245 7254	clozapina
+T74	ORG_VIVO 12 20	paciente
+T75	ORG_VIVO 252 257	mujer
+T76	ORG_VIVO 279 284	madre
+T77	ORG_VIVO 291 296	chico
+T78	ORG_VIVO 442 449	vecinos
+T79	ORG_VIVO 538 542	niña
+T80	ORG_VIVO 624 632	dentista
+T81	ORG_VIVO 748 755	vecinos
+T82	ORG_VIVO 789 797	paciente
+T83	ORG_VIVO 821 827	marido
+T84	ORG_VIVO 1171 1179	personal
+T85	ORG_VIVO 1352 1359	vecinos
+T86	ORG_VIVO 1650 1658	paciente
+T87	ORG_VIVO 1801 1807	marido
+T88	ORG_VIVO 1950 1957	vecinos
+T89	ORG_VIVO 1962 1970	paciente
+T90	ORG_VIVO 2800 2808	paciente
+T91	ORG_VIVO 3097 3104	familia
+T92	ORG_VIVO 3207 3215	paciente
+T93	ORG_VIVO 3291 3298	vecinos
+T94	ORG_VIVO 4815 4823	paciente
+T95	ORG_VIVO 5147 5155	paciente
+T96	ORG_VIVO 5199 5206	vecinos
+T97	ORG_VIVO 5943 5951	paciente
+T98	ORG_VIVO 6288 6294	marido
+T99	ORG_VIVO 6301 6309	paciente
+T100	ORG_VIVO 6353 6357	hijo
+T101	ORG_VIVO 6647 6655	paciente
+T102	ORG_VIVO 6683 6693	psiquiatra
+T103	ORG_VIVO 6726 6730	hijo
+T104	ORG_VIVO 6921 6928	vecinos
+T105	ENFERMEDAD 1997 2020	esquizofrenia paranoide
+T106	ENFERMEDAD 2413 2449	efectos secundarios extrapiramidales
+T107	ENFERMEDAD 3840 3849	epilepsia
+T108	ENFERMEDAD 3851 3860	neoplasia
+T109	ENFERMEDAD 3862 3888	enfermedad cerebrovascular
+T110	ENFERMEDAD 3891 3919	traumatismo craneoencefálico
+T111	ENFERMEDAD 3921 3954	trastorno inducido por sustancias
+T112	ENFERMEDAD 4003 4015	neurosífilis
+T113	ENFERMEDAD 4017 4036	corea de Huntington
+T114	ENFERMEDAD 4038 4043	lupus
+T115	ENFERMEDAD 4045 4065	enfermedad de Wilson
+T116	ENFERMEDAD 4118 4142	trastornos psiquiátricos
+T117	ENFERMEDAD 4144 4147	TOC
+T118	ENFERMEDAD 4149 4168	trastorno delirante
+T119	ENFERMEDAD 4170 4186	psicosis atípica
+T120	ENFERMEDAD 4188 4213	trastorno esquizoafectivo
+T121	ENFERMEDAD 4232 4255	esquizofrenia paranoide
+T122	OTROS-PROFESION 166 179	Policía Foral
+T123	OTROS-PROFESION 624 632	dentista
+T124	OTROS-PROFESION 1547 1554	policía
+T125	SANITARIO-PROFESION 6683 6711	psiquiatra adjunta en el CSM

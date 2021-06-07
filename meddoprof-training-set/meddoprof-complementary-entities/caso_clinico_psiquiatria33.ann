@@ -1,0 +1,155 @@
+T1	SINTOMA 1656 1662	apatía
+T2	SINTOMA 4138 4148	Consciente
+T3	SINTOMA 4150 4159	orientado
+T4	SINTOMA 4161 4172	colaborador
+T5	SINTOMA 4201 4209	angustia
+T6	SINTOMA 4252 4296	distorsiones perceptivas en la esfera visual
+T7	SINTOMA 4358 4380	Temores hipocondríacos
+T8	SINTOMA 4689 4699	ánimo bajo
+T9	SINTOMA 4701 4714	irritabilidad
+T10	SINTOMA 4729 4776	abandono de actividades y de interacción social
+T11	SINTOMA 5048 5070	mostrándose angustiado
+T12	SINTOMA 5678 5707	alteraciones sensoperceptivas
+T13	SINTOMA 6076 6088	retraimiento
+T14	SINTOMA 6101 6109	ansiedad
+T15	SINTOMA 6132 6158	contacto afectivo empático
+T16	SINTOMA 6165 6182	rasgos psicóticos
+T17	SINTOMA 6551 6579	enlentecimiento generalizado
+T18	SINTOMA 6581 6599	ánimo subdepresivo
+T19	SINTOMA 6601 6618	escasa iniciativa
+T20	SINTOMA 7166 7173	craving
+T21	SINTOMA 8725 8737	asintomático
+T22	SINTOMA 9128 9141	consolidación
+T23	PROCEDIMIENTO 3443 3469	evaluación psicopatológica
+T24	PROCEDIMIENTO 4024 4032	sedación
+T25	PROCEDIMIENTO 4102 4129	Exploración psicopatológica
+T26	PROCEDIMIENTO 7003 7030	antidepresivos de tipo ISRS
+T27	PROCEDIMIENTO 7261 7285	medicación antipsicótica
+T28	NEG 67 69	No
+T29	NSCO 70 84	tiene hermanos
+T30	NEG 144 149	Nunca
+T31	NSCO 150 152	ha
+T32	NEG 361 377	desaparición del
+T33	NSCO 378 398	padre 2 años después
+T34	NEG 1089 1092	sin
+T35	NSCO 1093 1123	encontrarse con ninguna figura
+T36	NEG 1806 1808	No
+T37	NSCO 1809 1959	cuenta en su historia con ningún antecedente de enfermedades médicas ni intervenciones quirúrgicas relevantes ni con alergias medicamentosas conocidas
+T38	NEG 2249 2252	sin
+T39	NSCO 2253 2291	periodos significativos de abstinencia
+T40	NEG 2842 2844	No
+T41	NSCO 2845 2916	había realizado ningún intento de deshabituación del consumo de tóxicos
+T42	NEG 3059 3066	Tampoco
+T43	NSCO 3067 3119	había precisado atención psiquiátrica ni psicológica
+T44	UNC 3771 3785	compatible con
+T45	USCO 3786 3804	episodio psicótico
+T46	NEG 3806 3809	sin
+T47	NSCO 3810 3816	filiar
+T48	NEG 3834 3836	no
+T49	NSCO 3837 3902	tomaba ningún tratamiento farmacológico en el momento del ingreso
+T50	NEG 4052 4054	no
+T51	NSCO 4055 4099	había precisado hospitalización psiquiátrica
+T52	NEG 4411 4413	no
+T53	NSCO 4414 4433	siento los pulmones
+T54	NEG 4445 4447	no
+T55	NSCO 4448 4457	tenga..."
+T56	NEG 4795 4797	No
+T57	NSCO 4798 4844	auto/heteroagresividad, ni ideación autolítica
+T58	NEG 5502 5505	sin
+T59	NSCO 5506 5545	aparecer efectos secundarios reseñables
+T60	NEG 6161 6164	sin
+T61	NSCO 6165 6211	rasgos psicóticos en su estructura caracterial
+T62	NEG 6282 6284	no
+T63	NSCO 6285 6356	hubiera llegado a la capacidad de abstracción propia de la adolescencia
+T64	NSCO 6358 6411	Ni la clínica ni los test específicos de personalidad
+T65	NEG 6429 6449	sugestivos de ningún
+T66	NSCO 6450 6489	trastorno diagnosticable en este ámbito
+T67	NEG 7133 7147	desapareciendo
+T68	NSCO 7148 7173	los episodios de "craving
+T69	NEG 7246 7257	retirada de
+T70	NSCO 7258 7285	la medicación antipsicótica
+T71	NEG 7374 7376	no
+T72	NSCO 7377 7422	reapareció ninguno de los síntomas psicóticos
+T73	NEG 8587 8590	sin
+T74	NSCO 8591 8616	incidentes significativos
+T75	NEG 8646 8655	negativos
+T76	NSCO 8656 8689	para cualquier sustancia de abuso
+T77	NEG 8725 8737	asintomático
+T78	UNC 8865 8874	descartar
+T79	USCO 8875 8946	o confirmar un posible primer brote de Esquizofrenia ó como alternativa
+T80	UNC 9206 9212	podría
+T81	USCO 9213 9250	haberse considerado como personalidad
+T82	NEG 9313 9315	no
+T83	NSCO 9316 9364	haberse demostrado reversible con la abstinencia
+T84	UNC 9395 9401	podría
+T85	USCO 9402 9412	atribuirse
+T86	UNC 9751 9759	Probable
+T87	USCO 9760 9775	Psicosis Tóxica
+T88	FARMACO 3968 3978	Olanzapina
+T89	FARMACO 5431 5442	risperidona
+T90	FARMACO 5467 5477	bromacepam
+T91	FARMACO 7032 7044	escitalopram
+T92	FARMACO 10184 10196	escitalopram
+T93	ORG_VIVO 11 19	paciente
+T94	ORG_VIVO 32 39	soltero
+T95	ORG_VIVO 60 65	madre
+T96	ORG_VIVO 76 84	hermanos
+T97	ORG_VIVO 229 237	camarero
+T98	ORG_VIVO 327 333	padres
+T99	ORG_VIVO 378 383	padre
+T100	ORG_VIVO 463 471	paciente
+T101	ORG_VIVO 545 553	familiar
+T102	ORG_VIVO 560 566	abuela
+T103	ORG_VIVO 689 694	madre
+T104	ORG_VIVO 830 837	familia
+T105	ORG_VIVO 876 881	padre
+T106	ORG_VIVO 885 893	paciente
+T107	ORG_VIVO 927 939	progenitores
+T108	ORG_VIVO 1369 1376	familia
+T109	ORG_VIVO 1544 1554	familiares
+T110	ORG_VIVO 1583 1591	paciente
+T111	ORG_VIVO 1724 1732	cannabis
+T112	ORG_VIVO 1798 1803	madre
+T113	ORG_VIVO 1979 1989	familiares
+T114	ORG_VIVO 2025 2030	padre
+T115	ORG_VIVO 2086 2094	cannabis
+T116	ORG_VIVO 2128 2136	cannabis
+T117	ORG_VIVO 3602 3609	familia
+T118	ORG_VIVO 3669 3677	paciente
+T119	ORG_VIVO 4593 4603	compañeros
+T120	ORG_VIVO 4967 4975	familiar
+T121	ORG_VIVO 5028 5036	paciente
+T122	ORG_VIVO 6344 6356	adolescencia
+T123	ORG_VIVO 6841 6849	paciente
+T124	ORG_VIVO 7122 7130	cannabis
+T125	ORG_VIVO 7199 7207	paciente
+T126	ORG_VIVO 7661 7671	familiares
+T127	ORG_VIVO 7739 7751	adolescencia
+T128	ORG_VIVO 7782 7787	padre
+T129	ORG_VIVO 7827 7832	madre
+T130	ORG_VIVO 7916 7924	paciente
+T131	ORG_VIVO 8542 8552	familiares
+T132	ORG_VIVO 8702 8710	paciente
+T133	ORG_VIVO 9041 9049	cannabis
+T134	ORG_VIVO 9074 9082	personal
+T135	ORG_VIVO 9488 9496	cannabis
+T136	ORG_VIVO 9633 9641	cannabis
+T137	ENFERMEDAD 1926 1949	alergias medicamentosas
+T138	ENFERMEDAD 2055 2064	ludopatía
+T139	ENFERMEDAD 2067 2094	consumo abusivo de cannabis
+T140	ENFERMEDAD 2109 2116	consumo
+T141	ENFERMEDAD 2117 2136	Fumador de cannabis
+T142	ENFERMEDAD 4656 4680	sintomatología psicótica
+T143	ENFERMEDAD 4779 4793	Insomnio mixto
+T144	ENFERMEDAD 6101 6109	ansiedad
+T145	ENFERMEDAD 8215 8223	ansiedad
+T146	ENFERMEDAD 8963 8989	Psicosis Tóxica secundaria
+T147	ENFERMEDAD 9278 9309	síndrome de tipo esquizofrénico
+T148	ENFERMEDAD 9434 9456	Síndrome Amotivacional
+T149	ENFERMEDAD 9469 9496	consumo crónico de cannabis
+T150	ENFERMEDAD 9570 9589	Trastornos mentales
+T151	ENFERMEDAD 9622 9641	consumo de cannabis
+T152	ENFERMEDAD 9760 9775	Psicosis Tóxica
+T153	PACIENTE-PROFESION 229 257	camarero en alguna discoteca
+T154	FAMILIAR-SITUACION_LABORAL 411 421	en prisión
+T155	PACIENTE-SITUACION_LABORAL 977 1001	abandono de los estudios

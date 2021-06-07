@@ -1,0 +1,37 @@
+Motivo de consulta
+Astenia, palpitaciones y malestar
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis
+Mujer de 30 años, sin alergias medicamentosas conocidas, exfumadora desde hace un año, no otros hábitos tóxicos, no otros antecedentes personales de interés, no realiza tratamiento habitual. Acude a consulta porque en los últimos dos meses refiere sentirse muy cansada y débil, situación que se ha ido agravando hasta impedirle realizar su vida con normalidad. Además, en los últimos 15 días, la paciente cuenta episodios que comienzan con mareos, que describe cómo inestabilidad, sin giro de objetos, seguido de palpitaciones y sensación de muerte inminente. Durante estos episodios, refiere cifras elevadas de tensión arterial.
+
+Exploración
+Buen estado general, consciente orientada y colaboradora, bien hidratada y perfundida, normocoloreada, eupneica en reposo. Hemodinámicamente estable. Tensión arterial: 125/85mmHg SatO2: 99% respirando aire ambiente, frecuencia cardíaca: 80lpm.
+Auscultación cardíaca: rítmica sin soplos ni extratonos a buena frecuencia.
+Auscultación pulmonar: buen murmullo vesicular bilateral sin ruidos sobreañadidos.
+Exploración neurológica: pupilas isocóricas, normorreactivas a la luz, movimientos oculares externos conservados, pares craneales normales, no dismetrías ni disdiacocinesias, fuerza, sensibilidad y reflejos osteotendinosos conservados y simétricos. Marcha sin alteraciones. Romberg y Mingazzini negativos, no signos cerebelosos. No nistagmos.
+En la otoscopia se visualizan ambos tímpanos, íntegros, sin otros hallazgos de interés, orofaringe sin hipertrofias ni exudados, no hay lesiones en cavidad oral.
+
+Pruebas complementarias
+Solicitamos un Electrocardiograma, radiografía de tórax y una analítica con hemograma, bioquímica y estudio de hormonas tiroideas.
+Electrocardiogarma: ritmo sinusal, 85lpm, no trastornos de conducción ni repolarización. Radiografía de tórax: silueta cardiomediastínica dentro de los límites de la normalidad, no imágenes de derrame pleural, ni condensación.
+Analítica: hemograma con tres series en rango, bioquímica con glucosa, función renal, hepática e iones normales, valores de hormonas tiroideas dentro de la normalidad.
+
+Enfoque familiar y comunitario, juicio clínico (lista de problemas y diagnóstico diferencial)
+La paciente actualmente vive con su pareja, trabaja como Cirujana General, especialidad que terminó hace un año. Durante este último año ha encadenado contratos mensuales, sin garantías de renovación al mes siguiente previa a la firma de dicho contrato. Además, en los últimos tres meses ha realizado una media de 8 guardias mensuales. Tiene buen apoyo sociofamiliar, aunque sus padres y su hermana residen en otra ciudad diferente a la suya.
+
+Juicio Clínico
+Crisis de ansiedad.
+
+Diagnóstico diferencial: taquiarritmia con patrón paroxístico, pudiéndose tratar de una fribilación auricular, flutter, taquicardia por reentrada intranodal, síndrome de wolff parkinson white o síndrome de bradi-taqui. Hipertiroidismo, vértigo posicional paroxístico benigno, vértigo de origen central, hiperfunción de glándulas suprarrenales (Cushing, hiperaldosteronismo primario, tumor androgénico), hipertensión arterial primaria, crisis de ansiedad, trastorno de pánico.
+
+Plan de acción y evolución
+La normalidad de la exploración y el hecho de que las crisis se desencadenen de manera independiente al movimiento de la paciente, además de la ausencia de giro de objetos, hace pensar que el síndrome vertiginoso es poco probable como causante de este cuadro.
+La ausencia de alteración de hormonas tiroideas, descartan, a priori, un hipertiroidismo.
+Por otro lado, la normalidad del electrocardiograma no descarta la posibilidad de que exista una patología cardíaca de base. Tampoco es posible descartar en este momento las alteraciones suprarrenales o la hipertensión arterial primaria.
+En este contexto, aunque la anamnesis de la paciente orienta a que pudieran tratarse de episodios de crisis de ansiedad, no creemos conveniente dar por sentado este diagnóstico, sin descartar otras causas que, siendo menos probable, su falta de tratamiento podría poner en riesgo la vida de nuestra paciente.
+Siguiendo este razonamiento, consensuamos con la paciente la solicitud de un Holter, la realización de un mapeo domiciliario de tensión arterial y solicitamos analítica con estudio de suprarrenales. Además, recetamos alprazolam 0,25mg para tomar en caso de crisis. Siendo conscientes del alto porcentaje de dependencia derivado del uso de benzodiacepinas de vida corta, decidimos esta opción por las características de la paciente. Es una médica que conoce perfectamente los riesgos existentes de ese tratamiento y suponemos que no va a abusar del mismo.
+Además, recomendamos acudir a un profesional de la psicología, puesto que, si el resto de pruebas pendientes tienen resultado negativo, ya habrá comenzado a recibir ayuda para la ansiedad.
+Citamos a la paciente una semana después, conociendo el resultado del resto de pruebas. Tanto el Holter, como el mapeo de tensión arterial, como el estudio de suprarrenales aportan resultados dentro de la normalidad. Además, la paciente refiere que tras el alprazolam le disminuye la intensidad de los síntomas, aunque continua con crisis.
+Finalmente, damos como diagnóstico las crisis de ansiedad vs trastorno de pánico. Recetamos lorazepam 1mg antes de dormir e indicamos suspenda alprazolam por el momento, invitándola a anotar en un cuaderno si vuelve a tener alguna crisis más y las características de las mismas.
+Actualmente continua en tratamiento de manera conjunta con su psicóloga y su médica de familia.

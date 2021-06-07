@@ -1,0 +1,170 @@
+T1	SINTOMA 172 195	deterioro psicoorgánico
+T2	SINTOMA 800 808	embarazo
+T3	SINTOMA 1067 1075	angustia
+T4	SINTOMA 3197 3217	episodios sincopales
+T5	SINTOMA 3233 3244	hipotensión
+T6	SINTOMA 3260 3272	hiponatremia
+T7	SINTOMA 3274 3283	agitación
+T8	SINTOMA 3286 3298	convulsiones
+T9	SINTOMA 3727 3755	dolor en miembros inferiores
+T10	SINTOMA 3758 3765	prurito
+T11	SINTOMA 3879 3884	vigil
+T12	SINTOMA 3886 3918	desorientada en tiempo y espacio
+T13	SINTOMA 4021 4027	llanto
+T14	SINTOMA 4030 4038	tristeza
+T15	SINTOMA 4320 4339	síntomas psicóticos
+T16	SINTOMA 4407 4433	alteración de la escritura
+T17	SINTOMA 4722 4764	Dolor y disestesias en miembros inferiores
+T18	SINTOMA 4766 4775	Hipotonía
+T19	SINTOMA 4794 4806	ortostatismo
+T20	SINTOMA 4969 5002	pérdida del control de esfínteres
+T21	SINTOMA 5004 5019	hiperdefecación
+T22	SINTOMA 5022 5042	prurito generalizado
+T23	SINTOMA 6164 6192	dolor en miembros inferiores
+T24	SINTOMA 7895 7900	dolor
+T25	SINTOMA 7902 7910	quemazón
+T26	SINTOMA 7913 7951	disestesias en extremidades inferiores
+T27	SINTOMA 8356 8368	Hipokaliemia
+T28	SINTOMA 8370 8382	Hiponatremia
+T29	PROCEDIMIENTO 2434 2462	evaluación neuropsicológica-
+T30	PROCEDIMIENTO 3816 3843	Exploración psicopatológica
+T31	PROCEDIMIENTO 4584 4602	Exploración física
+T32	PROCEDIMIENTO 5115 5130	benzodiacepinas
+T33	PROCEDIMIENTO 5302 5346	Tomografía axial computarizada (TAC) craneal
+T34	PROCEDIMIENTO 5356 5401	Resonancia magnética nuclear (RMN) encefálica
+T35	PROCEDIMIENTO 5423 5443	Electroencefalograma
+T36	PROCEDIMIENTO 5445 5448	EEG
+T37	PROCEDIMIENTO 5478 5496	Electrocardiograma
+T38	PROCEDIMIENTO 5498 5501	ECG
+T39	PROCEDIMIENTO 5505 5525	radiografía de tórax
+T40	PROCEDIMIENTO 5597 5619	Evaluación psicológica
+T41	NEG 649 665	incapacidad para
+T42	NSCO 666 675	deambular
+T43	NEG 767 769	No
+T44	NSCO 770 839	se registran alteraciones del embarazo, parto o desarrollo psicomotor
+T45	NEG 1355 1357	no
+T46	NSCO 1358 1370	cualificados
+T47	NEG 1393 1395	No
+T48	NSCO 1396 1408	sale de casa
+T49	NEG 1440 1442	no
+T50	NSCO 1443 1482	contributiva por trastorno mental grave
+T51	NEG 1918 1920	no
+T52	NSCO 1921 1979	consigue mantener un peso adecuado ni normalizar conductas
+T53	NEG 2636 2639	sin
+T54	NSCO 2640 2684	más actividad que la programación televisiva
+T55	NEG 3065 3067	no
+T56	NSCO 3068 3108	alcanza la abstinencia en ningún momento
+T57	NEG 3514 3516	no
+T58	NSCO 3517 3561	se objetiva consumo de otras drogas de abuso
+T59	NEG 3793 3796	sin
+T60	NSCO 3797 3813	datos de interés
+T61	NEG 3886 3898	desorientada
+T62	NEG 4089 4091	no
+T63	NSCO 4092 4111	estar hospitalizada
+T64	NEG 4118 4120	no
+T65	NSCO 4121 4150	se objetiva trastorno ansioso
+T66	NEG 4217 4228	ausencia de
+T67	NSCO 4229 4263	respuesta aparte de la exploración
+T68	NEG 4265 4267	No
+T69	NSCO 4268 4339	se objetivan alteraciones sensoperceptivas ni otros síntomas psicóticos
+T70	UNC 4476 4489	impresiona de
+T71	USCO 4490 4521	estar sesgada por la inatención
+T72	NEG 5138 5146	negativo
+T73	NEG 6545 6547	no
+T74	NSCO 6548 6555	filiada
+T75	NEG 7070 7079	Se retira
+T76	NSCO 7080 7093	la fluoxetina
+T77	NEG 7279 7290	ausencia de
+T78	NSCO 7291 7298	alcohol
+T79	NEG 7532 7535	sin
+T80	NSCO 7536 7583	problemas la retirada de la medicación anterior
+T81	NEG 7701 7703	No
+T82	NSCO 7704 7815	se objetivaron incidencias ni alteraciones de conducta durante el ingreso ni durante los permisos domiciliarios
+T83	NEG 8093 8095	no
+T84	NSCO 8096 8108	especificado
+T85	FARMACO 6068 6076	tramadol
+T86	FARMACO 6092 6102	ibuprofeno
+T87	FARMACO 6120 6131	paracetamol
+T88	FARMACO 6194 6204	Fluoxetina
+T89	FARMACO 6221 6229	diazepam
+T90	FARMACO 6246 6256	olanzapina
+T91	FARMACO 6351 6360	Fenitoína
+T92	FARMACO 6559 6570	domperidona
+T93	FARMACO 6928 6935	tiamina
+T94	FARMACO 7020 7032	ácido fólico
+T95	FARMACO 7083 7093	fluoxetina
+T96	FARMACO 7099 7107	diazepam
+T97	FARMACO 7139 7152	oxcarbacepina
+T98	ORG_VIVO 19 24	mujer
+T99	ORG_VIVO 298 306	paciente
+T100	ORG_VIVO 496 503	familia
+T101	ORG_VIVO 727 735	paciente
+T102	ORG_VIVO 757 765	hermanos
+T103	ORG_VIVO 908 920	adolescencia
+T104	ORG_VIVO 1082 1090	paciente
+T105	ORG_VIVO 1095 1100	madre
+T106	ORG_VIVO 1199 1205	pareja
+T107	ORG_VIVO 1301 1309	paciente
+T108	ORG_VIVO 1385 1391	padres
+T109	ORG_VIVO 1498 1508	personales
+T110	ORG_VIVO 2165 2170	madre
+T111	ORG_VIVO 2177 2185	paciente
+T112	ORG_VIVO 2610 2616	padres
+T113	ORG_VIVO 2722 2730	paciente
+T114	ORG_VIVO 3114 3122	paciente
+T115	ORG_VIVO 3453 3462	pacientes
+T116	ORG_VIVO 3502 3512	personales
+T117	ORG_VIVO 3781 3791	familiares
+T118	ORG_VIVO 3859 3867	paciente
+T119	ORG_VIVO 4573 4581	paciente
+T120	ORG_VIVO 4951 4959	paciente
+T121	ORG_VIVO 5639 5647	paciente
+T122	ORG_VIVO 5706 5714	paciente
+T123	ORG_VIVO 6041 6049	paciente
+T124	ORG_VIVO 6590 6598	paciente
+T125	ORG_VIVO 7446 7454	paciente
+T126	ORG_VIVO 8499 8505	pareja
+T127	ENFERMEDAD 127 150	Trastornos Alimentarios
+T128	ENFERMEDAD 172 195	deterioro psicoorgánico
+T129	ENFERMEDAD 1049 1057	bullying
+T130	ENFERMEDAD 1460 1482	trastorno mental grave
+T131	ENFERMEDAD 1534 1555	trastorno alimentario
+T132	ENFERMEDAD 1642 1651	sobrepeso
+T133	ENFERMEDAD 2191 2212	trastorno alimentario
+T134	ENFERMEDAD 2806 2832	consumo abusivo de alcohol
+T135	ENFERMEDAD 3219 3231	desnutrición
+T136	ENFERMEDAD 3246 3258	hipokaliemia
+T137	ENFERMEDAD 3260 3272	hiponatremia
+T138	ENFERMEDAD 3404 3423	Conductas Adictivas
+T139	ENFERMEDAD 3467 3478	alcoholismo
+T140	ENFERMEDAD 3529 3561	consumo de otras drogas de abuso
+T141	ENFERMEDAD 3635 3644	amenorrea
+T142	ENFERMEDAD 3646 3668	hepatopatía alcohólica
+T143	ENFERMEDAD 3670 3682	osteoporosis
+T144	ENFERMEDAD 3684 3705	fracturas patológicas
+T145	ENFERMEDAD 3707 3725	crisis convulsivas
+T146	ENFERMEDAD 4133 4150	trastorno ansioso
+T147	ENFERMEDAD 4642 4652	Hirsutismo
+T148	ENFERMEDAD 5170 5188	anemia macrocítica
+T149	ENFERMEDAD 5238 5250	desnutrición
+T150	ENFERMEDAD 5256 5268	osteoporosis
+T151	ENFERMEDAD 5271 5300	infección del tracto urinario
+T152	ENFERMEDAD 5403 5421	atrofia cerebelosa
+T153	ENFERMEDAD 5563 5594	encefalopatía tóxico-metabólica
+T154	ENFERMEDAD 6424 6442	crisis convulsivas
+T155	ENFERMEDAD 7208 7229	neuropatía periférica
+T156	ENFERMEDAD 8056 8092	Trastorno de la conducta alimentaria
+T157	ENFERMEDAD 8159 8178	Retraso mental leve
+T158	ENFERMEDAD 8199 8208	Amenorrea
+T159	ENFERMEDAD 8210 8222	Osteoporosis
+T160	ENFERMEDAD 8224 8243	Fracturas múltiples
+T161	ENFERMEDAD 8245 8267	Hepatopatía alcohólica
+T162	ENFERMEDAD 8269 8275	Anemia
+T163	ENFERMEDAD 8302 8323	Neuropatía periférica
+T164	ENFERMEDAD 8325 8354	Infección del tracto urinario
+T165	ENFERMEDAD 8356 8368	Hipokaliemia
+T166	ENFERMEDAD 8370 8382	Hiponatremia
+T167	ENFERMEDAD 8384 8402	Crisis convulsivas
+T168	SANITARIO-PROFESION 1694 1703	endocrino
+T169	PACIENTE-SITUACION_LABORAL 1421 1455	recibe una pensión no contributiva
+T170	PACIENTE-SITUACION_LABORAL 1311 1343	Ha trabajado de forma esporádica

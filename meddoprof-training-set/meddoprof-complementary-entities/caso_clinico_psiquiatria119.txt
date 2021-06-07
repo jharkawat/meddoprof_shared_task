@@ -1,0 +1,66 @@
+ANAMNESIS
+
+Motivo de consulta
+Mujer de 32 años, derivada a la Unidad de Conductas Adictivas (UCA) en 2005 desde la Unidad de Enfermedades Infecciosas para inicio, con carácter urgente, del Programa de Mantenimiento con Metadona (PMM).
+
+Tratamientos anteriores
+A los 29 años, acudió a la Unidad de Alcohología a efectos de solicitar ingreso hospitalario para desintoxicación de alcohol. Al alta, abandonó la Unidad. 
+
+Antecedentes personales
+A los 22 años se le diagnostica infección por virus de la inmunodefi ciencia humana-VIH y seguidamente trastorno depresivo no clasificado. Pancreatitis agudas a los 23 y 25 años y entre ambas una tuberculosis pulmonar. A los 26 años neumonía. A los 28 años fractura vertebral lumbar cerrada. A los 29 años se le diagnostica hepatopatía por virus de la hepatitis C. No crisis convulsivas. No alergias medicamentosas conocidas. Dos intentos autolíticos con benzodiazepinas. Es la segunda de 3 hermanos. El padre trabajaba como agente comercial viajando con frecuencia y la madre ejercía como maestra. Estudió en colegio religioso hasta el nacimiento del hermano menor (10 años de diferencia), momento en que pasó a la escuela pública donde fi nalizó el graduado escolar. A los 16 años empieza una relación sentimental con un amigo del hermano mayor, quien a los 18 años, en un vis a vis la deja embarazada y le transmite la infección de VIH, abortando a continuación. Es soltera, sin hijos y ha convivido siempre con parejas consumidoras de tóxicos. Desempleada, ha tenido trabajos eventuales en hostelería hasta que le concedieron la pensión no contributiva en 2001. Los padres se separaron informalmente, hace 15 años quedando los 3 hijos a cargo del padre: "mi madre nos abandonó". Actualmente, vive con el padre jubilado. Nivel económico medio-alto. No tiene causas judiciales pendientes. 
+
+Antecedentes familiares
+Padre: cardiopatía isquémica y diabetes mellitus. Hermano mayor: politoxicomanía, fallecido en 2007 por autolisis. Hermano menor: síndrome de fatiga crónica y ansiedad. Tío paterno fallecido por cirrosis alcohólica. 
+
+Historia toxicológica
+A los 13 años es iniciada en el consumo de tóxicos (tabaco, alcohol y cannabis) por el hermano mayor: "soy alcohólica desde los 15". A los 16 años incorpora el consumo de anfetaminas y alucinógenos que se autoabastecía mediante la venta. A los 18 años comienza el consumo de heroína y cocaína inhaladas durante el fi n de semana y pronto pasa a consumir diariamente. Nunca ha utilizado la vía i.v. A los 28 años, en estado de intoxicación, sufre una caída accidental desde un primer piso causándole una fractura de columna lumbar, sin más consecuencias. En repetidas ocasiones intenta desintoxicarse por su cuenta, sin éxito, hasta solicitar ayuda profesional a los 29 años. 
+
+
+EXPLORACIÓN
+Física Constitución de tipo leptosomático o asténico-esquizotímico.Facies triste, adolorida, pálida y ojerosa, con aspecto preocupadizo y cansado. Normohidratada. Sin lesiones aparentes ni tatuajes. PA: 110/70. FC: 80 ppm. Peso: 44,5 kg. Altura: 1,70 m. Índice de masa corporal: 15,22 Kg/m2. Toxicológica Consumo activo diario de: heroína inhalada que alterna con metadona comprada en el mercado negro, cocaína fumada en base y 15 UBEs de alcohol. Fuma 6 "porros" y un paquete de tabaco al día. Psicopatológica La paciente, colaboradora y abordable, se muestra consciente y orientada en espacio, tiempo y persona. Presenta signos de intoxicación alcohólica y de síndrome de abstinencia opiácea. Hipotimia subjetiva con labilidad emocional. Astenia, apatía y anhedonia. Poco apetito. No se objetivan trastornos sensoperceptivos. Insomnio de conciliación con despertares frecuentes. No tiene ideación auto ni heteroagresiva. Personalidad tímida e introvertida, de rasgos dependientes. Sentimientos de culpa y desesperanza. Baja autoestima, elevada autocrítica y miedo al rechazo. Preocupaciones sobrevaloradas que le producen crisis de anticipación ansiosa con fuerte cortejo vegetativo ante estímulos sociales con conductas evitativas y de huida. Apenas sale de casa y ha asumido el rol de la madre: "parece que esté casada con mi padre". Concienciade enfermedad. Motivación a tratamiento.
+
+
+PRUEBAS COMPLEMENTARIAS
+Analítica últimos 6 meses: índice lipémico 158; GPT 38 U/L; hematíes 3,5x106/μL; hemoglobina 11,6 g/dL; hematocrito 34,3%; VCM 99fL; HBGCM 33,3 pg; leucocitos 10,9x103/μL; linfocitos 4,2x103/μL; T tromboplastina parcial activ 25,0 seg. Serología VIH: CD4 1314; CV 19 UI ARN-VIH ml. Serología VHC: antiVHC y PCRcVHC positivos; CV 269684 UI ARN-VHC ml. Inmunizada de VHB. Sistemático de orinas: indicios de leucocitos. Test de embarazo: negativo.La utilización de la MINI Entrevista Neuropsiquiátrica Internacional (Ferrando et al, 2000) corroboró la poliadicción a alcohol, cannabis, nicotina, opiáceos y cocaína. La utilización de la Entrevista Clínica Estructurada para los Trastornos de la Personalidad del Eje II del DSM-IV (SCID II) (Gómez-Beneyto et al., 1994)mostró los siguientes: Trastorno de la personalidad por evitación y trastorno pasivo-agresivo de la personalidad. Puntúa alto (4:5) en trastorno depresivo de la personalidad y trastorno de la personalidad por dependencia. Por último, la Escala de Evaluación de la Actividad Global (EEAG) (American Psychiatric Association, 2003)confi rma las graves alteraciones de la paciente en la actividad social y laboral. 
+
+DIAGNÓSTICOS
+EJE I
+- F10.2x Dependencia de alcohol [303.90]
+- F12.2x Dependencia de cannabis [304.30]
+- F11.2x Dependencia de opiáceos [304.00] 
+- F14.2x Dependencia de cocaína [304.20]
+- F17.2x Dependencia de nicotina [305.1]
+- F32.9 Trastorno depresivo no clasificado [311]
+- F40.1. Fobia social [300.23] (trastorno de ansiedad social)
+
+EJE II
+- F60.6 Trastorno de la personalidad por evitación [301.82]
+- F60.8 Trastorno pasivo-agresivo de la personalidad
+
+EJE III
+- Virus de la inmunodefi ciencia humana, tipo 2 [HIV-2] [0.79.53]
+- Hepatitis C crónica sin mención de coma hepático [070.54]
+- Tuberculosis pulmonar [011]
+- Neumonía [486]
+- Candidiasis oral [112.0]
+- Pancreatitis aguda [577.0]
+- Aborto autoinducido [636]
+- Fractura vertebra, vertebral lumbar [805.4]
+
+Eje IV:
+Conflicto con la madre. Sin relaciones sociales.
+
+EJE V:
+EEAG = 40 (inicial) y 45 (actual).
+ 
+ 
+TRATAMIENTO
+Farmacológico
+Inicialmente se estabilizó con 90 mg de metadona. Ha realizado Programa de Mantenimiento con Metadona (PMM) durante los períodos de 2005-2009 y 2010-2012. Entre ambos, realizó Programa con Antagonista Opiáceo de naltrexona 50 mg. Desde que inició tratamiento se le han prescrito diferentes antidepresivos como paroxetina 20-40 mg, citalopram 20 mg, mirtazapina 15-30 mg y trazodona 50 mg. Los ansiolíticos e hipnóticos siempre a bajas dosis: alprazolam 0.5-1 mg; bromazepam 4,5mg, diazepam 5-20 mg, lormetazepam 2 mg y zolpidem 10 mg. Puntualmente, se ha reforzado el tratamiento con algún antiepiléptico como la pregabalina 150-600 mg. Los interdictores del alcohol -disulfi ram y cianamida- los ha tomado directamente observados en otros recursos de drogodependencias. Los antipsicóticos atípicos como risperidona 3 mg y olanzapina 5 mg, han sido mal tolerados. Tan sólo ha mantenido tiaprida 300 mg en las repetidas desintoxicaciones ambulatorias alcohólicas realizadas, con clometiazol y el complejo de la vitamina B. Actualmente, toma los antirretrovirales: ritonavir 100 mg/día saquinavir 600 mg/día; emtricitabina 200mg/tenofovir 245 mg/día, además del tratamiento pautado en la UCA: escitalopram 20 mg/día y diazepam 10 mg/día.
+
+Otros recursos y abordajes utilizados
+Desde que tomó contacto con nuestra Unidad ha seguido tratamiento ambulatorio, hospitalario residencial, logrando estar algo más de 3 años sin consumir tras el ingreso en una Comunidad Terapéutica seguido de Centros de Día. Realizó, en diferentes recursos, varias tandas psicoterapia, grupal e individual, de corte cognitivo-conductual, psicoeducativo y de prevención de recaídas. 
+También ha fi nalizado, recientemente, un Taller de relajación.
+
+EVOLUCIÓN
+Para la paciente, el objetivo del tratamiento es "normalizar" su vida y alejarse de "todo lo relacionado con las drogas". Esto significa que no acepta la medicación que considera de "yonki" ni tampoco la derivación a la Unidad de Salud Mental por resultarle estigmatizante. Su evolución ha sido irregular, alternando periodos de estabilidad con otros de recaída, por lo general asociados al consumo de alcohol y de cannabis que ella valora como "normalizados". La dependencia a opiáceos y cocaína siguen en remisión total sostenida. Actualmente, mantiene la buena adherencia a la Unidad acudiendo de forma regular a las citas (médica y psicólogica) y a las de Infecciosas donde cumple el tratamiento antirretroviral. Sin embargo, persiste un alto grado de malestar somático y emocional en relación con circunstancias familiares y recuerdos intrusivos de las vivencias de su pasado que expresa con intenso malestar y le ocasionan limitaciones importantes en su ajuste social. Desde febrero -que abandonó el PMM- presenta artromialgias generalizadas lo cual ha disparado su hipocondriasis y la anticipación ansiosa. Mantiene el consumo de cannabis y esporádicamente el de alcohol. No acude a ningún otro recurso de drogodependencias. 

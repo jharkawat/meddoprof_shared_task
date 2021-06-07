@@ -1,0 +1,65 @@
+T1	SINTOMA 163 166	tos
+T2	SINTOMA 169 185	dolor pleurítico
+T3	SINTOMA 216 253	pérdida de volumen en lóbulo superior
+T4	SINTOMA 449 456	astenia
+T5	SINTOMA 458 466	mialgias
+T6	SINTOMA 468 477	febrícula
+T7	SINTOMA 479 482	tos
+T8	SINTOMA 487 531	expectoración y dolorpleurítico en hemitórax
+T9	SINTOMA 569 580	taquipneica
+T10	SINTOMA 582 589	afebril
+T11	SINTOMA 591 603	taquicárdica
+T12	SINTOMA 636 665	crepitantes en campo superior
+T13	SINTOMA 1376 1392	malestar general
+T14	SINTOMA 1394 1407	disnea súbita
+T15	SINTOMA 1410 1419	febrícula
+T16	SINTOMA 1464 1475	Taquipneica
+T17	SINTOMA 1477 1485	sudorosa
+T18	SINTOMA 1488 1494	pálida
+T19	SINTOMA 1532 1544	taquicárdica
+T20	SINTOMA 1714 1726	leucocitosis
+T21	SINTOMA 1731 1742	neutrofilia
+T22	PROCEDIMIENTO 203 214	TC torácico
+T23	PROCEDIMIENTO 761 764	ECG
+T24	PROCEDIMIENTO 790 798	Rx tórax
+T25	PROCEDIMIENTO 870 881	TC torácico
+T26	PROCEDIMIENTO 1056 1070	Cultivo esputo
+T27	PROCEDIMIENTO 1195 1219	aislamiento respiratorio
+T28	PROCEDIMIENTO 1221 1249	tratamiento tuberculostático
+T29	PROCEDIMIENTO 1546 1549	ECG
+T30	PROCEDIMIENTO 1628 1645	Radiografía tórax
+T31	PROCEDIMIENTO 1841 1869	Ecocardiograma transtorácico
+T32	PROCEDIMIENTO 1916 1932	AngioTC torácico
+T33	PROCEDIMIENTO 2132 2156	fibrinólisis intravenosa
+T34	NEG 582 589	afebril
+T35	NEG 743 746	sin
+T36	NSCO 747 759	alteraciones
+T37	NEG 1156 1158	no
+T38	NSCO 1159 1183	resistente a rifampicina
+T39	NEG 1431 1436	Niega
+T40	NSCO 1437 1462	inmovilización prolongada
+T41	NEG 1602 1604	no
+T42	NSCO 1605 1626	presentes previamente
+T43	FARMACO 1172 1183	rifampicina
+T44	FARMACO 1259 1270	enoxaparina
+T45	FARMACO 2158 2162	rTPA
+T46	FARMACO 2249 2261	acenocumarol
+T47	ORG_VIVO 0 5	Mujer
+T48	ORG_VIVO 1075 1079	BAAR
+T49	ORG_VIVO 1140 1183	M. tuberculosis no resistente a rifampicina
+T50	ORG_VIVO 1233 1249	tuberculostático
+T51	ORG_VIVO 2100 2108	paciente
+T52	ENFERMEDAD 27 49	consumidora de alcohol
+T53	ENFERMEDAD 52 78	cocaína inhalada ocasional
+T54	ENFERMEDAD 99 125	síndrome ansioso depresivo
+T55	ENFERMEDAD 709 721	coagulopatía
+T56	ENFERMEDAD 769 788	taquicardia sinusal
+T57	ENFERMEDAD 825 855	cavitación en vértice pulmonar
+T58	ENFERMEDAD 894 916	bronconeumonía bilobar
+T59	ENFERMEDAD 939 971	consolidación en lóbulo superior
+T60	ENFERMEDAD 1015 1054	adenopatías mediastínicas ipsilaterales
+T61	ENFERMEDAD 1143 1183	tuberculosis no resistente a rifampicina
+T62	ENFERMEDAD 1744 1782	insuficiencia respiratoria hipocápnica
+T63	ENFERMEDAD 1884 1906	disfunción ventricular
+T64	ENFERMEDAD 2028 2081	tuberculosis postprimaria con diseminación broncógena
+T65	PACIENTE-ACTIVIDAD 391 401	cooperante

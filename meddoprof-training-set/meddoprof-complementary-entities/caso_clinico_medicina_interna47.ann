@@ -1,0 +1,151 @@
+T1	SINTOMA 273 284	cervicalgia
+T2	SINTOMA 286 313	cefalea en región occipital
+T3	SINTOMA 315 321	fiebre
+T4	SINTOMA 339 346	náuseas
+T5	SINTOMA 349 356	vómitos
+T6	SINTOMA 578 617	dolor a la palpación cervical posterior
+T7	SINTOMA 676 703	dolor a la flexión cervical
+T8	SINTOMA 712 750	debilidad distal a la presión de manos
+T9	SINTOMA 752 815	hiperreflexia generalizada de predominio en miembros inferiores
+T10	SINTOMA 936 1053	hiperintensidad de señal en el estudio de difusión, localizada en la región posterior izquierda parasagital occipital
+T11	SINTOMA 1389 1423	dilatación del sistema ventricular
+T12	SINTOMA 2278 2297	cefalea refractaria
+T13	SINTOMA 2299 2306	náuseas
+T14	SINTOMA 2308 2315	vómitos
+T15	SINTOMA 2317 2323	ataxia
+T16	SINTOMA 2326 2335	nistagmus
+T17	SINTOMA 2954 2981	tumefacción supraclavicular
+T18	SINTOMA 2992 3035	enrojecimiento en región cervical posterior
+T19	SINTOMA 3872 3883	cervicalgia
+T20	SINTOMA 3895 3902	vómitos
+T21	SINTOMA 4422 4445	alteración de la marcha
+T22	SINTOMA 4493 4509	temblor de manos
+T23	SINTOMA 4511 4534	dificultad para caminar
+T24	SINTOMA 4536 4543	vómitos
+T25	SINTOMA 4566 4588	incontinencia urinaria
+T26	SINTOMA 4593 4599	fiebre
+T27	SINTOMA 4759 4766	cefalea
+T28	SINTOMA 4769 4794	inestabilidad a la marcha
+T29	SINTOMA 4944 4982	deterioro del nivel del estado general
+T30	SINTOMA 5040 5070	edematización de cara y cuello
+T31	SINTOMA 5072 5090	facies cushingoide
+T32	SINTOMA 5092 5114	temblor en ambas manos
+T33	PROCEDIMIENTO 551 569	exploración física
+T34	PROCEDIMIENTO 834 846	Fondo de ojo
+T35	PROCEDIMIENTO 887 916	resonancia magnética cerebral
+T36	PROCEDIMIENTO 918 921	RMC
+T37	PROCEDIMIENTO 1286 1289	RMC
+T38	PROCEDIMIENTO 1425 1451	Estudio vertebral cervical
+T39	PROCEDIMIENTO 1463 1520	Tomografía Axial Computarizada de tórax, abdomen y pelvis
+T40	PROCEDIMIENTO 1544 1558	punción lumbar
+T41	PROCEDIMIENTO 1780 1797	citología del LCR
+T42	PROCEDIMIENTO 1884 1887	RMC
+T43	PROCEDIMIENTO 2101 2129	intervención neuroquirúrgica
+T44	PROCEDIMIENTO 2155 2203	implantación de derivación ventrículo-peritoneal
+T45	PROCEDIMIENTO 2220 2227	biopsia
+T46	PROCEDIMIENTO 2432 2462	derivación ventricular externa
+T47	PROCEDIMIENTO 2464 2467	DVE
+T48	PROCEDIMIENTO 2543 2570	retirada de la anterior DVP
+T49	PROCEDIMIENTO 2676 2679	RMC
+T50	PROCEDIMIENTO 2882 2904	tratamiento esteroideo
+T51	PROCEDIMIENTO 3061 3064	TAC
+T52	PROCEDIMIENTO 3107 3121	punción lumbar
+T53	PROCEDIMIENTO 3265 3288	tratamiento corticoideo
+T54	PROCEDIMIENTO 3318 3329	antibiótico
+T55	PROCEDIMIENTO 3345 3356	corticoides
+T56	PROCEDIMIENTO 3519 3522	RMC
+T57	PROCEDIMIENTO 3932 3935	RMC
+T58	PROCEDIMIENTO 4897 4915	exploración física
+T59	PROCEDIMIENTO 5154 5165	corticoides
+T60	PROCEDIMIENTO 5256 5279	tratamiento corticoideo
+T61	PROCEDIMIENTO 5356 5372	biopsia cerebral
+T62	PROCEDIMIENTO 5643 5673	quistectomía en cisterna magna
+T63	PROCEDIMIENTO 5853 5877	estudios microbiológicos
+T64	PROCEDIMIENTO 5885 5892	biopsia
+T65	PROCEDIMIENTO 5986 6002	biopsia cerebral
+T66	NEG 115 118	sin
+T67	NSCO 119 155	viajes recientes a su país de origen
+T68	NEG 158 161	sin
+T69	NSCO 162 182	antecedentes médicos
+T70	NEG 619 622	sin
+T71	NSCO 623 639	signos meníngeos
+T72	UNC 1063 1074	sospecha de
+T73	USCO 1075 1124	mielopatía cervical con posible estatus migrañoso
+T74	NEG 1749 1758	negativos
+T75	NSCO 1758 1768	; cultivos
+T76	NEG 1769 1778	negativos
+T77	NEG 1832 1835	sin
+T78	NSCO 1836 1843	atipias
+T79	UNC 1974 1982	sospecha
+T80	USCO 1983 2012	clínica de meningitis crónica
+T81	UNC 2382 2393	sospecha de
+T82	USCO 2394 2414	disfunción de la DVP
+T83	NEG 2543 2554	retirada de
+T84	NSCO 2555 2570	la anterior DVP
+T85	NEG 2618 2620	no
+T86	NSCO 2621 2657	se apreciaba patología significativa
+T87	UNC 2798 2805	posible
+T88	USCO 2806 2861	neurosarcoidosis con hidrocefalia progresiva secundaria
+T89	NEG 3046 3048	no
+T90	NSCO 3049 3056	existía
+T91	NEG 3065 3067	no
+T92	NSCO 3068 3088	muestra alteraciones
+T93	NEG 3201 3203	no
+T94	NSCO 3204 3244	hay signos de infección sino de recidiva
+T95	NEG 3305 3314	suspender
+T96	NSCO 3315 3356	el antibiótico y aumentar los corticoides
+T97	NEG 3493 3501	negativo
+T98	NEG 4590 4592	no
+T99	NSCO 4593 4599	fiebre
+T100	NEG 4984 4987	sin
+T101	NSCO 4988 5009	focalidad neurológica
+T102	UNC 5377 5388	sospecha de
+T103	USCO 5389 5473	hidrocefalia arreabsortiva secundaria a probable meningitis crónica-neurosarcoidosis
+T104	NEG 5739 5741	no
+T105	NSCO 5742 5760	se puede confirmar
+T106	NEG 5768 5780	ausencia del
+T107	NSCO 5781 5789	parásito
+T108	NEG 5901 5909	negativo
+T109	NSCO 5910 5927	para tuberculosis
+T110	FARMACO 6061 6073	praziquantel
+T111	FARMACO 6076 6086	albendazol
+T112	ORG_VIVO 0 14	Paciente mujer
+T113	ORG_VIVO 59 63	hija
+T114	ORG_VIVO 67 73	padres
+T115	ORG_VIVO 1235 1256	Borrelia burgdorferii
+T116	ORG_VIVO 1738 1748	Criptococo
+T117	ORG_VIVO 1848 1856	paciente
+T118	ORG_VIVO 5719 5730	parasitario
+T119	ORG_VIVO 5781 5789	parásito
+T120	ORG_VIVO 5929 5935	hongos
+T121	ORG_VIVO 5937 5943	amebas
+T122	ORG_VIVO 5966 5979	Taenia solium
+T123	ORG_VIVO 6163 6171	paciente
+T124	ORG_VIVO 6471 6480	pacientes
+T125	ENFERMEDAD 1075 1094	mielopatía cervical
+T126	ENFERMEDAD 1107 1124	estatus migrañoso
+T127	ENFERMEDAD 1910 1922	hidrocefalia
+T128	ENFERMEDAD 1994 2012	meningitis crónica
+T129	ENFERMEDAD 2017 2040	hidrocefalia progresiva
+T130	ENFERMEDAD 2064 2089	hipertensión intracraneal
+T131	ENFERMEDAD 2775 2793	meningitis crónica
+T132	ENFERMEDAD 2806 2822	neurosarcoidosis
+T133	ENFERMEDAD 2827 2850	hidrocefalia progresiva
+T134	ENFERMEDAD 3389 3400	Sarcoidosis
+T135	ENFERMEDAD 3713 3768	quiste líquido a nivel de C3, de ángulo pontocerebeloso
+T136	ENFERMEDAD 3819 3858	quistes sean aracnoideos postmeningitis
+T137	ENFERMEDAD 4003 4142	lesiones de semiología quística en el interior del ventrículo lateral izquierdo, con extremo del catéter localizado en el tercer ventrículo
+T138	ENFERMEDAD 4161 4195	quística en ángulo pontocerebeloso
+T139	ENFERMEDAD 4306 4355	lesión quística hasta la altura de la vértebra C3
+T140	ENFERMEDAD 4479 4482	TCE
+T141	ENFERMEDAD 4623 4635	hidrocefalia
+T142	ENFERMEDAD 4826 4845	obstrucción del DVP
+T143	ENFERMEDAD 5215 5233	meningitis crónica
+T144	ENFERMEDAD 5389 5426	hidrocefalia arreabsortiva secundaria
+T145	ENFERMEDAD 5438 5473	meningitis crónica-neurosarcoidosis
+T146	ENFERMEDAD 5544 5573	quistes a nivel subaracnoideo
+T147	ENFERMEDAD 5675 5692	quiste festoneado
+T148	ENFERMEDAD 5795 5808	cisticercosis
+T149	ENFERMEDAD 6124 6142	neurocisticercosis
+T150	ENFERMEDAD 6223 6242	obstrucción del DVP
+T151	FAMILIAR-PROFESION 74 84	carniceros

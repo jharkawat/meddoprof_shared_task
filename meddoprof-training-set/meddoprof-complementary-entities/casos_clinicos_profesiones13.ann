@@ -1,0 +1,19 @@
+T1	SINTOMA 675 699	ex consumidor de tóxicos
+T2	NEG 675 677	ex
+T3	NSCO 678 699	consumidor de tóxicos
+T4	ORG_VIVO 3 11	paciente
+T5	ORG_VIVO 29 37	hermanos
+T6	ORG_VIVO 48 55	hermano
+T7	ORG_VIVO 90 96	padres
+T8	ORG_VIVO 224 232	paciente
+T9	ORG_VIVO 257 263	padres
+T10	ORG_VIVO 320 330	familiares
+T11	ORG_VIVO 394 402	paciente
+T12	ORG_VIVO 462 467	madre
+T13	ORG_VIVO 510 515	padre
+T14	ORG_VIVO 567 572	madre
+T15	ORG_VIVO 594 602	paciente
+T16	ORG_VIVO 646 652	pareja
+T17	FAMILIAR-PROFESION 107 110	ATS
+T18	FAMILIAR-PROFESION 112 151	trabajan en diferentes centros de salud
+T19	FAMILIAR-SITUACION_LABORAL 67 84	estudiando 1o ESO

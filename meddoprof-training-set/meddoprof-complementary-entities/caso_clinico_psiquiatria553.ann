@@ -1,0 +1,180 @@
+T1	SINTOMA 986 1001	síndrome febril
+T2	SINTOMA 1741 1776	ideas delirantes místico-religiosas
+T3	SINTOMA 1787 1810	alucinaciones auditivas
+T4	SINTOMA 1813 1830	tensión psicótica
+T5	SINTOMA 1958 1966	inquieto
+T6	SINTOMA 1969 1979	angustiado
+T7	SINTOMA 2209 2217	insomnio
+T8	SINTOMA 2250 2280	aumento de la ingesta calórica
+T9	SINTOMA 2623 2637	hiperactividad
+T10	SINTOMA 2640 2649	agitación
+T11	SINTOMA 2919 2938	lenguaje repetitivo
+T12	SINTOMA 3137 3146	confusión
+T13	SINTOMA 3148 3159	perplejidad
+T14	SINTOMA 3257 3262	miedo
+T15	SINTOMA 3308 3317	febrícula
+T16	SINTOMA 3514 3520	febril
+T17	SINTOMA 3531 3562	sudoración profusa generalizada
+T18	SINTOMA 3656 3663	rigidez
+T19	SINTOMA 4515 4526	hipertermia
+T20	SINTOMA 4549 4560	taquicardia
+T21	SINTOMA 5060 5071	hipertermia
+T22	SINTOMA 5304 5311	afebril
+T23	SINTOMA 5611 5619	ecolalia
+T24	SINTOMA 6064 6072	insomnio
+T25	SINTOMA 6105 6135	aumento de la ingesta calórica
+T26	SINTOMA 6326 6335	catatonía
+T27	SINTOMA 6699 6713	picos febriles
+T28	SINTOMA 7124 7141	risas inmotivadas
+T29	SINTOMA 9451 9460	catatonía
+T30	PROCEDIMIENTO 1154 1165	TAC craneal
+T31	PROCEDIMIENTO 1223 1243	radiografía de tórax
+T32	PROCEDIMIENTO 1254 1265	Urocultivos
+T33	PROCEDIMIENTO 1268 1280	hemocultivos
+T34	PROCEDIMIENTO 1423 1437	punción lumbar
+T35	PROCEDIMIENTO 1494 1518	medicación antipsicótica
+T36	PROCEDIMIENTO 1564 1593	medicación psicofarmacológica
+T37	PROCEDIMIENTO 2430 2460	tratamiento psicofarmacológico
+T38	PROCEDIMIENTO 3410 3430	radiografía de tórax
+T39	PROCEDIMIENTO 4201 4213	sueroterapia
+T40	PROCEDIMIENTO 4863 4877	punción lumbar
+T41	PROCEDIMIENTO 4979 4993	antibioterapia
+T42	PROCEDIMIENTO 5325 5338	fluidoterapia
+T43	PROCEDIMIENTO 5448 5463	benzodiacepinas
+T44	PROCEDIMIENTO 5558 5585	exploración psicopatológica
+T45	PROCEDIMIENTO 6392 6405	fluidoterapia
+T46	PROCEDIMIENTO 6409 6430	medicación parenteral
+T47	PROCEDIMIENTO 6580 6595	benzodiacepinas
+T48	PROCEDIMIENTO 6846 6873	medicación antihipertensiva
+T49	PROCEDIMIENTO 6934 6949	benzodiacepinas
+T50	PROCEDIMIENTO 7753 7762	hemograma
+T51	NEG 232 235	sin
+T52	NSCO 236 300	antecedentes somáticos ni de consumo de tóxicos en la actualidad
+T53	NEG 372 375	Sin
+T54	NSCO 376 437	otros antecedentes psiquiátricos en parientes de primer grado
+T55	NEG 598 601	Sin
+T56	NSCO 602 643	ingresos en Psiquiatría previos recientes
+T57	UNC 1006 1013	posible
+T58	USCO 1014 1030	"golpe de calor"
+T59	NEG 1111 1122	se descartó
+T60	NSCO 1123 1152	síndrome neuroléptico maligno
+T61	NEG 1291 1293	No
+T62	NSCO 1294 1321	se encontró foco infeccioso
+T63	NEG 1395 1397	no
+T64	NSCO 1398 1437	ser posible realizar una punción lumbar
+T65	UNC 1778 1786	posibles
+T66	USCO 1787 1810	alucinaciones auditivas
+T67	NEG 1832 1842	Se orienta
+T68	NSCO 1843 1887	la afectividad a descompensación hipomaniaca
+T69	NEG 2303 2308	nunca
+T70	NSCO 2309 2360	han visto un cuadro clínico similar al actual en él
+T71	NEG 3440 3442	no
+T72	NSCO 3443 3489	se aprecian imágenes de descompensación claras
+T73	NEG 3711 3714	sin
+T74	NSCO 3715 3772	problemas de deglución y episodios de retroversión ocular
+T75	UNC 4241 4249	probable
+T76	USCO 4250 4262	origen mixto
+T77	UNC 4625 4634	sin clara
+T78	USCO 4635 4655	rigidez generalizada
+T79	NEG 4665 4667	no
+T80	NSCO 4668 4670	se
+T81	NEG 4671 4680	descartan
+T82	NSCO 4681 4728	otras etiologías de la situación clínica actual
+T83	NEG 4730 4739	Se retira
+T84	NSCO 4740 4768	toda medicación neuroléptica
+T85	NEG 4945 4947	No
+T86	NSCO 4948 4993	se introduce en ningún momento antibioterapia
+T87	NEG 5019 5022	sin
+T88	NSCO 5023 5030	cambios
+T89	NEG 5304 5311	afebril
+T90	NEG 5734 5736	No
+T91	NSCO 5737 5784	flexibilidad cérea ni posturas antigravitatoias
+T92	UNC 6137 6150	impresiona de
+T93	USCO 6151 6170	afectividad maniaca
+T94	UNC 6299 6306	posible
+T95	USCO 6307 6335	episodio maniaco y catatonía
+T96	NEG 6375 6378	sin
+T97	NSCO 6379 6430	necesidad de fluidoterapia ni medicación parenteral
+T98	NEG 6742 6745	sin
+T99	NSCO 6746 6782	acompañamiento de síntomas de alarma
+T100	NEG 7037 7040	sin
+T101	NSCO 7041 7050	intención
+T102	UNC 7537 7545	posibles
+T103	USCO 7546 7565	efectos secundarios
+T104	NEG 8409 8423	desapareciendo
+T105	NSCO 8424 8448	los síntomas catatónicos
+T106	NEG 8602 8605	sin
+T107	NSCO 8606 8621	pararrespuestas
+T108	NEG 8821 8832	descartando
+T109	NSCO 8833 8844	organicidad
+T110	NEG 9178 9180	No
+T111	NSCO 9181 9202	muestra secundarismos
+T112	NEG 9437 9439	No
+T113	NSCO 9440 9460	clínica de catatonía
+T114	NEG 9517 9519	no
+T115	NSCO 9520 9550	se objetiva angustia psicótica
+T116	NEG 9552 9554	No
+T117	NSCO 9555 9590	impresiona de conducta alucinatoria
+T118	NEG 9599 9601	no
+T119	NSCO 9602 9621	podemos descartarla
+T120	FARMACO 716 726	quetiapina
+T121	FARMACO 740 750	olanzapina
+T122	FARMACO 788 799	aripiprazol
+T123	FARMACO 855 878	clorhidrato de glicerol
+T124	FARMACO 889 899	topiramato
+T125	FARMACO 913 923	bromazepam
+T126	FARMACO 1366 1377	ceftriaxona
+T127	FARMACO 1380 1391	vancomicina
+T128	FARMACO 4797 4807	dantroleno
+T129	FARMACO 4830 4839	midazolam
+T130	FARMACO 5360 5370	dantroleno
+T131	FARMACO 5380 5393	bromocriptina
+T132	FARMACO 6260 6272	clomipramina
+T133	FARMACO 6597 6606	lorazepam
+T134	FARMACO 6609 6617	diazepam
+T135	FARMACO 7492 7501	clozapina
+T136	FARMACO 7676 7685	clozapina
+T137	FARMACO 9087 9096	clozapina
+T138	FARMACO 9758 9767	clozapina
+T139	ORG_VIVO 0 5	Varón
+T140	ORG_VIVO 220 230	personales
+T141	ORG_VIVO 327 337	familiares
+T142	ORG_VIVO 339 352	primo hermano
+T143	ORG_VIVO 412 421	parientes
+T144	ORG_VIVO 529 539	psiquiatra
+T145	ORG_VIVO 1327 1335	paciente
+T146	ORG_VIVO 1723 1731	paciente
+T147	ORG_VIVO 1938 1946	paciente
+T148	ORG_VIVO 2008 2018	psiquiatra
+T149	ORG_VIVO 2076 2086	familiares
+T150	ORG_VIVO 2164 2172	paciente
+T151	ORG_VIVO 4160 4168	paciente
+T152	ORG_VIVO 5520 5528	paciente
+T153	ORG_VIVO 6048 6058	familiares
+T154	ORG_VIVO 6655 6663	paciente
+T155	ORG_VIVO 6903 6911	paciente
+T156	ORG_VIVO 7454 7464	familiares
+T157	ORG_VIVO 8333 8343	familiares
+T158	ORG_VIVO 8707 8717	familiares
+T159	ORG_VIVO 8963 8971	paciente
+T160	ORG_VIVO 9207 9215	paciente
+T161	ORG_VIVO 9661 9671	familiares
+T162	ENFERMEDAD 120 145	descompensación psicótica
+T163	ENFERMEDAD 302 311	Exfumador
+T164	ENFERMEDAD 357 370	esquizofrenia
+T165	ENFERMEDAD 485 508	esquizofrenia paranoide
+T166	ENFERMEDAD 1123 1152	síndrome neuroléptico maligno
+T167	ENFERMEDAD 1645 1676	descompensación psicopatológica
+T168	ENFERMEDAD 1860 1887	descompensación hipomaniaca
+T169	ENFERMEDAD 3845 3856	fallo renal
+T170	ENFERMEDAD 4218 4262	fracaso renal agudo de probable origen mixto
+T171	ENFERMEDAD 4398 4427	síndrome neuroléptico maligno
+T172	ENFERMEDAD 4466 4490	consumo de neurolépticos
+T173	ENFERMEDAD 4528 4547	crisis hipertensiva
+T174	ENFERMEDAD 5230 5250	hipernatremia ligera
+T175	ENFERMEDAD 6326 6335	catatonía
+T176	ENFERMEDAD 7470 7473	TEC
+T177	ENFERMEDAD 9451 9460	catatonía
+T178	ENFERMEDAD 9532 9550	angustia psicótica
+T179	SANITARIO-PROFESION 529 539	psiquiatra
+T180	SANITARIO-PROFESION 2008 2018	psiquiatra

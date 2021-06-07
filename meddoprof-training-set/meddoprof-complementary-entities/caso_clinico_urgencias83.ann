@@ -1,0 +1,51 @@
+T1	SINTOMA 338 346	disfonía
+T2	SINTOMA 357 366	disartria
+T3	SINTOMA 435 445	odinofagia
+T4	SINTOMA 450 457	otalgia
+T5	SINTOMA 462 465	tos
+T6	SINTOMA 469 482	expectoración
+T7	SINTOMA 487 493	fiebre
+T8	SINTOMA 512 520	disfagia
+T9	SINTOMA 786 794	nauseoso
+T10	SINTOMA 1375 1383	atetosis
+T11	SINTOMA 1385 1396	discinesias
+T12	SINTOMA 1399 1406	temblor
+T13	PROCEDIMIENTO 708 717	otoscopia
+T14	PROCEDIMIENTO 869 892	exploración neurológica
+T15	PROCEDIMIENTO 930 942	hematimetría
+T16	PROCEDIMIENTO 957 968	coagulación
+T17	PROCEDIMIENTO 971 989	electrocardiograma
+T18	PROCEDIMIENTO 1429 1432	TAC
+T19	PROCEDIMIENTO 1434 1473	tomografía axial computarizada) craneal
+T20	PROCEDIMIENTO 1545 1558	TAC de cráneo
+T21	PROCEDIMIENTO 1714 1717	RMN
+T22	PROCEDIMIENTO 1719 1756	resonancia magnética nuclear) craneal
+T23	PROCEDIMIENTO 1871 1892	TAC de base de cráneo
+T24	NEG 310 312	no
+T25	NSCO 313 346	se trata de una afonía o disfonía
+T26	NEG 387 390	sin
+T27	NSCO 391 430	otros datos de relación con el área ORL
+T28	NEG 432 434	no
+T29	NSCO 435 445	odinofagia
+T30	NEG 447 449	no
+T31	NSCO 450 457	otalgia
+T32	NEG 459 461	no
+T33	NSCO 462 482	tos ni expectoración
+T34	NEG 484 486	no
+T35	NSCO 487 531	fiebre...) acompañada de disfagia a líquidos
+T36	NEG 601 612	descartamos
+T37	NSCO 613 638	existencia de adenopatías
+T38	UNC 1478 1489	sospecha de
+T39	USCO 1490 1525	disfunción de pares craneales bajos
+T40	ORG_VIVO 26 34	paciente
+T41	ORG_VIVO 103 130	médico de atención primaria
+T42	ORG_VIVO 267 275	paciente
+T43	ORG_VIVO 1639 1647	paciente
+T44	ENFERMEDAD 627 638	adenopatías
+T45	ENFERMEDAD 1070 1161	Lesiones del sistema nervioso central: Disartria flácida: lesión en neurona motriz inferior
+T46	ENFERMEDAD 1184 1221	afectación en neurona motriz superior
+T47	ENFERMEDAD 1274 1309	Lesiones del sistema extrapiramidal
+T48	ENFERMEDAD 1326 1349	enfermedad de Parkinson
+T49	ENFERMEDAD 1490 1525	disfunción de pares craneales bajos
+T50	ENFERMEDAD 1575 1590	lesión parietal
+T51	SANITARIO-PROFESION 103 130	médico de atención primaria

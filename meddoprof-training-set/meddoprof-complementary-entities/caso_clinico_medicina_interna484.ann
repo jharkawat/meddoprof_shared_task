@@ -1,0 +1,49 @@
+T1	SINTOMA 98 120	molestias persistentes
+T2	PROCEDIMIENTO 82 93	TC torácico
+T3	PROCEDIMIENTO 292 295	PET
+T4	PROCEDIMIENTO 729 782	ecoendoscopia para biopsia de adenopatía mediastínica
+T5	PROCEDIMIENTO 867 870	PET
+T6	PROCEDIMIENTO 1026 1041	RMN dorsolumbar
+T7	PROCEDIMIENTO 1076 1098	tratamiento esteroideo
+T8	PROCEDIMIENTO 1133 1153	aislamiento en orina
+T9	PROCEDIMIENTO 1242 1263	antituberculostáticos
+T10	PROCEDIMIENTO 1375 1378	PET
+T11	PROCEDIMIENTO 1406 1426	retirando esteroides
+T12	NEG 122 134	Asintomático
+T13	NSCO 135 152	en otros aspectos
+T14	NEG 448 457	negativos
+T15	NEG 493 501	negativo
+T16	NSCO 502 537	con quantiferon débilmente positivo
+T17	NEG 784 787	sin
+T18	NSCO 788 798	malignidad
+T19	NEG 1043 1046	sin
+T20	NSCO 1047 1064	espondilodiscitis
+T21	UNC 1268 1275	posible
+T22	USCO 1276 1341	infección gatillo para la activación de una aortitis inflamatoria
+T23	NEG 1361 1363	no
+T24	NSCO 1364 1378	captaba en PET
+T25	FARMACO 1554 1568	Ciclofosfamida
+T26	ORG_VIVO 0 5	Varón
+T27	ORG_VIVO 360 373	Chlamydophila
+T28	ORG_VIVO 375 383	Coxiella
+T29	ORG_VIVO 385 395	Mycoplasma
+T30	ORG_VIVO 397 406	Treponema
+T31	ORG_VIVO 408 416	Brucella
+T32	ORG_VIVO 418 428	Salmonella
+T33	ORG_VIVO 430 442	Hepatotropos
+T34	ORG_VIVO 444 447	HIV
+T35	ORG_VIVO 462 465	VEB
+T36	ORG_VIVO 466 469	CMV
+T37	ORG_VIVO 842 855	Micobacterias
+T38	ORG_VIVO 1180 1214	micobacterium avium intracelullare
+T39	ENFERMEDAD 52 68	contusión costal
+T40	ENFERMEDAD 182 207	adenopatías mediastínicas
+T41	ENFERMEDAD 339 358	aortitis infecciosa
+T42	ENFERMEDAD 609 619	colestasis
+T43	ENFERMEDAD 687 711	cirrosis biliar primaria
+T44	ENFERMEDAD 759 782	adenopatía mediastínica
+T45	ENFERMEDAD 1047 1064	espondilodiscitis
+T46	ENFERMEDAD 1276 1293	infección gatillo
+T47	ENFERMEDAD 1320 1341	aortitis inflamatoria
+T48	ENFERMEDAD 1494 1518	fibrosis retroperitoneal
+T49	PACIENTE-PROFESION 18 26	Ganadero

@@ -1,0 +1,38 @@
+T1	SINTOMA 178 181	tos
+T2	SINTOMA 184 207	expectoración purulenta
+T3	SINTOMA 220 226	fiebre
+T4	SINTOMA 228 243	pérdida de peso
+T5	SINTOMA 245 264	sudoración nocturna
+T6	SINTOMA 431 440	dolorosas
+T7	PROCEDIMIENTO 296 314	exploración física
+T8	PROCEDIMIENTO 525 537	hemocultivos
+T9	PROCEDIMIENTO 715 735	TAC cervico-torácica
+T10	PROCEDIMIENTO 895 899	PAAF
+T11	PROCEDIMIENTO 947 965	biopsia ganglionar
+T12	NEG 18 21	sin
+T13	NSCO 22 45	antecedentes de interés
+T14	NEG 209 211	No
+T15	NSCO 212 288	refiere fiebre, pérdida de peso, sudoración nocturna, ni otra sintomatología
+T16	NEG 428 430	no
+T17	NSCO 431 453	dolorosas ni adheridas
+T18	NEG 620 629	negativos
+T19	NEG 904 906	no
+T20	NSCO 907 922	fue concluyente
+T21	UNC 1055 1070	compatibles con
+T22	USCO 1071 1096	linfadenitis necrotizante
+T23	NEG 1097 1099	no
+T24	NSCO 1100 1137	granulomatosa o Enfermedad de Kikuchi
+T25	ORG_VIVO 0 5	Mujer
+T26	ORG_VIVO 82 109	médico de atención primaria
+T27	ORG_VIVO 565 568	VIH
+T28	ORG_VIVO 570 579	hepatitis
+T29	ORG_VIVO 581 591	toxoplasma
+T30	ORG_VIVO 602 605	VEB
+T31	ORG_VIVO 608 611	CMV
+T32	ENFERMEDAD 131 153	adenopatías cervicales
+T33	ENFERMEDAD 335 395	adenopatías laterocervicales bilaterales y supraclaviculares
+T34	ENFERMEDAD 752 788	adenopatías en región laterocervical
+T35	ENFERMEDAD 1071 1113	linfadenitis necrotizante no granulomatosa
+T36	ENFERMEDAD 1116 1137	Enfermedad de Kikuchi
+T37	ENFERMEDAD 1139 1141	EK
+T38	SANITARIO-PROFESION 82 109	médico de atención primaria

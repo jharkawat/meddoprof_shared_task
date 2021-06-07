@@ -1,0 +1,121 @@
+T1	SINTOMA 194 201	Fumador
+T2	SINTOMA 455 475	dolor en hipocondrio
+T3	SINTOMA 495 507	subictericia
+T4	SINTOMA 538 545	náuseas
+T5	SINTOMA 571 578	astenia
+T6	SINTOMA 657 669	subictericia
+T7	SINTOMA 2182 2216	elevación de las enzimas hepáticas
+T8	SINTOMA 2274 2287	masa hepática
+T9	SINTOMA 2429 2436	fumador
+T10	SINTOMA 4448 4485	nódulos pulmonares en lóbulo superior
+T11	SINTOMA 5913 5949	dolor óseo a nivel de columna dorsal
+T12	SINTOMA 5952 5995	masa de rápido crecimiento en región axilar
+T13	SINTOMA 6353 6364	falleciendo
+T14	PROCEDIMIENTO 618 636	exploración física
+T15	PROCEDIMIENTO 724 743	ecografía abdominal
+T16	PROCEDIMIENTO 856 859	TAC
+T17	PROCEDIMIENTO 952 959	biopsia
+T18	PROCEDIMIENTO 1124 1150	gammagrafía con octeótride
+T19	PROCEDIMIENTO 1413 1486	transección parenquimatosa con cavitador-aspirador quirúrgico ultrasónico
+T20	PROCEDIMIENTO 1507 1527	hepatectomía derecha
+T21	PROCEDIMIENTO 1603 1622	estudio histológico
+T22	PROCEDIMIENTO 1835 1853	Exploración física
+T23	PROCEDIMIENTO 1978 1999	Exploración abdominal
+T24	PROCEDIMIENTO 2039 2050	laparotomía
+T25	PROCEDIMIENTO 2246 2259	TAC abdominal
+T26	PROCEDIMIENTO 2763 2775	TAC torácico
+T27	PROCEDIMIENTO 2914 2933	estudio histológico
+T28	PROCEDIMIENTO 3000 3012	TAC torácico
+T29	PROCEDIMIENTO 3357 3366	hemograma
+T30	PROCEDIMIENTO 3574 3592	inmunohistoquímica
+T31	PROCEDIMIENTO 3967 3990	quimioterapia paliativa
+T32	PROCEDIMIENTO 4173 4176	TAC
+T33	PROCEDIMIENTO 5364 5391	análisis inmunohistoquímico
+T34	PROCEDIMIENTO 6106 6129	radioterapia antiálgica
+T35	PROCEDIMIENTO 6223 6242	estudio histológico
+T36	NEG 81 84	sin
+T37	NSCO 85 144	antecedentes patológicos personales o familiares de interés
+T38	NEG 146 148	No
+T39	NSCO 149 192	reacciones alérgicas medicamentas conocidas
+T40	NEG 285 287	No
+T41	NSCO 288 312	toma medicación habitual
+T42	NEG 580 582	no
+T43	NSCO 583 610	refiere otra sintomatología
+T44	NEG 671 674	sin
+T45	NSCO 675 701	otros hallazgos de interés
+T46	NEG 1109 1111	no
+T47	NSCO 1112 1122	localizado
+T48	NEG 1151 1154	sin
+T49	NSCO 1155 1194	captación fuera del territorio hepático
+T50	NEG 1240 1248	negativo
+T51	NEG 1708 1710	no
+T52	NSCO 1711 1718	afectos
+T53	NEG 2000 2003	sin
+T54	NSCO 2004 2025	hallazgos patológicos
+T55	NEG 2067 2070	sin
+T56	NSCO 2071 2119	dehiscencias ni signos inflamatorios cicundantes
+T57	NEG 2372 2385	inespecíficos
+T58	NEG 2451 2453	no
+T59	NSCO 2454 2482	se consideran como tumorales
+T60	NEG 2703 2705	No
+T61	UNC 2968 2976	sospecha
+T62	USCO 2977 2991	inicial de TNE
+T63	NEG 3303 3305	no
+T64	NSCO 3306 3335	presenta estigmas de sangrado
+T65	NEG 3532 3543	se descarta
+T66	NSCO 3544 3566	que se trate de un TNE
+T67	NEG 3634 3643	negativos
+T68	UNC 4041 4048	posible
+T69	USCO 4049 4101	mantenimento posterior de gemcitabina en monoterapia
+T70	NEG 4254 4257	sin
+T71	NSCO 4258 4278	toxicidad de interés
+T72	NEG 4365 4380	desaparición de
+T73	NSCO 4381 4414	los nódulos presentes previamente
+T74	NEG 4497 4499	no
+T75	NSCO 4500 4527	presentes en estudio previo
+T76	NEG 4679 4691	asintomático
+T77	NEG 5512 5521	negativas
+T78	UNC 5563 5571	sugieren
+T79	USCO 5572 5619	el diagnóstico definitivo de un carcinoma mixto
+T80	UNC 5644 5653	sin claro
+T81	USCO 5654 5694	predominio de uno de los dos componentes
+T82	FARMACO 2630 2640	cisplatino
+T83	FARMACO 2641 2652	gemcitabina
+T84	FARMACO 3796 3807	enoxaparina
+T85	FARMACO 4013 4023	cisplatino
+T86	FARMACO 4024 4035	gemcitabina
+T87	FARMACO 4075 4086	gemcitabina
+T88	FARMACO 5747 5757	cisplatino
+T89	FARMACO 5758 5769	gemcitabina
+T90	FARMACO 5772 5781	sunitinib
+T91	ORG_VIVO 10 16	Hombre
+T92	ORG_VIVO 54 65	informático
+T93	ORG_VIVO 110 120	personales
+T94	ORG_VIVO 123 133	familiares
+T95	ORG_VIVO 317 325	paciente
+T96	ORG_VIVO 1276 1284	paciente
+T97	ORG_VIVO 1763 1771	paciente
+T98	ORG_VIVO 1902 1910	paciente
+T99	ORG_VIVO 2412 2420	paciente
+T100	ORG_VIVO 3294 3302	paciente
+T101	ORG_VIVO 3940 3948	paciente
+T102	ORG_VIVO 4117 4125	paciente
+T103	ORG_VIVO 4660 4668	paciente
+T104	ORG_VIVO 4986 4994	paciente
+T105	ORG_VIVO 6142 6150	paciente
+T106	ORG_VIVO 6247 6255	paciente
+T107	ENFERMEDAD 759 807	lesión ocupante de espacio en el lóbulo hepático
+T108	ENFERMEDAD 886 923	lesión dependiente de lóbulo hepático
+T109	ENFERMEDAD 1028 1062	metástasis de tumor neuroendocrino
+T110	ENFERMEDAD 1564 1598	metástasis de tumor neuroendocrino
+T111	ENFERMEDAD 1666 1697	colangiocarcinoma intrahepático
+T112	ENFERMEDAD 2988 2991	TNE
+T113	ENFERMEDAD 3251 3289	microangiopatía trombótica metastásica
+T114	ENFERMEDAD 3690 3721	colangiocarcinoma intrahepático
+T115	ENFERMEDAD 4448 4485	nódulos pulmonares en lóbulo superior
+T116	ENFERMEDAD 4768 4787	lesiones pulmonares
+T117	ENFERMEDAD 5604 5641	carcinoma mixto (adeno-neuroendocrino
+T118	ENFERMEDAD 6023 6078	metástasis óseas en varios cuerpos vertebrales y costal
+T119	ENFERMEDAD 6166 6181	úlcera gingival
+T120	ENFERMEDAD 6304 6351	pancitopenia mantenida por infiltración medular
+T121	PACIENTE-PROFESION 54 65	informático

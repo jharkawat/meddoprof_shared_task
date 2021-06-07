@@ -1,0 +1,79 @@
+T1	SINTOMA 386 396	dolor leve
+T2	SINTOMA 399 438	molestias a nivel del sacro y el periné
+T3	SINTOMA 580 589	orientado
+T4	SINTOMA 592 603	colaborador
+T5	SINTOMA 605 639	buena coloración de piel y mucosas
+T6	SINTOMA 810 836	Abdomen blando, depresible
+T7	SINTOMA 2779 2809	parestesias en silla de montar
+T8	SINTOMA 4398 4428	dolores lumbosacros y pélvicos
+T9	SINTOMA 4456 4465	ciatalgia
+T10	PROCEDIMIENTO 304 317	quimioterapia
+T11	PROCEDIMIENTO 320 332	radioterapia
+T12	PROCEDIMIENTO 554 567	Examen físico
+T13	PROCEDIMIENTO 720 747	Auscultación cardiopulmonar
+T14	PROCEDIMIENTO 756 780	Puño-percusión vertebral
+T15	PROCEDIMIENTO 995 1014	TC abdómino-pélvica
+T16	PROCEDIMIENTO 1170 1189	biopsia por punción
+T17	PROCEDIMIENTO 1440 1459	Sacrectomía parcial
+T18	PROCEDIMIENTO 1538 1574	sacrectomía parcial a nivel de S1-S2
+T19	PROCEDIMIENTO 1657 1664	biopsia
+T20	PROCEDIMIENTO 2655 2666	TC de sacro
+T21	PROCEDIMIENTO 2864 2896	TC de columna dorsolubar y sacra
+T22	PROCEDIMIENTO 2910 2927	resección parcial
+T23	PROCEDIMIENTO 3290 3302	RM de pelvis
+T24	PROCEDIMIENTO 3363 3382	sacrectomía parcial
+T25	PROCEDIMIENTO 4055 4083	estudios inmunohistoquímicos
+T26	PROCEDIMIENTO 4567 4587	resonancia magnética
+T27	NEG 37 40	sin
+T28	NSCO 41 93	alergias medicamentosas conocidas ni hábitos tóxicos
+T29	NEG 530 533	sin
+T30	NSCO 534 551	presentar mejoría
+T31	NEG 641 643	No
+T32	NSCO 644 718	presenta adenopatías cervicales, supraclaviculares, axilares ni inguinales
+T33	NEG 799 808	negativas
+T34	NEG 838 841	sin
+T35	NSCO 842 872	palpar organomegalias ni masas
+T36	NEG 908 910	No
+T37	NSCO 911 932	focalidad neurológica
+T38	NEG 1094 1097	sin
+T39	NSCO 1098 1113	calcificaciones
+T40	UNC 1129 1143	compatible con
+T41	USCO 1144 1151	cordoma
+T42	NEG 1346 1348	No
+T43	NSCO 1349 1366	atipia manifiesta
+T44	UNC 1375 1389	compatible con
+T45	USCO 1390 1397	cordoma
+T46	NEG 2056 2058	No
+T47	NSCO 2059 2079	se observa anaplasia
+T48	NEG 2304 2306	no
+T49	NSCO 2307 2357	expresan citoqueratina 20, citoqueratina 7 ni GFAP
+T50	NEG 2562 2564	no
+T51	NSCO 2565 2587	recibe más tratamiento
+T52	NEG 2668 2670	no
+T53	NSCO 2671 2704	observando progresión a ese nivel
+T54	UNC 3924 3939	compatibles con
+T55	USCO 3940 3968	afectación por cordoma sacro
+T56	NEG 4588 4591	sin
+T57	NSCO 4592 4622	presentar signos de progresión
+T58	NEG 4684 4687	sin
+T59	NSCO 4688 4711	referir toxicidad grave
+T60	FARMACO 150 159	enalapril
+T61	FARMACO 4188 4196	imatinib
+T62	FARMACO 4506 4515	metamizol
+T63	FARMACO 4518 4528	ibuprofeno
+T64	FARMACO 4643 4651	imatinib
+T65	ORG_VIVO 10 24	Paciente varón
+T66	ORG_VIVO 255 265	familiares
+T67	ORG_VIVO 267 272	madre
+T68	ORG_VIVO 2004 2013	población
+T69	ENFERMEDAD 41 64	alergias medicamentosas
+T70	ENFERMEDAD 95 116	Hipertensión arterial
+T71	ENFERMEDAD 277 291	cáncer de mama
+T72	ENFERMEDAD 653 694	adenopatías cervicales, supraclaviculares
+T73	ENFERMEDAD 1368 1397	Lesión compatible con cordoma
+T74	ENFERMEDAD 1610 1646	infecciones y secuelas esfinterianas
+T75	ENFERMEDAD 2538 2545	cordoma
+T76	ENFERMEDAD 3022 3067	proliferación neoplásica tipo cordoma clásico
+T77	ENFERMEDAD 3955 3968	cordoma sacro
+T78	ENFERMEDAD 4696 4711	toxicidad grave
+T79	PACIENTE-PROFESION 215 240	Trabaja en una gasolinera

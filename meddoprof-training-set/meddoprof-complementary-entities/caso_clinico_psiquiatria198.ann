@@ -1,0 +1,70 @@
+T1	SINTOMA 38 46	embarazo
+T2	SINTOMA 149 159	encopresis
+T3	SINTOMA 325 336	tartamudear
+T4	SINTOMA 1196 1204	angustia
+T5	SINTOMA 2557 2579	palabras entrecortadas
+T6	SINTOMA 3002 3025	dificultad es episódica
+T7	SINTOMA 3235 3245	tartamudeo
+T8	SINTOMA 3471 3483	espasmofemia
+T9	SINTOMA 3505 3521	efectos adversos
+T10	PROCEDIMIENTO 446 482	tratamiento logopédico y ansiolítico
+T11	PROCEDIMIENTO 1678 1701	tratamiento ansiolítico
+T12	PROCEDIMIENTO 1951 1962	TAC craneal
+T13	PROCEDIMIENTO 2303 2333	tratamiento psicofarmacológico
+T14	PROCEDIMIENTO 3627 3654	estudios con antipsicóticos
+T15	PROCEDIMIENTO 4278 4316	fármacos antidepresivos y ansiolíticos
+T16	NEG 0 2	No
+T17	NSCO 3 46	se recogen alteraciones durante el embarazo
+T18	NEG 178 181	sin
+T19	NSCO 182 237	otros datos de alteraciones en el desarrollo psicomotor
+T20	NEG 534 536	no
+T21	NSCO 537 567	experimentar mejoría subjetiva
+T22	NEG 1790 1799	descartar
+T23	NSCO 1800 1841	patología física que justifique el cuadro
+T24	NEG 1964 1966	No
+T25	NSCO 1967 2020	se hallaron anomalías significativas en estas pruebas
+T26	NEG 2222 2224	no
+T27	NSCO 2225 2227	se
+T28	NEG 3256 3266	desaparece
+T29	NSCO 3267 3305	en respuesta a situaciones específicas
+T30	FARMACO 2048 2070	clorazepato dipotásico
+T31	FARMACO 2353 2363	olanzapina
+T32	FARMACO 3686 3696	olanzapina
+T33	FARMACO 3699 3710	risperidona
+T34	FARMACO 3915 3926	risperidona
+T35	FARMACO 4036 4046	olanzapina
+T36	FARMACO 4325 4337	clomipramina
+T37	FARMACO 4339 4349	paroxetina
+T38	FARMACO 4351 4361	fluoxetina
+T39	FARMACO 4363 4373	citalopram
+T40	FARMACO 4375 4385	sertralina
+T41	FARMACO 4388 4398	alprazolam
+T42	ORG_VIVO 131 139	hermanos
+T43	ORG_VIVO 403 410	familia
+T44	ORG_VIVO 689 699	compañeros
+T45	ORG_VIVO 1028 1046	médico de cabecera
+T46	ORG_VIVO 1735 1743	paciente
+T47	ORG_VIVO 1930 1934	lués
+T48	ORG_VIVO 1936 1939	VHB
+T49	ORG_VIVO 1941 1944	VHC
+T50	ORG_VIVO 2095 2103	paciente
+T51	ORG_VIVO 2395 2403	paciente
+T52	ORG_VIVO 2646 2653	hombres
+T53	ORG_VIVO 2885 2897	progenitores
+T54	ORG_VIVO 3218 3230	adolescencia
+T55	ORG_VIVO 3348 3360	adolescencia
+T56	ORG_VIVO 3873 3877	niño
+T57	ORG_VIVO 3944 3955	adolescente
+T58	ORG_VIVO 4099 4108	pacientes
+T59	ENFERMEDAD 1494 1532	ansiedad neurovegetativa anticipatoria
+T60	ENFERMEDAD 2470 2478	ansiedad
+T61	ENFERMEDAD 2764 2792	hiperactividad dopaminérgica
+T62	ENFERMEDAD 2848 2866	traumas infantiles
+T63	ENFERMEDAD 2869 2877	enolismo
+T64	ENFERMEDAD 3109 3129	trastorno es crónico
+T65	ENFERMEDAD 3471 3483	espasmofemia
+T66	ENFERMEDAD 3854 3866	espasmofemia
+T67	ENFERMEDAD 4157 4165	ansiedad
+T68	OTROS-SITUACION_LABORAL 689 710	compañeros de colegio
+T69	SANITARIO-PROFESION 1028 1046	médico de cabecera
+T70	PACIENTE-PROFESION 833 839	óptico

@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 66 años de edad exfumador, con antecedentes personales de hipertensión arterial e hipercolesterolemia, sin antecedentes urológicos de interés. Es remitido por su médico de Atención Primaria por hematuria macroscópica intermitente de 4 meses de evolución, asociada a disuria e importante disminución del calibre miccional.
+
+Examen físico
+Abdomen no patológico. Genitales externos normales. Tacto rectal: próstata volumen II/IV con discreta induración del lóbulo izquierdo.
+
+Pruebas complementarias
+• Hemograma: sin hallazgos patológicos relevantes.
+• Bioquímica de sangre: sin hallazgos patológicos relevantes.
+• Antígeno prostático específico (PSA) total: 9,85 ng/ml. PSA libre: 1,88 ng/ml. Cociente PSA libre/total: 0,19.
+• Ecografía del aparato urinario: vejiga bien replecionada, cuyas paredes presentan un grosor normal, sin lesiones excrecentes intraluminales ni divertículos; próstata de volumen estimado de 87 cc. Riñones normales.
+• Citologías en orina (x3): una positiva y dos sospechosas para carcinoma urotelial.
+• Cistoscopia: en la uretra, a unos 6 cm del meato uretral, se evidencia una lesión papilar adherida a la pared a las 3 horarias de base estrecha, que ocupa la luz uretral; tras vencer dicha lesión, se avanza 1 cm, evidenciándose otra lesión de aspecto similar, pero de mayor tamaño, que no permite el paso del cistoscopio a la vejiga.
+
+Diagnóstico
+Neoplasia uretral. Elevación del PSA.
+
+Tratamiento
+A la vista de los hallazgos revelados en la cistoscopia y la elevación del PSA, se realiza resección endoscópica de las lesiones uretrales y biopsia prostática.
+Resección uretral: a 6 cm del meato uretral, en la uretra peneana, se evidencia una neoformación amplia, excrecente, de 1,5 cm y amplia base de implantación, sésil, que se reseca. Algo más posterior se objetiva un nódulo sólido de 5 mm, de aspecto infiltrante, que se reseca; inmediatamente posterior a este hay presente otra tumoración, de un tamaño aproximado de 1,8 cm, que ocupa toda la luz uretral, papilar, sésil y con base de implantación ancha, que se reseca en su práctica totalidad.
+Biopsia prostática transrectal: la ecografía revela una próstata homogénea y sin nódulos, de un volumen de 50 cc. Se toman siete biopsias por lóbulo.
+
+Evolución
+La evolución postoperatoria del paciente es favorable, cediendo la hematuria intermitente y mejorando de forma importante sus síntomas miccionales.
+El estudio histopatológico inicial se informa como:
+• Uretra: carcinoma urotelial papilar de alto grado, con infiltración focal aislada de la lámina propia.
+• Próstata: adenocarcinoma acinar pobremente diferenciado (Gleason 10), presente en cuatro cilindros de cada lóbulo, en una extensión del 70%.
+Sin embargo, al realizar el estudio inmunohistoquímico encontramos en ambas muestras positividad para fosfatasa ácida prostática (PAP) y el anticuerpo monoclonal P504S, marcadores ambos de tejido prostático, siendo negativos los marcadores uroteliales CK7, CK20 y K903.
+Con el diagnóstico definitivo de adenocarcinoma de próstata pobremente diferenciado con metástasis uretrales, se realiza el estudio de extensión con gammagrafía ósea y tomografía computarizada, no hallándose enfermedad en otras localizaciones.
+Instauramos bloqueo hormonal simple, con buena respuesta clínica. Tras un año de seguimiento, el paciente presenta un valor de PSA de 1,07 ng/ml.

@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 38 años, diestra, que consulta por presentar desde la adolescencia gran facilidad para quedarse dormida durante el día. La paciente refiere tener episodios de ataques de sueño, que no puede controlar, generalmente cuando se encuentra en situaciones de reposo o que no requieran una especial atención, pero no siempre. Debido a su trabajo tiene que cambiar con frecuencia de turno, variando la duración del sueño desde 4-5 horas hasta 11 horas diarias. Es frecuente que duerma siestas de hasta 2-3 horas, a pesar de haber dormido bien durante la noche. Aunque llegue a dormir 14 horas seguidas el resto del día, sigue teniendo momentos de somnolencia. Con cierta frecuencia, al entrar en sueño, aprecia imágenes y escenas conocidas relacionadas con lo que acababa de ver o le había sucedido previamente. No describe síntomas compatibles con parálisis del sueño ni tampoco episodios de pérdida de tono muscular. Estos síntomas le interfieren en su actividad laboral y le condicionan su vida cotidiana.
+Le han comentado que durante el sueño ronca, aunque no sabe si presenta apneas. No presenta cefalea matutina. Aprecia también que desde hace más de 10 años camina con mayor torpeza; de siempre le ha costado correr, y ha tenido caídas frecuentes por ello. No le da mayor importancia y nunca había consultado por ello, ya que lo atribuye a que siempre ha sido muy poco ágil.
+La paciente no tiene otros antecedentes patológicos de interés y no sigue ningún tratamiento médico de forma regular. Entre los antecedentes familiares, su padre está diagnosticado de distrofia miotónica tipo I (DM1) y es portador de marcapasos. Su hermana también está diagnosticada de DM1 y es portadora de marcapasos. Su madre fue intervenida de un meningioma.
+
+Examen físico
+Tensión arterial 90/70 mmHg, frecuencia cardiaca 60 lpm. Buena coloración de piel y mucosas. Auscultación cardiopulmonar normal. No soplos carotídeos. No ingurgitación yugular. Abdomen blando y depresible, sin visceromegalias. Pulsos periféricos presentes. Alopecia moderada de predominio frontal y más marcada en el vértex.
+Exploración neurológica: funciones superiores conservadas. Voz nasal. Leve disartria. Paladar ojival. Leve ptosis palpebral bilateral. Pupilas isocóricas y normorreactivas. Movimientos oculares extrínsecos sin limitación. Campimetría por confrontación normal. Fondo de ojo normal. No déficit motor ni sensitivo facial. Resto de pares craneales sin alteraciones. No déficit motor en las extremidades. Sensibilidad profunda y superficial normal. Reflejos osteotendinosos hipoactivos y simétricos. Reflejo cutáneo-plantar flexor bilateral. Amiotrofia de maseteros y musculatura distal de extremidades superiores. Fenómeno miotónico a la percusión en la eminencia tenar de ambas manos y en la lengua. Debilidad a 4–/5 de interóseos de ambas manos, 4–/5 flexo-extensión del carpo, 3/5 para flexión dorsal de ambos pies, a 3–/5 para la extensión del primer dedo del pie bilateralmente y 3+/5 en gemelos. Romberg negativo. Marcha lenta, a paso corto, arrastrando algo los pies. Puntas, talones y tándem no posibles. Hiperlordosis lumbar.
+
+Pruebas complementarias
+• Resonancia magnética (RM) cerebral: sin hallazgos significativos.
+• Pruebas de función respiratoria: alteración ventilatoria restrictiva incipiente.
+• EEG-polisomnografía: estudio compatible con síndrome de apneas obstructivas del sueño leve. El test de latencias muestra una latencia de sueño normal, pero en 3 de las 5 siestas la latencia es < 5 minutos, entrando en REM en 3 de ellas.
+• EMG: descargas miotónicas espontáneas y tras percusión difusa, más evidentes a nivel de la eminencia tenar e hipotenar. Los potenciales de unidad motora son de características miopáticas.
+• Electrocardiograma: arritmia sinusal con frecuencia cardiaca variable entre 45 y 60 lpm. Bloqueo de rama derecha.
+• Ecocardiograma-Doppler: ventrículo izquierdo de morfología y función sistólica normales. Velocidades Doppler normales. Resto del estudio normal.
+• Estudio genético: se confirma DM tipo1. 
+
+Diagnóstico
+Distrofia miotónica tipo 1 asociada a narcolepsia con alucinaciones hipnagógicas y sin cataplejia, con síndrome de apneas obstructivas del sueño leve.
+
+Tratamiento
+Se inicia tratamiento con modafinilo 100 mg en desayuno y comida.
+
+Evolución
+A los 2 meses, la hipersomnia diurna y los ataques de sueño incoercibles que motivaron la consulta inicial habían desaparecido, si bien refería mal descanso nocturno por despertar precoz, aunque no realizara siestas. Tres meses más tarde, la dosis de modafinilo del mediodía se redujo a la mitad. En esta revisión, la paciente tenía ya un adecuado sueño nocturno y aceptable nivel de alerta diurna, aunque todavía realizaba alguna siesta. El déficit motor y la torpeza al caminar se mantenían sin cambios. Dos meses después, la paciente suprime la toma de modafinilo del mediodía, constatándose en las revisiones efectuadas en los meses siguientes, la desaparición de la hipersomnia diurna y de las alucinaciones hipnagógicas. Dormía unas 8 horas por la noche con sueño reparador.

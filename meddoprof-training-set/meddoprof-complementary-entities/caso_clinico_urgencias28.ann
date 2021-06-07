@@ -1,0 +1,45 @@
+T1	SINTOMA 55 61	fiebre
+T2	SINTOMA 90 113	dolor en flanco derecho
+T3	SINTOMA 632 639	afebril
+T4	SINTOMA 724 738	masa abdominal
+T5	SINTOMA 782 790	dolorosa
+T6	SINTOMA 1357 1363	fiebre
+T7	SINTOMA 1379 1390	taquicardia
+T8	SINTOMA 1402 1413	hipotensión
+T9	SINTOMA 1416 1444	deterioro del estado general
+T10	SINTOMA 1447 1456	taquipnea
+T11	PROCEDIMIENTO 185 247	amputación supracondílea en 2008 de miembro inferior izquierdo
+T12	PROCEDIMIENTO 291 302	antibiótico
+T13	PROCEDIMIENTO 964 986	Estudio de coagulación
+T14	PROCEDIMIENTO 1007 1026	TC abdomino-pélvico
+T15	PROCEDIMIENTO 1484 1519	sueroterapia intensiva, antibiótico
+T16	PROCEDIMIENTO 1561 1579	drogas vasoactivas
+T17	PROCEDIMIENTO 1706 1725	drenaje del absceso
+T18	PROCEDIMIENTO 1830 1832	TC
+T19	PROCEDIMIENTO 1996 2015	nefrectomía derecha
+T20	NEG 115 117	No
+T21	NSCO 118 160	presenta alergias medicamentosas conocidas
+T22	NEG 545 547	no
+T23	NSCO 548 565	acude a las citas
+T24	NEG 632 639	afebril
+T25	NEG 779 781	no
+T26	NSCO 782 790	dolorosa
+T27	NEG 1028 1030	No
+T28	NSCO 1031 1057	se visualiza riñón derecho
+T29	NEG 1220 1222	No
+T30	NSCO 1223 1258	presenta otros hallazgos de interés
+T31	FARMACO 1521 1549	piperacilina–4 g– tazobaztam
+T32	FARMACO 1581 1594	noradrenalina
+T33	ORG_VIVO 0 5	Mujer
+T34	ORG_VIVO 460 467	E. coli
+T35	ORG_VIVO 536 544	paciente
+T36	ORG_VIVO 618 626	paciente
+T37	ORG_VIVO 1263 1271	paciente
+T38	ORG_VIVO 1636 1644	paciente
+T39	ORG_VIVO 1976 1984	paciente
+T40	ENFERMEDAD 252 275	infecciones posteriores
+T41	ENFERMEDAD 330 379	masa retroperitoneal de características quísticas
+T42	ENFERMEDAD 1076 1116	masa de aspecto quístico retroperitoneal
+T43	ENFERMEDAD 1186 1208	absceso sobre el riñón
+T44	ENFERMEDAD 1763 1786	absceso retroperitoneal
+T45	ENFERMEDAD 2020 2031	pionefrosis

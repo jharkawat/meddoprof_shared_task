@@ -1,0 +1,47 @@
+T1	SINTOMA 66 73	fumador
+T2	SINTOMA 197 203	fiebre
+T3	SINTOMA 232 243	escalofríos
+T4	SINTOMA 257 276	cefalea hemicraneal
+T5	SINTOMA 377 392	rigidez de nuca
+T6	SINTOMA 492 527	aumento de reactantes de fase aguda
+T7	SINTOMA 1058 1064	fiebre
+T8	SINTOMA 1066 1073	cefalea
+T9	SINTOMA 1076 1083	mialgia
+T10	SINTOMA 1243 1249	fiebre
+T11	SINTOMA 1489 1504	fiebre amarilla
+T12	SINTOMA 1506 1531	fiebre del Valle del Rift
+T13	SINTOMA 1561 1567	fiebre
+T14	PROCEDIMIENTO 588 600	hemocultivos
+T15	PROCEDIMIENTO 603 613	urocultivo
+T16	NEG 27 30	sin
+T17	NSCO 31 64	alergias medicamentosas conocidas
+T18	NEG 313 316	sin
+T19	NSCO 317 345	otra sintomatología asociada
+T20	NEG 365 376	ausencia de
+T21	NSCO 377 392	rigidez de nuca
+T22	NEG 394 396	no
+T23	NSCO 397 418	se palpan adenopatías
+T24	NEG 420 422	no
+T25	NSCO 423 440	lesiones cutáneas
+T26	NEG 614 623	negativos
+T27	UNC 777 791	compatible con
+T28	USCO 792 804	Leptopirosis
+T29	FARMACO 832 843	doxiciclina
+T30	ORG_VIVO 0 14	Paciente varón
+T31	ORG_VIVO 99 105	pareja
+T32	ORG_VIVO 139 147	animales
+T33	ORG_VIVO 149 155	vacuno
+T34	ORG_VIVO 157 164	porcino
+T35	ORG_VIVO 166 172	perros
+T36	ORG_VIVO 174 179	gatos
+T37	ORG_VIVO 678 688	leptospira
+T38	ENFERMEDAD 407 418	adenopatías
+T39	ENFERMEDAD 792 804	Leptopirosis
+T40	ENFERMEDAD 1012 1025	leptospirosis
+T41	ENFERMEDAD 1139 1158	infecciones virales
+T42	ENFERMEDAD 1264 1281	hepatitis virales
+T43	ENFERMEDAD 1287 1310	infección aguda por VIH
+T44	ENFERMEDAD 1387 1416	fiebre hemorrágica del dengue
+T45	ENFERMEDAD 1463 1487	infección por hantavirus
+T46	ENFERMEDAD 1533 1558	infecciones por filovirus
+T47	PACIENTE-PROFESION 115 147	trabaja en el campo con animales

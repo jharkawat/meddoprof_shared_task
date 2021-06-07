@@ -1,0 +1,22 @@
+Anamnesis
+Varón 67 años, sin alergias medicamentosas conocidas, fumador de 20 cigarrillos al día, con un índice acumulado de 50 paquetes-año, con los antecedentes de cardiopatía isquémica tipo infarto agudo de miocardio no Q hace 10 años revascularizada con tres stents, y moderado aumento de la concentración sérica de PSA con foco de glándulas atípicas en la biopsia prostática. Toma ácido acetilsalicílico 100 mg al día, simvastatina 20 mg al día y metoprolol 100 mg al día como tratamiento habitual. Acude a Urgencias porque mientras conducía, nota de forma brusca incapacidad para controlar la mano derecha (no sabía cambiar de marcha ni manejar las llaves), sin clara pérdida de fuerza, y desviación de la comisura labial. No refiere otra focalidad neurológica, dolor, fiebre, síntomas de infección ni otra clínica sistémica, ni traumatismos recientes. A su llegada es valorado por los médicos del Servicio de Urgencias, que activan el código ictus.
+
+Examen físico
+Exploración general: hemodinámicamente estable, eupneico, afebril. Normocoloreado, normohidratado, bien nutrido. Cabeza y cuello sin alteraciones. Auscultación cardiopulmonar normal. Abdomen sin alteraciones. Exploración de la extremidades normal. Exploración neurológica al ingreso: consciente, alerta, atención fluctuante (a veces obedece órdenes complejas pero no dice los días de la semana al revés, otras veces ni siquiera obedece órdenes sencillas), nomina, repite, sin parafasias, lectura y escritura no exploradas, orientado en tiempo, espacio y persona, agnosia digital, dificultad para la distinción derecha-izquierda, discalculia. Mínima paresia facial inferior derecha, con resto de pares craneales normales. Mínima claudicación del miembro superior derecho, con fuerza conservada y simétrica en las cuatro extremidades, reflejos de estiramiento muscular hipoactivos y reflejo cutáneo-plantar flexor bilateral. No rigidez ni movimientos anormales. Sensibilidad y coordinación sin alteraciones. Estática y marcha no exploradas. No signos meníngeos. NIHSS 3.
+
+Pruebas complementarias
+• Hemograma, bioquímica (incluyendo glucemia, iones, creatinina, perfil hepático, perfil lipídico, ácido úrico, vitamina B12 y ácido fólico) y coagulación sin alteraciones.
+• ECG: ritmo sinusal con bloqueo completo de la rama derecha.
+• Radiografía de tórax: normal.
+• TC craneal: se observan dos lesiones hipodensas con captación periférica de contraste y edema perilesional, de aproximadamente 3 cm y 1,5 cm de diámetro, parietooccipitales izquierdas.
+• EEG urgente: actividad lenta irregular en el hemisferio izquierdo, que adopta con frecuencia un patrón rítmico.
+
+Diagnóstico
+Varón de 67 años con un cuadro de inicio brusco consistente en nivel de atención fluctuante, dispraxia versus desaferentización del miembro superior derecho, agnosia digital, desorientación derecha-izquierda, discalculia y paresia facial inferior derecha, compatible con un estatus parcial complejo secundario a lesiones hipodensas con captación periférica de contraste y edema perilesional parietooccipitales izquierdas, pendientes de estudio.
+
+Tratamiento
+Se inicia terapia intravenosa con levetiracetam 1.000 mg cada 12 horas y dexametasona 4 mg cada 12 horas, y se cursa su ingreso a cargo de Medicina Interna para el estudio de las las lesiones cerebrales.
+
+Evolución
+Reinterrogando al paciente, no refería síndrome constitucional, clínica miccional, respiratoria, digestiva u otorrinolaringológica, ni lesiones cutáneas nuevas o de aspecto cambiante. Una hora después de llegar a Urgencias presentó una crisis tónico-clónica generalizada que cedió tras la administración de 2 mg de diazepam intravenoso. Al día siguiente, la exploración del paciente era completamente normal.
+En la TC tóraco-abdómino-pélvica realizada durante el ingreso no se encontró evidencia radiológica de metástasis, y los marcadores tumorales fueron normales. Con estos resultados, el paciente fue dado de alta y se programó su ingreso para realizar la biopsia de una de las lesiones cerebrales. La tinción de hematoxilina-eosina de la muestra es sugerente de adenocarcinoma, pero aún está pendiente de estudio inmunohistoquímico.

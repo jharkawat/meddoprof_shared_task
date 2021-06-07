@@ -1,0 +1,173 @@
+T1	SINTOMA 690 696	muguet
+T2	SINTOMA 700 709	hiperemia
+T3	SINTOMA 722 743	ingurgitación yugular
+T4	SINTOMA 779 803	tonos cardíacos rítmicos
+T5	SINTOMA 865 919	Abdomen blando, depresible, no doloroso a la palpación
+T6	SINTOMA 999 1005	edemas
+T7	SINTOMA 2245 2252	astenia
+T8	SINTOMA 3165 3168	tos
+T9	SINTOMA 3199 3205	disnea
+T10	SINTOMA 4607 4619	leucocitosis
+T11	SINTOMA 5599 5602	tos
+T12	SINTOMA 5605 5611	disnea
+T13	SINTOMA 5668 5709	manifestaciones sistémicas estaba ausente
+T14	SINTOMA 6028 6031	tos
+T15	SINTOMA 6033 6039	disnea
+T16	SINTOMA 6065 6083	nódulos pulmonares
+T17	SINTOMA 7141 7159	nódulos pulmonares
+T18	PROCEDIMIENTO 178 220	prostatectomía radical con linfadenectomía
+T19	PROCEDIMIENTO 618 636	Exploración física
+T20	PROCEDIMIENTO 1046 1069	Exploración neurológica
+T21	PROCEDIMIENTO 1306 1318	colonoscopia
+T22	PROCEDIMIENTO 1389 1396	biopsia
+T23	PROCEDIMIENTO 1513 1532	TC tóraco-abdominal
+T24	PROCEDIMIENTO 1759 1761	TC
+T25	PROCEDIMIENTO 2028 2041	quimioterapia
+T26	PROCEDIMIENTO 2105 2124	quimio-radioterapia
+T27	PROCEDIMIENTO 2203 2216	quimioterapia
+T28	PROCEDIMIENTO 2428 2447	quimiorradioterapia
+T29	PROCEDIMIENTO 2634 2661	resección anterior de recto
+T30	PROCEDIMIENTO 2666 2688	ileostomía de descarga
+T31	PROCEDIMIENTO 3223 3234	TC torácica
+T32	PROCEDIMIENTO 3830 3856	tratamiento quimioterápico
+T33	PROCEDIMIENTO 3873 3885	broncoscopia
+T34	PROCEDIMIENTO 3890 3911	lavado broncoalveolar
+T35	PROCEDIMIENTO 3966 3989	tratamiento antibiótico
+T36	PROCEDIMIENTO 4125 4127	TC
+T37	PROCEDIMIENTO 4278 4290	broncoscopia
+T38	PROCEDIMIENTO 4295 4304	citología
+T39	PROCEDIMIENTO 4517 4531	ecocardiograma
+T40	PROCEDIMIENTO 6360 6384	lavados broncoalveolares
+T41	PROCEDIMIENTO 6651 6667	biopsia pulmonar
+T42	PROCEDIMIENTO 6934 6978	corticoides y otros agentes inmunosupresores
+T43	PROCEDIMIENTO 7166 7168	TC
+T44	NEG 288 291	sin
+T45	NSCO 292 313	evidencia de recidiva
+T46	NEG 449 451	no
+T47	NSCO 452 475	presenta hábito enólico
+T48	NEG 477 479	No
+T49	NSCO 480 509	tiene alergias medicamentosas
+T50	NEG 678 680	no
+T51	NSCO 681 709	presenta muguet ni hiperemia
+T52	NEG 719 721	no
+T53	NSCO 722 743	ingurgitación yugular
+T54	NEG 745 748	Sin
+T55	NSCO 749 770	adenopatías palpables
+T56	NEG 805 808	sin
+T57	NSCO 809 815	soplos
+T58	NEG 893 895	no
+T59	NSCO 896 919	doloroso a la palpación
+T60	NEG 945 947	No
+T61	NSCO 948 968	se observan megalias
+T62	NEG 995 998	sin
+T63	NSCO 999 1044	edemas ni signos de trombosis venosa profunda
+T64	NEG 1162 1164	No
+T65	NSCO 1165 1174	focalidad
+T66	NEG 1861 1864	sin
+T67	NSCO 1865 1907	observarse afectación metastásica torácica
+T68	NEG 2377 2380	sin
+T69	NSCO 2381 2405	evidencia de adenopatías
+T70	NEG 2894 2897	sin
+T71	NSCO 2898 2937	metástasis ganglionares Tras la cirugía
+T72	NEG 3072 3075	sin
+T73	NSCO 3076 3099	evidencia de enfermedad
+T74	UNC 3455 3462	posible
+T75	USCO 3463 3486	recurrencia de su tumor
+T76	NEG 3535 3546	ausencia de
+T77	NSCO 3547 3582	un síndrome constitucional evidente
+T78	NEG 4305 4313	negativa
+T79	NSCO 4314 4329	para malignidad
+T80	NEG 4354 4357	sin
+T81	NSCO 4358 4381	alteraciones relevantes
+T82	NEG 4407 4418	ausencia de
+T83	NSCO 4419 4442	diagnóstico concluyente
+T84	NEG 4564 4566	no
+T85	NSCO 4567 4596	presentaba clínica infecciosa
+T86	NEG 4598 4600	No
+T87	NSCO 4601 4635	había leucocitosis en la analítica
+T88	NEG 4879 4888	negativos
+T89	NEG 5051 5053	no
+T90	NSCO 5054 5064	superiores
+T91	NEG 5238 5249	ausencia de
+T92	NSCO 5250 5302	antecedentes personales ocupacionales en el paciente
+T93	NEG 5363 5365	no
+T94	NSCO 5366 5393	existía daño renal ni nasal
+T95	NEG 5457 5466	negativos
+T96	NEG 5643 5645	No
+T97	NEG 6385 6387	no
+T98	NSCO 6388 6429	se habían observado células de Langerhans
+T99	NEG 6484 6486	No
+T100	UNC 6511 6520	descartar
+T101	USCO 6521 6524	una
+T102	UNC 6525 6533	probable
+T103	USCO 6534 6551	etiología tumoral
+T104	NEG 7121 7136	desaparición de
+T105	NSCO 7137 7178	los nódulos pulmonares en la TC realizada
+T106	FARMACO 543 555	simvastatina
+T107	FARMACO 581 591	alprazolam
+T108	FARMACO 2046 2058	capecitabina
+T109	FARMACO 2059 2071	oxaliplatino
+T110	FARMACO 2072 2082	irinotecán
+T111	FARMACO 3994 4007	levofloxacino
+T112	ORG_VIVO 10 24	Paciente varón
+T113	ORG_VIVO 38 49	funcionario
+T114	ORG_VIVO 111 121	personales
+T115	ORG_VIVO 2186 2194	paciente
+T116	ORG_VIVO 2942 2950	paciente
+T117	ORG_VIVO 3109 3117	paciente
+T118	ORG_VIVO 3934 3943	neumococo
+T119	ORG_VIVO 4065 4073	paciente
+T120	ORG_VIVO 4552 4560	paciente
+T121	ORG_VIVO 4793 4802	Influenza
+T122	ORG_VIVO 4804 4819	citomegalovirus
+T123	ORG_VIVO 4821 4849	virus respiratorio sincitial
+T124	ORG_VIVO 5263 5273	personales
+T125	ORG_VIVO 5294 5302	paciente
+T126	ORG_VIVO 5788 5796	paciente
+T127	ORG_VIVO 5959 5967	paciente
+T128	ORG_VIVO 6199 6207	paciente
+T129	ORG_VIVO 6789 6797	paciente
+T130	ORG_VIVO 6816 6822	tabaco
+T131	ORG_VIVO 7042 7050	paciente
+T132	ENFERMEDAD 134 160	adenocarcinoma de próstata
+T133	ENFERMEDAD 340 350	dislipemia
+T134	ENFERMEDAD 749 760	adenopatías
+T135	ENFERMEDAD 1019 1044	trombosis venosa profunda
+T136	ENFERMEDAD 1243 1264	estreñimiento crónico
+T137	ENFERMEDAD 1416 1477	adenocarcinoma moderadamente diferenciado de intestino grueso
+T138	ENFERMEDAD 1561 1591	lesión estenosante en el recto
+T139	ENFERMEDAD 1664 1754	adenopatías de 8 mm (mesorrecto y arteria ilíaca interna izquierda) de aspecto metastásico
+T140	ENFERMEDAD 1785 1803	lesiones hepáticas
+T141	ENFERMEDAD 1887 1907	metastásica torácica
+T142	ENFERMEDAD 1935 2002	adenocarcinoma de recto localmente avanzado con afectación hepática
+T143	ENFERMEDAD 2139 2153	tumor primario
+T144	ENFERMEDAD 2163 2181	lesiones hepáticas
+T145	ENFERMEDAD 2394 2405	adenopatías
+T146	ENFERMEDAD 2503 2520	proctitis grado 2
+T147	ENFERMEDAD 2523 2562	radiodermitis grado 2 en pliegue glúteo
+T148	ENFERMEDAD 2611 2631	metástasis hepáticas
+T149	ENFERMEDAD 2763 2797	adenocarcinoma de intestino grueso
+T150	ENFERMEDAD 2799 2806	pT3,pN0
+T151	ENFERMEDAD 2810 2848	metástasis hepáticas de adenocarcinoma
+T152	ENFERMEDAD 2898 2921	metástasis ganglionares
+T153	ENFERMEDAD 3550 3573	síndrome constitucional
+T154	ENFERMEDAD 4485 4501	Émbolos sépticos
+T155	ENFERMEDAD 4639 4675	Abscesos/infección por micobacterias
+T156	ENFERMEDAD 4719 4746	infección por micobacterias
+T157	ENFERMEDAD 4749 4757	abscesos
+T158	ENFERMEDAD 4892 4921	Malformaciones arteriovenosas
+T159	ENFERMEDAD 4959 4987	nódulos pulmonares múltiples
+T160	ENFERMEDAD 5098 5127	síndrome de Rendu-Osler-Weber
+T161	ENFERMEDAD 5131 5144	Neumoconiosis
+T162	ENFERMEDAD 5306 5333	Granulomatosis-poliangeitis
+T163	ENFERMEDAD 5336 5361	poliangeítis microscópica
+T164	ENFERMEDAD 5374 5384	daño renal
+T165	ENFERMEDAD 5470 5497	Granulomatosis linfomatoide
+T166	ENFERMEDAD 5499 5510	amiloidosis
+T167	ENFERMEDAD 5513 5524	sarcoidosis
+T168	ENFERMEDAD 5804 5822	cáncer metastásico
+T169	ENFERMEDAD 6298 6336	histiocitosis de células de Langerhans
+T170	ENFERMEDAD 6581 6600	lesiones pulmonares
+T171	ENFERMEDAD 6688 6726	histiocitosis de células de Langerhans
+T172	ENFERMEDAD 7141 7159	nódulos pulmonares
+T173	PACIENTE-PROFESION 38 49	funcionario

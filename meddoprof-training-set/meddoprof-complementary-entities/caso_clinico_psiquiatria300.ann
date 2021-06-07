@@ -1,0 +1,80 @@
+T1	SINTOMA 768 776	insomnio
+T2	SINTOMA 793 831	alteraciones conductuales persistentes
+T3	SINTOMA 969 987	intensa sudoración
+T4	SINTOMA 1256 1271	facies crispada
+T5	SINTOMA 1395 1410	pérdida de peso
+T6	SINTOMA 1913 1938	síntomas neurovegetativos
+T7	SINTOMA 2024 2033	febrícula
+T8	SINTOMA 2328 2358	aumento de proteína C reactiva
+T9	SINTOMA 2370 2382	Leucocitosis
+T10	SINTOMA 3657 3688	alteración motriz catatoniforme
+T11	SINTOMA 3690 3701	taquicardia
+T12	SINTOMA 3703 3712	febrícula
+T13	SINTOMA 3715 3732	aumento de la CPK
+T14	SINTOMA 4251 4280	alteraciones neurovegetativas
+T15	PROCEDIMIENTO 613 643	tratamiento psicofarmacológico
+T16	PROCEDIMIENTO 868 886	exploración física
+T17	PROCEDIMIENTO 1432 1464	colocación de sonda nasogástrica
+T18	PROCEDIMIENTO 2264 2283	analítica de sangre
+T19	PROCEDIMIENTO 2462 2482	radiografía de tórax
+T20	PROCEDIMIENTO 2573 2591	analítica de orina
+T21	PROCEDIMIENTO 2622 2678	Tomografía axial computerizada toracoabdominal y craneal
+T22	PROCEDIMIENTO 2699 2713	punción lumbar
+T23	PROCEDIMIENTO 2719 2755	análisis del líquido cefalorraquídeo
+T24	PROCEDIMIENTO 2804 2820	punción tiroidea
+T25	PROCEDIMIENTO 2989 3019	tratamiento psicofarmacológico
+T26	PROCEDIMIENTO 3276 3299	tratamiento antibiótico
+T27	PROCEDIMIENTO 3397 3412	benzodiacepinas
+T28	PROCEDIMIENTO 3820 3846	retirada de antipsicóticos
+T29	NEG 207 217	incapaz de
+T30	NSCO 218 245	emitir lenguaje inteligible
+T31	NEG 937 940	sin
+T32	NSCO 941 967	características distónicas
+T33	NEG 1335 1338	sin
+T34	NSCO 1339 1372	alteración en la tensión arterial
+T35	UNC 2114 2125	sospecha de
+T36	USCO 2126 2164	malignización de sus nódulos tiroideso
+T37	NEG 2592 2594	no
+T38	NSCO 2595 2616	mostraba alteraciones
+T39	NEG 2756 2758	no
+T40	NSCO 2759 2781	mostraron alteraciones
+T41	NEG 3127 3136	se retira
+T42	NSCO 3137 3167	el tratamiento con risperidona
+T43	NEG 3439 3442	sin
+T44	NSCO 3443 3452	resultado
+T45	NEG 3469 3483	incapacidad de
+T46	NSCO 3484 3502	control conductual
+T47	NEG 3503 3506	sin
+T48	NSCO 3507 3541	antipsicóticos motiva su reingreso
+T49	UNC 3602 3613	probable de
+T50	USCO 3614 3655	CP por los hallazgos clínicos compatibles
+T51	NEG 3820 3831	retirada de
+T52	NSCO 3832 3846	antipsicóticos
+T53	NEG 4159 4161	no
+T54	NSCO 4162 4280	se han producido nuevas recaídas afectivas, alteraciones en la motilidad del paciente ni alteraciones neurovegetativas
+T55	FARMACO 397 408	risperidona
+T56	FARMACO 418 427	lorazepam
+T57	FARMACO 3156 3167	risperidona
+T58	FARMACO 3397 3412	benzodiacepinas
+T59	FARMACO 3414 3423	Loracepam
+T60	FARMACO 3427 3438	lamotrigina
+T61	FARMACO 3881 3891	olanzapina
+T62	FARMACO 3894 3905	periciazina
+T63	FARMACO 4003 4008	litio
+T64	ORG_VIVO 0 5	Varón
+T65	ORG_VIVO 110 118	personas
+T66	ORG_VIVO 270 280	personales
+T67	ORG_VIVO 1111 1121	cuidadores
+T68	ORG_VIVO 2977 2985	paciente
+T69	ORG_VIVO 4239 4247	paciente
+T70	ENFERMEDAD 21 63	encefalopatía hipóxica de origen perinatal
+T71	ENFERMEDAD 123 165	trastorno del desarrollo intelectual grave
+T72	ENFERMEDAD 304 321	nódulos tiroideos
+T73	ENFERMEDAD 1233 1243	exoftalmos
+T74	ENFERMEDAD 2126 2164	malignización de sus nódulos tiroideso
+T75	ENFERMEDAD 2853 2875	bocio coloide quístico
+T76	ENFERMEDAD 3050 3079	síndrome neuroléptico maligno
+T77	ENFERMEDAD 3085 3104	neumonía aspirativa
+T78	ENFERMEDAD 3767 3770	SNM
+T79	ENFERMEDAD 4105 4132	cuadros afectivos bipolares
+T80	OTROS-PROFESION 1111 1121	cuidadores

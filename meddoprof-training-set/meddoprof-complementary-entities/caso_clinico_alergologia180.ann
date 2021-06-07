@@ -1,0 +1,21 @@
+T1	SINTOMA 171 217	exantema pruriginoso de distribución universal
+T2	SINTOMA 222 229	cefalea
+T3	SINTOMA 231 246	dolor abdominal
+T4	SINTOMA 249 260	nerviosismo
+T5	SINTOMA 300 307	afebril
+T6	SINTOMA 309 317	sudorosa
+T7	SINTOMA 328 336	exantema
+T8	SINTOMA 434 445	taquicardia
+T9	SINTOMA 510 523	broncoespasmo
+T10	PROCEDIMIENTO 268 286	exploración física
+T11	PROCEDIMIENTO 476 497	auscultación pulmonar
+T12	PROCEDIMIENTO 539 571	tratamiento con antihistamínicos
+T13	PROCEDIMIENTO 574 592	corticoides orales
+T14	NEG 300 307	afebril
+T15	NEG 498 500	no
+T16	NSCO 501 523	presenta broncoespasmo
+T17	ORG_VIVO 37 45	paciente
+T18	ORG_VIVO 165 169	atún
+T19	ORG_VIVO 701 709	Infantil
+T20	ENFERMEDAD 434 454	taquicardia moderada
+T21	ENFERMEDAD 510 523	broncoespasmo

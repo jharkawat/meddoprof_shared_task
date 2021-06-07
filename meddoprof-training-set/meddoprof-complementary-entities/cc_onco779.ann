@@ -1,0 +1,103 @@
+T1	SINTOMA 282 293	pruriginosa
+T2	SINTOMA 827 837	masa renal
+T3	SINTOMA 2623 2630	diarrea
+T4	SINTOMA 2632 2641	disgeusia
+T5	SINTOMA 2644 2651	astenia
+T6	SINTOMA 3874 3892	nódulos pulmonares
+T7	SINTOMA 4070 4076	disnea
+T8	PROCEDIMIENTO 340 358	Exploración física
+T9	PROCEDIMIENTO 537 555	exploración física
+T10	PROCEDIMIENTO 621 651	exéresis del nódulo subcutáneo
+T11	PROCEDIMIENTO 759 783	TC toracoabdominopélvica
+T12	PROCEDIMIENTO 1652 1670	análisis sanguíneo
+T13	PROCEDIMIENTO 1720 1729	hemograma
+T14	PROCEDIMIENTO 1751 1761	TC craneal
+T15	PROCEDIMIENTO 1863 1914	nefrectomía radical izquierda por vía laparoscópica
+T16	PROCEDIMIENTO 3348 3350	TC
+T17	PROCEDIMIENTO 4145 4176	pruebas de función respiratoria
+T18	PROCEDIMIENTO 4178 4190	broncoscopia
+T19	PROCEDIMIENTO 4193 4214	lavado broncoalveolar
+T20	PROCEDIMIENTO 4472 4474	TC
+T21	PROCEDIMIENTO 4686 4712	suprarrenalectomía derecha
+T22	PROCEDIMIENTO 4717 4742	estudio anatomopatológico
+T23	PROCEDIMIENTO 4866 4882	TC posquirúrgica
+T24	NEG 28 31	sin
+T25	NSCO 32 67	antecedentes patológicos de interés
+T26	NEG 295 297	No
+T27	NSCO 298 337	comenta ningún otro síntoma acompañante
+T28	NEG 444 446	no
+T29	NSCO 447 455	doloroso
+T30	UNC 691 705	compatible con
+T31	USCO 706 733	carcinoma de células claras
+T32	UNC 1510 1525	compatibles con
+T33	USCO 1526 1536	metástasis
+T34	NEG 1621 1623	no
+T35	NSCO 1624 1647	muestra otros hallazgos
+T36	NEG 1762 1764	no
+T37	NSCO 1765 1798	se observan hallazgos patológicos
+T38	UNC 2039 2045	claras
+T39	NEG 2136 2139	sin
+T40	NSCO 2140 2175	antecedentes patológicos de interés
+T41	UNC 2217 2223	claras
+T42	USCO 2224 2269	metastásico con afectación pulmonar y cutánea
+T43	NEG 2708 2710	no
+T44	NSCO 2711 2766	le limitan sus actividades cotidianas de la vida diaria
+T45	NEG 3285 3297	asintomático
+T46	NEG 3762 3774	asintomático
+T47	NEG 4055 4057	no
+T48	NSCO 4058 4099	le ocasiona disnea ni otra sintomatología
+T49	NEG 4216 4219	sin
+T50	NSCO 4220 4243	evidencia de enfermedad
+T51	UNC 4806 4812	claras
+T52	NEG 4941 4944	sin
+T53	NSCO 4945 4971	otros hallazgos relevantes
+T54	NEG 5011 5013	no
+T55	NSCO 5014 5047	condiciona ninguna sintomatología
+T56	NEG 5199 5211	asintomático
+T57	FARMACO 2402 2406	VEGF
+T58	FARMACO 2411 2420	sunitinib
+T59	FARMACO 2933 2942	sunitinib
+T60	FARMACO 3171 3180	sunitinib
+T61	FARMACO 3564 3573	nivolumab
+T62	FARMACO 3661 3670	nivolumab
+T63	FARMACO 4283 4292	nivolumab
+T64	FARMACO 4445 4454	nivolumab
+T65	FARMACO 4851 4860	nivolumab
+T66	ORG_VIVO 10 16	Hombre
+T67	ORG_VIVO 95 122	médico de Atención Primaria
+T68	ORG_VIVO 1838 1846	paciente
+T69	ORG_VIVO 2117 2123	hombre
+T70	ORG_VIVO 2535 2543	paciente
+T71	ORG_VIVO 3047 3055	paciente
+T72	ORG_VIVO 3185 3193	paciente
+T73	ORG_VIVO 3259 3267	paciente
+T74	ORG_VIVO 3726 3734	paciente
+T75	ORG_VIVO 3926 3934	paciente
+T76	ORG_VIVO 4297 4305	paciente
+T77	ORG_VIVO 4817 4825	paciente
+T78	ORG_VIVO 5064 5072	paciente
+T79	ENFERMEDAD 147 184	lesión cutánea en el flanco izquierdo
+T80	ENFERMEDAD 386 403	nódulo subcutáneo
+T81	ENFERMEDAD 706 733	carcinoma de células claras
+T82	ENFERMEDAD 1021 1065	infiltración de la arteria renal en el hilio
+T83	ENFERMEDAD 1389 1418	nódulo subcutáneo metastásico
+T84	ENFERMEDAD 1456 1474	nódulos pulmonares
+T85	ENFERMEDAD 1526 1536	metástasis
+T86	ENFERMEDAD 1547 1567	adenopatías hiliares
+T87	ENFERMEDAD 1932 1953	metástasis subcutánea
+T88	ENFERMEDAD 2012 2045	carcinoma renal de células claras
+T89	ENFERMEDAD 2190 2269	carcinoma renal de células claras metastásico con afectación pulmonar y cutánea
+T90	ENFERMEDAD 2323 2341	Tumores Urológicos
+T91	ENFERMEDAD 2604 2621	síndrome mano-pie
+T92	ENFERMEDAD 2668 2678	sarcopenia
+T93	ENFERMEDAD 3312 3329	síndrome mano-pie
+T94	ENFERMEDAD 3380 3399	progresión pulmonar
+T95	ENFERMEDAD 3462 3493	nódulos pulmonares metastásicos
+T96	ENFERMEDAD 4018 4050	neumonitis a nivel de la língula
+T97	ENFERMEDAD 4123 4133	neumonitis
+T98	ENFERMEDAD 4478 4521	nódulo de 1,5 cm en la glándula suprarrenal
+T99	ENFERMEDAD 4574 4593	lesiones pulmonares
+T100	ENFERMEDAD 4642 4660	Tumores Urológicos
+T101	ENFERMEDAD 4771 4812	metástasis de carcinoma de células claras
+T102	ENFERMEDAD 4981 4991	neumonitis
+T103	SANITARIO-PROFESION 95 122	médico de Atención Primaria

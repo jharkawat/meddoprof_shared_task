@@ -1,0 +1,56 @@
+T1	SINTOMA 403 410	fumador
+T2	SINTOMA 1212 1220	angustia
+T3	SINTOMA 1381 1399	sentirse deprimido
+T4	SINTOMA 2057 2066	orientado
+T5	SINTOMA 2129 2146	descuido personal
+T6	SINTOMA 2200 2223	alucinaciones auditivas
+T7	SINTOMA 2357 2365	Insomnio
+T8	PROCEDIMIENTO 1565 1590	tratamiento antipsicótico
+T9	PROCEDIMIENTO 1754 1779	tratamiento antipsicótico
+T10	PROCEDIMIENTO 2017 2044	Exploración psicopatológica
+T11	PROCEDIMIENTO 2426 2437	TAC craneal
+T12	PROCEDIMIENTO 2550 2553	EEG
+T13	PROCEDIMIENTO 2573 2576	RMN
+T14	NEG 150 152	No
+T15	NSCO 153 204	presenta antecedentes personales médicos de interés
+T16	NEG 769 771	no
+T17	NSCO 772 793	avanzaras en la vida"
+T18	NEG 1615 1618	sin
+T19	NSCO 1619 1639	mejoría de su cuadro
+T20	NEG 1828 1836	suprimir
+T21	NSCO 1837 1865	el fármaco por dicha mejoría
+T22	NEG 2117 2128	ausencia de
+T23	NSCO 2129 2146	descuido personal
+T24	NEG 2197 2199	No
+T25	NSCO 2200 2247	alucinaciones auditivas ni de otras modalidades
+T26	NEG 2270 2272	no
+T27	NSCO 2273 2303	es lo más destacado del cuadro
+T28	NEG 2515 2518	sin
+T29	NSCO 2519 2548	otras alteraciones valorables
+T30	NEG 2577 2580	sin
+T31	NSCO 2581 2590	hallazgos
+T32	ORG_VIVO 15 20	varón
+T33	ORG_VIVO 52 57	madre
+T34	ORG_VIVO 95 99	hijo
+T35	ORG_VIVO 175 185	personales
+T36	ORG_VIVO 230 240	familiares
+T37	ORG_VIVO 343 359	familiar paterna
+T38	ORG_VIVO 393 398	madre
+T39	ORG_VIVO 427 433	tabaco
+T40	ORG_VIVO 459 467	cannabis
+T41	ORG_VIVO 957 964	familia
+T42	ORG_VIVO 986 994	personas
+T43	ORG_VIVO 1026 1034	personas
+T44	ORG_VIVO 1072 1079	vecinos
+T45	ORG_VIVO 1684 1692	cannabis
+T46	ORG_VIVO 1997 2005	cannabis
+T47	ORG_VIVO 2138 2146	personal
+T48	ENFERMEDAD 281 303	patología psiquiátrica
+T49	ENFERMEDAD 311 359	suicidios consumados en la rama familiar paterna
+T50	ENFERMEDAD 366 386	tentativa autolítica
+T51	ENFERMEDAD 448 467	consumo de cannabis
+T52	ENFERMEDAD 2148 2183	Ideación delirante autorreferencial
+T53	ENFERMEDAD 2186 2195	paranoide
+T54	ENFERMEDAD 2357 2375	Insomnio ocasional
+T55	ENFERMEDAD 2439 2461	angioma venoso frontal
+T56	PACIENTE-PROFESION 112 148	trabaja en una empresa de publicidad

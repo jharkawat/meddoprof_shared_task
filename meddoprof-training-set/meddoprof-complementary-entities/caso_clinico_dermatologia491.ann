@@ -1,0 +1,46 @@
+T1	SINTOMA 1629 1648	eritema pruriginoso
+T2	SINTOMA 1651 1658	pápulas
+T3	SINTOMA 1705 1716	descamación
+T4	PROCEDIMIENTO 169 187	pomada antibiótica
+T5	PROCEDIMIENTO 307 330	tatuaje en el antebrazo
+T6	PROCEDIMIENTO 576 596	antihistamínico oral
+T7	PROCEDIMIENTO 945 964	pruebas epicutáneas
+T8	PROCEDIMIENTO 1756 1775	pruebas epicutáneas
+T9	NEG 41 44	sin
+T10	NSCO 45 100	antecedentes personales de atopia ni médicos de interés
+T11	NEG 646 649	sin
+T12	NSCO 650 661	incidencias
+T13	NEG 1227 1235	negativo
+T14	NEG 1268 1270	No
+T15	NSCO 1271 1312	se hicieron epicutáneas con Liade® pomada
+T16	NEG 1389 1391	no
+T17	NSCO 1392 1422	aplicó la pomada bajo oclusión
+T18	NEG 1488 1496	negativo
+T19	UNC 1965 1971	dudosa
+T20	NEG 2095 2104	negativas
+T21	FARMACO 523 530	Urbason
+T22	FARMACO 708 725	neomicina sulfato
+T23	FARMACO 727 747	polimixina B sulfato
+T24	FARMACO 750 761	bacitracina
+T25	FARMACO 815 827	clorhexidina
+T26	FARMACO 853 873	salicilato de metilo
+T27	FARMACO 1007 1016	neomicina
+T28	FARMACO 1019 1030	bacitracina
+T29	FARMACO 1176 1188	clorhexidina
+T30	FARMACO 1817 1826	neomicina
+T31	FARMACO 1828 1839	bacitracina
+T32	FARMACO 1842 1852	polimixina
+T33	FARMACO 1856 1868	clorhexidina
+T34	FARMACO 2012 2021	neomicina
+T35	FARMACO 2043 2055	polimixina B
+T36	FARMACO 2058 2070	clorhexidina
+T37	ORG_VIVO 0 5	Mujer
+T38	ORG_VIVO 58 68	personales
+T39	ORG_VIVO 1380 1388	paciente
+T40	ORG_VIVO 1427 1431	ROAT
+T41	ENFERMEDAD 72 78	atopia
+T42	ENFERMEDAD 271 280	infección
+T43	ENFERMEDAD 377 406	erupción papulosa pruriginosa
+T44	ENFERMEDAD 1113 1135	Dermatitis de Contacto
+T45	ENFERMEDAD 1138 1153	Alergia Cutánea
+T46	PACIENTE-PROFESION 18 39	trabaja en hostelería

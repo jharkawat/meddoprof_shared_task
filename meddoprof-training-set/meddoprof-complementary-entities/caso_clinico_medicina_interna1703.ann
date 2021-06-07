@@ -1,0 +1,41 @@
+T1	SINTOMA 180 205	tumoración laterocervical
+T2	SINTOMA 497 506	disartria
+T3	SINTOMA 860 899	inflamación, situada en región cervical
+T4	PROCEDIMIENTO 600 635	contraindicación de anticoagulación
+T5	PROCEDIMIENTO 711 729	exploración física
+T6	PROCEDIMIENTO 954 972	ecografía cervical
+T7	PROCEDIMIENTO 1062 1065	TAC
+T8	PROCEDIMIENTO 1372 1389	anestesia general
+T9	NEG 217 229	asintomática
+T10	NEG 818 820	no
+T11	NSCO 821 844	dolorosa a la palpación
+T12	NEG 846 849	sin
+T13	NSCO 850 871	signos de inflamación
+T14	UNC 988 996	probable
+T15	USCO 997 1024	quiste branquial de 2o arco
+T16	UNC 1219 1233	compatible con
+T17	USCO 1234 1250	quiste branquial
+T18	UNC 1252 1265	probablemente
+T19	USCO 1266 1318	del tercer arco) o malformación linfática unilocular
+T20	NEG 1848 1850	no
+T21	NSCO 1851 1858	atípico
+T22	NEG 1909 1912	sin
+T23	NSCO 1913 1966	evidencia de epitelio escamoso o de tipo respiratorio
+T24	NEG 2064 2067	sin
+T25	NSCO 2068 2082	complicaciones
+T26	ORG_VIVO 26 40	paciente varón
+T27	ORG_VIVO 127 145	médico de cabecera
+T28	ORG_VIVO 1323 1331	paciente
+T29	ENFERMEDAD 350 373	cavernomatosis múltiple
+T30	ENFERMEDAD 375 398	cavernoma mesencefálico
+T31	ENFERMEDAD 400 436	hemiprotuberancial derecho y frontal
+T32	ENFERMEDAD 465 486	hemiparesia espástica
+T33	ENFERMEDAD 511 535	hemorragia mesencefálica
+T34	ENFERMEDAD 565 590	trombosis venosa profunda
+T35	ENFERMEDAD 997 1024	quiste branquial de 2o arco
+T36	ENFERMEDAD 1105 1135	lesión quística laterocervical
+T37	ENFERMEDAD 1150 1178	triángulo cervical posterior
+T38	ENFERMEDAD 1234 1281	quiste branquial (probablemente del tercer arco
+T39	ENFERMEDAD 1285 1318	malformación linfática unilocular
+T40	ENFERMEDAD 2004 2035	malformación linfática quística
+T41	SANITARIO-PROFESION 127 145	médico de cabecera

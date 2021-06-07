@@ -1,0 +1,157 @@
+T1	SINTOMA 678 683	edema
+T2	SINTOMA 686 704	eritema de la mama
+T3	SINTOMA 849 856	eritema
+T4	SINTOMA 1161 1186	aumento difuso de la mama
+T5	SINTOMA 1210 1231	engrosamiento cutáneo
+T6	SINTOMA 1277 1297	edema difuso cutáneo
+T7	SINTOMA 3171 3178	diarrea
+T8	SINTOMA 3325 3360	deterioro de la función ventricular
+T9	SINTOMA 4416 4423	astenia
+T10	SINTOMA 4425 4433	anorexia
+T11	SINTOMA 4436 4451	pérdida de peso
+T12	SINTOMA 4566 4577	normocítica
+T13	SINTOMA 4580 4592	normocrómica
+T14	SINTOMA 5904 5910	fiebre
+T15	SINTOMA 5940 5962	pérdida de consciencia
+T16	SINTOMA 6003 6011	síncopes
+T17	PROCEDIMIENTO 332 346	ecocardiograma
+T18	PROCEDIMIENTO 755 773	Exploración física
+T19	PROCEDIMIENTO 858 879	Auscultación cardíaca
+T20	PROCEDIMIENTO 955 958	ECG
+T21	PROCEDIMIENTO 1133 1143	mamografía
+T22	PROCEDIMIENTO 1242 1259	ecografía de mama
+T23	PROCEDIMIENTO 1409 1435	ecografía axilar izquierda
+T24	PROCEDIMIENTO 1548 1572	biopsia con aguja gruesa
+T25	PROCEDIMIENTO 1769 1802	punción aspiración con aguja fina
+T26	PROCEDIMIENTO 1804 1808	PAAF
+T27	PROCEDIMIENTO 2015 2035	Radiografía de tórax
+T28	PROCEDIMIENTO 2037 2056	ecografía abdominal
+T29	PROCEDIMIENTO 2059 2075	gammagrafía ósea
+T30	PROCEDIMIENTO 2528 2554	tratamiento quimioterápico
+T31	PROCEDIMIENTO 2738 2762	tratamiento neoadyuvante
+T32	PROCEDIMIENTO 3246 3272	ventriculografía isotópica
+T33	PROCEDIMIENTO 3520 3529	ecografía
+T34	PROCEDIMIENTO 3531 3541	mamografía
+T35	PROCEDIMIENTO 3544 3562	resonancia mamaria
+T36	PROCEDIMIENTO 3752 3763	mastectomía
+T37	PROCEDIMIENTO 3766 3799	linfadenectomía axilar izquierdas
+T38	PROCEDIMIENTO 3823 3842	estudio histológico
+T39	PROCEDIMIENTO 4219 4239	radioterapia externa
+T40	PROCEDIMIENTO 4489 4509	marcadores tumorales
+T41	PROCEDIMIENTO 4705 4729	tratamiento neoadyuvante
+T42	PROCEDIMIENTO 4902 4920	TC toracoabdominal
+T43	PROCEDIMIENTO 5228 5244	Gammagrafía ósea
+T44	PROCEDIMIENTO 6076 6079	ECG
+T45	PROCEDIMIENTO 6175 6184	anamnesis
+T46	PROCEDIMIENTO 6545 6592	colocación de un marcapasos externo transitorio
+T47	PROCEDIMIENTO 6814 6836	marcapasos transitorio
+T48	NEG 537 539	No
+T49	NSCO 540 555	hábitos tóxicos
+T50	NEG 570 572	No
+T51	NSCO 573 608	antecedentes oncológicos familiares
+T52	UNC 1500 1508	sugieren
+T53	USCO 1509 1529	infiltración tumoral
+T54	NEG 1732 1741	negativos
+T55	NEG 2256 2265	negativos
+T56	NEG 3122 3131	suspender
+T57	NSCO 3132 3188	a la décima semana del tratamiento por diarrea grado III
+T58	NEG 3310 3313	sin
+T59	NSCO 3314 3360	observarse deterioro de la función ventricular
+T60	NEG 3596 3598	no
+T61	NSCO 3599 3636	se visualizan captaciones patológicas
+T62	NEG 3800 3803	sin
+T63	NSCO 3804 3818	complicaciones
+T64	NEG 3864 3866	no
+T65	NSCO 3867 3936	evidenció restos tumorales y los ganglios resecados fueron igualmente
+T66	NEG 3937 3946	negativos
+T67	NEG 4084 4092	retirada
+T68	NSCO 4093 4139	antes de completar el tratamiento neoadyuvante
+T69	NEG 4141 4153	se desestima
+T70	NSCO 4154 4192	continuar con el mismo tras la cirugía
+T71	UNC 4789 4796	posible
+T72	USCO 4797 4823	sangrado por vía digestiva
+T73	NEG 4839 4847	negativa
+T74	NSCO 4848 4884	y empeorar la clínica de la paciente
+T75	UNC 5158 5173	compatibles con
+T76	USCO 5174 5184	metástasis
+T77	NEG 5186 5189	sin
+T78	NSCO 5190 5226	evidencia de enfermedad a otro nivel
+T79	NEG 5245 5253	negativa
+T80	UNC 5783 5794	sospecha de
+T81	USCO 5795 5822	infección respiratoria alta
+T82	UNC 5987 6002	compatibles con
+T83	USCO 6003 6011	síncopes
+T84	UNC 6276 6290	compatible con
+T85	USCO 6291 6430	una taquicardia ventricular de QRS ancho a 250 lpm sugerente de torsade de pointes que revierte espontáneamente transcurridos unos segundos
+T86	NEG 6621 6633	se suspenden
+T87	NSCO 6634 6652	todos los fármacos
+T88	NEG 6801 6810	se retira
+T89	NSCO 6811 6836	el marcapasos transitorio
+T90	NEG 6837 6840	sin
+T91	NSCO 6841 6855	complicaciones
+T92	FARMACO 132 141	enalapril
+T93	FARMACO 180 190	metformina
+T94	FARMACO 505 508	AAS
+T95	FARMACO 510 520	ivabradina
+T96	FARMACO 523 535	simvastatina
+T97	FARMACO 2691 2704	antraciclinas
+T98	FARMACO 2707 2718	trastuzumab
+T99	FARMACO 2789 2798	lapatinib
+T100	FARMACO 2894 2904	paclitaxel
+T101	FARMACO 3051 3060	lapatinib
+T102	FARMACO 3438 3448	paclitaxel
+T103	FARMACO 4058 4067	lapatinib
+T104	FARMACO 5324 5333	lapatinib
+T105	FARMACO 5407 5419	capecitabina
+T106	FARMACO 5456 5465	lapatinib
+T107	FARMACO 5751 5764	levofloxacino
+T108	FARMACO 6704 6714	ivabradina
+T109	FARMACO 6716 6729	levofloxacino
+T110	FARMACO 6732 6741	lapatinib
+T111	FARMACO 7000 7009	amikacina
+T112	FARMACO 7012 7021	linezolid
+T113	ORG_VIVO 10 15	Mujer
+T114	ORG_VIVO 598 608	familiares
+T115	ORG_VIVO 774 782	Paciente
+T116	ORG_VIVO 2290 2298	paciente
+T117	ORG_VIVO 2452 2460	paciente
+T118	ORG_VIVO 2613 2621	paciente
+T119	ORG_VIVO 2961 2969	paciente
+T120	ORG_VIVO 3684 3692	paciente
+T121	ORG_VIVO 4384 4392	paciente
+T122	ORG_VIVO 4876 4884	paciente
+T123	ORG_VIVO 5717 5725	paciente
+T124	ORG_VIVO 5857 5865	paciente
+T125	ORG_VIVO 6154 6162	paciente
+T126	ORG_VIVO 6189 6197	paciente
+T127	ORG_VIVO 7169 7177	paciente
+T128	ENFERMEDAD 28 52	alérgica a la penicilina
+T129	ENFERMEDAD 74 89	hernia de hiato
+T130	ENFERMEDAD 91 112	hipertensión arterial
+T131	ENFERMEDAD 143 160	diabetes mellitus
+T132	ENFERMEDAD 197 221	cardiopatía degenerativa
+T133	ENFERMEDAD 226 251	dilatación del ventrículo
+T134	ENFERMEDAD 443 472	insuficiencia mitral moderada
+T135	ENFERMEDAD 1049 1089	trastornos de repolarización secundarios
+T136	ENFERMEDAD 1448 1468	adenopatías axilares
+T137	ENFERMEDAD 1585 1599	lesión mamaria
+T138	ENFERMEDAD 1637 1665	carcinoma ductal infiltrante
+T139	ENFERMEDAD 1839 1874	metástasis de carcinoma en la axila
+T140	ENFERMEDAD 2177 2207	Carcinoma inflamatorio de mama
+T141	ENFERMEDAD 2318 2342	cardiopatía degenerativa
+T142	ENFERMEDAD 2416 2431	tumores de mama
+T143	ENFERMEDAD 2469 2507	neoplasia mamaria de tipo inflamatorio
+T144	ENFERMEDAD 3072 3098	toxicidad gastrointestinal
+T145	ENFERMEDAD 3171 3188	diarrea grado III
+T146	ENFERMEDAD 4017 4067	toxicidad gastrointestinal producida por lapatinib
+T147	ENFERMEDAD 4544 4550	anemia
+T148	ENFERMEDAD 4797 4823	sangrado por vía digestiva
+T149	ENFERMEDAD 4973 4991	lesiones hepáticas
+T150	ENFERMEDAD 5174 5184	metástasis
+T151	ENFERMEDAD 5546 5572	toxicidad gastrointestinal
+T152	ENFERMEDAD 5795 5822	infección respiratoria alta
+T153	ENFERMEDAD 6003 6011	síncopes
+T154	ENFERMEDAD 6295 6318	taquicardia ventricular
+T155	ENFERMEDAD 6355 6373	torsade de pointes
+T156	ENFERMEDAD 6923 6952	sepsis de origen respiratorio
+T157	PACIENTE-SITUACION_LABORAL 557 568	Ama de casa

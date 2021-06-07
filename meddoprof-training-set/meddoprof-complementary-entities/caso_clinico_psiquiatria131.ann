@@ -1,0 +1,80 @@
+T1	SINTOMA 504 513	impulsivo
+T2	SINTOMA 516 524	inquieto
+T3	SINTOMA 590 604	hiperactividad
+T4	SINTOMA 1457 1471	remordimientos
+T5	SINTOMA 1485 1497	culpabilidad
+T6	SINTOMA 2295 2303	embarazo
+T7	SINTOMA 2912 2923	nerviosismo
+T8	SINTOMA 3167 3176	irritable
+T9	SINTOMA 3254 3273	síntomas psicóticos
+T10	PROCEDIMIENTO 3457 3466	anamnesis
+T11	NEG 230 232	no
+T12	NSCO 233 251	conoce las normas»
+T13	NEG 450 453	sin
+T14	NSCO 454 483	importarle el posible castigo
+T15	NEG 1442 1444	no
+T16	NSCO 1445 1545	tenía nunca remordimientos, ni mostraba culpabilidad, ni le importaban los sentimientos de los demás
+T17	NEG 1566 1568	no
+T18	NSCO 1569 1614	le interesaban ni atendía a las instrucciones
+T19	NEG 1669 1671	no
+T20	NSCO 1672 1689	hacía sus deberes
+T21	UNC 1835 1836	?
+T22	USCO 1836 1837	»
+T23	NEG 1909 1911	no
+T24	NSCO 1912 1938	caía bien a sus compañeros
+T25	NEG 2381 2383	No
+T26	NSCO 2384 2443	había antecedentes de abusos sexuales ni de maltrato físico
+T27	NEG 2451 2453	no
+T28	NSCO 2454 2544	tenía enfermedades, ni abusaba del alcohol u otras sustancias, ni era miembro de pandillas
+T29	NEG 2546 2551	Nunca
+T30	NSCO 2552 2610	lo habían atrapado con armas, ni había provocado incendios
+T31	NEG 3284 3286	no
+T32	NSCO 3287 3306	se sentía deprimido
+T33	NEG 3308 3310	No
+T34	NSCO 3311 3346	tenía déficits cognitivos evidentes
+T35	NEG 3355 3357	no
+T36	NSCO 3358 3396	quiso someterse a pruebas más formales
+T37	FARMACO 775 785	quetiapina
+T38	FARMACO 788 804	dexmetilfenidato
+T39	ORG_VIVO 12 17	chico
+T40	ORG_VIVO 149 154	madre
+T41	ORG_VIVO 220 224	hijo
+T42	ORG_VIVO 263 267	niño
+T43	ORG_VIVO 318 323	niños
+T44	ORG_VIVO 368 373	madre
+T45	ORG_VIVO 378 387	padrastro
+T46	ORG_VIVO 393 401	profesor
+T47	ORG_VIVO 724 734	psiquiatra
+T48	ORG_VIVO 909 919	psiquiatra
+T49	ORG_VIVO 1117 1126	compañero
+T50	ORG_VIVO 1211 1217	chicos
+T51	ORG_VIVO 1282 1287	madre
+T52	ORG_VIVO 1294 1304	profesores
+T53	ORG_VIVO 1379 1384	gente
+T54	ORG_VIVO 1849 1854	madre
+T55	ORG_VIVO 1861 1871	profesores
+T56	ORG_VIVO 1928 1938	compañeros
+T57	ORG_VIVO 1959 1964	madre
+T58	ORG_VIVO 1969 1978	padrastro
+T59	ORG_VIVO 1991 1999	hermanos
+T60	ORG_VIVO 2024 2033	padrastro
+T61	ORG_VIVO 2054 2059	madre
+T62	ORG_VIVO 2120 2125	padre
+T63	ORG_VIVO 2188 2195	abuelos
+T64	ORG_VIVO 2663 2668	niños
+T65	ORG_VIVO 2675 2683	animales
+T66	ORG_VIVO 2861 2866	chico
+T67	ENFERMEDAD 555 587	trastorno de déficit de atención
+T68	ENFERMEDAD 606 610	TDAH
+T69	ENFERMEDAD 2219 2241	dependencia alcohólica
+T70	ENFERMEDAD 3210 3218	suicidio
+T71	FAMILIAR-SITUACION_LABORAL 2041 2048	en paro
+T72	OTROS-PROFESION 1294 1304	profesores
+T73	OTROS-PROFESION 1861 1871	profesores
+T74	SANITARIO-PROFESION 724 734	psiquiatra
+T75	SANITARIO-PROFESION 909 919	psiquiatra
+T76	OTROS-PROFESION 393 401	profesor
+T77	OTROS-SITUACION_LABORAL 1117 1126	compañero
+T78	OTROS-SITUACION_LABORAL 1928 1938	compañeros
+T79	FAMILIAR-PROFESION 2073 2115	cajera a tiempo parcial en un supermercado
+T80	FAMILIAR-SITUACION_LABORAL 2143 2155	en la cárcel

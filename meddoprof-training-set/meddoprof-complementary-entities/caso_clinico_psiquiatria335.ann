@@ -1,0 +1,14 @@
+T1	SINTOMA 20 58	síntomas psicóticos esquizofreniformes
+T2	SINTOMA 81 104	alucinaciones acústicas
+T3	PROCEDIMIENTO 148 178	tratamiento antipsicótico oral
+T4	NEG 570 572	no
+T5	NSCO 573 628	aparecen secundarismos, remiten los síntomas psicóticos
+T6	NEG 632 643	desaparecen
+T7	NSCO 644 673	las alteraciones conductuales
+T8	ORG_VIVO 0 5	Varón
+T9	ORG_VIVO 502 510	familiar
+T10	ORG_VIVO 516 524	paciente
+T11	ORG_VIVO 909 914	niños
+T12	ORG_VIVO 917 929	adolescentes
+T13	ORG_VIVO 1058 1063	niños
+T14	ORG_VIVO 1066 1078	adolescentes

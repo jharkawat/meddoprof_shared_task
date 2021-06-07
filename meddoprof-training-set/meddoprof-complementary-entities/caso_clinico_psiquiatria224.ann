@@ -1,0 +1,94 @@
+T1	SINTOMA 273 296	pensamientos intrusivos
+T2	SINTOMA 617 634	deterioro mnésico
+T3	SINTOMA 686 695	irritable
+T4	SINTOMA 834 841	ansioso
+T5	SINTOMA 1281 1290	orientado
+T6	SINTOMA 1319 1331	desorientado
+T7	SINTOMA 1634 1655	rumiaciones obsesivas
+T8	SINTOMA 1864 1877	irritabilidad
+T9	SINTOMA 1905 1911	apatía
+T10	SINTOMA 1913 1922	anhedonia
+T11	SINTOMA 1926 1932	abulia
+T12	SINTOMA 2779 2799	rigidez en 3-5 dedos
+T13	SINTOMA 3138 3150	bradipsiquia
+T14	SINTOMA 3156 3168	bradicinesia
+T15	SINTOMA 3522 3578	Reflejos osteotendinosos normales en miembros superiores
+T16	SINTOMA 3580 3616	hiporreflexia en miembros inferiores
+T17	SINTOMA 3714 3736	disminución del braceo
+T18	PROCEDIMIENTO 1086 1105	exploración general
+T19	PROCEDIMIENTO 1235 1262	exploración psicopatológica
+T20	PROCEDIMIENTO 2204 2221	analítica general
+T21	PROCEDIMIENTO 2255 2275	radiografía de tórax
+T22	PROCEDIMIENTO 3026 3044	exploración física
+T23	PROCEDIMIENTO 3102 3125	exploración neurológica
+T24	PROCEDIMIENTO 3298 3309	campimetría
+T25	PROCEDIMIENTO 3857 3868	TAC craneal
+T26	NEG 42 45	sin
+T27	NSCO 46 51	hijos
+T28	NEG 548 550	no
+T29	NSCO 551 575	saber dónde van a estar»
+T30	NEG 955 957	No
+T31	NSCO 958 1040	presenta antecedentes psiquiátricos, psicológicos ni abuso de sustancias o alcohol
+T32	NEG 1107 1110	sin
+T33	NSCO 1111 1153	alteraciones a nivel neurológico ni físico
+T34	NEG 1319 1331	desorientado
+T35	NEG 1372 1374	no
+T36	NSCO 1375 1391	el mes ni el día
+T37	NEG 1490 1492	no
+T38	NSCO 1493 1545	se objetivan en los datos aportados en la entrevista
+T39	UNC 1694 1707	impresiona de
+T40	USCO 1708 1726	fobia de impulsión
+T41	NEG 1902 1904	No
+T42	NSCO 1905 1932	apatía, anhedonia ni abulia
+T43	NEG 1934 1936	No
+T44	NSCO 1937 1993	auto- o heteroagresividad en el momento de la entrevista
+T45	NEG 2036 2038	No
+T46	NSCO 2039 2081	se objetivan alteraciones sensoperceptivas
+T47	NEG 2083 2085	No
+T48	NSCO 2086 2156	ideación autolítica ni alteraciones en patrón del sueño o alimentación
+T49	NEG 2276 2279	sin
+T50	NSCO 2280 2292	alteraciones
+T51	UNC 2383 2392	probables
+T52	USCO 2393 2424	rasgos de personalidad obsesiva
+T53	NEG 2590 2592	no
+T54	NSCO 2593 2613	es capaz de vestirse
+T55	NEG 3078 3081	sin
+T56	NSCO 3082 3094	alteraciones
+T57	NEG 3265 3267	No
+T58	NSCO 3268 3296	reflejo de amenaza izquierdo
+T59	NEG 3682 3690	negativo
+T60	NEG 3738 3740	No
+T61	NSCO 3741 3756	lateropulsiones
+T62	NEG 3816 3819	sin
+T63	NSCO 3820 3843	apraxia de construcción
+T64	NEG 4081 4083	no
+T65	NSCO 4084 4124	es candidato a medidas intervencionistas
+T66	FARMACO 931 943	simvastatina
+T67	FARMACO 2461 2471	sertralina
+T68	ORG_VIVO 15 20	varón
+T69	ORG_VIVO 33 40	Soltero
+T70	ORG_VIVO 46 51	hijos
+T71	ORG_VIVO 67 74	hermana
+T72	ORG_VIVO 498 508	familiares
+T73	ORG_VIVO 801 811	familiares
+T74	ORG_VIVO 1267 1275	paciente
+T75	ORG_VIVO 1310 1317	persona
+T76	ORG_VIVO 2370 2378	paciente
+T77	ORG_VIVO 2517 2525	paciente
+T78	ORG_VIVO 2937 2945	familiar
+T79	ORG_VIVO 2987 2992	madre
+T80	ORG_VIVO 3209 3216	persona
+T81	ORG_VIVO 4072 4080	paciente
+T82	ENFERMEDAD 320 328	ansiedad
+T83	ENFERMEDAD 892 911	hipercolesterolemia
+T84	ENFERMEDAD 1011 1040	abuso de sustancias o alcohol
+T85	ENFERMEDAD 2329 2349	trastorno adaptativo
+T86	ENFERMEDAD 2354 2362	ansiedad
+T87	ENFERMEDAD 3890 3945	infarto isquémico agudo-subagudo precoz parietotemporal
+T88	ENFERMEDAD 4608 4629	ictus parietotemporal
+T89	ENFERMEDAD 4643 4687	trastorno del comportamiento de inicio ictal
+T90	ENFERMEDAD 4707 4712	ictus
+T91	PACIENTE-SITUACION_LABORAL 89 97	autónomo
+T92	PACIENTE-PROFESION 118 139	regentando un negocio
+T93	PACIENTE-SITUACION_LABORAL 132 152	negocio que abandona
+T94	PACIENTE-SITUACION_LABORAL 716 741	cese de actividad laboral

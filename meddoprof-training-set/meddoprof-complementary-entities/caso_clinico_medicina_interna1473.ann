@@ -1,0 +1,51 @@
+T1	SINTOMA 194 201	Fumador
+T2	SINTOMA 541 571	elevación de enzimas hepáticas
+T3	SINTOMA 707 717	Consciente
+T4	SINTOMA 719 728	orientado
+T5	SINTOMA 731 742	colaborador
+T6	SINTOMA 744 752	Eupneico
+T7	SINTOMA 773 787	normohidratado
+T8	SINTOMA 805 826	ingurgitación yugular
+T9	SINTOMA 828 835	Afebril
+T10	SINTOMA 2048 2062	Abdomen-pelvis
+T11	SINTOMA 2073 2087	esplenomegalia
+T12	PROCEDIMIENTO 222 275	Extirpación de pilomatrixoma de pala ilíaca izquierda
+T13	PROCEDIMIENTO 666 684	Exploración física
+T14	PROCEDIMIENTO 837 869	Auscultación cardiaca y pulmonar
+T15	PROCEDIMIENTO 1075 1084	Hemograma
+T16	PROCEDIMIENTO 1590 1610	Radiografía de tórax
+T17	PROCEDIMIENTO 1646 1682	TAC cérvico-toraco- abdomino-pélvico
+T18	NEG 86 88	No
+T19	NSCO 89 122	alergias medicamentosas conocidas
+T20	NEG 472 474	no
+T21	NSCO 475 487	cuantificada
+T22	NEG 628 630	no
+T23	NSCO 631 664	aportó ningún otro dato relevante
+T24	NEG 802 804	No
+T25	NSCO 805 826	ingurgitación yugular
+T26	NEG 828 835	Afebril
+T27	NEG 880 883	sin
+T28	NSCO 884 906	auscultación de soplos
+T29	NEG 913 916	sin
+T30	NSCO 917 938	ruidos sobreañadidos
+T31	NEG 970 973	sin
+T32	NSCO 974 994	hallazgos de interés
+T33	NEG 1560 1569	negativos
+T34	FARMACO 171 182	Telmisartán
+T35	ORG_VIVO 13 23	familiares
+T36	ORG_VIVO 74 84	personales
+T37	ORG_VIVO 347 355	paciente
+T38	ORG_VIVO 764 772	Paciente
+T39	ENFERMEDAD 48 59	Amiloidosis
+T40	ENFERMEDAD 89 112	alergias medicamentosas
+T41	ENFERMEDAD 124 133	Sobrepeso
+T42	ENFERMEDAD 135 156	Hipertensión arterial
+T43	ENFERMEDAD 237 265	pilomatrixoma de pala ilíaca
+T44	ENFERMEDAD 1002 1024	adenopatías inguinales
+T45	ENFERMEDAD 1612 1644	enfermedad intersticial pulmonar
+T46	ENFERMEDAD 1692 1703	adenopatías
+T47	ENFERMEDAD 1727 1767	Adenopatías mediastínicas paratraqueales
+T48	ENFERMEDAD 1905 1922	adenopatía hiliar
+T49	ENFERMEDAD 2073 2087	esplenomegalia
+T50	ENFERMEDAD 2113 2179	lesiones hipodensas de menos de 1 cm afectando al hígado y al bazo
+T51	PACIENTE-PROFESION 288 323	Operador de campo en planta química

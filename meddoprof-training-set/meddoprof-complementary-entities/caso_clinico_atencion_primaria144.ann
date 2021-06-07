@@ -1,0 +1,88 @@
+T1	SINTOMA 204 211	fumador
+T2	SINTOMA 246 264	bebedor esporádico
+T3	SINTOMA 453 459	fiebre
+T4	SINTOMA 495 503	mialgias
+T5	SINTOMA 505 512	cefalea
+T6	SINTOMA 515 533	mal estado general
+T7	SINTOMA 773 783	Consciente
+T8	SINTOMA 785 794	orientado
+T9	SINTOMA 796 807	colaborador
+T10	SINTOMA 809 817	eupneico
+T11	SINTOMA 829 843	normohidratado
+T12	SINTOMA 862 876	normocoloreado
+T13	SINTOMA 940 946	soplos
+T14	SINTOMA 1132 1153	irritación peritoneal
+T15	SINTOMA 1179 1185	edemas
+T16	SINTOMA 1405 1413	dolorosa
+T17	SINTOMA 1419 1426	eritema
+T18	SINTOMA 1430 1455	aumento de la temperatura
+T19	SINTOMA 2090 2137	edema del tejido celular subcutáneo en la axila
+T20	SINTOMA 2539 2545	fiebre
+T21	PROCEDIMIENTO 555 564	anamnesis
+T22	PROCEDIMIENTO 878 899	Auscultación cardíaca
+T23	PROCEDIMIENTO 948 969	Auscultación pulmonar
+T24	PROCEDIMIENTO 2020 2031	radiografía
+T25	PROCEDIMIENTO 2045 2072	ecografía de partes blandas
+T26	NEG 116 118	no
+T27	NSCO 119 152	alergias medicamentosas conocidas
+T28	UNC 654 661	no sabe
+T29	USCO 662 676	si tendrá algo
+T30	NEG 686 688	No
+T31	NSCO 689 758	recuerda bien si ha sufrido alguna herida por parte de estos animales
+T32	NEG 936 939	sin
+T33	NSCO 940 946	soplos
+T34	NEG 1012 1015	sin
+T35	NSCO 1016 1036	ruidos sobreañadidos
+T36	NEG 1067 1069	no
+T37	NSCO 1070 1093	doloroso a la palpación
+T38	NEG 1095 1098	sin
+T39	NSCO 1099 1116	masas ni megalias
+T40	NEG 1118 1121	sin
+T41	NSCO 1122 1153	signos de irritación peritoneal
+T42	NEG 1176 1178	no
+T43	NSCO 1179 1225	edemas, ni signos de trombosis venosa profunda
+T44	NEG 1415 1418	sin
+T45	NSCO 1419 1455	eritema ni aumento de la temperatura
+T46	NEG 1457 1459	No
+T47	NSCO 1460 1495	presenta adenopatías en otra región
+T48	UNC 2186 2201	compatibles con
+T49	USCO 2202 2225	adenopatías patológicas
+T50	NEG 2342 2351	negativas
+T51	FARMACO 184 193	enalapril
+T52	FARMACO 2450 2462	Azitromicina
+T53	FARMACO 2621 2633	azitromicina
+T54	FARMACO 2658 2672	claritromicina
+T55	FARMACO 2687 2698	rifampicina
+T56	FARMACO 2717 2731	ciprofloxacino
+T57	ORG_VIVO 86 96	personales
+T58	ORG_VIVO 98 103	Varón
+T59	ORG_VIVO 643 651	animales
+T60	ORG_VIVO 750 758	animales
+T61	ORG_VIVO 1506 1514	familiar
+T62	ORG_VIVO 1541 1546	mujer
+T63	ORG_VIVO 1552 1556	hija
+T64	ORG_VIVO 1870 1878	paciente
+T65	ORG_VIVO 2264 2272	paciente
+T66	ORG_VIVO 2327 2330	VIH
+T67	ORG_VIVO 2332 2335	VHB
+T68	ORG_VIVO 2338 2341	VHC
+T69	ORG_VIVO 2353 2364	B. henselae
+T70	ORG_VIVO 2417 2425	paciente
+T71	ORG_VIVO 2599 2608	pacientes
+T72	ENFERMEDAD 119 142	alergias medicamentosas
+T73	ENFERMEDAD 154 164	hipertenso
+T74	ENFERMEDAD 246 264	bebedor esporádico
+T75	ENFERMEDAD 334 358	bultoma en región axilar
+T76	ENFERMEDAD 386 397	adenopatías
+T77	ENFERMEDAD 1200 1225	trombosis venosa profunda
+T78	ENFERMEDAD 1313 1324	adenopatías
+T79	ENFERMEDAD 1469 1480	adenopatías
+T80	ENFERMEDAD 1630 1660	Enfermedad por arañazo de gato
+T81	ENFERMEDAD 1686 1713	Síndrome linfoproliferativo
+T82	ENFERMEDAD 1715 1736	Enfermedad autoinmune
+T83	ENFERMEDAD 1759 1780	Enfermedad infecciosa
+T84	ENFERMEDAD 1782 1812	enfermedad por arañazo de gato
+T85	ENFERMEDAD 2202 2225	adenopatías patológicas
+T86	ENFERMEDAD 2583 2594	adenopatías
+T87	PACIENTE-SITUACION_LABORAL 1605 1612	en paro
+T88	PACIENTE-PROFESION 598 651	estuvo trabajando en una granja con diversos animales

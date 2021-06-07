@@ -1,0 +1,25 @@
+Anamnesis
+Se trata de un niño de 9 años sano, con desarrollo psicomotor y social normales, sin antecedentes médicos personales o familiares de interés. Estudia 4.o de primaria en un colegio madrileño. Es atendido en los Servicios de Urgencias por un cuadro de 3 días de evolución de cefalea progresiva, febrícula y dolor abdominal. En el hospital presenta un episodio de desconexión del medio con desviación conjugada de la mirada a la izquierda, rigidez generalizada y movimientos anormales de las cuatro extremidades.
+
+Examen físico
+El examen físico evidencia febrícula de 37,2 oC, somnolencia leve, inatención, desorientación témporo-espacial, desinhibición conductual, verborrea y discurso incoherente. Los signos meníngeos son negativos. El fondo de ojo es normal. No hay otros datos que llamen la atención.
+
+Pruebas complementarias
+• Analítica sanguínea: leucocitosis con neutrofilia.
+• Estudio microbiológico en suero: cultivos negativos, serologías negativas a VIH, enterovirus, parvovirus, lúes y Borrelia.
+• Estudio bioquímico de LCR: pleocitosis linfocitaria (82 células/mm3), proteínas y glucosa en valores normales.
+• Estudio microbiológico de LCR: cultivos negativos, PCR de virus neurotropos (enterovirus, VHS-1, VHS-2, VVZ, CMV, VEB y VHH-6) negativos.
+• TC craneal: normal.
+• Electroencefalograma: lentificación global del hemisferio cerebral derecho con anomalías epileptiformes esporádicas en la región temporal.
+• RM craneal: hiperintensidad en T2 y FLAIR en el lóbulo temporal derecho (lateral y anteromedial), ínsula, frontal basal y cápsula interna del hemisferio derecho. Las lesiones presentan restricción a la difusión. Resonancia magnética craneal: compatible con encefalitis aguda del lóbulo temporal derecho.
+• PET-TC cerebral con 18F-FDG: hipometabolismo glicídico cortical en el lóbulo temporal derecho. PET-TC cerebral con 18F-FDG: hipometabolismo glicídico cortical en el lóbulo temporal derecho.
+• Estudio inmunológico: anticuerpos antitiroideos negativos, ANA negativos, ANCA (anti- MPO, anti-PR3) negativos, marcadores tumorales negativos, Igs normales, estudio de complemento normal. Anticuerpos antineuronales: inmunorreactividad frente a anticuerpos contra canales de potasio voltaje-dependientes (VGKC).  
+
+Diagnóstico
+Encefalitis aguda severa de etiología autoinmune con anticuerpos anticanales de potasio voltaje-dependientes (anti-VGKC).
+
+Tratamiento
+Manejo empírico inicial con aciclovir y antiepilépticos. Tras el diagnóstico definitivo se administra tratamiento secuencial con pulsos de metilprednisolona, inmunoglobulina humana intravenosa, sesiones de plasmaféresis y rituximab.
+
+Evolución
+El niño ingresa en la planta de Neuropediatría. Ante la sospecha de encefalitis aguda se realiza una punción lumbar, que muestra 82 células/mm3 de predominio linfocítico, con niveles normales de glucosa y proteínas. Se inicia tratamiento empírico con aciclovir a la espera de los resultados microbiológicos. El cuadro no evoluciona bien, tras 36 horas de ingreso ha desaparecido la fiebre pero persisten las alteraciones conductuales, apareciendo nuevas crisis comiciales que precisan sedación e ingreso en la Unidad de Cuidados Intensivos. La RM craneal es compatible con encefalitis aguda del lóbulo temporal, ínsula y corteza frontobasal del hemisferio derecho. Los resultados del estudio microbiológico en LCR descartan la etiología infecciosa. El estudio de anticuerpos antineuronales realizado en el laboratorio de Inmunología detecta inmunorreactividad frente a anticuerpos contra el complejo de canales de potasio voltaje-dependientes. Se instaura tratamiento secuencial con pulsos de metilprednisolona, inmunoglobulina humana intravenosa, sesiones de plasmaféresis y rituximab, pero la respuesta clínica no es favorable. Se realiza una PET-TC, que muestra hipometabolismo glicídico cortical en el lóbulo temporal derecho. Una nueva RM craneal confirma el empeoramiento de las lesiones, mostrando un componente de necrosis cortical y pérdida de volumen del parénquima cerebral. El paciente desarrolla epilepsia refractaria y complicaciones respiratorias, falleciendo tras un ingreso de 51 días.

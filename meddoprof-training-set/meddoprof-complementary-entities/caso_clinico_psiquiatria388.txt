@@ -1,0 +1,53 @@
+Identificación del Paciente
+
+David de 52 años, jubilado, antiguo miembro de la Policía Nacional y víctima directa de un atentado terrorista. Vive solo y no tiene pareja ni hijos.
+
+Análisis del Motivo de Consulta
+
+El paciente manifiesta tener pesadillas y pensamientos recurrentes sobre el atentado, evitación activa de estímulos relacionados con el mismo, irritabilidad, problemas para iniciar y mantener el sueño y una intensa culpa. Manifiesta bajo estado de ánimo, anhedonia, abulia, ideación autolítica, somatizaciones, dificultad para concentrarse y pensamientos repetitivos y egodistónicos acompañados de compulsiones. David afirma que sufre estos síntomas desde el atentado terrorista que sufrió en 1987 a manos de la banda terrorista ETA.
+
+Historia del Problema
+
+David comenzó a trabajar como policía nacional a la edad de 20 años. A los pocos meses, fue víctima de un atentado terrorista al explotar el vehículo en el que circulaba junto con otros compañeros policías. Uno de ellos resultó muerto y David y otros policías heridos de gravedad. Tras un año, el paciente se reincorporó a su trabajo pero sus secuelas físicas se agravaron y comenzó a consumir alcohol. Dos años después del atentado, su estado de ánimo empeoró y solicitó ingresar en una unidad de hospitalización breve. Con 24 años tuvo un primer intento autolítico, a consecuencia del cual perdió una pierna y fue ingresado en una unidad psiquiátrica, donde se le diagnosticó episodio depresivo mayor y comenzó un tratamiento farmacológico, aunque el paciente describía numerosos intentos autolíticos posteriores. Desde comienzos del año 2013 se encontraba en abstinencia del alcohol. Sin embargo, su malestar psicológico persistía y en junio de ese mismo año comenzó el tratamiento que se describirá a continuación y que supuso su primera y única terapia psicológica hasta la fecha.
+
+Evaluación
+
+Se utilizó la entrevista semiestructurada diagnóstica SCID-I-VC (First, Spitzer, Gibbon y Williams, 1999) como principal fuente de información para establecer el diagnóstico del paciente, según el sistema de clasificación DSM-IV-TR. Esta entrevista reveló que, desde el atentado, David había presentado episodios depresivos recidivantes que no habían remitido nunca por completo. Además, también había mostrado, y seguía mostrando, reexperimentaciones constantes del atentado y un elevado estado de activación, evitaba los estímulos relacionados con el atentado, tenía la sensación de un futuro desolador, con una marcada anhedonia y una intensa culpa relacionada con el atentado (p. ej., "le pisé la cabeza a mi compañero cuando salía del vehículo, yo le maté"), todo ello congruente con un diagnóstico de TEPT. La culpa se acompañaba además de obsesiones y compulsiones (p. ej., repetirse a sí mismo que era buena persona) y derivaba en conductas de compensación, por las que David hacía todo lo posible por ayudar a los demás, aun en su propio perjuicio, síntomas congruentes con un trastorno obsesivo-compulsivo. De igual modo se cumplían los criterios de fobia social, ya que existía en él un marcado miedo a la evaluación negativa que hacía que evitase toda interacción social o viviera estas situaciones sociales con un intenso malestar.
+
+Los resultados obtenidos tras la aplicación de la entrevista diagnóstica fueron refrendados por las puntuaciones obtenidas en los cuestionarios sintomatológicos aplicados, en los que el paciente obtuvo puntuaciones en sintomatología depresiva, ansiosa y de estrés postraumático que se encontraban muy por encima de las puntuaciones de corte (C) que indican el paso de una población funcional a una disfuncional y que para el BDI-II y el BAI son de 14 puntos y para la PCL-S de 29. También obtuvo puntuaciones elevadas en preocupaciones patológicas, en sintomatología de duelo complicado y en inadaptación, las cuales en todos los casos superaban las puntuaciones de corte clínicamente significativos de los instrumentos de evaluación aplicados. Estos síntomas habían provocado, y seguían provocando, desajustes importantes en la vida de David, tanto en el área laboral (jubilado por incapacidad física y psicológica con un grado de minusvalía del 65%) como social (aislamiento y falta de apoyo social) y familiar (no se relacionaba con su madre y hermanos, excepto con una hermana).
+
+De acuerdo a la clasificación diagnóstica DSM-IV-TR y teniendo en cuenta el conjunto de síntomas positivos recogidos en la entrevista clínica diagnóstica SCID-I-VC, apoyados por la sintomatología detectada con los cuestionarios psicopatológicos aplicados, así como los criterios diagnósticos de inclusión y exclusión evaluados por la SCID-I-VC, la valoración diagnóstica multiaxial de David fue la siguiente:
+
+· Eje I:
+- F43.1. Trastorno de estrés postraumático, crónico.
+- F33.32. Trastorno depresivo mayor, recidivante, grave sin síntomas psicóticos, crónico.
+- F42.8. Trastorno obsesivo-compulsivo.
+- F40.1. Fobia social.
+
+· Eje II:
+- Z03.2. No hay diagnóstico, características de personalidad obsesiva-compulsiva.
+
+· Eje III:
+- Hipercolesterolemia.
+- Dermatitis.
+- Diverticulitis.
+- Amputación de miembro inferior derecho.
+
+· Eje IV: Z60.0. Problema biográfico.
+
+· Eje V: EEAG = 50.
+
+
+Tratamiento
+
+El tratamiento se basó en el programa de TCC-CT de García-Vera y Sanz para víctimas del terrorismo con trastornos comórbidos. Este tratamiento contempla la realización de 16 sesiones semanales e incluye: 
+(a) terapia de exposición prolongada en imaginación y en vivo a los recuerdos traumáticos y a otros estímulos ansiógenos relacionados tanto con el TEPT como con otros trastornos de ansiedad que pueden padecer las víctimas de terrorismo,
+(b) técnicas de control de la ansiedad, como entrenamiento en relajación progresiva y en respiración lenta,
+(c) técnicas de reestructuración cognitiva para los pensamientos negativos y las actitudes disfuncionales característicos del TEPT, de la depresión o de los trastornos de ansiedad,
+(d) programación de actividades agradables,
+(e) psicoeducación sobre las reacciones al trauma o al duelo y su normalización,
+(f) técnicas de prevención de recaídas y
+(g) técnicas de creación de una nueva narrativa vital (Moreno et al., 2017). 
+
+Tal y como se ha descrito, el protocolo de intervención es flexible y contempla la exposición a distintos estímulos ansiógenos, dependiendo de las características de cada paciente. Por eso, en el caso de David la tarea de exposición incluyó no solo el afrontamiento de estímulos relacionados con el atentado sino también exposición, con prevención de respuesta, a las obsesiones del paciente y, por otro lado, exposición a las situaciones sociales que David evitaba, así como la realización de experimentos conductuales para que afrontara su miedo irracional a la interacción social. Asimismo, la reestructuración cognitiva incluyó el cuestionamiento de pensamientos y creencias irracionales relacionados con la interacción social. Adicionalmente, en respuesta a la fobia social que padecía David, el tratamiento original se amplió para incorporar un entrenamiento específico en habilidades sociales y en solución de problemas sociales.
+En total, en la terapia con David se realizaron 36 sesiones de tratamiento, una evaluación postratamiento y seguimientos al mes, a los 3 meses y a los 6 meses. Todas las sesiones de evaluación y tratamiento, de una hora de duración y a razón de una semanal, se llevaron a cabo exclusivamente por videoconferencia, a través de ordenadores equipados con cámaras web y el programa informático Skype. La intervención fue aplicada por una psicóloga con formación de posgrado en psicología sanitaria y formación específica en TCC-CT con víctimas del terrorismo. Dicho tratamiento se realizó tras la firma de un consentimiento informado en el que David recibió información sobre el contenido de la intervención, su carácter voluntario y gratuito, la modalidad de aplicación del mismo (por videoconferencia) y sobre la confidencialidad de los datos personales del paciente.

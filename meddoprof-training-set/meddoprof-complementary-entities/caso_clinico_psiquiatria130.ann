@@ -1,0 +1,65 @@
+T1	SINTOMA 362 368	mareos
+T2	SINTOMA 371 377	llanto
+T3	SINTOMA 1477 1505	manada de lobos hambrientos»
+T4	SINTOMA 1507 1528	llamándola «estúpida»
+T5	SINTOMA 2182 2192	sollozando
+T6	SINTOMA 2399 2442	incapaz de aventurarse en espacios públicos
+T7	SINTOMA 2733 2743	pesadillas
+T8	SINTOMA 3170 3178	chillona
+T9	PROCEDIMIENTO 64 87	evaluación psiquiátrica
+T10	NEG 395 405	incapaz de
+T11	NSCO 406 437	hablar fuera de casa o de clase
+T12	NEG 718 727	imposible
+T13	NSCO 728 752	entrar en un restaurante
+T14	NEG 1079 1081	no
+T15	NSCO 1082 1103	tenía ganas» de salir
+T16	NEG 1546 1548	No
+T17	NSCO 1549 1599	era raro que alguno de ellos se la quedara mirando
+T18	NEG 1775 1777	no
+T19	NSCO 1778 1789	se defendió
+T20	NEG 2399 2409	incapaz de
+T21	NSCO 2410 2442	aventurarse en espacios públicos
+T22	NEG 2485 2495	incapaz de
+T23	NSCO 2496 2530	adquirir la clase de independencia
+T24	UNC 3360 3366	parece
+T25	USCO 3367 3376	más a mí»
+T26	NEG 3470 3472	no
+T27	NSCO 3473 3492	cabrear» a la madre
+T28	NEG 3512 3514	no
+T29	NSCO 3515 3554	le gustaría parecerse jamás a su madre»
+T30	ORG_VIVO 0 5	Nadia
+T31	ORG_VIVO 13 18	chica
+T32	ORG_VIVO 43 48	madre
+T33	ORG_VIVO 561 573	adolescentes
+T34	ORG_VIVO 650 657	vecinos
+T35	ORG_VIVO 980 985	Nadia
+T36	ORG_VIVO 1042 1048	padres
+T37	ORG_VIVO 1293 1301	infancia
+T38	ORG_VIVO 1435 1454	compañeros de Nadia
+T39	ORG_VIVO 1653 1658	chica
+T40	ORG_VIVO 1817 1823	vecino
+T41	ORG_VIVO 1851 1856	madre
+T42	ORG_VIVO 1997 2002	madre
+T43	ORG_VIVO 2119 2124	madre
+T44	ORG_VIVO 2158 2163	Nadia
+T45	ORG_VIVO 2823 2829	padres
+T46	ORG_VIVO 2953 2961	profesor
+T47	ORG_VIVO 3139 3144	Nadia
+T48	ORG_VIVO 3160 3165	madre
+T49	ORG_VIVO 3235 3240	padre
+T50	ORG_VIVO 3300 3305	Nadia
+T51	ORG_VIVO 3328 3335	persona
+T52	ORG_VIVO 3379 3384	Nadia
+T53	ORG_VIVO 3404 3409	padre
+T54	ORG_VIVO 3487 3492	madre
+T55	ORG_VIVO 3494 3499	Nadia
+T56	ORG_VIVO 3548 3553	madre
+T57	ENFERMEDAD 269 277	ansiedad
+T58	ENFERMEDAD 531 539	ansiedad
+T59	ENFERMEDAD 1015 1023	ansiedad
+T60	ENFERMEDAD 1171 1179	suicidio
+T61	ENFERMEDAD 2356 2364	ansiedad
+T62	ENFERMEDAD 2984 2992	ansiedad
+T63	OTROS-SITUACION_LABORAL 1435 1445	compañeros
+T64	OTROS-PROFESION 2953 2961	profesor
+T65	FAMILIAR-PROFESION 3248 3261	asesor fiscal

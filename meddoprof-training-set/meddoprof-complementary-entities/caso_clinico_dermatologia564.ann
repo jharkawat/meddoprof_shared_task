@@ -1,0 +1,35 @@
+T1	SINTOMA 308 317	febrícula
+T2	SINTOMA 320 330	odinofagia
+T3	SINTOMA 1711 1720	febrícula
+T4	SINTOMA 1752 1759	prurito
+T5	PROCEDIMIENTO 165 179	adenoidectomía
+T6	PROCEDIMIENTO 677 695	Exploración física
+T7	PROCEDIMIENTO 701 719	exploración física
+T8	PROCEDIMIENTO 1043 1074	dermatoscopia de luz polarizada
+T9	PROCEDIMIENTO 1225 1238	dermatoscopia
+T10	PROCEDIMIENTO 1691 1702	antitérmico
+T11	PROCEDIMIENTO 1723 1743	antihistamínico oral
+T12	NEG 28 31	sin
+T13	NSCO 32 65	alergias medicamentosas conocidas
+T14	NEG 332 335	sin
+T15	NSCO 336 377	otra sintomatología sistémica acompañante
+T16	NEG 655 658	sin
+T17	NSCO 659 674	referir mejoría
+T18	NEG 980 982	No
+T19	NSCO 983 1034	presentaba afectación de palmas, plantas ni mucosas
+T20	NEG 1476 1478	no
+T21	NSCO 1479 1540	era necesario la realización de otras pruebas complementarias
+T22	FARMACO 616 633	metilprednisolona
+T23	FARMACO 639 648	bilastina
+T24	ORG_VIVO 10 15	Mujer
+T25	ORG_VIVO 533 560	médico de atención primaria
+T26	ORG_VIVO 1982 2009	médico de atención primaria
+T27	ENFERMEDAD 32 55	alergias medicamentosas
+T28	ENFERMEDAD 106 144	rinoconjuntivitis alérgica persistente
+T29	ENFERMEDAD 146 162	hernia umbilical
+T30	ENFERMEDAD 226 256	lesiones cutáneas pruriginosas
+T31	ENFERMEDAD 584 593	urticaria
+T32	ENFERMEDAD 731 806	pápulas eritematosas angioma-like salpicadas en tronco, cara y extremidades
+T33	ENFERMEDAD 1555 1582	Pseudoangiomatosis eruptiva
+T34	SANITARIO-PROFESION 1982 2009	médico de atención primaria
+T35	SANITARIO-PROFESION 533 560	médico de atención primaria

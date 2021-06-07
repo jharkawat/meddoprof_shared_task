@@ -1,0 +1,79 @@
+T1	SINTOMA 453 458	dolor
+T2	SINTOMA 738 743	dolor
+T3	SINTOMA 779 794	dolor irruptivo
+T4	SINTOMA 1139 1158	dolor a nivel local
+T5	SINTOMA 1573 1578	dolor
+T6	SINTOMA 2079 2082	tos
+T7	SINTOMA 2107 2113	fiebre
+T8	SINTOMA 2515 2528	palpitaciones
+T9	SINTOMA 2555 2571	malestar general
+T10	SINTOMA 2702 2724	pérdida de consciencia
+T11	PROCEDIMIENTO 524 563	tratamiento sistémico con quimioterapia
+T12	PROCEDIMIENTO 640 652	radioterapia
+T13	PROCEDIMIENTO 828 837	analgesia
+T14	PROCEDIMIENTO 902 921	analítica sanguínea
+T15	PROCEDIMIENTO 1171 1189	electrocardiograma
+T16	PROCEDIMIENTO 1695 1714	electrocardiogramas
+T17	PROCEDIMIENTO 1873 1883	analgésico
+T18	PROCEDIMIENTO 2126 2145	analítica sanguínea
+T19	PROCEDIMIENTO 2192 2213	radiografías de tórax
+T20	PROCEDIMIENTO 2338 2361	tratamiento antibiótico
+T21	PROCEDIMIENTO 2461 2484	tratamiento antibiótico
+T22	PROCEDIMIENTO 2763 2794	reanimación para monitorización
+T23	PROCEDIMIENTO 3203 3235	marcapasos temporal transcutáneo
+T24	PROCEDIMIENTO 3254 3277	monitorización cardíaca
+T25	PROCEDIMIENTO 3399 3413	antibioterapia
+T26	NEG 819 823	cede
+T27	NSCO 824 855	con analgesia de primer escalón
+T28	NEG 857 860	sin
+T29	NSCO 861 921	evidencia de sangrados ni anemización en analítica sanguínea
+T30	NEG 1200 1202	no
+T31	NSCO 1203 1248	muestra alteraciones con intervalo QTc 380 ms
+T32	NEG 1308 1310	no
+T33	NSCO 1311 1344	se objetivan alteraciones iónicas
+T34	NEG 1724 1727	sin
+T35	NSCO 1728 1769	evidenciar alargamiento del intervalo QTc
+T36	NEG 2083 2086	sin
+T37	NSCO 2087 2100	expectoración
+T38	NEG 2103 2106	sin
+T39	NSCO 2107 2113	fiebre
+T40	NEG 2629 2641	asintomática
+T41	NEG 3341 3353	retirada del
+T42	NSCO 3354 3383	tratamiento con moxifloxacino
+T43	NEG 3491 3494	sin
+T44	NSCO 3495 3529	presentar nuevos eventos cardíacos
+T45	NEG 3632 3634	no
+T46	NSCO 3635 3707	RCP en caso de parada cardiorrespiratoria ni empleo de medidas invasivas
+T47	FARMACO 169 177	metadona
+T48	FARMACO 1397 1405	metadona
+T49	FARMACO 2366 2379	moxifloxacino
+T50	FARMACO 3016 3035	sulfato de magnesio
+T51	FARMACO 3370 3383	moxifloxacino
+T52	FARMACO 3418 3441	amoxicilina-clavulánico
+T53	ORG_VIVO 0 5	Mujer
+T54	ORG_VIVO 35 45	personales
+T55	ORG_VIVO 398 406	paciente
+T56	ORG_VIVO 595 603	paciente
+T57	ORG_VIVO 721 729	paciente
+T58	ORG_VIVO 1024 1051	médico de Atención Primaria
+T59	ORG_VIVO 1078 1086	paciente
+T60	ORG_VIVO 1253 1260	mujeres
+T61	ORG_VIVO 1364 1372	paciente
+T62	ORG_VIVO 1583 1591	paciente
+T63	ORG_VIVO 1810 1818	paciente
+T64	ORG_VIVO 1974 2001	médico de Atención Primaria
+T65	ORG_VIVO 2038 2046	paciente
+T66	ORG_VIVO 2316 2324	paciente
+T67	ORG_VIVO 2489 2497	paciente
+T68	ORG_VIVO 3595 3603	paciente
+T69	ENFERMEDAD 49 67	consumo de cocaína
+T70	ENFERMEDAD 272 291	carcinoma de cérvix
+T71	ENFERMEDAD 323 342	afectación pulmonar
+T72	ENFERMEDAD 887 898	anemización
+T73	ENFERMEDAD 2824 2847	bigeminismo ventricular
+T74	ENFERMEDAD 2900 2923	fibrilación ventricular
+T75	ENFERMEDAD 3650 3676	parada cardiorrespiratoria
+T76	ENFERMEDAD 3780 3821	enfermedad oncológica en fase metastásica
+T77	SANITARIO-PROFESION 2004 2033	Equipo de Soporte a Domicilio
+T78	SANITARIO-PROFESION 1024 1051	médico de Atención Primaria
+T79	SANITARIO-PROFESION 1974 2001	médico de Atención Primaria

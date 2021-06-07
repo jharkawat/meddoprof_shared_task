@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 47 años de edad, sin antecedentes personales de interés, que presentaba un cuadro de 5 meses de rinorrea abundante, en ocasiones acompañada de epistaxis, junto con otalgia bilateral de predominio izquierdo y molestias en la zona maxilar superior bilateral, siendo tratado de forma empírica en varias ocasiones con corticoides orales por su médico de Atención Primaria. La semana previa al ingreso presentó una parálisis facial izquierda de origen periférico, con afectación del cierre palpebral, asociada a otorrea izquierda, precisando de una miringocentesis por parte del Servicio de Otorrinolaringología. Dado de alta con prednisona en dosis descendente, a los 3-4 días se añadió disfagia y disfonía, y posteriormente una paresia facial periférica contralateral, por lo que ingresó para estudio.
+
+Examen físico
+Consciente, orientado, puntuación en la escala de Glasgow 4-5-6. Campos visuales normales. Disfonía, no alteración en la articulación ni en la fluidez del lenguaje con capacidad de comprensión conservada. Movimientos oculares externos normales, no presencia de nistagmus. Paresia facial bilateral, con afectación del cierre palpebral y fenómeno de Bell. No elevación del velo del paladar izquierdo. Reflejo nauseoso presente. Resto de pares craneales normales. Fuerza en las extremidades 5/5. Sensibilidad conservada. Reflejos osteotendinosos 2/4. Reflejos cutáneo-plantares flexores. No dismetrías. Marcha normal. Romberg negativo.
+
+Pruebas complementarias
+• Analítica sanguínea: estudio de función tiroidea, vitamina B12 y ácido fólico, perfil hepático e iones dentro de la normalidad. C-ANCA 87,37 UI/ml, P-ANCA; anticuerpos antinucleares, anti-DNA, antimitocondriales, ECA y complemento dentro de la normalidad. VSG 86 mm/hora, PCR 2 mg/dl. Procalcitonina y beta-2-microglobulina normal. Hemograma con 10.600 leucocitos con 75% de neutrófilos; resto de valores y coagulación con valores dentro de la normalidad.
+• Sedimento de orina y orina de 24 horas con valores dentro de la normalidad. • Líquido cefalorraquídeo (LCR): proteínas 0,68 g/l, glucosa, ADA, cloruro, lactato y recuento dentro de la normalidad. Citología con presencia de linfocitos maduros. Citometría de flujo sin presencia de linfocitos atípicos. Estudio microbiológico sin hallazgos.
+• Serologías en sangre de VIH, lúes y Borrelia negativas.
+• Laringoscopia directa: paresia de cuerda vocal izquierda.
+• Radiografía de tórax: dentro de la normalidad.
+• Tomografía computarizada (TC) cerebral: ocupación de la caja del tímpano, el antro mastoideo y las celdillas mastoideas del oído izquierdo; con pérdida de trabéculas mastoideas y dehiscencia tegmen tympani, y erosión ósea de la pared antero-superior del antro mastoideo, con comunicación directa de cavidades del oído medio con la fosa temporal izquierda, no identificando imagen concluyente de absceso cerebral.
+• Cultivo miringocentesis: líquido seroso, sin crecimiento de microorganismos.
+• Resonancia magnética (RM) cerebral: realce basal meníngeo en secuencia T1 tras inyección de gadolinio. Se confirmó la ocupación de la caja del tímpano y de las celdillas mastoideas izquierdas, con realce tras la inyección de gadolinio, sin llegar a visualizarse ninguna imagen de absceso ni afectación del troncoencéfalo. • TC tóraco-abdómino-pélvica: presencia de adenopatías subcentimétricas paratraqueal inferior derecha y aorto-pulmonares de escaso significado patológico. Resto del estudio dentro de la normalidad.
+• TC facial y de senos: senos frontales, maxilares, esfenoidales y celdillas etmoidales de morfología normal, bien ventilados. Fosas nasales sin hallazgos significativos, salvo mínima desviación del septo.
+• SPECT-galio pulmonar: sin captación sugerente de patología.
+• Biopsia del cornete nasal inferior derecho: mucosa nasal con inflamación crónica de predominio linfoplasmocitario con presencia de aislados eosinófilos.
+
+Diagnóstico
+Mononeuropatía múltiple de pares craneales y otomastoiditis izquierda secundarias a granulomatosis con poliangeítis (enfermedad de Wegener).
+
+Tratamiento
+Al ingreso presenta cefalea intensa occipital, con náuseas y vómitos, que mejora con prednisona a dosis de 1 mg/kg/día y reaparece al disminuir la dosis. Se mantiene dicho tratamiento mientras se completa el estudio, manteniéndose estable su déficit neurológico pero sin observar mejoría. Una vez establecido el diagnóstico, se decide iniciar bolos de metilprednisolona 250 mg/6 horas durante 3 días y posteriormente ciclos de ciclofosfamida cada 3 semanas a dosis de 1 mg/m2 de superficie corporal. Asimismo, se realiza tratamiento rehabilitador logopédico, con enseñanzas de praxias, ejercicios motores orofaríngeos y faciales y electroestimulación laríngea.
+
+Evolución
+Tras un primer pulso de ciclofosfamida, se reevalúa al paciente a las 3 semanas del alta, presentando mejoría significativa del cierre palpebral bilateral, inicio de la movilidad de las comisuras bucales, desaparición de la disfonía y persistencia de tan solo una leve disfagia para líquidos. Los títulos de C-ANCA disminuyeron a 37 mU/ml.

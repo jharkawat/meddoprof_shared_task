@@ -1,0 +1,108 @@
+T1	SINTOMA 852 860	falleció
+T2	SINTOMA 2005 2020	aumento de peso
+T3	SINTOMA 2124 2140	clínica positiva
+T4	SINTOMA 2142 2155	alucinaciones
+T5	SINTOMA 2269 2284	aumento de peso
+T6	SINTOMA 3968 3988	limitación funcional
+T7	PROCEDIMIENTO 1608 1639	tratamiento con benzodiacepinas
+T8	PROCEDIMIENTO 1951 1966	benzodiacepinas
+T9	PROCEDIMIENTO 2290 2298	sedación
+T10	PROCEDIMIENTO 2448 2456	sedación
+T11	PROCEDIMIENTO 5135 5153	Exploración física
+T12	PROCEDIMIENTO 5233 5236	ECG
+T13	PROCEDIMIENTO 5497 5518	Pruebas psicométricas
+T14	PROCEDIMIENTO 5552 5564	escala PANSS
+T15	NEG 902 904	no
+T16	NSCO 905 916	tiene hijos
+T17	NEG 950 953	sin
+T18	NSCO 954 973	estudios superiores
+T19	NEG 2071 2073	no
+T20	NSCO 2074 2106	hay episodios psicóticos francos
+T21	NEG 2458 2460	No
+T22	NEG 2816 2818	no
+T23	NSCO 2819 2840	una remisión completa
+T24	NEG 2979 2988	negativos
+T25	NEG 3057 3065	falta de
+T26	NSCO 3066 3095	espontaneidad.n A los 32 años
+T27	NEG 3212 3221	negativos
+T28	NEG 3230 3232	no
+T29	NSCO 3233 3289	se consigue una remisión total de los síntomas positivos
+T30	NEG 3595 3606	ausencia de
+T31	NSCO 3607 3633	una remisión completa dado
+T32	NEG 3816 3825	negativos
+T33	NEG 3827 3829	no
+T34	NSCO 3830 3929	tienen una repercusión conductual ni provocan comportamientos disruptivos en el medio sociofamiliar
+T35	NEG 5397 5400	Sin
+T36	NSCO 5401 5439	alteraciones analíticas significativas
+T37	NEG 5863 5865	no
+T38	NSCO 5866 5931	ha habido cambios significativos en el peso o la tensión arterial
+T39	NEG 5949 5956	tampoco
+T40	NSCO 5957 5997	hemos encontrado alteraciones a destacar
+T41	NEG 6111 6113	no
+T42	NSCO 6114 6147	hemos tenido dudas sobre el mismo
+T43	FARMACO 48 57	clozapina
+T44	FARMACO 62 87	palmitato de paliperidona
+T45	FARMACO 294 307	tolerabilidad
+T46	FARMACO 1440 1451	haloperidol
+T47	FARMACO 1690 1700	biperideno
+T48	FARMACO 1797 1808	haloperidol
+T49	FARMACO 1813 1823	olanzapina
+T50	FARMACO 1918 1928	biperideno
+T51	FARMACO 2321 2331	olanzapina
+T52	FARMACO 2364 2375	risperidona
+T53	FARMACO 2640 2651	risperidona
+T54	FARMACO 2692 2703	risperidona
+T55	FARMACO 3126 3151	palmitato de paliperidona
+T56	FARMACO 3438 3452	desvenlafaxina
+T57	FARMACO 3543 3552	clozapina
+T58	FARMACO 4093 4102	clozapina
+T59	FARMACO 4541 4555	desvenlafaxina
+T60	FARMACO 4668 4680	paliperidona
+T61	FARMACO 4746 4758	paliperidona
+T62	FARMACO 4788 4797	clozapina
+T63	FARMACO 5077 5086	clozapina
+T64	FARMACO 5386 5395	clozapina
+T65	ORG_VIVO 0 8	Paciente
+T66	ORG_VIVO 338 346	paciente
+T67	ORG_VIVO 375 385	personales
+T68	ORG_VIVO 387 392	varón
+T69	ORG_VIVO 560 565	menor
+T70	ORG_VIVO 573 580	fratría
+T71	ORG_VIVO 586 594	hermanos
+T72	ORG_VIVO 730 735	madre
+T73	ORG_VIVO 753 760	hermana
+T74	ORG_VIVO 789 798	cuidadora
+T75	ORG_VIVO 812 820	hermanos
+T76	ORG_VIVO 846 851	padre
+T77	ORG_VIVO 911 916	hijos
+T78	ORG_VIVO 1004 1012	familiar
+T79	ORG_VIVO 1227 1235	paciente
+T80	ORG_VIVO 1407 1415	paciente
+T81	ORG_VIVO 1971 1979	paciente
+T82	ORG_VIVO 2411 2419	paciente
+T83	ORG_VIVO 2567 2575	paciente
+T84	ORG_VIVO 2845 2853	paciente
+T85	ORG_VIVO 3378 3386	familiar
+T86	ORG_VIVO 3502 3510	paciente
+T87	ORG_VIVO 3641 3649	paciente
+T88	ORG_VIVO 3995 4003	paciente
+T89	ORG_VIVO 4280 4290	familiares
+T90	ORG_VIVO 4295 4303	paciente
+T91	ORG_VIVO 4840 4848	paciente
+T92	ORG_VIVO 5106 5114	paciente
+T93	ORG_VIVO 5631 5639	paciente
+T94	ENFERMEDAD 169 192	esquizofrenia paranoide
+T95	ENFERMEDAD 438 461	esquizofrenia paranoide
+T96	ENFERMEDAD 626 649	esquizofrenia paranoide
+T97	ENFERMEDAD 876 883	infarto
+T98	ENFERMEDAD 1659 1667	ansiedad
+T99	ENFERMEDAD 2589 2606	recaída psicótica
+T100	ENFERMEDAD 3455 3472	ENFERMEDAD ACTUAL
+T101	ENFERMEDAD 3473 3474	A
+T102	ENFERMEDAD 6245 6268	esquizofrenia paranoide
+T103	FAMILIAR-SITUACION_LABORAL 779 798	principal cuidadora
+T104	PACIENTE-SITUACION_LABORAL 1085 1096	desempleado
+T105	PACIENTE-SITUACION_LABORAL 663 681	institucionalizado
+T106	PACIENTE-PROFESION 975 1023	estuvo trabajando en negocio familiar (frutería)
+T107	PACIENTE-SITUACION_LABORAL 918 948	Tituló la educación secundaria
+T108	PACIENTE-SITUACION_LABORAL 4849 4884	ha comenzado un trabajo supervisado

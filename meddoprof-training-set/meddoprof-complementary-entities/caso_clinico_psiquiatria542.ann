@@ -1,0 +1,97 @@
+T1	SINTOMA 1103 1114	nerviosismo
+T2	SINTOMA 1116 1125	inquietud
+T3	SINTOMA 1128 1136	ansiedad
+T4	SINTOMA 1673 1684	nerviosismo
+T5	SINTOMA 1737 1757	discurso incoherente
+T6	SINTOMA 2274 2284	consciente
+T7	SINTOMA 2287 2295	irritada
+T8	SINTOMA 2322 2327	mareo
+T9	SINTOMA 2330 2345	dolor de cabeza
+T10	SINTOMA 2699 2707	suspicaz
+T11	SINTOMA 2709 2718	irritable
+T12	SINTOMA 3475 3496	inquietud psicomotriz
+T13	SINTOMA 3521 3538	rigidez cognitiva
+T14	SINTOMA 4794 4802	eutímica
+T15	PROCEDIMIENTO 609 612	RMN
+T16	PROCEDIMIENTO 885 915	tratamiento psicofarmacológico
+T17	PROCEDIMIENTO 2136 2165	reabordaje psicofarmacológico
+T18	PROCEDIMIENTO 2232 2259	exploración psicopatológica
+T19	PROCEDIMIENTO 2901 2936	tratamiento sedativo vía parenteral
+T20	PROCEDIMIENTO 3038 3047	hemograma
+T21	PROCEDIMIENTO 3158 3169	TAC craneal
+T22	PROCEDIMIENTO 4421 4446	terapia electroconvulsiva
+T23	NEG 518 530	inespecífica
+T24	NSCO 531 557	en asta frontal encefálica
+T25	NEG 631 634	sin
+T26	NSCO 635 653	cambios desde 2015
+T27	NEG 655 657	No
+T28	NSCO 658 691	alergias medicamentosas conocidas
+T29	NEG 693 695	no
+T30	NSCO 696 706	IQ previas
+T31	NEG 737 739	no
+T32	NSCO 740 777	vista nunca en la red de Salud Mental
+T33	NEG 779 781	no
+T34	NSCO 782 798	ingresos previos
+T35	NEG 846 848	No
+T36	NSCO 849 880	consumo de tóxicos concomitante
+T37	NEG 1746 1757	incoherente
+T38	NEG 2787 2789	No
+T39	NSCO 2790 2817	nos permite hablar con ella
+T40	NEG 2830 2832	no
+T41	NSCO 2833 2865	se pudo confirmar la información
+T42	NEG 3148 3156	negativa
+T43	NEG 3171 3174	sin
+T44	NSCO 3175 3199	hallazgos significativos
+T45	NEG 4837 4851	desapareciendo
+T46	NSCO 4852 4892	la ideación delirante de un primer plano
+T47	UNC 4928 4944	impresionando de
+T48	USCO 4945 4983	hallarse ésta en vías de encapsulación
+T49	NEG 5245 5248	sin
+T50	NSCO 5249 5266	incidencia alguna
+T51	FARMACO 920 931	clorazepato
+T52	FARMACO 2938 2947	midazolam
+T53	FARMACO 2981 2996	levomepromazina
+T54	FARMACO 3970 3981	aripiprazol
+T55	FARMACO 4153 4163	olanzapina
+T56	FARMACO 4221 4232	risperidona
+T57	FARMACO 4664 4673	clozapina
+T58	FARMACO 5287 5296	clozapina
+T59	FARMACO 5314 5323	lorazepam
+T60	ORG_VIVO 0 5	Mujer
+T61	ORG_VIVO 128 134	médico
+T62	ORG_VIVO 238 248	personales
+T63	ORG_VIVO 282 287	madre
+T64	ORG_VIVO 293 297	hijo
+T65	ORG_VIVO 349 359	familiares
+T66	ORG_VIVO 364 368	hijo
+T67	ORG_VIVO 456 467	tía materna
+T68	ORG_VIVO 977 1004	Médico de Atención Primaria
+T69	ORG_VIVO 1064 1072	paciente
+T70	ORG_VIVO 1337 1345	paciente
+T71	ORG_VIVO 1620 1626	vecino
+T72	ORG_VIVO 1719 1729	vecindario
+T73	ORG_VIVO 1806 1816	psiquiatra
+T74	ORG_VIVO 1886 1897	facultativo
+T75	ORG_VIVO 2054 2062	familiar
+T76	ORG_VIVO 2518 2522	hijo
+T77	ORG_VIVO 2615 2622	médicos
+T78	ORG_VIVO 2760 2765	madre
+T79	ORG_VIVO 3723 3727	hijo
+T80	ORG_VIVO 4479 4487	paciente
+T81	ORG_VIVO 4760 4768	paciente
+T82	ENFERMEDAD 447 450	TOC
+T83	ENFERMEDAD 472 485	esquizofrenia
+T84	ENFERMEDAD 511 557	lesión inespecífica en asta frontal encefálica
+T85	ENFERMEDAD 951 959	ansiedad
+T86	ENFERMEDAD 1023 1040	ENFERMEDAD ACTUAL
+T87	ENFERMEDAD 1128 1136	ansiedad
+T88	ENFERMEDAD 3202 3213	DIAGNÓSTICO
+T89	ENFERMEDAD 3214 3237	Esquizofrenia paranoide
+T90	ENFERMEDAD 3239 3242	F20
+T91	ENFERMEDAD 4536 4544	ansiedad
+T92	SANITARIO-PROFESION 977 1004	Médico de Atención Primaria
+T93	FAMILIAR-SITUACION_LABORAL 2523 2536	en el colegio
+T94	SANITARIO-PROFESION 1886 1897	facultativo
+T95	SANITARIO-PROFESION 128 147	médico de Urgencias
+T96	SANITARIO-PROFESION 2615 2622	médicos
+T97	SANITARIO-PROFESION 1806 1816	psiquiatra

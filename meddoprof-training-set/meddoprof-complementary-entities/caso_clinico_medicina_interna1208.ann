@@ -1,0 +1,53 @@
+T1	SINTOMA 205 223	consumo de tóxicos
+T2	SINTOMA 247 263	malestar general
+T3	SINTOMA 276 298	debilidad generalizada
+T4	SINTOMA 443 468	hemodinámicamente estable
+T5	SINTOMA 470 479	orientado
+T6	SINTOMA 495 506	verborreico
+T7	SINTOMA 509 520	incoherente
+T8	SINTOMA 522 548	deshidratación mucocutánea
+T9	SINTOMA 551 558	palidez
+T10	SINTOMA 1071 1082	hipotensión
+T11	SINTOMA 1084 1095	taquicardia
+T12	SINTOMA 1098 1107	taquipnea
+T13	SINTOMA 1517 1531	esplenomegalia
+T14	PROCEDIMIENTO 560 597	Auscultación cardiopulmonar y abdomen
+T15	PROCEDIMIENTO 692 701	hemograma
+T16	PROCEDIMIENTO 841 847	frotis
+T17	PROCEDIMIENTO 989 1008	ecografía abdominal
+T18	PROCEDIMIENTO 1197 1206	necropsia
+T19	PROCEDIMIENTO 1895 1910	anticoagulación
+T20	PROCEDIMIENTO 1912 1933	terapia fibrinolítica
+T21	PROCEDIMIENTO 1935 1946	endoscopias
+T22	NEG 354 357	sin
+T23	NSCO 358 386	traumatismo craneoencefálico
+T24	NEG 388 391	sin
+T25	NSCO 392 422	saber especificar más detalles
+T26	UNC 853 860	posible
+T27	USCO 861 884	déficit de vitamina B12
+T28	NEG 1170 1172	no
+T29	NSCO 1173 1183	recuperada
+T30	NEG 1274 1276	no
+T31	NSCO 1277 1328	Hodkin B difuso con afectación hepática y esplénica
+T32	NEG 1869 1871	no
+T33	NSCO 1872 1981	olvidar la iatrogenia (anticoagulación, terapia fibrinolítica, endoscopias) como causa única o desencadenante
+T34	FARMACO 81 103	Clorazepato dipotásico
+T35	FARMACO 121 132	Pregabalina
+T36	ORG_VIVO 0 5	Varón
+T37	ORG_VIVO 1036 1044	paciente
+T38	ENFERMEDAD 37 46	depresión
+T39	ENFERMEDAD 358 386	traumatismo craneoencefálico
+T40	ENFERMEDAD 522 548	deshidratación mucocutánea
+T41	ENFERMEDAD 861 884	déficit de vitamina B12
+T42	ENFERMEDAD 1223 1239	Rotura esplénica
+T43	ENFERMEDAD 1244 1257	hemoperitoneo
+T44	ENFERMEDAD 1266 1328	linfoma no Hodkin B difuso con afectación hepática y esplénica
+T45	ENFERMEDAD 1332 1370	infiltración medular, pulmonar y renal
+T46	ENFERMEDAD 1517 1531	esplenomegalia
+T47	ENFERMEDAD 1560 1584	neoplasias hematológicas
+T48	ENFERMEDAD 1597 1617	patología infecciosa
+T49	ENFERMEDAD 1630 1639	paludismo
+T50	ENFERMEDAD 1642 1691	síndrome mononucleósico por Virus de Ebstein Barr
+T51	ENFERMEDAD 1734 1753	hipertensión portal
+T52	ENFERMEDAD 1755 1763	embarazo
+T53	ENFERMEDAD 1765 1793	pancreatitis aguda y crónica

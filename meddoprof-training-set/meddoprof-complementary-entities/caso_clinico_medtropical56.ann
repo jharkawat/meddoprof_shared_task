@@ -1,0 +1,37 @@
+T1	SINTOMA 433 442	fallecida
+T2	PROCEDIMIENTO 296 315	antibióticos orales
+T3	PROCEDIMIENTO 318 331	curas locales
+T4	PROCEDIMIENTO 354 366	antisépticos
+T5	PROCEDIMIENTO 694 707	Examen fisico
+T6	PROCEDIMIENTO 908 936	Examen otorrinolaringológico
+T7	PROCEDIMIENTO 1211 1233	Exámenes bioanalíticos
+T8	NEG 368 371	sin
+T9	NSCO 372 386	mejoría alguna
+T10	UNC 721 730	aparentes
+T11	USCO 731 759	buenas condiciones generales
+T12	NEG 995 998	sin
+T13	NSCO 999 1028	anomalidades de consideración
+T14	NEG 1235 1237	No
+T15	NSCO 1238 1311	presentaron alteraciones hematológicas, renales, metabólicas ni hepáticas
+T16	NEG 1987 2002	se suspendieron
+T17	NSCO 2003 2019	los medicamentos
+T18	FARMACO 1561 1570	meglumina
+T19	FARMACO 1788 1802	ciprofloxocina
+T20	FARMACO 1805 1817	clindamicina
+T21	FARMACO 2080 2104	antimoniato de meglumina
+T22	FARMACO 2165 2174	meglumina
+T23	ORG_VIVO 0 5	Mujer
+T24	ORG_VIVO 401 411	familiares
+T25	ORG_VIVO 427 432	madre
+T26	ORG_VIVO 655 663	insectos
+T27	ORG_VIVO 709 717	paciente
+T28	ORG_VIVO 1326 1337	leishmanina
+T29	ORG_VIVO 1382 1396	antileishmania
+T30	ORG_VIVO 1507 1527	parásito leishmánico
+T31	ORG_VIVO 1941 1949	paciente
+T32	ORG_VIVO 2249 2257	paciente
+T33	ENFERMEDAD 1046 1086	úlcera de 4 x 5 cm en la región poplítea
+T34	ENFERMEDAD 1905 1936	infección bacteriana secundaria
+T35	ENFERMEDAD 1963 1984	reacción anafiláctica
+T36	ENFERMEDAD 2179 2204	úlcera estaba cicatrizada
+T37	PACIENTE-PROFESION 591 619	dedicada a labores agrícolas

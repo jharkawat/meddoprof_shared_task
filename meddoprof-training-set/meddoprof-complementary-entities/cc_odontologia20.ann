@@ -1,0 +1,83 @@
+T1	SINTOMA 181 197	noto mal aliento
+T2	SINTOMA 199 207	sangrado
+T3	SINTOMA 1709 1730	pérdida ósea marginal
+T4	SINTOMA 2078 2126	movilidad de grado I en los incisivos superiores
+T5	PROCEDIMIENTO 268 291	tratamiento periodontal
+T6	PROCEDIMIENTO 615 660	cirugía periodontal de acceso en la mandíbula
+T7	PROCEDIMIENTO 759 782	tratamiento ortodóntico
+T8	PROCEDIMIENTO 803 824	exploración extraoral
+T9	PROCEDIMIENTO 878 899	exploración intraoral
+T10	PROCEDIMIENTO 1406 1430	exploración radiográfica
+T11	PROCEDIMIENTO 1465 1482	ortopantomografía
+T12	PROCEDIMIENTO 1603 1656	radiografías periapicales del sextante anterosuperior
+T13	PROCEDIMIENTO 1756 1775	exploración clínica
+T14	PROCEDIMIENTO 2185 2229	medición de componentes volátiles sulfurados
+T15	PROCEDIMIENTO 2334 2357	análisis microbiológico
+T16	PROCEDIMIENTO 2457 2480	tratamiento periodontal
+T17	PROCEDIMIENTO 2540 2549	sonda DNA
+T18	PROCEDIMIENTO 3314 3353	tratamiento periodontal desinflamatorio
+T19	PROCEDIMIENTO 3386 3398	higiene oral
+T20	PROCEDIMIENTO 3414 3431	alisado radicular
+T21	PROCEDIMIENTO 3686 3731	tratamiento periodontal avanzado regenerativo
+T22	PROCEDIMIENTO 4475 4521	radiografías puntuales en el sextante anterior
+T23	PROCEDIMIENTO 4544 4563	sondaje periodontal
+T24	NEG 421 424	sin
+T25	NSCO 425 449	necesidad de tratamiento
+T26	NEG 825 827	no
+T27	NSCO 828 857	se hallaron signos reseñables
+T28	UNC 1309 1323	compatible con
+T29	USCO 1324 1338	salud gingival
+T30	UNC 1348 1359	sospecha de
+T31	USCO 1360 1373	periodontitis
+T32	NEG 1542 1544	no
+T33	NSCO 1545 1580	hacer una serie periapical completa
+T34	NEG 2510 2513	sin
+T35	NSCO 2514 2529	mejoría clínica
+T36	UNC 4351 4362	sospecha de
+T37	USCO 4363 4430	periodontitis de nuestra paciente se valoró la pérdida de inserción
+T38	NEG 4621 4623	no
+T39	NSCO 4624 4662	obedecía únicamente a factores locales
+T40	NEG 5576 5587	ausencia de
+T41	NSCO 5588 5606	factores de riesgo
+T42	FARMACO 3956 3968	metronidazol
+T43	ORG_VIVO 0 8	PACIENTE
+T44	ORG_VIVO 66 74	dentista
+T45	ORG_VIVO 168 176	paciente
+T46	ORG_VIVO 535 543	paciente
+T47	ORG_VIVO 1393 1401	paciente
+T48	ORG_VIVO 1444 1452	paciente
+T49	ORG_VIVO 2432 2440	paciente
+T50	ORG_VIVO 2488 2498	odontólogo
+T51	ORG_VIVO 2605 2629	Porphyromonas Gingivalis
+T52	ORG_VIVO 2631 2651	Tannerella Forshytia
+T53	ORG_VIVO 2654 2673	Treponema Denticola
+T54	ORG_VIVO 2795 2834	Prevotella Intermedia Porvimonas Micros
+T55	ORG_VIVO 2837 2860	Fusebacterium Nucleatum
+T56	ORG_VIVO 2928 2936	paciente
+T57	ORG_VIVO 4140 4148	paciente
+T58	ORG_VIVO 4279 4287	paciente
+T59	ORG_VIVO 4388 4396	paciente
+T60	ORG_VIVO 4706 4714	paciente
+T61	ORG_VIVO 4845 4853	paciente
+T62	ORG_VIVO 5209 5217	paciente
+T63	ORG_VIVO 5411 5419	paciente
+T64	ENFERMEDAD 378 407	tiroiditis crónica autoinmune
+T65	ENFERMEDAD 560 580	problema periodontal
+T66	ENFERMEDAD 914 962	diastema congénito entre los incisivos centrales
+T67	ENFERMEDAD 1025 1053	trauma oclusal en protrusiva
+T68	ENFERMEDAD 1360 1373	periodontitis
+T69	ENFERMEDAD 2605 2673	Porphyromonas Gingivalis, Tannerella Forshytia y Treponema Denticola
+T70	ENFERMEDAD 2941 2984	periodontitis crónica moderada generalizada
+T71	ENFERMEDAD 3152 3166	trauma oclusal
+T72	ENFERMEDAD 3227 3258	diastema interincisal congénito
+T73	ENFERMEDAD 4173 4207	periodontitis estadio III grado B.
+T74	ENFERMEDAD 4249 4262	periodontitis
+T75	ENFERMEDAD 4363 4376	periodontitis
+T76	ENFERMEDAD 4726 4739	periodontitis
+T77	ENFERMEDAD 4857 4870	periodontitis
+T78	ENFERMEDAD 5126 5152	periodontitis generalizada
+T79	ENFERMEDAD 5187 5200	periodontitis
+T80	ENFERMEDAD 5388 5401	periodontitis
+T81	ENFERMEDAD 5437 5463	periodontitis generalizada
+T82	OTROS-PROFESION 66 82	dentista general
+T83	SANITARIO-PROFESION 2488 2498	odontólogo

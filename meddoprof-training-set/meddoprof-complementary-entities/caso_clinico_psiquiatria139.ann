@@ -1,0 +1,37 @@
+T1	SINTOMA 134 156	dolor cólico abdominal
+T2	SINTOMA 229 243	fiebre elevada
+T3	SINTOMA 261 268	cefalea
+T4	SINTOMA 271 278	vómitos
+T5	SINTOMA 352 381	rigidez de nuca y fosa lumbar
+T6	SINTOMA 716 743	Serología para VIH negativa
+T7	SINTOMA 793 815	excitación psicomotriz
+T8	SINTOMA 817 832	edema de papila
+T9	SINTOMA 905 920	rigidez de nuca
+T10	PROCEDIMIENTO 286 299	examen físico
+T11	PROCEDIMIENTO 405 418	TC encefálica
+T12	PROCEDIMIENTO 424 434	examen ORL
+T13	PROCEDIMIENTO 536 551	Estudio del LCR
+T14	PROCEDIMIENTO 673 687	cultivo de LCR
+T15	PROCEDIMIENTO 745 757	hemocultivos
+T16	PROCEDIMIENTO 953 968	cultivo del LCR
+T17	NEG 158 161	sin
+T18	NSCO 162 197	alteraciones del tránsito digestivo
+T19	NEG 735 743	negativa
+T20	NSCO 745 757	hemocultivos
+T21	NEG 758 767	negativos
+T22	NEG 1138 1153	desaparición de
+T23	NSCO 1154 1189	la paresia de los nervios craneanos
+T24	UNC 1257 1268	Sospecha de
+T25	USCO 1269 1285	romboencefalitis
+T26	FARMACO 973 983	ampicilina
+T27	FARMACO 1047 1058	gentamicina
+T28	ORG_VIVO 0 5	Mujer
+T29	ORG_VIVO 701 714	monocytogenes
+T30	ORG_VIVO 731 734	VIH
+T31	ORG_VIVO 1252 1254	LM
+T32	ENFERMEDAD 673 714	cultivo de LCR desarrolló L monocytogenes
+T33	ENFERMEDAD 846 887	parálisis bilateral de VI nervio craneano
+T34	ENFERMEDAD 1157 1189	paresia de los nervios craneanos
+T35	ENFERMEDAD 1204 1250	Meningo-encefalitis por Listeria monocytogenes
+T36	ENFERMEDAD 1252 1254	LM
+T37	ENFERMEDAD 1269 1285	romboencefalitis

@@ -1,0 +1,46 @@
+T1	SINTOMA 419 426	prurito
+T2	SINTOMA 429 449	xerosis generalizada
+T3	PROCEDIMIENTO 185 201	antihistamínicos
+T4	PROCEDIMIENTO 472 490	Exploración física
+T5	PROCEDIMIENTO 496 514	exploración física
+T6	PROCEDIMIENTO 1004 1018	examen ungueal
+T7	PROCEDIMIENTO 1085 1119	biopsia de una de las tumoraciones
+T8	PROCEDIMIENTO 1265 1286	biopsias secuenciales
+T9	PROCEDIMIENTO 1449 1458	hemograma
+T10	PROCEDIMIENTO 1559 1625	punción aspiración con aguja fina de una adenopatía laterocervical
+T11	PROCEDIMIENTO 1886 1905	corticoides tópicos
+T12	PROCEDIMIENTO 2461 2501	terapia de rescate con radiación cutánea
+T13	PROCEDIMIENTO 2597 2633	transplante de médula ósea alogénico
+T14	PROCEDIMIENTO 2811 2822	corticoides
+T15	UNC 1324 1338	compatible con
+T16	USCO 1339 1345	eccema
+T17	NEG 2395 2398	sin
+T18	NSCO 2399 2432	obtenerse respuesta satisfactoria
+T19	NEG 2634 2636	no
+T20	NSCO 2637 2648	emparentado
+T21	FARMACO 2194 2204	Bexaroteno
+T22	FARMACO 2825 2835	tacrólimus
+T23	ORG_VIVO 10 15	Mujer
+T24	ORG_VIVO 44 54	familiares
+T25	ORG_VIVO 70 77	hermana
+T26	ORG_VIVO 102 112	personales
+T27	ORG_VIVO 206 214	paciente
+T28	ORG_VIVO 230 238	auxiliar
+T29	ORG_VIVO 1975 1983	paciente
+T30	ORG_VIVO 2322 2330	paciente
+T31	ORG_VIVO 2686 2694	paciente
+T32	ORG_VIVO 2751 2758	huésped
+T33	ENFERMEDAD 58 66	melanoma
+T34	ENFERMEDAD 128 156	urticaria crónica idiopática
+T35	ENFERMEDAD 288 328	lesiones pruriginosas en cabeza y cuello
+T36	ENFERMEDAD 367 402	alopecia en cuero cabelludo y cejas
+T37	ENFERMEDAD 542 676	lesiones tumorales y nodulares eritematosas y del color de la piel, que afectaban a la práctica totalidad del cuero cabelludo y cuello
+T38	ENFERMEDAD 801 863	alopecia mucinosa muy significativa en todo el cuero cabelludo
+T39	ENFERMEDAD 1153 1169	micosis fungoide
+T40	ENFERMEDAD 1339 1345	eccema
+T41	ENFERMEDAD 1600 1625	adenopatía laterocervical
+T42	ENFERMEDAD 1729 1745	micosis fungoide
+T43	ENFERMEDAD 1995 2028	adenopatías axilares e inguinales
+T44	ENFERMEDAD 2093 2124	infiltración ganglionar tumoral
+T45	ENFERMEDAD 2722 2784	enfermedad de injerto contra huésped de tipo esclerodermiforme
+T46	PACIENTE-PROFESION 230 260	auxiliar en una clínica dental

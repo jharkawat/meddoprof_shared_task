@@ -1,0 +1,58 @@
+T1	SINTOMA 88 131	alteraciones conductuales en la vía pública
+T2	SINTOMA 1801 1819	Agresividad verbal
+T3	SINTOMA 1902 1911	orientado
+T4	SINTOMA 2101 2138	Alucinaciones auditivas egodistónicas
+T5	SINTOMA 2173 2204	retraimiento emocional y social
+T6	SINTOMA 2210 2231	aplanamiento afectivo
+T7	SINTOMA 2337 2355	apetito disminuido
+T8	PROCEDIMIENTO 2526 2529	EKG
+T9	PROCEDIMIENTO 2531 2534	TAC
+T10	PROCEDIMIENTO 2536 2539	EEG
+T11	NEG 180 182	no
+T12	NSCO 183 203	enfermedades médicas
+T13	NEG 205 207	no
+T14	NSCO 208 216	cirugías
+T15	NEG 549 551	no
+T16	NSCO 552 582	diagnosticada hasta el momento
+T17	NEG 652 656	nula
+T18	NSCO 657 681	conciencia de enfermedad
+T19	NEG 2233 2235	No
+T20	NSCO 2236 2266	ideas de muerte ni autolíticas
+T21	NEG 2357 2359	No
+T22	NSCO 2360 2422	signos ni síntomas de intoxicación ni de abstinencia a tóxicos
+T23	NEG 2540 2543	sin
+T24	NSCO 2544 2565	hallazgos patológicos
+T25	NEG 2585 2594	negativos
+T26	FARMACO 2647 2656	Clozapina
+T27	ORG_VIVO 0 5	Varón
+T28	ORG_VIVO 246 254	cannabis
+T29	ORG_VIVO 355 365	familiares
+T30	ORG_VIVO 367 378	tío paterno
+T31	ORG_VIVO 474 482	paciente
+T32	ORG_VIVO 696 704	paciente
+T33	ORG_VIVO 754 761	hermana
+T34	ORG_VIVO 796 804	paciente
+T35	ORG_VIVO 874 882	paciente
+T36	ORG_VIVO 926 934	paciente
+T37	ORG_VIVO 1060 1070	familiares
+T38	ORG_VIVO 1145 1153	paciente
+T39	ORG_VIVO 1245 1252	hermana
+T40	ORG_VIVO 1292 1300	paciente
+T41	ORG_VIVO 1438 1445	hermana
+T42	ORG_VIVO 1450 1458	paciente
+T43	ORG_VIVO 1521 1529	paciente
+T44	ORG_VIVO 1850 1858	paciente
+T45	ENFERMEDAD 235 254	consumo de cannabis
+T46	ENFERMEDAD 396 419	esquizofrenia paranoide
+T47	ENFERMEDAD 448 451	no.
+T48	ENFERMEDAD 453 470	ENFERMEDAD ACTUAL
+T49	ENFERMEDAD 531 548	enfermedad mental
+T50	ENFERMEDAD 1722 1755	desorganización conductual severa
+T51	ENFERMEDAD 1775 1799	sintomatología psicótica
+T52	ENFERMEDAD 2014 2032	Angustia psicótica
+T53	ENFERMEDAD 2034 2062	Ideación delirante paranoide
+T54	ENFERMEDAD 2245 2251	muerte
+T55	ENFERMEDAD 2597 2608	DIAGNÓSTICO
+T56	ENFERMEDAD 2609 2632	Esquizofrenia paranoide
+T57	PACIENTE-SITUACION_LABORAL 1189 1212	vive en la marginalidad
+T58	PACIENTE-SITUACION_LABORAL 1386 1414	en situación de marginalidad

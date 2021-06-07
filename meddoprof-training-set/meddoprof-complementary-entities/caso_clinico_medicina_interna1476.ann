@@ -1,0 +1,185 @@
+T1	SINTOMA 316 324	febriles
+T2	SINTOMA 474 480	fiebre
+T3	SINTOMA 510 516	fiebre
+T4	SINTOMA 720 726	fiebre
+T5	SINTOMA 770 781	escalofríos
+T6	SINTOMA 783 792	tiritonas
+T7	SINTOMA 828 842	Orinas oscuras
+T8	SINTOMA 844 855	polaquiuria
+T9	SINTOMA 873 917	dolor a nivel de la articulación sacroilíaca
+T10	SINTOMA 936 968	artralgias en rodillas y tobillo
+T11	SINTOMA 1150 1158	eupneico
+T12	SINTOMA 1208 1245	Abdomen: blando, depresible, indoloro
+T13	SINTOMA 1265 1271	edemas
+T14	SINTOMA 4440 4453	adenomegalias
+T15	SINTOMA 5376 5382	fiebre
+T16	SINTOMA 5421 5433	dolor lumbar
+T17	SINTOMA 5922 5936	fiebre elevada
+T18	SINTOMA 5939 5954	dolor abdominal
+T19	SINTOMA 6390 6396	fiebre
+T20	SINTOMA 6431 6434	tos
+T21	PROCEDIMIENTO 814 826	antitérmicos
+T22	PROCEDIMIENTO 1080 1098	Exploración física
+T23	PROCEDIMIENTO 1709 1726	Gasometría venosa
+T24	PROCEDIMIENTO 1793 1805	Hemocultivos
+T25	PROCEDIMIENTO 1850 1860	Urocultivo
+T26	PROCEDIMIENTO 1871 1902	Radiografías de tórax y abdomen
+T27	PROCEDIMIENTO 1913 1916	ECG
+T28	PROCEDIMIENTO 1976 1985	Hemograma
+T29	PROCEDIMIENTO 3718 3730	Hemocultivos
+T30	PROCEDIMIENTO 3770 3781	Urocultivos
+T31	PROCEDIMIENTO 3971 4002	Radiografías de tórax y abdomen
+T32	PROCEDIMIENTO 4014 4034	Radiografía de manos
+T33	PROCEDIMIENTO 4069 4087	TC tórax y abdomen
+T34	PROCEDIMIENTO 4489 4517	Ecocardiograma transtorácico
+T35	PROCEDIMIENTO 4896 4912	Gammagrafía ósea
+T36	PROCEDIMIENTO 5218 5224	PET-TC
+T37	PROCEDIMIENTO 5443 5467	maniobra de sacroilíacas
+T38	PROCEDIMIENTO 5578 5589	hemocultivo
+T39	PROCEDIMIENTO 5688 5700	hemocultivos
+T40	PROCEDIMIENTO 5750 5764	ecocardiograma
+T41	PROCEDIMIENTO 5994 6013	terapia antibiótica
+T42	PROCEDIMIENTO 6073 6091	TC toracoabdominal
+T43	PROCEDIMIENTO 6253 6274	terapias antibióticas
+T44	PROCEDIMIENTO 6455 6473	exploración física
+T45	NEG 44 47	sin
+T46	NSCO 48 100	alergias medicamentosas conocidas ni hábitos tóxicos
+T47	UNC 495 509	compatible con
+T48	USCO 510 524	fiebre Q aguda
+T49	NEG 1004 1007	sin
+T50	NSCO 1008 1030	antecedente traumático
+T51	NEG 1032 1035	Sin
+T52	NSCO 1036 1078	otra sintomatología por órganos y aparatos
+T53	NEG 1261 1264	sin
+T54	NSCO 1265 1310	edemas ni signos de trombosis venosa profunda
+T55	NEG 1349 1352	Sin
+T56	NSCO 1353 1385	adenopatías ni lesiones cutáneas
+T57	NSCO 1850 1860	Urocultivo
+T58	NEG 1862 1870	negativo
+T59	NSCO 1871 1892	Radiografías de tórax
+T60	NSCO 2886 2911	Ag Legionella pneumophyla
+T61	NEG 2912 2920	negativo
+T62	NEG 2991 3000	negativos
+T63	NEG 3157 3165	negativo
+T64	NEG 3197 3205	negativo
+T65	NEG 3236 3244	negativo
+T66	NEG 3258 3266	negativo
+T67	NSCO 3266 3279	, antiHBs VHB
+T68	NEG 3280 3288	negativo
+T69	NEG 3297 3305	negativo
+T70	NSCO 3305 3313	, Ac VIH
+T71	NEG 3314 3322	negativo
+T72	NSCO 3324 3339	rosa de bengala
+T73	NEG 3340 3348	negativo
+T74	NEG 3350 3360	Rickettsia
+T75	NSCO 3361 3368	mooseri
+T76	NEG 3369 3377	negativo
+T77	NEG 3379 3389	Rickettsia
+T78	NSCO 3390 3397	conorii
+T79	NEG 3398 3406	negativo
+T80	NEG 3427 3435	negativo
+T81	NEG 3484 3492	negativo
+T82	NEG 3506 3514	negativo
+T83	NEG 3607 3615	negativo
+T84	NEG 3631 3639	negativo
+T85	NSCO 3639 3671	, IgG+IgM Legionella pneumophila
+T86	NEG 3672 3680	negativo
+T87	NEG 3708 3716	negativo
+T88	NEG 3759 3768	negativos
+T89	NEG 3783 3792	negativos
+T90	NEG 3835 3843	negativo
+T91	NEG 3926 3934	negativo
+T92	NEG 3962 3970	negativo
+T93	NSCO 3971 3992	Radiografías de tórax
+T94	NEG 4036 4039	sin
+T95	NSCO 4040 4067	alteraciones significativas
+T96	NEG 4155 4158	sin
+T97	NSCO 4159 4184	nódulos en el intersticio
+T98	NEG 4346 4349	sin
+T99	NSCO 4350 4364	LOEs con porta
+T100	NEG 4380 4383	sin
+T101	NSCO 4384 4415	lesiones en la pared ni liquido
+T102	NEG 4437 4439	No
+T103	NSCO 4440 4453	adenomegalias
+T104	NEG 4548 4551	sin
+T105	NSCO 4552 4594	defectos segmentarios de la contractilidad
+T106	NEG 4695 4698	sin
+T107	NSCO 4699 4726	alteraciones significativas
+T108	NEG 4728 4730	No
+T109	NSCO 4731 4807	se evidencian vegetaciones ni otros signos ecocardiográficos de endocarditis
+T110	UNC 5002 5016	compatible con
+T111	USCO 5017 5047	proceso inflamatorio bilateral
+T112	UNC 5277 5290	sugestivos de
+T113	USCO 5291 5311	proceso inflamatorio
+T114	NEG 5468 5477	negativas
+T115	NEG 5535 5538	sin
+T116	NSCO 5539 5551	ser efectivo
+T117	NEG 5564 5573	se retira
+T118	NEG 5765 5768	sin
+T119	NSCO 5769 5806	apoyar el diagnóstico de endocarditis
+T120	NEG 6143 6146	sin
+T121	NSCO 6147 6224	encontrar una fuente oculta de absceso ni germen en las serologías realizadas
+T122	NEG 6227 6230	sin
+T123	NSCO 6231 6293	respuesta a múltiples terapias antibióticas de amplio espectro
+T124	FARMACO 630 640	Formoterol
+T125	FARMACO 664 676	simvastatina
+T126	FARMACO 5523 5534	doxiciclina
+T127	FARMACO 5727 5738	doxiciclina
+T128	FARMACO 6309 6317	imipenem
+T129	FARMACO 6320 6329	linezolid
+T130	ORG_VIVO 13 23	personales
+T131	ORG_VIVO 25 30	Varón
+T132	ORG_VIVO 37 42	años
+T133	ORG_VIVO 102 110	Ganadero
+T134	ORG_VIVO 128 134	ganado
+T135	ORG_VIVO 1821 1848	Estaphilococcus auricularis
+T136	ORG_VIVO 2889 2911	Legionella pneumophyla
+T137	ORG_VIVO 3147 3155	brucella
+T138	ORG_VIVO 3193 3196	VHA
+T139	ORG_VIVO 3211 3214	VHA
+T140	ORG_VIVO 3228 3231	HBs
+T141	ORG_VIVO 3232 3235	VHB
+T142	ORG_VIVO 3246 3253	antiHBc
+T143	ORG_VIVO 3254 3257	VHB
+T144	ORG_VIVO 3268 3275	antiHBs
+T145	ORG_VIVO 3276 3279	VHB
+T146	ORG_VIVO 3293 3296	VHC
+T147	ORG_VIVO 3310 3313	VIH
+T148	ORG_VIVO 3350 3368	Rickettsia mooseri
+T149	ORG_VIVO 3379 3397	Rickettsia conorii
+T150	ORG_VIVO 3408 3422	Parvovirus B19
+T151	ORG_VIVO 3451 3468	Coxiella burnetti
+T152	ORG_VIVO 3585 3606	micoplasma pneumoniae
+T153	ORG_VIVO 3620 3630	lehismania
+T154	ORG_VIVO 3649 3671	Legionella pneumophila
+T155	ORG_VIVO 3690 3707	Chlamidia species
+T156	ORG_VIVO 3821 3834	micobacterias
+T157	ORG_VIVO 3865 3870	flora
+T158	ORG_VIVO 3912 3925	micobacterias
+T159	ORG_VIVO 5327 5335	paciente
+T160	ORG_VIVO 5624 5650	Staphilococcus auricularis
+T161	ORG_VIVO 6189 6195	germen
+T162	ORG_VIVO 6400 6408	paciente
+T163	ENFERMEDAD 48 71	alergias medicamentosas
+T164	ENFERMEDAD 172 197	Asma bronquial intrínseca
+T165	ENFERMEDAD 200 210	dislipemia
+T166	ENFERMEDAD 212 222	Brucelosis
+T167	ENFERMEDAD 254 275	sacroileítis brucelar
+T168	ENFERMEDAD 384 394	brucelosis
+T169	ENFERMEDAD 396 404	neumonía
+T170	ENFERMEDAD 407 428	sacroileítis brucelar
+T171	ENFERMEDAD 995 1003	esguince
+T172	ENFERMEDAD 1285 1310	trombosis venosa profunda
+T173	ENFERMEDAD 1353 1364	adenopatías
+T174	ENFERMEDAD 1368 1385	lesiones cutáneas
+T175	ENFERMEDAD 1918 1937	taquicardia sinusal
+T176	ENFERMEDAD 4285 4302	derrame bilateral
+T177	ENFERMEDAD 4440 4453	adenomegalias
+T178	ENFERMEDAD 4648 4675	insuficiencia mitral ligera
+T179	ENFERMEDAD 4795 4807	endocarditis
+T180	ENFERMEDAD 4816 4880	derrame pericárdico a nivel de aurícula derecha y posterolateral
+T181	ENFERMEDAD 5017 5047	proceso inflamatorio bilateral
+T182	ENFERMEDAD 5148 5208	poliartritis con afectación de sacroilíacas, manos y tobillo
+T183	ENFERMEDAD 5794 5806	endocarditis
+T184	ENFERMEDAD 6178 6185	absceso
+T185	PACIENTE-PROFESION 102 110	Ganadero

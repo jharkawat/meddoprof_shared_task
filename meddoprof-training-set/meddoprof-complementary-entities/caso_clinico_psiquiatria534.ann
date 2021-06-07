@@ -1,0 +1,113 @@
+T1	SINTOMA 223 245	sintomatología maníaca
+T2	SINTOMA 1744 1760	extrapiramidales
+T3	SINTOMA 1762 1770	acatisia
+T4	SINTOMA 2552 2583	risas inmotivadas y desaforadas
+T5	SINTOMA 2877 2898	aumento de la ingesta
+T6	SINTOMA 2918 2933	pérdida de peso
+T7	SINTOMA 3232 3253	inquietud psicomotriz
+T8	SINTOMA 3255 3289	Hiperactividad motora improductiva
+T9	SINTOMA 3291 3311	Discurso verborreico
+T10	SINTOMA 3351 3366	ánimo disfórico
+T11	SINTOMA 3409 3421	Taquipsiquia
+T12	SINTOMA 3463 3500	pérdida de distancias interpersonales
+T13	SINTOMA 3645 3661	Pérdida ponderal
+T14	SINTOMA 4267 4292	alteraciones conductuales
+T15	SINTOMA 4657 4662	dolor
+T16	SINTOMA 4703 4710	cefalea
+T17	SINTOMA 4806 4811	dolor
+T18	SINTOMA 5518 5524	llanto
+T19	SINTOMA 5526 5551	actividad motora alterada
+T20	SINTOMA 7121 7129	insomnio
+T21	PROCEDIMIENTO 1710 1718	sedación
+T22	PROCEDIMIENTO 2005 2035	tratamiento psicofarmacológico
+T23	PROCEDIMIENTO 3858 3867	hemograma
+T24	PROCEDIMIENTO 4394 4412	exploración física
+T25	PROCEDIMIENTO 5795 5819	introduciendo hipnóticos
+T26	PROCEDIMIENTO 6602 6622	controles de glucosa
+T27	NEG 371 382	incapacidad
+T28	NSCO 383 388	legal
+T29	NEG 390 393	Sin
+T30	NSCO 394 439	reacciones alérgicas medicamentosas conocidas
+T31	NEG 441 444	Sin
+T32	NSCO 445 460	hábitos tóxicos
+T33	NEG 1416 1424	retirado
+T34	NEG 2111 2114	Sin
+T35	NSCO 2115 2149	antecedentes familiares de interés
+T36	NEG 3122 3134	desorientado
+T37	UNC 4469 4480	sospecha de
+T38	USCO 4481 4513	un trastorno orgánico subyacente
+T39	UNC 5060 5067	posible
+T40	USCO 5068 5101	trastorno afectivo en una persona
+T41	NEG 6012 6016	nula
+T42	NSCO 6017 6024	mejoría
+T43	NEG 6136 6148	suspender de
+T44	NSCO 6149 6195	forma progresiva el tratamiento con olanzapina
+T45	FARMACO 1310 1315	litio
+T46	FARMACO 1453 1468	ácido valproico
+T47	FARMACO 1573 1584	haloperidol
+T48	FARMACO 1586 1601	levomepromazina
+T49	FARMACO 1603 1613	quetiapina
+T50	FARMACO 1615 1625	olanzapina
+T51	FARMACO 1627 1636	asenapina
+T52	FARMACO 1638 1649	risperidona
+T53	FARMACO 2176 2191	ácido valproico
+T54	FARMACO 2211 2221	olanzapina
+T55	FARMACO 2233 2248	levomepromazina
+T56	FARMACO 2270 2278	zolpidem
+T57	FARMACO 3985 4000	ácido valproico
+T58	FARMACO 4132 4141	clozapina
+T59	FARMACO 5748 5758	olanzapina
+T60	FARMACO 5761 5776	ácido valproico
+T61	FARMACO 6110 6124	antipsicótico–
+T62	FARMACO 6185 6195	olanzapina
+T63	FARMACO 6198 6213	levomepromazina
+T64	FARMACO 6240 6249	clozapina
+T65	FARMACO 6747 6756	clozapina
+T66	FARMACO 6879 6888	clozapina
+T67	FARMACO 6961 6976	ácido valproico
+T68	FARMACO 7055 7063	zolpidem
+T69	FARMACO 7087 7099	lormetazepam
+T70	ORG_VIVO 0 8	Paciente
+T71	ORG_VIVO 274 284	personales
+T72	ORG_VIVO 286 291	varón
+T73	ORG_VIVO 328 334	padres
+T74	ORG_VIVO 348 356	familiar
+T75	ORG_VIVO 1015 1023	juventud
+T76	ORG_VIVO 1354 1362	paciente
+T77	ORG_VIVO 1667 1675	paciente
+T78	ORG_VIVO 2128 2138	familiares
+T79	ORG_VIVO 2344 2351	familia
+T80	ORG_VIVO 2397 2405	paciente
+T81	ORG_VIVO 2673 2678	madre
+T82	ORG_VIVO 2694 2701	familia
+T83	ORG_VIVO 2733 2740	persona
+T84	ORG_VIVO 2985 2992	familia
+T85	ORG_VIVO 4300 4307	persona
+T86	ORG_VIVO 4534 4543	pacientes
+T87	ORG_VIVO 5094 5101	persona
+T88	ORG_VIVO 5212 5220	paciente
+T89	ORG_VIVO 5575 5585	familiares
+T90	ORG_VIVO 5588 5598	personales
+T91	ORG_VIVO 5903 5911	paciente
+T92	ENFERMEDAD 38 62	trastorno bipolar tipo I
+T93	ENFERMEDAD 65 89	discapacidad intelectual
+T94	ENFERMEDAD 223 245	sintomatología maníaca
+T95	ENFERMEDAD 394 429	reacciones alérgicas medicamentosas
+T96	ENFERMEDAD 496 520	diabetes mellitus tipo 2
+T97	ENFERMEDAD 522 536	Hipotiroidismo
+T98	ENFERMEDAD 538 564	Encefalitis post-sarampión
+T99	ENFERMEDAD 705 731	insuficiencia respiratoria
+T100	ENFERMEDAD 733 752	neumonía aspirativa
+T101	ENFERMEDAD 755 772	coma hipercápnico
+T102	ENFERMEDAD 931 956	trastorno bipolar tipo I.
+T103	ENFERMEDAD 1245 1260	depresivo grave
+T104	ENFERMEDAD 1888 1910	sintomatología maníaca
+T105	ENFERMEDAD 2309 2326	ENFERMEDAD ACTUAL
+T106	ENFERMEDAD 3525 3539	Insomnio mixto
+T107	ENFERMEDAD 4484 4502	trastorno orgánico
+T108	ENFERMEDAD 5068 5086	trastorno afectivo
+T109	ENFERMEDAD 5259 5277	trastorno afectivo
+T110	ENFERMEDAD 5602 5607	manía
+T111	ENFERMEDAD 5610 5619	depresión
+T112	SANITARIO-PROFESION 2060 2082	equipo de Salud Mental
+T113	PACIENTE-SITUACION_LABORAL 358 388	Situación de incapacidad legal

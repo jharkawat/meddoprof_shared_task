@@ -1,0 +1,99 @@
+T1	SINTOMA 1526 1537	quejumbroso
+T2	SINTOMA 1584 1593	boca seca
+T3	SINTOMA 1598 1604	fatiga
+T4	SINTOMA 1788 1809	inquietud psicomotriz
+T5	SINTOMA 1812 1825	irritabilidad
+T6	SINTOMA 2123 2131	insomnio
+T7	SINTOMA 2258 2266	paranoia
+T8	SINTOMA 2505 2514	orientado
+T9	SINTOMA 2516 2527	colaborador
+T10	SINTOMA 2612 2620	Suspicaz
+T11	SINTOMA 2670 2680	disárticos
+T12	SINTOMA 3887 3894	mutista
+T13	SINTOMA 4001 4009	angustia
+T14	SINTOMA 4022 4039	rigidez cognitiva
+T15	SINTOMA 5719 5727	insomnio
+T16	PROCEDIMIENTO 849 879	tratamiento psicofarmacológico
+T17	PROCEDIMIENTO 1366 1396	tratamiento psicofarmacológico
+T18	PROCEDIMIENTO 3225 3234	hemograma
+T19	PROCEDIMIENTO 4201 4242	tratamiento psicofarmacológico parenteral
+T20	PROCEDIMIENTO 4548 4583	tratamiento psicofarmacológico oral
+T21	NEG 391 394	sin
+T22	NSCO 395 440	antecedentes personales orgánicos consignados
+T23	NEG 442 444	No
+T24	NSCO 445 478	alergias medicamentosas conocidas
+T25	NEG 480 482	No
+T26	NSCO 483 493	IQ previas
+T27	NEG 597 599	no
+T28	NSCO 600 607	filiada
+T29	NEG 1193 1195	No
+T30	NSCO 1196 1227	consumo de tóxicos concomitante
+T31	NEG 1900 1902	no
+T32	NSCO 1903 1931	necesito ninguna medicación"
+T33	NEG 2020 2022	no
+T34	NSCO 2023 2107	acudiendo el paciente a las citas de revisión, negándose a toda ingesta de alimentos
+T35	NEG 2386 2388	no
+T36	NSCO 2389 2410	se fiaba de la comida
+T37	NEG 2412 2414	no
+T38	NSCO 2415 2438	bebía agua porque decía
+T39	NEG 2552 2554	No
+T40	NSCO 2555 2589	alteraciones de la psicomotricidad
+T41	NEG 2645 2648	sin
+T42	NSCO 2649 2680	rasgos disfásicos ni disárticos
+T43	NEG 2994 2996	no
+T44	NSCO 2997 3005	funciona
+T45	NEG 3045 3050	Niega
+T46	NSCO 3051 3080	pseudoalucinaciones auditivas
+T47	NEG 3111 3113	No
+T48	NSCO 3114 3140	alteraciones de biorrtimos
+T49	NEG 3690 3692	no
+T50	NSCO 3693 3734	alcanzaba elevado grado de estructuración
+T51	NEG 3838 3846	negativa
+T52	NSCO 3847 3859	a la ingesta
+T53	NEG 4857 4859	no
+T54	NSCO 4860 4963	existiendo secundarismos de magnitud que pudieran artefactar la adherencia al tratamiento farmacológico
+T55	NEG 5018 5021	sin
+T56	NSCO 5022 5039	incidencia alguna
+T57	NEG 5608 5611	sin
+T58	NSCO 5612 5628	mayor incidencia
+T59	FARMACO 915 926	risperidona
+T60	FARMACO 1043 1054	aripiprazol
+T61	FARMACO 1056 1066	olanzapina
+T62	FARMACO 1068 1079	ziprasidona
+T63	FARMACO 1082 1092	quetiapina
+T64	FARMACO 1180 1191	risperidona
+T65	FARMACO 1398 1409	risperidona
+T66	FARMACO 4264 4275	haloperidol
+T67	FARMACO 4662 4671	clozapina
+T68	FARMACO 5651 5660	clozapina
+T69	FARMACO 5677 5687	clonazepam
+T70	ORG_VIVO 0 14	Paciente varón
+T71	ORG_VIVO 249 259	personales
+T72	ORG_VIVO 261 268	soltero
+T73	ORG_VIVO 283 289	padres
+T74	ORG_VIVO 300 307	hermano
+T75	ORG_VIVO 408 418	personales
+T76	ORG_VIVO 509 519	familiares
+T77	ORG_VIVO 521 526	primo
+T78	ORG_VIVO 527 542	hermano paterno
+T79	ORG_VIVO 563 574	tía paterna
+T80	ORG_VIVO 958 965	familia
+T81	ORG_VIVO 1033 1041	paciente
+T82	ORG_VIVO 1459 1467	paciente
+T83	ORG_VIVO 1637 1645	paciente
+T84	ORG_VIVO 2036 2044	paciente
+T85	ORG_VIVO 2222 2229	hermano
+T86	ORG_VIVO 2860 2868	personas
+T87	ORG_VIVO 2897 2904	familia
+T88	ORG_VIVO 3825 3833	paciente
+T89	ORG_VIVO 4321 4329	paciente
+T90	ORG_VIVO 4984 4992	paciente
+T91	ORG_VIVO 5393 5401	familiar
+T92	ENFERMEDAD 547 560	esquizofrenia
+T93	ENFERMEDAD 579 596	enfermedad mental
+T94	ENFERMEDAD 716 717	‘
+T95	ENFERMEDAD 718 741	esquizofrenia paranoide
+T96	ENFERMEDAD 1319 1337	hiperprolactinemia
+T97	ENFERMEDAD 3391 3402	DIAGNÓSTICO
+T98	ENFERMEDAD 3403 3432	Esquizofrenia paranoide - F20
+T99	ENFERMEDAD 5708 5716	ansiedad

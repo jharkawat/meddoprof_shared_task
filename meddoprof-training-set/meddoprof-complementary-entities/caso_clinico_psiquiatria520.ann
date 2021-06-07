@@ -1,0 +1,26 @@
+T1	SINTOMA 406 413	euforia
+T2	SINTOMA 415 441	desorganización conductual
+T3	SINTOMA 443 464	hiperactividad motora
+T4	SINTOMA 466 476	taquifemia
+T5	SINTOMA 753 764	hipertímica
+T6	SINTOMA 770 788	expansividad yoica
+T7	SINTOMA 790 820	pérdida de la distancia social
+T8	SINTOMA 888 901	irritabilidad
+T9	SINTOMA 912 943	dificultades para su contención
+T10	SINTOMA 1723 1733	hipertimia
+T11	PROCEDIMIENTO 1003 1012	hemograma
+T12	NEG 678 680	No
+T13	NSCO 681 713	reconoció actividad alucinatoria
+T14	NEG 1795 1797	No
+T15	NSCO 1798 1814	aparecen de cara
+T16	FARMACO 1217 1232	ácido valproico
+T17	FARMACO 1541 1550	clozapina
+T18	ORG_VIVO 0 14	Paciente mujer
+T19	ORG_VIVO 273 281	paciente
+T20	ORG_VIVO 732 740	paciente
+T21	ORG_VIVO 1448 1456	paciente
+T22	ORG_VIVO 1751 1758	familia
+T23	ENFERMEDAD 44 69	trastorno esquizoafectivo
+T24	ENFERMEDAD 1312 1323	DIAGNÓSTICO
+T25	ENFERMEDAD 1324 1349	Trastorno esquizoafectivo
+T26	ENFERMEDAD 1723 1733	hipertimia

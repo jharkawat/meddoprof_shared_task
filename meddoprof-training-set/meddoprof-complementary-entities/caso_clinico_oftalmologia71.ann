@@ -1,0 +1,11 @@
+T1	SINTOMA 235 261	disminución de AV en el OD
+T2	SINTOMA 335 372	engrosamiento de las capas retinianas
+T3	PROCEDIMIENTO 88 128	facoemulsificación más lente intraocular
+T4	PROCEDIMIENTO 319 322	OCT
+T5	NEG 486 488	no
+T6	NSCO 489 522	se apreciaban lesiones retinianas
+T7	ORG_VIVO 0 5	Varón
+T8	ENFERMEDAD 34 70	cataratas nucleares ++ en ambos ojos
+T9	ENFERMEDAD 374 388	rotura del EPR
+T10	ENFERMEDAD 396 428	desprendimiento seroso de retina
+T11	ENFERMEDAD 503 522	lesiones retinianas

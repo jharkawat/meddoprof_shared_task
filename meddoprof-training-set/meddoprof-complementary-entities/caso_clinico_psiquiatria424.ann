@@ -1,0 +1,94 @@
+T1	SINTOMA 1570 1579	orientado
+T2	SINTOMA 1955 1963	disforia
+T3	SINTOMA 4445 4456	eosinofilia
+T4	SINTOMA 4679 4685	fiebre
+T5	SINTOMA 4708 4725	síntomas gripales
+T6	SINTOMA 4730 4736	fatiga
+T7	SINTOMA 4960 4969	sialorrea
+T8	SINTOMA 5953 5961	insomnio
+T9	PROCEDIMIENTO 2165 2176	TAC craneal
+T10	PROCEDIMIENTO 2178 2181	EKG
+T11	PROCEDIMIENTO 2208 2235	pruebas de función hepática
+T12	PROCEDIMIENTO 2303 2321	sedimento de orina
+T13	PROCEDIMIENTO 2324 2333	hemograma
+T14	PROCEDIMIENTO 2467 2470	EKG
+T15	PROCEDIMIENTO 2667 2676	Hemograma
+T16	PROCEDIMIENTO 4373 4382	hemograma
+T17	PROCEDIMIENTO 4614 4632	electrocardiograma
+T18	NEG 170 173	sin
+T19	NSCO 174 179	hijos
+T20	UNC 202 208	Parece
+T21	USCO 209 253	que aproximadamente un mes antes del ingreso
+T22	NEG 473 475	no
+T23	NSCO 476 494	acababa de mejorar
+T24	NEG 876 884	negativa
+T25	NEG 904 906	no
+T26	NSCO 907 980	precisa seguimiento posterior ni realización de más estudios por su parte
+T27	NEG 1155 1157	No
+T28	NSCO 1158 1181	ingresos previos en UHP
+T29	NEG 1183 1185	No
+T30	NSCO 1186 1209	refiere hábitos tóxicos
+T31	NEG 1473 1476	sin
+T32	NSCO 1477 1484	interés
+T33	NEG 1511 1514	sin
+T34	NSCO 1515 1527	antecedentes
+T35	NEG 1965 1967	No
+T36	NSCO 1968 2047	presenta ideación ni intencionalidad autolítica ni heteroagresiva sistematizada
+T37	NEG 2091 2093	No
+T38	NSCO 2094 2138	otra alteración de las funciones instintivas
+T39	NEG 2334 2337	sin
+T40	NSCO 2338 2361	alteraciones reseñables
+T41	NEG 3898 3901	sin
+T42	NSCO 3902 3923	mejoría significativa
+T43	NEG 4633 4636	sin
+T44	NSCO 4637 4657	hallazgos de interés
+T45	NEG 4659 4666	tampoco
+T46	NSCO 4667 4736	se objetivó fiebre en ningún momento, ni síntomas gripales, ni fatiga
+T47	NEG 4750 4760	descartado
+T48	NSCO 4761 4772	miocarditis
+T49	NEG 5516 5519	sin
+T50	NSCO 5520 5542	incidencias reseñables
+T51	FARMACO 1241 1251	olanzapina
+T52	FARMACO 1275 1285	olanzapina
+T53	FARMACO 1301 1314	zuclopentixol
+T54	FARMACO 2566 2575	clozapina
+T55	FARMACO 3724 3736	paliperidona
+T56	FARMACO 3750 3761	risperidona
+T57	FARMACO 3782 3793	haloperidol
+T58	FARMACO 3831 3841	olanzapina
+T59	FARMACO 3960 3969	clozapina
+T60	FARMACO 4067 4078	haloperidol
+T61	FARMACO 4090 4099	clozapina
+T62	FARMACO 4550 4559	clozapina
+T63	FARMACO 4907 4916	clozapina
+T64	FARMACO 5787 5796	clozapina
+T65	FARMACO 5813 5822	clozapina
+T66	FARMACO 5839 5850	haloperidol
+T67	FARMACO 5868 5877	trazodona
+T68	FARMACO 5963 5972	lorazepam
+T69	ORG_VIVO 0 5	Varón
+T70	ORG_VIVO 136 143	fratría
+T71	ORG_VIVO 151 159	hermanos
+T72	ORG_VIVO 161 168	soltero
+T73	ORG_VIVO 174 179	hijos
+T74	ORG_VIVO 194 200	padres
+T75	ORG_VIVO 566 576	personales
+T76	ORG_VIVO 1031 1039	Infantil
+T77	ORG_VIVO 1499 1509	familiares
+T78	ORG_VIVO 1653 1659	padres
+T79	ORG_VIVO 2266 2269	VIH
+T80	ORG_VIVO 4942 4950	paciente
+T81	ORG_VIVO 5491 5498	familia
+T82	ORG_VIVO 5659 5666	familia
+T83	ENFERMEDAD 90 121	descompensación psicopatológica
+T84	ENFERMEDAD 578 582	NAMC
+T85	ENFERMEDAD 1066 1089	esquizofrenia paranoide
+T86	ENFERMEDAD 1120 1139	retraso mental leve
+T87	ENFERMEDAD 1778 1784	muerte
+T88	ENFERMEDAD 1800 1828	ideación delirante paranoide
+T89	ENFERMEDAD 3440 3451	DIAGNÓSTICO
+T90	ENFERMEDAD 3452 3475	Esquizofrenia paranoide
+T91	ENFERMEDAD 3477 3482	F20.0
+T92	ENFERMEDAD 3592 3616	sintomatología psicótica
+T93	ENFERMEDAD 4761 4772	miocarditis
+T94	ENFERMEDAD 6008 6016	ansiedad

@@ -1,0 +1,21 @@
+El señor R.P., de 45 años de edad, se identifica como cuidador primario de su mama que padece de Demencia Senil, lo cual le causa sobrecarga.
+
+Al interrogatorio refiere ser soltero, con estudios de licenciatura trunca, por lo cual se dedica a la venta de ropa de segunda a domicilio, por lo tanto debe llevarse a su mamá con él mientras trabaja. Menciona que al estar el pendiente de todas las necesidades de él y su mamá lo hace sentir "a veces siento que ya no puedo". De igual forma, refiere sentirse molesto y/o ansioso cuando la gente lo ignora o está en un embotellamiento cuando trabaja. Le produce incertidumbre y aun mayor ansiedad que su mama se enferme. Expresa exceso de estrés situacional 8/10 en una escala de 10 puntos) y cambios de la memoria se presentan con frecuencia "a veces se me olvidan las cosas y es difícil mantener la concentración". Tabaquismo positivo por más de 20 años (3-5 cigarrillos al día después de los alimentos, por las mañanas y por las noches). También refiere sentir "mucha tensión en los hombros". Por otro lado, menciona que se desparasitó hace 8 meses, niega examen de próstata y la autoexploración de los testículos.
+
+A la exploración física se observa paciente aparentemente sano, consciente y orientado en persona, espacio y tiempo. Miembros superiores e inferiores íntegros y ligera palidez de tegumentos. Pelo abundante con tinte y con aspecto limpio, pupilas isocóricas y normoreactivas. Cuenta con todas sus piezas dentales de aspecto amarillentas, encías rosadas y lengua sin señales de deshidratación. Con ruidos pulmonares normales y peristalsis presentes a la auscultación. Sus signos vitales son: T/A 110/70mmHg, FC 94×1, FR 19×1, y T 36.6C, Peso: 67 Kg, Talla: 1.60 m, IMC: 26.2 (sobrepeso).
+
+Retomando de los datos anteriores y de acuerdo al Síndrome General de Adaptación al estrés, el señor R.P. se encuentra en la Fase de Alarma en el proceso de adaptación por parte del organismo. En esta fase la activación del eje hipofisosuprarrenal; existe una reacción instantánea y automática que se compone de una serie de síntomas siempre iguales, aunque de mayor a menor intensidad. Durante esta fase las agresiones físicas como con las psíquicas se activan y el hipotálamo segrega la hormona CRF (factor liberador de corticotropina), que actúa sobre la hipófisis y provoca la secreción de la hormona adrenocorticotropa (ACTH). Esta secreción incide sobre la corteza de las glándulas suprarrenales, dando lugar a la producción de corticoides que pasan al torrente sanguíneo y producen múltiples cambios orgánicos.
+
+Los problemas de memoria, la incapacidad para concentrarse, los pensamientos ansiosos y la constante preocupación, son consecuencias cognitivas que presenta el señor Ruiz Patiño debido a los cambios del organismo. Por otro lado, el mal humor y la irritabilidad son afecciones a nivel emocional que se presentan debido a los cambios que el organismo intenta superar, adaptarse o afrontar con la presencia de factores que percibe como una amenaza o un agente nocivo como; el que su mama se enferme o el que la gente lo ignore. 
+
+
+Diagnóstico de Enfermería: 
+
+(00177) Estrés por sobrecarga R/C coexistencia de múltiples agentes estresantes M/P (expresa sentimientos crecientes de ira y de impaciencia, expresa exceso de estrés situacional 8/10 en una escala de 10 puntos).
+DOMINIO: 9 (Afrontamiento/Tolerancia al estrés)
+CLASE: 2 (Respuestas de afrontamiento)
+
+
+(00099) Mantenimiento ineficaz de la salud R/C incapacidad para realizar juicios apropiados M/P falta demostrada de conocimientos respecto a las prácticas sanitarias básicas (fumador, mala técnica de cepillado de dientes, mas de 8 meses de ultima desparasitación, desconoce técnica de autoexploración testicular).
+DOMINIO: 1 Promoción de la Salud
+CLASE: 2 Gestión de la Salud

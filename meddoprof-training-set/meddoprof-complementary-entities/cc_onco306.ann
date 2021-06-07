@@ -1,0 +1,106 @@
+T1	SINTOMA 184 214	aumento del tamaño del escroto
+T2	SINTOMA 302 308	fiebre
+T3	SINTOMA 312 354	aumento de la temperatura a nivel escrotal
+T4	SINTOMA 739 764	Hemodinamicamente estable
+T5	SINTOMA 767 774	afebril
+T6	SINTOMA 3424 3431	astenia
+T7	SINTOMA 3441 3448	vómitos
+T8	SINTOMA 3666 3673	astenia
+T9	SINTOMA 3857 3875	molestias lumbares
+T10	SINTOMA 4433 4440	astenia
+T11	PROCEDIMIENTO 447 465	ecografía escrotal
+T12	PROCEDIMIENTO 663 692	orquiectomía inguinal derecha
+T13	PROCEDIMIENTO 712 730	Exploración física
+T14	PROCEDIMIENTO 779 797	exploración física
+T15	PROCEDIMIENTO 952 981	orquiectomía inguinal derecha
+T16	PROCEDIMIENTO 1065 1076	TC de tórax
+T17	PROCEDIMIENTO 1631 1637	PET-TC
+T18	PROCEDIMIENTO 1743 1745	TC
+T19	PROCEDIMIENTO 2037 2039	TC
+T20	PROCEDIMIENTO 2145 2154	Hemograma
+T21	PROCEDIMIENTO 2391 2420	orquiectomía inguinal derecha
+T22	PROCEDIMIENTO 3113 3143	tratamiento poliquimioterápico
+T23	PROCEDIMIENTO 3260 3286	tratamiento quimioterápico
+T24	PROCEDIMIENTO 3482 3484	TC
+T25	PROCEDIMIENTO 3792 3794	TC
+T26	PROCEDIMIENTO 3836 3852	gammagrafía ósea
+T27	PROCEDIMIENTO 3883 3885	TC
+T28	PROCEDIMIENTO 3939 3955	gammagrafía ósea
+T29	PROCEDIMIENTO 4046 4069	radioterapia antiálgica
+T30	PROCEDIMIENTO 4155 4180	tratamiento radioterápico
+T31	PROCEDIMIENTO 4487 4489	TC
+T32	NEG 87 89	no
+T33	NSCO 90 102	intervenidas
+T34	NEG 105 108	sin
+T35	NSCO 109 138	antecedentes de criptorquidia
+T36	NEG 290 292	No
+T37	NSCO 293 354	presentó fiebre ni aumento de la temperatura a nivel escrotal
+T38	NEG 536 538	no
+T39	NSCO 539 558	se delimitó cápsula
+T40	UNC 583 596	sugestivos de
+T41	USCO 597 630	una lesión sólida tumoral maligna
+T42	NEG 693 696	sin
+T43	NSCO 697 708	incidencias
+T44	NEG 767 774	afebril
+T45	NEG 824 826	No
+T46	NSCO 827 891	se palparon adenopatías supraclaviculares, axilares o inguinales
+T47	NEG 893 895	No
+T48	NSCO 896 932	se observó presencia de ginecomastia
+T49	NEG 1010 1013	sin
+T50	NSCO 1014 1036	signos de complicación
+T51	UNC 1213 1226	sugestivas de
+T52	USCO 1227 1261	pequeñas adenopatías inespecíficas
+T53	UNC 1587 1602	compatibles con
+T54	USCO 1603 1627	adenopatías metastásicas
+T55	UNC 1798 1810	sugestiva de
+T56	USCO 1811 1851	malignidad en el espacio supraclavicular
+T57	NEG 1955 1957	no
+T58	NSCO 1958 1982	sugestivas de malignidad
+T59	UNC 2094 2107	sugestivas de
+T60	USCO 2108 2141	malignidad a nivel reroperitoneal
+T61	NEG 2156 2159	sin
+T62	NSCO 2160 2172	alteraciones
+T63	NEG 2232 2235	sin
+T64	NSCO 2236 2248	alteraciones
+T65	UNC 2596 2608	sugestiva de
+T66	USCO 2609 2655	componente de tumor de células de la granulosa
+T67	NEG 3707 3719	se suspendió
+T68	NSCO 3720 3754	el paclitaxel tras el tercer ciclo
+T69	FARMACO 3178 3188	paclitaxel
+T70	FARMACO 3190 3200	ifosfamida
+T71	FARMACO 3202 3212	cisplatino
+T72	FARMACO 3630 3642	carboplatino
+T73	FARMACO 3645 3655	paclitaxel
+T74	FARMACO 3723 3733	paclitaxel
+T75	FARMACO 4243 4253	cisplatino
+T76	FARMACO 4265 4274	etopósido
+T77	FARMACO 4369 4379	cisplatino
+T78	FARMACO 4382 4391	etopósido
+T79	ORG_VIVO 10 15	Varón
+T80	ORG_VIVO 44 54	personales
+T81	ORG_VIVO 152 179	médico de atención primaria
+T82	ORG_VIVO 359 367	paciente
+T83	ORG_VIVO 635 643	paciente
+T84	ORG_VIVO 4319 4327	paciente
+T85	ENFERMEDAD 58 68	dislipemia
+T86	ENFERMEDAD 70 86	hernias discales
+T87	ENFERMEDAD 125 138	criptorquidia
+T88	ENFERMEDAD 601 630	lesión sólida tumoral maligna
+T89	ENFERMEDAD 839 891	adenopatías supraclaviculares, axilares o inguinales
+T90	ENFERMEDAD 920 932	ginecomastia
+T91	ENFERMEDAD 1236 1261	adenopatías inespecíficas
+T92	ENFERMEDAD 1401 1430	adenopatías retroperitoneales
+T93	ENFERMEDAD 1603 1627	adenopatías metastásicas
+T94	ENFERMEDAD 1692 1703	adenopatías
+T95	ENFERMEDAD 1762 1851	lesión intensamente hipermetabólica sugestiva de malignidad en el espacio supraclavicular
+T96	ENFERMEDAD 1887 1912	adenopatías mediastínicas
+T97	ENFERMEDAD 2065 2141	adenopatías hipermetabólicas sugestivas de malignidad a nivel reroperitoneal
+T98	ENFERMEDAD 2422 2474	tumor de cordones sexuales / estroma gonadal maligno
+T99	ENFERMEDAD 2623 2655	tumor de células de la granulosa
+T100	ENFERMEDAD 2909 2961	Tumor de cordones sexuales / estroma gonadal maligno
+T101	ENFERMEDAD 3070 3092	tumores genitourinario
+T102	ENFERMEDAD 3459 3477	neuropatía grado 1
+T103	ENFERMEDAD 3526 3561	adenopático a nivel retroperitoneal
+T104	ENFERMEDAD 3688 3704	neuropatía grado
+T105	ENFERMEDAD 3990 4014	lesión osteolítica en L5
+T106	SANITARIO-PROFESION 152 179	médico de atención primaria

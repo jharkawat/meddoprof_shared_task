@@ -1,0 +1,60 @@
+T1	SINTOMA 328 337	dorsalgia
+T2	SINTOMA 426 486	parestesias en el segundo, tercero y cuarto dedos de la mano
+T3	SINTOMA 580 585	dolor
+T4	SINTOMA 812 862	dolor dorsal a la percusión de cuerpos vertebrales
+T5	SINTOMA 2653 2660	eritema
+T6	SINTOMA 2675 2680	edema
+T7	PROCEDIMIENTO 511 551	tratamiento con antiinflamatorios orales
+T8	PROCEDIMIENTO 746 764	Exploración física
+T9	PROCEDIMIENTO 966 985	Ecografía abdominal
+T10	PROCEDIMIENTO 1047 1087	Tomografía computarizada toracoabdominal
+T11	PROCEDIMIENTO 1335 1351	Gammagrafía ósea
+T12	PROCEDIMIENTO 1566 1581	Biopsia mamaria
+T13	PROCEDIMIENTO 1888 1914	tratamiento quimioterápico
+T14	PROCEDIMIENTO 2414 2438	tomografía computarizada
+T15	PROCEDIMIENTO 2882 2908	tratamiento quimioterápico
+T16	PROCEDIMIENTO 3074 3085	gammagrafía
+T17	PROCEDIMIENTO 3482 3508	tratamiento quimioterápico
+T18	PROCEDIMIENTO 3581 3606	radioterapia concomitante
+T19	NEG 36 39	sin
+T20	NSCO 40 73	alergias medicamentosas conocidas
+T21	NEG 210 213	sin
+T22	NSCO 214 245	antecedentes médicos de interés
+T23	UNC 651 664	sugestivas de
+T24	USCO 665 675	metástasis
+T25	NEG 765 767	No
+T26	NSCO 768 804	se aprecian alteraciones patológicas
+T27	UNC 1218 1231	sugestivos de
+T28	USCO 1232 1253	naturaleza neoplásica
+T29	NEG 1686 1695	negativos
+T30	NEG 1701 1709	negativo
+T31	NEG 3041 3052	ausencia de
+T32	NSCO 3053 3085	captación ósea en la gammagrafía
+T33	FARMACO 1928 1940	carboplatino
+T34	FARMACO 1949 1958	docetaxel
+T35	FARMACO 1971 1982	trastuzumab
+T36	FARMACO 2258 2275	ácido zoledrónico
+T37	FARMACO 2361 2372	trastuzumab
+T38	FARMACO 2375 2392	ácido zoledrónico
+T39	FARMACO 2913 2922	lapatinib
+T40	FARMACO 2941 2953	capecitabina
+T41	FARMACO 3244 3253	lapatinib
+T42	FARMACO 3513 3524	vinorelbina
+T43	FARMACO 3551 3560	lapatinib
+T44	ORG_VIVO 10 15	Mujer
+T45	ORG_VIVO 167 172	madre
+T46	ORG_VIVO 180 185	hijos
+T47	ORG_VIVO 278 305	médico de Atención Primaria
+T48	ENFERMEDAD 40 63	alergias medicamentosas
+T49	ENFERMEDAD 636 675	lesiones óseas sugestivas de metástasis
+T50	ENFERMEDAD 987 1043	lesiones múltiples ocupantes de espacio a nivel hepático
+T51	ENFERMEDAD 1243 1253	neoplásica
+T52	ENFERMEDAD 1255 1288	Hepatomegalia tumoral metastásica
+T53	ENFERMEDAD 1296 1331	lesión osteoblástica a nivel de D12
+T54	ENFERMEDAD 1353 1431	metástasis óseas múltiples a nivel de D1, D2, D10, D12, L5, octavo arco costal
+T55	ENFERMEDAD 1583 1644	carcinoma ductal infiltrante con invasión de vasos linfáticos
+T56	ENFERMEDAD 1751 1765	Cáncer de mama
+T57	ENFERMEDAD 2155 2170	enfermedad ósea
+T58	ENFERMEDAD 2501 2516	enfermedad ósea
+T59	ENFERMEDAD 3132 3149	lesión de la mama
+T60	SANITARIO-PROFESION 278 305	médico de Atención Primaria

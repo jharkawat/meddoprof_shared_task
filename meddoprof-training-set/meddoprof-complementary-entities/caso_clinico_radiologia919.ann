@@ -1,0 +1,20 @@
+T1	SINTOMA 67 74	astenia
+T2	SINTOMA 76 84	adinamia
+T3	SINTOMA 87 96	hiporexia
+T4	SINTOMA 113 135	síntomas respiratorios
+T5	SINTOMA 211 222	eosinofilia
+T6	SINTOMA 488 519	opacidades en vidrio esmerilado
+T7	SINTOMA 664 684	opacidades presentes
+T8	PROCEDIMIENTO 227 267	Tomografía axial computada sin contraste
+T9	PROCEDIMIENTO 617 644	tratamiento con corticoides
+T10	NEG 101 103	No
+T11	NSCO 104 135	presenta síntomas respiratorios
+T12	NEG 139 141	No
+T13	NSCO 142 152	tabaquista
+T14	NEG 156 159	Sin
+T15	NSCO 160 186	antecedentes de exposición
+T16	NEG 254 257	sin
+T17	NSCO 258 267	contraste
+T18	ORG_VIVO 2 8	Hombre
+T19	ENFERMEDAD 203 209	anemia
+T20	ENFERMEDAD 687 716	Neumonía eosinofílica crónica

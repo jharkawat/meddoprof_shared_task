@@ -1,0 +1,181 @@
+T1	SINTOMA 479 486	fumador
+T2	SINTOMA 926 940	hiperactividad
+T3	SINTOMA 952 969	enuresis nocturna
+T4	SINTOMA 1094 1108	hiperactividad
+T5	SINTOMA 1587 1600	irritabilidad
+T6	SINTOMA 1606 1617	nerviosismo
+T7	SINTOMA 2213 2217	tics
+T8	SINTOMA 2413 2432	síntomas paranoides
+T9	SINTOMA 2457 2464	cefalea
+T10	SINTOMA 2467 2482	aumento de tics
+T11	SINTOMA 2527 2540	irritabilidad
+T12	SINTOMA 2661 2681	discinesias en manos
+T13	SINTOMA 2720 2739	síntomas psicóticos
+T14	SINTOMA 2883 2901	somnolencia diurna
+T15	SINTOMA 3015 3029	hiperactividad
+T16	SINTOMA 3364 3381	heteroagresividad
+T17	SINTOMA 3672 3714	empeoramiento de movimientos involuntarios
+T18	SINTOMA 3747 3760	desesperación
+T19	SINTOMA 4090 4103	irritabilidad
+T20	SINTOMA 4511 4522	tartamudeos
+T21	SINTOMA 4722 4746	cambios bruscos de humor
+T22	SINTOMA 4748 4761	irritabilidad
+T23	SINTOMA 4764 4788	heteroagresividad verbal
+T24	SINTOMA 4919 4926	euforia
+T25	SINTOMA 5030 5061	alteraciones del ritmo de sueño
+T26	SINTOMA 5141 5152	hipersomnia
+T27	SINTOMA 5168 5176	insomnio
+T28	SINTOMA 5179 5231	salidas nocturnas fuera del domicilio).A nivel motor
+T29	SINTOMA 5237 5256	falta de equilibrio
+T30	SINTOMA 5258 5267	inquietud
+T31	SINTOMA 5269 5302	movimientos involuntarios en cara
+T32	SINTOMA 5494 5511	discinesias manos
+T33	SINTOMA 5603 5612	disartria
+T34	SINTOMA 5622 5631	sialorrea
+T35	SINTOMA 5656 5681	hiperfagia –con atracones
+T36	SINTOMA 5697 5713	aumento ponderal
+T37	SINTOMA 5799 5816	enuresis nocturna
+T38	SINTOMA 5885 5890	dolor
+T39	SINTOMA 5915 5920	dolor
+T40	PROCEDIMIENTO 1242 1265	tratamiento psicológico
+T41	PROCEDIMIENTO 6011 6022	RM cerebral
+T42	PROCEDIMIENTO 6414 6423	Hemograma
+T43	PROCEDIMIENTO 6779 6782	EEG
+T44	PROCEDIMIENTO 6801 6806	SPECT
+T45	PROCEDIMIENTO 6904 6909	SPECT
+T46	PROCEDIMIENTO 6981 7012	SPECT transversales del cerebro
+T47	PROCEDIMIENTO 7070 7093	bloqueo previo tiroideo
+T48	NEG 188 191	sin
+T49	NSCO 192 203	especificar
+T50	NEG 510 512	no
+T51	NSCO 513 528	consume alcohol
+T52	NEG 706 709	sin
+T53	NSCO 710 761	referencia de antecedentes psiquiátricos familiares
+T54	UNC 862 876	compatible con
+T55	USCO 877 897	síntomas de ansiedad
+T56	UNC 1464 1477	probablemente
+T57	USCO 1478 1524	inducido por fármacos (zonisamida) más tóxicos
+T58	NEG 1568 1579	Se descartó
+T59	NSCO 1580 1665	que la irritabilidad o el nerviosismo fueran secundarios al tratamiento farmacológico
+T60	NEG 2125 2138	Suspensión de
+T61	NSCO 2139 2151	tratamientos
+T62	UNC 2961 2975	compatible con
+T63	USCO 2976 2988	un trastorno
+T64	NEG 4243 4245	no
+T65	NSCO 4246 4306	autónomo en su vida diaria con importantes déficits mnésicos
+T66	NEG 4427 4429	no
+T67	NSCO 4430 4449	entiende las normas
+T68	NEG 4451 4453	no
+T69	NSCO 4454 4479	mantiene una conversación
+T70	NEG 4524 4526	No
+T71	NSCO 4527 4563	puede llevar una conversación fluida
+T72	NEG 4571 4573	no
+T73	NSCO 4574 4582	mantiene
+T74	UNC 4594 4603	no parece
+T75	USCO 4604 4625	entender en ocasiones
+T76	NEG 4661 4664	sin
+T77	NSCO 4665 4673	objetivo
+T78	NEG 4693 4696	Sin
+T79	NSCO 4697 4746	desencadenantes presenta cambios bruscos de humor
+T80	NEG 5075 5077	no
+T81	NSCO 5078 5092	son constantes
+T82	NEG 5237 5245	falta de
+T83	NSCO 5246 5256	equilibrio
+T84	NEG 5429 5431	no
+T85	NSCO 5432 5454	ha podido catalogarlos
+T86	UNC 5551 5568	posiblemente como
+T87	USCO 5569 5601	efectos secundarios a medicación
+T88	NEG 5682 5685	sin
+T89	NSCO 5686 5726	purga– con aumento ponderal cuantificado
+T90	NEG 6227 6229	No
+T91	NSCO 6230 6353	se observan alteraciones significativas en la intensidad de señal del parénquima cerebral, cerebelo ni en tronco encefálico
+T92	NEG 6387 6390	sin
+T93	NSCO 6391 6412	hallazgos destacables
+T94	NEG 6541 6544	sin
+T95	NSCO 6545 6631	alteraciones morfológicas significativas en ninguna de las tres series hematopoyéticas
+T96	NEG 6741 6749	negativo
+T97	NEG 7241 7253	inespecífica
+T98	UNC 7402 7415	probablemente
+T99	USCO 7416 7462	a captación fisiológica en el núcleo accumbens
+T100	NEG 7475 7478	Sin
+T101	NSCO 7479 7547	alteración objetivable de la vía nigroestriatal en el momento actual
+T102	NEG 7583 7585	no
+T103	NSCO 7586 7641	ha permitido filiar el diagnóstico a nivel psiquiátrico
+T104	UNC 7651 7661	se plantea
+T105	USCO 7662 7694	una enfermedad neurodegenerativa
+T106	NEG 7739 7741	no
+T107	NSCO 7742 7754	especificada
+T108	NEG 7790 7792	no
+T109	NSCO 7793 7807	son apropiados
+T110	NEG 7850 7852	no
+T111	NSCO 7853 7939	sindrómico de etiología indeterminada/trastorno del movimiento del espectro Huntington
+T112	UNC 7973 7981	posibles
+T113	USCO 7982 7992	patologías
+T114	FARMACO 303 312	metamizol
+T115	FARMACO 315 340	dexketoprofeno trometamol
+T116	FARMACO 1501 1511	zonisamida
+T117	FARMACO 2162 2175	Metilfenidato
+T118	FARMACO 2286 2297	Atomoxetina
+T119	FARMACO 2434 2444	Sertralina
+T120	FARMACO 2484 2494	Topiramato
+T121	FARMACO 2542 2553	Risperidona
+T122	FARMACO 2587 2598	Aripiprazol
+T123	FARMACO 2627 2639	Paliperidona
+T124	FARMACO 2683 2693	Zonisamida
+T125	FARMACO 2741 2751	Clonazepam
+T126	FARMACO 2788 2798	Guanfacina
+T127	FARMACO 4045 4054	clozapina
+T128	FARMACO 6837 6845	dopamina
+T129	FARMACO 6861 6879	123-Yodo-Ioflupano
+T130	FARMACO 8576 8591	oxcarbamacepina
+T131	FARMACO 8627 8636	clozapina
+T132	FARMACO 8689 8698	clozapina
+T133	FARMACO 8710 8725	ácido valproico
+T134	ORG_VIVO 0 5	Varón
+T135	ORG_VIVO 95 105	personales
+T136	ORG_VIVO 120 126	padres
+T137	ORG_VIVO 541 549	cannabis
+T138	ORG_VIVO 751 761	familiares
+T139	ORG_VIVO 789 797	infantil
+T140	ORG_VIVO 1168 1176	familiar
+T141	ORG_VIVO 1526 1534	cannabis
+T142	ORG_VIVO 1558 1566	cannabis
+T143	ORG_VIVO 1793 1801	paciente
+T144	ORG_VIVO 3203 3211	cannabis
+T145	ORG_VIVO 3216 3224	paciente
+T146	ORG_VIVO 3311 3316	madre
+T147	ORG_VIVO 3720 3726	padres
+T148	ORG_VIVO 3862 3870	paciente
+T149	ORG_VIVO 4058 4066	paciente
+T150	ORG_VIVO 4207 4215	paciente
+T151	ORG_VIVO 4816 4826	familiares
+T152	ORG_VIVO 4939 4944	madre
+T153	ORG_VIVO 4960 4968	paciente
+T154	ORG_VIVO 5327 5335	hociqueo
+T155	ORG_VIVO 5841 5847	padres
+T156	ENFERMEDAD 163 187	trastorno del desarrollo
+T157	ENFERMEDAD 292 312	alérgico a metamizol
+T158	ENFERMEDAD 342 369	Meningitis vírica a los 8-9
+T159	ENFERMEDAD 426 443	fractura de fémur
+T160	ENFERMEDAD 889 897	ansiedad
+T161	ENFERMEDAD 1058 1091	trastorno por déficit de atención
+T162	ENFERMEDAD 1111 1143	trastorno negativista-desafiante
+T163	ENFERMEDAD 1290 1298	ansiedad
+T164	ENFERMEDAD 1537 1566	trastorno por uso de cannabis
+T165	ENFERMEDAD 2234 2242	ansiedad
+T166	ENFERMEDAD 2345 2353	ansiedad
+T167	ENFERMEDAD 2904 2921	ENFERMEDAD ACTUAL
+T168	ENFERMEDAD 2979 3012	trastorno por déficit de atención
+T169	ENFERMEDAD 3192 3211	consumo de cannabis
+T170	ENFERMEDAD 5656 5681	hiperfagia –con atracones
+T171	ENFERMEDAD 7666 7694	enfermedad neurodegenerativa
+T172	ENFERMEDAD 7730 7738	psicosis
+T173	ENFERMEDAD 7835 7849	retraso mental
+T174	ENFERMEDAD 7891 7939	trastorno del movimiento del espectro Huntington
+T175	ENFERMEDAD 7994 8012	neuroacanticitosis
+T176	ENFERMEDAD 8020 8030	Huntington
+T177	ENFERMEDAD 8084 8106	trastornos de conducta
+T178	ENFERMEDAD 8236 8269	lesión intracraneal postraumática
+T179	ENFERMEDAD 8275 8296	enfermedad metabólica
+T180	ENFERMEDAD 8372 8389	fractura de fémur
+T181	ENFERMEDAD 8503 8511	psicosis

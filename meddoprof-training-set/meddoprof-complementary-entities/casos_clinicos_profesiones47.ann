@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 165 189	tratamiento con fibratos
+T2	NEG 192 195	sin
+T3	NSCO 196 211	hábitos tóxicos
+T4	NEG 213 215	No
+T5	NSCO 216 259	ha hecho viajes al extranjero recientemente
+T6	NEG 368 370	no
+T7	NSCO 371 408	ha recibido ningún tratamiento previo
+T8	NEG 477 479	No
+T9	NSCO 480 532	presenta lesiones cutáneas ni de anejos a otro nivel
+T10	ORG_VIVO 0 5	Varón
+T11	ORG_VIVO 66 72	perros
+T12	ORG_VIVO 87 96	vacunados
+T13	ORG_VIVO 101 109	cocinero
+T14	ORG_VIVO 154 162	familiar
+T15	ORG_VIVO 413 418	mujer
+T16	ENFERMEDAD 133 162	hipertrigliceridemia familiar
+T17	ENFERMEDAD 278 330	lesiones pruriginosas y eritematosas en ambas axilas
+T18	ENFERMEDAD 457 475	tuberculosis renal
+T19	ENFERMEDAD 489 506	lesiones cutáneas
+T20	PACIENTE-PROFESION 101 109	cocinero

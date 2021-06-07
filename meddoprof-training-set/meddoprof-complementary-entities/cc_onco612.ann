@@ -1,0 +1,117 @@
+T1	SINTOMA 56 63	fumador
+T2	SINTOMA 429 436	astenia
+T3	SINTOMA 438 466	disnea de medianos esfuerzos
+T4	SINTOMA 468 490	Palidez cutánea mucosa
+T5	SINTOMA 492 518	Murmullo vesicular audible
+T6	SINTOMA 597 622	ruidos cardiacos rítmicos
+T7	SINTOMA 628 634	soplos
+T8	SINTOMA 639 660	ruidos sobreagregados
+T9	SINTOMA 665 686	ingurgitación yugular
+T10	SINTOMA 688 729	pulsos periféricos presentes y simétricos
+T11	SINTOMA 731 792	Abdomen: depresible, no doloroso, ruidos hidroaéreos audibles
+T12	SINTOMA 943 972	edemas Godet + hasta tobillos
+T13	SINTOMA 2713 2718	dolor
+T14	SINTOMA 3339 3344	dolor
+T15	SINTOMA 3449 3456	diarrea
+T16	SINTOMA 3659 3669	artralgias
+T17	SINTOMA 4235 4240	dolor
+T18	SINTOMA 4373 4380	diarrea
+T19	SINTOMA 5255 5265	artralgias
+T20	SINTOMA 5346 5353	diarrea
+T21	SINTOMA 5511 5516	dolor
+T22	PROCEDIMIENTO 245 267	colocación de 3 stents
+T23	PROCEDIMIENTO 297 317	radiografía de tórax
+T24	PROCEDIMIENTO 367 385	Exploración física
+T25	PROCEDIMIENTO 1001 1021	Radiografía de tórax
+T26	PROCEDIMIENTO 1187 1189	TC
+T27	PROCEDIMIENTO 1728 1734	PET/TC
+T28	PROCEDIMIENTO 2165 2177	Espirometría
+T29	PROCEDIMIENTO 2241 2283	PAAF de adenopatía supraclavicular derecha
+T30	PROCEDIMIENTO 2607 2609	TC
+T31	PROCEDIMIENTO 2780 2803	radioterapia antiálgica
+T32	PROCEDIMIENTO 2895 2933	administración de doble antiagregación
+T33	PROCEDIMIENTO 3074 3076	TC
+T34	PROCEDIMIENTO 3236 3269	radioterapia paliativa antiálgica
+T35	PROCEDIMIENTO 3550 3563	inmunoterapia
+T36	PROCEDIMIENTO 3714 3727	quimioterapia
+T37	PROCEDIMIENTO 3874 3886	radioterapia
+T38	PROCEDIMIENTO 3954 3956	TC
+T39	PROCEDIMIENTO 4441 4470	administración de corticoides
+T40	PROCEDIMIENTO 4495 4507	colonoscopia
+T41	PROCEDIMIENTO 4571 4596	estudio anatomopatológico
+T42	PROCEDIMIENTO 4613 4627	biopsia rectal
+T43	PROCEDIMIENTO 4950 4972	administra corticoides
+T44	PROCEDIMIENTO 5098 5127	tratamiento con inmunoterapia
+T45	PROCEDIMIENTO 5415 5433	terapia corticoide
+T46	PROCEDIMIENTO 5478 5482	AINE
+T47	NEG 575 578	sin
+T48	NSCO 579 595	otros estertores
+T49	NEG 624 627	sin
+T50	NSCO 628 660	soplos, ni ruidos sobreagregados
+T51	NEG 662 664	no
+T52	NSCO 665 686	ingurgitación yugular
+T53	NEG 752 754	no
+T54	NSCO 755 814	doloroso, ruidos hidroaéreos audibles, ni tumores palpables
+T55	NEG 856 859	sin
+T56	NSCO 860 884	focalización neurológica
+T57	UNC 1111 1123	posiblemente
+T58	USCO 1124 1183	asociado a discreto ensanchamiento mediastínico ipsilateral
+T59	NEG 2064 2067	Sin
+T60	NSCO 2068 2091	lesiones a distancia M0
+T61	NEG 2340 2348	negativo
+T62	NEG 2355 2363	negativo
+T63	NEG 2372 2380	negativo
+T64	NEG 2433 2435	no
+T65	NSCO 2436 2442	mutado
+T66	NEG 3748 3751	sin
+T67	NSCO 3752 3768	retraso de dosis
+T68	NEG 4031 4033	no
+T69	NSCO 4034 4094	alcanzaba criterios RECIST 1.1 para progresión de enfermedad
+T70	NEG 4310 4312	no
+T71	NSCO 4313 4348	cambios radiológicos significativos
+T72	NEG 4427 4429	no
+T73	NSCO 4430 4470	responde a administración de corticoides
+T74	NEG 4908 4919	Se suspende
+T75	NSCO 4920 4945	tratamiento con nivolumab
+T76	NEG 5062 5076	se suspende de
+T77	NSCO 5077 5127	manera permanente el tratamiento con inmunoterapia
+T78	NEG 5288 5291	sin
+T79	NSCO 5292 5307	cambios locales
+T80	NEG 5398 5411	suspensión de
+T81	NSCO 5412 5433	la terapia corticoide
+T82	FARMACO 2490 2502	carboplatino
+T83	FARMACO 2505 2515	pemetrexed
+T84	FARMACO 3002 3012	pemetrexed
+T85	FARMACO 3508 3519	gemcitabina
+T86	FARMACO 3522 3533	vinorelbina
+T87	FARMACO 4279 4288	nivolumab
+T88	FARMACO 4936 4945	nivolumab
+T89	FARMACO 5173 5184	gemcitabina
+T90	FARMACO 5187 5198	vinorelbina
+T91	FARMACO 5484 5498	dexketoprofeno
+T92	ORG_VIVO 10 15	Varón
+T93	ORG_VIVO 82 111	trabajador de la construcción
+T94	ORG_VIVO 143 151	familiar
+T95	ORG_VIVO 171 181	personales
+T96	ORG_VIVO 847 854	persona
+T97	ORG_VIVO 2937 2945	paciente
+T98	ORG_VIVO 3682 3690	Paciente
+T99	ORG_VIVO 4352 4360	paciente
+T100	ENFERMEDAD 31 54	alergia a la penicilina
+T101	ENFERMEDAD 194 218	síndrome coronario agudo
+T102	ENFERMEDAD 333 348	nódulo pulmonar
+T103	ENFERMEDAD 1408 1452	necrosis localizados a nivel supraclavicular
+T104	ENFERMEDAD 1686 1716	Neoplasia pulmonar en LSD cT2a
+T105	ENFERMEDAD 1834 1902	adenopatías mediastínicas y extratorácicas a nivel supraclaviculares
+T106	ENFERMEDAD 2249 2332	adenopatía supraclavicular derecha: positivo para adenocarcinoma de origen pulmonar
+T107	ENFERMEDAD 2408 2456	Adenocarcinoma de pulmón no mutado, estadio IIIb
+T108	ENFERMEDAD 2851 2866	hemoptisis leve
+T109	ENFERMEDAD 3078 3127	progresión pulmonar en LSD y discreta adenopática
+T110	ENFERMEDAD 3138 3179	estenosis de vena cava superior y tráquea
+T111	ENFERMEDAD 4109 4131	enfermedad adenopática
+T112	ENFERMEDAD 4529 4536	colitis
+T113	ENFERMEDAD 4550 4566	colitis ulcerosa
+T114	ENFERMEDAD 4629 4656	proctitis superficial aguda
+T115	ENFERMEDAD 4862 4880	proctitis ulcerosa
+T116	ENFERMEDAD 5030 5049	toxicidad digestiva
+T117	PACIENTE-PROFESION 82 111	trabajador de la construcción

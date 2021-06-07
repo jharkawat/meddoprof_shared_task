@@ -1,0 +1,75 @@
+T1	SINTOMA 406 425	tumoración cervical
+T2	SINTOMA 467 490	movilización del cuello
+T3	SINTOMA 496 524	dificultades en la deglución
+T4	SINTOMA 531 537	fiebre
+T5	SINTOMA 3189 3217	deterioro del estado general
+T6	SINTOMA 3229 3242	hipoglucemias
+T7	SINTOMA 3244 3253	febrícula
+T8	SINTOMA 3457 3464	fallece
+T9	PROCEDIMIENTO 1082 1100	ecografía cervical
+T10	PROCEDIMIENTO 1111 1119	RX tórax
+T11	PROCEDIMIENTO 1382 1395	TAC de cuello
+T12	PROCEDIMIENTO 1434 1447	TAC de cuello
+T13	PROCEDIMIENTO 1993 2019	tratamiento antitrombótico
+T14	PROCEDIMIENTO 2022 2036	antibioterapia
+T15	PROCEDIMIENTO 2622 2668	TAC reglado de cráneo, cuello, tórax y abdomen
+T16	PROCEDIMIENTO 2679 2694	ecocardiografía
+T17	PROCEDIMIENTO 2697 2734	biopsia de ganglio linfático cervical
+T18	PROCEDIMIENTO 3043 3056	anticoagulada
+T19	NEG 149 152	sin
+T20	NSCO 153 186	alergias medicamentosas conocidas
+T21	NEG 492 495	sin
+T22	NSCO 496 524	dificultades en la deglución
+T23	NEG 527 530	sin
+T24	NSCO 531 537	fiebre
+T25	NEG 688 690	no
+T26	NSCO 691 717	se moviliza a la deglución
+T27	NEG 807 809	no
+T28	NSCO 810 840	se hubiera apreciado hasta hoy
+T29	NEG 1126 1128	no
+T30	NSCO 1129 1162	se aprecian hallazgos patológicos
+T31	UNC 1332 1340	probable
+T32	USCO 1341 1356	origen vascular
+T33	UNC 1632 1640	probable
+T34	USCO 1641 1674	relación con proceso inflamatorio
+T35	UNC 1772 1780	probable
+T36	USCO 1781 1812	trombosis de la yugular interna
+T37	UNC 2063 2078	valorar posible
+T38	USCO 2079 2110	origen infeccioso vs neoplásico
+T39	NEG 2748 2751	sin
+T40	NSCO 2752 2796	hallazgos novedosos en las pruebas de imagen
+T41	NEG 3421 3426	falta
+T42	FARMACO 256 263	Eutirox
+T43	FARMACO 270 299	metformina 12.5/empaglifozina
+T44	FARMACO 309 321	simvastatina
+T45	ORG_VIVO 131 136	mujer
+T46	ORG_VIVO 849 857	paciente
+T47	ORG_VIVO 1814 1824	S. Lemiere
+T48	ORG_VIVO 1911 1919	paciente
+T49	ORG_VIVO 2121 2129	familiar
+T50	ORG_VIVO 2144 2152	Paciente
+T51	ORG_VIVO 2165 2169	hija
+T52	ORG_VIVO 2177 2185	cocinera
+T53	ORG_VIVO 2200 2209	cuidadora
+T54	ORG_VIVO 2217 2223	padres
+T55	ORG_VIVO 2273 2278	hijos
+T56	ORG_VIVO 2288 2294	nietos
+T57	ORG_VIVO 2324 2329	hijos
+T58	ORG_VIVO 2965 2973	paciente
+T59	ORG_VIVO 3160 3168	paciente
+T60	ORG_VIVO 3258 3266	paciente
+T61	ORG_VIVO 3448 3456	paciente
+T62	ENFERMEDAD 153 176	alergias medicamentosas
+T63	ENFERMEDAD 188 197	diabética
+T64	ENFERMEDAD 224 236	hipotiroidea
+T65	ENFERMEDAD 1322 1356	lesión de probable origen vascular
+T66	ENFERMEDAD 1781 1812	trombosis de la yugular interna
+T67	ENFERMEDAD 2086 2110	infeccioso vs neoplásico
+T68	ENFERMEDAD 2415 2435	Síndrome de Lemierre
+T69	ENFERMEDAD 2437 2494	Linfoma difuso de células grandes subtipo centro germinal
+T70	ENFERMEDAD 2522 2527	Bocio
+T71	ENFERMEDAD 2529 2536	absceso
+T72	ENFERMEDAD 2857 2914	linfoma difuso de células grandes subtipo centro germinal
+T73	PACIENTE-PROFESION 2177 2185	cocinera
+T74	PACIENTE-SITUACION_LABORAL 2200 2209	cuidadora
+T75	SANITARIO-PROFESION 1874 1882	otorrino

@@ -1,0 +1,104 @@
+T1	SINTOMA 217 234	dolor dorsolumbar
+T2	SINTOMA 495 503	insomnio
+T3	SINTOMA 506 514	anorexia
+T4	SINTOMA 554 587	dolor y contractura paravertebral
+T5	SINTOMA 612 662	puñopercusión renal derecha discretamente positiva
+T6	SINTOMA 719 749	dolor intenso en la fosa renal
+T7	SINTOMA 797 803	fiebre
+T8	SINTOMA 806 815	hematuria
+T9	SINTOMA 923 928	dolor
+T10	SINTOMA 1011 1088	masa en el mesogastrio con puñopercusión renal derecha discretamente positiva
+T11	SINTOMA 1170 1219	tumoración de 17 cm de diámetro en el hipocondrio
+T12	SINTOMA 1955 2052	masa ocupa el espacio retroperitoneal posterior adyacente al psoas, comprimiendo la cava inferior
+T13	SINTOMA 4667 4696	deterioro de la función renal
+T14	PROCEDIMIENTO 299 310	analgésicos
+T15	PROCEDIMIENTO 313 345	antiinflamatorios no esteroideos
+T16	PROCEDIMIENTO 521 539	exploración física
+T17	PROCEDIMIENTO 931 949	Exploración física
+T18	PROCEDIMIENTO 950 957	Abdomen
+T19	PROCEDIMIENTO 1133 1142	ecografía
+T20	PROCEDIMIENTO 1632 1671	tomografía computarizada (TC) abdominal
+T21	PROCEDIMIENTO 2920 2980	incisión de Chevron, abordando la región suprarrenal derecha
+T22	PROCEDIMIENTO 2998 3041	exéresis de la masa retroperitoneal derecha
+T23	PROCEDIMIENTO 3052 3063	nefrectomía
+T24	PROCEDIMIENTO 3066 3092	adrenalectomía ipsilateral
+T25	PROCEDIMIENTO 3095 3110	colecistectomía
+T26	PROCEDIMIENTO 3137 3191	linfadenectomía ampliada a los ganglios interaortocava
+T27	PROCEDIMIENTO 3265 3348	exéresis de la porción de la vena cava infiltrada (desde la vena cava retrohepática
+T28	PROCEDIMIENTO 3376 3415	colocación de 10 cm de prótesis de PTFE
+T29	PROCEDIMIENTO 3439 3514	anastomosis término-lateral de la vena cava inferior izquierda a la derecha
+T30	PROCEDIMIENTO 3703 3723	estudio microscópico
+T31	PROCEDIMIENTO 4591 4603	radioterapia
+T32	PROCEDIMIENTO 4639 4652	quimioterapia
+T33	PROCEDIMIENTO 4804 4829	tratamiento radioterápico
+T34	PROCEDIMIENTO 4878 4880	TC
+T35	NEG 36 39	sin
+T36	NSCO 40 75	antecedentes patológicos de interés
+T37	NEG 331 333	no
+T38	NSCO 334 345	esteroideos
+T39	NEG 356 358	no
+T40	NSCO 359 379	presenta irradiación
+T41	NEG 381 383	no
+T42	NSCO 384 455	mejora con el reposo ni varía con la deambulación o en posición sedente
+T43	NEG 759 762	sin
+T44	NSCO 763 815	síndrome miccional acompañante ni fiebre o hematuria
+T45	UNC 898 905	posible
+T46	USCO 906 928	origen renal del dolor
+T47	NEG 966 968	no
+T48	NSCO 969 992	doloroso a la palpación
+T49	UNC 1280 1288	sugieren
+T50	USCO 1289 1297	necrosis
+T51	NEG 1409 1419	Se sugiere
+T52	NSCO 1420 1450	la posibilidad de hipernefroma
+T53	NEG 1454 1456	no
+T54	NSCO 1457 1491	lograr visualizar el riñón derecho
+T55	NEG 2062 2075	sin descartar
+T56	NSCO 2076 2100	infiltración de la misma
+T57	NEG 2102 2104	No
+T58	NSCO 2105 2150	se identifica la glándula suprarrenal derecha
+T59	UNC 2166 2173	sugiere
+T60	USCO 2174 2185	que la masa
+T61	UNC 2186 2192	podría
+T62	USCO 2193 2213	depender de la misma
+T63	UNC 2456 2463	posible
+T64	USCO 2464 2514	origen en la glándula suprarrenal de la tumoración
+T65	NEG 2694 2696	no
+T66	NSCO 2697 2732	presentaron alteraciones de interés
+T67	UNC 2750 2758	sospecha
+T68	USCO 2759 2783	Masa suprarrenal derecha
+T69	NEG 3196 3198	no
+T70	NSCO 3199 3236	hallarse plano de separación vascular
+T71	NEG 3683 3686	sin
+T72	NSCO 3687 3698	infiltrarlo
+T73	NEG 4009 4011	No
+T74	NSCO 4012 4100	se evidencia afectación de ganglios interaortocava ni del parénquima suprarrenal derecho
+T75	NEG 4755 4757	no
+T76	NSCO 4758 4829	administrar el quinto ciclo y comenzar con el tratamiento radioterápico
+T77	NEG 4924 4935	ausencia de
+T78	NSCO 4936 4978	enfermedad local, ganglionar o metastásica
+T79	FARMACO 2589 2599	adrenalina
+T80	FARMACO 2634 2642	dopamina
+T81	FARMACO 4521 4531	ifosfamida
+T82	FARMACO 4547 4558	adriamicina
+T83	ORG_VIVO 10 15	Mujer
+T84	ORG_VIVO 185 212	médico de Atención Primaria
+T85	ORG_VIVO 468 476	paciente
+T86	ORG_VIVO 675 683	paciente
+T87	ORG_VIVO 1554 1562	paciente
+T88	ORG_VIVO 4191 4199	paciente
+T89	ORG_VIVO 4703 4711	paciente
+T90	ORG_VIVO 5083 5091	paciente
+T91	ENFERMEDAD 562 587	contractura paravertebral
+T92	ENFERMEDAD 763 781	síndrome miccional
+T93	ENFERMEDAD 1438 1450	hipernefroma
+T94	ENFERMEDAD 1924 1950	hipotrofia del LD hepático
+T95	ENFERMEDAD 2759 2775	Masa suprarrenal
+T96	ENFERMEDAD 2785 2799	Feocromocitoma
+T97	ENFERMEDAD 2836 2852	masa suprarrenal
+T98	ENFERMEDAD 3737 3780	tumor mesenquimal fusocelular de alto grado
+T99	ENFERMEDAD 3839 3914	leiomiosarcoma retroperitoneal con origen primario en la vena cava inferior
+T100	ENFERMEDAD 4152 4186	colecistitis crónica colelitiásica
+T101	ENFERMEDAD 4936 4964	enfermedad local, ganglionar
+T102	ENFERMEDAD 4967 4978	metastásica
+T103	ENFERMEDAD 5197 5249	insuficiencia renal presumiblemente de origen tóxico
+T104	SANITARIO-PROFESION 185 212	médico de Atención Primaria

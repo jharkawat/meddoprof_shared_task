@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 376 390	antipsicóticos
+T2	PROCEDIMIENTO 977 988	RM cerebral
+T3	PROCEDIMIENTO 990 993	EEG
+T4	PROCEDIMIENTO 1156 1190	colocación de electrodos bilateral
+T5	PROCEDIMIENTO 1268 1277	anestesia
+T6	NEG 393 395	No
+T7	NSCO 396 451	ha habido remisión de la sintomatología delirante grave
+T8	NEG 1016 1019	sin
+T9	NSCO 1020 1032	alteraciones
+T10	NEG 1241 1244	Sin
+T11	NSCO 1245 1293	incidencias durante la anestesia ni recuperación
+T12	NEG 1340 1351	remisión de
+T13	NSCO 1352 1379	la sintomatología psicótica
+T14	FARMACO 474 483	clozapina
+T15	FARMACO 1747 1756	clozapina
+T16	ORG_VIVO 0 5	Mujer
+T17	ORG_VIVO 1570 1578	paciente
+T18	ENFERMEDAD 36 59	esquizofrenia paranoide
+T19	ENFERMEDAD 183 210	reagudiazaciones psicóticas
+T20	ENFERMEDAD 739 757	angustia psicótica
+T21	ENFERMEDAD 1035 1046	DIAGNÓSTICO
+T22	ENFERMEDAD 1047 1070	Esquizofrenia paranoide
+T23	ENFERMEDAD 1355 1379	sintomatología psicótica

@@ -1,0 +1,115 @@
+T1	SINTOMA 222 231	fallecido
+T2	SINTOMA 672 681	hematuria
+T3	SINTOMA 878 888	masa renal
+T4	SINTOMA 1490 1500	consciente
+T5	SINTOMA 1502 1511	orientado
+T6	SINTOMA 1514 1525	colaborador
+T7	SINTOMA 1665 1690	palidez de piel y mucosas
+T8	SINTOMA 1798 1823	ruidos cardiacos rítmicos
+T9	SINTOMA 1961 1976	visceromegalias
+T10	SINTOMA 2079 2085	edemas
+T11	SINTOMA 2446 2456	masa renal
+T12	PROCEDIMIENTO 796 805	ecografía
+T13	PROCEDIMIENTO 807 859	tomografía computarizada (TC) y resonancia magnética
+T14	PROCEDIMIENTO 1052 1071	nefrectomía derecha
+T15	PROCEDIMIENTO 1073 1103	linfadenectomía y trombectomía
+T16	PROCEDIMIENTO 1453 1471	Exploración física
+T17	PROCEDIMIENTO 1562 1585	Exploración neurológica
+T18	PROCEDIMIENTO 1914 1955	laparotomía supraumbilical y esternotomía
+T19	PROCEDIMIENTO 2179 2198	Ecografía abdominal
+T20	PROCEDIMIENTO 2394 2439	Tomografía computarizada (TC) abdominopélvica
+T21	PROCEDIMIENTO 2529 2531	RM
+T22	PROCEDIMIENTO 2586 2604	embolización de RD
+T23	PROCEDIMIENTO 2739 2750	Hemocultivo
+T24	PROCEDIMIENTO 2774 2776	TC
+T25	PROCEDIMIENTO 2901 2978	Punción aspiración con aguja fina (PAAF) Adenopatía supraclavicular izquierda
+T26	PROCEDIMIENTO 3218 3227	Hemograma
+T27	PROCEDIMIENTO 3848 3850	TC
+T28	NEG 287 289	No
+T29	NSCO 290 325	tiene otros antecedentes de interés
+T30	NEG 354 357	sin
+T31	NSCO 358 391	alergias medicamentosas conocidas
+T32	NEG 393 396	Sin
+T33	NSCO 397 411	metabolopatías
+T34	NEG 477 480	Sin
+T35	NSCO 481 510	otros antecedentes de interés
+T36	NEG 514 516	No
+T37	NSCO 517 563	tiene otras intervenciones quirúrgicas previas
+T38	NEG 567 569	No
+T39	NSCO 570 598	toma medicación domiciliaria
+T40	UNC 897 911	compatible con
+T41	USCO 912 924	hipernefroma
+T42	NEG 1434 1437	sin
+T43	NSCO 1438 1450	sobrepasarla
+T44	NEG 1614 1617	Sin
+T45	NSCO 1618 1644	otra focalidad neurológica
+T46	NEG 1761 1764	Sin
+T47	NSCO 1765 1785	adenopatías axilares
+T48	NEG 1957 1960	Sin
+T49	NSCO 1961 2003	visceromegalias, ni adenopatías inguinales
+T50	NEG 2038 2046	negativa
+T51	NEG 2075 2078	sin
+T52	NSCO 2079 2116	edemas, varices ni signos de flebitis
+T53	NEG 2251 2254	sin
+T54	NSCO 2255 2282	ver el hilio renal con masa
+T55	NEG 2366 2369	sin
+T56	NSCO 2370 2390	alcanzar la aurícula
+T57	NEG 2664 2666	no
+T58	NSCO 2667 2735	se extiende a la aurícula derecha ni infiltra paredes de cava/hígado
+T59	NEG 2762 2770	negativo
+T60	UNC 2989 3003	compatible con
+T61	USCO 3004 3034	metástasis por carcinoma renal
+T62	UNC 3347 3353	claras
+T63	UNC 3492 3498	claras
+T64	USCO 3499 3515	renal estadio IV
+T65	NEG 3889 3891	no
+T66	NSCO 3892 3900	cambios"
+T67	NEG 4097 4100	sin
+T68	NSCO 4101 4166	que medie ningún tipo de tratamiento sistémico hasta este momento
+T69	FARMACO 3646 3655	sunitinib
+T70	FARMACO 3737 3746	sunitinib
+T71	ORG_VIVO 18 28	personales
+T72	ORG_VIVO 30 35	mujer
+T73	ORG_VIVO 48 59	ama de casa
+T74	ORG_VIVO 76 81	hijos
+T75	ORG_VIVO 104 114	familiares
+T76	ORG_VIVO 116 121	padre
+T77	ORG_VIVO 190 195	Madre
+T78	ORG_VIVO 214 221	Hermano
+T79	ORG_VIVO 271 279	hermanos
+T80	ORG_VIVO 342 352	personales
+T81	ORG_VIVO 624 632	paciente
+T82	ORG_VIVO 986 994	paciente
+T83	ORG_VIVO 3721 3729	paciente
+T84	ENFERMEDAD 135 160	accidente cerebrovascular
+T85	ENFERMEDAD 162 165	ACV
+T86	ENFERMEDAD 235 253	cáncer de páncreas
+T87	ENFERMEDAD 358 381	alergias medicamentosas
+T88	ENFERMEDAD 397 411	metabolopatías
+T89	ENFERMEDAD 672 688	hematuria franca
+T90	ENFERMEDAD 878 924	masa renal derecha compatible con hipernefroma
+T91	ENFERMEDAD 930 979	trombo en vena renal derecha y vena cava inferior
+T92	ENFERMEDAD 1149 1181	fracaso renal agudo oligoanúrico
+T93	ENFERMEDAD 1320 1335	carcinoma renal
+T94	ENFERMEDAD 1359 1369	metástasis
+T95	ENFERMEDAD 1375 1398	adenopatías preaórticas
+T96	ENFERMEDAD 1401 1433	infiltración de la cápsula renal
+T97	ENFERMEDAD 1692 1719	Adenopatías supraclavicular
+T98	ENFERMEDAD 1765 1785	adenopatías axilares
+T99	ENFERMEDAD 1981 2003	adenopatías inguinales
+T100	ENFERMEDAD 2108 2116	flebitis
+T101	ENFERMEDAD 2305 2334	infiltración de la vena renal
+T102	ENFERMEDAD 2446 2456	masa renal
+T103	ENFERMEDAD 2469 2502	trombo en cava infradiafragmática
+T104	ENFERMEDAD 2533 2551	hipernefroma renal
+T105	ENFERMEDAD 2606 2658	Trombo tumoral vena renal derecha y en cava inferior
+T106	ENFERMEDAD 2806 2821	derrame pleural
+T107	ENFERMEDAD 2833 2880	Adenopatías mediastínicas pretraqueal-retrocava
+T108	ENFERMEDAD 2942 2987	Adenopatía supraclavicular izquierda: maligna
+T109	ENFERMEDAD 3004 3034	metástasis por carcinoma renal
+T110	ENFERMEDAD 3320 3353	Carcinoma renal de células claras
+T111	ENFERMEDAD 3367 3374	pT3N2M1
+T112	ENFERMEDAD 3381 3433	afectación ganglionar mediastínica y supraclavicular
+T113	ENFERMEDAD 3471 3504	carcinoma de células claras renal
+T114	ENFERMEDAD 4035 4085	lesiones ganglionares torácicas, y supraclavicular
+T115	PACIENTE-SITUACION_LABORAL 48 59	ama de casa

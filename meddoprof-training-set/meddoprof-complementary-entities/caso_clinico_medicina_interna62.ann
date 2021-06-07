@@ -1,0 +1,101 @@
+T1	SINTOMA 292 298	fiebre
+T2	SINTOMA 326 332	fiebre
+T3	SINTOMA 392 409	sudores nocturnos
+T4	SINTOMA 426 433	afebril
+T5	SINTOMA 1196 1205	Ta 36,4oC
+T6	SINTOMA 1256 1264	Eupneica
+T7	SINTOMA 1338 1352	Abdomen blando
+T8	SINTOMA 1357 1365	doloroso
+T9	SINTOMA 1402 1423	irritación peritoneal
+T10	SINTOMA 1434 1440	edemas
+T11	SINTOMA 1908 1949	molestias abdominales a nivel epigástrico
+T12	SINTOMA 1954 1961	diarrea
+T13	PROCEDIMIENTO 657 679	ciclos de antibióticos
+T14	PROCEDIMIENTO 713 731	cultivo de exudado
+T15	PROCEDIMIENTO 833 848	pomadas tópicas
+T16	PROCEDIMIENTO 960 983	tratamiento antibiótico
+T17	PROCEDIMIENTO 986 1000	desbridamiento
+T18	PROCEDIMIENTO 1574 1583	hemograma
+T19	PROCEDIMIENTO 1808 1815	Mantoux
+T20	PROCEDIMIENTO 1843 1854	Endoscopias
+T21	PROCEDIMIENTO 1865 1877	colonoscopia
+T22	PROCEDIMIENTO 1972 1984	coprocultivo
+T23	PROCEDIMIENTO 1997 2023	TAC tórax- abdomen- pelvis
+T24	PROCEDIMIENTO 2243 2258	biopsia cutánea
+T25	PROCEDIMIENTO 2306 2333	tratamiento con corticoides
+T26	PROCEDIMIENTO 2928 2942	desbridamiento
+T27	NEG 70 73	Sin
+T28	NSCO 74 107	alergias medicamentosas conocidas
+T29	NEG 110 113	sin
+T30	NSCO 114 129	hábitos tóxicos
+T31	NEG 426 433	afebril
+T32	NEG 764 772	negativo
+T33	NEG 863 866	sin
+T34	NSCO 867 874	mejoría
+T35	NEG 1317 1320	sin
+T36	NSCO 1321 1336	ruidos añadidos
+T37	NEG 1354 1356	no
+T38	NSCO 1357 1365	doloroso
+T39	NEG 1367 1369	no
+T40	NSCO 1370 1387	masas ni megalias
+T41	NEG 1389 1391	No
+T42	NSCO 1392 1423	signos de irritación peritoneal
+T43	NEG 1431 1433	no
+T44	NSCO 1434 1457	edemas ni signos de TVP
+T45	NEG 1797 1806	negativas
+T46	NEG 1830 1839	negativos
+T47	NSCO 1969 1984	el coprocultivo
+T48	NEG 1985 1993	negativo
+T49	NEG 2025 2028	sin
+T50	NSCO 2029 2053	hallazgos significativos
+T51	UNC 2065 2073	sospecha
+T52	USCO 2074 2098	inicial de Leishmaniasis
+T53	NEG 2182 2185	sin
+T54	NSCO 2186 2193	mejoría
+T55	UNC 2194 2202	aparente
+T56	UNC 2259 2273	compatible con
+T57	USCO 2274 2293	pioderma gangrenoso
+T58	NEG 2350 2361	suspendidos
+T59	NSCO 2362 2397	con los resultados de microbiología
+T60	NSCO 2416 2447	Cultivo de aerobios y anerobios
+T61	NEG 2448 2456	negativo
+T62	NEG 2479 2487	negativa
+T63	NEG 2511 2521	tinción de
+T64	NSCO 2522 2530	auramina
+T65	NEG 2531 2539	negativa
+T66	FARMACO 788 799	clavulánico
+T67	FARMACO 801 815	Ciprofloxacino
+T68	FARMACO 817 829	Clindamicina
+T69	FARMACO 850 861	Gentamicina
+T70	FARMACO 2169 2181	Anfotericina
+T71	FARMACO 2802 2813	rifampicina
+T72	FARMACO 2816 2830	estreptomicina
+T73	ORG_VIVO 10 15	Mujer
+T74	ORG_VIVO 222 230	animales
+T75	ORG_VIVO 232 237	monos
+T76	ORG_VIVO 239 250	murciélagos
+T77	ORG_VIVO 252 260	insectos
+T78	ORG_VIVO 264 272	Vacunada
+T79	ORG_VIVO 751 772	S. coagulasa negativo
+T80	ORG_VIVO 1723 1733	Leishmania
+T81	ORG_VIVO 1755 1758	HIV
+T82	ORG_VIVO 1760 1768	Brucella
+T83	ORG_VIVO 1770 1779	Borrellia
+T84	ORG_VIVO 1781 1789	Coxiella
+T85	ORG_VIVO 2427 2435	aerobios
+T86	ORG_VIVO 2438 2447	anerobios
+T87	ORG_VIVO 2467 2477	Leishmania
+T88	ORG_VIVO 2554 2567	micobacterias
+T89	ORG_VIVO 2587 2598	M. Ulcerans
+T90	ORG_VIVO 2609 2620	M. Ulcerans
+T91	ENFERMEDAD 31 60	úlcera en extremidad superior
+T92	ENFERMEDAD 309 324	hepatitis A y B
+T93	ENFERMEDAD 455 567	lesión sobreelevada redondeada (similar a la quemadura de un cigarrillo), costrosa, en región posterior de brazo
+T94	ENFERMEDAD 1092 1101	infección
+T95	ENFERMEDAD 1454 1457	TVP
+T96	ENFERMEDAD 1459 1509	Lesión costrosa cutánea en cara posterior de brazo
+T97	ENFERMEDAD 2085 2098	Leishmaniasis
+T98	ENFERMEDAD 2274 2293	pioderma gangrenoso
+T99	ENFERMEDAD 2703 2719	Ulcera de Buruli
+T100	ENFERMEDAD 2960 2966	úlcera
+T101	PACIENTE-PROFESION 153 160	Bióloga

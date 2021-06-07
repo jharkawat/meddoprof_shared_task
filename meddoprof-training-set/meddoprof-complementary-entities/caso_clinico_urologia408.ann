@@ -1,0 +1,110 @@
+T1	SINTOMA 262 265	tos
+T2	SINTOMA 267 277	odinofagia
+T3	SINTOMA 280 288	mialgias
+T4	SINTOMA 591 596	edema
+T5	SINTOMA 1156 1185	deterioro de la función renal
+T6	SINTOMA 2666 2674	mialgias
+T7	SINTOMA 2676 2682	fiebre
+T8	SINTOMA 2684 2698	tos hemoptoica
+T9	SINTOMA 2701 2718	disnea progresiva
+T10	SINTOMA 3061 3083	deterioro ventilatorio
+T11	SINTOMA 3099 3102	tos
+T12	SINTOMA 4701 4711	hemoptisis
+T13	PROCEDIMIENTO 613 628	examen pulmonar
+T14	PROCEDIMIENTO 1019 1034	examen de orina
+T15	PROCEDIMIENTO 1227 1235	diálisis
+T16	PROCEDIMIENTO 1248 1282	tomografía computada (TC) de tórax
+T17	PROCEDIMIENTO 1368 1389	lavado broncoalveolar
+T18	PROCEDIMIENTO 1391 1394	LBA
+T19	PROCEDIMIENTO 1490 1516	estudio infeccioso del LBA
+T20	PROCEDIMIENTO 1665 1678	biopsia renal
+T21	PROCEDIMIENTO 1827 1846	inmunofluorescencia
+T22	PROCEDIMIENTO 1898 1911	plasmaféresis
+T23	PROCEDIMIENTO 2861 2881	radiografía de tórax
+T24	PROCEDIMIENTO 3191 3220	ventilación mecánica invasiva
+T25	PROCEDIMIENTO 3524 3549	fibrobroncoscopía con LBA
+T26	PROCEDIMIENTO 3629 3651	estudio microbiológico
+T27	PROCEDIMIENTO 3689 3702	plasmaféresis
+T28	PROCEDIMIENTO 3704 3724	anticuerpos anti-MBG
+T29	PROCEDIMIENTO 3729 3756	técnicas de ELISA en sangre
+T30	PROCEDIMIENTO 3980 3993	plasmaféresis
+T31	PROCEDIMIENTO 4076 4128	suplementación de inmunoglobulinas y crioprecipitado
+T32	PROCEDIMIENTO 4169 4182	plasmaféresis
+T33	PROCEDIMIENTO 4199 4211	hemodiálisis
+T34	PROCEDIMIENTO 4295 4307	terapia oral
+T35	PROCEDIMIENTO 4725 4735	extubación
+T36	PROCEDIMIENTO 4752 4766	oxigenoterapia
+T37	PROCEDIMIENTO 4858 4870	hemodiálisis
+T38	PROCEDIMIENTO 5055 5070	examen de orina
+T39	NEG 223 225	No
+T40	NSCO 226 233	fumador
+T41	NEG 467 478	se sospechó
+T42	NSCO 479 483	GNRP
+T43	NEG 556 559	sin
+T44	NSCO 560 585	requerimientos de oxígeno
+T45	NEG 587 590	sin
+T46	NSCO 591 628	edema ni hallazgos al examen pulmonar
+T47	NEG 1214 1217	sin
+T48	NSCO 1218 1235	requerir diálisis
+T49	UNC 1451 1465	compatible con
+T50	USCO 1466 1485	hemorragia alveolar
+T51	NEG 1525 1533	negativo
+T52	NEG 1791 1799	negativa
+T53	NSCO 1800 1808	para IgA
+T54	UNC 1848 1862	compatible con
+T55	USCO 1863 1868	EAMBG
+T56	NEG 2388 2397	negativos
+T57	NSCO 2398 2470	hasta una semana posterior al término del tratamiento con ciclofosfamida
+T58	UNC 3264 3275	sospecha de
+T59	USCO 3276 3287	recurrencia
+T60	NEG 3652 3660	negativo
+T61	NEG 3806 3815	negativos
+T62	NEG 3842 3850	negativa
+T63	NSCO 3851 3886	por Inmunoensayo en la Clínica Mayo
+T64	UNC 3896 3907	sospecha de
+T65	USCO 3908 3928	recurrencia de EAMBG
+T66	NEG 4475 4484	negativos
+T67	NEG 4614 4623	negativos
+T68	NEG 4677 4680	sin
+T69	NSCO 4681 4711	nuevos episodios de hemoptisis
+T70	NEG 4738 4751	suspensión de
+T71	NSCO 4752 4766	oxigenoterapia
+T72	NEG 4840 4854	suspendiéndose
+T73	NSCO 4855 4885	la hemodiálisis previo al alta
+T74	FARMACO 155 163	insulina
+T75	FARMACO 199 208	valsartán
+T76	FARMACO 211 221	metformina
+T77	FARMACO 1913 1930	metilprednisolona
+T78	FARMACO 1972 1986	ciclofosfamida
+T79	FARMACO 1989 1999	prednisona
+T80	FARMACO 2456 2470	ciclofosfamida
+T81	FARMACO 2529 2543	ciclofosfamida
+T82	FARMACO 2569 2579	prednisona
+T83	FARMACO 2977 2988	ceftazidima
+T84	FARMACO 3001 3012	vancomicina
+T85	FARMACO 3160 3172	cotrimoxazol
+T86	FARMACO 3995 4012	metilprednisolona
+T87	FARMACO 4029 4043	ciclofosfamida
+T88	FARMACO 4312 4326	ciclofosfamida
+T89	FARMACO 4341 4351	prednisona
+T90	FARMACO 4982 4992	prednisona
+T91	FARMACO 4995 5006	azatioprina
+T92	ORG_VIVO 0 6	Hombre
+T93	ORG_VIVO 42 93	trabajador en labores administrativas en una minera
+T94	ORG_VIVO 980 997	virus hepatitis B
+T95	ORG_VIVO 998 1001	y C
+T96	ORG_VIVO 1007 1010	VIH
+T97	ORG_VIVO 2598 2619	Pneumocystis jiroveci
+T98	ORG_VIVO 4629 4637	paciente
+T99	ENFERMEDAD 115 136	hipertensión arterial
+T100	ENFERMEDAD 166 178	dislipidemia
+T101	ENFERMEDAD 308 324	bronquitis aguda
+T102	ENFERMEDAD 432 454	hematuria microscópica
+T103	ENFERMEDAD 479 483	GNRP
+T104	ENFERMEDAD 1466 1485	hemorragia alveolar
+T105	ENFERMEDAD 2953 2972	neumonía multilobar
+T106	ENFERMEDAD 3105 3148	insuficiencia respiratoria aguda hipoxémica
+T107	ENFERMEDAD 3923 3928	EAMBG
+T108	ENFERMEDAD 4216 4237	falla renal oligúrica
+T109	ENFERMEDAD 4701 4711	hemoptisis
+T110	PACIENTE-PROFESION 42 93	trabajador en labores administrativas en una minera

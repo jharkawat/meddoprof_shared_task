@@ -1,0 +1,139 @@
+T1	SINTOMA 263 268	dolor
+T2	SINTOMA 632 646	poliartralgias
+T3	SINTOMA 671 705	empeoramiento de la esfera anímica
+T4	SINTOMA 1062 1067	dolor
+T5	SINTOMA 1449 1454	dolor
+T6	SINTOMA 1554 1559	dolor
+T7	SINTOMA 1797 1806	cansancio
+T8	SINTOMA 1977 1982	mareo
+T9	SINTOMA 1987 2006	desorientación leve
+T10	SINTOMA 2022 2043	sensación presincopal
+T11	SINTOMA 2122 2154	signos inflamatorios articulares
+T12	SINTOMA 2160 2279	dolor a la presión en todo el raquis, hombros, codos, parrilla costal, regiones trocantéreas y cara interna de rodillas
+T13	SINTOMA 3489 3502	fallecimiento
+T14	SINTOMA 4403 4426	dolor físico y psíquico
+T15	SINTOMA 4581 4591	artralgias
+T16	PROCEDIMIENTO 540 551	analgésicos
+T17	PROCEDIMIENTO 581 586	AINEs
+T18	PROCEDIMIENTO 1362 1389	analgesia de tercer escalón
+T19	PROCEDIMIENTO 1460 1474	antidepresivos
+T20	PROCEDIMIENTO 1514 1524	hipnóticos
+T21	PROCEDIMIENTO 1546 1549	EVA
+T22	PROCEDIMIENTO 2046 2064	Exploración física
+T23	PROCEDIMIENTO 2338 2386	radiografías de grandes articulaciones y muñecas
+T24	PROCEDIMIENTO 2390 2418	RMN de columna cervicolumbar
+T25	PROCEDIMIENTO 3899 3916	terapia cognitiva
+T26	PROCEDIMIENTO 4063 4085	tratamiento analgésico
+T27	PROCEDIMIENTO 4090 4115	tratamiento antidepresivo
+T28	PROCEDIMIENTO 5379 5394	benzodiacepinas
+T29	PROCEDIMIENTO 5466 5480	antidepresivos
+T30	PROCEDIMIENTO 5483 5495	ansiolíticos
+T31	NEG 211 213	no
+T32	NSCO 214 257	puede desempeñar bien las tareas domésticas
+T33	NEG 1210 1213	sin
+T34	NSCO 1214 1252	ser coordinado desde Atención Primaria
+T35	NEG 1338 1340	no
+T36	NSCO 1341 1347	mejora
+T37	NEG 1758 1766	falta de
+T38	NSCO 1767 1794	apoyo en el núcleo familiar
+T39	NEG 1918 1931	descartándose
+T40	NSCO 1932 1943	organicidad
+T41	NEG 1987 2001	desorientación
+T42	NSCO 2002 2016	leve ocasional
+T43	NEG 2118 2121	sin
+T44	NSCO 2122 2154	signos inflamatorios articulares
+T45	NEG 2712 2723	ausencia de
+T46	NSCO 2724 2749	otro tipo de apoyo social
+T47	NEG 2962 2970	falta de
+T48	NSCO 2971 2990	recursos económicos
+T49	NEG 3333 3336	Sin
+T50	NSCO 3337 3356	familiares cercanos
+T51	NEG 4465 4467	No
+T52	NSCO 4468 4507	sólo la actitud del marido ha empeorado
+T53	NEG 4647 4650	sin
+T54	NSCO 4651 4712	recibir ningún retorno afectivo por los que viven en su hogar
+T55	FARMACO 588 599	paracetamol
+T56	FARMACO 601 609	tramadol
+T57	FARMACO 833 843	citalopram
+T58	FARMACO 1391 1400	fentanilo
+T59	FARMACO 1402 1411	oxicodona
+T60	FARMACO 1413 1423	tapentadol
+T61	FARMACO 1476 1486	citalopram
+T62	FARMACO 1488 1499	fluvoxamina
+T63	FARMACO 1501 1510	trazodona
+T64	FARMACO 1526 1534	zolpidem
+T65	FARMACO 5294 5303	oxicodona
+T66	FARMACO 5305 5315	tapentadol
+T67	FARMACO 5317 5332	cloruro mórfico
+T68	FARMACO 5353 5364	gabapentina
+T69	FARMACO 5366 5377	pregabalina
+T70	ORG_VIVO 90 98	paciente
+T71	ORG_VIVO 345 355	personales
+T72	ORG_VIVO 464 472	familiar
+T73	ORG_VIVO 474 479	madre
+T74	ORG_VIVO 744 752	familiar
+T75	ORG_VIVO 1024 1030	médico
+T76	ORG_VIVO 1630 1638	paciente
+T77	ORG_VIVO 1786 1794	familiar
+T78	ORG_VIVO 1822 1831	cuidadora
+T79	ORG_VIVO 1838 1843	madre
+T80	ORG_VIVO 2438 2446	familiar
+T81	ORG_VIVO 2504 2511	familia
+T82	ORG_VIVO 2524 2533	parientes
+T83	ORG_VIVO 2570 2578	familiar
+T84	ORG_VIVO 2613 2619	marido
+T85	ORG_VIVO 2622 2626	hijo
+T86	ORG_VIVO 2663 2669	padres
+T87	ORG_VIVO 2680 2687	hermano
+T88	ORG_VIVO 2814 2821	familia
+T89	ORG_VIVO 2853 2858	madre
+T90	ORG_VIVO 2879 2884	padre
+T91	ORG_VIVO 2916 2924	paciente
+T92	ORG_VIVO 2931 2938	hermano
+T93	ORG_VIVO 3115 3123	familiar
+T94	ORG_VIVO 3146 3152	pareja
+T95	ORG_VIVO 3231 3236	hijos
+T96	ORG_VIVO 3269 3278	compañera
+T97	ORG_VIVO 3337 3347	familiares
+T98	ORG_VIVO 3368 3375	hermana
+T99	ORG_VIVO 3478 3484	marido
+T100	ORG_VIVO 3507 3512	padre
+T101	ORG_VIVO 3525 3534	cuidadora
+T102	ORG_VIVO 3541 3546	madre
+T103	ORG_VIVO 3677 3685	familiar
+T104	ORG_VIVO 3789 3797	paciente
+T105	ORG_VIVO 3871 3881	familiares
+T106	ORG_VIVO 3974 3982	familiar
+T107	ORG_VIVO 4239 4247	paciente
+T108	ORG_VIVO 4444 4452	familiar
+T109	ORG_VIVO 4488 4494	marido
+T110	ORG_VIVO 4570 4575	madre
+T111	ORG_VIVO 4623 4630	anciana
+T112	ORG_VIVO 4638 4645	hermano
+T113	ORG_VIVO 4866 4872	marido
+T114	ORG_VIVO 4900 4905	madre
+T115	ORG_VIVO 4943 4950	hermano
+T116	ORG_VIVO 5188 5196	familiar
+T117	ORG_VIVO 5513 5521	familiar
+T118	ORG_VIVO 5552 5560	paciente
+T119	ENFERMEDAD 149 161	fibromialgia
+T120	ENFERMEDAD 357 377	cistitis hemorrágica
+T121	ENFERMEDAD 379 403	pinzamiento discal L5-S1
+T122	ENFERMEDAD 405 420	asma extrínseca
+T123	ENFERMEDAD 423 449	síndrome ansioso-depresivo
+T124	ENFERMEDAD 497 509	fibromialgia
+T125	ENFERMEDAD 632 655	poliartralgias crónicas
+T126	ENFERMEDAD 1277 1289	fibromialgia
+T127	ENFERMEDAD 3564 3588	Síndrome de fibromialgia
+T128	ENFERMEDAD 3598 3631	Trastorno mixto ansioso-depresivo
+T129	ENFERMEDAD 3705 3722	Abuso psicológico
+T130	ENFERMEDAD 4513 4530	maltrato psíquico
+T131	ENFERMEDAD 5143 5163	dolencia psicológica
+T132	ENFERMEDAD 5175 5184	depresión
+T133	OTROS-SITUACION_LABORAL 3269 3290	compañera del trabajo
+T134	PACIENTE-SITUACION_LABORAL 1822 1843	cuidadora de su madre
+T135	PACIENTE-SITUACION_LABORAL 3525 3546	cuidadora de su madre
+T136	PACIENTE-PROFESION 319 329	limpiadora
+T137	PACIENTE-PROFESION 1326 1336	limpiadora
+T138	SANITARIO-PROFESION 4306 4312	médico
+T139	PACIENTE-SITUACION_LABORAL 4556 4575	cuidado de su madre

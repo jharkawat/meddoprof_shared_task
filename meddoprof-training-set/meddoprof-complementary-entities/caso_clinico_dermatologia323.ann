@@ -1,0 +1,47 @@
+T1	SINTOMA 255 262	prurito
+T2	SINTOMA 436 442	fiebre
+T3	SINTOMA 1515 1520	edema
+T4	PROCEDIMIENTO 574 592	Exploración física
+T5	PROCEDIMIENTO 1324 1339	biopsia cutánea
+T6	PROCEDIMIENTO 1617 1621	Gram
+T7	PROCEDIMIENTO 1677 1692	biopsia cutánea
+T8	PROCEDIMIENTO 1772 1790	cultivo micológico
+T9	PROCEDIMIENTO 2424 2447	tratamiento corticoideo
+T10	NEG 27 30	sin
+T11	NSCO 31 66	antecedentes patológicos de interés
+T12	NEG 411 414	sin
+T13	NSCO 415 422	mejoría
+T14	NEG 424 426	No
+T15	NSCO 427 471	asociaba fiebre ni otros síntomas sistémicos
+T16	NEG 953 961	negativo
+T17	NEG 963 965	No
+T18	NSCO 966 999	se objetivó afectación de mucosas
+T19	UNC 1298 1307	probables
+T20	NEG 1629 1638	negativas
+T21	NEG 1740 1748	negativa
+T22	NEG 1815 1823	negativo
+T23	NEG 1935 1937	no
+T24	NSCO 1938 2051	disponíamos de una confirmación diagnóstica ni de la determinación de déficit de glucosa-6-fosfato-deshidrogenasa
+T25	NEG 2392 2402	retirar de
+T26	NSCO 2403 2447	manera progresiva el tratamiento corticoideo
+T27	NEG 2448 2451	sin
+T28	NSCO 2452 2486	recidiva del cuadro hasta la fecha
+T29	FARMACO 300 310	fluconazol
+T30	FARMACO 341 352	clotrimazol
+T31	FARMACO 353 365	betametasona
+T32	FARMACO 2079 2089	prednisona
+T33	FARMACO 2148 2174	acetónido de triamcinolona
+T34	ORG_VIVO 10 15	Mujer
+T35	ORG_VIVO 83 89	médico
+T36	ORG_VIVO 238 246	paciente
+T37	ORG_VIVO 1780 1790	micológico
+T38	ORG_VIVO 2260 2268	paciente
+T39	ENFERMEDAD 1061 1091	dermatosis pustulosa subcórnea
+T40	ENFERMEDAD 1131 1161	candidiasis cutánea diseminada
+T41	ENFERMEDAD 1166 1177	pénfigo IgA
+T42	ENFERMEDAD 1184 1208	toxicodermia tipo SDRIFE
+T43	ENFERMEDAD 1435 1446	espongiosis
+T44	ENFERMEDAD 1838 1867	Síndrome de Sneddon-Wilkinson
+T45	ENFERMEDAD 1869 1899	Dermatosis pustulosa subcórnea
+T46	ENFERMEDAD 2008 2051	déficit de glucosa-6-fosfato-deshidrogenasa
+T47	SANITARIO-PROFESION 83 89	médico

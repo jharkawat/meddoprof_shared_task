@@ -1,0 +1,52 @@
+T1	SINTOMA 31 57	visión de niebla en el ojo
+T2	SINTOMA 666 679	metamorfopsia
+T3	PROCEDIMIENTO 398 420	examen del ojo derecho
+T4	PROCEDIMIENTO 597 600	AVI
+T5	PROCEDIMIENTO 608 626	exploración del OI
+T6	PROCEDIMIENTO 864 895	tomografía de coherencia óptica
+T7	PROCEDIMIENTO 897 900	OCT
+T8	PROCEDIMIENTO 969 972	AVI
+T9	PROCEDIMIENTO 1216 1219	TFD
+T10	PROCEDIMIENTO 1235 1271	inyección intravítrea de ranibizumab
+T11	PROCEDIMIENTO 1390 1404	biomicroscopía
+T12	PROCEDIMIENTO 1476 1479	OCT
+T13	PROCEDIMIENTO 1603 1606	AVI
+T14	PROCEDIMIENTO 1728 1738	angiograma
+T15	PROCEDIMIENTO 1836 1860	inyecciones intravítreas
+T16	PROCEDIMIENTO 1980 1983	TFD
+T17	PROCEDIMIENTO 2184 2198	biomicroscopía
+T18	PROCEDIMIENTO 2381 2384	OCT
+T19	PROCEDIMIENTO 2514 2517	AVI
+T20	NEG 223 226	sin
+T21	NSCO 227 267	otros antecedentes personales de interés
+T22	NEG 574 577	sin
+T23	NSCO 578 600	alteraciones en la AVI
+T24	NEG 1480 1482	no
+T25	NSCO 1483 1538	se evidencia edema macular ni desprendimiento de retina
+T26	NEG 2385 2387	no
+T27	NSCO 2388 2442	existían imágenes de edema macular ni fluido subfoveal
+T28	NEG 2743 2755	asintomático
+T29	NEG 2758 2761	sin
+T30	NSCO 2762 2826	actividad angiográfica ni tomográfica de vasculopatía polipoidal
+T31	FARMACO 347 358	bevacizumab
+T32	FARMACO 1260 1271	ranibizumab
+T33	FARMACO 1864 1875	ranibizumab
+T34	ORG_VIVO 0 5	Varón
+T35	ORG_VIVO 246 256	personales
+T36	ORG_VIVO 1120 1128	paciente
+T37	ORG_VIVO 1153 1156	VCP
+T38	ORG_VIVO 1771 1779	paciente
+T39	ORG_VIVO 2123 2131	paciente
+T40	ENFERMEDAD 748 758	hemovítreo
+T41	ENFERMEDAD 791 856	lesiones anaranjadas en el polo posterior y yuxtapapilar superior
+T42	ENFERMEDAD 923 964	DEP serohemorrágico yuxtapapilar superior
+T43	ENFERMEDAD 1008 1060	pólipos localizados en gran parte del polo posterior
+T44	ENFERMEDAD 1153 1165	VCP en el OI
+T45	ENFERMEDAD 1513 1538	desprendimiento de retina
+T46	ENFERMEDAD 1588 1595	pólipos
+T47	ENFERMEDAD 1642 1670	pólipos en el polo posterior
+T48	ENFERMEDAD 2047 2087	pólipos localizados en el polo posterior
+T49	ENFERMEDAD 2287 2373	lesiones de fibrosis subretiniana en el tercio proximal de la arcada temporal inferior
+T50	ENFERMEDAD 2553 2570	pólipos maculares
+T51	ENFERMEDAD 2803 2826	vasculopatía polipoidal
+T52	PACIENTE-PROFESION 164 177	neurocirujano

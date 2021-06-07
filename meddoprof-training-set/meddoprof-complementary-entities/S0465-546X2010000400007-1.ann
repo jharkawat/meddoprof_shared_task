@@ -1,0 +1,65 @@
+T1	SINTOMA 527 544	dolor neuropático
+T2	SINTOMA 930 944	fatiga crónica
+T3	SINTOMA 947 971	cuadro ansioso depresivo
+T4	SINTOMA 1279 1291	colaboradora
+T5	SINTOMA 1309 1335	alteración sensoperceptiva
+T6	SINTOMA 1372 1390	balance simétricos
+T7	SINTOMA 1415 1439	reflejos osteotendinosos
+T8	SINTOMA 1444 1457	hiperreflexia
+T9	SINTOMA 1483 1512	clonus en miembros inferiores
+T10	SINTOMA 1514 1531	babinsky negativo
+T11	SINTOMA 1533 1579	hemihipoestesia izquierda incluida hemifascies
+T12	PROCEDIMIENTO 1201 1228	tratamiento inmunomodulador
+T13	PROCEDIMIENTO 1233 1246	examen físico
+T14	PROCEDIMIENTO 1643 1662	pruebas cerebelosas
+T15	PROCEDIMIENTO 2728 2748	resonancia magnética
+T16	PROCEDIMIENTO 3448 3491	gcnavarro@yahoo.com / gcnavarro@hotmail.com
+T17	NEG 546 548	no
+T18	NSCO 549 564	aporta informes
+T19	NEG 1182 1184	No
+T20	NSCO 1185 1228	está recibiendo tratamiento inmunomodulador
+T21	NEG 1293 1295	no
+T22	NSCO 1296 1335	labilidad ni alteración sensoperceptiva
+T23	NEG 1392 1394	no
+T24	NSCO 1395 1413	espasticidad clara
+T25	NEG 1469 1471	no
+T26	NSCO 1472 1512	se aprecia clonus en miembros inferiores
+T27	NEG 1523 1531	negativo
+T28	NEG 1681 1689	negativo
+T29	UNC 2585 2597	posiblemente
+T30	UNC 3100 3107	valorar
+T31	USCO 3108 3132	la repercusión funcional
+T32	FARMACO 665 673	Copaxone
+T33	FARMACO 676 698	Acetato de Glatirámero
+T34	FARMACO 999 1007	Cymbalta
+T35	FARMACO 1010 1022	Hidrocloruro
+T36	FARMACO 1026 1036	Duloxetina
+T37	FARMACO 1067 1075	Rivotril
+T38	FARMACO 1078 1088	Clonazepam
+T39	FARMACO 1114 1125	Pregabalina
+T40	FARMACO 1146 1153	Stilnox
+T41	FARMACO 1156 1164	Zolpidem
+T42	ORG_VIVO 10 18	paciente
+T43	ORG_VIVO 28 34	Sandra
+T44	ORG_VIVO 354 359	Mujer
+T45	ORG_VIVO 393 402	enfermera
+T46	ORG_VIVO 1967 1974	adultos
+T47	ORG_VIVO 2054 2063	pacientes
+T48	ORG_VIVO 2808 2817	pacientes
+T49	ORG_VIVO 3039 3046	adultos
+T50	ORG_VIVO 3196 3203	persona
+T51	ENFERMEDAD 588 590	EM
+T52	ENFERMEDAD 814 816	EM
+T53	ENFERMEDAD 916 928	fibromialgia
+T54	ENFERMEDAD 930 944	fatiga crónica
+T55	ENFERMEDAD 947 971	cuadro ansioso depresivo
+T56	ENFERMEDAD 1730 1732	EM
+T57	ENFERMEDAD 1739 1800	trastorno inflamatorio más común del sistema nervioso central
+T58	ENFERMEDAD 2195 2197	EM
+T59	ENFERMEDAD 2822 2824	EM
+T60	ENFERMEDAD 2851 2853	EM
+T61	ENFERMEDAD 2954 2979	lesiones desmielinizantes
+T62	SANITARIO-PROFESION 305 311	Médico
+T63	PACIENTE-PROFESION 393 402	enfermera
+T64	PACIENTE-PROFESION 730 765	trabajaba en la planta de oncología
+T65	PACIENTE-SITUACION_LABORAL 506 516	de la baja

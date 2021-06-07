@@ -1,0 +1,66 @@
+T1	SINTOMA 520 581	dolor de tipo punzante y urente en la región parieto-temporal
+T2	SINTOMA 611 627	dolor en el oído
+T3	SINTOMA 708 747	eritema en el conducto auditivo externo
+T4	SINTOMA 979 989	consciente
+T5	SINTOMA 991 1000	orientado
+T6	SINTOMA 1002 1016	normocoloreado
+T7	SINTOMA 1019 1033	normohidratado
+T8	SINTOMA 2616 2633	dolor neuropático
+T9	PROCEDIMIENTO 934 952	Exploración física
+T10	PROCEDIMIENTO 1486 1504	exploración física
+T11	PROCEDIMIENTO 1573 1592	analítica sanguínea
+T12	PROCEDIMIENTO 1781 1801	radiografía de tórax
+T13	PROCEDIMIENTO 2249 2258	analgesia
+T14	PROCEDIMIENTO 2540 2562	tratamiento antivírico
+T15	PROCEDIMIENTO 2659 2668	analgesia
+T16	PROCEDIMIENTO 2681 2701	radiografía de tórax
+T17	NEG 40 43	sin
+T18	NSCO 44 96	alergias medicamentosas conocidas ni hábitos tóxicos
+T19	NEG 343 345	No
+T20	NSCO 346 397	seguía controles rutinarios por parte de Neurología
+T21	UNC 799 806	posible
+T22	USCO 807 821	otitis externa
+T23	NEG 1300 1302	No
+T24	NSCO 1303 1354	había afectación de mucosas ni de palmas ni plantas
+T25	UNC 1846 1858	sugestivo de
+T26	USCO 1859 1867	neumonía
+T27	UNC 1890 1904	compatible con
+T28	USCO 1905 2012	herpes zóster temporal derecho diseminado en un paciente inmunodeprimido por la toma crónica de azatioprina
+T29	NEG 2713 2715	no
+T30	NSCO 2716 2741	mostró ninguna alteración
+T31	FARMACO 285 296	azatioprina
+T32	FARMACO 313 327	piridostigmina
+T33	FARMACO 767 781	ciprofloxacino
+T34	FARMACO 2001 2012	azatioprina
+T35	FARMACO 2099 2110	azatioprina
+T36	FARMACO 2193 2202	aciclovir
+T37	FARMACO 2263 2274	paracetamol
+T38	FARMACO 2276 2283	nolotil
+T39	FARMACO 2286 2297	pregabalina
+T40	FARMACO 2321 2336	sulfato de zinc
+T41	FARMACO 2374 2388	ácido fusídico
+T42	ORG_VIVO 10 15	Varón
+T43	ORG_VIVO 28 38	empresario
+T44	ORG_VIVO 142 147	mujer
+T45	ORG_VIVO 594 602	paciente
+T46	ORG_VIVO 669 687	médico de cabecera
+T47	ORG_VIVO 956 964	paciente
+T48	ORG_VIVO 1953 1961	paciente
+T49	ORG_VIVO 2128 2136	paciente
+T50	ORG_VIVO 2458 2466	paciente
+T51	ORG_VIVO 2552 2562	antivírico
+T52	ORG_VIVO 2789 2797	paciente
+T53	ENFERMEDAD 177 193	miastenia gravis
+T54	ENFERMEDAD 422 468	lesiones cutáneas generalizadas y pruriginosas
+T55	ENFERMEDAD 807 821	otitis externa
+T56	ENFERMEDAD 1052 1122	erupción cutánea diseminada formada por múltiples pápulas eritematosas
+T57	ENFERMEDAD 1608 1628	anemia megalobástica
+T58	ENFERMEDAD 1859 1867	neumonía
+T59	ENFERMEDAD 1905 1927	herpes zóster temporal
+T60	ENFERMEDAD 1962 2012	inmunodeprimido por la toma crónica de azatioprina
+T61	ENFERMEDAD 2040 2070	neumonía varicelosa secundaria
+T62	ENFERMEDAD 2073 2110	anemia megaloblástica por azatioprina
+T63	ENFERMEDAD 2403 2442	lesiones necróticas del cuero cabelludo
+T64	ENFERMEDAD 2766 2774	neumonía
+T65	PACIENTE-PROFESION 28 38	empresario
+T66	SANITARIO-PROFESION 669 687	médico de cabecera

@@ -1,0 +1,49 @@
+T1	SINTOMA 345 358	fallecimiento
+T2	SINTOMA 1214 1222	embarazo
+T3	SINTOMA 1543 1556	dismorfofobia
+T4	SINTOMA 1585 1615	sentimientos crónicos de vacío
+T5	PROCEDIMIENTO 1319 1351	tratamientos psicofarmacológicos
+T6	PROCEDIMIENTO 1773 1787	antidepresivos
+T7	NEG 470 479	inestable
+T8	NEG 571 573	no
+T9	NSCO 574 601	le han renovado el contrato
+T10	NEG 631 633	no
+T11	NSCO 634 646	cualificados
+T12	NEG 1252 1255	sin
+T13	NSCO 1256 1266	protección
+T14	NEG 1285 1293	negativa
+T15	NSCO 1294 1362	a pesar de los distintos tratamientos psicofarmacológicos prescritos
+T16	NEG 1618 1626	falta de
+T17	NSCO 1627 1648	interés por el futuro
+T18	NEG 2262 2264	no
+T19	NSCO 2265 2288	existe la participación
+T20	FARMACO 1789 1799	Fluoxetina
+T21	FARMACO 1807 1818	Venlafaxina
+T22	FARMACO 1826 1836	Topiramato
+T23	ORG_VIVO 27 32	mujer
+T24	ORG_VIVO 70 77	azafata
+T25	ORG_VIVO 178 185	fratría
+T26	ORG_VIVO 193 201	hermanas
+T27	ORG_VIVO 267 272	madre
+T28	ORG_VIVO 296 302	pareja
+T29	ORG_VIVO 323 333	familiares
+T30	ORG_VIVO 365 370	padre
+T31	ORG_VIVO 428 439	tío paterno
+T32	ORG_VIVO 540 548	paciente
+T33	ORG_VIVO 668 679	dependienta
+T34	ORG_VIVO 1930 1938	paciente
+T35	ORG_VIVO 1955 1963	paciente
+T36	ORG_VIVO 2149 2159	familiares
+T37	ORG_VIVO 2249 2258	pacientes
+T38	ENFERMEDAD 392 407	cáncer hepático
+T39	ENFERMEDAD 413 421	suicidio
+T40	ENFERMEDAD 864 900	trastorno de la conducta alimentaria
+T41	ENFERMEDAD 906 923	anorexia nerviosa
+T42	ENFERMEDAD 973 982	atracones
+T43	ENFERMEDAD 1674 1706	Trastorno límite de personalidad
+T44	ENFERMEDAD 1892 1920	Trastorno de la Personalidad
+T45	PACIENTE-PROFESION 648 666	camarera en un pub
+T46	SANITARIO-PROFESION 2327 2340	profesionales
+T47	PACIENTE-PROFESION 70 99	azafata en una compañía aérea
+T48	PACIENTE-PROFESION 481 520	ha trabajado en varias compañías aéreas
+T49	PACIENTE-PROFESION 668 697	dependienta en tienda de ropa

@@ -1,0 +1,125 @@
+T1	SINTOMA 28 37	exfumador
+T2	SINTOMA 40 47	bebedor
+T3	SINTOMA 328 334	disnea
+T4	SINTOMA 358 365	astenia
+T5	SINTOMA 499 545	ensanchamiento del mediastino superior y medio
+T6	SINTOMA 624 634	Consciente
+T7	SINTOMA 637 646	orientado
+T8	SINTOMA 776 797	ingurgitación yugular
+T9	SINTOMA 845 869	tonos cardíacos apagados
+T10	SINTOMA 875 881	soplos
+T11	SINTOMA 976 1031	Abdomen blando y depresible, no doloroso a la palpación
+T12	SINTOMA 1046 1061	visceromegalias
+T13	SINTOMA 1076 1109	edemas en los miembros inferiores
+T14	SINTOMA 4731 4741	consciente
+T15	SINTOMA 4743 4752	orientado
+T16	SINTOMA 5007 5031	estabilidad hemodinámica
+T17	SINTOMA 5310 5327	congestión venosa
+T18	SINTOMA 6040 6046	disnea
+T19	SINTOMA 6049 6070	inquietud psicomotriz
+T20	SINTOMA 6306 6323	congestión hiliar
+T21	SINTOMA 6336 6366	redistribución vascular hiliar
+T22	SINTOMA 6485 6496	falleciendo
+T23	PROCEDIMIENTO 463 483	radiografía de tórax
+T24	PROCEDIMIENTO 597 615	Exploración física
+T25	PROCEDIMIENTO 741 771	Exploración de cabeza y cuello
+T26	PROCEDIMIENTO 814 835	Auscultación cardíaca
+T27	PROCEDIMIENTO 906 927	Auscultación pulmonar
+T28	PROCEDIMIENTO 1234 1251	TC craneal simple
+T29	PROCEDIMIENTO 1310 1356	TC de tórax simple y con contraste intravenoso
+T30	PROCEDIMIENTO 1772 1787	ecocardiografía
+T31	PROCEDIMIENTO 2005 2014	Hemograma
+T32	PROCEDIMIENTO 2425 2438	RM de corazón
+T33	PROCEDIMIENTO 3677 3717	Biopsia de la masa mediastínica anterior
+T34	PROCEDIMIENTO 3827 3853	estudio inmunohistoquimico
+T35	PROCEDIMIENTO 4845 4856	TC de tórax
+T36	PROCEDIMIENTO 4970 4989	drenaje pericárdico
+T37	PROCEDIMIENTO 5140 5153	fluidoterapia
+T38	PROCEDIMIENTO 5155 5179	corticoterapia sistémica
+T39	PROCEDIMIENTO 5235 5267	oxigenoterapia con gafas nasales
+T40	PROCEDIMIENTO 5344 5359	ecocardiografía
+T41	PROCEDIMIENTO 5650 5663	quimioterapia
+T42	PROCEDIMIENTO 5702 5705	VAC
+T43	PROCEDIMIENTO 5882 5896	oxigenoterapia
+T44	PROCEDIMIENTO 5898 5910	sueroterapia
+T45	PROCEDIMIENTO 5913 5937	corticoterapia sistémica
+T46	PROCEDIMIENTO 6120 6135	benzodiacepinas
+T47	PROCEDIMIENTO 6206 6226	radiografía de tórax
+T48	NEG 375 378	sin
+T49	NSCO 379 406	asociar otra sintomatología
+T50	NEG 773 775	no
+T51	NSCO 776 812	ingurgitación yugular ni adenopatías
+T52	NEG 871 874	sin
+T53	NSCO 875 904	soplos ni extratonos audibles
+T54	NEG 1005 1007	no
+T55	NSCO 1008 1031	doloroso a la palpación
+T56	NEG 1033 1036	sin
+T57	NSCO 1037 1071	masas ni visceromegalias palpables
+T58	NEG 1073 1075	No
+T59	NSCO 1076 1109	edemas en los miembros inferiores
+T60	NEG 1263 1265	no
+T61	NSCO 1266 1306	se objetivan alteraciones significativas
+T62	UNC 1609 1624	compatibles con
+T63	USCO 1625 1646	taponamiento cardíaco
+T64	UNC 2701 2713	sugestivo de
+T65	USCO 2714 2730	hipercelularidad
+T66	UNC 2852 2859	posible
+T67	USCO 2860 2903	origen a tener en cuenta de la neoformación
+T68	UNC 3003 3011	probable
+T69	USCO 3012 3024	infiltración
+T70	UNC 3169 3182	probablemente
+T71	USCO 3183 3193	neoplásico
+T72	NEG 3425 3428	sin
+T73	NSCO 3429 3490	condicionar movimiento paradójico septal en el momento actual
+T74	NEG 4025 4038	negativo para
+T75	NSCO 4039 4064	citoqueratinas CK AE1/AE3
+T76	NEG 4115 4124	negativos
+T77	NSCO 4125 4162	los marcadores vasculares CD31 Y CD34
+T78	UNC 4634 4642	probable
+T79	USCO 4643 4674	origen diafragmático estadio IV
+T80	NEG 4928 4931	sin
+T81	NSCO 4932 4942	considerar
+T82	UNC 5497 5505	probable
+T83	USCO 5506 5568	origen diafragmático con extensión a pericárdico e irresecable
+T84	NEG 5786 5789	sin
+T85	NSCO 5790 5812	toxicidades inmediatas
+T86	NEG 6505 6517	retirada del
+T87	NSCO 6518 6540	tratamiento de soporte
+T88	FARMACO 235 245	alopurinol
+T89	FARMACO 5204 5221	metilprednisolona
+T90	FARMACO 5408 5418	furosemida
+T91	FARMACO 5707 5718	vincristina
+T92	FARMACO 5730 5744	ciclofosfamida
+T93	FARMACO 5759 5773	actinomicina D
+T94	FARMACO 6567 6582	cloruro mórfico
+T95	FARMACO 6585 6594	midazolam
+T96	ORG_VIVO 10 15	Varón
+T97	ORG_VIVO 76 86	personales
+T98	ORG_VIVO 261 288	médico de Atención Primaria
+T99	ORG_VIVO 4717 4725	paciente
+T100	ORG_VIVO 4946 4954	paciente
+T101	ORG_VIVO 5036 5044	paciente
+T102	ORG_VIVO 6371 6379	paciente
+T103	ENFERMEDAD 28 37	exfumador
+T104	ENFERMEDAD 90 111	hipertensión arterial
+T105	ENFERMEDAD 133 160	insuficiencia renal crónica
+T106	ENFERMEDAD 499 537	ensanchamiento del mediastino superior
+T107	ENFERMEDAD 801 812	adenopatías
+T108	ENFERMEDAD 1363 1420	conglomerado adenopático en el compartimento mediastínico
+T109	ENFERMEDAD 1501 1508	linfoma
+T110	ENFERMEDAD 1519 1549	nódulos pulmonares bilaterales
+T111	ENFERMEDAD 1551 1570	Derrame pericárdico
+T112	ENFERMEDAD 1625 1646	taponamiento cardíaco
+T113	ENFERMEDAD 1648 1673	Derrame pleural bilateral
+T114	ENFERMEDAD 1802 1821	derrame pericárdico
+T115	ENFERMEDAD 2891 2903	neoformación
+T116	ENFERMEDAD 3118 3137	derrame pericárdico
+T117	ENFERMEDAD 3306 3321	Derrame pleural
+T118	ENFERMEDAD 3719 3736	neoplasia maligna
+T119	ENFERMEDAD 3803 3822	sarcoma pleomórfico
+T120	ENFERMEDAD 4397 4413	rabdomiosarcomas
+T121	ENFERMEDAD 4503 4588	sarcoma pleomórfico cuyo inmunofenotipo es encuadrable en rabdomiosarcoma pleomórfico
+T122	ENFERMEDAD 4603 4663	Rabdomiosarcoma pleomórfico de probable origen diafragmático
+T123	ENFERMEDAD 5466 5554	rabdomiosarcoma pleomórfico de probable origen diafragmático con extensión a pericárdico
+T124	ENFERMEDAD 6265 6280	derrame pleural
+T125	SANITARIO-PROFESION 261 288	médico de Atención Primaria

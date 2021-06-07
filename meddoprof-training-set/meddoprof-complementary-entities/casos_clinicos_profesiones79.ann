@@ -1,0 +1,17 @@
+T1	SINTOMA 119 129	hormigueos
+T2	SINTOMA 211 252	duelen los tres primeros dedos de la mano
+T3	PROCEDIMIENTO 507 537	tratamiento higiénicodietético
+T4	NEG 254 256	No
+T5	NSCO 257 304	manifiesta haberse caído ni golpeado en la zona
+T6	NEG 539 541	No
+T7	NSCO 542 570	consume ni tabaco ni alcohol
+T8	FARMACO 362 372	indapamida
+T9	FARMACO 443 454	paracetamol
+T10	ORG_VIVO 18 29	trabajadora
+T11	ORG_VIVO 323 333	personales
+T12	ORG_VIVO 553 559	tabaco
+T13	ENFERMEDAD 339 342	HTA
+T14	ENFERMEDAD 374 409	artropatía degenerativa dorsolumbar
+T15	ENFERMEDAD 457 466	sobrepeso
+T16	ENFERMEDAD 487 503	dislipemia mixta
+T17	PACIENTE-PROFESION 18 44	trabajadora de la limpieza

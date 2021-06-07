@@ -1,0 +1,180 @@
+T1	SINTOMA 176 183	cefalea
+T2	SINTOMA 222 255	dolor en hipocondrio y fosa renal
+T3	SINTOMA 310 318	nauseosa
+T4	SINTOMA 331 340	febrícula
+T5	SINTOMA 368 377	hematuria
+T6	SINTOMA 505 524	buen estado general
+T7	SINTOMA 567 574	afebril
+T8	SINTOMA 731 775	abdomen es doloroso a la palpación en flanco
+T9	SINTOMA 804 832	masa palpable en hipocondrio
+T10	SINTOMA 845 884	puño percusión renal izquierda positiva
+T11	SINTOMA 1067 1091	ascenso de la creatinina
+T12	SINTOMA 1235 1246	proteinuria
+T13	SINTOMA 1329 1334	dolor
+T14	SINTOMA 1600 1648	riñón izquierdo marcadamente aumentado de tamaño
+T15	SINTOMA 3215 3224	hematuria
+T16	SINTOMA 3266 3285	síntomas sistémicos
+T17	SINTOMA 3287 3293	fiebre
+T18	SINTOMA 3295 3310	pérdida de peso
+T19	SINTOMA 3339 3345	piuria
+T20	SINTOMA 3663 3669	piuria
+T21	SINTOMA 3672 3681	hematuria
+T22	SINTOMA 4639 4651	dolor lumbar
+T23	SINTOMA 5531 5540	hematuria
+T24	SINTOMA 5546 5557	proteinuria
+T25	SINTOMA 6626 6631	dolor
+T26	SINTOMA 7613 7618	dolor
+T27	SINTOMA 7635 7642	afebril
+T28	PROCEDIMIENTO 1364 1383	ecografía abdominal
+T29	PROCEDIMIENTO 1571 1583	TC abdominal
+T30	PROCEDIMIENTO 2158 2170	TC abdominal
+T31	PROCEDIMIENTO 3350 3360	urocultivo
+T32	PROCEDIMIENTO 4540 4552	radioterapia
+T33	PROCEDIMIENTO 6061 6073	TC abdominal
+T34	PROCEDIMIENTO 6150 6159	analgesia
+T35	PROCEDIMIENTO 6161 6176	sondaje vesical
+T36	PROCEDIMIENTO 6243 6263	radiografía de tórax
+T37	PROCEDIMIENTO 6465 6475	urocultivo
+T38	PROCEDIMIENTO 6477 6506	estudio de parásitos en orina
+T39	PROCEDIMIENTO 6653 6662	analgesia
+T40	PROCEDIMIENTO 6772 6804	nefrostomía percutánea izquierda
+T41	PROCEDIMIENTO 6901 6923	estudio microbiológico
+T42	PROCEDIMIENTO 7125 7136	nefrectomía
+T43	PROCEDIMIENTO 7162 7173	cistoscopia
+T44	PROCEDIMIENTO 7200 7207	biopsia
+T45	PROCEDIMIENTO 7254 7271	uretrocistoscopia
+T46	PROCEDIMIENTO 7367 7374	biopsia
+T47	PROCEDIMIENTO 7885 7896	nefrectomía
+T48	NEG 96 98	No
+T49	NSCO 99 168	presenta alergias medicamentosas conocidas ni antecedentes personales
+T50	NEG 342 345	sin
+T51	NSCO 346 377	síndrome miccional ni hematuria
+T52	NEG 567 574	afebril
+T53	NEG 705 708	sin
+T54	NSCO 709 726	aporte de oxígeno
+T55	NEG 1294 1303	negativos
+T56	NEG 1773 1776	sin
+T57	NSCO 1777 1801	prácticamente parénquima
+T58	UNC 1980 1986	podría
+T59	USCO 1987 2006	sugerir pionefrosis
+T60	NEG 3361 3369	negativo
+T61	NEG 3559 3567	falta de
+T62	NSCO 3568 3612	antecedentes de tuberculosis pulmonar previa
+T63	NEG 3617 3625	falta de
+T64	NSCO 3626 3644	síndrome miccional
+T65	NEG 3651 3662	ausencia de
+T66	NSCO 3663 3669	piuria
+T67	NEG 4994 4997	sin
+T68	NSCO 4998 5034	síndrome miccional ni constitucional
+T69	NEG 5036 5038	no
+T70	NSCO 5039 5081	presentaba hematuria macro ni microscópica
+T71	NEG 5516 5518	no
+T72	NSCO 5519 5540	suele haber hematuria
+T73	NEG 5893 5896	sin
+T74	NSCO 5897 5906	hematuria
+T75	UNC 5983 5991	probable
+T76	USCO 5992 6023	del cuadro clínico del paciente
+T77	NEG 6434 6443	negativos
+T78	NEG 6562 6571	negativos
+T79	UNC 6717 6728	sospecha de
+T80	USCO 6729 6740	pionefrosis
+T81	NEG 6937 6946	negativas
+T82	UNC 7522 7537	compatibles con
+T83	USCO 7538 7551	esquistosomas
+T84	NEG 7635 7642	afebril
+T85	FARMACO 719 726	oxígeno
+T86	FARMACO 6179 6192	cefalosporina
+T87	FARMACO 6216 6227	ceftriaxona
+T88	FARMACO 7799 7811	praziquantel
+T89	ORG_VIVO 0 5	Varón
+T90	ORG_VIVO 75 94	trabajador agrícola
+T91	ORG_VIVO 158 168	personales
+T92	ORG_VIVO 417 444	médico de atención primaria
+T93	ORG_VIVO 487 495	paciente
+T94	ORG_VIVO 2558 2566	personas
+T95	ORG_VIVO 2618 2625	varones
+T96	ORG_VIVO 2715 2722	bacilos
+T97	ORG_VIVO 2872 2879	bacilos
+T98	ORG_VIVO 3390 3398	paciente
+T99	ORG_VIVO 4369 4392	Schistosoma haematobium
+T100	ORG_VIVO 4894 4902	paciente
+T101	ORG_VIVO 4937 4951	S. haematobium
+T102	ORG_VIVO 5166 5189	especies de Schistosoma
+T103	ORG_VIVO 5216 5223	humanos
+T104	ORG_VIVO 5225 5238	S haematobium
+T105	ORG_VIVO 5832 5840	paciente
+T106	ORG_VIVO 6015 6023	paciente
+T107	ORG_VIVO 6100 6108	paciente
+T108	ORG_VIVO 6265 6277	baciloscopia
+T109	ORG_VIVO 6353 6389	virus de la inmunodeficiencia humana
+T110	ORG_VIVO 6392 6415	virus de la hepatitis B
+T111	ORG_VIVO 6416 6419	y C
+T112	ORG_VIVO 6488 6497	parásitos
+T113	ORG_VIVO 6524 6539	Schistosoma spp
+T114	ORG_VIVO 6576 6584	paciente
+T115	ORG_VIVO 6973 6981	paciente
+T116	ORG_VIVO 7538 7551	esquistosomas
+T117	ORG_VIVO 7556 7564	paciente
+T118	ORG_VIVO 7862 7870	paciente
+T119	ENFERMEDAD 108 131	alergias medicamentosas
+T120	ENFERMEDAD 346 364	síndrome miccional
+T121	ENFERMEDAD 450 464	cistitis aguda
+T122	ENFERMEDAD 907 938	anemia microcítica normocrómica
+T123	ENFERMEDAD 1828 1846	dilatación crónica
+T124	ENFERMEDAD 1900 1920	ureterohidronefrosis
+T125	ENFERMEDAD 1995 2006	pionefrosis
+T126	ENFERMEDAD 2027 2076	calcificación del tercio distal de ambos uréteres
+T127	ENFERMEDAD 2272 2310	calcificación de las paredes vesicales
+T128	ENFERMEDAD 2340 2353	hidronefrosis
+T129	ENFERMEDAD 2384 2412	tuberculosis genito-urinaria
+T130	ENFERMEDAD 2417 2457	carcinoma escamoso y la esquistosomiasis
+T131	ENFERMEDAD 2462 2483	tuberculosis urinaria
+T132	ENFERMEDAD 2507 2533	tuberculosis extrapulmonar
+T133	ENFERMEDAD 2571 2592	tuberculosis pulmonar
+T134	ENFERMEDAD 2695 2751	diseminación de los bacilos a partir de un foco pulmonar
+T135	ENFERMEDAD 2980 3000	estenosis ureterales
+T136	ENFERMEDAD 3023 3036	hidronefrosis
+T137	ENFERMEDAD 3096 3104	abscesos
+T138	ENFERMEDAD 3185 3203	síndrome miccional
+T139	ENFERMEDAD 3215 3224	hematuria
+T140	ENFERMEDAD 3441 3479	calcificaciones ureterales y vesicales
+T141	ENFERMEDAD 3484 3497	hidronefrosis
+T142	ENFERMEDAD 3529 3541	tuberculosis
+T143	ENFERMEDAD 3584 3605	tuberculosis pulmonar
+T144	ENFERMEDAD 3626 3644	síndrome miccional
+T145	ENFERMEDAD 3721 3750	tumores malignos de la vejiga
+T146	ENFERMEDAD 3753 3774	vía urinaria superior
+T147	ENFERMEDAD 3820 3836	cáncer urotelial
+T148	ENFERMEDAD 3873 3944	tumor maligno más frecuente de la vejiga y del tracto urinario superior
+T149	ENFERMEDAD 4420 4448	infección por S. haematobium
+T150	ENFERMEDAD 4493 4514	infecciones urinarias
+T151	ENFERMEDAD 4530 4538	litiasis
+T152	ENFERMEDAD 4593 4609	tumores malignos
+T153	ENFERMEDAD 4627 4636	hematuria
+T154	ENFERMEDAD 4656 4669	hidronefrosis
+T155	ENFERMEDAD 4675 4705	obstrucción de la vía urinaria
+T156	ENFERMEDAD 4738 4756	síndrome miccional
+T157	ENFERMEDAD 4793 4827	calcificaciones de la vía urinaria
+T158	ENFERMEDAD 4861 4877	esquistosomiasis
+T159	ENFERMEDAD 4980 4993	hidronefrosis
+T160	ENFERMEDAD 4998 5016	síndrome miccional
+T161	ENFERMEDAD 5050 5065	hematuria macro
+T162	ENFERMEDAD 5126 5151	cáncer de la vía urinaria
+T163	ENFERMEDAD 5201 5276	infecciones en humanos, S haematobium (endémico en África y Oriente Próximo
+T164	ENFERMEDAD 5296 5321	enfermedad genitourinaria
+T165	ENFERMEDAD 5326 5364	infecciones crónicas de larga duración
+T166	ENFERMEDAD 5416 5431	calcificaciones
+T167	ENFERMEDAD 5531 5540	hematuria
+T168	ENFERMEDAD 5626 5639	hidronefrosis
+T169	ENFERMEDAD 5663 5692	cáncer de células epiteliales
+T170	ENFERMEDAD 5734 5759	sobreinfección bacteriana
+T171	ENFERMEDAD 5781 5794	pielonefritis
+T172	ENFERMEDAD 5858 5892	calcificaciones en la vía urinaria
+T173	ENFERMEDAD 5927 5940	hidronefrosis
+T174	ENFERMEDAD 5953 5969	esquistosomiasis
+T175	ENFERMEDAD 6404 6419	hepatitis B y C
+T176	ENFERMEDAD 6729 6740	pionefrosis
+T177	ENFERMEDAD 7917 7960	Esquistosomiasis crónica de la vía urinaria
+T178	ENFERMEDAD 7965 8013	ureterohidronefrosis izquierda severa secundaria
+T179	SANITARIO-PROFESION 417 444	médico de atención primaria
+T180	PACIENTE-PROFESION 75 94	trabajador agrícola

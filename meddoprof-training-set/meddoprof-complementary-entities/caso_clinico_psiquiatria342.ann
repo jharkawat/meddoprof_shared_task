@@ -1,0 +1,16 @@
+T1	SINTOMA 664 699	alucinaciones somáticas y auditivas
+T2	SINTOMA 935 942	delirio
+T3	NEG 25 28	sin
+T4	NSCO 29 44	contacto previo
+T5	UNC 476 488	sin aparente
+T6	USCO 489 511	repercusión conductual
+T7	NEG 618 621	sin
+T8	NSCO 622 652	muestras de angustia psicótica
+T9	ORG_VIVO 0 5	Mujer
+T10	ORG_VIVO 86 96	familiares
+T11	ORG_VIVO 157 163	M.A.P.
+T12	ORG_VIVO 895 902	persona
+T13	ENFERMEDAD 100 113	Esquizofrenia
+T14	ENFERMEDAD 755 771	psicosis atípica
+T15	ENFERMEDAD 853 863	parafrenia
+T16	SANITARIO-PROFESION 157 163	M.A.P.

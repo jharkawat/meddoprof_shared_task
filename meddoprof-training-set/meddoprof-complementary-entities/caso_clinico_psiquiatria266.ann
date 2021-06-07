@@ -1,0 +1,10 @@
+T1	SINTOMA 133 141	delirios
+T2	SINTOMA 144 167	alucinaciones auditivas
+T3	PROCEDIMIENTO 297 325	antipsicótico vía parenteral
+T4	FARMACO 327 352	palmitato de paliperidona
+T5	ORG_VIVO 35 40	mujer
+T6	ORG_VIVO 219 227	paciente
+T7	ENFERMEDAD 65 89	síndrome de Sturge-Weber
+T8	ENFERMEDAD 91 94	SSW
+T9	ENFERMEDAD 108 128	episodios psicóticos
+T10	ENFERMEDAD 133 141	delirios

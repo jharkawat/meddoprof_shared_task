@@ -1,0 +1,131 @@
+T1	SINTOMA 28 35	fumador
+T2	SINTOMA 351 373	alucinaciones visuales
+T3	SINTOMA 784 806	alucinaciones visuales
+T4	SINTOMA 1322 1328	fiebre
+T5	SINTOMA 1363 1383	sensación distérmica
+T6	SINTOMA 1518 1528	desnutrido
+T7	SINTOMA 1530 1540	normotenso
+T8	SINTOMA 1543 1550	afebril
+T9	SINTOMA 1632 1679	abdomen y los miembros inferiores eran normales
+T10	SINTOMA 2047 2066	lenguaje disártrico
+T11	SINTOMA 2694 2720	consumo crónico de tóxicos
+T12	SINTOMA 2822 2872	elevación de leucocitos a costa de los neutrófilos
+T13	SINTOMA 3775 3817	hipoperfusión puntual en la región frontal
+T14	SINTOMA 3833 3891	defecto de perfusión puntual en la unión parieto-occipital
+T15	SINTOMA 4462 4511	alteración de la sustancia blanca periventricular
+T16	SINTOMA 4571 4603	hiperseñal de los globos pálidos
+T17	SINTOMA 5015 5054	hipoperfusión puntual parieto-occipital
+T18	SINTOMA 5133 5165	hiperseñal de los globos pálidos
+T19	SINTOMA 5679 5692	alucinaciones
+T20	PROCEDIMIENTO 258 278	resección intestinal
+T21	PROCEDIMIENTO 1418 1436	Exploración física
+T22	PROCEDIMIENTO 1442 1460	Exploración física
+T23	PROCEDIMIENTO 1555 1576	auscultación cardiaca
+T24	PROCEDIMIENTO 1602 1627	auscultación respiratoria
+T25	PROCEDIMIENTO 1718 1741	Exploración neurológica
+T26	PROCEDIMIENTO 2288 2313	exploración neurosomática
+T27	PROCEDIMIENTO 2370 2407	tests neuropsicológicos a pie de cama
+T28	PROCEDIMIENTO 3011 3035	determinación de tóxicos
+T29	PROCEDIMIENTO 3074 3082	opiáceos
+T30	PROCEDIMIENTO 3136 3156	radiografía de tórax
+T31	PROCEDIMIENTO 3159 3196	tomografía computarizada (TC) craneal
+T32	PROCEDIMIENTO 3268 3282	punción lumbar
+T33	PROCEDIMIENTO 3404 3426	estudio microbiológico
+T34	PROCEDIMIENTO 3733 3747	SPECT cerebral
+T35	PROCEDIMIENTO 3908 3928	electroencefalograma
+T36	PROCEDIMIENTO 3930 3933	EEG
+T37	PROCEDIMIENTO 4071 4104	resonancia magnética (RM) craneal
+T38	PROCEDIMIENTO 4400 4428	Resonancia magnética craneal
+T39	PROCEDIMIENTO 4513 4541	Resonancia magnética craneal
+T40	PROCEDIMIENTO 4961 4981	electroencefalograma
+T41	PROCEDIMIENTO 5006 5011	SPECT
+T42	PROCEDIMIENTO 5064 5082	resonancia craneal
+T43	PROCEDIMIENTO 5520 5535	benzodiacepinas
+T44	NEG 422 425	sin
+T45	NSCO 426 466	haber nunca consultado a un especialista
+T46	NEG 622 624	No
+T47	NSCO 625 691	tenía antecedentes familiares de enfermedades del sistema nervioso
+T48	NEG 1207 1210	sin
+T49	NSCO 1211 1233	responder a la llamada
+T50	NEG 1319 1321	No
+T51	NSCO 1322 1415	fiebre termometrada (el paciente refería sensación distérmica) ni otra sintomatología añadida
+T52	NEG 1543 1550	afebril
+T53	UNC 1681 1694	sin aparentes
+T54	USCO 1695 1716	signos de venopunción
+T55	NEG 1760 1768	falta de
+T56	NSCO 1769 1821	colaboración del paciente y componente farmacológico
+T57	NEG 1991 1993	no
+T58	NSCO 1994 2003	en tiempo
+T59	NEG 2068 2071	sin
+T60	NSCO 2072 2135	impresionar de otro trastorno del lenguaje o trastorno cortical
+T61	NEG 2314 2317	sin
+T62	NSCO 2318 2345	alteraciones significativas
+T63	UNC 2669 2677	probable
+T64	USCO 2678 2720	relación con el consumo crónico de tóxicos
+T65	NEG 2778 2780	no
+T66	NSCO 2781 2807	se observaron alteraciones
+T67	NEG 3197 3199	no
+T68	NSCO 3200 3248	llegaron a demostrar alteraciones significativas
+T69	NEG 3327 3329	no
+T70	NSCO 3330 3354	se observaron leucocitos
+T71	NEG 3427 3435	negativo
+T72	NEG 4016 4019	sin
+T73	NSCO 4020 4052	objetivarse actividad epiléptica
+T74	NEG 4145 4147	no
+T75	NSCO 4148 4177	acorde a la edad del paciente
+T76	NEG 4376 4379	sin
+T77	NSCO 4380 4398	otras alteraciones
+T78	NEG 5259 5261	No
+T79	NEG 5272 5286	se descartaron
+T80	NSCO 5287 5313	complicaciones metabólicas
+T81	UNC 5609 5616	posible
+T82	USCO 5617 5653	deprivación con tiamina y piridoxina
+T83	NEG 5659 5674	desaparición de
+T84	NSCO 5675 5692	las alucinaciones
+T85	FARMACO 536 544	metadona
+T86	FARMACO 1104 1111	cocaína
+T87	FARMACO 1823 1845	clorazepato dipotásico
+T88	FARMACO 1848 1859	haloperidol
+T89	FARMACO 4729 4736	cocaína
+T90	FARMACO 4738 4745	heroína
+T91	FARMACO 4748 4756	metadona
+T92	FARMACO 5520 5535	benzodiacepinas
+T93	FARMACO 5539 5561	clorazepato dipotásico
+T94	FARMACO 5633 5640	tiamina
+T95	FARMACO 5643 5653	piridoxina
+T96	ORG_VIVO 10 15	Varón
+T97	ORG_VIVO 310 320	personales
+T98	ORG_VIVO 454 466	especialista
+T99	ORG_VIVO 644 654	familiares
+T100	ORG_VIVO 696 704	paciente
+T101	ORG_VIVO 808 816	personas
+T102	ORG_VIVO 1002 1012	familiares
+T103	ORG_VIVO 1017 1025	paciente
+T104	ORG_VIVO 1346 1354	paciente
+T105	ORG_VIVO 1464 1472	paciente
+T106	ORG_VIVO 1786 1794	paciente
+T107	ORG_VIVO 1977 1984	persona
+T108	ORG_VIVO 3452 3460	paciente
+T109	ORG_VIVO 3578 3614	virus de la inmunodeficiencia humana
+T110	ORG_VIVO 3617 3641	virus de las hepatitis B
+T111	ORG_VIVO 3642 3645	y C
+T112	ORG_VIVO 3648 3655	sífilis
+T113	ORG_VIVO 4169 4177	paciente
+T114	ORG_VIVO 4680 4688	paciente
+T115	ORG_VIVO 4890 4898	paciente
+T116	ENFERMEDAD 162 180	fractura de cúbito
+T117	ENFERMEDAD 192 210	torsión testicular
+T118	ENFERMEDAD 212 247	herida de bala en la región humeral
+T119	ENFERMEDAD 658 691	enfermedades del sistema nervioso
+T120	ENFERMEDAD 823 843	trastorno conductual
+T121	ENFERMEDAD 2092 2114	trastorno del lenguaje
+T122	ENFERMEDAD 2117 2135	trastorno cortical
+T123	ENFERMEDAD 2694 2720	consumo crónico de tóxicos
+T124	ENFERMEDAD 3648 3655	sífilis
+T125	ENFERMEDAD 3994 4014	encefalopatía difusa
+T126	ENFERMEDAD 4620 4628	Psicosis
+T127	ENFERMEDAD 4650 4676	síndrome confusional agudo
+T128	ENFERMEDAD 4693 4727	abuso crónico de psicoestimulantes
+T129	ENFERMEDAD 4761 4820	Leucoencefalopatía asociada a inhalación crónica de heroína
+T130	ENFERMEDAD 5211 5226	abuso de drogas
+T131	SANITARIO-PROFESION 454 466	especialista

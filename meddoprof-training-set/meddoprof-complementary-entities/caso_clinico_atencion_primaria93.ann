@@ -1,0 +1,64 @@
+T1	SINTOMA 19 41	Dificultad para tragar
+T2	SINTOMA 214 223	exfumador
+T3	SINTOMA 324 329	ahogo
+T4	SINTOMA 332 360	opresión a nivel de garganta
+T5	SINTOMA 404 434	dificultad para tragar sólidos
+T6	SINTOMA 860 870	consciente
+T7	SINTOMA 872 881	orientado
+T8	SINTOMA 884 895	colaborador
+T9	SINTOMA 914 939	hemodinámicamente estable
+T10	SINTOMA 1181 1192	peritonismo
+T11	SINTOMA 1231 1237	edemas
+T12	PROCEDIMIENTO 577 595	Exploración física
+T13	PROCEDIMIENTO 944 976	auscultación Cardiorrespiratoria
+T14	PROCEDIMIENTO 1354 1372	Electrocardiograma
+T15	PROCEDIMIENTO 1497 1506	hemograma
+T16	PROCEDIMIENTO 1575 1602	Radiografía PA y L de Tórax
+T17	PROCEDIMIENTO 2429 2442	-Tac de Tórax
+T18	PROCEDIMIENTO 2909 2982	biopsias de las infiltraciones y de la carina del lóbulo superior derecho
+T19	NEG 365 367	no
+T20	NSCO 368 393	empeora con los esfuerzos
+T21	NEG 514 516	no
+T22	NSCO 517 535	mayor de dos horas
+T23	NEG 991 994	sin
+T24	NSCO 995 1001	soplos
+T25	NEG 1024 1027	sin
+T26	NSCO 1028 1065	alteraciones en el murmullo vesicular
+T27	NEG 1102 1104	no
+T28	NSCO 1105 1128	doloroso a la palpación
+T29	NEG 1130 1132	no
+T30	NSCO 1133 1192	existiendo masas ni megalias así como signos de peritonismo
+T31	NEG 1218 1220	no
+T32	NSCO 1221 1278	mostraban edemas ni signos de trombosis venosas profundas
+T33	NEG 1437 1440	sin
+T34	NSCO 1441 1481	alteraciones agudas de la repolarización
+T35	NEG 2870 2872	no
+T36	NSCO 2873 2882	se retira
+T37	ORG_VIVO 127 135	paciente
+T38	ORG_VIVO 165 170	varón
+T39	ORG_VIVO 198 206	personal
+T40	ORG_VIVO 462 470	paciente
+T41	ORG_VIVO 639 647	paciente
+T42	ORG_VIVO 837 845	paciente
+T43	ORG_VIVO 1680 1688	familiar
+T44	ORG_VIVO 1718 1732	paciente varón
+T45	ORG_VIVO 1835 1842	soltero
+T46	ORG_VIVO 1857 1862	padre
+T47	ORG_VIVO 1877 1885	familiar
+T48	ORG_VIVO 2365 2373	paciente
+T49	ORG_VIVO 3187 3195	paciente
+T50	ENFERMEDAD 1251 1278	trombosis venosas profundas
+T51	ENFERMEDAD 1946 1965	patología digestiva
+T52	ENFERMEDAD 2062 2082	Granuloma infeccioso
+T53	ENFERMEDAD 2084 2110	Neoplasia pulmonar benigna
+T54	ENFERMEDAD 2112 2121	hamartoma
+T55	ENFERMEDAD 2123 2129	lipoma
+T56	ENFERMEDAD 2132 2139	fibroma
+T57	ENFERMEDAD 2141 2167	Neoplasia pulmonar maligna
+T58	ENFERMEDAD 2180 2191	metastásica
+T59	ENFERMEDAD 2478 2503	adenopatías mediastínicas
+T60	ENFERMEDAD 2508 2545	metástasis a nivel del hilio hepático
+T61	ENFERMEDAD 2556 2604	metástasis óseas a nivel costa izquierda y sacra
+T62	ENFERMEDAD 2779 2827	obstrucción completa a nivel del Lóbulo Superior
+T63	ENFERMEDAD 3030 3058	Carcinoma Microcítico Hiliar
+T64	ENFERMEDAD 3070 3104	68x80x60 mm extendido a mediastino

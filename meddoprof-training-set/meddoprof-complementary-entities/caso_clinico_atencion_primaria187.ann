@@ -1,0 +1,105 @@
+T1	SINTOMA 50 94	opresión en epigastrio irradiado a mandíbula
+T2	SINTOMA 99 140	sensación de cuerpo extraño en la faringe
+T3	SINTOMA 775 819	opresión en epigastrio irradiado a mandíbula
+T4	SINTOMA 1555 1580	dolor de origen isquémico
+T5	PROCEDIMIENTO 502 518	artrodesis L5-S1
+T6	PROCEDIMIENTO 521 535	amigdalectomía
+T7	PROCEDIMIENTO 537 551	adenoidectomía
+T8	PROCEDIMIENTO 553 596	manguito de los rotadores, hernia umbilical
+T9	PROCEDIMIENTO 598 612	apendicectomía
+T10	PROCEDIMIENTO 625 654	extirpación de pólipo benigno
+T11	PROCEDIMIENTO 1053 1080	auscultación cardiopulmonar
+T12	PROCEDIMIENTO 1402 1420	Electrocardiograma
+T13	PROCEDIMIENTO 2412 2436	exploración macroscópica
+T14	PROCEDIMIENTO 2881 2894	dermatoscopia
+T15	PROCEDIMIENTO 3319 3378	extirpación con márgenes de 1cm, profundizando hasta fascia
+T16	PROCEDIMIENTO 3383 3402	estudio histológico
+T17	PROCEDIMIENTO 3848 3868	ecografía ganglionar
+T18	PROCEDIMIENTO 3953 3973	TAC toraco-abdominal
+T19	PROCEDIMIENTO 4192 4217	ecografía de ambas axilas
+T20	PROCEDIMIENTO 4341 4361	ecografía ganglionar
+T21	NEG 944 946	No
+T22	NSCO 947 982	refiere cortejo vegetativo asociado
+T23	UNC 1161 1168	no sabe
+T24	USCO 1169 1199	precisar desde cuando la tiene
+T25	NEG 1209 1211	no
+T26	NSCO 1212 1228	es de nacimiento
+T27	NEG 1235 1237	no
+T28	NSCO 1238 1280	le ha producido síntomas en ningún momento
+T29	UNC 1377 1391	impresionan de
+T30	USCO 1392 1400	lentigos
+T31	NEG 1453 1461	negativa
+T32	NSCO 1462 1468	en III
+T33	NEG 1470 1473	Sin
+T34	NSCO 1474 1489	otros hallazgos
+T35	UNC 1547 1554	posible
+T36	USCO 1555 1580	dolor de origen isquémico
+T37	NEG 1830 1832	no
+T38	NSCO 1833 1856	contributiva del marido
+T39	NEG 2066 2068	no
+T40	NSCO 2069 2080	pigmentadas
+T41	NEG 2133 2135	no
+T42	NSCO 2136 2165	melanocíticas y melanocíticas
+T43	UNC 3286 3297	sospecha de
+T44	USCO 3298 3306	melanoma
+T45	NEG 3474 3476	no
+T46	NSCO 3477 3485	ulcerado
+T47	NEG 3670 3681	ausencia de
+T48	NSCO 3682 3732	imágenes de invasión tumoral vascular y perineural
+T49	UNC 3880 3886	dudosa
+T50	USCO 3887 3929	en ganglios linfáticos axilares izquierdos
+T51	NEG 4030 4043	inespecíficos
+T52	NEG 4240 4243	sin
+T53	NSCO 4244 4253	hallazgos
+T54	NEG 4430 4442	asintomática
+T55	NEG 4482 4485	sin
+T56	NSCO 4486 4505	signos de recidivas
+T57	FARMACO 699 710	domperidona
+T58	FARMACO 712 723	esomeprazol
+T59	FARMACO 725 735	sucralfato
+T60	FARMACO 737 748	paracetamol
+T61	FARMACO 920 931	cafinitrina
+T62	ORG_VIVO 19 24	Mujer
+T63	ORG_VIVO 1152 1160	paciente
+T64	ORG_VIVO 1522 1530	paciente
+T65	ORG_VIVO 1591 1599	Familiar
+T66	ORG_VIVO 1617 1625	paciente
+T67	ORG_VIVO 1641 1647	marido
+T68	ORG_VIVO 1654 1658	hija
+T69	ORG_VIVO 1750 1761	ama de casa
+T70	ORG_VIVO 1767 1773	marido
+T71	ORG_VIVO 1807 1815	familiar
+T72	ORG_VIVO 1850 1856	marido
+T73	ORG_VIVO 2319 2327	paciente
+T74	ORG_VIVO 3045 3053	paciente
+T75	ORG_VIVO 3828 3836	paciente
+T76	ORG_VIVO 4270 4278	paciente
+T77	ENFERMEDAD 192 213	Alergias a penicilina
+T78	ENFERMEDAD 308 325	Pólipos colónicos
+T79	ENFERMEDAD 327 341	ulcus duodenal
+T80	ENFERMEDAD 350 363	hernia hiatal
+T81	ENFERMEDAD 365 375	esofagitis
+T82	ENFERMEDAD 377 394	gastritis erosiva
+T83	ENFERMEDAD 396 414	faringitis crónica
+T84	ENFERMEDAD 416 428	fibromialgia
+T85	ENFERMEDAD 430 447	trastorno bipolar
+T86	ENFERMEDAD 449 457	migrañas
+T87	ENFERMEDAD 487 500	hernia discal
+T88	ENFERMEDAD 580 596	hernia umbilical
+T89	ENFERMEDAD 614 623	cataratas
+T90	ENFERMEDAD 640 654	pólipo benigno
+T91	ENFERMEDAD 1097 1134	lesión pigmentada en región escapular
+T92	ENFERMEDAD 1308 1355	lesiones secundarias a daño solar en la espalda
+T93	ENFERMEDAD 1686 1701	paro prolongado
+T94	ENFERMEDAD 1954 1970	lesiones en piel
+T95	ENFERMEDAD 2256 2264	melanoma
+T96	ENFERMEDAD 3298 3306	melanoma
+T97	ENFERMEDAD 3439 3485	melanoma de extensión superficial, no ulcerado
+T98	ENFERMEDAD 3659 3668	neoplasia
+T99	ENFERMEDAD 4121 4145	nódulo en areola mamaria
+T100	ENFERMEDAD 4396 4404	melanoma
+T101	PACIENTE-SITUACION_LABORAL 1750 1761	ama de casa
+T102	FAMILIAR-SITUACION_LABORAL 1779 1787	jubilado
+T103	FAMILIAR-SITUACION_LABORAL 1822 1845	pensión no contributiva
+T104	FAMILIAR-SITUACION_LABORAL 1670 1690	en situación de paro
+T105	SANITARIO-PROFESION 2785 2796	dermatóloga

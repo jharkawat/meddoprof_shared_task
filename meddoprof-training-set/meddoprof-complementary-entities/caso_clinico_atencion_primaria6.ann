@@ -1,0 +1,122 @@
+T1	SINTOMA 28 56	desviación de comisura bucal
+T2	SINTOMA 463 468	babeo
+T3	SINTOMA 470 496	imposibilidad de articular
+T4	SINTOMA 507 535	desviación de comisura bucal
+T5	SINTOMA 694 701	afebril
+T6	SINTOMA 976 995	irritación meníngea
+T7	SINTOMA 2047 2082	dolor abdominal irradiado a espalda
+T8	SINTOMA 2084 2097	estreñimiento
+T9	SINTOMA 2122 2142	vómitos alimenticios
+T10	SINTOMA 2148 2154	fiebre
+T11	SINTOMA 2159 2166	disuria
+T12	SINTOMA 2260 2275	dolor abdominal
+T13	SINTOMA 3316 3322	afasia
+T14	SINTOMA 3432 3447	dolor abdominal
+T15	SINTOMA 4203 4216	palpitaciones
+T16	SINTOMA 4221 4236	dolor abdominal
+T17	PROCEDIMIENTO 94 103	anamnesis
+T18	PROCEDIMIENTO 1077 1080	ECG
+T19	PROCEDIMIENTO 1162 1171	Hemograma
+T20	PROCEDIMIENTO 1540 1565	TAC craneal sin contraste
+T21	PROCEDIMIENTO 1771 1774	TAC
+T22	PROCEDIMIENTO 1932 1967	ecodoppler de Troncos Supraaórticos
+T23	PROCEDIMIENTO 2291 2304	TAC abdominal
+T24	PROCEDIMIENTO 2435 2461	tratamiento anticoagulante
+T25	PROCEDIMIENTO 2692 2713	ecografía y Angio-TAC
+T26	PROCEDIMIENTO 2795 2810	anticoagulación
+T27	PROCEDIMIENTO 3656 3676	remplazo de hemiarco
+T28	PROCEDIMIENTO 3931 3946	anticoagulación
+T29	NEG 218 221	-No
+T30	NSCO 222 235	AF de interés
+T31	NSCO 236 253	-Hipofrecuentador
+T32	NEG 254 257	-No
+T33	NSCO 258 261	HTA
+T34	NEG 263 265	No
+T35	NSCO 266 268	DM
+T36	NSCO 269 280	-Dislipemia
+T37	NSCO 281 320	-Antecedentes de litiasis renal en 2013
+T38	NEG 355 358	-No
+T39	NSCO 359 367	alergias
+T40	NEG 470 486	imposibilidad de
+T41	NSCO 487 504	articular palabra
+T42	NEG 694 701	afebril
+T43	NEG 799 801	No
+T44	NSCO 802 834	cumple criterios de código ictus
+T45	UNC 912 923	sospecha de
+T46	USCO 924 927	AIT
+T47	NEG 973 975	No
+T48	NSCO 976 995	irritación meníngea
+T49	NEG 1010 1013	sin
+T50	NSCO 1014 1020	soplos
+T51	NEG 1026 1029	sin
+T52	NSCO 1030 1050	ruidos sobreañadidos
+T53	NEG 1105 1108	sin
+T54	NSCO 1109 1149	alteraciones agudas de la repolarización
+T55	NEG 1441 1443	no
+T56	NSCO 1444 1494	condensación ni pinzamiento de senos costofrénicos
+T57	NEG 1511 1514	sin
+T58	NSCO 1515 1538	infiltrado intersticial
+T59	NEG 1552 1555	sin
+T60	NSCO 1556 1565	contraste
+T61	NEG 1580 1582	No
+T62	NSCO 1583 1603	imágenes de sangrado
+T63	NEG 2144 2147	sin
+T64	NSCO 2148 2166	fiebre, ni disuria
+T65	NEG 2172 2174	No
+T66	NSCO 2175 2191	abdomen en tabla
+T67	UNC 2305 2316	sospecha de
+T68	USCO 2317 2338	infarto renal derecho
+T69	NEG 4148 4150	no
+T70	NSCO 4151 4216	presenta más síntomas de insuficiencia cardíaca, ni palpitaciones
+T71	FARMACO 410 422	simvastatina
+T72	FARMACO 1878 1881	AAS
+T73	FARMACO 1890 1899	Omeprazol
+T74	FARMACO 2815 2823	apixabán
+T75	FARMACO 3743 3753	amiodarona
+T76	FARMACO 3815 3825	Amiodarona
+T77	FARMACO 3834 3844	bisoprolol
+T78	FARMACO 3851 3866	espironolactona
+T79	FARMACO 3874 3881	potasio
+T80	FARMACO 3890 3903	atorvastatina
+T81	FARMACO 3951 3959	apixabán
+T82	ORG_VIVO 168 173	varón
+T83	ORG_VIVO 620 624	hijo
+T84	ORG_VIVO 1991 1999	paciente
+T85	ORG_VIVO 2571 2598	médico de Atención Primaria
+T86	ORG_VIVO 2626 2643	médico de Familia
+T87	ORG_VIVO 2834 2842	familiar
+T88	ORG_VIVO 2867 2872	hijos
+T89	ORG_VIVO 2937 2944	Familia
+T90	ORG_VIVO 2983 2991	familiar
+T91	ORG_VIVO 3576 3584	paciente
+T92	ORG_VIVO 4067 4075	paciente
+T93	ORG_VIVO 4081 4088	cónyuge
+T94	ORG_VIVO 4104 4113	cuidadora
+T95	ORG_VIVO 4139 4147	paciente
+T96	ENFERMEDAD 258 261	HTA
+T97	ENFERMEDAD 266 268	DM
+T98	ENFERMEDAD 269 280	-Dislipemia
+T99	ENFERMEDAD 281 294	-Antecedentes
+T100	ENFERMEDAD 298 312	litiasis renal
+T101	ENFERMEDAD 327 353	hemorroides de fisura anal
+T102	ENFERMEDAD 771 792	Fibrilación auricular
+T103	ENFERMEDAD 829 834	ictus
+T104	ENFERMEDAD 924 927	AIT
+T105	ENFERMEDAD 1832 1863	Accidente isquémico transitorio
+T106	ENFERMEDAD 2317 2330	infarto renal
+T107	ENFERMEDAD 2728 2781	dilatación aneurismática de aorta torácica ascendente
+T108	ENFERMEDAD 3129 3162	fibrilación auricular paroxística
+T109	ENFERMEDAD 3164 3195	Accidente isquémico transitorio
+T110	ENFERMEDAD 3197 3210	Infarto renal
+T111	ENFERMEDAD 3220 3273	Aneurisma aorta ascendente causante de cardioembolias
+T112	ENFERMEDAD 3355 3380	Accidente cerebrovascular
+T113	ENFERMEDAD 3449 3469	isquemia mesentérica
+T114	ENFERMEDAD 3471 3488	colitis isquémica
+T115	ENFERMEDAD 3490 3506	Infarto arterial
+T116	ENFERMEDAD 3508 3529	gastroenteritis aguda
+T117	ENFERMEDAD 3531 3544	cólico biliar
+T118	ENFERMEDAD 4176 4198	insuficiencia cardíaca
+T119	SANITARIO-PROFESION 1722 1731	Neurólogo
+T120	FAMILIAR-SITUACION_LABORAL 4104 4113	cuidadora
+T121	SANITARIO-PROFESION 2571 2598	médico de Atención Primaria
+T122	SANITARIO-PROFESION 2626 2643	médico de Familia

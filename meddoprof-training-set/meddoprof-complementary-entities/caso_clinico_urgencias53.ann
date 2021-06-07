@@ -1,0 +1,78 @@
+T1	SINTOMA 129 136	náuseas
+T2	SINTOMA 141 148	vómitos
+T3	SINTOMA 151 158	astenia
+T4	SINTOMA 169 197	pérdida de unos 8 kg de peso
+T5	SINTOMA 464 473	ictericia
+T6	SINTOMA 516 550	dolor a la palpación de epigastrio
+T7	SINTOMA 581 602	irritación peritoneal
+T8	SINTOMA 817 831	microhematuria
+T9	SINTOMA 1065 1069	hipo
+T10	SINTOMA 1315 1326	proteinuria
+T11	SINTOMA 1379 1399	hipertransaminasemia
+T12	SINTOMA 1402 1421	hiperbilirrubinemia
+T13	SINTOMA 1734 1742	febriles
+T14	SINTOMA 1807 1811	hipo
+T15	SINTOMA 1985 2000	dolor abdominal
+T16	SINTOMA 2005 2043	dolor selectivo en hipocondrio derecho
+T17	SINTOMA 2089 2109	hepatoesplenomegalia
+T18	SINTOMA 2421 2430	distermia
+T19	PROCEDIMIENTO 424 442	Exploración física
+T20	PROCEDIMIENTO 527 550	palpación de epigastrio
+T21	PROCEDIMIENTO 629 632	ECG
+T22	PROCEDIMIENTO 634 655	Rx de tórax y abdomen
+T23	PROCEDIMIENTO 963 990	serología para Paul Bunnell
+T24	PROCEDIMIENTO 2058 2071	ECO abdominal
+T25	PROCEDIMIENTO 2262 2285	aspirado de médula ósea
+T26	NEG 137 140	sin
+T27	NSCO 141 148	vómitos
+T28	NEG 341 343	No
+T29	NSCO 344 388	ha tenido malaria ni ha tomado nunca quinina
+T30	NEG 461 463	No
+T31	NSCO 464 473	ictericia
+T32	NEG 552 555	sin
+T33	NSCO 556 602	irradiación ni signos de irritación peritoneal
+T34	NEG 656 659	sin
+T35	NSCO 660 669	hallazgos
+T36	NEG 1111 1114	sin
+T37	NSCO 1115 1122	mejoría
+T38	NEG 1199 1207	negativo
+T39	UNC 1263 1277	compatible con
+T40	USCO 1278 1314	anemia hemolítica con microhematuria
+T41	NEG 1919 1922	sin
+T42	NSCO 1923 1974	esquistocitos en frotis ni otros datos de hemólisis
+T43	FARMACO 269 278	enalapril
+T44	FARMACO 381 388	quinina
+T45	FARMACO 875 884	omeprazol
+T46	FARMACO 893 907	metoclopramida
+T47	FARMACO 1094 1107	clorpromazina
+T48	FARMACO 2232 2256	anfotericina B liposomal
+T49	ORG_VIVO 0 8	Paciente
+T50	ORG_VIVO 240 248	personal
+T51	ORG_VIVO 1046 1054	paciente
+T52	ORG_VIVO 1608 1611	CMV
+T53	ORG_VIVO 1613 1616	VIH
+T54	ORG_VIVO 1629 1639	Leishmania
+T55	ORG_VIVO 1651 1658	sífilis
+T56	ORG_VIVO 1787 1795	paciente
+T57	ORG_VIVO 1816 1826	hematólogo
+T58	ORG_VIVO 2181 2191	Leishmania
+T59	ENFERMEDAD 97 113	hipo incoercible
+T60	ENFERMEDAD 250 253	HTA
+T61	ENFERMEDAD 817 831	microhematuria
+T62	ENFERMEDAD 1065 1069	hipo
+T63	ENFERMEDAD 1278 1295	anemia hemolítica
+T64	ENFERMEDAD 1300 1326	microhematuria-proteinuria
+T65	ENFERMEDAD 1329 1345	trombopenia leve
+T66	ENFERMEDAD 1359 1376	síndrome de Evans
+T67	ENFERMEDAD 1379 1399	hipertransaminasemia
+T68	ENFERMEDAD 1402 1421	hiperbilirrubinemia
+T69	ENFERMEDAD 1452 1467	hipo resistente
+T70	ENFERMEDAD 1589 1606	anemia hemolítica
+T71	ENFERMEDAD 1651 1658	sífilis
+T72	ENFERMEDAD 1807 1811	hipo
+T73	ENFERMEDAD 1965 1974	hemólisis
+T74	ENFERMEDAD 2089 2109	hepatoesplenomegalia
+T75	ENFERMEDAD 2114 2131	quistes hepáticos
+T76	ENFERMEDAD 2375 2397	Leishmaniasis visceral
+T77	ENFERMEDAD 2400 2404	hipo
+T78	PACIENTE-PROFESION 390 422	Trabaja en la limpieza del metro

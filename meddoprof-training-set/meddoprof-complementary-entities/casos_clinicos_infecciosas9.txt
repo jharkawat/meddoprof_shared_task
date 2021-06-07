@@ -1,0 +1,44 @@
+Varón natural de Rumanía de 17 años de edad sin antecedentes ni tratamiento habitual que residía en España desde hacía 1 año con su familia, la cual se encontraba sana. No refería ningún hábito tóxico. Consulta en Urgencias por cuadro de 7 días de evolución de cefalea continua frontal que se irradiaba a región occipital y que en las últimas 48 horas se había acompañado fiebre de hasta 39o y varios episodios de vómitos en escopetazo. No presentaba otra clínica en el resto de la anamnesis por órganos y aparatos. Se encontraba en tratamiento con amoxicilina e ibuprofeno prescrito por parte de su médico de Atención Primaria con escasa respuesta a éste.
+
+A la exploración física presentaba buen estado general, si bien estaba febril a 38,8o, estable hemodinámicamente y desde el punto de vista ventilatorio, con una puntuación en la escala de coma de Glasgow de 15 y sin focalidad neurológica salvo una moderada rigidez nucal.
+
+En el hemograma destacaba una leucocitosis de 15.600 por mm3 con un 86% de neutrófilos y una proteína C reactiva de 26,5 mg/dl; el resto del hemograma, bioquímica y coagulación estaba en rango de normalidad. Así mismo la radiografía de tórax no mostraba ninguna condensación, adenopatías hiliares ni signos de derrame pleural. Se procedió a realizar una punción lumbar, previo fondo de ojo que descartó la presencia de papilitis, obteniéndose un líquido cefalorraquídeo (LCR) transparente con ligero aumento de presión de salida. La tinción de Gram del LCR fue negativa con una bioquímica que presentaba 21 leucocitos (83% linfocitos), glucorraquia de 54 mg/dl, proteínorraquia de 90 mg/dl y una adenosín deaminasa de 15 U/l. El paciente ingresó en la Unidad de Enfermedades Infecciosas con el diagnóstico sindrómico de meningitis linfocitaria de posible etiología tuberculosa con cobertura antibiótica (ceftriaxona y vancomicina) y aciclovir a la espera de los resultados del estudio etiológico (hibridación de DNA por reacción en cadena de la polimerasa-PCR- y cultivos de LCR, serologías y hemocultivos).
+
+Diagnóstico diferencial
+Con el diagnóstico sindrómico de meningitis linfocitaria se planteó el diagnóstico diferencial entre:
+
+Meningitis bacteriana:
+• Meningitis parcialmente tratada.
+• Meningitis por Listeria monocytogenes.
+• Meningitis por espiroquetas (Treponema spp. Borrelia spp.).
+• Endocarditis infecciosa bacteriana.
+• Cuadros supurativos por focos parameníngeos.
+• Meningitis por microorganismos intracelulares (Rickettsias spp., Coxiella burnetti).
+
+Meningitis vírica:
+• Meningitis por enterovirus.
+• Meningitis por herpesvirus.
+• Meningitis por virus de la inmunodeficiencia humana (VIH).
+• Meningitis por adenovirus.
+• Meningitis por virus de la coriomeningitis linfocitaria.
+• Meningitis por influenzavirus.
+• Meningitis por parotiditis.
+• Meningitis por arbovirus. Meningitis tuberculosa. Meningitis fúngica.
+
+Meningitis no infecciosa:
+• Meningitis neoplásica.
+• Neurosarcoidosis.
+• Meningitis química (antiinflamatorios no esteroideos, cotrimoxazol...).
+
+Evolución
+La PCR en LCR para enterovirus, herpesvirus, parotiditis, virus Toscana y Mycobacterium tuberculosis fueron negativas, así como el test de reagina en LCR, serologías de VIH, Borrelia, Treponema pallidum, Rickettsias spp y Coxiella burnetti. Clínicamente el paciente persistía febril a las 72 horas, y la cefalea y vómitos habían empeorado, por lo que se solicitó una tomografía computarizada (TC) craneal urgente. En la TC se objetivaba una colección líquida a nivel bifrontal que se extendía por la práctica totalidad de la superficie de ambos lóbulos con moderado efecto masa y signos de cerebritis, con captación patológica de la duramadre. 
+TC de cráneo (corte axial y reconstrucción sagital): se observa colección hipodensa que corresponde al empiema epidural con captación de contraste de la duramadre.
+Además se apreciaba una lisis de la pared posterior del seno frontal izquierdo que se confirmó mediante reconstrucción tridimensional ósea como probable origen parameníngeo de la colección. 
+TC de cráneo (corte axial en ventana de hueso y reconstrucción tridimensional ósea): se aprecia solución de continuidad de la pared posterior del seno frontal izquierdo.
+Con el diagnóstico radiológico de empiema epidural se contactó con el servicio de Neurocirugía que decidió intervención urgente del paciente previa resonancia magnética (RM) craneal para completar el estudio. En ésta se confirmó la afectación epidural además de un componente subdural y parietal del empiema de hasta 16 mm. 
+RM de cráneo (corte sagital en T1 y axial en T2 previa a la craneotomía): se observa componente subdural del empiema y afectación parietal del mismo.
+Junto a pansinusitis de ambos senos maxilares, frontales y etmoidal izquierdo. En la secuencia de difusión de agua había restricción de ésta, lo que apoyaba fuertemente el origen purulento de la colección. Se realizó una craneotomía bifrontal y un trépano parietal derecho con evacuación del contenido purulento y cranealización del seno frontal junto a un colgajo de gálea para sellar la fístula que presentaba. Los hallazgos intraoperatorios fueron de un plastrón epidural con una duramadre engrosada y amarillenta. Concurrentemente Los hemocultivos y cultivo de LCR, incluidos los de larga incubación para micobacterias y hongos, fueron negativos, por el contrario en la muestra intraoperatoria crecieron Streptococcus constellatus y Prevotella oris, esta última resistente a penicilina G.
+Se optó por una cobertura antibiótica endovenosa consistente en cefotaxima 2 gramos cada 4 horas y metronidazol 500 miligramos cada 6 horas que se prolongó durante 6 semanas. La evolución del paciente fue muy favorable, permaneciendo afebril en todo momento y sin presentar clínica neurológica de ningún tipo, a pesar de que en la RM de control persistía cierto componente del empiema de 5 mm (RM de cráneo corte sagital en T1 y axial en T2 de RM posterior a la craneotomía, se aprecia evacuación prácticamente completa del empiema con pequeño componente residual de unos 5 mm) que se decidió no evacuar, así como tampoco el resto de senos paranasales. En revisiones posteriores se confirmó la total resolución del empiema y de la pansinusitis encontrándose asintomático y sin recurrencias del proceso en el momento actual.
+
+Diagnóstico final
+El diagnóstico final fue de empiema epidural y subdural polimicrobiano secundario a sinusitis con fístula de pared posterior del seno frontal izquierdo.

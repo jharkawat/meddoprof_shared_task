@@ -1,0 +1,55 @@
+T1	SINTOMA 495 500	dolor
+T2	SINTOMA 502 546	edema y eritema en ambos miembros inferiores
+T3	SINTOMA 605 635	alteraciones sensitivo-motoras
+T4	SINTOMA 724 730	disnea
+T5	SINTOMA 732 746	dolor torácico
+T6	SINTOMA 748 751	tos
+T7	SINTOMA 753 766	expectoración
+T8	SINTOMA 1007 1014	eritema
+T9	SINTOMA 1017 1058	aumento de la temperatura local bilateral
+T10	PROCEDIMIENTO 277 304	Tratamiento antirretroviral
+T11	PROCEDIMIENTO 788 797	anamnesis
+T12	PROCEDIMIENTO 1125 1134	-Rx tórax
+T13	NEG 576 578	no
+T14	NSCO 579 591	termometrada
+T15	NEG 593 604	Ausencia de
+T16	NSCO 605 635	alteraciones sensitivo-motoras
+T17	NEG 637 639	No
+T18	NSCO 640 684	ha presentado traumatismo local ni picaduras
+T19	NEG 686 691	Niega
+T20	NSCO 692 710	consumo de tóxicos
+T21	NEG 712 723	Ausencia de
+T22	NSCO 724 746	disnea, dolor torácico
+T23	NEG 911 914	sin
+T24	NSCO 915 941	hallazgos de significación
+T25	NEG 1060 1062	No
+T26	NSCO 1063 1098	heridas o puerta de entrada visible
+T27	NEG 1223 1225	No
+T28	NSCO 1226 1250	se observa signos de TVP
+T29	NEG 1283 1285	no
+T30	NSCO 1286 1353	se observa trombosis ni causa compresiva retroperitoneal ni pélvica
+T31	UNC 1424 1431	sugiere
+T32	USCO 1432 1466	fístula arteriovenosa a este nivel
+T33	NEG 1634 1645	inexistente
+T34	NSCO 1646 1671	actividad en vía profunda
+T35	NEG 1673 1676	sin
+T36	NSCO 1677 1712	visualización de ganglios poplíteos
+T37	UNC 1724 1739	compatibles con
+T38	USCO 1740 1803	obstrucción o dificultad grave en el drenaje linfático profundo
+T39	FARMACO 309 323	emtricitabina/
+T40	FARMACO 324 359	tenofovir alafenamida/ elvitegravir
+T41	ORG_VIVO 0 8	Paciente
+T42	ORG_VIVO 289 304	antirretroviral
+T43	ORG_VIVO 378 383	viral
+T44	ORG_VIVO 384 389	VIH-1
+T45	ORG_VIVO 435 442	árboles
+T46	ENFERMEDAD 35 61	celulitis miembro inferior
+T47	ENFERMEDAD 73 89	Infección VIH C3
+T48	ENFERMEDAD 116 142	infección por P. jirovecci
+T49	ENFERMEDAD 161 178	Sarcoma de Kaposi
+T50	ENFERMEDAD 238 276	celulitis de ambos miembros inferiores
+T51	ENFERMEDAD 1247 1250	TVP
+T52	ENFERMEDAD 1297 1306	trombosis
+T53	ENFERMEDAD 1432 1453	fístula arteriovenosa
+T54	ENFERMEDAD 1740 1803	obstrucción o dificultad grave en el drenaje linfático profundo
+T55	PACIENTE-PROFESION 416 442	Trabaja en poda de árboles

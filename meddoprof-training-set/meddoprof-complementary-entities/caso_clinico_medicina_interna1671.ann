@@ -1,0 +1,135 @@
+T1	SINTOMA 67 74	vómitos
+T2	SINTOMA 77 84	cefalea
+T3	SINTOMA 127 134	vómitos
+T4	SINTOMA 237 249	asintomático
+T5	SINTOMA 300 307	vómitos
+T6	SINTOMA 377 384	cefalea
+T7	SINTOMA 470 476	fiebre
+T8	SINTOMA 1530 1537	Afebril
+T9	SINTOMA 1720 1747	Abdomen blando y depresible
+T10	SINTOMA 1762 1776	organomegalias
+T11	SINTOMA 1790 1811	irritación peritoneal
+T12	SINTOMA 2034 2062	aumento de temperatura local
+T13	SINTOMA 2068 2073	edema
+T14	SINTOMA 2599 2606	cefalea
+T15	SINTOMA 2624 2639	rigidez de nuca
+T16	SINTOMA 2692 2707	edema de papila
+T17	SINTOMA 2952 2959	vómitos
+T18	SINTOMA 2991 2998	cefalea
+T19	SINTOMA 3016 3027	bradicardia
+T20	SINTOMA 3221 3227	ataxia
+T21	SINTOMA 3230 3241	hemiparesia
+T22	SINTOMA 3448 3457	irritable
+T23	SINTOMA 3496 3507	bradicardia
+T24	SINTOMA 3593 3617	mioclonías de hemicuerpo
+T25	SINTOMA 3697 3706	postictal
+T26	SINTOMA 4730 4758	asimetrías interhemisféricas
+T27	SINTOMA 4781 4793	paroxísticas
+T28	PROCEDIMIENTO 167 211	administración intravenosa de un antiemético
+T29	PROCEDIMIENTO 682 695	Parto vaginal
+T30	PROCEDIMIENTO 1339 1357	exploración física
+T31	PROCEDIMIENTO 1590 1613	nutrición e hidratación
+T32	PROCEDIMIENTO 1684 1711	Auscultación cardiopulmonar
+T33	PROCEDIMIENTO 1813 1836	Exploración neurológica
+T34	PROCEDIMIENTO 2330 2347	Gasometría venosa
+T35	PROCEDIMIENTO 2445 2471	antibioterapia intravenosa
+T36	PROCEDIMIENTO 2652 2664	fondo de ojo
+T37	PROCEDIMIENTO 2727 2741	punción lumbar
+T38	PROCEDIMIENTO 3076 3086	TC craneal
+T39	PROCEDIMIENTO 3884 3896	RMN cerebral
+T40	PROCEDIMIENTO 4207 4229	estudio de trombofilia
+T41	PROCEDIMIENTO 4235 4256	anticoagulante lúpico
+T42	PROCEDIMIENTO 4529 4552	tratamiento antibiótico
+T43	PROCEDIMIENTO 4558 4573	cultivos de LCR
+T44	PROCEDIMIENTO 4596 4616	electroencefalograma
+T45	PROCEDIMIENTO 4618 4621	EEG
+T46	PROCEDIMIENTO 4994 5014	tratamiento con HBPM
+T47	PROCEDIMIENTO 5054 5057	EEG
+T48	PROCEDIMIENTO 5092 5104	RMN cerebral
+T49	NEG 237 249	asintomático
+T50	NEG 336 338	no
+T51	NSCO 339 366	relacionados con la ingesta
+T52	NEG 438 440	no
+T53	NSCO 441 454	le despertaba
+T54	NEG 499 502	sin
+T55	NSCO 503 566	otra sintomatología acompañante ni ambiente epidémico familiar
+T56	NEG 665 668	sin
+T57	NSCO 669 680	incidencias
+T58	NEG 719 722	sin
+T59	NSCO 723 752	precisar reanimación neonatal
+T60	NEG 1023 1026	sin
+T61	NSCO 1027 1057	incluir vacuna antineumocócica
+T62	NEG 1120 1123	sin
+T63	NSCO 1124 1161	otros antecedentes médicos de interés
+T64	NEG 1530 1537	Afebril
+T65	NEG 1749 1752	sin
+T66	NSCO 1753 1811	masas ni organomegalias ni signos de irritación peritoneal
+T67	NEG 1859 1862	sin
+T68	NSCO 1863 1879	signos meníngeos
+T69	NEG 2064 2067	sin
+T70	NSCO 2068 2082	edema asociado
+T71	NEG 2242 2250	negativa
+T72	UNC 2554 2566	sugestiva de
+T73	USCO 2567 2576	celulitis
+T74	NEG 2676 2678	no
+T75	NSCO 2679 2707	se evidencia edema de papila
+T76	NEG 2846 2855	negativos
+T77	NEG 3097 3099	no
+T78	NSCO 3100 3159	se observan signos sugestivos de lesión ocupante de espacio
+T79	NEG 3665 3670	ceden
+T80	NSCO 3671 3686	espontáneamente
+T81	NEG 3802 3807	ceden
+T82	NSCO 3808 3832	con Diazepam intravenoso
+T83	NEG 4340 4344	cede
+T84	NSCO 4345 4379	tras administrar bolos de Diazepam
+T85	NEG 4482 4491	se retira
+T86	NSCO 4492 4514	perfusión de Midazolam
+T87	NEG 4517 4528	se suspende
+T88	NSCO 4529 4573	tratamiento antibiótico tras cultivos de LCR
+T89	NEG 4574 4583	negativos
+T90	NEG 4726 4729	sin
+T91	NSCO 4730 4793	asimetrías interhemisféricas, anomalías focales ni paroxísticas
+T92	NEG 4981 4993	Se suspendió
+T93	NSCO 4994 5005	tratamiento
+T94	NEG 5233 5236	sin
+T95	NSCO 5237 5270	presentar signos de empeoramiento
+T96	FARMACO 2485 2508	Amoxicilina-clavulánico
+T97	FARMACO 3329 3339	Cefotaxima
+T98	FARMACO 3342 3351	Aciclovir
+T99	FARMACO 3812 3820	Diazepam
+T100	FARMACO 3858 3871	Levetiracetam
+T101	FARMACO 4154 4185	heparina de bajo peso molecular
+T102	FARMACO 4187 4191	HBPM
+T103	FARMACO 4371 4379	Diazepam
+T104	FARMACO 4382 4391	Fenitoína
+T105	FARMACO 4416 4425	Midazolam
+T106	FARMACO 4505 4514	Midazolam
+T107	FARMACO 5010 5014	HBPM
+T108	ORG_VIVO 558 566	familiar
+T109	ORG_VIVO 586 596	personales
+T110	ORG_VIVO 744 752	neonatal
+T111	ORG_VIVO 830 838	neonatal
+T112	ORG_VIVO 1006 1013	vacunal
+T113	ORG_VIVO 1035 1041	vacuna
+T114	ORG_VIVO 1042 1057	antineumocócica
+T115	ORG_VIVO 1195 1205	familiares
+T116	ORG_VIVO 1207 1213	padres
+T117	ORG_VIVO 1220 1228	hermanos
+T118	ORG_VIVO 2109 2117	paciente
+T119	ORG_VIVO 2830 2835	virus
+T120	ORG_VIVO 4798 4806	paciente
+T121	ENFERMEDAD 1102 1118	síndrome emético
+T122	ENFERMEDAD 1887 1945	lesión costrosa en región media tibial de miembro inferior
+T123	ENFERMEDAD 2529 2553	lesión cutánea en pierna
+T124	ENFERMEDAD 2567 2576	celulitis
+T125	ENFERMEDAD 3210 3219	amaurosis
+T126	ENFERMEDAD 3221 3227	ataxia
+T127	ENFERMEDAD 3230 3251	hemiparesia izquierda
+T128	ENFERMEDAD 3558 3576	crisis convulsivas
+T129	ENFERMEDAD 3776 3797	episodios convulsivos
+T130	ENFERMEDAD 3927 4080	trombosis masiva de senos venosos cerebrales (seno longitudinal superior, transverso derecho, sigmoideo derecho y región proximal de vena yugular interna
+T131	ENFERMEDAD 4094 4115	infartos hemorrágicos
+T132	ENFERMEDAD 4218 4229	trombofilia
+T133	ENFERMEDAD 4317 4335	estatus convulsivo
+T134	ENFERMEDAD 4970 4979	Trombosis
+T135	PACIENTE-SITUACION_LABORAL 0 7	Escolar

@@ -1,0 +1,90 @@
+T1	SINTOMA 125 152	picadura de insecto en mano
+T2	SINTOMA 237 268	picadura en el dorso de la mano
+T3	SINTOMA 473 478	dolor
+T4	SINTOMA 480 515	edema y eritema de mano y antebrazo
+T5	SINTOMA 528 567	dificultad para la flexión de los dedos
+T6	SINTOMA 583 588	dolor
+T7	SINTOMA 619 650	exantema centrífugo pruriginoso
+T8	SINTOMA 652 681	afectación del estado general
+T9	SINTOMA 684 708	artralgias generalizadas
+T10	SINTOMA 714 720	fiebre
+T11	SINTOMA 726 746	clínica respiratoria
+T12	SINTOMA 1052 1059	afebril
+T13	SINTOMA 1061 1069	eupneica
+T14	SINTOMA 1249 1262	eritema tenue
+T15	SINTOMA 1272 1301	edema en la zona perilesional
+T16	SINTOMA 1307 1335	aumento de temperatura local
+T17	SINTOMA 1358 1407	reducción de la movilidad de los dedos de la mano
+T18	SINTOMA 1423 1428	dolor
+T19	SINTOMA 1493 1514	tumefacción articular
+T20	SINTOMA 1519 1541	crepitación subcutánea
+T21	SINTOMA 1561 1659	exantema macular generalizado con afectación de cara, tronco, extremidades y palmas de ambas manos
+T22	SINTOMA 1665 1674	petequias
+T23	SINTOMA 1678 1687	equímosis
+T24	SINTOMA 2084 2094	linfopenia
+T25	PROCEDIMIENTO 867 878	analgésicos
+T26	PROCEDIMIENTO 881 904	antihistamínicos orales
+T27	PROCEDIMIENTO 994 1012	Exploración física
+T28	PROCEDIMIENTO 1018 1036	exploración física
+T29	PROCEDIMIENTO 1853 1862	hemograma
+T30	PROCEDIMIENTO 1876 1897	coagulación sanguínea
+T31	PROCEDIMIENTO 1935 1965	radiografía de la mano derecha
+T32	PROCEDIMIENTO 2001 2010	hemograma
+T33	PROCEDIMIENTO 2183 2207	hemostasia y coagulación
+T34	PROCEDIMIENTO 2326 2343	serologías de VIH
+T35	PROCEDIMIENTO 2428 2455	radiografía de mano derecha
+T36	PROCEDIMIENTO 2728 2739	analgésicos
+T37	PROCEDIMIENTO 2742 2758	antihistamínicos
+T38	PROCEDIMIENTO 2854 2864	corticoide
+T39	PROCEDIMIENTO 2867 2878	antibiótico
+T40	NEG 28 31	sin
+T41	NSCO 32 80	antecedentes personales ni familiares de interés
+T42	NEG 710 713	sin
+T43	NSCO 714 720	fiebre
+T44	NEG 722 725	sin
+T45	NSCO 726 769	clínica respiratoria, ni digestiva asociada
+T46	NEG 1052 1059	afebril
+T47	NEG 1303 1306	sin
+T48	NSCO 1307 1335	aumento de temperatura local
+T49	NEG 1430 1433	sin
+T50	NSCO 1434 1477	pérdida de fuerza ni sensibilidad asociadas
+T51	NEG 1479 1481	No
+T52	NSCO 1482 1541	presentaba tumefacción articular, ni crepitación subcutánea
+T53	NEG 1661 1664	sin
+T54	NSCO 1665 1687	petequias ni equímosis
+T55	NEG 1689 1691	No
+T56	NSCO 1692 1734	había afectación de mucosa oral ni genital
+T57	NEG 1737 1739	no
+T58	NSCO 1740 1798	se palpaban adenopatías en cadenas ganglionares accesibles
+T59	NEG 2096 2099	sin
+T60	NSCO 2100 2146	alteraciones en el recuento de los eosinófilos
+T61	NEG 2208 2211	sin
+T62	NSCO 2212 2224	alteraciones
+T63	NEG 2411 2420	negativas
+T64	NEG 2456 2458	no
+T65	NSCO 2459 2542	se objetivaron lesiones ocupantes de espacio ni datos radiológicos de osteomielitis
+T66	UNC 2579 2592	probablemente
+T67	USCO 2593 2650	por araña reclusa parda con síntomas sistémicos asociados
+T68	NEG 3203 3206	sin
+T69	NSCO 3207 3241	alteraciones analíticas reseñables
+T70	FARMACO 837 854	metilprednisolona
+T71	FARMACO 2711 2721	prednisona
+T72	ORG_VIVO 10 15	Mujer
+T73	ORG_VIVO 45 55	personales
+T74	ORG_VIVO 59 69	familiares
+T75	ORG_VIVO 137 144	insecto
+T76	ORG_VIVO 313 320	insecto
+T77	ORG_VIVO 368 373	araña
+T78	ORG_VIVO 774 801	médico de atención primaria
+T79	ORG_VIVO 2340 2343	VIH
+T80	ORG_VIVO 2345 2352	sífilis
+T81	ORG_VIVO 2354 2374	Borrellia burgdoferi
+T82	ORG_VIVO 2376 2386	Rickettsia
+T83	ORG_VIVO 2389 2399	Leishmania
+T84	ORG_VIVO 2569 2577	arácnido
+T85	ORG_VIVO 2597 2602	araña
+T86	ENFERMEDAD 125 152	picadura de insecto en mano
+T87	ENFERMEDAD 237 268	picadura en el dorso de la mano
+T88	ENFERMEDAD 1752 1787	adenopatías en cadenas ganglionares
+T89	ENFERMEDAD 2529 2542	osteomielitis
+T90	SANITARIO-PROFESION 774 801	médico de atención primaria

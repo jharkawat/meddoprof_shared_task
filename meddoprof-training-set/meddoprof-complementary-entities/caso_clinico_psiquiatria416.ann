@@ -1,0 +1,158 @@
+T1	SINTOMA 1213 1230	risas inmotivadas
+T2	SINTOMA 4414 4423	orientado
+T3	SINTOMA 4790 4796	Alogia
+T4	SINTOMA 4933 4955	vigilia-sueño alterado
+T5	SINTOMA 6943 6951	delirios
+T6	SINTOMA 6970 6993	lenguaje desorganizados
+T7	SINTOMA 6995 7013	síntomas negativos
+T8	SINTOMA 7534 7543	sialorrea
+T9	PROCEDIMIENTO 154 162	opiáceos
+T10	PROCEDIMIENTO 5178 5205	análisis elemental de orina
+T11	PROCEDIMIENTO 5461 5490	Resonancia magnética cerebral
+T12	PROCEDIMIENTO 6153 6177	exploración psicométrica
+T13	PROCEDIMIENTO 6822 6839	prueba de tóxicos
+T14	PROCEDIMIENTO 7950 7976	rehabilitación psicosocial
+T15	NEG 441 443	no
+T16	NSCO 444 456	era adecuado
+T17	UNC 759 766	posible
+T18	USCO 767 786	trastorno psicótico
+T19	NEG 852 855	Sin
+T20	NSCO 856 873	actividad laboral
+T21	NEG 1410 1413	sin
+T22	NSCO 1414 1420	amigos
+T23	NEG 1428 1430	no
+T24	NSCO 1431 1456	le apetece salir de casa"
+T25	NEG 1718 1720	no
+T26	NSCO 1721 1735	llega a acudir
+T27	NEG 2139 2141	no
+T28	NSCO 2142 2161	se objetiva mejoría
+T29	NEG 3171 3173	no
+T30	NSCO 3174 3187	viene a verme
+T31	NEG 3352 3354	no
+T32	NSCO 3355 3375	noto tanto las señas
+T33	NEG 3417 3419	no
+T34	NSCO 3420 3430	hace nada"
+T35	NEG 3498 3500	no
+T36	NSCO 3501 3534	es como para seguir comportándome
+T37	NEG 3541 3543	No
+T38	NSCO 3544 3577	se objetivan conductas regresivas
+T39	NEG 3625 3628	sin
+T40	NSCO 3629 3640	incidencias
+T41	NEG 3841 3845	nula
+T42	NSCO 3846 3870	conciencia de enfermedad
+T43	NEG 4635 4638	sin
+T44	NSCO 4639 4668	sintomatología afectiva mayor
+T45	NEG 4705 4707	no
+T46	NSCO 4708 4716	somática
+T47	NEG 4718 4721	sin
+T48	NSCO 4722 4740	angustia psicótica
+T49	NEG 4765 4776	incoherente
+T50	NEG 4999 5001	no
+T51	NSCO 5002 5017	autoagresividad
+T52	NEG 5019 5021	No
+T53	NSCO 5022 5037	ideas de muerte
+T54	NEG 5039 5041	No
+T55	NSCO 5042 5070	insight clínico ni cognitivo
+T56	NEG 5207 5210	sin
+T57	NSCO 5211 5243	alteraciones en los dos ingresos
+T58	NEG 5323 5331	negativo
+T59	NSCO 5332 5345	en el segundo
+T60	NEG 5443 5446	sin
+T61	NSCO 5447 5459	alteraciones
+T62	UNC 5617 5625	sugieren
+T63	USCO 5626 5692	causa vascular por afectación de pequeño vaso de evolución crónica
+T64	UNC 5703 5716	probablemente
+T65	USCO 5717 5727	congénitas
+T66	NEG 6136 6147	se descarta
+T67	NSCO 6148 6214	tras exploración psicométrica realizada dentro del protocolo PAFIP
+T68	NEG 6394 6396	No
+T69	NSCO 6397 6447	se han observado síntomas afectivos significativos
+T70	NEG 6570 6577	Tampoco
+T71	NSCO 6578 6618	se considera que los síntomas psicóticos
+T72	NEG 6843 6851	negativa
+T73	NEG 7004 7013	negativos
+T74	NEG 7649 7652	sin
+T75	NSCO 7653 7665	obligar a la
+T76	NEG 7666 7678	retirada del
+T77	NSCO 7679 7690	tratamiento
+T78	FARMACO 1580 1589	lorazepam
+T79	FARMACO 2042 2053	aripiprazol
+T80	FARMACO 3241 3252	aripiprazol
+T81	FARMACO 3961 3972	aripiprazol
+T82	FARMACO 5431 5440	clozapina
+T83	FARMACO 7290 7299	clozapina
+T84	FARMACO 7637 7648	propranolol
+T85	FARMACO 7796 7805	clozapina
+T86	ORG_VIVO 0 14	Paciente varón
+T87	ORG_VIVO 33 39	gitana
+T88	ORG_VIVO 55 63	cannabis
+T89	ORG_VIVO 93 103	familiares
+T90	ORG_VIVO 105 111	padres
+T91	ORG_VIVO 178 188	personales
+T92	ORG_VIVO 436 440	niño
+T93	ORG_VIVO 499 503	tíos
+T94	ORG_VIVO 553 561	hermanos
+T95	ORG_VIVO 635 645	personales
+T96	ORG_VIVO 707 711	tíos
+T97	ORG_VIVO 741 745	tíos
+T98	ORG_VIVO 748 754	primos
+T99	ORG_VIVO 982 991	educadora
+T100	ORG_VIVO 1018 1028	familiares
+T101	ORG_VIVO 1055 1063	cannabis
+T102	ORG_VIVO 1414 1420	amigos
+T103	ORG_VIVO 1681 1691	psiquiatra
+T104	ORG_VIVO 2410 2414	bebé
+T105	ORG_VIVO 2513 2518	chico
+T106	ORG_VIVO 2531 2535	niño
+T107	ORG_VIVO 2562 2566	bebé
+T108	ORG_VIVO 2775 2780	mujer
+T109	ORG_VIVO 2924 2932	cannabis
+T110	ORG_VIVO 3026 3032	padres
+T111	ORG_VIVO 3108 3114	amigos
+T112	ORG_VIVO 3793 3801	cannabis
+T113	ORG_VIVO 4180 4188	familiar
+T114	ORG_VIVO 4243 4250	familia
+T115	ORG_VIVO 4263 4268	madre
+T116	ORG_VIVO 4572 4580	personal
+T117	ORG_VIVO 6079 6087	cannabis
+T118	ORG_VIVO 6297 6305	paciente
+T119	ORG_VIVO 6635 6643	paciente
+T120	ORG_VIVO 6719 6727	cannabis
+T121	ORG_VIVO 6857 6865	paciente
+T122	ORG_VIVO 7159 7167	cannabis
+T123	ORG_VIVO 7191 7199	paciente
+T124	ORG_VIVO 7572 7580	paciente
+T125	ENFERMEDAD 143 162	consumo de opiáceos
+T126	ENFERMEDAD 199 211	prematuridad
+T127	ENFERMEDAD 225 246	síndrome de privación
+T128	ENFERMEDAD 649 662	asma infantil
+T129	ENFERMEDAD 676 701	hernia inguinal bilateral
+T130	ENFERMEDAD 716 730	retraso mental
+T131	ENFERMEDAD 767 786	trastorno psicótico
+T132	ENFERMEDAD 1924 1932	Psicosis
+T133	ENFERMEDAD 3782 3801	consumo de cannabis
+T134	ENFERMEDAD 4321 4329	psicosis
+T135	ENFERMEDAD 5031 5037	muerte
+T136	ENFERMEDAD 5694 5727	lesiones probablemente congénitas
+T137	ENFERMEDAD 5865 5901	trastorno del desarrollo intelectual
+T138	ENFERMEDAD 5922 5940	trastorno afectivo
+T139	ENFERMEDAD 5945 5964	síntomas psicóticos
+T140	ENFERMEDAD 5967 6008	trastorno esquizoafectivo/ esquizofrenia/
+T141	ENFERMEDAD 6009 6037	trastorno psicótico inducido
+T142	ENFERMEDAD 6042 6087	sustancias/ trastorno por consumo de cannabis
+T143	ENFERMEDAD 6111 6135	discapacidad intelectual
+T144	ENFERMEDAD 6328 6352	trastorno esquizofrénico
+T145	ENFERMEDAD 6363 6392	trastorno de ideas delirantes
+T146	ENFERMEDAD 6477 6502	trastorno esquizoafectivo
+T147	ENFERMEDAD 6508 6527	trastorno depresivo
+T148	ENFERMEDAD 6702 6727	intoxicación por cannabis
+T149	ENFERMEDAD 6905 6918	esquizofrenia
+T150	ENFERMEDAD 6943 6951	delirios
+T151	ENFERMEDAD 7134 7167	trastorno por consumo de cannabis
+T152	ENFERMEDAD 7583 7602	taquicardia sinusal
+T153	PACIENTE-SITUACION_LABORAL 788 812	Abandono de los estudios
+T154	FAMILIAR-SITUACION_LABORAL 4218 4228	en prisión
+T155	SANITARIO-PROFESION 1681 1707	psiquiatra infanto-juvenil
+T156	PACIENTE-SITUACION_LABORAL 828 849	cursó hasta 1o de ESO
+T157	PACIENTE-SITUACION_LABORAL 852 873	Sin actividad laboral
+T158	OTROS-PROFESION 982 998	educadora social

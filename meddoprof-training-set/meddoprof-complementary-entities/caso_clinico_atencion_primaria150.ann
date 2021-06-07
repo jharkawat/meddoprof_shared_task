@@ -1,0 +1,98 @@
+T1	SINTOMA 19 36	Síntomas ansiosos
+T2	SINTOMA 39 47	insomnio
+T3	SINTOMA 188 196	tristeza
+T4	SINTOMA 198 211	irritabilidad
+T5	SINTOMA 213 221	insomnio
+T6	SINTOMA 224 248	nerviosismo generalizado
+T7	SINTOMA 548 556	insomnio
+T8	SINTOMA 653 660	decaída
+T9	SINTOMA 679 685	llanto
+T10	SINTOMA 2929 2982	disconfort emocional y balancearlos con los positivos
+T11	SINTOMA 3916 3924	insomnio
+T12	SINTOMA 4137 4150	irritabilidad
+T13	PROCEDIMIENTO 797 815	exploración física
+T14	PROCEDIMIENTO 824 842	análisis de sangre
+T15	PROCEDIMIENTO 1186 1204	exploración física
+T16	PROCEDIMIENTO 1211 1229	análisis de sangre
+T17	PROCEDIMIENTO 2798 2815	terapia cognitiva
+T18	PROCEDIMIENTO 3486 3511	tratamiento antidepresivo
+T19	PROCEDIMIENTO 3655 3680	valoración biopsicosocial
+T20	NEG 1609 1617	falta de
+T21	NSCO 1618 1648	recursos económicos familiares
+T22	NEG 2073 2085	se desconoce
+T23	NSCO 2086 2109	su rol en estos cambios
+T24	NEG 2298 2309	incapacidad
+T25	NSCO 2310 2332	temporal a la paciente
+T26	NEG 2881 2890	negativos
+T27	NEG 3236 3238	no
+T28	NSCO 3239 3264	a las exigencias del hijo
+T29	NEG 3354 3356	No
+T30	NSCO 3357 3404	se llega a realizar ninguna entrevista familiar
+T31	NEG 3842 3845	sin
+T32	NSCO 3846 3859	cualificación
+T33	NEG 3864 3866	no
+T34	NSCO 3867 3890	le reporta satisfacción
+T35	NEG 4040 4043	sin
+T36	NSCO 4044 4056	apoyo social
+T37	UNC 4295 4302	valorar
+T38	USCO 4303 4330	el registro de pensamientos
+T39	NEG 4331 4340	negativos
+T40	FARMACO 590 599	lorazepam
+T41	FARMACO 759 771	Levotiroxina
+T42	FARMACO 2375 2385	Citalopram
+T43	FARMACO 2398 2407	Lorazepam
+T44	FARMACO 2489 2499	Paroxetina
+T45	FARMACO 2503 2510	mgr/24h
+T46	FARMACO 2513 2523	Alprazolam
+T47	FARMACO 3972 3984	lormetazepam
+T48	FARMACO 4219 4228	trazodona
+T49	ORG_VIVO 55 60	mujer
+T50	ORG_VIVO 66 70	hija
+T51	ORG_VIVO 107 112	mujer
+T52	ORG_VIVO 705 715	personales
+T53	ORG_VIVO 929 933	hija
+T54	ORG_VIVO 974 979	madre
+T55	ORG_VIVO 997 1002	mujer
+T56	ORG_VIVO 1256 1264	familiar
+T57	ORG_VIVO 1325 1333	familiar
+T58	ORG_VIVO 1340 1348	paciente
+T59	ORG_VIVO 1366 1373	familia
+T60	ORG_VIVO 1386 1395	parientes
+T61	ORG_VIVO 1468 1473	padre
+T62	ORG_VIVO 1510 1514	hijo
+T63	ORG_VIVO 1638 1648	familiares
+T64	ORG_VIVO 1733 1741	cannabis
+T65	ORG_VIVO 1778 1783	madre
+T66	ORG_VIVO 1883 1890	hermana
+T67	ORG_VIVO 2045 2050	padre
+T68	ORG_VIVO 2175 2180	madre
+T69	ORG_VIVO 2241 2245	hija
+T70	ORG_VIVO 2258 2266	familiar
+T71	ORG_VIVO 2324 2332	paciente
+T72	ORG_VIVO 2447 2451	hija
+T73	ORG_VIVO 2772 2780	familiar
+T74	ORG_VIVO 3048 3056	familiar
+T75	ORG_VIVO 3170 3175	madre
+T76	ORG_VIVO 3260 3264	hijo
+T77	ORG_VIVO 3269 3273	hija
+T78	ORG_VIVO 3333 3340	hermano
+T79	ORG_VIVO 3396 3404	familiar
+T80	ORG_VIVO 3435 3440	madre
+T81	ORG_VIVO 3443 3447	hija
+T82	ORG_VIVO 3545 3550	madre
+T83	ORG_VIVO 3571 3575	hijo
+T84	ORG_VIVO 3697 3702	chico
+T85	ORG_VIVO 4083 4091	cannabis
+T86	ORG_VIVO 4561 4569	cannabis
+T87	ORG_VIVO 4615 4622	familia
+T88	ENFERMEDAD 725 739	hipotiroidismo
+T89	ENFERMEDAD 1034 1049	asma extrínseca
+T90	ENFERMEDAD 1101 1109	ansiedad
+T91	ENFERMEDAD 2127 2160	Trastorno mixto ansioso-depresivo
+T92	ENFERMEDAD 2183 2226	trastorno de ansiedad paroxística episódica
+T93	ENFERMEDAD 2247 2266	Disfunción familiar
+T94	ENFERMEDAD 2542 2560	crisis de ansiedad
+T95	PACIENTE-PROFESION 291 324	limpiadora en un centro educativo
+T96	FAMILIAR-SITUACION_LABORAL 1158 1181	estudios universitarios
+T97	PACIENTE-SITUACION_LABORAL 2298 2318	incapacidad temporal
+T98	FAMILIAR-PROFESION 3812 3859	está contratado en un trabajo sin cualificación

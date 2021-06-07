@@ -1,0 +1,154 @@
+T1	SINTOMA 206 213	fumador
+T2	SINTOMA 1790 1794	ECOG
+T3	SINTOMA 2486 2492	fatiga
+T4	SINTOMA 2494 2504	hemoptisis
+T5	SINTOMA 2506 2518	rash cutáneo
+T6	SINTOMA 3007 3019	rash cutáneo
+T7	SINTOMA 3045 3051	fatiga
+T8	SINTOMA 3162 3184	sensación generalizada
+T9	SINTOMA 3188 3197	cansancio
+T10	SINTOMA 3199 3205	fatiga
+T11	SINTOMA 3208 3224	debilidad física
+T12	SINTOMA 3390 3405	dolor abdominal
+T13	SINTOMA 3478 3486	diarreas
+T14	SINTOMA 3504 3510	disnea
+T15	SINTOMA 3541 3549	ortopnea
+T16	SINTOMA 3554 3567	palpitaciones
+T17	SINTOMA 3572 3586	dolor torácico
+T18	SINTOMA 3594 3600	fiebre
+T19	SINTOMA 3669 3677	eupneico
+T20	SINTOMA 3679 3704	hemodinámicamente estable
+T21	SINTOMA 3706 3713	afebril
+T22	SINTOMA 3715 3729	normohidratado
+T23	SINTOMA 3731 3741	consciente
+T24	SINTOMA 3744 3753	orientado
+T25	SINTOMA 3959 3983	tonos cardiacos rítmicos
+T26	SINTOMA 3998 4014	roce pericárdico
+T27	SINTOMA 4017 4046	murmullo vesicular conservado
+T28	SINTOMA 4057 4063	edemas
+T29	SINTOMA 4192 4213	ingurgitación yugular
+T30	SINTOMA 4218 4287	abdomen era blando y depresible con peristaltismo presente y doloroso
+T31	SINTOMA 4472 4520	elevación del ST > 2mm en DIII, aVF y de V1 a V3
+T32	SINTOMA 6254 6267	plaquetopenia
+T33	PROCEDIMIENTO 355 386	herniorrafía inguinal izquierda
+T34	PROCEDIMIENTO 624 643	estudio radiológico
+T35	PROCEDIMIENTO 852 865	biopsia renal
+T36	PROCEDIMIENTO 959 980	nefrectomía izquierda
+T37	PROCEDIMIENTO 983 1007	linfadenectomía regional
+T38	PROCEDIMIENTO 1013 1032	anatomía patológica
+T39	PROCEDIMIENTO 1254 1285	linfadenectomía 3 de 9 ganglios
+T40	PROCEDIMIENTO 1591 1636	tomografía computarizada (TC) toracoabdominal
+T41	PROCEDIMIENTO 3624 3642	Exploración física
+T42	PROCEDIMIENTO 3921 3948	auscultación cardiopulmonar
+T43	PROCEDIMIENTO 4381 4399	electrocardiograma
+T44	PROCEDIMIENTO 4582 4601	analítica sanguínea
+T45	PROCEDIMIENTO 4876 4896	radiografía de tórax
+T46	PROCEDIMIENTO 5036 5047	cateterismo
+T47	PROCEDIMIENTO 5413 5456	soporte hemodinámico con drogas vasoactivas
+T48	PROCEDIMIENTO 5617 5632	ecocardiografía
+T49	PROCEDIMIENTO 5775 5797	rescate inmunosupresor
+T50	PROCEDIMIENTO 5937 5958	soporte transfusional
+T51	PROCEDIMIENTO 6032 6047	anticoagulación
+T52	PROCEDIMIENTO 6170 6193	aspirado de médula ósea
+T53	PROCEDIMIENTO 6327 6349	tratamiento corticoide
+T54	NEG 156 158	no
+T55	NSCO 159 232	tiene alergias medicamentosas conocidas, ni es fumador ni consume alcohol
+T56	NEG 480 483	sin
+T57	NSCO 484 507	medicación concomitante
+T58	UNC 815 828	sugestivas de
+T59	USCO 829 839	metástasis
+T60	UNC 902 908	claras
+T61	UNC 1066 1072	claras
+T62	NEG 1225 1227	no
+T63	NSCO 1228 1245	estaba infiltrada
+T64	UNC 1400 1406	claras
+T65	USCO 1407 1418	pT3a pN1 M1
+T66	NEG 3309 3315	impide
+T67	NSCO 3316 3373	realizar las actividades instrumentales de la vida diaria
+T68	NEG 3465 3468	sin
+T69	NSCO 3469 3486	llegar a diarreas
+T70	NEG 3532 3534	No
+T71	NSCO 3535 3586	tiene ortopnea, ni palpitaciones, ni dolor torácico
+T72	NEG 3588 3593	Niega
+T73	NSCO 3594 3621	fiebre y clínica infecciosa
+T74	NEG 3706 3713	afebril
+T75	NEG 3984 3987	sin
+T76	NSCO 3988 4014	soplos ni roce pericárdico
+T77	NEG 4077 4079	no
+T78	NSCO 4080 4105	dolorosos en la palpación
+T79	NEG 4149 4152	Sin
+T80	NSCO 4153 4213	signos de trombosis venosa profunda ni ingurgitación yugular
+T81	NEG 4897 4905	descarta
+T82	NSCO 4906 4938	signos de insuficiencia cardiaca
+T83	NEG 5060 5068	descarta
+T84	NSCO 5069 5088	lesiones coronarias
+T85	UNC 5168 5176	sospecha
+T86	USCO 5177 5188	diagnóstica
+T87	NEG 5683 5690	retirar
+T88	NSCO 5691 5716	el soporte con dobutamina
+T89	NEG 5732 5734	no
+T90	NSCO 5735 5797	requirió infliximab como tratamiento de rescate inmunosupresor
+T91	NEG 5901 5904	sin
+T92	NSCO 5905 5958	signos de sangrado que requirió soporte transfusional
+T93	UNC 5968 5979	sospecha de
+T94	USCO 5980 6017	una trombopenia inducida por heparina
+T95	NEG 6019 6028	se retira
+T96	NSCO 6029 6047	la anticoagulación
+T97	NEG 6108 6117	negativos
+T98	NEG 6118 6129	descartando
+T99	NSCO 6130 6144	el diagnóstico
+T100	NEG 6199 6201	no
+T101	NSCO 6202 6222	muestra alteraciones
+T102	NEG 6596 6604	retirada
+T103	FARMACO 1909 1921	atezolizumab
+T104	FARMACO 1924 1935	bevacizumab
+T105	FARMACO 1943 1952	sunitinib
+T106	FARMACO 2026 2035	sunitinib
+T107	FARMACO 2368 2380	levotiroxina
+T108	FARMACO 2431 2440	valsartán
+T109	FARMACO 2660 2669	nivolumab
+T110	FARMACO 5285 5302	metilprednisolona
+T111	FARMACO 5706 5716	dobutamina
+T112	FARMACO 5744 5754	infliximab
+T113	FARMACO 6009 6017	heparina
+T114	FARMACO 6491 6508	metilprednisolona
+T115	ORG_VIVO 10 24	Paciente varón
+T116	ORG_VIVO 120 125	hijas
+T117	ORG_VIVO 145 155	personales
+T118	ORG_VIVO 1361 1369	paciente
+T119	ORG_VIVO 1458 1466	paciente
+T120	ORG_VIVO 1748 1756	paciente
+T121	ORG_VIVO 1957 1965	paciente
+T122	ORG_VIVO 3105 3113	paciente
+T123	ORG_VIVO 3646 3654	paciente
+T124	ORG_VIVO 5345 5353	paciente
+T125	ORG_VIVO 5483 5491	paciente
+T126	ORG_VIVO 6366 6374	paciente
+T127	ENFERMEDAD 165 188	alergias medicamentosas
+T128	ENFERMEDAD 282 307	bronquitis crónica simple
+T129	ENFERMEDAD 551 573	hematuria macroscópica
+T130	ENFERMEDAD 703 714	tumor renal
+T131	ENFERMEDAD 750 813	lesiones pulmonares y ganglionares, a nivel hiliar y subcarinal
+T132	ENFERMEDAD 829 839	metástasis
+T133	ENFERMEDAD 881 908	carcinoma de células claras
+T134	ENFERMEDAD 1045 1072	carcinoma de células claras
+T135	ENFERMEDAD 1117 1163	invasión de la grasa hiliar y de la vena renal
+T136	ENFERMEDAD 1377 1418	tumor renal de células claras pT3a pN1 M1
+T137	ENFERMEDAD 1652 1712	progresión neoplásica tanto a nivel pulmonar como ganglionar
+T138	ENFERMEDAD 2309 2323	hipotiroidismo
+T139	ENFERMEDAD 2395 2407	hipertensión
+T140	ENFERMEDAD 2521 2538	síndrome mano-pie
+T141	ENFERMEDAD 3021 3043	síndrome pseudo gripal
+T142	ENFERMEDAD 3054 3072	toxicidad hepática
+T143	ENFERMEDAD 4163 4188	trombosis venosa profunda
+T144	ENFERMEDAD 4346 4368	taquicardia objetivada
+T145	ENFERMEDAD 4916 4938	insuficiencia cardiaca
+T146	ENFERMEDAD 5017 5020	IAM
+T147	ENFERMEDAD 5069 5088	lesiones coronarias
+T148	ENFERMEDAD 5103 5145	Miocarditis secundaria a nivolumab grado 4
+T149	ENFERMEDAD 5192 5202	basándonos
+T150	ENFERMEDAD 5236 5273	toxicidad inmunomediada por nivolumab
+T151	ENFERMEDAD 5984 6017	trombopenia inducida por heparina
+T152	ENFERMEDAD 6254 6267	plaquetopenia
+T153	PACIENTE-SITUACION_LABORAL 56 64	jubilado
+T154	PACIENTE-PROFESION 82 96	administrativo

@@ -1,0 +1,125 @@
+T1	SINTOMA 347 362	astenia intensa
+T2	SINTOMA 364 372	anorexia
+T3	SINTOMA 375 390	pérdida de peso
+T4	SINTOMA 427 436	lumbalgia
+T5	SINTOMA 930 941	oligoanuria
+T6	SINTOMA 944 962	mal estado general
+T7	SINTOMA 1471 1483	dolor lumbar
+T8	SINTOMA 1663 1669	fiebre
+T9	SINTOMA 1709 1718	temblores
+T10	SINTOMA 1924 1950	soplo sistólico grado V/VI
+T11	SINTOMA 1996 2035	edemas sin fóvea de miembros inferiores
+T12	SINTOMA 3217 3228	proteinuria
+T13	SINTOMA 3249 3261	leucocituria
+T14	SINTOMA 4022 4049	hemodinámicamente inestable
+T15	SINTOMA 5491 5500	hematuria
+T16	SINTOMA 5520 5531	proteinuria
+T17	PROCEDIMIENTO 124 145	antidiabéticos orales
+T18	PROCEDIMIENTO 847 860	examen físico
+T19	PROCEDIMIENTO 1776 1789	examen físico
+T20	PROCEDIMIENTO 1892 1913	auscultación cardiaca
+T21	PROCEDIMIENTO 2048 2061	examen físico
+T22	PROCEDIMIENTO 2102 2112	diuréticos
+T23	PROCEDIMIENTO 2138 2150	hemocultivos
+T24	PROCEDIMIENTO 2153 2163	urocultivo
+T25	PROCEDIMIENTO 2176 2212	administración de antibioticoterapia
+T26	PROCEDIMIENTO 2243 2256	terapia renal
+T27	PROCEDIMIENTO 2285 2297	hemodiálisis
+T28	PROCEDIMIENTO 2400 2413	proteinograma
+T29	PROCEDIMIENTO 2506 2533	frotis de sangre periférica
+T30	PROCEDIMIENTO 2594 2606	fondo de ojo
+T31	PROCEDIMIENTO 2622 2640	electrocardiograma
+T32	PROCEDIMIENTO 2642 2645	ECG
+T33	PROCEDIMIENTO 2732 2757	radiografía (Rx) de tórax
+T34	PROCEDIMIENTO 2763 2782	ecografía abdominal
+T35	PROCEDIMIENTO 2803 2831	ecocardiograma transtorácico
+T36	PROCEDIMIENTO 3554 3566	hemocultivos
+T37	PROCEDIMIENTO 3818 3835	recambio valvular
+T38	PROCEDIMIENTO 4113 4131	drogas vasoactivas
+T39	PROCEDIMIENTO 4133 4161	transfusión de hemoderivados
+T40	PROCEDIMIENTO 4239 4277	hemodiafiltración veno-venosa contínua
+T41	PROCEDIMIENTO 4288 4300	hemodiálisis
+T42	PROCEDIMIENTO 4471 4489	antibioticoterapia
+T43	PROCEDIMIENTO 4781 4802	estudio colonoscópico
+T44	PROCEDIMIENTO 5047 5104	hemicolectomía izquierda con anastomosis término-terminal
+T45	PROCEDIMIENTO 5336 5349	quimioterapia
+T46	PROCEDIMIENTO 5561 5579	cultivos de sangre
+T47	PROCEDIMIENTO 5594 5620	estudios ecocardiográficos
+T48	NEG 1522 1533	se sospechó
+T49	NSCO 1534 1618	enfermedad febril infecciosa tropical o por lo menos el origen infeccioso del cuadro
+T50	NEG 1647 1652	nunca
+T51	NSCO 1653 1669	evidenció fiebre
+T52	UNC 1865 1878	impresiona de
+T53	USCO 1879 1887	gravedad
+T54	NEG 2003 2006	sin
+T55	NSCO 2007 2035	fóvea de miembros inferiores
+T56	NEG 2564 2567	sin
+T57	NSCO 2568 2588	ningún otro hallazgo
+T58	NEG 2716 2718	no
+T59	NSCO 2719 2727	conocido
+T60	NEG 3648 3650	ex
+T61	NSCO 3651 3671	Bovis grupo viridans
+T62	NEG 4228 4235	retirar
+T63	NSCO 4236 4256	la hemodiafiltración
+T64	UNC 4932 4946	compatible con
+T65	USCO 4947 4997	adenoma tubular y áreas de displasia de alto grado
+T66	NEG 5213 5215	no
+T67	NSCO 5216 5249	mostró metástasis a otros niveles
+T68	NSCO 5557 5579	Los cultivos de sangre
+T69	NEG 5644 5653	negativos
+T70	FARMACO 1411 1421	metformina
+T71	FARMACO 1423 1436	vildagliptina
+T72	FARMACO 1439 1449	ibuprofeno
+T73	FARMACO 2115 2123	dopamina
+T74	FARMACO 4503 4526	ceftriaxona/ ampicilina
+T75	FARMACO 4529 4542	levofloxacino
+T76	FARMACO 5714 5725	ceftriaxona
+T77	FARMACO 5728 5738	ampicilina
+T78	FARMACO 5756 5769	levofloxacino
+T79	ORG_VIVO 0 5	Varón
+T80	ORG_VIVO 73 83	personales
+T81	ORG_VIVO 315 342	médico de atención primaria
+T82	ORG_VIVO 1203 1211	paciente
+T83	ORG_VIVO 1638 1646	familiar
+T84	ORG_VIVO 3595 3621	Streptococcus gallolyticus
+T85	ORG_VIVO 3623 3647	estreptococo del grupo B
+T86	ORG_VIVO 3648 3671	ex Bovis grupo viridans
+T87	ORG_VIVO 5254 5262	paciente
+T88	ORG_VIVO 5402 5410	paciente
+T89	ENFERMEDAD 87 111	diabetes mellitus tipo 2
+T90	ENFERMEDAD 150 185	retinopatía diabética proliferativa
+T91	ENFERMEDAD 188 214	estenosis mitral y aórtica
+T92	ENFERMEDAD 427 450	lumbalgia incapacitante
+T93	ENFERMEDAD 599 630	anemia normocítica normocrómica
+T94	ENFERMEDAD 633 646	plaquetopenia
+T95	ENFERMEDAD 1075 1081	anemia
+T96	ENFERMEDAD 1534 1571	enfermedad febril infecciosa tropical
+T97	ENFERMEDAD 2343 2361	síndrome nefrítico
+T98	ENFERMEDAD 2667 2694	bloqueo auriculoventricular
+T99	ENFERMEDAD 2842 2868	estenosis mitral y aórtica
+T100	ENFERMEDAD 3040 3058	síndrome nefrítico
+T101	ENFERMEDAD 3107 3125	síndrome nefrítico
+T102	ENFERMEDAD 3127 3146	fracaso renal agudo
+T103	ENFERMEDAD 3148 3169	hipertensión arterial
+T104	ENFERMEDAD 3171 3174	HTA
+T105	ENFERMEDAD 3178 3197	sedimento nefrítico
+T106	ENFERMEDAD 3368 3424	glomerulonefritis de la endocarditis, GMN postinfecciosa
+T107	ENFERMEDAD 3441 3457	crioglobulinemia
+T108	ENFERMEDAD 3459 3486	lupus eritematoso sistémico
+T109	ENFERMEDAD 3489 3528	glomerulonefritis membranoproliferativa
+T110	ENFERMEDAD 3623 3671	estreptococo del grupo B ex Bovis grupo viridans
+T111	ENFERMEDAD 3752 3793	abscesos a nivel de la unión mitroaórtica
+T112	ENFERMEDAD 4319 4342	lumbalgia incapacitante
+T113	ENFERMEDAD 4412 4435	espondilodiscitis L2-L3
+T114	ENFERMEDAD 4664 4706	endocarditis por estreptococos del grupo D
+T115	ENFERMEDAD 4709 4727	carcinoma colónico
+T116	ENFERMEDAD 4749 4768	endocarditis activa
+T117	ENFERMEDAD 4817 4834	pólipo degenerado
+T118	ENFERMEDAD 4947 4997	adenoma tubular y áreas de displasia de alto grado
+T119	ENFERMEDAD 5164 5187	adenocarcinoma de colon
+T120	ENFERMEDAD 5223 5233	metástasis
+T121	ENFERMEDAD 5385 5397	endocarditis
+T122	ENFERMEDAD 5424 5443	insuficiencia renal
+T123	ENFERMEDAD 5463 5500	sedimento urinario con leve hematuria
+T124	ENFERMEDAD 5822 5839	espondilodiscitis
+T125	SANITARIO-PROFESION 315 342	médico de atención primaria

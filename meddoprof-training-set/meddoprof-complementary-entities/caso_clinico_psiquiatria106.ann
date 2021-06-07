@@ -1,0 +1,131 @@
+T1	SINTOMA 1142 1149	afebril
+T2	SINTOMA 1182 1193	taquicardia
+T3	SINTOMA 2018 2039	agitación psicomotora
+T4	SINTOMA 2044 2062	agresividad verbal
+T5	SINTOMA 2098 2133	alteraciones de ciclo sueño vigilia
+T6	SINTOMA 2140 2177	fluctuación en el nivel de conciencia
+T7	SINTOMA 2220 2239	labilidad emocional
+T8	SINTOMA 2349 2376	interpretaciones delirantes
+T9	SINTOMA 2379 2402	alucinaciones auditivas
+T10	SINTOMA 2817 2842	hemodinámicamente estable
+T11	SINTOMA 2845 2852	afebril
+T12	SINTOMA 3008 3013	vigil
+T13	SINTOMA 3015 3044	orientada en tiempo y espacio
+T14	SINTOMA 3100 3116	actitud suspicaz
+T15	SINTOMA 3168 3173	lábil
+T16	SINTOMA 3179 3194	humor delirante
+T17	SINTOMA 3409 3432	alucinaciones auditivas
+T18	SINTOMA 3438 3460	alucinaciones visuales
+T19	SINTOMA 3462 3474	cenestésicas
+T20	SINTOMA 4345 4352	agitada
+T21	SINTOMA 4358 4374	ideas paranoides
+T22	SINTOMA 4404 4413	orientada
+T23	SINTOMA 4445 4453	eutímica
+T24	SINTOMA 4513 4547	alteraciones de la sensopercepción
+T25	PROCEDIMIENTO 1063 1084	colonoscopía electiva
+T26	PROCEDIMIENTO 1533 1552	cirugía de Hartmann
+T27	PROCEDIMIENTO 1599 1610	antibiótico
+T28	PROCEDIMIENTO 1754 1763	analgesia
+T29	PROCEDIMIENTO 4680 4700	electroencefalograma
+T30	PROCEDIMIENTO 4738 4767	resonancia magnética cerebral
+T31	NEG 421 424	Sin
+T32	NSCO 425 480	antecedente de episodios psicóticos según ficha clínica
+T33	NEG 839 841	No
+T34	NSCO 842 915	presentaba antecedentes de haber estado expuesta a quinolonas previamente
+T35	NEG 1142 1149	afebril
+T36	NEG 1269 1272	Sin
+T37	NSCO 1273 1298	requerimientos de oxígeno
+T38	NEG 2094 2097	Sin
+T39	NSCO 2098 2133	alteraciones de ciclo sueño vigilia
+T40	NEG 2136 2139	sin
+T41	NSCO 2140 2209	fluctuación en el nivel de conciencia durante toda la hospitalización
+T42	NEG 2845 2852	afebril
+T43	UNC 3127 3137	impresiona
+T44	USCO 3138 3146	eutímico
+T45	NEG 3208 3211	sin
+T46	NSCO 3212 3241	alteraciones del curso formal
+T47	NEG 3434 3437	sin
+T48	NSCO 3438 3505	alucinaciones visuales, cenestésicas, somáticas o de otra modalidad
+T49	NEG 3531 3534	sin
+T50	NSCO 3535 3551	ideación suicida
+T51	NEG 3553 3556	sin
+T52	NSCO 3557 3581	conciencia de enfermedad
+T53	NEG 3627 3635	negativa
+T54	NSCO 3636 3649	para delirium
+T55	NEG 3710 3713	sin
+T56	NSCO 3714 3739	fluctuación ni inatención
+T57	UNC 3774 3782	sospecha
+T58	USCO 3783 3826	que sea secundaria al uso de ciprofloxacino
+T59	UNC 4004 4015	Se sospecha
+T60	USCO 4016 4043	esto debido al inicio agudo
+T61	UNC 4195 4203	sospecha
+T62	USCO 4204 4247	se cambia el Ciprofloxacino por Ceftriaxona
+T63	NEG 4354 4357	sin
+T64	NSCO 4358 4374	ideas paranoides
+T65	NEG 4483 4486	sin
+T66	NSCO 4487 4506	contenido delirante
+T67	NEG 4509 4512	sin
+T68	NSCO 4513 4547	alteraciones de la sensopercepción
+T69	NEG 4606 4614	cediendo
+T70	NSCO 4615 4655	por completo la sintomatología psicótica
+T71	NEG 4714 4717	sin
+T72	NSCO 4718 4730	alteraciones
+T73	NEG 4817 4829	inespecífico
+T74	NEG 4897 4900	sin
+T75	NSCO 4901 4942	cambios significativos respecto a estudio
+T76	FARMACO 282 289	cocaína
+T77	FARMACO 553 564	venlafaxina
+T78	FARMACO 599 610	lamotrigina
+T79	FARMACO 632 642	quetiapina
+T80	FARMACO 723 733	prednisona
+T81	FARMACO 748 759	azatioprina
+T82	FARMACO 782 791	enalapril
+T83	FARMACO 807 817	salbutamol
+T84	FARMACO 1291 1298	oxígeno
+T85	FARMACO 1626 1640	ciprofloxacino
+T86	FARMACO 1675 1687	metronidazol
+T87	FARMACO 1720 1729	omeprazol
+T88	FARMACO 1768 1784	metamizol sódico
+T89	FARMACO 1816 1829	acetaminofeno
+T90	FARMACO 3812 3826	ciprofloxacino
+T91	FARMACO 4173 4183	quinolonas
+T92	FARMACO 4217 4231	Ciprofloxacino
+T93	FARMACO 4236 4247	Ceftriaxona
+T94	FARMACO 4260 4271	risperidona
+T95	ORG_VIVO 0 8	Paciente
+T96	ORG_VIVO 29 37	femenino
+T97	ORG_VIVO 483 493	psiquiatra
+T98	ORG_VIVO 1934 1942	paciente
+T99	ORG_VIVO 2330 2347	personal de salud
+T100	ORG_VIVO 2429 2437	paciente
+T101	ORG_VIVO 2502 2510	personal
+T102	ORG_VIVO 2610 2619	pacientes
+T103	ORG_VIVO 2719 2740	equipo de psiquiatría
+T104	ORG_VIVO 2796 2804	paciente
+T105	ORG_VIVO 2986 2994	paciente
+T106	ORG_VIVO 3288 3305	personal de salud
+T107	ORG_VIVO 3663 3671	paciente
+T108	ORG_VIVO 4319 4327	paciente
+T109	ORG_VIVO 5041 5051	psiquiatra
+T110	ENFERMEDAD 59 75	miastenia gravis
+T111	ENFERMEDAD 77 89	fibromialgia
+T112	ENFERMEDAD 91 105	asma bronquial
+T113	ENFERMEDAD 107 128	hipertensión arterial
+T114	ENFERMEDAD 130 156	síndrome de túnel carpiano
+T115	ENFERMEDAD 158 177	trastorno depresivo
+T116	ENFERMEDAD 224 259	trastorno de personalidad limítrofe
+T117	ENFERMEDAD 261 289	trastorno por uso de cocaína
+T118	ENFERMEDAD 440 460	episodios psicóticos
+T119	ENFERMEDAD 1037 1057	perforación colónica
+T120	ENFERMEDAD 1101 1117	pólipos de colon
+T121	ENFERMEDAD 3641 3649	delirium
+T122	ENFERMEDAD 3756 3771	psicosis lúcida
+T123	ENFERMEDAD 3905 3933	Trastorno Psicótico Inducido
+T124	ENFERMEDAD 4129 4137	psicosis
+T125	ENFERMEDAD 4631 4655	sintomatología psicótica
+T126	SANITARIO-PROFESION 2330 2347	personal de salud
+T127	SANITARIO-PROFESION 2502 2510	personal
+T128	SANITARIO-PROFESION 3288 3305	personal de salud
+T129	SANITARIO-PROFESION 483 493	psiquiatra
+T130	SANITARIO-PROFESION 5041 5051	psiquiatra
+T131	SANITARIO-PROFESION 2719 2740	equipo de psiquiatría

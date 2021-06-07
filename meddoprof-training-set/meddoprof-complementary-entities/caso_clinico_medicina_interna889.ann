@@ -1,0 +1,41 @@
+T1	SINTOMA 18 28	ex fumador
+T2	SINTOMA 194 201	cefalea
+T3	SINTOMA 203 229	inestabilidad de la marcha
+T4	SINTOMA 231 238	náuseas
+T5	SINTOMA 241 250	fotofobia
+T6	PROCEDIMIENTO 149 169	biopsias prostáticas
+T7	PROCEDIMIENTO 372 382	TC craneal
+T8	PROCEDIMIENTO 487 497	RM craneal
+T9	PROCEDIMIENTO 648 685	TC de cuello, tórax, abdomen y pelvis
+T10	PROCEDIMIENTO 872 897	endoscopia digestiva alta
+T11	PROCEDIMIENTO 1010 1017	biopsia
+T12	PROCEDIMIENTO 1223 1247	radioterapia holocraneal
+T13	PROCEDIMIENTO 1250 1273	quimioterapia paliativa
+T14	PROCEDIMIENTO 2262 2280	examen histológico
+T15	NEG 18 20	ex
+T16	NSCO 21 28	fumador
+T17	NEG 170 179	negativas
+T18	NEG 203 219	inestabilidad de
+T19	NSCO 220 229	la marcha
+T20	NEG 2309 2311	no
+T21	NSCO 2312 2365	se realizó al tratarse el paciente de forma paliativa
+T22	FARMACO 42 45	AAS
+T23	ORG_VIVO 0 5	Varón
+T24	ORG_VIVO 1889 1897	paciente
+T25	ORG_VIVO 2338 2346	paciente
+T26	ENFERMEDAD 67 101	síndrome mieloproliferativo JACK 2
+T27	ENFERMEDAD 396 459	lesión ocupante de espacio de 9,5x12 mm en el vermis cerebeloso
+T28	ENFERMEDAD 625 635	metástasis
+T29	ENFERMEDAD 828 867	lesiones ocupantes de espacio hepáticas
+T30	ENFERMEDAD 911 1005	neoformación mamelonada y friable que ocupaba los 33-39 cm esofágicos desde la arcada dentaria
+T31	ENFERMEDAD 1037 1116	carcinoma neuroendocrino con extensa necrosis en la muestra de esófago proximal
+T32	ENFERMEDAD 1119 1184	adenocarcinoma de tipo intestinal en la muestra de esófago distal
+T33	ENFERMEDAD 1283 1313	tumor neuroendocrino esofágico
+T34	ENFERMEDAD 1343 1376	metástasis cerebelosa y hepáticas
+T35	ENFERMEDAD 1382 1422	tumores de colisión son neoplasias raras
+T36	ENFERMEDAD 1738 1756	tumores esofágicos
+T37	ENFERMEDAD 1781 1802	unión gastroesofágica
+T38	ENFERMEDAD 1829 1879	carcinoma de células escamosas y el adenocarcinoma
+T39	ENFERMEDAD 1941 1955	adenocarcinoma
+T40	ENFERMEDAD 2093 2103	neoplasias
+T41	ENFERMEDAD 2120 2196	tumores de colisión) o de formas mixtas de carcinoma exocrino-neuroendocrino

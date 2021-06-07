@@ -1,0 +1,46 @@
+T1	SINTOMA 642 651	orientado
+T2	SINTOMA 700 720	problemas de memoria
+T3	NEG 691 693	no
+T4	NSCO 694 720	tenía problemas de memoria
+T5	NEG 955 957	no
+T6	NSCO 958 979	tiene día de descanso
+T7	UNC 1317 1323	parece
+T8	USCO 1324 1376	una falsa interpretación de alguna conversación real
+T9	NEG 1882 1884	no
+T10	NSCO 1885 1949	utilizar la calefacción pese a tratarse de los meses de invierno
+T11	NEG 2013 2015	No
+T12	NSCO 2016 2076	hay historia familiar de enfermedades mentales en su familia
+T13	NEG 2262 2264	no
+T14	NSCO 2265 2299	quererle como a sus otros hermanos
+T15	ORG_VIVO 864 869	padre
+T16	ORG_VIVO 1222 1230	paciente
+T17	ORG_VIVO 1382 1392	familiares
+T18	ORG_VIVO 1829 1837	clientes
+T19	ORG_VIVO 1966 1973	hermano
+T20	ORG_VIVO 1987 1999	hermanastras
+T21	ORG_VIVO 2004 2011	jóvenes
+T22	ORG_VIVO 2029 2037	familiar
+T23	ORG_VIVO 2069 2076	familia
+T24	ORG_VIVO 2081 2086	madre
+T25	ORG_VIVO 2125 2130	padre
+T26	ORG_VIVO 2147 2152	mujer
+T27	ORG_VIVO 2187 2194	familia
+T28	ORG_VIVO 2233 2242	madrastra
+T29	ORG_VIVO 2291 2299	hermanos
+T30	ORG_VIVO 2409 2414	padre
+T31	ENFERMEDAD 2041 2062	enfermedades mentales
+T32	OTROS-SITUACION_LABORAL 1265 1274	empleados
+T33	OTROS-SITUACION_LABORAL 1462 1471	empleados
+T34	OTROS-SITUACION_LABORAL 1602 1611	empleados
+T35	OTROS-SITUACION_LABORAL 1688 1697	empleados
+T36	OTROS-SITUACION_LABORAL 2541 2550	empleados
+T37	PACIENTE-SITUACION_LABORAL 203 213	en prisión
+T38	PACIENTE-PROFESION 34 57	dueño de un restaurante
+T39	OTROS-PROFESION 149 168	dueño de una bodega
+T40	PACIENTE-PROFESION 770 811	trabaja desde muy joven en el restaurante
+T41	PACIENTE-PROFESION 890 930	Trabaja incesantemente en el restaurante
+T42	OTROS-SITUACION_LABORAL 1474 1485	exempleados
+T43	OTROS-PROFESION 1633 1651	dueño de la bodega
+T44	PACIENTE-SITUACION_LABORAL 2341 2362	abandonó el instituto
+T45	PACIENTE-PROFESION 2365 2401	se puso a trabajar en el restaurante
+T46	OTROS-PROFESION 2553 2564	proveedores

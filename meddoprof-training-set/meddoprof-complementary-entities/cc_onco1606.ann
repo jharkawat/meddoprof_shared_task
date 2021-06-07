@@ -1,0 +1,158 @@
+T1	SINTOMA 337 352	dolor abdominal
+T2	SINTOMA 735 751	fotosensibilidad
+T3	SINTOMA 753 767	dolor muscular
+T4	SINTOMA 770 787	pérdida de fuerza
+T5	SINTOMA 828 851	dolores poliarticulares
+T6	SINTOMA 963 990	dolor abdominal tipo cólico
+T7	SINTOMA 1047 1055	anorexia
+T8	SINTOMA 1059 1074	pérdida de peso
+T9	SINTOMA 1112 1119	astenia
+T10	SINTOMA 1133 1139	disnea
+T11	SINTOMA 1956 1980	sintomatología abdominal
+T12	SINTOMA 2544 2569	eritema en dorso de manos
+T13	SINTOMA 2669 2677	doloroso
+T14	SINTOMA 2693 2714	irritación peritoneal
+T15	SINTOMA 2758 2790	edema en los miembros inferiores
+T16	SINTOMA 4125 4137	asintomática
+T17	SINTOMA 4781 4798	tumoración rectal
+T18	PROCEDIMIENTO 230 253	tratamiento corticoideo
+T19	PROCEDIMIENTO 717 726	anamnesis
+T20	PROCEDIMIENTO 1173 1203	test de sangre oculta en heces
+T21	PROCEDIMIENTO 1239 1251	colonoscopia
+T22	PROCEDIMIENTO 1354 1419	hemicolectomía derecha reglada con anastomosis ileocólica lateral
+T23	PROCEDIMIENTO 1811 1840	tratamiento con quimioterapia
+T24	PROCEDIMIENTO 2047 2060	quimioterapia
+T25	PROCEDIMIENTO 2386 2404	Exploración física
+T26	PROCEDIMIENTO 2605 2632	Auscultación cardiopulmonar
+T27	PROCEDIMIENTO 3075 3082	Biopsia
+T28	PROCEDIMIENTO 3132 3141	hemograma
+T29	PROCEDIMIENTO 3785 3810	determinación de p155/140
+T30	PROCEDIMIENTO 3892 3898	PET-TC
+T31	PROCEDIMIENTO 3951 3954	PET
+T32	PROCEDIMIENTO 4369 4388	rectosigmoidoscopia
+T33	PROCEDIMIENTO 4390 4403	ecoendoscopia
+T34	PROCEDIMIENTO 4406 4408	RM
+T35	PROCEDIMIENTO 4510 4520	endoscopia
+T36	PROCEDIMIENTO 4765 4798	resección de la tumoración rectal
+T37	PROCEDIMIENTO 5392 5436	biopsia de las adenopatías retroperitoneales
+T38	PROCEDIMIENTO 5600 5617	PET posquirúrgica
+T39	PROCEDIMIENTO 5796 5808	colonoscopia
+T40	PROCEDIMIENTO 5862 5865	PET
+T41	NEG 36 39	sin
+T42	NSCO 40 78	ningún antecedente personal de interés
+T43	NEG 357 362	cedió
+T44	NSCO 363 376	con buscapina
+T45	NEG 416 429	descartándose
+T46	NSCO 430 462	el origen ginecológico del mismo
+T47	NEG 852 855	sin
+T48	NSCO 856 876	inflamación asociada
+T49	NEG 1033 1035	No
+T50	NSCO 1036 1074	presentaba anorexia ni pérdida de peso
+T51	NEG 1621 1624	sin
+T52	NSCO 1625 1661	invasión linfovascular ni perineural
+T53	NEG 2466 2469	Sin
+T54	NSCO 2470 2491	adenopatías palpables
+T55	NEG 2571 2573	No
+T56	NSCO 2574 2603	hay otras lesiones en la piel
+T57	NEG 2634 2637	sin
+T58	NSCO 2638 2647	hallazgos
+T59	NEG 2666 2668	no
+T60	NSCO 2669 2677	doloroso
+T61	NEG 2679 2682	sin
+T62	NSCO 2683 2752	signos de irritación peritoneal ni masas ni vísceromegalias palpables
+T63	NEG 2754 2757	Sin
+T64	NSCO 2758 2813	edema en los miembros inferiores ni signos de trombosis
+T65	UNC 3083 3097	compatible con
+T66	USCO 3098 3111	lupus cutáneo
+T67	NEG 3224 3227	sin
+T68	NSCO 3228 3240	alteraciones
+T69	NEG 3369 3378	negativas
+T70	NSCO 3379 3387	para VHB
+T71	NEG 3472 3481	negativos
+T72	NEG 3824 3832	negativa
+T73	UNC 4012 4021	altamente
+T74	USCO 4022 4089	sospechosa de malignidad y una adenopatía interaortocava sospechosa
+T75	NEG 4125 4137	asintomática
+T76	NSCO 4565 4594	Los marcadores tumorales eran
+T77	NEG 4595 4604	negativos
+T78	NEG 4607 4609	no
+T79	NSCO 4610 4653	había otros datos anormales en la analítica
+T80	UNC 4668 4676	probable
+T81	USCO 4677 4714	carácter metastásico de la enfermedad
+T82	NEG 4968 4971	sin
+T83	NSCO 4972 5005	infiltrar la grasa del mesorrecto
+T84	NEG 5007 5009	No
+T85	NSCO 5010 5091	se observó invasión linfovascular ni a nivel del tumor ni en el resto de la pieza
+T86	NEG 5113 5115	no
+T87	NSCO 5116 5134	se puede descartar
+T88	NEG 5247 5250	sin
+T89	NSCO 5251 5332	origen evidente en la mucosa o una metástasis del tumor diagnosticado en el ciego
+T90	NEG 5371 5374	sin
+T91	NSCO 5375 5387	infiltración
+T92	NEG 5441 5449	negativa
+T93	NEG 5586 5595	negativos
+T94	NEG 5618 5620	no
+T95	NSCO 5621 5659	es sospechosa de afectación ganglionar
+T96	NEG 5775 5777	no
+T97	NSCO 5778 5808	era visible en la colonoscopia
+T98	UNC 5945 5951	dudosa
+T99	USCO 5952 6011	indicación de tratamiento adyuvante tras la segunda cirugía
+T100	NEG 6119 6122	Sin
+T101	NSCO 6123 6167	afectación linfática, vascular ni perineural
+T102	UNC 6265 6279	compatible con
+T103	USCO 6280 6326	afectación hematógena de la enfermedad inicial
+T104	UNC 6395 6409	compatible con
+T105	USCO 6410 6436	dermatomiositis amiopática
+T106	FARMACO 367 376	buscapina
+T107	FARMACO 621 638	hidroxicloroquina
+T108	FARMACO 1864 1879	5-fluorouracilo
+T109	FARMACO 1881 1893	oxaliplatino
+T110	FARMACO 1896 1906	leucovorín
+T111	ORG_VIVO 10 15	Mujer
+T112	ORG_VIVO 59 67	personal
+T113	ORG_VIVO 1095 1103	paciente
+T114	ORG_VIVO 1787 1795	paciente
+T115	ORG_VIVO 2009 2017	paciente
+T116	ORG_VIVO 2130 2138	paciente
+T117	ORG_VIVO 2170 2180	familiares
+T118	ORG_VIVO 2214 2219	madre
+T119	ORG_VIVO 2292 2305	tíos maternos
+T120	ORG_VIVO 2533 2541	mariposa
+T121	ORG_VIVO 3384 3387	VHB
+T122	ORG_VIVO 3389 3392	VHC
+T123	ORG_VIVO 3394 3397	VIH
+T124	ORG_VIVO 3596 3604	paciente
+T125	ORG_VIVO 4109 4117	paciente
+T126	ORG_VIVO 4166 4174	familiar
+T127	ORG_VIVO 4198 4206	paciente
+T128	ORG_VIVO 4746 4754	paciente
+T129	ORG_VIVO 5933 5941	paciente
+T130	ENFERMEDAD 135 202	lesiones pruriginosas en la región malar y en el dorso de las manos
+T131	ENFERMEDAD 495 583	lesiones violáceas en las articulaciones interfalángicas y telangiectasias periungueales
+T132	ENFERMEDAD 667 691	Enfermedades Autoinmunes
+T133	ENFERMEDAD 1292 1315	adenocarcinoma de ciego
+T134	ENFERMEDAD 1515 1538	adenocarcinoma de colon
+T135	ENFERMEDAD 2224 2252	adenocarcinoma de endometrio
+T136	ENFERMEDAD 2470 2481	adenopatías
+T137	ENFERMEDAD 2584 2603	lesiones en la piel
+T138	ENFERMEDAD 2804 2813	trombosis
+T139	ENFERMEDAD 2881 2904	cicatriz infraumbilical
+T140	ENFERMEDAD 3098 3111	lupus cutáneo
+T141	ENFERMEDAD 3519 3544	Lupus eritematoso cutáneo
+T142	ENFERMEDAD 3547 3565	anemia ferropénica
+T143	ENFERMEDAD 3753 3768	dermatomiositis
+T144	ENFERMEDAD 3918 3929	adenopatías
+T145	ENFERMEDAD 4053 4078	adenopatía interaortocava
+T146	ENFERMEDAD 4242 4259	síndrome de Lynch
+T147	ENFERMEDAD 4264 4280	mutación en MSH2
+T148	ENFERMEDAD 4838 4861	adenocarcinoma de colon
+T149	ENFERMEDAD 5286 5332	metástasis del tumor diagnosticado en el ciego
+T150	ENFERMEDAD 5407 5436	adenopatías retroperitoneales
+T151	ENFERMEDAD 5699 5712	lesión rectal
+T152	ENFERMEDAD 6048 6071	Adenocarcinoma de colon
+T153	ENFERMEDAD 6169 6186	Síndrome de Lynch
+T154	ENFERMEDAD 6188 6210	mutación MSH2 positiva
+T155	ENFERMEDAD 6213 6264	Adenocarcinoma bien diferenciado en la pared rectal
+T156	ENFERMEDAD 6371 6393	paraneoplásico cutáneo
+T157	ENFERMEDAD 6410 6436	dermatomiositis amiopática
+T158	SANITARIO-PROFESION 119 130	dermatólogo

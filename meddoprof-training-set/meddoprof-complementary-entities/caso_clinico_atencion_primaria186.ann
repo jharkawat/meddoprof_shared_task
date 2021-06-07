@@ -1,0 +1,54 @@
+T1	SINTOMA 19 55	Erupción cutánea en piernas y brazos
+T2	SINTOMA 1074 1081	prurito
+T3	SINTOMA 1085 1091	fiebre
+T4	SINTOMA 1339 1360	alteración de mucosas
+T5	SINTOMA 1446 1457	neutrofilia
+T6	PROCEDIMIENTO 484 498	punción lumbar
+T7	PROCEDIMIENTO 1155 1173	exploración física
+T8	PROCEDIMIENTO 1398 1407	Hemograma
+T9	NEG 311 313	no
+T10	NSCO 314 324	relevantes
+T11	UNC 518 529	sospecha de
+T12	USCO 530 551	meningitis bacteriana
+T13	NEG 1071 1073	no
+T14	NSCO 1074 1091	prurito ni fiebre
+T15	NEG 1093 1098	Niega
+T16	NSCO 1099 1148	enfermedad previa ni conductas sexuales de riesgo
+T17	NEG 1336 1338	No
+T18	NSCO 1339 1370	alteración de mucosas ni labios
+T19	NEG 1833 1836	sin
+T20	NSCO 1837 1842	hijos
+T21	FARMACO 120 134	ciprofloxacino
+T22	FARMACO 673 687	ciprofloxacino
+T23	FARMACO 2266 2276	prednisona
+T24	FARMACO 2475 2494	loción epitelizante
+T25	ORG_VIVO 85 93	paciente
+T26	ORG_VIVO 202 213	meningococo
+T27	ORG_VIVO 235 240	Varón
+T28	ORG_VIVO 287 297	personales
+T29	ORG_VIVO 300 310	familiares
+T30	ORG_VIVO 505 513	paciente
+T31	ORG_VIVO 608 626	personal sanitario
+T32	ORG_VIVO 649 657	paciente
+T33	ORG_VIVO 1687 1695	familiar
+T34	ORG_VIVO 1710 1715	Varón
+T35	ORG_VIVO 1752 1759	Soltero
+T36	ORG_VIVO 1769 1775	pareja
+T37	ORG_VIVO 1808 1816	familiar
+T38	ORG_VIVO 1837 1842	hijos
+T39	ORG_VIVO 1859 1874	núcleo familiar
+T40	ORG_VIVO 1938 1947	enfermero
+T41	ORG_VIVO 2325 2333	paciente
+T42	ENFERMEDAD 251 272	Alérgico a penicilina
+T43	ENFERMEDAD 530 551	meningitis bacteriana
+T44	ENFERMEDAD 800 907	lesiones cutáneas rosadas, pequeñas y discretamente pruriginosas, distribuidas por tronco, brazos y piernas
+T45	ENFERMEDAD 1965 1983	Eritema multiforme
+T46	ENFERMEDAD 2062 2076	pénfigo vulgar
+T47	ENFERMEDAD 2078 2098	penfigoide ampolloso
+T48	ENFERMEDAD 2100 2123	dermatitis herpetiforme
+T49	ENFERMEDAD 2125 2149	primoinfección herpética
+T50	ENFERMEDAD 2151 2156	lupus
+T51	ENFERMEDAD 2158 2168	vasculitis
+T52	PACIENTE-PROFESION 1938 1947	enfermero
+T53	SANITARIO-PROFESION 608 626	personal sanitario
+T54	PACIENTE-PROFESION 440 462	hospital donde trabaja

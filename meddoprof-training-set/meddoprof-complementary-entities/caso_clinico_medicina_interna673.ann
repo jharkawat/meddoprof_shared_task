@@ -1,0 +1,66 @@
+T1	SINTOMA 337 461	dolor intenso en extremidad inferior derecha de 7 días de evolución, localizado a nivel del muslo y cara posterior de pierna
+T2	SINTOMA 472 497	claudicación de la marcha
+T3	SINTOMA 1033 1064	aftas bucales dolorosas en boca
+T4	SINTOMA 2488 2504	elevación de IgG
+T5	SINTOMA 2885 2890	dolor
+T6	PROCEDIMIENTO 585 590	AINES
+T7	PROCEDIMIENTO 658 676	exploración física
+T8	PROCEDIMIENTO 1168 1225	ecografía doppler vascular de extremidad inferior derecha
+T9	PROCEDIMIENTO 1454 1478	angioTC toraco-abdominal
+T10	PROCEDIMIENTO 2557 2573	Test de patergia
+T11	PROCEDIMIENTO 2676 2696	tratamiento con HBPM
+T12	PROCEDIMIENTO 2713 2724	corticoides
+T13	PROCEDIMIENTO 2930 2937	PET-TAC
+T14	NEG 194 197	Sin
+T15	NSCO 198 272	hábitos tóxicos, alergias medicamentosas ni antecedentes médicos conocidos
+T16	NEG 617 620	sin
+T17	NSCO 621 636	mejoría clínica
+T18	NEG 677 679	no
+T19	NSCO 680 738	se destacaron signos clínicos de trombosis venosa profunda
+T20	NEG 819 822	sin
+T21	NSCO 823 882	halo ni signos de sobreinfección en borde lingual izquierdo
+T22	NEG 1127 1130	sin
+T23	NSCO 1131 1155	otra clínica acompañante
+T24	UNC 1244 1259	compatibles con
+T25	USCO 1260 1297	trombosis de vena femoral superficial
+T26	NEG 2277 2285	descartó
+T27	NSCO 2286 2343	posibilidad de retinopatía o uveítis anterior o posterior
+T28	NEG 2476 2485	negativos
+T29	NEG 2574 2582	negativo
+T30	NEG 3165 3177	se desestimó
+T31	NSCO 3178 3201	intervención quirúrgica
+T32	NEG 3206 3208	no
+T33	NSCO 3209 3235	presentar isquemia crónica
+T34	FARMACO 593 604	enoxaparina
+T35	FARMACO 2692 2696	HBPM
+T36	FARMACO 2748 2759	azatioprina
+T37	FARMACO 2780 2788	aspirina
+T38	FARMACO 2801 2811	colchicina
+T39	ORG_VIVO 0 14	Paciente varón
+T40	ORG_VIVO 102 121	manager de artistas
+T41	ORG_VIVO 1075 1083	infancia
+T42	ORG_VIVO 2054 2062	paciente
+T43	ENFERMEDAD 713 738	trombosis venosa profunda
+T44	ENFERMEDAD 805 818	aftas bucales
+T45	ENFERMEDAD 841 872	sobreinfección en borde lingual
+T46	ENFERMEDAD 893 919	aftas genitales en escroto
+T47	ENFERMEDAD 1033 1064	aftas bucales dolorosas en boca
+T48	ENFERMEDAD 1260 1297	trombosis de vena femoral superficial
+T49	ENFERMEDAD 1311 1345	trombosis en arteria femoral común
+T50	ENFERMEDAD 1384 1393	arteritis
+T51	ENFERMEDAD 1422 1440	proceso trombótico
+T52	ENFERMEDAD 1496 1561	estenosis crítica en tronco celiaco, arteria mesentérica superior
+T53	ENFERMEDAD 1567 1640	dilataciones postestenóticas), en tercio distal de arteria ilíaca externa
+T54	ENFERMEDAD 1931 1980	trombosis extensa del territorio femoro- popliteo
+T55	ENFERMEDAD 2029 2037	aortitis
+T56	ENFERMEDAD 2123 2159	aftas dolorosas bucales y escrotales
+T57	ENFERMEDAD 2205 2231	Enfermedad de Behçet y PAN
+T58	ENFERMEDAD 2301 2312	retinopatía
+T59	ENFERMEDAD 2315 2343	uveítis anterior o posterior
+T60	ENFERMEDAD 2644 2664	enfermedad de Behçet
+T61	ENFERMEDAD 2967 3000	vasculitis de mediano y gran vaso
+T62	ENFERMEDAD 3005 3033	estenosis del tronco celíaco
+T63	ENFERMEDAD 3035 3091	arteria hepática, mesentérica superior, ilíaca y femoral
+T64	ENFERMEDAD 3219 3235	isquemia crónica
+T65	ENFERMEDAD 3290 3300	vasculitis
+T66	PACIENTE-PROFESION 102 131	manager de artistas musicales

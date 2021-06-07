@@ -1,0 +1,121 @@
+T1	SINTOMA 228 235	Fumador
+T2	SINTOMA 316 357	signos inflamatorios nivel cubital distal
+T3	SINTOMA 586 618	edema de la zona del carpo/ mano
+T4	SINTOMA 952 958	fiebre
+T5	SINTOMA 969 985	sensación febril
+T6	SINTOMA 1004 1036	empeoramiento del estado general
+T7	SINTOMA 1308 1311	tos
+T8	SINTOMA 1315 1328	expectoración
+T9	SINTOMA 1469 1479	consciente
+T10	SINTOMA 1482 1491	orientado
+T11	SINTOMA 1494 1505	colaborador
+T12	SINTOMA 1534 1541	Afebril
+T13	SINTOMA 1768 1779	peritonismo
+T14	SINTOMA 1831 1859	edema que ocupa toda la mano
+T15	SINTOMA 4240 4247	afebril
+T16	PROCEDIMIENTO 417 439	ciclos de antibióticos
+T17	PROCEDIMIENTO 777 800	ciclo de antibioterapia
+T18	PROCEDIMIENTO 2161 2170	Hemograma
+T19	PROCEDIMIENTO 2432 2461	Cultivo de punción aspiración
+T20	PROCEDIMIENTO 2512 2519	Mantoux
+T21	PROCEDIMIENTO 2530 2538	Rx tórax
+T22	PROCEDIMIENTO 2635 2650	Rx mano derecha
+T23	PROCEDIMIENTO 3032 3057	Ecografía de mano derecha
+T24	PROCEDIMIENTO 3498 3517	RMN de mano derecha
+T25	PROCEDIMIENTO 4297 4320	tratamiento antibiótico
+T26	PROCEDIMIENTO 4535 4618	biopsia de sinovial del extensor común de los dedos ( tercer compartimento extensor
+T27	PROCEDIMIENTO 4626 4641	anestesia local
+T28	PROCEDIMIENTO 4693 4716	cultivo de mycobaterias
+T29	PROCEDIMIENTO 4769 4774	AINEs
+T30	PROCEDIMIENTO 4794 4822	cultivos de biopsia sinovial
+T31	NEG 160 162	No
+T32	NSCO 163 208	otros antecedentes epidemiológicos de interés
+T33	NEG 210 212	No
+T34	NSCO 213 226	RAM conocidas
+T35	NEG 924 926	NO
+T36	NSCO 927 958	refiere haber presentado fiebre
+T37	NEG 986 988	no
+T38	NSCO 989 1001	termometrada
+T39	NEG 1103 1105	No
+T40	NSCO 1106 1132	refiere picadura de animal
+T41	NEG 1134 1136	no
+T42	NSCO 1137 1192	manipulación de agua ni alimentos ni traumatismo previo
+T43	NEG 1298 1300	NO
+T44	NSCO 1301 1328	cuenta tos ni expectoración
+T45	NEG 1330 1332	no
+T46	NSCO 1333 1433	conoce enfermedades en convivientes de su domicilio ni cuenta otra clínica acompañante por aparatos
+T47	NEG 1534 1541	Afebril
+T48	NEG 1543 1545	No
+T49	NSCO 1546 1569	adenopatías periféricas
+T50	NEG 1582 1585	sin
+T51	NSCO 1586 1601	soplos audibles
+T52	NEG 1696 1698	no
+T53	NSCO 1699 1722	doloroso a la palpación
+T54	NEG 1724 1726	NO
+T55	NSCO 1727 1779	se palpan masas ni megalias ni signos de peritonismo
+T56	UNC 1925 1934	no claros
+T57	USCO 1935 1956	cambios de coloración
+T58	NEG 2010 2012	NO
+T59	NSCO 2013 2035	crepitación de la zona
+T60	NEG 2041 2044	sin
+T61	NSCO 2045 2054	hallazgos
+T62	NEG 2109 2112	Sin
+T63	NSCO 2113 2133	hallazgos relevantes
+T64	NEG 2423 2431	negativo
+T65	NSCO 2432 2501	Cultivo de punción aspiración con jeringa de exudado/ absceso cutáneo
+T66	NEG 2502 2510	negativo
+T67	NEG 2592 2595	sin
+T68	NSCO 2596 2633	hallazgos radiológicos significativos
+T69	UNC 2991 3010	primera posibilidad
+T70	USCO 3011 3030	artritis infecciosa
+T71	UNC 3469 3477	probable
+T72	USCO 3478 3497	contenido purulento
+T73	UNC 3532 3547	compatibles con
+T74	USCO 3548 3579	artritis infecciosas de muñeca
+T75	NEG 3750 3753	sin
+T76	NSCO 3754 3800	erosiones o destrucción ósea actual apreciable
+T77	UNC 4092 4099	parecen
+T78	USCO 4100 4132	improbables ante estos hallazgos
+T79	NEG 4134 4136	NO
+T80	NSCO 4137 4166	otras alteraciones de interés
+T81	NEG 4240 4247	afebril
+T82	NEG 4392 4404	se le retira
+T83	NSCO 4405 4412	ante la
+T84	NEG 4413 4421	falta de
+T85	NSCO 4422 4474	mejoría de la clínica y cultivos en varias ocasiones
+T86	NEG 4475 4484	negativos
+T87	NEG 4643 4646	sin
+T88	NSCO 4647 4661	complicaciones
+T89	UNC 4833 4844	sospecha de
+T90	USCO 4845 4857	artritis TBC
+T91	FARMACO 486 497	cloxacilina
+T92	FARMACO 805 829	amoxicilina/ clavulánico
+T93	FARMACO 4325 4339	Ciprofloxacino
+T94	FARMACO 4342 4354	Clindamicina
+T95	ORG_VIVO 13 23	personales
+T96	ORG_VIVO 25 30	Varón
+T97	ORG_VIVO 68 88	trabajador del campo
+T98	ORG_VIVO 90 110	conductor de tractor
+T99	ORG_VIVO 125 133	personas
+T100	ORG_VIVO 279 287	Paciente
+T101	ORG_VIVO 388 396	paciente
+T102	ORG_VIVO 444 462	medico de cabecera
+T103	ORG_VIVO 1076 1079	MAP
+T104	ORG_VIVO 1126 1132	animal
+T105	ORG_VIVO 1356 1368	convivientes
+T106	ORG_VIVO 2419 2422	VIH
+T107	ORG_VIVO 4212 4220	paciente
+T108	ORG_VIVO 4740 4748	paciente
+T109	ORG_VIVO 4872 4880	paciente
+T110	ENFERMEDAD 1546 1569	adenopatías periféricas
+T111	ENFERMEDAD 1602 1604	AR
+T112	ENFERMEDAD 1962 2008	lesión costrosa a nivel de zona cubital distal
+T113	ENFERMEDAD 3011 3030	artritis infecciosa
+T114	ENFERMEDAD 3548 3579	artritis infecciosas de muñeca
+T115	ENFERMEDAD 3735 3748	osteomielitis
+T116	ENFERMEDAD 4845 4857	artritis TBC
+T117	ENFERMEDAD 4905 4920	ENf infecciosas
+T118	SANITARIO-PROFESION 1076 1079	MAP
+T119	PACIENTE-PROFESION 90 110	conductor de tractor
+T120	SANITARIO-PROFESION 444 462	medico de cabecera
+T121	PACIENTE-PROFESION 68 88	trabajador del campo

@@ -1,0 +1,16 @@
+T1	SINTOMA 325 337	defecto óseo
+T2	SINTOMA 1080 1092	defecto óseo
+T3	PROCEDIMIENTO 439 456	test de vitalidad
+T4	PROCEDIMIENTO 560 583	tratamiento periodontal
+T5	PROCEDIMIENTO 982 1007	relleno óseo radiográfico
+T6	PROCEDIMIENTO 1095 1133	reducción de la profundidad de sondaje
+T7	NEG 515 523	negativa
+T8	NEG 584 586	no
+T9	NSCO 587 663	quirúrgico en dos sesiones con administración sistémica de Amoxicilina 500mg
+T10	UNC 955 970	compatibles con
+T11	USCO 971 976	salud
+T12	FARMACO 646 657	Amoxicilina
+T13	FARMACO 666 678	Metronidazol
+T14	ENFERMEDAD 38 68	periodontitis crónica moderada
+T15	ENFERMEDAD 223 257	absceso periodontal a nivel mesial
+T16	ENFERMEDAD 340 374	absceso periodontal a nivel mesial

@@ -1,0 +1,23 @@
+Anamnesis
+Se nos presenta el caso de un paciente, un varón de 59 años de edad, que acude al Servicio de Urgencias motivado por una alteración en el lenguaje. La anamnesis revela la ausencia de alergias a sustancias medicamentosas, problemas médicos e intervenciones quirúrgicas previas. No refiere la toma de tratamientos farmacológicos de forma habitual. Sí nos confirma la tenencia de hábitos tóxicos, siendo entonces fumador activo de unos 40 cigarrillos diarios, y bebedor de unas dos copas de whisky cada día (según sus propias palabras). El apartado de enfermedad actual nos muestra el relato de un cuadro de 4 días de evolución que se inicia con vómitos acompañados de despeño diarreico, con fiebre de 38,5 oC, junto con dolores generalizados a nivel de las articulaciones, fundamentalmente en la zona lumbar. Por su propia cuenta comienza tratamiento con analgesia y antitérmicos, persistiendo la fiebre termometrada, el malestar general, la debilidad y los dolores, estando estos intensificados el día previo a su visita a Urgencias en la zona cervical. Refiere episodios de dificultad en el lenguaje, tras los cuales presenta una lentitud en el habla, bradipsiquia y debilidad.
+
+Examen físico
+En la exploración general destaca la persistencia de un estado febril; cráneo, cuello, tórax y abdomen estrictamente normales. Normotenso. Auscultación carotídea normal. Auscultación cardiorrespiratoria: demostraba la presencia de tonos rítmicos y puros, sin soplos, y un murmullo vesicular pulmonar presente y normal. A nivel de las extremidades de palpaban los pulsos periféricos.
+Exploración neurológica: paciente alerta, bradipsíquico, parcialmente orientado en el espacio y en el tiempo. Pupilas isocóricas y normorreactivas con un fondo de ojo dentro de la normalidad. Disfasia mixta de predominio motor. Pares craneales no afectados. Pronación del miembro superior derecho. No existen alteraciones a nivel sensitivo. Reflejos osteotendinosos respetados. Reflejo cutáneo-plantar flexor bilateralmente. El paciente no presenta dismetrías y la marcha es normal.
+
+Pruebas complementarias
+• Analíticas: solo destaca una ligera macrocitosis con una VCM de 102,3 fl. Resto del hemograma, bioquímica, hemostasia y gasometría venosa dentro de los parámetros de normalidad.
+• Punción lumbar: presencia en el líquido cefalorraquídeo de leucocitos 5/mm3, hematíes 2/mm3, glucosa 59 mg/dl, proteínas 0,57 g/dl. Carga viral de CMV, VEB, VHS1 y VHS2 no detectable. Cultivo negativo.
+• Electroencefalografía de vigilia: actividad de base ligeramente lentificada, sobre la cual aparecen paroxismos de punta y onda lenta (delta) hipervoltados en la región temporal anterior del hemisferio izquierdo compatible con focalidad lesivo-irritativa.
+• Radiografía de tórax: normal.
+• TC de cráneo sin contraste: imagen hiperdensa lineal extraaxial témporo-occipital izquierda sin que se asocie edema, efecto masa o desplazamiento de la línea media.
+• Angio-RM de cráneo: trombosis de la vena cortical superficial izquierda, la denominada vena de Trolard, sin que se presente alteración adicional alguna. Trombosis de la vena de Trolard.
+
+Diagnóstico
+Trombosis de la vena anastomótica superior o de Trolard. Asociación de tabaquismo y etilismo como diagnósticos secundarios.
+
+Tratamiento
+Se inicia tratamiento tras su ingreso con enoxaparina, acudiendo a los pocos días a consulta de Hematología para iniciar tratamiento con acenocumarol, omeprazol y ácido valproico. Todo esto con abstinencia completa de tabaco y alcohol.
+
+Evolución
+El paciente presenta mejoría, sin incidencias hasta el momento del alta al sexto día. En la siguiente revisión a los 3 meses, el paciente presenta iatrogenia por el tratamiento con ácido valproico en forma de debilidad y marcha ligeramente inestable, motivo por el cual se disminuye la dosis del mismo.

@@ -1,0 +1,167 @@
+T1	SINTOMA 1616 1623	astenia
+T2	SINTOMA 1626 1635	debilidad
+T3	SINTOMA 1662 1668	antess
+T4	SINTOMA 1670 1700	desorientación temporoespacial
+T5	SINTOMA 1702 1710	disfagia
+T6	SINTOMA 1724 1734	odinofagia
+T7	SINTOMA 1739 1759	rechazo de alimentos
+T8	SINTOMA 2581 2617	disminución del nivel de consciencia
+T9	SINTOMA 2683 2695	bradipsiquia
+T10	SINTOMA 2713 2724	somnolencia
+T11	SINTOMA 2885 2893	sensorio
+T12	SINTOMA 4342 4378	Disminución del nivel de consciencia
+T13	SINTOMA 4397 4415	estímulos verbales
+T14	SINTOMA 4417 4428	somnolencia
+T15	SINTOMA 4430 4442	bradipsiquia
+T16	SINTOMA 4647 4659	bradipsiquia
+T17	SINTOMA 6616 6623	astenia
+T18	SINTOMA 6680 6688	mialgias
+T19	SINTOMA 6690 6700	artralgias
+T20	SINTOMA 6703 6715	encamamiento
+T21	SINTOMA 7497 7515	intento autolítico
+T22	SINTOMA 8072 8083	trombopenia
+T23	SINTOMA 8207 8217	leucopenia
+T24	SINTOMA 8220 8231	neutropenia
+T25	SINTOMA 8534 8542	lagrimeo
+T26	SINTOMA 8544 8577	alteración de la función hepática
+T27	SINTOMA 8773 8800	síntomas gastrointestinales
+T28	SINTOMA 8805 8820	dolor abdominal
+T29	SINTOMA 8825 8831	emesis
+T30	PROCEDIMIENTO 287 327	mastectomía radical modificada izquierda
+T31	PROCEDIMIENTO 341 354	quimioterapia
+T32	PROCEDIMIENTO 435 453	radioterapia local
+T33	PROCEDIMIENTO 456 485	hormonoterapia con tamoxifeno
+T34	PROCEDIMIENTO 958 987	radioterapia antiálgica local
+T35	PROCEDIMIENTO 1143 1179	tratamiento hormonal con fulvestrant
+T36	PROCEDIMIENTO 1289 1302	estudio de RM
+T37	PROCEDIMIENTO 1491 1503	radioterapia
+T38	PROCEDIMIENTO 2129 2141	radioterapia
+T39	PROCEDIMIENTO 3454 3467	Examen físico
+T40	PROCEDIMIENTO 4113 4140	Auscultación cardiopulmonar
+T41	PROCEDIMIENTO 4161 4182	Exploración abdominal
+T42	PROCEDIMIENTO 5299 5319	Radiografía de tórax
+T43	PROCEDIMIENTO 5392 5395	ECG
+T44	PROCEDIMIENTO 5814 5824	esteroides
+T45	PROCEDIMIENTO 5827 5841	antidepresivos
+T46	PROCEDIMIENTO 6102 6116	corticoterapia
+T47	PROCEDIMIENTO 6757 6768	corticoides
+T48	PROCEDIMIENTO 7762 7777	benzodiacepinas
+T49	PROCEDIMIENTO 8931 8942	analgésicos
+T50	PROCEDIMIENTO 8945 8956	corticoides
+T51	NEG 84 87	sin
+T52	NSCO 88 127	antecedentes médicos de interés previos
+T53	NEG 786 789	sin
+T54	NSCO 790 801	incidencias
+T55	NEG 1670 1684	desorientación
+T56	NEG 2634 2637	sin
+T57	NSCO 2638 2647	respuesta
+T58	NEG 2648 2650	no
+T59	NSCO 2651 2681	coherente a estímulos verbales
+T60	NEG 2726 2729	sin
+T61	NSCO 2730 2751	focalidad neurológica
+T62	NEG 2819 2830	suspendidos
+T63	NEG 3015 3017	no
+T64	NSCO 3018 3057	asumido como propia voluntad consciente
+T65	NEG 3670 3673	sin
+T66	NSCO 3674 3734	respuesta coherente a razonamientos objetivos proporcionados
+T67	NEG 4141 4144	sin
+T68	NSCO 4145 4157	alteraciones
+T69	NEG 4194 4197	Sin
+T70	NSCO 4198 4219	focalidad neurológica
+T71	NEG 4444 4447	sin
+T72	NSCO 4448 4469	focalidad neurológica
+T73	UNC 4481 4493	sugestivo de
+T74	USCO 4494 4531	encefalopatía metabólica inespecífica
+T75	NEG 4692 4695	sin
+T76	NSCO 4696 4756	manifestar las mismas preocupaciones que en los días previos
+T77	NEG 5321 5324	sin
+T78	NSCO 5325 5388	evidencia de patología parenquimatosa pulmonar ni pleural aguda
+T79	NEG 5462 5465	Sin
+T80	NSCO 5466 5499	alteraciones de la repolarización
+T81	NEG 6126 6136	suspensión
+T82	NSCO 6137 6145	completa
+T83	NEG 6218 6232	Suspensión del
+T84	NSCO 6233 6241	imatinib
+T85	NEG 7045 7060	desaparición de
+T86	NSCO 7061 7083	toda la sintomatología
+T87	NEG 8761 8763	no
+T88	NSCO 8764 8831	presentó síntomas gastrointestinales (ni dolor abdominal, ni emesis
+T89	UNC 8875 8882	posible
+T90	USCO 8883 8929	que el tratamiento concurrente con haloperidol
+T91	FARMACO 382 396	ciclofosfamida
+T92	FARMACO 398 409	metotrexato
+T93	FARMACO 411 415	5-FU
+T94	FARMACO 475 485	tamoxifeno
+T95	FARMACO 619 627	imatinib
+T96	FARMACO 921 931	exemestano
+T97	FARMACO 1168 1179	fulvestrant
+T98	FARMACO 1438 1450	dexametasona
+T99	FARMACO 2245 2257	dexametasona
+T100	FARMACO 2338 2352	benzodiacepina
+T101	FARMACO 2363 2371	zolpidem
+T102	FARMACO 2413 2424	haloperidol
+T103	FARMACO 3144 3152	zolpidem
+T104	FARMACO 3192 3200	imatinib
+T105	FARMACO 5965 5973	imatinib
+T106	FARMACO 6233 6241	imatinib
+T107	FARMACO 6320 6332	escitalopram
+T108	FARMACO 7653 7665	dexametasona
+T109	FARMACO 7794 7802	zolpidem
+T110	FARMACO 7847 7858	haloperidol
+T111	FARMACO 8016 8024	imatinib
+T112	FARMACO 8459 8467	imatinib
+T113	FARMACO 8918 8929	haloperidol
+T114	ORG_VIVO 37 42	mujer
+T115	ORG_VIVO 667 675	paciente
+T116	ORG_VIVO 1586 1594	familiar
+T117	ORG_VIVO 1642 1650	paciente
+T118	ORG_VIVO 2562 2576	guardia médica
+T119	ORG_VIVO 2624 2632	paciente
+T120	ORG_VIVO 2910 2918	paciente
+T121	ORG_VIVO 2962 2970	paciente
+T122	ORG_VIVO 3311 3321	personales
+T123	ORG_VIVO 3547 3554	persona
+T124	ORG_VIVO 3660 3668	familiar
+T125	ORG_VIVO 3742 3748	médico
+T126	ORG_VIVO 3754 3762	familiar
+T127	ORG_VIVO 3984 3991	cónyuge
+T128	ORG_VIVO 7122 7130	paciente
+T129	ORG_VIVO 7352 7360	paciente
+T130	ORG_VIVO 7826 7834	paciente
+T131	ORG_VIVO 8752 8760	paciente
+T132	ENFERMEDAD 157 196	carcinoma ductal infiltrante de la mama
+T133	ENFERMEDAD 560 585	leucemia mieloide crónica
+T134	ENFERMEDAD 741 755	cáncer de mama
+T135	ENFERMEDAD 850 881	recaída ósea a nivel del húmero
+T136	ENFERMEDAD 1245 1266	mielopatía compresiva
+T137	ENFERMEDAD 1329 1393	lesiones óseas vertebrales con compromiso medular a nivel dorsal
+T138	ENFERMEDAD 2104 2124	mucositis/esofagitis
+T139	ENFERMEDAD 2143 2181	miopatía cortisólica proximal moderada
+T140	ENFERMEDAD 2184 2203	psicosis esteroidea
+T141	ENFERMEDAD 3558 3575	Ideación obsesiva
+T142	ENFERMEDAD 4068 4082	mucositis oral
+T143	ENFERMEDAD 4087 4109	sobreinfección fúngica
+T144	ENFERMEDAD 4494 4531	encefalopatía metabólica inespecífica
+T145	ENFERMEDAD 5110 5151	síndrome depresivo reactivo leve-moderado
+T146	ENFERMEDAD 5338 5371	patología parenquimatosa pulmonar
+T147	ENFERMEDAD 5375 5388	pleural aguda
+T148	ENFERMEDAD 5516 5552	Carcinoma ductal infiltrante de mama
+T149	ENFERMEDAD 5568 5612	enfermedad metastásica múltiple a nivel óseo
+T150	ENFERMEDAD 5616 5635	Psicosis esteroidea
+T151	ENFERMEDAD 5658 5687	trastorno mental especificado
+T152	ENFERMEDAD 5706 5725	disfunción cerebral
+T153	ENFERMEDAD 5730 5749	enfermedad somática
+T154	ENFERMEDAD 5846 5875	Ingesta medicamentosa furtiva
+T155	ENFERMEDAD 6362 6371	Mucositis
+T156	ENFERMEDAD 6374 6384	esofagitis
+T157	ENFERMEDAD 6735 6754	miopatía secundaria
+T158	ENFERMEDAD 6861 6880	psicosis esteroidea
+T159	ENFERMEDAD 6920 6940	encefalopatía tóxica
+T160	ENFERMEDAD 6946 6966	síndrome confusional
+T161	ENFERMEDAD 7578 7586	Psicosis
+T162	ENFERMEDAD 7712 7736	Encefalopatía metabólica
+T163	ENFERMEDAD 7751 7777	ingesta de benzodiacepinas
+T164	ENFERMEDAD 7989 8011	Toxicidad hematológica
+T165	ENFERMEDAD 8207 8217	leucopenia
+T166	ENFERMEDAD 8220 8231	neutropenia
+T167	SANITARIO-PROFESION 3742 3748	médico

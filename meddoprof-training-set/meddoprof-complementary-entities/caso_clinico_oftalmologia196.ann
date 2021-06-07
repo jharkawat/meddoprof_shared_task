@@ -1,0 +1,33 @@
+T1	PROCEDIMIENTO 695 737	exploración funduscópica del ojo izquierdo
+T2	PROCEDIMIENTO 911 942	tomografía de coherencia óptica
+T3	PROCEDIMIENTO 944 947	OCT
+T4	PROCEDIMIENTO 954 975	estudios de contraste
+T5	PROCEDIMIENTO 977 1003	angiografía fluoresceínica
+T6	PROCEDIMIENTO 1006 1042	angiografía con verde de indocianina
+T7	PROCEDIMIENTO 1201 1221	terapia fotodinámica
+T8	PROCEDIMIENTO 1223 1226	TFD
+T9	NEG 125 128	sin
+T10	NSCO 129 147	tratamiento previo
+T11	UNC 225 236	sospecha de
+T12	USCO 237 268	neovascularización intratumoral
+T13	NEG 376 378	no
+T14	NSCO 379 409	evidenció hallazgos de interés
+T15	NEG 738 740	no
+T16	NSCO 741 760	mostró alteraciones
+T17	UNC 1058 1069	sospecha de
+T18	USCO 1070 1101	neovascularización subretiniana
+T19	NEG 1129 1131	no
+T20	NSCO 1132 1148	fue determinante
+T21	NEG 1405 1408	sin
+T22	NSCO 1409 1423	complicaciones
+T23	NEG 1530 1546	desaparición del
+T24	NSCO 1547 1566	fluido subretiniano
+T25	NEG 1616 1627	ausencia de
+T26	NSCO 1628 1634	efecto
+T27	ORG_VIVO 27 35	paciente
+T28	ENFERMEDAD 73 99	osteoma coroideo en el ojo
+T29	ENFERMEDAD 237 268	neovascularización intratumoral
+T30	ENFERMEDAD 618 640	metaplasia pigmentaria
+T31	ENFERMEDAD 650 678	hemorragias intrarretinianas
+T32	ENFERMEDAD 1070 1101	neovascularización subretiniana
+T33	ENFERMEDAD 1505 1525	membrana neovascular

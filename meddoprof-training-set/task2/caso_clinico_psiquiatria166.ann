@@ -1,0 +1,11 @@
+T1	SANITARIO 1426 1439	especialistas
+T2	SANITARIO 1663 1676	especialistas
+T4	SANITARIO 1767 1773	médico
+T5	SANITARIO 40 58	médico de cabecera
+T6	PACIENTE 470 515	comienza a trabajar en una fábrica de calzado
+T7	PACIENTE 615 662	comienza a trabajar en un supermercado familiar
+T8	PACIENTE 668 679	dependienta
+T9	PACIENTE 541 574	se dedica a las tareas de la casa
+T10	PACIENTE 751 767	dejó de trabajar
+T11	PACIENTE 973 982	desempleo
+T3	SANITARIO 2612 2620	logopeda

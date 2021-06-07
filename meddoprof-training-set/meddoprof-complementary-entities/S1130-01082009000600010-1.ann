@@ -1,0 +1,73 @@
+T1	SINTOMA 456 484	deterioro del estado general
+T2	SINTOMA 486 495	ictericia
+T3	SINTOMA 498 529	aumento del perímetro abdominal
+T4	SINTOMA 738 768	alteración del perfil hepático
+T5	SINTOMA 1001 1011	colestasis
+T6	SINTOMA 1018 1033	trombocitopenia
+T7	SINTOMA 1909 1923	esplenomegalia
+T8	SINTOMA 2171 2192	ictericia mucocutánea
+T9	SINTOMA 2242 2275	deterioro del nivel de conciencia
+T10	SINTOMA 3305 3312	Fallece
+T11	SINTOMA 3386 3399	fallecimiento
+T12	SINTOMA 4524 4552	juanegeavalenzuela@gmail.com
+T13	PROCEDIMIENTO 1305 1329	estudio de autoinmunidad
+T14	PROCEDIMIENTO 1530 1539	hemograma
+T15	PROCEDIMIENTO 1575 1599	estudio de ferrocinética
+T16	PROCEDIMIENTO 1601 1614	proteinograma
+T17	PROCEDIMIENTO 1776 1798	ecografías abdominales
+T18	PROCEDIMIENTO 1929 1959	estudios de TAC, uno abdominal
+T19	PROCEDIMIENTO 1968 1984	abdómino-pélvico
+T20	PROCEDIMIENTO 2659 2678	ecografía abdominal
+T21	PROCEDIMIENTO 2799 2827	resonancia magnética nuclear
+T22	PROCEDIMIENTO 2991 3020	biopsia hepática transyugular
+T23	PROCEDIMIENTO 3090 3097	biopsia
+T24	PROCEDIMIENTO 3207 3227	ventilación mecánica
+T25	PROCEDIMIENTO 3229 3251	intubación orotraqueal
+T26	PROCEDIMIENTO 3334 3350	biopsia hepática
+T27	PROCEDIMIENTO 3566 3575	necropsia
+T28	PROCEDIMIENTO 4524 4552	juanegeavalenzuela@gmail.com
+T29	NEG 596 598	no
+T30	NSCO 599 620	tiene hábitos tóxicos
+T31	NEG 1339 1347	negativo
+T32	NEG 2210 2212	no
+T33	NSCO 2213 2222	a tensión
+T34	NEG 2628 2637	negativas
+T35	UNC 2842 2857	compatibles con
+T36	USCO 2858 2888	cirrosis hepática macronodular
+T37	NEG 3022 3024	No
+T38	NEG 3522 3525	sin
+T39	NSCO 3526 3553	que estas presenten mitosis
+T40	UNC 4250 4264	compatible con
+T41	USCO 4265 4295	angiosarcoma hepático primario
+T42	ORG_VIVO 381 386	varón
+T43	ORG_VIVO 534 542	paciente
+T44	ORG_VIVO 556 564	auxiliar
+T45	ORG_VIVO 586 593	notario
+T46	ORG_VIVO 829 839	personales
+T47	ORG_VIVO 842 852	familiares
+T48	ORG_VIVO 1396 1414	virus hepatotropos
+T49	ORG_VIVO 1421 1424	VIH
+T50	ORG_VIVO 1686 1694	paciente
+T51	ORG_VIVO 2280 2288	paciente
+T52	ORG_VIVO 2570 2573	VHB
+T53	ORG_VIVO 2575 2578	VHC
+T54	ORG_VIVO 2580 2583	VIH
+T55	ORG_VIVO 2585 2588	CMV
+T56	ORG_VIVO 2591 2612	virus de Epstein Barr
+T57	ORG_VIVO 3102 3110	paciente
+T58	ORG_VIVO 3404 3411	enfermo
+T59	ENFERMEDAD 787 797	colestasis
+T60	ENFERMEDAD 1001 1011	colestasis
+T61	ENFERMEDAD 1909 1923	esplenomegalia
+T62	ENFERMEDAD 2171 2199	ictericia mucocutánea franca
+T63	ENFERMEDAD 2202 2209	ascitis
+T64	ENFERMEDAD 2695 2737	hígado con estigmas de hepatopatía crónica
+T65	ENFERMEDAD 2858 2888	cirrosis hepática macronodular
+T66	ENFERMEDAD 2891 2927	ascitis perihepática y periesplénica
+T67	ENFERMEDAD 3283 3303	distrés respiratorio
+T68	ENFERMEDAD 3471 3479	peliosis
+T69	ENFERMEDAD 3803 3813	colestasis
+T70	ENFERMEDAD 3843 3867	proliferación neoplásica
+T71	ENFERMEDAD 4265 4295	angiosarcoma hepático primario
+T72	SANITARIO-PROFESION 311 317	Médico
+T73	PACIENTE-PROFESION 556 593	auxiliar en el despacho de un notario

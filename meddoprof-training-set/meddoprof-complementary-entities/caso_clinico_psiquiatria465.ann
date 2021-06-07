@@ -1,0 +1,194 @@
+T1	SINTOMA 1710 1737	alteraciones de la conducta
+T2	SINTOMA 2002 2031	alteraciones sensoperceptivas
+T3	SINTOMA 2076 2084	delirios
+T4	SINTOMA 2088 2101	alucinaciones
+T5	SINTOMA 2455 2479	sintomatología psicótica
+T6	SINTOMA 4133 4139	alogia
+T7	SINTOMA 4146 4158	impulsividad
+T8	SINTOMA 4173 4201	agresividad ante frustración
+T9	SINTOMA 7613 7633	desinhibición motora
+T10	SINTOMA 7635 7642	euforia
+T11	SINTOMA 7645 7654	verborrea
+T12	SINTOMA 7670 7682	impulsividad
+T13	SINTOMA 8855 8869	actitud hostil
+T14	SINTOMA 8872 8881	disfórica
+T15	SINTOMA 8894 8907	irritabilidad
+T16	SINTOMA 8926 8945	ideación autolítica
+T17	SINTOMA 9099 9105	mareos
+T18	SINTOMA 9107 9124	sialorrea intensa
+T19	SINTOMA 9127 9145	sudoración profusa
+T20	PROCEDIMIENTO 347 372	terapia electroconvulsiva
+T21	PROCEDIMIENTO 3877 3911	tratamientos antipsicóticos orales
+T22	PROCEDIMIENTO 4312 4337	terapia electroconvulsiva
+T23	PROCEDIMIENTO 4892 4917	terapia electroconvulsiva
+T24	PROCEDIMIENTO 5499 5519	Aplicación de Escala
+T25	PROCEDIMIENTO 6233 6247	Ecocardiograma
+T26	PROCEDIMIENTO 6294 6319	TAC craneal sin contraste
+T27	PROCEDIMIENTO 6385 6400	Biopsia cutánea
+T28	PROCEDIMIENTO 6460 6463	EEG
+T29	PROCEDIMIENTO 6490 6493	EEG
+T30	PROCEDIMIENTO 6522 6525	EEG
+T31	PROCEDIMIENTO 6671 6674	EEG
+T32	PROCEDIMIENTO 6925 6944	Ecografía abdominal
+T33	PROCEDIMIENTO 6956 6968	espirometría
+T34	PROCEDIMIENTO 7583 7608	terapia electroconvulsiva
+T35	PROCEDIMIENTO 9717 9735	exploración física
+T36	PROCEDIMIENTO 9738 9741	ECG
+T37	PROCEDIMIENTO 9784 9798	ecocardiograma
+T38	PROCEDIMIENTO 10033 10063	tratamiento psicofarmacológico
+T39	NEG 1082 1084	No
+T40	NSCO 1085 1118	alergias medicamentosas conocidas
+T41	NEG 1977 1979	no
+T42	NSCO 1980 2126	se habían evidenciado alteraciones sensoperceptivas y en ninguno de los ingresos se constataron delirios ni alucinaciones ni intentos de autolisis
+T43	NEG 2646 2654	negativa
+T44	NSCO 2655 2721	a tomar la medicación y heteroagresividad con amenazas autolíticas
+T45	NEG 2784 2795	ausencia de
+T46	NSCO 2796 2835	recursos residenciales y sociales a los
+T47	NEG 2869 2877	negativa
+T48	NEG 3002 3010	falta de
+T49	NSCO 3011 3045	respuesta con otros antipsicóticos
+T50	UNC 3376 3383	posible
+T51	USCO 3384 3414	efecto secundario coincidiendo
+T52	NEG 3454 3465	retirada de
+T53	NSCO 3466 3476	clonazepam
+T54	NEG 4060 4068	negativa
+T55	NEG 4383 4385	no
+T56	NSCO 4386 4423	pudo realizarse el tratamiento por la
+T57	NEG 4424 4432	negativa
+T58	NSCO 4433 4495	a firmar el consentimiento informado por parte de la fundación
+T59	NEG 5298 5300	no
+T60	NSCO 5301 5336	objetivándose resultados relevantes
+T61	NEG 5970 5979	imposible
+T62	NSCO 5980 5990	aplicación
+T63	NEG 6306 6309	sin
+T64	NSCO 6310 6319	contraste
+T65	NEG 6336 6338	no
+T66	NSCO 6339 6383	se observan hallazgos patológicos reseñables
+T67	NEG 6618 6620	No
+T68	NSCO 6621 6660	se considera necesario volver a citarlo
+T69	UNC 6987 7001	compatible con
+T70	USCO 7002 7034	patrón restrictivo de grado leve
+T71	NEG 7035 7038	sin
+T72	NSCO 7039 7097	cambios significativos tras administrar beta2 adrenérgicos
+T73	NEG 7099 7109	Se orienta
+T74	NSCO 7110 7138	como poliglobulia secundaria
+T75	UNC 7338 7344	podría
+T76	USCO 7345 7427	haberse planteado un posible Trastorno bipolar tipo II o Trastorno esquizoafectivo
+T77	NEG 8111 8114	sin
+T78	NSCO 8115 8124	respuesta
+T79	NEG 8138 8146	falta de
+T80	NSCO 8147 8168	respuesta terapéutica
+T81	NEG 8502 8514	retirada del
+T82	NSCO 8515 8525	clonazepam
+T83	NEG 8815 8823	negativa
+T84	NSCO 8824 8853	con clínica delirante florida
+T85	NEG 9019 9021	No
+T86	NEG 9031 9033	no
+T87	NSCO 9034 9060	experimentó mejoría alguna
+T88	UNC 9349 9356	posible
+T89	USCO 9357 9404	trastorno de la metabolización del neuroléptico
+T90	NEG 9803 9805	no
+T91	NSCO 9806 9834	mostró hallazgos patológicos
+T92	NEG 9873 9881	retirado
+T93	NSCO 9882 9908	finalmente en febrero/2008
+T94	NEG 9985 9988	sin
+T95	NSCO 9989 10014	resultados significativos
+T96	UNC 10891 10897	podría
+T97	USCO 10898 10936	vivir el paciente junto a otro usuario
+T98	NEG 11191 11194	sin
+T99	NSCO 11195 11221	ningún tipo de incidencias
+T100	FARMACO 3195 3204	clozapina
+T101	FARMACO 3466 3476	clonazepam
+T102	FARMACO 7737 7752	ácido valproico
+T103	FARMACO 8071 8084	zuclopentixol
+T104	FARMACO 8086 8097	risperidona
+T105	FARMACO 8099 8109	olanzapina
+T106	FARMACO 8322 8331	clozapina
+T107	FARMACO 8515 8525	clonazepam
+T108	FARMACO 8627 8636	clozapina
+T109	FARMACO 8650 8660	clonazepam
+T110	FARMACO 8970 8979	clozapina
+T111	FARMACO 9217 9227	clonazepam
+T112	FARMACO 9310 9319	clozapina
+T113	FARMACO 9862 9872	propanolol
+T114	FARMACO 12201 12210	valproato
+T115	FARMACO 12224 12235	amisulprida
+T116	FARMACO 12246 12255	clozapina
+T117	FARMACO 12266 12278	paliperidona
+T118	FARMACO 12289 12311	clorazepato dipotásico
+T119	ORG_VIVO 15 23	paciente
+T120	ORG_VIVO 410 420	personales
+T121	ORG_VIVO 452 458	Padres
+T122	ORG_VIVO 488 496	hermanos
+T123	ORG_VIVO 518 526	familiar
+T124	ORG_VIVO 660 667	hermana
+T125	ORG_VIVO 679 686	familia
+T126	ORG_VIVO 729 736	hermana
+T127	ORG_VIVO 943 950	albañil
+T128	ORG_VIVO 1133 1144	parotiditis
+T129	ORG_VIVO 1151 1159	infancia
+T130	ORG_VIVO 1179 1185	tabaco
+T131	ORG_VIVO 1263 1273	familiares
+T132	ORG_VIVO 1275 1283	familiar
+T133	ORG_VIVO 1378 1386	Familiar
+T134	ORG_VIVO 1447 1455	Familiar
+T135	ORG_VIVO 1544 1552	Familiar
+T136	ORG_VIVO 1580 1587	paterna
+T137	ORG_VIVO 1882 1890	familiar
+T138	ORG_VIVO 2505 2513	paciente
+T139	ORG_VIVO 2938 2946	personas
+T140	ORG_VIVO 3305 3313	paciente
+T141	ORG_VIVO 4536 4544	paciente
+T142	ORG_VIVO 5781 5789	personal
+T143	ORG_VIVO 5814 5822	personas
+T144	ORG_VIVO 6114 6122	paciente
+T145	ORG_VIVO 7242 7248	tabaco
+T146	ORG_VIVO 10388 10395	familia
+T147	ORG_VIVO 10803 10810	hermana
+T148	ORG_VIVO 10815 10823	paciente
+T149	ORG_VIVO 10907 10915	paciente
+T150	ORG_VIVO 11390 11398	paciente
+T151	ORG_VIVO 11425 11435	psiquiatra
+T152	ORG_VIVO 11579 11587	paciente
+T153	ORG_VIVO 11831 11838	hermana
+T154	ORG_VIVO 11981 11989	personal
+T155	ENFERMEDAD 85 104	retraso mental leve
+T156	ENFERMEDAD 133 158	descompensación psicótica
+T157	ENFERMEDAD 509 526	distocia familiar
+T158	ENFERMEDAD 1043 1059	hipoxia cerebral
+T159	ENFERMEDAD 1061 1080	Retraso mental leve
+T160	ENFERMEDAD 1120 1130	Brucelosis
+T161	ENFERMEDAD 1133 1144	parotiditis
+T162	ENFERMEDAD 1226 1247	quiste sebáceo facial
+T163	ENFERMEDAD 1356 1376	tentativa autolítica
+T164	ENFERMEDAD 1422 1433	alcoholismo
+T165	ENFERMEDAD 1436 1445	ludopatía
+T166	ENFERMEDAD 1528 1542	retraso mental
+T167	ENFERMEDAD 1607 1618	alcoholismo
+T168	ENFERMEDAD 2297 2311	retraso mental
+T169	ENFERMEDAD 2455 2479	sintomatología psicótica
+T170	ENFERMEDAD 2951 2965	retraso mental
+T171	ENFERMEDAD 3338 3370	crisis convulsiva tónico-clónica
+T172	ENFERMEDAD 4577 4585	suicidio
+T173	ENFERMEDAD 6265 6284	taquicardia sinusal
+T174	ENFERMEDAD 6416 6458	nevus melanocítico intradérmico pediculado
+T175	ENFERMEDAD 6802 6808	miopía
+T176	ENFERMEDAD 6883 6907	poliglobulia persistente
+T177	ENFERMEDAD 7115 7138	poliglobulia secundaria
+T178	ENFERMEDAD 7284 7307	esquizofrenia paranoide
+T179	ENFERMEDAD 7374 7399	Trastorno bipolar tipo II
+T180	ENFERMEDAD 7402 7427	Trastorno esquizoafectivo
+T181	ENFERMEDAD 8408 8440	crisis convulsiva tónico-clónica
+T182	ENFERMEDAD 9176 9186	convulsivo
+T183	ENFERMEDAD 9357 9404	trastorno de la metabolización del neuroléptico
+T184	PACIENTE-PROFESION 943 950	albañil
+T185	SANITARIO-PROFESION 11286 11318	equipo de Unidad de Salud Mental
+T186	PACIENTE-SITUACION_LABORAL 835 863	Estudios de graduado escolar
+T187	OTROS-PROFESION 11981 12011	personal de Servicios Sociales
+T188	SANITARIO-PROFESION 11425 11435	psiquiatra
+T189	FAMILIAR-SITUACION_LABORAL 737 755	institucionalizada
+T190	PACIENTE-SITUACION_LABORAL 757 780	Incapacitado legalmente
+T191	PACIENTE-SITUACION_LABORAL 807 815	tutelado
+T192	PACIENTE-SITUACION_LABORAL 865 890	Acudió a escuela nocturna
+T193	PACIENTE-PROFESION 892 937	Realizó alguna actividad en grupo de limpieza
+T194	PACIENTE-PROFESION 953 964	en el campo

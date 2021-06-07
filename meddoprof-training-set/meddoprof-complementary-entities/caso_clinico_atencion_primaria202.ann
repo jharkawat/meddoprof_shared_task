@@ -1,0 +1,113 @@
+T1	SINTOMA 19 33	Dolor torácico
+T2	SINTOMA 185 214	dolor centrotorácico opresivo
+T3	SINTOMA 235 253	cortejo vegetativo
+T4	SINTOMA 396 421	dolor en ambos antebrazos
+T5	SINTOMA 426 439	palpitaciones
+T6	SINTOMA 444 450	disnea
+T7	SINTOMA 454 462	ortopnea
+T8	SINTOMA 806 816	Consciente
+T9	SINTOMA 818 827	orientado
+T10	SINTOMA 830 841	colaborador
+T11	SINTOMA 864 872	Eupneico
+T12	SINTOMA 887 893	tiraje
+T13	SINTOMA 907 915	cianosis
+T14	SINTOMA 920 941	ingurgitación yugular
+T15	SINTOMA 1100 1115	soplos audibles
+T16	SINTOMA 1119 1139	ruidos sobreañadidos
+T17	SINTOMA 1164 1212	murmullo vesicular conservado en ambos hemitórax
+T18	SINTOMA 1258 1264	edemas
+T19	SINTOMA 1449 1462	ritmo sinusal
+T20	SINTOMA 3157 3171	dolor muscular
+T21	PROCEDIMIENTO 752 770	Exploración física
+T22	PROCEDIMIENTO 1040 1043	EVA
+T23	PROCEDIMIENTO 1051 1072	Auscultación cardíaca
+T24	PROCEDIMIENTO 1141 1162	Auscultación pulmonar
+T25	PROCEDIMIENTO 1407 1425	Electrocardiograma
+T26	PROCEDIMIENTO 1598 1618	Radiografía de tórax
+T27	PROCEDIMIENTO 2358 2386	Ecocardiograma a pie de cama
+T28	PROCEDIMIENTO 2764 2784	Cateterismo cardiaco
+T29	PROCEDIMIENTO 3330 3352	tratamiento analgésico
+T30	NEG 216 218	no
+T31	NSCO 219 228	irradiado
+T32	NEG 231 234	sin
+T33	NSCO 235 253	cortejo vegetativo
+T34	NEG 266 268	no
+T35	NSCO 269 332	se modifica con los movimientos respiratorios ni con la postura
+T36	NEG 423 425	No
+T37	NSCO 426 439	palpitaciones
+T38	NEG 441 443	no
+T39	NSCO 444 462	disnea ni ortopnea
+T40	NEG 564 566	no
+T41	NSCO 567 585	le dio importancia
+T42	NEG 598 600	no
+T43	NSCO 601 609	consulto
+T44	NEG 636 638	No
+T45	NSCO 639 662	alergias medicamentosas
+T46	NEG 664 666	No
+T47	NSCO 667 682	hábitos tóxicos
+T48	NEG 684 686	No
+T49	NSCO 687 721	intervenciones quirúrgicas previas
+T50	NEG 723 725	No
+T51	NSCO 726 749	enfermedades de interés
+T52	NEG 843 845	No
+T53	NSCO 846 862	signos meníngeos
+T54	NEG 884 886	No
+T55	NSCO 887 893	tiraje
+T56	NEG 895 906	Ausencia de
+T57	NSCO 907 915	cianosis
+T58	NEG 917 919	No
+T59	NSCO 920 941	ingurgitación yugular
+T60	NEG 978 981	sin
+T61	NSCO 982 1002	tiraje ni asimetrías
+T62	NEG 1097 1099	no
+T63	NSCO 1100 1139	soplos audibles ni ruidos sobreañadidos
+T64	NEG 1214 1217	sin
+T65	NSCO 1218 1238	ruidos sobreañadidos
+T66	NEG 1254 1257	sin
+T67	NSCO 1258 1280	edemas ni alteraciones
+T68	NEG 1302 1304	No
+T69	NSCO 1305 1340	signos de trombosis venosa profunda
+T70	NEG 1366 1369	sin
+T71	NSCO 1370 1379	hallazgos
+T72	NEG 1620 1622	no
+T73	NSCO 1623 1704	se evidencian alteraciones en las partes blandas extratorácicas ni lesiones óseas
+T74	NEG 1737 1739	no
+T75	NSCO 1740 1777	presentan alteraciones significativas
+T76	NEG 1843 1845	No
+T77	NSCO 1846 1897	se observan alteraciones en la trama broncovascular
+T78	NEG 1921 1923	no
+T79	NSCO 1924 1976	muestran nódulos, condensación ni otras alteraciones
+T80	NEG 1998 2000	no
+T81	NSCO 2001 2009	pinzados
+T82	NEG 2011 2013	No
+T83	NSCO 2014 2051	se aprecian signos de derrame pleural
+T84	NEG 2196 2199	sin
+T85	NSCO 2200 2220	hallazgos relevantes
+T86	NEG 2391 2393	no
+T87	NSCO 2394 2451	dilatado ni hipertrófico con función sistólica conservada
+T88	NEG 2453 2456	sin
+T89	NSCO 2457 2508	alteraciones segmentarias ni de la contractibilidad
+T90	NEG 2689 2691	no
+T91	NSCO 2692 2723	permite registrar flujo doppler
+T92	NEG 2806 2809	sin
+T93	NSCO 2810 2818	lesiones
+T94	ORG_VIVO 116 121	Varón
+T95	ORG_VIVO 467 475	paciente
+T96	ORG_VIVO 624 634	personales
+T97	ORG_VIVO 772 780	Paciente
+T98	ORG_VIVO 2851 2859	Familiar
+T99	ORG_VIVO 2874 2882	Paciente
+T100	ORG_VIVO 2915 2926	informático
+T101	ORG_VIVO 2946 2952	padres
+T102	ORG_VIVO 2966 2974	hermanos
+T103	ENFERMEDAD 639 662	alergias medicamentosas
+T104	ENFERMEDAD 1315 1340	trombosis venosa profunda
+T105	ENFERMEDAD 1690 1704	lesiones óseas
+T106	ENFERMEDAD 2036 2051	derrame pleural
+T107	ENFERMEDAD 2177 2188	monocitosis
+T108	ENFERMEDAD 2560 2592	Válvula aórtica normofuncionante
+T109	ENFERMEDAD 3076 3091	Miopericarditis
+T110	ENFERMEDAD 3118 3121	IAM
+T111	ENFERMEDAD 3123 3145	infección respiratoria
+T112	ENFERMEDAD 3147 3155	ansiedad
+T113	PACIENTE-PROFESION 2915 2926	informático

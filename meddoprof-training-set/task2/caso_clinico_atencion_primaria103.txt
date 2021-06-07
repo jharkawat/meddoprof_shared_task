@@ -1,0 +1,46 @@
+Motivo de consulta
+Vómitos, diarrea y dolor abdominal.
+
+Enfoque individual
+Antecedentes personales: niega reacciones adversas a medicamentos. Exfumador desde 2015 de 55 paquetes/año.
+Hipertensión arterial.
+Fibrilación auricular (FA) no anticoagulada (antecedente de hemorragia mayor digestiva y cerebral). Neumonía grave complicada con insuficiencia respiratoria secundaria, crisis hipertensiva, fibrilación auricular con respuesta ventricular rápida y parada cardiorrespiratoria en 2014. EPOC con oxigenoterapia domiciliaria en seguimiento por Neumología.
+Insuficiencia cardiaca y cardiopatía hipertensiva.
+Dos episodios de hemorragia digestiva alta en 2015 de probable origen en intestino delgado (favorecido por la toma crónica de aspirina y esteroides). Endoscopia, colonoscopia y cápsula endoscópica normales.
+Hematoma espontáneo hipertensivo en 2016, quedando como secuela hemiparesia derecha y disfagia a líquidos.
+Episodio de síncope vs crisis epiléptica en 2016. Coronariografía normal.
+TEP bilateral en 2018.
+Tratamiento habitual: omeprazol, bisoprolol, torasamida, enalapril, prednisona, calcio, bromuro de aclidinio, amlodipino, doxazosina, hierro, oxígeno en gafas nasales 16 horas al día.
+
+Varón de 79 años que acude a su Centro de Salud por presentar desde hace 3 días vómitos y deposiciones diarreicas, ambos sin productos patológicos, además de dolor abdominal difuso de tipo cólico. Aumento de su disnea basal, a mínimos esfuerzos. Negaba fiebre u otros síntomas asociados.
+Alta hospitalaria reciente por una reagudización de EPOC y Gripe A, resuelta sin complicaciones.
+
+Exploración física:
+Regular estado general, consciente, orientado y colaborador. Pálido y sudoroso. Taquipnea en reposo a 40 rpm.
+TA 90/70mmHg, FC 140 lpm, saturación de O2 95% con ventimask al 28% a 6 litros. Afebril. Alerta. Glasgow 15/15. Escala Quick sofa 2.
+ACR: taquicardia arrítmica, no soplos. Sibilancias dispersas e hipoventilación basal izquierda.
+Abdomen doloroso a la palpación de manera difusa, de predominio en hipogastrio. No peritonismo.
+MMII sin edemas ni signos de TVP.
+Se realiza electrocardiograma que muestra FA a 140 lpm, por lo que se decide derivación a Urgencias del hospital para valoración.
+
+A su llegada a Urgencias, mantiene semejante estado general, con tendencia a la hipotensión, taquicárdico y sudoroso. Febrícula de 37,2oC. Persiste dolor abdominal difuso de tipo cólico.
+En analítica destacaba una leucocitosis con neutrofilia (44.870 leucocitos con 84% neutrófilos), PCR 91,6, creatinina 1,6, amilasa 134 y LDH 557.
+En la radiografía de tórax se apreciaba un infiltrado basal izquierdo (presente en estudio previo).
+Se extrajeron urocultivo y hemocultivos y se procedió a sondaje vesical.
+
+Por tanto, inicialmente nuestra sospecha diagnóstica era:
+- Sepsis de probable origen abdominal con disfunción renal y respiratoria
+- ICC reagudizada y FARvR en este contexto
+
+Se ingresó al paciente en Observación con sueroterapia y antibioterapia empírica y, dado su regular estado general, junto con el dolor abdominal mantenido y la presencia de FA no anticoagulada, se sospechó posible isquemia intestinal por lo que se realizó TAC de abdomen con contraste urgente. Los hallazgos fueron compatibles con isquemia mesentérica masiva, secundaria a trombosis de la arteria mesentérica superior, con imagen de estenosis completa de la misma a unos 5 cm de su origen, sin recanalización distal.
+
+Enfoque familiar y comunitario
+El paciente es viudo, vive con su hija y acude por las mañana a la Unidad de día. Se viste, asea, deambula por su casa y usa el baño con supervisión pero sin necesitar ayuda directa. Es capaz de comer solo, aunque presenta disfagia a líquidos, tolerando comidas con estructura mixta. Presenta un deterioro cognitivo moderado. Nivel socio-cultural medio-alto. Realiza un buen seguimiento de su patología crónica en su Centro de Salud y es buen cumplidor de su tratamiento.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Isquemia mesentérica masiva.
+El diagnóstico diferencial de la isquemia mesentérica aguda incluye otras causas de dolor abdominal intenso y de inicio súbito como perforación visceral, obstrucción intestinal, pancreatitis, colecistitis y nefrolitiasis.
+
+Plan de acción y evolución
+El paciente permaneció en Observación pendiente de la valoración por el cirujano de guardia.
+De forma súbita presentó un cuadro de dolor abdominal con intenso cortejo vegetativo seguido de una hematemesis franca tras la cual el paciente fallece.

@@ -1,0 +1,26 @@
+T1	SINTOMA 327 337	odinofagia
+T2	SINTOMA 373 389	malestar general
+T3	SINTOMA 392 412	sensación distérmica
+T4	SINTOMA 417 440	termometrar temperatura
+T5	PROCEDIMIENTO 449 467	exploración física
+T6	PROCEDIMIENTO 750 773	tratamiento antibiótico
+T7	NEG 413 416	sin
+T8	NSCO 417 440	termometrar temperatura
+T9	NEG 740 749	finalizar
+T10	NSCO 750 773	tratamiento antibiótico
+T11	NEG 916 918	no
+T12	NSCO 919 960	pruriginosas en ambos miembros inferiores
+T13	UNC 966 974	sospecha
+T14	USCO 975 1057	diagnóstica es de psoriasis guttata secundaria a faringoamigdalitis estreptocócica
+T15	FARMACO 193 204	metrotexato
+T16	FARMACO 224 236	ácido fólico
+T17	FARMACO 685 696	amoxicilina
+T18	FARMACO 1085 1110	calcipotriol/betametasona
+T19	ORG_VIVO 27 32	mujer
+T20	ORG_VIVO 295 322	médico de atención primaria
+T21	ORG_VIVO 614 639	estreptocócico de grupo A
+T22	ENFERMEDAD 75 153	artropatía psoriásica con HLA-B27 positivo y afectación axial con sacroileitis
+T23	ENFERMEDAD 880 960	lesiones puntiformes, eritematosas, no pruriginosas en ambos miembros inferiores
+T24	ENFERMEDAD 993 1010	psoriasis guttata
+T25	ENFERMEDAD 1024 1057	faringoamigdalitis estreptocócica
+T26	SANITARIO-PROFESION 295 322	médico de atención primaria

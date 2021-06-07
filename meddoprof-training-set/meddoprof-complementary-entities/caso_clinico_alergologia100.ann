@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 270 284	Prick by prick
+T2	PROCEDIMIENTO 382 405	SDS PAGE y Western Blot
+T3	PROCEDIMIENTO 528 545	Estudio molecular
+T4	UNC 80 94	compatible con
+T5	USCO 95 105	anafilaxia
+T6	NEG 134 136	No
+T7	NSCO 137 189	rinocojuntivitis ni síntomas bronquiales con pólenes
+T8	NEG 414 423	negativos
+T9	NSCO 424 440	excepto avellana
+T10	NEG 518 526	negativa
+T11	NEG 546 554	negativo
+T12	NSCO 555 571	con panalergenos
+T13	FARMACO 502 511	Profilina
+T14	ORG_VIVO 0 4	Niña
+T15	ORG_VIVO 311 316	chufa
+T16	ORG_VIVO 318 327	melocotón
+T17	ORG_VIVO 330 337	manzana
+T18	ORG_VIVO 432 440	avellana
+T19	ORG_VIVO 479 487	avellana
+T20	ENFERMEDAD 16 34	dermatitis atópica
+T21	ENFERMEDAD 95 105	anafilaxia

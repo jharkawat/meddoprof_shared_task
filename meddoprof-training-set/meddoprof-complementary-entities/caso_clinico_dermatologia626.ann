@@ -1,0 +1,19 @@
+T1	PROCEDIMIENTO 193 219	tratamiento con corticoide
+T2	PROCEDIMIENTO 464 482	exploración física
+T3	PROCEDIMIENTO 635 648	cultivo local
+T4	UNC 233 241	sospecha
+T5	USCO 242 270	inicial de de eccema atópico
+T6	NEG 422 427	nunca
+T7	NSCO 428 456	había llevado al veterinario
+T8	FARMACO 822 833	Terbinafina
+T9	ORG_VIVO 0 4	Niña
+T10	ORG_VIVO 33 43	personales
+T11	ORG_VIVO 168 176	paciente
+T12	ORG_VIVO 394 399	tenia
+T13	ORG_VIVO 403 407	gato
+T14	ORG_VIVO 445 456	veterinario
+T15	ORG_VIVO 691 710	Trichophyton rubrum
+T16	ENFERMEDAD 47 51	asma
+T17	ENFERMEDAD 108 125	lesiones cutáneas
+T18	ENFERMEDAD 256 270	eccema atópico
+T19	ENFERMEDAD 781 785	tiña

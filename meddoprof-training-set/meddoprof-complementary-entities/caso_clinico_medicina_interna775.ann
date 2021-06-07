@@ -1,0 +1,69 @@
+T1	SINTOMA 33 42	febrícula
+T2	SINTOMA 45 52	astenia
+T3	SINTOMA 570 577	astenia
+T4	SINTOMA 579 599	febrícula vespertina
+T5	SINTOMA 657 663	disnea
+T6	SINTOMA 674 682	tos seca
+T7	SINTOMA 685 723	edematización progresiva en ambas EIII
+T8	SINTOMA 848 856	Eupneico
+T9	SINTOMA 868 887	Palidez mucocutánea
+T10	SINTOMA 1038 1065	crepitantes finos bibasales
+T11	SINTOMA 1182 1190	flogosis
+T12	SINTOMA 1332 1344	leucocitosis
+T13	PROCEDIMIENTO 273 297	prótesis total izquierda
+T14	PROCEDIMIENTO 307 327	recambio de prótesis
+T15	PROCEDIMIENTO 629 641	antitérmicos
+T16	PROCEDIMIENTO 978 1005	Auscultación cardiopulmonar
+T17	PROCEDIMIENTO 1528 1544	gammagrafía ósea
+T18	PROCEDIMIENTO 1671 1683	TAC corporal
+T19	PROCEDIMIENTO 2093 2096	PET
+T20	PROCEDIMIENTO 2232 2252	biopsia mucosa nasal
+T21	UNC 347 358	se sospecha
+T22	USCO 359 368	infección
+T23	NSCO 402 427	cultivos intraoperatorios
+T24	NEG 428 437	negativos
+T25	NEG 481 494	descartándose
+T26	NSCO 495 504	infección
+T27	NEG 620 624	cede
+T28	NSCO 625 641	con antitérmicos
+T29	NEG 811 813	no
+T30	NSCO 814 826	cuantificada
+T31	NEG 889 891	No
+T32	NSCO 892 916	estigmas de endocarditis
+T33	NEG 918 920	No
+T34	NSCO 921 935	aumento de PVY
+T35	NEG 937 939	No
+T36	NSCO 940 976	adenopatías palpables a ningún nivel
+T37	NEG 1096 1099	sin
+T38	NSCO 1100 1117	masas ni megalias
+T39	NEG 1168 1171	sin
+T40	NSCO 1172 1190	signos de flogosis
+T41	UNC 1431 1438	posible
+T42	USCO 1439 1505	infección de prótesis por microorganismos tipo S. aureus coagulasa
+T43	NEG 1506 1514	negativo
+T44	NEG 1549 1551	no
+T45	NSCO 1552 1581	mostraba captación patológica
+T46	UNC 1835 1849	compatible con
+T47	USCO 1850 1891	cuadro Fiebre Q con neumonia por Coxiella
+T48	UNC 2286 2300	compatible con
+T49	USCO 2301 2336	una granulomatosis con poliangeitis
+T50	FARMACO 1920 1930	Doxicilina
+T51	ORG_VIVO 0 5	Varón
+T52	ORG_VIVO 68 78	Personales
+T53	ORG_VIVO 90 98	ganadero
+T54	ORG_VIVO 118 122	aves
+T55	ORG_VIVO 932 935	PVY
+T56	ORG_VIVO 1805 1822	Coxiella burnetii
+T57	ENFERMEDAD 136 177	Osteoartrosis cervical, cadera, y rodilla
+T58	ENFERMEDAD 359 368	infección
+T59	ENFERMEDAD 495 504	infección
+T60	ENFERMEDAD 904 916	endocarditis
+T61	ENFERMEDAD 940 951	adenopatías
+T62	ENFERMEDAD 1307 1325	anemia normocítica
+T63	ENFERMEDAD 1439 1505	infección de prótesis por microorganismos tipo S. aureus coagulasa
+T64	ENFERMEDAD 1636 1645	neoplasia
+T65	ENFERMEDAD 1870 1891	neumonia por Coxiella
+T66	ENFERMEDAD 2077 2087	vasculitis
+T67	ENFERMEDAD 2305 2319	granulomatosis
+T68	ENFERMEDAD 2324 2336	poliangeitis
+T69	PACIENTE-PROFESION 90 98	ganadero

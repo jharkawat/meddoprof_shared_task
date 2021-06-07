@@ -1,0 +1,40 @@
+T1	SINTOMA 87 99	dolor lumbar
+T2	SINTOMA 211 234	perdido algo de apetito
+T3	SINTOMA 368 382	bebedor social
+T4	SINTOMA 463 466	tos
+T5	SINTOMA 496 504	febriles
+T6	SINTOMA 918 934	Lasegue positivo
+T7	SINTOMA 936 987	disminución de reflejo rotuliano y tibial posterior
+T8	PROCEDIMIENTO 577 591	examen físico
+T9	PROCEDIMIENTO 669 690	auscultación cardiaca
+T10	PROCEDIMIENTO 699 719	Examen respiratorio
+T11	PROCEDIMIENTO 833 845	auscultación
+T12	PROCEDIMIENTO 871 907	Evaluación de columna lumbar y sacra
+T13	PROCEDIMIENTO 1017 1037	Radiografía de tórax
+T14	PROCEDIMIENTO 1707 1732	grafía computada de tórax
+T15	NEG 181 183	no
+T16	NSCO 184 198	puede trabajar
+T17	NEG 264 266	no
+T18	NSCO 267 281	se queja nunca
+T19	NEG 506 508	No
+T20	NSCO 509 555	recuerda cuando fue su último control de salud
+T21	NEG 989 992	sin
+T22	NSCO 993 1014	otros datos positivos
+T23	NEG 1114 1116	no
+T24	NSCO 1118 1152	siendo evaluable partes blandas
+T25	UNC 1179 1189	Impresiona
+T26	USCO 1190 1226	leve escoliosis de la columna dorsal
+T27	UNC 1489 1502	impresiona de
+T28	USCO 1503 1537	tamaño normal con el botón aórtico
+T29	UNC 1587 1599	sugestiva de
+T30	USCO 1600 1617	lesión neoplásica
+T31	ORG_VIVO 52 56	hija
+T32	ORG_VIVO 58 64	Estela
+T33	ORG_VIVO 258 263	padre
+T34	ORG_VIVO 315 322	albañil
+T35	ORG_VIVO 569 573	hija
+T36	ORG_VIVO 1660 1668	paciente
+T37	ENFERMEDAD 1195 1226	escoliosis de la columna dorsal
+T38	ENFERMEDAD 1600 1617	lesión neoplásica
+T39	PACIENTE-PROFESION 315 322	albañil
+T40	PACIENTE-PROFESION 413 432	trabajó en una mina

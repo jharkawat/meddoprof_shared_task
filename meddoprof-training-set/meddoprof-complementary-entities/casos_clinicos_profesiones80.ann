@@ -1,0 +1,27 @@
+T1	SINTOMA 325 332	astenia
+T2	SINTOMA 334 342	adinamia
+T3	SINTOMA 344 351	náuseas
+T4	SINTOMA 354 368	sabor metálico
+T5	SINTOMA 727 734	afebril
+T6	SINTOMA 749 764	Luce aletargado
+T7	SINTOMA 767 780	bradipsíquico
+T8	SINTOMA 786 816	respiración profunda y forzosa
+T9	SINTOMA 846 877	edemas en ambos MMII simétricos
+T10	SINTOMA 888 894	soplos
+T11	PROCEDIMIENTO 544 549	AINEs
+T12	PROCEDIMIENTO 620 625	AINEs
+T13	PROCEDIMIENTO 647 660	Examen físico
+T14	NEG 198 200	no
+T15	NSCO 201 216	toma medicación
+T16	NEG 218 220	no
+T17	NSCO 221 225	fuma
+T18	NEG 608 610	no
+T19	NSCO 611 643	abusa de AINEs de forma habitual
+T20	NEG 727 734	afebril
+T21	NEG 884 887	sin
+T22	NSCO 888 894	soplos
+T23	ORG_VIVO 0 6	Hombre
+T24	ORG_VIVO 396 404	paciente
+T25	ORG_VIVO 478 488	familiares
+T26	PACIENTE-PROFESION 66 98	Trabaja en la industria hotelera
+T27	PACIENTE-ACTIVIDAD 168 179	Maratonista

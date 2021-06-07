@@ -1,0 +1,47 @@
+T1	SINTOMA 179 198	síntomas psicóticos
+T2	SINTOMA 200 222	alucinaciones visuales
+T3	SINTOMA 333 354	agitación psicomotriz
+T4	SINTOMA 837 858	agitación psicomotriz
+T5	SINTOMA 1094 1129	falta de concentración y bajo ánimo
+T6	SINTOMA 1236 1250	torpeza motora
+T7	SINTOMA 1272 1283	somnolencia
+T8	SINTOMA 1405 1426	agitación psicomotriz
+T9	SINTOMA 1908 1933	hipointensidad periférica
+T10	PROCEDIMIENTO 1376 1384	sedación
+T11	PROCEDIMIENTO 1540 1552	RMN cerebral
+T12	PROCEDIMIENTO 1704 1722	pruebas analíticas
+T13	PROCEDIMIENTO 1813 1816	RNM
+T14	PROCEDIMIENTO 2226 2239	SPET cerebral
+T15	PROCEDIMIENTO 2788 2812	Estudio neuropsicológico
+T16	NEG 41 44	sin
+T17	NSCO 45 108	antecedentes psiquiátricos previos, ni personales ni familiares
+T18	NEG 1094 1102	falta de
+T19	NSCO 1103 1116	concentración
+T20	NEG 1755 1758	sin
+T21	NSCO 1759 1783	hallazgos significativos
+T22	NEG 1959 1962	sin
+T23	NSCO 1963 2027	alteración de los núcleos rojos ni núcleos dentados del cerebelo
+T24	UNC 2067 2075	aparente
+T25	USCO 2076 2086	progresión
+T26	NEG 2866 2868	no
+T27	NSCO 2869 2900	sugería una afectación orgánica
+T28	NEG 3197 3199	no
+T29	NSCO 3200 3227	es claramente significativa
+T30	FARMACO 1165 1176	Risperidona
+T31	FARMACO 1188 1199	Aripiprazol
+T32	FARMACO 2690 2699	clozapina
+T33	ORG_VIVO 15 20	varón
+T34	ORG_VIVO 84 94	personales
+T35	ORG_VIVO 98 108	familiares
+T36	ORG_VIVO 660 665	novia
+T37	ORG_VIVO 1607 1622	globus pallidum
+T38	ORG_VIVO 1952 1957	tigre
+T39	ORG_VIVO 2990 2997	adultos
+T40	ENFERMEDAD 1069 1092	bloqueo del pensamiento
+T41	ENFERMEDAD 1581 1634	lesiones hiperintensas en globus pallidum de carácter
+T42	ENFERMEDAD 2192 2224	enfermedad de Hallervorden-Spatz
+T43	ENFERMEDAD 2451 2473	mutación del gen PANK2
+T44	ENFERMEDAD 2491 2519	enfermedad neurodegenerativa
+T45	ENFERMEDAD 2535 2571	Trastorno esquizofreniforme orgánico
+T46	ENFERMEDAD 2594 2626	Enfermedad de Hallervorden-Spatz
+T47	ENFERMEDAD 2761 2785	sintomatología psicótica

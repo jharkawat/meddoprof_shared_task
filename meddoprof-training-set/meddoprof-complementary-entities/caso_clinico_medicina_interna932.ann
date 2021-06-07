@@ -1,0 +1,70 @@
+T1	SINTOMA 18 25	fumador
+T2	SINTOMA 146 161	pérdida de peso
+T3	SINTOMA 263 268	dolor
+T4	SINTOMA 270 276	fiebre
+T5	SINTOMA 278 297	sudoración nocturna
+T6	SINTOMA 300 307	prurito
+T7	SINTOMA 694 731	elevación de reactantes de fase aguda
+T8	SINTOMA 894 914	febrícula vespertina
+T9	SINTOMA 919 937	sudoración profusa
+T10	PROCEDIMIENTO 82 97	colecistectomía
+T11	PROCEDIMIENTO 413 431	exploración física
+T12	PROCEDIMIENTO 550 569	analítica de sangre
+T13	PROCEDIMIENTO 951 969	estudio serológico
+T14	PROCEDIMIENTO 1096 1120	tomografía computarizada
+T15	PROCEDIMIENTO 1539 1596	biopsia con aguja gruesa de adenopatía inguinal izquierda
+T16	PROCEDIMIENTO 1602 1627	estudio anatomopatológico
+T17	PROCEDIMIENTO 1800 1817	fibrobroncoscopia
+T18	PROCEDIMIENTO 1822 1844	biopsia transbronquial
+T19	PROCEDIMIENTO 1847 1899	ecobroncoscopia con biopsia de adenopatía subcarinal
+T20	PROCEDIMIENTO 1906 1931	estudio anatomopatológico
+T21	PROCEDIMIENTO 2058 2080	biopsia de médula ósea
+T22	PROCEDIMIENTO 2140 2176	tomografía por emisión de positrones
+T23	PROCEDIMIENTO 2179 2203	tomografía computarizada
+T24	PROCEDIMIENTO 2205 2211	PET-TC
+T25	PROCEDIMIENTO 2559 2572	quimioterapia
+T26	NEG 257 262	Niega
+T27	NSCO 263 268	dolor
+T28	NEG 690 693	sin
+T29	NSCO 694 731	elevación de reactantes de fase aguda
+T30	NEG 970 978	negativo
+T31	NSCO 979 987	para VIH
+T32	UNC 1628 1642	compatible con
+T33	USCO 1643 1676	linfoma B difuso de célula grande
+T34	UNC 1727 1738	sospecha de
+T35	USCO 1739 1781	carcinoma broncogénico primario sincrónico
+T36	UNC 1935 1949	compatible con
+T37	USCO 1950 1990	proceso linfoproliferativo de alto grado
+T38	NEG 1992 1994	no
+T39	NSCO 1995 2002	Hodgkin
+T40	FARMACO 2587 2591	CHOP
+T41	ORG_VIVO 0 5	Varón
+T42	ORG_VIVO 71 79	infancia
+T43	ORG_VIVO 114 141	médico de Atención Primaria
+T44	ORG_VIVO 984 987	VIH
+T45	ORG_VIVO 989 996	sífilis
+T46	ORG_VIVO 999 1010	hepatitis C
+T47	ORG_VIVO 2017 2025	paciente
+T48	ORG_VIVO 2369 2377	paciente
+T49	ENFERMEDAD 47 64	infección por VHB
+T50	ENFERMEDAD 210 255	adenopatías cervicales, inguinales y axilares
+T51	ENFERMEDAD 341 364	síndrome constitucional
+T52	ENFERMEDAD 591 622	anemia normocítica normocrómica
+T53	ENFERMEDAD 733 746	hiperuricemia
+T54	ENFERMEDAD 989 996	sífilis
+T55	ENFERMEDAD 999 1010	hepatitis C
+T56	ENFERMEDAD 1026 1037	hepatitis B
+T57	ENFERMEDAD 1039 1048	infección
+T58	ENFERMEDAD 1172 1245	neoplásica ganglionar axilar, subclavia, hiliar, subcarinal y periaórtica
+T59	ENFERMEDAD 1337 1351	esplenomegalia
+T60	ENFERMEDAD 1365 1416	adenopatías retroperitoneales, ilíacas e inguinales
+T61	ENFERMEDAD 1458 1526	proceso linfoproliferativo con afectación supra e infradiafragmática
+T62	ENFERMEDAD 1567 1586	adenopatía inguinal
+T63	ENFERMEDAD 1643 1676	linfoma B difuso de célula grande
+T64	ENFERMEDAD 1739 1781	carcinoma broncogénico primario sincrónico
+T65	ENFERMEDAD 1878 1899	adenopatía subcarinal
+T66	ENFERMEDAD 1950 2002	proceso linfoproliferativo de alto grado, no Hodgkin
+T67	ENFERMEDAD 2243 2296	proceso linfoproliferativo supra e infradiafragmática
+T68	ENFERMEDAD 2302 2351	infiltración pulmonar, hepática, esplénica y ósea
+T69	ENFERMEDAD 2397 2444	linfoma B difuso de célula grande, fenotipo ABC
+T70	SANITARIO-PROFESION 114 141	médico de Atención Primaria

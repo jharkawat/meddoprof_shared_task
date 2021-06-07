@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 26 años sin antecedentes médicos de interés, tan solo cefaleas ocasionales que cedían con AINE. Desarrollaba su trabajo en un laboratorio veterinario. Realizó una primera visita a Urgencias por un cuadro de 5 días de evolución de cefalea frontal que cedía con ibuprofeno y que había aumentado progresivamente de intensidad, sin modificarse con maniobras de Valsalva. Le había despertado por la noche el último día, presentando náuseas y cuatro episodios de vómitos. La paciente estaba afebril y la exploración neurológica era normal. Ante el cambio de patrón de cefalea y la aparición de una leve leucocitosis con desviación izquierda en la analítica sanguínea se decidió realizar una TC cerebral y una punción lumbar con resultado de meningitis linfocitaria (250 células con 97% de linfocitos, glucorraquia normal y proteínas 1,05 g/l). La paciente ingresó en el Servicio de Enfermedades Infecciosas y se trató con analgésicos e hidratación, con buena evolución y pruebas serológicas negativas. El séptimo día desde su primera visita a Urgencias presentó un cuadro de hipoestesia y hemiparesia en el hemicuerpo derecho ascendente acompañado de cefalea intensa occipital tipo pinchazos. La focalidad cedió en unos 5 minutos, persistiendo cefalea más leve. Dos días más tarde sufrió un episodio de similares características al levantarse de la siesta.
+
+Examen físico
+Paciente consciente y orientada en tiempo y espacio. No presentaba alteraciones campimétricas ni de los movimientos oculomotores. La exploración de los pares craneales fue normal y no había focalidad sensitivo-motora de vías largas. Los signos meníngeos fueron negativos. No presentaba rigidez de nuca. Los reflejos cutáneo-plantares fueron flexores con reflejos presentes y simétricos. La exploración orofaríngea y otoscópica fue normal. Fue valorada por Oftalmología, sin que identificaran anomalías en el fondo de ojo.
+
+Pruebas complementarias
+• ECG: ritmo sinusal.
+• Analítica sanguínea (primera visita a Urgencias): equilibrio ácido-base y bioquímica normales. Hemograma: 12.900 leucocitos con 84,9% de neutrófilos. Resto normal. Coagulación normal.
+• Analíticas en planta: bioquímica con hormonas tiroideas, beta-2-microglobulina, inmunoglobulinas, colesterol, perfil hepático, bilirrubina total y directa e iones normales. Autoinmunidad (ANA, anticuerpos antimitocondriales, anti-nDNA) negativa. Hemograma normal. VSG 4 mm/hora.
+• Serologías en suero: Brucella, lúes, VIH negativos. IgG parotiditis positiva, con IgM negativa. Hepatitis B y C negativas. IgM de fiebre Q negativa. IgM de Chlamydia pneumoniae negativa. IgM de VEB negativa. IgG e IgM de Borrelia burgdorferi negativas.
+• Estudio de líquido cefalorraquídeo: 3 hematíes, 238 células con 100% de linfocitos. - Bioquímica: proteínas 1,57 g/l, resto normal. - Microbiología: cultivo de virus negativo. PCR para herpes simple, varicela zóster y enterovirus negativas. Cultivo de bacterias negativo tras 14 días de incubación. Antígeno criptocócico negativo. PCR para Listeria negativa. - Citometría de flujo: abundante celularidad a expensas de todas las poblaciones linfocitarias. No se detectan células de inmunofenotipo aberrante. - Anatomía patológica: se observan abundantes linfocitos con predominio de elementos maduros. Citología de LCR con linfocitosis.
+• EEG: registro con ritmos fisiológicos en el que no se observan grafoelementos con morfología epileptiforme. • EcoDTSA: normal.
+• Doppler transcraneal con test de burbujas: normal.
+• Radiografía de tórax: sin alteraciones.
+• TC cerebral: sistema ventricular de tamaño y morfología normales, sin desplazamientos de la línea media. No se identifican colecciones intra o extraaxiales, procesos expansivos parenquimatosos ni imágenes sugestivas de patología vascular aguda isquémica o hemorrágica.
+• RM cerebral: unión cráneo-vertebral de morfología normal. Sistema ventricular y cisternas basales normales. No se detectan alteraciones morfológicas, ni de señal en la sustancia blanca, ni en la sustancia gris.
+• Angio-RM cerebral: se observan normales los vasos del polígono de Willis, las arterias cerebrales anteriores y las arterias cerebrales medias incluidas las trifurcaciones. No se observan imágenes de malformaciones vasculares y los vasos visibles tienen una morfología normal.
+
+Diagnóstico
+Síndrome de cefalea y focalidad neurológica transitoria con linfocitosis en LCR (HaNDL).
+
+Tratamiento
+La paciente recibió tratamiento con ampicilina ante la sospecha de meningitis por Listeria, que se suspendió tras el resultado negativo de la PCR. Se controló la cefalea con analgesia por vía intravenosa.
+
+Evolución
+Durante la estancia en Urgencias presentó un nuevo cuadro de focalidad y cefalea de las mismas características que los previos. Se repitió el estudio de líquido cefalorraquídeo y se solicitó una RM cerebral ante la sospecha de meningoencefalitis. Durante la estancia en planta la paciente presentó los primeros días episodios de cefalea sin focalidad, que se controlaron con analgesia intravenosa. Finalmente, la paciente fue dada de alta asintomática el vigésimo día desde su primera visita a Urgencias.

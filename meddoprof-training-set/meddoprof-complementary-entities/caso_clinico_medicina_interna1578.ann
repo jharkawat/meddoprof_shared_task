@@ -1,0 +1,94 @@
+T1	SINTOMA 320 330	exfumadora
+T2	SINTOMA 1154 1178	heteroagresividad verbal
+T3	SINTOMA 1254 1273	ideación autolítica
+T4	SINTOMA 1361 1397	fluctuación del nivel de consciencia
+T5	SINTOMA 1600 1607	amnesia
+T6	SINTOMA 1662 1670	ecolalia
+T7	SINTOMA 1736 1743	agnosia
+T8	SINTOMA 1746 1785	apraxia ideomotriz del miembro superior
+T9	SINTOMA 1801 1824	anomia táctil bilateral
+T10	SINTOMA 1836 1854	arreflexia aquílea
+T11	SINTOMA 1857 1873	marcha inestable
+T12	SINTOMA 2607 2654	enlentecimiento difuso de la actividad de fondo
+T13	SINTOMA 2674 2714	ritmo alfa parieto-occipital fisiológico
+T14	SINTOMA 2756 2807	brotes de ondas lentas delta de predominio anterior
+T15	PROCEDIMIENTO 608 637	vitrectomía del ojo izquierdo
+T16	PROCEDIMIENTO 1562 1585	exploración neurológica
+T17	PROCEDIMIENTO 1961 1975	punción lumbar
+T18	PROCEDIMIENTO 2098 2136	tomografía axial computarizada craneal
+T19	PROCEDIMIENTO 2236 2256	electroencefalograma
+T20	PROCEDIMIENTO 2325 2354	resonancia magnética cerebral
+T21	PROCEDIMIENTO 2482 2531	tratamiento con tiamina (vitamina B1) intravenosa
+T22	PROCEDIMIENTO 2571 2591	electroencefalograma
+T23	PROCEDIMIENTO 3220 3257	resonancia magnética nuclear cerebral
+T24	PROCEDIMIENTO 3977 4012	tratamiento con tiamina intravenosa
+T25	NEG 1521 1523	no
+T26	NSCO 1524 1553	mostraba hallazgos de interés
+T27	NEG 1981 1990	descartar
+T28	NSCO 1991 2055	patología infecciosa o inflamatoria del sistema nervioso central
+T29	NEG 2061 2063	no
+T30	NSCO 2064 2083	mostró alteraciones
+T31	NEG 2150 2159	descartar
+T32	NSCO 2160 2178	patología vascular
+T33	NEG 2184 2191	tampoco
+T34	NSCO 2192 2219	mostró hallazgos de interés
+T35	UNC 2422 2433	sospecha de
+T36	USCO 2434 2470	encefalopatía de Wercnicke-Korsakoff
+T37	NEG 2659 2670	ausencia de
+T38	NSCO 2671 2692	un ritmo alfa parieto
+T39	UNC 2819 2834	compatibles con
+T40	USCO 2835 2865	una afectación cerebral difusa
+T41	NEG 3194 3203	negativas
+T42	UNC 3281 3296	compatibles con
+T43	USCO 3297 3326	hidrocefalia a presión normal
+T44	UNC 3670 3684	compatible con
+T45	USCO 3685 3709	encefalopatía alcohólica
+T46	UNC 3713 3720	valorar
+T47	USCO 3721 3754	enfermedad de Marchiafava-Bignami
+T48	UNC 3764 3775	sospecha de
+T49	USCO 3776 3809	enfermedad de Marchiafava-Bignami
+T50	FARMACO 207 215	insulina
+T51	FARMACO 841 850	omeprazol
+T52	FARMACO 852 880	olmesartán/hicroclorotiazida
+T53	FARMACO 882 894	simvastatina
+T54	FARMACO 896 907	clopidogrel
+T55	FARMACO 910 918	insulina
+T56	FARMACO 2498 2505	tiamina
+T57	FARMACO 2507 2518	vitamina B1
+T58	FARMACO 3993 4000	tiamina
+T59	FARMACO 4024 4047	añadieron ácido fólico
+T60	ORG_VIVO 27 35	paciente
+T61	ORG_VIVO 65 75	personales
+T62	ORG_VIVO 782 791	psicóloga
+T63	ORG_VIVO 944 954	familiares
+T64	ORG_VIVO 970 978	paciente
+T65	ORG_VIVO 1206 1216	familiares
+T66	ORG_VIVO 1488 1496	paciente
+T67	ORG_VIVO 1898 1906	personas
+T68	ORG_VIVO 1937 1945	paciente
+T69	ORG_VIVO 2402 2410	paciente
+T70	ORG_VIVO 3138 3141	VIH
+T71	ORG_VIVO 3143 3146	VHB
+T72	ORG_VIVO 3148 3151	VHC
+T73	ORG_VIVO 3153 3164	C. burnetti
+T74	ORG_VIVO 3167 3181	B. burgdorferi
+T75	ORG_VIVO 3857 3867	personales
+T76	ORG_VIVO 4105 4113	paciente
+T77	ENFERMEDAD 79 100	hipertensión arterial
+T78	ENFERMEDAD 131 155	diabetes mellitus tipo 1
+T79	ENFERMEDAD 240 259	hipercolesterolemia
+T80	ENFERMEDAD 537 565	síndrome del túnel del carpo
+T81	ENFERMEDAD 577 595	fractura de cadera
+T82	ENFERMEDAD 1254 1273	ideación autolítica
+T83	ENFERMEDAD 1991 2011	patología infecciosa
+T84	ENFERMEDAD 2014 2055	inflamatoria del sistema nervioso central
+T85	ENFERMEDAD 2160 2178	patología vascular
+T86	ENFERMEDAD 2434 2470	encefalopatía de Wercnicke-Korsakoff
+T87	ENFERMEDAD 2839 2865	afectación cerebral difusa
+T88	ENFERMEDAD 3297 3309	hidrocefalia
+T89	ENFERMEDAD 3328 3370	atrofia cerebelosa de predominio en vermis
+T90	ENFERMEDAD 3372 3405	atrofia difusa del cuerpo calloso
+T91	ENFERMEDAD 3685 3709	encefalopatía alcohólica
+T92	ENFERMEDAD 3721 3754	enfermedad de Marchiafava-Bignami
+T93	ENFERMEDAD 3776 3809	enfermedad de Marchiafava-Bignami
+T94	PACIENTE-PROFESION 782 805	psicóloga en un colegio

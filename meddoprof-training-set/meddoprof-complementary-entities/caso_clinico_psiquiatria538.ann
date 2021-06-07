@@ -1,0 +1,91 @@
+T1	SINTOMA 53 77	alteraciones de conducta
+T2	SINTOMA 93 124	desorganización del pensamiento
+T3	SINTOMA 1237 1280	dificultades de adaptación socio-académicas
+T4	SINTOMA 1700 1710	consciente
+T5	SINTOMA 1712 1741	orientado en tiempo y espacio
+T6	SINTOMA 1743 1751	inquieto
+T7	SINTOMA 1753 1761	suspicaz
+T8	SINTOMA 1763 1777	hipervigilante
+T9	SINTOMA 1796 1821	tono afectivo inapropiado
+T10	SINTOMA 1827 1844	risas inmotivadas
+T11	SINTOMA 2224 2238	Tono paranoide
+T12	SINTOMA 2432 2452	descontrol impulsivo
+T13	SINTOMA 3725 3746	inquietud psicomotriz
+T14	SINTOMA 3751 3765	tono paranoide
+T15	SINTOMA 3772 3803	manifestaciones heteroagresivas
+T16	SINTOMA 3970 3997	pensamientos disfuncionales
+T17	PROCEDIMIENTO 897 902	parto
+T18	PROCEDIMIENTO 1483 1497	antidepresivos
+T19	PROCEDIMIENTO 2755 2774	Tomografía cerebral
+T20	PROCEDIMIENTO 2809 2838	Resonancia magnética cerebral
+T21	PROCEDIMIENTO 3014 3044	tratamiento psicofarmacológico
+T22	PROCEDIMIENTO 3361 3388	evaluación neuropsicológica
+T23	PROCEDIMIENTO 4048 4078	tratamiento psicofarmacológico
+T24	NEG 495 497	no
+T25	NSCO 498 521	toma ninguna medicación
+T26	NEG 631 633	No
+T27	NSCO 634 641	trabaja
+T28	NEG 713 715	no
+T29	NSCO 716 724	filiadas
+T30	NEG 866 868	no
+T31	NSCO 869 878	conocidos
+T32	NEG 1017 1019	no
+T33	NSCO 1020 1027	refiere
+T34	UNC 1846 1859	probablemente
+T35	USCO 1860 1917	secundarias a un fenómeno de sonorización del pensamiento
+T36	UNC 2454 2467	Aparentemente
+T37	USCO 2468 2476	eutímico
+T38	NEG 2478 2483	niega
+T39	NSCO 2484 2513	ideas de muerte o de suicidio
+T40	NEG 2744 2753	negativos
+T41	NEG 2776 2779	sin
+T42	NSCO 2780 2807	alteraciones significativas
+T43	NEG 2840 2843	sin
+T44	NSCO 2844 2871	alteraciones significativas
+T45	UNC 3412 3420	posibles
+T46	USCO 3421 3452	áreas cognitivas disfuncionales
+T47	NEG 3878 3881	sin
+T48	NSCO 3882 3892	incidentes
+T49	UNC 3932 3940	aparente
+T50	USCO 3941 3968	cronicidad de sus conductas
+T51	FARMACO 1469 1479	olanzapina
+T52	FARMACO 1499 1509	fluoxetina
+T53	FARMACO 3103 3114	aripiprazol
+T54	FARMACO 3159 3168	clozapina
+T55	FARMACO 3289 3299	topiramato
+T56	FARMACO 4246 4255	clozapina
+T57	FARMACO 4272 4284	escitalopram
+T58	FARMACO 4300 4310	topiramato
+T59	FARMACO 4327 4337	clonazepam
+T60	ORG_VIVO 0 5	Varón
+T61	ORG_VIVO 145 155	familiares
+T62	ORG_VIVO 177 185	paciente
+T63	ORG_VIVO 446 454	paciente
+T64	ORG_VIVO 486 494	paciente
+T65	ORG_VIVO 540 547	familia
+T66	ORG_VIVO 576 586	personales
+T67	ORG_VIVO 588 595	soltero
+T68	ORG_VIVO 610 616	padres
+T69	ORG_VIVO 622 629	hermano
+T70	ORG_VIVO 657 667	familiares
+T71	ORG_VIVO 669 676	hermano
+T72	ORG_VIVO 726 740	Abuelo materno
+T73	ORG_VIVO 788 802	Abuela paterna
+T74	ORG_VIVO 1125 1133	infancia
+T75	ORG_VIVO 1171 1179	paciente
+T76	ORG_VIVO 1187 1194	hermano
+T77	ORG_VIVO 1678 1686	paciente
+T78	ORG_VIVO 1925 1933	paciente
+T79	ORG_VIVO 2157 2165	paciente
+T80	ORG_VIVO 2210 2222	interlocutor
+T81	ORG_VIVO 2683 2686	VIH
+T82	ORG_VIVO 3471 3479	paciente
+T83	ORG_VIVO 3808 3816	paciente
+T84	ORG_VIVO 4109 4117	paciente
+T85	ORG_VIVO 4124 4130	padres
+T86	ENFERMEDAD 742 756	tumor cerebral
+T87	ENFERMEDAD 2493 2499	muerte
+T88	ENFERMEDAD 2505 2513	suicidio
+T89	ENFERMEDAD 2874 2885	DIAGNÓSTICO
+T90	ENFERMEDAD 2886 2913	Trastorno esquizofreniforme
+T91	PACIENTE-SITUACION_LABORAL 631 641	No trabaja

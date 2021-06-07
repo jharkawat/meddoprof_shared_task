@@ -1,0 +1,118 @@
+T1	SINTOMA 220 229	fallecida
+T2	SINTOMA 350 358	embarazo
+T3	SINTOMA 1216 1248	incapacidad para la deambulación
+T4	SINTOMA 1286 1312	hiperreflexia generalizada
+T5	SINTOMA 1563 1583	Espasticidad en MMII
+T6	SINTOMA 1585 1627	dismetría en maniobra dedo-nariz bilateral
+T7	SINTOMA 1629 1639	talla baja
+T8	SINTOMA 1657 1683	empeoramiento de la marcha
+T9	SINTOMA 1696 1702	ataxia
+T10	SINTOMA 1758 1765	temblor
+T11	SINTOMA 1820 1835	hipersalivación
+T12	SINTOMA 1905 1913	disfagia
+T13	SINTOMA 1915 1924	disartria
+T14	SINTOMA 2357 2384	lenguaje tosco monosilábico
+T15	SINTOMA 2536 2545	nistagmus
+T16	SINTOMA 2550 2566	debilidad facial
+T17	SINTOMA 2586 2617	movimientos de la lengua torpes
+T18	SINTOMA 2850 2857	temblor
+T19	SINTOMA 4378 4385	temblor
+T20	PROCEDIMIENTO 379 384	parto
+T21	PROCEDIMIENTO 1033 1055	osteosíntesis de placa
+T22	PROCEDIMIENTO 2116 2129	Examen físico
+T23	PROCEDIMIENTO 2244 2267	Exploración Neurológica
+T24	PROCEDIMIENTO 2744 2766	RCP extensor bilateral
+T25	PROCEDIMIENTO 3092 3112	screening de ataxias
+T26	PROCEDIMIENTO 3342 3345	EMG
+T27	PROCEDIMIENTO 3357 3366	TC cráneo
+T28	PROCEDIMIENTO 3393 3396	EEG
+T29	PROCEDIMIENTO 3408 3427	Estudio cromosómico
+T30	PROCEDIMIENTO 3438 3469	Estudio de ataxia de Friedreich
+T31	PROCEDIMIENTO 3483 3500	Ortopantomografía
+T32	PROCEDIMIENTO 3649 3667	Electroretinograma
+T33	PROCEDIMIENTO 3679 3682	PEV
+T34	PROCEDIMIENTO 3734 3739	PEATC
+T35	PROCEDIMIENTO 3753 3777	Sialografía de parótidas
+T36	PROCEDIMIENTO 3789 3791	RM
+T37	PROCEDIMIENTO 3959 3987	Resonancia magnética craneal
+T38	NEG 193 195	No
+T39	NSCO 196 210	consanguinidad
+T40	NEG 263 265	no
+T41	NSCO 266 278	especificada
+T42	NEG 393 396	sin
+T43	NSCO 397 423	complicaciones perinatales
+T44	NEG 488 491	sin
+T45	NSCO 492 533	lograr nunca independencia para la marcha
+T46	NEG 1216 1232	incapacidad para
+T47	NSCO 1233 1257	la deambulación autónoma
+T48	NEG 1704 1715	ausencia de
+T49	NSCO 1716 1732	piezas dentarias
+T50	NEG 2521 2523	no
+T51	NSCO 2524 2545	se objetiva nistagmus
+T52	NEG 2547 2549	no
+T53	NSCO 2550 2584	debilidad facial ni de pares bajos
+T54	NEG 2618 2621	sin
+T55	NSCO 2622 2651	observarse amiotrofia lingual
+T56	NEG 2683 2686	sin
+T57	NSCO 2687 2709	amiotrofias llamativas
+T58	NEG 3471 3479	negativo
+T59	NEG 3588 3599	ausencia de
+T60	NSCO 3600 3616	piezas dentarias
+T61	NEG 4353 4361	ausencia
+T62	NEG 4421 4424	sin
+T63	NSCO 4425 4432	cambios
+T64	FARMACO 714 723	valproato
+T65	FARMACO 726 739	carbamacepina
+T66	FARMACO 1092 1100	Ramipril
+T67	FARMACO 1102 1114	Testosterona
+T68	FARMACO 1117 1129	Levotiroxina
+T69	FARMACO 4257 4266	valproato
+T70	ORG_VIVO 10 15	Varón
+T71	ORG_VIVO 167 177	familiares
+T72	ORG_VIVO 179 185	Padres
+T73	ORG_VIVO 212 219	Hermana
+T74	ORG_VIVO 238 246	neonatal
+T75	ORG_VIVO 280 291	Tío paterno
+T76	ORG_VIVO 328 338	personales
+T77	ORG_VIVO 662 670	infancia
+T78	ORG_VIVO 945 953	viriasis
+T79	ORG_VIVO 1134 1142	paciente
+T80	ORG_VIVO 1980 1985	madre
+T81	ORG_VIVO 1990 1998	paciente
+T82	ORG_VIVO 2165 2173	paciente
+T83	ENFERMEDAD 44 60	ataxia congénita
+T84	ENFERMEDAD 251 262	cardiopatía
+T85	ENFERMEDAD 296 312	Síndrome de Down
+T86	ENFERMEDAD 350 358	embarazo
+T87	ENFERMEDAD 364 375	hiperemesis
+T88	ENFERMEDAD 613 616	HTA
+T89	ENFERMEDAD 618 655	infecciones de parótida de repetición
+T90	ENFERMEDAD 672 694	crisis focales simples
+T91	ENFERMEDAD 779 792	déficit de GH
+T92	ENFERMEDAD 854 868	hipotiroidismo
+T93	ENFERMEDAD 870 880	hipodoncia
+T94	ENFERMEDAD 882 911	hipogonadismo hipogonadotropo
+T95	ENFERMEDAD 945 953	viriasis
+T96	ENFERMEDAD 956 982	trombocitopenia secundaria
+T97	ENFERMEDAD 984 1011	fractura proximal de húmero
+T98	ENFERMEDAD 1642 1655	hipogonadismo
+T99	ENFERMEDAD 1734 1756	crisis focales simples
+T100	ENFERMEDAD 1792 1817	parotiditis de repetición
+T101	ENFERMEDAD 1927 1945	retraso psicomotor
+T102	ENFERMEDAD 2633 2651	amiotrofia lingual
+T103	ENFERMEDAD 2865 2881	Ataxia de tronco
+T104	ENFERMEDAD 3032 3046	hipotiroidismo
+T105	ENFERMEDAD 3105 3112	ataxias
+T106	ENFERMEDAD 3368 3389	Hipoplasia cerebelosa
+T107	ENFERMEDAD 3449 3469	ataxia de Friedreich
+T108	ENFERMEDAD 3684 3730	Neuritis óptica bilateral desmielinizante leve
+T109	ENFERMEDAD 3793 3818	Hipomielinización central
+T110	ENFERMEDAD 3857 3917	Atrofia de fosa posterior de predominio pontino y cerebeloso
+T111	ENFERMEDAD 4025 4049	hipomielinización difusa
+T112	ENFERMEDAD 4067 4083	Ataxia congénita
+T113	ENFERMEDAD 4095 4105	hipodoncia
+T114	ENFERMEDAD 4107 4138	hipogonadismo hipogonadotrópico
+T115	ENFERMEDAD 4141 4166	hipomielinización central
+T116	ENFERMEDAD 4168 4186	sindrome de las 4h
+T117	ENFERMEDAD 4394 4413	ataxia de la marcha
+T118	PACIENTE-PROFESION 582 611	trabaja en Centro ocupacional

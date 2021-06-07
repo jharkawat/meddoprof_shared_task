@@ -1,0 +1,86 @@
+T1	SINTOMA 127 140	artromialgias
+T2	SINTOMA 142 150	diplopía
+T3	SINTOMA 153 172	sudoración nocturna
+T4	SINTOMA 178 201	pérdida de 8 kg de peso
+T5	SINTOMA 332 338	fiebre
+T6	SINTOMA 1498 1532	engrosamiento de tallo hipofisario
+T7	SINTOMA 1616 1622	algias
+T8	SINTOMA 1652 1667	síndrome febril
+T9	SINTOMA 1929 1937	poliuria
+T10	SINTOMA 1940 1943	sed
+T11	PROCEDIMIENTO 265 283	Exploración Física
+T12	PROCEDIMIENTO 287 305	exploración física
+T13	PROCEDIMIENTO 582 602	radiografía de tórax
+T14	PROCEDIMIENTO 605 630	TAC craneal sin contraste
+T15	PROCEDIMIENTO 820 832	hemocultivos
+T16	PROCEDIMIENTO 834 845	urocultivos
+T17	PROCEDIMIENTO 847 860	coprocultivos
+T18	PROCEDIMIENTO 862 869	mantoux
+T19	PROCEDIMIENTO 873 887	punción lumbar
+T20	PROCEDIMIENTO 1023 1052	ecocardiograma transesofágico
+T21	PROCEDIMIENTO 1116 1142	estudio electrofisiológico
+T22	PROCEDIMIENTO 1217 1225	body-TAC
+T23	PROCEDIMIENTO 1410 1428	Angio TAC de aorta
+T24	PROCEDIMIENTO 1448 1459	RMN craneal
+T25	PROCEDIMIENTO 1640 1649	analgesia
+T26	PROCEDIMIENTO 1712 1722	esteroides
+T27	PROCEDIMIENTO 1948 1967	ecografía abdominal
+T28	PROCEDIMIENTO 2001 2030	biopsia ósea de cresta ilíaca
+T29	PROCEDIMIENTO 2375 2412	tratamiento quimioterápico intratecal
+T30	NEG 26 29	sin
+T31	NSCO 30 53	antecedentes de interés
+T32	NEG 55 58	sin
+T33	NSCO 59 98	tratamiento habitual ni hábitos tóxicos
+T34	UNC 403 417	compatible con
+T35	USCO 418 439	picadura de garrapata
+T36	NEG 617 620	sin
+T37	NSCO 621 630	contraste
+T38	NEG 636 638	no
+T39	NSCO 639 660	muestran alteraciones
+T40	NSCO 820 869	hemocultivos, urocultivos, coprocultivos, mantoux
+T41	NEG 1083 1091	negativo
+T42	NEG 1143 1151	negativo
+T43	NEG 1466 1469	sin
+T44	NSCO 1470 1479	contraste
+T45	NEG 1627 1629	no
+T46	NSCO 1630 1667	ceden con analgesia y síndrome febril
+T47	NEG 1775 1778	sin
+T48	NSCO 1779 1805	mejoría del cuadro clínico
+T49	NEG 2160 2171	se descarta
+T50	NSCO 2172 2200	patología digestiva primaria
+T51	FARMACO 1698 1709	Doxiciclina
+T52	FARMACO 1745 1756	Ceftriaxona
+T53	FARMACO 1759 1773	Ciprofloxacino
+T54	ORG_VIVO 0 5	Varón
+T55	ORG_VIVO 241 249	ganadero
+T56	ORG_VIVO 252 262	agricultor
+T57	ORG_VIVO 430 439	garrapata
+T58	ORG_VIVO 759 762	VIH
+T59	ORG_VIVO 764 772	brucella
+T60	ORG_VIVO 774 782	borrelia
+T61	ORG_VIVO 784 794	rickettsia
+T62	ORG_VIVO 796 804	clamidia
+T63	ORG_VIVO 807 817	toxoplasma
+T64	ORG_VIVO 910 921	bacterianos
+T65	ORG_VIVO 923 929	hongos
+T66	ORG_VIVO 932 945	micobacterias
+T67	ORG_VIVO 951 963	virus herpes
+T68	ORG_VIVO 1591 1599	paciente
+T69	ORG_VIVO 2151 2159	paciente
+T70	ORG_VIVO 2450 2458	paciente
+T71	ENFERMEDAD 377 439	lesión en muslo izquierdo compatible con picadura de garrapata
+T72	ENFERMEDAD 446 473	parálisis de VI par craneal
+T73	ENFERMEDAD 989 1001	tuberculosis
+T74	ENFERMEDAD 1271 1287	infartos renales
+T75	ENFERMEDAD 1835 1844	hepatitis
+T76	ENFERMEDAD 1847 1866	pancreatitis agudas
+T77	ENFERMEDAD 2060 2101	Leucemia aguda linfoblástica B madura, L3
+T78	ENFERMEDAD 2104 2107	LLA
+T79	ENFERMEDAD 2172 2200	patología digestiva primaria
+T80	ENFERMEDAD 2222 2231	hepatitis
+T81	ENFERMEDAD 2234 2260	pancreatitis infiltrativas
+T82	ENFERMEDAD 2274 2291	diabetes insípida
+T83	ENFERMEDAD 2293 2313	parálisis del VI par
+T84	ENFERMEDAD 2316 2332	infartos renales
+T85	PACIENTE-PROFESION 252 262	agricultor
+T86	PACIENTE-PROFESION 241 249	ganadero

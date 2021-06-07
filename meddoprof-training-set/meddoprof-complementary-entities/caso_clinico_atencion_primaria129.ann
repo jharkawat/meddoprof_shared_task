@@ -1,0 +1,76 @@
+T1	SINTOMA 181 211	dolor a la palpación en hombro
+T2	SINTOMA 308 328	limitación funcional
+T3	SINTOMA 554 559	dolor
+T4	SINTOMA 747 765	hormigueo de brazo
+T5	SINTOMA 818 837	dolor como muscular
+T6	SINTOMA 857 874	dolor neuropático
+T7	SINTOMA 943 948	dolor
+T8	SINTOMA 1026 1033	astenia
+T9	SINTOMA 1036 1051	pérdida de peso
+T10	SINTOMA 1847 1852	dolor
+T11	PROCEDIMIENTO 78 116	artrodesis de columna vertebral lumbar
+T12	PROCEDIMIENTO 473 501	Artrodesis de columna Lumbar
+T13	PROCEDIMIENTO 629 667	palpación de musculatura paravertebral
+T14	PROCEDIMIENTO 894 916	tratamiento analgésico
+T15	PROCEDIMIENTO 1103 1121	exploración física
+T16	PROCEDIMIENTO 1197 1238	Radiografía de columna vertebral cervical
+T17	PROCEDIMIENTO 1858 1867	analgesia
+T18	PROCEDIMIENTO 1928 1946	exploración física
+T19	PROCEDIMIENTO 2050 2081	pruebas de función respiratoria
+T20	PROCEDIMIENTO 2123 2134	TC torácico
+T21	NEG 274 277	sin
+T22	NSCO 278 328	evento traumático asociado ni limitación funcional
+T23	NEG 425 428	sin
+T24	NSCO 429 436	interés
+T25	NSCO 438 461	Antecedentes personales
+T26	UNC 849 856	posible
+T27	USCO 857 883	dolor neuropático asociado
+T28	UNC 1363 1369	dudosa
+T29	USCO 1370 1388	y alarmante imagen
+T30	NEG 1575 1578	sin
+T31	NSCO 1579 1616	poder descartar tumoración subyacente
+T32	NEG 1697 1700	sin
+T33	NSCO 1701 1713	alteraciones
+T34	NEG 1835 1837	no
+T35	NSCO 1838 1875	presenta dolor tras analgesia pautada
+T36	UNC 2200 2206	podría
+T37	USCO 2207 2265	estar relacionada con agenesia del hemidiafragma izquierdo
+T38	NEG 2454 2457	sin
+T39	NSCO 2458 2481	alteraciones relevantes
+T40	NEG 2756 2767	se descarta
+T41	NSCO 2768 2779	la neumonía
+T42	UNC 2926 2932	podría
+T43	USCO 2933 2966	tener relevancia en este contexto
+T44	NEG 2974 2976	no
+T45	NSCO 2977 3000	lo justifica claramente
+T46	UNC 3012 3020	sospecha
+T47	USCO 3021 3082	principal es una Hernia Diafragmática gigante tipo Bochdaleck
+T48	NEG 3141 3143	no
+T49	NSCO 3144 3171	presencia de síntomas de la
+T50	NEG 3336 3344	descarta
+T51	NSCO 3345 3396	al estar completamente asintomática de su patología
+T52	ORG_VIVO 19 24	Mujer
+T53	ORG_VIVO 53 63	personales
+T54	ORG_VIVO 413 423	familiares
+T55	ORG_VIVO 451 461	personales
+T56	ORG_VIVO 530 538	paciente
+T57	ORG_VIVO 952 979	Médico de Atención Primaria
+T58	ORG_VIVO 1005 1013	paciente
+T59	ORG_VIVO 2492 2500	familiar
+T60	ORG_VIVO 2518 2526	paciente
+T61	ORG_VIVO 2550 2557	familia
+T62	ORG_VIVO 2850 2858	paciente
+T63	ORG_VIVO 3172 3180	paciente
+T64	ORG_VIVO 3315 3323	paciente
+T65	ENFERMEDAD 67 75	artrosis
+T66	ENFERMEDAD 463 471	Artrosis
+T67	ENFERMEDAD 1263 1289	espondiloartrosis cervical
+T68	ENFERMEDAD 1528 1543	derrame pleural
+T69	ENFERMEDAD 1762 1778	neumonía atípica
+T70	ENFERMEDAD 1781 1799	proceso neoplásico
+T71	ENFERMEDAD 2156 2184	hernia diafragmática gigante
+T72	ENFERMEDAD 2229 2255	agenesia del hemidiafragma
+T73	ENFERMEDAD 2771 2779	neumonía
+T74	ENFERMEDAD 2785 2794	neoplasia
+T75	ENFERMEDAD 3038 3082	Hernia Diafragmática gigante tipo Bochdaleck
+T76	SANITARIO-PROFESION 952 979	Médico de Atención Primaria

@@ -1,0 +1,44 @@
+T1	SINTOMA 440 507	quemadura de segundo grado en la cara interna del antebrazo y brazo
+T2	SINTOMA 1073 1078	dolor
+T3	SINTOMA 2053 2077	estabilidad hemodinámica
+T4	SINTOMA 2603 2612	sialorrea
+T5	SINTOMA 3307 3325	esch26@hotmail.com
+T6	PROCEDIMIENTO 706 735	desbridamiento mecánico local
+T7	PROCEDIMIENTO 777 794	apósito Tulgrasum
+T8	PROCEDIMIENTO 1027 1036	analgesia
+T9	PROCEDIMIENTO 1082 1090	sedación
+T10	PROCEDIMIENTO 2009 2019	analgésico
+T11	PROCEDIMIENTO 2302 2310	sedación
+T12	NEG 1170 1173	sin
+T13	NSCO 1174 1204	incidencias durante 16 minutos
+T14	NEG 1459 1462	sin
+T15	NSCO 1463 1505	efectos adversos durante curas posteriores
+T16	UNC 2402 2408	podría
+T17	USCO 2409 2459	producirse una marcada estimulación cardiovascular
+T18	UNC 2541 2547	podría
+T19	USCO 2548 2612	añadir atropina para minimizar la posible aparición de sialorrea
+T20	NEG 2624 2634	ninguno de
+T21	NSCO 2635 2722	los dos casos fue administrada ni apareció un aumento de secreciones en estos pacientes
+T22	FARMACO 752 774	sulfadiacina argéntica
+T23	FARMACO 836 852	bacitracina-zinc
+T24	FARMACO 854 863	neomicina
+T25	FARMACO 865 888	sulfato de polimixina B
+T26	FARMACO 952 961	midazolam
+T27	FARMACO 991 999	ketamina
+T28	FARMACO 1960 1968	ketamina
+T29	FARMACO 1971 1980	midazolam
+T30	FARMACO 2315 2324	midazolam
+T31	FARMACO 2367 2375	ketamina
+T32	FARMACO 2555 2563	atropina
+T33	ORG_VIVO 365 373	Paciente
+T34	ORG_VIVO 402 407	varón
+T35	ORG_VIVO 1209 1217	paciente
+T36	ORG_VIVO 2289 2297	paciente
+T37	ORG_VIVO 2713 2722	pacientes
+T38	ENFERMEDAD 440 507	quemadura de segundo grado en la cara interna del antebrazo y brazo
+T39	SANITARIO-PROFESION 311 317	Médico
+T40	SANITARIO-PROFESION 2969 2975	Médico
+T41	SANITARIO-PROFESION 2983 2989	Médico
+T42	SANITARIO-PROFESION 2997 3003	Médico
+T43	SANITARIO-PROFESION 3052 3058	Médico
+T44	PACIENTE-PROFESION 409 416	militar

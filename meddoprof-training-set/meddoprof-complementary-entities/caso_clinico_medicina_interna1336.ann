@@ -1,0 +1,62 @@
+T1	SINTOMA 171 177	fiebre
+T2	SINTOMA 329 344	dolor abdominal
+T3	SINTOMA 356 364	anorexia
+T4	SINTOMA 367 374	vómitos
+T5	SINTOMA 414 421	afebril
+T6	SINTOMA 423 433	normotenso
+T7	SINTOMA 491 531	dolor con rebote positivo en fosa ilíaca
+T8	SINTOMA 555 567	leucocitosis
+T9	SINTOMA 583 594	neutrofilia
+T10	SINTOMA 597 631	elevación de creatinina enzimática
+T11	SINTOMA 646 658	hiponatremia
+T12	SINTOMA 903 912	ictericia
+T13	SINTOMA 934 955	alargamiento del APTT
+T14	SINTOMA 1224 1247	dificultad respiratoria
+T15	SINTOMA 1263 1289	elevación de la creatinina
+T16	SINTOMA 1432 1438	fiebre
+T17	SINTOMA 1981 2003	alteraciones hepáticas
+T18	PROCEDIMIENTO 204 228	tratamiento antipirético
+T19	PROCEDIMIENTO 381 399	exploración física
+T20	PROCEDIMIENTO 469 490	exploración abdominal
+T21	PROCEDIMIENTO 693 702	ecografía
+T22	PROCEDIMIENTO 705 717	TC abdominal
+T23	PROCEDIMIENTO 1118 1132	antibioterapia
+T24	PROCEDIMIENTO 1158 1170	hemocultivos
+T25	PROCEDIMIENTO 1353 1373	ventilación asistida
+T26	PROCEDIMIENTO 1376 1388	hemodiálisis
+T27	PROCEDIMIENTO 1607 1619	hemodiálisis
+T28	PROCEDIMIENTO 1679 1689	esteroides
+T29	PROCEDIMIENTO 1710 1743	serología por inmunofluorescencia
+T30	PROCEDIMIENTO 1932 1942	esteroides
+T31	PROCEDIMIENTO 2021 2029	diálisis
+T32	NEG 19 22	sin
+T33	NSCO 23 66	antecedentes médicos de interés, agricultor
+T34	NEG 414 421	afebril
+T35	NEG 731 733	no
+T36	NSCO 734 765	muestra alteraciones relevantes
+T37	NSCO 1154 1170	los hemocultivos
+T38	NEG 1171 1180	negativos
+T39	NEG 1501 1509	negativa
+T40	UNC 1634 1645	sospecha de
+T41	USCO 1646 1652	Fiebre
+T42	UNC 1850 1864	compatible con
+T43	USCO 1865 1902	Infección aguda por Coxiella burnetti
+T44	NEG 1962 1976	desapareciendo
+T45	NSCO 1977 2003	las alteraciones hepáticas
+T46	NEG 2102 2114	asintomático
+T47	FARMACO 1665 1676	doxiciclina
+T48	FARMACO 1918 1929	doxiciclina
+T49	ORG_VIVO 0 5	Varón
+T50	ORG_VIVO 56 66	agricultor
+T51	ORG_VIVO 125 133	paciente
+T52	ORG_VIVO 1476 1495	anticomplementémico
+T53	ORG_VIVO 1538 1546	paciente
+T54	ENFERMEDAD 145 166	síndrome pseudogripal
+T55	ENFERMEDAD 555 567	leucocitosis
+T56	ENFERMEDAD 583 594	neutrofilia
+T57	ENFERMEDAD 646 658	hiponatremia
+T58	ENFERMEDAD 661 680	acidosis metabólica
+T59	ENFERMEDAD 1252 1260	neumonía
+T60	ENFERMEDAD 1646 1654	Fiebre Q
+T61	ENFERMEDAD 1865 1902	Infección aguda por Coxiella burnetti
+T62	PACIENTE-PROFESION 56 66	agricultor

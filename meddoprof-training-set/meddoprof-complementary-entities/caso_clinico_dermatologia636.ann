@@ -1,0 +1,31 @@
+T1	SINTOMA 91 100	febrícula
+T2	SINTOMA 117 123	fiebre
+T3	SINTOMA 640 649	dolorosas
+T4	SINTOMA 1044 1051	afebril
+T5	SINTOMA 1111 1137	edema importante en labios
+T6	SINTOMA 1140 1160	prurito generalizado
+T7	SINTOMA 1501 1513	leucocitosis
+T8	PROCEDIMIENTO 1480 1489	hemograma
+T9	NEG 26 29	sin
+T10	NSCO 30 53	antecedentes de interés
+T11	NEG 449 451	no
+T12	NSCO 452 456	solo
+T13	NEG 457 459	no
+T14	NSCO 460 489	se aprecia mejoría del cuadro
+T15	NEG 1044 1051	afebril
+T16	NEG 1561 1564	sin
+T17	NSCO 1565 1577	alteraciones
+T18	FARMACO 369 381	azitromicina
+T19	FARMACO 436 448	azitromicina
+T20	ORG_VIVO 0 5	Varón
+T21	ORG_VIVO 167 194	médico de atención primaria
+T22	ORG_VIVO 781 786	madre
+T23	ORG_VIVO 900 927	médico de atención primaria
+T24	ORG_VIVO 1022 1030	paciente
+T25	ENFERMEDAD 261 276	cuadro catarral
+T26	ENFERMEDAD 538 551	herpes labial
+T27	ENFERMEDAD 586 620	lesiones cutáneas muy pruriginosas
+T28	ENFERMEDAD 1212 1225	herpes labial
+T29	ENFERMEDAD 1231 1398	lesiones dérmicas en forma de pequeñas vesículas rodeadas de un halo eritematoso que afectan a la piel de la cara, tronco y extremidades y a las mucosas oral y genital
+T30	SANITARIO-PROFESION 167 194	médico de atención primaria
+T31	SANITARIO-PROFESION 900 927	médico de atención primaria

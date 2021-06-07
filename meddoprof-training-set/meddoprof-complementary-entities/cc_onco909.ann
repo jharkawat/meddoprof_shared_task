@@ -1,0 +1,191 @@
+T1	SINTOMA 350 357	astenia
+T2	SINTOMA 359 367	anorexia
+T3	SINTOMA 369 386	tos no productiva
+T4	SINTOMA 389 398	febrícula
+T5	SINTOMA 496 514	sudoración profusa
+T6	SINTOMA 520 535	pérdida de peso
+T7	SINTOMA 540 550	hemoptisis
+T8	SINTOMA 555 569	dolor torácico
+T9	SINTOMA 994 1048	masa cavitada en segmento anterior del lóbulo superior
+T10	SINTOMA 1063 1093	aumento de tamaño mediastínico
+T11	SINTOMA 2338 2351	masa pulmonar
+T12	SINTOMA 2473 2482	febrícula
+T13	SINTOMA 2488 2491	tos
+T14	SINTOMA 2504 2514	hemoptisis
+T15	SINTOMA 3462 3471	febrícula
+T16	SINTOMA 3488 3491	tos
+T17	SINTOMA 3496 3520	expectoración hemoptoica
+T18	SINTOMA 3626 3678	hipoventilación en la porción superior del hemitórax
+T19	SINTOMA 3910 3933	elevación diafragmática
+T20	SINTOMA 3946 3969	desviación mediastínica
+T21	SINTOMA 6194 6213	febrícula irregular
+T22	SINTOMA 6215 6230	pérdida de peso
+T23	SINTOMA 6233 6252	sudoración nocturna
+T24	SINTOMA 6520 6549	edemas en miembros inferiores
+T25	SINTOMA 6551 6566	Abdomen anodino
+T26	SINTOMA 8714 8756	consolidación alveolar masivas bilaterales
+T27	SINTOMA 9526 9539	consolidación
+T28	PROCEDIMIENTO 620 638	exploración física
+T29	PROCEDIMIENTO 941 961	radiografía de tórax
+T30	PROCEDIMIENTO 1245 1247	TC
+T31	PROCEDIMIENTO 1249 1283	tomografía computarizada) de tórax
+T32	PROCEDIMIENTO 1502 1514	broncoscopia
+T33	PROCEDIMIENTO 1519 1541	biopsia transbronquial
+T34	PROCEDIMIENTO 1943 1956	serología VIH
+T35	PROCEDIMIENTO 2220 2247	tratamiento con corticoides
+T36	PROCEDIMIENTO 2322 2351	reducción de la masa pulmonar
+T37	PROCEDIMIENTO 2757 2768	corticoides
+T38	PROCEDIMIENTO 2879 2881	TC
+T39	PROCEDIMIENTO 3375 3384	anamnesis
+T40	PROCEDIMIENTO 3545 3563	exploración física
+T41	PROCEDIMIENTO 3602 3614	auscultación
+T42	PROCEDIMIENTO 3705 3723	exploración física
+T43	PROCEDIMIENTO 3784 3795	TC de tórax
+T44	PROCEDIMIENTO 4469 4487	análisis de sangre
+T45	PROCEDIMIENTO 5277 5322	toracotomía izquierda diagnóstico-terapéutica
+T46	PROCEDIMIENTO 5390 5392	TC
+T47	PROCEDIMIENTO 5496 5503	biopsia
+T48	PROCEDIMIENTO 6136 6145	anamnesis
+T49	PROCEDIMIENTO 6256 6274	Exploración física
+T50	PROCEDIMIENTO 6399 6420	Auscultación cardiaca
+T51	PROCEDIMIENTO 6493 6514	auscultación pulmonar
+T52	PROCEDIMIENTO 6568 6591	Exploración neurológica
+T53	PROCEDIMIENTO 6816 6822	PET-TC
+T54	PROCEDIMIENTO 6824 6871	tomografía por emisión de positrones) de cuerpo
+T55	PROCEDIMIENTO 6985 6987	TC
+T56	PROCEDIMIENTO 7023 7042	estudio histológico
+T57	PROCEDIMIENTO 7826 7846	Estudio citogenético
+T58	PROCEDIMIENTO 7939 7969	Punción-biopsia de médula ósea
+T59	PROCEDIMIENTO 9211 9232	lavado broncoalveolar
+T60	PROCEDIMIENTO 9520 9522	RT
+T61	NEG 58 61	Sin
+T62	NSCO 62 95	alergias medicamentosas conocidas
+T63	NEG 97 100	Sin
+T64	NSCO 101 156	factores de riesgo cardiovasculares, ni hábitos tóxicos
+T65	NEG 158 161	Sin
+T66	NSCO 162 216	antecedentes médico-quirúrgicos patológicos de interés
+T67	NEG 218 220	No
+T68	NSCO 221 245	toma medicación habitual
+T69	NEG 247 250	Sin
+T70	NSCO 251 285	antecedentes familiares de interés
+T71	NEG 373 375	no
+T72	NSCO 376 398	productiva y febrícula
+T73	NEG 452 464	negativos de
+T74	NSCO 465 470	valor
+T75	NEG 484 495	ausencia de
+T76	NSCO 496 514	sudoración profusa
+T77	NEG 516 519	sin
+T78	NSCO 520 569	pérdida de peso, ni hemoptisis, ni dolor torácico
+T79	NEG 571 573	No
+T80	NSCO 574 607	tiene otros síntomas por aparatos
+T81	NEG 695 697	no
+T82	NSCO 698 741	presentaba hallazgos patológicos a destacar
+T83	NEG 743 745	No
+T84	NSCO 746 781	se palpaban adenopatías periféricas
+T85	NEG 894 896	no
+T86	NSCO 897 933	mostraba alteraciones significativas
+T87	NEG 1641 1643	no
+T88	NSCO 1644 1657	caseificantes
+T89	NEG 1672 1683	ausencia de
+T90	NSCO 1684 1705	células Reed-Stemberg
+T91	NEG 1957 1965	negativa
+T92	NEG 1992 1995	sin
+T93	NSCO 1996 2023	alteraciones significativas
+T94	NEG 2515 2517	no
+T95	NSCO 2518 2538	presente previamente
+T96	NEG 3079 3082	sin
+T97	NSCO 3083 3101	conseguir remisión
+T98	NEG 3111 3122	ausencia de
+T99	NSCO 3123 3132	respuesta
+T100	NEG 3725 3728	sin
+T101	NSCO 3729 3765	hallazgos patológicos significativos
+T102	NEG 4726 4729	sin
+T103	NSCO 4730 4742	alteraciones
+T104	UNC 4952 4959	valorar
+T105	USCO 4960 4985	posibilidades quirúrgicas
+T106	NEG 5403 5412	imposible
+T107	NSCO 5413 5458	el abordaje extrapericárdico de la tumoración
+T108	UNC 5588 5601	sospechosa de
+T109	USCO 5602 5612	malignidad
+T110	NEG 5614 5625	descartando
+T111	NSCO 5626 5650	la enfermedad de Wegener
+T112	NEG 5665 5677	se desestimó
+T113	NSCO 5678 5736	cirugía programada al tratarse de un proceso maligno en el
+T114	NEG 5741 5743	no
+T115	NSCO 5744 5788	sería factible la resección tumoral completa
+T116	NEG 6360 6363	Sin
+T117	NSCO 6364 6397	adenopatías periféricas palpables
+T118	NEG 6516 6519	Sin
+T119	NSCO 6520 6549	edemas en miembros inferiores
+T120	NEG 7316 7319	sin
+T121	NSCO 7320 7347	constituir grupos cohesivos
+T122	NEG 7882 7890	negativo
+T123	NEG 7971 7974	sin
+T124	NSCO 7975 8009	signos de infiltración por linfoma
+T125	NEG 8776 8778	no
+T126	NSCO 8779 8812	conocer el tratamiento oncológico
+T127	NEG 9150 9153	sin
+T128	NSCO 9154 9172	el antiangiogénico
+T129	NEG 9659 9671	asintomático
+T130	FARMACO 2250 2264	ciclofosfamida
+T131	FARMACO 2672 2686	ciclofosfamida
+T132	FARMACO 3030 3040	infliximab
+T133	FARMACO 3043 3054	metotrexato
+T134	FARMACO 8361 8365	CHOP
+T135	FARMACO 8372 8376	CHOP
+T136	FARMACO 8377 8388	bevacizumab
+T137	FARMACO 9044 9055	bevacizumab
+T138	FARMACO 9132 9136	CHOP
+T139	FARMACO 9141 9148	placebo
+T140	ORG_VIVO 10 24	Paciente varón
+T141	ORG_VIVO 264 274	familiares
+T142	ORG_VIVO 290 298	paciente
+T143	ORG_VIVO 1162 1170	paciente
+T144	ORG_VIVO 1707 1712	hifas
+T145	ORG_VIVO 1714 1721	esporas
+T146	ORG_VIVO 1724 1757	bacilos ácido-alcohol resistentes
+T147	ORG_VIVO 1759 1763	BAAR
+T148	ORG_VIVO 1923 1930	virales
+T149	ORG_VIVO 1953 1956	VIH
+T150	ORG_VIVO 2584 2592	paciente
+T151	ORG_VIVO 2813 2821	paciente
+T152	ORG_VIVO 3259 3267	paciente
+T153	ORG_VIVO 3389 3397	paciente
+T154	ORG_VIVO 5841 5849	paciente
+T155	ORG_VIVO 6114 6122	paciente
+T156	ORG_VIVO 6150 6158	paciente
+T157	ORG_VIVO 8203 8211	paciente
+T158	ORG_VIVO 8820 8828	paciente
+T159	ORG_VIVO 9009 9017	paciente
+T160	ORG_VIVO 9097 9105	paciente
+T161	ORG_VIVO 9403 9411	paciente
+T162	ORG_VIVO 9623 9631	paciente
+T163	ORG_VIVO 9833 9841	paciente
+T164	ENFERMEDAD 758 781	adenopatías periféricas
+T165	ENFERMEDAD 994 1048	masa cavitada en segmento anterior del lóbulo superior
+T166	ENFERMEDAD 1312 1388	consolidación con cavidad necrótica en segmento anterior del lóbulo superior
+T167	ENFERMEDAD 1404 1437	mazacote adenopático-mediastínico
+T168	ENFERMEDAD 1810 1834	vasculitis granulomatosa
+T169	ENFERMEDAD 1837 1862	necrotizante mediastínica
+T170	ENFERMEDAD 2143 2208	granulomatosis de Wegener con afectación mediastínica y bronquial
+T171	ENFERMEDAD 2608 2632	Enfermedades Infecciosas
+T172	ENFERMEDAD 2911 2951	atelectasia completa del lóbulo superior
+T173	ENFERMEDAD 3946 3969	desviación mediastínica
+T174	ENFERMEDAD 4368 4402	adenopatías en mediastino superior
+T175	ENFERMEDAD 4573 4591	anemia normocítica
+T176	ENFERMEDAD 4637 4648	monocitosis
+T177	ENFERMEDAD 4929 4946	tumores torácicos
+T178	ENFERMEDAD 5629 5650	enfermedad de Wegener
+T179	ENFERMEDAD 5715 5730	proceso maligno
+T180	ENFERMEDAD 6364 6387	adenopatías periféricas
+T181	ENFERMEDAD 6938 6958	adenopatías hiliares
+T182	ENFERMEDAD 7787 7822	linfoma B difuso de células grandes
+T183	ENFERMEDAD 7920 7930	trisomía 8
+T184	ENFERMEDAD 7985 8009	infiltración por linfoma
+T185	ENFERMEDAD 8024 8079	Linfoma difuso de células grandes B, primitivo pulmonar
+T186	ENFERMEDAD 8645 8677	insuficiencia respiratoria grave
+T187	ENFERMEDAD 8680 8697	hemoptisis franca
+T188	ENFERMEDAD 8964 8983	hemorragia pulmonar
+T189	ENFERMEDAD 9265 9313	bronconeumonía masiva por Pneumocystis jirovecii
+T190	ENFERMEDAD 9318 9353	coinfección por virus Parainfluenza
+T191	PACIENTE-PROFESION 37 43	Médico

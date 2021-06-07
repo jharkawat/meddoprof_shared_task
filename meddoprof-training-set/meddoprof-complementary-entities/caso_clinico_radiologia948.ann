@@ -1,0 +1,10 @@
+T1	PROCEDIMIENTO 137 160	radiografía AP de tórax
+T2	PROCEDIMIENTO 303 313	tomografía
+T3	NEG 100 102	No
+T4	NSCO 103 131	presenta heridas penetrantes
+T5	NEG 399 401	No
+T6	NSCO 402 440	se define la continuidad del diafragma
+T7	ORG_VIVO 2 20	Paciente masculino
+T8	ORG_VIVO 74 96	conductor del vehículo
+T9	ENFERMEDAD 269 282	cardiomegalia
+T10	ENFERMEDAD 519 540	ruptura diafragmática

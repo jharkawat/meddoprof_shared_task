@@ -1,0 +1,32 @@
+T1	NEG 1009 1011	no
+T2	NSCO 1012 1054	venía recogido como posible efecto adverso
+T3	NSCO 1409 1449	Los anticuerpos antitiroideos resultaron
+T4	NEG 1450 1459	negativos
+T5	NEG 1461 1463	no
+T6	NSCO 1464 1480	se palpaba bocio
+T7	NEG 1510 1518	retirado
+T8	NEG 1608 1611	sin
+T9	NSCO 1612 1624	interrupción
+T10	FARMACO 139 144	litio
+T11	FARMACO 146 164	carbonato de litio
+T12	FARMACO 436 444	ramipril
+T13	FARMACO 460 470	bisoprolol
+T14	FARMACO 485 497	sinvastatina
+T15	FARMACO 515 537	ácido acetilsalicílico
+T16	FARMACO 1550 1559	metamizol
+T17	FARMACO 1595 1600	litio
+T18	FARMACO 1869 1881	levotiroxina
+T19	ORG_VIVO 15 29	paciente varón
+T20	ORG_VIVO 764 781	Fucus vesiculosus
+T21	ORG_VIVO 796 813	Rhamnus purshiana
+T22	ORG_VIVO 876 884	paciente
+T23	ORG_VIVO 1485 1490	Fucus
+T24	ORG_VIVO 1841 1849	paciente
+T25	ENFERMEDAD 63 80	trastorno bipolar
+T26	ENFERMEDAD 319 345	infarto agudo de miocardio
+T27	ENFERMEDAD 610 622	fístula anal
+T28	ENFERMEDAD 988 1003	hipertiroidismo
+T29	ENFERMEDAD 1176 1190	hipotiroidismo
+T30	ENFERMEDAD 1358 1373	hipertiroidismo
+T31	ENFERMEDAD 1475 1480	bocio
+T32	ENFERMEDAD 1786 1816	hipotiroidismo subclínico leve

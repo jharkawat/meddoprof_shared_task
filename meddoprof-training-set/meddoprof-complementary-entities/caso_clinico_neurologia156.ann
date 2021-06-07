@@ -1,0 +1,49 @@
+T1	SINTOMA 370 385	ánimo depresivo
+T2	SINTOMA 508 516	insomnio
+T3	SINTOMA 519 527	ansiedad
+T4	SINTOMA 563 577	algias difusas
+T5	SINTOMA 588 595	astenia
+T6	SINTOMA 598 621	hipersomnolencia diurna
+T7	SINTOMA 626 631	dolor
+T8	SINTOMA 874 892	temblor en la mano
+T9	SINTOMA 932 941	insidiosa
+T10	SINTOMA 1108 1124	hipomimia facial
+T11	SINTOMA 1127 1139	bradicinesia
+T12	SINTOMA 1157 1214	rigidez generalizada tanto axial como de las extremidades
+T13	SINTOMA 1249 1253	hipo
+T14	SINTOMA 1303 1370	fuerza segmentaria estaba conservada y los reflejos eran simétricos
+T15	SINTOMA 1447 1481	temblor lento de reposo en la mano
+T16	SINTOMA 2261 2268	temblor
+T17	SINTOMA 2273 2280	rigidez
+T18	SINTOMA 2285 2297	bradicinesia
+T19	PROCEDIMIENTO 166 178	radioterapia
+T20	PROCEDIMIENTO 185 214	herniorrafia inguinal derecha
+T21	PROCEDIMIENTO 227 255	tratamiento antihipertensivo
+T22	PROCEDIMIENTO 488 503	benzodiacepinas
+T23	PROCEDIMIENTO 1034 1047	Examen físico
+T24	PROCEDIMIENTO 1613 1636	exploración neurológica
+T25	PROCEDIMIENTO 1801 1810	hemograma
+T26	PROCEDIMIENTO 2123 2132	anamnesis
+T27	PROCEDIMIENTO 2138 2156	exploración física
+T28	NEG 28 31	sin
+T29	NSCO 32 65	alergias medicamentosas conocidas
+T30	NEG 1576 1578	No
+T31	NSCO 1579 1647	mostraba otras alteraciones en la exploración neurológica ni general
+T32	UNC 2062 2073	sospecha de
+T33	USCO 2074 2097	enfermedad de Parkinson
+T34	FARMACO 2207 2215	levodopa
+T35	FARMACO 2218 2227	carbidopa
+T36	ORG_VIVO 10 15	Varón
+T37	ORG_VIVO 321 348	médico de Atención Primaria
+T38	ORG_VIVO 695 703	paciente
+T39	ORG_VIVO 709 714	mujer
+T40	ENFERMEDAD 32 55	alergias medicamentosas
+T41	ENFERMEDAD 87 108	hipertensión arterial
+T42	ENFERMEDAD 132 153	neoplasia de próstata
+T43	ENFERMEDAD 519 527	ansiedad
+T44	ENFERMEDAD 874 892	temblor en la mano
+T45	ENFERMEDAD 1249 1253	hipo
+T46	ENFERMEDAD 1775 1799	parkinsonismo secundario
+T47	ENFERMEDAD 1984 2017	Enfermedad de Parkinson estadio 2
+T48	ENFERMEDAD 2074 2097	enfermedad de Parkinson
+T49	SANITARIO-PROFESION 321 348	médico de Atención Primaria

@@ -1,0 +1,85 @@
+T1	SINTOMA 923 938	perjuicio vagas
+T2	SINTOMA 1403 1421	consumo de tóxicos
+T3	SINTOMA 1780 1793	irritabilidad
+T4	SINTOMA 1795 1803	disforia
+T5	SINTOMA 1850 1873	inestabilidad emocional
+T6	SINTOMA 1890 1896	llanto
+T7	SINTOMA 1899 1904	risas
+T8	SINTOMA 1907 1920	humor insulso
+T9	SINTOMA 1922 1942	discurso empobrecido
+T10	SINTOMA 1944 1970	enlentecimiento psicomotor
+T11	SINTOMA 1986 2002	ideas delirantes
+T12	SINTOMA 2160 2166	apatía
+T13	SINTOMA 2168 2174	abulia
+T14	SINTOMA 2177 2186	anhedonia
+T15	SINTOMA 2894 2914	lenguaje incoherente
+T16	SINTOMA 3620 3629	agitación
+T17	SINTOMA 4121 4134	irritabilidad
+T18	PROCEDIMIENTO 2343 2353	hemogramas
+T19	PROCEDIMIENTO 2356 2372	función tiroidea
+T20	PROCEDIMIENTO 2478 2490	TAC cerebral
+T21	NEG 1399 1402	Sin
+T22	NSCO 1403 1421	consumo de tóxicos
+T23	NEG 2373 2376	sin
+T24	NSCO 2377 2414	hallazgos de significación patológica
+T25	NEG 2491 2494	sin
+T26	NSCO 2495 2516	hallazgos patológicos
+T27	NEG 2903 2914	incoherente
+T28	NEG 3080 3092	se descartan
+T29	NSCO 3093 3126	por la grave afectación defectual
+T30	NEG 3197 3208	ausencia de
+T31	UNC 3209 3218	una clara
+T32	USCO 3219 3245	psicoreactividad ambiental
+T33	UNC 3277 3284	orienta
+T34	USCO 3285 3331	más hacia un trastorno clínico que caracterial
+T35	NEG 3373 3383	descartado
+T36	NSCO 3384 3448	ante la normalidad de las diversas exploraciones complementarias
+T37	NEG 4441 4444	sin
+T38	NSCO 4445 4466	incidencias orgánicas
+T39	FARMACO 3495 3504	clozapina
+T40	FARMACO 3711 3720	clozapina
+T41	FARMACO 3773 3784	risperidona
+T42	FARMACO 3823 3833	quetiapina
+T43	FARMACO 3866 3878	escitalopram
+T44	FARMACO 3881 3891	sertralina
+T45	FARMACO 4017 4032	ácido valproico
+T46	FARMACO 4771 4780	clozapina
+T47	FARMACO 4823 4832	clozapina
+T48	FARMACO 4863 4874	fluvoxamina
+T49	FARMACO 4887 4902	ácido valproico
+T50	FARMACO 4917 4928	aripiprazol
+T51	ORG_VIVO 26 36	personales
+T52	ORG_VIVO 38 43	mujer
+T53	ORG_VIVO 332 342	familiares
+T54	ORG_VIVO 344 349	padre
+T55	ORG_VIVO 391 398	hermana
+T56	ORG_VIVO 620 628	paciente
+T57	ORG_VIVO 708 716	paciente
+T58	ORG_VIVO 957 967	compañeros
+T59	ORG_VIVO 1445 1453	paciente
+T60	ORG_VIVO 1682 1687	Padre
+T61	ORG_VIVO 1838 1848	familiares
+T62	ORG_VIVO 2456 2459	VIH
+T63	ORG_VIVO 3072 3078	adulto
+T64	ORG_VIVO 4165 4173	paciente
+T65	ORG_VIVO 4243 4251	personas
+T66	ORG_VIVO 5029 5037	paciente
+T67	ENFERMEDAD 81 106	esquizofrenia hebefrénica
+T68	ENFERMEDAD 108 128	F. 20.1 de la CIE-10
+T69	ENFERMEDAD 132 151	retraso mental leve
+T70	ENFERMEDAD 354 385	trastorno del espectro obsesivo
+T71	ENFERMEDAD 416 433	trastorno bipolar
+T72	ENFERMEDAD 504 514	meningitis
+T73	ENFERMEDAD 536 550	Hipotiroidismo
+T74	ENFERMEDAD 1123 1151	crisis de agresividad física
+T75	ENFERMEDAD 2237 2259	proceso esquizofrénico
+T76	ENFERMEDAD 2533 2567	TRATAMIENTODIAGNÓSTICO DIFERENCIAL
+T77	ENFERMEDAD 2568 2597	Trastorno obsesivo-compulsivo
+T78	ENFERMEDAD 2697 2715	síndrome defectual
+T79	ENFERMEDAD 2810 2835	trastornos de la conducta
+T80	ENFERMEDAD 2975 3009	proceso esquizofrénico hebefrénico
+T81	ENFERMEDAD 3017 3046	trastornos de la personalidad
+T82	ENFERMEDAD 3144 3160	ideas delirantes
+T83	ENFERMEDAD 3333 3371	Trastorno mental de etiología orgánica
+T84	ENFERMEDAD 4704 4741	esquizofrenia hebefrénica refractaria
+T85	OTROS-SITUACION_LABORAL 957 981	compañeros del instituto

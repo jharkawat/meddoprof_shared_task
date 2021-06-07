@@ -1,0 +1,103 @@
+T1	SINTOMA 674 691	irritabilidad/ira
+T2	SINTOMA 694 723	dificultades para controlarla
+T3	SINTOMA 735 741	llanto
+T4	SINTOMA 743 764	sentimientos de culpa
+T5	SINTOMA 766 784	sensación de vacío
+T6	SINTOMA 810 839	dificultades de concentración
+T7	SINTOMA 894 914	insatisfacción vital
+T8	SINTOMA 916 928	desesperanza
+T9	SINTOMA 930 951	deseo sexual inhibido
+T10	SINTOMA 1521 1534	fallecimiento
+T11	SINTOMA 2042 2050	falleció
+T12	SINTOMA 3567 3577	embarazada
+T13	SINTOMA 4165 4186	irritabilidad extrema
+T14	SINTOMA 4188 4196	insomnio
+T15	SINTOMA 4198 4219	sentimientos de vacío
+T16	SINTOMA 4221 4230	anhedonia
+T17	SINTOMA 4234 4251	pérdida de libido
+T18	SINTOMA 4755 4759	....
+T19	PROCEDIMIENTO 192 215	tratamiento psicológico
+T20	PROCEDIMIENTO 336 350	antidepresivos
+T21	PROCEDIMIENTO 3729 3734	parto
+T22	PROCEDIMIENTO 4014 4019	parto
+T23	NEG 1263 1265	no
+T24	NSCO 1266 1281	estaban casados
+T25	NEG 2133 2135	no
+T26	NSCO 2136 2159	hubo peleas ni rupturas
+T27	NEG 2542 2544	No
+T28	NSCO 2545 2573	hubo lesiones de importancia
+T29	NEG 2892 2894	no
+T30	NSCO 2895 2927	persistía en ellas lo suficiente
+T31	NEG 3323 3325	no
+T32	NSCO 3326 3358	repetir los errores de mi madre"
+T33	NEG 3936 3938	no
+T34	NSCO 3939 3970	sabía qué era capaz de hacer...
+T35	NEG 4061 4064	sin
+T36	NSCO 4065 4081	ideación suicida
+T37	NEG 4268 4270	no
+T38	NSCO 4271 4301	han remitido con la medicación
+T39	NEG 4564 4566	no
+T40	NSCO 4567 4585	sé quién soy ni lo
+T41	NEG 4600 4602	no
+T42	NSCO 4603 4652	me reconozco a mí misma cuando insulto o pego a X
+T43	NEG 4838 4840	no
+T44	NSCO 4841 4857	sé por qué ahora
+T45	NEG 4858 4860	no
+T46	NSCO 4861 4870	lo quiero
+T47	NEG 4884 4886	no
+T48	NSCO 4887 4947	sé lo que siento por él...puede que nunca le haya querido...
+T49	NEG 4991 4993	no
+T50	NSCO 4994 5010	se qué quiero...
+T51	NEG 5010 5012	no
+T52	NSCO 5013 5037	se qué hacer con mi vida
+T53	NEG 5039 5041	no
+T54	NSCO 5042 5075	veo futuro...soy mala persona..."
+T55	FARMACO 544 554	Fluoxetina
+T56	ORG_VIVO 13 18	mujer
+T57	ORG_VIVO 47 51	hija
+T58	ORG_VIVO 377 383	marido
+T59	ORG_VIVO 443 449	esposo
+T60	ORG_VIVO 606 612	pareja
+T61	ORG_VIVO 798 808	personales
+T62	ORG_VIVO 962 981	personal / familiar
+T63	ORG_VIVO 998 1003	madre
+T64	ORG_VIVO 1009 1015	abuela
+T65	ORG_VIVO 1027 1032	padre
+T66	ORG_VIVO 1102 1109	mujeres
+T67	ORG_VIVO 1157 1162	padre
+T68	ORG_VIVO 1256 1262	padres
+T69	ORG_VIVO 1305 1312	familia
+T70	ORG_VIVO 1407 1412	madre
+T71	ORG_VIVO 1415 1421	abuela
+T72	ORG_VIVO 1449 1455	abuela
+T73	ORG_VIVO 1774 1783	amistades
+T74	ORG_VIVO 1824 1829	novio
+T75	ORG_VIVO 2007 2012	madre
+T76	ORG_VIVO 2089 2094	novio
+T77	ORG_VIVO 2173 2178	madre
+T78	ORG_VIVO 2215 2221	pareja
+T79	ORG_VIVO 2351 2357	pareja
+T80	ORG_VIVO 2610 2616	marido
+T81	ORG_VIVO 2817 2826	amistades
+T82	ORG_VIVO 3216 3221	amiga
+T83	ORG_VIVO 3352 3357	madre
+T84	ORG_VIVO 3409 3415	hombre
+T85	ORG_VIVO 3429 3441	gran familia
+T86	ORG_VIVO 3453 3458	hijos
+T87	ORG_VIVO 3490 3496	marido
+T88	ORG_VIVO 3584 3588	hija
+T89	ORG_VIVO 3786 3792	marido
+T90	ORG_VIVO 3995 3999	niña
+T91	ORG_VIVO 4416 4422	marido
+T92	ORG_VIVO 4657 4663	marido
+T93	ORG_VIVO 4671 4676	madre
+T94	ORG_VIVO 4827 4833	hombre
+T95	ORG_VIVO 4974 4979	hijos
+T96	ORG_VIVO 5064 5071	persona
+T97	ENFERMEDAD 251 259	suicidio
+T98	ENFERMEDAD 1570 1615	sintomatología depresiva con ideación suicida
+T99	ENFERMEDAD 2023 2039	infarto cerebral
+T100	ENFERMEDAD 4331 4339	suicidio
+T101	PACIENTE-SITUACION_LABORAL 93 122	Abandonó su actividad laboral
+T102	PACIENTE-SITUACION_LABORAL 1748 1767	comienza a trabajar
+T103	PACIENTE-SITUACION_LABORAL 2223 2240	empezó a trabajar

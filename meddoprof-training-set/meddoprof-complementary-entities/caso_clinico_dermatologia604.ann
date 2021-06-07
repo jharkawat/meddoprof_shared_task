@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 12 30	exploración física
+T2	PROCEDIMIENTO 220 238	exploración física
+T3	PROCEDIMIENTO 692 712	crema de corticoides
+T4	PROCEDIMIENTO 811 824	dermatoscopia
+T5	PROCEDIMIENTO 1026 1044	biopsia tipo punch
+T6	PROCEDIMIENTO 1085 1107	examen histopatológico
+T7	NEG 48 51	sin
+T8	NSCO 52 75	antecedentes de interés
+T9	NEG 149 161	asintomática
+T10	NEG 410 412	no
+T11	NSCO 413 462	mostró lesiones similares en otras localizaciones
+T12	NEG 622 624	no
+T13	NSCO 625 665	había observado cambios en su morfología
+T14	UNC 962 973	sospecha de
+T15	USCO 974 1010	una dermatosis purpúrica pigmentaria
+T16	NEG 1645 1648	sin
+T17	NSCO 1649 1673	una reducción del tamaño
+T18	FARMACO 1402 1412	tacrolimus
+T19	ORG_VIVO 31 36	Varón
+T20	ORG_VIVO 467 475	paciente
+T21	ORG_VIVO 745 772	médico de atención primaria
+T22	ORG_VIVO 1320 1333	liquen aureus
+T23	ENFERMEDAD 978 1010	dermatosis purpúrica pigmentaria
+T24	ENFERMEDAD 1320 1333	liquen aureus
+T25	SANITARIO-PROFESION 745 772	médico de atención primaria

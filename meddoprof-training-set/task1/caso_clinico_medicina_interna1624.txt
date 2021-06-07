@@ -1,0 +1,25 @@
+Antecedentes personales
+Sin factores de riesgo cardiovascular conocidos. Sin historia cardiológica previa ni antecedentes familiares de interés. Trastorno mental y del comportamiento debido a consumo de alcohol, en remisión. Malestar adaptativo mixto. Rinitis y asma bronquial intrínseca e historia de atopia desde la infancia. Su mujer refiere la existencia de "muy dudosa alergia medicamentosa hace años" que no ha sido estudiada y tampoco recuerda el fármaco responsable. No sigue tratamiento crónico.
+
+Enfermedad actual
+Varón de 33 años que acude a Urgencias por presentar herida inciso-contusa en antebrazo derecho, tras accidente laboral con un hierro. En urgencias le realizan cura local de la herida, precisando sutura y vendaje de la misma. Así mismo se administra gammaglobulina y 1a dosis de vacuna antitetánica. Al alta se dan una serie de recomendaciones: tratamiento con ibuprofeno 600 mg cada 8 horas durante 5-7 días ante la presencia de dolor y amoxicilina-clavulánico 500-125 mg cada 8 horas durante 8 días.
+Por la noche el paciente presenta dolor intenso en el antebrazo por lo que decide tomar 1 comprimido de ibuprofeno. A los 30 minutos de la toma, comienza con náuseas, vómitos, sudoración y disnea brusca por lo que su mujer avisa al 061. A la llegada de la ambulancia el paciente se encuentra pálido y sudoroso sufriendo parada cardiorespiratoria en su presencia, por lo que inician maniobras de reanimación y realizan ECG en el que se evidencia fibrilación ventricular.
+El paciente se reanima durante 75 minutos, durante la misma precisa 5 desfibrilaciones a 200-300 J, 450 mg de amiodarona i.v., 12 mg de adrenalina, bicabonato 1 M i.v. e intubación orotraqueal y conexión a ventilación mecánica. Tras parada recuperada se deriva a la UCI para continuar con los cuidados específicos.
+
+Pruebas complementarias
+• Electrocardiograma del 061: fibrilación ventricular a una FC > 200 lpm.
+• Analítica de UCI: Troponina T 21 ng/ml (normal hasta 0,05 ng/ml), Creatinina 1,47 mg/dL, Urea 42 mg/dL, Sodio 140 mEq/L, Potasio 4,1 mEq/L, Glucemia 159 mg/dL. Hemoglobina 17 g/dL, Hematocrito 51 %, Leucocitos 16.000 10e3/uL, palquetas 359.000 10e3/uL. TP ratio 1,1 (0,8-1,3), TTPa ratio 2 (0,8-1,3). Gasometría arterial (FiO2: 50 %): pH 7,30, PCO2 41, PO2 201, Bicarbonato 19, Lactato 4,2.
+• Electrocardiograma de ingreso en UCI (Figura 1): ritmo sinusal a 78 lpm, PR < 200 ms, eje eléctrico normal. QRS estrecho con trastorno de la conducción con imagen de bloqueo incompleto de rama derecha con alteraciones secundarias de la repolarización.
+• Radiografía de tórax en AP: índice cardiotorácico no valorable. Senos costofrénicos y cardiofrénicos libres. Hilio derecho ligeramente congestivo. Sin nódulos ni masas parenquimatosos o patología pleural.
+• TC de cráneo simple: Hallazgos compatibles con edema cerebral significativo, difuso.
+• Ecocardiograma: VI no dilatado ni hipertrófico, disfuncion sistólica severa, hipocinesia global (probable secundario a stunning) y acinesia en territorio de DA. Válvulas normales. No insuficiencia tricúspide ni datos indirectos de hipertensión pulmonar. Aurículas normales. VD normal. Disfunción sistólica severa de probable origen isquémico en territorio de DA y componente de stunning.
+• Cateterismo cardiaco: arterias epicárdicas sin lesiones angiográficamente visibles.
+
+Evolución
+A su llegada a la UCI el paciente se encuentra intubado, comatoso con 3 puntos en la escala de Glasgow. Pupilas midriáticas, reactivas y simétricas. El paciente permanece bajo el protocolo de hipotermia a 34o, bajo sedación farmacológica y conectado a ventilación mecánica invasiva. Se anticoagula con enoxaparina y se doble antiagrega con ácido acetilsalicilico 100 mg y clopidogrel 75 mg ante la sospecha clínica de IAM.
+En el electrocardiograma el paciente está en ritmo sinusal con un bloqueo completo de rama derecha (se desconoce si lo presentaba con anterioridad). Dado el mal estado general del paciente, se realiza TAC cerebral urgente que informa de edema cerebral significativo. Se realiza ecocardiograma en el que destaca una disfunción sistólica severa, alteraciones de la contractilidad en territorio de la Descendente Anterior que se acompaña de componente de stunning. Dados los resultados del ecocardiograma se realiza cateterismo cardíaco que muestra arterias coronarias epicárdicas sin lesiones, continuando los cuidados intensivos en UCI.
+El paciente fallece dos días después.
+
+DIAGNÓSTICO
+Parada cardiorrespiratoria extrahospitalaria en fibrilación ventricular, reanimada. En relación con toma de ibuprofeno en paciente con dudosa historia previa de alergia medicamentosa y asma bronquial que produce episodio de shock anafilático. Disfunción sistólica severa del VI con alteración segmentaria en territorio de DA. Arterias coronarias sin lesiones angiográficas.
+Diagnóstico de presunción de síndrome de Kounis tipo I.

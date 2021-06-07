@@ -1,0 +1,12 @@
+T1	NEG 598 610	asintomático
+T2	NEG 611 614	sin
+T3	NSCO 615 646	tratamiento neuroléptico alguno
+T4	ORG_VIVO 15 23	paciente
+T5	ORG_VIVO 65 71	chofer
+T6	ORG_VIVO 160 165	madre
+T7	ORG_VIVO 225 233	paciente
+T8	ORG_VIVO 348 356	paciente
+T9	ENFERMEDAD 90 113	esquizofrenia paranoide
+T10	ENFERMEDAD 147 153	muerte
+T11	ENFERMEDAD 679 702	Esquizofrenia paranoide
+T12	PACIENTE-PROFESION 65 71	chofer

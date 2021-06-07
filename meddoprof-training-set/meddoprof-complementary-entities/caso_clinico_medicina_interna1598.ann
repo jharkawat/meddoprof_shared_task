@@ -1,0 +1,46 @@
+T1	SINTOMA 447 510	pérdida del compartimento anterior y anterolateral de la pierna
+T2	SINTOMA 952 964	DIAGNÓSTICO
+T3	SINTOMA 3012 3017	dolor
+T4	PROCEDIMIENTO 317 367	amputación del tercio distal del tobillo izquierdo
+T5	PROCEDIMIENTO 693 722	Radiografía tobillo izquierdo
+T6	PROCEDIMIENTO 766 796	Radiografía de rodilla derecha
+T7	PROCEDIMIENTO 907 919	radiografías
+T8	PROCEDIMIENTO 1527 1549	reimplante del miembro
+T9	PROCEDIMIENTO 1790 1827	fijador externo puenteando la rodilla
+T10	PROCEDIMIENTO 2045 2071	antibioterapia intravenosa
+T11	PROCEDIMIENTO 2271 2316	espaciador de cemento para sustituir el hueso
+T12	PROCEDIMIENTO 2383 2406	colgajo de dorsal ancho
+T13	PROCEDIMIENTO 2417 2432	injerto de piel
+T14	PROCEDIMIENTO 2479 2494	fijador externo
+T15	PROCEDIMIENTO 2530 2547	curas del colgajo
+T16	PROCEDIMIENTO 2588 2608	colgajo y el injerto
+T17	PROCEDIMIENTO 2667 2710	artrodesis de rodilla con clavo endomedular
+T18	PROCEDIMIENTO 2964 3006	ortesis para el miembro inferior izquierdo
+T19	NEG 921 924	sin
+T20	NSCO 925 949	lesiones óseas evidentes
+T21	NEG 1509 1511	no
+T22	NSCO 1512 1549	sea posible el reimplante del miembro
+T23	NEG 2770 2773	sin
+T24	NSCO 2774 2788	complicaciones
+T25	NEG 3008 3011	sin
+T26	NSCO 3012 3017	dolor
+T27	NEG 3057 3059	No
+T28	NSCO 3060 3103	ha presentado nuevos episodios de infección
+T29	ORG_VIVO 10 24	Paciente varón
+T30	ORG_VIVO 31 36	años
+T31	ORG_VIVO 1885 1893	paciente
+T32	ORG_VIVO 2237 2245	paciente
+T33	ORG_VIVO 2499 2507	paciente
+T34	ORG_VIVO 2794 2802	paciente
+T35	ORG_VIVO 2885 2893	paciente
+T36	ENFERMEDAD 374 434	fractura abierta de grado 3B de Gustilo del miembro inferior
+T37	ENFERMEDAD 447 510	pérdida del compartimento anterior y anterolateral de la pierna
+T38	ENFERMEDAD 724 762	amputación traumática de tercio distal
+T39	ENFERMEDAD 798 894	fractura compleja con pérdida de sustancia del tercio distal de fémur y tercio proximal de tibia
+T40	ENFERMEDAD 925 939	lesiones óseas
+T41	ENFERMEDAD 967 1062	Fractura compleja con pérdida de sustancia de tercio distal de fémur y tercio proximal de tibia
+T42	ENFERMEDAD 1066 1121	Amputación traumática de tercio distal de tobillo y pie
+T43	ENFERMEDAD 1135 1177	Lesión del nervio ciático poplíteo externo
+T44	ENFERMEDAD 1904 2007	necrosis de partes blandas y ósea de 24 cm de extensión con posterior infección de la misma por Proteus
+T45	ENFERMEDAD 2022 2031	infección
+T46	ENFERMEDAD 3094 3103	infección

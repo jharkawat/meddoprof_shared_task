@@ -1,0 +1,126 @@
+T1	SINTOMA 393 399	exitus
+T2	SINTOMA 550 575	engrosamiento endometrial
+T3	SINTOMA 997 1008	rectorragia
+T4	SINTOMA 2730 2737	vómitos
+T5	SINTOMA 2739 2780	dolor abdominal localizado en hipocondrio
+T6	SINTOMA 2791 2808	ictericia cutáneo
+T7	SINTOMA 2820 2827	coluria
+T8	SINTOMA 2830 2836	acolia
+T9	SINTOMA 3142 3177	dolor a la palpación de hipocondrio
+T10	SINTOMA 3200 3211	peritonismo
+T11	SINTOMA 3577 3627	dilatación de vías biliares intra y extrahepáticas
+T12	SINTOMA 5103 5109	edemas
+T13	SINTOMA 5140 5145	dolor
+T14	SINTOMA 6216 6231	dolor abdominal
+T15	SINTOMA 6245 6260	pérdida de peso
+T16	SINTOMA 6567 6582	dolor abdominal
+T17	PROCEDIMIENTO 592 599	biopsia
+T18	PROCEDIMIENTO 720 733	histerectomía
+T19	PROCEDIMIENTO 735 752	doble anexectomía
+T20	PROCEDIMIENTO 754 787	linfadenectomía pélvica bilateral
+T21	PROCEDIMIENTO 790 820	citología de lavado peritoneal
+T22	PROCEDIMIENTO 1118 1130	colonoscopia
+T23	PROCEDIMIENTO 1205 1217	colonoscopia
+T24	PROCEDIMIENTO 1325 1332	biopsia
+T25	PROCEDIMIENTO 1489 1511	hemicolectomía derecha
+T26	PROCEDIMIENTO 2136 2162	estudio inmunohistoquímico
+T27	PROCEDIMIENTO 2518 2531	quimioterapia
+T28	PROCEDIMIENTO 3021 3039	Exploración física
+T29	PROCEDIMIENTO 3517 3526	hemograma
+T30	PROCEDIMIENTO 3536 3555	ecografía abdominal
+T31	PROCEDIMIENTO 3736 3755	colangiorresonancia
+T32	PROCEDIMIENTO 3947 3981	colangiopancreatografía retrógrada
+T33	PROCEDIMIENTO 3987 4037	colocación de prótesis de drenaje de la vía biliar
+T34	PROCEDIMIENTO 4048 4055	biopsia
+T35	PROCEDIMIENTO 4078 4092	colangiografía
+T36	PROCEDIMIENTO 4257 4298	esfinterotomía con colocación de prótesis
+T37	PROCEDIMIENTO 4393 4421	embolización portal-hepática
+T38	PROCEDIMIENTO 4468 4496	hepatectomía parcial derecha
+T39	PROCEDIMIENTO 4499 4530	duodenopancreatectomía cefálica
+T40	PROCEDIMIENTO 5612 5635	laparotomía exploradora
+T41	PROCEDIMIENTO 5648 5655	biopsia
+T42	PROCEDIMIENTO 5992 6015	quimioterapia paliativa
+T43	PROCEDIMIENTO 6880 6882	TC
+T44	NEG 148 150	no
+T45	NSCO 151 184	toma medicación de forma habitual
+T46	NEG 204 206	no
+T47	NSCO 207 252	ha presentado reacciones alérgicas a fármacos
+T48	NEG 883 885	no
+T49	NSCO 886 915	precisó tratamiento adyuvante
+T50	NEG 1631 1634	sin
+T51	NSCO 1635 1647	sobrepasarla
+T52	NEG 2249 2265	inestabilidad de
+T53	NSCO 2266 2280	microsatélites
+T54	UNC 2451 2465	compatible con
+T55	USCO 2466 2498	diagnóstico de síndrome de Lynch
+T56	NEG 2576 2579	sin
+T57	NSCO 2580 2600	mostrar alteraciones
+T58	NEG 3186 3189	sin
+T59	NSCO 3190 3222	signos de peritonismo ni defensa
+T60	NEG 3628 3631	sin
+T61	NSCO 3632 3683	visualizar colédoco distal ni la región pancreática
+T62	UNC 4190 4202	sugestiva de
+T63	USCO 4203 4220	tumor de Klastkin
+T64	NEG 4349 4357	negativo
+T65	NSCO 4358 4372	para neoplasia
+T66	NEG 4627 4630	sin
+T67	NSCO 4631 4665	evidencia de afectación ganglionar
+T68	UNC 5490 5505	compatibles con
+T69	USCO 5506 5528	implantes peritoneales
+T70	UNC 5775 5783	probable
+T71	USCO 5784 5803	origen hepatobiliar
+T72	NEG 6601 6613	asintomática
+T73	NEG 6668 6671	sin
+T74	NSCO 6672 6750	clínica secundaria a la enfermedad ni toxicidad relacionada con el tratamiento
+T75	FARMACO 1892 1898	FOLFOX
+T76	FARMACO 1900 1916	5-fluoro-uracilo
+T77	FARMACO 1918 1922	5-FU
+T78	FARMACO 1968 1972	5-FU
+T79	FARMACO 1998 2010	oxaliplatino
+T80	FARMACO 4856 4868	capecitabina
+T81	FARMACO 6020 6030	cisplatino
+T82	FARMACO 6053 6064	gemcitabina
+T83	FARMACO 6427 6440	pembrolizumab
+T84	FARMACO 6508 6521	pembrolizumab
+T85	ORG_VIVO 26 31	mujer
+T86	ORG_VIVO 115 122	abogada
+T87	ORG_VIVO 268 278	familiares
+T88	ORG_VIVO 285 297	rama paterna
+T89	ORG_VIVO 317 323	abuelo
+T90	ORG_VIVO 329 334	padre
+T91	ORG_VIVO 404 409	padre
+T92	ORG_VIVO 446 456	personales
+T93	ORG_VIVO 964 972	paciente
+T94	ORG_VIVO 1032 1039	paterno
+T95	ORG_VIVO 2536 2544	paciente
+T96	ORG_VIVO 2677 2685	paciente
+T97	ORG_VIVO 3040 3048	Paciente
+T98	ORG_VIVO 4703 4711	paciente
+T99	ORG_VIVO 6163 6171	paciente
+T100	ORG_VIVO 6526 6534	paciente
+T101	ENFERMEDAD 358 374	tumores de colon
+T102	ENFERMEDAD 508 532	hipermenorrea anemizante
+T103	ENFERMEDAD 617 637	cáncer de endometrio
+T104	ENFERMEDAD 845 870	cáncer de endometrio E-IB
+T105	ENFERMEDAD 1043 1058	cáncer de colon
+T106	ENFERMEDAD 1161 1181	pólipos adenomatosos
+T107	ENFERMEDAD 1278 1303	lesión polipoide ulcerada
+T108	ENFERMEDAD 1370 1405	adenoma tubular de intestino grueso
+T109	ENFERMEDAD 1410 1435	displasia moderada-severa
+T110	ENFERMEDAD 1554 1593	carcinoma de células de anillo de sello
+T111	ENFERMEDAD 1664 1674	metástasis
+T112	ENFERMEDAD 1694 1705	adenopatías
+T113	ENFERMEDAD 2481 2498	síndrome de Lynch
+T114	ENFERMEDAD 4147 4183	estenosis casi completa del hepático
+T115	ENFERMEDAD 4203 4220	tumor de Klastkin
+T116	ENFERMEDAD 4363 4372	neoplasia
+T117	ENFERMEDAD 4545 4576	Colangiocarcinoma extrahepático
+T118	ENFERMEDAD 4716 4733	síndrome de Lynch
+T119	ENFERMEDAD 5033 5075	síndrome de eritrodisestesia palmo-plantar
+T120	ENFERMEDAD 5085 5101	fisuras cutáneas
+T121	ENFERMEDAD 5391 5420	lesiones nodulares en epiplón
+T122	ENFERMEDAD 5506 5528	implantes peritoneales
+T123	ENFERMEDAD 5740 5803	infiltración por adenocarcinoma de probable origen hepatobiliar
+T124	ENFERMEDAD 5898 5937	recaída peritoneal de colangiocarcinoma
+T125	ENFERMEDAD 6937 7027	nódulos descritos en epiplón mayor y del implante metastásico pélvico situado en la vejiga
+T126	PACIENTE-PROFESION 115 122	abogada

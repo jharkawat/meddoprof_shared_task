@@ -1,0 +1,100 @@
+T1	SINTOMA 230 239	fallecido
+T2	SINTOMA 492 499	astenia
+T3	SINTOMA 502 512	ferropenia
+T4	SINTOMA 641 647	disnea
+T5	SINTOMA 650 657	astenia
+T6	SINTOMA 739 765	tos de predominio nocturno
+T7	SINTOMA 810 843	edemas en extremidades inferiores
+T8	SINTOMA 3633 3690	dolor en cadera izquierda irradiado a extremidad inferior
+T9	SINTOMA 3712 3723	parestesias
+T10	SINTOMA 3726 3767	acorchamiento a nivel de dicha extremidad
+T11	SINTOMA 3939 3964	irrita las raíces L4 y L5
+T12	PROCEDIMIENTO 1089 1107	Exploración física
+T13	PROCEDIMIENTO 1128 1146	exploración física
+T14	PROCEDIMIENTO 1205 1232	radiografía simple de tórax
+T15	PROCEDIMIENTO 1382 1390	angio-TC
+T16	PROCEDIMIENTO 1592 1620	ecocardiograma transtorácico
+T17	PROCEDIMIENTO 1623 1637	transesofágico
+T18	PROCEDIMIENTO 1639 1668	TC cerebral y abdominopélvica
+T19	PROCEDIMIENTO 1697 1708	RM cardiaca
+T20	PROCEDIMIENTO 1942 1949	biopsia
+T21	PROCEDIMIENTO 1957 1985	citología de líquido pleural
+T22	PROCEDIMIENTO 2013 2027	toracocentesis
+T23	PROCEDIMIENTO 2163 2183	derivación coronaria
+T24	PROCEDIMIENTO 2213 2245	sustitución de la válvula mitral
+T25	PROCEDIMIENTO 2248 2292	resección del tumor intraauricular izquierda
+T26	PROCEDIMIENTO 2322 2337	autotransplante
+T27	PROCEDIMIENTO 2668 2681	quimioterapia
+T28	PROCEDIMIENTO 2959 2982	quimioterapia paliativa
+T29	PROCEDIMIENTO 3005 3011	PET-TC
+T30	PROCEDIMIENTO 3592 3599	PET-TAC
+T31	PROCEDIMIENTO 3781 3801	RM de columna lumbar
+T32	PROCEDIMIENTO 3989 4012	radioterapia antiálgica
+T33	PROCEDIMIENTO 4181 4187	PET-TC
+T34	PROCEDIMIENTO 4445 4451	PET-TC
+T35	NEG 43 46	sin
+T36	NSCO 47 99	alergias medicamentosas conocidas ni hábitos tóxicos
+T37	NEG 407 410	sin
+T38	NSCO 411 436	tratamiento farmacológico
+T39	NEG 554 566	inespecífica
+T40	NEG 773 779	impide
+T41	NSCO 780 798	el decúbito supino
+T42	NEG 1147 1149	no
+T43	NSCO 1150 1175	hubo hallazgos reseñables
+T44	UNC 1259 1273	compatible con
+T45	USCO 1274 1312	patología bronquial aguda o crónica vs
+T46	UNC 1481 1493	sugestivo de
+T47	USCO 1494 1508	tumor o trombo
+T48	UNC 1776 1784	probable
+T49	USCO 1785 1820	neoplasia cardiaca primaria maligna
+T50	NEG 1883 1899	imposibilidad de
+T51	NSCO 1900 1949	acceder a la metástasis ósea para toma de biopsia
+T52	NEG 1986 1994	negativa
+T53	NSCO 1995 2027	extraída mediante toracocentesis
+T54	UNC 2504 2523	primera posibilidad
+T55	USCO 2524 2559	sarcoma intima) cardiaco estadio IV
+T56	FARMACO 2720 2733	doxorrubicina
+T57	FARMACO 2906 2917	dexrazoxano
+T58	FARMACO 3086 3099	antraciclinas
+T59	FARMACO 3111 3124	doxorrubicina
+T60	FARMACO 3135 3152	ácido zoledrónico
+T61	FARMACO 3227 3240	antraciclinas
+T62	FARMACO 3457 3468	gemcitabina
+T63	FARMACO 3471 3480	docetaxel
+T64	FARMACO 4383 4394	dacarbazina
+T65	ORG_VIVO 25 30	varón
+T66	ORG_VIVO 120 130	arquitecto
+T67	ORG_VIVO 150 160	familiares
+T68	ORG_VIVO 173 180	hermano
+T69	ORG_VIVO 224 229	padre
+T70	ORG_VIVO 273 280	hermano
+T71	ORG_VIVO 320 327	hermano
+T72	ORG_VIVO 366 376	personales
+T73	ORG_VIVO 1534 1542	paciente
+T74	ENFERMEDAD 47 70	alergias medicamentosas
+T75	ENFERMEDAD 206 222	cáncer de pulmón
+T76	ENFERMEDAD 253 268	cáncer de colon
+T77	ENFERMEDAD 285 305	ictus cardioembólico
+T78	ENFERMEDAD 332 346	hemocromatosis
+T79	ENFERMEDAD 387 406	hipercolesterolemia
+T80	ENFERMEDAD 502 512	ferropenia
+T81	ENFERMEDAD 908 941	insuficiencia cardiaca congestiva
+T82	ENFERMEDAD 1274 1299	patología bronquial aguda
+T83	ENFERMEDAD 1314 1336	insuficiencia cardiaca
+T84	ENFERMEDAD 1406 1409	TEP
+T85	ENFERMEDAD 1785 1820	neoplasia cardiaca primaria maligna
+T86	ENFERMEDAD 1823 1865	metástasis óseas a nivel de sacro e iliaco
+T87	ENFERMEDAD 1913 1928	metástasis ósea
+T88	ENFERMEDAD 2262 2282	tumor intraauricular
+T89	ENFERMEDAD 2418 2439	sarcoma de alto grado
+T90	ENFERMEDAD 2524 2559	sarcoma intima) cardiaco estadio IV
+T91	ENFERMEDAD 2565 2581	metástasis óseas
+T92	ENFERMEDAD 3027 3043	metástasis óseas
+T93	ENFERMEDAD 3327 3389	recidiva local a nivel de aurícula izquierda, arteria pulmonar
+T94	ENFERMEDAD 3821 3852	metástasis vertebral en L3 y S1
+T95	ENFERMEDAD 3858 3892	rotura del platillo superior de S1
+T96	ENFERMEDAD 3904 3923	hernia discal L4-L5
+T97	ENFERMEDAD 4214 4292	recidiva pericárdica difusa alrededor de aurícula izquierda y de grandes vasos
+T98	ENFERMEDAD 4294 4324	metástasis pulmonar en língula
+T99	ENFERMEDAD 4587 4602	lesión pulmonar
+T100	PACIENTE-PROFESION 120 130	arquitecto

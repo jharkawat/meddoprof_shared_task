@@ -1,0 +1,54 @@
+T1	SINTOMA 320 327	cefalea
+T2	SINTOMA 463 471	cefaleas
+T3	SINTOMA 542 550	cefaleas
+T4	SINTOMA 682 689	vómitos
+T5	SINTOMA 905 910	dolor
+T6	SINTOMA 924 929	dolor
+T7	SINTOMA 946 951	dolor
+T8	SINTOMA 1087 1095	cefaleas
+T9	SINTOMA 1192 1210	clínica autonómica
+T10	SINTOMA 1934 1941	cefalea
+T11	SINTOMA 1957 1960	tos
+T12	SINTOMA 2111 2116	dolor
+T13	SINTOMA 2161 2168	pirosis
+T14	PROCEDIMIENTO 111 132	tiroidectomía derecha
+T15	PROCEDIMIENTO 878 881	EVA
+T16	PROCEDIMIENTO 1156 1177	maniobras de Valsalva
+T17	PROCEDIMIENTO 1236 1254	Exploración física
+T18	PROCEDIMIENTO 1451 1485	resonancia magnética (RM) cerebral
+T19	PROCEDIMIENTO 1600 1611	RM cervical
+T20	PROCEDIMIENTO 1755 1785	angio-RM de polígono de Willis
+T21	NEG 28 31	sin
+T22	NSCO 32 65	alergias medicamentosas conocidas
+T23	NEG 328 330	no
+T24	NSCO 331 343	especificada
+T25	NEG 388 391	sin
+T26	NSCO 392 396	aura
+T27	NEG 893 904	ausencia de
+T28	NSCO 905 910	dolor
+T29	NEG 1179 1181	No
+T30	NSCO 1182 1233	asociaban clínica autonómica ni otra sintomatología
+T31	NEG 1255 1258	Sin
+T32	NSCO 1259 1312	alteraciones en la exploración general ni neurológica
+T33	NEG 1314 1317	Sin
+T34	NSCO 1318 1364	sensibilidad a la palpación en senos frontales
+T35	NEG 1538 1540	no
+T36	NSCO 1541 1590	sobrepasaban el límite inferior del foramen magno
+T37	NEG 2263 2275	asintomática
+T38	FARMACO 2017 2029	indometacina
+T39	FARMACO 2147 2156	omeprazol
+T40	FARMACO 2211 2223	indometacina
+T41	ORG_VIVO 10 15	Mujer
+T42	ORG_VIVO 306 316	familiares
+T43	ORG_VIVO 367 379	adolescencia
+T44	ORG_VIVO 418 445	médico de Atención Primaria
+T45	ORG_VIVO 2254 2262	paciente
+T46	ENFERMEDAD 32 55	alergias medicamentosas
+T47	ENFERMEDAD 226 245	hiperplasia nodular
+T48	ENFERMEDAD 248 268	fibroadenoma mamario
+T49	ENFERMEDAD 367 387	adolescencia migraña
+T50	ENFERMEDAD 603 610	migraña
+T51	ENFERMEDAD 1622 1656	artrosis moderada a nivel de C4-C5
+T52	ENFERMEDAD 1667 1710	quistes perineurales bilaterales cervicales
+T53	ENFERMEDAD 1801 1821	anomalías vasculares
+T54	SANITARIO-PROFESION 418 445	médico de Atención Primaria

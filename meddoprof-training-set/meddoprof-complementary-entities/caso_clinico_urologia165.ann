@@ -1,0 +1,29 @@
+T1	SINTOMA 250 263	pene fláccido
+T2	SINTOMA 1966 1974	hematoma
+T3	PROCEDIMIENTO 215 233	Exploración física
+T4	PROCEDIMIENTO 572 586	colgajo distal
+T5	PROCEDIMIENTO 1285 1324	Anastomosis de ambos cuerpos cavernosos
+T6	PROCEDIMIENTO 1374 1403	Comprobación de la hemostasia
+T7	PROCEDIMIENTO 1529 1543	antibioterapia
+T8	PROCEDIMIENTO 1661 1695	gammaglobulina antitetánica humana
+T9	PROCEDIMIENTO 1868 1894	ecografía-doppler del pene
+T10	PROCEDIMIENTO 2102 2135	uretrografía retrógrada perisonda
+T11	PROCEDIMIENTO 2150 2163	sonda vesical
+T12	NEG 36 39	sin
+T13	NSCO 40 81	antecedentes médico-quirúrgicos conocidos
+T14	NEG 829 831	no
+T15	NSCO 832 870	presentaban alteración o herida alguna
+T16	NEG 1787 1790	sin
+T17	NSCO 1791 1822	hematoma u otras complicaciones
+T18	NEG 1954 1965	ausencia de
+T19	NSCO 1966 1974	hematoma
+T20	NEG 2057 2068	ausencia de
+T21	NSCO 2069 2135	extravasación de contraste en la uretrografía retrógrada perisonda
+T22	NEG 2137 2146	se retiró
+T23	NSCO 2147 2163	la sonda vesical
+T24	FARMACO 1548 1577	amoxicilina-ácido clavulánico
+T25	ORG_VIVO 10 15	Varón
+T26	ORG_VIVO 1676 1695	antitetánica humana
+T27	ENFERMEDAD 175 196	autolesión en el pene
+T28	ENFERMEDAD 719 773	hemorragia activa a través de ambos cuerpos cavernosos
+T29	OTROS-PROFESION 132 139	Policía

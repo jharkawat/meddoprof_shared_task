@@ -1,0 +1,137 @@
+T1	SINTOMA 19 26	Vómitos
+T2	SINTOMA 28 35	diarrea
+T3	SINTOMA 38 53	dolor abdominal
+T4	SINTOMA 901 909	disfagia
+T5	SINTOMA 1284 1291	vómitos
+T6	SINTOMA 1294 1317	deposiciones diarreicas
+T7	SINTOMA 1362 1399	dolor abdominal difuso de tipo cólico
+T8	SINTOMA 1415 1421	disnea
+T9	SINTOMA 1457 1463	fiebre
+T10	SINTOMA 1634 1644	consciente
+T11	SINTOMA 1646 1655	orientado
+T12	SINTOMA 1658 1669	colaborador
+T13	SINTOMA 1680 1688	sudoroso
+T14	SINTOMA 1690 1699	Taquipnea
+T15	SINTOMA 1800 1807	Afebril
+T16	SINTOMA 1884 1890	soplos
+T17	SINTOMA 1892 1913	Sibilancias dispersas
+T18	SINTOMA 1916 1937	hipoventilación basal
+T19	SINTOMA 1949 2027	Abdomen doloroso a la palpación de manera difusa, de predominio en hipogastrio
+T20	SINTOMA 2032 2043	peritonismo
+T21	SINTOMA 2054 2060	edemas
+T22	SINTOMA 2290 2301	hipotensión
+T23	SINTOMA 2303 2315	taquicárdico
+T24	SINTOMA 2318 2326	sudoroso
+T25	SINTOMA 2358 2395	dolor abdominal difuso de tipo cólico
+T26	SINTOMA 2424 2436	leucocitosis
+T27	SINTOMA 2441 2452	neutrofilia
+T28	SINTOMA 3022 3037	dolor abdominal
+T29	SINTOMA 3665 3673	disfagia
+T30	SINTOMA 4091 4106	dolor abdominal
+T31	SINTOMA 4388 4403	dolor abdominal
+T32	SINTOMA 4494 4501	fallece
+T33	PROCEDIMIENTO 498 525	oxigenoterapia domiciliaria
+T34	PROCEDIMIENTO 745 755	esteroides
+T35	PROCEDIMIENTO 758 768	Endoscopia
+T36	PROCEDIMIENTO 770 782	colonoscopia
+T37	PROCEDIMIENTO 785 804	cápsula endoscópica
+T38	PROCEDIMIENTO 972 987	Coronariografía
+T39	PROCEDIMIENTO 1590 1608	Exploración física
+T40	PROCEDIMIENTO 2090 2108	electrocardiograma
+T41	PROCEDIMIENTO 2549 2569	radiografía de tórax
+T42	PROCEDIMIENTO 2657 2667	urocultivo
+T43	PROCEDIMIENTO 2670 2682	hemocultivos
+T44	PROCEDIMIENTO 2699 2714	sondaje vesical
+T45	PROCEDIMIENTO 2935 2947	sueroterapia
+T46	PROCEDIMIENTO 2950 2964	antibioterapia
+T47	PROCEDIMIENTO 3149 3177	TAC de abdomen con contraste
+T48	NEG 100 105	niega
+T49	NSCO 106 140	reacciones adversas a medicamentos
+T50	NEG 233 235	no
+T51	NSCO 236 249	anticoagulada
+T52	UNC 662 670	probable
+T53	USCO 671 698	origen en intestino delgado
+T54	NEG 1325 1328	sin
+T55	NSCO 1329 1350	productos patológicos
+T56	NEG 1569 1572	sin
+T57	NSCO 1573 1587	complicaciones
+T58	NEG 1800 1807	Afebril
+T59	NEG 1870 1879	arrítmica
+T60	NEG 1881 1883	no
+T61	NSCO 1884 1890	soplos
+T62	NEG 2029 2031	No
+T63	NSCO 2032 2043	peritonismo
+T64	NEG 2050 2053	sin
+T65	NSCO 2054 2077	edemas ni signos de TVP
+T66	UNC 2749 2757	sospecha
+T67	UNC 2787 2795	probable
+T68	USCO 2796 2833	origen abdominal con disfunción renal
+T69	NEG 3069 3071	no
+T70	NSCO 3072 3085	anticoagulada
+T71	UNC 3090 3106	sospechó posible
+T72	USCO 3107 3126	isquemia intestinal
+T73	UNC 3208 3223	compatibles con
+T74	USCO 3224 3251	isquemia mesentérica masiva
+T75	NEG 3383 3386	sin
+T76	NSCO 3387 3408	recanalización distal
+T77	NEG 3596 3599	sin
+T78	NSCO 3600 3623	necesitar ayuda directa
+T79	FARMACO 734 742	aspirina
+T80	FARMACO 1041 1050	omeprazol
+T81	FARMACO 1052 1062	bisoprolol
+T82	FARMACO 1064 1074	torasamida
+T83	FARMACO 1076 1085	enalapril
+T84	FARMACO 1087 1097	prednisona
+T85	FARMACO 1118 1127	aclidinio
+T86	FARMACO 1129 1139	amlodipino
+T87	FARMACO 1141 1151	doxazosina
+T88	FARMACO 1161 1168	oxígeno
+T89	ORG_VIVO 88 98	personales
+T90	ORG_VIVO 1204 1209	Varón
+T91	ORG_VIVO 2907 2915	paciente
+T92	ORG_VIVO 3419 3427	familiar
+T93	ORG_VIVO 3445 3453	paciente
+T94	ORG_VIVO 3457 3462	viudo
+T95	ORG_VIVO 3476 3480	hija
+T96	ORG_VIVO 4260 4268	paciente
+T97	ORG_VIVO 4329 4337	cirujano
+T98	ORG_VIVO 4485 4493	paciente
+T99	ENFERMEDAD 142 151	Exfumador
+T100	ENFERMEDAD 183 204	Hipertensión arterial
+T101	ENFERMEDAD 206 227	Fibrilación auricular
+T102	ENFERMEDAD 266 303	hemorragia mayor digestiva y cerebral
+T103	ENFERMEDAD 306 320	Neumonía grave
+T104	ENFERMEDAD 336 373	insuficiencia respiratoria secundaria
+T105	ENFERMEDAD 375 394	crisis hipertensiva
+T106	ENFERMEDAD 396 417	fibrilación auricular
+T107	ENFERMEDAD 453 479	parada cardiorrespiratoria
+T108	ENFERMEDAD 489 493	EPOC
+T109	ENFERMEDAD 557 579	Insuficiencia cardiaca
+T110	ENFERMEDAD 582 606	cardiopatía hipertensiva
+T111	ENFERMEDAD 625 698	hemorragia digestiva alta en 2015 de probable origen en intestino delgado
+T112	ENFERMEDAD 815 847	Hematoma espontáneo hipertensivo
+T113	ENFERMEDAD 871 890	secuela hemiparesia
+T114	ENFERMEDAD 901 920	disfagia a líquidos
+T115	ENFERMEDAD 945 962	crisis epiléptica
+T116	ENFERMEDAD 996 1009	TEP bilateral
+T117	ENFERMEDAD 1527 1558	reagudización de EPOC y Gripe A
+T118	ENFERMEDAD 1858 1879	taquicardia arrítmica
+T119	ENFERMEDAD 2074 2077	TVP
+T120	ENFERMEDAD 2777 2812	Sepsis de probable origen abdominal
+T121	ENFERMEDAD 2817 2833	disfunción renal
+T122	ENFERMEDAD 2851 2866	ICC reagudizada
+T123	ENFERMEDAD 3107 3126	isquemia intestinal
+T124	ENFERMEDAD 3224 3251	isquemia mesentérica masiva
+T125	ENFERMEDAD 3266 3310	trombosis de la arteria mesentérica superior
+T126	ENFERMEDAD 3326 3344	estenosis completa
+T127	ENFERMEDAD 3738 3766	deterioro cognitivo moderado
+T128	ENFERMEDAD 3835 3852	patología crónica
+T129	ENFERMEDAD 3978 4005	Isquemia mesentérica masiva
+T130	ENFERMEDAD 4040 4066	isquemia mesentérica aguda
+T131	ENFERMEDAD 4139 4159	perforación visceral
+T132	ENFERMEDAD 4161 4183	obstrucción intestinal
+T133	ENFERMEDAD 4185 4197	pancreatitis
+T134	ENFERMEDAD 4199 4211	colecistitis
+T135	ENFERMEDAD 4214 4227	nefrolitiasis
+T136	ENFERMEDAD 4450 4468	hematemesis franca
+T137	SANITARIO-PROFESION 4329 4337	cirujano

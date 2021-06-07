@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 73 años de edad, sin alergias medicamentosas conocidas ni antecedentes médicos de interés.
+Diagnosticado en 1994 de carcinoma papilar de tiroides. No conocido en nuestro Servicio con anterioridad al ingreso, ha seguido tratamiento con Iodo 131 y quimioterapia (doxorrubicina) en el Servicio de Oncología de otro Centro hospitalario. Según los informes aportados por el paciente (25 de agosto de 2008) la extensión tumoral en esa fecha era de estadio IV (derrame pleural derecho y nódulos mediastínicos tumorales). Aporta además informe de TC toracoabdominal (5 de junio de 2009) en el que se describe un nódulo cervical (adenopático o resto tumoral).
+Ingresa refiriendo disnea progresiva, que se ha acentuado en las semanas previas a su hospitalización.
+Asocia edemas en extremidades inferiores, astenia, anorexia y pérdida de peso no cuantificada. No refiere fiebre ni otra clínica acompañante.
+
+Exploración física
+Consciente, orientado y colaborador. Mal estado general. Taquipnea (sobre todo al hablar). Auscultación cardiopulmonar: ruidos cardíacos arrítmicos, sin soplos. Signos de broncoespasmo, con crepitantes finos en ambas bases pulmonares. Abdomen: blando, depresible, no doloroso a la palpación. No se palpan masas ni megalias ni signos de peritonismo, ruidos hidroaéreos audibles de forma difusa.Extremidades inferiores: edema con fóvea hasta ambas rodillas, sin signos de trombosis venosa profunda.
+
+Pruebas complementarias
+• Analítica al ingreso: leucocitos 84.500/L (neutrófilos 69%); hemoglobina 10,8 g/dL; plaquetas 30.000/L. Bioquímica en valores normales.
+• Radiografía de tórax: nódulos en hemitórax derecho de probable origen pleural, con derrame leve ipsilateral.
+• ECG: fibrilación auricular, sin alteraciones en la repolarización.
+• Toracocentesis (21 de julio de 2010): blanca.
+• Ecocardiograma (22 de julio de 2010): gran masa en el ventrículo izquierdo de 7,17 cm2 en 4 cámaras, de probable origen metastásico.
+• Biopsia de médula ósea (26 de julio de 2010): medula ósea hipercelular a expensas de la serie mieloide de aspecto reactivo, sin evidencia de infiltración neoplásica en el material remitido.
+• TC toracoabdominal (27 de julio de 2010): marcado engrosamiento nodular de toda la superficie pleural visceral y parietal derecha en relación a afectación metastásica. Presenta extensión tumoral a mediastino con ocupación de región paratraqueal derecha visualizándose adenopatías de hasta 2 cm, e infiltración tumoral de pared torácica con lesiones líticas y masa de acompañante de arcos costales derechos y cuerpos vertebrales, observándose invasión a canal neural en los engrosamiento de los septos interlobulillares del pulmón derecho compatible con linfangitis carcinomatosa.
+Adenopatías axilares derechas de hasta 2 cm.
+Derrame pleural izquierdo con atelectasia basal pasiva.
+Lesiones focales hepáticas, la mayor de 6 cm en el lóbulo hepático izquierdo, con valores de atenuación bajos en relación a componente de necrosis compatible con metástasis hepáticas. Múltiples adenopatías abdominales retroperitoneales (en el tronco celíaco) de hasta 4 cm, paraórticas izquierdas e interaortocavas.
+Riñones de tamaño normal, funcionantes sin dilatación de la vía excretora. No se identifica líquido libre cavidad abdominal. Bazo, y páncreas sin hallazgos significativos.
+Conclusión: paciente con cáncer de tiroides con metástasis pleurales derechas y extensión tumoral a mediastino, pared torácica costal y vertebral, e invasión del canal neural en los primeros cuerpos dorsales. Signos de linfangitis carcinomatosa. Metástasis hepáticas.
+Metástasis ganglionares axilares derechas, mediastínicas y retroperitoneales. Derrame pleural izquierdo.
+
+Diagnóstico
+Carcinoma papilar de tiroides, estadio IV.
+
+Tratamiento
+Oxígeno, diuréticos y sorafenib.
+
+Evolución
+El paciente ingresó en planta de Oncología con clínica de insuficiencia cardíaca, y se pautó oxigenoterapia y tratamiento diurético. Ante la sospecha diagnóstica de insuficiencia cardíaca secundaria a toxicidad por antraciclinas se solicitó un ecocardiograma, objetivando una gran masa en el ventrículo izquierdo que dependía de la pared y que sugería como primera posibilidad metástasis.
+Se completó el estudio con las pruebas diagnósticas anteriormente descritas. Se desestimó la realización de biopsia cardíaca a través de cateterismo, por el alto riesgo que presentaba el paciente. Ante la sospecha de progresión tumoral, se solicitó la autorización para administrar sorafenib como medicamento de uso compasivo.
+El paciente presentó mala evolución clínica en los días posteriores, con trombopenia y anemia severas que precisaron múltiples transfusiones. Se inició tratamiento con sorafenib con intención paliativa, pero el paciente falleció en pocos días a consecuencia de la progresión de su enfermedad tumoral. No se realizó la autopsia, por lo que no tenemos confirmación histológica; sin embargo, dada la afectación metastásica generalizada, todos los datos orientan al origen metastático de la masa intracardíaca.

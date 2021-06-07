@@ -1,0 +1,210 @@
+T1	SINTOMA 61 67	fiebre
+T2	SINTOMA 105 125	dolor en hemiabdomen
+T3	SINTOMA 983 989	fiebre
+T4	SINTOMA 1014 1024	sudoración
+T5	SINTOMA 1026 1037	escalofríos
+T6	SINTOMA 1040 1073	dolor intermitente en hemiabdomen
+T7	SINTOMA 1161 1190	coloración oscura de la orina
+T8	SINTOMA 1293 1299	fiebre
+T9	SINTOMA 1450 1456	fiebre
+T10	SINTOMA 1726 1744	ictericia escleral
+T11	SINTOMA 1750 1798	dolor a la palpación de epigastrio y hemiabdomen
+T12	SINTOMA 1833 1849	Murphy positivos
+T13	SINTOMA 1866 1887	irritación peritoneal
+T14	SINTOMA 2160 2170	linfopenia
+T15	SINTOMA 2447 2453	fiebre
+T16	SINTOMA 2456 2471	dolor abdominal
+T17	SINTOMA 2976 2982	fiebre
+T18	SINTOMA 3072 3078	fiebre
+T19	SINTOMA 3171 3177	fiebre
+T20	SINTOMA 3180 3195	dolor abdominal
+T21	SINTOMA 3929 3953	sintomatología digestiva
+T22	SINTOMA 4251 4257	fiebre
+T23	SINTOMA 4318 4333	síndrome febril
+T24	SINTOMA 4335 4350	dolor abdominal
+T25	SINTOMA 4396 4402	fiebre
+T26	SINTOMA 6267 6281	esplenomegalia
+T27	SINTOMA 6862 6880	fiebre persistente
+T28	SINTOMA 6882 6897	dolor abdominal
+T29	SINTOMA 7712 7742	alteraciones a nivel esplénico
+T30	PROCEDIMIENTO 1315 1333	exploración física
+T31	PROCEDIMIENTO 1693 1711	exploración física
+T32	PROCEDIMIENTO 2141 2150	hemograma
+T33	PROCEDIMIENTO 2333 2362	radiografía simple de abdomen
+T34	PROCEDIMIENTO 5607 5619	hemocultivos
+T35	PROCEDIMIENTO 5970 6023	tomografía computerizada (TC) abdominal sin contraste
+T36	PROCEDIMIENTO 6449 6475	TC de abdome sin contraste
+T37	PROCEDIMIENTO 7066 7090	laparoscopia exploradora
+T38	PROCEDIMIENTO 7401 7491	resección ileal incluyendo el segmento intestinal inflamado con anastomosis latero-lateral
+T39	PROCEDIMIENTO 7610 7635	anastomosis extracorpórea
+T40	PROCEDIMIENTO 7748 7773	cultivos intraoperatorios
+T41	PROCEDIMIENTO 7806 7813	biopsia
+T42	NEG 135 137	No
+T43	NSCO 138 180	presentaba antecedentes médicos de interés
+T44	NEG 270 272	No
+T45	NSCO 273 355	realizaba tratamiento de forma habitual ni tenía alergias medicamentosas conocidas
+T46	NEG 415 417	no
+T47	NSCO 418 451	consumía alcohol ni otros tóxicos
+T48	NEG 453 455	No
+T49	NSCO 456 470	tenía mascotas
+T50	NEG 517 524	Tampoco
+T51	NSCO 525 563	refería actividades sexuales de riesgo
+T52	NEG 852 855	sin
+T53	NSCO 856 912	contacto con animales ni picaduras conocidas de insectos
+T54	NEG 1083 1085	No
+T55	NSCO 1086 1141	refería clínica urinaria ni respiratoria en ese momento
+T56	NEG 1457 1459	no
+T57	NSCO 1460 1467	remitía
+T58	NEG 1919 1922	sin
+T59	NSCO 1923 1966	signos de sobreinfección en su mano derecha
+T60	NEG 2363 2365	no
+T61	NSCO 2366 2398	mostraba alteraciones reseñables
+T62	NEG 2578 2580	no
+T63	NSCO 2581 2641	con el propio viaje así como las causas comunes de infección
+T64	UNC 2844 2851	posible
+T65	USCO 2852 2873	riesgo de transmisión
+T66	NEG 2927 2929	no
+T67	NSCO 2930 2941	infecciosas
+T68	NEG 3212 3230	se deben descartar
+T69	NSCO 3231 3249	causas "comunes" o
+T70	NEG 3250 3252	no
+T71	NSCO 3253 3278	relacionadas con el viaje
+T72	NEG 3529 3547	se deben descartar
+T73	NSCO 3548 3572	son la apendicitis aguda
+T74	UNC 3660 3667	posible
+T75	USCO 3668 3717	absceso intraabdominal con peritonitis secundaria
+T76	NEG 3796 3798	no
+T77	NSCO 3799 3841	se realizó a un país en vías de desarrollo
+T78	NEG 4717 4719	no
+T79	NSCO 4720 4788	constituye una zona de riesgo para el contagio de estas enfermedades
+T80	NEG 4838 4840	no
+T81	NSCO 4841 4867	potable o alimentos crudos
+T82	UNC 4869 4874	sería
+T83	USCO 4875 4946	necesario descartar infecciones por enterobacterias como Salmonella spp
+T84	NEG 4971 4973	no
+T85	NSCO 4974 4996	presentaba eosinofilia
+T86	UNC 5117 5122	sería
+T87	USCO 5123 5132	necesario
+T88	UNC 5133 5143	plantearse
+T89	USCO 5144 5188	el diagnóstico de listeriosis y salmonelosis
+T90	NEG 5244 5246	no
+T91	NSCO 5247 5260	pasteurizados
+T92	NEG 5298 5304	negado
+T93	NSCO 5305 5342	la ingesta de alimentos crudos o agua
+T94	NEG 5343 5345	no
+T95	NSCO 5346 5353	potable
+T96	NEG 5386 5388	no
+T97	NSCO 5389 5405	refirió contacto
+T98	NEG 5943 5952	negativas
+T99	NEG 6010 6013	sin
+T100	NSCO 6014 6023	contraste
+T101	UNC 6199 6205	podría
+T102	USCO 6206 6244	estar en relación con una pileflebitis
+T103	NEG 6342 6355	inespecíficas
+T104	UNC 6409 6415	podría
+T105	USCO 6416 6447	corresponderse con dos abscesos
+T106	NEG 6462 6465	sin
+T107	NSCO 6466 6521	contraste: presencia de gas en el sistema venoso portal
+T108	NEG 6599 6612	inespecíficas
+T109	UNC 6766 6774	probable
+T110	USCO 6775 6799	diverticulitis de Meckel
+T111	NEG 7327 7330	sin
+T112	NEG 7695 7697	No
+T113	NSCO 7698 7742	se apreciaron alteraciones a nivel esplénico
+T114	NSCO 7744 7790	Los cultivos intraoperatorios resultaron todos
+T115	NEG 7791 7800	negativos
+T116	NEG 8082 8094	Se suspendió
+T117	NSCO 8095 8106	doxiciclina
+T118	FARMACO 5648 5659	ceftriaxona
+T119	FARMACO 5693 5705	metronizadol
+T120	FARMACO 5731 5742	doxiciclina
+T121	FARMACO 8095 8106	doxiciclina
+T122	FARMACO 8136 8147	ceftriaxona
+T123	FARMACO 8150 8162	metronidazol
+T124	ORG_VIVO 3 18	paciente, varón
+T125	ORG_VIVO 493 501	animales
+T126	ORG_VIVO 568 576	paciente
+T127	ORG_VIVO 592 610	ingeniero agrónomo
+T128	ORG_VIVO 816 824	paciente
+T129	ORG_VIVO 869 877	animales
+T130	ORG_VIVO 904 912	insectos
+T131	ORG_VIVO 1224 1232	paciente
+T132	ORG_VIVO 1582 1590	paciente
+T133	ORG_VIVO 2006 2021	planta de fresa
+T134	ORG_VIVO 2434 2442	paciente
+T135	ORG_VIVO 3158 3166	paciente
+T136	ORG_VIVO 4087 4095	paciente
+T137	ORG_VIVO 4162 4172	artrópodos
+T138	ORG_VIVO 4175 4185	garrapatas
+T139	ORG_VIVO 4305 4313	paciente
+T140	ORG_VIVO 4437 4445	mosquito
+T141	ORG_VIVO 4528 4533	mosca
+T142	ORG_VIVO 4609 4616	viajero
+T143	ORG_VIVO 4679 4687	paciente
+T144	ORG_VIVO 4806 4814	paciente
+T145	ORG_VIVO 4950 4962	parasitarias
+T146	ORG_VIVO 4998 5007	helmintos
+T147	ORG_VIVO 5009 5020	Ascaris spp
+T148	ORG_VIVO 5022 5037	Trichinella spp
+T149	ORG_VIVO 5039 5052	Taenia solium
+T150	ORG_VIVO 5059 5068	protozoos
+T151	ORG_VIVO 5070 5080	Toxoplasma
+T152	ORG_VIVO 5082 5103	Entamoeba histolytica
+T153	ORG_VIVO 5283 5291	paciente
+T154	ORG_VIVO 5377 5385	paciente
+T155	ORG_VIVO 5410 5418	animales
+T156	ORG_VIVO 5809 5823	Rickettsia spp
+T157	ORG_VIVO 5825 5837	Coxiella spp
+T158	ORG_VIVO 5857 5872	Citomegalovirus
+T159	ORG_VIVO 5874 5877	CMV
+T160	ORG_VIVO 5897 5918	virus de Epstein Barr
+T161	ORG_VIVO 5920 5923	VEB
+T162	ORG_VIVO 6840 6848	paciente
+T163	ORG_VIVO 6979 6988	cirujanos
+T164	ORG_VIVO 8009 8017	paciente
+T165	ORG_VIVO 8207 8215	paciente
+T166	ORG_VIVO 8382 8390	paciente
+T167	ENFERMEDAD 252 268	fístula perianal
+T168	ENFERMEDAD 322 345	alergias medicamentosas
+T169	ENFERMEDAD 1933 1958	sobreinfección en su mano
+T170	ENFERMEDAD 2206 2216	colestasis
+T171	ENFERMEDAD 2549 2558	infección
+T172	ENFERMEDAD 2632 2641	infección
+T173	ENFERMEDAD 2992 3006	tromboflebitis
+T174	ENFERMEDAD 3012 3028	embolia pulmonar
+T175	ENFERMEDAD 3036 3064	síndrome de la clase turista
+T176	ENFERMEDAD 3293 3337	enfermedades de hígado, bazo y vías biliares
+T177	ENFERMEDAD 3347 3365	colecistitis aguda
+T178	ENFERMEDAD 3367 3376	litiásica
+T179	ENFERMEDAD 3379 3389	alitiasica
+T180	ENFERMEDAD 3397 3413	colangitis aguda
+T181	ENFERMEDAD 3428 3456	absceso hepático o esplénico
+T182	ENFERMEDAD 3463 3485	tromboflebitis séptica
+T183	ENFERMEDAD 3493 3524	enfermedades gastrointestinales
+T184	ENFERMEDAD 3555 3572	apendicitis aguda
+T185	ENFERMEDAD 3574 3594	diverticulitis aguda
+T186	ENFERMEDAD 3597 3614	colitis isquémica
+T187	ENFERMEDAD 3668 3690	absceso intraabdominal
+T188	ENFERMEDAD 3695 3717	peritonitis secundaria
+T189	ENFERMEDAD 4027 4040	leptospirosis
+T190	ENFERMEDAD 4044 4061	hepatitis aguda A
+T191	ENFERMEDAD 4222 4235	rickettsiosis
+T192	ENFERMEDAD 4237 4248	borreliosis
+T193	ENFERMEDAD 4449 4464	tripanosomiasis
+T194	ENFERMEDAD 4895 4946	infecciones por enterobacterias como Salmonella spp
+T195	ENFERMEDAD 5162 5173	listeriosis
+T196	ENFERMEDAD 5176 5188	salmonelosis
+T197	ENFERMEDAD 5527 5537	brucelosis
+T198	ENFERMEDAD 6232 6244	pileflebitis
+T199	ENFERMEDAD 6439 6447	abscesos
+T200	ENFERMEDAD 6524 6538	esplenomegalia
+T201	ENFERMEDAD 6775 6799	diverticulitis de Meckel
+T202	ENFERMEDAD 7848 7896	infiltración inflamatoria importante, ulcerativa
+T203	ENFERMEDAD 7966 7987	duplicidad intestinal
+T204	ENFERMEDAD 8261 8276	íleo paralítico
+T205	ENFERMEDAD 8292 8313	fístula enterocutánea
+T206	ENFERMEDAD 8547 8564	Neumatosis portal
+T207	ENFERMEDAD 8567 8579	pileflebitis
+T208	ENFERMEDAD 8594 8631	inflamación de duplicación intestinal
+T209	PACIENTE-PROFESION 592 610	ingeniero agrónomo
+T210	SANITARIO-PROFESION 6979 6988	cirujanos

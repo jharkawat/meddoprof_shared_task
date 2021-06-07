@@ -1,0 +1,47 @@
+T1	SINTOMA 251 258	Fumador
+T2	SINTOMA 260 267	bebedor
+T3	SINTOMA 489 497	Suspicaz
+T4	SINTOMA 500 514	hipervigilante
+T5	SINTOMA 716 746	alteraciones senso-perceptivas
+T6	SINTOMA 769 787	ideación delirante
+T7	SINTOMA 1181 1188	delirio
+T8	SINTOMA 1221 1240	deterioro funcional
+T9	PROCEDIMIENTO 384 402	Exploración física
+T10	PROCEDIMIENTO 444 471	Exploración psicopatológica
+T11	PROCEDIMIENTO 1043 1064	pruebas toxicológicas
+T12	NEG 197 200	Sin
+T13	NSCO 201 249	antecedentes médico-quirúrgicos ni psiquiátricos
+T14	NEG 279 281	no
+T15	NSCO 282 306	consumo de otros tóxicos
+T16	NEG 308 310	No
+T17	NSCO 311 342	refiere medicación domiciliaria
+T18	NEG 643 645	No
+T19	NSCO 646 680	síntomas de primer rango Schneider
+T20	NEG 682 684	No
+T21	NSCO 685 699	sintomatología
+T22	NEG 700 708	negativa
+T23	NEG 710 715	Niega
+T24	NSCO 716 746	alteraciones senso-perceptivas
+T25	NEG 819 821	No
+T26	NSCO 822 844	auto/heteroagresividad
+T27	NEG 846 848	no
+T28	NSCO 849 869	intención autolítica
+T29	NEG 1026 1028	no
+T30	NSCO 1029 1041	antecedentes
+T31	NEG 1065 1074	negativas
+T32	NEG 1093 1104	se descarta
+T33	NSCO 1105 1127	por historia evolutiva
+T34	NEG 1189 1192	sin
+T35	NSCO 1193 1240	desestructuración del Yo ni deterioro funcional
+T36	NEG 1259 1262	sin
+T37	NSCO 1263 1275	alteraciones
+T38	NEG 1277 1285	falta de
+T39	NSCO 1286 1300	sintomatología
+T40	NEG 1301 1309	negativa
+T41	FARMACO 1376 1387	Risperidona
+T42	FARMACO 1399 1408	Lorazepam
+T43	ORG_VIVO 26 34	paciente
+T44	ORG_VIVO 144 149	varón
+T45	ENFERMEDAD 800 817	ansiedad psíquica
+T46	ENFERMEDAD 1078 1091	Esquizofrenia
+T47	PACIENTE-SITUACION_LABORAL 170 195	actividad laboral estable

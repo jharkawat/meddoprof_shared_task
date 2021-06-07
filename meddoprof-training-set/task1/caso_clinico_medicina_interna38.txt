@@ -1,0 +1,18 @@
+Historia clínica. Anamnesis
+Se trata de una paciente de 74 años, hipertensa, y dislipémica con diagnóstico de Diabetes Mellitus (DM) tipo 2 de 40 años de evolución y afectación de órganos diana (retinopatía diabética proliferativa). Entre sus antecedentes personales destacan la presencia de vitíligo e hipotiroidismo en tratamiento sustitutivo, además de anemia de trastornos crónicos diagnosticada hace más de 15 años. El tratamiento de la paciente en el momento de la primera consulta es Insulina glargina, insulina glulisina, estatina, vitamina B12 mensual y levotiroxina. Es independiente para las actividades básicas de la vida, aunque tiene ciertas limitaciones por la edad para caminar o realizar ejercicio. Comienza a verse en consultas externas de Endocrinología por mal control de su DM a pesar de diversos ajustes de tratamiento por su médico de atención primaria. Interrogando a la paciente nos informa que al inicio fue tratada con antidiabéticos orales pero a los 10 años de evolución de su enfermedad, debido al mal control glucémico, se agregó Insulina basal al tratamiento. Refiere astenia intensa desde hace un tiempo que no sabe precisar, pérdida de peso no cuantificada y anorexia además de cifras de glucemia bastante inestables.
+
+Exploración física
+En la exploración inicial llama la atención la delgadez de la paciente, con un peso de 50 kg y un IMC de 22 kg/m2. Presenta una llamativa palidez muco-cutánea. Destacan zonas de piel hipopigmentadas en tronco y extremidades superiores. A la palpación del cuello presenta una glándula tiroidea de tamaño normal y sin nódulos palpables. A la auscultación cardiorrespiratoria los tonos son rítmicos y conserva un buen murmullo vesicular.
+
+Pruebas complementarias
+Ante la sospecha de que dicha DM tuviese un componente autoinmune no diagnosticado previamente, solicitamos diversos estudios analíticos de autoinmunidad.
+* Bioquímica: HAB1c 9.6%. Función renal y hepática sin alteraciones
+* Hemograma: Hb 9,7 mg/dl VCM 72 fl Hcto 37,8% Vitamina B12 normal.
+ * Anticuerpos:
+- Anti GAD (anticuerpo contra glutámico-acético decarboxilasa) y anticuerpos anti-células de los islotes (ICA) positivos.
+- Anticuerpos antiperoxisada (anti-TPO) y anti-tiroglobulina (anti-TBG) positivos
+- Anticuerpos Antifactor intrínseco positivo.
+- Anticuerpos antitransglutaminasa negativos.
+
+Juicio clínico final
+Diabetes mellitus tipo lada. Síndrome pluriglandular autoinmune (hipotiroidismo autoinmune, anemia perniciosa, vitíligo)

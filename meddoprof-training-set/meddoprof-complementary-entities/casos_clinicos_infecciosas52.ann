@@ -1,0 +1,259 @@
+T1	SINTOMA 296 303	fumador
+T2	SINTOMA 1014 1020	fiebre
+T3	SINTOMA 1023 1036	artromialgias
+T4	SINTOMA 1038 1064	tos escasamente productiva
+T5	SINTOMA 1070 1093	expectoración purulenta
+T6	SINTOMA 1095 1109	dolor torácico
+T7	SINTOMA 1110 1133	pleurítico en hemitórax
+T8	SINTOMA 1143 1162	sudoración nocturna
+T9	SINTOMA 1164 1171	astenia
+T10	SINTOMA 1174 1215	pérdida de unos 5 kilogramos (kg) de peso
+T11	SINTOMA 1538 1546	asténico
+T12	SINTOMA 1548 1556	eupneico
+T13	SINTOMA 1849 1909	disminución del murmullo vesicular en ambas bases pulmonares
+T14	SINTOMA 1914 1944	crepitantes húmedos en la base
+T15	SINTOMA 1995 2003	doloroso
+T16	SINTOMA 2069 2090	irritación peritoneal
+T17	SINTOMA 2116 2122	edemas
+T18	SINTOMA 2932 2947	síndrome febril
+T19	SINTOMA 2949 2962	artromialgias
+T20	SINTOMA 2965 2993	deterioro del estado general
+T21	SINTOMA 3140 3151	trombopenia
+T22	SINTOMA 3495 3510	síndrome febril
+T23	SINTOMA 3694 3700	fiebre
+T24	SINTOMA 3886 3894	febriles
+T25	SINTOMA 4024 4039	dolor abdominal
+T26	SINTOMA 4041 4048	diarrea
+T27	SINTOMA 4050 4067	clínica miccional
+T28	SINTOMA 4194 4216	infiltrados pulmonares
+T29	SINTOMA 4416 4427	trombopenia
+T30	SINTOMA 4442 4454	hipoglucemia
+T31	SINTOMA 4601 4607	fiebre
+T32	SINTOMA 4910 4916	fiebre
+T33	SINTOMA 5854 5860	fiebre
+T34	SINTOMA 5996 6013	clínica abdominal
+T35	SINTOMA 6029 6040	eosinofilia
+T36	SINTOMA 6065 6071	fiebre
+T37	SINTOMA 6074 6094	clínica respiratoria
+T38	SINTOMA 6189 6195	fiebre
+T39	SINTOMA 6198 6221	afectación respiratoria
+T40	SINTOMA 6400 6406	fiebre
+T41	SINTOMA 6459 6474	síndrome febril
+T42	SINTOMA 6786 6792	fiebre
+T43	SINTOMA 7046 7052	fiebre
+T44	SINTOMA 7089 7098	exantemas
+T45	SINTOMA 7157 7169	rash cutáneo
+T46	SINTOMA 7172 7200	manifestaciones hemorrágicas
+T47	SINTOMA 7917 7924	afebril
+T48	SINTOMA 7930 7941	parasitemia
+T49	SINTOMA 8078 8084	fiebre
+T50	SINTOMA 8087 8100	artromialgias
+T51	SINTOMA 9942 9959	ganancia ponderal
+T52	PROCEDIMIENTO 580 596	quimioprofilaxis
+T53	PROCEDIMIENTO 1496 1514	exploración física
+T54	PROCEDIMIENTO 1778 1799	auscultación cardíaca
+T55	PROCEDIMIENTO 2165 2188	exploración neurológica
+T56	PROCEDIMIENTO 2250 2259	Hemograma
+T57	PROCEDIMIENTO 2633 2653	Radiografía de tórax
+T58	PROCEDIMIENTO 2721 2739	Electrocardiograma
+T59	PROCEDIMIENTO 3224 3244	radiografía de tórax
+T60	PROCEDIMIENTO 3260 3269	anamnesis
+T61	PROCEDIMIENTO 3402 3431	quimioprofilaxis antipalúdica
+T62	PROCEDIMIENTO 7481 7487	Frotis
+T63	PROCEDIMIENTO 8376 8400	aislamiento respiratorio
+T64	PROCEDIMIENTO 8709 8712	TAC
+T65	PROCEDIMIENTO 8838 8845	Mantoux
+T66	PROCEDIMIENTO 8938 8950	baciloscopia
+T67	PROCEDIMIENTO 9003 9020	fibrobroncoscopia
+T68	PROCEDIMIENTO 9109 9136	tratamiento antituberculoso
+T69	PROCEDIMIENTO 9285 9308	tratamiento antibiótico
+T70	PROCEDIMIENTO 9372 9396	aislamiento respiratorio
+T71	PROCEDIMIENTO 9587 9599	Hemocultivos
+T72	PROCEDIMIENTO 9614 9648	Estudio de microfilarias en sangre
+T73	PROCEDIMIENTO 9737 9762	técnicas de concentración
+T74	PROCEDIMIENTO 10172 10213	antibiograma del cultivo de micobacterias
+T75	NEG 475 487	asintomático
+T76	NEG 567 569	no
+T77	NSCO 570 621	realizaba quimioprofilaxis frente a esta enfermedad
+T78	NEG 624 626	No
+T79	NSCO 627 661	había tenido contacto con animales
+T80	NEG 675 677	no
+T81	NSCO 678 773	embotellada, consumido productos lácteos locales ni tampoco había realizado baños en agua dulce
+T82	NEG 1066 1069	sin
+T83	NSCO 1070 1093	expectoración purulenta
+T84	NEG 1434 1445	ausencia de
+T85	NSCO 1446 1453	mejoría
+T86	NEG 1735 1737	no
+T87	NSCO 1738 1773	se palpaban adenopatías periféricas
+T88	NEG 1992 1994	no
+T89	NSCO 1995 2003	doloroso
+T90	NEG 2045 2048	sin
+T91	NSCO 2049 2090	masas, ni signos de irritación peritoneal
+T92	NEG 2112 2115	sin
+T93	NSCO 2116 2160	edemas ni datos de trombosis venosa profunda
+T94	NEG 2783 2786	sin
+T95	NSCO 2787 2852	alteraciones de la conducción ni de la repolarización ventricular
+T96	NEG 3383 3385	no
+T97	NSCO 3386 3431	había realizado quimioprofilaxis antipalúdica
+T98	NEG 4006 4018	inespecífica
+T99	NSCO 4019 4082	como dolor abdominal, diarrea, clínica miccional o respiratoria
+T100	NEG 4847 4855	atípicas
+T101	UNC 5167 5174	podrían
+T102	USCO 5175 5178	ser
+T103	UNC 5179 5194	compatibles con
+T104	USCO 5195 5211	este diagnóstico
+T105	NEG 5752 5754	no
+T106	NSCO 5755 5794	refería actividades en grutas ni ruinas
+T107	NEG 5963 5965	no
+T108	NSCO 5966 5973	tratada
+T109	NEG 5977 5984	tampoco
+T110	NSCO 5985 6013	presentaba clínica abdominal
+T111	NEG 6015 6017	No
+T112	NSCO 6018 6040	presentaba eosinofilia
+T113	NEG 6666 6668	no
+T114	NSCO 6669 6714	refería haberse bañado en zonas de agua dulce
+T115	UNC 6835 6844	probables
+T116	NEG 6970 6977	Tampoco
+T117	NSCO 6978 7001	había consumido lácteos
+T118	NEG 7002 7004	no
+T119	NSCO 7005 7017	higienizados
+T120	NEG 7036 7045	sospechar
+T121	NSCO 7046 7067	fiebre por brucelosis
+T122	NEG 7069 7071	No
+T123	NSCO 7072 7154	había presentado exantemas (que orientasen a infección por Rickettsias ni Borrelia
+T124	UNC 7215 7224	sospechar
+T125	USCO 7225 7262	dengue o algún otro virus hemorrágico
+T126	UNC 7568 7583	compatibles con
+T127	USCO 7584 7605	Plasmodium falciparum
+T128	NEG 7917 7924	afebril
+T129	UNC 8409 8420	se sospechó
+T130	USCO 8421 8473	la posibilidad de una infección tuberculosa pulmonar
+T131	NEG 8850 8858	negativo
+T132	NEG 8959 8967	negativa
+T133	NEG 9267 9281	suspendiéndose
+T134	NSCO 9282 9308	el tratamiento antibiótico
+T135	NEG 9401 9417	imposibilidad de
+T136	NSCO 9418 9441	realizarlo en domicilio
+T137	NEG 9574 9583	negativas
+T138	NEG 9601 9610	negativos
+T139	NEG 9669 9677	negativo
+T140	NEG 9764 9773	negativas
+T141	NEG 9882 9894	asintomático
+T142	NEG 10098 10100	no
+T143	NSCO 10101 10156	detectarse mutaciones de resistencias a dichos fármacos
+T144	NEG 10218 10220	no
+T145	NSCO 10221 10291	mostró resistencia a ninguno de los fármacos de primera línea testados
+T146	NEG 10311 10318	tampoco
+T147	NSCO 10319 10407	se objetivaron efectos secundarios debidos al tratamiento con derivados de la artemisina
+T148	FARMACO 1376 1400	amoxicilina- clavulánico
+T149	FARMACO 7817 7827	artesunato
+T150	FARMACO 8170 8180	Eurartesim
+T151	FARMACO 8217 8228	piperaquina
+T152	FARMACO 8241 8258	dihidroartemisina
+T153	FARMACO 8501 8512	ceftriaxona
+T154	FARMACO 8665 8675	tazobactam
+T155	FARMACO 9141 9152	rifampicina
+T156	FARMACO 9154 9164	isoniazida
+T157	FARMACO 9166 9178	pirazinamida
+T158	FARMACO 9181 9190	etambutol
+T159	FARMACO 10058 10069	rifampicina
+T160	FARMACO 10072 10082	isoniazida
+T161	FARMACO 10491 10501	artesunato
+T162	ORG_VIVO 0 14	Paciente varón
+T163	ORG_VIVO 379 387	vacunado
+T164	ORG_VIVO 410 418	infancia
+T165	ORG_VIVO 653 661	animales
+T166	ORG_VIVO 909 919	familiares
+T167	ORG_VIVO 2906 2914	paciente
+T168	ORG_VIVO 3514 3522	paciente
+T169	ORG_VIVO 3681 3689	viajeros
+T170	ORG_VIVO 3754 3762	paciente
+T171	ORG_VIVO 3898 3906	viajeros
+T172	ORG_VIVO 3964 3973	pacientes
+T173	ORG_VIVO 4611 4619	viajeros
+T174	ORG_VIVO 4972 4980	paciente
+T175	ORG_VIVO 5218 5226	viajeros
+T176	ORG_VIVO 5330 5340	residentes
+T177	ORG_VIVO 5743 5751	paciente
+T178	ORG_VIVO 5842 5849	esporas
+T179	ORG_VIVO 5931 5939	paciente
+T180	ORG_VIVO 6052 6060	paciente
+T181	ORG_VIVO 6161 6171	hantavirus
+T182	ORG_VIVO 6657 6665	paciente
+T183	ORG_VIVO 7146 7154	Borrelia
+T184	ORG_VIVO 7245 7262	virus hemorrágico
+T185	ORG_VIVO 7435 7446	panmalárico
+T186	ORG_VIVO 7452 7465	P. falciparum
+T187	ORG_VIVO 7538 7567	parásitos intraeritrocitarios
+T188	ORG_VIVO 7584 7605	Plasmodium falciparum
+T189	ORG_VIVO 7664 7675	parasitemia
+T190	ORG_VIVO 7894 7902	paciente
+T191	ORG_VIVO 7930 7941	parasitemia
+T192	ORG_VIVO 8311 8319	paciente
+T193	ORG_VIVO 8938 8950	baciloscopia
+T194	ORG_VIVO 9052 9078	Mycobacterium tuberculosis
+T195	ORG_VIVO 9121 9136	antituberculoso
+T196	ORG_VIVO 9521 9524	VIH
+T197	ORG_VIVO 9526 9529	VHB
+T198	ORG_VIVO 9531 9534	VHC
+T199	ORG_VIVO 9536 9543	sífilis
+T200	ORG_VIVO 9545 9558	Strongyloides
+T201	ORG_VIVO 9561 9572	Schistosoma
+T202	ORG_VIVO 9625 9638	microfilarias
+T203	ORG_VIVO 9681 9690	Parásitos
+T204	ORG_VIVO 9823 9831	paciente
+T205	ORG_VIVO 10200 10213	micobacterias
+T206	ORG_VIVO 10587 10598	parasitemia
+T207	ENFERMEDAD 391 403	tuberculosis
+T208	ENFERMEDAD 513 520	malaria
+T209	ENFERMEDAD 1750 1773	adenopatías periféricas
+T210	ENFERMEDAD 2135 2160	trombosis venosa profunda
+T211	ENFERMEDAD 2697 2708	atelectasia
+T212	ENFERMEDAD 3132 3138	anemia
+T213	ENFERMEDAD 3140 3151	trombopenia
+T214	ENFERMEDAD 3154 3166	hipoglucemia
+T215	ENFERMEDAD 3591 3634	etiologías causantes de afectación pulmonar
+T216	ENFERMEDAD 4115 4159	infecciones del tracto respiratorio inferior
+T217	ENFERMEDAD 4257 4282	sobreinfección bacteriana
+T218	ENFERMEDAD 4284 4291	malaria
+T219	ENFERMEDAD 4384 4390	anemia
+T220	ENFERMEDAD 4442 4454	hipoglucemia
+T221	ENFERMEDAD 4681 4703	infección respiratoria
+T222	ENFERMEDAD 4733 4754	neumonías del viajero
+T223	ENFERMEDAD 4780 4812	infecciones virales, bacterianas
+T224	ENFERMEDAD 4858 4870	tuberculosis
+T225	ENFERMEDAD 4872 4892	síndrome de Löeffler
+T226	ENFERMEDAD 4894 4908	paragonimiasis
+T227	ENFERMEDAD 4920 4935	coccidiomicosis
+T228	ENFERMEDAD 4937 4948	meliodiosis
+T229	ENFERMEDAD 4951 4958	malaria
+T230	ENFERMEDAD 5024 5045	tuberculosis pulmonar
+T231	ENFERMEDAD 5284 5296	tuberculosis
+T232	ENFERMEDAD 5392 5403	melioidosis
+T233	ENFERMEDAD 5408 5485	afectación pulmonar con lesiones y cavidades en lóbulos pulmonares superiores
+T234	ENFERMEDAD 5509 5521	tuberculosis
+T235	ENFERMEDAD 5533 5584	patología es endémica de Sudeste Asiático y Oceanía
+T236	ENFERMEDAD 5589 5639	histoplasmosis también produce afectación pulmonar
+T237	ENFERMEDAD 6142 6154	helmintiasis
+T238	ENFERMEDAD 6263 6277	distrés severo
+T239	ENFERMEDAD 6314 6334	síndrome del viajero
+T240	ENFERMEDAD 6366 6381	tromboembolismo
+T241	ENFERMEDAD 6607 6630	infecciones potenciales
+T242	ENFERMEDAD 6768 6784	esquistosomiasis
+T243	ENFERMEDAD 6811 6824	leptospirosis
+T244	ENFERMEDAD 6912 6935	infección aguda por VIH
+T245	ENFERMEDAD 7057 7067	brucelosis
+T246	ENFERMEDAD 7117 7142	infección por Rickettsias
+T247	ENFERMEDAD 7506 7518	microcitosis
+T248	ENFERMEDAD 7538 7605	parásitos intraeritrocitarios compatibles con Plasmodium falciparum
+T249	ENFERMEDAD 7718 7743	Malaria por P. falciparum
+T250	ENFERMEDAD 8443 8473	infección tuberculosa pulmonar
+T251	ENFERMEDAD 8578 8585	malaria
+T252	ENFERMEDAD 8601 8618	proceso neumónico
+T253	ENFERMEDAD 8788 8824	neumonía cavitada en lóbulo superior
+T254	ENFERMEDAD 9052 9099	Mycobacterium tuberculosis en el broncoaspirado
+T255	ENFERMEDAD 10414 10423	hepatitis
+T256	ENFERMEDAD 10438 10501	anemia hemolítica secundaria a la administración del artesunato
+T257	ENFERMEDAD 10524 10559	Paludismo por Plasmodium falciparum
+T258	ENFERMEDAD 10613 10634	Tuberculosis pulmonar
+T259	PACIENTE-PROFESION 96 122	Trabaja en la construcción

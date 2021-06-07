@@ -1,0 +1,110 @@
+T1	SINTOMA 91 115	expectoración hemoptoica
+T2	SINTOMA 158 215	dolor en costado izquierdo de características pleuríticas
+T3	SINTOMA 221 227	fiebre
+T4	SINTOMA 233 253	sensación distérmica
+T5	SINTOMA 675 685	consciente
+T6	SINTOMA 688 697	orientado
+T7	SINTOMA 699 707	eupneico
+T8	SINTOMA 870 884	tonos rítmicos
+T9	SINTOMA 889 895	soplos
+T10	SINTOMA 902 966	disminución generalizada del murmullo vesicular a nivel pulmonar
+T11	SINTOMA 968 994	Abdomen blando, depresible
+T12	SINTOMA 1065 1071	edemas
+T13	SINTOMA 1546 1559	masa pulmonar
+T14	SINTOMA 1640 1647	afebril
+T15	SINTOMA 1667 1686	esputos hemoptoicos
+T16	PROCEDIMIENTO 560 583	tratamiento antibiótico
+T17	PROCEDIMIENTO 608 626	exploración física
+T18	PROCEDIMIENTO 837 858	auscultación pulmonar
+T19	PROCEDIMIENTO 1279 1296	cultivo de esputo
+T20	PROCEDIMIENTO 1320 1340	radiografía de tórax
+T21	PROCEDIMIENTO 2423 2449	toracocentésis diagnóstica
+T22	PROCEDIMIENTO 2544 2556	Broncoscopia
+T23	PROCEDIMIENTO 2745 2777	Angio-TAC de arterias Pulmonares
+T24	PROCEDIMIENTO 2825 2852	TAC toraco-abdomino-pélvico
+T25	PROCEDIMIENTO 3079 3093	toracocentesis
+T26	PROCEDIMIENTO 3096 3108	broncoscopia
+T27	PROCEDIMIENTO 3133 3151	Anatomía Patología
+T28	PROCEDIMIENTO 3809 3830	cobertura antibiótica
+T29	PROCEDIMIENTO 3909 3936	tratamiento antirretroviral
+T30	PROCEDIMIENTO 4155 4178	antibiótica intravenosa
+T31	NEG 217 220	sin
+T32	NSCO 221 227	fiebre
+T33	NEG 229 232	sin
+T34	NSCO 233 253	sensación distérmica
+T35	NEG 255 258	sin
+T36	NSCO 259 316	síndrome constitucional u otra sintomatología acompañante
+T37	NEG 818 820	no
+T38	NSCO 821 830	adheridas
+T39	NEG 885 888	sin
+T40	NSCO 889 895	soplos
+T41	NEG 996 999	sin
+T42	NSCO 1000 1033	masas o visceromegalias palpables
+T43	NEG 1061 1064	sin
+T44	NSCO 1065 1071	edemas
+T45	NEG 1260 1268	negativa
+T46	UNC 1385 1387	vs
+T47	USCO 1388 1403	masa en língula
+T48	NEG 1640 1647	afebril
+T49	NEG 2778 2789	se descartó
+T50	NSCO 2790 2819	tromboembolismo a dicho nivel
+T51	NEG 3009 3018	negativos
+T52	NEG 3020 3023	sin
+T53	NEG 3152 3154	no
+T54	NSCO 3155 3194	observó células sugestivas de Neoplasia
+T55	NEG 3623 3626	Sin
+T56	NSCO 3627 3651	resistencias fenotípicas
+T57	NEG 4073 4084	se suspende
+T58	NSCO 4085 4096	vancomicina
+T59	FARMACO 3835 3846	vancomicina
+T60	FARMACO 3848 3859	rifampicina
+T61	FARMACO 3862 3874	azitromicina
+T62	FARMACO 3941 3948	Atripla
+T63	FARMACO 4085 4096	vancomicina
+T64	FARMACO 4125 4133	imipenem
+T65	FARMACO 4290 4301	Rifampicina
+T66	FARMACO 4304 4316	Azitromicina
+T67	ORG_VIVO 0 5	Varón
+T68	ORG_VIVO 341 351	personales
+T69	ORG_VIVO 363 385	Trabajador en el campo
+T70	ORG_VIVO 449 455	pareja
+T71	ORG_VIVO 1222 1232	Legionella
+T72	ORG_VIVO 1233 1242	Neumococo
+T73	ORG_VIVO 1594 1602	paciente
+T74	ORG_VIVO 2298 2301	VHA
+T75	ORG_VIVO 2303 2306	VHB
+T76	ORG_VIVO 2308 2311	VHC
+T77	ORG_VIVO 2313 2323	Toxoplasma
+T78	ORG_VIVO 2325 2340	Citomeglaovirus
+T79	ORG_VIVO 2343 2346	VIH
+T80	ORG_VIVO 2955 2958	VHA
+T81	ORG_VIVO 2959 2962	VHB
+T82	ORG_VIVO 2964 2967	VHC
+T83	ORG_VIVO 2969 2984	Citomegalovirus
+T84	ORG_VIVO 2987 2997	toxoplasma
+T85	ORG_VIVO 3056 3059	VIH
+T86	ORG_VIVO 3263 3279	Rhodocuccus equi
+T87	ORG_VIVO 3296 3304	colonias
+T88	ORG_VIVO 3414 3417	VIH
+T89	ORG_VIVO 3455 3460	viral
+T90	ORG_VIVO 3594 3597	VIH
+T91	ORG_VIVO 3609 3621	retrovirales
+T92	ORG_VIVO 3667 3675	paciente
+T93	ORG_VIVO 3783 3786	VIH
+T94	ORG_VIVO 3921 3936	antirretroviral
+T95	ORG_VIVO 4256 4264	paciente
+T96	ENFERMEDAD 259 282	síndrome constitucional
+T97	ENFERMEDAD 520 534	neumonía basal
+T98	ENFERMEDAD 730 770	adenopatías supreclaviculares izquierdas
+T99	ENFERMEDAD 1408 1423	derrame pleural
+T100	ENFERMEDAD 1875 1893	neoplasia pulmonar
+T101	ENFERMEDAD 1987 2011	tromboembolismo pulmonar
+T102	ENFERMEDAD 2025 2041	infarto pulmonar
+T103	ENFERMEDAD 2574 2642	eritematosa alrededor de la entrada del bronquio del lóbulo superior
+T104	ENFERMEDAD 2790 2805	tromboembolismo
+T105	ENFERMEDAD 3056 3059	VIH
+T106	ENFERMEDAD 3185 3194	Neoplasia
+T107	ENFERMEDAD 3414 3417	VIH
+T108	ENFERMEDAD 3700 3708	Neumonía
+T109	ENFERMEDAD 3724 3770	derrame pleural izquierdo por Rhodococcus equi
+T110	PACIENTE-PROFESION 363 385	Trabajador en el campo

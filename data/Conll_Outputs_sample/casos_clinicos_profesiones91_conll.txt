@@ -1,0 +1,338 @@
+Hospital	O
+General	O
+de	O
+Almer	O
+a	O
+.	O
+
+Paciente	O
+de	O
+19	O
+a	O
+os	O
+prim	O
+gravida	O
+y	O
+de	O
+30	O
+SDG	O
+.	O
+
+Acude	O
+acompa	O
+ada	O
+a	O
+la	O
+puerta	O
+de	O
+urgencias	O
+del	O
+hospital	O
+.	O
+
+Pasa	O
+sola	O
+desde	O
+triage	O
+al	O
+cuarto	O
+de	O
+shock	O
+.	O
+
+En	O
+la	O
+exploraci	O
+n	O
+disneica	O
+FC	O
+de	O
+58	O
+lpm	O
+y	O
+TA	O
+de	O
+135/79	O
+mmHg	O
+.	O
+
+Est	O
+confusa	O
+
+Presenta	O
+una	O
+salivaci	O
+n	O
+importante	O
+.	O
+
+Pupilas	O
+mi	O
+ticas	O
+bilaterales	O
+.	O
+
+Disminuci	O
+n	O
+de	O
+los	O
+reflejos	O
+tendinosos	O
+.	O
+
+Frecuencia	O
+respiratoria	O
+de	O
+20	O
+rpm	O
+SapO2	O
+de	O
+96	O
+%	O
+con	O
+ox	O
+geno	O
+.	O
+
+Auscultaci	O
+n	O
+pulmonar	O
+normal	O
+
+Presenta	O
+un	O
+olor	O
+extra	O
+o	O
+en	O
+el	O
+aliento	O
+.	O
+
+El	O
+feto	O
+tiene	O
+una	O
+FCF	O
+de	O
+140	O
+lpm	O
+.	O
+
+
+Anamnesis	O
+
+Trabaja	B-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+plantaci	I-PROFESION
+n	I-PROFESION
+agr	I-PROFESION
+cola	I-PROFESION
+.	O
+
+Ha	O
+tenido	O
+problemas	O
+con	O
+baja	B-SITUACION_LABORAL
+maternal	I-SITUACION_LABORAL
+desde	O
+1er	O
+trimestre	O
+.	O
+
+Tiene	O
+un	O
+trastorno	O
+l	O
+mite	O
+de	O
+la	O
+personalidad	O
+.	O
+
+
+Reinterrogatorio	O
+e	O
+investigaci	O
+n	O
+:	O
+
+Ha	O
+llegado	O
+a	O
+casa	O
+de	O
+mal	O
+humor	O
+y	O
+se	O
+ha	O
+ido	O
+.	O
+
+A	O
+la	O
+vuelta	O
+ha	O
+dicho	O
+que	O
+hab	O
+a	O
+pasado	O
+a	O
+ver	O
+a	O
+sus	O
+compa	B-SITUACION_LABORAL
+eros	I-SITUACION_LABORAL
+.	O
+
+En	O
+la	O
+plantaci	O
+n	O
+confirman	O
+que	O
+ha	O
+estado	O
+all	O
+y	O
+que	O
+ha	O
+tenido	O
+una	O
+discusi	O
+n	O
+.	O
+
+Trabajan	O
+con	O
+varios	O
+productos	O
+de	O
+fumigaci	O
+n	O
+,	O
+muchos	O
+de	O
+ellos	O
+organofosforados	O
+.	O
+
+La	O
+paciente	O
+tiene	O
+acceso	O
+a	O
+ellos	O
+porque	O
+trabaja	B-SITUACION_LABORAL
+en	I-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+departamento	I-SITUACION_LABORAL
+.	O
+
+
+Sigue	O
+con	O
+mucha	O
+salivaci	O
+n	O
+y	O
+con	O
+gran	O
+cantidad	O
+de	O
+secreciones	O
+en	O
+la	O
+boca	O
+.	O
+
+Sudoraci	O
+n	O
+profusa	O
+.	O
+
+Se	O
+objetiva	O
+uso	O
+de	O
+musculatura	O
+accesoria	O
+respiratoria	O
+y	O
+movimientos	O
+an	O
+malos	O
+en	O
+orbicular	O
+y	O
+en	O
+lengua	O
+.	O
+
+Comienza	O
+con	O
+disnea	O
+y	O
+sibilancias	O
+.	O
+
+Ca	O
+da	O
+de	O
+la	O
+TA	O
+y	O
+bradicardia	O
+m	O
+s	O
+marcada	O
+.	O
+
+Presenta	O
+alteraciones	O
+en	O
+el	O
+ECG	O
+
+FCF	O
+100	O
+lpm	O
+
+
+Manejo	O
+diagn	O
+stico	O
+y	O
+terap	O
+utico	O
+
+Se	O
+decide	O
+traslado	O
+a	O
+UVI	O
+.	O
+
+Se	O
+intuba	O
+a	O
+la	O
+paciente	O
+y	O
+se	O
+inicia	O
+VMC	O
+.	O
+
+Se	O
+inicia	O
+tratamiento	O
+.	O
+
+
+
