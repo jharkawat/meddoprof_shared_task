@@ -1,0 +1,25 @@
+
+Anunció	O
+a	O
+sus	O
+colegas	B-SITUACION_LABORAL
+que	O
+había	O
+sido	O
+nombrado	O
+director	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+empresa	I-PROFESION
+,	O
+y	O
+que	O
+todos	O
+deberían	O
+hacer	O
+un	O
+viaje	O
+alrededor	O
+del	O
+mundo	O
+.	O

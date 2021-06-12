@@ -1,0 +1,10 @@
+
+Laura	O
+es	O
+pediatra	B-PROFESION
+en	O
+un	O
+centro	O
+de	O
+salud	O
+.	O

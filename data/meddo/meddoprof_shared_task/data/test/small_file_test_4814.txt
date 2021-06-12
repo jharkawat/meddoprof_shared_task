@@ -1,0 +1,20 @@
+
+Recibe	O
+su	O
+tratamiento	O
+adyuvante	O
+de	O
+radioterapia	O
+e	O
+inicia	O
+en	O
+noviembre	O
+/	O
+2013	O
+hormonoterapia	O
+(	O
+HT	O
+)	O
+con	O
+exemestano	O
+.	O

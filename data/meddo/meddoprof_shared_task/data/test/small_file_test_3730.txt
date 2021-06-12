@@ -1,0 +1,9 @@
+
+Test	O
+de	O
+embarazo	O
+en	O
+orina	O
+:	O
+positivo	O
+.	O

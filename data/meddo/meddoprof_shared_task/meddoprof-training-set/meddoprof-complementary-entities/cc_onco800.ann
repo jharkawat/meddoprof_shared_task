@@ -1,0 +1,115 @@
+T1	SINTOMA 782 787	dolor
+T2	SINTOMA 1006 1014	disfonía
+T3	SINTOMA 1333 1341	disfonía
+T4	SINTOMA 3862 3867	dolor
+T5	SINTOMA 4397 4421	tonos cardiacos rítmicos
+T6	SINTOMA 4427 4433	soplos
+T7	SINTOMA 4477 4498	irritación peritoneal
+T8	PROCEDIMIENTO 253 282	radioterapia en zona cervical
+T9	PROCEDIMIENTO 503 524	tratamiento con láser
+T10	PROCEDIMIENTO 1189 1206	cordectomía láser
+T11	PROCEDIMIENTO 1415 1428	traqueostomía
+T12	PROCEDIMIENTO 1527 1550	biopsias peroperatorias
+T13	PROCEDIMIENTO 1635 1654	laringectomía total
+T14	PROCEDIMIENTO 1670 1689	Anatomía Patológica
+T15	PROCEDIMIENTO 2107 2129	radioterapia adyuvante
+T16	PROCEDIMIENTO 2265 2277	radioterapia
+T17	PROCEDIMIENTO 2302 2306	IMRT
+T18	PROCEDIMIENTO 2364 2376	TC de cuello
+T19	PROCEDIMIENTO 2475 2479	PAAF
+T20	PROCEDIMIENTO 2589 2625	vaciamiento cervical radical derecho
+T21	PROCEDIMIENTO 2746 2765	quimiorradioterapia
+T22	PROCEDIMIENTO 3062 3086	tomografía computarizada
+T23	PROCEDIMIENTO 3088 3090	TC
+T24	PROCEDIMIENTO 3296 3332	tomografía por emisión de positrones
+T25	PROCEDIMIENTO 3334 3340	PET-TC
+T26	PROCEDIMIENTO 3371 3378	biopsia
+T27	PROCEDIMIENTO 3729 3731	TC
+T28	PROCEDIMIENTO 3940 3952	estudio HAWK
+T29	PROCEDIMIENTO 4018 4025	biopsia
+T30	PROCEDIMIENTO 4057 4075	Exploración física
+T31	PROCEDIMIENTO 4281 4308	Exploración física pulmonar
+T32	PROCEDIMIENTO 4369 4395	Exploración cardiovascular
+T33	PROCEDIMIENTO 4502 4525	Exploración neurológica
+T34	PROCEDIMIENTO 4651 4683	determinación inmunohistoquímica
+T35	PROCEDIMIENTO 4691 4721	test cualitativo VENTANA PD-L1
+T36	PROCEDIMIENTO 4914 4932	inmunohistoquímica
+T37	NEG 29 32	sin
+T38	NSCO 33 66	alergias medicamentosas conocidas
+T39	NEG 142 145	sin
+T40	NSCO 146 167	otros hábitos tóxicos
+T41	NEG 625 628	sin
+T42	NSCO 629 653	barreras arquitectónicas
+T43	NEG 2923 2925	no
+T44	NSCO 2926 2935	resecable
+T45	NEG 3350 3358	negativo
+T46	NEG 3842 3854	asintomático
+T47	NEG 3856 3861	niega
+T48	NSCO 3862 3898	dolor o supuración peritraqueostomía
+T49	NEG 4114 4117	sin
+T50	NSCO 4118 4139	hallazgos patológicos
+T51	NEG 4185 4188	sin
+T52	NSCO 4189 4214	signos de infección local
+T53	NEG 4216 4218	No
+T54	NSCO 4219 4277	se palpan adenopatías en cuello ni en zona supraclavicular
+T55	NEG 4341 4344	sin
+T56	NSCO 4345 4365	ruidos sobreañadidos
+T57	NEG 4423 4426	sin
+T58	NSCO 4427 4442	soplos añadidos
+T59	NEG 4463 4466	sin
+T60	NSCO 4467 4498	signos de irritación peritoneal
+T61	NEG 4527 4530	sin
+T62	NSCO 4531 4568	signos de focalidad neurológica aguda
+T63	NEG 4794 4810	negatividad para
+T64	NSCO 4811 4816	PDL-1
+T65	NEG 5000 5002	no
+T66	NSCO 5003 5029	resecable de su enfermedad
+T67	NEG 5037 5045	negativo
+T68	NEG 5068 5079	negatividad
+T69	NEG 6024 6026	No
+T70	NSCO 6027 6077	presentó en ningún momento toxicidad inmunomediada
+T71	FARMACO 695 704	Lorazepam
+T72	FARMACO 737 748	Paracetamol
+T73	FARMACO 789 801	Levotiroxina
+T74	FARMACO 2783 2793	cisplatino
+T75	FARMACO 3503 3515	carboplatino
+T76	FARMACO 3516 3529	fluorouracilo
+T77	FARMACO 3531 3546	5-FU)-cetuximab
+T78	FARMACO 5292 5302	durvalumab
+T79	FARMACO 5314 5326	tremelimumab
+T80	ORG_VIVO 10 16	Hombre
+T81	ORG_VIVO 560 568	Jubilado
+T82	ORG_VIVO 585 596	constructor
+T83	ORG_VIVO 610 616	esposa
+T84	ORG_VIVO 3636 3644	paciente
+T85	ORG_VIVO 3807 3815	paciente
+T86	ORG_VIVO 3980 3989	pacientes
+T87	ORG_VIVO 4758 4763	ratón
+T88	ORG_VIVO 4950 4958	paciente
+T89	ORG_VIVO 5106 5114	paciente
+T90	ORG_VIVO 5192 5200	paciente
+T91	ORG_VIVO 5494 5502	paciente
+T92	ORG_VIVO 5666 5674	paciente
+T93	ENFERMEDAD 33 56	alergias medicamentosas
+T94	ENFERMEDAD 68 77	exfumador
+T95	ENFERMEDAD 202 227	Hipotiroidismo subclínico
+T96	ENFERMEDAD 384 419	Derrame de vítreo posterior del ojo
+T97	ENFERMEDAD 937 985	carcinoma escamoso de alto grado en cuerda vocal
+T98	ENFERMEDAD 1006 1014	disfonía
+T99	ENFERMEDAD 1053 1075	lesión en cuerda vocal
+T100	ENFERMEDAD 1355 1374	parálisis de la CVI
+T101	ENFERMEDAD 1714 1863	carcinoma escamoso moderadamente diferenciado, infiltrante de 3,5 cm en el eje máximo, con invasión del seno piriforme, glotis y extensión subglótica
+T102	ENFERMEDAD 1950 2005	infiltración perineural y vascular y el margen traqueal
+T103	ENFERMEDAD 2404 2448	lesión mal delimitada en nivel IV ganglionar
+T104	ENFERMEDAD 2663 2721	invasión extracapsular en 2 ganglios e invasión perineural
+T105	ENFERMEDAD 3117 3151	recidiva tumoral peritraqueostomía
+T106	ENFERMEDAD 3167 3214	infiltración del músculo esternocleidomastoideo
+T107	ENFERMEDAD 3407 3440	carcinoma pobremente diferenciado
+T108	ENFERMEDAD 3759 3802	recidiva en la zona de la paratraqueostomía
+T109	ENFERMEDAD 4199 4214	infección local
+T110	ENFERMEDAD 4229 4250	adenopatías en cuello
+T111	ENFERMEDAD 4977 5036	recidiva locorregional no resecable de su enfermedad, PD-L1
+T112	ENFERMEDAD 5931 5956	adenopatías mediastínicas
+T113	ENFERMEDAD 6054 6077	toxicidad inmunomediada
+T114	PACIENTE-SITUACION_LABORAL 560 568	Jubilado
+T115	PACIENTE-PROFESION 585 596	constructor

@@ -1,0 +1,23 @@
+
+Recibió	O
+un	O
+primer	O
+y	O
+único	O
+ciclo	O
+,	O
+desarrollando	O
+taquicardia	O
+supraventricular	O
+rápida	O
+a	O
+190	O
+lpm	O
+con	O
+ritmo	O
+de	O
+base	O
+en	O
+fibrilación	O
+auricular	O
+.	O

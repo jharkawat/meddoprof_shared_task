@@ -1,0 +1,5 @@
+
+Trabajador	B-PROFESION
+del	I-PROFESION
+campo	I-PROFESION
+.	O

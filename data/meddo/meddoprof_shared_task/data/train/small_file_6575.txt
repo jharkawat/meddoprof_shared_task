@@ -1,0 +1,20 @@
+
+Clínica	O
+compatible	O
+con	O
+herpes	O
+zóster	O
+temporal	O
+derecho	O
+diseminado	O
+en	O
+un	O
+paciente	O
+inmunodeprimido	O
+por	O
+la	O
+toma	O
+crónica	O
+de	O
+azatioprina	O
+.	O

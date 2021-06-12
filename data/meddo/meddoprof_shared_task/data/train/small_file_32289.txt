@@ -1,0 +1,26 @@
+
+Durante	O
+la	O
+evolución	O
+ha	O
+seguido	O
+un	O
+tratamiento	O
+con	O
+distintos	O
+antipsicóticos	O
+con	O
+escasa	O
+respuesta	O
+y	O
+con	O
+efectos	O
+secundarios	O
+que	O
+han	O
+requerido	O
+tratamiento	O
+(	O
+hiperprolactinemia	O
+)	O
+.	O

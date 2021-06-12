@@ -1,0 +1,53 @@
+T1	SINTOMA 98 130	sintomatología afectiva variable
+T2	SINTOMA 141 149	tristeza
+T3	SINTOMA 155 168	irritabilidad
+T4	SINTOMA 196 203	ansioso
+T5	SINTOMA 788 819	sensaciones corporales bizarras
+T6	SINTOMA 892 916	sintomatología paranoide
+T7	SINTOMA 918 930	desconfianza
+T8	SINTOMA 933 946	irritabilidad
+T9	SINTOMA 2223 2235	alucinatoria
+T10	PROCEDIMIENTO 1344 1362	Exploración física
+T11	NEG 324 327	sin
+T12	NSCO 328 335	interés
+T13	UNC 507 515	sospecha
+T14	USCO 516 557	que los compañeros de trabajo la critican
+T15	NEG 1274 1276	No
+T16	NSCO 1277 1296	ideación autolítica
+T17	NEG 1430 1441	descartaron
+T18	NSCO 1442 1460	patología orgánica
+T19	UNC 1492 1498	pensar
+T20	USCO 1499 1614	en la posibilidad de un trastorno psicótico de tipo afectivo tal como trastorno bipolar o trastorno esquizoafectivo
+T21	NEG 1891 1902	ausencia de
+T22	NSCO 1903 1929	respuesta a antipsicóticos
+T23	NEG 2742 2751	evidentes
+T24	NSCO 2752 2809	los síntomas derivados de su enfermedad a nivel cognitivo
+T25	FARMACO 1822 1833	risperidona
+T26	FARMACO 1836 1847	aripiprazol
+T27	FARMACO 1977 1986	clozapina
+T28	FARMACO 2555 2564	clozapina
+T29	FARMACO 2613 2622	clozapina
+T30	ORG_VIVO 0 5	Mujer
+T31	ORG_VIVO 232 242	familiares
+T32	ORG_VIVO 244 249	madre
+T33	ORG_VIVO 284 290	padres
+T34	ORG_VIVO 367 375	paciente
+T35	ORG_VIVO 483 491	personas
+T36	ORG_VIVO 524 545	compañeros de trabajo
+T37	ORG_VIVO 2273 2281	paciente
+T38	ORG_VIVO 2378 2386	paciente
+T39	ENFERMEDAD 267 276	Parkinson
+T40	ENFERMEDAD 291 301	fallecidos
+T41	ENFERMEDAD 606 614	ansiedad
+T42	ENFERMEDAD 892 916	sintomatología paranoide
+T43	ENFERMEDAD 1022 1045	conductas autoagresivas
+T44	ENFERMEDAD 1523 1559	trastorno psicótico de tipo afectivo
+T45	ENFERMEDAD 1569 1586	trastorno bipolar
+T46	ENFERMEDAD 1589 1614	trastorno esquizoafectivo
+T47	ENFERMEDAD 1714 1737	esquizofrenia paranoide
+T48	ENFERMEDAD 2069 2077	ansiedad
+T49	ENFERMEDAD 2674 2698	sintomatología psicótica
+T50	ENFERMEDAD 2781 2809	enfermedad a nivel cognitivo
+T51	OTROS-SITUACION_LABORAL 524 545	compañeros de trabajo
+T52	PACIENTE-SITUACION_LABORAL 387 417	mantener una actividad laboral
+T53	PACIENTE-SITUACION_LABORAL 2145 2170	Se incorpora a su trabajo

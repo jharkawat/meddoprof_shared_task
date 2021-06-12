@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+era	O
+el	O
+segundo	O
+de	O
+dos	O
+hijos	O
+.	O

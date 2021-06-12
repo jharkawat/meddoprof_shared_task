@@ -1,0 +1,19 @@
+
+Refiere	O
+anorexia	O
+,	O
+pérdida	O
+de	O
+masa	O
+muscular	O
+y	O
+debilidad	O
+proximal	O
+en	O
+extremidades	O
+y	O
+distal	O
+añadida	O
+en	O
+MMSS	O
+.	O

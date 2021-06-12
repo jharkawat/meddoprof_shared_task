@@ -1,0 +1,16 @@
+
+El	O
+tratamiento	O
+con	O
+imatinib	O
+lo	O
+mantiene	O
+de	O
+forma	O
+constante	O
+,	O
+sin	O
+referir	O
+toxicidad	O
+grave	O
+.	O

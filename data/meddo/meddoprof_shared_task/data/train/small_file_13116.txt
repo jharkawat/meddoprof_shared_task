@@ -1,0 +1,7 @@
+
+Trabaja	O
+como	O
+ganadero	B-PROFESION
+y	O
+agricultor	B-PROFESION
+.	O

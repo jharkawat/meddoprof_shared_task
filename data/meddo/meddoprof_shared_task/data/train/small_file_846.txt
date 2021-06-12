@@ -1,0 +1,19 @@
+
+A	O
+consecuencia	O
+del	O
+trauma	O
+presenta	O
+dolor	O
+,	O
+deformidad	O
+e	O
+impotencia	O
+funcional	O
+,	O
+con	O
+exploración	O
+neurovascular	O
+distal	O
+normal	O
+.	O

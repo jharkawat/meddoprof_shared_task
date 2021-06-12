@@ -1,0 +1,21 @@
+
+Los	O
+padres	O
+no	O
+consiguen	O
+ponerse	O
+de	O
+acuerdo	O
+sobre	O
+cómo	O
+actuar	O
+en	O
+relación	O
+con	O
+este	O
+hijo	O
+,	O
+produciéndose	O
+reproches	O
+continuos	O
+.	O

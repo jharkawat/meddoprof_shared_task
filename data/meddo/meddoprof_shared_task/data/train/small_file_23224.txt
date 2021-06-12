@@ -1,0 +1,26 @@
+
+Refiere	O
+haber	O
+sido	O
+una	O
+persona	O
+muy	O
+activa	O
+,	O
+dejando	O
+de	O
+realizar	O
+en	O
+la	O
+actualidad	O
+la	O
+mayoría	O
+de	O
+las	O
+actividades	O
+que	O
+realizaba	O
+en	O
+el	O
+pasado	O
+.	O

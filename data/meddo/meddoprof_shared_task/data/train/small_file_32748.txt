@@ -1,0 +1,11 @@
+
+No	O
+toma	O
+ningún	O
+tipo	O
+de	O
+tratamiento	O
+en	O
+la	O
+actualidad	O
+.	O

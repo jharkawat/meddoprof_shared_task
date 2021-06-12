@@ -1,0 +1,27 @@
+
+Dado	O
+el	O
+estado	O
+de	O
+embriaguez	O
+del	O
+paciente	O
+y	O
+que	O
+la	O
+intervención	O
+policial	O
+in	O
+situ	O
+lo	O
+había	O
+tranquilizado	O
+,	O
+no	O
+se	O
+había	O
+procedido	O
+a	O
+su	O
+detención	O
+.	O

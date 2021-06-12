@@ -1,0 +1,20 @@
+
+En	O
+febrero	O
+de	O
+2011	O
+inicia	O
+tratamiento	O
+con	O
+gefitinib	O
+250	O
+mg	O
+diarios	O
+,	O
+manteniéndose	O
+asintomática	O
+con	O
+escasa	O
+toxicidad	O
+dérmica	O
+.	O

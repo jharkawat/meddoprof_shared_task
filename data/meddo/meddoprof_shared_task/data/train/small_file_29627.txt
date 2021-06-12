@@ -1,0 +1,6 @@
+
+Anticuerpos	O
+AntiTG	O
+IgA	O
+negativo	O
+.	O

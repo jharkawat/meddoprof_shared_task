@@ -1,0 +1,24 @@
+
+En	O
+el	O
+momento	O
+de	O
+la	O
+exploración	O
+ya	O
+no	O
+presenta	O
+lesiones	O
+,	O
+pero	O
+muestra	O
+fotografías	O
+con	O
+lesiones	O
+eritematosas	O
+en	O
+huecos	O
+antecubitales	O
+y	O
+muñecas	O
+.	O

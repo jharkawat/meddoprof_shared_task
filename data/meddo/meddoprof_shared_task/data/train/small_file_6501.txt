@@ -1,0 +1,10 @@
+
+La	O
+biopsia	O
+mostraba	O
+hallazgos	O
+compatibles	O
+con	O
+una	O
+picadura	O
+.	O

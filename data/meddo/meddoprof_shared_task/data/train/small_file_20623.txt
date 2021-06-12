@@ -1,0 +1,8 @@
+
+C	O
+.	O
+B	O
+.	O
+C	O
+-	O
+L	O

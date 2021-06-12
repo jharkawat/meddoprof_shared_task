@@ -1,0 +1,8 @@
+
+Antecedentes	O
+de	O
+malaria	O
+en	O
+repetidas	O
+ocasiones	O
+.	O

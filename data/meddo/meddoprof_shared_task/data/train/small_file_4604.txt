@@ -1,0 +1,17 @@
+
+Ecografía	O
+abdominal	O
+:	O
+informaba	O
+la	O
+presencia	O
+de	O
+esteatosis	O
+hepática	O
+moderada	O
+sin	O
+otros	O
+hallazgos	O
+de	O
+interés	O
+.	O

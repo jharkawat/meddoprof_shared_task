@@ -1,0 +1,25 @@
+
+En	O
+el	O
+momento	O
+del	O
+alta	O
+(	O
+tras	O
+dos	O
+semanas	O
+de	O
+ingreso	O
+)	O
+,	O
+la	O
+paciente	O
+se	O
+muestra	O
+asintomática	O
+y	O
+no	O
+requiere	O
+tratamiento	O
+psicofarmacológico	O
+.	O

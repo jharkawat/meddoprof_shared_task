@@ -1,0 +1,6 @@
+
+No	O
+crecimiento	O
+de	O
+hongos	O
+.	O

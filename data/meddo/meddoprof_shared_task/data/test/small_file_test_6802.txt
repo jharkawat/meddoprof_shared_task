@@ -1,0 +1,25 @@
+
+Bioquímica	O
+completa	O
+,	O
+incluyendo	O
+función	O
+hepática	O
+,	O
+CPK	O
+,	O
+troponinas	O
+,	O
+amilasa	O
+normal	O
+,	O
+salvo	O
+proteínas	O
+totales	O
+4	O
+,	O
+79	O
+mg	O
+/	O
+dl	O
+.	O

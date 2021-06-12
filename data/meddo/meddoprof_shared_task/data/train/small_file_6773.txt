@@ -1,0 +1,9 @@
+
+Niega	O
+haber	O
+estado	O
+en	O
+contacto	O
+con	O
+rosales	O
+.	O

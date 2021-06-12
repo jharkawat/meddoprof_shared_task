@@ -1,0 +1,10 @@
+
+A	O
+tratamiento	O
+con	O
+Enalapril	O
+10	O
+mg	O
+/	O
+día	O
+.	O

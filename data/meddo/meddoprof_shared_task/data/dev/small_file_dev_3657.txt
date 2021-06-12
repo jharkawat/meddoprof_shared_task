@@ -1,0 +1,22 @@
+
+Laura	O
+conoce	O
+a	O
+su	O
+familia	O
+(	O
+también	O
+fue	O
+la	O
+pediatra	B-PROFESION
+de	O
+su	O
+madre	O
+)	O
+y	O
+al	O
+niño	O
+desde	O
+que	O
+nació	O
+.	O

@@ -1,0 +1,15 @@
+
+No	O
+asociaba	O
+sintomatología	O
+cardiorrespiratoria	O
+,	O
+digestiva	O
+,	O
+genitourinaria	O
+,	O
+afectación	O
+conjuntival	O
+ni	O
+artralgias	O
+.	O

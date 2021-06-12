@@ -1,0 +1,5 @@
+
+EEG	O
+:	O
+normal	O
+.	O

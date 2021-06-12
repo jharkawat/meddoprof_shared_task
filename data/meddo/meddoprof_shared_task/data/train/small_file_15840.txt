@@ -1,0 +1,16 @@
+
+Cultivo	O
+,	O
+tinción	O
+Gram	O
+,	O
+aglutinaciones	O
+y	O
+tinta	O
+china	O
+:	O
+negativos	O
+o	O
+sin	O
+microorganismos	O
+.	O

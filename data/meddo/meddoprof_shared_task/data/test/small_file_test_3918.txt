@@ -1,0 +1,9 @@
+
+Hemiparesia	O
+derecha	O
+de	O
+predominio	O
+braquial	O
+y	O
+distal	O
+.	O

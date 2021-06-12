@@ -1,0 +1,22 @@
+
+En	O
+la	O
+calle	O
+la	O
+gente	O
+lo	O
+miraba	O
+de	O
+manera	O
+poco	O
+usual	O
+y	O
+tenía	O
+la	O
+impresión	O
+de	O
+que	O
+lo	O
+creían	O
+homosexual	O
+.	O

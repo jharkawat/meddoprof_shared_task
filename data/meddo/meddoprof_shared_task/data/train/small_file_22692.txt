@@ -1,0 +1,25 @@
+
+La	O
+sintomatología	O
+negativa	O
+no	O
+es	O
+muy	O
+aparente	O
+pero	O
+la	O
+paciente	O
+tiene	O
+una	O
+clara	O
+conciencia	O
+de	O
+déficit	O
+quejándose	O
+de	O
+apatía	O
+,	O
+abulia	O
+y	O
+alogia	O
+.	O

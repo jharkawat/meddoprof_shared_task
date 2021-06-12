@@ -1,0 +1,79 @@
+T1	SINTOMA 266 273	astenia
+T2	SINTOMA 275 291	malestar general
+T3	SINTOMA 293 301	anorexia
+T4	SINTOMA 303 322	sudoración nocturna
+T5	SINTOMA 327 341	picos febriles
+T6	SINTOMA 497 505	frialdad
+T7	SINTOMA 513 528	palidez cutánea
+T8	SINTOMA 558 564	fiebre
+T9	SINTOMA 2693 2701	angustia
+T10	SINTOMA 2789 2802	fallecimiento
+T11	PROCEDIMIENTO 443 461	exploración física
+T12	PROCEDIMIENTO 681 708	auscultación cardiopulmonar
+T13	PROCEDIMIENTO 714 735	exploración abdominal
+T14	PROCEDIMIENTO 905 908	ECG
+T15	PROCEDIMIENTO 1082 1102	Radiografía de tórax
+T16	PROCEDIMIENTO 1674 1695	TAC de cuello y tórax
+T17	PROCEDIMIENTO 1981 1987	PET/TC
+T18	PROCEDIMIENTO 2023 2037	-TC de abdomen
+T19	PROCEDIMIENTO 2108 2155	exéresis de adenopatía laterocervical izquierda
+T20	PROCEDIMIENTO 2168 2174	PET/TC
+T21	PROCEDIMIENTO 3069 3082	quimioterapia
+T22	PROCEDIMIENTO 3116 3128	radioterapia
+T23	NEG 402 405	sin
+T24	NSCO 406 437	otra sintomatología acompañante
+T25	UNC 462 475	impresiona de
+T26	USCO 476 505	gravedad encontrando frialdad
+T27	UNC 574 577	sin
+T28	USCO 578 582	foco
+T29	UNC 583 591	aparente
+T30	UNC 1151 1164	sugestivas de
+T31	USCO 1165 1176	adenopatías
+T32	UNC 1243 1254	sospecha de
+T33	USCO 1255 1303	Síndrome Linfoproliferativo para ampliar estudio
+T34	NEG 1473 1476	sin
+T35	NSCO 1477 1514	encontrar alteraciones significativas
+T36	NEG 1576 1579	sin
+T37	NSCO 1580 1612	datos de hemólisis intravascular
+T38	NEG 1633 1636	sin
+T39	NSCO 1637 1649	alteraciones
+T40	NEG 1660 1668	negativo
+T41	NEG 1993 2002	descartar
+T42	NSCO 2003 2021	metabolismo activo
+T43	NEG 2704 2712	negación
+T44	ORG_VIVO 125 130	mujer
+T45	ORG_VIVO 1197 1205	paciente
+T46	ORG_VIVO 1350 1356	vírica
+T47	ORG_VIVO 1358 1361	VEB
+T48	ORG_VIVO 1363 1366	CMV
+T49	ORG_VIVO 1368 1371	VIH
+T50	ORG_VIVO 1373 1384	hepatovirus
+T51	ORG_VIVO 2292 2300	familiar
+T52	ORG_VIVO 2593 2601	paciente
+T53	ORG_VIVO 2607 2612	madre
+T54	ORG_VIVO 2762 2770	familiar
+T55	ORG_VIVO 2818 2823	padre
+T56	ORG_VIVO 2990 2998	paciente
+T57	ORG_VIVO 3149 3157	paciente
+T58	ORG_VIVO 3310 3318	paciente
+T59	ORG_VIVO 3324 3329	madre
+T60	ORG_VIVO 3366 3375	psicóloga
+T61	ORG_VIVO 3405 3422	médico de familia
+T62	ENFERMEDAD 19 42	Síndrome constitucional
+T63	ENFERMEDAD 174 206	anemización leve por menorragias
+T64	ENFERMEDAD 593 676	adenopatías bilaterales cervicales más predominantes izquierdas y supraclaviculares
+T65	ENFERMEDAD 928 947	taquicardia sinusal
+T66	ENFERMEDAD 971 977	anemia
+T67	ENFERMEDAD 1165 1176	adenopatías
+T68	ENFERMEDAD 1255 1282	Síndrome Linfoproliferativo
+T69	ENFERMEDAD 1521 1545	infección pasada por VEB
+T70	ENFERMEDAD 1589 1612	hemólisis intravascular
+T71	ENFERMEDAD 1720 1787	adenopatías cervicales, mediastínicas, axilares y supraclaviculares
+T72	ENFERMEDAD 1880 1948	lesión nodular pulmonar paramediastínica anterior en lóbulo superior
+T73	ENFERMEDAD 2120 2145	adenopatía laterocervical
+T74	ENFERMEDAD 2222 2253	linfoma de Hodgkin tipo clásico
+T75	ENFERMEDAD 2347 2360	anemia severa
+T76	ENFERMEDAD 2407 2438	linfoma de Hodgkin tipo clásico
+T77	ENFERMEDAD 2496 2506	ferropenia
+T78	SANITARIO-PROFESION 3405 3422	médico de familia
+T79	SANITARIO-PROFESION 3366 3395	psicóloga del centro de salud

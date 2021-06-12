@@ -1,0 +1,6 @@
+
+Síndrome	O
+ansioso	O
+-	O
+depresivo	O
+.	O

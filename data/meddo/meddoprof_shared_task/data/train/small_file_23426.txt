@@ -1,0 +1,22 @@
+
+La	O
+impresión	O
+diagnóstica	O
+es	O
+de	O
+un	O
+trastorno	O
+adaptativo	O
+con	O
+ansiedad	O
+,	O
+en	O
+un	O
+paciente	O
+con	O
+probables	O
+rasgos	O
+de	O
+personalidad	O
+obsesiva	O
+.	O

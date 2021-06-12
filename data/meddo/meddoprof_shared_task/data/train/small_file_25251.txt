@@ -1,0 +1,7 @@
+
+Consumidor	O
+esporádico	O
+de	O
+cocaína	O
+inhalada	O
+.	O

@@ -1,0 +1,24 @@
+
+Están	O
+localizadas	O
+en	O
+brazos	O
+,	O
+cuello	O
+,	O
+área	O
+retroauricular	O
+,	O
+mejilla	O
+y	O
+en	O
+la	O
+zona	O
+donde	O
+lleva	O
+colocado	O
+un	O
+parche	O
+de	O
+Nitroplast	O
+.	O

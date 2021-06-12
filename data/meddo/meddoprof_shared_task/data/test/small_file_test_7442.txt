@@ -1,0 +1,20 @@
+
+Sin	O
+embargo	O
+,	O
+dado	O
+el	O
+beneficio	O
+clínico	O
+y	O
+la	O
+posibilidad	O
+de	O
+pseudoprogresión	O
+,	O
+se	O
+decidió	O
+continuar	O
+el	O
+tratamiento	O
+.	O

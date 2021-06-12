@@ -1,0 +1,24 @@
+
+Tras	O
+haberse	O
+resecado	O
+la	O
+mayor	O
+parte	O
+de	O
+la	O
+lesión	O
+el	O
+paciente	O
+es	O
+valorado	O
+de	O
+nuevo	O
+a	O
+los	O
+dos	O
+meses	O
+mediante	O
+una	O
+TC	O
+.	O

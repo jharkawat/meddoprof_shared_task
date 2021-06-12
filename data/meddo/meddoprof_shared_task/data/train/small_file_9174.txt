@@ -1,0 +1,11 @@
+
+No	O
+aumento	O
+de	O
+perímetro	O
+de	O
+un	O
+miembro	O
+sobre	O
+otro	O
+.	O

@@ -1,0 +1,12 @@
+
+Los	O
+síntomas	O
+habían	O
+ido	O
+empeorando	O
+a	O
+lo	O
+largo	O
+de	O
+meses	O
+.	O

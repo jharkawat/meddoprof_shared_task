@@ -1,0 +1,96 @@
+T1	SINTOMA 379 394	dolor abdominal
+T2	SINTOMA 397 412	pérdida de peso
+T3	SINTOMA 814 822	febriles
+T4	SINTOMA 912 939	engrosamiento del sigmoides
+T5	SINTOMA 1195 1205	hemoptisis
+T6	SINTOMA 1414 1459	petequias en abdomen y en miembros superiores
+T7	SINTOMA 1461 1488	ruidos hidroaéreos ausentes
+T8	SINTOMA 1785 1808	infiltrados bilaterales
+T9	PROCEDIMIENTO 176 189	apendicetomía
+T10	PROCEDIMIENTO 298 308	litotricia
+T11	PROCEDIMIENTO 418 435	videocolonoscopía
+T12	PROCEDIMIENTO 704 737	pulsos de corticoides endovenosos
+T13	PROCEDIMIENTO 873 897	tomografía computarizada
+T14	PROCEDIMIENTO 1268 1290	intubación orotraqueal
+T15	PROCEDIMIENTO 1652 1664	coagulograma
+T16	PROCEDIMIENTO 1744 1777	tomografía computarizada de tórax
+T17	PROCEDIMIENTO 1821 1838	fibrobroncoscopía
+T18	PROCEDIMIENTO 1882 1905	lavado bronquioalveolar
+T19	PROCEDIMIENTO 1934 1956	endoscopías digestivas
+T20	PROCEDIMIENTO 1964 1994	videoendoscopía digestiva alta
+T21	PROCEDIMIENTO 2060 2068	biopsias
+T22	PROCEDIMIENTO 2073 2104	videocolonoscopía mostrópérdida
+T23	PROCEDIMIENTO 2213 2221	biopsias
+T24	PROCEDIMIENTO 2338 2361	lavado bronquioalveolar
+T25	PROCEDIMIENTO 2489 2516	tratamiento con corticoides
+T26	PROCEDIMIENTO 2774 2792	sonda nasogástrica
+T27	PROCEDIMIENTO 3126 3139	sedoanalgesia
+T28	PROCEDIMIENTO 3238 3274	tomografía computarizada de encéfalo
+T29	PROCEDIMIENTO 3280 3294	punción lumbar
+T30	PROCEDIMIENTO 3300 3320	electroencefalograma
+T31	PROCEDIMIENTO 3349 3381	resonancia magnética de encéfalo
+T32	PROCEDIMIENTO 3594 3610	traqueostomizado
+T33	PROCEDIMIENTO 3619 3629	decanulado
+T34	PROCEDIMIENTO 3691 3705	rehabilitación
+T35	UNC 516 529	sugestivas de
+T36	USCO 530 573	enfermedad de Crohn con anatomía patológica
+T37	UNC 574 584	compatible
+T38	USCO 585 608	a 40 cm del margen anal
+T39	NEG 941 954	Se interpretó
+T40	NSCO 955 1000	como enfermedad inflamatoria intestinal grave
+T41	NEG 1686 1694	negativa
+T42	NSCO 1695 1733	para virus de inmunodeficiencia humana
+T43	NEG 1843 1851	descartó
+T44	NSCO 1852 1871	hemorragia alveolar
+T45	NEG 2025 2040	inespecífica de
+T46	NSCO 2041 2068	la cual se tomaron biopsias
+T47	UNC 2293 2308	compatibles con
+T48	USCO 2309 2361	Strongyloides stercoralis en lavado bronquioalveolar
+T49	NEG 2396 2408	Se desestimó
+T50	NSCO 2409 2461	el diagnóstico de enfermedad inflamatoria intestinal
+T51	NEG 2473 2485	se suspendió
+T52	NSCO 2486 2516	el tratamiento con corticoides
+T53	NEG 2867 2875	negativo
+T54	NEG 3109 3122	suspensión de
+T55	NSCO 3123 3139	la sedoanalgesia
+T56	NEG 3199 3202	sin
+T57	NSCO 3203 3214	causa clara
+T58	UNC 3405 3420	compatibles con
+T59	USCO 3421 3487	sedimentación de elementos larvarios en ventrículo lateral derecho
+T60	FARMACO 1052 1061	rituximab
+T61	FARMACO 2545 2555	albendazol
+T62	FARMACO 2558 2569	ivermectina
+T63	FARMACO 2622 2633	ivermectina
+T64	ORG_VIVO 0 6	Hombre
+T65	ORG_VIVO 19 41	operador de maquinaria
+T66	ORG_VIVO 1133 1141	anticore
+T67	ORG_VIVO 1700 1733	virus de inmunodeficiencia humana
+T68	ORG_VIVO 1735 1738	HIV
+T69	ORG_VIVO 2269 2292	organismos parasitarios
+T70	ORG_VIVO 2309 2334	Strongyloides stercoralis
+T71	ORG_VIVO 2686 2694	paciente
+T72	ORG_VIVO 2854 2862	paciente
+T73	ORG_VIVO 2863 2866	HIV
+T74	ORG_VIVO 2912 2930	virus linfotrópico
+T75	ORG_VIVO 2953 2957	HTLV
+T76	ORG_VIVO 3077 3092	antiparasitario
+T77	ORG_VIVO 3144 3152	paciente
+T78	ORG_VIVO 3492 3500	paciente
+T79	ENFERMEDAD 211 222	peritonitis
+T80	ENFERMEDAD 271 284	nefrolitiasis
+T81	ENFERMEDAD 487 515	úlceras lineales confluentes
+T82	ENFERMEDAD 530 549	enfermedad de Crohn
+T83	ENFERMEDAD 960 1000	enfermedad inflamatoria intestinal grave
+T84	ENFERMEDAD 1145 1154	hepatitis
+T85	ENFERMEDAD 1173 1193	hipotensión arterial
+T86	ENFERMEDAD 1208 1245	insuficiencia respiratoria hipoxémica
+T87	ENFERMEDAD 1404 1408	coma
+T88	ENFERMEDAD 1852 1871	hemorragia alveolar
+T89	ENFERMEDAD 2309 2334	Strongyloides stercoralis
+T90	ENFERMEDAD 2427 2461	enfermedad inflamatoria intestinal
+T91	ENFERMEDAD 2584 2617	hiperinfección por S. stercoralis
+T92	ENFERMEDAD 2712 2722	íleo grave
+T93	ENFERMEDAD 2817 2850	hiperinfección por S. stercoralis
+T94	ENFERMEDAD 3185 3198	encefalopatía
+T95	ENFERMEDAD 3575 3588	encefalopatía
+T96	PACIENTE-PROFESION 19 46	operador de maquinaria vial

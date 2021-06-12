@@ -1,0 +1,27 @@
+
+Durante	O
+el	O
+ingreso	O
+para	O
+el	O
+control	O
+sintomático	O
+se	O
+realiza	O
+un	O
+reajuste	O
+farmacológico	O
+:	O
+se	O
+aumentan	O
+las	O
+dosis	O
+de	O
+clozapina	O
+y	O
+quetiapina	O
+y	O
+se	O
+añade	O
+amisulprida	O
+.	O

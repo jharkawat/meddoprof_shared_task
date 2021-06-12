@@ -1,0 +1,15 @@
+
+A	O
+la	O
+auscultación	O
+presenta	O
+hipofonesis	O
+generalizada	O
+,	O
+con	O
+tonos	O
+rítmicos	O
+a	O
+100	O
+lpm	O
+.	O

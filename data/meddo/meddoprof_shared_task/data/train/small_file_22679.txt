@@ -1,0 +1,20 @@
+
+2a	O
+)	O
+Surge	O
+en	O
+la	O
+escuela	O
+primaria	O
+,	O
+el	O
+trastorno	O
+es	O
+crónico	O
+con	O
+pocos	O
+intervalos	O
+de	O
+habla	O
+normal	O
+.	O

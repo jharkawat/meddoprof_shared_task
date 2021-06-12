@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+desarrolla	O
+epilepsia	O
+refractaria	O
+y	O
+complicaciones	O
+respiratorias	O
+,	O
+falleciendo	O
+tras	O
+un	O
+ingreso	O
+de	O
+51	O
+días	O
+.	O

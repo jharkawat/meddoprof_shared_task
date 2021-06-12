@@ -1,0 +1,19 @@
+
+En	O
+Urgencias	O
+se	O
+extrajeron	O
+dos	O
+hemocultivos	O
+y	O
+se	O
+orientó	O
+como	O
+síndrome	O
+mononucleósico	O
+con	O
+afectación	O
+hepática	O
+y	O
+plaquetopenia	O
+.	O

@@ -1,0 +1,23 @@
+
+Comenta	O
+que	O
+cuando	O
+va	O
+por	O
+la	O
+calle	O
+la	O
+gente	O
+le	O
+retira	O
+la	O
+mirada	O
+y	O
+baja	O
+la	O
+cabeza	O
+debido	O
+a	O
+su	O
+aspecto	O
+.	O

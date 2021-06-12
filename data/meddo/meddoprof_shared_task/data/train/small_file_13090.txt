@@ -1,0 +1,12 @@
+
+Se	O
+consulta	O
+con	O
+Neurocirugía	O
+a	O
+la	O
+espera	O
+de	O
+actitud	O
+terapeutica	O
+.	O

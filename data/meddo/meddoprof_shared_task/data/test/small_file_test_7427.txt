@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+decide	O
+participar	O
+y	O
+recibe	O
+la	O
+primera	O
+dosis	O
+el	O
+13	O
+de	O
+enero	O
+de	O
+2007	O
+.	O

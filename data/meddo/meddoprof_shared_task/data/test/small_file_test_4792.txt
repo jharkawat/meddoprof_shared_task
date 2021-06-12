@@ -1,0 +1,10 @@
+
+Receptor	O
+de	O
+progesterona	O
+(	O
+RP	O
+)	O
+:	O
+negativo	O
+.	O

@@ -1,0 +1,8 @@
+
+Tiene	O
+un	O
+hermano	O
+de	O
+18	O
+años	O
+.	O

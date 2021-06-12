@@ -1,0 +1,4 @@
+
+Glucosa	O
+107	O
+.	O

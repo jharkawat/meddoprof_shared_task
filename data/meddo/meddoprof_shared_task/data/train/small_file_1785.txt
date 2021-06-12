@@ -1,0 +1,8 @@
+
+No	O
+tenía	O
+antecedentes	O
+familiares	O
+de	O
+interés	O
+.	O

@@ -1,0 +1,25 @@
+
+Refiere	O
+escuchar	O
+a	O
+los	O
+vecinos	O
+hablar	O
+de	O
+ella	O
+insultándola	O
+y	O
+leer	O
+un	O
+diario	O
+sobre	O
+ella	O
+"	O
+aunque	O
+yo	O
+nunca	O
+he	O
+escrito	O
+ninguno	O
+"	O
+.	O

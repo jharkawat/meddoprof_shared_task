@@ -1,0 +1,17 @@
+
+Reducir	O
+al	O
+mínimo	O
+los	O
+espacios	O
+compartidos	O
+,	O
+garantizando	O
+en	O
+todo	O
+caso	O
+que	O
+estén	O
+bien	O
+ventilados	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+se	O
+objetivan	O
+alteraciones	O
+hepáticas	O
+.	O

@@ -1,0 +1,14 @@
+
+VALORACIÓN	O
+DE	O
+ENFERMERÍA	O
+:	O
+realizamos	O
+valoración	O
+de	O
+Enfermería	O
+según	O
+los	O
+patrones	O
+funcionales	O
+:	O

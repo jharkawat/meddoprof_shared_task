@@ -1,0 +1,17 @@
+
+Prolongaba	O
+en	O
+exceso	O
+el	O
+lapso	O
+de	O
+respuesta	O
+y	O
+parecía	O
+que	O
+hipercontrolaba	O
+la	O
+información	O
+que	O
+ofrecía	O
+.	O

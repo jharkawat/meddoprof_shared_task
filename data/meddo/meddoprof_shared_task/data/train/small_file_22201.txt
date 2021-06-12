@@ -1,0 +1,19 @@
+
+En	O
+relación	O
+cronológica	O
+con	O
+una	O
+enfermedad	O
+grave	O
+de	O
+su	O
+madre	O
+,	O
+desarrolló	O
+un	O
+segundo	O
+episodio	O
+psicótico	O
+agudo	O
+.	O

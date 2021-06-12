@@ -1,0 +1,37 @@
+T1	SINTOMA 65 72	astenia
+T2	SINTOMA 75 106	aumento del perímetro abdominal
+T3	SINTOMA 118 133	dolor abdominal
+T4	PROCEDIMIENTO 377 398	auscultación cardiaca
+T5	PROCEDIMIENTO 477 497	ventilación pulmonar
+T6	PROCEDIMIENTO 716 719	ECO
+T7	PROCEDIMIENTO 722 724	TC
+T8	PROCEDIMIENTO 1308 1337	laparotomía media xifopubiana
+T9	PROCEDIMIENTO 1760 1825	exéresis completa en bloque de la tumoración y el riñón izquierdo
+T10	PROCEDIMIENTO 2647 2668	nefrectomía izquierda
+T11	NEG 306 308	no
+T12	NSCO 309 333	se detectan alteraciones
+T13	NEG 421 423	no
+T14	NSCO 424 438	se oyen soplos
+T15	UNC 1040 1053	probablemente
+T16	USCO 1054 1094	corresponda a un sarcoma retroperitoneal
+T17	NEG 1540 1549	imposible
+T18	NSCO 1550 1573	su liberación del tumor
+T19	NEG 1655 1657	No
+T20	NSCO 1658 1713	infiltra colon descendente ni mesocolon en ningún punto
+T21	NEG 1856 1859	sin
+T22	NSCO 1860 1871	incidencias
+T23	UNC 2244 2250	parece
+T24	USCO 2251 2282	bien delimitado periféricamente
+T25	NEG 2286 2288	no
+T26	NSCO 2289 2324	muestra un crecimiento infiltrativo
+T27	NEG 2326 2328	No
+T28	NSCO 2329 2359	hay áreas de desdiferenciación
+T29	NEG 2361 2363	No
+T30	NSCO 2364 2415	existe afectación microscópica del parénquima renal
+T31	ORG_VIVO 0 5	Mujer
+T32	ORG_VIVO 1283 1291	paciente
+T33	ENFERMEDAD 241 259	obesidad troncular
+T34	ENFERMEDAD 1071 1094	sarcoma retroperitoneal
+T35	ENFERMEDAD 1934 1984	liposarcoma bien diferenciado de tipo esclerosante
+T36	ENFERMEDAD 2526 2547	Tumor retroperitoneal
+T37	ENFERMEDAD 2581 2608	Liposarcoma retroperitoneal

@@ -1,0 +1,6 @@
+
+Niega	O
+ideación	O
+de	O
+muerte	O
+.	O

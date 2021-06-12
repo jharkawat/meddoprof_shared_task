@@ -1,0 +1,5 @@
+
+Estado	O
+civil	O
+:	O
+soltero	O

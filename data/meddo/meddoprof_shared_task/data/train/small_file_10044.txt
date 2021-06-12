@@ -1,0 +1,27 @@
+
+Relataba	O
+que	O
+había	O
+estado	O
+trabajando	O
+como	O
+camarera	B-PROFESION
+la	O
+noche	O
+previa	O
+y	O
+había	O
+realizado	O
+consumo	O
+de	O
+drogas	O
+de	O
+disen	O
+̃	O
+o	O
+(	O
+Cristal	O
+y	O
+Cocaína	O
+)	O
+.	O

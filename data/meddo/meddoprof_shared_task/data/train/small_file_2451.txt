@@ -1,0 +1,26 @@
+
+Se	O
+realizan	O
+pruebas	O
+cutáneas	O
+(	O
+prick	O
+test	O
+)	O
+con	O
+clorhexidina	O
+al	O
+1	O
+%	O
+y	O
+povidona	O
+yodada	O
+al	O
+10	O
+%	O
+;	O
+ambas	O
+con	O
+resultado	O
+negativo	O
+.	O

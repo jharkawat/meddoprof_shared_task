@@ -1,0 +1,22 @@
+
+Evitaba	O
+ver	O
+a	O
+colegas	B-SITUACION_LABORAL
+y	O
+a	O
+amigos	O
+porque	O
+temía	O
+que	O
+le	O
+hicieran	O
+hacer	O
+algo	O
+o	O
+que	O
+lo	O
+invitaran	O
+a	O
+salir	O
+.	O

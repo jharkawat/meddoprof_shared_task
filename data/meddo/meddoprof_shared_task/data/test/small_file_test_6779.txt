@@ -1,0 +1,16 @@
+
+Tienen	O
+un	O
+buen	O
+nivel	O
+de	O
+información	O
+sobre	O
+el	O
+diagnóstico	O
+y	O
+pronóstico	O
+de	O
+la	O
+enfermedad	O
+.	O

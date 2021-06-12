@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+no	O
+tuvo	O
+ninguna	O
+toxicidad	O
+derivada	O
+del	O
+mismo	O
+.	O

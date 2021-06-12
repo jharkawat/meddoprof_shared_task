@@ -1,0 +1,22 @@
+
+Aseguraba	O
+que	O
+dedicaría	O
+su	O
+vida	O
+al	O
+estudio	O
+de	O
+la	O
+física	O
+y	O
+que	O
+inventaría	O
+una	O
+máquina	O
+capaz	O
+de	O
+funcionar	O
+sin	O
+combustible	O
+.	O

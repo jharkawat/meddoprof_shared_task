@@ -1,0 +1,13 @@
+
+Niega	O
+contacto	O
+con	O
+caso	O
+sospechoso	O
+o	O
+confirmado	O
+para	O
+COVID	O
+-	O
+19	O
+.	O

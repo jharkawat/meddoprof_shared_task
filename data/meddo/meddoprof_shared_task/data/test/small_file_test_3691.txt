@@ -1,0 +1,12 @@
+
+No	O
+presenta	O
+focalidad	O
+neurológica	O
+ni	O
+meningismo	O
+,	O
+pares	O
+craneales	O
+normales	O
+.	O

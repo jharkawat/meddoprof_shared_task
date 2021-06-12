@@ -1,0 +1,18 @@
+
+Mujer	O
+de	O
+31	O
+años	O
+,	O
+vive	O
+con	O
+su	O
+pareja	O
+e	O
+hija	O
+de	O
+2	O
+,	O
+5	O
+meses	O
+.	O

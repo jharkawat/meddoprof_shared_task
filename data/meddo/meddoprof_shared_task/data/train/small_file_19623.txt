@@ -1,0 +1,6 @@
+
+Sexo	O
+:	O
+M	O
+F	O
+X	O

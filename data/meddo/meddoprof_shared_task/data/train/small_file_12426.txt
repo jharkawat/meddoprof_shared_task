@@ -1,0 +1,5 @@
+
+No	O
+derrame	O
+pericárdico	O
+.	O

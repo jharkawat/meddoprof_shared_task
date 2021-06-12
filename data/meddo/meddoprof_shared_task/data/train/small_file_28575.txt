@@ -1,0 +1,26 @@
+
+Apareció	O
+un	O
+cuadro	O
+similar	O
+al	O
+inicial	O
+,	O
+con	O
+síntomas	O
+maniformes	O
+y	O
+comenzó	O
+de	O
+nuevo	O
+con	O
+tratamiento	O
+con	O
+neurolépticos	O
+,	O
+con	O
+control	O
+de	O
+los	O
+síntomas	O
+.	O

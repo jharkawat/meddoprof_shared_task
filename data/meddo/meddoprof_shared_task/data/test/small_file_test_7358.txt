@@ -1,0 +1,17 @@
+
+Por	O
+lo	O
+tanto	O
+,	O
+el	O
+paciente	O
+se	O
+encontraba	O
+en	O
+un	O
+estadio	O
+pT4N1M1	O
+(	O
+IV	O
+)	O
+.	O

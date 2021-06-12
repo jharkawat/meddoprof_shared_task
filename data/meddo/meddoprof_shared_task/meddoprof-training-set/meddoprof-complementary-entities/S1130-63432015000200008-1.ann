@@ -1,0 +1,85 @@
+T1	SINTOMA 1237 1244	afebril
+T2	SINTOMA 1250 1257	astenia
+T3	SINTOMA 1269 1303	deterioro leve de la función renal
+T4	SINTOMA 1542 1548	fiebre
+T5	SINTOMA 1561 1588	disnea de mínimos esfuerzos
+T6	SINTOMA 1716 1750	infiltrados pulmonares bilaterales
+T7	SINTOMA 2900 2906	éxitus
+T8	SINTOMA 3004 3027	montsecarrere@gmail.com
+T9	PROCEDIMIENTO 543 565	doble bypass coronario
+T10	PROCEDIMIENTO 815 841	tratamiento quimioterápico
+T11	PROCEDIMIENTO 1102 1125	tratamiento antibiótico
+T12	PROCEDIMIENTO 1593 1612	gasometría arterial
+T13	PROCEDIMIENTO 1685 1705	radiografía de tórax
+T14	PROCEDIMIENTO 1866 1884	antibioticoterapia
+T15	PROCEDIMIENTO 1915 1947	ventilación mecánica no invasiva
+T16	PROCEDIMIENTO 1952 1967	ecocardiografía
+T17	PROCEDIMIENTO 2129 2152	intubación endotraqueal
+T18	PROCEDIMIENTO 2440 2464	estudios microbiológicos
+T19	PROCEDIMIENTO 2565 2598	tomografía computarizada de tórax
+T20	NEG 738 740	no
+T21	NSCO 741 787	es recomendable el empleo de fluoropirimidinas
+T22	NEG 1237 1244	afebril
+T23	UNC 1632 1647	compatibles con
+T24	USCO 1648 1680	insuficiencia respiratoria grave
+T25	UNC 1753 1759	dudosa
+T26	USCO 1760 1799	condensación en lóbulo inferior derecho
+T27	UNC 1826 1837	sospecha de
+T28	USCO 1838 1852	neumonía grave
+T29	NEG 1936 1938	no
+T30	NSCO 1939 1947	invasiva
+T31	NEG 1968 1976	descarta
+T32	NSCO 1977 2001	tromboembolismo pulmonar
+T33	NEG 2154 2164	Se orienta
+T34	NSCO 2165 2236	como insuficiencia respiratoria grave secundaria a neumonía comunitaria
+T35	NEG 2237 2240	sin
+T36	NSCO 2241 2277	germen aislado vs toxicidad pulmonar
+T37	NEG 2351 2363	Se descartan
+T38	NSCO 2364 2416	interacciones con la medicación crónica del paciente
+T39	NSCO 2418 2464	Los resultados de los estudios microbiológicos
+T40	NEG 2551 2560	negativos
+T41	UNC 2807 2818	sospecha de
+T42	USCO 2819 2852	toxicidad pulmonar a citostáticos
+T43	FARMACO 770 787	fluoropirimidinas
+T44	FARMACO 891 902	raltitrexed
+T45	FARMACO 915 927	oxaliplatino
+T46	FARMACO 1392 1403	raltitrexed
+T47	FARMACO 1406 1418	oxaliplatino
+T48	FARMACO 2778 2788	prednisona
+T49	ORG_VIVO 357 365	paciente
+T50	ORG_VIVO 367 372	Varón
+T51	ORG_VIVO 385 395	carpintero
+T52	ORG_VIVO 570 578	paciente
+T53	ORG_VIVO 729 737	paciente
+T54	ORG_VIVO 1070 1078	paciente
+T55	ORG_VIVO 1205 1222	médico de familia
+T56	ORG_VIVO 1501 1509	paciente
+T57	ORG_VIVO 1804 1812	paciente
+T58	ORG_VIVO 2054 2062	paciente
+T59	ORG_VIVO 2241 2247	germen
+T60	ORG_VIVO 2343 2349	adulto
+T61	ORG_VIVO 2408 2416	paciente
+T62	ORG_VIVO 2513 2537	microorganismos atípicos
+T63	ORG_VIVO 2707 2715	paciente
+T64	ORG_VIVO 2871 2879	paciente
+T65	ENFERMEDAD 397 406	exfumador
+T66	ENFERMEDAD 448 460	hipertensión
+T67	ENFERMEDAD 462 472	dislipemia
+T68	ENFERMEDAD 475 496	cardiopatía isquémica
+T69	ENFERMEDAD 501 527	infarto agudo de miocardio
+T70	ENFERMEDAD 597 615	neoplasia de colon
+T71	ENFERMEDAD 651 665	adenocarcinoma
+T72	ENFERMEDAD 1147 1183	infección respiratoria de vías bajas
+T73	ENFERMEDAD 1648 1680	insuficiencia respiratoria grave
+T74	ENFERMEDAD 1838 1852	neumonía grave
+T75	ENFERMEDAD 1977 2001	tromboembolismo pulmonar
+T76	ENFERMEDAD 2170 2202	insuficiencia respiratoria grave
+T77	ENFERMEDAD 2216 2236	neumonía comunitaria
+T78	ENFERMEDAD 2259 2294	toxicidad pulmonar por citostáticos
+T79	ENFERMEDAD 2306 2349	síndrome de distrés respiratorio del adulto
+T80	ENFERMEDAD 2624 2654	neumonitis intersticial difusa
+T81	ENFERMEDAD 2819 2852	toxicidad pulmonar a citostáticos
+T82	SANITARIO-PROFESION 282 288	Médico
+T83	PACIENTE-PROFESION 385 395	carpintero
+T84	SANITARIO-PROFESION 1205 1222	médico de familia
+T85	SANITARIO-PROFESION 2952 2956	Dra.

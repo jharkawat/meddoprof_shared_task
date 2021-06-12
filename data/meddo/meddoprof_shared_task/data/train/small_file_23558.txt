@@ -1,0 +1,17 @@
+
+Convive	O
+con	O
+su	O
+ex	O
+pareja	O
+en	O
+una	O
+familia	O
+disfuncional	O
+y	O
+su	O
+pareja	O
+no	O
+es	O
+consumidora	O
+.	O

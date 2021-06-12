@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 528 539	antibiótico
+T2	PROCEDIMIENTO 542 559	corticoide tópico
+T3	NEG 77 80	sin
+T4	NSCO 81 107	antecedentes psiquiátricos
+T5	FARMACO 476 484	Pimozide
+T6	ORG_VIVO 56 64	Paciente
+T7	ORG_VIVO 125 131	Médico
+T8	ORG_VIVO 179 190	parasitaria
+T9	ORG_VIVO 443 449	bichos
+T10	ORG_VIVO 717 725	insectos
+T11	ORG_VIVO 914 922	paciente
+T12	ENFERMEDAD 246 322	escoriaciones lineares cubiertas por costras) en la espalda, cadera y brazos
+T13	ENFERMEDAD 576 593	Síndrome de Ekbom
+T14	ENFERMEDAD 607 618	parasitosis
+T15	ENFERMEDAD 626 634	psicosis
+T16	SANITARIO-PROFESION 125 143	Médico de Cabecera

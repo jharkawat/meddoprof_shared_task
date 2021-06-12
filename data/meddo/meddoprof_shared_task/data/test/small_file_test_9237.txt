@@ -1,0 +1,7 @@
+
+Jubilado	B-SITUACION_LABORAL
+,	O
+trabajaba	O
+como	O
+constructor	B-PROFESION
+.	O

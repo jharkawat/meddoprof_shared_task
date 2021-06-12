@@ -1,0 +1,11 @@
+
+Ingresa	O
+por	O
+una	O
+hemorragia	O
+digestiva	O
+baja	O
+con	O
+anemia	O
+severa	O
+.	O

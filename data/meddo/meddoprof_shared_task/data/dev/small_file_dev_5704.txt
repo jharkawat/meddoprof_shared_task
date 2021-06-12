@@ -1,0 +1,23 @@
+
+A	O
+la	O
+exploración	O
+abdominal	O
+,	O
+el	O
+abdomen	O
+se	O
+muestra	O
+blando	O
+y	O
+depresible	O
+,	O
+con	O
+ligera	O
+defensa	O
+abdominal	O
+en	O
+el	O
+flanco	O
+izquierdo	O
+.	O

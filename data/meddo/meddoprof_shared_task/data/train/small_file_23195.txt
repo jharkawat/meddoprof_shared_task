@@ -1,0 +1,18 @@
+
+SPECT	O
+:	O
+en	O
+las	O
+proyecciones	O
+transversas	O
+,	O
+sagitales	O
+y	O
+coronales	O
+se	O
+observan	O
+captación	O
+irregular	O
+en	O
+corteza	O
+.	O

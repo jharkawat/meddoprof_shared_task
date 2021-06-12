@@ -1,0 +1,8 @@
+
+Posteriormente	O
+despertó	O
+con	O
+mascarilla	O
+para	O
+O2	O
+.	O

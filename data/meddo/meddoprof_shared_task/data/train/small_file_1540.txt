@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+continúa	O
+tratamiento	O
+médico	B-PROFESION
+con	O
+adecuado	O
+control	O
+posterior	O
+a	O
+5	O
+años	O
+.	O

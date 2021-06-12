@@ -1,0 +1,5 @@
+
+Intolerancia	O
+a	O
+dexketoprofeno	O
+.	O

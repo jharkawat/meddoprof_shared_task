@@ -1,0 +1,21 @@
+
+Son	O
+muy	O
+sugerentes	O
+de	O
+síndrome	O
+hemofagocítico	O
+(	O
+SHF	O
+)	O
+,	O
+enfermedad	O
+de	O
+Still	O
+o	O
+síndrome	O
+antifosfolípido	O
+maligno	O
+entre	O
+otros	O
+.	O

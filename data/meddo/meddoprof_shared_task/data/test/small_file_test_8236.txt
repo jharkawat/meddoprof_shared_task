@@ -1,0 +1,25 @@
+
+Bioquímica	O
+general	O
+:	O
+GGT	O
+:	O
+216	O
+U	O
+/	O
+l	O
+,	O
+FA	O
+208	O
+U	O
+/	O
+l	O
+,	O
+albúmina	O
+2	O
+,	O
+9	O
+g	O
+/	O
+dl	O
+.	O

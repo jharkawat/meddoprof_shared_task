@@ -1,0 +1,16 @@
+
+Trabajó	O
+como	O
+autónomo	B-SITUACION_LABORAL
+los	O
+últimos	O
+30	O
+años	O
+regentando	B-PROFESION
+un	I-PROFESION
+negocio	I-PROFESION
+que	O
+abandona	O
+hace	O
+meses	O
+.	O

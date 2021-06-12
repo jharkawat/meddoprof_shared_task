@@ -1,0 +1,23 @@
+
+-	O
+Capacidad	O
+intelectual	O
+límite	O
+:	O
+lo	O
+que	O
+le	O
+provoca	O
+problemas	O
+escolares	O
+no	O
+es	O
+su	O
+capacidad	O
+intelectual	O
+,	O
+sino	O
+su	O
+conducta	O
+extravagante	O
+.	O

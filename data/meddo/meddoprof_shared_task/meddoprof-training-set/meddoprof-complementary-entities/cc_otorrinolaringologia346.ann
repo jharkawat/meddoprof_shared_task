@@ -1,0 +1,31 @@
+T1	SINTOMA 243 254	tumefacción
+T2	SINTOMA 257 279	eritema retroauricular
+T3	SINTOMA 335 341	fiebre
+T4	PROCEDIMIENTO 652 676	tomografía computerizada
+T5	PROCEDIMIENTO 853 889	drenaje quirúrgico de ambos abscesos
+T6	PROCEDIMIENTO 894 906	miringotomía
+T7	PROCEDIMIENTO 909 947	colocación de drenajes transtimpánicos
+T8	PROCEDIMIENTO 979 1002	drenaje de los abscesos
+T9	PROCEDIMIENTO 1058 1088	estudio de Anatomía Patológica
+T10	PROCEDIMIENTO 1118 1143	drenaje Penrose bilateral
+T11	PROCEDIMIENTO 1166 1192	antibioterapia intravenosa
+T12	NEG 323 325	No
+T13	NSCO 326 341	presenta fiebre
+T14	NEG 399 402	sin
+T15	NSCO 403 433	tratarse de una otorrea franca
+T16	UNC 573 584	sospecha de
+T17	USCO 585 634	otomasoiditis con absceso subperióstico bilateral
+T18	NEG 775 789	Se descartaron
+T19	NSCO 790 840	complicaciones intracraneales y trombosis de senos
+T20	NEG 1003 1006	sin
+T21	NSCO 1007 1018	incidencias
+T22	ORG_VIVO 26 33	neonato
+T23	ORG_VIVO 134 142	paciente
+T24	ORG_VIVO 1282 1306	Streptococcus pneumoniae
+T25	ENFERMEDAD 57 77	otomastoiditis aguda
+T26	ENFERMEDAD 93 116	abscesos subperiósticos
+T27	ENFERMEDAD 419 433	otorrea franca
+T28	ENFERMEDAD 585 598	otomasoiditis
+T29	ENFERMEDAD 603 624	absceso subperióstico
+T30	ENFERMEDAD 722 730	abscesos
+T31	ENFERMEDAD 822 840	trombosis de senos

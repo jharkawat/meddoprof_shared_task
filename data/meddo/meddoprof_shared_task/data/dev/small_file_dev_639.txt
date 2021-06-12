@@ -1,0 +1,17 @@
+
+También	O
+ha	O
+recibido	O
+en	O
+el	O
+pasado	O
+hasta	O
+cinco	O
+sesiones	O
+de	O
+terapia	O
+electroconvulsiva	O
+(	O
+TEC	O
+)	O
+.	O

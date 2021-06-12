@@ -1,0 +1,6 @@
+
+Intervenida	O
+quirúrgicamente	O
+de	O
+apendicectomía	O
+.	O

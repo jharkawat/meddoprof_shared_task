@@ -1,0 +1,78 @@
+T1	SINTOMA 173 180	fumador
+T2	SINTOMA 967 988	molestias articulares
+T3	SINTOMA 1085 1128	placas eritemato-escamosas a nivel de codos
+T4	SINTOMA 1260 1270	onicolisis
+T5	PROCEDIMIENTO 493 504	corticoides
+T6	PROCEDIMIENTO 630 641	fototerapia
+T7	PROCEDIMIENTO 1019 1037	Exploración física
+T8	PROCEDIMIENTO 1043 1061	exploración física
+T9	PROCEDIMIENTO 2010 2023	biopsia-punch
+T10	PROCEDIMIENTO 2122 2131	hemograma
+T11	NEG 36 39	sin
+T12	NSCO 40 73	alergias medicamentosas conocidas
+T13	NEG 135 138	sin
+T14	NSCO 139 168	otras enfermedades de interés
+T15	NEG 170 172	No
+T16	NSCO 173 180	fumador
+T17	NEG 227 230	sin
+T18	NSCO 231 270	otros factores de riesgo cardiovascular
+T19	NEG 365 368	sin
+T20	NSCO 369 393	otros familiares afectos
+T21	NEG 689 691	no
+T22	NSCO 692 725	realizaba ningún otro tratamiento
+T23	NEG 956 958	No
+T24	NSCO 959 1016	refería molestias articulares, ni cambios a nivel ungueal
+T25	NEG 1166 1168	No
+T26	NSCO 1169 1217	presentaba apenas compromiso del cuero cabelludo
+T27	NEG 1235 1237	no
+T28	NSCO 1238 1300	se apreciaba pitting, onicolisis ni hiperqueratosis subungueal
+T29	NEG 1463 1465	no
+T30	NSCO 1466 1510	induradas a la palpación a nivel dorsolumbar
+T31	NEG 1642 1645	sin
+T32	NSCO 1646 1705	relacionarlo con traumatismos ni ingesta previa de fármacos
+T33	NEG 1707 1714	Tampoco
+T34	NSCO 1715 1820	refería la presencia de placas de psoriasis en esa localización, ni otros procesos inflamatorios cutáneos
+T35	NEG 2147 2155	negativa
+T36	NSCO 2156 2179	para virus hepatotropos
+T37	NEG 2255 2263	negativa
+T38	NEG 2384 2387	sin
+T39	NSCO 2388 2400	alteraciones
+T40	NEG 2478 2480	No
+T41	NSCO 2481 2556	se observaba alteración en la morfología y estructura de glándulas sebáceas
+T42	NEG 3034 3036	no
+T43	NSCO 3037 3085	se inició ningún tratamiento dirigido específico
+T44	NEG 3092 3098	ningún
+T45	NSCO 3099 3178	tratamiento ha mostrado ser plenamente eficaz y las lesiones eran asintomáticas
+T46	NEG 3287 3290	sin
+T47	NSCO 3291 3363	haber experimentado apenas cambios a nivel de las lesiones anetodérmicas
+T48	FARMACO 506 531	betametasona dipropionato
+T49	FARMACO 550 560	vitamina D
+T50	FARMACO 562 574	calcipotriol
+T51	FARMACO 2848 2859	Metotrexate
+T52	FARMACO 2916 2928	ácido fólico
+T53	ORG_VIVO 10 15	Varón
+T54	ORG_VIVO 92 102	personales
+T55	ORG_VIVO 295 305	familiares
+T56	ORG_VIVO 336 343	hermano
+T57	ORG_VIVO 375 385	familiares
+T58	ORG_VIVO 425 433	paciente
+T59	ORG_VIVO 680 688	paciente
+T60	ORG_VIVO 730 738	paciente
+T61	ORG_VIVO 767 794	médico de atención primaria
+T62	ORG_VIVO 1065 1073	paciente
+T63	ORG_VIVO 1529 1537	paciente
+T64	ORG_VIVO 2161 2179	virus hepatotropos
+T65	ORG_VIVO 2181 2184	VIH
+T66	ORG_VIVO 2208 2228	Borrelia Burgdorferi
+T67	ORG_VIVO 2993 3001	paciente
+T68	ORG_VIVO 3224 3232	paciente
+T69	ENFERMEDAD 40 63	alergias medicamentosas
+T70	ENFERMEDAD 106 115	Psoriasis
+T71	ENFERMEDAD 354 363	psoriasis
+T72	ENFERMEDAD 834 843	psoriasis
+T73	ENFERMEDAD 1085 1148	placas eritemato-escamosas a nivel de codos, abdomen y rodillas
+T74	ENFERMEDAD 1749 1758	psoriasis
+T75	ENFERMEDAD 2775 2797	Atrofodermia de Pasini
+T76	ENFERMEDAD 2979 2988	psoriasis
+T77	ENFERMEDAD 3276 3285	psoriasis
+T78	SANITARIO-PROFESION 767 794	médico de atención primaria

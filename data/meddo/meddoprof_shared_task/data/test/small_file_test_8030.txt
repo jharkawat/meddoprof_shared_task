@@ -1,0 +1,16 @@
+
+Adenopatías	O
+inguinales	O
+bilaterales	O
+de	O
+hasta	O
+9	O
+-	O
+10	O
+mm	O
+,	O
+más	O
+numerosas	O
+las	O
+izquierdas	O
+.	O

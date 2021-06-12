@@ -1,0 +1,13 @@
+
+Cabeza	O
+y	O
+cuello	O
+:	O
+no	O
+se	O
+palpan	O
+adenopatías	O
+supraclaviculares	O
+ni	O
+laterocervicales	O
+.	O

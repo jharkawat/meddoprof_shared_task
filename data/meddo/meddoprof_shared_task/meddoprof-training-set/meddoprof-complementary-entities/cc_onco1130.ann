@@ -1,0 +1,154 @@
+T1	SINTOMA 588 595	astenia
+T2	SINTOMA 598 606	anorexia
+T3	SINTOMA 812 827	pérdida de peso
+T4	SINTOMA 860 879	diaforesis nocturna
+T5	SINTOMA 881 887	fiebre
+T6	SINTOMA 891 898	prurito
+T7	SINTOMA 960 974	orinas oscuras
+T8	SINTOMA 1804 1811	astenia
+T9	SINTOMA 1817 1825	anorexia
+T10	SINTOMA 1864 1870	disnea
+T11	SINTOMA 1927 1930	tos
+T12	SINTOMA 1932 1945	expectoración
+T13	SINTOMA 2059 2067	disneica
+T14	SINTOMA 2170 2177	Afebril
+T15	SINTOMA 2347 2353	soplos
+T16	SINTOMA 2367 2483	abdomen presentaba ruidos hidroaéreos, era blando y depresible, algo doloroso a la palpación profunda en hemiabdomen
+T17	SINTOMA 2513 2524	peritonismo
+T18	SINTOMA 2557 2577	hepatoesplenomegalia
+T19	SINTOMA 2595 2613	livedo reticularis
+T20	SINTOMA 3728 3734	disnea
+T21	SINTOMA 4345 4352	coluria
+T22	SINTOMA 4808 4814	disnea
+T23	SINTOMA 5918 5974	tumoración de 8 x 7,5 cm en el tercio superior del riñón
+T24	SINTOMA 6297 6304	astenia
+T25	SINTOMA 6307 6313	disnea
+T26	SINTOMA 7578 7586	falleció
+T27	PROCEDIMIENTO 215 239	amigdalectomía bilateral
+T28	PROCEDIMIENTO 261 276	colecistectomía
+T29	PROCEDIMIENTO 1299 1313	test de Coombs
+T30	PROCEDIMIENTO 1628 1638	esteroides
+T31	PROCEDIMIENTO 2216 2237	auscultación pulmonar
+T32	PROCEDIMIENTO 3068 3095	frotis de sangre periférica
+T33	PROCEDIMIENTO 3367 3387	radiografía de tórax
+T34	PROCEDIMIENTO 3870 3884	test de Coombs
+T35	PROCEDIMIENTO 3987 3997	esteroides
+T36	PROCEDIMIENTO 4773 4775	Rx
+T37	PROCEDIMIENTO 4911 4952	transfundir de 2 concentrados de hematíes
+T38	PROCEDIMIENTO 4968 4978	esteroides
+T39	PROCEDIMIENTO 5845 5853	body-TAC
+T40	PROCEDIMIENTO 6178 6194	glucocorticoides
+T41	PROCEDIMIENTO 6411 6452	transfusiones de concentrados de hematíes
+T42	PROCEDIMIENTO 6483 6518	administración de dexclorfeniramina
+T43	PROCEDIMIENTO 6826 6859	biopsia de masa renal ecodirigida
+T44	PROCEDIMIENTO 7023 7056	colocación de filtro de vena cava
+T45	PROCEDIMIENTO 7212 7233	nefrectomía izquierda
+T46	PROCEDIMIENTO 7288 7315	trombectomía citorreductora
+T47	PROCEDIMIENTO 7431 7441	esteroides
+T48	PROCEDIMIENTO 7662 7673	corticoides
+T49	NEG 78 81	sin
+T50	NSCO 82 105	alergias medicamentosas
+T51	NEG 108 111	sin
+T52	NSCO 112 127	hábitos tóxicos
+T53	NEG 320 322	No
+T54	NSCO 323 360	realizaba ningún tratamiento habitual
+T55	NEG 856 859	sin
+T56	NSCO 860 898	diaforesis nocturna, fiebre ni prurito
+T57	NEG 1011 1013	No
+T58	NSCO 1014 1096	relacionaba toda esta sintomatología con los cambios de temperatura ni con el frío
+T59	NSCO 1135 1189	viajes recientes, ni consumo de medicamentos o tóxicos
+T60	UNC 1457 1468	sospecha de
+T61	USCO 1469 1486	anemia hemolítica
+T62	NEG 1826 1835	se habían
+T63	NSCO 1836 1855	hecho más evidentes
+T64	NEG 1923 1926	sin
+T65	NSCO 1927 1973	tos, expectoración ni otra clínica acompañante
+T66	NEG 2170 2177	Afebril
+T67	NEG 2179 2182	Sin
+T68	NSCO 2183 2209	adenopatías a ningún nivel
+T69	NEG 2273 2276	sin
+T70	NSCO 2277 2309	ruidos patológicos sobreañadidos
+T71	NEG 2343 2346	sin
+T72	NSCO 2347 2362	soplos ni roces
+T73	NEG 2499 2502	sin
+T74	NSCO 2503 2524	signos de peritonismo
+T75	NEG 2533 2535	no
+T76	NSCO 2536 2577	se hallaron masas ni hepatoesplenomegalia
+T77	NEG 2579 2581	No
+T78	NSCO 2582 2613	se apreciaba livedo reticularis
+T79	UNC 4514 4525	muy posible
+T80	USCO 4526 4594	debido a la existencia de autoanticuerpos de tipo IgG o Ac de Donath
+T81	NEG 5232 5240	negativo
+T82	NEG 5627 5636	negativas
+T83	UNC 5685 5699	compatible con
+T84	USCO 5700 5725	anemia de proceso crónico
+T85	NEG 5727 5730	Sin
+T86	NSCO 5731 5749	datos de hemólisis
+T87	NEG 6875 6878	sin
+T88	NSCO 6879 6890	incidencias
+T89	UNC 6967 6973	claras
+T90	USCO 6974 6983	Fuhrman 4
+T91	NEG 7136 7139	sin
+T92	NSCO 7140 7151	incidencias
+T93	NEG 7328 7331	sin
+T94	NSCO 7332 7357	complicaciones inmediatas
+T95	UNC 7726 7732	claras
+T96	USCO 7733 7742	Fuhrman 4
+T97	FARMACO 651 663	ácido fólico
+T98	FARMACO 1499 1509	prednisona
+T99	FARMACO 6501 6518	dexclorfeniramina
+T100	ORG_VIVO 23 33	personales
+T101	ORG_VIVO 61 66	mujer
+T102	ORG_VIVO 246 258	adolescencia
+T103	ORG_VIVO 469 486	Médico de Familia
+T104	ORG_VIVO 1978 1986	paciente
+T105	ORG_VIVO 3681 3689	paciente
+T106	ORG_VIVO 4123 4130	virales
+T107	ORG_VIVO 4378 4386	paciente
+T108	ORG_VIVO 5569 5587	virus hepatotropos
+T109	ORG_VIVO 5589 5592	VIH
+T110	ORG_VIVO 5594 5615	Mycoplasma pneumoniae
+T111	ORG_VIVO 5617 5620	CMV
+T112	ORG_VIVO 5623 5626	VEB
+T113	ORG_VIVO 6229 6237	paciente
+T114	ORG_VIVO 7569 7577	paciente
+T115	ENFERMEDAD 82 105	alergias medicamentosas
+T116	ENFERMEDAD 294 318	colelitiasis sintomática
+T117	ENFERMEDAD 491 522	anemia normocítica normocrómica
+T118	ENFERMEDAD 1289 1296	anemias
+T119	ENFERMEDAD 1469 1486	anemia hemolítica
+T120	ENFERMEDAD 2183 2194	adenopatías
+T121	ENFERMEDAD 2557 2577	hepatoesplenomegalia
+T122	ENFERMEDAD 2703 2709	anemia
+T123	ENFERMEDAD 3702 3725	síndrome constitucional
+T124	ENFERMEDAD 3816 3858	anemia hemolítica autoinmune intravascular
+T125	ENFERMEDAD 4078 4087	hemólisis
+T126	ENFERMEDAD 4098 4130	infecciones bacterianas, virales
+T127	ENFERMEDAD 4133 4162	síndromes linfoproliferativos
+T128	ENFERMEDAD 4215 4237	patologías autoinmunes
+T129	ENFERMEDAD 4267 4317	síndrome paraneoplásico de determinadas neoplasias
+T130	ENFERMEDAD 4459 4495	hemoglobinuria paroxística a frigore
+T131	ENFERMEDAD 4738 4757	lesiones pulmonares
+T132	ENFERMEDAD 4820 4826	anemia
+T133	ENFERMEDAD 5651 5658	anemias
+T134	ENFERMEDAD 5700 5725	anemia de proceso crónico
+T135	ENFERMEDAD 5740 5749	hemólisis
+T136	ENFERMEDAD 5873 5882	neoplasia
+T137	ENFERMEDAD 6000 6028	neoplasia de células renales
+T138	ENFERMEDAD 6033 6054	metástasis pulmonares
+T139	ENFERMEDAD 6054 6065	, hepáticas
+T140	ENFERMEDAD 6067 6094	adenopatías locorregionales
+T141	ENFERMEDAD 6097 6123	trombosis de la vena renal
+T142	ENFERMEDAD 6940 6973	carcinoma renal de células claras
+T143	ENFERMEDAD 7069 7079	embolismos
+T144	ENFERMEDAD 7089 7115	trombosis de la vena renal
+T145	ENFERMEDAD 7478 7487	hemólisis
+T146	ENFERMEDAD 7550 7564	tumor primario
+T147	ENFERMEDAD 7619 7636	anemia hemolítica
+T148	ENFERMEDAD 7699 7732	Carcinoma renal de células claras
+T149	ENFERMEDAD 7766 7786	metástasis hepáticas
+T150	ENFERMEDAD 7815 7835	trombosis vena renal
+T151	ENFERMEDAD 7850 7919	Anemia hemolítica autoinmune corticorresistente por aglutininas frías
+T152	ENFERMEDAD 7922 7986	hemoglobinuria paroxística a frigore de etiología paraneoplásica
+T153	SANITARIO-PROFESION 469 486	Médico de Familia
+T154	PACIENTE-PROFESION 129 139	limpiadora

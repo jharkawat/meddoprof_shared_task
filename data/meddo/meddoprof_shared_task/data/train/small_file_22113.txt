@@ -1,0 +1,17 @@
+
+T	O
+:	O
+¿	O
+Te	O
+lo	O
+ha	O
+dicho	O
+tu	O
+Preparador	B-PROFESION
+,	O
+es	O
+lo	O
+que	O
+él	O
+opina	O
+?	O

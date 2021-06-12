@@ -1,0 +1,16 @@
+
+Pólipos	O
+vesiculares	O
+múltiples	O
+(	O
+probablemente	O
+de	O
+colesterol	O
+)	O
+con	O
+vía	O
+biliar	O
+de	O
+calibre	O
+normal	O
+.	O

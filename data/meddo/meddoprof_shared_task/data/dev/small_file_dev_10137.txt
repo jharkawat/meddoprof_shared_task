@@ -1,0 +1,16 @@
+
+Tuvo	O
+que	O
+ser	O
+llevado	O
+a	O
+su	O
+casa	O
+y	O
+luego	O
+fue	O
+internado	O
+en	O
+la	O
+clínica	O
+.	O

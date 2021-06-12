@@ -1,0 +1,14 @@
+
+Primo	O
+hermano	O
+paterno	O
+diagnosticado	O
+de	O
+trastorno	O
+de	O
+déficit	O
+de	O
+atención	O
+e	O
+hiperactividad	O
+.	O

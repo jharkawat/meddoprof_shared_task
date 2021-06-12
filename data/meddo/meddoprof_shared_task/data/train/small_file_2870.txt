@@ -1,0 +1,9 @@
+
+ACR	O
+:	O
+taquicardia	O
+arrítmica	O
+,	O
+no	O
+soplos	O
+.	O

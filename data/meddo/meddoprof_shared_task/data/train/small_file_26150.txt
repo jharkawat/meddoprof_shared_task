@@ -1,0 +1,22 @@
+
+Lenguaje	O
+con	O
+aumento	O
+de	O
+la	O
+presión	O
+del	O
+habla	O
+,	O
+tono	O
+de	O
+voz	O
+elevado	O
+con	O
+discurso	O
+fluido	O
+centrado	O
+en	O
+temática	O
+delirante	O
+.	O

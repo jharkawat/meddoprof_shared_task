@@ -1,0 +1,6 @@
+
+Piel	O
+y	O
+mucosas	O
+hidratadas	O
+.	O

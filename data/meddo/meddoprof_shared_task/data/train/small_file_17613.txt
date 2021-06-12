@@ -1,0 +1,5 @@
+
+Serología	O
+lúes	O
+negativa	O
+.	O

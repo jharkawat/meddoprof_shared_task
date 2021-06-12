@@ -1,0 +1,91 @@
+T1	SINTOMA 1159 1164	dolor
+T2	SINTOMA 3034 3045	taquicardia
+T3	SINTOMA 3838 3843	dolor
+T4	SINTOMA 4262 4267	dolor
+T5	PROCEDIMIENTO 626 652	torniquete a nivel humeral
+T6	PROCEDIMIENTO 670 706	hemostático granulado a nivel tópico
+T7	PROCEDIMIENTO 1166 1169	EVA
+T8	PROCEDIMIENTO 1356 1367	radiografía
+T9	PROCEDIMIENTO 1544 1558	desbridamiento
+T10	PROCEDIMIENTO 1570 1603	extracción de las esquirlas óseas
+T11	PROCEDIMIENTO 1606 1657	colocación de un fijador externo en brazo izquierdo
+T12	PROCEDIMIENTO 1663 1680	anestesia general
+T13	PROCEDIMIENTO 1709 1730	estudio preanestésico
+T14	PROCEDIMIENTO 1785 1804	analítica sanguínea
+T15	PROCEDIMIENTO 1812 1815	ECG
+T16	PROCEDIMIENTO 2100 2111	capnografía
+T17	PROCEDIMIENTO 2145 2165	análisis biespectral
+T18	PROCEDIMIENTO 2228 2250	termómetro orofaríngeo
+T19	PROCEDIMIENTO 2429 2452	inducción de anestésica
+T20	PROCEDIMIENTO 2556 2578	laringoscopia estándar
+T21	PROCEDIMIENTO 2651 2688	rellenó el balón de neumotaponamiento
+T22	PROCEDIMIENTO 2737 2759	ventilación protectiva
+T23	PROCEDIMIENTO 2825 2860	maniobras de reclutamiento alveolar
+T24	PROCEDIMIENTO 3077 3118	reducción abierta bajo control de escopia
+T25	PROCEDIMIENTO 3120 3148	osteosíntesis transarticular
+T26	PROCEDIMIENTO 3158 3209	implantación de fijador externo Hoffmann II Stryker
+T27	PROCEDIMIENTO 3240 3268	lavado pulsátil de la herida
+T28	PROCEDIMIENTO 3271 3383	desbridaje del tejido necrótico que implicaba al extesor carpi ulnaris, flexor carpi ulnaris y tendón tricipital
+T29	PROCEDIMIENTO 3399 3435	profilaxis antitetánica, antibiótica
+T30	PROCEDIMIENTO 3521 3532	antiemética
+T31	PROCEDIMIENTO 3556 3572	antiinflamatoria
+T32	PROCEDIMIENTO 3684 3715	protección articular) y térmica
+T33	PROCEDIMIENTO 3761 3782	calentador de fluidos
+T34	PROCEDIMIENTO 3868 3888	analgesia multimodal
+T35	PROCEDIMIENTO 3983 4020	bloqueo nervioso periférico ecoguiado
+T36	PROCEDIMIENTO 4162 4170	opiáceos
+T37	PROCEDIMIENTO 4510 4523	osteosíntesis
+T38	UNC 558 571	probablemente
+T39	USCO 572 588	AK-74 de 7,62 mm
+T40	NEG 1109 1111	no
+T41	NSCO 1112 1135	invasiva de 130/80 mmHg
+T42	NEG 1326 1329	sin
+T43	NSCO 1330 1348	orificio de salida
+T44	NEG 1731 1733	no
+T45	NSCO 1734 1804	se encontraron alteraciones de consideración en la analítica sanguínea
+T46	NEG 1861 1863	no
+T47	NSCO 1864 1976	recordaba cuándo había sido su última ingesta y aceptó el consentimiento informado en presencia de un intérprete
+T48	NEG 2086 2088	no
+T49	NSCO 2089 2097	invasiva
+T50	NEG 2790 2792	no
+T51	NSCO 2793 2860	fue necesaria la realización de maniobras de reclutamiento alveolar
+T52	NEG 4106 4109	sin
+T53	NSCO 4110 4121	incidencias
+T54	NEG 4124 4126	no
+T55	NSCO 4127 4209	fue necesaria la antagonización de opiáceos ni la reversión del relajante muscular
+T56	FARMACO 776 793	ácido tranexámico
+T57	FARMACO 1199 1208	midazolam
+T58	FARMACO 1221 1229	ketamina
+T59	FARMACO 2279 2288	midazolam
+T60	FARMACO 2305 2313	ketamina
+T61	FARMACO 2477 2486	fentanilo
+T62	FARMACO 2500 2508	propofol
+T63	FARMACO 2523 2532	rocuronio
+T64	FARMACO 2915 2917	O2
+T65	FARMACO 2926 2938	sevofluorano
+T66	FARMACO 3437 3447	cefazolina
+T67	FARMACO 3457 3469	metronidazol
+T68	FARMACO 3500 3509	omeprazol
+T69	FARMACO 3534 3545	granisetron
+T70	FARMACO 3574 3588	desketoprofeno
+T71	FARMACO 3890 3899	metamizol
+T72	FARMACO 3908 3919	paracetamol
+T73	FARMACO 3928 3936	ketamina
+T74	FARMACO 3948 3957	fentanilo
+T75	FARMACO 4064 4075	bupivacaína
+T76	ORG_VIVO 10 18	paciente
+T77	ORG_VIVO 360 368	paciente
+T78	ORG_VIVO 396 401	varón
+T79	ORG_VIVO 1852 1860	paciente
+T80	ORG_VIVO 2995 3003	paciente
+T81	ORG_VIVO 4214 4222	paciente
+T82	ORG_VIVO 4539 4542	Dr.
+T83	ORG_VIVO 4564 4587	r_navarro_suay@yahoo.es
+T84	ENFERMEDAD 482 556	traumatismo abierto en codo derecho secundario al impacto de arma de fuego
+T85	ENFERMEDAD 1270 1325	herida de arma de fuego con orificio de entrada en codo
+T86	ENFERMEDAD 1385 1410	fractura distal de húmero
+T87	ENFERMEDAD 1426 1453	fractura proximal de cúbito
+T88	ENFERMEDAD 1466 1492	fractura proximal de radio
+T89	SANITARIO-PROFESION 4539 4542	Dr.
+T90	SANITARIO-PROFESION 290 296	Médico
+T91	PACIENTE-PROFESION 439 446	policía

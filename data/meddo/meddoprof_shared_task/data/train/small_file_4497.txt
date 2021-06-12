@@ -1,0 +1,12 @@
+
+Su	O
+mujer	O
+siempre	O
+ha	O
+tenido	O
+una	O
+personalidad	O
+histriónica	O
+y	O
+ansiosa	O
+.	O

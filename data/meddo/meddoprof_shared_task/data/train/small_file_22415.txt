@@ -1,0 +1,10 @@
+
+En	O
+el	O
+EEG	O
+no	O
+se	O
+observa	O
+actividad	O
+epileptiforme	O
+.	O

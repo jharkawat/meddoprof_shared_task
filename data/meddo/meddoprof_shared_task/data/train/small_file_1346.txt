@@ -1,0 +1,20 @@
+
+A	O
+pesar	O
+de	O
+ello	O
+,	O
+el	O
+acceso	O
+se	O
+realizó	O
+por	O
+vía	O
+intraoral	O
+a	O
+nivel	O
+de	O
+pilar	O
+amigdalino	O
+izquierdo	O
+.	O

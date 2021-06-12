@@ -1,0 +1,6 @@
+
+PCR	O
+virus	O
+neurotropos	O
+pendiente	O
+.	O

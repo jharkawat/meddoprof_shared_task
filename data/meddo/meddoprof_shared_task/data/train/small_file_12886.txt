@@ -1,0 +1,14 @@
+
+Entonces	O
+,	O
+se	O
+realizó	O
+una	O
+descompresión	O
+C4	O
+-	O
+C5	O
+por	O
+vía	O
+posterior	O
+.	O

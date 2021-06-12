@@ -1,0 +1,26 @@
+
+Debido	O
+a	O
+esta	O
+clínica	O
+,	O
+se	O
+realizó	O
+una	O
+tomografía	O
+computarizada	O
+(	O
+TC	O
+)	O
+de	O
+cráneo	O
+,	O
+objetivándose	O
+un	O
+sangrado	O
+intraparenquimatoso	O
+compatible	O
+con	O
+metástasis	O
+cerebral	O
+.	O

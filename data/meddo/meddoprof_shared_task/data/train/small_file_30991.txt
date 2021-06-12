@@ -1,0 +1,10 @@
+
+Refiere	O
+querer	O
+reanudar	O
+sus	O
+estudios	O
+tras	O
+su	O
+recuperación	O
+.	O

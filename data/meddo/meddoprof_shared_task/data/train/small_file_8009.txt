@@ -1,0 +1,22 @@
+
+El	O
+análisis	O
+bioquímico	O
+del	O
+quemagrasas	O
+(	O
+Termo	O
+shock	O
+,	O
+SO	O
+LABS	O
+Nutrition	O
+)	O
+no	O
+halla	O
+testosterona	O
+dentro	O
+de	O
+su	O
+composición	O
+.	O

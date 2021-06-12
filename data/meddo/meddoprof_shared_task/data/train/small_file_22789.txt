@@ -1,0 +1,10 @@
+
+También	O
+formó	B-PROFESION
+parte	I-PROFESION
+de	I-PROFESION
+una	I-PROFESION
+orquesta	I-PROFESION
+de	I-PROFESION
+cámara	I-PROFESION
+.	O

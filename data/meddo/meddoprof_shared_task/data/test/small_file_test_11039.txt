@@ -1,0 +1,20 @@
+
+La	O
+TAC	O
+con	O
+contraste	O
+muestra	O
+una	O
+masa	O
+tiroidea	O
+(	O
+de	O
+comportamiento	O
+agresivo	O
+)	O
+con	O
+prolongación	O
+al	O
+mediastino	O
+superior	O
+.	O

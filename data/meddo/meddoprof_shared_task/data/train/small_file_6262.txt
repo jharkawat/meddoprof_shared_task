@@ -1,0 +1,21 @@
+
+Durante	O
+su	O
+ingreso	O
+se	O
+le	O
+administran	O
+Inmunoglobulinas	O
+intravenosas	O
+con	O
+buena	O
+y	O
+rápida	O
+respuesta	O
+clínica	O
+de	O
+la	O
+debilidad	O
+crural	O
+proximal	O
+.	O

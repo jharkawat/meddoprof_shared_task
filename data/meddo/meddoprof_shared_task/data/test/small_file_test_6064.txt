@@ -1,0 +1,21 @@
+
+Tumor	O
+de	O
+cordones	O
+sexuales	O
+/	O
+estroma	O
+gonadal	O
+maligno	O
+(	O
+OMS	O
+2004	O
+)	O
+pT3	O
+cN1	O
+cM1a	O
+S0	O
+,	O
+estadio	O
+IIIA	O
+.	O

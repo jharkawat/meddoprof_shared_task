@@ -1,0 +1,15 @@
+
+Dislipemia	O
+en	O
+tratamiento	O
+dietético	O
+,	O
+pólipo	O
+endometrial	O
+hiperplásico	O
+resecado	O
+en	O
+enero	O
+/	O
+2010	O
+.	O

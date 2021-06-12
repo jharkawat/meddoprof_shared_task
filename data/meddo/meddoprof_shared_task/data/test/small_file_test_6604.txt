@@ -1,0 +1,12 @@
+
+»	O
+Adenocarcinoma	O
+de	O
+próstata	O
+estadio	O
+IV	O
+resistente	O
+a	O
+la	O
+castración	O
+.	O

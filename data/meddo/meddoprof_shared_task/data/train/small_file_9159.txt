@@ -1,0 +1,7 @@
+
+FC	O
+110	O
+l	O
+/	O
+min	O
+.	O

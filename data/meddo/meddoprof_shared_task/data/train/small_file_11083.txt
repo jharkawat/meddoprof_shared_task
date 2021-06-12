@@ -1,0 +1,10 @@
+
+Se	O
+decide	O
+extirpación	O
+de	O
+adenopatía	O
+y	O
+estudio	O
+anatomopatológico	O
+.	O

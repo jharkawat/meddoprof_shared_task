@@ -1,0 +1,27 @@
+
+Analíticamente	O
+son	O
+características	O
+las	O
+alteraciones	O
+en	O
+el	O
+hemograma	O
+tales	O
+como	O
+pancitopenia	O
+,	O
+y	O
+en	O
+la	O
+bioquímica	O
+elevación	O
+de	O
+LDH	O
+,	O
+bilirrubina	O
+,	O
+hipoglucemia	O
+y	O
+acidosis	O
+.	O

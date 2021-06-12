@@ -1,0 +1,11 @@
+
+Cabeza	O
+y	O
+cuello	O
+:	O
+no	O
+adenopatías	O
+,	O
+ni	O
+muguet	O
+.	O

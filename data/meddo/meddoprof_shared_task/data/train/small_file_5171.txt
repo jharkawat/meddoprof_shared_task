@@ -1,0 +1,14 @@
+
+Angina	O
+inestable	O
+en	O
+2016	O
+,	O
+enfermedad	O
+severa	O
+de	O
+DA	O
+con	O
+stent	O
+farmacoactivo	O
+.	O

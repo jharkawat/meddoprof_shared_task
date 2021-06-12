@@ -1,0 +1,15 @@
+
+Durante	O
+su	O
+hospitalización	O
+permanecióletárgico	O
+con	O
+quejas	O
+de	O
+cansancio	O
+y	O
+tendencia	O
+a	O
+la	O
+clinofilia	O
+.	O

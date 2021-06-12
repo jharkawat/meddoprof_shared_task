@@ -1,0 +1,7 @@
+
+No	O
+refiere	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

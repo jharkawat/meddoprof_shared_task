@@ -1,0 +1,9 @@
+
+No	O
+se	O
+ha	O
+notado	O
+otras	O
+lesiones	O
+parecidas	O
+.	O

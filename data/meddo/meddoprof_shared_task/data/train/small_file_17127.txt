@@ -1,0 +1,11 @@
+
+No	O
+presentaba	O
+alteraciones	O
+en	O
+la	O
+auscultación	O
+cardiaca	O
+ni	O
+respiratoria	O
+.	O

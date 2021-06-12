@@ -1,0 +1,10 @@
+
+Esquizofrenia	O
+paranoide	O
+(	O
+F	O
+20	O
+.	O
+0	O
+)	O
+.	O

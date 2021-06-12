@@ -1,0 +1,9 @@
+
+Dijo	O
+que	O
+tenía	O
+miedo	O
+de	O
+volverse	O
+obesa	O
+.	O

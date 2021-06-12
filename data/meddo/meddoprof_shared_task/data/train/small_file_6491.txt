@@ -1,0 +1,5 @@
+
+No	O
+afectación	O
+mucosa	O
+.	O

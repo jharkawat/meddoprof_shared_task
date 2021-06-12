@@ -1,0 +1,25 @@
+
+La	O
+dosis	O
+a	O
+la	O
+que	O
+se	O
+llegó	O
+fue	O
+de	O
+500	O
+mg	O
+y	O
+se	O
+combinó	O
+con	O
+paroxetina	O
+como	O
+tratamiento	O
+de	O
+los	O
+síntomas	O
+afectivos	O
+concomitantes	O
+.	O

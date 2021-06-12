@@ -1,0 +1,12 @@
+
+Su	O
+discurso	O
+es	O
+fluido	O
+,	O
+con	O
+tendencia	O
+a	O
+la	O
+aceleración	O
+.	O

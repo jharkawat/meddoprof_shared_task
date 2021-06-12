@@ -1,0 +1,20 @@
+T1	SINTOMA 540 563	alucinaciones auditivas
+T2	SINTOMA 792 805	alucinaciones
+T3	SINTOMA 927 940	alucinaciones
+T4	NEG 352 354	no
+T5	NSCO 355 392	tenía ningún antecedente psiquiátrico
+T6	NEG 565 568	sin
+T7	NSCO 569 605	ningún impacto conductual o afectivo
+T8	NEG 977 979	No
+T9	NSCO 980 1010	se observó ningún otro síntoma
+T10	NEG 1011 1013	no
+T11	NSCO 1014 1023	psicótico
+T12	FARMACO 241 250	mefedrona
+T13	FARMACO 728 738	olanzapina
+T14	ORG_VIVO 3 8	varón
+T15	ORG_VIVO 166 173	familia
+T16	ORG_VIVO 343 351	paciente
+T17	ORG_VIVO 443 451	paciente
+T18	ORG_VIVO 523 531	paciente
+T19	ORG_VIVO 857 865	paciente
+T20	PACIENTE-SITUACION_LABORAL 79 108	trabajo de alta cualificación

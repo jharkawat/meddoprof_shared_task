@@ -1,0 +1,21 @@
+
+TAC	O
+:	O
+la	O
+prueba	O
+de	O
+imagen	O
+muestra	O
+una	O
+atrofia	O
+cerebral	O
+generalizada	O
+mucho	O
+más	O
+marcada	O
+en	O
+regiones	O
+frontal	O
+y	O
+temporal	O
+.	O

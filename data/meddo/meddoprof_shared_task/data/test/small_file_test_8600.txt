@@ -1,0 +1,22 @@
+
+Presentaba	O
+0	O
+%	O
+de	O
+expresión	O
+inmunohistoquímica	O
+de	O
+proteína	O
+PD	O
+-	O
+L1	O
+,	O
+así	O
+como	O
+mutaciones	O
+negativas	O
+para	O
+el	O
+gen	O
+EFGR	O
+.	O

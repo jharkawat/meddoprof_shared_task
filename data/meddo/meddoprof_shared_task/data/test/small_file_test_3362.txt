@@ -1,0 +1,24 @@
+
+Destaca	O
+el	O
+episodio	O
+de	O
+fibrilación	O
+auricular	O
+en	O
+las	O
+72	O
+horas	O
+previas	O
+al	O
+cuadro	O
+convulsivo	O
+,	O
+cardiovertido	O
+farmacológicamente	O
+,	O
+sin	O
+profilaxis	O
+anticoagulante	O
+previa	O
+.	O

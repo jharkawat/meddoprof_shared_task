@@ -1,0 +1,16 @@
+
+No	O
+tomaba	O
+fármacos	O
+de	O
+manera	O
+habitual	O
+y	O
+tampoco	O
+refería	O
+antecedentes	O
+de	O
+lesiones	O
+genitales	O
+previas	O
+.	O

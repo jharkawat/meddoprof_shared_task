@@ -1,0 +1,8 @@
+
+-	O
+Coagulación	O
+control	O
+ambulatorio	O
+:	O
+T	O
+.	O

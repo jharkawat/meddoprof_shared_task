@@ -1,0 +1,23 @@
+
+A	O
+posteriori	O
+obtuvimos	O
+los	O
+resultados	O
+de	O
+las	O
+serologías	O
+solicitadas	O
+:	O
+VIH	O
+negativo	O
+,	O
+virus	O
+hepatitis	O
+A	O
+,	O
+B	O
+y	O
+C	O
+negativo	O
+.	O

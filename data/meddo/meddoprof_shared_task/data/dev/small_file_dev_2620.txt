@@ -1,0 +1,16 @@
+
+Antecedentes	O
+psiquiátricos	O
+:	O
+presentaba	O
+historia	O
+previa	O
+de	O
+consumo	O
+tóxico	O
+(	O
+alcohol	O
+y	O
+cannabis	O
+)	O
+.	O

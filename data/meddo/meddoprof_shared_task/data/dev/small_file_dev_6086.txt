@@ -1,0 +1,10 @@
+
+Había	O
+sido	O
+tratado	O
+con	O
+diversos	O
+antibióticos	O
+sin	O
+mejoría	O
+.	O

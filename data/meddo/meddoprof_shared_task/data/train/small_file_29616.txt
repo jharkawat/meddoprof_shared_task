@@ -1,0 +1,5 @@
+
+Vena	O
+porta	O
+permeable	O
+.	O

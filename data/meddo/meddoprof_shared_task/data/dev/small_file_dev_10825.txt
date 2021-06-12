@@ -1,0 +1,4 @@
+
+Maratonista	B-ACTIVIDAD
+aficionado	O
+.	O

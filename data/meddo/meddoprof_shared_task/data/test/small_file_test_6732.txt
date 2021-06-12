@@ -1,0 +1,25 @@
+
+Desde	O
+la	O
+primera	O
+TC	O
+realizada	O
+a	O
+los	O
+3	O
+meses	O
+(	O
+marzo	O
+2012	O
+)	O
+se	O
+confirma	O
+respuesta	O
+radiológica	O
+que	O
+se	O
+mantuvo	O
+durante	O
+2	O
+años	O
+.	O

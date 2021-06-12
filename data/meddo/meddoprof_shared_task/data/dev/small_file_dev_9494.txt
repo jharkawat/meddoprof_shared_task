@@ -1,0 +1,24 @@
+
+Para	O
+el	O
+estudio	O
+etiológico	O
+se	O
+solicitó	O
+autoinmunidad	O
+que	O
+fue	O
+negativa	O
+,	O
+descartándose	O
+la	O
+posibilidad	O
+de	O
+vasculitis	O
+de	O
+grandes	O
+vasos	O
+(	O
+Takayasu	O
+)	O
+.	O

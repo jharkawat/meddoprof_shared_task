@@ -1,0 +1,26 @@
+
+Constantemente	O
+era	O
+golpeada	O
+para	O
+que	O
+siguiera	O
+confesando	O
+su	O
+vida	O
+íntima	O
+pasada	O
+,	O
+con	O
+la	O
+justificación	O
+de	O
+que	O
+ella	O
+necesitaba	O
+ser	O
+castigada	O
+para	O
+sentirse	O
+perdonada	O
+.	O

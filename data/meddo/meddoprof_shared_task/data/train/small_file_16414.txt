@@ -1,0 +1,23 @@
+
+Exploración	O
+neurológica	O
+:	O
+hipoestesia	O
+táctil	O
+leve	O
+en	O
+las	O
+extremidades	O
+izquierdas	O
+y	O
+reflejos	O
+osteotendinosos	O
+exaltados	O
+,	O
+reflejo	O
+cutáneo	O
+-	O
+plantar	O
+extensor	O
+izquierdo	O
+.	O

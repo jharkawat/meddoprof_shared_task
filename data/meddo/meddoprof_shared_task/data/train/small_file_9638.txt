@@ -1,0 +1,21 @@
+
+Tratamiento	O
+domiciliario	O
+:	O
+tranxilium	O
+50	O
+mg	O
+,	O
+tryptizol	O
+75	O
+mg	O
+,	O
+paracetamol	O
+/	O
+cafeína	O
+/	O
+codeína	O
+(	O
+anagilasa	O
+)	O
+.	O

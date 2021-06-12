@@ -1,0 +1,15 @@
+
+Paciente	O
+varón	O
+de	O
+45	O
+años	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+ni	O
+hábitos	O
+tóxicos	O
+.	O

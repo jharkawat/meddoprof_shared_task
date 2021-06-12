@@ -1,0 +1,9 @@
+
+Las	O
+cosas	O
+tienen	O
+que	O
+estar	O
+bajo	O
+control	O
+.	O

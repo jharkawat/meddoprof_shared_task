@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+,	O
+confiado	O
+,	O
+no	O
+presta	O
+atención	O
+al	O
+plazo	O
+e	O
+informa	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+que	O
+todo	O
+ha	O
+salido	O
+bien	O
+.	O

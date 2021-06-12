@@ -1,0 +1,7 @@
+
+Frecuencia	O
+respiratoria	O
+:	O
+15	O
+rpm	O
+.	O

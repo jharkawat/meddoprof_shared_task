@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+14	O
+/	O
+12	O
+/	O
+1983	O
+.	O

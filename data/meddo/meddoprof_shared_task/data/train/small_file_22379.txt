@@ -1,0 +1,7 @@
+
+Romberg	O
+y	O
+marcha	O
+sin	O
+alteraciones	O
+.	O

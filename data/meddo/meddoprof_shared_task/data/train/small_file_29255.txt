@@ -1,0 +1,16 @@
+
+Antecedentes	O
+familiares	O
+:	O
+tío	O
+paterno	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O
+Antecedentes	O
+psiquiátricos	O
+:	O
+no	O
+.	O

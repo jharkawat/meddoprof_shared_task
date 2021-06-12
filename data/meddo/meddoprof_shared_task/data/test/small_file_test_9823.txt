@@ -1,0 +1,25 @@
+
+Actualmente	O
+sigue	O
+tratamiento	O
+con	O
+diosmina	O
+500	O
+mg	O
+un	O
+comprimido	O
+diario	O
+,	O
+calcifediol	O
+1	O
+ampolla	O
+bebida	O
+mensual	O
+y	O
+fulvestrant	O
+500	O
+mg	O
+una	O
+inyección	O
+mensual	O
+.	O

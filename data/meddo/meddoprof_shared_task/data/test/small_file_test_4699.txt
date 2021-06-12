@@ -1,0 +1,21 @@
+
+Como	O
+antecedentes	O
+personales	O
+,	O
+el	O
+paciente	O
+tiene	O
+hipertensión	O
+arterial	O
+,	O
+dislipemia	O
+e	O
+hiperuricemia	O
+,	O
+para	O
+las	O
+que	O
+recibe	O
+tratamiento	O
+.	O

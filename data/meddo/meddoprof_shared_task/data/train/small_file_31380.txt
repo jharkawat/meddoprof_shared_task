@@ -1,0 +1,9 @@
+
+El	O
+tratamiento	O
+al	O
+comienzo	O
+del	O
+ingreso	O
+es	O
+:	O

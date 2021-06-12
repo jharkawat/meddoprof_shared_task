@@ -1,0 +1,20 @@
+
+en	O
+proyecciones	O
+posteroanterior	O
+y	O
+lateral	O
+,	O
+así	O
+como	O
+radiografía	O
+simple	O
+de	O
+abdomen	O
+en	O
+decúbito	O
+,	O
+siendo	O
+ambas	O
+normales	O
+.	O

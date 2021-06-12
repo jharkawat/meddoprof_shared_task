@@ -1,0 +1,26 @@
+
+El	O
+periodo	O
+de	O
+incubación	O
+en	O
+los	O
+seres	O
+humanos	O
+es	O
+de	O
+duración	O
+variable	O
+entre	O
+1	O
+y	O
+21	O
+días	O
+,	O
+con	O
+una	O
+mediana	O
+de	O
+7	O
+días	O
+.	O

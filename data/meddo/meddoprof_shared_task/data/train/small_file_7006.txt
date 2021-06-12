@@ -1,0 +1,26 @@
+
+Un	O
+año	O
+más	O
+tarde	O
+,	O
+la	O
+paciente	O
+presentaba	O
+adenopatías	O
+axilares	O
+e	O
+inguinales	O
+palpables	O
+que	O
+se	O
+biopsiaron	O
+con	O
+el	O
+resultado	O
+histopatológico	O
+de	O
+infiltración	O
+ganglionar	O
+tumoral	O
+.	O

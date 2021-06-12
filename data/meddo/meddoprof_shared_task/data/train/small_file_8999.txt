@@ -1,0 +1,25 @@
+
+Acto	O
+seguido	O
+,	O
+se	O
+desvanece	O
+y	O
+cae	O
+en	O
+la	O
+ducha	O
+golpeándose	O
+la	O
+cabeza	O
+y	O
+haciéndose	O
+una	O
+herida	O
+inciso	O
+-	O
+contusa	O
+en	O
+región	O
+frontal	O
+.	O

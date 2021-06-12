@@ -1,0 +1,25 @@
+
+Durante	O
+la	O
+estancia	O
+en	O
+planta	O
+la	O
+paciente	O
+presentó	O
+los	O
+primeros	O
+días	O
+episodios	O
+de	O
+cefalea	O
+sin	O
+focalidad	O
+,	O
+que	O
+se	O
+controlaron	O
+con	O
+analgesia	O
+intravenosa	O
+.	O

@@ -1,0 +1,11 @@
+
+Le	O
+proponen	O
+acudir	O
+a	O
+un	O
+psiquiatra	B-PROFESION
+y	O
+ella	O
+accede	O
+.	O

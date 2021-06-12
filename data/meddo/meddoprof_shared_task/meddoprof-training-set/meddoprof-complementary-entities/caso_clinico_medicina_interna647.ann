@@ -1,0 +1,24 @@
+T1	SINTOMA 159 167	mialgias
+T2	SINTOMA 285 304	elevación de la CPK
+T3	PROCEDIMIENTO 494 509	electromiograma
+T4	PROCEDIMIENTO 512 529	electroneurograma
+T5	PROCEDIMIENTO 540 556	biopsia muscular
+T6	PROCEDIMIENTO 765 790	estudio de acilcarnitinas
+T7	PROCEDIMIENTO 1084 1100	estudio genético
+T8	NEG 44 47	sin
+T9	NSCO 48 71	antecedentes de interés
+T10	NEG 484 492	negativa
+T11	UNC 1051 1059	sospecha
+T12	USCO 1060 1071	establecida
+T13	ORG_VIVO 26 31	varón
+T14	ORG_VIVO 320 326	médico
+T15	ORG_VIVO 568 576	paciente
+T16	ORG_VIVO 1112 1120	paciente
+T17	ORG_VIVO 1227 1236	patógenos
+T18	ENFERMEDAD 406 417	hiperCKemia
+T19	ENFERMEDAD 422 435	fracaso renal
+T20	ENFERMEDAD 643 656	rabdomiólisis
+T21	ENFERMEDAD 1156 1175	mutaciones c.1094>T
+T22	ENFERMEDAD 1242 1262	glucogenosis tipo V.
+T23	PACIENTE-ACTIVIDAD 73 83	deportista
+T24	SANITARIO-PROFESION 320 326	médico

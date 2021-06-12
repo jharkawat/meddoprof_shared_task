@@ -1,0 +1,6 @@
+
+No	O
+síntomas	O
+sistémicos	O
+asociados	O
+.	O

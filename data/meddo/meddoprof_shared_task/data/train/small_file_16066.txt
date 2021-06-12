@@ -1,0 +1,17 @@
+
+Traumatismo	O
+craneoencefálico	O
+de	O
+alta	O
+energía	O
+a	O
+los	O
+32	O
+años	O
+como	O
+consecuencia	O
+del	O
+intento	O
+de	O
+autolisis	O
+.	O

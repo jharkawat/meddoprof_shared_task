@@ -1,0 +1,21 @@
+
+La	O
+frecuencia	O
+fue	O
+aumentando	O
+a	O
+una	O
+vez	O
+a	O
+la	O
+semana	O
+,	O
+una	O
+vez	O
+cada	O
+dos	O
+días	O
+y	O
+finalmente	O
+diaria	O
+.	O

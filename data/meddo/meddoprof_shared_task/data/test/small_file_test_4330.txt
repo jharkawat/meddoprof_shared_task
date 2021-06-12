@@ -1,0 +1,6 @@
+
+VSG	O
+25	O
+PCR	O
+16	O
+.	O

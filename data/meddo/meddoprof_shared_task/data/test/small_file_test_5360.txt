@@ -1,0 +1,15 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+distribución	O
+suele	O
+ser	O
+en	O
+lóbulos	O
+inferiores	O
+,	O
+no	O
+superiores	O
+.	O

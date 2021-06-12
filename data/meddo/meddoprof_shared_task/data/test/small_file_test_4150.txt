@@ -1,0 +1,20 @@
+
+El	O
+tratamiento	O
+anticoagulante	O
+tiene	O
+que	O
+ser	O
+suspendido	O
+por	O
+sangrado	O
+incoercible	O
+de	O
+la	O
+masa	O
+,	O
+precisando	O
+varias	O
+transfusiones	O
+sanguíneas	O
+.	O

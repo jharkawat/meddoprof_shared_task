@@ -1,0 +1,15 @@
+
+Refiere	O
+dificultad	O
+respiratoria	O
+,	O
+tos	O
+y	O
+expectoración	O
+blanquecina	O
+,	O
+e	O
+incluso	O
+,	O
+hemoptisis	O
+.	O

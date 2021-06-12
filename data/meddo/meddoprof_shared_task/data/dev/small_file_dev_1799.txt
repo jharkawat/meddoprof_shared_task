@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+se	O
+encontraba	O
+consciente	O
+y	O
+orientado	O
+,	O
+poco	O
+abordable	O
+y	O
+colaborador	O
+,	O
+subagitado	O
+,	O
+con	O
+afecto	O
+inapropiado	O
+y	O
+contacto	O
+psicótico	O
+.	O

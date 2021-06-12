@@ -1,0 +1,12 @@
+
+Admite	O
+la	O
+crítica	O
+pero	O
+refiere	O
+que	O
+soporta	O
+mal	O
+la	O
+incoherencia	O
+.	O

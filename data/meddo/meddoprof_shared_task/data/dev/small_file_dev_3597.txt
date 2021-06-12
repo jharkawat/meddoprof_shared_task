@@ -1,0 +1,6 @@
+
+Dificultad	O
+para	O
+tomar	O
+decisiones	O
+.	O

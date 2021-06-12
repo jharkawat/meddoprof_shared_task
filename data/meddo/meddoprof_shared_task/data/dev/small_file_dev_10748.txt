@@ -1,0 +1,20 @@
+
+María	O
+tiene	O
+83	O
+años	O
+,	O
+es	O
+hipertensa	O
+y	O
+tiene	O
+un	O
+cáncer	O
+de	O
+colon	O
+de	O
+un	O
+año	O
+de	O
+evolución	O
+.	O

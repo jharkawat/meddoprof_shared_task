@@ -1,0 +1,7 @@
+
+Tiene	O
+reconocida	O
+una	O
+invalidez	B-SITUACION_LABORAL
+permanente	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,12 @@
+
+-	O
+TAC	O
+abdominal	O
+:	O
+Discreta	O
+hepatomegalia	O
+,	O
+sin	O
+otros	O
+hallazgos	O
+.	O

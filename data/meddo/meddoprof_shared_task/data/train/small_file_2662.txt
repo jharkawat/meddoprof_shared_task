@@ -1,0 +1,9 @@
+
+Anamnesis	O
+:	O
+contraindicados	O
+AINES	O
+por	O
+úlcera	O
+gástrica	O
+.	O

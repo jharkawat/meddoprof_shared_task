@@ -1,0 +1,5 @@
+
+Consumo	O
+alcohol	O
+y	O
+THC	O

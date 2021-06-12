@@ -1,0 +1,15 @@
+
+Carcinoma	O
+verrugoso	O
+de	O
+pene	O
+estadio	O
+IV	O
+(	O
+T3	O
+,	O
+N3	O
+,	O
+M0	O
+)	O
+.	O

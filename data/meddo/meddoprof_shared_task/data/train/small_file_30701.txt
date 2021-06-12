@@ -1,0 +1,10 @@
+
+Padre	O
+fallecido	O
+hace	O
+15	O
+años	O
+por	O
+enfermedad	O
+neoplásica	O
+.	O

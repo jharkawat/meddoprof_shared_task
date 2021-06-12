@@ -1,0 +1,11 @@
+
+Consciente	O
+,	O
+orientado	O
+en	O
+persona	O
+,	O
+tiempo	O
+y	O
+espacio	O
+.	O

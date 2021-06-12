@@ -1,0 +1,6 @@
+
+Solo	O
+resistente	O
+a	O
+aminoglucócidos	O
+.	O

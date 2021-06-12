@@ -1,0 +1,10 @@
+
+Se	O
+confirmó	O
+mediante	O
+anatomopatología	O
+el	O
+diagnóstico	O
+de	O
+meningocele	O
+.	O

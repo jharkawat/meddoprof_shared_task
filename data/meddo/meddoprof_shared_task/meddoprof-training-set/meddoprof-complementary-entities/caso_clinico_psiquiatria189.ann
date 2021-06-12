@@ -1,0 +1,65 @@
+T1	SINTOMA 120 139	síntomas psicóticos
+T2	SINTOMA 292 311	síntomas psicóticos
+T3	SINTOMA 1136 1146	consciente
+T4	SINTOMA 1180 1189	irritable
+T5	SINTOMA 1191 1204	taquipsíquica
+T6	SINTOMA 1284 1292	angustia
+T7	SINTOMA 1294 1315	inquietud psicomotriz
+T8	SINTOMA 1317 1326	anhedonia
+T9	SINTOMA 1329 1341	sentimientos
+T10	SINTOMA 1345 1357	desesperanza
+T11	SINTOMA 1499 1534	disminución del nivel de conciencia
+T12	SINTOMA 1536 1542	fiebre
+T13	SINTOMA 1553 1563	sudoración
+T14	SINTOMA 1570 1600	rigidez en miembros superiores
+T15	SINTOMA 1602 1610	disfagia
+T16	SINTOMA 1613 1644	aumento de la creatinina cinasa
+T17	SINTOMA 1667 1679	leucocitosis
+T18	SINTOMA 2218 2225	vómitos
+T19	PROCEDIMIENTO 357 399	tratamiento psicofarmacológico precisó TEC
+T20	PROCEDIMIENTO 1444 1457	antidepresivo
+T21	PROCEDIMIENTO 1822 1852	tratamiento psicofarmacológico
+T22	PROCEDIMIENTO 1865 1878	fluidoterapia
+T23	PROCEDIMIENTO 1880 1889	analgesia
+T24	PROCEDIMIENTO 1892 1906	oxigenoterapia
+T25	PROCEDIMIENTO 1980 2005	tratamiento antidepresivo
+T26	PROCEDIMIENTO 2544 2559	sesiones de TEC
+T27	NEG 51 54	sin
+T28	NSCO 55 60	hijos
+T29	NEG 337 345	falta de
+T30	NSCO 346 353	mejoría
+T31	UNC 675 682	posible
+T32	USCO 683 713	deterioro cognitivo incipiente
+T33	NEG 1061 1066	niega
+T34	NSCO 1067 1112	a tomar alimentos y tratamiento farmacológico
+T35	NEG 1807 1818	se suspende
+T36	NSCO 1819 1852	el tratamiento psicofarmacológico
+T37	UNC 1938 1946	aparente
+T38	USCO 1947 1966	remisión del cuadro
+T39	FARMACO 575 586	Venlafaxina
+T40	FARMACO 588 597	Lorazepam
+T41	FARMACO 599 609	Indapamida
+T42	FARMACO 612 623	Pantoprazol
+T43	FARMACO 1386 1397	Haloperidol
+T44	FARMACO 2025 2036	Risperidona
+T45	FARMACO 2174 2188	Metoclopramida
+T46	ORG_VIVO 8 16	paciente
+T47	ORG_VIVO 24 29	mujer
+T48	ORG_VIVO 55 60	hijos
+T49	ORG_VIVO 2275 2283	paciente
+T50	ENFERMEDAD 100 115	depresivo grave
+T51	ENFERMEDAD 272 287	depresivo grave
+T52	ENFERMEDAD 475 487	hipertensión
+T53	ENFERMEDAD 492 521	hemangioma cavernoso hepático
+T54	ENFERMEDAD 524 545	gonartrosis bilateral
+T55	ENFERMEDAD 683 702	deterioro cognitivo
+T56	ENFERMEDAD 780 804	sintomatología psicótica
+T57	ENFERMEDAD 1730 1733	SNM
+T58	ENFERMEDAD 2124 2140	cuadro depresivo
+T59	ENFERMEDAD 2237 2253	recidiva del SNM
+T60	ENFERMEDAD 2420 2438	neumonía bilateral
+T61	ENFERMEDAD 2440 2464	síndrome coronario agudo
+T62	ENFERMEDAD 2466 2487	fibrilación auricular
+T63	ENFERMEDAD 2489 2506	infarto esplénico
+T64	ENFERMEDAD 2508 2529	bacteriemia por MARSA
+T65	OTROS-PROFESION 1770 1794	expertos internacionales

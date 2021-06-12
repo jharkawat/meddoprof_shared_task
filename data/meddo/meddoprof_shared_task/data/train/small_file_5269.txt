@@ -1,0 +1,17 @@
+
+Se	O
+automedica	O
+de	O
+nuevo	O
+con	O
+Duloxetina	O
+,	O
+apareciendo	O
+astenia	O
+,	O
+náuseas	O
+,	O
+sofocos	O
+y	O
+nerviosismo	O
+.	O

@@ -1,0 +1,16 @@
+
+La	O
+tumoración	O
+abomba	O
+levemente	O
+la	O
+cortical	O
+de	O
+la	O
+vertiente	O
+articular	O
+del	O
+cóndilo	O
+femoral	O
+interno	O
+.	O

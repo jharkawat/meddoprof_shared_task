@@ -1,0 +1,16 @@
+
+Dolor	O
+a	O
+la	O
+palpación	O
+en	O
+zona	O
+de	O
+ambos	O
+trapecios	O
+y	O
+en	O
+musculatura	O
+paravertebral	O
+cervical	O
+.	O

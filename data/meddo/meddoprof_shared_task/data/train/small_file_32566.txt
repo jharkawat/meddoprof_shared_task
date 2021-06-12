@@ -1,0 +1,27 @@
+
+Si	O
+bien	O
+la	O
+terapia	O
+farmacológica	O
+de	O
+la	O
+esquizofrenia	O
+paranoide	O
+está	O
+basada	O
+en	O
+los	O
+antipsicóticos	O
+,	O
+la	O
+elección	O
+del	O
+mismo	O
+estará	O
+en	O
+dependencia	O
+de	O
+múltiples	O
+factores	O
+.	O

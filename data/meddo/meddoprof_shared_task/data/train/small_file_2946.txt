@@ -1,0 +1,6 @@
+
+FC	O
+102	O
+pm	O
+arritmia	O
+.	O

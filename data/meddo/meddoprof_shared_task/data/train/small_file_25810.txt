@@ -1,0 +1,14 @@
+
+Al	O
+ingreso	O
+se	O
+observa	O
+una	O
+paciente	O
+suspicaz	O
+con	O
+inquietud	O
+e	O
+incontinencia	O
+urinaria	O
+.	O

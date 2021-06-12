@@ -1,0 +1,22 @@
+
+Valorado	O
+por	O
+neurólogo	B-PROFESION
+de	O
+guardia	O
+se	O
+descarta	O
+hemorragia	O
+subaracnoidea	O
+y	O
+se	O
+demuestra	O
+ocupación	O
+de	O
+celdillas	O
+etmoidales	O
+,	O
+frontales	O
+y	O
+maxilares	O
+.	O

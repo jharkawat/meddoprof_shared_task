@@ -1,0 +1,13 @@
+
+Sonrió	O
+y	O
+preguntó	O
+si	O
+iba	O
+a	O
+ir	O
+al	O
+cole	O
+de	O
+Marta	O
+.	O

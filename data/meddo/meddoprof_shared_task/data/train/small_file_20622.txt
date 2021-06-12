@@ -1,0 +1,15 @@
+
+Sin	O
+embargo	O
+,	O
+él	O
+es	O
+quien	O
+termina	O
+solucionando	O
+el	O
+problema	O
+de	O
+la	O
+niña	O
+.	O

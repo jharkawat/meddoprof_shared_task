@@ -1,0 +1,35 @@
+T1	SINTOMA 558 571	irritabilidad
+T2	SINTOMA 670 692	inestabilidad afectiva
+T3	SINTOMA 697 717	descontrol impulsivo
+T4	SINTOMA 733 767	dificultades cognitivo perceptivas
+T5	SINTOMA 1001 1019	malestar subjetivo
+T6	SINTOMA 1022 1041	deterioro funcional
+T7	PROCEDIMIENTO 1917 1935	RX AP y L de tórax
+T8	PROCEDIMIENTO 1958 1971	gastroscopias
+T9	PROCEDIMIENTO 1977 1989	colonoscopia
+T10	PROCEDIMIENTO 2002 2005	TAC
+T11	NEG 65 68	sin
+T12	NSCO 69 74	hijos
+T13	NEG 579 581	no
+T14	NSCO 582 608	se satisfacen sus demandas
+T15	NEG 644 646	no
+T16	NSCO 647 663	ideación suicida
+T17	NEG 1596 1598	no
+T18	NSCO 1599 1639	saben comunicar y expresar sus emociones
+T19	ORG_VIVO 27 35	paciente
+T20	ORG_VIVO 69 74	hijos
+T21	ORG_VIVO 376 384	paciente
+T22	ORG_VIVO 1052 1061	pacientes
+T23	ORG_VIVO 1582 1591	pacientes
+T24	ORG_VIVO 1753 1761	paciente
+T25	ORG_VIVO 1785 1793	paciente
+T26	ENFERMEDAD 92 95	HPP
+T27	ENFERMEDAD 249 285	trastorno de la conducta alimentaria
+T28	ENFERMEDAD 321 323	TP
+T29	ENFERMEDAD 325 350	Trastorno de Personalidad
+T30	ENFERMEDAD 771 803	trastorno de personalidad límite
+T31	ENFERMEDAD 805 808	TPL
+T32	ENFERMEDAD 816 841	trastorno de personalidad
+T33	ENFERMEDAD 935 957	trastorno generalizado
+T34	ENFERMEDAD 1472 1490	ideación paranoide
+T35	SANITARIO-PROFESION 1850 1863	profesionales

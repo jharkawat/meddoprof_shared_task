@@ -1,0 +1,14 @@
+
+A	O
+nivel	O
+infraclavicular	O
+derecho	O
+,	O
+reservorio	O
+subcutáneo	O
+sin	O
+datos	O
+de	O
+infección	O
+local	O
+.	O

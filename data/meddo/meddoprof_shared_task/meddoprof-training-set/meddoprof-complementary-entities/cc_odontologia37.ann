@@ -1,0 +1,30 @@
+T1	PROCEDIMIENTO 603 625	exploración intrabucal
+T2	PROCEDIMIENTO 825 847	radiografía periapical
+T3	PROCEDIMIENTO 902 927	exéresis de la tumoración
+T4	PROCEDIMIENTO 933 961	anestesia local infiltrativa
+T5	PROCEDIMIENTO 968 980	bisturí frío
+T6	NEG 327 329	No
+T7	NSCO 330 371	refería alergias medicamentosas conocidas
+T8	NEG 770 778	ausencia
+T9	NEG 848 850	no
+T10	NSCO 851 889	se observaba signos de afectación ósea
+T11	NEG 1162 1165	sin
+T12	NSCO 1166 1189	sintomatología asociada
+T13	NEG 1268 1270	no
+T14	NSCO 1271 1292	se palpaba tumoración
+T15	NEG 1327 1330	sin
+T16	NSCO 1331 1400	dejar secuelas al cabo de 2 meses después de la exéresis de la lesión
+T17	NEG 1402 1404	No
+T18	NSCO 1405 1464	se apreciaron signos de recidiva en los controles sucesivos
+T19	FARMACO 212 220	Atenolol
+T20	FARMACO 238 246	Diacepam
+T21	ORG_VIVO 0 6	Hombre
+T22	ORG_VIVO 376 384	paciente
+T23	ENFERMEDAD 47 64	arritmia cardiaca
+T24	ENFERMEDAD 66 87	fibrilación auricular
+T25	ENFERMEDAD 89 129	taquicardia paroxística supraventricular
+T26	ENFERMEDAD 132 154	hepatopatía alcohólica
+T27	ENFERMEDAD 309 325	fístula perianal
+T28	ENFERMEDAD 746 765	edentulismo parcial
+T29	ENFERMEDAD 1022 1062	granuloma periférico de células gigantes
+T30	ENFERMEDAD 1297 1313	herida cicatrizó

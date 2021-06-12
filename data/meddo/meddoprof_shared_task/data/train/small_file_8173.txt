@@ -1,0 +1,26 @@
+
+Ingresa	O
+por	O
+cuadro	O
+de	O
+4	O
+días	O
+de	O
+evolución	O
+de	O
+astenia	O
+,	O
+hiporexia	O
+,	O
+dispepsia	O
+,	O
+cefalea	O
+,	O
+mialgias	O
+,	O
+prurito	O
+,	O
+coluria	O
+y	O
+acolia	O
+.	O

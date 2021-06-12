@@ -1,0 +1,22 @@
+
+Ante	O
+un	O
+paciente	O
+joven	O
+con	O
+fiebre	O
+sin	O
+foco	O
+que	O
+no	O
+mejora	O
+tras	O
+tratamiento	O
+con	O
+amoxicilina	O
+-	O
+clavulánico	O
+,	O
+debemos	O
+descartar	O
+:	O

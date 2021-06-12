@@ -1,0 +1,16 @@
+
+Sus	O
+síntomas	O
+somáticos	O
+mejoraron	O
+,	O
+pero	O
+con	O
+ligera	O
+sedación	O
+que	O
+limitó	O
+su	O
+rendimiento	O
+académico	O
+.	O

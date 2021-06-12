@@ -1,0 +1,7 @@
+
+No	O
+tenía	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

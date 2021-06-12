@@ -1,0 +1,13 @@
+
+Mujer	O
+de	O
+54	O
+años	O
+de	O
+nacionalidad	O
+española	O
+,	O
+profesora	B-PROFESION
+de	O
+profesión	O
+.	O

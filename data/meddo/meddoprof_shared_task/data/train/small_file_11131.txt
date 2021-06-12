@@ -1,0 +1,9 @@
+
+Lactato	O
+0	O
+́	O
+7	O
+mMol	O
+/	O
+L	O
+.	O

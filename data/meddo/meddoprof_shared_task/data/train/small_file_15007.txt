@@ -1,0 +1,7 @@
+
+Consumo	O
+esporádico	O
+moderado	O
+de	O
+alcohol	O
+.	O

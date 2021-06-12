@@ -1,0 +1,14 @@
+
+Se	O
+trata	O
+de	O
+una	O
+mujer	O
+de	O
+82	O
+años	O
+anciana	O
+frágil	O
+y	O
+polimedicada	O
+.	O

@@ -1,0 +1,12 @@
+
+Contaba	O
+con	O
+exámenes	O
+generales	O
+normales	O
+,	O
+TAC	O
+de	O
+cráneo	O
+normal	O
+.	O

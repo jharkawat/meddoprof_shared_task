@@ -1,0 +1,23 @@
+
+En	O
+la	O
+exploración	O
+psicopatológica	O
+al	O
+ingreso	O
+está	O
+aparentemente	O
+tranquilo	O
+,	O
+consciente	O
+,	O
+orientado	O
+en	O
+las	O
+tres	O
+esferas	O
+,	O
+abordable	O
+y	O
+colaborador	O
+.	O

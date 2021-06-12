@@ -1,0 +1,235 @@
+T1	SINTOMA 342 350	enuresis
+T2	SINTOMA 352 356	tics
+T3	SINTOMA 359 369	onicofagia
+T4	SINTOMA 646 653	vómitos
+T5	SINTOMA 3361 3382	agitación psicomotriz
+T6	SINTOMA 3445 3456	enlentecido
+T7	SINTOMA 3462 3485	bloqueos de pensamiento
+T8	SINTOMA 3510 3541	desorganización del pensamiento
+T9	SINTOMA 3695 3703	angustia
+T10	SINTOMA 3709 3741	conducta ritualizada de limpieza
+T11	SINTOMA 4181 4189	angustia
+T12	SINTOMA 4438 4456	temores constantes
+T13	SINTOMA 4592 4607	ideas obsesivas
+T14	SINTOMA 5074 5126	alteración del ritmo circadiano y aislamiento social
+T15	SINTOMA 7811 7818	mutismo
+T16	SINTOMA 7983 7993	Consciente
+T17	SINTOMA 7996 8005	orientada
+T18	SINTOMA 8770 8799	Alteraciones sensoperceptivas
+T19	SINTOMA 8812 8835	alucinaciones auditivas
+T20	SINTOMA 9000 9009	Hiporexia
+T21	SINTOMA 9449 9457	embarazo
+T22	SINTOMA 11626 11649	alucinaciones auditivas
+T23	SINTOMA 12523 12531	insomnio
+T24	SINTOMA 12710 12726	ideas delirantes
+T25	SINTOMA 12729 12742	alucinaciones
+T26	SINTOMA 13053 13076	alucinaciones auditivas
+T27	SINTOMA 13083 13101	angustia psicótica
+T28	SINTOMA 13124 13132	acatisia
+T29	PROCEDIMIENTO 2486 2505	terapia psicológica
+T30	PROCEDIMIENTO 3318 3344	inmovilización terapéutica
+T31	PROCEDIMIENTO 6110 6125	lavado de manos
+T32	PROCEDIMIENTO 6889 6921	exploración física y neurológica
+T33	PROCEDIMIENTO 6947 6972	prueba de imagen cerebral
+T34	PROCEDIMIENTO 9238 9249	TAC craneal
+T35	PROCEDIMIENTO 9298 9307	hemograma
+T36	PROCEDIMIENTO 9706 9715	Hemograma
+T37	PROCEDIMIENTO 9887 9896	hemograma
+T38	PROCEDIMIENTO 9969 9978	hemograma
+T39	PROCEDIMIENTO 10173 10200	exploración psicopatológica
+T40	PROCEDIMIENTO 11729 11754	tratamiento antipsicótico
+T41	PROCEDIMIENTO 12000 12025	tratamiento antipsicótico
+T42	PROCEDIMIENTO 12210 12235	tratamiento antipsicótico
+T43	PROCEDIMIENTO 13207 13221	antipsicóticos
+T44	PROCEDIMIENTO 13348 13373	tratamiento antipsicótico
+T45	PROCEDIMIENTO 13982 14001	resonancia afectiva
+T46	NEG 1004 1006	no
+T47	NSCO 1007 1028	manteniendo amistades
+T48	NEG 1746 1749	sin
+T49	NSCO 1750 1792	tratamiento farmacológico en la actualidad
+T50	NEG 2167 2169	no
+T51	NSCO 2170 2188	estudia ni trabaja
+T52	NEG 2247 2250	sin
+T53	NSCO 2251 2272	hipertensión arterial
+T54	NEG 2274 2277	sin
+T55	NSCO 2278 2301	diabetes mellitus ni DL
+T56	NEG 2355 2358	sin
+T57	NSCO 2359 2366	interés
+T58	NEG 2378 2380	no
+T59	NSCO 2381 2385	RAMC
+T60	NEG 2428 2430	No
+T61	NSCO 2431 2455	consumo de otros tóxicos
+T62	NEG 3743 3745	no
+T63	NSCO 3746 3772	queriendo ser entrevistada
+T64	NEG 4476 4486	incapaz de
+T65	NSCO 4487 4514	funcionar de forma autónoma
+T66	NEG 4516 4518	No
+T67	NSCO 4519 4553	usa los medios de transporte nunca
+T68	NEG 4851 4853	no
+T69	NSCO 4853 4854	"
+T70	NEG 5216 5226	desaparece
+T71	NEG 5555 5558	sin
+T72	NSCO 5559 5577	sostener la mirada
+T73	NEG 5864 5866	no
+T74	NEG 5868 5870	no
+T75	NSCO 5871 5893	lo cuentes... tendrías
+T76	NEG 5927 5929	no
+T77	NEG 5931 5933	no
+T78	NSCO 5934 5942	lo hagas
+T79	NSCO 7964 7981	motivó el ingreso
+T80	NEG 8040 8042	No
+T81	NSCO 8043 8088	signos de intoxicación/abstinencia de tóxicos
+T82	UNC 8125 8137	No aparentes
+T83	USCO 8138 8153	fallos mnésicos
+T84	NEG 8213 8221	Se niega
+T85	NSCO 8222 8243	a aportar información
+T86	UNC 8504 8511	posible
+T87	USCO 8512 8543	ideación delirante de perjuicio
+T88	NEG 9087 9090	sin
+T89	NSCO 9091 9106	comer casi nada
+T90	NEG 9109 9114	Niega
+T91	NSCO 9115 9155	ideación autolítica en el momento actual
+T92	NEG 9157 9159	No
+T93	NSCO 9160 9182	auto/heteroagresividad
+T94	NEG 9251 9254	sin
+T95	NSCO 9255 9274	alteraciones agudas
+T96	NEG 9428 9437	negativos
+T97	NEG 9492 9501	negativas
+T98	NEG 9514 9523	negativas
+T99	NSCO 9524 9532	para VIH
+T100	NEG 9657 9667	suspensión
+T101	NEG 10596 10599	sin
+T102	NSCO 10600 10625	una recuperación completa
+T103	NEG 10716 10718	no
+T104	NSCO 10719 10731	consideramos
+T105	NEG 11069 11071	No
+T106	UNC 11375 11382	posible
+T107	USCO 11383 11471	comorbilidad de TOC descartándolo conforme pudimos explorar en profundidad a la paciente
+T108	NEG 11479 11487	descartó
+T109	NSCO 11488 11559	que las compulsiones fueran respuesta a ideas obsesivas –característica
+T110	NEG 12761 12769	suprimir
+T111	NSCO 12770 12795	totalmente el amisulprida
+T112	NEG 13002 13004	no
+T113	NSCO 13005 13013	completa
+T114	NEG 13015 13018	sin
+T115	NSCO 13019 13101	que desaparecieran totalmente las alucinaciones auditivas ni la angustia psicótica
+T116	NEG 13157 13168	ausencia de
+T117	NSCO 13169 13176	mejoría
+T118	NEG 13779 13794	desaparición de
+T119	NSCO 13795 13828	las alteraciones sensoperceptivas
+T120	NEG 13897 13911	desapareciendo
+T121	NEG 13914 13916	no
+T122	NSCO 13917 13952	volviendo a reaparecer los rituales
+T123	NEG 14126 14128	no
+T124	NSCO 14129 14154	se produjeran incidencias
+T125	FARMACO 2579 2589	fluoxetina
+T126	FARMACO 2764 2774	fluoxetina
+T127	FARMACO 3087 3097	quetiapina
+T128	FARMACO 3121 3131	quetiapina
+T129	FARMACO 3148 3158	clonazepam
+T130	FARMACO 9740 9749	clozapina
+T131	FARMACO 9794 9803	clozapina
+T132	FARMACO 12094 12103	clozapina
+T133	FARMACO 12240 12251	amisulprida
+T134	FARMACO 12324 12334	quetiapina
+T135	FARMACO 12584 12595	amisulprida
+T136	FARMACO 12625 12635	olanzapina
+T137	FARMACO 12784 12795	amisulprida
+T138	FARMACO 12855 12866	aripiprazol
+T139	FARMACO 12938 12950	paliperidona
+T140	FARMACO 13239 13249	quetiapina
+T141	FARMACO 13251 13262	amisulprida
+T142	FARMACO 13264 13276	paliperidona
+T143	FARMACO 13278 13288	olanzapina
+T144	FARMACO 13291 13302	aripiprazol
+T145	FARMACO 13334 13346	paliperidona
+T146	FARMACO 13378 13387	clozapina
+T147	FARMACO 13600 13609	clozapina
+T148	FARMACO 14251 14263	paliperidona
+T149	FARMACO 14321 14330	clozapina
+T150	ORG_VIVO 0 5	Mujer
+T151	ORG_VIVO 92 102	familiares
+T152	ORG_VIVO 226 236	personales
+T153	ORG_VIVO 1019 1028	amistades
+T154	ORG_VIVO 1156 1162	amigos
+T155	ORG_VIVO 1169 1176	familia
+T156	ORG_VIVO 1254 1259	hijos
+T157	ORG_VIVO 1295 1302	hermana
+T158	ORG_VIVO 1582 1612	auxiliar de veterinaria online
+T159	ORG_VIVO 1650 1660	familiares
+T160	ORG_VIVO 1665 1679	abuela materna
+T161	ORG_VIVO 1884 1890	padres
+T162	ORG_VIVO 1892 1897	madre
+T163	ORG_VIVO 1919 1935	padre empresario
+T164	ORG_VIVO 1947 1954	Hermana
+T165	ORG_VIVO 2404 2410	tabaco
+T166	ORG_VIVO 2912 2922	psiquiatra
+T167	ORG_VIVO 2932 2941	psicólogo
+T168	ORG_VIVO 2944 2967	acompañante terapéutico
+T169	ORG_VIVO 3666 3674	paciente
+T170	ORG_VIVO 3853 3861	paciente
+T171	ORG_VIVO 4260 4265	padre
+T172	ORG_VIVO 4326 4334	paciente
+T173	ORG_VIVO 4413 4420	persona
+T174	ORG_VIVO 4463 4467	niña
+T175	ORG_VIVO 5331 5339	paciente
+T176	ORG_VIVO 6388 6393	niños
+T177	ORG_VIVO 6729 6737	paciente
+T178	ORG_VIVO 7079 7085	padres
+T179	ORG_VIVO 7176 7181	padre
+T180	ORG_VIVO 7256 7264	paciente
+T181	ORG_VIVO 7297 7303	padres
+T182	ORG_VIVO 7947 7952	padre
+T183	ORG_VIVO 9529 9532	VIH
+T184	ORG_VIVO 10739 10747	paciente
+T185	ORG_VIVO 10848 10856	paciente
+T186	ORG_VIVO 11033 11041	paciente
+T187	ORG_VIVO 11264 11272	paciente
+T188	ORG_VIVO 11463 11471	paciente
+T189	ORG_VIVO 13422 13430	paciente
+T190	ORG_VIVO 13437 13443	padres
+T191	ORG_VIVO 13631 13639	paciente
+T192	ORG_VIVO 14405 14413	paciente
+T193	ENFERMEDAD 692 705	fobia escolar
+T194	ENFERMEDAD 782 790	ansiedad
+T195	ENFERMEDAD 1697 1720	esquizofrenia paranoide
+T196	ENFERMEDAD 2251 2272	hipertensión arterial
+T197	ENFERMEDAD 2278 2295	diabetes mellitus
+T198	ENFERMEDAD 2543 2556	fobia escolar
+T199	ENFERMEDAD 2601 2610	depresión
+T200	ENFERMEDAD 2734 2760	sobreingesta medicamentosa
+T201	ENFERMEDAD 3201 3229	ENFERMEDAD ACTUAL AL INGRESO
+T202	ENFERMEDAD 4047 4060	claustrofobia
+T203	ENFERMEDAD 4592 4607	ideas obsesivas
+T204	ENFERMEDAD 4610 4632	conductas ritualizadas
+T205	ENFERMEDAD 5027 5051	conductas desadaptativas
+T206	ENFERMEDAD 6137 6147	dermatitis
+T207	ENFERMEDAD 6751 6775	sintomatología psicótica
+T208	ENFERMEDAD 8053 8088	intoxicación/abstinencia de tóxicos
+T209	ENFERMEDAD 8965 8981	crisis de pánico
+T210	ENFERMEDAD 9540 9554	hepatitis A, B
+T211	ENFERMEDAD 10353 10380	trastorno esquizofreniforme
+T212	ENFERMEDAD 10382 10395	esquizofrenia
+T213	ENFERMEDAD 10397 10439	trastorno de la personalidad esquizotípica
+T214	ENFERMEDAD 10442 10471	trastorno obsesivo-compulsivo
+T215	ENFERMEDAD 10473 10500	Trastorno esquizofreniforme
+T216	ENFERMEDAD 10830 10843	Esquizofrenia
+T217	ENFERMEDAD 11150 11192	Trastorno de la personalidad esquizotípica
+T218	ENFERMEDAD 11312 11341	Trastorno obsesivo-compulsivo
+T219	ENFERMEDAD 11343 11346	TOC
+T220	ENFERMEDAD 11399 11402	TOC
+T221	ENFERMEDAD 11895 11926	trastorno por uso de sustancias
+T222	ENFERMEDAD 12145 12169	esquizofrenia resistente
+T223	ENFERMEDAD 12552 12595	hiperprolactinemia secundaria a amisulprida
+T224	PACIENTE-PROFESION 1582 1605	auxiliar de veterinaria
+T225	FAMILIAR-PROFESION 1925 1935	empresario
+T226	FAMILIAR-SITUACION_LABORAL 1970 1977	estudia
+T227	PACIENTE-SITUACION_LABORAL 1432 1462	inició estudios universitarios
+T228	FAMILIAR-PROFESION 1898 1907	psicóloga
+T229	SANITARIO-PROFESION 2932 2941	psicólogo
+T230	SANITARIO-PROFESION 2912 2922	psiquiatra
+T231	PACIENTE-SITUACION_LABORAL 420 448	Estudió hasta 3o de Primaria
+T232	PACIENTE-SITUACION_LABORAL 821 838	Repitió 4o de ESO
+T233	PACIENTE-SITUACION_LABORAL 1030 1050	Terminó bachillerato
+T234	PACIENTE-SITUACION_LABORAL 2178 2188	ni trabaja
+T235	SANITARIO-PROFESION 2944 2967	acompañante terapéutico

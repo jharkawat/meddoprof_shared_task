@@ -1,0 +1,26 @@
+
+Aportaba	O
+los	O
+siguientes	O
+estudios	O
+realizados	O
+en	O
+los	O
+últimos	O
+años	O
+:	O
+hemograma	O
+,	O
+coagulación	O
+,	O
+perfil	O
+bioquímico	O
+hepático	O
+,	O
+renal	O
+e	O
+iónico	O
+con	O
+valores	O
+normales	O
+.	O

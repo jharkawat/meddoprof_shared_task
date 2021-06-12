@@ -1,0 +1,22 @@
+
+El	O
+primer	O
+ingreso	O
+en	O
+Unidad	O
+de	O
+Agudos	O
+fue	O
+en	O
+julio	O
+de	O
+2012	O
+con	O
+orientación	O
+diagnóstica	O
+de	O
+trastorno	O
+psicótico	O
+no	O
+especificado	O
+.	O

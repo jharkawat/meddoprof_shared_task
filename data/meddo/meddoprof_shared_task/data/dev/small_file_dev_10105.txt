@@ -1,0 +1,16 @@
+
+A	O
+pesar	O
+del	O
+lo	O
+cual	O
+había	O
+logrado	O
+permanecer	O
+calma	O
+y	O
+trabajar	O
+como	O
+de	O
+costumbre	O
+.	O

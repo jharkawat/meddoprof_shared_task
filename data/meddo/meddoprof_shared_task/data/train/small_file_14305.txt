@@ -1,0 +1,7 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+normal	O
+.	O

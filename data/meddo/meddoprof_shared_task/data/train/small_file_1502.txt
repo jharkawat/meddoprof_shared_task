@@ -1,0 +1,16 @@
+
+Había	O
+perdido	O
+6	O
+kg	O
+debido	O
+a	O
+disminución	O
+en	O
+ingesta	O
+de	O
+alimentos	O
+secundario	O
+al	O
+dolor	O
+.	O

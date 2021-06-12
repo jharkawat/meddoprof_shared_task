@@ -1,0 +1,16 @@
+
+Los	O
+antecedentes	O
+urológicos	O
+previos	O
+han	O
+sido	O
+,	O
+según	O
+el	O
+paciente	O
+,	O
+de	O
+origen	O
+accidental	O
+.	O

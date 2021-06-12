@@ -1,0 +1,18 @@
+
+Pruebas	O
+complementarias	O
+:	O
+se	O
+solicita	O
+analítica	O
+con	O
+hemograma	O
+,	O
+coagulación	O
+,	O
+bioquímica	O
+y	O
+radiografía	O
+de	O
+abdomen	O
+.	O

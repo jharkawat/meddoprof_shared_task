@@ -1,0 +1,6 @@
+
+Eupneica	O
+respirando	O
+aire	O
+ambiente	O
+.	O

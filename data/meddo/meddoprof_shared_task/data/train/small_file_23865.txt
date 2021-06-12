@@ -1,0 +1,17 @@
+
+Tratamiento	O
+habitual	O
+:	O
+bisoprolol	O
+/	O
+hidroclorotiazida	O
+10	O
+/	O
+25mg	O
+,	O
+omeprazol	O
+,	O
+alprazolam	O
+,	O
+ibuprofeno	O
+.	O

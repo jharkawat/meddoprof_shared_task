@@ -1,0 +1,13 @@
+
+SaO2	O
+:	O
+97	O
+%	O
+(	O
+FIO	O
+:	O
+0	O
+.	O
+21	O
+)	O
+.	O

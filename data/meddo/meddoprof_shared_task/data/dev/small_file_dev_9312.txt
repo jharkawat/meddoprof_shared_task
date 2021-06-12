@@ -1,0 +1,19 @@
+
+Se	O
+inició	O
+piperacilina	O
+-	O
+tazobactam	O
+a	O
+dosis	O
+de	O
+4	O
+/	O
+0	O
+,	O
+5	O
+g	O
+cada	O
+8	O
+horas	O
+.	O

@@ -1,0 +1,31 @@
+Se describe el caso clínico de un adolescente de 18 años de edad, que fue atendido en el Servicio de Urgencias del Hospital Pediátrico Provincial José Martí Pérez de la provincia de Sancti Spíritus, remitido de su área de salud municipal debido a que 3 días antes había comenzado con fiebre de 38,5 grados centígrados que cedía fácilmente y con una frecuencia de dos picos diarios, unido a tos húmeda ocasional y falta de aire. A través del interrogatorio se supo que había tenido dos vómitos con restos de alimentos, precedidos de náuseas.
+
+Como antecedentes patológicos personales presentaba hipertensión arterial crónica esencial desde hacía 8 años, para lo cual le habían prescrito tratamiento con captopril, que había abandonado espontáneamente varios meses atrás; también padecía parálisis braquial del lado izquierdo, con limitaciones en la movilidad y fuerza del miembro afectado, y obesidad mórbida de grado II, con un índice de masa corporal superior a 35 kg/m2. El paciente refirió, además, ser alérgico a la penicilina.
+
+Examen físico
+• Aparato respiratorio: Al auscultarlo, se detectó murmullo vesicular disminuido hacia la base pulmonar derecha y polipnea leve de acuerdo a su edad.
+• Aparato cardiovascular: La tensión arterial era de 150/90 mmHg.
+
+Exámenes complementarios
+• Leucograma con diferencial: Leucocitosis ligera, neutrofilia.
+• Rayos X de tórax posteroanterior, de pie y a distancia de tele: Índice cardiotorácico que parecía estar dentro de los límites normales. Presencia de radiopacidad homogénea en la base pulmonar derecha que borraba el ángulo cardiofrénico de ese lado.
+
+Se decidió su ingreso inmediato con el diagnóstico de neumonía adquirida en la comunidad no complicada en la base pulmonar derecha y se inició terapia poliantimicrobiana y con oseltamivir.
+
+Tras 48 horas de evolución se constataron cifras tensionales elevadas de 150/100 mmHg y se solicitó interconsulta con la especialidad de Cardiología, donde se concluyó, luego de realizar una ecocardiografía que no mostró alteración alguna, que el paciente presentaba el corazón sano y se retomó el tratamiento convencional antihipertensivo, con lo cual se logró el descenso gradual de las cifras tensionales hasta su normalización.
+
+Asimismo, se indicaron otras pruebas necesarias para determinar el estado clínico del paciente.
+
+Exámenes de seguimiento
+• Ecografía abdominal y de ambas bases pulmonares: Reveló derrame pleural en el receso posterior de 11,5 mm, en la base izquierda. Hígado con leve aumento de la ecogenicidad y líquido libre de pequeña cuantía en el hipogastrio.
+•  Radiografía de tórax de seguimiento: En el informe radiológico se describió la existencia de un moteado algodonoso difuso en ambos campos pulmonares y signos de derrame pleural en el izquierdo.
+• Perfil hepatorrenal: Sin alteraciones.
+• Hemoglobina: Ligeramente disminuida para su edad.
+• Leucograma: Granulaciones tóxicas y eritrosedimentación acelerada.
+• Gasometría: Normal.
+
+Se encontraba pendiente el resultado de la técnica de reacción en cadena de la polimerasa (PCR) en tiempo real, indicado al ingreso de acuerdo a los protocolos establecidos para todo paciente con infección respiratoria aguda de los hospitales.
+
+El resultado de la prueba era positivo en COVID-19; sin embargo, el paciente no presentaba historia epidemiológica de previo contacto con algún caso confirmado. Inmediatamente se coordinó su traslado hacia el Hospital Militar Comandante Manuel Fajardo Rivero en la provincia de Villa Clara, donde recibiría el tratamiento indicado al respecto.
+
+Afortunadamente se logró la estabilización del cuadro clínico del paciente, el cual tuvo una evolución favorable. Tras cumplir el periodo de vigilancia epidemiológica, se le dio el alta hospitalaria y regresó a su domicilio.

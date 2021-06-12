@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+tenía	O
+una	O
+conciencia	O
+parcial	O
+de	O
+enfermedad	O
+y	O
+mejoró	O
+con	O
+el	O
+uso	O
+de	O
+un	O
+antipsicótico	O
+vía	O
+parenteral	O
+(	O
+palmitato	O
+de	O
+paliperidona	O
+)	O
+.	O

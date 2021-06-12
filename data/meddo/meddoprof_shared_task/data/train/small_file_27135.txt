@@ -1,0 +1,26 @@
+
+Actitud	O
+muy	O
+colaboradora	O
+,	O
+normativa	O
+,	O
+complaciente	O
+y	O
+seductora	O
+;	O
+contacto	O
+con	O
+facultativo	B-PROFESION
+y	O
+familia	O
+infantiloide	O
+y	O
+regresiva	O
+;	O
+sintónico	O
+y	O
+contacto	O
+visual	O
+adecuado	O
+.	O

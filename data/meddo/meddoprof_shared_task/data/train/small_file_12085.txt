@@ -1,0 +1,23 @@
+
+Paciente	O
+de	O
+60	O
+an	O
+̃	O
+os	O
+que	O
+ingresa	O
+a	O
+cargo	O
+de	O
+Medicina	O
+Interna	O
+para	O
+estudio	O
+de	O
+cefalea	O
+refractaria	O
+a	O
+tratamiento	O
+domiciliario	O
+.	O

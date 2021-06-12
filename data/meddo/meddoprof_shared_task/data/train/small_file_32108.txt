@@ -1,0 +1,18 @@
+
+Cita	O
+en	O
+7	O
+días	O
+en	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+de	O
+Adultos	O
+(	O
+USMA	O
+)	O
+de	O
+referencia	O
+.	O

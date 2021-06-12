@@ -1,0 +1,14 @@
+
+Paciente	O
+pendiente	O
+de	O
+valoración	O
+por	O
+Oncología	O
+Radioterápica	O
+para	O
+posibilidad	O
+de	O
+tratamiento	O
+holocraneal	O
+.	O

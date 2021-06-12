@@ -1,0 +1,113 @@
+T1	SINTOMA 299 316	dolores de cabeza
+T2	SINTOMA 318 325	nauseas
+T3	SINTOMA 328 351	dolor en todo el cuerpo
+T4	SINTOMA 354 363	cansancio
+T5	SINTOMA 2006 2028	cansancio inexplicable
+T6	SINTOMA 2099 2104	tenso
+T7	SINTOMA 2107 2114	cansado
+T8	SINTOMA 2619 2628	deprimido
+T9	SINTOMA 2657 2707	disminución de su capacidad de experimentar placer
+T10	SINTOMA 2710 2717	alegría
+T11	SINTOMA 3443 3451	abstemio
+T12	SINTOMA 4314 4346	dificultades leves en la memoria
+T13	SINTOMA 4572 4591	síntomas cognitivos
+T14	PROCEDIMIENTO 2390 2405	estudio general
+T15	PROCEDIMIENTO 3592 3595	EEG
+T16	PROCEDIMIENTO 4937 4940	EEG
+T17	NEG 134 136	no
+T18	NSCO 137 207	se había recuperado totalmente de una gripe severa 3 o 4 semanas antes
+T19	NEG 515 517	no
+T20	NSCO 518 563	podía recordar lo que había leído o escuchado
+T21	NEG 657 659	no
+T22	NSCO 660 702	podía tomar ni siquiera decisiones menores
+T23	NEG 905 907	no
+T24	NSCO 908 936	podía recordar algunas cosas
+T25	NEG 1013 1015	no
+T26	NSCO 1016 1046	se había recuperado totalmente
+T27	NEG 1510 1512	No
+T28	NSCO 1513 1577	hay información acerca de alguna enfermedad mental en la familia
+T29	NEG 1962 1967	Nunca
+T30	NSCO 1968 2028	tuvo cambios de humor ni episodios de cansancio inexplicable
+T31	NEG 2232 2237	Nunca
+T32	NSCO 2238 2281	había tenido problemas semejantes al actual
+T33	NEG 2410 2412	no
+T34	NSCO 2413 2433	mostró anormalidades
+T35	NEG 2586 2588	no
+T36	NSCO 2589 2717	se lo observaba ni cansado ni deprimido y negó pérdida de interés o disminución de su capacidad de experimentar placer o alegría
+T37	NEG 2750 2752	no
+T38	NSCO 2753 2813	se observó ningún impedimento en su entendimiento o atención
+T39	NEG 3219 3221	no
+T40	NSCO 3222 3256	mostraban ningún impedimento grave
+T41	NEG 3316 3318	No
+T42	NSCO 3319 3391	se sospechó de ninguna alteración senso-perceptiva o trastorno delirante
+T43	NEG 3454 3459	nunca
+T44	NSCO 3460 3494	haber tomado medicamentos o drogas
+T45	NEG 3543 3545	no
+T46	NSCO 3546 3569	revelaron anormalidades
+T47	NEG 3800 3806	ningún
+T48	NSCO 3807 3825	tipo de medicación
+T49	NEG 3919 3931	desaparecido
+T50	UNC 4552 4558	podría
+T51	USCO 4559 4591	explicar los síntomas cognitivos
+T52	NEG 4788 4790	No
+T53	NSCO 4791 4865	había tampoco evidencia de un síndrome amnésico o de un estado de delirium
+T54	UNC 4870 4881	sospecha de
+T55	USCO 4882 4898	un síndrome post
+T56	NEG 4912 4914	no
+T57	NSCO 4915 4926	era fundada
+T58	NEG 4953 4955	No
+T59	NSCO 4956 4992	se sospechó de otro trastorno mental
+T60	NEG 4995 4997	no
+T61	NSCO 4998 5067	había antecedentes de consumo de alcohol o de sustancias psicoactivas
+T62	ORG_VIVO 3 11	paciente
+T63	ORG_VIVO 31 35	juez
+T64	ORG_VIVO 77 85	paciente
+T65	ORG_VIVO 101 115	médico clínico
+T66	ORG_VIVO 222 229	enfermo
+T67	ORG_VIVO 1115 1129	médico clínico
+T68	ORG_VIVO 1188 1196	paciente
+T69	ORG_VIVO 1219 1224	hijos
+T70	ORG_VIVO 1229 1234	padre
+T71	ORG_VIVO 1239 1249	carpintero
+T72	ORG_VIVO 1255 1262	familia
+T73	ORG_VIVO 1299 1306	hermana
+T74	ORG_VIVO 1385 1390	árbol
+T75	ORG_VIVO 1395 1401	esposo
+T76	ORG_VIVO 1456 1461	padre
+T77	ORG_VIVO 1487 1492	madre
+T78	ORG_VIVO 1570 1577	familia
+T79	ORG_VIVO 1617 1625	paciente
+T80	ORG_VIVO 1777 1786	enfermera
+T81	ORG_VIVO 1825 1830	hijos
+T82	ORG_VIVO 1836 1841	hijos
+T83	ORG_VIVO 1890 1898	paciente
+T84	ORG_VIVO 2046 2053	persona
+T85	ORG_VIVO 2068 2079	trabajadora
+T86	ORG_VIVO 2501 2509	paciente
+T87	ORG_VIVO 4296 4304	paciente
+T88	ORG_VIVO 5072 5080	paciente
+T89	ENFERMEDAD 175 187	gripe severa
+T90	ENFERMEDAD 1443 1451	suicidio
+T91	ENFERMEDAD 1546 1563	enfermedad mental
+T92	ENFERMEDAD 2312 2323	apendicitis
+T93	ENFERMEDAD 3372 3391	trastorno delirante
+T94	ENFERMEDAD 4461 4473	gripe severa
+T95	ENFERMEDAD 4511 4542	disfunción cerebral transitoria
+T96	ENFERMEDAD 4778 4786	demencia
+T97	ENFERMEDAD 4821 4838	síndrome amnésico
+T98	ENFERMEDAD 4857 4865	delirium
+T99	ENFERMEDAD 4885 4911	síndrome post-encefalítico
+T100	ENFERMEDAD 4976 4992	trastorno mental
+T101	ENFERMEDAD 5020 5038	consumo de alcohol
+T102	ENFERMEDAD 5044 5067	sustancias psicoactivas
+T103	ENFERMEDAD 5117 5144	trastorno cognoscitivo leve
+T104	ENFERMEDAD 5147 5180	F06.7 Trastorno cognoscitivo leve
+T105	PACIENTE-SITUACION_LABORAL 4086 4115	Comenzó a trabajar nuevamente
+T106	FAMILIAR-PROFESION 1239 1249	carpintero
+T107	FAMILIAR-PROFESION 1777 1786	enfermera
+T108	PACIENTE-PROFESION 31 35	juez
+T109	PACIENTE-PROFESION 1725 1729	juez
+T110	SANITARIO-PROFESION 101 115	médico clínico
+T111	PACIENTE-SITUACION_LABORAL 4166 4183	retomó su trabajo
+T112	SANITARIO-PROFESION 1115 1129	médico clínico
+T113	PACIENTE-PROFESION 1680 1718	siguió su carrera en el poder judicial

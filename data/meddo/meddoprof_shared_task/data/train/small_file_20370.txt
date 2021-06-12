@@ -1,0 +1,22 @@
+
+En	O
+cuarto	O
+grado	O
+empezó	O
+a	O
+acudir	O
+semana	O
+a	O
+un	O
+psiquiatra	B-PROFESION
+para	O
+recibir	O
+psicoterapia	O
+y	O
+medicación	O
+(	O
+quetiapina	O
+y	O
+dexmetilfenidato	O
+)	O
+.	O

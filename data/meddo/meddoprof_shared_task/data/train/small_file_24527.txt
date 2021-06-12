@@ -1,0 +1,13 @@
+
+Tiene	O
+un	O
+trato	O
+interpersonal	O
+adecuado	O
+,	O
+a	O
+la	O
+vez	O
+que	O
+jocoso	O
+.	O

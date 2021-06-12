@@ -1,0 +1,21 @@
+
+Varón	O
+de	O
+77	O
+años	O
+con	O
+antecedentes	O
+personales	O
+de	O
+dislipemia	O
+,	O
+hernias	O
+discales	O
+no	O
+intervenidas	O
+y	O
+sin	O
+antecedentes	O
+de	O
+criptorquidia	O
+.	O

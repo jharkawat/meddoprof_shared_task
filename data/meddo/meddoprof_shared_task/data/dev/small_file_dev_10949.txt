@@ -1,0 +1,8 @@
+
+Decúbito	O
+:	O
+Decúbito	O
+Dorsal	O
+Activo	O
+Obligado	O
+.	O

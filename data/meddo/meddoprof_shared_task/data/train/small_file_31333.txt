@@ -1,0 +1,23 @@
+
+En	O
+conclusión	O
+,	O
+los	O
+resultados	O
+reflejan	O
+una	O
+capacidad	O
+intelectual	O
+promedio	O
+lo	O
+que	O
+indica	O
+que	O
+posee	O
+un	O
+buen	O
+funcionamiento	O
+cognitivo	O
+en	O
+general	O
+.	O

@@ -1,0 +1,13 @@
+
+Se	O
+le	O
+mantiene	O
+el	O
+tratamiento	O
+dispensado	O
+y	O
+financiado	O
+desde	O
+el	O
+centro	O
+.	O

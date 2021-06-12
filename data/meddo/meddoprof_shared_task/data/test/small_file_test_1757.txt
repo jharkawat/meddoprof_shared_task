@@ -1,0 +1,27 @@
+
+Se	O
+ha	O
+utilizado	O
+una	O
+modificación	O
+del	O
+colgajo	O
+de	O
+Widman	O
+modificado	O
+,	O
+realizado	O
+con	O
+el	O
+objetivo	O
+de	O
+corregir	O
+las	O
+bolsas	O
+remanentes	O
+con	O
+profundidad	O
+≥	O
+5	O
+mm	O
+.	O

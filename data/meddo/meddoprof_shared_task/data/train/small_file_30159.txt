@@ -1,0 +1,18 @@
+
+Antecedentes	O
+familiares	O
+:	O
+primo	O
+hermano	O
+paterno	O
+con	O
+esquizofrenia	O
+y	O
+tía	O
+paterna	O
+con	O
+enfermedad	O
+mental	O
+no	O
+filiada	O
+.	O

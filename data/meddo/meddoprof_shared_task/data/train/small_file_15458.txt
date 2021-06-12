@@ -1,0 +1,17 @@
+
+Examen	O
+otorrinolaringológico	O
+,	O
+cardiovascular	O
+,	O
+respiratorio	O
+,	O
+abdominal	O
+,	O
+génitourinario	O
+,	O
+sin	O
+anomalidades	O
+de	O
+consideración	O
+.	O

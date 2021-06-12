@@ -1,0 +1,22 @@
+
+En	O
+la	O
+exploración	O
+se	O
+aprecia	O
+que	O
+se	O
+trata	O
+de	O
+un	O
+joven	O
+alto	O
+,	O
+delgado	O
+,	O
+bien	O
+aseado	O
+y	O
+con	O
+gafas	O
+.	O

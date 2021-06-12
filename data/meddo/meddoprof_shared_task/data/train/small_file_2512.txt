@@ -1,0 +1,12 @@
+
+El	O
+operario	B-PROFESION
+llevaba	O
+la	O
+ropa	O
+de	O
+trabajo	O
+a	O
+su	O
+domicilio	O
+.	O

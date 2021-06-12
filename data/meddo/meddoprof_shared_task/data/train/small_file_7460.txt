@@ -1,0 +1,17 @@
+
+Su	O
+trabajo	O
+consistía	O
+en	O
+taladrar	O
+las	O
+telas	O
+tratadas	O
+y	O
+posteriormente	O
+remachar	O
+con	O
+tornillos	O
+de	O
+titanio	O
+.	O

@@ -1,0 +1,12 @@
+
+No	O
+antecedentes	O
+personales	O
+médicos	O
+y	O
+/	O
+o	O
+quirúrgicos	O
+de	O
+interés	O
+.	O

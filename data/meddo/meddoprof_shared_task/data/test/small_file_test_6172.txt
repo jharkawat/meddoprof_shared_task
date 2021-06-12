@@ -1,0 +1,5 @@
+
+Profesión	O
+:	O
+mecánico	B-PROFESION
+.	O

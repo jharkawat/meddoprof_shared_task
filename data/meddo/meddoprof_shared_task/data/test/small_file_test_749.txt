@@ -1,0 +1,16 @@
+
+La	O
+causan	O
+heridas	O
+punzantes	O
+con	O
+astillas	O
+ó	O
+espinas	O
+contaminadas	O
+por	O
+el	O
+hongo	O
+Sporothrix	O
+Schenckii	O
+.	O

@@ -1,0 +1,17 @@
+
+Regular	O
+estado	O
+general	O
+,	O
+hipotensión	O
+,	O
+taquicardia	O
+,	O
+taquipnea	O
+,	O
+regurgitación	O
+yugular	O
+,	O
+pulso	O
+paradójico	O
+.	O

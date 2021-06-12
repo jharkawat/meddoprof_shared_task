@@ -1,0 +1,22 @@
+
+Ante	O
+una	O
+paciente	O
+grave	O
+,	O
+que	O
+no	O
+respondía	O
+al	O
+tratamiento	O
+instaurado	O
+,	O
+se	O
+decidió	O
+realizar	O
+una	O
+biopsia	O
+quirúrgica	O
+por	O
+videotoracoscopía	O
+.	O

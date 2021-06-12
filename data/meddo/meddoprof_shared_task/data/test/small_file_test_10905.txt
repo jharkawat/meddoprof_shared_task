@@ -1,0 +1,23 @@
+
+Ha	O
+sufrido	O
+tres	O
+procesos	O
+de	O
+gastroenteritis	O
+que	O
+precisaron	O
+ingreso	O
+hospitalario	O
+,	O
+el	O
+primero	O
+de	O
+ellos	O
+a	O
+los	O
+tres	O
+meses	O
+de	O
+vida	O
+.	O

@@ -1,0 +1,27 @@
+
+Se	O
+utiliza	O
+rifabutina	O
+en	O
+lugar	O
+de	O
+rifampicina	O
+si	O
+el	O
+TAR	O
+contiene	O
+inhibidores	O
+de	O
+la	O
+proteasa	O
+por	O
+la	O
+inducción	O
+de	O
+la	O
+rifampicina	O
+sobre	O
+el	O
+citocromo	O
+P3A4	O
+.	O

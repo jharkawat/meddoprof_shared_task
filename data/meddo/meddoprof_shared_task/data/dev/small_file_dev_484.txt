@@ -1,0 +1,25 @@
+
+En	O
+la	O
+última	O
+etapa	O
+de	O
+su	O
+enfermedad	O
+,	O
+se	O
+le	O
+administró	O
+TEC	O
+,	O
+con	O
+respuesta	O
+más	O
+que	O
+discreta	O
+y	O
+trastornos	O
+de	O
+memoria	O
+asociados	O
+.	O

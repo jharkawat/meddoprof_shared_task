@@ -1,0 +1,57 @@
+T1	SINTOMA 442 449	diarrea
+T2	SINTOMA 553 563	picor oral
+T3	PROCEDIMIENTO 264 280	antihistamínicos
+T4	NEG 33 47	negativos para
+T5	NSCO 48 54	atopia
+T6	NEG 171 174	sin
+T7	NSCO 175 208	pelar presentó urticaria en manos
+T8	NEG 482 485	sin
+T9	NSCO 486 510	otros síntomas asociados
+T10	NEG 605 610	nunca
+T11	NSCO 611 646	ha comido melocotón ni frutos secos
+T12	NEG 924 933	negativos
+T13	UNC 1358 1367	no parece
+T14	USCO 1368 1399	pertenecer al grupo de las LTPs
+T15	USCO 1400 1435	Prueba de exposición controlada(PEC
+T16	NEG 1449 1457	negativa
+T17	UNC 1709 1718	no parece
+T18	USCO 1719 1765	estar relacionada con su sensibilización a LTP
+T19	ORG_VIVO 0 4	Niño
+T20	ORG_VIVO 123 129	ácaros
+T21	ORG_VIVO 134 138	niño
+T22	ORG_VIVO 156 163	patatas
+T23	ORG_VIVO 327 336	melocotón
+T24	ORG_VIVO 412 420	calabaza
+T25	ORG_VIVO 423 432	calabacín
+T26	ORG_VIVO 533 540	Nutella
+T27	ORG_VIVO 573 579	patata
+T28	ORG_VIVO 621 630	melocotón
+T29	ORG_VIVO 735 744	legumbres
+T30	ORG_VIVO 753 760	harinas
+T31	ORG_VIVO 789 795	ácaros
+T32	ORG_VIVO 797 806	melocotón
+T33	ORG_VIVO 808 816	avellana
+T34	ORG_VIVO 818 822	nuez
+T35	ORG_VIVO 825 834	cacahuete
+T36	ORG_VIVO 872 878	patata
+T37	ORG_VIVO 976 1009	Dermatophagoides pteronyssinus:58
+T38	ORG_VIVO 1236 1253	hortalizas(patata
+T39	ORG_VIVO 1334 1340	patata
+T40	ORG_VIVO 1439 1448	cacahuete
+T41	ORG_VIVO 1465 1469	nuez
+T42	ORG_VIVO 1511 1515	nuez
+T43	ORG_VIVO 1561 1565	niño
+T44	ORG_VIVO 1606 1612	ácaros
+T45	ORG_VIVO 1653 1662	melocotón
+T46	ORG_VIVO 1691 1697	patata
+T47	ENFERMEDAD 48 54	atopia
+T48	ENFERMEDAD 61 79	Dermatitis atópica
+T49	ENFERMEDAD 81 103	Bronquitis disneizante
+T50	ENFERMEDAD 190 208	urticaria en manos
+T51	ENFERMEDAD 210 227	angioedema labial
+T52	ENFERMEDAD 230 243	conjuntivitis
+T53	ENFERMEDAD 1471 1481	anafilaxia
+T54	ENFERMEDAD 1570 1588	dermatitis atópica
+T55	ENFERMEDAD 1629 1641	Síndrome LTP
+T56	ENFERMEDAD 1643 1677	alergia a melocotón y frutos secos
+T57	ENFERMEDAD 1681 1703	alergia a patata cruda

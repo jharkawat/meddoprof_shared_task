@@ -1,0 +1,25 @@
+
+-	O
+Echinococcus	O
+granulosus	O
+:	O
+el	O
+humano	O
+se	O
+infecta	O
+por	O
+la	O
+ingestion	O
+de	O
+huevos	O
+de	O
+Echinococcus	O
+presentes	O
+en	O
+alimentos	O
+,	O
+agua	O
+o	O
+suelos	O
+contaminados	O
+.	O

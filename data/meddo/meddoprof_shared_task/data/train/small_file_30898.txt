@@ -1,0 +1,25 @@
+
+Convive	O
+con	O
+su	O
+madre	O
+de	O
+81	O
+años	O
+y	O
+una	O
+hermana	O
+soltera	O
+que	O
+es	O
+la	O
+principal	B-SITUACION_LABORAL
+cuidadora	I-SITUACION_LABORAL
+;	O
+el	O
+resto	O
+de	O
+hermanos	O
+están	O
+independizados	O
+.	O

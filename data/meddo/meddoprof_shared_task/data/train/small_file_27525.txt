@@ -1,0 +1,20 @@
+
+En	O
+los	O
+"	O
+enfados	O
+"	O
+puede	O
+llegar	O
+a	O
+insultarle	O
+y	O
+referir	O
+que	O
+Ana	O
+se	O
+encuentra	O
+"	O
+endemoniada	O
+"	O
+.	O

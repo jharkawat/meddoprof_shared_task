@@ -1,0 +1,9 @@
+
+Masa	O
+en	O
+mediastino	O
+anterosuperior	O
+y	O
+aorta	O
+ascendente	O
+.	O

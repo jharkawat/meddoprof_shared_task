@@ -1,0 +1,16 @@
+
+Siempre	O
+había	O
+estado	O
+orgullosa	O
+de	O
+su	O
+forma	O
+de	O
+cocinar	O
+pero	O
+ahora	O
+arruinaba	O
+la	O
+comida	O
+.	O

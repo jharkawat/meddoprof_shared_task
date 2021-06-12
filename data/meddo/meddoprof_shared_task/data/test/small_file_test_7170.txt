@@ -1,0 +1,19 @@
+
+En	O
+la	O
+recaída	O
+,	O
+mostró	O
+empeoramiento	O
+de	O
+la	O
+situación	O
+basal	O
+con	O
+ECOG	O
+1	O
+a	O
+causa	O
+del	O
+dolor	O
+.	O

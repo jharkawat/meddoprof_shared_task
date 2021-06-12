@@ -1,0 +1,19 @@
+
+La	O
+presión	O
+arterial	O
+es	O
+130	O
+/	O
+85	O
+mmHg	O
+,	O
+y	O
+la	O
+frecuencia	O
+cardiaca	O
+90	O
+sístole	O
+/	O
+minuto	O
+.	O

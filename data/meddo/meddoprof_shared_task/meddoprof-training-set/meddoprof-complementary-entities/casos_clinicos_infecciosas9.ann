@@ -1,0 +1,162 @@
+T1	SINTOMA 261 321	cefalea continua frontal que se irradiaba a región occipital
+T2	SINTOMA 372 378	fiebre
+T3	SINTOMA 414 421	vómitos
+T4	SINTOMA 729 735	febril
+T5	SINTOMA 874 895	focalidad neurológica
+T6	SINTOMA 915 928	rigidez nucal
+T7	SINTOMA 961 973	leucocitosis
+T8	SINTOMA 1567 1579	glucorraquia
+T9	SINTOMA 3297 3303	febril
+T10	SINTOMA 3325 3332	cefalea
+T11	SINTOMA 3335 3342	vómitos
+T12	SINTOMA 5693 5700	afebril
+T13	PROCEDIMIENTO 482 491	anamnesis
+T14	PROCEDIMIENTO 663 681	exploración física
+T15	PROCEDIMIENTO 937 946	hemograma
+T16	PROCEDIMIENTO 1072 1081	hemograma
+T17	PROCEDIMIENTO 1152 1172	radiografía de tórax
+T18	PROCEDIMIENTO 1285 1299	punción lumbar
+T19	PROCEDIMIENTO 1308 1320	fondo de ojo
+T20	PROCEDIMIENTO 1464 1487	tinción de Gram del LCR
+T21	PROCEDIMIENTO 1994 2009	cultivos de LCR
+T22	PROCEDIMIENTO 2024 2036	hemocultivos
+T23	PROCEDIMIENTO 2958 2990	antiinflamatorios no esteroideos
+T24	PROCEDIMIENTO 3152 3174	test de reagina en LCR
+T25	PROCEDIMIENTO 3388 3425	tomografía computarizada (TC) craneal
+T26	PROCEDIMIENTO 3441 3443	TC
+T27	PROCEDIMIENTO 3666 3678	TC de cráneo
+T28	PROCEDIMIENTO 3694 3716	reconstrucción sagital
+T29	PROCEDIMIENTO 3934 3968	reconstrucción tridimensional ósea
+T30	PROCEDIMIENTO 4021 4033	TC de cráneo
+T31	PROCEDIMIENTO 4069 4103	reconstrucción tridimensional ósea
+T32	PROCEDIMIENTO 4339 4372	resonancia magnética (RM) craneal
+T33	PROCEDIMIENTO 4516 4528	RM de cráneo
+T34	PROCEDIMIENTO 4576 4587	craneotomía
+T35	PROCEDIMIENTO 4887 4908	craneotomía bifrontal
+T36	PROCEDIMIENTO 4914 4938	trépano parietal derecho
+T37	PROCEDIMIENTO 4980 5011	cranealización del seno frontal
+T38	PROCEDIMIENTO 5023 5039	colgajo de gálea
+T39	PROCEDIMIENTO 5205 5217	hemocultivos
+T40	PROCEDIMIENTO 5220 5234	cultivo de LCR
+T41	PROCEDIMIENTO 5485 5507	antibiótica endovenosa
+T42	PROCEDIMIENTO 5790 5792	RM
+T43	PROCEDIMIENTO 5853 5865	RM de cráneo
+T44	PROCEDIMIENTO 5921 5932	craneotomía
+T45	NEG 44 47	sin
+T46	NSCO 48 84	antecedentes ni tratamiento habitual
+T47	NEG 169 171	No
+T48	NSCO 172 200	refería ningún hábito tóxico
+T49	NEG 437 439	No
+T50	NSCO 440 514	presentaba otra clínica en el resto de la anamnesis por órganos y aparatos
+T51	NEG 870 873	sin
+T52	NSCO 874 895	focalidad neurológica
+T53	NEG 1173 1175	no
+T54	NSCO 1176 1256	mostraba ninguna condensación, adenopatías hiliares ni signos de derrame pleural
+T55	NEG 1325 1333	descartó
+T56	NSCO 1334 1359	la presencia de papilitis
+T57	NEG 1492 1500	negativa
+T58	NSCO 1501 1519	con una bioquímica
+T59	UNC 1778 1785	posible
+T60	USCO 1786 1833	etiología tuberculosa con cobertura antibiótica
+T61	NSCO 1994 2036	cultivos de LCR, serologías y hemocultivos
+T62	NEG 2876 2878	no
+T63	NSCO 2879 2889	infecciosa
+T64	NEG 2976 2978	no
+T65	NSCO 2979 2990	esteroideos
+T66	NEG 3129 3138	negativas
+T67	UNC 3974 3982	probable
+T68	USCO 3983 4018	origen parameníngeo de la colección
+T69	NEG 5184 5200	Concurrentemente
+T70	NSCO 5201 5234	Los hemocultivos y cultivo de LCR
+T71	NEG 5306 5315	negativos
+T72	NEG 5693 5700	afebril
+T73	NEG 5719 5722	sin
+T74	NSCO 5723 5767	presentar clínica neurológica de ningún tipo
+T75	NEG 6052 6054	no
+T76	NSCO 6055 6062	evacuar
+T77	NEG 6073 6080	tampoco
+T78	NSCO 6081 6110	el resto de senos paranasales
+T79	NEG 6217 6229	asintomático
+T80	NEG 6232 6235	sin
+T81	NSCO 6236 6281	recurrencias del proceso en el momento actual
+T82	FARMACO 549 560	amoxicilina
+T83	FARMACO 563 573	ibuprofeno
+T84	FARMACO 1835 1846	ceftriaxona
+T85	FARMACO 1849 1860	vancomicina
+T86	FARMACO 1864 1873	aciclovir
+T87	FARMACO 2992 3004	cotrimoxazol
+T88	FARMACO 5523 5533	cefotaxima
+T89	FARMACO 5558 5570	metronidazol
+T90	ORG_VIVO 0 5	Varón
+T91	ORG_VIVO 132 139	familia
+T92	ORG_VIVO 600 627	médico de Atención Primaria
+T93	ORG_VIVO 1660 1668	paciente
+T94	ORG_VIVO 2297 2311	Treponema spp.
+T95	ORG_VIVO 2312 2325	Borrelia spp.
+T96	ORG_VIVO 2462 2478	Rickettsias spp.
+T97	ORG_VIVO 2480 2497	Coxiella burnetti
+T98	ORG_VIVO 2635 2638	VIH
+T99	ORG_VIVO 3040 3051	enterovirus
+T100	ORG_VIVO 3053 3064	herpesvirus
+T101	ORG_VIVO 3066 3077	parotiditis
+T102	ORG_VIVO 3079 3092	virus Toscana
+T103	ORG_VIVO 3095 3121	Mycobacterium tuberculosis
+T104	ORG_VIVO 3190 3193	VIH
+T105	ORG_VIVO 3195 3203	Borrelia
+T106	ORG_VIVO 3205 3223	Treponema pallidum
+T107	ORG_VIVO 3225 3240	Rickettsias spp
+T108	ORG_VIVO 3243 3260	Coxiella burnetti
+T109	ORG_VIVO 3278 3286	paciente
+T110	ORG_VIVO 4323 4331	paciente
+T111	ORG_VIVO 5275 5288	micobacterias
+T112	ORG_VIVO 5291 5297	hongos
+T113	ORG_VIVO 5374 5400	Streptococcus constellatus
+T114	ORG_VIVO 5403 5418	Prevotella oris
+T115	ORG_VIVO 5651 5659	paciente
+T116	ENFERMEDAD 1207 1227	adenopatías hiliares
+T117	ENFERMEDAD 1241 1256	derrame pleural
+T118	ENFERMEDAD 1350 1359	papilitis
+T119	ENFERMEDAD 1693 1717	Enfermedades Infecciosas
+T120	ENFERMEDAD 1751 1774	meningitis linfocitaria
+T121	ENFERMEDAD 1796 1807	tuberculosa
+T122	ENFERMEDAD 2097 2120	meningitis linfocitaria
+T123	ENFERMEDAD 2167 2188	Meningitis bacteriana
+T124	ENFERMEDAD 2192 2215	Meningitis parcialmente
+T125	ENFERMEDAD 2227 2264	Meningitis por Listeria monocytogenes
+T126	ENFERMEDAD 2268 2310	Meningitis por espiroquetas (Treponema spp
+T127	ENFERMEDAD 2330 2364	Endocarditis infecciosa bacteriana
+T128	ENFERMEDAD 2376 2411	supurativos por focos parameníngeos
+T129	ENFERMEDAD 2415 2477	Meningitis por microorganismos intracelulares (Rickettsias spp
+T130	ENFERMEDAD 2501 2518	Meningitis vírica
+T131	ENFERMEDAD 2522 2548	Meningitis por enterovirus
+T132	ENFERMEDAD 2552 2578	Meningitis por herpesvirus
+T133	ENFERMEDAD 2582 2633	Meningitis por virus de la inmunodeficiencia humana
+T134	ENFERMEDAD 2635 2638	VIH
+T135	ENFERMEDAD 2643 2668	Meningitis por adenovirus
+T136	ENFERMEDAD 2672 2727	Meningitis por virus de la coriomeningitis linfocitaria
+T137	ENFERMEDAD 2731 2760	Meningitis por influenzavirus
+T138	ENFERMEDAD 2764 2790	Meningitis por parotiditis
+T139	ENFERMEDAD 2794 2818	Meningitis por arbovirus
+T140	ENFERMEDAD 2820 2842	Meningitis tuberculosa
+T141	ENFERMEDAD 2844 2862	Meningitis fúngica
+T142	ENFERMEDAD 2865 2890	Meningitis no infecciosa:
+T143	ENFERMEDAD 2891 2914	• Meningitis neoplásica
+T144	ENFERMEDAD 2918 2934	Neurosarcoidosis
+T145	ENFERMEDAD 2938 2956	Meningitis química
+T146	ENFERMEDAD 3462 3497	colección líquida a nivel bifrontal
+T147	ENFERMEDAD 3611 3621	cerebritis
+T148	ENFERMEDAD 3769 3785	empiema epidural
+T149	ENFERMEDAD 4225 4241	empiema epidural
+T150	ENFERMEDAD 4491 4498	empiema
+T151	ENFERMEDAD 4625 4632	empiema
+T152	ENFERMEDAD 4674 4733	pansinusitis de ambos senos maxilares, frontales y etmoidal
+T153	ENFERMEDAD 5123 5140	plastrón epidural
+T154	ENFERMEDAD 5836 5843	empiema
+T155	ENFERMEDAD 5983 5990	empiema
+T156	ENFERMEDAD 6174 6181	empiema
+T157	ENFERMEDAD 6190 6202	pansinusitis
+T158	ENFERMEDAD 6330 6346	empiema epidural
+T159	ENFERMEDAD 6349 6372	subdural polimicrobiano
+T160	ENFERMEDAD 6386 6395	sinusitis
+T161	ENFERMEDAD 6400 6443	fístula de pared posterior del seno frontal
+T162	SANITARIO-PROFESION 600 627	médico de Atención Primaria

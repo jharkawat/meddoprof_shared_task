@@ -1,0 +1,16 @@
+
+Reiterados	O
+ingresos	O
+en	O
+psiquiatría	O
+hospitalaria	O
+:	O
+2009	O
+,	O
+2012	O
+y	O
+2015	O
+por	O
+episodios	O
+similares	O
+.	O

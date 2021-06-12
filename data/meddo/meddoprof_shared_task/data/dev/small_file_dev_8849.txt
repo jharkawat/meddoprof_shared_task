@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+se	O
+ingresa	O
+con	O
+shock	O
+séptico	O
+de	O
+origen	O
+respiratorio	O
+,	O
+pancitopenia	O
+y	O
+hepatomegalia	O
+.	O

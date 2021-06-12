@@ -1,0 +1,10 @@
+
+No	O
+refería	O
+haber	O
+tenido	O
+fiebre	O
+ni	O
+expectoración	O
+purulenta	O
+.	O

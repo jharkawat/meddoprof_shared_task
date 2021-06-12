@@ -1,0 +1,8 @@
+
+Peso	O
+al	O
+nacer	O
+de	O
+1245	O
+gramos	O
+.	O

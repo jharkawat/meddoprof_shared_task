@@ -1,0 +1,18 @@
+
+Tras	O
+inicio	O
+de	O
+tratamiento	O
+evolucionó	O
+favorablemente	O
+,	O
+permaneciendo	O
+afebril	O
+y	O
+con	O
+mejoría	O
+del	O
+dolor	O
+musculo	O
+esquelético	O
+.	O

@@ -1,0 +1,13 @@
+
+En	O
+consecuencia	O
+,	O
+abandona	B-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+actividad	I-SITUACION_LABORAL
+académica	I-SITUACION_LABORAL
+(	O
+grado	O
+superior	O
+)	O
+.	O

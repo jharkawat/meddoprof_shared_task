@@ -1,0 +1,11 @@
+
+Dejó	O
+de	O
+participar	O
+en	O
+el	O
+coro	O
+de	O
+la	O
+escuela	O
+.	O

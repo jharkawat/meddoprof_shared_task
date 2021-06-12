@@ -1,0 +1,26 @@
+
+La	O
+madre	O
+solicita	O
+tratamiento	O
+por	O
+consumo	O
+de	O
+cannabis	O
+y	O
+alcohol	O
+,	O
+junto	O
+con	O
+importantes	O
+problemas	O
+conductuales	O
+en	O
+el	O
+ámbito	O
+familiar	O
+,	O
+escolar	O
+y	O
+social	O
+.	O

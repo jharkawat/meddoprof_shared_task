@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+ingresa	O
+en	O
+Medicina	O
+Interna	O
+tras	O
+valoración	O
+por	O
+Psiquiatría	O
+.	O

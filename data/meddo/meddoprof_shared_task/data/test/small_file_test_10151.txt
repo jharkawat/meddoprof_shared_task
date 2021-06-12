@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+refería	O
+tos	O
+sin	O
+expectoración	O
+desde	O
+hacía	O
+2	O
+meses	O
+junto	O
+con	O
+sensación	O
+distérmica	O
+,	O
+pero	O
+sin	O
+fiebre	O
+termometrada	O
+.	O

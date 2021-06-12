@@ -1,0 +1,10 @@
+
+-	O
+Artritis	O
+séptica	O
+en	O
+la	O
+articulación	O
+esternoclavicular	O
+izquierda	O
+.	O

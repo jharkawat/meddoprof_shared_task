@@ -1,0 +1,10 @@
+
+No	O
+ha	O
+regresado	O
+a	O
+su	O
+país	O
+de	O
+origen	O
+.	O

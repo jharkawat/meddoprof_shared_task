@@ -1,0 +1,16 @@
+
+Como	O
+antecedentes	O
+,	O
+refiere	O
+tabaquismo	O
+y	O
+bebedor	O
+activo	O
+,	O
+sin	O
+otros	O
+antecedentes	O
+de	O
+interés	O
+.	O

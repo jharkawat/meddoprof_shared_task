@@ -1,0 +1,25 @@
+
+La	O
+exploración	O
+neurológica	O
+,	O
+salvo	O
+reflejo	O
+cutáneo	O
+-	O
+plantar	O
+indiferente	O
+bilateral	O
+,	O
+fue	O
+rigurosamente	O
+normal	O
+,	O
+incluyendo	O
+la	O
+memoria	O
+episódica	O
+y	O
+la	O
+atención	O
+.	O

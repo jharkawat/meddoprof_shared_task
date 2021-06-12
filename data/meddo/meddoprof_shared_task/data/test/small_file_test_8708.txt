@@ -1,0 +1,8 @@
+
+No	O
+sufre	O
+dolor	O
+en	O
+la	O
+palpación	O
+.	O

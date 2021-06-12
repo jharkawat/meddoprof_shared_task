@@ -1,0 +1,5 @@
+
+Márgenes	O
+quirúrgicos	O
+libres	O
+.	O

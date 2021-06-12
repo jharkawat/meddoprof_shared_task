@@ -1,0 +1,18 @@
+
+Dos	O
+burbujas	O
+de	O
+aire	O
+de	O
+neumoencefalo	O
+en	O
+pared	O
+de	O
+clivus	O
+con	O
+densidad	O
+de	O
+partes	O
+blandas	O
+epidural	O
+.	O

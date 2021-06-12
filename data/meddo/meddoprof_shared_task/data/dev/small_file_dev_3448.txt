@@ -1,0 +1,10 @@
+
+En	O
+el	O
+hogar	O
+las	O
+condiciones	O
+socioeconómicas	O
+eran	O
+adecuadas	O
+.	O

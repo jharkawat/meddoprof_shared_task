@@ -1,0 +1,26 @@
+
+En	O
+cuadrante	O
+externo	O
+superior	O
+de	O
+mama	O
+derecha	O
+,	O
+lesión	O
+nodular	O
+muy	O
+irregular	O
+mal	O
+delimitada	O
+,	O
+con	O
+múltiples	O
+calcificaciones	O
+en	O
+su	O
+interior	O
+y	O
+vascularización	O
+patológica	O
+.	O

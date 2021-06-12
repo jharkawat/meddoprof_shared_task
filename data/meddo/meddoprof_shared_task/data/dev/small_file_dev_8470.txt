@@ -1,0 +1,12 @@
+
+La	O
+etiología	O
+vírica	O
+queda	O
+descartada	O
+por	O
+la	O
+duración	O
+del	O
+cuadro	O
+.	O

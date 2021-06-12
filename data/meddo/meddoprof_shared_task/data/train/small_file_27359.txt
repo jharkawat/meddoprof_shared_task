@@ -1,0 +1,6 @@
+
+Ejerce	O
+la	O
+figura	O
+paterna	O
+.	O

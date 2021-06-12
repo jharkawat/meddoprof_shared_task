@@ -1,0 +1,9 @@
+
+Vive	O
+con	O
+la	O
+madre	O
+y	O
+la	O
+hermana	O
+.	O

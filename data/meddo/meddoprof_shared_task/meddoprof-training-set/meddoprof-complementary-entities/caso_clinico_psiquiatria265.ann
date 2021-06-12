@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 126 156	tratamiento con antipsicóticos
+T2	PROCEDIMIENTO 289 304	benzodiacepinas
+T3	PROCEDIMIENTO 307 332	terapia electroconvulsiva
+T4	PROCEDIMIENTO 418 433	benzodiacepinas
+T5	UNC 214 228	compatible con
+T6	USCO 229 238	catatonia
+T7	NEG 251 262	se descarta
+T8	NSCO 263 275	causa médica
+T9	NEG 443 451	retirada
+T10	ORG_VIVO 26 40	paciente varón
+T11	ENFERMEDAD 87 105	síndrome psicótico
+T12	ENFERMEDAD 229 238	catatonia

@@ -1,0 +1,18 @@
+
+Por	O
+ese	O
+motivo	O
+es	O
+derivado	O
+a	O
+consultas	O
+de	O
+psiquiatría	O
+que	O
+el	O
+paciente	O
+abandonó	O
+tras	O
+pocas	O
+visitas	O
+.	O

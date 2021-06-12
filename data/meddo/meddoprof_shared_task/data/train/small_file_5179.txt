@@ -1,0 +1,8 @@
+
+Asocia	O
+perdida	O
+ponderal	O
+en	O
+últimos	O
+meses	O
+.	O

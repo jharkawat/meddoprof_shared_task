@@ -1,0 +1,17 @@
+
+En	O
+su	O
+interior	O
+contiene	O
+moco	O
+(	O
+AA	O
+-	O
+PAS	O
+y	O
+PAS	O
+-	O
+Diastasa	O
+positivo	O
+)	O
+.	O

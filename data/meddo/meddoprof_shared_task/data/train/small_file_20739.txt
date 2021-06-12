@@ -1,0 +1,9 @@
+
+ADA	O
+(	O
+adenosín	O
+-	O
+deaminasa	O
+)	O
+negativo	O
+.	O

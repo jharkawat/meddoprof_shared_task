@@ -1,0 +1,25 @@
+
+Manifestaciones	O
+clínicas	O
+más	O
+frecuentes	O
+:	O
+cefalea	O
+de	O
+predominio	O
+temporal	O
+,	O
+malestar	O
+general	O
+,	O
+anorexia	O
+,	O
+fiebre	O
+,	O
+pérdida	O
+de	O
+peso	O
+y	O
+claudicación	O
+mandibular	O
+.	O

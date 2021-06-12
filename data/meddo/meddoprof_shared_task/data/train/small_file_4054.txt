@@ -1,0 +1,27 @@
+
+En	O
+cuanto	O
+a	O
+su	O
+estado	O
+de	O
+ánimo	O
+,	O
+se	O
+encuentra	O
+algo	O
+más	O
+animada	O
+,	O
+consigue	O
+dormir	O
+mejor	O
+y	O
+que	O
+se	O
+siente	O
+motivada	O
+en	B-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+.	O

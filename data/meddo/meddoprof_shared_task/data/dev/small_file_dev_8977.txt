@@ -1,0 +1,22 @@
+
+Con	O
+este	O
+amplio	O
+abanico	O
+de	O
+posibilidades	O
+debemos	O
+encajar	O
+los	O
+datos	O
+que	O
+nos	O
+ofrece	O
+el	O
+paciente	O
+para	O
+llegar	O
+al	O
+diagnóstico	O
+definitivo	O
+.	O

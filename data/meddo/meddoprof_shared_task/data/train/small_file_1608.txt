@@ -1,0 +1,9 @@
+
+Edad	O
+:	O
+19	O
+años	O
+Sexo	O
+:	O
+Masculino	O
+.	O

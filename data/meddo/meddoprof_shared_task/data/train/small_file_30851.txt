@@ -1,0 +1,4 @@
+
+Padre	O
+fallecido	O
+.	O

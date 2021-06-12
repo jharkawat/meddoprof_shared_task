@@ -1,0 +1,12 @@
+
+Radiografía	O
+tórax	O
+:	O
+Enfisema	O
+subcutáneo	O
+supraclavicular	O
+bilateral	O
+e	O
+infraaxilar	O
+izquierdo	O
+.	O

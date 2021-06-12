@@ -1,0 +1,8 @@
+
+Intolerancia	O
+a	O
+varios	O
+neurolépticos	O
+por	O
+parkinsonismo	O
+.	O

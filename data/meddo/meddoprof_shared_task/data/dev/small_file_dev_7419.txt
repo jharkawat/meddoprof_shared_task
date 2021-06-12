@@ -1,0 +1,15 @@
+
+Neumonía	O
+aguda	O
+necrotizante	O
+bilateral	O
+,	O
+cavitada	O
+por	O
+Aspergillus	O
+fumigatus	O
+con	O
+signos	O
+de	O
+angioinvasión	O
+.	O

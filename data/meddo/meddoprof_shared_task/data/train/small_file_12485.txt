@@ -1,0 +1,18 @@
+
+Sin	O
+embargo	O
+,	O
+tomográficamente	O
+no	O
+se	O
+demostró	O
+un	O
+origen	O
+ginecológico	O
+causante	O
+de	O
+la	O
+mencionada	O
+carcinomatosis	O
+peritoneal	O
+.	O

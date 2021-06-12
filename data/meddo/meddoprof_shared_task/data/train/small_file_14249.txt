@@ -1,0 +1,5 @@
+
+Aureus	O
+meticilin	O
+sensible	O
+.	O

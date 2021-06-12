@@ -1,0 +1,14 @@
+
+En	O
+la	O
+anamnesis	O
+por	O
+órganos	O
+y	O
+aparatos	O
+,	O
+negaba	O
+cualquier	O
+otra	O
+sintomatología	O
+.	O

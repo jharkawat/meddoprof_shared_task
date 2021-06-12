@@ -1,0 +1,5 @@
+
+Nació	O
+en	O
+Nicaragua	O
+.	O

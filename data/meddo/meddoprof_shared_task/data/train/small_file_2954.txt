@@ -1,0 +1,21 @@
+
+Paciente	O
+de	O
+84	O
+años	O
+de	O
+edad	O
+,	O
+dependiente	B-SITUACION_LABORAL
+para	O
+las	O
+actividades	O
+de	O
+la	O
+vida	O
+diaria	O
+,	O
+así	O
+como	O
+instrumentales	O
+.	O

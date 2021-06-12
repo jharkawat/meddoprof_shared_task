@@ -1,0 +1,27 @@
+
+La	O
+tomografía	O
+computarizada	O
+(	O
+TC	O
+)	O
+craneal	O
+realizada	O
+estos	O
+días	O
+mostró	O
+lesiones	O
+isquémicas	O
+degenerativas	O
+de	O
+pequeño	O
+vaso	O
+y	O
+discretos	O
+signos	O
+de	O
+atrofia	O
+córtico	O
+-	O
+subcortical	O
+.	O

@@ -1,0 +1,5 @@
+
+No	O
+derrame	O
+pleural	O
+.	O

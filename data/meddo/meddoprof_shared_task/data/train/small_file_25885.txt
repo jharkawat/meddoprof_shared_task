@@ -1,0 +1,13 @@
+
+Natural	O
+de	O
+Nigeria	O
+,	O
+residente	O
+en	O
+Alcalá	O
+de	O
+Henares	O
+desde	O
+2001	O
+.	O

@@ -1,0 +1,18 @@
+
+Ha	O
+sido	O
+denunciado	O
+en	O
+varias	O
+ocasiones	O
+por	O
+tíos	O
+,	O
+hermana	O
+y	O
+padres	O
+por	O
+agresividad	O
+hacia	O
+ellos	O
+.	O

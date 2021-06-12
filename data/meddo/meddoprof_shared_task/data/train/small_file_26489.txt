@@ -1,0 +1,18 @@
+
+Lactancia	O
+artificial	O
+por	O
+decisión	O
+de	O
+la	O
+madre	O
+,	O
+sin	O
+problemas	O
+posteriores	O
+en	O
+la	O
+introducción	O
+de	O
+alimentos	O
+.	O

@@ -1,0 +1,19 @@
+
+Tras	O
+practicar	B-ACTIVIDAD
+deporte	I-ACTIVIDAD
+(	I-ACTIVIDAD
+bicicleta	I-ACTIVIDAD
+)	O
+comienza	O
+bruscamente	O
+con	O
+cuadro	O
+de	O
+agitación	O
+,	O
+agresividad	O
+y	O
+conducta	O
+inapropiada	O
+.	O

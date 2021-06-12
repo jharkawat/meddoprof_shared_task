@@ -1,0 +1,5 @@
+
+Quejas	O
+de	O
+cansancio	O
+.	O

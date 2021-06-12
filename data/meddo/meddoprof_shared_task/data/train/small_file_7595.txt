@@ -1,0 +1,13 @@
+
+Su	O
+posterior	O
+punción	O
+mediante	O
+PAAF	O
+eco	O
+-	O
+guiada	O
+mostró	O
+infiltración	O
+tumoral	O
+.	O

@@ -1,0 +1,12 @@
+
+TA	O
+:	O
+200	O
+/	O
+120	O
+mmHg	O
+,	O
+FC	O
+103	O
+lpm	O
+.	O

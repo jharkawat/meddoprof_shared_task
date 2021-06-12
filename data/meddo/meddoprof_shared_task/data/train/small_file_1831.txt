@@ -1,0 +1,21 @@
+
+Los	O
+síntomas	O
+de	O
+ansiedad	O
+agudos	O
+aparecieron	O
+súbitamente	O
+por	O
+primera	O
+vez	O
+en	O
+el	O
+trabajo	O
+cuando	O
+la	O
+paciente	O
+tenía	O
+28	O
+años	O
+.	O

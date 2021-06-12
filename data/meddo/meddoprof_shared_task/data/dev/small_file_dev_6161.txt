@@ -1,0 +1,26 @@
+
+Nuestro	O
+paciente	O
+presentaba	O
+dermatitis	O
+psoriásica	O
+,	O
+por	O
+lo	O
+que	O
+la	O
+probabilidad	O
+de	O
+que	O
+ésta	O
+fuese	O
+la	O
+puerta	O
+de	O
+entrada	O
+al	O
+organismo	O
+era	O
+bastante	O
+alta	O
+.	O

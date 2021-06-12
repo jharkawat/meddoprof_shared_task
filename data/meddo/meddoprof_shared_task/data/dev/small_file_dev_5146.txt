@@ -1,0 +1,13 @@
+
+Estos	O
+hallazgos	O
+corresponden	O
+con	O
+un	O
+gran	O
+absceso	O
+sobre	O
+el	O
+riñón	O
+remanente	O
+.	O

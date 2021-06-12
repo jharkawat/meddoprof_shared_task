@@ -1,0 +1,63 @@
+T1	SINTOMA 140 146	fiebre
+T2	SINTOMA 149 169	dolor centrotorácico
+T3	SINTOMA 189 200	pleuríticas
+T4	SINTOMA 220 242	movimientos posturales
+T5	SINTOMA 254 260	disnea
+T6	SINTOMA 382 394	leucocitosis
+T7	SINTOMA 399 410	neutrofilia
+T8	SINTOMA 435 458	elevación cóncava de ST
+T9	PROCEDIMIENTO 427 430	ECG
+T10	PROCEDIMIENTO 502 513	Rx de tórax
+T11	PROCEDIMIENTO 580 608	ecocardiograma transtorácico
+T12	PROCEDIMIENTO 937 955	pericardiocentesis
+T13	PROCEDIMIENTO 971 1001	estudio de líquido pericárdico
+T14	PROCEDIMIENTO 1065 1074	citología
+T15	PROCEDIMIENTO 1080 1102	estudio microbiológico
+T16	PROCEDIMIENTO 1125 1143	estudio serológico
+T17	PROCEDIMIENTO 2087 2092	AINEs
+T18	NEG 21 24	sin
+T19	NSCO 25 78	antecedentes personales de interés ni hábitos tóxicos
+T20	NEG 609 612	sin
+T21	NSCO 613 654	alteraciones estructurales ni funcionales
+T22	NEG 1103 1112	negativos
+T23	NEG 1431 1440	negativos
+T24	NSCO 1441 1462	excepto para Coxiella
+T25	NEG 1502 1511	negativos
+T26	NEG 1773 1784	ausencia de
+T27	NSCO 1785 1814	un punto de corte establecido
+T28	NEG 1864 1872	descarta
+T29	NSCO 1873 1892	una infección aguda
+T30	UNC 2263 2271	sospecha
+T31	USCO 2272 2279	clínica
+T32	FARMACO 2094 2104	colchicina
+T33	FARMACO 2114 2123	doxiclina
+T34	ORG_VIVO 0 8	Paciente
+T35	ORG_VIVO 38 48	personales
+T36	ORG_VIVO 93 101	ganadero
+T37	ORG_VIVO 102 107	ovino
+T38	ORG_VIVO 719 727	paciente
+T39	ORG_VIVO 1270 1290	Borrelia Burgdorferi
+T40	ORG_VIVO 1292 1304	M.pneumoniae
+T41	ORG_VIVO 1306 1310	LUES
+T42	ORG_VIVO 1312 1320	Brucella
+T43	ORG_VIVO 1322 1339	toxoplasma gondii
+T44	ORG_VIVO 1341 1344	CVM
+T45	ORG_VIVO 1346 1349	VHS
+T46	ORG_VIVO 1351 1354	VVZ
+T47	ORG_VIVO 1356 1370	parvovirus B19
+T48	ORG_VIVO 1372 1383	parotiditis
+T49	ORG_VIVO 1406 1423	Coxiella Burnetti
+T50	ORG_VIVO 1454 1462	Coxiella
+T51	ORG_VIVO 1677 1685	paciente
+T52	ORG_VIVO 2056 2064	paciente
+T53	ENFERMEDAD 413 425	coagulopatía
+T54	ENFERMEDAD 528 543	derrame pleural
+T55	ENFERMEDAD 665 700	derrame pericárdico circunferencial
+T56	ENFERMEDAD 772 790	pericarditis aguda
+T57	ENFERMEDAD 850 869	derrame pericárdico
+T58	ENFERMEDAD 1198 1217	derrame pericárdico
+T59	ENFERMEDAD 1227 1237	idiopática
+T60	ENFERMEDAD 1603 1628	pericarditis por Coxiella
+T61	ENFERMEDAD 1877 1892	infección aguda
+T62	ENFERMEDAD 2179 2204	pericarditis por Coxiella
+T63	PACIENTE-PROFESION 93 107	ganadero ovino

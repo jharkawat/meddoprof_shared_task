@@ -1,0 +1,25 @@
+
+Se	O
+procede	O
+al	O
+alta	O
+de	O
+medicina	O
+interna	O
+con	O
+seguimiento	O
+en	O
+consultas	O
+externas	O
+de	O
+enfermedades	O
+sistémicas	O
+para	O
+completar	O
+estudio	O
+de	O
+hipercoagulabilidad	O
+y	O
+posible	O
+trombofilia	O
+.	O

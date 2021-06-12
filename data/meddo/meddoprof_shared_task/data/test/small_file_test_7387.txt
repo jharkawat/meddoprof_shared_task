@@ -1,0 +1,10 @@
+
+Cicatriz	O
+de	O
+intervenciones	O
+quirúrgicas	O
+previas	O
+en	O
+buen	O
+estado	O
+.	O

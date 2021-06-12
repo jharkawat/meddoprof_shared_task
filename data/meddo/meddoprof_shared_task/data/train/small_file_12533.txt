@@ -1,0 +1,17 @@
+
+Afirma	O
+que	O
+se	O
+ha	O
+acompan	O
+̃	O
+ado	O
+de	O
+fotofobia	O
+ocasional	O
+sin	O
+sonofobia	O
+ni	O
+síndrome	O
+emético	O
+.	O

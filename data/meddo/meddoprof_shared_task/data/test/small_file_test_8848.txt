@@ -1,0 +1,5 @@
+
+Profesión	O
+:	O
+administrativa	B-PROFESION
+.	O

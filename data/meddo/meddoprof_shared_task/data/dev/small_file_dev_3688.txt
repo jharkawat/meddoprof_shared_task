@@ -1,0 +1,26 @@
+
+Como	O
+motivo	O
+habitual	O
+de	O
+consumo	O
+refiere	O
+la	O
+necesidad	O
+de	O
+afrontar	O
+no	O
+sentirse	O
+adecuadamente	O
+atendida	O
+,	O
+a	O
+nivel	O
+emocional	O
+,	O
+por	O
+sus	O
+familiares	O
+y	O
+amigos	O
+.	O

@@ -1,0 +1,10 @@
+
+Midriasis	O
+farmacológica	O
+secundaria	O
+a	O
+contacto	O
+con	O
+Atropa	O
+belladona	O
+.	O

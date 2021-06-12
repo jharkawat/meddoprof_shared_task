@@ -1,0 +1,12 @@
+
+Se	O
+amplían	O
+estudios	O
+con	O
+sospecha	O
+de	O
+una	O
+segunda	O
+neoplasia	O
+metacrónica	O
+.	O

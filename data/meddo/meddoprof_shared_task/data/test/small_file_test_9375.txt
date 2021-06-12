@@ -1,0 +1,9 @@
+
+No	O
+hay	O
+datos	O
+de	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

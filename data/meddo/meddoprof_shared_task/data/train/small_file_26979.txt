@@ -1,0 +1,10 @@
+
+Mantiene	O
+tratamiento	O
+con	O
+metilfenidato	O
+,	O
+pautado	O
+con	O
+anterioridad	O
+.	O

@@ -1,0 +1,11 @@
+
+Presión	O
+en	O
+puntos	O
+nasales	O
+frontales	O
+y	O
+maxilares	O
+:	O
+negativos	O
+.	O

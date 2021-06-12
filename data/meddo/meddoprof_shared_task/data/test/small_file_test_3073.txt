@@ -1,0 +1,26 @@
+
+Por	O
+tanto	O
+,	O
+el	O
+diagnóstico	O
+más	O
+probable	O
+sería	O
+un	O
+Síndrome	O
+Hemofagocítico	O
+,	O
+lo	O
+que	O
+obliga	O
+a	O
+investigar	O
+un	O
+factor	O
+desencadenante	O
+o	O
+una	O
+entidad	O
+asociada	O
+.	O

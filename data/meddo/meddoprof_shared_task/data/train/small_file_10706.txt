@@ -1,0 +1,5 @@
+
+Tratamiento	O
+al	O
+ingreso	O
+:	O

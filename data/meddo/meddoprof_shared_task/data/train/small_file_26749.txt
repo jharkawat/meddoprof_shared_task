@@ -1,0 +1,23 @@
+
+Refiere	O
+que	O
+preferiría	O
+simplemente	O
+que	O
+la	O
+escucharan	O
+,	O
+o	O
+que	O
+la	O
+dejaran	O
+sola	O
+o	O
+que	O
+si	O
+lloraba	O
+le	O
+dieran	O
+un	O
+abrazo	O
+.	O

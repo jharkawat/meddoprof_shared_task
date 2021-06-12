@@ -1,0 +1,10 @@
+
+Las	O
+alucinaciones	O
+visuales	O
+son	O
+raras	O
+en	O
+estos	O
+casos	O
+.	O

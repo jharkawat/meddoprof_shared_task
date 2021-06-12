@@ -1,0 +1,13 @@
+
+El	O
+cuadro	O
+debutó	O
+como	O
+un	O
+episodio	O
+depresivo	O
+psicótico	O
+que	O
+precisó	O
+ingreso	O
+.	O

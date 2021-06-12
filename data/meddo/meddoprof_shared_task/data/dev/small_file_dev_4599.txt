@@ -1,0 +1,27 @@
+
+Cierre	O
+del	O
+conducto	O
+cístico	O
+con	O
+nudo	O
+único	O
+cerca	O
+al	O
+colédoco	O
++	O
+sutura	O
+con	O
+3	O
+puntos	O
+del	O
+muñón	O
+constituido	O
+por	O
+conducto	O
+cístico	O
+y	O
+parte	O
+del	O
+bacinete	O
+.	O

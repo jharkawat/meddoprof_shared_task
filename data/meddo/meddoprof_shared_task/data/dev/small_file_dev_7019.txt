@@ -1,0 +1,24 @@
+
+Dada	O
+la	O
+clínica	O
+de	O
+nuestro	O
+paciente	O
+y	O
+los	O
+hallazgos	O
+encontrados	O
+en	O
+las	O
+pruebas	O
+de	O
+imagen	O
+,	O
+debemos	O
+plantearnos	O
+los	O
+siguientes	O
+diagnósticos	O
+diferenciales	O
+:	O

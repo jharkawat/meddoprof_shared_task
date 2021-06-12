@@ -1,0 +1,12 @@
+
+Muy	O
+respetuosa	O
+y	O
+educada	O
+con	O
+el	O
+personal	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+Unidad	I-PROFESION
+.	O

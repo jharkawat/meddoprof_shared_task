@@ -1,0 +1,22 @@
+
+La	O
+PCR	O
+era	O
+de	O
+41	O
+,	O
+6	O
+mg	O
+/	O
+dL	O
+,	O
+con	O
+PCT	O
+de	O
+1	O
+.	O
+98	O
+ng	O
+/	O
+dL	O
+.	O

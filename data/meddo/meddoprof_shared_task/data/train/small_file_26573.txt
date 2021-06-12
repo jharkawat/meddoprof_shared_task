@@ -1,0 +1,14 @@
+
+No	O
+se	O
+centra	O
+para	O
+estudiar	O
+,	O
+suspende	O
+todo	O
+pero	O
+parece	O
+no	O
+importarle	O
+.	O

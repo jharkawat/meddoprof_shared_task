@@ -1,0 +1,11 @@
+
+Niega	O
+consumo	O
+de	O
+tóxicos	O
+;	O
+únicamente	O
+su	O
+medicación	O
+habitual	O
+.	O

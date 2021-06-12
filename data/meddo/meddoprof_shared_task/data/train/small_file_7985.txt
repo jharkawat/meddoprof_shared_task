@@ -1,0 +1,15 @@
+
+El	O
+diagnóstico	O
+de	O
+sospecha	O
+inicial	O
+era	O
+de	O
+Hipertensión	O
+intracraneal	O
+vs	O
+neuropatía	O
+óptica	O
+subaguda	O
+.	O

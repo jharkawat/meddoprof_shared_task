@@ -1,0 +1,10 @@
+
+La	O
+serología	O
+de	O
+los	O
+virus	O
+solicitados	O
+fue	O
+negativa	O
+.	O

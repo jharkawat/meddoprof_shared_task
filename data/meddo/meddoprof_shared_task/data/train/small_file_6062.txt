@@ -1,0 +1,7 @@
+
+Tratamiento	O
+:	O
+Losartan	O
+100	O
+mg	O
+.	O

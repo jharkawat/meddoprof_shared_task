@@ -1,0 +1,8 @@
+
+Adecuada	O
+diferenciación	O
+sustancia	O
+blanca	O
+/	O
+gris	O
+.	O

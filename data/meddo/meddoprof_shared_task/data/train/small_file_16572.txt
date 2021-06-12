@@ -1,0 +1,8 @@
+
+Tratamiento	O
+médico	O
+con	O
+hidroaltesona	O
+y	O
+tiroxina	O
+.	O

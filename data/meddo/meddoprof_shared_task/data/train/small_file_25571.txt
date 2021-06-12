@@ -1,0 +1,24 @@
+
+Refería	O
+que	O
+durante	O
+el	O
+último	O
+año	O
+había	O
+consumido	O
+cocaína	O
+,	O
+por	O
+vía	O
+nasal	O
+,	O
+en	O
+dosis	O
+de	O
+medio	O
+gramo	O
+cada	O
+2	O
+días	O
+.	O

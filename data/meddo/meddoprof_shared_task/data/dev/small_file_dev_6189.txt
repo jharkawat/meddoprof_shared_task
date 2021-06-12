@@ -1,0 +1,27 @@
+
+En	O
+la	O
+región	O
+dorsal	O
+del	O
+tronco	O
+tenía	O
+las	O
+mismas	O
+pápulas	O
+,	O
+además	O
+,	O
+una	O
+placa	O
+verrucosa	O
+-	O
+costrosa	O
+con	O
+borde	O
+eritematoso	O
+a	O
+nivel	O
+escapular	O
+derecho	O
+.	O

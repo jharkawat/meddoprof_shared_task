@@ -1,0 +1,27 @@
+
+Posteriormente	O
+,	O
+inicia	O
+tratamiento	O
+con	O
+pemetrexed	O
+de	O
+mantenimiento	O
+,	O
+realizando	O
+23	O
+ciclos	O
+(	O
+desde	O
+agosto	O
+de	O
+2013	O
+hasta	O
+noviembre	O
+de	O
+2014	O
+)	O
+con	O
+enfermedad	O
+estable	O
+.	O

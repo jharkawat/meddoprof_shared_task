@@ -1,0 +1,19 @@
+
+En	O
+cuanto	O
+a	O
+su	O
+evolución	O
+,	O
+estado	O
+general	O
+físico	O
+aceptable	O
+,	O
+dentro	O
+de	O
+su	O
+patología	O
+de	O
+base	O
+.	O

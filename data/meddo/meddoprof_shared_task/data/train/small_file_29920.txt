@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+acepta	O
+seguimiento	O
+y	O
+,	O
+tras	O
+dos	O
+consultas	O
+,	O
+acepta	O
+tratamiento	O
+farmacológico	O
+.	O

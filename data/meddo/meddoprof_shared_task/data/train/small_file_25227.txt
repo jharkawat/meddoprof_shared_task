@@ -1,0 +1,17 @@
+
+Destaca	O
+el	O
+aumento	O
+del	O
+consumo	O
+de	O
+los	O
+analgésicos	O
+en	O
+el	O
+contexto	O
+de	O
+las	O
+descompensaciones	O
+psicopatológicas	O
+.	O

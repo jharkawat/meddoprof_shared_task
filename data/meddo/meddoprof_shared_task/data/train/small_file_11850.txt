@@ -1,0 +1,25 @@
+
+Tensión	O
+arterial	O
+(	O
+TA	O
+)	O
+,	O
+glucemia	O
+y	O
+ecografías	O
+prenatales	O
+en	O
+las	O
+que	O
+no	O
+se	O
+evidencian	O
+anomalías	O
+congénitas	O
+,	O
+pero	O
+sí	O
+RCI	O
+precoz	O
+.	O

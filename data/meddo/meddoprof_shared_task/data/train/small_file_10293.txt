@@ -1,0 +1,16 @@
+
+Neumonías	O
+atípicas	O
+:	O
+Chlamydia	O
+pneumonia	O
+IgG	O
+1	O
+.	O
+2	O
+e	O
+IgM	O
+1	O
+.	O
+8	O
+.	O

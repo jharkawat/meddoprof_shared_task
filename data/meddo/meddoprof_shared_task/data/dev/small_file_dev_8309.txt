@@ -1,0 +1,23 @@
+
+Los	O
+principales	O
+síntomas	O
+que	O
+refieren	O
+los	O
+pacientes	O
+son	O
+:	O
+palpitaciones	O
+,	O
+síncope	O
+,	O
+convulsiones	O
+y	O
+en	O
+algunas	O
+ocasiones	O
+,	O
+muerte	O
+súbita	O
+.	O

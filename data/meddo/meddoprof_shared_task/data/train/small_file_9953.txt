@@ -1,0 +1,25 @@
+
+Presenta	O
+afectación	O
+en	O
+tórax	O
+,	O
+miembros	O
+y	O
+palmas	O
+con	O
+lesiones	O
+eritematodescamativas	O
+de	O
+morfología	O
+puntiforme	O
+que	O
+confluyen	O
+en	O
+pliegues	O
+axilares	O
+e	O
+inguinales	O
+formando	O
+placas	O
+.	O

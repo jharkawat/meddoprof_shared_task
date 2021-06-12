@@ -1,0 +1,4 @@
+
+Esferocitos	O
++	O
+.	O

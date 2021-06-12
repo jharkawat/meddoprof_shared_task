@@ -1,0 +1,10 @@
+
+Esta	O
+derivación	O
+se	O
+hace	O
+efectiva	O
+7	O
+meses	O
+después	O
+.	O

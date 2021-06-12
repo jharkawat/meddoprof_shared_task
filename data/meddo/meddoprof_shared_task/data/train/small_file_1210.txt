@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+20	O
+/	O
+03	O
+/	O
+1982	O
+.	O

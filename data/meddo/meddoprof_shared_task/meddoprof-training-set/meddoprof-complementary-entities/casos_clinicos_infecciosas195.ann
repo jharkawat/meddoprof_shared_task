@@ -1,0 +1,219 @@
+T1	SINTOMA 37 46	cansancio
+T2	SINTOMA 81 96	palidez cutánea
+T3	SINTOMA 99 107	tos seca
+T4	SINTOMA 2163 2170	astenia
+T5	SINTOMA 2173 2176	tos
+T6	SINTOMA 2316 2342	deterioro de función renal
+T7	SINTOMA 2348 2371	elevación de creatinina
+T8	SINTOMA 2373 2384	proteinuria
+T9	SINTOMA 2387 2396	hematuria
+T10	SINTOMA 2853 2868	tos persistente
+T11	SINTOMA 2885 2898	hepatomegalia
+T12	SINTOMA 2943 2950	ascitis
+T13	SINTOMA 2953 2970	edemas maleolares
+T14	SINTOMA 3226 3237	proteinuria
+T15	SINTOMA 3254 3263	hematuria
+T16	SINTOMA 3288 3298	leucopenia
+T17	SINTOMA 3481 3488	astenia
+T18	SINTOMA 3491 3498	palidez
+T19	SINTOMA 3775 3781	fiebre
+T20	SINTOMA 3942 3971	deterioro de la función renal
+T21	SINTOMA 3991 4000	hematuria
+T22	SINTOMA 4003 4014	proteinuria
+T23	SINTOMA 4882 4893	proteinuria
+T24	SINTOMA 5004 5011	astenia
+T25	SINTOMA 5013 5020	ascitis
+T26	SINTOMA 5030 5040	artralgias
+T27	SINTOMA 9811 9814	tos
+T28	SINTOMA 9816 9860	normalización progresiva de la función renal
+T29	PROCEDIMIENTO 296 325	implantación de un marcapasos
+T30	PROCEDIMIENTO 618 637	tracción percutánea
+T31	PROCEDIMIENTO 649 697	implanta nuevo dispositivo por subclavia derecha
+T32	PROCEDIMIENTO 1136 1148	hemocultivos
+T33	PROCEDIMIENTO 1151 1181	ecocardiografía transesofágica
+T34	PROCEDIMIENTO 1719 1757	estimulación bicameral por vía femoral
+T35	PROCEDIMIENTO 1759 1779	Radiografía de tórax
+T36	PROCEDIMIENTO 1863 1894	marcapasos de inserción femoral
+T37	PROCEDIMIENTO 1918 1944	tratamiento antimicrobiano
+T38	PROCEDIMIENTO 2027 2039	hemocultivos
+T39	PROCEDIMIENTO 2454 2476	estudio de médula ósea
+T40	PROCEDIMIENTO 2499 2506	biopsia
+T41	PROCEDIMIENTO 2602 2631	ecocardiografía transtorácica
+T42	PROCEDIMIENTO 2762 2774	hemocultivos
+T43	PROCEDIMIENTO 3271 3280	hemograma
+T44	PROCEDIMIENTO 3838 3850	hemocultivos
+T45	PROCEDIMIENTO 3874 3912	estudio ecocardiográfico transtorácico
+T46	PROCEDIMIENTO 5880 5893	biopsia renal
+T47	PROCEDIMIENTO 6351 6366	ecocardiografía
+T48	PROCEDIMIENTO 6393 6405	hemocultivos
+T49	PROCEDIMIENTO 6532 6544	hemocultivos
+T50	PROCEDIMIENTO 6980 6992	hemocultivos
+T51	PROCEDIMIENTO 7171 7183	hemocultivos
+T52	PROCEDIMIENTO 7338 7361	ecografía transtorácica
+T53	PROCEDIMIENTO 7529 7541	hemocultivos
+T54	PROCEDIMIENTO 7752 7764	antibiograma
+T55	PROCEDIMIENTO 7924 7954	ecocardiografía transesofágica
+T56	PROCEDIMIENTO 8172 8179	PET/TAC
+T57	PROCEDIMIENTO 8392 8398	PET/TC
+T58	PROCEDIMIENTO 8554 8566	hemocultivos
+T59	PROCEDIMIENTO 8631 8646	ecocardiografía
+T60	PROCEDIMIENTO 8857 8880	tratamiento antibiótico
+T61	PROCEDIMIENTO 9287 9320	estimulación de inserción femoral
+T62	PROCEDIMIENTO 9497 9545	sustitución valvular mediante prótesis biológica
+T63	PROCEDIMIENTO 9638 9659	marcapasos epicárdico
+T64	PROCEDIMIENTO 9963 9985	cultivo microbiológico
+T65	PROCEDIMIENTO 10092 10118	tratamiento antimicrobiano
+T66	NEG 236 238	No
+T67	NSCO 239 277	se registraron antecedentes de interés
+T68	NEG 1182 1191	negativos
+T69	NEG 1529 1532	sin
+T70	NSCO 1533 1580	que fuese necesario la cirugía cardiaca abierta
+T71	NEG 1781 1790	se pueden
+T72	NSCO 1791 1849	observar todos los sistemas retenidos previos a la cirugía
+T73	NEG 2079 2088	negativos
+T74	NEG 2107 2119	asintomática
+T75	NEG 2122 2125	sin
+T76	NSCO 2126 2137	incidencias
+T77	NEG 2508 2511	sin
+T78	NSCO 2512 2539	datos sugestivos de mieloma
+T79	NEG 2636 2638	no
+T80	NSCO 2639 2710	muestra vegetaciones en los cables funcionantes ni en los retenidos, ni
+T81	NEG 2711 2718	tampoco
+T82	NSCO 2719 2744	lesiones a nivel valvular
+T83	NEG 2805 2814	negativos
+T84	UNC 3539 3546	posible
+T85	USCO 3547 3606	enfermedad hematológica como mieloma múltiple o amiloidosis
+T86	UNC 3652 3664	sin plantear
+T87	USCO 3665 3669	como
+T88	UNC 3670 3687	clara posibilidad
+T89	USCO 3688 3749	diagnóstica la infección del sistema de electro- estimulación
+T90	NEG 3763 3774	ausencia de
+T91	NSCO 3775 3803	fiebre y semiología cardiaca
+T92	NEG 3810 3824	negatividad de
+T93	NSCO 3825 3860	los primeros hemocultivos extraídos
+T94	NEG 3913 3915	no
+T95	NSCO 3916 3927	diagnóstico
+T96	UNC 4151 4158	posible
+T97	USCO 4159 4250	infiltración parenquimatosa por amiloidosis en el contexto de infección crónica del sistema
+T98	NEG 4431 4436	puede
+T99	NSCO 4437 4563	manifestarse de forma localizada o sistémica y puede ser primaria o secundaria a un proceso crónico (inflamatorio o infeccioso
+T100	UNC 5484 5492	probable
+T101	USCO 5493 5562	teniendo en cuenta las características epidemiológicas de la paciente
+T102	UNC 6050 6057	posible
+T103	USCO 6058 6133	recurrencia de la infección del sistema de electro- estimulación implantado
+T104	UNC 6152 6160	probable
+T105	USCO 6161 6318	glomerulonefritis secundaria a dicho cuadro infeccioso y clínica pulmonar secundaria a la presencia de embolismos sépticos desde cavidades cardiacas derechas
+T106	NEG 6374 6377	sin
+T107	NSCO 6378 6405	vegetaciones y hemocultivos
+T108	NEG 6406 6415	negativos
+T109	NEG 6443 6453	plantearse
+T110	NSCO 6454 6544	la existencia de agentes etiológicos causantes de endocarditis infecciosa con hemocultivos
+T111	NEG 6545 6554	negativos
+T112	NEG 7400 7402	no
+T113	NSCO 7403 7426	va más allá del 20- 30%
+T114	NEG 7454 7464	plantearse
+T115	NSCO 7465 7498	otros procedimientos diagnósticos
+T116	NEG 9207 9210	sin
+T117	NSCO 9211 9222	incidencias
+T118	NEG 9235 9242	retirar
+T119	NSCO 9243 9320	los cables retenidos así como el sistema de estimulación de inserción femoral
+T120	NEG 9408 9420	desaparición
+T121	NSCO 9421 9469	total del velo septal y afectación del posterior
+T122	NEG 9760 9775	desaparición de
+T123	NSCO 9776 9805	los signos de fracaso derecho
+T124	NEG 10060 10069	negativos
+T125	NSCO 10070 10128	en el cultivo tras el tratamiento antimicrobiano realizado
+T126	FARMACO 1949 1961	teicoplanina
+T127	FARMACO 7874 7884	macrólidos
+T128	FARMACO 7887 7897	quinolonas
+T129	FARMACO 8885 8894	linezolid
+T130	FARMACO 9013 9025	teicoplanina
+T131	FARMACO 9144 9153	linezolid
+T132	ORG_VIVO 0 5	Mujer
+T133	ORG_VIVO 139 166	médico de atención primaria
+T134	ORG_VIVO 2573 2581	paciente
+T135	ORG_VIVO 2819 2827	paciente
+T136	ORG_VIVO 3061 3069	paciente
+T137	ORG_VIVO 3978 3986	paciente
+T138	ORG_VIVO 4990 4998	paciente
+T139	ORG_VIVO 5554 5562	paciente
+T140	ORG_VIVO 5979 5989	personales
+T141	ORG_VIVO 5996 6004	paciente
+T142	ORG_VIVO 6561 6578	Coxiella burnetii
+T143	ORG_VIVO 6580 6594	Bartonella spp
+T144	ORG_VIVO 6596 6610	Legionella spp
+T145	ORG_VIVO 6612 6626	Mycoplasma spp
+T146	ORG_VIVO 6628 6639	T. whipplei
+T147	ORG_VIVO 6642 6678	microorganismos de crecimiento lento
+T148	ORG_VIVO 6768 6773	HACEK
+T149	ORG_VIVO 6775 6786	Haemophilus
+T150	ORG_VIVO 6788 6803	Aggregatibacter
+T151	ORG_VIVO 6805 6820	Cardiobacterium
+T152	ORG_VIVO 6822 6831	Eikenella
+T153	ORG_VIVO 6834 6846	Kingella spp
+T154	ORG_VIVO 6862 6878	Abiothrophia spp
+T155	ORG_VIVO 6880 6898	Granulicatella spp
+T156	ORG_VIVO 6901 6921	Corynebacterium spp.
+T157	ORG_VIVO 7093 7108	microorganismos
+T158	ORG_VIVO 7112 7124	biopelículas
+T159	ORG_VIVO 7233 7261	microorganismos planctónicos
+T160	ORG_VIVO 7711 7737	Corynebacterium amycolatum
+T161	ORG_VIVO 8488 8496	paciente
+T162	ORG_VIVO 8596 8622	Corynebacterium amycolatum
+T163	ORG_VIVO 9578 9586	paciente
+T164	ORG_VIVO 9733 9741	paciente
+T165	ORG_VIVO 10202 10228	Corynebacterium amycolatum
+T166	ENFERMEDAD 356 394	bloqueo aurículo-ventricular congénito
+T167	ENFERMEDAD 493 575	infección local con extrusión del generador, aislándose Staphylococcus epidermidis
+T168	ENFERMEDAD 921 936	infección local
+T169	ENFERMEDAD 1113 1125	endocarditis
+T170	ENFERMEDAD 1408 1432	taponamiento pericárdico
+T171	ENFERMEDAD 1435 1453	shock hemodinámico
+T172	ENFERMEDAD 2251 2272	anemia megaloblástica
+T173	ENFERMEDAD 2404 2425	gammapatía monoclonal
+T174	ENFERMEDAD 2532 2539	mieloma
+T175	ENFERMEDAD 2719 2744	lesiones a nivel valvular
+T176	ENFERMEDAD 2943 2950	ascitis
+T177	ENFERMEDAD 3018 3042	Enfermedades Infecciosas
+T178	ENFERMEDAD 3254 3263	hematuria
+T179	ENFERMEDAD 3288 3298	leucopenia
+T180	ENFERMEDAD 3312 3318	anemia
+T181	ENFERMEDAD 3442 3463	anemia megaloblástica
+T182	ENFERMEDAD 3547 3570	enfermedad hematológica
+T183	ENFERMEDAD 3576 3592	mieloma múltiple
+T184	ENFERMEDAD 3595 3606	amiloidosis
+T185	ENFERMEDAD 3634 3650	afectación renal
+T186	ENFERMEDAD 3703 3749	infección del sistema de electro- estimulación
+T187	ENFERMEDAD 3991 4000	hematuria
+T188	ENFERMEDAD 4073 4119	glomerulonefritis mesangio- capilar secundaria
+T189	ENFERMEDAD 4125 4144	infección sistémica
+T190	ENFERMEDAD 4159 4186	infiltración parenquimatosa
+T191	ENFERMEDAD 4191 4202	amiloidosis
+T192	ENFERMEDAD 4221 4250	infección crónica del sistema
+T193	ENFERMEDAD 4350 4361	amiloidosis
+T194	ENFERMEDAD 4521 4563	proceso crónico (inflamatorio o infeccioso
+T195	ENFERMEDAD 4572 4603	amiloidosis sistémica, el riñón
+T196	ENFERMEDAD 4816 4846	insuficiencia renal progresiva
+T197	ENFERMEDAD 5013 5020	ascitis
+T198	ENFERMEDAD 5022 5028	anemia
+T199	ENFERMEDAD 5139 5206	glomerulonefritis mesangio-capilar secundaria a infección sistémica
+T200	ENFERMEDAD 5239 5262	síndrome reno- pulmonar
+T201	ENFERMEDAD 5355 5380	enfermedad de Goodpasture
+T202	ENFERMEDAD 5451 5478	lupus eritematoso sistémico
+T203	ENFERMEDAD 5565 5592	púrpura de Schölein- Henoch
+T204	ENFERMEDAD 5594 5624	crioglublinemia mixta esencial
+T205	ENFERMEDAD 5638 5664	vasculitis de pequeño vaso
+T206	ENFERMEDAD 5667 5723	glomerulonefritis rápidamente progresivas inmunomediadas
+T207	ENFERMEDAD 6076 6122	infección del sistema de electro- estimulación
+T208	ENFERMEDAD 6161 6215	glomerulonefritis secundaria a dicho cuadro infeccioso
+T209	ENFERMEDAD 6264 6309	embolismos sépticos desde cavidades cardiacas
+T210	ENFERMEDAD 6504 6527	endocarditis infecciosa
+T211	ENFERMEDAD 7034 7070	infecciones sobre material sintético
+T212	ENFERMEDAD 7798 7843	infección del sistema de electro-estimulación
+T213	ENFERMEDAD 8193 8274	lesiones hipermetabólicas locales a nivel intracardiaco y en fosa infraclavicular
+T214	ENFERMEDAD 8332 8382	lesiones hipermetabólicas difusas a nivel pulmonar
+T215	ENFERMEDAD 8734 8758	endocarditis tricuspídea
+T216	ENFERMEDAD 8772 8836	infección sistémica de sistema de electro- estimulación cardiaca
+T217	ENFERMEDAD 8975 8987	pancitopenia
+T218	ENFERMEDAD 9115 9153	aplasia medular secundaria a linezolid
+T219	SANITARIO-PROFESION 139 166	médico de atención primaria

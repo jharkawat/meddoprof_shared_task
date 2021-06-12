@@ -1,0 +1,9 @@
+
+Infancia	O
+:	O
+Neumonía	O
+,	O
+pulmonía	O
+,	O
+broncoespasmos	O
+.	O

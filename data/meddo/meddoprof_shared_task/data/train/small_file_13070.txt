@@ -1,0 +1,20 @@
+
+Ante	O
+esta	O
+situación	O
+administran	O
+sedación	O
+con	O
+Etomidato	O
+y	O
+relajación	O
+con	O
+Rocuronio	O
+y	O
+proceden	O
+realizar	O
+IOT	O
+,	O
+sin	O
+incidencias	O
+.	O

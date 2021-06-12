@@ -1,0 +1,25 @@
+
+Se	O
+enferma	O
+2	O
+ó	O
+tres	O
+veces	O
+al	O
+año	O
+de	O
+infecciones	O
+respiratorias	O
+que	O
+evolucionan	O
+satisfactoriamente	O
+sin	O
+necesidad	O
+de	O
+atención	O
+médica	O
+,	O
+sin	O
+dejar	O
+secuelas	O
+.	O

@@ -1,0 +1,10 @@
+
+Se	O
+trata	O
+de	O
+un	O
+varón	O
+de	O
+53	O
+años	O
+.	O

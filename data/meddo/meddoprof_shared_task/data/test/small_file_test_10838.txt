@@ -1,0 +1,11 @@
+
+El	O
+resultado	O
+del	O
+cultivo	O
+revela	O
+presencia	O
+de	O
+Streptococcus	O
+pneumoniae	O
+.	O

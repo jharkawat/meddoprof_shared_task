@@ -1,0 +1,24 @@
+
+Presentamos	O
+el	O
+caso	O
+de	O
+una	O
+mujer	O
+de	O
+54	O
+an	O
+̃	O
+os	O
+sin	O
+alergias	O
+medicamentosas	O
+y	O
+sin	O
+hábitos	O
+tóxicos	O
+,	O
+limpiadora	B-PROFESION
+de	O
+profesión	O
+.	O

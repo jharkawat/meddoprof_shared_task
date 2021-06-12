@@ -1,0 +1,24 @@
+
+Se	O
+habían	O
+administrado	O
+dos	O
+ciclos	O
+de	O
+pemetrexed	O
+de	O
+mantenimiento	O
+y	O
+la	O
+paciente	O
+se	O
+encontraba	O
+en	O
+curso	O
+de	O
+radioterapia	O
+(	O
+semana	O
+9	O
+)	O
+.	O

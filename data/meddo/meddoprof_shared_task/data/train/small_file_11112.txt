@@ -1,0 +1,5 @@
+
+Sin	O
+rigidez	O
+nucal	O
+.	O

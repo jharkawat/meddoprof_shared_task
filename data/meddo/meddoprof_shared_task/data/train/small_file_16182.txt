@@ -1,0 +1,14 @@
+
+Tratamiento	O
+con	O
+ácido	O
+acetilsalicílico	O
+300	O
+mg	O
+,	O
+1	O
+comp	O
+.	O
+/	O
+día	O
+.	O

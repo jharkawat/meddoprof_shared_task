@@ -1,0 +1,13 @@
+
+Otro	O
+hermano	O
+falleció	O
+en	O
+la	O
+infancia	O
+debido	O
+a	O
+una	O
+enfermedad	O
+neurodegenerativa	O
+.	O

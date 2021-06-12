@@ -1,0 +1,20 @@
+
+Tras	O
+2	O
+semanas	O
+presentó	O
+un	O
+nuevo	O
+síndrome	O
+emético	O
+y	O
+sedimento	O
+urinario	O
+patológico	O
+,	O
+recibiendo	O
+nueva	O
+tanda	O
+de	O
+antibióticos	O
+.	O

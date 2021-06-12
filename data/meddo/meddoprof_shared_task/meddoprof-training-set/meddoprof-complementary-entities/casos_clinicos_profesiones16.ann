@@ -1,0 +1,132 @@
+T1	SINTOMA 97 111	dolor torácico
+T2	SINTOMA 192 199	fumador
+T3	SINTOMA 705 769	dolor torácico de características opresivas, irradiado al cuello
+T4	SINTOMA 800 813	falta de aire
+T5	SINTOMA 1151 1164	palpitaciones
+T6	SINTOMA 1186 1217	molestias en ambas pantorrillas
+T7	SINTOMA 1309 1314	ronca
+T8	SINTOMA 1624 1638	tonos apagados
+T9	SINTOMA 1654 1677	soplo suave en la punta
+T10	SINTOMA 1863 1880	congestión venosa
+T11	SINTOMA 1906 1957	pulsos se palpaban con normalidad y eran simétricos
+T12	SINTOMA 1968 1993	pulso pedio de ambos pies
+T13	SINTOMA 1995 2000	débil
+T14	SINTOMA 7636 7687	hipocinesia circunscrita a la región basal inferior
+T15	PROCEDIMIENTO 1359 1377	exploración física
+T16	PROCEDIMIENTO 1595 1616	auscultación cardiaca
+T17	PROCEDIMIENTO 1778 1803	auscultación respiratoria
+T18	PROCEDIMIENTO 1887 1900	examen físico
+T19	PROCEDIMIENTO 2038 2056	electrocardiograma
+T20	PROCEDIMIENTO 2058 2061	ECG
+T21	PROCEDIMIENTO 2416 2434	prueba de esfuerzo
+T22	PROCEDIMIENTO 2440 2459	analítica sanguínea
+T23	PROCEDIMIENTO 2474 2485	radiografía
+T24	PROCEDIMIENTO 2492 2507	ecocardiografía
+T25	PROCEDIMIENTO 2637 2647	ergometría
+T26	PROCEDIMIENTO 2835 2850	ecocardiografía
+T27	PROCEDIMIENTO 3992 4003	radiografía
+T28	PROCEDIMIENTO 4128 4143	polisomnografía
+T29	PROCEDIMIENTO 4321 4331	ergometría
+T30	PROCEDIMIENTO 4370 4387	cardiorresonancia
+T31	PROCEDIMIENTO 4697 4724	coronariografía diagnóstica
+T32	PROCEDIMIENTO 5395 5406	cateterismo
+T33	PROCEDIMIENTO 5485 5513	revascularización quirúrgica
+T34	PROCEDIMIENTO 5588 5619	pruebas de función respiratoria
+T35	PROCEDIMIENTO 5674 5691	broncodilatadores
+T36	PROCEDIMIENTO 5807 5841	ecografía de troncos supraaórticos
+T37	PROCEDIMIENTO 6076 6091	estudio Doppler
+T38	PROCEDIMIENTO 6357 6410	intervencionismo coronario sobre la coronaria derecha
+T39	PROCEDIMIENTO 6487 6514	cardiorresonancia magnética
+T40	PROCEDIMIENTO 6531 6566	angioplastia por vía radial derecha
+T41	PROCEDIMIENTO 6659 6678	stent farmacoactivo
+T42	PROCEDIMIENTO 7275 7302	tratamiento hipoglucemiante
+T43	PROCEDIMIENTO 7364 7374	ergometría
+T44	PROCEDIMIENTO 7395 7407	angioplastia
+T45	PROCEDIMIENTO 7546 7561	ecocardiografía
+T46	NEG 168 171	sin
+T47	NSCO 172 190	alergias conocidas
+T48	NEG 439 441	No
+T49	NSCO 442 479	refiere otros antecedentes de interés
+T50	NEG 482 487	niega
+T51	NSCO 488 526	antecedentes familiares de cardiopatía
+T52	NEG 800 808	falta de
+T53	NSCO 809 813	aire
+T54	NEG 1052 1054	no
+T55	NSCO 1055 1074	se había modificado
+T56	NEG 1076 1078	No
+T57	NSCO 1079 1164	presentaba síntomas que indicaran insuficiencia cardiaca y negaba tener palpitaciones
+T58	NEG 1679 1682	sin
+T59	NSCO 1683 1699	frémito asociado
+T60	NEG 1747 1749	no
+T61	NSCO 1750 1803	había ruidos agregados a la auscultación respiratoria
+T62	NEG 1849 1852	sin
+T63	NSCO 1853 1900	signos de congestión venosa en el examen físico
+T64	UNC 2577 2584	posible
+T65	USCO 2585 2624	síndrome de apnea obstructiva del sueño
+T66	NEG 3511 3519	descartó
+T67	NSCO 3520 3545	alteraciones de ionograma
+T68	NEG 4753 4756	sin
+T69	NSCO 4757 4765	lesiones
+T70	NEG 5062 5064	no
+T71	NSCO 5065 5079	significativas
+T72	NEG 5959 5962	sin
+T73	NSCO 5963 6091	que se apreciaran alteraciones en las velocidades que indicaran estenosis hemodinámicamente significativas en el estudio Doppler
+T74	NEG 6208 6211	sin
+T75	NSCO 6212 6215	sal
+T76	NEG 6217 6219	no
+T77	NSCO 6220 6235	ha perdido peso
+T78	NEG 6717 6720	sin
+T79	NSCO 6721 6735	complicaciones
+T80	NEG 7164 7166	no
+T81	NSCO 7167 7218	estar adecuadamente controladas la presión arterial
+T82	NEG 7451 7459	negativa
+T83	NSCO 7460 7490	al nivel de esfuerzo alcanzado
+T84	NEG 7799 7801	no
+T85	NSCO 7802 7836	hay datos de disfunción diastólica
+T86	FARMACO 555 565	amlodipino
+T87	FARMACO 571 583	simvastatina
+T88	FARMACO 591 601	metformina
+T89	FARMACO 2335 2357	ácido acetilsalicílico
+T90	FARMACO 2366 2376	bisoprolol
+T91	FARMACO 4632 4647	bloqueador beta
+T92	FARMACO 6942 6964	ácido acetilsalicílico
+T93	FARMACO 6967 6978	clopidogrel
+T94	FARMACO 6980 6990	bisoprolol
+T95	FARMACO 7007 7015	nitratos
+T96	FARMACO 7022 7034	simvastatina
+T97	FARMACO 7041 7051	metformina
+T98	FARMACO 7060 7069	omeprazol
+T99	FARMACO 7147 7157	ranolazina
+T100	FARMACO 7246 7254	ramipril
+T101	ORG_VIVO 3 8	varón
+T102	ORG_VIVO 74 91	médico de familia
+T103	ORG_VIVO 149 166	empleado de banca
+T104	ORG_VIVO 501 511	familiares
+T105	ORG_VIVO 640 648	paciente
+T106	ORG_VIVO 1271 1276	mujer
+T107	ORG_VIVO 1391 1396	varón
+T108	ORG_VIVO 4089 4098	neumólogo
+T109	ORG_VIVO 4445 4453	paciente
+T110	ORG_VIVO 6097 6105	paciente
+T111	ORG_VIVO 6828 6836	paciente
+T112	ORG_VIVO 7511 7520	pacientes
+T113	ENFERMEDAD 272 293	hipertensión arterial
+T114	ENFERMEDAD 295 298	HTA
+T115	ENFERMEDAD 360 370	dislipemia
+T116	ENFERMEDAD 373 390	diabetes mellitus
+T117	ENFERMEDAD 392 394	DM
+T118	ENFERMEDAD 515 526	cardiopatía
+T119	ENFERMEDAD 1113 1135	insuficiencia cardiaca
+T120	ENFERMEDAD 1430 1460	obesidad de predominio central
+T121	ENFERMEDAD 2220 2226	angina
+T122	ENFERMEDAD 2585 2624	síndrome de apnea obstructiva del sueño
+T123	ENFERMEDAD 2626 2630	SAOS
+T124	ENFERMEDAD 2695 2714	isquemia miocárdica
+T125	ENFERMEDAD 3261 3291	insuficiencia moderada central
+T126	ENFERMEDAD 3360 3395	insuficiencia tricuspídea funcional
+T127	ENFERMEDAD 6472 6480	isquemia
+T128	ENFERMEDAD 6848 6875	angina de grandes esfuerzos
+T129	ENFERMEDAD 7694 7728	hipertrofia septal de grado ligero
+T130	SANITARIO-PROFESION 74 91	médico de familia
+T131	PACIENTE-PROFESION 149 166	empleado de banca
+T132	SANITARIO-PROFESION 4089 4098	neumólogo

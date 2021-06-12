@@ -1,0 +1,10 @@
+
+No	O
+se	O
+observan	O
+alteraciones	O
+en	O
+la	O
+trama	O
+broncovascular	O
+.	O

@@ -1,0 +1,14 @@
+
+Episodios	O
+que	O
+habían	O
+sucedido	O
+antes	O
+,	O
+siempre	O
+con	O
+sensación	O
+previa	O
+de	O
+fiebre	O
+.	O

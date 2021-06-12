@@ -1,0 +1,8 @@
+
+Tío	O
+paterno	O
+con	O
+Síndrome	O
+de	O
+Down	O
+.	O

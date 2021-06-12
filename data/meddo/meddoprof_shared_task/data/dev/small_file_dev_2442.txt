@@ -1,0 +1,8 @@
+
+A	O
+veces	O
+vocifera	O
+y	O
+emite	O
+sonidos	O
+.	O

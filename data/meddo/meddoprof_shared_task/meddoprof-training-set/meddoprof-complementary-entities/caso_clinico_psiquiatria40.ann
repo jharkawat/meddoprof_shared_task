@@ -1,0 +1,85 @@
+T1	SINTOMA 112 120	insomnio
+T2	SINTOMA 247 255	insomnio
+T3	SINTOMA 384 393	cansancio
+T4	SINTOMA 819 827	insomnio
+T5	SINTOMA 1017 1025	insomnio
+T6	SINTOMA 1298 1325	deterioro en su vida social
+T7	SINTOMA 1483 1498	dolor abdominal
+T8	SINTOMA 3579 3587	insomnio
+T9	PROCEDIMIENTO 2613 2643	tratamiento con antipsicóticos
+T10	NEG 210 212	no
+T11	NSCO 213 229	más de dos horas
+T12	NEG 542 545	sin
+T13	NSCO 546 551	éxito
+T14	NEG 683 686	sin
+T15	NSCO 687 711	encontrar causa orgánica
+T16	NEG 804 806	no
+T17	NSCO 807 830	es tanto el insomnio en
+T18	UNC 1446 1456	Al parecer
+T19	USCO 1457 1498	el paciente se quejaba de dolor abdominal
+T20	NEG 1634 1636	no
+T21	NSCO 1637 1642	comía
+T22	UNC 2169 2175	parece
+T23	USCO 2176 2187	ad integrum
+T24	NEG 2797 2799	no
+T25	NSCO 2800 2831	volvió a las siguientes visitas
+T26	NEG 3235 3237	No
+T27	NSCO 3238 3240	se
+T28	UNC 3280 3288	posibles
+T29	USCO 3289 3318	causas de la situación actual
+T30	NEG 3342 3345	sin
+T31	NSCO 3346 3379	querer profundizar en su ideación
+T32	NEG 3716 3718	no
+T33	NSCO 3719 3777	acepta como posible una equivocación en sus planteamientos
+T34	UNC 3794 3807	aparentemente
+T35	USCO 3808 3852	acepta tratamiento farmacológico en realidad
+T36	NEG 3853 3855	no
+T37	NSCO 3856 3863	lo toma
+T38	NEG 3872 3874	no
+T39	NSCO 3875 3886	estoy loco"
+T40	UNC 3898 3904	parece
+T41	USCO 3905 3915	ser cierto
+T42	NEG 3964 3966	no
+T43	NSCO 3967 4009	consume cannabis ni ninguna otra sustancia
+T44	ORG_VIVO 39 44	varón
+T45	ORG_VIVO 81 90	neurólogo
+T46	ORG_VIVO 125 133	paciente
+T47	ORG_VIVO 750 762	especialista
+T48	ORG_VIVO 892 900	paciente
+T49	ORG_VIVO 928 936	paciente
+T50	ORG_VIVO 1134 1142	paciente
+T51	ORG_VIVO 1195 1203	hermanas
+T52	ORG_VIVO 1277 1287	vecindario
+T53	ORG_VIVO 1328 1336	personal
+T54	ORG_VIVO 1391 1397	vecina
+T55	ORG_VIVO 1411 1419	hermanas
+T56	ORG_VIVO 1460 1468	paciente
+T57	ORG_VIVO 1550 1556	vecina
+T58	ORG_VIVO 1564 1569	bruja
+T59	ORG_VIVO 1624 1632	hermanas
+T60	ORG_VIVO 1709 1716	vecinos
+T61	ORG_VIVO 1821 1829	paciente
+T62	ORG_VIVO 1956 1964	hermanas
+T63	ORG_VIVO 2061 2071	personales
+T64	ORG_VIVO 2076 2084	paciente
+T65	ORG_VIVO 2212 2220	cannabis
+T66	ORG_VIVO 2274 2282	paciente
+T67	ORG_VIVO 2297 2318	compañeros de trabajo
+T68	ORG_VIVO 2407 2414	familia
+T69	ORG_VIVO 2761 2764	MAP
+T70	ORG_VIVO 2788 2796	paciente
+T71	ORG_VIVO 2926 2934	paciente
+T72	ORG_VIVO 2984 2992	cannabis
+T73	ORG_VIVO 3432 3439	vecinos
+T74	ORG_VIVO 3470 3477	vecinos
+T75	ORG_VIVO 3975 3983	cannabis
+T76	ENFERMEDAD 2197 2220	abstinencia de cannabis
+T77	ENFERMEDAD 2476 2497	cuadro esquizofrénico
+T78	ENFERMEDAD 3151 3166	úlcera gástrica
+T79	ENFERMEDAD 3601 3620	enfermedad gástrica
+T80	SANITARIO-PROFESION 2761 2764	MAP
+T81	SANITARIO-PROFESION 750 762	especialista
+T82	SANITARIO-PROFESION 81 90	neurólogo
+T83	OTROS-ACTIVIDAD 1564 1569	bruja
+T84	PACIENTE-SITUACION_LABORAL 1868 1894	había abandonado su oficio
+T85	OTROS-SITUACION_LABORAL 2297 2318	compañeros de trabajo

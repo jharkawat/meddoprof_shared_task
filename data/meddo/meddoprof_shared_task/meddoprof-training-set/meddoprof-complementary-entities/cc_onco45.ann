@@ -1,0 +1,220 @@
+T1	SINTOMA 564 571	náuseas
+T2	SINTOMA 574 581	vómitos
+T3	SINTOMA 702 734	engrosamiento de la pared antral
+T4	SINTOMA 1521 1536	pérdida de peso
+T5	SINTOMA 1546 1554	anorexia
+T6	SINTOMA 2589 2604	pérdida de peso
+T7	SINTOMA 2674 2681	astenia
+T8	SINTOMA 2692 2699	náuseas
+T9	SINTOMA 2939 2946	Afebril
+T10	SINTOMA 2948 2956	Eupneica
+T11	SINTOMA 2968 2978	Consciente
+T12	SINTOMA 2980 2989	orientada
+T13	SINTOMA 4602 4624	infiltrados pulmonares
+T14	SINTOMA 4997 5034	masa móvil en el techo de la aurícula
+T15	SINTOMA 6000 6011	hipotensión
+T16	SINTOMA 6013 6019	fiebre
+T17	SINTOMA 6024 6032	tiritona
+T18	SINTOMA 6035 6063	deterioro del estado general
+T19	SINTOMA 6088 6095	náuseas
+T20	SINTOMA 6102 6109	vómitos
+T21	SINTOMA 6828 6834	fiebre
+T22	SINTOMA 6860 6878	mal estado general
+T23	SINTOMA 6880 6902	secreciones en la boca
+T24	SINTOMA 6952 6960	nauseosa
+T25	SINTOMA 6966 6973	decaída
+T26	SINTOMA 6989 6997	delirium
+T27	SINTOMA 7000 7009	disartria
+T28	SINTOMA 7201 7237	masa de 5 cm2 a nivel de la aurícula
+T29	SINTOMA 7496 7502	disnea
+T30	SINTOMA 8450 8456	fiebre
+T31	SINTOMA 9115 9122	náuseas
+T32	SINTOMA 9125 9132	vómitos
+T33	SINTOMA 9149 9187	secreciones bronquiales paraneumónicas
+T34	SINTOMA 9358 9367	agitación
+T35	SINTOMA 9425 9432	fallece
+T36	PROCEDIMIENTO 135 142	cesárea
+T37	PROCEDIMIENTO 158 172	apendicectomía
+T38	PROCEDIMIENTO 669 688	ecografía abdominal
+T39	PROCEDIMIENTO 791 801	endoscopia
+T40	PROCEDIMIENTO 834 841	biopsia
+T41	PROCEDIMIENTO 937 961	laparoscopia exploradora
+T42	PROCEDIMIENTO 998 1019	gastrectomía subtotal
+T43	PROCEDIMIENTO 1022 1048	reconstrucción Billroth II
+T44	PROCEDIMIENTO 1378 1392	tratamiento RT
+T45	PROCEDIMIENTO 1693 1696	PET
+T46	PROCEDIMIENTO 1807 1826	tratamiento con ECF
+T47	PROCEDIMIENTO 2285 2296	anastomosis
+T48	PROCEDIMIENTO 2708 2737	tratamiento con progestágenos
+T49	PROCEDIMIENTO 2739 2757	corticoides orales
+T50	PROCEDIMIENTO 2861 2879	Exploración física
+T51	PROCEDIMIENTO 3279 3288	Hemograma
+T52	PROCEDIMIENTO 3484 3505	TC de tórax y abdomen
+T53	PROCEDIMIENTO 3568 3590	Estudio gastroduodenal
+T54	PROCEDIMIENTO 3653 3681	Ecocardiograma transtorácico
+T55	PROCEDIMIENTO 3972 3992	Radiografía de tórax
+T56	PROCEDIMIENTO 4115 4139	RM craneal con contraste
+T57	PROCEDIMIENTO 4246 4281	TC de tórax y abdomen con contraste
+T58	PROCEDIMIENTO 4801 4821	Radiografía de tórax
+T59	PROCEDIMIENTO 4955 4983	Ecocardiograma transtorácico
+T60	PROCEDIMIENTO 5467 5481	toracocentesis
+T61	PROCEDIMIENTO 5535 5555	nutrición parenteral
+T62	PROCEDIMIENTO 5653 5673	nutrición parenteral
+T63	PROCEDIMIENTO 5698 5708	corticoide
+T64	PROCEDIMIENTO 6125 6158	hemocultivos de sangre periférica
+T65	PROCEDIMIENTO 6160 6170	urocultivo
+T66	PROCEDIMIENTO 6190 6210	radiografía de tórax
+T67	PROCEDIMIENTO 6298 6310	sueroterapia
+T68	PROCEDIMIENTO 6320 6332	antieméticos
+T69	PROCEDIMIENTO 6335 6349	antibioterapia
+T70	PROCEDIMIENTO 6780 6792	antitérmicos
+T71	PROCEDIMIENTO 7103 7122	TC de tórax-abdomen
+T72	PROCEDIMIENTO 7135 7149	ecocardiograma
+T73	PROCEDIMIENTO 7156 7166	RM craneal
+T74	PROCEDIMIENTO 7619 7644	toracocentesis evacuadora
+T75	PROCEDIMIENTO 8003 8014	antibiótico
+T76	PROCEDIMIENTO 8119 8134	anticoagulación
+T77	PROCEDIMIENTO 8240 8273	hemocultivos de sangre periférica
+T78	PROCEDIMIENTO 8342 8362	nutrición parenteral
+T79	PROCEDIMIENTO 8571 8587	ecocardiográfica
+T80	PROCEDIMIENTO 9245 9257	antieméticos
+T81	NEG 28 31	Sin
+T82	NSCO 32 98	alergias conocidas, hábitos tóxicos ni patología previa de interés
+T83	UNC 842 856	compatible con
+T84	USCO 857 880	adenocarcinoma gástrico
+T85	NEG 882 893	se descarta
+T86	NSCO 894 916	afectación a distancia
+T87	UNC 1625 1631	dudosa
+T88	USCO 1632 1653	afectación peritoneal
+T89	NEG 1697 1705	negativa
+T90	NEG 1762 1774	se desestima
+T91	NEG 2007 2016	retirando
+T92	NSCO 2017 2080	el oxaliplatino tras el sexto ciclo por reacción alérgica grave
+T93	NEG 2465 2468	sin
+T94	NSCO 2469 2526	evidencia de enfermedad hasta principios de marzo de 2015
+T95	NEG 2939 2946	Afebril
+T96	NEG 3153 3156	sin
+T97	NSCO 3157 3181	datos de infección local
+T98	NEG 3506 3509	sin
+T99	NSCO 3510 3519	contraste
+T100	NEG 3533 3536	sin
+T101	NSCO 3537 3564	alteraciones significativas
+T102	NEG 3604 3607	sin
+T103	NSCO 3608 3620	alteraciones
+T104	UNC 3758 3771	probablemente
+T105	USCO 3772 3807	procedente de la vena cava superior
+T106	NEG 3952 3955	sin
+T107	NSCO 3956 3968	alteraciones
+T108	UNC 4175 4183	posibles
+T109	USCO 4184 4220	embolismos milimétricos distribuidos
+T110	UNC 4680 4694	compatible con
+T111	USCO 4695 4714	embolismos sépticos
+T112	NEG 5132 5135	sin
+T113	NSCO 5136 5166	protrusión hacia el ventrículo
+T114	NEG 5791 5800	descartar
+T115	NSCO 5801 5874	datos de progresión de la enfermedad en las pruebas previamente referidas
+T116	UNC 6233 6247	compatible con
+T117	USCO 6248 6287	cuadro séptico grave de origen pulmonar
+T118	NEG 6538 6546	negativo
+T119	NSCO 6547 6554	capitis
+T120	UNC 7401 7414	probablemente
+T121	USCO 7415 7428	paraneumónico
+T122	NEG 7726 7729	sin
+T123	NSCO 7730 7751	afectación neoplásica
+T124	NEG 7838 7849	se descarta
+T125	NSCO 7850 7879	la opción de cirugía cardíaca
+T126	NEG 8136 8145	se retira
+T127	NSCO 8146 8273	el foco de infección (aislándose estafilococo en punta del catéter similar al extraído en los hemocultivos de sangre periférica
+T128	NEG 8431 8446	desaparición de
+T129	NSCO 8447 8456	la fiebre
+T130	NEG 8598 8613	desaparición de
+T131	NSCO 8614 8631	la masa auricular
+T132	NEG 9396 9398	no
+T133	NSCO 9399 9422	responde a ltratamiento
+T134	NEG 9441 9444	sin
+T135	NSCO 9445 9466	signos de sufrimiento
+T136	FARMACO 2020 2032	oxaliplatino
+T137	FARMACO 5720 5731	cinitaprida
+T138	FARMACO 6695 6704	linezolid
+T139	FARMACO 8060 8071	cloxacilina
+T140	FARMACO 8074 8083	amikacina
+T141	FARMACO 8097 8106	linezolid
+T142	ORG_VIVO 10 15	Mujer
+T143	ORG_VIVO 185 198	sociofamiliar
+T144	ORG_VIVO 212 218	esposo
+T145	ORG_VIVO 230 238	cuidador
+T146	ORG_VIVO 262 269	celador
+T147	ORG_VIVO 299 304	hijos
+T148	ORG_VIVO 325 336	ama de casa
+T149	ORG_VIVO 2903 2911	paciente
+T150	ORG_VIVO 5269 5280	bacteriemia
+T151	ORG_VIVO 5960 5968	paciente
+T152	ORG_VIVO 6396 6404	paciente
+T153	ORG_VIVO 6513 6554	Staphylococcus coagulasa negativo capitis
+T154	ORG_VIVO 6555 6585	ureoliticus meticilín sensible
+T155	ORG_VIVO 6806 6814	paciente
+T156	ORG_VIVO 6938 6946	paciente
+T157	ORG_VIVO 7068 7079	antifúngico
+T158	ORG_VIVO 7478 7486	paciente
+T159	ORG_VIVO 8034 8046	estafilococo
+T160	ORG_VIVO 8843 8851	paciente
+T161	ORG_VIVO 8857 8864	familia
+T162	ORG_VIVO 8877 8886	psicóloga
+T163	ORG_VIVO 8904 8917	equipo médico
+T164	ORG_VIVO 9045 9053	paciente
+T165	ORG_VIVO 9262 9270	paciente
+T166	ENFERMEDAD 815 831	linitis plástica
+T167	ENFERMEDAD 857 880	adenocarcinoma gástrico
+T168	ENFERMEDAD 1069 1123	adenocarcinoma gástrico con células en anillo de sello
+T169	ENFERMEDAD 1606 1653	recidiva local con dudosa afectación peritoneal
+T170	ENFERMEDAD 1872 1881	mucositis
+T171	ENFERMEDAD 1982 2004	toxicidad hematológica
+T172	ENFERMEDAD 2057 2080	reacción alérgica grave
+T173	ENFERMEDAD 2262 2296	recidiva a nivel de la anastomosis
+T174	ENFERMEDAD 2355 2380	fístula enteropancreática
+T175	ENFERMEDAD 2398 2428	infiltración de asa intestinal
+T176	ENFERMEDAD 3047 3070	sarcopenia generalizada
+T177	ENFERMEDAD 3166 3181	infección local
+T178	ENFERMEDAD 3290 3313	anemia leve normocítica
+T179	ENFERMEDAD 3870 3904	Derrame pericárdico leve posterior
+T180	ENFERMEDAD 4184 4242	embolismos milimétricos distribuidos por ambos hemisferios
+T181	ENFERMEDAD 4294 4367	tromboembolismo pulmonar con afectación de la arteria del lóbulo inferior
+T182	ENFERMEDAD 4464 4493	derrame pleural paraneumónico
+T183	ENFERMEDAD 4496 4520	derrame pleural loculado
+T184	ENFERMEDAD 4695 4714	embolismos sépticos
+T185	ENFERMEDAD 4716 4735	Derrame pericárdico
+T186	ENFERMEDAD 4756 4763	Ascitis
+T187	ENFERMEDAD 4766 4797	implantes peritoneales malignos
+T188	ENFERMEDAD 4845 4860	derrame pleural
+T189	ENFERMEDAD 4873 4915	atelectasia compresiva del lóbulo inferior
+T190	ENFERMEDAD 4926 4941	derrame pleural
+T191	ENFERMEDAD 5184 5220	Tromboembolismos sépticos pulmonares
+T192	ENFERMEDAD 5248 5266	endocarditis aguda
+T193	ENFERMEDAD 5269 5319	bacteriemia por Staphylococcus capitis/ureoliticus
+T194	ENFERMEDAD 5322 5345	Adenocarcinoma gástrico
+T195	ENFERMEDAD 5372 5395	metástasis peritoneales
+T196	ENFERMEDAD 5400 5415	Derrame pleural
+T197	ENFERMEDAD 5485 5522	Desnutrición calórico-proteica severa
+T198	ENFERMEDAD 5559 5578	Delirium hipoactivo
+T199	ENFERMEDAD 5597 5603	sepsis
+T200	ENFERMEDAD 5606 5615	neoplasia
+T201	ENFERMEDAD 5981 5995	cuadro séptico
+T202	ENFERMEDAD 6248 6287	cuadro séptico grave de origen pulmonar
+T203	ENFERMEDAD 6373 6392	neumonía nosocomial
+T204	ENFERMEDAD 6405 6420	inmunodeprimida
+T205	ENFERMEDAD 6479 6576	hemocultivos de sangre periférica Staphylococcus coagulasa negativo capitis/ureoliticus meticilín
+T206	ENFERMEDAD 6989 6997	delirium
+T207	ENFERMEDAD 7259 7277	endocarditis aguda
+T208	ENFERMEDAD 7282 7318	tromboembolismos sépticos pulmonares
+T209	ENFERMEDAD 7347 7362	derrame pleural
+T210	ENFERMEDAD 7431 7448	hígado de estasis
+T211	ENFERMEDAD 7451 7472	ascitis leve-moderada
+T212	ENFERMEDAD 7532 7547	derrame pleural
+T213	ENFERMEDAD 7590 7603	shock séptico
+T214	ENFERMEDAD 8157 8166	infección
+T215	ENFERMEDAD 9370 9391	fracaso multiorgánico
+T216	SANITARIO-PROFESION 8904 8917	equipo médico
+T217	FAMILIAR-SITUACION_LABORAL 230 248	cuidador principal
+T218	FAMILIAR-PROFESION 262 269	celador
+T219	PACIENTE-SITUACION_LABORAL 325 336	ama de casa
+T220	SANITARIO-PROFESION 8877 8886	psicóloga

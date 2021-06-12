@@ -1,0 +1,26 @@
+
+Se	O
+realizan	O
+análisis	O
+sanguíneos	O
+,	O
+donde	O
+en	O
+la	O
+bioquímica	O
+se	O
+aprecia	O
+un	O
+leve	O
+aumento	O
+de	O
+los	O
+reactantes	O
+de	O
+fase	O
+aguda	O
+siendo	O
+el	O
+hemograma	O
+normal	O
+.	O

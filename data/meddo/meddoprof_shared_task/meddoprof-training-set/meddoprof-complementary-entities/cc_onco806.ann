@@ -1,0 +1,111 @@
+T1	SINTOMA 2925 2946	molestias abdominales
+T2	SINTOMA 2992 2998	disnea
+T3	SINTOMA 3018 3038	molestias inguinales
+T4	SINTOMA 3054 3065	parestesias
+T5	SINTOMA 3194 3220	masa tumoral en hemipelvis
+T6	SINTOMA 3572 3587	trombocitopenia
+T7	SINTOMA 4203 4214	trombopenia
+T8	SINTOMA 4976 4991	sangrado activo
+T9	SINTOMA 5036 5050	dolor torácico
+T10	SINTOMA 5052 5058	disnea
+T11	SINTOMA 5060 5081	desconexión del medio
+T12	SINTOMA 5083 5094	hipotensión
+T13	SINTOMA 5097 5116	respiración central
+T14	SINTOMA 5333 5339	exitus
+T15	PROCEDIMIENTO 464 486	ecografía transvaginal
+T16	PROCEDIMIENTO 489 507	Exploración física
+T17	PROCEDIMIENTO 519 537	exploración física
+T18	PROCEDIMIENTO 555 582	auscultación cardiopulmonar
+T19	PROCEDIMIENTO 599 623	exploración ginecológica
+T20	PROCEDIMIENTO 846 866	radiografía de tórax
+T21	PROCEDIMIENTO 872 889	análisis de orina
+T22	PROCEDIMIENTO 905 914	ecografía
+T23	PROCEDIMIENTO 1127 1150	histerectomía abdominal
+T24	PROCEDIMIENTO 1941 1962	anexectomía bilateral
+T25	PROCEDIMIENTO 1967 1981	apendicectomía
+T26	PROCEDIMIENTO 1989 2014	liberación de adherencias
+T27	PROCEDIMIENTO 2076 2110	radioterapia (RT) externa 50 Grays
+T28	PROCEDIMIENTO 2147 2163	RT endocavitaria
+T29	PROCEDIMIENTO 2417 2437	tratamiento hormonal
+T30	PROCEDIMIENTO 2637 2713	instilaciones intravesicales con ácido hialurónico y coagulación endovesical
+T31	PROCEDIMIENTO 2807 2825	exploración física
+T32	PROCEDIMIENTO 3121 3141	resonancia magnética
+T33	PROCEDIMIENTO 3143 3145	RM
+T34	PROCEDIMIENTO 3149 3173	tomografía computarizada
+T35	PROCEDIMIENTO 3175 3177	TC
+T36	PROCEDIMIENTO 3658 3666	angio-TC
+T37	PROCEDIMIENTO 3774 3802	biopsia guiada por ecografía
+T38	PROCEDIMIENTO 4102 4149	anticoagulación con heparina sódica intravenosa
+T39	PROCEDIMIENTO 4510 4537	frotis de sangre periférica
+T40	PROCEDIMIENTO 4739 4766	tratamiento con corticoides
+T41	PROCEDIMIENTO 4893 4926	tratamiento con anastrozol y HBPM
+T42	PROCEDIMIENTO 5222 5232	intubación
+T43	PROCEDIMIENTO 5380 5388	autopsia
+T44	NEG 78 81	sin
+T45	NSCO 82 142	antecedentes patológicos personales ni familiares de interés
+T46	NEG 258 260	No
+T47	NSCO 261 323	presenta hábitos tóxicos ni toma medicación de manera habitual
+T48	UNC 1220 1234	compatible con
+T49	USCO 1235 1249	SEE bajo grado
+T50	NEG 1401 1404	sin
+T51	NSCO 1405 1437	actividad mitótica significativa
+T52	NEG 1511 1527	negatividad para
+T53	NSCO 1528 1561	la actina, marcadores epiteliales
+T54	NEG 2321 2324	sin
+T55	NSCO 2325 2336	incidencias
+T56	NEG 2755 2758	sin
+T57	NSCO 2759 2767	recidiva
+T58	NEG 2947 2960	inespecíficas
+T59	NEG 3287 3289	no
+T60	NSCO 3290 3321	reversible del parénquima renal
+T61	UNC 3522 3535	sugestivos de
+T62	USCO 3536 3546	metástasis
+T63	UNC 3842 3856	compatible con
+T64	USCO 3857 3871	SEE bajo grado
+T65	NEG 4446 4449	sin
+T66	NSCO 4450 4467	mejoría analítica
+T67	UNC 4665 4673	sospecha
+T68	USCO 4674 4714	diagnóstica de plaquetopenia por consumo
+T69	UNC 4786 4794	probable
+T70	USCO 4795 4835	causa autoinmune subyacente concomitante
+T71	NEG 4963 4966	sin
+T72	NSCO 4967 4991	datos de sangrado activo
+T73	NEG 5204 5206	no
+T74	NSCO 5207 5253	subsidiaria de intubación ni medidas agresivas
+T75	FARMACO 2457 2477	acetato de megestrol
+T76	FARMACO 2670 2687	ácido hialurónico
+T77	FARMACO 4006 4016	anastrozol
+T78	FARMACO 4122 4137	heparina sódica
+T79	FARMACO 4405 4437	heparinas de bajo peso molecular
+T80	FARMACO 4439 4443	HBPM
+T81	FARMACO 4909 4919	anastrozol
+T82	FARMACO 4922 4926	HBPM
+T83	ORG_VIVO 10 15	Mujer
+T84	ORG_VIVO 36 47	ama de casa
+T85	ORG_VIVO 107 117	personales
+T86	ORG_VIVO 121 131	familiares
+T87	ORG_VIVO 3717 3725	paciente
+T88	ORG_VIVO 4840 4848	paciente
+T89	ORG_VIVO 5396 5403	familia
+T90	ENFERMEDAD 250 256	aborto
+T91	ENFERMEDAD 361 390	anemias de perfil ferropénico
+T92	ENFERMEDAD 439 454	miomas uterinos
+T93	ENFERMEDAD 767 781	anemia grado 2
+T94	ENFERMEDAD 932 945	mioma uterino
+T95	ENFERMEDAD 1235 1249	SEE bajo grado
+T96	ENFERMEDAD 1833 1897	infiltración por múltiples nódulos del SEE bajo grado del ovario
+T97	ENFERMEDAD 2366 2386	toxicidad intestinal
+T98	ENFERMEDAD 2525 2547	hematuria macroscópica
+T99	ENFERMEDAD 2590 2607	cistitis actínica
+T100	ENFERMEDAD 3194 3220	masa tumoral en hemipelvis
+T101	ENFERMEDAD 3246 3266	ureterohidronefrosis
+T102	ENFERMEDAD 3279 3321	atrofia no reversible del parénquima renal
+T103	ENFERMEDAD 3361 3463	trombosis de ambas venas iliacas comunes y cava inferior en toda su extensión, llegando hasta aurícula
+T104	ENFERMEDAD 3474 3546	nódulos pulmonares en lóbulo inferior izquierdo sugestivos de metástasis
+T105	ENFERMEDAD 3667 3691	tromboembolismo pulmonar
+T106	ENFERMEDAD 4203 4214	trombopenia
+T107	ENFERMEDAD 4275 4304	trombopenia grave persistente
+T108	ENFERMEDAD 4689 4714	plaquetopenia por consumo
+T109	ENFERMEDAD 4801 4835	autoinmune subyacente concomitante
+T110	ENFERMEDAD 4941 4954	plaquetopenia
+T111	PACIENTE-SITUACION_LABORAL 36 47	ama de casa

@@ -1,0 +1,8 @@
+
+Intervenido	O
+de	O
+amigdalectomía	O
+en	O
+la	O
+infancia	O
+.	O

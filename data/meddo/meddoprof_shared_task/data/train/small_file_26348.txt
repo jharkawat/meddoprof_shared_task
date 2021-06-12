@@ -1,0 +1,14 @@
+
+En	O
+cuanto	O
+al	O
+sueño	O
+,	O
+presentaba	O
+insomnio	O
+de	O
+conciliación	O
+y	O
+despertares	O
+frecuentes	O
+.	O

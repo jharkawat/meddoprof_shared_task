@@ -1,0 +1,15 @@
+
+Tiene	O
+crisis	O
+de	O
+mucho	O
+dolor	O
+,	O
+pero	O
+intenta	O
+ignorarlas	O
+y	O
+continuar	O
+trabajando	O
+.	O
+.	O

@@ -1,0 +1,23 @@
+
+Carcinoma	O
+adenoide	O
+quístico	O
+parotídeo	O
+derecho	O
+de	O
+alto	O
+grado	O
+de	O
+patrón	O
+cilindromatoso	O
+con	O
+adenopatías	O
+locorregionales	O
+y	O
+extensión	O
+ósea	O
+a	O
+lóbulo	O
+temporal	O
+ipsilateral	O
+.	O

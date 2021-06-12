@@ -1,0 +1,21 @@
+
+Se	O
+trata	O
+de	O
+una	O
+mujer	O
+de	O
+58	O
+años	O
+,	O
+natural	O
+de	O
+Zaragoza	O
+,	O
+casada	O
+y	O
+madre	O
+de	O
+un	O
+hijo	O
+.	O

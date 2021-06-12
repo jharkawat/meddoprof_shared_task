@@ -1,0 +1,5 @@
+
+Buena	O
+red	O
+sociofamiliar	O
+.	O

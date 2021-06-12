@@ -1,0 +1,17 @@
+
+A	O
+nivel	O
+académico	O
+había	O
+mantenido	O
+buena	O
+adaptación	O
+escolar	O
+y	O
+rendimiento	O
+académico	O
+hasta	O
+3o	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+ESO	I-SITUACION_LABORAL
+.	O

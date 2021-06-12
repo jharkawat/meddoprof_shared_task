@@ -1,0 +1,6 @@
+
+Lesiones	O
+en	O
+el	O
+tronco	O
+.	O

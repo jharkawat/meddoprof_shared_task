@@ -1,0 +1,17 @@
+
+Las	O
+baciloscopias	O
+de	O
+esputo	O
+fueron	O
+negativas	O
+y	O
+el	O
+cultivo	O
+de	O
+esputo	O
+positivo	O
+para	O
+Aspergillus	O
+flavus	O
+.	O

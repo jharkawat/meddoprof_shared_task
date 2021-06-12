@@ -1,0 +1,25 @@
+
+En	O
+cuanto	O
+al	O
+rendimiento	O
+,	O
+refieren	O
+que	O
+"	O
+en	O
+clase	O
+está	O
+en	O
+otro	O
+mundo	O
+,	O
+dibujando	O
+y	O
+que	O
+antes	O
+no	O
+era	O
+así	O
+"	O
+.	O

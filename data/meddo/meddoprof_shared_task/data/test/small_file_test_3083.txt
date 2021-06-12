@@ -1,0 +1,13 @@
+
+No	O
+presenta	O
+síndrome	O
+constitucional	O
+y	O
+la	O
+anamnesis	O
+por	O
+aparatos	O
+es	O
+normal	O
+.	O

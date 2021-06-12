@@ -1,0 +1,4 @@
+
+Enfermedad	O
+autoinmune	O
+.	O

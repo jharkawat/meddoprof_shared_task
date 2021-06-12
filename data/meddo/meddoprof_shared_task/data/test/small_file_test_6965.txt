@@ -1,0 +1,23 @@
+
+El	O
+electromiograma	O
+y	O
+el	O
+estudio	O
+de	O
+autoinmunidad	O
+resultaron	O
+negativos	O
+,	O
+aunque	O
+no	O
+se	O
+llegaron	O
+a	O
+solicitar	O
+los	O
+anticuerpos	O
+anti	O
+-	O
+LRP4	O
+.	O

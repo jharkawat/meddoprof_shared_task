@@ -1,0 +1,14 @@
+
+El	O
+aspirado	O
+de	O
+médula	O
+ósea	O
+mostró	O
+aumento	O
+moderado	O
+de	O
+la	O
+serie	O
+roja	O
+.	O

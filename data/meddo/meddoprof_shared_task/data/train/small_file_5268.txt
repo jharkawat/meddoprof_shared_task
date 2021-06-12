@@ -1,0 +1,8 @@
+
+El	O
+embarazo	O
+no	O
+llega	O
+a	O
+término	O
+.	O

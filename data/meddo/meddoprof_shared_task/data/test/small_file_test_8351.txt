@@ -1,0 +1,15 @@
+
+Anatomía	O
+Patológica	O
+analiza	O
+el	O
+bloque	O
+de	O
+piel	O
+extirpado	O
+,	O
+descartando	O
+presencia	O
+de	O
+malignidad	O
+.	O

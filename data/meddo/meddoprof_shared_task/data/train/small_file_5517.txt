@@ -1,0 +1,13 @@
+
+Ante	O
+imposibilidad	O
+de	O
+traslado	O
+del	O
+paciente	O
+,	O
+decidimos	O
+realizar	O
+visita	O
+domiciliaria	O
+.	O

@@ -1,0 +1,22 @@
+
+Es	O
+tratado	O
+empíricamente	O
+con	O
+Doxiciclina	O
+y	O
+esteroides	O
+,	O
+y	O
+posteriormente	O
+con	O
+Ceftriaxona	O
+y	O
+Ciprofloxacino	O
+,	O
+sin	O
+mejoría	O
+del	O
+cuadro	O
+clínico	O
+.	O

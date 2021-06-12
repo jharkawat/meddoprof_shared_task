@@ -1,0 +1,23 @@
+
+En	O
+los	O
+últimos	O
+tres	O
+meses	O
+,	O
+después	O
+del	O
+alta	O
+hospitalaria	O
+,	O
+la	O
+paciente	O
+ha	O
+continuado	O
+presentando	O
+la	O
+sintomatología	O
+psicótica	O
+previamente	O
+descrita	O
+.	O

@@ -1,0 +1,20 @@
+
+La	O
+impresión	O
+diagnóstica	O
+es	O
+de	O
+malestar	O
+emocional	O
+reactivo	O
+a	O
+distocia	O
+familiar	O
+,	O
+que	O
+no	O
+precisaba	O
+de	O
+tratamiento	O
+psicofarmacológico	O
+.	O

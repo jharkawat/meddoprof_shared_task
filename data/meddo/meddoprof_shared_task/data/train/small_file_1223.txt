@@ -1,0 +1,17 @@
+
+Fue	O
+tratada	O
+con	O
+albendazol	O
+por	O
+15	O
+días	O
+,	O
+con	O
+un	O
+nuevo	O
+estudio	O
+parasitológico	O
+sin	O
+hallazgos	O
+.	O

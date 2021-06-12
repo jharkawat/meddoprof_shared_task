@@ -1,0 +1,12 @@
+
+No	O
+adenopatías	O
+ni	O
+ingurgitación	O
+yugular	O
+,	O
+auscultación	O
+cardiopulmonar	O
+sin	O
+hallazgos	O
+.	O

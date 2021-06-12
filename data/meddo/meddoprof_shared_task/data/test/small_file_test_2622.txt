@@ -1,0 +1,9 @@
+
+No	O
+disnea	O
+,	O
+no	O
+tos	O
+ni	O
+expectoración	O
+.	O

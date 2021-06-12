@@ -1,0 +1,10 @@
+
+Actuaba	O
+en	O
+ocasiones	O
+como	O
+si	O
+hablara	O
+con	O
+alguien	O
+.	O

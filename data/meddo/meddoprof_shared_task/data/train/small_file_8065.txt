@@ -1,0 +1,11 @@
+
+Permanece	O
+libre	O
+de	O
+enfermedad	O
+sin	O
+necesidad	O
+de	O
+tratamiento	O
+adyuvante	O
+.	O

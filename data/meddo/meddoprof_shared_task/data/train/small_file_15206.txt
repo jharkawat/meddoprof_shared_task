@@ -1,0 +1,23 @@
+
+La	O
+triada	O
+clásica	O
+consiste	O
+en	O
+:	O
+displasia	O
+fibrosa	O
+poliostótica	O
+(	O
+POFD	O
+)	O
+,	O
+manchas	O
+de	O
+café	O
+con	O
+leche	O
+y	O
+pubertad	O
+precoz	O
+.	O

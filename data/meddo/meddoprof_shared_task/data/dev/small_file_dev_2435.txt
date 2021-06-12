@@ -1,0 +1,24 @@
+
+Sus	O
+familiares	O
+nos	O
+informan	O
+que	O
+la	O
+religión	O
+cristiana	O
+es	O
+un	O
+pilar	O
+importante	O
+en	O
+la	O
+vida	O
+del	O
+paciente	O
+,	O
+vive	O
+entregado	O
+a	O
+ella	O
+.	O

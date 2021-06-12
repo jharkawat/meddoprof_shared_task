@@ -1,0 +1,7 @@
+
+Neuropatía	O
+leve	O
+sensitiva	O
+en	O
+MMII	O
+.	O

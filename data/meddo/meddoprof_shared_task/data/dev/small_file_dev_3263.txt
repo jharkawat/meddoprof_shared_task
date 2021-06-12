@@ -1,0 +1,21 @@
+
+Es	O
+en	O
+2011	O
+,	O
+cuando	O
+los	O
+familiares	O
+advierten	O
+conductas	O
+acontextuales	O
+en	O
+domicilio	O
+y	O
+variaciones	O
+en	O
+los	O
+patrones	O
+conductuales	O
+normales	O
+.	O

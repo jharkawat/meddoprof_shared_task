@@ -1,0 +1,11 @@
+
+Discurso	O
+coherente	O
+,	O
+parco	O
+en	O
+palabras	O
+,	O
+ligeramente	O
+evitativo	O
+.	O

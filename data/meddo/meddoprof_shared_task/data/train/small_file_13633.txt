@@ -1,0 +1,18 @@
+
+Se	O
+solicitó	O
+IgG4	O
+sérica	O
+,	O
+normal	O
+,	O
+RMN	O
+dorsolumbar	O
+,	O
+sin	O
+espondilodiscitis	O
+,	O
+ensayando	O
+tratamiento	O
+esteroideo	O
+.	O

@@ -1,0 +1,18 @@
+
+Sus	O
+mujeres	O
+van	O
+tapadas	O
+de	O
+pies	O
+a	O
+cabeza	O
+con	O
+tules	O
+de	O
+colores	O
+,	O
+y	O
+calzando	O
+sandalias	O
+.	O

@@ -1,0 +1,21 @@
+
+Se	O
+pauta	O
+tratamiento	O
+domiciliario	O
+:	O
+Tramadol	O
+50mg	O
+/	O
+24h	O
+,	O
+Ibuprofeno	O
+600mg	O
+a	O
+demanda	O
+y	O
+Omeprazol	O
+20mg	O
+/	O
+24	O
+.	O

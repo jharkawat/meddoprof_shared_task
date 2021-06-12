@@ -1,0 +1,24 @@
+
+En	O
+topografía	O
+de	O
+la	O
+emergencia	O
+del	O
+bronquio	O
+lobar	O
+inferior	O
+derecho	O
+se	O
+evidencia	O
+elemento	O
+metálico	O
+de	O
+alta	O
+densidad	O
+compatible	O
+con	O
+una	O
+corona	O
+dental	O
+.	O

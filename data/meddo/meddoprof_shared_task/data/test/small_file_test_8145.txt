@@ -1,0 +1,19 @@
+
+Tromboembolismo	O
+pulmonar	O
+bilateral	O
+de	O
+ambas	O
+arterias	O
+lobares	O
+inferiores	O
+y	O
+sus	O
+ramas	O
+segmentarias	O
+;	O
+estable	O
+clínica	O
+y	O
+hemodinámicamente	O
+.	O

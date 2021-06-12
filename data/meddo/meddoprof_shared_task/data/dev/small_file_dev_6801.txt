@@ -1,0 +1,20 @@
+
+Desde	O
+la	O
+instauración	O
+del	O
+tratamiento	O
+antibiótico	O
+no	O
+volvió	O
+a	O
+presentar	O
+fiebre	O
+,	O
+con	O
+mejoría	O
+progresiva	O
+del	O
+estado	O
+general	O
+.	O

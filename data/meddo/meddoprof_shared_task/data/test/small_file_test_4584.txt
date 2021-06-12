@@ -1,0 +1,15 @@
+
+P53	O
+negativo	O
+;	O
+Ki	O
+-	O
+67	O
+80	O
+%	O
+;	O
+Her	O
+-	O
+2	O
+positivo	O
+.	O

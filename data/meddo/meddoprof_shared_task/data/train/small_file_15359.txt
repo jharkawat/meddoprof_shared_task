@@ -1,0 +1,7 @@
+
+Hallazgos	O
+positivos	O
+al	O
+examen	O
+físico	O
+:	O

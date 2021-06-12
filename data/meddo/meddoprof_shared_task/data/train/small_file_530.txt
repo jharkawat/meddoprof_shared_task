@@ -1,0 +1,24 @@
+
+La	O
+curación	O
+vesical	O
+cursa	O
+con	O
+vejiga	O
+retráctil	O
+,	O
+calcificación	O
+residual	O
+,	O
+que	O
+provoca	O
+uropatía	O
+obstructiva	O
+bilateral	O
+manifiesta	O
+con	O
+cifras	O
+normales	O
+de	O
+creatinina	O
+.	O

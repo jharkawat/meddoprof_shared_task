@@ -1,0 +1,151 @@
+T1	SINTOMA 70 87	síntomas bizarros
+T2	SINTOMA 813 828	defecto estable
+T3	SINTOMA 917 941	sintomatología depresiva
+T4	SINTOMA 1264 1278	tics nerviosos
+T5	SINTOMA 1569 1582	tics oculares
+T6	SINTOMA 1597 1602	ahogo
+T7	SINTOMA 1604 1615	taquicardia
+T8	SINTOMA 1617 1624	cefalea
+T9	SINTOMA 1626 1632	apatía
+T10	SINTOMA 1635 1643	tristeza
+T11	SINTOMA 1652 1670	pérdida del empleo
+T12	SINTOMA 2030 2043	irritabilidad
+T13	SINTOMA 2106 2123	heteroagresividad
+T14	SINTOMA 2170 2193	alucinaciones auditivas
+T15	SINTOMA 3915 3923	insomnio
+T16	SINTOMA 4252 4262	consciente
+T17	SINTOMA 4265 4274	orientado
+T18	SINTOMA 4282 4298	alopsíquicamente
+T19	SINTOMA 4470 4479	anhedonia
+T20	SINTOMA 4860 4881	Alteración de apetito
+T21	SINTOMA 4901 4910	hiporexia
+T22	SINTOMA 6917 6925	insomnio
+T23	PROCEDIMIENTO 1342 1365	tratamiento ansiolítico
+T24	PROCEDIMIENTO 1684 1707	tratamiento ansiolítico
+T25	PROCEDIMIENTO 2532 2557	tratamiento antipsicótico
+T26	PROCEDIMIENTO 4926 4947	tratamiento hipnótico
+T27	PROCEDIMIENTO 5142 5151	hemograma
+T28	PROCEDIMIENTO 5264 5279	benzodiacepinas
+T29	PROCEDIMIENTO 5298 5326	Resonancia magnética craneal
+T30	PROCEDIMIENTO 5357 5369	Test de WAIS
+T31	PROCEDIMIENTO 6089 6109	tratamiento hormonal
+T32	PROCEDIMIENTO 6567 6592	tratamiento antipsicótico
+T33	UNC 89 102	sugestivos de
+T34	USCO 103 126	ser de índole psicótica
+T35	NEG 524 532	negativa
+T36	NSCO 533 555	rápidamente instaurada
+T37	UNC 607 614	posible
+T38	USCO 615 657	también un mayor abordaje a nivel familiar
+T39	NEG 1776 1778	no
+T40	NSCO 1779 1817	siendo preciso mantener el tratamiento
+T41	UNC 2125 2136	Se sospecha
+T42	USCO 2137 2223	también la presencia de posibles alucinaciones auditivas en forma de voces amenazantes
+T43	UNC 3037 3044	posible
+T44	USCO 3045 3059	incumplimiento
+T45	NEG 3212 3214	No
+T46	NSCO 3215 3246	es hasta 2015 que dicha clínica
+T47	NEG 3613 3615	no
+T48	NSCO 3616 3711	es capaz de realizar ningún tipo de gestión administrativa o de acudir a sus citas médicas solo
+T49	UNC 3718 3728	impresiona
+T50	NEG 3729 3731	no
+T51	NSCO 3732 3742	comprender
+T52	NEG 4388 4390	no
+T53	NSCO 4391 4406	está de acuerdo
+T54	UNC 4616 4624	posibles
+T55	USCO 4625 4656	dificultades en su organización
+T56	UNC 4671 4679	aparente
+T57	USCO 4680 4692	apragmatismo
+T58	NEG 4695 4700	niega
+T59	NSCO 4701 4761	vivencias psicóticas de contenidos paranoides en ese momento
+T60	UNC 4765 4781	sospecha posible
+T61	USCO 4782 4829	ideación delirante de predominio mágico-místico
+T62	NEG 4831 4836	Niega
+T63	NSCO 4837 4858	fenómenos perceptivos
+T64	NEG 5327 5330	sin
+T65	NSCO 5331 5355	hallazgos significativos
+T66	NEG 5406 5408	no
+T67	NSCO 5409 5488	consideramos válidos debido a gran interferencia de la sintomatología psicótica
+T68	NEG 5561 5563	no
+T69	NSCO 5564 5628	correlacionado con el nivel de desarrollo del lenguaje alcanzado
+T70	UNC 5648 5660	sugestivo de
+T71	USCO 5661 5678	proceso psicótico
+T72	UNC 5884 5894	se plantea
+T73	USCO 5895 5945	en primer lugar la presencia de patología orgánica
+T74	NEG 6074 6088	susceptible de
+T75	NSCO 6089 6143	tratamiento hormonal por el servicio de Endocrinología
+T76	NEG 6154 6156	no
+T77	NSCO 6157 6177	justifica la clínica
+T78	NEG 6184 6193	descartar
+T79	NSCO 6194 6229	cualquier déficit a nivel cognitivo
+T80	NEG 7261 7269	negativa
+T81	NSCO 7270 7272	se
+T82	NEG 7420 7422	no
+T83	NSCO 7423 7445	precisa de supervisión
+T84	UNC 7888 7896	posibles
+T85	USCO 7897 7918	demandas de los hijos
+T86	NEG 8312 8314	no
+T87	NSCO 8315 8361	precisando ningún tipo de medicación adyuvante
+T88	FARMACO 1180 1192	levotiroxina
+T89	FARMACO 2581 2593	paliperidona
+T90	FARMACO 2954 2966	paliperidona
+T91	FARMACO 3098 3109	risperidona
+T92	FARMACO 3803 3812	lorazepam
+T93	FARMACO 3883 3895	lormetazepam
+T94	FARMACO 7024 7039	levomepromazina
+T95	FARMACO 7109 7118	clozapina
+T96	FARMACO 8241 8250	clozapina
+T97	ORG_VIVO 0 8	Paciente
+T98	ORG_VIVO 649 657	familiar
+T99	ORG_VIVO 686 696	familiares
+T100	ORG_VIVO 725 735	familiares
+T101	ORG_VIVO 754 759	primo
+T102	ORG_VIVO 856 861	madre
+T103	ORG_VIVO 1005 1015	personales
+T104	ORG_VIVO 1387 1399	médico de AP
+T105	ORG_VIVO 1451 1485	equipo de Salud Mental Comunitaria
+T106	ORG_VIVO 1852 1874	profesional del ámbito
+T107	ORG_VIVO 2004 2010	pareja
+T108	ORG_VIVO 2377 2382	madre
+T109	ORG_VIVO 3406 3413	tomates
+T110	ORG_VIVO 3499 3507	manzanas
+T111	ORG_VIVO 4007 4014	familia
+T112	ORG_VIVO 4026 4055	profesionales de Salud Mental
+T113	ORG_VIVO 4369 4379	familiares
+T114	ORG_VIVO 5050 5058	familiar
+T115	ORG_VIVO 5753 5761	personal
+T116	ORG_VIVO 5776 5785	pacientes
+T117	ORG_VIVO 6521 6529	paciente
+T118	ORG_VIVO 7352 7361	pacientes
+T119	ORG_VIVO 7397 7415	personal sanitario
+T120	ORG_VIVO 7675 7685	familiares
+T121	ORG_VIVO 7840 7845	padre
+T122	ORG_VIVO 7913 7918	hijos
+T123	ENFERMEDAD 110 126	índole psicótica
+T124	ENFERMEDAD 785 808	esquizofrenia paranoide
+T125	ENFERMEDAD 917 941	sintomatología depresiva
+T126	ENFERMEDAD 1028 1046	consumo de alcohol
+T127	ENFERMEDAD 1090 1106	cuadro psicótico
+T128	ENFERMEDAD 1109 1134	hipotiroidismo subclínico
+T129	ENFERMEDAD 1942 1969	cuadro de estirpe psicótica
+T130	ENFERMEDAD 3167 3191	sintomatología psicótica
+T131	ENFERMEDAD 3194 3211	ENFERMEDAD ACTUAL
+T132	ENFERMEDAD 3837 3845	ansiedad
+T133	ENFERMEDAD 4782 4829	ideación delirante de predominio mágico-místico
+T134	ENFERMEDAD 5194 5219	hipotiroidismo subclínico
+T135	ENFERMEDAD 5464 5488	sintomatología psicótica
+T136	ENFERMEDAD 5536 5559	retraso mental profundo
+T137	ENFERMEDAD 5661 5678	proceso psicótico
+T138	ENFERMEDAD 6027 6052	hipotiroidismo subclínico
+T139	ENFERMEDAD 6204 6229	déficit a nivel cognitivo
+T140	ENFERMEDAD 6235 6280	trastorno esquizotípico u obsesivo-compulsivo
+T141	ENFERMEDAD 6285 6304	trastorno psicótico
+T142	ENFERMEDAD 6451 6459	psicosis
+T143	SANITARIO-PROFESION 1904 1922	equipo comunitario
+T144	SANITARIO-PROFESION 1451 1485	equipo de Salud Mental Comunitaria
+T145	SANITARIO-PROFESION 1387 1399	médico de AP
+T146	SANITARIO-PROFESION 5753 5761	personal
+T147	SANITARIO-PROFESION 7397 7415	personal sanitario
+T148	SANITARIO-PROFESION 1852 1882	profesional del ámbito privado
+T149	SANITARIO-PROFESION 4026 4055	profesionales de Salud Mental
+T150	PACIENTE-SITUACION_LABORAL 1233 1253	pérdida de su empleo
+T151	PACIENTE-PROFESION 8078 8130	conseguidas unas prácticas remuneradas en un almacén

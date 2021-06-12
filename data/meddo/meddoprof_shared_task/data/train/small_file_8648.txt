@@ -1,0 +1,18 @@
+
+Se	O
+decide	O
+realizar	O
+un	O
+PET	O
+a	O
+la	O
+espera	O
+de	O
+completar	O
+estudio	O
+una	O
+vez	O
+suspendido	O
+tratamiento	O
+corticoideo	O
+.	O

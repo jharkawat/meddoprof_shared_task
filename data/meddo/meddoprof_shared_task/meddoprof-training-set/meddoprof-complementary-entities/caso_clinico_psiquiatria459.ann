@@ -1,0 +1,160 @@
+T1	SINTOMA 182 201	decaimiento anímico
+T2	SINTOMA 705 714	solitario
+T3	SINTOMA 886 908	conducta oposicionista
+T4	SINTOMA 2646 2677	desorganización del pensamiento
+T5	SINTOMA 2680 2702	deterioro del lenguaje
+T6	SINTOMA 3138 3145	ansioso
+T7	SINTOMA 4340 4367	enlentecimiento psicomotriz
+T8	SINTOMA 4369 4385	sequedad de boca
+T9	SINTOMA 4388 4406	retención urinaria
+T10	SINTOMA 5196 5206	consciente
+T11	SINTOMA 5209 5218	orientado
+T12	SINTOMA 5290 5303	bradipsíquico
+T13	SINTOMA 5455 5467	hastío vital
+T14	SINTOMA 5516 5524	tristeza
+T15	SINTOMA 5909 5923	actitud pueril
+T16	SINTOMA 5997 6015	facies inexpresiva
+T17	SINTOMA 6020 6040	alteraciones motoras
+T18	SINTOMA 6060 6072	paraproxesia
+T19	SINTOMA 6349 6355	alogia
+T20	SINTOMA 6362 6412	dificultades en la compresión de órdenes sencillas
+T21	SINTOMA 6527 6543	ideas delirantes
+T22	SINTOMA 6693 6701	angustia
+T23	SINTOMA 6704 6731	decaimiento ánimo subjetivo
+T24	SINTOMA 7040 7069	alteraciones sensoperceptivas
+T25	SINTOMA 8651 8661	minusvalía
+T26	SINTOMA 8914 8933	deterioro funcional
+T27	SINTOMA 8957 8965	angustia
+T28	SINTOMA 9257 9269	desesperanza
+T29	PROCEDIMIENTO 2318 2334	estudio genético
+T30	PROCEDIMIENTO 3718 3739	pruebas psicométricas
+T31	PROCEDIMIENTO 4559 4573	antidepresivos
+T32	PROCEDIMIENTO 4607 4630	antipsicóticos atípicos
+T33	PROCEDIMIENTO 7097 7115	Electrocardiograma
+T34	PROCEDIMIENTO 7117 7129	RMN cerebral
+T35	PROCEDIMIENTO 7131 7151	electroencefalograma
+T36	PROCEDIMIENTO 7185 7194	hemograma
+T37	PROCEDIMIENTO 7709 7727	electrocardiograma
+T38	PROCEDIMIENTO 7792 7802	hemogramas
+T39	PROCEDIMIENTO 7892 7917	terapia electroconvulsiva
+T40	NEG 873 878	Nunca
+T41	NSCO 879 945	mostró conducta oposicionista o fóbica ante diferentes actividades
+T42	NEG 1301 1309	falta de
+T43	NSCO 1310 1354	interés por interaccionar con los compañeros
+T44	NEG 1473 1475	no
+T45	NSCO 1476 1516	llegaba a tener un funcionamiento normal
+T46	NEG 1518 1520	No
+T47	NSCO 1521 1542	problemas de conducta
+T48	NEG 1544 1546	No
+T49	NSCO 1547 1556	pataletas
+T50	NEG 2335 2348	descartándose
+T51	NSCO 2349 2361	alteraciones
+T52	UNC 2945 2961	impresionando de
+T53	USCO 2962 3007	ideas megalomaníacas bizarras y extravagantes
+T54	NEG 3175 3177	no
+T55	NSCO 3178 3199	será realmente plana"
+T56	NEG 3268 3270	no
+T57	NSCO 3271 3290	los podía controlar
+T58	NEG 4285 4287	no
+T59	NSCO 4288 4315	presentando mejoría clínica
+T60	UNC 4751 4761	impresiona
+T61	USCO 4762 4783	más bien los síntomas
+T62	NEG 4827 4829	no
+T63	NSCO 4830 4854	responden al tratamiento
+T64	NEG 5604 5606	No
+T65	NSCO 5607 5643	realiza crítica del gesto autolítico
+T66	NEG 6016 6019	sin
+T67	NSCO 6020 6040	alteraciones motoras
+T68	UNC 6513 6526	impresiona de
+T69	USCO 6527 6543	ideas delirantes
+T70	NEG 6776 6778	no
+T71	NSCO 6779 6814	re ere alteraciones sensopercetivas
+T72	NEG 7508 7510	no
+T73	NSCO 7511 7541	se apreció una mejoría clínica
+T74	NEG 7928 7936	falta de
+T75	NSCO 7937 7969	respuesta y sintomatología grave
+T76	NEG 8573 8575	no
+T77	NSCO 8576 8588	va a mejorar
+T78	NEG 9243 9253	desaparece
+T79	NSCO 9254 9269	la desesperanza
+T80	FARMACO 2186 2199	metilfenidato
+T81	FARMACO 2202 2213	atomoxetina
+T82	FARMACO 4235 4247	clomipramina
+T83	FARMACO 4580 4590	sertralina
+T84	FARMACO 4593 4603	paroxetina
+T85	FARMACO 4646 4657	aripripazol
+T86	FARMACO 4659 4670	ziprasidona
+T87	FARMACO 4673 4683	quetiapina
+T88	FARMACO 5798 5808	olanzapina
+T89	FARMACO 5824 5832	diazepam
+T90	FARMACO 7469 7479	olanzapina
+T91	FARMACO 7481 7489	diazepam
+T92	FARMACO 7492 7506	desvenlafaxina
+T93	FARMACO 7666 7676	olanzapina
+T94	FARMACO 7681 7690	clozapina
+T95	FARMACO 8023 8032	clozapina
+T96	FARMACO 9621 9630	clozapina
+T97	FARMACO 9644 9654	clonazepam
+T98	ORG_VIVO 0 6	Hombre
+T99	ORG_VIVO 31 41	psiquiatra
+T100	ORG_VIVO 83 91	paciente
+T101	ORG_VIVO 115 120	padre
+T102	ORG_VIVO 248 258	familiares
+T103	ORG_VIVO 260 274	abuela paterna
+T104	ORG_VIVO 349 359	personales
+T105	ORG_VIVO 361 372	primogénito
+T106	ORG_VIVO 393 401	hermanos
+T107	ORG_VIVO 425 432	hermana
+T108	ORG_VIVO 563 575	progenitores
+T109	ORG_VIVO 581 588	hermana
+T110	ORG_VIVO 648 654	padres
+T111	ORG_VIVO 686 690	niño
+T112	ORG_VIVO 858 865	hermana
+T113	ORG_VIVO 981 986	niños
+T114	ORG_VIVO 1094 1102	infancia
+T115	ORG_VIVO 1109 1115	amigos
+T116	ORG_VIVO 1344 1354	compañeros
+T117	ORG_VIVO 1364 1372	infancia
+T118	ORG_VIVO 1826 1833	familia
+T119	ORG_VIVO 2037 2050	neuropediatra
+T120	ORG_VIVO 2386 2392	padres
+T121	ORG_VIVO 2438 2448	personales
+T122	ORG_VIVO 2814 2822	paciente
+T123	ORG_VIVO 3493 3506	neuropediatra
+T124	ORG_VIVO 3859 3865	amigos
+T125	ORG_VIVO 4035 4044	pacientes
+T126	ORG_VIVO 4202 4212	psiquiatra
+T127	ORG_VIVO 4444 4450	padres
+T128	ORG_VIVO 4515 4523	paciente
+T129	ORG_VIVO 4690 4696	padres
+T130	ORG_VIVO 5173 5181	paciente
+T131	ORG_VIVO 8139 8147	paciente
+T132	ORG_VIVO 9393 9403	psiquiatra
+T133	ORG_VIVO 9457 9462	Padre
+T134	ORG_VIVO 9574 9582	personal
+T135	ENFERMEDAD 172 180	ansiedad
+T136	ENFERMEDAD 213 219	muerte
+T137	ENFERMEDAD 279 302	enfermedad de Alzheimer
+T138	ENFERMEDAD 305 325	episodios depresivos
+T139	ENFERMEDAD 1558 1590	Infecciones agudas de repetición
+T140	ENFERMEDAD 1668 1686	déficit atencional
+T141	ENFERMEDAD 2054 2058	TDAH
+T142	ENFERMEDAD 3310 3329	conductas obsesivas
+T143	ENFERMEDAD 3527 3547	síndrome de Asperger
+T144	ENFERMEDAD 3580 3584	TDAH
+T145	ENFERMEDAD 4049 4069	síndrome de Asperger
+T146	ENFERMEDAD 5420 5428	ansiedad
+T147	ENFERMEDAD 5499 5505	muerte
+T148	ENFERMEDAD 5720 5739	trastorno psicótico
+T149	ENFERMEDAD 7252 7256	TDAH
+T150	ENFERMEDAD 7305 7338	trastorno específico del lenguaje
+T151	ENFERMEDAD 7395 7399	TDAH
+T152	ENFERMEDAD 7402 7422	síndrome de Asperger
+T153	ENFERMEDAD 9025 9033	ansiedad
+T154	ENFERMEDAD 9191 9197	muerte
+T155	OTROS-SITUACION_LABORAL 1344 1354	compañeros
+T156	SANITARIO-PROFESION 31 41	psiquiatra
+T157	SANITARIO-PROFESION 4202 4212	psiquiatra
+T158	SANITARIO-PROFESION 9393 9403	psiquiatra
+T159	SANITARIO-PROFESION 3493 3506	neuropediatra
+T160	PACIENTE-SITUACION_LABORAL 3788 3807	repite 3o de la ESO

@@ -1,0 +1,9 @@
+
+No	O
+presentaba	O
+anorexia	O
+ni	O
+pérdida	O
+de	O
+peso	O
+.	O

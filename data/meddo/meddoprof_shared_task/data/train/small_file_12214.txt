@@ -1,0 +1,22 @@
+
+El	O
+resultado	O
+anatomopatológico	O
+es	O
+de	O
+condiloma	O
+acuminado	O
+con	O
+displasia	O
+moderada	O
+,	O
+con	O
+foco	O
+de	O
+carcinoma	O
+in	O
+situ	O
+y	O
+dudosa	O
+microinflitración	O
+.	O

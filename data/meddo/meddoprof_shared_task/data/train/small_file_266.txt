@@ -1,0 +1,17 @@
+
+La	O
+exploración	O
+neurológica	O
+,	O
+respiratoria	O
+y	O
+abdominal	O
+fueron	O
+normales	O
+y	O
+el	O
+paciente	O
+estaba	O
+clínicamente	O
+eutiroideo	O
+.	O

@@ -1,0 +1,24 @@
+
+Evolución	O
+:	O
+Ante	O
+la	O
+alta	O
+sospecha	O
+de	O
+tormenta	O
+tiroidea	O
+y	O
+nula	O
+respuesta	O
+a	O
+digoxina	O
+se	O
+solicitan	O
+hormonas	O
+tiroideas	O
+,	O
+hemocultivos	O
+y	O
+urocultivos	O
+.	O

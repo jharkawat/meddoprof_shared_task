@@ -1,0 +1,15 @@
+
+Se	O
+realizaron	O
+un	O
+hemograma	O
+completo	O
+,	O
+una	O
+bioquímica	O
+sanguínea	O
+y	O
+una	O
+criba	O
+toxicológica	O
+.	O

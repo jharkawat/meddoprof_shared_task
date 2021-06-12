@@ -1,0 +1,23 @@
+
+Niega	O
+la	O
+presencia	O
+de	O
+pródromos	O
+(	O
+sudoración	O
+,	O
+nauseas	O
+,	O
+vómitos	O
+,	O
+sudoración	O
+,	O
+tinnitus	O
+,	O
+visión	O
+borrosa	O
+)	O
+o	O
+somnolencia	O
+.	O

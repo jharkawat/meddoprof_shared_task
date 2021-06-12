@@ -1,0 +1,11 @@
+
+Además	O
+,	O
+la	O
+paciente	O
+refiere	O
+presentar	O
+insomnio	O
+y	O
+anorexia	O
+.	O

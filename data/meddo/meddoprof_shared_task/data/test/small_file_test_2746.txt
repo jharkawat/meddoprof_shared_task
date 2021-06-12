@@ -1,0 +1,10 @@
+
+No	O
+se	O
+observa	O
+anaplasia	O
+y	O
+existe	O
+poca	O
+necrosis	O
+.	O

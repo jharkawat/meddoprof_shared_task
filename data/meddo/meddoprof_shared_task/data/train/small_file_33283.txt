@@ -1,0 +1,19 @@
+
+Alimentación	O
+variada	O
+,	O
+generalmente	O
+preparada	O
+por	O
+su	O
+madre	O
+o	O
+su	O
+abuela	O
+en	O
+el	O
+domicilio	O
+donde	O
+vive	O
+actualmente	O
+.	O

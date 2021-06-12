@@ -1,0 +1,10 @@
+
+-	O
+Punción	O
+lumbar	O
+:	O
+GRAM	O
+y	O
+cultivo	O
+negativos	O
+.	O

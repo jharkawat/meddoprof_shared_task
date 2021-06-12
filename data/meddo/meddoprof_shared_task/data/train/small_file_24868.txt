@@ -1,0 +1,19 @@
+
+La	O
+frecuencia	O
+cardíaca	O
+se	O
+mantiene	O
+en	O
+120	O
+latidos	O
+por	O
+minuto	O
+,	O
+sin	O
+alteración	O
+en	O
+la	O
+tensión	O
+arterial	O
+.	O

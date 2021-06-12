@@ -1,0 +1,10 @@
+
+Presenta	O
+como	O
+antecedentes	O
+una	O
+hepatitis	O
+A	O
+en	O
+2017	O
+.	O

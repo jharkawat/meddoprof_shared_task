@@ -1,0 +1,53 @@
+Varón de 80 años en seguimiento por Atención Primaria (AP) y Endocrinología por un nodulo tiroideo frío desde hace mas de 30 años. No presentaba alergias medicamentosas conocidas. No refiere antecedentes familiares de interés. Como antecedentes personales tiene fibrilación auricular permanente, dislipemia, HTA y carece de DM. Antecedentes endocrinológicos: Bocio con nodulo tiroideo frío, disfonía persistente, no radiación cervical previa ni traumatismo cráneo encefálico. Tratamiento habitual: Levotiroxina 25 mg, 1-0-0, Amiodarona 200 mg 0-1-1, AAS 100 mg 0-1-1, Atorvastatina 20 mg 0-0-1, Amlodipino/olmesartan 40/5 mg 1-0-0.
+Situación basal: Independiente para las actividades básicas de la vida diaria, no presentaba ningún signo de deterioro cognitivo y vivía en un medio urbano con su mujer.
+Un año después de la revisión por Endocrinología, el paciente acude a su médico de Atención Primaria por lumbalgia, hipoestesia con nivel en región abdominal y trastornos en la marcha de 20 días de evolución. Alteración que ha ido empeorando de forma progresiva, primero necesitaba ayuda con un bastón para caminar, y después de dos semanas de evolución precisaba la ayuda de dos muletas.
+
+EXPLORACIÓN FÍSICA
+Tensión arterial 128 / 87. Frecuencia cardiaca 97, temperatura 37,2 °C. Frecuencia respiratoria 18 respiraciones por minuto respirando aire ambiente, saturación 97 %. Normohidratado, Normoperfundido. No signos de desnutrición. Consciente, orientado y colaborador. Buen estado general.
+Cabeza y cuello: Bocio tiroideo, nodulo a la deglución que ocupa todo el lóbulo tiroideo superior izquierdo de consistencia dura, bien delimitado y no parece estar adherido a planos profundos. No se palpan adenopatías cervicales, supraclaviculares o axilares, no se auscultan soplos carotideos.
+Auscultación cardiaca: rítmica, no se auscultan soplos.
+Auscultación pulmonar: murmullo vesicular conservado.
+Abdomen: blando, depresible, no palpo masas ni megalias. No dolor a la palpación. Blumberg y Murphy negativos. Ruidos hidroaéreos presentes y normales en intensidad. No signos de peritonismo.
+Miembros inferiores: no edemas ni signos de trombosis venosa profunda, pulsos distales presentes.
+
+Exploración neurológica: lenguaje fluido sin elementos disfásicos. No disartria. Campimetría por confrontación normal. Pares craneales: pupilas isocóricas y normorreactivas, movimientos oculares externos sin restricciones, resto de pares craneales centrados y simétricos. Fuerza y sensibilidad en los miembros superiores conservado. Hipoestesia tactil-algesica en tronco-abdominal con nivel T9-T10. Afectación de la sensibilidad discriminativa en miembros inferiores. Fuerza global y segmentaria conservada. Dismetría en prueba talón-rodilla. No afectación de esfínteres. Reflejo rotuliano 3/5 aquíleo 2/5. Marcha atáxica, precisa de dos muletas.
+
+EXPLORACIONES COMPLEMENTARIAS
+— Análitica(Hormonas tiroideas, bioquímica, hemograma y coagulación): dentro de la normalidad.
+— ECG: RS a 95 lpm. Bloqueo incompleto rama izquierda.
+— TC cerebral: sin hallazgos patológicos.
+— EMG: Polineuropatía axonal sensitiva de grado moderado y de predominio distal en miembros inferiores. Sin duda evidencia a favor de radiculopatía lumbo-sacra.
+— RM LUMBAR: artrosis lumbar con listesis L4 y hernias discales L2-L3, L3-L4, L4-L5 y L5-S1.
+— RM DORSAL: metastasis en vértebras dorsales T9 y TIO, estenosis del canal raquídeo y mielopatía / edema en cordón posterior a D9.
+— ECOGRAFIA DE TIROIDES Y PAAF DEL NODULO TIROIDEO:
+• DESCRIPCIÓN MACROSCÓPICA: Patrón compatible con bocio multinodular destacando en lóbulo tiroideo izquierdo un conglomerado nodular que lo ocupa en su totalidad de 4-5 cm de características heterogéneas con calcificaciones groseras, se realiza PAAF obteniéndose lee de material hemático.
+• DESCRIPCIÓN MICROSCOPICA: Extendido citológico constituido por un fondo serohematico, con escaso componente coloide, en el que se observan ocasionales grupos de células dispuestas en grupos, con pequeños folículos (patrón microfolicular), destacando una moderada anisonucleosis sin evidenciarse pseudo inclusiones ni invaginaciones.
+
+DIAGNOSTICO DIFERENCIAL
+El diagnóstico de mielopatía se establecerá según criterio clínico teniendo en cuenta que la afectación medular tiene diferentes causas:
+MTELOPATÍA NO COMPRESIVA — Infecciosa
+• Viral: polio, herpes zostes, SIDA, rabia.
+• Bacteriana: sífilis, TBC y Lyme.
+• Hongos
+• Parásitos: cisticercus, schistosoma, toxoplasma.
+— Inmunoalérgica: mielitis transversa, postinfecciosa y postvacunal. RMN T2 cervical sagital.
+ encefalomielitis aguda diseminada.
+— Desmielinizante: EM, Devic.
+— Tóxica.
+— Nutricional-metabólica: Degeneración combinada subaguda.
+— Degeneración o hereditarias.
+— Vascular: trombosis de la arteria espiral anterior, vasculitis (LES)
+— Agentes físicos: mielitis post radiación, daño eléctrico.
+— Paraneoplasica: mielopatia necrotizante subaguda.
+— Mielopatía de origen desconocido.
+— Trastorno de la marcha como síntoma de inicio de un tumor tiroideo.
+A los pacientes con mielopatía se les realizará una RMN de columna para detectar compresión medular y localizar la lesión en dirección anterior, posterior, lateral o central.
+
+EVOLUCIÓN
+Las pruebas complementarias realizadas a nuestro paciente (sobretodo RMN dorsal) nos indican que tiene lesiones metastásicas en las vértebras dorsales T9 y TIO. Estas lesiones provocan estenosis del canal raquídeo y mielopatía compresiva del cordón posterior al nivel D9. Hallazgo que nos explica la clínica que el paciente refiere (Hipoestesia con nivel T9-T10, afectación de la sensibilidad discriminativa en miembros inferiores, dismetría en la prueba talón-rodilla y marcha atáxica sensitiva) ya que estas alteraciones en la exploración neurológica nos indican que existe una lesión a nivel de D9 en el cordón posterior, que es por donde se conduce la sensibilidad vibratoria, posicional y propioceptiva.
+Las lesiones de aspecto metastásico en la columna junto con el nodulo tiroideo de larga evolución nos hizo sospechar que posiblemente la neoplasia primaria fuera de origen tiroideo. Por este motivo, solicitamos una PAAF del nodulo tiroideo obteniendo el diagnóstico de carcinoma folicular tiroideo.
+Una vez diagnosticado al paciente se inicia tratamiento con radioterapia dorsal sin apreciar mejoría clínica ni radiológica. También se solicitó la interconsulta a preanestesia para proceder a la exeresis tumoral y la aplicación a posteriori de iodo radiactivo. Sin embargo, estando pendientes de dicha intervención, el paciente es ingresado por vómitos, oliguria y anorexia. Se le solicitó un TAC de tórax observando derrame plural bilateral con atelectasias nasales en ambos lóbulos inferiores, adenopatías mediastínicas de hasta lcm, infiltrados pulmonares parcheados en lóbulos superiores, nodulos pulmonares de hasta 0,5 cm (sospechosos de metástasis pulmonares) y componente endotorácico del hemitiroides izquierdo con calcificaciones groseras.
+Finalmente, se desestima el complejo proceso de la cirugía para este paciente, y se inician los cuidados paliativos para mantener sus funciones respiratoria, hidroelectrolítica y cardiaca.
+
+DIAGNÓSTICO FINAL
+Carcinoma folicular de tiroides metastásico a columna dorsal y pulmón.

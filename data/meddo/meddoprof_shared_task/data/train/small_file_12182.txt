@@ -1,0 +1,16 @@
+
+Durante	O
+todo	O
+el	O
+tiempo	O
+se	O
+mantuvo	O
+antibioticoterapia	O
+dirigida	O
+con	O
+ceftriaxona	O
+/	O
+ampicilina	O
+y	O
+levofloxacino	O
+.	O

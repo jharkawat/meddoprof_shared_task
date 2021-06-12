@@ -1,0 +1,27 @@
+
+3	O
+,	O
+5	O
+-	O
+0	O
+-	O
+0	O
+;	O
+bupropión	O
+150	O
+mg	O
+:	O
+1	O
+-	O
+0	O
+-	O
+0	O
+;	O
+flurazepam	O
+:	O
+0	O
+-	O
+0	O
+-	O
+1	O
+.	O

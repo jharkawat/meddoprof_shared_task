@@ -1,0 +1,24 @@
+
+Ante	O
+esta	O
+alteración	O
+,	O
+se	O
+decide	O
+realizar	O
+un	O
+electrocardiograma	O
+(	O
+ECG	O
+)	O
+en	O
+el	O
+que	O
+se	O
+evidencia	O
+una	O
+prolongación	O
+del	O
+intervalo	O
+QT	O
+.	O

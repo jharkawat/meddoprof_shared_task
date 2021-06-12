@@ -1,0 +1,9 @@
+
+Peso	O
+adecuado	O
+en	O
+relación	O
+a	O
+la	O
+talla	O
+.	O

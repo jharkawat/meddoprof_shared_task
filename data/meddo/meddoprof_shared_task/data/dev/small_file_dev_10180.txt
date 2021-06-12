@@ -1,0 +1,19 @@
+
+Antecedentes	O
+:	O
+La	O
+paciente	O
+nació	O
+y	O
+creció	O
+en	O
+una	O
+ciudad	O
+pequeña	O
+,	O
+donde	O
+completó	O
+sus	O
+estudios	O
+secundarios	O
+.	O

@@ -1,0 +1,14 @@
+
+Un	O
+estudio	O
+digestivo	O
+con	O
+Gastroscopia	O
+,	O
+Colonoscopia	O
+y	O
+Transito	O
+gastrointestinal	O
+sin	O
+hallazgos	O
+.	O

@@ -1,0 +1,18 @@
+
+Previo	O
+al	O
+ingreso	O
+,	O
+se	O
+realizó	O
+test	O
+de	O
+latencias	O
+múltipes	O
+del	O
+sueño	O
+siendo	O
+diagnosticado	O
+de	O
+narcolepsia	O
+.	O

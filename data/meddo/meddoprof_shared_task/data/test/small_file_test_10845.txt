@@ -1,0 +1,13 @@
+
+Se	O
+decide	O
+realizar	O
+un	O
+drenaje	O
+de	O
+los	O
+abscesos	O
+de	O
+forma	O
+urgente	O
+.	O

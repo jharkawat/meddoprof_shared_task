@@ -1,0 +1,11 @@
+
+Mujer	O
+de	O
+47	O
+años	O
+con	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

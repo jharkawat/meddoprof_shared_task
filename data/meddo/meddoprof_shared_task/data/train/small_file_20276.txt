@@ -1,0 +1,21 @@
+
+A	O
+la	O
+vuelta	O
+justifica	O
+su	O
+conducta	O
+por	O
+los	O
+límites	O
+que	O
+tratan	O
+de	O
+imponerle	O
+,	O
+sin	O
+ningún	O
+sentimiento	O
+de	O
+culpa	O
+.	O

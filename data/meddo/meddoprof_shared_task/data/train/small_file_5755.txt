@@ -1,0 +1,5 @@
+
+Serie	O
+blanca	O
+normal	O
+.	O

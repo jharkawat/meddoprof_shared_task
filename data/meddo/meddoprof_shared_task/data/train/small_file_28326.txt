@@ -1,0 +1,10 @@
+
+Actitud	O
+condescendiente	O
+y	O
+seductora	O
+,	O
+acompañada	O
+de	O
+manierismos	O
+.	O

@@ -1,0 +1,20 @@
+
+TC	O
+body	O
+:	O
+en	O
+el	O
+cráneo	O
+,	O
+el	O
+sistema	O
+ventricular	O
+era	O
+normal	O
+,	O
+sin	O
+desplazamiento	O
+ni	O
+efecto	O
+masa	O
+.	O

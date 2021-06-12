@@ -1,0 +1,18 @@
+
+Las	O
+crisis	O
+de	O
+risa	O
+nunca	O
+le	O
+han	O
+supuesto	O
+problema	O
+en	O
+su	O
+entorno	O
+de	O
+amigos	O
+/	O
+colegio	O
+.	O

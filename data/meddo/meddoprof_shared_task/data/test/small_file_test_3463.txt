@@ -1,0 +1,9 @@
+
+La	O
+pared	O
+torácica	O
+no	O
+muestra	O
+alteraciones	O
+significativas	O
+.	O

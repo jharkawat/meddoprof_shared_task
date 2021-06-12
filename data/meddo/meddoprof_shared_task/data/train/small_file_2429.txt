@@ -1,0 +1,21 @@
+
+Tras	O
+tratamiento	O
+con	O
+montelukast	O
+y	O
+antihistamínico	O
+oral	O
+ha	O
+tolerado	O
+progresivamente	O
+el	O
+ejercicio	O
+moderado	O
+,	O
+sin	O
+nuevos	O
+episodios	O
+de	O
+anafilaxia	O
+.	O

@@ -1,0 +1,10 @@
+
+Hiponatremia	O
+moderada	O
+probablemente	O
+asociada	O
+a	O
+IECA	O
+y	O
+olanzapina	O
+.	O

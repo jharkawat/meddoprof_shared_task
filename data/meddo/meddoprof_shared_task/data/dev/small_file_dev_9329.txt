@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+residía	O
+en	O
+zona	O
+urbana	O
+y	O
+no	O
+había	O
+realizado	O
+viajes	O
+recientes	O
+,	O
+ni	O
+tenía	O
+contacto	O
+habitual	O
+con	O
+animales	O
+.	O

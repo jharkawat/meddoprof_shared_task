@@ -1,0 +1,15 @@
+
+Dados	O
+los	O
+hallazgos	O
+radiológicos	O
+se	O
+continuó	O
+estudió	O
+para	O
+descartar	O
+TB	O
+pulmonar	O
+y	O
+vasculitis	O
+.	O

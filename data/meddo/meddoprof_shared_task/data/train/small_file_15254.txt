@@ -1,0 +1,25 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+corticoides	O
+a	O
+la	O
+espera	O
+del	O
+estudio	O
+inmunofenotípico	O
+con	O
+reordenamiento	O
+PDGFRA	O
+-	O
+FIP1L1	O
+(	O
+cr4	O
+)	O
+,	O
+que	O
+fue	O
+positivo	O
+.	O

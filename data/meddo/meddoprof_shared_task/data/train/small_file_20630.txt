@@ -1,0 +1,26 @@
+
+Según	O
+la	O
+opinión	O
+de	O
+la	O
+madre	O
+tampoco	O
+aparece	O
+ningún	O
+factor	O
+conductual	O
+significativo	O
+por	O
+encima	O
+de	O
+la	O
+media	O
+comparado	O
+con	O
+el	O
+grupo	O
+de	O
+4	O
+años	O
+.	O

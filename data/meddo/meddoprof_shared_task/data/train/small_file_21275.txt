@@ -1,0 +1,18 @@
+
+Raúl	O
+,	O
+paciente	O
+varón	O
+,	O
+con	O
+15	O
+años	O
+en	O
+la	O
+fecha	O
+de	O
+inicio	O
+de	O
+la	O
+intervención	O
+.	O

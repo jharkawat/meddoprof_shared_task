@@ -1,0 +1,15 @@
+
+Se	O
+inicia	O
+Quetiapina	O
+,	O
+que	O
+la	O
+paciente	O
+abandona	O
+,	O
+no	O
+acepta	O
+otros	O
+fármacos	O
+.	O

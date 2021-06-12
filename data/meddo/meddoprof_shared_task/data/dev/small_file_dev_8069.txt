@@ -1,0 +1,20 @@
+
+Atendiendo	O
+al	O
+contexto	O
+epidemiológico	O
+del	O
+paciente	O
+y	O
+sus	O
+antecedentes	O
+personales	O
+,	O
+las	O
+causas	O
+a	O
+tener	O
+en	O
+cuenta	O
+son	O
+:	O

@@ -1,0 +1,10 @@
+
+NOC	O
+:	O
+Control	O
+del	O
+riesgo	O
+(	O
+delirio	O
+)	O
+.	O

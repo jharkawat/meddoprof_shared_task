@@ -1,0 +1,8 @@
+
+Sin	O
+otros	O
+hallazgos	O
+en	O
+la	O
+anamnesis	O
+.	O

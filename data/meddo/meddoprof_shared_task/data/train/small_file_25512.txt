@@ -1,0 +1,18 @@
+
+El	O
+primer	O
+día	O
+presenta	O
+algunos	O
+síntomas	O
+de	O
+síndrome	O
+de	O
+abstinencia	O
+como	O
+sudoración	O
+,	O
+rinorrea	O
+,	O
+ansiedad	O
+.	O

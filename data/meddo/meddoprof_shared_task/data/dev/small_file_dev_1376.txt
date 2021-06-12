@@ -1,0 +1,18 @@
+
+Pruebas	O
+que	O
+se	O
+le	O
+han	O
+realizado	O
+:	O
+Analítica	O
+,	O
+ECG	O
+,	O
+control	O
+de	O
+peso	O
+y	O
+talla	O
+.	O

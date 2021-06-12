@@ -1,0 +1,23 @@
+
+Infarto	O
+renal	O
+parcial	O
+de	O
+riñon	O
+derecho	O
+(	O
+D	O
+)	O
+,	O
+concluyendo	O
+marcada	O
+progresión	O
+local	O
+y	O
+a	O
+distancia	O
+de	O
+la	O
+enfermedad	O
+neoplásica	O
+.	O

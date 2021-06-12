@@ -1,0 +1,7 @@
+
+Resto	O
+del	O
+estudio	O
+sin	O
+hallazgos	O
+.	O

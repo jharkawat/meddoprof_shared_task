@@ -1,0 +1,7 @@
+
+Diagnóstico	O
+final	O
+de	O
+trastorno	O
+esquizofreniforme	O
+.	O

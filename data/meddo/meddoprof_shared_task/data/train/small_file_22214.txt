@@ -1,0 +1,11 @@
+
+Fuma	O
+20	O
+-	O
+30	O
+cigarrillos	O
+de	O
+tabaco	O
+/	O
+día	O
+.	O

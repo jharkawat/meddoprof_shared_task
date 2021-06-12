@@ -1,0 +1,20 @@
+
+Hematología	O
+:	O
+100	O
+.	O
+000	O
+plaquetas	O
+,	O
+Leucocitos	O
+:	O
+500	O
+/	O
+mm3	O
+,	O
+Protrombina	O
+40	O
+,	O
+7	O
+%	O
+.	O

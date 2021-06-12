@@ -1,0 +1,22 @@
+
+Se	O
+determinó	O
+una	O
+fractura	O
+conminuta	O
+del	O
+tercio	O
+distal	O
+del	O
+fémur	O
+derecho	O
+,	O
+presentando	O
+múltiples	O
+pequeños	O
+fragmentos	O
+desplazados	O
+al	O
+compartimento	O
+posterior	O
+.	O

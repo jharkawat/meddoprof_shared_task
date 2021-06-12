@@ -1,0 +1,27 @@
+
+Escala	O
+de	O
+los	O
+síndromes	O
+positivo	O
+y	O
+negativo	O
+(	O
+PANSS	O
+)	O
+:	O
+PANSS	O
+-	O
+P	O
+16	O
+,	O
+PANSS	O
+-	O
+N	O
+31	O
+y	O
+PANSS	O
+-	O
+PG	O
+40	O
+.	O

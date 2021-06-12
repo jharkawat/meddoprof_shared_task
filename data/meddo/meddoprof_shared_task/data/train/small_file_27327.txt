@@ -1,0 +1,17 @@
+
+Estuvo	O
+en	O
+tratamiento	O
+con	O
+ácido	O
+valproico	O
+,	O
+que	O
+se	O
+retiró	O
+,	O
+sin	O
+reaparición	O
+de	O
+la	O
+clínica	O

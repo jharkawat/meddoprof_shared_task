@@ -1,0 +1,7 @@
+
+AP	O
+:	O
+buena	O
+ventilación	O
+bilateral	O
+.	O

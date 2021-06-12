@@ -1,0 +1,10 @@
+
+El	O
+feto	O
+tiene	O
+una	O
+FCF	O
+de	O
+140	O
+lpm	O
+.	O

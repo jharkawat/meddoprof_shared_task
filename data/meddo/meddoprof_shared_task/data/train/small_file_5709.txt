@@ -1,0 +1,15 @@
+
+-	O
+En	O
+Radiografía	O
+de	O
+tórax	O
+se	O
+distinguen	O
+imágenes	O
+perihiliares	O
+bilaterales	O
+sugestivas	O
+de	O
+adenopatías	O
+.	O

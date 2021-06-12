@@ -1,0 +1,23 @@
+
+Ante	O
+este	O
+resultado	O
+histológico	O
+se	O
+decidió	O
+ampliación	O
+quirúrgica	O
+de	O
+la	O
+cicatriz	O
+y	O
+se	O
+realizó	O
+estudio	O
+de	O
+extensión	O
+sin	O
+observarse	O
+hallazgos	O
+significativos	O
+.	O

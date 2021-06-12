@@ -1,0 +1,13 @@
+
+Son	O
+de	O
+pelo	O
+negro	O
+azabache	O
+y	O
+ojos	O
+verde	O
+y	O
+boca	O
+rosada	O
+.	O

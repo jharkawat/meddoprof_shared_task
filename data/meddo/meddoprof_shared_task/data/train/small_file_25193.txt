@@ -1,0 +1,15 @@
+
+Relata	O
+maltratos	O
+físicos	O
+y	O
+sexuales	O
+por	O
+parte	O
+de	O
+su	O
+padre	O
+en	O
+la	O
+infancia	O
+.	O

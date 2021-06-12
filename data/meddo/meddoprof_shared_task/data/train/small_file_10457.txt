@@ -1,0 +1,9 @@
+
+No	O
+se	O
+observan	O
+hemorragias	O
+intra	O
+ni	O
+extraaxiales	O
+.	O

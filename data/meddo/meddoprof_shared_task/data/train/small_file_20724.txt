@@ -1,0 +1,6 @@
+
+Marcha	O
+en	O
+tandem	O
+inestable	O
+.	O

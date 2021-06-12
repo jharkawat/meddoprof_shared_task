@@ -1,0 +1,16 @@
+
+La	O
+agresividad	O
+de	O
+la	O
+lesión	O
+hace	O
+probable	O
+que	O
+se	O
+trate	O
+de	O
+una	O
+metástasis	O
+necrosada	O
+.	O

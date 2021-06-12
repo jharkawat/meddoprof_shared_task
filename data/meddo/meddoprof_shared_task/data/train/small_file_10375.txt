@@ -1,0 +1,9 @@
+
+No	O
+se	O
+objetivaron	O
+artritis	O
+ni	O
+aftas	O
+orales	O
+.	O

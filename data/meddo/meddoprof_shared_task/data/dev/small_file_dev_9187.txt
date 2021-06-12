@@ -1,0 +1,17 @@
+
+Suele	O
+ocurrir	O
+en	O
+la	O
+sífilis	O
+secundaria	O
+acompañándose	O
+de	O
+otras	O
+manifestaciones	O
+periféricas	O
+como	O
+el	O
+exantema	O
+cutáneo	O
+.	O

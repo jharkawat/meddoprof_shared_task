@@ -1,0 +1,8 @@
+
+Labilidad	O
+emocional	O
+sin	O
+sintomatología	O
+depresiva	O
+mayor	O
+.	O

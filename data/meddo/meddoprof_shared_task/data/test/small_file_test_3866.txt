@@ -1,0 +1,16 @@
+
+Toda	O
+la	O
+toxicidad	O
+a	O
+la	O
+quimioterapia	O
+se	O
+manejó	O
+ambulatoriamente	O
+,	O
+sin	O
+precisar	O
+ingresos	O
+hospitalarios	O
+.	O

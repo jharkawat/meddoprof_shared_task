@@ -1,0 +1,22 @@
+
+Paciente	O
+es	O
+diagnosticado	O
+por	O
+ORL	O
+,	O
+con	O
+espasmo	O
+en	O
+cuerda	O
+vocal	O
+derecha	O
+,	O
+secundario	O
+a	O
+presencia	O
+de	O
+lesión	O
+en	O
+esta	O
+.	O

@@ -1,0 +1,5 @@
+
+Alerta	O
+,	O
+orientado	O
+.	O

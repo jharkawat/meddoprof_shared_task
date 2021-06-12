@@ -1,0 +1,17 @@
+
+El	O
+tabique	O
+es	O
+grueso	O
+y	O
+presenta	O
+una	O
+ulceración	O
+superficial	O
+por	O
+el	O
+decúbito	O
+de	O
+la	O
+SNG	O
+.	O

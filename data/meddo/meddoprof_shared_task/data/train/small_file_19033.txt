@@ -1,0 +1,19 @@
+
+Es	O
+beneficiaria	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+una	I-SITUACION_LABORAL
+pensión	I-SITUACION_LABORAL
+no	O
+contributiva	O
+y	O
+valorada	O
+con	O
+un	O
+grado	O
+del	O
+65	B-SITUACION_LABORAL
+%	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+discapacidad	I-SITUACION_LABORAL
+.	O

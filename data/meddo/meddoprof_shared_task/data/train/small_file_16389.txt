@@ -1,0 +1,8 @@
+
+Trombosis	O
+de	O
+la	O
+vena	O
+de	O
+Trolard	O
+.	O

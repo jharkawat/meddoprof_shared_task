@@ -1,0 +1,10 @@
+
+Esquizofrenia	O
+catatónica	O
+vs	O
+.	O
+trastorno	O
+depresivo	O
+recurrente	O
+catatoniforme	O
+.	O

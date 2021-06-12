@@ -1,0 +1,8 @@
+
+Sin	O
+ingresos	O
+en	O
+Psiquiatría	O
+previos	O
+recientes	O
+.	O

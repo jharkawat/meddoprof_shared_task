@@ -1,0 +1,24 @@
+
+Veinticuatro	O
+horas	O
+después	O
+de	O
+haberse	O
+iniciado	O
+la	O
+administración	O
+de	O
+etanol	O
+,	O
+el	O
+paciente	O
+se	O
+encontró	O
+soporoso	O
+y	O
+con	O
+localización	O
+del	O
+estímulo	O
+nociceptivo	O
+.	O

@@ -1,0 +1,23 @@
+
+Varón	O
+de	O
+31	O
+años	O
+,	O
+residente	O
+en	O
+una	O
+Unidad	O
+de	O
+Media	O
+Estancia	O
+,	O
+que	O
+realiza	O
+tratamiento	O
+en	O
+la	O
+actualidad	O
+con	O
+clozapina	O
+.	O

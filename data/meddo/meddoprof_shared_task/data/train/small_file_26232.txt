@@ -1,0 +1,12 @@
+
+Iniciamos	O
+tratamiento	O
+con	O
+olanzapina	O
+hasta	O
+20	O
+mg	O
+sin	O
+observar	O
+mejoría	O
+.	O

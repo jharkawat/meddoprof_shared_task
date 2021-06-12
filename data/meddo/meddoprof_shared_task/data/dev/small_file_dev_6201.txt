@@ -1,0 +1,23 @@
+
+Los	O
+exámenes	O
+de	O
+laboratorio	O
+mostraron	O
+hemoglobina	O
+en	O
+13	O
+g	O
+/	O
+dl	O
+y	O
+recuento	O
+de	O
+leucocitos	O
+y	O
+de	O
+plaquetas	O
+en	O
+límites	O
+normales	O
+.	O

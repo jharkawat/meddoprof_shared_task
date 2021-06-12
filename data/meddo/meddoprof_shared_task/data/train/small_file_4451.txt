@@ -1,0 +1,18 @@
+
+Ante	O
+lo	O
+cual	O
+,	O
+se	O
+explica	O
+a	O
+la	O
+hija	O
+la	O
+necesidad	O
+de	O
+ver	O
+a	O
+la	O
+paciente	O
+.	O

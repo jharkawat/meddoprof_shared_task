@@ -1,0 +1,18 @@
+
+Actualmente	O
+jubilado	B-SITUACION_LABORAL
+,	O
+vida	O
+activa	O
+,	O
+independiente	O
+para	O
+todas	O
+las	O
+actividades	O
+básicas	O
+de	O
+la	O
+vida	O
+diaria	O
+.	O

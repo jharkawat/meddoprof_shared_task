@@ -1,0 +1,11 @@
+
+Se	O
+descartó	O
+la	O
+posibilidad	O
+de	O
+otras	O
+causas	O
+de	O
+endocarditis	O
+.	O

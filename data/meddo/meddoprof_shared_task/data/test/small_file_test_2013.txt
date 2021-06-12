@@ -1,0 +1,14 @@
+
+»	O
+Carcinoma	O
+microcítico	O
+de	O
+pulmón	O
+en	O
+paciente	O
+con	O
+PS	O
+:	O
+2	O
+TxN2M0	O
+.	O

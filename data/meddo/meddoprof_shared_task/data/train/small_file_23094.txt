@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+contacta	O
+a	O
+los	O
+5	O
+años	O
+con	O
+un	O
+psicólogo	B-PROFESION
+por	O
+encontrarle	O
+su	O
+madre	O
+adoptiva	O
+muy	O
+inquieta	O
+.	O

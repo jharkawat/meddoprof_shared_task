@@ -1,0 +1,19 @@
+
+Cannabinoides	O
+:	O
+entre	O
+5	O
+-	O
+15	O
+porros	O
+al	O
+día	O
+de	O
+Cannabis	O
+sativa	O
+y	O
+en	O
+menor	O
+medida	O
+hachís	O
+.	O

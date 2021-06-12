@@ -1,0 +1,20 @@
+
+Estos	O
+hallazgos	O
+se	O
+encuentran	O
+en	O
+relación	O
+a	O
+exposiciónambiental	O
+–	O
+ocupacional	O
+(	O
+asbestos	O
+)	O
+:	O
+enfermedad	O
+pulmonar	O
+relacionada	O
+con	O
+asbestos	O

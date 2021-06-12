@@ -1,0 +1,15 @@
+
+Abdomen	O
+:	O
+cicatriz	O
+toracoabdominal	O
+amplia	O
+,	O
+no	O
+se	O
+palpan	O
+masas	O
+,	O
+peristalsis	O
+conservada	O
+.	O

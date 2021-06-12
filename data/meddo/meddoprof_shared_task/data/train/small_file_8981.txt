@@ -1,0 +1,17 @@
+
+Le	O
+realizaron	O
+una	O
+exploración	O
+ginecológica	O
+completa	O
+con	O
+estudio	O
+ecográfico	O
+que	O
+fue	O
+clave	O
+para	O
+el	O
+diagnóstico	O
+.	O

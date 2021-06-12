@@ -1,0 +1,10 @@
+
+-	O
+Electrocardiograma	O
+:	O
+taquicardia	O
+sinusal	O
+a	O
+115	O
+lpm	O
+.	O

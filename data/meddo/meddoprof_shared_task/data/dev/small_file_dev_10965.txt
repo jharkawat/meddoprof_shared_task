@@ -1,0 +1,7 @@
+
+Panículo	O
+adiposo	O
+no	O
+es	O
+abundante	O
+.	O

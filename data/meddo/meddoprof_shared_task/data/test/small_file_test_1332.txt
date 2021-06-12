@@ -1,0 +1,22 @@
+
+Fue	O
+captada	O
+por	O
+el	O
+servicio	O
+de	O
+salud	O
+el	O
+mismo	O
+día	O
+de	O
+ingreso	O
+al	O
+país	O
+y	O
+se	O
+impartieron	O
+las	O
+siguientes	O
+recomendaciones	O
+:	O

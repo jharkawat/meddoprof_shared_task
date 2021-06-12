@@ -1,0 +1,20 @@
+
+La	O
+citología	O
+diagnóstica	O
+describe	O
+la	O
+presencia	O
+de	O
+células	O
+neoplásicas	O
+de	O
+estirpe	O
+epitelial	O
+consistente	O
+con	O
+carcinoma	O
+de	O
+origen	O
+pulmonar	O
+.	O

@@ -1,0 +1,20 @@
+
+Dada	O
+la	O
+extensión	O
+inferior	O
+al	O
+30	O
+%	O
+de	O
+la	O
+superficie	O
+corporal	O
+se	O
+trataba	O
+de	O
+una	O
+toxicodermia	O
+grado	O
+2	O
+.	O

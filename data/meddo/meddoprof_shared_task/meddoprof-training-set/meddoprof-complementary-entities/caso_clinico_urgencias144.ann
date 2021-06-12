@@ -1,0 +1,18 @@
+T1	SINTOMA 107 121	desorientación
+T2	SINTOMA 139 150	somnolencia
+T3	NEG 107 121	desorientación
+T4	NEG 355 357	no
+T5	NSCO 358 397	haber finalizado el tratamiento pautado
+T6	NEG 401 404	sin
+T7	NSCO 405 430	firmar un alta voluntaria
+T8	NEG 1152 1155	sin
+T9	NSCO 1156 1163	asignar
+T10	ORG_VIVO 0 8	Paciente
+T11	ORG_VIVO 253 257	hija
+T12	ORG_VIVO 500 518	personal sanitario
+T13	ORG_VIVO 617 626	pacientes
+T14	ORG_VIVO 693 701	paciente
+T15	ORG_VIVO 875 884	pacientes
+T16	ORG_VIVO 1142 1151	pacientes
+T17	ENFERMEDAD 85 105	trastorno conductual
+T18	SANITARIO-PROFESION 500 518	personal sanitario

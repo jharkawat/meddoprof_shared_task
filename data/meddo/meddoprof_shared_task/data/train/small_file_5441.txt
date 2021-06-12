@@ -1,0 +1,10 @@
+
+Lactancia	O
+materna	O
+satisfactoria	O
+10	O
+meses	O
+después	O
+del	O
+tratamiento	O
+.	O

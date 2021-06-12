@@ -1,0 +1,12 @@
+
+Tiene	O
+hipotiroidismo	O
+y	O
+trastorno	O
+bipolar	O
+vs	O
+trastorno	O
+esquizoafectivo	O
+tipo	O
+bipolar	O
+.	O

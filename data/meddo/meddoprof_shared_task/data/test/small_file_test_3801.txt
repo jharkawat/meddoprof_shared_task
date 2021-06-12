@@ -1,0 +1,9 @@
+
+Aumento	O
+del	O
+calibre	O
+de	O
+vena	O
+testicular	O
+izquierda	O
+.	O

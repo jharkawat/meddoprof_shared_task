@@ -1,0 +1,14 @@
+
+Esquizofrenia	O
+paranoide	O
+continua	O
+(	O
+F	O
+20	O
+.	O
+00	O
+CIE	O
+-	O
+10	O
+)	O
+.	O

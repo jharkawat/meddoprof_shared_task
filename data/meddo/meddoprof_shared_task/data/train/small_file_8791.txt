@@ -1,0 +1,16 @@
+
+RM	O
+de	O
+cráneo	O
+con	O
+difusión	O
+:	O
+Lesiones	O
+puntuales	O
+inespecíficas	O
+en	O
+sustancia	O
+blanca	O
+y	O
+protuberancia	O
+.	O

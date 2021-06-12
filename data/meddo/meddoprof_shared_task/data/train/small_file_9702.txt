@@ -1,0 +1,18 @@
+
+Trabajador	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+,	O
+vive	O
+en	O
+el	O
+campo	O
+sin	O
+claro	O
+contacto	O
+con	O
+animales	O
+salvo	O
+perros	O
+.	O

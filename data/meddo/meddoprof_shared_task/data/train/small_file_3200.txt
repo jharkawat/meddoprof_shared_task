@@ -1,0 +1,26 @@
+
+A	O
+los	O
+10	O
+días	O
+de	O
+la	O
+primera	O
+cita	O
+de	O
+la	O
+paciente	O
+con	O
+Salud	O
+Mental	O
+su	O
+padre	O
+,	O
+acudió	O
+a	O
+solicitarnos	O
+el	O
+Alta	O
+por	O
+mejoría	O
+.	O

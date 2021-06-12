@@ -1,0 +1,24 @@
+
+MOTIVO	O
+CONSULTA	O
+:	O
+Valoración	O
+de	O
+Enfermería	O
+para	O
+ley	O
+de	O
+dependencia	O
+,	O
+en	O
+la	O
+consulta	O
+de	O
+Enfermería	O
+de	O
+un	O
+Centro	O
+de	O
+Salud	O
+de	O
+Sevilla	O

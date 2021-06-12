@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+presentaba	O
+gran	O
+inquietud	O
+y	O
+angustia	O
+psicótica	O
+,	O
+bloqueos	O
+del	O
+pensamiento	O
+,	O
+discurso	O
+lento	O
+e	O
+inhibido	O
+y	O
+sensación	O
+de	O
+extrañeza	O
+.	O

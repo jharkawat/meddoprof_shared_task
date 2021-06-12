@@ -1,0 +1,115 @@
+T1	SINTOMA 94 100	disnea
+T2	SINTOMA 563 586	hidratación mucocutánea
+T3	SINTOMA 860 880	disnea de vías altas
+T4	SINTOMA 1062 1070	disneico
+T5	SINTOMA 1091 1100	sialorrea
+T6	SINTOMA 1873 1888	tos persistente
+T7	SINTOMA 1891 1904	expectoración
+T8	SINTOMA 1941 1957	malestar general
+T9	SINTOMA 1963 1979	sensación febril
+T10	SINTOMA 1981 1996	tos persistente
+T11	SINTOMA 2022 2057	dolor progresivo en costado derecho
+T12	SINTOMA 2086 2097	pleuríticas
+T13	SINTOMA 2100 2106	disnea
+T14	SINTOMA 2150 2156	febril
+T15	SINTOMA 2392 2439	disminución generalizada del murmullo vesicular
+T16	SINTOMA 2475 2513	Abdomen y miembros inferiores normales
+T17	SINTOMA 3021 3034	ritmo sinusal
+T18	SINTOMA 3421 3447	elevación de hemidiafragma
+T19	SINTOMA 3781 3806	dolor del costado derecho
+T20	SINTOMA 3842 3862	dolor a la palpación
+T21	SINTOMA 4203 4212	cianótico
+T22	SINTOMA 4249 4268	pupilas midriáticas
+T23	SINTOMA 4557 4566	cianótico
+T24	SINTOMA 4572 4597	livideces en partes acras
+T25	SINTOMA 5343 5374	pupilas midriáticas arreactivas
+T26	SINTOMA 5390 5396	éxitus
+T27	PROCEDIMIENTO 282 296	apendicectomía
+T28	PROCEDIMIENTO 591 623	auscultación cardíaca y pulmonar
+T29	PROCEDIMIENTO 958 996	extracción de cuerpo extraño faríngeo
+T30	PROCEDIMIENTO 1308 1350	ventilación a través de unas gafas nasales
+T31	PROCEDIMIENTO 1386 1405	pinzas tipo Maggill
+T32	PROCEDIMIENTO 1424 1514	radiotransistor con polo distal en hipofaringe y proximal en región de istmo de las fauces
+T33	PROCEDIMIENTO 1720 1742	analgesia domiciliaria
+T34	PROCEDIMIENTO 2323 2335	auscultación
+T35	PROCEDIMIENTO 2565 2574	hemograma
+T36	PROCEDIMIENTO 2725 2742	gasometría venosa
+T37	PROCEDIMIENTO 2984 3002	electrocardiograma
+T38	PROCEDIMIENTO 3004 3007	ECG
+T39	PROCEDIMIENTO 3201 3224	tratamiento antibiótico
+T40	PROCEDIMIENTO 3227 3249	analgésico intravenoso
+T41	PROCEDIMIENTO 3263 3301	tomografía computarizada (TC) torácica
+T42	PROCEDIMIENTO 3460 3486	toracocentesis diagnóstica
+T43	PROCEDIMIENTO 3979 3991	paracentesis
+T44	PROCEDIMIENTO 4280 4306	reanimación cardiopulmonar
+T45	PROCEDIMIENTO 4308 4311	RCP
+T46	PROCEDIMIENTO 4479 4482	RCP
+T47	PROCEDIMIENTO 4492 4527	ventilación con balón autohinchable
+T48	PROCEDIMIENTO 4644 4656	RCP avanzada
+T49	PROCEDIMIENTO 4701 4725	aislamiento de vía aérea
+T50	PROCEDIMIENTO 4834 4855	laringoscopia directa
+T51	PROCEDIMIENTO 4938 4979	extracción del mismo con pinzas de Magill
+T52	PROCEDIMIENTO 5132 5154	intubación orotraqueal
+T53	PROCEDIMIENTO 5156 5159	IOT
+T54	PROCEDIMIENTO 5176 5192	maniobras de RCP
+T55	NEG 164 167	Sin
+T56	NSCO 168 206	antecedentes médicos ni ORL de interés
+T57	NEG 313 316	Sin
+T58	NSCO 317 352	factores de riesgo cardiovasculares
+T59	NEG 354 356	No
+T60	NSCO 357 421	toma tratamiento crónico ni relata alergias a ningún medicamento
+T61	NEG 721 723	no
+T62	NSCO 724 752	existe focalidad neurológica
+T63	NEG 1543 1546	sin
+T64	NSCO 1547 1558	incidencias
+T65	NEG 3625 3627	no
+T66	NSCO 3628 3658	se manda a Anatomía Patológica
+T67	NEG 3668 3676	falta de
+T68	NSCO 3677 3695	muestra suficiente
+T69	NEG 3887 3889	No
+T70	NEG 4096 4108	inconsciente
+T71	NSCO 4109 4142	dentro del baño de la habitación
+T72	NEG 4353 4356	sin
+T73	NSCO 4357 4362	pulso
+T74	NEG 4746 4748	no
+T75	NSCO 4749 4780	se encuentran cuerpos extraños
+T76	NEG 5285 5288	sin
+T77	NSCO 5289 5329	recuperación del pulso en ningún momento
+T78	FARMACO 823 834	actocortina
+T79	FARMACO 4009 4019	uroquinasa
+T80	FARMACO 4676 4686	adrenalina
+T81	FARMACO 5262 5272	adrenalina
+T82	ORG_VIVO 0 5	Varón
+T83	ORG_VIVO 226 236	personales
+T84	ORG_VIVO 303 311	infancia
+T85	ORG_VIVO 497 505	paciente
+T86	ORG_VIVO 510 518	paciente
+T87	ORG_VIVO 787 795	paciente
+T88	ORG_VIVO 897 905	paciente
+T89	ORG_VIVO 1052 1060	paciente
+T90	ORG_VIVO 1207 1215	personal
+T91	ORG_VIVO 1299 1307	paciente
+T92	ORG_VIVO 1355 1370	personal de ORL
+T93	ORG_VIVO 1563 1571	paciente
+T94	ORG_VIVO 2136 2144	paciente
+T95	ORG_VIVO 3764 3772	paciente
+T96	ORG_VIVO 4048 4070	personal de enfermería
+T97	ORG_VIVO 4087 4095	paciente
+T98	ORG_VIVO 4161 4176	personal médico
+T99	ORG_VIVO 4181 4189	paciente
+T100	ORG_VIVO 4367 4388	personal intensivista
+T101	ORG_VIVO 4441 4449	paciente
+T102	ENFERMEDAD 106 162	impactación accidental de cuerpo extraño en hipofaringe
+T103	ENFERMEDAD 1835 1850	cuadro catarral
+T104	ENFERMEDAD 3064 3078	neumonía basal
+T105	ENFERMEDAD 3089 3125	derrame pleural mínimo paraneumónico
+T106	ENFERMEDAD 3340 3365	derrame pleural ecogénico
+T107	ENFERMEDAD 4217 4243	parada cardiorrespiratoria
+T108	SANITARIO-PROFESION 1260 1279	equipo de anestesia
+T109	SANITARIO-PROFESION 1207 1228	personal de quirófano
+T110	SANITARIO-PROFESION 1355 1370	personal de ORL
+T111	SANITARIO-PROFESION 4367 4388	personal intensivista
+T112	SANITARIO-PROFESION 4048 4070	personal de enfermería
+T113	SANITARIO-PROFESION 4161 4176	personal médico
+T114	SANITARIO-PROFESION 1039 1047	otorrino
+T115	SANITARIO-PROFESION 1243 1253	auxiliares

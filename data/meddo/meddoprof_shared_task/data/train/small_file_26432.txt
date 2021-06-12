@@ -1,0 +1,14 @@
+
+La	O
+psiquiatra	B-PROFESION
+advirtió	O
+el	O
+beneficio	O
+secundario	O
+de	O
+la	O
+consulta	O
+en	O
+aquella	O
+ocasión	O
+.	O

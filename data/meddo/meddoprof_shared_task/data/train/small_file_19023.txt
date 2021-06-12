@@ -1,0 +1,12 @@
+
+El	O
+embarazo	O
+fue	O
+planificado	O
+y	O
+el	O
+parto	O
+evolucionó	O
+sin	O
+complicaciones	O
+.	O

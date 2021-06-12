@@ -1,0 +1,76 @@
+T1	SINTOMA 73 80	bebedor
+T2	SINTOMA 474 481	astenia
+T3	SINTOMA 483 491	anorexia
+T4	SINTOMA 493 511	sensación nauseosa
+T5	SINTOMA 514 533	dolor en epigastrio
+T6	SINTOMA 671 714	crepitantes finos en ambas bases pulmonares
+T7	SINTOMA 738 744	soplos
+T8	SINTOMA 746 759	hepatomegalia
+T9	SINTOMA 801 815	esplenomegalia
+T10	SINTOMA 5404 5419	síndrome febril
+T11	SINTOMA 5524 5532	Falleció
+T12	PROCEDIMIENTO 272 286	apendicectomía
+T13	PROCEDIMIENTO 608 626	Exploración física
+T14	PROCEDIMIENTO 842 851	Hemograma
+T15	PROCEDIMIENTO 1142 1169	frotis de sangre periférica
+T16	PROCEDIMIENTO 1295 1317	Estudio de coagulación
+T17	PROCEDIMIENTO 1454 1464	Mielograma
+T18	PROCEDIMIENTO 4286 4314	Citoquímica ultraestructural
+T19	PROCEDIMIENTO 4557 4581	Cariotipo en médula ósea
+T20	PROCEDIMIENTO 5284 5304	estudio citogenético
+T21	PROCEDIMIENTO 5446 5458	hemocultivos
+T22	NEG 562 564	No
+T23	NSCO 565 606	refería clínica infecciosa ni hemorrágica
+T24	NEG 628 630	No
+T25	NSCO 631 651	adenopatías externas
+T26	NEG 734 737	sin
+T27	NSCO 738 744	soplos
+T28	NEG 798 800	No
+T29	NSCO 801 815	esplenomegalia
+T30	NEG 1864 1867	sin
+T31	NSCO 1868 1923	granulación o con muy escasa granulación fina azurófila
+T32	NEG 2028 2031	sin
+T33	NSCO 2032 2048	bastones de Auer
+T34	NEG 2163 2165	no
+T35	NSCO 2166 2195	presentaba rasgos displásicos
+T36	NEG 2676 2685	negativos
+T37	NSCO 2686 2695	para CD34
+T38	NEG 2817 2826	negativos
+T39	NSCO 2827 2836	para CD14
+T40	NEG 2881 2890	negativos
+T41	NSCO 2891 2900	para CD61
+T42	NEG 4397 4406	negativos
+T43	NEG 4916 4918	no
+T44	NSCO 4919 4960	contenían copias del gen MLL ni del c-MYC
+T45	NEG 5223 5225	no
+T46	NSCO 5226 5243	traducida del gen
+T47	NEG 5420 5423	sin
+T48	NSCO 5424 5458	evidencia de foco con hemocultivos
+T49	FARMACO 408 418	torasemida
+T50	FARMACO 420 429	omeprazol
+T51	FARMACO 431 434	AAS
+T52	FARMACO 438 449	candesartán
+T53	FARMACO 2369 2384	fluoruro sódico
+T54	FARMACO 5589 5600	vancomicina
+T55	FARMACO 5626 5636	tazobactam
+T56	ORG_VIVO 18 23	Varón
+T57	ORG_VIVO 44 51	taxista
+T58	ORG_VIVO 5474 5522	Staphylococcus schleiferi sensibles a penicilina
+T59	ENFERMEDAD 105 122	fumador ocasional
+T60	ENFERMEDAD 143 164	hipertensión arterial
+T61	ENFERMEDAD 166 183	diabetes mellitus
+T62	ENFERMEDAD 185 202	arritmia cardíaca
+T63	ENFERMEDAD 204 231	insuficiencia renal crónica
+T64	ENFERMEDAD 234 255	úlcera gastroduodenal
+T65	ENFERMEDAD 288 297	hidrocele
+T66	ENFERMEDAD 318 345	síndrome del túnel carpiano
+T67	ENFERMEDAD 358 369	hemorroides
+T68	ENFERMEDAD 631 651	adenopatías externas
+T69	ENFERMEDAD 716 733	arritmia cardíaca
+T70	ENFERMEDAD 801 815	esplenomegalia
+T71	ENFERMEDAD 4885 4894	monosomía
+T72	ENFERMEDAD 5135 5156	mutación del gen NPM1
+T73	ENFERMEDAD 5404 5419	síndrome febril
+T74	ENFERMEDAD 5446 5522	hemocultivos positivos para Staphylococcus schleiferi sensibles a penicilina
+T75	PACIENTE-PROFESION 44 51	taxista
+T76	PACIENTE-SITUACION_LABORAL 52 60	jubilado

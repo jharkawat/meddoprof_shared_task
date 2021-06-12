@@ -1,0 +1,18 @@
+
+Durante	O
+su	O
+estancia	O
+en	O
+Hospital	O
+de	O
+Día	O
+,	O
+la	O
+paciente	O
+presentó	O
+buena	O
+adaptación	O
+a	O
+las	O
+actividades	O
+.	O

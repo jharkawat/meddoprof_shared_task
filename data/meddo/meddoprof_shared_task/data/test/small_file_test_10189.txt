@@ -1,0 +1,21 @@
+
+Durante	O
+el	O
+estudio	O
+el	O
+paciente	O
+comenzó	O
+con	O
+dolor	O
+torácico	O
+opresivo	O
+,	O
+sin	O
+irradiación	O
+y	O
+que	O
+aumentaba	O
+con	O
+la	O
+tos	O
+.	O

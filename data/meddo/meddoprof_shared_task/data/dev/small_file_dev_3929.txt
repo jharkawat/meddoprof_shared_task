@@ -1,0 +1,19 @@
+
+-	O
+Alucinaciones	O
+auditivas	O
+de	O
+un	O
+niño	O
+llorando	O
+,	O
+que	O
+resultan	O
+congruentes	O
+con	O
+su	O
+estado	O
+de	O
+ánimo	O
+deprimido	O
+.	O

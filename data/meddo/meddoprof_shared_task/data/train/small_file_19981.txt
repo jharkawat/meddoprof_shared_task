@@ -1,0 +1,13 @@
+
+Al	O
+entrevistarse	O
+para	O
+hablar	O
+de	O
+su	O
+menor	O
+rendimiento	O
+,	O
+el	O
+Sr	O
+.	O

@@ -1,0 +1,22 @@
+
+Kevin	O
+,	O
+su	O
+madre	O
+y	O
+los	O
+profesores	B-PROFESION
+coincidían	O
+en	O
+que	O
+era	O
+un	O
+solitario	O
+y	O
+no	O
+caía	O
+bien	O
+a	O
+sus	O
+compañeros	B-SITUACION_LABORAL
+.	O

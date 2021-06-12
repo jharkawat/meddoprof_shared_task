@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+no	O
+había	O
+realizado	O
+viajes	O
+al	O
+extranjero	O
+recientemente	O
+ni	O
+había	O
+estado	O
+en	O
+contacto	O
+con	O
+enfermos	O
+.	O

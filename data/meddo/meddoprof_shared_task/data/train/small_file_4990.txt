@@ -1,0 +1,9 @@
+
+La	O
+paciente	O
+continúa	O
+ingresada	O
+en	O
+Medicina	O
+Interna	O
+.	O

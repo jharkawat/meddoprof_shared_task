@@ -1,0 +1,20 @@
+
+Mixtas	O
+Se	O
+realiza	O
+TAC	O
+(	O
+tomografía	O
+axial	O
+computarizada	O
+)	O
+craneal	O
+con	O
+sospecha	O
+de	O
+disfunción	O
+de	O
+pares	O
+craneales	O
+bajos	O
+.	O

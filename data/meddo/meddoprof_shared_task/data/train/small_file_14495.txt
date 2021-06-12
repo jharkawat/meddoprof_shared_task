@@ -1,0 +1,13 @@
+
+Lesiones	O
+cutáneas	O
+eritematosas	O
+y	O
+papulosas	O
+en	O
+surco	O
+nasogeniano	O
+y	O
+región	O
+ciliar	O
+.	O

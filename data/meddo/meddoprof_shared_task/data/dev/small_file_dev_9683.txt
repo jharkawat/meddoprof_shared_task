@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+es	O
+la	O
+mayor	O
+de	O
+2	O
+hermanos	O
+,	O
+tiene	O
+un	O
+hermano	O
+de	O
+13	O
+años	O
+estudiando	B-SITUACION_LABORAL
+1o	I-SITUACION_LABORAL
+ESO	I-SITUACION_LABORAL
+.	O

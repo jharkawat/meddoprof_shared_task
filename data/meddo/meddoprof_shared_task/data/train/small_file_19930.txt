@@ -1,0 +1,20 @@
+
+Allen	O
+había	O
+sido	O
+diagnosticada	O
+de	O
+«	O
+esquizofrenia	O
+paranoide	O
+resistente	O
+al	O
+tratamiento	O
+y	O
+de	O
+inicio	O
+en	O
+la	O
+infancia	O
+»	O
+.	O

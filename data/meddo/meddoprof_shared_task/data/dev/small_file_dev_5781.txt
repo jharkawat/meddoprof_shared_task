@@ -1,0 +1,7 @@
+
+Bordes	O
+quirúrgicos	O
+libres	O
+de	O
+neoplasia	O
+.	O

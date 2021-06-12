@@ -1,0 +1,23 @@
+T1	SINTOMA 554 578	disminución de la libido
+T2	SINTOMA 581 603	dificultades moderadas
+T3	PROCEDIMIENTO 282 309	tratamientos farmacológicos
+T4	PROCEDIMIENTO 716 730	antidepresivos
+T5	UNC 32 39	sugiere
+T6	USCO 40 97	probabilidad elevada para realizar esta atribución causal
+T7	NEG 106 117	retirada de
+T8	NSCO 118 128	paroxetina
+T9	NEG 243 246	sin
+T10	NSCO 247 276	enfermedad física concurrente
+T11	NEG 278 281	sin
+T12	NSCO 282 327	tratamientos farmacológicos ni uso de tóxicos
+T13	UNC 435 443	pudieran
+T14	USCO 444 492	explicar mejor la presencia de disfunción sexual
+T15	NEG 521 532	retirada de
+T16	NSCO 533 543	paroxetina
+T17	FARMACO 118 128	paroxetina
+T18	FARMACO 533 543	paroxetina
+T19	ORG_VIVO 231 236	varón
+T20	ORG_VIVO 783 792	pacientes
+T21	ENFERMEDAD 247 276	enfermedad física concurrente
+T22	ENFERMEDAD 475 492	disfunción sexual
+T23	ENFERMEDAD 685 730	disfunción sexual secundaria a antidepresivos

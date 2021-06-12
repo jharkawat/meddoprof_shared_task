@@ -1,0 +1,21 @@
+
+En	O
+la	O
+analítica	O
+sanguínea	O
+se	O
+objetiva	O
+discreta	O
+hiperpotasemia	O
+e	O
+insuficiencia	O
+renal	O
+aguda	O
+presentando	O
+cifras	O
+elevadas	O
+de	O
+potasio	O
+y	O
+creatinina	O
+.	O

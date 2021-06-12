@@ -1,0 +1,17 @@
+
+En	O
+2008	O
+se	O
+realiza	O
+una	O
+TC	O
+de	O
+sacro	O
+,	O
+no	O
+observando	O
+progresión	O
+a	O
+ese	O
+nivel	O
+.	O

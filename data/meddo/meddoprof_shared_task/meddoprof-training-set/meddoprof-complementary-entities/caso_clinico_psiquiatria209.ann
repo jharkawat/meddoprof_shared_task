@@ -1,0 +1,65 @@
+T1	SINTOMA 527 541	hiperactividad
+T2	SINTOMA 1179 1184	rabia
+T3	SINTOMA 1315 1328	irritabilidad
+T4	SINTOMA 1849 1855	miedos
+T5	SINTOMA 1858 1868	obsesiones
+T6	PROCEDIMIENTO 873 888	salpinguectomía
+T7	PROCEDIMIENTO 2068 2077	Hemograma
+T8	PROCEDIMIENTO 2271 2289	Electrocardiograma
+T9	PROCEDIMIENTO 2470 2484	Ecocardiograma
+T10	PROCEDIMIENTO 2543 2563	Electroencefalograma
+T11	PROCEDIMIENTO 2668 2697	Resonancia magnética cerebral
+T12	PROCEDIMIENTO 2803 2826	exploración neurológica
+T13	PROCEDIMIENTO 3221 3247	angiorresonancia magnética
+T14	PROCEDIMIENTO 3249 3275	Angiorresonancia Magnética
+T15	PROCEDIMIENTO 3298 3333	serología para VIH, Rosa de Bengala
+T16	NEG 448 450	no
+T17	NSCO 451 470	realiza tratamiento
+T18	NSCO 927 1023	El desencadenante que motivó el ingreso hospitalario fue la presencia de una intensa agresividad
+T19	NEG 1080 1082	no
+T20	NSCO 1083 1100	puede controlarla
+T21	NEG 1127 1140	desaparece de
+T22	NSCO 1141 1157	casa varios días
+T23	NEG 1482 1487	Niega
+T24	NSCO 1488 1507	ideación autolítica
+T25	NEG 2499 2501	no
+T26	NSCO 2502 2542	existe evidencia de cardiopatía orgánica
+T27	NEG 2617 2620	sin
+T28	NSCO 2621 2666	signos focales ni generalizados sobreañadidos
+T29	NEG 3365 3374	negativos
+T30	NEG 3397 3406	negativos
+T31	NEG 3577 3586	negativos
+T32	NEG 3695 3697	no
+T33	NSCO 3698 3750	confiere un significado importante en el diagnóstico
+T34	FARMACO 1599 1609	anfetamina
+T35	FARMACO 3047 3078	heparina de bajo peso molecular
+T36	FARMACO 4006 4016	Olanzapina
+T37	FARMACO 4043 4055	Escitalopram
+T38	FARMACO 4079 4090	Risperidona
+T39	ORG_VIVO 16 24	paciente
+T40	ORG_VIVO 255 265	familiares
+T41	ORG_VIVO 275 286	tío materno
+T42	ORG_VIVO 309 314	madre
+T43	ORG_VIVO 504 514	personales
+T44	ORG_VIVO 581 589	infancia
+T45	ORG_VIVO 609 621	adolescencia
+T46	ORG_VIVO 638 647	marihuana
+T47	ORG_VIVO 764 776	adolescencia
+T48	ORG_VIVO 1056 1061	madre
+T49	ORG_VIVO 1194 1202	paciente
+T50	ORG_VIVO 1774 1780	pareja
+T51	ORG_VIVO 1810 1816	amigos
+T52	ORG_VIVO 3313 3316	VIH
+T53	ORG_VIVO 3797 3806	población
+T54	ENFERMEDAD 110 135	agresividad incontrolable
+T55	ENFERMEDAD 291 304	esquizofrenia
+T56	ENFERMEDAD 367 390	Psicosis Reactiva Breve
+T57	ENFERMEDAD 393 409	Psicosis Atípica
+T58	ENFERMEDAD 896 913	embarazo ectópico
+T59	ENFERMEDAD 2169 2211	abuso en orina positiva para cannabinoides
+T60	ENFERMEDAD 2522 2542	cardiopatía orgánica
+T61	ENFERMEDAD 3935 3944	trombosis
+T62	ENFERMEDAD 4156 4204	Dependencia de múltiples sustancias psicoactivas
+T63	ENFERMEDAD 4215 4252	trombosis de seno venoso intracraneal
+T64	PACIENTE-SITUACION_LABORAL 736 757	abandona los estudios
+T65	PACIENTE-SITUACION_LABORAL 695 725	Estuvo internada en un colegio

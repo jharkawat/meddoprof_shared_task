@@ -1,0 +1,12 @@
+
+Es	O
+la	O
+menor	O
+de	O
+una	O
+familia	O
+de	O
+4	O
+hermanos	O
+sanos	O
+.	O

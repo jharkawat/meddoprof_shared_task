@@ -1,0 +1,19 @@
+
+En	O
+servicio	O
+de	O
+Neurología	O
+se	O
+le	O
+realizaron	O
+tanto	O
+TAC	O
+como	O
+RNM	O
+para	O
+estudio	O
+de	O
+los	O
+cuadros	O
+amnésicos	O
+.	O

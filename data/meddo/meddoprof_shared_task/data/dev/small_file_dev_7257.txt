@@ -1,0 +1,18 @@
+
+Serología	O
+VIH	O
+,	O
+sífilis	O
+,	O
+Strongyloides	O
+,	O
+VHC	O
+negativas	O
+,	O
+serología	O
+VHB	O
+compatible	O
+con	O
+infección	O
+pasada	O
+.	O

@@ -1,0 +1,10 @@
+
+-	O
+Diagnostico	O
+principal	O
+:	O
+Hemofilia	O
+A	O
+adquirida	O
+idiopática	O
+.	O

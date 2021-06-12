@@ -1,0 +1,21 @@
+
+Diagnosticada	O
+en	O
+diciembre	O
+de	O
+2017	O
+de	O
+adenocarcinoma	O
+de	O
+cérvix	O
+uterino	O
+con	O
+crecimiento	O
+exofítico	O
+estadio	O
+IIB	O
+por	O
+episodio	O
+de	O
+metrorragias	O
+.	O

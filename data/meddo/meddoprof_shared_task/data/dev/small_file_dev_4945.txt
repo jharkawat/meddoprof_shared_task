@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+evolucionó	O
+adecuadamente	O
+tras	O
+instauración	O
+de	O
+heparina	O
+de	O
+bajo	O
+peso	O
+molecular	O
+y	O
+más	O
+tarde	O
+acenocumarol	O
+.	O

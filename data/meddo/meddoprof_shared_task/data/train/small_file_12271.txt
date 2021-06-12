@@ -1,0 +1,13 @@
+
+Así	O
+mismo	O
+se	O
+administra	O
+gammaglobulina	O
+y	O
+1a	O
+dosis	O
+de	O
+vacuna	O
+antitetánica	O
+.	O

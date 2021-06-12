@@ -1,0 +1,44 @@
+T1	SINTOMA 742 749	otalgia
+T2	SINTOMA 1012 1032	pupilas anisocóricas
+T3	SINTOMA 1034 1063	parestesia en área trigeminal
+T4	PROCEDIMIENTO 199 229	tratamiento antibiótico tópico
+T5	PROCEDIMIENTO 298 307	TAC ótico
+T6	PROCEDIMIENTO 310 326	gammagrafía ósea
+T7	PROCEDIMIENTO 467 470	TAC
+T8	PROCEDIMIENTO 627 638	gammagrafía
+T9	PROCEDIMIENTO 1129 1157	otoscopia del oído izquierdo
+T10	PROCEDIMIENTO 1255 1258	TAC
+T11	PROCEDIMIENTO 1788 1808	resonancia magnética
+T12	PROCEDIMIENTO 1849 1868	antibioterapia oral
+T13	NEG 18 20	no
+T14	NSCO 21 30	diabético
+T15	UNC 251 262	sospecha de
+T16	USCO 263 307	otitis externa maligna se solicitó TAC ótico
+T17	NEG 395 407	asintomático
+T18	NEG 646 657	ausencia de
+T19	NSCO 658 678	clínica del paciente
+T20	UNC 946 960	compatible con
+T21	USCO 961 982	síndrome de Gradenigo
+T22	FARMACO 429 443	ciprofloxacino
+T23	FARMACO 837 861	amoxicilina/ clavulánico
+T24	FARMACO 1618 1629	Ceftazidima
+T25	FARMACO 1632 1644	Cotrimoxazol
+T26	ORG_VIVO 0 5	Varón
+T27	ORG_VIVO 349 357	paciente
+T28	ORG_VIVO 670 678	paciente
+T29	ORG_VIVO 724 732	paciente
+T30	ORG_VIVO 918 926	paciente
+T31	ORG_VIVO 1518 1535	antipseudomónicos
+T32	ORG_VIVO 1538 1580	Staphylococcus Aureus Meticilín-Resistente
+T33	ORG_VIVO 1605 1613	paciente
+T34	ORG_VIVO 1691 1699	paciente
+T35	ENFERMEDAD 21 30	diabético
+T36	ENFERMEDAD 94 117	absceso en suelo de CAE
+T37	ENFERMEDAD 143 177	otitis externa recidivante en oído
+T38	ENFERMEDAD 263 285	otitis externa maligna
+T39	ENFERMEDAD 804 822	otitis media aguda
+T40	ENFERMEDAD 961 982	síndrome de Gradenigo
+T41	ENFERMEDAD 1076 1111	parálisis para la abducción del ojo
+T42	ENFERMEDAD 1174 1194	perforación inferior
+T43	ENFERMEDAD 1288 1399	proceso lítico que se extendía desde el ápex petroso en sentido anteromedial, rodeando la carótida intrapetrosa
+T44	ENFERMEDAD 1471 1580	infección por Pseudomona aeruginosa sensible a antipseudomónicos y Staphylococcus Aureus Meticilín-Resistente

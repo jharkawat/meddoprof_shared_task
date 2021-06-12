@@ -1,0 +1,18 @@
+
+Trabajadora	B-PROFESION
+de	I-PROFESION
+este	I-PROFESION
+Hospital	I-PROFESION
+de	O
+54	O
+años	O
+,	O
+asignada	O
+al	O
+Bloque	O
+Quirúrgico	O
+como	O
+Auxiliar	B-PROFESION
+de	I-PROFESION
+Enfermería	I-PROFESION
+.	O

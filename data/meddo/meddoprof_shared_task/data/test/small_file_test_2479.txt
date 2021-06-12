@@ -1,0 +1,9 @@
+
+-	O
+Electroforesis	O
+en	O
+suero	O
+:	O
+sin	O
+anomalías	O
+.	O

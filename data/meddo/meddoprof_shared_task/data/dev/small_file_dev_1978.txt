@@ -1,0 +1,14 @@
+
+También	O
+se	O
+utilizó	O
+aripiprazol	O
+en	O
+toma	O
+oral	O
+que	O
+debió	O
+retirarse	O
+por	O
+acatisia	O
+.	O

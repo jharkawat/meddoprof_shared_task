@@ -1,0 +1,27 @@
+
+Aviso	O
+a	O
+domicilio	O
+que	O
+trasmite	O
+el	O
+centro	O
+coordinador	O
+a	O
+nuestra	O
+Unidad	O
+de	O
+Cuidados	O
+Críticos	O
+de	O
+urgencias	O
+por	O
+alteración	O
+en	O
+el	O
+comportamiento	O
+de	O
+un	O
+paciente	O
+joven	O
+.	O

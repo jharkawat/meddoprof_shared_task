@@ -1,0 +1,10 @@
+
+El	O
+resto	O
+del	O
+examen	O
+neurológico	O
+no	O
+mostró	O
+alteraciones	O
+.	O

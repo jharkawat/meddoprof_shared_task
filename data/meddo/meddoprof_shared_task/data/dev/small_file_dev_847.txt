@@ -1,0 +1,14 @@
+
+El	O
+tratamiento	O
+es	O
+bien	O
+tolerado	O
+y	O
+sin	O
+la	O
+aparición	O
+de	O
+efectos	O
+secundarios	O
+.	O

@@ -1,0 +1,26 @@
+
+Durante	O
+su	O
+ingreso	O
+,	O
+la	O
+paciente	O
+continuó	O
+con	O
+alteración	O
+conductual	O
+por	O
+lo	O
+que	O
+precisó	O
+seguimiento	O
+por	O
+psiquiatría	O
+,	O
+que	O
+inició	O
+tratamiento	O
+antipsicótico	O
+con	O
+haloperidol	O
+.	O

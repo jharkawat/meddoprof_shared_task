@@ -1,0 +1,10 @@
+
+Recibió	O
+tratamiento	O
+con	O
+levofloxacino	O
+,	O
+sin	O
+mejoría	O
+clínica	O
+.	O

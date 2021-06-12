@@ -1,0 +1,17 @@
+
+Adenopatías	O
+hiliares	O
+derechas	O
+con	O
+infiltración	O
+tumoral	O
+(	O
+no	O
+especificado	O
+el	O
+número	O
+de	O
+ganglios	O
+examinados	O
+)	O
+.	O

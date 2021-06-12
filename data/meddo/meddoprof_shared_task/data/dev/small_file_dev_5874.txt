@@ -1,0 +1,9 @@
+
+El	O
+estudio	O
+infeccioso	O
+del	O
+LBA	O
+resultó	O
+negativo	O
+.	O

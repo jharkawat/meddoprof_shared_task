@@ -1,0 +1,14 @@
+
+No	O
+tenía	O
+síntomas	O
+de	O
+patología	O
+digestiva	O
+y	O
+no	O
+se	O
+había	O
+termometrado	O
+fiebre	O
+.	O

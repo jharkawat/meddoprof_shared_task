@@ -1,0 +1,27 @@
+
+Debe	O
+sospecharse	O
+infección	O
+activa	O
+por	O
+estos	O
+patógenos	O
+cuando	O
+el	O
+paciente	O
+presente	O
+un	O
+estado	O
+de	O
+inmunosupresión	O
+grave	O
+(	O
+menos	O
+de	O
+50	O
+linfocitos	O
+CD4	O
+/	O
+mm3	O
+)	O
+.	O

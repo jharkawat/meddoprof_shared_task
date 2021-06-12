@@ -1,0 +1,11 @@
+
+Su	O
+última	O
+revisión	O
+médica	O
+la	O
+realizó	O
+hace	O
+tres	O
+semanas	O
+.	O

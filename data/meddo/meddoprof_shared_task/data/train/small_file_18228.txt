@@ -1,0 +1,18 @@
+
+Como	O
+antecedentes	O
+destacaba	O
+estar	O
+en	O
+tratamiento	O
+con	O
+dorzolamida	O
+más	O
+timolol	O
+por	O
+glaucoma	O
+crónico	O
+de	O
+ángulo	O
+abierto	O
+.	O

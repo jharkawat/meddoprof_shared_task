@@ -1,0 +1,19 @@
+
+Tras	O
+esta	O
+conversación	O
+,	O
+plantearon	O
+la	O
+necesidad	O
+de	O
+hablar	O
+también	O
+con	O
+el	O
+padre	O
+y	O
+la	O
+otra	O
+hermana	O
+.	O

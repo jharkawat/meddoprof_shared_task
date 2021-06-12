@@ -1,0 +1,14 @@
+
+Neurocitoma	O
+multicéntrico	O
+recidivado	O
+a	O
+radioterapia	O
+y	O
+con	O
+citología	O
+positiva	O
+de	O
+líquido	O
+cefalorraquídeo	O
+.	O

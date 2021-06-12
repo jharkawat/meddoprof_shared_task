@@ -1,0 +1,23 @@
+
+Se	O
+realizó	O
+el	O
+proceso	O
+de	O
+desvinculación	O
+progresiva	O
+del	O
+soporte	O
+ventilatorio	O
+,	O
+logrando	O
+la	O
+extubación	O
+al	O
+quinto	O
+día	O
+de	O
+ventilación	O
+mecánica	O
+invasora	O
+.	O

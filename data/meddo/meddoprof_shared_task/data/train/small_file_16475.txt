@@ -1,0 +1,19 @@
+
+Sumatriptán	O
+6	O
+mg	O
+subcutáneo	O
+para	O
+las	O
+crisis	O
+y	O
+verapamilo	O
+80	O
+mg	O
+cada	O
+8	O
+horas	O
+como	O
+tratamiento	O
+preventivo	O
+.	O

@@ -1,0 +1,190 @@
+T1	SINTOMA 686 691	dolor
+T2	SINTOMA 1781 1810	deterioro de la función renal
+T3	SINTOMA 3068 3074	fiebre
+T4	SINTOMA 3076 3079	tos
+T5	SINTOMA 3081 3094	expectoración
+T6	SINTOMA 5515 5529	desorientación
+T7	SINTOMA 5544 5550	fiebre
+T8	SINTOMA 7295 7306	falleciendo
+T9	SINTOMA 7900 7906	éxitus
+T10	PROCEDIMIENTO 696 707	corticoides
+T11	PROCEDIMIENTO 890 902	hemodiálisis
+T12	PROCEDIMIENTO 951 967	trasplante renal
+T13	PROCEDIMIENTO 1693 1703	trasplante
+T14	PROCEDIMIENTO 3387 3414	ecografía de partes blandas
+T15	PROCEDIMIENTO 4615 4630	biopsia cutánea
+T16	PROCEDIMIENTO 4690 4715	estudio anatomopatológico
+T17	PROCEDIMIENTO 5369 5384	colgajo de piel
+T18	PROCEDIMIENTO 5589 5626	tomografía computarizada (TC) craneal
+T19	PROCEDIMIENTO 5633 5647	punción lumbar
+T20	PROCEDIMIENTO 6528 6540	hemocultivos
+T21	PROCEDIMIENTO 6582 6600	TC toracoabdominal
+T22	PROCEDIMIENTO 7116 7132	trasplante renal
+T23	PROCEDIMIENTO 7581 7597	trasplante renal
+T24	PROCEDIMIENTO 7622 7649	tratamiento con corticoides
+T25	NEG 17 20	sin
+T26	NSCO 21 55	antecedentes familiares de interés
+T27	NEG 81 84	sin
+T28	NSCO 85 100	hábitos tóxicos
+T29	NEG 370 373	sin
+T30	NSCO 374 389	mejoría clínica
+T31	UNC 804 812	probable
+T32	USCO 813 827	glomerulopatía
+T33	NEG 828 830	no
+T34	NSCO 831 878	biopsiada relacionada con su enfermedad de base
+T35	NEG 1141 1149	negativo
+T36	NEG 2081 2090	suspender
+T37	NSCO 2091 2123	la profilaxis con valganciclovir
+T38	NEG 2352 2364	asintomática
+T39	NEG 2595 2606	descartaron
+T40	NSCO 2607 2632	resistencia a ganciclovir
+T41	NEG 2868 2870	No
+T42	NSCO 2871 2901	refería antecedente traumático
+T43	NEG 2903 2905	no
+T44	NSCO 2906 2992	existía puerta de entrada ni refería contacto con animales o actividades de jardinería
+T45	NEG 2994 3001	tampoco
+T46	NSCO 3002 3066	presentaba sintomatología sistémica relacionada con dicha lesión
+T47	UNC 3741 3756	compatibles con
+T48	USCO 3757 3774	pequeños abscesos
+T49	UNC 3868 3876	posibles
+T50	USCO 3877 3904	causas de origen infeccioso
+T51	NEG 3968 3970	no
+T52	NSCO 3971 3983	tuberculosas
+T53	UNC 4406 4414	probable
+T54	USCO 4415 4452	por la inmunosupresión de la paciente
+T55	NEG 5192 5194	no
+T56	NSCO 5195 5207	necrotizante
+T57	NEG 5515 5529	desorientación
+T58	NEG 5530 5532	no
+T59	NSCO 5533 5579	asociado a fiebre ni bajo nivel de consciencia
+T60	NEG 5652 5663	descartaron
+T61	NSCO 5664 5702	infección del sistema nervioso central
+T62	NEG 5761 5775	desapareciendo
+T63	NSCO 5776 5831	todos los síntomas y signos al retirarse el voriconazol
+T64	NEG 5992 5995	sin
+T65	NSCO 5996 6019	reintroducir el fármaco
+T66	UNC 6172 6183	sospecha de
+T67	USCO 6184 6216	recidiva de la infección fúngica
+T68	NEG 6554 6565	descartaron
+T69	NSCO 6566 6575	funguemia
+T70	NEG 6605 6607	no
+T71	NSCO 6608 6670	evidenció complicaciones relacionadas con la infección fúngica
+T72	NEG 6882 6884	no
+T73	NSCO 6885 6903	replicación de CMV
+T74	NEG 7345 7354	En ningún
+T75	NSCO 7355 7446	momento durante este último evento se objetivaron datos de recidiva de la infección fúngica
+T76	NEG 7761 7769	negativo
+T77	FARMACO 307 318	metotrexate
+T78	FARMACO 320 330	infliximab
+T79	FARMACO 332 342	ofatumumab
+T80	FARMACO 344 355	tocilizumab
+T81	FARMACO 358 368	etanercept
+T82	FARMACO 995 1007	micofenolato
+T83	FARMACO 1009 1019	tacrolimus
+T84	FARMACO 1022 1032	prednisona
+T85	FARMACO 1195 1209	valganciclovir
+T86	FARMACO 1434 1443	ertapenem
+T87	FARMACO 1547 1558	oseltamivir
+T88	FARMACO 1879 1889	tacrolimus
+T89	FARMACO 2109 2123	valganciclovir
+T90	FARMACO 2621 2632	ganciclovir
+T91	FARMACO 5050 5061	voriconazol
+T92	FARMACO 5466 5477	voriconazol
+T93	FARMACO 5820 5831	voriconazol
+T94	FARMACO 6346 6356	prednisona
+T95	FARMACO 6358 6368	tacrolimus
+T96	FARMACO 6371 6385	valganciclovir
+T97	FARMACO 6435 6446	voriconazol
+T98	FARMACO 6746 6757	voriconazol
+T99	FARMACO 6759 6769	tacrolimus
+T100	FARMACO 6771 6781	prednisona
+T101	FARMACO 6784 6798	valganciclovir
+T102	FARMACO 7013 7027	valganciclovir
+T103	FARMACO 7668 7682	valganciclovir
+T104	FARMACO 7813 7824	voriconazol
+T105	ORG_VIVO 0 5	Mujer
+T106	ORG_VIVO 34 44	familiares
+T107	ORG_VIVO 125 135	personales
+T108	ORG_VIVO 929 937	paciente
+T109	ORG_VIVO 1037 1045	paciente
+T110	ORG_VIVO 1098 1101	CMV
+T111	ORG_VIVO 1113 1120	donante
+T112	ORG_VIVO 1530 1533	VRS
+T113	ORG_VIVO 1648 1656	paciente
+T114	ORG_VIVO 1974 1982	paciente
+T115	ORG_VIVO 2259 2264	viral
+T116	ORG_VIVO 2311 2319	paciente
+T117	ORG_VIVO 2417 2420	CMV
+T118	ORG_VIVO 2681 2686	viral
+T119	ORG_VIVO 2785 2793	paciente
+T120	ORG_VIVO 2956 2964	animales
+T121	ORG_VIVO 3990 4011	Mycobacterium marinum
+T122	ORG_VIVO 4014 4022	Nocardia
+T123	ORG_VIVO 4038 4059	Nocardia brasiliensis
+T124	ORG_VIVO 4062 4085	Leishmania brasiliensis
+T125	ORG_VIVO 4087 4109	Francisella tularensis
+T126	ORG_VIVO 4112 4131	hongos filamentosos
+T127	ORG_VIVO 4137 4148	Aspergillus
+T128	ORG_VIVO 4150 4162	Scedosporium
+T129	ORG_VIVO 4164 4176	Lomentospora
+T130	ORG_VIVO 4178 4188	Acremonium
+T131	ORG_VIVO 4190 4198	Fusarium
+T132	ORG_VIVO 4201 4213	Paecilomyces
+T133	ORG_VIVO 4444 4452	paciente
+T134	ORG_VIVO 4526 4532	hongos
+T135	ORG_VIVO 4539 4552	micobacterias
+T136	ORG_VIVO 4783 4796	micobacterias
+T137	ORG_VIVO 4811 4817	hongos
+T138	ORG_VIVO 4820 4829	bacterias
+T139	ORG_VIVO 4863 4882	hongos filamentosos
+T140	ORG_VIVO 4998 5022	Scedosporium apiospermum
+T141	ORG_VIVO 5482 5490	paciente
+T142	ORG_VIVO 6267 6275	paciente
+T143	ORG_VIVO 6675 6683	paciente
+T144	ORG_VIVO 6900 6903	CMV
+T145	ORG_VIVO 7138 7146	paciente
+T146	ORG_VIVO 7551 7559	paciente
+T147	ORG_VIVO 7701 7716	citomegalovirus
+T148	ORG_VIVO 7733 7740	donante
+T149	ENFERMEDAD 57 78	alérgica a quinolonas
+T150	ENFERMEDAD 147 159	hipertensión
+T151	ENFERMEDAD 161 185	bronquitis de repetición
+T152	ENFERMEDAD 188 207	artritis reumatoide
+T153	ENFERMEDAD 231 262	afectación poliarticular severa
+T154	ENFERMEDAD 536 595	anquilosis en carpos, metacarpofalángicas e interfalángicas
+T155	ENFERMEDAD 752 789	enfermedad renal crónica en estadio 5
+T156	ENFERMEDAD 813 840	glomerulopatía no biopsiada
+T157	ENFERMEDAD 1067 1096	infección por citomegalovirus
+T158	ENFERMEDAD 1310 1406	pielonefritis aguda por Klebsiella pneumoniae productora de betalactamasas de espectro extendido
+T159	ENFERMEDAD 1451 1497	infección respiratoria por virus de la gripe A
+T160	ENFERMEDAD 1729 1779	pielonefritis por K. pneumoniae productora de BLEE
+T161	ENFERMEDAD 1994 2011	infección por CMV
+T162	ENFERMEDAD 2138 2149	neutropenia
+T163	ENFERMEDAD 2517 2528	neutropenia
+T164	ENFERMEDAD 2721 2747	lesión nodular en el brazo
+T165	ENFERMEDAD 2762 2771	celulitis
+T166	ENFERMEDAD 3766 3774	abscesos
+T167	ENFERMEDAD 3877 3904	causas de origen infeccioso
+T168	ENFERMEDAD 3938 4162	infecciones por micobacterias no tuberculosas (como Mycobacterium marinum), Nocardia (especialmente Nocardia brasiliensis), Leishmania brasiliensis, Francisella tularensis y hongos filamentosos como Aspergillus, Scedosporium
+T169	ENFERMEDAD 4275 4311	neoplásico y la etiología autoinmune
+T170	ENFERMEDAD 4333 4344	sarcoidosis
+T171	ENFERMEDAD 5183 5207	fascitis no necrotizante
+T172	ENFERMEDAD 5317 5326	infección
+T173	ENFERMEDAD 5664 5702	infección del sistema nervioso central
+T174	ENFERMEDAD 5738 5759	hepatitis colestásica
+T175	ENFERMEDAD 6076 6090	absceso glúteo
+T176	ENFERMEDAD 6199 6233	infección fúngica por Scedosporium
+T177	ENFERMEDAD 6566 6575	funguemia
+T178	ENFERMEDAD 6653 6670	infección fúngica
+T179	ENFERMEDAD 6984 6995	neutropenia
+T180	ENFERMEDAD 7077 7094	infección fúngica
+T181	ENFERMEDAD 7156 7223	sepsis de foco urinario por Pseudomonas aeruginosa multirresistente
+T182	ENFERMEDAD 7254 7267	shock séptico
+T183	ENFERMEDAD 7324 7343	fallo multiorgánico
+T184	ENFERMEDAD 7429 7446	infección fúngica
+T185	ENFERMEDAD 7467 7547	Infección fúngica invasora de piel y partes blandas por Scedosporium apiospermum
+T186	ENFERMEDAD 7560 7575	inmunodeprimida
+T187	ENFERMEDAD 7599 7618	artritis reumatoide
+T188	ENFERMEDAD 7652 7682	neutropenia por valganciclovir
+T189	ENFERMEDAD 7789 7808	colestasis hepática
+T190	ENFERMEDAD 7826 7885	Sepsis urinaria por Pseudomonas aeruginosa multirresistente

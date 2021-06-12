@@ -1,0 +1,6 @@
+
+También	O
+agrede	O
+al	O
+marido	O
+.	O

@@ -1,0 +1,13 @@
+
+No	O
+refería	O
+fiebre	O
+,	O
+ni	O
+tos	O
+,	O
+ni	O
+pérdida	O
+de	O
+peso	O
+.	O

@@ -1,0 +1,15 @@
+
+Relación	O
+familiar	O
+:	O
+No	O
+tiene	O
+ningún	O
+tipo	O
+de	O
+comunicación	O
+verbal	O
+con	O
+su	O
+familia	O
+.	O

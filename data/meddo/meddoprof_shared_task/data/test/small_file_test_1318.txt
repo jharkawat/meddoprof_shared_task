@@ -1,0 +1,22 @@
+
+Dos	O
+días	O
+después	O
+presentó	O
+picos	O
+febriles	O
+y	O
+clínica	O
+respiratoria	O
+,	O
+objetivándose	O
+en	O
+la	O
+radiografía	O
+de	O
+tórax	O
+una	O
+neumonía	O
+bilateral	O
+grave	O
+.	O

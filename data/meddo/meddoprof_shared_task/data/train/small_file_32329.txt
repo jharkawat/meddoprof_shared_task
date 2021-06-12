@@ -1,0 +1,25 @@
+
+En	O
+el	O
+año	O
+2013	O
+,	O
+se	O
+deriva	O
+a	O
+Hospital	O
+de	O
+Día	O
+donde	O
+es	O
+dada	O
+de	O
+alta	O
+tras	O
+no	O
+cumplir	O
+con	O
+normas	O
+del	O
+dispositivo	O
+.	O

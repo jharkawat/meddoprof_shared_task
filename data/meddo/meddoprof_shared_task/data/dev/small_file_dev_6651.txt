@@ -1,0 +1,20 @@
+
+b	O
+)	O
+infecciones	O
+subagudas	O
+o	O
+crónicas	O
+como	O
+la	O
+tuberculosis	O
+,	O
+endocarditis	O
+bacterianas	O
+,	O
+brucelosis	O
+,	O
+sífilis	O
+o	O
+VIH	O
+;	O

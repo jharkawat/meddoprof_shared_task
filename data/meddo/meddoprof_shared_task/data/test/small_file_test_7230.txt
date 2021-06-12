@@ -1,0 +1,20 @@
+
+Inició	O
+tratamiento	O
+con	O
+alectinib	O
+a	O
+600	O
+mg	O
+cada	O
+12	O
+horas	O
+con	O
+reducción	O
+de	O
+las	O
+lesiones	O
+cerebrales	O
+y	O
+pulmonares	O
+.	O

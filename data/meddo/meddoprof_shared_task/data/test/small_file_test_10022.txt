@@ -1,0 +1,16 @@
+
+»	O
+Piel	O
+con	O
+acantosis	O
+,	O
+polipomatosis	O
+con	O
+hiperqueratosis	O
+ortoqueratósica	O
+e	O
+hipergranulosis	O
+,	O
+sin	O
+atipia	O
+.	O

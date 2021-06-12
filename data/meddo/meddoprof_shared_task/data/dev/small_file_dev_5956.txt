@@ -1,0 +1,15 @@
+
+Una	O
+prolongación	O
+de	O
+la	O
+masa	O
+en	O
+sentido	O
+medial	O
+invade	O
+la	O
+vena	O
+renal	O
+izquierda	O
+.	O

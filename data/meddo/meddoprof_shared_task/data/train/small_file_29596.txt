@@ -1,0 +1,23 @@
+
+La	O
+hermana	O
+sospecha	O
+que	O
+tiene	O
+una	O
+reactivación	O
+de	O
+la	O
+sintomatología	O
+alucinatoria	O
+y	O
+delirante	O
+,	O
+y	O
+solicita	O
+subir	O
+el	O
+tratamiento	O
+con	O
+clozapina	O
+.	O

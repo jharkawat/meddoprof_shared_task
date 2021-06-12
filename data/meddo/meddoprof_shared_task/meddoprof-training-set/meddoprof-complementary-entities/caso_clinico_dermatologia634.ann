@@ -1,0 +1,56 @@
+T1	SINTOMA 45 55	primigesta
+T2	SINTOMA 57 67	embarazada
+T3	SINTOMA 399 406	prurito
+T4	SINTOMA 798 805	prurito
+T5	SINTOMA 1164 1171	prurito
+T6	SINTOMA 1243 1248	picor
+T7	SINTOMA 1522 1533	nerviosismo
+T8	SINTOMA 1657 1674	picores nocturnos
+T9	SINTOMA 2014 2021	picores
+T10	SINTOMA 2123 2130	picores
+T11	NEG 227 229	No
+T12	NSCO 230 288	antecedentes médicos, ni alergias conocidas hasta la fecha
+T13	NEG 291 293	No
+T14	NSCO 294 302	fumadora
+T15	NEG 495 497	no
+T16	NSCO 498 515	le da importancia
+T17	NEG 580 582	No
+T18	NSCO 583 683	había ingerido ningún alimento nuevo, ni había aplicado cremas, geles o productos de limpieza nuevos
+T19	NEG 821 823	no
+T20	NSCO 824 857	permite a la embarazada descansar
+T21	NEG 1249 1251	no
+T22	NSCO 1252 1263	desaparecen
+T23	NEG 1364 1367	sin
+T24	NSCO 1368 1396	ninguna solución al problema
+T25	NEG 1471 1473	no
+T26	NSCO 1474 1479	cesan
+T27	NEG 1492 1494	no
+T28	NSCO 1495 1505	disminuyen
+T29	NEG 1619 1621	no
+T30	NSCO 1622 1674	poder descansar por los abundantes picores nocturnos
+T31	FARMACO 1852 1873	Furoato de mometasona
+T32	FARMACO 1947 1957	Loratadina
+T33	ORG_VIVO 27 32	mujer
+T34	ORG_VIVO 86 94	paciente
+T35	ORG_VIVO 308 316	paciente
+T36	ORG_VIVO 465 472	insecto
+T37	ORG_VIVO 489 494	mujer
+T38	ORG_VIVO 972 979	matrona
+T39	ORG_VIVO 1328 1335	matrona
+T40	ORG_VIVO 1345 1362	médico de familia
+T41	ORG_VIVO 1402 1407	mujer
+T42	ORG_VIVO 1413 1419	pareja
+T43	ORG_VIVO 1540 1545	mujer
+T44	ORG_VIVO 1565 1570	mujer
+T45	ORG_VIVO 1745 1750	mujer
+T46	ORG_VIVO 1833 1844	facultativo
+T47	ORG_VIVO 1936 1942	granos
+T48	ORG_VIVO 2086 2094	paciente
+T49	ENFERMEDAD 294 302	fumadora
+T50	ENFERMEDAD 1511 1519	ansiedad
+T51	ENFERMEDAD 1771 1791	prurigo del embarazo
+T52	SANITARIO-PROFESION 1439 1450	dermatólogo
+T53	SANITARIO-PROFESION 1833 1844	facultativo
+T54	SANITARIO-PROFESION 1345 1362	médico de familia
+T55	SANITARIO-PROFESION 972 979	matrona
+T56	SANITARIO-PROFESION 1328 1335	matrona

@@ -1,0 +1,14 @@
+
+En	O
+el	O
+2001	O
+ingresó	O
+en	O
+Medicina	O
+Interna	O
+por	O
+un	O
+cuadro	O
+de	O
+pleuropericarditis	O
+.	O

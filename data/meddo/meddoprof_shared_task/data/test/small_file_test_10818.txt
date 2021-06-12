@@ -1,0 +1,17 @@
+
+Al	O
+mes	O
+de	O
+este	O
+episodio	O
+el	O
+paciente	O
+debutó	O
+con	O
+clínica	O
+compatible	O
+con	O
+síndrome	O
+de	O
+Gradenigo	O
+.	O

@@ -1,0 +1,23 @@
+
+Absceso	O
+abdómino	O
+-	O
+pélvico	O
+fistulizado	O
+a	O
+la	O
+piel	O
+de	O
+la	O
+cara	O
+anterior	O
+del	O
+muslo	O
+izquierdo	O
+a	O
+través	O
+del	O
+agujero	O
+obturador	O
+izquierdo	O
+.	O

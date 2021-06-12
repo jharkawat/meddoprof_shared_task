@@ -1,0 +1,24 @@
+
+En	O
+abril	O
+de	O
+2015	O
+,	O
+tras	O
+9	O
+ciclos	O
+de	O
+pemetrexed	O
+,	O
+presenta	O
+dolor	O
+a	O
+nivel	O
+supraclavicular	O
+izquierdo	O
+,	O
+y	O
+recibe	O
+radioterapia	O
+antiálgica	O
+.	O

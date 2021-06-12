@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+vivía	O
+en	O
+ambiente	O
+urbano	O
+,	O
+negaba	O
+la	O
+realización	O
+de	O
+viajes	O
+recientes	O
+ni	O
+contacto	O
+con	O
+animales	O
+.	O

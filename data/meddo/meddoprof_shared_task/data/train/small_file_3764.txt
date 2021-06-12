@@ -1,0 +1,14 @@
+
+Hasta	O
+ahora	O
+es	O
+la	O
+paciente	O
+la	O
+que	O
+se	O
+encarga	O
+de	O
+su	O
+medicación	O
+.	O

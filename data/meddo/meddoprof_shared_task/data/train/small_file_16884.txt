@@ -1,0 +1,13 @@
+
+En	O
+la	O
+exploración	O
+general	O
+,	O
+la	O
+paciente	O
+estaba	O
+afebril	O
+y	O
+normotensa	O
+.	O

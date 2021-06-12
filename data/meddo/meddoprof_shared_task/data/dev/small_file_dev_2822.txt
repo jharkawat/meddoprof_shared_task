@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+permanece	O
+en	O
+todo	O
+momento	O
+consciente	O
+,	O
+alerta	O
+y	O
+estable	O
+.	O

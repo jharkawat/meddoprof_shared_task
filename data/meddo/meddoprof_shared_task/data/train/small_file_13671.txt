@@ -1,0 +1,12 @@
+
+Desde	O
+entonces	O
+manifiesta	O
+haber	O
+presentado	O
+clínica	O
+de	O
+parálisis	O
+facial	O
+izquierda	O
+.	O

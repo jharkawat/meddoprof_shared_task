@@ -1,0 +1,21 @@
+
+Recaída	O
+en	O
+el	O
+consumo	O
+hace	O
+un	O
+año	O
+y	O
+medio	O
+,	O
+con	O
+abstinencia	O
+de	O
+6	O
+meses	O
+antes	O
+del	O
+ingreso	O
+actual	O
+.	O

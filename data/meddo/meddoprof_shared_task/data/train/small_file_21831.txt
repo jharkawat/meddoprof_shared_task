@@ -1,0 +1,17 @@
+
+Rehúye	O
+las	O
+relaciones	O
+familiares	O
+y	O
+las	O
+responsabilidades	O
+y	O
+se	B-ACTIVIDAD
+dedica	I-ACTIVIDAD
+al	I-ACTIVIDAD
+dibujo	I-ACTIVIDAD
+y	I-ACTIVIDAD
+la	I-ACTIVIDAD
+pintura	I-ACTIVIDAD
+.	O

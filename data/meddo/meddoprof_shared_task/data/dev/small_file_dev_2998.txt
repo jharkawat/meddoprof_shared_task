@@ -1,0 +1,6 @@
+
+No	B-SITUACION_LABORAL
+trabaja	I-SITUACION_LABORAL
+desde	O
+2013	O
+.	O

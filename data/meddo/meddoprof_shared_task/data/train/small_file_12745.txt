@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+tiene	O
+una	O
+adecuada	O
+vida	O
+basal	O
+y	O
+no	O
+recibe	O
+tratamiento	O
+crónico	O
+.	O

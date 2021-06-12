@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+evolucionó	O
+lentamente	O
+de	O
+forma	O
+favorable	O
+,	O
+con	O
+resolución	O
+del	O
+íleo	O
+y	O
+de	O
+la	O
+encefalopatía	O
+.	O

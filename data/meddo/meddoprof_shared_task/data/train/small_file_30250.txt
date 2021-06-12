@@ -1,0 +1,22 @@
+
+En	O
+el	O
+momento	O
+del	O
+ingreso	O
+el	O
+paciente	O
+se	O
+hallaba	O
+consciente	O
+,	O
+desaseado	O
+,	O
+agitado	O
+psicomotrizmente	O
+,	O
+desorientado	O
+temporo	O
+-	O
+espacialmente	O
+.	O

@@ -1,0 +1,11 @@
+
+Abordaje	O
+en	O
+Unidad	O
+de	O
+Cuidados	O
+Intensivos	O
+durante	O
+6	O
+días	O
+.	O

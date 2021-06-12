@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+ictericia	O
+,	O
+eupneico	O
+auscultación	O
+cardiaca	O
+:	O
+taquicárdico	O
+no	O
+soplos	O
+.	O

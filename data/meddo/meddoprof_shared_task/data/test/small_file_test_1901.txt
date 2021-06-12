@@ -1,0 +1,15 @@
+
+Ha	O
+sido	O
+diagnosticada	O
+de	O
+hipotiroidismo	O
+y	O
+presenta	O
+historia	O
+de	O
+pielonefritis	O
+aguda	O
+de	O
+repetición	O
+.	O

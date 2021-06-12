@@ -1,0 +1,9 @@
+
+No	O
+había	O
+consumo	O
+de	O
+glucosa	O
+ni	O
+hiperproteinorraquia	O
+.	O

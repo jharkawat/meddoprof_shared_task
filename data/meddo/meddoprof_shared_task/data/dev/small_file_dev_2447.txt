@@ -1,0 +1,22 @@
+
+Comienza	O
+con	O
+febrícula	O
+,	O
+por	O
+lo	O
+que	O
+realizamos	O
+interconsulta	O
+con	O
+Medicina	O
+Interna	O
+que	O
+solicita	O
+analítica	O
+completa	O
+y	O
+radiografía	O
+de	O
+tórax	O
+.	O

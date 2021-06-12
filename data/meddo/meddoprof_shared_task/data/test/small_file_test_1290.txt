@@ -1,0 +1,24 @@
+
+En	O
+el	O
+ECG	O
+realizado	O
+a	O
+su	O
+llegada	O
+,	O
+se	O
+apreciaba	O
+elevación	O
+del	O
+segmento	O
+ST	O
+inferolateral	O
+con	O
+descenso	O
+especular	O
+en	O
+las	O
+precordiales	O
+derechas	O
+.	O

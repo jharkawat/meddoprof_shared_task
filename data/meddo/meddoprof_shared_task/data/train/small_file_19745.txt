@@ -1,0 +1,9 @@
+
+FRECUENCIA	O
+RESPIRATORIA	O
+:	O
+20	O
+veces	O
+por	O
+minuto	O
+.	O

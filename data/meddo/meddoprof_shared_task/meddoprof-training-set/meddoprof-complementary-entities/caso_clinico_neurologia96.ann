@@ -1,0 +1,106 @@
+T1	SINTOMA 178 183	mareo
+T2	SINTOMA 401 406	mareo
+T3	SINTOMA 408 427	sin giro de objetos
+T4	SINTOMA 559 584	pérdida de la consciencia
+T5	SINTOMA 587 621	caída del instrumento de las manos
+T6	SINTOMA 634 686	palidez cutánea y clonías en los miembros superiores
+T7	SINTOMA 846 851	mareo
+T8	SINTOMA 856 871	palidez cutánea
+T9	SINTOMA 1003 1022	buen estado general
+T10	SINTOMA 1031 1038	afebril
+T11	SINTOMA 1096 1102	soplos
+T12	SINTOMA 1278 1329	pulsos distales estaban presentes y eran simétricos
+T13	SINTOMA 1340 1346	edemas
+T14	SINTOMA 1585 1604	asimetrías faciales
+T15	SINTOMA 1832 1872	reflejos cutáneo-plantares eran flexores
+T16	SINTOMA 2644 2660	hiperventilación
+T17	SINTOMA 2725 2738	ritmo sinusal
+T18	SINTOMA 3043 3136	engrosamiento cortical con hiperseñal en secuencias FLAIR y T2 en la región temporal anterior
+T19	SINTOMA 3436 3504	engrosamiento cortical con hiperseñal en la región temporal anterior
+T20	PROCEDIMIENTO 966 979	Examen físico
+T21	PROCEDIMIENTO 1056 1077	auscultación cardiaca
+T22	PROCEDIMIENTO 1107 1128	auscultación pulmonar
+T23	PROCEDIMIENTO 1486 1497	campimetría
+T24	PROCEDIMIENTO 1906 1925	pruebas cerebelosas
+T25	PROCEDIMIENTO 2000 2018	Análisis de sangre
+T26	PROCEDIMIENTO 2020 2029	hemograma
+T27	PROCEDIMIENTO 2057 2073	función tiroidea
+T28	PROCEDIMIENTO 2086 2103	Análisis de orina
+T29	PROCEDIMIENTO 2150 2185	Análisis de líquido cefalorraquídeo
+T30	PROCEDIMIENTO 2254 2290	Citología de líquido cefalorraquídeo
+T31	PROCEDIMIENTO 2556 2574	Electrocardiograma
+T32	PROCEDIMIENTO 2602 2622	Electroencefalograma
+T33	PROCEDIMIENTO 2696 2723	Holter electrocardiográfico
+T34	PROCEDIMIENTO 2812 2832	Radiografía de tórax
+T35	PROCEDIMIENTO 2885 2918	Tomografía computarizada cerebral
+T36	PROCEDIMIENTO 3007 3041	Resonancia magnética (RM) cerebral
+T37	PROCEDIMIENTO 3370 3399	Resonancia magnética cerebral
+T38	PROCEDIMIENTO 3516 3537	Espectroscopia por RM
+T39	PROCEDIMIENTO 4088 4099	Craneotomía
+T40	PROCEDIMIENTO 4163 4188	estudio anatomopatológico
+T41	NEG 408 411	sin
+T42	NSCO 412 427	giro de objetos
+T43	NEG 1031 1038	afebril
+T44	NEG 1092 1095	sin
+T45	NSCO 1096 1102	soplos
+T46	NEG 1170 1173	sin
+T47	NSCO 1174 1194	ruidos sobreañadidos
+T48	NEG 1223 1225	no
+T49	NSCO 1226 1249	doloroso a la palpación
+T50	NEG 1251 1254	sin
+T51	NSCO 1255 1272	masas ni megalias
+T52	NEG 1331 1333	No
+T53	NSCO 1334 1346	había edemas
+T54	NEG 1571 1573	No
+T55	NSCO 1574 1604	presentaba asimetrías faciales
+T56	NEG 1941 1943	No
+T57	NSCO 1944 1971	presentaba signos meníngeos
+T58	NEG 2321 2324	sin
+T59	NSCO 2325 2354	evidencia de células atípicas
+T60	NEG 2462 2464	no
+T61	NSCO 2465 2476	detectables
+T62	NEG 2500 2502	no
+T63	NSCO 2503 2513	detectable
+T64	NEG 2539 2541	no
+T65	NSCO 2542 2552	detectable
+T66	NEG 2661 2664	sin
+T67	NSCO 2665 2692	signos patológicos de valor
+T68	NEG 2776 2779	sin
+T69	NSCO 2780 2808	pausas ni eventos de interés
+T70	NEG 2834 2837	sin
+T71	NSCO 2838 2881	evidencia de patología pleuropulmonar aguda
+T72	UNC 3290 3305	compatibles con
+T73	USCO 3306 3368	astrocitoma de bajo grado como primera posibilidad diagnóstica
+T74	NEG 3658 3660	no
+T75	NSCO 3661 3675	patognomónicos
+T76	UNC 3792 3800	probable
+T77	USCO 3801 3818	origen neoplásico
+T78	NEG 4354 4356	no
+T79	NSCO 4357 4422	mostró rasgos morfológicos correspondientes a la forma anaplásica
+T80	UNC 4517 4524	pudiera
+T81	USCO 4525 4532	existir
+T82	NEG 4716 4718	no
+T83	NSCO 4719 4793	ha habido complicaciones peri ni postquirúrgicas ni nueva clínica comicial
+T84	NEG 4795 4802	Tampoco
+T85	NSCO 4803 4864	se han detectado déficits manifiestos subjetivos ni objetivos
+T86	FARMACO 3871 3884	levetiracetam
+T87	ORG_VIVO 10 15	Mujer
+T88	ORG_VIVO 28 34	músico
+T89	ORG_VIVO 983 991	paciente
+T90	ORG_VIVO 2422 2461	virus del herpes simple tipo 1 y tipo 2
+T91	ORG_VIVO 2478 2499	virus de Epstein-Barr
+T92	ORG_VIVO 2515 2538	virus del herpes tipo 6
+T93	ORG_VIVO 4685 4693	paciente
+T94	ORG_VIVO 4907 4921	instrumentista
+T95	ENFERMEDAD 53 69	colitis ulcerosa
+T96	ENFERMEDAD 890 909	traumatismo frontal
+T97	ENFERMEDAD 2851 2881	patología pleuropulmonar aguda
+T98	ENFERMEDAD 2920 2946	lesión hiperdensa temporal
+T99	ENFERMEDAD 3306 3317	astrocitoma
+T100	ENFERMEDAD 3630 3650	patología neoplásica
+T101	ENFERMEDAD 3690 3711	Epilepsia sintomática
+T102	ENFERMEDAD 3725 3818	crisis parciales complejas secundaria a lesión temporal derecha de probable origen neoplásico
+T103	ENFERMEDAD 4115 4150	lesión ocupante de espacio temporal
+T104	ENFERMEDAD 4240 4276	oligodendroglioma grado II de la OMS
+T105	PACIENTE-PROFESION 28 34	músico
+T106	PACIENTE-PROFESION 4907 4921	instrumentista

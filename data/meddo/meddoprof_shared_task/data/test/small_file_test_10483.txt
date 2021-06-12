@@ -1,0 +1,7 @@
+
+Los	O
+márgenes	O
+quirúrgicos	O
+fueron	O
+libres	O
+.	O

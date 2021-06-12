@@ -1,0 +1,15 @@
+
+Responsable	B-PROFESION
+clínico	I-PROFESION
+:	O
+M	O
+.	O
+a	O
+Teresa	O
+González	O
+López	O
+Servicio	O
+de	O
+Cirugía	O
+Cardiovascular	O
+.	O

@@ -1,0 +1,11 @@
+
+Mesotelioma	O
+pleural	O
+maligno	O
+de	O
+tipo	O
+epitelial	O
+con	O
+afectación	O
+cervical	O
+.	O

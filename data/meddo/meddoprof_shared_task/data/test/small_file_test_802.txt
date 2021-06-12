@@ -1,0 +1,12 @@
+
+Padre	O
+con	O
+diabetes	O
+mellitus	O
+tipo	O
+2	O
+y	O
+cáncer	O
+de	O
+pulmón	O
+.	O

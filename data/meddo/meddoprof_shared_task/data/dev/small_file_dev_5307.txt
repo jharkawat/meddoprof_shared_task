@@ -1,0 +1,12 @@
+
+El	O
+electromiograma	O
+no	O
+descarta	O
+polirradiculoneuritis	O
+ni	O
+afectación	O
+de	O
+la	O
+motoneurona	O
+.	O

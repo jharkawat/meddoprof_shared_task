@@ -1,0 +1,9 @@
+
+No	O
+presentaba	O
+antecedentes	O
+psiquiátricos	O
+personales	O
+ni	O
+familiares	O
+.	O

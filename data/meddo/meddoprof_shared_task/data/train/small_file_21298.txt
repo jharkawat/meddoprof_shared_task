@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+está	O
+siempre	O
+a	O
+la	O
+defensiva	O
+y	O
+ve	O
+enemigos	O
+en	O
+todas	O
+las	O
+personas	O
+.	O

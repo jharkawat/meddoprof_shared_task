@@ -1,0 +1,8 @@
+
+Está	O
+divorciado	O
+,	O
+no	O
+tiene	O
+hijos	O
+.	O

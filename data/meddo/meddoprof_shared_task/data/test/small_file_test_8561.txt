@@ -1,0 +1,10 @@
+
+Presenta	O
+hipercolesterolemia	O
+controlada	O
+con	O
+medidas	O
+higiénico	O
+-	O
+dietéticas	O
+.	O

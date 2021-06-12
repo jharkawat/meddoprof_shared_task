@@ -1,0 +1,25 @@
+
+Tanto	O
+el	O
+episodio	O
+de	O
+mediastinitis	O
+como	O
+el	O
+de	O
+neumonía	O
+con	O
+derrame	O
+paraneumónico	O
+se	O
+resolvieron	O
+mediante	O
+tratamiento	O
+antibiótico	O
+(	O
+Imipenem	O
+asociado	O
+a	O
+Vancomicina	O
+)	O
+.	O

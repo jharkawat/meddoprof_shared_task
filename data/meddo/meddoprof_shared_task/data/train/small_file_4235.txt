@@ -1,0 +1,11 @@
+
+No	O
+presentaba	O
+fiebre	O
+,	O
+vómitos	O
+,	O
+diarrea	O
+o	O
+hematuria	O
+.	O

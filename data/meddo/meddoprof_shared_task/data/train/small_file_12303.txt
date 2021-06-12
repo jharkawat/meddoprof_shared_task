@@ -1,0 +1,27 @@
+
+En	O
+el	O
+electrocardiograma	O
+el	O
+paciente	O
+está	O
+en	O
+ritmo	O
+sinusal	O
+con	O
+un	O
+bloqueo	O
+completo	O
+de	O
+rama	O
+derecha	O
+(	O
+se	O
+desconoce	O
+si	O
+lo	O
+presentaba	O
+con	O
+anterioridad	O
+)	O
+.	O

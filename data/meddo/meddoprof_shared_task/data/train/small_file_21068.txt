@@ -1,0 +1,13 @@
+
+No	O
+recordaba	O
+qué	O
+le	O
+había	O
+sucedido	O
+o	O
+por	O
+qué	O
+estaba	O
+internada	O
+.	O

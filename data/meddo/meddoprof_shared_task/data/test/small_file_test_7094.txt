@@ -1,0 +1,22 @@
+
+Durante	O
+la	O
+cirugía	O
+,	O
+como	O
+complicación	O
+,	O
+se	O
+produce	O
+una	O
+rotura	O
+de	O
+uréter	O
+y	O
+vena	O
+renal	O
+derechos	O
+que	O
+son	O
+reparados	O
+.	O

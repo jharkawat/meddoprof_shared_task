@@ -1,0 +1,26 @@
+
+Con	O
+diagnóstico	O
+de	O
+presunción	O
+de	O
+meningoencefalitis	O
+aguda	O
+de	O
+etiología	O
+bacteriana	O
+,	O
+la	O
+paciente	O
+es	O
+valorada	O
+por	O
+la	O
+Unidad	O
+de	O
+Cuidados	O
+Intensivos	O
+(	O
+UCI	O
+)	O
+.	O

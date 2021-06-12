@@ -1,0 +1,27 @@
+
+Los	O
+síntomas	O
+que	O
+presentaba	O
+eran	O
+,	O
+tos	O
+sobre	O
+todo	O
+de	O
+carácter	O
+nocturno	O
+,	O
+estornudos	O
+,	O
+sensación	O
+de	O
+fatiga	O
+,	O
+no	O
+presentando	O
+fiebre	O
+ni	O
+expectoración	O
+acompañante	O
+.	O

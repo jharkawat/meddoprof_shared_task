@@ -1,0 +1,6 @@
+
+Finalmente	O
+el	O
+paciente	O
+fallece	O
+.	O

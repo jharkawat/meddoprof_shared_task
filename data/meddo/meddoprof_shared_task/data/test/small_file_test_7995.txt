@@ -1,0 +1,10 @@
+
+Únicamente	O
+presenta	O
+prurito	O
+grado	O
+1	O
+controlado	O
+con	O
+antihistamínicos	O
+.	O

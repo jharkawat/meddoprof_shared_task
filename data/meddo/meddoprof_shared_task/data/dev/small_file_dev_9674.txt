@@ -1,0 +1,8 @@
+
+Mantiene	O
+una	O
+alimentación	O
+e	O
+hidratación	O
+mixta	O
+.	O

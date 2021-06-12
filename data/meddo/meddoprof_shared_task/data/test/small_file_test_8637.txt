@@ -1,0 +1,15 @@
+
+Persisten	O
+también	O
+sin	O
+cambios	O
+pequeños	O
+infiltrados	O
+pseudonodulares	O
+en	O
+región	O
+apical	O
+del	O
+pulmón	O
+izquierdo	O
+.	O

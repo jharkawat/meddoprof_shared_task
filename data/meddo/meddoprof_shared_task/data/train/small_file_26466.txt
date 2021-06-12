@@ -1,0 +1,21 @@
+
+A	O
+medida	O
+que	O
+se	O
+sucedieron	O
+las	O
+entrevistas	O
+y	O
+se	O
+encontró	O
+la	O
+forma	O
+de	O
+comunicación	O
+se	O
+fue	O
+evidenciando	O
+más	O
+clínica	O
+.	O

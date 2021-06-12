@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+tiene	O
+dos	O
+hermanas	O
+más	O
+pequeñas	O
+,	O
+aparentemente	O
+sanas	O
+,	O
+independizadas	O
+.	O

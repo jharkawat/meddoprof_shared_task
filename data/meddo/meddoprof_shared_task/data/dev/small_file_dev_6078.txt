@@ -1,0 +1,12 @@
+
+Tinción	O
+de	O
+Gram	O
+:	O
+se	O
+observa	O
+un	O
+bacilo	O
+gramnegativo	O
+pleomorfo	O
+.	O

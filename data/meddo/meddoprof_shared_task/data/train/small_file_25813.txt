@@ -1,0 +1,23 @@
+
+Ideación	O
+delirante	O
+grave	O
+multitemática	O
+,	O
+con	O
+intensa	O
+repercusión	O
+vivencial	O
+,	O
+de	O
+grandeza	O
+,	O
+perjuicio	O
+,	O
+persecución	O
+,	O
+control	O
+,	O
+y	O
+autorreferencialidad	O
+.	O

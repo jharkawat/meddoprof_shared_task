@@ -1,0 +1,187 @@
+T1	SINTOMA 391 397	fiebre
+T2	SINTOMA 603 609	fiebre
+T3	SINTOMA 663 666	tos
+T4	SINTOMA 668 681	expectoración
+T5	SINTOMA 683 697	dolor torácico
+T6	SINTOMA 699 706	diarrea
+T7	SINTOMA 708 715	disuria
+T8	SINTOMA 759 774	pérdida de peso
+T9	SINTOMA 776 783	astenia
+T10	SINTOMA 785 793	anorexia
+T11	SINTOMA 795 802	prurito
+T12	SINTOMA 806 825	sudoración nocturna
+T13	SINTOMA 996 1006	consciente
+T14	SINTOMA 1008 1046	orientado en persona, tiempo y espacio
+T15	SINTOMA 1077 1085	eupneico
+T16	SINTOMA 1159 1166	Afebril
+T17	SINTOMA 1305 1320	soplos audibles
+T18	SINTOMA 1440 1448	doloroso
+T19	SINTOMA 1506 1527	irritación peritoneal
+T20	SINTOMA 1566 1572	edemas
+T21	SINTOMA 1617 1646	pulsos periféricos simétricos
+T22	SINTOMA 3450 3463	hepatomegalia
+T23	SINTOMA 3710 3716	fiebre
+T24	SINTOMA 5390 5396	fiebre
+T25	SINTOMA 5732 5738	fiebre
+T26	PROCEDIMIENTO 475 487	antitérmicos
+T27	PROCEDIMIENTO 650 655	AINEs
+T28	PROCEDIMIENTO 1259 1280	Auscultación cardíaca
+T29	PROCEDIMIENTO 1322 1347	Auscultación respiratoria
+T30	PROCEDIMIENTO 1700 1709	Hemograma
+T31	PROCEDIMIENTO 2001 2013	hemocultivos
+T32	PROCEDIMIENTO 2049 2059	Urocultivo
+T33	PROCEDIMIENTO 2070 2090	Radiografía de tórax
+T34	PROCEDIMIENTO 2638 2645	Mantoux
+T35	PROCEDIMIENTO 2733 2753	ecografía de abdomen
+T36	PROCEDIMIENTO 3048 3055	doppler
+T37	PROCEDIMIENTO 3223 3236	TC de abdomen
+T38	PROCEDIMIENTO 3530 3555	endoscopia digestiva alta
+T39	PROCEDIMIENTO 3562 3574	colonoscopia
+T40	PROCEDIMIENTO 5335 5350	anticoagulantes
+T41	PROCEDIMIENTO 5458 5483	antitérmicos intravenosos
+T42	PROCEDIMIENTO 5670 5684	antibioterapia
+T43	PROCEDIMIENTO 5919 5948	medición de ADN-CMV y viremia
+T44	PROCEDIMIENTO 6060 6089	estudio de hipercoaglabilidad
+T45	PROCEDIMIENTO 6409 6418	ecografía
+T46	PROCEDIMIENTO 6483 6498	anticoagulación
+T47	NEG 112 115	sin
+T48	NSCO 116 150	antecedentes familiares de interés
+T49	NEG 152 155	sin
+T50	NSCO 156 220	factores de riesgo cardiovasculares conocidos ni hábitos tóxicos
+T51	NEG 657 662	Niega
+T52	NSCO 663 735	tos, expectoración, dolor torácico, diarrea, disuria o lesiones cutáneas
+T53	NEG 737 744	Tampoco
+T54	NSCO 745 825	ha presentado pérdida de peso, astenia, anorexia, prurito ni sudoración nocturna
+T55	NEG 827 829	No
+T56	NSCO 830 859	ha hecho viajes al extranjero
+T57	NEG 1159 1166	Afebril
+T58	NEG 1181 1183	No
+T59	NSCO 1184 1238	presenta adenopatías ni lesiones en la piel ni mucosas
+T60	NEG 1301 1304	sin
+T61	NSCO 1305 1320	soplos audibles
+T62	NEG 1377 1380	sin
+T63	NSCO 1381 1401	ruidos sobreañadidos
+T64	NEG 1437 1439	no
+T65	NSCO 1440 1448	doloroso
+T66	NEG 1450 1452	no
+T67	NSCO 1453 1480	se palpan masas ni megalias
+T68	NEG 1482 1485	sin
+T69	NSCO 1486 1527	objetivar signos de irritación peritoneal
+T70	NEG 1553 1555	no
+T71	NSCO 1556 1611	presentan edemas ni signos de trombosis venosa profunda
+T72	NEG 2025 2034	negativos
+T73	NSCO 2035 2047	a los 5 días
+T74	NSCO 2049 2059	Urocultivo
+T75	NEG 2060 2068	negativo
+T76	NEG 2186 2189	sin
+T77	NSCO 2190 2211	hallazgos patológicos
+T78	NEG 2353 2362	negativos
+T79	NEG 2650 2658	negativo
+T80	NEG 2887 2889	no
+T81	NSCO 2890 2934	muestra aumento significativo de su diámetro
+T82	UNC 3140 3148	sugieren
+T83	USCO 3149 3167	una pileflebitis o
+T84	UNC 3168 3176	probable
+T85	USCO 3177 3209	trombosis séptica portal derecha
+T86	NEG 3329 3332	sin
+T87	NSCO 3333 3368	identificar causa que lo justifique
+T88	NEG 3843 3854	se descarta
+T89	NSCO 3855 3873	desde el principio
+T90	NEG 3878 3880	no
+T91	NSCO 3881 3931	tomar nuestro paciente ninguna clase de medicación
+T92	NEG 4096 4099	sin
+T93	NSCO 4100 4199	olvidar las infecciones causadas por virus de la Hepatitis, virus de Epstein Barr o Citomegalovirus
+T94	NEG 4255 4257	no
+T95	NSCO 4257 4265	-Hodgkin
+T96	NEG 5585 5594	negativos
+T97	NSCO 5595 5623	excepto los Ac Ig M para CMV
+T98	NEG 5657 5666	suspender
+T99	NSCO 5667 5684	la antibioterapia
+T100	NEG 5714 5728	desapareciendo
+T101	NSCO 5729 5755	la fiebre al día siguiente
+T102	NEG 5975 5977	no
+T103	NSCO 5978 5999	se realizan de rutina
+T104	NEG 6384 6392	negativo
+T105	NEG 6438 6440	no
+T106	NSCO 6441 6463	mostrando alteraciones
+T107	NEG 6465 6479	suspendiéndose
+T108	NSCO 6480 6498	la anticoagulación
+T109	NEG 6564 6579	desaparición de
+T110	NSCO 6580 6588	la Ig M.
+T111	NSCO 6590 6607	Diagnóstico final
+T112	NSCO 6608 6617	Por tanto
+T113	FARMACO 5239 5251	piperacilina
+T114	FARMACO 5252 5262	tazobactam
+T115	FARMACO 5315 5326	enoxaparina
+T116	FARMACO 5701 5712	enoxaparina
+T117	ORG_VIVO 53 58	varón
+T118	ORG_VIVO 129 139	familiares
+T119	ORG_VIVO 867 875	caballos
+T120	ORG_VIVO 877 883	perros
+T121	ORG_VIVO 886 894	gallinas
+T122	ORG_VIVO 908 916	familiar
+T123	ORG_VIVO 1021 1028	persona
+T124	ORG_VIVO 2476 2496	virus de Hepatitis A
+T125	ORG_VIVO 2496 2499	, B
+T126	ORG_VIVO 2499 2502	, C
+T127	ORG_VIVO 2523 2526	VEB
+T128	ORG_VIVO 2531 2534	CMV
+T129	ORG_VIVO 2539 2542	VIH
+T130	ORG_VIVO 2547 2557	Toxoplasma
+T131	ORG_VIVO 2562 2576	Rickettsia spp
+T132	ORG_VIVO 2581 2589	Coxiella
+T133	ORG_VIVO 2594 2615	Mycoplasma pneumoniae
+T134	ORG_VIVO 3895 3903	paciente
+T135	ORG_VIVO 4160 4181	virus de Epstein Barr
+T136	ORG_VIVO 4184 4199	Citomegalovirus
+T137	ORG_VIVO 4201 4204	CMV
+T138	ORG_VIVO 4425 4431	adulto
+T139	ORG_VIVO 5008 5015	víricas
+T140	ORG_VIVO 5620 5623	CMV
+T141	ORG_VIVO 5935 5938	CMV
+T142	ORG_VIVO 5941 5948	viremia
+T143	ORG_VIVO 6556 6559	CMV
+T144	ORG_VIVO 6586 6588	M.
+T145	ORG_VIVO 6651 6659	paciente
+T146	ORG_VIVO 6726 6734	paciente
+T147	ENFERMEDAD 295 321	fractura de tibia y peroné
+T148	ENFERMEDAD 619 635	faringitis aguda
+T149	ENFERMEDAD 718 735	lesiones cutáneas
+T150	ENFERMEDAD 1193 1204	adenopatías
+T151	ENFERMEDAD 1586 1611	trombosis venosa profunda
+T152	ENFERMEDAD 3153 3165	pileflebitis
+T153	ENFERMEDAD 3177 3201	trombosis séptica portal
+T154	ENFERMEDAD 3278 3319	trombosis de la rama anterior de la porta
+T155	ENFERMEDAD 3450 3463	hepatomegalia
+T156	ENFERMEDAD 3475 3498	paniculitis mesentérica
+T157	ENFERMEDAD 3760 3771	infecciones
+T158	ENFERMEDAD 3773 3783	neoplasias
+T159	ENFERMEDAD 3943 3954	infecciones
+T160	ENFERMEDAD 3982 3994	tuberculosis
+T161	ENFERMEDAD 4001 4054	abscesos generalmente localizados en abdomen y pelvis
+T162	ENFERMEDAD 4056 4069	osteomielitis
+T163	ENFERMEDAD 4072 4094	endocarditis subagudas
+T164	ENFERMEDAD 4112 4158	infecciones causadas por virus de la Hepatitis
+T165	ENFERMEDAD 4217 4265	neoplasias, el linfoma (especialmente no-Hodgkin
+T166	ENFERMEDAD 4268 4276	leucemia
+T167	ENFERMEDAD 4278 4306	carcinoma de células renales
+T168	ENFERMEDAD 4308 4331	carcinoma hepatocelular
+T169	ENFERMEDAD 4334 4354	metástasis hepáticas
+T170	ENFERMEDAD 4401 4431	enfermedad de Still del adulto
+T171	ENFERMEDAD 4436 4465	arteritis de células gigantes
+T172	ENFERMEDAD 4467 4487	poliarteritis nodosa
+T173	ENFERMEDAD 4489 4510	arteritis de Takayasu
+T174	ENFERMEDAD 4512 4533	enfermedad de Wegener
+T175	ENFERMEDAD 4536 4552	crioglobulinemia
+T176	ENFERMEDAD 4697 4713	trombosis portal
+T177	ENFERMEDAD 4729 4759	trombosis portal extrahepática
+T178	ENFERMEDAD 4773 4791	causas idiopáticas
+T179	ENFERMEDAD 4925 4937	pancreatitis
+T180	ENFERMEDAD 4982 5015	infecciones bacterianas o víricas
+T181	ENFERMEDAD 5043 5073	trombosis portal intrahepática
+T182	ENFERMEDAD 5081 5098	cirrosis hepática
+T183	ENFERMEDAD 5125 5152	tumores hepáticos primarios
+T184	ENFERMEDAD 5200 5212	pileflebitis
+T185	ENFERMEDAD 6666 6682	trombosis portal
+T186	ENFERMEDAD 6687 6722	infección aguda por citomegalovirus
+T187	PACIENTE-PROFESION 90 97	gruísta

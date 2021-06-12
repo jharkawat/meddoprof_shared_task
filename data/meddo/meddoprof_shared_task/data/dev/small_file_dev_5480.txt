@@ -1,0 +1,19 @@
+
+Es	O
+alta	O
+a	O
+planta	O
+de	O
+Urología	O
+para	O
+realizar	O
+tratamiento	O
+mediante	O
+arteriografía	O
+renal	O
+e	O
+intento	O
+de	O
+embolización	O
+renal	O
+.	O

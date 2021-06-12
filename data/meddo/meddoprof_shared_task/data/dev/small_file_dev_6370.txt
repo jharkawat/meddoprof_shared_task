@@ -1,0 +1,27 @@
+
+Con	O
+el	O
+diagnóstico	O
+de	O
+sospecha	O
+de	O
+fiebre	O
+secundario	O
+a	O
+rickettsiosis	O
+tras	O
+picadura	O
+se	O
+inició	O
+tratamiento	O
+con	O
+doxiciclina	O
+100	O
+mg	O
+/	O
+12	O
+horas	O
+durante	O
+10	O
+días	O
+.	O

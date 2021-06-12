@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+Ingreso	O
+:	O
+20	O
+/	O
+12	O
+/	O
+2015	O
+.	O

@@ -1,0 +1,12 @@
+
+Antecedente	O
+de	O
+taquicardia	O
+supraventricular	O
+unos	O
+8	O
+an	O
+̃	O
+os	O
+antes	O
+.	O

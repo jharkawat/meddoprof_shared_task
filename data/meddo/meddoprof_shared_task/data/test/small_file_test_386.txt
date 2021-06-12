@@ -1,0 +1,6 @@
+
+El	O
+hemocultivo	O
+resulta	O
+negativo	O
+.	O

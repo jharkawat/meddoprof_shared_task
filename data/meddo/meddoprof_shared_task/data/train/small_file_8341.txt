@@ -1,0 +1,10 @@
+
+Auscultación	O
+cardiopulmonar	O
+y	O
+abdomen	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

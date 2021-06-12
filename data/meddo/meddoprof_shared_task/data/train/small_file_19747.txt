@@ -1,0 +1,12 @@
+
+TEMPERATURA	O
+:	O
+36	O
+grados	O
+centígrados	O
+.	O
+SaO2	O
+:	O
+91	O
+%	O
+.	O

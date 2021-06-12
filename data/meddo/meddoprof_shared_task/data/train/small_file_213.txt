@@ -1,0 +1,18 @@
+
+A	O
+pesar	O
+de	O
+fisioterapia	O
+rutinaria	O
+,	O
+el	O
+paciente	O
+mostraba	O
+debilidad	O
+persistente	O
+bilateral	O
+en	O
+las	O
+extremidades	O
+inferiores	O
+.	O

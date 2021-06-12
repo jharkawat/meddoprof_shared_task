@@ -1,0 +1,19 @@
+
+Se	O
+halló	O
+derrame	O
+pleural	O
+bilateral	O
+y	O
+consolidación	O
+pulmonar	O
+derecha	O
+en	O
+radiografía	O
+de	O
+tórax	O
+(	O
+figura	O
+2	O
+)	O
+.	O

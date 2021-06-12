@@ -1,0 +1,7 @@
+
+No	O
+suele	O
+tomar	O
+tratamiento	O
+analgésico	O
+.	O

@@ -1,0 +1,17 @@
+
+Su	O
+conducta	O
+adictiva	O
+estaba	O
+deteriorando	O
+las	O
+relaciones	O
+afectivas	O
+con	O
+la	O
+mujer	O
+con	O
+la	O
+que	O
+convivía	O
+.	O

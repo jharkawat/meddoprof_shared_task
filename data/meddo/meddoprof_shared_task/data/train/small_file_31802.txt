@@ -1,0 +1,17 @@
+
+Actualmente	O
+,	O
+dado	O
+que	O
+el	O
+tratamiento	O
+con	O
+clozapina	O
+se	O
+sigue	O
+manteniendo	O
+se	O
+realizan	O
+hemogramas	O
+mensuales	O
+.	O

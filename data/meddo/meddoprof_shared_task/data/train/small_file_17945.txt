@@ -1,0 +1,15 @@
+
+Angio	O
+-	O
+RM	O
+cerebral	O
+:	O
+resolución	O
+de	O
+la	O
+trombosis	O
+del	O
+seno	O
+longitudinal	O
+superior	O
+.	O

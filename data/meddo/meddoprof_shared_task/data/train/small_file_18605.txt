@@ -1,0 +1,12 @@
+
+Persiste	O
+suboclusión	O
+intestinal	O
+que	O
+se	O
+corrige	O
+con	O
+laxantes	O
+y	O
+enemas	O
+.	O

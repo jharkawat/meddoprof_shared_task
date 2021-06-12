@@ -1,0 +1,25 @@
+
+La	O
+anatomía	O
+patológica	O
+de	O
+la	O
+pieza	O
+quirúrgica	O
+informa	O
+de	O
+carcinosarcoma	O
+dependiente	O
+de	O
+sigma	O
+que	O
+ulcera	O
+la	O
+mucosa	O
+e	O
+infiltra	O
+extensamente	O
+grasa	O
+pericólica	O
+adyacente	O
+.	O

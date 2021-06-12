@@ -1,0 +1,24 @@
+
+Con	O
+la	O
+tinción	O
+PAS	O
+,	O
+se	O
+pudo	O
+observar	O
+cuerpos	O
+asteroides	O
+,	O
+que	O
+es	O
+un	O
+hallazgo	O
+sugerente	O
+de	O
+la	O
+levadura	O
+de	O
+Sporothrix	O
+schenckii	O
+.	O

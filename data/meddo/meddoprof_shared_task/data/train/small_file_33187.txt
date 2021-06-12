@@ -1,0 +1,23 @@
+
+Se	O
+ensayaron	O
+varios	O
+tratamientos	O
+como	O
+biperideno	O
+y	O
+tetrabenazina	O
+con	O
+escasa	O
+mejoría	O
+,	O
+el	O
+paciente	O
+presentaba	O
+una	O
+progresión	O
+de	O
+la	O
+patología	O
+motora	O
+.	O

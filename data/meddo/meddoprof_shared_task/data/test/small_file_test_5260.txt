@@ -1,0 +1,23 @@
+
+Masa	O
+epidural	O
+que	O
+rodea	O
+la	O
+médula	O
+espinal	O
+,	O
+comprimiéndola	O
+en	O
+T5	O
+,	O
+con	O
+importantes	O
+cambios	O
+de	O
+señal	O
+secundarios	O
+a	O
+mielopatía	O
+compresiva	O
+.	O

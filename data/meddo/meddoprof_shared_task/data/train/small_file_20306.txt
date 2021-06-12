@@ -1,0 +1,11 @@
+
+La	O
+madre	O
+también	O
+ha	O
+participado	O
+de	O
+este	O
+estilo	O
+educativo	O
+.	O

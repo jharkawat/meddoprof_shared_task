@@ -1,0 +1,26 @@
+
+Demanda	O
+ser	O
+atendida	O
+por	O
+un	O
+cirujano	B-PROFESION
+maxilofacial	I-PROFESION
+y	O
+un	O
+neurocirujano	B-PROFESION
+para	O
+que	O
+la	O
+valoren	O
+ya	O
+que	O
+,	O
+además	O
+de	O
+la	O
+mandíbula	O
+,	O
+padece	O
+migrañas	O
+.	O

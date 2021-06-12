@@ -1,0 +1,16 @@
+
+Hepatopatía	O
+alcohólica	O
+,	O
+hipoacusia	O
+neuro	O
+-	O
+sensorial	O
+bilateral	O
+por	O
+trauma	O
+acústico	O
+en	O
+la	O
+infancia	O
+.	O

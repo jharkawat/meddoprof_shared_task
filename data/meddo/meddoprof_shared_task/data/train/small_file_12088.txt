@@ -1,0 +1,11 @@
+
+Diabetes	O
+mellitus	O
+tipo	O
+2	O
+(	O
+DM	O
+-	O
+2	O
+)	O
+.	O

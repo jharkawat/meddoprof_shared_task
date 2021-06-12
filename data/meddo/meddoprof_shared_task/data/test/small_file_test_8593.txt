@@ -1,0 +1,14 @@
+
+Adenopatía	O
+supraclavicular	O
+izquierda	O
+de	O
+1	O
+,	O
+5	O
+cm	O
+con	O
+sospechosa	O
+de	O
+malignidad	O
+.	O

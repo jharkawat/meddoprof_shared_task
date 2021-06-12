@@ -1,0 +1,16 @@
+
+Nuevamente	O
+consulta	O
+con	O
+su	O
+MdF	B-PROFESION
+mostrando	O
+su	O
+miedo	O
+e	O
+incertidumbre	O
+ante	O
+los	O
+últimos	O
+cambios	O
+.	O

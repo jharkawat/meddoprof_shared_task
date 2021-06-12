@@ -1,0 +1,17 @@
+
+También	O
+se	O
+realizó	O
+,	O
+una	O
+radiografía	O
+a	O
+nivel	O
+lumbar	O
+donde	O
+no	O
+se	O
+observan	O
+imágenes	O
+patológicas	O
+.	O

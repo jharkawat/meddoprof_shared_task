@@ -1,0 +1,10 @@
+
+Hipercolesterolemia	O
+e	O
+hipertrigliceridemia	O
+sin	O
+tratamiento	O
+dietético	O
+ni	O
+farmacológico	O
+.	O

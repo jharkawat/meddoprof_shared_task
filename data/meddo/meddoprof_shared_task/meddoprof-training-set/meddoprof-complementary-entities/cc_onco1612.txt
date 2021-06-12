@@ -1,0 +1,31 @@
+Anamnesis
+Varón de 43 años de edad, sin antecedentes familiares de interés, trabajador en una fábrica de vidrio, fumador de 34 paquetes años sin otros factores de riesgo cardiovascular. Intervenido de fractura de radio en 1993 tras un accidente laboral. Desde el punto de vista respiratorio tos y expectoración de predominio matutino de unos cinco años de evolución. Su situación basal es de total independencia para actividades instrumentales y niega disnea con el ejercicio.
+Acude a urgencias por tos y expectoración de unos cinco meses de evolución asociando esputos hemoptoicos de forma ocasional. A este cuadro asocia dolor costal izquierdo de características pleuríticas irradiado al hombro ipsilateral, así como hiporexia y pérdida de unos 5 kg en los últimos dos meses. No refería haber tenido fiebre ni expectoración purulenta.
+
+Exploración física
+ECOG 0, eupneico, bien hidratado y perfundido. No se palpan adenopatías axilares, supraclaviuclares ni cervicales. A la exploración de la cavidad oral, llama la atención la existencia de numerosas lesiones infecciosas periodontales y la ausencia de varias piezas dentarias. La auscultación cardiopulmonar muestra un corazón rítmico sin ruidos patológicos y una disminución del murmullo vesicular en la base pulmonar izquierda como signo más relevante. En el abdomen no se palpan masas ni megalias y los miembros inferiores están ausentes de edemas ni de signos de trombosis venosa profunda.
+
+Pruebas complementarias
+• Hemograma: leucos 14.000 (fórmula normal); Hb 17,1 g/dL; plaquetas 304.000. Coagulación normal.
+• Bioquímica: PCR 82. Parámetros de función renal, hepática, e iones normales.
+• Marcadores tumorales: enolasa neuroespecífica, CYFRA, CEA, CA-19.9, CA-125, CA-15.3 normales.
+• TC toracoabdominal: masa sólida en el lóbulo inferior inferior izquierdo/língula en situación paracardíaca de 4 x 6 x 5 cm que contacta con la pleura mediastínica. Aumento de partes blandas hiliar izquierdo y ocupación de la grasa mediastínica a nivel periaórtico, peribronquial y subcarinal en posible relación con bloque adenopático. Sin hallazgos reseñables en los cortes abdominales.
+• Fibrobroncoscopia: sin apreciar signos directos ni indirectos sugestivos de neoplasia. Se realiza cepillado y lavado broncoalveolar.
+• Anatomía patológica de muestras obtenidas en fibrobroncoscopia: sin células neoplásicas. Ante este hallazgo, se presenta el caso al Servicio de Oncología, para decidir el plan de actuación de forma conjunta y procediéndose a la realización de los siguientes estudios:
+• PET: acúmulo patológico del trazador en segmento inferior de língula, a nivel paracardíaco con SUV de 15,5 en amplio contacto con pericardio.
+• PAAF transtorácica de la lesión: con resultado en el estudio histológico de infiltrado inflamatorio linfoplasmocitario polimorfo (CD20+B y CD3+T), aislados eosinófilos, acúmulos leucocitarios y focos histiocitarios de tipo macrofágico. Sin estructuras vasculares que puedan orientar a una vasculitis sino más bien a un proceso inflamatorio infeccioso.
+• Biopsia axilar izquierda: compatible con linfadenitis crónica inespecífica.
+• Dada la alta sospecha de malignidad de lesión y los resultados negativos de los estudios histológicos, se decide remitir al Servicio de Cirugía Torácica para toma de biopsia. Se realiza toracotomía lateral izquierda con pericardiotomía exploradora, biopsia pulmonar de língula y del lóbulo inferior izquierdo, diafragma y pericardio.
+En esta ocasión el resultado del estudio anatomopatológico muestra evidencias de un tumor miofibroblástico inflamatorio sin encontrar células cancerígenas.
+
+Diagnóstico
+Tumor miofibroblástico inflamatorio, también llamado pseudotumor inflamatorio.
+
+Tratamiento y evolución
+Tras haberse resecado la mayor parte de la lesión el paciente es valorado de nuevo a los dos meses mediante una TC. En esta TC se describe progresión de las lesiones pulmonares.
+Ante las dudas de la naturaleza benigna del tumor dada la rápida progesión, el paciente es remitido de nuevo a Cirugía Torácica donde se procede a intervención quirúrgica mediante toracotomía posterolateral izquierda con resección del lóbulo inferior izquierdo, pericardiectomía y extirpación hemidiafragmática izquierda con reconstrucción posterior del pericardio y de hemidiafragma.
+La pieza quirúrgica es enviada para estudio anatomopatológico mostrando las siguientes características: intenso infiltrado inflamatorio con células plasmáticas, macrófagos espumosos y ocasionales granulomas epitelioides. Llama la atención la observación de colonias actinomicóticas, las cuales también son apreciadas en la revisión de las muestras extraídas en la toracoscopia previa.
+Por tanto, nos encontramos ante un proceso inflamatorio pseudotumoral o tumor miofibroblástico secundario a una infección pulmonar por actinomices.
+Para completar el estudio, dado que la cavidad oral es el principal origen de la infección por actinomices, se realiza una ortopantomografía que confirma las lesiones en las raíces dentarias, así como los signos infiltrativos en el hueso mandibular, compatibles con un foco infeccioso originario del proceso actual.
+Tras este hallazgo el paciente fue remitido para valoración en consultas de Infeccioso donde le es prescrito amoxiclina 1 g oral cada 12 horas durante seis meses.
+Una vez transcurridos tres meses fue valorado de nuevo en consultas de Oncológica, encontrándose el paciente con mejoría clínica significativa corroborada con una TC en la que se descartaba progresión de la enfermedad.

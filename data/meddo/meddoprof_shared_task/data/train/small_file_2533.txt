@@ -1,0 +1,14 @@
+
+No	O
+presenta	O
+síntomas	O
+con	O
+carnes	O
+,	O
+lácteos	O
+,	O
+frutas	O
+ni	O
+frutos	O
+secos	O
+.	O

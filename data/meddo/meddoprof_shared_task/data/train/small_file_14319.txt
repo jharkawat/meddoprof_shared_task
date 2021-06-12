@@ -1,0 +1,18 @@
+
+Se	O
+realiza	O
+un	O
+Ecocardiograma	O
+transtorácico	O
+:	O
+insuficiencia	O
+mitral	O
+y	O
+tricúspidea	O
+leve	O
+,	O
+PSAP	O
+de	O
+32	O
+mmHg	O
+.	O

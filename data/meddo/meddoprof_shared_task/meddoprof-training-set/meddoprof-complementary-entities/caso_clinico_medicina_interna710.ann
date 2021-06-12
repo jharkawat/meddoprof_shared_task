@@ -1,0 +1,56 @@
+T1	SINTOMA 219 232	epigastralgia
+T2	SINTOMA 265 297	irradiación a ambos hipocondrios
+T3	SINTOMA 331 338	náuseas
+T4	SINTOMA 341 357	vómitos biliosos
+T5	SINTOMA 370 376	fiebre
+T6	SINTOMA 378 387	ictericia
+T7	SINTOMA 389 396	coluria
+T8	SINTOMA 398 404	acolia
+T9	SINTOMA 620 627	afebril
+T10	SINTOMA 629 654	hemodinámicamente estable
+T11	SINTOMA 663 722	abdomen discretamente doloroso a la palpación en epigastrio
+T12	SINTOMA 2151 2162	eosinofilia
+T13	SINTOMA 2165 2185	hipertransaminasemia
+T14	PROCEDIMIENTO 760 778	exploración física
+T15	PROCEDIMIENTO 1017 1037	radiografía de tórax
+T16	PROCEDIMIENTO 1114 1134	ecografía de abdomen
+T17	PROCEDIMIENTO 1297 1321	estudio de autoinmunidad
+T18	PROCEDIMIENTO 1502 1531	resonancia magnética hepática
+T19	PROCEDIMIENTO 2279 2295	estudio con IGRA
+T20	NEG 116 119	sin
+T21	NSCO 120 151	antecedentes médicos de interés
+T22	NEG 359 361	No
+T23	NSCO 362 431	refería fiebre, ictericia, coluria, acolia ni clínica a otros niveles
+T24	NEG 433 440	Tampoco
+T25	NSCO 441 554	consumo de tóxicos, fármacos ni productos de herbolario, relaciones sexuales de riesgo ni viajes rasçsñiuy3ew6543
+T26	NEG 620 627	afebril
+T27	NEG 723 726	sin
+T28	NSCO 727 778	otros hallazgos de interés en la exploración física
+T29	NEG 908 911	sin
+T30	NSCO 912 928	elevación de PCR
+T31	NEG 1335 1343	negativo
+T32	NEG 1413 1422	negativos
+T33	UNC 1674 1682	sospecha
+T34	USCO 1683 1714	clínica de hidatidosis hepática
+T35	NEG 2119 2131	asintomática
+T36	NEG 2188 2191	sin
+T37	NSCO 2192 2228	lesiones residuales en Tc de control
+T38	FARMACO 1817 1827	Albendazol
+T39	FARMACO 2393 2403	Isoniacida
+T40	ORG_VIVO 16 21	mujer
+T41	ORG_VIVO 92 114	estudiante de Medicina
+T42	ORG_VIVO 1366 1369	VIH
+T43	ORG_VIVO 1371 1389	virus hepatotrópos
+T44	ORG_VIVO 1391 1394	VEB
+T45	ORG_VIVO 1396 1399	CMV
+T46	ORG_VIVO 1402 1412	parvovirus
+T47	ORG_VIVO 1474 1482	vacunada
+T48	ORG_VIVO 1489 1497	infancia
+T49	ORG_VIVO 1740 1763	Echinococcus granulosus
+T50	ORG_VIVO 1785 1793	paciente
+T51	ORG_VIVO 2039 2047	paciente
+T52	ENFERMEDAD 1058 1098	nódulo calcificado en el lóbulo superior
+T53	ENFERMEDAD 1694 1714	hidatidosis hepática
+T54	ENFERMEDAD 2016 2033	quiste hidatídico
+T55	ENFERMEDAD 2165 2185	hipertransaminasemia
+T56	PACIENTE-SITUACION_LABORAL 92 102	estudiante

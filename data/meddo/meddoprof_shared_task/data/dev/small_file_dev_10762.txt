@@ -1,0 +1,22 @@
+
+Lleva	O
+más	O
+de	O
+20	O
+años	O
+en	O
+tratamiento	O
+psiquiátrico	O
+y	O
+ha	O
+sido	O
+valorada	O
+por	O
+más	O
+de	O
+un	O
+psiquiatra	B-PROFESION
+durante	O
+su	O
+evolución	O
+.	O

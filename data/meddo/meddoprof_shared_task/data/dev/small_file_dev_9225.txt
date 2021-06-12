@@ -1,0 +1,20 @@
+
+Ante	O
+estos	O
+hallazgos	O
+,	O
+y	O
+a	O
+la	O
+espera	O
+de	O
+los	O
+cultivos	O
+de	O
+LCR	O
+,	O
+añadimos	O
+aciclovir	O
+al	O
+tratamiento	O
+.	O

@@ -1,0 +1,14 @@
+
+En	O
+ese	O
+período	O
+la	O
+convivencia	O
+en	O
+casa	O
+con	O
+la	O
+madre	O
+se	O
+complica	O
+.	O

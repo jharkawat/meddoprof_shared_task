@@ -1,0 +1,16 @@
+
+Sin	O
+hallazgos	O
+relevantes	O
+a	O
+excepción	O
+de	O
+lesiones	O
+tróficas	O
+en	O
+MII	O
+secundario	O
+a	O
+TVP	O
+previa	O
+.	O

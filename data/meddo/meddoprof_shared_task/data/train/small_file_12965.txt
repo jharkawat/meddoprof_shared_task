@@ -1,0 +1,26 @@
+
+Dado	O
+el	O
+cambio	O
+de	O
+la	O
+situación	O
+clínica	O
+del	O
+paciente	O
+se	O
+vuelve	O
+a	O
+consultar	O
+con	O
+la	O
+sala	O
+de	O
+hemodinámica	O
+de	O
+cardiología	O
+para	O
+valorar	O
+opciones	O
+terapéuticas	O
+.	O

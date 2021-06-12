@@ -1,0 +1,25 @@
+
+Pero	O
+el	O
+EMG	O
+describe	O
+datos	O
+sugerentes	O
+de	O
+plexopatía	O
+braquial	O
+superior	O
+de	O
+predominio	O
+en	O
+los	O
+troncos	O
+C5	O
+y	O
+C6	O
+con	O
+actividad	O
+aguda	O
+de	O
+denervación	O
+.	O

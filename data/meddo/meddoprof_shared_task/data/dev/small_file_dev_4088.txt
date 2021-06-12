@@ -1,0 +1,23 @@
+
+APNP	O
+:	O
+Habita	O
+casa	O
+propia	O
+,	O
+cuenta	O
+con	O
+los	O
+servicios	O
+básicos	O
+de	O
+urbanización	O
+,	O
+niega	O
+zoonosis	O
+,	O
+niega	O
+tabaquismo	O
+,	O
+alcoholismo	O
+.	O

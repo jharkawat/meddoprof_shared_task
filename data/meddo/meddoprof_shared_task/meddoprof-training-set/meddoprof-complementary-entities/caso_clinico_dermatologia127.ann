@@ -1,0 +1,33 @@
+T1	SINTOMA 100 124	lesiones en área genital
+T2	SINTOMA 345 369	molestias en la garganta
+T3	SINTOMA 553 607	placas eritematoescamosas en escroto y cuerpo del pene
+T4	PROCEDIMIENTO 522 540	Exploración física
+T5	PROCEDIMIENTO 810 822	coprocultivo
+T6	PROCEDIMIENTO 859 882	estudio histopatológico
+T7	PROCEDIMIENTO 1657 1675	corticoides orales
+T8	PROCEDIMIENTO 1777 1816	reducción progresiva de los corticoides
+T9	NEG 261 263	no
+T10	NSCO 264 295	cede tras 10 días de aplicación
+T11	UNC 466 477	sospecha de
+T12	USCO 478 491	Herpes Simple
+T13	NEG 498 500	no
+T14	NSCO 501 519	se alcanza mejoría
+T15	NEG 837 846	negativos
+T16	NEG 1731 1734	sin
+T17	NSCO 1735 1754	aparición de nuevas
+T18	FARMACO 231 255	betametasona/gentamicina
+T19	FARMACO 427 438	famciclovir
+T20	FARMACO 1422 1432	prednisona
+T21	ORG_VIVO 10 24	Paciente varón
+T22	ORG_VIVO 37 41	VIH+
+T23	ORG_VIVO 129 137	paciente
+T24	ORG_VIVO 780 787	sífilis
+T25	ENFERMEDAD 71 124	Infecciones por aparición de lesiones en área genital
+T26	ENFERMEDAD 372 384	aftas orales
+T27	ENFERMEDAD 478 491	Herpes Simple
+T28	ENFERMEDAD 553 607	placas eritematoescamosas en escroto y cuerpo del pene
+T29	ENFERMEDAD 610 641	lesiones papulares eritematosas
+T30	ENFERMEDAD 909 920	espongiosis
+T31	ENFERMEDAD 1356 1381	Pitiriasis rosada inversa
+T32	ENFERMEDAD 1472 1503	lesiones en la zona interglútea
+T33	ENFERMEDAD 1534 1614	placa eritematoescamocostrosa en cuero cabelludo de unos 2 cm en región parietal

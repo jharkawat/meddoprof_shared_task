@@ -1,0 +1,5 @@
+
+Desde	O
+2013	O
+desempleado	B-SITUACION_LABORAL
+.	O

@@ -1,0 +1,21 @@
+
+Dormía	O
+bien	O
+excepto	O
+algunas	O
+noches	O
+sueltas	O
+en	O
+las	O
+que	O
+solo	O
+dormía	O
+unas	O
+horas	O
+para	O
+poder	O
+terminar	O
+algún	O
+trabajo	O
+académico	O
+.	O

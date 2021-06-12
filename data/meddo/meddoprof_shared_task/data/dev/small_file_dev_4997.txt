@@ -1,0 +1,12 @@
+
+Neumoperitoneo	O
+en	O
+promontorio	O
+que	O
+va	O
+disecando	O
+psoas	O
+izquierdo	O
+y	O
+retroperitoneo	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+la	O
+derivó	O
+para	O
+una	O
+evaluación	O
+psiquiátrica	O
+debido	O
+a	O
+que	O
+presentaba	O
+obnubilación	O
+de	O
+conciencia	O
+y	O
+comportamiento	O
+hiperactivo	O
+.	O

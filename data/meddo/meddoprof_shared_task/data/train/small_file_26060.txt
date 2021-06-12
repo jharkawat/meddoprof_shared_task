@@ -1,0 +1,9 @@
+
+Se	O
+derivó	O
+a	O
+consulta	O
+con	O
+Aripiprazol	O
+intramuscular	O
+.	O

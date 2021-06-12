@@ -1,0 +1,6 @@
+
+Mieloma	O
+Múltiple	O
+IgG	O
+-	O
+kappa	O

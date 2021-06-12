@@ -1,0 +1,10 @@
+
+A	O
+los	O
+15	O
+días	O
+se	O
+suspendió	O
+la	O
+olanzapina	O
+.	O

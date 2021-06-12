@@ -1,0 +1,18 @@
+
+Los	O
+informes	O
+histológicos	O
+de	O
+la	O
+biopsia	O
+duodenal	O
+e	O
+ileal	O
+coincidían	O
+en	O
+datos	O
+con	O
+Enfermedad	O
+de	O
+Whipple	O
+.	O

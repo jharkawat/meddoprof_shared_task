@@ -1,0 +1,21 @@
+
+Además	O
+,	O
+su	O
+madre	O
+se	O
+muestra	O
+escéptica	O
+con	O
+respecto	O
+al	O
+diagnóstico	O
+de	O
+psicosis	O
+solicitando	O
+más	O
+pruebas	O
+de	O
+tipo	O
+orgánico	O
+.	O

@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+empeora	O
+progresivamente	O
+,	O
+falleciendo	O
+a	O
+los	O
+16	O
+meses	O
+del	O
+diagnóstico	O
+en	O
+su	O
+domicilio	O
+.	O

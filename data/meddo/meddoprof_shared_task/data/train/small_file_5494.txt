@@ -1,0 +1,24 @@
+
+Ante	O
+estos	O
+hallazgos	O
+,	O
+se	O
+inició	O
+antibioterapia	O
+con	O
+Meropenem	O
+y	O
+aislamiento	O
+,	O
+y	O
+se	O
+cursó	O
+ingreso	O
+por	O
+sospecha	O
+de	O
+enfermedad	O
+inflamatoria	O
+intestinal	O
+.	O

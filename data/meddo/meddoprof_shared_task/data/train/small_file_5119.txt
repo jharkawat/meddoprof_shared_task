@@ -1,0 +1,10 @@
+
+Dolor	O
+torácico	O
+,	O
+náuseas	O
+y	O
+parestesias	O
+en	O
+ambos	O
+brazos	O

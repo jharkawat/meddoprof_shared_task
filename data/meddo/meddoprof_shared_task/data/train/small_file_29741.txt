@@ -1,0 +1,10 @@
+
+Esta	O
+escena	O
+se	O
+ha	O
+repetido	O
+varias	O
+veces	O
+después	O
+.	O

@@ -1,0 +1,15 @@
+
+Refiere	O
+quejas	O
+de	O
+dificultad	O
+de	O
+concentración	O
+y	O
+déficits	O
+mnésicos	O
+de	O
+la	O
+memoria	O
+reciente	O
+.	O

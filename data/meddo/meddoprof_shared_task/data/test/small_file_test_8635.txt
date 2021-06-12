@@ -1,0 +1,24 @@
+
+»	O
+Hallazgos	O
+en	O
+tórax	O
+:	O
+masa	O
+hiliar	O
+izquierda	O
+de	O
+densidad	O
+heterogénea	O
+que	O
+infiltra	O
+el	O
+mediastino	O
+y	O
+engloba	O
+la	O
+arteria	O
+pulmonar	O
+izquierda	O
+infiltrándola	O
+.	O

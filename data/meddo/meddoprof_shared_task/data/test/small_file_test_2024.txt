@@ -1,0 +1,11 @@
+
+Mujer	O
+de	O
+38	O
+años	O
+con	O
+los	O
+siguientes	O
+antecedentes	O
+personales	O
+:	O

@@ -1,0 +1,21 @@
+
+Nuestro	O
+paciente	O
+no	O
+presentaba	O
+ninguno	O
+de	O
+estos	O
+síntomas	O
+,	O
+además	O
+de	O
+no	O
+tener	O
+adenopatías	O
+que	O
+hicieran	O
+sospechar	O
+esta	O
+entidad	O
+.	O

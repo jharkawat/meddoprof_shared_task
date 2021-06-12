@@ -1,0 +1,10 @@
+
+Páncreas	O
+de	O
+morfología	O
+normal	O
+en	O
+cabeza	O
+y	O
+cuerpo	O
+.	O

@@ -1,0 +1,13 @@
+
+Son	O
+focales	O
+simples	O
+que	O
+evolucionan	O
+a	O
+complejas	O
+y	O
+posteriormente	O
+se	O
+generalizan	O
+.	O

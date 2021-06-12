@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+inició	O
+tratamiento	O
+el	O
+25	O
+de	O
+febrero	O
+de	O
+2015	O
+.	O

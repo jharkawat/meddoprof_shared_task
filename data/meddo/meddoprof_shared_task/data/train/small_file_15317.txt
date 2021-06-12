@@ -1,0 +1,10 @@
+
+La	O
+tomografía	O
+computarizada	O
+de	O
+tórax	O
+mostró	O
+infiltrados	O
+bilaterales	O
+.	O

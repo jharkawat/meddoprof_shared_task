@@ -1,0 +1,16 @@
+
+Acude	O
+a	O
+consulta	O
+por	O
+tercer	O
+episodio	O
+de	O
+mastitis	O
+aguda	O
+en	O
+los	O
+últimos	O
+dos	O
+meses	O
+.	O

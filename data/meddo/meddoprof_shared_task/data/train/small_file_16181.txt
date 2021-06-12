@@ -1,0 +1,8 @@
+
+Suspender	O
+tratamiento	O
+con	O
+5	O
+-	O
+fluorouracilo	O
+.	O

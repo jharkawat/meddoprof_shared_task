@@ -1,0 +1,6 @@
+
+-	O
+Conductor	B-PROFESION
+de	I-PROFESION
+autobús	I-PROFESION
+.	O

@@ -1,0 +1,14 @@
+
+Se	O
+decide	O
+ingreso	O
+y	O
+durante	O
+su	O
+estancia	O
+en	O
+el	O
+hospital	O
+se	O
+realiza	O
+:	O

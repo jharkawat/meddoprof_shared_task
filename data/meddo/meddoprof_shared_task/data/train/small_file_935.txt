@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Susana	O
+Lastras	O
+González	O
+NºCol	O
+:	O
+28	O
+45	O
+97436	O
+.	O

@@ -1,0 +1,20 @@
+
+A	O
+pesar	O
+de	O
+realizar	O
+varias	O
+inyecciones	O
+,	O
+el	O
+paciente	O
+presenta	O
+mejoría	O
+parcial	O
+y	O
+solo	O
+temporal	O
+de	O
+sus	O
+alteraciones	O
+.	O

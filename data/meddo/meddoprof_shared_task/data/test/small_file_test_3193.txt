@@ -1,0 +1,14 @@
+
+En	O
+marzo	O
+de	O
+2013	O
+progreso	O
+hepático	O
+sin	O
+ser	O
+candidata	O
+a	O
+tratamiento	O
+local	O
+.	O

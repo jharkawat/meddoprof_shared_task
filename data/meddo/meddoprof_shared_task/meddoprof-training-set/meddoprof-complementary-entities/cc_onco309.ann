@@ -1,0 +1,61 @@
+T1	SINTOMA 116 123	fumador
+T2	SINTOMA 144 160	bebedor moderado
+T3	SINTOMA 191 196	dolor
+T4	SINTOMA 207 234	tumefacción en región malar
+T5	SINTOMA 1972 1985	dolor intenso
+T6	SINTOMA 2467 2474	astenia
+T7	PROCEDIMIENTO 198 201	EVA
+T8	PROCEDIMIENTO 271 289	Exploración física
+T9	PROCEDIMIENTO 622 649	TC de macizo malar y cuello
+T10	PROCEDIMIENTO 1279 1304	biopsia por vía intraoral
+T11	PROCEDIMIENTO 1306 1342	biopsia de hueso cigomático temporal
+T12	PROCEDIMIENTO 1491 1497	PET-TC
+T13	PROCEDIMIENTO 1676 1678	TC
+T14	PROCEDIMIENTO 1987 1990	EVA
+T15	PROCEDIMIENTO 2097 2104	biopsia
+T16	PROCEDIMIENTO 2214 2227	quimioterapia
+T17	PROCEDIMIENTO 2229 2231	QT
+T18	PROCEDIMIENTO 2537 2549	radioterapia
+T19	PROCEDIMIENTO 2551 2553	RT
+T20	PROCEDIMIENTO 2907 2909	TC
+T21	PROCEDIMIENTO 2959 2984	tratamiento radioterápico
+T22	PROCEDIMIENTO 2996 2998	TC
+T23	PROCEDIMIENTO 3129 3135	PET-TC
+T24	PROCEDIMIENTO 3325 3364	resección en cuña de la lesión pulmonar
+T25	PROCEDIMIENTO 3407 3430	biopsia intraoperatoria
+T26	NEG 516 518	No
+T27	NSCO 519 556	se palpan adenopatías locorregionales
+T28	NEG 579 582	sin
+T29	NSCO 583 595	alteraciones
+T30	NEG 1452 1461	negativos
+T31	NEG 1481 1489	negativa
+T32	NEG 2168 2170	no
+T33	NSCO 2171 2205	retrasar el inicio del tratamiento
+T34	NEG 2646 2649	sin
+T35	NSCO 2650 2701	tratamiento concomitante para minimizar toxicidades
+T36	NEG 2733 2735	no
+T37	NSCO 2736 2763	presentó toxicidades graves
+T38	NEG 3499 3502	sin
+T39	NSCO 3503 3528	detectar células malignas
+T40	FARMACO 2276 2286	cisplatino
+T41	FARMACO 2299 2308	docetaxel
+T42	FARMACO 2508 2518	cisplatino
+T43	FARMACO 2519 2528	docetaxel
+T44	ORG_VIVO 10 24	Paciente varón
+T45	ORG_VIVO 68 78	personales
+T46	ORG_VIVO 80 105	trabajador de carpintería
+T47	ORG_VIVO 2119 2127	paciente
+T48	ORG_VIVO 2724 2732	paciente
+T49	ENFERMEDAD 529 556	adenopatías locorregionales
+T50	ENFERMEDAD 848 960	lesión afecta a fosa infratemporal con afectación de la musculatura y porción anterocraneal del musculo masetero
+T51	ENFERMEDAD 1095 1129	infiltración de grasa de la orbita
+T52	ENFERMEDAD 1371 1385	Adenocarcinoma
+T53	ENFERMEDAD 1722 1773	Nódulo hipermetabólico a nivel de vértice de pulmón
+T54	ENFERMEDAD 1815 1872	Adenocarcinoma poco diferenciado del seno maxilar cT4acN0
+T55	ENFERMEDAD 1874 1905	Nódulo pulmonar hipermetabólico
+T56	ENFERMEDAD 2076 2091	lesión pulmonar
+T57	ENFERMEDAD 2432 2464	toxicidades neuropatía grado 1-2
+T58	ENFERMEDAD 3109 3124	lesión pulmonar
+T59	ENFERMEDAD 3295 3312	tumores torácicos
+T60	ENFERMEDAD 3349 3364	lesión pulmonar
+T61	PACIENTE-PROFESION 80 114	trabajador de carpintería metálica

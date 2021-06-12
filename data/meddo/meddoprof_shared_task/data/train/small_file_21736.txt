@@ -1,0 +1,18 @@
+
+Sus	O
+padres	O
+creyeron	O
+que	O
+tenía	O
+una	O
+enfermedad	O
+en	O
+la	O
+piel	O
+y	O
+la	O
+han	O
+llevado	O
+al	O
+dermatólogo	B-PROFESION
+.	O

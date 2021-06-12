@@ -1,0 +1,13 @@
+
+Antecedentes	O
+patológicos	O
+:	O
+Hipertensión	O
+arterial	O
+tratada	O
+con	O
+amlodipino	O
+,	O
+cognitivamente	O
+preservado	O
+.	O

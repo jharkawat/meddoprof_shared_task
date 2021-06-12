@@ -1,0 +1,9 @@
+
+Nueva	O
+visita	O
+en	O
+2016	O
+con	O
+mismo	O
+diagnóstico	O
+.	O

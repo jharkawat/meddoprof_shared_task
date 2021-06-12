@@ -1,0 +1,9 @@
+
+Negó	O
+que	O
+tuviera	O
+visiones	O
+u	O
+oyera	O
+voces	O
+.	O

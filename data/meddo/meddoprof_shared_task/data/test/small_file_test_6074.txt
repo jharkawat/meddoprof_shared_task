@@ -1,0 +1,22 @@
+
+En	O
+Marzo	O
+de	O
+2016	O
+se	O
+remitió	O
+a	O
+radioterapia	O
+antiálgica	O
+,	O
+recibiendo	O
+una	O
+dosis	O
+total	O
+de	O
+3000cGy	O
+fraccionada	O
+en	O
+10	O
+sesiones	O
+.	O

@@ -1,0 +1,13 @@
+
+Pasado	O
+este	O
+tiempo	O
+,	O
+el	O
+paciente	O
+acude	O
+a	O
+revisión	O
+en	O
+consulta	O
+.	O

@@ -1,0 +1,40 @@
+Motivo de consulta
+Afasia y desviación de comisura bucal hace dos horas.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis y exploración: varón de 73 años con los siguientes antecedentes: -No AF de interés
+-Hipofrecuentador
+-No HTA, No DM
+-Dislipemia
+-Antecedentes de litiasis renal en 2013. -IQ: hemorroides de fisura anal.
+-No alergias medicamentosas
+-Barthel 100
+-Tratamiento: simvastatina 20/24horas.
+
+Acude a SUAP por cuadro de babeo, imposibilidad de articular palabra y desviación de comisura bucal mientras veía la TV hace unas dos horas. Inestabilidad en la marcha referida por un hijo. Recuperación completa a los 30minutos. EF: TA 150/80, gluc 91mg/dl, afebril, Sat O2 99%.Glasgow 15. Arrítmico a 110 lpm. EGC en Centro de Salud: Fibrilación auricular (FA). No cumple criterios de código ictus.
+Se deriva a Servicio de Urgencias de Hospital por FA de duración incierta y sospecha de AIT. EF: TA 160/90. FC 99. SatO2 95%.Glasgow 15. No irritación meníngea. ACR: rítmico sin soplos. MVC sin ruidos sobreañadidos.
+
+Pruebas complementarias
+ECG: Ritmo sinusal a 90 lpm sin alteraciones agudas de la repolarización.
+Analítica: Hemograma: leucocitos 12720 (10400 neutrófilos). Hb 13.9, plaquetas 144000. Bioquímica: glucosa 105, urea 21, creatinina 0.96, Na 135, K 3.8. Coagulación: DimeroD 604, TTPa 18.6, Act TP % 89, INR 1, FG 81, Troponina 0.05. GSA: pH 7.44, pO2 50, pCO2 34, Na 129, HCO3 23.RX Tórax: no condensación ni pinzamiento de senos costofrénicos, cardiomegalia, sin infiltrado intersticial. TAC craneal sin contraste I.V.: Normal. No imágenes de sangrado. Adecuada diferenciación sustancia blanca/gris. Sistema ventricular normal, centrado en línea media.
+
+Se contacta con Neurólogo de guardia, que observando analítica y TAC dentro de la normalidad procede al alta con diagnóstico: Accidente isquémico transitorio. Tratamiento: AAS 100mg y Omeprazol 20mg y solicitud ambulatoria de ecodoppler de Troncos Supraaórticos.
+
+Dos días después, el paciente acude de nuevo al centro de salud, presentando dolor abdominal irradiado a espalda, estreñimiento de días de evolución, y vómitos alimenticios, sin fiebre, ni disuria. EF: No abdomen en tabla. Se deriva a Urgencias de hospital, para descartar causas agudas de dolor abdominal en anciano. En TAC abdominal sospecha de infarto renal derecho. Ingresa en servicio de Urología, con Interconsulta a Medicina Interna para completar estudio y tratamiento anticoagulante. Éstos, valorando el caso en su conjunto, atienden al motivo de consulta inicial en Urgencias: "Derivado por médico de Atención Primaria por FA", confirmándolo con médico de Familia. Teniendo este diagnóstico en cuenta se realiza ecografía y Angio-TAC, observándose dilatación aneurismática de aorta torácica ascendente, e iniciando anticoagulación con apixabán.
+
+Enfoque familiar y comunitario
+Casado, 2 hijos. Fase vital de nido vacío, con extensión en segunda generación. Familia nuclear numerosa. Buen apoyo social y familiar. Todos viven cerca, en una aldea próxima a núcleo rural.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Juicio clínico: fibrilación auricular paroxística. Accidente isquémico transitorio. Infarto renal derecho. Aneurisma aorta ascendente causante de cardioembolias.
+
+Diagnóstico diferencial:
+-Del cuadro de afasia y desviación de comisura bucal: Accidente cerebrovascular, lesiones estructurales, metabólicas, tóxicos
+-Del dolor abdominal: isquemia mesentérica, colitis isquémica, Infarto arterial, gastroenteritis aguda, cólico biliar
+
+Plan de acción y evolución
+El paciente se interviene de aorta ascendente, colocándose tubo supracoronario con remplazo de hemiarco, presentando durante la convalecencia rachas de FA revertidas con amiodarona.
+
+En centro de salud, se realiza conciliación de medicación: Amiodarona 200mgs, bisoprolol 5mgs, espironolactona 25mgs, potasio 600mgs, atorvastatina 80mgs , además de mantener anticoagulación con apixabán 5 mgs/12 horas y control estricto de factores de riesgo cardiovascular.
+
+Se explican síntomas de alarma al paciente y su cónyuge que actúa como cuidadora. Durante la evolución el paciente no presenta más síntomas de insuficiencia cardíaca, ni palpitaciones, el dolor abdominal desapareció, y se ha podido incorporar de manera progresiva a sus actividades previas. Acude con periodicidad normal a revisiones de Cardiología y Cirugía Cardiovascular.

@@ -1,0 +1,17 @@
+
+Varón	O
+de	O
+53	O
+años	O
+con	O
+fiebre	O
+desde	O
+hace	O
+4	O
+días	O
+de	O
+hasta	O
+39oC	O
+asociado	O
+a	O
+MEG	O

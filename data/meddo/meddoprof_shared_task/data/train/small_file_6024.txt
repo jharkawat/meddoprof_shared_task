@@ -1,0 +1,26 @@
+
+En	O
+2018	O
+ante	O
+un	O
+cuadro	O
+de	O
+tos	O
+que	O
+aparecía	O
+cuando	O
+hacia	O
+abdominales	O
+,	O
+se	O
+realiza	O
+RX	O
+Tórax	O
+observándose	O
+pérdida	O
+de	O
+volumen	O
+en	O
+hemitórax	O
+izquierdo	O
+.	O

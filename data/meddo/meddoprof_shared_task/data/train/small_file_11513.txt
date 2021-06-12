@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+Ddímero	O
+que	O
+resultó	O
+discretamente	O
+elevado	O
+(	O
+710	O
+ng	O
+/	O
+ml	O
+)	O
+y	O
+se	O
+remitió	O
+a	O
+urgencias	O
+para	O
+valoración	O
+.	O

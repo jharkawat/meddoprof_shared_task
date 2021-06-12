@@ -1,0 +1,23 @@
+
+Se	O
+realizó	O
+biopsia	O
+muscular	O
+que	O
+reveló	O
+fibras	O
+musculares	O
+de	O
+tamaño	O
+irregular	O
+,	O
+con	O
+acentuados	O
+signos	O
+de	O
+atrofia	O
+y	O
+células	O
+inflamatorias	O
+perimisiales	O
+.	O

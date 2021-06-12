@@ -1,0 +1,23 @@
+
+IVU	O
+diagnosticada	O
+el	O
+9	O
+05	O
+2017	O
+,	O
+manejada	O
+con	O
+nitrofurantoína	O
+100mg	O
+cada	O
+12	O
+hr	O
+y	O
+fenazopiridina	O
+200	O
+mg	O
+cada	O
+8	O
+hr	O
+.	O

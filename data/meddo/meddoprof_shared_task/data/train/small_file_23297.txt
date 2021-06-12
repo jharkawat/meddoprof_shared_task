@@ -1,0 +1,10 @@
+
+Negativa	O
+inicial	O
+a	O
+ingesta	O
+que	O
+requirió	O
+aporte	O
+intravenoso	O
+.	O

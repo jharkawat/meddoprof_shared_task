@@ -1,0 +1,20 @@
+
+El	O
+cultivo	O
+final	O
+de	O
+esputo	O
+sólo	O
+reveló	O
+flora	O
+respiratoria	O
+normal	O
+,	O
+por	O
+esta	O
+razón	O
+cefepime	O
+también	O
+se	O
+suspendió	O
+.	O

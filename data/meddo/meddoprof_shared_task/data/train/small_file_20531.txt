@@ -1,0 +1,20 @@
+
+Sus	O
+aptitudes	O
+débiles	O
+están	O
+relacionadas	O
+con	O
+la	O
+capacidad	O
+de	O
+concentración	O
+,	O
+la	O
+expresión	O
+verbal	O
+y	O
+los	O
+conceptos	O
+numéricos	O
+.	O

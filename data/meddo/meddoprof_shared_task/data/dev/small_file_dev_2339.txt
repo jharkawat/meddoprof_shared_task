@@ -1,0 +1,16 @@
+
+Ansiedad	O
+en	O
+forma	O
+de	O
+crisis	O
+que	O
+llegan	O
+a	O
+tener	O
+repercusión	O
+conductual	O
+con	O
+conductas	O
+autoagresivas	O
+.	O

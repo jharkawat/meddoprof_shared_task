@@ -1,0 +1,8 @@
+
+No	O
+son	O
+descritos	O
+antecedentes	O
+de	O
+interés	O
+.	O

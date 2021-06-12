@@ -1,0 +1,16 @@
+
+Cuando	O
+se	O
+le	O
+pregunto	O
+si	O
+le	O
+podíamos	O
+evaluar	O
+solo	O
+,	O
+se	O
+enfadó	O
+y	O
+salió	O
+.	O

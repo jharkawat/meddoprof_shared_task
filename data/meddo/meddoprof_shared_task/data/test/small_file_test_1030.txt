@@ -1,0 +1,11 @@
+
+Él	O
+le	O
+cuenta	O
+que	O
+es	O
+fruto	O
+de	O
+una	O
+violación	O
+.	O

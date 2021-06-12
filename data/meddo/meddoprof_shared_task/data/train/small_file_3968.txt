@@ -1,0 +1,16 @@
+
+Al	O
+mes	O
+acude	O
+a	O
+la	O
+consulta	O
+su	O
+hija	O
+presentando	O
+sintomatología	O
+similar	O
+a	O
+la	O
+madre	O
+.	O

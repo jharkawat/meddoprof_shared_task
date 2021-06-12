@@ -1,0 +1,10 @@
+
+La	O
+afectación	O
+parcheada	O
+y	O
+discontinua	O
+sugiere	O
+etiología	O
+embólica	O
+.	O

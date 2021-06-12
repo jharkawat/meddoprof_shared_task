@@ -1,0 +1,9 @@
+
+La	O
+biopsia	O
+reveló	O
+cambios	O
+compatibles	O
+con	O
+foliculitis	O
+.	O

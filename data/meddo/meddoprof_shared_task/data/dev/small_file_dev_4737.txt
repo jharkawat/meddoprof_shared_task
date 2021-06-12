@@ -1,0 +1,12 @@
+
+Hemograma	O
+con	O
+leve	O
+leucocitosis	O
+14	O
+.	O
+000	O
+y	O
+PCR	O
+158	O
+.	O

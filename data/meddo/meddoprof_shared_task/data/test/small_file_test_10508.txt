@@ -1,0 +1,10 @@
+
+Presenta	O
+edemas	O
+bimaleolares	O
+no	O
+dolorosos	O
+en	O
+la	O
+palpación	O
+.	O

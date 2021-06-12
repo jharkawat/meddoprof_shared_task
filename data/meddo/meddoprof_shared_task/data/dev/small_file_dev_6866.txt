@@ -1,0 +1,26 @@
+
+Tras	O
+dicho	O
+cambio	O
+en	O
+el	O
+tratamiento	O
+antimicrobiano	O
+,	O
+el	O
+paciente	O
+comenzó	O
+nuevamente	O
+con	O
+fiebre	O
+elevada	O
+,	O
+que	O
+desapareció	O
+al	O
+reiniciar	O
+la	O
+administración	O
+de	O
+claritromicina	O
+.	O

@@ -1,0 +1,36 @@
+T1	PROCEDIMIENTO 219 243	tratamiento psiquiátrico
+T2	NEG 150 152	no
+T3	NSCO 153 193	presenta antecedentes médicos de interés
+T4	UNC 273 279	parece
+T5	USCO 280 322	iniciarse cuando el paciente tenía 24 años
+T6	NEG 1605 1607	no
+T7	NSCO 1608 1615	actores
+T8	NEG 1742 1747	Niega
+T9	NSCO 1748 1782	alteraciones en la sensopercepción
+T10	NEG 1784 1786	No
+T11	NSCO 1787 1817	tiene conciencia de enfermedad
+T12	FARMACO 1869 1880	risperidona
+T13	FARMACO 1936 1947	risperidona
+T14	ORG_VIVO 12 17	varón
+T15	ORG_VIVO 131 136	madre
+T16	ORG_VIVO 141 149	paciente
+T17	ORG_VIVO 300 308	paciente
+T18	ORG_VIVO 345 350	padre
+T19	ORG_VIVO 594 602	personal
+T20	ORG_VIVO 702 707	madre
+T21	ORG_VIVO 724 732	hermanos
+T22	ORG_VIVO 766 770	juez
+T23	ORG_VIVO 812 820	familiar
+T24	ORG_VIVO 862 867	madre
+T25	ORG_VIVO 1020 1030	familiares
+T26	ORG_VIVO 1104 1109	madre
+T27	ORG_VIVO 1628 1636	paciente
+T28	ORG_VIVO 1733 1740	familia
+T29	ORG_VIVO 2106 2116	familiares
+T30	ORG_VIVO 2245 2253	familiar
+T31	ENFERMEDAD 332 338	muerte
+T32	ENFERMEDAD 357 376	ruptura sentimental
+T33	OTROS-PROFESION 766 770	juez
+T34	PACIENTE-SITUACION_LABORAL 439 458	abandonó el trabajo
+T35	OTROS-PROFESION 1608 1615	actores
+T36	OTROS-PROFESION 1706 1713	actores

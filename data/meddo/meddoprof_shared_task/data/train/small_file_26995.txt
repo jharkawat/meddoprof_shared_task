@@ -1,0 +1,14 @@
+
+No	O
+se	O
+han	O
+realizado	O
+pruebas	O
+genéticas	O
+a	O
+los	O
+familiares	O
+de	O
+primer	O
+grado	O
+.	O

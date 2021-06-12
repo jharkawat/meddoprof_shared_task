@@ -1,0 +1,19 @@
+
+Serología	O
+:	O
+VIH	O
+,	O
+VHB	O
+y	O
+VHC	O
+negativas	O
+;	O
+B	O
+.	O
+henselae	O
+IgG	O
+positiva	O
+,	O
+IgM	O
+positiva	O
+.	O

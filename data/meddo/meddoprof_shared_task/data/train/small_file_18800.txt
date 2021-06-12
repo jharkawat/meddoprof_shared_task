@@ -1,0 +1,8 @@
+
+En	O
+su	O
+vida	O
+elige	O
+parejas	O
+difíciles	O
+.	O

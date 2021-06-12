@@ -1,0 +1,27 @@
+
+En	O
+la	O
+analítica	O
+realizada	O
+en	O
+sus	O
+múltiples	O
+consultas	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+,	O
+destaca	O
+el	O
+aumento	O
+de	O
+la	O
+amilasa	O
+sérica	O
+,	O
+sin	O
+otros	O
+hallazgos	O
+adicionales	O
+.	O

@@ -1,0 +1,11 @@
+
+Recibe	O
+tratamiento	O
+con	O
+antidepresivos	O
+y	O
+benzodiacepinas	O
+a	O
+dosis	O
+bajas	O
+.	O

@@ -1,0 +1,18 @@
+
+El	O
+apetito	O
+está	O
+conservado	O
+y	O
+describe	O
+insomnio	O
+en	O
+todas	O
+las	O
+fases	O
+(	O
+conciliación	O
+y	O
+mantenimiento	O
+)	O
+.	O

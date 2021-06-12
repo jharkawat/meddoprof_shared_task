@@ -1,0 +1,15 @@
+
+Habla	O
+mucho	O
+rato	O
+de	O
+las	O
+cosas	O
+que	O
+le	O
+interesan	O
+y	O
+que	O
+le	O
+preocupan	O
+.	O

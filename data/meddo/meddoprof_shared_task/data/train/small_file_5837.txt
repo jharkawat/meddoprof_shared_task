@@ -1,0 +1,8 @@
+
+No	O
+consumo	O
+de	O
+alimentos	O
+de	O
+riesgo	O
+.	O

@@ -1,0 +1,11 @@
+
+Cultivo	O
+y	O
+PCR	O
+virus	O
+respiratorios	O
+en	O
+frotis	O
+faríngeo	O
+negativo	O
+.	O

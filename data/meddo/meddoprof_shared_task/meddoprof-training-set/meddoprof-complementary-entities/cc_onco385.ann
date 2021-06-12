@@ -1,0 +1,134 @@
+T1	SINTOMA 52 59	fumador
+T2	SINTOMA 1998 2005	astenia
+T3	SINTOMA 2008 2016	anorexia
+T4	SINTOMA 2036 2043	nauseas
+T5	SINTOMA 2046 2053	vómitos
+T6	SINTOMA 2070 2085	pérdida de peso
+T7	SINTOMA 2297 2331	imposibilidad para la deambulación
+T8	SINTOMA 2334 2341	cefalea
+T9	SINTOMA 2409 2444	deterioro severo del estado general
+T10	SINTOMA 2447 2463	anorexia extrema
+T11	SINTOMA 2659 2684	hemodinámicamente estable
+T12	SINTOMA 2723 2749	sequedad de piel y mucosas
+T13	SINTOMA 2867 2904	deterioro crónico de la función renal
+T14	SINTOMA 5630 5637	astenia
+T15	SINTOMA 5667 5674	cefalea
+T16	SINTOMA 6180 6190	dolor óseo
+T17	SINTOMA 6207 6227	impotencia funcional
+T18	SINTOMA 6335 6341	éxitus
+T19	PROCEDIMIENTO 510 532	resección transuretral
+T20	PROCEDIMIENTO 723 747	tomografía computerizada
+T21	PROCEDIMIENTO 749 751	TC
+T22	PROCEDIMIENTO 779 782	RTU
+T23	PROCEDIMIENTO 847 849	TC
+T24	PROCEDIMIENTO 1056 1083	cistoprostatectomía radical
+T25	PROCEDIMIENTO 1088 1129	linfadenectomía ilio-obturatriz bilateral
+T26	PROCEDIMIENTO 1132 1156	anastomosis tipo Bricker
+T27	PROCEDIMIENTO 1570 1586	biopsia de fémur
+T28	PROCEDIMIENTO 2514 2532	Exploración física
+T29	PROCEDIMIENTO 2995 3004	hemograma
+T30	PROCEDIMIENTO 3142 3164	estudio de coagulación
+T31	PROCEDIMIENTO 3459 3472	proteinograma
+T32	PROCEDIMIENTO 3761 3788	perfil hormonal/hipofisario
+T33	PROCEDIMIENTO 4033 4060	tratamiento con corticoides
+T34	PROCEDIMIENTO 4147 4159	TC de cráneo
+T35	PROCEDIMIENTO 4217 4238	TC de tórax y abdomen
+T36	PROCEDIMIENTO 4576 4593	nutrición enteral
+T37	PROCEDIMIENTO 4598 4616	sonda nasogástrica
+T38	PROCEDIMIENTO 4897 4914	nutrición enteral
+T39	PROCEDIMIENTO 4964 4982	sonda nasogástrica
+T40	PROCEDIMIENTO 5859 5875	gammagrafía ósea
+T41	NEG 28 31	sin
+T42	NSCO 32 50	alergias conocidas
+T43	NEG 947 950	sin
+T44	NSCO 951 985	enfermedad regional ni a distancia
+T45	UNC 1603 1617	compatible con
+T46	USCO 1618 1651	metástasis de carcinoma urotelial
+T47	NEG 1779 1781	no
+T48	NSCO 1782 1806	era apto para cisplatino
+T49	NEG 2297 2315	imposibilidad para
+T50	NSCO 2316 2331	la deambulación
+T51	NEG 2468 2475	impedía
+T52	NSCO 2476 2511	una adecuada nutrición del paciente
+T53	NEG 2686 2689	sin
+T54	NSCO 2690 2716	otros hallazgos de interés
+T55	NEG 3110 3113	sin
+T56	NSCO 3114 3137	alteraciones de interés
+T57	UNC 3589 3603	compatible con
+T58	USCO 3604 3633	anemia de trastornos crónicos
+T59	UNC 3643 3651	sospecha
+T60	USCO 3652 3715	clínica de hipopituitarismo secundario a hipofisitis autoinmune
+T61	NEG 3922 3924	no
+T62	NSCO 3925 3968	se pudieron determinar en un primer momento
+T63	NEG 4164 4172	descartó
+T64	NSCO 4173 4210	la presencia de metástasis cerebrales
+T65	NEG 4243 4251	descartó
+T66	NSCO 4252 4296	asimismo progresión de la enfermedad tumoral
+T67	UNC 5153 5160	posible
+T68	USCO 5161 5184	síndrome de renutrición
+T69	NEG 5743 5755	desaparición
+T70	NEG 6191 6193	no
+T71	NSCO 6194 6227	controlado e impotencia funcional
+T72	FARMACO 305 315	metformina
+T73	FARMACO 328 351	ácido acetil salicílico
+T74	FARMACO 364 372	atenolol
+T75	FARMACO 386 394	ramipril
+T76	FARMACO 1796 1806	cisplatino
+T77	FARMACO 1901 1914	pembrolizumab
+T78	FARMACO 3734 3747	pembrolizumab
+T79	FARMACO 4479 4492	pembrolizumab
+T80	FARMACO 4747 4761	hidrocortisona
+T81	FARMACO 4783 4795	levotiroxina
+T82	FARMACO 5207 5214	tiamina
+T83	FARMACO 5391 5405	hidrocortisona
+T84	FARMACO 5427 5439	levotiroxina
+T85	FARMACO 5481 5495	hidrocortisona
+T86	FARMACO 5804 5817	pembrolizumab
+T87	FARMACO 5967 5984	ácido zoledrónico
+T88	ORG_VIVO 11 16	Varón
+T89	ORG_VIVO 77 83	tabaco
+T90	ORG_VIVO 194 205	Comerciante
+T91	ORG_VIVO 229 235	esposa
+T92	ORG_VIVO 454 462	paciente
+T93	ORG_VIVO 605 608	BCG
+T94	ORG_VIVO 1770 1778	paciente
+T95	ORG_VIVO 2503 2511	paciente
+T96	ORG_VIVO 2547 2555	paciente
+T97	ORG_VIVO 5541 5549	paciente
+T98	ORG_VIVO 5821 5829	paciente
+T99	ORG_VIVO 6113 6121	paciente
+T100	ENFERMEDAD 113 134	hipertensión arterial
+T101	ENFERMEDAD 136 160	diabetes mellitus tipo 2
+T102	ENFERMEDAD 163 192	cardiopatía isquémica crónica
+T103	ENFERMEDAD 537 592	carcinoma urotelial de vejiga superficial de alto grado
+T104	ENFERMEDAD 802 811	carcinoma
+T105	ENFERMEDAD 907 927	uropatía obstructiva
+T106	ENFERMEDAD 1202 1228	adenocarcinoma de próstata
+T107	ENFERMEDAD 1273 1305	carcinoma transicional de vejiga
+T108	ENFERMEDAD 1465 1499	metástasis óseas en calota craneal
+T109	ENFERMEDAD 1618 1651	metástasis de carcinoma urotelial
+T110	ENFERMEDAD 1979 1996	mucositis grado I
+T111	ENFERMEDAD 2952 2964	hiponatremia
+T112	ENFERMEDAD 2967 2987	hiperpotasemia leves
+T113	ENFERMEDAD 3029 3067	anemia crónica microcítica-hipocrómica
+T114	ENFERMEDAD 3374 3384	colestasis
+T115	ENFERMEDAD 3484 3499	hipoalbuminemia
+T116	ENFERMEDAD 3542 3562	hipertrigliceridemia
+T117	ENFERMEDAD 3578 3584	anemia
+T118	ENFERMEDAD 3604 3633	anemia de trastornos crónicos
+T119	ENFERMEDAD 3663 3690	hipopituitarismo secundario
+T120	ENFERMEDAD 3693 3715	hipofisitis autoinmune
+T121	ENFERMEDAD 3717 3719	HA
+T122	ENFERMEDAD 3819 3842	hipocortisolismo severo
+T123	ENFERMEDAD 3845 3867	hipotiroidismo central
+T124	ENFERMEDAD 4189 4210	metástasis cerebrales
+T125	ENFERMEDAD 4278 4296	enfermedad tumoral
+T126	ENFERMEDAD 4335 4349	lesiones óseas
+T127	ENFERMEDAD 4405 4429	Hipopituitarismo parcial
+T128	ENFERMEDAD 4443 4492	hipofisitis autoinmune inducida por pembrolizumab
+T129	ENFERMEDAD 5161 5184	síndrome de renutrición
+T130	ENFERMEDAD 5775 5790	toxicidad grave
+T131	ENFERMEDAD 5909 5930	lesiones metastásicas
+T132	ENFERMEDAD 6163 6178	anorexia severa
+T133	PACIENTE-PROFESION 194 205	Comerciante
+T134	PACIENTE-SITUACION_LABORAL 206 214	jubilado

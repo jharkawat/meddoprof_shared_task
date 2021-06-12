@@ -1,0 +1,10 @@
+
+Cólico	O
+renoureteral	O
+derecho	O
+no	O
+complicado	O
+hace	O
+dos	O
+años	O
+.	O

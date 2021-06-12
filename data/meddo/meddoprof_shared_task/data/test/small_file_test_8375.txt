@@ -1,0 +1,23 @@
+
+Se	O
+trata	O
+de	O
+un	O
+varón	O
+de	O
+57	O
+años	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+ni	O
+hábitos	O
+tóxicos	O
+,	O
+quien	O
+trabaja	O
+como	O
+arquitecto	B-PROFESION
+.	O

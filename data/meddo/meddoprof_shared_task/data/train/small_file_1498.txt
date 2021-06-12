@@ -1,0 +1,15 @@
+
+Paciente	O
+femenino	O
+de	O
+67	O
+años	O
+,	O
+diestra	O
+,	O
+viuda	O
+,	O
+ocupación	B-SITUACION_LABORAL
+:	I-SITUACION_LABORAL
+hogar	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+detectó	O
+una	O
+masa	O
+pélvica	O
+dependiente	O
+del	O
+recto	O
+altamente	O
+sospechosa	O
+de	O
+malignidad	O
+y	O
+una	O
+adenopatía	O
+interaortocava	O
+sospechosa	O
+.	O

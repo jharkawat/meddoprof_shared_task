@@ -1,0 +1,15 @@
+
+Basados	O
+en	O
+las	O
+entrevistas	O
+consecutivas	O
+se	O
+pudieron	O
+definir	O
+rasgos	O
+característicos	O
+de	O
+su	O
+personalidad	O
+:	O

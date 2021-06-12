@@ -1,0 +1,14 @@
+
+Electrocardiograma	O
+con	O
+trastorno	O
+difuso	O
+de	O
+la	O
+polarización	O
+,	O
+sin	O
+indicación	O
+de	O
+tratamiento	O
+.	O

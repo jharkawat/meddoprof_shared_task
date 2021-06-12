@@ -1,0 +1,14 @@
+
+Hemograma	O
+,	O
+coagulación	O
+,	O
+bioquímica	O
+y	O
+orina	O
+,	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

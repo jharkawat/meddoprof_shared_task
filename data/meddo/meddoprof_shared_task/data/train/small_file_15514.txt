@@ -1,0 +1,21 @@
+
+Se	O
+dejó	O
+en	O
+observación	O
+con	O
+diagnóstico	O
+de	O
+laringitis	O
+viral	O
+aguda	O
+y	O
+se	O
+inició	O
+tratamiento	O
+con	O
+acetaminofén	O
+y	O
+líquidos	O
+intravenosos	O
+.	O

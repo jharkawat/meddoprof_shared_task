@@ -1,0 +1,19 @@
+
+Se	O
+le	O
+diagnosticó	O
+una	O
+otitis	O
+serosa	O
+bilateral	O
+que	O
+fue	O
+tratada	O
+con	O
+corticoides	O
+tópicos	O
+nasales	O
+y	O
+antibióticos	O
+orales	O
+.	O

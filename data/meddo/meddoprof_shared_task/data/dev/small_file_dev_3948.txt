@@ -1,0 +1,25 @@
+
+A	O
+los	O
+cuatro	O
+años	O
+,	O
+la	O
+familia	O
+partió	O
+para	O
+instalarse	O
+en	O
+un	O
+pueblo	O
+de	O
+Córdoba	O
+(	O
+de	O
+donde	O
+era	O
+oriundo	O
+el	O
+padre	O
+)	O
+.	O

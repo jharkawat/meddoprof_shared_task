@@ -1,0 +1,20 @@
+
+La	O
+cirugía	O
+de	O
+sustitución	O
+valvular	O
+se	O
+lleva	O
+a	O
+cabo	O
+el	O
+14	O
+de	O
+marzo	O
+de	O
+2019	O
+,	O
+sin	O
+incidencias	O
+.	O

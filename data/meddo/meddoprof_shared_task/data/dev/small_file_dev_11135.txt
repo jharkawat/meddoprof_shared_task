@@ -1,0 +1,5 @@
+
+Enfermedad	O
+diverticular	O
+complicada	O
+.	O

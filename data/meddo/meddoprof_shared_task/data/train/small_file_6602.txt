@@ -1,0 +1,24 @@
+
+Paciente	O
+varón	O
+de	O
+40	O
+años	O
+,	O
+VIH	O
++	O
+,	O
+remitido	O
+por	O
+el	O
+Servicio	O
+de	O
+Infecciones	O
+por	O
+aparición	O
+de	O
+lesiones	O
+en	O
+área	O
+genital	O
+.	O

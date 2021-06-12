@@ -1,0 +1,13 @@
+
+Según	O
+refieren	O
+,	O
+el	O
+peso	O
+y	O
+longitud	O
+de	O
+ambos	O
+era	O
+normal	O
+.	O

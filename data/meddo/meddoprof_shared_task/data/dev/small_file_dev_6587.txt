@@ -1,0 +1,13 @@
+
+Se	O
+realizó	O
+radiografía	O
+de	O
+tórax	O
+que	O
+no	O
+mostraba	O
+imágenes	O
+de	O
+condensación	O
+.	O

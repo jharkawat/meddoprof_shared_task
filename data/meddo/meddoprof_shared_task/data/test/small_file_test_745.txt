@@ -1,0 +1,27 @@
+
+Por	O
+otra	O
+parte	O
+,	O
+las	O
+heridas	O
+punzantes	O
+pueden	O
+penetrar	O
+en	O
+las	O
+articulaciones	O
+interfalángicas	O
+causando	O
+artritis	O
+,	O
+sean	O
+reactivas	O
+por	O
+cuerpo	O
+extraño	O
+o	O
+de	O
+origen	O
+infeccioso	O
+.	O

@@ -1,0 +1,6 @@
+
+Aun	O
+no	O
+estoy	O
+preparado	O
+.	O

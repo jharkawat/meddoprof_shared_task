@@ -1,0 +1,26 @@
+
+Tomó	O
+una	O
+dosis	O
+de	O
+corticoide	O
+oral	O
+que	O
+tenía	O
+en	O
+casa	O
+y	O
+acudió	O
+a	O
+urgencias	O
+de	O
+su	O
+centro	O
+de	O
+salud	O
+en	O
+donde	O
+le	O
+administraron	O
+tratamiento	O
+.	O

@@ -1,0 +1,5 @@
+
+CMV	O
+IgG	O
+positivo	O
+.	O

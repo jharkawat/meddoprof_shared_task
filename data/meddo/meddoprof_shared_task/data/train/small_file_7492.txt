@@ -1,0 +1,14 @@
+
+Las	O
+epicutáneas	O
+con	O
+polimixina	O
+B	O
+y	O
+clorhexidina	O
+en	O
+piel	O
+rasurada	O
+fueron	O
+negativas	O
+.	O

@@ -1,0 +1,21 @@
+
+Actualmente	O
+por	O
+recomendaciones	O
+médicas	O
+no	O
+realiza	O
+ningún	O
+tipo	O
+de	O
+actividad	O
+física	O
+,	O
+está	O
+en	O
+reposo	O
+casi	O
+todo	O
+el	O
+día	O
+.	O

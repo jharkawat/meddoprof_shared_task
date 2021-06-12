@@ -1,0 +1,7 @@
+
+Sin	O
+otros	O
+antecedentes	O
+médicos	O
+relevantes	O
+.	O

@@ -1,0 +1,12 @@
+
+RAMC	O
+:	O
+a	O
+ketoconazol	O
+,	O
+Cefuroxima	O
+,	O
+ciprofloxacino	O
+y	O
+tobramicina	O
+.	O

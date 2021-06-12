@@ -1,0 +1,18 @@
+
+Tendencia	O
+a	O
+permanecer	O
+con	O
+los	O
+ojos	O
+cerrados	O
+con	O
+apertura	O
+de	O
+los	O
+mismos	O
+tras	O
+estímulos	O
+físicos	O
+moderados	O
+.	O

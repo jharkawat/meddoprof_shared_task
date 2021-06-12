@@ -1,0 +1,24 @@
+
+En	O
+una	O
+ocasión	O
+,	O
+ingresa	O
+durante	O
+dos	O
+meses	O
+en	O
+la	O
+Unidad	O
+de	O
+Convalecencia	O
+para	O
+un	O
+mejor	O
+control	O
+de	O
+la	O
+toma	O
+de	O
+tratamientos	O
+.	O

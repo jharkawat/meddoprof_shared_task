@@ -1,0 +1,24 @@
+
+Exploración	O
+psicopatológica	O
+al	O
+ingreso	O
+:	O
+la	O
+paciente	O
+se	O
+muestra	O
+vigil	O
+,	O
+desorientada	O
+en	O
+tiempo	O
+y	O
+espacio	O
+,	O
+con	O
+orientación	O
+autopsíquica	O
+parcialmente	O
+conservada	O
+.	O

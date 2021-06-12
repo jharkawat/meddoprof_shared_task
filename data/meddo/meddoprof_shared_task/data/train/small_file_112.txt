@@ -1,0 +1,11 @@
+
+Nuestra	O
+recomendación	O
+inicial	O
+fue	O
+hospitalización	O
+psiquiátrica	O
+tras	O
+autorización	O
+médica	O
+.	O

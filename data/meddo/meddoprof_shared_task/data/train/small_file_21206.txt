@@ -1,0 +1,22 @@
+
+Obesidad	O
+Intervenida	O
+quirúrgicamente	O
+de	O
+:	O
+Colecistectomía	O
+hace	O
+10	O
+años	O
+Cesárea	O
+en	O
+dos	O
+ocasiones	O
+No	O
+otros	O
+antecedentes	O
+medico	O
+-	O
+quirúrgicos	O
+de	O
+interés	O

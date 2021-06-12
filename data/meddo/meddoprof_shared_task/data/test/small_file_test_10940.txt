@@ -1,0 +1,18 @@
+
+La	O
+ecografía	O
+abdominal	O
+realizada	O
+y	O
+los	O
+datos	O
+analíticos	O
+son	O
+normales	O
+,	O
+incluidas	O
+las	O
+hh	O
+.	O
+tiroideas	O
+.	O

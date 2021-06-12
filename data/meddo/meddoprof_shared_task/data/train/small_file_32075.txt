@@ -1,0 +1,25 @@
+
+Asocia	O
+ansiedad	O
+y	O
+temor	O
+reactivos	O
+a	O
+la	O
+sintomatología	O
+descrita	O
+y	O
+que	O
+se	O
+agravan	O
+durante	O
+su	O
+jornada	O
+laboral	O
+nocturna	O
+o	O
+en	O
+la	O
+vía	O
+pública	O
+.	O

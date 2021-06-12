@@ -1,0 +1,21 @@
+
+Continúa	O
+con	O
+quimioterapia	O
+hasta	O
+seis	O
+ciclos	O
+(	O
+último	O
+el	O
+6	O
+de	O
+febrero	O
+de	O
+2012	O
+)	O
+,	O
+persistiendo	O
+dicha	O
+sintomatología	O
+.	O

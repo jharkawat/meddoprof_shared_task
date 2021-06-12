@@ -1,0 +1,8 @@
+
+No	O
+tiene	O
+otra	O
+sintomatología	O
+de	O
+interés	O
+.	O

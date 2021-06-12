@@ -1,0 +1,18 @@
+
+Se	O
+le	O
+indicó	O
+tratamiento	O
+con	O
+neurolépticos	O
+y	O
+antidepresivos	O
+conjuntamente	O
+con	O
+tratamiento	O
+psicológico	O
+,	O
+permaneciendo	O
+asintomático	O
+posteriormente	O
+.	O

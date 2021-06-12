@@ -1,0 +1,14 @@
+
+No	O
+refiere	O
+fiebre	O
+,	O
+dolor	O
+torácico	O
+,	O
+palpitaciones	O
+u	O
+otra	O
+sintomatología	O
+asociada	O
+.	O

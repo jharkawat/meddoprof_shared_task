@@ -1,0 +1,27 @@
+
+Ante	O
+la	O
+demora	O
+en	O
+cirugía	O
+y	O
+la	O
+necesidad	O
+de	O
+intervalo	O
+de	O
+recuperación	O
+tras	O
+un	O
+TEP	O
+masivo	O
+,	O
+se	O
+administran	O
+2	O
+ciclos	O
+de	O
+FOLFOX	O
+-	O
+CETUXIMAB	O
+.	O

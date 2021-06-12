@@ -1,0 +1,11 @@
+
+Dermatitis	O
+alérgica	O
+de	O
+contacto	O
+(	O
+DAC	O
+)	O
+a	O
+plantas	O
+.	O

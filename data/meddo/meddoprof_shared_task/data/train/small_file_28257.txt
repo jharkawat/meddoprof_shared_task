@@ -1,0 +1,19 @@
+
+Poco	O
+después	O
+se	O
+inicia	O
+en	O
+el	O
+consumo	O
+de	O
+sustancias	O
+,	O
+con	O
+subsiguiente	O
+desatención	O
+a	O
+sus	O
+obligaciones	O
+maternales	O
+.	O

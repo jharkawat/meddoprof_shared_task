@@ -1,0 +1,297 @@
+T1	SINTOMA 110 116	fiebre
+T2	SINTOMA 733 748	síndrome febril
+T3	SINTOMA 839 855	malestar general
+T4	SINTOMA 857 864	astenia
+T5	SINTOMA 867 880	artromialgias
+T6	SINTOMA 912 924	rash cutáneo
+T7	SINTOMA 1206 1216	consciente
+T8	SINTOMA 1218 1227	orientado
+T9	SINTOMA 1230 1241	colaborador
+T10	SINTOMA 1272 1280	eupneico
+T11	SINTOMA 1617 1677	audible en foco aórtico grado III-IV/VI, irradiado al cuello
+T12	SINTOMA 1911 1932	irritación peritoneal
+T13	SINTOMA 1946 1973	ruidos hidroaéreos normales
+T14	SINTOMA 2012 2018	edemas
+T15	SINTOMA 2081 2090	exantemas
+T16	SINTOMA 2094 2103	petequias
+T17	SINTOMA 2332 2379	tumefacción inflamatoria a nivel condroesternal
+T18	SINTOMA 2679 2685	fiebre
+T19	SINTOMA 2873 2886	cardiomegalia
+T20	SINTOMA 2978 3002	estabilidad hemodinámica
+T21	SINTOMA 3311 3411	engrosamiento de la pleura mediastínica adyacente y reticulación de la grasa del espacio prevascular
+T22	SINTOMA 4330 4384	dolor e inflamación condroesternal o esternoclavicular
+T23	SINTOMA 4487 4493	fiebre
+T24	SINTOMA 5129 5135	fiebre
+T25	SINTOMA 5153 5165	leucocitosis
+T26	SINTOMA 5703 5709	fiebre
+T27	SINTOMA 5728 5740	leucocitosis
+T28	SINTOMA 10169 10181	asintomático
+T29	PROCEDIMIENTO 421 447	tratamiento inmunosupresor
+T30	PROCEDIMIENTO 1148 1166	exploración física
+T31	PROCEDIMIENTO 1703 1728	auscultación respiratoria
+T32	PROCEDIMIENTO 2174 2193	exploración cutánea
+T33	PROCEDIMIENTO 2648 2660	hemocultivos
+T34	PROCEDIMIENTO 2663 2674	urocultivos
+T35	PROCEDIMIENTO 2829 2849	radiografía de tórax
+T36	PROCEDIMIENTO 3029 3043	antibioterapia
+T37	PROCEDIMIENTO 3056 3067	TC de tórax
+T38	PROCEDIMIENTO 4183 4194	TC de tórax
+T39	PROCEDIMIENTO 5039 5058	trasplante cardíaco
+T40	PROCEDIMIENTO 5837 5839	TC
+T41	PROCEDIMIENTO 7000 7021	cateterización venosa
+T42	PROCEDIMIENTO 8044 8056	hemodiálisis
+T43	PROCEDIMIENTO 9068 9097	ecocardiografía transtorácica
+T44	PROCEDIMIENTO 9476 9487	hemocultivo
+T45	PROCEDIMIENTO 9555 9605	PAAF de la articulación condroesternal con cultivo
+T46	PROCEDIMIENTO 9621 9644	tratamiento antibiótico
+T47	PROCEDIMIENTO 9841 9852	antibiótico
+T48	PROCEDIMIENTO 9882 9896	antibioterapia
+T49	PROCEDIMIENTO 10039 10064	desbridamiento quirúrgico
+T50	PROCEDIMIENTO 10083 10109	antibioterapia intravenosa
+T51	NEG 344 347	sin
+T52	NSCO 348 375	estudios previos realizados
+T53	NEG 882 884	No
+T54	NSCO 885 966	presentaba otra focalidad, rash cutáneo ni recientes conductas sexuales de riesgo
+T55	NEG 1077 1079	No
+T56	NSCO 1080 1140	refiere clínica cardiológica, pulmonar ni urinaria relevante
+T57	NEG 1292 1295	sin
+T58	NSCO 1296 1317	focalidad neurológica
+T59	NEG 1487 1490	sin
+T60	NSCO 1491 1523	aumento del trabajo respiratorio
+T61	NEG 1771 1774	sin
+T62	NSCO 1775 1795	ruidos sobreañadidos
+T63	NEG 1833 1835	no
+T64	NSCO 1836 1859	doloroso a la palpación
+T65	NEG 1861 1864	sin
+T66	NSCO 1865 1882	masas ni megalias
+T67	NEG 1884 1886	No
+T68	NSCO 1887 1932	se apreciaron signos de irritación peritoneal
+T69	NEG 1998 2000	no
+T70	NSCO 2001 2057	presentaba edemas ni signos de trombosis venosa profunda
+T71	NEG 2059 2066	Tampoco
+T72	NSCO 2067 2193	se apreciaron exantemas ni petequias, manchas de Janeway, nódulos de Osler ni hemorragias en astilla en la exploración cutánea
+T73	NEG 2195 2197	No
+T74	NSCO 2198 2238	había artritis en grandes articulaciones
+T75	UNC 3685 3692	valorar
+T76	USCO 3693 3770	aquellos procesos que cursan con afectación de la articulación condroesternal
+T77	UNC 3883 3890	posible
+T78	USCO 3891 3938	la afectación de la articulación condroesternal
+T79	NEG 4151 4167	negatividad para
+T80	NSCO 4168 4194	malignidad del TC de tórax
+T81	UNC 4450 4466	podría descartar
+T82	USCO 4467 4512	por la presencia de fiebre de aparición aguda
+T83	NEG 4530 4541	ausencia de
+T84	NSCO 4542 4560	artropatía de base
+T85	UNC 4601 4609	posibles
+T86	USCO 4610 4721	son la afectación esternal por artropatías inflamatorias, como la artritis reumatoidea o la artritis psoriásica
+T87	NEG 4797 4799	no
+T88	NSCO 4800 4831	era el caso de nuestro paciente
+T89	NEG 4922 4933	se descartó
+T90	NSCO 4934 4941	dada la
+T91	NEG 4942 4953	ausencia de
+T92	NSCO 4954 4967	hiperuricemia
+T93	NEG 5149 5152	sin
+T94	NSCO 5153 5165	leucocitosis
+T95	NSCO 5167 5217	una infección sea la causa más probable del cuadro
+T96	UNC 5246 5256	plantearse
+T97	USCO 5257 5327	el posible microorganismo causante de la infección en nuestro paciente
+T98	UNC 5359 5365	podría
+T99	USCO 5366 5430	afectar al sistema musculoesquelético teniendo como localización
+T100	NEG 5724 5727	sin
+T101	NSCO 5728 5740	leucocitosis
+T102	NEG 5758 5769	ausencia de
+T103	NSCO 5770 5788	localización común
+T104	NEG 5794 5805	ausencia de
+T105	NSCO 5806 5839	imágenes de tuberculosis en la TC
+T106	UNC 5844 5858	descartan como
+T107	USCO 5859 5890	posible microorganismo causante
+T108	UNC 5910 5916	podría
+T109	USCO 5917 6016	generar osteomielitis y destrucción de huesos costales en el contexto de una actinomicosis torácica
+T110	NEG 6036 6047	se descartó
+T111	NSCO 6048 6055	ante la
+T112	NEG 6056 6067	ausencia de
+T113	NSCO 6068 6115	abscesos cutáneos purulentos en ambos hemitórax
+T114	NEG 6331 6333	no
+T115	NSCO 6334 6353	como costocondritis
+T116	NEG 7048 7059	se descartó
+T117	NSCO 7060 7120	este microorganismo como primera posibilidad en nuestro caso
+T118	UNC 7243 7250	posible
+T119	USCO 7251 7361	manifestación de la enfermedad en forma de artritis periférica, sacroileítis, espondilitis o espondilodiscitis
+T120	NEG 7489 7500	ausencia de
+T121	NSCO 7501 7548	datos epidemiológicos o de consumo de productos
+T122	NEG 7549 7551	no
+T123	NSCO 7552 7597	higienizados y la localización de la artritis
+T124	NEG 7603 7613	descartada
+T125	NSCO 7614 7638	como primera posibilidad
+T126	NEG 7776 7790	Fue descartado
+T127	NSCO 7791 7798	ante la
+T128	NEG 7799 7810	ausencia de
+T129	NSCO 7811 7849	consumo de tóxicos de nuestro paciente
+T130	NEG 7895 7903	negativo
+T131	NEG 8137 8148	se descarta
+T132	NSCO 8149 8173	como primera posibilidad
+T133	NEG 8221 8229	negativo
+T134	NEG 8563 8573	descartada
+T135	NEG 8683 8685	No
+T136	NSCO 8686 8740	se relaciona con ningún factor de riesgo especialmente
+T137	NEG 9367 9370	sin
+T138	NSCO 9371 9413	derrame pericárdico ni verrugas valvulares
+T139	NSCO 9598 9605	cultivo
+T140	NEG 9606 9614	negativo
+T141	UNC 10016 10022	podría
+T142	USCO 10023 10064	haber precisado desbridamiento quirúrgico
+T143	NEG 10169 10181	asintomático
+T144	FARMACO 504 525	sofosfuvir/ledipasvir
+T145	FARMACO 594 604	sertralina
+T146	FARMACO 606 615	trazodona
+T147	FARMACO 617 628	pregabalina
+T148	FARMACO 630 639	lorazepam
+T149	FARMACO 641 650	valsartán
+T150	FARMACO 651 668	hidroclorotiazida
+T151	FARMACO 670 682	lormetazepam
+T152	FARMACO 684 693	omeprazol
+T153	FARMACO 696 706	etanercept
+T154	FARMACO 9680 9690	Cefazolina
+T155	FARMACO 9723 9737	ciprofloxacino
+T156	ORG_VIVO 15 20	varón
+T157	ORG_VIVO 33 43	trabajador
+T158	ORG_VIVO 49 61	peón agrario
+T159	ORG_VIVO 168 178	personales
+T160	ORG_VIVO 329 337	infancia
+T161	ORG_VIVO 540 545	viral
+T162	ORG_VIVO 971 979	paciente
+T163	ORG_VIVO 2732 2744	Brucella spp
+T164	ORG_VIVO 2752 2766	Rickettsia spp
+T165	ORG_VIVO 2768 2780	Coxiella spp
+T166	ORG_VIVO 2782 2785	VIH
+T167	ORG_VIVO 2787 2790	CMV
+T168	ORG_VIVO 2792 2795	VEB
+T169	ORG_VIVO 2798 2812	Parvovirus B19
+T170	ORG_VIVO 4275 4282	adultos
+T171	ORG_VIVO 4823 4831	paciente
+T172	ORG_VIVO 5009 5018	pacientes
+T173	ORG_VIVO 5099 5107	paciente
+T174	ORG_VIVO 5268 5282	microorganismo
+T175	ORG_VIVO 5319 5327	paciente
+T176	ORG_VIVO 5332 5358	Mycobacterium tuberculosis
+T177	ORG_VIVO 5690 5698	paciente
+T178	ORG_VIVO 5867 5881	microorganismo
+T179	ORG_VIVO 5894 5909	Actinomyces spp
+T180	ORG_VIVO 6119 6133	Salmonella spp
+T181	ORG_VIVO 6164 6178	microorganismo
+T182	ORG_VIVO 6389 6397	paciente
+T183	ORG_VIVO 6617 6631	microorganismo
+T184	ORG_VIVO 6689 6697	paciente
+T185	ORG_VIVO 6701 6717	Cándida albicans
+T186	ORG_VIVO 6725 6733	patógeno
+T187	ORG_VIVO 6773 6782	pacientes
+T188	ORG_VIVO 7065 7079	microorganismo
+T189	ORG_VIVO 7124 7136	Brucella spp
+T190	ORG_VIVO 7184 7193	pacientes
+T191	ORG_VIVO 7213 7227	microorganismo
+T192	ORG_VIVO 7467 7475	paciente
+T193	ORG_VIVO 7642 7661	Serratia marcescens
+T194	ORG_VIVO 7741 7750	pacientes
+T195	ORG_VIVO 7841 7849	paciente
+T196	ORG_VIVO 7853 7875	Pseudomonas aeurginosa
+T197	ORG_VIVO 7883 7903	bacilo gram negativo
+T198	ORG_VIVO 7936 7945	pacientes
+T199	ORG_VIVO 8013 8022	pacientes
+T200	ORG_VIVO 8105 8115	personales
+T201	ORG_VIVO 8127 8135	paciente
+T202	ORG_VIVO 8177 8193	Escherichia coli
+T203	ORG_VIVO 8209 8229	bacilo gram negativo
+T204	ORG_VIVO 8282 8291	pacientes
+T205	ORG_VIVO 8399 8414	Kingella kingae
+T206	ORG_VIVO 8422 8436	microorganismo
+T207	ORG_VIVO 8493 8498	niños
+T208	ORG_VIVO 8601 8622	Staphylococcus aureus
+T209	ORG_VIVO 8769 8778	pacientes
+T210	ORG_VIVO 8847 8861	microorganismo
+T211	ORG_VIVO 8871 8879	paciente
+T212	ORG_VIVO 9497 9538	Staphylococcus aureus meticillin sensible
+T213	ORG_VIVO 10160 10168	paciente
+T214	ORG_VIVO 10335 10343	paciente
+T215	ENFERMEDAD 194 215	hipertensión arterial
+T216	ENFERMEDAD 377 396	trastorno depresivo
+T217	ENFERMEDAD 398 417	artritis psoriásica
+T218	ENFERMEDAD 450 467	hepatitis crónica
+T219	ENFERMEDAD 2032 2057	trombosis venosa profunda
+T220	ENFERMEDAD 2145 2193	hemorragias en astilla en la exploración cutánea
+T221	ENFERMEDAD 2204 2238	artritis en grandes articulaciones
+T222	ENFERMEDAD 2261 2310	psoriasis excoriadas en ambos miembros inferiores
+T223	ENFERMEDAD 2873 2886	cardiomegalia
+T224	ENFERMEDAD 3090 3175	infiltración del tejido de partes blandas en localización mediastínica anterosuperior
+T225	ENFERMEDAD 3516 3574	artritis séptica de la primera articulación condroesternal
+T226	ENFERMEDAD 3587 3614	colección líquida y absceso
+T227	ENFERMEDAD 3702 3770	procesos que cursan con afectación de la articulación condroesternal
+T228	ENFERMEDAD 3783 3793	neoplasias
+T229	ENFERMEDAD 3795 3810	conectivopatías
+T230	ENFERMEDAD 3812 3830	síndrome de Tietze
+T231	ENFERMEDAD 3832 3847	artritis gotosa
+T232	ENFERMEDAD 3850 3866	artritis séptica
+T233	ENFERMEDAD 3868 3938	Neoplasias: Es posible la afectación de la articulación condroesternal
+T234	ENFERMEDAD 3950 3983	tumores óseos y de partes blandas
+T235	ENFERMEDAD 3993 4009	cáncer de pulmón
+T236	ENFERMEDAD 4011 4018	linfoma
+T237	ENFERMEDAD 4020 4033	condrosarcoma
+T238	ENFERMEDAD 4035 4076	granuloma eosinófilo e incluso metástasis
+T239	ENFERMEDAD 4083 4110	tumor de origen desconocido
+T240	ENFERMEDAD 4199 4217	Síndrome de Tietze
+T241	ENFERMEDAD 4405 4430	artropatías seronegativas
+T242	ENFERMEDAD 4542 4552	artropatía
+T243	ENFERMEDAD 4641 4666	artropatías inflamatorias
+T244	ENFERMEDAD 4676 4696	artritis reumatoidea
+T245	ENFERMEDAD 4702 4721	artritis psoriásica
+T246	ENFERMEDAD 4836 4887	afectación gotosa de la articulación condroesternal
+T247	ENFERMEDAD 4954 4967	hiperuricemia
+T248	ENFERMEDAD 5060 5076	Artritis séptica
+T249	ENFERMEDAD 5108 5123	inmunodeprimido
+T250	ENFERMEDAD 5171 5180	infección
+T251	ENFERMEDAD 5298 5307	infección
+T252	ENFERMEDAD 5525 5557	artritis suele ser monoarticular
+T253	ENFERMEDAD 5818 5830	tuberculosis
+T254	ENFERMEDAD 5925 5938	osteomielitis
+T255	ENFERMEDAD 5941 5971	destrucción de huesos costales
+T256	ENFERMEDAD 5994 6016	actinomicosis torácica
+T257	ENFERMEDAD 6068 6115	abscesos cutáneos purulentos en ambos hemitórax
+T258	ENFERMEDAD 6245 6283	infección en otra región del organismo
+T259	ENFERMEDAD 6308 6328	osteomielitis costal
+T260	ENFERMEDAD 6339 6353	costocondritis
+T261	ENFERMEDAD 6457 6484	artritis por Salmonella spp
+T262	ENFERMEDAD 6490 6507	diabetes mellitus
+T263	ENFERMEDAD 6509 6530	enfermedad neoplásica
+T264	ENFERMEDAD 6532 6545	trauma físico
+T265	ENFERMEDAD 6555 6591	adicción a drogas por vía parenteral
+T266	ENFERMEDAD 6761 6769	artritis
+T267	ENFERMEDAD 6908 6978	costocondritis por Cándida spp están la radiación de la pared torácica
+T268	ENFERMEDAD 7167 7180	osteoartritis
+T269	ENFERMEDAD 7294 7313	artritis periférica
+T270	ENFERMEDAD 7315 7327	sacroileítis
+T271	ENFERMEDAD 7329 7341	espondilitis
+T272	ENFERMEDAD 7344 7361	espondilodiscitis
+T273	ENFERMEDAD 7366 7432	artritis suele afectar a las rodillas, caderas, tobillos y muñecas
+T274	ENFERMEDAD 7589 7597	artritis
+T275	ENFERMEDAD 7684 7718	artritis en uniones cartilaginosas
+T276	ENFERMEDAD 7972 7989	diabetes mellitus
+T277	ENFERMEDAD 7991 8010	artritis reumatoide
+T278	ENFERMEDAD 8296 8320	enfermedad renal crónica
+T279	ENFERMEDAD 8322 8341	disfunción hepática
+T280	ENFERMEDAD 8369 8395	sepsis de origen urológico
+T281	ENFERMEDAD 8450 8463	osteomielitis
+T282	ENFERMEDAD 8665 8681	artritis séptica
+T283	ENFERMEDAD 8783 8810	enfermedades reumatológicas
+T284	ENFERMEDAD 8891 8912	dermatitis psoriásica
+T285	ENFERMEDAD 9162 9186	cardiopatía hipertensiva
+T286	ENFERMEDAD 9214 9242	lesión de la válvula aórtica
+T287	ENFERMEDAD 9247 9272	estenosis moderada-severa
+T288	ENFERMEDAD 9275 9301	insuficiencia aórtica leve
+T289	ENFERMEDAD 9334 9365	insuficiencia tricupídea ligera
+T290	ENFERMEDAD 9371 9390	derrame pericárdico
+T291	ENFERMEDAD 9394 9413	verrugas valvulares
+T292	ENFERMEDAD 9476 9529	hemocultivo crece un Staphylococcus aureus meticillin
+T293	ENFERMEDAD 9940 9978	artritis séptica de dicha articulación
+T294	ENFERMEDAD 10196 10219	Artritis condroesternal
+T295	ENFERMEDAD 10274 10322	bacteriemia por Staphylococcus aureus meticillin
+T296	ENFERMEDAD 10344 10359	inmunodeprimido
+T297	PACIENTE-PROFESION 49 61	peón agrario

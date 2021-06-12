@@ -1,0 +1,8 @@
+
+También	O
+tiene	O
+dos	O
+hermanos	O
+menores	O
+varones	O
+.	O

@@ -1,0 +1,76 @@
+T1	SINTOMA 322 331	fallecida
+T2	SINTOMA 881 989	tumoración de aproximadamente 4 cm, localizada a nivel de colon descendente, por debajo del ángulo esplénico
+T3	SINTOMA 1259 1308	actividad en ganglios supra e infradiafragmáticos
+T4	SINTOMA 2060 2073	hepatomegalia
+T5	PROCEDIMIENTO 424 442	exploración física
+T6	PROCEDIMIENTO 615 627	colonoscopia
+T7	PROCEDIMIENTO 816 840	tomografía computarizada
+T8	PROCEDIMIENTO 842 844	TC
+T9	PROCEDIMIENTO 846 867	toracoabdominopélvica
+T10	PROCEDIMIENTO 1193 1229	tomografía por emisión de positrones
+T11	PROCEDIMIENTO 1231 1237	PET-TC
+T12	PROCEDIMIENTO 1430 1437	biopsia
+T13	PROCEDIMIENTO 1618 1656	hemicolectomía izquierda laparoscópica
+T14	PROCEDIMIENTO 1680 1699	Anatomía Patológica
+T15	PROCEDIMIENTO 1945 1963	Exploración física
+T16	PROCEDIMIENTO 2004 2022	exploración física
+T17	PROCEDIMIENTO 2133 2139	PET-TC
+T18	PROCEDIMIENTO 2696 2722	tratamiento quimioterápico
+T19	PROCEDIMIENTO 2866 2879	quimioterapia
+T20	PROCEDIMIENTO 2884 2890	PET-TC
+T21	PROCEDIMIENTO 3027 3056	resonancia magnética hepática
+T22	PROCEDIMIENTO 3372 3414	hepatectomía izquierda ampliada a segmento
+T23	PROCEDIMIENTO 3418 3448	resección limitada de segmento
+T24	PROCEDIMIENTO 3452 3467	colecistectomía
+T25	PROCEDIMIENTO 3470 3485	linfadenectomía
+T26	PROCEDIMIENTO 3490 3509	Anatomía Patológica
+T27	NEG 111 114	Sin
+T28	NSCO 115 149	antecedentes personales de interés
+T29	NEG 152 155	sin
+T30	NSCO 156 176	tratamiento habitual
+T31	NEG 178 180	No
+T32	NSCO 181 202	tiene hábitos tóxicos
+T33	UNC 1005 1017	sin aparente
+T34	USCO 1018 1050	afectación de la grasa adyacente
+T35	NEG 1319 1321	no
+T36	NSCO 1322 1376	se podía descartar proceso linfoproliferativo asociado
+T37	NEG 1446 1454	negativo
+T38	NSCO 1455 1476	para células malignas
+T39	NEG 1766 1769	sin
+T40	NSCO 1770 1801	inestabilidad de microsatélites
+T41	NEG 2032 2035	sin
+T42	NSCO 2036 2073	palparse adenopatías ni hepatomegalia
+T43	UNC 2162 2175	sugestivos de
+T44	USCO 2176 2200	progresión de enfermedad
+T45	NEG 2423 2426	sin
+T46	NSCO 2427 2466	evidencia de enfermedad a otros niveles
+T47	NEG 2664 2666	no
+T48	NSCO 2667 2674	mutados
+T49	FARMACO 2735 2741	FOLFOX
+T50	FARMACO 2742 2753	panitumumab
+T51	FARMACO 3719 3725	FOLFOX
+T52	ORG_VIVO 10 15	Mujer
+T53	ORG_VIVO 128 138	personales
+T54	ORG_VIVO 306 314	familiar
+T55	ORG_VIVO 316 321	madre
+T56	ORG_VIVO 1984 1992	paciente
+T57	ORG_VIVO 3790 3798	paciente
+T58	ENFERMEDAD 335 350	cáncer de colon
+T59	ENFERMEDAD 1070 1119	adenopatías hiliares, mediastínicas y abdominales
+T60	ENFERMEDAD 1259 1308	actividad en ganglios supra e infradiafragmáticos
+T61	ENFERMEDAD 1341 1367	proceso linfoproliferativo
+T62	ENFERMEDAD 1396 1407	adenopatías
+T63	ENFERMEDAD 1496 1522	linfadenitis granulomatosa
+T64	ENFERMEDAD 1541 1552	sarcoidosis
+T65	ENFERMEDAD 1710 1733	adenocarcinoma de colon
+T66	ENFERMEDAD 1751 1764	tumor velloso
+T67	ENFERMEDAD 2045 2056	adenopatías
+T68	ENFERMEDAD 2060 2073	hepatomegalia
+T69	ENFERMEDAD 2231 2266	hipermetabólicos en lóbulo hepático
+T70	ENFERMEDAD 2359 2386	enfermedad a nivel hepático
+T71	ENFERMEDAD 2401 2421	metástasis bilobares
+T72	ENFERMEDAD 2563 2583	metástasis hepáticas
+T73	ENFERMEDAD 2956 2986	tumoral en parénquima hepático
+T74	ENFERMEDAD 3076 3096	metástasis hepáticas
+T75	ENFERMEDAD 3527 3578	metástasis de adenocarcinoma de morfología colónica
+T76	PACIENTE-PROFESION 263 287	trabaja en una panadería

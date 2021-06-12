@@ -1,0 +1,17 @@
+
+Presenta	O
+plaquetopenia	O
+severa	O
+que	O
+mejora	O
+parcialmente	O
+con	O
+corticoides	O
+a	O
+dosis	O
+altas	O
+y	O
+pauta	O
+de	O
+inmunoglobulina	O
+.	O

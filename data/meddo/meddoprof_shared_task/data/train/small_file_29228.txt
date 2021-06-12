@@ -1,0 +1,9 @@
+
+Antecedentes	O
+de	O
+heteroagresividad	O
+previa	O
+,	O
+no	O
+autoagresividad	O
+.	O

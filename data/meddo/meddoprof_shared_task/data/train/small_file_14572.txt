@@ -1,0 +1,8 @@
+
+Radiografía	O
+de	O
+tórax	O
+y	O
+abdomen	O
+normales	O
+.	O

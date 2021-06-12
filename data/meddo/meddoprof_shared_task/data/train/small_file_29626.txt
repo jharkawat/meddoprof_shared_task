@@ -1,0 +1,18 @@
+
+ANA	O
+,	O
+AMA	O
+,	O
+ASMA	O
+,	O
+antiLKM	O
+,	O
+ceruloplasmina	O
+,	O
+alfa1	O
+-	O
+antitripsina	O
+normales	O
+o	O
+negativos	O
+.	O

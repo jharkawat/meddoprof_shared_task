@@ -1,0 +1,26 @@
+
+Movilidad	O
+cervical	O
+normal	O
+,	O
+sin	O
+presencia	O
+de	O
+tensión	O
+aumentada	O
+ni	O
+puntos	O
+dolorosos	O
+en	O
+la	O
+musculatura	O
+paracervical	O
+,	O
+ni	O
+tampoco	O
+al	O
+presionar	O
+los	O
+senos	O
+paranasales	O
+.	O

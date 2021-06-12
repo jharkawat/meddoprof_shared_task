@@ -1,0 +1,77 @@
+T1	SINTOMA 1009 1046	dificultad en las relaciones sociales
+T2	SINTOMA 2743 2772	pseudoalucinaciones auditivas
+T3	SINTOMA 3557 3576	síntomas psicóticos
+T4	SINTOMA 3928 3970	alucinaciones auditivas en 2a y 3a persona
+T5	PROCEDIMIENTO 2295 2303	sedación
+T6	NEG 620 630	interpreta
+T7	NSCO 631 679	los gestos de la gente hacia él como de disgusto
+T8	NEG 1142 1145	sin
+T9	NSCO 1146 1155	problemas
+T10	NEG 1390 1392	No
+T11	NSCO 1393 1436	antecedentes familiares de patología mental
+T12	NEG 1703 1705	No
+T13	NSCO 1706 1730	consumo de otros tóxicos
+T14	NEG 2010 2018	cedieron
+T15	NEG 2019 2022	sin
+T16	NSCO 2023 2061	tratamiento tras mantenerse abstinente
+T17	NEG 2437 2439	no
+T18	NSCO 2440 2463	ha reanudado el consumo
+T19	NEG 2800 2802	No
+T20	NSCO 2803 2837	había accedido a acudir a consulta
+T21	NEG 3248 3259	remisión de
+T22	NSCO 3260 3272	los síntomas
+T23	NEG 3545 3547	no
+T24	NSCO 3548 3576	presenta síntomas psicóticos
+T25	NEG 4190 4194	nula
+T26	NSCO 4195 4219	conciencia de enfermedad
+T27	FARMACO 2132 2143	risperidona
+T28	FARMACO 3371 3382	risperidona
+T29	ORG_VIVO 0 5	Varón
+T30	ORG_VIVO 52 59	familia
+T31	ORG_VIVO 132 139	familia
+T32	ORG_VIVO 207 215	paciente
+T33	ORG_VIVO 266 274	paciente
+T34	ORG_VIVO 459 467	cannabis
+T35	ORG_VIVO 490 495	gente
+T36	ORG_VIVO 600 608	camarero
+T37	ORG_VIVO 648 653	gente
+T38	ORG_VIVO 941 948	familia
+T39	ORG_VIVO 975 980	chico
+T40	ORG_VIVO 1160 1167	familia
+T41	ORG_VIVO 1212 1218	padres
+T42	ORG_VIVO 1283 1291	hermanos
+T43	ORG_VIVO 1382 1388	padres
+T44	ORG_VIVO 1406 1416	familiares
+T45	ORG_VIVO 1455 1463	cannabis
+T46	ORG_VIVO 1528 1534	amigos
+T47	ORG_VIVO 1606 1612	padres
+T48	ORG_VIVO 1807 1814	familia
+T49	ORG_VIVO 1877 1883	padres
+T50	ORG_VIVO 1976 1984	cannabis
+T51	ORG_VIVO 2066 2074	paciente
+T52	ORG_VIVO 2393 2400	familia
+T53	ORG_VIVO 2416 2424	paciente
+T54	ORG_VIVO 2498 2505	familia
+T55	ORG_VIVO 2874 2881	familia
+T56	ORG_VIVO 2993 3001	cannabis
+T57	ORG_VIVO 3286 3294	paciente
+T58	ORG_VIVO 3499 3507	paciente
+T59	ORG_VIVO 3534 3542	cannabis
+T60	ORG_VIVO 3660 3667	familia
+T61	ORG_VIVO 3827 3835	cannabis
+T62	ORG_VIVO 3963 3970	persona
+T63	ORG_VIVO 4073 4080	familia
+T64	ENFERMEDAD 1420 1436	patología mental
+T65	ENFERMEDAD 1441 1463	consumidor de cannabis
+T66	ENFERMEDAD 1957 1984	elevado consumo de cannabis
+T67	ENFERMEDAD 2602 2624	trastornos de conducta
+T68	ENFERMEDAD 2978 3001	abstinencia de cannabis
+T69	ENFERMEDAD 3794 3810	cuadro psicótico
+T70	ENFERMEDAD 3816 3835	consumo de cannabis
+T71	ENFERMEDAD 4034 4050	suicidio severas
+T72	ENFERMEDAD 4176 4184	suicidio
+T73	ENFERMEDAD 4358 4385	trastorno esquizofreniforme
+T74	PACIENTE-PROFESION 600 618	camarero de un bar
+T75	PACIENTE-PROFESION 1089 1125	había comenzado a trabajar en un bar
+T76	PACIENTE-SITUACION_LABORAL 1048 1073	Había dejado los estudios
+T77	PACIENTE-SITUACION_LABORAL 573 595	En su trabajo habitual

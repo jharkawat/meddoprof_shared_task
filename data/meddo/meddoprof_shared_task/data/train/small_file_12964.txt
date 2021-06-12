@@ -1,0 +1,8 @@
+
+Tolera	O
+el	O
+inicio	O
+del	O
+tratamiento	O
+betabloqueante	O
+.	O

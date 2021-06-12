@@ -1,0 +1,7 @@
+
+Impresiona	O
+paresia	O
+facial	O
+periférica	O
+izquierda	O
+.	O

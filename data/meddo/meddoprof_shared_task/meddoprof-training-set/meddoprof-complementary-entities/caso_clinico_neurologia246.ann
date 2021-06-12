@@ -1,0 +1,106 @@
+T1	SINTOMA 103 141	consumo ocasional de tabaco y cannabis
+T2	SINTOMA 192 233	cefalea de predominio frontal-hemicraneal
+T3	SINTOMA 719 726	confuso
+T4	SINTOMA 1009 1016	afebril
+T5	SINTOMA 1052 1076	tonos cardiacos rítmicos
+T6	SINTOMA 1083 1089	soplos
+T7	SINTOMA 1091 1120	murmullo vesicular conservado
+T8	SINTOMA 1244 1276	Desorientado en tiempo y espacio
+T9	SINTOMA 1278 1287	orientado
+T10	SINTOMA 1600 1610	dismetrías
+T11	SINTOMA 2768 2775	cefalea
+T12	SINTOMA 2835 2849	déficit visual
+T13	SINTOMA 2880 2892	bradipsiquia
+T14	SINTOMA 2894 2922	déficit visual del hemicampo
+T15	SINTOMA 2934 2977	disminución de los reflejos osteotendinosos
+T16	SINTOMA 2979 3019	reflejo cutáneo-plantar derecho extensor
+T17	SINTOMA 3688 3741	deterioro de la función cortical en ambos hemisferios
+T18	SINTOMA 4091 4131	hipoactividad relativa parietal anterior
+T19	PROCEDIMIENTO 294 305	analgésicos
+T20	PROCEDIMIENTO 932 950	Exploración física
+T21	PROCEDIMIENTO 1018 1050	Auscultación cardiorrespiratoria
+T22	PROCEDIMIENTO 1160 1183	Exploración neurológica
+T23	PROCEDIMIENTO 1650 1659	hemograma
+T24	PROCEDIMIENTO 1753 1792	Tomografía computarizada (TC) de cráneo
+T25	PROCEDIMIENTO 1853 1861	Angio-TC
+T26	PROCEDIMIENTO 1938 1958	Electroencefalograma
+T27	PROCEDIMIENTO 2000 2036	Eco-doppler de troncos supraaórticos
+T28	PROCEDIMIENTO 2055 2075	Resonancia magnética
+T29	PROCEDIMIENTO 2165 2187	Estudio de trombofilia
+T30	PROCEDIMIENTO 2201 2221	Estudio cardiológico
+T31	PROCEDIMIENTO 2223 2229	Holter
+T32	PROCEDIMIENTO 2231 2245	ecocardiograma
+T33	PROCEDIMIENTO 2248 2266	test de la burbuja
+T34	PROCEDIMIENTO 2576 2606	tratamiento con anticomiciales
+T35	PROCEDIMIENTO 2609 2623	antiagregantes
+T36	PROCEDIMIENTO 2823 2832	analgesia
+T37	PROCEDIMIENTO 3114 3126	TC de cráneo
+T38	PROCEDIMIENTO 3681 3686	SPECT
+T39	PROCEDIMIENTO 4338 4368	Resonancia magnética de cráneo
+T40	PROCEDIMIENTO 4940 4954	antiagregantes
+T41	NEG 35 38	sin
+T42	NSCO 39 62	antecedentes de interés
+T43	NEG 245 248	sin
+T44	NSCO 249 260	traumatismo
+T45	NEG 353 356	sin
+T46	NSCO 357 394	consulta en ningún servicio sanitario
+T47	NEG 396 399	sin
+T48	NSCO 400 416	mejoría completa
+T49	NEG 728 731	sin
+T50	NSCO 732 782	saber dónde se encontraba ni lo que había ocurrido
+T51	NEG 1009 1016	afebril
+T52	NEG 1079 1082	sin
+T53	NSCO 1083 1089	soplos
+T54	NEG 1122 1125	sin
+T55	NSCO 1126 1158	ruidos patológicos sobreañadidos
+T56	UNC 1402 1410	probable
+T57	USCO 1411 1439	hemianopsia homónima derecha
+T58	NEG 1597 1599	No
+T59	NSCO 1600 1610	dismetrías
+T60	NEG 1863 1865	no
+T61	NSCO 1866 1934	se observaron alteraciones vasculares, ni signos de trombosis venosa
+T62	NEG 2038 2041	sin
+T63	NSCO 2042 2051	hallazgos
+T64	NEG 2189 2197	negativo
+T65	UNC 2382 2389	posible
+T66	USCO 2390 2403	origen tóxico
+T67	NEG 2625 2627	No
+T68	NSCO 2628 2657	volvió a presentar más crisis
+T69	NEG 2810 2812	no
+T70	NSCO 2813 2849	cedía con analgesia y déficit visual
+T71	UNC 3531 3545	compatible con
+T72	USCO 3546 3622	una encefalopatía difusa de etiología inespecífica con componente multifocal
+T73	UNC 4394 4408	compatible con
+T74	USCO 4409 4485	infarto agudo en evolución en el territorio de la arteria cerebral posterior
+T75	FARMACO 4907 4920	levetiracetam
+T76	FARMACO 4922 4937	ácido valproico
+T77	ORG_VIVO 10 15	Varón
+T78	ORG_VIVO 85 93	paciente
+T79	ORG_VIVO 124 130	tabaco
+T80	ORG_VIVO 133 141	cannabis
+T81	ORG_VIVO 343 351	paciente
+T82	ORG_VIVO 453 459	amigos
+T83	ORG_VIVO 613 619	padres
+T84	ORG_VIVO 687 693	animal
+T85	ORG_VIVO 710 718	paciente
+T86	ORG_VIVO 898 916	personal sanitario
+T87	ORG_VIVO 1291 1298	persona
+T88	ORG_VIVO 4862 4870	paciente
+T89	ENFERMEDAD 103 141	consumo ocasional de tabaco y cannabis
+T90	ENFERMEDAD 844 878	crisis tónico-clónica generalizada
+T91	ENFERMEDAD 1411 1431	hemianopsia homónima
+T92	ENFERMEDAD 1794 1849	lesión hipodensa temporal-izquierda de aspecto vascular
+T93	ENFERMEDAD 1918 1934	trombosis venosa
+T94	ENFERMEDAD 1960 1986	lesión irritativa temporal
+T95	ENFERMEDAD 2077 2151	lesión isquémica aguda en la región posterior de la arteria cerebral media
+T96	ENFERMEDAD 2292 2403	Accidente cerebrovascular isquémico del territorio de arteria cerebral media izquierda de posible origen tóxico
+T97	ENFERMEDAD 2680 2700	hemianopsia homónima
+T98	ENFERMEDAD 3128 3200	lesión hipodensa en el territorio posterior de la arteria cerebral media
+T99	ENFERMEDAD 3297 3314	síndrome de Melas
+T100	ENFERMEDAD 3438 3455	síndrome de Melas
+T101	ENFERMEDAD 3550 3570	encefalopatía difusa
+T102	ENFERMEDAD 4409 4485	infarto agudo en evolución en el territorio de la arteria cerebral posterior
+T103	ENFERMEDAD 4553 4657	necrosis cortical en el territorio frontera de la arteria cerebral posterior y la arteria cerebral media
+T104	ENFERMEDAD 4673 4686	atrofia focal
+T105	ENFERMEDAD 4989 5006	crisis comiciales
+T106	SANITARIO-PROFESION 898 929	personal sanitario de urgencias

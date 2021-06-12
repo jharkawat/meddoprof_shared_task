@@ -1,0 +1,9 @@
+
+Ideación	O
+delirante	O
+de	O
+perjuicio	O
+hacia	O
+su	O
+familia	O
+.	O

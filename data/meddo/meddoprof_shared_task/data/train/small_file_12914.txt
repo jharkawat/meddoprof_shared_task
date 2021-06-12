@@ -1,0 +1,19 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+realización	O
+de	O
+una	O
+vía	O
+posterior	O
+aislada	O
+dificultaría	O
+enormemente	O
+la	O
+extracción	O
+del	O
+disco	O
+protruido	O
+.	O

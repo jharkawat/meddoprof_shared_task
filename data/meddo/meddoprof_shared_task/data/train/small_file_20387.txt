@@ -1,0 +1,12 @@
+
+No	O
+había	O
+antecedentes	O
+de	O
+abusos	O
+sexuales	O
+ni	O
+de	O
+maltrato	O
+físico	O
+.	O

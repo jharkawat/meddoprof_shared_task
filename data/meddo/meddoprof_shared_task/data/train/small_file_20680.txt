@@ -1,0 +1,26 @@
+
+En	O
+el	O
+examen	O
+físico	O
+se	O
+comprobó	O
+:	O
+temperatura	O
+axilar	O
+de	O
+38	O
+°	O
+.	O
+C	O
+,	O
+discreta	O
+rigidez	O
+de	O
+nuca	O
+y	O
+fosa	O
+lumbar	O
+izquierda	O
+dolorosa	O
+.	O

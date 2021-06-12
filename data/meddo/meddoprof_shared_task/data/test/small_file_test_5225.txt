@@ -1,0 +1,18 @@
+
+El	O
+abdomen	O
+era	O
+blando	O
+y	O
+depresible	O
+,	O
+no	O
+doloroso	O
+y	O
+no	O
+se	O
+palpaban	O
+masas	O
+ni	O
+megalias	O
+.	O

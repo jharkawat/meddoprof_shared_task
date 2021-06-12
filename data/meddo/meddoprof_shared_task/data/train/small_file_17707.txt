@@ -1,0 +1,25 @@
+
+Las	O
+punzadas	O
+reaparecieron	O
+con	O
+el	O
+frío	O
+,	O
+sobre	O
+todo	O
+por	O
+las	O
+mañanas	O
+y	O
+con	O
+el	O
+tránsito	O
+entre	O
+temperaturas	O
+suaves	O
+y	O
+el	O
+frío	O
+ambiente	O
+.	O

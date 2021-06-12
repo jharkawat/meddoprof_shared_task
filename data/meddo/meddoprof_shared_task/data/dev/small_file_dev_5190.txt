@@ -1,0 +1,14 @@
+
+Ante	O
+los	O
+hallazgos	O
+analíticos	O
+se	O
+solicita	O
+Coombs	O
+y	O
+serología	O
+para	O
+Paul	O
+Bunnell	O
+.	O

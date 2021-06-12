@@ -1,0 +1,23 @@
+
+Antecedentes	O
+de	O
+tuberculosis	O
+pulmonar	O
+y	O
+mal	O
+de	O
+Pott	O
+en	O
+tratamiento	O
+con	O
+isoniazida	O
+,	O
+pirazinamida	O
+y	O
+rifampicina	O
+,	O
+que	O
+no	O
+sigue	O
+correctamente	O
+.	O

@@ -1,0 +1,22 @@
+
+El	O
+día	O
+previo	O
+al	O
+ingreso	O
+acudió	O
+al	O
+fisioterapeuta	B-PROFESION
+por	O
+dicha	O
+contractura	O
+,	O
+realizándole	O
+tratamiento	O
+con	O
+punción	O
+seca	O
+sobre	O
+trapecio	O
+izquierdo	O
+.	O

@@ -1,0 +1,19 @@
+
+Puntualmente	O
+,	O
+se	O
+ha	O
+reforzado	O
+el	O
+tratamiento	O
+con	O
+algún	O
+antiepiléptico	O
+como	O
+la	O
+pregabalina	O
+150	O
+-	O
+600	O
+mg	O
+.	O

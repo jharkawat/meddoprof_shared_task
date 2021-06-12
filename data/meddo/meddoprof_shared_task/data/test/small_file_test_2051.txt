@@ -1,0 +1,5 @@
+
+Exploración	O
+abdominal	O
+normal	O
+.	O

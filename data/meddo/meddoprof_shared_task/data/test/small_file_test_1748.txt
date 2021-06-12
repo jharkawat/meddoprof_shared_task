@@ -1,0 +1,26 @@
+
+UN	O
+HOMBRE	O
+DE	O
+63	O
+AÑOS	O
+diagnosticado	O
+de	O
+periodontitis	O
+crónica	O
+avanzada	O
+con	O
+presencia	O
+de	O
+un	O
+defecto	O
+intraóseo	O
+profundo	O
+a	O
+nivel	O
+del	O
+diente	O
+2	O
+.	O
+3	O
+.	O

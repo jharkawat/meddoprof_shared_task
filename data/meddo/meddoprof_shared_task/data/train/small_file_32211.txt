@@ -1,0 +1,24 @@
+
+Admite	O
+conductas	O
+heteroagresivas	O
+en	O
+el	O
+pasado	O
+que	O
+normaliza	O
+y	O
+contextualiza	O
+en	O
+el	O
+hecho	O
+de	O
+sentirse	O
+amenazado	O
+en	O
+probable	O
+relación	O
+con	O
+ideación	O
+delirante	O
+.	O

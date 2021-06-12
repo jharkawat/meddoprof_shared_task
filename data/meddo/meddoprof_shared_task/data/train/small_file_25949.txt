@@ -1,0 +1,6 @@
+
+Hemograma	O
+sin	O
+hallazgos	O
+relevantes	O
+.	O

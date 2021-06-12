@@ -1,0 +1,16 @@
+
+Se	O
+realizó	O
+ECG	O
+y	O
+analítica	O
+de	O
+sangre	O
+completa	O
+,	O
+sin	O
+hallazgos	O
+reseñables	O
+en	O
+ambos	O
+.	O

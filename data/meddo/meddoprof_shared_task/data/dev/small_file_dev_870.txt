@@ -1,0 +1,19 @@
+
+Hemograma	O
+,	O
+bioquímica	O
+y	O
+sistemático	O
+de	O
+orina	O
+realizados	O
+durante	O
+los	O
+ingresos	O
+:	O
+resultados	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

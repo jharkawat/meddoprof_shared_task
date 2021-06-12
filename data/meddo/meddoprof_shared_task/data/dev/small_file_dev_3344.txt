@@ -1,0 +1,18 @@
+
+Refiere	O
+que	O
+siguió	O
+tratamiento	O
+durante	O
+3	O
+años	O
+(	O
+2003	O
+-	O
+2006	O
+)	O
+con	O
+citostáticos	O
++	O
+RH3	O
+.	O

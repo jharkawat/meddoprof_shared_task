@@ -1,0 +1,16 @@
+
+Niega	O
+tos	O
+,	O
+expectoración	O
+,	O
+dolor	O
+torácico	O
+,	O
+diarrea	O
+,	O
+disuria	O
+o	O
+lesiones	O
+cutáneas	O
+.	O

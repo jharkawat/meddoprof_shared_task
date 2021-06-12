@@ -1,0 +1,8 @@
+
+Neumonía	O
+bilateral	O
+grave	O
+por	O
+virus	O
+influenza	O
+.	O

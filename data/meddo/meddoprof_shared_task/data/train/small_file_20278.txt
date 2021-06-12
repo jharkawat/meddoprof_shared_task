@@ -1,0 +1,20 @@
+
+Su	O
+planteamiento	O
+vital	O
+es	O
+vivir	O
+como	O
+hacen	O
+algunos	O
+de	O
+sus	O
+colegas	O
+"	O
+sin	O
+trabajar	O
+y	O
+con	O
+sumiendo	O
+"	O
+.	O

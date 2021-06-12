@@ -1,0 +1,18 @@
+
+La	O
+etiología	O
+de	O
+su	O
+debut	O
+fue	O
+la	O
+muerte	O
+de	O
+la	O
+madre	O
+en	O
+un	O
+accidente	O
+de	O
+tránsito	O
+.	O

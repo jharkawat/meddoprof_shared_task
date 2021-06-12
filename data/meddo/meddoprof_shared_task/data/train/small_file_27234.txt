@@ -1,0 +1,26 @@
+
+Cuatro	O
+días	O
+antes	O
+de	O
+su	O
+llegada	O
+a	O
+urgencias	O
+el	O
+paciente	O
+inicia	O
+de	O
+forma	O
+brusca	O
+un	O
+cuadro	O
+clínico	O
+caracterizado	O
+por	O
+una	O
+alteración	O
+en	O
+su	O
+comportamiento	O
+.	O

@@ -1,0 +1,24 @@
+
+Alfredo	O
+muestra	O
+a	O
+la	O
+psicóloga	B-PROFESION
+la	O
+reserva	O
+del	O
+billete	O
+de	O
+avión	O
+,	O
+que	O
+tiene	O
+guardada	O
+en	O
+la	O
+cartera	O
+junto	O
+a	O
+su	O
+pasaporte	O
+.	O

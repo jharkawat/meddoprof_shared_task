@@ -1,0 +1,12 @@
+
+Su	O
+madre	O
+tiene	O
+ideas	O
+de	O
+sí	O
+misma	O
+un	O
+poco	O
+extrañas	O
+.	O

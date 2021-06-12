@@ -1,0 +1,8 @@
+
+En	O
+tratamiento	O
+con	O
+salbutamol	O
+a	O
+demanda	O
+.	O

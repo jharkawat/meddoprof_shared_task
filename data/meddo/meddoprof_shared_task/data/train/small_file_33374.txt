@@ -1,0 +1,22 @@
+
+Buena	O
+actitud	O
+con	O
+personal	B-PROFESION
+sanitario	I-PROFESION
+y	O
+resto	O
+de	O
+pacientes	O
+,	O
+así	O
+como	O
+buen	O
+desarrollo	O
+de	O
+actividades	O
+propuestas	O
+en	O
+la	O
+unidad	O
+.	O

@@ -1,0 +1,27 @@
+
+Dilatación	O
+de	O
+ventrículo	O
+izquierdo	O
+y	O
+disfunción	O
+sistólica	O
+secundarias	O
+,	O
+graves	O
+al	O
+alta	O
+,	O
+actualmente	O
+moderada	O
+(	O
+FEVI	O
+44	O
+%	O
+)	O
+con	O
+clase	O
+funcional	O
+NYHA	O
+I	O
+.	O

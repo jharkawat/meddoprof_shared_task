@@ -1,0 +1,8 @@
+
+Ella	O
+no	O
+se	O
+volvió	O
+a	O
+casar	O
+.	O

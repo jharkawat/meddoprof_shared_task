@@ -1,0 +1,22 @@
+
+Ante	O
+esta	O
+sospecha	O
+se	O
+cambia	O
+el	O
+Ciprofloxacino	O
+por	O
+Ceftriaxona	O
+y	O
+se	O
+inicia	O
+risperidona	O
+1	O
+mg	O
+cada	O
+12	O
+horas	O
+vía	O
+oral	O
+.	O

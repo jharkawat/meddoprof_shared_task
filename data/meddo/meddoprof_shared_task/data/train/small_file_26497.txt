@@ -1,0 +1,27 @@
+
+No	O
+obstante	O
+,	O
+estableció	O
+pocas	O
+relaciones	O
+sociales	O
+,	O
+sin	O
+grupo	O
+de	O
+amigas	O
+estable	O
+,	O
+que	O
+atribuye	O
+a	O
+la	O
+estrecha	O
+relación	O
+que	O
+mantiene	O
+con	O
+su	O
+hermana	O
+.	O

@@ -1,0 +1,24 @@
+
+La	O
+úlcera	O
+no	O
+fue	O
+tratada	O
+con	O
+ningún	O
+antimonial	O
+sino	O
+apenas	O
+con	O
+medicina	O
+"	O
+natural	O
+"	O
+o	O
+"	O
+ancestral	O
+"	O
+propia	O
+del	O
+lugar	O
+.	O

@@ -1,0 +1,18 @@
+
+A	O
+la	O
+enfermería	O
+se	O
+le	O
+ocurrió	O
+la	O
+posibilidad	O
+de	O
+que	O
+se	O
+comunicara	O
+con	O
+nosotros	O
+con	O
+pictogramas	O
+.	O

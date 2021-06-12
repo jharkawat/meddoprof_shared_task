@@ -1,0 +1,10 @@
+
+No	O
+alergias	O
+medicamentosas	O
+conocidas	O
+,	O
+no	O
+IQ	O
+previas	O
+.	O

@@ -1,0 +1,13 @@
+
+Mujer	O
+de	O
+45	O
+años	O
+,	O
+con	O
+periodontitis	O
+moderada	O
+generalizada	O
+localmente	O
+avanzada	O
+.	O

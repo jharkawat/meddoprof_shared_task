@@ -1,0 +1,16 @@
+
+Acude	O
+desde	O
+su	O
+domicilio	O
+,	O
+acompañado	O
+de	O
+su	O
+madre	O
+,	O
+por	O
+alteraciones	O
+de	O
+conducta	O
+.	O

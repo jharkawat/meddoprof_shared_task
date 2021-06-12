@@ -1,0 +1,14 @@
+
+La	O
+imagen	O
+radiológica	O
+era	O
+típica	O
+de	O
+la	O
+enfermedad	O
+de	O
+Hallervorden	O
+-	O
+Spatz	O
+.	O

@@ -1,0 +1,103 @@
+T1	SINTOMA 543 575	alteraciones hematológicas leves
+T2	SINTOMA 1460 1495	alucinaciones auditivas impositivas
+T3	SINTOMA 2083 2093	consciente
+T4	SINTOMA 2096 2134	orientado en tiempo, espacio y persona
+T5	SINTOMA 2178 2186	inquieto
+T6	SINTOMA 2189 2196	ansioso
+T7	SINTOMA 2337 2360	alucinaciones auditivas
+T8	SINTOMA 3125 3154	edemas en miembros inferiores
+T9	SINTOMA 3427 3438	rectorragia
+T10	SINTOMA 3839 3852	plaquetopenia
+T11	PROCEDIMIENTO 765 795	tratamiento psicofarmacológico
+T12	PROCEDIMIENTO 3881 3910	Radiografía simple de abdomen
+T13	PROCEDIMIENTO 3988 3991	TAC
+T14	PROCEDIMIENTO 4413 4425	hemocultivos
+T15	PROCEDIMIENTO 4427 4447	radiografía de tórax
+T16	PROCEDIMIENTO 4449 4468	ecografía abdominal
+T17	PROCEDIMIENTO 4482 4496	TAC abdominal–
+T18	PROCEDIMIENTO 4856 4886	tratamiento psicofarmacológico
+T19	PROCEDIMIENTO 5070 5093	fármacos antipsicóticos
+T20	UNC 698 705	posible
+T21	USCO 706 726	evolución a cirrosis
+T22	NEG 908 910	no
+T23	NSCO 911 952	cumplimiento del paciente en este sentido
+T24	NEG 1201 1209	retirada
+T25	NEG 2452 2454	No
+T26	NSCO 2455 2499	presenta una ideación delirante estructurada
+T27	NEG 3312 3314	no
+T28	NSCO 3315 3388	es descartable completamente la microperforación postoperatoria abdominal
+T29	NEG 3410 3413	sin
+T30	NSCO 3414 3425	perforación
+T31	NEG 3968 3971	Sin
+T32	NSCO 3972 3986	neumoperitoneo
+T33	NEG 4065 4068	sin
+T34	NSCO 4069 4141	extravasación de contraste, gas, ni colecciones líquidas en pelvis menor
+T35	NEG 4287 4290	sin
+T36	NSCO 4291 4306	otros hallazgos
+T37	UNC 4704 4711	posible
+T38	USCO 4712 4735	causa de la neutropenia
+T39	NEG 6052 6054	no
+T40	NSCO 6055 6081	se discontinuaba clozapina
+T41	NEG 6750 6758	retirada
+T42	NSCO 6759 6784	progresiva de risperidona
+T43	FARMACO 207 216	clozapina
+T44	FARMACO 470 479	clozapina
+T45	FARMACO 1227 1236	clozapina
+T46	FARMACO 1242 1252	quetiapina
+T47	FARMACO 1278 1289	aripiprazol
+T48	FARMACO 5127 5137	quetiapina
+T49	FARMACO 5139 5150	aripiprazol
+T50	FARMACO 5152 5162	olanzapina
+T51	FARMACO 5164 5175	haloperidol
+T52	FARMACO 5177 5188	risperidona
+T53	FARMACO 5420 5429	clozapina
+T54	FARMACO 5610 5619	clozapina
+T55	FARMACO 5954 5963	clozapina
+T56	FARMACO 6072 6081	clozapina
+T57	FARMACO 6342 6351	clozapina
+T58	FARMACO 6653 6662	clozapina
+T59	FARMACO 6699 6704	litio
+T60	FARMACO 6773 6784	risperidona
+T61	FARMACO 6928 6933	litio
+T62	FARMACO 6967 6976	clozapina
+T63	ORG_VIVO 49 54	varón
+T64	ORG_VIVO 316 324	cannabis
+T65	ORG_VIVO 522 530	paciente
+T66	ORG_VIVO 928 936	paciente
+T67	ORG_VIVO 1318 1326	paciente
+T68	ORG_VIVO 1849 1857	paciente
+T69	ORG_VIVO 2063 2071	paciente
+T70	ORG_VIVO 2127 2134	persona
+T71	ORG_VIVO 2285 2293	paciente
+T72	ORG_VIVO 5281 5289	paciente
+T73	ORG_VIVO 5291 5301	familiares
+T74	ORG_VIVO 6446 6454	paciente
+T75	ORG_VIVO 6461 6471	familiares
+T76	ORG_VIVO 6832 6840	paciente
+T77	ENFERMEDAD 86 109	esquizofrenia paranoide
+T78	ENFERMEDAD 125 129	1990
+T79	ENFERMEDAD 139 157	síndrome defectual
+T80	ENFERMEDAD 290 324	consumo tóxico (alcohol y cannabis
+T81	ENFERMEDAD 650 667	hepatitis crónica
+T82	ENFERMEDAD 681 692	hepatitis C
+T83	ENFERMEDAD 718 726	cirrosis
+T84	ENFERMEDAD 992 1010	patología hepática
+T85	ENFERMEDAD 1079 1090	neutropenia
+T86	ENFERMEDAD 3390 3409	laceración de recto
+T87	ENFERMEDAD 3440 3452	anemia aguda
+T88	ENFERMEDAD 3454 3472	shock hipovolémico
+T89	ENFERMEDAD 3474 3493	fallo multiorgánico
+T90	ENFERMEDAD 3495 3507	coagulopatía
+T91	ENFERMEDAD 3825 3836	neutropenia
+T92	ENFERMEDAD 3839 3852	plaquetopenia
+T93	ENFERMEDAD 3942 3966	cuerpo extraño en pelvis
+T94	ENFERMEDAD 3972 3986	neumoperitoneo
+T95	ENFERMEDAD 4013 4027	neumoperitoneo
+T96	ENFERMEDAD 4329 4348	hepatopatía crónica
+T97	ENFERMEDAD 4602 4619	cirrosis hepática
+T98	ENFERMEDAD 4623 4661	SEGUIMIENTO EN LOS DISTINTOS SERVICIOS
+T99	ENFERMEDAD 4724 4735	neutropenia
+T100	ENFERMEDAD 4833 4850	cirrosis hepática
+T101	ENFERMEDAD 5920 5931	neutropenia
+T102	ENFERMEDAD 6110 6121	neutropenia
+T103	ENFERMEDAD 6373 6394	discrasias sanguíneas

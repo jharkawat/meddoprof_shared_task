@@ -1,0 +1,10 @@
+
+Clínicamente	O
+se	O
+presenta	O
+con	O
+dolor	O
+y	O
+edema	O
+local	O
+.	O

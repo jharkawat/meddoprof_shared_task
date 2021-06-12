@@ -1,0 +1,27 @@
+
+El	O
+paciente	O
+presentó	O
+eccema	O
+diseminado	O
+,	O
+con	O
+lesiones	O
+eritematosas	O
+,	O
+vesiculosas	O
+y	O
+exudativas	O
+intensamente	O
+pruriginosas	O
+que	O
+en	O
+la	O
+evolución	O
+devienen	O
+eritematosas	O
+,	O
+escamosas	O
+y	O
+costrosas	O
+.	O

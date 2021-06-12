@@ -1,0 +1,11 @@
+
+Periodo	O
+neonatal	O
+:	O
+ingreso	O
+al	O
+nacimiento	O
+por	O
+bajo	O
+peso	O
+.	O

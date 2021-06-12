@@ -1,0 +1,6 @@
+
+Depresión	O
+e	O
+hipertensión	O
+arterial	O
+.	O

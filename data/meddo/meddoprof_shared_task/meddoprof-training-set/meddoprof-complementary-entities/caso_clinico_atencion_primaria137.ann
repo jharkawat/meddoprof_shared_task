@@ -1,0 +1,54 @@
+T1	SINTOMA 89 98	lumbalgia
+T2	SINTOMA 371 395	incapacidad para micción
+T3	SINTOMA 537 542	dolor
+T4	SINTOMA 544 579	anestesia en periné y globo vesical
+T5	SINTOMA 725 736	parestesias
+T6	SINTOMA 739 759	anestesia hemiperiné
+T7	SINTOMA 772 790	retención urinaria
+T8	SINTOMA 792 807	paresia leve L5
+T9	SINTOMA 826 839	estreñimiento
+T10	SINTOMA 1465 1476	parestesias
+T11	SINTOMA 1554 1568	tenesmo rectal
+T12	SINTOMA 1730 1739	lumbalgia
+T13	PROCEDIMIENTO 180 191	corticoides
+T14	PROCEDIMIENTO 194 215	relajantes musculares
+T15	PROCEDIMIENTO 454 481	Sondaje Vesical transitorio
+T16	PROCEDIMIENTO 884 887	RMN
+T17	PROCEDIMIENTO 1284 1318	Discectomía L5S1 central izquierda
+T18	PROCEDIMIENTO 1354 1361	sondaje
+T19	PROCEDIMIENTO 1387 1412	Tratamiento rehabilitador
+T20	PROCEDIMIENTO 1417 1429	fisioterapia
+T21	PROCEDIMIENTO 1612 1629	retirada de sonda
+T22	PROCEDIMIENTO 1656 1670	rehabilitación
+T23	NEG 106 109	Sin
+T24	NSCO 110 117	mejoría
+T25	NEG 281 293	inespecífica
+T26	NEG 371 382	incapacidad
+T27	NSCO 383 395	para micción
+T28	NEG 1023 1026	sin
+T29	NSCO 1027 1032	hijos
+T30	NEG 1173 1185	inespecífica
+T31	NEG 1342 1353	Retirada de
+T32	NSCO 1354 1361	sondaje
+T33	NEG 1508 1510	no
+T34	NSCO 1511 1529	control de micción
+T35	NEG 1612 1623	retirada de
+T36	NSCO 1624 1629	sonda
+T37	NEG 1672 1675	sin
+T38	NSCO 1676 1706	sonda con micción con esfuerzo
+T39	ORG_VIVO 68 73	Mujer
+T40	ORG_VIVO 927 935	familiar
+T41	ORG_VIVO 943 964	familiar homoparental
+T42	ORG_VIVO 1014 1022	conyugal
+T43	ORG_VIVO 1027 1032	hijos
+T44	ORG_VIVO 1037 1048	ama de casa
+T45	ORG_VIVO 1123 1130	caballo
+T46	ENFERMEDAD 19 34	Lumbalgia aguda
+T47	ENFERMEDAD 37 55	retención urinaria
+T48	ENFERMEDAD 89 104	lumbalgia aguda
+T49	ENFERMEDAD 671 706	Síndrome Cola de Caballo incompleto
+T50	ENFERMEDAD 792 812	paresia leve L5 y S1
+T51	ENFERMEDAD 889 916	Hernia discal extruida L5S1
+T52	ENFERMEDAD 1109 1130	Síndrome Cola caballo
+T53	PACIENTE-SITUACION_LABORAL 1037 1048	ama de casa
+T54	FAMILIAR-SITUACION_LABORAL 1057 1070	trabaja fuera

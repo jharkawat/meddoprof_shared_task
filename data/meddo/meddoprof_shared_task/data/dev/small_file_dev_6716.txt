@@ -1,0 +1,6 @@
+
+No	O
+había	O
+presentado	O
+fiebre	O
+.	O

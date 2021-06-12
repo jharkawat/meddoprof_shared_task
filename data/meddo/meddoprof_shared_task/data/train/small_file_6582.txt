@@ -1,0 +1,17 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+de	O
+control	O
+no	O
+mostró	O
+ninguna	O
+alteración	O
+,	O
+habiéndose	O
+resuelto	O
+la	O
+neumonía	O
+.	O

@@ -1,0 +1,25 @@
+
+Se	O
+dio	O
+cuenta	O
+de	O
+que	O
+tenía	O
+una	O
+enfermedad	O
+mental	O
+pero	O
+no	O
+pensaba	O
+en	O
+ella	O
+y	O
+no	O
+la	O
+usaba	O
+como	O
+excusa	O
+para	O
+sentirse	O
+desamparado	O
+.	O

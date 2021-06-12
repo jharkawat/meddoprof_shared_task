@@ -1,0 +1,27 @@
+
+La	O
+biopsia	O
+confirma	O
+el	O
+diagnóstico	O
+sospechado	O
+por	O
+la	O
+clínica	O
+de	O
+hiperqueratosis	O
+focal	O
+acral	O
+,	O
+una	O
+entidad	O
+dentro	O
+del	O
+amplio	O
+grupo	O
+de	O
+las	O
+queratodermias	O
+palmoplantares	O
+hereditarias	O
+.	O

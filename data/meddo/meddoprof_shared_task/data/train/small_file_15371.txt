@@ -1,0 +1,12 @@
+
+0	O
+,	O
+35	O
+-	O
+1	O
+,	O
+70	O
+mmol	O
+/	O
+L	O
+.	O

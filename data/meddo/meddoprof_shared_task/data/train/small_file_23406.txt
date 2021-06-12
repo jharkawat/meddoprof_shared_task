@@ -1,0 +1,11 @@
+
+Los	O
+familiares	O
+lo	O
+describen	O
+como	O
+muy	O
+ansioso	O
+y	O
+reservado	O
+.	O

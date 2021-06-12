@@ -1,0 +1,19 @@
+
+TAC	O
+toracoabdominal	O
+:	O
+derrame	O
+pleural	O
+,	O
+ascitis	O
+masiva	O
+,	O
+opacificación	O
+retrograda	O
+de	O
+suprahepáticas	O
+en	O
+relación	O
+con	O
+ICC	O
+.	O

@@ -1,0 +1,7 @@
+
+Pequeño	O
+infarto	O
+crónico	O
+cerebeloso	O
+derecho	O
+.	O

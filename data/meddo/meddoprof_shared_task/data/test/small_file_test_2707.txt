@@ -1,0 +1,10 @@
+
+Condrosarcoma	O
+óseo	O
+de	O
+cuerpo	O
+vertebral	O
+C6	O
+-	O
+C7	O
+.	O

@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+refi	O
+rió	O
+estar	O
+tomando	O
+por	O
+equivocación	O
+3	O
+comprimidos	O
+diarios	O
+de	O
+Levotiroxina	O
+.	O

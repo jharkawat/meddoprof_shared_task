@@ -1,0 +1,12 @@
+
+Abandona	O
+siempre	O
+la	O
+medicación	O
+al	O
+alta	O
+y	O
+mantiene	O
+seguimientos	O
+irregulares	O
+.	O

@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+continúa	O
+el	O
+estudio	O
+con	O
+el	O
+objetivo	O
+de	O
+encontrar	O
+el	O
+tumor	O
+causante	O
+de	O
+este	O
+síndrome	O
+:	O

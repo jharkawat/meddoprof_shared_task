@@ -1,0 +1,27 @@
+
+A	O
+la	O
+exploración	O
+destacaba	O
+un	O
+ECOG	O
+PS	O
+0	O
+,	O
+y	O
+una	O
+llamativa	O
+distensión	O
+abdominal	O
+con	O
+palpación	O
+de	O
+una	O
+masa	O
+o	O
+conglomerado	O
+pétreo	O
+a	O
+nivel	O
+pélvico	O
+.	O

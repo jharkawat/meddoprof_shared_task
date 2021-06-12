@@ -1,0 +1,17 @@
+
+Nódulo	O
+pulmonar	O
+sin	O
+histología	O
+de	O
+malignidad	O
+e	O
+hipermetabólico	O
+en	O
+PET	O
+que	O
+obliga	O
+a	O
+descartar	O
+malignidad	O
+.	O

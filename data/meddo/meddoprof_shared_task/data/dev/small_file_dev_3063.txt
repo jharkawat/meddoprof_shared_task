@@ -1,0 +1,9 @@
+
+NANDA	O
+:	O
+mantenimiento	O
+ineficaz	O
+de	O
+la	O
+salud	O
+.	O

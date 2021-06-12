@@ -1,0 +1,6 @@
+
+Urocultivos	O
+y	O
+hemocultivos	O
+normales	O
+.	O

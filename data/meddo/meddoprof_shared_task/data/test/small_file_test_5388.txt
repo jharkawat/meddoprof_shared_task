@@ -1,0 +1,24 @@
+
+Tras	O
+realización	O
+de	O
+ecografía	O
+abdominal	O
+se	O
+detecta	O
+una	O
+lesión	O
+ocupante	O
+de	O
+espacio	O
+en	O
+el	O
+lóbulo	O
+hepático	O
+derecho	O
+e	O
+ingresa	O
+para	O
+completar	O
+estudio	O
+.	O

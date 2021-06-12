@@ -1,0 +1,10 @@
+
+Su	O
+apariencia	O
+es	O
+de	O
+una	O
+persona	O
+limpia	O
+y	O
+aseada	O

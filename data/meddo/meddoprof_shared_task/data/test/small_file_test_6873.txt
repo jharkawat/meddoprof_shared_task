@@ -1,0 +1,9 @@
+
+No	O
+se	O
+detectaron	O
+cuerpos	O
+cetónicos	O
+en	O
+orina	O
+.	O

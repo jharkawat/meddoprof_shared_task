@@ -1,0 +1,13 @@
+
+Los	O
+campos	O
+pulmonares	O
+no	O
+muestran	O
+nódulos	O
+,	O
+condensación	O
+ni	O
+otras	O
+alteraciones	O
+.	O

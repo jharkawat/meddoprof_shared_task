@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+regresa	O
+a	O
+casa	O
+con	O
+tratamiento	O
+con	O
+antidepresivos	O
+tricíclicos	O
+y	O
+risperidona	O
+.	O

@@ -1,0 +1,23 @@
+
+Inmediatamente	O
+después	O
+de	O
+la	O
+operación	O
+se	O
+le	O
+practicó	O
+un	O
+TAC	O
+de	O
+control	O
+en	O
+el	O
+que	O
+solo	O
+se	O
+observa	O
+un	O
+pequeño	O
+neumoencéfalo	O
+.	O

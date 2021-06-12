@@ -1,0 +1,20 @@
+
+-	O
+TACAR	O
+:	O
+adenopatías	O
+medastínicas	O
+(	O
+paratraqueales	O
+derechas	O
+,	O
+en	O
+ventana	O
+aortopulmonar	O
+y	O
+subcarínicas	O
+)	O
+e	O
+hiliares	O
+bilaterales	O
+.	O

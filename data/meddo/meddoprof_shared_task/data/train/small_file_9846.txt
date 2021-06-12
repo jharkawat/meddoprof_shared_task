@@ -1,0 +1,17 @@
+
+En	O
+este	O
+caso	O
+se	O
+descartaron	O
+rápidamente	O
+puesto	O
+que	O
+el	O
+paciente	O
+no	O
+realizaba	O
+tratamiento	O
+de	O
+forma	O
+habitual	O

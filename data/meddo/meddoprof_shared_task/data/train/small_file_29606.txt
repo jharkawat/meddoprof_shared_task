@@ -1,0 +1,15 @@
+
+La	O
+hermana	O
+tiene	O
+que	O
+acudir	O
+a	O
+diario	O
+a	O
+limpiar	O
+y	O
+llevarle	O
+las	O
+comidas	O
+.	O

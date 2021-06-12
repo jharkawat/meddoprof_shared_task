@@ -1,0 +1,24 @@
+T1	SINTOMA 223 244	agotamiento emocional
+T2	SINTOMA 548 558	angustiada
+T3	SINTOMA 593 613	vivencias paranoides
+T4	SINTOMA 643 661	tono afectivo bajo
+T5	SINTOMA 813 832	síntomas psicóticos
+T6	SINTOMA 902 919	delirio sensitivo
+T7	SINTOMA 939 952	fatigabilidad
+T8	SINTOMA 954 981	desgaste emocional de fondo
+T9	SINTOMA 1142 1160	síntomas afectivos
+T10	SINTOMA 1254 1265	melancólico
+T11	NEG 425 428	sin
+T12	NSCO 429 435	alivio
+T13	UNC 708 721	impresiona de
+T14	USCO 722 741	un cuadro psicótico
+T15	UNC 779 786	sugiere
+T16	USCO 787 832	un episodio depresivo con síntomas psicóticos
+T17	NEG 834 836	No
+T18	FARMACO 1062 1073	Aripiprazol
+T19	FARMACO 1110 1120	Sertralina
+T20	ORG_VIVO 89 97	paciente
+T21	ORG_VIVO 489 499	compañeros
+T22	ENFERMEDAD 146 154	ansiedad
+T23	ENFERMEDAD 725 741	cuadro psicótico
+T24	OTROS-SITUACION_LABORAL 489 499	compañeros

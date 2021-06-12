@@ -1,0 +1,8 @@
+
+Es	O
+la	O
+mayor	O
+de	O
+2	O
+hermanos	O
+.	O

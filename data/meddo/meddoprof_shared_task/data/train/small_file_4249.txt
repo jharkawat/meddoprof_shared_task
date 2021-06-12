@@ -1,0 +1,25 @@
+
+Tratamiento	O
+erradicador	O
+H	O
+.	O
+pylori	O
+(	O
+18	O
+/	O
+01	O
+/	O
+2017	O
+)	O
+Hipertrigliceridemia	O
++	O
+hipercolesterolemia	O
+(	O
+26	O
+/	O
+06	O
+/	O
+2011	O
+)	O
+Obesidad	O
+.	O

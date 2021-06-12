@@ -1,0 +1,27 @@
+
+Al	O
+evaluar	O
+las	O
+radiografías	O
+se	O
+observa	O
+que	O
+no	O
+existe	O
+aparentemente	O
+pérdida	O
+de	O
+inserción	O
+interproximal	O
+,	O
+tampoco	O
+existen	O
+recesiones	O
+vestibulares	O
+ni	O
+linguales	O
+superiores	O
+a	O
+3	O
+mm	O
+.	O

@@ -1,0 +1,17 @@
+
+Fractura	O
+bimaleolar	O
+de	O
+tobillo	O
+derecho	O
+,	O
+fractura	O
+calcáneo	O
+izquierdo	O
+,	O
+fractura	O
+luxación	O
+del	O
+astrágalo	O
+derecho	O
+.	O

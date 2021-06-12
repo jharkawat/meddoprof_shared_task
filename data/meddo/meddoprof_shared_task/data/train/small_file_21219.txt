@@ -1,0 +1,10 @@
+
+Tiene	O
+dos	O
+hijas	O
+de	O
+nueve	O
+y	O
+tres	O
+años	O
+.	O

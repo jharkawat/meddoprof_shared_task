@@ -1,0 +1,14 @@
+
+Coleman	O
+explicó	O
+que	O
+había	O
+acudido	O
+al	O
+SU	O
+por	O
+indicación	O
+de	O
+su	O
+hermana	O
+.	O

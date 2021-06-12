@@ -1,0 +1,11 @@
+
+Fue	O
+intervenido	O
+quirúrgicamente	O
+de	O
+una	O
+hernia	O
+umbilical	O
+y	O
+apendicectomizado	O
+.	O

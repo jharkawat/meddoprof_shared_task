@@ -1,0 +1,16 @@
+
+En	O
+el	O
+resto	O
+del	O
+estudio	O
+de	O
+extensión	O
+no	O
+se	O
+apreciaron	O
+adenopatías	O
+de	O
+aspecto	O
+patológico	O
+.	O

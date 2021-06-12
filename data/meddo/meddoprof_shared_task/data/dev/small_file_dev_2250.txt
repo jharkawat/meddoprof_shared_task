@@ -1,0 +1,16 @@
+
+El	O
+estudio	O
+Doppler	O
+de	O
+las	O
+arterias	O
+uterinas	O
+presenta	O
+un	O
+índice	O
+de	O
+pulsatilidad	O
+medio	O
+normal	O
+.	O

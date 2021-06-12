@@ -1,0 +1,12 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+se	O
+objetiva	O
+bradipsiquia	O
+,	O
+con	O
+bradicinesia	O
+.	O

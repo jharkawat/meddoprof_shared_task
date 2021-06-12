@@ -1,0 +1,24 @@
+
+En	O
+los	O
+días	O
+siguientes	O
+,	O
+la	O
+debilidad	O
+progresa	O
+hasta	O
+dificultar	O
+la	O
+marcha	O
+,	O
+motivo	O
+por	O
+el	O
+que	O
+decide	O
+finalmente	O
+acudir	O
+a	O
+Urgencias	O
+.	O

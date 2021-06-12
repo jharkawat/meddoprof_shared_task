@@ -1,0 +1,24 @@
+
+Nos	O
+consta	O
+que	O
+se	O
+le	O
+reduce	O
+y	O
+se	O
+inicia	O
+tratamiento	O
+sedativo	O
+con	O
+midazolam	O
+y	O
+clorpromazina	O
+,	O
+añadidos	O
+a	O
+haloperidol	O
+por	O
+vía	O
+intravenosa	O
+.	O

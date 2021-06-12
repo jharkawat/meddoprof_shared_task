@@ -1,0 +1,25 @@
+
+Sin	O
+embargo	O
+,	O
+cuando	O
+se	O
+hizo	O
+evidente	O
+que	O
+ésta	O
+iba	O
+a	O
+morir	O
+,	O
+se	O
+agitó	O
+mucho	O
+y	O
+tuvo	O
+que	O
+ser	O
+hospitalizado	O
+con	O
+urgencia	O
+.	O

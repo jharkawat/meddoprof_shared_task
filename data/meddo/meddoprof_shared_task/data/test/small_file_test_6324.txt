@@ -1,0 +1,8 @@
+
+No	O
+refiere	O
+traumatismo	O
+previo	O
+ni	O
+sobreesfuerzo	O
+.	O

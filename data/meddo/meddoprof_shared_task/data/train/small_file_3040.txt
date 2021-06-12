@@ -1,0 +1,24 @@
+
+Tras	O
+mejoría	O
+de	O
+la	O
+clínica	O
+y	O
+con	O
+los	O
+resultados	O
+obtenidos	O
+se	O
+deriva	O
+al	O
+alta	O
+con	O
+diagnóstico	O
+de	O
+cólico	O
+renal	O
+y	O
+analgesia	O
+domiciliaria	O
+.	O

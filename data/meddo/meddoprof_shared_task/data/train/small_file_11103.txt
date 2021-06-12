@@ -1,0 +1,6 @@
+
+Escasa	O
+tos	O
+sin	O
+expectoración	O
+.	O

@@ -1,0 +1,46 @@
+T1	SINTOMA 76 88	dolor lumbar
+T2	SINTOMA 208 269	pérdida importante de fuerza en ambas extremidades inferiores
+T3	SINTOMA 321 331	consciente
+T4	SINTOMA 333 342	orientado
+T5	SINTOMA 344 355	colaborador
+T6	SINTOMA 357 365	Eupneico
+T7	SINTOMA 504 530	Abdomen blando, depresible
+T8	SINTOMA 673 720	reflejos conservados en extremidades superiores
+T9	SINTOMA 2104 2109	dolor
+T10	PROCEDIMIENTO 301 319	Exploración física
+T11	PROCEDIMIENTO 563 586	exploración neurológica
+T12	PROCEDIMIENTO 1237 1246	hemograma
+T13	PROCEDIMIENTO 1309 1320	Rx de tórax
+T14	PROCEDIMIENTO 1379 1419	RMN de columna cervical, dorsal y lumbar
+T15	PROCEDIMIENTO 1615 1629	Angio-TC aorta
+T16	PROCEDIMIENTO 1924 1938	drenaje de LCR
+T17	PROCEDIMIENTO 2352 2393	reparación endovascular de aorta torácica
+T18	PROCEDIMIENTO 2408 2438	endoprótesis de aorta torácica
+T19	PROCEDIMIENTO 2506 2509	TAC
+T20	NEG 98 100	no
+T21	NSCO 101 110	irradiado
+T22	NEG 271 274	sin
+T23	NSCO 275 299	otra clínica acompañante
+T24	NEG 376 379	sin
+T25	NSCO 380 387	oxígeno
+T26	NEG 532 535	sin
+T27	NSCO 536 556	hallazgos de interés
+T28	NEG 932 934	no
+T29	NSCO 935 966	se obtiene cremastérico derecho
+T30	NEG 1080 1093	Imposibilidad
+T31	NSCO 1094 1115	para la bipedestación
+T32	NEG 1421 1423	no
+T33	NSCO 1424 1517	alteraciones en morfología ni intensidad de señal del cordón medular, ni patología compresiva
+T34	UNC 1824 1836	sugestiva de
+T35	USCO 1837 1899	hematoma intramural o disección crónica dentro de la luz falsa
+T36	NEG 2023 2032	retirando
+T37	NSCO 2033 2058	el catéter a las 48 horas
+T38	NEG 2570 2573	sin
+T39	NSCO 2574 2614	migración ni extravasación del contraste
+T40	FARMACO 380 387	oxígeno
+T41	ORG_VIVO 0 5	Varón
+T42	ENFERMEDAD 1497 1517	patología compresiva
+T43	ENFERMEDAD 1837 1856	hematoma intramural
+T44	ENFERMEDAD 2162 2172	HTA severa
+T45	ENFERMEDAD 2247 2267	hematoma periaórtico
+T46	ENFERMEDAD 2277 2292	derrame pleural

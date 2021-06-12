@@ -1,0 +1,10 @@
+
+APARATO	O
+GASTROINTESTINAL	O
+:	O
+gastritis	O
+,	O
+Y	O
+hematoqueXia	O
+ocasional	O
+.	O

@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+experimentó	O
+un	O
+postoperatorio	O
+complicado	O
+con	O
+íleo	O
+paralítico	O
+y	O
+aparición	O
+de	O
+fístula	O
+enterocutánea	O
+,	O
+que	O
+posteriormente	O
+se	O
+resolvió	O
+.	O

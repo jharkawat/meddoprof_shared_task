@@ -1,0 +1,13 @@
+
+En	O
+el	O
+frotis	O
+de	O
+sangre	O
+periférica	O
+se	O
+observa	O
+una	O
+eosinofilia	O
+leve	O
+.	O

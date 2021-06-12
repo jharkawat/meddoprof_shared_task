@@ -1,0 +1,149 @@
+T1	SINTOMA 440 446	disnea
+T2	SINTOMA 495 498	tos
+T3	SINTOMA 503 522	esputos hemoptoicos
+T4	SINTOMA 539 555	pérdida ponderal
+T5	SINTOMA 717 727	Consciente
+T6	SINTOMA 729 738	orientada
+T7	SINTOMA 740 751	taquipneica
+T8	SINTOMA 754 762	disneica
+T9	SINTOMA 767 788	estridor inspiratorio
+T10	SINTOMA 825 879	roncus inspiratorios fijos con predominio en hemitórax
+T11	SINTOMA 890 909	espiración alargada
+T12	SINTOMA 912 953	Abdomen: blando y depresible, no doloroso
+T13	SINTOMA 1006 1012	edemas
+T14	SINTOMA 1189 1233	masa de 6,8 cm en lóbulo inferior del pulmón
+T15	SINTOMA 1609 1658	tumoración a nivel de carina que protruye en cara
+T16	SINTOMA 3148 3170	tos de tipo irritativo
+T17	SINTOMA 3456 3462	disnea
+T18	SINTOMA 3526 3576	disminución del murmullo vesicular en el hemitórax
+T19	SINTOMA 3601 3633	dolor intenso en dicho hemitórax
+T20	SINTOMA 3665 3671	disnea
+T21	SINTOMA 3950 3979	engrosamiento nodular pleural
+T22	SINTOMA 4119 4172	disminución del tamaño de la masa del lóbulo inferior
+T23	SINTOMA 4473 4478	dolor
+T24	SINTOMA 4487 4493	disnea
+T25	SINTOMA 5703 5732	engrosamiento nodular pleural
+T26	SINTOMA 7749 7756	astenia
+T27	SINTOMA 8360 8388	deterioro del estado general
+T28	SINTOMA 8474 8485	falleciendo
+T29	PROCEDIMIENTO 574 592	Exploración física
+T30	PROCEDIMIENTO 1077 1093	Rayos X de tórax
+T31	PROCEDIMIENTO 1129 1174	Tomografía computarizada (TC) toracoabdominal
+T32	PROCEDIMIENTO 1582 1594	Broncoscopia
+T33	PROCEDIMIENTO 1717 1724	biopsia
+T34	PROCEDIMIENTO 1745 1778	punción-aspiración con aguja fina
+T35	PROCEDIMIENTO 1780 1784	PAAF
+T36	PROCEDIMIENTO 1830 1856	Estudio anatomo-patológico
+T37	PROCEDIMIENTO 1859 1887	Biopsia masa carina traqueal
+T38	PROCEDIMIENTO 2047 2073	estudio inmunohistoquímico
+T39	PROCEDIMIENTO 2659 2672	quimioterapia
+T40	PROCEDIMIENTO 2674 2676	QT
+T41	PROCEDIMIENTO 2680 2692	radioterapia
+T42	PROCEDIMIENTO 2694 2696	RT
+T43	PROCEDIMIENTO 2820 2831	RT torácica
+T44	PROCEDIMIENTO 2916 2926	RT externa
+T45	PROCEDIMIENTO 3484 3502	exploración física
+T46	PROCEDIMIENTO 3718 3738	radiografía de tórax
+T47	PROCEDIMIENTO 3901 3919	TC toracoabdominal
+T48	PROCEDIMIENTO 4358 4380	toracocentesis derecha
+T49	PROCEDIMIENTO 4955 4962	biopsia
+T50	PROCEDIMIENTO 5273 5275	TC
+T51	PROCEDIMIENTO 5626 5628	TC
+T52	PROCEDIMIENTO 5943 5967	biopsia con aguja gruesa
+T53	PROCEDIMIENTO 6250 6280	técnicas de inmunohistoquímica
+T54	PROCEDIMIENTO 6726 6762	Tomografía por emisión de positrones
+T55	PROCEDIMIENTO 7187 7213	Gammagrafía con octreótido
+T56	PROCEDIMIENTO 7447 7463	biopsia hepática
+T57	PROCEDIMIENTO 7621 7638	tratamiento de QT
+T58	PROCEDIMIENTO 7965 7976	TC cerebral
+T59	PROCEDIMIENTO 8118 8142	RT holocraneal paliativa
+T60	NEG 114 117	sin
+T61	NSCO 118 133	hábitos tóxicos
+T62	NEG 135 140	nunca
+T63	NSCO 141 149	fumadora
+T64	NEG 183 185	no
+T65	NSCO 186 225	tenía alergias conocidas a medicamentos
+T66	NEG 227 234	tampoco
+T67	NSCO 235 311	antecedentes médico-quirúrgico de interés ni realizaba tratamientos crónicos
+T68	NEG 556 558	no
+T69	NSCO 559 571	cuantificada
+T70	NEG 942 944	no
+T71	NSCO 945 974	doloroso durante la palpación
+T72	NEG 1002 1005	sin
+T73	NSCO 1006 1050	edemas ni datos de trombosis venosa profunda
+T74	NEG 1424 1427	sin
+T75	NSCO 1428 1462	plano de separación con el esófago
+T76	NEG 1564 1567	sin
+T77	NSCO 1568 1580	alteraciones
+T78	NEG 2248 2257	negativos
+T79	UNC 2348 2363	compatibles con
+T80	USCO 2364 2397	carcinoma pobremente diferenciado
+T81	NEG 2398 2400	no
+T82	NSCO 2401 2412	microcítico
+T83	NEG 2753 2765	se desestima
+T84	NSCO 2766 2782	la concomitancia
+T85	NEG 4256 4258	No
+T86	NSCO 4259 4322	se evidenciaron otras alteraciones a nivel torácico o abdominal
+T87	UNC 4827 4839	sugestivo de
+T88	USCO 4840 4854	adenocarcinoma
+T89	NEG 5558 5561	sin
+T90	NSCO 5562 5591	otras toxicidades destacables
+T91	NEG 6352 6365	negativa para
+T92	NSCO 6366 6378	cromogranina
+T93	UNC 6442 6457	compatibles con
+T94	USCO 6458 6495	un tumor neuroendocrino de alto grado
+T95	UNC 6679 6690	sospecha de
+T96	USCO 6691 6724	una segunda neoplasia metacrónica
+T97	NEG 7525 7533	negativo
+T98	NEG 7779 7786	afebril
+T99	NEG 8050 8053	sin
+T100	NSCO 8054 8068	efecto de masa
+T101	NEG 8328 8342	se suspende de
+T102	NSCO 8343 8355	forma precoz
+T103	FARMACO 5207 5216	gefitinib
+T104	FARMACO 7653 7665	carboplatino
+T105	FARMACO 7680 7689	etopósido
+T106	FARMACO 7831 7843	carboplatino
+T107	FARMACO 8243 8252	erlotinib
+T108	ORG_VIVO 23 33	PERSONALES
+T109	ORG_VIVO 34 39	Mujer
+T110	ORG_VIVO 2518 2526	paciente
+T111	ORG_VIVO 2707 2715	paciente
+T112	ORG_VIVO 2885 2893	paciente
+T113	ORG_VIVO 3240 3248	paciente
+T114	ORG_VIVO 3357 3365	paciente
+T115	ORG_VIVO 5134 5142	paciente
+T116	ORG_VIVO 7605 7613	paciente
+T117	ORG_VIVO 7799 7807	paciente
+T118	ORG_VIVO 8418 8426	paciente
+T119	ENFERMEDAD 313 330	ENFERMEDAD ACTUAL
+T120	ENFERMEDAD 1025 1050	trombosis venosa profunda
+T121	ENFERMEDAD 1246 1314	infiltración del bronquio principal hasta la carina y tráquea distal
+T122	ENFERMEDAD 1789 1820	conglomerado adenopático hiliar
+T123	ENFERMEDAD 1913 1932	metaplasia escamosa
+T124	ENFERMEDAD 2364 2412	carcinoma pobremente diferenciado no microcítico
+T125	ENFERMEDAD 2479 2496	Tumores Torácicos
+T126	ENFERMEDAD 2533 2568	adenocarcinoma de pulmón cT4 pN2 M0
+T127	ENFERMEDAD 2933 2948	lesión pulmonar
+T128	ENFERMEDAD 3771 3786	derrame pleural
+T129	ENFERMEDAD 3848 3859	atelectasia
+T130	ENFERMEDAD 3994 4017	adenopatía paratraqueal
+T131	ENFERMEDAD 4840 4854	adenocarcinoma
+T132	ENFERMEDAD 4880 4904	adenocarcinoma de pulmón
+T133	ENFERMEDAD 4920 4938	afectación pleural
+T134	ENFERMEDAD 5088 5108	deleción del exón 19
+T135	ENFERMEDAD 5345 5360	derrame pleural
+T136	ENFERMEDAD 5466 5490	toxicidad cutánea facial
+T137	ENFERMEDAD 5810 5834	adenopatía paraesofágica
+T138	ENFERMEDAD 5860 5892	lesiones subcapsulares hepáticas
+T139	ENFERMEDAD 5988 6020	lesiones subcapsulares hepáticas
+T140	ENFERMEDAD 6461 6495	tumor neuroendocrino de alto grado
+T141	ENFERMEDAD 6568 6587	metástasis hepática
+T142	ENFERMEDAD 6703 6724	neoplasia metacrónica
+T143	ENFERMEDAD 6902 6990	subcapsular hepático, pleural posterior derecho y ganglionar en ligamento gastrohepático
+T144	ENFERMEDAD 7465 7503	carcinoma neuroendocrino de alto grado
+T145	ENFERMEDAD 7548 7576	deleción del exón 19 de EGFR
+T146	ENFERMEDAD 7767 7786	neutropenia afebril
+T147	ENFERMEDAD 7905 7946	convulsiones tónico-clónico generalizadas
+T148	ENFERMEDAD 8003 8049	lesiones ocupantes de espacio supratentoriales
+T149	PACIENTE-PROFESION 75 113	había trabajado en labores de limpieza

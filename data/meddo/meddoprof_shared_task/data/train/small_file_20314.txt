@@ -1,0 +1,25 @@
+
+Estar	O
+con	O
+ellos	O
+y	O
+las	O
+conductas	O
+que	O
+realizan	O
+es	O
+realmente	O
+lo	O
+único	O
+que	O
+le	O
+motiva	O
+,	O
+abandonando	O
+otras	O
+diversiones	O
+o	O
+fuentes	O
+de	O
+placer	O
+.	O

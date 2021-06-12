@@ -1,0 +1,19 @@
+
+Su	O
+marido	O
+la	O
+describe	O
+como	O
+«	O
+psicótica	O
+»	O
+crónica	O
+,	O
+con	O
+cambios	O
+radicales	O
+del	O
+estado	O
+de	O
+ánimo	O
+.	O

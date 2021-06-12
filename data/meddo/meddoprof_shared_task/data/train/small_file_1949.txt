@@ -1,0 +1,19 @@
+
+La	O
+información	O
+sensitiva	O
+de	O
+cada	O
+región	O
+anatómica	O
+es	O
+transmitida	O
+a	O
+un	O
+área	O
+concreta	O
+de	O
+la	O
+corteza	O
+somatosensorial	O
+.	O

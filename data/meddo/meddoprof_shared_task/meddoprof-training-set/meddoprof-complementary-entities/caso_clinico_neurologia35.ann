@@ -1,0 +1,130 @@
+T1	SINTOMA 28 37	exfumador
+T2	SINTOMA 40 47	bebedor
+T3	SINTOMA 463 472	fallecida
+T4	SINTOMA 600 609	fallecido
+T5	SINTOMA 830 864	hormigueos en las manos y los pies
+T6	SINTOMA 880 891	hipoestesia
+T7	SINTOMA 902 925	sensación de pies fríos
+T8	SINTOMA 999 1022	dificultad para caminar
+T9	SINTOMA 1027 1089	pérdida de fuerza de predominio en las extremidades inferiores
+T10	SINTOMA 1121 1161	dificultad para levantarse de las sillas
+T11	SINTOMA 1614 1630	tonos arrítmicos
+T12	SINTOMA 2179 2190	parestesias
+T13	SINTOMA 2228 2344	Sensibilidad vibratoria abolida en las extremidades superiores y levemente disminuida en las extremidades inferiores
+T14	SINTOMA 2470 2501	debilidad de la cintura pélvica
+T15	SINTOMA 3189 3204	proteinorraquia
+T16	SINTOMA 3448 3514	potenciales sensitivos en las extremidades superiores e inferiores
+T17	SINTOMA 3598 3629	disminución de velocidad motora
+T18	PROCEDIMIENTO 393 430	tratamiento con antidiabéticos orales
+T19	PROCEDIMIENTO 757 776	trasplante hepático
+T20	PROCEDIMIENTO 1201 1224	exploración neurológica
+T21	PROCEDIMIENTO 1230 1245	electromiograma
+T22	PROCEDIMIENTO 1577 1590	Examen físico
+T23	PROCEDIMIENTO 1591 1612	Auscultación cardiaca
+T24	PROCEDIMIENTO 1632 1653	Auscultación pulmonar
+T25	PROCEDIMIENTO 1662 1685	Exploración neurológica
+T26	PROCEDIMIENTO 2716 2725	Hemograma
+T27	PROCEDIMIENTO 3301 3354	Tomografía computarizada (TC) tóraco-abdómino-pélvica
+T28	PROCEDIMIENTO 3366 3386	Radiografía de tórax
+T29	PROCEDIMIENTO 3419 3434	Electromiograma
+T30	PROCEDIMIENTO 4036 4059	Biopsia de nervio sural
+T31	PROCEDIMIENTO 4146 4175	Ecocardiografía transtorácica
+T32	PROCEDIMIENTO 4339 4368	Resonancia magnética cardiaca
+T33	PROCEDIMIENTO 4668 4686	Electrocardiograma
+T34	PROCEDIMIENTO 4713 4729	Estudio genético
+T35	PROCEDIMIENTO 5110 5126	estudio genético
+T36	PROCEDIMIENTO 5211 5230	trasplante hepático
+T37	NEG 64 67	sin
+T38	NSCO 68 89	otros hábitos tóxicos
+T39	NEG 205 208	sin
+T40	NSCO 209 241	complicaciones microangiopáticas
+T41	NEG 312 314	no
+T42	NSCO 315 325	infeccioso
+T43	NEG 364 367	sin
+T44	NSCO 368 388	contacto con tóxicos
+T45	NEG 532 534	no
+T46	NSCO 535 547	cosanguíneos
+T47	NEG 1163 1165	No
+T48	NSCO 1166 1191	refería clínica sistémica
+T49	NEG 1417 1428	ausencia de
+T50	NSCO 1429 1438	respuesta
+T51	NEG 1509 1517	falta de
+T52	NSCO 1518 1544	sensibilidad termoalgésica
+T53	NEG 2346 2348	No
+T54	NSCO 2349 2383	discrimina frío/calor en las manos
+T55	NEG 2503 2519	Imposibilidad de
+T56	NSCO 2520 2552	marcha de puntillas y de talones
+T57	NEG 2582 2590	negativo
+T58	NEG 2962 2971	negativos
+T59	NSCO 2988 3064	anticuerpos antineuronales, antigangliósidos, ENA, ANA, ANCA, crioglobulinas
+T60	NEG 3066 3075	negativos
+T61	NEG 3267 3276	negativos
+T62	NEG 3388 3391	sin
+T63	NSCO 3392 3415	alteraciones de interés
+T64	NEG 3436 3447	ausencia de
+T65	NSCO 3448 3501	potenciales sensitivos en las extremidades superiores
+T66	NEG 3716 3727	Ausencia de
+T67	NSCO 3728 3782	potencial motor en los peroneos y tibiales posteriores
+T68	UNC 3948 3962	Compatible con
+T69	USCO 3963 4001	polineuropatía sensitivo motora axonal
+T70	NEG 4061 4063	no
+T71	NSCO 4064 4099	inflamación ni depósito de amiloide
+T72	NEG 4391 4393	no
+T73	NSCO 4394 4402	dilatado
+T74	NEG 4439 4442	sin
+T75	NSCO 4443 4476	alteraciones de la contractilidad
+T76	NEG 4543 4545	no
+T77	NSCO 4546 4577	dilatado con función conservada
+T78	UNC 4625 4637	sugestivo de
+T79	USCO 4638 4664	miocardiopatía infiltrante
+T80	NEG 5168 5170	no
+T81	NSCO 5171 5230	podrá beneficiarse del tafamidis ni del trasplante hepático
+T82	FARMACO 938 949	gabapentina
+T83	ORG_VIVO 10 15	Varón
+T84	ORG_VIVO 261 284	virus de la hepatitis C
+T85	ORG_VIVO 327 335	Jubilado
+T86	ORG_VIVO 445 455	familiares
+T87	ORG_VIVO 457 462	madre
+T88	ORG_VIVO 515 523	hermanos
+T89	ORG_VIVO 525 531	padres
+T90	ORG_VIVO 550 555	mujer
+T91	ORG_VIVO 569 574	varón
+T92	ORG_VIVO 594 599	varón
+T93	ORG_VIVO 645 650	varón
+T94	ORG_VIVO 678 681	Tío
+T95	ORG_VIVO 692 699	materna
+T96	ORG_VIVO 981 989	paciente
+T97	ORG_VIVO 1250 1258	paciente
+T98	ORG_VIVO 2901 2906	HBsAg
+T99	ORG_VIVO 2908 2915	antiHBc
+T100	ORG_VIVO 2918 2925	antiHBs
+T101	ORG_VIVO 2938 2945	sífilis
+T102	ORG_VIVO 2947 2955	Borrelia
+T103	ORG_VIVO 2957 2960	VIH
+T104	ORG_VIVO 4764 4772	familiar
+T105	ORG_VIVO 4898 4906	familiar
+T106	ORG_VIVO 5134 5142	hermanos
+T107	ORG_VIVO 5147 5155	paciente
+T108	ORG_VIVO 5160 5167	enfermo
+T109	ENFERMEDAD 28 37	exfumador
+T110	ENFERMEDAD 91 112	hipertensión arterial
+T111	ENFERMEDAD 114 147	fibrilación auricular paroxística
+T112	ENFERMEDAD 149 176	diabetes mellitus de tipo 2
+T113	ENFERMEDAD 273 284	hepatitis C
+T114	ENFERMEDAD 629 643	tumor cerebral
+T115	ENFERMEDAD 669 676	linfoma
+T116	ENFERMEDAD 1284 1335	polineuropatía desmielinizante inflamatoria crónica
+T117	ENFERMEDAD 1337 1341	CIDP
+T118	ENFERMEDAD 1474 1494	quemadura en la mano
+T119	ENFERMEDAD 3963 4001	polineuropatía sensitivo motora axonal
+T120	ENFERMEDAD 4177 4237	miocardiopatía hipertrófica concéntrica grave del ventrículo
+T121	ENFERMEDAD 4307 4335	Hipertensión pulmonar ligera
+T122	ENFERMEDAD 4638 4664	miocardiopatía infiltrante
+T123	ENFERMEDAD 4688 4709	fibrilación auricular
+T124	ENFERMEDAD 4752 4772	amiloidosis familiar
+T125	ENFERMEDAD 4784 4855	mutación valina- 30-metionina en el exón 2 del gen de la transtirretina
+T126	ENFERMEDAD 4870 4940	Polineuropatía amiloidótica familiar por mutación de la transtirretina
+T127	ENFERMEDAD 4942 4949	PAF-TTR
+T128	ENFERMEDAD 4992 5030	Miocardiopatía hipertrófica secundaria
+T129	PACIENTE-SITUACION_LABORAL 327 335	Jubilado
+T130	PACIENTE-PROFESION 337 363	trabajó en la construcción

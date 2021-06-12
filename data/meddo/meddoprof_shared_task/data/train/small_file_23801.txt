@@ -1,0 +1,23 @@
+
+A	O
+los	O
+14	O
+años	O
+inició	O
+un	O
+cuadro	O
+clínico	O
+caracterizado	O
+por	O
+sintomatología	O
+ansiosa	O
+y	O
+depresiva	O
+y	O
+realizó	O
+un	O
+primer	O
+intento	O
+de	O
+suicidio	O
+.	O

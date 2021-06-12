@@ -1,0 +1,16 @@
+
+Se	O
+suspende	O
+la	O
+amiodarona	O
+y	O
+el	O
+bisoprolol	O
+y	O
+se	O
+aumentan	O
+las	O
+cifras	O
+de	O
+potasio	O
+.	O

@@ -1,0 +1,25 @@
+
+Otras	O
+enfermedades	O
+a	O
+tener	O
+en	O
+cuenta	O
+ante	O
+un	O
+cuadro	O
+de	O
+fiebre	O
+tras	O
+un	O
+viaje	O
+del	O
+extranjero	O
+serían	O
+la	O
+fiebre	O
+tifoidea	O
+o	O
+el	O
+dengue	O
+.	O

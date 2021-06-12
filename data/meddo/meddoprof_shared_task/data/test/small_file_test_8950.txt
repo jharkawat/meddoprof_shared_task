@@ -1,0 +1,19 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+se	O
+encuentra	O
+asintomático	O
+y	O
+con	O
+enfermedad	O
+estabilizada	O
+en	O
+los	O
+controles	O
+por	O
+TC	O
+habituales	O
+.	O

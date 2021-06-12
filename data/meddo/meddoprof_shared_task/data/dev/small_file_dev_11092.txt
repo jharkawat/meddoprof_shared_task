@@ -1,0 +1,7 @@
+
+Indigestión	O
+,	O
+náuseas	O
+o	O
+vómitos	O
+.	O

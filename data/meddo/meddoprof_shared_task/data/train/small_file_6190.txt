@@ -1,0 +1,11 @@
+
+Niega	O
+fiebre	O
+,	O
+ni	O
+supuración	O
+,	O
+ni	O
+inflamación	O
+articular	O
+.	O

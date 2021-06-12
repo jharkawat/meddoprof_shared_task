@@ -1,0 +1,14 @@
+
+En	O
+el	O
+LCR	O
+podemos	O
+encontrar	O
+pleocitosis	O
+linfocitaria	O
+y	O
+concentración	O
+elevada	O
+de	O
+proteínas	O
+.	O

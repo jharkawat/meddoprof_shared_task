@@ -1,0 +1,23 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+el	O
+paciente	O
+presenta	O
+un	O
+excelente	O
+estado	O
+general	O
+y	O
+el	O
+plan	O
+es	O
+iniciar	O
+adyuvancia	O
+con	O
+cisplatino	O
+-	O
+vinorelbina	O
+.	O

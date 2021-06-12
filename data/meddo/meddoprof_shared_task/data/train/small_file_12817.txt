@@ -1,0 +1,8 @@
+
+Es	O
+hipertenso	O
+en	O
+tratamiento	O
+con	O
+Valsartán	O
+.	O

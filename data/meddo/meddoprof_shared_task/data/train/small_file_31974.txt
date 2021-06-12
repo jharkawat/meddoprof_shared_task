@@ -1,0 +1,22 @@
+
+NIC	O
+:	O
+Manejo	O
+de	O
+la	O
+nutrición	O
+(	O
+1100	O
+)	O
+:	O
+Ayuda	O
+o	O
+proporcionar	O
+una	O
+dieta	O
+equilibrada	O
+de	O
+sólidos	O
+y	O
+líquidos	O
+.	O

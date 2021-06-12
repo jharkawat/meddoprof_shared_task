@@ -1,0 +1,25 @@
+
+Carcinoma	O
+renal	O
+de	O
+células	O
+claras	O
+,	O
+Fuhrman	O
+2	O
+,	O
+estadio	O
+IV	O
+(	O
+metástasis	O
+pancreáticas	O
+,	O
+hepáticas	O
+,	O
+suprarrenales	O
+,	O
+tiroides	O
+y	O
+mamarias	O
+)	O
+.	O

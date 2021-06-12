@@ -1,0 +1,10 @@
+
+Intervención	O
+quirúrgica	O
+fractura	O
+de	O
+fémur	O
+hace	O
+tres	O
+meses	O
+.	O

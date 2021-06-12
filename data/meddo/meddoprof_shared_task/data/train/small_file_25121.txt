@@ -1,0 +1,10 @@
+
+Sigue	O
+tratamiento	O
+con	O
+depakine	O
+500	O
+mgr	O
+/	O
+d	O
+.	O

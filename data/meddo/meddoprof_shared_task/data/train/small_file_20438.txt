@@ -1,0 +1,10 @@
+
+Pasaba	O
+la	O
+mayor	O
+parte	O
+del	O
+tiempo	O
+a	O
+solas	O
+.	O

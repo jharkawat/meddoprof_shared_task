@@ -1,0 +1,20 @@
+
+Niega	O
+HTA	O
+,	O
+sangrado	O
+Gastrointestinal	O
+bajo	O
+o	O
+alto	O
+,	O
+tuberculosis	O
+,	O
+EPOC	O
+,	O
+ACV	O
+,	O
+asma	O
+,	O
+ICC	O
+.	O

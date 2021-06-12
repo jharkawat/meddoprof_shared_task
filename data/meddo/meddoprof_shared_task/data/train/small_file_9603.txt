@@ -1,0 +1,26 @@
+
+Seis	O
+días	O
+antes	O
+del	O
+ingreso	O
+el	O
+paciente	O
+debuta	O
+con	O
+síndrome	O
+pseudogripal	O
+con	O
+fiebre	O
+de	O
+hasta	O
+38	O
+,	O
+5o	O
+recibiendo	O
+tratamiento	O
+antipirético	O
+con	O
+mejoría	O
+parcial	O
+.	O

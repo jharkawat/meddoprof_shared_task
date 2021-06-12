@@ -1,0 +1,10 @@
+
+Es	O
+remitido	O
+a	O
+Cirugía	O
+Torácica	O
+donde	O
+realizan	O
+timectomia	O
+.	O

@@ -1,0 +1,10 @@
+
+Eje	O
+:	O
+normal	O
+,	O
+0	O
+-	O
+90	O
++	O
+.	O

@@ -1,0 +1,14 @@
+
+No	O
+pérdida	O
+sensitiva	O
+,	O
+no	O
+pérdida	O
+motora	O
+,	O
+no	O
+alteración	O
+de	O
+esfínteres	O
+.	O

@@ -1,0 +1,9 @@
+
+Su	O
+infancia	O
+había	O
+transcurrido	O
+sin	O
+mayores	O
+problemas	O
+.	O

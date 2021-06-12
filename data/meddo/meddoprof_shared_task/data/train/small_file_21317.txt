@@ -1,0 +1,17 @@
+
+Él	O
+obedeció	O
+y	O
+se	O
+avergonzó	O
+de	O
+lo	O
+que	O
+había	O
+hecho	O
+,	O
+según	O
+cuenta	O
+su	O
+madre	O
+.	O

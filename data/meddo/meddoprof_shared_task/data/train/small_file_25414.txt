@@ -1,0 +1,15 @@
+
+En	O
+esos	O
+momentos	O
+estaba	O
+consumiendo	O
+28	O
+pastillas	O
+/	O
+día	O
+de	O
+paracetamol	O
+/	O
+codeína	O
+.	O

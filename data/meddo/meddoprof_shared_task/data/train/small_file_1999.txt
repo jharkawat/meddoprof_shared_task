@@ -1,0 +1,22 @@
+
+Este	O
+estado	O
+de	O
+hiperexcitabilidad	O
+lleva	O
+al	O
+desarrollo	O
+de	O
+hiperalgesia	O
+,	O
+experimentando	O
+el	O
+paciente	O
+una	O
+exagerada	O
+respuesta	O
+a	O
+los	O
+estímulos	O
+nocivos	O
+.	O

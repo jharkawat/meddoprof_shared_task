@@ -1,0 +1,9 @@
+
+La	O
+TAC	O
+cerebral	O
+no	O
+mostró	O
+datos	O
+relevantes	O
+.	O

@@ -1,0 +1,23 @@
+
+Se	O
+trata	O
+de	O
+un	O
+ingreso	O
+voluntario	O
+motivado	O
+en	O
+el	O
+paciente	O
+por	O
+la	O
+valoración	O
+de	O
+la	O
+falta	O
+de	O
+control	O
+sobre	O
+el	O
+consumo	O
+.	O

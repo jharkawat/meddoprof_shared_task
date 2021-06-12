@@ -1,0 +1,9 @@
+
+Grado	O
+II	O
+de	O
+Fuhrman	O
+(	O
+pT2a	O
+)	O
+.	O

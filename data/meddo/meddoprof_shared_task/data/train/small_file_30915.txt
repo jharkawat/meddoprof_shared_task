@@ -1,0 +1,22 @@
+
+Se	O
+objetiva	O
+una	O
+mejoría	O
+de	O
+los	O
+síntomas	O
+negativos	O
+,	O
+aunque	O
+no	O
+se	O
+consigue	O
+una	O
+remisión	O
+total	O
+de	O
+los	O
+síntomas	O
+positivos	O
+.	O

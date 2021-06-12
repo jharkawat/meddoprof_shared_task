@@ -1,0 +1,19 @@
+
+Trombosis	O
+de	O
+la	O
+vena	O
+poplítea	O
+con	O
+edema	O
+en	O
+la	O
+musculatura	O
+de	O
+la	O
+cara	O
+posterior	O
+de	O
+la	O
+rodilla	O
+.	O

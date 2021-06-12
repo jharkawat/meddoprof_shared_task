@@ -1,0 +1,19 @@
+
+En	O
+la	O
+gasometría	O
+venosa	O
+se	O
+observaba	O
+una	O
+acidosis	O
+respiratoria	O
+,	O
+que	O
+se	O
+normalizó	O
+en	O
+el	O
+control	O
+posterior	O
+.	O

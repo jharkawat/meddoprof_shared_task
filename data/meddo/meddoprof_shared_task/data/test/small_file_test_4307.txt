@@ -1,0 +1,17 @@
+
+Tras	O
+el	O
+tratamiento	O
+quirúrgico	O
+,	O
+desapareció	O
+la	O
+sintomatología	O
+abdominal	O
+y	O
+cutánea	O
+que	O
+presentaba	O
+la	O
+paciente	O
+.	O

@@ -1,0 +1,6 @@
+
+Responsable	B-PROFESION
+clínico	I-PROFESION
+:	O
+Dra	B-PROFESION
+.	I-PROFESION

@@ -1,0 +1,22 @@
+
+Antecedentes	O
+personales	O
+:	O
+Varón	O
+de	O
+73	O
+años	O
+alérgico	O
+a	O
+metamizol	O
+e	O
+inacid	O
+,	O
+e	O
+intolerante	O
+a	O
+la	O
+amoxicilina	O
+/	O
+clavulánico	O
+.	O

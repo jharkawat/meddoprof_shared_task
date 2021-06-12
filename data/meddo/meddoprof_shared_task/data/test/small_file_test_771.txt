@@ -1,0 +1,9 @@
+
+Tiene	O
+un	O
+trastorno	O
+límite	O
+de	O
+la	O
+personalidad	O
+.	O

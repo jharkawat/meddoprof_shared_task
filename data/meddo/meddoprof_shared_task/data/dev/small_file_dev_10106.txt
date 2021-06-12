@@ -1,0 +1,10 @@
+
+Era	O
+una	O
+persona	O
+pusilánime	O
+,	O
+indecisa	O
+y	O
+cautelosa	O
+.	O

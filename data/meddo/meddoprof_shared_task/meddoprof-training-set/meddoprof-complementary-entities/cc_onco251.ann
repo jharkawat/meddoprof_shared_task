@@ -1,0 +1,213 @@
+T1	SINTOMA 361 374	dolor en mama
+T2	SINTOMA 1614 1627	afasia global
+T3	SINTOMA 1649 1655	fiebre
+T4	SINTOMA 1745 1766	inquietud psicomotriz
+T5	SINTOMA 1829 1840	somnolencia
+T6	SINTOMA 1924 1952	pupilas isocóricas reactivas
+T7	SINTOMA 1957 1973	signos meníngeos
+T8	SINTOMA 2010 2025	soplos audibles
+T9	SINTOMA 2113 2182	abdomen tiene ruidos hidroaéreos, es blando y depresible, no doloroso
+T10	SINTOMA 2212 2229	defensa abdominal
+T11	SINTOMA 2243 2264	irritación peritoneal
+T12	SINTOMA 2290 2331	pulsos periféricos palpables y simétricos
+T13	SINTOMA 2337 2343	edemas
+T14	SINTOMA 2641 2651	citopenias
+T15	SINTOMA 2700 2715	síndrome febril
+T16	SINTOMA 3046 3062	hipoglucorraquia
+T17	SINTOMA 3065 3085	hiperproteinorraquia
+T18	SINTOMA 3091 3103	leucocitosis
+T19	SINTOMA 4752 4757	edema
+T20	SINTOMA 5295 5308	afasia global
+T21	SINTOMA 5335 5341	fiebre
+T22	SINTOMA 5431 5447	hipoglucorraquia
+T23	SINTOMA 5450 5470	hiperproteinorraquia
+T24	SINTOMA 6067 6092	hemodinámicamente estable
+T25	SINTOMA 6770 6802	disminución de edema y de tamaño
+T26	SINTOMA 6877 6901	neurológicamente estable
+T27	SINTOMA 6903 6913	consciente
+T28	SINTOMA 6916 6925	orientada
+T29	SINTOMA 7007 7023	asimetría facial
+T30	SINTOMA 7028 7041	rigidez nucal
+T31	SINTOMA 7045 7061	signos meníngeos
+T32	SINTOMA 7066 7076	dismetrías
+T33	SINTOMA 7080 7096	disdiacocinesias
+T34	PROCEDIMIENTO 421 438	ecografía mamaria
+T35	PROCEDIMIENTO 552 575	biopsia de aguja gruesa
+T36	PROCEDIMIENTO 782 793	RMN de mama
+T37	PROCEDIMIENTO 1171 1195	tratamiento neoadyuvante
+T38	PROCEDIMIENTO 1401 1428	TAC toraco-abdomino-pélvico
+T39	PROCEDIMIENTO 1658 1676	Exploración física
+T40	PROCEDIMIENTO 1975 1996	Auscultación cardíaca
+T41	PROCEDIMIENTO 2027 2048	Auscultación pulmonar
+T42	PROCEDIMIENTO 2387 2407	Radiografía de tórax
+T43	PROCEDIMIENTO 2410 2428	electrocardiograma
+T44	PROCEDIMIENTO 2728 2739	TAC craneal
+T45	PROCEDIMIENTO 2899 2927	punción lumbar bajo sedación
+T46	PROCEDIMIENTO 3381 3403	intubación orotraqueal
+T47	PROCEDIMIENTO 3449 3457	sedación
+T48	PROCEDIMIENTO 3471 3495	estudio ampliado del LCR
+T49	PROCEDIMIENTO 3737 3758	PCR virus neurótropos
+T50	PROCEDIMIENTO 3773 3785	hemocultivos
+T51	PROCEDIMIENTO 4423 4435	RM de cráneo
+T52	PROCEDIMIENTO 4618 4627	RM cráneo
+T53	PROCEDIMIENTO 4762 4773	RM cerebral
+T54	PROCEDIMIENTO 5173 5197	tratamiento neoadyuvante
+T55	PROCEDIMIENTO 5343 5354	TAC craneal
+T56	PROCEDIMIENTO 5399 5413	punción lumbar
+T57	PROCEDIMIENTO 5699 5725	extracción de hemocultivos
+T58	PROCEDIMIENTO 5986 6002	retirar sedación
+T59	PROCEDIMIENTO 6104 6127	tratamiento antibiótico
+T60	PROCEDIMIENTO 6369 6392	tratamiento antibiótico
+T61	PROCEDIMIENTO 6443 6465	intubación orotraqueal
+T62	PROCEDIMIENTO 6623 6634	RM cerebral
+T63	PROCEDIMIENTO 6738 6760	tratamiento parenteral
+T64	PROCEDIMIENTO 7135 7148	quimioterapia
+T65	PROCEDIMIENTO 7382 7411	mastectomía radical izquierda
+T66	PROCEDIMIENTO 7416 7445	resección de Madden izquierda
+T67	PROCEDIMIENTO 7448 7463	linfadenectomía
+T68	PROCEDIMIENTO 7783 7795	radioterapia
+T69	NEG 43 46	sin
+T70	NSCO 47 89	antecedentes médico-quirúrgicos de interés
+T71	NEG 700 709	negativos
+T72	NEG 1447 1450	sin
+T73	NSCO 1451 1474	evidencia de enfermedad
+T74	NEG 1849 1852	sin
+T75	NSCO 1853 1869	respuesta verbal
+T76	NEG 1871 1873	no
+T77	NSCO 1874 1901	obedece a órdenes sencillas
+T78	NEG 1954 1956	no
+T79	NSCO 1957 1973	signos meníngeos
+T80	NEG 2006 2009	sin
+T81	NSCO 2010 2025	soplos audibles
+T82	NEG 2084 2087	sin
+T83	NSCO 2088 2108	ruidos sobreañadidos
+T84	NEG 2171 2173	no
+T85	NSCO 2174 2206	doloroso a la palpación profunda
+T86	NEG 2208 2211	sin
+T87	NSCO 2212 2264	defensa abdominal ni signos de irritación peritoneal
+T88	NEG 2333 2336	sin
+T89	NSCO 2337 2360	edemas ni signos de TVP
+T90	NEG 2429 2432	sin
+T91	NSCO 2433 2460	alteraciones significativas
+T92	NEG 2637 2640	sin
+T93	NSCO 2641 2651	citopenias
+T94	NEG 2764 2766	no
+T95	NSCO 2767 2811	se identifican lesiones ocupantes de espacio
+T96	NEG 2813 2815	no
+T97	NSCO 2816 2865	signos de sangrado ni otros hallazgos destacables
+T98	NEG 3104 3107	sin
+T99	NSCO 3108 3153	microorganismos en la tinción de Gram urgente
+T100	NEG 3657 3665	negativa
+T101	NEG 3690 3692	no
+T102	NSCO 3693 3706	fue procesada
+T103	NEG 3759 3767	negativa
+T104	NSCO 3769 3799	Los hemocultivos 2/2 estériles
+T105	NEG 4067 4075	negativo
+T106	NEG 4108 4116	negativo
+T107	UNC 4147 4153	dudosa
+T108	NEG 4159 4167	negativa
+T109	NEG 4187 4196	negativos
+T110	UNC 4517 4531	compatible con
+T111	USCO 4532 4610	un absceso talámico posterior izquierdo asociado a moderado edema perilesional
+T112	NEG 4930 4933	sin
+T113	NSCO 4934 4969	objetivarse imágenes de colecciones
+T114	NEG 5107 5116	negativos
+T115	NEG 5363 5366	sin
+T116	NSCO 5367 5376	hallazgos
+T117	NEG 5505 5514	negativos
+T118	NSCO 5515 5553	en relación a meningoencefalitis aguda
+T119	NEG 5986 5993	retirar
+T120	NSCO 5994 6002	sedación
+T121	NEG 6018 6029	ausencia de
+T122	NSCO 6030 6051	focalidad neurológica
+T123	NEG 7004 7006	no
+T124	NSCO 7007 7023	asimetría facial
+T125	NEG 7025 7027	no
+T126	NSCO 7028 7061	rigidez nucal ni signos meníngeos
+T127	NEG 7063 7065	no
+T128	NSCO 7066 7096	dismetrías ni disdiacocinesias
+T129	NEG 7204 7215	se suspende
+T130	NSCO 7216 7239	el sexto ciclo previsto
+T131	NEG 7707 7710	sin
+T132	NSCO 7711 7734	evidencia de metástasis
+T133	NEG 7751 7754	sin
+T134	NSCO 7755 7767	alteraciones
+T135	NEG 8054 8057	sin
+T136	NSCO 8058 8078	evidencia de recaída
+T137	FARMACO 1233 1238	Taxol
+T138	FARMACO 1265 1276	Trastuzumab
+T139	FARMACO 5223 5228	Taxol
+T140	FARMACO 5231 5242	Trastuzumab
+T141	FARMACO 5801 5813	Piperacilina
+T142	FARMACO 5814 5824	Tazobactam
+T143	FARMACO 5832 5841	Aciclovir
+T144	FARMACO 5853 5864	Vancomicina
+T145	FARMACO 5912 5924	Dexametasona
+T146	FARMACO 6208 6217	Meropenem
+T147	FARMACO 6219 6230	Gentamicina
+T148	FARMACO 6233 6243	Ampicilina
+T149	FARMACO 7174 7179	Taxol
+T150	FARMACO 7182 7193	Trastuzumab
+T151	FARMACO 7889 7900	Trastuzumab
+T152	ORG_VIVO 10 15	Mujer
+T153	ORG_VIVO 104 114	familiares
+T154	ORG_VIVO 118 123	madre
+T155	ORG_VIVO 155 162	hermano
+T156	ORG_VIVO 205 213	paciente
+T157	ORG_VIVO 258 266	camarera
+T158	ORG_VIVO 269 277	cocinera
+T159	ORG_VIVO 1305 1313	paciente
+T160	ORG_VIVO 1570 1578	paciente
+T161	ORG_VIVO 2686 2694	paciente
+T162	ORG_VIVO 3108 3123	microorganismos
+T163	ORG_VIVO 3241 3249	paciente
+T164	ORG_VIVO 3562 3584	bacilos Gram positivos
+T165	ORG_VIVO 3586 3608	Listeria monocytogenes
+T166	ORG_VIVO 3643 3653	criptococo
+T167	ORG_VIVO 3741 3758	virus neurótropos
+T168	ORG_VIVO 3804 3812	paciente
+T169	ORG_VIVO 3964 3972	paciente
+T170	ORG_VIVO 4053 4056	VIH
+T171	ORG_VIVO 4058 4061	VHB
+T172	ORG_VIVO 4063 4066	VHC
+T173	ORG_VIVO 4077 4080	CMV
+T174	ORG_VIVO 4095 4102	Sífilis
+T175	ORG_VIVO 4118 4142	Chlamydophila pneumoniae
+T176	ORG_VIVO 4169 4182	M. Pneumoniae
+T177	ORG_VIVO 4230 4246	Candida albicans
+T178	ORG_VIVO 4248 4253	flora
+T179	ORG_VIVO 4280 4288	aerobios
+T180	ORG_VIVO 4343 4357	levaduriformes
+T181	ORG_VIVO 4984 4998	Paciente mujer
+T182	ORG_VIVO 5492 5514	bacilos gram negativos
+T183	ORG_VIVO 6180 6202	Listeria monocytogenes
+T184	ORG_VIVO 6247 6255	paciente
+T185	ORG_VIVO 7101 7109	paciente
+T186	ORG_VIVO 8005 8013	paciente
+T187	ENFERMEDAD 135 149	cáncer de mama
+T188	ENFERMEDAD 176 200	tumor de cabeza y cuello
+T189	ENFERMEDAD 602 630	Carcinoma ductal infiltrante
+T190	ENFERMEDAD 956 987	neoplasia de mama multicéntrica
+T191	ENFERMEDAD 989 1009	Adenopatías axilares
+T192	ENFERMEDAD 1129 1150	tumores ginecológicos
+T193	ENFERMEDAD 2357 2360	TVP
+T194	ENFERMEDAD 2485 2507	hipopotasemia moderada
+T195	ENFERMEDAD 2509 2526	hiponatremia leve
+T196	ENFERMEDAD 2641 2651	citopenias
+T197	ENFERMEDAD 2700 2715	síndrome febril
+T198	ENFERMEDAD 3188 3236	meningoencefalitis aguda de etiología bacteriana
+T199	ENFERMEDAD 3909 3960	meningoencefalitis aguda por Listeria monocytogenes
+T200	ENFERMEDAD 4477 4505	colección talámica posterior
+T201	ENFERMEDAD 4535 4561	absceso talámico posterior
+T202	ENFERMEDAD 4825 4839	cáncer de mama
+T203	ENFERMEDAD 5014 5050	carcinoma ductal infiltrante de mama
+T204	ENFERMEDAD 5529 5580	meningoencefalitis aguda por Listeria monocytogenes
+T205	ENFERMEDAD 5585 5611	absceso talámico posterior
+T206	ENFERMEDAD 6276 6300	Enfermedades Infecciosas
+T207	ENFERMEDAD 6659 6675	absceso talámico
+T208	ENFERMEDAD 7272 7286	cáncer de mama
+T209	ENFERMEDAD 7514 7530	carcinoma ductal
+T210	ENFERMEDAD 7603 7633	carcinoma intraductal residual
+T211	ENFERMEDAD 7724 7734	metástasis
+T212	PACIENTE-PROFESION 269 277	cocinera
+T213	PACIENTE-PROFESION 258 266	camarera

@@ -1,0 +1,16 @@
+
+Por	O
+ese	O
+motivo	O
+fue	O
+evaluado	O
+por	O
+los	O
+cirujanos	B-PROFESION
+generales	O
+,	O
+decidiéndose	O
+intervención	O
+quirúrgica	O
+urgente	O
+.	O

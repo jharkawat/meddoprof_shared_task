@@ -1,0 +1,24 @@
+
+Natural	O
+de	O
+Marruecos	O
+,	O
+llevaba	O
+viviendo	O
+en	O
+España	O
+11	O
+meses	O
+y	O
+hacía	O
+2	O
+años	O
+de	O
+su	O
+último	O
+viaje	O
+a	O
+su	O
+país	O
+natal	O
+.	O

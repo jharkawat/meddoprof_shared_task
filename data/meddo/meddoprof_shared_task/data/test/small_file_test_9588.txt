@@ -1,0 +1,24 @@
+
+Mujer	O
+de	O
+36	O
+años	O
+de	O
+edad	O
+que	O
+,	O
+desde	O
+julio	O
+de	O
+2016	O
+,	O
+refiere	O
+dolor	O
+mecánico	O
+en	O
+rodilla	O
+izquierda	O
+que	O
+empeora	O
+progresivamente	O
+.	O

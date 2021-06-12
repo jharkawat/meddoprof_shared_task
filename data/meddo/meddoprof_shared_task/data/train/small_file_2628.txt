@@ -1,0 +1,22 @@
+
+Niño	O
+de	O
+17	O
+meses	O
+de	O
+edad	O
+,	O
+con	O
+AF	O
+negativos	O
+para	O
+atopia	O
+y	O
+AP	O
+:	O
+Dermatitis	O
+atópica	O
+,	O
+Bronquitis	O
+disneizante	O
+.	O

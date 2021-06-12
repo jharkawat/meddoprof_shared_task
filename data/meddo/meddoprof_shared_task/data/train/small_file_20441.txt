@@ -1,0 +1,23 @@
+
+Tampoco	O
+había	O
+recibido	O
+diagnósticos	O
+ni	O
+tratamientos	O
+psiquiátricos	O
+,	O
+aunque	O
+dijo	O
+que	O
+creía	O
+que	O
+podía	O
+tener	O
+algún	O
+problema	O
+mental	O
+aún	O
+no	O
+diagnosticado	O
+.	O

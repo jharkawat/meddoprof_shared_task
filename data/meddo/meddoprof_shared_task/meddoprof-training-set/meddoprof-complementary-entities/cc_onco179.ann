@@ -1,0 +1,151 @@
+T1	SINTOMA 2206 2258	alteración de la trabeculación ósea del cuerpo de D7
+T2	SINTOMA 4872 4880	poliuria
+T3	SINTOMA 4909 4919	polidipsia
+T4	SINTOMA 4951 4967	pérdida ponderal
+T5	SINTOMA 4982 4989	astenia
+T6	PROCEDIMIENTO 1379 1407	tratamiento de quimioterapia
+T7	PROCEDIMIENTO 1411 1423	radioterapia
+T8	PROCEDIMIENTO 1599 1609	mamografía
+T9	PROCEDIMIENTO 1733 1750	ecografía de mama
+T10	PROCEDIMIENTO 1801 1817	ecografía axilar
+T11	PROCEDIMIENTO 1859 1883	biopsia con aguja gruesa
+T12	PROCEDIMIENTO 2158 2174	TC tórax-abdomen
+T13	PROCEDIMIENTO 2344 2360	Gammagrafía ósea
+T14	PROCEDIMIENTO 2634 2697	tumorectomía derecha con biopsia selectiva de ganglio centinela
+T15	PROCEDIMIENTO 2966 3004	tratamiento adyuvante de quimioterapia
+T16	PROCEDIMIENTO 3241 3253	radioterapia
+T17	PROCEDIMIENTO 3266 3295	noviembre/2013 hormonoterapia
+T18	PROCEDIMIENTO 3581 3601	Radiografía de tórax
+T19	PROCEDIMIENTO 3645 3665	Ecografía de abdomen
+T20	PROCEDIMIENTO 3770 3813	Resonancia magnética (RM) de columna dorsal
+T21	PROCEDIMIENTO 4141 4164	resección de la cutánea
+T22	PROCEDIMIENTO 4192 4218	biopsia de la lesión de D7
+T23	PROCEDIMIENTO 4382 4389	biopsia
+T24	PROCEDIMIENTO 4654 4666	radioterapia
+T25	PROCEDIMIENTO 4722 4767	biopsia quirúrgica del cuerpo vertebral de D7
+T26	PROCEDIMIENTO 5028 5051	exploración neurológica
+T27	PROCEDIMIENTO 5601 5617	TC tórax-abdomen
+T28	PROCEDIMIENTO 5831 5846	Trucut hepático
+T29	PROCEDIMIENTO 5953 5970	RM de silla turca
+T30	PROCEDIMIENTO 6314 6332	Exploración física
+T31	PROCEDIMIENTO 6820 6848	tratamiento de quimioterapia
+T32	PROCEDIMIENTO 6851 6863	radioterapia
+T33	NEG 134 136	No
+T34	NSCO 137 152	hábitos tóxicos
+T35	NEG 154 156	No
+T36	NSCO 157 181	tratamiento domiciliario
+T37	NEG 284 286	No
+T38	NSCO 287 310	anticoncepción hormonal
+T39	NEG 337 340	sin
+T40	NSCO 341 348	interés
+T41	NEG 693 701	negativo
+T42	NSCO 702 799	con primario oculto en forma de metástasis cutánea en la zona dorsal en septiembre/2012 en Brasil
+T43	NEG 1159 1167	negativo
+T44	NEG 1200 1208	negativo
+T45	NEG 1236 1244	negativo
+T46	NEG 1319 1322	sin
+T47	NSCO 1323 1357	objetivarse lesión a nivel mamario
+T48	NEG 1369 1371	no
+T49	NSCO 1372 1423	recibe tratamiento de quimioterapia ni radioterapia
+T50	UNC 1751 1764	sospechosa de
+T51	USCO 1765 1775	malignidad
+T52	NEG 1818 1821	sin
+T53	NSCO 1822 1846	hallazgos significativos
+T54	UNC 2264 2270	podría
+T55	USCO 2271 2301	corresponder con un hemangioma
+T56	NEG 2303 2306	Sin
+T57	NSCO 2307 2340	otras particularidades a destacar
+T58	NEG 2875 2883	negativo
+T59	NEG 3189 3192	sin
+T60	NSCO 3193 3204	incidencias
+T61	UNC 3525 3536	sospecha de
+T62	USCO 3537 3577	recaída cutánea sobre la cicatriz previa
+T63	NEG 3616 3619	sin
+T64	NSCO 3620 3641	hallazgos patológicos
+T65	NEG 3680 3683	sin
+T66	NSCO 3684 3707	evidencia de metástasis
+T67	UNC 3896 3908	posiblemente
+T68	USCO 3909 3928	un foco angiomatoso
+T69	NEG 3937 3939	no
+T70	NSCO 3940 4006	se puede descartar en este contexto que se trate de una metástasis
+T71	UNC 4012 4023	sospecha de
+T72	USCO 4024 4064	recaída cutánea y una posible metástasis
+T73	UNC 4415 4429	compatible con
+T74	USCO 4430 4508	diagnóstico de metástasis de carcinoma con patrón de infiltración intersticial
+T75	NEG 4516 4524	negativo
+T76	NEG 4532 4540	negativo
+T77	UNC 4556 4562	dudoso
+T78	NEG 4575 4577	no
+T79	NSCO 4578 4589	amplificado
+T80	NEG 4607 4616	extirpada
+T81	NSCO 4617 4666	recibe tratamiento complementario de radioterapia
+T82	UNC 4768 4782	compatible con
+T83	USCO 4783 4793	hemangioma
+T84	NEG 5052 5054	no
+T85	NSCO 5055 5091	se observan déficits ni alteraciones
+T86	UNC 5097 5108	sospecha de
+T87	USCO 5109 5126	diabetes insípida
+T88	NEG 5903 5911	negativo
+T89	NEG 5919 5927	negativo
+T90	UNC 6200 6211	sospecha de
+T91	USCO 6212 6229	diabetes insípida
+T92	NEG 6527 6535	negativo
+T93	NSCO 6536 6574	en progresión por metástasis hepáticas
+T94	FARMACO 3017 3029	epirrubicina
+T95	FARMACO 3041 3055	ciclofosfamida
+T96	FARMACO 3094 3104	paclitaxel
+T97	FARMACO 3305 3315	exemestano
+T98	ORG_VIVO 23 33	personales
+T99	ORG_VIVO 325 335	familiares
+T100	ORG_VIVO 485 494	profesora
+T101	ORG_VIVO 517 522	mujer
+T102	ORG_VIVO 1224 1234	Herceptest
+T103	ORG_VIVO 2494 2502	paciente
+T104	ORG_VIVO 2559 2565	médico
+T105	ORG_VIVO 6755 6763	paciente
+T106	ORG_VIVO 6934 6940	médico
+T107	ENFERMEDAD 35 39	NAMC
+T108	ENFERMEDAD 41 51	Dislipemia
+T109	ENFERMEDAD 78 109	pólipo endometrial hiperplásico
+T110	ENFERMEDAD 601 615	cáncer de mama
+T111	ENFERMEDAD 653 685	Carcinoma indiferenciado de mama
+T112	ENFERMEDAD 734 799	metástasis cutánea en la zona dorsal en septiembre/2012 en Brasil
+T113	ENFERMEDAD 868 902	infiltración dérmica por carcinoma
+T114	ENFERMEDAD 1026 1036	metástasis
+T115	ENFERMEDAD 1044 1061	carcinoma mamario
+T116	ENFERMEDAD 1335 1357	lesión a nivel mamario
+T117	ENFERMEDAD 1454 1500	Carcinoma lobulillar infiltrante (CLI) de mama
+T118	ENFERMEDAD 1659 1710	microcalcificaciones agrupadas en el CSE de la mama
+T119	ENFERMEDAD 1905 1937	carcinoma lobulillar infiltrante
+T120	ENFERMEDAD 1981 2017	carcinoma in situ de tipo lobulillar
+T121	ENFERMEDAD 2291 2301	hemangioma
+T122	ENFERMEDAD 2442 2453	CLI de mama
+T123	ENFERMEDAD 2915 2926	CLI de mama
+T124	ENFERMEDAD 2948 2957	pT1cpN1M0
+T125	ENFERMEDAD 3067 3069	EC
+T126	ENFERMEDAD 3415 3475	lesión sobreelevada e indurada a nivel de la cicatriz dorsal
+T127	ENFERMEDAD 3537 3552	recaída cutánea
+T128	ENFERMEDAD 3697 3707	metástasis
+T129	ENFERMEDAD 3996 4006	metástasis
+T130	ENFERMEDAD 4024 4039	recaída cutánea
+T131	ENFERMEDAD 4054 4069	metástasis ósea
+T132	ENFERMEDAD 4079 4121	hemangioma sobre el cuerpo vertebral de D7
+T133	ENFERMEDAD 4325 4334	carcinoma
+T134	ENFERMEDAD 4445 4468	metástasis de carcinoma
+T135	ENFERMEDAD 4783 4793	hemangioma
+T136	ENFERMEDAD 5109 5126	diabetes insípida
+T137	ENFERMEDAD 5140 5163	síndrome paraneoplásico
+T138	ENFERMEDAD 5174 5192	metástasis central
+T139	ENFERMEDAD 5723 5752	Lesiones líticas y esclerosas
+T140	ENFERMEDAD 5848 5871	metástasis de carcinoma
+T141	ENFERMEDAD 6212 6229	diabetes insípida
+T142	ENFERMEDAD 6390 6407	carcinoma de mama
+T143	ENFERMEDAD 6449 6467	letálides cutáneas
+T144	ENFERMEDAD 6554 6574	metástasis hepáticas
+T145	ENFERMEDAD 6594 6638	Carcinoma lobulillar infiltrante estadio IIA
+T146	ENFERMEDAD 6656 6670	diciembre/2012
+T147	ENFERMEDAD 6672 6700	Diabetes insípida secundaria
+T148	ENFERMEDAD 6703 6734	metástasis de carcinoma de mama
+T149	PACIENTE-PROFESION 485 494	profesora
+T150	SANITARIO-PROFESION 6928 6940	grupo médico
+T151	SANITARIO-PROFESION 2553 2565	grupo médico

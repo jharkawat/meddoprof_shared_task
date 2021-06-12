@@ -1,0 +1,19 @@
+
+Se	O
+realizó	O
+biopsia	O
+del	O
+pedículo	O
+vertebral	O
+en	O
+D5	O
+que	O
+fue	O
+compatible	O
+con	O
+metástasis	O
+de	O
+carcinoma	O
+de	O
+mama	O
+.	O

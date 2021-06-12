@@ -1,0 +1,25 @@
+
+La	O
+determinación	O
+de	O
+anticuerpos	O
+IgG	O
+VHC	O
+fue	O
+positiva	O
+por	O
+lo	O
+que	O
+se	O
+realiza	O
+la	O
+PCR	O
+para	O
+detección	O
+de	O
+ARN	O
+viral	O
+que	O
+es	O
+negativo	O
+.	O

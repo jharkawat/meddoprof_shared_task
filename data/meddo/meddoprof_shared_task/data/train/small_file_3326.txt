@@ -1,0 +1,10 @@
+
+No	O
+presenta	O
+disnea	O
+y	O
+la	O
+auscultación	O
+es	O
+normal	O
+.	O

@@ -1,0 +1,20 @@
+T1	SINTOMA 79 91	dolor en FID
+T2	SINTOMA 142 150	febriles
+T3	SINTOMA 583 622	engrosamiento de fascias látero-conales
+T4	SINTOMA 993 998	dolor
+T5	SINTOMA 1004 1010	fiebre
+T6	PROCEDIMIENTO 171 194	medicación antipirética
+T7	PROCEDIMIENTO 332 359	TC de abdomen con contraste
+T8	PROCEDIMIENTO 900 923	tratamiento antibiótico
+T9	PROCEDIMIENTO 1032 1043	fondo cecal
+T10	UNC 274 285	sospecha de
+T11	USCO 286 293	absceso
+T12	NEG 978 989	se revirtió
+T13	NSCO 990 1010	el dolor y la fiebre
+T14	ORG_VIVO 0 18	Paciente masculino
+T15	ORG_VIVO 56 74	médico de cabecera
+T16	ORG_VIVO 199 207	paciente
+T17	ORG_VIVO 823 831	paciente
+T18	ENFERMEDAD 286 293	absceso
+T19	ENFERMEDAD 781 818	apendicitis del remanente apendicular
+T20	SANITARIO-PROFESION 56 74	médico de cabecera

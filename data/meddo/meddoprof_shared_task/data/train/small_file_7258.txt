@@ -1,0 +1,10 @@
+
+Los	O
+resultados	O
+en	O
+las	O
+dos	O
+ocasiones	O
+fueron	O
+negativos	O
+.	O

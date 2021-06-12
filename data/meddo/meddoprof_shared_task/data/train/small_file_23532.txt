@@ -1,0 +1,22 @@
+
+Previamente	O
+fue	O
+valorado	O
+por	O
+numerosos	O
+especialistas	B-PROFESION
+en	I-PROFESION
+pediatría	I-PROFESION
+y	I-PROFESION
+psiquiatría	I-PROFESION
+de	O
+diferentes	O
+hospitales	O
+,	O
+resultando	O
+todas	O
+las	O
+pruebas	O
+complementarias	O
+negativas	O
+.	O

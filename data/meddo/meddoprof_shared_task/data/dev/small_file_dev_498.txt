@@ -1,0 +1,22 @@
+
+Antecedentes	O
+personales	O
+:	O
+casado	O
+,	O
+que	O
+convive	O
+con	O
+su	O
+mujer	O
+y	O
+dos	O
+hijos	O
+de	O
+19	O
+y	O
+13	O
+años	O
+de	O
+edad	O
+.	O

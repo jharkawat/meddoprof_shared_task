@@ -1,0 +1,19 @@
+
+Durante	O
+la	O
+entrevista	O
+el	O
+paciente	O
+está	O
+consciente	O
+y	O
+orientado	O
+,	O
+tiene	O
+un	O
+ánimo	O
+subdepresivo	O
+e	O
+importante	O
+ansiedad	O
+.	O

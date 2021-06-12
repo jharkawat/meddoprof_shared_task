@@ -1,0 +1,21 @@
+
+Sospecha	O
+de	O
+bocio	O
+multinodular	O
+para	O
+el	O
+que	O
+el	O
+paciente	O
+se	O
+había	O
+negado	O
+a	O
+cualquier	O
+prueba	O
+diagnóstica	O
+o	O
+intervención	O
+quirúrgica	O
+.	O

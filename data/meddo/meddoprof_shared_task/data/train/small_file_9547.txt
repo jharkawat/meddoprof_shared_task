@@ -1,0 +1,19 @@
+
+Parecen	O
+q	O
+son	O
+fenómenos	O
+vasoespásticos	O
+,	O
+no	O
+había	O
+datos	O
+de	O
+vasculitis	O
+y	O
+por	O
+tanto	O
+considerar	O
+afectación	O
+ocular	O
+.	O

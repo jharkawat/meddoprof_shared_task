@@ -1,0 +1,12 @@
+
+No	O
+consumía	O
+suplementos	O
+,	O
+era	O
+abstemio	O
+y	O
+nunca	O
+había	O
+fumado	O
+.	O

@@ -1,0 +1,8 @@
+
+El	O
+día	O
+11	O
+el	O
+paciente	O
+fallece	O
+.	O

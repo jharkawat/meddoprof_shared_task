@@ -1,0 +1,10 @@
+
+Historia	O
+toxicológica	O
+:	O
+Fumador	O
+30	O
+cigarrillos	O
+/	O
+día	O
+.	O

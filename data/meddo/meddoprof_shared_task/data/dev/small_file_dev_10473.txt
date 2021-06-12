@@ -1,0 +1,9 @@
+
+Ella	O
+se	O
+rehusó	O
+y	O
+comenzó	O
+otra	O
+pelea	O
+.	O

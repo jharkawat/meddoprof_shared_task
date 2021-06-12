@@ -1,0 +1,16 @@
+
+Espondilodiscitis	O
+L3	O
+-	O
+L4	O
+y	O
+L4	O
+-	O
+L5	O
+secundaria	O
+a	O
+bacteriemia	O
+por	O
+Clostridium	O
+ramosum	O
+.	O

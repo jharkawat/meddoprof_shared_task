@@ -1,0 +1,18 @@
+
+En	O
+toda	O
+lesión	O
+cavitada	O
+,	O
+debe	O
+realizarse	O
+un	O
+diagnóstico	O
+diferencial	O
+donde	O
+entrarían	O
+las	O
+siguientes	O
+entidades	O
+principalmente	O
+:	O

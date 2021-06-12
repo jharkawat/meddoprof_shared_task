@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+es	O
+un	O
+hombre	O
+de	O
+30	O
+años	O
+.	O

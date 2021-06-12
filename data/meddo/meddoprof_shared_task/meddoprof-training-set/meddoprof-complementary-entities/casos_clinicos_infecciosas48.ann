@@ -1,0 +1,231 @@
+T1	SINTOMA 622 642	hipertransaminasemia
+T2	SINTOMA 691 706	dolor abdominal
+T3	SINTOMA 1162 1169	prurito
+T4	SINTOMA 1246 1255	hematuria
+T5	SINTOMA 1573 1612	Abdomen blando, depresible, no doloroso
+T6	SINTOMA 2296 2307	eosinofilia
+T7	SINTOMA 2325 2345	hipertransaminasemia
+T8	SINTOMA 2350 2361	eosinofilia
+T9	SINTOMA 2558 2575	hipersensibilidad
+T10	SINTOMA 3016 3025	hematuria
+T11	SINTOMA 5336 5347	eosinofilia
+T12	PROCEDIMIENTO 934 943	hemograma
+T13	PROCEDIMIENTO 1037 1077	estudio de parásitos en heces y en orina
+T14	PROCEDIMIENTO 1363 1381	Exploración física
+T15	PROCEDIMIENTO 1775 1784	Hemograma
+T16	PROCEDIMIENTO 2962 2971	anamnesis
+T17	PROCEDIMIENTO 5368 5397	ecografía abdominal y vesical
+T18	PROCEDIMIENTO 5401 5419	carga viral de VHB
+T19	PROCEDIMIENTO 5500 5509	Hemograma
+T20	PROCEDIMIENTO 6154 6188	Estudio de microfilarias en sangre
+T21	PROCEDIMIENTO 6190 6203	test de Knott
+T22	PROCEDIMIENTO 6312 6333	Rx de tórax y abdomen
+T23	PROCEDIMIENTO 6355 6362	Mantoux
+T24	PROCEDIMIENTO 6373 6402	Ecografía abdominal y vesical
+T25	PROCEDIMIENTO 6752 6766	biopsia rectal
+T26	PROCEDIMIENTO 6869 6885	biopsia hepática
+T27	PROCEDIMIENTO 7423 7443	serología de VHDelta
+T28	PROCEDIMIENTO 7482 7494	gastroscopia
+T29	NEG 102 104	No
+T30	NSCO 105 137	ha regresado a su país de origen
+T31	NEG 376 378	No
+T32	NSCO 379 427	hábitos tóxicos ni otros antecedentes de interés
+T33	NEG 429 431	No
+T34	NSCO 432 469	realiza tratamiento de forma habitual
+T35	NEG 471 473	No
+T36	NSCO 474 507	alergias medicamentosas conocidas
+T37	NEG 785 790	cedió
+T38	NSCO 791 809	con un tratamiento
+T39	NEG 814 816	no
+T40	NSCO 817 823	aporta
+T41	NEG 1189 1202	inespecíficas
+T42	NEG 1204 1207	sin
+T43	NSCO 1208 1229	relación con la ducha
+T44	NEG 1310 1312	no
+T45	NSCO 1313 1321	recuerda
+T46	NEG 1347 1359	asintomático
+T47	NEG 1460 1462	no
+T48	NSCO 1463 1485	adenopatías, ni muguet
+T49	NEG 1507 1510	sin
+T50	NSCO 1511 1517	soplos
+T51	NEG 1549 1552	sin
+T52	NSCO 1553 1571	ruidos patológicos
+T53	NEG 1601 1603	no
+T54	NSCO 1604 1612	doloroso
+T55	NEG 1614 1616	no
+T56	NSCO 1617 1644	se palpan megalias ni masas
+T57	NEG 1652 1654	no
+T58	NSCO 1655 1674	datos de filariasis
+T59	NEG 2069 2077	negativo
+T60	UNC 2521 2529	posibles
+T61	USCO 2530 2575	los procesos alérgicos y de hipersensibilidad
+T62	NEG 2851 2862	ausencia de
+T63	NSCO 2863 2877	sintomatología
+T64	UNC 2921 2929	probable
+T65	USCO 2930 2951	el origen parasitario
+T66	UNC 3042 3054	posiblemente
+T67	USCO 3055 3093	debido a una esquistosomiasis urinaria
+T68	UNC 3685 3693	posibles
+T69	USCO 3694 3730	causas a considerar en este paciente
+T70	NEG 3956 3964	negativo
+T71	UNC 3982 3989	valorar
+T72	USCO 3990 4038	la posibilidad de una hepatitis B oculta (AcHBc+
+T73	UNC 4290 4296	parece
+T74	USCO 4297 4316	razonable descartar
+T75	NEG 5425 5434	descartar
+T76	NSCO 5435 5453	hepatitis B oculta
+T77	NEG 6140 6149	NEGATIVOS
+T78	NEG 6268 6277	NEGATIVOS
+T79	NEG 6335 6338	sin
+T80	NSCO 6339 6351	alteraciones
+T81	UNC 6891 6898	valorar
+T82	USCO 6899 6937	el grado de actividad de la enfermedad
+T83	UNC 7228 7242	compatible con
+T84	USCO 7243 7278	hepatopatía crónica de origen viral
+T85	UNC 7326 7338	posiblemente
+T86	USCO 7339 7368	secundaria a esquistosomiasis
+T87	NEG 7376 7378	no
+T88	NSCO 7379 7408	se han visualizado parásitos"
+T89	NEG 7505 7513	se niega
+T90	NSCO 7514 7525	el paciente
+T91	NEG 7741 7749	negativa
+T92	FARMACO 5246 5263	ciclopiroxolamina
+T93	FARMACO 7582 7594	praziquantel
+T94	FARMACO 7626 7635	tenofovir
+T95	ORG_VIVO 13 23	personales
+T96	ORG_VIVO 25 30	Varón
+T97	ORG_VIVO 272 280	personas
+T98	ORG_VIVO 647 655	paciente
+T99	ORG_VIVO 668 686	médico de cabecera
+T100	ORG_VIVO 1003 1006	VHB
+T101	ORG_VIVO 1008 1011	VHC
+T102	ORG_VIVO 1013 1016	VIH
+T103	ORG_VIVO 1019 1026	sífilis
+T104	ORG_VIVO 1048 1057	parásitos
+T105	ORG_VIVO 1082 1089	sujetos
+T106	ORG_VIVO 1262 1270	infancia
+T107	ORG_VIVO 2053 2056	VIH
+T108	ORG_VIVO 2058 2061	VHC
+T109	ORG_VIVO 2064 2068	lues
+T110	ORG_VIVO 2079 2082	VHB
+T111	ORG_VIVO 2084 2089	AgHBs
+T112	ORG_VIVO 2093 2098	AcHBs
+T113	ORG_VIVO 2102 2107	AcHBc
+T114	ORG_VIVO 2113 2122	Parásitos
+T115	ORG_VIVO 2188 2208	Blastocystis hominis
+T116	ORG_VIVO 2439 2448	pacientes
+T117	ORG_VIVO 2702 2711	pacientes
+T118	ORG_VIVO 2756 2764	paciente
+T119	ORG_VIVO 2837 2846	helmintos
+T120	ORG_VIVO 2940 2951	parasitario
+T121	ORG_VIVO 2976 2984	paciente
+T122	ORG_VIVO 3032 3040	infancia
+T123	ORG_VIVO 3195 3204	Nematodos
+T124	ORG_VIVO 3222 3234	Geohelmintos
+T125	ORG_VIVO 3236 3246	uncinarias
+T126	ORG_VIVO 3248 3267	Trichuris trichuria
+T127	ORG_VIVO 3269 3289	Ascaris lumbricoides
+T128	ORG_VIVO 3291 3316	Strongyloides stercoralis
+T129	ORG_VIVO 3377 3387	Mansonella
+T130	ORG_VIVO 3389 3392	Loa
+T131	ORG_VIVO 3432 3440	Toxocara
+T132	ORG_VIVO 3443 3451	Anisakis
+T133	ORG_VIVO 3453 3461	Cestodos
+T134	ORG_VIVO 3463 3475	Tenia solium
+T135	ORG_VIVO 3477 3491	Tenia saginata
+T136	ORG_VIVO 3493 3509	Hymenolepis nana
+T137	ORG_VIVO 3511 3534	Equinococcus granulosus
+T138	ORG_VIVO 3536 3546	Trematodos
+T139	ORG_VIVO 3548 3571	Schistosoma haematobium
+T140	ORG_VIVO 3573 3597	Schistosoma intercalatum
+T141	ORG_VIVO 3600 3619	Schistosoma mansoni
+T142	ORG_VIVO 3621 3638	Fasciola hepática
+T143	ORG_VIVO 3722 3730	paciente
+T144	ORG_VIVO 3818 3826	personas
+T145	ORG_VIVO 3947 3952	AgHBs
+T146	ORG_VIVO 4054 4059	viral
+T147	ORG_VIVO 4182 4191	pacientes
+T148	ORG_VIVO 4240 4243	VHA
+T149	ORG_VIVO 4245 4248	VHE
+T150	ORG_VIVO 4396 4413	Fasciola hepática
+T151	ORG_VIVO 4415 4435	Ascaris lumbricoides
+T152	ORG_VIVO 4560 4570	S. mansoni
+T153	ORG_VIVO 4871 4880	pacientes
+T154	ORG_VIVO 4916 4919	VHB
+T155	ORG_VIVO 4970 4978	infancia
+T156	ORG_VIVO 5027 5036	pacientes
+T157	ORG_VIVO 5407 5412	viral
+T158	ORG_VIVO 5416 5419	VHB
+T159	ORG_VIVO 5915 5928	Strongyloides
+T160	ORG_VIVO 5948 5959	Schistosoma
+T161	ORG_VIVO 5983 5986	VHB
+T162	ORG_VIVO 5988 5993	AgHBs
+T163	ORG_VIVO 6003 6006	VHB
+T164	ORG_VIVO 6037 6040	VHB
+T165	ORG_VIVO 6066 6081	parasitológicos
+T166	ORG_VIVO 6086 6095	Parásitos
+T167	ORG_VIVO 6165 6178	microfilarias
+T168	ORG_VIVO 6219 6228	Parásitos
+T169	ORG_VIVO 6803 6826	huevos de esquistosomas
+T170	ORG_VIVO 7398 7407	parásitos
+T171	ORG_VIVO 7436 7443	VHDelta
+T172	ORG_VIVO 7445 7450	AcVHD
+T173	ORG_VIVO 7465 7468	VHD
+T174	ORG_VIVO 7517 7525	paciente
+T175	ORG_VIVO 7728 7733	viral
+T176	ORG_VIVO 7737 7740	VHB
+T177	ENFERMEDAD 344 351	malaria
+T178	ENFERMEDAD 622 642	hipertransaminasemia
+T179	ENFERMEDAD 1019 1026	sífilis
+T180	ENFERMEDAD 1127 1143	esquistosomiasis
+T181	ENFERMEDAD 1246 1255	hematuria
+T182	ENFERMEDAD 1463 1474	adenopatías
+T183	ENFERMEDAD 1664 1674	filariasis
+T184	ENFERMEDAD 1683 1735	micosis interdigital entre 4o-5o dedos de ambos pies
+T185	ENFERMEDAD 2325 2345	hipertransaminasemia
+T186	ENFERMEDAD 2625 2635	neoplasias
+T187	ENFERMEDAD 2790 2801	parasitosis
+T188	ENFERMEDAD 3016 3025	hematuria
+T189	ENFERMEDAD 3068 3093	esquistosomiasis urinaria
+T190	ENFERMEDAD 3095 3149	enfermedad endémica de los países de África Occidental
+T191	ENFERMEDAD 3291 3316	Strongyloides stercoralis
+T192	ENFERMEDAD 3322 3332	Filariosis
+T193	ENFERMEDAD 3334 3346	oncocercosis
+T194	ENFERMEDAD 3348 3392	filariasis linfática, género Mansonella, Loa
+T195	ENFERMEDAD 3463 3534	Tenia solium, Tenia saginata, Hymenolepis nana, Equinococcus granulosus
+T196	ENFERMEDAD 3548 3638	Schistosoma haematobium, Schistosoma intercalatum y Schistosoma mansoni, Fasciola hepática
+T197	ENFERMEDAD 3738 3755	Hepatitis virales
+T198	ENFERMEDAD 3760 3785	hepatitis crónica por VHB
+T199	ENFERMEDAD 4012 4030	hepatitis B oculta
+T200	ENFERMEDAD 4104 4129	hepatitis crónica por VHC
+T201	ENFERMEDAD 4269 4284	hepatitis aguda
+T202	ENFERMEDAD 4320 4331	Parasitosis
+T203	ENFERMEDAD 4396 4413	Fasciola hepática
+T204	ENFERMEDAD 4415 4435	Ascaris lumbricoides
+T205	ENFERMEDAD 4452 4462	colangitis
+T206	ENFERMEDAD 4464 4476	colecistitis
+T207	ENFERMEDAD 4478 4488	colestasis
+T208	ENFERMEDAD 4496 4512	esquistosomiasis
+T209	ENFERMEDAD 4517 4533	esquistosomiasis
+T210	ENFERMEDAD 4588 4621	hipertensión portal presinusoidal
+T211	ENFERMEDAD 4649 4668	fibrosis periportal
+T212	ENFERMEDAD 4670 4685	hiperesplenismo
+T213	ENFERMEDAD 4688 4706	varices esofágicas
+T214	ENFERMEDAD 4749 4784	enfermedad la función hepatocelular
+T215	ENFERMEDAD 4788 4806	Lesiones tumorales
+T216	ENFERMEDAD 4811 4834	carcinoma hepatocelular
+T217	ENFERMEDAD 5094 5124	hepatitis de origen autoinmune
+T218	ENFERMEDAD 5171 5184	granulomatosa
+T219	ENFERMEDAD 5187 5197	idiopática
+T220	ENFERMEDAD 5435 5453	hepatitis B oculta
+T221	ENFERMEDAD 6630 6648	hepatitis B oculta
+T222	ENFERMEDAD 6661 6680	hepatopatía crónica
+T223	ENFERMEDAD 6710 6738	parasitación por Schistosoma
+T224	ENFERMEDAD 7243 7278	hepatopatía crónica de origen viral
+T225	ENFERMEDAD 7313 7321	fibrosis
+T226	ENFERMEDAD 7352 7368	esquistosomiasis
+T227	ENFERMEDAD 7770 7789	Hepatopatía crónica
+T228	ENFERMEDAD 7803 7819	esquistosomiasis
+T229	ENFERMEDAD 7822 7840	hepatitis B oculta
+T230	SANITARIO-PROFESION 668 686	médico de cabecera
+T231	PACIENTE-PROFESION 229 256	Trabaja en los invernaderos

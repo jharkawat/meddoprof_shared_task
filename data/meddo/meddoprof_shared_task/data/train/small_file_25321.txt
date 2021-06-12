@@ -1,0 +1,25 @@
+
+En	O
+ese	O
+momento	O
+,	O
+su	O
+deterioro	O
+físico	O
+era	O
+importante	O
+,	O
+y	O
+fue	O
+necesaria	O
+una	O
+revisión	O
+de	O
+su	O
+estado	O
+por	O
+los	O
+servicios	O
+de	O
+neurología	O
+.	O

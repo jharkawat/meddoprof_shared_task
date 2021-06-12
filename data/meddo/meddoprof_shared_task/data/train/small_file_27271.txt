@@ -1,0 +1,11 @@
+
+Realiza	O
+seguimiento	O
+regular	O
+por	O
+Neurología	O
+y	O
+no	O
+toma	O
+medicación	O
+.	O

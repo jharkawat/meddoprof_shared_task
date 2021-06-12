@@ -1,0 +1,7 @@
+
+Estudio	O
+sin	O
+hallazgos	O
+radiológicos	O
+significativos	O
+.	O

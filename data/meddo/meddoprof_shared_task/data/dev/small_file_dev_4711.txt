@@ -1,0 +1,18 @@
+
+Basándose	O
+en	O
+los	O
+criterios	O
+diagnósticos	O
+para	O
+la	O
+crisis	O
+tirotóxica	O
+(	O
+Escala	O
+de	O
+Burch	O
+y	O
+Wartofsky	O
+)	O
+.	O

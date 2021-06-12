@@ -1,0 +1,10 @@
+
+No	O
+ingresos	O
+previos	O
+en	O
+una	O
+Unidad	O
+de	O
+Agudos	O
+.	O

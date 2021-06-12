@@ -1,0 +1,13 @@
+
+Dermatitis	O
+alérgica	O
+de	O
+contacto	O
+por	O
+manipulación	O
+de	O
+alimentos	O
+(	O
+atún	O
+crudo	O
+)	O

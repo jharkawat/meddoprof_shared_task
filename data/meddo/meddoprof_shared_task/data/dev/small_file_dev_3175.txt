@@ -1,0 +1,10 @@
+
+Se	O
+comprometió	O
+a	O
+realizar	O
+paseos	O
+durante	O
+el	O
+día	O
+.	O

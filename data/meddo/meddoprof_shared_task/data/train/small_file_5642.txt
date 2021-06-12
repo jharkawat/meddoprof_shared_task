@@ -1,0 +1,10 @@
+
+Vio	O
+que	O
+aquello	O
+fue	O
+evolucionando	O
+y	O
+decidió	O
+acudir	O
+.	O

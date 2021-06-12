@@ -1,0 +1,12 @@
+
+Tiene	O
+dos	O
+hijos	O
+,	O
+uno	O
+que	O
+ha	O
+nacido	O
+en	O
+2014	O
+.	O

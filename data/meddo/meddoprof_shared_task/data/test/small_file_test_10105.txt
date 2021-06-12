@@ -1,0 +1,24 @@
+
+En	O
+los	O
+hallazgos	O
+operatorios	O
+,	O
+se	O
+evidenció	O
+la	O
+masa	O
+descrita	O
+en	O
+la	O
+TC	O
+,	O
+haciendo	O
+imposible	O
+el	O
+abordaje	O
+extrapericárdico	O
+de	O
+la	O
+tumoración	O
+.	O

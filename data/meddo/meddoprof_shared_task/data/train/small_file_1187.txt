@@ -1,0 +1,17 @@
+
+En	O
+base	O
+a	O
+todos	O
+estos	O
+hallazgos	O
+se	O
+diagnosticó	O
+meningoencefalitis	O
+por	O
+reactivación	O
+de	O
+enfermedad	O
+de	O
+Chagas	O
+.	O

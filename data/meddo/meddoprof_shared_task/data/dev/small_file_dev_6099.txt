@@ -1,0 +1,17 @@
+
+En	O
+los	O
+cultivos	O
+de	O
+las	O
+tres	O
+porciones	O
+del	O
+LBA	O
+creció	O
+Pasteurella	O
+multocida	O
+en	O
+cultivo	O
+puro	O
+.	O

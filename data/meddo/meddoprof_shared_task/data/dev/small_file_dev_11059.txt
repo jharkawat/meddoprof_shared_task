@@ -1,0 +1,8 @@
+
+PR	O
+:	O
+0	O
+.	O
+16	O
+seg	O
+.	O

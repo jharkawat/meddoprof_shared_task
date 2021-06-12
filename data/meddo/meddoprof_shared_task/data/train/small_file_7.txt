@@ -1,0 +1,27 @@
+
+El	O
+valor	O
+de	O
+proteína	O
+C	O
+-	O
+reactiva	O
+era	O
+de	O
+103	O
+mg	O
+/	O
+L	O
+y	O
+la	O
+cifra	O
+de	O
+leucocitos	O
+de	O
+8	O
+,	O
+8	O
+Giga	O
+/	O
+L	O
+.	O

@@ -1,0 +1,13 @@
+
+Se	O
+siente	O
+medianamente	O
+deprimida	O
+,	O
+inquieta	O
+y	O
+tiene	O
+dificultad	O
+para	O
+dormir	O
+.	O

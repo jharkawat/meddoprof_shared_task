@@ -1,0 +1,66 @@
+T1	SINTOMA 733 746	fallecimiento
+T2	SINTOMA 1015 1023	insomnio
+T3	SINTOMA 1026 1045	ideas extravagantes
+T4	SINTOMA 2886 2894	insomnio
+T5	SINTOMA 3616 3628	cenestésicos
+T6	SINTOMA 3630 3636	Apatía
+T7	SINTOMA 3638 3644	abulia
+T8	SINTOMA 3671 3688	bloqueos verbales
+T9	NEG 215 218	sin
+T10	NSCO 219 250	consumo actual de otros tóxicos
+T11	NEG 1396 1404	negativa
+T12	NEG 1734 1736	No
+T13	NEG 2098 2106	negativa
+T14	NEG 2446 2448	no
+T15	NSCO 2449 2460	interfieren
+T16	NEG 3030 3033	sin
+T17	NSCO 3034 3098	que estuviera presente una descompensación franca de la paciente
+T18	NEG 4070 4073	Sin
+T19	NSCO 4074 4114	otras alteraciones analíticas de interés
+T20	NEG 4116 4118	No
+T21	NSCO 4119 4204	alteraciones de la serie leucocitaria reseñables durante el tratamiento con clozapina
+T22	FARMACO 1999 2008	clozapina
+T23	FARMACO 3824 3833	clozapina
+T24	FARMACO 4195 4204	clozapina
+T25	ORG_VIVO 0 5	Mujer
+T26	ORG_VIVO 88 98	personales
+T27	ORG_VIVO 305 313	juventud
+T28	ORG_VIVO 370 380	familiares
+T29	ORG_VIVO 405 415	familiares
+T30	ORG_VIVO 443 448	Padre
+T31	ORG_VIVO 468 473	madre
+T32	ORG_VIVO 506 513	hermana
+T33	ORG_VIVO 533 540	hermano
+T34	ORG_VIVO 564 572	familiar
+T35	ORG_VIVO 574 578	Hija
+T36	ORG_VIVO 684 692	paciente
+T37	ORG_VIVO 753 759	abuelo
+T38	ORG_VIVO 922 930	paciente
+T39	ORG_VIVO 1867 1875	paciente
+T40	ORG_VIVO 2358 2366	familiar
+T41	ORG_VIVO 2386 2394	paciente
+T42	ORG_VIVO 2610 2618	familiar
+T43	ORG_VIVO 2679 2686	familia
+T44	ORG_VIVO 2774 2781	hermana
+T45	ORG_VIVO 2823 2833	familiares
+T46	ORG_VIVO 2849 2857	paciente
+T47	ORG_VIVO 3090 3098	paciente
+T48	ORG_VIVO 3117 3125	paciente
+T49	ENFERMEDAD 36 59	esquizofrenia paranoide
+T50	ENFERMEDAD 109 133	diabetes mellitus tipo 2
+T51	ENFERMEDAD 135 145	dislipemia
+T52	ENFERMEDAD 148 156	obesidad
+T53	ENFERMEDAD 264 282	consumo de alcohol
+T54	ENFERMEDAD 419 441	patología psiquiátrica
+T55	ENFERMEDAD 453 466	esquizofrenia
+T56	ENFERMEDAD 478 504	trastorno afectivo bipolar
+T57	ENFERMEDAD 518 531	esquizofrenia
+T58	ENFERMEDAD 545 572	trastorno afectivo familiar
+T59	ENFERMEDAD 583 620	patología psiquiátrica en proceso TMG
+T60	ENFERMEDAD 654 677	enfermedad psiquiátrica
+T61	ENFERMEDAD 839 858	depresivo comórbido
+T62	ENFERMEDAD 866 883	consumo de tóxico
+T63	ENFERMEDAD 2761 2767	muerte
+T64	ENFERMEDAD 2784 2815	descompensación psicopatológica
+T65	ENFERMEDAD 3418 3455	sintomatología alucinatorio-delirante
+T66	ENFERMEDAD 3907 3917	dislipemia

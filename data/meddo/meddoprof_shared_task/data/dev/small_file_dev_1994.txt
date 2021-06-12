@@ -1,0 +1,23 @@
+
+En	O
+septiembre	O
+de	O
+2016	O
+,	O
+se	O
+matriculó	O
+en	O
+un	O
+"	O
+máster	O
+de	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+veterinaria	I-PROFESION
+online	O
+"	O
+pero	O
+al	O
+mes	O
+abandonó	O
+.	O

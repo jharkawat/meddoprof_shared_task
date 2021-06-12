@@ -1,0 +1,11 @@
+
+Fue	O
+fruto	O
+de	O
+un	O
+parto	O
+y	O
+puerperio	O
+sin	O
+incidencias	O
+.	O

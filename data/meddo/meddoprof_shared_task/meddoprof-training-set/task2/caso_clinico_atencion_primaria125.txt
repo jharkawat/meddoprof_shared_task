@@ -1,0 +1,40 @@
+Motivo de consulta
+Paciente de 19 años que acude a consulta de Atención Primaria por tos continua de tres semanas de evolución.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Paciente de 19 años de nacionalidad española, estudiante de magisterio. Antecedentes personales de bloqueo de rama derecha del Haz de HIS, rinoconjuntivitis alérgica y asma leve. No tiene antecedentes familiares de interés. En tratamiento con salbutamol a demanda. No presenta alergias a medicamentos. Toma bebidas alcohólicas de forma ocasional. No fumador.
+
+El paciente acude a consulta por presentar tos seca de tres semanas de evolución de intensidad creciente que interfiere en el descanso nocturno. Aumenta con el ejercicio. Leve rinorrea. No presenta disnea y la auscultación es normal. Mejoría parcial usando salbutamol a demanda. Dados los antecedentes personales se decide iniciar budesonida 160 mcg/formoterol fumarato dihidrato 4,5 mcg 2 inhalaciones cada 12 horas.
+
+Vuelve dos meses después por tos con expectoración verdosa y fiebre de dos días de evolución. A la auscultación presenta crepitantes en base izquierda, por lo que se pauta Amoxicilina 875mg/ clavulánico 125mg cada 8 horas durante 7 días con mejoría del cuadro. A pesar de ello, acude de nuevo tres semanas después porque persiste la tos, con aumento de accesos la última semana y con expectoración blanquecina. Esa misma mañana expectoración hemoptoica. Además presenta de nuevo fiebre de forma inconstante, alcanzando 39-40o, de predominio vespertino y con sudoración nocturna. Dolor en parte anterior de hemitórax derecho de tipo pleurítico. No disnea. Además profundizando en la anamnesis los padres refieren pérdida ponderal de 6-7 kg en los últimos meses. No ha realizado viajes.
+
+Exploración: buen estado general, normohidratado, normoperfundido, eupneico en reposo. Constantes: TA: 114/59, FC 104lpm, SatO2 99%, T 37.8o.
+Auscultación cardiopulmonar: rítmica, sin soplos. Murmullo vesicular conservado sin ruidos añadidos.
+
+Se solicita radiografía de forma urgente donde se observa:
+Extensa lesión cavitada en lóbulo superior derecho con nivel hidroaéreo. Otras de menor tamaño en la base. Infiltrado alveolo-intersticial nodulillar en hemitórax izquierdo, sugerente de diseminación broncógena.
+
+Se deriva a Urgencias Hospitalarias para pruebas complementarias y valoración por neumología. Los resultados más relevantes de las pruebas realizadas son:
+Analítica: proteína C reactiva 142, procalcitonina 0.07, leucocitos 14590/μL con neutrofilia 93%. Hemoglobina 12 g/dl, Hematocrito 36%, volumen corpuscular medio 76.7fL, plaquetas 430000/μL.
+
+Baciloscopia de esputo: se detecta ADN de Mycobacterium tuberculosis con sensibilidad a todos los fármacos de primera línea testados.
+Durante su estancia en urgencia el paciente permaneció con buen estado general, estable hemodinámicamente y escasa expectoración, con pequeña cantidad de restos hemáticos.
+El paciente presenta un buen apoyo familiar, adecuada comprensión del diagnóstico. Necesidad de prevención de transmisión de la enfermedad, por lo que se decide alta con tratamiento y aislamiento domicilliarios.
+
+Enfoque familiar y comunitario
+Estructura familiar nuclear íntegra, el paciente convive con ambos padres y hermano mayor. Aunque al principio el paciente se mostró ansioso en domicilio dada la posibilidad de transmisión de la enfermedad, hubo en todo momento buen apoyo familiar, lo que promovió el tratamiento en domicilio.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Tuberculosis pulmonar cavitada. El caso planteó diversos diagnósticos diferenciales: hiperreactividad bronquial o infección vías respiratorias. Debemos pensar además en otras patologías que presenten hemoptisis, como el carcinoma broncogénico; o lesiones cavitadas, con causas infecciosas (Klebsiella pneumoniae, Streptococcus pneumoniae, Haemophilus influenzae, Nocardiosis, Actinomicosis, Aspergilosis o Histoplasmosis), neoplásicas (cáncer bronquioalveolar y carcinoide), reumatológicas (granulomatosis con poliangeítis) y otras.
+
+Plan de acción y evolución
+El paciente comenzó tratamiento en domicilio con rifampicina 150/isoniazida 75/pirazinamida 400/ etambutol hidrocloruro 275mg 4 comprimidos/24h durante dos meses con buena tolerancia, cambiando luego a rifampicina 300/isociacida 150mg 2 comprimidos/24h, que toma actualmente y con el que permanecerá entre 4-7 meses. Estuvo el primer mes en domicilio por aislamiento respiratorio.
+Evolución
+Acudimos a ver al paciente a la semana para revisión. Continuaba con fiebre ocasional y tos. Ansiedad ante el cuadro, especialmente porque a su madre y hermano de 22 años se les realiza el test IGRA (ensayo de liberación de interferón gamma), siendo positivo para ambos, por lo que tenía sentimientos de culpabilidad.
+Visto hasta el momento en cuatro ocasiones por Neumología. Buena evolución del cuadro, actualmente tos ocasional.
+Se realizan pruebas analíticas en todas las consultas, con mejoría de reactantes de fase aguda, serología de VIH y hepatitis negativas, y nueva baciloscopia de esputo a los dos meses negativa para BAAR.
+En radiografía de control a los cuatro meses y medio se observa mejoría significativa, con desaparición de infiltrados en el pulmón izquierdo. El pulmón derecho se encuentra en regresión, con aspecto cicatricial, persistiendo imagen de cavidad en lóbulo superior derecho.
+Pendiente de nuevo control por parte de neumología.
+Toda la familia conviviente se realiza el test de IGRA, siendo positiva para su madre y hermano.
+Al padre se le vuelve a realizar a las ocho semanas persistiendo negativo.
+A la madre y hermano se les descarta tuberculosis activa realizándose radiografía de tórax y cultivo de esputo. Inician tratamiento quimioprofiláctico con isoniacida 300mg/24h durante 9 meses, con adecuada tolerancia.

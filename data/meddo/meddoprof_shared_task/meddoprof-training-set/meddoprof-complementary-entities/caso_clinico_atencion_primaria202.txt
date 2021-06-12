@@ -1,0 +1,34 @@
+Motivo de Consulta
+Dolor torácico.
+
+Enfoque Individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: Varón de 30 años que acude a urgencias del centro de salud relatando dolor centrotorácico opresivo, no irradiado y sin cortejo vegetativo. Relata que no se modifica con los movimientos respiratorios ni con la postura, de horas de evolución que se inicia en reposo. Se acompaña de dolor en ambos antebrazos. No palpitaciones, no disnea ni ortopnea.
+El paciente nos relata que hace unos días tuvo una sensación de inicio gripal autolimitada a la que no le dio importancia, por lo que no consulto.
+Antecedentes personales: No alergias medicamentosas. No hábitos tóxicos. No intervenciones quirúrgicas previas. No enfermedades de interés.
+
+Exploración física: Paciente con buen estado general. Consciente, orientado y colaborador. No signos meníngeos. Eupneico en reposo. No tiraje. Ausencia de cianosis. No ingurgitación yugular. Movimientos respiratorios normales sin tiraje ni asimetrías.
+Constantes dentro de la normalidad. EVA: 4/10.
+Auscultación cardíaca: Tonos puros y rítmicos no soplos audibles ni ruidos sobreañadidos. Auscultación pulmonar: murmullo vesicular conservado en ambos hemitórax, sin ruidos sobreañadidos.
+Extremidades: sin edemas ni alteraciones. Pulsos conservados. No signos de trombosis venosa profunda.
+Resto de la exploración sin hallazgos.
+
+Pruebas complementarias:
+Electrocardiograma (del centro de salud): ritmo sinusal a 60 lpm, eje normal, disminución > 1 mm ST en III y elevación ST I,AVL, V4-V6.
+Se deriva a urgencias hospitalarias donde se realizan:
+Radiografía de tórax: no se evidencian alteraciones en las partes blandas extratorácicas ni lesiones óseas. Los hilios, pleura y diafragma no presentan alteraciones significativas. Índice cardiotorácico y cayado aórtico dentro de la normalidad. No se observan alteraciones en la trama broncovascular. Los campos pulmonares no muestran nódulos, condensación ni otras alteraciones. Senos costofrénicos no pinzados. No se aprecian signos de derrame pleural.
+Analítica: CPK 482 U/L, troponina cardiaca 7,1 ng/ml, PCR 6,9 ng/ml, leucocitosis 15000 con desviación izquierda y discreta monocitosis. Resto sin hallazgos relevantes. Se continúa con la seriación de troponinas siendo la segunda en 20,41 ng/ml y CPK 1036 U/L.
+Se interconsulta caso con UCI que realizan:
+Ecocardiograma a pie de cama: VI no dilatado ni hipertrófico con función sistólica conservada, sin alteraciones segmentarias ni de la contractibilidad. Aurícula izquierda normal. Válvula mitral normal. Válvula aórtica normofuncionante. Cavidades derechas de tamaño y función normal. Válvula tricúspide con insuficiencia mínima que no permite registrar flujo doppler. VCI con colapso inspiratorio adecuado.
+Cateterismo cardiaco: arterias coronarias sin lesiones. Dominancia izquierda.
+
+Enfoque Familiar y Comunitario
+Paciente soltero, vive solo y trabaja de informático. Buen apoyo de sus padres y de sus dos hermanos. Nivel cultural medio.
+
+Juicio Clínico (lista de problemas, diagnóstico referencial)
+Juicio clínico: Miopericarditis.
+Diagnóstico diferencial: IAM, infección respiratoria, ansiedad, dolor muscular.
+Plan de Acción
+Se ingresa en cardiología.
+
+Evolución
+En planta de cardiología tiene en ocasiones sensación de opresión ligera. Evoluciona favorablemente con tratamiento analgésico y reposo dándose de alta a los pocos días.

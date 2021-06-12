@@ -1,0 +1,8 @@
+
+No	O
+antecedentes	O
+familiares	O
+de	O
+patología	O
+mental	O
+.	O

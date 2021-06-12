@@ -1,0 +1,18 @@
+
+Empezó	O
+a	O
+vomitar	O
+de	O
+una	O
+forma	O
+incontenible	O
+,	O
+hasta	O
+el	O
+punto	O
+de	O
+requerir	O
+un	O
+ingreso	O
+hospitalario	O
+.	O

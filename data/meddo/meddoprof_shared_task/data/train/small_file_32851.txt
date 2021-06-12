@@ -1,0 +1,15 @@
+
+Animar	O
+al	O
+paciente	O
+a	O
+manifestar	O
+verbalmente	O
+los	O
+sentimientos	O
+asociados	O
+con	O
+los	O
+problemas	O
+interpersonales	O
+.	O

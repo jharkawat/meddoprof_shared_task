@@ -1,0 +1,22 @@
+
+Se	O
+le	O
+dieron	O
+instrucciones	O
+de	O
+higiene	O
+oral	O
+y	O
+tratamiento	O
+periodontal	O
+desinflamatorio	O
+básico	O
+mediante	O
+raspado	O
+y	O
+alisado	O
+radicular	O
+bajo	O
+anestesia	O
+local	O
+.	O

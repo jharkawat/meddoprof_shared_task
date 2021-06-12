@@ -1,0 +1,24 @@
+
+Tras	O
+24	O
+horas	O
+de	O
+estancia	O
+en	O
+la	O
+UCI	O
+y	O
+después	O
+de	O
+la	O
+desintubación	O
+,	O
+exploración	O
+neurológica	O
+normal	O
+con	O
+amnesia	O
+parcial	O
+del	O
+evento	O
+.	O

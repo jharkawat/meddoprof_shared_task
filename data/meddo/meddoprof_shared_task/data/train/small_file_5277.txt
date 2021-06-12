@@ -1,0 +1,9 @@
+
+No	O
+palpitaciones	O
+,	O
+no	O
+disnea	O
+ni	O
+ortopnea	O
+.	O

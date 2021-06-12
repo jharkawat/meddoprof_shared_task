@@ -1,0 +1,9 @@
+
+No	O
+imagen	O
+radiológica	O
+sugestiva	O
+de	O
+niveles	O
+hidroaéreos	O
+.	O

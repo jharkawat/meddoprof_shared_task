@@ -1,0 +1,5 @@
+
+Atrofia	O
+muscular	O
+generalizada	O
+.	O

@@ -1,0 +1,15 @@
+
+En	O
+tratamiento	O
+con	O
+amisulprida	O
+,	O
+se	O
+decide	O
+ensayar	O
+con	O
+ziprasidona	O
+a	O
+dosis	O
+crecientes	O
+.	O

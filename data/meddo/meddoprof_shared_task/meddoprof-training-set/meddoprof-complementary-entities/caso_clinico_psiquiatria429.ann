@@ -1,0 +1,117 @@
+T1	SINTOMA 216 224	embarazo
+T2	SINTOMA 1183 1206	alucinaciones auditivas
+T3	SINTOMA 1246 1270	alteraciones de conducta
+T4	SINTOMA 1711 1734	alucinaciones auditivas
+T5	SINTOMA 1737 1765	alteraciones del pensamiento
+T6	SINTOMA 2285 2298	fallecimiento
+T7	SINTOMA 3119 3145	alucinaciones cenestésicas
+T8	SINTOMA 4002 4011	inquietud
+T9	SINTOMA 4014 4028	desorientación
+T10	SINTOMA 4319 4361	alucinaciones cenestésicas en zona genital
+T11	SINTOMA 5242 5249	delirio
+T12	PROCEDIMIENTO 227 232	parto
+T13	PROCEDIMIENTO 2377 2387	homeopatía
+T14	PROCEDIMIENTO 3524 3554	tratamiento psicofarmacológico
+T15	PROCEDIMIENTO 5775 5789	rehabilitación
+T16	NEG 244 247	sin
+T17	NSCO 248 288	alteraciones en el desarrollo psicomotor
+T18	NEG 1376 1378	no
+T19	NSCO 1379 1409	se le pautó ningún tratamiento
+T20	NEG 1412 1414	no
+T21	NSCO 1415 1466	recuerda diagnóstico ni haber realizado seguimiento
+T22	NEG 2215 2217	no
+T23	NSCO 2218 2248	ha acudido a ningún psiquiatra
+T24	NEG 2503 2505	no
+T25	NSCO 2506 2516	ser reales
+T26	NEG 2597 2599	No
+T27	NSCO 2600 2632	realiza ninguna actividad social
+T28	NEG 2688 2691	sin
+T29	NSCO 2692 2707	relación alguna
+T30	NEG 2813 2815	no
+T31	NSCO 2816 2853	tiene conciencia alguna de enfermedad
+T32	NEG 2874 2877	sin
+T33	NSCO 2878 2899	hacer ninguna crítica
+T34	NEG 3218 3220	no
+T35	NSCO 3221 3287	tiene fenómenos alucinatorios ni ideación delirante de ningún tipo
+T36	NEG 3452 3463	remisión de
+T37	NSCO 3464 3484	dicha sintomatología
+T38	NEG 3502 3505	sin
+T39	NSCO 3506 3554	necesidad de otro tratamiento psicofarmacológico
+T40	NEG 3581 3584	Sin
+T41	NSCO 3585 3662	alteraciones en series sanguíneas en los hemogramas realizados hasta la fecha
+T42	NEG 3749 3757	negativa
+T43	NSCO 3758 3796	en contexto de esquizofrenia paranoide
+T44	NEG 4014 4028	desorientación
+T45	NEG 4040 4052	se le retira
+T46	NEG 4190 4192	No
+T47	NEG 4452 4461	se retira
+T48	NEG 5475 5477	no
+T49	NSCO 5478 5492	se relacionaba
+T50	FARMACO 76 85	clozapina
+T51	FARMACO 3912 3923	risperidona
+T52	FARMACO 4081 4093	paliperidona
+T53	FARMACO 4141 4152	aripiprazol
+T54	FARMACO 4502 4511	clozapina
+T55	FARMACO 5855 5864	clozapina
+T56	ORG_VIVO 27 35	paciente
+T57	ORG_VIVO 205 210	mujer
+T58	ORG_VIVO 313 321	hermanos
+T59	ORG_VIVO 351 361	familiares
+T60	ORG_VIVO 367 373	padres
+T61	ORG_VIVO 456 464	hermanos
+T62	ORG_VIVO 575 582	sobrina
+T63	ORG_VIVO 816 823	hermana
+T64	ORG_VIVO 829 833	hija
+T65	ORG_VIVO 1094 1100	pareja
+T66	ORG_VIVO 1108 1113	amiga
+T67	ORG_VIVO 1154 1159	chico
+T68	ORG_VIVO 1601 1610	profesora
+T69	ORG_VIVO 1884 1890	chicos
+T70	ORG_VIVO 1950 1960	psicólogos
+T71	ORG_VIVO 2206 2214	paciente
+T72	ORG_VIVO 2238 2248	psiquiatra
+T73	ORG_VIVO 2306 2312	padres
+T74	ORG_VIVO 2325 2341	médico naturista
+T75	ORG_VIVO 2367 2372	madre
+T76	ORG_VIVO 2432 2440	paciente
+T77	ORG_VIVO 2485 2494	psicólogo
+T78	ORG_VIVO 2715 2722	persona
+T79	ORG_VIVO 2804 2811	hermana
+T80	ORG_VIVO 3059 3068	psicólogo
+T81	ORG_VIVO 3150 3159	psicólogo
+T82	ORG_VIVO 3814 3822	paciente
+T83	ORG_VIVO 3968 3975	sobrina
+T84	ORG_VIVO 4366 4374	paciente
+T85	ORG_VIVO 4517 4525	paciente
+T86	ORG_VIVO 4878 4886	paciente
+T87	ORG_VIVO 5129 5137	paciente
+T88	ORG_VIVO 5384 5391	hermano
+T89	ORG_VIVO 5448 5456	hermanos
+T90	ORG_VIVO 5614 5622	paciente
+T91	ORG_VIVO 5810 5817	familia
+T92	ENFERMEDAD 420 450	consumo perjudicial de alcohol
+T93	ENFERMEDAD 469 500	trastorno por uso de sustancias
+T94	ENFERMEDAD 533 568	trastorno límite de la personalidad
+T95	ENFERMEDAD 587 610	esquizofrenia paranoide
+T96	ENFERMEDAD 655 680	neumonía broncoaspirativa
+T97	ENFERMEDAD 2989 3004	delirio crónico
+T98	ENFERMEDAD 3665 3676	DIAGNÓSTICO
+T99	ENFERMEDAD 3677 3700	Esquizofrenia paranoide
+T100	ENFERMEDAD 3773 3796	esquizofrenia paranoide
+T101	PACIENTE-SITUACION_LABORAL 1574 1595	comenzando a trabajar
+T102	SANITARIO-PROFESION 2325 2341	médico naturista
+T103	SANITARIO-PROFESION 864 875	profesional
+T104	PACIENTE-PROFESION 1601 1624	profesora de un colegio
+T105	OTROS-PROFESION 2485 2494	psicólogo
+T106	OTROS-PROFESION 3059 3068	psicólogo
+T107	OTROS-PROFESION 3150 3159	psicólogo
+T108	SANITARIO-PROFESION 2238 2248	psiquiatra
+T109	PACIENTE-SITUACION_LABORAL 983 1006	abandonado sus estudios
+T110	PACIENTE-SITUACION_LABORAL 1468 1500	Comienza a continuación estudios
+T111	OTROS-PROFESION 1950 1960	psicólogos
+T112	PACIENTE-PROFESION 2522 2574	da algunas clases de informática como extraescolares
+T113	PACIENTE-SITUACION_LABORAL 5150 5181	Incapacidad Permanente Absoluta
+T114	PACIENTE-ACTIVIDAD 5184 5215	realizar tareas de voluntariado
+T115	PACIENTE-ACTIVIDAD 5295 5333	dar clase de informática a inmigrantes
+T116	PACIENTE-ACTIVIDAD 5494 5515	Acude también a nadar
+T117	PACIENTE-ACTIVIDAD 5494 5529	Acude también a nadar y al gimnasio

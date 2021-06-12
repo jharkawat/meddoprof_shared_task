@@ -1,0 +1,12 @@
+
+La	O
+cicatriz	O
+en	O
+la	O
+fosa	O
+iliaca	O
+izquierda	O
+no	O
+presenta	O
+lesiones	O
+.	O

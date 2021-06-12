@@ -1,0 +1,26 @@
+
+Se	O
+orientó	O
+el	O
+caso	O
+como	O
+neuropatía	O
+alcohólica	O
+,	O
+con	O
+diagnóstico	O
+diferencial	O
+de	O
+mieloma	O
+múltiple	O
+o	O
+neuropatía	O
+secundaria	O
+a	O
+síndrome	O
+paraneoplásico	O
+por	O
+cáncer	O
+de	O
+pulmón	O
+.	O

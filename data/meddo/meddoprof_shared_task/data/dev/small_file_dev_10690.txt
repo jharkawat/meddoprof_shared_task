@@ -1,0 +1,27 @@
+
+A	O
+la	O
+exploración	O
+presenta	O
+puño	O
+-	O
+percusión	O
+renal	O
+bilateral	O
+negativa	O
+y	O
+en	O
+el	O
+tacto	O
+rectal	O
+se	O
+aprecia	O
+una	O
+próstata	O
+caliente	O
+y	O
+dolorosa	O
+a	O
+la	O
+palpación	O
+.	O

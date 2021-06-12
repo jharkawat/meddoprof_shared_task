@@ -1,0 +1,13 @@
+
+Hay	O
+múltiples	O
+causas	O
+que	O
+se	O
+pueden	O
+presentar	O
+en	O
+forma	O
+de	O
+HAD	O
+.	O

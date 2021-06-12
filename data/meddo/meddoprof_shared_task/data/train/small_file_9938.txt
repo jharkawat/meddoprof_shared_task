@@ -1,0 +1,17 @@
+
+El	O
+cuadro	O
+inicial	O
+de	O
+la	O
+enfermedad	O
+varía	O
+desde	O
+ausencia	O
+de	O
+síntomas	O
+hasta	O
+el	O
+fallo	O
+orgánico	O
+.	O

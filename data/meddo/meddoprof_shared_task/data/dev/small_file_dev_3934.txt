@@ -1,0 +1,7 @@
+
+-	O
+Trastorno	O
+depresivo	O
+no	O
+especificado	O
+.	O

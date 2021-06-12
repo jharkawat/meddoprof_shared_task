@@ -1,0 +1,11 @@
+
+El	O
+embarazo	O
+y	O
+el	O
+parto	O
+habían	O
+sido	O
+sin	O
+complicaciones	O
+.	O

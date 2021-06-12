@@ -1,0 +1,5 @@
+
+Alcoholismo	O
+de	O
+tío	O
+paterno	O

@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+reanudó	O
+el	O
+seguimiento	O
+psiquiátrico	O
+a	O
+los	O
+37	O
+años	O
+.	O

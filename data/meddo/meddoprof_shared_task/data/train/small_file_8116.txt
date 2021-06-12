@@ -1,0 +1,26 @@
+
+Se	O
+retiró	O
+el	O
+soporte	O
+ventilatorio	O
+a	O
+los	O
+11	O
+días	O
+;	O
+se	O
+egresó	O
+a	O
+los	O
+13	O
+días	O
+con	O
+persistencia	O
+de	O
+la	O
+elevación	O
+de	O
+los	O
+azoados	O
+.	O

@@ -1,0 +1,8 @@
+
+Herida	O
+quirúrgica	O
+en	O
+extremidad	O
+superior	O
+distal	O
+derecha	O

@@ -1,0 +1,11 @@
+
+Niega	O
+dolor	O
+,	O
+fiebre	O
+,	O
+sudoración	O
+nocturna	O
+o	O
+prurito	O
+.	O

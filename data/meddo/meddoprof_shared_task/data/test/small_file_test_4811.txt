@@ -1,0 +1,15 @@
+
+Aislados	O
+dos	O
+ganglios	O
+centinelas	O
+con	O
+macrometástasis	O
+en	O
+ambos	O
+y	O
+extensión	O
+al	O
+tejido	O
+adiposo	O
+.	O

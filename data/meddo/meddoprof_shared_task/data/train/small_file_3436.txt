@@ -1,0 +1,24 @@
+
+En	O
+dicho	O
+informe	O
+se	O
+describe	O
+además	O
+signo	O
+del	O
+menisco	O
+que	O
+sugiere	O
+derrame	O
+pleural	O
+e	O
+imágenes	O
+aéreas	O
+milimétricas	O
+sin	O
+poder	O
+descartar	O
+tumoración	O
+subyacente	O
+.	O

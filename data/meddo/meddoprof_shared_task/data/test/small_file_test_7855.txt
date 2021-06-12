@@ -1,0 +1,17 @@
+
+Se	O
+realiza	O
+estudio	O
+anatomopatológico	O
+que	O
+informa	O
+,	O
+finalmente	O
+,	O
+de	O
+neoplasia	O
+primaria	O
+de	O
+corteza	O
+adrenal	O
+.	O

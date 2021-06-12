@@ -1,0 +1,12 @@
+
+Recibe	O
+además	O
+del	O
+soporte	O
+hematológico	O
+tratamiento	O
+con	O
+Paracetamol	O
+y	O
+Enalapril	O
+.	O

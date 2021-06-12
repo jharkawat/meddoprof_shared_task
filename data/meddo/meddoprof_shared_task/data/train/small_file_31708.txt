@@ -1,0 +1,13 @@
+
+No	O
+se	O
+evidenciaron	O
+efectos	O
+secundarios	O
+durante	O
+la	O
+titulación	O
+salvo	O
+ligera	O
+sialorrea	O
+.	O

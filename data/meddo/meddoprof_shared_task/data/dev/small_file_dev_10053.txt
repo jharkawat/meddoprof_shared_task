@@ -1,0 +1,26 @@
+
+Continuó	O
+en	O
+tratamiento	O
+ambulatorio	O
+con	O
+haloperidol	O
+(	O
+3	O
+mg	O
+/	O
+día	O
+)	O
+y	O
+pudo	O
+continuar	O
+viviendo	O
+solo	O
+en	O
+su	O
+departamento	O
+con	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+subsidio	I-SITUACION_LABORAL
+social	I-SITUACION_LABORAL
+.	O

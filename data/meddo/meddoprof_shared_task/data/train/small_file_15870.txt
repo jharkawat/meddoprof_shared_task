@@ -1,0 +1,8 @@
+
+Actualmente	O
+no	O
+sigue	O
+ningún	O
+tratamiento	O
+habitual	O
+.	O

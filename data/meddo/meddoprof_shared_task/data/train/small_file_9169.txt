@@ -1,0 +1,15 @@
+
+-	O
+Aparato	O
+broncopulmonar	O
+:	O
+murmullo	O
+vesicular	O
+conservado	O
+con	O
+leve	O
+hipoventilación	O
+en	O
+base	O
+derecha	O
+.	O

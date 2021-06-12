@@ -1,0 +1,27 @@
+
+Tras	O
+esta	O
+primera	O
+consulta	O
+,	O
+le	O
+recomendamos	O
+a	O
+la	O
+paciente	O
+que	O
+realizara	O
+una	O
+foto	O
+si	O
+volvía	O
+a	O
+expulsar	O
+de	O
+nuevo	O
+este	O
+material	O
+por	O
+el	O
+ano	O
+.	O

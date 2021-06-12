@@ -1,0 +1,19 @@
+
+Junto	O
+al	O
+sondaje	O
+,	O
+se	O
+asoció	O
+la	O
+toma	O
+de	O
+cefuroxima	O
+500	O
+mg	O
+12	O
+h	O
+durante	O
+8	O
+días	O
+.	O

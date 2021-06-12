@@ -1,0 +1,26 @@
+
+A	O
+la	O
+semana	O
+mejoría	O
+de	O
+parestesias	O
+,	O
+mejoría	O
+sensitiva	O
+del	O
+periné	O
+,	O
+no	O
+control	O
+de	O
+micción	O
+(	O
+permanece	O
+con	O
+sonda	O
+)	O
+y	O
+tenesmo	O
+rectal	O
+.	O

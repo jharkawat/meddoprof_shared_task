@@ -1,0 +1,19 @@
+
+También	O
+tuvo	O
+síntomas	O
+tras	O
+comer	O
+otros	O
+alimentos	O
+conteniendo	O
+proteínas	O
+lácteas	O
+(	O
+snacks	O
+de	O
+maíz	O
+,	O
+salchichas	O
+)	O
+.	O

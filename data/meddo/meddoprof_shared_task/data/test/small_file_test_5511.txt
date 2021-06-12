@@ -1,0 +1,12 @@
+
+Hiperprolactinemia	O
+leve	O
+en	O
+probable	O
+relación	O
+con	O
+compresión	O
+del	O
+tallo	O
+hipofisario	O
+.	O

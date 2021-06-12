@@ -1,0 +1,25 @@
+
+Tratamiento	O
+actual	O
+:	O
+lorazepam	O
+2	O
+mg	O
+(	O
+1	O
+-	O
+1	O
+-	O
+1	O
+)	O
+y	O
+clozapina	O
+200	O
+mg	O
+(	O
+0	O
+-	O
+0	O
+-	O
+1	O
+)	O

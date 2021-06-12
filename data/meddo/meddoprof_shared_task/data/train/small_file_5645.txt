@@ -1,0 +1,18 @@
+
+Nos	O
+encontramos	O
+con	O
+un	O
+paciente	O
+que	O
+vive	O
+solo	O
+,	O
+con	O
+aspecto	O
+descuidado	O
+y	O
+poco	O
+apoyo	O
+familiar	O
+.	O

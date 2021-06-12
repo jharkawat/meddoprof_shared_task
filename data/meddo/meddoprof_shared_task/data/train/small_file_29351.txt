@@ -1,0 +1,11 @@
+
+Se	O
+fue	O
+subiendo	O
+paulatinamente	O
+la	O
+dosis	O
+con	O
+buena	O
+tolerancia	O
+.	O

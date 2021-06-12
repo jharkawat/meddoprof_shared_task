@@ -1,0 +1,7 @@
+
+Paciete	O
+hombre	O
+de	O
+48	O
+años	O
+.	O

@@ -1,0 +1,25 @@
+
+Dada	O
+la	O
+situación	O
+de	O
+la	O
+paciente	O
+se	O
+decide	O
+establecer	O
+dosis	O
+pautada	O
+de	O
+risperidona	O
+de	O
+4mg	O
+y	O
+tiapride	O
+400mg	O
+,	O
+repartidas	O
+en	O
+dos	O
+tomas	O
+.	O

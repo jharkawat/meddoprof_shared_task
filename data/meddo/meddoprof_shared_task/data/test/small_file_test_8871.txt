@@ -1,0 +1,16 @@
+
+p53	O
+:	O
+positivo	O
+100	O
+%	O
+de	O
+células	O
+intensidad	O
+:	O
+3	O
++	O
+/	O
+3	O
++	O
+.	O

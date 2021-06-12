@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+Ingreso	O
+:	O
+20	O
+/	O
+01	O
+/	O
+2004	O
+.	O

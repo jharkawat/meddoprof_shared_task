@@ -1,0 +1,26 @@
+
+A	O
+las	O
+dos	O
+semanas	O
+la	O
+toxicodermia	O
+había	O
+resuelto	O
+completamente	O
+y	O
+el	O
+paciente	O
+refería	O
+mejoría	O
+clara	O
+de	O
+su	O
+estado	O
+general	O
+respecto	O
+al	O
+inicio	O
+del	O
+tratamiento	O
+.	O

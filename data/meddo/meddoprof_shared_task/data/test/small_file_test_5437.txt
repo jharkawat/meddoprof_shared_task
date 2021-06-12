@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+presentó	O
+un	O
+post	O
+-	O
+operatorio	O
+sin	O
+incidencias	O
+.	O

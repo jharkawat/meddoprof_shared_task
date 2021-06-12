@@ -1,0 +1,17 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+ciclofosfamida	O
++	O
+prednisona	O
+con	O
+buena	O
+respuesta	O
+,	O
+desaparición	O
+de	O
+nódulos	O
+pulmonares	O
+.	O

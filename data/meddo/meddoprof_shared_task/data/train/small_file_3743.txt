@@ -1,0 +1,26 @@
+
+Con	O
+diarrea	O
+desde	O
+hace	O
+2	O
+-	O
+3	O
+días	O
+,	O
+con	O
+heces	O
+de	O
+consistencia	O
+líquida	O
+sin	O
+presencia	O
+de	O
+productos	O
+patológicos	O
+,	O
+y	O
+orinas	O
+más	O
+oscuras	O
+.	O

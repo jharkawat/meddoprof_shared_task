@@ -1,0 +1,20 @@
+
+Se	O
+realiza	O
+una	O
+radiografía	O
+de	O
+tórax	O
+,	O
+que	O
+objetiva	O
+discreta	O
+cardiomegalia	O
+,	O
+con	O
+aumento	O
+de	O
+densidad	O
+paramediastínica	O
+derecha	O
+.	O

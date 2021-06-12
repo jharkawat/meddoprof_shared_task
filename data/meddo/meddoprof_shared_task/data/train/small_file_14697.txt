@@ -1,0 +1,23 @@
+
+Debido	O
+a	O
+la	O
+alta	O
+sospecha	O
+de	O
+trombosis	O
+se	O
+inició	O
+anticoagulación	O
+con	O
+HBPM	O
+y	O
+se	O
+repitió	O
+la	O
+ecografía	O
+a	O
+los	O
+siete	O
+días	O
+.	O

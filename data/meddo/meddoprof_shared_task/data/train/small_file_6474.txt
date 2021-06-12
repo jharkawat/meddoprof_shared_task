@@ -1,0 +1,14 @@
+
+Se	O
+apreciaron	O
+también	O
+manchas	O
+similares	O
+salpicadas	O
+en	O
+el	O
+dorso	O
+de	O
+misma	O
+mano	O
+.	O

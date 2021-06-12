@@ -1,0 +1,14 @@
+
+Los	O
+hallazgos	O
+son	O
+concordantes	O
+con	O
+Enfermedad	O
+de	O
+Castleman	O
+de	O
+tipo	O
+hialino	O
+vascular	O
+.	O

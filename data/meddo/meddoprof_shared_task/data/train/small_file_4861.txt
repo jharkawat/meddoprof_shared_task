@@ -1,0 +1,23 @@
+
+Ecocardio	O
+transtorácica	O
+:	O
+Ventrículo	O
+izquierdo	O
+no	O
+dilatado	O
+con	O
+espesor	O
+de	O
+paredes	O
+normales	O
+,	O
+función	O
+sistólica	O
+conservada	O
+con	O
+Fracción	O
+de	O
+eyección	O
+normal	O
+.	O

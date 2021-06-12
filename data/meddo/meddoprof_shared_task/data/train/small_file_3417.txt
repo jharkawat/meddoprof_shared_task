@@ -1,0 +1,13 @@
+
+Volvemos	O
+a	O
+hacer	O
+pasar	O
+a	O
+la	O
+paciente	O
+a	O
+consulta	O
+de	O
+Urgencias	O
+.	O

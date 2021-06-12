@@ -1,0 +1,7 @@
+
+Se	O
+le	O
+fabricó	O
+una	O
+tabla	O
+.	O

@@ -1,0 +1,27 @@
+
+Siempre	O
+ha	O
+sido	O
+aficionado	B-ACTIVIDAD
+a	I-ACTIVIDAD
+la	I-ACTIVIDAD
+práctica	I-ACTIVIDAD
+de	I-ACTIVIDAD
+deportes	I-ACTIVIDAD
+,	O
+a	O
+la	O
+naturaleza	O
+y	O
+al	O
+cuidado	O
+de	O
+animales	O
+y	O
+con	O
+facilidad	O
+para	O
+establecer	O
+relaciones	O
+interpersonales	O
+.	O

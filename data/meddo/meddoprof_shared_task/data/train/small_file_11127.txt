@@ -1,0 +1,4 @@
+
+Proteínas	O
+25	O
+.	O

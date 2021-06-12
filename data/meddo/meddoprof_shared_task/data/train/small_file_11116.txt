@@ -1,0 +1,7 @@
+
+Murmullo	O
+vesicular	O
+conservado	O
+sin	O
+estertores	O
+.	O

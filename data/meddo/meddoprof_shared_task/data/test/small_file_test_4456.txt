@@ -1,0 +1,20 @@
+
+Marcadores	O
+tumorales	O
+:	O
+CEA	O
+9	O
+,	O
+5	O
+ng	O
+/	O
+mL	O
+;	O
+CA	O
+-	O
+125	O
+265	O
+U	O
+/	O
+mL	O
+.	O

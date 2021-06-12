@@ -1,0 +1,23 @@
+
+Tras	O
+comenzar	O
+seguimiento	O
+y	O
+tratamiento	O
+psicofarmacológico	O
+en	O
+Salud	O
+Mental	O
+,	O
+comienza	O
+a	O
+disminuir	O
+su	O
+sintomatología	O
+y	O
+mejorar	O
+su	O
+calidad	O
+de	O
+vida	O
+.	O

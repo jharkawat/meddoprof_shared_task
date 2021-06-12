@@ -1,0 +1,67 @@
+T1	SINTOMA 2220 2229	orientada
+T2	SINTOMA 2231 2257	aspecto general desaliñado
+T3	SINTOMA 2367 2391	heteroagresividad verbal
+T4	SINTOMA 2694 2721	sintomatología alucinatoria
+T5	SINTOMA 3583 3611	alteraciones sensoperceptiva
+T6	PROCEDIMIENTO 1117 1147	tratamiento psicofarmacológico
+T7	NEG 378 381	sin
+T8	NSCO 382 394	antecedentes
+T9	NEG 419 421	no
+T10	NSCO 422 434	AP orgánicos
+T11	NEG 442 444	No
+T12	NSCO 445 455	IQ previas
+T13	NEG 752 754	no
+T14	NSCO 755 778	logrando su vinculación
+T15	NEG 1354 1357	sin
+T16	NSCO 1358 1381	cambios en la evolución
+T17	NEG 1538 1540	No
+T18	NSCO 1541 1572	consumo de tóxicos concomitante
+T19	NEG 1981 1985	nula
+T20	NSCO 1986 1998	colaboración
+T21	NEG 2684 2686	No
+T22	NSCO 2687 2689	IA
+T23	NEG 2691 2693	No
+T24	NSCO 2694 2753	sintomatología alucinatoria o fenómenos de alienación yoica
+T25	NEG 2929 2932	sin
+T26	NSCO 2933 2940	interés
+T27	UNC 3264 3272	pudieran
+T28	USCO 3273 3323	poner en duda la adherencia al tratamiento al alta
+T29	NEG 3570 3572	No
+T30	NSCO 3573 3611	ha habido alteraciones sensoperceptiva
+T31	FARMACO 1199 1210	flufenazina
+T32	FARMACO 1212 1225	zuclopentixol
+T33	FARMACO 1227 1239	paliperidona
+T34	FARMACO 1249 1259	olanzapina
+T35	FARMACO 1261 1272	aripiprazol
+T36	FARMACO 1274 1285	risperidona
+T37	FARMACO 1287 1295	loxapina
+T38	FARMACO 1297 1307	quetiapina
+T39	FARMACO 1309 1320	haloperidol
+T40	FARMACO 1322 1337	levomepromazina
+T41	FARMACO 1339 1352	clorpromazina
+T42	FARMACO 1420 1430	olanzapina
+T43	FARMACO 1446 1457	haloperidol
+T44	FARMACO 1487 1495	diazepam
+T45	FARMACO 1511 1523	lormetazepam
+T46	FARMACO 3148 3158	olanzapina
+T47	FARMACO 3161 3172	risperidona
+T48	FARMACO 3376 3385	clozapina
+T49	FARMACO 4191 4200	clozapina
+T50	FARMACO 4218 4227	lorazepam
+T51	ORG_VIVO 0 8	Paciente
+T52	ORG_VIVO 306 312	padres
+T53	ORG_VIVO 366 376	familiares
+T54	ORG_VIVO 1626 1634	paciente
+T55	ORG_VIVO 1710 1714	hija
+T56	ORG_VIVO 1747 1753	ganado
+T57	ORG_VIVO 2606 2618	electricista
+T58	ORG_VIVO 3522 3530	personal
+T59	ENFERMEDAD 185 210	descompensación psicótica
+T60	ENFERMEDAD 550 573	esquizofrenia paranoide
+T61	ENFERMEDAD 578 607	trastorno límite personalidad
+T62	ENFERMEDAD 1575 1592	ENFERMEDAD ACTUAL
+T63	ENFERMEDAD 2993 3004	DIAGNÓSTICO
+T64	ENFERMEDAD 3005 3028	Esquizofrenia paranoide
+T65	ENFERMEDAD 3031 3066	trastorno límite de la personalidad
+T66	PACIENTE-PROFESION 2606 2618	electricista
+T67	PACIENTE-PROFESION 315 324	Fotógrafa

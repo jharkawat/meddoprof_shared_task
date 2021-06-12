@@ -1,0 +1,21 @@
+
+Se	O
+interviene	O
+quirúrgicamente	O
+practicándose	O
+una	O
+resección	O
+de	O
+uraco	O
+con	O
+cistectomía	O
+parcial	O
+laparoscópica	O
+y	O
+linfadenectomía	O
+bilateral	O
+ileobturatriz	O
+e	O
+iliaca	O
+externa	O
+.	O

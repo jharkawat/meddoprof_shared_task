@@ -1,0 +1,11 @@
+
+El	O
+dolor	O
+es	O
+intenso	O
+e	O
+impide	O
+el	O
+descanso	O
+nocturno	O
+.	O

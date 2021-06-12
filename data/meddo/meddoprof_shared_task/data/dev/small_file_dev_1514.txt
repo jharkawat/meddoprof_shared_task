@@ -1,0 +1,8 @@
+
+Barrio	O
+biliar	O
+intravesicular	O
+con	O
+microlitiasis	O
+infundibular	O
+.	O

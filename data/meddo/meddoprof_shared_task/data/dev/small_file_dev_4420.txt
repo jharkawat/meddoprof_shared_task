@@ -1,0 +1,12 @@
+
+Aparato	O
+Respiratorio	O
+:	O
+MV	O
+disminuido	O
+en	O
+tercio	O
+superior	O
+de	O
+HTI	O
+.	O

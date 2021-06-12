@@ -1,0 +1,19 @@
+
+Por	O
+este	O
+motivo	O
+precisó	O
+ingreso	O
+en	O
+UCI	O
+durante	O
+72	O
+horas	O
+para	O
+tratamiento	O
+con	O
+drogas	O
+vasoactivas	O
+de	O
+soporte	O
+.	O

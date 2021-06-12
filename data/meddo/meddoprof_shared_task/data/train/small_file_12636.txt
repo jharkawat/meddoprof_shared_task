@@ -1,0 +1,14 @@
+
+La	O
+vena	O
+yugular	O
+así	O
+como	O
+la	O
+vena	O
+axilar	O
+y	O
+humeral	O
+son	O
+permeables	O
+.	O

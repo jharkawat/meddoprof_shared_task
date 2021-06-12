@@ -1,0 +1,25 @@
+
+La	O
+médula	O
+ósea	O
+muestra	O
+señal	O
+heterogénea	O
+a	O
+nivel	O
+metafisiario	O
+por	O
+presencia	O
+de	O
+médula	O
+roja	O
+hematopoyética	O
+(	O
+O	O
+)	O
+,	O
+normal	O
+para	O
+la	O
+edad	O
+.	O

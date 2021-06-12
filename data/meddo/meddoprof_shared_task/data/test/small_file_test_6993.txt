@@ -1,0 +1,18 @@
+
+Durante	O
+el	O
+ingreso	O
+se	O
+instaura	O
+tratamiento	O
+con	O
+sueroterapia	O
+y	O
+analgesia	O
+de	O
+tercer	O
+escalón	O
+con	O
+morfina	O
+subcutánea	O
+.	O

@@ -1,0 +1,16 @@
+
+Reticulcitos	O
+3	O
+,	O
+67	O
+%	O
+(	O
+en	O
+rango	O
+normal	O
+para	O
+valores	O
+de	O
+hematocrito	O
+)	O
+.	O

@@ -1,0 +1,22 @@
+
+OJOS	O
+:	O
+Paciente	O
+con	O
+parpados	O
+y	O
+movimientos	O
+oculares	O
+sin	O
+alteraciones	O
+,	O
+pupilas	O
+isocoricas	O
+y	O
+normoreactivas	O
+,	O
+fondo	O
+de	O
+ojo	O
+normal	O
+.	O

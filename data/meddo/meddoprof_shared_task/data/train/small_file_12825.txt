@@ -1,0 +1,12 @@
+
+No	O
+se	O
+palpa	O
+dorso	O
+nasal	O
+cartilaginoso	O
+aunque	O
+sí	O
+el	O
+óseo	O
+.	O

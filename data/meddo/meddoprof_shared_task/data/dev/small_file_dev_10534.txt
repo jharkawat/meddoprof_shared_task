@@ -1,0 +1,19 @@
+
+Ella	O
+estaba	O
+totalmente	O
+en	O
+desacuerdo	O
+con	O
+que	O
+saliera	O
+con	O
+una	O
+chica	O
+que	O
+a	O
+ella	O
+no	O
+le	O
+gustaba	O
+.	O

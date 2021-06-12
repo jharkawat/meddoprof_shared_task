@@ -1,0 +1,10 @@
+
+La	O
+auscultación	O
+pulmonar	O
+mostraba	O
+roncus	O
+y	O
+sibilantes	O
+bilaterales	O
+.	O

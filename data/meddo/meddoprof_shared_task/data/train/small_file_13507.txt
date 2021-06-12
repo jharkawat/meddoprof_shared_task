@@ -1,0 +1,26 @@
+
+Se	O
+realiza	O
+TC	O
+craneal	O
+urgente	O
+,	O
+sin	O
+contraste	O
+por	O
+deterioro	O
+de	O
+función	O
+renal	O
+,	O
+objetivándose	O
+hipodensidad	O
+subcortical	O
+frontal	O
+izquierda	O
+sugerente	O
+ictus	O
+isquémico	O
+en	O
+evolución	O
+.	O

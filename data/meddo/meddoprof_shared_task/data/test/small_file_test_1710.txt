@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+no	O
+presentaba	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+,	O
+alergias	O
+ni	O
+hábitos	O
+que	O
+se	O
+contraindicaran	O
+el	O
+tratamiento	O
+.	O

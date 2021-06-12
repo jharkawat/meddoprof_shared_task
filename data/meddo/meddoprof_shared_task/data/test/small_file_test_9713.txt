@@ -1,0 +1,6 @@
+
+PCR	O
+negativa	O
+para	O
+herpes	O
+.	O

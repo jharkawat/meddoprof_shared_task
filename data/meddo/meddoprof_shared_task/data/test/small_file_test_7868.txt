@@ -1,0 +1,10 @@
+
+Madre	O
+soltera	O
+de	O
+una	O
+hija	O
+de	O
+12	O
+años	O
+.	O

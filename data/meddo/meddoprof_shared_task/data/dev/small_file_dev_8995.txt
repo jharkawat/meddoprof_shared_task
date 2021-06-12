@@ -1,0 +1,9 @@
+
+Antecedentes	O
+de	O
+dermatitis	O
+seborreica	O
+en	O
+cuero	O
+cabelludo	O
+.	O

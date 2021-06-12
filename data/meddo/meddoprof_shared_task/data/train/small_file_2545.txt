@@ -1,0 +1,14 @@
+
+Además	O
+,	O
+decidimos	O
+realizar	O
+prick	O
+-	O
+prick	O
+con	O
+distintos	O
+grupos	O
+de	O
+carnes	O
+:	O

@@ -1,0 +1,19 @@
+
+Se	O
+realizan	O
+múltiples	O
+estudios	O
+microbiológicos	O
+con	O
+la	O
+biopsia	O
+,	O
+siendo	O
+negativo	O
+para	O
+tuberculosis	O
+,	O
+hongos	O
+,	O
+amebas	O
+.	O

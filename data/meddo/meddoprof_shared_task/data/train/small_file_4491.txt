@@ -1,0 +1,14 @@
+
+Asociado	O
+a	O
+cefalea	O
+frontal	O
+que	O
+no	O
+irradia	O
+,	O
+no	O
+fotofobia	O
+ni	O
+sonofobia	O
+.	O

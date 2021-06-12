@@ -1,0 +1,9 @@
+
+Anteriormente	O
+había	O
+conseguido	O
+desintoxicarse	O
+sin	O
+apoyo	O
+farmacológico	O
+.	O

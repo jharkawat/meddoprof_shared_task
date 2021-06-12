@@ -1,0 +1,11 @@
+
+Lesiones	O
+de	O
+la	O
+sustancia	O
+blanca	O
+de	O
+probable	O
+etiología	O
+isquémica	O
+.	O

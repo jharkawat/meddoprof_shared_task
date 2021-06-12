@@ -1,0 +1,26 @@
+
+F42	O
+-	O
+0	O
+:	O
+clúster	O
+obsesivo	O
+-	O
+compulsivo	O
+,	O
+F23	O
+.	O
+1	O
+:	O
+trastorno	O
+psicótico	O
+agudo	O
+,	O
+F20	O
+:	O
+esquizofrenia	O
+paranoide	O
+y	O
+trastorno	O
+esquizobsesivo	O
+.	O

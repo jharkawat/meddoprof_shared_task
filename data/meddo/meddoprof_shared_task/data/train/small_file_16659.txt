@@ -1,0 +1,21 @@
+
+Se	O
+observaba	O
+además	O
+una	O
+hipoactividad	O
+relativa	O
+parietal	O
+anterior	O
+,	O
+mientras	O
+que	O
+únicamente	O
+aparecía	O
+bien	O
+conservada	O
+la	O
+función	O
+parietal	O
+posterior	O
+.	O

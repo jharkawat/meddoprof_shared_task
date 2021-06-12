@@ -1,0 +1,236 @@
+Varón	O
+de	O
+45	O
+años.	O
+
+Natural	O
+de	O
+Uruguay.	O
+
+Vive	O
+en	O
+España	O
+desde	O
+hace	O
+14	O
+años.	O
+Transportista.	B-PROFESION
+
+No	O
+hábitos	O
+tóxicos.	O
+
+Fractura	O
+traumática	O
+de	O
+tobillo	O
+derecho.	O
+
+No	O
+antecedentes	O
+familiares	O
+relevantes.	O
+
+ENFERMEDAD	O
+ACTUAL	O
+
+Deformidad	O
+en	O
+manos	O
+y	O
+pies	O
+de	O
+20	O
+años	O
+de	O
+evolución	O
+indolora.	O
+
+Desde	O
+hace	O
+2	O
+años	O
+dolor	O
+mecánico.	O
+
+No	O
+datos	O
+de	O
+AR,	O
+SpA,	O
+EAS.	O
+
+No	O
+sífilis	O
+ni	O
+exposición	O
+a	O
+contaminantes.	O
+
+Pérdida	O
+de	O
+piezas	O
+dentales.	O
+
+EXPLORACIÓN	O
+FÍSICA	O
+
+•	O
+Talla	O
+170cm.	O
+
+•	O
+Axial:	O
+Conservada.	O
+Faberenegativo.	O
+
+•	O
+Periférica:	O
+Dedosde	O
+manos	O
+y	O
+piescortos	O
+y	O
+displásicos.	O
+Subluxaciónde	O
+IFD.	O
+No	O
+sinovitis.	O
+
+•	O
+Cuello	O
+ancho.	O
+Pérdidadentaria.	O
+
+•	O
+Dismorfiafacial:	O
+
+−	O
+Hipertelorismo	O
+
+−	O
+Microretrognatia	O
+
+−	O
+Hipoplasiatercio	O
+medio	O
+facial	O
+
+PRUEBAS	O
+COMPLEMENTARIAS	O
+
+•	O
+HG,	O
+BQ,	O
+PTH	O
+normales	O
+
+•	O
+Orina	O
+normal	O
+
+•	O
+RFA,	O
+FR,	O
+ANAnegativos	O
+
+•	O
+HLA-B27+	O
+
+•	O
+Serologías	O
+negativas	O
+
+•	O
+Rx	O
+tórax,	O
+lumbar	O
+y	O
+pelvis	O
+normales	O
+
+DIAGNÓSTICO	O
+DIFERENCIAL	O
+
+ADQUIRIDAS	O
+
+Exposición	O
+al	O
+cloruro	O
+de	O
+polivinilo	O
+
+Artritis	O
+psoriática	O
+mutilante	O
+
+Tromboangeítis	O
+obliterante	O
+
+Hiperparatiroidismo	O
+
+Lepra	O
+
+Esclerodermia	O
+
+CONGÉNITAS	O
+
+Epidermólisis	O
+ampollosa	O
+
+Síndrome	O
+de	O
+KID	O
+
+Enfermedad	O
+de	O
+Ehlers-Danlos	O
+tipo	O
+IV	O
+
+Acro-osteopatíaúlcero-mutilantedeThe-nevard	O
+
+Acroosteólisis	O
+asociada	O
+a	O
+Sd	O
+de	O
+Down	O
+
+Osteólisis	O
+masiva	O
+o	O
+enf	O
+de	O
+Gorham-Stout	O
+
+Picnodisostosis	O
+
+Síndrome	O
+de	O
+progeria	O
+de	O
+Hutchinson-Gilford	O
+
+DIAGNÓSTICO	O
+GENÉTICO	O
+
+PORTADOR	O
+VARIANTE	O
+P.Q2208X	O
+EN	O
+EL	O
+EXÓN	O
+34	O
+DEL	O
+GEN	O
+NOTCH2	O
+
+DIAGNÓSTICO	O
+DEFINITIVO	O
+
+SÍNDROMEDE	O
+HAJDU-CHENEY	O
+O	O
+ACRO-DENTO-OSEO-DISPLASIA	O
+

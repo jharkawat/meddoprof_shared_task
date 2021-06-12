@@ -1,0 +1,10 @@
+
+Auscultación	O
+cardíaca	O
+taquicárdico	O
+a	O
+120	O
+lpm	O
+y	O
+rítmico	O
+.	O

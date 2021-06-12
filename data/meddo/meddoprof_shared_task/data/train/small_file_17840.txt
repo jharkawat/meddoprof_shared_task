@@ -1,0 +1,7 @@
+
+El	O
+peristaltismo	O
+parece	O
+estar	O
+aumentado	O
+.	O

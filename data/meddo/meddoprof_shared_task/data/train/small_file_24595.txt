@@ -1,0 +1,12 @@
+
+Identificación	O
+del	O
+paciente	O
+,	O
+evaluación	O
+y	O
+formulación	O
+clínica	O
+del	O
+caso	O
+.	O

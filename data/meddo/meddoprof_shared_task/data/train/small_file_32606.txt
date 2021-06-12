@@ -1,0 +1,10 @@
+
+Se	O
+casa	O
+y	O
+es	O
+madre	O
+con	O
+21	O
+años	O
+.	O

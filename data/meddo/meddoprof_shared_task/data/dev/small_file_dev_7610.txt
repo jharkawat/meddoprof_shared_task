@@ -1,0 +1,13 @@
+
+En	O
+hemocultivos	O
+extraídos	O
+crece	O
+nuevamente	O
+E	O
+.	O
+coli	O
+productor	O
+de	O
+BLEE	O
+.	O

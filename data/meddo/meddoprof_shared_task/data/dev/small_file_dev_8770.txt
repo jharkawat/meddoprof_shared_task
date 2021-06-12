@@ -1,0 +1,27 @@
+
+El	O
+paciente	O
+,	O
+varón	O
+de	O
+43	O
+años	O
+,	O
+acudió	O
+a	O
+nuestro	O
+hospital	O
+por	O
+fiebre	O
+de	O
+cinco	O
+días	O
+de	O
+evolución	O
+junto	O
+con	O
+dolor	O
+en	O
+hemiabdomen	O
+derecho	O
+.	O

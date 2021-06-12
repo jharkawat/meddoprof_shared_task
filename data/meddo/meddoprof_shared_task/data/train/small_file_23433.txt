@@ -1,0 +1,18 @@
+
+Lenguaje	O
+bien	O
+construido	O
+,	O
+orientado	O
+en	O
+persona	O
+,	O
+espacio	O
+y	O
+parcialmente	O
+en	O
+tiempo	O
+(	O
+dubitativo	O
+)	O
+.	O

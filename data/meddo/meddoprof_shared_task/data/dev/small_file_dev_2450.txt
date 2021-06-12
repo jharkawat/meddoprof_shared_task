@@ -1,0 +1,9 @@
+
+Se	O
+avisa	O
+a	O
+Medicina	O
+Interna	O
+de	O
+Urgencias	O
+.	O

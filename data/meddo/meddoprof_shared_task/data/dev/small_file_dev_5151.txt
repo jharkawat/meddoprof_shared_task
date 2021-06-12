@@ -1,0 +1,14 @@
+
+Se	O
+decide	O
+drenar	O
+el	O
+absceso	O
+retroperitoneal	O
+por	O
+radiología	O
+intervencionista	O
+guiado	O
+por	O
+TC	O
+.	O

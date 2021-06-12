@@ -1,0 +1,14 @@
+
+El	O
+estudio	O
+de	O
+electrocardiograma	O
+fue	O
+normal	O
+,	O
+así	O
+como	O
+el	O
+TAC	O
+craneal	O
+.	O

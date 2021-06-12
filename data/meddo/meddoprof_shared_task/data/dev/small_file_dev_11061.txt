@@ -1,0 +1,11 @@
+
+RADIOGRAFIA	O
+DE	O
+TORAX	O
+:	O
+Partes	O
+Blandas	O
+:	O
+sin	O
+particularidad	O
+.	O

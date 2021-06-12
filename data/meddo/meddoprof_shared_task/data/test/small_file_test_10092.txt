@@ -1,0 +1,23 @@
+
+Dado	O
+el	O
+empeoramiento	O
+clínico	O
+,	O
+se	O
+decidió	O
+cambiar	O
+el	O
+tratamiento	O
+a	O
+infliximab	O
+y	O
+metotrexato	O
+,	O
+pero	O
+desgraciadamente	O
+,	O
+sin	O
+conseguir	O
+remisión	O
+.	O

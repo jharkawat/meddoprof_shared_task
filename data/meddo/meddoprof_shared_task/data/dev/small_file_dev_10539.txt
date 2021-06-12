@@ -1,0 +1,21 @@
+
+Desde	O
+entonces	O
+,	O
+el	O
+paciente	O
+fue	O
+hospitalizado	O
+varias	O
+veces	O
+por	O
+depresión	O
+,	O
+generalmente	O
+sólo	O
+por	O
+uno	O
+o	O
+dos	O
+días	O
+.	O

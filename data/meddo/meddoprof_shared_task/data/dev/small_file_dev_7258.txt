@@ -1,0 +1,14 @@
+
+Radiografía	O
+del	O
+pie	O
+afectado	O
+:	O
+hallux	O
+valgus	O
+sin	O
+objetivarse	O
+signos	O
+de	O
+osteomielitis	O
+.	O

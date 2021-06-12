@@ -1,0 +1,24 @@
+
+La	O
+paciente	O
+presenta	O
+un	O
+deterioro	O
+de	O
+la	O
+memoria	O
+y	O
+otras	O
+habilidades	O
+intelectuales	O
+,	O
+suficiente	O
+para	O
+impedir	O
+sus	O
+actividades	O
+en	O
+la	O
+vida	O
+cotidiana	O
+.	O

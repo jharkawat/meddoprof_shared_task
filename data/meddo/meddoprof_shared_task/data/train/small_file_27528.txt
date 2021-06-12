@@ -1,0 +1,25 @@
+
+Le	O
+tienen	O
+prohibido	O
+entrar	O
+en	O
+su	O
+habitación	O
+(	O
+ellas	O
+duermen	O
+juntas	O
+)	O
+,	O
+donde	O
+se	O
+encierran	O
+las	O
+dos	O
+la	O
+mayor	O
+parte	O
+del	O
+día	O
+.	O

@@ -1,0 +1,17 @@
+
+Se	O
+suspende	O
+crizotinib	O
+,	O
+se	O
+intensifica	O
+tratamiento	O
+depletivo	O
+con	O
+mejoría	O
+del	O
+cuadro	O
+de	O
+insuficiencia	O
+cardíaca	O
+.	O

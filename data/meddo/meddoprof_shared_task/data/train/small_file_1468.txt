@@ -1,0 +1,20 @@
+
+En	O
+el	O
+TACAR	O
+se	O
+objetiva	O
+afectación	O
+pulmonar	O
+bilateral	O
+de	O
+predominio	O
+en	O
+campos	O
+superiores	O
+con	O
+engrosamiento	O
+de	O
+paredes	O
+bronquiales	O
+.	O

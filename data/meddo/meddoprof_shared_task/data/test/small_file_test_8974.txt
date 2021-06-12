@@ -1,0 +1,15 @@
+
+Infiltración	O
+leptomeníngea	O
+por	O
+neoplasia	O
+indiferenciada	O
+de	O
+alto	O
+grado	O
+con	O
+inmunofenotipo	O
+neuroepitelial	O
+/	O
+neuroendocrino	O
+.	O

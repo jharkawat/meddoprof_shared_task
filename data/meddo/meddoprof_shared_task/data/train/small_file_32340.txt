@@ -1,0 +1,23 @@
+
+En	O
+agosto	O
+de	O
+2011	O
+,	O
+ingreso	O
+voluntario	O
+por	O
+clínica	O
+depresiva	O
+y	O
+síntomas	O
+psicóticos	O
+tras	O
+el	O
+abandono	O
+de	O
+su	O
+tratamiento	O
+en	O
+Ramadán	O
+.	O

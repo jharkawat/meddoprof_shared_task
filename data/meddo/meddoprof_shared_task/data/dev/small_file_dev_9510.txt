@@ -1,0 +1,21 @@
+
+MC	O
+:	O
+Varón	O
+de	O
+34	O
+años	O
+,	O
+traído	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+reiteradamente	O
+por	O
+episodios	O
+de	O
+heteroagresividad	O
+en	O
+escalada	O
+.	O

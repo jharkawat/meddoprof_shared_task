@@ -1,0 +1,10 @@
+
+En	O
+lo	O
+posible	O
+no	O
+utilizar	O
+transporte	O
+público	O
+masivo	O
+.	O

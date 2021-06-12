@@ -1,0 +1,117 @@
+T1	SINTOMA 794 816	hipotonía generalizada
+T2	SINTOMA 3325 3360	movimientos selectivos de la cabeza
+T3	SINTOMA 4338 4357	rasgos anancásticos
+T4	SINTOMA 4446 4460	perfeccionista
+T5	SINTOMA 4462 4471	obstinada
+T6	SINTOMA 5221 5240	síntomas depresivos
+T7	SINTOMA 5300 5308	tristeza
+T8	SINTOMA 5310 5319	anhedonia
+T9	SINTOMA 5759 5787	disminución de la autoestima
+T10	SINTOMA 5789 5799	desaliento
+T11	SINTOMA 5801 5809	anorexia
+T12	SINTOMA 5814 5829	pérdida de peso
+T13	SINTOMA 5848 5861	irritabilidad
+T14	SINTOMA 5863 5871	insomnio
+T15	SINTOMA 5881 5903	despertares frecuentes
+T16	SINTOMA 5905 5923	pesadillas vívidas
+T17	SINTOMA 5981 5993	disautonomía
+T18	SINTOMA 5995 6008	palpitaciones
+T19	SINTOMA 6141 6154	subdepresivos
+T20	SINTOMA 6836 6852	pérdida ponderal
+T21	SINTOMA 6980 6986	vómito
+T22	SINTOMA 7221 7240	deterioro depresivo
+T23	SINTOMA 7270 7286	aumento ponderal
+T24	PROCEDIMIENTO 342 347	parto
+T25	PROCEDIMIENTO 499 506	cesárea
+T26	PROCEDIMIENTO 929 951	intubación orotraqueal
+T27	PROCEDIMIENTO 953 976	alimentación parenteral
+T28	PROCEDIMIENTO 1024 1049	antibioterapia endovenosa
+T29	PROCEDIMIENTO 1089 1114	ecografía transfontanelar
+T30	PROCEDIMIENTO 1117 1120	EEG
+T31	PROCEDIMIENTO 1298 1333	administración de anticonvulsivante
+T32	PROCEDIMIENTO 1576 1590	rehabilitación
+T33	PROCEDIMIENTO 2371 2393	evaluación neurológica
+T34	PROCEDIMIENTO 2911 2922	hipoterapia
+T35	NEG 224 226	no
+T36	NSCO 227 239	fue planeado
+T37	NEG 319 322	sin
+T38	NSCO 323 337	complicaciones
+T39	NEG 1187 1190	sin
+T40	NSCO 1191 1207	atrofia cortical
+T41	UNC 1263 1271	probable
+T42	USCO 1272 1347	etiología yatrogénica por administración de anticonvulsivante (fenobarbital
+T43	NEG 1389 1391	no
+T44	NSCO 1392 1409	se confirmaron ni
+T45	NEG 1845 1848	sin
+T46	NSCO 1849 1864	intercurrencias
+T47	NEG 1942 1945	sin
+T48	NSCO 1946 2020	dificultades o diferencias significativas con respecto al primer hijo sano
+T49	UNC 2250 2265	compatibles con
+T50	USCO 2266 2284	parálisis cerebral
+T51	NEG 3362 3367	Nunca
+T52	NSCO 3368 3408	llegó a andar ni asumió posturas activas
+T53	NEG 3590 3592	no
+T54	NSCO 3593 3646	manipula objetos ni realiza habilidades motoras finas
+T55	NEG 3812 3815	Sin
+T56	NSCO 3816 3855	cambios de la agudeza visual o auditiva
+T57	NEG 4095 4097	no
+T58	NSCO 4098 4110	perceptibles
+T59	NEG 4511 4514	sin
+T60	NSCO 4515 4651	nunca desistir".En términos de vivencia de la propia relación con los caracteres sexuales secundarios característicos de la adolescencia
+T61	NEG 6163 6174	ausencia de
+T62	NSCO 6175 6200	respuesta clínica deseada
+T63	UNC 6596 6610	compatible con
+T64	USCO 6611 6628	anorexia nerviosa
+T65	NEG 7025 7027	no
+T66	NSCO 7028 7040	lo permitían
+T67	NEG 7420 7423	sin
+T68	NSCO 7424 7429	éxito
+T69	FARMACO 1019 1021	O2
+T70	FARMACO 1335 1347	fenobarbital
+T71	ORG_VIVO 0 5	Mujer
+T72	ORG_VIVO 126 133	familia
+T73	ORG_VIVO 167 172	hijos
+T74	ORG_VIVO 174 181	hermano
+T75	ORG_VIVO 279 285	médico
+T76	ORG_VIVO 535 540	fetal
+T77	ORG_VIVO 616 624	neonatal
+T78	ORG_VIVO 832 840	neonatal
+T79	ORG_VIVO 1520 1532	neonatología
+T80	ORG_VIVO 1869 1874	madre
+T81	ORG_VIVO 2011 2015	hijo
+T82	ORG_VIVO 3701 3709	personal
+T83	ORG_VIVO 3898 3906	infancia
+T84	ORG_VIVO 4273 4283	familiares
+T85	ORG_VIVO 4639 4651	adolescencia
+T86	ORG_VIVO 4656 4661	madre
+T87	ORG_VIVO 4724 4733	masculina
+T88	ORG_VIVO 4817 4823	padres
+T89	ORG_VIVO 4884 4889	padre
+T90	ORG_VIVO 5204 5216	adolescencia
+T91	ORG_VIVO 6440 6445	madre
+T92	ORG_VIVO 7329 7338	terapeuta
+T93	ORG_VIVO 7405 7418	nutricionista
+T94	ENFERMEDAD 523 546	sufrimiento fetal agudo
+T95	ENFERMEDAD 548 559	bradicardia
+T96	ENFERMEDAD 562 595	síndrome de aspiración de meconio
+T97	ENFERMEDAD 608 630	asfixia neonatal grave
+T98	ENFERMEDAD 635 678	encefalopatía hipóxico-isquémica de grado I
+T99	ENFERMEDAD 1054 1076	neumonía de aspiración
+T100	ENFERMEDAD 1151 1177	lesión hemorrágica frontal
+T101	ENFERMEDAD 1366 1384	crisis convulsivas
+T102	ENFERMEDAD 2266 2284	parálisis cerebral
+T103	ENFERMEDAD 2302 2324	tetraparesia espástica
+T104	ENFERMEDAD 4857 4869	abuso sexual
+T105	ENFERMEDAD 6513 6537	sintomatología depresiva
+T106	ENFERMEDAD 6611 6628	anorexia nerviosa
+T107	ENFERMEDAD 6639 6652	dismorfofobia
+T108	ENFERMEDAD 6933 6942	amenorrea
+T109	ENFERMEDAD 7221 7240	deterioro depresivo
+T110	SANITARIO-PROFESION 279 304	médico de la especialidad
+T111	PACIENTE-SITUACION_LABORAL 2496 2535	Terminó el 4o año de educación primaria
+T112	PACIENTE-SITUACION_LABORAL 2697 2732	concluyendo segundo de bachillerato
+T113	PACIENTE-ACTIVIDAD 2850 2909	Frecuentó varias actividades extracurriculares como petanca
+T114	PACIENTE-ACTIVIDAD 2850 2930	Frecuentó varias actividades extracurriculares como petanca, hipoterapia y danza
+T115	PACIENTE-SITUACION_LABORAL 5076 5086	preescolar
+T116	OTROS-PROFESION 7329 7348	terapeuta del habla
+T117	OTROS-PROFESION 7405 7418	nutricionista

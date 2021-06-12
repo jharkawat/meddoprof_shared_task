@@ -1,0 +1,8 @@
+
+Sus	O
+exámenes	O
+de	O
+laboratorio	O
+se	O
+normalizaron	O
+.	O

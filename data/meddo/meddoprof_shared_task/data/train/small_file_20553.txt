@@ -1,0 +1,9 @@
+
+Coordinación	O
+senso	O
+-	O
+motriz	O
+57	O
+.	O
+1	O
+%	O

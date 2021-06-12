@@ -1,0 +1,22 @@
+
+En	O
+los	O
+últimos	O
+meses	O
+sale	O
+poco	O
+de	O
+casa	O
+debido	O
+a	O
+las	O
+dificultades	O
+de	O
+movilidad	O
+y	O
+el	O
+miedo	O
+a	O
+las	O
+caídas	O
+.	O

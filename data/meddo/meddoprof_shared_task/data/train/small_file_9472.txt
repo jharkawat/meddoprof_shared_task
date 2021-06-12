@@ -1,0 +1,9 @@
+
+A	O
+nivel	O
+neurológico	O
+no	O
+volvió	O
+a	O
+deteriorarse	O
+.	O

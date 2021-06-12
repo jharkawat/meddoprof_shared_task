@@ -1,0 +1,9 @@
+
+IgG	O
+versus	O
+Borrelia	O
+burgdorferi	O
+en	O
+suero	O
+positivo	O
+.	O

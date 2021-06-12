@@ -1,0 +1,13 @@
+
+El	O
+diagnóstico	O
+de	O
+confirmación	O
+tuvo	O
+como	O
+resultado	O
+un	O
+mucocele	O
+de	O
+retención	O
+.	O

@@ -1,0 +1,37 @@
+T1	SINTOMA 139 156	síntomas cutáneos
+T2	SINTOMA 281 296	lagrimeo ocular
+T3	PROCEDIMIENTO 660 685	test epicutáneo de parche
+T4	PROCEDIMIENTO 912 931	rinoscopia anterior
+T5	PROCEDIMIENTO 934 954	fibronaso-endoscopia
+T6	PROCEDIMIENTO 978 998	radiografía de tórax
+T7	PROCEDIMIENTO 1023 1053	dosificación de cromo urinario
+T8	PROCEDIMIENTO 1884 1895	corticoides
+T9	NEG 955 958	sin
+T10	NSCO 959 971	alteraciones
+T11	NEG 1007 1009	No
+T12	NSCO 1010 1083	contamos con dosificación de cromo urinario durante el período de trabajo
+T13	NEG 1085 1090	Niega
+T14	NSCO 1091 1167	antecedentes familiares y personales de asma, alergia respiratoria o cutánea
+T15	UNC 1655 1667	desconoce si
+T16	USCO 1668 1695	hubo mediciones ambientales
+T17	NEG 1861 1866	ceden
+T18	NSCO 1867 1895	parcialmente con corticoides
+T19	NEG 1924 1926	no
+T20	NSCO 1927 1948	volvieron a repetirse
+T21	ORG_VIVO 0 8	Paciente
+T22	ORG_VIVO 26 35	masculino
+T23	ORG_VIVO 301 309	paciente
+T24	ORG_VIVO 1104 1114	familiares
+T25	ORG_VIVO 1117 1127	personales
+T26	ORG_VIVO 1289 1297	paciente
+T27	ORG_VIVO 1646 1654	paciente
+T28	ENFERMEDAD 88 98	dermatitis
+T29	ENFERMEDAD 264 278	rinitis serosa
+T30	ENFERMEDAD 319 336	eccema diseminado
+T31	ENFERMEDAD 342 480	lesiones eritematosas, vesiculosas y exudativas intensamente pruriginosas que en la evolución devienen eritematosas, escamosas y costrosas
+T32	ENFERMEDAD 1131 1135	asma
+T33	ENFERMEDAD 1137 1167	alergia respiratoria o cutánea
+T34	PACIENTE-PROFESION 37 69	operario de la industria química
+T35	PACIENTE-PROFESION 193 232	ingreso a una fábrica de sales de cromo
+T36	PACIENTE-PROFESION 1591 1599	operario
+T37	PACIENTE-PROFESION 1764 1813	comienza a trabajar en el ramo de la construcción

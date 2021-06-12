@@ -1,0 +1,14 @@
+
+En	O
+urgencias	O
+se	O
+realizó	O
+un	O
+Hemograma	O
+que	O
+mostraba	O
+las	O
+3	O
+series	O
+normales	O
+.	O

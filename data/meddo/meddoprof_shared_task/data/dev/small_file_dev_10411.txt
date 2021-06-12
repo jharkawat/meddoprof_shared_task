@@ -1,0 +1,19 @@
+
+Se	O
+detenía	O
+sólo	O
+después	O
+de	O
+una	O
+o	O
+dos	O
+horas	O
+cuando	O
+no	O
+podía	O
+encontrar	O
+nada	O
+más	O
+que	O
+comer	O
+.	O

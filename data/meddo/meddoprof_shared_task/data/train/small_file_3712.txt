@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+está	O
+casado	O
+,	O
+tiene	O
+dos	O
+hijas	O
+de	O
+14	O
+y	O
+19	O
+años	O
+,	O
+con	O
+buena	O
+relación	O
+familiar	O
+.	O

@@ -1,0 +1,24 @@
+
+Una	O
+paciente	O
+de	O
+31	O
+años	O
+afecta	O
+de	O
+retraso	O
+mental	O
+desarrolla	O
+parkinsonismo	O
+completo	O
+al	O
+asociar	O
+300	O
+mg	O
+/	O
+día	O
+de	O
+quetiapina	O
+con	O
+metronidazol	O
+.	O

@@ -1,0 +1,13 @@
+
+Se	O
+decidió	O
+añadir	O
+15	O
+mg	O
+de	O
+aripiprazol	O
+a	O
+su	O
+tratamiento	O
+previo	O
+.	O

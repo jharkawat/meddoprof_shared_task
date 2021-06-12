@@ -1,0 +1,24 @@
+
+Negaba	O
+picaduras	O
+de	O
+algún	O
+tipo	O
+,	O
+aunque	O
+algunos	O
+de	O
+sus	O
+compañeros	B-ACTIVIDAD
+de	I-ACTIVIDAD
+excursión	I-ACTIVIDAD
+en	O
+Nueva	O
+York	O
+sí	O
+habían	O
+sufrido	O
+picaduras	O
+de	O
+garrapata	O
+.	O

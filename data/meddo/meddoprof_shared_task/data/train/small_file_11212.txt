@@ -1,0 +1,6 @@
+
+Auscultación	O
+cardiopulmonar	O
+:	O
+Rítmico	O
+.	O

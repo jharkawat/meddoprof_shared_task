@@ -1,0 +1,27 @@
+
+El	O
+paciente	O
+presenta	O
+dificultad	O
+en	O
+el	O
+seguimiento	O
+con	O
+pruebas	O
+con	O
+contraste	O
+yodado	O
+y	O
+gadolinio	O
+por	O
+la	O
+ERC	O
+residual	O
+por	O
+sólo	O
+contar	O
+con	O
+medio	O
+riñón	O
+derecho	O
+.	O

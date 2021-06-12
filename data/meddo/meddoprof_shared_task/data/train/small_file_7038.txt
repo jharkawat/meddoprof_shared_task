@@ -1,0 +1,10 @@
+
+Tampoco	O
+recurrió	O
+a	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

@@ -1,0 +1,16 @@
+
+Enfoque	O
+familiar	O
+y	O
+comunitario	O
+,	O
+juicio	O
+clínico	O
+(	O
+lista	O
+de	O
+problemas	O
+y	O
+diagnóstico	O
+diferencial	O
+)	O

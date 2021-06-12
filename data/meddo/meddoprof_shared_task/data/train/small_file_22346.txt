@@ -1,0 +1,26 @@
+
+-	O
+Gasometría	O
+arterial	O
+basal	O
+:	O
+pH	O
+7	O
+,	O
+48	O
+/	O
+pCO2	O
+32	O
+/	O
+pO2	O
+61	O
+/	O
+HCO3	O
+24	O
+/	O
+SatO2	O
+92	O
+,	O
+4	O
+%	O
+.	O

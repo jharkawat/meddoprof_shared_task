@@ -1,0 +1,13 @@
+
+Actualmente	O
+,	O
+tras	O
+3	O
+meses	O
+de	O
+la	O
+cirugía	O
+no	O
+presenta	O
+complicaciones	O
+.	O

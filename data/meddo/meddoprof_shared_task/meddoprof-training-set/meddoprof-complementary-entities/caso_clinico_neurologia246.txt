@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 29 años de edad sin antecedentes de interés salvo, según el mismo paciente refería, consumo ocasional de tabaco y cannabis. Una semana antes del ingreso comenzó a presentar cefalea de predominio frontal-hemicraneal izquierda, sin traumatismo, que requirió un gran consumo de analgésicos de forma independiente por parte del paciente, sin consulta en ningún servicio sanitario, sin mejoría completa. La noche del ingreso salió con los amigos a tomar unas copas llegando a su casa sobre las 3:30 de la madrugada. Por la mañana, sobre las 8:30 h es encontrado en el suelo de su habitación por sus padres tras acudir por escuchar un ruido que refieren como el grito de un animal. Encontraron al paciente confuso, sin saber dónde se encontraba ni lo que había ocurrido. Es trasladado en ambulancia al hospital, donde presentó una crisis tónico-clónica generalizada presenciada por el personal sanitario de urgencias.
+
+Exploración física
+Tensión arterial 120/75 mmHg, frecuencia cardiaca 84 lpm, afebril. Auscultación cardiorrespiratoria: tonos cardiacos rítmicos y sin soplos, murmullo vesicular conservado, sin ruidos patológicos sobreañadidos. Exploración neurológica: tendencia al sueño, aunque respondía a estímulos verbales. Desorientado en tiempo y espacio, orientado en persona. Lenguaje bradilálico. Pupilas normorreactivas con menor respuesta a la amenaza visual por la derecha, probable hemianopsia homónima derecha, movimientos oculares normales, resto de pares craneales normales. Fuerza y sensibilidad normal. Reflejo cutáneo-plantar derecho extensor, izquierdo flexor. No dismetrías.
+
+Pruebas complementarias
+• Analítica: hemograma normal, glucemia basal 143 mg/dl, HbA1c 7,2%; el resto de valores dentro de la normalidad.
+• Tomografía computarizada (TC) de cráneo: lesión hipodensa temporal-izquierda de aspecto vascular.
+• Angio-TC: no se observaron alteraciones vasculares, ni signos de trombosis venosa.
+• Electroencefalograma: lesión irritativa temporal izquierda.
+• Eco-doppler de troncos supraaórticos: sin hallazgos.
+• Resonancia magnética: lesión isquémica aguda en la región posterior de la arteria cerebral media izquierda. • Estudio de trombofilia: negativo.
+• Estudio cardiológico: Holter, ecocardiograma y test de la burbuja anodinos.
+
+Diagnóstico
+• Accidente cerebrovascular isquémico del territorio de arteria cerebral media izquierda de posible origen tóxico.
+• Crisis parciales secundariamente generalizadas sintomáticas a la lesión.
+• Intolerancia a los hidratos de carbono.
+
+Tratamiento y evolución
+Durante su ingreso se inició tratamiento con anticomiciales y antiagregantes. No volvió a presentar más crisis. Al alta persistía la hemianopsia homónima derecha. A los dos meses acudió de nuevo a Urgencias por presentar cefalea intensa de horas de evolución que no cedía con analgesia y déficit visual. En la exploración presentaba bradipsiquia, déficit visual del hemicampo izquierdo, disminución de los reflejos osteotendinosos, reflejo cutáneo-plantar derecho extensor.
+En las pruebas complementarias de urgencias se evidenció:
+• Analítica: glucemia 220 mg/dl.
+• TC de cráneo: lesión hipodensa en el territorio posterior de la arteria cerebral media derecha, la lesión antigua había disminuido de tamaño.
+Ante los nuevos hallazgos se sospechó un síndrome de Melas y se solicitaron pruebas genéticas, detectándose en la heteroplasmia la mutación A3243G, lo que confirmó el diagnóstico de síndrome de Melas.
+Pruebas complementarias del nuevo ingreso: electroencefalogama de vigilia compatible con una encefalopatía difusa de etiología inespecífica con componente multifocal (lesivo temporal derecho e irritativo frontal izquierdo). SPECT: deterioro de la función cortical en ambos hemisferios, aunque con mayor afectación del izquierdo, que presentaba hipofunción difusa frontal, parietal y temporal, conservando en ellos pequeñas zonas de mínima función. En el lado derecho el grado de afectación era menor, con defectos más acusados en las regiones frontal anterior y frontoorbitaria, temporal anterior y posterior.
+Se observaba además una hipoactividad relativa parietal anterior, mientras que únicamente aparecía bien conservada la función parietal posterior. En los núcleos basales y el cerebelo se observaba una actividad asimétrica, estando también disminuida en el lado izquierdo. Resonancia magnética de cráneo: se apreciaba una imagen compatible con infarto agudo en evolución en el territorio de la arteria cerebral posterior y parte de la arteria cerebral media derechas, además se apreciaba necrosis cortical en el territorio frontera de la arteria cerebral posterior y la arteria cerebral media izquierda, con atrofia focal, en relación con secuelas de infarto en ese territorio.
+Se observaba una disminución de señal de parte de los núcleos basales, lo que traducía depósito de hierro o calcio. El paciente fue dado de alta en tratamiento con levetiracetam, ácido valproico y antiagregantes, a pesar de lo cual ha presentado crisis comiciales en varias ocasiones.

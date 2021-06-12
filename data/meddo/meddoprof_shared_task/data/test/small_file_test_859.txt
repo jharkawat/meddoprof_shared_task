@@ -1,0 +1,10 @@
+
+Ha	O
+sido	O
+diagnosticada	O
+como	O
+una	O
+epilepsia	O
+tardía	O
+sintomática	O
+.	O

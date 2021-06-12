@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+49	O
+años	O
+que	O
+consulta	O
+por	O
+cefalea	O
+de	O
+reciente	O
+aparición	O
+que	O
+no	O
+cede	O
+con	O
+analgesia	O
+habitual	O
+.	O

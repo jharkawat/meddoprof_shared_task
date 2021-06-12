@@ -1,0 +1,18 @@
+
+Anorexia	O
+y	O
+sensación	O
+nauseosa	O
+constante	O
+(	O
+que	O
+asocia	O
+al	O
+inicio	O
+de	O
+tratamiento	O
+con	O
+Symbicort	O
+®	O
+)	O
+.	O

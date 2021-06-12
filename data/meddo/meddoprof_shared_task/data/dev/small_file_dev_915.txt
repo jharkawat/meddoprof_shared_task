@@ -1,0 +1,13 @@
+
+Rx	O
+tórax	O
+:	O
+discreto	O
+aumento	O
+de	O
+entramado	O
+vascular	O
+sin	O
+edema	O
+intersticial	O
+.	O

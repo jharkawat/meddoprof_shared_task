@@ -1,0 +1,11 @@
+
+No	O
+refería	O
+otra	O
+sintomatología	O
+asociada	O
+con	O
+el	O
+cuadro	O
+actual	O
+.	O

@@ -1,0 +1,10 @@
+
+Asimismo	O
+recibió	O
+tratamiento	O
+de	O
+soporte	O
+con	O
+transfusiones	O
+hemoderivados	O
+.	O

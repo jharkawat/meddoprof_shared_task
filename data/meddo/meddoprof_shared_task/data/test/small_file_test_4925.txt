@@ -1,0 +1,10 @@
+
+Adenopatía	O
+de	O
+13	O
+mm	O
+en	O
+el	O
+hilio	O
+esplénico	O
+.	O

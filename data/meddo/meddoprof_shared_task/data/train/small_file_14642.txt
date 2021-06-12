@@ -1,0 +1,8 @@
+
+Edemas	O
+con	O
+fóvea	O
+bilateral	O
+hasta	O
+rodilla	O
+.	O

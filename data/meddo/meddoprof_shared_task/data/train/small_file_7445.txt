@@ -1,0 +1,12 @@
+
+Como	O
+antecedentes	O
+familiares	O
+de	O
+atopia	O
+destaca	O
+hermana	O
+e	O
+hijos	O
+asmáticos	O
+.	O

@@ -1,0 +1,26 @@
+
+Varón	O
+de	O
+84	O
+años	O
+que	O
+ingresa	O
+en	O
+planta	O
+de	O
+Geriatría	O
+por	O
+intento	O
+de	O
+suicidio	O
+mediante	O
+sobreingesta	O
+medicamentosa	O
+de	O
+baja	O
+rescatabilidad	O
+y	O
+afectación	O
+somática	O
+severa	O
+.	O

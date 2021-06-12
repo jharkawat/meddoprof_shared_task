@@ -1,0 +1,27 @@
+
+Clozapina	O
+200	O
+mg	O
+(	O
+1	O
+/	O
+2	O
+-	O
+1	O
+/	O
+2	O
+-	O
+1	O
+)	O
+y	O
+clomipramina	O
+75	O
+mg	O
+(	O
+0	O
+-	O
+0	O
+-	O
+1	O
+)	O
+.	O

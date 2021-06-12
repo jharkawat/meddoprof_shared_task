@@ -1,0 +1,26 @@
+
+»	O
+La	O
+Anatomía	O
+Patológica	O
+no	O
+muestra	O
+evidencia	O
+de	O
+enfermedad	O
+neoplásica	O
+,	O
+correspondiendo	O
+las	O
+masas	O
+anexiales	O
+,	O
+descritas	O
+en	O
+la	O
+TC	O
+,	O
+a	O
+tejido	O
+necrótico	O
+.	O

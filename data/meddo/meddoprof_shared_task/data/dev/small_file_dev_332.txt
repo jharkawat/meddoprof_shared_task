@@ -1,0 +1,27 @@
+
+En	O
+febrero	O
+de	O
+2012	O
+y	O
+tras	O
+una	O
+reagudización	O
+clínica	O
+,	O
+requiere	O
+un	O
+único	O
+ingreso	O
+en	O
+la	O
+Unidad	O
+de	O
+Hospitalización	O
+con	O
+una	O
+estancia	O
+de	O
+24	O
+días	O
+.	O

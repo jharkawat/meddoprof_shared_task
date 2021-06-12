@@ -1,0 +1,17 @@
+
+En	O
+T2	O
+FLAIR	O
+,	O
+muestran	O
+hiperintensidad	O
+en	O
+los	O
+lóbulos	O
+bilaterales	O
+temporales	O
+intermedios	O
+y	O
+el	O
+tálamo	O
+.	O

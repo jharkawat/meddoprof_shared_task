@@ -1,0 +1,26 @@
+
+Ésa	O
+es	O
+la	O
+razón	O
+por	O
+la	O
+que	O
+la	O
+paciente	O
+,	O
+estudiosa	O
+y	O
+brillante	O
+,	O
+renuncia	O
+a	O
+la	O
+Universidad	O
+para	O
+hacer	O
+un	O
+curso	O
+de	O
+secretariado	O
+.	O

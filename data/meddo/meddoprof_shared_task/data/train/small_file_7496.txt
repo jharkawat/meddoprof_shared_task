@@ -1,0 +1,25 @@
+
+En	O
+la	O
+exploración	O
+física	O
+se	O
+observó	O
+una	O
+placa	O
+eritematoedematosa	O
+en	O
+hemicara	O
+derecha	O
+con	O
+fisuración	O
+,	O
+costras	O
+melicéricas	O
+y	O
+aumento	O
+de	O
+la	O
+temperatura	O
+local	O
+.	O

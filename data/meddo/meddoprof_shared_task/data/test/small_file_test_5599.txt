@@ -1,0 +1,27 @@
+
+Se	O
+completa	O
+el	O
+estudio	O
+con	O
+TAC	O
+toraco	O
+-	O
+abdomino	O
+-	O
+pélvico	O
+que	O
+muestra	O
+lesión	O
+lítica	O
+a	O
+nivel	O
+sacroiliaco	O
+izquierdo	O
+con	O
+proliferación	O
+subyacente	O
+hacia	O
+tejidos	O
+blandos	O
+.	O

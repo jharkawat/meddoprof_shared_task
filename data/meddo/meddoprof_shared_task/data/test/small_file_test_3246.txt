@@ -1,0 +1,5 @@
+
+No	O
+adenopatías	O
+supraclaviculares	O
+.	O

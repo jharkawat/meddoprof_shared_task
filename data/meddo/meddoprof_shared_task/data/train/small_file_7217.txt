@@ -1,0 +1,17 @@
+
+En	O
+la	O
+analítica	O
+realizada	O
+en	O
+urgencias	O
+destacaba	O
+una	O
+eosinofilia	O
+del	O
+14	O
+%	O
+sin	O
+otras	O
+alteraciones	O
+.	O

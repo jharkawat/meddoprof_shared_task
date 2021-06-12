@@ -1,0 +1,16 @@
+
+La	O
+marcha	O
+tenía	O
+un	O
+patrón	O
+en	O
+steppage	O
+y	O
+la	O
+exploración	O
+del	O
+romberg	O
+fue	O
+negativa	O
+.	O

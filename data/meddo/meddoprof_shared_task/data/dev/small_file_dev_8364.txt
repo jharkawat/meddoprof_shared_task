@@ -1,0 +1,15 @@
+
+Es	O
+posible	O
+que	O
+la	O
+manifestación	O
+neurológica	O
+se	O
+agravara	O
+con	O
+la	O
+introducción	O
+del	O
+TAR	O
+.	O

@@ -1,0 +1,25 @@
+
+Se	O
+decide	O
+entonces	O
+asociar	O
+clozapina	O
+a	O
+la	O
+TEC	O
+a	O
+partir	O
+de	O
+la	O
+quinta	O
+sesión	O
+en	O
+escalada	O
+de	O
+dosis	O
+hasta	O
+150	O
+mg	O
+/	O
+d	O
+.	O

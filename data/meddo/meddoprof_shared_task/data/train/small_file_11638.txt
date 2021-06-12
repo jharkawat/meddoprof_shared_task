@@ -1,0 +1,9 @@
+
+No	O
+contacto	O
+con	O
+animales	O
+ni	O
+viajes	O
+recientes	O
+.	O

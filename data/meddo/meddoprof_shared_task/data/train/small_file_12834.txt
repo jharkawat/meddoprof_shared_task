@@ -1,0 +1,14 @@
+
+La	O
+biopsia	O
+salió	O
+negativa	O
+para	O
+células	O
+tumorales	O
+hallándose	O
+material	O
+ulcerado	O
+y	O
+granulomatoso	O
+.	O

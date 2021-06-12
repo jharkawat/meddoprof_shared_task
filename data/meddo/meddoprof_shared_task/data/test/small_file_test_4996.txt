@@ -1,0 +1,18 @@
+
+La	O
+tolerancia	O
+ha	O
+sido	O
+buena	O
+,	O
+con	O
+náuseas	O
+y	O
+astenia	O
+grado	O
+1	O
+como	O
+únicas	O
+toxicidades	O
+relevantes	O
+.	O

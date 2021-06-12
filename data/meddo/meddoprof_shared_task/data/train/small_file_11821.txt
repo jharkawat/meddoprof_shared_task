@@ -1,0 +1,26 @@
+
+En	O
+dichas	O
+analíticas	O
+aparecieron	O
+hallazgos	O
+de	O
+descontrol	O
+glucémico	O
+(	O
+HgA1C	O
+de	O
+6	O
+,	O
+9	O
+%	O
+)	O
+por	O
+primera	O
+vez	O
+desde	O
+su	O
+diagnóstico	O
+de	O
+diabetes	O
+.	O

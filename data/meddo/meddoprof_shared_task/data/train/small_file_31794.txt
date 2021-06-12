@@ -1,0 +1,14 @@
+
+El	O
+primer	O
+contacto	O
+en	O
+Salud	O
+Mental	O
+se	O
+produce	O
+tras	O
+dos	O
+episodios	O
+depresivos	O
+.	O

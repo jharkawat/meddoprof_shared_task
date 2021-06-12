@@ -1,0 +1,22 @@
+
+Dado	O
+el	O
+estado	O
+general	O
+del	O
+paciente	O
+se	O
+decide	O
+ingreso	O
+en	O
+el	O
+servicio	O
+de	O
+dermatología	O
+para	O
+completar	O
+estudios	O
+y	O
+realizar	O
+tratamiento	O
+.	O

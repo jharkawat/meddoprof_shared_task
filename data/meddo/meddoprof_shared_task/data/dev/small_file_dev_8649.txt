@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+fue	O
+tratado	O
+con	O
+Ivermectina	O
+200	O
+mcg	O
+/	O
+kg	O
+durante	O
+2	O
+días	O
+,	O
+presentando	O
+mejoría	O
+clínica	O
+y	O
+posterior	O
+desaparición	O
+de	O
+la	O
+eosinofilia	O
+.	O

@@ -1,0 +1,21 @@
+
+Actualmente	O
+toma	O
+la	O
+medicación	O
+prescrita	O
+de	O
+forma	O
+irregular	O
+y	O
+ha	O
+experimentado	O
+un	O
+aumento	O
+de	O
+las	O
+alucinaciones	O
+auditivas	O
+y	O
+visuales	O
+.	O

@@ -1,0 +1,12 @@
+
+Tratamiento	O
+actual	O
+,	O
+establecido	O
+hace	O
+6	O
+meses	O
+por	O
+psiquiatra	B-PROFESION
+privado	O
+:	O

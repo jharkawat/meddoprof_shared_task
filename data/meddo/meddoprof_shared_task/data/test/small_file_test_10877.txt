@@ -1,0 +1,16 @@
+
+Entre	O
+sus	O
+antecedentes	O
+personales	O
+de	O
+diagnóstico	O
+reciente	O
+en	O
+tratamiento	O
+con	O
+metformina	O
+destaca	O
+diabetes	O
+mellitus	O
+.	O

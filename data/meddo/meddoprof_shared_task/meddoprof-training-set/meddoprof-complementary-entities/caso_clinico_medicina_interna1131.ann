@@ -1,0 +1,70 @@
+T1	SINTOMA 269 283	lumbociatalgia
+T2	SINTOMA 295 302	astenia
+T3	SINTOMA 305 311	disnea
+T4	SINTOMA 338 366	hipoventilación generalizada
+T5	SINTOMA 552 582	nódulos pulmonares bilaterales
+T6	SINTOMA 2003 2014	neutropenia
+T7	SINTOMA 2033 2039	fiebre
+T8	SINTOMA 2351 2369	nódulos pulmonares
+T9	PROCEDIMIENTO 1162 1176	antibioterapia
+T10	PROCEDIMIENTO 1596 1618	Biopsia de medula ósea
+T11	PROCEDIMIENTO 1695 1719	estudio de autoinmunidad
+T12	PROCEDIMIENTO 1833 1854	broncoscopia cultivos
+T13	PROCEDIMIENTO 1873 1883	citometría
+T14	PROCEDIMIENTO 1941 1968	tratamiento con corticoides
+T15	NEG 1364 1372	negativo
+T16	NEG 1636 1639	sin
+T17	NSCO 1640 1671	infiltración tumoral y cultivos
+T18	NEG 1672 1681	negativos
+T19	NEG 1771 1779	negativo
+T20	NEG 1786 1795	negativos
+T21	NEG 1855 1858	sin
+T22	NSCO 1859 1870	crecimiento
+T23	NEG 2017 2032	desaparición de
+T24	NSCO 2033 2039	fiebre
+T25	UNC 2218 2232	compatible con
+T26	USCO 2233 2258	GRANULOMATOSIS DE WEGENER
+T27	NEG 2335 2350	desaparición de
+T28	NSCO 2351 2369	nódulos pulmonares
+T29	FARMACO 255 264	metamizol
+T30	FARMACO 675 684	metamizol
+T31	FARMACO 1203 1212	meropenem
+T32	FARMACO 2286 2300	ciclofosfamida
+T33	FARMACO 2303 2313	prednisona
+T34	ORG_VIVO 0 5	Mujer
+T35	ORG_VIVO 187 214	médico de atención primaria
+T36	ORG_VIVO 219 227	paciente
+T37	ORG_VIVO 890 895	viral
+T38	ORG_VIVO 908 911	VIH
+T39	ORG_VIVO 920 923	VEB
+T40	ORG_VIVO 925 928	CMV
+T41	ORG_VIVO 944 952	brucella
+T42	ORG_VIVO 1401 1409	brucella
+T43	ORG_VIVO 1411 1414	VIH
+T44	ORG_VIVO 1416 1434	Virus hepatotropos
+T45	ORG_VIVO 1436 1439	VEB
+T46	ORG_VIVO 1441 1444	CMV
+T47	ENFERMEDAD 62 83	cardiopatía isquémica
+T48	ENFERMEDAD 86 111	estenosis de canal lumbar
+T49	ENFERMEDAD 138 156	neutropenia severa
+T50	ENFERMEDAD 653 684	Leucopenia tóxica por metamizol
+T51	ENFERMEDAD 708 743	anemia aplásica, sd mielodisplásico
+T52	ENFERMEDAD 745 761	leucemias agudas
+T53	ENFERMEDAD 763 777	Paraneoplásico
+T54	ENFERMEDAD 791 801	vasculitis
+T55	ENFERMEDAD 803 830	Lupus eritematoso sistémico
+T56	ENFERMEDAD 832 851	artritis reumatoide
+T57	ENFERMEDAD 876 888	Sepsis grave
+T58	ENFERMEDAD 897 906	hepatitis
+T59	ENFERMEDAD 1013 1028	Hiperesplenismo
+T60	ENFERMEDAD 1030 1060	Neutropenia crónica idiopática
+T61	ENFERMEDAD 1481 1499	nódulos pulmonares
+T62	ENFERMEDAD 1558 1573	derrame pleural
+T63	ENFERMEDAD 1620 1635	agranulocitosis
+T64	ENFERMEDAD 1909 1918	infección
+T65	ENFERMEDAD 2003 2014	neutropenia
+T66	ENFERMEDAD 2119 2134	agranulocitosis
+T67	ENFERMEDAD 2136 2166	nódulos pulmonares bilaterales
+T68	ENFERMEDAD 2233 2258	GRANULOMATOSIS DE WEGENER
+T69	ENFERMEDAD 2351 2369	nódulos pulmonares
+T70	SANITARIO-PROFESION 187 214	médico de atención primaria

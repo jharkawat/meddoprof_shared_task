@@ -1,0 +1,12 @@
+
+Es	O
+la	O
+manifestación	O
+cutánea	O
+más	O
+común	O
+de	O
+la	O
+Nocardia	O
+brasiiiensis	O
+.	O

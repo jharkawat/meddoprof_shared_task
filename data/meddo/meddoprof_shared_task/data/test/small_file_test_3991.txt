@@ -1,0 +1,22 @@
+
+En	O
+este	O
+último	O
+,	O
+se	O
+detectó	O
+una	O
+deleción	O
+de	O
+4	O
+bases	O
+en	O
+la	O
+zona	O
+3	O
+"	O
+no	O
+traducida	O
+del	O
+gen	O
+.	O

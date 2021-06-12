@@ -1,0 +1,21 @@
+
+Durante	O
+el	O
+acto	O
+quirúrgico	O
+se	O
+observó	O
+una	O
+discreta	O
+hepatomegalia	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+tomó	O
+una	O
+biopsia	O
+en	O
+cuña	O
+.	O

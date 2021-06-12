@@ -1,0 +1,11 @@
+
+Antecedentes	O
+personales	O
+:	O
+varón	O
+de	O
+53	O
+años	O
+,	O
+soltero	O
+.	O

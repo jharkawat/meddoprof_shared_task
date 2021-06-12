@@ -1,0 +1,5 @@
+
+Buen	O
+apoyo	O
+familiar	O
+.	O

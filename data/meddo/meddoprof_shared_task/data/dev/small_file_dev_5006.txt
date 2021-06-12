@@ -1,0 +1,16 @@
+
+Factores	O
+prediponentes	O
+:	O
+estreñimiento	O
+crónico	O
+,	O
+fármacos	O
+inhibidores	O
+del	O
+peristaltismo	O
+intestinal	O
+,	O
+insuficiencia	O
+renal	O
+.	O

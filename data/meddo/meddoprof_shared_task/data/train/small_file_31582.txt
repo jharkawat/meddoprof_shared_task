@@ -1,0 +1,15 @@
+
+Realizó	B-PROFESION
+alguna	I-PROFESION
+actividad	I-PROFESION
+en	I-PROFESION
+grupo	I-PROFESION
+de	I-PROFESION
+limpieza	I-PROFESION
+como	O
+albañil	B-PROFESION
+y	O
+en	B-PROFESION
+el	I-PROFESION
+campo	I-PROFESION
+.	O

@@ -1,0 +1,18 @@
+T1	SINTOMA 80 102	alteración de conducta
+T2	SINTOMA 193 214	inquietud psicomotriz
+T3	SINTOMA 234 245	nerviosismo
+T4	SINTOMA 252 261	irritable
+T5	SINTOMA 407 418	soliloquios
+T6	SINTOMA 421 444	conductas extravagantes
+T7	SINTOMA 673 690	risas inmotivadas
+T8	SINTOMA 692 700	suspicaz
+T9	UNC 303 315	sin aparente
+T10	USCO 316 322	motivo
+T11	NEG 331 333	no
+T12	NSCO 334 351	concilia el sueño
+T13	ORG_VIVO 13 18	varón
+T14	ORG_VIVO 128 136	familiar
+T15	ORG_VIVO 560 566	padres
+T16	ORG_VIVO 718 725	familia
+T17	ORG_VIVO 728 736	paciente
+T18	ORG_VIVO 757 767	personales

@@ -1,0 +1,12 @@
+
+Meningitis	O
+aguda	O
+de	O
+probable	O
+foco	O
+parameníngeo	O
+por	O
+sinusitis	O
+subaguda	O
+esfenoidal	O
+.	O

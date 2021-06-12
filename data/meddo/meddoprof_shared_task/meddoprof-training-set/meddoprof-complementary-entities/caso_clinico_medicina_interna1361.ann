@@ -1,0 +1,75 @@
+T1	SINTOMA 335 357	anestesia hemicorporal
+T2	SINTOMA 469 490	alteraciones visuales
+T3	SINTOMA 503 533	disminución de fuerza muscular
+T4	SINTOMA 1149 1173	elevación de la glicemia
+T5	PROCEDIMIENTO 848 866	exploración física
+T6	PROCEDIMIENTO 1059 1086	analítica de sangre y orina
+T7	PROCEDIMIENTO 1265 1285	radiografía de tórax
+T8	PROCEDIMIENTO 1302 1320	electrocardiograma
+T9	PROCEDIMIENTO 1371 1424	Tomografía axial computerizada (TAC) craneoencefálico
+T10	PROCEDIMIENTO 1584 1604	TAC craneoencefálico
+T11	PROCEDIMIENTO 1700 1751	resonancia magnética nuclear (RMN) craneoencefálica
+T12	PROCEDIMIENTO 2142 2156	RMN de columna
+T13	PROCEDIMIENTO 2281 2324	ecografía doppler de troncos supra aórticos
+T14	PROCEDIMIENTO 2362 2390	ecocardiograma transtorácico
+T15	PROCEDIMIENTO 2473 2495	técnica transesofágica
+T16	PROCEDIMIENTO 3118 3141	exploración neurológica
+T17	NEG 123 126	sin
+T18	NSCO 127 208	registro de reacciones alérgicas medicamentosas ni ingresos hospitalarios previos
+T19	NEG 235 238	sin
+T20	NSCO 239 271	adecuada adhesión al tratamiento
+T21	NEG 415 418	sin
+T22	NSCO 419 447	otra sintomatología asociada
+T23	NEG 535 537	no
+T24	NSCO 538 570	había tenido episodios similares
+T25	NEG 767 772	nunca
+T26	NSCO 773 820	había tenido alteraciones del foro psiquiátrico
+T27	NEG 889 891	no
+T28	NSCO 892 925	reveló ningún hallazgo patológico
+T29	NEG 1033 1036	sin
+T30	NSCO 1037 1050	astereognosia
+T31	NEG 1097 1099	no
+T32	NSCO 1100 1128	hubo alteraciones de interés
+T33	NEG 1429 1431	no
+T34	NSCO 1432 1465	revelo ningún hallazgo de interés
+T35	NEG 1633 1635	no
+T36	NSCO 1636 1664	hubo cambios en las imágenes
+T37	UNC 1945 1953	probable
+T38	USCO 1954 2033	relación con lesión isquémica aguda en territorio de arteria cerebral posterior
+T39	NEG 2166 2168	no
+T40	NSCO 2169 2210	manifestó alteraciones de interés clínico
+T41	NEG 2391 2393	no
+T42	NSCO 2394 2452	consiguió excluir la posibilidad de foramen oval permeable
+T43	NEG 2505 2507	no
+T44	NSCO 2508 2534	demostró existencia de FOP
+T45	NSCO 2937 2960	isquémica o hemorrágica
+T46	NEG 3885 3887	No
+T47	NSCO 3888 4050	se pueden dejar de lado los trastornos sensitivo de causa psicógena como la histeria/neurosis de conversión o la simulación como medio para conseguir una ganancia
+T48	FARMACO 217 226	enalapril
+T49	ORG_VIVO 26 34	paciente
+T50	ORG_VIVO 72 82	personales
+T51	ORG_VIVO 281 289	paciente
+T52	ORG_VIVO 453 461	paciente
+T53	ORG_VIVO 621 625	hija
+T54	ORG_VIVO 672 677	padre
+T55	ORG_VIVO 871 879	paciente
+T56	ORG_VIVO 1502 1510	paciente
+T57	ORG_VIVO 1515 1523	paciente
+T58	ORG_VIVO 2540 2548	paciente
+T59	ORG_VIVO 3269 3277	paciente
+T60	ENFERMEDAD 86 107	hipertensión arterial
+T61	ENFERMEDAD 110 122	dislipidemia
+T62	ENFERMEDAD 139 174	reacciones alérgicas medicamentosas
+T63	ENFERMEDAD 740 748	ansiedad
+T64	ENFERMEDAD 1788 1870	lesiones confluentes de hiperseñal en T2 en región temporohipocampica y occipital
+T65	ENFERMEDAD 1967 2033	lesión isquémica aguda en territorio de arteria cerebral posterior
+T66	ENFERMEDAD 2430 2452	foramen oval permeable
+T67	ENFERMEDAD 2531 2534	FOP
+T68	ENFERMEDAD 2570 2657	accidente vascular cerebral isquémico en región temporohipocampica, occipital, talámica
+T69	ENFERMEDAD 2908 2935	patología vascular cerebral
+T70	ENFERMEDAD 2937 2946	isquémica
+T71	ENFERMEDAD 2980 3006	enfermedades degenerativas
+T72	ENFERMEDAD 3013 3031	causas infecciosas
+T73	ENFERMEDAD 3292 3309	déficit sensorial
+T74	ENFERMEDAD 3513 3556	patología primaria se localiza en el tálamo
+T75	ENFERMEDAD 3916 3936	trastornos sensitivo

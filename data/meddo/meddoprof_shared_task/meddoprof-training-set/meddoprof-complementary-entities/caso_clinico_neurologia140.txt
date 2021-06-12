@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 49 años que consulta por cefalea de reciente aparición que no cede con analgesia habitual. 
+Antecedentes familiares: sin interés.
+Antecedentes personales: no reacciones alérgicas medicamentosas conocidas.
+Hábitos tóxicos: ninguno.
+Antecedentes médicos: no hipertensión arterial, no dislipemia ni diabetes mellitus. No cardiopatía ni broncopatía conocidas. Quirúrgicos: cesárea.
+Tratamiento habitual: ibuprofeno 600 mg ocasional.
+Situación basal: independiente para las actividades básicas de la vida diaria. Vive con su marido. Trabaja como administrativo.
+Desde 4 meses antes de su ingreso presenta un cuadro clínico consistente en episodios de cefalea de tipo opresivo, holocraneal de predominio frontal bilateral, de intensidad moderada- elevada y acompañados de sonofobia, fotofobia, náuseas y vómitos, que en ocasiones le despiertan por las noches. Además, refiere anosmia de curso progresivo. La paciente acudió una semana antes de su ingreso al Servicio de Urgencias por falta de respuesta a su tratamiento habitual, donde se le pautó tratamiento. Acude de nuevo a Urgencias por el incremento brusco de la intensidad de la cefalea de similares características, con tendencia a la somnolencia y desorientación. Durante su valoración en la consulta presenta crisis tónico-clónica generalizada, con disminución de nivel de consciencia posterior (escala de coma de Glasgow 7/15), por lo que ingresa en la Unidad de Cuidados Intensivos.
+
+Examen físico
+Constantes vitales: tensión arterial 132/82 mmHg, frecuencia cardiaca 79 lpm, temperatura 36,7 oC, glucemia capilar 95 g/dl. Normohidratada y perfundida; palidez mucocutánea. Cabeza y cuello: carótidas rítmicas y simétricas, sin adenopatías palpables ni bocio. Auscultación cardiaca: rítmico, sin soplos audibles. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos. Abdomen: blando, depresible, no doloroso, sin masas ni megalias; ruidos hidroaéreos presentes. Extremidades: sin signos de trombosis venosa profunda ni edema. Pulsos distales presentes.
+En la exploración neurológica en Urgencias se constataron los siguientes datos. Funciones cognitivas superiores: consciente, somnolienta (electrocardiograma [ECG] 13/15: O3V4M6). Lenguaje con fluencia disminuida (interferida por el dolor); repetición, nominación y comprensión normales. Nervios craneales: pupilas isocóricas y normorreactivas, MOE conservados, sin asimetría facial. Nervios craneales bajos normales. Sistema motor: tono y trofismo conservados. Moviliza las cuatro extremidades. Reflejos osteotendinosos presentes y simétricos. Reflejo cutáneo-plantar flexor bilateral. Sensibilidad sin alteraciones aparentes. No dismetría en pruebas dedo-nariz y talón-rodilla ni disdiadococinesia. No signos de irritación meníngea. Romberg negativo. Marcha normal.
+
+Pruebas complementarias
+• Datos de laboratorio: hemoglobina 16 g/dl, hematocrito 48,2%, VCM 92,1 fl, leucocitos 12.000/mm3 (82,9% neutrófilos, 12,7% linfocitos), sodio 134 mmol/l, glucosa 125 mg/dl, fibrinógeno 470 mg/dl, PCR 6,7 mg/l, lactato 3,20. Resto normal.
+• Tomografía computarizada (TC) craneal: tumoración frontobasal izquierda de aspecto heterogéneo, multilobulado, sugestiva de glioma de alto grado, con edema vasogénico circundante. Signos de hipertensión intracraneal que incluyen herniación subfalcial, uncal y transtentorial. Imagen sugestiva de sinusitis maxiloetmoidal.
+• ECG: ritmo sinusal a 82 lpm, sin alteraciones agudas de la repolarización.
+• Radiografía de tórax posteroanterior: índice cardiotorácico dentro de los límites normales. No pinzamiento de senos costofrénicos, ni consolidaciones.
+• Electroencefalograma (EEG): realizado con la paciente sedada con propofol, que muestra signos evidentes de afectación cerebral generalizada, asimétrica, con una actividad más escasa y más lenta en el hemisferio izquierdo. No se registran anomalías epileptiformes.
+• Resonancia magnética (RM) cerebral: tumoración extraaxial frontal izquierda con signos de herniación subfalciana sugestiva en primer lugar de estesioneuroblastoma, con invasión del lóbulo frontal contralateral, celdas etmoidales, en la fosa nasal y probablemente en el tabique nasal.
+
+Diagnóstico
+Se procede a la intervención quirúrgica conjunta entre los Servicios de Neurocirugía, Otorrinolaringología y Cirugía Maxilofacial, realizándose resección subóptima del tumor a nivel esfenoidal.
+
+En el estudio anatomopatológico de tejido tumoral se diagnostica de carcinoma epidermoide de origen en el seno esfenoidal con infiltración meningo-cerebral, con imágenes sugestivas de metástasis de carcinoma epidermoide queratinizante en la PAAF de ganglio submandibular. En el estudio de extensión mediante PET-TC se observa, además, una lesión a nivel de las celdillas etmoidales y de la región más craneal de la fosa nasal, que si bien se puede tratar de tejido inflamatorio postquirúrgico, no se puede descartar la presencia de tejido tumoral viable, así como las adenopatías ya descritas en los niveles I-II izquierdos que pueden corresponder a tejido tumoral viable.
+
+Tratamiento
+Se realiza intervención quirúrgica conjunta entre los Servicios de Neurocirugía, Otorrinolaringología y Cirugía Maxilofacial, realizándose resección subóptima del tumor a nivel esfenoidal; por lo que se asocia además tratamiento quimioterápico.
+
+Evolución
+Tras la intervención quirúrgica, la paciente fue dada de alta, presentando leve alteración del comportamiento sin otra focalidad neurológica ni cefalea, con tratamiento quimioterápico y seguimiento y controles por parte del Servicio de Neurocirugía y Oncología.

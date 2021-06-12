@@ -1,0 +1,19 @@
+T1	SINTOMA 276 285	amenorrea
+T2	NEG 112 123	remisión de
+T3	NSCO 124 179	la clínica psicótica en la primera fase del tratamiento
+T4	NEG 1115 1124	suspender
+T5	NSCO 1125 1160	la administración del zuclopentixol
+T6	NEG 1263 1266	sin
+T7	NSCO 1267 1306	efectos secundarios de la esfera sexual
+T8	FARMACO 68 79	risperidona
+T9	FARMACO 715 726	aripiprazol
+T10	FARMACO 750 761	risperidona
+T11	FARMACO 773 786	zuclopentixol
+T12	FARMACO 1147 1160	zuclopentixol
+T13	ORG_VIVO 0 5	Mujer
+T14	ORG_VIVO 239 247	paciente
+T15	ORG_VIVO 340 348	paciente
+T16	ORG_VIVO 903 911	paciente
+T17	ORG_VIVO 1196 1204	paciente
+T18	ENFERMEDAD 276 285	amenorrea
+T19	ENFERMEDAD 454 490	exacerbación de la clínica psicótica

@@ -1,0 +1,18 @@
+
+Talla	O
+173	O
+cm	O
+,	O
+peso	O
+80	O
+kg	O
+(	O
+índice	O
+de	O
+masa	O
+corporal	O
+26	O
+,	O
+7	O
+)	O
+.	O

@@ -1,0 +1,12 @@
+
+Se	O
+lo	O
+derivó	O
+para	O
+un	O
+EEG	O
+,	O
+que	O
+resultó	O
+normal	O
+.	O

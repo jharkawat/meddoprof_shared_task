@@ -1,0 +1,13 @@
+
+Dijo	O
+que	O
+se	O
+sentía	O
+abatido	O
+y	O
+deprimido	O
+casi	O
+a	O
+todas	O
+horas	O
+.	O

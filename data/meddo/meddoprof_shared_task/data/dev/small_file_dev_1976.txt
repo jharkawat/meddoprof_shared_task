@@ -1,0 +1,16 @@
+
+En	O
+primer	O
+lugar	O
+,	O
+se	O
+optó	O
+por	O
+olanzapina	O
+que	O
+debió	O
+suspenderse	O
+por	O
+excesiva	O
+sobresedación	O
+.	O

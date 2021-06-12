@@ -1,0 +1,21 @@
+
+Refiere	O
+que	O
+cuando	O
+está	O
+en	O
+casa	O
+,	O
+suele	O
+comer	O
+con	O
+su	O
+familia	O
+,	O
+no	O
+la	O
+dejan	O
+que	O
+coma	O
+suela	O
+.	O

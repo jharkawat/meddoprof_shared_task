@@ -1,0 +1,9 @@
+
+Radiografía	O
+partes	O
+óseas	O
+:	O
+fractura	O
+calcáneo	O
+bilateral	O
+.	O

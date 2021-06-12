@@ -1,0 +1,9 @@
+
+En	O
+la	O
+actualidad	O
+no	O
+estudia	O
+ni	B-SITUACION_LABORAL
+trabaja	I-SITUACION_LABORAL
+.	O

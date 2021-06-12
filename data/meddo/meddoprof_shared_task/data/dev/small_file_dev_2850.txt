@@ -1,0 +1,14 @@
+
+Percepción	O
+-	O
+manejo	O
+de	O
+la	O
+salud	O
+:	O
+vestimenta	O
+e	O
+higiene	O
+personal	O
+adecuada	O
+.	O

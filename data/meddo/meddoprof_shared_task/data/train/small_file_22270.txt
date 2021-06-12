@@ -1,0 +1,27 @@
+
+No	O
+presenta	O
+alteración	O
+hemodinámica	O
+(	O
+tensión	O
+arterial	O
+,	O
+temperatura	O
+,	O
+frecuencia	O
+cardíaca	O
+,	O
+frecuencia	O
+respiratoria	O
+y	O
+saturación	O
+arterial	O
+de	O
+oxígeno	O
+dentro	O
+de	O
+la	O
+normalidad	O
+)	O
+.	O

@@ -1,0 +1,23 @@
+
+La	O
+aparición	O
+de	O
+fiebre	O
+y	O
+la	O
+normalidad	O
+en	O
+la	O
+TAC	O
+y	O
+AngioTAC	O
+,	O
+hizo	O
+cambiar	O
+de	O
+parecer	O
+hacia	O
+una	O
+enfermedad	O
+infecciosa	O
+.	O

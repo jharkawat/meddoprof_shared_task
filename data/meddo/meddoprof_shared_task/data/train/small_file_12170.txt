@@ -1,0 +1,11 @@
+
+Iniciamos	O
+terapia	O
+renal	O
+sustitutiva	O
+con	O
+sesiones	O
+de	O
+hemodiálisis	O
+convencional	O
+.	O

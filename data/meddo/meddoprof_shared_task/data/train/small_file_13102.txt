@@ -1,0 +1,23 @@
+
+Guillermo	O
+giró	O
+la	O
+mirada	O
+hacia	O
+su	O
+madre	O
+y	O
+le	O
+recriminó	O
+"	O
+¿	O
+como	O
+has	O
+permitido	O
+que	O
+no	O
+me	O
+desconectaran	O
+?	O
+"	O
+.	O

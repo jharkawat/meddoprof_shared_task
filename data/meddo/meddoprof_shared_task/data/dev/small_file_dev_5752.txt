@@ -1,0 +1,12 @@
+
+Palpación	O
+y	O
+percusión	O
+de	O
+fosas	O
+lumbares	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

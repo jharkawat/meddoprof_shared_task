@@ -1,0 +1,11 @@
+
+No	O
+tenía	O
+mascotas	O
+y	O
+negaba	O
+exposición	O
+a	O
+animales	O
+recientemente	O
+.	O

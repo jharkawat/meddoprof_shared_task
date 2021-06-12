@@ -1,0 +1,26 @@
+
+Seguidamente	O
+se	O
+inició	O
+tratamiento	O
+con	O
+lamotrigina	O
+(	O
+100	O
+mg	O
+)	O
+,	O
+que	O
+en	O
+un	O
+principio	O
+redujo	O
+los	O
+sentimientos	O
+de	O
+despersonalización	O
+,	O
+persistiendo	O
+síntomas	O
+depresivos	O
+.	O

@@ -1,0 +1,18 @@
+
+En	O
+el	O
+control	O
+analítico	O
+previo	O
+al	O
+alta	O
+,	O
+las	O
+transaminasas	O
+y	O
+la	O
+PCR	O
+estaban	O
+en	O
+descenso	O
+.	O

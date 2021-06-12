@@ -1,0 +1,23 @@
+
+Actualmente	O
+,	O
+la	O
+paciente	O
+ha	O
+recibido	O
+el	O
+cuarto	O
+ciclo	O
+,	O
+con	O
+excelente	O
+estado	O
+general	O
+,	O
+PS0	O
+y	O
+buena	O
+tolerancia	O
+al	O
+tratamiento	O
+.	O

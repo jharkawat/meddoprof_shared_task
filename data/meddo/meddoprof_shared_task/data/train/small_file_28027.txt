@@ -1,0 +1,22 @@
+
+Miriam	O
+describe	O
+que	O
+cuando	O
+sentía	O
+moverse	O
+al	O
+producto	O
+en	O
+su	O
+interior	O
+pensaba	O
+que	O
+tenía	O
+un	O
+monstruo	O
+que	O
+iba	O
+a	O
+destrozarla	O
+.	O

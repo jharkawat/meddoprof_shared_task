@@ -1,0 +1,8 @@
+
+Sin	O
+antecedentes	O
+previos	O
+de	O
+enfermedad	O
+pulmonar	O
+.	O

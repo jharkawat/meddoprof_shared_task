@@ -1,0 +1,11 @@
+
+Derivación	O
+al	O
+servicio	O
+hospitalario	O
+de	O
+urgencias	O
+para	O
+completar	O
+estudio	O
+.	O

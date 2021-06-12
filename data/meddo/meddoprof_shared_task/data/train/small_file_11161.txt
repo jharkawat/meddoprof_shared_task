@@ -1,0 +1,17 @@
+
+No	O
+alergias	O
+a	O
+medicamentos	O
+conocidas	O
+,	O
+fumador	O
+de	O
+15	O
+cigarrillos	O
+al	O
+día	O
+,	O
+no	O
+alcoholismo	O
+.	O

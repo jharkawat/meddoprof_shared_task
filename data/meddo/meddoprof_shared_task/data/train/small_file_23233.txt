@@ -1,0 +1,23 @@
+
+-	O
+SPECT	O
+cerebral	O
+con	O
+DAT	O
+-	O
+SCAN	O
+:	O
+Imagen	O
+compatible	O
+con	O
+afectación	O
+de	O
+ganglios	O
+basales	O
+,	O
+a	O
+nivel	O
+de	O
+putamen	O
+derecho	O
+.	O

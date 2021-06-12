@@ -1,0 +1,19 @@
+
+La	O
+familia	O
+y	O
+paciente	O
+niegan	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+,	O
+si	O
+bien	O
+reconoce	O
+consume	O
+esporádico	O
+de	O
+THC	O
+.	O

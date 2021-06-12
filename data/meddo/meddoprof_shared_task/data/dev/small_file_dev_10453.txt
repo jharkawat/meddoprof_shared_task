@@ -1,0 +1,13 @@
+
+Antecedentes	O
+:	O
+La	O
+paciente	O
+provenía	O
+de	O
+una	O
+familia	O
+de	O
+9	O
+hijos	O
+.	O

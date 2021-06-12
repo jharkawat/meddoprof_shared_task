@@ -1,0 +1,21 @@
+
+En	O
+Urgencias	O
+les	O
+atiende	O
+un	O
+Residente	B-PROFESION
+de	I-PROFESION
+Familia	I-PROFESION
+de	O
+segundo	O
+año	O
+y	O
+consulta	O
+al	O
+adjunto	B-PROFESION
+de	I-PROFESION
+referencia	I-PROFESION
+el	O
+caso	O
+.	O

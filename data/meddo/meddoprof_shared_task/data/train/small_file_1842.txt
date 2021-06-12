@@ -1,0 +1,18 @@
+
+La	O
+Tabla	O
+I	O
+se	O
+refiere	O
+a	O
+las	O
+puntuaciones	O
+e	O
+índices	O
+del	O
+SCL	O
+-	O
+90	O
+-	O
+R	O
+.	O

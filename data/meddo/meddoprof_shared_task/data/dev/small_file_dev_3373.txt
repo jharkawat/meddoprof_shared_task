@@ -1,0 +1,19 @@
+
+Al	O
+no	O
+obtenerse	O
+resultados	O
+significativos	O
+,	O
+se	O
+aumentó	O
+la	O
+dosis	O
+a	O
+2	O
+,	O
+5	O
+mg	O
+por	O
+día	O
+.	O

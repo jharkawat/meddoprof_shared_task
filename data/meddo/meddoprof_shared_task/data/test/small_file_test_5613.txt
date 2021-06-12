@@ -1,0 +1,22 @@
+
+Recibe	O
+30	O
+Gy	O
+con	O
+fraccionamiento	O
+300	O
+cGy	O
+entre	O
+el	O
+13	O
+de	O
+enero	O
+de	O
+2016	O
+y	O
+el	O
+27	O
+enero	O
+de	O
+2016	O
+.	O

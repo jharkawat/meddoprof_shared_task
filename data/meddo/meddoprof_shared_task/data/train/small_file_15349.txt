@@ -1,0 +1,26 @@
+
+En	O
+la	O
+muestra	O
+tomada	O
+de	O
+la	O
+mucosa	O
+nasal	O
+se	O
+observó	O
+amastigotes	O
+en	O
+la	O
+preparación	O
+teñida	O
+y	O
+la	O
+IDR	O
+de	O
+leishmanina	O
+fue	O
+positiva	O
+18	O
+mm	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+2017	O
+acudió	O
+a	O
+Psiquiatría	O
+por	O
+ideas	O
+de	O
+autorreferencia	O
+y	O
+perjuicio	O
+,	O
+diagnosticándose	O
+de	O
+Trastorno	O
+de	O
+la	O
+Personalidad	O
+Paranoide	O
+.	O

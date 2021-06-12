@@ -1,0 +1,14 @@
+
+Intervenido	O
+de	O
+amigdalitis	O
+en	O
+la	O
+infancia	O
+y	O
+de	O
+apendicitis	O
+en	O
+la	O
+adolescencia	O
+.	O

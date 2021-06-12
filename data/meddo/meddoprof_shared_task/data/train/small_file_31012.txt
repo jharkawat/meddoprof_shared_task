@@ -1,0 +1,23 @@
+
+Así	O
+,	O
+el	O
+paciente	O
+va	O
+presentando	O
+un	O
+lenguaje	O
+cada	O
+vez	O
+más	O
+empobrecido	O
+con	O
+ecolalias	O
+que	O
+evoluciona	O
+,	O
+finalmente	O
+,	O
+a	O
+mutismo	O
+.	O

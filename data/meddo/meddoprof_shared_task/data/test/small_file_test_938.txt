@@ -1,0 +1,16 @@
+
+Acude	O
+al	O
+centro	O
+recomendada	O
+por	O
+su	O
+terapeuta	B-PROFESION
+de	I-PROFESION
+pareja	I-PROFESION
+por	O
+mis	O
+conocimientos	O
+en	O
+EMDR	O
+.	O

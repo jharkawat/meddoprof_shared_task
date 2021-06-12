@@ -1,0 +1,21 @@
+
+Durante	O
+todo	O
+el	O
+proceso	O
+sus	O
+MdF	B-PROFESION
+han	O
+realizado	O
+un	O
+seguimiento	O
+estrecho	O
+de	O
+la	O
+situación	O
+clínica	O
+y	O
+emocional	O
+del	O
+paciente	O
+.	O

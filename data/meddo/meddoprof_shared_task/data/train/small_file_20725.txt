@@ -1,0 +1,12 @@
+
+Examen	O
+general	O
+:	O
+peso	O
+52	O
+kg	O
+,	O
+talla	O
+168	O
+cm	O
+.	O

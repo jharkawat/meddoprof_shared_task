@@ -1,0 +1,25 @@
+
+Tras	O
+el	O
+alotransplante	O
+,	O
+presentó	O
+enfermedad	O
+de	O
+injerto	O
+contra	O
+huésped	O
+,	O
+en	O
+su	O
+forma	O
+cutánea	O
+,	O
+que	O
+mejoró	O
+con	O
+tratamiento	O
+tópico	O
+con	O
+esteroides	O
+.	O

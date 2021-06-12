@@ -1,0 +1,14 @@
+
+Se	O
+completó	O
+estudio	O
+con	O
+ecografía	O
+abdominal	O
+que	O
+no	O
+muestra	O
+alteraciones	O
+de	O
+interés	O
+.	O

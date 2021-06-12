@@ -1,0 +1,5 @@
+
+No	O
+anomalías	O
+epileptiformes	O
+.	O

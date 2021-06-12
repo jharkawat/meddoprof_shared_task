@@ -1,0 +1,17 @@
+
+Medicación	O
+analgésica	O
+con	O
+morfina	O
+de	O
+liberación	O
+retardada	O
+junto	O
+con	O
+coadyuvantes	O
+(	O
+gabapentina	O
+y	O
+duloxetina	O
+)	O
+.	O

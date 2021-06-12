@@ -1,0 +1,23 @@
+
+Tras	O
+la	O
+intervención	O
+el	O
+enfermo	O
+continuó	O
+con	O
+fiebre	O
+elevada	O
+y	O
+dolor	O
+intenso	O
+en	O
+axila	O
+derecha	O
+,	O
+a	O
+pesar	O
+del	O
+tratamiento	O
+antibiótico	O
+.	O

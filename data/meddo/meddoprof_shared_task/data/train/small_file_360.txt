@@ -1,0 +1,13 @@
+
+Fue	O
+llevado	O
+al	O
+servicio	O
+de	O
+urgencia	O
+donde	O
+ingresó	O
+soporoso	O
+y	O
+agitado	O
+.	O

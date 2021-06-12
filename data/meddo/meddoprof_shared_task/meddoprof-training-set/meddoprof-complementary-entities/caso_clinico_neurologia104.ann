@@ -1,0 +1,74 @@
+T1	SINTOMA 119 142	cefalea fronto-temporal
+T2	SINTOMA 172 180	opresivo
+T3	SINTOMA 313 327	dolor cervical
+T4	SINTOMA 337 354	dolor retroocular
+T5	SINTOMA 734 753	cefalea retroocular
+T6	SINTOMA 1088 1095	afebril
+T7	SINTOMA 1672 1716	trofismo normales en las cuatro extremidades
+T8	SINTOMA 1724 1754	reflejos musculares eran vivos
+T9	SINTOMA 2009 2028	irritación meníngea
+T10	SINTOMA 2429 2449	ritmo sinusal normal
+T11	SINTOMA 2864 2917	disminución de calibre de la arteria carótida interna
+T12	PROCEDIMIENTO 203 224	maniobras de Valsalva
+T13	PROCEDIMIENTO 1047 1060	Examen físico
+T14	PROCEDIMIENTO 1186 1205	exploración general
+T15	PROCEDIMIENTO 1263 1286	exploración neurológica
+T16	PROCEDIMIENTO 1964 1983	pruebas cerebelosas
+T17	PROCEDIMIENTO 2107 2125	análisis de sangre
+T18	PROCEDIMIENTO 2138 2147	hemograma
+T19	PROCEDIMIENTO 2149 2171	estudio de coagulación
+T20	PROCEDIMIENTO 2210 2223	proteinograma
+T21	PROCEDIMIENTO 2345 2365	estudio inmunológico
+T22	PROCEDIMIENTO 2400 2418	electrocardiograma
+T23	PROCEDIMIENTO 2468 2488	radiografía de tórax
+T24	PROCEDIMIENTO 2630 2663	tomografía computarizada cerebral
+T25	PROCEDIMIENTO 2686 2726	resonancia magnética cerebral y cervical
+T26	PROCEDIMIENTO 2825 2833	angio-RM
+T27	PROCEDIMIENTO 3089 3097	angio-RM
+T28	PROCEDIMIENTO 3304 3323	ecografía abdominal
+T29	PROCEDIMIENTO 3663 3710	disección de arteria carótida interna izquierda
+T30	PROCEDIMIENTO 3721 3768	anticoagulación con heparina sódica intravenosa
+T31	PROCEDIMIENTO 3781 3801	anticoagulación oral
+T32	PROCEDIMIENTO 4061 4078	angio-RM cerebral
+T33	NEG 182 184	no
+T34	NSCO 185 224	se incrementa con maniobras de Valsalva
+T35	NEG 303 305	No
+T36	NSCO 306 327	asocia dolor cervical
+T37	UNC 507 514	No sabe
+T38	USCO 515 523	precisar
+T39	NEG 588 590	no
+T40	NSCO 591 645	ha notado pérdida de fuerza ni alteraciones sensitivas
+T41	NEG 792 794	no
+T42	NSCO 795 854	refiere traumatismos inmediatamente anteriores a la clínica
+T43	NEG 1088 1095	afebril
+T44	NEG 1219 1221	no
+T45	NSCO 1222 1255	demostró alteraciones destacables
+T46	NEG 1985 1987	No
+T47	NSCO 1988 2028	presentaba signos de irritación meníngea
+T48	NEG 2366 2373	tampoco
+T49	NSCO 2374 2393	mostró alteraciones
+T50	NEG 2489 2491	no
+T51	NSCO 2492 2539	se observaban datos de patología pleuropulmonar
+T52	NEG 2727 2729	no
+T53	NSCO 2730 2809	evidenció lesiones en el parénquima encefálico ni en el cordón medular cervical
+T54	NEG 3329 3337	descartó
+T55	NSCO 3338 3382	lesiones en los vasos sanguíneos abdominales
+T56	NEG 3472 3474	no
+T57	NSCO 3475 3497	mostraron alteraciones
+T58	FARMACO 290 301	paracetamol
+T59	FARMACO 3741 3756	heparina sódica
+T60	FARMACO 3848 3870	ácido acetilsalicílico
+T61	ORG_VIVO 10 15	Mujer
+T62	ORG_VIVO 385 395	compañeros
+T63	ORG_VIVO 3918 3926	paciente
+T64	ENFERMEDAD 48 64	migraña con aura
+T65	ENFERMEDAD 989 1022	traumatismo craneoencefálico leve
+T66	ENFERMEDAD 1025 1044	esguince de tobillo
+T67	ENFERMEDAD 2515 2539	patología pleuropulmonar
+T68	ENFERMEDAD 2740 2809	lesiones en el parénquima encefálico ni en el cordón medular cervical
+T69	ENFERMEDAD 2983 3002	aneurisma disecante
+T70	ENFERMEDAD 3338 3382	lesiones en los vasos sanguíneos abdominales
+T71	ENFERMEDAD 3512 3530	Síndrome de Horner
+T72	ENFERMEDAD 3976 3994	síndrome de Horner
+T73	OTROS-SITUACION_LABORAL 385 395	compañeros
+T74	PACIENTE-SITUACION_LABORAL 356 379	Cuando llega al trabajo

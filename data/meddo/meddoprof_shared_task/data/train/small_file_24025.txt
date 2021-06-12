@@ -1,0 +1,26 @@
+
+Recibe	O
+tratamiento	O
+con	O
+Telzir	O
+(	O
+700mg	O
+/	O
+12h	O
+)	O
+,	O
+Norvir	O
+(	O
+100	O
+mg	O
+/	O
+24h	O
+)	O
+y	O
+Truvada	O
+(	O
+1c	O
+/	O
+24h	O
+)	O
+.	O

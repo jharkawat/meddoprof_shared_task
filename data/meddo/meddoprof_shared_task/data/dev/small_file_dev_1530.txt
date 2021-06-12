@@ -1,0 +1,8 @@
+
+Presenta	O
+antecedentes	O
+psiquiátricos	O
+desde	O
+la	O
+juventud	O
+.	O

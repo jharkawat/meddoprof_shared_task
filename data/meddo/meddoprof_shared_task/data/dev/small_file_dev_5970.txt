@@ -1,0 +1,4 @@
+
+Estadio	O
+IV	O
+.	O

@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+ingresa	O
+en	O
+el	O
+Servicio	O
+de	O
+Respiratorio	O
+para	O
+inicio	O
+de	O
+tratamiento	O
+anticoagulante	O
+y	O
+completar	O
+estudio	O
+.	O

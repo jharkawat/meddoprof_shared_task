@@ -1,0 +1,16 @@
+
+Tras	O
+el	O
+lavado	O
+se	O
+resuelve	O
+la	O
+hematuria	O
+por	O
+lo	O
+que	O
+se	O
+retira	O
+el	O
+sondaje	O
+.	O

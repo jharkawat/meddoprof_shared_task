@@ -1,0 +1,174 @@
+T1	SINTOMA 243 261	descenso amigdalar
+T2	SINTOMA 851 888	dolor punzante en hipocondrio derecho
+T3	SINTOMA 1861 1878	dolor e hinchazón
+T4	SINTOMA 1901 1907	fiebre
+T5	SINTOMA 1930 1950	sensación distérmica
+T6	SINTOMA 1985 1991	disnea
+T7	SINTOMA 2101 2117	pérdida ponderal
+T8	SINTOMA 2343 2378	Coloración normal de piel y mucosas
+T9	SINTOMA 2421 2431	Consciente
+T10	SINTOMA 2433 2442	orientado
+T11	SINTOMA 2444 2455	colaborador
+T12	SINTOMA 2476 2490	normohidratado
+T13	SINTOMA 2514 2542	ingurgitación venosa yugular
+T14	SINTOMA 2582 2588	soplos
+T15	SINTOMA 2614 2626	taquicárdico
+T16	SINTOMA 2693 2708	hipoventilación
+T17	SINTOMA 2851 2872	irritación peritoneal
+T18	SINTOMA 2874 2889	Murphy negativo
+T19	SINTOMA 2977 3013	Pulsos pedios presentes y simétricos
+T20	SINTOMA 3516 3527	neutrofilia
+T21	SINTOMA 5025 5032	melenas
+T22	SINTOMA 5920 5994	flujo acelerado a nivel de desembocadura de vena cava inferior en aurícula
+T23	SINTOMA 7697 7703	exitus
+T24	PROCEDIMIENTO 350 363	colonoscopias
+T25	PROCEDIMIENTO 407 420	polipectomías
+T26	PROCEDIMIENTO 464 486	hemicolectomía derecha
+T27	PROCEDIMIENTO 1044 1063	ecografía abdominal
+T28	PROCEDIMIENTO 2036 2056	retirada de heparina
+T29	PROCEDIMIENTO 2249 2267	Exploración física
+T30	PROCEDIMIENTO 3294 3317	Exploración neurológica
+T31	PROCEDIMIENTO 3376 3385	Hemograma
+T32	PROCEDIMIENTO 3643 3660	Gasometría venosa
+T33	PROCEDIMIENTO 4730 4733	EKG
+T34	PROCEDIMIENTO 5074 5099	endoscopia digestiva alta
+T35	PROCEDIMIENTO 5226 5233	biopsia
+T36	PROCEDIMIENTO 5290 5303	TC total body
+T37	PROCEDIMIENTO 5770 5789	filtro de vena cava
+T38	PROCEDIMIENTO 5805 5833	ecocardiograma transtorácico
+T39	PROCEDIMIENTO 6279 6303	anticoagulación con HBPM
+T40	PROCEDIMIENTO 6402 6440	panendoscopia oral con toma de biopsia
+T41	PROCEDIMIENTO 6839 6841	TC
+T42	PROCEDIMIENTO 6874 6876	TC
+T43	PROCEDIMIENTO 7219 7245	tratamiento quimioterápico
+T44	PROCEDIMIENTO 7327 7351	radioterapia hemostática
+T45	PROCEDIMIENTO 7440 7453	quimioterapia
+T46	PROCEDIMIENTO 7564 7579	anticoagulación
+T47	PROCEDIMIENTO 8884 8899	anticoagulación
+T48	NEG 46 48	No
+T49	NSCO 49 94	reacciones alérgicas medicamentosas conocidas
+T50	NEG 96 98	No
+T51	NSCO 99 132	factores de riesgo cardiovascular
+T52	NEG 543 545	no
+T53	NSCO 546 556	alcohólica
+T54	NEG 1104 1107	sin
+T55	NSCO 1108 1151	criterios ecográficos de colecistitis aguda
+T56	NEG 1332 1334	no
+T57	NSCO 1335 1342	filiada
+T58	NEG 1372 1383	se descartó
+T59	NSCO 1384 1386	Sd
+T60	NEG 2036 2047	retirada de
+T61	NSCO 2048 2056	heparina
+T62	NEG 2511 2513	No
+T63	NSCO 2514 2542	ingurgitación venosa yugular
+T64	NEG 2544 2546	No
+T65	NSCO 2547 2558	adenopatías
+T66	NEG 2578 2581	sin
+T67	NSCO 2582 2602	soplos ni extratonos
+T68	NEG 2788 2790	no
+T69	NSCO 2791 2814	doloroso a la palpación
+T70	NEG 2816 2818	no
+T71	NSCO 2819 2836	masas ni megalias
+T72	NEG 2838 2840	no
+T73	NSCO 2841 2880	signos de irritación peritoneal, Murphy
+T74	NEG 2881 2889	negativo
+T75	NEG 2927 2929	No
+T76	NSCO 2930 2975	aumento de perímetro de un miembro sobre otro
+T77	NEG 4773 4776	Sin
+T78	NSCO 4777 4810	alteraciones en la repolarización
+T79	UNC 4844 4855	sospecha de
+T80	USCO 4856 4945	trombosis venosa profunda se continúa anticoagulación con heparina de bajo peso molecular
+T81	NEG 5045 5056	se suspende
+T82	NEG 5202 5204	no
+T83	NSCO 5205 5233	siendo posible tomar biopsia
+T84	UNC 5444 5453	probables
+T85	USCO 5454 5581	infartos pulmonares en lóbulo inferior derecho y posible engrosamiento asimétrico de la pared del duodeno a nivel de la primera
+T86	NEG 5701 5717	imposibilidad de
+T87	NSCO 5718 5730	anticoagular
+T88	UNC 6018 6025	posible
+T89	USCO 6026 6066	trombo de pequeño tamaño a dicho nivel
+T90	NEG 6074 6083	imposible
+T91	NSCO 6084 6108	dilucidar si dicho flujo
+T92	UNC 6193 6199	dudosa
+T93	USCO 6200 6222	presencia de un trombo
+T94	UNC 6336 6347	sospecha de
+T95	USCO 6348 6378	enfermedad neoplásica duodenal
+T96	UNC 6759 6766	sugiere
+T97	USCO 6767 6806	en primer término un origen pancreático
+T98	NEG 6808 6810	no
+T99	NSCO 6811 6841	habiéndose objetivado en el TC
+T100	UNC 8300 8313	probablemente
+T101	USCO 8314 8388	trombosis de la vena safena interna a nivel de su trayecto en muslo distal
+T102	FARMACO 765 796	heparina de bajo peso molecular
+T103	FARMACO 1234 1246	metronidazol
+T104	FARMACO 1249 1262	levofloxacino
+T105	FARMACO 1719 1726	Sintrom
+T106	FARMACO 2048 2056	heparina
+T107	FARMACO 4914 4945	heparina de bajo peso molecular
+T108	FARMACO 6299 6303	HBPM
+T109	FARMACO 7462 7473	Gemcitabina
+T110	FARMACO 7584 7615	heparina de bajo peso molecular
+T111	ORG_VIVO 13 23	personales
+T112	ORG_VIVO 24 32	Paciente
+T113	ORG_VIVO 1277 1287	familiares
+T114	ORG_VIVO 1289 1294	Padre
+T115	ORG_VIVO 1408 1415	abuelos
+T116	ORG_VIVO 1417 1423	padres
+T117	ORG_VIVO 1426 1434	hermanos
+T118	ORG_VIVO 1438 1443	hijos
+T119	ORG_VIVO 1448 1456	paciente
+T120	ORG_VIVO 1762 1767	Varón
+T121	ORG_VIVO 4954 4962	paciente
+T122	ENFERMEDAD 202 238	Malformación de Arnold-Chiari tipo I
+T123	ENFERMEDAD 305 330	Síndrome de Peutz-Jeghers
+T124	ENFERMEDAD 422 445	Invaginación intestinal
+T125	ENFERMEDAD 490 507	Gastritis crónica
+T126	ENFERMEDAD 509 521	Colelitiasis
+T127	ENFERMEDAD 523 556	Esteatosis hepática no alcohólica
+T128	ENFERMEDAD 558 573	Hernia de hiato
+T129	ENFERMEDAD 577 617	Flebitis superficial en miembro inferior
+T130	ENFERMEDAD 657 702	Trombosis venosa profunda en miembro inferior
+T131	ENFERMEDAD 1082 1103	colelitiasis múltiple
+T132	ENFERMEDAD 1133 1151	colecistitis aguda
+T133	ENFERMEDAD 1189 1213	cólico biliar complicado
+T134	ENFERMEDAD 1308 1311	TEP
+T135	ENFERMEDAD 1384 1386	Sd
+T136	ENFERMEDAD 1391 1404	Peutz-Jeghers
+T137	ENFERMEDAD 1467 1480	Peutz-Jeghers
+T138	ENFERMEDAD 2073 2096	síndrome constitucional
+T139	ENFERMEDAD 2209 2238	celulitis en miembro inferior
+T140	ENFERMEDAD 2547 2558	adenopatías
+T141	ENFERMEDAD 2737 2766	cicatriz de laparomomía media
+T142	ENFERMEDAD 3516 3527	neutrofilia
+T143	ENFERMEDAD 4856 4881	trombosis venosa profunda
+T144	ENFERMEDAD 4972 4989	anemización aguda
+T145	ENFERMEDAD 5025 5032	melenas
+T146	ENFERMEDAD 5130 5201	lesión de aspecto proliferativo con sangrado babeante en bulbo duodenal
+T147	ENFERMEDAD 5320 5400	trombosis venosa profunda aguda a distintos niveles en ambos miembros inferiores
+T148	ENFERMEDAD 5402 5432	tromboembolismo pulmonar agudo
+T149	ENFERMEDAD 5454 5492	infartos pulmonares en lóbulo inferior
+T150	ENFERMEDAD 5511 5606	engrosamiento asimétrico de la pared del duodeno a nivel de la primera-segunda porción duodenal
+T151	ENFERMEDAD 5624 5663	adenopatías patológicas locorregionales
+T152	ENFERMEDAD 5738 5756	sangrado digestivo
+T153	ENFERMEDAD 6216 6257	trombo por encima del filtro de vena cava
+T154	ENFERMEDAD 6348 6378	enfermedad neoplásica duodenal
+T155	ENFERMEDAD 6663 6692	infiltración por un carcinoma
+T156	ENFERMEDAD 6973 7031	lesiones hipermetabólicas en cabeza pancreática y duodenal
+T157	ENFERMEDAD 7052 7082	metastásica en hígado y pulmón
+T158	ENFERMEDAD 7093 7141	adenopatías neoplásicas a nivel abdomino-pélvico
+T159	ENFERMEDAD 7532 7547	lesión duodenal
+T160	ENFERMEDAD 7749 7774	Síndrome de Peutz-Jeghers
+T161	ENFERMEDAD 7777 7832	Carcinoma pobremente diferenciado de origen pancreático
+T162	ENFERMEDAD 7834 7865	estadío IV que infiltra duodeno
+T163	ENFERMEDAD 7882 7912	metastásica en hígado y pulmón
+T164	ENFERMEDAD 7979 8052	Adenopatías patológicas locorregionales en la vecindad del hilio hepático
+T165	ENFERMEDAD 8189 8197	TVP MMII
+T166	ENFERMEDAD 8209 8297	TVP en MID a nivel de la vena femoral común con extensión al cayado de la safena interna
+T167	ENFERMEDAD 8314 8388	trombosis de la vena safena interna a nivel de su trayecto en muslo distal
+T168	ENFERMEDAD 8390 8455	TVP aguda de la porción más distal de la vena femoral superficial
+T169	ENFERMEDAD 8570 8583	TEP bilateral
+T170	ENFERMEDAD 8585 8621	tromboembolismo pulmonar agudo lobar
+T171	ENFERMEDAD 8722 8748	infartos pulmonares en LID
+T172	ENFERMEDAD 8752 8786	Anemia aguda de perfil ferropénico
+T173	ENFERMEDAD 8841 8868	sangrado de lesión duodenal
+T174	PACIENTE-PROFESION 1633 1662	Realiza un trabajo de oficina

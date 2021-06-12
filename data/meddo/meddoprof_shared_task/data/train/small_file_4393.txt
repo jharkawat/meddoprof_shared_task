@@ -1,0 +1,5 @@
+
+Trastorno	O
+afectivo	O
+bipolar	O
+.	O

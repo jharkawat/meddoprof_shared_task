@@ -1,0 +1,10 @@
+
+OSTEOMUSCULAR	O
+:	O
+paciente	O
+con	O
+historia	O
+de	O
+parestesias	O
+digitales	O
+.	O

@@ -1,0 +1,16 @@
+
+Podría	O
+haber	O
+apoyado	O
+este	O
+diagnóstico	O
+la	O
+concurrencia	O
+de	O
+un	O
+parkinsonismo	O
+y	O
+alteraciones	O
+sensoperceptivas	O
+visuales	O
+.	O

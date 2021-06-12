@@ -1,0 +1,10 @@
+T1	SINTOMA 120 129	lumbalgia
+T2	SINTOMA 218 266	dolor se irradia a lo largo del miembro inferior
+T3	SINTOMA 353 385	alteración del reflejo rotuliano
+T4	SINTOMA 388 446	parestesia en región interna de la pierna y maleolo tibial
+T5	NEG 159 161	no
+T6	NSCO 162 184	mejora con paracetamol
+T7	FARMACO 173 184	paracetamol
+T8	ORG_VIVO 26 34	paciente
+T9	ENFERMEDAD 308 351	contractura bilateral en musculatura lumbar
+T10	PACIENTE-PROFESION 56 110	Comercial de empresa de equipamiento para laboratorios

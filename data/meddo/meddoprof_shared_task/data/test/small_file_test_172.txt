@@ -1,0 +1,10 @@
+
+La	O
+antisarampión	O
+se	O
+aplicó	O
+a	O
+los	O
+11	O
+meses	O
+.	O

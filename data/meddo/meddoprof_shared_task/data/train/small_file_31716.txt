@@ -1,0 +1,16 @@
+
+Varón	O
+de	O
+47	O
+años	O
+en	O
+seguimiento	O
+psiquiátrico	O
+en	O
+Centro	O
+de	O
+Salud	O
+Mental	O
+de	O
+zona	O
+.	O

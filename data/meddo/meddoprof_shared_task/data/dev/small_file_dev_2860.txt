@@ -1,0 +1,17 @@
+
+Actividad	O
+-	O
+ejercicio	O
+:	O
+refiere	O
+que	O
+hace	B-ACTIVIDAD
+yoga	I-ACTIVIDAD
+en	O
+su	O
+casa	O
+varias	O
+veces	O
+por	O
+semana	O
+.	O

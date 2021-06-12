@@ -1,0 +1,17 @@
+
+En	O
+la	O
+exploración	O
+física	O
+no	O
+se	O
+encontraron	O
+datos	O
+patológicos	O
+sistémicos	O
+,	O
+ni	O
+de	O
+focalidad	O
+neurológica	O
+.	O

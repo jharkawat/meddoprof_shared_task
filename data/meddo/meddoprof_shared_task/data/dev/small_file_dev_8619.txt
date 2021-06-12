@@ -1,0 +1,13 @@
+
+Tonos	O
+cardiacos	O
+rítmicos	O
+a	O
+80	O
+lpm	O
+sin	O
+soplos	O
+ni	O
+roces	O
+audibles	O
+.	O

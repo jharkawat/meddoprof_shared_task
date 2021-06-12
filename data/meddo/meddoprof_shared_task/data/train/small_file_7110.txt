@@ -1,0 +1,27 @@
+
+Para	O
+la	O
+lesiones	O
+anetodérmicas	O
+no	O
+se	O
+inició	O
+ningún	O
+tratamiento	O
+dirigido	O
+específico	O
+,	O
+pues	O
+ningún	O
+tratamiento	O
+ha	O
+mostrado	O
+ser	O
+plenamente	O
+eficaz	O
+y	O
+las	O
+lesiones	O
+eran	O
+asintomáticas	O
+.	O

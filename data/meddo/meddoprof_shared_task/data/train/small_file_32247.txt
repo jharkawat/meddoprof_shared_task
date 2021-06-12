@@ -1,0 +1,22 @@
+
+Por	O
+otro	O
+lado	O
+,	O
+desde	O
+la	O
+introducción	O
+del	O
+tratamiento	O
+con	O
+clozapina	O
+,	O
+se	O
+realizan	O
+analíticas	O
+de	O
+control	O
+del	O
+hemograma	O
+periódicamente	O
+.	O

@@ -1,0 +1,7 @@
+
+Es	O
+muy	O
+retraída	O
+y	O
+desconfiada	O
+.	O

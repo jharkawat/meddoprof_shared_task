@@ -1,0 +1,13 @@
+
+Se	O
+realizó	O
+test	O
+de	O
+sangre	O
+oculta	O
+en	O
+heces	O
+con	O
+resultado	O
+positivo	O
+.	O

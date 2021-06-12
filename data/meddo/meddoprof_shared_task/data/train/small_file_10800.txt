@@ -1,0 +1,23 @@
+
+Se	O
+le	O
+prescribe	O
+14	O
+días	O
+de	O
+antibioterapia	O
+con	O
+levofloxacino	O
+,	O
+presentando	O
+una	O
+moderada	O
+mejoría	O
+del	O
+cuadro	O
+clínico	O
+sin	O
+remitir	O
+por	O
+completo	O
+.	O

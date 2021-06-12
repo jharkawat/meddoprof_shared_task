@@ -1,0 +1,12 @@
+
+ESCOLARIDAD	O
+:	O
+Bachiller	O
+y	O
+grado	O
+superior	O
+en	O
+marketing	O
+y	O
+publicidad	O
+.	O

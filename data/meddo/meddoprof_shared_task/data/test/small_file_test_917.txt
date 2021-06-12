@@ -1,0 +1,8 @@
+
+Radiografia	O
+de	O
+tórax	O
+y	O
+electrocardiograma	O
+normales	O
+.	O

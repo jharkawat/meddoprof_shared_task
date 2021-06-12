@@ -1,0 +1,27 @@
+
+En	O
+la	O
+actualidad	O
+está	O
+viviendo	O
+en	O
+casa	O
+de	O
+su	O
+madre	O
+en	O
+una	O
+población	O
+de	O
+la	O
+Comunidad	O
+de	O
+Madrid	O
+,	O
+cerca	O
+de	O
+su	O
+lugar	O
+de	O
+trabajo	O
+.	O

@@ -1,0 +1,6 @@
+
+Doloroso	O
+a	O
+la	O
+palpación	O
+.	O

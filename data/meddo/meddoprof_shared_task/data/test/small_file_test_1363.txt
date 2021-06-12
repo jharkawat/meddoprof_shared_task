@@ -1,0 +1,20 @@
+
+De	O
+sus	O
+laboratorios	O
+destacan	O
+leucopenia	O
+y	O
+linfopenia	O
+progresiva	O
+,	O
+elevación	O
+del	O
+dímero	O
+-	O
+D	O
+,	O
+DHL	O
+y	O
+ferritina	O
+.	O

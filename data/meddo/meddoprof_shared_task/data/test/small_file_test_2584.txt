@@ -1,0 +1,24 @@
+
+La	O
+valoración	O
+por	O
+parte	O
+del	O
+psiquiatra	O
+de	O
+Urgencias	O
+lo	O
+describe	O
+como	O
+un	O
+paciente	O
+que	O
+se	O
+encuentra	O
+confuso	O
+,	O
+bradipsíquico	O
+y	O
+poco	O
+abordable	O
+.	O

@@ -1,0 +1,24 @@
+
+Aorta	O
+ascendente	O
+distal	O
+,	O
+arco	O
+y	O
+descendente	O
+de	O
+calibre	O
+normal	O
+(	O
+26	O
+mm	O
+,	O
+24	O
+mm	O
+y	O
+18	O
+mm	O
+,	O
+respectivamente	O
+)	O
+.	O

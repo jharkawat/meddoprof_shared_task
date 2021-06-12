@@ -1,0 +1,24 @@
+
+Su	O
+abuela	O
+paterna	O
+había	O
+tenido	O
+varias	O
+«	O
+crisis	O
+nerviosas	O
+»	O
+,	O
+pero	O
+no	O
+conocía	O
+ni	O
+el	O
+diagnóstico	O
+ni	O
+qué	O
+tratamientos	O
+había	O
+tenido	O
+.	O

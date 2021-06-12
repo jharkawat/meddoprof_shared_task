@@ -1,0 +1,24 @@
+
+Buen	O
+estado	O
+general	O
+,	O
+consciente	O
+,	O
+orientado	O
+en	O
+persona	O
+,	O
+tiempo	O
+y	O
+espacio	O
+,	O
+bien	O
+hidratado	O
+y	O
+perfundido	O
+,	O
+eupneico	O
+en	O
+reposo	O
+.	O

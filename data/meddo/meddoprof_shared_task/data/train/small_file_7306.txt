@@ -1,0 +1,15 @@
+
+A	O
+la	O
+exploración	O
+física	O
+presenta	O
+placa	O
+eritematosa	O
+en	O
+mejilla	O
+izquierda	O
+con	O
+costras	O
+melicéricas	O
+.	O

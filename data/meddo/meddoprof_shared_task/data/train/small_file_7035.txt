@@ -1,0 +1,17 @@
+
+En	O
+nuestro	O
+caso	O
+se	O
+inicio	O
+tratamiento	O
+con	O
+Prednisona	O
+en	O
+pauta	O
+descendente	O
+y	O
+con	O
+Mometasona	O
+tópica	O
+.	O

@@ -1,0 +1,27 @@
+
+Hace	O
+un	O
+año	O
+y	O
+medio	O
+la	O
+paciente	O
+comenzó	O
+,	O
+coincidiendo	O
+con	O
+la	O
+época	O
+de	O
+exámenes	O
+,	O
+un	O
+cuadro	O
+de	O
+frecuentes	O
+episodios	O
+de	O
+dolor	O
+de	O
+cabeza	O
+.	O

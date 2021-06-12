@@ -1,0 +1,70 @@
+T1	SINTOMA 419 425	fiebre
+T2	SINTOMA 434 442	tos seca
+T3	SINTOMA 444 452	rinorrea
+T4	SINTOMA 455 468	artromialgias
+T5	SINTOMA 599 637	sibilancias en ambos campos inferiores
+T6	SINTOMA 983 989	fiebre
+T7	SINTOMA 992 1010	dolores musculares
+T8	SINTOMA 1866 1888	infiltrados pulmonares
+T9	SINTOMA 2013 2027	desorientación
+T10	SINTOMA 2030 2039	inquietud
+T11	SINTOMA 2071 2092	agitación psicomotriz
+T12	SINTOMA 2098 2124	desorganización conductual
+T13	SINTOMA 2155 2175	lenguaje verborreico
+T14	SINTOMA 2177 2188	incoherente
+T15	SINTOMA 3007 3028	hipoperfusión frontal
+T16	PROCEDIMIENTO 476 494	exploración física
+T17	PROCEDIMIENTO 645 666	auscultación pulmonar
+T18	PROCEDIMIENTO 671 689	electrocardiograma
+T19	PROCEDIMIENTO 774 794	radiografía de tórax
+T20	PROCEDIMIENTO 1048 1075	tratamiento broncodilatador
+T21	PROCEDIMIENTO 1449 1468	Gasometría arterial
+T22	PROCEDIMIENTO 1780 1800	Radiografía de tórax
+T23	PROCEDIMIENTO 1832 1848	-hospitalización
+T24	PROCEDIMIENTO 1966 1977	aislamiento
+T25	PROCEDIMIENTO 2672 2692	resonancia magnética
+T26	PROCEDIMIENTO 2694 2696	RM
+T27	PROCEDIMIENTO 2917 2941	tomografía computerizada
+T28	PROCEDIMIENTO 2973 2978	SPECT
+T29	NEG 234 236	No
+T30	NSCO 237 279	refiere antecedentes familiares de interés
+T31	NEG 862 865	sin
+T32	NSCO 866 877	infiltrados
+T33	NEG 964 979	desaparición de
+T34	NSCO 980 1010	la fiebre y dolores musculares
+T35	NEG 1662 1671	negativas
+T36	NEG 1851 1853	no
+T37	NSCO 1854 1918	se detectan infiltrados pulmonares ni otras imágenes importantes
+T38	NEG 2013 2027	desorientación
+T39	NEG 2177 2188	incoherente
+T40	NEG 2454 2462	falta de
+T41	NSCO 2463 2485	respuesta a la primera
+T42	NEG 3133 3144	desaparecen
+T43	NSCO 3145 3174	las alteraciones conductuales
+T44	FARMACO 905 916	oseltamivir
+T45	FARMACO 1086 1107	bromuro de ipratropio
+T46	FARMACO 1117 1128	terbutalina
+T47	FARMACO 1131 1141	budesonida
+T48	FARMACO 2389 2404	levomepromazina
+T49	FARMACO 2407 2415	diazepam
+T50	FARMACO 2558 2569	risperidona
+T51	FARMACO 2579 2587	tiapride
+T52	FARMACO 3487 3498	risperidona
+T53	FARMACO 3508 3518	sertralina
+T54	FARMACO 3530 3538	diazepam
+T55	ORG_VIVO 0 5	Mujer
+T56	ORG_VIVO 145 155	personales
+T57	ORG_VIVO 258 268	familiares
+T58	ORG_VIVO 284 292	paciente
+T59	ORG_VIVO 306 333	médico de Atención Primaria
+T60	ORG_VIVO 1539 1587	virus Influenza A/H1N1 positivo en -frotis nasal
+T61	ORG_VIVO 1618 1629	C. Burnetii
+T62	ORG_VIVO 1631 1644	M. pneumoniae
+T63	ORG_VIVO 1647 1661	C. pheumophila
+T64	ORG_VIVO 2320 2328	paciente
+T65	ORG_VIVO 2511 2519	paciente
+T66	ENFERMEDAD 80 125	infectada por el nuevo virus Influenza A/H1N1
+T67	ENFERMEDAD 228 232	EPOC
+T68	ENFERMEDAD 348 357	infección
+T69	ENFERMEDAD 2871 2912	lesiones isquémico-degenerativas crónicas
+T70	PACIENTE-PROFESION 306 333	médico de Atención Primaria

@@ -1,0 +1,8 @@
+
+No	O
+se	O
+disponía	O
+de	O
+análisis	O
+citogenético	O
+.	O

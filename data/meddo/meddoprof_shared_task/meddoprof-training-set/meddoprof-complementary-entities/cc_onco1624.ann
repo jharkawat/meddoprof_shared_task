@@ -1,0 +1,99 @@
+T1	SINTOMA 214 246	alteración del hábito intestinal
+T2	SINTOMA 249 276	dolor abdominal tipo cólico
+T3	SINTOMA 395 401	fiebre
+T4	SINTOMA 415 443	deterioro del estado general
+T5	SINTOMA 1959 1972	fallecimiento
+T6	SINTOMA 2333 2346	fallecimiento
+T7	SINTOMA 3688 3695	eritema
+T8	SINTOMA 3711 3719	quemazón
+T9	SINTOMA 3999 4007	ampollas
+T10	SINTOMA 4009 4014	dolor
+T11	SINTOMA 4026 4057	dificultad para la deambulación
+T12	SINTOMA 4091 4117	disestesias palmoplantares
+T13	SINTOMA 4972 4979	diarrea
+T14	SINTOMA 5264 5271	diarrea
+T15	PROCEDIMIENTO 106 120	amigdalectomía
+T16	PROCEDIMIENTO 650 690	Tomografía computarizada toracoabdominal
+T17	PROCEDIMIENTO 983 995	Colonoscopia
+T18	PROCEDIMIENTO 1083 1091	biopsias
+T19	PROCEDIMIENTO 1208 1222	sigmoidectomía
+T20	PROCEDIMIENTO 1415 1429	antibioterapia
+T21	PROCEDIMIENTO 2391 2404	quimioterapia
+T22	PROCEDIMIENTO 2900 2913	quimioterapia
+T23	PROCEDIMIENTO 3396 3416	hidratación de manos
+T24	PROCEDIMIENTO 3582 3604	ciclo de quimioterapia
+T25	PROCEDIMIENTO 4348 4359	corticoides
+T26	PROCEDIMIENTO 4366 4377	antibiótico
+T27	PROCEDIMIENTO 4400 4413	quimioterapia
+T28	PROCEDIMIENTO 5032 5064	profilaxis con dieta astringente
+T29	NEG 137 140	Sin
+T30	NSCO 141 180	antecedentes de neoplasia en su familia
+T31	UNC 574 588	compatible con
+T32	USCO 589 602	abdomen agudo
+T33	UNC 736 748	sugestiva de
+T34	USCO 749 758	neoplasia
+T35	NEG 812 814	No
+T36	NSCO 815 852	se objetivaron metástasis a distancia
+T37	NEG 1287 1290	sin
+T38	NSCO 1291 1326	hallazgos sospechosos de malignidad
+T39	NSCO 3254 3331	insistiéndole especialmente en evitar la ingesta de alimentos o bebidas frías
+T40	NEG 4396 4399	sin
+T41	NSCO 4400 4413	quimioterapia
+T42	NEG 5067 5070	sin
+T43	NSCO 5071 5079	residuos
+T44	NEG 5394 5397	sin
+T45	NSCO 5398 5416	toxicidad residual
+T46	FARMACO 2446 2458	oxaliplatino
+T47	FARMACO 2672 2684	oxaliplatino
+T48	FARMACO 2942 2958	fluoropirimidina
+T49	FARMACO 2961 2973	oxaliplatino
+T50	FARMACO 3070 3082	oxaliplatino
+T51	FARMACO 3106 3118	capecitabina
+T52	FARMACO 3874 3886	capecitabina
+T53	FARMACO 4533 4548	5-fluorouracilo
+T54	FARMACO 4550 4554	5-FU
+T55	FARMACO 4577 4583	FOLFOX
+T56	FARMACO 4663 4677	ácido folínico
+T57	FARMACO 4714 4718	5-FU
+T58	FARMACO 4752 4764	oxaliplatino
+T59	FARMACO 4799 4809	leucovorin
+T60	FARMACO 4822 4826	5-FU
+T61	FARMACO 5082 5095	racecadotrilo
+T62	ORG_VIVO 10 15	Varón
+T63	ORG_VIVO 127 135	infancia
+T64	ORG_VIVO 173 180	familia
+T65	ORG_VIVO 281 308	médico de Atención Primaria
+T66	ORG_VIVO 1794 1802	paciente
+T67	ORG_VIVO 2109 2117	paciente
+T68	ORG_VIVO 2632 2640	paciente
+T69	ORG_VIVO 2740 2749	pacientes
+T70	ORG_VIVO 2846 2854	oncólogo
+T71	ORG_VIVO 2875 2883	paciente
+T72	ORG_VIVO 3187 3195	paciente
+T73	ORG_VIVO 3470 3475	avena
+T74	ORG_VIVO 3523 3530	algodón
+T75	ORG_VIVO 4164 4172	levadura
+T76	ORG_VIVO 5013 5022	pacientes
+T77	ORG_VIVO 5136 5144	paciente
+T78	ENFERMEDAD 53 74	hipertensión arterial
+T79	ENFERMEDAD 157 166	neoplasia
+T80	ENFERMEDAD 589 602	abdomen agudo
+T81	ENFERMEDAD 749 758	neoplasia
+T82	ENFERMEDAD 778 810	dilatación de colon preestenosis
+T83	ENFERMEDAD 830 840	metástasis
+T84	ENFERMEDAD 1108 1131	adenocarcinoma de colon
+T85	ENFERMEDAD 1359 1394	infección en la cicatriz quirúrgica
+T86	ENFERMEDAD 1465 1488	adenocarcinoma de sigma
+T87	ENFERMEDAD 1546 1567	adenopatías tumorales
+T88	ENFERMEDAD 2191 2203	hipertensión
+T89	ENFERMEDAD 2654 2684	neuropatía por el oxaliplatino
+T90	ENFERMEDAD 3639 3661	síndrome palmo-plantar
+T91	ENFERMEDAD 3969 3986	toxicidad cutánea
+T92	ENFERMEDAD 4068 4084	neuropatía grado
+T93	ENFERMEDAD 4418 4435	toxicidad cutánea
+T94	ENFERMEDAD 4468 4486	neuropatía grado 1
+T95	ENFERMEDAD 4610 4620	neuropatía
+T96	ENFERMEDAD 4924 4950	toxicidad gastrointestinal
+T97	ENFERMEDAD 5213 5235	toxicidades neuropatía
+T98	SANITARIO-PROFESION 281 308	médico de Atención Primaria
+T99	SANITARIO-PROFESION 2846 2854	oncólogo

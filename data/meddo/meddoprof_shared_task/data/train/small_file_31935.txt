@@ -1,0 +1,11 @@
+
+Discurso	O
+coherente	O
+aunque	O
+no	O
+fluido	O
+,	O
+sí	O
+bien	O
+dirigido	O
+.	O

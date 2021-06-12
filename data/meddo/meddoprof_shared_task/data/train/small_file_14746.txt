@@ -1,0 +1,25 @@
+
+Acude	O
+a	O
+Urgencias	O
+por	O
+4	O
+meses	O
+de	O
+evolución	O
+de	O
+astenia	O
+,	O
+mialgias	O
+,	O
+febrícula	O
+,	O
+tos	O
+con	O
+expectoración	O
+y	O
+dolorpleurítico	O
+en	O
+hemitórax	O
+izquierdo	O
+.	O

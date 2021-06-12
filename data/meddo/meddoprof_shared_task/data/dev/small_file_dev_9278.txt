@@ -1,0 +1,27 @@
+
+La	O
+serología	O
+para	O
+VIH	O
+,	O
+VHA	O
+,	O
+VHB	O
+,	O
+VHC	O
+,	O
+Virus	O
+Epstein	O
+Barr	O
+(	O
+VEB	O
+)	O
+,	O
+Citomegalovirus	O
+(	O
+CMV	O
+)	O
+,	O
+Brucella	O
+spp	O
+.	O

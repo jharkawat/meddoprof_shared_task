@@ -1,0 +1,26 @@
+
+Mujer	O
+de	O
+70	O
+años	O
+,	O
+soltera	O
+,	O
+vive	O
+sola	O
+con	O
+supervisión	O
+constante	O
+por	O
+hermana	O
+y	O
+cuñado	O
+que	O
+viven	O
+en	O
+el	O
+piso	O
+inferior	O
+al	O
+suyo	O
+.	O

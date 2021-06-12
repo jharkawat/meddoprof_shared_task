@@ -1,0 +1,20 @@
+
+Su	O
+familia	O
+la	O
+describía	O
+como	O
+una	O
+persona	O
+trabajadora	O
+,	O
+confiada	O
+y	O
+sociable	O
+antes	O
+de	O
+que	O
+comenzaran	O
+los	O
+síntomas	O
+.	O

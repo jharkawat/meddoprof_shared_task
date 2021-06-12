@@ -1,0 +1,7 @@
+
+Es	O
+independiente	O
+para	O
+las	O
+ABVD	O
+.	O

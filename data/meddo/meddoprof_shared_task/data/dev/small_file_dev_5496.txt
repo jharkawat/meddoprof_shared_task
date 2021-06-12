@@ -1,0 +1,7 @@
+
+Hernioplastia	O
+inguinal	O
+derecha	O
+hace	O
+12años	O
+.	O

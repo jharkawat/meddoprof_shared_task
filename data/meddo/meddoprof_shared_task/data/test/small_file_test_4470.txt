@@ -1,0 +1,5 @@
+
+Sin	O
+otra	O
+alteración	O
+.	O

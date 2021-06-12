@@ -1,0 +1,10 @@
+
+TAC	O
+cerebro	O
+sin	O
+contraste	O
+:	O
+no	O
+hallazgos	O
+patológicos	O
+.	O

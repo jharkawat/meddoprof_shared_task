@@ -1,0 +1,6 @@
+
+Aceptable	O
+control	O
+del	O
+dolor	O
+.	O

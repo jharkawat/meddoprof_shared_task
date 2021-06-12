@@ -1,0 +1,5 @@
+
+Niega	O
+medicación	O
+habitual	O
+.	O

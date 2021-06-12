@@ -1,0 +1,17 @@
+
+Al	O
+bajar	O
+la	O
+montaña	O
+presentó	O
+mareos	O
+,	O
+dolor	O
+abdominal	O
+,	O
+náuseas	O
+,	O
+vómitos	O
+,	O
+diarrea	O
+,	O

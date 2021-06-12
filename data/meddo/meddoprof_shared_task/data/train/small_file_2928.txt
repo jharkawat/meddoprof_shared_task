@@ -1,0 +1,6 @@
+
+-	O
+no	O
+alergias	O
+medicamentosas	O
+conocidas	O

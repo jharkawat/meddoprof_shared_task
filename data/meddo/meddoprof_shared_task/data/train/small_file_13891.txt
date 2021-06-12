@@ -1,0 +1,20 @@
+
+La	O
+mortalidad	O
+en	O
+el	O
+síndrome	O
+de	O
+shock	O
+tóxico	O
+por	O
+S	O
+.	O
+pyogenes	O
+puede	O
+alcanzar	O
+hasta	O
+el	O
+70	O
+%	O
+.	O

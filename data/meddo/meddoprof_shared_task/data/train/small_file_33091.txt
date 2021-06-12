@@ -1,0 +1,24 @@
+
+En	O
+la	O
+exploración	O
+presenta	O
+parcial	O
+rigidez	O
+axial	O
+1	O
+/	O
+4	O
+ESD	O
+2	O
+/	O
+4	O
+ESI	O
+1	O
+/	O
+4	O
+EID	O
+2	O
+/	O
+4	O
+.	O

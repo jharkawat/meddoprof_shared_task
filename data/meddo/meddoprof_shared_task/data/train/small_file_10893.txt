@@ -1,0 +1,6 @@
+
+Paciente	O
+normohidratado	O
+y	O
+perfundido	O
+.	O

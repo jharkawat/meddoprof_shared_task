@@ -1,0 +1,14 @@
+
+La	O
+gente	O
+parece	O
+que	O
+se	O
+vuelva	O
+loca	O
+cuando	O
+sale	O
+de	O
+su	O
+casa	O
+.	O

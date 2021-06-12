@@ -1,0 +1,10 @@
+
+Pequeña	O
+contusión	O
+-	O
+hemorragia	O
+en	O
+parénquima	O
+pulmonar	O
+derecho	O
+.	O

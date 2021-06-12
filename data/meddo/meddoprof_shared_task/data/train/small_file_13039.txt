@@ -1,0 +1,5 @@
+
+encefalomielitis	O
+aguda	O
+diseminada	O
+.	O

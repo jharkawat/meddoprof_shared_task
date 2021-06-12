@@ -1,0 +1,21 @@
+
+A	O
+la	O
+exploración	O
+física	O
+,	O
+la	O
+paciente	O
+presenta	O
+buen	O
+estado	O
+general	O
+,	O
+normocoloreada	O
+y	O
+normohidratada	O
+,	O
+eupneica	O
+en	O
+reposo	O
+.	O

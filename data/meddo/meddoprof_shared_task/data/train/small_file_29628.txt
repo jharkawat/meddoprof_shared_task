@@ -1,0 +1,14 @@
+
+Marcadores	O
+tumorales	O
+:	O
+alfafetoproteína	O
+normal	O
+:	O
+1	O
+,	O
+4	O
+ng	O
+/	O
+ml	O
+.	O

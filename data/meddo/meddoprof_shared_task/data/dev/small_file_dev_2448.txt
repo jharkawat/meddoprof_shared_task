@@ -1,0 +1,11 @@
+
+En	O
+ésta	O
+no	O
+se	O
+aprecian	O
+imágenes	O
+de	O
+descompensación	O
+claras	O
+.	O

@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+física	O
+destacaba	O
+hábito	O
+atlético	O
+y	O
+un	O
+desarrollo	O
+muscular	O
+importante	O
+.	O

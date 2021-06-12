@@ -1,0 +1,27 @@
+
+El	O
+primer	O
+tratamiento	O
+se	O
+realizó	O
+el	O
+22	O
+de	O
+agosto	O
+de	O
+2003	O
+,	O
+mediante	O
+hemicolectomía	O
+derecha	O
+ampliada	O
+a	O
+músculo	O
+de	O
+la	O
+pared	O
+lateral	O
+derecha	O
+del	O
+abdomen	O
+.	O

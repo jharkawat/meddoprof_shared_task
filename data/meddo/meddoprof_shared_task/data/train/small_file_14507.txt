@@ -1,0 +1,25 @@
+
+Fe	O
+35	O
+ug	O
+/	O
+dl	O
+,	O
+Ferritina	O
+32	O
+ng	O
+/	O
+ml	O
+,	O
+Transferrina	O
+360	O
+mg	O
+/	O
+dl	O
+,	O
+IST	O
+7	O
+.	O
+8	O
+%	O
+.	O

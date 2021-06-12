@@ -1,0 +1,6 @@
+
+No	O
+se	O
+detectan	O
+valvulopatías	O
+.	O

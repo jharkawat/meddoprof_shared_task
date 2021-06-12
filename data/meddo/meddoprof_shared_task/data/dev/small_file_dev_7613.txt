@@ -1,0 +1,23 @@
+
+El	O
+TC	O
+de	O
+abdomen	O
+previo	O
+a	O
+alta	O
+sugiere	O
+sobreinfección	O
+de	O
+quiste	O
+en	O
+segmento	O
+VI	O
+hepático	O
+como	O
+probable	O
+foco	O
+de	O
+la	O
+colangitis	O
+.	O

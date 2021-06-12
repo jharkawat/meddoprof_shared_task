@@ -1,0 +1,10 @@
+
+Entre	O
+sus	O
+antecedentes	O
+destaca	O
+diabetes	O
+mellitus	O
+tipo	O
+2	O
+.	O

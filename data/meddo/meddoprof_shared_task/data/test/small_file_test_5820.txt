@@ -1,0 +1,8 @@
+
+Adenopatía	O
+mediastínica	O
+derecha	O
+alta	O
+8	O
+mm	O
+.	O

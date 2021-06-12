@@ -1,0 +1,27 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+ausencia	O
+de	O
+localización	O
+común	O
+y	O
+la	O
+ausencia	O
+de	O
+imágenes	O
+de	O
+tuberculosis	O
+en	O
+la	O
+TC	O
+,	O
+lo	O
+descartan	O
+como	O
+posible	O
+microorganismo	O
+causante	O
+.	O

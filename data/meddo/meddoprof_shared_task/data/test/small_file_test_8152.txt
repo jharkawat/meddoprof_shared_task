@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+ingresa	O
+procedente	O
+de	O
+consulta	O
+(	O
+primera	O
+consulta	O
+en	O
+Oncología	O
+médica	O
+)	O
+,	O
+por	O
+insuficiencia	O
+respiratoria	O
+multifactorial	O
+.	O

@@ -1,0 +1,15 @@
+
+recibí	O
+250	O
+mil	O
+pesetas	O
+que	O
+costaba	O
+un	O
+chalet	O
+donde	O
+el	O
+rey	B-PROFESION
+.	O
+.	O
+.	O

@@ -1,0 +1,6 @@
+
+No	O
+había	O
+realizado	O
+tratamiento	O
+.	O

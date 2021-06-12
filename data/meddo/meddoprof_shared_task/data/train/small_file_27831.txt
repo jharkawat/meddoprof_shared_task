@@ -1,0 +1,27 @@
+
+En	O
+una	O
+segunda	O
+valoración	O
+se	O
+decide	O
+llevar	O
+a	O
+cabo	O
+la	O
+resección	O
+quirúrgica	O
+del	O
+tumor	O
+cerebral	O
+,	O
+teniendo	O
+lugar	O
+dicha	O
+cirugía	O
+sin	O
+complicaciones	O
+intra	O
+o	O
+postoperatorias	O
+.	O

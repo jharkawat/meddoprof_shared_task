@@ -1,0 +1,10 @@
+
+Caída	O
+de	O
+la	O
+TA	O
+y	O
+bradicardia	O
+más	O
+marcada	O
+.	O

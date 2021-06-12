@@ -1,0 +1,16 @@
+
+La	O
+procalcitonina	O
+fue	O
+de	O
+0	O
+,	O
+343	O
+ng	O
+/	O
+mL	O
+(	O
+Tabla	O
+1	O
+)	O
+.	O

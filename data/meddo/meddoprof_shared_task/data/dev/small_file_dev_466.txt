@@ -1,0 +1,14 @@
+
+Tranquilizamos	O
+a	O
+la	O
+mujer	O
+y	O
+explicamos	O
+las	O
+posibles	O
+causas	O
+de	O
+su	O
+comportamiento	O
+.	O

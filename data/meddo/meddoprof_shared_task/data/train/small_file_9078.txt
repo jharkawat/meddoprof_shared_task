@@ -1,0 +1,7 @@
+
+Parvovirus	O
+B19	O
+IgM	O
+:	O
+Negativo	O
+.	O

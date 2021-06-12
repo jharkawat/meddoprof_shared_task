@@ -1,0 +1,12 @@
+
+Sin	O
+duda	O
+evidencia	O
+a	O
+favor	O
+de	O
+radiculopatía	O
+lumbo	O
+-	O
+sacra	O
+.	O

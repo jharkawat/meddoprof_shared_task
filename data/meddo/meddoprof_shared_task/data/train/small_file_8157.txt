@@ -1,0 +1,18 @@
+
+Ausencia	O
+de	O
+disnea	O
+,	O
+dolor	O
+torácico	O
+,	O
+tos	O
+,	O
+expectoración	O
+u	O
+otra	O
+clínica	O
+en	O
+la	O
+anamnesis	O
+.	O

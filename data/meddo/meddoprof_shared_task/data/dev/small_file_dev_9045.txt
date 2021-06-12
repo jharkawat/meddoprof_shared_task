@@ -1,0 +1,16 @@
+
+Dada	O
+la	O
+sospecha	O
+clínica	O
+se	O
+efectuó	O
+una	O
+PCR	O
+para	O
+Bartonella	O
+henselae	O
+que	O
+resultó	O
+positiva	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+ha	O
+ido	O
+nunca	O
+al	O
+dentista	B-PROFESION
+.	O

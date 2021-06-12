@@ -1,0 +1,25 @@
+
+La	O
+adición	O
+de	O
+radioterapia	O
+se	O
+realiza	O
+en	O
+función	O
+de	O
+la	O
+respuesta	O
+histológica	O
+y	O
+el	O
+tipo	O
+de	O
+cirugía	O
+:	O
+amplia	O
+,	O
+marginal	O
+o	O
+intratumoral	O
+.	O

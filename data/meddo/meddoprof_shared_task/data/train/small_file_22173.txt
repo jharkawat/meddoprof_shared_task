@@ -1,0 +1,7 @@
+
+Se	O
+medica	O
+a	O
+la	O
+paciente	O
+.	O

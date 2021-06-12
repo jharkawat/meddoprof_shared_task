@@ -1,0 +1,22 @@
+
+A	O
+favor	O
+de	O
+este	O
+diagnóstico	O
+estaría	O
+la	O
+presentación	O
+subaguda	O
+del	O
+cuadro	O
+de	O
+nuestro	O
+paciente	O
+con	O
+fiebre	O
+bien	O
+tolerada	O
+sin	O
+leucocitosis	O
+.	O

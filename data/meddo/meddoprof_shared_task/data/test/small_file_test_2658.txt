@@ -1,0 +1,20 @@
+
+Se	O
+realiza	O
+una	O
+radiografía	O
+simple	O
+de	O
+tórax	O
+,	O
+que	O
+revela	O
+la	O
+presencia	O
+de	O
+un	O
+infiltrado	O
+intersticial	O
+micronodular	O
+bilateral	O
+.	O

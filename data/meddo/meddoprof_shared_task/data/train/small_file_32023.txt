@@ -1,0 +1,16 @@
+
+Ha	O
+tenido	O
+valoraciones	O
+por	O
+el	O
+servicio	O
+de	O
+Oftalmología	O
+por	O
+distrofia	O
+macular	O
+incipiente	O
+y	O
+miopía	O
+.	O

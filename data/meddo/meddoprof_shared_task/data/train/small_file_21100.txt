@@ -1,0 +1,19 @@
+
+Puede	O
+haber	O
+sucedido	O
+que	O
+hayan	O
+contribuido	O
+a	O
+su	O
+estado	O
+,	O
+la	O
+alteración	O
+de	O
+los	O
+electrolitos	O
+del	O
+suero	O
+.	O

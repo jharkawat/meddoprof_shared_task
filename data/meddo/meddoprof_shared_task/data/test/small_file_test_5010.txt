@@ -1,0 +1,15 @@
+
+Clínicamente	O
+la	O
+paciente	O
+persiste	O
+con	O
+buen	O
+estado	O
+general	O
+y	O
+un	O
+PS	O
+de	O
+1	O
+.	O

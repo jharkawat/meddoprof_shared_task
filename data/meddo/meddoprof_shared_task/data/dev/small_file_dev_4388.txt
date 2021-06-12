@@ -1,0 +1,22 @@
+
+Se	O
+utilizó	O
+un	O
+promedio	O
+de	O
+250	O
+ml	O
+del	O
+PFC	O
+durante	O
+cada	O
+procedimiento	O
+los	O
+que	O
+duraron	O
+un	O
+promedio	O
+de	O
+60	O
+min	O
+.	O

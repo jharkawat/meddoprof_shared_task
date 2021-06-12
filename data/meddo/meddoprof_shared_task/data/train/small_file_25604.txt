@@ -1,0 +1,27 @@
+
+Es	O
+el	O
+segundo	O
+de	O
+dos	O
+hermanos	O
+y	O
+mantiene	O
+relaciones	O
+distantes	O
+con	O
+su	O
+familia	O
+,	O
+de	O
+manera	O
+que	O
+desconocen	O
+los	O
+problemas	O
+psicopatológicos	O
+que	O
+presenta	O
+el	O
+paciente	O
+.	O

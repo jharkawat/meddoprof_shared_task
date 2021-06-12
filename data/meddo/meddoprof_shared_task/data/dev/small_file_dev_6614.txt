@@ -1,0 +1,19 @@
+
+La	O
+gasometría	O
+arterial	O
+urgente	O
+no	O
+mostró	O
+alteraciones	O
+significativas	O
+,	O
+salvo	O
+Hb	O
+9	O
+,	O
+3	O
+g	O
+/	O
+dL	O
+.	O

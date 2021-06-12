@@ -1,0 +1,16 @@
+
+-	O
+Serología	O
+:	O
+Sífilis	O
+G	O
++	O
+M	O
+:	O
+Negativo	O
+,	O
+Rickettsia	O
+conorii	O
+:	O
+Negativo	O
+.	O

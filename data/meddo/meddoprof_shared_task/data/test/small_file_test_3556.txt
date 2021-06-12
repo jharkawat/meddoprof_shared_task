@@ -1,0 +1,25 @@
+
+Remitido	O
+a	O
+Dermatología	O
+por	O
+lesiones	O
+en	O
+la	O
+cavidad	O
+oral	O
+y	O
+dérmicas	O
+palmoplantares	O
+erosivas	O
+y	O
+descamativas	O
+tipo	O
+eritrodisestesia	O
+palmoplantar	O
+secundario	O
+a	O
+tratamiento	O
+con	O
+sunitinib	O
+.	O

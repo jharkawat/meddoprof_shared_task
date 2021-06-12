@@ -1,0 +1,12 @@
+
+Aspecto	O
+e	O
+higiene	O
+descuidados	O
+,	O
+última	O
+ducha	O
+hace	O
+5	O
+días	O
+.	O

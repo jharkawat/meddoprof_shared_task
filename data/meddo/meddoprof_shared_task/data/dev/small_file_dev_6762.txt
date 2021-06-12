@@ -1,0 +1,24 @@
+
+Por	O
+este	O
+motivo	O
+acude	O
+a	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+que	O
+le	O
+diagnostica	O
+de	O
+infección	O
+urinaria	O
+y	O
+le	O
+pauta	O
+tratamiento	O
+con	O
+ciprofloxacino	O
+.	O

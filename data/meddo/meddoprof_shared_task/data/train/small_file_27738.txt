@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+refiere	O
+haber	O
+abandonado	O
+el	O
+consumo	O
+de	O
+hachís	O
+desde	O
+el	O
+primer	O
+momento	O
+del	O
+seguimiento	O
+.	O

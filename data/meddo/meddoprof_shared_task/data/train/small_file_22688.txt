@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+30	O
+años	O
+de	O
+edad	O
+diagnosticada	O
+de	O
+un	O
+trastorno	O
+esquizofrénico	O
+tipo	O
+paranoide	O
+de	O
+10	O
+años	O
+de	O
+evolución	O
+.	O

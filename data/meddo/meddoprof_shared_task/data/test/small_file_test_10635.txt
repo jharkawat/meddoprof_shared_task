@@ -1,0 +1,9 @@
+
+No	O
+se	O
+palpan	O
+nódulos	O
+en	O
+mama	O
+izquierda	O
+.	O

@@ -1,0 +1,16 @@
+
+Llama	O
+la	O
+atención	O
+una	O
+parálisis	O
+del	O
+tercer	O
+par	O
+craneal	O
+derecho	O
+y	O
+una	O
+ptosis	O
+derecha	O
+.	O

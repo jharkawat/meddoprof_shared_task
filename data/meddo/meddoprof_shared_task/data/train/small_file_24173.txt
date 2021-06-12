@@ -1,0 +1,23 @@
+
+Así	O
+mismo	O
+,	O
+se	O
+descarta	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+dada	O
+la	O
+presencia	O
+de	O
+sintomatología	O
+maniforme	O
+franca	O
+constatada	O
+por	O
+informantes	O
+cercanos	O
+al	O
+paciente	O
+.	O

@@ -1,0 +1,15 @@
+
+»	O
+Angiomixoma	O
+vulvar	O
+agresivo	O
+bilateral	O
+recidivante	O
+tratado	O
+con	O
+exéresis	O
+quirúrgica	O
+y	O
+RT	O
+complementaria	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+refiere	O
+haber	O
+tenido	O
+ninguna	O
+intervención	O
+quirúrgica	O
+.	O

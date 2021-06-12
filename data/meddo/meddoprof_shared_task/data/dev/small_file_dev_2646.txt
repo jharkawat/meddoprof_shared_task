@@ -1,0 +1,4 @@
+
+Sin	O
+neumoperitoneo	O
+.	O

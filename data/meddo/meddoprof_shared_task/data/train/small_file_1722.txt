@@ -1,0 +1,13 @@
+
+Diagnosticado	O
+de	O
+tuberculosis	O
+pulmonar	O
+en	O
+2008	O
+y	O
+tratado	O
+durante	O
+12	O
+meses	O
+.	O

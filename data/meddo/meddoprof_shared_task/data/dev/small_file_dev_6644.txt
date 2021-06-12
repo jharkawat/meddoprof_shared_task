@@ -1,0 +1,22 @@
+
+Al	O
+tercer	O
+día	O
+de	O
+ingreso	O
+avisan	O
+de	O
+microbiología	O
+por	O
+el	O
+crecimiento	O
+de	O
+bacilos	O
+gram	O
+positivo	O
+en	O
+un	O
+frasco	O
+de	O
+hemocultivos	O
+.	O

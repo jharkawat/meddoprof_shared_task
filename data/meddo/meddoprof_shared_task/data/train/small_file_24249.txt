@@ -1,0 +1,9 @@
+
+Ninguno	O
+de	O
+sus	O
+hermanos	O
+padece	O
+la	O
+enfermedad	O
+.	O

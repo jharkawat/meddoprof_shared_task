@@ -1,0 +1,15 @@
+
+Habita	O
+en	O
+una	O
+zona	O
+urbana	O
+,	O
+la	O
+casa	O
+es	O
+propiedad	O
+de	O
+sus	O
+padres	O
+.	O

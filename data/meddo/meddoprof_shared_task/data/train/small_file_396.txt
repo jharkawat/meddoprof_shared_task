@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+Ingreso	O
+:	O
+10	O
+/	O
+06	O
+/	O
+2016	O
+.	O

@@ -1,0 +1,8 @@
+
+Actualmente	O
+está	O
+con	B-SITUACION_LABORAL
+licencia	I-SITUACION_LABORAL
+por	I-SITUACION_LABORAL
+maternidad	I-SITUACION_LABORAL
+.	O

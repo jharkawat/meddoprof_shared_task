@@ -1,0 +1,13 @@
+
+A	O
+la	O
+exploración	O
+destaca	O
+faringe	O
+hiperemica	O
+sin	O
+otros	O
+hallazgos	O
+de	O
+interés	O
+.	O

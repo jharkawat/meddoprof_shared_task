@@ -1,0 +1,27 @@
+
+El	O
+discurso	O
+está	O
+muy	O
+lejos	O
+de	O
+ser	O
+fluido	O
+pero	O
+el	O
+mutismo	O
+no	O
+es	O
+absoluto	O
+e	O
+incluso	O
+,	O
+en	O
+ocasiones	O
+,	O
+se	O
+expresa	O
+de	O
+forma	O
+espontánea	O
+.	O

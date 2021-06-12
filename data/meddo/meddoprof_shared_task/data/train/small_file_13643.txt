@@ -1,0 +1,21 @@
+
+Acude	O
+por	O
+hipertensión	O
+arterial	O
+(	O
+PAS	O
+170	O
+)	O
+,	O
+taquicardia	O
+(	O
+121	O
+lpm	O
+)	O
+,	O
+rubor	O
+facial	O
+y	O
+nerviosismo	O
+.	O

@@ -1,0 +1,16 @@
+
+Se	O
+solicita	O
+valoración	O
+dadas	O
+las	O
+alteraciones	O
+analíticas	O
+del	O
+ingreso	O
+el	O
+paciente	O
+se	O
+encuentra	O
+asintomático	O
+.	O

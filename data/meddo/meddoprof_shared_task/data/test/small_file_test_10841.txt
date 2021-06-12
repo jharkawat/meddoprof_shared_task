@@ -1,0 +1,26 @@
+
+Ingresado	O
+en	O
+otro	O
+hospital	O
+por	O
+un	O
+absceso	O
+lumbar	O
+presenta	O
+disfagia	O
+y	O
+disnea	O
+progresiva	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+decide	O
+el	O
+traslado	O
+a	O
+nuestro	O
+servicio	O
+.	O

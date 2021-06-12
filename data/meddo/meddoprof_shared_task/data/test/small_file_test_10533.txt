@@ -1,0 +1,9 @@
+
+No	O
+presenta	O
+alergias	O
+ni	O
+hábitos	O
+tóxicos	O
+conocidos	O
+.	O

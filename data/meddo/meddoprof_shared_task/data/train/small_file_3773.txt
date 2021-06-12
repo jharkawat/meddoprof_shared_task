@@ -1,0 +1,16 @@
+
+Su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Familia	I-PROFESION
+decide	O
+derivarla	O
+a	O
+Urgencias	O
+Hospitalarias	O
+para	O
+realización	O
+de	O
+pruebas	O
+complementarias	O
+.	O

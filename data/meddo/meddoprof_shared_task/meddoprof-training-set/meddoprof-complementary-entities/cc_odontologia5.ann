@@ -1,0 +1,13 @@
+T1	SINTOMA 654 666	defecto óseo
+T2	PROCEDIMIENTO 85 107	evaluación periodontal
+T3	PROCEDIMIENTO 342 365	tratamiento periodontal
+T4	PROCEDIMIENTO 459 480	endodoncia del diente
+T5	PROCEDIMIENTO 692 728	técnicas de regeneración periodontal
+T6	NEG 366 368	no
+T7	NSCO 369 430	quirúrgico con administración sistémica de Metronidazol 500mg
+T8	NEG 509 517	negativa
+T9	NSCO 518 556	en las pruebas diagnósticas realizadas
+T10	NEG 667 670	sin
+T11	NSCO 671 728	necesidad de aplicar técnicas de regeneración periodontal
+T12	FARMACO 412 424	Metronidazol
+T13	ENFERMEDAD 38 68	periodontitis crónica avanzada

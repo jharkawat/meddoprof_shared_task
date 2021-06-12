@@ -1,0 +1,20 @@
+
+TA	O
+136	O
+/	O
+80mmHg	O
+,	O
+FC	O
+102	O
+lpm	O
+,	O
+SO2	O
+96	O
+%	O
+,	O
+T	O
+38	O
+,	O
+6	O
+oC	O
+.	O

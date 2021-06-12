@@ -1,0 +1,7 @@
+
+Rx	O
+de	O
+ambas	O
+caderas	O
+frente	O
+.	O

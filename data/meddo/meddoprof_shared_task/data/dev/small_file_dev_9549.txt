@@ -1,0 +1,25 @@
+
+Personalidad	O
+premórbida	O
+:	O
+niño	O
+miedoso	O
+,	O
+inseguro	O
+,	O
+rechaza	O
+el	O
+contacto	O
+físico	O
+,	O
+retraído	O
+,	O
+con	O
+dificultades	O
+de	O
+socialización	O
+,	O
+tendencia	O
+al	O
+aislamiento	O
+.	O

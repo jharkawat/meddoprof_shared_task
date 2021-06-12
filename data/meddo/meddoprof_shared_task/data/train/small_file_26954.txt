@@ -1,0 +1,7 @@
+
+Tiene	O
+apoyos	O
+con	O
+frecuencia	O
+semanal	O
+.	O

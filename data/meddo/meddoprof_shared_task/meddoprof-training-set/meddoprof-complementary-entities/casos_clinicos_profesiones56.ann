@@ -1,0 +1,19 @@
+T1	SINTOMA 52 59	fumador
+T2	SINTOMA 150 153	tos
+T3	SINTOMA 168 193	expectoración blanquecina
+T4	SINTOMA 248 254	disnea
+T5	SINTOMA 276 290	dolor torácico
+T6	NEG 273 275	no
+T7	NSCO 276 290	dolor torácico
+T8	NEG 292 294	no
+T9	NSCO 295 311	síndrome general
+T10	NEG 313 315	no
+T11	NSCO 316 347	otra sintomatología acompañante
+T12	NEG 361 366	nunca
+T13	NSCO 367 375	consultó
+T14	FARMACO 460 462	O2
+T15	ORG_VIVO 30 38	paciente
+T16	ORG_VIVO 352 360	paciente
+T17	ORG_VIVO 428 433	padre
+T18	ENFERMEDAD 437 441	EPOC
+T19	PACIENTE-PROFESION 105 129	Tiene una clínica dental

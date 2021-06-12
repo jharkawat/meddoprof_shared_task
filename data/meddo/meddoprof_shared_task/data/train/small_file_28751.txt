@@ -1,0 +1,8 @@
+
+Mujer	O
+que	O
+actualmente	O
+tiene	O
+19	O
+años	O
+.	O

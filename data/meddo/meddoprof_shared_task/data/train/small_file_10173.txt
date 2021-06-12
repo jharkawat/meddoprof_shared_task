@@ -1,0 +1,7 @@
+
+Padre	O
+con	O
+cáncer	O
+de	O
+pulmón	O
+.	O

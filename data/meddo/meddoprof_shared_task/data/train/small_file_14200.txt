@@ -1,0 +1,6 @@
+
+Porta	O
+también	O
+parcialmente	O
+trombosada	O
+.	O

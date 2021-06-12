@@ -1,0 +1,27 @@
+
+Llama	O
+la	O
+atención	O
+la	O
+observación	O
+de	O
+colonias	O
+actinomicóticas	O
+,	O
+las	O
+cuales	O
+también	O
+son	O
+apreciadas	O
+en	O
+la	O
+revisión	O
+de	O
+las	O
+muestras	O
+extraídas	O
+en	O
+la	O
+toracoscopia	O
+previa	O
+.	O

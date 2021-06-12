@@ -1,0 +1,26 @@
+
+En	O
+cuanto	O
+al	O
+área	O
+afectiva	O
+,	O
+denota	O
+un	O
+ánimo	O
+eutímico	O
+,	O
+por	O
+momentos	O
+lábil	O
+en	O
+reacción	O
+a	O
+episodios	O
+de	O
+ansiedad	O
+elicitada	O
+por	O
+las	O
+crisis	O
+.	O

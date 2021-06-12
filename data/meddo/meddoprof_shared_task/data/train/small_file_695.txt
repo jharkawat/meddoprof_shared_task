@@ -1,0 +1,12 @@
+
+Los	O
+estudios	O
+radiológicos	O
+de	O
+tórax	O
+y	O
+abdomen	O
+no	O
+reflejaban	O
+patología	O
+.	O

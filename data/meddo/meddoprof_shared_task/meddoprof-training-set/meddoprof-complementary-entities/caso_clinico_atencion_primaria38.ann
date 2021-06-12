@@ -1,0 +1,85 @@
+T1	SINTOMA 195 202	Fumador
+T2	SINTOMA 262 269	bebedor
+T3	SINTOMA 422 436	dolor torácico
+T4	SINTOMA 810 909	placas necróticas dolorosas en pulpejo del 2o dedo de la mano izquierda y 2o y 3er dedos de la mano
+T5	SINTOMA 948 956	Frialdad
+T6	SINTOMA 959 967	cianosis
+T7	SINTOMA 982 1005	pulsos radial y cubital
+T8	SINTOMA 1755 1762	fumador
+T9	SINTOMA 2011 2020	dolorosas
+T10	PROCEDIMIENTO 92 101	anamnesis
+T11	PROCEDIMIENTO 523 538	coronariografía
+T12	PROCEDIMIENTO 569 588	colocación de stent
+T13	PROCEDIMIENTO 608 620	angiográfico
+T14	PROCEDIMIENTO 1041 1055	capilaroscopia
+T15	PROCEDIMIENTO 3474 3491	antibioterapia IV
+T16	PROCEDIMIENTO 3494 3519	tratamiento vasodilatador
+T17	PROCEDIMIENTO 3944 3959	angioTC de MMSS
+T18	PROCEDIMIENTO 3962 3977	ecocardiografía
+T19	NEG 156 159	sin
+T20	NSCO 160 193	alergias medicamentosas conocidas
+T21	NEG 294 296	No
+T22	NSCO 297 325	factores de riesgo conocidos
+T23	NEG 357 360	sin
+T24	NSCO 361 379	informes recogidos
+T25	NEG 629 632	sin
+T26	NSCO 633 647	complicaciones
+T27	NEG 650 653	Sin
+T28	NSCO 654 696	otras intervenciones quirúrgicas conocidas
+T29	NEG 744 747	sin
+T30	NSCO 748 775	realizar ningún tratamiento
+T31	NEG 1057 1065	ausencia
+T32	NEG 1129 1138	imposible
+T33	NSCO 1139 1147	explorar
+T34	UNC 1533 1541	posibles
+T35	USCO 1542 1567	riesgos a tener en cuenta
+T36	NEG 2271 2276	nunca
+T37	NSCO 2277 2300	antes le había ocurrido
+T38	UNC 2395 2406	sospecha de
+T39	USCO 2407 2465	posible enfermedad de Buerger (típica en pacientes varones
+T40	UNC 2696 2710	desapareciendo
+T41	USCO 2711 2752	si el paciente deja de fumar radicalmente
+T42	UNC 2853 2860	pudiera
+T43	USCO 2861 2898	ser secundario al síndrome de Raynaud
+T44	NEG 2955 2957	no
+T45	NSCO 2958 2975	teníamos informes
+T46	NEG 3134 3136	no
+T47	NSCO 3137 3167	pudo evitarse de ninguna forma
+T48	NEG 3605 3608	sin
+T49	NSCO 3609 3637	progresión de zona necrótica
+T50	NEG 3672 3674	no
+T51	NSCO 3675 3718	precisando tratamiento en el momento actual
+T52	NEG 3723 3725	no
+T53	NSCO 3726 3738	complicación
+T54	NEG 4153 4155	no
+T55	NSCO 4156 4196	se tiene diagnóstico de certeza absoluta
+T56	FARMACO 3521 3529	iloprost
+T57	ORG_VIVO 141 146	Varón
+T58	ORG_VIVO 1578 1586	familiar
+T59	ORG_VIVO 1624 1632	paciente
+T60	ORG_VIVO 1684 1692	familiar
+T61	ORG_VIVO 2201 2209	paciente
+T62	ORG_VIVO 2448 2465	pacientes varones
+T63	ORG_VIVO 2717 2725	paciente
+T64	ORG_VIVO 2938 2946	paciente
+T65	ORG_VIVO 3318 3341	compañeros de urgencias
+T66	ORG_VIVO 3569 3577	paciente
+T67	ORG_VIVO 3921 3929	paciente
+T68	ORG_VIVO 3982 3990	paciente
+T69	ORG_VIVO 4141 4147	tabaco
+T70	ENFERMEDAD 19 59	Necrosis primera falange de 2o dedo mano
+T71	ENFERMEDAD 160 183	alergias medicamentosas
+T72	ENFERMEDAD 336 355	síndrome de Raynaud
+T73	ENFERMEDAD 484 490	BCRIHH
+T74	ENFERMEDAD 492 513	Cardiopatía isquémica
+T75	ENFERMEDAD 548 564	estenosis severa
+T76	ENFERMEDAD 810 871	placas necróticas dolorosas en pulpejo del 2o dedo de la mano
+T77	ENFERMEDAD 1955 2009	úlceras vasculares en pulpejos de dedos de ambas manos
+T78	ENFERMEDAD 2415 2436	enfermedad de Buerger
+T79	ENFERMEDAD 2518 2610	tromboangeítis obliterante que afecta a la vascularización de arterias de extremidades acras
+T80	ENFERMEDAD 2879 2898	síndrome de Raynaud
+T81	ENFERMEDAD 3045 3064	síndrome de Raynaud
+T82	ENFERMEDAD 4234 4241	Raynaud
+T83	ENFERMEDAD 4247 4266	síndrome de Buerger
+T84	SANITARIO-PROFESION 3318 3341	compañeros de urgencias
+T85	PACIENTE-SITUACION_LABORAL 1737 1748	desempleado

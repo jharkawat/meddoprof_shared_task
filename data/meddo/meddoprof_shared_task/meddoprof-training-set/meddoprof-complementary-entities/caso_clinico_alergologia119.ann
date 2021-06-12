@@ -1,0 +1,36 @@
+T1	SINTOMA 187 215	picadura de abeja en la mano
+T2	SINTOMA 237 252	edema palpebral
+T3	SINTOMA 274 284	estornudos
+T4	SINTOMA 286 294	rinorrea
+T5	SINTOMA 296 317	inyección conjuntival
+T6	SINTOMA 320 326	disnea
+T7	PROCEDIMIENTO 584 603	analítica sanguínea
+T8	PROCEDIMIENTO 606 622	pruebas cutáneas
+T9	PROCEDIMIENTO 648 657	Hemograma
+T10	NEG 997 1005	negativo
+T11	FARMACO 381 388	Urbason
+T12	ORG_VIVO 26 30	niño
+T13	ORG_VIVO 67 77	familiares
+T14	ORG_VIVO 81 86	padre
+T15	ORG_VIVO 131 145	Apis Mellifera
+T16	ORG_VIVO 199 204	abeja
+T17	ORG_VIVO 487 493	abejas
+T18	ORG_VIVO 499 506	avispas
+T19	ORG_VIVO 730 735	abeja
+T20	ORG_VIVO 737 751	Apis mellifera
+T21	ORG_VIVO 826 832	avispa
+T22	ORG_VIVO 834 846	Vespula spp.
+T23	ORG_VIVO 866 872	avispa
+T24	ORG_VIVO 874 887	Polistes spp.
+T25	ORG_VIVO 907 915	abejorro
+T26	ORG_VIVO 917 928	Vespa cabro
+T27	ORG_VIVO 972 977	abeja
+T28	ORG_VIVO 1154 1159	abeja
+T29	ORG_VIVO 1164 1168	niño
+T30	ORG_VIVO 1196 1203	paterna
+T31	ORG_VIVO 1291 1297	abejas
+T32	ORG_VIVO 1415 1424	población
+T33	ENFERMEDAD 101 145	hipersensibilidad a veneno de Apis Mellifera
+T34	ENFERMEDAD 187 215	picadura de abeja en la mano
+T35	ENFERMEDAD 1095 1114	anafilaxia grado II
+T36	FAMILIAR-PROFESION 87 96	apicultor

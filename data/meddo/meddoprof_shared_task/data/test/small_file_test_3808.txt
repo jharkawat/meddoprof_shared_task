@@ -1,0 +1,6 @@
+
+Signos	O
+de	O
+hipertensión	O
+portal	O
+.	O

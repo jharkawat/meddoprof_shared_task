@@ -1,0 +1,11 @@
+
+Es	O
+la	O
+mayor	O
+de	O
+una	O
+fratría	O
+de	O
+tres	O
+hermanas	O
+.	O

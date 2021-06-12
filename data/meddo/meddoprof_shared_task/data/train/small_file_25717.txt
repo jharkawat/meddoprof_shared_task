@@ -1,0 +1,6 @@
+
+No	O
+refiere	O
+medicación	O
+domiciliaria	O
+.	O

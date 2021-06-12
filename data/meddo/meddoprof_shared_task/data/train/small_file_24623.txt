@@ -1,0 +1,16 @@
+
+al	O
+día	O
+,	O
+con	O
+incremento	O
+por	O
+su	O
+parte	O
+de	O
+las	O
+dosis	O
+de	O
+benzodiacepinas	O
+prescritas	O
+.	O

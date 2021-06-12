@@ -1,0 +1,19 @@
+
+Presentamos	O
+un	O
+caso	O
+de	O
+EM	O
+con	O
+estudio	O
+alergológico	O
+positivo	O
+a	O
+aminopenicilinas	O
+y	O
+confirmación	O
+serológica	O
+de	O
+infección	O
+activa	O
+.	O

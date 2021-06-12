@@ -1,0 +1,6 @@
+
+Ganglios	O
+axilares	O
+bilaterales	O
+inespecíficos	O
+.	O

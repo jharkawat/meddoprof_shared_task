@@ -1,0 +1,20 @@
+
+Leandro	O
+actualmente	O
+está	O
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+porque	O
+la	O
+empresa	B-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+que	I-PROFESION
+trabajaba	I-PROFESION
+hasta	O
+hace	O
+10	O
+meses	O
+ha	O
+cerrado	O
+.	O

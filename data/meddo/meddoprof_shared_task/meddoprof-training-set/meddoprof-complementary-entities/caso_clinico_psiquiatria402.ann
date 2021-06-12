@@ -1,0 +1,63 @@
+T1	SINTOMA 182 190	falleció
+T2	SINTOMA 1241 1251	hipertimia
+T3	SINTOMA 1404 1424	fragilidad emocional
+T4	PROCEDIMIENTO 4361 4364	ECG
+T5	NEG 1826 1834	falta de
+T6	NSCO 1835 1873	eficacia de los tratamientos descritos
+T7	NEG 2383 2385	no
+T8	NSCO 2386 2422	ha requerido ningún ingreso debido a
+T9	NEG 2766 2768	no
+T10	NSCO 2769 2800	se ha modificado en los últimos
+T11	NEG 2854 2856	No
+T12	NEG 2997 2999	no
+T13	NSCO 3000 3013	ha conseguido
+T14	NEG 3832 3835	sin
+T15	NSCO 3836 3841	éxito
+T16	NEG 4064 4066	No
+T17	NSCO 4067 4105	se ha evidenciado un efecto secundario
+T18	NEG 4201 4204	sin
+T19	NSCO 4205 4236	mayor problema para la paciente
+T20	FARMACO 1488 1499	risperidona
+T21	FARMACO 1516 1529	zuclopentixol
+T22	FARMACO 1545 1556	flufenazina
+T23	FARMACO 1570 1575	litio
+T24	FARMACO 1577 1587	paroxetina
+T25	FARMACO 1589 1599	biperideno
+T26	FARMACO 1601 1616	clordiazepóxido
+T27	FARMACO 1619 1628	lorazepam
+T28	FARMACO 2048 2057	clozapina
+T29	FARMACO 3489 3498	clozapina
+T30	FARMACO 3507 3518	aripiprazol
+T31	FARMACO 3544 3554	biperideno
+T32	FARMACO 3643 3652	clozapina
+T33	FARMACO 4326 4335	clozapina
+T34	FARMACO 4644 4653	clozapina
+T35	FARMACO 4662 4673	aripiprazol
+T36	FARMACO 4699 4709	biperideno
+T37	ORG_VIVO 27 32	mujer
+T38	ORG_VIVO 127 132	madre
+T39	ORG_VIVO 161 171	personales
+T40	ORG_VIVO 176 181	padre
+T41	ORG_VIVO 218 226	paciente
+T42	ORG_VIVO 252 259	hermano
+T43	ORG_VIVO 305 313	paciente
+T44	ORG_VIVO 619 629	familiares
+T45	ORG_VIVO 649 652	tía
+T46	ORG_VIVO 660 672	rama materna
+T47	ORG_VIVO 1198 1206	paciente
+T48	ORG_VIVO 1769 1777	paciente
+T49	ORG_VIVO 1970 1978	paciente
+T50	ORG_VIVO 2358 2366	paciente
+T51	ORG_VIVO 2550 2558	familiar
+T52	ORG_VIVO 4000 4009	pacientes
+T53	ORG_VIVO 4228 4236	paciente
+T54	ENFERMEDAD 539 573	adenocarcinoma de colon transverso
+T55	ENFERMEDAD 690 703	esquizofrenia
+T56	ENFERMEDAD 934 957	esquizofrenia paranoide
+T57	ENFERMEDAD 1241 1251	hipertimia
+T58	ENFERMEDAD 2625 2665	ideación delirante de tipo megalomaníaco
+T59	ENFERMEDAD 4017 4040	trastorno mental severo
+T60	ENFERMEDAD 4470 4481	DIAGNÓSTICO
+T61	ENFERMEDAD 4482 4507	Trastorno esquizoafectivo
+T62	ENFERMEDAD 4515 4538	esquizofrenia paranoide
+T63	PACIENTE-SITUACION_LABORAL 756 793	se encontraba realizando el doctorado

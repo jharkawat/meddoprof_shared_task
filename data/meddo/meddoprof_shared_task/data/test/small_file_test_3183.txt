@@ -1,0 +1,12 @@
+
+Adenocarcinoma	O
+estenosante	O
+de	O
+sigma	O
+cT3cN2M1	O
+(	O
+M1	O
+hepáticas	O
+síncronas	O
+)	O
+.	O

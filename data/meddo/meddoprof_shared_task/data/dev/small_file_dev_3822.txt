@@ -1,0 +1,22 @@
+
+Interrumpía	O
+la	O
+clase	O
+imitando	O
+el	O
+ruido	O
+de	O
+los	O
+animales	O
+y	O
+contando	O
+historias	O
+,	O
+lo	O
+que	O
+hacía	O
+reír	O
+a	O
+sus	O
+compañeros	B-SITUACION_LABORAL
+.	O

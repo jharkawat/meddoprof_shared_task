@@ -1,0 +1,10 @@
+
+Síndrome	O
+del	O
+nodo	O
+sinusal	O
+enfermo	O
+(	O
+SNSE	O
+)	O
+.	O

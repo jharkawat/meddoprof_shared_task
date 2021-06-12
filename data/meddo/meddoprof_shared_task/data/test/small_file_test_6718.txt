@@ -1,0 +1,20 @@
+
+Bioquímica	O
+con	O
+bilirrubina	O
+2	O
+,	O
+8	O
+mg	O
+/	O
+dl	O
+,	O
+FA	O
+186	O
+UI	O
+/	O
+l	O
+,	O
+resto	O
+normal	O
+.	O

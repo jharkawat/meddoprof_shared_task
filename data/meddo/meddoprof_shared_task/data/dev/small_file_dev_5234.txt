@@ -1,0 +1,26 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+prednisona	O
+:	O
+60	O
+mg	O
+/	O
+día	O
+,	O
+manteniéndose	O
+durante	O
+2	O
+meses	O
+,	O
+con	O
+disminución	O
+progresiva	O
+en	O
+la	O
+dosis	O
+de	O
+prednisona	O
+.	O

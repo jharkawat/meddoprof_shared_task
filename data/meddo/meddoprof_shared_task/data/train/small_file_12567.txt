@@ -1,0 +1,12 @@
+
+Auscultación	O
+cardiopulmonar	O
+:	O
+rítmico	O
+sin	O
+soplos	O
+,	O
+murmullo	O
+vesicular	O
+conservado	O
+.	O

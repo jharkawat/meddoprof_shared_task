@@ -1,0 +1,25 @@
+
+La	O
+cirugía	O
+se	O
+llevó	O
+a	O
+cabo	O
+por	O
+vía	O
+abdominal	O
+y	O
+abordaje	O
+abierto	O
+,	O
+resecando	O
+la	O
+zona	O
+vesical	O
+afecta	O
+con	O
+suficiente	O
+margen	O
+de	O
+seguridad	O
+.	O

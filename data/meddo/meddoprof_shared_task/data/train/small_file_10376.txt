@@ -1,0 +1,15 @@
+
+La	O
+palpación	O
+de	O
+la	O
+glándula	O
+tiroides	O
+fue	O
+normal	O
+:	O
+no	O
+bocio	O
+ni	O
+nódulos	O
+.	O

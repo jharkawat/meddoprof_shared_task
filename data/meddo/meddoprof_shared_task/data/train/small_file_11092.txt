@@ -1,0 +1,5 @@
+
+Miocardiopatía	O
+hipertensiva	O
+leve	O
+.	O

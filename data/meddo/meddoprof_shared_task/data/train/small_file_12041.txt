@@ -1,0 +1,27 @@
+
+—	O
+En	O
+ambos	O
+rin	O
+̃	O
+ones	O
+se	O
+observaron	O
+necrosis	O
+de	O
+coagulación	O
+parcheada	O
+en	O
+cortical	O
+que	O
+afecta	O
+fundamentalmente	O
+a	O
+túbulos	O
+contorneados	O
+distales	O
+con	O
+descamación	O
+epitelial	O
+intraluminal	O
+.	O

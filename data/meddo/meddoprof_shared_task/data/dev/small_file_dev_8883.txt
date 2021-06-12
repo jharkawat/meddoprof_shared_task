@@ -1,0 +1,11 @@
+
+No	O
+se	O
+aisló	O
+el	O
+bacilo	O
+en	O
+ninguna	O
+otra	O
+muestra	O
+.	O

@@ -1,0 +1,11 @@
+
+0	O
+.	O
+2	O
+g	O
+/	O
+dl	O
+,	O
+alfa2	O
+glob	O
+.	O

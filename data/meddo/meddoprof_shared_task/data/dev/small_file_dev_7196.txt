@@ -1,0 +1,19 @@
+
+Se	O
+solicitó	O
+ecografía	O
+abdominal	O
+,	O
+que	O
+informaba	O
+de	O
+esteatosis	O
+hepática	O
+y	O
+esplenomegalia	O
+moderada	O
+,	O
+sin	O
+otras	O
+lesiones	O
+.	O

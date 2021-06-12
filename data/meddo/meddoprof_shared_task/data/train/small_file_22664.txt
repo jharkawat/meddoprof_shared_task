@@ -1,0 +1,26 @@
+
+Ha	O
+trabajado	O
+temporalmente	O
+como	O
+óptico	B-PROFESION
+en	O
+diversos	O
+puntos	O
+de	O
+la	O
+geografía	O
+española	O
+,	O
+y	O
+hace	O
+un	O
+año	O
+contrajo	O
+matrimonio	O
+tras	O
+siete	O
+años	O
+de	O
+relación	O
+.	O

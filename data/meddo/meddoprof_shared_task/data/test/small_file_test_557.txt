@@ -1,0 +1,14 @@
+
+Entrevista	O
+inicial	O
+durante	O
+la	O
+cual	O
+se	O
+realiza	O
+una	O
+evaluación	O
+por	O
+parte	O
+delafoniatra	B-PROFESION
+.	O

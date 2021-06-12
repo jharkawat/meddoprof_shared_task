@@ -1,0 +1,9 @@
+
+CENTRO	O
+SANITARIO	O
+:	O
+Hospital	O
+Universitario	O
+Príncipe	O
+de	O
+Asturias	O

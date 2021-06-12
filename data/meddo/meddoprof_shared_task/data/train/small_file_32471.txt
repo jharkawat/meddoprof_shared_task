@@ -1,0 +1,12 @@
+
+Se	O
+solicitaron	O
+pruebas	O
+complementarias	O
+de	O
+rutina	O
+con	O
+los	O
+siguientes	O
+resultados	O
+.	O

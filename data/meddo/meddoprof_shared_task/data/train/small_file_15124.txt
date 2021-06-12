@@ -1,0 +1,25 @@
+
+En	O
+tomografía	O
+computarizada	O
+realizada	O
+se	O
+observa	O
+,	O
+a	O
+nivel	O
+torácico	O
+,	O
+afectación	O
+neoplásica	O
+ganglionar	O
+axilar	O
+,	O
+subclavia	O
+,	O
+hiliar	O
+,	O
+subcarinal	O
+y	O
+periaórtica	O
+.	O

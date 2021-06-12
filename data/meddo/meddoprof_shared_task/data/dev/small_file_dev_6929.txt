@@ -1,0 +1,20 @@
+
+Se	O
+mantiene	O
+antibioterapia	O
+instaurada	O
+hasta	O
+el	O
+día	O
+7	O
+cuando	O
+aparece	O
+nuevo	O
+pico	O
+febril	O
+acompañándose	O
+de	O
+deterioro	O
+clínico	O
+franco	O
+.	O

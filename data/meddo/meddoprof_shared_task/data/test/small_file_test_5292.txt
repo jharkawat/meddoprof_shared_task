@@ -1,0 +1,25 @@
+
+En	O
+diciembre	O
+de	O
+2014	O
+presenta	O
+progresión	O
+de	O
+enfermedad	O
+,	O
+con	O
+crecimiento	O
+de	O
+la	O
+masa	O
+pulmonar	O
+en	O
+el	O
+lóbulo	O
+pulmonar	O
+inferior	O
+izquierdoydevarios	O
+nódulospulmonaressubpleurales	O
+basalesizquierdos	O
+.	O

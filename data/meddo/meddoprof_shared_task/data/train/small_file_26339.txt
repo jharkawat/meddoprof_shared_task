@@ -1,0 +1,22 @@
+
+Tanto	O
+ella	O
+como	O
+sus	O
+padres	O
+explicaban	O
+que	O
+presentaba	O
+dificultades	O
+para	O
+interrelacionarse	O
+con	O
+pares	O
+,	O
+siendo	O
+su	O
+grupo	O
+de	O
+amigos	O
+nulo	O
+.	O

@@ -1,0 +1,16 @@
+
+En	O
+el	O
+resto	O
+de	O
+pruebas	O
+complementarias	O
+no	O
+se	O
+identificaron	O
+alteraciones	O
+hormonales	O
+o	O
+metabólicas	O
+reseñables	O
+.	O

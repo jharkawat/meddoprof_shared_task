@@ -1,0 +1,24 @@
+
+También	O
+se	O
+realiza	O
+un	O
+Octreoscan	O
+que	O
+objetiva	O
+una	O
+lesión	O
+pulmón	O
+derecha	O
+que	O
+expresa	O
+receptores	O
+de	O
+somatostatina	O
+,	O
+descartando	O
+otras	O
+lesiones	O
+a	O
+distancia	O
+.	O

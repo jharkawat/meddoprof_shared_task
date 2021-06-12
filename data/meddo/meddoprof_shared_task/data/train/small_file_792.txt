@@ -1,0 +1,18 @@
+
+Las	O
+células	O
+del	O
+tumor	O
+son	O
+negativas	O
+para	O
+marcadores	O
+epiteliales	O
+CD56	O
+,	O
+CD57	O
+,	O
+CD50	O
+y	O
+CD15	O
+.	O

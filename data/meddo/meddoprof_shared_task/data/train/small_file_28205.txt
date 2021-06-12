@@ -1,0 +1,10 @@
+
+IgG	O
+e	O
+IgA	O
+Anti	O
+-	O
+Gliadina	O
+:	O
+Negativos	O
+.	O

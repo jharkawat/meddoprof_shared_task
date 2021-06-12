@@ -1,0 +1,23 @@
+
+Al	O
+fallecer	O
+su	O
+padre	O
+,	O
+durante	O
+unos	O
+meses	O
+estuvo	O
+retraída	O
+,	O
+irritable	O
+,	O
+con	O
+bajo	O
+rendimiento	O
+escolar	O
+y	O
+sin	O
+poder	O
+llorar	O
+.	O

@@ -1,0 +1,76 @@
+T1	SINTOMA 77 90	dolor en MMII
+T2	SINTOMA 479 484	dolor
+T3	SINTOMA 578 583	dolor
+T4	SINTOMA 635 663	eritema del miembro inferior
+T5	SINTOMA 685 716	aumento de la temperatura local
+T6	SINTOMA 937 949	leucocitosis
+T7	SINTOMA 2394 2422	eritema del miembro inferior
+T8	SINTOMA 2444 2475	aumento de la temperatura local
+T9	SINTOMA 2582 2594	leucocitosis
+T10	SINTOMA 4089 4104	visceromegalias
+T11	PROCEDIMIENTO 143 155	fisioterapia
+T12	PROCEDIMIENTO 397 409	fisioterapia
+T13	PROCEDIMIENTO 510 522	fisioterapia
+T14	PROCEDIMIENTO 525 535	frio local
+T15	PROCEDIMIENTO 1027 1036	hemograma
+T16	PROCEDIMIENTO 1223 1268	serología positiva para Virus de Epstein-Barr
+T17	PROCEDIMIENTO 1296 1321	EcoDoppler MMII Izquierdo
+T18	PROCEDIMIENTO 4001 4009	TAC-Body
+T19	UNC 244 251	posible
+T20	USCO 252 271	sobrecarga muscular
+T21	NEG 1643 1645	no
+T22	NSCO 1646 1663	células blasticas
+T23	NEG 1850 1852	No
+T24	NSCO 1853 1923	presenta enfermedades importantes actualmente en su lista de problemas
+T25	NEG 2555 2567	asintomático
+T26	UNC 2639 2646	posible
+T27	USCO 2647 2672	trombosis venosa profunda
+T28	UNC 2885 2892	valorar
+T29	USCO 2893 2949	la historia clínica junto a la sintomatología presentada
+T30	UNC 2970 2977	posible
+T31	USCO 2978 3005	TVP instaurando tratamiento
+T32	NEG 3943 3945	no
+T33	NSCO 3946 3977	presenta actualmente síntomas B
+T34	NEG 4034 4036	no
+T35	NSCO 4037 4120	se hallaron alteraciones patológicas a destacar, ni visceromegalias, ni adenopatías
+T36	NEG 4234 4236	no
+T37	NSCO 4237 4259	precisa de tratamiento
+T38	FARMACO 3381 3412	heparina de bajo peso molecular
+T39	FARMACO 3415 3423	diosmina
+T40	FARMACO 3438 3449	hesperidina
+T41	ORG_VIVO 46 52	hombre
+T42	ORG_VIVO 303 311	Paciente
+T43	ORG_VIVO 890 898	paciente
+T44	ORG_VIVO 1247 1268	Virus de Epstein-Barr
+T45	ORG_VIVO 1742 1750	familiar
+T46	ORG_VIVO 1765 1773	Paciente
+T47	ORG_VIVO 1815 1848	gerente de una empresa de jamones
+T48	ORG_VIVO 2068 2074	médico
+T49	ORG_VIVO 2075 2083	paciente
+T50	ORG_VIVO 2132 2140	paciente
+T51	ORG_VIVO 3127 3135	paciente
+T52	ORG_VIVO 3838 3846	paciente
+T53	ORG_VIVO 3934 3942	paciente
+T54	ENFERMEDAD 937 949	leucocitosis
+T55	ENFERMEDAD 1336 1390	Trombosis poplítea parcialmente recanalizada y surales
+T56	ENFERMEDAD 1489 1507	TVP poplíteo sural
+T57	ENFERMEDAD 1665 1726	Síndrome linfoproliferativo B Tipo Leucemia Linfática Crónica
+T58	ENFERMEDAD 1728 1731	LLC
+T59	ENFERMEDAD 2033 2053	patología trombótica
+T60	ENFERMEDAD 2647 2672	trombosis venosa profunda
+T61	ENFERMEDAD 2778 2803	Trombosis venosa profunda
+T62	ENFERMEDAD 2807 2848	Celulitis VS patología musculoesquelética
+T63	ENFERMEDAD 2978 2981	TVP
+T64	ENFERMEDAD 3248 3252	SAOS
+T65	ENFERMEDAD 3264 3273	cataratas
+T66	ENFERMEDAD 3291 3312	polineuropatía distal
+T67	ENFERMEDAD 3351 3376	trombosis venosa profunda
+T68	ENFERMEDAD 3715 3740	trombosis venosa profunda
+T69	ENFERMEDAD 4089 4104	visceromegalias
+T70	ENFERMEDAD 4109 4120	adenopatías
+T71	ENFERMEDAD 4163 4165	Sd
+T72	ENFERMEDAD 4167 4196	Linfoproliferativo B Tipo LLC
+T73	PACIENTE-SITUACION_LABORAL 1774 1793	activo laboralmente
+T74	PACIENTE-SITUACION_LABORAL 1799 1807	autónomo
+T75	SANITARIO-PROFESION 2068 2074	médico
+T76	PACIENTE-PROFESION 1815 1848	gerente de una empresa de jamones

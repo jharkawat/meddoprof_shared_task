@@ -1,0 +1,14 @@
+
+Hijo	O
+único	O
+,	O
+nacido	O
+de	O
+parto	O
+distócico	O
+(	O
+posible	O
+hipoxia	O
+perinatal	O
+)	O
+.	O

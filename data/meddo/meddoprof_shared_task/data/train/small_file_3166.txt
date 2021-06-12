@@ -1,0 +1,26 @@
+
+Refería	O
+estar	O
+felizmente	O
+casado	O
+y	O
+tenía	O
+3	O
+hijas	O
+:	O
+las	O
+dos	O
+mayores	O
+de	O
+20	O
+años	O
+eran	O
+gemelas	O
+y	O
+luego	O
+tenía	O
+otra	O
+de	O
+14	O
+años	O
+.	O

@@ -1,0 +1,13 @@
+
+Balance	O
+articular	O
+de	O
+columna	O
+cervical	O
+limitado	O
+en	O
+últimos	O
+grados	O
+por	O
+dolor	O
+.	O

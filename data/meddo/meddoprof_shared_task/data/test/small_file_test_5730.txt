@@ -1,0 +1,25 @@
+
+En	O
+el	O
+rastreo	O
+previo	O
+a	O
+las	O
+dosis	O
+2	O
+y	O
+3	O
+se	O
+observaba	O
+una	O
+gran	O
+disminución	O
+de	O
+la	O
+captación	O
+de	O
+las	O
+lesiones	O
+metastásicas	O
+hepáticas	O
+.	O

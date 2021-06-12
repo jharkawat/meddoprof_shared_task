@@ -1,0 +1,7 @@
+
+Buena	O
+vinculación	O
+con	O
+ambos	O
+progenitores	O
+.	O

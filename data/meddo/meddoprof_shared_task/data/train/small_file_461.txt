@@ -1,0 +1,23 @@
+
+La	O
+biopsia	O
+de	O
+la	O
+pieza	O
+operatoria	O
+fue	O
+informada	O
+como	O
+adenoma	O
+velloso	O
+de	O
+la	O
+mucosa	O
+rectal	O
+con	O
+microfocos	O
+de	O
+adenocarcinoma	O
+in	O
+situ	O
+.	O

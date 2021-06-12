@@ -1,0 +1,8 @@
+
+Se	O
+toman	O
+biopsias	O
+para	O
+estudio	O
+histológico	O
+.	O

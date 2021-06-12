@@ -1,0 +1,13 @@
+
+La	O
+sospecha	O
+clínica	O
+inicial	O
+que	O
+se	O
+plantea	O
+es	O
+la	O
+gastroparesia	O
+diabética	O
+.	O

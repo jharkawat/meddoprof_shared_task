@@ -1,0 +1,10 @@
+
+-	O
+Sigue	O
+dieta	O
+baja	O
+en	O
+sodio	O
+y	O
+potasio	O
+.	O

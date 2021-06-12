@@ -1,0 +1,23 @@
+
+Se	O
+administra	O
+tratamiento	O
+sintomático	O
+sin	O
+mejoría	O
+,	O
+presentando	O
+un	O
+cuadro	O
+confusional	O
+con	O
+agitación	O
+psicomotriz	O
+y	O
+disminución	O
+progresiva	O
+del	O
+nivel	O
+de	O
+conciencia	O
+.	O

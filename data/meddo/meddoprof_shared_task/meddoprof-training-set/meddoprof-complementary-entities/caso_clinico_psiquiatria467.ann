@@ -1,0 +1,158 @@
+T1	SINTOMA 600 607	fumador
+T2	SINTOMA 3059 3092	falta de coordinación psicomotriz
+T3	SINTOMA 6616 6639	sintomatología negativa
+T4	SINTOMA 6641 6647	apatía
+T5	SINTOMA 6649 6655	abulia
+T6	SINTOMA 6657 6678	aplanamiento afectivo
+T7	SINTOMA 6680 6722	empobrecimiento del contacto interpersonal
+T8	SINTOMA 6737 6766	déficit mnésicos y ejecutivos
+T9	SINTOMA 7316 7325	orientado
+T10	SINTOMA 7791 7802	soliloquios
+T11	SINTOMA 9056 9067	neutrofilia
+T12	PROCEDIMIENTO 289 310	rehabilitación física
+T13	PROCEDIMIENTO 5733 5754	rehabilitación física
+T14	PROCEDIMIENTO 8088 8129	TAC craneofacial y toraco-abdominopélvico
+T15	NEG 487 490	sin
+T16	NSCO 491 536	reacciones alérgicas a medicamentos conocidas
+T17	NEG 973 976	sin
+T18	NSCO 977 981	paso
+T19	NEG 2229 2231	no
+T20	NSCO 2232 2239	recibió
+T21	UNC 2928 2941	aparentemente
+T22	USCO 2942 2966	coherente en su discurso
+T23	NEG 3059 3067	falta de
+T24	NSCO 3068 3092	coordinación psicomotriz
+T25	UNC 3134 3142	aparente
+T26	USCO 3143 3166	coherencia del discurso
+T27	UNC 3438 3451	Aparentemente
+T28	NEG 4536 4538	no
+T29	NSCO 4539 4571	consiguió en su anterior intento
+T30	NEG 5022 5034	imposibilita
+T31	NSCO 5035 5062	la adquisición de autonomía
+T32	NEG 5420 5422	no
+T33	NSCO 5423 5451	hubo intencionalidad suicida
+T34	UNC 6077 6082	clara
+T35	USCO 6083 6173	estructuración de la idea autolítica y sería pues una conducta suicida de origen psicótico
+T36	UNC 6479 6489	explicaría
+T37	USCO 6490 6544	la dificultad previa para detectar esta sintomatología
+T38	NSCO 6600 6630	la presencia de sintomatología
+T39	NEG 6631 6639	negativa
+T40	NEG 6813 6815	No
+T41	NSCO 6816 6867	verbaliza la ideación delirante de forma espontánea
+T42	NEG 6905 6910	niega
+T43	NSCO 6911 6934	parcamente su presencia
+T44	NEG 6968 6970	no
+T45	NSCO 6971 6996	desea "remover el pasado"
+T46	NEG 7049 7051	No
+T47	NSCO 7052 7092	tiene interés en las relaciones sociales
+T48	NEG 7517 7522	Niega
+T49	NSCO 7523 7575	las ideas delirantes de perjuicio o autorreferencias
+T50	NEG 7627 7632	niega
+T51	NEG 7779 7781	No
+T52	NSCO 7782 7849	presenta soliloquios ni su actitud es sugestiva de escucha de voces
+T53	NEG 7851 7856	Niega
+T54	NSCO 7857 7891	ideas autolíticas en la actualidad
+T55	UNC 8003 8013	Impresiona
+T56	USCO 8014 8061	el deterioro cognitivo asociado a su enfermedad
+T57	NEG 8502 8504	no
+T58	NSCO 8505 8586	se visualizan trazos de fractura ni alteraciones en las partes blandas adyacentes
+T59	NEG 8617 8619	No
+T60	NSCO 8620 8663	se visualizan neumotórax ni derrame pleural
+T61	NEG 8711 8714	sin
+T62	NSCO 8715 8727	alteraciones
+T63	NEG 8798 8800	No
+T64	NSCO 8801 8842	se visualiza líquido libre intraabdominal
+T65	NEG 8896 8898	no
+T66	NSCO 8899 8931	se visualizan trazos de fractura
+T67	NEG 9311 9326	han evidenciado
+T68	NSCO 9327 9354	alteraciones significativas
+T69	NEG 9567 9569	no
+T70	NSCO 9570 9607	precisa de tratamiento por el momento
+T71	NEG 9668 9676	negativo
+T72	UNC 10138 10144	parece
+T73	USCO 10145 10211	apuntarse es de trastorno esquizoafectivo con dos fases depresivas
+T74	UNC 10246 10259	aparentemente
+T75	USCO 10260 10274	ininterrumpido
+T76	NEG 10276 10279	sin
+T77	NSCO 10280 10319	alteración evidente del estado de ánimo
+T78	NEG 10967 10982	han evidenciado
+T79	NSCO 10983 11010	alteraciones significativas
+T80	FARMACO 9164 9173	clozapina
+T81	FARMACO 9408 9417	clozapina
+T82	FARMACO 10597 10606	clozapina
+T83	FARMACO 10637 10649	escitalopram
+T84	FARMACO 10689 10714	palmitato de paliperidona
+T85	FARMACO 10868 10877	clozapina
+T86	FARMACO 11064 11073	clozapina
+T87	FARMACO 11090 11099	clozapina
+T88	FARMACO 11196 11205	clozapina
+T89	FARMACO 11264 11273	clozapina
+T90	FARMACO 11290 11302	escitalopram
+T91	FARMACO 11319 11328	palmitato
+T92	FARMACO 11332 11344	paliperidona
+T93	ORG_VIVO 0 5	Varón
+T94	ORG_VIVO 665 673	cannabis
+T95	ORG_VIVO 1590 1595	madre
+T96	ORG_VIVO 1602 1608	tutora
+T97	ORG_VIVO 1624 1634	familiares
+T98	ORG_VIVO 1639 1644	padre
+T99	ORG_VIVO 1647 1658	tía paterna
+T100	ORG_VIVO 1863 1871	paciente
+T101	ORG_VIVO 2195 2202	familia
+T102	ORG_VIVO 2220 2228	paciente
+T103	ORG_VIVO 2797 2805	paciente
+T104	ORG_VIVO 2834 2847	especialistas
+T105	ORG_VIVO 3044 3052	cannabis
+T106	ORG_VIVO 3120 3128	paciente
+T107	ORG_VIVO 3773 3781	paciente
+T108	ORG_VIVO 3942 3950	paciente
+T109	ORG_VIVO 4380 4388	paciente
+T110	ORG_VIVO 4609 4617	paciente
+T111	ORG_VIVO 5521 5529	paciente
+T112	ORG_VIVO 6014 6022	paciente
+T113	ORG_VIVO 6251 6259	paciente
+T114	ORG_VIVO 6360 6368	paciente
+T115	ORG_VIVO 7151 7158	familia
+T116	ORG_VIVO 7266 7274	familiar
+T117	ORG_VIVO 10365 10373	paciente
+T118	ORG_VIVO 10654 10662	paciente
+T119	ENFERMEDAD 197 210	esquizofrenia
+T120	ENFERMEDAD 538 563	Hipotiroidismo subclínico
+T121	ENFERMEDAD 654 673	consumo de cannabis
+T122	ENFERMEDAD 750 759	Múltiples
+T123	ENFERMEDAD 760 769	fracturas
+T124	ENFERMEDAD 1092 1146	Fractura cerrada de pelvis con afectación de ala sacra
+T125	ENFERMEDAD 1222 1255	Fractura subtrocantérea de cadera
+T126	ENFERMEDAD 1267 1313	Fractura conminuta de extremo distal del radio
+T127	ENFERMEDAD 1358 1385	fractura de cúbito proximal
+T128	ENFERMEDAD 1397 1427	Fractura bimaleolar de tobillo
+T129	ENFERMEDAD 1437 1454	fractura calcáneo
+T130	ENFERMEDAD 1466 1497	fractura luxación del astrágalo
+T131	ENFERMEDAD 1507 1552	Fracturas conminutas de calcáneo y escafoides
+T132	ENFERMEDAD 1667 1687	síndrome de Asperger
+T133	ENFERMEDAD 2503 2520	psicosis reactiva
+T134	ENFERMEDAD 2593 2606	esquizofrenia
+T135	ENFERMEDAD 2609 2626	ENFERMEDAD ACTUAL
+T136	ENFERMEDAD 2905 2913	suicidio
+T137	ENFERMEDAD 4920 4939	deterioro cognitivo
+T138	ENFERMEDAD 4994 5013	trastorno psicótico
+T139	ENFERMEDAD 5177 5201	sintomatología psicótica
+T140	ENFERMEDAD 5767 5783	patología mental
+T141	ENFERMEDAD 6137 6173	conducta suicida de origen psicótico
+T142	ENFERMEDAD 6787 6810	enfermedad psiquiátrica
+T143	ENFERMEDAD 7985 8001	politraumatismos
+T144	ENFERMEDAD 8017 8036	deterioro cognitivo
+T145	ENFERMEDAD 8159 8212	Fracturas de techo, suelo y cara lateral de la órbita
+T146	ENFERMEDAD 8222 8265	Fractura hundimiento del techo de la órbita
+T147	ENFERMEDAD 8320 8354	Fractura de huesos propios nasales
+T148	ENFERMEDAD 8634 8644	neumotórax
+T149	ENFERMEDAD 8648 8663	derrame pleural
+T150	ENFERMEDAD 8843 8860	Fractura de fémur
+T151	ENFERMEDAD 9056 9067	neutrofilia
+T152	ENFERMEDAD 9990 10010	episodios depresivos
+T153	ENFERMEDAD 10161 10186	trastorno esquizoafectivo
+T154	ENFERMEDAD 10402 10415	esquizofrenia
+T155	SANITARIO-PROFESION 2834 2847	especialistas
+T156	FAMILIAR-ACTIVIDAD 1602 1608	tutora
+T157	PACIENTE-SITUACION_LABORAL 1562 1585	Incapacitado legalmente
+T158	PACIENTE-SITUACION_LABORAL 5924 5942	retomar un trabajo

@@ -1,0 +1,25 @@
+
+Posteriormente	O
+,	O
+presentó	O
+deterioro	O
+clínico	O
+,	O
+empeoramiento	O
+del	O
+estado	O
+general	O
+y	O
+mayor	O
+postración	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+decide	O
+iniciar	O
+tratamiento	O
+de	O
+soporte	O
+.	O

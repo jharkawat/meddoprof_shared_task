@@ -1,0 +1,6 @@
+
+MVC	O
+sin	O
+ruidos	O
+añadidos	O
+.	O

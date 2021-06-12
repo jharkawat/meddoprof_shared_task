@@ -1,0 +1,20 @@
+
+Anamnesis	O
+:	O
+Mujer	O
+de	O
+31	O
+años	O
+de	O
+origen	O
+árabe	O
+que	O
+acude	O
+a	O
+la	O
+consulta	O
+por	O
+encontrarse	O
+muy	O
+angustiada	O
+.	O

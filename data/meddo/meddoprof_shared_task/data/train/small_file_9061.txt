@@ -1,0 +1,18 @@
+
+Abdomen	O
+:	O
+blando	O
+,	O
+no	O
+doloroso	O
+,	O
+peristalsis	O
+conservada	O
+,	O
+no	O
+se	O
+palpan	O
+masas	O
+ni	O
+megalias	O
+.	O

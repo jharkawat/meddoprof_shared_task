@@ -1,0 +1,23 @@
+
+Estable	O
+psicopatológicamente	O
+y	O
+motivada	O
+a	O
+nivel	O
+ocupacional	O
+,	O
+continúa	O
+acudiendo	O
+a	O
+talleres	O
+y	O
+al	O
+Hospital	O
+de	O
+Día	O
+donde	O
+se	O
+muestra	O
+participativa	O
+.	O

@@ -1,0 +1,24 @@
+
+La	O
+lesión	O
+invade	O
+el	O
+mediastino	O
+,	O
+desplaza	O
+la	O
+tráquea	O
+y	O
+contacta	O
+con	O
+el	O
+cayado	O
+aórtico	O
+y	O
+1o	O
+-	O
+3o	O
+arcos	O
+costales	O
+izquierdos	O
+.	O

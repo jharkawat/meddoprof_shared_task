@@ -1,0 +1,5 @@
+
+Engrosamiento	O
+íleon	O
+terminal	O
+.	O

@@ -1,0 +1,26 @@
+
+A	O
+esta	O
+sintomatología	O
+añadía	O
+pérdida	O
+de	O
+peso	O
+de	O
+unos	O
+10	O
+kg	O
+(	O
+en	O
+7	O
+meses	O
+)	O
+,	O
+sin	O
+diaforesis	O
+nocturna	O
+,	O
+fiebre	O
+ni	O
+prurito	O
+.	O

@@ -1,0 +1,20 @@
+
+Abdomen	O
+:	O
+blando	O
+,	O
+depresible	O
+,	O
+doloroso	O
+a	O
+la	O
+palpación	O
+profunda	O
+en	O
+hipogastrio	O
+,	O
+no	O
+masas	O
+ni	O
+megalias	O
+.	O

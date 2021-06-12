@@ -1,0 +1,9 @@
+
+ACP	O
+con	O
+mínimos	O
+crepitantes	O
+en	O
+campos	O
+derechos	O
+.	O

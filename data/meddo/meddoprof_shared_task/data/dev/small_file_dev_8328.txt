@@ -1,0 +1,25 @@
+
+Es	O
+característica	O
+la	O
+presencia	O
+de	O
+anticuerpos	O
+anti	O
+-	O
+toxoplasma	O
+y	O
+de	O
+lesiones	O
+ocupantes	O
+de	O
+espacio	O
+con	O
+edema	O
+perilesional	O
+en	O
+las	O
+pruebas	O
+de	O
+imagen	O
+.	O

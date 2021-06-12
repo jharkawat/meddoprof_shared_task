@@ -1,0 +1,11 @@
+
+GRAM	O
+y	O
+Ziehl	O
+Nielsen	O
+del	O
+lavado	O
+broncoalveolar	O
+son	O
+negativos	O
+.	O

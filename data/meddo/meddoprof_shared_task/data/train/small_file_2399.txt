@@ -1,0 +1,6 @@
+
+Prick	O
+negativos	O
+excepto	O
+avellana	O
+.	O

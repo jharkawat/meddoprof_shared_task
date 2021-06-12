@@ -1,0 +1,15 @@
+
+Intervenido	O
+quirúrgicamente	O
+de	O
+úlcera	O
+gástrica	O
+en	O
+la	O
+adolescencia	O
+,	O
+rinoplastia	O
+y	O
+meniscectomía	O
+bilateral	O
+.	O

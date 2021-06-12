@@ -1,0 +1,6 @@
+
+y	O
+el	O
+Mycobacterium	O
+tuberculosis	O
+.	O

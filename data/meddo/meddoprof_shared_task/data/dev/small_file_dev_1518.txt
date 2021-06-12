@@ -1,0 +1,9 @@
+
+Aorta	O
+y	O
+vena	O
+cava	O
+de	O
+calibre	O
+conservado	O
+.	O

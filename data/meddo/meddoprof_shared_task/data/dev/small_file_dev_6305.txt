@@ -1,0 +1,10 @@
+
+Fiebre	O
+sin	O
+foco	O
+,	O
+trombopenia	O
+,	O
+mordedura	O
+de	O
+perro	O

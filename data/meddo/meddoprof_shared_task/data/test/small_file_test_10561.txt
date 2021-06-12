@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+fue	O
+diagnosticada	O
+de	O
+osteomielitis	O
+vertebral	O
+D9	O
+-	O
+D10	O
+por	O
+Staphylococcus	O
+epidermidis	O
+.	O

@@ -1,0 +1,18 @@
+
+Era	O
+un	O
+varón	O
+afroamericano	O
+con	O
+sobrepeso	O
+,	O
+desaliñado	O
+y	O
+maloliente	O
+,	O
+aunque	O
+no	O
+olía	O
+a	O
+alcohol	O
+.	O

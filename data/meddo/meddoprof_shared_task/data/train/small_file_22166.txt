@@ -1,0 +1,25 @@
+
+Acudía	O
+a	O
+un	O
+psiquiatra	B-PROFESION
+,	O
+una	O
+psicóloga	B-PROFESION
+y	O
+además	O
+iba	O
+a	O
+los	O
+grupos	O
+de	O
+Jugadores	O
+Anónimos	O
+pero	O
+decía	O
+que	O
+no	O
+le	O
+daba	O
+resultado	O
+.	O

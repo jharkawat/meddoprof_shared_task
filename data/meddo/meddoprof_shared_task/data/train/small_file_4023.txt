@@ -1,0 +1,15 @@
+
+Con	O
+su	O
+trabajo	O
+admite	O
+sentirse	O
+realizada	O
+y	O
+le	O
+encanta	O
+ayudar	O
+a	O
+los	O
+demás	O
+.	O

@@ -1,0 +1,6 @@
+
+Sin	O
+ingresos	O
+hospitalarios	O
+previos	O
+.	O

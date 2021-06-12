@@ -1,0 +1,24 @@
+
+Anteriormente	O
+se	O
+había	O
+modificado	O
+la	O
+pauta	O
+antidepresiva	O
+,	O
+sustituyendo	O
+clomipramina	O
+por	O
+duloxetina	O
+60	O
+mg	O
+/	O
+día	O
+y	O
+agomelatina	O
+50	O
+mg	O
+/	O
+día	O
+.	O

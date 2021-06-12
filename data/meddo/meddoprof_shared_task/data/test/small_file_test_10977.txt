@@ -1,0 +1,13 @@
+
+La	O
+articulación	O
+sigue	O
+siendo	O
+relajada	O
+e	O
+imprecisa	O
+aunque	O
+mejora	O
+en	O
+repetición	O
+.	O

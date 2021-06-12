@@ -1,0 +1,8 @@
+
+TAC	O
+cerebro	O
+sin	O
+hallazgos	O
+patológicos	O
+relevantes	O
+.	O

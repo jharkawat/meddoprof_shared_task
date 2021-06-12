@@ -1,0 +1,20 @@
+
+Razón	O
+por	O
+la	O
+cual	O
+decidió	O
+consultar	O
+,	O
+en	O
+las	O
+horas	O
+de	O
+la	O
+tarde	O
+en	O
+el	O
+hospital	O
+infantil	O
+universitario	O
+.	O

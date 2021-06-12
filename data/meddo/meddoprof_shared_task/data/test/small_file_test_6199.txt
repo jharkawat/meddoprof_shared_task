@@ -1,0 +1,21 @@
+
+Anatomía	O
+patológica	O
+muestra	O
+adenocarcinoma	O
+de	O
+sigma	O
+ypT3	O
+N1b	O
+M1	O
+V1	O
+L0	O
+R0	O
+y	O
+persistencia	O
+tumoral	O
+hepática	O
+<	O
+10	O
+%	O
+.	O

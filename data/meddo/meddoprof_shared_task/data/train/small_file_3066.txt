@@ -1,0 +1,10 @@
+
+Mujer	O
+de	O
+74	O
+años	O
+,	O
+no	O
+alergias	O
+medicamentosas	O
+.	O

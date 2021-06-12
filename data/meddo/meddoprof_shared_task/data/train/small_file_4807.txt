@@ -1,0 +1,27 @@
+
+Su	O
+único	O
+deseo	O
+es	O
+que	O
+su	O
+hermano	O
+no	O
+sufra	O
+y	O
+,	O
+si	O
+es	O
+posible	O
+,	O
+fallezca	O
+acompañado	O
+de	O
+sus	O
+seres	O
+queridos	O
+en	O
+su	O
+domicilio	O
+habitual	O
+.	O

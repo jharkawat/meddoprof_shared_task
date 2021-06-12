@@ -1,0 +1,24 @@
+
+En	O
+ese	O
+momento	O
+,	O
+las	O
+dosis	O
+totales	O
+acumuladas	O
+de	O
+raltitrexed	O
+y	O
+oxaliplatino	O
+son	O
+de	O
+26	O
+mg	O
+y	O
+1	O
+.	O
+040	O
+mg	O
+respectivamente	O
+.	O

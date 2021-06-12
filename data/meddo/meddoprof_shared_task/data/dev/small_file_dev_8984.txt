@@ -1,0 +1,12 @@
+
+Se	O
+obtuvieron	O
+múltiples	O
+hemocultivos	O
+durante	O
+el	O
+ingreso	O
+siendo	O
+todos	O
+negativos	O
+.	O

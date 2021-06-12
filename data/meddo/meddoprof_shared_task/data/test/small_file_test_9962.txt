@@ -1,0 +1,26 @@
+
+Ante	O
+esta	O
+situación	O
+clínica	O
+,	O
+se	O
+decidió	O
+comenzar	O
+una	O
+segunda	O
+línea	O
+de	O
+tratamiento	O
+con	O
+adriamicina	O
+y	O
+ciclofosfamida	O
+durante	O
+6	O
+ciclos	O
+,	O
+consiguiendo	O
+estabilización	O
+nuevamente	O
+.	O

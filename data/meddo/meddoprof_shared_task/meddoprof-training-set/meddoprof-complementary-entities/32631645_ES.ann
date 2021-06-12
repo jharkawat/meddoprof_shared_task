@@ -1,0 +1,80 @@
+T1	SINTOMA 1387 1392	dolor
+T2	SINTOMA 1939 1948	febrícula
+T3	SINTOMA 2450 2462	asintomática
+T4	SINTOMA 2464 2471	afebril
+T5	PROCEDIMIENTO 827 842	colecistectomía
+T6	PROCEDIMIENTO 845 859	apendicectomía
+T7	PROCEDIMIENTO 1529 1546	PCR de SARS-CoV-2
+T8	PROCEDIMIENTO 1646 1649	PCR
+T9	PROCEDIMIENTO 1742 1769	PCR en exudado nasofaríngeo
+T10	PROCEDIMIENTO 2095 2119	aislamiento domiciliario
+T11	PROCEDIMIENTO 2188 2204	inmunosupresores
+T12	NSCO 1476 1505	clínica sugestiva de COVID-19
+T13	NEG 1656 1664	negativa
+T14	NEG 2005 2008	sin
+T15	NSCO 2009 2069	otra clínica acompañante sugestiva de infección respiratoria
+T16	NEG 2131 2140	suspender
+T17	NSCO 2141 2171	el tratamiento con metotrexato
+T18	NEG 2450 2462	asintomática
+T19	NEG 2464 2471	afebril
+T20	NEG 2474 2477	sin
+T21	NSCO 2478 2507	cambios en su situación basal
+T22	FARMACO 888 900	linagliptina
+T23	FARMACO 914 923	trazodona
+T24	FARMACO 939 951	levotiroxina
+T25	FARMACO 967 977	furosemida
+T26	FARMACO 994 1011	insulina glargina
+T27	FARMACO 1025 1035	alopurinol
+T28	FARMACO 1051 1062	metotrexato
+T29	FARMACO 1102 1114	ácido fólico
+T30	FARMACO 1197 1208	metotrexato
+T31	FARMACO 1211 1225	colecalciferol
+T32	FARMACO 1244 1261	carbonato cálcico
+T33	FARMACO 1274 1288	colecalciferol
+T34	FARMACO 1306 1317	deflazacort
+T35	FARMACO 1333 1350	hidroxicloroquina
+T36	FARMACO 1366 1377	paracetamol
+T37	FARMACO 2160 2171	metotrexato
+T38	ORG_VIVO 0 6	﻿Mujer
+T39	ORG_VIVO 18 23	viuda
+T40	ORG_VIVO 244 252	familiar
+T41	ORG_VIVO 267 277	personales
+T42	ORG_VIVO 1439 1455	hijos cuidadores
+T43	ORG_VIVO 1536 1546	SARS-CoV-2
+T44	ORG_VIVO 1555 1563	paciente
+T45	ORG_VIVO 1715 1725	cuidadores
+T46	ORG_VIVO 1792 1802	SARS-CoV-2
+T47	ORG_VIVO 1843 1850	familia
+T48	ORG_VIVO 1885 1890	hijos
+T49	ORG_VIVO 1916 1924	paciente
+T50	ORG_VIVO 2247 2255	paciente
+T51	ORG_VIVO 2309 2319	cuidadores
+T52	ORG_VIVO 2429 2437	paciente
+T53	ENFERMEDAD 119 143	deterioro cognitivo leve
+T54	ENFERMEDAD 145 173	incontinencia urinaria mixta
+T55	ENFERMEDAD 290 311	hipertensión arterial
+T56	ENFERMEDAD 313 336	diabetes mellitus tipo2
+T57	ENFERMEDAD 338 346	obesidad
+T58	ENFERMEDAD 348 375	anemia de trastorno crónico
+T59	ENFERMEDAD 377 395	meningioma frontal
+T60	ENFERMEDAD 405 424	derrame pericárdico
+T61	ENFERMEDAD 450 470	insuficiencia mitral
+T62	ENFERMEDAD 473 502	insuficiencia aórtica ligeras
+T63	ENFERMEDAD 507 535	hipertensión pulmonar severa
+T64	ENFERMEDAD 537 589	enfermedad cerebrovascular isquémica de pequeño vaso
+T65	ENFERMEDAD 591 615	enfermedad renal crónica
+T66	ENFERMEDAD 617 620	ERC
+T67	ENFERMEDAD 627 641	hipotiroidismo
+T68	ENFERMEDAD 643 675	artritis reumatoide seropositiva
+T69	ENFERMEDAD 677 703	espondiloartrosis avanzada
+T70	ENFERMEDAD 708 734	discopatías a nivel lumbar
+T71	ENFERMEDAD 736 748	osteoporosis
+T72	ENFERMEDAD 751 785	aplastamientos vertebrales D10-D12
+T73	ENFERMEDAD 802 825	cataratas en ambos ojos
+T74	ENFERMEDAD 1497 1505	COVID-19
+T75	ENFERMEDAD 1778 1802	positiva para SARS-CoV-2
+T76	ENFERMEDAD 2047 2069	infección respiratoria
+T77	FAMILIAR-SITUACION_LABORAL 1445 1455	cuidadores
+T78	FAMILIAR-SITUACION_LABORAL 1715 1737	cuidadores principales
+T79	FAMILIAR-SITUACION_LABORAL 2309 2319	cuidadores
+T80	PACIENTE-SITUACION_LABORAL 59 70	dependiente

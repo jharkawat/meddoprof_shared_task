@@ -1,0 +1,7 @@
+
+No	O
+se	O
+palpan	O
+adenopatías	O
+axilares	O
+.	O

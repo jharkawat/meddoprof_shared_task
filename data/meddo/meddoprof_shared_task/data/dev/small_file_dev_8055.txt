@@ -1,0 +1,20 @@
+
+Mantiene	O
+revisiones	O
+periódicas	O
+por	O
+Cardiología	O
+y	O
+no	O
+presenta	O
+disnea	O
+asociada	O
+,	O
+ni	O
+toma	O
+ninguna	O
+medicación	O
+de	O
+forma	O
+habitual	O
+.	O

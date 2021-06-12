@@ -1,0 +1,7 @@
+
+La	O
+paciente	O
+refería	O
+prurito	O
+leve	O
+.	O

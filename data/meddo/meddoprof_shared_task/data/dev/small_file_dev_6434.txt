@@ -1,0 +1,21 @@
+
+3	O
+-	O
+Meningitis	O
+bacteriana	O
+decapitada	O
+:	O
+esta	O
+circunstancia	O
+clínica	O
+requiere	O
+el	O
+uso	O
+de	O
+antimicrobianos	O
+previo	O
+al	O
+análisis	O
+del	O
+LCR	O
+.	O

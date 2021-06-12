@@ -1,0 +1,17 @@
+
+Con	O
+hipertiroidismo	O
+G1	O
+,	O
+conjuntamente	O
+con	O
+el	O
+servicio	O
+de	O
+Endocrinología	O
+,	O
+se	O
+decide	O
+pautar	O
+carbimazol	O
+.	O

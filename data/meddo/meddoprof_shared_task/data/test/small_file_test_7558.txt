@@ -1,0 +1,27 @@
+
+Se	O
+amplía	O
+con	O
+ácido	O
+fólico	O
+,	O
+B12	O
+,	O
+marcadores	O
+tumorales	O
+,	O
+serologías	O
+de	O
+varicela	O
+,	O
+hepatitis	O
+B	O
+,	O
+hepatitis	O
+C	O
+y	O
+QuantiFERON	O
+que	O
+resultan	O
+normales	O
+.	O

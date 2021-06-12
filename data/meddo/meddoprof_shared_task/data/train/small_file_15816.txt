@@ -1,0 +1,19 @@
+
+Los	O
+calambres	O
+se	O
+achacaron	O
+a	O
+trastorno	O
+electrolítico	O
+por	O
+vómitos	O
+y	O
+se	O
+pautó	O
+tratamiento	O
+con	O
+domperidona	O
+y	O
+pantoprazol	O
+.	O

@@ -1,0 +1,10 @@
+
+Se	O
+entregan	O
+documentos	O
+con	O
+medidas	O
+higiénico	O
+-	O
+dietéticas	O
+.	O

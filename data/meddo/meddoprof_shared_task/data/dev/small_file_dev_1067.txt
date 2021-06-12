@@ -1,0 +1,18 @@
+
+Morfología	O
+de	O
+sangre	O
+periférica	O
+:	O
+sin	O
+alteraciones	O
+morfológicas	O
+significativas	O
+en	O
+ninguna	O
+de	O
+las	O
+tres	O
+series	O
+hematopoyéticas	O
+.	O

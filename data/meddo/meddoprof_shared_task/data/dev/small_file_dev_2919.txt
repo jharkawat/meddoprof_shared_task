@@ -1,0 +1,21 @@
+
+Al	O
+principio	O
+no	O
+se	O
+relaciona	O
+con	O
+nadie	O
+,	O
+pero	O
+los	O
+días	O
+siguientes	O
+habla	O
+constantemente	O
+con	O
+dos	O
+o	O
+tres	O
+personas	O
+.	O

@@ -1,0 +1,16 @@
+
+Tratamiento	O
+en	O
+el	O
+momento	O
+del	O
+diagnóstico	O
+:	O
+domperidona	O
+,	O
+esomeprazol	O
+,	O
+sucralfato	O
+,	O
+paracetamol	O
+.	O

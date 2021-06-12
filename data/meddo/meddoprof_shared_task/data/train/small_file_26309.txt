@@ -1,0 +1,8 @@
+
+Peso	O
+recién	O
+nacida	O
+:	O
+3	O
+Kgrs	O
+.	O

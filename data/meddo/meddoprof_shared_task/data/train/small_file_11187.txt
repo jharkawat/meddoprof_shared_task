@@ -1,0 +1,8 @@
+
+Trabaja	O
+como	O
+recepcionista	B-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+hotel	I-PROFESION
+.	O

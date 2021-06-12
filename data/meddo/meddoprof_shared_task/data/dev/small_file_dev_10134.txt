@@ -1,0 +1,14 @@
+
+Sin	O
+embargo	O
+,	O
+el	O
+día	O
+antes	O
+de	O
+su	O
+internación	O
+se	O
+quebró	O
+completamente	O
+.	O

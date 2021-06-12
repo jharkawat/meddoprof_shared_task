@@ -1,0 +1,13 @@
+
+Al	O
+paciente	O
+se	O
+le	O
+realizó	O
+fibrobroncoscopía	O
+,	O
+no	O
+encontrando	O
+alteraciones	O
+significativas	O
+.	O

@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+fue	O
+derivada	O
+a	O
+la	O
+unidad	O
+de	O
+porfirias	O
+para	O
+seguimiento	O
+.	O

@@ -1,0 +1,16 @@
+
+En	O
+el	O
+sistemático	O
+de	O
+orina	O
+aparecieron	O
+75	O
+leucocitos	O
+,	O
+nitritos	O
+negativo	O
+y	O
+ningún	O
+hematíe	O
+.	O

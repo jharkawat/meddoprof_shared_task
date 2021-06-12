@@ -1,0 +1,63 @@
+T1	SINTOMA 109 143	incontinencia urinaria de esfuerzo
+T2	SINTOMA 2378 2383	dolor
+T3	SINTOMA 2385 2392	eritema
+T4	SINTOMA 2407 2435	aumento de temperatura local
+T5	PROCEDIMIENTO 182 190	cesáreas
+T6	PROCEDIMIENTO 222 235	histerectomía
+T7	PROCEDIMIENTO 238 280	anexectomía por una masa anexial izquierda
+T8	PROCEDIMIENTO 299 308	anamnesis
+T9	PROCEDIMIENTO 313 331	exploración física
+T10	PROCEDIMIENTO 337 348	flujometría
+T11	PROCEDIMIENTO 355 382	cistouretrografía miccional
+T12	PROCEDIMIENTO 392 396	CUMS
+T13	PROCEDIMIENTO 456 473	corrección de IUE
+T14	PROCEDIMIENTO 483 515	cinta suburetral transobturatriz
+T15	PROCEDIMIENTO 517 520	TOT
+T16	PROCEDIMIENTO 808 826	Exploración física
+T17	PROCEDIMIENTO 827 834	Abdomen
+T18	PROCEDIMIENTO 1288 1316	Ecografía pélvica y perineal
+T19	PROCEDIMIENTO 1461 1528	Resonancia magnética (RM) pélvica sin y con contraste con gadolinio
+T20	PROCEDIMIENTO 2873 2948	drenaje del absceso glúteo con limpieza de la cavidad con suero fisiológico
+T21	PROCEDIMIENTO 2951 2966	povidona yodada
+T22	PROCEDIMIENTO 3008 3015	drenaje
+T23	PROCEDIMIENTO 3025 3059	extirpación de la cinta suburetral
+T24	NEG 527 542	desaparición de
+T25	NSCO 543 583	la incontinencia en los controles al mes
+T26	UNC 745 752	posible
+T27	USCO 753 805	fístula inguinal izquierda de 2 semanas de evolución
+T28	NEG 855 857	no
+T29	NSCO 858 881	doloroso a la palpación
+T30	NEG 1398 1401	sin
+T31	NSCO 1402 1457	poder confirmarse o descartarse la afectación del recto
+T32	NEG 1495 1498	sin
+T33	UNC 1830 1840	sugiriendo
+T34	USCO 1841 1844	que
+T35	UNC 1845 1851	podría
+T36	USCO 1852 1937	ser la causa del punto de fuga de la cavidad abscesificada hasta la cavidad abdominal
+T37	UNC 2079 2086	sugiere
+T38	USCO 2087 2105	quiste hemorrágico
+T39	UNC 2337 2351	compatible con
+T40	USCO 2352 2376	absceso glúteo izquierdo
+T41	NEG 2748 2751	sin
+T42	NSCO 2752 2812	objetivarse salida de material purulento durante la maniobra
+T43	FARMACO 1519 1528	gadolinio
+T44	ORG_VIVO 10 15	Mujer
+T45	ORG_VIVO 646 654	paciente
+T46	ORG_VIVO 676 703	médico de Atención Primaria
+T47	ORG_VIVO 2277 2285	paciente
+T48	ORG_VIVO 2486 2494	paciente
+T49	ORG_VIVO 3064 3072	paciente
+T50	ORG_VIVO 3210 3218	paciente
+T51	ENFERMEDAD 48 57	diabética
+T52	ENFERMEDAD 60 70	epiléptica
+T53	ENFERMEDAD 109 143	incontinencia urinaria de esfuerzo
+T54	ENFERMEDAD 753 769	fístula inguinal
+T55	ENFERMEDAD 883 919	Estoma fistuloso a nivel de la ingle
+T56	ENFERMEDAD 1333 1386	trayecto fistuloso de 6-8 cm en la región pararrectal
+T57	ENFERMEDAD 1963 1978	lesión quística
+T58	ENFERMEDAD 2087 2105	quiste hemorrágico
+T59	ENFERMEDAD 2120 2237	Absceso abdómino-pélvico fistulizado a la piel de la cara anterior del muslo izquierdo a través del agujero obturador
+T60	ENFERMEDAD 2352 2366	absceso glúteo
+T61	ENFERMEDAD 2885 2899	absceso glúteo
+T62	SANITARIO-PROFESION 676 703	médico de Atención Primaria
+T63	SANITARIO-PROFESION 2591 2598	urólogo

@@ -1,0 +1,4 @@
+
+Padres	O
+separados	O
+.	O

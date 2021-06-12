@@ -1,0 +1,13 @@
+
+A	O
+la	O
+exploración	O
+presenta	O
+auscultación	O
+pulmonar	O
+con	O
+abundantes	O
+roncus	O
+bilaterales	O
+diseminados	O
+.	O

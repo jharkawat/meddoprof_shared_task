@@ -1,0 +1,15 @@
+
+Ligera	O
+eosinofilia	O
+sin	O
+significancia	O
+clínica	O
+que	O
+resolvió	O
+en	O
+las	O
+analíticas	O
+de	O
+control	O
+posteriores	O
+.	O

@@ -1,0 +1,26 @@
+
+Dado	O
+que	O
+el	O
+síntoma	O
+cardinal	O
+del	O
+cuadro	O
+parecía	O
+ser	O
+la	O
+ideación	O
+delirante	O
+,	O
+se	O
+considero	O
+un	O
+trastorno	O
+delirante	O
+de	O
+tipo	O
+somático	O
+como	O
+opción	O
+diagnóstica	O
+.	O

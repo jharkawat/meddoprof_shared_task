@@ -1,0 +1,14 @@
+
+Dificultad	O
+para	O
+relacionarse	O
+con	O
+otras	O
+personas	O
+que	O
+no	O
+sean	O
+de	O
+su	O
+familia	O
+.	O

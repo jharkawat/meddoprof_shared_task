@@ -1,0 +1,13 @@
+
+Antecedentes	O
+personales	O
+:	O
+el	O
+paciente	O
+es	O
+el	O
+menor	O
+de	O
+dos	O
+hermanos	O
+.	O

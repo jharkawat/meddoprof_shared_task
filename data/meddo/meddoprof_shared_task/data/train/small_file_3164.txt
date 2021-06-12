@@ -1,0 +1,14 @@
+
+Llamaba	O
+la	O
+atención	O
+que	O
+el	O
+paciente	O
+se	O
+caracterizaba	O
+por	O
+una	O
+fascies	O
+triste	O
+.	O

@@ -1,0 +1,23 @@
+
+No	O
+se	O
+evidencia	O
+una	O
+afectación	O
+anímica	O
+autónoma	O
+,	O
+ni	O
+psicopatología	O
+en	O
+las	O
+esferas	O
+de	O
+pensamiento	O
+,	O
+lenguaje	O
+,	O
+percepción	O
+o	O
+impulsos	O
+.	O

@@ -1,0 +1,13 @@
+
+Se	O
+sospechó	O
+causa	O
+orgánica	O
+del	O
+cuadro	O
+psicótico	O
+que	O
+presentaba	O
+la	O
+paciente	O
+.	O

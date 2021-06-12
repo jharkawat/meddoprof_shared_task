@@ -1,0 +1,15 @@
+
+Por	O
+el	O
+mismo	O
+motivo	O
+se	O
+descartó	O
+que	O
+se	O
+tratase	O
+de	O
+una	O
+alucinosis	O
+alcohólica	O
+.	O

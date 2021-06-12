@@ -1,0 +1,10 @@
+
+Juicio	O
+clínico	O
+:	O
+Cistoadenoma	O
+mucinoso	O
+de	O
+ovario	O
+izquierdo	O
+.	O

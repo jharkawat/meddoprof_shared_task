@@ -1,0 +1,17 @@
+
+Si	O
+bien	O
+la	O
+situación	O
+parece	O
+controlada	O
+no	O
+podemos	O
+decir	O
+que	O
+estamos	O
+seguros	O
+de	O
+una	O
+recuperación	O
+.	O

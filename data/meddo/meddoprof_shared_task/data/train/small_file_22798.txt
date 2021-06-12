@@ -1,0 +1,26 @@
+
+La	O
+crisis	O
+surgió	O
+yendo	O
+por	O
+la	O
+calle	O
+,	O
+de	O
+forma	O
+brusca	O
+con	O
+importante	O
+clínica	O
+vegetativa	O
+,	O
+sentimientos	O
+de	O
+extrañeza	O
+y	O
+sensación	O
+de	O
+muerte	O
+inminente	O
+.	O

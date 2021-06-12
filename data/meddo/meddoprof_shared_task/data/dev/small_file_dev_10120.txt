@@ -1,0 +1,8 @@
+
+Es	O
+casado	O
+y	O
+tiene	O
+dos	O
+hijos	O
+.	O

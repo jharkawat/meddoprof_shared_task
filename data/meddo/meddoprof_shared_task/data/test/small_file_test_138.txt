@@ -1,0 +1,20 @@
+
+En	O
+la	O
+planta	O
+alta	O
+se	O
+encuentran	O
+dos	O
+alcobas	O
+alfombradas	O
+y	O
+cada	O
+una	O
+con	O
+baño	O
+completo	O
+y	O
+dos	O
+ventanas	O
+.	O

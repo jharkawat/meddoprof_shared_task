@@ -1,0 +1,11 @@
+
+Parto	O
+por	O
+cesárea	O
+programada	O
+a	O
+petición	O
+de	O
+la	O
+madre	O
+.	O

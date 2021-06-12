@@ -1,0 +1,19 @@
+
+Los	O
+pacientes	O
+normalmente	O
+son	O
+menores	O
+de	O
+25	O
+años	O
+y	O
+suele	O
+cursar	O
+con	O
+dolor	O
+articular	O
+y	O
+tumefacción	O
+local	O
+.	O

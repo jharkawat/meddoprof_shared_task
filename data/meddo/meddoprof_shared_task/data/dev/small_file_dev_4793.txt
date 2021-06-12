@@ -1,0 +1,27 @@
+
+Exploración	O
+física	O
+:	O
+PA	O
+(	O
+presión	O
+arterial	O
+)	O
+:	O
+105	O
+/	O
+75	O
+,	O
+FC	O
+:	O
+105	O
+latidos	O
+/	O
+minuto	O
+,	O
+Sat	O
+O	O
+:	O
+98	O
+%	O
+.	O

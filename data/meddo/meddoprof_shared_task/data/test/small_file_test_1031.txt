@@ -1,0 +1,7 @@
+
+Lo	O
+habla	O
+con	O
+su	O
+M	O
+.	O

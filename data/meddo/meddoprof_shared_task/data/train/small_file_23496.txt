@@ -1,0 +1,25 @@
+
+Se	O
+comenzó	O
+el	O
+tratamiento	O
+farmacológico	O
+con	O
+cloracepato	O
+hasta	O
+15mgr	O
+/	O
+día	O
+en	O
+pauta	O
+descendente	O
+y	O
+escitalopram	O
+hasta	O
+20	O
+mgr	O
+día	O
+en	O
+pauta	O
+ascendente	O
+.	O

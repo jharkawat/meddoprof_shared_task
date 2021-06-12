@@ -1,0 +1,23 @@
+
+A	O
+nivel	O
+académico	O
+finalizó	O
+los	O
+estudios	O
+de	O
+secundaria	O
+,	O
+mantiene	B-SITUACION_LABORAL
+una	I-SITUACION_LABORAL
+situación	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+desempleo	I-SITUACION_LABORAL
+con	O
+pareja	O
+estable	O
+consumidora	O
+de	O
+cocaína	O
+inhalada	O
+.	O

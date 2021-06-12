@@ -1,0 +1,41 @@
+Motivo de consulta
+Disfagia.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: paciente de 70 años de edad que desde hace 7-8 años (2012) refiere a veces dificultad al tragar algunos alimentos, no refiere pérdida de peso, no tiene episodios de ronquera, ni ha dejado de comer ningún alimento, no refiere ninguna otra sintomatología, no le impide hacer su vida normal, hace ejercicio.
+(Este síntoma lo refería cuando venía a consulta por algún otro motivo, no venía mucho a consulta).
+
+Antecedentes personales: ex fumador (hace 6 años fumaba puros) Hipertrofia benigna de próstata. En estudio por digestivo por colestasis y alteración morfológica de la vía biliar.
+Tratamiento: Dustasterida 500 mg, 1/ 24h. Duxazosina 8mg, 1/24h.
+Exploración física: la exploración de la cavidad oral y faringe fue normal. La Palpación bimanual del suelo de la boca, lengua, labios: normal. La exploración del cuello no se palpa tiroides ni adenopatías.
+
+Exploración neurológica sobre todo a los pares craneales V, VII, IX; X, XII (los que intervienen en la deglución) fue normal.
+Se derivó a ORL porque se enfocaba como una disfagia orofaríngea. La laringoscopia nasofaríngea fue normal.
+Se deriva a Digestivo enfocándose como disfagia esofágica, le realizan Transito EGD: Normal y se realiza Endoscopia: Normal.
+
+En 2018 ante un cuadro de tos que aparecía cuando hacia abdominales, se realiza RX Tórax observándose pérdida de volumen en hemitórax izquierdo. Aumento de densidad parahilar izquierdo, probablemente situada en mediastino anterior sospechando timoma versus malformación vascular.
+
+Derivado a Neumología se realiza TAC torácico con contraste: se observa gran masa de contornos lobulados bien delimitados 100mm x 65mm, sólida, situada en mediastino anterosuperior con lateralización izquierda. Conclusión: se confirma gran masa mediastínica como primera opción diagnostica de Timoma, proceso linfoproliferativo o metástasis de tumor germinal (menos probable). Derrame pleural izquierdo leve. Cardiomegalia.
+
+Enfoque familiar y comunitario
+El paciente es viudo. Vive solo. Jubilado, trabajaba como marino mercante en máquinas con inhalación de humos.
+Hace una vida activa, acude al gimnasio con frecuencia.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Ante una disfagia habría que plantear los siguientes diagnósticos diferenciales:
+Disfagia Orofaringea:
+Causas neuromusculares: ACV, Enfermedad de Parkinson, Miastenia Gravis, Esclerosis Multiple. Causas Obstructivas: Bocio. Diverticulo de Zenker. Neoplasias. Masas en mediastino.
+Disfagia Esofágica:
+Causas Neuromusculares: Acalasia, Espasmos esofágicos, Esofagitis eosinofíla. Causas Obstructivas intrínsecas: Tumores, Estenosis Péptica, Anillos esofagicos.
+Causas Obstructivas extrínsecas: Compresión vascular. Masas Mediastínicas.
+
+Plan de acción y evolución
+Es remitido a Cirugía Torácica donde realizan timectomia.
+En biopsia se confirma el diagnostico de timoma, que está confinado al timo de tamaño 11,2x10,4x7,3cm con márgenes libres, no afectación de ganglios y el parénquima pulmonar adyacente sin alteraciones morfológicas significativas.
+
+Diagnóstico: Timoma tipo B1 ESTADIO IIA DE Masaoka.
+(El principal sistema de estadiaje utilizado en los timomas es el propuesto por Masaoka y colaboradores en base al cual: estadio I= tumor encapsulado; estadio IIA= afectación capsular microscópica; estadio IIB= invasión macroscópica en el tejido graso; estadio III= invasión de los grandes vasos, pericardio o pulmonares; estadio IVA= diseminación pleural y / o pericárdica; y estadio IVB= metástasis linfáticas o hematógenas).
+Posteriormente el paciente es derivado a Oncología para sesiones de radioterapia.
+
+Evolución: el paciente presento un postoperatorio satisfactorio y buena tolerancia a las sesiones de radioterapia.
+Actualmente el paciente presenta una tos persistente crónica desde hace 3-4 meses que está en estudio por neumología que destaca el antecedente de radioterapia sobre mediastino, bronquiectasias por tracción secundarias a cirugía de timectomia, está siendo estudiado por Hematología por una hipogammaglobulinemia sin manifestación clínica por el momento.

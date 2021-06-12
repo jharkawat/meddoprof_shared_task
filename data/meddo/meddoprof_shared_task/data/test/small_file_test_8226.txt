@@ -1,0 +1,11 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+no	O
+muestra	O
+hallazgos	O
+relevantes	O
+.	O

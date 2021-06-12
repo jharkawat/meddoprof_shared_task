@@ -1,0 +1,23 @@
+
+En	O
+la	O
+analítica	O
+de	O
+orina	O
+aparece	O
+como	O
+hallazgo	O
+relevante	O
+una	O
+luecocituria	O
+de	O
+100	O
+ul	O
+y	O
+una	O
+hematuria	O
+de	O
+250	O
+/	O
+ul	O
+.	O

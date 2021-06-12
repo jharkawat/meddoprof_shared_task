@@ -1,0 +1,57 @@
+T1	SINTOMA 84 99	dolor abdominal
+T2	SINTOMA 141 148	náuseas
+T3	SINTOMA 151 158	vómitos
+T4	SINTOMA 254 278	artralgias generalizadas
+T5	SINTOMA 567 592	rush cutáneo generalizado
+T6	SINTOMA 599 615	pérdida ponderal
+T7	SINTOMA 694 700	Ta38oC
+T8	SINTOMA 750 781	desorientación temporo-espacial
+T9	SINTOMA 795 846	molestia a la palpación en epigastrio e hipocondrio
+T10	SINTOMA 860 878	defensa peritoneal
+T11	SINTOMA 901 973	rash cutáneo generalizado, sin respetar palmas de manos y palmas de pies
+T12	SINTOMA 986 997	pruriginoso
+T13	SINTOMA 1129 1166	elevación de reactantes de fase aguda
+T14	SINTOMA 1297 1341	engrosamiento parietal de la vesícula biliar
+T15	PROCEDIMIENTO 451 469	fluidoterapia oral
+T16	PROCEDIMIENTO 666 684	exploración física
+T17	PROCEDIMIENTO 1245 1272	TAC toraco-abdomino-pélvico
+T18	PROCEDIMIENTO 1565 1579	antibioterapia
+T19	PROCEDIMIENTO 1927 1941	corticoterapia
+T20	NEG 80 83	sin
+T21	NSCO 84 124	dolor abdominal ni productos patológicos
+T22	NEG 750 764	desorientación
+T23	NEG 856 859	sin
+T24	NSCO 860 878	defensa peritoneal
+T25	NEG 928 931	sin
+T26	NSCO 932 973	respetar palmas de manos y palmas de pies
+T27	UNC 979 985	parece
+T28	USCO 986 997	pruriginoso
+T29	NEG 1006 1009	sin
+T30	NSCO 1010 1029	estigmas de rascado
+T31	NEG 1104 1106	no
+T32	NSCO 1107 1114	anúrica
+T33	NEG 1211 1214	sin
+T34	NSCO 1215 1229	dishemopoyesis
+T35	NEG 1422 1433	se sospechó
+T36	NSCO 1434 1452	colecistitis aguda
+T37	NEG 2027 2042	desaparición de
+T38	NSCO 2043 2064	las lesiones dérmicas
+T39	FARMACO 204 214	colchicina
+T40	FARMACO 472 498	trimetoprim sulfametoxazol
+T41	ORG_VIVO 3 11	paciente
+T42	ORG_VIVO 232 249	Médico de Familia
+T43	ENFERMEDAD 352 381	infección del tracto urinario
+T44	ENFERMEDAD 384 403	insuficiencia renal
+T45	ENFERMEDAD 417 431	deshidratación
+T46	ENFERMEDAD 1078 1103	insuficiencia renal aguda
+T47	ENFERMEDAD 1198 1210	pancitopenia
+T48	ENFERMEDAD 1434 1452	colecistitis aguda
+T49	ENFERMEDAD 1457 1480	reacción tóxico-dérmica
+T50	ENFERMEDAD 1611 1628	lesiones dérmicas
+T51	ENFERMEDAD 1645 1678	lesiones ampollosas generalizadas
+T52	ENFERMEDAD 1766 1833	síndrome de Stevens-Johnson secundario a Trimetoprim Sulfametoxazol
+T53	ENFERMEDAD 1845 1883	hepatitis aguda tóxica de patrón mixto
+T54	ENFERMEDAD 1886 1896	ductopenia
+T55	ENFERMEDAD 2047 2064	lesiones dérmicas
+T56	ENFERMEDAD 2092 2126	insuficiencia hepática Child-Pug 9
+T57	SANITARIO-PROFESION 232 249	Médico de Familia

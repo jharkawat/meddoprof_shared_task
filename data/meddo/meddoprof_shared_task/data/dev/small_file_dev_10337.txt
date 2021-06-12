@@ -1,0 +1,26 @@
+
+Se	O
+lo	O
+envió	O
+a	O
+prisión	O
+y	O
+fue	O
+objeto	O
+de	O
+torturas	O
+graves	O
+,	O
+en	O
+las	O
+cuales	O
+se	O
+le	O
+introducía	O
+palos	O
+de	O
+madera	O
+en	O
+el	O
+ano	O
+.	O

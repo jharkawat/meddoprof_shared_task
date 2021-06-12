@@ -1,0 +1,12 @@
+
+GCDFP	O
+-	O
+15	O
+:	O
+positiva	O
+(	O
++	O
++	O
++	O
+)	O
+.	O

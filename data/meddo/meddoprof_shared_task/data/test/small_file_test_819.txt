@@ -1,0 +1,24 @@
+
+Lo	O
+más	O
+probable	O
+es	O
+que	O
+se	O
+trate	O
+de	O
+una	O
+nueva	O
+descompensación	O
+hiperglucémica	O
+,	O
+dado	O
+el	O
+mal	O
+control	O
+glucémico	O
+habitual	O
+de	O
+la	O
+paciente	O
+.	O

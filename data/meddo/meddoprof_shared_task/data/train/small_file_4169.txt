@@ -1,0 +1,9 @@
+
+No	O
+presentaba	O
+dolor	O
+abdominal	O
+,	O
+ni	O
+fiebre	O
+.	O

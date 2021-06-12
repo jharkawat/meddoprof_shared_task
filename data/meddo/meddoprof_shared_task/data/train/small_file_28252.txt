@@ -1,0 +1,23 @@
+
+En	O
+1992	O
+,	O
+a	O
+los	O
+16	O
+años	O
+,	O
+su	O
+madre	O
+,	O
+chófer	B-PROFESION
+de	I-PROFESION
+camión	I-PROFESION
+,	O
+murió	O
+en	O
+accidente	O
+laboral	O
+de	O
+circulación	O
+.	O

@@ -1,0 +1,20 @@
+
+Otra	O
+enfermedad	O
+a	O
+tener	O
+en	O
+cuenta	O
+en	O
+el	O
+diagnóstico	O
+diferencial	O
+es	O
+la	O
+rickettsiosis	O
+que	O
+puede	O
+imitar	O
+la	O
+leptospirosis	O
+.	O

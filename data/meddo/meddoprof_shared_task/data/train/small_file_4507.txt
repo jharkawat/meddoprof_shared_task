@@ -1,0 +1,26 @@
+
+Tiene	O
+2	O
+nietos	O
+del	O
+hijo	O
+mayor	O
+,	O
+pero	O
+los	O
+ve	O
+poco	O
+pese	O
+a	O
+vivir	O
+en	O
+el	O
+mismo	O
+pueblo	O
+,	O
+tras	O
+el	O
+divorcio	O
+de	O
+éste	O
+.	O

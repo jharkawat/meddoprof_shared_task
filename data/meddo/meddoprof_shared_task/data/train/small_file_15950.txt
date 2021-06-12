@@ -1,0 +1,12 @@
+
+Debilidad	O
+proximal	O
+en	O
+los	O
+miembros	O
+inferiores	O
+a	O
+4	O
+/	O
+5	O
+.	O

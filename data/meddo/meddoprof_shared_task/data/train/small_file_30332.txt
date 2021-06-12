@@ -1,0 +1,20 @@
+
+Las	O
+fugas	O
+del	O
+domicilio	O
+han	O
+sido	O
+constantes	O
+,	O
+volviendo	O
+a	O
+situación	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+calle	I-SITUACION_LABORAL
+y	O
+abandono	O
+completo	O
+del	O
+autocuidado	O
+.	O

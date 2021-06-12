@@ -1,0 +1,16 @@
+
+Ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+,	O
+había	O
+trabajado	O
+como	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+clínica	I-PROFESION
+hasta	O
+que	O
+contrajo	O
+matrimonio	O
+.	O

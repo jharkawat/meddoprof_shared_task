@@ -1,0 +1,10 @@
+
+A	O
+la	O
+exploración	O
+neurológica	O
+:	O
+pupilas	O
+isocóricas	O
+normorreactivas	O
+.	O

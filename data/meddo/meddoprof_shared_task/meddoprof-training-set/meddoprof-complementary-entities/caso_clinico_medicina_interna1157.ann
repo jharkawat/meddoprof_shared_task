@@ -1,0 +1,55 @@
+T1	SINTOMA 43 60	dolor lumbo-sacro
+T2	SINTOMA 81 87	fiebre
+T3	SINTOMA 233 248	corazón rítmico
+T4	SINTOMA 254 289	alteraciones del murmullo vesicular
+T5	SINTOMA 1148 1154	fiebre
+T6	SINTOMA 1619 1649	cefalea de predominio temporal
+T7	SINTOMA 1651 1667	malestar general
+T8	SINTOMA 1669 1677	anorexia
+T9	SINTOMA 1679 1685	fiebre
+T10	SINTOMA 1687 1702	pérdida de peso
+T11	SINTOMA 1705 1728	claudicación mandibular
+T12	SINTOMA 2103 2119	elevación de VSG
+T13	PROCEDIMIENTO 594 604	RM columna
+T14	PROCEDIMIENTO 869 872	PET
+T15	PROCEDIMIENTO 1204 1241	Biopsia de arteria temporal izquierda
+T16	PROCEDIMIENTO 2058 2076	exploración física
+T17	PROCEDIMIENTO 2167 2197	biopsia de la arteria temporal
+T18	PROCEDIMIENTO 2302 2313	Tratamiento
+T19	PROCEDIMIENTO 2314 2325	Corticoides
+T20	NEG 250 253	sin
+T21	NSCO 254 289	alteraciones del murmullo vesicular
+T22	NEG 344 357	inespecíficas
+T23	NEG 456 465	negativos
+T24	UNC 884 899	compatibles con
+T25	USCO 900 902	la
+T26	UNC 903 914	sospecha de
+T27	USCO 915 932	aortitis torácica
+T28	NEG 987 990	sin
+T29	NSCO 991 1042	afectación de ramas abdominales ni arterias ilíacas
+T30	UNC 1059 1073	compatible con
+T31	USCO 1074 1103	arteritis de células gigantes
+T32	NEG 1129 1144	desaparición de
+T33	NSCO 1145 1189	la fiebre tras 3 pulsos de metilprednisolona
+T34	NEG 1242 1245	sin
+T35	NSCO 1246 1271	alteraciones histológicas
+T36	FARMACO 1172 1189	metilprednisolona
+T37	FARMACO 1338 1348	Prednisona
+T38	FARMACO 2393 2404	Metotrexato
+T39	FARMACO 2406 2417	Azatriopina
+T40	FARMACO 2419 2433	Ciclofosfamida
+T41	FARMACO 2435 2443	Aspirina
+T42	ORG_VIVO 0 5	Mujer
+T43	ORG_VIVO 205 210	perro
+T44	ENFERMEDAD 132 145	hernia hiatal
+T45	ENFERMEDAD 147 171	Síndrome de Tolossa-Hunt
+T46	ENFERMEDAD 305 333	adenopatías laterocervicales
+T47	ENFERMEDAD 915 932	aortitis torácica
+T48	ENFERMEDAD 1074 1103	arteritis de células gigantes
+T49	ENFERMEDAD 1105 1108	ACG
+T50	ENFERMEDAD 1471 1529	vasculitis que afecta a arterias de mediano y gran tamaño
+T51	ENFERMEDAD 1778 1812	neuritis óptica anterior isquémica
+T52	ENFERMEDAD 1850 1919	carotídeas, aorta torácica, subclavias, axilares, ilíacas y femorales
+T53	ENFERMEDAD 1939 1960	Polimialgia Reumática
+T54	ENFERMEDAD 2126 2157	anemia normocítica normocrómica
+T55	PACIENTE-PROFESION 173 184	Gerocultora

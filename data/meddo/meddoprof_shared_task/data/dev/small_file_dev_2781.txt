@@ -1,0 +1,13 @@
+
+Es	O
+perceptor	O
+de	O
+una	O
+invalidez	B-SITUACION_LABORAL
+desde	O
+los	O
+31	O
+años	O
+de	O
+edad	O
+.	O

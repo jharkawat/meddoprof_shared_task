@@ -1,0 +1,19 @@
+
+En	O
+la	O
+anamnesis	O
+dirigida	O
+:	O
+Niega	O
+semiología	O
+de	O
+infección	O
+respiratoria	O
+o	O
+urinaria	O
+,	O
+asociada	O
+al	O
+cuadro	O
+clínico	O
+.	O

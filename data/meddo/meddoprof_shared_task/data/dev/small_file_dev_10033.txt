@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+es	O
+un	O
+hombre	O
+de	O
+24	O
+años	O
+que	O
+vive	O
+solo	O
+,	O
+con	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+subsidio	I-SITUACION_LABORAL
+social	I-SITUACION_LABORAL
+.	O

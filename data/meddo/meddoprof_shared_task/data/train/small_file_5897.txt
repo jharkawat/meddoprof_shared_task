@@ -1,0 +1,10 @@
+
+Segundo	O
+ingreso	O
+del	O
+1	O
+al	O
+8	O
+de	O
+marzo	O
+.	O

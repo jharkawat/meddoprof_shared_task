@@ -1,0 +1,25 @@
+
+Varón	O
+de	O
+23	O
+años	O
+de	O
+edad	O
+remitido	O
+para	O
+ingreso	O
+desde	O
+su	O
+Centro	O
+de	O
+Salud	O
+Mental	O
+debido	O
+a	O
+alteraciones	O
+conductuales	O
+en	O
+la	O
+vía	O
+pública	O
+.	O

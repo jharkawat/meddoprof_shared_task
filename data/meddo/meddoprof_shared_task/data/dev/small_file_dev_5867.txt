@@ -1,0 +1,22 @@
+
+Consultó	O
+inicialmente	O
+por	O
+tos	O
+,	O
+odinofagia	O
+y	O
+mialgias	O
+,	O
+que	O
+se	O
+trató	O
+como	O
+bronquitis	O
+aguda	O
+,	O
+con	O
+buena	O
+respuesta	O
+clínica	O
+.	O

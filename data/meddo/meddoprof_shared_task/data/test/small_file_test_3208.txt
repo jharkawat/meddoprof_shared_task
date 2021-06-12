@@ -1,0 +1,19 @@
+
+Ante	O
+dichos	O
+hallazgos	O
+consulta	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+familia	I-PROFESION
+,	O
+quien	O
+lo	O
+deriva	O
+al	O
+dermatólogo	B-PROFESION
+de	O
+zona	O
+.	O

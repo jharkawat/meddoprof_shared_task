@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+reside	O
+con	O
+sus	O
+padres	O
+y	O
+su	O
+hermano	O
+menor	O
+en	O
+Extremadura	O
+.	O

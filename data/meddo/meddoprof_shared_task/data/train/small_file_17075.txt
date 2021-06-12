@@ -1,0 +1,13 @@
+
+No	O
+obedecía	O
+órdenes	O
+sencillas	O
+ni	O
+complejas	O
+(	O
+axiales	O
+o	O
+apendiculares	O
+)	O
+.	O

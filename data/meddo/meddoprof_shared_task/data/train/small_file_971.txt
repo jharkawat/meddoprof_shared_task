@@ -1,0 +1,16 @@
+
+Como	O
+antecedentes	O
+previos	O
+fue	O
+diagnosticada	O
+de	O
+fibromialgia	O
+,	O
+fatiga	O
+crónica	O
+y	O
+cuadro	O
+ansioso	O
+depresivo	O
+.	O

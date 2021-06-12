@@ -1,0 +1,8 @@
+
+No	O
+antecedentes	O
+psiquiátricos	O
+familiares	O
+de	O
+relevancia	O
+.	O

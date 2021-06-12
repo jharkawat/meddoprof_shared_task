@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+no	O
+presentó	O
+disnea	O
+,	O
+tos	O
+,	O
+insuficiencia	O
+respiratoria	O
+ni	O
+otra	O
+clínica	O
+respiratoria	O
+que	O
+nos	O
+hicieran	O
+sospechar	O
+la	O
+presencia	O
+de	O
+una	O
+BONO	O
+.	O

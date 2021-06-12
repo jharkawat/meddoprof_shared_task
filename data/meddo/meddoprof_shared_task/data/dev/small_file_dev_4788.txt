@@ -1,0 +1,7 @@
+
+Bilateral	O
+sin	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

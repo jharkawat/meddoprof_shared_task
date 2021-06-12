@@ -1,0 +1,18 @@
+
+Tienen	O
+mayor	O
+riesgo	O
+personas	O
+con	O
+enfermedades	O
+crónicas	O
+,	O
+tabaquismo	O
+,	O
+ancianos	O
+o	O
+inmunodeprimidos	O
+,	O
+fundamentalmente	O
+trasplantados	O
+.	O

@@ -1,0 +1,98 @@
+T1	SINTOMA 213 228	perjuicio vagas
+T2	SINTOMA 653 670	rasgos paranoides
+T3	SINTOMA 673 689	abuso de alcohol
+T4	SINTOMA 836 869	sintomatología psicótica positiva
+T5	SINTOMA 978 986	delirios
+T6	SINTOMA 1836 1854	deseo de gestación
+T7	SINTOMA 2225 2233	embarazo
+T8	SINTOMA 2244 2258	hiperglucemias
+T9	SINTOMA 2366 2395	síntomas psicóticos positivos
+T10	SINTOMA 2398 2413	desorganización
+T11	SINTOMA 3157 3176	síntomas psicóticos
+T12	SINTOMA 3654 3660	abulia
+T13	SINTOMA 3662 3668	alogia
+T14	SINTOMA 3927 3945	síntomas positivos
+T15	SINTOMA 3969 3998	alteraciones sensoperceptivas
+T16	SINTOMA 4290 4296	apatía
+T17	SINTOMA 4298 4319	aplanamiento afectivo
+T18	PROCEDIMIENTO 1298 1306	sedación
+T19	PROCEDIMIENTO 1949 1959	ecografías
+T20	PROCEDIMIENTO 2861 2878	lactancia materna
+T21	PROCEDIMIENTO 3263 3268	parto
+T22	NEG 1408 1411	sin
+T23	NSCO 1412 1423	galactorrea
+T24	NEG 2074 2077	sin
+T25	NSCO 2078 2092	malformaciones
+T26	NEG 2573 2576	sin
+T27	NSCO 2577 2591	complicaciones
+T28	NEG 2749 2751	No
+T29	NSCO 2752 2848	se apreciaron signos de abstinencia o discontinuación en la recién nacida, ni otras alteraciones
+T30	NEG 2957 2960	sin
+T31	NSCO 2961 2997	apreciarse alteraciones morfológicas
+T32	NEG 3094 3096	No
+T33	NSCO 3097 3236	se han detectado alteraciones psicopatológicas que sugieran síntomas psicóticos u otras alteraciones psiquiátricas de inicio en la infancia
+T34	NEG 3282 3289	tampoco
+T35	NSCO 3290 3367	presentó síntomas de psicosis puerperal, ni alteraciones afectivas relevantes
+T36	NEG 3643 3652	negativos
+T37	NEG 3915 3917	no
+T38	NSCO 3918 3998	presenta síntomas positivos (ideación delirante ni alteraciones sensoperceptivas
+T39	NEG 4260 4268	negativa
+T40	NSCO 4269 4296	manifiesta en ligera apatía
+T41	NEG 4321 4323	No
+T42	NSCO 4324 4383	se objetivan otras alteraciones relevantes a nivel afectivo
+T43	NEG 4812 4814	no
+T44	NSCO 4815 4886	podrían ser considerados como síntomas del espectro de la esquizofrenia
+T45	NEG 5335 5337	No
+T46	NSCO 5338 5403	ha vuelto a presentar alteraciones del metabolismo de la glucemia
+T47	NEG 5466 5469	sin
+T48	NSCO 5470 5482	alteraciones
+T49	FARMACO 1198 1209	risperidona
+T50	FARMACO 1223 1233	olanzapina
+T51	FARMACO 1349 1360	risperidona
+T52	FARMACO 1480 1491	aripiprazol
+T53	FARMACO 1601 1613	paliperidona
+T54	FARMACO 1686 1695	clozapina
+T55	FARMACO 5324 5333	clozapina
+T56	ORG_VIVO 0 8	Paciente
+T57	ORG_VIVO 393 403	personales
+T58	ORG_VIVO 405 410	mujer
+T59	ORG_VIVO 442 450	hermanas
+T60	ORG_VIVO 477 485	familiar
+T61	ORG_VIVO 545 553	familiar
+T62	ORG_VIVO 569 579	familiares
+T63	ORG_VIVO 581 586	madre
+T64	ORG_VIVO 643 648	padre
+T65	ORG_VIVO 1868 1878	familiares
+T66	ORG_VIVO 2063 2067	feto
+T67	ORG_VIVO 2205 2213	paciente
+T68	ORG_VIVO 2593 2606	Recién nacida
+T69	ORG_VIVO 2657 2665	neonatal
+T70	ORG_VIVO 2812 2825	recién nacida
+T71	ORG_VIVO 2871 2878	materna
+T72	ORG_VIVO 2908 2912	niña
+T73	ORG_VIVO 3228 3236	infancia
+T74	ORG_VIVO 3273 3281	paciente
+T75	ORG_VIVO 3692 3700	familiar
+T76	ORG_VIVO 3730 3734	hija
+T77	ORG_VIVO 3818 3825	materno
+T78	ORG_VIVO 3826 3832	filial
+T79	ORG_VIVO 3884 3892	paciente
+T80	ORG_VIVO 4723 4731	familiar
+T81	ORG_VIVO 4749 4757	paciente
+T82	ORG_VIVO 4801 4811	familiares
+T83	ENFERMEDAD 673 689	abuso de alcohol
+T84	ENFERMEDAD 836 869	sintomatología psicótica positiva
+T85	ENFERMEDAD 1016 1035	síndrome de Capgras
+T86	ENFERMEDAD 1374 1392	hiperprolactinemia
+T87	ENFERMEDAD 1397 1406	amenorrea
+T88	ENFERMEDAD 1800 1819	embarazo accidental
+T89	ENFERMEDAD 2078 2092	malformaciones
+T90	ENFERMEDAD 2244 2258	hiperglucemias
+T91	ENFERMEDAD 3311 3329	psicosis puerperal
+T92	ENFERMEDAD 4515 4528	esquizofrenia
+T93	ENFERMEDAD 4873 4886	esquizofrenia
+T94	ENFERMEDAD 4934 4949	psicosis tóxica
+T95	ENFERMEDAD 4967 5017	consumo esporádico de cannabinoides y alucinógenos
+T96	ENFERMEDAD 5180 5193	esquizofrenia
+T97	PACIENTE-SITUACION_LABORAL 487 505	Estudios primarios
+T98	PACIENTE-PROFESION 513 553	trabajó parcialmente en negocio familiar

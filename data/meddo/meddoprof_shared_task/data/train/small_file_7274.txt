@@ -1,0 +1,26 @@
+
+Acude	O
+a	O
+nuestra	O
+consulta	O
+derivado	O
+desde	O
+consultas	O
+de	O
+Dermatología	O
+por	O
+sospecha	O
+de	O
+dermatitis	O
+secundaria	O
+a	O
+gafas	O
+de	O
+oxigenoterapia	O
+y	O
+/	O
+o	O
+parche	O
+de	O
+Nitroplast	O
+.	O

@@ -1,0 +1,10 @@
+
+No	O
+se	O
+identifican	O
+imágenes	O
+compatibles	O
+con	O
+proceso	O
+expansivo	O
+.	O

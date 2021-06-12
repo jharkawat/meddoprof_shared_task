@@ -1,0 +1,23 @@
+
+No	O
+ha	O
+presentado	O
+nueva	O
+clínica	O
+neurológica	O
+ni	O
+sistémica	O
+,	O
+persisten	O
+las	O
+disestesias	O
+en	O
+el	O
+miembro	O
+superior	O
+izquierdo	O
+y	O
+el	O
+área	O
+pectoral	O
+.	O

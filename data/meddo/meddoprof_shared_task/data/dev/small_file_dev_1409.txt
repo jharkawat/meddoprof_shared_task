@@ -1,0 +1,26 @@
+
+Casi	O
+casi	O
+siempre	O
+antes	O
+de	O
+comer	O
+,	O
+tiene	O
+niveles	O
+de	O
+ansiedad	O
+entre	O
+7	O
+y	O
+8	O
+y	O
+después	O
+de	O
+comer	O
+,	O
+sobre	O
+5	O
+-	O
+6	O
+.	O

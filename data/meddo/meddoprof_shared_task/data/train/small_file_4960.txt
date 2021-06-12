@@ -1,0 +1,6 @@
+
+No	O
+refiere	O
+otra	O
+sintomatología	O
+.	O

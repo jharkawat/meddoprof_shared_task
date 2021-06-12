@@ -1,0 +1,24 @@
+
+Se	O
+alcanzó	O
+dosis	O
+de	O
+350	O
+mg	O
+/	O
+día	O
+,	O
+sin	O
+efectos	O
+secundarios	O
+reseñables	O
+,	O
+ni	O
+alteraciones	O
+en	O
+las	O
+analíticas	O
+sanguíneas	O
+de	O
+rigor	O
+.	O

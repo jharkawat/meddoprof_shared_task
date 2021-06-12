@@ -1,0 +1,19 @@
+
+El	O
+tratamiento	O
+en	O
+la	O
+actualidad	O
+es	O
+duloxetina	O
+60	O
+mg	O
+/	O
+día	O
+y	O
+topiramato	O
+100	O
+mg	O
+/	O
+día	O
+.	O

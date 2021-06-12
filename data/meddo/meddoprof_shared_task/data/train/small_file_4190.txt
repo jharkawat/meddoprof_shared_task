@@ -1,0 +1,20 @@
+
+es	O
+una	O
+mujer	O
+de	O
+80	O
+años	O
+conocida	O
+desde	O
+hace	O
+más	O
+de	O
+25	O
+años	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+familia	I-PROFESION
+.	O

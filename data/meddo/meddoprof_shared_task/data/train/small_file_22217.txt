@@ -1,0 +1,22 @@
+
+Refiere	O
+también	O
+en	O
+relación	O
+con	O
+su	O
+situación	O
+vital	O
+,	O
+nivel	O
+de	O
+ansiedad	O
+elevado	O
+,	O
+preocupación	O
+por	O
+el	O
+futuro	O
+e	O
+inquietud	O
+.	O

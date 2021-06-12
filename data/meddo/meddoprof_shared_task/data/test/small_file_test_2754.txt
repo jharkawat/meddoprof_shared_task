@@ -1,0 +1,20 @@
+
+En	O
+marzo	O
+de	O
+2009	O
+acude	O
+a	O
+consulta	O
+por	O
+presentar	O
+sensación	O
+de	O
+presión	O
+con	O
+parestesias	O
+en	O
+silla	O
+de	O
+montar	O
+.	O

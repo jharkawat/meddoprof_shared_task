@@ -1,0 +1,14 @@
+
+A	O
+nivel	O
+socio	O
+-	O
+familiar	O
+,	O
+la	O
+niña	O
+vive	O
+con	O
+sus	O
+padres	O
+.	O

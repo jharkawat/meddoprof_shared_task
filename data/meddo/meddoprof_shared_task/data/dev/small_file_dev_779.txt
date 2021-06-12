@@ -1,0 +1,5 @@
+
+Ausencia	O
+de	O
+insight	O
+.	O

@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+era	O
+soltera	O
+,	O
+tenía	O
+varias	O
+parejas	O
+sexuales	O
+ocasionales	O
+.	O

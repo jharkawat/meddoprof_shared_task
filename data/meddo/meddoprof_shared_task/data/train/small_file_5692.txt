@@ -1,0 +1,12 @@
+
+Hay	O
+que	O
+hacer	O
+el	O
+diagnóstico	O
+diferencial	O
+con	O
+la	O
+bulimia	O
+nerviosa	O
+.	O

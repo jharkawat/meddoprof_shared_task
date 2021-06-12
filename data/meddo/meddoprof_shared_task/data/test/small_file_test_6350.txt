@@ -1,0 +1,11 @@
+
+Adenopatías	O
+en	O
+el	O
+ligamento	O
+gastrohepático	O
+de	O
+hasta	O
+8	O
+mm	O
+.	O

@@ -1,0 +1,19 @@
+
+Ingurgitación	O
+de	O
+vasos	O
+mesentéricos	O
+con	O
+trabeculación	O
+de	O
+la	O
+grasa	O
+de	O
+la	O
+raíz	O
+del	O
+mesenterio	O
+y	O
+líquido	O
+asociado	O
+.	O

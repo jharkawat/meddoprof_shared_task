@@ -1,0 +1,7 @@
+
+Porta	O
+catéter	O
+epidural	O
+para	O
+analgesia	O
+.	O

@@ -1,0 +1,14 @@
+
+Sus	O
+contornos	O
+son	O
+bien	O
+definidos	O
+,	O
+no	O
+mostrando	O
+alteración	O
+del	O
+parénquima	O
+adyacente	O
+.	O

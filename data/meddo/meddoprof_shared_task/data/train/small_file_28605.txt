@@ -1,0 +1,27 @@
+
+Refiere	O
+haber	O
+logrado	O
+la	O
+abstinencia	O
+absoluta	O
+a	O
+cannabis	O
+después	O
+de	O
+la	O
+anterior	O
+visita	O
+,	O
+si	O
+bien	O
+apenas	O
+tomó	O
+el	O
+tratamiento	O
+farmacológico	O
+un	O
+par	O
+de	O
+días	O
+.	O

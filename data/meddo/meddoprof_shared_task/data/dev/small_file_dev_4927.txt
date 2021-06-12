@@ -1,0 +1,10 @@
+
+RM	O
+cerebral	O
+sin	O
+y	O
+tras	O
+administración	O
+de	O
+CIV	O
+.	O

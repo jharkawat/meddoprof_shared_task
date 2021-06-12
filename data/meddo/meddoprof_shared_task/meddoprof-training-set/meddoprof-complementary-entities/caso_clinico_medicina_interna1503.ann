@@ -1,0 +1,141 @@
+T1	SINTOMA 196 209	dolor intenso
+T2	SINTOMA 557 563	fiebre
+T3	SINTOMA 615 634	sudoración nocturna
+T4	SINTOMA 647 650	tos
+T5	SINTOMA 655 676	expectoración verdosa
+T6	SINTOMA 707 713	disnea
+T7	SINTOMA 752 772	astenia generalizada
+T8	SINTOMA 797 805	anorexia
+T9	SINTOMA 808 823	pérdida de peso
+T10	SINTOMA 1256 1266	Consciente
+T11	SINTOMA 1268 1277	orientado
+T12	SINTOMA 1280 1291	colaborador
+T13	SINTOMA 1399 1415	exantema cutáneo
+T14	SINTOMA 1461 1467	soplos
+T15	SINTOMA 1497 1538	roncus aislados parahiliares en hemitórax
+T16	SINTOMA 1549 1574	crepitantes leves en base
+T17	SINTOMA 1586 1626	Abdomen blando y depresible, no doloroso
+T18	SINTOMA 1656 1670	organomegalias
+T19	SINTOMA 1685 1696	peritonismo
+T20	SINTOMA 1698 1713	Murphy negativo
+T21	SINTOMA 1737 1766	edemas en Miembros Inferiores
+T22	SINTOMA 3811 3817	fiebre
+T23	SINTOMA 4236 4242	fiebre
+T24	SINTOMA 4347 4359	leucocitosis
+T25	SINTOMA 4361 4374	trombocitosis
+T26	SINTOMA 4410 4416	fiebre
+T27	PROCEDIMIENTO 1166 1184	Exploración física
+T28	PROCEDIMIENTO 1793 1802	Hemograma
+T29	PROCEDIMIENTO 2080 2096	Perfil abdominal
+T30	PROCEDIMIENTO 2200 2220	Radiografía de Tórax
+T31	PROCEDIMIENTO 2314 2322	TC TORAX
+T32	PROCEDIMIENTO 2987 2994	Mantoux
+T33	PROCEDIMIENTO 3052 3082	Baciloscopias de Ziehl-Neelsen
+T34	PROCEDIMIENTO 3095 3122	Cultivo en Medio Lowenstein
+T35	PROCEDIMIENTO 3134 3146	Broncoscopia
+T36	PROCEDIMIENTO 3156 3185	Cultivo de Aspirado Bronquial
+T37	PROCEDIMIENTO 3197 3228	Citología de aspirado bronquial
+T38	PROCEDIMIENTO 3239 3251	Hemocultivos
+T39	PROCEDIMIENTO 3267 3282	Ecocardiografía
+T40	PROCEDIMIENTO 3904 3927	tratamiento antibiótico
+T41	PROCEDIMIENTO 4463 4484	TC a cráneo y abdomen
+T42	PROCEDIMIENTO 4535 4547	broncoscopia
+T43	PROCEDIMIENTO 4571 4584	proteinograma
+T44	NEG 292 295	sin
+T45	NSCO 296 303	informe
+T46	NEG 934 937	sin
+T47	NSCO 938 953	mejoría clínica
+T48	NEG 955 957	No
+T49	NSCO 958 998	ha realizado viajes en los últimos meses
+T50	NEG 1000 1002	No
+T51	NSCO 1003 1034	ha tenido contacto con animales
+T52	NEG 1036 1041	Niega
+T53	NSCO 1042 1092	haber estado en el campo ni en otras zonas rurales
+T54	NEG 1094 1096	No
+T55	NSCO 1097 1164	ha estado en contacto con personas con alguna afección respiratoria
+T56	NEG 1332 1334	No
+T57	NSCO 1335 1356	focalidad neurológica
+T58	NEG 1358 1360	No
+T59	NSCO 1361 1394	se palpan adenopatías periféricas
+T60	NEG 1396 1398	No
+T61	NSCO 1399 1415	exantema cutáneo
+T62	NEG 1457 1460	sin
+T63	NSCO 1461 1467	soplos
+T64	NEG 1615 1617	no
+T65	NSCO 1618 1641	doloroso a la palpación
+T66	NEG 1643 1646	sin
+T67	NSCO 1647 1670	masas ni organomegalias
+T68	NEG 1672 1674	No
+T69	NSCO 1675 1696	signos de peritonismo
+T70	NSCO 1698 1704	Murphy
+T71	NEG 1705 1713	negativo
+T72	NSCO 1713 1723	; Blumberg
+T73	NEG 1724 1732	negativo
+T74	NEG 1734 1736	No
+T75	NSCO 1737 1766	edemas en Miembros Inferiores
+T76	UNC 2250 2257	Posible
+T77	USCO 2258 2312	infiltrado nodular en lóbulo medio de pulmón izquierdo
+T78	NEG 2500 2503	sin
+T79	NSCO 2504 2542	masas dependientes del árbol bronquial
+T80	NEG 2544 2546	No
+T81	NSCO 2547 2566	hay derrame pleural
+T82	UNC 2830 2845	posiblemente de
+T83	USCO 2846 2879	etiología infecciosa-inflamatoria
+T84	NEG 2996 3004	Negativo
+T85	NEG 3024 3032	Negativo
+T86	NEG 3124 3132	Negativo
+T87	NEG 3187 3195	Negativo
+T88	NEG 3230 3238	negativo
+T89	NEG 3295 3297	no
+T90	NSCO 3298 3327	aneurismática de raíz aórtica
+T91	NEG 3329 3331	No
+T92	NSCO 3332 3354	signos de endocarditis
+T93	NEG 3412 3421	negativas
+T94	NEG 3667 3669	No
+T95	NSCO 3670 3698	se evidencia pico monoclonal
+T96	NEG 3787 3797	se orienta
+T97	NSCO 3798 3871	el caso como fiebre de origen desconocido de posible etiología infecciosa
+T98	NEG 4400 4409	descartar
+T99	NSCO 4410 4451	fiebre secundaria a enfermedad neoplásica
+T100	NEG 4485 4488	sin
+T101	NSCO 4489 4513	hallazgos significativos
+T102	FARMACO 55 72	HIDROCLOROTIAZIDA
+T103	FARMACO 436 444	Atenolol
+T104	FARMACO 462 471	Valsartán
+T105	FARMACO 472 482	Amlodipino
+T106	FARMACO 493 503	Silodosina
+T107	FARMACO 865 888	amoxicilina-clavulánico
+T108	FARMACO 914 927	levofloxacino
+T109	FARMACO 3966 3977	ceftriaxona
+T110	FARMACO 4018 4031	levofloxacino
+T111	FARMACO 4045 4056	doxiciclina
+T112	FARMACO 4104 4115	ceftriaxona
+T113	FARMACO 4130 4143	levofloxacino
+T114	FARMACO 4146 4157	doxiciclina
+T115	ORG_VIVO 13 23	personales
+T116	ORG_VIVO 25 30	Varón
+T117	ORG_VIVO 1026 1034	animales
+T118	ORG_VIVO 1123 1131	personas
+T119	ORG_VIVO 2527 2532	árbol
+T120	ORG_VIVO 3052 3065	Baciloscopias
+T121	ORG_VIVO 3366 3376	Mycoplasma
+T122	ORG_VIVO 3378 3387	Chlamydia
+T123	ORG_VIVO 3400 3410	Legionella
+T124	ORG_VIVO 3443 3451	Brucella
+T125	ORG_VIVO 4214 4222	paciente
+T126	ENFERMEDAD 44 72	alérgico a HIDROCLOROTIAZIDA
+T127	ENFERMEDAD 74 95	Hipertensión Arterial
+T128	ENFERMEDAD 97 128	Hipertrofia Benigna de Próstata
+T129	ENFERMEDAD 177 183	otitis
+T130	ENFERMEDAD 242 250	neumonía
+T131	ENFERMEDAD 1143 1164	afección respiratoria
+T132	ENFERMEDAD 1371 1394	adenopatías periféricas
+T133	ENFERMEDAD 2551 2566	derrame pleural
+T134	ENFERMEDAD 3298 3327	aneurismática de raíz aórtica
+T135	ENFERMEDAD 3342 3354	endocarditis
+T136	ENFERMEDAD 3811 3871	fiebre de origen desconocido de posible etiología infecciosa
+T137	ENFERMEDAD 4339 4345	anemia
+T138	ENFERMEDAD 4347 4359	leucocitosis
+T139	ENFERMEDAD 4361 4374	trombocitosis
+T140	ENFERMEDAD 4430 4451	enfermedad neoplásica
+T141	PACIENTE-PROFESION 377 412	Trabajó en plantaciones algodoneras

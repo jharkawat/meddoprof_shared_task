@@ -1,0 +1,10 @@
+
+Antecedentes	O
+personales	O
+:	O
+embarazo	O
+y	O
+parto	O
+sin	O
+incidencias	O
+.	O

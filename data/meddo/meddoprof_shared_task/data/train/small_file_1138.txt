@@ -1,0 +1,19 @@
+
+Permanece	O
+durante	O
+4	O
+días	O
+ingresada	O
+,	O
+en	O
+UCOR	O
+(	O
+Unidad	O
+Coronaria	O
+)	O
+,	O
+hemodinámicamente	O
+estable	O
+y	O
+asintomática	O
+.	O

@@ -1,0 +1,16 @@
+
+Acude	O
+acompañada	O
+de	O
+su	O
+familia	O
+(	O
+marido	O
+,	O
+hijo	O
+,	O
+y	O
+sus	O
+padres	O
+)	O
+.	O

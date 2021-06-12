@@ -1,0 +1,19 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+antibiótico	O
+empírico	O
+,	O
+corticoides	O
+sistémicos	O
+,	O
+fluidoterapia	O
+y	O
+Oxigeno	O
+por	O
+posible	O
+infección	O
+respiratoria	O
+.	O

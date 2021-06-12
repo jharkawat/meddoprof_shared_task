@@ -1,0 +1,18 @@
+
+La	O
+afectación	O
+cognitiva	O
+es	O
+,	O
+al	O
+menos	O
+,	O
+una	O
+de	O
+las	O
+áreas	O
+más	O
+deterioradas	O
+del	O
+paciente	O
+.	O

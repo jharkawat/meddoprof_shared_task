@@ -1,0 +1,7 @@
+
+Cuello	O
+:	O
+no	O
+ingurgitación	O
+yugular	O
+.	O

@@ -1,0 +1,16 @@
+
+13000	O
+leucos	O
+,	O
+Hb	O
+13	O
+.	O
+6	O
+,	O
+palquetas	O
+132000	O
+,	O
+Creatinina	O
+0	O
+.	O
+81	O

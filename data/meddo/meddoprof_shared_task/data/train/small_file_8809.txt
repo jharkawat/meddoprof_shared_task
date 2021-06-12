@@ -1,0 +1,15 @@
+
+Hepatoesplenomegalia	O
+con	O
+irregular	O
+distribución	O
+del	O
+radiotrazador	O
+,	O
+sin	O
+que	O
+se	O
+delimiten	O
+focos	O
+hipermetabólicos	O
+.	O

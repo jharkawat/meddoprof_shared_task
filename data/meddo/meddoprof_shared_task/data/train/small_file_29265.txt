@@ -1,0 +1,10 @@
+
+Agresividad	O
+verbal	O
+y	O
+dificultad	O
+para	O
+contener	O
+al	O
+paciente	O
+.	O

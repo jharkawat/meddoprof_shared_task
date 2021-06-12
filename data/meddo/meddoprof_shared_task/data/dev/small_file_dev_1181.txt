@@ -1,0 +1,6 @@
+
+No	O
+presentaba	O
+heteroagresividad	O
+manifiesta	O
+.	O

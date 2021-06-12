@@ -1,0 +1,12 @@
+
+Su	O
+presión	O
+arterial	O
+de	O
+la	O
+era	O
+normal	O
+para	O
+su	O
+edad	O
+.	O

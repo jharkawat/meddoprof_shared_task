@@ -1,0 +1,17 @@
+
+Es	O
+traído	O
+a	O
+urgencias	O
+de	O
+nuestro	O
+hospital	O
+en	O
+ambulancia	O
+medicalizada	O
+,	O
+siendo	O
+necesaria	O
+su	O
+sedación	O
+.	O

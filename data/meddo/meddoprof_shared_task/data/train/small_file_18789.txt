@@ -1,0 +1,12 @@
+
+Se	O
+precisó	O
+una	O
+desintoxicación	O
+hospitalaria	O
+dada	O
+su	O
+falta	O
+de	O
+apoyos	O
+.	O

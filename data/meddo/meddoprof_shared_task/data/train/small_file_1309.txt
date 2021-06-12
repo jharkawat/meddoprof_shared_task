@@ -1,0 +1,21 @@
+
+Se	O
+realizó	O
+colonoscopia	O
+de	O
+control	O
+a	O
+los	O
+12	O
+días	O
+de	O
+ingreso	O
+en	O
+la	O
+que	O
+persistían	O
+las	O
+alteraciones	O
+anteriormente	O
+descritas	O
+.	O

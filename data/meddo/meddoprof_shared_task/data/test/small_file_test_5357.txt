@@ -1,0 +1,8 @@
+
+No	O
+había	O
+leucocitosis	O
+en	O
+la	O
+analítica	O
+.	O

@@ -1,0 +1,22 @@
+
+Exploramos	O
+entonces	O
+al	O
+paciente	O
+,	O
+cuyo	O
+aspecto	O
+era	O
+ligeramente	O
+desaliñado	O
+,	O
+aunque	O
+se	O
+mostraba	O
+eutímico	O
+y	O
+con	O
+un	O
+afecto	O
+adecuado	O
+.	O

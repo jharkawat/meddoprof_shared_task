@@ -1,0 +1,12 @@
+
+Madre	O
+de	O
+tres	O
+hijos	O
+independizados	O
+,	O
+con	O
+buen	O
+soporte	O
+familiar	O
+.	O

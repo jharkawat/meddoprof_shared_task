@@ -1,0 +1,12 @@
+
+En	O
+tratamiento	O
+crónico	O
+con	O
+ácido	O
+acetilsalicílico	O
+,	O
+omeprazol	O
+y	O
+atorvastatina	O
+.	O

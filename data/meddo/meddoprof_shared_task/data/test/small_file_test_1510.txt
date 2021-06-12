@@ -1,0 +1,14 @@
+
+Se	O
+tomaron	O
+nuevos	O
+registros	O
+clínicos	O
+y	O
+fotográficos	O
+10	O
+meses	O
+tras	O
+la	O
+intervención	O
+.	O

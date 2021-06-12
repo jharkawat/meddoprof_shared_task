@@ -1,0 +1,21 @@
+
+Además	O
+,	O
+la	O
+clínica	O
+de	O
+disuria	O
+que	O
+el	O
+paciente	O
+presenta	O
+puede	O
+relacionarse	O
+con	O
+una	O
+posible	O
+tuberculosis	O
+renal	O
+o	O
+genital	O
+.	O

@@ -1,0 +1,39 @@
+Motivo de consulta
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: varón de 15 años, con los siguientes antecedentes:
+No antecedentes familiares de interés.
+No alergias medicamentosas conocidas.
+No factores de riesgo cardiovascular: No HTA, no DM, no DLP.
+No otras enfermedades de interés. No intervenciones quirúrgicas. No realiza tratamiento activo.
+
+El paciente acude acompañado por su madre al servicio de Urgencias del Hospital Juan Ramón Jiménez (Huelva) derivado desde su centro de salud refiriendo presentar orinas de color anaranjado de 3-4 días de evolución. También comenta dolor en hipocondrio izquierdo en los días previos, no presente en el momento de la consulta. Astenia de dos semanas de evolución asociada a sensación febril no termometrada en días anteriores. No síntomas miccionales. No diarrea ni estreñimiento. No acolia. Refiere un vómito aislado la noche anterior. No fiebre. No consumo de alimentos de riesgo. Niega consumo de tóxicos y medicamentos.
+
+Exploración física: buen estado general, consciente, orientado y colaborador. Normohidratado y normoperfundido. Leve ictericia cutáneo-mucosa y conjuntival. Eupneico en reposo.
+TA: 135/73
+SO2: 99%
+Ta: 38.2oC
+FC: 102 lpm
+- ACP: Tonos rítmicos a buena frecuencia, sin soplos, roces ni extratonos. MVC sin ruidos patológicos.
+- Abdomen blando, depresible, levemente doloroso a la palpación en hipocondrio izquierdo, sin signos de defensa abdominal ni de irritación peritoneal. Signo de Murphy y Blumberg negativos. Puño percusión bilateral negativa. No se palpan hernias, masas ni megalias. Ruidos hidroaéreos presentes.
+- Neurológico: PINLA. MOEC. Pares craneales conservados. Fuerza y sensibilidad conservadas. No alteraciones de la marcha. No signos meníngeos. No se observan signos de focalidad neurológica. Pruebas complementarias
+- Rx de abdomen: líneas del psoas visibles. Heces y gas en marco cólico. Gas en ampolla rectal. No imagen radiológica sugestiva de niveles hidroaéreos.
+- Analítica: Leucocitosis de 17430 con linfocitosis del 73.1% y monocitosis de 11.9%; Bilirrubina total de 3.26 (bb directa 2.52, bb indirecta 0.74); LDH de 717; AST 309; ALT 377; En orina, bilirrubina y uribilinógeno +.
+
+Enfoque familiar y comunitario
+Varón de 15 años, sin antecedentes personales ni familiares de interés. Vive con sus padres en una zona humilde de la ciudad de Huelva. Su madre trabaja en una empresa como limpiadora y su padre es jornalero. No tiene hermanos. Buen soporte familiar. Nivel socio-cultural medio-bajo. Debido a la ausencia de situaciones clínicas de interés hasta el momento, no realiza seguimiento médico activo.
+
+Plan de acción y evolución
+Dados los datos clínicos y analíticos comentados previamente, se decide ampliar la analítica solicitando FA, PCR, VHC, VHB, VIH, GGT y se solicita ecografía de abdomen.
+De los parámetros ampliados, lo único a destacar es una GGT de 250. La serología de los virus solicitados fue negativa. En la ecografía de abdomen se objetivó como único hallazgo significativo una esplenomegalia leve y homogénea (135mm).
+En este contexto, y analizando los datos obtenidos en las pruebas solicitadas, es importante realizar un diagnóstico diferencial entre varias entidades patológicas.
+En primer lugar, los datos de fiebre, dolor en hipocondrio derecho, ictericia, leucocitosis e hiperbilirrubinemia a expensas de bilirrubina directa, podría hacernos sospechar un cuadro biliar, como una colecistitis. Sin embargo, en el contexto de un cuadro de esta índole se habría hallado muy probablemente en la ecografía una imagen compatible con litiasis biliar y Murphy ecográfico positivo.
+Por otro lado, los mismos hallazgos analíticos mencionados previamente, sumados a la coluria y al aumento de GGT podrían orientarnos a un cuadro de coledocolitiasis/colangitis. Sin embargo, en este contexto lo lógico sería haber encontrado también datos analíticos como la FA elevada (enzima de colestasis) e imágenes ecográficas de dilatación de la vía biliar extrahepática o imagen de cálculo a nivel del colédoco.
+Finalmente, y teniendo en cuenta la exploración física con dolor en hipocondrio izquierdo y derecho, fiebre, ictericia, la leucocitosis con linfomonocitosis en análisis solicitados, junto con la hiperbilirrubinemia y esplenomegalia leve sin afectación de la vía biliar objetivada mediante ecografía, se propone como diagnóstico más probable el de Mononucleosis Infecciosa (si bien están ausentes signos y síntomas como faringitis y adenopatías típicas de dicha enfermedad).
+De este modo, ante los hallazgos clínicos, analíticos y en las pruebas de imagen solicitadas, se decide finalmente ampliar los anticuerpos heterófilos en la analítica, que resultan ser positivos.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Mononucleosis Infecciosa por Virus de Epstein Barr de presentación atípica.
+
+Plan de acción y evolución en urgencias
+Durante su estancia en el Servicio de Urgencias, el paciente se encontró asintomático, acompañado por su madre en todo momento y sin presentar eventos adversos de interés. Fue dado de alta con tratamiento domiciliario de paracetamol 650mg cada 8 horas si fiebre y reposo relativo durante al menos un mes, con control clínico y analítico por su médico de atención primaria para objetivar normalización analítica posterior, además de abundante hidratación e indicaciones por las que deberían volver a consultar al Servicio de Urgencias.

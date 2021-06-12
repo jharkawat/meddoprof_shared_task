@@ -1,0 +1,283 @@
+T1	SINTOMA 298 304	fiebre
+T2	SINTOMA 599 615	sensación febril
+T3	SINTOMA 642 657	pérdida de peso
+T4	SINTOMA 706 718	linfocitosis
+T5	SINTOMA 877 883	fiebre
+T6	SINTOMA 885 900	pérdida de peso
+T7	SINTOMA 1170 1176	fiebre
+T8	SINTOMA 1297 1303	febril
+T9	SINTOMA 1450 1475	ruidos cardiacos rítmicos
+T10	SINTOMA 1480 1495	soplos audibles
+T11	SINTOMA 1501 1530	murmullo vesicular conservado
+T12	SINTOMA 1571 1594	molestia en hipocondrio
+T13	SINTOMA 1634 1649	visceromegalias
+T14	SINTOMA 2114 2134	hipertransaminasemia
+T15	SINTOMA 2327 2338	proteinuria
+T16	SINTOMA 3129 3135	fiebre
+T17	SINTOMA 3499 3505	fiebre
+T18	SINTOMA 3578 3593	dolor abdominal
+T19	SINTOMA 3636 3650	esplenomegalia
+T20	SINTOMA 4127 4133	fiebre
+T21	SINTOMA 4136 4151	pérdida de peso
+T22	SINTOMA 4483 4489	fiebre
+T23	SINTOMA 4820 4826	fiebre
+T24	SINTOMA 4829 4844	pérdida de peso
+T25	SINTOMA 5241 5247	fiebre
+T26	SINTOMA 5249 5258	debilidad
+T27	SINTOMA 5260 5275	pérdida de peso
+T28	SINTOMA 5312 5332	hepatoesplenomegalia
+T29	SINTOMA 6028 6034	fiebre
+T30	SINTOMA 7015 7021	fiebre
+T31	SINTOMA 7097 7108	neutropenia
+T32	SINTOMA 7584 7590	fiebre
+T33	SINTOMA 7673 7693	hepatoesplenomegalia
+T34	SINTOMA 7910 7916	fiebre
+T35	SINTOMA 7918 7935	ferritina elevada
+T36	SINTOMA 7938 7952	esplenomegalia
+T37	SINTOMA 8176 8190	fiebre elevada
+T38	SINTOMA 8211 8228	ferritina elevada
+T39	SINTOMA 8251 8265	esplenomegalia
+T40	SINTOMA 8280 8290	citopenias
+T41	SINTOMA 9049 9055	febril
+T42	PROCEDIMIENTO 1032 1051	ecografía abdominal
+T43	PROCEDIMIENTO 1054 1074	estudio de celiaquía
+T44	PROCEDIMIENTO 1406 1433	auscultación cardiopulmonar
+T45	PROCEDIMIENTO 1537 1556	palpación abdominal
+T46	PROCEDIMIENTO 1803 1823	radiografía de tórax
+T47	PROCEDIMIENTO 1832 1851	ecografía abdominal
+T48	PROCEDIMIENTO 1887 1896	hemograma
+T49	PROCEDIMIENTO 2842 2854	hemocultivos
+T50	PROCEDIMIENTO 2867 2881	cultivo de LCR
+T51	PROCEDIMIENTO 2883 2905	baciloscopia de esputo
+T52	PROCEDIMIENTO 2923 2947	prueba de la tuberculina
+T53	PROCEDIMIENTO 3004 3031	tratamiento antirretroviral
+T54	PROCEDIMIENTO 3178 3190	hemocultivos
+T55	PROCEDIMIENTO 3227 3244	fibrobroncoscopia
+T56	PROCEDIMIENTO 3263 3275	fondo de ojo
+T57	PROCEDIMIENTO 3278 3326	tomografía computarizada (TC) de tórax y abdomen
+T58	PROCEDIMIENTO 3332 3345	baciloscopias
+T59	PROCEDIMIENTO 3376 3393	fibrobroncoscopia
+T60	PROCEDIMIENTO 3420 3432	fondo de ojo
+T61	PROCEDIMIENTO 3601 3613	TC abdominal
+T62	PROCEDIMIENTO 4678 4699	TC de tórax y abdomen
+T63	PROCEDIMIENTO 6780 6807	tratamiento con corticoides
+T64	PROCEDIMIENTO 8817 8899	punción aspiración con aguja fina (PAAF) de una adenopatía submandibular izquierda
+T65	PROCEDIMIENTO 8915 8927	baciloscopia
+T66	PROCEDIMIENTO 8981 8999	biopsia quirúrgica
+T67	PROCEDIMIENTO 9291 9313	biopsia de médula ósea
+T68	PROCEDIMIENTO 9579 9604	estudio anatomopatológico
+T69	PROCEDIMIENTO 9611 9629	biopsia ganglionar
+T70	NEG 116 118	No
+T71	NSCO 119 153	presentaba alergias medicamentosas
+T72	NEG 505 514	negativos
+T73	NSCO 515 561	en su última revisión previa al viaje a España
+T74	NEG 616 618	no
+T75	NSCO 619 631	termometrada
+T76	NEG 1356 1359	sin
+T77	NSCO 1360 1399	lesiones cutáneo-mucosas ni adenopatías
+T78	NEG 1476 1479	sin
+T79	NSCO 1480 1495	soplos audibles
+T80	NEG 1603 1606	sin
+T81	NSCO 1607 1614	defensa
+T82	NEG 1617 1619	no
+T83	NSCO 1620 1649	se apreciaron visceromegalias
+T84	NEG 1678 1680	no
+T85	NSCO 1681 1719	demostró otras alteraciones reseñables
+T86	NEG 1852 1854	no
+T87	NSCO 1855 1879	presentaban alteraciones
+T88	NEG 2348 2350	no
+T89	NSCO 2351 2380	nefrótico con hipoalbuminemia
+T90	NEG 2692 2701	negativas
+T91	NSCO 2702 2732	las siguientes determinaciones
+T92	NEG 3401 3410	negativas
+T93	NEG 3433 3435	no
+T94	NSCO 3436 3470	se apreciaron tubérculos coroideos
+T95	NEG 3699 3701	no
+T96	NSCO 3702 3711	quísticas
+T97	UNC 3754 3769	compatibles con
+T98	USCO 3770 3783	microabscesos
+T99	NEG 4503 4505	no
+T100	NSCO 4506 4508	se
+T101	UNC 4509 4528	podría descartar de
+T102	USCO 4529 4591	inicio en este paciente la posibilidad de una neoplasia sólida
+T103	NEG 4718 4728	descartada
+T104	UNC 4906 4915	puede dar
+T105	USCO 4916 4961	lesiones esplénicas que simulan microabscesos
+T106	UNC 5111 5117	habría
+T107	USCO 5118 5175	que plantear la posibilidad de la enfermedad de Castleman
+T108	UNC 5817 5822	puede
+T109	USCO 5823 5917	provocar lesiones esplénicas que pueden confundirse con microabscesos en las pruebas de imagen
+T110	NEG 5922 5933	ausencia de
+T111	NSCO 5934 5992	lesiones cutáneas típicas irían en contra de dicha entidad
+T112	UNC 6573 6578	puede
+T113	USCO 6579 6645	provocar lesiones esplénicas en pacientes con infección por el VIH
+T114	NSCO 6732 6844	concurran otros factores predisponentes como el tratamiento con corticoides o la presencia de neutropenia severa
+T115	UNC 7121 7130	sería muy
+T116	USCO 7131 7135	poco
+T117	UNC 7136 7144	probable
+T118	USCO 7145 7171	en el caso que presentamos
+T119	NEG 7305 7307	no
+T120	NSCO 7308 7348	presentaba las lesiones cutáneas típicas
+T121	UNC 7715 7728	sugestivas de
+T122	USCO 7729 7771	microabscesos a nivel hepático y esplénico
+T123	UNC 7784 7789	sería
+T124	USCO 7790 7833	la entidad más probable en nuestro paciente
+T125	UNC 7954 7960	habría
+T126	USCO 7961 8023	que tener en cuenta la presencia de un síndrome hemofagocítico
+T127	UNC 8029 8034	puede
+T128	USCO 8035 8101	presentarse de forma idiopática o asociada a tumores o infecciones
+T129	NEG 8928 8936	negativa
+T130	NEG 9277 9279	No
+T131	NSCO 9280 9356	se realizó biopsia de médula ósea para confirmar o descartar hemofagocitosis
+T132	NEG 9736 9745	negativos
+T133	NEG 9747 9750	sin
+T134	NSCO 9751 9812	hallazgos sugestivos de linfoma ni de enfermedad de Castleman
+T135	FARMACO 3062 3073	raltegravir
+T136	FARMACO 3075 3088	emtricitabina
+T137	FARMACO 3091 3100	tenofovir
+T138	FARMACO 6432 6443	pentamidina
+T139	FARMACO 8754 8765	rifampicina
+T140	FARMACO 8767 8779	pirazinamida
+T141	FARMACO 8781 8790	etambutol
+T142	FARMACO 9509 9523	estreptomicina
+T143	FARMACO 9525 9536	rifampicina
+T144	FARMACO 9538 9550	pirazinamida
+T145	FARMACO 9552 9562	isoniazida
+T146	FARMACO 9565 9574	etambutol
+T147	ORG_VIVO 26 31	varón
+T148	ORG_VIVO 74 84	estudiante
+T149	ORG_VIVO 205 211	tabaco
+T150	ORG_VIVO 274 282	infancia
+T151	ORG_VIVO 389 397	paciente
+T152	ORG_VIVO 476 479	VHB
+T153	ORG_VIVO 481 484	VHC
+T154	ORG_VIVO 493 496	VIH
+T155	ORG_VIVO 963 966	VIH
+T156	ORG_VIVO 968 971	VHB
+T157	ORG_VIVO 973 976	VHC
+T158	ORG_VIVO 1011 1021	Plasmodium
+T159	ORG_VIVO 1206 1209	VIH
+T160	ORG_VIVO 1281 1289	paciente
+T161	ORG_VIVO 2492 2497	viral
+T162	ORG_VIVO 2513 2516	VIH
+T163	ORG_VIVO 2638 2641	VHB
+T164	ORG_VIVO 2675 2680	viral
+T165	ORG_VIVO 2749 2752	VHC
+T166	ORG_VIVO 2755 2759	lúes
+T167	ORG_VIVO 2770 2782	criptocócico
+T168	ORG_VIVO 2805 2815	Plasmodium
+T169	ORG_VIVO 2883 2895	baciloscopia
+T170	ORG_VIVO 2936 2947	tuberculina
+T171	ORG_VIVO 3016 3031	antirretroviral
+T172	ORG_VIVO 3054 3057	VHB
+T173	ORG_VIVO 3196 3209	micobacterias
+T174	ORG_VIVO 3332 3345	baciloscopias
+T175	ORG_VIVO 3475 3483	paciente
+T176	ORG_VIVO 3960 3965	árbol
+T177	ORG_VIVO 4051 4059	paciente
+T178	ORG_VIVO 4254 4259	árbol
+T179	ORG_VIVO 4323 4331	paciente
+T180	ORG_VIVO 4544 4552	paciente
+T181	ORG_VIVO 5020 5028	paciente
+T182	ORG_VIVO 5534 5541	cebolla
+T183	ORG_VIVO 5613 5622	pacientes
+T184	ORG_VIVO 5731 5736	HHV-8
+T185	ORG_VIVO 6081 6089	paciente
+T186	ORG_VIVO 6147 6166	agentes infecciosos
+T187	ORG_VIVO 6374 6388	microorganismo
+T188	ORG_VIVO 6394 6403	pacientes
+T189	ORG_VIVO 6611 6620	pacientes
+T190	ORG_VIVO 6706 6714	paciente
+T191	ORG_VIVO 7053 7062	pacientes
+T192	ORG_VIVO 7296 7304	paciente
+T193	ORG_VIVO 7399 7413	microorganismo
+T194	ORG_VIVO 7482 7490	paciente
+T195	ORG_VIVO 7519 7545	Mycobacterium tuberculosis
+T196	ORG_VIVO 7825 7833	paciente
+T197	ORG_VIVO 8733 8749	tuberculostático
+T198	ORG_VIVO 8915 8927	baciloscopia
+T199	ORG_VIVO 9016 9024	paciente
+T200	ORG_VIVO 9367 9375	paciente
+T201	ORG_VIVO 9460 9473	micobacterias
+T202	ORG_VIVO 9481 9496	M. tuberculosis
+T203	ORG_VIVO 9858 9863	HHV-8
+T204	ORG_VIVO 9983 9991	paciente
+T205	ORG_VIVO 10040 10045	HHV-8
+T206	ENFERMEDAD 194 222	fumador de tabaco esporádico
+T207	ENFERMEDAD 286 295	paludismo
+T208	ENFERMEDAD 298 313	fiebre tifoidea
+T209	ENFERMEDAD 351 384	infecciones de transmisión sexual
+T210	ENFERMEDAD 697 703	anemia
+T211	ENFERMEDAD 706 718	linfocitosis
+T212	ENFERMEDAD 770 785	síndrome gripal
+T213	ENFERMEDAD 812 836	Enfermedades Infecciosas
+T214	ENFERMEDAD 903 909	anemia
+T215	ENFERMEDAD 1206 1209	VIH
+T216	ENFERMEDAD 1360 1384	lesiones cutáneo-mucosas
+T217	ENFERMEDAD 1388 1399	adenopatías
+T218	ENFERMEDAD 1911 1929	anemia normocítica
+T219	ENFERMEDAD 2365 2380	hipoalbuminemia
+T220	ENFERMEDAD 2972 2992	infección por el VIH
+T221	ENFERMEDAD 3519 3547	adenopatías laterocervicales
+T222	ENFERMEDAD 3770 3783	microabscesos
+T223	ENFERMEDAD 3821 3938	adenopatías necrosadas de tamaño patológico, principalmente a nivel supraclavicular derecho, hiliares y mediastínicas
+T224	ENFERMEDAD 3969 4000	brote en el parénquima pulmonar
+T225	ENFERMEDAD 4091 4111	infección por el VIH
+T226	ENFERMEDAD 4163 4206	esplenomegalia con microabscesos esplénicos
+T227	ENFERMEDAD 4218 4294	adenopatías diseminadas y patrón de árbol en brote en el parénquima pulmonar
+T228	ENFERMEDAD 4449 4467	Neoplasias sólidas
+T229	ENFERMEDAD 4575 4591	neoplasia sólida
+T230	ENFERMEDAD 4756 4779	adenopatías patológicas
+T231	ENFERMEDAD 4889 4896	linfoma
+T232	ENFERMEDAD 4916 4935	lesiones esplénicas
+T233	ENFERMEDAD 4974 4996	adenopatías necrosadas
+T234	ENFERMEDAD 5080 5110	trastornos linfoproliferativos
+T235	ENFERMEDAD 5152 5175	enfermedad de Castleman
+T236	ENFERMEDAD 5284 5295	adenopatías
+T237	ENFERMEDAD 5312 5332	hepatoesplenomegalia
+T238	ENFERMEDAD 5627 5647	infección por el VIH
+T239	ENFERMEDAD 5683 5729	infección activa por herpesvirus humano tipo 8
+T240	ENFERMEDAD 5794 5811	sarcoma de Kaposi
+T241	ENFERMEDAD 5832 5851	lesiones esplénicas
+T242	ENFERMEDAD 5934 5951	lesiones cutáneas
+T243	ENFERMEDAD 5994 6005	Infecciones
+T244	ENFERMEDAD 6036 6047	adenopatías
+T245	ENFERMEDAD 6050 6074	microabscesos esplénicos
+T246	ENFERMEDAD 6094 6114	infección por el VIH
+T247	ENFERMEDAD 6223 6270	infección diseminada por Pneumocystis jirovecii
+T248	ENFERMEDAD 6286 6305	abscesos esplénicos
+T249	ENFERMEDAD 6349 6388	neumonía severa por este microorganismo
+T250	ENFERMEDAD 6526 6566	infección diseminada por Aspergillus spp
+T251	ENFERMEDAD 6588 6607	lesiones esplénicas
+T252	ENFERMEDAD 6625 6645	infección por el VIH
+T253	ENFERMEDAD 6826 6844	neutropenia severa
+T254	ENFERMEDAD 6937 7005	candidiasis hepatoesplénica cursa con microabscesos en hígado y bazo
+T255	ENFERMEDAD 7097 7108	neutropenia
+T256	ENFERMEDAD 7210 7254	angiomatosis bacilar por Bartonella henselae
+T257	ENFERMEDAD 7323 7340	lesiones cutáneas
+T258	ENFERMEDAD 7454 7478	microabscesos esplénicos
+T259	ENFERMEDAD 7495 7545	infección por el VIH es Mycobacterium tuberculosis
+T260	ENFERMEDAD 7550 7579	tuberculosis diseminada cursa
+T261	ENFERMEDAD 7593 7604	adenopatías
+T262	ENFERMEDAD 7673 7693	hepatoesplenomegalia
+T263	ENFERMEDAD 7729 7771	microabscesos a nivel hepático y esplénico
+T264	ENFERMEDAD 7938 7952	esplenomegalia
+T265	ENFERMEDAD 8000 8023	síndrome hemofagocítico
+T266	ENFERMEDAD 8056 8066	idiopática
+T267	ENFERMEDAD 8090 8101	infecciones
+T268	ENFERMEDAD 8251 8265	esplenomegalia
+T269	ENFERMEDAD 8280 8290	citopenias
+T270	ENFERMEDAD 8388 8408	hipertrigliceridemia
+T271	ENFERMEDAD 8432 8450	hipofibrinogenemia
+T272	ENFERMEDAD 8472 8531	hemofagocitosis (en médula ósea, bazo o ganglios linfáticos
+T273	ENFERMEDAD 8865 8889	adenopatía submandibular
+T274	ENFERMEDAD 9341 9356	hemofagocitosis
+T275	ENFERMEDAD 9484 9496	tuberculosis
+T276	ENFERMEDAD 9640 9679	linfadenitis granulomatosa necrotizante
+T277	ENFERMEDAD 9775 9782	linfoma
+T278	ENFERMEDAD 9789 9812	enfermedad de Castleman
+T279	ENFERMEDAD 9907 9930	Tuberculosis diseminada
+T280	ENFERMEDAD 9935 9978	afectación esplénica, pulmonar y ganglionar
+T281	ENFERMEDAD 9996 10016	infección por el VIH
+T282	ENFERMEDAD 10018 10045	Coinfección por VHB y HHV-8
+T283	PACIENTE-SITUACION_LABORAL 74 84	estudiante

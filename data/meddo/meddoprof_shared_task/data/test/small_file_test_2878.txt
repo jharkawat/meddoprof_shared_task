@@ -1,0 +1,8 @@
+
+Factor	O
+reumatoide	O
+normal	O
+y	O
+ANA	O
+negativo	O
+.	O

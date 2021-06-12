@@ -1,0 +1,20 @@
+
+Ella	O
+sigue	O
+ejerciendo	O
+y	O
+relata	O
+que	O
+cuando	O
+canta	O
+siente	O
+que	O
+la	O
+voz	O
+"	O
+no	O
+rinde	O
+"	O
+como	O
+siempre	O
+.	O

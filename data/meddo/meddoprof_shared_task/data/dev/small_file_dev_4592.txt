@@ -1,0 +1,9 @@
+
+Hora	O
+de	O
+Termino	O
+:	O
+10	O
+:	O
+00	O
+hrs	O

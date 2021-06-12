@@ -1,0 +1,10 @@
+
+No	O
+se	O
+observa	O
+dilatación	O
+de	O
+vías	O
+excretoras	O
+urinarias	O
+.	O

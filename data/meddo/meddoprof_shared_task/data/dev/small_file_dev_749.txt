@@ -1,0 +1,21 @@
+
+Previamente	O
+,	O
+se	O
+había	O
+empleado	O
+olanzapina	O
+oral	O
+hasta	O
+30	O
+mg	O
+con	O
+abandono	O
+precoz	O
+de	O
+la	O
+misma	O
+por	O
+incremento	O
+ponderal	O
+.	O

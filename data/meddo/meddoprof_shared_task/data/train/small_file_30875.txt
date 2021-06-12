@@ -1,0 +1,22 @@
+
+En	O
+ese	O
+momento	O
+está	O
+a	O
+tratamiento	O
+con	O
+flufenazina	O
+75	O
+mg	O
+im	O
+/	O
+14	O
+d	O
++	O
+olanzapina	O
+40	O
+mg	O
+/	O
+d	O
+.	O

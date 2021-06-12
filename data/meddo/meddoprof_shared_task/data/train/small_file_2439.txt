@@ -1,0 +1,9 @@
+
+En	O
+la	O
+auscultación	O
+pulmonar	O
+no	O
+presenta	O
+broncoespasmo	O
+.	O

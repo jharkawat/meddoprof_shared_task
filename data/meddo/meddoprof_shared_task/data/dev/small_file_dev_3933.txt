@@ -1,0 +1,5 @@
+
+-	O
+Trastorno	O
+bipolar	O
+.	O

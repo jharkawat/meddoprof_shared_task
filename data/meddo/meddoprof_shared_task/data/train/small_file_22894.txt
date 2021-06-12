@@ -1,0 +1,10 @@
+
+No	O
+se	O
+objetivan	O
+alteraciones	O
+electroencefalográficas	O
+de	O
+naturaleza	O
+comicial	O
+.	O

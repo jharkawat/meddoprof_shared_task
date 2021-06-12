@@ -1,0 +1,10 @@
+
+Sin	O
+náuseas	O
+,	O
+vómitos	O
+,	O
+sono	O
+o	O
+fotofobia	O
+.	O

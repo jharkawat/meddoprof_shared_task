@@ -1,0 +1,11 @@
+
+Diagnóstico	O
+:	O
+F25	O
+.	O
+0	O
+trastorno	O
+esquizoafectivo	O
+tipo	O
+bipolar	O
+.	O

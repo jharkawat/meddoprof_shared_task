@@ -1,0 +1,25 @@
+
+Las	O
+recaídas	O
+son	O
+frecuentes	O
+por	O
+las	O
+difi	O
+cultades	O
+del	O
+paciente	O
+para	O
+reconocer	O
+el	O
+trastorno	O
+,	O
+difi	O
+cultándose	O
+la	O
+adherencia	O
+y	O
+el	O
+abordaje	O
+terapéutico	O
+.	O

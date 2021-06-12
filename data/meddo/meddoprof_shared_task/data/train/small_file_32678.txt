@@ -1,0 +1,15 @@
+
+No	O
+se	O
+objetiva	O
+desviación	O
+de	O
+línea	O
+media	O
+ni	O
+signos	O
+de	O
+sangrado	O
+agudo	O
+intracraneal	O
+.	O

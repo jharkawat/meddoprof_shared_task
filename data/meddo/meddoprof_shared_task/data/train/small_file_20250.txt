@@ -1,0 +1,7 @@
+
+Padres	O
+separados	O
+hace	O
+8	O
+años	O
+.	O

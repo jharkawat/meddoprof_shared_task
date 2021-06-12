@@ -1,0 +1,23 @@
+
+Asimismo	O
+se	O
+le	O
+puso	O
+en	O
+contacto	O
+con	O
+los	O
+recursos	O
+asistenciales	O
+de	O
+drogas	O
+,	O
+y	O
+se	O
+recomendó	O
+valoración	O
+orgánica	O
+por	O
+su	O
+MAP	B-PROFESION
+.	O

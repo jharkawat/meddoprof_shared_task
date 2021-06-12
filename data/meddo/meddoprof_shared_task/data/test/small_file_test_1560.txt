@@ -1,0 +1,21 @@
+
+En	O
+cuanto	O
+a	O
+su	O
+historia	O
+médica	O
+presenta	O
+una	O
+tiroiditis	O
+crónica	O
+autoinmune	O
+y	O
+por	O
+tanto	O
+,	O
+sin	O
+necesidad	O
+de	O
+tratamiento	O
+.	O

@@ -1,0 +1,27 @@
+
+Posteriormente	O
+,	O
+desde	O
+hace	O
+2	O
+días	O
+,	O
+presenta	O
+en	O
+dorso	O
+del	O
+segundo	O
+dedo	O
+de	O
+la	O
+mano	O
+contralateral	O
+una	O
+lesión	O
+parecida	O
+,	O
+pero	O
+de	O
+menor	O
+tamaño	O
+.	O

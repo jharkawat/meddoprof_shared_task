@@ -1,0 +1,16 @@
+
+Era	O
+una	O
+persona	O
+bisexual	O
+que	O
+no	O
+siempre	O
+utilizaba	O
+métodos	O
+de	O
+barrera	O
+en	O
+sus	O
+relaciones	O
+.	O

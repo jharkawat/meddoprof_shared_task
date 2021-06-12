@@ -1,0 +1,18 @@
+
+Se	O
+retiraron	O
+las	O
+sales	O
+de	O
+litio	O
+por	O
+nefropatía	O
+secundaria	O
+a	O
+diabetes	O
+insípida	O
+,	O
+instaurándose	O
+ácido	O
+valproico	O
+.	O

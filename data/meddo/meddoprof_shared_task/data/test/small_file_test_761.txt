@@ -1,0 +1,6 @@
+
+Presenta	O
+una	O
+salivación	O
+importante	O
+.	O

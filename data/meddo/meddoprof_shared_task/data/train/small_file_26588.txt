@@ -1,0 +1,19 @@
+
+Ésta	O
+no	O
+se	O
+atreve	O
+a	O
+plantear	O
+la	O
+separación	O
+por	O
+miedo	O
+a	O
+la	O
+posible	O
+reacción	O
+violenta	O
+del	O
+esposo	O
+.	O

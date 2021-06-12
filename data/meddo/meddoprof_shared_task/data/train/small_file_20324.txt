@@ -1,0 +1,9 @@
+
+Las	O
+conductas	O
+que	O
+presenta	O
+parecen	O
+enmarcarse	O
+dentro	O
+:	O

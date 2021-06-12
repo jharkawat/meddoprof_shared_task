@@ -1,0 +1,17 @@
+
+Ingesta	O
+hídrica	O
+más	O
+bien	O
+escasa	O
+,	O
+consume	O
+bebidas	O
+carbonatadas	O
+y	O
+energéticas	O
+en	O
+lugar	O
+de	O
+agua	O
+.	O

@@ -1,0 +1,7 @@
+
+Discurso	O
+fluido	O
+y	O
+bien	O
+estructurado	O
+.	O

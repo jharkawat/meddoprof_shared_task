@@ -1,0 +1,15 @@
+
+Cuando	O
+se	O
+le	O
+ponen	O
+pautas	O
+restrictivas	O
+,	O
+empieza	O
+a	O
+gritar	O
+de	O
+forma	O
+airada	O
+.	O

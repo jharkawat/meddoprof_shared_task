@@ -1,0 +1,23 @@
+
+Entre	O
+julio	O
+y	O
+octubre	O
+del	O
+2013	O
+se	O
+realiza	O
+radioterapia	O
+externa	O
+sobre	O
+el	O
+tumor	O
+y	O
+mediastino	O
+,	O
+60	O
+Gy	O
+en	O
+fraccionamiento	O
+estándar	O
+.	O

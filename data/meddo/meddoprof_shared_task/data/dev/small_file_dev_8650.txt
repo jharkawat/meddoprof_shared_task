@@ -1,0 +1,9 @@
+
+No	O
+ha	O
+vuelto	O
+a	O
+presentar	O
+sintomatología	O
+respiratoria	O
+.	O

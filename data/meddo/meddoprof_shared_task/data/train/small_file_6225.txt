@@ -1,0 +1,19 @@
+
+Evolución	O
+:	O
+la	O
+paciente	O
+acude	O
+15	O
+días	O
+después	O
+a	O
+la	O
+consulta	O
+,	O
+tras	O
+la	O
+realización	O
+de	O
+analítica	O
+.	O

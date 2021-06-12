@@ -1,0 +1,18 @@
+
+TTF	O
+-	O
+1	O
+positivo	O
+;	O
+ALK	O
+negativo	O
+;	O
+presencia	O
+de	O
+deleción	O
+del	O
+exón	O
+19	O
+de	O
+EGFR	O
+.	O

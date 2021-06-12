@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+no	O
+está	O
+anémica	O
+,	O
+por	O
+lo	O
+que	O
+descartamos	O
+un	O
+hemoperitoneo	O
+.	O

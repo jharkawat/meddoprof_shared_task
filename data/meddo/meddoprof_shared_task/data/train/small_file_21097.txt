@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+presenta	O
+un	O
+caso	O
+típico	O
+de	O
+delirium	O
+(	O
+F05	O
+)	O
+.	O

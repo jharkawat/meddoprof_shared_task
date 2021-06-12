@@ -1,0 +1,88 @@
+T1	SINTOMA 131 156	alteración en el lenguaje
+T2	SINTOMA 420 427	fumador
+T3	SINTOMA 469 476	bebedor
+T4	SINTOMA 653 660	vómitos
+T5	SINTOMA 676 693	despeño diarreico
+T6	SINTOMA 699 705	fiebre
+T7	SINTOMA 728 779	dolores generalizados a nivel de las articulaciones
+T8	SINTOMA 905 911	fiebre
+T9	SINTOMA 929 945	malestar general
+T10	SINTOMA 950 959	debilidad
+T11	SINTOMA 966 973	dolores
+T12	SINTOMA 1084 1109	dificultad en el lenguaje
+T13	SINTOMA 1140 1160	lentitud en el habla
+T14	SINTOMA 1162 1174	bradipsiquia
+T15	SINTOMA 1177 1186	debilidad
+T16	SINTOMA 1266 1272	febril
+T17	SINTOMA 1462 1468	soplos
+T18	SINTOMA 1475 1511	murmullo vesicular pulmonar presente
+T19	SINTOMA 1620 1626	alerta
+T20	SINTOMA 1628 1641	bradipsíquico
+T21	SINTOMA 1656 1679	orientado en el espacio
+T22	SINTOMA 2879 2884	edema
+T23	PROCEDIMIENTO 161 170	anamnesis
+T24	PROCEDIMIENTO 863 872	analgesia
+T25	PROCEDIMIENTO 875 887	antitérmicos
+T26	PROCEDIMIENTO 1189 1202	Examen físico
+T27	PROCEDIMIENTO 1209 1228	exploración general
+T28	PROCEDIMIENTO 1342 1364	Auscultación carotídea
+T29	PROCEDIMIENTO 1373 1405	Auscultación cardiorrespiratoria
+T30	PROCEDIMIENTO 1586 1609	Exploración neurológica
+T31	PROCEDIMIENTO 1740 1752	fondo de ojo
+T32	PROCEDIMIENTO 2180 2189	hemograma
+T33	PROCEDIMIENTO 2216 2233	gasometría venosa
+T34	PROCEDIMIENTO 2276 2290	Punción lumbar
+T35	PROCEDIMIENTO 2480 2512	Electroencefalografía de vigilia
+T36	PROCEDIMIENTO 2737 2757	Radiografía de tórax
+T37	PROCEDIMIENTO 2769 2795	TC de cráneo sin contraste
+T38	PROCEDIMIENTO 2936 2954	Angio-RM de cráneo
+T39	NEG 181 192	ausencia de
+T40	NSCO 193 229	alergias a sustancias medicamentosas
+T41	NEG 287 289	No
+T42	NSCO 290 354	refiere la toma de tratamientos farmacológicos de forma habitual
+T43	NEG 1458 1461	sin
+T44	NSCO 1462 1468	soplos
+T45	NEG 1830 1832	no
+T46	NSCO 1833 1842	afectados
+T47	NEG 1884 1886	No
+T48	NSCO 1887 1925	existen alteraciones a nivel sensitivo
+T49	NEG 2023 2025	no
+T50	NSCO 2026 2045	presenta dismetrías
+T51	NEG 2445 2447	no
+T52	NSCO 2448 2458	detectable
+T53	NSCO 2460 2467	Cultivo
+T54	NEG 2468 2476	negativo
+T55	UNC 2691 2705	compatible con
+T56	USCO 2706 2733	focalidad lesivo-irritativa
+T57	NEG 2782 2785	sin
+T58	NSCO 2786 2795	contraste
+T59	NEG 2861 2864	sin
+T60	NSCO 2865 2932	que se asocie edema, efecto masa o desplazamiento de la línea media
+T61	NEG 3040 3043	sin
+T62	NSCO 3044 3087	que se presente alteración adicional alguna
+T63	NEG 3549 3552	sin
+T64	NSCO 3553 3564	incidencias
+T65	NEG 3759 3768	inestable
+T66	FARMACO 3314 3325	enoxaparina
+T67	FARMACO 3409 3421	acenocumarol
+T68	FARMACO 3423 3432	omeprazol
+T69	FARMACO 3435 3450	ácido valproico
+T70	FARMACO 3700 3715	ácido valproico
+T71	ORG_VIVO 40 48	paciente
+T72	ORG_VIVO 53 58	varón
+T73	ORG_VIVO 1611 1619	paciente
+T74	ORG_VIVO 2014 2022	paciente
+T75	ORG_VIVO 2414 2419	viral
+T76	ORG_VIVO 2423 2426	CMV
+T77	ORG_VIVO 2428 2431	VEB
+T78	ORG_VIVO 2433 2437	VHS1
+T79	ORG_VIVO 2440 2444	VHS2
+T80	ORG_VIVO 3490 3496	tabaco
+T81	ORG_VIVO 3522 3530	paciente
+T82	ORG_VIVO 3648 3656	paciente
+T83	ENFERMEDAD 193 229	alergias a sustancias medicamentosas
+T84	ENFERMEDAD 1778 1812	Disfasia mixta de predominio motor
+T85	ENFERMEDAD 2956 2997	trombosis de la vena cortical superficial
+T86	ENFERMEDAD 3089 3120	Trombosis de la vena de Trolard
+T87	ENFERMEDAD 3135 3177	Trombosis de la vena anastomótica superior
+T88	ENFERMEDAD 3219 3227	etilismo

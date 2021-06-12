@@ -1,0 +1,6 @@
+
+Nódulos	O
+en	O
+pulmón	O
+derecho	O
+.	O

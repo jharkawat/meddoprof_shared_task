@@ -1,0 +1,23 @@
+
+Hipo	O
+continuo	O
+en	O
+toda	O
+la	O
+exploración	O
+con	O
+dolor	O
+a	O
+la	O
+palpación	O
+de	O
+epigastrio	O
+,	O
+sin	O
+irradiación	O
+ni	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+.	O

@@ -1,0 +1,16 @@
+
+Ésta	O
+se	O
+produce	O
+a	O
+consecuencia	O
+de	O
+una	O
+reacción	O
+inflamatoria	O
+a	O
+partículas	O
+minerales	O
+del	O
+suelo	O
+.	O

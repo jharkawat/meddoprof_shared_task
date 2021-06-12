@@ -1,0 +1,37 @@
+T1	SINTOMA 456 461	dolor
+T2	SINTOMA 480 545	dolor de tipo punzante, lancinante en región maxilar y mandibular
+T3	SINTOMA 638 661	alteraciones sensitivas
+T4	SINTOMA 666 687	dolor no impide sueño
+T5	SINTOMA 699 711	perdido peso
+T6	SINTOMA 984 1024	doloroso en apófisis espinosa de C2 y C3
+T7	SINTOMA 1035 1062	dolor a la flexión cervical
+T8	SINTOMA 1433 1441	dolorosa
+T9	SINTOMA 1674 1679	dolor
+T10	PROCEDIMIENTO 776 808	antiinflamatorios no esteroideos
+T11	PROCEDIMIENTO 906 924	exploración física
+T12	PROCEDIMIENTO 1177 1200	radiografías cervicales
+T13	PROCEDIMIENTO 1298 1323	bloqueo de plexo cervical
+T14	PROCEDIMIENTO 1453 1470	tracción cervical
+T15	PROCEDIMIENTO 1544 1563	bloqueos cervicales
+T16	NEG 620 622	no
+T17	NSCO 623 661	se acompaña de alteraciones sensitivas
+T18	NEG 672 674	no
+T19	NSCO 675 687	impide sueño
+T20	NEG 690 692	no
+T21	NSCO 693 729	había perdido peso a causa del mismo
+T22	NEG 794 796	no
+T23	NSCO 797 808	esteroideos
+T24	NEG 1512 1514	no
+T25	NSCO 1515 1563	fue necesario aplicar nuevos bloqueos cervicales
+T26	NEG 1971 1973	No
+T27	NSCO 1974 1984	declarados
+T28	FARMACO 814 825	gabapentina
+T29	FARMACO 855 868	carbamacepina
+T30	FARMACO 1118 1129	gabapentina
+T31	FARMACO 1369 1378	lidocaína
+T32	ORG_VIVO 10 18	paciente
+T33	ORG_VIVO 313 330	Paciente femenino
+T34	ORG_VIVO 1643 1651	paciente
+T35	SANITARIO-PROFESION 1757 1761	Dra.
+T36	SANITARIO-PROFESION 264 270	Médico
+T37	PACIENTE-SITUACION_LABORAL 368 384	ocupación: hogar

@@ -1,0 +1,9 @@
+
+Presenta	O
+inquietud	O
+psicomotriz	O
+leve	O
+y	O
+actitud	O
+temerosa	O
+.	O

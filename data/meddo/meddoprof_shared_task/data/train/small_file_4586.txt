@@ -1,0 +1,15 @@
+
+Avisaron	O
+a	O
+la	O
+familia	O
+del	O
+mal	O
+pronóstico	O
+a	O
+corto	O
+plazo	O
+y	O
+finalmente	O
+falleció	O
+.	O

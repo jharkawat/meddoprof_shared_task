@@ -1,0 +1,78 @@
+T1	SINTOMA 429 436	mutismo
+T2	SINTOMA 1140 1151	nerviosismo
+T3	SINTOMA 1186 1191	culpa
+T4	SINTOMA 1222 1241	síntomas psicóticos
+T5	SINTOMA 1604 1623	síntomas psicóticos
+T6	SINTOMA 1625 1641	ideas delirantes
+T7	SINTOMA 1658 1681	alucinaciones auditivas
+T8	SINTOMA 2030 2051	pérdida de iniciativa
+T9	SINTOMA 2053 2067	facies amímica
+T10	SINTOMA 2070 2084	torpeza motora
+T11	SINTOMA 3631 3643	asintomático
+T12	PROCEDIMIENTO 1813 1838	tratamiento antidepresivo
+T13	PROCEDIMIENTO 1868 1893	tratamiento antipsicótico
+T14	PROCEDIMIENTO 2115 2139	estudio neuropsicológico
+T15	PROCEDIMIENTO 2158 2182	Test de Retención Visual
+T16	PROCEDIMIENTO 2595 2606	TAC craneal
+T17	PROCEDIMIENTO 2874 2885	RMN craneal
+T18	PROCEDIMIENTO 2906 2920	SPECT cerebral
+T19	PROCEDIMIENTO 3549 3553	CPAP
+T20	PROCEDIMIENTO 3584 3604	tratamiento con CPAP
+T21	PROCEDIMIENTO 3696 3736	medicación antidepresiva y antipsicótica
+T22	NEG 567 569	no
+T23	NSCO 570 604	se enteró de la muerte de su padre
+T24	NEG 1169 1180	incapacidad
+T25	NEG 1198 1217	habían desaparecido
+T26	NSCO 1218 1241	los síntomas psicóticos
+T27	NEG 1789 1800	incapacidad
+T28	NSCO 1801 1808	laboral
+T29	UNC 2690 2697	posible
+T30	USCO 2698 2739	demencia de tipo frontal o frontotemporal
+T31	NEG 2927 2929	no
+T32	NSCO 2930 2957	se halló patrón de demencia
+T33	UNC 3353 3364	sospecha de
+T34	USCO 3365 3403	un posible Síndrome de Apnea del Sueño
+T35	UNC 3490 3504	compatible con
+T36	USCO 3505 3518	SAOS moderado
+T37	NEG 3631 3643	asintomático
+T38	NEG 3673 3681	retirada
+T39	NSCO 3682 3736	gradual de la medicación antidepresiva y antipsicótica
+T40	NEG 3766 3778	asintomático
+T41	FARMACO 750 763	amitriptilina
+T42	FARMACO 766 781	levomepromazina
+T43	FARMACO 1018 1029	haloperidol
+T44	FARMACO 1032 1042	biperideno
+T45	FARMACO 1326 1337	venlafaxina
+T46	FARMACO 1350 1359	Ketazolam
+T47	FARMACO 1843 1854	venlafaxina
+T48	FARMACO 1898 1909	risperidona
+T49	ORG_VIVO 0 8	Paciente
+T50	ORG_VIVO 49 56	familia
+T51	ORG_VIVO 65 73	hermanos
+T52	ORG_VIVO 126 131	joven
+T53	ORG_VIVO 153 163	agricultor
+T54	ORG_VIVO 221 229	ancianos
+T55	ORG_VIVO 305 310	padre
+T56	ORG_VIVO 447 453	esposa
+T57	ORG_VIVO 599 604	padre
+T58	ORG_VIVO 1421 1426	mujer
+T59	ORG_VIVO 1985 1993	paciente
+T60	ORG_VIVO 2571 2579	paciente
+T61	ORG_VIVO 3106 3112	esposa
+T62	ORG_VIVO 3159 3165	esposo
+T63	ORG_VIVO 3608 3616	paciente
+T64	ENFERMEDAD 699 718	trastorno depresivo
+T65	ENFERMEDAD 944 987	trastorno depresivo con síntomas psicóticos
+T66	ENFERMEDAD 1264 1283	trastorno depresivo
+T67	ENFERMEDAD 1940 1964	sintomatología psicótica
+T68	ENFERMEDAD 2257 2272	lesión cerebral
+T69	ENFERMEDAD 2698 2722	demencia de tipo frontal
+T70	ENFERMEDAD 3009 3031	trastorno cognoscitivo
+T71	ENFERMEDAD 3043 3065	patología psiquiátrica
+T72	ENFERMEDAD 3376 3403	Síndrome de Apnea del Sueño
+T73	ENFERMEDAD 3405 3409	SAOS
+T74	ENFERMEDAD 3505 3518	SAOS moderado
+T75	PACIENTE-PROFESION 153 163	agricultor
+T76	PACIENTE-SITUACION_LABORAL 1745 1760	de baja laboral
+T77	PACIENTE-PROFESION 181 229	comenzó a trabajar en una residencia de ancianos
+T78	PACIENTE-SITUACION_LABORAL 1789 1808	incapacidad laboral

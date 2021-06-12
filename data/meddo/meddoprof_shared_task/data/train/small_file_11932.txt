@@ -1,0 +1,23 @@
+
+El	O
+paquete	O
+neurovascular	O
+tibial	O
+posterior	O
+se	O
+encuentra	O
+conservado	O
+,	O
+mientras	O
+que	O
+encontramos	O
+que	O
+el	O
+nervio	O
+ciático	O
+poplíteo	O
+externo	O
+se	O
+encuentra	O
+afectado	O
+.	O

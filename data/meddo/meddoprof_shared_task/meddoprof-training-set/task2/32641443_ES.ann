@@ -1,0 +1,9 @@
+T1	PACIENTE 5 14	enfermera
+T2	SANITARIO 719 725	médico
+T3	SANITARIO 1240 1246	médico
+T4	SANITARIO 1482 1488	médico
+T5	SANITARIO 1953 1959	médico
+T6	SANITARIO 38 57	médico de urgencias
+T8	FAMILIAR 279 297	regresó al trabajo
+T9	PACIENTE 372 391	regresar al trabajo
+T7	PACIENTE 2378 2397	volver a su trabajo

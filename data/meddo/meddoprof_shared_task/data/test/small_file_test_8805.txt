@@ -1,0 +1,27 @@
+
+En	O
+abril	O
+de	O
+2017	O
+inició	O
+tratamiento	O
+de	O
+quimioterapia	O
+con	O
+cisplatino	O
+50	O
+mg	O
+/	O
+m2	O
+y	O
+gemcitabina	O
+800	O
+mg	O
+/	O
+m2	O
+en	O
+ciclos	O
+de	O
+14	O
+días	O
+.	O

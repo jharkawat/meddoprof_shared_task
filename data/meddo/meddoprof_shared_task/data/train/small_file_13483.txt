@@ -1,0 +1,9 @@
+
+Ecografía	O
+abdominal	O
+:	O
+datos	O
+de	O
+hepatopatía	O
+crónica	O
+.	O

@@ -1,0 +1,13 @@
+
+Ánimo	O
+retraído	O
+,	O
+no	O
+verbaliza	O
+ideas	O
+de	O
+muerte	O
+ni	O
+intencionalidad	O
+autolítica	O
+.	O

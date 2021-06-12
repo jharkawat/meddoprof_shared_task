@@ -1,0 +1,17 @@
+
+Paciente	O
+varón	O
+de	O
+66	O
+años	O
+de	O
+edad	O
+,	O
+caucásico	O
+,	O
+jubilado	B-SITUACION_LABORAL
+que	O
+trabajó	O
+como	O
+administrativo	B-PROFESION
+.	O

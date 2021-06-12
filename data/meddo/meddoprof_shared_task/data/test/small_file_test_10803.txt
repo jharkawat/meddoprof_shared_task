@@ -1,0 +1,10 @@
+
+Persiste	O
+mismo	O
+grado	O
+de	O
+parálisis	O
+facial	O
+e	O
+hipoacusia	O
+.	O

@@ -1,0 +1,27 @@
+
+La	O
+arteria	O
+circunfleja	O
+presentaba	O
+irregularidades	O
+no	O
+significativas	O
+,	O
+con	O
+una	O
+primera	O
+marginal	O
+de	O
+gran	O
+tamaño	O
+y	O
+con	O
+una	O
+lesión	O
+proximal	O
+significativa	O
+(	O
+70	O
+%	O
+)	O
+.	O

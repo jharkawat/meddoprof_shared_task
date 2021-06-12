@@ -1,0 +1,7 @@
+
+El	O
+hígado	O
+presenta	O
+esteatosis	O
+hepática	O
+.	O

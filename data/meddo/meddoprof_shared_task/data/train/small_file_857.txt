@@ -1,0 +1,10 @@
+
+Responsable	B-PROFESION
+clínico	I-PROFESION
+:	O
+Dr	B-PROFESION
+.	I-PROFESION
+Francisco	O
+Martínez	O
+Martínez	O
+.	O

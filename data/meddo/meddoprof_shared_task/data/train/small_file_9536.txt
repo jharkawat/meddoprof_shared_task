@@ -1,0 +1,23 @@
+
+Las	O
+biopsias	O
+cutáneas	O
+eran	O
+compatible	O
+con	O
+vasculitis	O
+leucocitoclástica	O
+y	O
+,	O
+mediante	O
+estudio	O
+con	O
+inmunofluorescencia	O
+directa	O
+,	O
+se	O
+observó	O
+depósito	O
+de	O
+IgM	O
+.	O

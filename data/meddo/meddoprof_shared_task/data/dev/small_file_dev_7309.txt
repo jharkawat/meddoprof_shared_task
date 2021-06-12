@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+presentaba	O
+buen	O
+estado	O
+general	O
+,	O
+estaba	O
+consciente	O
+y	O
+orientado	O
+.	O

@@ -1,0 +1,6 @@
+
+Palpación	O
+:	O
+nada	O
+anormal	O
+.	O

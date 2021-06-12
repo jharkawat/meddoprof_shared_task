@@ -1,0 +1,6 @@
+
+Bien	O
+perfundido	O
+e	O
+hidratado	O
+.	O

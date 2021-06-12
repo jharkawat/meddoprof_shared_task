@@ -1,0 +1,25 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+se	O
+objetivó	O
+aumento	O
+del	O
+índice	O
+cardiotorácico	O
+,	O
+imagen	O
+nodular	O
+en	O
+lóbulo	O
+superior	O
+izquierdo	O
+e	O
+infiltrado	O
+intersticial	O
+perihiliar	O
+bilateral	O
+.	O

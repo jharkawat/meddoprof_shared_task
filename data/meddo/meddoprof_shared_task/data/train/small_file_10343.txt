@@ -1,0 +1,9 @@
+
+Anticuerpos	O
+antinucleares	O
+y	O
+serología	O
+para	O
+hepatitis	O
+negativas	O
+.	O

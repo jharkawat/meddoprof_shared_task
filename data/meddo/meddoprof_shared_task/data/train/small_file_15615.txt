@@ -1,0 +1,26 @@
+
+No	O
+le	O
+da	O
+mayor	O
+importancia	O
+y	O
+nunca	O
+había	O
+consultado	O
+por	O
+ello	O
+,	O
+ya	O
+que	O
+lo	O
+atribuye	O
+a	O
+que	O
+siempre	O
+ha	O
+sido	O
+muy	O
+poco	O
+ágil	O
+.	O

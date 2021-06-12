@@ -1,0 +1,12 @@
+
+Estudios	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+Primaria	I-SITUACION_LABORAL
+y	I-SITUACION_LABORAL
+Secundaria	I-SITUACION_LABORAL
+finalizados	O
+con	O
+rendimiento	O
+escolar	O
+óptimo	O
+.	O

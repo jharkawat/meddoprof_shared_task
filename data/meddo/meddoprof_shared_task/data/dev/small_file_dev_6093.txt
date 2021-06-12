@@ -1,0 +1,15 @@
+
+El	O
+Mantoux	O
+con	O
+5	O
+UT	O
+fue	O
+positivo	O
+a	O
+15	O
+mm	O
+a	O
+las	O
+48horas	O
+.	O

@@ -1,0 +1,25 @@
+
+Actualmente	O
+,	O
+está	O
+en	O
+tratamiento	O
+con	O
+polifarmacia	O
+(	O
+clozapina	O
+y	O
+amisulprida	O
+)	O
+más	O
+TEC	O
+en	O
+régimen	O
+agudo	O
+y	O
+de	O
+continuación	O
+(	O
+mantenimiento	O
+)	O
+.	O

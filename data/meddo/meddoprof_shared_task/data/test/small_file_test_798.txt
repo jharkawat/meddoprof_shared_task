@@ -1,0 +1,15 @@
+
+De	O
+profesión	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+enfermería	I-PROFESION
+,	O
+aunque	O
+no	B-SITUACION_LABORAL
+trabaja	I-SITUACION_LABORAL
+en	O
+el	O
+momento	O
+actual	O
+.	O

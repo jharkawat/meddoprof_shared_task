@@ -1,0 +1,10 @@
+
+Tiene	O
+una	O
+hermana	O
+dos	O
+años	O
+mayor	O
+que	O
+él	O
+.	O

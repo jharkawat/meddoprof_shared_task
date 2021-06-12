@@ -1,0 +1,7 @@
+
+Ana	O
+,	O
+edad	O
+37	O
+años	O
+.	O

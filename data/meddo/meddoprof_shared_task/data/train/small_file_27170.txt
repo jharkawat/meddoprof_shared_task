@@ -1,0 +1,27 @@
+
+Como	O
+se	O
+ha	O
+mencionado	O
+anteriormente	O
+,	O
+quedaron	O
+descartadas	O
+patologías	O
+médicas	O
+por	O
+parte	O
+de	O
+otros	O
+servicios	O
+médicos	O
+,	O
+que	O
+apoyaran	O
+el	O
+origen	O
+orgánico	O
+de	O
+los	O
+síntomas	O
+.	O

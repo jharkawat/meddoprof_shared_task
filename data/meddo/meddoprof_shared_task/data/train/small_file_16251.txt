@@ -1,0 +1,11 @@
+
+Se	O
+controló	O
+la	O
+cefalea	O
+con	O
+analgesia	O
+por	O
+vía	O
+intravenosa	O
+.	O

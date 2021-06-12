@@ -1,0 +1,25 @@
+
+A	O
+partir	O
+de	O
+mayo	O
+del	O
+2008	O
+,	O
+aparece	O
+consumo	O
+intermitente	O
+de	O
+alcohol	O
+con	O
+una	O
+progresiva	O
+dosificación	O
+hasta	O
+la	O
+pérdida	O
+de	O
+control	O
+del	O
+consumo	O
+.	O

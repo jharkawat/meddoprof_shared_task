@@ -1,0 +1,11 @@
+
+No	O
+se	O
+integró	O
+bien	O
+en	O
+juegos	O
+con	O
+otros	O
+niños	O
+.	O

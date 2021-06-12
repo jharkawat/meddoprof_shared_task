@@ -1,0 +1,24 @@
+T1	SINTOMA 259 269	Consciente
+T2	SINTOMA 272 281	orientada
+T3	SINTOMA 456 479	Alucinaciones auditivas
+T4	SINTOMA 492 533	alteraciones perceptivas de tipo somático
+T5	NEG 116 119	sin
+T6	NSCO 120 141	círculo sociofamiliar
+T7	NEG 430 433	sin
+T8	NSCO 434 454	repercusión afectiva
+T9	NEG 535 537	No
+T10	NSCO 538 585	fenómenos de lectura o difusión del pensamiento
+T11	NEG 597 599	No
+T12	NSCO 600 624	conciencia de enfermedad
+T13	NEG 825 828	sin
+T14	NSCO 829 854	tratamiento farmacológico
+T15	NEG 968 970	no
+T16	NSCO 971 992	acepta otros fármacos
+T17	NEG 1052 1054	no
+T18	NSCO 1055 1093	existe riesgo para sí misma o terceros
+T19	NEG 1126 1129	sin
+T20	NSCO 1130 1140	medicación
+T21	FARMACO 930 940	Quetiapina
+T22	ORG_VIVO 0 5	Mujer
+T23	ORG_VIVO 949 957	paciente
+T24	ENFERMEDAD 878 917	Trastorno Delirante de tipo Parafrénico

@@ -1,0 +1,25 @@
+
+Se	O
+trata	O
+de	O
+una	O
+persona	O
+colaboradora	O
+,	O
+muy	O
+preocupada	O
+por	O
+su	O
+hijo	O
+y	O
+dispuesta	O
+a	O
+hacer	O
+todo	O
+lo	O
+posible	O
+por	O
+mejorar	O
+la	O
+situación	O
+.	O

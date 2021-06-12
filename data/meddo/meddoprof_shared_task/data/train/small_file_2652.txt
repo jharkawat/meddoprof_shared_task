@@ -1,0 +1,27 @@
+
+Prick	O
+-	O
+prick	O
+positivo	O
+con	O
+queso	O
+de	O
+cabra	O
+(	O
+10x6	O
+mm	O
+)	O
+y	O
+oveja	O
+(	O
+11x6	O
+mm	O
+)	O
+,	O
+y	O
+negativo	O
+para	O
+leche	O
+de	O
+vaca	O
+.	O

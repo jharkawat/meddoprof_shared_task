@@ -1,0 +1,27 @@
+
+Acude	O
+a	O
+Urgencias	O
+por	O
+episodio	O
+de	O
+2	O
+semanas	O
+de	O
+evolución	O
+consistente	O
+en	O
+inflamación	O
+cutánea	O
+severa	O
+,	O
+en	O
+miembro	O
+superior	O
+derecho	O
+,	O
+acompañada	O
+de	O
+síndrome	O
+febril	O
+.	O

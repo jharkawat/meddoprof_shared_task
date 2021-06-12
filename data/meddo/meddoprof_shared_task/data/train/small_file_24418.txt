@@ -1,0 +1,10 @@
+
+El	O
+DC	O
+es	O
+extensible	O
+a	O
+amigos	O
+y	O
+conocidos	O
+.	O

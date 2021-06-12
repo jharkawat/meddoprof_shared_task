@@ -1,0 +1,10 @@
+
+EPOC	O
+con	O
+oxigenoterapia	O
+domiciliaria	O
+en	O
+seguimiento	O
+por	O
+Neumología	O
+.	O

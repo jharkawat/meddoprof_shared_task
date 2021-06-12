@@ -1,0 +1,24 @@
+
+Una	O
+vez	O
+se	O
+provocó	O
+el	O
+vómito	O
+;	O
+otras	O
+veces	O
+lo	O
+ha	O
+intentado	O
+pero	O
+le	O
+da	O
+mucho	O
+miedo	O
+y	O
+no	O
+lo	O
+ha	O
+hecho	O
+.	O

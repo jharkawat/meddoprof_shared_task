@@ -1,0 +1,24 @@
+
+Se	O
+repite	O
+hemograma	O
+y	O
+presenta	O
+Hgb	O
+8	O
+.	O
+6	O
+g	O
+/	O
+dl	O
+,	O
+VCM	O
+97	O
+.	O
+6	O
+fl	O
+y	O
+plaquetas	O
+45000	O
+plaquetas	O
+.	O

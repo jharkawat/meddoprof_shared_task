@@ -1,0 +1,10 @@
+
+El	O
+abandono	O
+de	O
+consumo	O
+de	O
+cannabis	O
+es	O
+parcial	O
+.	O

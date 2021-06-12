@@ -1,0 +1,46 @@
+T1	SINTOMA 612 634	pesadez en las piernas
+T2	SINTOMA 637 667	falta de fuerzas generalizadas
+T3	SINTOMA 697 709	inconsciente
+T4	SINTOMA 805 812	agitado
+T5	SINTOMA 1105 1131	elevación de la creatinina
+T6	SINTOMA 1789 1797	diuresis
+T7	SINTOMA 1949 1957	oliguria
+T8	SINTOMA 2029 2067	incremento progresivo de la creatinina
+T9	SINTOMA 2378 2399	dolores en los muslos
+T10	SINTOMA 2920 2932	asintomático
+T11	SINTOMA 3112 3134	jvegastieb@hotmail.com
+T12	PROCEDIMIENTO 897 935	tomografía axial computada de encéfalo
+T13	PROCEDIMIENTO 2256 2270	ecocardiograma
+T14	PROCEDIMIENTO 3112 3134	jvegastieb@hotmail.com
+T15	NEG 430 433	sin
+T16	NSCO 434 466	antecedentes mórbidos relevantes
+T17	NEG 521 524	sin
+T18	NSCO 525 537	limitaciones
+T19	NEG 637 645	falta de
+T20	NSCO 646 667	fuerzas generalizadas
+T21	NEG 697 709	inconsciente
+T22	NEG 937 940	sin
+T23	NSCO 941 950	contraste
+T24	NEG 1592 1594	no
+T25	NSCO 1595 1632	usaba regularmente medicamento alguno
+T26	NEG 2920 2932	asintomático
+T27	FARMACO 857 866	lorazepan
+T28	FARMACO 882 891	fenitoína
+T29	FARMACO 1700 1720	bicarbonato de sodio
+T30	FARMACO 1912 1922	furosemide
+T31	ORG_VIVO 10 18	paciente
+T32	ORG_VIVO 403 409	Hombre
+T33	ORG_VIVO 1484 1492	paciente
+T34	ORG_VIVO 2357 2365	paciente
+T35	ORG_VIVO 2996 2999	Dr.
+T36	ENFERMEDAD 725 742	crisis convulsiva
+T37	ENFERMEDAD 1151 1170	acidosis metabólica
+T38	ENFERMEDAD 1196 1209	hipernatremia
+T39	ENFERMEDAD 1277 1299	hematuria microscópica
+T40	ENFERMEDAD 1423 1438	RML de esfuerzo
+T41	ENFERMEDAD 1445 1479	crisis convulsiva por hipoglicemia
+T42	ENFERMEDAD 2192 2195	RML
+T43	ENFERMEDAD 2558 2561	RML
+T44	SANITARIO-PROFESION 2996 2999	Dr.
+T45	SANITARIO-PROFESION 347 353	Médico
+T46	PACIENTE-PROFESION 422 428	marino

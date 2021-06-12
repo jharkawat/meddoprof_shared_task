@@ -1,0 +1,14 @@
+
+No	O
+dolor	O
+torácico	O
+ni	O
+alteraciones	O
+significativas	O
+del	O
+ST	O
+antes	O
+de	O
+la	O
+asistolia	O
+.	O

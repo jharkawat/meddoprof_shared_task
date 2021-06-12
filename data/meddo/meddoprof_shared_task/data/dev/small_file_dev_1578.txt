@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+se	O
+encuentra	O
+en	O
+estado	O
+de	O
+hiperalerta	O
+,	O
+con	O
+conducta	O
+hostil	O
+y	O
+aspecto	O
+descuidado	O
+.	O

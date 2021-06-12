@@ -1,0 +1,10 @@
+
+Ingresó	O
+en	O
+Oncología	O
+para	O
+estudio	O
+y	O
+actitud	O
+terapéutica	O
+.	O

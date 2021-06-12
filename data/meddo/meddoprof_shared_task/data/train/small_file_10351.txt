@@ -1,0 +1,18 @@
+
+El	O
+diagnóstico	O
+final	O
+fue	O
+tumor	O
+neuroendocrino	O
+poco	O
+diferenciado	O
+grado	O
+3	O
+de	O
+origen	O
+desconocido	O
+en	O
+estadío	O
+IV	O
+.	O

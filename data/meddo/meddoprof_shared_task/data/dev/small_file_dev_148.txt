@@ -1,0 +1,11 @@
+
+Posteriormente	O
+trabajó	O
+como	O
+jugador	B-PROFESION
+de	I-PROFESION
+baloncesto	I-PROFESION
+de	O
+forma	O
+profesional	O
+.	O

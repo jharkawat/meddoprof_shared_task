@@ -1,0 +1,24 @@
+
+En	O
+la	O
+exploración	O
+física	O
+destacaba	O
+su	O
+deterioro	O
+físico	O
+y	O
+mal	O
+estado	O
+nutricional	O
+,	O
+con	O
+IMC	O
+al	O
+ingreso	O
+de	O
+16	O
+kg	O
+/	O
+m2	O
+.	O

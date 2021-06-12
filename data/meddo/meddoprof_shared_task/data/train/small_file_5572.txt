@@ -1,0 +1,22 @@
+
+Anamnesis	O
+:	O
+varón	O
+de	O
+86	O
+años	O
+con	O
+los	O
+siguientes	O
+antecedentes	O
+personales	O
+:	O
+Alergias	O
+medicamentosas	O
+:	O
+Levofloxacino	O
+,	O
+Celecoxib	O
+,	O
+Tramadol	O
+.	O

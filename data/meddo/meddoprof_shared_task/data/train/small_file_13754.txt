@@ -1,0 +1,4 @@
+
+BAAR	O
+negativo	O
+.	O

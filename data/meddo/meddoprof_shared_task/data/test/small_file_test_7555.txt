@@ -1,0 +1,24 @@
+
+Se	O
+objetivan	O
+5	O
+episodios	O
+de	O
+clonías	O
+hemifaciales	O
+izquierdas	O
+de	O
+10	O
+segundos	O
+de	O
+duración	O
+,	O
+con	O
+sensación	O
+de	O
+angustia	O
+y	O
+llanto	O
+no	O
+provocado	O
+.	O

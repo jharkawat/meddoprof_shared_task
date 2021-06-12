@@ -1,0 +1,17 @@
+
+Ingresó	O
+en	O
+planta	O
+de	O
+Medicina	O
+Interna	O
+para	O
+tratamiento	O
+y	O
+estudio	O
+diagnóstico	O
+,	O
+en	O
+aislamiento	O
+respiratorio	O
+.	O

@@ -1,0 +1,24 @@
+
+Susana	O
+,	O
+una	O
+chica	O
+de	O
+15	O
+años	O
+de	O
+edad	O
+,	O
+fue	O
+visitada	O
+por	O
+un	O
+especialista	B-PROFESION
+a	O
+petición	O
+del	O
+profesorado	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+escuela	I-PROFESION
+.	O

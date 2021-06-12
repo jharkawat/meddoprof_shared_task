@@ -1,0 +1,25 @@
+
+En	O
+este	O
+tiempo	O
+,	O
+la	O
+profesional	B-PROFESION
+de	I-PROFESION
+salud	I-PROFESION
+también	O
+percibió	O
+que	O
+había	O
+que	O
+tener	O
+paciencia	O
+,	O
+dado	O
+que	O
+era	O
+solo	O
+un	O
+tiempo	O
+determinado	O
+.	O

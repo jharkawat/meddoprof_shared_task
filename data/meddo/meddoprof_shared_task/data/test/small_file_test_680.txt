@@ -1,0 +1,10 @@
+
+Laboratorio	O
+12	O
+/	O
+18	O
+:	O
+Eosinófilos	O
+7	O
+%	O
+.	O

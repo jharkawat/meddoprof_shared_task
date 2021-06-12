@@ -1,0 +1,18 @@
+
+En	O
+el	O
+momento	O
+de	O
+la	O
+valoración	O
+,	O
+presenta	O
+diagnóstico	O
+de	O
+TEA	O
+por	O
+Unidad	O
+de	O
+Diagnóstico	O
+Complejo	O
+.	O

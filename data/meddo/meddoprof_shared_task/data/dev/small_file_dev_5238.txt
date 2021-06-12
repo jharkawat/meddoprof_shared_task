@@ -1,0 +1,21 @@
+
+Remitida	O
+a	O
+servicio	O
+de	O
+urgencias	O
+del	O
+Hospital	O
+de	O
+León	O
+por	O
+cuadro	O
+de	O
+5	O
+días	O
+de	O
+evolución	O
+de	O
+desorientación	O
+temporoespacial	O
+.	O

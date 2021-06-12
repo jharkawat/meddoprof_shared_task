@@ -1,0 +1,27 @@
+
+Recibe	O
+antimoniato	O
+de	O
+meglumina	O
+,	O
+3	O
+.	O
+000	O
+mg	O
+diarios	O
+(	O
+dos	O
+ampollas	O
+)	O
+por	O
+10	O
+días	O
+consecutivos	O
+y	O
+completa	O
+la	O
+primera	O
+serie	O
+de	O
+tratamiento	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+realizó	O
+una	O
+radiografía	O
+de	O
+tórax	O
+que	O
+mostraba	O
+un	O
+infiltrado	O
+de	O
+características	O
+alveolares	O
+en	O
+lóbulo	O
+inferior	O
+izquierdo	O
+.	O

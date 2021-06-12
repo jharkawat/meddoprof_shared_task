@@ -1,0 +1,18 @@
+
+Con	O
+todo	O
+ello	O
+,	O
+se	O
+llegó	O
+al	O
+diagnóstico	O
+de	O
+anemia	O
+megaloblástica	O
+por	O
+déficit	O
+de	O
+vitamina	O
+B12	O
+.	O

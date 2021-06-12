@@ -1,0 +1,15 @@
+
+Diagnóstico	O
+:	O
+Hematoma	O
+renal	O
+izquierdo	O
+en	O
+riñón	O
+afecto	O
+por	O
+adenocarcinoma	O
+en	O
+paciente	O
+anticoagulado	O
+.	O

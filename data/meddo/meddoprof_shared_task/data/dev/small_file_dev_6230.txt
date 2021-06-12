@@ -1,0 +1,21 @@
+
+Algunos	O
+autores	O
+reportan	O
+otras	O
+vías	O
+de	O
+inoculación	O
+como	O
+picaduras	O
+de	O
+mosquitos	O
+,	O
+rasguño	O
+de	O
+gato	O
+,	O
+mordeduras	O
+de	O
+reptiles	O
+.	O

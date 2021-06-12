@@ -1,0 +1,26 @@
+
+Se	O
+cataloga	O
+como	O
+carcinoma	O
+anaplásico	O
+de	O
+células	O
+pequeñas	O
+con	O
+encefalitis	O
+paraneoplásica	O
+y	O
+tras	O
+valoración	O
+en	O
+sesión	O
+clínica	O
+se	O
+decide	O
+tratamiento	O
+con	O
+radioterapia	O
+y	O
+quimioterapia	O
+.	O

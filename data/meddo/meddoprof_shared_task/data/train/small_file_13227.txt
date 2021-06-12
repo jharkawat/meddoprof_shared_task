@@ -1,0 +1,20 @@
+
+Varón	O
+de	O
+52	O
+años	O
+de	O
+edad	O
+,	O
+agricultor	B-PROFESION
+de	O
+profesión	O
+,	O
+que	O
+ingresa	O
+por	O
+celulitis	O
+y	O
+malestar	O
+general	O
+.	O

@@ -1,0 +1,18 @@
+
+Antecedentes	O
+familiares	O
+:	O
+su	O
+tía	O
+,	O
+junto	O
+a	O
+quien	O
+convive	O
+,	O
+es	O
+pensionista	B-SITUACION_LABORAL
+por	I-SITUACION_LABORAL
+enfermedad	I-SITUACION_LABORAL
+mental	I-SITUACION_LABORAL
+.	O

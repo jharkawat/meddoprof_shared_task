@@ -1,0 +1,11 @@
+T1	PROFESION 1426 1439	especialistas
+T2	PROFESION 1663 1676	especialistas
+T4	PROFESION 1767 1773	médico
+T5	PROFESION 40 58	médico de cabecera
+T6	PROFESION 470 515	comienza a trabajar en una fábrica de calzado
+T7	PROFESION 615 662	comienza a trabajar en un supermercado familiar
+T8	PROFESION 668 679	dependienta
+T9	SITUACION_LABORAL 541 574	se dedica a las tareas de la casa
+T10	SITUACION_LABORAL 751 767	dejó de trabajar
+T11	SITUACION_LABORAL 973 982	desempleo
+T3	PROFESION 2612 2620	logopeda

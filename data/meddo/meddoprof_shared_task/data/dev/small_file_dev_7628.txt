@@ -1,0 +1,27 @@
+
+Entre	O
+los	O
+años	O
+2006	O
+-	O
+2015	O
+presenta	O
+bacteriemias	O
+recurrentes	O
+por	O
+enterobacterias	O
+de	O
+probable	O
+origen	O
+biliar	O
+(	O
+colangitis	O
+de	O
+repetición	O
+)	O
+siendo	O
+las	O
+CPRE	O
+repetidamente	O
+normales	O
+.	O

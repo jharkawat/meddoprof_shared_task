@@ -1,0 +1,9 @@
+
+No	O
+percibe	O
+la	O
+incomodidad	O
+en	O
+los	O
+demás	O
+.	O

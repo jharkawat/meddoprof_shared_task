@@ -1,0 +1,27 @@
+
+Se	B-PROFESION
+especializó	I-PROFESION
+en	I-PROFESION
+bienestar	I-PROFESION
+social	I-PROFESION
+y	I-PROFESION
+en	I-PROFESION
+talleres	I-PROFESION
+para	I-PROFESION
+discapacitados	I-PROFESION
+mentales	O
+y	O
+en	O
+su	O
+tiempo	O
+libre	O
+trabajó	B-PROFESION
+para	I-PROFESION
+la	I-PROFESION
+Asociación	I-PROFESION
+de	I-PROFESION
+Parientes	I-PROFESION
+de	I-PROFESION
+Discapacitados	I-PROFESION
+Mentales	I-PROFESION
+.	O

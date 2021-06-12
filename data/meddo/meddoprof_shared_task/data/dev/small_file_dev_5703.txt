@@ -1,0 +1,26 @@
+
+La	O
+paciente	O
+está	O
+afebril	O
+,	O
+con	O
+las	O
+constantes	O
+dentro	O
+de	O
+los	O
+parámetros	O
+de	O
+la	O
+normalidad	O
+,	O
+consciente	O
+y	O
+orientada	O
+,	O
+con	O
+regular	O
+estado	O
+general	O
+.	O

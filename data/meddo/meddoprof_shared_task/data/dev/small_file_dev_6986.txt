@@ -1,0 +1,12 @@
+
+La	O
+PCR	O
+en	O
+LCR	O
+para	O
+el	O
+virus	O
+JC	O
+resultó	O
+negativa	O
+.	O

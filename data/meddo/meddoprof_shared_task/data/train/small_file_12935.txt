@@ -1,0 +1,14 @@
+
+Antígenos	O
+de	O
+Legionella	O
+y	O
+S	O
+.	O
+pneumoniae	O
+en	O
+orina	O
+que	O
+son	O
+negativos	O
+.	O

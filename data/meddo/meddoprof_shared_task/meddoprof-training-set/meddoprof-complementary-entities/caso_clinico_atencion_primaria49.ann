@@ -1,0 +1,115 @@
+T1	SINTOMA 42 45	tos
+T2	SINTOMA 47 53	disnea
+T3	SINTOMA 56 62	fiebre
+T4	SINTOMA 200 203	tos
+T5	SINTOMA 205 211	disnea
+T6	SINTOMA 214 220	fiebre
+T7	SINTOMA 2131 2137	disnea
+T8	SINTOMA 2593 2613	tos seca persistente
+T9	SINTOMA 2615 2621	disnea
+T10	SINTOMA 2624 2633	taquipnea
+T11	SINTOMA 4019 4041	síntomas respiratorios
+T12	SINTOMA 4728 4731	tos
+T13	SINTOMA 4734 4740	disnea
+T14	PROCEDIMIENTO 288 311	tratamiento antibiótico
+T15	PROCEDIMIENTO 782 810	tratamiento con antibióticos
+T16	PROCEDIMIENTO 843 861	corticoides orales
+T17	PROCEDIMIENTO 873 887	aerosolterapia
+T18	PROCEDIMIENTO 1000 1017	fibrobroncoscopia
+T19	PROCEDIMIENTO 1204 1216	TAC de tórax
+T20	PROCEDIMIENTO 1323 1341	corticoides orales
+T21	PROCEDIMIENTO 1343 1360	Fibrobroncoscopia
+T22	PROCEDIMIENTO 1403 1419	Biopsia pulmonar
+T23	PROCEDIMIENTO 1809 1827	corticoides orales
+T24	PROCEDIMIENTO 2187 2198	corticoides
+T25	PROCEDIMIENTO 2527 2550	tratada con inhaladores
+T26	PROCEDIMIENTO 2649 2669	radiografía de tórax
+T27	PROCEDIMIENTO 2813 2846	radiografía en el centro de salud
+T28	PROCEDIMIENTO 3011 3029	corticoides orales
+T29	PROCEDIMIENTO 3592 3599	cesárea
+T30	PROCEDIMIENTO 3601 3615	amigdalectomía
+T31	PROCEDIMIENTO 4426 4449	tratamiento corticoideo
+T32	PROCEDIMIENTO 5099 5122	tratamiento corticoideo
+T33	NEG 272 275	sin
+T34	NSCO 276 311	respuesta a tratamiento antibiótico
+T35	NEG 585 587	no
+T36	NSCO 588 619	responde al tratamiento aquella
+T37	NEG 624 626	no
+T38	NSCO 627 692	logra estabilidad clínica a las 72h del diagnóstico y tratamiento
+T39	NEG 694 696	No
+T40	NSCO 697 752	se identifica germen causal en ninguno de los episodios
+T41	UNC 944 960	sospecha posible
+T42	USCO 961 984	neumonía criptogenética
+T43	NEG 1378 1380	no
+T44	NSCO 1381 1401	aísla flora patógena
+T45	NEG 1717 1729	asintomática
+T46	NEG 1799 1808	suspender
+T47	NSCO 1809 1827	corticoides orales
+T48	NEG 2152 2154	no
+T49	NSCO 2155 2198	se había modificado la dosis de corticoides
+T50	UNC 2924 2935	sospecha de
+T51	USCO 2936 2971	recidiva de Neumonía criptogénetica
+T52	NEG 4206 4208	no
+T53	NSCO 4209 4232	responden a tratamiento
+T54	NEG 4412 4425	supresión del
+T55	NSCO 4426 4449	tratamiento corticoideo
+T56	NEG 4570 4580	suspensión
+T57	NEG 4742 4745	sin
+T58	NSCO 4746 4779	signos auscultatorios apreciables
+T59	NEG 4824 4826	no
+T60	NSCO 4827 4868	se tiene en cuenta el antecedente clínico
+T61	UNC 4874 4882	sospecha
+T62	USCO 4883 4894	diagnóstica
+T63	NEG 5189 5192	sin
+T64	NSCO 5193 5218	tratamiento farmacológico
+T65	FARMACO 397 410	levofloxacino
+T66	FARMACO 863 870	oxígeno
+T67	FARMACO 1557 1567	prednisona
+T68	FARMACO 2266 2276	prednisona
+T69	FARMACO 4492 4502	prednisona
+T70	FARMACO 5147 5157	prednisona
+T71	ORG_VIVO 134 139	Mujer
+T72	ORG_VIVO 428 436	paciente
+T73	ORG_VIVO 711 717	germen
+T74	ORG_VIVO 1387 1401	flora patógena
+T75	ORG_VIVO 1734 1742	paciente
+T76	ORG_VIVO 1869 1877	paciente
+T77	ORG_VIVO 2214 2222	paciente
+T78	ORG_VIVO 2379 2387	paciente
+T79	ORG_VIVO 3078 3086	familiar
+T80	ORG_VIVO 3101 3106	Mujer
+T81	ORG_VIVO 3133 3138	hijos
+T82	ORG_VIVO 3143 3147	hijo
+T83	ORG_VIVO 3174 3179	hijas
+T84	ORG_VIVO 3184 3188	hijo
+T85	ORG_VIVO 3207 3212	madre
+T86	ORG_VIVO 3226 3233	mujeres
+T87	ORG_VIVO 3287 3310	auxiliar administrativa
+T88	ORG_VIVO 3388 3394	nietas
+T89	ORG_VIVO 3419 3429	personales
+T90	ORG_VIVO 4335 4343	paciente
+T91	ORG_VIVO 4459 4467	paciente
+T92	ORG_VIVO 4705 4713	paciente
+T93	ORG_VIVO 4960 4968	paciente
+T94	ORG_VIVO 5053 5061	paciente
+T95	ENFERMEDAD 240 270	Neumonía aguda de la comunidad
+T96	ENFERMEDAD 572 580	neumonía
+T97	ENFERMEDAD 961 984	neumonía criptogenética
+T98	ENFERMEDAD 1857 1865	neumonía
+T99	ENFERMEDAD 2508 2524	bronquitis aguda
+T100	ENFERMEDAD 2936 2971	recidiva de Neumonía criptogénetica
+T101	ENFERMEDAD 3466 3479	Hernia hiatal
+T102	ENFERMEDAD 3482 3499	dispepsia crónica
+T103	ENFERMEDAD 3502 3529	Trastorno ansioso-depresivo
+T104	ENFERMEDAD 3618 3645	carcinoma in situ de cérvix
+T105	ENFERMEDAD 3711 3734	Neumonía criptogenética
+T106	ENFERMEDAD 3773 3826	neumonía aguda por bacterias nosocomiales resistentes
+T107	ENFERMEDAD 3828 3831	TEP
+T108	ENFERMEDAD 3833 3843	neoplasias
+T109	ENFERMEDAD 3845 3855	vasculitis
+T110	ENFERMEDAD 3857 3868	sarcoidosis
+T111	ENFERMEDAD 3871 3891	toxicidad por drogas
+T112	ENFERMEDAD 4136 4159	neumonía criptogenética
+T113	ENFERMEDAD 4192 4201	Neumonías
+T114	ENFERMEDAD 5076 5095	diabetes secundaria
+T115	PACIENTE-PROFESION 3287 3310	auxiliar administrativa

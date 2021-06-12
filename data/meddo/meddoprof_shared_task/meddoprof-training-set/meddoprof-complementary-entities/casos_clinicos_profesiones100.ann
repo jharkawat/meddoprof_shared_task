@@ -1,0 +1,236 @@
+T1	SINTOMA 2103 2111	Enuresis
+T2	SINTOMA 2615 2623	inseguro
+T3	SINTOMA 2667 2696	dificultades de socialización
+T4	SINTOMA 3294 3317	sintomatología obsesiva
+T5	SINTOMA 3960 3979	síntomas depresivos
+T6	SINTOMA 4713 4723	sollozando
+T7	SINTOMA 5262 5284	descontrol de impulsos
+T8	SINTOMA 5948 5981	rasgos impulsivos de personalidad
+T9	SINTOMA 7430 7454	alteraciones de conducta
+T10	SINTOMA 7596 7606	consciente
+T11	SINTOMA 7608 7617	orientado
+T12	SINTOMA 7792 7813	inexpresividad facial
+T13	SINTOMA 8034 8043	irritable
+T14	SINTOMA 8045 8063	Afecto inapropiado
+T15	SINTOMA 8313 8326	Irritabilidad
+T16	SINTOMA 8788 8817	alteraciones sensoperceptivas
+T17	SINTOMA 10761 10774	irritabilidad
+T18	SINTOMA 10819 10838	labilidad emocional
+T19	PROCEDIMIENTO 527 557	tratamiento psicofarmacológico
+T20	PROCEDIMIENTO 6917 6947	tratamiento psicofarmacológico
+T21	PROCEDIMIENTO 7567 7594	exploración psicopatológica
+T22	PROCEDIMIENTO 9273 9276	EKG
+T23	PROCEDIMIENTO 9367 9376	Hemograma
+T24	PROCEDIMIENTO 9692 9717	RM cerebral sin contraste
+T25	PROCEDIMIENTO 9753 9784	Exploraciones neuropsicológicas
+T26	PROCEDIMIENTO 10235 10255	Evaluación cognitiva
+T27	NEG 155 158	sin
+T28	NSCO 159 179	prestación económica
+T29	NEG 365 367	no
+T30	NSCO 368 380	especificado
+T31	NEG 580 583	sin
+T32	NSCO 584 651	seguimiento por parte de Psiquiatría desde el traslado de domicilio
+T33	NEG 1034 1036	No
+T34	NSCO 1037 1066	otros antecedentes de interés
+T35	NEG 1112 1114	No
+T36	NSCO 1115 1144	otros antecedentes de interés
+T37	NEG 1207 1209	no
+T38	NSCO 1210 1219	biológica
+T39	NEG 1253 1256	Sin
+T40	NSCO 1257 1280	antecedentes de interés
+T41	NEG 1683 1686	Sin
+T42	NSCO 1687 1722	cobrar ninguna prestación económica
+T43	NEG 2131 2133	No
+T44	NSCO 2134 2143	ecopresis
+T45	NEG 2562 2564	no
+T46	NSCO 2565 2573	finalizó
+T47	NEG 2625 2632	rechaza
+T48	NSCO 2633 2651	el contacto físico
+T49	NEG 2724 2726	No
+T50	NSCO 2727 2768	se integró bien en juegos con otros niños
+T51	NEG 3937 3939	no
+T52	NSCO 3940 3979	existía ansiedad ni síntomas depresivos
+T53	NEG 3981 3983	no
+T54	NSCO 3984 4010	obsesiones ni compulsiones
+T55	NEG 4012 4014	no
+T56	NSCO 4015 4078	alteraciones del curso del pensamiento ni de la sensopercepción
+T57	NEG 4591 4600	imposible
+T58	NSCO 4601 4615	la convivencia
+T59	UNC 5131 5140	sin clara
+T60	USCO 5141 5158	actitud finalista
+T61	NEG 5170 5172	no
+T62	NSCO 5173 5185	hace crítica
+T63	NEG 5381 5397	imposibilidad de
+T64	NSCO 5398 5439	convivencia adecuada en el medio familiar
+T65	NEG 6455 6458	sin
+T66	NSCO 6459 6479	prestación económica
+T67	NEG 6538 6540	no
+T68	NSCO 6541 6570	habiéndole concedido la misma
+T69	NEG 6575 6583	falta de
+T70	NSCO 6584 6597	documentación
+T71	NEG 6970 6973	sin
+T72	NSCO 6974 7041	seguimiento por parte de Psiquiatría desde el traslado de domicilio
+T73	NEG 7483 7491	falta de
+T74	NSCO 7492 7504	apoyo social
+T75	NEG 7692 7695	Sin
+T76	NSCO 7696 7739	fallos amnésicos ni subjetivos ni objetivos
+T77	NEG 8169 8181	negativas de
+T78	NSCO 8182 8194	la violencia
+T79	NEG 8250 8254	nula
+T80	NSCO 8255 8276	repercusión emocional
+T81	UNC 8525 8533	posibles
+T82	USCO 8534 8544	agresiones
+T83	NEG 8624 8626	No
+T84	NSCO 8627 8684	aprende de las reacciones de las personas de su alrededor
+T85	NEG 8726 8728	No
+T86	NSCO 8729 8842	alteraciones del curso ni del contenido del pensamiento ni alteraciones sensoperceptivas ni de la vivencia del yo
+T87	NEG 8844 8846	No
+T88	NSCO 8847 8877	ideas de muerte ni autolíticas
+T89	UNC 9030 9043	aparentemente
+T90	USCO 9044 9055	conservadas
+T91	NEG 9301 9304	sin
+T92	NSCO 9305 9345	alteraciones agudas en la repolarización
+T93	NEG 9663 9671	negativa
+T94	NEG 9681 9690	negativos
+T95	NEG 9704 9707	sin
+T96	NSCO 9708 9717	contraste
+T97	NEG 9719 9722	sin
+T98	NSCO 9723 9750	alteraciones significativas
+T99	NEG 10128 10130	No
+T100	NSCO 10131 10173	tendría en cuenta los motivos de los demás
+T101	UNC 10402 10408	parece
+T102	USCO 10409 10422	ser homogéneo
+T103	NEG 11218 11220	no
+T104	NSCO 11221 11281	acudió a las citas y presumiblemente abandonó el tratamiento
+T105	NEG 11452 11455	sin
+T106	NSCO 11456 11467	luz ni agua
+T107	NEG 11470 11472	no
+T108	NSCO 11473 11496	tiene dinero para comer
+T109	NEG 11796 11798	no
+T110	NSCO 11799 11818	quieren ingresarme"
+T111	NEG 12010 12012	no
+T112	NSCO 12013 12023	quiero eso
+T113	NEG 12025 12027	no
+T114	NSCO 12028 12080	voy a cumplir ni con los horarios ni con las normas"
+T115	NEG 12272 12274	no
+T116	NSCO 12275 12310	ha acudido al Servicio de Urgencias
+T117	FARMACO 3159 3169	Bromazepam
+T118	FARMACO 3333 3342	Lorazepam
+T119	FARMACO 3470 3479	Anafranil
+T120	FARMACO 3496 3518	Clorazepato dipotásico
+T121	FARMACO 3563 3572	Anafranil
+T122	FARMACO 3884 3895	Haloperidol
+T123	FARMACO 4415 4431	Cisordinol depot
+T124	FARMACO 6022 6033	Aripiprazol
+T125	FARMACO 6035 6043	Depakine
+T126	FARMACO 6064 6072	Akineton
+T127	FARMACO 10885 10895	Fluoxetina
+T128	FARMACO 10912 10922	Topiramato
+T129	FARMACO 10951 10961	Tranxilium
+T130	ORG_VIVO 26 31	varón
+T131	ORG_VIVO 83 91	familiar
+T132	ORG_VIVO 816 823	público
+T133	ORG_VIVO 846 851	Varón
+T134	ORG_VIVO 973 983	FAMILIARES
+T135	ORG_VIVO 985 990	Padre
+T136	ORG_VIVO 1068 1073	Madre
+T137	ORG_VIVO 1146 1151	Padre
+T138	ORG_VIVO 1154 1159	madre
+T139	ORG_VIVO 1183 1186	tío
+T140	ORG_VIVO 1189 1196	sobrina
+T141	ORG_VIVO 1199 1206	Hermana
+T142	ORG_VIVO 1296 1306	PERSONALES
+T143	ORG_VIVO 1581 1588	albañil
+T144	ORG_VIVO 1590 1600	carpintero
+T145	ORG_VIVO 1602 1613	acompañante
+T146	ORG_VIVO 1617 1625	personas
+T147	ORG_VIVO 1670 1681	desempleado
+T148	ORG_VIVO 2459 2469	estudiante
+T149	ORG_VIVO 2601 2605	niño
+T150	ORG_VIVO 2763 2768	niños
+T151	ORG_VIVO 3002 3012	PERSONALES
+T152	ORG_VIVO 3657 3665	familiar
+T153	ORG_VIVO 4252 4262	familiares
+T154	ORG_VIVO 4326 4333	familia
+T155	ORG_VIVO 4361 4367	padres
+T156	ORG_VIVO 4538 4546	paciente
+T157	ORG_VIVO 4785 4795	residentes
+T158	ORG_VIVO 4993 5003	familiares
+T159	ORG_VIVO 5305 5311	padres
+T160	ORG_VIVO 5431 5439	familiar
+T161	ORG_VIVO 5488 5495	albañil
+T162	ORG_VIVO 5498 5508	carpintero
+T163	ORG_VIVO 5544 5551	vecinos
+T164	ORG_VIVO 5703 5714	acompañante
+T165	ORG_VIVO 6137 6143	pareja
+T166	ORG_VIVO 6326 6331	Varón
+T167	ORG_VIVO 6383 6391	familiar
+T168	ORG_VIVO 6603 6609	padres
+T169	ORG_VIVO 6860 6864	tíos
+T170	ORG_VIVO 6866 6873	hermana
+T171	ORG_VIVO 6876 6882	padres
+T172	ORG_VIVO 7206 7213	público
+T173	ORG_VIVO 7960 7968	personas
+T174	ORG_VIVO 8660 8668	personas
+T175	ORG_VIVO 8914 8922	personal
+T176	ORG_VIVO 8929 8939	compañeros
+T177	ORG_VIVO 9109 9117	familiar
+T178	ORG_VIVO 9657 9662	Flora
+T179	ORG_VIVO 11073 11081	personal
+T180	ORG_VIVO 11093 11103	compañeros
+T181	ORG_VIVO 11780 11791	Psiquiatras
+T182	ORG_VIVO 12213 12235	Equipo de Salud Mental
+T183	ENFERMEDAD 294 324	Trastorno Obsesivo- Compulsivo
+T184	ENFERMEDAD 326 343	Trastorno Bipolar
+T185	ENFERMEDAD 345 380	Trastorno Psicótico no especificado
+T186	ENFERMEDAD 382 413	Trastorno Límite de la Personal
+T187	ENFERMEDAD 446 480	Trastorno de Personalidad Disocial
+T188	ENFERMEDAD 483 520	Trastorno Generalizado del Desarrollo
+T189	ENFERMEDAD 1019 1032	Esquizofrenia
+T190	ENFERMEDAD 1085 1110	Trastorno Esquizoafectivo
+T191	ENFERMEDAD 1347 1358	peritonitis
+T192	ENFERMEDAD 1359 1370	Hepatitis B
+T193	ENFERMEDAD 1404 1428	Trastorno del desarrollo
+T194	ENFERMEDAD 1430 1444	SOCIOLABORALES
+T195	ENFERMEDAD 1812 1820	Embarazo
+T196	ENFERMEDAD 2064 2101	Trastorno generalizado del desarrollo
+T197	ENFERMEDAD 3121 3139	crisis de ansiedad
+T198	ENFERMEDAD 3270 3289	Trastorno depresivo
+T199	ENFERMEDAD 3294 3317	sintomatología obsesiva
+T200	ENFERMEDAD 3433 3449	NeurosisObsesiva
+T201	ENFERMEDAD 3837 3852	brote psicótico
+T202	ENFERMEDAD 3948 3956	ansiedad
+T203	ENFERMEDAD 5224 5259	Trastorno Límite de la Personalidad
+T204	ENFERMEDAD 5718 5742	conductas discapacitadas
+T205	ENFERMEDAD 5915 5930	Esquizoafectivo
+T206	ENFERMEDAD 8856 8862	muerte
+T207	ENFERMEDAD 9169 9206	Trastorno de la Personalidad Disocial
+T208	ENFERMEDAD 9208 9245	Trastorno Generalizado del Desarrollo
+T209	ENFERMEDAD 9975 10003	Propensión a la impulsividad
+T210	PACIENTE-SITUACION_LABORAL 141 152	desempleado
+T211	PACIENTE-SITUACION_LABORAL 155 179	sin prestación económica
+T212	PACIENTE-PROFESION 1581 1588	albañil
+T213	PACIENTE-PROFESION 1590 1600	carpintero
+T214	PACIENTE-PROFESION 1602 1657	acompañante de personas discapacitadas en el aeropuerto
+T215	PACIENTE-SITUACION_LABORAL 1537 1566	Ha ejercido diversos trabajos
+T216	PACIENTE-SITUACION_LABORAL 1670 1681	desempleado
+T217	PACIENTE-SITUACION_LABORAL 1683 1722	Sin cobrar ninguna prestación económica
+T218	PACIENTE-SITUACION_LABORAL 2459 2469	estudiante
+T219	PACIENTE-SITUACION_LABORAL 2145 2170	Escolarización: guardería
+T220	PACIENTE-SITUACION_LABORAL 2388 2416	1o BUP) se cambió de colegio
+T221	PACIENTE-ACTIVIDAD 2770 2803	Afición por el deporte: atletismo
+T222	PACIENTE-ACTIVIDAD 2770 2813	Afición por el deporte: atletismo, gimnasio
+T223	PACIENTE-ACTIVIDAD 2770 2831	Afición por el deporte: atletismo, gimnasio y artes marciales
+T224	PACIENTE-PROFESION 5488 5495	albañil
+T225	PACIENTE-PROFESION 5498 5508	carpintero
+T226	PACIENTE-PROFESION 5673 5742	trabaja en el aeropuerto como acompañante de conductas discapacitadas
+T227	PACIENTE-SITUACION_LABORAL 5791 5810	abandona el trabajo
+T228	PACIENTE-SITUACION_LABORAL 6441 6452	desempleado
+T229	PACIENTE-SITUACION_LABORAL 6455 6479	sin prestación económica
+T230	PACIENTE-SITUACION_LABORAL 6737 6769	en un albergue de indomiciliados
+T231	SANITARIO-PROFESION 8914 8922	personal
+T232	SANITARIO-PROFESION 11073 11081	personal
+T233	SANITARIO-PROFESION 11780 11791	Psiquiatras
+T234	PACIENTE-SITUACION_LABORAL 12107 12117	en prisión
+T235	SANITARIO-PROFESION 12213 12235	Equipo de Salud Mental
+T236	PACIENTE-SITUACION_LABORAL 1478 1498	Terminó Bachillerato

@@ -1,0 +1,14 @@
+
+Dependencia	O
+alcohol	O
+y	O
+cannabis	O
+en	O
+remisión	O
+total	O
+temprana	O
+(	O
+6	O
+meses	O
+)	O
+.	O

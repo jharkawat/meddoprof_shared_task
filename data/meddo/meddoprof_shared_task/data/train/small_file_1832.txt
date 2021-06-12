@@ -1,0 +1,24 @@
+
+Su	O
+primer	O
+ataque	O
+tipo	O
+pánico	O
+(	O
+"	O
+panic	O
+-	O
+like	O
+"	O
+)	O
+incluyó	O
+vértigo	O
+,	O
+temblores	O
+,	O
+debilidad	O
+de	O
+piernas	O
+y	O
+parestesias	O
+.	O

@@ -1,0 +1,25 @@
+
+Exponiendo	O
+sus	O
+escritos	O
+a	O
+su	O
+entorno	O
+de	O
+amigos	O
+del	O
+ambiente	O
+artístico	O
+,	O
+recibe	O
+fuertes	O
+críticas	O
+negativas	O
+de	O
+la	O
+parte	O
+de	O
+un	O
+escritor	B-PROFESION
+consagrado	O
+.	O

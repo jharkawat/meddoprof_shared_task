@@ -1,0 +1,6 @@
+
+Mujer	O
+de	O
+25	O
+años	O
+.	O

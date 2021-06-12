@@ -1,0 +1,9 @@
+
+Se	O
+planifican	O
+un	O
+total	O
+de	O
+8	O
+ciclos	O
+.	O

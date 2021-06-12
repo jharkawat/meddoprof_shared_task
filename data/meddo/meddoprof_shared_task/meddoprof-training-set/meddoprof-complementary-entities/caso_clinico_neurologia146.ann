@@ -1,0 +1,148 @@
+T1	SINTOMA 210 216	febril
+T2	SINTOMA 233 240	vómitos
+T3	SINTOMA 509 516	vómitos
+T4	SINTOMA 545 581	calambres en los miembros superiores
+T5	SINTOMA 587 593	fiebre
+T6	SINTOMA 646 655	calambres
+T7	SINTOMA 699 706	vómitos
+T8	SINTOMA 809 828	hormigueos distales
+T9	SINTOMA 851 860	calambres
+T10	SINTOMA 1041 1118	debilidad generalizada de predominio izquierdo e inferiores, arrastre del pie
+T11	SINTOMA 1131 1157	dificultad para la micción
+T12	SINTOMA 1211 1218	cefalea
+T13	SINTOMA 1240 1246	febril
+T14	SINTOMA 1309 1331	aftas orales/genitales
+T15	SINTOMA 1355 1364	serositis
+T16	SINTOMA 1366 1387	alteraciones visuales
+T17	SINTOMA 1389 1397	cutáneas
+T18	SINTOMA 1414 1426	convulsiones
+T19	SINTOMA 1452 1477	hemodinámicamente estable
+T20	SINTOMA 1508 1521	rigidez nucal
+T21	SINTOMA 1673 1688	fasciculaciones
+T22	SINTOMA 1690 1724	Reflejos osteotendinosos exaltados
+T23	SINTOMA 1726 1745	cutáneo-abdominales
+T24	SINTOMA 1768 1801	Babinsky presentes bilateralmente
+T25	SINTOMA 4832 4874	episodios distónicos flexores en las manos
+T26	SINTOMA 5216 5279	disestesias en el miembro superior izquierdo y el área pectoral
+T27	PROCEDIMIENTO 258 295	tratamiento antibiótico y antiemético
+T28	PROCEDIMIENTO 431 443	antibióticos
+T29	PROCEDIMIENTO 595 614	Ecografía abdominal
+T30	PROCEDIMIENTO 1429 1442	Examen físico
+T31	PROCEDIMIENTO 2062 2085	exploración neurológica
+T32	PROCEDIMIENTO 2150 2159	Hemograma
+T33	PROCEDIMIENTO 2453 2487	Estudio de líquido cefalorraquídeo
+T34	PROCEDIMIENTO 2876 2896	Estudio inmunológico
+T35	PROCEDIMIENTO 3116 3134	Electrocardiograma
+T36	PROCEDIMIENTO 3136 3139	ECG
+T37	PROCEDIMIENTO 3143 3163	radiografía de tórax
+T38	PROCEDIMIENTO 3177 3225	Resonancia magnética (RM) cerebral con gadolinio
+T39	PROCEDIMIENTO 3269 3279	RM medular
+T40	PROCEDIMIENTO 3337 3365	resonancia magnética sagital
+T41	PROCEDIMIENTO 3436 3460	Estudio neurofisiológico
+T42	PROCEDIMIENTO 3462 3500	potenciales evocados somatosensoriales
+T43	PROCEDIMIENTO 3884 3886	RM
+T44	PROCEDIMIENTO 3985 4006	cobertura antibiótica
+T45	PROCEDIMIENTO 4281 4292	corticoides
+T46	PROCEDIMIENTO 4971 4981	RM medular
+T47	PROCEDIMIENTO 5043 5054	RM cerebral
+T48	PROCEDIMIENTO 5099 5143	tratamiento con prednisona y antiepilépticos
+T49	NEG 28 31	sin
+T50	NSCO 32 47	hábitos tóxicos
+T51	NEG 583 586	sin
+T52	NSCO 587 593	fiebre
+T53	NEG 615 618	sin
+T54	NSCO 619 640	hallazgos patológicos
+T55	NEG 862 865	Sin
+T56	NSCO 866 905	focalidad neurológica en la exploración
+T57	NEG 1200 1202	No
+T58	NSCO 1203 1266	refería cefalea, síndrome infeccioso-febril o vacunas recientes
+T59	NEG 1443 1450	Afebril
+T60	NEG 1522 1525	sin
+T61	NSCO 1526 1548	otros signos meníngeos
+T62	NEG 1655 1658	sin
+T63	NSCO 1659 1688	amiotrofia ni fasciculaciones
+T64	NEG 2004 2012	negativo
+T65	NEG 2096 2099	sin
+T66	NSCO 2100 2121	hallazgos patológicos
+T67	NEG 2384 2393	negativas
+T68	NEG 2408 2417	negativos
+T69	NEG 2527 2530	sin
+T70	NSCO 2531 2539	bloqueos
+T71	NEG 2761 2770	negativas
+T72	NEG 2825 2834	negativos
+T73	NSCO 2835 2836	o
+T74	NEG 2837 2840	sin
+T75	NSCO 2841 2856	microorganismos
+T76	NEG 2863 2872	negativas
+T77	NEG 3046 3054	negativo
+T78	NEG 3104 3112	negativo
+T79	NEG 3738 3740	no
+T80	NSCO 3741 3753	diferenciada
+T81	UNC 3755 3763	probable
+T82	USCO 3764 3791	lupus eritematoso sistémico
+T83	NEG 3927 3930	sin
+T84	NSCO 3931 3973	progresión clínica en las horas siguientes
+T85	NEG 4066 4076	suspendida
+T86	NSCO 4077 4106	tras los resultados en el LCR
+T87	NEG 4116 4127	ausencia de
+T88	NSCO 4128 4152	otros datos de infección
+T89	NEG 4509 4517	falta de
+T90	NSCO 4518 4526	eficacia
+T91	NEG 4610 4612	no
+T92	NSCO 4613 4639	mostraba afectación motora
+T93	NEG 5055 5057	no
+T94	NSCO 5058 5077	se aprecian cambios
+T95	NEG 5145 5147	No
+T96	NSCO 5148 5200	ha presentado nueva clínica neurológica ni sistémica
+T97	NEG 5363 5366	sin
+T98	NSCO 5367 5396	otras alteraciones analíticas
+T99	FARMACO 734 745	domperidona
+T100	FARMACO 748 759	pantoprazol
+T101	FARMACO 3417 3426	gadolinio
+T102	FARMACO 4369 4392	tappering de prednisona
+T103	FARMACO 4467 4478	gabapentina
+T104	FARMACO 4491 4504	oxcarbazepina
+T105	FARMACO 5115 5125	prednisona
+T106	ORG_VIVO 10 15	Mujer
+T107	ORG_VIVO 143 149	perros
+T108	ORG_VIVO 153 158	gatos
+T109	ORG_VIVO 164 172	florista
+T110	ORG_VIVO 1025 1033	paciente
+T111	ORG_VIVO 1249 1256	vacunas
+T112	ORG_VIVO 2282 2285	VIH
+T113	ORG_VIVO 2287 2290	VHC
+T114	ORG_VIVO 2292 2295	VHB
+T115	ORG_VIVO 2297 2308	Herpesvirus
+T116	ORG_VIVO 2310 2320	Mycoplasma
+T117	ORG_VIVO 2322 2331	Borrellia
+T118	ORG_VIVO 2333 2341	Brucella
+T119	ORG_VIVO 2351 2354	VHS
+T120	ORG_VIVO 2356 2367	enterovirus
+T121	ORG_VIVO 2706 2709	FTA
+T122	ORG_VIVO 2711 2721	Mycoplasma
+T123	ORG_VIVO 2723 2732	Borrellia
+T124	ORG_VIVO 2734 2739	VHS 1
+T125	ORG_VIVO 2740 2743	y 2
+T126	ORG_VIVO 2745 2748	CMV
+T127	ORG_VIVO 2750 2753	VEB
+T128	ORG_VIVO 2756 2759	VVZ
+T129	ORG_VIVO 2841 2856	microorganismos
+T130	ORG_VIVO 4009 4019	antivírica
+T131	ORG_VIVO 4542 4550	paciente
+T132	ENFERMEDAD 49 78	consumo esporádico de alcohol
+T133	ENFERMEDAD 85 105	hipertrigliceridemia
+T134	ENFERMEDAD 108 127	hipercolesterolemia
+T135	ENFERMEDAD 355 371	síndrome emético
+T136	ENFERMEDAD 374 403	sedimento urinario patológico
+T137	ENFERMEDAD 671 694	trastorno electrolítico
+T138	ENFERMEDAD 1220 1246	síndrome infeccioso-febril
+T139	ENFERMEDAD 1309 1331	aftas orales/genitales
+T140	ENFERMEDAD 1803 1851	Hipoestesia tactoalgésica en el miembro superior
+T141	ENFERMEDAD 3235 3257	angioma venoso frontal
+T142	ENFERMEDAD 3653 3702	Mielitis cérvico-dorsal longitudinalmente extensa
+T143	ENFERMEDAD 3716 3737	enfermedad autoinmune
+T144	ENFERMEDAD 3764 3791	lupus eritematoso sistémico
+T145	ENFERMEDAD 4143 4152	infección
+T146	PACIENTE-PROFESION 164 172	florista
+T147	SANITARIO-PROFESION 464 475	digestólogo
+T148	SANITARIO-PROFESION 963 997	especialistas de Aparato Digestivo

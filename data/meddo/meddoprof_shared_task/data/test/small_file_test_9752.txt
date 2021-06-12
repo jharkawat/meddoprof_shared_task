@@ -1,0 +1,23 @@
+
+Se	O
+observó	O
+,	O
+con	O
+un	O
+intervalo	O
+libre	O
+de	O
+progresión	O
+de	O
+un	O
+mes	O
+aproximadamente	O
+tras	O
+finalizar	O
+la	O
+RT	O
+,	O
+primera	O
+progresión	O
+tumoral	O
+.	O

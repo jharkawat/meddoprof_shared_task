@@ -1,0 +1,11 @@
+
+Con	O
+cardiopatía	O
+hipertensiva	O
+e	O
+hipertrofia	O
+de	O
+ventrículo	O
+izquierdo	O
+leve	O
+.	O

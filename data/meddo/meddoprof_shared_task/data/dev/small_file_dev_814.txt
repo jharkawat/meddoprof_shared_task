@@ -1,0 +1,19 @@
+
+Tomó	O
+esta	O
+decisión	O
+tras	O
+sufrir	O
+un	O
+evento	O
+traumático	O
+después	O
+del	O
+cual	O
+comienza	O
+a	O
+sentir	O
+miedos	O
+e	O
+inseguridades	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+el	O
+seguimiento	O
+realizado	O
+1	O
+año	O
+después	O
+del	O
+tratamiento	O
+se	O
+apreció	O
+la	O
+resolución	O
+completa	O
+del	O
+defecto	O
+óseo	O
+sin	O
+necesidad	O
+de	O
+aplicar	O
+técnicas	O
+de	O
+regeneración	O
+periodontal	O
+.	O

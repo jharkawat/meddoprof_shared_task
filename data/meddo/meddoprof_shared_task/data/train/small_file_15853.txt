@@ -1,0 +1,24 @@
+
+El	O
+perfil	O
+inmunológico	O
+orientaba	O
+hacia	O
+un	O
+origen	O
+inflamatorio	O
+-	O
+desmielinizante	O
+y	O
+se	O
+administraron	O
+bolos	O
+diarios	O
+de	O
+megadosis	O
+de	O
+corticoides	O
+durante	O
+5	O
+días	O
+.	O

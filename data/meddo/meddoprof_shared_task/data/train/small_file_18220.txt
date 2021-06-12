@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+también	O
+fue	O
+sometido	O
+a	O
+cirugía	O
+de	O
+catarata	O
+en	O
+el	O
+ojo	O
+izquierdo	O
+(	O
+OI	O
+)	O
+en	O
+2006	O
+mediante	O
+facoemulsificación	O
+sin	O
+complicaciones	O
+.	O

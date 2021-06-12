@@ -1,0 +1,27 @@
+
+El	O
+postoperatorio	O
+inmediato	O
+cursó	O
+sin	O
+incidencias	O
+,	O
+y	O
+el	O
+paciente	O
+inició	O
+tratamiento	O
+rehabilitador	O
+precoz	O
+programado	O
+por	O
+el	O
+servicio	O
+de	O
+Medicina	O
+Física	O
+y	O
+Rehabilitación	O
+del	O
+HCDGU	O
+.	O

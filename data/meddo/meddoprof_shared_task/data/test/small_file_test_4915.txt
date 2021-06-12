@@ -1,0 +1,10 @@
+
+Buen	O
+murmullo	O
+vesicular	O
+bilateral	O
+,	O
+sin	O
+ruidos	O
+patológicos	O
+.	O

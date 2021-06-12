@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+presenta	O
+buen	O
+estado	O
+general	O
+,	O
+buen	O
+coloración	O
+mucocutánea	O
+,	O
+bien	O
+hidratada	O
+y	O
+perfundida	O
+.	O

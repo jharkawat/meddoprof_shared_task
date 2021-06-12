@@ -1,0 +1,26 @@
+
+A	O
+nivel	O
+laboral	O
+,	O
+se	O
+ha	O
+mantenido	O
+activa	O
+desde	O
+los	O
+17	O
+hasta	O
+los	O
+27	O
+años	O
+,	O
+momento	O
+en	O
+el	O
+que	O
+debutó	O
+la	O
+enfermedad	O
+psiquiátrica	O
+.	O

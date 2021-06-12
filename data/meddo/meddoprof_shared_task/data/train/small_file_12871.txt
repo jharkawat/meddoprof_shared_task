@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+presenta	O
+una	O
+sedestación	O
+activa	O
+,	O
+puede	O
+ponerse	O
+pie	O
+y	O
+presenta	O
+una	O
+buena	O
+tolerancia	O
+al	O
+dolor	O
+.	O

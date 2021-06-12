@@ -1,0 +1,26 @@
+
+Tensión	O
+arterial	O
+154	O
+/	O
+86	O
+mm	O
+Hg	O
+;	O
+frecuencia	O
+cardíaca	O
+70	O
+lpm	O
+;	O
+frecuencia	O
+respiratoria	O
+25	O
+rpm	O
+;	O
+temperatura	O
+37oC	O
+;	O
+satO2	O
+94	O
+%	O
+.	O

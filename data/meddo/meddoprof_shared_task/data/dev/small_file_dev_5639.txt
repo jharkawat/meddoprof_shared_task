@@ -1,0 +1,15 @@
+
+Se	O
+propuso	O
+tratamiento	O
+mediante	O
+resección	O
+transuretral	O
+ante	O
+la	O
+sospecha	O
+de	O
+un	O
+tumor	O
+vesical	O
+.	O

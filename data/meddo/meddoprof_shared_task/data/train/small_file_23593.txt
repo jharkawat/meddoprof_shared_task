@@ -1,0 +1,25 @@
+
+Después	O
+de	O
+habérsele	O
+prescrito	O
+varios	O
+antidepresivos	O
+,	O
+incluso	O
+algunos	O
+en	O
+combinación	O
+,	O
+no	O
+hubo	O
+buena	O
+respuesta	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+determinó	O
+hospitalizar	O
+.	O

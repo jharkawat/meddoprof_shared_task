@@ -1,0 +1,10 @@
+
+Tiene	O
+dos	O
+hijos	O
+de	O
+25	O
+y	O
+30	O
+años	O
+.	O

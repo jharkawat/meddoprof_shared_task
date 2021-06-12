@@ -1,0 +1,13 @@
+
+El	O
+resultado	O
+anatomopatológico	O
+fue	O
+de	O
+gastritis	O
+leve	O
+con	O
+ausencia	O
+de	O
+neoplasia	O
+.	O

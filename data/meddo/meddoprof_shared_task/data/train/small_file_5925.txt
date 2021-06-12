@@ -1,0 +1,7 @@
+
+Hernia	O
+hiatal	O
+y	O
+dispepsia	O
+crónica	O
+.	O

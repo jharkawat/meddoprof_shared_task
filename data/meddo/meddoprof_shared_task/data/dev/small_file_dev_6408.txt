@@ -1,0 +1,13 @@
+
+Marcha	O
+normal	O
+sin	O
+lateralización	O
+ni	O
+aumento	O
+de	O
+la	O
+base	O
+de	O
+sustentación	O
+.	O

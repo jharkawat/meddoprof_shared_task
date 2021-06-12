@@ -1,0 +1,27 @@
+
+Dada	O
+la	O
+aparición	O
+de	O
+éste	O
+nuevo	O
+síntoma	O
+,	O
+se	O
+solicitó	O
+nueva	O
+RX	O
+de	O
+tórax	O
+y	O
+se	O
+citó	O
+a	O
+la	O
+paciente	O
+tras	O
+el	O
+fin	O
+de	O
+semana	O
+.	O

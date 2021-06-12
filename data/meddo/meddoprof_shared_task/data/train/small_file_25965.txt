@@ -1,0 +1,6 @@
+
+No	O
+auto	O
+o	O
+heteroagresividad	O
+.	O

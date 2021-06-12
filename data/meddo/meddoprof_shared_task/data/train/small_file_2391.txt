@@ -1,0 +1,19 @@
+
+El	O
+diagnostico	O
+clínico	O
+resultante	O
+es	O
+una	O
+dermatitis	O
+alérgica	O
+de	O
+contacto	O
+por	O
+sensibilización	O
+a	O
+acrilatos	O
+de	O
+origen	O
+profesional	O
+.	O

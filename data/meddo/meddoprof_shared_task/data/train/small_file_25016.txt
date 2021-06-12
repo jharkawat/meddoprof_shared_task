@@ -1,0 +1,17 @@
+
+En	O
+noviembre	O
+del	O
+2008	O
+se	O
+remite	O
+al	O
+paciente	O
+a	O
+nuestra	O
+unidad	O
+solicitando	O
+el	O
+actual	O
+ingreso	O
+.	O

@@ -1,0 +1,19 @@
+
+Otros	O
+agentes	O
+a	O
+considerar	O
+son	O
+:	O
+Norovirus	O
+,	O
+Rotavirus	O
+,	O
+Giardia	O
+lamblia	O
+,	O
+Entamoeba	O
+histolytica	O
+y	O
+Cyclospora	O
+.	O

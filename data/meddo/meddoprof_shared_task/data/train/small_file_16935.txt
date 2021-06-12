@@ -1,0 +1,22 @@
+
+Durante	O
+su	O
+estancia	O
+en	O
+el	O
+Servicio	O
+de	O
+Urgencias	O
+y	O
+en	O
+planta	O
+de	O
+hospitalización	O
+se	O
+realizaron	O
+una	O
+serie	O
+de	O
+pruebas	O
+complementarias	O
+:	O

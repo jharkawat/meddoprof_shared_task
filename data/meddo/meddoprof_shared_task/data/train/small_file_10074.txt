@@ -1,0 +1,7 @@
+
+No	O
+neumotórax	O
+ni	O
+derrame	O
+pleural	O
+.	O

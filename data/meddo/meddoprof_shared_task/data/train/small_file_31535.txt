@@ -1,0 +1,10 @@
+
+Se	O
+detectó	O
+una	O
+dislipemia	O
+con	O
+hipertrigliceridemia	O
+e	O
+hipercolesterolemia	O
+.	O

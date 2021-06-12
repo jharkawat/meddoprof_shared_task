@@ -1,0 +1,11 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+abdomen	O
+se	O
+objetiva	O
+neumoperitoneo	O
+franco	O
+.	O

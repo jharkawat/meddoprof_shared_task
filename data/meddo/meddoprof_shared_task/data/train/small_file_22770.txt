@@ -1,0 +1,8 @@
+
+Aurícula	O
+izquierda	O
+y	O
+raíz	O
+aórtica	O
+normales	O
+.	O

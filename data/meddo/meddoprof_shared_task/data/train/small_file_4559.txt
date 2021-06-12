@@ -1,0 +1,16 @@
+
+Murmullo	O
+vesicular	O
+conservado	O
+con	O
+ruidos	O
+transmitidos	O
+de	O
+vías	O
+altas	O
+,	O
+sin	O
+otros	O
+ruidos	O
+audibles	O
+.	O

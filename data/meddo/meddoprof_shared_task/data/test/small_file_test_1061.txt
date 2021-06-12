@@ -1,0 +1,12 @@
+
+Encerrada	O
+en	O
+sí	O
+misma	O
+para	O
+protegerse	O
+vs	O
+.	O
+búsqueda	O
+de	O
+unión	O

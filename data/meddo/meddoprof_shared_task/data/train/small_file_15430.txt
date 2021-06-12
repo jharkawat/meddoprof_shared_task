@@ -1,0 +1,12 @@
+
+Su	O
+enfermedad	O
+tenía	O
+cinco	O
+años	O
+de	O
+evolución	O
+sin	O
+tratamiento	O
+médico	O
+.	O

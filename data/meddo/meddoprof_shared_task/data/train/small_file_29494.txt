@@ -1,0 +1,14 @@
+
+no	O
+sé	O
+lo	O
+que	O
+me	O
+dicen	O
+porque	O
+no	O
+los	O
+entiendo	O
+.	O
+.	O
+.	O

@@ -1,0 +1,19 @@
+
+Dada	O
+la	O
+persistencia	O
+clínico	O
+-	O
+analítica	O
+de	O
+afectación	O
+inflamatoria	O
+sistémica	O
+se	O
+orienta	O
+como	O
+artritis	O
+idiopática	O
+juvenil	O
+sistémica	O
+.	O

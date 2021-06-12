@@ -1,0 +1,12 @@
+
+Frente	O
+a	O
+este	O
+cuadro	O
+clínico	O
+,	O
+la	O
+sospecha	O
+diagnóstica	O
+es	O
+:	O

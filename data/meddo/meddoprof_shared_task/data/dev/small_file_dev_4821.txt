@@ -1,0 +1,14 @@
+
+RX	O
+de	O
+abdomen	O
+:	O
+SHRV	O
+(	O
+sin	O
+hallazgos	O
+radiológicos	O
+de	O
+interés	O
+)	O
+.	O

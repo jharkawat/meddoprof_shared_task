@@ -1,0 +1,24 @@
+
+Salvo	O
+el	O
+episodio	O
+actual	O
+,	O
+no	O
+aporta	O
+otros	O
+antecedentes	O
+personales	O
+ni	O
+familiares	O
+de	O
+interés	O
+,	O
+ni	O
+intervenciones	O
+quirúrgicas	O
+previas	O
+o	O
+tratamiento	O
+habitual	O
+.	O

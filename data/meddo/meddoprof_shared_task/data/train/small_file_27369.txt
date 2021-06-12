@@ -1,0 +1,27 @@
+
+En	O
+dos	O
+ocasiones	O
+ha	O
+intentado	O
+agredir	O
+con	O
+unas	O
+tijeras	O
+a	O
+uno	O
+de	O
+sus	O
+compañeros	B-SITUACION_LABORAL
+quien	O
+comenta	O
+que	O
+la	O
+insultaba	O
+,	O
+con	O
+la	O
+intención	O
+de	O
+matarlo	O
+.	O

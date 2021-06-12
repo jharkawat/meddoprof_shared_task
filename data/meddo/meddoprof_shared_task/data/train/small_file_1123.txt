@@ -1,0 +1,17 @@
+
+Se	O
+ofertó	O
+un	O
+cambio	O
+de	O
+puesto	O
+de	O
+trabajo	O
+,	O
+que	O
+fue	O
+rechazado	O
+por	O
+la	O
+trabajadora	B-SITUACION_LABORAL
+.	O

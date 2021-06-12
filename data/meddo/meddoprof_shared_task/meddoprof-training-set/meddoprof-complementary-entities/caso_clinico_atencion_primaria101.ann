@@ -1,0 +1,86 @@
+T1	SINTOMA 19 26	Cefalea
+T2	SINTOMA 540 559	cefalea holocraneal
+T3	SINTOMA 763 781	mal estado general
+T4	SINTOMA 783 802	labilidad emocional
+T5	SINTOMA 805 826	agitación psicomotriz
+T6	SINTOMA 853 863	Consciente
+T7	SINTOMA 866 875	orientado
+T8	SINTOMA 927 942	rigidez de nuca
+T9	SINTOMA 946 962	signos meníngeos
+T10	SINTOMA 1230 1250	distensión abdominal
+T11	SINTOMA 1277 1306	dolor a la palpación profunda
+T12	SINTOMA 1367 1395	Ruidos hidroaéreos presentes
+T13	SINTOMA 1459 1465	edemas
+T14	SINTOMA 3039 3046	cefalea
+T15	PROCEDIMIENTO 828 851	Exploración neurológica
+T16	PROCEDIMIENTO 1203 1224	Exploración abdominal
+T17	PROCEDIMIENTO 1397 1416	Exploración de MMII
+T18	PROCEDIMIENTO 1559 1562	ECG
+T19	PROCEDIMIENTO 1657 1666	Hemograma
+T20	PROCEDIMIENTO 1766 1777	TAC craneal
+T21	PROCEDIMIENTO 1979 1988	Angio-TAC
+T22	PROCEDIMIENTO 2928 2947	exploración general
+T23	NEG 126 129	sin
+T24	NSCO 130 163	alergias medicamentosas conocidas
+T25	NEG 699 702	Sin
+T26	NSCO 703 734	otra sintomatología acompañante
+T27	NEG 923 926	Sin
+T28	NSCO 927 962	rigidez de nuca ni signos meníngeos
+T29	NEG 1026 1029	sin
+T30	NSCO 1030 1061	otros hallazgos en globo ocular
+T31	NEG 1124 1127	sin
+T32	NSCO 1128 1133	soplo
+T33	NEG 1165 1168	sin
+T34	NSCO 1169 1201	ruidos patológicos sobreañadidos
+T35	NEG 1226 1229	Sin
+T36	NSCO 1230 1250	distensión abdominal
+T37	NEG 1273 1276	Sin
+T38	NSCO 1277 1306	dolor a la palpación profunda
+T39	NEG 1308 1311	Sin
+T40	NSCO 1312 1329	masas ni megalias
+T41	NEG 1331 1334	Sin
+T42	NSCO 1335 1365	presencia de defensa ni rebote
+T43	NEG 1455 1458	sin
+T44	NSCO 1459 1482	edemas ni signos de TVP
+T45	NEG 1612 1615	sin
+T46	NSCO 1616 1634	otras alteraciones
+T47	NEG 1727 1735	negativo
+T48	NSCO 1736 1747	Sistemático
+T49	NEG 2900 2903	sin
+T50	NSCO 2904 2925	focalidad neurológica
+T51	NEG 3090 3092	no
+T52	NSCO 3093 3125	se objetivan nuevas alteraciones
+T53	ORG_VIVO 109 114	varón
+T54	ORG_VIVO 178 188	familiares
+T55	ORG_VIVO 190 204	abuelo materno
+T56	ORG_VIVO 274 279	padre
+T57	ORG_VIVO 327 332	madre
+T58	ORG_VIVO 375 385	personales
+T59	ORG_VIVO 405 413	cachimba
+T60	ORG_VIVO 691 697	amigos
+T61	ORG_VIVO 2109 2117	familiar
+T62	ORG_VIVO 2146 2153	familia
+T63	ORG_VIVO 2155 2162	Familia
+T64	ORG_VIVO 2175 2184	parientes
+T65	ORG_VIVO 2316 2320	AVEs
+T66	ORG_VIVO 2325 2333	paciente
+T67	ORG_VIVO 2368 2374	abuelo
+T68	ORG_VIVO 2455 2465	familiares
+T69	ORG_VIVO 2468 2474	amigos
+T70	ORG_VIVO 2552 2557	padre
+T71	ENFERMEDAD 130 153	alergias medicamentosas
+T72	ENFERMEDAD 219 244	accidente cerebrovascular
+T73	ENFERMEDAD 246 262	ACV) hemorrágico
+T74	ENFERMEDAD 284 319	aneurisma en arteria cerebral media
+T75	ENFERMEDAD 321 324	ACM
+T76	ENFERMEDAD 337 349	fibromialgia
+T77	ENFERMEDAD 352 360	fumadora
+T78	ENFERMEDAD 495 508	criptorquidia
+T79	ENFERMEDAD 1479 1482	TVP
+T80	ENFERMEDAD 1790 1842	hemorragia intraparenquimatosa aguda temporoparietal
+T81	ENFERMEDAD 2072 2098	malformación arteriovenosa
+T82	ENFERMEDAD 2562 2597	aneurisma en arteria cerebral media
+T83	ENFERMEDAD 2663 2707	Hematoma intraparenquimatoso temporoparietal
+T84	ENFERMEDAD 2729 2755	malformación arteriovenosa
+T85	ENFERMEDAD 3049 3069	crisis epileptógenas
+T86	PACIENTE-ACTIVIDAD 415 425	Deportista

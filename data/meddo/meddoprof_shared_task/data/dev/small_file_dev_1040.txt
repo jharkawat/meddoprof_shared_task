@@ -1,0 +1,16 @@
+
+Estaba	O
+muy	O
+suspicaz	O
+,	O
+con	O
+heteroagresividad	O
+marcada	O
+,	O
+que	O
+precisó	O
+contención	O
+física	O
+y	O
+química	O
+.	O

@@ -1,0 +1,23 @@
+
+Progresivamente	O
+,	O
+empieza	O
+a	O
+presentar	O
+ideas	O
+delirantes	O
+de	O
+perjuicio	O
+con	O
+los	O
+compañeros	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+y	O
+pronto	O
+se	O
+extienden	O
+al	O
+ámbito	O
+familiar	O
+.	O

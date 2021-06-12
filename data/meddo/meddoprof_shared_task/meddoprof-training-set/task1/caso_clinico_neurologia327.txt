@@ -1,0 +1,22 @@
+Anamnesis
+Paciente varón de 46 años de edad, que acude a Urgencias por cefalea. La clínica comienza varias horas después de realizar ejercicio físico (esquiar) y haber tenido un traumatismo practicando el mismo, de moderada intensidad.
+
+Inicialmente, en el Servicio de Urgencias, se investiga la posibilidad de una hemorragia subaracnoidea, ya que se trataba de una cefalea que comienza de una manera súbita, muy intensa, holocraneal, con fotofobia, náuseas, vómitos, impedía la deambulación, sin acompañarse de focalidad neurológica. Posteriormente, y con una anamnesis más completa, se obtuvo otro dato muy importante, y es que la cefalea desaparecía casi por completo cuando el paciente estaba en decúbito, y era al incorporarse cuando la cefalea volvía a presentarse de manera intensa. Como antecedentes de interés destacan dos aspectos importantes: espondilolistesis L5-S1, desde hace 15 años, debido a un traumatismo directo sobre la columna lumbar, en relación con un accidente laboral, y cefalea hace 12 años, de pocos días de duración, por la cual no consultó, de características clínicas iguales a la actual, tras realizar ejercicio físico moderado.
+
+Exploración física
+En la exploración física no se encontraron datos patológicos sistémicos, ni de focalidad neurológica. En la resonancia magnética (RM), potenciada en FLAIR, se observa un aumento de la captación meníngea y un leve descenso de la amígdala cerebelosa derecha.
+
+Pruebas complementarias
+• Analítica: hemograma y fórmula sin alteraciones, velocidad de sedimentación globular 36 mm, coagulación normal, bioquímica sin alteraciones.
+• Bioquímica del líquido cefalorraquídeo (LCR): leucocitos 4, xantocromia negativa, glucosa 53 mg/dl, proteínas 46 mg/dl.
+• Presión de apertura de LCR: 10 cm H2O.
+• Tomografía computarizada (TC) craneal: sin datos patológicos.
+• RM craneal: se aprecia captación meníngea aumentada continua y lisa. Se observa también un leve descenso de la amígdala cerebelosa derecha, no hay colecciones subdurales.
+• Cisternogammagrafía: salida de LCR por varias fístulas a lo largo de toda la columna vertebral. Destacan dos de mayor intensidad en el lado derecho de la columna lumbo-sacra.
+
+Diagnóstico
+Cefalea secundaria a bajo volumen de LCR, secundario a múltiples fístulas de LCR.
+
+Tratamiento y evolución
+Durante los primeros días del ingreso, el paciente se muestra muy sintomático, necesitando reposo absoluto con hidratación y analgesia. Posteriormente, y de manera paulatina, el paciente presenta una mejoría clínica evidente.
+Inicialmente se plantea el tratamiento con un parche epidural de sangre autóloga, aunque posteriormente, viendo la buena evolución del mismo, se decide darle el alta y realizar un seguimiento ambulatorio. En la cisternogammagrafía realizada se aprecia la salida de LCR por varias fistulas a lo largo de toda la columna vertebral.

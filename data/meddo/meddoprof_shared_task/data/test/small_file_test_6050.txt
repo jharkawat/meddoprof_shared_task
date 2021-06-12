@@ -1,0 +1,8 @@
+
+No	O
+se	O
+observó	O
+presencia	O
+de	O
+ginecomastia	O
+.	O

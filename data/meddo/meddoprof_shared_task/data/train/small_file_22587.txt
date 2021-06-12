@@ -1,0 +1,15 @@
+
+Consulta	O
+al	O
+servico	O
+de	O
+urgencia	O
+por	O
+presentar	O
+una	O
+crisis	O
+convulsiva	O
+tónico	O
+clónica	O
+generalizada	O
+.	O

@@ -1,0 +1,16 @@
+
+Exploración	O
+neurológica	O
+:	O
+deterioro	O
+cognitivo	O
+leve	O
+,	O
+indiferencia	O
+y	O
+alteración	O
+de	O
+la	O
+fluencia	O
+semántica	O
+.	O

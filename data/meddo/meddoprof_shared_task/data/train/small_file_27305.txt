@@ -1,0 +1,21 @@
+
+En	O
+la	O
+discusión	O
+nos	O
+centramos	O
+en	O
+el	O
+diagnóstico	O
+diferencial	O
+:	O
+predominan	O
+rasgos	O
+aspergerianos	O
+y	O
+de	O
+personalidad	O
+esquitípicos	O
+y	O
+disociales	O
+.	O

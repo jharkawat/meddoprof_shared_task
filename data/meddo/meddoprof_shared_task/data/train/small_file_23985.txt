@@ -1,0 +1,11 @@
+
+Recibió	O
+un	O
+diagnóstico	O
+primario	O
+de	O
+"	O
+esquizofrenia	O
+indiferenciada	O
+"	O
+.	O

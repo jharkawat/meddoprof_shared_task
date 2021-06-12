@@ -1,0 +1,10 @@
+
+-	O
+Hipertensión	O
+arterial	O
+mal	O
+controlada	O
+conocida	O
+desde	O
+2009	O
+.	O

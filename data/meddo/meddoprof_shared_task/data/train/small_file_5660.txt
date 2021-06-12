@@ -1,0 +1,17 @@
+
+Se	O
+decide	O
+derivación	O
+a	O
+Urgencias	O
+para	O
+valoración	O
+por	O
+parte	O
+de	O
+Cirugía	O
+Vascular	O
+de	O
+forma	O
+urgente	O
+.	O

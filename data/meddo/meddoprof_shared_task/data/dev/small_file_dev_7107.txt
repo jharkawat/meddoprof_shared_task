@@ -1,0 +1,15 @@
+
+Masa	O
+rectal	O
+de	O
+muy	O
+probable	O
+causa	O
+infecciosa	O
+:	O
+linfogranuloma	O
+venéreo	O
+versus	O
+proctitis	O
+sifilítica	O
+.	O

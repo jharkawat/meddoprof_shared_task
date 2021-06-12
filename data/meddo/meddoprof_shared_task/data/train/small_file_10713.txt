@@ -1,0 +1,10 @@
+
+se	O
+indicó	O
+la	O
+amputación	O
+como	O
+única	O
+posibilidad	O
+terapéutica	O
+.	O

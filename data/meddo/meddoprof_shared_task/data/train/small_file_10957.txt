@@ -1,0 +1,15 @@
+
+Gasometría	O
+venosa	O
+:	O
+pH	O
+7	O
+"	O
+40	O
+,	O
+pCO2	O
+44	O
+,	O
+HCO3	O
+27	O
+.	O

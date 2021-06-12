@@ -1,0 +1,12 @@
+
+No	O
+ha	O
+viajado	O
+recientemente	O
+ni	O
+ha	O
+tenido	O
+contacto	O
+con	O
+animales	O
+.	O

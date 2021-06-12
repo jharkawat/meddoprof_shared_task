@@ -1,0 +1,17 @@
+
+Aunque	O
+puede	O
+presentarse	O
+a	O
+cualquier	O
+edad	O
+,	O
+lo	O
+hace	O
+con	O
+mayor	O
+frecuencia	O
+en	O
+jóvenes	O
+adultos	O
+.	O

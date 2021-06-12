@@ -1,0 +1,20 @@
+
+Enfermedad	O
+actual	O
+:	O
+Paciente	O
+consulta	O
+por	O
+tumoración	O
+con	O
+signos	O
+inflamatorios	O
+nivel	O
+cubital	O
+distal	O
+de	O
+dos	O
+meses	O
+de	O
+evolución	O
+.	O

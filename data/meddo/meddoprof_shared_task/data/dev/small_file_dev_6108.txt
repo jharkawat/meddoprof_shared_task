@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+refiere	O
+beber	O
+agua	O
+de	O
+arroyos	O
+ocasionalmente	O
+,	O
+pero	O
+refiere	O
+tomar	O
+productos	O
+lácteos	O
+higienizados	O
+.	O

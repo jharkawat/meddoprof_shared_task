@@ -1,0 +1,23 @@
+
+Sin	O
+indicios	O
+de	O
+trastorno	O
+de	O
+la	O
+personalidad	O
+y	O
+con	O
+adecuado	O
+funcionamiento	O
+psicosocial	O
+en	O
+el	O
+año	O
+previo	O
+al	O
+inicio	O
+de	O
+la	O
+sintomatología	O
+.	O

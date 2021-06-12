@@ -1,0 +1,22 @@
+
+Comenta	O
+que	O
+en	O
+esa	O
+época	O
+ya	O
+consumía	O
+para	O
+tranquilizarse	O
+en	O
+relación	O
+con	O
+la	O
+ansiedad	O
+que	O
+le	O
+producía	O
+su	O
+primer	O
+trabajo	O
+.	O

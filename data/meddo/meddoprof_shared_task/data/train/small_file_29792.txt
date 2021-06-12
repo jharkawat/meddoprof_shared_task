@@ -1,0 +1,24 @@
+
+Al	O
+parecer	O
+,	O
+el	O
+paciente	O
+ha	O
+abandonado	O
+el	O
+aseo	O
+personal	O
+y	O
+verbaliza	O
+ideación	O
+autolítica	O
+pasiva	O
+dada	O
+la	O
+persistencia	O
+de	O
+los	O
+pensamientos	O
+obsesivos	O
+.	O

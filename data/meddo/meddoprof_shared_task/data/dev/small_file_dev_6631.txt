@@ -1,0 +1,20 @@
+
+En	O
+la	O
+exploración	O
+inicial	O
+se	O
+encontraba	O
+estable	O
+hemodinamicamente	O
+,	O
+presentaba	O
+un	O
+soplo	O
+sistólico	O
+en	O
+el	O
+borde	O
+esternal	O
+izquierdo	O
+.	O

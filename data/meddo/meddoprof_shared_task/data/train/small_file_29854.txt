@@ -1,0 +1,12 @@
+
+Esquizofrenia	O
+no	O
+especificada	O
+(	O
+F	O
+.	O
+20	O
+.	O
+9	O
+)	O
+.	O

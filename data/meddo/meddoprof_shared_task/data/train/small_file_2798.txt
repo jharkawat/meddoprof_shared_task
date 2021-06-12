@@ -1,0 +1,12 @@
+
+6	O
+hermanos	O
+,	O
+uno	O
+fallecido	O
+en	O
+un	O
+accidente	O
+de	O
+moto	O
+.	O

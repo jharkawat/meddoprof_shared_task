@@ -1,0 +1,23 @@
+
+Tras	O
+permanecer	O
+ingresada	O
+durante	O
+10	O
+días	O
+,	O
+la	O
+paciente	O
+es	O
+dada	O
+de	O
+alta	O
+por	O
+mejoría	O
+clínica	O
+y	O
+con	O
+lenguaje	O
+más	O
+coherente	O
+.	O

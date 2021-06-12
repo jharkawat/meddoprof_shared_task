@@ -1,0 +1,17 @@
+
+Se	O
+trata	O
+,	O
+por	O
+tanto	O
+,	O
+de	O
+un	O
+carcinoma	O
+epidermoide	O
+de	O
+pulmón	O
+cT1bN0	O
+-	O
+1M0	O
+.	O

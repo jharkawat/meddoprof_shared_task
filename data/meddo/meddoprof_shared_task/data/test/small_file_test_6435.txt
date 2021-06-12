@@ -1,0 +1,10 @@
+
+Se	O
+acompaña	O
+de	O
+adenopatías	O
+metastásicas	O
+en	O
+axila	O
+derecha	O
+.	O

@@ -1,0 +1,24 @@
+
+Hígado	O
+de	O
+tamaño	O
+y	O
+morfología	O
+normales	O
+con	O
+quiste	O
+simple	O
+en	O
+lóbulo	O
+caudado	O
+de	O
+7	O
+mm	O
+,	O
+sin	O
+evidencia	O
+de	O
+otras	O
+lesiones	O
+focales	O
+.	O

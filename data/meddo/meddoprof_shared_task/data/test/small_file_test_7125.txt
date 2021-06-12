@@ -1,0 +1,20 @@
+
+Sin	O
+otras	O
+lesiones	O
+visibles	O
+,	O
+ni	O
+adenopatías	O
+periféricas	O
+groseras	O
+palpables	O
+,	O
+siendo	O
+resto	O
+de	O
+la	O
+exploración	O
+física	O
+anodina	O
+.	O

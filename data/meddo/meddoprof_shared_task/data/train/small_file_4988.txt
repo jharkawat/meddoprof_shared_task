@@ -1,0 +1,25 @@
+
+Hacemos	O
+diagnóstico	O
+diferencial	O
+con	O
+aquellos	O
+procesos	O
+neoformativos	O
+que	O
+ocasionan	O
+síndrome	O
+de	O
+vena	O
+cava	O
+superior	O
+:	O
+timoma	O
+,	O
+carcinoma	O
+tiroideo	O
+,	O
+teratoma	O
+,	O
+sarcoma	O
+.	O

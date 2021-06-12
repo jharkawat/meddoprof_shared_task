@@ -1,0 +1,9 @@
+
+Esplenomegalia	O
+idiopática	O
+:	O
+como	O
+diagnóstico	O
+de	O
+exclusión	O
+.	O

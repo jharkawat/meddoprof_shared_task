@@ -1,0 +1,22 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+rifampicina	O
+,	O
+isoniacina	O
+,	O
+etambutol	O
+y	O
+pirazinamida	O
+,	O
+cuyas	O
+dosis	O
+se	O
+ajustaron	O
+al	O
+peso	O
+del	O
+paciente	O
+.	O

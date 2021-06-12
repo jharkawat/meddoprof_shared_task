@@ -1,0 +1,14 @@
+
+Recibió	O
+tratamiento	O
+quimioterápico	O
+con	O
+Cisplatino	O
+y	O
+5	O
+-	O
+fluoracilo	O
+con	O
+intención	O
+radiosensibilizante	O
+.	O

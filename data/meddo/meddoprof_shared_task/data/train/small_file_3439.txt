@@ -1,0 +1,20 @@
+
+Se	O
+aprecia	O
+en	O
+la	O
+exploración	O
+física	O
+disminución	O
+del	O
+murmullo	O
+vesicular	O
+en	O
+base	O
+pulmonar	O
+izquierda	O
+,	O
+encontrándose	O
+casi	O
+abolido	O
+.	O

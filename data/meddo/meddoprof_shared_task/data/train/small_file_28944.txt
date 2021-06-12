@@ -1,0 +1,24 @@
+
+También	O
+tratado	O
+en	O
+diferentes	O
+dispositivos	O
+rehabilitadores	O
+(	O
+Hospital	O
+de	O
+Día	O
+,	O
+Comunidad	O
+Terapéutica	O
+)	O
+,	O
+en	O
+donde	O
+toma	O
+la	O
+medicación	O
+con	O
+supervisión	O
+.	O

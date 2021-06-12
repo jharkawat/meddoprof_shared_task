@@ -1,0 +1,12 @@
+
+ECOG	O
+1	O
+(	O
+en	O
+relación	O
+con	O
+los	O
+síntomas	O
+locales	O
+)	O
+.	O

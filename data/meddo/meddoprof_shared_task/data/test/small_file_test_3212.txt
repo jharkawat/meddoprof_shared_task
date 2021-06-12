@@ -1,0 +1,11 @@
+
+No	O
+hubo	O
+otros	O
+hallazgos	O
+positivos	O
+en	O
+el	O
+examen	O
+físico	O
+.	O

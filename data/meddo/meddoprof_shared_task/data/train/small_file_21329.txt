@@ -1,0 +1,26 @@
+
+La	O
+profesora	B-PROFESION
+se	O
+da	O
+cuenta	O
+,	O
+les	O
+insta	O
+a	O
+dejar	O
+el	O
+tema	O
+y	O
+pide	O
+a	O
+toda	O
+la	O
+clase	O
+que	O
+preste	O
+atención	O
+a	O
+la	O
+pizarra	O
+.	O

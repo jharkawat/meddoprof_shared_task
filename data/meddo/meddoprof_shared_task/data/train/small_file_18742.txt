@@ -1,0 +1,26 @@
+
+La	O
+paciente	O
+evoluciona	O
+favorablemente	O
+,	O
+pero	O
+a	O
+los	O
+tres	O
+días	O
+de	O
+tratamiento	O
+se	O
+describe	O
+agitación	O
+psicomotora	O
+con	O
+agresividad	O
+verbal	O
+y	O
+amenazas	O
+de	O
+agresión	O
+física	O
+.	O

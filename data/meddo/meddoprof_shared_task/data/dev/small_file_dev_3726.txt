@@ -1,0 +1,21 @@
+
+Está	O
+muy	O
+agobiado	O
+porque	O
+tiene	O
+miedo	O
+de	O
+no	O
+alcanzar	O
+los	O
+objetivos	O
+en	O
+sus	O
+estudios	O
+,	O
+porque	O
+no	O
+puede	O
+concentrarse	O
+.	O

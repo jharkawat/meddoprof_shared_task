@@ -1,0 +1,12 @@
+
+Carcinoma	O
+lobulillar	O
+infiltrante	O
+estadio	O
+IIA	O
+diagnosticado	O
+en	O
+diciembre	O
+/	O
+2012	O
+.	O

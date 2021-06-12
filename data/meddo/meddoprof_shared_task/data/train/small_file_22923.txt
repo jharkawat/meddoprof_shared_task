@@ -1,0 +1,17 @@
+
+En	O
+la	O
+adolescencia	O
+el	O
+paciente	O
+tuvo	O
+dificultades	O
+para	O
+la	O
+integración	O
+en	O
+su	O
+grupo	O
+de	O
+iguales	O
+.	O

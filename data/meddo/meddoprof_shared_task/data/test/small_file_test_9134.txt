@@ -1,0 +1,11 @@
+
+Paciente	O
+poco	O
+colaborador	O
+,	O
+malhumorado	O
+,	O
+irritable	O
+e	O
+inapetente	O
+.	O

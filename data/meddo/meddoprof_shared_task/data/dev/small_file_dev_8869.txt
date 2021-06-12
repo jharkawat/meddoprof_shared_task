@@ -1,0 +1,26 @@
+
+En	O
+estos	O
+síndromes	O
+,	O
+no	O
+es	O
+sólo	O
+un	O
+mediador	O
+de	O
+inflamación	O
+,	O
+sino	O
+que	O
+participa	O
+en	O
+la	O
+fisiopatogenia	O
+de	O
+la	O
+enfermedad	O
+como	O
+citoquina	O
+inflamatoria	O
+.	O

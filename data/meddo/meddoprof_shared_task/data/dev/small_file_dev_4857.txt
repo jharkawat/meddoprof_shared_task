@@ -1,0 +1,20 @@
+
+Se	O
+realizó	O
+TAC	O
+de	O
+control	O
+que	O
+mostró	O
+correcta	O
+aposición	O
+de	O
+la	O
+endoprótesis	O
+sin	O
+migración	O
+ni	O
+extravasación	O
+del	O
+contraste	O
+.	O

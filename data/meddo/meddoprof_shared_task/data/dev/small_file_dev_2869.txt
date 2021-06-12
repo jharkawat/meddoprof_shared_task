@@ -1,0 +1,6 @@
+
+Posee	O
+buen	O
+apoyo	O
+social	O
+.	O

@@ -1,0 +1,12 @@
+
+CENTRO	O
+SANITARIO	O
+:	O
+Psiquiatría	O
+Hospital	O
+Juan	O
+Ramón	O
+Jiménez	O
+(	O
+Huelva	O
+)	O

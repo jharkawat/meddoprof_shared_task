@@ -1,0 +1,10 @@
+
+En	O
+el	O
+OI	O
+no	O
+se	O
+apreciaban	O
+lesiones	O
+retinianas	O
+.	O

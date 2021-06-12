@@ -1,0 +1,10 @@
+
+Juicio	O
+clínico	O
+:	O
+neoplasia	O
+pulmonar	O
+con	O
+metástasis	O
+cerebral	O
+.	O

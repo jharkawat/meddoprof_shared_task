@@ -1,0 +1,10 @@
+
+En	O
+ese	O
+momento	O
+,	O
+se	O
+trasladan	O
+a	O
+Madrid	O
+.	O

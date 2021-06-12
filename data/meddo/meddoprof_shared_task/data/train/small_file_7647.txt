@@ -1,0 +1,10 @@
+
+Refiere	O
+aparición	O
+de	O
+nuevas	O
+lesiones	O
+posteriormente	O
+al	O
+embarazo	O
+.	O

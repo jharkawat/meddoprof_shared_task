@@ -1,0 +1,14 @@
+
+Radiografía	O
+de	O
+tórax	O
+con	O
+senos	O
+cardio	O
+y	O
+costo	O
+frénicos	O
+libres	O
+sin	O
+condensaciones	O
+.	O

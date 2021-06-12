@@ -1,0 +1,18 @@
+
+1	O
+,	O
+015	O
+,	O
+Cuerpos	O
+Cetónicos	O
+NEGATIVO	O
+,	O
+Pigmentos	O
+biliares	O
+NEGATIVO	O
+,	O
+Glucosa	O
+orina	O
+3	O
++	O
+.	O

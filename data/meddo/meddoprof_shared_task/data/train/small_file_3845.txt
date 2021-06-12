@@ -1,0 +1,8 @@
+
+No	O
+parece	O
+existir	O
+lesión	O
+costal	O
+asociada	O
+.	O

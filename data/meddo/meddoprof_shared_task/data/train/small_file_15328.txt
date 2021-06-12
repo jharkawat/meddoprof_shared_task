@@ -1,0 +1,21 @@
+
+Se	O
+realizó	O
+resonancia	O
+magnética	O
+de	O
+encéfalo	O
+que	O
+evidenció	O
+imágenes	O
+compatibles	O
+con	O
+sedimentación	O
+de	O
+elementos	O
+larvarios	O
+en	O
+ventrículo	O
+lateral	O
+derecho	O
+.	O

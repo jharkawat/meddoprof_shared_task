@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+05	O
+/	O
+05	O
+/	O
+1996	O
+.	O

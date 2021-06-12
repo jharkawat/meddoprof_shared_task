@@ -1,0 +1,25 @@
+
+Cardiopatía	O
+isquémica	O
+;	O
+episodio	O
+de	O
+SCASEST	O
+en	O
+2010	O
+,	O
+portador	O
+de	O
+dos	O
+stents	O
+coronarios	O
+en	O
+la	O
+arteria	O
+coronaria	O
+derecha	O
+y	O
+arteria	O
+descendente	O
+anterior	O
+.	O

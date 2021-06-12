@@ -1,0 +1,13 @@
+
+También	O
+describía	O
+dos	O
+vómitos	O
+la	O
+tarde	O
+anterior	O
+mientras	O
+jugaba	B-ACTIVIDAD
+al	I-ACTIVIDAD
+fútbol	I-ACTIVIDAD
+.	O

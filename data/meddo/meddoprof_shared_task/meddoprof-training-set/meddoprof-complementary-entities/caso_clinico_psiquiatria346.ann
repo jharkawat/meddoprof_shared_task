@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 291 303	TAC cerebral
+T2	PROCEDIMIENTO 306 309	EEG
+T3	PROCEDIMIENTO 970 995	tratamiento antipsicótico
+T4	NEG 316 319	sin
+T5	NSCO 320 332	alteraciones
+T6	NEG 749 761	retirada del
+T7	NSCO 762 773	tratamiento
+T8	NEG 825 835	suspensión
+T9	FARMACO 558 583	palmitato de paliperidona
+T10	ORG_VIVO 35 49	paciente mujer
+T11	ORG_VIVO 241 249	familiar
+T12	ORG_VIVO 378 386	paciente
+T13	ENFERMEDAD 509 536	Trastorno Esquizofreniforme

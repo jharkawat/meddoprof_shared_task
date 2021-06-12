@@ -1,0 +1,21 @@
+
+En	O
+el	O
+ECG	O
+destaca	O
+un	O
+intervalo	O
+QT	O
+anormal	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+procede	O
+a	O
+monitorizar	O
+a	O
+la	O
+paciente	O
+.	O

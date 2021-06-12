@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 62 años de edad que acude a consultas de Urología por síntomas miccionales de aproximadamente un año de evolución.
+El paciente refiere dificultad para iniciar la micción, calibre miccional disminuido, urgencia miccional con ocasional pérdida de unas gotas de orina. Además, refiere la necesidad de levantarse de 2 a 3 veces por la noche, ya que le despierta el deseo de orinar, que el paciente percibe especialmente molesto dado que le impide obtener un descanso nocturno adecuado.
+No refiere ninguna otra sintomatolgía urológica valorable y dirigiendo el interrogatorio refiere alguna modificación en su función sexual (erecciones menos frecuentes y con menor tumescencia), si bien reconoce que sus expectativas en este aspecto son muy poco exigentes.
+Las circunstancias relatadas en la historia clínica le causan molestias porque interfieren notablemente en su calidad de vida, ya que se trata de un paciente activo laboralmente.
+El escenario clínico corresponde a un modelo asistencial frecuente en nuestra práctica clínica diaria. Se trata de pacientes con múltiples patologías asociadas y polimedicados, con sintomatología urinaria que condiciona un deterioro en la calidad de vida percibida por el paciente. En nuestro caso, nos encontramos ante un paciente relativamente joven, pero con varias patologías orgánicas que se deben tener en cuenta a la hora de elegir el tratamiento más adecuado para su patología urológica. Por tanto, es preciso un abordaje integral desde la consulta de Urología con una historia clínica detallada y una exploración física completa.
+El paciente presenta los siguientes antecedentes personales: no reacciones alérgicas a medicamentos; exfumador desde hace 10 años; hipertensión arterial en tratamiento; diabetes mellitus no insulinodependiente en tratamiento con antidiabéticos orales; hipercolesterolemia. Cardiopatía isquémica; episodio de SCASEST en 2010, portador de dos stents coronarios en la arteria coronaria derecha y arteria descendente anterior. Insuficiencia cardiaca grado II de la NYHA. Enfermedad pulmonar obstructiva crónica leve en tratamiento con inhaladores a demanda. Intervenciones quirúrgicas previas: hernioplastia inguinal derecha en 2009. En tratamiento habitual con: enalapril 5 mg/12 h, amlodipino 10 mg/24 h, simvastatina 40 mg/24 h, metformina 850 mg/24 h, ácido acetilsalicílico 100 mg/24 h y omeprazol 20 mg/24 h. Tiotropio bromuro a demanda. Antecedentes familiares: madre fallecida a causa de hemorragia subaracnoidea; padre fallecido por un infarto agudo de miocardio; sin antecedentes oncológicos en familiares de primer grado.
+
+Examen físico
+Talla 173 cm, peso 80 kg (índice de masa corporal 26,7). Abdomen blando, depresible, no doloroso a la palpación. No se palpan masas ni megalias. Puñopercusión renal bilateral normal. Pene y genitales externos normales. Tacto rectal: próstata aumentada de tamaño, grado I-II/IV, de superficie lisa, de márgenes bien definidos, móvil, no dolorosa y de consistencia fibroelástica. No sospechosa de malignidad. Resto de exploración por aparatos normal.
+
+Pruebas complementarias
+• Puntuación en el cuestionario Internacional Prostate Symptoms Score (IPSS) de 17/5 puntos.
+• Analítica general: destaca glucemia de 127 mg/dl, resto de parámetros dentro de la normalidad.
+• Antígeno prostático específico (PSA): 3,15 ng/dl con PSA libre de 1,03 (índice PSA: 32%).
+• Citologías de orina 3/3: negativas para malignidad.
+• Sedimento de orina: normal.
+• Urocultivo: negativo.
+• Ecografía urológica: riñones dentro de los límites normales con cortical conservada. No presenta dilatación de la vía excretora. Vejiga de buena capacidad, sin signos de esfuerzo y sin lesiones endoluminales. Próstata homogénea y ecogenicidad normal, con volumen aproximado de 40 cc.
+• Flujometría: morfología de la curva ligeramente aplanada y alargada.
+- Qmax 11 ml/s.
+- Qave: 5.3 ml/s.
+- Volumen: 200 cc.
+• Residuo postmiccional: 40 cc. 
+
+Diagnóstico
+El urólogo suele ayudarse en la consulta de cuestionarios validados como el IPSS. Una puntuación de 17 correspondería a un patrón de síntomas moderados con mala calidad de vida en relación con su situación miccional.
+Como pruebas complementarias de laboratorio realizamos una analítica rutinaria con función renal, PSA, sedimento y cultivo de orina, citología de orina (por la clínica y el hábito tabáquico). En este caso, presenta un PSA normal, acorde al tamaño de la próstata, con un índice dentro de la normalidad, lo que orienta a patología benigna. Además, se descarta patología infecciosa y/o tumoral que pudiera mimetizar los síntomas.
+La ecografía muestra una prostata de tamaño aumentado y su arquitectura es normal. La flujometría arroja un patrón obstructivo moderado con miccion compensada.
+Con todos estos datos, deducimos que nos encontramos ante un paciente con síntomas del tracto urinario inferior debidos probablemente a hiperplasia benigna de próstata.
+
+Tratamiento
+Dentro del tratamiento médico de los síntomas urinarios de carácter moderado, el tratamiento de elección (nivel de evidencia 1a y un grado de recomendación A) son los fármacos bloqueantes de los receptores α-adrenérgicos. Iniciamos tratamiento con silodosina 8 mg diarios.
+
+Evolución
+A los 2 meses el paciente refiere mejoría de la clínica miccional y de la calidad de vida percibida.

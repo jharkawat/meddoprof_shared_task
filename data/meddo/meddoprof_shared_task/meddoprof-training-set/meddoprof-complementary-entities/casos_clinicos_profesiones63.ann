@@ -1,0 +1,39 @@
+T1	SINTOMA 202 212	Ex fumador
+T2	SINTOMA 653 725	dolor en diferentes zonas con predominio en columna vertebral y escápula
+T3	SINTOMA 761 773	desorientado
+T4	SINTOMA 776 783	confuso
+T5	SINTOMA 799 806	náuseas
+T6	SINTOMA 809 822	estreñimiento
+T7	SINTOMA 1111 1118	afebril
+T8	SINTOMA 1152 1166	sequedad bucal
+T9	SINTOMA 1168 1178	consciente
+T10	SINTOMA 1180 1187	confuso
+T11	SINTOMA 1220 1259	temblor fino en extremidades superiores
+T12	SINTOMA 1264 1289	alteraciones de la marcha
+T13	SINTOMA 1402 1408	roncus
+T14	SINTOMA 1455 1461	soplos
+T15	SINTOMA 1466 1482	edema periférico
+T16	PROCEDIMIENTO 1091 1109	Exploración física
+T17	PROCEDIMIENTO 1327 1348	Auscultación pulmonar
+T18	PROCEDIMIENTO 1419 1440	Auscultación cardiaca
+T19	NEG 95 97	no
+T20	NSCO 98 135	subsidiario de tratamiento oncológico
+T21	NEG 761 773	desorientado
+T22	NEG 1111 1118	afebril
+T23	NEG 1261 1263	No
+T24	NSCO 1264 1311	alteraciones de la marcha ni de pares craneales
+T25	NEG 1451 1454	sin
+T26	NSCO 1455 1461	soplos
+T27	NEG 1463 1465	no
+T28	NSCO 1466 1482	edema periférico
+T29	FARMACO 461 471	furosemida
+T30	FARMACO 484 493	Fentanilo
+T31	FARMACO 526 535	Enalapril
+T32	ORG_VIVO 0 14	Paciente varón
+T33	ORG_VIVO 190 200	personales
+T34	ORG_VIVO 570 577	familia
+T35	ORG_VIVO 582 590	paciente
+T36	ENFERMEDAD 66 94	cáncer epidermoide de pulmón
+T37	ENFERMEDAD 303 316	EPOC moderado
+T38	ENFERMEDAD 358 385	Insuficiencia renal crónica
+T39	PACIENTE-PROFESION 252 284	empleado de una fábrica de papel

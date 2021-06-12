@@ -1,0 +1,22 @@
+
+en	O
+humor	O
+vítreo	O
+resistente	O
+a	O
+Imipenem	O
+,	O
+Tetraciclinas	O
+,	O
+Claritromicina	O
+,	O
+Amoxicilina	O
+,	O
+Cefotaxima	O
+y	O
+sensible	O
+a	O
+TMP	O
+-	O
+SMX	O
+.	O

@@ -1,0 +1,14 @@
+
+Estudia	B-SITUACION_LABORAL
+francés	I-SITUACION_LABORAL
+e	I-SITUACION_LABORAL
+inglés	I-SITUACION_LABORAL
+en	O
+la	O
+escuela	O
+de	O
+idiomas	O
+con	O
+resultados	O
+excelentes	O
+.	O

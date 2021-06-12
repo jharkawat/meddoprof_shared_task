@@ -1,0 +1,26 @@
+
+A	O
+nuestra	O
+llegada	O
+la	O
+anamnesis	O
+se	O
+la	O
+realizamos	O
+a	O
+un	O
+amigo	O
+por	O
+la	O
+negativa	O
+del	O
+paciente	O
+a	O
+colaborar	O
+y	O
+actitud	O
+desafiante	O
+de	O
+forma	O
+continua	O
+.	O

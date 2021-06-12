@@ -1,0 +1,7 @@
+
+Disfunción	O
+sistólica	O
+severa	O
+ventricular	O
+izquierda	O
+.	O

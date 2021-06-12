@@ -1,0 +1,26 @@
+
+Más	O
+tarde	O
+,	O
+tras	O
+el	O
+mencionado	O
+episodio	O
+,	O
+le	O
+volvió	O
+a	O
+ver	O
+y	O
+le	O
+saludó	O
+con	O
+absoluta	O
+normalidad	O
+,	O
+como	O
+si	O
+nada	O
+hubiese	O
+pasado	O
+.	O

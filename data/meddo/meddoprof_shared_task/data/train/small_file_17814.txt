@@ -1,0 +1,19 @@
+
+Esta	O
+masa	O
+parece	O
+estar	O
+en	O
+relación	O
+con	O
+el	O
+seno	O
+cavernoso	O
+derecho	O
+,	O
+sin	O
+llegar	O
+a	O
+infiltrarlo	O
+claramente	O
+.	O

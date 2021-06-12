@@ -1,0 +1,25 @@
+
+La	O
+medida	O
+de	O
+ADA	O
+en	O
+LCR	O
+es	O
+útil	O
+en	O
+el	O
+diagnóstico	O
+de	O
+meningitis	O
+tuberculosa	O
+aunque	O
+podemos	O
+encontrar	O
+concentraciones	O
+elevadas	O
+en	O
+algunas	O
+infecciones	O
+bacterianas2	O
+.	O

@@ -1,0 +1,16 @@
+
+Durante	O
+su	O
+estancia	O
+en	O
+urgencias	O
+recibió	O
+tratamiento	O
+intravenoso	O
+con	O
+analgesicos	O
+,	O
+antiinflamatorios	O
+y	O
+antiespasmolíticos	O
+.	O

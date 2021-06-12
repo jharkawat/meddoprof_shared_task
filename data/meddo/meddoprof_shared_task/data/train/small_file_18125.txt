@@ -1,0 +1,9 @@
+
+Estudio	O
+genético	O
+confirmado	O
+en	O
+madre	O
+e	O
+hija	O
+.	O

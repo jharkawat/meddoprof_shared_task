@@ -1,0 +1,18 @@
+
+Sus	O
+síntomas	O
+habían	O
+empeorado	O
+el	O
+mes	O
+anterior	O
+,	O
+después	O
+de	O
+la	O
+muerte	O
+de	O
+su	O
+abuela	O
+paterna	O
+.	O

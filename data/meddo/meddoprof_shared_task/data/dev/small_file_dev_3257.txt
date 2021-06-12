@@ -1,0 +1,22 @@
+
+En	O
+la	O
+primera	O
+entrevista	O
+que	O
+se	O
+realiza	O
+en	O
+2003	O
+,	O
+se	O
+explora	O
+a	O
+un	O
+joven	O
+irritable	O
+,	O
+disfórico	O
+,	O
+impulsivo	O
+.	O

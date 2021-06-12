@@ -1,0 +1,11 @@
+
+Actualmente	O
+vive	O
+en	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+Centro	I-SITUACION_LABORAL
+residencial	I-SITUACION_LABORAL
+para	O
+trastornos	O
+mentales	O
+.	O

@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+se	O
+encuentra	O
+lábil	O
+emocionalmente	O
+,	O
+con	O
+falsos	O
+reconocimientos	O
+y	O
+discurso	O
+taquilálico	O
+lleno	O
+de	O
+matices	O
+religiosos	O
+.	O

@@ -1,0 +1,10 @@
+
+Pasa	O
+sola	O
+desde	O
+triage	O
+al	O
+cuarto	O
+de	O
+shock	O
+.	O

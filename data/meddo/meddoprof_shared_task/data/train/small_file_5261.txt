@@ -1,0 +1,9 @@
+
+D	O
+/	O
+D	O
+con	O
+:	O
+enfermedad	O
+tiroidea	O
+.	O

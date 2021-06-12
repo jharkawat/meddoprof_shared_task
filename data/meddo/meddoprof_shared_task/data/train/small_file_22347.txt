@@ -1,0 +1,18 @@
+
+-	O
+Estudio	O
+de	O
+nuevo	O
+virus	O
+Influenza	O
+A	O
+/	O
+H1N1	O
+positivo	O
+en	O
+-	O
+frotis	O
+nasal	O
+y	O
+sanguíneo	O
+.	O

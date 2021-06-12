@@ -1,0 +1,14 @@
+
+Su	O
+estado	O
+civil	O
+es	O
+casado	O
+,	O
+con	O
+buena	O
+convivencia	O
+y	O
+apoyo	O
+familiar	O
+.	O

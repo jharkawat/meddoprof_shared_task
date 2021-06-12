@@ -1,0 +1,18 @@
+
+Madre	O
+de	O
+una	O
+niña	O
+de	O
+dos	O
+años	O
+de	O
+edad	O
+,	O
+a	O
+cargo	O
+de	O
+sus	O
+tíos	O
+adoptivos	O
+.	O

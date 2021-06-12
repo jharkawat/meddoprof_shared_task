@@ -1,0 +1,27 @@
+
+La	O
+Anatomía	O
+Patológica	O
+informó	O
+de	O
+nueve	O
+metástasis	O
+de	O
+adenocarcinoma	O
+de	O
+morfología	O
+colónica	O
+,	O
+con	O
+márgenes	O
+quirúrgicos	O
+libres	O
+micro	O
+y	O
+macroscópicos	O
+en	O
+todas	O
+las	O
+piezas	O
+quirúrgicas	O
+.	O

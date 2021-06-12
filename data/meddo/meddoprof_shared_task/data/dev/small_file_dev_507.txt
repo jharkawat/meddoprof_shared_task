@@ -1,0 +1,22 @@
+
+Sufrió	O
+un	O
+episodio	O
+depresivo	O
+grave	O
+en	O
+1985	O
+,	O
+que	O
+requirió	O
+ingreso	O
+tras	O
+politraumatismo	O
+(	O
+caída	O
+por	O
+hueco	O
+de	O
+escalera	O
+)	O
+.	O

@@ -1,0 +1,24 @@
+
+En	O
+la	O
+analítica	O
+sérica	O
+destacar	O
+leucocitosis	O
+(	O
+11	O
+.	O
+280	O
+células	O
+/	O
+μl	O
+con	O
+80	O
+%	O
+de	O
+neutrófilos	O
+)	O
+sin	O
+otras	O
+alteraciones	O
+.	O

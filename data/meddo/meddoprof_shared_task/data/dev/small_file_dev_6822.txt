@@ -1,0 +1,10 @@
+
+No	O
+tenía	O
+edemas	O
+y	O
+los	O
+pulsos	O
+eran	O
+simétricos	O
+.	O

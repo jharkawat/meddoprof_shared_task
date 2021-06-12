@@ -1,0 +1,17 @@
+
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+125	O
+lpm	O
+,	O
+con	O
+T	O
+negativa	O
+en	O
+III	O
+y	O
+aVF	O
+.	O

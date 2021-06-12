@@ -1,0 +1,17 @@
+
+Sin	O
+embargo	O
+,	O
+describen	O
+mejoría	O
+durante	O
+la	O
+segunda	O
+evaluación	O
+en	O
+cuanto	O
+a	O
+hablar	O
+en	O
+público	O
+.	O

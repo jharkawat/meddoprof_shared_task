@@ -1,0 +1,11 @@
+
+Sin	O
+antecedentes	O
+personales	O
+relevantes	O
+y	O
+sin	O
+consultas	O
+psiquiátricas	O
+previas	O
+.	O

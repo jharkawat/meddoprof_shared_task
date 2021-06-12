@@ -1,0 +1,24 @@
+
+SHP	O
+:	O
+niega	O
+gingivorragia	O
+,	O
+epistaxis	O
+,	O
+petequias	O
+,	O
+equimosis	O
+,	O
+hematomas	O
+,	O
+sangrados	O
+esponteneos	O
+,	O
+o	O
+exagerados	O
+,	O
+rubicundez	O
+o	O
+palidez	O
+.	O

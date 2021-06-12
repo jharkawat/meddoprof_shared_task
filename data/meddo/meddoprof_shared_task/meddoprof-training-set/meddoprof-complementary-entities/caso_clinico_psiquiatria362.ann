@@ -1,0 +1,35 @@
+T1	SINTOMA 164 183	síntomas psicóticos
+T2	SINTOMA 630 646	pérdida ponderal
+T3	SINTOMA 728 748	distensión abdominal
+T4	SINTOMA 750 763	epigastralgia
+T5	SINTOMA 765 772	disuria
+T6	SINTOMA 775 782	fi ebre
+T7	SINTOMA 1062 1077	aumento de peso
+T8	SINTOMA 1115 1139	estabilidad hemodinámica
+T9	NEG 872 882	se orienta
+T10	NSCO 883 915	como Nefritis intersticial aguda
+T11	NEG 991 998	retirar
+T12	NSCO 999 1011	este fármaco
+T13	NEG 1021 1029	retirada
+T14	NSCO 1030 1056	se produce mejoría clínica
+T15	NEG 1387 1399	retirada del
+T16	NSCO 1400 1407	fármaco
+T17	FARMACO 241 250	clozapina
+T18	FARMACO 427 436	Risperdal
+T19	FARMACO 474 483	clozapina
+T20	FARMACO 960 969	clozapina
+T21	FARMACO 1185 1194	clozapina
+T22	ORG_VIVO 39 44	mujer
+T23	ORG_VIVO 269 283	paciente mujer
+T24	ENFERMEDAD 75 88	Esquizofrenia
+T25	ENFERMEDAD 147 183	reagudización de síntomas psicóticos
+T26	ENFERMEDAD 224 250	NIA inducida por clozapina
+T27	ENFERMEDAD 314 327	Esquizofrenia
+T28	ENFERMEDAD 361 385	sintomatología psicótica
+T29	ENFERMEDAD 568 592	sintomatología psicótica
+T30	ENFERMEDAD 610 625	síndrome tóxico
+T31	ENFERMEDAD 683 686	IRA
+T32	ENFERMEDAD 688 706	anemia normocítica
+T33	ENFERMEDAD 888 915	Nefritis intersticial aguda
+T34	ENFERMEDAD 918 941	pericarditis secundaria
+T35	ENFERMEDAD 1217 1235	lesión renal aguda

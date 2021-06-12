@@ -1,0 +1,79 @@
+T1	SINTOMA 446 451	tenso
+T2	SINTOMA 2463 2469	pánico
+T3	NEG 202 204	no
+T4	NSCO 205 214	podía más
+T5	NEG 318 320	no
+T6	NSCO 321 348	se sentía capaz de ayudarlo
+T7	NEG 541 546	podía
+T8	NSCO 547 572	permanecer en el hospital
+T9	NEG 576 578	no
+T10	NSCO 579 594	tuvo objeciones
+T11	NEG 994 999	nunca
+T12	NSCO 1000 1045	había dado a su madre ningún tipo de problema
+T13	NEG 1052 1054	no
+T14	NSCO 1055 1072	se volvió a casar
+T15	UNC 1109 1116	posible
+T16	USCO 1117 1134	para satisfacerla
+T17	NEG 1176 1178	no
+T18	NSCO 1179 1198	era fácil para ella
+T19	NEG 1401 1403	no
+T20	NSCO 1404 1485	querían realizar y aparentemente siempre estaba contento de complacer a los demás
+T21	NEG 1619 1621	no
+T22	NSCO 1622 1638	le gustó la idea
+T23	NEG 1788 1793	nunca
+T24	NSCO 1794 1839	se quejaba de tener que realizar horas extras
+T25	NEG 2340 2342	no
+T26	NSCO 2343 2353	le gustaba
+T27	NEG 2687 2689	no
+T28	NSCO 2690 2713	le entusiasmaba la idea
+T29	NEG 3151 3153	No
+T30	NSCO 3154 3212	se conocían historias de trastornos mentales en la familia
+T31	ORG_VIVO 3 11	paciente
+T32	ORG_VIVO 18 24	hombre
+T33	ORG_VIVO 60 68	paciente
+T34	ORG_VIVO 129 145	asistente social
+T35	ORG_VIVO 256 272	asistente social
+T36	ORG_VIVO 288 296	paciente
+T37	ORG_VIVO 358 372	psicoterapeuta
+T38	ORG_VIVO 419 427	paciente
+T39	ORG_VIVO 673 682	pacientes
+T40	ORG_VIVO 773 778	padre
+T41	ORG_VIVO 844 849	padre
+T42	ORG_VIVO 854 859	madre
+T43	ORG_VIVO 934 942	paciente
+T44	ORG_VIVO 947 951	hijo
+T45	ORG_VIVO 1016 1021	madre
+T46	ORG_VIVO 1143 1147	niño
+T47	ORG_VIVO 1390 1400	compañeros
+T48	ORG_VIVO 1613 1618	madre
+T49	ORG_VIVO 1778 1785	colegas
+T50	ORG_VIVO 2004 2016	adolescencia
+T51	ORG_VIVO 2046 2052	amigos
+T52	ORG_VIVO 2125 2130	madre
+T53	ORG_VIVO 2175 2182	vecinos
+T54	ORG_VIVO 2255 2260	madre
+T55	ORG_VIVO 2323 2328	chica
+T56	ORG_VIVO 2365 2370	madre
+T57	ORG_VIVO 2446 2451	chica
+T58	ORG_VIVO 2484 2489	novia
+T59	ORG_VIVO 2566 2571	madre
+T60	ORG_VIVO 2592 2597	chica
+T61	ORG_VIVO 2725 2731	esposa
+T62	ORG_VIVO 2807 2812	madre
+T63	ORG_VIVO 2891 2899	paciente
+T64	ORG_VIVO 3008 3022	psicoterapeuta
+T65	ORG_VIVO 3060 3076	asistente social
+T66	ORG_VIVO 3205 3212	familia
+T67	ENFERMEDAD 243 251	suicidio
+T68	ENFERMEDAD 2935 2944	depresión
+T69	ENFERMEDAD 3179 3198	trastornos mentales
+T70	OTROS-PROFESION 129 145	asistente social
+T71	OTROS-PROFESION 256 272	asistente social
+T72	SANITARIO-PROFESION 358 372	psicoterapeuta
+T73	FAMILIAR-PROFESION 897 923	camarera en una confitería
+T74	OTROS-PROFESION 1297 1305	maestras
+T75	OTROS-PROFESION 1511 1533	técnico en computación
+T76	PACIENTE-PROFESION 1658 1695	comenzó a trabajar en un supermercado
+T77	PACIENTE-SITUACION_LABORAL 1862 1870	empleado
+T78	OTROS-PROFESION 3008 3022	psicoterapeuta
+T79	OTROS-PROFESION 3060 3076	asistente social

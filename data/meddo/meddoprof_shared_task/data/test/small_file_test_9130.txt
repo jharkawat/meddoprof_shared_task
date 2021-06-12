@@ -1,0 +1,14 @@
+
+Paciente	O
+exfumador	O
+desde	O
+hace	O
+un	O
+año	O
+(	O
+IPA	O
+70	O
+)	O
+e	O
+hipertenso	O
+.	O

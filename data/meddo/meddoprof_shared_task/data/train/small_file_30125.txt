@@ -1,0 +1,25 @@
+
+Discurso	O
+parco	O
+en	O
+palabras	O
+,	O
+lleno	O
+de	O
+sobreentendidos	O
+que	O
+trasmite	O
+pobreza	O
+a	O
+nivel	O
+de	O
+pensamiento	O
+,	O
+así	O
+como	O
+posibles	O
+dificultades	O
+en	O
+su	O
+organización	O
+.	O

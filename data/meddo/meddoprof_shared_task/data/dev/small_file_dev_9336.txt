@@ -1,0 +1,18 @@
+
+A	O
+la	O
+auscultación	O
+cardiorrespiratoria	O
+presentaba	O
+hipoventilación	O
+basal	O
+izquierda	O
+,	O
+con	O
+tonos	O
+cardiacos	O
+rítmicos	O
+y	O
+sin	O
+soplos	O
+.	O

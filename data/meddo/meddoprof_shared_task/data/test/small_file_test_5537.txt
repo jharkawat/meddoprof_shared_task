@@ -1,0 +1,12 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+necrosis	O
+era	O
+menor	O
+del	O
+10	O
+%	O
+.	O

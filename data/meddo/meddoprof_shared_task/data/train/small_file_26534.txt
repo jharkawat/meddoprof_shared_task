@@ -1,0 +1,24 @@
+
+Asimismo	O
+,	O
+se	O
+reincorporó	O
+progresivamente	O
+a	O
+la	O
+paciente	O
+al	O
+hospital	O
+de	O
+día	O
+y	O
+se	O
+llevaron	O
+a	O
+cabo	O
+permisos	O
+terapéuticos	O
+,	O
+sin	O
+incidencias	O
+.	O

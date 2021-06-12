@@ -1,0 +1,9 @@
+
+Ecografía	O
+abdominal	O
+:	O
+estudio	O
+sin	O
+alteraciones	O
+significativas	O
+.	O

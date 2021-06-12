@@ -1,0 +1,9 @@
+
+Finalmente	O
+el	O
+paciente	O
+es	O
+sometido	O
+a	O
+nefrectomía	O
+.	O

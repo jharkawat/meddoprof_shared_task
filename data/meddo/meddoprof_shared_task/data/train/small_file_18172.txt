@@ -1,0 +1,7 @@
+
+Normolíneo	O
+,	O
+panículo	O
+adiposo	O
+conservado	O
+.	O

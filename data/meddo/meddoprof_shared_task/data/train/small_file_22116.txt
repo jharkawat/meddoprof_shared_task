@@ -1,0 +1,13 @@
+
+No	O
+creo	O
+que	O
+ganara	O
+nada	O
+yendo	O
+sin	O
+más	O
+a	O
+probar	O
+suerte	O
+.	O

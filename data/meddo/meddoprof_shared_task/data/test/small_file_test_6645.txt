@@ -1,0 +1,10 @@
+
+La	O
+paciente	O
+trabaja	O
+como	O
+profesora	B-PROFESION
+de	I-PROFESION
+educación	I-PROFESION
+infantil	I-PROFESION
+.	O

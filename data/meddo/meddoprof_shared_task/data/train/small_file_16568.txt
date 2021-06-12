@@ -1,0 +1,10 @@
+
+Deterioro	O
+cognitivo	O
+leve	O
+-	O
+moderado	O
+de	O
+curso	O
+subagudo	O
+.	O

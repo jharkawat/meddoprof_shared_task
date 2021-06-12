@@ -1,0 +1,6 @@
+
+No	O
+presencia	O
+de	O
+adenopatías	O
+.	O

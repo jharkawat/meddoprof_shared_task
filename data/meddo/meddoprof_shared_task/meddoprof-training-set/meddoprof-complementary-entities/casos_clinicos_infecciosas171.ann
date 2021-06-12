@@ -1,0 +1,241 @@
+T1	SINTOMA 269 314	tumoración en región glútea y lumbar superior
+T2	SINTOMA 363 394	impotencia funcional al caminar
+T3	SINTOMA 421 428	afebril
+T4	SINTOMA 440 455	pérdida de peso
+T5	SINTOMA 467 479	buen apetito
+T6	SINTOMA 608 628	clínica respiratoria
+T7	SINTOMA 739 759	dolor a la palpación
+T8	SINTOMA 774 784	consciente
+T9	SINTOMA 787 796	orientado
+T10	SINTOMA 800 807	afebril
+T11	SINTOMA 979 988	dolorosas
+T12	SINTOMA 3286 3292	fiebre
+T13	SINTOMA 3294 3313	sudoración nocturna
+T14	SINTOMA 3316 3331	pérdida de peso
+T15	SINTOMA 3389 3405	dolor local óseo
+T16	SINTOMA 4072 4077	dolor
+T17	SINTOMA 5204 5218	fiebre elevada
+T18	SINTOMA 5325 5337	leucocitosis
+T19	SINTOMA 5342 5353	neutrofilia
+T20	SINTOMA 5356 5393	elevación de reactantes de fase aguda
+T21	SINTOMA 5423 5430	afebril
+T22	SINTOMA 5492 5537	dolor a la movilización en la zona de la masa
+T23	SINTOMA 5736 5752	fiebre ondulante
+T24	SINTOMA 5769 5784	pérdida de peso
+T25	SINTOMA 7223 7229	fiebre
+T26	SINTOMA 7424 7431	afebril
+T27	SINTOMA 7487 7532	dolor e impotencia funcional de la zona local
+T28	SINTOMA 7576 7588	leucocitosis
+T29	PROCEDIMIENTO 173 197	tratamiento domiciliario
+T30	PROCEDIMIENTO 1400 1459	serología infecciosa para VIH y virus de la hepatitis B y C
+T31	PROCEDIMIENTO 1489 1502	TC de abdomen
+T32	PROCEDIMIENTO 3635 3637	TC
+T33	PROCEDIMIENTO 4384 4405	radiografías de tórax
+T34	PROCEDIMIENTO 7981 7983	TC
+T35	PROCEDIMIENTO 7998 8016	drenaje percutáneo
+T36	PROCEDIMIENTO 8152 8181	catéteres percutáneos pigtail
+T37	PROCEDIMIENTO 8337 8373	tratamiento empírico antituberculoso
+T38	PROCEDIMIENTO 9222 9234	TC abdominal
+T39	NEG 114 117	sin
+T40	NSCO 118 148	antecedentes médicos conocidos
+T41	NEG 155 157	no
+T42	NSCO 158 197	realiza ningún tratamiento domiciliario
+T43	NEG 421 428	afebril
+T44	NEG 430 432	no
+T45	NSCO 433 455	cuenta pérdida de peso
+T46	NEG 481 486	Niega
+T47	NSCO 487 591	haber realizado viajes recientemente, haber recibido picaduras de insectos ni traumatismos en dicha zona
+T48	NEG 593 595	no
+T49	NSCO 596 664	presentando clínica respiratoria ni otra sintomatología por aparatos
+T50	NEG 800 807	afebril
+T51	NEG 1468 1476	negativa
+T52	UNC 2175 2182	valorar
+T53	USCO 2183 2264	aquellos procesos que cursan con formación de colecciones a nivel retroperitoneal
+T54	UNC 2638 2645	posible
+T55	USCO 2646 2679	presencia de tumores metastásicos
+T56	NEG 3079 3081	no
+T57	NSCO 3082 3089	Hodgkin
+T58	NEG 3470 3472	no
+T59	NSCO 3473 3509	presentaba ninguno de estos síntomas
+T60	NEG 3521 3523	no
+T61	NSCO 3524 3577	tener adenopatías que hicieran sospechar esta entidad
+T62	UNC 3919 3926	posible
+T63	USCO 3927 3969	afectación a nivel vertebral y posibilidad
+T64	NEG 4255 4266	ausencia de
+T65	NSCO 4267 4284	lesiones cutáneas
+T66	NEG 4351 4353	no
+T67	NSCO 4354 4376	tuvo lesiones cutáneas
+T68	NEG 4406 4408	no
+T69	NSCO 4409 4479	mostraron linfadenopatías hiliares ni neumonitis intersticial.1 Además
+T70	NEG 4532 4534	no
+T71	NSCO 4535 4562	es el típico de sarcoidosis
+T72	NEG 5423 5430	afebril
+T73	NEG 5539 5542	sin
+T74	NSCO 5543 5566	otro hallazgo analítico
+T75	UNC 5606 5616	improbable
+T76	USCO 5617 5664	la presencia de los microorganismos mencionados
+T77	NEG 5873 5875	no
+T78	NSCO 5876 5997	pasteurizados o por contacto de la piel con tejidos o secreciones de cabras, vacas o cerdos infectados.1 Nuestro paciente
+T79	NEG 5998 6003	niega
+T80	NSCO 6004 6027	el consumo de alimentos
+T81	NEG 6028 6030	no
+T82	NSCO 6031 6043	higienizados
+T83	UNC 6130 6144	tampoco parece
+T84	USCO 6145 6153	probable
+T85	UNC 6520 6530	improbable
+T86	USCO 6531 6591	que estas tres infecciones fúngicas causen tanta destrucción
+T87	NEG 6642 6645	sin
+T88	NSCO 6646 6663	un curso agresivo
+T89	NEG 6667 6670	sin
+T90	NSCO 6671 6690	afectación pulmonar
+T91	UNC 6755 6761	podría
+T92	USCO 6762 6793	presentarse en inmunodeprimidos
+T93	NEG 6800 6802	no
+T94	NSCO 6803 6833	es el caso de nuestro paciente
+T95	NEG 6928 6930	no
+T96	NSCO 6931 6986	es la forma de presentación típica de estas infecciones
+T97	NEG 7206 7209	sin
+T98	NSCO 7210 7256	presencia de fiebre en la mayoría de los casos
+T99	NEG 7424 7431	afebril
+T100	NEG 7564 7575	ausencia de
+T101	NSCO 7576 7588	leucocitosis
+T102	UNC 7727 7741	compatible con
+T103	USCO 7742 7760	el cuadro descrito
+T104	UNC 7901 7909	probable
+T105	USCO 7910 7929	en nuestro paciente
+T106	NSCO 8496 8539	Los resultados de los cultivos del material
+T107	NEG 9376 9386	se retiran
+T108	NSCO 9387 9403	48 horas previas
+T109	FARMACO 8378 8388	isoniazida
+T110	FARMACO 8390 8402	pirazinamida
+T111	FARMACO 8404 8415	rifampicina
+T112	FARMACO 8418 8427	etambutol
+T113	FARMACO 8677 8686	etambutol
+T114	FARMACO 8777 8787	isoniazida
+T115	FARMACO 8796 8808	pirazinamida
+T116	FARMACO 8819 8830	rifampicina
+T117	FARMACO 8928 8938	isoniazida
+T118	FARMACO 8941 8952	rifampicina
+T119	ORG_VIVO 0 5	Varón
+T120	ORG_VIVO 52 71	trabajador agrícola
+T121	ORG_VIVO 233 260	médico de atención primaria
+T122	ORG_VIVO 399 407	paciente
+T123	ORG_VIVO 553 561	insectos
+T124	ORG_VIVO 687 695	paciente
+T125	ORG_VIVO 1426 1429	VIH
+T126	ORG_VIVO 1432 1455	virus de la hepatitis B
+T127	ORG_VIVO 1456 1459	y C
+T128	ORG_VIVO 2834 2842	paciente
+T129	ORG_VIVO 3461 3469	paciente
+T130	ORG_VIVO 4215 4224	pacientes
+T131	ORG_VIVO 4342 4350	paciente
+T132	ORG_VIVO 4695 4710	microorganismos
+T133	ORG_VIVO 4842 4863	Staphylococcus aureus
+T134	ORG_VIVO 4866 4884	Streptococcus spp.
+T135	ORG_VIVO 4887 4903	Escherichia coli
+T136	ORG_VIVO 4906 4921	Salmonella spp.
+T137	ORG_VIVO 4924 4940	Pseudomonas spp.
+T138	ORG_VIVO 4945 4954	S. aureus
+T139	ORG_VIVO 4961 4975	microorganismo
+T140	ORG_VIVO 5403 5411	paciente
+T141	ORG_VIVO 5637 5652	microorganismos
+T142	ORG_VIVO 5671 5691	especies de Brucella
+T143	ORG_VIVO 5945 5951	cabras
+T144	ORG_VIVO 5953 5958	vacas
+T145	ORG_VIVO 5961 5967	cerdos
+T146	ORG_VIVO 5989 5997	paciente
+T147	ORG_VIVO 6825 6833	paciente
+T148	ORG_VIVO 7195 7203	paciente
+T149	ORG_VIVO 7309 7317	paciente
+T150	ORG_VIVO 7342 7347	varón
+T151	ORG_VIVO 7921 7929	paciente
+T152	ORG_VIVO 8358 8373	antituberculoso
+T153	ORG_VIVO 8574 8600	Mycobacterium tuberculosis
+T154	ORG_VIVO 8631 8647	antituberculosos
+T155	ORG_VIVO 8742 8746	cepa
+T156	ORG_VIVO 8992 9000	paciente
+T157	ENFERMEDAD 1118 1146	anemia microcítica-hipocroma
+T158	ENFERMEDAD 1166 1179	trombocitosis
+T159	ENFERMEDAD 1528 1603	colección líquida con ocupación de la pared postero-lateral del hemiabdomen
+T160	ENFERMEDAD 1707 1770	colecciones retroperitoneales con afectación de ambos iliopsoas
+T161	ENFERMEDAD 1901 1938	esclerosis de los cuerpos vertebrales
+T162	ENFERMEDAD 1988 2015	derrame articular de cadera
+T163	ENFERMEDAD 2216 2264	formación de colecciones a nivel retroperitoneal
+T164	ENFERMEDAD 2267 2300	afectación ósea a nivel vertebral
+T165	ENFERMEDAD 2306 2316	neoplasias
+T166	ENFERMEDAD 2355 2381	tumores primarios malignos
+T167	ENFERMEDAD 2443 2451	sarcomas
+T168	ENFERMEDAD 2484 2496	osteosarcoma
+T169	ENFERMEDAD 2498 2511	condrosarcoma
+T170	ENFERMEDAD 2513 2525	fibrosarcoma
+T171	ENFERMEDAD 2528 2556	histiocitoma fibroso maligno
+T172	ENFERMEDAD 2659 2679	tumores metastásicos
+T173	ENFERMEDAD 2738 2767	tumor primario sólido benigno
+T174	ENFERMEDAD 2777 2789	neurofibroma
+T175	ENFERMEDAD 2791 2801	schwannoma
+T176	ENFERMEDAD 2803 2811	teratoma
+T177	ENFERMEDAD 2914 2930	neoplasia sólida
+T178	ENFERMEDAD 2946 2970	neoplasias hematológicas
+T179	ENFERMEDAD 2975 2993	linfoma de Hodgkin
+T180	ENFERMEDAD 2995 2997	LH
+T181	ENFERMEDAD 3071 3089	linfoma no Hodgkin
+T182	ENFERMEDAD 3091 3094	LNH
+T183	ENFERMEDAD 3224 3235	adenopatías
+T184	ENFERMEDAD 3354 3357	LNH
+T185	ENFERMEDAD 3375 3386	adenopatías
+T186	ENFERMEDAD 3430 3451	fracturas patológicas
+T187	ENFERMEDAD 3530 3541	adenopatías
+T188	ENFERMEDAD 3643 3678	colecciones a nivel retroperitoneal
+T189	ENFERMEDAD 3711 3719	linfomas
+T190	ENFERMEDAD 3802 3813	sarcoidosis
+T191	ENFERMEDAD 3821 3845	enfermedad granulomatosa
+T192	ENFERMEDAD 3927 3955	afectación a nivel vertebral
+T193	ENFERMEDAD 4000 4036	abscesos estériles en partes blandas
+T194	ENFERMEDAD 4154 4192	lesiones líticas y esclerosis marginal
+T195	ENFERMEDAD 4229 4250	sarcoidosis son raros
+T196	ENFERMEDAD 4267 4284	lesiones cutáneas
+T197	ENFERMEDAD 4313 4332	enfermedad pulmonar
+T198	ENFERMEDAD 4359 4376	lesiones cutáneas
+T199	ENFERMEDAD 4419 4443	linfadenopatías hiliares
+T200	ENFERMEDAD 4447 4472	neumonitis intersticial.1
+T201	ENFERMEDAD 4511 4531	lesiones vertebrales
+T202	ENFERMEDAD 4551 4562	sarcoidosis
+T203	ENFERMEDAD 4610 4621	infecciones
+T204	ENFERMEDAD 4626 4710	osteomielitis vertebral bacteriana puede estar causada por numerosos microorganismos
+T205	ENFERMEDAD 4730 4778	abscesos paravertebrales, epidurales o del psoas
+T206	ENFERMEDAD 4887 4903	Escherichia coli
+T207	ENFERMEDAD 4904 4920	• Salmonella spp
+T208	ENFERMEDAD 5004 5074	osteomielitis piogénica vertebral, a través de diseminación hematógena
+T209	ENFERMEDAD 5126 5152	abscesos del músculo psoas
+T210	ENFERMEDAD 5342 5353	neutrofilia
+T211	ENFERMEDAD 5705 5731	espondilitis caracterizada
+T212	ENFERMEDAD 5761 5767	anemia
+T213	ENFERMEDAD 5787 5809	abscesos paraespinales
+T214	ENFERMEDAD 5814 5824	brucelosis
+T215	ENFERMEDAD 6081 6100	brucelosis en Ghana
+T216	ENFERMEDAD 6160 6181	infecciones micóticas
+T217	ENFERMEDAD 6204 6223	enfermedad pulmonar
+T218	ENFERMEDAD 6296 6319	osteomielitis vertebral
+T219	ENFERMEDAD 6349 6362	criptococosis
+T220	ENFERMEDAD 6364 6378	histoplasmosis
+T221	ENFERMEDAD 6381 6394	blastomicosis
+T222	ENFERMEDAD 6410 6423	blastomicosis
+T223	ENFERMEDAD 6546 6566	infecciones fúngicas
+T224	ENFERMEDAD 6597 6623	absceso de tejidos blandos
+T225	ENFERMEDAD 6742 6754	aspergilosis
+T226	ENFERMEDAD 6777 6793	inmunodeprimidos
+T227	ENFERMEDAD 6838 6852	esporotricosis
+T228	ENFERMEDAD 6855 6866	candidiasis
+T229	ENFERMEDAD 6883 6896	osteomielitis
+T230	ENFERMEDAD 6919 6927	abscesos
+T231	ENFERMEDAD 6975 6986	infecciones
+T232	ENFERMEDAD 6992 7013	enfermedad infecciosa
+T233	ENFERMEDAD 7045 7069	espondilitis tuberculosa
+T234	ENFERMEDAD 7090 7126	abscesos gigantes en tejidos blandos
+T235	ENFERMEDAD 7689 7701	tuberculosis
+T236	ENFERMEDAD 8317 8324	absceso
+T237	ENFERMEDAD 8470 8494	Enfermedades Infecciosas
+T238	ENFERMEDAD 9445 9509	Abscesos tuberculosos gigantes de la musculatura retroperitoneal
+T239	ENFERMEDAD 9531 9585	osteomielitis vertebral por Mycobacterium tuberculosis
+T240	SANITARIO-PROFESION 233 260	médico de atención primaria
+T241	PACIENTE-PROFESION 52 71	trabajador agrícola

@@ -1,0 +1,11 @@
+
+Intensificación	O
+del	O
+consumo	O
+de	O
+THC	O
+desde	O
+hace	O
+2	O
+meses	O
+.	O

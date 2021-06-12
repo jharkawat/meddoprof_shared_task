@@ -1,0 +1,10 @@
+
+Es	O
+derivada	O
+a	O
+Oncología	O
+Médica	O
+para	O
+continuar	O
+estudio	O
+.	O

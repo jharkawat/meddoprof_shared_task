@@ -1,0 +1,12 @@
+
+Ha	O
+sido	O
+intervenida	O
+de	O
+apendicectomía	O
+,	O
+fractura	O
+subcapital	O
+del	O
+húmero	O
+.	O

@@ -1,0 +1,7 @@
+
+Puñopercusión	O
+renal	O
+bilateral	O
+,	O
+negativa	O
+.	O

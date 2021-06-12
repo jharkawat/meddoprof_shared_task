@@ -1,0 +1,21 @@
+
+Piensa	O
+en	O
+la	O
+muerte	O
+,	O
+aunque	O
+no	O
+quiere	O
+quitarse	O
+la	O
+vida	O
+,	O
+porque	O
+ello	O
+va	O
+contra	O
+sus	O
+creencias	O
+religiosas	O
+.	O

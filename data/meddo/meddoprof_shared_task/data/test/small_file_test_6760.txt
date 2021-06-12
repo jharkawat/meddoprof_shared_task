@@ -1,0 +1,17 @@
+
+El	O
+cribado	O
+de	O
+alteración	O
+de	O
+las	O
+proteínas	O
+de	O
+los	O
+genes	O
+reparadores	O
+de	O
+desapareamiento	O
+fue	O
+negativo	O
+.	O

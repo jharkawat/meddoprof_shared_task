@@ -1,0 +1,18 @@
+
+No	O
+infiltra	O
+colon	O
+descendente	O
+ni	O
+mesocolon	O
+en	O
+ningún	O
+punto	O
+y	O
+sí	O
+lo	O
+rechaza	O
+hacia	O
+línea	O
+media	O
+.	O

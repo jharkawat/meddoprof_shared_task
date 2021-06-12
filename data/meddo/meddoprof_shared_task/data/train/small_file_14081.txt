@@ -1,0 +1,27 @@
+
+Tres	O
+meses	O
+después	O
+,	O
+lesión	O
+sobreelevada	O
+redondeada	O
+(	O
+similar	O
+a	O
+la	O
+quemadura	O
+de	O
+un	O
+cigarrillo	O
+)	O
+,	O
+costrosa	O
+,	O
+en	O
+región	O
+posterior	O
+de	O
+brazo	O
+izquierdo	O
+.	O

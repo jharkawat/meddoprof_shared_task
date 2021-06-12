@@ -1,0 +1,18 @@
+
+Antecedentes	O
+:	O
+La	O
+paciente	O
+nació	O
+y	O
+creció	O
+en	O
+un	O
+pequeño	O
+pueblo	O
+donde	O
+su	O
+padre	O
+era	O
+albañil	B-PROFESION
+.	O

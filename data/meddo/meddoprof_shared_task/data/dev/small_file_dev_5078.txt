@@ -1,0 +1,16 @@
+
+Radiografía	O
+de	O
+tórax	O
+:	O
+infiltrados	O
+pulmonares	O
+en	O
+el	O
+lóbulo	O
+inferior	O
+derecho	O
+y	O
+superior	O
+izquierdo	O
+.	O

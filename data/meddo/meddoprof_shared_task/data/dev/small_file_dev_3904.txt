@@ -1,0 +1,6 @@
+
+Era	O
+una	O
+excelente	O
+estudiante	B-SITUACION_LABORAL
+.	O

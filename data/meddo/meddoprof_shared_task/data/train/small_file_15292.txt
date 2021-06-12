@@ -1,0 +1,20 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+una	O
+neumonía	O
+bacteriana	O
+se	O
+inició	O
+cobertura	O
+antibacteriana	O
+de	O
+amplio	O
+espectro	O
+con	O
+piperacilina	O
+/	O
+tazobactam	O
+.	O

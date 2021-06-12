@@ -1,0 +1,6 @@
+
+No	O
+presenta	O
+focalidad	O
+neurológica	O
+.	O

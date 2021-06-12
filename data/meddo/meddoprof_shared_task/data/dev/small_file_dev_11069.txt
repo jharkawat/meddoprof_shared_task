@@ -1,0 +1,16 @@
+
+Via	O
+biliar	O
+:	O
+intra	O
+hepática	O
+(	O
+dilatada	O
+)	O
+,	O
+extra	O
+hepática	O
+(	O
+dilatada	O
+)	O
+.	O

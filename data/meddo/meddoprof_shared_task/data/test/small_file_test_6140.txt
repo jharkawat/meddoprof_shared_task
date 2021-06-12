@@ -1,0 +1,14 @@
+
+Se	O
+decide	O
+su	O
+ingreso	O
+para	O
+control	O
+de	O
+los	O
+síntomas	O
+y	O
+soporte	O
+transfusional	O
+.	O

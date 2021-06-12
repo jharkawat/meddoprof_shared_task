@@ -1,0 +1,15 @@
+
+GRUPO	O
+SANGUÍNEO	O
+Y	O
+TRANSFUSIONES	O
+:	O
+grupo	O
+sanguíneo	O
+O	O
+positivo	O
+ynunca	O
+ha	O
+recibido	O
+transfusiones	O
+.	O

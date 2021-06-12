@@ -1,0 +1,17 @@
+
+F00	O
+.	O
+10	O
+Demencia	O
+en	O
+la	O
+Enfermedad	O
+de	O
+Alzheimer	O
+de	O
+comienzo	O
+tardío	O
+,	O
+sin	O
+síntomas	O
+adicionales	O

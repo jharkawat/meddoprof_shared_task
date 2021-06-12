@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+fue	O
+visitado	O
+por	O
+un	O
+endocrinólogo	B-PROFESION
+,	O
+que	O
+diagnosticó	O
+hiponatremia	O
+hipovolémica	O
+grave	O
+y	O
+síndrome	O
+del	O
+enfermo	O
+eutiroideo	O
+.	O

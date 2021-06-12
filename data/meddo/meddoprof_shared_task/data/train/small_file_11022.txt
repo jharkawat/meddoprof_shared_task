@@ -1,0 +1,10 @@
+
+Auscultación	O
+cardíaca	O
+con	O
+tonos	O
+rítmicos	O
+sin	O
+soplos	O
+llamativos	O
+.	O

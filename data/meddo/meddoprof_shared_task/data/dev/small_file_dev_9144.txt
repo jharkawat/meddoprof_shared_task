@@ -1,0 +1,16 @@
+
+Los	O
+hallazgos	O
+intraoperatorios	O
+fueron	O
+de	O
+un	O
+plastrón	O
+epidural	O
+con	O
+una	O
+duramadre	O
+engrosada	O
+y	O
+amarillenta	O
+.	O

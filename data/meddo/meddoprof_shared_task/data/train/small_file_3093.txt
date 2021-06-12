@@ -1,0 +1,5 @@
+
+Sospecha	O
+origen	O
+anexial	O
+.	O

@@ -1,0 +1,26 @@
+
+Sus	O
+padres	O
+empezaron	O
+a	O
+preocuparse	O
+cuando	O
+vieron	O
+que	O
+a	O
+los	O
+2	O
+años	O
+de	O
+edad	O
+la	O
+niña	O
+no	O
+hablaba	O
+;	O
+el	O
+desarrollo	O
+motor	O
+se	O
+retrasó	O
+.	O

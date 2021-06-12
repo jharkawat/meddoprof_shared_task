@@ -1,0 +1,11 @@
+
+Antecedentes	O
+médicos	O
+:	O
+no	O
+hay	O
+antecedentes	O
+somáticos	O
+de	O
+interés	O
+.	O

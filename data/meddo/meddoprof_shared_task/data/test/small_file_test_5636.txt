@@ -1,0 +1,12 @@
+
+El	O
+29	O
+de	O
+mayo	O
+se	O
+realiza	O
+biopsia	O
+guiada	O
+por	O
+escopia	O
+.	O

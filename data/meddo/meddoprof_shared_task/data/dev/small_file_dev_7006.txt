@@ -1,0 +1,24 @@
+
+La	O
+función	O
+renal	O
+e	O
+iones	O
+estaban	O
+en	O
+el	O
+rango	O
+de	O
+la	O
+normalidad	O
+,	O
+aunque	O
+existía	O
+proteinuria	O
+en	O
+rango	O
+no	O
+nefrótico	O
+con	O
+hipoalbuminemia	O
+.	O

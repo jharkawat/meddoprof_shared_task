@@ -1,0 +1,24 @@
+
+En	O
+Noviembre	O
+de	O
+2016	O
+se	O
+realiza	O
+Cateterismo	O
+terapéutico	O
+:	O
+Se	O
+implanta	O
+por	O
+vía	O
+percutánea	O
+un	O
+Stent	O
+en	O
+la	O
+zona	O
+de	O
+la	O
+coartación	O
+.	O

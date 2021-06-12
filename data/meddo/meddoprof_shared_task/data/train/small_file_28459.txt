@@ -1,0 +1,10 @@
+
+Nula	O
+conciencia	O
+de	O
+enfermedad	O
+y	O
+heteroagresividad	O
+verbal	O
+manifiesta	O
+.	O

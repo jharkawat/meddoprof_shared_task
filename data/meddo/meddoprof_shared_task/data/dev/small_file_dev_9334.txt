@@ -1,0 +1,22 @@
+
+Durante	O
+este	O
+período	O
+había	O
+realizado	O
+varios	O
+ciclos	O
+de	O
+tratamiento	O
+antibiótico	O
+,	O
+prescritos	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+sin	O
+mejoría	O
+.	O

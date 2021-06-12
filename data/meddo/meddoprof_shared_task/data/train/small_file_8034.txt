@@ -1,0 +1,15 @@
+
+En	O
+cuanto	O
+al	O
+estudio	O
+de	O
+las	O
+náuseas	O
+y	O
+vómitos	O
+se	O
+realizaron	O
+distintas	O
+pruebas	O
+:	O

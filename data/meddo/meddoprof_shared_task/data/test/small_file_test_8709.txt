@@ -1,0 +1,8 @@
+
+No	O
+hay	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+.	O

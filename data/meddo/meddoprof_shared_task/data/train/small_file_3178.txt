@@ -1,0 +1,19 @@
+
+Posteriormente	O
+sus	O
+padres	O
+comenzaron	O
+a	O
+sospechar	O
+que	O
+no	O
+era	O
+un	O
+problema	O
+orgánico	O
+sino	O
+que	O
+había	O
+algo	O
+más	O
+.	O

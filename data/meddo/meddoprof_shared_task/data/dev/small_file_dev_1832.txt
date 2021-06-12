@@ -1,0 +1,21 @@
+
+Presenta	O
+alteraciones	O
+de	O
+conducta	O
+(	O
+suspicacia	O
+,	O
+irritabilidad	O
+,	O
+estado	O
+de	O
+estupor	O
+psicótico	O
+y	O
+verbalizaciones	O
+de	O
+contenido	O
+extravagante	O
+)	O
+.	O

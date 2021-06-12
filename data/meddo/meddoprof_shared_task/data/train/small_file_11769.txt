@@ -1,0 +1,24 @@
+
+Al	O
+mes	O
+,	O
+se	O
+realizó	O
+una	O
+nueva	O
+determinación	O
+que	O
+no	O
+mostró	O
+seroconversión	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+sospechó	O
+de	O
+probable	O
+falso	O
+positivo	O
+.	O

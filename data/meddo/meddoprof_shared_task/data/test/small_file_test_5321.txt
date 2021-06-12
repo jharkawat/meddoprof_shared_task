@@ -1,0 +1,16 @@
+
+Paciente	O
+varón	O
+,	O
+de	O
+67	O
+años	O
+,	O
+funcionario	B-PROFESION
+de	O
+profesión	O
+y	O
+residente	O
+en	O
+Alicante	O
+.	O

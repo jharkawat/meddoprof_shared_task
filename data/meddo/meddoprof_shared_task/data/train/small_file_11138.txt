@@ -1,0 +1,20 @@
+
+Serología	O
+:	O
+Atípicas	O
+,	O
+VEB	O
+,	O
+CMV	O
+,	O
+VHA	O
+,	O
+VHB	O
+,	O
+VEB	O
+,	O
+VIH	O
+,	O
+Lues	O
+negativos	O
+.	O

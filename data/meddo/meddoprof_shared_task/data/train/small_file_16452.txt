@@ -1,0 +1,13 @@
+
+No	O
+seguía	O
+tratamiento	O
+habitual	O
+salvo	O
+analgésicos	O
+tipo	O
+AINE	O
+de	O
+manera	O
+ocasional	O
+.	O

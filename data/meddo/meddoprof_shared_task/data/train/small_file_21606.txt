@@ -1,0 +1,5 @@
+
+No	O
+patologías	O
+médicas	O
+.	O

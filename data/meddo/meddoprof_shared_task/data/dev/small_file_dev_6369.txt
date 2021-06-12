@@ -1,0 +1,26 @@
+
+Ante	O
+un	O
+paciente	O
+que	O
+tras	O
+un	O
+viaje	O
+presenta	O
+fiebre	O
+y	O
+lesiones	O
+sugestivas	O
+de	O
+picaduras	O
+debemos	O
+de	O
+pensar	O
+siempre	O
+en	O
+cuadros	O
+producidos	O
+por	O
+rickettsias	O
+importadas	O
+.	O

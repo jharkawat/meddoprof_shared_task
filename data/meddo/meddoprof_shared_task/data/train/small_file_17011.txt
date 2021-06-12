@@ -1,0 +1,10 @@
+
+Síndrome	O
+de	O
+hipotensión	O
+intracraneal	O
+espontánea	O
+(	O
+SHIE	O
+)	O
+.	O

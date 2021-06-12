@@ -1,0 +1,22 @@
+
+Los	O
+síntomas	O
+depresivos	O
+los	O
+sufría	O
+la	O
+mayor	O
+parte	O
+del	O
+día	O
+todos	O
+los	O
+días	O
+,	O
+hubiera	O
+o	O
+no	O
+consumido	O
+cocaína	O
+recientemente	O
+.	O

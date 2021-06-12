@@ -1,0 +1,21 @@
+
+A	O
+las	O
+72	O
+horas	O
+se	O
+revisa	O
+aumentando	O
+MST	O
+5	O
+mg	O
+cada	O
+8	O
+horas	O
+y	O
+morfina	O
+10	O
+mg	O
+de	O
+rescate	O
+.	O

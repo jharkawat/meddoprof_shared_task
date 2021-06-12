@@ -1,0 +1,21 @@
+
+Acudió	O
+a	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+,	O
+quien	O
+le	O
+pautó	O
+tratamiento	O
+con	O
+Symbicort	O
+®	O
+sin	O
+mejoría	O
+clínica	O
+evidente	O
+.	O

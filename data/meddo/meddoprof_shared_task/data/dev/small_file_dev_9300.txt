@@ -1,0 +1,18 @@
+
+Staphylococcus	O
+aureus	O
+es	O
+el	O
+agente	O
+causal	O
+implicado	O
+con	O
+mayor	O
+frecuencia	O
+en	O
+este	O
+tipo	O
+de	O
+presentación	O
+clínica	O
+.	O

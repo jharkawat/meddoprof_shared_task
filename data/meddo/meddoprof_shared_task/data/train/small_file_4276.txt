@@ -1,0 +1,24 @@
+
+La	O
+paciente	O
+acudió	O
+a	O
+nosotros	O
+debido	O
+a	O
+una	O
+serie	O
+de	O
+molestias	O
+genito	O
+-	O
+urinarias	O
+,	O
+sin	O
+fiebre	O
+,	O
+ni	O
+otra	O
+sintomatología	O
+acompañante	O
+.	O

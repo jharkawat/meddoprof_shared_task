@@ -1,0 +1,5 @@
+
+Ligera	O
+ingurgitación	O
+yugular	O
+.	O

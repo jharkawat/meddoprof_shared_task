@@ -1,0 +1,20 @@
+
+Es	O
+fumador	O
+de	O
+más	O
+de	O
+15	O
+paquetes	O
+/	O
+año	O
+y	O
+no	O
+presenta	O
+alergias	O
+medicamentosas	O
+ni	O
+antecedentes	O
+médicos	O
+relevantes	O
+.	O

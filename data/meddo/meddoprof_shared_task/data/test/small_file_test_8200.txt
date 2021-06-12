@@ -1,0 +1,12 @@
+
+Se	O
+solicitan	O
+hemocultivos	O
+ciegos	O
+,	O
+urocultivo	O
+y	O
+cultivo	O
+de	O
+esputo	O
+.	O

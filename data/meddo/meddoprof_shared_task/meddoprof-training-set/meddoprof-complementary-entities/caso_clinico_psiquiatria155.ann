@@ -1,0 +1,54 @@
+T1	NEG 332 335	sin
+T2	NSCO 336 381	que hayan formalizado de modo alguno su unión
+T3	NEG 419 421	no
+T4	NSCO 422 445	muy lejos del domicilio
+T5	NEG 581 583	No
+T6	NSCO 584 595	tiene hijos
+T7	NEG 1120 1123	sin
+T8	NSCO 1124 1151	ilusión por las actividades
+T9	NEG 1210 1212	no
+T10	NSCO 1213 1221	disfruta
+T11	NEG 1279 1281	no
+T12	NSCO 1282 1313	haberse enterado de la película
+T13	NEG 1383 1385	no
+T14	NSCO 1386 1412	poder seguirla con interés
+T15	NEG 1500 1502	no
+T16	NSCO 1503 1509	es "la
+T17	NEG 1710 1712	no
+T18	NSCO 1713 1740	es agradable estar con ella
+T19	NEG 1922 1924	no
+T20	NSCO 1925 1970	tener que hacer grandes esfuerzos de relación
+T21	NEG 2129 2131	no
+T22	NSCO 2132 2153	tener mucha esperanza
+T23	NEG 2268 2270	no
+T24	NSCO 2271 2293	quiere hacerles sufrir
+T25	UNC 2318 2331	posibles para
+T26	NEG 2332 2334	no
+T27	NSCO 2335 2382	encontrarse con ellos ni con su hermana pequeña
+T28	NEG 2459 2461	no
+T29	NSCO 2462 2485	delante del ordenador "
+T30	NEG 2485 2488	sin
+T31	NSCO 2489 2503	sentido alguno
+T32	UNC 2533 2539	podría
+T33	USCO 2540 2563	"volver a hacerlo bien"
+T34	ORG_VIVO 86 91	amiga
+T35	ORG_VIVO 144 153	terapeuta
+T36	ORG_VIVO 307 313	pareja
+T37	ORG_VIVO 387 393	padres
+T38	ORG_VIVO 456 463	hermano
+T39	ORG_VIVO 521 528	hermana
+T40	ORG_VIVO 573 579	padres
+T41	ORG_VIVO 590 595	hijos
+T42	ORG_VIVO 653 662	enfermera
+T43	ORG_VIVO 850 857	persona
+T44	ORG_VIVO 1451 1459	personas
+T45	ORG_VIVO 1478 1484	pareja
+T46	ORG_VIVO 1570 1578	personas
+T47	ORG_VIVO 1882 1888	pareja
+T48	ORG_VIVO 2169 2175	pareja
+T49	ORG_VIVO 2224 2230	padres
+T50	ORG_VIVO 2367 2374	hermana
+T51	ORG_VIVO 2447 2456	enfermera
+T52	PACIENTE-PROFESION 2447 2456	enfermera
+T53	PACIENTE-PROFESION 653 677	enfermera en un hospital
+T54	SANITARIO-PROFESION 144 153	terapeuta

@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+se	O
+encuentra	O
+todo	O
+el	O
+tiempo	O
+pendiente	O
+de	O
+estas	O
+voces	O
+y	O
+contestando	O
+cuando	O
+su	O
+nivel	O
+de	O
+angustia	O
+es	O
+intenso	O
+.	O

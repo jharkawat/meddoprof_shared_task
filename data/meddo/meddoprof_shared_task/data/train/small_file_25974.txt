@@ -1,0 +1,23 @@
+
+Tras	O
+la	O
+suspensión	O
+de	O
+tratamiento	O
+sustitutivo	O
+tiroideo	O
+,	O
+remisión	O
+de	O
+los	O
+síntomas	O
+y	O
+alta	O
+hospitalaria	O
+tras	O
+5	O
+días	O
+sin	O
+precisar	O
+neurolépticos	O
+.	O

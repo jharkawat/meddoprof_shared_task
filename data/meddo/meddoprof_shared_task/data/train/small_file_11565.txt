@@ -1,0 +1,10 @@
+
+No	O
+había	O
+registro	O
+de	O
+bilirrubina	O
+ni	O
+de	O
+FA	O
+.	O

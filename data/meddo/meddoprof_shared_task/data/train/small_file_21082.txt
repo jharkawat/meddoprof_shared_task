@@ -1,0 +1,16 @@
+
+Habitaba	O
+un	O
+departamento	O
+alquilado	O
+y	O
+había	O
+podido	O
+vivir	O
+sola	O
+sin	O
+ayuda	O
+hasta	O
+este	O
+episodio	O
+.	O

@@ -1,0 +1,10 @@
+
+No	O
+se	O
+han	O
+presentado	O
+dificultades	O
+en	O
+la	O
+inducción	O
+.	O

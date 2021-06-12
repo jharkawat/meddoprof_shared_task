@@ -1,0 +1,22 @@
+
+No	O
+presentan	O
+antecedentes	O
+psiquiátricos	O
+,	O
+salvo	O
+que	O
+ambos	O
+presentan	O
+dependencia	O
+del	O
+tabaco	O
+,	O
+fumando	O
+alrededor	O
+de	O
+20	O
+cigarrillos	O
+/	O
+día	O
+.	O

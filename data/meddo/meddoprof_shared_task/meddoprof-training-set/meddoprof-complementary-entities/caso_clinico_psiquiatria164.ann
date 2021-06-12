@@ -1,0 +1,61 @@
+T1	SINTOMA 319 328	irritable
+T2	NEG 491 493	no
+T3	NSCO 494 515	tienen ningún sentido
+T4	NEG 585 587	no
+T5	NSCO 588 596	las hace
+T6	NEG 1056 1058	No
+T7	NSCO 1059 1075	tenía suficiente
+T8	NEG 1643 1645	no
+T9	NSCO 1646 1687	le queda tiempo para peinarse o desayunar
+T10	NEG 1711 1713	no
+T11	NSCO 1714 1746	llega a la primera hora de clase
+T12	NEG 1906 1908	no
+T13	NSCO 1909 1948	le da tiempo de ducharse antes de salir
+T14	UNC 2113 2119	podría
+T15	USCO 2120 2137	ocurrir algo malo
+T16	UNC 2269 2276	pudiera
+T17	USCO 2277 2308	tener el escuchar esas palabras
+T18	UNC 2333 2340	parecen
+T19	USCO 2341 2374	tener alguna propiedad protectora
+T20	NEG 2445 2447	no
+T21	NSCO 2448 2466	actúa como lo hace
+T22	NEG 2817 2819	no
+T23	NSCO 2820 2825	actúa
+T24	NEG 2885 2887	no
+T25	NSCO 2888 2914	va a vivir muchos años más
+T26	NEG 3408 3410	no
+T27	NSCO 3411 3435	puede hacer o los sitios
+T28	NEG 3442 3444	no
+T29	NSCO 3445 3477	pueden ir a causa de su problema
+T30	NEG 3599 3601	no
+T31	NSCO 3602 3620	vale la pena salir
+T32	NEG 3876 3878	no
+T33	NSCO 3879 3901	me dejan concentrarme"
+T34	ORG_VIVO 33 39	padres
+T35	ORG_VIVO 48 56	hermanos
+T36	ORG_VIVO 154 162	paciente
+T37	ORG_VIVO 213 231	médico de cabecera
+T38	ORG_VIVO 259 265	padres
+T39	ORG_VIVO 688 697	microbios
+T40	ORG_VIVO 919 924	madre
+T41	ORG_VIVO 1317 1323	padres
+T42	ORG_VIVO 1389 1400	dermatólogo
+T43	ORG_VIVO 1502 1510	personal
+T44	ORG_VIVO 1790 1800	profesores
+T45	ORG_VIVO 1892 1898	amigas
+T46	ORG_VIVO 2104 2112	gérmenes
+T47	ORG_VIVO 2515 2521	amigas
+T48	ORG_VIVO 2749 2756	familia
+T49	ORG_VIVO 2830 2836	abuelo
+T50	ORG_VIVO 3302 3324	compañero de instituto
+T51	ORG_VIVO 3550 3555	novio
+T52	ORG_VIVO 3629 3636	persona
+T53	ORG_VIVO 3695 3701	amigas
+T54	ORG_VIVO 3971 3977	padres
+T55	ENFERMEDAD 1347 1368	enfermedad en la piel
+T56	PACIENTE-SITUACION_LABORAL 66 86	Estudia 4o de la ESO
+T57	OTROS-SITUACION_LABORAL 3302 3324	compañero de instituto
+T58	SANITARIO-PROFESION 1389 1400	dermatólogo
+T59	SANITARIO-PROFESION 213 231	médico de cabecera
+T60	OTROS-PROFESION 1790 1800	profesores
+T61	PACIENTE-ACTIVIDAD 1835 1849	jugar al tenis

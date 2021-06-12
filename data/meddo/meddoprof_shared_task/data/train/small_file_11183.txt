@@ -1,0 +1,27 @@
+
+Diagnóstico	O
+final	O
+:	O
+Con	O
+todo	O
+lo	O
+anteriormente	O
+expuesto	O
+se	O
+llega	O
+al	O
+diagnóstico	O
+final	O
+de	O
+coartación	O
+aórtica	O
+severa	O
+como	O
+causa	O
+de	O
+HTA	O
+con	O
+encefalopatía	O
+hipertensiva	O
+asociada	O
+.	O

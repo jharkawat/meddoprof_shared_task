@@ -1,0 +1,23 @@
+
+Ante	O
+el	O
+alto	O
+riesgo	O
+trombótico	O
+y	O
+la	O
+imposibilidad	O
+de	O
+anticoagular	O
+por	O
+el	O
+sangrado	O
+digestivo	O
+se	O
+coloca	O
+un	O
+filtro	O
+de	O
+vena	O
+cava	O
+.	O

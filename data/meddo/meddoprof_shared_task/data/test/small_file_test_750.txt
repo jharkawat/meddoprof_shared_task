@@ -1,0 +1,10 @@
+
+Los	O
+trabajadores	B-PROFESION
+del	I-PROFESION
+campo	I-PROFESION
+son	O
+los	O
+más	O
+expuestos	O
+.	O

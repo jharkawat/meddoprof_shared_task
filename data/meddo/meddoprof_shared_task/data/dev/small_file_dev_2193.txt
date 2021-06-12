@@ -1,0 +1,24 @@
+
+Posterior	O
+seguimiento	O
+de	O
+la	O
+niña	O
+(	O
+hasta	O
+6	O
+años	O
+de	O
+edad	O
+)	O
+:	O
+crecimiento	O
+normal	O
+,	O
+sin	O
+apreciarse	O
+alteraciones	O
+morfológicas	O
+,	O
+conductuales	O
+.	O

@@ -1,0 +1,11 @@
+
+Se	O
+muestra	O
+colaborador	O
+con	O
+la	O
+toma	O
+de	O
+la	O
+medicación	O
+.	O

@@ -1,0 +1,25 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+un	O
+cuadro	O
+infeccioso	O
+subyacente	O
+se	O
+inició	O
+antibioterapia	O
+empírica	O
+de	O
+amplio	O
+espectro	O
+con	O
+meropenem	O
+,	O
+vancomicina	O
+,	O
+fluconazol	O
+y	O
+aciclovir	O
+.	O

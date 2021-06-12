@@ -1,0 +1,20 @@
+
+Se	O
+realiza	O
+a	O
+este	O
+nivel	O
+porque	O
+es	O
+el	O
+primer	O
+escalón	O
+donde	O
+existe	O
+un	O
+equipo	B-PROFESION
+quirúrgico	I-PROFESION
+capaz	O
+de	O
+realizarlos	O
+.	O

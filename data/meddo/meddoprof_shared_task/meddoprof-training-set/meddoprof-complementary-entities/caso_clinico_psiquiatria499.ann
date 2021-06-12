@@ -1,0 +1,80 @@
+T1	SINTOMA 215 228	fallecimiento
+T2	SINTOMA 929 952	alucinaciones auditivas
+T3	SINTOMA 1356 1365	temblores
+T4	SINTOMA 1367 1375	acatisia
+T5	SINTOMA 1377 1386	distonías
+T6	SINTOMA 1388 1411	contracturas musculares
+T7	SINTOMA 1414 1445	discinesias tardías prominentes
+T8	SINTOMA 1451 1474	alteración de la marcha
+T9	SINTOMA 1802 1823	síntomas neurológicos
+T10	SINTOMA 2835 2846	discinesias
+T11	SINTOMA 3147 3156	temblores
+T12	SINTOMA 3354 3375	síntomas neurológicos
+T13	SINTOMA 3604 3623	síntomas psicóticos
+T14	SINTOMA 3625 3633	eutímica
+T15	SINTOMA 4192 4213	síntomas neurológicos
+T16	PROCEDIMIENTO 419 445	tratamiento hipolipemiante
+T17	PROCEDIMIENTO 448 463	colecistectomía
+T18	PROCEDIMIENTO 1090 1120	tratamientos con neurolépticos
+T19	PROCEDIMIENTO 1911 1923	TAC cerebral
+T20	PROCEDIMIENTO 1929 1957	resonancia magnética craneal
+T21	PROCEDIMIENTO 2049 2067	electrocardiograma
+T22	PROCEDIMIENTO 2638 2668	tratamiento con antipsicóticos
+T23	NEG 97 100	sin
+T24	NSCO 101 106	hijos
+T25	NEG 483 486	Sin
+T26	NSCO 487 502	hábitos tóxicos
+T27	NEG 2068 2070	no
+T28	NSCO 2071 2091	muestra alteraciones
+T29	NEG 2810 2813	sin
+T30	NSCO 2814 2854	mejoría de los SEP y discinesias tardías
+T31	NEG 3301 3304	sin
+T32	NSCO 3305 3375	otros efectos secundarios y cese completo de los síntomas neurológicos
+T33	NEG 3530 3533	sin
+T34	NSCO 3534 3579	evidenciar descompensaciones psicopatológicas
+T35	NEG 3709 3711	no
+T36	NSCO 3712 3864	se han encontrado hallazgos en pruebas de imagen que sugieran afectación en áreas cerebrales implicadas o una enfermedad de Parkinson puramente endógena
+T37	FARMACO 1139 1148	clozapina
+T38	FARMACO 2685 2696	perfenazina
+T39	FARMACO 2698 2709	haloperidol
+T40	FARMACO 2712 2727	trifluoperazina
+T41	FARMACO 2784 2794	olanzapina
+T42	FARMACO 2797 2808	risperidona
+T43	FARMACO 2919 2929	biperideno
+T44	FARMACO 3001 3010	clozapina
+T45	FARMACO 3034 3043	clozapina
+T46	FARMACO 3213 3222	clozapina
+T47	FARMACO 3939 3948	clozapina
+T48	ORG_VIVO 0 5	Mujer
+T49	ORG_VIVO 53 63	personales
+T50	ORG_VIVO 101 106	hijos
+T51	ORG_VIVO 127 134	familia
+T52	ORG_VIVO 140 148	hermanos
+T53	ORG_VIVO 236 242	padres
+T54	ORG_VIVO 336 346	familiares
+T55	ORG_VIVO 362 374	rama materna
+T56	ORG_VIVO 827 835	paciente
+T57	ORG_VIVO 1506 1514	paciente
+T58	ORG_VIVO 1739 1747	personal
+T59	ORG_VIVO 2158 2161	VIH
+T60	ORG_VIVO 2163 2168	Hep B
+T61	ORG_VIVO 2169 2172	y C
+T62	ORG_VIVO 2541 2549	paciente
+T63	ORG_VIVO 3060 3068	paciente
+T64	ORG_VIVO 3391 3399	paciente
+T65	ORG_VIVO 4107 4115	paciente
+T66	ENFERMEDAD 348 374	celotipia por rama materna
+T67	ENFERMEDAD 405 415	dislipemia
+T68	ENFERMEDAD 567 580	esquizofrenia
+T69	ENFERMEDAD 742 767	descompensación psicótica
+T70	ENFERMEDAD 1002 1037	sintomatología extrapiramidal grave
+T71	ENFERMEDAD 1040 1058	disquinesia tardía
+T72	ENFERMEDAD 2368 2379	DIAGNÓSTICO
+T73	ENFERMEDAD 2380 2393	Esquizofrenia
+T74	ENFERMEDAD 2467 2502	distonía secundaria a neurolépticos
+T75	ENFERMEDAD 3545 3579	descompensaciones psicopatológicas
+T76	ENFERMEDAD 3822 3864	enfermedad de Parkinson puramente endógena
+T77	ENFERMEDAD 3981 4001	disquinesias tardías
+T78	ENFERMEDAD 4004 4039	distonía secundaria a neurolépticos
+T79	PACIENTE-PROFESION 244 247	ATS
+T80	PACIENTE-SITUACION_LABORAL 262 274	incapacitada

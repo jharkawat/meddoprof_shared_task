@@ -1,0 +1,13 @@
+
+La	O
+tuberculosis	O
+ganglionar	O
+es	O
+la	O
+forma	O
+de	O
+tuberculosis	O
+extrapulmonar	O
+más	O
+frecuente	O
+.	O

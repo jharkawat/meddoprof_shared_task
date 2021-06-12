@@ -1,0 +1,15 @@
+
+Filariosis	O
+(	O
+oncocercosis	O
+,	O
+filariasis	O
+linfática	O
+,	O
+género	O
+Mansonella	O
+,	O
+Loa	O
+loa	O
+)	O
+.	O

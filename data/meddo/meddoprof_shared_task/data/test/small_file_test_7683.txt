@@ -1,0 +1,25 @@
+
+Actualmente	O
+la	O
+paciente	O
+se	O
+encuentra	O
+asintomática	O
+,	O
+sin	O
+síntomas	O
+secundarios	O
+a	O
+las	O
+metástasis	O
+óseas	O
+,	O
+con	O
+capacidad	O
+funcional	O
+de	O
+1	O
+(	O
+ECOG	O
+)	O
+.	O

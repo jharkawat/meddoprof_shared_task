@@ -1,0 +1,20 @@
+
+Se	O
+ajusta	O
+el	O
+tratamiento	O
+de	O
+soporte	O
+con	O
+corticoides	O
+e	O
+infusor	O
+subcutáneo	O
+con	O
+cloruro	O
+mórfico	O
+para	O
+control	O
+del	O
+dolor	O
+.	O

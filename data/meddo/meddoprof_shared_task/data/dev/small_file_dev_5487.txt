@@ -1,0 +1,21 @@
+
+Se	O
+solicitó	O
+una	O
+resonancia	O
+magnética	O
+(	O
+RM	O
+)	O
+cerebral	O
+,	O
+que	O
+descartó	O
+aneurismas	O
+cerebrales	O
+(	O
+síndrome	O
+de	O
+Osler	O
+)	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+adenopatías	O
+palpables	O
+a	O
+ningún	O
+nivel	O
+.	O

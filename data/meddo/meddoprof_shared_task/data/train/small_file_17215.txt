@@ -1,0 +1,12 @@
+
+Se	O
+comenzó	O
+tratamiento	O
+con	O
+fenitoína	O
+,	O
+sin	O
+presentar	O
+nuevas	O
+crisis	O
+.	O

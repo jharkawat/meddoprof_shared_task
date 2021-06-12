@@ -1,0 +1,10 @@
+
+No	O
+fue	O
+necesaria	O
+la	O
+administración	O
+de	O
+aminas	O
+vasoactivas	O
+.	O

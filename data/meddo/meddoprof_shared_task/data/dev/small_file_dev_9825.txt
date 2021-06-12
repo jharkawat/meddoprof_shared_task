@@ -1,0 +1,13 @@
+
+Fecha	O
+y	O
+hora	O
+de	O
+consulta	O
+:	O
+20	O
+05	O
+2017	O
+15	O
+:	O
+10	O

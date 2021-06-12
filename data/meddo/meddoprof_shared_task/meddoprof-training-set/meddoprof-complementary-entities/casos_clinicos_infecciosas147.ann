@@ -1,0 +1,247 @@
+T1	SINTOMA 48 65	cefalea tensional
+T2	SINTOMA 88 118	deformidad nasal postraumática
+T3	SINTOMA 562 568	fiebre
+T4	SINTOMA 680 687	astenia
+T5	SINTOMA 698 711	artromialgias
+T6	SINTOMA 820 835	dolor abdominal
+T7	SINTOMA 858 865	tenesmo
+T8	SINTOMA 868 879	rectorragia
+T9	SINTOMA 900 916	pérdida ponderal
+T10	SINTOMA 918 938	clínica respiratoria
+T11	SINTOMA 941 955	dolor torácico
+T12	SINTOMA 1075 1094	buen estado general
+T13	SINTOMA 1110 1117	afebril
+T14	SINTOMA 1120 1145	hemodinámicamente estable
+T15	SINTOMA 1232 1252	abdomen era doloroso
+T16	SINTOMA 1299 1320	irritación peritoneal
+T17	SINTOMA 1324 1338	organomegalias
+T18	SINTOMA 1527 1538	PCR elevada
+T19	SINTOMA 1618 1631	trombocitosis
+T20	SINTOMA 1811 1826	síndrome febril
+T21	SINTOMA 2037 2104	engrosamiento parietal circunferencial en tercio inferior del recto
+T22	SINTOMA 4105 4111	fiebre
+T23	SINTOMA 4113 4129	malestar general
+T24	SINTOMA 4132 4139	diarrea
+T25	SINTOMA 4171 4182	masa rectal
+T26	SINTOMA 6728 6734	fiebre
+T27	SINTOMA 6736 6743	cefalea
+T28	SINTOMA 8629 8644	dolor abdominal
+T29	SINTOMA 8716 8722	fiebre
+T30	SINTOMA 8728 8748	deposiciones acuosas
+T31	PROCEDIMIENTO 121 131	vasectomía
+T32	PROCEDIMIENTO 1150 1173	exploración neurológica
+T33	PROCEDIMIENTO 1179 1211	auscultación cardiorrespiratoria
+T34	PROCEDIMIENTO 1346 1390	exploración de las extremidades y de la piel
+T35	PROCEDIMIENTO 1710 1730	radiografía de tórax
+T36	PROCEDIMIENTO 1969 2018	tomografía computarizada (TC) de abdomen y pelvis
+T37	PROCEDIMIENTO 2322 2347	endoscopia digestiva alta
+T38	PROCEDIMIENTO 2378 2390	colonoscopia
+T39	PROCEDIMIENTO 2546 2554	biopsias
+T40	PROCEDIMIENTO 2659 2683	estudios microbiológicos
+T41	PROCEDIMIENTO 2706 2719	baciloscopias
+T42	PROCEDIMIENTO 2798 2811	coprocultivos
+T43	PROCEDIMIENTO 2823 2835	test de IGRA
+T44	PROCEDIMIENTO 2846 2863	serología del VIH
+T45	PROCEDIMIENTO 2983 3012	serología de lúes con FTA-ABS
+T46	PROCEDIMIENTO 3825 3839	biopsia rectal
+T47	PROCEDIMIENTO 3898 3921	terapia antirretroviral
+T48	PROCEDIMIENTO 3923 3926	TAR
+T49	PROCEDIMIENTO 3960 4016	estudios de reacción en cadena de la polimerasa en orina
+T50	PROCEDIMIENTO 4022 4037	frotis endoanal
+T51	PROCEDIMIENTO 4763 4773	endoscopia
+T52	PROCEDIMIENTO 7803 7854	técnicas inmunohistoquímicas de inmunofluorescencia
+T53	PROCEDIMIENTO 8660 8669	analgesia
+T54	PROCEDIMIENTO 8772 8784	antitérmicos
+T55	PROCEDIMIENTO 8787 8801	antidiarreicos
+T56	PROCEDIMIENTO 9350 9368	inmunohistoquímica
+T57	PROCEDIMIENTO 9401 9422	estudio de genotipado
+T58	PROCEDIMIENTO 9487 9490	TAR
+T59	NEG 133 135	No
+T60	NSCO 136 218	presentaba alergias medicamentosas ni tomaba medicación ni refería hábitos tóxicos
+T61	NEG 481 483	no
+T62	NSCO 484 538	siempre utilizaba métodos de barrera en sus relaciones
+T63	NEG 607 609	no
+T64	NSCO 610 622	bacteriémico
+T65	NEG 632 635	sin
+T66	NSCO 636 654	predominio horario
+T67	NSCO 918 955	clínica respiratoria o dolor torácico
+T68	NEG 957 964	Tampoco
+T69	NSCO 965 1032	refería síndrome miccional ni datos de artritis o lesiones cutáneas
+T70	NEG 1110 1117	afebril
+T71	NEG 1285 1288	sin
+T72	NSCO 1289 1338	signos de irritación peritoneal ni organomegalias
+T73	NEG 1391 1393	no
+T74	NSCO 1394 1428	se apreciaron hallazgos de interés
+T75	NEG 1731 1734	sin
+T76	NSCO 1735 1765	apreciar hallazgos patológicos
+T77	NEG 2349 2352	sin
+T78	NSCO 2353 2374	hallazgos patológicos
+T79	NEG 2597 2599	no
+T80	NSCO 2600 2619	descubrió anomalías
+T81	NEG 2787 2796	negativos
+T82	NSCO 2798 2811	coprocultivos
+T83	NEG 2812 2821	negativos
+T84	NEG 3028 3036	negativo
+T85	NEG 3048 3060	negativa del
+T86	NSCO 3061 3064	VHB
+T87	NEG 3146 3154	negativa
+T88	UNC 3723 3731	probable
+T89	USCO 3732 3750	neoplasia de recto
+T90	UNC 4421 4429	probable
+T91	USCO 4430 4446	en este contexto
+T92	NEG 4672 4683	ausencia de
+T93	NSCO 4684 4773	hallazgos macroscópicos sugerentes de enfermedad inflamatoria intestinal en la endoscopia
+T94	UNC 5203 5209	parece
+T95	USCO 5210 5330	relevante reseñar la alta incidencia de carcinoma escamoso del canal anal en pacientes con infección por el VIH avanzada
+T96	NEG 5609 5611	no
+T97	NSCO 5612 5671	esté incluido dentro de las neoplasias definitorias de SIDA
+T98	NEG 5711 5713	no
+T99	NSCO 5714 5719	SIDA"
+T100	NEG 7519 7531	asintomático
+T101	NSCO 7532 7570	o bien ulcerado en la sífilis primaria
+T102	UNC 8075 8083	probable
+T103	UNC 8119 8126	posible
+T104	USCO 8127 8156	relación a prácticas sexuales
+T105	NEG 8990 8999	negativos
+T106	NSCO 9000 9064	los estudios de reacción en cadena de la polimerasa de Chlamydia
+T107	NEG 9192 9203	ausencia de
+T108	NSCO 9204 9227	infiltración neoplásica
+T109	UNC 9320 9328	probable
+T110	USCO 9329 9345	causa infecciosa
+T111	NEG 9388 9396	negativa
+T112	NEG 9423 9425	no
+T113	NSCO 9426 9464	evidenció resistencias basales del VIH
+T114	UNC 9993 10004	sospecha de
+T115	USCO 10005 10008	LGV
+T116	UNC 10142 10150	probable
+T117	USCO 10151 10219	causa infecciosa: linfogranuloma venéreo versus proctitis sifilítica
+T118	FARMACO 3354 3376	penicilina G benzatina
+T119	FARMACO 3456 3466	isoniazida
+T120	FARMACO 8570 8580	penicilina
+T121	FARMACO 9495 9508	emtricitabina
+T122	FARMACO 9510 9519	tenofovir
+T123	FARMACO 9520 9531	alafenamida
+T124	FARMACO 9534 9545	raltegravir
+T125	FARMACO 9595 9606	ivermectina
+T126	FARMACO 9698 9708	albendazol
+T127	FARMACO 9742 9753	benznidazol
+T128	FARMACO 9915 9926	doxiciclina
+T129	ORG_VIVO 0 5	Varón
+T130	ORG_VIVO 34 44	personales
+T131	ORG_VIVO 295 305	agricultor
+T132	ORG_VIVO 460 467	persona
+T133	ORG_VIVO 610 622	bacteriémico
+T134	ORG_VIVO 2706 2719	baciloscopias
+T135	ORG_VIVO 2763 2776	micobacterias
+T136	ORG_VIVO 2860 2863	VIH
+T137	ORG_VIVO 2884 2889	viral
+T138	ORG_VIVO 3005 3012	FTA-ABS
+T139	ORG_VIVO 3061 3064	VHB
+T140	ORG_VIVO 3071 3074	VHC
+T141	ORG_VIVO 3084 3087	VHA
+T142	ORG_VIVO 3107 3122	citomegalovirus
+T143	ORG_VIVO 3124 3127	CMV
+T144	ORG_VIVO 3199 3202	VIH
+T145	ORG_VIVO 3206 3214	paciente
+T146	ORG_VIVO 3755 3763	paciente
+T147	ORG_VIVO 3906 3921	antirretroviral
+T148	ORG_VIVO 3923 3926	TAR
+T149	ORG_VIVO 4072 4080	paciente
+T150	ORG_VIVO 4458 4466	paciente
+T151	ORG_VIVO 5071 5081	familiares
+T152	ORG_VIVO 5287 5296	pacientes
+T153	ORG_VIVO 5464 5467	VPH
+T154	ORG_VIVO 5542 5551	pacientes
+T155	ORG_VIVO 5805 5810	mujer
+T156	ORG_VIVO 6203 6211	paciente
+T157	ORG_VIVO 6287 6308	Chlamydia trachomatis
+T158	ORG_VIVO 6310 6323	serotipos D-K
+T159	ORG_VIVO 6928 6935	virales
+T160	ORG_VIVO 6965 6968	CMV
+T161	ORG_VIVO 7196 7204	paciente
+T162	ORG_VIVO 7246 7253	sífilis
+T163	ORG_VIVO 8451 8461	Salmonella
+T164	ORG_VIVO 8463 8476	Campylobacter
+T165	ORG_VIVO 8478 8486	Shigella
+T166	ORG_VIVO 8507 8515	paciente
+T167	ORG_VIVO 8937 8951	Toxocara canis
+T168	ORG_VIVO 8954 8979	Strongyloides stercolaris
+T169	ORG_VIVO 9055 9064	Chlamydia
+T170	ORG_VIVO 9067 9075	gonococo
+T171	ORG_VIVO 9106 9128	Ureaplasma urealyticum
+T172	ORG_VIVO 9374 9383	Treponema
+T173	ORG_VIVO 9461 9464	VIH
+T174	ORG_VIVO 9487 9490	TAR
+T175	ENFERMEDAD 67 86	sinusopatía crónica
+T176	ENFERMEDAD 88 118	deformidad nasal postraumática
+T177	ENFERMEDAD 973 991	síndrome miccional
+T178	ENFERMEDAD 1004 1012	artritis
+T179	ENFERMEDAD 1015 1032	lesiones cutáneas
+T180	ENFERMEDAD 1551 1557	anemia
+T181	ENFERMEDAD 1618 1631	trombocitosis
+T182	ENFERMEDAD 1845 1860	diarrea crónica
+T183	ENFERMEDAD 1888 1918	anemia microcítica hipocrómica
+T184	ENFERMEDAD 2037 2104	engrosamiento parietal circunferencial en tercio inferior del recto
+T185	ENFERMEDAD 2184 2260	adenopatías en mesorrecto, presacras y en ambas cadenas iliacas e inguinales
+T186	ENFERMEDAD 2415 2484	mucosa de aspecto infiltrativo, nodular y blanda, desde el canal anal
+T187	ENFERMEDAD 3199 3202	VIH
+T188	ENFERMEDAD 3245 3269	Enfermedades Infecciosas
+T189	ENFERMEDAD 3422 3443	infección tuberculosa
+T190	ENFERMEDAD 3648 3668	infección por el VIH
+T191	ENFERMEDAD 3694 3720	lúes de data indeterminada
+T192	ENFERMEDAD 3732 3750	neoplasia de recto
+T193	ENFERMEDAD 4187 4214	adenopatías locorregionales
+T194	ENFERMEDAD 4237 4266	infección por el VIH avanzada
+T195	ENFERMEDAD 4471 4486	diarrea crónica
+T196	ENFERMEDAD 4539 4573	enfermedad inflamatoria intestinal
+T197	ENFERMEDAD 4588 4628	principal etiología sistémica-autoinmune
+T198	ENFERMEDAD 4722 4756	enfermedad inflamatoria intestinal
+T199	ENFERMEDAD 4829 4861	causas neoplásicas e infecciosas
+T200	ENFERMEDAD 4926 4949	adenocarcinoma de colon
+T201	ENFERMEDAD 5107 5125	linfoma intestinal
+T202	ENFERMEDAD 5131 5148	carcinoide rectal
+T203	ENFERMEDAD 5163 5173	metástasis
+T204	ENFERMEDAD 5250 5283	carcinoma escamoso del canal anal
+T205	ENFERMEDAD 5301 5330	infección por el VIH avanzada
+T206	ENFERMEDAD 5418 5462	coinfección por el virus del papiloma humano
+T207	ENFERMEDAD 5510 5519	neoplasia
+T208	ENFERMEDAD 5667 5671	SIDA
+T209	ENFERMEDAD 5714 5718	SIDA
+T210	ENFERMEDAD 5741 5757	cáncer de cérvix
+T211	ENFERMEDAD 5860 5880	infección por el VPH
+T212	ENFERMEDAD 5896 5914	causas infecciosas
+T213	ENFERMEDAD 5919 5942	tuberculosis intestinal
+T214	ENFERMEDAD 6085 6092	sífilis
+T215	ENFERMEDAD 6135 6165	infección de trasmisión sexual
+T216	ENFERMEDAD 6167 6170	ITS
+T217	ENFERMEDAD 6245 6308	infección por Neisseria gonorrhoeae y por Chlamydia trachomatis
+T218	ENFERMEDAD 6341 6350	proctitis
+T219	ENFERMEDAD 6511 6520	uretritis
+T220	ENFERMEDAD 6525 6573	infección por el virus del herpes simple tipos 1
+T221	ENFERMEDAD 6596 6626	ulceración de la mucosa rectal
+T222	ENFERMEDAD 6668 6679	adenopatías
+T223	ENFERMEDAD 6883 6905	adenopatías regionales
+T224	ENFERMEDAD 6980 6987	colitis
+T225	ENFERMEDAD 7038 7062	infección por este virus
+T226	ENFERMEDAD 7246 7253	sífilis
+T227	ENFERMEDAD 7554 7570	sífilis primaria
+T228	ENFERMEDAD 7589 7599	condilomas
+T229	ENFERMEDAD 7867 7889	linfogranuloma venéreo
+T230	ENFERMEDAD 7904 7922	enfermedad venérea
+T231	ENFERMEDAD 7959 7991	linfadenopatía inguinal ulcerada
+T232	ENFERMEDAD 8040 8054	masas rectales
+T233	ENFERMEDAD 8175 8184	amebiasis
+T234	ENFERMEDAD 8208 8221	proctocolitis
+T235	ENFERMEDAD 8252 8262	giardiasis
+T236	ENFERMEDAD 8954 8979	Strongyloides stercolaris
+T237	ENFERMEDAD 9204 9227	infiltración neoplásica
+T238	ENFERMEDAD 9461 9464	VIH
+T239	ENFERMEDAD 9633 9661	infección por S. stercolaris
+T240	ENFERMEDAD 9717 9739	infección por T. canis
+T241	ENFERMEDAD 9762 9782	enfermedad de Chagas
+T242	ENFERMEDAD 10005 10008	LGV
+T243	ENFERMEDAD 10029 10049	Infección por el VIH
+T244	ENFERMEDAD 10169 10191	linfogranuloma venéreo
+T245	ENFERMEDAD 10199 10219	proctitis sifilítica
+T246	ENFERMEDAD 10264 10284	Enfermedad de Chagas
+T247	PACIENTE-PROFESION 295 305	agricultor

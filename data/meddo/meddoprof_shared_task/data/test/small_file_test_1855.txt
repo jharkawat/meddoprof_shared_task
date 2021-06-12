@@ -1,0 +1,6 @@
+
+Estudio	O
+anatomo	O
+-	O
+patológico	O
+:	O

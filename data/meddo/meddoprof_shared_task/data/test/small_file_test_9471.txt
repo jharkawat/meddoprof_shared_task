@@ -1,0 +1,20 @@
+
+En	O
+el	O
+fondo	O
+de	O
+ojo	O
+se	O
+detecta	O
+edema	O
+de	O
+papila	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+decide	O
+completar	O
+estudio	O
+.	O

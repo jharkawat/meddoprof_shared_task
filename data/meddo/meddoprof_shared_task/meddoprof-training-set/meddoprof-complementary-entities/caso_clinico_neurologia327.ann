@@ -1,0 +1,57 @@
+T1	SINTOMA 71 78	cefalea
+T2	SINTOMA 366 373	cefalea
+T3	SINTOMA 422 433	holocraneal
+T4	SINTOMA 439 448	fotofobia
+T5	SINTOMA 450 457	náuseas
+T6	SINTOMA 459 466	vómitos
+T7	SINTOMA 468 491	impedía la deambulación
+T8	SINTOMA 512 533	focalidad neurológica
+T9	SINTOMA 633 640	cefalea
+T10	SINTOMA 742 749	cefalea
+T11	SINTOMA 996 1003	cefalea
+T12	SINTOMA 1393 1427	descenso de la amígdala cerebelosa
+T13	SINTOMA 1930 1972	descenso de la amígdala cerebelosa derecha
+T14	PROCEDIMIENTO 561 570	anamnesis
+T15	PROCEDIMIENTO 1161 1179	Exploración física
+T16	PROCEDIMIENTO 1186 1204	exploración física
+T17	PROCEDIMIENTO 1288 1308	resonancia magnética
+T18	PROCEDIMIENTO 1310 1312	RM
+T19	PROCEDIMIENTO 1475 1484	hemograma
+T20	PROCEDIMIENTO 1740 1755	apertura de LCR
+T21	PROCEDIMIENTO 1770 1807	Tomografía computarizada (TC) craneal
+T22	PROCEDIMIENTO 1834 1844	RM craneal
+T23	PROCEDIMIENTO 2007 2026	Cisternogammagrafía
+T24	PROCEDIMIENTO 2413 2424	hidratación
+T25	PROCEDIMIENTO 2427 2436	analgesia
+T26	PROCEDIMIENTO 2574 2608	parche epidural de sangre autóloga
+T27	PROCEDIMIENTO 2739 2758	cisternogammagrafía
+T28	UNC 296 310	posibilidad de
+T29	USCO 311 339	una hemorragia subaracnoidea
+T30	NEG 468 475	impedía
+T31	NSCO 476 491	la deambulación
+T32	NEG 493 496	sin
+T33	NSCO 497 533	acompañarse de focalidad neurológica
+T34	NEG 1057 1059	no
+T35	NSCO 1060 1068	consultó
+T36	NEG 1205 1207	no
+T37	NSCO 1208 1280	se encontraron datos patológicos sistémicos, ni de focalidad neurológica
+T38	NEG 1495 1498	sin
+T39	NSCO 1499 1511	alteraciones
+T40	NEG 1587 1590	sin
+T41	NSCO 1591 1603	alteraciones
+T42	NEG 1679 1687	negativa
+T43	NEG 1809 1812	sin
+T44	NSCO 1813 1830	datos patológicos
+T45	NEG 1974 1976	no
+T46	NSCO 1977 2003	hay colecciones subdurales
+T47	ORG_VIVO 10 24	Paciente varón
+T48	ORG_VIVO 681 689	paciente
+T49	ORG_VIVO 2344 2352	paciente
+T50	ORG_VIVO 2480 2488	paciente
+T51	ENFERMEDAD 315 339	hemorragia subaracnoidea
+T52	ENFERMEDAD 854 877	espondilolistesis L5-S1
+T53	ENFERMEDAD 911 954	traumatismo directo sobre la columna lumbar
+T54	ENFERMEDAD 1981 2003	colecciones subdurales
+T55	ENFERMEDAD 2053 2101	fístulas a lo largo de toda la columna vertebral
+T56	ENFERMEDAD 2260 2275	fístulas de LCR
+T57	PACIENTE-ACTIVIDAD 124 158	realizar ejercicio físico (esquiar

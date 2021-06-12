@@ -1,0 +1,20 @@
+
+Tras	O
+4	O
+meses	O
+de	O
+tratamiento	O
+,	O
+inicia	O
+nuevo	O
+puesto	O
+de	O
+trabajo	O
+con	O
+un	O
+mayor	O
+nivel	O
+de	O
+autonomía	O
+general	O
+.	O

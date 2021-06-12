@@ -1,0 +1,18 @@
+
+-	O
+RMN	O
+miembro	O
+inferior	O
+derecho	O
+:	O
+no	O
+se	O
+observa	O
+trombosis	O
+ni	O
+causa	O
+compresiva	O
+retroperitoneal	O
+ni	O
+pélvica	O
+.	O

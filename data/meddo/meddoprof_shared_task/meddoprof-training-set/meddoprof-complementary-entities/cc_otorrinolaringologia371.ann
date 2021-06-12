@@ -1,0 +1,24 @@
+T1	SINTOMA 84 91	fumador
+T2	SINTOMA 129 138	epistaxis
+T3	SINTOMA 141 172	obstrucción nasal en fosa nasal
+T4	SINTOMA 647 709	ocupación por material partes blandas del seno maxilar derecho
+T5	PROCEDIMIENTO 487 515	biopsias con anestesia local
+T6	PROCEDIMIENTO 607 631	tomografía computerizada
+T7	PROCEDIMIENTO 948 979	cirugía endoscópica nasosinusal
+T8	NEG 81 83	no
+T9	NSCO 84 91	fumador
+T10	NEG 321 328	impedía
+T11	NSCO 329 363	la visualización del cornete medio
+T12	NEG 405 408	sin
+T13	NSCO 409 420	infiltrarlo
+T14	NEG 423 426	sin
+T15	NSCO 427 453	llegar al suelo de la fosa
+T16	NEG 834 836	no
+T17	NSCO 837 884	se apreciaron adenopatías de aspecto patológico
+T18	ORG_VIVO 26 31	varón
+T19	ORG_VIVO 44 67	trabajador de la madera
+T20	ENFERMEDAD 141 172	obstrucción nasal en fosa nasal
+T21	ENFERMEDAD 239 302	lesión verrucosa y vascularizada en toda la extensión del meato
+T22	ENFERMEDAD 538 571	adenocarcinoma de tipo intestinal
+T23	ENFERMEDAD 851 862	adenopatías
+T24	PACIENTE-PROFESION 44 67	trabajador de la madera

@@ -1,0 +1,18 @@
+
+Ocupación	O
+:	O
+Estudiante	B-SITUACION_LABORAL
+de	O
+logopedia	O
+con	O
+tendencia	O
+a	O
+la	O
+especialización	O
+en	O
+rehabilitación	O
+y	O
+trabajo	O
+en	O
+voz	O
+.	O

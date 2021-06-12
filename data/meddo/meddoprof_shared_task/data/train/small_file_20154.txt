@@ -1,0 +1,18 @@
+
+Rey	O
+había	O
+comenzado	O
+a	O
+«	O
+perder	O
+el	O
+interés	O
+por	O
+la	O
+vida	O
+»	O
+unos	O
+4	O
+meses	O
+antes	O
+.	O

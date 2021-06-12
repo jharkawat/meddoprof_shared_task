@@ -1,0 +1,22 @@
+
+También	O
+se	O
+realiza	O
+diagnóstico	O
+de	O
+trastorno	O
+por	O
+consumo	O
+de	O
+cannabis	O
+al	O
+considerarse	O
+que	O
+el	O
+paciente	O
+cumple	O
+criterios	O
+para	O
+el	O
+mismo	O
+.	O

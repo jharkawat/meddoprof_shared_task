@@ -1,0 +1,15 @@
+
+Antecedentes	O
+personales	O
+:	O
+natural	O
+de	O
+Colombia	O
+,	O
+desde	O
+los	O
+10	O
+años	O
+en	O
+España	O
+.	O

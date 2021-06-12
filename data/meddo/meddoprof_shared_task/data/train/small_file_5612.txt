@@ -1,0 +1,22 @@
+
+Durante	O
+su	O
+ingreso	O
+la	O
+evolución	O
+fue	O
+favorable	O
+,	O
+posiblemente	O
+en	O
+relación	O
+con	O
+la	O
+retirada	O
+de	O
+varios	O
+de	O
+los	O
+tratamientos	O
+previos	O
+.	O

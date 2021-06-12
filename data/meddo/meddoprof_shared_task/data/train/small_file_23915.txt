@@ -1,0 +1,18 @@
+
+Estas	O
+reacciones	O
+son	O
+descritas	O
+de	O
+acuerdo	O
+con	O
+los	O
+cuadros	O
+clínicos	O
+que	O
+más	O
+llamativos	O
+resultan	O
+al	O
+exterior	O
+.	O

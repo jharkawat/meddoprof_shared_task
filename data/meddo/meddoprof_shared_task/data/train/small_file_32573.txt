@@ -1,0 +1,18 @@
+
+es	O
+una	O
+mujer	O
+soltera	O
+,	O
+natural	O
+y	O
+residente	O
+en	O
+una	O
+pequeña	O
+villa	O
+del	O
+interior	O
+de	O
+Portugal	O
+.	O

@@ -1,0 +1,8 @@
+
+Leve	O
+ectasia	O
+piélica	O
+en	O
+ambos	O
+riñones	O
+.	O

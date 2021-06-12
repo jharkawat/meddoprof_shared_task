@@ -1,0 +1,18 @@
+
+Niega	O
+transgresiones	O
+dietéticas	O
+,	O
+cambios	O
+en	O
+ritmo	O
+intestinal	O
+,	O
+pérdida	O
+de	O
+peso	O
+u	O
+otra	O
+sintomatología	O
+acompañante	O
+.	O

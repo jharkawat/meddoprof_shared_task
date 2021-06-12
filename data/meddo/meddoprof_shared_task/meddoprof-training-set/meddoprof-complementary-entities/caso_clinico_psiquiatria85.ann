@@ -1,0 +1,13 @@
+T1	SINTOMA 149 173	alteraciones de conducta
+T2	SINTOMA 296 311	insomnio global
+T3	SINTOMA 313 326	irritabilidad
+T4	SINTOMA 346 354	disforia
+T5	SINTOMA 356 372	gastos excesivos
+T6	NEG 18 21	sin
+T7	NSCO 22 63	antecedentes psiquiátricos hasta la fecha
+T8	ORG_VIVO 0 5	Mujer
+T9	ORG_VIVO 179 189	familiares
+T10	ORG_VIVO 209 217	paciente
+T11	ORG_VIVO 276 284	paciente
+T12	ORG_VIVO 432 442	familiares
+T13	ORG_VIVO 524 532	paciente

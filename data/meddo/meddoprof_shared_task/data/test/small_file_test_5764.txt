@@ -1,0 +1,18 @@
+
+La	O
+PCR	O
+de	O
+Tuberculosis	O
+no	O
+fue	O
+procesada	O
+por	O
+muestra	O
+insuficiente	O
+y	O
+la	O
+PCR	O
+virus	O
+neurótropos	O
+negativa	O
+.	O

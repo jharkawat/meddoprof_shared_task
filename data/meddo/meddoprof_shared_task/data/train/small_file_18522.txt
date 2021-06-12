@@ -1,0 +1,24 @@
+
+Ante	O
+lasituación	O
+se	O
+hizo	O
+IC	O
+a	O
+Psiquiatría	O
+de	O
+Enlace	O
+.	O
+El	O
+psiquiatra	B-PROFESION
+encontró	O
+que	O
+tenía	O
+una	O
+historia	O
+de	O
+consumo	O
+de	O
+alcohol	O
+semanal	O
+.	O

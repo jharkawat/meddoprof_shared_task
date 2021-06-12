@@ -1,0 +1,7 @@
+
+No	O
+se	O
+objetivaron	O
+focos	O
+trombóticos	O
+.	O

@@ -1,0 +1,22 @@
+
+En	O
+el	O
+momento	O
+del	O
+alta	O
+las	O
+cifras	O
+de	O
+creatinina	O
+se	O
+encontraban	O
+en	O
+torno	O
+a	O
+1	O
+,	O
+6	O
+mg	O
+/	O
+dl	O
+.	O

@@ -1,0 +1,22 @@
+
+Comienza	O
+el	O
+19	O
+de	O
+junio	O
+a	O
+tomar	O
+4	O
+mg	O
+,	O
+la	O
+misma	O
+dosis	O
+que	O
+hasta	O
+el	O
+momento	O
+tomaba	O
+de	O
+buprenorfina	O
+.	O

@@ -1,0 +1,17 @@
+
+Presentó	O
+neuropatía	O
+periférica	O
+grado	O
+3	O
+que	O
+obligó	O
+a	O
+suspender	O
+el	O
+tratamiento	O
+continuando	O
+entonces	O
+en	O
+revisiones	O
+.	O

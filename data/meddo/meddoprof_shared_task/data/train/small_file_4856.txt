@@ -1,0 +1,8 @@
+
+Hemograma	O
+normal	O
+BQ	O
+:	O
+glucemia	O
+112	O
+.	O

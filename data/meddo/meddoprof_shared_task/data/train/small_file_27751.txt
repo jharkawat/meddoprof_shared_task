@@ -1,0 +1,11 @@
+
+Diagnosticado	O
+de	O
+dermatitis	O
+atópica	O
+,	O
+asma	O
+y	O
+rinitis	O
+alérgica	O
+.	O

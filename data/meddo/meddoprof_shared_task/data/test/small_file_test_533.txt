@@ -1,0 +1,15 @@
+
+Actualmente	O
+canta	B-ACTIVIDAD
+y	O
+hace	B-ACTIVIDAD
+musicales	I-ACTIVIDAD
+con	O
+ensayos	O
+y	O
+actuaciones	O
+en	O
+fines	O
+de	O
+semana	O
+.	O

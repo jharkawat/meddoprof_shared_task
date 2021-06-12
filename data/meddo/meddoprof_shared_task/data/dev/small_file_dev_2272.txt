@@ -1,0 +1,7 @@
+
+Utiliza	O
+la	O
+comida	O
+como	O
+premio	O
+.	O

@@ -1,0 +1,20 @@
+
+Cuatro	O
+días	O
+después	O
+,	O
+la	O
+prueba	O
+mediante	O
+RT	O
+-	O
+PCR	O
+dio	O
+positiva	O
+para	O
+SARS	O
+-	O
+CoV	O
+-	O
+19	O
+.	O

@@ -1,0 +1,19 @@
+
+Abandona	O
+el	O
+tratamiento	O
+con	O
+este	O
+psiquiatra	B-PROFESION
+por	O
+presentar	O
+la	O
+idea	O
+delirante	O
+de	O
+que	O
+estaba	O
+enamorado	O
+de	O
+ella	O
+.	O

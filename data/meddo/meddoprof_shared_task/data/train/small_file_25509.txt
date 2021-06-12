@@ -1,0 +1,6 @@
+
+Acepta	O
+el	O
+nuevo	O
+tratamiento	O
+.	O

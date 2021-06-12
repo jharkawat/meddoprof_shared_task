@@ -1,0 +1,23 @@
+
+Distonia	O
+:	O
+pero	O
+en	O
+nuestro	O
+caso	O
+los	O
+movimientos	O
+son	O
+cambiantes	O
+,	O
+rápidos	O
+y	O
+no	O
+hay	O
+posturas	O
+anómalas	O
+mantenidas	O
+en	O
+el	O
+tiempo	O
+.	O

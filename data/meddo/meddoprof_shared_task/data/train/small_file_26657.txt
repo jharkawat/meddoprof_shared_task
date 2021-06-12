@@ -1,0 +1,16 @@
+
+A	O
+nivel	O
+familiar	O
+refieren	O
+buena	O
+relación	O
+entre	O
+las	O
+hermanas	O
+mellizas	O
+y	O
+con	O
+los	O
+padres	O
+.	O

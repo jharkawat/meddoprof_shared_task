@@ -1,0 +1,22 @@
+
+Indica	O
+molestias	O
+de	O
+4	O
+meses	O
+de	O
+evolución	O
+,	O
+de	O
+carácter	O
+progresivo	O
+,	O
+que	O
+no	O
+ceden	O
+a	O
+analgesia	O
+de	O
+primer	O
+escalón	O
+.	O

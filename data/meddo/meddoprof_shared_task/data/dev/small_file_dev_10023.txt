@@ -1,0 +1,26 @@
+
+La	O
+salud	O
+somática	O
+del	O
+paciente	O
+había	O
+sido	O
+buena	O
+con	O
+anterioridad	O
+pero	O
+los	O
+últimos	O
+años	O
+se	O
+había	O
+quejado	O
+de	O
+debilidad	O
+muscular	O
+y	O
+dificultad	O
+para	O
+caminar	O
+.	O

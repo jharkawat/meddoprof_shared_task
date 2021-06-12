@@ -1,0 +1,12 @@
+
+Residencia	O
+habitual	O
+en	O
+Granada	O
+(	O
+donde	O
+viven	O
+sus	O
+padres	O
+)	O
+.	O

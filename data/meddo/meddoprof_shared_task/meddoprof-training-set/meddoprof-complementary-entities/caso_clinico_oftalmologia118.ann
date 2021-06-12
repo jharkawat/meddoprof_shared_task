@@ -1,0 +1,40 @@
+T1	SINTOMA 29 58	disminución de agudeza visual
+T2	SINTOMA 88 96	diplopía
+T3	SINTOMA 185 219	restricción de la motilidad ocular
+T4	SINTOMA 353 374	edema de papila en OI
+T5	SINTOMA 532 613	masa de partes blandas extendiéndose a fosa temporal, fosa infratemporal y órbita
+T6	SINTOMA 1467 1506	telangiectasias en mucosa bucal y nasal
+T7	SINTOMA 1701 1743	telangiectasias en mucosa nasal y faríngea
+T8	PROCEDIMIENTO 270 306	biomicroscopía del segmento anterior
+T9	PROCEDIMIENTO 323 342	examen funduscópico
+T10	PROCEDIMIENTO 379 430	tomografía axial computerizada (TAC) órbito-craneal
+T11	PROCEDIMIENTO 618 638	TAC toraco-abdominal
+T12	PROCEDIMIENTO 804 837	punción aspiración con aguja fina
+T13	PROCEDIMIENTO 839 843	PAAF
+T14	PROCEDIMIENTO 972 994	biopsia de médula ósea
+T15	PROCEDIMIENTO 1087 1105	radioterapia local
+T16	PROCEDIMIENTO 1115 1132	poliquimioterapia
+T17	PROCEDIMIENTO 1176 1195	examen funduscópico
+T18	PROCEDIMIENTO 1236 1273	TAC órbito-craneal y toraco-abdominal
+T19	PROCEDIMIENTO 1425 1439	examen general
+T20	UNC 872 886	compatible con
+T21	USCO 887 919	neoplasia de células plasmáticas
+T22	NEG 1046 1048	no
+T23	NSCO 1049 1057	secretor
+T24	NEG 1196 1198	no
+T25	NSCO 1199 1230	reveló hallazgos significativos
+T26	NEG 1382 1385	sin
+T27	NSCO 1386 1419	masas de partes blandas asociadas
+T28	NEG 1747 1749	no
+T29	NSCO 1750 1783	existiendo en la mucosa digestiva
+T30	ORG_VIVO 0 5	Varón
+T31	ORG_VIVO 1446 1454	paciente
+T32	ENFERMEDAD 149 159	exoftalmos
+T33	ENFERMEDAD 454 514	lesiones osteolíticas en el ala mayor y menor del esfenoides
+T34	ENFERMEDAD 659 755	lesiones osteolíticas afectando al arco posterior de la 4.a costilla y al cuerpo vertebral de D4
+T35	ENFERMEDAD 887 919	neoplasia de células plasmáticas
+T36	ENFERMEDAD 1043 1045	MM
+T37	ENFERMEDAD 1467 1506	telangiectasias en mucosa bucal y nasal
+T38	ENFERMEDAD 1518 1601	lesiones telangiectásicas en la lengua y en cara bucal de labio superior e inferior
+T39	ENFERMEDAD 1701 1743	telangiectasias en mucosa nasal y faríngea
+T40	ENFERMEDAD 1835 1866	enfermedad de Rendu-Osler-Weber

@@ -1,0 +1,16 @@
+
+En	O
+2013	O
+se	O
+decide	O
+intentar	O
+sustituir	O
+por	O
+aripiprazol	O
+para	O
+intentar	O
+mejorar	O
+la	O
+sintomatología	O
+extrapiramidal	O
+.	O

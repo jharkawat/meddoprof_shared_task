@@ -1,0 +1,23 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+un	O
+ángor	O
+inestable	O
+,	O
+fue	O
+trasladada	O
+inmediatamente	O
+al	O
+hospital	O
+de	O
+referencia	O
+para	O
+completar	O
+un	O
+estudio	O
+más	O
+exhaustivo	O
+.	O

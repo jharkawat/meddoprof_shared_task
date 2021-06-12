@@ -1,0 +1,26 @@
+
+Paciente	O
+varón	O
+de	O
+9	O
+años	O
+referido	O
+por	O
+su	O
+pediatra	B-PROFESION
+para	O
+evaluación	O
+por	O
+múltiples	O
+quejas	O
+somáticas	O
+luego	O
+de	O
+haberse	O
+descartado	O
+patología	O
+orgánica	O
+en	O
+forma	O
+exhaustiva	O
+.	O

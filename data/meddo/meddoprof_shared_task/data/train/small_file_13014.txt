@@ -1,0 +1,8 @@
+
+Dismetría	O
+en	O
+prueba	O
+talón	O
+-	O
+rodilla	O
+.	O

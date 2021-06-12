@@ -1,0 +1,19 @@
+T1	SINTOMA 1087 1141	manchas similares salpicadas en el dorso de misma mano
+T2	PROCEDIMIENTO 628 646	Exploración física
+T3	NEG 43 46	sin
+T4	NSCO 47 82	antecedentes patológicos de interés
+T5	NEG 202 214	asintomática
+T6	NEG 766 769	sin
+T7	NSCO 770 818	signos residuales de ninguna dermatosis conocida
+T8	UNC 1266 1274	probable
+T9	USCO 1275 1296	origen de su consulta
+T10	NEG 1325 1327	no
+T11	NSCO 1328 1362	aplicar el filtro solar sospechoso
+T12	ORG_VIVO 10 15	Mujer
+T13	ORG_VIVO 121 148	médico de Atención Primaria
+T14	ORG_VIVO 361 369	paciente
+T15	ORG_VIVO 1254 1262	paciente
+T16	ORG_VIVO 1478 1486	paciente
+T17	ENFERMEDAD 672 698	lesiones en labio superior
+T18	ENFERMEDAD 799 809	dermatosis
+T19	SANITARIO-PROFESION 121 148	médico de Atención Primaria

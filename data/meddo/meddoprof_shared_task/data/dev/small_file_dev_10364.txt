@@ -1,0 +1,25 @@
+
+Sin	O
+embargo	O
+,	O
+al	O
+regresar	O
+a	O
+su	O
+casa	O
+a	O
+la	O
+tarde	O
+se	O
+sentía	O
+tan	O
+cansado	O
+que	O
+tenía	O
+que	O
+irse	O
+directamente	O
+a	O
+la	O
+cama	O
+.	O

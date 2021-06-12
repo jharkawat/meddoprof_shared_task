@@ -1,0 +1,13 @@
+
+TAC	O
+craneal	O
+:	O
+No	O
+alteraciones	O
+de	O
+la	O
+densidad	O
+del	O
+parénquima	O
+cerebral	O
+.	O

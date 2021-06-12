@@ -1,0 +1,12 @@
+
+Ante	O
+estos	O
+hallazgos	O
+,	O
+se	O
+decide	O
+posponer	O
+el	O
+siguiente	O
+ciclo	O
+.	O

@@ -1,0 +1,9 @@
+
+Nunca	O
+antes	O
+le	O
+había	O
+ocurrido	O
+algo	O
+parecido	O
+.	O

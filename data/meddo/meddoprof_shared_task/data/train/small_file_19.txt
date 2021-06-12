@@ -1,0 +1,20 @@
+
+Fue	O
+tratada	O
+con	O
+paracetamol	O
+y	O
+se	O
+le	O
+mantuvieron	O
+los	O
+antihistamínicos	O
+,	O
+con	O
+una	O
+lenta	O
+mejora	O
+de	O
+los	O
+síntomas	O
+.	O

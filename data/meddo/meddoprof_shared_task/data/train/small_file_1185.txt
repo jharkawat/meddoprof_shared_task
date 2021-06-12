@@ -1,0 +1,11 @@
+
+Se	O
+descartó	O
+compromiso	O
+de	O
+órganos	O
+blancos	O
+habituales	O
+para	O
+megavísceras	O
+.	O

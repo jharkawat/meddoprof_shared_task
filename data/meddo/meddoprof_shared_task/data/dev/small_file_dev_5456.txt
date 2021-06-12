@@ -1,0 +1,21 @@
+
+A	O
+los	O
+2	O
+meses	O
+el	O
+paciente	O
+refiere	O
+mejoría	O
+de	O
+la	O
+clínica	O
+miccional	O
+y	O
+de	O
+la	O
+calidad	O
+de	O
+vida	O
+percibida	O
+.	O

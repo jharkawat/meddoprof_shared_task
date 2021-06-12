@@ -1,0 +1,6 @@
+
+En	O
+tratamiento	O
+con	O
+citalopram	O
+.	O

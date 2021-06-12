@@ -1,0 +1,21 @@
+
+Presenta	O
+apatía	O
+ante	O
+el	O
+medio	O
+que	O
+le	O
+rodeaba	O
+dejando	O
+de	O
+asistir	O
+a	O
+actividades	O
+que	O
+normalmente	O
+eran	O
+de	O
+su	O
+agrado	O
+.	O

@@ -1,0 +1,12 @@
+
+Su	O
+madre	O
+relata	O
+que	O
+"	O
+se	O
+iba	O
+con	O
+cualquiera	O
+"	O
+.	O

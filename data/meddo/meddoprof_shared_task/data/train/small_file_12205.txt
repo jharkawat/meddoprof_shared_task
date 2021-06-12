@@ -1,0 +1,10 @@
+
+Ante	O
+esta	O
+situación	O
+se	O
+decide	O
+intervención	O
+quirúrgica	O
+urgente	O
+.	O

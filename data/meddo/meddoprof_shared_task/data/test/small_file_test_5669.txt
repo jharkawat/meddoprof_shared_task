@@ -1,0 +1,26 @@
+
+Se	O
+trata	O
+de	O
+una	O
+proliferación	O
+uniforme	O
+y	O
+difusa	O
+de	O
+células	O
+B	O
+que	O
+expresan	O
+CD20	O
+,	O
+CD10	O
+,	O
+bcl	O
+-	O
+2	O
+y	O
+bcl	O
+-	O
+6	O
+.	O

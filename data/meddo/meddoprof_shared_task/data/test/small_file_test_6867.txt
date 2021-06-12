@@ -1,0 +1,13 @@
+
+El	O
+examen	O
+neurológico	O
+no	O
+reveló	O
+focalidad	O
+ni	O
+otros	O
+signos	O
+de	O
+alarma	O
+.	O

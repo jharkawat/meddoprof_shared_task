@@ -1,0 +1,17 @@
+
+A	O
+la	O
+palpación	O
+se	O
+encuentran	O
+estructuras	O
+cartilaginosas	O
+integras	O
+,	O
+sin	O
+quistes	O
+,	O
+tofos	O
+y	O
+dolor	O
+.	O

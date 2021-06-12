@@ -1,0 +1,13 @@
+
+Esquizofrenia	O
+paranoide	O
+diagnosticada	O
+previamente	O
+,	O
+posible	O
+diagnóstico	O
+diferencial	O
+con	O
+trastorno	O
+esquizoafectivo	O
+.	O

@@ -1,0 +1,26 @@
+
+A	O
+la	O
+auscultación	O
+cardiorespiratoria	O
+se	O
+detecta	O
+soplo	O
+sistólico	O
+multifocal	O
+de	O
+predominio	O
+aórtico	O
+III	O
+/	O
+VI	O
+,	O
+con	O
+buen	O
+murmullo	O
+vesicular	O
+en	O
+ambos	O
+campos	O
+pulmonares	O
+.	O

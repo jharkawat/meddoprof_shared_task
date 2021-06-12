@@ -1,0 +1,16 @@
+
+En	O
+la	O
+plantación	O
+confirman	O
+que	O
+ha	O
+estado	O
+allí	O
+y	O
+que	O
+ha	O
+tenido	O
+una	O
+discusión	O
+.	O

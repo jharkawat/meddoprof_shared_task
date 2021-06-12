@@ -1,0 +1,100 @@
+T1	SINTOMA 40 58	rigidez de piernas
+T2	SINTOMA 199 206	bebedor
+T3	SINTOMA 384 397	ánimo decaído
+T4	SINTOMA 410 452	dolor y dificultad al flexionar la rodilla
+T5	SINTOMA 1017 1031	pérdida motora
+T6	SINTOMA 1036 1060	alteración de esfínteres
+T7	SINTOMA 1137 1143	llanto
+T8	SINTOMA 1156 1175	ideaciones suicidas
+T9	SINTOMA 1178 1184	abulia
+T10	SINTOMA 1342 1349	afebril
+T11	SINTOMA 1551 1575	pérdida de masa muscular
+T12	SINTOMA 1586 1598	espasticidad
+T13	SINTOMA 2744 2767	alteración de la marcha
+T14	SINTOMA 2989 2994	dolor
+T15	SINTOMA 3220 3237	rigidez articular
+T16	PROCEDIMIENTO 81 90	anamnesis
+T17	PROCEDIMIENTO 141 162	contraindicados AINES
+T18	PROCEDIMIENTO 233 247	apendicectomía
+T19	PROCEDIMIENTO 259 288	prótesis de rodilla izquierda
+T20	PROCEDIMIENTO 557 571	rehabilitación
+T21	PROCEDIMIENTO 1396 1407	campimetría
+T22	PROCEDIMIENTO 1853 1862	TC cráneo
+T23	PROCEDIMIENTO 1896 1934	Estudio de conducción neurofisiológica
+T24	PROCEDIMIENTO 2085 2101	Gammagrafía ósea
+T25	PROCEDIMIENTO 2241 2252	RMN columna
+T26	PROCEDIMIENTO 2352 2366	RMN de rodilla
+T27	PROCEDIMIENTO 2962 2976	rehabilitación
+T28	PROCEDIMIENTO 3108 3144	infiltraciones con toxina botulínica
+T29	PROCEDIMIENTO 3146 3171	corticoides y anestésicos
+T30	PROCEDIMIENTO 3311 3328	anestesia general
+T31	PROCEDIMIENTO 3452 3466	RMN de columna
+T32	PROCEDIMIENTO 3757 3765	SPECT-FP
+T33	NEG 184 186	No
+T34	NSCO 187 194	fumador
+T35	NEG 196 198	No
+T36	NSCO 199 206	bebedor
+T37	NEG 963 969	impide
+T38	NSCO 970 990	el descanso nocturno
+T39	NEG 992 994	No
+T40	NSCO 995 1012	pérdida sensitiva
+T41	NEG 1014 1016	no
+T42	NSCO 1017 1031	pérdida motora
+T43	NEG 1033 1035	no
+T44	NSCO 1036 1060	alteración de esfínteres
+T45	NEG 1266 1268	no
+T46	NSCO 1269 1315	había padecido trastornos anímicos previamente
+T47	NEG 1342 1349	afebril
+T48	NEG 1548 1550	No
+T49	NSCO 1551 1575	pérdida de masa muscular
+T50	UNC 1577 1585	No clara
+T51	USCO 1586 1598	espasticidad
+T52	NEG 1863 1866	sin
+T53	NSCO 1867 1894	alteraciones significativas
+T54	NEG 1982 1984	No
+T55	NSCO 1985 2046	se encuentra actividad denervativa en los músculos explorados
+T56	UNC 2163 2178	compatibles con
+T57	USCO 2179 2198	posible condropatía
+T58	NEG 2254 2256	no
+T59	NSCO 2257 2280	se pudo realizar cráneo
+T60	NEG 2472 2475	sin
+T61	NSCO 2476 2494	rotura del menisco
+T62	NEG 3051 3054	sin
+T63	NSCO 3055 3089	llegar a un diagnóstico etiológico
+T64	NEG 3353 3355	no
+T65	NSCO 3356 3383	cede el flexo de la rodilla
+T66	NEG 3503 3506	sin
+T67	NSCO 3507 3521	sintomatología
+T68	NEG 3609 3612	sin
+T69	NSCO 3613 3624	incidencias
+T70	FARMACO 3127 3144	toxina botulínica
+T71	FARMACO 3875 3883	dopamina
+T72	ORG_VIVO 311 325	Paciente varón
+T73	ORG_VIVO 352 379	médico de atención primaria
+T74	ORG_VIVO 891 899	paciente
+T75	ORG_VIVO 1079 1086	familia
+T76	ORG_VIVO 1111 1118	enfermo
+T77	ORG_VIVO 1257 1265	paciente
+T78	ORG_VIVO 2505 2513	familiar
+T79	ORG_VIVO 2531 2539	paciente
+T80	ORG_VIVO 2543 2548	padre
+T81	ORG_VIVO 2556 2561	hijos
+T82	ORG_VIVO 2594 2599	mujer
+T83	ORG_VIVO 2637 2642	perro
+T84	ORG_VIVO 2922 2930	paciente
+T85	ENFERMEDAD 167 182	úlcera gástrica
+T86	ENFERMEDAD 208 227	Hernia discal L4-L5
+T87	ENFERMEDAD 531 542	gonartrosis
+T88	ENFERMEDAD 1284 1303	trastornos anímicos
+T89	ENFERMEDAD 2187 2198	condropatía
+T90	ENFERMEDAD 2283 2302	mielopatía cervical
+T91	ENFERMEDAD 2368 2386	gonartrosis severa
+T92	ENFERMEDAD 2476 2494	rotura del menisco
+T93	ENFERMEDAD 2789 2808	Mielopatía cervical
+T94	ENFERMEDAD 2822 2856	Enfermedad de Parkinson idiopática
+T95	ENFERMEDAD 3483 3502	mielopatía cervical
+T96	ENFERMEDAD 3781 3790	Parkinson
+T97	ENFERMEDAD 3913 3940	degeneración nigroestriatal
+T98	PACIENTE-PROFESION 2601 2611	Empresario
+T99	PACIENTE-SITUACION_LABORAL 2612 2620	jubilado
+T100	SANITARIO-PROFESION 352 379	médico de atención primaria

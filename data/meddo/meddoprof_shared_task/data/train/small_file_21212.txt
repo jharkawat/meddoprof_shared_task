@@ -1,0 +1,16 @@
+
+Se	O
+diagnostica	O
+Trastorno	O
+de	O
+ansiedad	O
+,	O
+posible	O
+Trastorno	O
+hipocondríaco	O
+,	O
+Rasgos	O
+anarcásticos	O
+de	O
+personalidad	O
+.	O

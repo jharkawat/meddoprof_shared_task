@@ -1,0 +1,23 @@
+
+Su	O
+corazón	O
+comenzaba	O
+a	O
+latir	O
+más	O
+fuerte	O
+y	O
+se	O
+mareaba	O
+tanto	O
+que	O
+tenía	O
+la	O
+sensación	O
+de	O
+que	O
+se	O
+iba	O
+a	O
+desmayar	O
+.	O

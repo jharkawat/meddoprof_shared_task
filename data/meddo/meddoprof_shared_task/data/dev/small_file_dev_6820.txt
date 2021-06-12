@@ -1,0 +1,19 @@
+
+Los	O
+tonos	O
+cardiacos	O
+eran	O
+rítmicos	O
+sin	O
+soplos	O
+y	O
+el	O
+murmullo	O
+vesicular	O
+estaba	O
+conservado	O
+sin	O
+apreciar	O
+ruidos	O
+sobreañadidos	O
+.	O

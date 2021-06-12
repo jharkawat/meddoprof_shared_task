@@ -1,0 +1,11 @@
+
+Punción	O
+transbronquial	O
+para	O
+citología	O
+,	O
+microbiología	O
+y	O
+anatomía	O
+patológica	O
+.	O

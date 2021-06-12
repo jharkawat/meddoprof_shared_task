@@ -1,0 +1,15 @@
+
+El	O
+estudio	O
+SPECT	O
+cerebral	O
+muestra	O
+mayor	O
+hipoperfusión	O
+en	O
+zona	O
+parietal	O
+y	O
+frontal	O
+izquierda	O
+.	O

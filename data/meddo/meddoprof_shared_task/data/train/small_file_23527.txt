@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+43	O
+años	O
+valorada	O
+por	O
+Psiquiatría	O
+de	O
+Enlace	O
+por	O
+sobreingesta	O
+de	O
+80	O
+comprimidos	O
+de	O
+duloxetina	O
+30	O
+mg	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+realiza	O
+un	O
+test	O
+rápido	O
+de	O
+detección	O
+de	O
+antígeno	O
+estreptocócico	O
+de	O
+grupo	O
+A	O
+,	O
+que	O
+es	O
+positivo	O
+.	O

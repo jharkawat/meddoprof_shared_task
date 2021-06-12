@@ -1,0 +1,21 @@
+
+Tras	O
+tratamiento	O
+durante	O
+un	O
+mes	O
+con	O
+hidroxicloroquina	O
+,	O
+es	O
+remitida	O
+a	O
+la	O
+Unidad	O
+de	O
+Enfermedades	O
+Autoinmunes	O
+de	O
+nuestro	O
+centro	O
+.	O

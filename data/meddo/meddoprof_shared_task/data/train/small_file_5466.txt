@@ -1,0 +1,19 @@
+
+Ecografía	O
+abdominal	O
+:	O
+Hígado	O
+,	O
+Bazo	O
+,	O
+Vesícula	O
+,	O
+Vía	O
+Biliar	O
+,	O
+Páncreas	O
+y	O
+Riñones	O
+sin	O
+alteraciones	O
+.	O

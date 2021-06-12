@@ -1,0 +1,14 @@
+
+Comida	O
+:	O
+Come	O
+entre	O
+3	O
+y	O
+4	O
+:	O
+00	O
+p	O
+.	O
+m	O
+.	O

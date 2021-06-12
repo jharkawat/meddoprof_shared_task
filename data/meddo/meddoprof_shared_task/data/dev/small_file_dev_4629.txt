@@ -1,0 +1,11 @@
+
+También	O
+refiere	O
+hiporexia	O
+,	O
+náusea	O
+,	O
+astenia	O
+y	O
+adinamia	O
+.	O

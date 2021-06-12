@@ -1,0 +1,22 @@
+
+Consultado	O
+con	O
+internista	B-PROFESION
+de	O
+guardia	O
+,	O
+el	O
+paciente	O
+se	O
+ingresa	O
+para	O
+completar	O
+estudio	O
+,	O
+descartando	O
+la	O
+sospecha	O
+inicial	O
+de	O
+parotiditis	O
+.	O

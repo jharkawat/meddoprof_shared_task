@@ -1,0 +1,21 @@
+
+Se	O
+descartó	O
+malaria	O
+mediante	O
+observación	O
+microscópica	O
+de	O
+frotis	O
+de	O
+sangre	O
+,	O
+así	O
+como	O
+gripe	O
+mediante	O
+PCR	O
+de	O
+frotis	O
+nasofaríngeo	O
+.	O

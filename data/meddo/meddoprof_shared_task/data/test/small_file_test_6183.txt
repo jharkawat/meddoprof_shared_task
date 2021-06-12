@@ -1,0 +1,21 @@
+
+Valorado	O
+por	O
+Cirugía	O
+,	O
+entra	O
+en	O
+lista	O
+de	O
+espera	O
+quirúrgica	O
+(	O
+resección	O
+y	O
+primer	O
+tiempo	O
+de	O
+cirugía	O
+hepática	O
+)	O
+.	O

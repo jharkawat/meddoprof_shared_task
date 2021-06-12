@@ -1,0 +1,24 @@
+
+Varón	O
+de	O
+53	O
+años	O
+de	O
+edad	O
+con	O
+antecedentes	O
+personales	O
+de	O
+hematoma	O
+espontáneo	O
+en	O
+el	O
+polo	O
+superior	O
+del	O
+riñón	O
+izquierdo	O
+hace	O
+un	O
+año	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+signos	O
+de	O
+oftalmopatía	O
+ni	O
+mixedema	O
+.	O

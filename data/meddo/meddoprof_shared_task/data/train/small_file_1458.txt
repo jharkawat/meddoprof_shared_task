@@ -1,0 +1,18 @@
+
+Destacar	O
+la	O
+existencia	O
+de	O
+un	O
+gato	O
+de	O
+compañía	O
+,	O
+del	O
+cual	O
+la	O
+trabajadora	B-SITUACION_LABORAL
+no	O
+podía	O
+prescindir	O
+.	O

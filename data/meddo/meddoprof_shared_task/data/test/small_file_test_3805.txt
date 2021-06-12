@@ -1,0 +1,13 @@
+
+Dilatación	O
+de	O
+grupos	O
+caliciales	O
+inferiores	O
+de	O
+riñón	O
+izquierdo	O
+sin	O
+dilatación	O
+ureteral	O
+.	O

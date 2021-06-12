@@ -1,0 +1,10 @@
+
+Vive	O
+con	O
+la	O
+madre	O
+,	O
+enfermera	B-PROFESION
+de	O
+profesión	O
+.	O

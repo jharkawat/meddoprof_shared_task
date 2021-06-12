@@ -1,0 +1,10 @@
+
+Se	O
+trata	O
+de	O
+una	O
+joven	O
+de	O
+26	O
+años	O
+.	O

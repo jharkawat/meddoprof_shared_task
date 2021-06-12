@@ -1,0 +1,7 @@
+
+Síndrome	O
+de	O
+atrofia	O
+cortical	O
+posterior	O
+.	O

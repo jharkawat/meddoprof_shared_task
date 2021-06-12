@@ -1,0 +1,60 @@
+T1	SINTOMA 3591 3621	Mmaestre.hpth@salud.madrid.org
+T2	PROCEDIMIENTO 521 533	antibiograma
+T3	PROCEDIMIENTO 1856 1863	biopsia
+T4	PROCEDIMIENTO 2136 2158	estudio microbiológico
+T5	PROCEDIMIENTO 2519 2541	Estudio Microbiológico
+T6	PROCEDIMIENTO 2694 2721	tratamiento antituberculoso
+T7	UNC 1396 1410	compatible con
+T8	USCO 1411 1488	tuberculosis o con problemas en el lugar de la inoculación consultará al SPRL
+T9	NEG 1656 1659	sin
+T10	NSCO 1660 1700	adenopatías axilares, ni clínica general
+T11	NEG 1754 1756	no
+T12	NSCO 1757 1763	mejora
+T13	UNC 1988 2000	sugestivo de
+T14	USCO 2001 2023	dermatitis tuberculosa
+T15	UNC 2093 2105	sugestiva de
+T16	USCO 2106 2128	dermatitis tuberculosa
+T17	NEG 3009 3011	no
+T18	NSCO 3012 3036	se detectan alteraciones
+T19	FARMACO 2726 2737	rifampicina
+T20	FARMACO 2760 2770	isoniazida
+T21	FARMACO 2786 2798	pirazinamida
+T22	FARMACO 2856 2867	rifampicina
+T23	FARMACO 2878 2888	isoniazida
+T24	ORG_VIVO 357 365	paciente
+T25	ORG_VIVO 401 437	médico especialista en microbiología
+T26	ORG_VIVO 478 485	inocula
+T27	ORG_VIVO 555 559	MGIT
+T28	ORG_VIVO 572 576	cepa
+T29	ORG_VIVO 585 611	Mycobacterium tuberculosis
+T30	ORG_VIVO 663 671	paciente
+T31	ORG_VIVO 1120 1131	trabajadora
+T32	ORG_VIVO 1256 1259	VHC
+T33	ORG_VIVO 1261 1264	VIH
+T34	ORG_VIVO 1279 1292	postvacunales
+T35	ORG_VIVO 1349 1360	trabajadora
+T36	ORG_VIVO 1728 1739	trabajadora
+T37	ORG_VIVO 2179 2212	bacilos ácido alcohol resistentes
+T38	ORG_VIVO 2240 2244	MGIT
+T39	ORG_VIVO 2279 2305	Mycobacterium tuberculosis
+T40	ORG_VIVO 2375 2385	trabajador
+T41	ORG_VIVO 2410 2423	Mycobacterial
+T42	ORG_VIVO 2491 2496	cepas
+T43	ORG_VIVO 2612 2623	trabajadora
+T44	ORG_VIVO 2706 2721	antituberculoso
+T45	ORG_VIVO 2964 2972	paciente
+T46	ENFERMEDAD 1310 1321	hepatitis B
+T47	ENFERMEDAD 1411 1423	tuberculosis
+T48	ENFERMEDAD 1660 1680	adenopatías axilares
+T49	ENFERMEDAD 1934 1958	dermatitis granulomatosa
+T50	ENFERMEDAD 2001 2023	dermatitis tuberculosa
+T51	ENFERMEDAD 2067 2091	dermatitis granulomatosa
+T52	ENFERMEDAD 2106 2128	dermatitis tuberculosa
+T53	ENFERMEDAD 2264 2305	crecimiento de Mycobacterium tuberculosis
+T54	ENFERMEDAD 2572 2592	Tuberculosis Cutánea
+T55	SANITARIO-PROFESION 285 291	Médico
+T56	SANITARIO-PROFESION 401 437	médico especialista en microbiología
+T57	PACIENTE-SITUACION_LABORAL 1120 1131	trabajadora
+T58	PACIENTE-SITUACION_LABORAL 1349 1360	trabajadora
+T59	PACIENTE-SITUACION_LABORAL 1728 1739	trabajadora
+T60	PACIENTE-SITUACION_LABORAL 2375 2385	trabajador

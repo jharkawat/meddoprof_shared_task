@@ -1,0 +1,11 @@
+
+Oriunda	O
+de	O
+la	O
+provincia	O
+de	O
+Neuquén	O
+,	O
+República	O
+Argentina	O
+.	O

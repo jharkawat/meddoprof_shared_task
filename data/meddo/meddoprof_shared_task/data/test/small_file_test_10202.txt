@@ -1,0 +1,15 @@
+
+Posteriormente	O
+se	O
+valoró	O
+al	O
+paciente	O
+en	O
+consultas	O
+externas	O
+,	O
+con	O
+evidente	O
+mejoría	O
+clínica	O
+.	O

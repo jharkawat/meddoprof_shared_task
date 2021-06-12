@@ -1,0 +1,17 @@
+
+Encontraron	O
+al	O
+paciente	O
+confuso	O
+,	O
+sin	O
+saber	O
+dónde	O
+se	O
+encontraba	O
+ni	O
+lo	O
+que	O
+había	O
+ocurrido	O
+.	O

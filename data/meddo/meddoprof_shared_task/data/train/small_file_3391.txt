@@ -1,0 +1,16 @@
+
+Vive	O
+en	O
+su	O
+domicilio	O
+con	O
+su	O
+esposo	O
+,	O
+buen	O
+nivel	O
+socioeconómico	O
+y	O
+apoyo	O
+familiar	O
+.	O

@@ -1,0 +1,19 @@
+
+Una	O
+vez	O
+definidos	O
+se	O
+le	O
+plantearon	O
+al	O
+paciente	O
+,	O
+y	O
+este	O
+los	O
+aceptó	O
+en	O
+los	O
+siguientes	O
+términos	O
+:	O

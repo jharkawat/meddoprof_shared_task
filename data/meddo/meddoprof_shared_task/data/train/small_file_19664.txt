@@ -1,0 +1,5 @@
+
+Paciente	O
+con	O
+trastorno	O
+depresivo	O

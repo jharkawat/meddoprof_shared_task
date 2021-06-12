@@ -1,0 +1,10 @@
+
+Como	O
+secuela	O
+permanente	O
+presenta	O
+amaurosis	O
+en	O
+ojo	O
+izquierdo	O
+.	O

@@ -1,0 +1,15 @@
+
+Se	O
+suman	O
+síntomas	O
+como	O
+enlentecimiento	O
+psicomotriz	O
+,	O
+sequedad	O
+de	O
+boca	O
+y	O
+retención	O
+urinaria	O
+.	O

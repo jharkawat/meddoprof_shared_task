@@ -1,0 +1,22 @@
+
+(	O
+Este	O
+síntoma	O
+lo	O
+refería	O
+cuando	O
+venía	O
+a	O
+consulta	O
+por	O
+algún	O
+otro	O
+motivo	O
+,	O
+no	O
+venía	O
+mucho	O
+a	O
+consulta	O
+)	O
+.	O

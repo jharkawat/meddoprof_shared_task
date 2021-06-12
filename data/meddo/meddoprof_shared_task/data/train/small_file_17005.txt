@@ -1,0 +1,5 @@
+
+Hematomas	O
+subdurales	O
+bilaterales	O
+.	O

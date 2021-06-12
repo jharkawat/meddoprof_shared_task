@@ -1,0 +1,25 @@
+
+·	O
+RMN	O
+columna	O
+cervical	O
+:	O
+discretas	O
+protusiones	O
+discales	O
+posteriores	O
+a	O
+nivel	O
+de	O
+C5	O
+-	O
+C6	O
+y	O
+C6	O
+-	O
+C7	O
+.	O
+Cordón	O
+medular	O
+normal	O
+.	O

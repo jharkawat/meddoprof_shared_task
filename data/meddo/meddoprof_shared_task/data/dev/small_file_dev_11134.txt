@@ -1,0 +1,7 @@
+
+Úlcera	O
+péptica	O
+aguda	O
+o	O
+complicada	O
+.	O

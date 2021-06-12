@@ -1,0 +1,12 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+física	O
+no	O
+muestra	O
+otras	O
+alteraciones	O
+.	O

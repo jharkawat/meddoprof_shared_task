@@ -1,0 +1,13 @@
+
+No	O
+auto	O
+-	O
+o	O
+heteroagresividad	O
+en	O
+el	O
+momento	O
+de	O
+la	O
+entrevista	O
+.	O

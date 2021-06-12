@@ -1,0 +1,9 @@
+
+Anatomía	O
+patológica	O
+:	O
+colitis	O
+isquémica	O
+focal	O
+necrotizante	O
+.	O

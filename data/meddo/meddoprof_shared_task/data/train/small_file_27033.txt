@@ -1,0 +1,8 @@
+
+Discurso	O
+desorganizado	O
+,	O
+reiterativo	O
+y	O
+perseverante	O
+.	O

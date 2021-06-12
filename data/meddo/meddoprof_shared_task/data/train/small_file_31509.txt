@@ -1,0 +1,8 @@
+
+No	O
+otras	O
+enfermedades	O
+somáticas	O
+de	O
+interés	O
+.	O

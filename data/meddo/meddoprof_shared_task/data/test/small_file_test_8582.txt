@@ -1,0 +1,6 @@
+
+Adenopatía	O
+supraclavicular	O
+izquierda	O
+palpable	O
+.	O

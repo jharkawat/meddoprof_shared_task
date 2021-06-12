@@ -1,0 +1,9 @@
+
+Compatible	O
+con	O
+malignidad	O
+con	O
+alto	O
+índice	O
+proliferativo	O
+.	O

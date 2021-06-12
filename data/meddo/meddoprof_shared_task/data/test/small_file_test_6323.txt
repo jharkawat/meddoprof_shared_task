@@ -1,0 +1,8 @@
+
+No	O
+se	O
+acompaña	O
+de	O
+clínica	O
+vegetativa	O
+.	O

@@ -1,0 +1,25 @@
+
+Dado	O
+que	O
+la	O
+organización	O
+de	O
+su	O
+acto	O
+indica	O
+ausencia	O
+de	O
+síntomas	O
+confusionales	O
+,	O
+el	O
+estado	O
+deliroide	O
+habría	O
+durado	O
+entre	O
+48	O
+y	O
+72	O
+horas	O
+.	O

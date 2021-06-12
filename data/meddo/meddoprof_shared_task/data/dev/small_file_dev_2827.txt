@@ -1,0 +1,22 @@
+
+Mujer	O
+de	O
+42	O
+años	O
+que	O
+es	O
+llevada	O
+a	O
+urgencias	O
+de	O
+su	O
+hospital	O
+de	O
+referencia	O
+por	O
+abandono	O
+del	O
+tratamiento	O
+farmacológico	O
+prescrito	O
+.	O

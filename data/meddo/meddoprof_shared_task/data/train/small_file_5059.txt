@@ -1,0 +1,22 @@
+
+Tras	O
+la	O
+primera	O
+consulta	O
+en	O
+dermatología	O
+se	O
+programa	O
+la	O
+extirpación	O
+de	O
+la	O
+lesión	O
+en	O
+quirófano	O
+por	O
+alta	O
+sospecha	O
+de	O
+melanoma	O
+.	O

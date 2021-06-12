@@ -1,0 +1,26 @@
+
+Además	O
+iría	O
+en	O
+contra	O
+el	O
+hecho	O
+de	O
+que	O
+las	O
+lesiones	O
+cutáneas	O
+se	O
+inician	O
+como	O
+vesículas	O
+rojas	O
+o	O
+moradas	O
+y	O
+que	O
+progresivamente	O
+se	O
+van	O
+extendiendo	O
+.	O

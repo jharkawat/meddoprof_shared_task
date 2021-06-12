@@ -1,0 +1,15 @@
+
+Está	O
+preocupada	O
+por	O
+su	O
+madre	O
+y	O
+cree	O
+ser	O
+la	O
+culpable	O
+de	O
+la	O
+pelea	O
+.	O

@@ -1,0 +1,21 @@
+
+Se	O
+decide	O
+entonces	O
+iniciar	O
+cuidados	O
+sintomáticos	O
+en	O
+consulta	O
+externa	O
+de	O
+Cuidados	O
+Paliativos	O
+y	O
+por	O
+el	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

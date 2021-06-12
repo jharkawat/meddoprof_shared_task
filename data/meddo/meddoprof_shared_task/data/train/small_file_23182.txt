@@ -1,0 +1,15 @@
+
+Se	O
+ha	O
+iniciado	O
+tratamiento	O
+con	O
+acetato	O
+de	O
+ciproterona	O
+a	O
+dosis	O
+de	O
+200	O
+mg	O
+.	O

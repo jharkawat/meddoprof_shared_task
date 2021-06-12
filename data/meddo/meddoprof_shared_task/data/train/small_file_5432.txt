@@ -1,0 +1,7 @@
+
+Mastitis	O
+aguda	O
+en	O
+mama	O
+izquierda	O
+.	O

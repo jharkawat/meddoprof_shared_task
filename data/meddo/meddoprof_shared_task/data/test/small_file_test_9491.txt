@@ -1,0 +1,11 @@
+
+Lesión	O
+ocupante	O
+de	O
+espacio	O
+(	O
+LOE	O
+)	O
+frontal	O
+derecha	O
+.	O

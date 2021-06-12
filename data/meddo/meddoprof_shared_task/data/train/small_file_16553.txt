@@ -1,0 +1,24 @@
+
+ANA	O
+homogéneo	O
+al	O
+1	O
+/	O
+160	O
+;	O
+anticuerpos	O
+anti	O
+-	O
+DNAn	O
+positivo	O
+al	O
+1	O
+/	O
+10	O
+,	O
+ENA	O
+negativo	O
+,	O
+ANCA	O
+negativo	O
+.	O

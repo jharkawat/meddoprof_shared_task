@@ -1,0 +1,19 @@
+
+Se	O
+decide	O
+realizar	O
+prueba	O
+de	O
+exposición	O
+oral	O
+controlada	O
+con	O
+Prednisolona	O
+,	O
+presentando	O
+angioedema	O
+a	O
+los	O
+30	O
+minutos	O
+.	O

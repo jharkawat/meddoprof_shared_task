@@ -1,0 +1,17 @@
+
+Empezó	O
+Ingeniería	O
+Informática	O
+pero	O
+el	O
+inicio	O
+de	O
+la	O
+enfermedad	O
+hizo	O
+que	O
+no	O
+terminara	O
+la	O
+carrera	O
+.	O

@@ -1,0 +1,14 @@
+
+En	O
+casos	O
+más	O
+graves	O
+cefalosporinas	O
+de	O
+tercera	O
+generación	O
+y	O
+quinolonas	O
+son	O
+útiles	O
+.	O

@@ -1,0 +1,24 @@
+
+Refiere	O
+cuadro	O
+de	O
+una	O
+semana	O
+de	O
+evolución	O
+de	O
+cefalea	O
+holocraneal	O
+intensa	O
+con	O
+fotofobia	O
+,	O
+y	O
+con	O
+respuesta	O
+pobre	O
+a	O
+AINEs	O
+y	O
+Paracetamol	O
+.	O

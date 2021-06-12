@@ -1,0 +1,13 @@
+
+Los	O
+antecedentes	O
+familiares	O
+y	O
+personales	O
+de	O
+manía	O
+o	O
+depresión	O
+deben	O
+explorarse	O
+.	O

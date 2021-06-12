@@ -1,0 +1,23 @@
+
+Había	B-SITUACION_LABORAL
+dejado	I-SITUACION_LABORAL
+los	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+hacía	O
+un	O
+año	O
+y	O
+había	B-PROFESION
+comenzado	I-PROFESION
+a	I-PROFESION
+trabajar	I-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+bar	I-PROFESION
+de	O
+un	O
+conocido	O
+,	O
+sin	O
+problemas	O
+.	O

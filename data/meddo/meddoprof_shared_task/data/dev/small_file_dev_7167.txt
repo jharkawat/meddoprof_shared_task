@@ -1,0 +1,12 @@
+
+En	O
+la	O
+auscultación	O
+cardiorrespiratoria	O
+,	O
+presentaba	O
+hipofonesis	O
+en	O
+ambos	O
+ápex	O
+.	O

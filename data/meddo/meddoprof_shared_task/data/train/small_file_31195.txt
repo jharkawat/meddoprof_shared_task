@@ -1,0 +1,12 @@
+
+Antecedentes	O
+personales	O
+:	O
+primogénito	O
+en	O
+una	O
+fratria	O
+de	O
+2	O
+hermanos	O
+.	O

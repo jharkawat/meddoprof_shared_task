@@ -1,0 +1,23 @@
+
+Consultó	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+por	O
+cuadro	O
+de	O
+odinofagia	O
+de	O
+10	O
+días	O
+de	O
+evolución	O
+y	O
+autopalpación	O
+de	O
+ganglios	O
+cervicales	O
+.	O

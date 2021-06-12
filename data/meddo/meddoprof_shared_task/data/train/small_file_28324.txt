@@ -1,0 +1,5 @@
+
+Aspecto	O
+muy	O
+cuidado	O
+.	O

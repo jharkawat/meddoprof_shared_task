@@ -1,0 +1,74 @@
+T1	SINTOMA 73 91	disnea de esfuerzo
+T2	SINTOMA 339 345	disnea
+T3	SINTOMA 353 368	esfuerzo físico
+T4	SINTOMA 371 397	tos escasamente productiva
+T5	SINTOMA 408 425	crepitantes secos
+T6	SINTOMA 626 660	disestesias en miembros inferiores
+T7	SINTOMA 670 678	anorexia
+T8	SINTOMA 680 704	pérdida de masa muscular
+T9	SINTOMA 707 741	debilidad proximal en extremidades
+T10	SINTOMA 793 801	caquexia
+T11	SINTOMA 804 811	eritema
+T12	SINTOMA 814 838	hipertermia testiculares
+T13	SINTOMA 1484 1490	fiebre
+T14	SINTOMA 1492 1520	patrón alveolar radiográfico
+T15	SINTOMA 1523 1554	caída del hematocrito posterior
+T16	PROCEDIMIENTO 306 314	biopsias
+T17	PROCEDIMIENTO 496 508	TAC de tórax
+T18	PROCEDIMIENTO 529 543	ecocardiograma
+T19	PROCEDIMIENTO 1060 1063	EMG
+T20	PROCEDIMIENTO 1223 1248	gastroscopia con biopsias
+T21	PROCEDIMIENTO 1250 1273	biopsia de nervio sural
+T22	PROCEDIMIENTO 1276 1288	fondo de ojo
+T23	PROCEDIMIENTO 1409 1420	anticoagula
+T24	PROCEDIMIENTO 1568 1580	TAC de tórax
+T25	PROCEDIMIENTO 1663 1677	antibioterapia
+T26	PROCEDIMIENTO 1710 1721	corticoides
+T27	PROCEDIMIENTO 1724 1738	oxigenoterapia
+T28	PROCEDIMIENTO 1759 1771	broncoscopia
+T29	PROCEDIMIENTO 2060 2070	intubación
+T30	PROCEDIMIENTO 2389 2405	inmunosupresores
+T31	NEG 315 318	sin
+T32	NSCO 319 329	resultados
+T33	UNC 1064 1078	compatible con
+T34	USCO 1079 1103	polineuropatía sensitivo
+T35	NEG 1182 1185	sin
+T36	NSCO 1186 1212	miopatía 4- ProBNP elevado
+T37	NEG 1585 1596	no descarta
+T38	NSCO 1597 1616	hemorragia alveolar
+T39	NEG 1780 1782	no
+T40	NSCO 1783 1797	es diagnóstica
+T41	FARMACO 1698 1708	furosemida
+T42	FARMACO 1877 1886	linezolid
+T43	FARMACO 1888 1897	aztreonam
+T44	FARMACO 1900 1912	cotrimoxazol
+T45	FARMACO 1942 1959	metilprednisolona
+T46	FARMACO 1962 1976	ciclofosfamida
+T47	ORG_VIVO 52 57	varón
+T48	ORG_VIVO 151 161	personales
+T49	ORG_VIVO 1313 1321	paciente
+T50	ORG_VIVO 2013 2021	paciente
+T51	ORG_VIVO 2109 2116	médicos
+T52	ORG_VIVO 2133 2141	paciente
+T53	ENFERMEDAD 73 91	disnea de esfuerzo
+T54	ENFERMEDAD 265 303	lesiones pápulo-excoriativas en tronco
+T55	ENFERMEDAD 793 801	caquexia
+T56	ENFERMEDAD 955 985	autoinmune con p-Anca positivo
+T57	ENFERMEDAD 1079 1135	polineuropatía sensitivo-motora distal simétrica crónica
+T58	ENFERMEDAD 1186 1212	miopatía 4- ProBNP elevado
+T59	ENFERMEDAD 1387 1401	FA paroxística
+T60	ENFERMEDAD 1453 1479	insuficiencia respiratoria
+T61	ENFERMEDAD 1597 1616	hemorragia alveolar
+T62	ENFERMEDAD 1852 1863	infecciones
+T63	ENFERMEDAD 1918 1928	vasculitis
+T64	ENFERMEDAD 1980 2008	fibrosis pulmonar idiopática
+T65	ENFERMEDAD 2091 2097	muerte
+T66	ENFERMEDAD 2184 2194	vasculitis
+T67	ENFERMEDAD 2208 2222	polineuropatía
+T68	ENFERMEDAD 2227 2235	orquitis
+T69	ENFERMEDAD 2240 2252	malabsorción
+T70	ENFERMEDAD 2273 2290	fibrosis pulmonar
+T71	ENFERMEDAD 2295 2316	hemorragias sucesivas
+T72	ENFERMEDAD 2335 2363	fibrosis pulmonar idiopática
+T73	SANITARIO-PROFESION 2109 2116	médicos
+T74	PACIENTE-PROFESION 93 102	Exmilitar

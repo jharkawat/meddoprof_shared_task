@@ -1,0 +1,23 @@
+
+En	O
+la	O
+radiografía	O
+simple	O
+de	O
+la	O
+región	O
+lumbosacra	O
+se	O
+objetivaba	O
+una	O
+rectificación	O
+raquídea	O
+a	O
+nivel	O
+lumbar	O
+sin	O
+otros	O
+signos	O
+radiológicos	O
+relevantes	O
+.	O

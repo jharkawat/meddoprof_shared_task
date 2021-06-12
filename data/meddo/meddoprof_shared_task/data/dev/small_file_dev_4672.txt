@@ -1,0 +1,20 @@
+
+Vive	O
+en	O
+zona	O
+rural	O
+,	O
+ganadero	B-PROFESION
+,	O
+refiere	O
+haber	O
+estado	O
+intentando	O
+exterminar	O
+plaga	O
+de	O
+ratones	O
+en	O
+su	O
+finca	O
+.	O

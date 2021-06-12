@@ -1,0 +1,24 @@
+
+Entre	O
+sus	O
+antecedentes	O
+destaca	O
+episodio	O
+de	O
+parada	O
+cardiorrespiratoria	O
+1	O
+año	O
+antes	O
+por	O
+obstrucción	O
+de	O
+tronco	O
+coronario	O
+que	O
+requirió	O
+intervención	O
+quirúrgica	O
+cardiovascular	O
+urgente	O
+.	O

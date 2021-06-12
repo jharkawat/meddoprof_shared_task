@@ -1,0 +1,17 @@
+
+Juan	O
+es	O
+un	O
+paciente	O
+de	O
+20	O
+años	O
+,	O
+soltero	O
+,	O
+que	O
+convive	O
+con	O
+su	O
+madre	O
+.	O

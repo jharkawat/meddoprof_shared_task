@@ -1,0 +1,25 @@
+
+Se	O
+inició	O
+tratamiento	O
+sintomático	O
+con	O
+carbamacepina	O
+a	O
+dosis	O
+crecientes	O
+(	O
+hasta	O
+900	O
+mg	O
+/	O
+día	O
+)	O
+,	O
+con	O
+desaparición	O
+de	O
+la	O
+clínica	O
+dolorosa	O
+.	O

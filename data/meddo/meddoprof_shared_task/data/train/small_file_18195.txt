@@ -1,0 +1,16 @@
+
+En	O
+la	O
+cavidad	O
+torácica	O
+y	O
+abdominopelviana	O
+no	O
+se	O
+observaron	O
+alteraciones	O
+de	O
+interés	O
+médico	O
+legal	O
+.	O

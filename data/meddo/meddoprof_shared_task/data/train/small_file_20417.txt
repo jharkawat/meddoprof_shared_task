@@ -1,0 +1,23 @@
+
+Diaz	O
+le	O
+costó	O
+hacer	O
+una	O
+lista	O
+de	O
+verduras	O
+alternando	O
+con	O
+prendas	O
+de	O
+vestir	O
+:	O
+obtuvo	O
+12	O
+respuestas	O
+correctas	O
+y	O
+cuatro	O
+fallos	O
+.	O

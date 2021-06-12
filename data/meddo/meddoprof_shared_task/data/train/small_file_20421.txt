@@ -1,0 +1,11 @@
+
+La	O
+exploración	O
+neurológica	O
+no	O
+aportó	O
+nada	O
+digno	O
+de	O
+reseñar	O
+.	O

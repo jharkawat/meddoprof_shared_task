@@ -1,0 +1,20 @@
+
+Abdomen	O
+blando	O
+,	O
+depresible	O
+,	O
+no	O
+doloroso	O
+a	O
+la	O
+palpación	O
+,	O
+no	O
+masas	O
+ni	O
+megalias	O
+,	O
+peristaltismo	O
+presente	O
+.	O

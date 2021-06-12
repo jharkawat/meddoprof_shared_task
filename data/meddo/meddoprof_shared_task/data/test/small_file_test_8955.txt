@@ -1,0 +1,10 @@
+
+Niega	O
+síntomas	O
+en	O
+miembros	O
+superiores	O
+(	O
+MMSS	O
+)	O
+.	O

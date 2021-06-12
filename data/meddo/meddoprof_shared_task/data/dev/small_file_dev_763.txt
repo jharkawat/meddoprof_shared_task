@@ -1,0 +1,24 @@
+
+En	O
+tratamiento	O
+con	O
+paliperidona	O
+im	O
+150	O
+mg	O
+/	O
+mensual	O
+,	O
+valproato	O
+sódico	O
+1500	O
+mg	O
+/	O
+24h	O
+,	O
+lorazepam	O
+5	O
+mg	O
+/	O
+8h	O
+.	O

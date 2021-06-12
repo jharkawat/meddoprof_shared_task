@@ -1,0 +1,14 @@
+
+Prima	O
+la	O
+urgencia	O
+en	O
+la	O
+intervención	O
+por	O
+el	O
+avanzado	O
+estado	O
+de	O
+gestación	O
+.	O

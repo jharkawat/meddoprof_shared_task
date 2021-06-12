@@ -1,0 +1,20 @@
+
+Los	O
+padres	O
+rechazaron	O
+la	O
+continuación	O
+del	O
+estudio	O
+(	O
+pruebas	O
+cutáneas	O
+en	O
+prick	O
+e	O
+intradermorreacción	O
+con	O
+lectura	O
+tardía	O
+)	O
+.	O

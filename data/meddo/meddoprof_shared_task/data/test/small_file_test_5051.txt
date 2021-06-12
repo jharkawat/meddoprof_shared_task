@@ -1,0 +1,14 @@
+
+Nódulo	O
+subpleural	O
+en	O
+lóbulo	O
+inferior	O
+izquierdo	O
+de	O
+14	O
+mm	O
+de	O
+características	O
+inespecíficas	O
+.	O

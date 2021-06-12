@@ -1,0 +1,22 @@
+T1	SINTOMA 21 40	tumoración cervical
+T2	SINTOMA 181 189	disfonía
+T3	PROCEDIMIENTO 92 113	maniobras de Valsalva
+T4	PROCEDIMIENTO 242 253	Fibroscopia
+T5	PROCEDIMIENTO 463 473	TAC cuello
+T6	PROCEDIMIENTO 609 630	laringoscopia directa
+T7	PROCEDIMIENTO 727 791	cervicotomía se reseca quiste que atraviesa membrana tirohioidea
+T8	NEG 115 117	No
+T9	NSCO 118 167	trabaja con vidrio ni toca instrumentos de viento
+T10	NEG 169 171	No
+T11	NSCO 172 189	presenta disfonía
+T12	UNC 528 542	compatible con
+T13	USCO 543 560	laringocele mixto
+T14	NEG 682 685	sin
+T15	NSCO 686 716	llegar a visualizarse el fondo
+T16	ORG_VIVO 0 5	Varón
+T17	ORG_VIVO 565 573	paciente
+T18	ORG_VIVO 845 853	paciente
+T19	ENFERMEDAD 181 189	disfonía
+T20	ENFERMEDAD 475 517	lesión quística dependiente de hemilaringe
+T21	ENFERMEDAD 543 560	laringocele mixto
+T22	ENFERMEDAD 649 671	orificio en ventrículo

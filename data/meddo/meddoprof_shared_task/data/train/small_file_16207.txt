@@ -1,0 +1,16 @@
+
+Fue	O
+valorada	O
+por	O
+Oftalmología	O
+,	O
+sin	O
+que	O
+identificaran	O
+anomalías	O
+en	O
+el	O
+fondo	O
+de	O
+ojo	O
+.	O

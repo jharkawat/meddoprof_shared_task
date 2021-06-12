@@ -1,0 +1,25 @@
+
+La	O
+AVI	O
+confirmó	O
+la	O
+presencia	O
+de	O
+múltiples	O
+pólipos	O
+localizados	O
+en	O
+gran	O
+parte	O
+del	O
+polo	O
+posterior	O
+,	O
+evidenciables	O
+tanto	O
+en	O
+tiempos	O
+iniciales	O
+como	O
+tardíos	O
+.	O

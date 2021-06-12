@@ -1,0 +1,14 @@
+*.json
+*.jsonl
+*.pkl
+*.pt
+*.pth
+*.tsv
+*.zip
+*.tar.*
+
+#experiment files
+./meddoprof_sharedtask/experiments/*
+
+
+

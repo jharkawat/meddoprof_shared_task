@@ -1,0 +1,25 @@
+
+Se	O
+realizaron	O
+curas	O
+del	O
+dacriocistocele	O
+hasta	O
+la	O
+cicatrización	O
+por	O
+segunda	O
+intención	O
+y	O
+posteriormente	O
+se	O
+realizó	O
+una	O
+dacriocistorrinostomía	O
+e	O
+intubación	O
+bicanalicular	O
+en	O
+dicho	O
+ojo	O
+.	O

@@ -1,0 +1,23 @@
+
+En	O
+los	O
+análisis	O
+clínicos	O
+iniciales	O
+destacaban	O
+una	O
+elevación	O
+del	O
+nitrógeno	O
+ureico	O
+en	O
+sangre	O
+y	O
+una	O
+hiperglucemia	O
+de	O
+210	O
+mg	O
+/	O
+dL	O
+.	O

@@ -1,0 +1,21 @@
+
+La	O
+paciente	O
+presenta	O
+antecedentes	O
+en	O
+Salud	O
+Mental	O
+,	O
+en	O
+consultas	O
+ambulatorias	O
+,	O
+por	O
+episodio	O
+depresivo	O
+de	O
+2013	O
+a	O
+2014	O
+.	O

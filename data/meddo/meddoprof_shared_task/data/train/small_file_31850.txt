@@ -1,0 +1,24 @@
+
+Fue	O
+valorado	O
+en	O
+su	O
+CSM	O
+emitiéndose	O
+una	O
+impresión	O
+diagnóstica	O
+inicial	O
+de	O
+TOC	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+prescribió	O
+clomipramina	O
+y	O
+seguimiento	O
+ambulatorio	O
+.	O

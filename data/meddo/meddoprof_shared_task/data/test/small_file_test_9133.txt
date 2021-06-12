@@ -1,0 +1,7 @@
+
+La	O
+anamnesis	O
+se	O
+presenta	O
+complicada	O
+.	O

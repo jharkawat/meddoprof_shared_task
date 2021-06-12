@@ -1,0 +1,11 @@
+
+Tampoco	O
+ha	O
+presentado	O
+disuria	O
+ni	O
+alteraciones	O
+del	O
+ritmo	O
+miccional	O
+.	O

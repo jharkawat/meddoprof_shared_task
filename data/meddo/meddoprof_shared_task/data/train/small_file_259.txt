@@ -1,0 +1,9 @@
+
+Afirmó	O
+no	O
+tener	O
+fiebre	O
+ni	O
+síntomas	O
+respiratorios	O
+.	O

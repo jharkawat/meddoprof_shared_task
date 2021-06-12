@@ -1,0 +1,14 @@
+
+Se	O
+le	O
+mantuvo	O
+en	O
+una	O
+habitación	O
+silenciosa	O
+poco	O
+amueblada	O
+y	O
+bien	O
+iluminada	O
+.	O

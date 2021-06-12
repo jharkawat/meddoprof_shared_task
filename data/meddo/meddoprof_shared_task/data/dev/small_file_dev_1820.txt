@@ -1,0 +1,26 @@
+
+Como	O
+antecedentes	O
+familiares	O
+destaca	O
+el	O
+fallecimiento	O
+de	O
+su	O
+padre	O
+a	O
+los	O
+64	O
+años	O
+por	O
+un	O
+cáncer	O
+hepático	O
+y	O
+el	O
+suicidio	O
+de	O
+un	O
+tío	O
+paterno	O
+.	O

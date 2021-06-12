@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+negaba	O
+presentar	O
+enfermedad	O
+ni	O
+factor	O
+de	O
+riesgo	O
+cardiovascular	O
+alguno	O
+.	O

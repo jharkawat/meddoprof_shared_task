@@ -1,0 +1,18 @@
+
+Tras	O
+una	O
+evolución	O
+tórpida	O
+es	O
+diagnosticado	O
+de	O
+Mieloma	O
+múltiple	O
+,	O
+precisando	O
+tratamiento	O
+con	O
+Lenalidomida	O
+y	O
+Dexametasona	O
+.	O

@@ -1,0 +1,9 @@
+
+En	O
+ambas	O
+se	O
+mide	O
+el	O
+volumen	O
+tumoral	O
+.	O

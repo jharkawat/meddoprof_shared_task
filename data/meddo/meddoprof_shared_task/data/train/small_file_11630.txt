@@ -1,0 +1,18 @@
+
+Surge	O
+la	O
+duda	O
+entre	O
+hacer	O
+fibrinólisis	O
+en	O
+periodo	O
+ventana	O
+o	O
+PL	O
+(	O
+contraindicada	O
+si	O
+fibrinólisis	O
+)	O
+.	O

@@ -1,0 +1,21 @@
+
+La	O
+paciente	O
+comenzó	O
+a	O
+presentar	O
+una	O
+mejoría	O
+en	O
+la	O
+clínica	O
+positiva	O
+que	O
+se	O
+fue	O
+consolidando	O
+conforme	O
+pasaron	O
+las	O
+semanas	O
+.	O

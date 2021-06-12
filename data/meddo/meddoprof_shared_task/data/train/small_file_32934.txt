@@ -1,0 +1,25 @@
+
+Además	O
+,	O
+rechazaba	O
+cualquier	O
+contacto	O
+social	O
+,	O
+incluido	O
+el	O
+de	O
+su	O
+propia	O
+hermana	O
+mayor	O
+cuyas	O
+visitas	O
+al	O
+domicilio	O
+familiar	O
+decía	O
+no	O
+poder	O
+soportar	O
+.	O

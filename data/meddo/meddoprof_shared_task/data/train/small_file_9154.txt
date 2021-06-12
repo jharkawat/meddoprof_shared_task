@@ -1,0 +1,16 @@
+
+Además	O
+refiere	O
+síndrome	O
+constitucional	O
+con	O
+pérdida	O
+ponderal	O
+de	O
+9kg	O
+en	O
+los	O
+últimos	O
+7	O
+meses	O
+.	O

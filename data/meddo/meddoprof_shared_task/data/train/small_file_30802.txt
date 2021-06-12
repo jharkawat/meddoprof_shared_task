@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+refería	O
+que	O
+desde	O
+hace	O
+muchos	O
+años	O
+tiene	O
+una	O
+doble	O
+cuya	O
+intención	O
+es	O
+suplantar	O
+su	O
+identidad	O
+.	O

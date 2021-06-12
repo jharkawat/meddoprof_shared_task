@@ -1,0 +1,11 @@
+
+Intervenido	O
+quirúrgicamente	O
+de	O
+adenoides	O
+,	O
+amígdalas	O
+y	O
+oído	O
+medio	O
+.	O

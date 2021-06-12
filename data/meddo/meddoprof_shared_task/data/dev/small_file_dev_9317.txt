@@ -1,0 +1,19 @@
+
+El	O
+estudio	O
+radiológico	O
+se	O
+completó	O
+mediante	O
+una	O
+resonancia	O
+magnética	O
+(	O
+RM	O
+)	O
+lumbo	O
+-	O
+sacro	O
+-	O
+pélvica	O
+.	O

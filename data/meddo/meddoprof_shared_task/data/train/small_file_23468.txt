@@ -1,0 +1,21 @@
+
+Padre	O
+de	O
+68	O
+años	O
+vivo	O
+y	O
+sano	O
+;	O
+madre	O
+de	O
+60	O
+años	O
+sin	O
+antecedentes	O
+médicos	O
+o	O
+psiquiátricos	O
+de	O
+interés	O
+.	O

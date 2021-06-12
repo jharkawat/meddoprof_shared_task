@@ -1,0 +1,26 @@
+
+Se	O
+explica	O
+al	O
+paciente	O
+y	O
+su	O
+familia	O
+(	O
+una	O
+hermana	O
+como	O
+principal	B-SITUACION_LABORAL
+cuidadora	I-SITUACION_LABORAL
+)	O
+la	O
+posibilidad	O
+de	O
+la	O
+nutrición	O
+parenteral	O
+domiciliaria	O
+,	O
+que	O
+aceptan	O
+.	O

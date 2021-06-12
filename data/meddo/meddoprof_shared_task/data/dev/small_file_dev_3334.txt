@@ -1,0 +1,26 @@
+
+En	O
+el	O
+curso	O
+de	O
+su	O
+enfermedad	O
+aparte	O
+de	O
+la	O
+bulimia	O
+,	O
+sufrió	O
+otras	O
+adicciones	O
+como	O
+el	O
+alcoholismo	O
+,	O
+deterioro	O
+cognitivo	O
+y	O
+falta	O
+de	O
+autoestima	O
+.	O

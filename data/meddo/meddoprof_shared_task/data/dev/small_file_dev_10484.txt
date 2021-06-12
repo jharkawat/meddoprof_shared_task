@@ -1,0 +1,20 @@
+
+Antecedentes	O
+:	O
+de	O
+acuerdo	O
+con	O
+sus	O
+padres	O
+,	O
+la	O
+paciente	O
+había	O
+sido	O
+una	O
+chica	O
+normal	O
+hasta	O
+su	O
+adolescencia	O
+.	O

@@ -1,0 +1,11 @@
+
+Domicilio	O
+:	O
+Carrer	O
+de	O
+Roger	O
+de	O
+Llúriat	O
+,	O
+52	O
+.	O

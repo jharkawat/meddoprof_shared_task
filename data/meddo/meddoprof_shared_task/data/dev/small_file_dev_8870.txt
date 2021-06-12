@@ -1,0 +1,25 @@
+
+En	O
+resumen	O
+,	O
+y	O
+atendiendo	O
+a	O
+las	O
+pruebas	O
+complementarias	O
+,	O
+se	O
+descartan	O
+las	O
+causas	O
+autoinmunes	O
+y	O
+los	O
+procesos	O
+virales	O
+,	O
+como	O
+etiología	O
+posible	O
+.	O

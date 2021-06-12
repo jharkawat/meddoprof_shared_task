@@ -1,0 +1,22 @@
+
+Consigue	O
+enfermedad	O
+estable	O
+como	O
+máxima	O
+respuesta	O
+(	O
+RECIST	O
+:	O
+-	O
+14	O
+%	O
+)	O
+,	O
+completando	O
+un	O
+total	O
+de	O
+6	O
+ciclos	O
+.	O

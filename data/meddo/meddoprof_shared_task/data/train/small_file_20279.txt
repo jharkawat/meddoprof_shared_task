@@ -1,0 +1,16 @@
+
+No	O
+acepta	O
+la	O
+autoridad	O
+de	O
+la	O
+madre	O
+respecto	O
+a	O
+horarios	O
+,	O
+tareas	O
+.	O
+.	O
+.	O

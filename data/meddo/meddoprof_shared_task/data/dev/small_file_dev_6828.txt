@@ -1,0 +1,25 @@
+
+Dadas	O
+las	O
+pruebas	O
+complementarias	O
+el	O
+paciente	O
+fue	O
+diagnosticado	O
+de	O
+neumonía	O
+cavitada	O
+en	O
+LSD	O
+,	O
+con	O
+una	O
+puntuación	O
+de	O
+42	O
+en	O
+la	O
+escala	O
+FINE	O
+.	O

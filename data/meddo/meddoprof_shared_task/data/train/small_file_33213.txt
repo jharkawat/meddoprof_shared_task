@@ -1,0 +1,21 @@
+
+Ante	O
+la	O
+persistencia	O
+de	O
+los	O
+síntomas	O
+neurológicos	O
+,	O
+se	O
+plantea	O
+la	O
+realización	O
+de	O
+pruebas	O
+complementarias	O
+para	O
+completar	O
+el	O
+estudio	O
+.	O

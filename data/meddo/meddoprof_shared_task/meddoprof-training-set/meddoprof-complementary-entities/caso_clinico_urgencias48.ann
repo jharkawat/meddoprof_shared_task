@@ -1,0 +1,57 @@
+T1	SINTOMA 148 156	doloroso
+T2	SINTOMA 161 167	fiebre
+T3	SINTOMA 440 453	hepatomegalia
+T4	SINTOMA 457 471	esplenomegalia
+T5	SINTOMA 569 596	aumento de tamaño del hilio
+T6	PROCEDIMIENTO 497 516	analítica de sangre
+T7	PROCEDIMIENTO 534 554	radiografía de tórax
+T8	PROCEDIMIENTO 795 815	TAC tóraco-abdominal
+T9	PROCEDIMIENTO 932 941	Ecografía
+T10	PROCEDIMIENTO 995 998	RMN
+T11	PROCEDIMIENTO 1194 1208	Ecocardiograma
+T12	PROCEDIMIENTO 1228 1246	biopsia quirúrgica
+T13	PROCEDIMIENTO 1249 1274	exéresis de la tumoración
+T14	NEG 145 147	no
+T15	NSCO 148 156	doloroso
+T16	NEG 158 160	no
+T17	NSCO 161 202	fiebre ni otra sintomatología acompañante
+T18	NEG 312 314	no
+T19	NSCO 315 338	dolorosa a la palpación
+T20	NEG 341 343	no
+T21	NSCO 344 388	adherida a planos profundos ni superficiales
+T22	NEG 390 392	No
+T23	NSCO 393 435	se palpan adenopatías en otros territorios
+T24	NEG 437 439	no
+T25	NSCO 440 471	hepatomegalia ni esplenomegalia
+T26	NEG 691 702	descartando
+T27	NSCO 703 705	la
+T28	UNC 706 714	sospecha
+T29	USCO 715 737	inicial de parotiditis
+T30	NEG 1099 1102	sin
+T31	NSCO 1103 1123	componente necrótico
+T32	NEG 1181 1190	negativas
+T33	NEG 1594 1606	asintomático
+T34	NEG 1809 1811	no
+T35	NSCO 1812 1852	existen infiltrados en otros territorios
+T36	ORG_VIVO 0 14	Paciente varón
+T37	ORG_VIVO 621 631	internista
+T38	ORG_VIVO 647 655	paciente
+T39	ORG_VIVO 726 737	parotiditis
+T40	ORG_VIVO 1141 1151	toxoplasma
+T41	ORG_VIVO 1153 1156	HIV
+T42	ORG_VIVO 1158 1170	Epstein-Barr
+T43	ORG_VIVO 1549 1557	paciente
+T44	ORG_VIVO 1620 1634	Paciente varón
+T45	ENFERMEDAD 403 414	adenopatías
+T46	ENFERMEDAD 440 453	hepatomegalia
+T47	ENFERMEDAD 457 471	esplenomegalia
+T48	ENFERMEDAD 726 737	parotiditis
+T49	ENFERMEDAD 943 969	Adenopatía supraclavicular
+T50	ENFERMEDAD 1011 1051	conglomerado adenopático supraclavicular
+T51	ENFERMEDAD 1067 1077	adenopatía
+T52	ENFERMEDAD 1309 1320	adenopatías
+T53	ENFERMEDAD 1400 1418	Linfoma de Hodgkin
+T54	ENFERMEDAD 1650 1670	bultoma en el cuello
+T55	ENFERMEDAD 1695 1718	epidemia de parotiditis
+T56	ENFERMEDAD 1758 1776	linfoma de Hodgkin
+T57	SANITARIO-PROFESION 621 631	internista

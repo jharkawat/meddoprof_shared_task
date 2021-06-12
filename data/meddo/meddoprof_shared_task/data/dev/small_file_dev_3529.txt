@@ -1,0 +1,13 @@
+
+Siempre	O
+se	O
+ha	O
+preocupado	O
+y	O
+responsabilizado	O
+del	O
+bienestar	O
+de	O
+su	O
+familia	O
+.	O

@@ -1,0 +1,13 @@
+
+La	O
+radiografía	O
+mostraba	O
+una	O
+discreta	O
+cardiomegalia	O
+y	O
+los	O
+campos	O
+pulmonares	O
+libres	O
+.	O

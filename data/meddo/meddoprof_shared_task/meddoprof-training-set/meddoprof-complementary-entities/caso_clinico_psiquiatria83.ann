@@ -1,0 +1,13 @@
+T1	SINTOMA 59 67	insomnio
+T2	SINTOMA 143 164	inquietud psicomotriz
+T3	SINTOMA 167 181	ideas extrañas
+T4	NEG 586 588	no
+T5	NSCO 589 611	duró más de una semana
+T6	ORG_VIVO 0 5	Mujer
+T7	ORG_VIVO 47 54	familia
+T8	ORG_VIVO 370 378	paciente
+T9	ORG_VIVO 395 400	madre
+T10	ORG_VIVO 408 420	adolescentes
+T11	OTROS-PROFESION 223 232	alcaldesa
+T12	PACIENTE-PROFESION 423 451	posee una empresa de calzado
+T13	PACIENTE-PROFESION 468 489	concejal de urbanismo

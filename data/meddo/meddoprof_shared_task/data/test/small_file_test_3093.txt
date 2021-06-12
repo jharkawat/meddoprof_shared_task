@@ -1,0 +1,24 @@
+
+Menopausia	O
+a	O
+los	O
+47	O
+años	O
+con	O
+revisiones	O
+ginecológicas	O
+según	O
+protocolo	O
+(	O
+última	O
+mamografía	O
+en	O
+2013	O
+sin	O
+hallazgos	O
+)	O
+No	O
+realiza	O
+tratamientos	O
+habituales	O
+.	O

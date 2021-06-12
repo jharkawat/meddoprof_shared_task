@@ -1,0 +1,19 @@
+
+La	O
+proteína	O
+C	O
+reactiva	O
+(	O
+PCR	O
+)	O
+mostró	O
+un	O
+valor	O
+de	O
+6	O
+,	O
+7	O
+mg	O
+/	O
+l	O
+.	O

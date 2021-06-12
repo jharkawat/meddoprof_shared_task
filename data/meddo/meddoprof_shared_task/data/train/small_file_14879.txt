@@ -1,0 +1,9 @@
+
+La	O
+exploración	O
+neurológica	O
+era	O
+normal	O
+sin	O
+focalidad	O
+.	O

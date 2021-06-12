@@ -1,0 +1,23 @@
+
+Se	O
+han	O
+administrado	O
+21	O
+inyecciones	O
+de	O
+OLR	O
+desde	O
+entonces	O
+,	O
+sin	O
+que	O
+se	O
+hayan	O
+repetido	O
+de	O
+nuevo	O
+síntomas	O
+sugestivos	O
+de	O
+SPI	O
+.	O

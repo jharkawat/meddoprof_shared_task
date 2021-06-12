@@ -1,0 +1,25 @@
+
+Autovaloración	O
+:	O
+Bastante	O
+pobre	O
+en	O
+este	O
+paciente	O
+el	O
+cual	O
+ha	O
+intentado	O
+suicidarse	O
+,	O
+por	O
+no	O
+considerar	O
+satisfactoria	O
+su	O
+vida	O
+y	O
+útil	O
+su	O
+existencia	O
+.	O

@@ -1,0 +1,16 @@
+
+Consume	O
+cocaína	O
+intranasal	O
+desde	O
+los	O
+18	O
+años	O
+con	O
+un	O
+patrón	O
+de	O
+fin	O
+de	O
+semana	O
+.	O

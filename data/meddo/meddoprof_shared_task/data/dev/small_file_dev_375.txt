@@ -1,0 +1,19 @@
+
+Se	O
+pautó	O
+tratamiento	O
+con	O
+paroxetina	O
+20	O
+mg	O
+/	O
+día	O
+y	O
+lorazepam	O
+1	O
+,	O
+5	O
+mg	O
+/	O
+día	O
+.	O

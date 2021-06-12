@@ -1,0 +1,115 @@
+T1	SINTOMA 998 1006	insomnio
+T2	SINTOMA 1490 1517	alteraciones de la conducta
+T3	SINTOMA 2122 2131	agitación
+T4	SINTOMA 3533 3546	alucinaciones
+T5	SINTOMA 3714 3726	desorientado
+T6	SINTOMA 3864 3971	dificultad para completar el movimiento "dedo-nariz" en EESS izquierda, quadrantanopsia homonónima inferior
+T7	SINTOMA 4055 4081	inestabilidad en la marcha
+T8	SINTOMA 5043 5069	déficits en fluidez verbal
+T9	SINTOMA 5106 5115	dispraxia
+T10	SINTOMA 5488 5497	agitación
+T11	SINTOMA 5547 5594	ideas delirantes de contenido místico-religioso
+T12	SINTOMA 6017 6026	agitación
+T13	SINTOMA 6802 6810	insomnio
+T14	PROCEDIMIENTO 92 106	rehabilitación
+T15	PROCEDIMIENTO 1396 1399	EEG
+T16	PROCEDIMIENTO 3788 3806	exploración física
+T17	PROCEDIMIENTO 4124 4135	TAC craneal
+T18	PROCEDIMIENTO 4415 4418	EEG
+T19	PROCEDIMIENTO 4473 4476	EEG
+T20	PROCEDIMIENTO 4876 4889	test de Luria
+T21	NEG 263 270	impiden
+T22	NSCO 271 298	el tratamiento ambulatorio"
+T23	NEG 552 560	ausencia
+T24	NEG 1125 1137	imposible de
+T25	NSCO 1138 1148	esclarecer
+T26	NEG 1339 1353	suspensión del
+T27	NSCO 1354 1365	tratamiento
+T28	NEG 2048 2050	no
+T29	NSCO 2051 2079	sigue el camino de Cristo...
+T30	NEG 2329 2332	sin
+T31	NSCO 2333 2350	mayores problemas
+T32	NEG 2427 2429	No
+T33	NSCO 2430 2484	hay ningún dato de interés en su desarrollo psicomotor
+T34	NEG 2821 2823	No
+T35	NSCO 2824 2885	se le conocen hábitos de consumo de tóxicos, alcohol o tabaco
+T36	NEG 2916 2918	No
+T37	NSCO 2919 2967	se detectaron antecedentes familiares de interés
+T38	NEG 3390 3392	no
+T39	NSCO 3393 3461	se objetivaron síntomas o signos que apuntaran a un proceso afectivo
+T40	NEG 3463 3465	No
+T41	NSCO 3466 3519	había ideación, planificación ni intención autolítica
+T42	NEG 3521 3523	No
+T43	NSCO 3524 3546	presentó alucinaciones
+T44	NEG 3565 3567	no
+T45	NSCO 3568 3599	se objetivaron ideas delirantes
+T46	NEG 3681 3683	no
+T47	NSCO 3684 3705	tenía problema alguno
+T48	NEG 3714 3726	desorientado
+T49	NSCO 3727 3744	en tiempo y lugar
+T50	NEG 3746 3748	No
+T51	NSCO 3749 3779	tenía conciencia de enfermedad
+T52	NEG 4294 4296	No
+T53	NSCO 4297 4362	se observan cambios patológicos tras la introducción de contraste
+T54	NEG 4852 4862	incapaz de
+T55	NSCO 4863 4925	completar el test de Luria o una secuencia gestual alternativa
+T56	UNC 5336 5351	posiblemente de
+T57	USCO 5352 5367	etiología mixta
+T58	UNC 5381 5386	claro
+T59	USCO 5387 5406	componente vascular
+T60	NEG 6199 6207	ausencia
+T61	UNC 6648 6656	probable
+T62	USCO 6657 6672	etiología mixta
+T63	FARMACO 901 914	carbamacepina
+T64	FARMACO 930 939	valproato
+T65	FARMACO 955 963	pimozida
+T66	FARMACO 977 986	lorazepam
+T67	FARMACO 5729 5738	lorazepam
+T68	FARMACO 5789 5797	clobazam
+T69	FARMACO 5930 5938	pimozide
+T70	FARMACO 6706 6719	carbamacepina
+T71	FARMACO 6735 6744	valproato
+T72	FARMACO 6760 6768	clobazam
+T73	FARMACO 6783 6792	lorazepam
+T74	ORG_VIVO 26 31	varón
+T75	ORG_VIVO 1216 1224	paciente
+T76	ORG_VIVO 1522 1529	familia
+T77	ORG_VIVO 2195 2203	paciente
+T78	ORG_VIVO 2486 2494	infancia
+T79	ORG_VIVO 2497 2509	adolescencia
+T80	ORG_VIVO 2717 2722	mujer
+T81	ORG_VIVO 2773 2783	hijo varón
+T82	ORG_VIVO 2879 2885	tabaco
+T83	ORG_VIVO 2897 2905	hermanos
+T84	ORG_VIVO 2946 2956	familiares
+T85	ORG_VIVO 3025 3030	varón
+T86	ORG_VIVO 4087 4095	paciente
+T87	ORG_VIVO 5961 5969	paciente
+T88	ORG_VIVO 6306 6310	hijo
+T89	ORG_VIVO 6410 6418	familiar
+T90	ENFERMEDAD 166 183	crisis comiciales
+T91	ENFERMEDAD 340 363	esquizofrenia paranoide
+T92	ENFERMEDAD 366 395	epilepsia del lóbulo temporal
+T93	ENFERMEDAD 529 546	crisis comiciales
+T94	ENFERMEDAD 1031 1060	epilepsia del lóbulo temporal
+T95	ENFERMEDAD 1089 1104	lesión cerebral
+T96	ENFERMEDAD 1301 1331	crisis comiciales desencadenas
+T97	ENFERMEDAD 1649 1666	crisis comiciales
+T98	ENFERMEDAD 1718 1736	patología comicial
+T99	ENFERMEDAD 2234 2257	esquizofrenia paranoide
+T100	ENFERMEDAD 2407 2424	brotes psicóticos
+T101	ENFERMEDAD 2533 2542	epilepsia
+T102	ENFERMEDAD 3445 3461	proceso afectivo
+T103	ENFERMEDAD 3662 3678	hernia abdominal
+T104	ENFERMEDAD 3847 3862	hipoacusia leve
+T105	ENFERMEDAD 4161 4240	patología isquémica residual en hemisferio cerebeloso derecho y lóbulo temporal
+T106	ENFERMEDAD 4265 4292	atrofia cortico-subcortical
+T107	ENFERMEDAD 5081 5130	dislexia de superficie y dispraxia construccional
+T108	ENFERMEDAD 6148 6165	crisis comiciales
+T109	ENFERMEDAD 6467 6496	Epilepsia del Lóbulo Temporal
+T110	ENFERMEDAD 6498 6515	Crisis comiciales
+T111	ENFERMEDAD 6556 6579	Esquizofrenia paranoide
+T112	ENFERMEDAD 6582 6611	Epilepsia del lóbulo temporal
+T113	PACIENTE-SITUACION_LABORAL 2637 2660	jubilado por enfermedad
+T114	PACIENTE-PROFESION 2001 2005	Papa
+T115	PACIENTE-PROFESION 2565 2586	delineante, y trabajó

@@ -1,0 +1,11 @@
+
+Varón	O
+de	O
+17	O
+años	O
+con	O
+antecedentes	O
+de	O
+cefalea	O
+tensional	O
+.	O

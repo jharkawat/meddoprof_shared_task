@@ -1,0 +1,16 @@
+
+Tras	O
+estadificación	O
+de	O
+la	O
+enfermedad	O
+,	O
+se	O
+inicia	O
+quimioterapia	O
+con	O
+esquema	O
+R	O
+-	O
+CHOP	O
+.	O

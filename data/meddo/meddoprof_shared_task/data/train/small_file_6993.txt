@@ -1,0 +1,16 @@
+
+Las	O
+tumoraciones	O
+se	O
+acompañaban	O
+de	O
+alopecia	O
+mucinosa	O
+muy	O
+significativa	O
+en	O
+todo	O
+el	O
+cuero	O
+cabelludo	O
+.	O

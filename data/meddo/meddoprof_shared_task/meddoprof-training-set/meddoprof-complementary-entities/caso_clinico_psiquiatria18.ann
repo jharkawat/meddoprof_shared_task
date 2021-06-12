@@ -1,0 +1,118 @@
+T1	SINTOMA 277 312	disminución del consumo de cannabis
+T2	SINTOMA 323 331	malestar
+T3	SINTOMA 1123 1132	inquietud
+T4	SINTOMA 1249 1254	culpa
+T5	SINTOMA 1373 1386	palpitaciones
+T6	SINTOMA 1388 1398	sudor frío
+T7	SINTOMA 1400 1406	mareos
+T8	SINTOMA 1408 1438	sensación de opresión torácica
+T9	SINTOMA 1441 1454	miedo a morir
+T10	SINTOMA 2574 2582	tristeza
+T11	SINTOMA 2603 2632	variaciones diurnas del humor
+T12	SINTOMA 2823 2832	fallecido
+T13	SINTOMA 3875 3893	Síntomas somáticos
+T14	SINTOMA 5460 5473	palpitaciones
+T15	SINTOMA 5475 5491	dolor precordial
+T16	SINTOMA 5506 5513	asfixia
+T17	SINTOMA 5515 5520	mareo
+T18	SINTOMA 5523 5530	vértigo
+T19	SINTOMA 5533 5556	sensación de irrealidad
+T20	PROCEDIMIENTO 1605 1621	tóxicos en orina
+T21	PROCEDIMIENTO 6597 6644	técnicas de respiración controlada y relajación
+T22	NEG 27 30	sin
+T23	NSCO 31 36	hijos
+T24	NEG 82 84	no
+T25	NSCO 85 92	trabaja
+T26	NEG 996 998	No
+T27	NSCO 999 1013	otros consumos
+T28	NEG 1591 1593	No
+T29	NSCO 1594 1667	se realizó tóxicos en orina ni la paciente refirió el consumo de cannabis
+T30	NEG 2157 2168	incapacidad
+T31	NEG 2195 2198	sin
+T32	NSCO 2199 2217	presentar ansiedad
+T33	NEG 2891 2893	No
+T34	NSCO 2894 2926	cuenta con hermanos consumidores
+T35	NEG 4922 4924	no
+T36	NSCO 4925 5019	encuentran pautas suficientes para poder ser incluido en ninguno de los trastornos precedentes
+T37	NEG 5220 5222	no
+T38	NSCO 5223 5294	limitadas a ninguna situación o conjunto de circunstancias particulares
+T39	NEG 6099 6101	no
+T40	NSCO 6102 6142	debemos realizar este diagnóstico per se
+T41	NEG 6153 6155	no
+T42	NSCO 6156 6173	son imprevisibles
+T43	NEG 6687 6689	no
+T44	NSCO 6690 6741	presentar crisis de pánico al abandonar el cannabis
+T45	NEG 6962 6964	no
+T46	NSCO 6965 6992	ha presentado nuevas crisis
+T47	FARMACO 6270 6280	clonazepam
+T48	FARMACO 6309 6319	sertralina
+T49	ORG_VIVO 0 5	Mujer
+T50	ORG_VIVO 31 36	hijos
+T51	ORG_VIVO 304 312	cannabis
+T52	ORG_VIVO 427 435	cannabis
+T53	ORG_VIVO 442 454	adolescencia
+T54	ORG_VIVO 831 840	profesora
+T55	ORG_VIVO 964 970	tabaco
+T56	ORG_VIVO 1175 1183	cannabis
+T57	ORG_VIVO 1572 1589	médico de familia
+T58	ORG_VIVO 1628 1636	paciente
+T59	ORG_VIVO 1659 1667	cannabis
+T60	ORG_VIVO 1905 1913	paciente
+T61	ORG_VIVO 1960 1968	cannabis
+T62	ORG_VIVO 2716 2724	cannabis
+T63	ORG_VIVO 2764 2774	Personales
+T64	ORG_VIVO 2777 2787	Familiares
+T65	ORG_VIVO 2807 2815	hermanos
+T66	ORG_VIVO 2817 2822	Padre
+T67	ORG_VIVO 2846 2851	Madre
+T68	ORG_VIVO 2905 2913	hermanos
+T69	ORG_VIVO 3008 3016	familiar
+T70	ORG_VIVO 3144 3151	parejas
+T71	ORG_VIVO 3396 3404	Cannabis
+T72	ORG_VIVO 3648 3656	paciente
+T73	ORG_VIVO 4799 4807	cannabis
+T74	ORG_VIVO 5799 5806	mujeres
+T75	ORG_VIVO 6733 6741	cannabis
+T76	ORG_VIVO 6781 6789	paciente
+T77	ORG_VIVO 6856 6863	familia
+T78	ORG_VIVO 6916 6924	cannabis
+T79	ORG_VIVO 6938 6944	pareja
+T80	ENFERMEDAD 234 250	crisis de pánico
+T81	ENFERMEDAD 293 312	consumo de cannabis
+T82	ENFERMEDAD 416 435	consumo de cannabis
+T83	ENFERMEDAD 719 738	fracaso sentimental
+T84	ENFERMEDAD 1076 1084	ansiedad
+T85	ENFERMEDAD 1276 1284	ansiedad
+T86	ENFERMEDAD 1539 1555	crisis de pánico
+T87	ENFERMEDAD 1648 1667	consumo de cannabis
+T88	ENFERMEDAD 1884 1900	crisis de pánico
+T89	ENFERMEDAD 1945 1968	abstinencia de cannabis
+T90	ENFERMEDAD 2209 2217	ansiedad
+T91	ENFERMEDAD 2731 2747	crisis de pánico
+T92	ENFERMEDAD 2881 2889	distimia
+T93	ENFERMEDAD 3381 3410	Dependencia de Cannabis F12.2
+T94	ENFERMEDAD 3449 3508	síndrome de dependencia es el deseo de ingerir la sustancia
+T95	ENFERMEDAD 3900 3923	síndrome de abstinencia
+T96	ENFERMEDAD 3996 4050	síndrome de abstinencia característico de la sustancia
+T97	ENFERMEDAD 4664 4683	trastornos mentales
+T98	ENFERMEDAD 4712 4728	crisis de pánico
+T99	ENFERMEDAD 4788 4807	consumo de cannabis
+T100	ENFERMEDAD 5067 5086	Trastorno de pánico
+T101	ENFERMEDAD 5088 5118	ansiedad paroxística episódica
+T102	ENFERMEDAD 5174 5210	crisis recurrentes de ansiedad grave
+T103	ENFERMEDAD 5339 5361	trastornos de ansiedad
+T104	ENFERMEDAD 6218 6245	abstinencia de la sustancia
+T105	ENFERMEDAD 6517 6533	crisis de pánico
+T106	ENFERMEDAD 6677 6685	ansiedad
+T107	PACIENTE-PROFESION 49 68	Profesora de música
+T108	PACIENTE-SITUACION_LABORAL 842 852	estudiando
+T109	PACIENTE-PROFESION 831 840	profesora
+T110	PACIENTE-SITUACION_LABORAL 82 92	no trabaja
+T111	PACIENTE-SITUACION_LABORAL 94 128	dedicándose a preparar oposiciones
+T112	PACIENTE-SITUACION_LABORAL 799 825	preparación de oposiciones
+T113	SANITARIO-PROFESION 1572 1589	médico de familia
+T114	PACIENTE-SITUACION_LABORAL 3018 3042	continuando sus estudios
+T115	PACIENTE-SITUACION_LABORAL 3056 3101	realizando posteriormente trabajos eventuales
+T116	PACIENTE-SITUACION_LABORAL 3253 3280	decide preparar oposiciones
+T117	PACIENTE-SITUACION_LABORAL 3287 3311	tener un trabajo estable
+T118	PACIENTE-SITUACION_LABORAL 6744 6776	reinicio de sus tareas laborales

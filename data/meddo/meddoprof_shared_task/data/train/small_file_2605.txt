@@ -1,0 +1,13 @@
+
+En	O
+una	O
+ocasión	O
+la	O
+reacción	O
+ha	O
+afectado	O
+a	O
+2	O
+articulaciones	O
+contiguas	O
+.	O

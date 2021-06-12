@@ -1,0 +1,10 @@
+
+Es	O
+conocida	O
+exclusivamente	O
+por	O
+sus	O
+hermanos	O
+/	O
+cuñados	O
+.	O

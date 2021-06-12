@@ -1,0 +1,14 @@
+
+Resonancia	O
+magnética	O
+craneal	O
+:	O
+compatible	O
+con	O
+encefalitis	O
+aguda	O
+del	O
+lóbulo	O
+temporal	O
+derecho	O
+.	O

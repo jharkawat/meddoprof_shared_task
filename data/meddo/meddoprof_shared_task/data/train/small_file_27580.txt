@@ -1,0 +1,23 @@
+
+Así	O
+,	O
+participa	O
+en	O
+todas	O
+las	O
+actividades	O
+presentando	O
+buena	O
+actitud	O
+y	O
+prestando	O
+ayuda	O
+al	O
+resto	O
+de	O
+sus	O
+compañeros	B-SITUACION_LABORAL
+si	O
+han	O
+precisado	O
+.	O

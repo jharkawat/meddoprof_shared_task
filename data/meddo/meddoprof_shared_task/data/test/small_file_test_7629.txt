@@ -1,0 +1,26 @@
+
+En	O
+diciembre	O
+de	O
+2018	O
+es	O
+derivada	O
+a	O
+Oncología	O
+por	O
+aumento	O
+progresivo	O
+de	O
+marcadores	O
+tumorales	O
+en	O
+analítica	O
+,	O
+monitorizados	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

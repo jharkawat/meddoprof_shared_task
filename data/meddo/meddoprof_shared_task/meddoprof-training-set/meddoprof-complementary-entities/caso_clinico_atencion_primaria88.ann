@@ -1,0 +1,119 @@
+T1	SINTOMA 143 154	parestesias
+T2	SINTOMA 156 167	disestesias
+T3	SINTOMA 193 243	rodillas hasta nivel distal de miembros inferiores
+T4	SINTOMA 386 395	lumbalgia
+T5	SINTOMA 450 457	fumador
+T6	SINTOMA 476 483	bebedor
+T7	SINTOMA 742 753	parestesias
+T8	SINTOMA 755 766	disestesias
+T9	SINTOMA 769 812	calambres musculares en miembros inferiores
+T10	SINTOMA 1111 1119	eupneico
+T11	SINTOMA 1131 1145	normohidratado
+T12	SINTOMA 1148 1162	normocoloreado
+T13	SINTOMA 1164 1174	consciente
+T14	SINTOMA 1176 1185	orientado
+T15	SINTOMA 1188 1199	colaborador
+T16	SINTOMA 1254 1260	soplos
+T17	SINTOMA 1434 1452	defensa peritoneal
+T18	SINTOMA 1470 1503	pupilas isocóricas normoreactivas
+T19	SINTOMA 1508 1537	alteración de pares craneales
+T20	SINTOMA 1569 1580	parestesias
+T21	SINTOMA 1583 1644	aumento de sensibilidad dolorosa en ambos miembros inferiores
+T22	SINTOMA 1649 1659	dismetrías
+T23	SINTOMA 2123 2154	Serología para sífilis negativa
+T24	SINTOMA 5399 5408	calambres
+T25	SINTOMA 5515 5527	hiperalgesia
+T26	SINTOMA 5574 5588	entumecimiento
+T27	PROCEDIMIENTO 1027 1049	tratamiento analgésico
+T28	PROCEDIMIENTO 1201 1233	Auscultación cardiorrespiratoria
+T29	PROCEDIMIENTO 2008 2017	Hemograma
+T30	PROCEDIMIENTO 2253 2279	radiografía a nivel lumbar
+T31	PROCEDIMIENTO 2415 2424	analgesia
+T32	PROCEDIMIENTO 2567 2576	Hemograma
+T33	PROCEDIMIENTO 3645 3678	RNM de cráneo y de columna lumbar
+T34	PROCEDIMIENTO 4472 4513	retirada de prótesis dentales de amalgama
+T35	NEG 512 515	sin
+T36	NSCO 516 549	factores de riesgo cardiovascular
+T37	NEG 1250 1253	sin
+T38	NSCO 1254 1281	soplos, roces ni extratonos
+T39	NEG 1313 1316	sin
+T40	NSCO 1317 1335	ruidos patológicos
+T41	NEG 1366 1369	sin
+T42	NSCO 1370 1400	palpación de masas ni megalias
+T43	NEG 1402 1404	No
+T44	NSCO 1405 1428	doloroso a la palpación
+T45	NEG 1430 1433	Sin
+T46	NSCO 1434 1452	defensa peritoneal
+T47	NEG 1505 1507	no
+T48	NSCO 1508 1537	alteración de pares craneales
+T49	NEG 1539 1541	no
+T50	NSCO 1542 1567	pérdida de fuerza ni tono
+T51	NEG 1646 1648	No
+T52	NSCO 1649 1659	dismetrías
+T53	NEG 1669 1677	negativo
+T54	NEG 1704 1712	Lassegue
+T55	NEG 1713 1721	negativo
+T56	NEG 2146 2154	negativa
+T57	NEG 2286 2288	no
+T58	NSCO 2289 2321	se observan imágenes patológicas
+T59	NEG 3246 3254	negativa
+T60	NEG 3331 3339	negativo
+T61	NEG 3385 3393	negativo
+T62	NEG 3683 3685	no
+T63	NSCO 3686 3716	muestran hallazgos patológicos
+T64	NEG 4213 4215	no
+T65	NSCO 4216 4241	contemplado anteriormente
+T66	NEG 4472 4483	retirada de
+T67	NSCO 4484 4513	prótesis dentales de amalgama
+T68	NEG 4711 4714	sin
+T69	NSCO 4715 4749	hijos y nivel socioeconómico medio
+T70	NEG 5964 5972	negativa
+T71	FARMACO 666 676	Sertralina
+T72	FARMACO 689 698	Omeprazol
+T73	FARMACO 3789 3799	Interferón
+T74	FARMACO 3802 3812	Ribavirina
+T75	FARMACO 4444 4460	D – penicilamina
+T76	FARMACO 5324 5340	D – Penicilamina
+T77	FARMACO 5831 5849	D – Penicilinamina
+T78	FARMACO 5903 5913	Interferon
+T79	FARMACO 5916 5926	Ribavirina
+T80	ORG_VIVO 19 27	Paciente
+T81	ORG_VIVO 338 343	Varón
+T82	ORG_VIVO 372 382	personales
+T83	ORG_VIVO 582 608	trabajador en una imprenta
+T84	ORG_VIVO 2138 2145	sífilis
+T85	ORG_VIVO 2469 2481	especialista
+T86	ORG_VIVO 3262 3267	viral
+T87	ORG_VIVO 3272 3275	VHC
+T88	ORG_VIVO 3318 3321	HBc
+T89	ORG_VIVO 3351 3354	VHC
+T90	ORG_VIVO 3377 3380	VIH
+T91	ORG_VIVO 3874 3882	paciente
+T92	ORG_VIVO 4082 4090	paciente
+T93	ORG_VIVO 4655 4663	familiar
+T94	ORG_VIVO 4703 4709	Casado
+T95	ORG_VIVO 4715 4720	hijos
+T96	ORG_VIVO 5344 5352	paciente
+T97	ORG_VIVO 5936 5941	viral
+T98	ENFERMEDAD 386 403	lumbalgia crónica
+T99	ENFERMEDAD 405 448	insuficiencia venosa en miembros inferiores
+T100	ENFERMEDAD 551 567	síndrome ansioso
+T101	ENFERMEDAD 1756 1802	atrofia cutánea a nivel de miembros inferiores
+T102	ENFERMEDAD 1818 1838	insuficiencia venosa
+T103	ENFERMEDAD 2138 2145	sífilis
+T104	ENFERMEDAD 3543 3637	polineuropatía sensitivo-motora axonal moderada de predominio sensitivo en miembros inferiores
+T105	ENFERMEDAD 3741 3760	hepatopatía por VHC
+T106	ENFERMEDAD 4869 4902	Intoxicación crónica por mercurio
+T107	ENFERMEDAD 4905 4924	Hepatopatía por VHC
+T108	ENFERMEDAD 4952 4972	insuficiencia venosa
+T109	ENFERMEDAD 4974 4980	anemia
+T110	ENFERMEDAD 5104 5118	polineuropatía
+T111	ENFERMEDAD 5120 5122	DM
+T112	ENFERMEDAD 5124 5133	porfirias
+T113	ENFERMEDAD 5139 5158	Esclerosis múltiple
+T114	ENFERMEDAD 5192 5199	sífilis
+T115	ENFERMEDAD 5201 5214	radiculopatía
+T116	ENFERMEDAD 5217 5244	neuropatía por atrapamiento
+T117	SANITARIO-PROFESION 2469 2481	especialista
+T118	PACIENTE-PROFESION 582 608	trabajador en una imprenta
+T119	PACIENTE-PROFESION 4767 4790	trabajo en una imprenta

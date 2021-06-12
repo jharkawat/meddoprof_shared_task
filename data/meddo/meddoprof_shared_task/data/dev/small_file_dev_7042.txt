@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+se	O
+mantuvo	O
+inicialmente	O
+febril	O
+y	O
+la	O
+ferritina	O
+ascendió	O
+hasta	O
+un	O
+máximo	O
+de	O
+7	O
+.	O
+146	O
+ng	O
+/	O
+mL	O
+.	O

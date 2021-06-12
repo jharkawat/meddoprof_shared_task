@@ -1,0 +1,16 @@
+
+Paciente	O
+varón	O
+de	O
+37	O
+años	O
+de	O
+edad	O
+,	O
+con	O
+antecedentes	O
+de	O
+atopia	O
+y	O
+tabaquismo	O
+.	O

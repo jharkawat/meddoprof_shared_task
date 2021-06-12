@@ -1,0 +1,22 @@
+
+Un	O
+2	O
+,	O
+1	O
+%	O
+de	O
+células	O
+expresaban	O
+fenotipo	O
+de	O
+basófilos	O
+(	O
+CD123	O
++	O
+,	O
+CD33	O
+–	O
+y	O
+DR	O
+)	O
+.	O

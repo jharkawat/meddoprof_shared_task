@@ -1,0 +1,10 @@
+
+En	O
+la	O
+tomografía	O
+abdominal	O
+se	O
+corroboró	O
+este	O
+hallazgo	O
+.	O

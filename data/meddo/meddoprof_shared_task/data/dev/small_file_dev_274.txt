@@ -1,0 +1,19 @@
+
+Ingresos	O
+involuntarios	O
+en	O
+UHSM	O
+en	O
+numerosas	O
+ocasiones	O
+,	O
+coincidiendo	O
+con	O
+reagudización	O
+de	O
+síntomas	O
+psicóticos	O
+y	O
+trastornos	O
+conductuales	O
+.	O

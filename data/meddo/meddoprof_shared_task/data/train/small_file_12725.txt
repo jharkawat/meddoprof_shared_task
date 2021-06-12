@@ -1,0 +1,22 @@
+
+A	O
+su	O
+llegada	O
+a	O
+UCI	O
+se	O
+encuentra	O
+taquicárdica	O
+e	O
+hipertensa	O
+y	O
+se	O
+administran	O
+sedantes	O
+de	O
+rescate	O
+para	O
+mantener	O
+intubación	O
+orotraqueal	O
+.	O

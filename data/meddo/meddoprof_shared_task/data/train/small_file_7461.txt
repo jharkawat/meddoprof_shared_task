@@ -1,0 +1,22 @@
+
+También	O
+contactaba	O
+con	O
+pinturas	O
+,	O
+sellantes	O
+y	O
+otros	O
+productos	O
+con	O
+compuestos	O
+epoxi	O
+como	O
+ARADUR	O
+®	O
+5052	O
+CH	O
+HUNTSMAN	O
+entre	O
+otros	O
+.	O

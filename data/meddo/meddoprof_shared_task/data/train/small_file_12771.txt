@@ -1,0 +1,13 @@
+
+Con	O
+posterioridad	O
+,	O
+no	O
+ha	O
+presentado	O
+nuevos	O
+problemas	O
+en	O
+el	O
+seguimiento	O
+.	O

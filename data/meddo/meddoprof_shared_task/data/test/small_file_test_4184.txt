@@ -1,0 +1,21 @@
+
+Múltiples	O
+adenopatías	O
+abdominales	O
+retroperitoneales	O
+(	O
+en	O
+el	O
+tronco	O
+celíaco	O
+)	O
+de	O
+hasta	O
+4	O
+cm	O
+,	O
+paraórticas	O
+izquierdas	O
+e	O
+interaortocavas	O
+.	O

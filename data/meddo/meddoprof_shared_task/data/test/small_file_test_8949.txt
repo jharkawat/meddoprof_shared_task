@@ -1,0 +1,26 @@
+
+Se	O
+suspende	O
+definitivamente	O
+tratamiento	O
+con	O
+inhibidor	O
+PD	O
+-	O
+L1	O
+,	O
+y	O
+se	O
+continúa	O
+pauta	O
+descendente	O
+de	O
+prednisona	O
+oral	O
+durante	O
+un	O
+mes	O
+hasta	O
+su	O
+retirada	O
+.	O

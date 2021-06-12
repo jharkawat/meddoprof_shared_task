@@ -1,0 +1,17 @@
+
+Auscultación	O
+cardiaca	O
+:	O
+rítmico	O
+,	O
+soplo	O
+sistólico	O
+aórtico	O
+II	O
+/	O
+VI	O
+con	O
+segundo	O
+ruido	O
+respetado	O
+.	O

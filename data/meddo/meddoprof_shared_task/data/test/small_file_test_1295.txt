@@ -1,0 +1,12 @@
+
+Después	O
+se	O
+revascularizó	O
+la	O
+DA	O
+proximal	O
+con	O
+otro	O
+stent	O
+directo	O
+.	O

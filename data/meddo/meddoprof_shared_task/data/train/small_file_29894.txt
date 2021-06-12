@@ -1,0 +1,27 @@
+
+Cuenta	O
+que	O
+a	O
+los	O
+25	O
+años	O
+se	O
+inicia	O
+la	O
+sintomatología	O
+,	O
+cuando	O
+tras	O
+haber	O
+abandonado	B-SITUACION_LABORAL
+sus	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+de	O
+Arquitectura	O
+Técnica	O
+se	O
+trasladó	O
+a	O
+Estados	O
+Unidos	O
+.	O

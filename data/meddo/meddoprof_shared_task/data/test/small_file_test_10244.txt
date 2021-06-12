@@ -1,0 +1,7 @@
+
+Presenta	O
+asimismo	O
+ictericia	O
+mucocutánea	O
+importante	O
+.	O

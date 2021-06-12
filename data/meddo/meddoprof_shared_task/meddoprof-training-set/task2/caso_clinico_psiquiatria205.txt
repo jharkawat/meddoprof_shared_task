@@ -1,0 +1,31 @@
+Anamnesis
+
+Motivo de ingreso
+Mujer de 54 años de que ingresa en el Servicio de Neurología, debido a movimientos anormales de extremidades que han persistido tras varias horas de tratamiento y observación en el área de Urgencias.
+
+Antecedentes personales médicos
+Meningitis bacteriana en el contexto de otitis media en la infancia.Epilepsia focal posiblemente temporal criptogénica en forma de crisis automotoras y crisis dialépticas desde la infancia, en tratamiento con Fenobarbital 150 mg/día, Diazepam 15 mg/día y Levetiracetam 2500 mg/día. Pruebas complementarias: RMN cerebral y electroencefalograma intercrítico, normales. Frecuencia de las crisis: una cada 2-3 meses. Sigue controles en Consultas Externas de Neurología. Diagnosticada hace un año de aplasia medular, sin criterios de gravedad, de probable origen farmacológico. Por ello realiza tratamiento con Ciclosporina 350 mg/día y controles hematológicos correspondientes. Sin otros antecedentes medicoquirúrgicos, psiquiátricos ni toxicológicos de interés.
+
+Antecedentes personales biográficos y sociolaborales
+Es la menor de dos hermanos. Embarazo y parto sin complicaciones, desarrollo psicomotor dentro de la normalidad. Cursó los estudios básicos sin dificultad y bien adaptada en el ámbito escolar. Casada y con una hija de 28 años, se dedica a las tareas del hogar y es la cuidadora principal de su suegra de 91 años.
+
+Antecedentes familiares
+Su hermano mayor está afecto de esquizofrenia paranoide. Ausencia de otros antecedentes familiares psiquiátricos o somáticos de interés.
+
+Enfermedad actual
+La paciente consultó por fenómenos motrices paroxísticos de varios días de evolución. Eran movimientos de la cabeza y de las extremidades superiores, irregulares, no sincronizados, en diferentes direcciones, de duración superior a 5 minutos, de gran amplitud y que se acentuaban al mantener determinadas posturas.No se acompañaban de pérdida de conciencia, relajación de esfínteres ni de focalidad neurológica posterior. Estos episodios eran totalmente diferentes a las crisis de desconexión del medio con automatismos que había presentado con anterioridad. En el servicio de Urgencias el temblor cedió con la administración de Diazepam endovenoso pero a las pocas horas se volvió a repetir, por lo que se decidió proceder a ingreso en planta para optimización del control farmacológico y realización de las exploraciones complementarias pertinentes.
+
+Pruebas complementarias
+Analítica general: leucocitos 2100x10x9/L; hematocrito 33,2%; VCM 94,3fl; plaquetas 33 x10x9/L. Bioquímica y perfil iónico sin alteraciones significativas.
+- TAC craneal y cervical con contraste dentro de la normalidad
+- Vídeo-EEG prolongado con protocolo de inducción: durante el registro y según el protocolo, aparecieron los movimientos anormales evidenciados con anterioridad. En el trazado EEG se evidenciaba una actividad de fondo beta generalizada con periodos de actividad de fondo alfa sin asimetrías apreciables. No se objetivan alteraciones electroencefalográficas de naturaleza comicial.
+
+Evolución
+Ante la normalidad de las diferentes exploraciones, se descarta que los episodios que motivan el ingreso sean de origen comicial. Por ello, tras el reajuste de la pauta farmacológica anticomicial, se decide realizar una interconsulta con psiquiatría.
+Se realizan varias entrevistas en las que no se objetivan alteraciones psicopatológicas significativas, se muestra colaboradora y con buena predisposición para explicar lo que le sucede. El discurso es fluido y coherente, sin alteraciones en el curso, forma ni contenido del pensamiento. El estado de ánimo es eutímico. No se objetivan síntomas en la esfera psicótica. Insomnio de conciliación que mejora con dosis bajas de hipnótico. Explica que se siente muy sobrecargada por el cuidado de su suegra y de recibir poca ayuda por parte de su marido, con el que la comunicación no es muy buena. Siempre lo ha dado todo por los demás y éstos no le responden de la misma forma. Refiere sentirse incómoda ante su situación actual de cierta indefensión y de tener que ser cuidada por los demás.
+Finalmente, la paciente fue diagnosticada según el DSM-IV de Trastorno de Conversión con crisis y convulsiones [300.11.5]12. Teniendo en cuenta cuatro aspectos fundamen tales:
+1) los síntomas no se producen de modo intencionado ni están bajo el control voluntario, a diferencia de lo que ocurre en los trastornos facticios y en la simulación;
+2) re lación temporal entre la existencia de un factor psicosocial estresante y la aparición de los síntomas; 
+3) todas las exploraciones complementarias realizadas fueron normales y
+4) a diferencia del trastorno de somatización, el curso es más agudo y la variabilidad sintomática es menor. Este cuadro se incluye dentro del grupo de los Trastornos Somatomorfos.
+Se le comunica que la ausencia de causa comicial que justifique el cuadro, apunta hacia una etiología psiquiátrica de las crisis. En el momento del alta (tras dos semanas de ingreso), la paciente se muestra asintomática y no requiere tratamiento psicofarmacológico. Hasta la fecha, ha seguido controles en consultas externas de Neurología y Psiquiatría, sin presentar nuevos episodios.

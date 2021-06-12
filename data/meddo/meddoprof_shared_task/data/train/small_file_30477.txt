@@ -1,0 +1,7 @@
+
+No	O
+consumo	O
+de	O
+tóxicos	O
+concomitante	O
+.	O

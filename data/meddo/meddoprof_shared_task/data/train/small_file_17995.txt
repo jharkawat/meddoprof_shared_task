@@ -1,0 +1,11 @@
+
+Atrofia	O
+de	O
+fosa	O
+posterior	O
+de	O
+predominio	O
+pontino	O
+y	O
+cerebeloso	O
+.	O

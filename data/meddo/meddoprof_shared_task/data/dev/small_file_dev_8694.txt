@@ -1,0 +1,22 @@
+
+Paciente	O
+varón	O
+de	O
+42	O
+años	O
+de	O
+edad	O
+,	O
+natural	O
+de	O
+Rumanía	O
+,	O
+que	O
+reside	O
+en	O
+España	O
+desde	O
+hace	O
+10	O
+años	O
+.	O

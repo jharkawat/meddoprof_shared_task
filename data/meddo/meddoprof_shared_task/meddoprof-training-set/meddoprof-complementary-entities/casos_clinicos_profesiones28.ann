@@ -1,0 +1,62 @@
+T1	SINTOMA 172 194	excitación psicomotriz
+T2	SINTOMA 196 212	confusión mental
+T3	SINTOMA 215 236	pensamientos suicidas
+T4	SINTOMA 381 417	excitación creciente y hablaba mucho
+T5	SINTOMA 454 473	bebía excesivamente
+T6	SINTOMA 603 611	inquieto
+T7	SINTOMA 627 643	ánimo cambiantes
+T8	SINTOMA 710 730	planes extravagantes
+T9	SINTOMA 744 755	hiperactivo
+T10	SINTOMA 863 868	culpa
+T11	SINTOMA 871 892	pensamientos suicidas
+T12	SINTOMA 1053 1076	habilidades telepáticas
+T13	SINTOMA 2108 2116	enérgico
+T14	SINTOMA 2310 2318	perplejo
+T15	SINTOMA 2321 2328	ansioso
+T16	SINTOMA 2342 2365	completamente orientado
+T17	SINTOMA 2397 2410	fuga de ideas
+T18	SINTOMA 2446 2469	alucinaciones auditivas
+T19	SINTOMA 3081 3090	irritable
+T20	SINTOMA 3144 3157	fuga de ideas
+T21	SINTOMA 3295 3304	psicótico
+T22	NEG 684 687	sin
+T23	NSCO 688 693	causa
+T24	UNC 694 702	aparente
+T25	USCO 702 730	, tenía planes extravagantes
+T26	NEG 2723 2725	no
+T27	NSCO 2726 2738	identificado
+T28	NEG 3039 3041	no
+T29	NSCO 3042 3056	eran los de él
+T30	NEG 3284 3286	no
+T31	NSCO 3287 3304	parecía psicótico
+T32	FARMACO 3198 3209	haloperidol
+T33	ORG_VIVO 3 11	paciente
+T34	ORG_VIVO 18 26	vendedor
+T35	ORG_VIVO 61 66	hijos
+T36	ORG_VIVO 316 324	personal
+T37	ORG_VIVO 434 439	gente
+T38	ORG_VIVO 516 521	mujer
+T39	ORG_VIVO 908 913	gente
+T40	ORG_VIVO 1016 1024	personas
+T41	ORG_VIVO 1490 1497	colegas
+T42	ORG_VIVO 1522 1544	director de la empresa
+T43	ORG_VIVO 1688 1696	paciente
+T44	ORG_VIVO 1701 1705	hijo
+T45	ORG_VIVO 1716 1721	padre
+T46	ORG_VIVO 1871 1901	empleado en una empresa textil
+T47	ORG_VIVO 1936 1941	hijos
+T48	ORG_VIVO 2007 2014	familia
+T49	ORG_VIVO 2244 2255	empleadores
+T50	ORG_VIVO 2293 2301	paciente
+T51	ORG_VIVO 2937 2945	personas
+T52	ORG_VIVO 3222 3230	paciente
+T53	ORG_VIVO 3371 3378	familia
+T54	ENFERMEDAD 151 166	crisis nerviosa
+T55	ENFERMEDAD 2552 2558	muerte
+T56	PACIENTE-PROFESION 18 26	vendedor
+T57	PACIENTE-PROFESION 1522 1544	director de la empresa
+T58	FAMILIAR-PROFESION 1726 1735	jardinero
+T59	PACIENTE-PROFESION 1815 1846	vendedor en la industria textil
+T60	PACIENTE-PROFESION 1871 1901	empleado en una empresa textil
+T61	OTROS-SITUACION_LABORAL 2244 2255	empleadores
+T62	OTROS-SITUACION_LABORAL 1490 1497	colegas

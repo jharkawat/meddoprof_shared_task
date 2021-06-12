@@ -1,0 +1,10 @@
+
+Se	O
+extraen	O
+hemocultivos	O
+y	O
+se	O
+solicita	O
+ecocardiograma	O
+transtorácico	O
+.	O

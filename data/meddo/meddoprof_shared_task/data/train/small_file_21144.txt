@@ -1,0 +1,23 @@
+
+No	O
+se	O
+sospechó	O
+de	O
+ninguna	O
+alteración	O
+senso	O
+-	O
+perceptiva	O
+o	O
+trastorno	O
+delirante	O
+,	O
+y	O
+su	O
+estado	O
+de	O
+ánimo	O
+parecía	O
+ser	O
+neutro	O
+.	O

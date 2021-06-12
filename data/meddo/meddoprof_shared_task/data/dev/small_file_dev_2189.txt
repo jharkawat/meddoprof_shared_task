@@ -1,0 +1,15 @@
+
+A	O
+los	O
+7	O
+meses	O
+de	O
+gestación	O
+,	O
+presenta	O
+parto	O
+eutócico	O
+,	O
+sin	O
+complicaciones	O
+.	O

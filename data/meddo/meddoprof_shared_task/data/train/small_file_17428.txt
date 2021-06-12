@@ -1,0 +1,19 @@
+
+A	O
+los	O
+10	O
+días	O
+vuelve	O
+a	O
+Urgencias	O
+con	O
+clínica	O
+similar	O
+,	O
+resolviéndose	O
+el	O
+cuadro	O
+clínico	O
+en	O
+horas	O
+.	O

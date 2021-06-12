@@ -1,0 +1,17 @@
+
+APP	O
+:	O
+Niega	O
+diabetes	O
+e	O
+hipertensión	O
+,	O
+niega	O
+traumáticos	O
+,	O
+alérgicos	O
+,	O
+quirúrgicos	O
+,	O
+transfusionales	O
+.	O

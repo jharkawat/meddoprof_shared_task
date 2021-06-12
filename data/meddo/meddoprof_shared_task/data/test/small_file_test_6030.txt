@@ -1,0 +1,13 @@
+
+Melanoma	O
+primario	O
+de	O
+mucosa	O
+esofágica	O
+,	O
+enfermedad	O
+avanzada	O
+(	O
+metastasis	O
+hepaticas	O
+)	O

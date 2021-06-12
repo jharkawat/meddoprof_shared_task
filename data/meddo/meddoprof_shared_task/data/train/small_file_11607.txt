@@ -1,0 +1,11 @@
+
+24	O
+horas	O
+después	O
+mejora	O
+la	O
+cefalea	O
+y	O
+el	O
+lenguaje	O
+.	O

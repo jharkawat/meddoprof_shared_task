@@ -1,0 +1,17 @@
+
+Dolor	O
+lumbar	O
+,	O
+alternando	O
+ambos	O
+lados	O
+,	O
+de	O
+forma	O
+episódica	O
+,	O
+que	O
+cede	O
+con	O
+ibuprofeno	O
+.	O

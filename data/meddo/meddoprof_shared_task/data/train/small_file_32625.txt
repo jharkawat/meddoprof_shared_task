@@ -1,0 +1,17 @@
+
+Acepta	O
+ingreso	O
+voluntario	O
+con	O
+la	O
+condición	O
+de	O
+que	O
+su	O
+hermana	O
+la	O
+visite	O
+todos	O
+los	O
+días	O
+.	O

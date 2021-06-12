@@ -1,0 +1,10 @@
+
+Se	O
+suspende	O
+TEC	O
+y	O
+se	O
+realiza	O
+seguimiento	O
+electroencefalográfico	O
+.	O

@@ -1,0 +1,24 @@
+
+Verbalizaba	O
+ideación	O
+delirante	O
+de	O
+celotipia	O
+con	O
+importante	O
+repercusión	O
+emocional	O
+e	O
+ideación	O
+delirante	O
+de	O
+perjuicio	O
+y	O
+robo	O
+hacia	O
+personas	O
+ajenas	O
+y	O
+su	O
+marido	O
+.	O

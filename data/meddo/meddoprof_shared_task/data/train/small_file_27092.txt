@@ -1,0 +1,7 @@
+
+Nivel	O
+socio	O
+-	O
+económico	O
+elevado	O
+.	O

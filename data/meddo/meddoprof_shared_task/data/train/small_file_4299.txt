@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+se	O
+comprometerá	O
+a	O
+tener	O
+tiempo	O
+para	O
+ella	O
+y	O
+cuidarse	O
+.	O

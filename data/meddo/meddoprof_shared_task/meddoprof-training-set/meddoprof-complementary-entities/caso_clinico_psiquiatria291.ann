@@ -1,0 +1,40 @@
+T1	SINTOMA 163 206	alteraciones conductuales en la vía pública
+T2	SINTOMA 898 931	sintomatología psicótica positiva
+T3	SINTOMA 1001 1024	alucinaciones auditivas
+T4	SINTOMA 1676 1686	leucopenia
+T5	PROCEDIMIENTO 554 574	radiografía de tórax
+T6	PROCEDIMIENTO 1428 1437	hemograma
+T7	NEG 58 61	sin
+T8	NSCO 62 109	antecedentes psiquiátricos ni somáticos previos
+T9	NEG 1720 1735	Se suspendió de
+T10	NSCO 1736 1765	forma inmediata la olanzapina
+T11	NEG 1969 1979	suspendido
+T12	NSCO 1980 2050	el tratamiento con olanzapina el RLT había ascendido hasta 3,66x103/ul
+T13	NEG 2614 2622	retirado
+T14	NSCO 2623 2636	la olanzapina
+T15	FARMACO 748 759	paracetamol
+T16	FARMACO 1267 1277	olanzapina
+T17	FARMACO 1557 1567	olanzapina
+T18	FARMACO 1570 1581	paracetamol
+T19	FARMACO 1708 1718	olanzapina
+T20	FARMACO 1755 1765	olanzapina
+T21	FARMACO 1794 1805	risperidona
+T22	FARMACO 1860 1871	paracetamol
+T23	FARMACO 1999 2009	olanzapina
+T24	FARMACO 2468 2491	zuclopentixol decanoato
+T25	FARMACO 2561 2572	risperidona
+T26	FARMACO 2626 2636	olanzapina
+T27	FARMACO 2693 2719	zuclopentixol decanoato IM
+T28	FARMACO 2988 2999	risperidona
+T29	FARMACO 3046 3072	zuclopentixol decanoato IM
+T30	ORG_VIVO 19 24	varón
+T31	ORG_VIVO 605 613	paciente
+T32	ORG_VIVO 1153 1161	paciente
+T33	ORG_VIVO 1513 1521	paciente
+T34	ORG_VIVO 2163 2171	paciente
+T35	ORG_VIVO 2384 2392	paciente
+T36	ORG_VIVO 2920 2928	paciente
+T37	ENFERMEDAD 663 718	infección respiratoria de vías altas de etiología viral
+T38	ENFERMEDAD 898 931	sintomatología psicótica positiva
+T39	ENFERMEDAD 1676 1686	leucopenia
+T40	ENFERMEDAD 1689 1700	neutropenia

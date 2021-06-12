@@ -1,0 +1,67 @@
+T1	SINTOMA 491 497	fiebre
+T2	SINTOMA 580 586	fiebre
+T3	SINTOMA 617 628	escalofríos
+T4	SINTOMA 662 672	sudoración
+T5	SINTOMA 728 736	cefaleas
+T6	SINTOMA 739 747	mialgias
+T7	SINTOMA 754 770	punzadas fuertes
+T8	SINTOMA 774 794	limitación funcional
+T9	SINTOMA 807 830	dificultad para caminar
+T10	SINTOMA 841 848	náuseas
+T11	SINTOMA 1170 1204	quebrantamiento del estado general
+T12	SINTOMA 1207 1224	hiperemia cutánea
+T13	SINTOMA 1257 1263	fiebre
+T14	SINTOMA 1386 1392	fiebre
+T15	SINTOMA 1501 1509	exantema
+T16	SINTOMA 1511 1519	enantema
+T17	SINTOMA 1538 1558	edematización facial
+T18	SINTOMA 1639 1647	mialgias
+T19	SINTOMA 1658 1678	impotencia funcional
+T20	SINTOMA 1681 1687	disnea
+T21	SINTOMA 1689 1700	trombopenia
+T22	SINTOMA 1702 1712	leucopenia
+T23	SINTOMA 1717 1728	neutropenia
+T24	SINTOMA 1823 1900	hinchazón de ambas regiones láterocervicales por debajo del ángulo mandibular
+T25	SINTOMA 1903 2016	tumefacción tensa y voluminosa de cuello, ambos hombros y ambos miembros superiores afectando brazos y antebrazos
+T26	PROCEDIMIENTO 150 164	amigdalectomía
+T27	PROCEDIMIENTO 166 173	cesárea
+T28	PROCEDIMIENTO 368 391	profilaxis con Malarone
+T29	PROCEDIMIENTO 871 894	tratamiento antibiótico
+T30	PROCEDIMIENTO 943 964	examen de gota gruesa
+T31	PROCEDIMIENTO 1140 1158	Exploración Física
+T32	PROCEDIMIENTO 2072 2088	biopsia muscular
+T33	PROCEDIMIENTO 2283 2300	gammaglobulina IV
+T34	NEG 20 23	sin
+T35	NSCO 24 57	alergias medicamentosas conocidas
+T36	NEG 109 112	Sin
+T37	NSCO 113 144	antecedentes médicos de interés
+T38	NEG 197 199	no
+T39	NSCO 200 207	refiere
+T40	NEG 551 553	no
+T41	NSCO 554 560	diaria
+T42	NEG 1023 1025	no
+T43	NSCO 1026 1036	falciparum
+T44	NEG 1367 1382	desaparición de
+T45	NSCO 1383 1392	la fiebre
+T46	FARMACO 383 391	Malarone
+T47	FARMACO 899 910	ceftriaxona
+T48	FARMACO 913 924	doxiciclina
+T49	FARMACO 1099 1109	cloroquina
+T50	FARMACO 1112 1122	primaquina
+T51	FARMACO 2203 2221	metil-prednisolona
+T52	FARMACO 2250 2260	prednisona
+T53	ORG_VIVO 0 8	Paciente
+T54	ORG_VIVO 247 270	auxiliar administrativa
+T55	ORG_VIVO 1012 1036	Plasmodium no falciparum
+T56	ORG_VIVO 1037 1043	(vivax
+T57	ORG_VIVO 1043 1050	, ovale
+T58	ORG_VIVO 1050 1060	, malariae
+T59	ORG_VIVO 2342 2350	paciente
+T60	ENFERMEDAD 24 47	alergias medicamentosas
+T61	ENFERMEDAD 998 1060	positiva para Plasmodium no falciparum (vivax, ovale, malariae
+T62	ENFERMEDAD 1522 1536	mucositis oral
+T63	ENFERMEDAD 1702 1712	leucopenia
+T64	ENFERMEDAD 1717 1728	neutropenia
+T65	ENFERMEDAD 1731 1737	anemia
+T66	ENFERMEDAD 2108 2151	miositis necrotizante idiopática/autoinmune
+T67	PACIENTE-PROFESION 247 270	auxiliar administrativa

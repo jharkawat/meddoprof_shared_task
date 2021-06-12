@@ -1,0 +1,19 @@
+
+-	O
+Prevención	O
+de	O
+Recaídas	O
+:	O
+detección	O
+señales	O
+recaída	O
+,	O
+acudir	O
+al	O
+psiquiatra	B-PROFESION
+,	O
+intervención	O
+ante	O
+máximo	O
+estrés	O
+.	O

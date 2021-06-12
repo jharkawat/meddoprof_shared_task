@@ -1,0 +1,8 @@
+
+Vena	O
+cava	O
+inferior	O
+y	O
+pericardio	O
+normales	O
+.	O

@@ -1,0 +1,19 @@
+
+Su	O
+esposa	O
+lo	O
+nota	O
+decaído	O
+,	O
+con	O
+falta	O
+de	O
+ánimo	O
+y	O
+de	O
+iniciativa	O
+para	O
+realizar	O
+cualquier	O
+actividad	O
+.	O

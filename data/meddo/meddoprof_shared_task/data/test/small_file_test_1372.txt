@@ -1,0 +1,25 @@
+
+Mujer	O
+de	O
+35	O
+años	O
+,	O
+sin	O
+enfermedades	O
+sistémicas	O
+y	O
+no	O
+fumadora	O
+,	O
+que	O
+refiere	O
+molestias	O
+en	O
+1	O
+.	O
+4	O
+debido	O
+a	O
+movilidad	O
+excesiva	O
+.	O

@@ -1,0 +1,15 @@
+
+Ingurgitación	O
+de	O
+vasos	O
+perilesionales	O
+que	O
+van	O
+a	O
+drenar	O
+a	O
+venas	O
+porta	O
+y	O
+esplénica	O
+.	O

@@ -1,0 +1,23 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+pancitopenia	O
+secundaria	O
+a	O
+déficit	O
+de	O
+VB12	O
+se	O
+decidió	O
+reposición	O
+vitamínica	O
+y	O
+observación	O
+en	O
+el	O
+Servicio	O
+de	O
+Urgencias	O
+.	O

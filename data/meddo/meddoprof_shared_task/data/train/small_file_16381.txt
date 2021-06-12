@@ -1,0 +1,18 @@
+
+Resto	O
+del	O
+hemograma	O
+,	O
+bioquímica	O
+,	O
+hemostasia	O
+y	O
+gasometría	O
+venosa	O
+dentro	O
+de	O
+los	O
+parámetros	O
+de	O
+normalidad	O
+.	O

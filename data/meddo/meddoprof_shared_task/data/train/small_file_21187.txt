@@ -1,0 +1,11 @@
+
+El	O
+joven	O
+comenzó	O
+tratamiento	O
+en	O
+el	O
+centro	O
+anteriormente	O
+citado	O
+.	O

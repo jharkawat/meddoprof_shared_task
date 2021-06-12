@@ -1,0 +1,6 @@
+
+No	O
+extravasación	O
+del	O
+contraste	O
+.	O

@@ -1,0 +1,7 @@
+
+Allí	O
+ha	O
+permanecido	O
+6	O
+meses	O
+.	O

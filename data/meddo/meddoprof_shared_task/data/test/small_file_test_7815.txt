@@ -1,0 +1,7 @@
+
+Signos	O
+de	O
+enfisema	O
+pulmonar	O
+centroacinar	O
+.	O

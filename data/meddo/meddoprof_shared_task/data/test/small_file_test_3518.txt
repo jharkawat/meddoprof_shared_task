@@ -1,0 +1,19 @@
+
+Intervenciones	O
+quirúrgicas	O
+:	O
+amigdalectomía	O
+,	O
+apendicectomía	O
+,	O
+hernioplastía	O
+inguinal	O
+derecha	O
+,	O
+hemilaminectomía	O
++	O
+discectomía	O
+L3	O
+-	O
+L4	O
+.	O

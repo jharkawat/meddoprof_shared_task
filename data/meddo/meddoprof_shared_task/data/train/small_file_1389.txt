@@ -1,0 +1,7 @@
+
+El	O
+resultado	O
+cosmético	O
+fue	O
+excelente	O
+.	O

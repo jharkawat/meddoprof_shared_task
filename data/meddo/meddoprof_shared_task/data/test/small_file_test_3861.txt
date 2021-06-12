@@ -1,0 +1,10 @@
+
+Al	O
+final	O
+del	O
+tratamiento	O
+se	O
+consolida	O
+con	O
+radioterapia	O
+.	O

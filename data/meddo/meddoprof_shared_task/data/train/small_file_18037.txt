@@ -1,0 +1,20 @@
+
+La	O
+biomicroscopía	O
+del	O
+segmento	O
+anterior	O
+fue	O
+normal	O
+y	O
+el	O
+examen	O
+funduscópico	O
+reveló	O
+un	O
+edema	O
+de	O
+papila	O
+en	O
+OI	O
+.	O

@@ -1,0 +1,108 @@
+T1	SINTOMA 467 479	dolor lumbar
+T2	SINTOMA 783 803	masa retroperitoneal
+T3	SINTOMA 1368 1436	manchas de color café con leche en espalda lumbar, dorsal y escápula
+T4	SINTOMA 2047 2055	Caquexia
+T5	SINTOMA 2158 2202	masa abdominal que ocupa todo el hemiabdomen
+T6	SINTOMA 3550 3562	dolor lumbar
+T7	SINTOMA 4071 4081	postración
+T8	SINTOMA 4084 4099	dolor abdominal
+T9	SINTOMA 4151 4171	masa retroperitoneal
+T10	SINTOMA 4794 4799	dolor
+T11	SINTOMA 4915 4926	falleciendo
+T12	PROCEDIMIENTO 522 542	radiografía de tórax
+T13	PROCEDIMIENTO 731 751	TC-TAP con contraste
+T14	PROCEDIMIENTO 1449 1474	exploración oftalmológica
+T15	PROCEDIMIENTO 1630 1642	fondo de ojo
+T16	PROCEDIMIENTO 1959 1985	Estudio inmunohistoquímico
+T17	PROCEDIMIENTO 2006 2024	Exploración física
+T18	PROCEDIMIENTO 2262 2273	RM cerebral
+T19	PROCEDIMIENTO 2710 2737	administración de contraste
+T20	PROCEDIMIENTO 2804 2828	Estudio de catecolaminas
+T21	PROCEDIMIENTO 3429 3452	quimioterapia paliativa
+T22	PROCEDIMIENTO 3605 3632	analgesia de tercer escalón
+T23	PROCEDIMIENTO 3695 3716	radiocirugía cerebral
+T24	PROCEDIMIENTO 3873 3887	RT holocraneal
+T25	PROCEDIMIENTO 4294 4296	TC
+T26	PROCEDIMIENTO 4376 4395	implantes pleurales
+T27	PROCEDIMIENTO 4712 4735	soporte con corticoides
+T28	PROCEDIMIENTO 4738 4756	infusor subcutáneo
+T29	PROCEDIMIENTO 4856 4874	sedación paliativa
+T30	NEG 153 156	Sin
+T31	NSCO 157 188	antecedentes médicos de interés
+T32	NEG 190 192	No
+T33	NSCO 193 219	refiere consumo de tóxicos
+T34	UNC 864 879	compatibles con
+T35	USCO 880 932	neurofibromas a nivel de mediastino superior derecho
+T36	UNC 1016 1024	sospecha
+T37	USCO 1025 1060	clínica de neurofibromatosis tipo 1
+T38	UNC 1923 1937	compatible con
+T39	USCO 1938 1957	sarcoma fusocelular
+T40	NEG 1995 2003	negativo
+T41	NEG 2100 2103	sin
+T42	NSCO 2104 2110	soplos
+T43	NEG 2116 2119	sin
+T44	NSCO 2120 2140	ruidos sobreañadidos
+T45	UNC 2421 2436	compatibles con
+T46	USCO 2437 2459	neurofibroma del V par
+T47	UNC 2758 2765	podrían
+T48	USCO 2766 2802	corresponder a lesiones metastásicas
+T49	UNC 3068 3076	sospecha
+T50	USCO 3077 3208	clínica de neurofibromatosis tipo I asociada a la presencia de sarcoma retroperitoneal pleomórfico de alto grado con inmunofenotipo
+T51	UNC 3209 3223	compatible con
+T52	USCO 3224 3338	tumor maligno de vaina nerviosa periférica estadio IV por la presencia de metástasis pulmonares en suelta de globo
+T53	NEG 3729 3741	se desestimó
+T54	NSCO 3742 3787	por progresión de enfermedad a nivel cerebral
+T55	UNC 4245 4256	sospecha de
+T56	USCO 4257 4281	progresión de enfermedad
+T57	FARMACO 2852 2865	Noradrenalina
+T58	FARMACO 3462 3486	doxorrubicina-olaratumab
+T59	FARMACO 4554 4567	antraciclinas
+T60	FARMACO 4761 4776	cloruro mórfico
+T61	ORG_VIVO 10 15	Mujer
+T62	ORG_VIVO 249 257	familiar
+T63	ORG_VIVO 271 287	personal docente
+T64	ORG_VIVO 310 315	Madre
+T65	ORG_VIVO 331 335	hija
+T66	ORG_VIVO 348 358	Familiares
+T67	ORG_VIVO 406 414	paciente
+T68	ORG_VIVO 424 430	médico
+T69	ORG_VIVO 1065 1073	paciente
+T70	ORG_VIVO 1305 1309	hija
+T71	ORG_VIVO 3044 3052	paciente
+T72	ORG_VIVO 3384 3392	paciente
+T73	ORG_VIVO 3857 3865	paciente
+T74	ORG_VIVO 3959 3967	paciente
+T75	ORG_VIVO 4964 4974	familiares
+T76	ENFERMEDAD 91 133	sarcoma pleomórfico de alto grado avanzado
+T77	ENFERMEDAD 554 572	nódulos pulmonares
+T78	ENFERMEDAD 680 703	síndrome constitucional
+T79	ENFERMEDAD 783 803	masa retroperitoneal
+T80	ENFERMEDAD 880 924	neurofibromas a nivel de mediastino superior
+T81	ENFERMEDAD 934 998	agujero de conjunción T10-T11 derecho, y pared torácica anterior
+T82	ENFERMEDAD 1036 1060	neurofibromatosis tipo 1
+T83	ENFERMEDAD 1167 1193	neurofibromas en el hombro
+T84	ENFERMEDAD 1240 1277	neurofibroma profundo en el antebrazo
+T85	ENFERMEDAD 1560 1586	ptosis izquierda congénita
+T86	ENFERMEDAD 1592 1617	nódulo de Lish en el iris
+T87	ENFERMEDAD 1773 1797	proliferación neoplásica
+T88	ENFERMEDAD 1938 1957	sarcoma fusocelular
+T89	ENFERMEDAD 2047 2055	Caquexia
+T90	ENFERMEDAD 2293 2350	Lesión fusiforme que sigue el recorrido del V par craneal
+T91	ENFERMEDAD 2437 2459	neurofibroma del V par
+T92	ENFERMEDAD 2544 2600	lesión en la vertiente postero-izquierda del mesencéfalo
+T93	ENFERMEDAD 2781 2802	lesiones metastásicas
+T94	ENFERMEDAD 3088 3112	neurofibromatosis tipo I
+T95	ENFERMEDAD 3140 3163	sarcoma retroperitoneal
+T96	ENFERMEDAD 3224 3266	tumor maligno de vaina nerviosa periférica
+T97	ENFERMEDAD 3298 3338	metástasis pulmonares en suelta de globo
+T98	ENFERMEDAD 3345 3366	metástasis cerebrales
+T99	ENFERMEDAD 3760 3787	enfermedad a nivel cerebral
+T100	ENFERMEDAD 3815 3834	lesiones cerebrales
+T101	ENFERMEDAD 4151 4171	masa retroperitoneal
+T102	ENFERMEDAD 4200 4226	síndrome caquexia-anorexia
+T103	ENFERMEDAD 4352 4373	metástasis pulmonares
+T104	ENFERMEDAD 4376 4395	implantes pleurales
+T105	ENFERMEDAD 4461 4480	enfermedad pulmonar
+T106	ENFERMEDAD 4529 4567	enfermedad refractaria a antraciclinas
+T107	SANITARIO-PROFESION 424 430	médico
+T108	PACIENTE-PROFESION 258 287	Trabajaba de personal docente

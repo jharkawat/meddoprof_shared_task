@@ -1,0 +1,15 @@
+
+ANCA	O
+,	O
+ANA	O
+,	O
+FR	O
+,	O
+antiCCP	O
+,	O
+HLA	O
+B27	O
+,	O
+B51	O
+negativos	O
+.	O

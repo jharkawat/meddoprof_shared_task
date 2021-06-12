@@ -1,0 +1,20 @@
+
+Diaz	O
+tenía	O
+hipertensión	O
+,	O
+hiperlipidernia	O
+y	O
+antecedentes	O
+de	O
+obstrucción	O
+coronaria	O
+por	O
+los	O
+que	O
+la	O
+habían	O
+implantado	O
+un	O
+stent	O
+.	O

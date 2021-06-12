@@ -1,0 +1,8 @@
+
+La	O
+Rx	O
+de	O
+tórax	O
+es	O
+normal	O
+.	O

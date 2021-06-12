@@ -1,0 +1,16 @@
+
+Está	O
+hecha	O
+de	O
+concreto	O
+revestidode	O
+yeso	O
+y	O
+pintura	O
+,	O
+además	O
+el	O
+techo	O
+está	O
+impermeabilizado	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+se	O
+palpan	O
+adenopatías	O
+periféricas	O
+ni	O
+bocio	O
+.	O

@@ -1,0 +1,7 @@
+
+-	O
+Neutropenia	O
+febril	O
+grado	O
+3	O
+.	O

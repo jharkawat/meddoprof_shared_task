@@ -1,0 +1,25 @@
+
+En	O
+la	O
+exploración	O
+física	O
+al	O
+ingreso	O
+estaba	O
+hipotenso	O
+,	O
+aunque	O
+bien	O
+perfundido	O
+e	O
+hidratado	O
+,	O
+sin	O
+datos	O
+de	O
+sepsis	O
+,	O
+ni	O
+adenopatías	O
+periféricas	O
+.	O

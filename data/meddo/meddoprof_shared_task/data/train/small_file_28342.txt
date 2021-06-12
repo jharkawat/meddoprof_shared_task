@@ -1,0 +1,20 @@
+
+Durante	O
+los	O
+8	O
+meses	O
+que	O
+lleva	O
+en	O
+seguimiento	O
+ambulatorio	O
+,	O
+asiste	O
+a	O
+tratamiento	O
+psicoterapéutico	O
+con	O
+una	O
+periodicidad	O
+mensual	O
+.	O

@@ -1,0 +1,10 @@
+
+Además	O
+fue	O
+vacunado	O
+de	O
+tuberculosis	O
+en	O
+la	O
+infancia	O
+.	O

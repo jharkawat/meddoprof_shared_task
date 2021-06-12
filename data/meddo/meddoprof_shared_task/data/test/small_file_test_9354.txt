@@ -1,0 +1,16 @@
+
+En	O
+noviembre	O
+de	O
+2012	O
+se	O
+le	O
+practica	O
+una	O
+histerectomía	O
+,	O
+doble	O
+anexectomía	O
+y	O
+omentectomía	O
+.	O

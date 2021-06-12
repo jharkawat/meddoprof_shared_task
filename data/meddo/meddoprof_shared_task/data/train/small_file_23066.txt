@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+continua	O
+consumiendo	O
+y	O
+con	O
+el	O
+mismo	O
+estado	O
+de	O
+ánimo	O
+.	O

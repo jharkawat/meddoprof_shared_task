@@ -1,0 +1,25 @@
+
+El	O
+informe	O
+definitivo	O
+del	O
+cultivo	O
+de	O
+esputo	O
+refirió	O
+el	O
+aislamiento	O
+simultáneo	O
+de	O
+Serratia	O
+plymuthica	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+sustituyó	O
+claritromicina	O
+por	O
+levofloxacino	O
+.	O

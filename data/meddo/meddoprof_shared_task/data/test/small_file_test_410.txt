@@ -1,0 +1,10 @@
+
+Fecha	O
+de	O
+ingreso	O
+:	O
+05	O
+-	O
+11	O
+-	O
+12	O

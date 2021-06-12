@@ -1,0 +1,20 @@
+
+Comentó	O
+que	O
+anotaría	O
+en	O
+su	O
+documentación	O
+personal	O
+que	O
+el	O
+equipo	B-PROFESION
+investigador	I-PROFESION
+se	O
+había	O
+negado	O
+a	O
+entregarle	O
+los	O
+formularios	O
+.	O

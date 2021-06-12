@@ -1,0 +1,12 @@
+
+No	O
+había	O
+afectación	O
+de	O
+mucosas	O
+ni	O
+de	O
+palmas	O
+ni	O
+plantas	O
+.	O

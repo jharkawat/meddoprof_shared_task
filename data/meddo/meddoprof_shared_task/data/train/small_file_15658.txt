@@ -1,0 +1,16 @@
+
+•	O
+Electrocardiograma	O
+:	O
+arritmia	O
+sinusal	O
+con	O
+frecuencia	O
+cardiaca	O
+variable	O
+entre	O
+45	O
+y	O
+60	O
+lpm	O
+.	O

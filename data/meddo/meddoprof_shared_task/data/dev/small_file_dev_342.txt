@@ -1,0 +1,23 @@
+
+En	O
+los	O
+últimos	O
+años	O
+,	O
+las	O
+manifestaciones	O
+sintomáticas	O
+son	O
+mínimas	O
+y	O
+,	O
+estas	O
+,	O
+las	O
+identifica	O
+como	O
+síntomas	O
+de	O
+la	O
+enfermedad	O
+.	O

@@ -1,0 +1,11 @@
+
+Traqueostomía	O
+con	O
+abundante	O
+contenido	O
+mucoso	O
+sin	O
+datos	O
+de	O
+sobreinfección	O
+.	O

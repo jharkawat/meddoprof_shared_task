@@ -1,0 +1,13 @@
+
+A	O
+la	O
+exploración	O
+psicopatológica	O
+encontramos	O
+fenómenos	O
+de	O
+ecolalia	O
+y	O
+ecopraxia	O
+aislados	O
+.	O

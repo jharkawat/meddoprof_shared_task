@@ -1,0 +1,23 @@
+
+En	O
+ese	O
+momento	O
+el	O
+paciente	O
+estaba	O
+recibiendo	O
+como	O
+tratamiento	O
+olanzapina	O
+y	O
+paracetamol	O
+,	O
+iniciados	O
+ambos	O
+fármacos	O
+el	O
+primer	O
+día	O
+de	O
+ingreso	O
+.	O

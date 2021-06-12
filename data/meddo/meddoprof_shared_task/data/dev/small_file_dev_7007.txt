@@ -1,0 +1,26 @@
+
+Los	O
+tiempos	O
+de	O
+coagulación	O
+estaban	O
+alargados	O
+respecto	O
+al	O
+control	O
+(	O
+TP	O
+:	O
+1	O
+,	O
+18	O
+veces	O
+;	O
+TTPA	O
+:	O
+1	O
+,	O
+25	O
+veces	O
+)	O
+.	O

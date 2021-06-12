@@ -1,0 +1,23 @@
+
+Se	O
+ordena	O
+examen	O
+parasitológico	O
+de	O
+heces	O
+,	O
+donde	O
+se	O
+observan	O
+formas	O
+vacuoladas	O
+de	O
+Blastocystis	O
+hominis	O
+(	O
+No	O
+se	O
+recomendó	O
+tratamiento	O
+)	O
+.	O

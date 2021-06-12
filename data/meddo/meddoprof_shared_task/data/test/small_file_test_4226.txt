@@ -1,0 +1,8 @@
+
+VSG	O
+19	O
+1	O
+.	O
+a	O
+hora	O
+.	O

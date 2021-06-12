@@ -1,0 +1,18 @@
+
+Ingresó	O
+en	O
+la	O
+unidad	O
+de	O
+agudos	O
+por	O
+presentar	O
+alteraciones	O
+de	O
+la	O
+conducta	O
+en	O
+un	O
+marco	O
+confusional	O
+.	O

@@ -1,0 +1,16 @@
+
+Constitucional	O
+:	O
+refiere	O
+debilidad	O
+general	O
+,	O
+niega	O
+perdida	O
+o	O
+ganancia	O
+de	O
+peso	O
+o	O
+fiebre	O
+.	O

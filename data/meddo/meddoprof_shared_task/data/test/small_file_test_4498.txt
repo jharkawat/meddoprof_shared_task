@@ -1,0 +1,16 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+betabloqueantes	O
+(	O
+atenolol	O
+50	O
+mg	O
+c	O
+/	O
+12	O
+horas	O
+)	O
+.	O

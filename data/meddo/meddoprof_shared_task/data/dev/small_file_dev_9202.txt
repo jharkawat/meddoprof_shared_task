@@ -1,0 +1,15 @@
+
+Una	O
+causa	O
+frecuente	O
+de	O
+encefalitis	O
+esporádica	O
+es	O
+el	O
+virus	O
+herpes	O
+simple	O
+tipo	O
+1	O
+.	O

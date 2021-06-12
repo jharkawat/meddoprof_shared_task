@@ -1,0 +1,25 @@
+
+La	O
+lesión	O
+presenta	O
+márgenes	O
+bien	O
+definidos	O
+y	O
+contacta	O
+con	O
+I	O
+,	O
+II	O
+,	O
+III	O
+arcos	O
+costales	O
+izquierdos	O
+,	O
+protruyendo	O
+en	O
+los	O
+espacios	O
+intercostales	O
+.	O

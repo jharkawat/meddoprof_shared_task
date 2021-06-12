@@ -1,0 +1,25 @@
+
+Antecedentes	O
+psiquiátricos	O
+:	O
+el	O
+primer	O
+contacto	O
+con	O
+Salud	O
+Mental	O
+ocurre	O
+en	O
+1991	O
+(	O
+cuando	O
+la	O
+paciente	O
+tiene	O
+36	O
+años	O
+)	O
+por	O
+sintomatología	O
+depresiva	O
+.	O

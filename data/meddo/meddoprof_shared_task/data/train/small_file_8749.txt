@@ -1,0 +1,8 @@
+
+Citología	O
+negativa	O
+para	O
+células	O
+tumorales	O
+malignas	O
+.	O

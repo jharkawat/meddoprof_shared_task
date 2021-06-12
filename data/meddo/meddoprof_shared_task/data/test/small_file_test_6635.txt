@@ -1,0 +1,23 @@
+
+A	O
+la	O
+vista	O
+de	O
+los	O
+resultados	O
+de	O
+las	O
+pruebas	O
+de	O
+imagen	O
+se	O
+inicia	O
+terapia	O
+corticoide	O
+y	O
+se	O
+suspende	O
+el	O
+nuevo	O
+ciclo	O
+.	O

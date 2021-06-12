@@ -1,0 +1,20 @@
+
+Pruebas	O
+alérgicas	O
+mediante	O
+prick	O
+-	O
+prick	O
+con	O
+con	O
+atún	O
+(	O
+lomo	O
+y	O
+ventresca	O
+)	O
+y	O
+carne	O
+:	O
+negativo	O
+.	O

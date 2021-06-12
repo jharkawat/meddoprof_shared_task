@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+decide	O
+retirar	O
+la	O
+medicación	O
+produciéndose	O
+una	O
+recaída	O
+en	O
+el	O
+consumo	O
+de	O
+heroína	O
+.	O

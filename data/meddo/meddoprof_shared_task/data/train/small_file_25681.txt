@@ -1,0 +1,6 @@
+
+Esquizofrenia	O
+y	O
+psicosis	O
+relacionadas	O
+.	O

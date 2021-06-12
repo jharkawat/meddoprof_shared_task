@@ -1,0 +1,12 @@
+
+Sin	O
+embargo	O
+su	O
+esposa	O
+impidió	O
+que	O
+este	O
+hábito	O
+se	O
+fomentara	O
+.	O

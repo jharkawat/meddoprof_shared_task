@@ -1,0 +1,10 @@
+
+No	O
+se	O
+encuentran	O
+problemas	O
+para	O
+comenzar	O
+el	O
+tratamiento	O
+.	O

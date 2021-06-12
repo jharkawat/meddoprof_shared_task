@@ -1,0 +1,10 @@
+
+No	O
+refiere	O
+tener	O
+amistades	O
+ni	O
+apenas	O
+relaciones	O
+sociales	O
+.	O

@@ -1,0 +1,25 @@
+
+Adenosin	O
+desaminasa	O
+en	O
+líquido	O
+cefalorraquídeo	O
+3	O
+.	O
+5	O
+U	O
+/	O
+L	O
+(	O
+0	O
+.	O
+00	O
+-	O
+9	O
+.	O
+00	O
+U	O
+/	O
+L	O
+)	O
+.	O

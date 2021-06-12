@@ -1,0 +1,24 @@
+
+Pancitopenia	O
+con	O
+3040	O
+leucocitos	O
+/	O
+mm3	O
+con	O
+1830	O
+PMN	O
+,	O
+hemoglobina	O
+8	O
+.	O
+1	O
+mg	O
+/	O
+dL	O
+,	O
+57000	O
+plaquetas	O
+/	O
+mm3	O
+.	O

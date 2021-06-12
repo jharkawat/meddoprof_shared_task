@@ -1,0 +1,13 @@
+
+Retomó	O
+el	O
+tratamiento	O
+por	O
+indicación	O
+de	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+.	O

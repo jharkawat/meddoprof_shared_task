@@ -1,0 +1,20 @@
+
+Actualmente	O
+permanece	O
+en	O
+tratamiento	O
+con	O
+pazopanib	O
+,	O
+con	O
+estabilización	O
+de	O
+la	O
+enfermedad	O
+y	O
+sin	O
+nuevos	O
+episodios	O
+de	O
+hipoglucemia	O
+.	O

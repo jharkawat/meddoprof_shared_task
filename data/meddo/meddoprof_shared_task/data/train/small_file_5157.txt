@@ -1,0 +1,20 @@
+
+Cateterismo	O
+árbol	O
+coronario	O
+con	O
+dominancia	O
+izquierda	O
+con	O
+lesión	O
+trombótica	O
+distal	O
+en	O
+rama	O
+obtusa	O
+marginal	O
+,	O
+aspiran	O
+lesión	O
+trombótica	O
+.	O

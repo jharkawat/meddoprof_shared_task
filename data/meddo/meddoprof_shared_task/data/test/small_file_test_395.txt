@@ -1,0 +1,16 @@
+
+Debido	O
+a	O
+que	O
+no	O
+hay	O
+bases	O
+para	O
+sospechar	O
+de	O
+bacteriemia	O
+no	O
+se	O
+administrarán	O
+antibióticos	O
+.	O

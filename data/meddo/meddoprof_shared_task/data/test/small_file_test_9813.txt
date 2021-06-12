@@ -1,0 +1,21 @@
+
+Durante	O
+la	O
+exploración	O
+física	O
+,	O
+presenta	O
+un	O
+buen	O
+estado	O
+funcional	O
+(	O
+ECOG	O
+0	O
+)	O
+,	O
+sin	O
+hallazgos	O
+de	O
+interés	O
+.	O

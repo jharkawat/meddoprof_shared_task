@@ -1,0 +1,27 @@
+
+En	O
+dicho	O
+ecocardiograma	O
+se	O
+objetiva	O
+una	O
+insuficiencia	O
+mitral	O
+severa	O
+con	O
+sospecha	O
+de	O
+lesiones	O
+tipo	O
+verruga	O
+sobre	O
+los	O
+velos	O
+posterior	O
+y	O
+anterior	O
+de	O
+la	O
+válvula	O
+mitral	O
+.	O

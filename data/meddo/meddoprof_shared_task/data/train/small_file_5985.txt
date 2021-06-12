@@ -1,0 +1,19 @@
+
+Ingresa	O
+en	O
+servicio	O
+de	O
+Urología	O
+,	O
+con	O
+Interconsulta	O
+a	O
+Medicina	O
+Interna	O
+para	O
+completar	O
+estudio	O
+y	O
+tratamiento	O
+anticoagulante	O
+.	O

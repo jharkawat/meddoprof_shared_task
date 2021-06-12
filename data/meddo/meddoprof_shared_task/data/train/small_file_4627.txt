@@ -1,0 +1,21 @@
+
+Debido	O
+a	O
+todo	O
+ello	O
+la	O
+situación	O
+de	O
+la	O
+paciente	O
+se	O
+agravó	O
+mucho	O
+,	O
+con	O
+un	O
+déficit	O
+nutricional	O
+muy	O
+importante	O
+.	O

@@ -1,0 +1,21 @@
+
+Autoinmunidad	O
+:	O
+IgA	O
+,	O
+IgM	O
+,	O
+IgG	O
+,	O
+ANA	O
+,	O
+antiMPO	O
+,	O
+antiPR3	O
+,	O
+anti	O
+membrana	O
+basal	O
+glomerular	O
+negativa	O
+.	O

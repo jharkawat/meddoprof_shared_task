@@ -1,0 +1,20 @@
+
+Por	O
+toxicidad	O
+acumulada	O
+y	O
+respuesta	O
+alcanzada	O
+,	O
+se	O
+decide	O
+parar	O
+el	O
+tratamiento	O
+con	O
+quimioterapia	O
+,	O
+pendiente	O
+de	O
+evolución	O
+.	O

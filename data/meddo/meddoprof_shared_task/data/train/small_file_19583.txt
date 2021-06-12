@@ -1,0 +1,17 @@
+
+Nariz	O
+y	O
+senos	O
+paranasales	O
+:	O
+con	O
+narinas	O
+permeables	O
+,	O
+mucosa	O
+seca	O
+,	O
+tabique	O
+nasal	O
+normal	O
+.	O

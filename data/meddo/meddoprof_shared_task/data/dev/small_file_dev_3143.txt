@@ -1,0 +1,19 @@
+
+En	O
+el	O
+momento	O
+actual	O
+se	O
+encuentra	O
+ingresado	O
+en	O
+la	O
+Unidad	O
+de	O
+Hospitalización	O
+Psiquiátrica	O
+(	O
+primer	O
+ingreso	O
+)	O
+.	O

@@ -1,0 +1,11 @@
+
+Estuvo	O
+un	O
+mes	O
+y	O
+medio	O
+hospitalizada	O
+en	O
+el	O
+servicio	O
+.	O

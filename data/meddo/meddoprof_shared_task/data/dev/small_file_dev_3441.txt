@@ -1,0 +1,8 @@
+
+Lugar	O
+de	O
+Nacimiento	O
+:	O
+Municipio	O
+Marianao	O
+.	O

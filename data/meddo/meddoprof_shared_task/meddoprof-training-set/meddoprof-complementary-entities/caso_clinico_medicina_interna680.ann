@@ -1,0 +1,85 @@
+T1	SINTOMA 284 291	eritema
+T2	SINTOMA 294 322	edema de extremidad superior
+T3	SINTOMA 342 355	dolor intenso
+T4	SINTOMA 412 418	fiebre
+T5	SINTOMA 616 626	artralgias
+T6	SINTOMA 680 700	pérdida de autonomía
+T7	SINTOMA 702 716	desorientación
+T8	SINTOMA 718 738	apraxia de la marcha
+T9	SINTOMA 741 763	incontinencia urinaria
+T10	SINTOMA 828 849	ingurgitación yugular
+T11	SINTOMA 894 911	Abdomen sin masas
+T12	SINTOMA 915 930	visceromegalias
+T13	SINTOMA 960 966	edemas
+T14	SINTOMA 1046 1113	limitación de la flexión palmar y empastamiento desde dedos a axila
+T15	SINTOMA 1130 1139	flictenas
+T16	SINTOMA 1416 1441	alteraciones neurológicas
+T17	SINTOMA 1574 1585	neutrofilia
+T18	SINTOMA 1896 1907	Proteinuria
+T19	PROCEDIMIENTO 851 878	auscultación cardiopulmonar
+T20	PROCEDIMIENTO 1596 1605	hemograma
+T21	PROCEDIMIENTO 1920 1930	Urocultivo
+T22	PROCEDIMIENTO 1933 1945	hemocultivos
+T23	PROCEDIMIENTO 1957 1978	Radiografías de tórax
+T24	PROCEDIMIENTO 2008 2027	Ecografía abdominal
+T25	PROCEDIMIENTO 2054 2064	TC craneal
+T26	PROCEDIMIENTO 2185 2210	gastroscopia con biopsias
+T27	PROCEDIMIENTO 2380 2425	colocación posterior de válvula de derivación
+T28	NEG 408 411	sin
+T29	NSCO 412 418	fiebre
+T30	NEG 420 422	No
+T31	NSCO 423 480	puerta de entrada, contacto con animales ni tierra húmeda
+T32	NEG 515 517	No
+T33	NSCO 518 626	asociaba sintomatología cardiorrespiratoria, digestiva, genitourinaria, afectación conjuntival ni artralgias
+T34	NEG 702 716	desorientación
+T35	NEG 810 812	No
+T36	NSCO 813 849	adenopatías ni ingurgitación yugular
+T37	NEG 879 882	sin
+T38	NSCO 883 892	hallazgos
+T39	NEG 902 905	sin
+T40	NSCO 906 930	masas ni visceromegalias
+T41	NEG 956 959	sin
+T42	NSCO 960 979	edemas ni trombosis
+T43	NEG 1115 1117	No
+T44	NSCO 1118 1166	incisiones, flictenas, costras ni otras lesiones
+T45	UNC 1189 1200	sospecha de
+T46	USCO 1201 1210	celulitis
+T47	NEG 1766 1775	negativas
+T48	NEG 1865 1874	negativos
+T49	NSCO 1920 1945	Urocultivo y hemocultivos
+T50	NEG 1946 1955	negativos
+T51	NEG 2129 2138	negativas
+T52	NEG 2159 2171	inespecífica
+T53	NEG 2250 2259	negativas
+T54	FARMACO 2287 2297	prednisona
+T55	ORG_VIVO 15 23	paciente
+T56	ORG_VIVO 455 463	animales
+T57	ORG_VIVO 492 500	pescados
+T58	ORG_VIVO 631 637	esposa
+T59	ORG_VIVO 1699 1702	VIH
+T60	ORG_VIVO 1704 1707	VHC
+T61	ORG_VIVO 1709 1712	VHB
+T62	ORG_VIVO 1714 1721	sífilis
+T63	ORG_VIVO 1723 1731	Borrelia
+T64	ORG_VIVO 1733 1741	Brucella
+T65	ORG_VIVO 1743 1752	Chlamydia
+T66	ORG_VIVO 1755 1765	Mycoplasma
+T67	ENFERMEDAD 56 77	hipertensión arterial
+T68	ENFERMEDAD 79 89	dislipemia
+T69	ENFERMEDAD 91 104	hiperuricemia
+T70	ENFERMEDAD 106 143	tromboembolismos pulmonares repetidos
+T71	ENFERMEDAD 146 178	hipertensión pulmonar secundaria
+T72	ENFERMEDAD 217 232	enolismo activo
+T73	ENFERMEDAD 786 808	Déficit de autocuidado
+T74	ENFERMEDAD 813 824	adenopatías
+T75	ENFERMEDAD 970 979	trombosis
+T76	ENFERMEDAD 1201 1210	celulitis
+T77	ENFERMEDAD 1293 1349	lesiones inflamatorias similares en otras articulaciones
+T78	ENFERMEDAD 1372 1391	artritis migratoria
+T79	ENFERMEDAD 1397 1413	disfunción renal
+T80	ENFERMEDAD 2029 2052	quistes simples renales
+T81	ENFERMEDAD 2066 2088	dilatación ventricular
+T82	ENFERMEDAD 2144 2171	afección renal inespecífica
+T83	ENFERMEDAD 2216 2237	Enfermedad de Whipple
+T84	ENFERMEDAD 2349 2374	hidrocefalia normotensiva
+T85	ENFERMEDAD 2457 2491	poliartritis migratoria idiopática

@@ -1,0 +1,26 @@
+
+Acude	O
+refiriendo	O
+lesiones	O
+pruriginosas	O
+y	O
+eritematosas	O
+en	O
+ambas	O
+axilas	O
+de	O
+1	O
+mes	O
+de	O
+evolución	O
+y	O
+para	O
+las	O
+que	O
+no	O
+ha	O
+recibido	O
+ningún	O
+tratamiento	O
+previo	O
+.	O

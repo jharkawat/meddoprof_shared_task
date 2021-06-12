@@ -1,0 +1,20 @@
+
+Acude	O
+deambulando	O
+de	O
+forma	O
+autónoma	O
+,	O
+camina	O
+con	O
+ligero	O
+acortamiento	O
+del	O
+paso	O
+,	O
+con	O
+arrastre	O
+de	O
+extremidad	O
+derecha	O
+.	O

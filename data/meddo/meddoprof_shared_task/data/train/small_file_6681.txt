@@ -1,0 +1,10 @@
+
+A	O
+la	O
+dermatoscopia	O
+presentaban	O
+un	O
+patrón	O
+azul	O
+homogéneo	O
+.	O

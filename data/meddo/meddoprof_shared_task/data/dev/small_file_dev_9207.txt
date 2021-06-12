@@ -1,0 +1,24 @@
+
+El	O
+LCR	O
+suele	O
+mostrar	O
+pleocitosis	O
+mononuclear	O
+,	O
+aunque	O
+a	O
+veces	O
+la	O
+reacción	O
+celular	O
+es	O
+atípica	O
+en	O
+fases	O
+tempranas	O
+existiendo	O
+predominio	O
+de	O
+polimorfonucleares	O
+.	O

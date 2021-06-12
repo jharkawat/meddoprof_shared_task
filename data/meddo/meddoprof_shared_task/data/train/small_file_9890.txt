@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+fue	O
+dada	O
+de	O
+alta	O
+completando	O
+tratamiento	O
+antibiótico	O
+de	O
+forma	O
+ambulatoria	O
+con	O
+Amoxicilina	O
+-	O
+clavulánico	O
+.	O

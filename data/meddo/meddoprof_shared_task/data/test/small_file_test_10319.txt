@@ -1,0 +1,8 @@
+
+No	O
+era	O
+tomadora	O
+de	O
+tratamiento	O
+crónico	O
+.	O

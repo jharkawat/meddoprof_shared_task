@@ -1,0 +1,14 @@
+
+Se	O
+siente	O
+molesta	O
+y	O
+poco	O
+tolerante	O
+con	O
+las	O
+demandas	O
+de	O
+los	O
+demás	O
+.	O

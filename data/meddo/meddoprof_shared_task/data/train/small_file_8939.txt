@@ -1,0 +1,13 @@
+
+Inmunoglobulinas	O
+en	O
+rango	O
+normal	O
+,	O
+Complemento	O
+c3	O
+163	O
+mg	O
+/	O
+dl	O
+.	O

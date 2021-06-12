@@ -1,0 +1,8 @@
+
+Tampoco	O
+existía	O
+clínica	O
+similar	O
+en	O
+convivientes	O
+.	O

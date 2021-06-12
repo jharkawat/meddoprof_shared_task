@@ -1,0 +1,18 @@
+
+La	O
+evolución	O
+fue	O
+favorable	O
+,	O
+resolviéndose	O
+la	O
+trombosis	O
+y	O
+siendo	O
+dado	O
+de	O
+alta	O
+el	O
+paciente	O
+asintomático	O
+.	O

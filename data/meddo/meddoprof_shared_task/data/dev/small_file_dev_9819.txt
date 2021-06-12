@@ -1,0 +1,8 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+22	O
+04	O
+1993	O

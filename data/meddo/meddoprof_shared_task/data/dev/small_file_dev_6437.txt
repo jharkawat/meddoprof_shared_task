@@ -1,0 +1,15 @@
+
+Si	O
+se	O
+forman	O
+gomas	O
+sifilíticos	O
+es	O
+más	O
+probable	O
+el	O
+desarrollo	O
+de	O
+crisis	O
+convulsivas	O
+.	O

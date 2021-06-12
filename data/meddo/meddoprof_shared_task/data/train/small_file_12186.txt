@@ -1,0 +1,15 @@
+
+Se	O
+solicitó	O
+valoración	O
+por	O
+cirugía	O
+realizándose	O
+hemicolectomía	O
+izquierda	O
+con	O
+anastomosis	O
+término	O
+-	O
+terminal	O
+.	O

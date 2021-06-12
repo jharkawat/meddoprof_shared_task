@@ -1,0 +1,48 @@
+T1	SINTOMA 3138 3145	euforia
+T2	UNC 890 896	parece
+T3	USCO 897 923	estar respondiendo a voces
+T4	NEG 941 943	Ni
+T5	NSCO 944 972	se lava ni se cambia de ropa
+T6	NEG 1206 1208	No
+T7	NSCO 1209 1236	es capaz de entender nada!"
+T8	NEG 1477 1479	no
+T9	NSCO 1480 1501	presenta alteraciones
+T10	NEG 1549 1551	no
+T11	NSCO 1552 1584	puede concentrarse en el colegio
+T12	UNC 2949 2955	parece
+T13	USCO 2956 2988	estar disfrutando de sus "voces"
+T14	NEG 3253 3256	Sin
+T15	NSCO 3257 3268	diagnóstico
+T16	NEG 3278 3281	Sin
+T17	NSCO 3282 3293	diagnóstico
+T18	ORG_VIVO 88 95	hermano
+T19	ORG_VIVO 159 165	padres
+T20	ORG_VIVO 245 252	vecinos
+T21	ORG_VIVO 374 384	psiquiatra
+T22	ORG_VIVO 442 448	Cairon
+T23	ORG_VIVO 462 468	padres
+T24	ORG_VIVO 482 490	hermanos
+T25	ORG_VIVO 628 633	niños
+T26	ORG_VIVO 685 693	hermanos
+T27	ORG_VIVO 702 708	chicos
+T28	ORG_VIVO 806 813	hermano
+T29	ORG_VIVO 1060 1067	persona
+T30	ORG_VIVO 1269 1274	chico
+T31	ORG_VIVO 1305 1312	hermano
+T32	ORG_VIVO 1342 1352	vecindario
+T33	ORG_VIVO 1384 1391	vecinos
+T34	ORG_VIVO 2163 2170	hermano
+T35	ORG_VIVO 2469 2475	médico
+T36	ORG_VIVO 2674 2680	médico
+T37	ORG_VIVO 3786 3796	familiares
+T38	ENFERMEDAD 3206 3244	Trastorno esquizoafectivo tipo bipolar
+T39	ENFERMEDAD 3546 3559	Esquizofrenia
+T40	ENFERMEDAD 3560 3578	- Psicosis atípica
+T41	ENFERMEDAD 3582 3625	Trastorno depresivo con síntomas psicóticos
+T42	ENFERMEDAD 3629 3646	Trastorno bipolar
+T43	ENFERMEDAD 3650 3679	Trastorno del estado de ánimo
+T44	ENFERMEDAD 3680 3711	- Consumo de sustancias tóxicas
+T45	SANITARIO-PROFESION 374 384	psiquiatra
+T46	FAMILIAR-PROFESION 166 199	tienen una tienda de alimentación
+T47	SANITARIO-PROFESION 2469 2475	médico
+T48	SANITARIO-PROFESION 2674 2680	médico

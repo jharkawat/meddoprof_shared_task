@@ -1,0 +1,31 @@
+T1	SINTOMA 175 193	mal estado general
+T2	SINTOMA 195 209	fiebre elevada
+T3	SINTOMA 211 258	impotencia funcional de extremidades superiores
+T4	SINTOMA 263 299	dolor e inflamación en ambos hombros
+T5	SINTOMA 302 308	mareos
+T6	SINTOMA 379 384	rubor
+T7	SINTOMA 387 409	tumefacción fluctuante
+T8	SINTOMA 414 434	dolor a la palpación
+T9	SINTOMA 461 470	hipotenso
+T10	SINTOMA 472 484	taquicárdico
+T11	SINTOMA 664 689	alteración de coagulación
+T12	PROCEDIMIENTO 96 108	inyección IM
+T13	PROCEDIMIENTO 315 333	exploración física
+T14	PROCEDIMIENTO 827 845	drogas vasoactivas
+T15	PROCEDIMIENTO 980 992	hemocultivos
+T16	PROCEDIMIENTO 1095 1131	drenaje de ambos abscesos deltoideos
+T17	FARMACO 140 152	vitamina B12
+T18	FARMACO 848 861	antibiterapia
+T19	FARMACO 886 903	amoxi-clavulánico
+T20	FARMACO 905 919	ciprofloxacino
+T21	FARMACO 922 933	cloxacilina
+T22	ORG_VIVO 0 8	Paciente
+T23	ORG_VIVO 439 447	paciente
+T24	ORG_VIVO 1014 1053	Staohylococus aureus meticilin sensible
+T25	ORG_VIVO 1078 1086	paciente
+T26	ORG_VIVO 1145 1153	paciente
+T27	ENFERMEDAD 56 75	hipercolesterolemia
+T28	ENFERMEDAD 713 726	shock séptico
+T29	ENFERMEDAD 1112 1131	abscesos deltoideos
+T30	ENFERMEDAD 1182 1216	tromboflebitis en miembro superior
+T31	PACIENTE-PROFESION 20 30	culturista

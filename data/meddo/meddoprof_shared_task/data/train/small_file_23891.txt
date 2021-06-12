@@ -1,0 +1,6 @@
+
+Empeoramiento	O
+vespertino	O
+-	O
+nocturno	O
+.	O

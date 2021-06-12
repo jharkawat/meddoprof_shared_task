@@ -1,0 +1,10 @@
+
+Compulsiones	O
+por	O
+lavarse	O
+las	O
+manos	O
+a	O
+cada	O
+momento	O
+.	O

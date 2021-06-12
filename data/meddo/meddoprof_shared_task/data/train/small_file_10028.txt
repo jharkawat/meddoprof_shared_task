@@ -1,0 +1,17 @@
+
+Es	O
+tratada	O
+con	O
+hidroxicloroquina	O
+(	O
+HCQ	O
+)	O
+200mg	O
+/	O
+24h	O
+,	O
+con	O
+buena	O
+evolución	O
+clínica	O
+.	O

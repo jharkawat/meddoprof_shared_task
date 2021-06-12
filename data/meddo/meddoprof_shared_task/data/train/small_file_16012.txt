@@ -1,0 +1,15 @@
+
+Paresia	O
+facial	O
+bilateral	O
+,	O
+con	O
+afectación	O
+del	O
+cierre	O
+palpebral	O
+y	O
+fenómeno	O
+de	O
+Bell	O
+.	O

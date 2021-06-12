@@ -1,0 +1,8 @@
+
+Es	O
+egresada	O
+para	O
+continuar	O
+vigilancia	O
+ambulatoria	O
+.	O

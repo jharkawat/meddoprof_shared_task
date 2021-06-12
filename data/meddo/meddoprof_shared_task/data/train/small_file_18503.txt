@@ -1,0 +1,21 @@
+
+Trece	O
+horas	O
+después	O
+,	O
+fue	O
+reintervenido	O
+por	O
+hipotensión	O
+y	O
+anemia	O
+,	O
+drenándose	O
+un	O
+hemoperitoneo	O
+de	O
+3	O
+.	O
+000	O
+cc	O
+.	O

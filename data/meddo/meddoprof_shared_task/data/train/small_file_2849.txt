@@ -1,0 +1,7 @@
+
+Insuficiencia	O
+cardiaca	O
+y	O
+cardiopatía	O
+hipertensiva	O
+.	O

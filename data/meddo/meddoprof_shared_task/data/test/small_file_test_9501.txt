@@ -1,0 +1,19 @@
+
+Expresión	O
+de	O
+proteína	O
+acida	O
+fibrilar	O
+glial	O
+(	O
+PAFG	O
+)	O
+,	O
+S	O
+-	O
+100	O
+,	O
+sinaptofisina	O
+y	O
+EMA	O
+.	O

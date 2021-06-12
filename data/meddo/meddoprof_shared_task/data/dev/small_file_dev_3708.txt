@@ -1,0 +1,19 @@
+
+Una	O
+tía	O
+materna	O
+es	O
+epiléptica	O
+y	O
+una	O
+de	O
+sus	O
+hijas	O
+recibe	O
+tratamiento	O
+psiquiátrico	O
+por	O
+episodios	O
+depresivos	O
+recurrentes	O
+.	O

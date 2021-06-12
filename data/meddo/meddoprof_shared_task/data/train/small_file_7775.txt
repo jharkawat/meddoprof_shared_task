@@ -1,0 +1,24 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+calcipotriol	O
+/	O
+betametasona	O
+50	O
+mcg	O
+/	O
+0	O
+,	O
+5	O
+mg	O
+/	O
+g	O
+con	O
+buena	O
+evolución	O
+de	O
+la	O
+sintomatología	O
+.	O

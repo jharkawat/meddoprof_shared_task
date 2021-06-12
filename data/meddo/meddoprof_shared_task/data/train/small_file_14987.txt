@@ -1,0 +1,13 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+diseminación	O
+metastásica	O
+osteoblástica	O
+,	O
+se	O
+decide	O
+ingreso	O
+.	O

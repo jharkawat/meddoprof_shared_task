@@ -1,0 +1,17 @@
+
+Se	O
+prescribió	O
+fluoxetina	O
+y	O
+se	O
+proporcionan	O
+pautas	O
+para	O
+identificación	O
+de	O
+emociones	O
+y	O
+la	O
+regulación	O
+conductual	O
+.	O

@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+ingresó	O
+en	O
+planta	O
+de	O
+Oncología	O
+con	O
+clínica	O
+de	O
+insuficiencia	O
+cardíaca	O
+,	O
+y	O
+se	O
+pautó	O
+oxigenoterapia	O
+y	O
+tratamiento	O
+diurético	O
+.	O

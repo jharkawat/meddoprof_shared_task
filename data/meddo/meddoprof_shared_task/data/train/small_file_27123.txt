@@ -1,0 +1,7 @@
+
+La	O
+audiometría	O
+tonal	O
+fue	O
+normal	O
+.	O

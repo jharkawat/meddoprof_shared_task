@@ -1,0 +1,25 @@
+
+Tampoco	O
+se	O
+han	O
+detectado	O
+déficits	O
+manifiestos	O
+subjetivos	O
+ni	O
+objetivos	O
+que	O
+impidan	O
+el	O
+desempeño	O
+de	O
+su	O
+labor	O
+como	O
+instrumentista	B-PROFESION
+,	O
+la	O
+cual	O
+ha	O
+retomado	O
+.	O

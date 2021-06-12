@@ -1,0 +1,10 @@
+
+No	O
+se	O
+encontró	O
+ningún	O
+otro	O
+hallazgo	O
+de	O
+importancia	O
+.	O

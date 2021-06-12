@@ -1,0 +1,21 @@
+
+Refiere	O
+sentirse	O
+incómoda	O
+ante	O
+su	O
+situación	O
+actual	O
+de	O
+cierta	O
+indefensión	O
+y	O
+de	O
+tener	O
+que	O
+ser	O
+cuidada	O
+por	O
+los	O
+demás	O
+.	O

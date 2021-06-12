@@ -1,0 +1,11 @@
+
+Imagen	O
+de	O
+trombo	O
+en	O
+vena	O
+poplítea	O
+y	O
+gemelar	O
+interna	O
+.	O

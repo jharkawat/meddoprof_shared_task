@@ -1,0 +1,16 @@
+
+Cabeza	O
+y	O
+cuello	O
+:	O
+sin	O
+adenopatías	O
+,	O
+ni	O
+IY	O
+,	O
+ni	O
+signos	O
+de	O
+infección	O
+.	O

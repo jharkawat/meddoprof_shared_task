@@ -1,0 +1,13 @@
+
+La	O
+ETT	O
+pone	O
+de	O
+manifiesto	O
+estenosis	O
+aórtica	O
+levemoderada	O
+con	O
+FEVI	O
+conservada	O
+.	O

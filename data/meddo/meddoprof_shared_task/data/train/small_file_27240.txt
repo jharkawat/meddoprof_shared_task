@@ -1,0 +1,25 @@
+
+Seguidamente	O
+empieza	O
+a	O
+realizar	O
+movimientos	O
+anormales	O
+con	O
+los	O
+brazos	O
+,	O
+por	O
+lo	O
+que	O
+los	O
+familiares	O
+deciden	O
+solicitar	O
+atención	O
+médica	O
+y	O
+llevarlo	O
+al	O
+hospital	O
+.	O

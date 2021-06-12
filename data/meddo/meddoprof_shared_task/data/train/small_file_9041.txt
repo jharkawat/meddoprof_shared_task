@@ -1,0 +1,10 @@
+
+Paciente	O
+con	O
+clínica	O
+cardinal	O
+diabética	O
+de	O
+6	O
+meses	O
+.	O

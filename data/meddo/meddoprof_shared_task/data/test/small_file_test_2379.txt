@@ -1,0 +1,22 @@
+
+IHQ	O
+:	O
+intensa	O
+positividad	O
+para	O
+CD99	O
+,	O
+de	O
+membrana	O
+y	O
+focal	O
+para	O
+S100	O
+,	O
+siendo	O
+negativa	O
+para	O
+osteocalcina	O
+y	O
+osteonectina	O
+.	O

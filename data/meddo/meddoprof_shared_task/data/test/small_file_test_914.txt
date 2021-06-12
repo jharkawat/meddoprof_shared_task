@@ -1,0 +1,11 @@
+
+En	O
+la	O
+exploración	O
+fisica	O
+no	O
+destaca	O
+ningún	O
+dato	O
+patológico	O
+.	O

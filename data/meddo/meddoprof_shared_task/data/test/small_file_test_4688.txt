@@ -1,0 +1,15 @@
+
+Síndrome	O
+de	O
+Cushing	O
+secundario	O
+a	O
+tumor	O
+carcinoide	O
+bronquial	O
+típico	O
+productor	O
+de	O
+hormona	O
+adrenocorticotropa	O
+.	O

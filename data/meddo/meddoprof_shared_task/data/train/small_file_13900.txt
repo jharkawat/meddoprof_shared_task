@@ -1,0 +1,14 @@
+
+Los	O
+hemocultivos	O
+,	O
+el	O
+urocultivo	O
+y	O
+el	O
+cultivo	O
+de	O
+esputo	O
+fueron	O
+negativos	O
+.	O

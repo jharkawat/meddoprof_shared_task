@@ -1,0 +1,19 @@
+
+•	O
+Citología	O
+de	O
+la	O
+punción	O
+en	O
+el	O
+sitio	O
+de	O
+lesión	O
+:	O
+mostró	O
+un	O
+carcinoma	O
+escamoso	O
+poco	O
+diferenciado	O
+.	O

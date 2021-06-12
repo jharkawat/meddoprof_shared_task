@@ -1,0 +1,17 @@
+
+Refería	O
+haber	O
+perdido	O
+tres	O
+kilogramos	O
+de	O
+peso	O
+en	O
+dicha	O
+semana	O
+sin	O
+hacer	O
+reducido	O
+la	O
+ingesta	O
+.	O

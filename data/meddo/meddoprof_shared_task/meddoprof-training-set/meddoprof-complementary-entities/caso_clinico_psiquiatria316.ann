@@ -1,0 +1,103 @@
+T1	SINTOMA 1457 1463	fiebre
+T2	SINTOMA 3847 3857	sudoración
+T3	PROCEDIMIENTO 521 524	RMI
+T4	PROCEDIMIENTO 1772 1802	tratamiento psicofarmacológico
+T5	PROCEDIMIENTO 4065 4082	antirretrovirales
+T6	PROCEDIMIENTO 4935 4954	analíticas de orina
+T7	PROCEDIMIENTO 5316 5319	RMI
+T8	NEG 216 218	no
+T9	NSCO 219 236	mantiene relación
+T10	NEG 448 450	no
+T11	NSCO 451 480	tratable en su país de origen
+T12	NEG 1252 1254	No
+T13	NSCO 1255 1297	constan enfermedades de transmisión sexual
+T14	NEG 1986 1988	no
+T15	NSCO 1989 2028	admite iniciar tratamiento con metadona
+T16	NEG 2035 2037	no
+T17	NSCO 2038 2073	es capaz de mantener la abstinencia
+T18	NEG 2122 2125	sin
+T19	NSCO 2126 2145	apoyo farmacológico
+T20	NEG 2902 2904	no
+T21	NSCO 2905 2933	interrumpiera su tratamiento
+T22	NEG 4091 4093	no
+T23	NSCO 4094 4120	existe como tal indicación
+T24	NEG 4394 4396	no
+T25	NSCO 4397 4441	encontramos referencia sobre la buprenorfina
+T26	NEG 4556 4559	sin
+T27	NSCO 4560 4581	problema estos 0,2 mg
+T28	NEG 4684 4689	nunca
+T29	NSCO 4690 4715	ha realizado uno indebido
+T30	NSCO 4718 4748	Los tratamientos concomitantes
+T31	NEG 5281 5284	sin
+T32	NSCO 5285 5293	recursos
+T33	NEG 5433 5436	sin
+T34	NSCO 5437 5460	posibilidad de trabajar
+T35	NEG 5621 5629	finalizó
+T36	NSCO 5630 5657	el programa de buprenorfina
+T37	FARMACO 1095 1103	Trizivir
+T38	FARMACO 1163 1171	Viramune
+T39	FARMACO 1908 1915	cocaína
+T40	FARMACO 1948 1957	Deprancol
+T41	FARMACO 2020 2028	metadona
+T42	FARMACO 2207 2215	Metadona
+T43	FARMACO 2336 2344	metadona
+T44	FARMACO 2413 2425	buprenorfina
+T45	FARMACO 2427 2434	Subutex
+T46	FARMACO 2499 2511	buprenorfina
+T47	FARMACO 2742 2750	metadona
+T48	FARMACO 2753 2765	buprenorfina
+T49	FARMACO 3014 3026	buprenorfina
+T50	FARMACO 3027 3035	naloxona
+T51	FARMACO 3121 3133	buprenorfina
+T52	FARMACO 3209 3221	buprenorfina
+T53	FARMACO 3361 3369	metadona
+T54	FARMACO 3658 3670	buprenorfina
+T55	FARMACO 3671 3679	naloxona
+T56	FARMACO 3962 3974	buprenorfina
+T57	FARMACO 3975 3983	naloxona
+T58	FARMACO 4171 4183	buprenorfina
+T59	FARMACO 4185 4191	Buprex
+T60	FARMACO 4303 4311	Trizivir
+T61	FARMACO 4315 4323	Viramune
+T62	FARMACO 4330 4338	Viramune
+T63	FARMACO 4376 4384	metadona
+T64	FARMACO 4429 4441	buprenorfina
+T65	FARMACO 4771 4782	mirtazapina
+T66	FARMACO 4793 4815	clorazepato dipotásico
+T67	FARMACO 4827 4836	omeprazol
+T68	FARMACO 5512 5524	buprenorfina
+T69	FARMACO 5559 5567	metadona
+T70	FARMACO 5645 5657	buprenorfina
+T71	ORG_VIVO 30 44	paciente varón
+T72	ORG_VIVO 108 115	familia
+T73	ORG_VIVO 177 181	hijo
+T74	ORG_VIVO 600 607	familia
+T75	ORG_VIVO 1051 1054	VIH
+T76	ORG_VIVO 1180 1185	varón
+T77	ORG_VIVO 1474 1477	VHC
+T78	ORG_VIVO 1480 1483	VHB
+T79	ORG_VIVO 2600 2624	especialista de Medicina
+T80	ORG_VIVO 3726 3734	paciente
+T81	ORG_VIVO 4065 4082	antirretrovirales
+T82	ORG_VIVO 4295 4298	VIH
+T83	ORG_VIVO 4469 4477	paciente
+T84	ORG_VIVO 5228 5236	paciente
+T85	ORG_VIVO 5262 5266	VIH+
+T86	ORG_VIVO 5350 5357	familia
+T87	ORG_VIVO 5465 5473	paciente
+T88	ORG_VIVO 5706 5714	paciente
+T89	ENFERMEDAD 1051 1054	VIH
+T90	ENFERMEDAD 1215 1250	enfermedad en España por vía sexual
+T91	ENFERMEDAD 1308 1329	tuberculosis pulmonar
+T92	ENFERMEDAD 1495 1513	Pancreatitis aguda
+T93	ENFERMEDAD 1647 1679	pancreatitis crónica calcificada
+T94	ENFERMEDAD 1682 1730	Reacción de adaptación ansioso-depresiva crónica
+T95	ENFERMEDAD 1852 1877	consumo de heroína fumada
+T96	ENFERMEDAD 2220 2231	hepatopatía
+T97	ENFERMEDAD 2653 2664	hepatopatía
+T98	ENFERMEDAD 3422 3445	síndrome de abstinencia
+T99	ENFERMEDAD 3745 3768	síndrome de abstinencia
+T100	ENFERMEDAD 5241 5260	hepatopatía crónica
+T101	SANITARIO-PROFESION 2600 2632	especialista de Medicina Interna
+T102	PACIENTE-SITUACION_LABORAL 482 506	Percibe una renta mínima
+T103	PACIENTE-SITUACION_LABORAL 2266 2283	vivir en la calle

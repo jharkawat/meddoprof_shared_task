@@ -1,0 +1,15 @@
+
+Resto	O
+de	O
+bioquímica	O
+,	O
+hemograma	O
+,	O
+hemostasia	O
+y	O
+gasometría	O
+venosa	O
+sin	O
+hallazgos	O
+relevantes	O
+.	O

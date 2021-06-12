@@ -1,0 +1,26 @@
+
+Aunque	O
+reconoce	O
+que	O
+en	O
+algunas	O
+ocasiones	O
+,	O
+se	O
+siente	O
+más	O
+nerviosa	O
+en	O
+relación	O
+a	O
+sus	O
+preocupaciones	O
+,	O
+sin	O
+que	O
+estas	O
+le	O
+provoquen	O
+grandes	O
+limitaciones	O
+.	O

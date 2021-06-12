@@ -1,0 +1,24 @@
+
+Se	O
+decide	O
+RT	O
+holocraneal	O
+paliativa	O
+,	O
+pero	O
+previamente	O
+a	O
+su	O
+comienzo	O
+,	O
+la	O
+paciente	O
+adelanta	O
+cita	O
+por	O
+incremento	O
+de	O
+disnea	O
+y	O
+dolor	O
+.	O

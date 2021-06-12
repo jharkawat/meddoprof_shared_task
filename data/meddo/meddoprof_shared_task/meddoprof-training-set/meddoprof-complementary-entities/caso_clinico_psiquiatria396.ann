@@ -1,0 +1,119 @@
+T1	SINTOMA 164 187	sintomatología obsesiva
+T2	SINTOMA 190 211	alteración conductual
+T3	SINTOMA 1582 1601	síntomas psicóticos
+T4	SINTOMA 1747 1756	irritable
+T5	SINTOMA 2138 2167	sintomatología extrapiramidal
+T6	SINTOMA 2169 2177	acatisia
+T7	SINTOMA 2179 2203	rigidez en rueda dentada
+T8	SINTOMA 2206 2226	discinesia orofacial
+T9	SINTOMA 2271 2280	orientado
+T10	SINTOMA 2337 2361	rigidez en rueda dentada
+T11	SINTOMA 2470 2498	empobrecimiento ideoafectivo
+T12	SINTOMA 2511 2517	alogia
+T13	SINTOMA 2643 2666	pensamientos rumiativos
+T14	SINTOMA 3126 3147	embotamiento afectivo
+T15	SINTOMA 3153 3162	anhedonia
+T16	SINTOMA 3166 3172	abulia
+T17	SINTOMA 3181 3194	irritabilidad
+T18	SINTOMA 3197 3205	ansiedad
+T19	SINTOMA 3307 3322	fallos mnésicos
+T20	SINTOMA 3917 3927	odinofagia
+T21	SINTOMA 3929 3965	aumento de secreciones respiratorias
+T22	SINTOMA 3975 3991	malestar general
+T23	SINTOMA 4255 4273	síntomas afectivos
+T24	SINTOMA 4531 4549	síntomas positivos
+T25	SINTOMA 5073 5096	sintomatología obsesiva
+T26	SINTOMA 6006 6014	acatisia
+T27	SINTOMA 6026 6055	sintomatología extrapiramidal
+T28	PROCEDIMIENTO 882 909	tratamientos antipsicóticos
+T29	PROCEDIMIENTO 3391 3409	Exploración física
+T30	PROCEDIMIENTO 3593 3629	analítica de sangre con hematimetría
+T31	PROCEDIMIENTO 3745 3763	Electrocardiograma
+T32	PROCEDIMIENTO 3765 3785	electroencefalograma
+T33	PROCEDIMIENTO 3788 3816	resonancia magnética craneal
+T34	NEG 643 645	No
+T35	NSCO 646 687	se conocen alergias ni consumo de tóxicos
+T36	NEG 1981 1983	no
+T37	NSCO 1984 1990	defeca
+T38	NEG 2302 2304	No
+T39	NSCO 2305 2325	datos de abstinencia
+T40	NEG 2763 2765	no
+T41	NSCO 2766 2794	se objetiva patrón delirante
+T42	NEG 3016 3021	Niega
+T43	NSCO 3022 3072	alteraciones sensoperceptivas de estirpe psicótica
+T44	NEG 3074 3079	niega
+T45	NSCO 3080 3118	fenómenos de pasividad del pensamiento
+T46	NEG 3149 3152	sin
+T47	NSCO 3153 3172	anhedonia ni abulia
+T48	NEG 3207 3210	sin
+T49	NSCO 3211 3253	datos de trastorno afectivo mayor en curso
+T50	NEG 3255 3260	Niega
+T51	NSCO 3261 3302	intencionalidad autolítica o heterolítica
+T52	NEG 3304 3306	No
+T53	NSCO 3307 3322	fallos mnésicos
+T54	NEG 3410 3413	sin
+T55	NSCO 3414 3463	alteraciones reseñables para la edad del paciente
+T56	NEG 4486 4496	descartada
+T57	NSCO 4497 4566	por la presencia casi continua de síntomas positivos y sintomatología
+T58	NEG 4567 4575	negativa
+T59	NSCO 4576 4595	en un segundo plano
+T60	NEG 4611 4621	descartada
+T61	NSCO 4622 4627	tanto
+T62	NEG 5243 5245	no
+T63	NSCO 5246 5307	objetivar contraindicación neurológica para iniciar clozapina
+T64	NEG 5309 5312	sin
+T65	NSCO 5313 5350	requerir más tratamiento por su parte
+T66	NEG 5395 5404	se retiró
+T67	NSCO 5405 5432	progresivamente amisulprida
+T68	NEG 5760 5763	sin
+T69	NSCO 5764 5849	efectos secundarios reseñables, ni alteraciones en las analíticas sanguíneas de rigor
+T70	NEG 5987 6002	desaparición de
+T71	NSCO 6003 6014	la acatisia
+T72	FARMACO 378 388	olanzapina
+T73	FARMACO 404 413	decanoato
+T74	FARMACO 417 428	flufenazina
+T75	FARMACO 478 491	carbamazepina
+T76	FARMACO 911 921	olanzapina
+T77	FARMACO 923 933	quetiapina
+T78	FARMACO 935 943	pimozida
+T79	FARMACO 945 956	haloperidol
+T80	FARMACO 958 969	flufenazina
+T81	FARMACO 971 982	perfenazina
+T82	FARMACO 984 993	sertindol
+T83	FARMACO 1434 1445	amisulprida
+T84	FARMACO 1469 1479	clonazepam
+T85	FARMACO 2093 2104	amisulprida
+T86	FARMACO 4041 4055	acetilcisteína
+T87	FARMACO 4058 4068	ibuprofeno
+T88	FARMACO 4959 4973	acetilcisteína
+T89	FARMACO 4976 4986	ibuprofeno
+T90	FARMACO 5298 5307	clozapina
+T91	FARMACO 5421 5432	amisulprida
+T92	FARMACO 5540 5549	clozapina
+T93	ORG_VIVO 19 24	Varón
+T94	ORG_VIVO 240 250	personales
+T95	ORG_VIVO 1268 1276	familiar
+T96	ORG_VIVO 1502 1510	paciente
+T97	ORG_VIVO 1543 1553	psiquiatra
+T98	ORG_VIVO 1684 1694	compañeros
+T99	ORG_VIVO 3455 3463	paciente
+T100	ORG_VIVO 5452 5461	pacientes
+T101	ORG_VIVO 5464 5474	familiares
+T102	ORG_VIVO 5718 5726	paciente
+T103	ENFERMEDAD 137 162	descompensación psicótica
+T104	ENFERMEDAD 264 292	encefalopatía fija perinatal
+T105	ENFERMEDAD 298 320	epilepsia generalizada
+T106	ENFERMEDAD 751 774	esquizofrenia paranoide
+T107	ENFERMEDAD 1112 1144	crisis convulsivas generalizadas
+T108	ENFERMEDAD 1892 1913	conductas disruptivas
+T109	ENFERMEDAD 2206 2226	discinesia orofacial
+T110	ENFERMEDAD 3197 3205	ansiedad
+T111	ENFERMEDAD 3220 3238	trastorno afectivo
+T112	ENFERMEDAD 3875 3911	infección respiratoria de vías altas
+T113	ENFERMEDAD 4205 4229	sintomatología psicótica
+T114	ENFERMEDAD 4390 4398	psicosis
+T115	ENFERMEDAD 4462 4484	esquizofrenia residual
+T116	ENFERMEDAD 4773 4796	esquizofrenia paranoide
+T117	ENFERMEDAD 4906 4942	infección respiratoria de vías altas
+T118	ENFERMEDAD 5168 5190	epilepsia generalizada
+T119	SANITARIO-PROFESION 1543 1553	psiquiatra

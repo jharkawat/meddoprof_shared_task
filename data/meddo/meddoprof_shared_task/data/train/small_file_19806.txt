@@ -1,0 +1,6 @@
+
+FC	O
+:	O
+80	O
+ppm	O
+.	O

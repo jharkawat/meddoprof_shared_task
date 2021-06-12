@@ -1,0 +1,26 @@
+T1	SINTOMA 733 750	dolor persistente
+T2	SINTOMA 753 773	limitación funcional
+T3	SINTOMA 1159 1164	dolor
+T4	PROCEDIMIENTO 560 582	radiografía de la mano
+T5	PROCEDIMIENTO 634 641	vendaje
+T6	PROCEDIMIENTO 643 652	analgesia
+T7	PROCEDIMIENTO 886 927	tratamiento ortopédico cerrado con férula
+T8	PROCEDIMIENTO 991 1005	terapia física
+T9	PROCEDIMIENTO 1269 1299	tomografía axial computarizada
+T10	PROCEDIMIENTO 1301 1304	TAC
+T11	PROCEDIMIENTO 1308 1387	resonancia nuclear magnética (RNM) con contraste de la mano y muñeca izquierdas
+T12	PROCEDIMIENTO 1515 1562	artrodesis escafo-trapecio-trapezoide con placa
+T13	NEG 583 586	sin
+T14	NSCO 587 606	encontrar fracturas
+T15	ORG_VIVO 291 299	paciente
+T16	ORG_VIVO 301 306	Varón
+T17	ORG_VIVO 335 364	miembro de la fuerza policial
+T18	ORG_VIVO 684 692	paciente
+T19	ORG_VIVO 1578 1581	Dr.
+T20	ENFERMEDAD 433 464	traumatismo contundente en mano
+T21	ENFERMEDAD 597 606	fracturas
+T22	ENFERMEDAD 829 867	fractura de polo distal del escafoides
+T23	ENFERMEDAD 1401 1440	necrosis del polo distal del escafoides
+T24	SANITARIO-PROFESION 1578 1581	Dr.
+T25	SANITARIO-PROFESION 248 254	Médico
+T26	PACIENTE-PROFESION 335 364	miembro de la fuerza policial

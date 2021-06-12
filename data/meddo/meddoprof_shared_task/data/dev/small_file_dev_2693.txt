@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+presentaba	O
+ideación	O
+autolítica	O
+,	O
+ánimo	O
+depresivo	O
+,	O
+ideación	O
+delirante	O
+de	O
+referencialidad	O
+y	O
+perjuicio	O
+,	O
+así	O
+como	O
+ideación	O
+de	O
+culpa	O
+.	O

@@ -1,0 +1,17 @@
+
+Está	O
+un	O
+tiempo	O
+abstinente	O
+y	O
+empieza	O
+a	O
+consumir	O
+y	O
+abusar	O
+de	O
+la	O
+codeína	O
+en	O
+2006	O
+.	O

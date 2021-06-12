@@ -1,0 +1,12 @@
+
+Lesiones	O
+hipodensas	O
+en	O
+la	O
+sustancia	O
+blanca	O
+periventricular	O
+y	O
+centros	O
+semiovales	O
+.	O

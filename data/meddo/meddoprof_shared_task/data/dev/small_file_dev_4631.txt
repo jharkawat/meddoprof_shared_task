@@ -1,0 +1,6 @@
+
+Peso	O
+corporal	O
+:	O
+80	O
+Kg	O

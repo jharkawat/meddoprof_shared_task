@@ -1,0 +1,12 @@
+
+Interrupción	O
+voluntaria	O
+del	O
+embarazo	O
+tras	O
+una	O
+relación	O
+esporádica	O
+sin	O
+protección	O
+.	O

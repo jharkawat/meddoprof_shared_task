@@ -1,0 +1,27 @@
+
+Se	O
+presenta	O
+el	O
+caso	O
+de	O
+una	O
+mujer	O
+de	O
+39	O
+años	O
+,	O
+administrativa	B-PROFESION
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+,	O
+casada	O
+y	O
+con	O
+un	O
+hijo	O
+de	O
+10	O
+meses	O
+de	O
+edad	O
+.	O

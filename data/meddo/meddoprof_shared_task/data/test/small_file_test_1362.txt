@@ -1,0 +1,8 @@
+
+Antígeno	O
+urinario	O
+para	O
+Legionellae	O
+histoplasma	O
+negativos	O
+.	O

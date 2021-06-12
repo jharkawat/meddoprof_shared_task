@@ -1,0 +1,18 @@
+
+Por	O
+motivos	O
+laborales	O
+el	O
+paciente	O
+abandona	O
+el	O
+seguimiento	O
+en	O
+nuestro	O
+servicio	O
+y	O
+viaja	O
+a	O
+Estados	O
+Unidos	O
+.	O

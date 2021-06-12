@@ -1,0 +1,10 @@
+
+Se	O
+mandan	O
+muestras	O
+para	O
+análisis	O
+microbiológico	O
+e	O
+histopatológico	O
+.	O

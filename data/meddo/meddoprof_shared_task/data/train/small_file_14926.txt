@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+Holter	O
+-	O
+electrocardiograma	O
+,	O
+en	O
+el	O
+que	O
+existían	O
+episodios	O
+de	O
+taquicardia	O
+sinusal	O
+y	O
+otros	O
+de	O
+taquicardia	O
+supraventricular	O
+paroxística	O
+.	O

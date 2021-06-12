@@ -1,0 +1,12 @@
+
+El	O
+tratamiento	O
+con	O
+paroxetina	O
+fue	O
+mantenido	O
+durante	O
+estos	O
+tres	O
+años	O
+.	O

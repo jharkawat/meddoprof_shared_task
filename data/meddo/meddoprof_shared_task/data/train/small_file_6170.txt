@@ -1,0 +1,15 @@
+
+Además	O
+,	O
+recetamos	O
+alprazolam	O
+0	O
+,	O
+25mg	O
+para	O
+tomar	O
+en	O
+caso	O
+de	O
+crisis	O
+.	O

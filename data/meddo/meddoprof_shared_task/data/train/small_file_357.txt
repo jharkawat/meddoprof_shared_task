@@ -1,0 +1,12 @@
+
+Trotaba	O
+regularmente	O
+6	O
+km	O
+y	O
+nadaba	O
+distancias	O
+largas	O
+sin	O
+limitaciones	O
+.	O

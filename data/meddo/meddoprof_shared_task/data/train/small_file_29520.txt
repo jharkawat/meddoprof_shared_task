@@ -1,0 +1,23 @@
+
+No	O
+obstante	O
+,	O
+el	O
+servicio	O
+de	O
+Neurología	O
+descarta	O
+la	O
+presencia	O
+de	O
+epilepsia	O
+y	O
+no	O
+vuelve	O
+a	O
+tener	O
+crisis	O
+durante	O
+su	O
+evolución	O
+.	O

@@ -1,0 +1,21 @@
+
+En	O
+la	O
+revisión	O
+en	O
+consultas	O
+de	O
+neurología	O
+3	O
+meses	O
+después	O
+,	O
+la	O
+paciente	O
+está	O
+eutímica	O
+y	O
+continúa	O
+sin	O
+crisis	O
+.	O

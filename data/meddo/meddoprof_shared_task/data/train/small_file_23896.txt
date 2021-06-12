@@ -1,0 +1,13 @@
+
+-	O
+Serología	O
+VHB	O
+,	O
+VHC	O
+,	O
+VIH	O
+,	O
+Sífilis	O
+:	O
+negativo	O
+.	O

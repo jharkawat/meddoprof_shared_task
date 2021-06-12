@@ -1,0 +1,8 @@
+
+SatO2	O
+:	O
+97	O
+%	O
+al	O
+aire	O
+.	O

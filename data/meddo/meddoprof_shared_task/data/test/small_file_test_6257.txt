@@ -1,0 +1,20 @@
+
+Trsa	O
+un	O
+año	O
+de	O
+tratamiento	O
+se	O
+realiza	O
+PET	O
+-	O
+TC	O
+para	O
+conocer	O
+la	O
+existencia	O
+de	O
+enfermedad	O
+metabólicamente	O
+activa	O
+:	O

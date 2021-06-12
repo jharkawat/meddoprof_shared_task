@@ -1,0 +1,18 @@
+
+La	O
+relación	O
+con	O
+la	O
+hija	O
+es	O
+complicada	O
+,	O
+se	O
+siente	O
+utilizada	O
+por	O
+ella	O
+y	O
+poco	O
+recompensada	O
+.	O

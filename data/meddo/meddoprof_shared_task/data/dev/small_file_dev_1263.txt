@@ -1,0 +1,24 @@
+
+Durante	O
+su	O
+ingreso	O
+,	O
+llama	O
+la	O
+atención	O
+el	O
+nulo	O
+deterioro	O
+que	O
+presenta	O
+el	O
+paciente	O
+cuando	O
+se	O
+consigue	O
+controlar	O
+la	O
+sintomatología	O
+psicótica	O
+positiva	O
+.	O

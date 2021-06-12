@@ -1,0 +1,13 @@
+T1	SINTOMA 325 356	pérdida de relaciones laborales
+T2	ORG_VIVO 0 5	Varón
+T3	ORG_VIVO 192 197	padre
+T4	ORG_VIVO 205 210	hijos
+T5	ORG_VIVO 310 315	mujer
+T6	ORG_VIVO 318 323	hijos
+T7	ORG_VIVO 384 391	hermano
+T8	ORG_VIVO 809 817	paciente
+T9	ORG_VIVO 1034 1041	autores
+T10	ORG_VIVO 1141 1149	paciente
+T11	ENFERMEDAD 643 667	sintomatología psicótica
+T12	OTROS-PROFESION 35 42	policía
+T13	PACIENTE-SITUACION_LABORAL 401 419	situación de calle

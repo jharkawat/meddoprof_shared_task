@@ -1,0 +1,24 @@
+
+En	O
+pruebas	O
+de	O
+imagen	O
+se	O
+evidenció	O
+:	O
+nódulos	O
+pulmonares	O
+bilaterales	O
+de	O
+17	O
+mm	O
+e	O
+infiltrados	O
+en	O
+vidrio	O
+deslustrado	O
+,	O
+derrame	O
+pleural	O
+bilateral	O
+-	O

@@ -1,0 +1,23 @@
+
+E	O
+.	O
+A	O
+:	O
+Mujer	O
+de	O
+30	O
+años	O
+que	O
+consulta	O
+por	O
+poliuria	O
+y	O
+pérdida	O
+de	O
+peso	O
+de	O
+un	O
+mes	O
+de	O
+evolución	O
+.	O

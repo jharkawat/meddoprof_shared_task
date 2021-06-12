@@ -1,0 +1,25 @@
+T1	SINTOMA 506 554	nódulos fluctuantes en la región dorsal y lumbar
+T2	SINTOMA 581 590	dolorosos
+T3	PROCEDIMIENTO 181 212	ecotomografía de partes blandas
+T4	PROCEDIMIENTO 1500 1521	inyección de silicona
+T5	PROCEDIMIENTO 1692 1705	Ecotomografía
+T6	NEG 36 39	sin
+T7	NSCO 40 76	antecedentes mórbidos de importancia
+T8	NEG 578 580	no
+T9	NSCO 581 590	dolorosos
+T10	NEG 593 596	sin
+T11	NSCO 597 627	alteraciones cutáneas visibles
+T12	NEG 1095 1097	no
+T13	NSCO 1098 1148	permite la visualización de los planos subyacentes
+T14	NEG 1547 1549	no
+T15	NSCO 1550 1561	lo reconoce
+T16	NEG 1863 1869	impide
+T17	NSCO 1870 1910	la visualización de los planos profundos
+T18	ORG_VIVO 0 8	Paciente
+T19	ORG_VIVO 26 34	femenino
+T20	ORG_VIVO 91 97	médico
+T21	ORG_VIVO 465 473	paciente
+T22	ORG_VIVO 860 868	paciente
+T23	ORG_VIVO 1469 1477	paciente
+T24	ENFERMEDAD 138 151	lipoma lumbar
+T25	SANITARIO-PROFESION 91 105	médico general

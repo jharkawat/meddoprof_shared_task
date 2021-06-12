@@ -1,0 +1,14 @@
+
+Auscultación	O
+pulmonar	O
+:	O
+murmullo	O
+vesicular	O
+conservado	O
+con	O
+sibilantes	O
+en	O
+el	O
+ápice	O
+derecho	O
+.	O

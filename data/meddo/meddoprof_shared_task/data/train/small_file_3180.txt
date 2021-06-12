@@ -1,0 +1,11 @@
+
+Al	O
+principio	O
+fueron	O
+semanas	O
+de	O
+negación	O
+y	O
+de	O
+discusiones	O
+.	O

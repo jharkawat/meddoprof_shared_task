@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 75 años de edad, hipertensa en tratamiento farmacológico, diabética no insulino-dependiente, nunca fumadora, con antecedentes de talasemia minor y operada de nódulo mamario benigno hace años. Sin antecedentes previos de enfermedad pulmonar.
+Acude en enero de 2011 a su médico de Atención Primaria por dos esputos hemoptoicos sin clínica respiratoria asociada, manteniéndose la paciente afebril y con exploración física dentro de la normalidad. Se solicita radiografía de tórax donde se objetiva imagen de masa en el lóbulo superior derecho. Posteriormente, se realiza una TC de tórax, donde se informa de una masa en el lóbulo superior derecho de 5 x 3,5 cm compatible con carcinoma primario de pulmón que se extiende hasta el hilio derecho produciendo infiltración del bronquio y arteria del mismo lóbulo. También se identifican adenopatías en región paratraqueal derecha, subcarinales y prevasculares derechas, así como algunos nódulos menores de 5 mm en ambos campos pulmonares compatibles con metástasis. Hígado y glándulas suprarrenales sin alteraciones. Se realiza biopsia transbronquial con diagnóstico anatomopatológico de adenocarcinoma de pulmón. El estudio de la mutación EGFR resulta positiva en el exón 19. Por tanto, es derivada al Servicio de Oncología Médica ante un adenocarcinoma de pulmón T4N2M, estadio IV, con EGFR positivo.
+En febrero de 2011 inicia tratamiento con gefitinib 250 mg diarios, manteniéndose asintomática con escasa toxicidad dérmica. En la TC de control de mayo de 2011 se observa una ligera disminución de la masa del lóbulo superior derecho con clara disminución del tamaño de las adenopatías.
+Aproximadamente, 15 días más tarde acude al Servicio de Urgencias por nuevo esputo hemoptoico. Se realiza fibrobroncoscopia con masa sangrante en la carina y se procede a radioterapia con intención paliativa con mejoría a las cuatro sesiones.
+En los siguientes controles, la paciente evoluciona favorablemente con disminución de la masa en la TC de agosto de 2011, hasta que en la de control de noviembre se aprecia un aumento del tamaño tumoral, así como del derrame derecho ya existente.
+Se realiza una toracocentesis diagnóstica con citología sospechosa de adenocarcinoma, por lo que se inicia tratamiento con quimioterapia sistémica con pemetrexed 500 mg/m2 cada 21 días, manteniendo Gefitinib.
+A finales de enero de 2012, la paciente acude a Urgencias de Oftalmología por visión borrosa en el ojo derecho de tres días de evolución, más evidente en la mirada interna nasal, sin dolor ocular, enrojecimiento, ni otra sintomatología acompañante negando cefalea u otros síntomas neurológicos.
+
+Exploración física
+A la exploración física presenta buen estado general con ECOG de 0. En la exploración neurológica no se aprecian signos de focalidad neurológica con pupilas isocóricas y normorreactivas. No hay presencia de nistagmus. Resto de pares craneales normales.
+Fuerza y sensibilidad conservadas. No presenta disartria.
+Sin alteraciones cerebelosas. Presenta déficit de visión en la mirada interna del ojo derecho donde solo distingue bultos. No hay adenopatías periféricas.
+Se realiza, asimismo, la exploración oftalmológica con fondo de ojo con mácula y zona paramacular superior sobreelevada ++++.
+
+Pruebas complementarias
+Antes los hallazgos oftalmológicos en el fondo de ojo, con juicio clínico de edema macular de ojo derecho de etiología a filiar, se solicitan otras pruebas complementarias:
+• Ecografía ocular del ojo derecho: imagen redonda de masa coroidea que levanta todo el polo posterior de ojo derecho, compatible con metástasis de coroides.
+• TC cerebral: se identifica, en región frontal paramediana izquierda, una imagen nodular de 14 x 12 mm. Adicionalmente, se identifica otra imagen nodular en región occipital derecha de 15 x 12 mm, hallazgos compatibles con metástasis cerebrales. En el cuadrante súpero externo del globo ocular derecho, se identifica una imagen de morfología ovalada de, aproximadamente, 11 x 5 mm, que realza tras la administración de contraste, en probable relación con metástasis coroidea, descrita en ecografía ocular previa.
+• TC de tórax: crecimiento de la masa del lóbulo superior derecho, de las adenopatías paratraqueales derechas y del derrame pleural. Nódulos pulmonares milimétricos sin cambios en tamaño ni en número.
+
+Diagnóstico
+Metástasis coroidea derecha y metástasis cerebrales en paciente con Adenocarcinoma de pulmón en progresión.
+
+Tratamiento
+En este momento se cambia gefitinib por erlotinib a dosis de 150 mg diarios, suspendiendo terapia sistémica con pemetrexed tras cuatro ciclos de tratamiento.
+En el mes de febrero se procede a la irradiación holocraneal, incluyendo el polo posterior del ojo derecho iniciando de manera concomitante tratamiento corticoideo, con buena tolerancia.
+A mediados de marzo, ante los hallazgos de la TC torácica, con datos de progresión, se inicia tratamiento quimioterápico sistémico con gemcitabina 1.000 mg/m2 semanal manteniendo erlotinib.
+
+Evolución
+Tras un mes y medio de tratamiento con quimioterapia sistémica junto con erlotinib, se realiza una nueva TC cerebral, donde se objetiva disminución del tamaño de las metástasis cerebrales, así como de la metástasis coroidea posterolateral derecha (reducción de grosor de 6 mm a 3,7 mm), sin aparición de nuevas lesiones. En la última revisión Oftalmológica a finales de abril de 2012, la paciente ha recuperado aproximadamente un 40% de la visión, con exploración neurológica normal.

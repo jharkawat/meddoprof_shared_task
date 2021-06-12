@@ -1,0 +1,26 @@
+
+El	O
+ictus	O
+embólico	O
+es	O
+menos	O
+probable	O
+al	O
+estar	O
+en	O
+ritmo	O
+sinusal	O
+,	O
+aunque	O
+no	O
+podría	O
+descartarse	O
+la	O
+presencia	O
+de	O
+embolismo	O
+secundario	O
+a	O
+trombo	O
+intracardiaco	O
+.	O

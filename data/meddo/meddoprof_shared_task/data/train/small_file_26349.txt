@@ -1,0 +1,17 @@
+
+Tenía	O
+una	O
+analítica	O
+reciente	O
+realizada	O
+por	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+con	O
+función	O
+tiroidea	O
+normal	O
+.	O

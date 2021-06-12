@@ -1,0 +1,5 @@
+
+Aplanamiento	O
+afectivo	O
+marcado	O
+.	O

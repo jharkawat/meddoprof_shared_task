@@ -1,0 +1,9 @@
+
+Había	B-SITUACION_LABORAL
+mantenido	I-SITUACION_LABORAL
+su	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+desde	O
+hacía	O
+años	O
+.	O

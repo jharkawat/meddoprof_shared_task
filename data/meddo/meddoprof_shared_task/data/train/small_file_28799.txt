@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+ocupa	O
+el	O
+quinto	O
+lugar	O
+de	O
+una	O
+fratría	O
+de	O
+ocho	O
+hermanos	O
+.	O

@@ -1,0 +1,10 @@
+
+El	O
+pericardio	O
+también	O
+se	O
+encontraba	O
+libre	O
+de	O
+tumor	O
+.	O

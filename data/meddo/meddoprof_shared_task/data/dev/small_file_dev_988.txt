@@ -1,0 +1,13 @@
+
+Él	O
+notaba	O
+que	O
+estaba	O
+cambiando	O
+y	O
+se	O
+estaba	O
+convirtiendo	O
+en	O
+mujer	O
+.	O

@@ -1,0 +1,24 @@
+
+Tumor	O
+de	O
+Krukenberg	O
+en	O
+el	O
+ovario	O
+izquierdo	O
+,	O
+con	O
+áreas	O
+infiltradas	O
+por	O
+células	O
+en	O
+anillo	O
+de	O
+sello	O
+con	O
+sospecha	O
+de	O
+primario	O
+gástrico	O
+.	O

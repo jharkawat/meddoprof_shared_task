@@ -1,0 +1,16 @@
+
+Es	O
+capaz	O
+de	O
+mantener	O
+una	O
+conversación	O
+más	O
+organizada	O
+y	O
+no	O
+se	O
+objetiva	O
+angustia	O
+psicótica	O
+.	O

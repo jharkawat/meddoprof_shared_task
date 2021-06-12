@@ -1,0 +1,9 @@
+
+Según	O
+refiere	O
+el	O
+usuario	O
+,	O
+tiene	O
+esposa	O
+.	O

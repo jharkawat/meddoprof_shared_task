@@ -1,0 +1,18 @@
+
+No	O
+se	O
+puede	O
+precisar	O
+el	O
+inicio	O
+del	O
+consumo	O
+pero	O
+parece	O
+que	O
+se	O
+prolongó	O
+durante	O
+bastantes	O
+años	O
+.	O

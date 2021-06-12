@@ -1,0 +1,116 @@
+T1	SINTOMA 1096 1111	pérdida de peso
+T2	SINTOMA 1183 1217	quebrantamiento del estado general
+T3	SINTOMA 1326 1341	dolor abdominal
+T4	SINTOMA 1343 1350	Afebril
+T5	SINTOMA 1430 1440	Consciente
+T6	SINTOMA 1443 1452	orientado
+T7	SINTOMA 1461 1480	palidez mucocutánea
+T8	SINTOMA 1524 1532	Eupneico
+T9	SINTOMA 1566 1573	Afebril
+T10	SINTOMA 1718 1724	soplos
+T11	SINTOMA 1726 1781	Murmullo vesicular conservado sin ruidos sobreañadidos
+T12	SINTOMA 1815 1823	doloroso
+T13	SINTOMA 1894 1915	irritación peritoneal
+T14	SINTOMA 1941 1947	edemas
+T15	SINTOMA 2215 2244	Serología VIH y VHC negativas
+T16	SINTOMA 2945 2952	eritema
+T17	PROCEDIMIENTO 437 449	antibióticos
+T18	PROCEDIMIENTO 573 582	ecografía
+T19	PROCEDIMIENTO 588 601	TAC abdominal
+T20	PROCEDIMIENTO 642 664	biopsia de médula ósea
+T21	PROCEDIMIENTO 753 766	esplenectomía
+T22	PROCEDIMIENTO 932 935	PCR
+T23	PROCEDIMIENTO 1389 1407	Exploración física
+T24	PROCEDIMIENTO 1668 1695	Auscultación cardiopulmonar
+T25	PROCEDIMIENTO 2367 2379	Coprocultivo
+T26	PROCEDIMIENTO 2498 2517	Ecografía abdominal
+T27	PROCEDIMIENTO 3063 3083	-Anatomía Patológica
+T28	PROCEDIMIENTO 3159 3183	Biopsia de colon derecho
+T29	NEG 44 47	Sin
+T30	NSCO 48 81	alergias medicamentosas conocidas
+T31	NEG 84 87	sin
+T32	NSCO 88 103	hábitos tóxicos
+T33	NEG 669 677	descarta
+T34	NSCO 678 705	síndrome linfoproliferativo
+T35	NEG 812 814	no
+T36	NSCO 815 827	necrotizante
+T37	UNC 870 881	sospecha de
+T38	USCO 882 917	una posible toxoplasmosis sistémica
+T39	NEG 1000 1008	negativa
+T40	NEG 1020 1022	no
+T41	NSCO 1023 1045	se realizó tratamiento
+T42	NEG 1293 1296	sin
+T43	NSCO 1297 1318	productos patológicos
+T44	NEG 1320 1325	Niega
+T45	NSCO 1326 1341	dolor abdominal
+T46	NEG 1343 1350	Afebril
+T47	NEG 1352 1354	No
+T48	NSCO 1355 1387	otra sintomatología a otro nivel
+T49	NEG 1566 1573	Afebril
+T50	NEG 1642 1644	No
+T51	NSCO 1645 1666	se palpan adenopatías
+T52	NEG 1715 1717	No
+T53	NSCO 1718 1724	soplos
+T54	NEG 1756 1759	sin
+T55	NSCO 1760 1781	ruidos sobreañadidos
+T56	NEG 1812 1814	No
+T57	NSCO 1815 1823	doloroso
+T58	NEG 1825 1827	No
+T59	NSCO 1828 1855	se palpan masas ni megalias
+T60	NEG 1881 1883	No
+T61	NSCO 1884 1915	signos de irritación peritoneal
+T62	NEG 1938 1940	No
+T63	NSCO 1941 1947	edemas
+T64	NEG 1949 1951	No
+T65	NSCO 1952 1987	signos de trombosis venosa profunda
+T66	NEG 2235 2244	negativas
+T67	NEG 2252 2260	negativo
+T68	NEG 2381 2389	negativo
+T69	NSCO 2391 2419	Toxina clostridium difficile
+T70	NEG 2420 2428	negativa
+T71	NSCO 2428 2430	.-
+T72	NEG 2549 2552	sin
+T73	NSCO 2553 2570	evidencia de LOES
+T74	NEG 2655 2657	no
+T75	NSCO 2658 2667	dilatadas
+T76	NEG 2728 2730	No
+T77	NSCO 2731 2744	líquido libre
+T78	UNC 2975 2985	sin claras
+T79	USCO 2986 3019	lesiones por perdida de sustancia
+T80	UNC 3029 3041	sugestivo de
+T81	USCO 3042 3061	pancolitis ulcerosa
+T82	NEG 3139 3151	inespecífica
+T83	NSCO 3152 3157	focal
+T84	NEG 3323 3334	ausencia de
+T85	NSCO 3335 3416	células plasmáticas y presencia de criptitis aguda extensa con abscesos crípticos
+T86	NEG 3449 3452	sin
+T87	NSCO 3453 3473	distorsión grandular
+T88	NEG 3494 3502	negativa
+T89	NSCO 3503 3523	para citomegalovirus
+T90	ORG_VIVO 13 23	personales
+T91	ORG_VIVO 25 30	Varón
+T92	ORG_VIVO 118 131	recepcionista
+T93	ORG_VIVO 163 173	personales
+T94	ORG_VIVO 850 860	Toxoplasma
+T95	ORG_VIVO 2225 2228	VIH
+T96	ORG_VIVO 2231 2234	VHC
+T97	ORG_VIVO 2246 2251	HbsAg
+T98	ORG_VIVO 2262 2267	HbsAc
+T99	ORG_VIVO 2279 2284	HbcAc
+T100	ORG_VIVO 2398 2419	clostridium difficile
+T101	ORG_VIVO 2481 2496	Giardia Lamblia
+T102	ORG_VIVO 3508 3523	citomegalovirus
+T103	ENFERMEDAD 186 218	Inmunodeficiencia Variable Común
+T104	ENFERMEDAD 220 224	IDCV
+T105	ENFERMEDAD 365 404	infecciones respiratorias de repetición
+T106	ENFERMEDAD 549 561	pancitopenia
+T107	ENFERMEDAD 606 620	esplenomegalia
+T108	ENFERMEDAD 678 705	síndrome linfoproliferativo
+T109	ENFERMEDAD 894 917	toxoplasmosis sistémica
+T110	ENFERMEDAD 1655 1666	adenopatías
+T111	ENFERMEDAD 1962 1987	trombosis venosa profunda
+T112	ENFERMEDAD 2391 2430	Toxina clostridium difficile negativa.-
+T113	ENFERMEDAD 3042 3061	pancolitis ulcerosa
+T114	ENFERMEDAD 3370 3393	criptitis aguda extensa
+T115	ENFERMEDAD 3398 3406	abscesos
+T116	PACIENTE-PROFESION 118 143	recepcionista en un hotel

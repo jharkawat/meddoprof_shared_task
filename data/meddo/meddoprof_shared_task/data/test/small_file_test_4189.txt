@@ -1,0 +1,6 @@
+
+Signos	O
+de	O
+linfangitis	O
+carcinomatosa	O
+.	O

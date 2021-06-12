@@ -1,0 +1,12 @@
+
+Padre	O
+e	O
+madre	O
+sin	O
+antecedentes	O
+de	O
+hipertensión	O
+arterial	O
+y	O
+litiasis	O
+.	O

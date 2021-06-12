@@ -1,0 +1,13 @@
+
+La	O
+autopsia	O
+será	O
+uno	O
+de	O
+los	O
+últimos	O
+escritos	O
+sobre	O
+el	O
+paciente	O
+.	O

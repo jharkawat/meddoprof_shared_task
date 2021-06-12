@@ -1,0 +1,20 @@
+
+Infiltración	O
+meníngea	O
+por	O
+carcinoma	O
+de	O
+origen	O
+mamario	O
+en	O
+paciente	O
+con	O
+antecedente	O
+de	O
+carcinoma	O
+lobulillar	O
+de	O
+mama	O
+en	O
+2010	O
+.	O

@@ -1,0 +1,20 @@
+
+El	O
+tratamiento	O
+que	O
+lleva	O
+pautado	O
+en	O
+la	O
+actualidad	O
+es	O
+fluoxetina	O
+10mg	O
+/	O
+día	O
+y	O
+risperidona	O
+3mg	O
+/	O
+día	O
+.	O

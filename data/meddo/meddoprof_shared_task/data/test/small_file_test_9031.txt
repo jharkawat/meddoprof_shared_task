@@ -1,0 +1,13 @@
+
+Nuevo	O
+trombo	O
+ART	O
+poplítea	O
+y	O
+porción	O
+distal	O
+de	O
+ambas	O
+ART	O
+tibiales	O
+.	O

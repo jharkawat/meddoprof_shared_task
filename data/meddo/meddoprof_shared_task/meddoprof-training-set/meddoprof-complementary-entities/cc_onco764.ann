@@ -1,0 +1,111 @@
+T1	SINTOMA 77 84	Fumador
+T2	SINTOMA 1060 1073	adenomegalias
+T3	SINTOMA 1713 1721	acúfenos
+T4	SINTOMA 1724 1749	parestesias en hemicuerpo
+T5	SINTOMA 1816 1826	Consciente
+T6	SINTOMA 1828 1837	orientado
+T7	SINTOMA 1870 1878	eupneico
+T8	SINTOMA 1890 1904	Normocoloreado
+T9	SINTOMA 2042 2051	nistagmos
+T10	SINTOMA 2056 2085	alteración de pares craneales
+T11	SINTOMA 4458 4470	asintomático
+T12	PROCEDIMIENTO 142 163	tratamiento dietético
+T13	PROCEDIMIENTO 305 340	resección quirúrgica intraocular OD
+T14	PROCEDIMIENTO 352 375	braquiterapia adyuvante
+T15	PROCEDIMIENTO 460 486	enucleación de ojo derecho
+T16	PROCEDIMIENTO 619 621	TC
+T17	PROCEDIMIENTO 738 749	RM hepática
+T18	PROCEDIMIENTO 940 946	PET/TC
+T19	PROCEDIMIENTO 1128 1135	biopsia
+T20	PROCEDIMIENTO 1615 1617	TC
+T21	PROCEDIMIENTO 1789 1807	Exploración física
+T22	PROCEDIMIENTO 1943 1966	Exploración neurológica
+T23	PROCEDIMIENTO 2162 2171	Otoscopia
+T24	PROCEDIMIENTO 2256 2265	hemograma
+T25	PROCEDIMIENTO 2300 2319	TC craneoencefálica
+T26	PROCEDIMIENTO 2700 2732	tratamiento con corticosteroides
+T27	PROCEDIMIENTO 2814 2825	RM cerebral
+T28	PROCEDIMIENTO 3294 3297	EEG
+T29	PROCEDIMIENTO 3373 3391	TC toracoabdominal
+T30	PROCEDIMIENTO 3489 3503	Punción lumbar
+T31	PROCEDIMIENTO 3518 3536	estudio bioquímico
+T32	PROCEDIMIENTO 3572 3601	estudio microbiológico de LCR
+T33	PROCEDIMIENTO 3618 3634	Citología de LCR
+T34	PROCEDIMIENTO 3908 3919	RM cerebral
+T35	PROCEDIMIENTO 4157 4202	administración de corticosteroides sistémicos
+T36	PROCEDIMIENTO 4522 4524	TC
+T37	NEG 28 31	sin
+T38	NSCO 32 65	alergias medicamentosas conocidas
+T39	NEG 561 563	no
+T40	NSCO 564 570	mutado
+T41	UNC 682 689	sugiere
+T42	USCO 690 712	enfermedad metastásica
+T43	UNC 858 870	sugestiva de
+T44	USCO 871 927	metástasis y otras 3 lesiones en lóbulo hepático derecho
+T45	NEG 1043 1046	sin
+T46	NSCO 1047 1110	evidencia de adenomegalias y/o afectación visceral a otro nivel
+T47	UNC 1179 1193	compatible con
+T48	USCO 1194 1226	infiltración difusa por melanoma
+T49	NEG 1368 1376	descarta
+T50	NSCO 1377 1399	tratamiento quirúrgico
+T51	NEG 2038 2041	sin
+T52	NSCO 2042 2085	nistagmos, ni alteración de pares craneales
+T53	NEG 2185 2188	sin
+T54	NSCO 2189 2209	hallazgos relevantes
+T55	NEG 2280 2283	sin
+T56	NSCO 2284 2296	alteraciones
+T57	NEG 2400 2402	no
+T58	NSCO 2403 2439	muestra clara captación de contraste
+T59	UNC 2466 2472	podría
+T60	USCO 2473 2476	ser
+T61	UNC 2477 2491	compatible con
+T62	USCO 2492 2513	enfermedad secundaria
+T63	UNC 2564 2578	compatible con
+T64	USCO 2579 2596	lesión secundaria
+T65	NEG 2632 2634	no
+T66	NSCO 2635 2641	mutado
+T67	NEG 3017 3019	No
+T68	NSCO 3020 3093	se evidencian claras áreas con realce anómalo a nivel intraparenquimatoso
+T69	NEG 3446 3449	sin
+T70	NSCO 3450 3468	cambios relevantes
+T71	NEG 3603 3606	sin
+T72	NSCO 3607 3616	hallazgos
+T73	NEG 3635 3643	negativa
+T74	NSCO 3644 3659	para malignidad
+T75	NEG 4111 4120	suspender
+T76	NSCO 4121 4150	tratamiento con pembrolizumab
+T77	NEG 4281 4292	Se suspende
+T78	NSCO 4293 4320	definitivamente tratamiento
+T79	NEG 4417 4425	retirada
+T80	NEG 4458 4470	asintomático
+T81	FARMACO 1464 1477	pembrolizumab
+T82	FARMACO 2759 2769	prednisona
+T83	FARMACO 3841 3856	corticosteroide
+T84	FARMACO 4137 4150	pembrolizumab
+T85	FARMACO 4377 4387	prednisona
+T86	ORG_VIVO 10 15	Varón
+T87	ORG_VIVO 67 75	soldador
+T88	ORG_VIVO 116 126	personales
+T89	ORG_VIVO 2457 2465	paciente
+T90	ORG_VIVO 3664 3672	paciente
+T91	ENFERMEDAD 128 138	dislipemia
+T92	ENFERMEDAD 245 269	melanoma coroideo en ojo
+T93	ENFERMEDAD 521 538	melanoma coroides
+T94	ENFERMEDAD 690 712	enfermedad metastásica
+T95	ENFERMEDAD 762 816	lesión focal en segmento VIII-VII de 20 mm subcapsular
+T96	ENFERMEDAD 871 881	metástasis
+T97	ENFERMEDAD 892 919	lesiones en lóbulo hepático
+T98	ENFERMEDAD 1060 1073	adenomegalias
+T99	ENFERMEDAD 1218 1226	melanoma
+T100	ENFERMEDAD 1333 1364	lesiones hepáticas irresecables
+T101	ENFERMEDAD 1639 1658	enfermedad hepática
+T102	ENFERMEDAD 2492 2513	enfermedad secundaria
+T103	ENFERMEDAD 2600 2617	Melanoma coroideo
+T104	ENFERMEDAD 3202 3213	encefalitis
+T105	ENFERMEDAD 3229 3252	síndrome paraneoplásico
+T106	ENFERMEDAD 3254 3270	proceso vascular
+T107	ENFERMEDAD 3273 3290	estado epiléptico
+T108	ENFERMEDAD 3416 3434	lesiones hepáticas
+T109	ENFERMEDAD 3470 3488	Enfermedad estable
+T110	ENFERMEDAD 4019 4030	encefalitis
+T111	PACIENTE-PROFESION 67 75	soldador

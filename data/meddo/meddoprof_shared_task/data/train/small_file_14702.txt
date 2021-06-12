@@ -1,0 +1,6 @@
+
+Trabaja	B-PROFESION
+en	I-PROFESION
+cadena	I-PROFESION
+de	I-PROFESION
+montaje	I-PROFESION

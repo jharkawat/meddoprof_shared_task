@@ -1,0 +1,7 @@
+
+Cirugías	O
+:	O
+meniscectomía	O
+artroscópica	O
+bilateral	O
+.	O

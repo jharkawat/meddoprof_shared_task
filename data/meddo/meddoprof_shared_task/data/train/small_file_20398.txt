@@ -1,0 +1,8 @@
+
+Dijo	O
+que	O
+no	O
+se	O
+sentía	O
+deprimido	O
+.	O

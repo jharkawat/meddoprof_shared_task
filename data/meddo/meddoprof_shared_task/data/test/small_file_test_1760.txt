@@ -1,0 +1,26 @@
+
+SE	O
+TRATA	O
+DE	O
+UNA	O
+PACIENTE	O
+DE	O
+38	O
+AÑOS	O
+,	O
+sin	O
+ninguna	O
+patología	O
+sistémica	O
+y	O
+fumadora	O
+de	O
+10	O
+cigarrillos	O
+al	O
+día	O
+desde	O
+los	O
+21	O
+años	O
+.	O

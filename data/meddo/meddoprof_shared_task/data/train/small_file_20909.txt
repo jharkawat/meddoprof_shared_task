@@ -1,0 +1,8 @@
+
+NIC	O
+:	O
+Apoyo	O
+al	O
+cuidador	B-PROFESION
+principal	I-PROFESION
+.	O

@@ -1,0 +1,18 @@
+
+Los	O
+síntomas	O
+eran	O
+similares	O
+,	O
+si	O
+bien	O
+presentaba	O
+pseudoalucinaciones	O
+auditivas	O
+(	O
+voces	O
+que	O
+le	O
+increpaban	O
+)	O
+.	O

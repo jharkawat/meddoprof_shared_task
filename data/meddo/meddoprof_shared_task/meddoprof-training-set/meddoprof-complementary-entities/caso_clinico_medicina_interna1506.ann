@@ -1,0 +1,62 @@
+T1	SINTOMA 198 223	tumoración laterocervical
+T2	SINTOMA 296 306	sudoración
+T3	SINTOMA 319 339	sensación distérmica
+T4	SINTOMA 428 446	dolor en la cadera
+T5	SINTOMA 647 653	soplos
+T6	SINTOMA 820 856	masa de 4x3cm en cara laterocervical
+T7	SINTOMA 927 974	dolor selectivo en espina ilíaca anterosuperior
+T8	SINTOMA 1561 1613	masa en LSD con micronódulos periféricos bilaterales
+T9	PROCEDIMIENTO 343 365	anamnesis por aparatos
+T10	PROCEDIMIENTO 553 571	Exploración física
+T11	PROCEDIMIENTO 1117 1126	Hemograma
+T12	PROCEDIMIENTO 1530 1550	Radiografía de tórax
+T13	PROCEDIMIENTO 1614 1627	TAC de cuello
+T14	PROCEDIMIENTO 1782 1794	TAC de tórax
+T15	PROCEDIMIENTO 2218 2238	TAC abdomen y pelvis
+T16	NEG 367 369	No
+T17	NSCO 370 489	refiere cuadro constitucional o síntomas B. Sólo resaltar dolor en la cadera izquierda de características inflamatorias
+T18	NEG 516 518	no
+T19	NSCO 519 551	relaciona con la hernia inguinal
+T20	NEG 643 646	sin
+T21	NSCO 647 653	soplos
+T22	NEG 686 689	sin
+T23	NSCO 690 711	ruidos sobreañadidos
+T24	NEG 722 725	sin
+T25	NSCO 726 747	hallazgos patológicos
+T26	NEG 749 751	No
+T27	NSCO 752 788	se aprecia hernia inguinal izquierda
+T28	NEG 886 889	sin
+T29	NSCO 890 919	adherencia a planos profundos
+T30	NEG 1067 1070	sin
+T31	NSCO 1071 1078	interés
+T32	NEG 1473 1482	negativos
+T33	UNC 1552 1560	probable
+T34	USCO 1561 1613	masa en LSD con micronódulos periféricos bilaterales
+T35	UNC 1735 1749	compatible con
+T36	USCO 1750 1780	absceso o adenopatía necrosada
+T37	UNC 1934 1948	compatible con
+T38	USCO 1949 1966	neoplasia maligna
+T39	UNC 2093 2108	compatibles con
+T40	USCO 2109 2119	metástasis
+T41	UNC 2128 2142	compatible con
+T42	USCO 2143 2196	Linfangitis carcinomatosa en ambos lóbulos superiores
+T43	UNC 2545 2553	probable
+T44	USCO 2554 2594	que se trate de una metástasis necrosada
+T45	ORG_VIVO 13 23	personales
+T46	ORG_VIVO 507 515	paciente
+T47	ORG_VIVO 1442 1445	VHC
+T48	ORG_VIVO 1447 1450	VHB
+T49	ORG_VIVO 1452 1455	VIH
+T50	ENFERMEDAD 40 55	Hernia inguinal
+T51	ENFERMEDAD 102 117	hernia inguinal
+T52	ENFERMEDAD 536 551	hernia inguinal
+T53	ENFERMEDAD 763 778	hernia inguinal
+T54	ENFERMEDAD 1750 1757	absceso
+T55	ENFERMEDAD 1760 1780	adenopatía necrosada
+T56	ENFERMEDAD 1949 1966	neoplasia maligna
+T57	ENFERMEDAD 1990 2015	adenopatías mediastínicas
+T58	ENFERMEDAD 2045 2119	nódulos pulmonares bilaterales subcentimétricos compatibles con metástasis
+T59	ENFERMEDAD 2143 2196	Linfangitis carcinomatosa en ambos lóbulos superiores
+T60	ENFERMEDAD 2240 2385	adenopatías retroperitoneales periaórticas de 2 cms, ilíacas comunes externas e internas bilaterales de 2,8cms, mesentéricas de 1 cm e inguinales
+T61	ENFERMEDAD 2574 2594	metástasis necrosada
+T62	PACIENTE-PROFESION 139 148	peluquero

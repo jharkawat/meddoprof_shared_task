@@ -1,0 +1,23 @@
+
+Evolución	O
+:	O
+en	O
+la	O
+revisión	O
+con	O
+Neurología	O
+el	O
+paciente	O
+negó	O
+nuevos	O
+episodios	O
+de	O
+desorientación	O
+,	O
+agitación	O
+o	O
+limitaciones	O
+de	O
+la	O
+marcha	O
+.	O

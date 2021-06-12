@@ -1,0 +1,17 @@
+
+En	O
+extremidad	O
+inferior	O
+izquierda	O
+:	O
+pulsos	O
+pedios	O
+presentes	O
+,	O
+edema	O
+a	O
+nivel	O
+maleolar	O
+con	O
+fóvea	O
+.	O

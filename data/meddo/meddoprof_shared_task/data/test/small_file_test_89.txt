@@ -1,0 +1,6 @@
+
+Enfermedades	O
+de	O
+predisposición	O
+familiar	O
+:	O

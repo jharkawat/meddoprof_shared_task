@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+estaba	O
+afebril	O
+y	O
+la	O
+exploración	O
+neurológica	O
+era	O
+normal	O
+.	O

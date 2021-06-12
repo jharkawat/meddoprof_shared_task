@@ -1,0 +1,19 @@
+
+Su	O
+familia	O
+informaba	O
+soliloquios	O
+e	O
+ideas	O
+de	O
+referencia	O
+de	O
+larga	O
+evolución	O
+,	O
+con	O
+deterioro	O
+del	O
+funcionamiento	O
+sociolaboral	O
+.	O

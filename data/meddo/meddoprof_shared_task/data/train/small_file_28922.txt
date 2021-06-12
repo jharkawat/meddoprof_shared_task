@@ -1,0 +1,12 @@
+
+Una	O
+más	O
+que	O
+manifiesta	O
+toma	O
+errática	O
+del	O
+tratamiento	O
+psicofarmacológico	O
+pautado	O
+.	O

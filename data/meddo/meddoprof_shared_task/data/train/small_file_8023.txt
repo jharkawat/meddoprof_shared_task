@@ -1,0 +1,8 @@
+
+-	O
+Peso	O
+habitual	O
+:	O
+66	O
+kg	O
+.	O

@@ -1,0 +1,22 @@
+
+Había	O
+adelgazado	O
+5	O
+kg	O
+(	O
+ahora	O
+pesaba	O
+48	O
+kg	O
+)	O
+sin	O
+hacer	O
+dieta	O
+,	O
+porque	O
+no	O
+tenía	O
+ganas	O
+de	O
+comer	O
+.	O

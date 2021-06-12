@@ -1,0 +1,26 @@
+
+Además	O
+se	O
+aprecia	O
+lesión	O
+nodular	O
+pulmonar	O
+paramediastínica	O
+anterior	O
+en	O
+lóbulo	O
+superior	O
+izquierdo	O
+por	O
+lo	O
+que	O
+se	O
+realiza	O
+PET	O
+/	O
+TC	O
+para	O
+descartar	O
+metabolismo	O
+activo	O
+.	O

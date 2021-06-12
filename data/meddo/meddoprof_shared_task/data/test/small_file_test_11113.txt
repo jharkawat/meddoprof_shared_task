@@ -1,0 +1,27 @@
+
+Se	O
+programa	O
+un	O
+trabajo	O
+conjunto	O
+con	O
+las	O
+matronas	B-PROFESION
+del	O
+centro	O
+de	O
+salud	O
+y	O
+el	O
+equipo	B-PROFESION
+de	I-PROFESION
+Salud	I-PROFESION
+Mental	I-PROFESION
+de	O
+acompañamiento	O
+en	O
+la	O
+preparación	O
+al	O
+parto	O
+.	O

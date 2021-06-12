@@ -1,0 +1,6 @@
+
+Ideación	O
+suicida	O
+escasamente	O
+estructurada	O
+.	O

@@ -1,0 +1,13 @@
+
+»	O
+Exploración	O
+abdominal	O
+:	O
+blando	O
+depresible	O
+no	O
+doloroso	O
+a	O
+la	O
+palpación	O
+.	O

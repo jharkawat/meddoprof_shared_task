@@ -1,0 +1,6 @@
+
+Drogas	O
+Ilicitas	O
+:	O
+Negados	O
+.	O

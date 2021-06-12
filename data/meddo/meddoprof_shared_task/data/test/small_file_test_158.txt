@@ -1,0 +1,19 @@
+
+Los	O
+fines	O
+de	O
+semana	O
+gusta	B-ACTIVIDAD
+de	I-ACTIVIDAD
+practicar	I-ACTIVIDAD
+deportes	I-ACTIVIDAD
+de	I-ACTIVIDAD
+alto	I-ACTIVIDAD
+riesgo	I-ACTIVIDAD
+como	O
+escalada	O
+,	O
+buceo	O
+,	O
+etc	O
+.	O

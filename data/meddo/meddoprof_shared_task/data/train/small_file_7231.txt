@@ -1,0 +1,16 @@
+
+Sin	O
+antecedentes	O
+de	O
+tabaquismo	O
+,	O
+consumo	O
+de	O
+alcohol	O
+,	O
+drogas	O
+,	O
+ni	O
+otras	O
+enfermedades	O
+.	O

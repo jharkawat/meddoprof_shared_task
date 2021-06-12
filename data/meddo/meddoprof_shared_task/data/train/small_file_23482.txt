@@ -1,0 +1,13 @@
+
+Su	O
+situación	O
+basal	O
+es	O
+de	O
+tristeza	O
+sin	O
+precisar	O
+claramente	O
+el	O
+motivo	O
+.	O

@@ -1,0 +1,25 @@
+
+En	O
+marzo	O
+de	O
+2014	O
+aparecen	O
+nuevas	O
+lesiones	O
+focales	O
+a	O
+nivel	O
+del	O
+hígado	O
+,	O
+que	O
+en	O
+estudios	O
+con	O
+TC	O
+trifásico	O
+son	O
+compatibles	O
+con	O
+hepatocarcinoma	O
+.	O

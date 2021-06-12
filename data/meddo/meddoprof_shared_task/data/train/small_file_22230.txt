@@ -1,0 +1,7 @@
+
+Padre	O
+fallecido	O
+hace	O
+7	O
+años	O
+.	O

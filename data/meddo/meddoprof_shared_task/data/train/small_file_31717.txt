@@ -1,0 +1,22 @@
+
+Tras	O
+dos	O
+precipitaciones	O
+en	O
+5	O
+meses	O
+durante	O
+2015	O
+,	O
+se	O
+instauró	O
+tratamiento	O
+farmacológico	O
+y	O
+se	O
+filió	O
+el	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+.	O

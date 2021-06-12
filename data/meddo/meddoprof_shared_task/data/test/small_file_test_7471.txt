@@ -1,0 +1,14 @@
+
+No	O
+presenta	O
+antecedentes	O
+familiares	O
+de	O
+interés	O
+,	O
+y	O
+es	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,9 @@
+
+La	O
+escolarización	O
+siempre	O
+fue	O
+complicada	O
+para	O
+África	O
+.	O

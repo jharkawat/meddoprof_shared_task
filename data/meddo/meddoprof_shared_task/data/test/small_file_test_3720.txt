@@ -1,0 +1,10 @@
+
+Auscultación	O
+cardiopulmonar	O
+con	O
+hipoventilación	O
+generalizada	O
+y	O
+sibilancias	O
+dispersas	O
+.	O

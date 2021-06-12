@@ -1,0 +1,14 @@
+
+Durante	O
+el	O
+embarazo	O
+la	O
+madre	O
+de	O
+Eva	O
+presentaba	O
+amenaza	O
+de	O
+parto	O
+prematuro	O
+.	O

@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+vivía	O
+con	O
+su	O
+esposo	O
+,	O
+un	O
+maestro	B-PROFESION
+jubilado	B-SITUACION_LABORAL
+de	O
+72	O
+años	O
+.	O

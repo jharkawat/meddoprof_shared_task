@@ -1,0 +1,14 @@
+
+La	O
+tomografía	O
+computarizada	O
+de	O
+tórax	O
+muestra	O
+un	O
+componente	O
+de	O
+neumonitis	O
+intersticial	O
+difusa	O
+.	O

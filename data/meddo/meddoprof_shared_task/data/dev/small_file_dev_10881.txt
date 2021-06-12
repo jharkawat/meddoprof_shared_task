@@ -1,0 +1,5 @@
+
+Procedencia	O
+:	O
+niega	O
+.	O

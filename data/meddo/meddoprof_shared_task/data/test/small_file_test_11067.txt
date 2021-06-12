@@ -1,0 +1,27 @@
+
+Refiere	O
+molestias	O
+muy	O
+ocasionales	O
+,	O
+pero	O
+estar	O
+preocupado	O
+por	O
+dicha	O
+lesión	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+procede	O
+a	O
+su	O
+exégesis	O
+bajo	O
+anestesia	O
+local	O
+sin	O
+complicaciones	O
+.	O

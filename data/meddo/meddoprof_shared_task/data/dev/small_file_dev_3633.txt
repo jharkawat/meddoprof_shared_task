@@ -1,0 +1,19 @@
+
+Disnea	O
+y	O
+fatiga	O
+,	O
+así	O
+como	O
+tensión	O
+muscular	O
+que	O
+justifica	O
+por	O
+la	O
+ansiedad	O
+y	O
+porque	O
+duerme	O
+poco	O
+.	O

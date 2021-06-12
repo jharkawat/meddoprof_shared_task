@@ -1,0 +1,22 @@
+
+Se	O
+derivó	O
+inicialmente	O
+al	O
+Servicio	O
+de	O
+Vascular	O
+,	O
+se	O
+decidió	O
+mantener	O
+el	O
+tratamiento	O
+esteroideo	O
+e	O
+iniciar	O
+infusión	O
+de	O
+prostaglandinas	O
+intravenosas	O
+.	O

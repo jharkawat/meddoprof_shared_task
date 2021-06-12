@@ -1,0 +1,64 @@
+T1	SINTOMA 150 165	tos persistente
+T2	SINTOMA 1151 1167	malestar general
+T3	SINTOMA 1169 1176	astenia
+T4	SINTOMA 1179 1187	anorexia
+T5	SINTOMA 1198 1207	debilidad
+T6	SINTOMA 1210 1216	mareos
+T7	SINTOMA 1255 1277	pérdida de consciencia
+T8	SINTOMA 1280 1287	náuseas
+T9	SINTOMA 1292 1299	vómitos
+T10	SINTOMA 1304 1319	dolor abdominal
+T11	SINTOMA 1414 1432	mal estado general
+T12	SINTOMA 1434 1452	tendencia al sueño
+T13	SINTOMA 1714 1729	palidez cutánea
+T14	SINTOMA 1732 1758	sequedad de piel y mucosas
+T15	SINTOMA 1903 1932	deterioro de la función renal
+T16	PROCEDIMIENTO 179 199	radiografía de tórax
+T17	PROCEDIMIENTO 272 334	tomografía computarizada (TC) toracoabdominopélvica y cerebral
+T18	PROCEDIMIENTO 336 348	rastreo óseo
+T19	PROCEDIMIENTO 350 386	tomografía por emisión de positrones
+T20	PROCEDIMIENTO 388 394	PET-TC
+T21	PROCEDIMIENTO 398 410	broncoscopia
+T22	PROCEDIMIENTO 1335 1353	Exploración física
+T23	PROCEDIMIENTO 1365 1383	exploración física
+T24	PROCEDIMIENTO 2040 2066	estudio analítico tiroideo
+T25	PROCEDIMIENTO 2441 2470	resonancia magnética cerebral
+T26	PROCEDIMIENTO 3116 3129	fluidoterapia
+T27	NEG 698 707	negativos
+T28	NEG 921 924	sin
+T29	NSCO 925 1024	llegar a alcanzar criterios de respuesta parcial ni por RECIST ni por criterios inmunorrelacionados
+T30	NEG 1251 1254	sin
+T31	NSCO 1255 1277	pérdida de consciencia
+T32	NEG 1288 1291	sin
+T33	NSCO 1292 1299	vómitos
+T34	NEG 1760 1762	No
+T35	NSCO 1763 1792	existía focalidad neurológica
+T36	NEG 2471 2474	sin
+T37	NSCO 2475 2520	evidenciarse alteraciones a nivel hipofisario
+T38	NEG 3575 3584	suspender
+T39	NSCO 3585 3617	el tratamiento con pembrolizumab
+T40	FARMACO 836 849	pembrolizumab
+T41	FARMACO 1053 1066	pembrolizumab
+T42	FARMACO 3040 3052	levotiroxina
+T43	FARMACO 3062 3079	metilprednisolona
+T44	FARMACO 3397 3409	levotiroxina
+T45	FARMACO 3425 3439	hidrocortisona
+T46	FARMACO 3461 3476	fludrocortisona
+T47	FARMACO 3604 3617	pembrolizumab
+T48	ORG_VIVO 10 15	Mujer
+T49	ORG_VIVO 116 134	médico de cabecera
+T50	ORG_VIVO 1388 1396	paciente
+T51	ORG_VIVO 3192 3200	paciente
+T52	ORG_VIVO 3307 3315	paciente
+T53	ORG_VIVO 3553 3561	paciente
+T54	ORG_VIVO 3635 3643	paciente
+T55	ENFERMEDAD 55 79	diabetes mellitus tipo 2
+T56	ENFERMEDAD 82 103	cardiopatía isquémica
+T57	ENFERMEDAD 432 456	adenocarcinoma de pulmón
+T58	ENFERMEDAD 479 495	metástasis óseas
+T59	ENFERMEDAD 1963 1975	hiponatremia
+T60	ENFERMEDAD 1997 2011	hiperpotasemia
+T61	ENFERMEDAD 2770 2793	adrenalitis autoinmunes
+T62	ENFERMEDAD 2896 2927	Hipotiroidismo primario grado 3
+T63	ENFERMEDAD 2931 2965	Insuficiencia suprarrenal primaria
+T64	SANITARIO-PROFESION 116 134	médico de cabecera

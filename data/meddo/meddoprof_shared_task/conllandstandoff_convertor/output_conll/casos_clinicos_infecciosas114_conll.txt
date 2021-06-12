@@ -1,0 +1,586 @@
+MOTIVO	O
+DE	O
+CONSULTA	O
+
+Var	O
+n	O
+de	O
+53	O
+a	O
+os	O
+con	O
+fiebre	O
+desde	O
+hace	O
+4	O
+d	O
+as	O
+de	O
+hasta	O
+39oC	O
+asociado	O
+a	O
+MEG	O
+
+
+ANTECEDENTES	O
+PERSONALES	O
+
+Sin	O
+RAM	O
+
+Fumador	O
+activo	O
+(	O
+5	O
+cig/d	O
+a	O
+;	O
+>	O
+20	O
+a	O
+os	O
+>	O
+1	O
+paq/d	O
+a	O
+)	O
+
+Ex-enolismo	O
+severo	O
+(	O
+tto	O
+con	O
+CAD	O
+,	O
+no	O
+consume	O
+hace	O
+4	O
+a	O
+os	O
+)	O
+
+Natural	O
+de	O
+Bilbao	O
+,	O
+en	O
+Palma	O
+hace	O
+11	O
+a	O
+os	O
+.	O
+No	O
+viajes	O
+recientes	O
+
+Carnicero	B-PACIENTE
+.	O
+No	O
+recuerda	O
+ltima	O
+vacunaci	O
+n	O
+para	O
+t	O
+tanos	O
+(	O
+cree	O
+que	O
+al	O
+d	O
+a	O
+)	O
+
+Dos	O
+gatos	O
+y	O
+dos	O
+perros	O
+,	O
+correctamente	O
+vacunados	O
+
+
+ANTECEDENTES	O
+PATOL	O
+GICOS	O
+
+Meningitis	O
+en	O
+la	O
+infancia	O
+,	O
+sin	O
+secuelas	O
+
+Probable	O
+hepatitis	O
+B	O
+en	O
+la	O
+infancia	O
+.	O
+Serolog	O
+as	O
+2016	O
+:	O
+HIV-	O
+,	O
+AntiHbs+	O
+,	O
+AgHbs-	O
+,	O
+AntiHbc+	O
+,	O
+VHC-	O
+Lues-	O
+
+Cefalea	O
+cr	O
+nica	O
+(	O
+tratamiento	O
+habitual	O
+paracetamol	O
+
+
+ENFERMEDAD	O
+ACTUAL	O
+
+Mordedura	O
+de	O
+su	O
+perra	O
+en	O
+ala	O
+nasal	O
+izquierda	O
+.	O
+
+48	O
+h.	O
+asintom	O
+tico	O
+leve	O
+eritema	O
+y	O
+edema	O
+perilesional	O
+
+Aparici	O
+n	O
+brusca	O
+de	O
+fiebre	O
+elevada	O
+hasta	O
+39oC	O
+
+
+Cefalea	O
+habitual	O
+
+Tos	O
+productiva	O
+matutina	O
+habitual	O
+
+No	O
+disnea	O
+en	O
+relaci	O
+n	O
+a	O
+esfuerzos	O
+
+No	O
+alteraciones	O
+deposicionales	O
+
+Dolor	O
+en	O
+fosa	O
+renal	O
+derecha	O
+.	O
+Orina	O
+``	O
+caliente	O
+''	O
+en	O
+los	O
+ltimos	O
+d	O
+as	O
+
+
+SIGNOS	O
+VITALES	O
+
+FC	O
+:	O
+73	O
+Lat/min	O
+
+PAS	O
+:	O
+125	O
+mmHg	O
+
+PAD	O
+:	O
+69	O
+mmHg	O
+
+Ta	O
+:	O
+37	O
+oC	O
+
+Sat	O
+O2	O
+:	O
+96	O
+%	O
+
+
+EXPLORACI	O
+N	O
+F	O
+SICA	O
+
+Regular	O
+estado	O
+general	O
+
+NH	O
+y	O
+NC	O
+
+Auscultaci	O
+n	O
+r	O
+tmica	O
+,	O
+sin	O
+soplos	O
+
+MVC	O
+sin	O
+ruidos	O
+sobrea	O
+adidos	O
+
+Abdomen	O
+blando	O
+y	O
+depresible	O
+,	O
+sin	O
+masas	O
+ni	O
+megalias	O
+
+Dolor	O
+lumbar	O
+bilateral	O
+de	O
+caracteristicas	O
+mec	O
+nicas	O
+
+
+PRUEBAS	O
+COMPLEMENTARIAS	O
+
+
+
+ORIENTACI	O
+N	O
+DIAGN	O
+STICA	O
+
+Fiebre	O
+sin	O
+foco	O
+,	O
+trombopenia	O
+,	O
+mordedura	O
+de	O
+perro	O
+
+
+PRUEBAS	O
+COMPLEMENTARIAS	O
+
+Rx	O
+t	O
+rax	O
+sin	O
+infiltrados	O
+ni	O
+alteraciones	O
+en	O
+la	O
+silueta	O
+card	O
+aca	O
+
+Urinocultivo	O
+
+Hemocultivos	O
+
+
+TRATAMIENTO	O
+
+Dexketoprofeno	O
+50	O
+mg	O
+en	O
+2	O
+ml	O
+
+Amoxicilina-clavulanico	O
+875/125mg	O
+cada	O
+8	O
+horas	O
+
+
+VOLUCI	O
+N	O
+EN	O
+PLANTA	O
+
+Leve	O
+disminuci	O
+n	O
+de	O
+la	O
+fiebre	O
+
+FC	O
+:	O
+72	O
+Lat/min	O
+
+PAS	O
+:	O
+181	O
+mmHg	O
+
+PAD	O
+:	O
+71	O
+mmHg	O
+
+Ta	O
+:	O
+36,8	O
+oC	O
+
+Sat	O
+O2	O
+:	O
+95	O
+%	O
+
+
+Persistien	O
+dolores	O
+osteoarticulares	O
+con	O
+predominio	O
+lumbar	O
+
+Aparici	O
+n	O
+de	O
+dolor	O
+en	O
+HCI	O
+/zona	O
+subcostal	O
+sin	O
+signos	O
+inflamatorios	O
+
+movimientos	O
+y	O
+tos	O
+
+Palpaci	O
+n	O
+costal	O
+(	O
+punta	O
+de	O
+dedo	O
+)	O
+
+Hipertrofia	O
+parot	O
+dea	O
+bilateral	O
+.	O
+No	O
+otras	O
+adenopat	O
+as	O
+
+Lesi	O
+n	O
+costrosa	O
+en	O
+ala	O
+nasal	O
+izquierda	O
+de	O
+0.5	O
+cms	O
+,	O
+leve	O
+eritema	O
+,	O
+no	O
+dolorosa	O
+,	O
+no	O
+edematizada	O
+
+No	O
+rigidez	O
+de	O
+nuca	O
+.	O
+No	O
+lesiones	O
+cut	O
+neas	O
+ni	O
+mucosas	O
+sugestivas	O
+de	O
+embolismos	O
+
+No	O
+se	O
+administr	O
+VAT	O
+ni	O
+toxoide	O
+
+13000	O
+leucos	O
+,	O
+Hb	O
+13.6	O
+,	O
+palquetas	O
+132000	O
+,	O
+Creatinina	O
+0.81	O
+
+
+
+RESULTADOS	O
+
+Se	O
+realiz	O
+gammagraf	O
+a	O
+sea	O
+que	O
+descart	O
+la	O
+posibilidad	O
+de	O
+embolismo	O
+costal	O
+o	O
+condritis	O
+
+Se	O
+mantiene	O
+tratamiento	O
+con	O
+amoxicilina	O
+clavul	O
+nico	O
+hasta	O
+completar	O
+15	O
+d	O
+as	O
+
+Anal	O
+tica	O
+de	O
+control	O
+:	O
+leucos	O
+11.400	O
+,	O
+Hb	O
+12.4	O
+,	O
+plaquetas	O
+370.000	O
+,	O
+QUICK	O
+94	O
+%	O
+,	O
+glucosa	O
+91	O
+,	O
+creat	O
+0.81	O
+,	O
+Got	O
+27	O
+,	O
+GPt	O
+51	O
+,	O
+GGt	O
+116	O
+,	O
+Fa	O
+90	O
+,	O
+PCr	O
+6.9creat	O
+0.75	O
+,	O
+Na	O
+139	O
+,	O
+K	O
+4.9	O
+,	O
+Na	O
+139	O
+,	O
+K	O
+1.9	O
+,	O
+PCr	O
+0.75	O
+
+
+Diagn	O
+stico	O
+
+Infecciones	O
+por	O
+Capnocytophaga	O
+canimorsus	O
+
+
+

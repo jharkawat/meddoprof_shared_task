@@ -1,0 +1,19 @@
+
+El	O
+fondo	O
+de	O
+ojos	O
+y	O
+la	O
+RM	O
+cerebral	O
+y	O
+angio	O
+-	O
+RM	O
+no	O
+se	O
+apreciaron	O
+hallazgos	O
+patológicos	O
+.	O

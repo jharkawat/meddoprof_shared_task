@@ -1,0 +1,6 @@
+
+No	O
+exposición	O
+a	O
+tóxicos	O
+.	O

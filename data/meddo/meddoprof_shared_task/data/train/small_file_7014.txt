@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+63	O
+años	O
+de	O
+edad	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+y	O
+con	O
+antecedentes	O
+personales	O
+de	O
+hipertensión	O
+arterial	O
+.	O

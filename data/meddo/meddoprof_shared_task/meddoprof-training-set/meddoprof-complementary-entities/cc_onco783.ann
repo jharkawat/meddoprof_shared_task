@@ -1,0 +1,176 @@
+T1	SINTOMA 125 153	deterioro del estado general
+T2	SINTOMA 156 176	clínica respiratoria
+T3	SINTOMA 625 636	malhumorado
+T4	SINTOMA 638 647	irritable
+T5	SINTOMA 650 660	inapetente
+T6	SINTOMA 738 766	deterioro del estado general
+T7	SINTOMA 769 789	clínica respiratoria
+T8	SINTOMA 799 822	dificultad respiratoria
+T9	SINTOMA 824 827	tos
+T10	SINTOMA 830 855	expectoración blanquecina
+T11	SINTOMA 868 878	hemoptisis
+T12	SINTOMA 1102 1130	deterioro de su estado basal
+T13	SINTOMA 1578 1599	dolor lumbar postural
+T14	SINTOMA 1606 1611	dolor
+T15	SINTOMA 2012 2032	perdido algo de peso
+T16	SINTOMA 2349 2357	eupneico
+T17	SINTOMA 2430 2457	crepitantes finos bibasales
+T18	SINTOMA 2542 2551	debilidad
+T19	SINTOMA 3141 3169	aumento de bilirrubina total
+T20	SINTOMA 3183 3206	elevación transaminasas
+T21	SINTOMA 3547 3575	deterioro del estado general
+T22	SINTOMA 3656 3668	dolor lumbar
+T23	SINTOMA 3935 3947	dolor lumbar
+T24	SINTOMA 4032 4055	dificultad para caminar
+T25	SINTOMA 4135 4187	alteración motora de la musculatura proximal de MMII
+T26	SINTOMA 4190 4210	alteración sensitiva
+T27	SINTOMA 4290 4323	alteración de la función hepática
+T28	SINTOMA 4567 4573	disnea
+T29	SINTOMA 4654 4672	dolor dorso/lumbar
+T30	SINTOMA 4683 4709	clínica motora y sensitiva
+T31	SINTOMA 4786 4814	deterioro del estado general
+T32	SINTOMA 4820 4835	pérdida de peso
+T33	SINTOMA 4915 4942	ensanchamiento mediastínico
+T34	SINTOMA 5177 5189	dolor lumbar
+T35	SINTOMA 5232 5259	ensanchamiento mediastínico
+T36	SINTOMA 5488 5500	dolor lumbar
+T37	SINTOMA 6950 6973	dificultad respiratoria
+T38	SINTOMA 6979 7000	desconexión del medio
+T39	SINTOMA 7039 7050	taquipneico
+T40	SINTOMA 7089 7098	cianótico
+T41	SINTOMA 7104 7122	edema en esclavina
+T42	SINTOMA 7210 7236	inestabilidad hemodinámica
+T43	SINTOMA 7388 7395	fallece
+T44	PROCEDIMIENTO 347 361	antibioterapia
+T45	PROCEDIMIENTO 564 573	anamnesis
+T46	PROCEDIMIENTO 959 973	antibioterapia
+T47	PROCEDIMIENTO 1778 1800	tratamiento analgésico
+T48	PROCEDIMIENTO 2245 2268	tratamiento antibiótico
+T49	PROCEDIMIENTO 2271 2289	Exploración física
+T50	PROCEDIMIENTO 2293 2311	exploración física
+T51	PROCEDIMIENTO 2385 2406	auscultación pulmonar
+T52	PROCEDIMIENTO 2589 2612	exploración neurológica
+T53	PROCEDIMIENTO 3269 3289	radiografía de tórax
+T54	PROCEDIMIENTO 3499 3513	antibioterapia
+T55	PROCEDIMIENTO 3971 3980	analgesia
+T56	PROCEDIMIENTO 4097 4120	exploración neurológica
+T57	PROCEDIMIENTO 4235 4255	radiografía de tórax
+T58	PROCEDIMIENTO 5787 5809	tratamiento corticoide
+T59	PROCEDIMIENTO 5884 5904	resonancia magnética
+T60	PROCEDIMIENTO 5906 5908	RM
+T61	PROCEDIMIENTO 5936 5938	RM
+T62	PROCEDIMIENTO 5988 5990	RM
+T63	PROCEDIMIENTO 6703 6715	radioterapia
+T64	PROCEDIMIENTO 7356 7374	sedación paliativa
+T65	UNC 289 300	sospecha de
+T66	USCO 301 323	infección respiratoria
+T67	NEG 328 330	no
+T68	NSCO 331 361	ha respondido a antibioterapia
+T69	NEG 895 898	sin
+T70	NSCO 899 948	ingreso con diagnóstico de infección respiratoria
+T71	NEG 1132 1134	No
+T72	NSCO 1135 1163	ha percibido mejoría clínica
+T73	NEG 1218 1220	no
+T74	NSCO 1221 1248	tiene fuerzas para caminar"
+T75	NEG 1514 1520	impide
+T76	NSCO 1521 1539	conciliar el sueño
+T77	NEG 1861 1877	imposibilidad de
+T78	NSCO 1878 1934	descansar adecuadamente ha deteriorado su estado general
+T79	NEG 2034 2036	no
+T80	NSCO 2037 2049	sale de casa
+T81	NEG 2090 2092	no
+T82	NSCO 2093 2120	tiene fuerzas para caminar"
+T83	NEG 3480 3482	no
+T84	NSCO 3483 3513	ha respondido a antibioterapia
+T85	UNC 3780 3788	aparente
+T86	USCO 3789 3810	factor desencadenante
+T87	UNC 4341 4349	sospecha
+T88	USCO 4350 4413	diagnóstica es un proceso neoplásico con afectación metastásica
+T89	NEG 4575 4577	No
+T90	NEG 4621 4623	no
+T91	NSCO 4624 4709	se relaciona con el nivel del dolor dorso/lumbar ni con la clínica motora y sensitiva
+T92	NEG 4837 4839	no
+T93	NSCO 4840 4893	justifica las alteraciones objetivadas en el análisis
+T94	UNC 4947 4953	podría
+T95	USCO 4954 4985	corresponder a neoplasia tímica
+T96	NEG 5044 5046	no
+T97	NSCO 5047 5096	presenta fluctuaciones ni mejoría con el descanso
+T98	NEG 5098 5105	Tampoco
+T99	NSCO 5106 5159	presenta afectación de oculomotores ni clínica bulbar
+T100	NEG 5161 5163	No
+T101	NSCO 5164 5201	justifica el dolor lumbar invalidante
+T102	UNC 5264 5270	podría
+T103	USCO 5271 5308	corresponderse con proceso neoplásico
+T104	NEG 5386 5389	sin
+T105	NSCO 5390 5414	mejorar con la actividad
+T106	NEG 5472 5474	No
+T107	NSCO 5475 5512	justifica el dolor lumbar invalidante
+T108	NEG 5677 5679	no
+T109	NSCO 5680 5706	orienta a dicha enfermedad
+T110	UNC 5734 5745	sospecha de
+T111	USCO 5746 5776	síndrome de compresión medular
+T112	NEG 6338 6341	sin
+T113	NSCO 6342 6382	datos de mielopatía en el momento actual
+T114	NEG 6627 6630	sin
+T115	NSCO 6631 6650	datos de mielopatía
+T116	NEG 6656 6667	ausencia de
+T117	NSCO 6668 6691	diagnóstico histológico
+T118	NEG 6693 6702	desestima
+T119	NSCO 6703 6723	radioterapia urgente
+T120	NEG 7014 7017	sin
+T121	NSCO 7018 7037	respuesta estímulos
+T122	UNC 7134 7148	compatible con
+T123	USCO 7149 7194	un episodio de síndrome de vena cava superior
+T124	NEG 7396 7399	sin
+T125	NSCO 7400 7476	haber podido iniciar estudio de extensión ni obtener diagnóstico histológico
+T126	FARMACO 978 991	levofloxacino
+T127	FARMACO 5834 5846	dexametasona
+T128	ORG_VIVO 28 33	Varón
+T129	ORG_VIVO 377 387	personales
+T130	ORG_VIVO 388 396	Paciente
+T131	ORG_VIVO 598 606	Paciente
+T132	ORG_VIVO 665 673	paciente
+T133	ORG_VIVO 1253 1261	paciente
+T134	ORG_VIVO 1837 1845	paciente
+T135	ORG_VIVO 2331 2339	Paciente
+T136	ORG_VIVO 2568 2576	paciente
+T137	ORG_VIVO 3518 3526	paciente
+T138	ORG_VIVO 4218 4226	paciente
+T139	ORG_VIVO 6421 6429	paciente
+T140	ORG_VIVO 6728 6736	paciente
+T141	ORG_VIVO 6911 6919	paciente
+T142	ORG_VIVO 7267 7275	paciente
+T143	ORG_VIVO 7340 7347	familia
+T144	ORG_VIVO 7379 7387	paciente
+T145	ENFERMEDAD 301 323	infección respiratoria
+T146	ENFERMEDAD 397 406	exfumador
+T147	ENFERMEDAD 436 446	hipertenso
+T148	ENFERMEDAD 926 948	infección respiratoria
+T149	ENFERMEDAD 1325 1346	fractura de clavícula
+T150	ENFERMEDAD 1489 1510	fractura de clavícula
+T151	ENFERMEDAD 3045 3058	plaquetopenia
+T152	ENFERMEDAD 3306 3333	ensanchamiento mediastínico
+T153	ENFERMEDAD 3453 3475	infección respiratoria
+T154	ENFERMEDAD 3731 3752	fractura de clavícula
+T155	ENFERMEDAD 3815 3836	fractura de clavícula
+T156	ENFERMEDAD 4260 4287	ensanchamiento mediastínico
+T157	ENFERMEDAD 4368 4386	proceso neoplásico
+T158	ENFERMEDAD 4432 4462	síndrome de compresión medular
+T159	ENFERMEDAD 4518 4535	Aneurisma aórtico
+T160	ENFERMEDAD 4537 4564	ensanchamiento mediastínico
+T161	ENFERMEDAD 4897 4913	Miastenia gravis
+T162	ENFERMEDAD 4915 4942	ensanchamiento mediastínico
+T163	ENFERMEDAD 4969 5014	neoplasia tímica y debilidad proximal en MMII
+T164	ENFERMEDAD 5205 5230	Síndrome de Eaton Lambert
+T165	ENFERMEDAD 5232 5259	ensanchamiento mediastínico
+T166	ENFERMEDAD 5290 5308	proceso neoplásico
+T167	ENFERMEDAD 5516 5546	Esclerosis lateral amiotrófica
+T168	ENFERMEDAD 5746 5776	síndrome de compresión medular
+T169	ENFERMEDAD 6003 6079	infiltración metastásica difusa de la médula ósea de todo el esqueleto axial
+T170	ENFERMEDAD 6351 6361	mielopatía
+T171	ENFERMEDAD 6640 6650	mielopatía
+T172	ENFERMEDAD 7164 7194	síndrome de vena cava superior
+T173	ENFERMEDAD 7290 7312	neoplásica metastásica
+T174	SANITARIO-PROFESION 246 283	equipo de guardia de Medicina Interna
+T175	PACIENTE-SITUACION_LABORAL 460 468	jubilado
+T176	PACIENTE-ACTIVIDAD 1374 1396	trabajaba en su huerta

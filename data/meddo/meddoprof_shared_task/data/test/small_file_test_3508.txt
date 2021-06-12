@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+experimenta	O
+una	O
+importante	O
+mejoría	O
+de	O
+la	O
+sintomatología	O
+que	O
+presentaba	O
+,	O
+con	O
+reaparición	O
+del	O
+apetito	O
+y	O
+ganancia	O
+ponderal	O
+progresiva	O
+.	O

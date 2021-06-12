@@ -1,0 +1,27 @@
+
+A	O
+pesar	O
+de	O
+tratamiento	O
+con	O
+risperidona	O
+,	O
+olanzapina	O
+,	O
+quetiapina	O
+,	O
+levomepromazina	O
+,	O
+aripiprazol	O
+,	O
+etc	O
+.	O
+,	O
+solo	O
+se	O
+consigue	O
+un	O
+escaso	O
+alivio	O
+sintomático	O
+.	O

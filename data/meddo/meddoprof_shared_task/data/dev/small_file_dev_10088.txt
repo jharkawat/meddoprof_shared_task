@@ -1,0 +1,14 @@
+
+Decía	O
+que	O
+las	O
+maestras	B-PROFESION
+mayores	O
+intentaban	O
+perjudicarla	O
+debido	O
+a	O
+su	O
+diferente	O
+religión	O
+.	O

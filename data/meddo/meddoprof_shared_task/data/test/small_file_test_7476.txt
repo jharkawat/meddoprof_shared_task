@@ -1,0 +1,22 @@
+
+En	O
+diciembre	O
+2009	O
+,	O
+la	O
+paciente	O
+comienza	O
+con	O
+molestias	O
+localizadas	O
+en	O
+parte	O
+anterior	O
+del	O
+cuello	O
+,	O
+palpándose	O
+nódulo	O
+tiroideo	O
+pétreo	O
+.	O

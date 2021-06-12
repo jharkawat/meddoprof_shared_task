@@ -1,0 +1,8 @@
+
+Parecía	O
+hablar	O
+entre	O
+dientes	O
+consigo	O
+misma	O
+.	O

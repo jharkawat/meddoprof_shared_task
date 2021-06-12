@@ -1,0 +1,16 @@
+
+En	O
+consulta	O
+del	O
+centro	O
+de	O
+salud	O
+presenta	O
+tos	O
+seca	O
+persistente	O
+,	O
+disnea	O
+y	O
+taquipnea	O
+.	O

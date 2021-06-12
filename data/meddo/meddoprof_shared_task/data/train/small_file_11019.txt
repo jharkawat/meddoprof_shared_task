@@ -1,0 +1,6 @@
+
+No	O
+presentaba	O
+ingurgitación	O
+yugular	O
+.	O

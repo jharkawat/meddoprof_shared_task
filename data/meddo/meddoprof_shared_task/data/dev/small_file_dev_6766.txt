@@ -1,0 +1,14 @@
+
+No	O
+presenta	O
+edemas	O
+en	O
+miembros	O
+inferiores	O
+,	O
+ni	O
+estigmas	O
+de	O
+embolismos	O
+sistémicos	O
+.	O

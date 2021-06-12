@@ -1,0 +1,17 @@
+
+En	O
+las	O
+entrevistas	O
+,	O
+el	O
+paciente	O
+no	O
+aporta	O
+una	O
+explicación	O
+consistente	O
+para	O
+sus	O
+oscilaciones	O
+anímicas	O
+.	O

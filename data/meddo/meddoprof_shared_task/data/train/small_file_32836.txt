@@ -1,0 +1,15 @@
+
+Regular	O
+los	O
+estímulos	O
+del	O
+ambiente	O
+para	O
+mantener	O
+los	O
+ciclos	O
+día	O
+-	O
+noche	O
+normales	O
+.	O

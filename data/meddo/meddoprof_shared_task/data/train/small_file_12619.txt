@@ -1,0 +1,26 @@
+
+Al	O
+disminuir	O
+PaO2	O
+/	O
+FiO2	O
+de	O
+ECMO	O
+se	O
+realiza	O
+cambio	O
+de	O
+membrana	O
+sufriendo	O
+la	O
+paciente	O
+una	O
+parada	O
+respiratoria	O
+con	O
+repercusión	O
+hemodinámica	O
+durante	O
+el	O
+proceso	O
+.	O

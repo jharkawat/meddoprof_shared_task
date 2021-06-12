@@ -1,0 +1,11 @@
+
+Su	O
+hijo	O
+tiene	O
+un	O
+perro	O
+al	O
+que	O
+ve	O
+ocasionalmente	O
+.	O

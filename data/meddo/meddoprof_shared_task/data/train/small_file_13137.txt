@@ -1,0 +1,14 @@
+
+Se	O
+inicia	O
+tratamiento	O
+quimioterápico	O
+intratecal	O
+con	O
+rápida	O
+y	O
+favorable	O
+evolución	O
+del	O
+paciente	O
+.	O

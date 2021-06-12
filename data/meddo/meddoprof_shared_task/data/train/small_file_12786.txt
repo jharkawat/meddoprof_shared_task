@@ -1,0 +1,25 @@
+
+En	O
+cuanto	O
+a	O
+la	O
+exploración	O
+física	O
+a	O
+su	O
+ingreso	O
+,	O
+destacaba	O
+:	O
+Peso	O
+en	O
+percentil	O
+(	O
+p	O
+)	O
+19	O
+y	O
+talla	O
+en	O
+p10	O
+.	O

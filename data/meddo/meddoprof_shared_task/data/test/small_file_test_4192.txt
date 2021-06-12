@@ -1,0 +1,5 @@
+
+Derrame	O
+pleural	O
+izquierdo	O
+.	O

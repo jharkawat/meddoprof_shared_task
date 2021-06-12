@@ -1,0 +1,18 @@
+
+Auscultación	O
+:	O
+Murmullo	O
+pulmonar	O
+y	O
+respiraciones	O
+bronquiales	O
+presentes	O
+y	O
+normales	O
+,	O
+no	O
+se	O
+ausculta	O
+ruidos	O
+respiratorios	O
+.	O

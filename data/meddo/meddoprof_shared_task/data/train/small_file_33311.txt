@@ -1,0 +1,12 @@
+
+No	O
+presenta	O
+datos	O
+de	O
+interés	O
+en	O
+cuanto	O
+a	O
+este	O
+patrón	O
+.	O

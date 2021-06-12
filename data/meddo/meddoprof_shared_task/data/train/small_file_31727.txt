@@ -1,0 +1,21 @@
+
+Fractura	O
+cerrada	O
+de	O
+pelvis	O
+con	O
+afectación	O
+de	O
+ala	O
+sacra	O
+izquierda	O
+,	O
+ramas	O
+iliopubiana	O
+izquierda	O
+y	O
+apófisis	O
+transversa	O
+L5	O
+izquierda	O
+.	O

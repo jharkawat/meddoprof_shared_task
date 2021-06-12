@@ -1,0 +1,7 @@
+
+Embarazo	O
+normal	O
+,	O
+parto	O
+normal	O
+.	O

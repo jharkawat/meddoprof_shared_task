@@ -1,0 +1,26 @@
+
+En	O
+la	O
+radiografía	O
+se	O
+evidenció	O
+una	O
+fractura	O
+distal	O
+de	O
+húmero	O
+izquierdo	O
+,	O
+una	O
+fractura	O
+proximal	O
+de	O
+cúbito	O
+izquierdo	O
+y	O
+fractura	O
+proximal	O
+de	O
+radio	O
+izquierdo	O
+.	O

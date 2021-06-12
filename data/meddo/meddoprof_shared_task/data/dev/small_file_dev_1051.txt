@@ -1,0 +1,5 @@
+
+Es	O
+muy	O
+impulsivo	O
+.	O

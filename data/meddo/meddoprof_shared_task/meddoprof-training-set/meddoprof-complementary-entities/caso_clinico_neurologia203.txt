@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 42 años de edad. Violonchelista de profesión, con antecedentes personales de histerectomía más doble anexectomía, por endometriosis, en 2008 y diagnosticada de esclerosis múltiple remitente recurrente (EMRR) en 1997, en tratamiento con interferón beta 1a 44 mg, paroxetina, bromazepam, doxilamina succinato y anticonceptivos orales. No consume productos de herbolario. Acude al Servicio de Urgencias por presentar un cuadro de dolor abdominal de gran intensidad y vómitos, de 2 días de evolución. Los 15 días previos la paciente refiere sensación de pesadez gástrica, náuseas y astenia. No refiere consumo de tóxicos. Un mes antes le habían aumentado la dosis de interferón beta 1b de 22 mg a 44 mg, tras presentar un cuadro clínico compatible con brote troncoencefálico de esclerosis múltiple que se trató con 5 bolos de 1 g de metilprednisolona intravenosa.
+
+Examen físico
+Normotensa, afebril (36,8 oC), leve deshidratación mucocutánea y escleras ictéricas. Auscultación cardiopulmonar normal. Abdomen globuloso, doloroso a la palpación en el cuadrante superior derecho. Palpación de borde hepático, doloroso, 2 cm por debajo del reborde costal. Pulsos periféricos conservados. No edemas ni signos de insuficiencia venosa crónica.
+Exploración neurológica: hipoestesia táctil leve en las extremidades izquierdas y reflejos osteotendinosos exaltados, reflejo cutáneo-plantar extensor izquierdo. Sin otra focalidad (EDSS 1.5).
+
+Pruebas complementarias
+• Analítica de sangre: elevación de transaminasas séricas (GOT/GPT 625 UI/l/1.055 UI/l, GGT 471 UI/l, LDH 628 UI/l) y bilirrubina total 2,7 mg/100 ml (directa 1,3 mg/100 ml, indirecta 0,8 mg/100 ml). En el hemograma destaca 11.300 leucocitos con 70% neutrófilos, plaquetas 450.000. VSG 53 mm. Perfil férrico sin alteraciones ni otros hallazgos relevantes.
+• Serologías: VHA, VHB y VHC negativos. CMV y VEB negativos.
+• Estudio inmunológico: ANA, SMA, anti-LKM1, pANCA, anti-LC1 y AMA negativos.
+• Estudio genético: negativo para mutaciones del gen HFE, de hemocromatosis hereditaria.
+• Ecografía abdominal: hígado aumentado de tamaño, hiperecogenicidad parcheada. Sin líquido libre en la cavidad abdominal.
+• Biopsia hepática: necrosis e inflamación portal y periportal, con hepatitis de interfase, con mínima fibrosis. No concluyente.
+
+Diagnóstico
+Hepatitis aguda grado 4 secundaria a hepatotoxidad por interferón beta.
+
+Tratamiento
+Retirada del tratamiento previo. Prednisona 60 mg al día por vía intravenosa durante 5 días y posteriormente por vía oral, reduciendo paulatinamente la dosis en unas 6 semanas hasta su retirada.
+
+Evolución
+La paciente es ingresada en el Servicio de Aparato Digestivo. Se retira todo el tratamiento que tomaba hasta ese momento y se instaura corticoterapia a altas dosis (1 mg/kg/día) por vía intravenosa. Experimenta una mejoría clínica progresiva del cuadro. En la analítica de control una semana después se evidencia disminución marcada de los niveles de transaminasas (GOT/GPT 225 UI/l/398 UI/l, GGT 240 UI/l) y normalización de las mismas a los 15 días. Un mes después la paciente permanece asintomática, sin nuevas complicaciones, por lo que se decide retomar el tratamiento modulador de la enfermedad para la esclerosis múltiple con acetato de glatirámero.

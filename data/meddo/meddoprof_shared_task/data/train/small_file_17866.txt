@@ -1,0 +1,17 @@
+
+Fue	O
+trasladado	O
+de	O
+forma	O
+precoz	O
+a	O
+la	O
+planta	O
+de	O
+hospitalización	O
+del	O
+Servicio	O
+de	O
+Medicina	O
+Interna	O
+.	O

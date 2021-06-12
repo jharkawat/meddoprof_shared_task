@@ -1,0 +1,26 @@
+
+Se	O
+cursa	O
+analítica	O
+de	O
+sangre	O
+y	O
+orina	O
+con	O
+los	O
+siguientes	O
+resultados	O
+:	O
+Hemograma	O
+:	O
+Leucocitosis	O
+de	O
+20	O
+.	O
+000	O
+con	O
+18	O
+.	O
+780	O
+neutrófilos	O
+.	O

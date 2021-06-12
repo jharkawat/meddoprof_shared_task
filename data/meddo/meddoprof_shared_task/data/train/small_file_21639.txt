@@ -1,0 +1,21 @@
+
+Tuvo	O
+salidas	O
+terapéuticas	O
+y	O
+se	O
+pactó	O
+que	O
+acudiese	O
+al	O
+hospital	O
+de	O
+día	O
+para	O
+que	O
+tuviese	O
+un	O
+seguimiento	O
+más	O
+próximo	O
+.	O

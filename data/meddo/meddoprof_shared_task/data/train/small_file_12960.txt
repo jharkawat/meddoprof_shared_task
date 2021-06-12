@@ -1,0 +1,18 @@
+
+Se	O
+procede	O
+a	O
+la	O
+intervención	O
+percutánea	O
+coronaria	O
+sobre	O
+la	O
+descendente	O
+anterior	O
+,	O
+que	O
+no	O
+es	O
+exitosa	O
+.	O

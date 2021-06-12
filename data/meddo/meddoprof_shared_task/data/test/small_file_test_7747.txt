@@ -1,0 +1,16 @@
+
+Abdomen	O
+:	O
+depresible	O
+,	O
+no	O
+doloroso	O
+,	O
+ruidos	O
+hidroaéreos	O
+audibles	O
+,	O
+ni	O
+tumores	O
+palpables	O
+.	O

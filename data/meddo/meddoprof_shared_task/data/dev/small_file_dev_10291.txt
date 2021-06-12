@@ -1,0 +1,27 @@
+
+De	O
+acuerdo	O
+a	O
+su	O
+mamá	O
+,	O
+una	O
+de	O
+sus	O
+tías	O
+también	O
+era	O
+muy	O
+nerviosa	O
+y	O
+tímida	O
+y	O
+fue	O
+internada	O
+en	O
+un	O
+servicio	O
+psiquiátrico	O
+por	O
+depresión	O
+.	O

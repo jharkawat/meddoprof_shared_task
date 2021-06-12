@@ -1,0 +1,26 @@
+
+Este	O
+restaurante	B-PROFESION
+era	I-PROFESION
+de	I-PROFESION
+su	I-PROFESION
+padre	I-PROFESION
+y	O
+de	O
+los	O
+hermanos	O
+de	O
+su	O
+padre	O
+,	O
+y	O
+pasó	O
+a	O
+ser	O
+de	O
+Juan	O
+Manuel	O
+y	O
+sus	O
+hermanos	O
+.	O

@@ -1,0 +1,6 @@
+
+No	O
+cuadros	O
+infecciosos	O
+recientes	O
+.	O

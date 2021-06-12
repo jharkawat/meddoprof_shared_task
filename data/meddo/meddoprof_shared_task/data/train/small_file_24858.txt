@@ -1,0 +1,9 @@
+
+-	O
+Probable	O
+trastorno	O
+disocial	O
+de	O
+la	O
+personalidad	O
+.	O

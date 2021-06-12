@@ -1,0 +1,9 @@
+
+Seguía	O
+tratamiento	O
+habitual	O
+con	O
+Enalapril	O
+y	O
+Metformina	O
+.	O

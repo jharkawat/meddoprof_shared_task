@@ -1,0 +1,12 @@
+
+También	O
+interpreta	O
+las	O
+campanadas	O
+como	O
+señales	O
+que	O
+anuncian	O
+su	O
+muerte	O
+.	O

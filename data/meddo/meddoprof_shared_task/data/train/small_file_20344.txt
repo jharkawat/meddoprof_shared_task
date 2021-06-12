@@ -1,0 +1,17 @@
+
+Las	O
+burlas	O
+habían	O
+crecido	O
+hasta	O
+convertirse	O
+en	O
+un	O
+verdadero	O
+acoso	O
+cuando	O
+estaba	O
+en	O
+séptimo	O
+grado	O
+.	O

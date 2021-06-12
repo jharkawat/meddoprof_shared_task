@@ -1,0 +1,13 @@
+
+En	O
+dicho	O
+hospital	O
+permanece	O
+ingresada	O
+hasta	O
+alcanzar	O
+la	O
+mayoría	O
+de	O
+edad	O
+.	O

@@ -1,0 +1,22 @@
+
+Se	O
+solicitó	O
+valoración	O
+por	O
+el	O
+Servicio	O
+de	O
+Ginecología	O
+pues	O
+la	O
+paciente	O
+refería	O
+que	O
+los	O
+episodios	O
+febriles	O
+coincidían	O
+con	O
+la	O
+menstruación	O
+.	O

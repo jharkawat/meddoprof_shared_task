@@ -1,0 +1,6 @@
+
+No	O
+recibe	O
+tratamiento	O
+habitual	O
+.	O

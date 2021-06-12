@@ -1,0 +1,22 @@
+
+Ha	O
+mantenido	O
+un	O
+tratamiento	O
+de	O
+vitamina	O
+K	O
+intramuscular	O
+y	O
+suplementos	O
+vitamínicos	O
+vía	O
+oral	O
+para	O
+contrarrestar	O
+la	O
+malabsorción	O
+tras	O
+la	O
+cirugía	O
+.	O

@@ -1,0 +1,24 @@
+
+Se	O
+decidió	O
+suspender	O
+la	O
+antibioterapia	O
+y	O
+continuar	O
+con	O
+enoxaparina	O
+,	O
+desapareciendo	O
+la	O
+fiebre	O
+al	O
+día	O
+siguiente	O
+(	O
+sexto	O
+día	O
+de	O
+ingreso	O
+)	O
+.	O

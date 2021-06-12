@@ -1,0 +1,16 @@
+
+A	O
+su	O
+ingreso	O
+se	O
+estableció	O
+el	O
+diagnóstico	O
+diferencial	O
+entre	O
+las	O
+causas	O
+de	O
+derrame	O
+pericárdico	O
+:	O

@@ -1,0 +1,11 @@
+
+Trabajaba	O
+de	O
+peluquera	B-PROFESION
+y	O
+esteticista	B-PROFESION
+desde	O
+hacía	O
+30	O
+años	O
+.	O

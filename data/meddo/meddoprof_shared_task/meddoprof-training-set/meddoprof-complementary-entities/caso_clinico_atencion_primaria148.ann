@@ -1,0 +1,106 @@
+T1	SINTOMA 42 69	dolor en hombro y hemitórax
+T2	SINTOMA 79 93	escozor axilar
+T3	SINTOMA 228 237	fallecido
+T4	SINTOMA 523 550	dolor en hombro y hemitórax
+T5	SINTOMA 560 574	escozor axilar
+T6	SINTOMA 814 836	Dolor en región axilar
+T7	SINTOMA 890 896	soplos
+T8	SINTOMA 1164 1191	dolor en hombro y hemitórax
+T9	SINTOMA 1673 1678	dolor
+T10	SINTOMA 2964 2969	dolor
+T11	SINTOMA 3080 3108	dolor intenso en área glútea
+T12	SINTOMA 3229 3274	parestesias desde área lumbar a glúteo y MMII
+T13	SINTOMA 3527 3539	buen apetito
+T14	SINTOMA 3708 3741	dolor intenso en miembro inferior
+T15	SINTOMA 3886 3893	fallece
+T16	SINTOMA 4397 4415	masa en mediastino
+T17	SINTOMA 5061 5074	fallecimiento
+T18	PROCEDIMIENTO 1228 1250	tratamiento analgésico
+T19	PROCEDIMIENTO 1466 1493	Ecografía de hombro derecho
+T20	PROCEDIMIENTO 1580 1602	tratamiento analgésico
+T21	PROCEDIMIENTO 1696 1707	Rx de tórax
+T22	PROCEDIMIENTO 2034 2045	TC de tórax
+T23	PROCEDIMIENTO 2048 2055	biopsia
+T24	PROCEDIMIENTO 2070 2078	TC tórax
+T25	PROCEDIMIENTO 2735 2767	Radioterapia antiálgica torácica
+T26	PROCEDIMIENTO 4515 4522	biopsia
+T27	PROCEDIMIENTO 4789 4800	Rx de tórax
+T28	PROCEDIMIENTO 4939 4958	cuidados paliativos
+T29	NEG 658 660	No
+T30	NSCO 661 679	traumatismo previo
+T31	NEG 887 889	no
+T32	NSCO 890 896	soplos
+T33	NEG 898 900	No
+T34	NSCO 901 930	se aprecian lesiones cutáneas
+T35	UNC 940 951	sospecha de
+T36	USCO 952 972	contractura muscular
+T37	NEG 1065 1067	no
+T38	NSCO 1068 1075	mejoría
+T39	UNC 1311 1322	sospecha de
+T40	USCO 1323 1414	tendinitis del manguito de los rotadores versus hernia discal para valoración y tratamiento
+T41	UNC 1802 1811	No parece
+T42	USCO 1812 1842	existir lesión costal asociada
+T43	NEG 1917 1920	sin
+T44	NSCO 1921 1930	hallazgos
+T45	UNC 2436 2451	compatibles con
+T46	USCO 2452 2476	Carcinoma Neuroendocrino
+T47	NEG 3150 3152	no
+T48	NSCO 3153 3161	continuo
+T49	NEG 3381 3383	no
+T50	NSCO 3384 3411	puede salir de su domicilio
+T51	NEG 3441 3443	no
+T52	NSCO 3444 3499	es totalmente consciente de la gravedad de la situación
+T53	NEG 3746 3750	cede
+T54	NSCO 3751 3786	solo parcialmente con la medicación
+T55	NEG 4074 4076	no
+T56	NSCO 4077 4123	era consciente de la gravedad de su enfermedad
+T57	NEG 4626 4639	inespecíficos
+T58	NEG 4709 4711	no
+T59	NSCO 4712 4735	mejoría de los síntomas
+T60	FARMACO 1004 1014	Ibuprofeno
+T61	FARMACO 2651 2660	Fentanilo
+T62	FARMACO 2662 2673	Pregabalina
+T63	FARMACO 2675 2683	Diazepam
+T64	FARMACO 2685 2694	Omeprazol
+T65	ORG_VIVO 19 27	Paciente
+T66	ORG_VIVO 210 220	familiares
+T67	ORG_VIVO 222 227	padre
+T68	ORG_VIVO 272 282	personales
+T69	ORG_VIVO 1092 1100	paciente
+T70	ORG_VIVO 1721 1730	radiólogo
+T71	ORG_VIVO 2789 2797	paciente
+T72	ORG_VIVO 3347 3353	esposa
+T73	ORG_VIVO 3369 3377	paciente
+T74	ORG_VIVO 3432 3440	paciente
+T75	ORG_VIVO 3617 3625	paciente
+T76	ORG_VIVO 3859 3865	esposa
+T77	ORG_VIVO 3868 3872	hijo
+T78	ORG_VIVO 3877 3885	paciente
+T79	ORG_VIVO 3925 3933	Familiar
+T80	ORG_VIVO 3951 3959	paciente
+T81	ORG_VIVO 3973 3979	esposa
+T82	ORG_VIVO 3984 3988	hijo
+T83	ORG_VIVO 3994 3999	madre
+T84	ORG_VIVO 4065 4073	paciente
+T85	ORG_VIVO 5019 5027	paciente
+T86	ORG_VIVO 5043 5051	familiar
+T87	ENFERMEDAD 241 256	cáncer de colon
+T88	ENFERMEDAD 286 301	Hernia inguinal
+T89	ENFERMEDAD 337 359	Rotura menisco rodilla
+T90	ENFERMEDAD 913 930	lesiones cutáneas
+T91	ENFERMEDAD 952 972	contractura muscular
+T92	ENFERMEDAD 1323 1346	tendinitis del manguito
+T93	ENFERMEDAD 1371 1384	hernia discal
+T94	ENFERMEDAD 1514 1561	entesopatía distal del tendón del supraespinoso
+T95	ENFERMEDAD 1781 1800	lesión extrapleural
+T96	ENFERMEDAD 1820 1833	lesión costal
+T97	ENFERMEDAD 2080 2154	Neoformación en segmento apical de LSD que infiltra pared costal posterior
+T98	ENFERMEDAD 2156 2192	adenopatías mediastínicas y axilares
+T99	ENFERMEDAD 2203 2252	nódulos pulmonares en LM sugerentes de metástasis
+T100	ENFERMEDAD 2255 2320	lesiones líticas óseas en D10, esternón y primeros arcos costales
+T101	ENFERMEDAD 2452 2476	Carcinoma Neuroendocrino
+T102	ENFERMEDAD 2518 2552	Carcinoma Neuroendocrino de Pulmón
+T103	ENFERMEDAD 4450 4469	neoplasia de Pulmón
+T104	ENFERMEDAD 4827 4848	neoformación pulmonar
+T105	PACIENTE-PROFESION 439 459	Conductor de autobús
+T106	SANITARIO-PROFESION 1721 1730	radiólogo

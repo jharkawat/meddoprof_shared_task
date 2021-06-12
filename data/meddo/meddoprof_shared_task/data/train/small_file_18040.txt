@@ -1,0 +1,23 @@
+
+Se	O
+realizó	O
+punción	O
+aspiración	O
+con	O
+aguja	O
+fina	O
+(	O
+PAAF	O
+)	O
+de	O
+la	O
+lesión	O
+con	O
+resultado	O
+compatible	O
+con	O
+neoplasia	O
+de	O
+células	O
+plasmáticas	O
+.	O

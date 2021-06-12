@@ -1,0 +1,11 @@
+
+Abordaje	O
+y	O
+estudio	O
+de	O
+Hemoptisis	O
+en	O
+consulta	O
+de	O
+Medicina	O
+Interna	O

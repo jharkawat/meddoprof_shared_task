@@ -1,0 +1,21 @@
+
+A	O
+las	O
+48	O
+horas	O
+del	O
+ingreso	O
+,	O
+cultivos	O
+con	O
+ausencia	O
+de	O
+crecimiento	O
+y	O
+serología	O
+positiva	O
+para	O
+IgM	O
+de	O
+Leptospira	O
+.	O

@@ -1,0 +1,25 @@
+
+Se	O
+encuentra	O
+consciente	O
+y	O
+orientado	O
+,	O
+y	O
+afebril	O
+,	O
+bien	O
+hidratado	O
+y	O
+perfundido	O
+,	O
+estable	O
+hemodinámicamente	O
+con	O
+tensiones	O
+de	O
+112	O
+/	O
+95	O
+mmHg	O
+.	O

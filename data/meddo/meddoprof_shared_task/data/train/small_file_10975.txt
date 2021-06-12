@@ -1,0 +1,9 @@
+
+Hemocultivos	O
+seriados	O
+en	O
+tres	O
+ocasiones	O
+:	O
+negativos	O
+.	O

@@ -1,0 +1,19 @@
+
+Una	O
+vez	O
+diagnosticado	O
+de	O
+estenosis	O
+de	O
+uretra	O
+bulbar	O
+recidivante	O
+,	O
+se	O
+realiza	O
+una	O
+uretroplastia	O
+término	O
+-	O
+terminal	O
+.	O

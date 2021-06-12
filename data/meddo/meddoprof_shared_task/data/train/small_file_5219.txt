@@ -1,0 +1,19 @@
+
+Se	O
+realiza	O
+transfusión	O
+concentrados	O
+de	O
+hematíes	O
+sin	O
+incidencias	O
+clínicas	O
+se	O
+realiza	O
+estudio	O
+de	O
+anemias	O
+y	O
+pruebas	O
+complementarias	O
+.	O

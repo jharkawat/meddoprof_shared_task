@@ -1,0 +1,14 @@
+
+Dicha	O
+afectación	O
+sindrómica	O
+se	O
+encuadra	O
+en	O
+el	O
+gran	O
+grupo	O
+de	O
+las	O
+vasculitis	O
+.	O

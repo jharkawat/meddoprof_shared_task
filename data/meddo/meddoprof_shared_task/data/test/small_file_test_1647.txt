@@ -1,0 +1,22 @@
+
+No	O
+refería	O
+sintomatología	O
+dolorosa	O
+,	O
+pero	O
+sí	O
+un	O
+sangrado	O
+ligero	O
+con	O
+el	O
+cepillado	O
+o	O
+por	O
+el	O
+trauma	O
+de	O
+la	O
+masticación	O
+.	O

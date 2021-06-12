@@ -1,0 +1,17 @@
+
+Se	O
+introduce	O
+aripiprazol	O
+hasta	O
+30	O
+mg	O
+/	O
+día	O
+con	O
+buena	O
+tolerancia	O
+por	O
+parte	O
+del	O
+paciente	O
+.	O

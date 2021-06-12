@@ -1,0 +1,18 @@
+
+-	O
+Sepsis	O
+grave	O
+de	O
+origen	O
+abdominal	O
+:	O
+absceso	O
+hepático	O
+por	O
+Bacteroides	O
+fragilis	O
+drenado	O
+de	O
+forma	O
+percutánea	O
+.	O

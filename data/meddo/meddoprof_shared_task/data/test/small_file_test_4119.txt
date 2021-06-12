@@ -1,0 +1,23 @@
+
+Acude	O
+nuevamente	O
+a	O
+consulta	O
+de	O
+Oncología	O
+el	O
+día	O
+23	O
+de	O
+abril	O
+2012	O
+,	O
+con	O
+diagnóstico	O
+de	O
+carcinoma	O
+epidermoide	O
+de	O
+pulmón	O
+cT1cN0M0	O
+.	O

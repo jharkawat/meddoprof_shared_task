@@ -1,0 +1,23 @@
+T1	SINTOMA 254 273	falta de iniciativa
+T2	SINTOMA 276 297	indiferencia afectiva
+T3	SINTOMA 477 500	dificultad para pensar"
+T4	PROCEDIMIENTO 177 186	anamnesis
+T5	PROCEDIMIENTO 325 343	examen neurológico
+T6	PROCEDIMIENTO 517 546	resonancia magnética cerebral
+T7	PROCEDIMIENTO 610 647	monitorización electroencefalográfica
+T8	PROCEDIMIENTO 658 664	VM-EEG
+T9	NEG 254 262	falta de
+T10	NSCO 263 273	iniciativa
+T11	NEG 551 553	no
+T12	NSCO 554 580	evidencia recidiva tumoral
+T13	NEG 1327 1329	no
+T14	NSCO 1330 1374	se evidenció una clara manifestación clínica
+T15	NEG 1548 1550	no
+T16	NSCO 1551 1556	podía
+T17	FARMACO 1615 1624	fenitoína
+T18	ORG_VIVO 0 5	Mujer
+T19	ORG_VIVO 1739 1749	familiares
+T20	ENFERMEDAD 40 54	glioma frontal
+T21	ENFERMEDAD 124 169	crisis convulsiva tónico clónica generalizada
+T22	ENFERMEDAD 701 761	crisis epilépticas recurrentes localizadas en región frontal
+T23	SANITARIO-PROFESION 1509 1518	evaluador

@@ -1,0 +1,84 @@
+T1	SINTOMA 241 247	disnea
+T2	SINTOMA 250 259	febrícula
+T3	SINTOMA 745 755	obnubilada
+T4	SINTOMA 761 785	bajo nivel de conciencia
+T5	SINTOMA 797 828	desviación de la comisura bucal
+T6	SINTOMA 831 863	pérdida de fuerza del hemicuerpo
+T7	SINTOMA 875 882	Afebril
+T8	SINTOMA 1164 1170	fiebre
+T9	SINTOMA 1205 1227	Regular estado general
+T10	SINTOMA 1229 1244	palidez cutánea
+T11	SINTOMA 1246 1254	eupneica
+T12	SINTOMA 1266 1272	Fiebre
+T13	SINTOMA 1343 1349	soplos
+T14	SINTOMA 1489 1508	lenguaje disártrico
+T15	SINTOMA 2544 2550	fiebre
+T16	SINTOMA 2709 2715	fiebre
+T17	PROCEDIMIENTO 291 311	radiografía de tórax
+T18	PROCEDIMIENTO 345 368	tratamiento antibiótico
+T19	PROCEDIMIENTO 1119 1137	exploración física
+T20	PROCEDIMIENTO 1183 1201	Exploración física
+T21	PROCEDIMIENTO 1381 1384	ECG
+T22	PROCEDIMIENTO 2000 2013	TAC de cráneo
+T23	PROCEDIMIENTO 2016 2024	AngioTAC
+T24	PROCEDIMIENTO 2058 2072	Punción Lumbar
+T25	PROCEDIMIENTO 2463 2486	exploración neurológica
+T26	PROCEDIMIENTO 2573 2576	TAC
+T27	PROCEDIMIENTO 2579 2587	AngioTAC
+T28	PROCEDIMIENTO 2793 2807	punción lumbar
+T29	PROCEDIMIENTO 3071 3095	tratamiento antipirético
+T30	NEG 485 490	niega
+T31	NSCO 491 526	reacciones alérgicas a medicamentos
+T32	NEG 561 570	ha dejado
+T33	NSCO 571 601	la medicación antihipertensiva
+T34	NEG 652 657	Niega
+T35	NSCO 658 673	hábitos tóxicos
+T36	NEG 875 882	Afebril
+T37	NEG 1084 1086	no
+T38	NSCO 1087 1098	ha cambiado
+T39	NEG 1340 1342	no
+T40	NSCO 1343 1349	soplos
+T41	NEG 1356 1358	no
+T42	NSCO 1359 1377	ruidos patológicos
+T43	NEG 1425 1427	No
+T44	NSCO 1428 1452	signos de repolarización
+T45	NEG 1605 1607	no
+T46	NSCO 1608 1645	forzada de la mirada hacia la derecha
+T47	NEG 1751 1759	falta de
+T48	NSCO 1760 1772	colaboración
+T49	NEG 1983 1985	no
+T50	NSCO 1986 1996	patológica
+T51	NEG 2026 2029	sin
+T52	NSCO 2030 2054	alteraciones patológicas
+T53	NEG 2442 2445	sin
+T54	NSCO 2446 2486	tratamiento y la exploración neurológica
+T55	NEG 3214 3217	sin
+T56	NSCO 3218 3239	secuelas del episodio
+T57	FARMACO 638 650	acenocumarol
+T58	FARMACO 3018 3065	ceftriaxona+ampicilina+vancomicina+dexametasona
+T59	ORG_VIVO 22 27	yerno
+T60	ORG_VIVO 34 42	paciente
+T61	ORG_VIVO 80 97	Médico de Familia
+T62	ORG_VIVO 196 223	Médico de Atención Primaria
+T63	ORG_VIVO 467 472	mujer
+T64	ORG_VIVO 723 731	paciente
+T65	ORG_VIVO 909 917	paciente
+T66	ORG_VIVO 1142 1150	paciente
+T67	ORG_VIVO 2148 2156	listeria
+T68	ORG_VIVO 2167 2175	familiar
+T69	ORG_VIVO 2190 2198	Paciente
+T70	ORG_VIVO 2264 2272	familiar
+T71	ORG_VIVO 2903 2911	paciente
+T72	ORG_VIVO 3132 3140	paciente
+T73	ENFERMEDAD 316 332	bronquitis aguda
+T74	ENFERMEDAD 528 538	hipertensa
+T75	ENFERMEDAD 1647 1663	Parálisis facial
+T76	ENFERMEDAD 2394 2397	ACV
+T77	ENFERMEDAD 2438 2441	HTA
+T78	ENFERMEDAD 2523 2526	ACV
+T79	ENFERMEDAD 2623 2644	enfermedad infecciosa
+T80	ENFERMEDAD 2648 2677	Meningoencefalitis bacteriana
+T81	ENFERMEDAD 2734 2754	patología infecciosa
+T82	ENFERMEDAD 2841 2870	meningoencefalitis bacteriana
+T83	SANITARIO-PROFESION 196 223	Médico de Atención Primaria
+T84	SANITARIO-PROFESION 80 97	Médico de Familia

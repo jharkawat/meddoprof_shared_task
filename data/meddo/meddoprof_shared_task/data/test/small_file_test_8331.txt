@@ -1,0 +1,10 @@
+
+La	O
+auscultación	O
+y	O
+la	O
+palpación	O
+abdominal	O
+es	O
+anodina	O
+.	O

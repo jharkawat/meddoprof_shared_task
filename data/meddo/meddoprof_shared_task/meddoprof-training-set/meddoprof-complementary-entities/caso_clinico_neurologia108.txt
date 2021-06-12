@@ -1,0 +1,29 @@
+Anamnesis
+Se trata de mujer de 30 años, que trabaja en hostelería, está casada y tiene un hijo de 3 años. Como únicos antecedentes destacaban consumo de marihuana ocasional y un episodio depresivo breve.
+La paciente acudió a Urgencias por presentar dos episodios de desconexión del medio y movimientos tónico clónicos generalizados. Tras la evaluación inicial, y ante la normalidad de las pruebas, se dio de alta con levetiracetam de 750 mg cada 12 horas. La paciente volvió a acudir a Urgencias en 8 días, como explicaba su marido, por episodios de amnesia, alteración de la conducta y alucinaciones auditivas. Sin embargo, decía que la paciente siempre ha sido una persona peculiar y "un poco loquita". Dada la nueva situación clínica, se decidió su ingreso hospitalario.
+
+Examen físico
+Exploración psicopatológica: bradipsíquica, ideas delirantes no estructuradas y cierta desorganización del pensamiento.
+Exploración neurológica y general normal.
+
+Pruebas complementarias
+• Analítica de sangre: hemograma y coagulación normales. Bioquímica: creatinina cinasa (CK) 497 UI/l, resto normal.
+• Radiografía de tórax: sin hallazgos patológicos.
+• Tomografía computarizada (TC) de cráneo urgente: sin signos de patología intracraneal aguda.
+• Electroencefalograma (EEG): dentro de la normalidad.
+• Resonancia magnética (RM) cerebral: sin hallazgos patológicos reseñables.
+• Punción lumbar: presión de apertura normal, líquido cefalorraquídeo (LCR) transparente, hematíes 8/mm3, leucocito 8/mm3 (predominio linfocítico), proteínas 0,38 g/l, glucosa 60 mg/dl (sangre 81 mg/dl), reacción en cadena de la polimerasa (PCR) para virus neurotropos, incluyendo el virus del herpes simple negativa, tinción de gram y cultivo general negativos.
+• Estudio inmunológico: anticuerpos contra receptor de NMDA positivos en LCR, resto negativo.
+• Serología de VIH, Lyme, virus neurotropos negativos.
+• TC tóraco-abdómino-pélvica: masa anexal derecha de 8 cm compatible con teratoma.
+• Estudio neuropsicológico: déficit atencional-ejecutivo en la denominación visuoverbal y memoria.  
+
+Diagnóstico
+Encefalitis anti R-NMDA.
+
+Tratamiento
+Megadosis de corticoides seguidos de pauta descendente y anexectomía derecha. Aripiprazol 10 mg en la cena, diazepam 5 mg en la cena y ácido valproico 500 mg cada 8 horas.
+
+Evolución
+Ante la sospecha de efecto adverso de la medicación, la misma se cambió por ácido valproico 500 mg cada 8 horas. Se completó el estudio con una resonancia magnética (RM) cerebral, estudio inmunológico y serológico descartando posibles causas del cuadro. Se realizó punción lumbar, obteniendo LCR en cuyo análisis solo se objetivó presencia de 8 leucocitos de predominio linfocitario. Se inició aciclovir de forma empírica, que se suspendió tras obtener resultado negativo de PCR de HSV. En el análisis inmunológico del LCR se detectó la presencia de anticuerpos contra R-NMDA, confirmando el diagnóstico de encefalitis con anticuerpos contra R-MNDA. Ante los nuevos hallazgos se amplió el estudio confirmando una masa anexal de 8 cm compatible con teratoma. Se administró tratamiento con megadosis de corticoides seguidos de pauta descendente y se realizó una anexectomía.
+La paciente presentó buena evolución clínica. Un mes después refería mejoría de la memoria, sin volver a tener crisis epilépticas o alucinaciones, a pesar de suspender voluntariamente el tratamiento antiepiléptico y antipsicótico. Dos meses después del ingreso hospitalario se realizó un estudio neuropsicológico de control, donde se objetivó la normalización del rendimiento en las funciones previamente alteradas.

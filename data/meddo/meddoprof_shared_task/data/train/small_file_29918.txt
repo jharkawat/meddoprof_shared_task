@@ -1,0 +1,14 @@
+
+Episodio	O
+depresivo	O
+moderado	O
+vs	O
+.	O
+sintomatología	O
+negativa	O
+en	O
+contexto	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

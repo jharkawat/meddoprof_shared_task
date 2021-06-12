@@ -1,0 +1,21 @@
+
+En	O
+la	O
+bioquímica	O
+destacaba	O
+PCR	O
+24	O
+mg	O
+/	O
+L	O
+,	O
+creatinina	O
+37	O
+/	O
+1	O
+,	O
+4	O
+mg	O
+/	O
+dl	O
+.	O

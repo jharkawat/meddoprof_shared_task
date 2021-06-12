@@ -1,0 +1,11 @@
+
+Padece	O
+infecciones	O
+respiratorias	O
+de	O
+repetición	O
+hasta	O
+los	O
+5	O
+años	O
+.	O

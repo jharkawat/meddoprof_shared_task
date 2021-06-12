@@ -1,0 +1,16 @@
+
+No	O
+se	O
+le	O
+han	O
+realizado	O
+antígenos	O
+séricos	O
+de	O
+SARS	O
+-	O
+CoV	O
+-	O
+2	O
+todavía	O
+.	O

@@ -1,0 +1,7 @@
+
+La	O
+TSH	O
+se	O
+encontraba	O
+normal	O
+.	O

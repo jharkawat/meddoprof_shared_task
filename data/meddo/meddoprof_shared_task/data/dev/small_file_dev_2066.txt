@@ -1,0 +1,16 @@
+
+2o	O
+hemograma	O
+de	O
+control	O
+con	O
+leucocitos	O
+:	O
+9670	O
+y	O
+neutrófilos	O
+6680	O
+en	O
+rango	O
+normal	O
+.	O

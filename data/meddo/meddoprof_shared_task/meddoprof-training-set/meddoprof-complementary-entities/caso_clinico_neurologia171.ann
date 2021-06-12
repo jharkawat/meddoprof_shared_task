@@ -1,0 +1,78 @@
+T1	SINTOMA 143 168	mareo sin giro de objetos
+T2	SINTOMA 170 196	inestabilidad de la marcha
+T3	SINTOMA 198 226	torpeza del miembro superior
+T4	SINTOMA 237 260	alteración del lenguaje
+T5	SINTOMA 612 618	soplos
+T6	SINTOMA 650 679	Abdomen y miembros inferiores
+T7	SINTOMA 703 712	orientado
+T8	SINTOMA 1167 1179	leucocitosis
+T9	SINTOMA 3160 3186	disartria leve inteligible
+T10	SINTOMA 3195 3224	dismetría en las extremidades
+T11	SINTOMA 3246 3269	dificultad en la marcha
+T12	SINTOMA 3287 3292	mareo
+T13	PROCEDIMIENTO 422 450	radioterapia y quimioterapia
+T14	PROCEDIMIENTO 563 576	Examen físico
+T15	PROCEDIMIENTO 577 598	Auscultación cardiaca
+T16	PROCEDIMIENTO 620 641	Auscultación pulmonar
+T17	PROCEDIMIENTO 928 945	Prueba de Romberg
+T18	PROCEDIMIENTO 1143 1152	hemograma
+T19	PROCEDIMIENTO 1537 1540	ECG
+T20	PROCEDIMIENTO 1619 1629	TC craneal
+T21	PROCEDIMIENTO 1766 1798	Tomografía computarizada craneal
+T22	PROCEDIMIENTO 1907 1917	RM craneal
+T23	PROCEDIMIENTO 2439 2458	Difusión RM craneal
+T24	PROCEDIMIENTO 3112 3137	tratamiento rehabilitador
+T25	NEG 149 152	sin
+T26	NSCO 153 196	giro de objetos, inestabilidad de la marcha
+T27	NEG 317 322	Niega
+T28	NSCO 323 382	episodios previos compatibles con eventos cerebrovasculares
+T29	NEG 608 611	sin
+T30	NSCO 612 618	soplos
+T31	NEG 680 683	sin
+T32	NSCO 684 693	hallazgos
+T33	NEG 793 796	sin
+T34	NSCO 797 806	nistagmus
+T35	NEG 861 863	No
+T36	NSCO 864 884	alteración sensitiva
+T37	NEG 946 954	negativa
+T38	NSCO 955 981	con leve baile de tendones
+T39	NEG 1525 1533	negativo
+T40	NEG 1566 1569	sin
+T41	NSCO 1570 1615	bloqueos ni alteraciones en la repolarización
+T42	UNC 1710 1715	puede
+T43	USCO 1716 1764	estar en relación con infarto isquémico subagudo
+T44	UNC 1864 1876	sugestiva de
+T45	USCO 1877 1903	infarto isquémico subagudo
+T46	NEG 2106 2109	sin
+T47	NSCO 2110 2132	captación de contraste
+T48	UNC 2196 2216	sería compatible con
+T49	USCO 2217 2314	una zona de infarto isquémico subagudo en el territorio de la arteria cerebelosa superior derecha
+T50	UNC 2403 2411	sugieren
+T51	USCO 2412 2437	lesión isquémica subaguda
+T52	UNC 2486 2499	sugestivas de
+T53	USCO 2500 2517	isquemia subaguda
+T54	UNC 2712 2723	sospecha de
+T55	USCO 2724 2776	vasoespasmo de origen farmacológico (5-fluorouracilo
+T56	NEG 2792 2801	Suspender
+T57	NSCO 2802 2833	tratamiento con 5-fluorouracilo
+T58	FARMACO 489 504	5-fluorouracilo
+T59	FARMACO 506 510	5-FU
+T60	FARMACO 2761 2776	5-fluorouracilo
+T61	FARMACO 2818 2833	5-fluorouracilo
+T62	FARMACO 2851 2873	ácido acetilsalicílico
+T63	ORG_VIVO 10 15	Varón
+T64	ORG_VIVO 387 395	paciente
+T65	ORG_VIVO 1520 1524	lúes
+T66	ORG_VIVO 2941 2968	médico de Atención Primaria
+T67	ORG_VIVO 3004 3012	paciente
+T68	ENFERMEDAD 357 382	eventos cerebrovasculares
+T69	ENFERMEDAD 1433 1448	hipoproteinemia
+T70	ENFERMEDAD 1738 1764	infarto isquémico subagudo
+T71	ENFERMEDAD 1877 1903	infarto isquémico subagudo
+T72	ENFERMEDAD 2229 2306	infarto isquémico subagudo en el territorio de la arteria cerebelosa superior
+T73	ENFERMEDAD 2324 2362	lesión hipodensa en el centro semioval
+T74	ENFERMEDAD 2412 2437	lesión isquémica subaguda
+T75	ENFERMEDAD 2500 2597	isquemia subaguda, una localizada en el centro semioval derecho y otra en el cerebelo ipsilateral
+T76	ENFERMEDAD 2612 2679	Ictus isquémicos en el territorio de la arteria cerebelosa superior
+T77	ENFERMEDAD 2724 2759	vasoespasmo de origen farmacológico
+T78	SANITARIO-PROFESION 2941 2968	médico de Atención Primaria

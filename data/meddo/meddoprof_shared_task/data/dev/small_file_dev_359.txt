@@ -1,0 +1,25 @@
+
+Con	O
+este	O
+tratamiento	O
+se	O
+observó	O
+una	O
+clara	O
+mejoría	O
+,	O
+pero	O
+el	O
+efecto	O
+se	O
+perdió	O
+después	O
+de	O
+unas	O
+semanas	O
+de	O
+ser	O
+iniciado	O
+el	O
+tratamiento	O
+.	O

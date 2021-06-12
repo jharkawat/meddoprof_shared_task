@@ -1,0 +1,12 @@
+
+Tinción	O
+citoplasmática	O
+en	O
+la	O
+gran	O
+mayoría	O
+de	O
+las	O
+células	O
+tumorales	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+comentaba	O
+dolor	O
+torácico	O
+,	O
+hemoptisis	O
+ni	O
+otra	O
+sintomatología	O
+.	O

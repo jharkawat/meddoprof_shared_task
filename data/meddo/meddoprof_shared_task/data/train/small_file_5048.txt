@@ -1,0 +1,13 @@
+
+En	O
+segundo	O
+lugar	O
+debemos	O
+dividirlas	O
+entre	O
+lesiones	O
+no	O
+melanocíticas	O
+y	O
+melanocíticas	O
+.	O

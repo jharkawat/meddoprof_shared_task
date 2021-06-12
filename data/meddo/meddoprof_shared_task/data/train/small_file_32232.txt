@@ -1,0 +1,19 @@
+
+En	O
+el	O
+año	O
+2001	O
+,	O
+con	O
+18	O
+años	O
+,	O
+fue	O
+diagnosticado	O
+de	O
+F	O
+.	O
+20	O
+esquizofrenia	O
+paranoide	O
+.	O

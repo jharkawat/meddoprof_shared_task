@@ -1,0 +1,11 @@
+
+La	O
+paciente	O
+presentó	O
+una	O
+mejoría	O
+inicial	O
+a	O
+nivel	O
+neurológico	O
+.	O

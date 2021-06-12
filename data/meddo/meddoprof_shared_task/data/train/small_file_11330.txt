@@ -1,0 +1,18 @@
+
+Colección	O
+subcutánea	O
+de	O
+10x3x3cms	O
+en	O
+contacto	O
+con	O
+espina	O
+ilíaca	O
+anterosuperior	O
+izquierda	O
+,	O
+a	O
+la	O
+que	O
+erosiona	O
+.	O

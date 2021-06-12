@@ -1,0 +1,14 @@
+
+No	O
+se	O
+detectaron	O
+evidencias	O
+de	O
+que	O
+se	O
+habite	O
+en	O
+hacinamiento	O
+o	O
+promiscuidad	O
+.	O

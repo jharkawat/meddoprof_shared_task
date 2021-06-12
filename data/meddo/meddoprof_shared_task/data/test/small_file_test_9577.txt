@@ -1,0 +1,20 @@
+
+Progresión	O
+de	O
+enfermedad	O
+a	O
+nivel	O
+hepático	O
+con	O
+múltiples	O
+metástasis	O
+bilobares	O
+,	O
+sin	O
+evidencia	O
+de	O
+enfermedad	O
+a	O
+otros	O
+niveles	O
+.	O

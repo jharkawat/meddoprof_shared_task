@@ -1,0 +1,24 @@
+
+*	O
+Analitica	O
+:	O
+Creatinina	O
+Y	O
+iones	O
+normales	O
+,	O
+Hemograma	O
+con	O
+leucocitos	O
+normales	O
+,	O
+linfopenia	O
+1000	O
+,	O
+Hb	O
+,	O
+plaquetas	O
+Y	O
+coagulación	O
+normales	O
+.	O

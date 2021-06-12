@@ -1,0 +1,19 @@
+
+Refiere	O
+que	O
+desde	O
+hace	O
+meses	O
+se	O
+siente	O
+vigilado	O
+y	O
+observado	O
+por	O
+otras	O
+personas	O
+pero	O
+no	O
+puede	O
+identificarlas	O
+.	O

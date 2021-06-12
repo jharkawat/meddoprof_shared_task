@@ -1,0 +1,17 @@
+
+El	O
+frotis	O
+de	O
+sangre	O
+periférica	O
+y	O
+el	O
+aspirado	O
+de	O
+médula	O
+ósea	O
+confirmaron	O
+una	O
+eosinofilia	O
+acusada	O
+.	O

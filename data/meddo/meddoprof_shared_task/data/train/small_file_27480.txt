@@ -1,0 +1,11 @@
+
+El	O
+parto	O
+es	O
+por	O
+cesárea	O
+por	O
+circulares	O
+de	O
+cordón	O
+.	O

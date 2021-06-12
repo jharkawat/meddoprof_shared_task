@@ -1,0 +1,25 @@
+
+Exploración	O
+física	O
+:	O
+Paciente	O
+consciente	O
+orientado	O
+colaborador	O
+,	O
+37	O
+,	O
+4oC	O
+,	O
+con	O
+mal	O
+estado	O
+nutricional	O
+,	O
+eupneico	O
+en	O
+reposo	O
+,	O
+bien	O
+perfundido	O
+.	O

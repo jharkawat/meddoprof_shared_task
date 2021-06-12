@@ -1,0 +1,16 @@
+
+LCR	O
+:	O
+serologías	O
+normales	O
+,	O
+cultivo	O
+negativo	O
+,	O
+anticuerpo	O
+antineuronal	O
+anti	O
+-	O
+YO	O
+positivo	O
+.	O

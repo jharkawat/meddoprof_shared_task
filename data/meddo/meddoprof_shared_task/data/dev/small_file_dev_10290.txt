@@ -1,0 +1,16 @@
+
+A	O
+los	O
+15	O
+años	O
+recibió	O
+un	O
+tratamiento	O
+con	O
+hormonas	O
+porque	O
+sus	O
+menstruaciones	O
+eran	O
+irregulares	O
+.	O

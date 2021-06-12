@@ -1,0 +1,15 @@
+
+El	O
+padre	O
+fallecido	O
+por	O
+cáncer	O
+digestivo	O
+cuando	O
+el	O
+paciente	O
+contaba	O
+con	O
+8	O
+años	O
+.	O

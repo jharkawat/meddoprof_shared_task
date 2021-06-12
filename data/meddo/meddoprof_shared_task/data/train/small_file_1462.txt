@@ -1,0 +1,16 @@
+
+La	O
+trabajadora	B-SITUACION_LABORAL
+mejora	O
+sustancialmente	O
+con	O
+el	O
+bronco	O
+-	O
+dilatador	O
+y	O
+no	O
+acudió	O
+a	O
+revisión	O
+.	O

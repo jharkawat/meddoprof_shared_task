@@ -1,0 +1,11 @@
+
+Traslado	O
+de	O
+la	O
+paciente	O
+al	O
+servicio	O
+de	O
+urgencias	O
+hospitalarias	O
+.	O

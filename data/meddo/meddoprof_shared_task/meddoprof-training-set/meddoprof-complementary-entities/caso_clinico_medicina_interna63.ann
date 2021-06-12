@@ -1,0 +1,162 @@
+T1	SINTOMA 159 166	Fumador
+T2	SINTOMA 190 197	bebedor
+T3	SINTOMA 324 370	lumbalgia izquierda irradiada a hueco poplíteo
+T4	SINTOMA 715 769	dolor lumbar bilateral con irradiación a ambas caderas
+T5	SINTOMA 1569 1574	dolor
+T6	SINTOMA 1598 1603	dolor
+T7	SINTOMA 1637 1645	anorexia
+T8	SINTOMA 1648 1664	pérdida ponderal
+T9	SINTOMA 1706 1714	disfagia
+T10	SINTOMA 1730 1735	dolor
+T11	SINTOMA 1756 1763	astenia
+T12	SINTOMA 1774 1794	trastornos del ánimo
+T13	SINTOMA 2501 2527	diarreas acuosas amarillas
+T14	SINTOMA 2552 2559	náuseas
+T15	SINTOMA 2569 2575	vomito
+T16	SINTOMA 2623 2650	dolor abdominal tipo cólico
+T17	SINTOMA 2742 2750	tos seca
+T18	SINTOMA 2755 2761	fiebre
+T19	SINTOMA 2831 2841	Consciente
+T20	SINTOMA 2843 2852	orientado
+T21	SINTOMA 2854 2865	colaborador
+T22	SINTOMA 2867 2875	Eupneico
+T23	SINTOMA 2887 2906	Palidez mucocutánea
+T24	SINTOMA 2911 2913	IY
+T25	SINTOMA 2915 2922	Afebril
+T26	SINTOMA 2950 2962	taquicárdico
+T27	SINTOMA 3064 3072	doloroso
+T28	SINTOMA 3186 3192	edemas
+T29	SINTOMA 3540 3555	rigidez de nuca
+T30	SINTOMA 3560 3570	dismetrías
+T31	SINTOMA 3575 3592	disdiadococinesia
+T32	SINTOMA 4360 4387	elevación del hemidiafragma
+T33	SINTOMA 5095 5107	dolor lumbar
+T34	PROCEDIMIENTO 451 456	AINEs
+T35	PROCEDIMIENTO 794 818	tratamientos analgésicos
+T36	PROCEDIMIENTO 1078 1102	RMN columna dorso-lumbar
+T37	PROCEDIMIENTO 1379 1401	manipulación vertebral
+T38	PROCEDIMIENTO 2078 2087	analgesia
+T39	PROCEDIMIENTO 3503 3515	RCP flexores
+T40	PROCEDIMIENTO 3766 3775	Hemograma
+T41	PROCEDIMIENTO 4263 4283	Radiografía de tórax
+T42	PROCEDIMIENTO 4419 4440	Radiografía Abdominal
+T43	PROCEDIMIENTO 4468 4488	Ecografía de Abdomen
+T44	PROCEDIMIENTO 5006 5009	ECG
+T45	PROCEDIMIENTO 5647 5669	TAC de tórax y abdomen
+T46	PROCEDIMIENTO 5672 5692	marcadores tumorales
+T47	PROCEDIMIENTO 5725 5742	TAC tórax-abdomen
+T48	PROCEDIMIENTO 6726 6752	toracocentesis diagnóstica
+T49	PROCEDIMIENTO 7028 7058	extirpación de teste izquierdo
+T50	PROCEDIMIENTO 7259 7285	nutrición parenteral total
+T51	PROCEDIMIENTO 7313 7333	tratamiento con HBPM
+T52	PROCEDIMIENTO 7394 7420	tratamiento quimioterápico
+T53	NEG 25 28	sin
+T54	NSCO 29 36	interés
+T55	NEG 119 121	No
+T56	NSCO 122 135	RAM conocidas
+T57	NEG 137 139	no
+T58	NSCO 140 157	HTA, ni DM, ni DL
+T59	NEG 1476 1478	no
+T60	NSCO 1479 1500	mejora con etoricoxib
+T61	NEG 1577 1579	no
+T62	NSCO 1580 1593	salía de casa
+T63	NEG 1702 1705	sin
+T64	NSCO 1706 1714	disfagia
+T65	NEG 2088 2091	sin
+T66	NSCO 2092 2099	mejoría
+T67	NEG 2204 2206	no
+T68	NSCO 2207 2214	mejorar
+T69	NEG 2377 2379	No
+T70	NSCO 2380 2463	presentaba pérdida del control de esfínteres, ni de la fuerza ni de la sensibilidad
+T71	NEG 2585 2588	sin
+T72	NSCO 2589 2610	productos patológicos
+T73	NEG 2683 2685	No
+T74	NSCO 2686 2735	alteración del hábito intestinal en últimos meses
+T75	NEG 2752 2754	No
+T76	NSCO 2755 2761	fiebre
+T77	NEG 2763 2765	No
+T78	NSCO 2766 2792	otros síntomas destacables
+T79	NEG 2908 2910	No
+T80	NSCO 2911 2913	IY
+T81	NEG 2915 2922	Afebril
+T82	NEG 3061 3063	no
+T83	NSCO 3064 3085	doloroso, ni defiende
+T84	NEG 3183 3185	no
+T85	NSCO 3186 3192	edemas
+T86	NEG 3194 3196	no
+T87	NSCO 3197 3210	signos de TVP
+T88	NEG 3409 3411	No
+T89	NSCO 3412 3454	claudicación ni en Barré, ni en Mingazzini
+T90	NEG 3517 3519	No
+T91	NSCO 3520 3555	signos meníngeos ni rigidez de nuca
+T92	NEG 3557 3559	No
+T93	NSCO 3560 3592	dismetrías, ni disdiadococinesia
+T94	NEG 3646 3648	no
+T95	NSCO 3649 3657	doloroso
+T96	NEG 4220 4229	negativas
+T97	UNC 4301 4309	posibles
+T98	USCO 4310 4315	masas
+T99	NEG 4442 4445	sin
+T100	NSCO 4446 4466	hallazgos de interés
+T101	NEG 5042 5050	negativa
+T102	NSCO 5051 5063	en III y aVF
+T103	NEG 5127 5129	no
+T104	NSCO 5130 5139	mecánicas
+T105	NEG 5602 5614	inespecífica
+T106	NEG 6887 6889	No
+T107	NSCO 6890 6918	se detectan células malignas
+T108	NEG 7112 7114	No
+T109	NSCO 7115 7127	Seminomatoso
+T110	FARMACO 535 545	Tapentadol
+T111	FARMACO 561 572	Pregabalina
+T112	FARMACO 588 599	Mirtazapina
+T113	FARMACO 1490 1500	etoricoxib
+T114	ORG_VIVO 13 23	familiares
+T115	ORG_VIVO 51 61	personales
+T116	ORG_VIVO 63 68	Varón
+T117	ORG_VIVO 81 88	albañil
+T118	ORG_VIVO 633 641	Paciente
+T119	ORG_VIVO 1958 1966	paciente
+T120	ORG_VIVO 2299 2309	internista
+T121	ORG_VIVO 2367 2375	paciente
+T122	ORG_VIVO 4206 4209	VHB
+T123	ORG_VIVO 4211 4214	VHC
+T124	ORG_VIVO 4216 4219	VIH
+T125	ORG_VIVO 5389 5396	caballo
+T126	ENFERMEDAD 140 143	HTA
+T127	ENFERMEDAD 148 150	DM
+T128	ENFERMEDAD 1774 1794	trastornos del ánimo
+T129	ENFERMEDAD 1844 1852	ansiedad
+T130	ENFERMEDAD 1855 1864	depresión
+T131	ENFERMEDAD 3207 3210	TVP
+T132	ENFERMEDAD 4400 4417	derrame izquierdo
+T133	ENFERMEDAD 4514 4529	derrame pleural
+T134	ENFERMEDAD 4800 4825	adenopatías mediastínicas
+T135	ENFERMEDAD 4974 4994	neoplasia testicular
+T136	ENFERMEDAD 5142 5165	síndrome constitucional
+T137	ENFERMEDAD 5231 5253	Metástasis vertebrales
+T138	ENFERMEDAD 5256 5291	Tumores malignos pélvicos/espinales
+T139	ENFERMEDAD 5294 5312	Fractura inestable
+T140	ENFERMEDAD 5315 5332	Espondilodiscitis
+T141	ENFERMEDAD 5333 5353	· Aneurisma de aorta
+T142	ENFERMEDAD 5356 5372	Absceso epidural
+T143	ENFERMEDAD 5399 5432	Infecciones abdominales/ pélvicas
+T144	ENFERMEDAD 5435 5460	Espondilitis anquilosante
+T145	ENFERMEDAD 5463 5479	Hernias discales
+T146	ENFERMEDAD 5482 5501	Estenosis del canal
+T147	ENFERMEDAD 5504 5529	Malformaciones vasculares
+T148	ENFERMEDAD 5532 5567	Tumores benignos pélvicos/espinales
+T149	ENFERMEDAD 5570 5589	Quistes aracnoideos
+T150	ENFERMEDAD 5754 5884	masas adenopatías a nivel del mediastino, lobuladas y heterogéneas, localizadas prevascular, ventana aorto-pulmonar, paravertebral
+T151	ENFERMEDAD 5920 5935	derrame pleural
+T152	ENFERMEDAD 6312 6345	hígado cuatro lesiones hipodensas
+T153	ENFERMEDAD 6347 6388	Trombosis de la cava próxima a vena renal
+T154	ENFERMEDAD 6538 6561	metastásica de primario
+T155	ENFERMEDAD 6964 6983	primario testicular
+T156	ENFERMEDAD 7115 7127	Seminomatoso
+T157	ENFERMEDAD 7133 7185	Carcinoma embrionario con focos del seno endodérmico
+T158	ENFERMEDAD 7341 7366	trombosis de cava y porta
+T159	PACIENTE-PROFESION 81 88	albañil
+T160	SANITARIO-PROFESION 7230 7239	endocrino
+T161	SANITARIO-PROFESION 2299 2309	internista
+T162	PACIENTE-PROFESION 92 99	cantaor

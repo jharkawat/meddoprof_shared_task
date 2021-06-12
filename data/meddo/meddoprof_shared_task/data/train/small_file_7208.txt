@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+realiza	O
+dicho	O
+tratamiento	O
+durante	O
+6	O
+meses	O
+con	O
+empeoramiento	O
+progresivo	O
+de	O
+sus	O
+lesiones	O
+.	O

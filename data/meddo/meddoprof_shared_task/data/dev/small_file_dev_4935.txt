@@ -1,0 +1,5 @@
+
+De	O
+profesión	O
+albañil	B-PROFESION
+.	O

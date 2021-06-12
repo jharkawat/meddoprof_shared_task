@@ -1,0 +1,116 @@
+T1	SINTOMA 91 97	fiebre
+T2	SINTOMA 99 102	tos
+T3	SINTOMA 105 110	mocos
+T4	SINTOMA 982 988	fiebre
+T5	SINTOMA 1018 1021	tos
+T6	SINTOMA 1649 1656	prurito
+T7	SINTOMA 1999 2006	prurito
+T8	SINTOMA 2988 3000	intranquilos
+T9	SINTOMA 3471 3484	consolidación
+T10	SINTOMA 4806 4830	aumento de transaminasas
+T11	SINTOMA 4854 4860	fiebre
+T12	SINTOMA 5921 5928	prurito
+T13	PROCEDIMIENTO 169 181	antitérmicos
+T14	PROCEDIMIENTO 239 275	auscultación respiratoria patológica
+T15	PROCEDIMIENTO 282 302	radiografía de tórax
+T16	PROCEDIMIENTO 1039 1060	auscultación pulmonar
+T17	PROCEDIMIENTO 1111 1131	radiografía de tórax
+T18	PROCEDIMIENTO 2023 2050	tratamiento antihistamínico
+T19	PROCEDIMIENTO 2457 2466	hemograma
+T20	PROCEDIMIENTO 3011 3031	tratamiento curativo
+T21	PROCEDIMIENTO 5292 5314	corticoides sistémicos
+T22	PROCEDIMIENTO 5583 5606	tratamiento corticoideo
+T23	NEG 182 185	sin
+T24	NSCO 186 201	mejoría clínica
+T25	NEG 461 473	asintomática
+T26	NEG 742 744	no
+T27	NSCO 745 780	se conocían alergias medicamentosas
+T28	NEG 782 784	No
+T29	NSCO 785 883	había tenido ningún viaje de interés ni relaciones con animales diferentes a las ya experimentadas
+T30	NEG 914 916	no
+T31	NSCO 917 947	hay ningún hallazgo de interés
+T32	NEG 1133 1135	no
+T33	NSCO 1136 1212	presentando en ella condensaciones consideramos una posible neumonía atípica
+T34	NEG 1541 1543	no
+T35	NSCO 1544 1600	había signos de impetiginización ni otras complicaciones
+T36	NEG 1995 1998	sin
+T37	NSCO 1999 2060	prurito ya que usaba el tratamiento antihistamínico prescrito
+T38	NEG 2586 2589	sin
+T39	NSCO 2590 2605	otros hallazgos
+T40	NEG 2719 2721	no
+T41	NSCO 2722 2730	seguimos
+T42	NEG 3208 3218	sin ningún
+T43	NSCO 3219 3261	acontecimiento vital estresante a destacar
+T44	UNC 3922 3929	posible
+T45	USCO 3930 3969	factor desencadenante(virus vs fármacos
+T46	NEG 4013 4015	no
+T47	NEG 4035 4037	no
+T48	NSCO 4038 4077	tiene afectación de mucosas o es mínima
+T49	NEG 4086 4089	sin
+T50	NSCO 4090 4098	secuelas
+T51	NEG 4277 4280	sin
+T52	NSCO 4281 4289	secuelas
+T53	NEG 4380 4382	no
+T54	NSCO 4383 4396	autolimitadas
+T55	NEG 5147 5149	no
+T56	NSCO 5150 5219	existe en la literatura un manejo consensuado del EMminor cronificado
+T57	NEG 5316 5318	no
+T58	NSCO 5319 5375	está demostrado que acorten la duración de la enfermedad
+T59	NEG 5679 5694	desaparición de
+T60	NSCO 5695 5707	las lesiones
+T61	FARMACO 332 344	Azitromicina
+T62	FARMACO 1228 1240	Azitromicina
+T63	FARMACO 1615 1632	Dexclorfeniramina
+T64	FARMACO 2674 2686	Azitromicina
+T65	FARMACO 2691 2700	Aciclovir
+T66	FARMACO 5618 5628	Prednisona
+T67	ORG_VIVO 19 23	Niña
+T68	ORG_VIVO 56 62	padres
+T69	ORG_VIVO 661 669	personal
+T70	ORG_VIVO 731 739	vacunada
+T71	ORG_VIVO 840 848	animales
+T72	ORG_VIVO 903 913	familiares
+T73	ORG_VIVO 960 968	paciente
+T74	ORG_VIVO 1706 1711	madre
+T75	ORG_VIVO 1825 1829	niña
+T76	ORG_VIVO 1880 1888	paciente
+T77	ORG_VIVO 1915 1919	niña
+T78	ORG_VIVO 1949 1961	progenitores
+T79	ORG_VIVO 2066 2072	padres
+T80	ORG_VIVO 2384 2396	especialista
+T81	ORG_VIVO 2563 2584	Mycoplasma pneumoniae
+T82	ORG_VIVO 2878 2888	Mycoplasma
+T83	ORG_VIVO 2968 2974	padres
+T84	ORG_VIVO 3042 3050	familiar
+T85	ORG_VIVO 3094 3102	familiar
+T86	ORG_VIVO 3117 3124	familia
+T87	ORG_VIVO 3137 3146	parientes
+T88	ORG_VIVO 3161 3167	padres
+T89	ORG_VIVO 3172 3179	hermano
+T90	ORG_VIVO 3270 3278	familiar
+T91	ORG_VIVO 3300 3308	familiar
+T92	ORG_VIVO 3381 3386	hijos
+T93	ORG_VIVO 3515 3523	familiar
+T94	ORG_VIVO 3682 3689	autores
+T95	ORG_VIVO 5136 5142	padres
+T96	ORG_VIVO 5544 5550	padres
+T97	ORG_VIVO 5763 5767	niña
+T98	ORG_VIVO 5793 5799	padres
+T99	ENFERMEDAD 357 373	neumonía atípica
+T100	ENFERMEDAD 485 552	lesiones cutáneas en regiones laterales de tronco, glúteos y muslos
+T101	ENFERMEDAD 690 708	dermatitis atópica
+T102	ENFERMEDAD 757 780	alergias medicamentosas
+T103	ENFERMEDAD 1196 1212	neumonía atípica
+T104	ENFERMEDAD 1306 1396	lesiones polimorfas de tipo pápulas y placas eritematosas y edematosas además de vesículas
+T105	ENFERMEDAD 2258 2282	Eritema Multiforme minor
+T106	ENFERMEDAD 2848 2888	reacción cutánea inducida por Mycoplasma
+T107	ENFERMEDAD 3636 3660	Eritema Multiforme Minor
+T108	ENFERMEDAD 3713 3731	Eritema Multiforme
+T109	ENFERMEDAD 3736 3763	Síndrome de Stevens-Johnson
+T110	ENFERMEDAD 3765 3768	SSJ
+T111	ENFERMEDAD 3777 3805	Necrolisis Epidérmica Tóxica
+T112	ENFERMEDAD 4215 4251	Eritema Multiforme Minor Cronificado
+T113	ENFERMEDAD 5028 5063	infección por Mycoplasma pneumoniae
+T114	FAMILIAR-SITUACION_LABORAL 3408 3415	escolar
+T115	SANITARIO-PROFESION 2384 2396	especialista
+T116	FAMILIAR-SITUACION_LABORAL 3395 3405	preescolar

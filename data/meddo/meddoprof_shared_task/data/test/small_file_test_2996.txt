@@ -1,0 +1,11 @@
+
+Inmunoglobulinas	O
+en	O
+suero	O
+:	O
+IgG	O
+1500	O
+mg	O
+/	O
+dL	O
+.	O

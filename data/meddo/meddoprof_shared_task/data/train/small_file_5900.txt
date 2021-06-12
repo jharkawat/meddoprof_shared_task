@@ -1,0 +1,23 @@
+
+En	O
+las	O
+dos	O
+ocasiones	O
+recibe	O
+tratamiento	O
+con	O
+antibióticos	O
+(	O
+la	O
+primera	O
+ocasión	O
+tazoceliv	O
+)	O
+,	O
+corticoides	O
+orales	O
+,	O
+oxígeno	O
+y	O
+aerosolterapia	O
+.	O

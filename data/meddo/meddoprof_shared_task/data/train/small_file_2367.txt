@@ -1,0 +1,19 @@
+
+-	O
+Ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+,	O
+se	O
+encarga	O
+del	O
+cuidado	O
+de	O
+la	O
+familia	O
+y	O
+las	O
+tareas	O
+del	O
+hogar	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+datos	O
+de	O
+síndrome	O
+afectivo	O
+.	O

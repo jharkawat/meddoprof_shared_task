@@ -1,0 +1,19 @@
+
+Los	O
+padres	O
+no	O
+perciben	O
+una	O
+mejoría	O
+y	O
+la	O
+chica	O
+decide	O
+abandonar	O
+el	O
+tratamiento	O
+en	O
+la	O
+tercera	O
+sesión	O
+.	O

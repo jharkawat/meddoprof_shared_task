@@ -1,0 +1,16 @@
+
+Paciente	O
+que	O
+presenta	O
+fractura	O
+patológica	O
+de	O
+húmero	O
+por	O
+lesión	O
+lítica	O
+SIN	O
+partes	O
+blandas	O
+asociadas	O
+.	O

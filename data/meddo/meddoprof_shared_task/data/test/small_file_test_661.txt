@@ -1,0 +1,7 @@
+
+No	O
+tiene	O
+ni	O
+tuvo	O
+animales	O
+.	O

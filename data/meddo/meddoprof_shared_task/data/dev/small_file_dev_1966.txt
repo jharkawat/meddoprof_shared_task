@@ -1,0 +1,7 @@
+
+Niega	O
+insomnio	O
+en	O
+días	O
+previos	O
+.	O

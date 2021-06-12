@@ -1,0 +1,16 @@
+
+Alfafetoproteína	O
+,	O
+βHCG	O
+,	O
+ecografía	O
+testicular	O
+,	O
+andrógenos	O
+suprarrenales	O
+y	O
+TAC	O
+de	O
+suprarrenales	O
+normales	O
+.	O

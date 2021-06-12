@@ -1,0 +1,19 @@
+
+También	O
+tomó	O
+parte	O
+en	O
+actividades	O
+políticas	O
+y	O
+durante	O
+años	O
+fue	O
+miembro	B-PROFESION
+electo	I-PROFESION
+del	I-PROFESION
+concejo	I-PROFESION
+deliberante	I-PROFESION
+del	I-PROFESION
+municipio	I-PROFESION
+.	O

@@ -1,0 +1,6 @@
+
+Trabaja	O
+como	O
+programador	B-PROFESION
+informático	I-PROFESION
+.	O

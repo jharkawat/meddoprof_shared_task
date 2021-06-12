@@ -1,0 +1,12 @@
+
+Amador	O
+quería	O
+tener	O
+más	O
+datos	O
+sobre	O
+sus	O
+conflictos	O
+de	O
+personalidad	O
+.	O

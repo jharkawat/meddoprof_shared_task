@@ -1,0 +1,8 @@
+
+Apgar	O
+9	O
+/	O
+10	O
+al	O
+nacimiento	O
+.	O

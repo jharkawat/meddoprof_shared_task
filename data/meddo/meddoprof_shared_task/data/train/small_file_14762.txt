@@ -1,0 +1,24 @@
+
+AngioTC	O
+torácico	O
+que	O
+muestra	O
+TEP	O
+bilateral	O
+central	O
+y	O
+periférico	O
+extenso	O
+de	O
+predominio	O
+derecho	O
+en	O
+el	O
+contexto	O
+de	O
+tuberculosis	O
+postprimaria	O
+con	O
+diseminación	O
+broncógena	O
+.	O

@@ -1,0 +1,26 @@
+
+El	O
+tratamiento	O
+antibiótico	O
+iniciado	O
+con	O
+ceftriaxona	O
+2g	O
+iv	O
+al	O
+día	O
+se	O
+decide	O
+mantener	O
+durante	O
+6	O
+-	O
+8	O
+semanas	O
+(	O
+CMI	O
+Cefotaxima	O
+≤	O
+1	O
+)	O
+.	O

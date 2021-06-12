@@ -1,0 +1,10 @@
+
+Son	O
+varios	O
+los	O
+patógenos	O
+que	O
+habría	O
+que	O
+considerar	O
+.	O

@@ -1,0 +1,11 @@
+
+Dos	O
+placas	O
+cutáneas	O
+pigmentadas	O
+en	O
+la	O
+región	O
+pretibial	O
+izquierda	O
+.	O

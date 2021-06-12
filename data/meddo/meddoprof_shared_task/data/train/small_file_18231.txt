@@ -1,0 +1,23 @@
+
+Además	O
+se	O
+comprobó	O
+que	O
+ambas	O
+vías	O
+lagrimales	O
+eran	O
+impermeables	O
+y	O
+heterorrefluyentes	O
+y	O
+se	O
+tomó	O
+un	O
+frotis	O
+conjuntival	O
+siendo	O
+el	O
+resultado	O
+negativo	O
+.	O

@@ -1,0 +1,17 @@
+
+Fe	O
+34	O
+;	O
+ferritina	O
+45	O
+IST	O
+9	O
+%	O
+con	O
+Vit	O
+B12	O
+y	O
+ac	O
+fólico	O
+normal	O
+.	O

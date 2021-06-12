@@ -1,0 +1,9 @@
+
+HCO3	O
+28	O
+.	O
+30	O
+mmol	O
+/	O
+L	O
+.	O

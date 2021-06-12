@@ -1,0 +1,10 @@
+
+En	O
+tratamiento	O
+con	O
+enalapril	O
+desde	O
+último	O
+ingreso	O
+hospitalario	O
+.	O

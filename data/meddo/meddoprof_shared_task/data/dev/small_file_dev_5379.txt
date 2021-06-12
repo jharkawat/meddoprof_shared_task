@@ -1,0 +1,10 @@
+
+Dos	O
+semanas	O
+después	O
+pudo	O
+ser	O
+dado	O
+de	O
+alta	O
+.	O

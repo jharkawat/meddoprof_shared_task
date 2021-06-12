@@ -1,0 +1,26 @@
+
+Durante	O
+el	O
+ajuste	O
+del	O
+tratamiento	O
+con	O
+clozapina	O
+no	O
+tienen	O
+lugar	O
+efectos	O
+adversos	O
+,	O
+manteniendo	O
+en	O
+hemogramas	O
+semanales	O
+cifras	O
+de	O
+leucocitos	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

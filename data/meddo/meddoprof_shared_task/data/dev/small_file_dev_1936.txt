@@ -1,0 +1,24 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+el	O
+paciente	O
+se	O
+mantiene	O
+estable	O
+psicopatológicamente	O
+con	O
+clozapina	O
+100	O
+mg	O
+(	O
+niveles	O
+terapéuticos	O
+)	O
+,	O
+sin	O
+disfunción	O
+sexual	O
+.	O

@@ -1,0 +1,5 @@
+
+Consumidor	O
+de	O
+cannabis	O
+.	O

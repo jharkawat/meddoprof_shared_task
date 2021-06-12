@@ -1,0 +1,6 @@
+
+No	O
+intervenciones	O
+quirúrgicas	O
+previas	O
+.	O

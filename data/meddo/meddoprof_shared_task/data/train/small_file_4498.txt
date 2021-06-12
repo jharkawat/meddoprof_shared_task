@@ -1,0 +1,16 @@
+
+En	O
+la	O
+exploración	O
+se	O
+aprecia	O
+buen	O
+estado	O
+general	O
+pero	O
+con	O
+aspecto	O
+apático	O
+y	O
+serio	O
+.	O

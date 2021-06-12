@@ -1,0 +1,26 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+mostró	O
+opacidades	O
+alveolares	O
+coalescentes	O
+bilaterales	O
+de	O
+predominio	O
+subpleural	O
+,	O
+con	O
+aumento	O
+de	O
+densidad	O
+con	O
+patrón	O
+intersticial	O
+en	O
+las	O
+regiones	O
+parahiliares	O
+.	O

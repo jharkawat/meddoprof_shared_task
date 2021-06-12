@@ -1,0 +1,19 @@
+
+Suspendio	O
+matemáticas	O
+de	O
+4o	O
+E	O
+.	O
+S	O
+.	O
+O	O
+despues	O
+decidió	B-SITUACION_LABORAL
+dejar	I-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+educación	I-SITUACION_LABORAL
+para	O
+estudiar	B-SITUACION_LABORAL
+música	I-SITUACION_LABORAL
+.	O

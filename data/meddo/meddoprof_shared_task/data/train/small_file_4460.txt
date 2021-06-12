@@ -1,0 +1,11 @@
+
+Toma	O
+medicación	O
+habitual	O
+antihipertensiva	O
+,	O
+antidiabéticos	O
+orales	O
+e	O
+hipolipemiantes	O
+.	O

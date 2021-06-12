@@ -1,0 +1,46 @@
+T1	SINTOMA 79 98	cefalea holocraneal
+T2	SINTOMA 318 332	picos febriles
+T3	SINTOMA 380 409	afectación del estado general
+T4	SINTOMA 936 947	neutrofilia
+T5	SINTOMA 1241 1275	ocupación de caja timpánica, ático
+T6	SINTOMA 1323 1395	erosiones osteíticas en la pared posterior del antro y celdas mastoideas
+T7	SINTOMA 1868 1876	diplopia
+T8	SINTOMA 1987 1994	afebril
+T9	PROCEDIMIENTO 636 654	exploración física
+T10	PROCEDIMIENTO 661 702	otoscopia la membrana timpánica izquierda
+T11	PROCEDIMIENTO 987 998	audiometría
+T12	PROCEDIMIENTO 1187 1190	TAC
+T13	PROCEDIMIENTO 1616 1642	antibioterapia intravenosa
+T14	PROCEDIMIENTO 1723 1735	miringotomía
+T15	PROCEDIMIENTO 1738 1759	colocación de drenaje
+T16	PROCEDIMIENTO 1765 1779	mastoidectomía
+T17	PROCEDIMIENTO 1785 1828	descompresión extrínseca del seno sigmoideo
+T18	PROCEDIMIENTO 1945 1948	TAC
+T19	PROCEDIMIENTO 1951 1954	RMN
+T20	NEG 273 276	sin
+T21	NSCO 277 284	mejoría
+T22	NEG 1924 1935	descartando
+T23	NSCO 1936 1948	mediante TAC
+T24	NEG 1987 1994	afebril
+T25	FARMACO 209 222	moxifloxacino
+T26	FARMACO 592 602	metformina
+T27	FARMACO 1647 1657	cefotaxima
+T28	FARMACO 1660 1672	metronidazol
+T29	ORG_VIVO 26 31	varón
+T30	ORG_VIVO 289 297	paciente
+T31	ORG_VIVO 538 548	personales
+T32	ORG_VIVO 1511 1519	paciente
+T33	ORG_VIVO 1850 1858	paciente
+T34	ENFERMEDAD 253 272	proceso rinosinusal
+T35	ENFERMEDAD 429 475	contractura del músculo esternocleidomastoideo
+T36	ENFERMEDAD 611 628	diabetes mellitus
+T37	ENFERMEDAD 817 836	contractura del ECM
+T38	ENFERMEDAD 911 923	leucocitosis
+T39	ENFERMEDAD 936 947	neutrofilia
+T40	ENFERMEDAD 1030 1061	hipoacusia transmisiva moderada
+T41	ENFERMEDAD 1323 1395	erosiones osteíticas en la pared posterior del antro y celdas mastoideas
+T42	ENFERMEDAD 1427 1466	Trombosis secundaria del seno sigmoideo
+T43	ENFERMEDAD 1540 1562	OMA subaguda izquierda
+T44	ENFERMEDAD 1563 1601	Trombosis del seno lateral homolateral
+T45	ENFERMEDAD 2053 2081	parálisis del VI par craneal
+T46	ENFERMEDAD 2124 2126	DM

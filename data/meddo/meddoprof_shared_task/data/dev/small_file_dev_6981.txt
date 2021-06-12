@@ -1,0 +1,20 @@
+
+Aparecen	O
+en	O
+la	O
+neumonía	O
+intersticial	O
+linfoide	O
+,	O
+amiloidosis	O
+o	O
+histiocitosis	O
+de	O
+células	O
+de	O
+Langerhans	O
+,	O
+entre	O
+otras	O
+entidades	O
+.	O

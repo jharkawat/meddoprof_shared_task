@@ -1,0 +1,17 @@
+
+Desde	O
+febrero	O
+de	O
+2017	O
+,	O
+seguimiento	O
+también	O
+por	O
+psicología	O
+clínica	O
+y	O
+valorado	O
+por	O
+trabajadora	B-PROFESION
+social	I-PROFESION
+.	O

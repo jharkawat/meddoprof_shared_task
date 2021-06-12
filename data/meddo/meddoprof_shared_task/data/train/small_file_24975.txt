@@ -1,0 +1,25 @@
+
+El	O
+segundo	O
+ingreso	O
+(	O
+por	O
+pérdida	O
+de	O
+conocimiento	O
+)	O
+tuvo	O
+el	O
+mismo	O
+patrón	O
+,	O
+con	O
+exámen	O
+,	O
+analíticas	O
+,	O
+CT	O
+y	O
+RM	O
+normales	O
+.	O

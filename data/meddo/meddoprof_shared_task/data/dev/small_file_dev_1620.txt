@@ -1,0 +1,9 @@
+
+Reside	O
+con	O
+los	O
+padres	O
+en	O
+domicilio	O
+familiar	O
+.	O

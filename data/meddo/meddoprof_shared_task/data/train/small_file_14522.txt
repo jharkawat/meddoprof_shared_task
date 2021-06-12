@@ -1,0 +1,16 @@
+
+Nos	O
+planteamos	O
+el	O
+diagnóstico	O
+diferencial	O
+con	O
+patologías	O
+que	O
+cursan	O
+con	O
+adenopatías	O
+mediastínicas	O
+y	O
+astenia	O
+.	O

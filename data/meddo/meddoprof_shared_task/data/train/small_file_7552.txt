@@ -1,0 +1,11 @@
+
+En	O
+el	O
+dorso	O
+de	O
+las	O
+manos	O
+presentaba	O
+lesiones	O
+eczematosas	O
+.	O

@@ -1,0 +1,63 @@
+T1	SINTOMA 444 456	llanto fácil
+T2	SINTOMA 805 812	palidez
+T3	SINTOMA 814 825	somnolencia
+T4	SINTOMA 827 834	astenia
+T5	SINTOMA 1036 1048	constipación
+T6	SINTOMA 1410 1433	lentitud en el parpadeo
+T7	SINTOMA 1435 1444	hipobulia
+T8	SINTOMA 1446 1457	hipokinesia
+T9	SINTOMA 1459 1480	hipocinesia bilateral
+T10	SINTOMA 1483 1490	rigidez
+T11	SINTOMA 1492 1510	rostro inexpresivo
+T12	SINTOMA 1512 1542	conciencia lúcida planteandose
+T13	PROCEDIMIENTO 272 275	TAC
+T14	PROCEDIMIENTO 277 280	EEG
+T15	PROCEDIMIENTO 282 294	fondo de ojo
+T16	PROCEDIMIENTO 1066 1083	enemas evacuantes
+T17	PROCEDIMIENTO 1352 1376	examen psico-neurológico
+T18	PROCEDIMIENTO 2566 2607	exámenes de toxicología en sangre y orina
+T19	NEG 186 189	sin
+T20	NSCO 190 204	causa orgánica
+T21	UNC 205 213	aparente
+T22	NEG 327 336	negativos
+T23	NSCO 337 372	llamando la atención de los médicos
+T24	NEG 974 983	se habían
+T25	NSCO 984 1014	empeorado en las ultimas horas
+T26	NEG 1130 1132	no
+T27	NSCO 1133 1179	podía cumplir los actos sencillos como bañarse
+T28	NEG 1317 1319	no
+T29	NSCO 1320 1335	cumplía órdenes
+T30	UNC 1575 1587	posiblemente
+T31	USCO 1588 1601	medicamentoso
+T32	NEG 1702 1704	no
+T33	NSCO 1705 1741	estaba ingiriendo ningún medicamento
+T34	NEG 1942 1944	no
+T35	NSCO 1945 1973	se reconciliaba con el padre
+T36	NEG 2252 2263	ausencia de
+T37	NSCO 2264 2274	4 tabletas
+T38	FARMACO 688 700	clopromacina
+T39	FARMACO 2141 2154	clorpromacina
+T40	FARMACO 2873 2886	clorpromacina
+T41	ORG_VIVO 14 18	niño
+T42	ORG_VIVO 365 372	médicos
+T43	ORG_VIVO 594 602	familiar
+T44	ORG_VIVO 840 850	familiares
+T45	ORG_VIVO 865 873	paciente
+T46	ORG_VIVO 890 895	madre
+T47	ORG_VIVO 1622 1627	madre
+T48	ORG_VIVO 1669 1673	niña
+T49	ORG_VIVO 1833 1838	padre
+T50	ORG_VIVO 1873 1877	niña
+T51	ORG_VIVO 1968 1973	padre
+T52	ORG_VIVO 2110 2115	madre
+T53	ORG_VIVO 2386 2391	madre
+T54	ORG_VIVO 2454 2476	personal de enfermería
+T55	ORG_VIVO 2742 2771	síndrome de maltrato infantil
+T56	ENFERMEDAD 168 185	síndrome asténico
+T57	ENFERMEDAD 544 560	síndrome emético
+T58	ENFERMEDAD 570 602	psicógena por conflicto familiar
+T59	ENFERMEDAD 637 669	trastorno disociativo conversivo
+T60	ENFERMEDAD 1561 1601	parkinsonismo posiblemente medicamentoso
+T61	ENFERMEDAD 2742 2771	síndrome de maltrato infantil
+T62	SANITARIO-PROFESION 2454 2476	personal de enfermería
+T63	SANITARIO-PROFESION 365 372	médicos

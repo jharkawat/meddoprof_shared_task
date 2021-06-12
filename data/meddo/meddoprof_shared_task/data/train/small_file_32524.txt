@@ -1,0 +1,27 @@
+
+Con	O
+episodios	O
+de	O
+heteroagresividad	O
+verbal	O
+y	O
+riesgo	O
+de	O
+paso	O
+al	O
+acto	O
+ante	O
+mínimas	O
+confrontaciones	O
+.	O
+Lenguaje	O
+disgregado	O
+,	O
+con	O
+ideación	O
+delirante	O
+de	O
+perjuicio	O
+y	O
+megalomaníaca	O
+.	O

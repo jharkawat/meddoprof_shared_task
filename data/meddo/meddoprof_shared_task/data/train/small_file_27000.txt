@@ -1,0 +1,10 @@
+
+El	O
+peso	O
+al	O
+nacer	O
+fue	O
+de	O
+2360	O
+gramos	O
+.	O

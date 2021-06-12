@@ -1,0 +1,22 @@
+
+Además	O
+se	O
+realizaron	O
+cuatro	O
+broncoaspirados	O
+de	O
+secreciones	O
+(	O
+BAS	O
+)	O
+para	O
+hongos	O
+,	O
+Pneumocystis	O
+,	O
+cultivo	O
+y	O
+bacilo	O
+de	O
+Koch	O
+.	O

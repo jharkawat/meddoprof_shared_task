@@ -1,0 +1,23 @@
+
+Sin	O
+focalidad	O
+neurológica	O
+en	O
+la	O
+exploración	O
+es	O
+dada	O
+de	O
+alta	O
+y	O
+remitida	O
+para	O
+nueva	O
+valoración	O
+por	O
+los	O
+especialistas	B-PROFESION
+de	I-PROFESION
+Aparato	I-PROFESION
+Digestivo	I-PROFESION
+.	O

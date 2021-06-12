@@ -1,0 +1,16 @@
+
+Se	O
+puede	O
+apreciar	O
+una	O
+circunferencia	O
+de	O
+densidad	O
+aire	O
+que	O
+corresponde	O
+al	O
+interior	O
+del	O
+rotulador	O
+.	O

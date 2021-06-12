@@ -1,0 +1,10 @@
+
+Diagnóstico	O
+:	O
+Meningitis	O
+aguda	O
+por	O
+L	O
+.	O
+monocytogenes	O
+.	O

@@ -1,0 +1,9 @@
+
+Chlamydophila	O
+pneumoniae	O
+IgG	O
+dudosa	O
+,	O
+IgM	O
+negativa	O
+.	O

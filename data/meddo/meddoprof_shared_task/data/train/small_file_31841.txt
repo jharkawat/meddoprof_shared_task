@@ -1,0 +1,21 @@
+
+Embarazo	O
+y	O
+parto	O
+sin	O
+complicaciones	O
+,	O
+enuresis	O
+y	O
+encopresis	O
+secundaria	O
+a	O
+la	O
+edad	O
+de	O
+7	O
+años	O
+sin	O
+desencadenante	O
+aparente	O
+.	O

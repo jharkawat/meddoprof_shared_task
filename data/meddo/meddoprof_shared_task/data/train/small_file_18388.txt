@@ -1,0 +1,13 @@
+
+Trastorno	O
+depresivo	O
+mayor	O
+recurrente	O
+con	O
+sintomatología	O
+melancólica	O
+según	O
+criterios	O
+DSM	O
+IV	O
+.	O

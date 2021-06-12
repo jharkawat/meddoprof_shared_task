@@ -1,0 +1,12 @@
+
+Paciente	O
+que	O
+se	O
+encuentra	O
+en	O
+programa	O
+de	O
+quimioterapia	O
+y	O
+radioterapia	O
+.	O

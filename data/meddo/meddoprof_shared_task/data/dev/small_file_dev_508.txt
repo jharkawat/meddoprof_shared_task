@@ -1,0 +1,21 @@
+
+Diagnosticado	O
+de	O
+depresión	O
+mayor	O
+,	O
+fue	O
+tratado	O
+con	O
+fármacos	O
+que	O
+el	O
+paciente	O
+no	O
+recuerda	O
+y	O
+siguió	O
+psicoterapia	O
+hasta	O
+1989	O
+.	O

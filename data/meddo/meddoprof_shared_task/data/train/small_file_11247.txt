@@ -1,0 +1,7 @@
+
+Ototubaritis	O
+derecha	O
+hace	O
+4	O
+meses	O
+.	O

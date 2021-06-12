@@ -1,0 +1,8 @@
+
+Intervenido	O
+quirúrgicamente	O
+por	O
+vasectomía	O
+y	O
+fimosis	O
+.	O

@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+acude	O
+al	O
+mes	O
+del	O
+inicio	O
+del	O
+primer	O
+ciclo	O
+de	O
+palbociclib	O
+a	O
+Urgencias	O
+por	O
+astenia	O
+y	O
+mialgias	O
+.	O

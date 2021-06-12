@@ -1,0 +1,7 @@
+
+Rechaza	O
+también	O
+tratamiento	O
+farmacológico	O
+psiquiátrico	O
+.	O

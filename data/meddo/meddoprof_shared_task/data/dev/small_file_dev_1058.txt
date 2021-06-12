@@ -1,0 +1,19 @@
+
+Refieren	O
+sus	O
+padres	O
+que	O
+siempre	O
+ha	O
+tenido	O
+alto	O
+umbral	O
+de	O
+dolor	O
+(	O
+escasa	O
+sensibilidad	O
+al	O
+dolor	O
+)	O
+.	O

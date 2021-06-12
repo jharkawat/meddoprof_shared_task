@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+psicopatológica	O
+se	O
+encontraba	O
+consciente	O
+y	O
+orientado	O
+auto	O
+y	O
+alopsiquicamente	O
+.	O

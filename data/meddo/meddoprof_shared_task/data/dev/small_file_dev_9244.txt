@@ -1,0 +1,13 @@
+
+Déficit	O
+idiopático	O
+de	O
+linfocitos	O
+CD4	O
++	O
+como	O
+causa	O
+subyacente	O
+de	O
+inmunodepresión	O
+.	O

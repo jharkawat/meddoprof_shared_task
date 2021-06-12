@@ -1,0 +1,18 @@
+
+Durante	O
+este	O
+,	O
+se	O
+objetiva	O
+fiebre	O
+y	O
+leucocitosis	O
+,	O
+que	O
+es	O
+tratada	O
+con	O
+éxito	O
+mediante	O
+antibioterapia	O
+.	O

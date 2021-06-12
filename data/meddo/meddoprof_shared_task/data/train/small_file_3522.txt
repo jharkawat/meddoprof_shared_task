@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+se	O
+encuentra	O
+actualmente	O
+en	B-SITUACION_LABORAL
+Centro	I-SITUACION_LABORAL
+Penitenciario	I-SITUACION_LABORAL
+por	O
+incumplimiento	O
+de	O
+la	O
+orden	O
+de	O
+alejamiento	O
+y	O
+nueva	O
+agresión	O
+a	O
+su	O
+expareja	O
+.	O

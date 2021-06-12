@@ -1,0 +1,17 @@
+Anamnesis
+Mujer de 54 años de edad, que consulta por un cuadro clínico de inicio hace un año y medio que comienza con empeoramiento de su visión, que le impide realizar con normalidad actos de la vida cotidiana como leer, meter la llave en una cerradura o encontrar ropa en su armario. Ante la sospecha de una alteración oftalmológica, es derivada al oftalmólogo por su médico de Atención Primaria. Tras ser estudiada se evidencia una hemianopsia homónima derecha sin más alteraciones, por lo que es remitida finalmente al Servicio de Neurología, sospechando en un primer momento una patología vascular que se descarta tras la realización de las pruebas de imagen. La paciente trabaja como enfermera. Como antecedentes personales presenta una dislipemia en tratamiento con estatinas como único factor de riesgo vascular, y un síndrome de ansiedad en tratamiento con benzodiacepinas. Entre los antecedentes familiares destaca el fallecimiento de la madre por enfermedad de Parkinson y el fallecimiento del padre por un tumor cerebral de estirpe desconocida, ya que no presenta informes.
+
+Exploración física
+En la exploración física la paciente estaba hemodinámicamente estable, con buen estado general, normocoloreada, bien hidratada y eupneica. Resto de la exploración general sin alteraciones. En la exploración neurológica destaca una campimetría compatible con hemianopsia homónima derecha y un inicio lento de los movimientos sacádicos verticales. Resto sin alteraciones.
+
+Pruebas complementarias
+• Analítica con perfil cognitivo: normal
+• Resonancia magnética (RM) cerebral: informada en un principio como normal, posteriormente de forma más dirigida se aprecia una atrofia cortical de predominio parieto-occipital izquierdo. Resonancia magnética: atrofia de predominio posterior izquierdo. SPECT: hipoperfusión témporooccipito- parietal izquierda
+• SPECT cerebral: hipoperfusión cortical parieto-occipital y temporal izquierda.
+• Estudio neuropsicológico Mini Mental State Examination (MMSE): 21/30. Desorientada parcialmente en espacio. Orientada en persona y tiempo. Afectación visuo-espacial: alteración de la percepción simple y compleja (prosopagnosia, falta de integración de la imagen evidencia en el test de Boston). Prueba del laberinto alterada. Se aprecia afectación tanto de la memoria a corto plazo como de la explícita (destaca 1/15 en la parte de memoria semántica del T@M). Afectación de la función ejecutiva: Cancelación de dígitos: 24 aciertos y 3 errores. Digit spam inverso: 4/7. Fluidez categorial: 9 palabras/min. Fluidez fonémica: 13 palabras/min. Con lenguaje espontáneo fluido. Afectación de las praxias melocinéticas. Apraxia visual: donde se aprecia el fenómeno de closing. Acalculia, confusión derecha-izquierda. No alteraciones conductuales. Insight conservado. Funcionalmente: independiente para las actividades básicas, pero precisa supervisión para las instrumentales.
+
+Diagnóstico
+Síndrome de atrofia cortical posterior.
+
+Tratamiento y evolución
+Cuando se valora en consultas de Neurología, la paciente lleva un año y medio de evolución, apreciándose un empeoramiento significativo de sus funciones cognitivas y funcionalidad. Tras haber descartado causas secundarias con las pruebas realizadas, se diagnostica de demencia primaria que cumple las características clínicas del síndrome de atrofia cortical posterior y, dado que la etiología más frecuente es la enfermedad de Alzheimer, se trata con anticolinesterásicos.

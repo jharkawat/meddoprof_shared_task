@@ -1,0 +1,7 @@
+
+Sin	O
+ruidos	O
+patológicos	O
+de	O
+interés	O
+.	O

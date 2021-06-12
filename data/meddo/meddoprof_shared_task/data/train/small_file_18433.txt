@@ -1,0 +1,17 @@
+
+-	O
+Dependencia	O
+grave	O
+de	O
+nicotina	O
+desde	O
+los	O
+17	O
+años	O
+,	O
+con	O
+20	O
+cigarrillos	O
+al	O
+día	O
+.	O

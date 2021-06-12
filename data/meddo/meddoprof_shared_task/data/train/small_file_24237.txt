@@ -1,0 +1,7 @@
+
+El	O
+paciente	O
+respondió	O
+muy	O
+favorablemente	O
+.	O

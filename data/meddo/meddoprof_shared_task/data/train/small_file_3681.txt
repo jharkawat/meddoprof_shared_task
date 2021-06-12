@@ -1,0 +1,8 @@
+
+No	O
+se	O
+conocen	O
+reacciones	O
+alérgicas	O
+medicamentosas	O
+.	O

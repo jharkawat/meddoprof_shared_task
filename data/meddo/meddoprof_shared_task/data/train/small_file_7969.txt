@@ -1,0 +1,19 @@
+
+Es	O
+remitido	O
+a	O
+hospital	O
+de	O
+día	O
+de	O
+diabetes	O
+desde	O
+atención	O
+primaria	O
+por	O
+mal	O
+control	O
+de	O
+su	O
+diabetes	O
+.	O

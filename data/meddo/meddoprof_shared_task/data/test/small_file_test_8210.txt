@@ -1,0 +1,20 @@
+
+Se	O
+decide	O
+cambiar	O
+piperacilina	O
+-	O
+tazobactam	O
+por	O
+colistina	O
+intravenosa	O
+(	O
+dosis	O
+de	O
+160	O
+mg	O
+/	O
+8	O
+horas	O
+)	O
+.	O

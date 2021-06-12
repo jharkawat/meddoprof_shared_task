@@ -1,0 +1,15 @@
+
+Intervenciones	O
+quirúrgicas	O
+:	O
+absceso	O
+y	O
+fisura	O
+anal	O
+en	O
+varias	O
+ocasiones	O
+y	O
+apendicitis	O
+aguda	O
+.	O

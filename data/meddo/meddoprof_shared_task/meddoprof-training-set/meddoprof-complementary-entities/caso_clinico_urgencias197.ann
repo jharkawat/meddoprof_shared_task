@@ -1,0 +1,117 @@
+T1	SINTOMA 142 148	fiebre
+T2	SINTOMA 150 156	disnea
+T3	SINTOMA 159 169	hemoptisis
+T4	SINTOMA 504 510	fiebre
+T5	SINTOMA 512 518	disnea
+T6	SINTOMA 521 531	hemoptisis
+T7	SINTOMA 877 883	fiebre
+T8	SINTOMA 993 1002	hipotensa
+T9	SINTOMA 1046 1057	taquipneica
+T10	SINTOMA 1090 1096	febril
+T11	SINTOMA 1098 1114	Ta axilar 38,3oC
+T12	SINTOMA 1211 1229	roncus bilaterales
+T13	SINTOMA 1238 1254	soplos cardiacos
+T14	SINTOMA 2149 2157	flebitis
+T15	SINTOMA 4051 4061	hemoptisis
+T16	PROCEDIMIENTO 443 462	tiroidectomía total
+T17	PROCEDIMIENTO 632 651	tiroidectomía total
+T18	PROCEDIMIENTO 903 934	cultivo de la punta del catéter
+T19	PROCEDIMIENTO 1172 1184	auscultación
+T20	PROCEDIMIENTO 1405 1418	tiroidectomía
+T21	PROCEDIMIENTO 1464 1484	Radiografía de tórax
+T22	PROCEDIMIENTO 1816 1835	gasometría arterial
+T23	PROCEDIMIENTO 1852 1864	hemocultivos
+T24	PROCEDIMIENTO 2004 2025	cobertura antibiótica
+T25	PROCEDIMIENTO 2186 2197	antibiótico
+T26	PROCEDIMIENTO 2352 2374	intubación orotraqueal
+T27	PROCEDIMIENTO 2377 2397	ventilación mecánica
+T28	PROCEDIMIENTO 2614 2626	TAC torácico
+T29	PROCEDIMIENTO 2746 2763	Fibrobroncoscopia
+T30	PROCEDIMIENTO 2913 2934	lavado broncoalveolar
+T31	PROCEDIMIENTO 2936 2964	Ecocardiograma transtorácico
+T32	PROCEDIMIENTO 3003 3044	Eco doppler extremidad superior izquierda
+T33	PROCEDIMIENTO 3145 3157	hemocultivos
+T34	PROCEDIMIENTO 3169 3202	cultivo del lavado broncoalveolar
+T35	PROCEDIMIENTO 3284 3296	antibióticos
+T36	PROCEDIMIENTO 3737 3768	desbridar el absceso de la mano
+T37	PROCEDIMIENTO 3929 3937	extubada
+T38	PROCEDIMIENTO 4089 4112	arteriografía bronquial
+T39	PROCEDIMIENTO 4231 4242	hemocultivo
+T40	PROCEDIMIENTO 4461 4492	electroforesis de campo pulsado
+T41	PROCEDIMIENTO 4741 4753	antibiograma
+T42	NEG 67 70	sin
+T43	NSCO 71 123	hábitos tóxicos ni alergias medicamentosas conocidas
+T44	NEG 857 859	no
+T45	NSCO 860 883	haber presentado fiebre
+T46	NEG 885 887	no
+T47	NSCO 888 934	se procedió al cultivo de la punta del catéter
+T48	NEG 1235 1237	no
+T49	NSCO 1238 1257	soplos cardiacos ni
+T50	NEG 1258 1265	tampoco
+T51	NSCO 1266 1317	se evidenciaba semiología de insuficiencia cardiaca
+T52	NEG 1802 1804	No
+T53	NSCO 1805 1835	se realizó gasometría arterial
+T54	NSCO 2110 2166	Ni la celulitis ni los antecedentes de flebitis hicieron
+T55	NEG 2438 2440	no
+T56	NSCO 2441 2478	dispone de Unidad de Curas Intensivas
+T57	NEG 2966 2977	ausencia de
+T58	NSCO 2978 3001	vegetaciones valvulares
+T59	UNC 3400 3414	compatible con
+T60	USCO 3415 3448	un SARM adquirido en la comunidad
+T61	NEG 4670 4673	sin
+T62	NSCO 4674 4713	detectar en ningún caso la presencia de
+T63	FARMACO 2030 2043	levofloxacino
+T64	FARMACO 2056 2067	ceftriaxona
+T65	FARMACO 3307 3319	eritromicina
+T66	FARMACO 3321 3333	clindamicina
+T67	FARMACO 3335 3346	gentamicina
+T68	FARMACO 3348 3362	ciprofloxacino
+T69	FARMACO 3364 3375	rifampicina
+T70	FARMACO 3378 3390	cotrimoxazol
+T71	FARMACO 3489 3500	vancomicina
+T72	FARMACO 3591 3604	levofloxacino
+T73	FARMACO 3607 3615	imipenem
+T74	FARMACO 3654 3663	linezolid
+T75	FARMACO 3827 3837	quinolonas
+T76	ORG_VIVO 30 40	PERSONALES
+T77	ORG_VIVO 41 46	Mujer
+T78	ORG_VIVO 978 985	enferma
+T79	ORG_VIVO 2221 2230	S. aureus
+T80	ORG_VIVO 2404 2412	paciente
+T81	ORG_VIVO 3220 3253	S. aureus resistente a meticilina
+T82	ORG_VIVO 3255 3259	SARM
+T83	ORG_VIVO 3418 3422	SARM
+T84	ORG_VIVO 3463 3467	cepa
+T85	ORG_VIVO 3796 3800	SARM
+T86	ORG_VIVO 3917 3924	enferma
+T87	ORG_VIVO 4204 4208	cepa
+T88	ORG_VIVO 4212 4216	SARM
+T89	ORG_VIVO 4345 4349	cepa
+T90	ORG_VIVO 4451 4454	LPV
+T91	ORG_VIVO 4586 4590	SARM
+T92	ORG_VIVO 4600 4618	personal sanitario
+T93	ORG_VIVO 4661 4669	paciente
+T94	ORG_VIVO 4714 4723	S. aureus
+T95	ORG_VIVO 4771 4775	cepa
+T96	ORG_VIVO 4779 4783	SARM
+T97	ENFERMEDAD 0 40	HISTORIA CLÍNICA-ANTECEDENTES PERSONALES
+T98	ENFERMEDAD 246 267	hipertensión arterial
+T99	ENFERMEDAD 298 333	bocio multinodular normofuncionante
+T100	ENFERMEDAD 709 745	flebitis superficial en el antebrazo
+T101	ENFERMEDAD 1295 1317	insuficiencia cardiaca
+T102	ENFERMEDAD 1350 1375	celulitis en el antebrazo
+T103	ENFERMEDAD 1958 1977	neumonía nosocomial
+T104	ENFERMEDAD 2116 2125	celulitis
+T105	ENFERMEDAD 2149 2157	flebitis
+T106	ENFERMEDAD 2628 2671	condensación cavitada en el lóbulo superior
+T107	ENFERMEDAD 2978 3001	vegetaciones valvulares
+T108	ENFERMEDAD 3046 3102	trombosis de las venas superficiales basílica y cefálica
+T109	ENFERMEDAD 3169 3253	cultivo del lavado broncoalveolar, la presencia de S. aureus resistente a meticilina
+T110	ENFERMEDAD 3418 3457	SARM adquirido en la comunidad (SARM-AC
+T111	ENFERMEDAD 3750 3768	absceso de la mano
+T112	ENFERMEDAD 3856 3898	trombosis de las venas cefálica y basílica
+T113	ENFERMEDAD 4127 4183	pseudoaneurisma en una rama de la arteria lobar inferior
+T114	ENFERMEDAD 4811 4845	Tromboflebitis séptica por SARM-AC
+T115	ENFERMEDAD 4850 4878	embolias sépticas pulmonares
+T116	SANITARIO-PROFESION 1908 1922	médicos del SU
+T117	SANITARIO-PROFESION 4600 4618	personal sanitario

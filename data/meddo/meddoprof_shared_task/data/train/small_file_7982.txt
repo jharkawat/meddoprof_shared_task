@@ -1,0 +1,22 @@
+
+Había	O
+sido	O
+valorada	O
+por	O
+Neurología	O
+al	O
+inicio	O
+del	O
+embarazo	O
+con	O
+diagnóstico	O
+de	O
+migraña	O
+y	O
+el	O
+embarazo	O
+era	O
+de	O
+curso	O
+normal	O
+.	O

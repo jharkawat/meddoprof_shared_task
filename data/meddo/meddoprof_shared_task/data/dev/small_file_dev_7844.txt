@@ -1,0 +1,20 @@
+
+Refiere	O
+que	O
+dos	O
+semanas	O
+antes	O
+de	O
+la	O
+aparición	O
+de	O
+la	O
+fiebre	O
+presentó	O
+faringitis	O
+aguda	O
+,	O
+resuelta	O
+con	O
+AINEs	O
+.	O

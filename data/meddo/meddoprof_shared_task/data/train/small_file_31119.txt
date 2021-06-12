@@ -1,0 +1,26 @@
+
+Con	O
+esta	O
+nueva	O
+frecuencia	O
+se	O
+realizan	O
+un	O
+total	O
+de	O
+10	O
+sesiones	O
+,	O
+obteniendo	O
+convulsiones	O
+en	O
+el	O
+registro	O
+EEG	O
+de	O
+duración	O
+media	O
+de	O
+34	O
+segundos	O
+.	O

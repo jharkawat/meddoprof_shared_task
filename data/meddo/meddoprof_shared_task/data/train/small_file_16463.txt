@@ -1,0 +1,8 @@
+
+Resto	O
+de	O
+nervios	O
+craneales	O
+sin	O
+alteraciones	O
+.	O

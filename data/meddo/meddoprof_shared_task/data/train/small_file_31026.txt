@@ -1,0 +1,18 @@
+
+Se	O
+retira	O
+el	O
+antipsicótico	O
+y	O
+se	O
+mantienen	O
+únicamente	O
+benzodiacepinas	O
+y	O
+heparina	O
+profiláctica	O
+ante	O
+inmovilidad	O
+y	O
+encamamiento	O
+.	O

@@ -1,0 +1,21 @@
+
+Han	O
+pasado	O
+aproximadamente	O
+6	O
+meses	O
+desde	O
+la	O
+primera	O
+consulta	O
+realizada	O
+por	O
+el	O
+paciente	O
+a	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

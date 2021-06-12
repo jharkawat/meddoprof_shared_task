@@ -1,0 +1,27 @@
+
+-	O
+Tras	O
+la	O
+evaluación	O
+de	O
+la	O
+paciente	O
+se	O
+realizan	O
+30	O
+sesiones	O
+como	O
+la	O
+descrita	O
+,	O
+de	O
+20	O
+-	O
+30	O
+minutos	O
+en	O
+el	O
+gimnasio	O
+del	O
+HCD	O
+.	O

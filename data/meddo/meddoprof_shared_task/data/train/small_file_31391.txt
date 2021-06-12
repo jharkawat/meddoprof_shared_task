@@ -1,0 +1,24 @@
+
+Citalopram	O
+(	O
+mg	O
+)	O
+:	O
+20	O
+-	O
+0	O
+-	O
+0	O
+.	O
+n	O
+Brivaracetam	O
+(	O
+mg	O
+)	O
+:	O
+50	O
+-	O
+0	O
+-	O
+50	O
+.	O

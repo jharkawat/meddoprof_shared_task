@@ -1,0 +1,6 @@
+
+Paciente	O
+de	O
+16	O
+años	O
+.	O

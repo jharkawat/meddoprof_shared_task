@@ -1,0 +1,11 @@
+
+Caudalmente	O
+a	O
+S2	O
+están	O
+afectados	O
+todos	O
+los	O
+forámenes	O
+neurales	O
+.	O

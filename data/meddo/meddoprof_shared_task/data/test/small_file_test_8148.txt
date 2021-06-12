@@ -1,0 +1,8 @@
+
+Afectación	O
+metastásica	O
+suprarrenal	O
+de	O
+origen	O
+epidermoide	O
+.	O

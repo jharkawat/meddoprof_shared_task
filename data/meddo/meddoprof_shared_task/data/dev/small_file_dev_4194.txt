@@ -1,0 +1,22 @@
+
+Glasgow	O
+:	O
+RO	O
+:	O
+4	O
+/	O
+4	O
+RV	O
+:	O
+5	O
+/	O
+5	O
+RM	O
+:	O
+6	O
+/	O
+6	O
+total	O
+15	O
+/	O
+15	O

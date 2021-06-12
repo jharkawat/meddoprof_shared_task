@@ -1,0 +1,9 @@
+
+No	O
+presenta	O
+alteraciones	O
+significativas	O
+en	O
+troncos	O
+supraaórticos	O
+.	O

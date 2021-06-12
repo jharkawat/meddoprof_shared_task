@@ -1,0 +1,10 @@
+
+Se	O
+le	O
+pauta	O
+olanzapina	O
+5	O
+mg	O
+/	O
+d	O
+.	O

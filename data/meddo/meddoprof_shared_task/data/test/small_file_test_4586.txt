@@ -1,0 +1,7 @@
+
+Cáncer	O
+de	O
+mama	O
+estadio	O
+IV	O
+.	O

@@ -1,0 +1,20 @@
+
+Varón	O
+,	O
+agricultor	B-PROFESION
+de	O
+75	O
+años	O
+,	O
+alérgico	O
+a	O
+AINE	O
+,	O
+con	O
+antecedentes	O
+personales	O
+de	O
+dislipemia	O
+y	O
+EPOC	O
+.	O

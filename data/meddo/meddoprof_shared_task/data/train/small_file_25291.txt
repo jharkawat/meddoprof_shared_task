@@ -1,0 +1,10 @@
+
+Hace	O
+un	O
+año	O
+que	O
+ha	O
+dejado	O
+de	O
+pintar	O
+.	O

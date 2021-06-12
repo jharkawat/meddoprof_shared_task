@@ -1,0 +1,5 @@
+
+Hepatotoxicidad	O
+por	O
+Ciclosporina	O
+.	O

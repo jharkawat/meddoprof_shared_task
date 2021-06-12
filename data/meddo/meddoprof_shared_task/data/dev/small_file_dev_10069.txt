@@ -1,0 +1,18 @@
+
+Su	O
+padre	O
+había	O
+notado	O
+el	O
+cambio	O
+y	O
+su	O
+familia	O
+había	O
+tratado	O
+de	O
+sacarlo	O
+de	O
+su	O
+aislamiento	O
+.	O

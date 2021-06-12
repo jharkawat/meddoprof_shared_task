@@ -1,0 +1,27 @@
+
+Los	O
+familiares	O
+han	O
+notado	O
+empeoramiento	O
+del	O
+estado	O
+de	O
+ánimo	O
+en	O
+el	O
+último	O
+año	O
+,	O
+congruente	O
+con	O
+su	O
+separación	O
+matrimonial	O
+y	O
+sus	O
+consecuencias	O
+sociales	O
+y	O
+económicas	O
+.	O

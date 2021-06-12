@@ -1,0 +1,26 @@
+
+Se	O
+le	O
+practicó	O
+un	O
+dúplex	O
+de	O
+troncos	O
+supraaórticos	O
+que	O
+únicamente	O
+revelaba	O
+ligera	O
+elongación	O
+arterial	O
+e	O
+hiperdinamia	O
+en	O
+el	O
+origen	O
+de	O
+la	O
+arteria	O
+común	O
+izquierda	O
+.	O

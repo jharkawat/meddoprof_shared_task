@@ -1,0 +1,25 @@
+
+En	O
+su	O
+historial	O
+de	O
+hábitos	O
+tóxicos	O
+figura	O
+ingesta	O
+diaria	O
+de	O
+OH	O
+en	O
+cantidad	O
+moderada	O
+,	O
+pero	O
+con	O
+historia	O
+previa	O
+de	O
+consumo	O
+más	O
+acusado	O
+.	O

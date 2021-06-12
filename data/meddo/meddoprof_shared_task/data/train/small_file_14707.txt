@@ -1,0 +1,11 @@
+
+Diagnóstico	O
+reciente	O
+de	O
+migraña	O
+con	O
+aura	O
+visual	O
+en	O
+neurología	O
+.	O

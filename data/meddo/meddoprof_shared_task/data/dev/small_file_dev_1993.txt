@@ -1,0 +1,23 @@
+
+Tras	O
+cursar	O
+selectividad	O
+,	O
+inició	B-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+universitarios	I-SITUACION_LABORAL
+de	O
+Derecho	O
+,	O
+Escuela	O
+de	O
+Arte	O
+,	O
+Finanzas	O
+.	O
+.	O
+.	O
+abandonando	O
+todos	O
+ellos	O
+.	O

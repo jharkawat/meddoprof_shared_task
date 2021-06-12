@@ -1,0 +1,118 @@
+T1	SINTOMA 143 149	disnea
+T2	SINTOMA 1203 1231	dolor en hipocondrio derecho
+T3	SINTOMA 1464 1477	hepatomegalia
+T4	SINTOMA 1773 1802	edemas en miembros inferiores
+T5	SINTOMA 1804 1810	disnea
+T6	SINTOMA 1814 1830	grandesesfuerzos
+T7	SINTOMA 1833 1853	astenia generalizada
+T8	SINTOMA 2149 2184	dilatación de la vena cava inferior
+T9	SINTOMA 2664 2681	plenitud gástrica
+T10	SINTOMA 3721 3747	hígado aumentado de tamaño
+T11	SINTOMA 3983 3996	hepatomegalia
+T12	SINTOMA 4641 4664	limitación ventilatoria
+T13	SINTOMA 5008 5033	engrosamiento pericárdico
+T14	PROCEDIMIENTO 177 197	estudio cardiológico
+T15	PROCEDIMIENTO 254 270	partos eutócicos
+T16	PROCEDIMIENTO 783 801	ecografía hepática
+T17	PROCEDIMIENTO 1028 1055	biopsia hepática percutánea
+T18	PROCEDIMIENTO 1062 1081	anatomía patológica
+T19	PROCEDIMIENTO 1257 1266	ecografía
+T20	PROCEDIMIENTO 1366 1411	colecistectomía reglada por vía laparoscópica
+T21	PROCEDIMIENTO 1502 1517	biopsia en cuña
+T22	PROCEDIMIENTO 2013 2016	ECG
+T23	PROCEDIMIENTO 2022 2032	ergometría
+T24	PROCEDIMIENTO 2114 2128	ecocardiograma
+T25	PROCEDIMIENTO 2427 2445	exploración física
+T26	PROCEDIMIENTO 2620 2629	anamnesis
+T27	PROCEDIMIENTO 2685 2704	analítica sanguínea
+T28	PROCEDIMIENTO 3032 3056	estudio de autoinmunidad
+T29	PROCEDIMIENTO 3210 3230	radiografía de tórax
+T30	PROCEDIMIENTO 3248 3279	pruebas de función respiratoria
+T31	PROCEDIMIENTO 3632 3658	ecografía doppler hepática
+T32	PROCEDIMIENTO 3943 3961	angio-RM abdominal
+T33	PROCEDIMIENTO 4141 4176	recanalización de arteria umbilical
+T34	PROCEDIMIENTO 4181 4203	estudio de trombofilia
+T35	PROCEDIMIENTO 4368 4385	angio-TC de tórax
+T36	PROCEDIMIENTO 4394 4430	gammagrafía de ventilación-perfusión
+T37	PROCEDIMIENTO 4473 4504	prueba de esfuerzo respiratorio
+T38	PROCEDIMIENTO 4735 4751	estudio pulmonar
+T39	PROCEDIMIENTO 4804 4818	ecocardiograma
+T40	PROCEDIMIENTO 4904 4929	RMN funcional del corazón
+T41	PROCEDIMIENTO 5203 5247	cateterismo cardiaco derecho por vía femoral
+T42	PROCEDIMIENTO 5411 5433	sobrecarga intravenosa
+T43	NEG 198 200	no
+T44	NSCO 201 212	concluyente
+T45	UNC 848 861	sugestivas de
+T46	USCO 862 879	hemangiomas de 17
+T47	NEG 926 929	sin
+T48	NSCO 930 985	otras alteraciones ecográficas ni analíticas de interés
+T49	NEG 1662 1665	sin
+T50	NSCO 1666 1685	signos de actividad
+T51	NEG 2080 2083	sin
+T52	NSCO 2084 2107	alteraciones eléctricas
+T53	NEG 2331 2342	ausencia de
+T54	NSCO 2343 2366	cardiopatía estructural
+T55	NEG 2544 2547	sin
+T56	NSCO 2548 2579	estigmas de hepatopatía crónica
+T57	NEG 3280 3282	no
+T58	NSCO 3283 3320	mostraron alteraciones significativas
+T59	NEG 3462 3464	no
+T60	NSCO 3465 3543	aclarada se procedió a realizar despistaje de trombosis de las venas hepáticas
+T61	NEG 3805 3808	sin
+T62	NSCO 3809 3836	dilatación de la vía biliar
+T63	NEG 3997 4000	sin
+T64	NSCO 4001 4010	trombosis
+T65	NEG 4269 4277	negativo
+T66	NEG 4329 4338	descartar
+T67	NSCO 4339 4357	un origen pulmonar
+T68	NEG 4431 4433	no
+T69	NSCO 4434 4465	mostraron hallazgos patológicos
+T70	NEG 4619 4622	sin
+T71	NSCO 4623 4635	desaturación
+T72	NEG 4637 4640	sin
+T73	NSCO 4641 4664	limitación ventilatoria
+T74	NEG 4864 4867	sin
+T75	NSCO 4868 4898	datos de hipertensión pulmonar
+T76	NEG 5044 5047	sin
+T77	NSCO 5048 5066	componente cálcico
+T78	UNC 5616 5630	compatible con
+T79	USCO 5631 5655	constricción pericárdica
+T80	FARMACO 566 581	etinilestradiol
+T81	FARMACO 586 598	drospirenona
+T82	FARMACO 1878 1888	torasemida
+T83	FARMACO 5448 5472	suero salino fisiológico
+T84	ORG_VIVO 27 32	mujer
+T85	ORG_VIVO 245 250	hijos
+T86	ORG_VIVO 339 349	personales
+T87	ORG_VIVO 646 654	paciente
+T88	ORG_VIVO 4524 4532	paciente
+T89	ENFERMEDAD 277 296	abortos espontáneos
+T90	ENFERMEDAD 359 377	anemia ferropénica
+T91	ENFERMEDAD 412 431	pielonefritis aguda
+T92	ENFERMEDAD 438 455	torsión de ovario
+T93	ENFERMEDAD 862 873	hemangiomas
+T94	ENFERMEDAD 1089 1113	dilatación venosa portal
+T95	ENFERMEDAD 1302 1352	microlitiasis en el interior de la vesícula biliar
+T96	ENFERMEDAD 1464 1477	hepatomegalia
+T97	ENFERMEDAD 1561 1591	colecistitis crónica litiásica
+T98	ENFERMEDAD 2255 2274	derrame pericárdico
+T99	ENFERMEDAD 2343 2366	cardiopatía estructural
+T100	ENFERMEDAD 2560 2579	hepatopatía crónica
+T101	ENFERMEDAD 2716 2747	anemia normocítica normocrómica
+T102	ENFERMEDAD 2873 2898	hipotiroidismo subclínico
+T103	ENFERMEDAD 3511 3543	trombosis de las venas hepáticas
+T104	ENFERMEDAD 3545 3568	síndrome de Budd-Chiari
+T105	ENFERMEDAD 3575 3614	malformaciones de la vena cava inferior
+T106	ENFERMEDAD 3697 3716	derrame pericárdico
+T107	ENFERMEDAD 3809 3836	dilatación de la vía biliar
+T108	ENFERMEDAD 3983 3996	hepatomegalia
+T109	ENFERMEDAD 4001 4010	trombosis
+T110	ENFERMEDAD 4192 4203	trombofilia
+T111	ENFERMEDAD 4342 4357	origen pulmonar
+T112	ENFERMEDAD 4877 4898	hipertensión pulmonar
+T113	ENFERMEDAD 5072 5091	derrame pericárdico
+T114	ENFERMEDAD 5631 5655	constricción pericárdica
+T115	ENFERMEDAD 5658 5675	DIAGNOSTICO FINAL
+T116	ENFERMEDAD 5676 5712	Pericarditis constrictiva idiopática
+T117	ENFERMEDAD 5717 5739	Insuficiencia cardíaca
+T118	PACIENTE-PROFESION 214 221	Maestra

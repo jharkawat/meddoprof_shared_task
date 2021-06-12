@@ -1,0 +1,13 @@
+
+Los	O
+hallazgos	O
+son	O
+compatibles	O
+con	O
+TVP	O
+casi	O
+oclusiva	O
+a	O
+dicho	O
+nivel	O
+.	O

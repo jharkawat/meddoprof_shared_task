@@ -1,0 +1,17 @@
+
+Acudió	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+por	O
+disnea	O
+y	O
+expectoración	O
+hemoptoica	O
+de	O
+5	O
+meses	O
+de	O
+evolución	O
+.	O

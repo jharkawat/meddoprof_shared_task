@@ -1,0 +1,21 @@
+
+En	O
+ninguno	O
+de	O
+estos	O
+hemogramas	O
+se	O
+han	O
+evidenciado	O
+alteraciones	O
+significativas	O
+que	O
+hayan	O
+condicionado	O
+el	O
+ajuste	O
+del	O
+tratamiento	O
+con	O
+clozapina	O
+.	O

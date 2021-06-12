@@ -1,0 +1,13 @@
+
+Sus	O
+estudios	O
+los	O
+cursó	O
+de	O
+manera	O
+adecuada	O
+sin	O
+repetir	O
+grado	O
+alguno	O
+.	O

@@ -1,0 +1,12 @@
+
+Auscultación	O
+respiratoria	O
+con	O
+buen	O
+murmullo	O
+vesicular	O
+,	O
+sin	O
+ruidos	O
+sobreañadidos	O
+.	O

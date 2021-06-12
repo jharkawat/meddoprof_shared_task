@@ -1,0 +1,26 @@
+
+Asumiendo	O
+el	O
+probable	O
+carácter	O
+metastásico	O
+de	O
+la	O
+enfermedad	O
+,	O
+se	O
+decidió	O
+(	O
+de	O
+acuerdo	O
+con	O
+la	O
+paciente	O
+)	O
+realizar	O
+resección	O
+de	O
+la	O
+tumoración	O
+rectal	O
+.	O

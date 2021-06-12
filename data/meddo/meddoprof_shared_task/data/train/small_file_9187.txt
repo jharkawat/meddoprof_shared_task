@@ -1,0 +1,8 @@
+
+Leucocitos	O
+13700	O
+/	O
+mm3	O
+con	O
+neutrofilia	O
+.	O

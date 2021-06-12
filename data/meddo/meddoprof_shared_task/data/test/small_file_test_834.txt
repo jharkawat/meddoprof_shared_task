@@ -1,0 +1,17 @@
+
+Abdomen	O
+blando	O
+,	O
+depresible	O
+,	O
+leve	O
+molestia	O
+a	O
+la	O
+palpación	O
+del	O
+epigastrio	O
+,	O
+sin	O
+defensa	O
+.	O

@@ -1,0 +1,15 @@
+
+La	O
+sintomatología	O
+delirante	O
+fue	O
+remitiendo	O
+progresivamente	O
+con	O
+psicoterapia	O
+y	O
+su	O
+tratamiento	O
+antidepresivo	O
+habitual	O
+.	O

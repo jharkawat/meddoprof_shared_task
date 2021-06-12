@@ -1,0 +1,17 @@
+
+La	O
+TAC	O
+de	O
+cabeza	O
+mostró	O
+marcadas	O
+imágenes	O
+hiperintensas	O
+en	O
+la	O
+sustancia	O
+blanca	O
+periventricular	O
+y	O
+subcortical	O
+.	O

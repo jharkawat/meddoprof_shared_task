@@ -1,0 +1,6 @@
+
+Fuerza	O
+y	O
+sensibilidad	O
+normales	O
+.	O

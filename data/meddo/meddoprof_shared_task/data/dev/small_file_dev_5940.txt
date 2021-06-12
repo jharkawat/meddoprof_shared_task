@@ -1,0 +1,21 @@
+
+Tensión	O
+arterial	O
+sistólica	O
+de	O
+181	O
+mmHg	O
+y	O
+diastólica	O
+de	O
+102	O
+mmHg	O
+,	O
+con	O
+una	O
+frecuencia	O
+cardiaca	O
+de	O
+80	O
+lpm	O
+.	O

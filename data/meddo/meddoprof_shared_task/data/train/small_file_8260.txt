@@ -1,0 +1,11 @@
+
+TA	O
+143	O
+/	O
+79	O
+mmHg	O
+y	O
+FC	O
+114	O
+lpm	O
+.	O

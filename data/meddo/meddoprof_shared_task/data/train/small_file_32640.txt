@@ -1,0 +1,15 @@
+
+Aún	O
+mantengo	O
+relación	O
+con	O
+esta	O
+familia	O
+ya	O
+que	O
+su	O
+hermana	O
+es	O
+amiga	O
+personal	O
+.	O

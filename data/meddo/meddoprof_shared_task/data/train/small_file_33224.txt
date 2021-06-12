@@ -1,0 +1,22 @@
+
+En	O
+los	O
+primeros	O
+años	O
+de	O
+enfermedad	O
+,	O
+estuvo	O
+en	O
+tratamiento	O
+con	O
+antipsicóticos	O
+convencionales	O
+(	O
+perfenazina	O
+,	O
+haloperidol	O
+y	O
+trifluoperazina	O
+)	O
+.	O

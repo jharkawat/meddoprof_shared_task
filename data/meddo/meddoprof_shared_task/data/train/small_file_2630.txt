@@ -1,0 +1,25 @@
+
+El	O
+niño	O
+jugando	O
+con	O
+unas	O
+patatas	O
+crudas	O
+sin	O
+pelar	O
+presentó	O
+urticaria	O
+en	O
+manos	O
+,	O
+angioedema	O
+labial	O
+y	O
+conjuntivitis	O
+,	O
+siendo	O
+tratado	O
+con	O
+antihistamínicos	O
+.	O

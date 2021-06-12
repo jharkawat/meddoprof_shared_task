@@ -1,0 +1,21 @@
+
+Una	O
+estrella	O
+en	O
+el	O
+cielo	O
+era	O
+un	O
+objeto	O
+volador	O
+no	O
+identificado	O
+que	O
+había	O
+venido	O
+a	O
+llevárselo	O
+de	O
+la	O
+tierra	O
+.	O

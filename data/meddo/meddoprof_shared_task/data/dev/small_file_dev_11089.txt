@@ -1,0 +1,17 @@
+
+Dolor	O
+intenso	O
+y	O
+repentino	O
+en	O
+el	O
+centro	O
+de	O
+su	O
+abdomen	O
+,	O
+justo	O
+debajo	O
+del	O
+esternón	O
+.	O

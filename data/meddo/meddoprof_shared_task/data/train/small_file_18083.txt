@@ -1,0 +1,19 @@
+
+En	O
+el	O
+fondo	O
+de	O
+ojo	O
+se	O
+observa	O
+una	O
+atrofia	O
+generalizada	O
+del	O
+epitelio	O
+pigmentario	O
+con	O
+movilización	O
+de	O
+pigmento	O
+.	O

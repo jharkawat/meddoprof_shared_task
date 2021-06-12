@@ -1,0 +1,7 @@
+
+SPECT	O
+:	O
+marcada	O
+hipoperfusión	O
+frontal	O
+.	O

@@ -1,0 +1,26 @@
+
+Presentaba	O
+una	O
+clínica	O
+de	O
+corte	O
+depresiva	O
+,	O
+que	O
+incluía	O
+ideas	O
+puntuales	O
+de	O
+muerte	O
+que	O
+relaciona	O
+con	O
+la	O
+recaída	O
+actual	O
+en	O
+el	O
+consumo	O
+de	O
+alcohol	O
+.	O

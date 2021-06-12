@@ -1,0 +1,5 @@
+
+Tinción	O
+gram	O
+negativa	O
+.	O

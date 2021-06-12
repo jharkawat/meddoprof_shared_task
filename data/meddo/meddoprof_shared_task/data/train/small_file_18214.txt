@@ -1,0 +1,12 @@
+
+Según	O
+la	O
+clasificación	O
+de	O
+severidad	O
+NOSPECS	O
+se	O
+consideró	O
+grado	O
+moderado	O
+.	O

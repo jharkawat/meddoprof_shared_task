@@ -1,0 +1,24 @@
+
+A	O
+su	O
+ingreso	O
+se	O
+realizó	O
+serología	O
+de	O
+VIH	O
+,	O
+VHB	O
+,	O
+VHC	O
+,	O
+sífilis	O
+,	O
+CMV	O
+y	O
+VEB	O
+,	O
+todas	O
+ellas	O
+negativas	O
+.	O

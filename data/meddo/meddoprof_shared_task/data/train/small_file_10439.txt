@@ -1,0 +1,6 @@
+
+Eupneico	O
+a	O
+FiO2	O
+ambiente	O
+.	O

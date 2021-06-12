@@ -1,0 +1,13 @@
+
+Se	O
+realiza	O
+nueva	O
+biopsia	O
+renal	O
+compatible	O
+con	O
+nefritis	O
+túbulo	O
+intersticial	O
+aguda	O
+.	O

@@ -1,0 +1,6 @@
+
+Rehabilitación	O
+durante	O
+un	O
+mes	O
+.	O

@@ -1,0 +1,26 @@
+
+Se	O
+decide	O
+realizar	O
+una	O
+mediastinoscopia	O
+que	O
+finalmente	O
+da	O
+un	O
+resultado	O
+más	O
+ajustado	O
+al	O
+patrón	O
+de	O
+diseminación	O
+que	O
+presenta	O
+el	O
+paciente	O
+:	O
+adenocarcinoma	O
+de	O
+pulmón	O
+.	O

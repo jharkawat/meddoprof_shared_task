@@ -1,0 +1,19 @@
+
+El	O
+episodio	O
+actual	O
+comienza	O
+sin	O
+desencadenante	O
+aparente	O
+,	O
+con	O
+irritabilidad	O
+,	O
+inquietud	O
+y	O
+comportamientos	O
+agresivos	O
+y	O
+desorganizados	O
+.	O

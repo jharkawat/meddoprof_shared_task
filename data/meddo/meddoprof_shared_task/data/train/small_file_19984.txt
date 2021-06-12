@@ -1,0 +1,21 @@
+
+Daishi	O
+explicó	O
+que	O
+se	O
+sentía	O
+aliviado	O
+al	O
+poder	O
+por	O
+fin	O
+hablar	O
+en	O
+una	O
+sala	O
+que	O
+aún	O
+no	O
+estuviera	O
+pinchada	O
+.	O

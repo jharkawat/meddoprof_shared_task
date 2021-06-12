@@ -1,0 +1,13 @@
+
+Diagnosticado	O
+en	O
+su	O
+país	O
+de	O
+procedencia	O
+de	O
+HTA	O
+sin	O
+realizar	O
+tratamiento	O
+.	O

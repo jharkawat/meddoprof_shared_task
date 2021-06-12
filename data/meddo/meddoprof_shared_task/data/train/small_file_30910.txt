@@ -1,0 +1,20 @@
+
+A	O
+los	O
+27	O
+años	O
+,	O
+el	O
+paciente	O
+presenta	O
+una	O
+recaída	O
+psicótica	O
+tras	O
+abandono	O
+de	O
+tratamiento	O
+con	O
+risperidona	O
+oral	O
+.	O

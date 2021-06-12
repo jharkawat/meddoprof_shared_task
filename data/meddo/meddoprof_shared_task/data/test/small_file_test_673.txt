@@ -1,0 +1,9 @@
+
+Rx	O
+de	O
+tórax	O
+(	O
+12	O
+/	O
+18	O
+)	O

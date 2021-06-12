@@ -1,0 +1,23 @@
+
+Se	O
+inició	O
+tratamiento	O
+de	O
+forma	O
+empírica	O
+con	O
+azitromicina	O
+500	O
+mg	O
+un	O
+comprimidos	O
+cada	O
+24	O
+horas	O
+durante	O
+3	O
+días	O
+,	O
+sin	O
+mejoría	O
+.	O

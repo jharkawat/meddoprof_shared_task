@@ -1,0 +1,14 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+no	O
+mostró	O
+lesiones	O
+similares	O
+en	O
+otras	O
+localizaciones	O
+.	O

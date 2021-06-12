@@ -1,0 +1,24 @@
+
+Datos	O
+actuales	O
+:	O
+Al	O
+ser	O
+examinado	O
+,	O
+el	O
+paciente	O
+se	O
+veía	O
+reticente	O
+y	O
+retraído	O
+y	O
+sólo	O
+daba	O
+respuestas	O
+cortas	O
+a	O
+las	O
+preguntas	O
+.	O

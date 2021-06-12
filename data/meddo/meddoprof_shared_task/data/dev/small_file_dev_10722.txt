@@ -1,0 +1,27 @@
+
+Es	O
+muy	O
+religiosa	O
+y	O
+ha	O
+manifestado	O
+en	O
+varias	O
+ocasiones	O
+su	O
+deseo	O
+de	O
+ser	O
+atendida	O
+en	O
+su	O
+domicilio	O
+y	O
+en	O
+presencia	O
+del	O
+párroco	B-PROFESION
+de	O
+su	O
+localidad	O
+.	O

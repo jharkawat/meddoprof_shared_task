@@ -1,0 +1,11 @@
+
+No	O
+manifiesta	O
+haberse	O
+caído	O
+ni	O
+golpeado	O
+en	O
+la	O
+zona	O
+.	O

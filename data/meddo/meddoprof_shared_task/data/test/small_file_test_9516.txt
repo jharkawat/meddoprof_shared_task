@@ -1,0 +1,16 @@
+
+Es	O
+fumador	O
+de	O
+40	O
+paquetes	O
+-	O
+año	O
+y	O
+bebedor	O
+de	O
+3	O
+UBE	O
+/	O
+día	O
+.	O

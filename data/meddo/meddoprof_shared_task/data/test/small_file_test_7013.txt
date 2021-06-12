@@ -1,0 +1,10 @@
+
+La	O
+tabla	O
+I	O
+recoge	O
+hallazgos	O
+analíticos	O
+al	O
+diagnóstico	O
+.	O

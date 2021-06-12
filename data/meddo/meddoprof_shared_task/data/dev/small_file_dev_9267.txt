@@ -1,0 +1,21 @@
+
+La	O
+bioquímica	O
+presentaba	O
+una	O
+proteína	O
+C	O
+reactiva	O
+(	O
+PCR	O
+)	O
+elevada	O
+,	O
+de	O
+42	O
+,	O
+69	O
+mg	O
+/	O
+L	O
+.	O

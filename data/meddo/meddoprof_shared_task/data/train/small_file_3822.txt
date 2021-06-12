@@ -1,0 +1,21 @@
+
+Paciente	O
+que	O
+acude	O
+por	O
+dolor	O
+en	O
+hombro	O
+y	O
+hemitórax	O
+derecho	O
+,	O
+escozor	O
+axilar	O
+derecho	O
+de	O
+10	O
+días	O
+de	O
+evolución	O
+.	O

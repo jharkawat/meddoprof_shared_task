@@ -1,0 +1,15 @@
+
+En	O
+el	O
+año	O
+2005	O
+,	O
+decido	O
+retirar	O
+carbonato	O
+de	O
+litio	O
+de	O
+forma	O
+progresiva	O
+.	O

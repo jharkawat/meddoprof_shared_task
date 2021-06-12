@@ -1,0 +1,8 @@
+
+EGFR	O
+no	O
+mutado	O
+y	O
+ALK	O
+negativo	O
+.	O

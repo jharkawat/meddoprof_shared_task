@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+fue	O
+desintubada	O
+a	O
+las	O
+24	O
+horas	O
+sin	O
+evidencia	O
+de	O
+focalidad	O
+,	O
+pasando	O
+a	O
+planta	O
+de	O
+Neurología	O
+con	O
+amnesia	O
+parcial	O
+del	O
+episodio	O
+.	O

@@ -1,0 +1,12 @@
+
+Fue	O
+el	O
+segundo	O
+hijo	O
+de	O
+una	O
+maestra	B-PROFESION
+de	I-PROFESION
+escuela	I-PROFESION
+primaria	I-PROFESION
+.	O

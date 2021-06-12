@@ -1,0 +1,16 @@
+
+Fue	O
+valorado	O
+por	O
+el	O
+servicio	O
+de	O
+Psiquiatría	O
+en	O
+varias	O
+ocasiones	O
+sin	O
+conseguir	O
+ninguna	O
+mejoría	O
+.	O

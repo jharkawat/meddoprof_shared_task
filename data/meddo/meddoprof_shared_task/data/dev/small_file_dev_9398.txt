@@ -1,0 +1,17 @@
+
+Exploración	O
+física	O
+en	O
+urgencias	O
+:	O
+constantes	O
+:	O
+frecuencia	O
+cardiaca	O
+(	O
+FC	O
+)	O
+:	O
+87	O
+lpm	O
+.	O

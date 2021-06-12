@@ -1,0 +1,6 @@
+
+Tolera	O
+resto	O
+de	O
+alimentos	O
+.	O

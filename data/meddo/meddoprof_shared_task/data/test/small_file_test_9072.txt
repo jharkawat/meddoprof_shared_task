@@ -1,0 +1,14 @@
+
+Tras	O
+3	O
+meses	O
+de	O
+tratamiento	O
+,	O
+el	O
+paciente	O
+presenta	O
+una	O
+respuesta	O
+parcial	O
+.	O

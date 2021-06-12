@@ -1,0 +1,13 @@
+
+Abdomen	O
+:	O
+Blando	O
+,	O
+depresible	O
+,	O
+no	O
+doloroso	O
+,	O
+ni	O
+defiende	O
+.	O

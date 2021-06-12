@@ -1,0 +1,19 @@
+
+Ante	O
+la	O
+situación	O
+grave	O
+en	O
+la	O
+que	O
+se	O
+encontraba	O
+la	O
+paciente	O
+,	O
+se	O
+dio	O
+aviso	O
+al	O
+DCCU	O
+.	O

@@ -1,0 +1,21 @@
+
+Unas	O
+48	O
+horas	O
+antes	O
+había	O
+comenzado	O
+a	O
+tomar	O
+colchicina	O
+,	O
+indicada	O
+por	O
+su	O
+Médico	B-PROFESION
+de	I-PROFESION
+Familia	I-PROFESION
+por	O
+artralgias	O
+generalizadas	O
+.	O

@@ -1,0 +1,17 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+únicamente	O
+destaca	O
+una	O
+hemianopsia	O
+homónima	O
+derecha	O
+en	O
+la	O
+campimetría	O
+por	O
+confrontación	O
+.	O

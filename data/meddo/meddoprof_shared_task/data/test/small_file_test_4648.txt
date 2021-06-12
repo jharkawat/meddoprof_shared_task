@@ -1,0 +1,10 @@
+
+Se	O
+solicitó	O
+una	O
+nueva	O
+exploración	O
+con	O
+anestesia	O
+general	O
+.	O

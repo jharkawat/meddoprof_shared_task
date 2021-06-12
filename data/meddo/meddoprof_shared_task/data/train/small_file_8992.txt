@@ -1,0 +1,5 @@
+
+Trabaja	O
+como	O
+informático	B-PROFESION
+.	O

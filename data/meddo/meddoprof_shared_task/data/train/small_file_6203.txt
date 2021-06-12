@@ -1,0 +1,10 @@
+
+No	O
+presenta	O
+signos	O
+de	O
+sobreinfección	O
+,	O
+ni	O
+abscesificación	O
+.	O

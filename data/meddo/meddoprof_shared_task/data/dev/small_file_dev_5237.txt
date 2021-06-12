@@ -1,0 +1,10 @@
+
+Mujer	O
+de	O
+59	O
+años	O
+,	O
+interna	O
+en	B-SITUACION_LABORAL
+prisión	I-SITUACION_LABORAL
+.	O

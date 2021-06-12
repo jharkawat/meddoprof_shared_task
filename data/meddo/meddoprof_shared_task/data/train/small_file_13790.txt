@@ -1,0 +1,15 @@
+
+Ha	O
+sido	O
+valorada	O
+por	O
+un	O
+Cardiólogo	B-PROFESION
+por	O
+la	O
+disnea	O
+,	O
+que	O
+descarta	O
+cardiopatía	O
+.	O

@@ -1,0 +1,21 @@
+O    O    O
+O    O    O    O    O
+
+O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    B-PROFESION    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O    O    O    O    O    O    O
+O    O    O
+
+O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    B-SITUACION_LABORAL    I-SITUACION_LABORAL    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    B-PROFESION    I-PROFESION    I-PROFESION    I-PROFESION    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    B-PROFESION    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O

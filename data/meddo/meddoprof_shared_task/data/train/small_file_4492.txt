@@ -1,0 +1,10 @@
+
+Sin	O
+cortejo	O
+vegetativo	O
+acompañante	O
+ni	O
+pérdida	O
+de	O
+consciencia	O
+.	O

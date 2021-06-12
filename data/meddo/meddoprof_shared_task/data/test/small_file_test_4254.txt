@@ -1,0 +1,22 @@
+
+Hemos	O
+realizado	O
+espectroscopia	O
+sobre	O
+la	O
+lesión	O
+frontal	O
+,	O
+apreciándose	O
+disminución	O
+del	O
+N	O
+-	O
+acetilaspartato	O
+y	O
+aumento	O
+moderado	O
+de	O
+la	O
+colina	O
+.	O

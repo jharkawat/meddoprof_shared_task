@@ -1,0 +1,8 @@
+
+Tío	O
+paterno	O
+fallecido	O
+por	O
+cirrosis	O
+alcohólica	O
+.	O

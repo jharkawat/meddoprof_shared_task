@@ -1,0 +1,8 @@
+
+Embarazo	O
+sin	O
+complicaciones	O
+y	O
+parto	O
+eutócico	O
+.	O

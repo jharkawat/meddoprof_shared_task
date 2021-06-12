@@ -1,0 +1,27 @@
+
+Cultivo	O
+esputo	O
+con	O
+BAAR	O
+positivo	O
+(	O
+>	O
+50	O
+/	O
+línea	O
+)	O
+en	O
+tres	O
+muestras	O
+con	O
+PCR	O
+positiva	O
+para	O
+M	O
+.	O
+tuberculosis	O
+no	O
+resistente	O
+a	O
+rifampicina	O
+.	O

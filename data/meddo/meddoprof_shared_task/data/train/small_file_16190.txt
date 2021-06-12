@@ -1,0 +1,9 @@
+
+Desarrollaba	O
+su	O
+trabajo	B-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+laboratorio	I-PROFESION
+veterinario	I-PROFESION
+.	O

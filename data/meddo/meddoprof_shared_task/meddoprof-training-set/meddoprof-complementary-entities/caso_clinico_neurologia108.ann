@@ -1,0 +1,91 @@
+T1	SINTOMA 266 287	desconexión del medio
+T2	SINTOMA 290 331	movimientos tónico clónicos generalizados
+T3	SINTOMA 550 557	amnesia
+T4	SINTOMA 559 584	alteración de la conducta
+T5	SINTOMA 587 610	alucinaciones auditivas
+T6	SINTOMA 818 831	bradipsíquica
+T7	SINTOMA 833 849	ideas delirantes
+T8	SINTOMA 876 907	desorganización del pensamiento
+T9	SINTOMA 1992 2020	déficit atencional-ejecutivo
+T10	SINTOMA 3304 3317	alucinaciones
+T11	PROCEDIMIENTO 775 788	Examen físico
+T12	PROCEDIMIENTO 789 816	Exploración psicopatológica
+T13	PROCEDIMIENTO 909 932	Exploración neurológica
+T14	PROCEDIMIENTO 999 1008	hemograma
+T15	PROCEDIMIENTO 1094 1114	Radiografía de tórax
+T16	PROCEDIMIENTO 1145 1184	Tomografía computarizada (TC) de cráneo
+T17	PROCEDIMIENTO 1240 1260	Electroencefalograma
+T18	PROCEDIMIENTO 1262 1265	EEG
+T19	PROCEDIMIENTO 1295 1329	Resonancia magnética (RM) cerebral
+T20	PROCEDIMIENTO 1371 1385	Punción lumbar
+T21	PROCEDIMIENTO 1705 1720	cultivo general
+T22	PROCEDIMIENTO 1734 1754	Estudio inmunológico
+T23	PROCEDIMIENTO 1883 1909	TC tóraco-abdómino-pélvica
+T24	PROCEDIMIENTO 1966 1990	Estudio neuropsicológico
+T25	PROCEDIMIENTO 2104 2115	Tratamiento
+T26	PROCEDIMIENTO 2116 2140	Megadosis de corticoides
+T27	PROCEDIMIENTO 2173 2192	anexectomía derecha
+T28	PROCEDIMIENTO 2443 2477	resonancia magnética (RM) cerebral
+T29	PROCEDIMIENTO 2479 2499	estudio inmunológico
+T30	PROCEDIMIENTO 2564 2578	punción lumbar
+T31	PROCEDIMIENTO 2792 2821	análisis inmunológico del LCR
+T32	PROCEDIMIENTO 3071 3111	tratamiento con megadosis de corticoides
+T33	PROCEDIMIENTO 3159 3170	anexectomía
+T34	PROCEDIMIENTO 3359 3401	tratamiento antiepiléptico y antipsicótico
+T35	PROCEDIMIENTO 3460 3484	estudio neuropsicológico
+T36	NEG 850 852	no
+T37	NSCO 853 866	estructuradas
+T38	NEG 1116 1119	sin
+T39	NSCO 1120 1141	hallazgos patológicos
+T40	NEG 1194 1197	sin
+T41	NSCO 1198 1236	signos de patología intracraneal aguda
+T42	NEG 1331 1334	sin
+T43	NSCO 1335 1367	hallazgos patológicos reseñables
+T44	NEG 1677 1685	negativa
+T45	NEG 1721 1730	negativos
+T46	NEG 1816 1824	negativo
+T47	NEG 1870 1879	negativos
+T48	UNC 1939 1953	compatible con
+T49	USCO 1954 1962	teratoma
+T50	UNC 2307 2318	sospecha de
+T51	USCO 2319 2350	efecto adverso de la medicación
+T52	UNC 2513 2533	descartando posibles
+T53	USCO 2534 2551	causas del cuadro
+T54	NEG 2726 2738	se suspendió
+T55	NSCO 2739 2761	tras obtener resultado
+T56	NEG 2762 2773	negativo de
+T57	NSCO 2774 2784	PCR de HSV
+T58	UNC 3032 3046	compatible con
+T59	USCO 3047 3055	teratoma
+T60	NEG 3264 3267	sin
+T61	NSCO 3268 3317	volver a tener crisis epilépticas o alucinaciones
+T62	NEG 3330 3339	suspender
+T63	NSCO 3340 3401	voluntariamente el tratamiento antiepiléptico y antipsicótico
+T64	FARMACO 417 430	levetiracetam
+T65	FARMACO 2194 2205	Aripiprazol
+T66	FARMACO 2224 2232	diazepam
+T67	FARMACO 2251 2266	ácido valproico
+T68	FARMACO 2375 2390	ácido valproico
+T69	FARMACO 2693 2702	aciclovir
+T70	ORG_VIVO 22 27	mujer
+T71	ORG_VIVO 90 94	hijo
+T72	ORG_VIVO 153 162	marihuana
+T73	ORG_VIVO 207 215	paciente
+T74	ORG_VIVO 459 467	paciente
+T75	ORG_VIVO 525 531	marido
+T76	ORG_VIVO 638 646	paciente
+T77	ORG_VIVO 667 674	persona
+T78	ORG_VIVO 1620 1637	virus neurotropos
+T79	ORG_VIVO 1653 1676	virus del herpes simple
+T80	ORG_VIVO 1841 1844	VIH
+T81	ORG_VIVO 1852 1869	virus neurotropos
+T82	ORG_VIVO 2781 2784	HSV
+T83	ORG_VIVO 3175 3183	paciente
+T84	ENFERMEDAD 1208 1236	patología intracraneal aguda
+T85	ENFERMEDAD 1954 1962	teratoma
+T86	ENFERMEDAD 1992 2020	déficit atencional-ejecutivo
+T87	ENFERMEDAD 2078 2101	Encefalitis anti R-NMDA
+T88	ENFERMEDAD 2906 2917	encefalitis
+T89	ENFERMEDAD 3047 3055	teratoma
+T90	ENFERMEDAD 3283 3301	crisis epilépticas
+T91	PACIENTE-PROFESION 44 65	trabaja en hostelería

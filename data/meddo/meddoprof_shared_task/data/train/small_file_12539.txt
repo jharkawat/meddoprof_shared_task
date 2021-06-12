@@ -1,0 +1,15 @@
+
+Al	O
+preguntarle	O
+al	O
+paciente	O
+si	O
+había	O
+padecido	O
+episodios	O
+previos	O
+similares	O
+,	O
+lo	O
+niega	O
+.	O

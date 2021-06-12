@@ -1,0 +1,7 @@
+
+Abuelos	O
+paternos	O
+fallecidos	O
+en	O
+accidentes	O
+.	O

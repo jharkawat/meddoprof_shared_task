@@ -1,0 +1,24 @@
+
+Escolar	B-SITUACION_LABORAL
+de	O
+once	O
+años	O
+,	O
+con	O
+asma	O
+persistente	O
+moderado	O
+y	O
+rinitis	O
+alérgica	O
+a	O
+ácaros	O
+que	O
+presenta	O
+alergia	O
+alimentaria	O
+a	O
+huevo	O
+poco	O
+cocinado	O
+.	O

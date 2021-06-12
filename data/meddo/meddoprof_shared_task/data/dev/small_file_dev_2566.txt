@@ -1,0 +1,19 @@
+
+Adecuado	O
+aseo	O
+personal	O
+,	O
+viste	O
+un	O
+pañuelo	O
+que	O
+le	O
+cubre	O
+,	O
+grandes	O
+gafas	O
+de	O
+sol	O
+y	O
+sombrero	O
+.	O

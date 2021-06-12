@@ -1,0 +1,15 @@
+
+Es	O
+el	O
+mayor	O
+de	O
+3	O
+hermanos	O
+(	O
+dos	O
+hembras	O
+y	O
+1	O
+varón	O
+)	O
+.	O

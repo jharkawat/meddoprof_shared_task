@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+nunca	O
+consultó	O
+por	O
+este	O
+motivo	O
+pero	O
+hoy	O
+acude	O
+preocupado	O
+porque	O
+su	O
+padre	O
+es	O
+EPOC	O
+a	O
+tratamiento	O
+con	O
+O2	O
+domiciliario	O
+.	O

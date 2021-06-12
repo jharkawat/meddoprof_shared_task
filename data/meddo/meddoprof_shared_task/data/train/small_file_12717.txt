@@ -1,0 +1,16 @@
+
+Hb	O
+10	O
+.	O
+5	O
+,	O
+Leucocitosis	O
+28860	O
+con	O
+neutrofilia	O
+,	O
+plaquetas	O
+y	O
+coagulación	O
+normales	O
+.	O

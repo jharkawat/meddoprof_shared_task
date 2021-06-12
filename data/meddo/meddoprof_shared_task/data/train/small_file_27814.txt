@@ -1,0 +1,6 @@
+
+Embotamiento	O
+afectivo	O
+muy	O
+marcado	O
+.	O

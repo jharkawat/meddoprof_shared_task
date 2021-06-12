@@ -1,0 +1,13 @@
+
+Decide	B-SITUACION_LABORAL
+irse	I-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+estudiar	I-SITUACION_LABORAL
+fuera	O
+de	O
+su	O
+familia	O
+y	O
+su	O
+ciudad	O
+.	O

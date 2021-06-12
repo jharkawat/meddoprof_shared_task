@@ -1,0 +1,9 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+fue	O
+normal	O
+.	O

@@ -1,0 +1,13 @@
+
+Su	O
+tratamiento	O
+consistía	O
+en	O
+Venlafaxina	O
+,	O
+Lorazepam	O
+,	O
+Indapamida	O
+y	O
+Pantoprazol	O
+.	O

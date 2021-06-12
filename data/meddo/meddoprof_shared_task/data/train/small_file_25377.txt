@@ -1,0 +1,13 @@
+
+En	O
+el	O
+domicilio	O
+familiar	O
+,	O
+conviven	O
+los	O
+padres	O
+y	O
+el	O
+paciente	O
+.	O

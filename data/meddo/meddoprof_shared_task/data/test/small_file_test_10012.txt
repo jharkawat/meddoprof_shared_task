@@ -1,0 +1,26 @@
+
+Desconoce	O
+alergias	O
+medicamentosas	O
+,	O
+fumador	O
+con	O
+un	O
+índice	O
+acumulado	O
+de	O
+50	O
+años	O
+-	O
+paquete	O
+,	O
+bebedor	O
+de	O
+unos	O
+100	O
+g	O
+de	O
+etanol	O
+/	O
+día	O
+.	O

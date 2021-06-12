@@ -1,0 +1,16 @@
+
+Categoría	O
+y	O
+subcategoría	O
+:	O
+búsqueda	O
+de	O
+ayuda	O
+de	O
+especialistas	B-PROFESION
+en	I-PROFESION
+el	I-PROFESION
+Síndrome	I-PROFESION
+de	I-PROFESION
+Tourette	I-PROFESION
+.	O

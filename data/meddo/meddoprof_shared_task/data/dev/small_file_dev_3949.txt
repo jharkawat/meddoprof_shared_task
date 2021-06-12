@@ -1,0 +1,22 @@
+
+Una	O
+tentativa	O
+de	O
+escolarización	O
+se	O
+saldó	O
+con	O
+un	O
+fracaso	O
+(	O
+ansiedad	O
+,	O
+trastorno	O
+de	O
+adaptación	O
+,	O
+trastorno	O
+del	O
+comportamiento	O
+)	O
+.	O

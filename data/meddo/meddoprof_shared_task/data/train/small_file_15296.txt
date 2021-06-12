@@ -1,0 +1,12 @@
+
+También	O
+se	O
+descartó	O
+una	O
+tuberculosis	O
+pulmonar	O
+con	O
+baciloscopias	O
+seriadas	O
+negativas	O
+.	O

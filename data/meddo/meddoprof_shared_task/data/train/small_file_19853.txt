@@ -1,0 +1,7 @@
+
+-	O
+Tuberculosis	O
+pulmonar	O
+[	O
+011	O
+]	O

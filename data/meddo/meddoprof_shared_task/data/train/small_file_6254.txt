@@ -1,0 +1,6 @@
+
+Su	O
+mujer	O
+no	B-SITUACION_LABORAL
+trabaja	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,10 @@
+
+Los	O
+últimos	O
+ingresos	O
+se	O
+caracterizan	O
+por	O
+compromiso	O
+vital	O
+.	O

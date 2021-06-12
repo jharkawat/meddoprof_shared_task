@@ -1,0 +1,19 @@
+
+Desde	O
+los	O
+13	O
+años	O
+mantenía	O
+una	O
+dieta	O
+estricta	O
+según	O
+las	O
+pautas	O
+sugeridas	O
+por	O
+su	O
+profesora	B-PROFESION
+de	I-PROFESION
+baile	I-PROFESION
+.	O

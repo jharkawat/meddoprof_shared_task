@@ -1,0 +1,15 @@
+
+Continuó	O
+con	O
+acidosis	O
+metabólica	O
+a	O
+pesar	O
+de	O
+diálisis	O
+peritoneal	O
+y	O
+reposición	O
+de	O
+bicarbonato	O
+.	O

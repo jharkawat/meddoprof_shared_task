@@ -1,0 +1,6 @@
+
+Ateromatosis	O
+carotídea	O
+sin	O
+estenosis	O
+.	O

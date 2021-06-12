@@ -1,0 +1,5 @@
+
+Páncreas	O
+no	O
+valorable	O
+.	O

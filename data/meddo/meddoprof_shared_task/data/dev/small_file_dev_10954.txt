@@ -1,0 +1,20 @@
+
+Presenta	O
+3	O
+cicatrices	O
+longitudinales	O
+en	O
+el	O
+abdomen	O
+secundarias	O
+a	O
+las	O
+cirugías	O
+intestinales	O
+según	O
+el	O
+paciente	O
+hace	O
+10	O
+años	O
+.	O

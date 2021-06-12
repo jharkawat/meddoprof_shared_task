@@ -1,0 +1,26 @@
+
+Sistema	O
+hematopoyético	O
+y	O
+linfático	O
+:	O
+No	O
+presenta	O
+palidez	O
+,	O
+disnea	O
+,	O
+fatigabilidad	O
+,	O
+astenia	O
+,	O
+palpitaciones	O
+,	O
+sangrado	O
+,	O
+equimosis	O
+,	O
+petequias	O
+o	O
+adenomegalias	O
+.	O

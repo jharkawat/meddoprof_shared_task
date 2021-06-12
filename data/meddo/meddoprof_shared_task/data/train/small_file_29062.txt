@@ -1,0 +1,17 @@
+
+La	O
+clínica	O
+defectual	O
+es	O
+aplastante	O
+:	O
+aislamiento	O
+social	O
+,	O
+alogia	O
+,	O
+abulia	O
+y	O
+embotamiento	O
+afectivo	O
+.	O

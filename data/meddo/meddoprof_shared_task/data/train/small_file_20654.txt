@@ -1,0 +1,11 @@
+
+En	O
+el	O
+examen	O
+físico	O
+se	O
+encontró	O
+rigidez	O
+de	O
+nuca	O
+.	O

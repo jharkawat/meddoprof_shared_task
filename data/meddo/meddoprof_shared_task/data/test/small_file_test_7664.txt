@@ -1,0 +1,10 @@
+
+Serología	O
+:	O
+VHA	O
+,	O
+VHB	O
+,	O
+VHC	O
+negativos	O
+.	O

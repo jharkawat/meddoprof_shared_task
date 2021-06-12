@@ -1,0 +1,7 @@
+
+El	O
+paciente	O
+refería	O
+mejoría	O
+clínica	O
+.	O

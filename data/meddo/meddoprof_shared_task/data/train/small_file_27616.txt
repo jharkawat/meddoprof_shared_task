@@ -1,0 +1,8 @@
+
+Estuvo	O
+en	O
+incubadora	O
+durante	O
+dos	O
+semanas	O
+.	O

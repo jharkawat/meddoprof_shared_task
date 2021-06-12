@@ -1,0 +1,21 @@
+
+Se	O
+presenta	O
+el	O
+caso	O
+en	O
+comité	O
+de	O
+tumores	O
+torácicos	O
+y	O
+se	O
+decide	O
+realización	O
+de	O
+BAG	O
+sobre	O
+masa	O
+suprarrenal	O
+derecha	O
+.	O

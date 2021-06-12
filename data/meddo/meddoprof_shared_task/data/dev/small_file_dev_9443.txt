@@ -1,0 +1,23 @@
+
+Distancia	O
+al	O
+punto	O
+de	O
+coaptación	O
+:	O
+CD	O
+38	O
+,	O
+6	O
+mm	O
+,	O
+CI	O
+35	O
+,	O
+3	O
+mm	O
+,	O
+NC	O
+36	O
+mm	O
+.	O

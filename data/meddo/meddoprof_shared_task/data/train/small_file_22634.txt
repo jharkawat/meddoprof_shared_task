@@ -1,0 +1,18 @@
+
+En	O
+el	O
+bus	O
+se	O
+confinaba	O
+a	O
+los	O
+asientos	O
+del	O
+fondo	O
+y	O
+rehusó	O
+asistir	O
+a	O
+convites	O
+sociales	O
+.	O

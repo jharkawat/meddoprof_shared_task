@@ -1,0 +1,8 @@
+
+Ideación	O
+delirante	O
+de	O
+perjuicio	O
+pobremente	O
+estructurada	O
+.	O

@@ -1,0 +1,15 @@
+
+Se	O
+solicita	O
+TAC	O
+de	O
+tórax	O
+con	O
+patrón	O
+de	O
+NIU	O
+y	O
+ecocardiograma	O
+,	O
+normal	O
+.	O

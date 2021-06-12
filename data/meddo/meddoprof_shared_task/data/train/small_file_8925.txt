@@ -1,0 +1,12 @@
+
+-	O
+TAC	O
+de	O
+tórax	O
+y	O
+abdomen	O
+:	O
+quistes	O
+corticales	O
+renales	O
+.	O

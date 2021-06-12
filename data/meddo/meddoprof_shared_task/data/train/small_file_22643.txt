@@ -1,0 +1,16 @@
+
+Afectivamente	O
+lucía	O
+preocupado	O
+y	O
+hasta	O
+desamparado	O
+pero	O
+con	O
+ánimo	O
+fácilmente	O
+reactivo	O
+durante	O
+la	O
+entrevista	O
+.	O

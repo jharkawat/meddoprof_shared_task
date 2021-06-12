@@ -1,0 +1,15 @@
+
+Escolarización	O
+primaria	O
+finalizada	O
+,	O
+con	O
+trabajo	B-PROFESION
+estable	I-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+empresa	I-PROFESION
+de	I-PROFESION
+mantenimiento	I-PROFESION
+posteriormente	O
+.	O

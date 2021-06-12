@@ -1,0 +1,8 @@
+
+No	O
+estigmas	O
+cutáneos	O
+de	O
+embolismos	O
+sépticos	O
+.	O

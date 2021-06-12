@@ -1,0 +1,8 @@
+
+Exploración	O
+física	O
+:	O
+constantes	O
+vitales	O
+normales	O
+.	O

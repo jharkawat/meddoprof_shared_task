@@ -1,0 +1,20 @@
+
+Estuvo	O
+en	O
+seguimiento	O
+por	O
+Endocrinología	O
+por	O
+hipotiroidismo	O
+,	O
+manteniendo	O
+tratamiento	O
+farmacológico	O
+con	O
+levotiroxina	O
+hasta	O
+hace	O
+aproximadamente	O
+un	O
+año	O
+.	O

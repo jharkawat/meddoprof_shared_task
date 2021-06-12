@@ -1,0 +1,21 @@
+
+Balance	O
+motor	O
+5	O
+-	O
+/	O
+5	O
+en	O
+MID	O
+(	O
+por	O
+dolor	O
+)	O
+,	O
+resto	O
+,	O
+Barré	O
+y	O
+Mingazzini	O
+normales	O
+.	O

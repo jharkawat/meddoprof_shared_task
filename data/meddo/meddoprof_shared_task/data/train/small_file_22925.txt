@@ -1,0 +1,10 @@
+
+Solamente	O
+le	O
+interesaba	O
+la	O
+lectura	O
+y	O
+el	O
+dibujo	O
+.	O

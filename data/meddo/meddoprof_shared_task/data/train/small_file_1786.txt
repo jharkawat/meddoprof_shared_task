@@ -1,0 +1,23 @@
+
+Interrogado	O
+refería	O
+en	O
+el	O
+último	O
+año	O
+tos	O
+de	O
+predominio	O
+vespertino	O
+y	O
+nocturno	O
+con	O
+el	O
+decúbito	O
+supino	O
+,	O
+acompañada	O
+de	O
+expectoración	O
+blanca	O
+.	O

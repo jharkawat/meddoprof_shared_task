@@ -1,0 +1,20 @@
+
+Bioquímica	O
+con	O
+glucosa	O
+,	O
+creatinina	O
+,	O
+urea	O
+,	O
+sodio	O
+,	O
+potasio	O
+,	O
+amilasa	O
+,	O
+lipasa	O
+y	O
+bilirrubina	O
+normales	O
+.	O

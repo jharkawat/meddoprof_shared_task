@@ -1,0 +1,11 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+ceftriaxona	O
+,	O
+vancomicina	O
+y	O
+gentamicina	O
+.	O

@@ -1,0 +1,25 @@
+
+Siguiendo	O
+con	O
+la	O
+anamnesis	O
+,	O
+describe	O
+cefalea	O
+matutina	O
+intermitente	O
+,	O
+y	O
+ocasionalmente	O
+cansancio	O
+por	O
+las	O
+mañanas	O
+,	O
+con	O
+somnolencia	O
+leve	O
+durante	O
+el	O
+día	O
+.	O

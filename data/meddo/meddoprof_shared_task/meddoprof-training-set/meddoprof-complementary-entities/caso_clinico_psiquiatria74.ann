@@ -1,0 +1,61 @@
+T1	SINTOMA 1119 1126	cefalea
+T2	SINTOMA 1128 1148	vómitos en proyectil
+T3	SINTOMA 1150 1164	visión borrosa
+T4	SINTOMA 1166 1171	babeo
+T5	SINTOMA 1173 1198	pérdida de la estabilidad
+T6	SINTOMA 1966 2011	dolores en la columna y en las articulaciones
+T7	PROCEDIMIENTO 674 677	TAC
+T8	PROCEDIMIENTO 1280 1292	fondo de ojo
+T9	PROCEDIMIENTO 1441 1444	TAC
+T10	PROCEDIMIENTO 1528 1538	resonancia
+T11	PROCEDIMIENTO 1715 1743	tratamiento con citostáticos
+T12	PROCEDIMIENTO 1908 1918	resonancia
+T13	PROCEDIMIENTO 2031 2046	resonancia ósea
+T14	NEG 328 330	no
+T15	NSCO 331 352	emite criterio alguno
+T16	NEG 444 446	no
+T17	NSCO 447 466	precisa tratamiento
+T18	NEG 528 530	no
+T19	NSCO 531 566	tener ninguna resultado en su poder
+T20	NEG 616 618	no
+T21	NSCO 619 660	recuerda nombre del médico que la atendió
+T22	NEG 774 776	No
+T23	NSCO 777 824	tiene documentos médicos que hables al respecto
+T24	NEG 884 886	no
+T25	NSCO 887 907	hay historia clínica
+T26	NEG 1382 1384	no
+T27	NSCO 1385 1411	hay constancia de lo dicho
+T28	NEG 1589 1591	no
+T29	NSCO 1592 1614	tiene ningún documento
+T30	NEG 1746 1748	no
+T31	NSCO 1749 1757	se operó
+T32	NEG 1930 1938	negativa
+T33	NEG 2296 2303	tampoco
+T34	NSCO 2304 2327	tienen historia clínica
+T35	ORG_VIVO 113 118	madre
+T36	ORG_VIVO 253 258	madre
+T37	ORG_VIVO 316 327	adolescente
+T38	ORG_VIVO 522 527	madre
+T39	ORG_VIVO 587 597	pediátrico
+T40	ORG_VIVO 639 645	médico
+T41	ORG_VIVO 829 835	médico
+T42	ORG_VIVO 931 939	Paciente
+T43	ORG_VIVO 1354 1364	pediátrico
+T44	ORG_VIVO 1583 1588	madre
+T45	ORG_VIVO 1636 1642	médico
+T46	ORG_VIVO 1767 1776	neurólogo
+T47	ORG_VIVO 2271 2279	Hermanos
+T48	ENFERMEDAD 205 227	síndrome de Munchausen
+T49	ENFERMEDAD 393 411	Carcinoma cerebral
+T50	ENFERMEDAD 416 442	metástasis ósea en L4 y L5
+T51	ENFERMEDAD 980 994	asma bronquial
+T52	ENFERMEDAD 1027 1051	crisis de úlcera péptica
+T53	ENFERMEDAD 1559 1577	carcinoma cerebral
+T54	ENFERMEDAD 2063 2075	osteoporosis
+T55	ENFERMEDAD 2226 2238	osteoporosis
+T56	SANITARIO-PROFESION 639 645	médico
+T57	SANITARIO-PROFESION 829 835	médico
+T58	SANITARIO-PROFESION 1636 1642	médico
+T59	SANITARIO-PROFESION 1767 1776	neurólogo
+T60	SANITARIO-PROFESION 2165 2171	médico
+T61	SANITARIO-PROFESION 2246 2255	endocrino

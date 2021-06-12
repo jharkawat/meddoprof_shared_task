@@ -1,0 +1,20 @@
+
+En	O
+la	O
+exploración	O
+ocular	O
+destaca	O
+midriasis	O
+e	O
+incapacidad	O
+para	O
+desviar	O
+la	O
+mirada	O
+hacia	O
+la	O
+izquierda	O
+y	O
+hacia	O
+abajo	O
+.	O

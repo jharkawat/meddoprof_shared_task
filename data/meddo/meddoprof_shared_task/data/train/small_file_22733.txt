@@ -1,0 +1,18 @@
+
+Delante	O
+de	O
+personas	O
+desconocidas	O
+se	O
+siente	O
+angustiado	O
+y	O
+comienza	O
+a	O
+tartamudear	O
+o	O
+a	O
+notar	O
+intensa	O
+sudoración	O
+.	O

@@ -1,0 +1,9 @@
+
+Sin	O
+fallos	O
+amnésicos	O
+ni	O
+subjetivos	O
+ni	O
+objetivos	O
+.	O

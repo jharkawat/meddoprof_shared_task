@@ -1,0 +1,15 @@
+
+La	O
+ecografía	O
+tiroidea	O
+fue	O
+compatible	O
+con	O
+una	O
+tiroiditis	O
+autoinmune	O
+en	O
+fase	O
+de	O
+descompensación	O
+.	O

@@ -1,0 +1,96 @@
+T1	SINTOMA 1150 1159	inquietud
+T2	SINTOMA 1162 1170	malestar
+T3	SINTOMA 2940 2945	culpa
+T4	SINTOMA 4441 4450	inquietud
+T5	SINTOMA 4453 4461	malestar
+T6	NEG 401 403	No
+T7	NSCO 404 437	tiene problemas económicos graves
+T8	NEG 1242 1244	No
+T9	NSCO 1245 1315	es capaz de especificar qué cosas lepreocupan especialmente ni por qué
+T10	UNC 1389 1395	parece
+T11	USCO 1396 1430	que empezó el problema la cosa era
+T12	NEG 1716 1718	no
+T13	NSCO 1719 1761	paraba de pensar que por culpa de ese tipo
+T14	NEG 1767 1769	no
+T15	NSCO 1770 1801	haber pensado yo bien las cosas
+T16	NEG 1881 1883	no
+T17	NSCO 1884 1895	pasaba nada
+T18	NEG 1969 1971	no
+T19	NSCO 1972 2021	paraba de darle vueltas... luego otro constructor
+T20	NEG 2193 2195	no
+T21	NSCO 2196 2212	he sido el mismo
+T22	NEG 2722 2724	no
+T23	NSCO 2725 2740	sabía qué hacer
+T24	UNC 2881 2886	podía
+T25	USCO 2887 2922	haber matado a alguien con el coche
+T26	NEG 3057 3059	no
+T27	NSCO 3060 3094	podía quitarme eso de la cabeza...
+T28	NEG 3112 3114	no
+T29	NSCO 3115 3135	he vuelto a conducir
+T30	NEG 3170 3179	imposible
+T31	NEG 3484 3486	no
+T32	NSCO 3487 3510	paraba de darle vueltas
+T33	NEG 3832 3834	no
+T34	NSCO 3835 3884	tengo que cruzar ninguna calle ni pedirle a nadie
+T35	NEG 3916 3918	no
+T36	NSCO 3919 3923	para
+T37	NEG 4017 4020	sin
+T38	NSCO 4021 4030	problemas
+T39	NEG 4080 4082	no
+T40	NSCO 4083 4097	puedo evitarlo
+T41	NEG 4268 4270	no
+T42	NSCO 4271 4304	me muevo, intento leer o estudiar
+T43	NEG 4310 4312	no
+T44	NSCO 4313 4341	consigo concentrarme en nada
+T45	NEG 4498 4500	no
+T46	NSCO 4501 4518	consigo relajarme
+T47	NEG 4519 4524	nunca
+T48	NSCO 4524 4527	...
+T49	UNC 4597 4609	no me parece
+T50	USCO 4610 4614	bien
+T51	NEG 4868 4870	no
+T52	NSCO 4871 4878	quieren
+T53	NEG 4899 4901	no
+T54	NSCO 4902 4933	tengo ningunas ganas de morirme
+T55	NEG 5021 5028	tampoco
+T56	NSCO 5029 5048	quiero preocuparlos
+T57	ORG_VIVO 68 73	novia
+T58	ORG_VIVO 155 164	organismo
+T59	ORG_VIVO 316 322	padres
+T60	ORG_VIVO 333 340	hermano
+T61	ORG_VIVO 472 477	mujer
+T62	ORG_VIVO 633 641	infancia
+T63	ORG_VIVO 853 859	amigos
+T64	ORG_VIVO 968 986	médico de cabecera
+T65	ORG_VIVO 1119 1126	familia
+T66	ORG_VIVO 1692 1698	padres
+T67	ORG_VIVO 1708 1711	Ana
+T68	ORG_VIVO 1807 1813	padres
+T69	ORG_VIVO 1854 1860	padres
+T70	ORG_VIVO 2456 2462	marido
+T71	ORG_VIVO 2761 2768	hermano
+T72	ORG_VIVO 3616 3625	compañero
+T73	ORG_VIVO 4039 4046	hermano
+T74	ORG_VIVO 4071 4075	nena
+T75	ORG_VIVO 4430 4437	especie
+T76	ORG_VIVO 4549 4555	padres
+T77	ORG_VIVO 4569 4576	hermano
+T78	ORG_VIVO 4772 4777	madre
+T79	ORG_VIVO 4854 4860	padres
+T80	ORG_VIVO 5152 5158	hombre
+T81	ORG_VIVO 5225 5231	amigos
+T82	ORG_VIVO 5233 5243	familiares
+T83	ORG_VIVO 5246 5267	compañeros de trabajo
+T84	ENFERMEDAD 607 623	enfermedad renal
+T85	PACIENTE-PROFESION 134 172	administrativa en un organismo oficial
+T86	OTROS-SITUACION_LABORAL 3616 3625	compañero
+T87	OTROS-SITUACION_LABORAL 5246 5267	compañeros de trabajo
+T88	OTROS-PROFESION 1570 1581	constructor
+T89	OTROS-PROFESION 2010 2021	constructor
+T90	PACIENTE-SITUACION_LABORAL 199 206	en paro
+T91	PACIENTE-ACTIVIDAD 888 902	ir al gimnasio
+T92	PACIENTE-ACTIVIDAD 3787 3801	ir al gimnasio
+T93	SANITARIO-PROFESION 968 986	médico de cabecera
+T94	PACIENTE-PROFESION 217 244	empresa en la que trabajaba
+T95	PACIENTE-ACTIVIDAD 770 792	Le gusta hacer deporte
+T96	PACIENTE-SITUACION_LABORAL 3330 3344	me despidieron

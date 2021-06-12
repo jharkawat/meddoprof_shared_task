@@ -1,0 +1,26 @@
+
+Por	O
+el	O
+cuadro	O
+de	O
+hepatitis	O
+se	O
+realiza	O
+ecografía	O
+abdominal	O
+y	O
+analítica	O
+de	O
+sangre	O
+con	O
+pruebas	O
+de	O
+función	O
+hepática	O
+y	O
+serología	O
+de	O
+virus	O
+de	O
+hepatitis	O
+.	O

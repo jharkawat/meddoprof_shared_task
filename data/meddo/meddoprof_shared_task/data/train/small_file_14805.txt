@@ -1,0 +1,5 @@
+
+Absceso	O
+hepático	O
+amebiano	O
+.	O

@@ -1,0 +1,12 @@
+
+Imágenes	O
+violentas	O
+en	O
+las	O
+que	O
+hace	O
+daño	O
+a	O
+su	O
+familia	O
+.	O

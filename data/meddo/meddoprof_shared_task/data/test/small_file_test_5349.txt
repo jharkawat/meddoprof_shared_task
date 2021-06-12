@@ -1,0 +1,16 @@
+
+Se	O
+realizó	O
+una	O
+TC	O
+torácica	O
+que	O
+evidenció	O
+un	O
+patrón	O
+pulmonar	O
+con	O
+imágenes	O
+pseudonodulares	O
+múltiples	O
+.	O

@@ -1,0 +1,24 @@
+
+Tras	O
+el	O
+primer	O
+ciclo	O
+de	O
+quimioterapia	O
+(	O
+se	O
+administró	O
+profilaxis	O
+antibiótica	O
+con	O
+levofloxacino	O
+)	O
+ingresa	O
+por	O
+sepsis	O
+de	O
+foco	O
+cutáneo	O
+y	O
+respiratorio	O
+.	O

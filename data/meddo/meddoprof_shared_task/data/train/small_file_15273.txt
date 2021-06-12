@@ -1,0 +1,13 @@
+
+Sin	O
+antecedente	O
+de	O
+diabetes	O
+mellitus	O
+,	O
+hipertensión	O
+arterial	O
+,	O
+ni	O
+tabaquismo	O
+.	O

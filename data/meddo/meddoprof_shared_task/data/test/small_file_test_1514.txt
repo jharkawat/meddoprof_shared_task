@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+siguió	O
+recibiendo	O
+revisiones	O
+y	O
+citas	O
+de	O
+mantenimiento	O
+periodontal	O
+cada	O
+4	O
+-	O
+5	O
+meses	O
+.	O

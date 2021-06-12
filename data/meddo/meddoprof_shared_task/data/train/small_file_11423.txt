@@ -1,0 +1,13 @@
+
+Síndrome	O
+ansioso	O
+-	O
+depresivo	O
+en	O
+seguimiento	O
+por	O
+Salud	O
+Mental	O
+de	O
+zona	O
+.	O

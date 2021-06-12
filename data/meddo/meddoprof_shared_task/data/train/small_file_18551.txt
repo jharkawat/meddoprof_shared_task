@@ -1,0 +1,6 @@
+
+Diabetes	O
+mellitus	O
+en	O
+insulinoterapia	O
+.	O

@@ -1,0 +1,23 @@
+
+En	O
+cuanto	O
+al	O
+corazón	O
+,	O
+se	O
+observa	O
+desplazamiento	O
+posterior	O
+del	O
+mismo	O
+,	O
+sin	O
+condicionar	O
+movimiento	O
+paradójico	O
+septal	O
+en	O
+el	O
+momento	O
+actual	O
+.	O

@@ -1,0 +1,6 @@
+
+ECOG	O
+-	O
+PS	O
+0	O
+.	O

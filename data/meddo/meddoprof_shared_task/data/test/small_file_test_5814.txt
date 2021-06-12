@@ -1,0 +1,14 @@
+
+Adenopatías	O
+mediastínicas	O
+paratraqueales	O
+derechas	O
+,	O
+hiliar	O
+ipsilateral	O
+y	O
+subcarinal	O
+(	O
+10mm	O
+)	O
+.	O

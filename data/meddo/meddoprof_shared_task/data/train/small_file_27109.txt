@@ -1,0 +1,22 @@
+
+Un	O
+año	O
+más	O
+tarde	O
+,	O
+en	O
+el	O
+mes	O
+Mayo	O
+de	O
+2017	O
+se	O
+produce	O
+agravamiento	O
+de	O
+la	O
+sintomatología	O
+pseudoneurológica	O
+del	O
+paciente	O
+.	O

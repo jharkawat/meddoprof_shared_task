@@ -1,0 +1,15 @@
+T1	NEG 377 380	sin
+T2	NSCO 381 386	huevo
+T3	ORG_VIVO 0 7	Escolar
+T4	ORG_VIVO 73 79	ácaros
+T5	ORG_VIVO 222 225	ave
+T6	ORG_VIVO 309 315	cenizo
+T7	ORG_VIVO 317 322	olivo
+T8	ORG_VIVO 414 421	aviares
+T9	ENFERMEDAD 26 51	asma persistente moderado
+T10	ENFERMEDAD 54 79	rinitis alérgica a ácaros
+T11	ENFERMEDAD 93 112	alergia alimentaria
+T12	ENFERMEDAD 179 195	crisis asmáticas
+T13	ENFERMEDAD 279 322	cutáneas: positivo a polen de cenizo, olivo
+T14	ENFERMEDAD 471 486	alergia a huevo
+T15	PACIENTE-SITUACION_LABORAL 0 7	Escolar

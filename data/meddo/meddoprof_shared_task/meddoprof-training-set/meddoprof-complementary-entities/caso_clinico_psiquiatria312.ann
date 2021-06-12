@@ -1,0 +1,95 @@
+T1	SINTOMA 195 211	consumo excesivo
+T2	SINTOMA 821 829	falleció
+T3	SINTOMA 1228 1256	dolor cólico de origen renal
+T4	SINTOMA 2175 2185	Consciente
+T5	SINTOMA 2187 2196	orientado
+T6	PROCEDIMIENTO 4311 4331	exploración somática
+T7	PROCEDIMIENTO 4846 4868	Pruebas de coagulación
+T8	PROCEDIMIENTO 4871 4884	proteinograma
+T9	PROCEDIMIENTO 5010 5020	test AUDIT
+T10	PROCEDIMIENTO 5038 5050	test de MALT
+T11	UNC 193 195	??
+T12	UNC 211 213	??
+T13	UNC 259 261	??
+T14	UNC 270 272	??
+T15	NEG 526 528	no
+T16	NSCO 529 559	piensa que eso sea un problema
+T17	UNC 613 615	??
+T18	UNC 670 671	?
+T19	USCO 671 672	?
+T20	UNC 744 746	??
+T21	UNC 767 769	??
+T22	UNC 975 977	??
+T23	NEG 982 984	no
+T24	NSCO 985 1001	tienen problemas
+T25	UNC 1001 1003	??
+T26	NEG 1726 1728	no
+T27	NSCO 1729 1762	puede todavía vivir de la pintura
+T28	NEG 1861 1863	no
+T29	NSCO 1864 1871	deseado
+T30	NEG 2198 2200	no
+T31	NSCO 2201 2267	se observan trastornos de la percepción ni ideas de tipo delirante
+T32	UNC 2296 2303	no sabe
+T33	USCO 2304 2320	precisar cuántos
+T34	NEG 2366 2368	no
+T35	NSCO 2369 2395	puede vivir de su vocación
+T36	NEG 2677 2679	no
+T37	NSCO 2680 2705	puede vivir de la pintura
+T38	NEG 2710 2712	no
+T39	NSCO 2713 2753	haber acabado la carrera de Bellas Artes
+T40	NEG 2993 3005	ha dejado de
+T41	NSCO 3006 3012	pintar
+T42	UNC 3305 3307	??
+T43	UNC 3349 3351	??
+T44	NEG 3588 3602	desapareciendo
+T45	UNC 3861 3863	??
+T46	UNC 3866 3868	??
+T47	NEG 3897 3902	falta
+T48	NSCO 3903 3932	toda la noche de su domicilio
+T49	NEG 4042 4044	no
+T50	NSCO 4045 4075	tiene control sobre su consumo
+T51	NEG 4081 4091	incapaz de
+T52	NSCO 4092 4097	parar
+T53	NEG 4332 4334	no
+T54	NSCO 4335 4358	reveló datos de interés
+T55	ORG_VIVO 20 25	Varón
+T56	ORG_VIVO 141 149	familiar
+T57	ORG_VIVO 378 384	esposa
+T58	ORG_VIVO 387 391	hija
+T59	ORG_VIVO 511 519	cannabis
+T60	ORG_VIVO 631 639	personas
+T61	ORG_VIVO 700 710	familiares
+T62	ORG_VIVO 715 720	madre
+T63	ORG_VIVO 792 806	abuelo materno
+T64	ORG_VIVO 864 872	hermanos
+T65	ORG_VIVO 912 920	cannabis
+T66	ORG_VIVO 1028 1038	personales
+T67	ORG_VIVO 1073 1081	infancia
+T68	ORG_VIVO 1105 1117	adolescencia
+T69	ORG_VIVO 1452 1457	novia
+T70	ORG_VIVO 1494 1502	paciente
+T71	ORG_VIVO 1523 1531	hermanos
+T72	ORG_VIVO 1574 1580	pintor
+T73	ORG_VIVO 1794 1799	padre
+T74	ORG_VIVO 1807 1811	niña
+T75	ORG_VIVO 1822 1832	matrimonio
+T76	ORG_VIVO 2068 2076	cannabis
+T77	ORG_VIVO 2468 2474	esposa
+T78	ORG_VIVO 2792 2798	esposa
+T79	ORG_VIVO 2823 2831	personal
+T80	ORG_VIVO 2916 2922	esposa
+T81	ORG_VIVO 3084 3096	adolescencia
+T82	ORG_VIVO 3395 3403	cannabis
+T83	ORG_VIVO 4124 4132	cannabis
+T84	ENFERMEDAD 497 519	consumidor de cannabis
+T85	ENFERMEDAD 837 854	problema hepático
+T86	ENFERMEDAD 1055 1066	amigdalitis
+T87	ENFERMEDAD 1087 1117	apendicitis en la adolescencia
+T88	ENFERMEDAD 1149 1183	fractura de la extremidad superior
+T89	ENFERMEDAD 2805 2820	fracaso laboral
+T90	ENFERMEDAD 5176 5199	síndrome de abstinencia
+T91	PACIENTE-ACTIVIDAD 1574 1590	pintor artístico
+T92	PACIENTE-PROFESION 1647 1683	trabaja en una agencia de publicidad
+T93	PACIENTE-ACTIVIDAD 1705 1718	pinta cuadros
+T94	PACIENTE-PROFESION 2527 2574	trabajo remunerado en una agencia de publicidad
+T95	PACIENTE-PROFESION 3719 3770	iniciar su vida laboral en la agencia de publicidad

@@ -1,0 +1,12 @@
+
+A	O
+continuación	O
+,	O
+se	O
+ingresa	O
+en	O
+planta	O
+de	O
+Medicina	O
+Interna	O
+.	O

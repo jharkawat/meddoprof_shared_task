@@ -1,0 +1,24 @@
+
+Tras	O
+dichas	O
+pruebas	O
+,	O
+se	O
+diagnostica	O
+de	O
+probable	O
+neoplasia	O
+cardiaca	O
+primaria	O
+maligna	O
+y	O
+metástasis	O
+óseas	O
+a	O
+nivel	O
+de	O
+sacro	O
+e	O
+iliaco	O
+derecho	O
+.	O

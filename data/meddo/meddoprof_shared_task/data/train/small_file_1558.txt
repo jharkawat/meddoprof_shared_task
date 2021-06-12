@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Jesús	O
+Mateos	O
+Blanco	O
+NºCol	O
+:	O
+28	O
+28	O
+63891	O
+.	O

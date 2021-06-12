@@ -1,0 +1,11 @@
+
+Hematoma	O
+no	O
+fluctuante	O
+en	O
+región	O
+suprapúbica	O
+,	O
+no	O
+doloroso	O
+.	O

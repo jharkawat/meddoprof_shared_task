@@ -1,0 +1,118 @@
+T1	SINTOMA 5763 5771	alopecia
+T2	PROCEDIMIENTO 487 515	biopsia por punción hepática
+T3	PROCEDIMIENTO 845 871	quimioterapia neoadyuvante
+T4	PROCEDIMIENTO 1075 1113	hepatectomía de los segmentos II y III
+T5	PROCEDIMIENTO 1853 1862	Ecografía
+T6	PROCEDIMIENTO 1865 1894	Resonancia Magnética Hepática
+T7	PROCEDIMIENTO 2199 2206	biopsia
+T8	PROCEDIMIENTO 2424 2442	Exploración física
+T9	PROCEDIMIENTO 3332 3341	ecografia
+T10	PROCEDIMIENTO 3380 3404	Estudio Doppler hepático
+T11	PROCEDIMIENTO 3494 3524	-Resonancia magnética hepática
+T12	PROCEDIMIENTO 3902 3929	administración de gadolinio
+T13	PROCEDIMIENTO 4110 4148	Biopsia percutánea de la masa hepática
+T14	PROCEDIMIENTO 4195 4225	técnicas de Inmunohistoquímica
+T15	PROCEDIMIENTO 4302 4311	Hemograma
+T16	PROCEDIMIENTO 4881 4912	administración de quimioterapia
+T17	PROCEDIMIENTO 5095 5114	trasplante hepático
+T18	PROCEDIMIENTO 5213 5226	quimioterapia
+T19	PROCEDIMIENTO 5259 5262	TAC
+T20	PROCEDIMIENTO 5541 5560	trasplante hepático
+T21	PROCEDIMIENTO 5647 5660	quimioterapia
+T22	PROCEDIMIENTO 5853 5873	transplante hepático
+T23	PROCEDIMIENTO 5999 6019	transplante hepático
+T24	NEG 70 73	sin
+T25	NSCO 74 107	alergias medicamentosas conocidas
+T26	NEG 109 112	sin
+T27	NSCO 113 128	hábitos tóxicos
+T28	NEG 130 133	sin
+T29	NSCO 134 168	antecedentes personales de interés
+T30	NEG 170 172	No
+T31	NSCO 173 192	medicación habitual
+T32	NEG 724 734	descartado
+T33	NEG 1210 1213	sin
+T34	NSCO 1214 1231	rasgos teratoides
+T35	NEG 1264 1266	No
+T36	NSCO 1267 1332	se observaba infiltración vascular, ni linfática ni de la cápsula
+T37	NEG 1751 1760	se retiró
+T38	NEG 1761 1764	sin
+T39	NSCO 1765 1779	complicaciones
+T40	NEG 1943 1946	sin
+T41	NSCO 1947 1983	poderse descartar otros diagnósticos
+T42	NEG 2383 2395	asintomática
+T43	NEG 2515 2518	sin
+T44	NSCO 2519 2540	hallazgos patológicos
+T45	NEG 2826 2828	No
+T46	NSCO 2829 2901	se observan células que recuerden a los hepatocitos fetales o del adulto
+T47	NEG 2903 2905	No
+T48	NSCO 2906 2943	se observa eritropoyesis extramedular
+T49	UNC 2945 2959	compatible con
+T50	USCO 2960 3017	hepatoblastoma embrionario con diferenciación colangiolar
+T51	NEG 3313 3315	no
+T52	NSCO 3316 3349	concluyente por ecografia) de HNF
+T53	NEG 3351 3353	No
+T54	NSCO 3354 3378	otras lesiones hepáticas
+T55	NEG 3463 3466	sin
+T56	NSCO 3467 3492	alteraciones morfológicas
+T57	NEG 3965 3967	no
+T58	NSCO 3968 4013	mostrando alteración del parénquima adyacente
+T59	NEG 4090 4093	sin
+T60	NSCO 4094 4106	infiltrarlas
+T61	NEG 4337 4340	sin
+T62	NSCO 4341 4353	alteraciones
+T63	NEG 4420 4428	negativo
+T64	NEG 5296 5299	sin
+T65	NSCO 5300 5325	cambios respecto a previa
+T66	NEG 6058 6060	no
+T67	NSCO 6061 6126	se evidencias cambios significativos respectos a estudios previos
+T68	FARMACO 927 937	Cisplatino
+T69	FARMACO 967 978	Adriamicina
+T70	FARMACO 979 991	Carboplatino
+T71	FARMACO 1564 1576	Carboplatino
+T72	FARMACO 1578 1588	Adramicina
+T73	FARMACO 1591 1601	Cisplatino
+T74	FARMACO 3346 3349	HNF
+T75	FARMACO 3920 3929	gadolinio
+T76	FARMACO 4933 4943	Ifosfamida
+T77	FARMACO 4944 4956	Carboplatino
+T78	FARMACO 4957 4966	Etopósido
+T79	FARMACO 5034 5048	G-CSF pegilado
+T80	FARMACO 5468 5478	Ifosfamida
+T81	FARMACO 5479 5491	Carboplatino
+T82	FARMACO 5492 5501	Etopósido
+T83	ORG_VIVO 10 15	Mujer
+T84	ORG_VIVO 147 157	personales
+T85	ORG_VIVO 207 217	familiares
+T86	ORG_VIVO 231 245	abuelo paterno
+T87	ORG_VIVO 283 297	abuela materna
+T88	ORG_VIVO 332 345	primo paterno
+T89	ORG_VIVO 385 390	madre
+T90	ORG_VIVO 1194 1199	fetal
+T91	ORG_VIVO 2282 2290	paciente
+T92	ORG_VIVO 2881 2888	fetales
+T93	ORG_VIVO 2895 2901	adulto
+T94	ORG_VIVO 5130 5138	paciente
+T95	ORG_VIVO 5520 5528	paciente
+T96	ENFERMEDAD 250 267	cáncer de laringe
+T97	ENFERMEDAD 302 316	cáncer de mama
+T98	ENFERMEDAD 350 368	cáncer de tiroides
+T99	ENFERMEDAD 395 423	leucemia linfoblástica aguda
+T100	ENFERMEDAD 541 567	hepatoblastoma embrionario
+T101	ENFERMEDAD 772 785	nefroblastoma
+T102	ENFERMEDAD 793 816	blastoma de otro órgano
+T103	ENFERMEDAD 1147 1167	hepatoblastoma mixto
+T104	ENFERMEDAD 1807 1822	lesión hepática
+T105	ENFERMEDAD 1916 1941	hiperplasia nodular focal
+T106	ENFERMEDAD 1996 2010	hepatoblastoma
+T107	ENFERMEDAD 2012 2019	adenoma
+T108	ENFERMEDAD 2242 2277	recidiva hepática de hepatoblastoma
+T109	ENFERMEDAD 2917 2943	eritropoyesis extramedular
+T110	ENFERMEDAD 2960 2986	hepatoblastoma embrionario
+T111	ENFERMEDAD 3360 3378	lesiones hepáticas
+T112	ENFERMEDAD 4163 4189	Hepatoblastoma embrionario
+T113	ENFERMEDAD 4443 4460	Recidiva hepática
+T114	ENFERMEDAD 4471 4497	Hepatoblastoma Embrionario
+T115	ENFERMEDAD 4651 4671	tumores infrecuentes
+T116	ENFERMEDAD 5763 5771	alopecia
+T117	PACIENTE-PROFESION 28 68	profesional en administración y finanzas
+T118	PACIENTE-PROFESION 28 57	profesional en administración

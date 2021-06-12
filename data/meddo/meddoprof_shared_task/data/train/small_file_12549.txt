@@ -1,0 +1,22 @@
+
+En	O
+seguimiento	O
+por	O
+Nefrología	O
+por	O
+proteinuria	O
+en	O
+rango	O
+nefrótico	O
+,	O
+conocida	O
+desde	O
+2006	O
+,	O
+con	O
+estudio	O
+inmunológico	O
+y	O
+serológico	O
+normal	O
+.	O

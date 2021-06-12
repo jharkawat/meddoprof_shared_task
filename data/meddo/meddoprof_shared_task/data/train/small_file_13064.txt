@@ -1,0 +1,27 @@
+
+El	O
+paciente	O
+como	O
+antecedentes	O
+personales	O
+destaca	O
+fumador	O
+de	O
+cannabis	O
+,	O
+cocaína	O
+y	O
+bebedor	O
+habitual	O
+,	O
+sd	O
+Ansioso	O
+depresivo	O
+,	O
+con	O
+episodios	O
+de	O
+crisis	O
+de	O
+ansiedad	O
+.	O

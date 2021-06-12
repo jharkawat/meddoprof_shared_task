@@ -1,0 +1,19 @@
+
+Se	O
+inicia	O
+dosis	O
+de	O
+50	O
+mg	O
+hasta	O
+300	O
+mg	O
+,	O
+sin	O
+llegar	O
+a	O
+remitir	O
+la	O
+clínica	O
+psicótica	O
+.	O

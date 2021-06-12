@@ -1,0 +1,16 @@
+
+Los	O
+test	O
+de	O
+confirmación	O
+deben	O
+ser	O
+realizados	O
+una	O
+vez	O
+que	O
+el	O
+paciente	O
+esté	O
+recuperado	O
+.	O

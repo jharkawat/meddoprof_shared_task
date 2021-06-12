@@ -1,0 +1,23 @@
+
+Se	O
+observa	O
+captación	O
+presente	O
+y	O
+homogénea	O
+de	O
+núcleos	O
+caudado	O
+y	O
+putamen	O
+de	O
+ambos	O
+lados	O
+,	O
+con	O
+baja	O
+actividad	O
+de	O
+fondo	O
+inespecífica	O
+.	O

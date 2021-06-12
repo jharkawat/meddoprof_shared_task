@@ -1,0 +1,13 @@
+
+El	O
+padre	O
+biológico	O
+estaba	O
+en	B-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+cárcel	I-SITUACION_LABORAL
+por	O
+posesión	O
+de	O
+drogas	O
+.	O

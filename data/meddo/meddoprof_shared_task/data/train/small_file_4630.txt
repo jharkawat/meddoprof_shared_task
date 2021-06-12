@@ -1,0 +1,23 @@
+
+Además	O
+va	O
+mejorando	O
+la	O
+relación	O
+con	O
+su	O
+madre	O
+y	O
+su	O
+hermano	O
+,	O
+quienes	O
+la	O
+acompañan	O
+a	O
+las	O
+citas	O
+en	O
+Atención	O
+Primaria	O
+.	O

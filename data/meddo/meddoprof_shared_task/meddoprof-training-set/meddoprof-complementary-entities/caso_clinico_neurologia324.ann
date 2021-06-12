@@ -1,0 +1,102 @@
+T1	SINTOMA 92 115	pérdida de conocimiento
+T2	SINTOMA 118 146	movimientos tónico- clónicos
+T3	SINTOMA 199 209	salivación
+T4	SINTOMA 212 229	mordedura lingual
+T5	SINTOMA 235 259	relajación de esfínteres
+T6	SINTOMA 364 379	cefalea frontal
+T7	SINTOMA 418 424	fiebre
+T8	SINTOMA 897 907	Consciente
+T9	SINTOMA 910 919	orientada
+T10	SINTOMA 1070 1078	Eupneica
+T11	SINTOMA 1179 1189	meningismo
+T12	SINTOMA 1361 1406	Reflejos miotáticos simétricos y normoactivos
+T13	PROCEDIMIENTO 878 896	Exploración física
+T14	PROCEDIMIENTO 1191 1203	Fondo de ojo
+T15	PROCEDIMIENTO 1575 1584	hemograma
+T16	PROCEDIMIENTO 1599 1617	sedimento de orina
+T17	PROCEDIMIENTO 1619 1637	electrocardiograma
+T18	PROCEDIMIENTO 1640 1660	radiografía de tórax
+T19	PROCEDIMIENTO 1682 1702	Electroencefalograma
+T20	PROCEDIMIENTO 1713 1727	Punción lumbar
+T21	PROCEDIMIENTO 1999 2011	Coprocultivo
+T22	PROCEDIMIENTO 2157 2194	Tomografía computarizada (TC) craneal
+T23	PROCEDIMIENTO 2575 2608	Resonancia magnética (RM) craneal
+T24	PROCEDIMIENTO 3830 3846	estudio genético
+T25	NEG 231 234	sin
+T26	NSCO 235 287	relajación de esfínteres ni desviación oculocefálica
+T27	NEG 414 417	sin
+T28	NSCO 418 433	fiebre asociada
+T29	NEG 469 471	no
+T30	NSCO 472 515	existían factores de riesgo cerebrovascular
+T31	NEG 592 594	no
+T32	NSCO 595 604	estudiado
+T33	NEG 606 609	sin
+T34	NSCO 610 628	toma de medicación
+T35	NEG 644 656	asintomática
+T36	NEG 763 765	No
+T37	NSCO 766 822	existían antecedentes familiares neurológicos de interés
+T38	NEG 824 826	No
+T39	NSCO 827 875	refería ingesta de tóxicos, fármacos, ni hierbas
+T40	NEG 1080 1091	Ausencia de
+T41	NSCO 1092 1117	lesiones cutáneo- mucosas
+T42	NEG 1166 1168	no
+T43	NSCO 1169 1189	signos de meningismo
+T44	NEG 1204 1207	sin
+T45	NSCO 1208 1220	alteraciones
+T46	NEG 1238 1241	sin
+T47	NSCO 1242 1254	alteraciones
+T48	NEG 1662 1665	sin
+T49	NSCO 1666 1678	alteraciones
+T50	NEG 1780 1783	sin
+T51	NSCO 1784 1792	bloqueos
+T52	NEG 1836 1839	sin
+T53	NSCO 1840 1852	alteraciones
+T54	NSCO 1999 2011	Coprocultivo
+T55	NEG 2012 2020	negativo
+T56	NEG 2104 2113	negativas
+T57	NEG 2145 2153	negativo
+T58	NEG 2196 2199	sin
+T59	NSCO 2200 2209	contraste
+T60	UNC 2343 2356	sugestivas de
+T61	USCO 2357 2363	calcio
+T62	NEG 2610 2613	sin
+T63	NSCO 2614 2623	contraste
+T64	NEG 3470 3482	asintomática
+T65	NEG 3633 3645	asintomática
+T66	NEG 3646 3649	sin
+T67	NSCO 3650 3677	repetición de nuevas crisis
+T68	NEG 3772 3784	asintomática
+T69	NSCO 3785 3796	coexistente
+T70	FARMACO 3535 3546	paracetamol
+T71	FARMACO 3549 3562	levetiracetam
+T72	FARMACO 3727 3739	metronidazol
+T73	ORG_VIVO 10 15	Mujer
+T74	ORG_VIVO 458 468	personales
+T75	ORG_VIVO 753 761	camarera
+T76	ORG_VIVO 788 798	familiares
+T77	ORG_VIVO 1882 1889	sífilis
+T78	ORG_VIVO 1891 1894	VIH
+T79	ORG_VIVO 1896 1920	virus de las hepatitis C
+T80	ORG_VIVO 1921 1924	y B
+T81	ORG_VIVO 1930 1933	Hbs
+T82	ORG_VIVO 1935 1940	AcHbc
+T83	ORG_VIVO 1960 1978	Quistes de Giardia
+T84	ORG_VIVO 2077 2102	Strongyloides stercolaris
+T85	ORG_VIVO 2130 2134	BAAR
+T86	ORG_VIVO 3876 3889	descendientes
+T87	ENFERMEDAD 212 229	mordedura lingual
+T88	ENFERMEDAD 1092 1117	lesiones cutáneo- mucosas
+T89	ENFERMEDAD 1909 1924	hepatitis C y B
+T90	ENFERMEDAD 1960 1997	Quistes de Giardia positivos en heces
+T91	ENFERMEDAD 2034 2045	hidatidosis
+T92	ENFERMEDAD 2047 2060	cisticercosis
+T93	ENFERMEDAD 2062 2075	toxoplasmosis
+T94	ENFERMEDAD 2077 2102	Strongyloides stercolaris
+T95	ENFERMEDAD 3048 3062	angioma venoso
+T96	ENFERMEDAD 3102 3242	lesiones de menor tamaño en la región periventricular izquierda, occipital parasagital derecha, el margen superior del hemisferio cerebeloso
+T97	ENFERMEDAD 3363 3384	Epilepsia sintomática
+T98	ENFERMEDAD 3401 3424	cavernomatosis múltiple
+T99	ENFERMEDAD 3448 3482	giardiasis intestinal asintomática
+T100	ENFERMEDAD 3750 3796	giardiasis intestinal asintomática coexistente
+T101	PACIENTE-PROFESION 753 761	camarera
+T102	PACIENTE-PROFESION 712 747	Trabajaba en una fábrica de zapatos

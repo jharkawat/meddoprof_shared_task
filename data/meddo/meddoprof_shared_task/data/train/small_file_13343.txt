@@ -1,0 +1,23 @@
+
+Destaca	O
+un	O
+quebrantamiento	O
+del	O
+estado	O
+general	O
+e	O
+hiperemia	O
+cutánea	O
+generalizada	O
+en	O
+relación	O
+con	O
+la	O
+fiebre	O
+en	O
+el	O
+momento	O
+de	O
+la	O
+exploración	O
+.	O

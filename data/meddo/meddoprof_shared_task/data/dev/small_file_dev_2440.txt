@@ -1,0 +1,23 @@
+
+Se	O
+mantiene	O
+en	O
+sujeción	O
+mecánica	O
+por	O
+repetidos	O
+episodios	O
+de	O
+agitación	O
+con	O
+riesgo	O
+de	O
+autoagresividad	O
+y	O
+heteroagresividad	O
+a	O
+terceros	O
+y	O
+alta	O
+imprevisibilidad	O
+.	O

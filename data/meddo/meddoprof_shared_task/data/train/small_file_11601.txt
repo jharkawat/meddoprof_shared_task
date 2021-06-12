@@ -1,0 +1,10 @@
+
+Hombre	O
+de	O
+54	O
+an	O
+̃	O
+os	O
+,	O
+comerciante	B-PROFESION
+.	O

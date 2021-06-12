@@ -1,0 +1,7 @@
+
+Los	O
+signos	O
+meníngeos	O
+son	O
+negativos	O
+.	O

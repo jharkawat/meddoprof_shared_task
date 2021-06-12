@@ -1,0 +1,23 @@
+
+Se	O
+deriva	O
+a	O
+Digestivo	O
+enfocándose	O
+como	O
+disfagia	O
+esofágica	O
+,	O
+le	O
+realizan	O
+Transito	O
+EGD	O
+:	O
+Normal	O
+y	O
+se	O
+realiza	O
+Endoscopia	O
+:	O
+Normal	O
+.	O

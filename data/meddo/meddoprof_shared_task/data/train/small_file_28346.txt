@@ -1,0 +1,20 @@
+
+En	O
+cuanto	O
+a	O
+las	O
+técnicas	O
+psicoterapéuticas	O
+adoptadas	O
+,	O
+se	O
+emplearon	O
+intervenciones	O
+,	O
+tanto	O
+de	O
+índole	O
+conductista	O
+como	O
+psicodinámicas	O
+.	O

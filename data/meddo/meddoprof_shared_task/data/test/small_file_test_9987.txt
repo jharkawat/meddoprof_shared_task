@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+biopsia	O
+percutánea	O
+de	O
+la	O
+masa	O
+principal	O
+que	O
+fue	O
+finalmente	O
+informada	O
+como	O
+tumor	O
+desmoplásico	O
+de	O
+células	O
+pequeñas	O
+y	O
+redondas	O
+.	O

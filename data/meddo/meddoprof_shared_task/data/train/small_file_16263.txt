@@ -1,0 +1,12 @@
+
+Seguía	O
+tratamiento	O
+con	O
+feladipino	O
+,	O
+digoxina	O
+y	O
+amiloride	O
+-	O
+hidroclorotiazida	O
+.	O

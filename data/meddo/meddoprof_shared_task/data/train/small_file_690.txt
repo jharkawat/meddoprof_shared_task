@@ -1,0 +1,14 @@
+
+El	O
+enfermo	O
+se	O
+encontraba	O
+realizando	O
+unas	O
+maniobras	O
+de	O
+supervivencia	O
+en	O
+la	O
+montaña	O
+.	O

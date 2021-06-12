@@ -1,0 +1,10 @@
+
+En	O
+la	O
+exploración	O
+no	O
+se	O
+objetiva	O
+inquietud	O
+física	O
+.	O

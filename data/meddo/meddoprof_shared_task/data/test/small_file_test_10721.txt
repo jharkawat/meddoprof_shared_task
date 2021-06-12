@@ -1,0 +1,25 @@
+
+Varón	O
+de	O
+45	O
+años	O
+diagnosticado	O
+de	O
+otosclerosis	O
+bilateral	O
+,	O
+operado	O
+sin	O
+incidentes	O
+de	O
+estapedectomía	O
+izquierda	O
+que	O
+ingresa	O
+para	O
+ser	O
+intervenido	O
+del	O
+oído	O
+derecho	O
+.	O

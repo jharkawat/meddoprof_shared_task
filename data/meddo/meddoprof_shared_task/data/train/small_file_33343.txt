@@ -1,0 +1,13 @@
+
+Ayudar	O
+al	O
+paciente	O
+a	O
+identificar	O
+sus	O
+preferencias	O
+en	O
+cuanto	O
+a	O
+actividades	O
+.	O

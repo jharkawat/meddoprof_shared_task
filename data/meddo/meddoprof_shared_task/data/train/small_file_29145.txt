@@ -1,0 +1,16 @@
+
+Según	O
+dicen	O
+las	O
+guías	O
+,	O
+clozapina	O
+está	O
+indicada	O
+en	O
+pacientes	O
+esquizofrénicos	O
+resistentes	O
+a	O
+tratamiento	O
+.	O

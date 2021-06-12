@@ -1,0 +1,24 @@
+
+Es	O
+valorado	O
+por	O
+el	O
+servicio	O
+de	O
+Cardiología	O
+quien	O
+completa	O
+estudio	O
+,	O
+siendo	O
+este	O
+normal	O
+y	O
+remitiendo	O
+la	O
+sintomatología	O
+tras	O
+retirada	O
+de	O
+clozapina	O
+.	O

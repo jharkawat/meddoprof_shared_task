@@ -1,0 +1,22 @@
+
+Se	O
+realiza	O
+paracentesis	O
+evacuadora	O
+con	O
+salida	O
+de	O
+3700	O
+cc	O
+de	O
+líquido	O
+oleoso	O
+claro	O
+y	O
+se	O
+toma	O
+muestra	O
+para	O
+análisis	O
+anatomopatológico	O
+.	O

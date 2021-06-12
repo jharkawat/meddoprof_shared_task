@@ -1,0 +1,26 @@
+
+Cuando	O
+acude	O
+al	O
+centro	O
+presentaba	O
+un	O
+consumo	O
+de	O
+cannabis	O
+de	O
+1	O
+gr	O
+/	O
+diario	O
+y	O
+4	O
+-	O
+6	O
+"	O
+Red	O
+Bulls	O
+"	O
+/	O
+día	O
+.	O

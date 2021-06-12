@@ -1,0 +1,25 @@
+
+Ha	O
+estado	O
+en	O
+seguimiento	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+en	O
+los	O
+últimos	O
+3	O
+meses	O
+por	O
+anemia	O
+tratada	O
+con	O
+hierro	O
+,	O
+sin	O
+mejoría	O
+.	O

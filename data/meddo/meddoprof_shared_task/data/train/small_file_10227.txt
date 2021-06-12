@@ -1,0 +1,25 @@
+
+A	O
+nivel	O
+de	O
+pelvis	O
+:	O
+La	O
+vejiga	O
+y	O
+el	O
+útero	O
+se	O
+hallan	O
+normales	O
+pero	O
+existe	O
+una	O
+adenopatía	O
+patológica	O
+de	O
+1	O
+,	O
+7	O
+cm	O
+.	O

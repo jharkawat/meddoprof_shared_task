@@ -1,0 +1,21 @@
+
+Además	O
+de	O
+estudiar	B-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+bachillerato	I-SITUACION_LABORAL
+ha	O
+tomado	O
+cursos	O
+de	O
+computación	O
+(	O
+varios	O
+)	O
+,	O
+de	O
+guitarra	O
+y	O
+de	O
+piano	O
+.	O

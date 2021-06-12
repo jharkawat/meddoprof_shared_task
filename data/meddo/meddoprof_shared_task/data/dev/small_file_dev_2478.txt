@@ -1,0 +1,7 @@
+
+El	O
+paciente	O
+tolera	O
+alimentación	O
+oral	O
+.	O

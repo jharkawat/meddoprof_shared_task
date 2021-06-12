@@ -1,0 +1,21 @@
+
+El	O
+dolor	O
+aparecía	O
+de	O
+forma	O
+episódica	O
+a	O
+lo	O
+largo	O
+del	O
+día	O
+,	O
+en	O
+ocasiones	O
+sin	O
+respetar	O
+el	O
+descanso	O
+nocturno	O
+.	O

@@ -1,0 +1,9 @@
+
+Pasa	O
+a	O
+observación	O
+,	O
+se	O
+extrae	O
+analítica	O
+.	O

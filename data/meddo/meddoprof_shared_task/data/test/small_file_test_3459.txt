@@ -1,0 +1,10 @@
+
+Aparato	O
+respiratorio	O
+:	O
+hipofonesis	O
+en	O
+la	O
+base	O
+derecha	O
+.	O

@@ -1,0 +1,20 @@
+
+CD138	O
++	O
+,	O
+CD38	O
++	O
+,	O
+CD56	O
+-	O
+,	O
+CD19	O
+-	O
+,	O
+CD81	O
++	O
+débil	O
+,	O
+CD27	O
+-	O
+.	O

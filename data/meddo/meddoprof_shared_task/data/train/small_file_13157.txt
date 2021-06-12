@@ -1,0 +1,6 @@
+
+PFRC	O
+:	O
+Espirometría	O
+normal	O
+.	O

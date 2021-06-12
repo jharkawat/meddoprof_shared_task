@@ -1,0 +1,20 @@
+
+no	O
+me	O
+reconozco	O
+a	O
+mí	O
+misma	O
+cuando	O
+insulto	O
+o	O
+pego	O
+a	O
+X	O
+(	O
+su	O
+marido	O
+)	O
+.	O
+.	O
+.	O

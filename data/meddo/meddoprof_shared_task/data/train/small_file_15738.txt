@@ -1,0 +1,24 @@
+
+•	O
+Dada	O
+la	O
+sospecha	O
+radiológica	O
+de	O
+enfermedad	O
+infecciosa	O
+versus	O
+tumoral	O
+,	O
+se	O
+decide	O
+proceder	O
+a	O
+la	O
+biopsia	O
+de	O
+la	O
+lesión	O
+frontal	O
+derecha	O
+.	O

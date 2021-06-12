@@ -1,0 +1,26 @@
+
+Se	O
+realizó	O
+estudio	O
+serológico	O
+extenso	O
+,	O
+ya	O
+que	O
+una	O
+de	O
+las	O
+principales	O
+etiologías	O
+del	O
+derrame	O
+pericárdico	O
+(	O
+tras	O
+la	O
+idiopática	O
+)	O
+es	O
+la	O
+infecciosa	O
+.	O

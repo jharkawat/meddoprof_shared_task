@@ -1,0 +1,7 @@
+
+Frecuencia	O
+cardíaca	O
+:	O
+85	O
+lpm	O
+.	O

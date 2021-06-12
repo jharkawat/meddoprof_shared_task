@@ -1,0 +1,10 @@
+
+A	O
+nivel	O
+abdominal	O
+no	O
+presenta	O
+masas	O
+ni	O
+megalias	O
+.	O

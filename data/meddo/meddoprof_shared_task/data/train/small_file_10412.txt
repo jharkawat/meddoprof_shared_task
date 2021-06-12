@@ -1,0 +1,11 @@
+
+La	O
+paciente	O
+niega	O
+exteriorización	O
+de	O
+sangrado	O
+de	O
+ningún	O
+tipo	O
+.	O

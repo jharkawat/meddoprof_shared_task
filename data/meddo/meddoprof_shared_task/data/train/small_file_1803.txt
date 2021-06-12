@@ -1,0 +1,10 @@
+
+La	O
+inmunohistoquímica	O
+resultó	O
+negativa	O
+para	O
+S100	O
+y	O
+CD1a	O
+.	O

@@ -1,0 +1,18 @@
+T1	SINTOMA 309 316	fumador
+T2	PROCEDIMIENTO 495 510	anestesia local
+T3	PROCEDIMIENTO 658 678	análisis histológico
+T4	NEG 343 348	Niega
+T5	NSCO 349 377	prácticas sexuales de riesgo
+T6	NEG 511 514	sin
+T7	NSCO 515 529	complicaciones
+T8	NEG 746 749	sin
+T9	NSCO 750 772	afectación de márgenes
+T10	NEG 799 811	asintomático
+T11	ORG_VIVO 26 31	varón
+T12	ORG_VIVO 52 61	jornalero
+T13	ORG_VIVO 712 720	papiloma
+T14	ORG_VIVO 777 785	paciente
+T15	ENFERMEDAD 115 154	lesión en zona lingual de suelo de boca
+T16	ENFERMEDAD 261 288	consumo moderado de alcohol
+T17	ENFERMEDAD 712 745	papiloma invertido de mucosa oral
+T18	PACIENTE-PROFESION 52 61	jornalero

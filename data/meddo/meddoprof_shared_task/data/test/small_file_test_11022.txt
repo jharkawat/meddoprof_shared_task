@@ -1,0 +1,23 @@
+
+En	O
+los	O
+resultados	O
+Anatomía	O
+patológica	O
+e	O
+inmunohistoquímica	O
+de	O
+2019	O
+nos	O
+encontramos	O
+con	O
+la	O
+sorpresa	O
+de	O
+un	O
+carcinoma	O
+neuroendocrino	O
+de	O
+alto	O
+grado	O
+.	O

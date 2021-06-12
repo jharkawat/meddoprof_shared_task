@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+fue	O
+traído	O
+a	O
+Urgencias	O
+creyendo	O
+que	O
+había	O
+micrófonos	O
+en	O
+la	O
+sala	O
+,	O
+muy	O
+paranoide	O
+con	O
+su	O
+madre	O
+y	O
+muy	O
+poco	O
+abordable	O
+.	O

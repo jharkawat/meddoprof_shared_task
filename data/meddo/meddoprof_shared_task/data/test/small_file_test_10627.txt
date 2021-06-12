@@ -1,0 +1,24 @@
+
+Continúa	O
+seguimiento	O
+sin	O
+evidencia	O
+de	O
+recidiva	O
+hasta	O
+la	O
+actualidad	O
+,	O
+con	O
+un	O
+intervalo	O
+libre	O
+de	O
+enfermedad	O
+(	O
+ILE	O
+)	O
+de	O
+11	O
+años	O
+.	O

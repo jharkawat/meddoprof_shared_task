@@ -1,0 +1,15 @@
+
+Ojos	O
+con	O
+desviación	O
+en	O
+oblicuo	O
+,	O
+ojo	O
+derecho	O
+desviado	O
+hacia	O
+afuera	O
+y	O
+abajo	O
+.	O

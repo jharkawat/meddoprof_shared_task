@@ -1,0 +1,17 @@
+
+Las	O
+pruebas	O
+de	O
+toxicología	O
+eran	O
+negativas	O
+y	O
+el	O
+nivel	O
+de	O
+alcoholemia	O
+era	O
+igual	O
+a	O
+cero	O
+.	O

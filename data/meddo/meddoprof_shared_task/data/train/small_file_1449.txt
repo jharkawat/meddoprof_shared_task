@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Elena	O
+Gabilondo	O
+Larrañaga	O
+NºCol	O
+:	O
+20	O
+20	O
+40369	O
+.	O

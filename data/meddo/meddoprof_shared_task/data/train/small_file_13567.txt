@@ -1,0 +1,11 @@
+
+Al	O
+alta	O
+está	O
+asintomático	O
+y	O
+con	O
+práctica	O
+normalización	O
+analítica	O
+.	O

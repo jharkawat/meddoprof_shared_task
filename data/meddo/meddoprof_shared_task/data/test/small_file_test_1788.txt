@@ -1,0 +1,19 @@
+
+Los	O
+colgajos	O
+han	O
+sido	O
+posicionados	O
+en	O
+la	O
+posición	O
+original	O
+utilizando	O
+una	O
+sutura	O
+de	O
+4	O
+.	O
+0	O
+poliamida	O
+.	O

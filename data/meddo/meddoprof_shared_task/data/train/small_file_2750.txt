@@ -1,0 +1,23 @@
+
+Angio	O
+-	O
+TAC	O
+:	O
+se	O
+aprecia	O
+maraña	O
+de	O
+vasos	O
+de	O
+pequeño	O
+tamaño	O
+,	O
+adyacente	O
+al	O
+hematoma	O
+,	O
+sugerente	O
+de	O
+malformación	O
+arteriovenosa	O
+.	O

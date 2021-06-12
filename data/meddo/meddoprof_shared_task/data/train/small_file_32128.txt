@@ -1,0 +1,18 @@
+
+Intensa	O
+angustia	O
+secundaria	O
+con	O
+ideación	O
+autolítica	O
+que	O
+plantea	O
+como	O
+única	O
+salida	O
+a	O
+la	O
+vivencia	O
+de	O
+peligro	O
+.	O

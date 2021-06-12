@@ -1,0 +1,9 @@
+
+Trabajó	O
+como	O
+administrativa	B-PROFESION
+,	O
+durante	O
+15	O
+años	O
+.	O

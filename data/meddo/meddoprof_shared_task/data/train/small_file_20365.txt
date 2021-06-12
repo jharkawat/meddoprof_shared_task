@@ -1,0 +1,26 @@
+
+Kevin	O
+es	O
+un	O
+chico	O
+de	O
+12	O
+años	O
+que	O
+acepta	O
+a	O
+regañadientes	O
+ingresar	O
+en	O
+una	O
+unidad	O
+psiquiátrica	O
+después	O
+de	O
+ser	O
+arrestado	O
+por	O
+allanar	O
+un	O
+supermercado	O
+.	O

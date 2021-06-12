@@ -1,0 +1,15 @@
+
+Varón	O
+de	O
+21	O
+años	O
+,	O
+soltero	O
+vive	O
+con	O
+los	O
+padres	O
+y	O
+una	O
+hermana	O
+.	O

@@ -1,0 +1,15 @@
+
+Cardiopatía	O
+isquémica	O
+con	O
+expresión	O
+de	O
+ángor	O
+estable	O
+en	O
+2005	O
+,	O
+desde	O
+entonces	O
+asintomático	O
+.	O

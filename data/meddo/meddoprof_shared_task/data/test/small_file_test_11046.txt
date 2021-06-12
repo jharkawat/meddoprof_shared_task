@@ -1,0 +1,17 @@
+
+Se	O
+decide	O
+iniciar	O
+tratamiento	O
+corticoideo	O
+oral	O
+,	O
+y	O
+remitir	O
+al	O
+día	O
+siguiente	O
+a	O
+realizar	O
+audiometría	O
+.	O

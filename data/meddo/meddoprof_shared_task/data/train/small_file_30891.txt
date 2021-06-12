@@ -1,0 +1,18 @@
+
+Tratamiento	O
+actual	O
+:	O
+aripiprazol	O
+600	O
+mg	O
+/	O
+28	O
+días	O
+im	O
++	O
+clozapina	O
+400	O
+mg	O
+/	O
+d	O
+.	O

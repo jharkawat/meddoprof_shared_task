@@ -1,0 +1,14 @@
+
+Se	O
+deriva	O
+a	O
+Urgencias	O
+Hospitalarias	O
+para	O
+pruebas	O
+complementarias	O
+y	O
+valoración	O
+por	O
+neumología	O
+.	O

@@ -1,0 +1,45 @@
+Motivo de consulta
+Paciente varón de 49 años de edad que consulta con su Médico de Familia (MdF) por presentar tumoración en región inguinal izquierda que le ocasiona molestias bien toleradas desde hace 6 meses.
+
+Enfoque individual
+Anamnesis
+Antecedentes personales:
+No se conocen reacciones alérgicas medicamentosas. Ex fumador de 20 paquetes/ año desde hace 18 meses. No hábito enólico ni otros consumos tóxicos. Obesidad. No otros factores de riesgo cardiovascular. No sigue tratamiento domiciliario.
+
+Consulta por presentar desde hace aproximadamente 6 meses tumoración inguinal izquierda que en los últimos días le genera molestias. Refiere ser parcialmente irreductible, aumentando y disminuyendo de tamaño de manera frecuente.
+No se ha notado otras lesiones parecidas. No ha presentado fiebre ni otros síntomas por aparatos.
+
+Exploración
+Buen estado general.
+Se aprecia tumoración directa de 2x2 cm aproximadamente, parcialmente reductible. No cambios de coloración cutánea ni aumento de temperatura.
+Resto de exploración por aparatos sin hallazgos de interés.
+Ante este hallazgo compatible con hernia inguinal no complicada, se decide derivar a Cirugía General para valoración e intervención quirúrgica programada.
+En Atención Hospitalaria (AH), el cirujano coincide con nuestra impresión diagnóstica e incluye al paciente en lista de espera quirúrgica para operarse sin realización de prueba complementaria alguna.
+En sala de quirófano, intraoperatoriamente, no se aprecia hernia inguinal sino adenopatías hemorrágicas que se resecan.
+El paciente acude a consulta de AH con Cirugía para informe de resultados, donde le indican que puede tratarse de adenopatías metastásicas de posible melanoma.
+La transmisión de información en AH no es clara y el paciente acude nuevamente a nuestra consulta para resolver sus dudas y aclarar la situación.
+Explicamos los hallazgos y resultados de anatomía patológica.
+
+Pruebas Complementarias
+Se inicia estudio a nivel de Dermatología donde no objetivan lesiones pigmentadas compatibles con melanoma. Derivan a Oftalmología y Aparato Digestivo donde tampoco se encuentra lesión primaria. Se inicia seguimiento por Oncología donde comentan el caso en comité de tumores y tratan de adoptar un plan de abordaje.
+Analítica: sin alteraciones reseñables en bioquímica y hematimetría.
+Anatomía Patológica: ganglios linfáticos con ocupación masiva por neoplasia de alto grado histológico. Tinción citoplasmática en la gran mayoría de las células tumorales.
+PET TAC: extensa afectación linfática infradiafragmática con afectación metastásica esplénica, hepática pélvica, retroperitoneal y de médula ósea. Nódulos en pulmón derecho.
+
+Enfoque familiar y comunitario
+El paciente está casado, tiene dos hijas de 14 y 19 años, con buena relación familiar. Situación laboral estable.
+Toda la familia es conocedora de la situación y hay un gran apoyo familiar hacia el paciente.
+
+Juicio clínico
+Metástasis inguinales, pélvicas, retroperitoneales, esplénicas, hepáticas, pulmonares y de médula ósea de melanoma sin objetivarse primario (pTXpN3M1) BRAF WT.
+
+Plan de acción y evolución
+Durante todo el proceso sus MdF han realizado un seguimiento estrecho de la situación clínica y emocional del paciente. Consultas semanales para informe de nuevos resultados y análisis de la situación, ajuste terapéutico para control del dolor y llamadas telefónicas frecuentes tratando de reforzar al paciente.
+En un principio desde Oncología, plantean inmunoterapia con Pembrolizumbab 2mg/kg cada 21 días. Entendiendo riesgos y posibles beneficios, el paciente acepta y firma el consentimiento informado para inicio de terapia.
+Debuta con cuadro de dolor intenso (EVA 8-9) en ambas caderas y zona lumbar con febrícula casi a diario. Iniciamos tratamiento analgésico requiriendo ser de tercer nivel con coadyuvantes. Titulamos de manera paulatina y nos mantenemos en estrecho contacto para respaldo y seguimiento de la terapia.
+En una consulta posterior de Oncología, refieren que, en base a datos de supervivencia global, supervivencia libre progresión y tasas de respuesta de los ensayos Keynote-006 frente a Ipilimumab y Keynote-002 frente a quimioterapia, solicitan aprobación para iniciar 1o línea con Pembrolizumbab 2mg/ kg tres veces por semana, ofreciéndole ser incluido en un Ensayo Clínico (EC) en otro hospital fuera de su provincia de residencia.
+Nuevamente consulta con su MdF mostrando su miedo e incertidumbre ante los últimos cambios. Se encuentra preocupado por la demora en el inicio de la terapia y no comprende el cambio de hospital ni lo que supone iniciar un tratamiento en desarrollo por un EC.
+Le explicamos la situación y la posibilidad de beneficiarse de estas nuevas terapias.
+Aporta documentación de EC, ya firmada, sin haber comprendido en qué consiste y cómo se realiza hasta que consulta con sus MdF.
+En la actualidad se encuentra pendiente de inicio de nueva terapia señalada más arriba. El control del dolor es aceptable, precisando pocos rescates de mórficos, con buena tolerancia y sin presentar efectos secundarios no deseados.
+Por nuestra parte, ponemos al equipo de Cuidados Paliativos en conocimiento del caso.

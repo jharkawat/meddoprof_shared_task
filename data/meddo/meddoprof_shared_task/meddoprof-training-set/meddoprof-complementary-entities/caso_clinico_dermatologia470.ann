@@ -1,0 +1,27 @@
+T1	SINTOMA 731 738	eritema
+T2	SINTOMA 1202 1209	prurito
+T3	SINTOMA 1261 1268	eritema
+T4	PROCEDIMIENTO 539 558	pruebas epicutáneas
+T5	NEG 137 139	No
+T6	NSCO 140 180	tenía antecedentes personales de interés
+T7	UNC 339 347	sospecha
+T8	USCO 348 355	clínica
+T9	NEG 820 822	no
+T10	NSCO 823 841	fuera tan evidente
+T11	NEG 1546 1548	no
+T12	NSCO 1549 1573	contienen dicho alérgeno
+T13	NEG 1707 1709	no
+T14	NSCO 1710 1745	presentar nuevas lesiones de eczema
+T15	ORG_VIVO 0 5	Varón
+T16	ORG_VIVO 159 169	personales
+T17	ORG_VIVO 397 405	paciente
+T18	ORG_VIVO 964 972	paciente
+T19	ORG_VIVO 1189 1197	paciente
+T20	ORG_VIVO 1458 1466	paciente
+T21	ORG_VIVO 1763 1771	paciente
+T22	ENFERMEDAD 93 135	eczema agudo de predominio cabeza y cuello
+T23	ENFERMEDAD 941 947	eczema
+T24	ENFERMEDAD 1303 1309	eczema
+T25	ENFERMEDAD 1343 1390	eczema de contacto alérgico al p-fenilendiamina
+T26	ENFERMEDAD 1739 1745	eczema
+T27	PACIENTE-PROFESION 192 225	trabajó en su país en una fábrica

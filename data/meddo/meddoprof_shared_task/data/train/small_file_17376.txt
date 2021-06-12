@@ -1,0 +1,27 @@
+
+La	O
+clínica	O
+comienza	O
+varias	O
+horas	O
+después	O
+de	O
+realizar	B-ACTIVIDAD
+ejercicio	I-ACTIVIDAD
+físico	I-ACTIVIDAD
+(	I-ACTIVIDAD
+esquiar	I-ACTIVIDAD
+)	O
+y	O
+haber	O
+tenido	O
+un	O
+traumatismo	O
+practicando	O
+el	O
+mismo	O
+,	O
+de	O
+moderada	O
+intensidad	O
+.	O

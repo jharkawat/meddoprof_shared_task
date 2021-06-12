@@ -1,0 +1,22 @@
+
+Hemograma	O
+,	O
+vitamina	O
+B12	O
+,	O
+folato	O
+,	O
+TSH	O
+,	O
+ceruloplasmina	O
+,	O
+cobre	O
+en	O
+suero	O
+y	O
+orina	O
+,	O
+amonio	O
+:	O
+normal	O
+.	O

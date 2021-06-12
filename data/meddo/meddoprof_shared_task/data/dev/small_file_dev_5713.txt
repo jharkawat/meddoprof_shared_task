@@ -1,0 +1,19 @@
+
+Con	O
+la	O
+sospecha	O
+de	O
+cólico	O
+nefrítico	O
+rebelde	O
+a	O
+tratamiento	O
+analgésico	O
+se	O
+opta	O
+por	O
+solicitar	O
+una	O
+ecografía	O
+abdominal	O
+.	O

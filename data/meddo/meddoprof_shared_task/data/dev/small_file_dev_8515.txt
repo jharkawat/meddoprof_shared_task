@@ -1,0 +1,21 @@
+
+Varón	O
+de	O
+29	O
+años	O
+,	O
+natural	O
+de	O
+Mali	O
+,	O
+que	O
+reside	O
+en	O
+España	O
+desde	O
+hace	O
+4	O
+,	O
+5	O
+años	O
+.	O

@@ -1,0 +1,13 @@
+
+Médico	B-PROFESION
+:	O
+Victoria	O
+Fuentelsaz	O
+del	O
+Barrio	O
+NºCol	O
+:	O
+08	O
+08	O
+57483	O
+.	O

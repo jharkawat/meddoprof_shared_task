@@ -1,0 +1,5 @@
+
+Pulsos	O
+pedios	O
+positivos	O
+.	O

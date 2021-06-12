@@ -1,0 +1,12 @@
+
+La	O
+imagen	O
+subpleural	O
+de	O
+la	O
+língula	O
+no	O
+se	O
+ha	O
+modificado	O
+.	O

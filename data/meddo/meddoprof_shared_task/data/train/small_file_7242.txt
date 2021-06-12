@@ -1,0 +1,12 @@
+
+Además	O
+,	O
+se	O
+realizó	O
+colonoscopia	O
+y	O
+endoscopia	O
+,	O
+ambas	O
+normales	O
+.	O

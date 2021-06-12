@@ -1,0 +1,21 @@
+
+Presentó	O
+congestión	O
+nasal	O
+durante	O
+tres	O
+días	O
+,	O
+luego	O
+de	O
+cual	O
+se	O
+agregó	O
+tos	O
+seca	O
+y	O
+odinofagia	O
+durante	O
+dos	O
+días	O
+.	O

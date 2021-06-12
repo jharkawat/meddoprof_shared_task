@@ -1,0 +1,23 @@
+
+Por	O
+razones	O
+laborales	O
+la	O
+familia	O
+tuvo	O
+que	O
+cambiar	O
+su	O
+domicilio	O
+a	O
+otra	O
+ciudad	O
+,	O
+terminando	O
+en	O
+ésta	O
+los	O
+estudios	O
+de	O
+BUP	O
+.	O

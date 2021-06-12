@@ -1,0 +1,10 @@
+
+Dijo	O
+no	O
+tener	O
+ni	O
+alucinaciones	O
+ni	O
+pensamientos	O
+raros	O
+.	O

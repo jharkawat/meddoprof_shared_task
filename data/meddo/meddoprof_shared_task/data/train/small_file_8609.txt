@@ -1,0 +1,8 @@
+
+No	O
+viajes	O
+en	O
+los	O
+últimos	O
+meses	O
+.	O

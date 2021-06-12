@@ -1,0 +1,24 @@
+
+La	O
+criosonda	O
+utilizada	O
+es	O
+una	O
+sonda	O
+flexible	O
+con	O
+un	O
+diámetro	O
+de	O
+2	O
+,	O
+4mm	O
+,	O
+que	O
+se	O
+conecta	O
+al	O
+equipo	B-PROFESION
+de	I-PROFESION
+crioterapia	I-PROFESION
+.	O

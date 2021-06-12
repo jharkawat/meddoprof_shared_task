@@ -1,0 +1,14 @@
+
+Su	O
+estado	O
+de	O
+ánimo	O
+decayó	O
+de	O
+nuevo	O
+y	O
+retornó	O
+la	O
+ideación	O
+suicida	O
+.	O

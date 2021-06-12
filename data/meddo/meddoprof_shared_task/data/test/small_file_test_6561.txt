@@ -1,0 +1,26 @@
+
+Ha	O
+recibido	O
+un	O
+total	O
+de	O
+8	O
+ciclos	O
+desde	O
+el	O
+inicio	O
+del	O
+tratamiento	O
+,	O
+con	O
+aceptable	O
+tolerancia	O
+,	O
+estando	O
+pendiente	O
+de	O
+nueva	O
+reevaluación	O
+con	O
+TC	O
+.	O

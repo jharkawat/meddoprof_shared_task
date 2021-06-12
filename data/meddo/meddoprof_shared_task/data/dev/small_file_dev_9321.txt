@@ -1,0 +1,25 @@
+
+Se	O
+volvió	O
+a	O
+introducir	O
+cloxacilina	O
+parenteral	O
+en	O
+espera	O
+de	O
+los	O
+resultados	O
+de	O
+los	O
+cultivos	O
+del	O
+material	O
+piógeno	O
+extraídos	O
+mediante	O
+PAAF	O
+guiada	O
+por	O
+TC	O
+.	O

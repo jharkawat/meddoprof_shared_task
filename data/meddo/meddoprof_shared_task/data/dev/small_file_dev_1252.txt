@@ -1,0 +1,18 @@
+
+Al	O
+ingreso	O
+el	O
+paciente	O
+se	O
+muestra	O
+orientado	O
+en	O
+las	O
+tres	O
+esferas	O
+,	O
+parcialmente	O
+colaborador	O
+y	O
+abordable	O
+.	O

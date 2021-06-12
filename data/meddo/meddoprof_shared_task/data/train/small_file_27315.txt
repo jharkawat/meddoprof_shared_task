@@ -1,0 +1,16 @@
+
+Motivo	O
+de	O
+consulta	O
+:	O
+paciente	O
+derivada	O
+para	O
+ingreso	O
+por	O
+alteraciones	O
+de	O
+conducta	O
+en	O
+escalada	O
+.	O

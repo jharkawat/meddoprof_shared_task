@@ -1,0 +1,22 @@
+
+Es	O
+tratado	O
+en	O
+su	O
+centro	O
+de	O
+salud	O
+mental	O
+durante	O
+4	O
+meses	O
+con	O
+neurolépticos	O
+,	O
+con	O
+remisión	O
+completa	O
+de	O
+la	O
+sintomatología	O
+.	O

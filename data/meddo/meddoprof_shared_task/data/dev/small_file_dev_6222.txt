@@ -1,0 +1,20 @@
+
+En	O
+este	O
+momento	O
+se	O
+realizó	O
+una	O
+discusión	O
+clínica	O
+con	O
+las	O
+especialidades	O
+de	O
+medicina	O
+interna	O
+,	O
+dermatología	O
+e	O
+infectología	O
+.	O

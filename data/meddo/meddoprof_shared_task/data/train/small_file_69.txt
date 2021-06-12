@@ -1,0 +1,24 @@
+
+Los	O
+retrasos	O
+para	O
+obtener	O
+una	O
+TAC	O
+craneal	O
+urgente	O
+fueron	O
+provocados	O
+por	O
+su	O
+COVID	O
+-	O
+19	O
+positivo	O
+y	O
+un	O
+cuadro	O
+equívoco	O
+de	O
+seudoictus	O
+.	O

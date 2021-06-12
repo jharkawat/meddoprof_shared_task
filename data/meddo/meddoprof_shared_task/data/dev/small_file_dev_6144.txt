@@ -1,0 +1,19 @@
+
+Suele	O
+presentarse	O
+como	O
+osteomielitis	O
+costal	O
+y	O
+no	O
+como	O
+costocondritis	O
+,	O
+que	O
+era	O
+lo	O
+que	O
+presentaba	O
+nuestro	O
+paciente	O
+.	O

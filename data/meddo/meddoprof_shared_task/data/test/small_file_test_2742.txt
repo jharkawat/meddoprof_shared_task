@@ -1,0 +1,25 @@
+
+Ante	O
+este	O
+resultado	O
+,	O
+el	O
+23	O
+/	O
+11	O
+/	O
+2006	O
+es	O
+intervenido	O
+,	O
+realizando	O
+una	O
+sacrectomía	O
+parcial	O
+a	O
+nivel	O
+de	O
+S1	O
+-	O
+S2	O
+.	O

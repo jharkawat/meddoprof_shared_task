@@ -1,0 +1,19 @@
+
+Bradipsíquica	O
+,	O
+con	O
+bradilalia	O
+,	O
+lenguaje	O
+entrecortado	O
+y	O
+con	O
+lentitud	O
+en	O
+las	O
+respuestas	O
+,	O
+obedece	O
+órdenes	O
+sencillas	O
+.	O

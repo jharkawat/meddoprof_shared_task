@@ -1,0 +1,7 @@
+
+NOC	O
+:	O
+Conducta	O
+de	O
+cumplimiento	O
+.	O

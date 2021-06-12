@@ -1,0 +1,21 @@
+
+Se	O
+propone	O
+entonces	O
+el	O
+tratamiento	O
+con	O
+clozapina	O
+y	O
+la	O
+paciente	O
+lo	O
+acepta	O
+,	O
+así	O
+como	O
+realizarse	O
+los	O
+controles	O
+analíticos	O
+.	O

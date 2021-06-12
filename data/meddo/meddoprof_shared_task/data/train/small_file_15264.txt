@@ -1,0 +1,19 @@
+
+Se	O
+realizó	O
+TAC	O
+torácico	O
+en	O
+el	O
+que	O
+se	O
+observan	O
+adenopatías	O
+supraclaviculares	O
+y	O
+axilares	O
+izquierdas	O
+de	O
+aspecto	O
+sospechoso	O
+.	O

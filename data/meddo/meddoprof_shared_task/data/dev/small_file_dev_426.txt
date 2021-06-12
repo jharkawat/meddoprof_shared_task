@@ -1,0 +1,7 @@
+
+Hemograma	O
+:	O
+sin	O
+alteraciones	O
+significativas	O
+.	O

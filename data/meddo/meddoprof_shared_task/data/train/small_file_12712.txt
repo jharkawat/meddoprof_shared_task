@@ -1,0 +1,8 @@
+
+Vejiga	O
+escasamente	O
+replecionada	O
+,	O
+sin	O
+hallazgos	O
+.	O

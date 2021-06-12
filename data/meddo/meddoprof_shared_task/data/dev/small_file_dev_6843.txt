@@ -1,0 +1,27 @@
+
+Son	O
+varios	O
+los	O
+microorganismos	O
+que	O
+podrían	O
+estar	O
+implicados	O
+,	O
+destacando	O
+:	O
+Streptococcus	O
+pneumoniae	O
+,	O
+Haemophilus	O
+influenzae	O
+,	O
+Pseudomonas	O
+aeruginosa	O
+,	O
+Rhodococcus	O
+equi	O
+y	O
+Nocardia	O
+asteroides	O
+.	O

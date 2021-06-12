@@ -1,0 +1,21 @@
+
+La	O
+criptococosis	O
+diseminada	O
+presenta	O
+afectación	O
+ósea	O
+con	O
+formas	O
+líticas	O
+,	O
+al	O
+igual	O
+que	O
+en	O
+el	O
+caso	O
+de	O
+nuestro	O
+paciente	O
+.	O

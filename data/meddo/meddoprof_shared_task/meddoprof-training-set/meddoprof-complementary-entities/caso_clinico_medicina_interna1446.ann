@@ -1,0 +1,35 @@
+T1	SINTOMA 152 157	mareo
+T2	SINTOMA 160 170	sudoración
+T3	SINTOMA 189 204	caída inminente
+T4	SINTOMA 298 305	síncope
+T5	SINTOMA 347 361	dolor torácica
+T6	SINTOMA 446 461	tos persistente
+T7	SINTOMA 772 827	inversión de onda T simétrica y picuda en cara anterior
+T8	SINTOMA 1035 1073	dilatación muy leve de ambas aurículas
+T9	PROCEDIMIENTO 493 511	exploración física
+T10	PROCEDIMIENTO 582 600	electrocardiograma
+T11	PROCEDIMIENTO 602 605	ECG
+T12	PROCEDIMIENTO 904 914	telemetría
+T13	PROCEDIMIENTO 958 976	prueba de esfuerzo
+T14	PROCEDIMIENTO 984 1012	ecocardiograma transtorácico
+T15	PROCEDIMIENTO 1014 1017	ETT
+T16	PROCEDIMIENTO 1311 1321	ergometría
+T17	PROCEDIMIENTO 1377 1380	ECG
+T18	PROCEDIMIENTO 1516 1542	ecocardiograma de esfuerzo
+T19	NEG 28 31	sin
+T20	NSCO 32 55	antecedentes de interés
+T21	NEG 335 338	sin
+T22	NSCO 339 386	referir dolor torácica ni otra clínica asociada
+T23	NEG 530 532	no
+T24	NSCO 533 558	destacan datos relevantes
+T25	NEG 1134 1137	sin
+T26	NSCO 1138 1179	gradientes patológicos intraventriculares
+T27	NEG 1446 1448	no
+T28	NSCO 1449 1495	siendo ésta sugestiva de cardiopatía isquémica
+T29	NEG 1568 1571	sin
+T30	NSCO 1572 1634	aparición de gradientes ni cambios de la actividad segmentaria
+T31	ORG_VIVO 0 14	Paciente varón
+T32	ENFERMEDAD 839 870	isquemia subepicárdica anterior
+T33	ENFERMEDAD 1079 1104	hipertrofia de ventrículo
+T34	ENFERMEDAD 1474 1495	cardiopatía isquémica
+T35	PACIENTE-PROFESION 70 76	atleta

@@ -1,0 +1,15 @@
+
+Recibió	O
+el	O
+quinto	O
+ciclo	O
+de	O
+pembrolizumab	O
+dos	O
+semanas	O
+antes	O
+del	O
+comienzo	O
+del	O
+cuadro	O
+.	O

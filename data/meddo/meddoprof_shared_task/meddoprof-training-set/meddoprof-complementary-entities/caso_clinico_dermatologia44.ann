@@ -1,0 +1,65 @@
+T1	SINTOMA 124 151	debilidad muscular proximal
+T2	SINTOMA 720 811	debilidad muscular de predominio proximal, M2 en extremidades inferiores y M3 en superiores
+T3	SINTOMA 1682 1716	engrosamiento reticular subpleural
+T4	SINTOMA 1972 1982	leucopenia
+T5	SINTOMA 2844 2862	debilidad muscular
+T6	PROCEDIMIENTO 182 198	electromiografía
+T7	PROCEDIMIENTO 201 216	biopsia de piel
+T8	PROCEDIMIENTO 320 331	corticoides
+T9	PROCEDIMIENTO 1428 1449	amputación del ortejo
+T10	PROCEDIMIENTO 1482 1541	tomografía axial computada (TAC) de tórax, abdomen y pelvis
+T11	PROCEDIMIENTO 1877 1889	colonoscopia
+T12	PROCEDIMIENTO 1892 1902	endoscopia
+T13	PROCEDIMIENTO 1995 2011	biopsia muscular
+T14	PROCEDIMIENTO 2681 2712	amputación de la falange distal
+T15	PROCEDIMIENTO 2717 2729	TAC de tórax
+T16	UNC 217 227	compatible
+T17	NEG 229 232	Sin
+T18	NSCO 233 310	antecedentes de tabaquismo, consumo de alcohol, drogas, ni otras enfermedades
+T19	NEG 351 360	suspendió
+T20	NSCO 361 413	en contexto de artritis séptica de rodilla izquierda
+T21	NEG 455 467	se suspendió
+T22	NSCO 468 478	por anemia
+T23	NEG 1101 1104	sin
+T24	NSCO 1105 1117	lograr sanar
+T25	NEG 1119 1122	Sin
+T26	NSCO 1123 1139	Raynaud asociado
+T27	UNC 1160 1171	sospecha de
+T28	USCO 1172 1204	compromiso infeccioso del ortejo
+T29	UNC 1755 1768	probablemente
+T30	USCO 1769 1791	por una EPD incipiente
+T31	NEG 1928 1941	suspensión de
+T32	NSCO 1942 1982	la ciclofosfamida recuperó la leucopenia
+T33	NEG 2840 2843	sin
+T34	NSCO 2844 2901	debilidad muscular, CK normal, ni compromiso respiratorio
+T35	NEG 2951 2953	no
+T36	NSCO 2954 2964	necróticas
+T37	FARMACO 334 345	azatioprina
+T38	FARMACO 438 449	metotrexato
+T39	FARMACO 487 501	ciclofosfamida
+T40	FARMACO 1945 1959	ciclofosfamida
+T41	FARMACO 2381 2398	hidroxicloroquina
+T42	FARMACO 2400 2411	azatioprina
+T43	FARMACO 2413 2423	nifedipino
+T44	FARMACO 2425 2435	sildenafil
+T45	FARMACO 2438 2446	aspirina
+T46	ORG_VIVO 0 6	Hombre
+T47	ORG_VIVO 19 27	soldador
+T48	ORG_VIVO 44 49	hijos
+T49	ORG_VIVO 595 600	Padre
+T50	ORG_VIVO 2785 2793	paciente
+T51	ENFERMEDAD 55 57	DM
+T52	ENFERMEDAD 249 259	tabaquismo
+T53	ENFERMEDAD 261 279	consumo de alcohol
+T54	ENFERMEDAD 376 403	artritis séptica de rodilla
+T55	ENFERMEDAD 472 478	anemia
+T56	ENFERMEDAD 660 683	atrofia muscular severa
+T57	ENFERMEDAD 923 938	placa necrótica
+T58	ENFERMEDAD 1172 1204	compromiso infeccioso del ortejo
+T59	ENFERMEDAD 1386 1399	osteomielitis
+T60	ENFERMEDAD 1622 1648	enfisema de partes blandas
+T61	ENFERMEDAD 1777 1780	EPD
+T62	ENFERMEDAD 1801 1856	calcificaciones difusas en el tejido celular subcutáneo
+T63	ENFERMEDAD 1972 1982	leucopenia
+T64	ENFERMEDAD 2500 2514	lesión cutánea
+T65	PACIENTE-PROFESION 19 27	soldador

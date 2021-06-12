@@ -1,0 +1,26 @@
+
+Varón	O
+de	O
+49	O
+años	O
+,	O
+fumador	O
+y	O
+sin	O
+reacciones	O
+adversas	O
+medicamentosas	O
+,	O
+con	O
+antecedentes	O
+personales	O
+de	O
+hiperuricemia	O
+y	O
+psoriasis	O
+(	O
+sin	O
+tratamientos	O
+habituales	O
+)	O
+.	O

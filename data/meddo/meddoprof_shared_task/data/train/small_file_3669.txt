@@ -1,0 +1,19 @@
+
+Ponemos	O
+a	O
+su	O
+servicio	O
+ayuda	O
+por	O
+parte	O
+del	O
+Trabajador	B-PROFESION
+social	I-PROFESION
+,	O
+la	O
+introducimos	O
+en	O
+un	O
+grupo	O
+socioterapéutico	O
+.	O

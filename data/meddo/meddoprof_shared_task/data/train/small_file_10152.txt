@@ -1,0 +1,9 @@
+
+-	O
+Diverticulitis	O
+aguda	O
+con	O
+absceso	O
+de	O
+pared	O
+.	O

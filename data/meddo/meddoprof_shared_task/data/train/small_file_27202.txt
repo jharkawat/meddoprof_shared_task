@@ -1,0 +1,25 @@
+
+Tras	O
+instauración	O
+de	O
+psicoterapia	O
+individual	O
+y	O
+familiar	O
+y	O
+abrupta	O
+disminución	O
+de	O
+la	O
+sintomatología	O
+conversiva	O
+,	O
+se	O
+procede	O
+a	O
+retirada	O
+progresiva	O
+del	O
+tratamiento	O
+psicofarmacológico	O
+.	O

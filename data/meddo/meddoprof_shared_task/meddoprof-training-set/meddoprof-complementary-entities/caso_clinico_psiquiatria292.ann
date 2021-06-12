@@ -1,0 +1,97 @@
+T1	SINTOMA 195 203	sociable
+T2	SINTOMA 767 780	fallecimiento
+T3	SINTOMA 1589 1663	afectación grave del nivel de conciencia, sensibilidad, motricidad y habla
+T4	SINTOMA 2351 2377	alucinaciones cenestésicas
+T5	SINTOMA 2379 2397	aislamiento social
+T6	SINTOMA 2400 2425	pensamiento desorganizado
+T7	SINTOMA 2427 2444	ánimo hipertímico
+T8	SINTOMA 2446 2454	insomnio
+T9	SINTOMA 2458 2478	ligera desinhibición
+T10	SINTOMA 2854 2874	limitación funcional
+T11	SINTOMA 2888 2910	hipotonía generalizada
+T12	SINTOMA 3619 3627	delirios
+T13	PROCEDIMIENTO 1418 1421	TAC
+T14	PROCEDIMIENTO 2790 2804	rehabilitación
+T15	PROCEDIMIENTO 3106 3134	exploración neuropsicológica
+T16	PROCEDIMIENTO 3571 3597	Evaluación psicopatológica
+T17	NEG 54 56	ex
+T18	NSCO 57 79	profesora de instituto
+T19	NEG 614 617	sin
+T20	NSCO 618 636	afectación laboral
+T21	NEG 1139 1141	no
+T22	NSCO 1142 1153	congruentes
+T23	NEG 1834 1836	no
+T24	NSCO 1837 1854	son sus hermanos"
+T25	NEG 2480 2492	Se retiraron
+T26	NSCO 2493 2511	las sales de litio
+T27	NEG 2678 2680	no
+T28	NSCO 2681 2692	congruentes
+T29	FARMACO 965 970	Litio
+T30	FARMACO 2506 2511	litio
+T31	FARMACO 2573 2588	ácido valproico
+T32	FARMACO 4199 4207	Depakine
+T33	FARMACO 4221 4231	Olanzapina
+T34	FARMACO 4243 4254	Risperidona
+T35	FARMACO 4265 4282	Complejo Vitamina
+T36	ORG_VIVO 0 8	Paciente
+T37	ORG_VIVO 21 51	licenciada en ciencias exactas
+T38	ORG_VIVO 54 79	ex profesora de instituto
+T39	ORG_VIVO 101 109	hermanos
+T40	ORG_VIVO 123 131	infancia
+T41	ORG_VIVO 161 166	padre
+T42	ORG_VIVO 176 180	niña
+T43	ORG_VIVO 785 790	padre
+T44	ORG_VIVO 813 821	paciente
+T45	ORG_VIVO 1246 1252	padres
+T46	ORG_VIVO 1255 1263	hermanos
+T47	ORG_VIVO 1336 1341	oveja
+T48	ORG_VIVO 1355 1362	familia
+T49	ORG_VIVO 1739 1757	compañero profesor
+T50	ORG_VIVO 1824 1832	hermanos
+T51	ORG_VIVO 1845 1853	hermanos
+T52	ORG_VIVO 1871 1879	profesor
+T53	ORG_VIVO 1919 1925	amigos
+T54	ORG_VIVO 1928 1937	conocidos
+T55	ORG_VIVO 1957 1963	pareja
+T56	ORG_VIVO 1988 1995	hermano
+T57	ORG_VIVO 2824 2830	médico
+T58	ORG_VIVO 2831 2840	enfermera
+T59	ORG_VIVO 3719 3727	profesor
+T60	ORG_VIVO 4020 4027	hermano
+T61	ENFERMEDAD 371 409	brote psicótico con ideación paranoide
+T62	ENFERMEDAD 495 505	depresivos
+T63	ENFERMEDAD 726 735	depresivo
+T64	ENFERMEDAD 1083 1153	Trastorno Bipolar con síntomas psicóticos congruentes y no congruentes
+T65	ENFERMEDAD 1172 1188	Abuso de alcohol
+T66	ENFERMEDAD 1383 1407	Hemorragia Subaracnoidea
+T67	ENFERMEDAD 1409 1412	HSA
+T68	ENFERMEDAD 1551 1568	hematoma parietal
+T69	ENFERMEDAD 1682 1686	coma
+T70	ENFERMEDAD 2060 2063	HSA
+T71	ENFERMEDAD 2275 2284	potomanía
+T72	ENFERMEDAD 2286 2311	descompensación psicótica
+T73	ENFERMEDAD 2316 2349	ideación delirante tipo paranoide
+T74	ENFERMEDAD 2516 2537	nefropatía secundaria
+T75	ENFERMEDAD 2540 2557	diabetes insípida
+T76	ENFERMEDAD 2607 2638	Trastorno Esquizoafectivo mixto
+T77	ENFERMEDAD 2644 2692	síntomas psicóticos congruentes y no congruentes
+T78	ENFERMEDAD 2696 2712	Abuso de alcohol
+T79	ENFERMEDAD 2928 2942	hipotiroidismo
+T80	ENFERMEDAD 2945 2951	DM-NID
+T81	ENFERMEDAD 2972 2981	Potomanía
+T82	ENFERMEDAD 2984 3004	enuresis secundarias
+T83	ENFERMEDAD 3020 3049	diabetes insípida nefrogénica
+T84	ENFERMEDAD 3155 3174	deterioro cognitivo
+T85	ENFERMEDAD 3540 3566	consumo abusivo de alcohol
+T86	ENFERMEDAD 3680 3708	fenómeno alucinatorio simple
+T87	ENFERMEDAD 4144 4147	HSA
+T88	ENFERMEDAD 4367 4409	Sintomatología psicótica positiva residual
+T89	SANITARIO-PROFESION 2831 2840	enfermera
+T90	SANITARIO-PROFESION 2824 2830	médico
+T91	OTROS-PROFESION 1749 1757	profesor
+T92	OTROS-PROFESION 1871 1879	profesor
+T93	OTROS-PROFESION 3719 3727	profesor
+T94	PACIENTE-PROFESION 54 79	ex profesora de instituto
+T95	PACIENTE-SITUACION_LABORAL 834 856	incapacitación laboral
+T96	PACIENTE-SITUACION_LABORAL 858 870	ILP absoluta
+T97	OTROS-SITUACION_LABORAL 1739 1748	compañero

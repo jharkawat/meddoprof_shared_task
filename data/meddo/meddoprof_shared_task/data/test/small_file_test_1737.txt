@@ -1,0 +1,22 @@
+
+En	O
+este	O
+caso	O
+,	O
+se	O
+realizó	O
+por	O
+lo	O
+tanto	O
+un	O
+tratamiento	O
+periodontal	O
+no	O
+quirúrgico	O
+con	O
+administración	O
+sistémica	O
+de	O
+Metronidazol	O
+500mg	O
+.	O

@@ -1,0 +1,21 @@
+
+Citado	O
+para	O
+revisión	O
+en	O
+consultas	O
+externas	O
+de	O
+Neurocirugía	O
+en	O
+tres	O
+meses	O
+con	O
+nueva	O
+RMN	O
+y	O
+analítica	O
+para	O
+control	O
+hormonal	O
+.	O

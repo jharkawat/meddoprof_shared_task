@@ -1,0 +1,16 @@
+
+La	O
+impresión	O
+diagnóstica	O
+al	O
+alta	O
+fue	O
+de	O
+trastorno	O
+psicótico	O
+asociado	O
+a	O
+otro	O
+proceso	O
+médico	O
+.	O

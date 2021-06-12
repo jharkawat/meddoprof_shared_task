@@ -1,0 +1,13 @@
+
+Orificio	O
+crural	O
+infiltrado	O
+(	O
+pared	O
+abdominal	O
+)	O
+:	O
+fragmentos	O
+de	O
+carcinosarcoma	O
+.	O

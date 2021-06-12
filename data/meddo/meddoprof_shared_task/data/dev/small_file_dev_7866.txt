@@ -1,0 +1,13 @@
+
+GPT	O
+120	O
+U	O
+/	O
+L	O
+,	O
+GOT	O
+83	O
+U	O
+/	O
+L	O
+.	O

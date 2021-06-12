@@ -1,0 +1,17 @@
+
+Examen	O
+fisico	O
+:	O
+paciente	O
+en	O
+aparentes	O
+buenas	O
+condiciones	O
+generales	O
+;	O
+piel	O
+morena	O
+clara	O
+y	O
+senil	O
+.	O

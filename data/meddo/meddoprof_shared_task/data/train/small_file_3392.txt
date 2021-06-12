@@ -1,0 +1,7 @@
+
+Ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+de	O
+profesión	O
+.	O

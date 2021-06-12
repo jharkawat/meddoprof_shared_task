@@ -1,0 +1,14 @@
+
+El	O
+hijo	O
+vive	O
+en	O
+misma	O
+localidad	O
+y	O
+la	O
+hija	O
+en	O
+otra	O
+comunidad	O
+.	O

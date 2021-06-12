@@ -1,0 +1,21 @@
+
+A	O
+la	O
+edad	O
+de	O
+5	O
+años	O
+,	O
+se	O
+detecta	O
+un	O
+déficit	O
+de	O
+atención	O
+con	O
+interferencia	O
+en	O
+casa	O
+y	O
+escuela	O
+.	O

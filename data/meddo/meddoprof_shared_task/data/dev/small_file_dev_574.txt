@@ -1,0 +1,12 @@
+
+he	O
+trabajado	O
+de	O
+todo	O
+.	O
+.	O
+.	O
+.	O
+"	O
+"	O
+.	O

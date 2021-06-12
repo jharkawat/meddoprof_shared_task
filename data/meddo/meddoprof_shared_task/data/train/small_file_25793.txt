@@ -1,0 +1,19 @@
+
+Probable	O
+Psicosis	O
+Tóxica	O
+,	O
+con	O
+sintomatología	O
+en	O
+remisión	O
+en	O
+el	O
+momento	O
+del	O
+alta	O
+:	O
+F	O
+19	O
+.	O
+5	O

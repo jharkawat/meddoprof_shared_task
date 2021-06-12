@@ -1,0 +1,11 @@
+
+Paciente	O
+varón	O
+de	O
+39	O
+años	O
+sin	O
+antecedentes	O
+de	O
+interés	O
+.	O

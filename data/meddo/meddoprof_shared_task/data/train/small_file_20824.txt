@@ -1,0 +1,11 @@
+
+Trastorno	O
+por	O
+Dependencia	O
+de	O
+Nicotina	O
+con	O
+dependencia	O
+fisiológica	O
+grave	O
+.	O

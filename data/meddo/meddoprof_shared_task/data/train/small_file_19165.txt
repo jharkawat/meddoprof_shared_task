@@ -1,0 +1,16 @@
+
+Lesiones	O
+por	O
+quemaduras	O
+en	O
+la	O
+zona	O
+interna	O
+de	O
+ambas	O
+EESS	O
+(	O
+agua	O
+hirviendo	O
+)	O
+.	O

@@ -1,0 +1,12 @@
+
+Tratamiento	O
+habitual	O
+:	O
+levotiroxina	O
+,	O
+bisoprolol	O
+,	O
+valsartán	O
+/	O
+hidroclorotiazida	O
+.	O

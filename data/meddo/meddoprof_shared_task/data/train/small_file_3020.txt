@@ -1,0 +1,23 @@
+
+Así	O
+,	O
+se	O
+llega	O
+al	O
+diagnóstico	O
+de	O
+SCASEST	O
+con	O
+criterios	O
+de	O
+alto	O
+riesgo	O
+(	O
+cambios	O
+ECG	O
+con	O
+movilización	O
+de	O
+TnUs	O
+)	O
+.	O

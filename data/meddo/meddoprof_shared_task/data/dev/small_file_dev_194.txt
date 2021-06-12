@@ -1,0 +1,7 @@
+
+Siempre	O
+viene	O
+acompañado	O
+del	O
+padre	O
+.	O

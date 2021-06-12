@@ -1,0 +1,23 @@
+
+Actitud	O
+desconfiada	O
+,	O
+hipervigilante	O
+,	O
+mirada	O
+desafiante	O
+que	O
+alterna	O
+con	O
+episodios	O
+en	O
+los	O
+que	O
+se	O
+muestra	O
+perplejo	O
+y	O
+con	O
+risas	O
+inmotivadas	O
+.	O

@@ -1,0 +1,17 @@
+
+Es	O
+dada	O
+de	O
+alta	O
+y	O
+puesta	O
+en	O
+seguimiento	O
+posteriormente	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

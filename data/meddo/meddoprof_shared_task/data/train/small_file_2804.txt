@@ -1,0 +1,25 @@
+
+1	O
+.	O
+-	O
+Patologías	O
+posibles	O
+causantes	O
+de	O
+los	O
+síntomas	O
+de	O
+los	O
+miembros	O
+inferiores	O
+(	O
+pérdida	O
+de	O
+fuerza	O
+,	O
+claudicación	O
+con	O
+la	O
+marcha	O
+)	O
+:	O

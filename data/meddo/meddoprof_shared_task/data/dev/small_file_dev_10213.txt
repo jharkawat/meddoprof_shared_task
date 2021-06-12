@@ -1,0 +1,16 @@
+
+A	O
+los	O
+17	O
+años	O
+la	O
+paciente	O
+se	O
+casó	O
+con	O
+un	O
+hombre	O
+cinco	O
+años	O
+mayor	O
+.	O

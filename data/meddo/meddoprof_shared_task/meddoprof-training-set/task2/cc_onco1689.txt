@@ -1,0 +1,19 @@
+Anamnesis
+Mujer de 36 años de edad, sin alergias medicamentosas conocidas, menarquia a los 14 años, tomadora de anticonceptivos orales desde los 14 años hasta los 21; madre de dos hijos de cuatro y siete años, sin antecedentes médicos de interés. En junio de 2009 consulta a su médico de Atención Primaria por cuadro clínico de dorsalgia de un mes de evolución que irradia a la escápula y a la extremidad superior derecha con parestesias en el segundo, tercero y cuarto dedos de la mano derecha, refractario al tratamiento con antiinflamatorios orales. Dada la mala evolución del dolor, se solicita radiología dorsal, donde se aprecian lesiones óseas sugestivas de metástasis, por lo que ingresa en el Servicio de Medicina Interna para estudio.
+
+Exploración física
+No se aprecian alteraciones patológicas, salvo dolor dorsal a la percusión de cuerpos vertebrales.
+
+Pruebas complementarias
+Durante su ingreso en Medicina Interna se realizan las siguientes pruebas:
+• Ecografía abdominal: lesiones múltiples ocupantes de espacio a nivel hepático.
+• Tomografía computarizada toracoabdominal: alteración de la densidad de la glándula mamaria izquierda con presencia de nódulos densos e hipervascularizados, mal definidos, sugestivos de naturaleza neoplásica. Hepatomegalia tumoral metastásica. Tenue lesión osteoblástica a nivel de D12.
+• Gammagrafía ósea: metástasis óseas múltiples a nivel de D1, D2, D10, D12, L5, octavo arco costal izquierdo, undécimo arco costal izquierdo, cabeza femoral izquierda.
+• Marcadores tumorales: CEA 33,45 ng/ml; CA- 15.3 232.8 UI/ml.
+• Biopsia mamaria: carcinoma ductal infiltrante con invasión de vasos linfáticos, receptores de estrógenos y progesterona negativos. P53 negativo; Ki-67 80%; Her-2 positivo.
+
+Diagnóstico
+Cáncer de mama estadio IV.
+
+Tratamiento
+Tras el diagnóstico, es valorada por el Servicio de Oncología Médica en julio de 2009, iniciando tratamiento quimioterápico con esquema: carboplatino AUC 6 + docetaxel 75 mg /m2 + trastuzumab con dosis de carga de 8 mg/kg con posterior dosis de 6 mg/kg cada 21 días por ocho ciclos hasta diciembre de 2009, con una respuesta parcial hepática, estabilización de la enfermedad ósea y disminución de los marcadores tumorales. Durante el tratamiento, recibió soporte con ácido zoledrónico a dosis de 4 mg cada tres semanas. De diciembre de 2009 a marzo de 2010 continúa con trastuzumab + ácido zoledrónico, objetivándose en la tomografía computarizada de control una respuesta completa hepática, estabilización de enfermedad ósea y estabilización de marcadores tumorales. En abril de 2010 presenta una progresión clínica, con aumento de lesión de mama izquierda con eritema y aumento del edema, por lo que se solicitó nuevo estudio de extensión que muestra progresión a nivel local de la mama izquierda, progresión ósea y permaneciendo en respuesta completa hepática. Dada la progresión, inicia tratamiento quimioterápico con lapatinib 1.250 mg al día + capecitabina 2.000 mg/m2 de abril a octubre de 2010 con buena tolerancia y objetivando, en control, ausencia de captación ósea en la gammagrafía, respuesta completa hepática y disminución de lesión de la mama izquierda (nodulación mamaria izquierda en respuesta parcial). Dada la mejoría, permanece con lapatinib en monoterapia de octubre de 2010 a febrero de 2011. En febrero de 2011 presenta nueva una progresión clínica a nivel de la mama izquierda con pruebas complementarias que muestra solo progresión a nivel local, por lo que inicia tratamiento quimioterápico con vinorelbina oral 40 mg/m2 día 1 y 8 + lapatinib 1.250 mg/24 horas y radioterapia concomitante sobre la mama izquierda con buena tolerancia y buena respuesta clínica que se mantiene hasta el momento actual.

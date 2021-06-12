@@ -1,0 +1,651 @@
+Mujer	O
+de	O
+42	O
+a	O
+os	O
+que	O
+es	O
+llevada	O
+a	O
+urgencias	O
+de	O
+su	O
+hospital	O
+de	O
+referencia	O
+por	O
+abandono	O
+del	O
+tratamiento	O
+farmacol	O
+gico	O
+prescrito	O
+.	O
+A	O
+los	O
+35	O
+a	O
+os	O
+fue	O
+diagnosticada	O
+de	O
+esquizofrenia	O
+y	O
+desde	O
+los	O
+38	O
+a	O
+os	O
+ha	O
+precisado	O
+varios	O
+ingresos	O
+farmacol	O
+gicos	O
+por	O
+falta	O
+de	O
+adherencia	O
+terap	O
+utica	O
+.	O
+Estos	O
+ingresos	O
+han	O
+ido	O
+aumentando	O
+ya	O
+que	O
+ha	O
+necesitado	O
+incremento	O
+en	O
+la	O
+dosis	O
+farmacol	O
+gica	O
+y	O
+mayor	O
+tiempo	O
+en	O
+la	O
+estabilizaci	O
+n.	O
+Mala	O
+vinculaci	O
+n	O
+con	O
+recursos	O
+ambulatorios	O
+.	O
+Recientemente	O
+perdi	O
+su	O
+trabajo	B-PACIENTE
+en	I-PACIENTE
+una	I-PACIENTE
+florister	I-PACIENTE
+a	I-PACIENTE
+.	O
+
+
+Consciente	O
+y	O
+orientada	O
+en	O
+las	O
+3	O
+esferas	O
+.	O
+Disproxemia	O
+,	O
+disf	O
+rica	O
+,	O
+irritable	O
+.	O
+Es	O
+preciso	O
+contenci	O
+n	O
+mec	O
+nica	O
+,	O
+posteriormente	O
+colaboradora	O
+.	O
+Inquietud	O
+psicomotriz	O
+.	O
+Lenguaje	O
+normalizado	O
+con	O
+discurso	O
+concreto	O
+con	O
+ideas	O
+delirantes	O
+poco	O
+sistematizadas	O
+y	O
+cambiantes	O
+de	O
+tema	O
+en	O
+los	O
+ltimos	O
+20	O
+d	O
+as	O
+.	O
+No	O
+alteraci	O
+n	O
+sensoperceptiva	O
+.	O
+
+
+SIGNOS	O
+VITALES	O
+:	O
+
+
+Tensi	O
+n	O
+arterial	O
+108/65	O
+mmHg	O
+.	O
+
+Frecuencia	O
+card	O
+aca	O
+:	O
+70	O
+lat/	O
+min	O
+.	O
+
+Saturaci	O
+n	O
+de	O
+ox	O
+geno	O
+:	O
+98	O
+%	O
+.	O
+
+Temperatura	O
+:	O
+36.2	O
+o	O
+C	O
+.	O
+
+
+TRATAMIENTO	O
+FARMACOL	O
+GICO	O
+:	O
+
+
+Maintena	O
+400	O
+mg	O
+mensualmente	O
+.	O
+
+cido	O
+valproico	O
+soluci	O
+n	O
+:	O
+700-700-700	O
+mg	O
+.	O
+
+Olanzapina	O
+5-0-0-20	O
+mg	O
+.	O
+
+Clonazepam	O
+soluci	O
+n	O
+:	O
+0-0-0-10	O
+gotas	O
+.	O
+
+
+JUICIO	O
+CL	O
+NICO	O
+:	O
+Esquizofrenia	O
+.	O
+
+
+VALORACI	O
+N	O
+DE	O
+ENFERMER	O
+A	O
+:	O
+Realizamos	O
+la	O
+valoraci	O
+n	O
+seg	O
+n	O
+los	O
+patrones	O
+funcionales	O
+:	O
+
+
+Percepci	O
+n-	O
+manejo	O
+de	O
+la	O
+salud	O
+:	O
+vestimenta	O
+e	O
+higiene	O
+personal	O
+adecuada	O
+.	O
+Actualmente	O
+vive	O
+con	O
+una	O
+hermana	O
+que	O
+tambi	O
+n	O
+tiene	O
+patolog	O
+a	O
+psiqui	O
+trica	O
+.	O
+
+
+Ex	O
+fumadora	O
+de	O
+tabaco	O
+desde	O
+hace	O
+20	O
+a	O
+os	O
+.	O
+
+
+Ha	O
+precisado	O
+ingresos	O
+anteriores	O
+en	O
+psiquiatr	O
+a	O
+hospitalaria	O
+.	O
+Ha	O
+abandonado	O
+tratamiento	O
+farmacol	O
+gico	O
+y	O
+seguimiento	O
+por	O
+parte	O
+de	O
+la	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+.	O
+
+
+No	O
+es	O
+consciente	O
+de	O
+su	O
+enfermedad	O
+.	O
+
+
+Nutricional-	O
+metab	O
+lico	O
+:	O
+peso	O
+adecuado	O
+a	O
+su	O
+altura	O
+y	O
+edad	O
+.	O
+Realiza	O
+dieta	O
+equilibrada	O
+y	O
+variada	O
+gracias	O
+a	O
+una	O
+ayuda	O
+domicilia	O
+por	O
+parte	O
+de	O
+su	O
+Ayuntamiento	O
+de	O
+referencia	O
+.	O
+
+
+Mucosas	O
+y	O
+piel	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O
+
+
+Eliminaci	O
+n	O
+:	O
+no	O
+presenta	O
+incontinencia	O
+urinaria	O
+ni	O
+fecal	O
+.	O
+
+
+Actividad-	O
+ejercicio	O
+:	O
+refiere	O
+que	O
+hace	B-PACIENTE
+yoga	I-PACIENTE
+en	O
+su	O
+casa	O
+varias	O
+veces	O
+por	O
+semana	O
+.	O
+
+
+Sue	O
+o-	O
+reposo	O
+:	O
+presenta	O
+sue	O
+o	O
+reparador	O
+.	O
+Descanso	O
+nocturno	O
+de	O
+8	O
+horas	O
+.	O
+
+
+Cognitivo-	O
+perceptivo	O
+:	O
+orientada	O
+en	O
+las	O
+3	O
+esferas	O
+.	O
+Presenta	O
+ideas	O
+delirantes	O
+y	O
+lenguaje	O
+normalizado	O
+.	O
+
+
+Autopercepci	O
+n-	O
+autoconcepto	O
+:	O
+no	O
+es	O
+consciente	O
+de	O
+su	O
+trastorno	O
+mental	O
+.	O
+
+
+Rol-	O
+relaciones	O
+:	O
+es	O
+profesora	B-PACIENTE
+de	I-PACIENTE
+literatura	I-PACIENTE
+aunque	O
+desde	O
+los	O
+38	O
+a	O
+os	O
+no	O
+desempe	O
+a	O
+su	O
+trabajo	O
+.	O
+Cobra	B-PACIENTE
+una	I-PACIENTE
+prestaci	I-PACIENTE
+n	I-PACIENTE
+por	I-PACIENTE
+minusval	I-PACIENTE
+a.	I-PACIENTE
+Vive	O
+con	O
+su	O
+hermana	O
+,	O
+diagnosticada	O
+de	O
+trastorno	O
+l	O
+mite	O
+de	O
+la	O
+personalidad	O
+.	O
+Posee	O
+buen	O
+apoyo	O
+social	O
+.	O
+
+
+Sexualidad-	O
+reproducci	O
+n	O
+:	O
+no	O
+valorada	O
+.	O
+
+
+Afrontamiento-	O
+tolerancia	O
+al	O
+estr	O
+s	O
+:	O
+presenta	O
+habilidades	O
+para	O
+el	O
+afrontamiento	O
+del	O
+estr	O
+s	O
+.	O
+
+
+Valores-	O
+creencias	O
+:	O
+vive	O
+seg	O
+n	O
+sus	O
+creencias	O
+y	O
+valores	O
+.	O
+
+
+PROCESO	O
+DE	O
+ATENCI	O
+N	O
+DE	O
+ENFERMER	O
+A	O
+:	O
+Realizamos	O
+un	O
+plan	O
+de	O
+cuidados	O
+de	O
+Enfermer	O
+a	O
+para	O
+dicho	O
+paciente	O
+seg	O
+n	O
+la	O
+nomenclatura	O
+NANDA	O
+(	O
+diagn	O
+sticos	O
+de	O
+Enfermer	O
+a	O
+)	O
+,	O
+NOC	O
+(	O
+objetivos	O
+)	O
+y	O
+NIC	O
+(	O
+intervenciones	O
+)	O
+:	O
+
+
+NANDA	O
+:	O
+mantenimiento	O
+ineficaz	O
+de	O
+la	O
+salud	O
+(	O
+00099	O
+)	O
+.	O
+
+
+NOC	O
+:	O
+
+
+Creencias	O
+sobre	O
+la	O
+salud	O
+:	O
+percepci	O
+n	O
+de	O
+amenaza	O
+(	O
+1704	O
+)	O
+.	O
+
+
+Detecci	O
+n	O
+de	O
+riesgo	O
+(	O
+1908	O
+)	O
+.	O
+
+
+Conducta	O
+de	O
+cumplimiento	O
+(	O
+1601	O
+)	O
+.	O
+
+
+NIC	O
+:	O
+
+
+Modificaci	O
+n	O
+de	O
+la	O
+conducta	O
+(	O
+4360	O
+)	O
+.	O
+
+
+Identificaci	O
+n	O
+de	O
+riesgos	O
+(	O
+6610	O
+)	O
+.	O
+
+
+

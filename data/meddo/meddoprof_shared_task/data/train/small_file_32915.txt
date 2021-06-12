@@ -1,0 +1,19 @@
+
+Tras	O
+terminar	B-SITUACION_LABORAL
+sus	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+,	O
+trabajó	B-SITUACION_LABORAL
+durante	I-SITUACION_LABORAL
+6	I-SITUACION_LABORAL
+años	I-SITUACION_LABORAL
+en	O
+su	O
+área	O
+de	O
+formación	O
+sin	O
+dificultad	O
+alguna	O
+.	O

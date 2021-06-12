@@ -1,0 +1,22 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+Minociclina	O
+100	O
+mg	O
+cada	O
+12h	O
+via	O
+oral	O
+junto	O
+con	O
+Claritromicina	O
+500	O
+mg	O
+cada	O
+12h	O
+durante	O
+3	O
+meses	O

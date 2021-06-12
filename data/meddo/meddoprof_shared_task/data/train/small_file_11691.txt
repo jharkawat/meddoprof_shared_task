@@ -1,0 +1,9 @@
+
+Sin	O
+antecedentes	O
+médicos	O
+ni	O
+ORL	O
+de	O
+interés	O
+.	O

@@ -1,0 +1,14 @@
+
+-	O
+Aspirado	O
+de	O
+médula	O
+ósea	O
+(	O
+citología	O
+)	O
+:	O
+Hematopoyesis	O
+bien	O
+presentada	O
+.	O

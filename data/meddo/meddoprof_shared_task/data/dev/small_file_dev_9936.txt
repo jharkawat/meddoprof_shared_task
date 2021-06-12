@@ -1,0 +1,16 @@
+
+DA	O
+distal	O
+con	O
+estenosis	O
+del	O
+70	O
+%	O
+y	O
+con	O
+flujo	O
+de	O
+grado	O
+TIMI	O
+3	O
+.	O

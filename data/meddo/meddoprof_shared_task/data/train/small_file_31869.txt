@@ -1,0 +1,18 @@
+
+Se	O
+realizó	O
+una	O
+analítica	O
+sanguínea	O
+cuyos	O
+parámetros	O
+hematológicos	O
+y	O
+bioquímicos	O
+se	O
+encontraban	O
+dentro	O
+de	O
+límites	O
+normales	O
+.	O

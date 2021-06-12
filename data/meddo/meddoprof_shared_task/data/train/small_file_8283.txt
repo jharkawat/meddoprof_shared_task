@@ -1,0 +1,10 @@
+
+Era	O
+hipertenso	O
+,	O
+dislipémico	O
+,	O
+hiperuricémico	O
+y	O
+diabético	O
+.	O

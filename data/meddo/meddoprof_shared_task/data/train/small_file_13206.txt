@@ -1,0 +1,20 @@
+
+La	O
+evolución	O
+fue	O
+buena	O
+y	O
+actualmente	O
+el	O
+paciente	O
+ha	O
+reanudado	O
+su	O
+día	O
+a	O
+día	O
+previo	O
+a	O
+la	O
+enfermedad	O
+.	O

@@ -1,0 +1,13 @@
+
+No	O
+recuerda	O
+última	O
+vacunación	O
+para	O
+tétanos	O
+(	O
+cree	O
+que	O
+al	O
+día	O
+)	O

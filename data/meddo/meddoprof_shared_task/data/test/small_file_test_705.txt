@@ -1,0 +1,22 @@
+
+En	O
+el	O
+año	O
+2000	O
+se	O
+disolvió	O
+el	O
+laboratorio	O
+y	O
+lo	B-PROFESION
+trasladaron	I-PROFESION
+a	I-PROFESION
+la	I-PROFESION
+fábrica	I-PROFESION
+de	I-PROFESION
+mosaicos	I-PROFESION
+donde	O
+estuvo	O
+9	O
+años	O
+.	O

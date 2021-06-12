@@ -1,0 +1,15 @@
+
+Además	O
+comentaba	O
+cefalea	O
+de	O
+larga	O
+evolución	O
+,	O
+pulsátil	O
+y	O
+sin	O
+datos	O
+de	O
+alarma	O
+.	O

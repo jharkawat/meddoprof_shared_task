@@ -1,0 +1,17 @@
+
+No	O
+otros	O
+síntomas	O
+,	O
+sin	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+,	O
+tratamientos	O
+crónicos	O
+ni	O
+hábitos	O
+tóxicos	O
+.	O

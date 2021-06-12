@@ -1,0 +1,9 @@
+
+Hija	O
+con	O
+patología	O
+psiquiátrica	O
+en	O
+proceso	O
+TMG	O
+.	O

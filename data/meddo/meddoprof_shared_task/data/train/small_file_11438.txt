@@ -1,0 +1,14 @@
+
+Tiroides	O
+no	O
+aumentado	O
+de	O
+taman	O
+̃	O
+o	O
+,	O
+sin	O
+nódulos	O
+ni	O
+masas	O
+.	O

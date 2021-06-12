@@ -1,0 +1,18 @@
+
+Enfermedad	O
+de	O
+Whipple	O
+con	O
+afectación	O
+cardiaca	O
+y	O
+digestiva	O
+con	O
+malabsorción	O
+secundaria	O
+y	O
+malnutrición	O
+calórico	O
+-	O
+proteíca	O
+.	O

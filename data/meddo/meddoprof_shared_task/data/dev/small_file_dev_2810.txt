@@ -1,0 +1,20 @@
+
+Trastorno	O
+depresivo	O
+reactivo	O
+a	O
+situación	O
+familiar	O
+y	O
+económica	O
+en	O
+seguimiento	O
+de	O
+forma	O
+ambulatoria	O
+por	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+.	O

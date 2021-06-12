@@ -1,0 +1,6 @@
+
+Amaurosis	O
+del	O
+ojo	O
+izquierdo	O
+.	O

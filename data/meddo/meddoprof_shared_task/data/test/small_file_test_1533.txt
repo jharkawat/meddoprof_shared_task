@@ -1,0 +1,26 @@
+
+Además	O
+,	O
+aparece	O
+un	O
+índice	O
+de	O
+sangrado	O
+muy	O
+superior	O
+al	O
+10	O
+%	O
+,	O
+por	O
+lo	O
+que	O
+el	O
+paciente	O
+recibe	O
+el	O
+diagnóstico	O
+de	O
+gingivitis	O
+generalizada	O
+.	O

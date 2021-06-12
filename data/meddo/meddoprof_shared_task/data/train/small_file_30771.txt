@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+ingresa	O
+en	O
+la	O
+UPR	O
+de	O
+1	O
+de	O
+diciembre	O
+de	O
+2016	O
+a	O
+16	O
+de	O
+febrero	O
+de	O
+2017	O
+.	O

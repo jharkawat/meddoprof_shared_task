@@ -1,0 +1,25 @@
+
+Actualmente	O
+su	O
+estado	O
+civil	O
+es	O
+soltero	O
+,	O
+aunque	O
+tiene	O
+pareja	O
+,	O
+con	O
+la	O
+cual	O
+reside	O
+,	O
+compartiendo	O
+vivienda	O
+en	O
+su	O
+población	O
+de	O
+origen	O
+.	O

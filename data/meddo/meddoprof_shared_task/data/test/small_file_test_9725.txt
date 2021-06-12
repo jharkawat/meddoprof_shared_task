@@ -1,0 +1,11 @@
+
+Se	O
+decide	O
+solicitar	O
+una	O
+biopsia	O
+tipo	O
+tru	O
+-	O
+cut	O
+.	O

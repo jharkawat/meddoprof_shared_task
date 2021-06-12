@@ -1,0 +1,19 @@
+
+1	O
+-	O
+Capnocytophaga	O
+spp	O
+.	O
+:	O
+puede	O
+cursar	O
+como	O
+sepsis	O
+fulminante	O
+o	O
+meningitis	O
+linfocitaria	O
+en	O
+pacientes	O
+inmunodeprimidos	O
+.	O

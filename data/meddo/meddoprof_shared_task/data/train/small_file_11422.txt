@@ -1,0 +1,14 @@
+
+Intervenido	O
+en	O
+la	O
+infancia	O
+de	O
+extrofia	O
+vesical	O
+,	O
+portando	O
+bolsa	O
+colectora	O
+permanente	O
+.	O

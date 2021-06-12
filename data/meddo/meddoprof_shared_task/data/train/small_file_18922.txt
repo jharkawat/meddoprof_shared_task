@@ -1,0 +1,10 @@
+
+Lesión	O
+de	O
+tabique	O
+nasal	O
+por	O
+inhalación	O
+de	O
+cocaína	O
+.	O

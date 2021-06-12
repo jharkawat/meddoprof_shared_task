@@ -1,0 +1,27 @@
+
+La	O
+tomografía	O
+por	O
+emisión	O
+de	O
+positrones	O
+-	O
+tomografía	O
+computarizada	O
+muestra	O
+una	O
+captación	O
+patológica	O
+(	O
+SUV	O
+5	O
+,	O
+3	O
+)	O
+en	O
+la	O
+cara	O
+lateral	O
+izquierda	O
+faríngea	O
+.	O

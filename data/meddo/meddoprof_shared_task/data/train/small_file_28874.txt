@@ -1,0 +1,9 @@
+
+Su	O
+adherencia	O
+al	O
+tratamiento	O
+ha	O
+sido	O
+errática	O
+.	O

@@ -1,0 +1,14 @@
+
+Tratamiento	O
+habitual	O
+:	O
+Efficib	O
+50	O
+,	O
+atorvastatina	O
+40	O
+mg	O
+uno	O
+al	O
+día	O
+.	O

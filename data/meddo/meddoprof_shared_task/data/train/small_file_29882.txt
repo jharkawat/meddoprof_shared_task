@@ -1,0 +1,21 @@
+
+Actualmente	O
+,	O
+el	O
+paciente	O
+continúa	O
+con	O
+una	O
+dosis	O
+de	O
+clozapina	O
+de	O
+500	O
+mg	O
+:	O
+1	O
+-	O
+1	O
+-	O
+3	O
+.	O

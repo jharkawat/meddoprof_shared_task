@@ -1,0 +1,21 @@
+
+Debido	O
+a	O
+la	O
+patología	O
+vascular	O
+cerebral	O
+que	O
+presentaba	O
+el	O
+paciente	O
+se	O
+asoció	O
+además	O
+tratamiento	O
+antiagregante	O
+con	O
+triflusal	O
+300	O
+mg	O
+.	O

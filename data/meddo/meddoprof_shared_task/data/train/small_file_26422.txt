@@ -1,0 +1,27 @@
+
+No	O
+quería	O
+ir	O
+al	O
+colegio	O
+,	O
+no	O
+quería	O
+estar	O
+con	O
+su	O
+madre	O
+y	O
+quería	O
+un	O
+peluche	O
+que	O
+había	O
+visto	O
+para	O
+cuidar	O
+el	O
+alma	O
+de	O
+Pablito	O
+.	O

@@ -1,0 +1,10 @@
+
+Resto	O
+del	O
+examen	O
+físico	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

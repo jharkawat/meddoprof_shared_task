@@ -1,0 +1,24 @@
+
+Trabajó	O
+como	O
+profesora	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+misma	I-PROFESION
+escuela	I-PROFESION
+toda	O
+su	O
+vida	O
+.	O
+era	O
+una	O
+persona	O
+alegre	O
+y	O
+optimista	O
+,	O
+solidaria	O
+con	O
+la	O
+gente	O
+.	O

@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+afirma	O
+contacto	O
+con	O
+conejos	O
+y	O
+hámster	O
+.	O

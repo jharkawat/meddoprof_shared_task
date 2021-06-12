@@ -1,0 +1,138 @@
+T1	SINTOMA 195 202	Fumador
+T2	SINTOMA 823 829	pT1 G3
+T3	SINTOMA 1509 1527	dolor en la cadera
+T4	SINTOMA 1695 1736	murmullo vesicular globalmente disminuido
+T5	SINTOMA 1738 1757	Abdomen no doloroso
+T6	SINTOMA 1805 1811	edemas
+T7	SINTOMA 1818 1861	dolor a la movilización activa de la cadera
+T8	SINTOMA 2008 2019	neutrofilia
+T9	SINTOMA 2032 2045	trombocitosis
+T10	SINTOMA 3516 3534	dolor de la cadera
+T11	SINTOMA 4279 4290	proteinuria
+T12	SINTOMA 4868 4886	dolor en la cadera
+T13	SINTOMA 5487 5527	deterioro progresivo de la función renal
+T14	SINTOMA 5532 5558	elevación de la creatinina
+T15	SINTOMA 5783 5795	asintomático
+T16	PROCEDIMIENTO 596 640	nefrectomía conservadora de nefronas derecha
+T17	PROCEDIMIENTO 770 773	RTU
+T18	PROCEDIMIENTO 1183 1189	PET-CT
+T19	PROCEDIMIENTO 1196 1219	biopsia dirigida por TC
+T20	PROCEDIMIENTO 1538 1556	Exploración física
+T21	PROCEDIMIENTO 2060 2078	TC toracoabdominal
+T22	PROCEDIMIENTO 2245 2292	nefrectomía radical izquierda y parcial derecha
+T23	PROCEDIMIENTO 2656 2666	RM abdomen
+T24	PROCEDIMIENTO 2912 2914	RM
+T25	PROCEDIMIENTO 2992 2994	TC
+T26	PROCEDIMIENTO 3037 3043	PET-CT
+T27	PROCEDIMIENTO 3555 3567	radioterapia
+T28	PROCEDIMIENTO 3913 3915	TC
+T29	PROCEDIMIENTO 4435 4441	PET-TC
+T30	PROCEDIMIENTO 4507 4513	PET-CT
+T31	PROCEDIMIENTO 5238 5244	PET-CT
+T32	PROCEDIMIENTO 5729 5735	PET-CT
+T33	NEG 35 38	Sin
+T34	NSCO 39 57	interés oncológico
+T35	NEG 85 87	No
+T36	NSCO 88 121	alergias medicamentosas conocidas
+T37	UNC 703 709	claras
+T38	UNC 1436 1443	valorar
+T39	USCO 1444 1465	tratamiento sistémico
+T40	NEG 1580 1583	sin
+T41	NSCO 1584 1603	foco séptico activo
+T42	NEG 1605 1607	No
+T43	NSCO 1608 1654	adenopatías cervicales, axilares ni inguinales
+T44	NEG 1746 1748	no
+T45	NSCO 1749 1757	doloroso
+T46	NEG 1759 1761	no
+T47	NSCO 1762 1779	se accede a masas
+T48	NEG 1801 1804	sin
+T49	NSCO 1805 1811	edemas
+T50	NEG 1871 1873	No
+T51	NSCO 1874 1895	focalidad neurológica
+T52	NEG 2029 2031	no
+T53	NSCO 2032 2045	trombocitosis
+T54	NEG 2079 2082	sin
+T55	NSCO 2083 2092	contraste
+T56	NEG 2113 2116	sin
+T57	NSCO 2117 2146	contraste intravenoso por ERC
+T58	NEG 2294 2297	sin
+T59	NSCO 2298 2322	signos de recidiva local
+T60	UNC 2492 2498	podría
+T61	USCO 2499 2529	ser de carácter postquirúrgico
+T62	NEG 2605 2618	inespecíficas
+T63	NEG 2679 2682	Sin
+T64	NSCO 2683 2692	gadolinio
+T65	UNC 2854 2860	parece
+T66	USCO 2861 2909	haber aumentado levemente de tamaño con respecto
+T67	UNC 3162 3176	compatible con
+T68	USCO 3177 3187	metástasis
+T69	UNC 3283 3289	claras
+T70	NEG 3694 3706	se desestima
+T71	NSCO 3707 3732	tratamiento con sunitinib
+T72	NEG 3916 3919	sin
+T73	NSCO 3920 3929	contraste
+T74	NEG 4028 4030	no
+T75	NSCO 4031 4074	se observa la lesión en polo renal inferior
+T76	NEG 4346 4349	sin
+T77	NSCO 4350 4395	efectos tóxicos importantes con TA<150/90mmHg
+T78	UNC 4598 4604	dudosa
+T79	USCO 4605 4629	significación patológica
+T80	NEG 4652 4654	no
+T81	NSCO 4655 4689	se observan focos hipermetabólicos
+T82	NEG 5305 5308	sin
+T83	NSCO 5309 5342	cambios respecto a estudio previo
+T84	NEG 5436 5438	NO
+T85	NSCO 5439 5477	muestra avidez glicídica significativa
+T86	NEG 5748 5751	Sin
+T87	NSCO 5752 5759	cambios
+T88	NEG 5783 5795	asintomático
+T89	FARMACO 1306 1315	gadolinio
+T90	FARMACO 3723 3732	sunitinib
+T91	FARMACO 3764 3775	bevacizumab
+T92	FARMACO 4216 4227	bevacizumab
+T93	FARMACO 5086 5095	denosumab
+T94	FARMACO 5687 5698	bevacizumab
+T95	FARMACO 5701 5704	IFN
+T96	FARMACO 5718 5727	denosumab
+T97	ORG_VIVO 23 33	familiares
+T98	ORG_VIVO 73 83	personales
+T99	ORG_VIVO 1224 1232	paciente
+T100	ORG_VIVO 3500 3508	paciente
+T101	ORG_VIVO 3945 3953	paciente
+T102	ORG_VIVO 4316 4324	paciente
+T103	ORG_VIVO 5122 5130	paciente
+T104	ORG_VIVO 5764 5772	paciente
+T105	ENFERMEDAD 88 111	alergias medicamentosas
+T106	ENFERMEDAD 340 374	Cardiopatía isquémico-hipertensiva
+T107	ENFERMEDAD 379 382	IAM
+T108	ENFERMEDAD 392 430	Diabetes mellitus insulino-dependiente
+T109	ENFERMEDAD 432 454	EPOC tipo enfisematoso
+T110	ENFERMEDAD 465 496	Aneurisma vascular intracraneal
+T111	ENFERMEDAD 544 559	carcinoma renal
+T112	ENFERMEDAD 682 709	carcinoma de células claras
+T113	ENFERMEDAD 739 756	neoplasia vesical
+T114	ENFERMEDAD 792 821	carcinoma urotelial de vejiga
+T115	ENFERMEDAD 831 855	Enfermedad renal crónica
+T116	ENFERMEDAD 857 860	ERC
+T117	ENFERMEDAD 1020 1080	enfermedad diseminada con recidiva en polo inferior de riñón
+T118	ENFERMEDAD 1099 1120	nódulo pulmonar basal
+T119	ENFERMEDAD 1565 1573	Obesidad
+T120	ENFERMEDAD 1608 1640	adenopatías cervicales, axilares
+T121	ENFERMEDAD 2032 2045	trombocitosis
+T122	ENFERMEDAD 2143 2146	ERC
+T123	ENFERMEDAD 2171 2193	Quiste simple hepático
+T124	ENFERMEDAD 2531 2592	Adenopatías subcentimétricas en tronco celíaco y paraaórticas
+T125	ENFERMEDAD 2697 2700	ERC
+T126	ENFERMEDAD 3056 3075	Nódulo pulmonar LII
+T127	ENFERMEDAD 3077 3109	nódulo en polo inferior de riñón
+T128	ENFERMEDAD 3119 3187	lesiones óseas en rama iliopubiana derecha compatible con metástasis
+T129	ENFERMEDAD 3252 3299	Carcinoma renal mixto (células claras y papilar
+T130	ENFERMEDAD 3342 3428	Carga tumoral: Polor renal inferior derecho, pulmonar en LII, óseo en rama iliopubiana
+T131	ENFERMEDAD 4010 4025	lesión pulmonar
+T132	ENFERMEDAD 4045 4074	lesión en polo renal inferior
+T133	ENFERMEDAD 4265 4276	HTA grado 2
+T134	ENFERMEDAD 4472 4505	enfermedad metabólicamente activa
+T135	ENFERMEDAD 4737 4781	metástasis ósea conocida en rama iliopubiana
+T136	ENFERMEDAD 5366 5406	lesión ósea descrita en rama iliopubiana
+T137	PACIENTE-SITUACION_LABORAL 134 145	Prejubilado
+T138	PACIENTE-PROFESION 146 176	trabajó en cubiertas de tejado

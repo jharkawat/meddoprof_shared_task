@@ -1,0 +1,20 @@
+
+Jubilada	B-SITUACION_LABORAL
+desde	O
+1992	O
+,	O
+año	O
+en	O
+el	O
+que	O
+se	O
+le	O
+dio	O
+la	O
+invalidez	B-SITUACION_LABORAL
+permanente	I-SITUACION_LABORAL
+por	I-SITUACION_LABORAL
+enfermedad	I-SITUACION_LABORAL
+mental	I-SITUACION_LABORAL
+incapacitante	O
+.	O

@@ -1,0 +1,12 @@
+
+Mujer	O
+de	O
+52	O
+años	O
+con	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+desde	O
+1997	O
+.	O

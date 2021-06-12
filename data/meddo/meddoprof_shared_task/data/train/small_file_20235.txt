@@ -1,0 +1,11 @@
+
+Bravo	O
+afirmó	O
+que	O
+ella	O
+nunca	O
+había	O
+probado	O
+ninguna	O
+droga	O
+.	O

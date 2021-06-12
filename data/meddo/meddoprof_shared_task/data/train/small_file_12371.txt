@@ -1,0 +1,23 @@
+
+Pulso	O
+rítmico	O
+a	O
+110	O
+latidos	O
+por	O
+minuto	O
+(	O
+lpm	O
+)	O
+,	O
+Presión	O
+arterial	O
+sistólica	O
+/	O
+diastólica	O
+de	O
+84	O
+/	O
+42	O
+mmHg	O
+.	O

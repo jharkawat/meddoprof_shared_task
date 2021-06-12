@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+exploración	O
+neurológica	O
+complementaria	O
+(	O
+TAC	O
+,	O
+RMN	O
+,	O
+EEG	O
+,	O
+analítica	O
+general	O
+)	O
+,	O
+sin	O
+hallazgos	O
+de	O
+interés	O
+.	O

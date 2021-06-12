@@ -1,0 +1,16 @@
+T1	SANITARIO 638 641	Dr.
+T2	SANITARIO 618 624	Médico
+T3	SANITARIO 770 785	Médico Cirujano
+T6	SANITARIO 659 674	médico familiar
+T13	SANITARIO 2812 2827	médico familiar
+T15	SANITARIO 12541 12558	médico particular
+T16	SANITARIO 12740 12746	médico
+T17	PACIENTE 434 444	estudiante
+T18	OTROS 726 736	estudiante
+T7	SANITARIO 2325 2336	facultativo
+T8	SANITARIO 2771 2782	facultativo
+T9	PACIENTE 8785 8809	estudiar el bachillerato
+T10	PACIENTE 8522 8551	Asiste en las mañanas a nadar
+T11	PACIENTE 8638 8680	gusta de practicar deportes de alto riesgo
+T12	SANITARIO 9810 9820	ginecólogo
+T14	SANITARIO 9953 9967	ginecoobstetra

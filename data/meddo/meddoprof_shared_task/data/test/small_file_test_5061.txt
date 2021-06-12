@@ -1,0 +1,8 @@
+
+-	O
+Carcinoma	O
+epidermoide	O
+de	O
+pulmón	O
+T3N0M1b	O
+.	O

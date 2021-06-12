@@ -1,0 +1,13 @@
+
+Se	O
+realizó	O
+una	O
+analítica	O
+que	O
+descartó	O
+alteraciones	O
+secundarias	O
+a	O
+la	O
+carbamazepina	O
+.	O

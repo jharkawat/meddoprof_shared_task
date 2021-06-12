@@ -1,0 +1,10 @@
+
+En	O
+la	O
+gasometría	O
+venosa	O
+se	O
+objetiva	O
+acidosis	O
+metabólica	O
+.	O

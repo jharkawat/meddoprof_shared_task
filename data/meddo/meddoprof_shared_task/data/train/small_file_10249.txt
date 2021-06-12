@@ -1,0 +1,27 @@
+
+Además	O
+dolor	O
+en	O
+tobillos	O
+,	O
+rodillas	O
+,	O
+mun	O
+̃	O
+ecas	O
+;	O
+y	O
+sensación	O
+de	O
+acorchamiento	O
+en	O
+manos	O
+y	O
+antebrazos	O
+con	O
+edemas	O
+en	O
+manos	O
+y	O
+pies	O
+.	O

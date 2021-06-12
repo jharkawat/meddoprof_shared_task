@@ -1,0 +1,10 @@
+
+Tuvo	O
+una	O
+pericarditis	O
+aguda	O
+en	O
+marzo	O
+de	O
+2013	O
+.	O

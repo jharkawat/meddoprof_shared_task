@@ -1,0 +1,27 @@
+
+La	O
+lesión	O
+presenta	O
+amplio	O
+contacto	O
+con	O
+el	O
+tercio	O
+superior	O
+esofágico	O
+y	O
+contacta	O
+con	O
+el	O
+cayado	O
+aórtico	O
+y	O
+1o	O
+,	O
+2o	O
+,	O
+3o	O
+arcos	O
+costales	O
+izquierdos	O
+.	O

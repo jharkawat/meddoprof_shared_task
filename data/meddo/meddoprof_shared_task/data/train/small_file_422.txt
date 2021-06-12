@@ -1,0 +1,14 @@
+
+Con	O
+el	O
+equipo	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+especialidad	I-PROFESION
+habló	O
+de	O
+sus	O
+otros	O
+antecedentes	O
+traumáticos	O
+.	O

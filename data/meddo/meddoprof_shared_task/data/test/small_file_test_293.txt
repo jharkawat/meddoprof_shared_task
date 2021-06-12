@@ -1,0 +1,8 @@
+
+(	O
+derecha	O
+)	O
+;	O
+95	O
+cm	O
+.	O

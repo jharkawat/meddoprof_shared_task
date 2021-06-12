@@ -1,0 +1,17 @@
+
+Tiene	O
+una	O
+hija	O
+de	O
+19	O
+años	O
+,	O
+dada	O
+en	O
+adopción	O
+a	O
+los	O
+8	O
+por	O
+retirada	O
+.	O

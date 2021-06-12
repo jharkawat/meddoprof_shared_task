@@ -1,0 +1,14 @@
+
+Volvimos	O
+a	O
+citar	O
+al	O
+paciente	O
+en	O
+seguimiento	O
+bimensual	O
+en	O
+consultas	O
+de	O
+enfermería	O
+.	O

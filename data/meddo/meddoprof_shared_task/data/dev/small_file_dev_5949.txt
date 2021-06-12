@@ -1,0 +1,12 @@
+
+Cortisol	O
+21	O
+pm	O
+:	O
+37	O
+,	O
+25	O
+μg	O
+/	O
+dl	O
+.	O

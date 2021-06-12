@@ -1,0 +1,13 @@
+
+Se	O
+realizó	O
+endoscopia	O
+oral	O
+que	O
+mostró	O
+varices	O
+esofágicas	O
+de	O
+pequeño	O
+tamaño	O
+.	O

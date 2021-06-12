@@ -1,0 +1,18 @@
+
+Ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+,	O
+con	O
+padre	O
+fallecido	O
+por	O
+adenocarcinoma	O
+de	O
+próstata	O
+como	O
+único	O
+antecedente	O
+familiar	O
+oncológico	O
+.	O

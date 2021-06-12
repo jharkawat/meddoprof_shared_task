@@ -1,0 +1,19 @@
+
+Tiene	O
+caballos	O
+,	O
+perros	O
+y	O
+gallinas	O
+en	O
+una	O
+finca	O
+familiar	O
+a	O
+la	O
+que	O
+acude	O
+en	O
+contadas	O
+ocasiones	O
+.	O

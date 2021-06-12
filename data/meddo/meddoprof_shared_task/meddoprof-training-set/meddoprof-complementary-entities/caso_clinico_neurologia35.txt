@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 69 años, exfumador y bebedor escaso de vino, sin otros hábitos tóxicos, hipertensión arterial, fibrilación auricular paroxística, diabetes mellitus de tipo 2 conocida desde hace 18 años sin complicaciones microangiopáticas y anticuerpos para virus de la hepatitis C con antígeno de superficie no infeccioso. Jubilado; trabajó en la construcción sin contacto con tóxicos. En tratamiento con antidiabéticos orales. Antecedentes familiares: madre fallecida a los 77 años, en silla de ruedas. Cuatro hermanos (padres no cosanguíneos): mujer de 52 años y varón de 65 años, sanos; varón fallecido con 66 años por un tumor cerebral; varón de 63 años con un linfoma. Tío por parte materna fallecido joven, en silla de ruedas. Un primo precisó un trasplante hepático. Consultó en Neurología porque desde 2009 presentaba hormigueos en las manos y los pies acompañados de hipoestesia, así como sensación de pies fríos, pautándose gabapentina. En una consulta posterior, el paciente aquejaba dificultad para caminar con pérdida de fuerza de predominio en las extremidades inferiores, alguna caída "por tropiezo" y dificultad para levantarse de las sillas. No refería clínica sistémica. Tras la exploración neurológica y el electromiograma, el paciente fue diagnosticado de una polineuropatía desmielinizante inflamatoria crónica (CIDP), recibiendo tratamiento con cuatro ciclos de inmunoglobulinas, aunque con ausencia de respuesta. A la clínica expuesta se sumó una quemadura en la mano izquierda por falta de sensibilidad termoalgésica y se replanteó el diagnóstico.
+
+Examen físico
+Auscultación cardiaca: tonos arrítmicos. Auscultación pulmonar normal. Exploración neurológica: lenguaje normal. Funciones superiores conservadas. Pares craneales normales. Atrofia importante de cuádriceps y gemelos, y de interóseos y eminencias tenares en ambas manos. Fuerza segmentaria: flexión cervical a 4/5, extensión a 5–/5, deltoides a 4/5, tríceps y bíceps a 4/5, extensores de la muñeca a 4–/5, flexores a 4/5, interóseos a 2–/5, aductor I dedo a 2/5, psoas y cuádriceps a 4/5 bilateral, bíceps femoral a 4/5, tibial anterior a 2/5 bilateral. Anestesia desde rodillas a distal, parestesias desde rodillas a distal y en guante. Sensibilidad vibratoria abolida en las extremidades superiores y levemente disminuida en las extremidades inferiores. No discrimina frío/calor en las manos. Arreflexia universal. Coordinación normal. Marcha con pie caído bilateral y evidente debilidad de la cintura pélvica. Imposibilidad de marcha de puntillas y de talones, así como en tándem. Romberg negativo.
+
+Pruebas complementarias
+• Analítica: bioquímica general (perfil renal, hepático e iones) normal, salvo glucemia 130 mg/dl. Hemograma, perfil lipídico, metabolismo férrico (salvo ferritina 629 ng/ml), vitamina B12 y ácido fólico, hormonas tiroideas, proteinograma e inmunoelectroforesis normales. Serologías: HBsAg, antiHBc y antiHBs, positivos; sífilis, Borrelia, VIH, negativos. Autoinmunidad: anticuerpos antineuronales, antigangliósidos, ENA, ANA, ANCA, crioglobulinas, negativos; factor reumatoide e inmunoglobulinas normales.
+• Líquido cefalorraquídeo: 3 células/mm3, glucorraquia 73 mg/dl, proteinorraquia 61,4 mg/ dl. Cultivos convencional y de incubación prolongada negativos. Citología: acelular.
+• Tomografía computarizada (TC) tóraco-abdómino-pélvica: normal.
+• Radiografía de tórax: sin alteraciones de interés.
+• Electromiograma: ausencia de potenciales sensitivos en las extremidades superiores e inferiores. Alargamiento de la latencia distal motora en los nervios medianos y cubitales con disminución de velocidad motora. Bloqueo motor mediano izquierdo en el antebrazo con disminución de amplitud del 53%. Ausencia de potencial motor en los peroneos y tibiales posteriores. Denervación en gemelos, recto, tibial anterior, abductor corto del pulgar y flexor cubital del carpo derechos con patrones al máximo esfuerzo reducidos neurógenos. Compatible con polineuropatía sensitivo motora axonal, con datos de desmielinización.
+• Biopsia de nervio sural: no inflamación ni depósito de amiloide. Pérdida casi total de fibras mielinizadas.
+• Ecocardiografía transtorácica: miocardiopatía hipertrófica concéntrica grave del ventrículo izquierdo, con función sistólica conservada y disfunción diastólica. Hipertensión pulmonar ligera.
+• Resonancia magnética cardiaca: ventrículo izquierdo no dilatado, con función sistólica conservada y sin alteraciones de la contractilidad. Hipertrofia concéntrica de predominio septal. Ventrículo derecho no dilatado con función conservada. Con contraste, realce subendocárdico. Estudio sugestivo de miocardiopatía infiltrante.
+• Electrocardiograma: fibrilación auricular.
+• Estudio genético: estudio molecular de amiloidosis familiar en sangre: mutación valina- 30-metionina en el exón 2 del gen de la transtirretina.
+
+Diagnóstico
+Polineuropatía amiloidótica familiar por mutación de la transtirretina (PAF-TTR) a nivel de Val30Met en el gen de la TTR. Miocardiopatía hipertrófica secundaria.
+
+Tratamiento
+Sintomático.
+
+Evolución
+En estos momentos se está procediendo al estudio genético de los hermanos del paciente. El enfermo no podrá beneficiarse del tafamidis ni del trasplante hepático.

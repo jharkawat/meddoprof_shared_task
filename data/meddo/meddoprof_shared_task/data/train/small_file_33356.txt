@@ -1,0 +1,14 @@
+
+Instruir	O
+al	O
+paciente	O
+sobre	O
+métodos	O
+que	O
+disminuyan	O
+la	O
+ansiedad	O
+,	O
+según	O
+corresponda	O
+.	O

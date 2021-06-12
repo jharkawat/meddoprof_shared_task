@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+presentaba	O
+regular	O
+estado	O
+general	O
+en	O
+relación	O
+a	O
+hábito	O
+asténico	O
+.	O

@@ -1,0 +1,13 @@
+
+Antecedentes	O
+médicos	O
+:	O
+parto	O
+prematuro	O
+y	O
+retraso	O
+en	O
+el	O
+desarrollo	O
+psicomotor	O
+.	O

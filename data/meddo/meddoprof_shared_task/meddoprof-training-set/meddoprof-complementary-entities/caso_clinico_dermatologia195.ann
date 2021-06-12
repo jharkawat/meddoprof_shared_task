@@ -1,0 +1,38 @@
+T1	PROCEDIMIENTO 348 366	Exploración física
+T2	PROCEDIMIENTO 1020 1035	biopsia cutánea
+T3	NEG 247 249	No
+T4	NSCO 250 284	tomaba fármacos de manera habitual
+T5	NEG 287 294	tampoco
+T6	NSCO 295 345	refería antecedentes de lesiones genitales previas
+T7	NEG 599 601	No
+T8	NSCO 602 664	presentaba lesiones en otras localizaciones de piel ni mucosas
+T9	NEG 1006 1015	negativas
+T10	NEG 1434 1436	no
+T11	NSCO 1437 1477	mostraban restricción de cadenas ligeras
+T12	NEG 1924 1926	no
+T13	NSCO 1927 1933	volvió
+T14	FARMACO 235 245	ampicilina
+T15	FARMACO 1710 1732	penicilina G benzatina
+T16	ORG_VIVO 10 15	Mujer
+T17	ORG_VIVO 32 38	pareja
+T18	ORG_VIVO 97 124	médico de atención primaria
+T19	ORG_VIVO 199 209	personales
+T20	ORG_VIVO 821 825	TPHA
+T21	ORG_VIVO 836 854	Treponema pallidum
+T22	ORG_VIVO 901 918	virus hepatitis B
+T23	ORG_VIVO 920 923	HBs
+T24	ORG_VIVO 937 940	HBc
+T25	ORG_VIVO 943 960	virus hepatitis C
+T26	ORG_VIVO 970 973	VHC
+T27	ORG_VIVO 977 980	VIH
+T28	ORG_VIVO 990 993	VIH
+T29	ORG_VIVO 1501 1514	antitreponema
+T30	ORG_VIVO 1539 1551	espiroquetas
+T31	ORG_VIVO 1915 1923	paciente
+T32	ORG_VIVO 2017 2023	pareja
+T33	ENFERMEDAD 129 150	lesiones en genitales
+T34	ENFERMEDAD 225 245	alergia a ampicilina
+T35	ENFERMEDAD 319 337	lesiones genitales
+T36	ENFERMEDAD 514 597	lesiones se localizaban preferentemente en labios mayores, periné y región perianal
+T37	ENFERMEDAD 1626 1644	sífilis secundaria
+T38	SANITARIO-PROFESION 97 124	médico de atención primaria

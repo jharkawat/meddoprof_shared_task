@@ -1,0 +1,17 @@
+
+Cuando	O
+se	O
+le	O
+preguntaba	O
+por	O
+el	O
+niño	O
+,	O
+decía	O
+que	O
+todo	O
+estaba	O
+en	O
+los	O
+informes	O
+.	O

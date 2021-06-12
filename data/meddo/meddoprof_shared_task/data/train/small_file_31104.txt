@@ -1,0 +1,25 @@
+
+El	O
+primero	O
+se	O
+produce	O
+a	O
+los	O
+33	O
+años	O
+de	O
+edad	O
+,	O
+tras	O
+haber	O
+realizado	O
+un	O
+intento	O
+autolítico	O
+mediante	O
+ingesta	O
+de	O
+un	O
+agente	O
+corrosivo	O
+.	O

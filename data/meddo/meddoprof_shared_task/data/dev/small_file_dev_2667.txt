@@ -1,0 +1,11 @@
+
+Es	O
+el	O
+tercero	O
+de	O
+una	O
+fratría	O
+de	O
+tres	O
+hermanos	O
+.	O

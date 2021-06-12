@@ -1,0 +1,26 @@
+
+En	O
+planta	O
+de	O
+cardiología	O
+evoluciona	O
+favorablemente	O
+tras	O
+inicio	O
+de	O
+tratamiento	O
+de	O
+insuficiencia	O
+cardiaca	O
+(	O
+furosemida	O
+,	O
+ramipril	O
+,	O
+bisoprolol	O
+)	O
+,	O
+manteniéndose	O
+hemodinámicamente	O
+estable	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+el	O
+caso	O
+concreto	O
+de	O
+las	O
+manías	O
+reactivas	O
+podemos	O
+decir	O
+que	O
+son	O
+cuadros	O
+que	O
+suelen	O
+carecer	O
+de	O
+importancia	O
+clínica	O
+pues	O
+no	O
+suelen	O
+alcanzar	O
+proporciones	O
+anormales	O
+.	O

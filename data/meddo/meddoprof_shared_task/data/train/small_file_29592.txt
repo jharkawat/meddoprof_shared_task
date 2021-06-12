@@ -1,0 +1,17 @@
+
+En	O
+2014	O
+,	O
+solicita	O
+ingreso	O
+de	O
+forma	O
+voluntaria	O
+y	O
+urgente	O
+porque	O
+se	O
+siente	O
+muy	O
+angustiado	O
+.	O

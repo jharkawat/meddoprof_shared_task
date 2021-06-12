@@ -1,0 +1,13 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+RM	O
+no	O
+reveló	O
+compresión	O
+radicular	O
+ni	O
+medular	O
+.	O

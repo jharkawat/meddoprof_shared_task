@@ -1,0 +1,21 @@
+
+En	O
+abril	O
+de	O
+2006	O
+,	O
+se	O
+realizó	O
+extirpación	O
+del	O
+lóbulo	O
+caudado	O
+hepático	O
+por	O
+metástasis	O
+de	O
+carcinoma	O
+adenoide	O
+quístico	O
+pulmonar	O
+.	O

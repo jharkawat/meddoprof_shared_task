@@ -1,0 +1,17 @@
+
+Se	O
+aprecia	O
+como	O
+la	O
+cúpula	O
+diafragmática	O
+derecha	O
+se	O
+encuentra	O
+sobreelevada	O
+con	O
+respecto	O
+a	O
+su	O
+contralateral	O
+.	O

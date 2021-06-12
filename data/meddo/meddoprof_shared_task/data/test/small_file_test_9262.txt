@@ -1,0 +1,13 @@
+
+Se	O
+realiza	O
+biopsia	O
+que	O
+muestra	O
+la	O
+presencia	O
+de	O
+carcinoma	O
+pobremente	O
+diferenciado	O
+.	O

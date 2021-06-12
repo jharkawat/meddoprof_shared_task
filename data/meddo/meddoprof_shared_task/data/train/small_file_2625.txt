@@ -1,0 +1,16 @@
+
+Pendiente	O
+de	O
+realizar	O
+POC	O
+con	O
+cereal	O
+sin	O
+gluten	O
+a	O
+partir	O
+de	O
+los	O
+15	O
+meses	O
+.	O

@@ -1,0 +1,14 @@
+
+En	O
+el	O
+mediastino	O
+persiste	O
+una	O
+adenopatía	O
+infracarinal	O
+y	O
+las	O
+paratraqueales	O
+han	O
+desaparecido	O
+.	O

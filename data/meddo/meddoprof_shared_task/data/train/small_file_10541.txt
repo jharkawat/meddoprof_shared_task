@@ -1,0 +1,6 @@
+
+TPTA	O
+26	O
+,	O
+4seg	O
+.	O

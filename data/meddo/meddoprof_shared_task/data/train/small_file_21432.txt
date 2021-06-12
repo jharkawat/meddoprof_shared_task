@@ -1,0 +1,24 @@
+
+Está	B-SITUACION_LABORAL
+estudiando	I-SITUACION_LABORAL
+Enfermería	O
+,	O
+porque	O
+las	O
+calificaciones	O
+que	O
+obtuvo	O
+en	O
+el	O
+examen	O
+de	O
+acceso	O
+a	O
+la	O
+Universidad	O
+no	O
+le	O
+permitieron	O
+estudiar	O
+Medicina	O
+.	O

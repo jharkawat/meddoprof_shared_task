@@ -1,0 +1,7 @@
+
+TAC	O
+de	O
+abdomen	O
+sin	O
+hallazgos	O
+.	O

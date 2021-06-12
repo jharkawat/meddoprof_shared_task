@@ -1,0 +1,18 @@
+
+Actualmente	O
+,	O
+el	O
+paciente	O
+realiza	O
+tratamiento	O
+con	O
+clozapina	O
+400	O
+mg	O
+/	O
+día	O
+y	O
+no	O
+presenta	O
+discinesias	O
+.	O

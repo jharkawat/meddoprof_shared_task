@@ -1,0 +1,13 @@
+
+Exploración	O
+psicopatológica	O
+y	O
+seguimiento	O
+en	O
+consulta	O
+del	O
+paciente	O
+y	O
+sus	O
+familiares	O
+.	O

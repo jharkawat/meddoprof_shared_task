@@ -1,0 +1,10 @@
+
+No	O
+había	O
+historia	O
+de	O
+enfermedades	O
+crónico	O
+-	O
+degenerativas	O
+.	O

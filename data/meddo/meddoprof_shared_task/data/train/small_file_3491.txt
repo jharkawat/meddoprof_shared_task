@@ -1,0 +1,7 @@
+
+Nivel	O
+socio	O
+-	O
+cultural	O
+medio	O
+.	O

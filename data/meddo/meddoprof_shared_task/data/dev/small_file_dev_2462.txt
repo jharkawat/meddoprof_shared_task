@@ -1,0 +1,24 @@
+
+Dado	O
+el	O
+mantenimiento	O
+de	O
+la	O
+hipertermia	O
+y	O
+valores	O
+CPK	O
+en	O
+aumento	O
+(	O
+llegando	O
+hasta	O
+27000	O
+)	O
+se	O
+procede	O
+al	O
+traslado	O
+a	O
+UCI	O
+.	O

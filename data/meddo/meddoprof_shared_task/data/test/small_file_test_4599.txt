@@ -1,0 +1,20 @@
+
+Fumador	O
+y	O
+bebedor	O
+importante	O
+hasta	O
+el	O
+diagnóstico	O
+del	O
+VIH	O
+(	O
+aproximadamente	O
+diez	O
+años	O
+antes	O
+del	O
+cuadro	O
+actual	O
+)	O
+.	O

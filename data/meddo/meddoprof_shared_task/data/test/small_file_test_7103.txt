@@ -1,0 +1,19 @@
+
+»	O
+Grasa	O
+mediastínica	O
+anterior	O
+sustituida	O
+por	O
+tejido	O
+de	O
+partes	O
+blandas	O
+:	O
+valorar	O
+recidiva	O
+tumoral	O
+o	O
+rebote	O
+tímico	O
+.	O

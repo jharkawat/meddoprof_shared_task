@@ -1,0 +1,25 @@
+
+Nueva	O
+ecografía	O
+abdominal	O
+:	O
+gran	O
+lesión	O
+quística	O
+con	O
+algunos	O
+septos	O
+en	O
+su	O
+interior	O
+,	O
+de	O
+probable	O
+origen	O
+ovárico	O
+que	O
+ocupa	O
+todo	O
+el	O
+abdomen	O
+.	O

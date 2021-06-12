@@ -1,0 +1,17 @@
+
+A	O
+la	O
+exploración	O
+en	O
+Urgencias	O
+presentaba	O
+buen	O
+estado	O
+general	O
+,	O
+encontrándose	O
+afebril	O
+y	O
+hemodinámicamente	O
+estable	O
+.	O

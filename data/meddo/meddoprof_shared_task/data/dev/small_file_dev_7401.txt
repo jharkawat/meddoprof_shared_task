@@ -1,0 +1,24 @@
+
+Se	O
+realizó	O
+técnica	O
+histoquímica	O
+de	O
+PAS	O
+y	O
+describiéndose	O
+en	O
+el	O
+informe	O
+un	O
+infiltrado	O
+inflamatorio	O
+crónico	O
+perivascular	O
+e	O
+intersticial	O
+y	O
+sin	O
+identificarse	O
+hongos	O
+.	O

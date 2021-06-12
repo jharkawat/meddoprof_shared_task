@@ -1,0 +1,22 @@
+
+Se	O
+refuerza	O
+tratamiento	O
+con	O
+antipsicóticos	O
+,	O
+presentando	O
+el	O
+paciente	O
+mejoría	O
+de	O
+la	O
+sintomatología	O
+productiva	O
+pero	O
+con	O
+escasa	O
+remisión	O
+de	O
+síntomas	O
+.	O

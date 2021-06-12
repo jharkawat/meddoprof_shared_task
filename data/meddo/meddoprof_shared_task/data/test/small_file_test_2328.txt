@@ -1,0 +1,12 @@
+
+Se	O
+decide	O
+el	O
+alta	O
+a	O
+su	O
+domicilio	O
+con	O
+ácido	O
+valproico	O
+.	O

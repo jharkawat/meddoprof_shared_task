@@ -1,0 +1,14 @@
+
+Ha	O
+presentado	O
+conductas	O
+de	O
+hiperactividad	O
+y	O
+heteroagresividad	O
+física	O
+y	O
+verbal	O
+hacia	O
+familiares	O
+.	O

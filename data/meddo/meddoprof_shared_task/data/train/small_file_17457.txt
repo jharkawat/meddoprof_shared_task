@@ -1,0 +1,8 @@
+
+No	O
+se	O
+encuentran	O
+otros	O
+hallazgos	O
+reseñables	O
+.	O

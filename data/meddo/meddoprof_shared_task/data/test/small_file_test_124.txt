@@ -1,0 +1,6 @@
+
+Rara	O
+vez	O
+come	O
+postre	O
+.	O

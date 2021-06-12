@@ -1,0 +1,10 @@
+
+Ceguera	O
+en	O
+ojo	O
+izquierdo	O
+con	O
+reacción	O
+pupilar	O
+lenta	O
+.	O

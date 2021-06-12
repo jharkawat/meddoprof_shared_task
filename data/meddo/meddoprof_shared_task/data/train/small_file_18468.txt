@@ -1,0 +1,11 @@
+
+En	O
+consecuencia	O
+se	O
+le	O
+indicó	O
+hospitalización	O
+TEC	O
+y	O
+Tioridazina	O
+.	O

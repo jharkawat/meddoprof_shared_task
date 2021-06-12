@@ -1,0 +1,19 @@
+
+El	O
+padre	O
+ve	O
+a	O
+su	O
+hijo	O
+con	O
+más	O
+frecuencia	O
+que	O
+las	O
+pautadas	O
+en	O
+el	O
+régimen	O
+de	O
+visitas	O
+.	O

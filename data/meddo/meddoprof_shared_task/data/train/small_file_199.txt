@@ -1,0 +1,27 @@
+
+Durante	O
+los	O
+siguientes	O
+7	O
+días	O
+,	O
+a	O
+pesar	O
+de	O
+fisioterapia	O
+rutinaria	O
+,	O
+el	O
+paciente	O
+no	O
+logró	O
+recuperarse	O
+totalmente	O
+,	O
+con	O
+debilidad	O
+en	O
+las	O
+extremidades	O
+inferiores	O
+.	O

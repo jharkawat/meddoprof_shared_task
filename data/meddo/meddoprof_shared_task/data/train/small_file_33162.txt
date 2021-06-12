@@ -1,0 +1,12 @@
+
+Antecedentes	O
+médicos	O
+:	O
+sin	O
+alergias	O
+medicamentosas	O
+ni	O
+hábitos	O
+tóxicos	O
+conocidos	O
+.	O

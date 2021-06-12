@@ -1,0 +1,14 @@
+
+Ánimo	O
+depresivo	O
+,	O
+anhedonia	O
+,	O
+apatía	O
+y	O
+sentimiento	O
+de	O
+minusvalía	O
+e	O
+incapacidad	O
+.	O

@@ -1,0 +1,16 @@
+
+En	O
+el	O
+desarrollo	O
+psicomotor	O
+se	O
+describe	O
+retraso	O
+en	O
+la	O
+deambulación	O
+hasta	O
+los	O
+24	O
+meses	O
+.	O

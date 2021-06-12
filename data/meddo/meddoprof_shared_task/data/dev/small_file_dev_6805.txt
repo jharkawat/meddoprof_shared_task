@@ -1,0 +1,19 @@
+
+No	O
+ha	O
+presentado	O
+complicaciones	O
+derivadas	O
+del	O
+tratamiento	O
+antibiótico	O
+y	O
+mantiene	O
+reactantes	O
+de	O
+fase	O
+aguda	O
+en	O
+rango	O
+normal	O
+.	O

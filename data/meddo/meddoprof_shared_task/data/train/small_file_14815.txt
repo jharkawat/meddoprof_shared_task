@@ -1,0 +1,22 @@
+
+Valorada	O
+por	O
+Ginecología	O
+,	O
+se	O
+descarta	O
+patología	O
+ginecológica	O
+aguda	O
+y	O
+se	O
+decide	O
+ingreso	O
+a	O
+cargo	O
+de	O
+Cirugía	O
+General	O
+para	O
+estudio	O
+.	O

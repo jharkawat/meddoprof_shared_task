@@ -1,0 +1,7 @@
+
+Hipotiroidismo	O
+central	O
+en	O
+el	O
+contexto	O
+.	O

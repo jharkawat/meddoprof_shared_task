@@ -1,0 +1,5 @@
+
+Estaba	O
+cognitivamente	O
+intacta	O
+.	O

@@ -1,0 +1,7 @@
+
+Buena	O
+frecuencia	O
+cardiaca	O
+y	O
+respiratoria	O
+.	O

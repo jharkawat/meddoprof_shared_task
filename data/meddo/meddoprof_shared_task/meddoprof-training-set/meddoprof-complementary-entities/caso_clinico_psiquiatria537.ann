@@ -1,0 +1,76 @@
+T1	SINTOMA 169 184	insomnio global
+T2	SINTOMA 349 358	orientada
+T3	SINTOMA 366 382	alopsíquicamente
+T4	SINTOMA 412 421	irritable
+T5	SINTOMA 722 749	Insomnio global persistente
+T6	SINTOMA 864 872	angustia
+T7	SINTOMA 1001 1021	discurso incoherente
+T8	SINTOMA 1360 1394	alteraciones de la sensopercepción
+T9	SINTOMA 1412 1435	alucinaciones auditivas
+T10	SINTOMA 1472 1488	ideas delirantes
+T11	SINTOMA 1864 1872	insomnio
+T12	SINTOMA 1892 1903	refractario
+T13	SINTOMA 3508 3516	acatisia
+T14	PROCEDIMIENTO 2201 2210	hemograma
+T15	PROCEDIMIENTO 2246 2276	estudio de la función tiroidea
+T16	PROCEDIMIENTO 2915 2940	Terapia Electroconvulsiva
+T17	PROCEDIMIENTO 3463 3484	tratamiento hipnótico
+T18	NEG 125 133	negativa
+T19	NSCO 134 166	rotunda a la toma de tratamiento
+T20	NEG 422 425	sin
+T21	NSCO 426 454	llegar a una disforia franca
+T22	NEG 476 487	incoherente
+T23	UNC 674 687	Impresiona de
+T24	USCO 688 720	actividad alucinatoria constante
+T25	NEG 1010 1021	incoherente
+T26	NEG 1188 1191	sin
+T27	NSCO 1192 1231	dejar profundizar más en la exploración
+T28	UNC 1342 1355	muy evidentes
+T29	USCO 1356 1394	las alteraciones de la sensopercepción
+T30	NEG 1956 1958	no
+T31	NSCO 1959 1975	quedarse dormida
+T32	UNC 2365 2376	Orientación
+T33	NEG 2649 2660	ausencia de
+T34	NSCO 2661 2670	respuesta
+T35	NEG 3165 3178	se retiran de
+T36	NSCO 3179 3222	forma progresiva el resto de antipsicóticos
+T37	NEG 3410 3418	retirada
+T38	NSCO 3419 3484	paulatina de prácticamente la totalidad del tratamiento hipnótico
+T39	NEG 3858 3861	sin
+T40	NSCO 3862 3873	incidencias
+T41	FARMACO 2145 2154	clozapina
+T42	FARMACO 2828 2833	litio
+T43	FARMACO 3142 3151	clozapina
+T44	FARMACO 3238 3247	clozapina
+T45	FARMACO 4117 4126	clozapina
+T46	FARMACO 4209 4218	clozapina
+T47	FARMACO 4236 4241	litio
+T48	FARMACO 4257 4279	clorazepato dipotásico
+T49	FARMACO 4298 4307	midazolam
+T50	FARMACO 4423 4432	clozapina
+T51	ORG_VIVO 0 8	Paciente
+T52	ORG_VIVO 42 52	familiares
+T53	ORG_VIVO 54 59	madre
+T54	ORG_VIVO 62 69	hermana
+T55	ORG_VIVO 242 249	vecinos
+T56	ORG_VIVO 654 661	vecinos
+T57	ORG_VIVO 754 762	paciente
+T58	ORG_VIVO 1236 1244	paciente
+T59	ORG_VIVO 1794 1802	paciente
+T60	ORG_VIVO 1943 1951	paciente
+T61	ORG_VIVO 2958 2966	paciente
+T62	ORG_VIVO 3030 3037	familia
+T63	ORG_VIVO 3294 3302	paciente
+T64	ORG_VIVO 3664 3672	paciente
+T65	ORG_VIVO 3890 3898	paciente
+T66	ORG_VIVO 3931 3939	paciente
+T67	ORG_VIVO 3945 3952	familia
+T68	ORG_VIVO 4346 4356	psiquiatra
+T69	ORG_VIVO 4373 4381	paciente
+T70	ORG_VIVO 4541 4549	paciente
+T71	ENFERMEDAD 2390 2425	trastorno psicótico agudo polimorfo
+T72	ENFERMEDAD 2442 2455	esquizofrenia
+T73	ENFERMEDAD 2494 2511	psicosis cicloide
+T74	ENFERMEDAD 2513 2538	Trastorno esquizoafectivo
+T75	OTROS-PROFESION 1170 1176	espías
+T76	SANITARIO-PROFESION 4346 4356	psiquiatra

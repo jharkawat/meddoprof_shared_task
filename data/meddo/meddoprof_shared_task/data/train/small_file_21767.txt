@@ -1,0 +1,18 @@
+
+Refiere	O
+tener	O
+miedo	O
+a	O
+"	O
+tener	O
+algo	O
+"	O
+y	O
+que	O
+sea	O
+tarde	O
+cuando	O
+se	O
+lo	O
+detecten	O
+.	O

@@ -1,0 +1,13 @@
+
+TAC	O
+Cérvico	O
+-	O
+torácico	O
+-	O
+abdómino	O
+-	O
+pélvico	O
+:	O
+Adenopatías	O
+cervicales	O
+.	O

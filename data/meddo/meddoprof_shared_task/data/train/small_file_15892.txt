@@ -1,0 +1,13 @@
+
+Serología	O
+sífilis	O
+IgG	O
+positivo	O
+(	O
+VDRL	O
+negativo	O
+,	O
+PCR	O
+negativo	O
+)	O
+.	O

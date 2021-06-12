@@ -1,0 +1,13 @@
+
+Por	O
+su	O
+aspecto	O
+e	O
+inmunosupresión	O
+les	O
+sugiere	O
+un	O
+posible	O
+ectima	O
+gangrenoso	O
+.	O

@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+presenta	O
+una	O
+mejoría	O
+progresiva	O
+,	O
+pudiendo	O
+iniciar	O
+dieta	O
+,	O
+que	O
+tolera	O
+sin	O
+incidencias	O
+.	O

@@ -1,0 +1,19 @@
+
+Acudió	O
+al	O
+servicio	O
+de	O
+urgencias	O
+por	O
+brote	O
+de	O
+lesiones	O
+cutáneas	O
+pruriginosas	O
+generalizadas	O
+de	O
+dos	O
+días	O
+de	O
+evolución	O
+.	O

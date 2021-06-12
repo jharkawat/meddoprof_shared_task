@@ -1,0 +1,14 @@
+
+No	O
+alergias	O
+medicamentosas	O
+y	O
+posee	O
+el	O
+calendario	O
+vacunal	O
+completo	O
+para	O
+su	O
+edad	O
+.	O

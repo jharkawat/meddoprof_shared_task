@@ -1,0 +1,22 @@
+
+Realiza	O
+tratamiento	O
+domiciliario	O
+con	O
+:	O
+Lexatín	O
+3	O
+,	O
+Dogmatil	O
+,	O
+Omeprazol	O
+20mg	O
+,	O
+Adiro	O
+300	O
+,	O
+Enalapril	O
+20	O
+,	O
+Betahistina	O
+10	O

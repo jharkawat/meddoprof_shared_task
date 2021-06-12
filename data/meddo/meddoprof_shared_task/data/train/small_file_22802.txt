@@ -1,0 +1,17 @@
+
+Y	O
+fue	O
+justo	O
+a	O
+partir	O
+de	O
+entonces	O
+cuando	O
+la	O
+paciente	O
+comenzó	O
+los	O
+síntomas	O
+de	O
+despersonalización	O
+.	O

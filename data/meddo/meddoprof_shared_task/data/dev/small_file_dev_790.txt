@@ -1,0 +1,14 @@
+
+Trastorno	O
+por	O
+consumo	O
+de	O
+tabaco	O
+,	O
+grave	O
+(	O
+305	O
+.	O
+1	O
+)	O
+.	O

@@ -1,0 +1,12 @@
+
+Rey	O
+refirió	O
+no	O
+tener	O
+antecedentes	O
+de	O
+hipomanía	O
+ni	O
+de	O
+manía	O
+.	O

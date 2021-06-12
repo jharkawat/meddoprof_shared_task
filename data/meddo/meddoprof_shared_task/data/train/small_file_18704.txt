@@ -1,0 +1,14 @@
+
+Fue	O
+vigilada	O
+por	O
+un	O
+médico	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+especialidad	I-PROFESION
+y	O
+transcurrió	O
+sin	O
+complicaciones	O
+.	O

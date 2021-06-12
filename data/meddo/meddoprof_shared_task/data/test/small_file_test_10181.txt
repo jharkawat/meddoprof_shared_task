@@ -1,0 +1,25 @@
+
+La	O
+biopsia	O
+no	O
+mostró	O
+necrosis	O
+,	O
+granulomas	O
+,	O
+vasculitis	O
+ni	O
+signos	O
+de	O
+malignidad	O
+,	O
+por	O
+lo	O
+que	O
+se	O
+descartó	O
+el	O
+diagnóstico	O
+de	O
+vasculitis	O
+.	O

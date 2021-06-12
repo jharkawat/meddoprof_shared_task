@@ -1,0 +1,18 @@
+
+Cortes	O
+axiales	O
+de	O
+tomografía	O
+computada	O
+(	O
+TC	O
+)	O
+de	O
+muslo	O
+derecho	O
+con	O
+ventana	O
+de	O
+partes	O
+blandas	O
+.	O

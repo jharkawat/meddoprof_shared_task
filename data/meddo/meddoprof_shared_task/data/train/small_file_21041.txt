@@ -1,0 +1,14 @@
+
+No	O
+podía	O
+recordar	O
+tres	O
+objetos	O
+después	O
+de	O
+un	O
+intervalo	O
+de	O
+cinco	O
+minutos	O
+.	O

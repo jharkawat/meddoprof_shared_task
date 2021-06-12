@@ -1,0 +1,27 @@
+
+La	O
+tinción	O
+de	O
+Gomori	O
+de	O
+metenamina	O
+-	O
+argéntica	O
+de	O
+la	O
+muestra	O
+evidencia	O
+artrosporas	O
+ovales	O
+dentro	O
+del	O
+tallo	O
+piloso	O
+,	O
+con	O
+patrón	O
+de	O
+invasión	O
+capilar	O
+endótrix	O
+.	O

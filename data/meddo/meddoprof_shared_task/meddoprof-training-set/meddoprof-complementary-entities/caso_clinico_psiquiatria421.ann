@@ -1,0 +1,63 @@
+T1	SINTOMA 710 718	Insomnio
+T2	SINTOMA 721 735	hiperactividad
+T3	SINTOMA 1361 1390	alteraciones sensoperceptivas
+T4	SINTOMA 1477 1490	irritabilidad
+T5	SINTOMA 1493 1504	agravándose
+T6	SINTOMA 2619 2638	lenguaje disgregado
+T7	SINTOMA 2640 2663	alucinaciones auditivas
+T8	SINTOMA 2689 2711	conducta desorganizada
+T9	SINTOMA 2747 2760	megalomaníaca
+T10	PROCEDIMIENTO 2096 2111	benzodiacepinas
+T11	PROCEDIMIENTO 2842 2853	TAC cerebro
+T12	NEG 390 392	No
+T13	NSCO 393 421	consumo de tóxicos al inicio
+T14	NEG 452 455	sin
+T15	NSCO 456 484	historia psiquiátrica previa
+T16	NEG 2172 2175	sin
+T17	NSCO 2176 2184	lograrse
+T18	NEG 2422 2430	falta de
+T19	NSCO 2431 2439	eficacia
+T20	NEG 2854 2857	sin
+T21	NSCO 2858 2890	hallazgos patológicos relevantes
+T22	NEG 2923 2931	negativo
+T23	NEG 2967 2970	sin
+T24	NSCO 2971 3003	hallazgos patológicos relevantes
+T25	NEG 3321 3329	retirada
+T26	FARMACO 2035 2046	haloperidol
+T27	FARMACO 2048 2059	risperidona
+T28	FARMACO 2061 2076	levomepromacina
+T29	FARMACO 2078 2093	ácido valproico
+T30	FARMACO 2355 2366	aripiprazol
+T31	FARMACO 2369 2381	paliperidona
+T32	FARMACO 2498 2507	clozapina
+T33	FARMACO 2564 2579	ácido valproico
+T34	FARMACO 3049 3058	clozapina
+T35	FARMACO 3179 3188	clozapina
+T36	FARMACO 3245 3260	ácido valproico
+T37	FARMACO 3284 3295	risperidona
+T38	ORG_VIVO 0 5	Varón
+T39	ORG_VIVO 151 161	personales
+T40	ORG_VIVO 174 182	infantil
+T41	ORG_VIVO 271 279	familiar
+T42	ORG_VIVO 323 329	padres
+T43	ORG_VIVO 353 358	madre
+T44	ORG_VIVO 372 380	hermanas
+T45	ORG_VIVO 703 708	madre
+T46	ORG_VIVO 806 813	familia
+T47	ORG_VIVO 891 899	paciente
+T48	ORG_VIVO 1562 1569	familia
+T49	ORG_VIVO 1659 1667	paciente
+T50	ORG_VIVO 1922 1930	paciente
+T51	ORG_VIVO 2299 2307	paciente
+T52	ORG_VIVO 2902 2905	VIH
+T53	ORG_VIVO 2907 2910	VHB
+T54	ORG_VIVO 2912 2915	VHC
+T55	ENFERMEDAD 1044 1069	descompensación psicótica
+T56	ENFERMEDAD 1192 1208	cuadro psicótico
+T57	ENFERMEDAD 1305 1329	sintomatología psicótica
+T58	ENFERMEDAD 1331 1359	ideación delirante paranoide
+T59	ENFERMEDAD 1715 1742	Trastornos Mentales Severos
+T60	ENFERMEDAD 2778 2813	trastorno psicótico agudo polimorfo
+T61	ENFERMEDAD 3072 3083	DIAGNÓSTICO
+T62	ENFERMEDAD 3084 3107	Esquizofrenia paranoide
+T63	OTROS-PROFESION 1608 1633	Fuerzas del Orden Público

@@ -1,0 +1,22 @@
+
+Inicialmente	O
+,	O
+el	O
+dolor	O
+irradiaba	O
+hacia	O
+ambos	O
+hipocondrios	O
+,	O
+especialmente	O
+el	O
+izquierdo	O
+,	O
+pero	O
+posteriormente	O
+se	O
+focaliza	O
+a	O
+nivel	O
+epigástrico	O
+.	O

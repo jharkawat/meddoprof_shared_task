@@ -1,0 +1,12 @@
+
+El	O
+padre	O
+es	O
+natural	O
+de	O
+España	O
+,	O
+trabaja	O
+como	O
+informático	B-PROFESION
+.	O

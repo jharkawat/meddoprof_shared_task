@@ -1,0 +1,27 @@
+
+Uno	O
+de	O
+los	O
+policías	B-PROFESION
+dijo	O
+que	O
+el	O
+hombre	O
+les	O
+había	O
+ofrecido	O
+d	O
+inero	O
+a	O
+cambio	O
+de	O
+sexo	O
+estando	O
+en	O
+el	O
+asiento	O
+trasero	O
+del	O
+coche	O
+patrulla	O
+.	O

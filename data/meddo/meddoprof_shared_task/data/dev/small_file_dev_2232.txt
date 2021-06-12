@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+admitió	O
+nula	O
+toma	O
+de	O
+tratamiento	O
+desde	O
+hace	O
+meses	O
+.	O

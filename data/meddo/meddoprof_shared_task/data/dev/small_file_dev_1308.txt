@@ -1,0 +1,12 @@
+
+Se	O
+pautó	O
+clozapina	O
+100	O
+mg	O
+,	O
+300	O
+mg	O
+al	O
+día	O
+.	O

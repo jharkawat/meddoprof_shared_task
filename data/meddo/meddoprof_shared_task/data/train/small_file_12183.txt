@@ -1,0 +1,16 @@
+
+Dos	O
+semanas	O
+después	O
+de	O
+la	O
+cirugía	O
+reinicia	O
+diuresis	O
+con	O
+mejoría	O
+de	O
+la	O
+función	O
+renal	O
+.	O

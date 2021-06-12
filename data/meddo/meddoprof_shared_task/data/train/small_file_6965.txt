@@ -1,0 +1,21 @@
+
+La	O
+paciente	O
+refería	O
+clínica	O
+de	O
+infección	O
+urinaria	O
+de	O
+dos	O
+semanas	O
+de	O
+evolución	O
+,	O
+que	O
+no	O
+respondía	O
+con	O
+tratamiento	O
+antibiótico	O
+.	O

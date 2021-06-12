@@ -1,0 +1,117 @@
+T1	SINTOMA 154 167	irritabilidad
+T2	SINTOMA 380 393	irritabilidad
+T3	SINTOMA 395 406	soliloquios
+T4	SINTOMA 409 434	suspicacia antes terceros
+T5	SINTOMA 661 698	pérdida de la distancia interpersonal
+T6	SINTOMA 816 838	ideación megalomaníaca
+T7	SINTOMA 935 944	verborrea
+T8	SINTOMA 947 966	falta de conciencia
+T9	SINTOMA 1376 1396	obsesivo-compulsivos
+T10	SINTOMA 1734 1767	acumulación compulsiva de objetos
+T11	SINTOMA 2300 2310	consciente
+T12	SINTOMA 2639 2652	hiporreactivo
+T13	SINTOMA 2685 2694	hipobulia
+T14	SINTOMA 4132 4141	hipobulia
+T15	SINTOMA 4143 4149	apatía
+T16	SINTOMA 4198 4222	distanciamiento conyugal
+T17	SINTOMA 4225 4243	pérdida del empleo
+T18	PROCEDIMIENTO 578 595	terapia de pareja
+T19	PROCEDIMIENTO 4256 4279	exploración neurológica
+T20	PROCEDIMIENTO 4296 4299	TAC
+T21	PROCEDIMIENTO 4301 4304	RMN
+T22	PROCEDIMIENTO 4306 4309	EEG
+T23	PROCEDIMIENTO 4430 4460	tratamiento psicofarmacológico
+T24	PROCEDIMIENTO 4584 4607	tratamiento psicológico
+T25	PROCEDIMIENTO 4896 4924	terapia cognitivo-conductual
+T26	PROCEDIMIENTO 5811 5852	reducción parcial de dicha psicopatología
+T27	NEG 461 467	quitar
+T28	NSCO 468 478	los hijos"
+T29	NEG 947 955	falta de
+T30	NSCO 956 980	conciencia de enfermedad
+T31	NEG 1168 1171	sin
+T32	NSCO 1172 1183	incidencias
+T33	NEG 1261 1264	sin
+T34	NSCO 1265 1396	identificarse a través de terceros informantes posible presencia de rasgos de la personalidad esquizotípicos u obsesivo-compulsivos
+T35	NEG 1600 1602	No
+T36	NSCO 1603 1633	problemas somáticos relevantes
+T37	NEG 1635 1637	No
+T38	NSCO 1638 1673	antecedentes por consumo de tóxicos
+T39	NEG 1978 1980	No
+T40	NSCO 1981 2102	refiere otros antecedentes psicopatológicos de la esfera obsesivo-compulsiva, ni episodios previos de naturaleza afectiva
+T41	UNC 2174 2181	posible
+T42	USCO 2182 2204	acumulación compulsiva
+T43	NEG 2205 2208	sin
+T44	NSCO 2209 2232	seguimiento terapéutico
+T45	NEG 2511 2513	No
+T46	NSCO 2514 2571	se objetivan alteraciones en el contenido del pensamiento
+T47	NEG 2573 2578	Niega
+T48	NSCO 2579 2622	sintomatología en la esfera sensoperceptiva
+T49	NEG 2696 2698	No
+T50	NSCO 2699 2742	alteraciones en el sueño ni la alimentación
+T51	NEG 3027 3029	No
+T52	NSCO 3030 3079	realizaba crítica del episodio psicótico señalado
+T53	NEG 3279 3290	Se descarta
+T54	NSCO 3291 3314	la acumulación simple o
+T55	NEG 3315 3317	no
+T56	NSCO 3318 3328	patológica
+T57	NEG 3525 3536	se descarta
+T58	NSCO 3537 3629	diagnóstico de esquizofrenia dada la presencia de sintomatología maniforme franca constatada
+T59	NEG 3809 3812	sin
+T60	NSCO 3813 3887	que ésta sea secundaria a ninguna condición médica o consumo de sustancias
+T61	NEG 3992 3994	no
+T62	NSCO 3995 4063	presentó recaída de la sintomatología maniforme ni positiva referida
+T63	NEG 4331 4334	sin
+T64	NSCO 4335 4355	hallazgos de interés
+T65	NEG 5266 5277	retirada de
+T66	NSCO 5278 5285	enseres
+T67	NEG 6078 6089	retirada de
+T68	NSCO 6090 6112	objetos más relevantes
+T69	FARMACO 4465 4476	risperidona
+T70	FARMACO 4487 4505	carbonato de litio
+T71	ORG_VIVO 20 34	Paciente varón
+T72	ORG_VIVO 111 117	pareja
+T73	ORG_VIVO 198 206	familiar
+T74	ORG_VIVO 275 281	pareja
+T75	ORG_VIVO 286 294	paciente
+T76	ORG_VIVO 355 365	vecindario
+T77	ORG_VIVO 445 450	mujer
+T78	ORG_VIVO 472 477	hijos
+T79	ORG_VIVO 485 492	vecinos
+T80	ORG_VIVO 589 595	pareja
+T81	ORG_VIVO 998 1003	mujer
+T82	ORG_VIVO 1133 1143	Personales
+T83	ORG_VIVO 1518 1525	adultez
+T84	ORG_VIVO 1544 1549	hijos
+T85	ORG_VIVO 1684 1696	adolescencia
+T86	ORG_VIVO 1708 1716	paciente
+T87	ORG_VIVO 2133 2143	familiares
+T88	ORG_VIVO 2145 2153	Familiar
+T89	ORG_VIVO 2341 2348	persona
+T90	ORG_VIVO 2863 2868	mujer
+T91	ORG_VIVO 3007 3012	hijos
+T92	ORG_VIVO 3015 3024	amistades
+T93	ORG_VIVO 3415 3423	familiar
+T94	ORG_VIVO 3440 3446	pareja
+T95	ORG_VIVO 3472 3477	hijos
+T96	ORG_VIVO 3634 3645	informantes
+T97	ORG_VIVO 3658 3666	paciente
+T98	ORG_VIVO 3983 3991	paciente
+T99	ORG_VIVO 4758 4764	pareja
+T100	ORG_VIVO 5098 5106	paciente
+T101	ORG_VIVO 5609 5617	infancia
+T102	ORG_VIVO 5620 5632	adolescencia
+T103	ORG_VIVO 5684 5690	pareja
+T104	ENFERMEDAD 816 838	ideación megalomaníaca
+T105	ENFERMEDAD 1346 1396	personalidad esquizotípicos u obsesivo-compulsivos
+T106	ENFERMEDAD 2182 2204	acumulación compulsiva
+T107	ENFERMEDAD 3155 3180	Trastorno esquizoafectivo
+T108	ENFERMEDAD 3182 3197	subtipo bipolar
+T109	ENFERMEDAD 3199 3204	F25.0
+T110	ENFERMEDAD 3206 3235	Trastorno obsesivo-compulsivo
+T111	ENFERMEDAD 3372 3395	crónica a nivel laboral
+T112	ENFERMEDAD 3552 3565	esquizofrenia
+T113	ENFERMEDAD 3699 3724	trastorno esquizoafectivo
+T114	ENFERMEDAD 5359 5367	ansiedad
+T115	PACIENTE-PROFESION 845 885	tener su propia empresa de mantenimiento
+T116	PACIENTE-PROFESION 1438 1485	trabajo estable en una empresa de mantenimiento
+T117	PACIENTE-SITUACION_LABORAL 4225 4243	pérdida del empleo

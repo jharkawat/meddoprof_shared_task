@@ -1,0 +1,6 @@
+
+No	O
+se	O
+identifican	O
+adenopatías	O
+.	O

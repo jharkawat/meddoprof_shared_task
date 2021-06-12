@@ -1,0 +1,62 @@
+T1	SINTOMA 504 535	alteración radiológica de tórax
+T2	SINTOMA 858 886	tos de predominio vespertino
+T3	SINTOMA 936 956	expectoración blanca
+T4	SINTOMA 976 987	sibilancias
+T5	SINTOMA 1051 1069	sensación disneica
+T6	SINTOMA 1130 1137	astenia
+T7	SINTOMA 1362 1370	eupneico
+T8	PROCEDIMIENTO 1016 1033	broncodilatadores
+T9	PROCEDIMIENTO 1311 1329	exploración física
+T10	PROCEDIMIENTO 1456 1483	auscultación cardiopulmonar
+T11	PROCEDIMIENTO 1499 1524	radiografía (Rx) de tórax
+T12	PROCEDIMIENTO 1659 1677	análisis de sangre
+T13	PROCEDIMIENTO 1775 1806	pruebas de función respiratoria
+T14	PROCEDIMIENTO 1856 1894	tomografía computarizada (TC) de tórax
+T15	PROCEDIMIENTO 2147 2159	broncoscopia
+T16	PROCEDIMIENTO 2231 2264	BAL en el lóbulo superior derecho
+T17	PROCEDIMIENTO 2292 2310	estudio citológico
+T18	PROCEDIMIENTO 2312 2324	baciloscopia
+T19	PROCEDIMIENTO 2388 2418	broncoaspirados de secreciones
+T20	PROCEDIMIENTO 2653 2671	inmunohistoquímica
+T21	PROCEDIMIENTO 2748 2813	biopsia del lóbulo pulmonar superior derecho mediante toracotomía
+T22	PROCEDIMIENTO 3103 3114	Rx de tórax
+T23	NEG 537 539	No
+T24	NSCO 540 569	tenía alergias medicamentosas
+T25	NEG 776 778	No
+T26	NSCO 779 819	tenía antecedentes familiares de interés
+T27	NEG 1202 1204	No
+T28	NSCO 1205 1304	había realizado viajes recientemente ni había tenido contactos conocidos con pacientes tuberculosos
+T29	NEG 1416 1418	No
+T30	NSCO 1419 1451	tenía adenopatías ni acropaquias
+T31	NEG 1764 1773	negativas
+T32	NEG 1846 1854	negativo
+T33	NEG 2160 2163	sin
+T34	NSCO 2164 2210	apreciar alteraciones ni lesiones de la mucosa
+T35	NEG 2506 2515	negativos
+T36	NEG 2604 2607	sin
+T37	NSCO 2608 2648	histiocitos anómalos ni células atípicas
+T38	NEG 2680 2688	negativa
+T39	NSCO 2689 2705	para S100 y CD1a
+T40	UNC 2842 2856	compatible con
+T41	USCO 2857 2925	una histiocitosis de Langerhans en fase proliferativa o fase celular
+T42	NEG 3049 3061	asintomático
+T43	NSCO 3062 3082	con ganancia de 6 kg
+T44	NEG 3084 3086	No
+T45	ORG_VIVO 10 18	paciente
+T46	ORG_VIVO 419 427	paciente
+T47	ORG_VIVO 429 434	varón
+T48	ORG_VIVO 724 733	marihuana
+T49	ORG_VIVO 798 808	familiares
+T50	ORG_VIVO 1179 1184	perro
+T51	ORG_VIVO 1282 1291	pacientes
+T52	ORG_VIVO 2312 2324	baciloscopia
+T53	ORG_VIVO 2430 2436	hongos
+T54	ORG_VIVO 2438 2450	Pneumocystis
+T55	ORG_VIVO 2462 2476	bacilo de Koch
+T56	ORG_VIVO 2943 2951	paciente
+T57	ENFERMEDAD 1425 1436	adenopatías
+T58	ENFERMEDAD 1911 1930	parénquima pulmonar
+T59	ENFERMEDAD 1953 1981	lesiones cavitadas-quísticas
+T60	ENFERMEDAD 2861 2910	histiocitosis de Langerhans en fase proliferativa
+T61	SANITARIO-PROFESION 352 358	Médico
+T62	PACIENTE-PROFESION 607 644	trabajaba colocando paneles de pladur

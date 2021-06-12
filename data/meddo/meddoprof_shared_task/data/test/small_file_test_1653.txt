@@ -1,0 +1,9 @@
+
+No	O
+presentó	O
+complicaciones	O
+en	O
+el	O
+postoperatorio	O
+inmediato	O
+.	O

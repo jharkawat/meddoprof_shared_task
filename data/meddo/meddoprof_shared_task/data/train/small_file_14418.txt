@@ -1,0 +1,5 @@
+
+Eupnéico	O
+en	O
+reposo	O
+.	O

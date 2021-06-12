@@ -1,0 +1,7 @@
+
+Se	O
+le	O
+retiró	O
+la	O
+contención	O
+.	O

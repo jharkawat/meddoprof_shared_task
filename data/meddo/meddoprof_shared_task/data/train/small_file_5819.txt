@@ -1,0 +1,13 @@
+
+Tras	O
+la	O
+intervención	O
+quirúrgica	O
+,	O
+la	O
+paciente	O
+presenta	O
+buena	O
+evolución	O
+posterior	O
+.	O

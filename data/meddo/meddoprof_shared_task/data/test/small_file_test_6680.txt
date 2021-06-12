@@ -1,0 +1,13 @@
+
+Aspergilosis	O
+broncoinvasiva	O
+en	O
+contexto	O
+de	O
+aplasia	O
+medular	O
+probablemente	O
+secundaria	O
+a	O
+temozolamida	O
+.	O

@@ -1,0 +1,9 @@
+
+Además	O
+refería	O
+dolor	O
+pleurítico	O
+en	O
+costado	O
+izquierdo	O
+.	O

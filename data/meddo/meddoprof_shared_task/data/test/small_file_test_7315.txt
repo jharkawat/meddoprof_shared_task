@@ -1,0 +1,13 @@
+
+Exploración	O
+física	O
+con	O
+hipofonesis	O
+del	O
+hemicampo	O
+izquierdo	O
+y	O
+adenopatía	O
+supraclavicular	O
+izquierda	O
+.	O

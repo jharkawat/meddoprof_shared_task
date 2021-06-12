@@ -1,0 +1,13 @@
+
+Se	O
+aprecian	O
+áreas	O
+de	O
+patrón	O
+intersticial	O
+reticular	O
+en	O
+el	O
+hemotórax	O
+derecho	O
+.	O

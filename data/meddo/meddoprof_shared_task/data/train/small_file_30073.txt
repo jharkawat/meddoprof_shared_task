@@ -1,0 +1,22 @@
+
+La	O
+enfermedad	O
+comenzó	O
+cuando	O
+tenía	O
+17	O
+años	O
+,	O
+ingresando	O
+en	O
+múltiples	O
+ocasiones	O
+en	O
+Málaga	O
+,	O
+Almería	O
+y	O
+siete	O
+en	O
+Granada	O
+.	O

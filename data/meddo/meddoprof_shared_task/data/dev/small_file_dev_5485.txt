@@ -1,0 +1,12 @@
+
+Veinticuatro	O
+meses	O
+después	O
+continúa	O
+asintomático	O
+y	O
+con	O
+función	O
+renal	O
+normalizada	O
+.	O

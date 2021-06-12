@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+es	O
+un	O
+chofer	B-PROFESION
+de	O
+32	O
+años	O
+que	O
+trabajó	O
+anteriormente	O
+en	O
+Kuwait	O
+.	O

@@ -1,0 +1,23 @@
+
+Mientras	O
+tanto	O
+,	O
+continuará	O
+con	O
+nutrición	O
+parenteral	O
+domiciliaria	O
+y	O
+seguimiento	O
+estrecho	O
+por	O
+parte	O
+del	O
+servicio	O
+de	O
+Nutrición	O
+y	O
+Dietética	O
+del	O
+CHN	O
+.	O

@@ -1,0 +1,11 @@
+
+Ventrículo	O
+derecho	O
+no	O
+dilatado	O
+con	O
+fracción	O
+de	O
+eyección	O
+normal	O
+.	O

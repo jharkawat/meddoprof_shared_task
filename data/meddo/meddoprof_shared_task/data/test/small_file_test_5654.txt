@@ -1,0 +1,6 @@
+
+No	O
+ingurgitación	O
+venosa	O
+yugular	O
+.	O

@@ -1,0 +1,11 @@
+
+Hisopado	O
+nasofaríngeo	O
+con	O
+PCR	O
+COVID	O
+negativa	O
+en	O
+2	O
+oportunidades	O
+.	O

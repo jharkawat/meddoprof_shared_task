@@ -1,0 +1,9 @@
+
+El	O
+nivel	O
+socioeconómico	O
+es	O
+medio	O
+-	O
+elevado	O
+.	O

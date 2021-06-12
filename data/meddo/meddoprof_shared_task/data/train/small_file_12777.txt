@@ -1,0 +1,14 @@
+
+Parto	O
+vaginal	O
+,	O
+eutócico	O
+y	O
+a	O
+término	O
+,	O
+sin	O
+precisar	O
+reanimación	O
+neonatal	O
+.	O

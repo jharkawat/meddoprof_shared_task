@@ -1,0 +1,16 @@
+
+No	O
+se	O
+realizó	O
+tóxicos	O
+en	O
+orina	O
+ni	O
+la	O
+paciente	O
+refirió	O
+el	O
+consumo	O
+de	O
+cannabis	O
+.	O

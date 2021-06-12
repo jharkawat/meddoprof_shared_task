@@ -1,0 +1,11 @@
+
+Si	O
+bien	O
+ya	O
+se	O
+han	O
+explicado	O
+los	O
+tratamientos	O
+prescritos	O
+.	O

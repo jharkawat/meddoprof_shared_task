@@ -1,0 +1,19 @@
+
+Profesora	B-PROFESION
+de	I-PROFESION
+música	I-PROFESION
+,	O
+actualmente	O
+no	B-SITUACION_LABORAL
+trabaja	I-SITUACION_LABORAL
+,	O
+dedicándose	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+preparar	I-SITUACION_LABORAL
+oposiciones	I-SITUACION_LABORAL
+de	O
+Enseñanza	O
+de	O
+Grado	O
+Medio	O
+.	O

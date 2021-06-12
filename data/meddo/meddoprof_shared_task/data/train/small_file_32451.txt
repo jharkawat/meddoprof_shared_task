@@ -1,0 +1,23 @@
+
+Antecedentes	O
+familiares	O
+:	O
+madre	O
+en	O
+tratamiento	O
+por	O
+clínica	O
+ansiosa	O
+y	O
+hermano	O
+en	O
+seguimiento	O
+por	O
+consumo	O
+de	O
+múltiples	O
+tóxicos	O
+y	O
+trastorno	O
+psicótico	O
+.	O

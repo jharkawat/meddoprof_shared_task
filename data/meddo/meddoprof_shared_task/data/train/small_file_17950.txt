@@ -1,0 +1,27 @@
+
+Al	O
+tercer	O
+día	O
+de	O
+ingreso	O
+se	O
+realizó	O
+una	O
+arteriografía	O
+,	O
+objetivando	O
+una	O
+trombosis	O
+parcial	O
+del	O
+seno	O
+longitudinal	O
+superior	O
+con	O
+mínima	O
+lámina	O
+de	O
+drenaje	O
+venoso	O
+peritrombótico	O
+.	O

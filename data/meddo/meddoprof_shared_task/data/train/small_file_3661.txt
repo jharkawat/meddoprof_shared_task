@@ -1,0 +1,23 @@
+
+Consejo	O
+dietético	O
+,	O
+mantener	O
+las	O
+piernas	O
+elevadas	O
+,	O
+actividad	O
+física	O
+diaria	O
+(	O
+salir	O
+a	O
+pasear	O
+,	O
+andar	O
+.	O
+.	O
+.	O
+)	O
+.	O

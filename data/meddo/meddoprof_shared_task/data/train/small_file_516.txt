@@ -1,0 +1,14 @@
+
+La	O
+citología	O
+de	O
+orina	O
+en	O
+el	O
+post	O
+-	O
+operatorio	O
+inmediato	O
+es	O
+negativa	O
+.	O

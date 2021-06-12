@@ -1,0 +1,16 @@
+
+Destaca	O
+en	O
+AP	O
+crepitantes	O
+secos	O
+en	O
+planos	O
+pulmonares	O
+inferiores	O
+y	O
+algunos	O
+en	O
+planos	O
+anteriores	O
+.	O

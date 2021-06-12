@@ -1,0 +1,9 @@
+
+Trabaja	O
+como	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+ayuda	I-PROFESION
+a	I-PROFESION
+domicilio	I-PROFESION
+.	O

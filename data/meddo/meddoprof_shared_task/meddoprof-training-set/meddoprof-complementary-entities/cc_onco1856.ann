@@ -1,0 +1,148 @@
+T1	SINTOMA 29 38	exfumador
+T2	SINTOMA 480 483	tos
+T3	SINTOMA 486 511	expectoración amarillenta
+T4	SINTOMA 1162 1198	masa en la parte posterior del muslo
+T5	SINTOMA 1535 1558	pérdida de 4 kg de peso
+T6	SINTOMA 1719 1738	molestias en pierna
+T7	SINTOMA 1805 1811	disnea
+T8	SINTOMA 2020 2042	hipoventilación global
+T9	SINTOMA 2072 2077	dolor
+T10	SINTOMA 4644 4651	astenia
+T11	SINTOMA 4709 4770	exantema maculopapular urticariforme que cubre todo el cuerpo
+T12	SINTOMA 4810 4856	confluencia en tronco y en miembros inferiores
+T13	SINTOMA 4910 4930	toxicidad cutánea G3
+T14	SINTOMA 5211 5219	exantema
+T15	SINTOMA 5674 5723	parestesias G1 en puntas de dedos de manos y pies
+T16	SINTOMA 5744 5755	exantema G3
+T17	SINTOMA 5889 5897	exantema
+T18	SINTOMA 5979 5990	trombopenia
+T19	SINTOMA 6208 6216	exantema
+T20	SINTOMA 6782 6789	astenia
+T21	SINTOMA 7168 7171	tos
+T22	SINTOMA 7174 7183	epistaxis
+T23	PROCEDIMIENTO 282 297	ecocardiografía
+T24	PROCEDIMIENTO 300 306	holter
+T25	PROCEDIMIENTO 672 713	TAC de control de radiología endovascular
+T26	PROCEDIMIENTO 945 948	TAC
+T27	PROCEDIMIENTO 1219 1236	ecografía-doppler
+T28	PROCEDIMIENTO 1292 1299	biopsia
+T29	PROCEDIMIENTO 1996 2008	auscultación
+T30	PROCEDIMIENTO 2105 2128	exploración neurológica
+T31	PROCEDIMIENTO 2345 2357	TAC torácico
+T32	PROCEDIMIENTO 2405 2420	ANGIO TAC AORTA
+T33	PROCEDIMIENTO 2697 2704	PET-TAC
+T34	PROCEDIMIENTO 2980 2983	PET
+T35	PROCEDIMIENTO 3035 3077	PAAF masa pulmonar lóbulo inferior derecho
+T36	PROCEDIMIENTO 3194 3241	Biopsia lesión cutánea zona posterior del muslo
+T37	PROCEDIMIENTO 3688 3701	quimioterapia
+T38	PROCEDIMIENTO 3755 3768	inmunoterapia
+T39	PROCEDIMIENTO 3798 3811	quimioterapia
+T40	PROCEDIMIENTO 4068 4081	inmunoterapia
+T41	PROCEDIMIENTO 4090 4103	quimioterapia
+T42	PROCEDIMIENTO 4171 4198	TAC toraco-abdómino-pélvico
+T43	PROCEDIMIENTO 5284 5305	biopsia confirmatoria
+T44	PROCEDIMIENTO 5630 5648	exploración física
+T45	PROCEDIMIENTO 6084 6095	corticoides
+T46	PROCEDIMIENTO 6107 6127	reducción progresiva
+T47	PROCEDIMIENTO 6383 6386	TAC
+T48	PROCEDIMIENTO 6839 6852	quimioterapia
+T49	PROCEDIMIENTO 7193 7196	TAC
+T50	NEG 254 256	no
+T51	NSCO 257 276	ha vuelto a repetir
+T52	NEG 325 327	No
+T53	NSCO 328 368	presenta ningún antecedente respiratorio
+T54	UNC 1014 1027	sugestivos de
+T55	USCO 1028 1051	adenocarcinoma pulmonar
+T56	NEG 1751 1753	no
+T57	NSCO 1754 1791	impiden actividad normal ni deportiva
+T58	NEG 1793 1804	Ausencia de
+T59	NSCO 1805 1811	disnea
+T60	NEG 1915 1917	No
+T61	NSCO 1918 1989	se encuentran lesiones en cavidad oral ni adenopatías supraclaviculares
+T62	NEG 2058 2060	no
+T63	NSCO 2061 2098	se aprecia dolor ni masas ni megalias
+T64	UNC 2515 2527	sugestiva de
+T65	USCO 2528 2542	adenocarcinoma
+T66	NEG 2619 2632	inespecíficas
+T67	NEG 2829 2831	No
+T68	NSCO 2832 2911	se observan focos hipermetabólicos a distancia sugestivos de enfermedad tumoral
+T69	NEG 2960 2963	sin
+T70	NSCO 2964 3010	actividad en la PET a controlar evolutivamente
+T71	UNC 3113 3128	compatibles con
+T72	USCO 3129 3190	carcinoma de células escamosas con necrosis y abscesificación
+T73	NEG 3535 3543	ausencia
+T74	NSCO 3544 3587	por tanto de mutaciones driver) metastásico
+T75	NEG 4327 4338	ausencia de
+T76	NSCO 4339 4363	lesiones a otros niveles
+T77	NEG 4523 4526	sin
+T78	NSCO 4527 4531	cita
+T79	UNC 5459 5473	compatible con
+T80	USCO 5474 5486	toxicodermia
+T81	NEG 6217 6232	ha desaparecido
+T82	NSCO 6233 6262	prácticamente en su totalidad
+T83	NEG 6500 6502	no
+T84	NSCO 6503 6516	significativa
+T85	NEG 6718 6730	desaparición
+T86	NSCO 6731 6764	completa de las lesiones cutáneas
+T87	UNC 6819 6827	probable
+T88	USCO 6828 6852	relación a quimioterapia
+T89	NEG 7003 7013	suspensión
+T90	NSCO 7014 7023	posterior
+T91	NEG 7083 7086	sin
+T92	NSCO 7087 7126	problemas cutáneos tras el último ciclo
+T93	FARMACO 597 610	levofloxacino
+T94	FARMACO 3703 3713	paclitaxel
+T95	FARMACO 3716 3728	carboplatino
+T96	FARMACO 3770 3780	ipilimumab
+T97	FARMACO 3783 3792	nivolumab
+T98	FARMACO 4409 4418	nivolumab
+T99	FARMACO 4421 4431	ipilimumab
+T100	FARMACO 4434 4444	paclitaxel
+T101	FARMACO 4447 4459	carboplatino
+T102	FARMACO 5004 5021	dexclorfeniramina
+T103	FARMACO 5068 5085	metilprednisolona
+T104	FARMACO 5243 5260	metilprednisolona
+T105	FARMACO 6138 6155	metilprednisolona
+T106	FARMACO 6341 6350	nivolumab
+T107	FARMACO 6353 6363	paclitaxel
+T108	FARMACO 6366 6378	carboplatino
+T109	FARMACO 6576 6593	metilprednisolona
+T110	FARMACO 6908 6918	ipilimumab
+T111	FARMACO 6921 6930	nivolumab
+T112	FARMACO 6956 6973	metilprednisolona
+T113	ORG_VIVO 10 16	Hombre
+T114	ORG_VIVO 390 399	comercial
+T115	ORG_VIVO 404 412	jubilado
+T116	ORG_VIVO 451 459	paciente
+T117	ORG_VIVO 563 581	médico de cabecera
+T118	ORG_VIVO 1077 1085	paciente
+T119	ORG_VIVO 1410 1418	paciente
+T120	ORG_VIVO 1517 1525	paciente
+T121	ORG_VIVO 3453 3461	paciente
+T122	ORG_VIVO 3610 3618	paciente
+T123	ORG_VIVO 4026 4034	paciente
+T124	ORG_VIVO 5116 5124	paciente
+T125	ORG_VIVO 5491 5499	paciente
+T126	ORG_VIVO 6672 6680	paciente
+T127	ENFERMEDAD 113 141	aneurisma de aorta abdominal
+T128	ENFERMEDAD 218 248	síncope de perfil cardiogénico
+T129	ENFERMEDAD 969 994	nódulo en lóbulo inferior
+T130	ENFERMEDAD 1028 1051	adenocarcinoma pulmonar
+T131	ENFERMEDAD 1313 1357	metástasis de carcinoma de células escamosas
+T132	ENFERMEDAD 1932 1956	lesiones en cavidad oral
+T133	ENFERMEDAD 1960 1989	adenopatías supraclaviculares
+T134	ENFERMEDAD 2217 2282	nódulo intradérmico-intramuscular en la parte posterior del muslo
+T135	ENFERMEDAD 2528 2542	adenocarcinoma
+T136	ENFERMEDAD 2893 2911	enfermedad tumoral
+T137	ENFERMEDAD 3129 3190	carcinoma de células escamosas con necrosis y abscesificación
+T138	ENFERMEDAD 3202 3241	lesión cutánea zona posterior del muslo
+T139	ENFERMEDAD 3359 3398	Carcinoma epidermoide de pulmón T3N0M1b
+T140	ENFERMEDAD 3402 3426	Metástasis intramuscular
+T141	ENFERMEDAD 3511 3529	carcinoma escamoso
+T142	ENFERMEDAD 3557 3587	mutaciones driver) metastásico
+T143	ENFERMEDAD 4910 4927	toxicidad cutánea
+T144	ENFERMEDAD 5474 5486	toxicodermia
+T145	ENFERMEDAD 6747 6764	lesiones cutáneas
+T146	SANITARIO-PROFESION 563 581	médico de cabecera
+T147	PACIENTE-PROFESION 390 399	comercial
+T148	PACIENTE-SITUACION_LABORAL 404 412	jubilado

@@ -1,0 +1,8 @@
+
+Se	O
+objetiva	O
+discurso	O
+verborreico	O
+y	O
+desorganizado	O
+.	O

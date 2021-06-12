@@ -1,0 +1,123 @@
+T1	SINTOMA 319 326	bebedor
+T2	SINTOMA 514 530	pérdida ponderal
+T3	SINTOMA 608 625	dolor en cinturón
+T4	SINTOMA 666 673	diarrea
+T5	SINTOMA 763 779	pérdida ponderal
+T6	SINTOMA 1021 1036	palidez cutánea
+T7	SINTOMA 2865 2882	ganancia ponderal
+T8	SINTOMA 2902 2907	dolor
+T9	SINTOMA 4065 4069	ECOG
+T10	SINTOMA 4366 4377	neutropenia
+T11	SINTOMA 4401 4421	decoloración cutánea
+T12	SINTOMA 4560 4571	neutropenia
+T13	SINTOMA 4574 4581	astenia
+T14	SINTOMA 4761 4775	adelgazamiento
+T15	SINTOMA 5216 5233	deterioro general
+T16	SINTOMA 5249 5282	empeoramiento de la función renal
+T17	SINTOMA 5284 5295	hematemesis
+T18	SINTOMA 5421 5432	falleciendo
+T19	PROCEDIMIENTO 630 653	escala visual analógica
+T20	PROCEDIMIENTO 655 658	EVA
+T21	PROCEDIMIENTO 925 943	Exploración física
+T22	PROCEDIMIENTO 1225 1244	ecografía abdominal
+T23	PROCEDIMIENTO 1251 1275	tomografía computarizada
+T24	PROCEDIMIENTO 1277 1279	TC
+T25	PROCEDIMIENTO 1364 1384	resonancia magnética
+T26	PROCEDIMIENTO 1543 1570	punción, guiada por scanner
+T27	PROCEDIMIENTO 1730 1760	estudios de inmunohistoquímica
+T28	PROCEDIMIENTO 2268 2270	TC
+T29	PROCEDIMIENTO 2493 2495	TC
+T30	PROCEDIMIENTO 2578 2591	quimioterapia
+T31	PROCEDIMIENTO 2966 2983	pruebas hepáticas
+T32	PROCEDIMIENTO 3175 3194	biopsia pancreática
+T33	PROCEDIMIENTO 3245 3252	biopsia
+T34	PROCEDIMIENTO 3389 3413	laparoscopia exploradora
+T35	PROCEDIMIENTO 3728 3741	quimioterapia
+T36	PROCEDIMIENTO 3745 3747	TC
+T37	PROCEDIMIENTO 4995 5008	quimioterapia
+T38	NEG 701 704	sin
+T39	NSCO 705 716	esteatorrea
+T40	NEG 1038 1040	no
+T41	NSCO 1041 1064	se palpaban adenopatías
+T42	UNC 1136 1142	dudosa
+T43	USCO 1143 1147	masa
+T44	UNC 1638 1650	sugestivo de
+T45	USCO 1651 1665	adenocarcinoma
+T46	UNC 1824 1832	probable
+T47	USCO 1833 1859	adenocarcinoma de páncreas
+T48	NEG 2727 2730	sin
+T49	NSCO 2731 2764	progresión clínica ni radiológica
+T50	NEG 2801 2804	sin
+T51	NSCO 2805 2814	toxicidad
+T52	NEG 2816 2818	no
+T53	NSCO 2819 2838	presentó neuropatía
+T54	NEG 2885 2901	desaparición del
+T55	NSCO 2902 2907	dolor
+T56	UNC 3077 3085	probable
+T57	USCO 3086 3127	en tercera línea de un cáncer de páncreas
+T58	NEG 3200 3209	descartar
+T59	NSCO 3210 3225	otra histología
+T60	UNC 4909 4920	sospecha de
+T61	USCO 4921 4954	aumento de la agresividad tumoral
+T62	NEG 5013 5025	se suspendió
+T63	NEG 5026 5029	sin
+T64	NSCO 5030 5077	progresión mediante capecitabina y oxaliplatino
+T65	FARMACO 360 370	eprosartán
+T66	FARMACO 2178 2189	gemcitabina
+T67	FARMACO 2368 2380	capecitabina
+T68	FARMACO 2410 2419	erlotinib
+T69	FARMACO 2596 2608	capecitabina
+T70	FARMACO 2638 2650	oxaliplatino
+T71	FARMACO 3813 3837	análogo de somatostatina
+T72	FARMACO 3839 3849	lanreótido
+T73	FARMACO 4190 4199	sunitinib
+T74	FARMACO 4483 4493	everolimus
+T75	FARMACO 5050 5062	capecitabina
+T76	FARMACO 5065 5077	oxaliplatino
+T77	ORG_VIVO 25 31	hombre
+T78	ORG_VIVO 60 65	hijos
+T79	ORG_VIVO 67 76	ingeniero
+T80	ORG_VIVO 110 120	familiares
+T81	ORG_VIVO 127 138	tío materno
+T82	ORG_VIVO 171 182	tía materna
+T83	ORG_VIVO 223 233	personales
+T84	ORG_VIVO 971 979	paciente
+T85	ORG_VIVO 2096 2104	paciente
+T86	ORG_VIVO 2680 2688	paciente
+T87	ORG_VIVO 4026 4034	paciente
+T88	ORG_VIVO 4732 4740	paciente
+T89	ORG_VIVO 5340 5348	paciente
+T90	ENFERMEDAD 146 164	cáncer de páncreas
+T91	ENFERMEDAD 187 203	cáncer de ovario
+T92	ENFERMEDAD 235 244	sobrepeso
+T93	ENFERMEDAD 319 333	bebedor social
+T94	ENFERMEDAD 386 407	hipertensión arterial
+T95	ENFERMEDAD 811 817	anemia
+T96	ENFERMEDAD 853 866	hipercalcemia
+T97	ENFERMEDAD 1053 1064	adenopatías
+T98	ENFERMEDAD 1305 1323	lesiones hepáticas
+T99	ENFERMEDAD 1335 1353	lesión en páncreas
+T100	ENFERMEDAD 1406 1440	lesiones hepáticas eran metástasis
+T101	ENFERMEDAD 1479 1495	masa en páncreas
+T102	ENFERMEDAD 1507 1526	hipertensión portal
+T103	ENFERMEDAD 1651 1665	adenocarcinoma
+T104	ENFERMEDAD 1833 1859	adenocarcinoma de páncreas
+T105	ENFERMEDAD 1949 1981	tumor neuroendocrino de páncreas
+T106	ENFERMEDAD 2041 2059	cáncer de páncreas
+T107	ENFERMEDAD 2299 2314	cáncer primario
+T108	ENFERMEDAD 2520 2534	tumor primario
+T109	ENFERMEDAD 2828 2838	neuropatía
+T110	ENFERMEDAD 3109 3127	cáncer de páncreas
+T111	ENFERMEDAD 3302 3321	hipertensión portal
+T112	ENFERMEDAD 3968 4021	progresión radiológica a nivel hepático y pancreático
+T113	ENFERMEDAD 4154 4177	Tumores Neuroendocrinos
+T114	ENFERMEDAD 4366 4377	neutropenia
+T115	ENFERMEDAD 4380 4391	trombopenia
+T116	ENFERMEDAD 4436 4439	HTA
+T117	ENFERMEDAD 4527 4550	toxicidad hiperglucemia
+T118	ENFERMEDAD 4552 4558	anemia
+T119	ENFERMEDAD 4560 4571	neutropenia
+T120	ENFERMEDAD 4865 4878	hipercalcemia
+T121	ENFERMEDAD 5284 5295	hematemesis
+T122	ENFERMEDAD 5298 5318	hipercalcemia severa
+T123	PACIENTE-PROFESION 67 76	ingeniero

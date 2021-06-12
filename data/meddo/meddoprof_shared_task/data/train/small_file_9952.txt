@@ -1,0 +1,19 @@
+
+En	O
+la	O
+exploración	O
+,	O
+el	O
+paciente	O
+se	O
+encuentra	O
+estable	O
+hemodinamicamente	O
+,	O
+con	O
+buen	O
+estado	O
+general	O
+y	O
+afebril	O
+.	O

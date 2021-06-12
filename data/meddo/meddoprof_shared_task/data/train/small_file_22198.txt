@@ -1,0 +1,16 @@
+
+No	O
+fue	O
+capaz	O
+de	O
+retomar	O
+sus	O
+estudios	O
+y	O
+sólo	O
+llegó	B-PROFESION
+a	I-PROFESION
+desempeñar	I-PROFESION
+trabajos	I-PROFESION
+menores	I-PROFESION
+.	O

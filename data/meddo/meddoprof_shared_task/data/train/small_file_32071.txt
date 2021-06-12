@@ -1,0 +1,12 @@
+
+Consumo	O
+habitual	O
+de	O
+cannabis	O
+(	O
+2	O
+porros	O
+/	O
+día	O
+)	O
+.	O

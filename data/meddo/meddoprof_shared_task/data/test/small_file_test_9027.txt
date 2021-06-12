@@ -1,0 +1,20 @@
+
+»	O
+Angioplastia	O
+iliaca	O
+unilateral	O
+(	O
+0	O
+horas	O
+)	O
+:	O
+trombectomía	O
+iliaca	O
+superficial	O
+,	O
+femoral	O
+superficial	O
+y	O
+tibial	O
+posterior	O
+.	O

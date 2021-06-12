@@ -1,0 +1,10 @@
+
+Actualmente	O
+la	O
+paciente	O
+evoluciona	O
+satisfactoriamente	O
+y	O
+sin	O
+complicaciones	O
+.	O

@@ -1,0 +1,13 @@
+
+Al	O
+alta	O
+se	O
+añadió	O
+colchicina	O
+a	O
+su	O
+tratamiento	O
+presentando	O
+mejoría	O
+clínica	O
+.	O

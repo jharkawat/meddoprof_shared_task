@@ -1,0 +1,20 @@
+
+Se	O
+llevaron	O
+a	O
+cabo	O
+18	O
+sesiones	O
+de	O
+TEC	O
+en	O
+condiciones	O
+standard	O
+de	O
+anestesia	O
+que	O
+discurrieron	O
+sin	O
+incidencias	O
+destacables	O
+.	O

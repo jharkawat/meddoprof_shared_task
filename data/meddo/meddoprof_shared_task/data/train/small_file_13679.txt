@@ -1,0 +1,23 @@
+
+-	O
+ECA	O
+,	O
+C3	O
+y	O
+C4	O
+normales	O
+,	O
+FR	O
+7	O
+.	O
+6	O
+UI	O
+/	O
+ml	O
+,	O
+HLAB27	O
+,	O
+ANCA	O
+y	O
+ANA	O
+negativos	O

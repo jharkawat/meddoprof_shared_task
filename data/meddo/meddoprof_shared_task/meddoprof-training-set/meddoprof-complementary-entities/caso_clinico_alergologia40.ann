@@ -1,0 +1,41 @@
+T1	SINTOMA 571 608	elevación de reactantes de fase aguda
+T2	SINTOMA 651 663	leucocitosis
+T3	PROCEDIMIENTO 459 486	tratamiento antihistamínico
+T4	PROCEDIMIENTO 489 499	corticoide
+T5	PROCEDIMIENTO 540 549	hemograma
+T6	PROCEDIMIENTO 777 810	serologías (Virus de Epstein-Barr
+T7	PROCEDIMIENTO 1058 1077	pruebas epicutáneas
+T8	NEG 1042 1051	negativas
+T9	UNC 1654 1661	plantea
+T10	USCO 1662 1731	la necesidad de evaluar la implicación de fármacos en casos similares
+T11	FARMACO 398 409	amoxicilina
+T12	FARMACO 693 703	cefotaxima
+T13	FARMACO 717 729	azitromicina
+T14	FARMACO 938 948	cefuroxima
+T15	FARMACO 1008 1019	amoxicilina
+T16	FARMACO 1021 1033	penicilina G
+T17	FARMACO 1090 1101	amoxicilina
+T18	FARMACO 1103 1113	ampicilina
+T19	FARMACO 1115 1128	bacampicilina
+T20	FARMACO 1130 1141	cloxacilina
+T21	FARMACO 1157 1169	penicilina G
+T22	FARMACO 1171 1181	cefalexina
+T23	FARMACO 1184 1192	cefixima
+T24	FARMACO 1336 1347	amoxicilina
+T25	FARMACO 1350 1360	ampicilina
+T26	ORG_VIVO 0 4	Niño
+T27	ORG_VIVO 789 810	Virus de Epstein-Barr
+T28	ORG_VIVO 812 815	VEB
+T29	ORG_VIVO 818 833	citomegalovirus
+T30	ORG_VIVO 835 845	Mycoplasma
+T31	ORG_VIVO 847 857	parvovirus
+T32	ORG_VIVO 887 897	Mycoplasma
+T33	ORG_VIVO 899 902	VEB
+T34	ORG_VIVO 905 915	parvovirus
+T35	ORG_VIVO 1366 1372	padres
+T36	ENFERMEDAD 72 88	erupción cutánea
+T37	ENFERMEDAD 200 267	lesiones aisladas en diana y afectación de mucosa labial y perianal
+T38	ENFERMEDAD 334 336	EM
+T39	ENFERMEDAD 424 442	otitis media aguda
+T40	ENFERMEDAD 1518 1520	EM
+T41	ENFERMEDAD 1603 1619	infección activa

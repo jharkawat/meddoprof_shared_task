@@ -1,0 +1,24 @@
+
+En	O
+la	O
+dermis	O
+superficial	O
+se	O
+observa	O
+un	O
+infiltrado	O
+inflamatorio	O
+linfocitario	O
+de	O
+distribución	O
+en	O
+banda	O
+que	O
+afecta	O
+focalmente	O
+a	O
+la	O
+capa	O
+basal	O
+epidérmica	O
+.	O

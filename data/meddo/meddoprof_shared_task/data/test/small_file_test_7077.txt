@@ -1,0 +1,24 @@
+
+En	O
+la	O
+exploración	O
+física	O
+se	O
+objetiva	O
+una	O
+masa	O
+abdominal	O
+de	O
+localización	O
+predominantemente	O
+central	O
+y	O
+de	O
+gran	O
+tamaño	O
+,	O
+dolorosa	O
+durante	O
+la	O
+palpación	O
+.	O

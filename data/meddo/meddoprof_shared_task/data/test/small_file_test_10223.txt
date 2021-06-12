@@ -1,0 +1,16 @@
+
+Destacan	O
+3	O
+agrupaciones	O
+de	O
+queratosis	O
+seborreicas	O
+en	O
+la	O
+línea	O
+intermamaria	O
+y	O
+en	O
+los	O
+hombros	O
+.	O

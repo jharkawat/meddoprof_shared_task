@@ -1,0 +1,10 @@
+
+Ideación	O
+suicida	O
+con	O
+riesgo	O
+de	O
+paso	O
+al	O
+acto	O
+.	O

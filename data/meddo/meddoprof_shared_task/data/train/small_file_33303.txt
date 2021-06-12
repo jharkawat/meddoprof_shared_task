@@ -1,0 +1,27 @@
+
+Se	O
+objetiva	O
+funcionamiento	O
+adecuado	O
+en	O
+relación	O
+paterno	O
+-	O
+filial	O
+,	O
+aunque	O
+el	O
+paciente	O
+se	O
+niega	O
+a	O
+recibir	O
+visitas	O
+de	O
+familiares	O
+a	O
+excepción	O
+de	O
+su	O
+hermana	O
+.	O

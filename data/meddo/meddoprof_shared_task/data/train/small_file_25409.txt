@@ -1,0 +1,12 @@
+
+Presenta	O
+síndrome	O
+ansioso	O
+depresivo	O
+y	O
+ha	O
+realizado	O
+varios	O
+intentos	O
+autolíticos	O
+.	O

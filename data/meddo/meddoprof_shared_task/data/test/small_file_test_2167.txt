@@ -1,0 +1,11 @@
+
+Tórax	O
+:	O
+auscultación	O
+cardiaca	O
+:	O
+rítmico	O
+,	O
+sin	O
+soplos	O
+.	O

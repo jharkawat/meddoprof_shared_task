@@ -1,0 +1,25 @@
+
+Bioquímica	O
+:	O
+glucemia	O
+75mg	O
+/	O
+dl	O
+,	O
+Urea	O
+24mg	O
+/	O
+dl	O
+,	O
+Creatinina	O
+0	O
+.	O
+93mg	O
+/	O
+dl	O
+,	O
+Sodio	O
+y	O
+Potasio	O
+normales	O
+.	O

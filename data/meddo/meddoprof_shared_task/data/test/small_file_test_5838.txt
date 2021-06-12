@@ -1,0 +1,11 @@
+
+Ante	O
+esta	O
+respuesta	O
+se	O
+remite	O
+al	O
+paciente	O
+a	O
+S	O
+.	O

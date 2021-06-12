@@ -1,0 +1,24 @@
+
+Ingresa	O
+en	O
+Medicina	O
+Interna	O
+(	O
+junio	O
+de	O
+2013	O
+)	O
+para	O
+estudio	O
+de	O
+astenia	O
+,	O
+rectorragia	O
+y	O
+tenesmo	O
+de	O
+5	O
+meses	O
+de	O
+evolución	O
+.	O

@@ -1,0 +1,7 @@
+
+Pulmón	O
+:	O
+ruidos	O
+respiratorios	O
+conservados	O
+.	O

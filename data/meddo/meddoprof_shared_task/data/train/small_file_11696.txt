@@ -1,0 +1,12 @@
+
+En	O
+la	O
+UME	O
+se	O
+valora	O
+por	O
+primera	O
+vez	O
+al	O
+paciente	O
+.	O

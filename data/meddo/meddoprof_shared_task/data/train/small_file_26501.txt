@@ -1,0 +1,21 @@
+
+Durante	O
+la	O
+estancia	O
+de	O
+la	O
+paciente	O
+y	O
+sus	O
+hermanos	O
+en	O
+el	O
+internado	O
+los	O
+padres	O
+los	O
+visitaban	O
+de	O
+forma	O
+regular	O
+.	O

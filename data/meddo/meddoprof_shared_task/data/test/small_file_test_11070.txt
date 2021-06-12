@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+se	O
+encuentra	O
+asintomático	O
+y	O
+sigue	O
+revisiones	O
+de	O
+manera	O
+periódica	O
+para	O
+detectar	O
+recidivas	O
+precoces	O
+o	O
+aparición	O
+de	O
+algún	O
+otro	O
+tipo	O
+de	O
+lesión	O
+.	O

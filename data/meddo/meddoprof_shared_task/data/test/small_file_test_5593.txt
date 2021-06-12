@@ -1,0 +1,14 @@
+
+Cede	O
+con	O
+paracetamol	O
+que	O
+el	O
+paciente	O
+toma	O
+a	O
+demanda	O
+de	O
+manera	O
+ocasional	O
+.	O

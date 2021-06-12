@@ -1,0 +1,25 @@
+
+No	O
+se	O
+observaba	O
+alteración	O
+en	O
+la	O
+morfología	O
+y	O
+estructura	O
+de	O
+glándulas	O
+sebáceas	O
+y	O
+se	O
+apreciaba	O
+un	O
+escaso	O
+infiltrado	O
+inflamatorio	O
+perivascular	O
+en	O
+dermis	O
+superficial	O
+.	O

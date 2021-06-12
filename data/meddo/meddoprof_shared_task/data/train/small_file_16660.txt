@@ -1,0 +1,22 @@
+
+En	O
+los	O
+núcleos	O
+basales	O
+y	O
+el	O
+cerebelo	O
+se	O
+observaba	O
+una	O
+actividad	O
+asimétrica	O
+,	O
+estando	O
+también	O
+disminuida	O
+en	O
+el	O
+lado	O
+izquierdo	O
+.	O

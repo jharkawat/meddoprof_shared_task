@@ -1,0 +1,12 @@
+
+Aparición	O
+de	O
+dolor	O
+en	O
+HCI	O
+/	O
+zona	O
+subcostal	O
+sin	O
+signos	O
+inflamatorios	O

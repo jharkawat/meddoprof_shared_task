@@ -1,0 +1,13 @@
+
+Tratamiento	O
+habitual	O
+fluticasona	O
+/	O
+salmeterol	O
+50	O
+/	O
+500	O
+y	O
+PRD	O
+intermitente	O
+.	O

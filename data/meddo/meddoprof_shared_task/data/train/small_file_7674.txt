@@ -1,0 +1,7 @@
+
+Hernias	O
+musculares	O
+tibiales	O
+anteriores	O
+bilaterales	O
+.	O

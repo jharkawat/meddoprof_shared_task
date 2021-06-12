@@ -1,0 +1,15 @@
+
+No	O
+quedan	O
+registrados	O
+nuevos	O
+ingresos	O
+hospitalarios	O
+o	O
+consultas	O
+a	O
+Urgencias	O
+desde	O
+el	O
+referido	O
+.	O

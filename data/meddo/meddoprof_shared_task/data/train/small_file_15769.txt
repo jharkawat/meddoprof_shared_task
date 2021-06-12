@@ -1,0 +1,16 @@
+
+Cabeza	O
+y	O
+cuello	O
+:	O
+carótidas	O
+rítmicas	O
+y	O
+simétricas	O
+,	O
+sin	O
+adenopatías	O
+palpables	O
+ni	O
+bocio	O
+.	O

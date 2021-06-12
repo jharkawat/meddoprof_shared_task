@@ -1,0 +1,15 @@
+
+Una	O
+semana	O
+después	O
+la	O
+paciente	O
+acudió	O
+para	O
+recoger	O
+los	O
+resultados	O
+de	O
+la	O
+analítica	O
+.	O

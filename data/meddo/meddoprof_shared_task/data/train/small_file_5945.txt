@@ -1,0 +1,19 @@
+
+Anamnesis	O
+y	O
+exploración	O
+:	O
+varón	O
+de	O
+73	O
+años	O
+con	O
+los	O
+siguientes	O
+antecedentes	O
+:	O
+-	O
+No	O
+AF	O
+de	O
+interés	O

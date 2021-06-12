@@ -1,0 +1,19 @@
+
+Tras	O
+ser	O
+valorado	O
+por	O
+psiquiatra	B-PROFESION
+de	O
+guardia	O
+se	O
+decide	O
+su	O
+ingreso	O
+para	O
+filiación	O
+diagnóstica	O
+y	O
+abordaje	O
+psicofarmacológico	O
+.	O

@@ -1,0 +1,21 @@
+
+Acude	O
+a	O
+nuestra	O
+consulta	O
+un	O
+paciente	O
+varón	O
+de	O
+23	O
+años	O
+,	O
+derivado	O
+desde	O
+otro	O
+centro	O
+para	O
+una	O
+segunda	O
+opinión	O
+.	O

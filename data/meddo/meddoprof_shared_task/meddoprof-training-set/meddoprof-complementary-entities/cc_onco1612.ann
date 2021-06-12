@@ -1,0 +1,107 @@
+T1	SINTOMA 113 120	fumador
+T2	SINTOMA 291 294	tos
+T3	SINTOMA 297 333	expectoración de predominio matutino
+T4	SINTOMA 452 458	disnea
+T5	SINTOMA 499 502	tos
+T6	SINTOMA 505 518	expectoración
+T7	SINTOMA 562 581	esputos hemoptoicos
+T8	SINTOMA 623 635	dolor costal
+T9	SINTOMA 665 696	pleuríticas irradiado al hombro
+T10	SINTOMA 719 728	hiporexia
+T11	SINTOMA 802 808	fiebre
+T12	SINTOMA 812 835	expectoración purulenta
+T13	SINTOMA 865 873	eupneico
+T14	SINTOMA 1218 1272	disminución del murmullo vesicular en la base pulmonar
+T15	SINTOMA 1398 1404	edemas
+T16	SINTOMA 1768 1810	masa sólida en el lóbulo inferior inferior
+T17	PROCEDIMIENTO 838 856	Exploración física
+T18	PROCEDIMIENTO 977 1007	exploración de la cavidad oral
+T19	PROCEDIMIENTO 1134 1161	auscultación cardiopulmonar
+T20	PROCEDIMIENTO 1475 1484	Hemograma
+T21	PROCEDIMIENTO 1748 1766	TC toracoabdominal
+T22	PROCEDIMIENTO 2138 2155	Fibrobroncoscopia
+T23	PROCEDIMIENTO 2248 2269	lavado broncoalveolar
+T24	PROCEDIMIENTO 2318 2335	fibrobroncoscopia
+T25	PROCEDIMIENTO 2543 2546	PET
+T26	PROCEDIMIENTO 2687 2705	PAAF transtorácica
+T27	PROCEDIMIENTO 2740 2759	estudio histológico
+T28	PROCEDIMIENTO 3041 3065	Biopsia axilar izquierda
+T29	PROCEDIMIENTO 3285 3292	biopsia
+T30	PROCEDIMIENTO 3305 3366	toracotomía lateral izquierda con pericardiotomía exploradora
+T31	PROCEDIMIENTO 3368 3451	biopsia pulmonar de língula y del lóbulo inferior izquierdo, diafragma y pericardio
+T32	PROCEDIMIENTO 3486 3511	estudio anatomopatológico
+T33	PROCEDIMIENTO 3838 3840	TC
+T34	PROCEDIMIENTO 3850 3852	TC
+T35	PROCEDIMIENTO 4084 4120	toracotomía posterolateral izquierda
+T36	PROCEDIMIENTO 4125 4164	resección del lóbulo inferior izquierdo
+T37	PROCEDIMIENTO 4166 4182	pericardiectomía
+T38	PROCEDIMIENTO 4185 4287	extirpación hemidiafragmática izquierda con reconstrucción posterior del pericardio y de hemidiafragma
+T39	PROCEDIMIENTO 4325 4350	estudio anatomopatológico
+T40	PROCEDIMIENTO 4653 4665	toracoscopia
+T41	PROCEDIMIENTO 4945 4962	ortopantomografía
+T42	PROCEDIMIENTO 5464 5466	TC
+T43	NEG 36 39	sin
+T44	NSCO 40 74	antecedentes familiares de interés
+T45	NEG 141 144	sin
+T46	NSCO 145 184	otros factores de riesgo cardiovascular
+T47	NEG 446 451	niega
+T48	NSCO 452 475	disnea con el ejercicio
+T49	NEG 778 780	No
+T50	NSCO 781 835	refería haber tenido fiebre ni expectoración purulenta
+T51	NEG 904 906	No
+T52	NSCO 907 970	se palpan adenopatías axilares, supraclaviuclares ni cervicales
+T53	NEG 1094 1105	ausencia de
+T54	NSCO 1106 1129	varias piezas dentarias
+T55	NEG 1189 1192	sin
+T56	NSCO 1193 1211	ruidos patológicos
+T57	NEG 1323 1325	no
+T58	NSCO 1326 1446	se palpan masas ni megalias y los miembros inferiores están ausentes de edemas ni de signos de trombosis venosa profunda
+T59	UNC 2043 2050	posible
+T60	USCO 2051 2082	relación con bloque adenopático
+T61	NEG 2084 2087	Sin
+T62	NSCO 2088 2134	hallazgos reseñables en los cortes abdominales
+T63	NEG 2157 2160	sin
+T64	NSCO 2161 2223	apreciar signos directos ni indirectos sugestivos de neoplasia
+T65	NEG 2337 2340	sin
+T66	NSCO 2341 2360	células neoplásicas
+T67	NEG 2923 2926	Sin
+T68	NSCO 2927 2949	estructuras vasculares
+T69	UNC 3067 3081	compatible con
+T70	USCO 3082 3115	linfadenitis crónica inespecífica
+T71	UNC 3132 3143	sospecha de
+T72	USCO 3144 3164	malignidad de lesión
+T73	NEG 3182 3194	negativos de
+T74	NSCO 3195 3220	los estudios histológicos
+T75	NEG 3573 3576	sin
+T76	NSCO 3577 3607	encontrar células cancerígenas
+T77	UNC 5072 5087	compatibles con
+T78	USCO 5088 5136	un foco infeccioso originario del proceso actual
+T79	NEG 5477 5490	se descartaba
+T80	NSCO 5491 5518	progresión de la enfermedad
+T81	FARMACO 5247 5257	amoxiclina
+T82	ORG_VIVO 10 15	Varón
+T83	ORG_VIVO 53 63	familiares
+T84	ORG_VIVO 76 101	trabajador en una fábrica
+T85	ORG_VIVO 3779 3787	paciente
+T86	ORG_VIVO 3983 3991	paciente
+T87	ORG_VIVO 4546 4570	colonias actinomicóticas
+T88	ORG_VIVO 5160 5168	paciente
+T89	ORG_VIVO 5401 5409	paciente
+T90	ENFERMEDAD 201 218	fractura de radio
+T91	ENFERMEDAD 917 937	adenopatías axilares
+T92	ENFERMEDAD 1054 1088	lesiones infecciosas periodontales
+T93	ENFERMEDAD 1421 1446	trombosis venosa profunda
+T94	ENFERMEDAD 2214 2223	neoplasia
+T95	ENFERMEDAD 2976 2986	vasculitis
+T96	ENFERMEDAD 3006 3037	proceso inflamatorio infeccioso
+T97	ENFERMEDAD 3082 3115	linfadenitis crónica inespecífica
+T98	ENFERMEDAD 3537 3572	tumor miofibroblástico inflamatorio
+T99	ENFERMEDAD 3622 3657	Tumor miofibroblástico inflamatorio
+T100	ENFERMEDAD 3675 3699	pseudotumor inflamatorio
+T101	ENFERMEDAD 3883 3902	lesiones pulmonares
+T102	ENFERMEDAD 4709 4743	proceso inflamatorio pseudotumoral
+T103	ENFERMEDAD 4746 4768	tumor miofibroblástico
+T104	ENFERMEDAD 4786 4820	infección pulmonar por actinomices
+T105	ENFERMEDAD 4903 4928	infección por actinomices
+T106	ENFERMEDAD 4980 5012	lesiones en las raíces dentarias
+T107	PACIENTE-PROFESION 76 111	trabajador en una fábrica de vidrio

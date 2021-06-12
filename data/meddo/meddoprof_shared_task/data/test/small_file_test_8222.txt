@@ -1,0 +1,21 @@
+
+Con	O
+diagnóstico	O
+definitivo	O
+de	O
+carcinoma	O
+microcítico	O
+de	O
+pulmón	O
+enfermedad	O
+extendida	O
+es	O
+derivado	O
+a	O
+nuestras	O
+consultas	O
+en	O
+noviembre	O
+de	O
+2013	O
+.	O

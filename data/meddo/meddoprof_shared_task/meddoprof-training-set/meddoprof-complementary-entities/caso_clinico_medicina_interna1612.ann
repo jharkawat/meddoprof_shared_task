@@ -1,0 +1,82 @@
+T1	SINTOMA 116 134	mal estado general
+T2	SINTOMA 145 171	tumoración glútea dolorosa
+T3	SINTOMA 751 759	oliguria
+T4	SINTOMA 800 900	tumoración en región perianal que se extiende a ambos glúteos y hasta la base del escroto y del pene
+T5	SINTOMA 1173 1185	leucocitosis
+T6	SINTOMA 1588 1627	tumoración se extiende a fosa isquional
+T7	SINTOMA 2174 2200	inestabilidad hemodinámica
+T8	SINTOMA 2409 2437	dolor en hipocondrio derecho
+T9	SINTOMA 3794 3801	melenas
+T10	SINTOMA 3950 3961	hipotensión
+T11	PROCEDIMIENTO 665 683	exploración física
+T12	PROCEDIMIENTO 1068 1080	sueroterapia
+T13	PROCEDIMIENTO 1083 1097	antibioterapia
+T14	PROCEDIMIENTO 1313 1331	TC toracoabdominal
+T15	PROCEDIMIENTO 1966 1983	anestesia general
+T16	PROCEDIMIENTO 2045 2075	drenaje del material purulento
+T17	PROCEDIMIENTO 2087 2108	biopsias de la lesión
+T18	PROCEDIMIENTO 2214 2250	drogas vasoactivas y politransfusión
+T19	PROCEDIMIENTO 2578 2593	colecistectomía
+T20	PROCEDIMIENTO 2751 2771	nutrición parenteral
+T21	PROCEDIMIENTO 2871 2891	resonancia magnética
+T22	PROCEDIMIENTO 3476 3501	radioterapia neoadyuvante
+T23	PROCEDIMIENTO 3575 3602	amputación abdominoperineal
+T24	PROCEDIMIENTO 3613 3670	plastia con injerto de músculo recto anterior del abdomen
+T25	PROCEDIMIENTO 3705 3723	amputación peneana
+T26	PROCEDIMIENTO 3869 3881	colonoscopia
+T27	PROCEDIMIENTO 3884 3909	endoscopia digestiva alta
+T28	NEG 321 334	negativo para
+T29	NSCO 335 355	BAAR y micobacterias
+T30	NEG 573 576	sin
+T31	NSCO 577 610	acudir posteriormente a consultas
+T32	NEG 649 658	negativas
+T33	UNC 902 916	compatible con
+T34	USCO 917 939	condilomatosis gigante
+T35	UNC 1033 1041	probable
+T36	USCO 1042 1056	origen séptico
+T37	NEG 1831 1833	No
+T38	NSCO 1834 1896	evidencia adenopatías retroperitoneales, iliacas ni inguinales
+T39	NEG 2818 2828	Se repiten
+T40	NSCO 2829 2839	serologías
+T41	NEG 2849 2858	negativas
+T42	NEG 3151 3154	sin
+T43	NSCO 3155 3187	signos de infiltración del mismo
+T44	UNC 3302 3308	dudosa
+T45	USCO 3309 3326	microinflitración
+T46	NEG 3429 3440	ausencia de
+T47	NSCO 3441 3462	carcinoma infiltrante
+T48	NEG 3464 3472	descarta
+T49	NSCO 3473 3501	la radioterapia neoadyuvante
+T50	NEG 3910 3913	sin
+T51	NSCO 3914 3929	hallar lesiones
+T52	NEG 4002 4005	sin
+T53	NSCO 4006 4040	remontar los parámetros analíticos
+T54	NEG 4094 4096	no
+T55	NSCO 4097 4120	responde al tratamiento
+T56	NEG 4122 4133	se suspende
+T57	NSCO 4134 4153	la cirugía planeada
+T58	ORG_VIVO 0 8	Paciente
+T59	ORG_VIVO 335 339	BAAR
+T60	ORG_VIVO 342 355	micobacterias
+T61	ORG_VIVO 520 528	paciente
+T62	ORG_VIVO 626 629	VIH
+T63	ORG_VIVO 631 635	lúes
+T64	ORG_VIVO 1020 1028	paciente
+T65	ORG_VIVO 2113 2121	paciente
+T66	ORG_VIVO 2500 2508	paciente
+T67	ORG_VIVO 3728 3736	paciente
+T68	ENFERMEDAD 204 228	diabetes mellitus tipo 2
+T69	ENFERMEDAD 429 464	condilomatosis anal circunferencial
+T70	ENFERMEDAD 762 781	desnutrición severa
+T71	ENFERMEDAD 917 939	condilomatosis gigante
+T72	ENFERMEDAD 1042 1056	origen séptico
+T73	ENFERMEDAD 1226 1232	anemia
+T74	ENFERMEDAD 1284 1296	coagulopatía
+T75	ENFERMEDAD 1844 1882	adenopatías retroperitoneales, iliacas
+T76	ENFERMEDAD 2463 2481	colecistitis aguda
+T77	ENFERMEDAD 2541 2564	colecistitis gangrenosa
+T78	ENFERMEDAD 2776 2795	desnutrición severa
+T79	ENFERMEDAD 2908 2961	lesión infiltrativa de tejido celular graso de periné
+T80	ENFERMEDAD 3226 3268	condiloma acuminado con displasia moderada
+T81	ENFERMEDAD 3282 3326	carcinoma in situ y dudosa microinflitración
+T82	ENFERMEDAD 3441 3462	carcinoma infiltrante

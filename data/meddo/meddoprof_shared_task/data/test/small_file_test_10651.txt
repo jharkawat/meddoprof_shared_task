@@ -1,0 +1,15 @@
+
+Se	O
+planifica	O
+un	O
+tratamiento	O
+consistente	O
+en	O
+60	O
+Gy	O
+en	O
+fracciones	O
+de	O
+2	O
+Gy	O
+.	O

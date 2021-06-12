@@ -1,0 +1,6 @@
+
+Vena	O
+cava	O
+superior	O
+permeable	O
+.	O

@@ -1,0 +1,9 @@
+
+Auscultación	O
+cardiopulmonar	O
+rítmica	O
+sin	O
+soplos	O
+ni	O
+extratonos	O
+.	O

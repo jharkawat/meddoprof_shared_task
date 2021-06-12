@@ -1,0 +1,25 @@
+
+Después	O
+de	O
+este	O
+acontecimiento	O
+la	O
+paciente	O
+mejoró	O
+sustancialmente	O
+,	O
+remitieron	O
+los	O
+síntomas	O
+depresivos	O
+,	O
+la	O
+disfunción	O
+sexual	O
+y	O
+el	O
+maltrato	O
+a	O
+su	O
+hija	O
+.	O

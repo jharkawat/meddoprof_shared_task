@@ -1,0 +1,22 @@
+
+Transcurrido	O
+un	O
+año	O
+el	O
+paciente	O
+ingresó	O
+por	O
+hemorragia	O
+nasofaríngea	O
+masiva	O
+por	O
+lo	O
+que	O
+requirió	O
+taponamiento	O
+nasal	O
+urgente	O
+anterior	O
+y	O
+posterior	O
+.	O

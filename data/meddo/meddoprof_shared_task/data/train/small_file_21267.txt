@@ -1,0 +1,5 @@
+
+Trastorno	O
+de	O
+ansiedad	O
+generalizada	O

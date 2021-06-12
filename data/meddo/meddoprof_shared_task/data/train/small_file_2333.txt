@@ -1,0 +1,15 @@
+
+Tras	O
+exploración	O
+ginecológica	O
+,	O
+se	O
+observa	O
+que	O
+la	O
+paciente	O
+inicia	O
+trabajo	O
+de	O
+parto	O
+.	O

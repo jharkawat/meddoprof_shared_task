@@ -1,0 +1,27 @@
+
+Luego	O
+de	O
+haber	O
+recibido	O
+el	O
+quinto	O
+ciclo	O
+,	O
+ingresó	O
+por	O
+cuadro	O
+de	O
+insuficiencia	O
+respiratoria	O
+grave	O
+y	O
+hemoptisis	O
+franca	O
+con	O
+imágenes	O
+de	O
+consolidación	O
+alveolar	O
+masivas	O
+bilaterales	O
+.	O

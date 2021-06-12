@@ -1,0 +1,23 @@
+
+A	O
+la	O
+inspección	O
+,	O
+regular	O
+estado	O
+general	O
+,	O
+consciente	O
+y	O
+alerta	O
+,	O
+orientada	O
+en	O
+las	O
+tres	O
+esferas	O
+,	O
+taquipneica	O
+al	O
+hablar	O
+.	O

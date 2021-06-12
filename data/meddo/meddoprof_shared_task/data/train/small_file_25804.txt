@@ -1,0 +1,18 @@
+
+Éstos	O
+viajan	O
+hasta	O
+España	O
+,	O
+confirman	O
+que	O
+el	O
+paciente	O
+padece	O
+Esquizofrenia	O
+Paranoide	O
+desde	O
+los	O
+16	O
+años	O
+.	O

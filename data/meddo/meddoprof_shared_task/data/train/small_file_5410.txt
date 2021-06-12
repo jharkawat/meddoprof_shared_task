@@ -1,0 +1,10 @@
+
+En	O
+tratamiento	O
+con	O
+yodo	O
+200mcg	O
+/	O
+24	O
+horas	O
+.	O

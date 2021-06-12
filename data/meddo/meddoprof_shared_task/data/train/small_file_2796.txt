@@ -1,0 +1,18 @@
+
+Paciente	O
+con	O
+buen	O
+apoyo	O
+social	O
+,	O
+casado	O
+y	O
+con	O
+dos	O
+hijos	O
+de	O
+12	O
+y	O
+8	O
+años	O
+.	O

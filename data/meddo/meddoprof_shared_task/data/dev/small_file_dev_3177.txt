@@ -1,0 +1,24 @@
+
+El	O
+usuario	O
+se	O
+negó	O
+,	O
+aunque	O
+no	O
+descartaba	O
+la	O
+idea	O
+de	O
+realizar	O
+alguna	O
+actividad	O
+lúdica	O
+al	O
+menos	O
+un	O
+día	O
+a	O
+la	O
+semana	O
+.	O

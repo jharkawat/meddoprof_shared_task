@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 28 años de edad, bailarín natural de Israel, con antecedentes personales de infección por virus de la inmunodeficiencia humana (VIH) en el 2008 sin tratamiento actual, consumidor ocasional de cocaína y alcohol. Ingresó en Medicina Interna por un cuadro clínico de parestesias en el hemicuerpo derecho junto a alteración visual tras previo consumo de 1 g de cocaína. Se realizaron una tomografía computarizada (TC) craneal y una resonancia magnética (RM) cerebral, que mostraron una lesión isquémica aguda en el territorio posterior (tálamo izquierdo). Se completó el estudio con una angio-RM cerebral, que no mostró hallazgos. Se objetivó carga viral de 200.000 copias y CD 4 647 células. Fue dado de alta con una cuadrantanopsia superior derecha como secuela y tratamiento con estatina. Dos semanas después acude al Servicio de Urgencias por presentar un nuevo episodio de hemihipoestesia facial y hemicorporal derechas.
+
+Exploración física
+A su llegada a Urgencias se objetiva tensión arterial 120/80mmHg, frecuencia cardiaca 80 lpm, afebril. La exploración general por aparatos resultó normal. La exploración neurológica demostró la presencia de una cuadrantanopsia superior derecha (secuelar), hipoestesia algésica hemifacial derecha en la segunda y la terecera ramas del trigémino y en el hemicuerpo derecho, y dismetría en la prueba dedo-nariz en la extremidad superior derecha. El resto de la exploración fue normal.
+
+Pruebas complementarias
+• Hemograma: normal con fórmula leucocitaria adecuada, velocidad de sedimentación globular 46 mm/h.
+• Bioquímica: lactato deshidrogenasa 722 UI/l (230-460), descenso de transferrina, hormonas tiroideas alteradas (TSH 5,36 μUI (0,5-4,7), T3l 2,73 pg/ml (2,77-5,27). Proteinograma: pico monoclonal débil en la zona gamma.
+• Estudio de coagulación y trombofilia: mínima elevación de fibrinógeno y déficit de proteína S libre, siendo el resto normal (incluyendo proteína C, anticoagulante lúpico, factor V de Leyden y antitrombina).
+• Autoinmunidad: anticuerpos anticardiolipina IgG débilmente positivos (22,6 UGPL/ml), IgM negativo ANCA, factor reumatoide, inmunocomplejos circulantes, ANA, anti- DNA, anti-B2 glicoproteína negativos. 
+• Serologías: VEB IgG positivo, hepatitis A IgG positivo; Treponema, toxoplasma, citomegalovirus, hepatitis B y C negativos. Carga viral VIH-1: 177.930 copias; CD 4 432 células/μl, no resistencia genotípica a antirretrovirales.
+• Electrocardiograma y monitorización 48 horas: ritmo sinusal, bloqueo de rama derecha ya conocido.
+• Radiografía de tórax y ecocardiograma transtorácico normales.
+• La TC craneal objetiva lesiones hipodensas irregulares en la región parasagital occipital izquierda y en la sustancia blanca del lóbulo temporal izquierdo, compatibles con lesiones isquémicas subagudas-crónicas.
+• La nueva RM cerebral muestra la aparición de una nueva lesión focal en el tálamo izquierdo hiperintensa en TR largo y marcada restricción en difusión, lo que sugiere isquemia aguda- subaguda. Resonancia magnética cerebral, secuencia potenciada en difusión: lesión isquémica aguda en el tálamo izquierdo.
+• Se repitió una angio-RM intracraneal, que determinó ausencia de visualización de la ACP izquierda desde su origen, siendo la derecha permeable. Angio-RM: ausencia de visualización de la ACP-izquierda desde su inicio. ACP-derecha permeable.
+• Punción lumbar: glucosa 49 mg/dl, proteínas 66 mg/dl, 40 leucocitos/mm3 (80% mononucleares) y 90 hematíes /mm3. Cultivo: negativo para bacterias y micobacterias, reacción en cadena de la polimerasa de enterovirus y de herpes simple 1 y 2 negativas; VDRL negativo; citología: muestra acelular.
+
+Diagnóstico
+Isquemia cerebral de repetición en probable relación con vasculopatía asociada a VIH. Hipergammaglobulinemia, déficit de proteína S, anticuerpos anticardiolipina IgG débilmente positivos.
+
+Tratamiento y evolución
+Se inició terapia antirretroviral con darunavir, ritonavir y tenofovir más emtricitabina y antiagregación con ácido acetilsalicílico 100 mg, tras lo cual no ha vuelto a sufrir nuevos episodios, persistiendo leve ataxia del miembro superior derecho.

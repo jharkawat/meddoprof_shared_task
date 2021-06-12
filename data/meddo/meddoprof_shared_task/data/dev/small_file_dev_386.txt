@@ -1,0 +1,11 @@
+
+Sin	O
+embargo	O
+,	O
+la	O
+sintomatología	O
+psicótica	O
+continuó	O
+agravándose	O
+progresivamente	O
+.	O

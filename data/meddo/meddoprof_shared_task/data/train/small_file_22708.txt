@@ -1,0 +1,25 @@
+
+La	O
+actitud	O
+del	O
+paciente	O
+respecto	O
+a	O
+las	O
+mismas	O
+era	O
+de	O
+intentar	O
+eliminar	O
+el	O
+malestar	O
+provocado	O
+por	O
+incoercibilidad	O
+de	O
+las	O
+alucinaciones	O
+cerrando	O
+los	O
+ojos	O
+.	O

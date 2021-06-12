@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+refiere	O
+que	O
+la	O
+imposibilidad	O
+de	O
+descansar	O
+adecuadamente	O
+ha	O
+deteriorado	O
+su	O
+estado	O
+general	O
+.	O

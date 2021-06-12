@@ -1,0 +1,7 @@
+
+Comparte	O
+piso	O
+No	O
+tiene	O
+mascotas	O
+.	O

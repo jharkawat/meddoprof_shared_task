@@ -1,0 +1,23 @@
+
+Varón	O
+de	O
+25	O
+años	O
+diagnosticado	O
+de	O
+ataxia	O
+congénita	O
+que	O
+acude	O
+a	O
+consulta	O
+de	O
+Neurología	O
+derivado	O
+desde	O
+Neuropediatría	O
+para	O
+control	O
+y	O
+seguimiento	O
+.	O

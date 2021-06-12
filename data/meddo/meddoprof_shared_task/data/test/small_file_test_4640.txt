@@ -1,0 +1,27 @@
+
+Estabilizado	O
+con	O
+la	O
+transfusión	O
+de	O
+tres	O
+unidades	O
+de	O
+concentrado	O
+de	O
+hematíes	O
+,	O
+con	O
+la	O
+sospecha	O
+de	O
+recaída	O
+,	O
+fue	O
+trasladado	O
+a	O
+nuestro	O
+centro	O
+para	O
+estudio	O
+.	O

@@ -1,0 +1,21 @@
+
+Existen	O
+una	O
+serie	O
+de	O
+datos	O
+clínicos	O
+que	O
+pueden	O
+ser	O
+muy	O
+útiles	O
+para	O
+orientar	O
+el	O
+diagnostico	O
+etiológico	O
+de	O
+una	O
+PA	O
+.	O

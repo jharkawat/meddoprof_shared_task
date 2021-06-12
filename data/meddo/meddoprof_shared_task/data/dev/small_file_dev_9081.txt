@@ -1,0 +1,19 @@
+
+Las	O
+infecciones	O
+hepáticas	O
+por	O
+hongos	O
+son	O
+poco	O
+probables	O
+por	O
+no	O
+tratarse	O
+de	O
+un	O
+paciente	O
+inmunodeprimido	O
+ni	O
+neutropénico	O
+.	O

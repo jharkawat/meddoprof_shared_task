@@ -1,0 +1,19 @@
+
+Su	O
+adaptación	O
+laboral	O
+es	O
+excelente	O
+y	O
+está	O
+considerada	O
+como	O
+muy	O
+buena	O
+profesional	B-SITUACION_LABORAL
+por	O
+sus	O
+compañeros	B-SITUACION_LABORAL
+y	O
+superiores	O
+.	O

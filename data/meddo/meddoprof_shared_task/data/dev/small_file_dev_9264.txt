@@ -1,0 +1,11 @@
+
+La	O
+palpación	O
+no	O
+mostró	O
+nódulos	O
+o	O
+áreas	O
+de	O
+fluctuación	O
+.	O

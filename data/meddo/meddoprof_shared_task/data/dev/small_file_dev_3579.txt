@@ -1,0 +1,17 @@
+
+Miedo	O
+a	O
+perder	O
+el	O
+control	O
+y	O
+hacer	O
+daño	O
+a	O
+sus	O
+familiares	O
+o	O
+a	O
+sí	O
+misma	O
+.	O

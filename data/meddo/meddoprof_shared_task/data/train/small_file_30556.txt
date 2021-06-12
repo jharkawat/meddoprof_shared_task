@@ -1,0 +1,21 @@
+
+Varón	O
+de	O
+47	O
+años	O
+,	O
+con	O
+diagnóstico	O
+de	O
+esquizofrenia	O
+paranoide	O
+,	O
+en	O
+tratamiento	O
+psiquiátrico	O
+ambulatorio	O
+desde	O
+el	O
+año	O
+1991	O
+.	O

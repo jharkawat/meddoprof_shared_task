@@ -1,0 +1,17 @@
+
+Se	O
+realizaron	O
+varias	O
+biopsias	O
+de	O
+las	O
+lesiones	O
+cutáneas	O
+enviándose	O
+muestras	O
+para	O
+estudio	O
+microbiológico	O
+y	O
+anatomopatológico	O
+.	O

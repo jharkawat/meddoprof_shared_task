@@ -1,0 +1,18 @@
+
+»	O
+Carcinoma	O
+lobulillar	O
+infiltrante	O
+(	O
+CLI	O
+)	O
+de	O
+mama	O
+derecha	O
+en	O
+diciembre	O
+/	O
+2012	O
+en	O
+Canarias	O
+.	O

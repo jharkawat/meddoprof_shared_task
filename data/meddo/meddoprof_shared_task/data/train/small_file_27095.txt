@@ -1,0 +1,20 @@
+
+Destacan	O
+en	O
+la	O
+historia	O
+familiar	O
+varios	O
+episodios	O
+asociados	O
+a	O
+procesos	O
+médicos	O
+que	O
+requieren	O
+estudio	O
+y	O
+atención	O
+sanitaria	O
+especializada	O
+.	O

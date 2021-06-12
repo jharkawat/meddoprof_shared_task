@@ -1,0 +1,35 @@
+Motivo de consulta
+Dolor torácico, náuseas y parestesias en ambos brazos
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: paciente de 15 años sin antecedentes de interés. No alergias medicamentosas. No hábitos tóxicos. Sin AP familiares conocidos. No intervenciones quirúrgicas previas. No tratamiento habitual.
+
+El paciente acude a urgencias del Centro de Salud, porque estando previamente bien comienza mientras se encontraba jugando a la videoconsola con un dolor torácico de características opresivas así como sensación de parestesias en ambos brazos y nauseas acompañantes.
+
+Exploración física: buen estado general, buena hidratación de piel y mucosas, eupneico en reposo, tolerando decúbito. Consciente y orientado.
+Auscultación tonos rítmicos a buena frecuencia, no se auscultan soplos ni extratonos. Murmullo vesicular conservado sin ruidos patológicos.
+Miembros inferiores sin edemas, pulsos palpables.
+Dolor a la palpación en zona de ambos trapecios y en musculatura paravertebral cervical.
+
+Pruebas complementarias:
+ECG: ritmo sinusal a 75 spm con t negativa en v2-v4. TA 96/53.
+Se derivó a urgencias hospitalarias para valoración.
+
+Enfoque familiar y comunitario
+Paciente de 15 años. Independiente para actividades básicas de la vida diaria. Estudiante de Educación Secundaria Obligatoria, vive con sus padres. Buen soporte familiar. Nivel socio cultural medio-alto. No presentaba patología previa conocida, apenas consultaba en el Centro de Salud
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+SCACEST por hipercoagulabilidad por posible trombofilia, enfermedad autoinmune o tumoración oculta.
+
+Plan de acción y evolución
+Tras valoración en urgencias del Centro de Salud, se deriva a Urgencias hospitalarias donde el paciente continúa con dolor pero refiere cierta mejoría. Se realiza nuevo Electrocardiograma a su llegada, encontrándose en ritmo sinusal a 75 spm y presentando elevación del ST con T picudas en II, III, aVF y V6, ondas T negativas en V2- V4.
+Pasa a observación, se extrae analítica. Hemograma con leucocitos 12410, hemoglobina 15.6. Resto dentro de la normalidad. Bioquímica con creatinina, urea e iones normales. Troponina T 434. Tóxicos en orina negativos, coagulación con INR normal.
+
+Se comenta caso con UCI que contacta con hemodinámica y realizan ecocardiografía y cateterismo urgente.
+Cateterismo árbol coronario con dominancia izquierda con lesión trombótica distal en rama obtusa marginal, aspiran lesión trombótica. No lesiones coronarias, flujo TIMI 3 tras el procedimiento.
+Tras cateterismo ECG ritmo sinusal, PR normal, Q en DIII, AVF, mayor qS en V1, V2, V3. Ondas T positivas.
+
+Se realiza interconsulta con hematología donde en anamnesis dirigida refieren familiares con AP de tíos y primos con mutación de gen de protrombina, se recomienda estudio complejo hematológico para descartar trombofilia, descartar tumoración oculta así como enfermedad de origen autoinmune. Se realiza TAC cráneo, tórax, abdomen y ecografía testicular sin hallazgos.
+Se procede al alta de medicina interna con seguimiento en consultas externas de enfermedades sistémicas para completar estudio de hipercoagulabilidad y posible trombofilia.
+
+Al alta tratamiento con Ácido acetilsalicílico 100mg en almuerzo, Atorvastatina 80 mg un comprimido en cena, Bisoprolol 2.5mg 1 comprimido en desayuno, omeprazol 20mg en desayuno, ticagrelor 90mg 1 comprimido cada 12 horas, ramipril 2.50 mg 1 comprimido en desayuno. Mantienen doble antiagregacion durante un año.

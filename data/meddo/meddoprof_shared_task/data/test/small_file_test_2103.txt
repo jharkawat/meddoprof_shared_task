@@ -1,0 +1,13 @@
+
+Destaca	O
+también	O
+disartria	O
+moderada	O
+,	O
+no	O
+siendo	O
+posible	O
+pronunciar	O
+palabras	O
+correctamente	O
+.	O

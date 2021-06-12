@@ -1,0 +1,13 @@
+
+Seis	O
+meses	O
+después	O
+la	O
+paciente	O
+estaba	O
+completamente	O
+restablecida	O
+de	O
+su	O
+enfermedad	O
+.	O

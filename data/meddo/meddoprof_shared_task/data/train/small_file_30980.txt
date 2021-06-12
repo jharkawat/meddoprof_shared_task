@@ -1,0 +1,17 @@
+
+En	O
+la	O
+infancia	O
+era	O
+un	O
+chico	O
+reservado	O
+,	O
+introvertido	O
+pero	O
+sociable	O
+y	O
+con	O
+muchos	O
+amigos	O
+.	O

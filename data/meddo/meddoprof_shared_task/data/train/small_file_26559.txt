@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+explicaba	O
+ideas	O
+delirantes	O
+autorreferenciales	O
+y	O
+de	O
+perjuicio	O
+,	O
+creyendo	O
+que	O
+su	O
+madre	O
+y	O
+él	O
+eran	O
+perseguidos	O
+por	O
+la	O
+policía	B-PROFESION
+.	O

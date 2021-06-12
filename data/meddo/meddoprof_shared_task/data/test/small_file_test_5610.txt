@@ -1,0 +1,24 @@
+
+Refiero	O
+dolor	O
+lancinante	O
+de	O
+inicio	O
+en	O
+glúteo	O
+izquierdo	O
+con	O
+irradiación	O
+por	O
+cara	O
+posterior	O
+de	O
+extremidad	O
+inferior	O
+izquierda	O
+hasta	O
+tercio	O
+distal	O
+de	O
+pierna	O
+.	O

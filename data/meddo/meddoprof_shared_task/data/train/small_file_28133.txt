@@ -1,0 +1,10 @@
+
+Ingurgitación	O
+yugular	O
+2	O
+/	O
+6	O
+con	O
+colapso	O
+inspiratorio	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+refiere	O
+antecedentes	O
+infecciosos	O
+en	O
+la	O
+familia	O
+ni	O
+TBC	O
+.	O

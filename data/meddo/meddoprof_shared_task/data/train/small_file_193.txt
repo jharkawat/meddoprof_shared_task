@@ -1,0 +1,20 @@
+
+El	O
+25	O
+de	O
+marzo	O
+,	O
+fue	O
+ingresado	O
+en	O
+un	O
+hospital	O
+regional	O
+con	O
+una	O
+semana	O
+de	O
+evolución	O
+de	O
+disnea	O
+.	O

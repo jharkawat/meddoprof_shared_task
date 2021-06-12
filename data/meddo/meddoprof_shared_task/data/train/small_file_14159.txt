@@ -1,0 +1,9 @@
+
+No	O
+signos	O
+meníngeos	O
+ni	O
+rigidez	O
+de	O
+nuca	O
+.	O

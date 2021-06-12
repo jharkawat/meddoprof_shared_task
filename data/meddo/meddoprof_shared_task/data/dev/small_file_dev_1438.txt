@@ -1,0 +1,7 @@
+
+Siempre	O
+tiene	O
+sensación	O
+de	O
+frío	O
+.	O

@@ -1,0 +1,23 @@
+
+Realiza	O
+tratamiento	O
+con	O
+amoxicilina	O
+-	O
+clavulánico	O
+durante	O
+siete	O
+días	O
+,	O
+pero	O
+ante	O
+la	O
+ausencia	O
+de	O
+mejoría	O
+acude	O
+a	O
+nuestro	O
+centro	O
+hospitalario	O
+.	O

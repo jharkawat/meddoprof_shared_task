@@ -1,0 +1,53 @@
+T1	SINTOMA 421 429	desmayar
+T2	SINTOMA 613 634	terriblemente ansiosa
+T3	SINTOMA 853 860	infeliz
+T4	SINTOMA 1130 1137	apetito
+T5	SINTOMA 1795 1800	feliz
+T6	SINTOMA 1803 1811	sociable
+T7	SINTOMA 2355 2363	incómoda
+T8	SINTOMA 2955 2965	anhedónica
+T9	SINTOMA 3030 3052	inhibición psicomotriz
+T10	SINTOMA 3067 3090	pensamiento desordenado
+T11	SINTOMA 3093 3119	características psicóticas
+T12	SINTOMA 3270 3292	temores eran excesivos
+T13	NEG 521 523	no
+T14	NSCO 524 545	había podido reunirse
+T15	NEG 1114 1119	Nunca
+T16	NSCO 1120 1137	tuvo gran apetito
+T17	NEG 2044 2046	no
+T18	NSCO 2047 2074	tenía confianza en sí misma
+T19	NEG 2406 2411	Nunca
+T20	NSCO 2412 2437	pudo hacer amigos íntimos
+T21	NEG 2972 2974	no
+T22	NSCO 2975 2984	deprimida
+T23	NEG 2986 2988	No
+T24	NSCO 2989 3119	había sentimientos de reproche personal, inhibición psicomotriz, ni signos de pensamiento desordenado o características psicóticas
+T25	NEG 3121 3123	No
+T26	NSCO 3124 3163	se observaron intentos de tomar ventaja
+T27	ORG_VIVO 3 11	paciente
+T28	ORG_VIVO 19 47	alumna de escuela secundaria
+T29	ORG_VIVO 115 123	paciente
+T30	ORG_VIVO 256 265	profesora
+T31	ORG_VIVO 1393 1401	paciente
+T32	ORG_VIVO 1447 1452	padre
+T33	ORG_VIVO 1479 1485	padres
+T34	ORG_VIVO 1501 1509	hermanos
+T35	ORG_VIVO 1512 1520	hermanas
+T36	ORG_VIVO 1584 1590	padres
+T37	ORG_VIVO 1617 1622	padre
+T38	ORG_VIVO 1667 1673	esposa
+T39	ORG_VIVO 1719 1727	paciente
+T40	ORG_VIVO 1732 1736	niña
+T41	ORG_VIVO 1774 1782	infancia
+T42	ORG_VIVO 2192 2198	vecino
+T43	ORG_VIVO 2423 2429	amigos
+T44	ORG_VIVO 2618 2622	mamá
+T45	ORG_VIVO 2635 2639	tías
+T46	ORG_VIVO 2752 2760	paciente
+T47	ORG_VIVO 3020 3028	personal
+T48	ENFERMEDAD 2722 2731	depresión
+T49	PACIENTE-SITUACION_LABORAL 19 25	alumna
+T50	OTROS-PROFESION 256 265	profesora
+T51	OTROS-SITUACION_LABORAL 556 567	estudiantes
+T52	FAMILIAR-PROFESION 1457 1464	albañil
+T53	OTROS-SITUACION_LABORAL 2393 2404	estudiantes

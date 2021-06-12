@@ -1,0 +1,181 @@
+T1	SINTOMA 73 78	dolor
+T2	SINTOMA 255 264	exfumador
+T3	SINTOMA 981 999	dolor de la pierna
+T4	SINTOMA 1147 1158	tumefacción
+T5	SINTOMA 1161 1175	enrojecimiento
+T6	SINTOMA 1197 1203	fiebre
+T7	SINTOMA 1465 1490	hemodinámicamente estable
+T8	SINTOMA 1493 1500	afebril
+T9	SINTOMA 1551 1572	hipoventilación basal
+T10	SINTOMA 1588 1612	tonos cardiacos rítmicos
+T11	SINTOMA 1619 1625	soplos
+T12	SINTOMA 1718 1765	tumefacción fluctuante en tercio medio de tibia
+T13	SINTOMA 1781 1788	eritema
+T14	SINTOMA 1791 1819	aumento de temperatura local
+T15	SINTOMA 2543 2570	sintomatología inflamatoria
+T16	SINTOMA 2572 2577	dolor
+T17	SINTOMA 4740 4755	dolor articular
+T18	SINTOMA 4758 4775	tumefacción local
+T19	SINTOMA 5931 5936	dolor
+T20	SINTOMA 6927 6934	afebril
+T21	SINTOMA 8027 8034	afebril
+T22	PROCEDIMIENTO 175 198	tratamiento antibiótico
+T23	PROCEDIMIENTO 542 577	endarterectomía de carótida derecha
+T24	PROCEDIMIENTO 1337 1360	tratamiento antibiótico
+T25	PROCEDIMIENTO 1507 1539	auscultación cardiorrespiratoria
+T26	PROCEDIMIENTO 1925 1934	hemograma
+T27	PROCEDIMIENTO 2087 2166	radiografía simple anteroposterior (AP) y lateral de miembro inferior izquierdo
+T28	PROCEDIMIENTO 2259 2279	radiografía de tórax
+T29	PROCEDIMIENTO 3735 3747	radioterapia
+T30	PROCEDIMIENTO 4908 4921	osteosíntesis
+T31	PROCEDIMIENTO 5077 5095	radiografía simple
+T32	PROCEDIMIENTO 6320 6340	radiografía de tórax
+T33	PROCEDIMIENTO 6737 6755	radiografía simple
+T34	PROCEDIMIENTO 6961 6984	tratamiento antibiótico
+T35	PROCEDIMIENTO 7270 7315	sarcófago en región anterointerna de la tibia
+T36	PROCEDIMIENTO 7386 7418	curetaje del absceso endomedular
+T37	PROCEDIMIENTO 7802 7816	antibioterapia
+T38	PROCEDIMIENTO 7979 7992	curas locales
+T39	PROCEDIMIENTO 8250 8264	antibioterapia
+T40	PROCEDIMIENTO 8288 8316	tratamiento tuberculostático
+T41	PROCEDIMIENTO 8441 8472	baciloscopias de esputo y orina
+T42	NEG 158 161	sin
+T43	NSCO 162 198	respuesta al tratamiento antibiótico
+T44	NEG 266 269	sin
+T45	NSCO 270 288	consumo de tóxicos
+T46	NEG 665 667	no
+T47	NSCO 668 741	había realizado viajes recientes, ni tenía contacto habitual con animales
+T48	NEG 924 927	sin
+T49	NSCO 928 975	presentar afectación de los miembros inferiores
+T50	NEG 1177 1179	No
+T51	NSCO 1180 1281	se acompañaba de fiebre ni otra sintomatología, ni refería traumatismo o picaduras previas en la zona
+T52	NEG 1408 1411	sin
+T53	NSCO 1412 1419	mejoría
+T54	NEG 1493 1500	afebril
+T55	NEG 1615 1618	sin
+T56	NSCO 1619 1625	soplos
+T57	NEG 1651 1653	No
+T58	NSCO 1654 1703	presentaba tampoco datos de focalidad neurológica
+T59	NEG 1821 1823	No
+T60	NSCO 1824 1888	se evidenciaron lesiones cutáneas ni articulares a otros niveles
+T61	NEG 1935 1937	no
+T62	NSCO 1938 1984	mostraba alteraciones en ninguna de sus series
+T63	NEG 2413 2416	sin
+T64	NSCO 2417 2435	otras alteraciones
+T65	UNC 2647 2654	sugiere
+T66	USCO 2655 2688	la presencia de una osteomielitis
+T67	UNC 2756 2772	primera sospecha
+T68	USCO 2773 2784	diagnóstica
+T69	NEG 2786 2788	No
+T70	NEG 2912 2921	descartar
+T71	NSCO 2922 2943	la patología tumoral1
+T72	NEG 3182 3184	no
+T73	NSCO 3185 3205	están bien definidos
+T74	NEG 3248 3255	Tampoco
+T75	NEG 3867 3870	sin
+T76	NSCO 3871 3890	esclerosis marginal
+T77	NEG 3945 3947	no
+T78	NSCO 3948 4012	existe clínica que sugiera la presencia de un carcinoma primario
+T79	UNC 4034 4044	plantearse
+T80	USCO 4045 4091	el diagnóstico diferencial con el plasmocitoma
+T81	NEG 4122 4125	sin
+T82	NSCO 4126 4190	evidencia clínica, histológica o radiológica de mieloma múltiple
+T83	NSCO 4541 4597	una forma subaguda o crónica de osteomielitis hematógena
+T84	NEG 5028 5030	no
+T85	NSCO 5031 5069	existen signos de enfermedad sistémica
+T86	NEG 5856 5858	no
+T87	NSCO 5859 5900	es habitual encontrar reacción perióstica
+T88	NEG 6037 6039	no
+T89	NSCO 6040 6053	caseificantes
+T90	NEG 6256 6258	no
+T91	NSCO 6259 6352	presentaba clínica sistémica sugestiva ni alteraciones en la radiografía de tórax compatibles
+T92	NEG 6677 6689	asintomática
+T93	NEG 6927 6934	afebril
+T94	NEG 8001 8004	sin
+T95	NSCO 8005 8016	incidencias
+T96	NEG 8027 8034	afebril
+T97	NEG 8091 8093	no
+T98	NSCO 8094 8115	se observaron bacilos
+T99	NEG 8170 8179	negativos
+T100	NEG 8238 8249	retirándose
+T101	NSCO 8250 8273	antibioterapia empírica
+T102	NEG 8480 8489	negativas
+T103	NEG 8679 8682	sin
+T104	NSCO 8683 8713	alteración del perfil hepático
+T105	FARMACO 526 538	acenocumarol
+T106	FARMACO 7615 7626	gentamicina
+T107	FARMACO 7629 7640	vancomicina
+T108	FARMACO 7830 7841	cloxacilina
+T109	FARMACO 7861 7872	ceftriaxona
+T110	FARMACO 8336 8343	Rimstar
+T111	FARMACO 8346 8357	rifampicina
+T112	FARMACO 8359 8371	pirazinamida
+T113	FARMACO 8373 8382	etambutol
+T114	FARMACO 8385 8395	isoniacida
+T115	ORG_VIVO 26 31	varón
+T116	ORG_VIVO 215 223	paciente
+T117	ORG_VIVO 631 639	paciente
+T118	ORG_VIVO 733 741	animales
+T119	ORG_VIVO 764 773	camionero
+T120	ORG_VIVO 1380 1407	médico de atención primaria
+T121	ORG_VIVO 1442 1450	paciente
+T122	ORG_VIVO 2734 2749	microorganismos
+T123	ORG_VIVO 3609 3618	pacientes
+T124	ORG_VIVO 3640 3649	pacientes
+T125	ORG_VIVO 4420 4428	paciente
+T126	ORG_VIVO 4676 4685	pacientes
+T127	ORG_VIVO 6247 6255	paciente
+T128	ORG_VIVO 6637 6644	jóvenes
+T129	ORG_VIVO 6708 6716	paciente
+T130	ORG_VIVO 6894 6902	paciente
+T131	ORG_VIVO 7744 7753	bacterias
+T132	ORG_VIVO 7761 7774	micobacterias
+T133	ORG_VIVO 7907 7915	paciente
+T134	ORG_VIVO 8108 8115	bacilos
+T135	ORG_VIVO 8132 8143	bacterianos
+T136	ORG_VIVO 8193 8219	Mycobacterium tuberculosis
+T137	ORG_VIVO 8300 8316	tuberculostático
+T138	ORG_VIVO 8441 8454	baciloscopias
+T139	ORG_VIVO 8502 8510	paciente
+T140	ENFERMEDAD 81 121	lesión abscesificada en región pretibial
+T141	ENFERMEDAD 320 341	hipertensión arterial
+T142	ENFERMEDAD 343 353	dislipemia
+T143	ENFERMEDAD 355 379	diabetes mellitus tipo 2
+T144	ENFERMEDAD 427 472	cardiopatía isquémica crónica revascularizada
+T145	ENFERMEDAD 474 507	fibrilación auricular paroxística
+T146	ENFERMEDAD 595 626	accidente isquémico transitorio
+T147	ENFERMEDAD 857 886	traumatismo accidental costal
+T148	ENFERMEDAD 901 922	hemotórax recidivante
+T149	ENFERMEDAD 1840 1857	lesiones cutáneas
+T150	ENFERMEDAD 2675 2688	osteomielitis
+T151	ENFERMEDAD 2699 2749	infección del hueso por diferentes microorganismos
+T152	ENFERMEDAD 2832 2870	lesiones osteolíticas en huesos largos
+T153	ENFERMEDAD 2977 2988	metastásica
+T154	ENFERMEDAD 3003 3029	patología tumoral primaria
+T155	ENFERMEDAD 3034 3046	osteosarcoma
+T156	ENFERMEDAD 3710 3729	enfermedad de Paget
+T157	ENFERMEDAD 3766 3786	tumores metastásicos
+T158	ENFERMEDAD 3802 3838	metástasis osteolíticas de carcinoma
+T159	ENFERMEDAD 3994 4012	carcinoma primario
+T160	ENFERMEDAD 4079 4091	plasmocitoma
+T161	ENFERMEDAD 4093 4121	lesión osteolítica solitaria
+T162	ENFERMEDAD 4174 4190	mieloma múltiple
+T163	ENFERMEDAD 4208 4267	proliferación localizada de células plasmáticas neoplásicas
+T164	ENFERMEDAD 4514 4532	absceso de Brodie2
+T165	ENFERMEDAD 4573 4597	osteomielitis hematógena
+T166	ENFERMEDAD 4643 4670	infecciones óseas primarias
+T167	ENFERMEDAD 4957 5014	absceso confinado dentro de un borde de hueso esclerótico
+T168	ENFERMEDAD 5320 5331	sarcoidosis
+T169	ENFERMEDAD 5424 5462	histiocitosis de células de Langerhans
+T170	ENFERMEDAD 5955 5966	sarcoidosis
+T171	ENFERMEDAD 5974 6008	enfermedad sistémica caracterizada
+T172	ENFERMEDAD 6103 6136	ganglios linfáticos mediastínicos
+T173	ENFERMEDAD 6436 6544	tumores óseos benignos, y se localiza en la diáfisis y el extremo epifisario de los huesos largos, la pelvis
+T174	ENFERMEDAD 7066 7086	lesión abscesificada
+T175	ENFERMEDAD 7220 7254	fistulización procedente del hueso
+T176	ENFERMEDAD 7399 7418	absceso endomedular
+T177	ENFERMEDAD 8604 8628	Enfermedades Infecciosas
+T178	ENFERMEDAD 8734 8797	Osteomielitis de tibia izquierda por Mycobacterium tuberculosis
+T179	PACIENTE-PROFESION 764 773	camionero
+T180	PACIENTE-SITUACION_LABORAL 778 786	jubilado
+T181	SANITARIO-PROFESION 1380 1407	médico de atención primaria

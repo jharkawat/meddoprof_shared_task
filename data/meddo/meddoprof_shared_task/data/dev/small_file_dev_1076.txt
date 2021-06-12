@@ -1,0 +1,13 @@
+
+Preparación	O
+con	O
+bloqueo	O
+previo	O
+tiroideo	O
+(	O
+administración	O
+oral	O
+de	O
+lugol	O
+)	O
+.	O

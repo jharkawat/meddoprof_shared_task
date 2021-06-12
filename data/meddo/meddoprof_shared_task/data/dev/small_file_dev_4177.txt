@@ -1,0 +1,22 @@
+
+Piel	O
+-	O
+Linfoganglional	O
+:	O
+humeda	O
+,	O
+sin	O
+palidez	O
+,	O
+sin	O
+lesiones	O
+aparentes	O
+,	O
+no	O
+se	O
+visualizan	O
+ni	O
+se	O
+palpan	O
+ganglios	O
+.	O

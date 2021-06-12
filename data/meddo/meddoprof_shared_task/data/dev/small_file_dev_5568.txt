@@ -1,0 +1,5 @@
+
+Cuerpo	O
+extraño	O
+intrauretral	O
+.	O

@@ -1,0 +1,98 @@
+T1	SINTOMA 73 83	Hemoptisis
+T2	SINTOMA 573 587	dolor torácico
+T3	SINTOMA 607 618	pleuríticas
+T4	SINTOMA 698 704	fiebre
+T5	SINTOMA 715 726	escalofríos
+T6	SINTOMA 739 757	sensación disneica
+T7	SINTOMA 797 831	dolor a nivel de trayecto inguinal
+T8	SINTOMA 979 985	edemas
+T9	SINTOMA 1322 1350	descamación en área perianal
+T10	PROCEDIMIENTO 274 298	colocación de colostomía
+T11	PROCEDIMIENTO 301 328	reconstrucción con colgajos
+T12	PROCEDIMIENTO 357 377	Cierre de colostomía
+T13	PROCEDIMIENTO 882 900	Exploración física
+T14	PROCEDIMIENTO 1069 1080	Rx de tórax
+T15	PROCEDIMIENTO 1085 1088	ECG
+T16	PROCEDIMIENTO 1522 1541	corticoides tópicos
+T17	PROCEDIMIENTO 1638 1645	biopsia
+T18	PROCEDIMIENTO 2656 2676	pruebas completarías
+T19	PROCEDIMIENTO 2679 2703	Colonoscopia hasta ciego
+T20	PROCEDIMIENTO 2883 2936	polipectomía endoscópica de colon ascendente proximal
+T21	PROCEDIMIENTO 3131 3160	Ecografía de aparato urinario
+T22	PROCEDIMIENTO 3183 3207	Exploración ginecológica
+T23	PROCEDIMIENTO 3517 3552	TAC body con reconstrucciones óseas
+T24	PROCEDIMIENTO 3743 3748	TACAR
+T25	PROCEDIMIENTO 4153 4169	estudio torácico
+T26	PROCEDIMIENTO 4321 4342	TAC ABDOMINO-PÉLVICO
+T27	PROCEDIMIENTO 5300 5331	reconstrucción plástica del ano
+T28	PROCEDIMIENTO 5428 5447	ecografía abdominal
+T29	PROCEDIMIENTO 6095 6098	TAC
+T30	PROCEDIMIENTO 6115 6134	Ecografía abdominal
+T31	PROCEDIMIENTO 6223 6242	estudio histológico
+T32	NEG 682 684	no
+T33	NSCO 685 704	había tenido fiebre
+T34	NEG 975 978	sin
+T35	NSCO 979 1024	edemas ni signos de trombosis venosa profunda
+T36	NEG 1418 1441	cultivos para descartar
+T37	NSCO 1442 1496	proceso infeccioso bacteriano o micótico el 22/06/2012
+T38	NEG 3023 3035	inespecífica
+T39	NEG 3060 3062	no
+T40	NSCO 3063 3129	se observa displasia epitelial ni signos de malignidad histológica
+T41	UNC 4830 4843	sugestivas de
+T42	USCO 4844 4893	metástasis generalizadas con linfangitis pulmonar
+T43	UNC 5185 5204	primera posibilidad
+T44	USCO 5205 5295	etiológica de dichas metástasis sería la de su enfermedad de Paget intervenida previamente
+T45	UNC 5914 5927	probablemente
+T46	USCO 5928 5967	atrapen discretamente el uréter derecho
+T47	UNC 6034 6041	podrían
+T48	USCO 6042 6057	ser patológicas
+T49	FARMACO 1378 1385	Lexxema
+T50	ORG_VIVO 22 27	Mujer
+T51	ORG_VIVO 99 109	Familiares
+T52	ORG_VIVO 110 115	Padre
+T53	ORG_VIVO 152 162	personales
+T54	ORG_VIVO 490 495	Mujer
+T55	ORG_VIVO 3234 3242	paciente
+T56	ORG_VIVO 6151 6159	paciente
+T57	ENFERMEDAD 73 83	Hemoptisis
+T58	ENFERMEDAD 120 136	cáncer de pulmón
+T59	ENFERMEDAD 163 204	Enfermedad de Paget extramamaria perianal
+T60	ENFERMEDAD 555 570	hemoptisis leve
+T61	ENFERMEDAD 665 680	cuadro catarral
+T62	ENFERMEDAD 923 956	conglomerado adenopático en ingle
+T63	ENFERMEDAD 999 1024	trombosis venosa profunda
+T64	ENFERMEDAD 1286 1350	lesiones eritematosas con grietas y descamación en área perianal
+T65	ENFERMEDAD 1442 1471	proceso infeccioso bacteriano
+T66	ENFERMEDAD 1474 1496	micótico el 22/06/2012
+T67	ENFERMEDAD 2440 2465	lesión en región perianal
+T68	ENFERMEDAD 2525 2539	Paget perianal
+T69	ENFERMEDAD 2747 2786	pólipo diminuto de aspecto hiperplásico
+T70	ENFERMEDAD 2817 2828	hemorroides
+T71	ENFERMEDAD 3407 3417	Hemoptisis
+T72	ENFERMEDAD 3605 3642	adenopatías en ventana aorto-pulmonar
+T73	ENFERMEDAD 3764 3789	linfangitis carcinomatosa
+T74	ENFERMEDAD 4102 4117	derrame pleural
+T75	ENFERMEDAD 4366 4383	nódulos hepáticos
+T76	ENFERMEDAD 4603 4754	fractura-fisura del arco postero-lateral derecho de 5a costilla derecha columna lumbar ramas iliacas, púbicas sobre todo la derecha y en cuello femoral
+T77	ENFERMEDAD 4844 4868	metástasis generalizadas
+T78	ENFERMEDAD 4873 4893	linfangitis pulmonar
+T79	ENFERMEDAD 4895 4915	metástasis hepáticas
+T80	ENFERMEDAD 4917 4946	adenopatías en hilio hepático
+T81	ENFERMEDAD 4947 4962	y en hemipelvis
+T82	ENFERMEDAD 4975 4998	atrapamiento del uréter
+T83	ENFERMEDAD 5059 5072	hidronefrosis
+T84	ENFERMEDAD 5074 5096	adenopatías inguinales
+T85	ENFERMEDAD 5100 5151	metástasis osteolíticas difusas en todos los huesos
+T86	ENFERMEDAD 5226 5236	metástasis
+T87	ENFERMEDAD 5252 5271	enfermedad de Paget
+T88	ENFERMEDAD 5401 5416	lesión hepática
+T89	ENFERMEDAD 5529 5580	adenopatías en hilio hepático en espacio porto-cava
+T90	ENFERMEDAD 5826 5847	adenopatía patológica
+T91	ENFERMEDAD 6000 6029	adenopatías una en cada ingle
+T92	ENFERMEDAD 6171 6193	adenopatías inguinales
+T93	ENFERMEDAD 6288 6309	Metástasis ganglionar
+T94	ENFERMEDAD 6317 6355	Adenocarcinoma pobremente diferenciado
+T95	ENFERMEDAD 6379 6413	metástasis por Enfermedad de Paget
+T96	ENFERMEDAD 6462 6514	Linfangiectasia por Enfermedad de Paget extramamaria
+T97	ENFERMEDAD 6519 6544	afección inicial perianal
+T98	PACIENTE-SITUACION_LABORAL 40 51	Ama de casa

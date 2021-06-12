@@ -1,0 +1,10 @@
+
+El	O
+niño	O
+ingresa	O
+en	O
+la	O
+planta	O
+de	O
+Neuropediatría	O
+.	O

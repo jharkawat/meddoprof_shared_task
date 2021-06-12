@@ -1,0 +1,22 @@
+
+Trabajó	B-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+hostelería	I-PROFESION
+hasta	O
+que	O
+fue	O
+incapacitado	B-SITUACION_LABORAL
+por	I-SITUACION_LABORAL
+deterioro	I-SITUACION_LABORAL
+funcional	I-SITUACION_LABORAL
+en	O
+relación	O
+con	O
+enfermedad	O
+de	O
+Parkinson	O
+(	O
+EP	O
+)	O
+.	O

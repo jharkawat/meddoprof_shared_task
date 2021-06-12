@@ -1,0 +1,25 @@
+
+A	O
+la	O
+exploración	O
+destacaba	O
+parálisis	O
+de	O
+cuerda	O
+vocal	O
+izquierda	O
+,	O
+junto	O
+con	O
+disnea	O
+de	O
+esfuerzo	O
+grado	O
+1	O
+(	O
+escala	O
+mMRC	O
+)	O
+y	O
+astenia	O
+.	O

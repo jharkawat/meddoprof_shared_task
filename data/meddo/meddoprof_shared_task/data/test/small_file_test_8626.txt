@@ -1,0 +1,7 @@
+
+Auscultación	O
+cardiaca	O
+rítmica	O
+sin	O
+soplos	O
+.	O

@@ -1,0 +1,19 @@
+
+En	O
+nasofibroendoscopia	O
+se	O
+visualiza	O
+cavum	O
+ligeramente	O
+asimétrico	O
+a	O
+expensas	O
+de	O
+hemicavum	O
+izquierdo	O
+sin	O
+erosiones	O
+de	O
+la	O
+mucosa	O
+.	O

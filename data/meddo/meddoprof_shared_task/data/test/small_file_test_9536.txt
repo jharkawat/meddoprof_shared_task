@@ -1,0 +1,20 @@
+
+Ante	O
+el	O
+cuadro	O
+de	O
+diplopía	O
+,	O
+se	O
+realiza	O
+TC	O
+cerebral	O
+y	O
+posteriormente	O
+RM	O
+cerebral	O
+sin	O
+evidenciarse	O
+lesiones	O
+metastásicas	O
+.	O

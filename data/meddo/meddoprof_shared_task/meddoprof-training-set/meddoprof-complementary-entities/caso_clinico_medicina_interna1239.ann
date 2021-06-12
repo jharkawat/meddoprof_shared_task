@@ -1,0 +1,157 @@
+T1	SINTOMA 97 106	exfumador
+T2	SINTOMA 608 614	fiebre
+T3	SINTOMA 617 632	pérdida de peso
+T4	SINTOMA 920 950	alteración de la función renal
+T5	SINTOMA 1197 1212	pérdida de peso
+T6	SINTOMA 1249 1283	parestesias en miembros inferiores
+T7	SINTOMA 1354 1362	poliuria
+T8	SINTOMA 1387 1405	nicturia llamativa
+T9	SINTOMA 1414 1436	síntomas inespecíficos
+T10	SINTOMA 1442 1461	fiebre intermitente
+T11	SINTOMA 1463 1473	artralgias
+T12	SINTOMA 1476 1498	hiporexia intermitente
+T13	SINTOMA 1624 1657	empeoramiento de la función renal
+T14	SINTOMA 2111 2140	orientado en tiempo y espacio
+T15	SINTOMA 2219 2227	Eupneico
+T16	SINTOMA 2229 2236	afebril
+T17	SINTOMA 2392 2398	soplos
+T18	SINTOMA 2415 2454	murmullo vesicular disminuido levemente
+T19	SINTOMA 2541 2595	Abdomen blando, depresible, no doloroso a la palpación
+T20	SINTOMA 2597 2626	Ruidos hidroaéreos conservado
+T21	SINTOMA 2652 2658	edemas
+T22	SINTOMA 2894 2924	alteración de la función renal
+T23	SINTOMA 3347 3357	linfopenia
+T24	SINTOMA 3769 3780	proteinuria
+T25	SINTOMA 4644 4708	patrón intersticial periférico que predomina en bases pulmonares
+T26	SINTOMA 7753 7780	ganancia progresiva de peso
+T27	PROCEDIMIENTO 515 522	biopsia
+T28	PROCEDIMIENTO 662 688	tratamiento con esteroides
+T29	PROCEDIMIENTO 1178 1187	anamnesis
+T30	PROCEDIMIENTO 1966 1978	sueroterapia
+T31	PROCEDIMIENTO 2023 2041	Exploración física
+T32	PROCEDIMIENTO 2335 2362	Auscultación cardiopulmonar
+T33	PROCEDIMIENTO 3292 3301	hemograma
+T34	PROCEDIMIENTO 3974 3987	proteinograma
+T35	PROCEDIMIENTO 4199 4208	mapa óseo
+T36	PROCEDIMIENTO 4384 4403	ecografía abdominal
+T37	PROCEDIMIENTO 4601 4620	TC toraco-abdominal
+T38	PROCEDIMIENTO 4824 4867	tomografía computerizada de alta resolución
+T39	PROCEDIMIENTO 4869 4874	TACAR
+T40	PROCEDIMIENTO 5918 5937	TC toraco-abdominal
+T41	PROCEDIMIENTO 6187 6203	gammagrafía ósea
+T42	PROCEDIMIENTO 6651 6658	mantoux
+T43	PROCEDIMIENTO 6788 6790	TC
+T44	PROCEDIMIENTO 7156 7173	fibrobroncoscopia
+T45	NEG 200 205	Niega
+T46	NSCO 206 224	consumo de alcohol
+T47	NEG 523 525	no
+T48	NSCO 526 537	concluyente
+T49	NEG 770 773	sin
+T50	NSCO 774 798	tomar dichos tratamiento
+T51	NEG 1500 1505	Niega
+T52	NSCO 1506 1549	consumo de suplementos cálcicos o vitaminas
+T53	NEG 2229 2236	afebril
+T54	NEG 2277 2279	No
+T55	NSCO 2280 2333	adenopatías cervicales, supraclaviculares ni axilares
+T56	NEG 2389 2391	no
+T57	NSCO 2392 2412	soplos ni extratonos
+T58	NEG 2477 2480	sin
+T59	NSCO 2481 2517	auscultarse otros ruidos patológicos
+T60	NEG 2519 2521	No
+T61	NSCO 2522 2539	soplos carótideos
+T62	NEG 2569 2571	no
+T63	NSCO 2572 2595	doloroso a la palpación
+T64	NEG 2648 2651	sin
+T65	NSCO 2652 2697	edemas ni signos de trombosis venosa profunda
+T66	NEG 3663 3666	sin
+T67	NSCO 3667 3674	consumo
+T68	NEG 3697 3700	sin
+T69	NSCO 3701 3710	elevación
+T70	NEG 3940 3949	negativos
+T71	NEG 4163 4171	negativa
+T72	NEG 4256 4259	sin
+T73	NSCO 4260 4321	apreciarse imágenes líticas sugestivas de proceso mielomatoso
+T74	UNC 4477 4488	sospecha de
+T75	USCO 4489 4525	un proceso neoplásico sólido de base
+T76	NEG 4710 4713	sin
+T77	NSCO 4714 4764	encontrar imágenes patológicas a nivel del abdomen
+T78	UNC 5715 5723	probable
+T79	USCO 5724 5738	esta etiología
+T80	NEG 5796 5805	descartar
+T81	NSCO 5806 5854	la neoplasia tanto sólida, primaria o metástasis
+T82	NEG 5947 5956	descartar
+T83	NSCO 5957 5975	la primera de ella
+T84	NEG 6216 6224	negativa
+T85	NEG 6290 6292	no
+T86	NSCO 6293 6335	se contempló en el diagnóstico diferencial
+T87	NEG 6349 6351	no
+T88	NSCO 6352 6369	había introducido
+T89	NEG 6370 6377	tampoco
+T90	NSCO 6378 6419	nuevos fármacos que justificara el cuadro
+T91	NEG 6663 6671	negativo
+T92	NSCO 6672 6691	en nuestro paciente
+T93	UNC 6719 6726	parecía
+T94	USCO 6727 6731	poco
+T95	UNC 6732 6740	probable
+T96	NEG 6862 6873	se sospechó
+T97	NSCO 6874 6910	sarcoidosis como primera posibilidad
+T98	NEG 7224 7226	no
+T99	NSCO 7227 7265	caseificante en la anatomía patológica
+T100	NEG 7415 7423	negativa
+T101	UNC 7473 7488	compatibles con
+T102	USCO 7489 7518	el diagnóstico de sarcoidosis
+T103	UNC 8133 8141	probable
+T104	USCO 8142 8202	relación con metabolismo anormal del calcio en este contexto
+T105	FARMACO 306 315	enalapril
+T106	FARMACO 323 333	manidipino
+T107	FARMACO 393 403	budesonida
+T108	FARMACO 404 414	formoterol
+T109	FARMACO 428 438	ipratropio
+T110	FARMACO 7600 7610	prednisona
+T111	ORG_VIVO 65 73	paciente
+T112	ORG_VIVO 87 95	jubilado
+T113	ORG_VIVO 1059 1067	paciente
+T114	ORG_VIVO 2059 2067	paciente
+T115	ORG_VIVO 3901 3906	viral
+T116	ORG_VIVO 3912 3915	VHB
+T117	ORG_VIVO 3917 3920	VHC
+T118	ORG_VIVO 3923 3926	VIH
+T119	ORG_VIVO 5134 5139	varón
+T120	ORG_VIVO 5660 5668	paciente
+T121	ORG_VIVO 6340 6348	paciente
+T122	ORG_VIVO 6683 6691	paciente
+T123	ORG_VIVO 7129 7137	paciente
+T124	ENFERMEDAD 206 224	consumo de alcohol
+T125	ENFERMEDAD 242 263	hipertensión arterial
+T126	ENFERMEDAD 349 373	EPOC grado II de la GOLD
+T127	ENFERMEDAD 486 510	arteritis de la temporal
+T128	ENFERMEDAD 540 561	polimialgia reumática
+T129	ENFERMEDAD 985 998	hipercalcemia
+T130	ENFERMEDAD 1940 1953	hipercalcemia
+T131	ENFERMEDAD 2280 2321	adenopatías cervicales, supraclaviculares
+T132	ENFERMEDAD 2672 2697	trombosis venosa profunda
+T133	ENFERMEDAD 2930 2943	hipercalcemia
+T134	ENFERMEDAD 4037 4053	mieloma múltiple
+T135	ENFERMEDAD 4233 4255	lesiones degenerativas
+T136	ENFERMEDAD 4492 4510	proceso neoplásico
+T137	ENFERMEDAD 4572 4585	hipercalcemia
+T138	ENFERMEDAD 5153 5172	insuficiencia renal
+T139	ENFERMEDAD 5199 5212	hipercalcemia
+T140	ENFERMEDAD 5255 5268	hipercalcemia
+T141	ENFERMEDAD 5378 5407	enfermedades endocrinológicas
+T142	ENFERMEDAD 5409 5436	enfermedades granulomatosas
+T143	ENFERMEDAD 5560 5573	hipercalcemia
+T144	ENFERMEDAD 5619 5627	adenomas
+T145	ENFERMEDAD 5759 5782	síndrome constitucional
+T146	ENFERMEDAD 5809 5831	neoplasia tanto sólida
+T147	ENFERMEDAD 5844 5854	metástasis
+T148	ENFERMEDAD 6044 6060	mieloma múltiple
+T149	ENFERMEDAD 6084 6097	hipercalcemia
+T150	ENFERMEDAD 6612 6646	enfermedad de origen granulomatoso
+T151	ENFERMEDAD 6706 6718	tuberculosis
+T152	ENFERMEDAD 6874 6885	sarcoidosis
+T153	ENFERMEDAD 7507 7518	sarcoidosis
+T154	ENFERMEDAD 7706 7729	síndrome constitucional
+T155	ENFERMEDAD 8067 8094	Insuficiencia renal crónica
+T156	ENFERMEDAD 8108 8129	sarcoidosis sistémica
+T157	PACIENTE-SITUACION_LABORAL 87 95	jubilado

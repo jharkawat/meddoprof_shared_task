@@ -1,0 +1,10 @@
+
+Numerosas	O
+imágenes	O
+nodulares	O
+pulmonares	O
+y	O
+derrame	O
+pleural	O
+derecho	O
+.	O

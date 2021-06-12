@@ -1,0 +1,9 @@
+
+Ha	B-PROFESION
+trabajado	I-PROFESION
+en	I-PROFESION
+varias	I-PROFESION
+empresas	I-PROFESION
+de	I-PROFESION
+limpieza	I-PROFESION
+.	O

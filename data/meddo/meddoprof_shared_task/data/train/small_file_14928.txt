@@ -1,0 +1,21 @@
+
+Tras	O
+esto	O
+,	O
+se	O
+procedió	O
+a	O
+la	O
+determinación	O
+de	O
+glucagón	O
+,	O
+cromogranina	O
+,	O
+así	O
+como	O
+de	O
+catecolaminas	O
+en	O
+orina	O
+.	O

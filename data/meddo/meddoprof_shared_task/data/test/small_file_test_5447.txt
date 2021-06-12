@@ -1,0 +1,24 @@
+
+Se	O
+completó	O
+estudio	O
+con	O
+eco	O
+-	O
+doppler	O
+de	O
+extremidades	O
+inferiores	O
+,	O
+que	O
+objetivó	O
+trombosis	O
+desde	O
+vena	O
+femoral	O
+común	O
+izquierda	O
+hasta	O
+vena	O
+poplítea	O
+.	O

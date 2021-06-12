@@ -1,0 +1,41 @@
+T1	SINTOMA 273 288	pérdida de peso
+T2	SINTOMA 290 297	vómitos
+T3	SINTOMA 299 318	rechazo al alimento
+T4	SINTOMA 321 337	malestar general
+T5	SINTOMA 564 579	hipotonía axial
+T6	PROCEDIMIENTO 193 222	tratamiento con Quimioterapia
+T7	PROCEDIMIENTO 461 463	RM
+T8	PROCEDIMIENTO 1283 1301	sonda nasogástrica
+T9	NEG 413 415	No
+T10	NSCO 416 435	responde a la dieta
+T11	NEG 609 611	no
+T12	NSCO 612 638	presenta control de tronco
+T13	NEG 748 750	No
+T14	NSCO 751 773	mantiene bipedestación
+T15	NEG 1019 1030	incapacidad
+T16	NEG 1520 1522	No
+T17	NSCO 1523 1530	cuentan
+T18	NEG 2124 2126	no
+T19	NSCO 2127 2138	corresponde
+T20	ORG_VIVO 0 4	Niña
+T21	ORG_VIVO 925 933	paciente
+T22	ORG_VIVO 1317 1325	familiar
+T23	ORG_VIVO 1330 1334	niña
+T24	ORG_VIVO 1348 1354	padres
+T25	ORG_VIVO 1365 1372	hermano
+T26	ORG_VIVO 1389 1394	padre
+T27	ORG_VIVO 1408 1426	arquitecto técnico
+T28	ORG_VIVO 1443 1448	madre
+T29	ORG_VIVO 1544 1551	familia
+T30	ORG_VIVO 1670 1674	hija
+T31	ORG_VIVO 1958 1966	infantil
+T32	ORG_VIVO 2116 2123	persona
+T33	ORG_VIVO 2152 2159	familia
+T34	ENFERMEDAD 94 112	neoplasia cerebral
+T35	ENFERMEDAD 114 166	astrocitoma pilocitico diseminado) en fosa posterior
+T36	ENFERMEDAD 373 391	enfermedad celíaca
+T37	FAMILIAR-PROFESION 1408 1426	arquitecto técnico
+T38	FAMILIAR-SITUACION_LABORAL 1428 1436	autónomo
+T39	FAMILIAR-PROFESION 1449 1501	trabaja en el departamento financiero de una empresa
+T40	FAMILIAR-SITUACION_LABORAL 1626 1646	compaginar su empleo
+T41	PACIENTE-SITUACION_LABORAL 1929 1966	cursaba tercero de educación infantil

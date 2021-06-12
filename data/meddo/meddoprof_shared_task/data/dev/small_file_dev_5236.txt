@@ -1,0 +1,26 @@
+
+Desde	O
+hace	O
+6	O
+meses	O
+no	O
+realiza	O
+tratamiento	O
+,	O
+encontrándose	O
+en	O
+la	O
+actualidad	O
+asintomática	O
+,	O
+con	O
+Rx	O
+de	O
+tórax	O
+normal	O
+y	O
+pruebas	O
+funcionales	O
+respiratorias	O
+normales	O
+.	O

@@ -1,0 +1,19 @@
+
+Reacciona	O
+negativamente	O
+ante	O
+los	O
+refuerzos	O
+que	O
+se	O
+le	O
+proporcionan	O
+en	O
+público	O
+y	O
+con	O
+frustración	O
+ante	O
+los	O
+fracasos	O
+.	O

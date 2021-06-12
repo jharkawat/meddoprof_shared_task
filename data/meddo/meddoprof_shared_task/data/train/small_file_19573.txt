@@ -1,0 +1,6 @@
+
+Signos	O
+vitales	O
+y	O
+somatometria	O
+:	O

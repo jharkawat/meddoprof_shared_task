@@ -1,0 +1,26 @@
+
+En	O
+la	O
+exploración	O
+cabe	O
+destacar	O
+un	O
+ligero	O
+tinte	O
+ictérico	O
+cutáneo	O
+y	O
+dolor	O
+en	O
+hipocondrio	O
+derecho	O
+a	O
+la	O
+palpación	O
+,	O
+sin	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+.	O

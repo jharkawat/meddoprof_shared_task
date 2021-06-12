@@ -1,0 +1,20 @@
+
+Carcinoma	O
+renal	O
+de	O
+células	O
+claras	O
+,	O
+estadio	O
+IV	O
+(	O
+pT3N2M1	O
+)	O
+,	O
+por	O
+afectación	O
+ganglionar	O
+mediastínica	O
+y	O
+supraclavicular	O
+.	O

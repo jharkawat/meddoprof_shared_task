@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+destacaba	O
+por	O
+su	O
+interés	O
+y	O
+habilidad	O
+para	O
+la	O
+escritura	O
+y	O
+,	O
+sobre	O
+todo	O
+,	O
+para	O
+el	O
+dibujo	O
+.	O

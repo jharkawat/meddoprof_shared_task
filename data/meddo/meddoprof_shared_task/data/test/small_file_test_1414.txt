@@ -1,0 +1,12 @@
+
+La	O
+vitalidad	O
+fue	O
+negativa	O
+en	O
+la	O
+pieza	O
+1	O
+.	O
+7	O
+.	O

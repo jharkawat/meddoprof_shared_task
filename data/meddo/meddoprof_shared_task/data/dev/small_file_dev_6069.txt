@@ -1,0 +1,24 @@
+
+En	O
+el	O
+análisis	O
+de	O
+sangre	O
+presentaba	O
+11	O
+.	O
+700	O
+leucocitos	O
+(	O
+83	O
+%	O
+neutrófilos	O
+)	O
+y	O
+velocidad	O
+de	O
+sedimentación	O
+globular	O
+de	O
+100	O
+.	O

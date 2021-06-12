@@ -1,0 +1,11 @@
+
+Aspecto	O
+y	O
+actitud	O
+que	O
+corresponden	O
+a	O
+menor	O
+edad	O
+cronológica	O
+.	O

@@ -1,0 +1,21 @@
+
+Lesiones	O
+:	O
+Se	O
+aprecian	O
+lesiones	O
+cutáneas	O
+tales	O
+como	O
+maculas	O
+vasculares	O
+e	O
+algunas	O
+pápulas	O
+en	O
+el	O
+piel	O
+de	O
+la	O
+espalda	O
+.	O

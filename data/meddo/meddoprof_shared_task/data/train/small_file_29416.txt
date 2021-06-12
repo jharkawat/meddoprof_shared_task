@@ -1,0 +1,6 @@
+
+No	O
+apatoabulia	O
+ni	O
+anhedonia	O
+.	O

@@ -1,0 +1,15 @@
+
+Ausencia	O
+de	O
+adenomegalias	O
+cervicales	O
+,	O
+axilares	O
+e	O
+inguinales	O
+y	O
+resto	O
+de	O
+exploración	O
+anodina	O
+.	O

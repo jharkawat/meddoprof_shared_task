@@ -1,0 +1,19 @@
+
+ITU	O
+,	O
+DM2	O
+,	O
+angiopatía	O
+diabética	O
+,	O
+HTA	O
+,	O
+SAHS	O
+,	O
+dislipemia	O
+,	O
+hiperuricemia	O
+,	O
+esteatosis	O
+hepática	O
+.	O

@@ -1,0 +1,10 @@
+
+La	O
+población	O
+celular	O
+se	O
+asienta	O
+sobre	O
+ejes	O
+vasculares	O
+.	O

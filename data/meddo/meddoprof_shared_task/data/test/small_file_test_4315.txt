@@ -1,0 +1,13 @@
+
+Eritema	O
+en	O
+alas	O
+de	O
+mariposa	O
+y	O
+eritema	O
+en	O
+dorso	O
+de	O
+manos	O
+.	O

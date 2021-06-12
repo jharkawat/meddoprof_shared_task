@@ -1,0 +1,20 @@
+
+El	O
+día	O
+del	O
+ingreso	O
+presenta	O
+dolor	O
+abdominal	O
+difuso	O
+,	O
+motivo	O
+por	O
+el	O
+que	O
+acude	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+.	O

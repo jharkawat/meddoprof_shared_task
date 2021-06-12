@@ -1,0 +1,25 @@
+
+La	O
+mujer	O
+informó	O
+que	O
+su	O
+esposo	O
+había	O
+estado	O
+«	O
+bien	O
+de	O
+salud	O
+,	O
+normal	O
+,	O
+contento	O
+y	O
+nunca	O
+había	O
+hecho	O
+nada	O
+parecido	O
+»	O
+.	O

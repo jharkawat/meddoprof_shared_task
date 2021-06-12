@@ -1,0 +1,9 @@
+
+Tras	O
+la	O
+cirugía	O
+los	O
+marcadores	O
+fueron	O
+negativos	O
+.	O

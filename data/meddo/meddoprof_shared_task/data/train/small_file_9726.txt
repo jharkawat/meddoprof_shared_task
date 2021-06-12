@@ -1,0 +1,13 @@
+
+Abdomen	O
+:	O
+blando	O
+y	O
+depresible	O
+,	O
+no	O
+doloroso	O
+a	O
+la	O
+palpación	O
+.	O

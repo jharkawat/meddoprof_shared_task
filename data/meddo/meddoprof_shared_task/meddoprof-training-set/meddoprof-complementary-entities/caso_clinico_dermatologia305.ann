@@ -1,0 +1,45 @@
+T1	SINTOMA 859 865	fiebre
+T2	SINTOMA 900 919	dolores articulares
+T3	SINTOMA 921 933	abdominalgia
+T4	SINTOMA 935 968	alteraciones del ritmo intestinal
+T5	SINTOMA 1305 1352	máculas eritemato-marronáceas hiperqueratósicas
+T6	SINTOMA 1943 1958	hiperqueratosis
+T7	PROCEDIMIENTO 737 769	corticoides tópicos y sistémicos
+T8	PROCEDIMIENTO 780 803	antihistamínicos orales
+T9	PROCEDIMIENTO 975 993	Exploración física
+T10	PROCEDIMIENTO 999 1017	exploración física
+T11	PROCEDIMIENTO 1665 1752	biopsia del borde de una de las lesiones circinadas de la extremidad inferior izquierda
+T12	NEG 36 39	sin
+T13	NSCO 40 73	alergias medicamentosas conocidas
+T14	NEG 804 807	sin
+T15	NSCO 808 839	lograr la resolución del cuadro
+T16	NEG 841 843	No
+T17	NSCO 844 898	había asociado fiebre ni otra sintomatología sistémica
+T18	NEG 1545 1547	No
+T19	NSCO 1548 1598	existía afectación del polo cefálico, ni de palmas
+T20	NEG 2663 2665	no
+T21	NSCO 2666 2682	acudió a la cita
+T22	NEG 2684 2691	Tampoco
+T23	NSCO 2692 2733	recurrió a su Médico de Atención Primaria
+T24	NEG 2745 2747	no
+T25	NSCO 2748 2899	se pudo comprobar cual fue la evolución de las lesiones tras la instauración del tratamiento, ni investigar cual podía ser el origen del cuadro cutáneo
+T26	FARMACO 158 184	Valsartan/hidroclortiazida
+T27	FARMACO 330 339	Minoxidil
+T28	FARMACO 2527 2537	Prednisona
+T29	FARMACO 2565 2575	Mometasona
+T30	ORG_VIVO 10 15	Mujer
+T31	ORG_VIVO 93 103	personales
+T32	ORG_VIVO 678 705	médico de atención primaria
+T33	ORG_VIVO 2598 2606	paciente
+T34	ORG_VIVO 2706 2733	Médico de Atención Primaria
+T35	ENFERMEDAD 40 63	alergias medicamentosas
+T36	ENFERMEDAD 107 128	hipertensión arterial
+T37	ENFERMEDAD 246 276	lesiones cutáneas pruriginosas
+T38	ENFERMEDAD 344 360	alopecia frontal
+T39	ENFERMEDAD 382 416	lesiones pruriginosas en la cabeza
+T40	ENFERMEDAD 1697 1742	lesiones circinadas de la extremidad inferior
+T41	ENFERMEDAD 1943 1958	hiperqueratosis
+T42	ENFERMEDAD 2212 2237	pápulas hiperqueratósicas
+T43	ENFERMEDAD 2436 2470	Poroqueratosis eruptiva diseminada
+T44	SANITARIO-PROFESION 2706 2733	Médico de Atención Primaria
+T45	SANITARIO-PROFESION 678 705	médico de atención primaria

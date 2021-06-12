@@ -1,0 +1,12 @@
+
+Dolor	O
+a	O
+la	O
+palpación	O
+con	O
+crepitación	O
+cervical	O
+y	O
+supraclavicular	O
+bilateral	O
+.	O

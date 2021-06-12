@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+es	O
+dado	O
+de	O
+alta	O
+con	O
+tratamiento	O
+antibiótico	O
+,	O
+descartándose	O
+signos	O
+clínico	O
+orientativos	O
+de	O
+meningitis	O
+aguda	O
+.	O

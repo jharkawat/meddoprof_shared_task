@@ -1,0 +1,26 @@
+
+RMN	O
+(	O
+resonancia	O
+magnética	O
+nuclear	O
+)	O
+craneal	O
+:	O
+tumoración	O
+intraaxial	O
+parietal	O
+izquierda	O
+,	O
+con	O
+captación	O
+heterogénea	O
+de	O
+contraste	O
+y	O
+una	O
+zona	O
+central	O
+de	O
+necrosis	O
+.	O

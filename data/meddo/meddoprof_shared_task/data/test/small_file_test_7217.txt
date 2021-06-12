@@ -1,0 +1,20 @@
+
+Posteriormente	O
+,	O
+recibió	O
+4	O
+ciclos	O
+de	O
+quimioterapia	O
+adyuvante	O
+con	O
+cisplatino	O
+-	O
+vinorelbina	O
+que	O
+finalizó	O
+en	O
+abril	O
+de	O
+2009	O
+.	O

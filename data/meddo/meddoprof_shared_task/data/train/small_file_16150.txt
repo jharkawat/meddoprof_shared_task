@@ -1,0 +1,8 @@
+
+Abdomen	O
+y	O
+miembros	O
+inferiores	O
+sin	O
+hallazgos	O
+.	O

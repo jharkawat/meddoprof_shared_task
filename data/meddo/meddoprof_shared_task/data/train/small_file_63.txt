@@ -1,0 +1,10 @@
+
+Se	O
+le	O
+administró	O
+una	O
+pauta	O
+breve	O
+de	O
+anticoagulantes	O
+.	O

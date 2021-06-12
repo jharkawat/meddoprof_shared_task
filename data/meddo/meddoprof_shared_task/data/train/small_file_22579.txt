@@ -1,0 +1,21 @@
+
+En	O
+seguimiento	O
+por	O
+Psiquiatría	O
+de	O
+forma	O
+ambulatoria	O
+desde	O
+hacía	O
+cuatro	O
+meses	O
+por	O
+episodio	O
+depresivo	O
+,	O
+en	O
+tratamiento	O
+con	O
+escitalopram	O
+.	O

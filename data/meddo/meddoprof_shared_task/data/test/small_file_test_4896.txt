@@ -1,0 +1,24 @@
+
+En	O
+este	O
+caso	O
+,	O
+al	O
+tratarse	O
+de	O
+un	O
+tumor	O
+no	O
+funcionante	O
+,	O
+no	O
+se	O
+prescribió	O
+bloqueo	O
+alfa	O
+y	O
+beta	O
+de	O
+forma	O
+profiláctica	O
+.	O

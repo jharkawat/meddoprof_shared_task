@@ -1,0 +1,24 @@
+
+El	O
+cuadro	O
+es	O
+el	O
+de	O
+un	O
+paciente	O
+de	O
+67	O
+años	O
+que	O
+acude	O
+por	O
+un	O
+cuadro	O
+de	O
+problemas	O
+de	O
+memoria	O
+y	O
+síntomas	O
+depresivos	O
+.	O

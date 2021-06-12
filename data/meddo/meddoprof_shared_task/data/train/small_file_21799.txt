@@ -1,0 +1,6 @@
+
+No	O
+manifiesta	O
+sintomatología	O
+psicótica	O
+.	O

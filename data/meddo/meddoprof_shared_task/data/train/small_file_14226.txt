@@ -1,0 +1,8 @@
+
+No	O
+signos	O
+meníngeos	O
+ni	O
+focalidad	O
+neurológica	O
+.	O

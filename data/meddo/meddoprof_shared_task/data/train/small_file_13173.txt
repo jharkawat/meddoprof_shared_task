@@ -1,0 +1,14 @@
+
+Mujer	O
+de	O
+44	O
+años	O
+con	O
+antecedente	O
+de	O
+hipotiroidismo	O
+en	O
+tratamiento	O
+con	O
+levotiroxina	O
+.	O

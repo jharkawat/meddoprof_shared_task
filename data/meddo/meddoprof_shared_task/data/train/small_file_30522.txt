@@ -1,0 +1,18 @@
+
+Casi	O
+siempre	O
+son	O
+de	O
+su	O
+madre	O
+,	O
+de	O
+un	O
+primo	O
+y	O
+de	O
+un	O
+excompañero	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,31 @@
+T1	SINTOMA 166 179	cuadro febril
+T2	SINTOMA 191 198	cefalea
+T3	SINTOMA 200 218	debilidad muscular
+T4	SINTOMA 221 243	exantema maculopapular
+T5	SINTOMA 571 577	febril
+T6	SINTOMA 613 634	exantema generalizado
+T7	SINTOMA 639 650	pruriginoso
+T8	SINTOMA 652 722	maculopapular y papulovesicular, que afectaba el tronco y extremidades
+T9	SINTOMA 1174 1180	fiebre
+T10	PROCEDIMIENTO 457 489	garrapata de la pierna izquierda
+T11	PROCEDIMIENTO 589 602	examen físico
+T12	PROCEDIMIENTO 960 980	biopsia de la escara
+T13	PROCEDIMIENTO 1020 1049	inmunofluorescencia indirecta
+T14	PROCEDIMIENTO 1337 1368	pruebas serológicas y de la PCR
+T15	PROCEDIMIENTO 1397 1426	inmunofluorescencia indirecta
+T16	NEG 636 638	no
+T17	NSCO 639 683	pruriginoso, maculopapular y papulovesicular
+T18	FARMACO 1131 1142	doxiciclina
+T19	ORG_VIVO 23 40	paciente femenina
+T20	ORG_VIVO 294 302	paciente
+T21	ORG_VIVO 372 380	paciente
+T22	ORG_VIVO 457 466	garrapata
+T23	ORG_VIVO 520 528	paciente
+T24	ORG_VIVO 801 810	garrapata
+T25	ORG_VIVO 850 859	garrapata
+T26	ORG_VIVO 885 898	Bacteriología
+T27	ORG_VIVO 1064 1079	Rickettsia spp.
+T28	ORG_VIVO 1092 1100	paciente
+T29	ORG_VIVO 1581 1586	cepas
+T30	ORG_VIVO 1604 1614	R. parkeri
+T31	ENFERMEDAD 837 859	mordedura de garrapata

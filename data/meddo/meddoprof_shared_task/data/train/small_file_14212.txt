@@ -1,0 +1,22 @@
+
+Se	O
+trata	O
+de	O
+una	O
+mujer	O
+de	O
+41	O
+años	O
+que	O
+ingresa	O
+por	O
+fiebre	O
+(	O
+38oC	O
+)	O
+y	O
+dolor	O
+a	O
+nivel	O
+cervical	O
+.	O

@@ -1,0 +1,22 @@
+
+El	O
+Médico	B-PROFESION
+de	I-PROFESION
+Familia	I-PROFESION
+conoce	O
+a	O
+la	O
+paciente	O
+desde	O
+hace	O
+muchos	O
+años	O
+y	O
+evidencia	O
+un	O
+trastorno	O
+agudo	O
+en	O
+su	O
+salud	O
+.	O

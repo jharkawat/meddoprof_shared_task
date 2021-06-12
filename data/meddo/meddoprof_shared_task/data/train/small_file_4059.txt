@@ -1,0 +1,7 @@
+
+No	O
+otra	O
+clínica	O
+de	O
+interés	O
+.	O

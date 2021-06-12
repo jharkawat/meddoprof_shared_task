@@ -1,0 +1,14 @@
+
+Nos	O
+realizan	O
+interconsulta	O
+para	O
+valoración	O
+de	O
+acúfenos	O
+y	O
+otorrea	O
+de	O
+oído	O
+izquierdo	O
+.	O

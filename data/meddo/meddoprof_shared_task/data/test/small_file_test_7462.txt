@@ -1,0 +1,10 @@
+
+En	O
+todo	O
+momento	O
+,	O
+el	O
+paciente	O
+estuvo	O
+asintomático	O
+.	O

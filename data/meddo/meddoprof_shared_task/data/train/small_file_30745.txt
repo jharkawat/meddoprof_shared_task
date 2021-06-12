@@ -1,0 +1,12 @@
+
+Consumo	O
+activo	O
+de	O
+tabaco	O
+(	O
+7	O
+unidades	O
+/	O
+día	O
+)	O
+.	O

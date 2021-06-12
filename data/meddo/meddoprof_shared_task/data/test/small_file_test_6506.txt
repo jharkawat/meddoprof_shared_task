@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+experimentó	O
+mejoría	O
+progresiva	O
+del	O
+cuadro	O
+constitucional	O
+,	O
+con	O
+disminución	O
+de	O
+la	O
+astenia	O
+y	O
+movilización	O
+paulatina	O
+.	O

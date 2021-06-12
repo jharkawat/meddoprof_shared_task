@@ -1,0 +1,22 @@
+
+Se	O
+localiza	O
+espacio	O
+C4	O
+-	O
+C5	O
+,	O
+practicándose	O
+microdiscectomía	O
+y	O
+limpieza	O
+de	O
+platillos	O
+vertebrales	O
+,	O
+ligamento	O
+vertebral	O
+comun	O
+posterior	O
+roto	O
+.	O

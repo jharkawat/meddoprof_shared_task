@@ -1,0 +1,7 @@
+
+No	O
+clínica	O
+respiratoria	O
+ni	O
+miccional	O
+.	O

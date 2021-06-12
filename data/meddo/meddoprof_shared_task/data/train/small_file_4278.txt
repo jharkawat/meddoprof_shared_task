@@ -1,0 +1,19 @@
+
+Uretritis	O
+:	O
+Inflamación	O
+de	O
+la	O
+uretra	O
+:	O
+molestia	O
+o	O
+dolor	O
+suprapúbico	O
+,	O
+fiebre	O
+y	O
+tacto	O
+vaginal	O
+doloroso	O
+.	O

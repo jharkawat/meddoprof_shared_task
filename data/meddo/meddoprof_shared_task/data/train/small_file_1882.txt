@@ -1,0 +1,24 @@
+
+Dichas	O
+características	O
+hacen	O
+estos	O
+fármacos	O
+de	O
+elección	O
+para	O
+la	O
+anestesia	O
+en	O
+ambientes	O
+austeros	O
+,	O
+como	O
+es	O
+el	O
+de	O
+la	O
+guerra	O
+de	O
+Afganistán	O
+.	O

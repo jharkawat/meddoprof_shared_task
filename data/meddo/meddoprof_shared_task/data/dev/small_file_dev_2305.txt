@@ -1,0 +1,4 @@
+
+Gastritis	O
+crónica	O
+.	O

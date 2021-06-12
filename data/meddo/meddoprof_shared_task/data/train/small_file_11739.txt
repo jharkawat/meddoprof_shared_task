@@ -1,0 +1,26 @@
+
+Refería	O
+dolores	O
+mecánicos	O
+por	O
+osteoartrosis	O
+degenerativa	O
+en	O
+columna	O
+lumbar	O
+y	O
+hernias	O
+discales	O
+sin	O
+afectación	O
+del	O
+canal	O
+medular	O
+objetivadas	O
+en	O
+resonancia	O
+magnética	O
+(	O
+RM	O
+)	O
+.	O

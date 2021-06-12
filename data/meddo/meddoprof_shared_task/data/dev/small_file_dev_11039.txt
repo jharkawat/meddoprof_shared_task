@@ -1,0 +1,22 @@
+
+Linfocitos	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+Monocitos	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O
+.	O

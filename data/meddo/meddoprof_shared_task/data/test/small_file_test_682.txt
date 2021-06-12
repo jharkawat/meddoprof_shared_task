@@ -1,0 +1,10 @@
+
+Baciloscopía	O
+de	O
+esputo	O
+01	O
+/	O
+19	O
+:	O
+Negativa	O
+.	O

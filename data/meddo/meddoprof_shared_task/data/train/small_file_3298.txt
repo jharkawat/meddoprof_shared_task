@@ -1,0 +1,15 @@
+
+Varón	O
+de	O
+21	O
+años	O
+que	O
+convive	O
+con	O
+sus	O
+padres	O
+y	O
+un	O
+hermano	O
+sanos	O
+.	O

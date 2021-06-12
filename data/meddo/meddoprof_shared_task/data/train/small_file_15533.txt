@@ -1,0 +1,27 @@
+
+Malbrán	O
+»	O
+muestras	O
+de	O
+suero	O
+y	O
+biopsia	O
+de	O
+la	O
+escara	O
+para	O
+detección	O
+de	O
+anticuerpos	O
+mediante	O
+inmunofluorescencia	O
+indirecta	O
+y	O
+búsqueda	O
+de	O
+Rickettsia	O
+spp	O
+.	O
+por	O
+PCR	O
+.	O

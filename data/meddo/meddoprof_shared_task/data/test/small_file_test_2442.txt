@@ -1,0 +1,6 @@
+
+Dismetría	O
+dedo	O
+-	O
+nariz	O
+.	O

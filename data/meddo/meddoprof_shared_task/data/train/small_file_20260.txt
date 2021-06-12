@@ -1,0 +1,13 @@
+
+Allí	O
+practica	B-ACTIVIDAD
+"	I-ACTIVIDAD
+kick	I-ACTIVIDAD
+boxing	I-ACTIVIDAD
+"	I-ACTIVIDAD
+,	O
+destacando	O
+en	O
+este	O
+deporte	O
+.	O

@@ -1,0 +1,73 @@
+T1	SINTOMA 887 911	estabilidad hemodinámica
+T2	SINTOMA 1182 1206	estabilidad hemodinámica
+T3	SINTOMA 1387 1397	consciente
+T4	SINTOMA 1476 1493	hemodinámicamente
+T5	SINTOMA 2545 2555	hipotermia
+T6	SINTOMA 6400 6424	estabilidad hemodinámica
+T7	SINTOMA 6609 6626	rtambar@oc.mde.es
+T8	PROCEDIMIENTO 1165 1177	ventilatorio
+T9	PROCEDIMIENTO 1977 1989	hemostáticos
+T10	PROCEDIMIENTO 1991 2003	CeloxGauceTM
+T11	PROCEDIMIENTO 2040 2052	hemostáticos
+T12	PROCEDIMIENTO 2172 2209	oxigenoterapia con mascarilla Venturi
+T13	PROCEDIMIENTO 2316 2329	fluidoterapia
+T14	PROCEDIMIENTO 2603 2633	transfusión de hemocomponentes
+T15	PROCEDIMIENTO 3851 3881	perfusión i.v de fluidoterapia
+T16	PROCEDIMIENTO 3916 3929	sedoanalgesia
+T17	PROCEDIMIENTO 3947 3955	ECO FAST
+T18	PROCEDIMIENTO 4406 4425	analítica sanguínea
+T19	PROCEDIMIENTO 4519 4543	drenaje torácico derecho
+T20	PROCEDIMIENTO 4958 4975	anestesia general
+T21	PROCEDIMIENTO 4988 5011	laparotomía xifopubiana
+T22	PROCEDIMIENTO 5439 5476	cierre temporal de la pared abdominal
+T23	PROCEDIMIENTO 5486 5501	dispositivo VAC
+T24	PROCEDIMIENTO 5612 5631	reposición hemática
+T25	PROCEDIMIENTO 6005 6040	anastomosis latero lateral mecánica
+T26	PROCEDIMIENTO 6042 6067	desbridamiento quirúrgico
+T27	PROCEDIMIENTO 6101 6118	lavado peritoneal
+T28	PROCEDIMIENTO 6128 6185	drenaje mediante redón a través de la fosa iliaca derecha
+T29	PROCEDIMIENTO 6187 6228	cierre aponeurótico con dos mallas de PDS
+T30	PROCEDIMIENTO 6231 6256	cierre cutáneo con grapas
+T31	PROCEDIMIENTO 6481 6497	drenaje torácico
+T32	NEG 917 928	ausencia de
+T33	NSCO 929 937	sangrado
+T34	NEG 1782 1784	no
+T35	NSCO 1785 1802	invasiva 94/65 mm
+T36	NEG 2586 2588	No
+T37	NSCO 2589 2646	se realiza la transfusión de hemocomponentes a este nivel
+T38	NEG 3007 3009	no
+T39	NSCO 3010 3022	es aceptable
+T40	NEG 3999 4001	no
+T41	NSCO 4002 4030	disponible habitualmente más
+T42	NEG 4359 4370	ausencia de
+T43	NSCO 4371 4398	lesiones óseas acompañantes
+T44	NEG 5078 5080	no
+T45	NSCO 5081 5117	contaminado procedente del peritoneo
+T46	NEG 5296 5299	sin
+T47	NSCO 5300 5345	restablecimiento de la continuidad intestinal
+T48	NEG 5840 5848	se puede
+T49	NSCO 5849 5894	realizar el tratamiento quirúrgico definitivo
+T50	NEG 6258 6260	No
+T51	NSCO 6261 6296	se logran encontrar los proyectiles
+T52	NEG 6468 6477	se retira
+T53	NSCO 6478 6497	el drenaje torácico
+T54	FARMACO 2401 2410	fentanilo
+T55	FARMACO 2423 2431	ketamina
+T56	FARMACO 2445 2455	cefazolina
+T57	FARMACO 2467 2479	metronidazol
+T58	FARMACO 3883 3897	Ringer Lactato
+T59	FARMACO 3934 3942	ketamina
+T60	ORG_VIVO 363 368	Varón
+T61	ORG_VIVO 565 583	personal del Trozo
+T62	ORG_VIVO 1373 1381	paciente
+T63	ENFERMEDAD 1094 1111	hemorragia masiva
+T64	ENFERMEDAD 1540 1565	heridas por arma de fuego
+T65	ENFERMEDAD 2990 3006	trauma abdominal
+T66	ENFERMEDAD 3809 3834	heridas por arma de fuego
+T67	ENFERMEDAD 4092 4113	derrame intratorácico
+T68	ENFERMEDAD 4333 4348	derrame pleural
+T69	ENFERMEDAD 4371 4385	lesiones óseas
+T70	ENFERMEDAD 5134 5196	herida en el intestino delgado a nivel de la válvula de Bauhin
+T71	SANITARIO-PROFESION 305 311	Médico
+T72	SANITARIO-PROFESION 4865 4882	equipo quirúrgico
+T73	SANITARIO-PROFESION 565 604	personal del Trozo de Visita y Registro

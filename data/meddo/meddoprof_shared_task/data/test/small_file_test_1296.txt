@@ -1,0 +1,17 @@
+
+Trombo	O
+en	O
+la	O
+arteria	O
+coronaria	O
+descendente	O
+anterior	O
+proximal	O
+.	O
+Trombo	O
+en	O
+la	O
+arteria	O
+coronaria	O
+derecha	O
+.	O

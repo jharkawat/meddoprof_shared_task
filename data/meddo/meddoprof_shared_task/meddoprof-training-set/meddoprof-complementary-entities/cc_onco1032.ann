@@ -1,0 +1,88 @@
+T1	SINTOMA 1048 1065	dolor dorsolumbar
+T2	SINTOMA 1139 1166	parestesias en extremidades
+T3	SINTOMA 1168 1200	debilidad en miembros interiores
+T4	SINTOMA 1203 1235	pérdida del control esfinteriano
+T5	SINTOMA 1342 1352	Consciente
+T6	SINTOMA 1354 1363	orientada
+T7	SINTOMA 1365 1377	colaboradora
+T8	SINTOMA 1380 1388	eupneica
+T9	SINTOMA 1659 1701	Hipoestesia tacto-algésica con nivel en D8
+T10	SINTOMA 1710 1719	dismetría
+T11	SINTOMA 3217 3226	dorsalgia
+T12	SINTOMA 3780 3785	dolor
+T13	PROCEDIMIENTO 261 283	herniorrafía umbilical
+T14	PROCEDIMIENTO 551 564	quimioterapia
+T15	PROCEDIMIENTO 876 888	radioterapia
+T16	PROCEDIMIENTO 908 922	hormonoterapia
+T17	PROCEDIMIENTO 1301 1319	Exploración física
+T18	PROCEDIMIENTO 1743 1770	Auscultación cardiopulmonar
+T19	PROCEDIMIENTO 1780 1801	Exploración abdominal
+T20	PROCEDIMIENTO 1836 1845	Hemograma
+T21	PROCEDIMIENTO 1937 1949	TC de cráneo
+T22	PROCEDIMIENTO 1967 1988	Cultivo y Gram de LCR
+T23	PROCEDIMIENTO 2014 2030	citología de LCR
+T24	PROCEDIMIENTO 2058 2069	RMN craneal
+T25	PROCEDIMIENTO 2099 2120	RMN cervical y dorsal
+T26	PROCEDIMIENTO 2231 2246	Electromiograma
+T27	PROCEDIMIENTO 2608 2624	citología de LCR
+T28	PROCEDIMIENTO 3459 3475	citología de LCR
+T29	PROCEDIMIENTO 3622 3665	salpingooforectomía bilateral laparoscópica
+T30	PROCEDIMIENTO 3973 4002	salpingooforectomía bilateral
+T31	PROCEDIMIENTO 4053 4079	estudio inmunohistoquímico
+T32	NEG 72 75	Sin
+T33	NSCO 76 148	antecedentes familiares oncológicos ni alergias medicamentosas conocidas
+T34	NEG 1483 1485	No
+T35	NSCO 1486 1528	hay afectación de las funciones superiores
+T36	NEG 1703 1705	No
+T37	NSCO 1706 1740	hay dismetría ni disdiadococinesia
+T38	NEG 1990 1993	sin
+T39	NSCO 1994 2003	hallazgos
+T40	NEG 2032 2035	sin
+T41	NSCO 2036 2055	células neoplásicas
+T42	NEG 2071 2074	sin
+T43	NSCO 2075 2096	hallazgos patológicos
+T44	NEG 2122 2124	no
+T45	NSCO 2125 2187	se observan signos de mielopatía ni de carcinomatosis meníngea
+T46	NEG 2306 2309	sin
+T47	NSCO 2310 2337	signos degenerativos agudos
+T48	NEG 2530 2539	negativos
+T49	UNC 2696 2703	orienta
+T50	USCO 2704 2724	hacia origen mamario
+T51	NEG 4177 4188	negativa de
+T52	NSCO 4189 4192	LCR
+T53	FARMACO 639 648	docetaxel
+T54	FARMACO 651 662	trastuzumab
+T55	FARMACO 927 937	tamoxifeno
+T56	FARMACO 3022 3033	trastuzumab
+T57	FARMACO 3064 3078	hidrocortisona
+T58	FARMACO 3087 3097	citarabina
+T59	FARMACO 3106 3117	metotrexato
+T60	FARMACO 3174 3183	fentanilo
+T61	FARMACO 3540 3549	lapatinib
+T62	FARMACO 3677 3685	letrozol
+T63	ORG_VIVO 10 15	Mujer
+T64	ORG_VIVO 59 69	personales
+T65	ORG_VIVO 89 99	familiares
+T66	ORG_VIVO 227 234	materna
+T67	ORG_VIVO 361 369	gestante
+T68	ORG_VIVO 2796 2804	paciente
+T69	ORG_VIVO 2889 2897	paciente
+T70	ORG_VIVO 3156 3164	paciente
+T71	ORG_VIVO 3747 3755	paciente
+T72	ORG_VIVO 4240 4248	paciente
+T73	ENFERMEDAD 115 138	alergias medicamentosas
+T74	ENFERMEDAD 361 389	gestante en primer trimestre
+T75	ENFERMEDAD 410 458	carcinoma de mama lobulillar infiltrante de mama
+T76	ENFERMEDAD 609 611	EC
+T77	ENFERMEDAD 979 994	HISTORIA ACTUAL
+T78	ENFERMEDAD 1531 1542	Paraparesia
+T79	ENFERMEDAD 2147 2157	mielopatía
+T80	ENFERMEDAD 2164 2187	carcinomatosis meníngea
+T81	ENFERMEDAD 2190 2213	Protrusión discal C5-C6
+T82	ENFERMEDAD 2215 2228	Hemangioma D7
+T83	ENFERMEDAD 2639 2665	infiltración por carcinoma
+T84	ENFERMEDAD 2765 2792	carcinoma de origen mamario
+T85	ENFERMEDAD 2824 2852	carcinoma lobulillar de mama
+T86	ENFERMEDAD 4004 4035	metástasis de carcinoma de mama
+T87	ENFERMEDAD 4271 4291	hipotensión licuoral
+T88	PACIENTE-PROFESION 297 318	técnico de radiología

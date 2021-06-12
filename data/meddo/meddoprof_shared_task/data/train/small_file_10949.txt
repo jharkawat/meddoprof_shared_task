@@ -1,0 +1,10 @@
+
+ACR	O
+:	O
+rítmico	O
+,	O
+taquicardico	O
+a	O
+120	O
+lpm	O
+.	O

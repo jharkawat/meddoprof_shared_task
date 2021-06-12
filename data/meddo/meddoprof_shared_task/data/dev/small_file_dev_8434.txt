@@ -1,0 +1,25 @@
+
+La	O
+RMN	O
+craneal	O
+con	O
+contraste	O
+no	O
+detectó	O
+lesiones	O
+ocupantes	O
+de	O
+espacio	O
+ni	O
+alteraciones	O
+vasculares	O
+o	O
+de	O
+la	O
+mielinización	O
+sugestivas	O
+de	O
+patología	O
+neurológica	O
+estructural	O
+.	O

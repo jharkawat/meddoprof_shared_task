@@ -1,0 +1,18 @@
+
+Por	O
+ello	O
+,	O
+se	O
+suspende	O
+el	O
+tratamiento	O
+psicofarmacológico	O
+y	O
+se	O
+inicia	O
+fluidoterapia	O
+,	O
+analgesia	O
+y	O
+oxigenoterapia	O
+.	O

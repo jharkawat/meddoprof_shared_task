@@ -1,0 +1,19 @@
+
+Para	O
+eso	O
+puede	O
+ser	O
+útil	O
+pensar	O
+en	O
+qué	O
+necesitas	O
+tú	O
+cuando	O
+estás	O
+disgustada	O
+o	O
+enfadada	O
+.	O
+.	O
+.	O

@@ -1,0 +1,17 @@
+
+Ya	O
+no	O
+toma	O
+tratamiento	O
+(	O
+lo	O
+abandonó	O
+por	O
+su	O
+cuenta	O
+al	O
+presentarse	O
+efectos	O
+secundarios	O
+)	O
+.	O

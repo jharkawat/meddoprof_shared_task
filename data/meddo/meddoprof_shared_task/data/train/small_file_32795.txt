@@ -1,0 +1,22 @@
+
+Autoestima	O
+algo	O
+baja	O
+debido	O
+al	O
+sobrepeso	O
+,	O
+a	O
+pesar	O
+de	O
+ello	O
+,	O
+el	O
+paciente	O
+no	O
+refiere	O
+sentir	O
+malestar	O
+al	O
+respecto	O
+.	O

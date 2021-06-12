@@ -1,0 +1,12 @@
+
+—	O
+Arterioesclerosis	O
+aórtica	O
+calcificada	O
+y	O
+ulcerada	O
+(	O
+arteriosclerosis	O
+complicada	O
+)	O
+.	O

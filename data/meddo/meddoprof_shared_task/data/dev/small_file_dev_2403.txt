@@ -1,0 +1,22 @@
+
+Estos	O
+episodios	O
+catatónicos	O
+coinciden	O
+con	O
+períodos	O
+de	O
+toma	O
+errática	O
+de	O
+su	O
+medicación	O
+,	O
+estando	O
+perfectamente	O
+controlados	O
+cuando	O
+sigue	O
+el	O
+tratamiento	O
+.	O

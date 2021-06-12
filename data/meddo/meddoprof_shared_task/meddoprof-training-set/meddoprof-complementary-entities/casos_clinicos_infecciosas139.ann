@@ -1,0 +1,258 @@
+T1	SINTOMA 628 635	fumador
+T2	SINTOMA 657 664	bebedor
+T3	SINTOMA 797 803	fiebre
+T4	SINTOMA 851 880	disnea de moderados esfuerzos
+T5	SINTOMA 889 903	dolor torácico
+T6	SINTOMA 923 934	pleuríticas
+T7	SINTOMA 937 961	expectoración marronácea
+T8	SINTOMA 1160 1168	eupneico
+T9	SINTOMA 1396 1406	consciente
+T10	SINTOMA 1408 1417	orientado
+T11	SINTOMA 1464 1480	signos meníngeos
+T12	SINTOMA 1487 1503	balance muscular
+T13	SINTOMA 1697 1712	visceromegalias
+T14	SINTOMA 1726 1747	irritación peritoneal
+T15	SINTOMA 1758 1764	edemas
+T16	SINTOMA 1913 1923	linfopenia
+T17	SINTOMA 2271 2284	ritmo sinusal
+T18	SINTOMA 7309 7316	afebril
+T19	SINTOMA 7592 7606	fiebre elevada
+T20	SINTOMA 7992 8012	prurito generalizado
+T21	SINTOMA 8015 8067	enrojecimiento en cara, cuello y miembros inferiores
+T22	SINTOMA 8141 8152	eosinofilia
+T23	SINTOMA 8493 8501	exantema
+T24	PROCEDIMIENTO 181 208	tratamiento antirretroviral
+T25	PROCEDIMIENTO 992 1005	examen físico
+T26	PROCEDIMIENTO 1974 1992	estudio bioquímico
+T27	PROCEDIMIENTO 2137 2157	radiografía de tórax
+T28	PROCEDIMIENTO 2240 2258	electrocardiograma
+T29	PROCEDIMIENTO 2566 2590	aislamiento respiratorio
+T30	PROCEDIMIENTO 2603 2625	estudio microbiológico
+T31	PROCEDIMIENTO 2639 2651	hemocultivos
+T32	PROCEDIMIENTO 2721 2738	cultivo de esputo
+T33	PROCEDIMIENTO 2809 2828	inmunofluorescencia
+T34	PROCEDIMIENTO 3100 3123	tratamiento antibiótico
+T35	PROCEDIMIENTO 4082 4102	radiografía de tórax
+T36	PROCEDIMIENTO 5415 5435	radiografía de tórax
+T37	PROCEDIMIENTO 5727 5747	radiografía de tórax
+T38	PROCEDIMIENTO 6359 6396	inmunofluorescencia para P. jirovecii
+T39	PROCEDIMIENTO 6418 6463	tomografía computarizada (TC) toracoabdominal
+T40	PROCEDIMIENTO 6580 6600	radiografía de tórax
+T41	PROCEDIMIENTO 7001 7018	cultivo de esputo
+T42	PROCEDIMIENTO 7134 7160	tratamiento antimicrobiano
+T43	PROCEDIMIENTO 7177 7189	antibiograma
+T44	PROCEDIMIENTO 7371 7388	cultivo de esputo
+T45	PROCEDIMIENTO 7529 7555	tratamiento antimicrobiano
+T46	PROCEDIMIENTO 7693 7716	tratamiento antibiótico
+T47	PROCEDIMIENTO 7732 7759	tratamiento antirretroviral
+T48	PROCEDIMIENTO 7943 7966	tratamiento antibiótico
+T49	PROCEDIMIENTO 8265 8292	tratamiento antihistamínico
+T50	PROCEDIMIENTO 8581 8588	biopsia
+T51	PROCEDIMIENTO 8649 8671	cultivo y baciloscopia
+T52	PROCEDIMIENTO 8843 8861	esteroides tópicos
+T53	PROCEDIMIENTO 8884 8906	tratamiento parenteral
+T54	NEG 692 694	No
+T55	NSCO 695 726	refería alergias medicamentosas
+T56	NEG 1180 1182	No
+T57	NSCO 1183 1260	se palpaban adenopatías cervicales, supraclaviculares, axilares ni inguinales
+T58	UNC 1351 1366	compatibles con
+T59	USCO 1367 1387	muguet en orofaringe
+T60	NEG 1460 1463	sin
+T61	NSCO 1464 1480	signos meníngeos
+T62	NEG 1575 1578	sin
+T63	NSCO 1579 1585	soplos
+T64	NEG 1628 1631	sin
+T65	NSCO 1632 1661	apreciar ruidos sobreañadidos
+T66	NEG 1686 1689	sin
+T67	NSCO 1690 1747	masas, visceromegalias ni signos de irritación peritoneal
+T68	NEG 1749 1751	No
+T69	NSCO 1752 1793	tenía edemas y los pulsos eran simétricos
+T70	NEG 2107 2109	no
+T71	NSCO 2110 2129	mostró alteraciones
+T72	NEG 2309 2312	sin
+T73	NSCO 2313 2346	alteraciones de la repolarización
+T74	NEG 3504 3515	desconocida
+T75	UNC 4382 4389	podrían
+T76	USCO 4390 4406	estar implicados
+T77	NEG 5472 5474	no
+T78	NSCO 5475 5487	tuberculosas
+T79	UNC 5874 5881	podrían
+T80	USCO 5882 5945	ocasionar neumonía cavitada consideramos Cryptococcus neoformas
+T81	NEG 6279 6288	negativas
+T82	NEG 6300 6308	negativa
+T83	NSCO 6309 6322	para Brucella
+T84	NEG 6397 6405	negativa
+T85	UNC 6490 6504	compatible con
+T86	USCO 6505 6534	neumonía abscesificada en LSD
+T87	NEG 7108 7117	negativas
+T88	NEG 7309 7316	afebril
+T89	NEG 7782 7795	suspendido de
+T90	NSCO 7796 7844	forma voluntaria durante los siete meses previos
+T91	NEG 8183 8195	se suspendió
+T92	NSCO 8196 8204	imipenem
+T93	NEG 8383 8386	sin
+T94	NSCO 8387 8398	incidencias
+T95	NEG 8461 8463	no
+T96	NSCO 8464 8501	presentó nuevos episodios de exantema
+T97	NEG 8672 8681	negativos
+T98	UNC 8800 8815	compatibles con
+T99	USCO 8816 8861	prúrigo nodular y pautando esteroides tópicos
+T100	FARMACO 223 232	efavirenz
+T101	FARMACO 234 247	emtricitabina
+T102	FARMACO 250 259	tenofovir
+T103	FARMACO 260 279	disoproxil fumarato
+T104	FARMACO 296 305	darunavir
+T105	FARMACO 307 317	cobicistat
+T106	FARMACO 319 332	emtricitabina
+T107	FARMACO 335 344	tenofovir
+T108	FARMACO 345 364	disoproxil fumarato
+T109	FARMACO 384 396	elvitegravir
+T110	FARMACO 398 408	cobicistat
+T111	FARMACO 410 423	emtricitabina
+T112	FARMACO 426 435	tenofovir
+T113	FARMACO 3137 3148	ceftriaxona
+T114	FARMACO 3169 3181	clindamicina
+T115	FARMACO 6855 6882	trimetoprim/ sulfametoxazol
+T116	FARMACO 6884 6891	TMP/SMX
+T117	FARMACO 7193 7201	imipenem
+T118	FARMACO 7223 7237	claritromicina
+T119	FARMACO 7261 7272	rifampicina
+T120	FARMACO 7471 7485	claritromicina
+T121	FARMACO 7490 7503	levofloxacino
+T122	FARMACO 7658 7672	claritromicina
+T123	FARMACO 7850 7863	emtricitabina
+T124	FARMACO 7865 7874	tenofovir
+T125	FARMACO 7875 7894	disoproxil fumarato
+T126	FARMACO 7897 7908	raltegravir
+T127	FARMACO 8196 8204	imipenem
+T128	FARMACO 8206 8209	TMP
+T129	FARMACO 8210 8213	SMX
+T130	FARMACO 8216 8230	claritromicina
+T131	FARMACO 8297 8308	hidroxicina
+T132	FARMACO 8361 8364	SMX
+T133	FARMACO 8367 8381	claritromicina
+T134	FARMACO 8412 8421	linezolid
+T135	FARMACO 9005 9019	claritromicina
+T136	FARMACO 9022 9033	rifampicina
+T137	ORG_VIVO 0 5	Varón
+T138	ORG_VIVO 46 51	VIH-1
+T139	ORG_VIVO 193 208	antirretroviral
+T140	ORG_VIVO 565 585	cuidador de caballos
+T141	ORG_VIVO 594 602	animales
+T142	ORG_VIVO 615 621	perros
+T143	ORG_VIVO 2385 2393	paciente
+T144	ORG_VIVO 2668 2682	Legionella spp
+T145	ORG_VIVO 2685 2694	neumococo
+T146	ORG_VIVO 2696 2709	baciloscopias
+T147	ORG_VIVO 2751 2760	bacterias
+T148	ORG_VIVO 2834 2846	P. jirovecii
+T149	ORG_VIVO 2886 2901	Mycoplasma spp.
+T150	ORG_VIVO 2903 2917	Chlamydia spp.
+T151	ORG_VIVO 2919 2932	Brucella spp.
+T152	ORG_VIVO 2934 2951	Toxoplasma gondii
+T153	ORG_VIVO 2953 2971	virus hepatotropos
+T154	ORG_VIVO 2973 2976	VHA
+T155	ORG_VIVO 2978 2981	VHB
+T156	ORG_VIVO 2984 2987	VHC
+T157	ORG_VIVO 2990 3005	citomegalovirus
+T158	ORG_VIVO 3075 3080	viral
+T159	ORG_VIVO 3085 3088	VIH
+T160	ORG_VIVO 3435 3443	paciente
+T161	ORG_VIVO 3484 3500	inmunovirológica
+T162	ORG_VIVO 3537 3545	paciente
+T163	ORG_VIVO 3707 3715	animales
+T164	ORG_VIVO 3717 3723	perros
+T165	ORG_VIVO 3766 3774	animales
+T166	ORG_VIVO 3790 3798	caballos
+T167	ORG_VIVO 3826 3834	paciente
+T168	ORG_VIVO 3981 3990	patógenos
+T169	ORG_VIVO 4018 4030	P. jirovecii
+T170	ORG_VIVO 4362 4377	microorganismos
+T171	ORG_VIVO 4420 4444	Streptococcus pneumoniae
+T172	ORG_VIVO 4446 4468	Haemophilus influenzae
+T173	ORG_VIVO 4470 4492	Pseudomonas aeruginosa
+T174	ORG_VIVO 4494 4510	Rhodococcus equi
+T175	ORG_VIVO 4513 4532	Nocardia asteroides
+T176	ORG_VIVO 4610 4617	R. equi
+T177	ORG_VIVO 4620 4633	N. asteroides
+T178	ORG_VIVO 4747 4755	paciente
+T179	ORG_VIVO 4932 4943	bacteriemia
+T180	ORG_VIVO 4982 5003	Staphylococcus aureus
+T181	ORG_VIVO 5005 5026	Moraxella catarrhalis
+T182	ORG_VIVO 5028 5049	Mycoplasma pneumoniae
+T183	ORG_VIVO 5051 5071	Chlamydia pneumoniae
+T184	ORG_VIVO 5074 5096	Neisseria meningitidis
+T185	ORG_VIVO 5112 5138	Mycobacterium tuberculosis
+T186	ORG_VIVO 5218 5227	pacientes
+T187	ORG_VIVO 5503 5537	Mycobacterium avium-intracellulare
+T188	ORG_VIVO 5539 5542	MAI
+T189	ORG_VIVO 5546 5568	Mycobacterium kansasii
+T190	ORG_VIVO 5614 5623	patógenos
+T191	ORG_VIVO 5634 5642	paciente
+T192	ORG_VIVO 5923 5935	Cryptococcus
+T193	ORG_VIVO 5947 5969	Histoplasma capsulatum
+T194	ORG_VIVO 5971 5991	Coccidioides immitis
+T195	ORG_VIVO 5993 6014	Penicillium marneffei
+T196	ORG_VIVO 6016 6037	Aspergillus fumigatus
+T197	ORG_VIVO 6040 6058	Aspergillus flavus
+T198	ORG_VIVO 6105 6114	T. gondii
+T199	ORG_VIVO 6142 6151	pacientes
+T200	ORG_VIVO 6256 6265	neumococo
+T201	ORG_VIVO 6268 6278	Legionella
+T202	ORG_VIVO 6314 6322	Brucella
+T203	ORG_VIVO 6324 6333	T. gondii
+T204	ORG_VIVO 6335 6338	VHA
+T205	ORG_VIVO 6340 6343	VHB
+T206	ORG_VIVO 6345 6348	VHC
+T207	ORG_VIVO 6384 6396	P. jirovecii
+T208	ORG_VIVO 6623 6639	inmunovirológico
+T209	ORG_VIVO 6760 6765	viral
+T210	ORG_VIVO 6770 6773	VIH
+T211	ORG_VIVO 7064 7071	R. equi
+T212	ORG_VIVO 7300 7308	paciente
+T213	ORG_VIVO 7426 7445	Serratia plymuthica
+T214	ORG_VIVO 7560 7568	paciente
+T215	ORG_VIVO 7744 7759	antirretroviral
+T216	ORG_VIVO 7767 7775	paciente
+T217	ORG_VIVO 7971 7979	paciente
+T218	ORG_VIVO 8452 8460	paciente
+T219	ORG_VIVO 8659 8671	baciloscopia
+T220	ORG_VIVO 8911 8919	paciente
+T221	ENFERMEDAD 29 51	infección por el VIH-1
+T222	ENFERMEDAD 70 112	neumonía previa por Pneumocystis jirovecii
+T223	ENFERMEDAD 703 726	alergias medicamentosas
+T224	ENFERMEDAD 1195 1236	adenopatías cervicales, supraclaviculares
+T225	ENFERMEDAD 1283 1338	lesiones verrucosas en miembros superiores e inferiores
+T226	ENFERMEDAD 1342 1387	lesiones compatibles con muguet en orofaringe
+T227	ENFERMEDAD 2173 2221	lesión condensante y cavitada en lóbulo superior
+T228	ENFERMEDAD 2415 2439	neumonía cavitada en LSD
+T229	ENFERMEDAD 3448 3468	infección por el VIH
+T230	ENFERMEDAD 4273 4288	inmunodepresión
+T231	ENFERMEDAD 4326 4345	Neumonía bacteriana
+T232	ENFERMEDAD 4420 4532	Streptococcus pneumoniae, Haemophilus influenzae, Pseudomonas aeruginosa, Rhodococcus equi y Nocardia asteroides
+T233	ENFERMEDAD 4554 4573	neumonías cavitadas
+T234	ENFERMEDAD 4854 4889	neumonía cavitada por P. aeruginosa
+T235	ENFERMEDAD 4932 4943	bacteriemia
+T236	ENFERMEDAD 4982 5096	Staphylococcus aureus, Moraxella catarrhalis, Mycoplasma pneumoniae, Chlamydia pneumoniae o Neisseria meningitidis
+T237	ENFERMEDAD 5098 5110	Tuberculosis
+T238	ENFERMEDAD 5232 5271	síndrome de inmunodeficiencia adquirida
+T239	ENFERMEDAD 5273 5277	SIDA
+T240	ENFERMEDAD 5323 5342	enfermedad cavitada
+T241	ENFERMEDAD 5395 5412	enfermedad miliar
+T242	ENFERMEDAD 5444 5568	Infecciones micobacterianas no tuberculosas, especialmente Mycobacterium avium-intracellulare (MAI) y Mycobacterium kansasii
+T243	ENFERMEDAD 5587 5603	infección activa
+T244	ENFERMEDAD 5665 5686	inmunosupresión grave
+T245	ENFERMEDAD 5799 5850	lesiones cavitadas, nódulos, etc. Infección fúngica
+T246	ENFERMEDAD 5892 6058	neumonía cavitada consideramos Cryptococcus neoformas, Histoplasma capsulatum, Coccidioides immitis, Penicillium marneffei, Aspergillus fumigatus y Aspergillus flavus
+T247	ENFERMEDAD 6073 6094	Infección parasitaria
+T248	ENFERMEDAD 6505 6534	neumonía abscesificada en LSD
+T249	ENFERMEDAD 8099 8116	lesiones cutáneas
+T250	ENFERMEDAD 8603 8620	lesiones cutáneas
+T251	ENFERMEDAD 8718 8742	dermatitis psoriasiforme
+T252	ENFERMEDAD 8791 8831	lesiones compatibles con prúrigo nodular
+T253	ENFERMEDAD 9092 9157	Neumonía cavitada de lóbulo superior derecho por Rhodococcus equi
+T254	ENFERMEDAD 9159 9193	Infección por el VIH en estadio C3
+T255	ENFERMEDAD 9195 9211	Candidiasis oral
+T256	ENFERMEDAD 9213 9237	Dermatitis psoriasiforme
+T257	PACIENTE-PROFESION 565 621	cuidador de caballos y otros animales domésticos (perros
+T258	PACIENTE-PROFESION 3727 3798	trabaja en contacto estrecho con otros animales, especialmente caballos

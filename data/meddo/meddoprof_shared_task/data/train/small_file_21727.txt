@@ -1,0 +1,17 @@
+
+Estudia	B-SITUACION_LABORAL
+4o	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+la	I-SITUACION_LABORAL
+ESO	I-SITUACION_LABORAL
+en	O
+un	O
+instituto	O
+de	O
+educación	O
+secundaria	O
+próximo	O
+a	O
+su	O
+domicilio	O
+.	O

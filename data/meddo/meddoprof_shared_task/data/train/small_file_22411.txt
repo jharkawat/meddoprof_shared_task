@@ -1,0 +1,11 @@
+
+No	O
+ha	O
+tenido	O
+crisis	O
+en	O
+los	O
+últimos	O
+7	O
+años	O
+.	O

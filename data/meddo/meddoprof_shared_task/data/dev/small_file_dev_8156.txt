@@ -1,0 +1,27 @@
+
+Tras	O
+dicha	O
+intervención	O
+se	O
+restableció	O
+la	O
+estabilidad	O
+hemodinámica	O
+y	O
+se	O
+inicio	O
+tratamiento	O
+antibiótico	O
+con	O
+ceftriaxona	O
+1gr	O
+/	O
+12	O
+horas	O
+y	O
+vancomicina	O
+a	O
+las	O
+mismas	O
+dosis	O
+.	O

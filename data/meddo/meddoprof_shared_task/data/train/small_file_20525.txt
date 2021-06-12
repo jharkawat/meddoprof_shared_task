@@ -1,0 +1,11 @@
+
+Memoria	O
+P	O
+.	O
+D	O
+.	O
+9	O
+P	O
+.	O
+T	O
+.	O

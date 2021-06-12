@@ -1,0 +1,11 @@
+
+No	O
+se	O
+evidencian	O
+otras	O
+alteraciones	O
+en	O
+la	O
+exploración	O
+física	O
+.	O

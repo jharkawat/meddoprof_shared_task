@@ -1,0 +1,11 @@
+
+Además	O
+,	O
+esta	O
+enfermedad	O
+no	O
+mejora	O
+con	O
+manejo	O
+antibiótico	O
+.	O

@@ -1,0 +1,19 @@
+
+Trastornos	O
+mentales	O
+y	O
+del	O
+comportamiento	O
+debidos	O
+al	O
+consumo	O
+de	O
+cocaína	O
+(	O
+abuso	O
+)	O
+:	O
+F	O
+14	O
+.	O
+1	O

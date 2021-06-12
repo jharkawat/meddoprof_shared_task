@@ -1,0 +1,13 @@
+
+Páncreas	O
+,	O
+bazo	O
+,	O
+glándulas	O
+suprarrenales	O
+y	O
+ambos	O
+riñones	O
+sin	O
+hallazgos	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+refería	O
+clínica	O
+infecciosa	O
+ni	O
+hemorrágica	O
+.	O

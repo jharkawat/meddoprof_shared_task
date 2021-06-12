@@ -1,0 +1,10 @@
+
+Fue	O
+tratada	O
+con	O
+20	O
+miligramos	O
+día	O
+de	O
+fluoxetina	O
+.	O

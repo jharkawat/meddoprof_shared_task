@@ -1,0 +1,16 @@
+
+Abdomen	O
+con	O
+ascitis	O
+no	O
+a	O
+tensión	O
+,	O
+depresible	O
+,	O
+no	O
+doloroso	O
+,	O
+peristalsis	O
+presente	O
+.	O

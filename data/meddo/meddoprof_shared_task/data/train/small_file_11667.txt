@@ -1,0 +1,26 @@
+
+En	O
+la	O
+exploración	O
+física	O
+el	O
+paciente	O
+tiene	O
+buen	O
+estado	O
+general	O
+,	O
+se	O
+encuentra	O
+consciente	O
+,	O
+orientado	O
+,	O
+normohidratado	O
+,	O
+perfundido	O
+y	O
+eupneico	O
+en	O
+reposo	O
+.	O

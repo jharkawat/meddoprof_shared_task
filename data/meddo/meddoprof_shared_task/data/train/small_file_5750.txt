@@ -1,0 +1,11 @@
+
+Rx	O
+tórax	O
+:	O
+masa	O
+pulmonar	O
+derecha	O
+de	O
+gran	O
+volumen	O
+.	O

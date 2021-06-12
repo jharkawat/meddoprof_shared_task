@@ -1,0 +1,14 @@
+
+No	O
+tiene	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+excepto	O
+problemas	O
+traumatológicos	O
+como	O
+dos	O
+esguinces	O
+.	O

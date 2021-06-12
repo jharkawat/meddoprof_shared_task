@@ -1,0 +1,230 @@
+T1	SINTOMA 81 90	ex adicto
+T2	SINTOMA 134 144	ex bebedor
+T3	SINTOMA 379 382	tos
+T4	SINTOMA 387 410	expectoración purulenta
+T5	SINTOMA 412 418	fiebre
+T6	SINTOMA 444 465	deposiciones líquidas
+T7	SINTOMA 514 531	disnea progresiva
+T8	SINTOMA 533 543	hemoptisis
+T9	SINTOMA 546 555	hematuria
+T10	SINTOMA 632 642	consciente
+T11	SINTOMA 645 654	orientado
+T12	SINTOMA 656 675	palidez mucocutánea
+T13	SINTOMA 678 706	intenso trabajo respiratorio
+T14	SINTOMA 817 829	taquicárdico
+T15	SINTOMA 835 869	murmullo vesicular está disminuido
+T16	SINTOMA 874 926	crepitantes generalizados en ambos campos pulmonares
+T17	SINTOMA 1459 1470	trombopenia
+T18	SINTOMA 1472 1482	linfopenia
+T19	SINTOMA 1860 1871	hipotensión
+T20	SINTOMA 1879 1888	hipoxemia
+T21	SINTOMA 3833 3844	escalofríos
+T22	SINTOMA 3846 3852	fiebre
+T23	SINTOMA 3854 3862	mialgias
+T24	SINTOMA 3864 3871	cefalea
+T25	SINTOMA 3873 3890	tos no productiva
+T26	SINTOMA 3895 3905	odinofagia
+T27	SINTOMA 7401 7407	febril
+T28	SINTOMA 7715 7722	fallece
+T29	PROCEDIMIENTO 563 581	exploración física
+T30	PROCEDIMIENTO 731 749	CPAP de alto flujo
+T31	PROCEDIMIENTO 791 803	auscultación
+T32	PROCEDIMIENTO 991 1005	antibioterapia
+T33	PROCEDIMIENTO 1227 1239	sueroterapia
+T34	PROCEDIMIENTO 1252 1264	hemocultivos
+T35	PROCEDIMIENTO 1561 1581	radiografía de tórax
+T36	PROCEDIMIENTO 1583 1585	RX
+T37	PROCEDIMIENTO 1923 1945	intubación orotraqueal
+T38	PROCEDIMIENTO 1947 1950	IOT
+T39	PROCEDIMIENTO 1961 1964	IOT
+T40	PROCEDIMIENTO 1995 2013	aspirado bronquial
+T41	PROCEDIMIENTO 2015 2018	BAS
+T42	PROCEDIMIENTO 3289 3292	IOT
+T43	PROCEDIMIENTO 4465 4501	técnicas de detección de ADN por PCR
+T44	PROCEDIMIENTO 4504 4523	inmunofluorescencia
+T45	PROCEDIMIENTO 4687 4758	serología (microinmunofluorescencia), inmunohistoquímica, PCR o cultivo
+T46	PROCEDIMIENTO 4977 4994	serología con IgM
+T47	PROCEDIMIENTO 5900 5922	estudio microbiológico
+T48	PROCEDIMIENTO 5956 5992	serología de VIH, virus de hepatitis
+T49	PROCEDIMIENTO 6036 6084	determinación de PCR de virus de la gripe en BAS
+T50	PROCEDIMIENTO 6102 6105	IOT
+T51	PROCEDIMIENTO 6238 6250	hemocultivos
+T52	PROCEDIMIENTO 6427 6439	baciloscopia
+T53	PROCEDIMIENTO 6768 6799	PCR para detección de ARN viral
+T54	PROCEDIMIENTO 6943 6957	antibioterapia
+T55	PROCEDIMIENTO 6998 7010	hemocultivos
+T56	PROCEDIMIENTO 7334 7348	antibioterapia
+T57	PROCEDIMIENTO 7495 7507	hemocultivos
+T58	PROCEDIMIENTO 7518 7528	urocultivo
+T59	PROCEDIMIENTO 7530 7533	BAS
+T60	PROCEDIMIENTO 7548 7563	catéter central
+T61	PROCEDIMIENTO 7612 7641	ecocardiograma transesofágico
+T62	PROCEDIMIENTO 7765 7777	hemocultivos
+T63	PROCEDIMIENTO 7779 7789	urocultivo
+T64	PROCEDIMIENTO 7792 7795	BAS
+T65	NEG 24 27	sin
+T66	NSCO 28 79	otros factores de riesgo cardiovasculares conocidos
+T67	NEG 164 167	sin
+T68	NSCO 168 200	hábitos tóxicos en la actualidad
+T69	NEG 928 930	No
+T70	NSCO 931 979	hay otros hallazgos de interés en la exploración
+T71	NEG 1434 1436	no
+T72	NSCO 1437 1457	conocido previamente
+T73	NEG 3877 3879	no
+T74	NSCO 3880 3890	productiva
+T75	NEG 4660 4668	se puede
+T76	NSCO 4669 4722	realizar mediante serología (microinmunofluorescencia
+T77	NEG 6444 6452	negativa
+T78	NEG 6552 6560	negativa
+T79	NSCO 6561 6569	para VIH
+T80	NEG 6807 6815	negativo
+T81	NEG 7568 7570	no
+T82	NSCO 7571 7598	presenta datos de infección
+T83	NEG 7648 7650	no
+T84	NSCO 7651 7691	hay lesiones sospechosas de endocarditis
+T85	NEG 7724 7734	Se reciben
+T86	NSCO 7735 7777	los resultados de los últimos hemocultivos
+T87	NEG 7797 7806	negativos
+T88	FARMACO 1019 1029	cefotaxima
+T89	FARMACO 1069 1082	levofloxacino
+T90	FARMACO 5849 5858	Linezolid
+T91	FARMACO 6969 6978	Linezolid
+T92	FARMACO 6981 6992	Voriconazol
+T93	ORG_VIVO 0 5	Varón
+T94	ORG_VIVO 1139 1154	microorganismos
+T95	ORG_VIVO 1334 1343	Neumococo
+T96	ORG_VIVO 1346 1356	Legionella
+T97	ORG_VIVO 1829 1837	paciente
+T98	ORG_VIVO 2070 2078	paciente
+T99	ORG_VIVO 2143 2158	microorganismos
+T100	ORG_VIVO 2183 2207	Streptococcus pneumoniae
+T101	ORG_VIVO 2209 2223	microorganismo
+T102	ORG_VIVO 2284 2295	infecciones
+T103	ORG_VIVO 2337 2346	pacientes
+T104	ORG_VIVO 2358 2366	enfermos
+T105	ORG_VIVO 2397 2419	Haemophilus influenzae
+T106	ORG_VIVO 2476 2486	vacunación
+T107	ORG_VIVO 2533 2542	pacientes
+T108	ORG_VIVO 2608 2624	Escherichia coli
+T109	ORG_VIVO 2627 2648	Klebsiella pneumoniae
+T110	ORG_VIVO 2707 2715	personas
+T111	ORG_VIVO 2818 2835	Coxiella burnetii
+T112	ORG_VIVO 2860 2869	pacientes
+T113	ORG_VIVO 2882 2890	animales
+T114	ORG_VIVO 2892 2898	ganado
+T115	ORG_VIVO 2900 2908	roedores
+T116	ORG_VIVO 2910 2914	aves
+T117	ORG_VIVO 2934 2944	garrapatas
+T118	ORG_VIVO 3042 3050	paciente
+T119	ORG_VIVO 3084 3105	Staphylococcus aureus
+T120	ORG_VIVO 3327 3336	pacientes
+T121	ORG_VIVO 3360 3412	cepas productoras de leucocidina de Panton-Valentine
+T122	ORG_VIVO 3425 3430	cepas
+T123	ORG_VIVO 3434 3476	Staphyloccocus aureus meticilin resistente
+T124	ORG_VIVO 3478 3482	MRSA
+T125	ORG_VIVO 3566 3572	adulto
+T126	ORG_VIVO 3598 3602	niño
+T127	ORG_VIVO 3722 3739	Virus de la gripe
+T128	ORG_VIVO 3741 3757	Influenzavirus A
+T129	ORG_VIVO 3757 3759	,B
+T130	ORG_VIVO 3760 3763	o C
+T131	ORG_VIVO 4123 4145	Legionella pneumophila
+T132	ORG_VIVO 4209 4217	personas
+T133	ORG_VIVO 4257 4265	ancianos
+T134	ORG_VIVO 4338 4360	Legionella pneumophila
+T135	ORG_VIVO 4535 4571	Chlamydophila (Chlamydia) pneumoniae
+T136	ORG_VIVO 4762 4783	Mycoplasma pneumoniae
+T137	ORG_VIVO 4785 4793	patógeno
+T138	ORG_VIVO 4812 4817	niños
+T139	ORG_VIVO 4820 4832	adolescentes
+T140	ORG_VIVO 4864 4871	adultos
+T141	ORG_VIVO 4887 4895	ancianos
+T142	ORG_VIVO 5121 5129	paciente
+T143	ORG_VIVO 5253 5268	Aspergillus spp
+T144	ORG_VIVO 5442 5451	pacientes
+T145	ORG_VIVO 5969 5972	VIH
+T146	ORG_VIVO 5974 5992	virus de hepatitis
+T147	ORG_VIVO 6060 6077	virus de la gripe
+T148	ORG_VIVO 6257 6299	Staphylococcus aureus meticilin resistente
+T149	ORG_VIVO 6301 6305	MRSA
+T150	ORG_VIVO 6350 6354	MRSA
+T151	ORG_VIVO 6401 6422	Aspergillus fumigatus
+T152	ORG_VIVO 6427 6439	baciloscopia
+T153	ORG_VIVO 6483 6492	neumococo
+T154	ORG_VIVO 6495 6505	legionella
+T155	ORG_VIVO 6566 6569	VIH
+T156	ORG_VIVO 6571 6574	VHB
+T157	ORG_VIVO 6597 6618	Mycoplasma pneumoniae
+T158	ORG_VIVO 6620 6644	Chlamydophila pneumoniae
+T159	ORG_VIVO 6646 6663	Coxiella burnetti
+T160	ORG_VIVO 6666 6688	Legionella pneumophila
+T161	ORG_VIVO 6726 6729	VHC
+T162	ORG_VIVO 6794 6799	viral
+T163	ORG_VIVO 7087 7091	MRSA
+T164	ORG_VIVO 7706 7714	paciente
+T165	ORG_VIVO 7913 7934	Aspergillus fumigatus
+T166	ENFERMEDAD 17 22	obeso
+T167	ENFERMEDAD 223 243	pancreatitis enólica
+T168	ENFERMEDAD 546 555	hematuria
+T169	ENFERMEDAD 1183 1218	neumonía de adquisición comunitaria
+T170	ENFERMEDAD 1220 1223	NAC
+T171	ENFERMEDAD 1422 1433	fallo renal
+T172	ENFERMEDAD 1472 1482	linfopenia
+T173	ENFERMEDAD 1609 1637	infiltrado pulmonar alveolar
+T174	ENFERMEDAD 2107 2125	sepsis por una NAC
+T175	ENFERMEDAD 2172 2180	NAC son:
+T176	ENFERMEDAD 2181 2223	• Streptococcus pneumoniae: microorganismo
+T177	ENFERMEDAD 2252 2260	neumonía
+T178	ENFERMEDAD 2284 2295	infecciones
+T179	ENFERMEDAD 2313 2333	peritonitis primaria
+T180	ENFERMEDAD 2376 2386	meningitis
+T181	ENFERMEDAD 2558 2597	enfermedad pulmonar obstructiva crónica
+T182	ENFERMEDAD 2599 2603	EPOC
+T183	ENFERMEDAD 2726 2736	cirróticos
+T184	ENFERMEDAD 2738 2755	diabetes mellitus
+T185	ENFERMEDAD 2757 2781	enfermedad renal crónica
+T186	ENFERMEDAD 2783 2795	desnutrición
+T187	ENFERMEDAD 2798 2814	neoplasia activa
+T188	ENFERMEDAD 2986 3011	NAC de presentación grave
+T189	ENFERMEDAD 3142 3157	inmunodepresión
+T190	ENFERMEDAD 3222 3250	traumatismo craneoencefálico
+T191	ENFERMEDAD 3252 3286	infección por el virus de la gripe
+T192	ENFERMEDAD 3360 3476	cepas productoras de leucocidina de Panton-Valentine, sobre todo cepas de Staphyloccocus aureus meticilin resistente
+T193	ENFERMEDAD 3505 3530	neumonía necrosante grave
+T194	ENFERMEDAD 3611 3629	infección pulmonar
+T195	ENFERMEDAD 3680 3697	necrosis pulmonar
+T196	ENFERMEDAD 3699 3704	shock
+T197	ENFERMEDAD 3707 3718	neutropenia
+T198	ENFERMEDAD 3931 3948	neumonías víricas
+T199	ENFERMEDAD 3955 3983	sobreinfecciones bacterianas
+T200	ENFERMEDAD 3999 4026	infección por el virus H5N1
+T201	ENFERMEDAD 4049 4064	infección grave
+T202	ENFERMEDAD 4069 4119	neumonía en ocasiones hemorrágica y de curso grave
+T203	ENFERMEDAD 4268 4284	inmunodeprimidos
+T204	ENFERMEDAD 5044 5068	Infección por anaerobios
+T205	ENFERMEDAD 5098 5114	cavidad pulmonar
+T206	ENFERMEDAD 5214 5221	empiema
+T207	ENFERMEDAD 5226 5246	Infección por hongos
+T208	ENFERMEDAD 5295 5314	alveolitis alérgica
+T209	ENFERMEDAD 5317 5333	asma extrínsecas
+T210	ENFERMEDAD 5335 5364	sinusitis crónica en atópicos
+T211	ENFERMEDAD 5368 5404	aspergilosis broncopulmonar alérgica
+T212	ENFERMEDAD 5409 5417	neumonía
+T213	ENFERMEDAD 5456 5473	neutropenia grave
+T214	ENFERMEDAD 5488 5520	enfermedad granulomatosa crónica
+T215	ENFERMEDAD 5522 5526	EPOC
+T216	ENFERMEDAD 5528 5539	alcoholismo
+T217	ENFERMEDAD 5541 5558	cirrosis hepática
+T218	ENFERMEDAD 5563 5580	diabetes mellitus
+T219	ENFERMEDAD 5729 5742	fracaso renal
+T220	ENFERMEDAD 5751 5769	fallo respiratorio
+T221	ENFERMEDAD 5811 5816	shock
+T222	ENFERMEDAD 6003 6012	neumonías
+T223	ENFERMEDAD 6238 6299	hemocultivos crece Staphylococcus aureus meticilin resistente
+T224	ENFERMEDAD 6528 6533	gripe
+T225	ENFERMEDAD 7589 7598	infección
+T226	ENFERMEDAD 7679 7691	endocarditis
+T227	ENFERMEDAD 7827 7840	Shock séptico
+T228	ENFERMEDAD 7845 7864	fallo multiorgánico
+T229	ENFERMEDAD 7869 7894	NAC bacteriémica por MRSA
+T230	PACIENTE-SITUACION_LABORAL 280 310	en un centro de deshabituación

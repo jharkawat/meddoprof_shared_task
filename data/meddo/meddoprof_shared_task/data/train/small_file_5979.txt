@@ -1,0 +1,27 @@
+
+Se	O
+contacta	O
+con	O
+Neurólogo	B-PROFESION
+de	O
+guardia	O
+,	O
+que	O
+observando	O
+analítica	O
+y	O
+TAC	O
+dentro	O
+de	O
+la	O
+normalidad	O
+procede	O
+al	O
+alta	O
+con	O
+diagnóstico	O
+:	O
+Accidente	O
+isquémico	O
+transitorio	O
+.	O

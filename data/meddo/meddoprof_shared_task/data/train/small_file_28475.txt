@@ -1,0 +1,27 @@
+
+Desde	O
+hace	O
+4	O
+años	O
+tiene	O
+reconocida	O
+una	O
+incapacidad	B-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+permanente	I-SITUACION_LABORAL
+y	O
+un	O
+grado	O
+de	O
+discapacidad	O
+del	O
+65	O
+%	O
+,	O
+por	O
+el	O
+que	O
+percibe	B-SITUACION_LABORAL
+una	I-SITUACION_LABORAL
+pensión	I-SITUACION_LABORAL
+.	O

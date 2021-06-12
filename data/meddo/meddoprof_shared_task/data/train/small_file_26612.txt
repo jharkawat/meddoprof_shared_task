@@ -1,0 +1,10 @@
+
+Pero	O
+no	O
+recibe	O
+la	O
+atención	O
+afectiva	O
+que	O
+precisa	O
+.	O

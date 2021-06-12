@@ -1,0 +1,11 @@
+
+Diabetes	O
+insípida	O
+secundaria	O
+a	O
+metástasis	O
+de	O
+carcinoma	O
+de	O
+mama	O
+.	O

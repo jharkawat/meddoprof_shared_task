@@ -1,0 +1,14 @@
+
+Dismetría	O
+en	O
+prueba	O
+dedo	O
+-	O
+nariz	O
+y	O
+talón	O
+rodilla	O
+en	O
+extremidades	O
+derechas	O
+.	O

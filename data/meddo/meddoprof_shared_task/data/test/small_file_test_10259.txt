@@ -1,0 +1,11 @@
+
+Las	O
+células	O
+muestran	O
+pleomorfismo	O
+nuclear	O
+y	O
+se	O
+identifican	O
+mitosis	O
+.	O

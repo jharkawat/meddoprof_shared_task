@@ -1,0 +1,80 @@
+T1	SINTOMA 191 199	delirium
+T2	SINTOMA 531 539	falleció
+T3	SINTOMA 589 597	falleció
+T4	SINTOMA 1100 1140	deterioro global de la función cognitiva
+T5	SINTOMA 1536 1545	anhedonia
+T6	SINTOMA 1547 1555	anorexia
+T7	SINTOMA 1589 1611	falta de concentración
+T8	SINTOMA 1613 1621	ansiedad
+T9	SINTOMA 1623 1635	desesperanza
+T10	SINTOMA 1637 1652	baja autoestima
+T11	SINTOMA 1655 1677	deseos de estar muerto
+T12	SINTOMA 1775 1788	irritabilidad
+T13	SINTOMA 1791 1796	miedo
+T14	SINTOMA 2601 2610	agitación
+T15	SINTOMA 3287 3300	fallecimiento
+T16	PROCEDIMIENTO 2562 2580	restricción física
+T17	PROCEDIMIENTO 2778 2799	Análisis toxicológico
+T18	PROCEDIMIENTO 2865 2875	hemogramas
+T19	PROCEDIMIENTO 2902 2930	serología de hepatitis y HIV
+T20	PROCEDIMIENTO 2942 2963	electroencefalogramas
+T21	PROCEDIMIENTO 2990 2993	RMN
+T22	UNC 616 623	posible
+T23	USCO 624 646	edema agudo del pulmón
+T24	NEG 1589 1597	falta de
+T25	NSCO 1598 1611	concentración
+T26	NEG 1729 1731	no
+T27	NSCO 1732 1749	conoce a su nieto
+T28	NEG 1904 1916	desaparición
+T29	NEG 2238 2240	no
+T30	NSCO 2241 2316	puede descartarse un cuadro de hipoglucemia o una encefalopatía de Wernicke
+T31	NEG 2839 2847	negativo
+T32	NSCO 2848 2863	a otros tóxicos
+T33	NEG 2876 2879	sin
+T34	NSCO 2880 2930	hallazgos relevantes, serología de hepatitis y HIV
+T35	NEG 2931 2940	negativos
+T36	NEG 2964 2967	sin
+T37	NSCO 2968 2988	hallazgos destacados
+T38	NEG 3098 3111	inespecíficas
+T39	NSCO 3112 3156	interpretadas como clínicamente irrelevantes
+T40	FARMACO 2189 2196	Tiamina
+T41	FARMACO 2624 2635	haloperidol
+T42	ORG_VIVO 19 24	Varón
+T43	ORG_VIVO 109 115	esposa
+T44	ORG_VIVO 215 220	nieto
+T45	ORG_VIVO 274 282	cannabis
+T46	ORG_VIVO 393 403	Personales
+T47	ORG_VIVO 511 521	Familiares
+T48	ORG_VIVO 525 530	padre
+T49	ORG_VIVO 583 588	madre
+T50	ORG_VIVO 711 716	nieto
+T51	ORG_VIVO 731 739	cannabis
+T52	ORG_VIVO 770 778	paciente
+T53	ORG_VIVO 838 846	cannabis
+T54	ORG_VIVO 1175 1182	anciano
+T55	ORG_VIVO 1433 1441	paciente
+T56	ORG_VIVO 1696 1702	esposa
+T57	ORG_VIVO 1744 1749	nieto
+T58	ORG_VIVO 1852 1860	cannabis
+T59	ORG_VIVO 2114 2122	paciente
+T60	ORG_VIVO 2480 2484	hijo
+T61	ORG_VIVO 2541 2548	persona
+T62	ORG_VIVO 2828 2836	cannabis
+T63	ORG_VIVO 2915 2924	hepatitis
+T64	ORG_VIVO 2927 2930	HIV
+T65	ORG_VIVO 3228 3236	cannabis
+T66	ORG_VIVO 3307 3313	esposa
+T67	ENFERMEDAD 173 188	confusión aguda
+T68	ENFERMEDAD 191 199	delirium
+T69	ENFERMEDAD 404 425	Artrosis generalizada
+T70	ENFERMEDAD 544 564	infarto de miocardio
+T71	ENFERMEDAD 624 646	edema agudo del pulmón
+T72	ENFERMEDAD 669 690	infarto del miocardio
+T73	ENFERMEDAD 1021 1044	síndrome cerebral agudo
+T74	ENFERMEDAD 1613 1621	ansiedad
+T75	ENFERMEDAD 2272 2284	hipoglucemia
+T76	ENFERMEDAD 2291 2316	encefalopatía de Wernicke
+T77	ENFERMEDAD 2814 2836	positivo para cannabis
+T78	ENFERMEDAD 3171 3193	Confusión aguda mental
+T79	ENFERMEDAD 3196 3236	Delirium asociado al consumo de cannabis
+T80	ENFERMEDAD 3238 3256	depresión reactiva

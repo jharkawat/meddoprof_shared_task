@@ -1,0 +1,21 @@
+
+Estenosis	O
+moderada	O
+/	O
+crítica	O
+de	O
+la	O
+raíz	O
+del	O
+tronco	O
+celíaco	O
+,	O
+con	O
+vascularización	O
+ausente	O
+de	O
+la	O
+arteria	O
+hepática	O
+propia	O
+.	O

@@ -1,0 +1,26 @@
+
+Pequeñas	O
+hemorragias	O
+subconjuntivales	O
+,	O
+aparentemente	O
+ocasionadas	O
+por	O
+la	O
+irritación	O
+que	O
+le	O
+provocan	O
+los	O
+lentes	O
+de	O
+contacto	O
+;	O
+pupilas	O
+simétricas	O
+con	O
+respuesta	O
+normal	O
+de	O
+reflejos	O
+.	O

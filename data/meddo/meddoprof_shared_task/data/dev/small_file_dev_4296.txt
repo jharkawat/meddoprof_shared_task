@@ -1,0 +1,11 @@
+
+Al	O
+examen	O
+físico	O
+destaca	O
+dolor	O
+lateral	O
+de	O
+rodilla	O
+derecha	O
+.	O

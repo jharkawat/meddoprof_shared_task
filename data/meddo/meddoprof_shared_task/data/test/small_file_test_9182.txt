@@ -1,0 +1,11 @@
+
+Además	O
+,	O
+se	O
+ve	O
+afectada	O
+la	O
+raíz	O
+D12	O
+izquierda	O
+.	O

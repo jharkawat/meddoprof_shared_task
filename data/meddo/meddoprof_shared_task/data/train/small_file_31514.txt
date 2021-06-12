@@ -1,0 +1,19 @@
+
+Antecedentes	O
+psiquiátricos	O
+:	O
+durante	O
+sus	O
+estudios	B-SITUACION_LABORAL
+universitarios	I-SITUACION_LABORAL
+vivía	O
+en	O
+un	O
+piso	O
+de	O
+estudiantes	B-SITUACION_LABORAL
+con	O
+otros	O
+dos	O
+chicos	O
+.	O

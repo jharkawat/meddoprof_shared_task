@@ -1,0 +1,15 @@
+
+leucemia	O
+/	O
+linfoma	O
+de	O
+células	O
+dendríticas	O
+descrita	O
+en	O
+el	O
+fenotipo	O
+de	O
+anatomía	O
+patológica	O
+.	O

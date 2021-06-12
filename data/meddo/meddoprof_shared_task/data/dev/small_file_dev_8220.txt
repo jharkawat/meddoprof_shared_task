@@ -1,0 +1,27 @@
+
+Desde	O
+el	O
+diagnóstico	O
+de	O
+infección	O
+por	O
+VIH	O
+hasta	O
+2005	O
+la	O
+paciente	O
+no	O
+realiza	O
+seguimiento	O
+regular	O
+en	O
+consulta	O
+,	O
+no	O
+recibiendo	O
+tratamiento	O
+antirretroviral	O
+(	O
+TARGA	O
+)	O
+.	O

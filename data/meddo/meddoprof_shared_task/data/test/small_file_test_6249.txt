@@ -1,0 +1,19 @@
+
+Carga	O
+tumoral	O
+:	O
+Polor	O
+renal	O
+inferior	O
+derecho	O
+,	O
+pulmonar	O
+en	O
+LII	O
+,	O
+óseo	O
+en	O
+rama	O
+iliopubiana	O
+derecha	O
+.	O

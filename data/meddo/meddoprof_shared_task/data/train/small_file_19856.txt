@@ -1,0 +1,9 @@
+
+-	O
+Pancreatitis	O
+aguda	O
+[	O
+577	O
+.	O
+0	O
+]	O

@@ -1,0 +1,24 @@
+
+Sólo	O
+resaltar	O
+dolor	O
+en	O
+la	O
+cadera	O
+izquierda	O
+de	O
+características	O
+inflamatorias	O
+,	O
+y	O
+que	O
+el	O
+propio	O
+paciente	O
+no	O
+relaciona	O
+con	O
+la	O
+hernia	O
+inguinal	O
+.	O

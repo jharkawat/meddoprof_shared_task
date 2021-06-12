@@ -1,0 +1,13 @@
+
+Recibe	O
+tratamiento	O
+anticomicial	O
+con	O
+levetiracetam	O
+con	O
+mejoría	O
+de	O
+las	O
+clonías	O
+faciales	O
+.	O

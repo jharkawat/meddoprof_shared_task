@@ -1,0 +1,5 @@
+
+Se	O
+toman	O
+biopsias	O
+.	O

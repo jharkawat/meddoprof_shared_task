@@ -1,0 +1,25 @@
+
+Tres	O
+meses	O
+antes	O
+del	O
+episodio	O
+actual	O
+había	O
+recibido	O
+ciprofloxacino	O
+prescrito	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+,	O
+sin	O
+causa	O
+recogida	O
+en	O
+su	O
+historial	O
+.	O

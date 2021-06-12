@@ -1,0 +1,25 @@
+
+Dadas	O
+la	O
+autoinmunidad	O
+y	O
+microbiología	O
+negativas	O
+y	O
+la	O
+afección	O
+renal	O
+inespecífica	O
+,	O
+solicitamos	O
+gastroscopia	O
+con	O
+biopsias	O
+para	O
+Enfermedad	O
+de	O
+Whipple	O
+,	O
+resultando	O
+negativas	O
+.	O

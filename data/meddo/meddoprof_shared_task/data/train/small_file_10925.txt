@@ -1,0 +1,18 @@
+
+Se	O
+aprecian	O
+incontables	O
+lesiones	O
+hipodensas	O
+de	O
+menos	O
+de	O
+1	O
+cm	O
+afectando	O
+al	O
+hígado	O
+y	O
+al	O
+bazo	O
+.	O

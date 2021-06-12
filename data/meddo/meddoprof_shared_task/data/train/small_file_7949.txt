@@ -1,0 +1,21 @@
+
+Biopsia	O
+de	O
+piel	O
+No	O
+.	O
+11112	O
+-	O
+12	O
+:	O
+La	O
+histopatología	O
+de	O
+las	O
+lesiones	O
+de	O
+liquen	O
+nítido	O
+es	O
+característica	O
+.	O

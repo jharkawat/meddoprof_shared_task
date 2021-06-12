@@ -1,0 +1,11 @@
+
+Radiografía	O
+de	O
+tórax	O
+anteroposterior	O
+muestra	O
+algunos	O
+nódulos	O
+calcificados	O
+parahiliares	O
+.	O

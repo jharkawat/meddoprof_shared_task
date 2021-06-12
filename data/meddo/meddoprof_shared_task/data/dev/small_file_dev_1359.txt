@@ -1,0 +1,10 @@
+
+Diagnòstic	O
+médico	O
+:	O
+Anorexia	O
+Nerviosa	O
+de	O
+tipo	O
+restrictiva	O
+.	O

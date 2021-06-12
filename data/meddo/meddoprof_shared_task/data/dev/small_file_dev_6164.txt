@@ -1,0 +1,19 @@
+
+Desde	O
+el	O
+laboratorio	O
+de	O
+microbiología	O
+nos	O
+informan	O
+que	O
+en	O
+el	O
+hemocultivo	O
+crece	O
+un	O
+Staphylococcus	O
+aureus	O
+meticillin	O
+sensible	O
+.	O

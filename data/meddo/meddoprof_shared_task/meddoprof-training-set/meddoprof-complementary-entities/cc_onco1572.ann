@@ -1,0 +1,149 @@
+T1	SINTOMA 98 244	dolor abdominal de un mes de evolución localizado en fosa ilíaca izquierda que se irradia a hipocondrio izquierdo y hemitórax inferior ipsilateral
+T2	SINTOMA 326 333	náuseas
+T3	SINTOMA 336 354	sudoración profusa
+T4	SINTOMA 359 365	vómito
+T5	SINTOMA 370 375	dolor
+T6	SINTOMA 542 548	fiebre
+T7	SINTOMA 550 565	pérdida de peso
+T8	SINTOMA 607 620	estreñimiento
+T9	SINTOMA 799 827	aumento de la amilasa sérica
+T10	SINTOMA 1021 1036	dolor abdominal
+T11	SINTOMA 1537 1546	exfumador
+T12	SINTOMA 1633 1640	fumador
+T13	SINTOMA 1834 1869	limitación para la actividad física
+T14	SINTOMA 2165 2201	aumento de tamaño de lóbulo tiroideo
+T15	SINTOMA 2396 2411	visceromegalias
+T16	SINTOMA 2437 2472	dolor a la palpación de fosa ilíaca
+T17	SINTOMA 2497 2518	irritación peritoneal
+T18	SINTOMA 2554 2562	dolorosa
+T19	SINTOMA 2664 2683	déficit neurológico
+T20	SINTOMA 6773 6780	diarrea
+T21	PROCEDIMIENTO 1902 1920	Exploración física
+T22	PROCEDIMIENTO 2902 2911	Hemograma
+T23	PROCEDIMIENTO 3098 3118	Radiografía de tórax
+T24	PROCEDIMIENTO 3196 3215	Ecografía abdominal
+T25	PROCEDIMIENTO 3574 3603	TC de cuello con contraste iv
+T26	PROCEDIMIENTO 4084 4102	TC toracoabdominal
+T27	PROCEDIMIENTO 4529 4540	Colangio-RM
+T28	PROCEDIMIENTO 4817 4831	Eco-endoscopia
+T29	PROCEDIMIENTO 5214 5220	PET-TC
+T30	PROCEDIMIENTO 5540 5564	PAAF del nódulo tiroideo
+T31	PROCEDIMIENTO 5656 5679	BAG del nódulo pulmonar
+T32	PROCEDIMIENTO 5706 5723	PAAF del páncreas
+T33	PROCEDIMIENTO 5802 5830	PAAF de la adenopatía axilar
+T34	PROCEDIMIENTO 6182 6210	pancreatectomíacorporocaudal
+T35	PROCEDIMIENTO 6216 6273	GIA vascular a la derecha de la vena mesentérica superior
+T36	PROCEDIMIENTO 6275 6334	ligadura de la arteria esplénica, vena mesentérica inferior
+T37	PROCEDIMIENTO 6337 6350	esplenectomía
+T38	PROCEDIMIENTO 7404 7429	estudio anatomopatológico
+T39	NEG 355 358	sin
+T40	NSCO 359 365	vómito
+T41	NEG 523 528	Niega
+T42	NSCO 529 548	aparición de fiebre
+T43	NEG 655 658	sin
+T44	NSCO 659 707	presenciar cambios en la apariencia de las heces
+T45	NEG 829 832	sin
+T46	NSCO 833 860	otros hallazgos adicionales
+T47	NEG 1074 1083	negativos
+T48	NEG 1098 1100	no
+T49	NSCO 1101 1203	presenta hipertensión arterial, diabetes mellitus, dislipidemia ni cardiopatía ni broncopatía conocida
+T50	NEG 1322 1325	sin
+T51	NSCO 1326 1350	conclusión de malignidad
+T52	NEG 1380 1382	no
+T53	NSCO 1383 1407	complicado hace dos años
+T54	NEG 1422 1431	negativos
+T55	NEG 1830 1833	sin
+T56	NSCO 1834 1869	limitación para la actividad física
+T57	NEG 2145 2152	Afebril
+T58	NEG 2240 2243	sin
+T59	NSCO 2244 2278	adenopatías cervicales ni axilares
+T60	NEG 2307 2310	sin
+T61	NSCO 2311 2317	soplos
+T62	NEG 2383 2386	sin
+T63	NSCO 2387 2411	masas ni visceromegalias
+T64	NEG 2483 2486	sin
+T65	NSCO 2487 2518	signos de irritación peritoneal
+T66	NEG 2551 2553	no
+T67	NSCO 2554 2562	dolorosa
+T68	NEG 2564 2566	no
+T69	NSCO 2567 2589	adenopatías inguinales
+T70	NEG 2591 2593	no
+T71	NSCO 2594 2650	edema de miembros ni signos de trombosis venosa profunda
+T72	NEG 2652 2654	No
+T73	NSCO 2655 2683	presenta déficit neurológico
+T74	NEG 3167 3170	sin
+T75	NSCO 3171 3192	hallazgos patológicos
+T76	NEG 3380 3383	sin
+T77	NSCO 3384 3398	causa evidente
+T78	NEG 3422 3425	sin
+T79	NSCO 3426 3448	signos de complicación
+T80	UNC 3748 3762	compatible con
+T81	USCO 3763 3823	degeneración coloide y pequeño foco de calcio en su interior
+T82	NEG 4028 4030	No
+T83	NSCO 4031 4080	se observan adenopatías sospechosas de malignidad
+T84	NEG 4280 4282	No
+T85	NSCO 4283 4320	se observan adenopatías mediastínicas
+T86	UNC 4610 4622	sugestiva de
+T87	USCO 4623 4637	adenocarcinoma
+T88	NEG 4692 4694	no
+T89	NSCO 4695 4743	permite descartar que se trate de una metástasis
+T90	NEG 4998 5001	sin
+T91	NSCO 5002 5047	evidencia de afectación a estructuras vecinas
+T92	NEG 5832 5834	no
+T93	NSCO 5835 5860	concluyente de malignidad
+T94	NEG 7295 7306	se valorará
+T95	NSCO 7307 7368	la necesidad de tratamiento adyuvante del carcinoma de pulmón
+T96	FARMACO 499 508	metamizol
+T97	ORG_VIVO 10 15	Varón
+T98	ORG_VIVO 1052 1062	personales
+T99	ORG_VIVO 1433 1443	Familiares
+T100	ORG_VIVO 1445 1452	hermana
+T101	ORG_VIVO 1755 1766	comerciante
+T102	ORG_VIVO 6716 6724	paciente
+T103	ENFERMEDAD 607 620	estreñimiento
+T104	ENFERMEDAD 1110 1131	hipertensión arterial
+T105	ENFERMEDAD 1133 1150	diabetes mellitus
+T106	ENFERMEDAD 1152 1164	dislipidemia
+T107	ENFERMEDAD 1168 1179	cardiopatía
+T108	ENFERMEDAD 1183 1194	broncopatía
+T109	ENFERMEDAD 1205 1241	Bocio a expensas del lóbulo tiroideo
+T110	ENFERMEDAD 1470 1488	cáncer de páncreas
+T111	ENFERMEDAD 2244 2266	adenopatías cervicales
+T112	ENFERMEDAD 2567 2589	adenopatías inguinales
+T113	ENFERMEDAD 2625 2650	trombosis venosa profunda
+T114	ENFERMEDAD 3251 3292	líquido ascítico en el espacio subfrénico
+T115	ENFERMEDAD 3400 3421	Vesícula con litiasis
+T116	ENFERMEDAD 3450 3474	vía biliar intrahepática
+T117	ENFERMEDAD 4000 4026	esófago contralateralmente
+T118	ENFERMEDAD 4043 4054	adenopatías
+T119	ENFERMEDAD 4126 4141	nódulo pulmonar
+T120	ENFERMEDAD 4295 4320	adenopatías mediastínicas
+T121	ENFERMEDAD 4343 4436	Masa quístico-necrótica submucosa gástrica en contacto íntimo con la curvatura menor gástrica
+T122	ENFERMEDAD 4438 4525	Lesión hipodensa en cuerpo de páncreas con dilatación posterior del conducto de Wirsung
+T123	ENFERMEDAD 4565 4637	lesión tumoral en el cuerpo del páncreas muy sugestiva de adenocarcinoma
+T124	ENFERMEDAD 4665 4680	nódulo pulmonar
+T125	ENFERMEDAD 4733 4743	metástasis
+T126	ENFERMEDAD 4856 4905	lesión sólida de 1,9 x 2 cm en cuerpo pancreático
+T127	ENFERMEDAD 5068 5079	adenopatías
+T128	ENFERMEDAD 5245 5312	lesiones de características metabólicas malignas en lóbulo superior
+T129	ENFERMEDAD 5332 5349	adenopatía axilar
+T130	ENFERMEDAD 5420 5491	lesión en la pared gástrica a nivel de la curvatura menor de 1,5 cm SUV
+T131	ENFERMEDAD 5664 5679	nódulo pulmonar
+T132	ENFERMEDAD 5681 5702	carcinoma epidermoide
+T133	ENFERMEDAD 5813 5830	adenopatía axilar
+T134	ENFERMEDAD 5875 5913	Carcinoma epidermoide de pulmón T1N0M0
+T135	ENFERMEDAD 5915 5941	adenocarcinoma de páncreas
+T136	ENFERMEDAD 5968 5981	bocio coloide
+T137	ENFERMEDAD 6379 6392	hemoperitoneo
+T138	ENFERMEDAD 6497 6587	adenocarcinoma ductal infiltrante moderadamente diferenciado de cuerpo y cola del páncreas
+T139	ENFERMEDAD 6624 6668	Metástasis en 1 de los 25 ganglios resecados
+T140	ENFERMEDAD 6670 6700	infiltración neural y vascular
+T141	ENFERMEDAD 6773 6794	diarrea de alto gasto
+T142	ENFERMEDAD 6850 6859	enteritis
+T143	ENFERMEDAD 7081 7121	carcinoma epidermoide de pulmón cT1cN0M0
+T144	ENFERMEDAD 7146 7183	adenocarcinoma de páncreas pT2pN1M0R1
+T145	ENFERMEDAD 7205 7220	nódulo pulmonar
+T146	ENFERMEDAD 7260 7286	adenocarcinoma de páncreas
+T147	ENFERMEDAD 7349 7368	carcinoma de pulmón
+T148	PACIENTE-PROFESION 1755 1766	comerciante
+T149	PACIENTE-SITUACION_LABORAL 1780 1787	en paro

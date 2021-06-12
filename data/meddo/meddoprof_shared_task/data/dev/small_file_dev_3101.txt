@@ -1,0 +1,6 @@
+
+Bien	O
+nutrido	O
+e	O
+hidratado	O
+.	O

@@ -1,0 +1,10 @@
+
+Parecía	O
+estar	O
+preocupado	O
+por	O
+sus	O
+experiencias	O
+de	O
+impotencia	O
+.	O

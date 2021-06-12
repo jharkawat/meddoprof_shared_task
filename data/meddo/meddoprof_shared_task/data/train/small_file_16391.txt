@@ -1,0 +1,11 @@
+
+Trombosis	O
+de	O
+la	O
+vena	O
+anastomótica	O
+superior	O
+o	O
+de	O
+Trolard	O
+.	O

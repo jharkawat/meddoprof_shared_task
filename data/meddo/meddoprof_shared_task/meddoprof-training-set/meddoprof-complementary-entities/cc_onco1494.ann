@@ -1,0 +1,129 @@
+T1	SINTOMA 83 92	exfumador
+T2	SINTOMA 571 579	falleció
+T3	SINTOMA 778 797	masa en fosa ilíaca
+T4	SINTOMA 844 893	dolor intenso en esa región irradiado a testículo
+T5	SINTOMA 896 905	febrícula
+T6	SINTOMA 930 943	estreñimiento
+T7	SINTOMA 949 956	náuseas
+T8	SINTOMA 960 967	vómitos
+T9	SINTOMA 1010 1017	astenia
+T10	SINTOMA 1021 1029	anorexia
+T11	SINTOMA 3956 4015	dolor derivado del crecimiento de la masa en la fosa ilíaca
+T12	SINTOMA 4057 4070	estreñimiento
+T13	SINTOMA 4103 4109	fiebre
+T14	SINTOMA 4270 4295	masa dependiente de sigma
+T15	SINTOMA 5050 5069	infiltrado pulmonar
+T16	SINTOMA 6076 6082	febril
+T17	SINTOMA 6527 6555	deterioro del estado general
+T18	SINTOMA 6568 6575	astenia
+T19	SINTOMA 6578 6586	anorexia
+T20	SINTOMA 6588 6610	estreñimiento pertinaz
+T21	SINTOMA 6613 6628	dolor abdominal
+T22	SINTOMA 6888 6901	fallecimiento
+T23	PROCEDIMIENTO 154 191	tratamiento con antidiabéticos orales
+T24	PROCEDIMIENTO 283 301	drenaje quirúrgico
+T25	PROCEDIMIENTO 439 462	tratamiento erradicador
+T26	PROCEDIMIENTO 1144 1153	Hemograma
+T27	PROCEDIMIENTO 1201 1219	TC abdominopélvica
+T28	PROCEDIMIENTO 2221 2236	Colecistectomía
+T29	PROCEDIMIENTO 2312 2349	Colonoscopia hasta ciego con sedación
+T30	PROCEDIMIENTO 2486 2494	biopsias
+T31	PROCEDIMIENTO 2921 2933	colonoscopia
+T32	PROCEDIMIENTO 2973 2989	biopsia hepática
+T33	PROCEDIMIENTO 4336 4364	sigmoidectomía tipo Hartmann
+T34	PROCEDIMIENTO 4722 4792	exéresis en bloque de la tumoración con las asas de yeyuno infiltradas
+T35	PROCEDIMIENTO 4794 4854	exéresis de parte de tumoración que infiltra orificio crural
+T36	PROCEDIMIENTO 4881 4932	exéresis parcial de la porción de vejiga infiltrada
+T37	PROCEDIMIENTO 5103 5118	tratamiento ATB
+T38	PROCEDIMIENTO 5434 5469	resección circunferencial del tumor
+T39	PROCEDIMIENTO 6046 6062	sondaje urinario
+T40	PROCEDIMIENTO 6142 6149	drenaje
+T41	PROCEDIMIENTO 6152 6172	ampliación de herida
+T42	PROCEDIMIENTO 6253 6282	tratamiento con quimioterapia
+T43	UNC 258 269	desconocida
+T44	USCO 270 301	que requirió drenaje quirúrgico
+T45	NEG 945 948	sin
+T46	NSCO 949 967	náuseas ni vómitos
+T47	NEG 1006 1009	sin
+T48	NSCO 1010 1029	astenia ni anorexia
+T49	NEG 1181 1184	sin
+T50	NSCO 1185 1197	alteraciones
+T51	NEG 1350 1352	no
+T52	NSCO 1353 1414	condiciona oclusión de la luz ni dilatación de colon proximal
+T53	UNC 1546 1554	Probable
+T54	USCO 1555 1603	infiltración de arteria ilíaca externa izquierda
+T55	NEG 2076 2087	Ausencia de
+T56	NSCO 2088 2094	cuerpo
+T57	NEG 2196 2199	sin
+T58	NSCO 2200 2219	dilatación ureteral
+T59	NEG 2720 2728	negativo
+T60	NEG 2814 2822	negativo
+T61	NSCO 2823 2853	para c-kit o un carcinosarcoma
+T62	NEG 2934 2936	no
+T63	NSCO 2937 2951	es concluyente
+T64	UNC 3164 3172	sugieren
+T65	USCO 3173 3215	un tumor fusocelular maligno de alto grado
+T66	UNC 3220 3228	probable
+T67	USCO 3229 3248	estirpe mesenquimal
+T68	NSCO 3378 3404	otros múltiples marcadores
+T69	NEG 3405 3414	negativos
+T70	UNC 3520 3528	sugieren
+T71	USCO 3529 3561	el diagnóstico de carcinosarcoma
+T72	UNC 4113 4121	probable
+T73	USCO 4122 4142	relación con la masa
+T74	UNC 5043 5049	dudoso
+T75	USCO 5050 5069	infiltrado pulmonar
+T76	NEG 5623 5626	sin
+T77	NSCO 5627 5642	alcanzar mucosa
+T78	NEG 5671 5674	sin
+T79	NSCO 5675 5695	infiltración tumoral
+T80	NEG 5773 5775	No
+T81	NSCO 5776 5792	se reconoce piel
+T82	FARMACO 47 56	metamizol
+T83	FARMACO 58 68	cefotaxima
+T84	FARMACO 71 81	cefoxitima
+T85	ORG_VIVO 10 15	Varón
+T86	ORG_VIVO 479 497	profesor de física
+T87	ORG_VIVO 538 548	familiares
+T88	ORG_VIVO 565 570	madre
+T89	ORG_VIVO 619 630	tío materno
+T90	ORG_VIVO 690 701	tío paterno
+T91	ORG_VIVO 756 764	paciente
+T92	ORG_VIVO 6773 6781	paciente
+T93	ORG_VIVO 6788 6798	familiares
+T94	ENFERMEDAD 36 56	alérgico a metamizol
+T95	ENFERMEDAD 83 92	exfumador
+T96	ENFERMEDAD 123 132	diabético
+T97	ENFERMEDAD 220 244	pancreatitis aguda grave
+T98	ENFERMEDAD 333 358	hemorragia digestiva alta
+T99	ENFERMEDAD 378 410	ulcus bulbar Helicobacter pylori
+T100	ENFERMEDAD 598 614	cáncer de pulmón
+T101	ENFERMEDAD 666 684	cáncer de próstata
+T102	ENFERMEDAD 705 720	cáncer de colon
+T103	ENFERMEDAD 930 943	estreñimiento
+T104	ENFERMEDAD 1555 1593	infiltración de arteria ilíaca externa
+T105	ENFERMEDAD 1615 1739	adenopatías perilesionales, mesentéricas, en cadenas ilíacas comunes y externas, inguinales y retroperitoneales paraaórticas
+T106	ENFERMEDAD 1757 1802	lesiones hepáticas hipodensas en segmento IVa
+T107	ENFERMEDAD 2004 2040	Nódulo subcutáneo en región inguinal
+T108	ENFERMEDAD 2050 2064	Esplenomegalia
+T109	ENFERMEDAD 2250 2277	Neoplasia de sigma T4-N2-M1
+T110	ENFERMEDAD 2289 2308	hipertensión portal
+T111	ENFERMEDAD 2839 2853	carcinosarcoma
+T112	ENFERMEDAD 3026 3041	lesión hepática
+T113	ENFERMEDAD 3053 3072	metástasis hepática
+T114	ENFERMEDAD 3077 3108	tumor fusocelular de alto grado
+T115	ENFERMEDAD 3176 3248	tumor fusocelular maligno de alto grado, de probable estirpe mesenquimal
+T116	ENFERMEDAD 3547 3561	carcinosarcoma
+T117	ENFERMEDAD 3668 3745	Carcinosarcoma de alto grado de sigma pT4 (vejiga, intestino delgado) pN0 cM1
+T118	ENFERMEDAD 3747 3767	metástasis hepáticas
+T119	ENFERMEDAD 3804 3839	adenopatías mesentéricas superiores
+T120	ENFERMEDAD 4216 4234	Tumores Digestivos
+T121	ENFERMEDAD 4521 4568	metástasis de gran tamaño en el lóbulo hepático
+T122	ENFERMEDAD 4591 4634	adenopatías a nivel de mesentérica superior
+T123	ENFERMEDAD 4648 4659	adenopatías
+T124	ENFERMEDAD 5221 5277	carcinosarcoma dependiente de sigma que ulcera la mucosa
+T125	ENFERMEDAD 5538 5575	implantes tumorales de carcinosarcoma
+T126	ENFERMEDAD 5757 5771	carcinosarcoma
+T127	ENFERMEDAD 5873 5933	infiltración de la capa muscular esxterna por carcinosarcoma
+T128	ENFERMEDAD 6099 6128	absceso de la pared abdominal
+T129	PACIENTE-PROFESION 479 513	profesor de física en un instituto

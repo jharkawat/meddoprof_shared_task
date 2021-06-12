@@ -1,0 +1,11 @@
+
+ECG	O
+:	O
+Trazado	O
+en	O
+ritmo	O
+sinusal	O
+a	O
+96	O
+lpm	O
+.	O

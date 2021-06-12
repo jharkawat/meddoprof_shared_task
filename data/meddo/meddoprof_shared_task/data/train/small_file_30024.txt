@@ -1,0 +1,6 @@
+
+No	O
+otras	O
+alteraciones	O
+significativas	O
+.	O

@@ -1,0 +1,12 @@
+
+De	O
+forma	O
+ambulatoria	O
+se	O
+procedió	O
+al	O
+estudio	O
+de	O
+inmunodeficiencias	O
+primarias	O
+.	O

@@ -1,0 +1,16 @@
+
+Un	O
+buen	O
+día	O
+empezó	O
+a	O
+decir	O
+que	O
+él	O
+era	O
+extraterrestre	O
+y	O
+sus	O
+padres	O
+también	O
+.	O

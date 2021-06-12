@@ -1,0 +1,27 @@
+
+Dada	O
+la	O
+evidente	O
+mejoría	O
+se	O
+decide	O
+alta	O
+a	O
+domicilio	O
+continuando	O
+antibioterapia	O
+empírica	O
+con	O
+cefixima	O
+400	O
+mg	O
+cada	O
+24h	O
+hasta	O
+completar	O
+los	O
+7	O
+días	O
+de	O
+tratamiento	O
+.	O

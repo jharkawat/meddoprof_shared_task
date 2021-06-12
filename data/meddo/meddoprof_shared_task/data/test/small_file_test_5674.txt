@@ -1,0 +1,24 @@
+
+Enfermedad	O
+de	O
+Castleman	O
+subtipo	O
+Hialino	O
+-	O
+vascular	O
+,	O
+multicéntrica	O
+con	O
+transformación	O
+linfomatosa	O
+a	O
+LNH	O
+B	O
+difuso	O
+de	O
+células	O
+grandes	O
+de	O
+alto	O
+grado	O
+.	O

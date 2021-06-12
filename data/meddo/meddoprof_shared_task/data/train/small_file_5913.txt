@@ -1,0 +1,16 @@
+
+En	O
+Urgencias	O
+no	O
+se	O
+había	O
+modificado	O
+la	O
+dosis	O
+de	O
+corticoides	O
+que	O
+recibía	O
+la	O
+paciente	O
+.	O

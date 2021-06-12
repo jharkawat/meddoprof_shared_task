@@ -1,0 +1,17 @@
+
+Califica	O
+su	O
+estado	O
+emocional	O
+durante	O
+todo	O
+el	O
+tiempo	O
+de	O
+ingesta	O
+como	O
+de	O
+"	O
+anestesiado	O
+"	O
+.	O

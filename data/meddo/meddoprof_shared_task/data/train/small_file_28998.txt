@@ -1,0 +1,6 @@
+
+EEG	O
+de	O
+vigilia	O
+normal	O
+.	O

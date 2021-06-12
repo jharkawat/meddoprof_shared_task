@@ -1,0 +1,18 @@
+
+El	O
+24	O
+de	O
+mayo	O
+se	O
+realiza	O
+cirugía	O
+descompresiva	O
+:	O
+artrodesis	O
+y	O
+descompresión	O
+y	O
+se	O
+coloca	O
+corset	O
+.	O

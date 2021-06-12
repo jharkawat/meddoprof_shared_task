@@ -1,0 +1,19 @@
+
+Se	O
+trata	O
+de	O
+un	O
+varón	O
+de	O
+45	O
+años	O
+,	O
+albañil	B-PROFESION
+y	O
+fumador	O
+de	O
+24	O
+cigarrillos	O
+/	O
+día	O
+.	O

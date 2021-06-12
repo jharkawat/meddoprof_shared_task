@@ -1,0 +1,27 @@
+
+Atomoxetina	O
+100	O
+mg	O
+/	O
+día	O
+,	O
+le	O
+proporcionaba	O
+una	O
+mejoría	O
+de	O
+la	O
+ansiedad	O
+y	O
+una	O
+mejoría	O
+parcial	O
+síntomas	O
+nucleares	O
+TDAH	O
+,	O
+pero	O
+inició	O
+síntomas	O
+paranoides	O
+.	O

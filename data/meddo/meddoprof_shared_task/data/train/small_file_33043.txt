@@ -1,0 +1,8 @@
+
+Discinesias	O
+incapacitantes	O
+de	O
+probable	O
+causa	O
+farmacológica	O
+.	O

@@ -1,0 +1,11 @@
+
+Acude	O
+acompañada	O
+a	O
+la	O
+puerta	O
+de	O
+urgencias	O
+del	O
+hospital	O
+.	O

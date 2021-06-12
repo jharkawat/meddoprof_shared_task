@@ -1,0 +1,22 @@
+
+Fue	O
+medicada	O
+con	O
+una	O
+mejora	O
+parcial	O
+del	O
+cuadro	O
+clínico	O
+descrito	O
+,	O
+oscilando	O
+en	O
+términos	O
+longitudinales	O
+entre	O
+períodos	O
+depresivos	O
+y	O
+subdepresivos	O
+.	O

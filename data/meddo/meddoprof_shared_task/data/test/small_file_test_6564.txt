@@ -1,0 +1,10 @@
+
+Actualmente	O
+jubilado	B-SITUACION_LABORAL
+,	O
+había	O
+trabajado	O
+previamente	O
+como	O
+administrativo	B-PROFESION
+.	O

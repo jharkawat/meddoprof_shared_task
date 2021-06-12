@@ -1,0 +1,4 @@
+
+Deportista	B-ACTIVIDAD
+amateur	O
+.	O

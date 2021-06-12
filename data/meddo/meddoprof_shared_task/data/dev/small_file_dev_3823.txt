@@ -1,0 +1,25 @@
+
+En	O
+casa	O
+,	O
+Susana	O
+es	O
+una	O
+persona	O
+agresiva	O
+,	O
+y	O
+muerde	O
+y	O
+pega	O
+a	O
+sus	O
+padres	O
+y	O
+a	O
+su	O
+hermano	O
+cuando	O
+se	O
+enfada	O
+.	O

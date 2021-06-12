@@ -1,0 +1,11 @@
+
+Trabajador	B-PROFESION
+de	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+,	O
+casado	O
+y	O
+sin	O
+hijos	O
+.	O

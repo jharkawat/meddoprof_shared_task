@@ -1,0 +1,11 @@
+
+Abdomen	O
+blando	O
+,	O
+depresible	O
+,	O
+sin	O
+hallazgos	O
+de	O
+interés	O
+.	O

@@ -1,0 +1,18 @@
+
+Estas	O
+células	O
+se	O
+disponen	O
+sueltas	O
+sin	O
+constituir	O
+grupos	O
+cohesivos	O
+,	O
+y	O
+presentan	O
+un	O
+elevado	O
+índice	O
+divisional	O
+.	O

@@ -1,0 +1,15 @@
+
+En	O
+esos	O
+momentos	O
+se	O
+disminuyó	O
+a	O
+4	O
+mg	O
+,	O
+por	O
+su	O
+buena	O
+estabilización	O
+.	O

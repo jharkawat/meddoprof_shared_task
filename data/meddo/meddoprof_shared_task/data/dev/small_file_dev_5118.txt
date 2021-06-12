@@ -1,0 +1,20 @@
+
+Trombosis	O
+completa	O
+del	O
+tronco	O
+braquiocefálico	O
+y	O
+venas	O
+yugular	O
+y	O
+subclavia	O
+izquierdas	O
+y	O
+parcial	O
+de	O
+la	O
+vena	O
+yugular	O
+derecha	O
+.	O

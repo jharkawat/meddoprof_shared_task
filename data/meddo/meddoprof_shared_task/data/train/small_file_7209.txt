@@ -1,0 +1,11 @@
+
+Tras	O
+el	O
+fracaso	O
+terapéutico	O
+deciden	O
+iniciar	O
+tratamiento	O
+con	O
+etanercept	O
+.	O

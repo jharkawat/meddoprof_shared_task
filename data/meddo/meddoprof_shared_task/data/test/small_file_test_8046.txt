@@ -1,0 +1,7 @@
+
+Engrosamiento	O
+pleural	O
+basal	O
+posterior	O
+izquierdo	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+se	O
+observan	O
+otras	O
+lesiones	O
+.	O

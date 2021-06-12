@@ -1,0 +1,9 @@
+
+Problema	O
+social	O
+,	O
+vive	O
+solo	O
+,	O
+desempleado	B-SITUACION_LABORAL
+.	O

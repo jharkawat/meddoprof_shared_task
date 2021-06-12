@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 343 361	Exploración física
+T2	PROCEDIMIENTO 955 962	biopsia
+T3	PROCEDIMIENTO 968 987	estudio histológico
+T4	PROCEDIMIENTO 1234 1314	estudio molecular del genoma del virus del papiloma humano (HPV) mediante PCR-RT
+T5	PROCEDIMIENTO 1404 1434	PET-TC tóraco-abdomino-pélvico
+T6	PROCEDIMIENTO 1595 1610	PAAF eco-guiada
+T7	PROCEDIMIENTO 1734 1752	penectomía parcial
+T8	PROCEDIMIENTO 1804 1836	radioterapia ganglionar inguinal
+T9	NEG 1870 1873	sin
+T10	NSCO 1874 1943	evidencia de recidiva local o a distancia 6 meses tras el tratamiento
+T11	ORG_VIVO 0 5	Varón
+T12	ORG_VIVO 33 51	médico de cabecera
+T13	ORG_VIVO 68 73	mujer
+T14	ORG_VIVO 96 103	cónyuge
+T15	ORG_VIVO 181 187	médico
+T16	ORG_VIVO 1267 1292	virus del papiloma humano
+T17	ORG_VIVO 1294 1297	HPV
+T18	ORG_VIVO 1336 1379	HPV de alto riesgo positivo por serotipo 16
+T19	ENFERMEDAD 251 271	condilomas genitales
+T20	ENFERMEDAD 807 829	adenopatías inguinales
+T21	ENFERMEDAD 1461 1483	adenopatías inguinales
+T22	ENFERMEDAD 1653 1680	Carcinoma verrugoso de pene
+T23	SANITARIO-PROFESION 181 187	médico
+T24	SANITARIO-PROFESION 33 51	médico de cabecera

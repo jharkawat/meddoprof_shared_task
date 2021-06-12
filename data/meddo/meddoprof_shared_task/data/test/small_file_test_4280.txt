@@ -1,0 +1,27 @@
+
+El	O
+día	O
+20	O
+de	O
+febrero	O
+de	O
+2012	O
+acude	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+por	O
+deterioro	O
+neurológico	O
+consistente	O
+en	O
+alteración	O
+del	O
+lenguaje	O
+y	O
+de	O
+la	O
+orientación	O
+temporoespacial	O
+.	O

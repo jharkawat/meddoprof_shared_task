@@ -1,0 +1,19 @@
+
+Sin	O
+embargo	O
+,	O
+en	O
+curso	O
+de	O
+tratamiento	O
+,	O
+presenta	O
+empeoramiento	O
+neurológico	O
+y	O
+se	O
+decide	O
+suspender	O
+el	O
+mismo	O
+.	O

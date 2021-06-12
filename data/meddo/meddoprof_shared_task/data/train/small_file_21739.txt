@@ -1,0 +1,25 @@
+
+De	O
+hecho	O
+,	O
+muchos	O
+días	O
+no	O
+llega	O
+a	O
+la	O
+primera	O
+hora	O
+de	O
+clase	O
+,	O
+lo	O
+que	O
+le	O
+ha	O
+ocasionado	O
+problemas	O
+con	O
+sus	O
+profesores	B-PROFESION
+.	O

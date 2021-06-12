@@ -1,0 +1,16 @@
+
+Al	O
+alta	O
+presentaba	O
+hábito	O
+intestinal	O
+con	O
+tendencia	O
+a	O
+la	O
+diarrea	O
+secundario	O
+a	O
+cirugía	O
+oncológica	O
+.	O

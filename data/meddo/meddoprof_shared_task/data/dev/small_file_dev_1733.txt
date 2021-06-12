@@ -1,0 +1,21 @@
+
+Trastorno	O
+esquizoafectivo	O
+,	O
+de	O
+predominio	O
+maniaco	O
+con	O
+síntomas	O
+psicóticos	O
+(	O
+CIE	O
+-	O
+10	O
+F	O
+.	O
+25	O
+.	O
+0	O
+)	O
+.	O

@@ -1,0 +1,15 @@
+
+En	O
+la	O
+nasofibroscopia	O
+se	O
+visualiza	O
+una	O
+masa	O
+en	O
+cavum	O
+que	O
+ocluye	O
+las	O
+coanas	O
+.	O

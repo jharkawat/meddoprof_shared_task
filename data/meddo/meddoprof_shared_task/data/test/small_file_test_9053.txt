@@ -1,0 +1,8 @@
+
+No	O
+comenta	O
+ningún	O
+otro	O
+síntoma	O
+acompañante	O
+.	O

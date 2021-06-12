@@ -1,0 +1,20 @@
+
+Es	O
+remitido	O
+al	O
+Servicio	O
+de	O
+Oncología	O
+Médica	O
+en	O
+septiembre	O
+de	O
+2008	O
+tras	O
+la	O
+aparición	O
+de	O
+nuevas	O
+lesiones	O
+hepáticas	O
+.	O

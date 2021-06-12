@@ -1,0 +1,4 @@
+
+Poco	O
+apetito	O
+.	O

@@ -1,0 +1,28 @@
+T1	SINTOMA 391 400	inquietud
+T2	SINTOMA 403 425	incontinencia urinaria
+T3	SINTOMA 427 439	Taquipsiquia
+T4	SINTOMA 638 651	alucinaciones
+T5	SINTOMA 1143 1150	delirio
+T6	PROCEDIMIENTO 782 793	RM cerebral
+T7	PROCEDIMIENTO 1089 1114	punción lumbar evacuadora
+T8	PROCEDIMIENTO 1217 1249	derivación ventrículo-peritoneal
+T9	NEG 626 631	Niega
+T10	NSCO 632 651	otras alucinaciones
+T11	FARMACO 922 933	risperidona
+T12	FARMACO 947 958	aripiprazol
+T13	FARMACO 1044 1055	risperidona
+T14	ORG_VIVO 27 35	paciente
+T15	ORG_VIVO 185 190	Mujer
+T16	ORG_VIVO 369 377	paciente
+T17	ENFERMEDAD 40 63	Esquizofrenia paranoide
+T18	ENFERMEDAD 171 183	hidrocefalia
+T19	ENFERMEDAD 253 284	descompensación psicopatológica
+T20	ENFERMEDAD 470 508	Ideación delirante grave multitemática
+T21	ENFERMEDAD 873 908	obstrucción del acueducto de Silvio
+T22	ENFERMEDAD 1180 1202	incontinencia urinaria
+T23	ENFERMEDAD 1382 1395	esquizofrenia
+T24	ENFERMEDAD 1422 1434	hidrocefalia
+T25	ENFERMEDAD 1533 1546	esquizofrenia
+T26	ENFERMEDAD 1549 1561	hidrocefalia
+T27	ENFERMEDAD 1575 1621	trastorno psicótico similar a la esquizofrenia
+T28	ENFERMEDAD 1639 1659	hidrocefalia crónica

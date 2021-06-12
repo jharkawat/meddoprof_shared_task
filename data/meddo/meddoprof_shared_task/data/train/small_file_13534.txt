@@ -1,0 +1,21 @@
+
+Se	O
+biopsió	O
+,	O
+siendo	O
+el	O
+diagnóstico	O
+Adenocarcinoma	O
+Escasamente	O
+Diferenciado	O
+y	O
+quedando	O
+pendiente	O
+de	O
+quimioterapia	O
+neoadyuvante	O
+con	O
+resección	O
+gástrica	O
+posterior	O
+.	O

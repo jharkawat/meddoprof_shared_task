@@ -1,0 +1,18 @@
+
+A	O
+nivel	O
+farmacológico	O
+,	O
+se	O
+disminuyó	O
+la	O
+dosis	O
+de	O
+clomipramina	O
+a	O
+75	O
+mg	O
+por	O
+efectos	O
+secundarios	O
+.	O

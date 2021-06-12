@@ -1,0 +1,22 @@
+
+La	O
+tomograña	O
+axial	O
+computada	O
+(	O
+TAC	O
+)	O
+de	O
+cerebro	O
+mostró	O
+lesiones	O
+hipodensas	O
+en	O
+la	O
+sustancia	O
+blanca	O
+en	O
+ambos	O
+hemisferios	O
+cerebrales	O
+.	O

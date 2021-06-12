@@ -1,0 +1,16 @@
+
+Los	O
+padres	O
+refieren	O
+que	O
+la	O
+niña	O
+presenta	O
+tendencia	O
+a	O
+la	O
+irritabilidad	O
+y	O
+al	O
+negativismo	O
+.	O

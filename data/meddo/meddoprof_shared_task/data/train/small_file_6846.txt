@@ -1,0 +1,13 @@
+
+No	O
+presentó	O
+hallazgos	O
+patológicos	O
+de	O
+interés	O
+en	O
+otros	O
+órganos	O
+o	O
+sistemas	O
+.	O

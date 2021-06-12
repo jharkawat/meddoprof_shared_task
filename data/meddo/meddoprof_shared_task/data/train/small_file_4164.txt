@@ -1,0 +1,10 @@
+
+Molestias	O
+al	O
+orinar	O
+de	O
+un	O
+mes	O
+de	O
+evolución	O
+.	O

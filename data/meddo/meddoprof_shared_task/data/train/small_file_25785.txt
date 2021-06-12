@@ -1,0 +1,15 @@
+
+Al	O
+alta	O
+el	O
+paciente	O
+se	O
+encontraba	O
+asintomático	O
+y	O
+con	O
+planes	O
+coherentes	O
+de	O
+futuro	O
+.	O

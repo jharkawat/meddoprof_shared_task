@@ -1,0 +1,21 @@
+
+Se	O
+pondrá	O
+en	O
+contacto	O
+a	O
+la	O
+paciente	O
+con	O
+la	O
+trabajadora	B-PROFESION
+social	I-PROFESION
+para	O
+la	O
+ley	O
+de	O
+dependencia	O
+de	O
+su	O
+padre	O
+.	O

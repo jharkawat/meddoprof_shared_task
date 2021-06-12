@@ -1,0 +1,22 @@
+
+Cuadro	O
+de	O
+neumonía	O
+hace	O
+3	O
+an	O
+̃	O
+os	O
+y	O
+otro	O
+hace	O
+30	O
+an	O
+̃	O
+os	O
+(	O
+ambos	O
+sin	O
+informe	O
+)	O
+.	O

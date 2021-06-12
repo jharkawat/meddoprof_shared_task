@@ -1,0 +1,81 @@
+T1	SINTOMA 147 154	astenia
+T2	SINTOMA 156 164	mialgias
+T3	SINTOMA 179 189	faringitis
+T4	SINTOMA 192 198	fiebre
+T5	SINTOMA 252 287	parestesias en manos, pies y labios
+T6	SINTOMA 297 305	disfonía
+T7	SINTOMA 319 327	disfagia
+T8	SINTOMA 465 491	disminución de la diuresis
+T9	SINTOMA 542 560	faringe hiperémica
+T10	SINTOMA 631 650	hiperbilirrubinemia
+T11	SINTOMA 758 771	plaquetopenia
+T12	SINTOMA 1343 1364	inyección conjuntival
+T13	SINTOMA 1825 1836	parestesias
+T14	SINTOMA 1896 1906	arreflexia
+T15	SINTOMA 1955 1961	disnea
+T16	SINTOMA 2591 2604	plaquetopenia
+T17	PROCEDIMIENTO 496 514	exploración física
+T18	PROCEDIMIENTO 870 879	ecografía
+T19	PROCEDIMIENTO 947 971	estudio pretransfusional
+T20	PROCEDIMIENTO 1504 1547	determinación de DNA de Leptospira en orina
+T21	PROCEDIMIENTO 1974 1984	intubación
+T22	PROCEDIMIENTO 1987 2007	ventilación mecánica
+T23	PROCEDIMIENTO 2042 2053	ventilación
+T24	PROCEDIMIENTO 2166 2169	EMG
+T25	PROCEDIMIENTO 2634 2648	punción lumbar
+T26	NEG 33 36	sin
+T27	NSCO 37 60	antecedentes de interés
+T28	NEG 1054 1057	sin
+T29	NSCO 1058 1075	anemia hemolítica
+T30	UNC 1103 1114	sospecha de
+T31	USCO 1115 1134	síndrome infeccioso
+T32	UNC 1377 1388	sospecha de
+T33	USCO 1389 1418	Síndrome de Weil cobra fuerza
+T34	NEG 1572 1580	negativa
+T35	UNC 1604 1617	probablemente
+T36	USCO 1618 1674	por haberse resuelto la fase septicémica (leptospirémica
+T37	UNC 2199 2214	compatibles con
+T38	USCO 2215 2288	el diagnóstico de polineuropatía/ polirradiculoneuropatía aguda sensitivo
+T39	NEG 2296 2299	sin
+T40	NSCO 2300 2326	signos de desmielinización
+T41	NEG 2544 2555	descartando
+T42	NSCO 2556 2566	esa opción
+T43	UNC 2649 2663	compatible con
+T44	USCO 2664 2678	Guillain-Barré
+T45	NEG 2815 2817	no
+T46	NSCO 2818 2857	implica necesariamente desmielinización
+T47	NEG 3072 3074	no
+T48	NSCO 3075 3090	desmielinizante
+T49	ORG_VIVO 15 20	varón
+T50	ORG_VIVO 63 83	trabajador del campo
+T51	ORG_VIVO 833 844	bacteriuria
+T52	ORG_VIVO 1182 1189	familia
+T53	ORG_VIVO 1214 1222	paciente
+T54	ORG_VIVO 1472 1482	Leptospira
+T55	ORG_VIVO 1528 1538	Leptospira
+T56	ORG_VIVO 3299 3307	paciente
+T57	ORG_VIVO 3349 3357	paciente
+T58	ENFERMEDAD 179 189	faringitis
+T59	ENFERMEDAD 610 629	fracaso renal agudo
+T60	ENFERMEDAD 631 650	hiperbilirrubinemia
+T61	ENFERMEDAD 758 782	plaquetopenia muy severa
+T62	ENFERMEDAD 906 920	esplenomegalia
+T63	ENFERMEDAD 1058 1075	anemia hemolítica
+T64	ENFERMEDAD 1115 1134	síndrome infeccioso
+T65	ENFERMEDAD 1139 1163	disfunción multiorgánica
+T66	ENFERMEDAD 1389 1405	Síndrome de Weil
+T67	ENFERMEDAD 1868 1891	parálisis total flácida
+T68	ENFERMEDAD 2098 2124	Síndrome de Guillain-Barré
+T69	ENFERMEDAD 2141 2150	infección
+T70	ENFERMEDAD 2233 2295	polineuropatía/ polirradiculoneuropatía aguda sensitivo-motora
+T71	ENFERMEDAD 2387 2401	polineuropatía
+T72	ENFERMEDAD 2591 2604	plaquetopenia
+T73	ENFERMEDAD 2664 2678	Guillain-Barré
+T74	ENFERMEDAD 2800 2814	Guillain-Barré
+T75	ENFERMEDAD 2896 2945	polineuropatía inflamatoria desmielinizante aguda
+T76	ENFERMEDAD 2985 2999	Guillain-Barré
+T77	ENFERMEDAD 3055 3090	daño es axonal y no desmielinizante
+T78	ENFERMEDAD 3165 3169	AMAN
+T79	ENFERMEDAD 3171 3213	neuropatía axonal motora aguda) y el AMSAN
+T80	ENFERMEDAD 3215 3255	neuropatía axonal sensitivo-motora aguda
+T81	PACIENTE-PROFESION 63 83	trabajador del campo

@@ -1,0 +1,24 @@
+
+Se	O
+había	O
+realizado	O
+amplio	O
+estudio	O
+,	O
+en	O
+los	O
+que	O
+destacan	O
+como	O
+hallazgos	O
+principales	O
+pancitopenia	O
+y	O
+esplenomegalia	O
+gigante	O
+,	O
+llegándose	O
+a	O
+indicar	O
+esplenectomía	O
+.	O

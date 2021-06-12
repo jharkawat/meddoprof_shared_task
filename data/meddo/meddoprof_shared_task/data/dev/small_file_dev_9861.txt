@@ -1,0 +1,13 @@
+
+Con	O
+una	O
+imagen	O
+podía	O
+expresar	O
+una	O
+frase	O
+completa	O
+en	O
+algunas	O
+ocasiones	O
+.	O

@@ -1,0 +1,14 @@
+
+Algunos	O
+de	O
+ellos	O
+sufrieron	O
+quemaduras	O
+al	O
+tratar	O
+de	O
+arrastrarla	O
+fuera	O
+del	O
+fuego	O
+.	O

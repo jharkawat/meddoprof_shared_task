@@ -1,0 +1,21 @@
+
+Animo	O
+oscilante	O
+,	O
+ansiedad	O
+basal	O
+elevada	O
+,	O
+con	O
+exacerbaciones	O
+anticipatoriamente	O
+en	O
+situaciones	O
+relacionadas	O
+a	O
+temas	O
+o	O
+áreas	O
+de	O
+salud	O
+.	O

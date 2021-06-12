@@ -1,0 +1,20 @@
+
+EEG	O
+de	O
+control	O
+(	O
+julio	O
+/	O
+2011	O
+)	O
+:	O
+leves	O
+signos	O
+lesivos	O
+focales	O
+en	O
+región	O
+temporal	O
+posterior	O
+derecha	O
+.	O

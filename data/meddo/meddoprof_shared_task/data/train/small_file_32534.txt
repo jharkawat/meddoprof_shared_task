@@ -1,0 +1,6 @@
+
+Juicio	O
+de	O
+realidad	O
+mermado	O
+.	O

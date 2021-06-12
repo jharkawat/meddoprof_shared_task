@@ -1,0 +1,10 @@
+
+El	O
+resto	O
+del	O
+estudio	O
+,	O
+sin	O
+hallazgos	O
+relevantes	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+otras	O
+zonas	O
+,	O
+esas	O
+mismas	O
+células	O
+grandes	O
+aparecían	O
+de	O
+manera	O
+aislada	O
+,	O
+con	O
+morfología	O
+lacunar	O
+y	O
+estaban	O
+rodeadas	O
+de	O
+linfocitos	O
+pequeños	O
+y	O
+abundantes	O
+eosinófilos	O
+.	O

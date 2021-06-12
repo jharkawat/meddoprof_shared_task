@@ -1,0 +1,12 @@
+
+Zonas	O
+de	O
+fibrosis	O
+hialina	O
+del	O
+estroma	O
+,	O
+con	O
+escasa	O
+necrosis	O
+.	O

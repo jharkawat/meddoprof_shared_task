@@ -1,0 +1,10 @@
+
+Procalcitonina	O
+y	O
+beta	O
+-	O
+2	O
+-	O
+microglobulina	O
+normal	O
+.	O

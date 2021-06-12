@@ -1,0 +1,105 @@
+T1	SINTOMA 44 62	dolor al amamantar
+T2	SINTOMA 396 423	Dolor continuo al amamantar
+T3	SINTOMA 527 538	galactorrea
+T4	SINTOMA 639 653	dolor punzante
+T5	SINTOMA 669 700	escozor profundo en los pezones
+T6	SINTOMA 817 834	ganancia ponderal
+T7	SINTOMA 1411 1425	normocoloreada
+T8	SINTOMA 1427 1435	eupneica
+T9	SINTOMA 1485 1500	corazón rítmico
+T10	SINTOMA 1530 1536	soplos
+T11	SINTOMA 1538 1567	murmullo vesicular conservado
+T12	SINTOMA 2677 2682	dolor
+T13	SINTOMA 3076 3081	dolor
+T14	SINTOMA 3204 3246	hipertrofia de la musculatura masticatoria
+T15	SINTOMA 4391 4406	dolor al agarre
+T16	SINTOMA 4411 4422	galactorrea
+T17	SINTOMA 4465 4507	hipertrofia de la musculatura masticatoria
+T18	PROCEDIMIENTO 446 463	lactancia materna
+T19	PROCEDIMIENTO 758 767	lactancia
+T20	PROCEDIMIENTO 1111 1128	lactancia materna
+T21	PROCEDIMIENTO 1303 1312	lactancia
+T22	PROCEDIMIENTO 1595 1621	Exploración mama izquierda
+T23	PROCEDIMIENTO 1853 1877	Exploración mama derecha
+T24	PROCEDIMIENTO 2046 2062	cultivo de leche
+T25	PROCEDIMIENTO 2473 2490	lactancia materna
+T26	PROCEDIMIENTO 3134 3164	exploración de la cavidad oral
+T27	PROCEDIMIENTO 3514 3528	antibioterapia
+T28	PROCEDIMIENTO 3535 3547	antibiograma
+T29	PROCEDIMIENTO 3905 3916	hidratación
+T30	PROCEDIMIENTO 4020 4034	rehabilitación
+T31	PROCEDIMIENTO 4039 4059	terapia miofuncional
+T32	NEG 152 155	sin
+T33	NSCO 156 210	antecedentes personales de interés, ni hábitos tóxicos
+T34	UNC 586 601	compatibles con
+T35	USCO 602 634	mastitis subaguda caracterizados
+T36	NEG 1170 1172	no
+T37	NSCO 1173 1246	sentirse apoyada por el personal sanitario que la ha atendido hasta ahora
+T38	NEG 1526 1529	sin
+T39	NSCO 1530 1536	soplos
+T40	NEG 1569 1572	sin
+T41	NSCO 1573 1593	ruidos sobreañadidos
+T42	NEG 1670 1673	sin
+T43	NSCO 1674 1698	signos de sobreinfección
+T44	NEG 1818 1820	No
+T45	NSCO 1821 1851	se palpan adenopatías axilares
+T46	NEG 1945 1948	sin
+T47	NSCO 1949 1973	signos de sobreinfección
+T48	NEG 1975 1977	No
+T49	NSCO 1978 2008	se palpan adenopatías axilares
+T50	UNC 2100 2111	sospecha de
+T51	USCO 2112 2131	mastitis subclínica
+T52	UNC 2927 2936	sospechar
+T53	USCO 2937 2984	una posible situación de sobreproducción láctea
+T54	NEG 3720 3722	no
+T55	NSCO 3723 3737	farmacológicas
+T56	NEG 4199 4201	no
+T57	NSCO 4202 4237	se repitieron episodios de mastitis
+T58	NEG 4343 4351	falta de
+T59	NSCO 4352 4359	vaciado
+T60	FARMACO 2212 2226	sulfametoxazol
+T61	FARMACO 2228 2237	oxacilina
+T62	FARMACO 2239 2251	clindamicina
+T63	FARMACO 3585 3597	cotrimoxazol
+T64	FARMACO 3599 3613	sulfametoxazol
+T65	FARMACO 3616 3627	trimetropim
+T66	FARMACO 3671 3681	ibuprofeno
+T67	ORG_VIVO 134 139	Mujer
+T68	ORG_VIVO 169 179	personales
+T69	ORG_VIVO 456 463	materna
+T70	ORG_VIVO 928 936	paciente
+T71	ORG_VIVO 1121 1128	materna
+T72	ORG_VIVO 1197 1215	personal sanitario
+T73	ORG_VIVO 2163 2189	Staphylococcus Epidermidis
+T74	ORG_VIVO 2262 2270	familiar
+T75	ORG_VIVO 2285 2290	Mujer
+T76	ORG_VIVO 2315 2321	pareja
+T77	ORG_VIVO 2324 2328	hija
+T78	ORG_VIVO 2343 2352	Psicóloga
+T79	ORG_VIVO 2408 2416	familiar
+T80	ORG_VIVO 2483 2490	materna
+T81	ORG_VIVO 2504 2511	matrona
+T82	ORG_VIVO 2897 2901	hija
+T83	ORG_VIVO 2908 2916	paciente
+T84	ORG_VIVO 3171 3175	hija
+T85	ORG_VIVO 3182 3190	paciente
+T86	ORG_VIVO 3777 3781	bebé
+T87	ORG_VIVO 4591 4598	materna
+T88	ENFERMEDAD 19 41	Mastitis de repetición
+T89	ENFERMEDAD 355 369	mastitis aguda
+T90	ENFERMEDAD 602 619	mastitis subaguda
+T91	ENFERMEDAD 1045 1067	mastitis de repetición
+T92	ENFERMEDAD 1684 1698	sobreinfección
+T93	ENFERMEDAD 1831 1851	adenopatías axilares
+T94	ENFERMEDAD 1959 1973	sobreinfección
+T95	ENFERMEDAD 1988 2008	adenopatías axilares
+T96	ENFERMEDAD 2112 2189	mastitis subclínica con los siguientes resultados: Staphylococcus Epidermidis
+T97	ENFERMEDAD 2577 2599	Mastitis aguda en mama
+T98	ENFERMEDAD 2611 2636	Mastitis subaguda en mama
+T99	ENFERMEDAD 2766 2791	mastitis aguda y subaguda
+T100	ENFERMEDAD 2962 2984	sobreproducción láctea
+T101	ENFERMEDAD 3204 3246	hipertrofia de la musculatura masticatoria
+T102	ENFERMEDAD 4229 4237	mastitis
+T103	SANITARIO-PROFESION 2343 2352	Psicóloga
+T104	SANITARIO-PROFESION 1197 1215	personal sanitario
+T105	SANITARIO-PROFESION 2504 2511	matrona

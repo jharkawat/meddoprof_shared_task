@@ -1,0 +1,21 @@
+
+La	O
+paciente	O
+es	O
+una	O
+persona	O
+muy	O
+aseada	O
+por	O
+sus	O
+cosas	O
+personales	O
+,	O
+viene	O
+con	O
+el	O
+labios	O
+pintados	O
+cada	O
+día	O
+.	O

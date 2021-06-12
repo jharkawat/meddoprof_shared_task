@@ -1,0 +1,9 @@
+
+Presento	O
+síntomas	O
+acompañantes	O
+como	O
+vómitos	O
+y	O
+nauseas	O
+.	O

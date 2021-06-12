@@ -1,0 +1,13 @@
+
+Procedente	O
+de	O
+Europa	O
+del	O
+Este	O
+,	O
+reside	O
+en	O
+España	O
+desde	O
+2001	O
+.	O

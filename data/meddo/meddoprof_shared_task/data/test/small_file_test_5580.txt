@@ -1,0 +1,14 @@
+
+Destaca	O
+como	O
+toxicidad	O
+náuseas	O
+grado	O
+1	O
+y	O
+alopecia	O
+,	O
+muy	O
+bien	O
+tolerada	O
+.	O

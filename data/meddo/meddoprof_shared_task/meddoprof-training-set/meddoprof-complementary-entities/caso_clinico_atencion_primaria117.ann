@@ -1,0 +1,56 @@
+T1	SINTOMA 244 264	erecciones dolorosas
+T2	SINTOMA 781 801	despertares precoces
+T3	SINTOMA 1031 1049	somnolencia diurna
+T4	PROCEDIMIENTO 853 868	benzodiacepinas
+T5	PROCEDIMIENTO 1216 1228	auscultación
+T6	PROCEDIMIENTO 1237 1255	electrocardiograma
+T7	PROCEDIMIENTO 1883 1908	ecografía doppler de pene
+T8	PROCEDIMIENTO 2078 2087	hemograma
+T9	PROCEDIMIENTO 2090 2096	frotis
+T10	PROCEDIMIENTO 2245 2260	polisomnografía
+T11	NEG 152 155	sin
+T12	NSCO 156 215	antecedentes personales de interés ni tratamientos crónicos
+T13	NEG 534 536	no
+T14	NSCO 537 575	mantiene una correcta higiene de sueño
+T15	NEG 777 780	sin
+T16	NSCO 781 801	despertares precoces
+T17	NEG 905 907	No
+T18	NSCO 908 941	suele dormir siestas entre semana
+T19	NEG 1019 1021	No
+T20	NSCO 1022 1049	presenta somnolencia diurna
+T21	NEG 1077 1079	no
+T22	NSCO 1080 1122	tiene repercusión clínica en la actualidad
+T23	NEG 1173 1175	No
+T24	NSCO 1176 1228	se aprecian hallazgos patológicos en la auscultación
+T25	NEG 1332 1334	No
+T26	NSCO 1335 1356	focalidad neurológica
+T27	NEG 1513 1515	no
+T28	NSCO 1516 1543	es habitual en las consulta
+T29	NEG 1582 1584	no
+T30	NSCO 1585 1627	tiene otros problemas de salud destacables
+T31	NEG 1915 1917	no
+T32	NSCO 1918 1939	destacan alteraciones
+T33	NEG 2034 2037	sin
+T34	NSCO 2038 2096	hallazgo de la misma tras el estudio de hemograma y frotis
+T35	NEG 2204 2206	no
+T36	NSCO 2207 2260	aprecia alteraciones en el estudio de polisomnografía
+T37	NEG 2267 2276	finalizar
+T38	NSCO 2277 2301	los estudios el paciente
+T39	UNC 2539 2547	posibles
+T40	USCO 2548 2601	efectos secundarios una disfunción eréctil permanente
+T41	NEG 2628 2630	no
+T42	NSCO 2631 2692	intervención son incluso peores que esta posible complicación
+T43	FARMACO 2449 2458	Baclofeno
+T44	ORG_VIVO 123 131	Paciente
+T45	ORG_VIVO 169 179	personales
+T46	ORG_VIVO 895 903	familiar
+T47	ORG_VIVO 1367 1375	familiar
+T48	ORG_VIVO 1405 1413	paciente
+T49	ORG_VIVO 1431 1439	familiar
+T50	ORG_VIVO 1454 1465	dependiente
+T51	ORG_VIVO 1819 1827	paciente
+T52	ORG_VIVO 2293 2301	paciente
+T53	ORG_VIVO 2507 2515	paciente
+T54	ENFERMEDAD 1693 1713	Priapismo idiopático
+T55	ENFERMEDAD 2572 2601	disfunción eréctil permanente
+T56	PACIENTE-PROFESION 1454 1484	dependiente en un supermercado

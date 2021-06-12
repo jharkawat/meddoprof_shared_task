@@ -1,0 +1,18 @@
+
+Sin	O
+enfermedades	O
+de	O
+interés	O
+,	O
+presenta	O
+alergia	O
+al	O
+polen	O
+durante	O
+la	O
+primavera	O
+en	O
+forma	O
+de	O
+rinoconjuntivitis	O
+.	O

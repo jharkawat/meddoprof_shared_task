@@ -1,0 +1,25 @@
+
+»	O
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+se	O
+evidenciaba	O
+una	O
+afectación	O
+intersticial	O
+bilateral	O
+con	O
+patrón	O
+reticulonodular	O
+compatible	O
+con	O
+infección	O
+pulmonar	O
+atípica	O
+como	O
+primera	O
+posibilidad	O
+.	O

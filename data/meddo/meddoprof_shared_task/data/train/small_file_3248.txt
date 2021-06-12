@@ -1,0 +1,15 @@
+
+Durante	O
+su	O
+ingreso	O
+en	O
+UCI	O
+,	O
+la	O
+paciente	O
+presentó	O
+fiebre	O
+y	O
+edemas	O
+generalizados	O
+.	O

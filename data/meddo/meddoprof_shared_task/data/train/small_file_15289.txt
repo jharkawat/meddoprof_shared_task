@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+evolucionó	O
+con	O
+dificultad	O
+respiratoria	O
+progresiva	O
+,	O
+por	O
+lo	O
+que	O
+requirió	O
+finalmente	O
+ventilación	O
+mecánica	O
+invasora	O
+,	O
+sin	O
+necesidad	O
+de	O
+parámetros	O
+ventilatorios	O
+altos	O
+.	O

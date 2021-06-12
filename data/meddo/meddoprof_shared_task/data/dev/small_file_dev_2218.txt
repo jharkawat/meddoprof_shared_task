@@ -1,0 +1,9 @@
+
+Antecedentes	O
+personales	O
+:	O
+gestante	O
+de	O
+24	O
+semanas	O
+.	O

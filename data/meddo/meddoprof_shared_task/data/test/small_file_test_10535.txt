@@ -1,0 +1,16 @@
+
+No	O
+toma	O
+otra	O
+medicación	O
+de	O
+forma	O
+crónica	O
+salvo	O
+paracetamol	O
+ocasional	O
+si	O
+precisa	O
+por	O
+dolor	O
+.	O

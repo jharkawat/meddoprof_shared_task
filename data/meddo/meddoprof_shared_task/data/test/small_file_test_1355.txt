@@ -1,0 +1,11 @@
+
+Fumó	O
+socialmente	O
+un	O
+par	O
+de	O
+años	O
+en	O
+su	O
+juventud	O
+.	O

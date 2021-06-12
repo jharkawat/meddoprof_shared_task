@@ -1,0 +1,20 @@
+
+A	O
+los	O
+15	O
+años	O
+,	O
+se	O
+le	O
+pidió	O
+que	O
+cambie	O
+de	O
+escuela	O
+porque	O
+había	O
+fracasado	O
+en	O
+las	O
+materias	O
+.	O

@@ -1,0 +1,24 @@
+
+Como	O
+medida	O
+farmacológica	O
+inicial	O
+,	O
+y	O
+de	O
+cara	O
+a	O
+descartar	O
+un	O
+origen	O
+funcional	O
+de	O
+la	O
+clínica	O
+,	O
+se	O
+retira	O
+el	O
+tratamiento	O
+antipsicótico	O
+.	O

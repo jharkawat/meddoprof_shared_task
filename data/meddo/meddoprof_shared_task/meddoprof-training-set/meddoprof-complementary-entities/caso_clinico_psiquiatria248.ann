@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 82 97	benzodiacepinas
+T2	PROCEDIMIENTO 524 539	benzodiacepinas
+T3	NEG 553 556	sin
+T4	NSCO 557 597	nuevos episodios de abuso de pregabalina
+T5	FARMACO 270 281	pregabalina
+T6	FARMACO 326 336	topiramato
+T7	FARMACO 542 549	cocaína
+T8	FARMACO 586 597	pregabalina
+T9	ORG_VIVO 26 31	varón
+T10	ORG_VIVO 100 108	cannabis
+T11	ORG_VIVO 502 510	paciente
+T12	ENFERMEDAD 64 108	abuso de cocaína, benzodiacepinas y cannabis
+T13	ENFERMEDAD 577 597	abuso de pregabalina

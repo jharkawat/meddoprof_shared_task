@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+fue	O
+diagnosticado	O
+de	O
+dermatitis	O
+alérgica	O
+de	O
+contacto	O
+profesional	O
+a	O
+resina	O
+epoxi	O
+y	O
+productos	O
+relacionados	O
+.	O

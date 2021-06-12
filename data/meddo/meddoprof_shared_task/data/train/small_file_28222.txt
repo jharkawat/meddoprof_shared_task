@@ -1,0 +1,22 @@
+
+Cesó	O
+en	O
+el	O
+consumo	O
+de	O
+alcohol	O
+y	O
+cocaína	O
+y	O
+la	O
+evolución	O
+del	O
+paciente	O
+ha	O
+sido	O
+buena	O
+dentro	O
+de	O
+sus	O
+posibilidades	O
+.	O

@@ -1,0 +1,16 @@
+
+Padre	O
+con	O
+posible	O
+Trastorno	O
+por	O
+déficit	O
+de	O
+atención	O
+con	O
+hiperactividad	O
+en	O
+la	O
+edad	O
+adulta	O
+.	O

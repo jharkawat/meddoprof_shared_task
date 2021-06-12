@@ -1,0 +1,26 @@
+
+Esta	O
+situación	O
+se	O
+suele	O
+dar	O
+cuando	O
+no	O
+tiene	O
+ninguna	O
+crisis	O
+,	O
+ya	O
+que	O
+cuando	O
+le	O
+da	O
+el	O
+brote	O
+,	O
+debe	O
+hacer	O
+caso	O
+al	O
+diablo	O
+.	O

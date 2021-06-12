@@ -1,0 +1,16 @@
+
+Resto	O
+,	O
+incluyendo	O
+química	O
+clínica	O
+,	O
+función	O
+hepática	O
+y	O
+estudio	O
+de	O
+coagulación	O
+:	O
+normal	O
+.	O

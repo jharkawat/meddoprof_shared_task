@@ -1,0 +1,19 @@
+
+Acudió	O
+al	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+,	O
+que	O
+le	O
+recetó	O
+levofloxacino	O
+10	O
+días	O
+con	O
+estabilización	O
+de	O
+la	O
+clínica	O
+.	O

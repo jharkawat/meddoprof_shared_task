@@ -1,0 +1,25 @@
+
+Hemograma	O
+con	O
+10	O
+.	O
+600	O
+leucocitos	O
+con	O
+75	O
+%	O
+de	O
+neutrófilos	O
+;	O
+resto	O
+de	O
+valores	O
+y	O
+coagulación	O
+con	O
+valores	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

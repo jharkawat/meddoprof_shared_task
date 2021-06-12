@@ -1,0 +1,27 @@
+
+El	O
+abordaje	O
+ambulatorio	O
+no	O
+consigue	O
+mantener	O
+un	O
+peso	O
+adecuado	O
+ni	O
+normalizar	O
+conductas	O
+,	O
+y	O
+a	O
+los	O
+16	O
+años	O
+ingresa	O
+por	O
+primera	O
+vez	O
+en	O
+la	O
+UTA	O
+.	O

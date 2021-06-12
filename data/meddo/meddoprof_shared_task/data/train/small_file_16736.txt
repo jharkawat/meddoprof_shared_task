@@ -1,0 +1,11 @@
+
+Tomografía	O
+computarizada	O
+craneal	O
+:	O
+lesión	O
+hipodensa	O
+crónica	O
+occipital	O
+derecha	O
+.	O

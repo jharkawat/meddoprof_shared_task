@@ -1,0 +1,21 @@
+
+Varón	O
+de	O
+41	O
+an	O
+̃	O
+os	O
+,	O
+con	O
+antecedentes	O
+de	O
+diabetes	O
+tipo	O
+2	O
+,	O
+miocardiopatía	O
+hipertrófica	O
+y	O
+FA	O
+anticoagulada	O
+.	O

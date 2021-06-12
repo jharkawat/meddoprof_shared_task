@@ -1,0 +1,13 @@
+
+Alcohol	O
+:	O
+Ocasionalmente	O
+toma	O
+um	O
+copo	O
+de	O
+vino	O
+com	O
+las	O
+comidas	O
+.	O

@@ -1,0 +1,10 @@
+
+La	O
+biopsia	O
+de	O
+las	O
+adenopatías	O
+retroperitoneales	O
+fue	O
+negativa	O
+.	O

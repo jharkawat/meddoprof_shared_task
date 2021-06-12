@@ -1,0 +1,18 @@
+
+No	O
+había	O
+presentado	O
+enfermedades	O
+importantes	O
+en	O
+la	O
+infancia	O
+,	O
+por	O
+lo	O
+que	O
+no	O
+tomaba	O
+tratamiento	O
+habitual	O
+.	O

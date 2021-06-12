@@ -1,0 +1,69 @@
+T1	SINTOMA 342 348	fiebre
+T2	SINTOMA 350 366	malestar general
+T3	SINTOMA 368 402	parestesias en el miembro inferior
+T4	SINTOMA 414 456	dolor en región lumbar irradiado al glúteo
+T5	SINTOMA 469 502	limitación funcional de la marcha
+T6	SINTOMA 525 530	dolor
+T7	SINTOMA 549 568	disminución de peso
+T8	SINTOMA 863 868	dolor
+T9	SINTOMA 990 1027	dolor se irradiaba a la región lumbar
+T10	SINTOMA 1032 1057	abdomen estaba distendido
+T11	SINTOMA 1062 1115	dolor a la palpación profunda en hemiabdomen inferior
+T12	SINTOMA 1784 1827	cambios inflamatorios en los músculos psoas
+T13	SINTOMA 2380 2406	elevación de la creatinina
+T14	SINTOMA 2755 2776	dolor a la compresión
+T15	SINTOMA 2934 2977	imágenes hiperintensas en T2 en ambos psoas
+T16	SINTOMA 3469 3481	dolor lumbar
+T17	PROCEDIMIENTO 238 261	hipoglicemiantes orales
+T18	PROCEDIMIENTO 746 759	examen físico
+T19	PROCEDIMIENTO 1073 1115	palpación profunda en hemiabdomen inferior
+T20	PROCEDIMIENTO 1191 1200	hemograma
+T21	PROCEDIMIENTO 1489 1540	ecografía de la articulación de la cadera izquierda
+T22	PROCEDIMIENTO 1659 1679	resonancia magnética
+T23	PROCEDIMIENTO 1947 1975	punción, con guía ecográfica
+T24	PROCEDIMIENTO 2527 2555	tratamiento con antibióticos
+T25	PROCEDIMIENTO 2877 2897	resonancia magnética
+T26	PROCEDIMIENTO 3123 3180	lumbotomía se abordó la cavidad retroperitoneal izquierda
+T27	PROCEDIMIENTO 3499 3522	tratamiento antibiótico
+T28	PROCEDIMIENTO 3617 3646	resonancia magnética de psoas
+T29	NEG 116 119	sin
+T30	NSCO 120 129	ocupación
+T31	NEG 1552 1554	no
+T32	NSCO 1555 1581	se halló efusión articular
+T33	UNC 2253 2264	sospecha de
+T34	USCO 2265 2285	que se trate de MRSA
+T35	NEG 2578 2589	remisión de
+T36	NSCO 2590 2602	los síntomas
+T37	NEG 3182 3184	no
+T38	NSCO 3185 3246	se evidenció signos de inflamación activa en el músculo psoas
+T39	NEG 3259 3261	no
+T40	NSCO 3262 3362	fue necesario realizar ningún procedimiento quirúrgico en esta zona ni en la cavidad retroperitoneal
+T41	NEG 3454 3456	no
+T42	NSCO 3457 3481	presentó el dolor lumbar
+T43	NEG 3483 3495	Se suspendió
+T44	NSCO 3496 3522	el tratamiento antibiótico
+T45	NEG 3577 3579	No
+T46	NSCO 3580 3646	se consideró necesario realizar otra resonancia magnética de psoas
+T47	FARMACO 2137 2149	eritromicina
+T48	FARMACO 2151 2163	clindamicina
+T49	FARMACO 2165 2176	rifampicina
+T50	FARMACO 2179 2189	cefalexina
+T51	FARMACO 2204 2213	oxacilina
+T52	FARMACO 2215 2225	penicilina
+T53	FARMACO 2228 2241	dicloxacilina
+T54	FARMACO 2315 2326	vancomicina
+T55	FARMACO 2432 2444	clindamicina
+T56	FARMACO 2458 2469	rifampicina
+T57	ORG_VIVO 1 15	Paciente varón
+T58	ORG_VIVO 774 782	paciente
+T59	ORG_VIVO 2077 2098	Staphylococcus aureus
+T60	ORG_VIVO 2281 2288	MRSA-AC
+T61	ORG_VIVO 2560 2568	paciente
+T62	ORG_VIVO 3442 3450	paciente
+T63	ENFERMEDAD 150 174	diabetes mellitus tipo 2
+T64	ENFERMEDAD 1611 1641	desgarro muscular en el glúteo
+T65	ENFERMEDAD 2035 2098	líquido purulento, en el cultivo se aisló Staphylococcus aureus
+T66	ENFERMEDAD 2281 2288	MRSA-AC
+T67	ENFERMEDAD 2984 3007	colección paravertebral
+T68	ENFERMEDAD 3381 3404	colección paravertebral
+T69	PACIENTE-SITUACION_LABORAL 116 129	sin ocupación

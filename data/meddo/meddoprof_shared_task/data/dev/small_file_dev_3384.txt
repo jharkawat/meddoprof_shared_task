@@ -1,0 +1,20 @@
+
+En	O
+este	O
+caso	O
+en	O
+particular	O
+pensamos	O
+que	O
+es	O
+un	O
+trastorno	O
+de	O
+angustia	O
+(	O
+pánico	O
+)	O
+,	O
+con	O
+agorafobia	O
+.	O

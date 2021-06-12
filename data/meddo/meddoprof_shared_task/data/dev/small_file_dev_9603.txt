@@ -1,0 +1,8 @@
+
+Escaso	O
+contacto	O
+ocular	O
+e	O
+inexpresividad	O
+facial	O
+.	O

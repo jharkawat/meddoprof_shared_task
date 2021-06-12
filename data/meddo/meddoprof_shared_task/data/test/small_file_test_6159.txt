@@ -1,0 +1,27 @@
+
+En	O
+el	O
+postoperatorio	O
+es	O
+necesario	O
+emplear	O
+vasoactivos	O
+a	O
+altas	O
+dosis	O
+para	O
+mantener	O
+la	O
+tensión	O
+arterial	O
+y	O
+mantenerla	O
+intubada	O
+hasta	O
+las	O
+48	O
+horas	O
+de	O
+la	O
+intervención	O
+.	O

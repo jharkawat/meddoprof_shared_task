@@ -1,0 +1,27 @@
+
+Con	O
+el	O
+diagnóstico	O
+de	O
+adenocarcinoma	O
+de	O
+recto	O
+-	O
+sigma	O
+,	O
+estadio	O
+IV	O
+,	O
+Kras	O
+nativo	O
+es	O
+derivado	O
+a	O
+Oncología	O
+para	O
+valorar	O
+quimioterapia	O
+con	O
+intención	O
+neoadyuvante	O
+.	O

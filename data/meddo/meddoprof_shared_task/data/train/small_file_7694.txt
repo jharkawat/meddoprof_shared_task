@@ -1,0 +1,8 @@
+
+Antecedentes	O
+,	O
+enfermedad	O
+actual	O
+y	O
+exploración	O
+física	O

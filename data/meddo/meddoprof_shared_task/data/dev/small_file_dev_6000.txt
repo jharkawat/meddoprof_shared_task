@@ -1,0 +1,5 @@
+
+Adenocarcinoma	O
+de	O
+uraco	O
+.	O

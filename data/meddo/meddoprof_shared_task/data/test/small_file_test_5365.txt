@@ -1,0 +1,17 @@
+
+Además	O
+,	O
+se	O
+solicitaron	O
+anticuerpos	O
+p	O
+-	O
+ANCA	O
+y	O
+c	O
+-	O
+ANCA	O
+que	O
+fueron	O
+negativos	O
+.	O

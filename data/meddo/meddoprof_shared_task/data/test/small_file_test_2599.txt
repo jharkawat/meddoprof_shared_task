@@ -1,0 +1,27 @@
+
+-	O
+Para	O
+obtener	O
+confirmación	O
+anatomopatológica	O
+del	O
+diagnóstico	O
+,	O
+se	O
+realiza	O
+una	O
+PAAF	O
+de	O
+la	O
+masa	O
+pulmonar	O
+con	O
+citología	O
+positiva	O
+para	O
+células	O
+malignas	O
+sugestiva	O
+de	O
+carcinoma	O
+.	O

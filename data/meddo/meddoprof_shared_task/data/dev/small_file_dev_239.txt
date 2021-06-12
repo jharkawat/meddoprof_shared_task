@@ -1,0 +1,9 @@
+
+TC	O
+craneal	O
+:	O
+atrofia	O
+de	O
+predominio	O
+subcortical	O
+.	O

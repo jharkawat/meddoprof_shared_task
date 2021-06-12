@@ -1,0 +1,5 @@
+
+Estenosis	O
+aórtica	O
+severa	O
+.	O

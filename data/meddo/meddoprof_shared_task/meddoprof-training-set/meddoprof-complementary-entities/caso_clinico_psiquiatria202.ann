@@ -1,0 +1,46 @@
+T1	SINTOMA 950 958	tristeza
+T2	SINTOMA 980 986	apatía
+T3	SINTOMA 988 996	ansiedad
+T4	SINTOMA 1034 1072	disminución importante del autocuidado
+T5	SINTOMA 1571 1580	inquietud
+T6	SINTOMA 1764 1772	tristeza
+T7	SINTOMA 1907 1923	ganancia de peso
+T8	SINTOMA 1994 2003	inquietud
+T9	SINTOMA 2006 2017	nerviosismo
+T10	SINTOMA 2488 2496	angustia
+T11	PROCEDIMIENTO 840 864	tratamiento neuroléptico
+T12	PROCEDIMIENTO 1310 1321	TAC craneal
+T13	NEG 226 235	descartan
+T14	NSCO 236 254	patología orgánica
+T15	UNC 353 367	compatible con
+T16	USCO 368 402	anorexia nerviosa tipo restrictivo
+T17	NEG 434 437	sin
+T18	NSCO 438 463	tratamiento farmacológico
+T19	NEG 506 508	No
+T20	NSCO 509 563	presenta rasgos de personalidad desadaptados aparentes
+T21	NEG 1852 1854	no
+T22	NSCO 1855 1882	se obtuvo remisión completa
+T23	NEG 2066 2068	No
+T24	NEG 2268 2270	no
+T25	NSCO 2271 2279	lo notan
+T26	NEG 2287 2289	no
+T27	NSCO 2290 2312	se fijan tanto como él
+T28	NEG 2476 2478	no
+T29	NSCO 2479 2523	presenta angustia ni piensa tanto en la idea
+T30	FARMACO 793 803	fluoxetina
+T31	FARMACO 869 880	perfenazina
+T32	FARMACO 1369 1379	fluoxetina
+T33	FARMACO 1459 1469	olanzapina
+T34	FARMACO 1692 1702	olanzapina
+T35	FARMACO 1938 1948	olanzapina
+T36	FARMACO 1953 1961	pimozide
+T37	FARMACO 2054 2064	olanzapina
+T38	ORG_VIVO 0 5	Varón
+T39	ORG_VIVO 581 589	infancia
+T40	ORG_VIVO 2197 2205	infancia
+T41	ENFERMEDAD 368 402	anorexia nerviosa tipo restrictivo
+T42	ENFERMEDAD 988 996	ansiedad
+T43	ENFERMEDAD 1412 1430	síndrome depresivo
+T44	ENFERMEDAD 1560 1568	ansiedad
+T45	ENFERMEDAD 1640 1661	ideas sobre su cadera
+T46	ENFERMEDAD 1788 1796	ansiedad

@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+inició	O
+tratamiento	O
+de	O
+quimioterapia	O
+con	O
+R	O
+-	O
+CHOP	O
+21	O
+(	O
+6	O
+ciclos	O
+)	O
+.	O

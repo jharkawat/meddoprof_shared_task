@@ -1,0 +1,16 @@
+
+Se	O
+descartó	O
+asimismo	O
+una	O
+enfermedad	O
+inflamatoria	O
+intestinal	O
+por	O
+histología	O
+no	O
+compatible	O
+con	O
+dicha	O
+patología	O
+.	O

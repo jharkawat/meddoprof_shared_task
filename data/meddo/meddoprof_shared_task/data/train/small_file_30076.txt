@@ -1,0 +1,27 @@
+
+Antecedentes	O
+médicos	O
+:	O
+obesidad	O
+,	O
+hipertrigliceridemia	O
+sin	O
+tratamiento	O
+farmacológico	O
+,	O
+HTA	O
+controlada	O
+sin	O
+tratamiento	O
+farmacológico	O
+,	O
+síndrome	O
+de	O
+apnea	O
+del	O
+sueño	O
+en	O
+la	O
+actualidad	O
+estabilizado	O
+.	O

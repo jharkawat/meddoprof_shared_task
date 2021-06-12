@@ -1,0 +1,19 @@
+
+Informada	O
+por	O
+todo	O
+ello	O
+de	O
+manera	O
+global	O
+como	O
+ecocardiografía	O
+sugestiva	O
+de	O
+miocardiopatía	O
+dilatada	O
+y	O
+disfunción	O
+sistólica	O
+severa	O
+.	O

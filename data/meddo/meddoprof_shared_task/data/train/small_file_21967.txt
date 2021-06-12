@@ -1,0 +1,11 @@
+
+No	O
+tiene	O
+preferencias	O
+especiales	O
+por	O
+algún	O
+alimento	O
+en	O
+particular	O
+.	O

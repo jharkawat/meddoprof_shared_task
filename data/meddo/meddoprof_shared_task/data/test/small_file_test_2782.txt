@@ -1,0 +1,5 @@
+
+No	O
+adenopatías	O
+cervicales	O
+.	O

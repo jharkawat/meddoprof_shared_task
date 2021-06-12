@@ -1,0 +1,4 @@
+
+Bebedor	O
+leve	O
+.	O

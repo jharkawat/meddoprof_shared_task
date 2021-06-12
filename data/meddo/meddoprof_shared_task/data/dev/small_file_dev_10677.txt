@@ -1,0 +1,25 @@
+
+El	O
+médico	B-PROFESION
+le	O
+solicita	O
+un	O
+análisis	O
+con	O
+PSA	O
+,	O
+una	O
+ecografía	O
+y	O
+,	O
+después	O
+de	O
+solicitarle	O
+verbalmente	O
+su	O
+consentimiento	O
+,	O
+un	O
+tacto	O
+rectal	O
+.	O

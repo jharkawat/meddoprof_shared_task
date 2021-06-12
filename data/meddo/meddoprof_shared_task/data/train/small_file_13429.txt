@@ -1,0 +1,20 @@
+
+Refería	O
+antecedentes	O
+familiares	O
+de	O
+hipotiroidismo	O
+autoinmune	O
+y	O
+como	O
+antecedentes	O
+personales	O
+,	O
+epilepsia	O
+focal	O
+sintomática	O
+de	O
+probable	O
+origen	O
+autoinmune	O
+.	O

@@ -1,0 +1,25 @@
+
+Reconoce	O
+que	O
+tanto	O
+los	O
+síntomas	O
+como	O
+su	O
+manera	O
+de	O
+evitarlos	O
+son	O
+poco	O
+razonables	O
+y	O
+excesivos	O
+pero	O
+de	O
+todas	O
+maneras	O
+han	O
+dominado	O
+su	O
+vida	O
+.	O

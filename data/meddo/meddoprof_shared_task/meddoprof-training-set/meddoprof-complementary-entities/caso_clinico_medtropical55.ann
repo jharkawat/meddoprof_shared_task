@@ -1,0 +1,56 @@
+T1	SINTOMA 409 425	malestar general
+T2	SINTOMA 1286 1301	Abdomen globoso
+T3	SINTOMA 1373 1417	dolor a la palpación superficial ni profunda
+T4	SINTOMA 2773 2785	asintomático
+T5	PROCEDIMIENTO 490 509	antibióticos orales
+T6	PROCEDIMIENTO 512 525	curas tópicas
+T7	PROCEDIMIENTO 933 946	Examen físico
+T8	PROCEDIMIENTO 2070 2095	Evaluación cardiovascular
+T9	PROCEDIMIENTO 2098 2118	electrocardiográfica
+T10	PROCEDIMIENTO 2223 2244	prueba de leishmanina
+T11	NEG 133 136	sin
+T12	NSCO 137 155	tratamiento médico
+T13	NEG 207 209	no
+T14	NSCO 210 246	dolorosa en la región lumbar derecha
+T15	NEG 526 529	sin
+T16	NSCO 530 537	mejoría
+T17	UNC 960 969	aparentes
+T18	USCO 970 998	buenas condiciones generales
+T19	NEG 1261 1264	sin
+T20	NSCO 1265 1284	anomalías evidentes
+T21	NEG 1334 1336	no
+T22	NSCO 1337 1417	se palparon visceromegalias ni hubo dolor a la palpación superficial ni profunda
+T23	NEG 1615 1617	no
+T24	NSCO 1618 1635	dolorosa al tacto
+T25	NEG 2119 2122	sin
+T26	NSCO 2123 2174	alteraciones evidentes de enfermedad cardiovascular
+T27	NEG 2560 2563	sin
+T28	NSCO 2564 2591	evidencias de cicatrización
+T29	NEG 2773 2785	asintomático
+T30	FARMACO 1778 1789	cefadroxilo
+T31	FARMACO 2451 2460	meglumina
+T32	FARMACO 2639 2663	antimoniato de meglumina
+T33	ORG_VIVO 0 18	Paciente masculino
+T34	ORG_VIVO 39 49	agricultor
+T35	ORG_VIVO 629 639	personales
+T36	ORG_VIVO 641 684	Jornalero (obrero) en actividades agrícolas
+T37	ORG_VIVO 697 706	legumbres
+T38	ORG_VIVO 948 956	paciente
+T39	ORG_VIVO 1916 1927	amastigotes
+T40	ORG_VIVO 2233 2244	leishmanina
+T41	ORG_VIVO 2290 2304	antileishmania
+T42	ORG_VIVO 2362 2397	amastigotes de parásito leishmánico
+T43	ORG_VIVO 2498 2506	paciente
+T44	ORG_VIVO 2753 2761	paciente
+T45	ENFERMEDAD 191 238	ulcera pequeña, no dolorosa en la región lumbar
+T46	ENFERMEDAD 1000 1019	cifosis dorsolumbar
+T47	ENFERMEDAD 1190 1200	escoliosis
+T48	ENFERMEDAD 1316 1332	hernia umbilical
+T49	ENFERMEDAD 1425 1471	lesión ulcerosa de 22 x 40 cm en región lumbar
+T50	ENFERMEDAD 1680 1698	lesiones ulcerosas
+T51	ENFERMEDAD 2149 2174	enfermedad cardiovascular
+T52	PACIENTE-PROFESION 39 49	agricultor
+T53	PACIENTE-SITUACION_LABORAL 778 789	desempleado
+T54	PACIENTE-PROFESION 641 650	Jornalero
+T55	PACIENTE-PROFESION 651 684	(obrero) en actividades agrícolas
+T56	PACIENTE-SITUACION_LABORAL 792 820	en condiciones de indigencia

@@ -1,0 +1,25 @@
+
+Presenta	O
+lesiones	O
+petequiales	O
+,	O
+confluentes	O
+,	O
+formando	O
+áreas	O
+de	O
+púrpura	O
+palpable	O
+en	O
+miembros	O
+inferiores	O
+,	O
+axilas	O
+,	O
+codos	O
+y	O
+flexura	O
+de	O
+los	O
+codos	O
+.	O

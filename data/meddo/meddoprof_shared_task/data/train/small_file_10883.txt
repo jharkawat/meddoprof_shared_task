@@ -1,0 +1,12 @@
+
+Hipertensión	O
+arterial	O
+que	O
+trata	O
+con	O
+Telmisartán	O
+80	O
+mg	O
+/	O
+día	O
+.	O

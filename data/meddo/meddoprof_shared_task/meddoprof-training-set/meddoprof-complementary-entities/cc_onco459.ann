@@ -1,0 +1,161 @@
+T1	SINTOMA 2462 2474	asintomático
+T2	SINTOMA 2959 2977	nódulos pulmonares
+T3	SINTOMA 3718 3734	malestar general
+T4	SINTOMA 3739 3747	mialgias
+T5	SINTOMA 4017 4025	disfagia
+T6	SINTOMA 5474 5489	dolor abdominal
+T7	SINTOMA 5571 5611	dolor irradiaba hacia ambos hipocondrios
+T8	SINTOMA 5697 5725	dolor empeora con la ingesta
+T9	SINTOMA 5733 5740	náuseas
+T10	SINTOMA 5776 5782	vómito
+T11	SINTOMA 5799 5804	dolor
+T12	SINTOMA 5806 5814	Anorexia
+T13	SINTOMA 5830 5863	alteración del ritmo deposicional
+T14	SINTOMA 5871 5877	fiebre
+T15	SINTOMA 5880 5900	sensación distérmica
+T16	SINTOMA 5948 5973	hemodinámicamente estable
+T17	SINTOMA 5998 6003	dolor
+T18	SINTOMA 6040 6113	abdomen blando y depresible, doloroso durante la palpación de mesogastrio
+T19	SINTOMA 6132 6143	peritonismo
+T20	SINTOMA 6167 6182	visceromegalias
+T21	SINTOMA 7543 7548	dolor
+T22	PROCEDIMIENTO 598 618	radiografía de tórax
+T23	PROCEDIMIENTO 688 690	TC
+T24	PROCEDIMIENTO 735 753	TC toracoabdominal
+T25	PROCEDIMIENTO 1590 1597	biopsia
+T26	PROCEDIMIENTO 1818 1820	TC
+T27	PROCEDIMIENTO 2060 2089	nefrectomía radical izquierda
+T28	PROCEDIMIENTO 2094 2131	metastasectomía suprarrenal izquierda
+T29	PROCEDIMIENTO 2549 2567	TC toracoabdominal
+T30	PROCEDIMIENTO 3247 3249	TC
+T31	PROCEDIMIENTO 4186 4201	electromiograma
+T32	PROCEDIMIENTO 4207 4231	estudio de autoinmunidad
+T33	PROCEDIMIENTO 4451 4478	tratamiento con corticoides
+T34	PROCEDIMIENTO 4925 4971	tratamiento con corticoides e inmunoglobulinas
+T35	PROCEDIMIENTO 5903 5921	Exploración física
+T36	PROCEDIMIENTO 6008 6029	exploración abdominal
+T37	PROCEDIMIENTO 6234 6252	exploración física
+T38	PROCEDIMIENTO 6534 6546	TC abdominal
+T39	PROCEDIMIENTO 6891 6915	estudio de autoinmunidad
+T40	PROCEDIMIENTO 7339 7351	sueroterapia
+T41	PROCEDIMIENTO 7354 7363	analgesia
+T42	NEG 145 147	No
+T43	NSCO 148 188	tiene antecedentes familiares de interés
+T44	NEG 190 193	Sin
+T45	NSCO 194 246	alergias medicamentosas conocidas ni hábitos tóxicos
+T46	NEG 349 351	No
+T47	NSCO 352 429	tiene factores de riesgo cardiovascular (FRCV) ni cardioneumopatías conocidas
+T48	NEG 431 433	No
+T49	NSCO 434 471	toma ningún fármaco de manera regular
+T50	NEG 1155 1157	no
+T51	NSCO 1158 1189	condiciona uropatía obstructiva
+T52	UNC 1285 1300	compatibles con
+T53	USCO 1301 1354	una neoplasia renal izquierda primaria con metástasis
+T54	NEG 1488 1500	asintomático
+T55	NEG 1503 1506	sin
+T56	NSCO 1507 1531	síndrome tóxico asociado
+T57	UNC 1696 1702	claras
+T58	USCO 1703 1719	grado de Fuhrman
+T59	NEG 2161 2164	sin
+T60	NSCO 2165 2176	incidencias
+T61	UNC 2252 2258	claras
+T62	USCO 2259 2283	bifocal grado nuclear II
+T63	NEG 2295 2298	sin
+T64	NSCO 2299 2358	evidencia de compromiso de estructuras vasculares del hilio
+T65	NEG 2462 2474	asintomático
+T66	NEG 2939 2954	desaparición de
+T67	NSCO 2955 2977	los nódulos pulmonares
+T68	NEG 3210 3213	sin
+T69	NSCO 3214 3242	toxicidad limitante de dosis
+T70	UNC 4115 4126	sospecha de
+T71	USCO 4127 4143	miastenia gravis
+T72	NEG 4243 4252	negativos
+T73	NEG 4261 4263	no
+T74	NSCO 4264 4303	se llegaron a solicitar los anticuerpos
+T75	NEG 4518 4521	sin
+T76	NSCO 4522 4583	llegar a requerir ingreso en la Unidad de Cuidados Intensivos
+T77	NEG 5067 5078	ausencia de
+T78	NSCO 5079 5101	progresión radiológica
+T79	NEG 5727 5732	Niega
+T80	NSCO 5733 5740	náuseas
+T81	NEG 5819 5821	No
+T82	NSCO 5822 5863	refiere alteración del ritmo deposicional
+T83	NEG 5865 5870	Niega
+T84	NSCO 5871 5900	fiebre o sensación distérmica
+T85	NEG 6115 6117	No
+T86	NSCO 6118 6143	hay signos de peritonismo
+T87	NEG 6145 6147	No
+T88	NSCO 6148 6182	se palpan masas ni visceromegalias
+T89	UNC 6585 6598	sugestivos de
+T90	USCO 6599 6640	pancreatitis aguda edematosa intersticial
+T91	NEG 6746 6755	descartan
+T92	NSCO 6756 6797	las causas más habituales de pancreatitis
+T93	NEG 6924 6932	negativo
+T94	NEG 7406 7417	Se suspende
+T95	NSCO 7418 7430	cabozantinib
+T96	NEG 7523 7526	sin
+T97	NSCO 7527 7538	incidencias
+T98	NEG 7572 7579	retirar
+T99	NSCO 7580 7590	la morfina
+T100	NEG 7719 7731	asintomático
+T101	UNC 7756 7764	probable
+T102	USCO 7765 7793	efecto secundario al fármaco
+T103	FARMACO 1769 1778	sunitinib
+T104	FARMACO 2739 2748	sunitinib
+T105	FARMACO 2787 2796	sunitinib
+T106	FARMACO 3074 3083	sunitinib
+T107	FARMACO 5364 5376	cabozantinib
+T108	FARMACO 6496 6503	morfina
+T109	FARMACO 7386 7393	morfina
+T110	FARMACO 7418 7430	cabozantinib
+T111	FARMACO 7583 7590	morfina
+T112	ORG_VIVO 25 39	paciente varón
+T113	ORG_VIVO 72 77	mujer
+T114	ORG_VIVO 90 95	hijos
+T115	ORG_VIVO 135 143	mecánico
+T116	ORG_VIVO 167 177	familiares
+T117	ORG_VIVO 305 313	juventud
+T118	ORG_VIVO 1466 1474	paciente
+T119	ORG_VIVO 2444 2452	paciente
+T120	ORG_VIVO 2699 2707	oncólogo
+T121	ORG_VIVO 3701 3709	paciente
+T122	ORG_VIVO 3937 3945	paciente
+T123	ORG_VIVO 4318 4326	paciente
+T124	ORG_VIVO 4817 4825	paciente
+T125	ORG_VIVO 5138 5146	paciente
+T126	ORG_VIVO 7446 7454	paciente
+T127	ORG_VIVO 7684 7692	paciente
+T128	ENFERMEDAD 318 347	rotura de ligamentos cruzados
+T129	ENFERMEDAD 393 397	FRCV
+T130	ENFERMEDAD 559 581	infección respiratoria
+T131	ENFERMEDAD 779 809	nódulos pulmonares bilaterales
+T132	ENFERMEDAD 902 923	obstrucción bronquial
+T133	ENFERMEDAD 942 962	adenopatías hiliares
+T134	ENFERMEDAD 983 1005	ganglios mediastínicos
+T135	ENFERMEDAD 1169 1189	uropatía obstructiva
+T136	ENFERMEDAD 1217 1235	lesión suprarrenal
+T137	ENFERMEDAD 1305 1320	neoplasia renal
+T138	ENFERMEDAD 1344 1386	metástasis (M1) pulmonares y suprarrenales
+T139	ENFERMEDAD 1507 1522	síndrome tóxico
+T140	ENFERMEDAD 1669 1702	carcinoma renal de células claras
+T141	ENFERMEDAD 1898 1919	lesión primaria renal
+T142	ENFERMEDAD 1939 1985	lesiones metastásicas pulmonares y suprarrenal
+T143	ENFERMEDAD 2225 2283	carcinoma renal de células claras bifocal grado nuclear II
+T144	ENFERMEDAD 2647 2672	adenopatías mediastínicas
+T145	ENFERMEDAD 2959 2977	nódulos pulmonares
+T146	ENFERMEDAD 2980 3005	adenopatías mediastínicas
+T147	ENFERMEDAD 3122 3139	síndrome mano-pie
+T148	ENFERMEDAD 3144 3172	mucositis en el área genital
+T149	ENFERMEDAD 3328 3373	adenopatías hiliares derechas y mediastínicas
+T150	ENFERMEDAD 3988 4004	ptosis palpebral
+T151	ENFERMEDAD 4127 4143	miastenia gravis
+T152	ENFERMEDAD 4679 4698	miastenia gravis G4
+T153	ENFERMEDAD 4746 4754	miositis
+T154	ENFERMEDAD 4760 4769	hepatitis
+T155	ENFERMEDAD 5263 5300	progresión tumoral radiológica franca
+T156	ENFERMEDAD 6599 6640	pancreatitis aguda edematosa intersticial
+T157	ENFERMEDAD 6785 6797	pancreatitis
+T158	ENFERMEDAD 6813 6822	litiásica
+T159	ENFERMEDAD 6841 6859	consumo de alcohol
+T160	ENFERMEDAD 7036 7054	pancreatitis aguda
+T161	PACIENTE-PROFESION 135 143	mecánico

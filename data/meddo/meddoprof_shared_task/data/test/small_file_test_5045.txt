@@ -1,0 +1,12 @@
+
+No	O
+se	O
+encuentran	O
+lesiones	O
+en	O
+cavidad	O
+oral	O
+ni	O
+adenopatías	O
+supraclaviculares	O
+.	O

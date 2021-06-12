@@ -1,0 +1,17 @@
+
+No	O
+tiene	O
+contacto	O
+con	O
+el	O
+paciente	O
+o	O
+el	O
+resto	O
+de	O
+la	O
+familia	O
+desde	O
+hace	O
+años	O
+.	O

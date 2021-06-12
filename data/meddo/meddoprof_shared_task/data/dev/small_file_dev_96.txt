@@ -1,0 +1,19 @@
+
+Analítica	O
+:	O
+hemograma	O
+,	O
+bioquímica	O
+y	O
+hormonas	O
+,	O
+dentro	O
+de	O
+la	O
+normalidad	O
+,	O
+excepto	O
+PRL	O
+>	O
+114	O
+.	O

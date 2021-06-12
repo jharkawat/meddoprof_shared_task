@@ -1,0 +1,16 @@
+
+En	O
+la	O
+exploración	O
+física	O
+,	O
+solemos	O
+encontrar	O
+esplenomegalia	O
+,	O
+hepatomegalia	O
+,	O
+palidez	O
+e	O
+ictericia	O
+.	O

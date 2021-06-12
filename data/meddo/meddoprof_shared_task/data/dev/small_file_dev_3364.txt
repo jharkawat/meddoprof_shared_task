@@ -1,0 +1,19 @@
+
+También	O
+le	O
+han	O
+sobrevenido	O
+episodios	O
+similares	O
+mientras	O
+se	O
+encontraba	O
+en	O
+su	O
+lugar	O
+de	O
+trabajo	B-PROFESION
+(	I-PROFESION
+Mercadona	I-PROFESION
+)	O
+.	O

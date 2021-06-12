@@ -1,0 +1,22 @@
+
+sensación	O
+de	O
+presiones	O
+en	O
+la	O
+cabeza	O
+y	O
+en	O
+el	O
+cuerpo	O
+y	O
+violaciones	O
+,	O
+pinchazos	O
+,	O
+sensación	O
+de	O
+quemazón	O
+.	O
+.	O
+.	O

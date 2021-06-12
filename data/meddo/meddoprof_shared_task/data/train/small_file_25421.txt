@@ -1,0 +1,14 @@
+
+Se	O
+le	O
+ajusta	O
+la	O
+dosis	O
+a	O
+16	O
+mg	O
+y	O
+la	O
+sintomatología	O
+desaparece	O
+.	O

@@ -1,0 +1,20 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+absceso	O
+,	O
+se	O
+le	O
+solicitó	O
+la	O
+realización	O
+de	O
+una	O
+TC	O
+de	O
+abdomen	O
+con	O
+contraste	O
+.	O

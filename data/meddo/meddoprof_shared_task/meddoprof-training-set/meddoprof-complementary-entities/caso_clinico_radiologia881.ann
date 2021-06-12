@@ -1,0 +1,68 @@
+T1	SINTOMA 261 329	dolor torácico de tipo opresivo, que se irradia hacia hombro y brazo
+T2	SINTOMA 363 366	tos
+T3	SINTOMA 395 405	hemoptisis
+T4	SINTOMA 809 816	afebril
+T5	SINTOMA 832 855	dificultad respiratoria
+T6	SINTOMA 1082 1090	doloroso
+T7	SINTOMA 1115 1129	visceromegalia
+T8	PROCEDIMIENTO 510 518	TC tórax
+T9	PROCEDIMIENTO 1031 1033	CV
+T10	PROCEDIMIENTO 1259 1267	TC Tórax
+T11	PROCEDIMIENTO 1386 1403	RADIOGRAFÍA TÓRAX
+T12	PROCEDIMIENTO 2581 2607	ECOGRAFÍA ABDOMINO PELVICA
+T13	PROCEDIMIENTO 2641 2670	Lobectomía superior izquierda
+T14	PROCEDIMIENTO 2672 2698	HALLAZGOS INTRAOPERATORIOS
+T15	NSCO 261 292	dolor torácico de tipo opresivo
+T16	NEG 688 690	No
+T17	NSCO 691 706	Hábitos nocivos
+T18	NEG 708 713	niega
+T19	NSCO 714 720	tabaco
+T20	NEG 754 759	niega
+T21	NSCO 761 774	EXAMEN FISICO
+T22	NEG 809 816	afebril
+T23	NEG 818 821	sin
+T24	NSCO 822 855	signos de dificultad respiratoria
+T25	NEG 909 911	No
+T26	NSCO 912 945	se palpan adenopatías periféricas
+T27	NEG 1010 1012	No
+T28	NSCO 1013 1029	ruidos agregados
+T29	NEG 1040 1042	No
+T30	NSCO 1043 1049	soplos
+T31	NEG 1079 1081	no
+T32	NSCO 1082 1090	doloroso
+T33	NEG 1092 1094	No
+T34	NSCO 1095 1110	se palpan masas
+T35	NEG 1112 1114	No
+T36	NSCO 1115 1129	visceromegalia
+T37	NEG 1135 1138	Sin
+T38	NSCO 1139 1157	alteraciones Mamas
+T39	NEG 1159 1161	no
+T40	NSCO 1162 1167	masas
+T41	NEG 1519 1522	sin
+T42	NSCO 1523 1553	calcificaciones en su interior
+T43	NEG 2393 2395	No
+T44	NSCO 2396 2411	derrame pleural
+T45	NEG 2413 2415	No
+T46	NSCO 2416 2472	se observan lesiones óseas en las estructuras estudiadas
+T47	UNC 2515 2523	probable
+T48	USCO 2524 2578	relación a NM pulmonar vs Quiste hidatídico complicado
+T49	ORG_VIVO 11 25	Paciente mujer
+T50	ORG_VIVO 131 145	Paciente mujer
+T51	ORG_VIVO 616 624	paciente
+T52	ORG_VIVO 676 686	familiares
+T53	ORG_VIVO 714 720	tabaco
+T54	ORG_VIVO 776 784	Paciente
+T55	ENFERMEDAD 112 129	ENFERMEDAD ACTUAL
+T56	ENFERMEDAD 922 945	adenopatías periféricas
+T57	ENFERMEDAD 1834 1860	Quiste hidatídico pulmonar
+T58	ENFERMEDAD 1874 1877	TBC
+T59	ENFERMEDAD 2017 2090	s/ calcificaciones en su interior, localizada en el segmento 4 del pulmón
+T60	ENFERMEDAD 2380 2391	adenopatías
+T61	ENFERMEDAD 2396 2411	derrame pleural
+T62	ENFERMEDAD 2428 2442	lesiones óseas
+T63	ENFERMEDAD 2535 2546	NM pulmonar
+T64	ENFERMEDAD 2550 2578	Quiste hidatídico complicado
+T65	ENFERMEDAD 2711 2781	tumor de 4.5 cm localizado en el segmento lingular superior subpleural
+T66	ENFERMEDAD 2981 3030	reacción inflamatoria crónica tipo cuerpo extraño
+T67	ENFERMEDAD 3033 3099	Antracosis • Ganglios hiliares: hiperplasia folicular y antracosis
+T68	PACIENTE-PROFESION 72 109	dedicada a la agricultura y ganadería

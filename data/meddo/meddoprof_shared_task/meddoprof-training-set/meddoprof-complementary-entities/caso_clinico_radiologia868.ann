@@ -1,0 +1,161 @@
+T1	SINTOMA 164 178	fiebre elevada
+T2	SINTOMA 180 189	calofríos
+T3	SINTOMA 191 207	malestar general
+T4	SINTOMA 210 223	disnea severa
+T5	SINTOMA 320 326	disnea
+T6	SINTOMA 375 383	tos seca
+T7	SINTOMA 411 417	febril
+T8	SINTOMA 444 454	polipneica
+T9	SINTOMA 456 475	cianosis periférica
+T10	SINTOMA 478 498	hipocratismo digital
+T11	SINTOMA 528 553	crepitaciones tipo velcro
+T12	SINTOMA 1069 1094	dilatación de la aurícula
+T13	SINTOMA 1678 1727	atenuación en imagen de vidrio deslustrado difusa
+T14	SINTOMA 1743 1778	engrosamiento septal también difuso
+T15	SINTOMA 5020 5033	cardiomegalia
+T16	SINTOMA 5038 5065	redistribución circulatoria
+T17	SINTOMA 5577 5587	hemoptisis
+T18	SINTOMA 8115 8137	infiltrados alveolares
+T19	PROCEDIMIENTO 389 402	examen físico
+T20	PROCEDIMIENTO 503 518	examen torácico
+T21	PROCEDIMIENTO 915 935	radiografía de tórax
+T22	PROCEDIMIENTO 1033 1047	ecocardiograma
+T23	PROCEDIMIENTO 1349 1366	broncodilatadores
+T24	PROCEDIMIENTO 1410 1420	esteroides
+T25	PROCEDIMIENTO 1569 1584	examen para VIH
+T26	PROCEDIMIENTO 1608 1660	tomografía computarizada de tórax de alta resolución
+T27	PROCEDIMIENTO 1662 1667	TACAR
+T28	PROCEDIMIENTO 2137 2171	exámenes funcionales respiratorios
+T29	PROCEDIMIENTO 2215 2227	espirometría
+T30	PROCEDIMIENTO 2524 2541	videobroncoscopía
+T31	PROCEDIMIENTO 2561 2582	lavado broncoalveolar
+T32	PROCEDIMIENTO 2724 2764	biopsia quirúrgica por videotoracoscopía
+T33	PROCEDIMIENTO 3086 3118	ventilación mecánica no invasiva
+T34	PROCEDIMIENTO 3336 3355	terapia antibiótica
+T35	PROCEDIMIENTO 3456 3477	lavado pulmonar total
+T36	PROCEDIMIENTO 3489 3506	anestesia general
+T37	PROCEDIMIENTO 3797 3811	TACAR de tórax
+T38	PROCEDIMIENTO 4969 4983	ecocardiograma
+T39	PROCEDIMIENTO 5650 5662	broncoscopía
+T40	PROCEDIMIENTO 6058 6073	lavado pulmonar
+T41	PROCEDIMIENTO 6316 6346	lavados lobares broncoscópicos
+T42	PROCEDIMIENTO 6352 6367	anestesia local
+T43	PROCEDIMIENTO 6934 6952	instilación de PFC
+T44	PROCEDIMIENTO 7040 7075	instilación de solución fisiológica
+T45	PROCEDIMIENTO 7151 7169	instilación de PFC
+T46	PROCEDIMIENTO 7262 7275	plasmaféresis
+T47	PROCEDIMIENTO 8053 8067	TACAR de tórax
+T48	PROCEDIMIENTO 8232 8247	lavado pulmonar
+T49	PROCEDIMIENTO 8335 8344	oximetría
+T50	PROCEDIMIENTO 8675 8688	plasmaféresis
+T51	PROCEDIMIENTO 9168 9182	lavado con PFC
+T52	PROCEDIMIENTO 9201 9214	plasmaféresis
+T53	NEG 991 994	sin
+T54	NSCO 995 1027	derrame pleural ni cardiomegalia
+T55	NEG 1592 1601	negativos
+T56	UNC 1926 1934	probable
+T57	USCO 1935 1983	exacerbación de una fibrosis pulmonar idiopática
+T58	NEG 2083 2086	sin
+T59	NSCO 2087 2094	ninguna
+T60	NEG 2446 2455	imposible
+T61	NSCO 2456 2510	realizar un estudio de difusión de monóxido de carbono
+T62	NEG 2583 2585	no
+T63	NSCO 2586 2629	se encontró gérmenes ni células neoplásicas
+T64	NEG 2660 2662	no
+T65	NSCO 2663 2698	respondía al tratamiento instaurado
+T66	NEG 3107 3109	no
+T67	NSCO 3110 3118	invasiva
+T68	NEG 3626 3629	sin
+T69	NSCO 3630 3645	obtener cambios
+T70	NEG 4748 4750	no
+T71	NSCO 4751 4775	de predominio subpleural
+T72	NEG 4777 4779	no
+T73	NSCO 4780 4853	había bronquiectasias por tracción, gradiente apico basal ni panalización
+T74	NEG 4855 4857	No
+T75	NSCO 4858 4924	había elementos tampoco para pensar en edema pulmonar cardiogénico
+T76	NEG 4933 4935	no
+T77	NSCO 4936 4991	había historia de cardiopatía un ecocardiograma anodino
+T78	NEG 5007 5009	no
+T79	NSCO 5010 5084	mostraban cardiomegalia, ni redistribución circulatoria ni derrame pleural
+T80	NEG 5161 5163	no
+T81	NSCO 5164 5174	tan difuso
+T82	NEG 5243 5251	negativo
+T83	NEG 5253 5255	No
+T84	NSCO 5256 5293	existían elementos de inmunosupresión
+T85	NEG 5295 5297	no
+T86	NSCO 5298 5326	habían quistes ni neumotórax
+T87	NEG 5413 5421	negativo
+T88	NEG 5563 5565	no
+T89	NSCO 5566 5587	hubo jamás hemoptisis
+T90	NEG 5663 5671	descartó
+T91	NSCO 5672 5696	el sangramiento alveolar
+T92	NEG 5964 5966	no
+T93	NSCO 5967 5980	tradicionales
+T94	NEG 7296 7303	retirar
+T95	NSCO 7304 7405	los posibles anticuerpos circulantes anti factor estimulante de colonias de granulocitos y macrófagos
+T96	NEG 7432 7434	no
+T97	NSCO 7435 7459	nos fue posible realizar
+T98	NEG 7485 7496	ausencia de
+T99	NSCO 7497 7528	brotes futuros de la enfermedad
+T100	NEG 7990 7993	sin
+T101	NSCO 7994 8045	desaturación de la hemoglobina al finalizar el test
+T102	NEG 8089 8101	desaparición
+T103	NSCO 8102 8137	total de los infiltrados alveolares
+T104	NEG 8518 8525	retirar
+T105	NSCO 8526 8585	fácilmente el líquido proteináceo que inundaba los alvéolos
+T106	NEG 8633 8645	asintomática
+T107	NSCO 8646 8688	luego de la quinta sesión de plasmaféresis
+T108	NEG 8750 8753	sin
+T109	NSCO 8754 8766	limitaciones
+T110	NEG 8839 8851	asintomática
+T111	NEG 8900 8903	sin
+T112	NSCO 8904 8929	necesidad de medicamentos
+T113	NEG 9082 9085	sin
+T114	NSCO 9086 9116	desaturación de la hemoglobina
+T115	FARMACO 1336 1347	oseltamivir
+T116	FARMACO 2014 2031	metilprednisolona
+T117	FARMACO 2044 2054	prednisona
+T118	FARMACO 3366 3375	meropenem
+T119	FARMACO 3378 3389	vancomicina
+T120	FARMACO 6381 6383	O2
+T121	ORG_VIVO 4 9	mujer
+T122	ORG_VIVO 1283 1292	Influenza
+T123	ORG_VIVO 1497 1502	viral
+T124	ORG_VIVO 1508 1517	influenza
+T125	ORG_VIVO 1519 1532	parainfluenza
+T126	ORG_VIVO 1541 1560	virus respiratorios
+T127	ORG_VIVO 1581 1584	VIH
+T128	ORG_VIVO 1864 1872	paciente
+T129	ORG_VIVO 2598 2606	gérmenes
+T130	ORG_VIVO 2640 2648	paciente
+T131	ORG_VIVO 3432 3440	paciente
+T132	ORG_VIVO 3890 3898	paciente
+T133	ORG_VIVO 4292 4300	paciente
+T134	ORG_VIVO 4608 4616	paciente
+T135	ORG_VIVO 5233 5238	viral
+T136	ORG_VIVO 5405 5408	VIH
+T137	ORG_VIVO 5554 5562	paciente
+T138	ORG_VIVO 5785 5793	paciente
+T139	ORG_VIVO 5929 5938	pacientes
+T140	ORG_VIVO 8591 8599	paciente
+T141	ENFERMEDAD 619 654	falla respiratoria hipoxémica grave
+T142	ENFERMEDAD 995 1010	derrame pleural
+T143	ENFERMEDAD 1176 1214	neumonía multilobar de etiología viral
+T144	ENFERMEDAD 1955 1983	fibrosis pulmonar idiopática
+T145	ENFERMEDAD 2999 3028	Proteinosis Alveolar Pulmonar
+T146	ENFERMEDAD 3125 3145	neumotórax bilateral
+T147	ENFERMEDAD 4423 4441	exacerbación aguda
+T148	ENFERMEDAD 4449 4477	Fibrosis Pulmonar Idiopática
+T149	ENFERMEDAD 4617 4625	fumadora
+T150	ENFERMEDAD 4786 4814	bronquiectasias por tracción
+T151	ENFERMEDAD 4897 4924	edema pulmonar cardiogénico
+T152	ENFERMEDAD 4954 4965	cardiopatía
+T153	ENFERMEDAD 5069 5084	derrame pleural
+T154	ENFERMEDAD 5090 5104	neumonía viral
+T155	ENFERMEDAD 5305 5312	quistes
+T156	ENFERMEDAD 5316 5326	neumotórax
+T157	ENFERMEDAD 5352 5387	neumonía por Pneumocistis jirovesii
+T158	ENFERMEDAD 5513 5539	hemorragia alveolar difusa
+T159	ENFERMEDAD 5675 5696	sangramiento alveolar
+T160	ENFERMEDAD 5722 5737	fracaso del LPT
+T161	PACIENTE-PROFESION 30 59	aseadora de camiones de carga

@@ -1,0 +1,17 @@
+
+La	O
+medicación	O
+complementaria	O
+que	O
+se	O
+le	O
+administra	O
+es	O
+escitalopram	O
+,	O
+gabapentina	O
+,	O
+clonazepam	O
+,	O
+diazepam	O
+.	O

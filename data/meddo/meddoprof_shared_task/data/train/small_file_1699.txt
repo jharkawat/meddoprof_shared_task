@@ -1,0 +1,19 @@
+
+Se	O
+realizó	O
+una	O
+fibrobroncoscopia	O
+que	O
+no	O
+mostró	O
+hallazgos	O
+significativos	O
+y	O
+la	O
+citología	O
+del	O
+broncoaspirado	O
+no	O
+demostró	O
+malignidad	O
+.	O

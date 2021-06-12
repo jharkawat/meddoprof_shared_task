@@ -1,0 +1,24 @@
+
+Los	O
+padres	O
+restan	O
+importancia	O
+a	O
+estos	O
+cambios	O
+achacándolos	O
+a	O
+la	O
+marcha	O
+de	O
+la	O
+hermana	O
+del	O
+domicilio	O
+familiar	O
+y	O
+las	O
+escasas	O
+relaciones	O
+sociales	O
+.	O

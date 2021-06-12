@@ -1,0 +1,7 @@
+
+Eje	O
+I	O
+:	O
+Esquizofrenia	O
+tipo	O
+catatónico	O

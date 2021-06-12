@@ -1,0 +1,6 @@
+
+Se	O
+practicó	O
+lavado	O
+broncoalveolar	O
+.	O

@@ -1,0 +1,21 @@
+
+Observar	O
+,	O
+en	O
+el	O
+paciente	O
+triado	O
+,	O
+que	O
+nivel	O
+de	O
+prioridad	O
+asignado	O
+en	O
+el	O
+triaje	O
+nos	O
+muestra	O
+más	O
+fugas	O
+.	O

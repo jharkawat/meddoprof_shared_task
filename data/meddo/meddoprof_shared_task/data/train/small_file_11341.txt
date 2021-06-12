@@ -1,0 +1,18 @@
+
+NO	O
+refiere	O
+haber	O
+presentado	O
+fiebre	O
+aunque	O
+si	O
+sensación	O
+febril	O
+no	O
+termometrada	O
+y	O
+empeoramiento	O
+del	O
+estado	O
+general	O
+.	O

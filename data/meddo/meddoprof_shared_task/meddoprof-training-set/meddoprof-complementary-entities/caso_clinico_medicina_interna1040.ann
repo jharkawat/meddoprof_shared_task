@@ -1,0 +1,46 @@
+T1	SINTOMA 67 74	astenia
+T2	SINTOMA 76 91	pérdida de peso
+T3	SINTOMA 94 103	ictericia
+T4	SINTOMA 344 359	pérdida de peso
+T5	SINTOMA 362 369	astenia
+T6	SINTOMA 400 409	hiporexia
+T7	SINTOMA 411 429	episodio depresivo
+T8	SINTOMA 431 440	ictericia
+T9	SINTOMA 469 489	dolor en hipocondrio
+T10	SINTOMA 567 583	ictérico cutáneo
+T11	SINTOMA 586 606	dolor en hipocondrio
+T12	SINTOMA 645 666	irritación peritoneal
+T13	PROCEDIMIENTO 671 690	analítica de sangre
+T14	PROCEDIMIENTO 938 960	estudio microbiológico
+T15	PROCEDIMIENTO 982 994	TC abdominal
+T16	PROCEDIMIENTO 1384 1418	resección de los quistes hepáticos
+T17	PROCEDIMIENTO 1558 1560	TC
+T18	NEG 631 634	sin
+T19	NSCO 635 666	signos de irritación peritoneal
+T20	NEG 961 969	negativo
+T21	UNC 1055 1070	compatibles con
+T22	USCO 1071 1090	quistes hidatídicos
+T23	NEG 1449 1461	asintomática
+T24	NEG 1463 1466	sin
+T25	NSCO 1467 1496	nuevos episodios de hemolisis
+T26	NEG 1514 1517	sin
+T27	NSCO 1518 1571	recidiva hidatídica a nivel hepático en TC de control
+T28	FARMACO 1286 1296	prednisona
+T29	FARMACO 1323 1333	albendazol
+T30	ORG_VIVO 42 50	paciente
+T31	ORG_VIVO 245 263	empleada del hogar
+T32	ORG_VIVO 311 322	veterinaria
+T33	ORG_VIVO 327 335	paciente
+T34	ORG_VIVO 1123 1131	paciente
+T35	ENFERMEDAD 135 150	neuritis óptica
+T36	ENFERMEDAD 174 180	aborto
+T37	ENFERMEDAD 705 711	anemia
+T38	ENFERMEDAD 1013 1031	lesiones hepáticas
+T39	ENFERMEDAD 1071 1090	quistes hidatídicos
+T40	ENFERMEDAD 1093 1107	esplenomegalia
+T41	ENFERMEDAD 1205 1244	infestación por Echinococcus granulosus
+T42	ENFERMEDAD 1401 1418	quistes hepáticos
+T43	ENFERMEDAD 1487 1496	hemolisis
+T44	ENFERMEDAD 1518 1554	recidiva hidatídica a nivel hepático
+T45	PACIENTE-PROFESION 245 263	empleada del hogar
+T46	PACIENTE-PROFESION 311 322	veterinaria

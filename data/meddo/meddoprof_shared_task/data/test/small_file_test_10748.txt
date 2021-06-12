@@ -1,0 +1,11 @@
+
+Se	O
+realiza	O
+PAAF	O
+en	O
+tumoración	O
+parotídea	O
+saliendo	O
+no	O
+concluyente	O
+.	O

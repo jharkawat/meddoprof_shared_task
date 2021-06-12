@@ -1,0 +1,24 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+está	O
+en	O
+tratamiento	O
+farmacológico	O
+con	O
+paliperidona	O
+intramuscular	O
+100	O
+mg	O
+/	O
+mensual	O
+y	O
+clozapina	O
+oral	O
+200	O
+mg	O
+/	O
+día	O
+.	O

@@ -1,0 +1,19 @@
+
+En	O
+la	O
+cavidad	O
+ventricular	O
+se	O
+observó	O
+un	O
+área	O
+tumoral	O
+de	O
+necrosis	O
+con	O
+desprendimiento	O
+de	O
+un	O
+trombo	O
+tumoral	O
+.	O

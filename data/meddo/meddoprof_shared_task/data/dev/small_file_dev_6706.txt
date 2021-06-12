@@ -1,0 +1,6 @@
+
+El	O
+urocultivo	O
+fue	O
+negativo	O
+.	O

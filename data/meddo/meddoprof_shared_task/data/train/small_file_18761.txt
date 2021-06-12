@@ -1,0 +1,20 @@
+
+En	O
+este	O
+proceso	O
+acude	O
+a	O
+salud	O
+mental	O
+en	O
+relación	O
+con	O
+su	O
+abstinencia	O
+enólica	O
+asociada	O
+a	O
+un	O
+síndrome	O
+depresivo	O
+.	O

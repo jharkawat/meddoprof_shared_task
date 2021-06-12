@@ -1,0 +1,22 @@
+
+En	O
+otras	O
+secuencias	O
+su	O
+expresión	O
+facial	O
+se	O
+volvía	O
+vacía	O
+,	O
+se	O
+parecía	O
+indiferente	O
+y	O
+se	O
+quejaba	O
+de	O
+pérdida	O
+de	O
+sentimientos	O
+.	O

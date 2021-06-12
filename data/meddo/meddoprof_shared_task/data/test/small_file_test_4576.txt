@@ -1,0 +1,13 @@
+
+Durante	O
+su	O
+ingreso	O
+en	O
+Medicina	O
+Interna	O
+se	O
+realizan	O
+las	O
+siguientes	O
+pruebas	O
+:	O

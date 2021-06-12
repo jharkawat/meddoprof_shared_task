@@ -1,0 +1,26 @@
+
+Paciente	O
+de	O
+18	O
+años	O
+ingresa	O
+de	O
+forma	O
+urgente	O
+con	O
+carácter	O
+jurídico	O
+de	O
+involuntariedad	O
+,	O
+tras	O
+presentar	O
+alteraciones	O
+de	O
+conducta	O
+de	O
+dos	O
+semanas	O
+de	O
+evolución	O
+.	O

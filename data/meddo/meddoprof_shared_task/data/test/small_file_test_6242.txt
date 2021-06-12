@@ -1,0 +1,11 @@
+
+RM	O
+abdomen	O
+junio	O
+2014	O
+:	O
+Sin	O
+gadolinio	O
+por	O
+ERC	O
+.	O

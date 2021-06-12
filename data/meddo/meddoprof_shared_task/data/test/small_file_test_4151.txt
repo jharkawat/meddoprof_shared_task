@@ -1,0 +1,27 @@
+
+Después	O
+de	O
+complicaciones	O
+infecciosas	O
+y	O
+progresión	O
+de	O
+la	O
+enfermedad	O
+,	O
+el	O
+enfermo	O
+fallece	O
+tras	O
+20	O
+días	O
+de	O
+ingreso	O
+,	O
+a	O
+los	O
+seis	O
+meses	O
+del	O
+diagnóstico	O
+.	O

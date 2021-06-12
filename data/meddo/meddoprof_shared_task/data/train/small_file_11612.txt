@@ -1,0 +1,7 @@
+
+Se	O
+realizó	O
+una	O
+nueva	O
+PL	O
+.	O

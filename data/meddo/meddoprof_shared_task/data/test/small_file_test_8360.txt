@@ -1,0 +1,22 @@
+
+Una	O
+RM	O
+posterior	O
+confirma	O
+que	O
+las	O
+lesiones	O
+cerebrales	O
+son	O
+sugestivas	O
+de	O
+metástasis	O
+,	O
+además	O
+de	O
+que	O
+condicionan	O
+un	O
+importante	O
+edema	O
+.	O

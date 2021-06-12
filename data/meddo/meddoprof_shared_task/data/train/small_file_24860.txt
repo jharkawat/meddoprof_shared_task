@@ -1,0 +1,8 @@
+
+Es	O
+incapaz	O
+de	O
+emitir	O
+lenguaje	O
+inteligible	O
+.	O

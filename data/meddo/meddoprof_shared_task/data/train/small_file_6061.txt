@@ -1,0 +1,6 @@
+
+Enfermedad	O
+Pulmonar	O
+Obstructiva	O
+Crónica	O
+.	O

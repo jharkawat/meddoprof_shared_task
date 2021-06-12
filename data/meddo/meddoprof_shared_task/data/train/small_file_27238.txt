@@ -1,0 +1,15 @@
+
+En	O
+esta	O
+condición	O
+hizo	O
+viaje	O
+en	O
+avión	O
+encontrándose	O
+desorientado	O
+al	O
+llegar	O
+al	O
+aeropuerto	O
+.	O

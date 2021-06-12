@@ -1,0 +1,10 @@
+
+ACTH	O
+9	O
+am	O
+:	O
+1	O
+pg	O
+/	O
+ml	O
+.	O

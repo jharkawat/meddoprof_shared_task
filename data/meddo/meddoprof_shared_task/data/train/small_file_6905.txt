@@ -1,0 +1,18 @@
+
+Se	O
+administraron	O
+2	O
+,	O
+4	O
+millones	O
+de	O
+UI	O
+de	O
+penicilina	O
+G	O
+benzatina	O
+intramuscular	O
+en	O
+dosis	O
+única	O
+.	O

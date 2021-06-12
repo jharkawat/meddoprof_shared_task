@@ -1,0 +1,14 @@
+
+Sacroileitis	O
+séptica	O
+izquierda	O
+con	O
+colección	O
+abscesificada	O
+del	O
+músculo	O
+ilíaco	O
+por	O
+Salmonella	O
+enterica	O
+.	O

@@ -1,0 +1,23 @@
+
+—	O
+RMN	O
+cerebral	O
+con	O
+secuencias	O
+sagital	O
+T1	O
+,	O
+axiales	O
+T2	O
+,	O
+T2	O
+*	O
+y	O
+coronales	O
+T1	O
+y	O
+T2	O
+centrados	O
+en	O
+hipófisis	O
+.	O

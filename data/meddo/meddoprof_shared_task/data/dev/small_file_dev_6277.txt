@@ -1,0 +1,20 @@
+
+Serologías	O
+2016	O
+:	O
+HIV	O
+-	O
+,	O
+AntiHbs	O
++	O
+,	O
+AgHbs	O
+-	O
+,	O
+AntiHbc	O
++	O
+,	O
+VHC	O
+-	O
+Lues	O
+-	O

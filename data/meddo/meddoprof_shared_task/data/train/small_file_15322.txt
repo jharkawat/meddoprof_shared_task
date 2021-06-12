@@ -1,0 +1,25 @@
+
+La	O
+anatomía	O
+patológica	O
+reveló	O
+la	O
+presencia	O
+de	O
+organismos	O
+parasitarios	O
+compatibles	O
+con	O
+Strongyloides	O
+stercoralis	O
+en	O
+lavado	O
+bronquioalveolar	O
+y	O
+en	O
+muestras	O
+de	O
+duodeno	O
+y	O
+colon	O
+.	O

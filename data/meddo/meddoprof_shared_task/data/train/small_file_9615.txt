@@ -1,0 +1,25 @@
+
+Se	O
+presenta	O
+un	O
+caso	O
+clínico	O
+de	O
+una	O
+mujer	O
+de	O
+58	O
+an	O
+̃	O
+os	O
+de	O
+edad	O
+,	O
+funcionaria	B-PROFESION
+pública	I-PROFESION
+,	O
+sin	O
+antecedentes	O
+familiares	O
+relevantes	O
+.	O

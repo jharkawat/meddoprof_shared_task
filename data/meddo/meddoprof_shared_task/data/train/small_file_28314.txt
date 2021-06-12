@@ -1,0 +1,8 @@
+
+No	O
+antecedentes	O
+por	O
+consumo	O
+de	O
+tóxicos	O
+.	O

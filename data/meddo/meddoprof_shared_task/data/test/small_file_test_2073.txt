@@ -1,0 +1,23 @@
+
+Se	O
+asume	O
+a	O
+la	O
+paciente	O
+a	O
+cargo	O
+de	O
+Oncología	O
+Médica	O
+y	O
+,	O
+tras	O
+revisión	O
+bibliográfica	O
+,	O
+se	O
+inicia	O
+tratamiento	O
+intratecal	O
+semanal	O
+:	O

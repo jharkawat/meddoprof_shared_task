@@ -1,0 +1,7 @@
+
+No	O
+presentaba	O
+otra	O
+sintomatología	O
+asociada	O
+.	O

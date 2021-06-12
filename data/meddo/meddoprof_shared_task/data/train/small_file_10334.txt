@@ -1,0 +1,10 @@
+
+-	O
+Absceso	O
+hepático	O
+amebiano	O
+(	O
+Entamoeba	O
+histolytica	O
+)	O
+.	O

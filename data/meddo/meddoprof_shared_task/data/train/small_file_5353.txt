@@ -1,0 +1,22 @@
+
+ECG	O
+:	O
+Ritmo	O
+sinusal	O
+a	O
+125	O
+lpm	O
+,	O
+eje	O
+izquierdo	O
+,	O
+T	O
+picudas	O
+en	O
+precordiales	O
+izquierda	O
+,	O
+resto	O
+sin	O
+alteraciones	O
+.	O

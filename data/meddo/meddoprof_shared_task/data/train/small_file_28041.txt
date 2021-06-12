@@ -1,0 +1,17 @@
+
+El	O
+diagnóstico	O
+diferencial	O
+principal	O
+estaría	O
+entre	O
+Enfermedad	O
+de	O
+Alzheimer	O
+(	O
+EA	O
+)	O
+y	O
+pseudodemencia	O
+depresiva	O
+.	O

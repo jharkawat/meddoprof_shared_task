@@ -1,0 +1,27 @@
+
+Se	O
+decide	O
+su	O
+incorporación	O
+por	O
+su	O
+favorable	O
+evolución	O
+que	O
+había	O
+tenido	O
+en	O
+buprenorfina	O
+y	O
+por	O
+persistir	O
+las	O
+indicaciones	O
+de	O
+cuando	O
+comenzó	O
+el	O
+tratamiento	O
+en	O
+2002	O
+.	O

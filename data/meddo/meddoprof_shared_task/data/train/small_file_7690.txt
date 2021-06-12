@@ -1,0 +1,12 @@
+
+Con	O
+estos	O
+hallazgos	O
+se	O
+llegó	O
+al	O
+diagnóstico	O
+de	O
+liquen	O
+aureus	O
+.	O

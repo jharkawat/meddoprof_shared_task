@@ -1,0 +1,12 @@
+
+Marido	O
+fallecido	O
+por	O
+cáncer	O
+de	O
+páncreas	O
+en	O
+agosto	O
+de	O
+2013	O
+.	O

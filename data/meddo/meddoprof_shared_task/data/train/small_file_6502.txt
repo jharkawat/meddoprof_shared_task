@@ -1,0 +1,21 @@
+
+Ante	O
+estos	O
+hallazgos	O
+no	O
+concluyentes	O
+,	O
+se	O
+decidió	O
+repetir	O
+la	O
+biopsia	O
+y	O
+completar	O
+el	O
+estudio	O
+realizando	O
+una	O
+inmunofluorescencia	O
+directa	O
+.	O

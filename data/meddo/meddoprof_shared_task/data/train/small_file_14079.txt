@@ -1,0 +1,17 @@
+
+Vacunada	O
+previamente	O
+contra	O
+fiebre	O
+amarilla	O
+,	O
+hepatitis	O
+A	O
+y	O
+B	O
+,	O
+fiebre	O
+tifoidea	O
+y	O
+rabia	O
+.	O

@@ -1,0 +1,18 @@
+
+Al	O
+ingreso	O
+el	O
+paciente	O
+presentaba	O
+regular	O
+estado	O
+general	O
+,	O
+con	O
+un	O
+ECOG	O
+performance	O
+status	O
+de	O
+4	O
+.	O

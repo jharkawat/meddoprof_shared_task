@@ -1,0 +1,26 @@
+
+Como	O
+acontecimientos	O
+vitales	O
+estresantes	O
+destaca	O
+la	O
+mala	O
+relación	O
+con	O
+el	O
+marido	O
+,	O
+el	O
+fallecimiento	O
+del	O
+padre	O
+y	O
+el	O
+rol	O
+de	O
+cuidadora	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+su	I-SITUACION_LABORAL
+madre	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,24 @@
+
+Éste	O
+la	O
+remite	O
+a	O
+Urgencias	O
+del	O
+hospital	O
+de	O
+referencia	O
+,	O
+donde	O
+es	O
+valorada	O
+por	O
+los	O
+médicos	B-PROFESION
+de	O
+dicho	O
+servicio	O
+y	O
+por	O
+Psiquiatría	O
+.	O

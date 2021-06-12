@@ -1,0 +1,25 @@
+
+En	O
+el	O
+informe	O
+de	O
+derivación	O
+se	O
+recoge	O
+que	O
+el	O
+paciente	O
+presenta	O
+ideas	O
+delirantes	O
+místico	O
+-	O
+religiosas	O
+,	O
+posibles	O
+alucinaciones	O
+auditivas	O
+y	O
+tensión	O
+psicótica	O
+.	O

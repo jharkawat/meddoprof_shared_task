@@ -1,0 +1,13 @@
+
+Acude	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+por	O
+clínica	O
+de	O
+tos	O
+persistente	O
+.	O

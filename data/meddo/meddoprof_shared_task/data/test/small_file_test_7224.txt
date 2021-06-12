@@ -1,0 +1,16 @@
+
+Se	O
+solicitó	O
+la	O
+mutación	O
+de	O
+ALK	O
+,	O
+siendo	O
+ésta	O
+positiva	O
+(	O
+noviembre	O
+2013	O
+)	O
+.	O

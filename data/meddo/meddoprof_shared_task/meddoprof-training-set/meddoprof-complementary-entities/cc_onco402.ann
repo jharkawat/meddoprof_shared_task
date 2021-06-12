@@ -1,0 +1,156 @@
+T1	SINTOMA 214 221	fumador
+T2	SINTOMA 225 232	bebedor
+T3	SINTOMA 368 397	molestias abdominales difusas
+T4	SINTOMA 428 443	pérdida de peso
+T5	SINTOMA 473 482	hiporexia
+T6	SINTOMA 485 492	astenia
+T7	SINTOMA 1633 1640	astenia
+T8	SINTOMA 1680 1688	diarreas
+T9	SINTOMA 1728 1768	neurotoxicidad grado 1 en dedos de manos
+T10	SINTOMA 1912 1943	aumento del perímetro abdominal
+T11	SINTOMA 1967 2000	edemas en extremidades inferiores
+T12	SINTOMA 2098 2129	aumento del perímetro abdominal
+T13	SINTOMA 2236 2300	edemas con fóvea en tobillos hasta raíces de miembros inferiores
+T14	SINTOMA 2317 2338	ingurgitación yugular
+T15	SINTOMA 2343 2380	auscultación cardiopulmonar es normal
+T16	SINTOMA 5983 5997	esplenomegalia
+T17	PROCEDIMIENTO 596 615	ecografía abdominal
+T18	PROCEDIMIENTO 780 825	tomografía computarizada (TC) toracoabdominal
+T19	PROCEDIMIENTO 950 962	colonoscopia
+T20	PROCEDIMIENTO 1123 1130	biopsia
+T21	PROCEDIMIENTO 1470 1491	tratamiento sistémico
+T22	PROCEDIMIENTO 1847 1849	TC
+T23	PROCEDIMIENTO 2028 2046	Exploración física
+T24	PROCEDIMIENTO 2058 2076	exploración física
+T25	PROCEDIMIENTO 2343 2370	auscultación cardiopulmonar
+T26	PROCEDIMIENTO 2994 3018	paracentesis diagnóstica
+T27	PROCEDIMIENTO 3618 3644	medición de ceruloplasmina
+T28	PROCEDIMIENTO 3739 3765	Ecografía Doppler hepática
+T29	PROCEDIMIENTO 4085 4103	TC toracoabdominal
+T30	PROCEDIMIENTO 4272 4274	TC
+T31	PROCEDIMIENTO 4286 4300	Ecocardiograma
+T32	PROCEDIMIENTO 4557 4587	Medición de proteínas en orina
+T33	PROCEDIMIENTO 4668 4698	Citología del líquido ascítico
+T34	PROCEDIMIENTO 5217 5230	quimioterapia
+T35	PROCEDIMIENTO 5277 5316	biopsia hepática de parénquima hepático
+T36	PROCEDIMIENTO 6037 6060	paracentesis evacuadora
+T37	PROCEDIMIENTO 6183 6204	tratamiento diurético
+T38	PROCEDIMIENTO 6372 6389	diuréticos orales
+T39	PROCEDIMIENTO 6452 6476	paracentesis evacuadoras
+T40	PROCEDIMIENTO 6765 6789	paracentesis evacuadoras
+T41	PROCEDIMIENTO 6927 6929	TC
+T42	NEG 208 210	No
+T43	NSCO 211 232	es fumador ni bebedor
+T44	NEG 234 236	No
+T45	NSCO 237 279	tiene antecedente de transfusiones previas
+T46	NEG 281 283	No
+T47	NSCO 284 327	presenta antecedentes familiares de interés
+T48	NEG 329 331	No
+T49	NSCO 332 356	toma medicación habitual
+T50	UNC 707 722	compatibles con
+T51	USCO 723 733	metástasis
+T52	UNC 2149 2163	compatible con
+T53	USCO 2164 2184	presencia de ascitis
+T54	NEG 2302 2304	No
+T55	NSCO 2305 2338	se objetiva ingurgitación yugular
+T56	NEG 2382 2384	no
+T57	NSCO 2385 2481	se observa circulación colateral en abdomen ni presenta estigmas cutáneos de hepatopatía crónica
+T58	UNC 3208 3222	compatible con
+T59	USCO 3223 3235	un trasudado
+T60	NEG 3237 3240	sin
+T61	NSCO 3241 3259	datos de infección
+T62	NEG 3528 3537	negativas
+T63	NEG 3543 3551	descartó
+T64	NSCO 3552 3570	hepatopatía vírica
+T65	NEG 3671 3682	descartando
+T66	NSCO 3683 3697	hemocromatosis
+T67	UNC 4042 4056	compatible con
+T68	USCO 4057 4081	signos indirectos de HTP
+T69	NEG 4109 4116	tampoco
+T70	NSCO 4117 4164	evidenció trombosis de las venas suprahepáticas
+T71	NEG 4365 4368	sin
+T72	NSCO 4369 4400	datos de insuficiencia cardiaca
+T73	NEG 4425 4427	no
+T74	NSCO 4428 4437	dilatados
+T75	NEG 4621 4628	tampoco
+T76	NSCO 4629 4664	se trataba de un síndrome nefrótico
+T77	NEG 4703 4711	negativa
+T78	NSCO 4712 4733	para células malignas
+T79	NEG 4777 4785	negativo
+T80	NEG 5090 5102	negativos de
+T81	NSCO 5103 5132	las principales causas de HTP
+T82	NEG 5134 5137	sin
+T83	NSCO 5138 5180	antecedentes previos de consumo de alcohol
+T84	NEG 5182 5193	se sospechó
+T85	NSCO 5194 5230	un origen tóxico de la quimioterapia
+T86	NEG 5317 5319	no
+T87	NSCO 5320 5328	afectado
+T88	UNC 5726 5740	compatible con
+T89	USCO 5741 5750	SOS e HNR
+T90	NEG 6437 6439	no
+T91	NSCO 6440 6476	precisó más paracentesis evacuadoras
+T92	NEG 6636 6648	se suspendió
+T93	NSCO 6649 6680	el tratamiento con este fármaco
+T94	NEG 6708 6710	No
+T95	NSCO 6711 6789	ha precisado otros ingresos, ni ha requerido de otras paracentesis evacuadoras
+T96	FARMACO 1496 1501	XELOX
+T97	FARMACO 1503 1515	capecitabina
+T98	FARMACO 1544 1556	oxaliplatino
+T99	FARMACO 1714 1724	loperamida
+T100	FARMACO 5248 5260	oxaliplatino
+T101	FARMACO 5909 5921	oxaliplatino
+T102	FARMACO 6209 6219	furosemida
+T103	FARMACO 6238 6253	espironolactona
+T104	FARMACO 6561 6573	oxaliplatino
+T105	FARMACO 6694 6706	capecitabina
+T106	ORG_VIVO 25 30	varón
+T107	ORG_VIVO 62 67	hijos
+T108	ORG_VIVO 306 316	familiares
+T109	ORG_VIVO 555 582	médico de Atención Primaria
+T110	ORG_VIVO 1418 1426	paciente
+T111	ORG_VIVO 1870 1878	paciente
+T112	ORG_VIVO 2534 2542	paciente
+T113	ORG_VIVO 3491 3511	virus de hepatitis B
+T114	ORG_VIVO 3512 3515	y C
+T115	ORG_VIVO 4826 4834	paciente
+T116	ORG_VIVO 5822 5830	paciente
+T117	ORG_VIVO 6428 6436	paciente
+T118	ENFERMEDAD 104 129	diabetes mellitus tipo II
+T119	ENFERMEDAD 173 188	hernia inguinal
+T120	ENFERMEDAD 400 423	síndrome constitucional
+T121	ENFERMEDAD 628 680	lesiones ocupantes de espacio en parénquima hepático
+T122	ENFERMEDAD 723 733	metástasis
+T123	ENFERMEDAD 861 879	lesiones hepáticas
+T124	ENFERMEDAD 885 924	estenosis en ángulo esplénico del colon
+T125	ENFERMEDAD 2177 2184	ascitis
+T126	ENFERMEDAD 2462 2481	hepatopatía crónica
+T127	ENFERMEDAD 2513 2520	ascitis
+T128	ENFERMEDAD 3250 3259	infección
+T129	ENFERMEDAD 3347 3366	hipertensión portal
+T130	ENFERMEDAD 3368 3371	HTP
+T131	ENFERMEDAD 3500 3515	hepatitis B y C
+T132	ENFERMEDAD 3552 3570	hepatopatía vírica
+T133	ENFERMEDAD 3683 3697	hemocromatosis
+T134	ENFERMEDAD 3700 3720	enfermedad de Wilson
+T135	ENFERMEDAD 4078 4081	HTP
+T136	ENFERMEDAD 4127 4164	trombosis de las venas suprahepáticas
+T137	ENFERMEDAD 4236 4254	lesiones hepáticas
+T138	ENFERMEDAD 4378 4400	insuficiencia cardiaca
+T139	ENFERMEDAD 4514 4528	hipotiroidismo
+T140	ENFERMEDAD 4646 4664	síndrome nefrótico
+T141	ENFERMEDAD 4865 4883	lesiones hepáticas
+T142	ENFERMEDAD 5027 5034	ascitis
+T143	ENFERMEDAD 5070 5073	HTP
+T144	ENFERMEDAD 5129 5132	HTP
+T145	ENFERMEDAD 5162 5180	consumo de alcohol
+T146	ENFERMEDAD 5747 5750	HNR
+T147	ENFERMEDAD 5794 5801	ascitis
+T148	ENFERMEDAD 5852 5892	descompensación edemoascitica secundaria
+T149	ENFERMEDAD 5895 5937	toxicidad del oxaliplatino en forma de SOS
+T150	ENFERMEDAD 5940 5943	HNR
+T151	ENFERMEDAD 5978 5981	HTP
+T152	ENFERMEDAD 5983 5997	esplenomegalia
+T153	ENFERMEDAD 6000 6007	ascitis
+T154	ENFERMEDAD 6356 6363	ascitis
+T155	ENFERMEDAD 6616 6634	lesiones hepáticas
+T156	SANITARIO-PROFESION 555 582	médico de Atención Primaria

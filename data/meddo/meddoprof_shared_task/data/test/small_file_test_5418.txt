@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+permanece	O
+asintomático	O
+,	O
+con	O
+una	O
+analítica	O
+anodina	O
+y	O
+en	O
+la	O
+evaluación	O
+destaca	O
+la	O
+estabilidad	O
+de	O
+las	O
+lesiones	O
+pulmonares	O
+.	O

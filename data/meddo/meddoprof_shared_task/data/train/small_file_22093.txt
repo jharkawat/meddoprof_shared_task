@@ -1,0 +1,19 @@
+
+A	O
+las	O
+14	O
+:	O
+30	O
+me	O
+levanto	O
+para	O
+comer	O
+y	O
+a	O
+las	O
+16	O
+estoy	O
+de	O
+nuevo	O
+estudiando	O
+.	O

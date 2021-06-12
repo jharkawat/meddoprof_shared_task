@@ -1,0 +1,10 @@
+
+Discurso	O
+coherente	O
+,	O
+elevado	O
+en	O
+tono	O
+y	O
+ritmo	O
+.	O

@@ -1,0 +1,12 @@
+
+El	O
+diagnostico	O
+final	O
+es	O
+de	O
+insuficiencia	O
+suprarrenal	O
+por	O
+apoplejía	O
+hipofisiaria	O
+.	O

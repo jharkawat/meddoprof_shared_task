@@ -1,0 +1,11 @@
+
+DLCO	O
+100	O
+%	O
+(	O
+dentro	O
+de	O
+la	O
+normalidad	O
+)	O
+.	O

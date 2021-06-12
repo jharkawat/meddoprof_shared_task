@@ -1,0 +1,17 @@
+
+Constantes	O
+:	O
+TA	O
+119	O
+/	O
+99	O
+mmHg	O
+,	O
+FC	O
+100	O
+lpm	O
+,	O
+SatO2	O
+99	O
+%	O
+.	O

@@ -1,0 +1,20 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+mano	O
+derecha	O
+no	O
+se	O
+objetivaron	O
+lesiones	O
+ocupantes	O
+de	O
+espacio	O
+ni	O
+datos	O
+radiológicos	O
+de	O
+osteomielitis	O
+.	O

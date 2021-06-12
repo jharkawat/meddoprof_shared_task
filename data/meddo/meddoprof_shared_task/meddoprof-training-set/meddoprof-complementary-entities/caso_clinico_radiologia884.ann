@@ -1,0 +1,26 @@
+T1	SINTOMA 29 32	tos
+T2	SINTOMA 35 41	fiebre
+T3	SINTOMA 78 81	tos
+T4	SINTOMA 101 114	conjuntivitis
+T5	SINTOMA 117 125	rinorrea
+T6	SINTOMA 308 324	dolor de espalda
+T7	SINTOMA 338 344	fiebre
+T8	SINTOMA 730 736	roncus
+T9	PROCEDIMIENTO 542 555	Examen físico
+T10	PROCEDIMIENTO 771 791	Radiografía de tórax
+T11	NEG 82 85	sin
+T12	NSCO 86 99	expectoración
+T13	NEG 187 189	no
+T14	NSCO 190 210	consultó a un médico
+T15	NEG 413 415	No
+T16	NSCO 416 448	realiza actividad física regular
+T17	UNC 1372 1386	compatible con
+T18	USCO 1387 1395	neumonía
+T19	FARMACO 235 246	paracetamol
+T20	ORG_VIVO 204 210	médico
+T21	ORG_VIVO 479 486	docente
+T22	ENFERMEDAD 101 114	conjuntivitis
+T23	ENFERMEDAD 180 185	gripe
+T24	ENFERMEDAD 1387 1395	neumonía
+T25	SANITARIO-PROFESION 204 210	médico
+T26	PACIENTE-PROFESION 479 501	docente en una escuela

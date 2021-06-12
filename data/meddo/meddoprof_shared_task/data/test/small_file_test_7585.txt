@@ -1,0 +1,21 @@
+
+Tras	O
+finalizar	O
+la	O
+quimioterapia	O
+,	O
+la	O
+paciente	O
+comienza	O
+revisiones	O
+periódicas	O
+sin	O
+mostrar	O
+alteraciones	O
+desde	O
+noviembre	O
+2013	O
+a	O
+enero	O
+2017	O
+.	O

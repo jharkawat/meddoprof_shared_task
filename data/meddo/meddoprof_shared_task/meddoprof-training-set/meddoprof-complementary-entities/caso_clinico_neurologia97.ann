@@ -1,0 +1,68 @@
+T1	SINTOMA 185 212	cefalea intensa holocraneal
+T2	SINTOMA 378 387	orientado
+T3	SINTOMA 389 396	cefalea
+T4	SINTOMA 420 441	focalidad neurológica
+T5	SINTOMA 446 461	rigidez de nuca
+T6	PROCEDIMIENTO 327 348	maniobras de Valsalva
+T7	PROCEDIMIENTO 352 365	Examen físico
+T8	PROCEDIMIENTO 463 475	Fondo de ojo
+T9	PROCEDIMIENTO 525 534	hemograma
+T10	PROCEDIMIENTO 536 558	estudio de coagulación
+T11	PROCEDIMIENTO 609 633	Estudio de autoinmunidad
+T12	PROCEDIMIENTO 711 733	Estudio de trombofilia
+T13	PROCEDIMIENTO 760 778	Electrocardiograma
+T14	PROCEDIMIENTO 797 834	Tomografía computarizada (TC) craneal
+T15	PROCEDIMIENTO 1018 1050	Tomografía computarizada craneal
+T16	PROCEDIMIENTO 1130 1147	Angio-TC cerebral
+T17	PROCEDIMIENTO 1169 1191	Arteriografía cerebral
+T18	PROCEDIMIENTO 1439 1441	TC
+T19	PROCEDIMIENTO 1587 1604	Angio-RM cerebral
+T20	PROCEDIMIENTO 1649 1666	Angio-RM cerebral
+T21	PROCEDIMIENTO 2059 2068	analgesia
+T22	PROCEDIMIENTO 2110 2123	arteriografía
+T23	PROCEDIMIENTO 2211 2240	drenaje venoso peritrombótico
+T24	PROCEDIMIENTO 2398 2419	maniobras de Valsalva
+T25	PROCEDIMIENTO 2680 2706	tratamiento anticoagulante
+T26	NEG 27 30	sin
+T27	NSCO 31 73	antecedentes médico-quirúrgicos de interés
+T28	NEG 406 409	sin
+T29	NSCO 410 441	signos de focalidad neurológica
+T30	NEG 443 445	No
+T31	NSCO 446 461	rigidez de nuca
+T32	NEG 589 592	sin
+T33	NSCO 593 605	alteraciones
+T34	NEG 634 637	sin
+T35	NSCO 638 650	alteraciones
+T36	NEG 1149 1152	sin
+T37	NSCO 1153 1165	alteraciones
+T38	NEG 1193 1196	sin
+T39	NSCO 1197 1280	imágenes sugerentes de aneurismas, malformaciones vasculares o trayectos fistulosos
+T40	UNC 2242 2249	Creemos
+T41	USCO 2250 2444	que el desencadenante de dicha trombosis fue un enlentecimiento de la circulación venosa cerebral en el contexto de esfuerzo físico en relación con maniobras de Valsalva y posible deshidratación
+T42	NEG 2834 2846	asintomático
+T43	FARMACO 1921 1931	nimodipino
+T44	FARMACO 1998 2007	fenitoína
+T45	ORG_VIVO 10 15	Varón
+T46	ORG_VIVO 2473 2481	paciente
+T47	ORG_VIVO 2825 2833	paciente
+T48	ENFERMEDAD 122 156	crisis tónico-clónica generalizada
+T49	ENFERMEDAD 722 733	trombofilia
+T50	ENFERMEDAD 844 926	hemorragia subaracnoidea a nivel de los surcos de la convexidad parietal posterior
+T51	ENFERMEDAD 1052 1126	hemorragia subaracnoidea en los surcos de la convexidad parietal posterior
+T52	ENFERMEDAD 1220 1230	aneurismas
+T53	ENFERMEDAD 1232 1257	malformaciones vasculares
+T54	ENFERMEDAD 1328 1373	estasis del drenaje venoso parietal posterior
+T55	ENFERMEDAD 1456 1507	trombosis incompleta del seno longitudinal superior
+T56	ENFERMEDAD 1631 1647	trombosis venosa
+T57	ENFERMEDAD 1685 1725	trombosis del seno longitudinal superior
+T58	ENFERMEDAD 1740 1764	Hemorragia subaracnoidea
+T59	ENFERMEDAD 1783 1834	trombosis incompleta del seno longitudinal superior
+T60	ENFERMEDAD 2141 2189	trombosis parcial del seno longitudinal superior
+T61	ENFERMEDAD 2281 2290	trombosis
+T62	ENFERMEDAD 2430 2444	deshidratación
+T63	ENFERMEDAD 2503 2539	trombosis por déficit de proteína S.
+T64	ENFERMEDAD 2575 2599	hemorragia subaracnoidea
+T65	ENFERMEDAD 2619 2644	vaso venoso congestionado
+T66	ENFERMEDAD 2659 2668	trombosis
+T67	ENFERMEDAD 2790 2799	trombosis
+T68	PACIENTE-PROFESION 242 263	trabajaba en el campo

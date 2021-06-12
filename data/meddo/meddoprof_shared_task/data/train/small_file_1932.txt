@@ -1,0 +1,20 @@
+
+Actualmente	O
+,	O
+la	O
+clasificación	O
+de	O
+las	O
+sensaciones	O
+que	O
+aparecen	O
+tras	O
+la	O
+amputación	O
+de	O
+una	O
+extremidad2	O
+,	O
+distingue	O
+entre	O
+:	O

@@ -1,0 +1,10 @@
+
+Actualmente	O
+está	O
+desempleado	B-SITUACION_LABORAL
+y	O
+en	B-SITUACION_LABORAL
+condiciones	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+indigencia	I-SITUACION_LABORAL
+.	O

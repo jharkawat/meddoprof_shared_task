@@ -1,0 +1,20 @@
+
+Al	O
+pinchazo	O
+existe	O
+una	O
+hipoestesia	O
+en	O
+a	O
+cara	O
+,	O
+zona	O
+derecha	O
+,	O
+mayor	O
+en	O
+rama	O
+oftálmica	O
+del	O
+trigémino	O
+.	O

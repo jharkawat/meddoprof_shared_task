@@ -1,0 +1,27 @@
+
+Dos	O
+episodios	O
+de	O
+hemorragia	O
+digestiva	O
+alta	O
+en	O
+2015	O
+de	O
+probable	O
+origen	O
+en	O
+intestino	O
+delgado	O
+(	O
+favorecido	O
+por	O
+la	O
+toma	O
+crónica	O
+de	O
+aspirina	O
+y	O
+esteroides	O
+)	O
+.	O

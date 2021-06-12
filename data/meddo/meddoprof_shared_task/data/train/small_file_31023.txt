@@ -1,0 +1,21 @@
+
+La	O
+duración	O
+del	O
+episodio	O
+e	O
+intensidad	O
+de	O
+los	O
+síntomas	O
+cumple	O
+criterios	O
+CIE	O
+10	O
+para	O
+diagnóstico	O
+de	O
+esta	O
+entidad	O
+nosológica	O
+.	O

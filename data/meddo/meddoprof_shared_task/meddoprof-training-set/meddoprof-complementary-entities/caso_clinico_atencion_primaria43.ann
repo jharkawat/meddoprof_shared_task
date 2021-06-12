@@ -1,0 +1,68 @@
+T1	SINTOMA 132 150	molestias oculares
+T2	SINTOMA 270 282	dolor en ojo
+T3	SINTOMA 361 367	fiebre
+T4	SINTOMA 372 395	alteración de la visión
+T5	SINTOMA 400 409	fotofobia
+T6	SINTOMA 692 713	inflamación palpebral
+T7	SINTOMA 780 799	buen estado general
+T8	SINTOMA 895 948	Abdomen blando depresible, no doloroso a la palpación
+T9	SINTOMA 977 998	hiperemia conjuntival
+T10	SINTOMA 1001 1031	edema en ambos párpados de ojo
+T11	SINTOMA 1854 1862	diplopía
+T12	SINTOMA 1865 1872	cefalea
+T13	SINTOMA 1930 1965	edema palpebral superior e inferior
+T14	SINTOMA 1985 2006	hiperemia conjuntival
+T15	SINTOMA 2033 2043	exoftalmos
+T16	PROCEDIMIENTO 859 886	Auscultación cardiopulmonar
+T17	PROCEDIMIENTO 1091 1103	Fondo de ojo
+T18	PROCEDIMIENTO 1272 1291	antibioterapia oral
+T19	PROCEDIMIENTO 1346 1355	analgesia
+T20	PROCEDIMIENTO 2636 2647	TAC craneal
+T21	PROCEDIMIENTO 2764 2799	tratamiento corticoideo intravenoso
+T22	PROCEDIMIENTO 2852 2861	hemograma
+T23	NEG 358 360	No
+T24	NSCO 361 367	fiebre
+T25	NEG 369 371	no
+T26	NSCO 372 395	alteración de la visión
+T27	NEG 397 399	no
+T28	NSCO 400 409	fotofobia
+T29	UNC 611 618	posible
+T30	USCO 619 632	conjuntivitis
+T31	NEG 922 924	no
+T32	NSCO 925 948	doloroso a la palpación
+T33	NEG 1223 1231	negativo
+T34	NEG 1245 1253	falta de
+T35	NSCO 1254 1261	mejoría
+T36	UNC 1315 1322	posible
+T37	USCO 1323 1343	blefaroconjuntivitis
+T38	NEG 1509 1520	ausencia de
+T39	NSCO 1521 1543	alivio de los síntomas
+T40	NEG 1755 1757	no
+T41	NSCO 1758 1777	se mejora el cuadro
+T42	NEG 1874 1876	No
+T43	NSCO 1877 1898	otra clínica asociada
+T44	FARMACO 582 593	tobramicina
+T45	ORG_VIVO 77 81	niña
+T46	ORG_VIVO 103 108	madre
+T47	ORG_VIVO 248 256	Paciente
+T48	ORG_VIVO 536 547	oftalmólogo
+T49	ORG_VIVO 762 770	paciente
+T50	ORG_VIVO 1573 1593	Residente de Familia
+T51	ORG_VIVO 1712 1739	médico de atención primaria
+T52	ORG_VIVO 2080 2088	familiar
+T53	ORG_VIVO 2106 2113	familia
+T54	ORG_VIVO 2276 2284	paciente
+T55	ORG_VIVO 2353 2361	paciente
+T56	ENFERMEDAD 619 632	conjuntivitis
+T57	ENFERMEDAD 1323 1343	blefaroconjuntivitis
+T58	ENFERMEDAD 1854 1862	diplopía
+T59	ENFERMEDAD 2033 2043	exoftalmos
+T60	ENFERMEDAD 2374 2395	pseudotumor orbitario
+T61	ENFERMEDAD 2444 2464	blefaroconjuntivitis
+T62	ENFERMEDAD 2466 2485	celulitis preseptal
+T63	ENFERMEDAD 2487 2504	absceso orbitario
+T64	ENFERMEDAD 2697 2718	Pseudotumor Orbitario
+T65	SANITARIO-PROFESION 1712 1739	médico de atención primaria
+T66	SANITARIO-PROFESION 536 547	oftalmólogo
+T67	SANITARIO-PROFESION 1573 1593	Residente de Familia
+T68	SANITARIO-PROFESION 1623 1644	adjunto de referencia

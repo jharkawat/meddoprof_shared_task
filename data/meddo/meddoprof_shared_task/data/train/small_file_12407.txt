@@ -1,0 +1,17 @@
+
+La	O
+semana	O
+previa	O
+al	O
+ingreso	O
+recibió	O
+antibioterapia	O
+con	O
+espiramicina	O
+y	O
+metronidazol	O
+por	O
+una	O
+infección	O
+dental	O
+.	O

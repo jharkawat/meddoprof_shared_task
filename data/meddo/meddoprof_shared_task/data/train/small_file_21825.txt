@@ -1,0 +1,24 @@
+
+Es	O
+el	O
+tercero	O
+de	O
+cuatro	O
+hermanos	O
+(	O
+varón	O
+3	O
+años	O
+mayor	O
+,	O
+mujer	O
+1	O
+año	O
+mayor	O
+y	O
+varón	O
+3	O
+años	O
+menor	O
+)	O
+.	O

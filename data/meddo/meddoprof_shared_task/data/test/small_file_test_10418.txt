@@ -1,0 +1,24 @@
+
+Se	O
+suspende	O
+el	O
+tratamiento	O
+a	O
+petición	O
+de	O
+la	O
+paciente	O
+por	O
+mala	O
+tolerancia	O
+psicológica	O
+e	O
+inicia	O
+seguimiento	O
+por	O
+parte	O
+de	O
+Oncología	O
+y	O
+Dermatología	O
+.	O

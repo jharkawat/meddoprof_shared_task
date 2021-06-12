@@ -1,0 +1,21 @@
+
+Presencia	O
+de	O
+diarrea	O
+acuosa	O
+en	O
+evacuaciones	O
+de	O
+6	O
+por	O
+día	O
+acompañada	O
+de	O
+dolor	O
+tipo	O
+cólico	O
+,	O
+naúseas	O
+y	O
+vómito	O
+.	O

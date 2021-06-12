@@ -1,0 +1,5 @@
+
+Trabaja	O
+como	O
+enfermera	B-PROFESION
+.	O

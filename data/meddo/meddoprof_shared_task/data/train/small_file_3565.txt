@@ -1,0 +1,17 @@
+
+El	O
+curso	O
+de	O
+la	O
+clínica	O
+se	O
+prolongó	O
+de	O
+9	O
+a	O
+10	O
+meses	O
+hasta	O
+remisión	O
+espontánea	O
+.	O

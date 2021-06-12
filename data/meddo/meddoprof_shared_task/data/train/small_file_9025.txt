@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+se	O
+mantuvo	O
+estable	O
+durante	O
+su	O
+ingreso	O
+en	O
+la	O
+planta	O
+de	O
+Neurología	O
+.	O

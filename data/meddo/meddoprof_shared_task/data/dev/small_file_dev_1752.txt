@@ -1,0 +1,10 @@
+
+Abuelo	O
+materno	O
+,	O
+tumor	O
+cerebral	O
+con	O
+alteraciones	O
+conductuales	O
+.	O

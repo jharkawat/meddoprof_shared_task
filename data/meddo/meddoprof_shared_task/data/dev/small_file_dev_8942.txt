@@ -1,0 +1,22 @@
+
+Fumador	O
+activo	O
+de	O
+1	O
+paq	O
+/	O
+día	O
+desde	O
+los	O
+12	O
+años	O
+y	O
+bebedor	O
+habitual	O
+de	O
+cerveza	O
+y	O
+ocasional	O
+de	O
+ginebra	O
+.	O

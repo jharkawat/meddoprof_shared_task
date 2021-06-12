@@ -1,0 +1,25 @@
+
+Inicialmente	O
+se	O
+planteó	O
+el	O
+diagnóstico	O
+diferencial	O
+entre	O
+un	O
+trastorno	O
+psicótico	O
+de	O
+debut	O
+o	O
+trastorno	O
+disociativo	O
+,	O
+a	O
+descartar	O
+posible	O
+inducción	O
+del	O
+tratamiento	O
+hormonal	O
+.	O

@@ -1,0 +1,22 @@
+
+Se	O
+diagnostica	O
+de	O
+una	O
+esquizofrenia	O
+paranoide	O
+y	O
+mantiene	O
+seguimientos	O
+regulares	O
+en	O
+la	O
+USMC	O
+,	O
+aunque	O
+con	O
+una	O
+dudosa	O
+adhesión	O
+terapéutica	O
+.	O

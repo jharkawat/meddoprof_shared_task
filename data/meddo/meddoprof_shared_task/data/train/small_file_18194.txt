@@ -1,0 +1,25 @@
+
+Columna	O
+cervical	O
+con	O
+presencia	O
+de	O
+infiltrado	O
+hemorrágico	O
+a	O
+nivel	O
+de	O
+la	O
+3ra	O
+vértebra	O
+cervical	O
+y	O
+movilidad	O
+anormal	O
+de	O
+la	O
+columna	O
+a	O
+ese	O
+nivel	O
+.	O

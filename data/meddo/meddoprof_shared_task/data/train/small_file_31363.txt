@@ -1,0 +1,18 @@
+
+Como	O
+hallazgos	O
+únicamente	O
+destacan	O
+:	O
+colesterol	O
+243	O
+mg	O
+/	O
+dl	O
+y	O
+LDL	O
+167	O
+mg	O
+/	O
+dl	O
+.	O

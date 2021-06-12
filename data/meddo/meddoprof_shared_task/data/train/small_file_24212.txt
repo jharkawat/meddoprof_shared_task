@@ -1,0 +1,6 @@
+
+Tiene	O
+dos	O
+hermanos	O
+mayores	O
+.	O

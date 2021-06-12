@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+comenzó	O
+tratamiento	O
+con	O
+haloperidol	O
+que	O
+mantuvo	O
+ambulatoriamente	O
+.	O

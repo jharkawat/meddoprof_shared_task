@@ -1,0 +1,26 @@
+
+Durante	O
+su	O
+estancia	O
+en	O
+la	O
+planta	O
+la	O
+paciente	O
+presenta	O
+una	O
+mejoría	O
+progresiva	O
+del	O
+déficit	O
+campimétrico	O
+,	O
+hasta	O
+quedar	O
+asintomática	O
+en	O
+el	O
+momento	O
+del	O
+alta	O
+.	O

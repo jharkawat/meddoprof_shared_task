@@ -1,0 +1,12 @@
+
+De	O
+profesión	O
+manipuladora	B-PROFESION
+de	I-PROFESION
+rosquilletas	I-PROFESION
+(	O
+las	O
+estira	O
+manualmente	O
+)	O
+.	O

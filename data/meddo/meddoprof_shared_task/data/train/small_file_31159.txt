@@ -1,0 +1,15 @@
+
+No	O
+se	O
+puede	O
+explorar	O
+el	O
+estado	O
+de	O
+ánimo	O
+ni	O
+alteraciones	O
+de	O
+la	O
+sensopercepción	O
+.	O

@@ -1,0 +1,12 @@
+
+Rabdomioma	O
+cardiaco	O
+en	O
+la	O
+infancia	O
+intervenido	O
+que	O
+no	O
+se	O
+encontró	O
+.	O

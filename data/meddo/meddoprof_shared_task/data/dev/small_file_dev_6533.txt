@@ -1,0 +1,26 @@
+
+El	O
+diagnóstico	O
+de	O
+brucelosis	O
+se	O
+realiza	O
+con	O
+un	O
+cultivo	O
+positivo	O
+del	O
+microorganismo	O
+en	O
+cualquier	O
+tipo	O
+de	O
+muestra	O
+o	O
+por	O
+la	O
+medición	O
+de	O
+aglutininas	O
+brucelares	O
+.	O

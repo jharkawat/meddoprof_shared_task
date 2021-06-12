@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+había	O
+verbalizado	O
+a	O
+su	O
+psiquiatra	B-PROFESION
+de	O
+referencia	O
+ideas	O
+de	O
+muerte	O
+e	O
+ideación	O
+autolítica	O
+.	O

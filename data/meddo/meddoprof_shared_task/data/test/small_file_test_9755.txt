@@ -1,0 +1,26 @@
+
+Dada	O
+la	O
+elevada	O
+quimiosensibiidad	O
+del	O
+tumor	O
+y	O
+la	O
+ausencia	O
+de	O
+toxicidades	O
+significativas	O
+,	O
+se	O
+prosigue	O
+en	O
+la	O
+actualidad	O
+con	O
+la	O
+quimioterapia	O
+de	O
+segunda	O
+línea	O
+.	O

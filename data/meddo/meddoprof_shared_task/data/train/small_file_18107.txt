@@ -1,0 +1,27 @@
+
+Debido	O
+al	O
+grado	O
+de	O
+estenosis	O
+que	O
+la	O
+paciente	O
+presentaba	O
+,	O
+el	O
+Servicio	O
+de	O
+Cirugía	O
+Vascular	O
+decide	O
+intervenirla	O
+y	O
+realiza	O
+una	O
+cirugía	O
+de	O
+revascularización	O
+mediante	O
+bypass	O
+.	O

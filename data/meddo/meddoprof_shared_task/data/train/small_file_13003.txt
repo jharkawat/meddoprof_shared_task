@@ -1,0 +1,9 @@
+
+Ruidos	O
+hidroaéreos	O
+presentes	O
+y	O
+normales	O
+en	O
+intensidad	O
+.	O

@@ -1,0 +1,19 @@
+
+-	O
+Fasciola	O
+hepatica	O
+,	O
+la	O
+infección	O
+se	O
+adquiere	O
+debido	O
+a	O
+ingesta	O
+de	O
+vegetales	O
+crudos	O
+o	O
+agua	O
+contaminados	O
+.	O

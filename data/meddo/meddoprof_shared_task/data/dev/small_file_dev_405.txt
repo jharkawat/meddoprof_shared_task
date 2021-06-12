@@ -1,0 +1,9 @@
+
+Mantiene	O
+escaso	O
+contacto	O
+ocular	O
+con	O
+su	O
+interlocutor	O
+.	O

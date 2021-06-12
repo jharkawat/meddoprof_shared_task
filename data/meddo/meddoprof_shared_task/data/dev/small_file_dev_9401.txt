@@ -1,0 +1,10 @@
+
+Saturación	O
+e	O
+oxígeno	O
+(	O
+SatO2	O
+)	O
+100	O
+%	O
+.	O

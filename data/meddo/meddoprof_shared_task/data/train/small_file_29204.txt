@@ -1,0 +1,19 @@
+
+Durante	O
+este	O
+ingreso	O
+se	O
+mantiene	O
+el	O
+tratamiento	O
+con	O
+aripiprazol	O
+30	O
+mg	O
+dado	O
+lo	O
+reciente	O
+de	O
+su	O
+inicio	O
+.	O

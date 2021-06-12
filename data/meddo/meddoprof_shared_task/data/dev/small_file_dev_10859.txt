@@ -1,0 +1,9 @@
+
+Radiografía	O
+de	O
+tórax	O
+con	O
+infiltrados	O
+pulmonares	O
+bilaterales	O
+.	O

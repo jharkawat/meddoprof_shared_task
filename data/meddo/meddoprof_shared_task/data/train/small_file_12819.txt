@@ -1,0 +1,27 @@
+
+Ha	O
+tenido	O
+alguna	O
+intoxicación	O
+por	O
+cocaína	O
+que	O
+ha	O
+requerido	O
+ingreso	O
+en	O
+psiquiatría	O
+y	O
+en	O
+UCI	O
+,	O
+la	O
+última	O
+de	O
+ellas	O
+hace	O
+un	O
+an	O
+̃	O
+o	O
+.	O

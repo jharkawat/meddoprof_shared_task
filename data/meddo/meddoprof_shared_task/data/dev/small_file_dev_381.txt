@@ -1,0 +1,27 @@
+
+En	O
+ese	O
+primer	O
+momento	O
+,	O
+realizaba	O
+una	O
+crítica	O
+parcial	O
+de	O
+esta	O
+sintomatología	O
+y	O
+no	O
+se	O
+objetivaba	O
+una	O
+importante	O
+repercusión	O
+emocional	O
+ni	O
+conductual	O
+de	O
+la	O
+misma	O
+.	O

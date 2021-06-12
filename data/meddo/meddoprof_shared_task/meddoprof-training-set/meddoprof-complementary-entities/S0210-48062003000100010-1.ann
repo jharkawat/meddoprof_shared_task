@@ -1,0 +1,84 @@
+T1	SINTOMA 391 398	fumador
+T2	SINTOMA 1181 1192	polaquiuria
+T3	SINTOMA 1256 1273	escozor miccional
+T4	SINTOMA 1276 1283	tenesmo
+T5	SINTOMA 1288 1297	hematuria
+T6	SINTOMA 2944 2961	clínica miccional
+T7	SINTOMA 3722 3744	jalvarolopez@gmail.com
+T8	PROCEDIMIENTO 454 491	tratamiento con antidiabéticos orales
+T9	PROCEDIMIENTO 837 858	RTU del tumor vesical
+T10	PROCEDIMIENTO 945 948	RTU
+T11	PROCEDIMIENTO 1031 1050	anatomía patológica
+T12	PROCEDIMIENTO 1158 1171	sonda vesical
+T13	PROCEDIMIENTO 1335 1351	cultivo de orina
+T14	PROCEDIMIENTO 1370 1393	tratamiento antibiótico
+T15	PROCEDIMIENTO 1447 1465	citología de orina
+T16	PROCEDIMIENTO 1588 1591	RTU
+T17	PROCEDIMIENTO 1612 1644	exploración visual y endoscópica
+T18	PROCEDIMIENTO 1649 1665	cultivo de orina
+T19	PROCEDIMIENTO 1768 1794	exploración bajo anestesia
+T20	PROCEDIMIENTO 2084 2095	RTU vesical
+T21	PROCEDIMIENTO 3225 3243	citología de orina
+T22	PROCEDIMIENTO 3537 3556	derivación urinaria
+T23	PROCEDIMIENTO 3558 3589	ureterosigmoidostomía bilateral
+T24	PROCEDIMIENTO 3609 3620	cistectomía
+T25	NEG 998 1009	ausencia de
+T26	NSCO 1010 1026	restos tumorales
+T27	NEG 1147 1154	retirar
+T28	NSCO 1155 1171	la sonda vesical
+T29	NEG 1284 1287	sin
+T30	NSCO 1288 1297	hematuria
+T31	NEG 1331 1334	sin
+T32	NSCO 1335 1358	cultivo de orina previo
+T33	NEG 1414 1416	no
+T34	NSCO 1417 1442	mejoran la sintomatología
+T35	NEG 1501 1509	negativa
+T36	NEG 1592 1605	descartándose
+T37	NSCO 1606 1644	en la exploración visual y endoscópica
+T38	NEG 1835 1846	ausencia de
+T39	NSCO 1847 1863	restos tumorales
+T40	NEG 2056 2058	no
+T41	NSCO 2059 2070	cicatrizada
+T42	UNC 2501 2515	compatible con
+T43	USCO 2516 2538	Cistopatía Incrustante
+T44	NSCO 2540 2574	Los cultivos posteriores siguieron
+T45	NEG 2658 2666	negativo
+T46	NEG 2741 2746	Nunca
+T47	NSCO 2747 2788	se identificó Corynebacterium ureoliticum
+T48	NEG 3079 3082	sin
+T49	NSCO 3083 3117	llegar completamente a desaparecer
+T50	NEG 3158 3160	no
+T51	NSCO 3161 3219	hay evidencia de infección urinaria ni de recidiva tumoral
+T52	NEG 3244 3252	negativa
+T53	UNC 3592 3604	posiblemente
+T54	NEG 3605 3608	sin
+T55	NSCO 3609 3620	cistectomía
+T56	FARMACO 1398 1408	quinolonas
+T57	FARMACO 2721 2739	Amoxi/ Clavulánico
+T58	ORG_VIVO 10 18	paciente
+T59	ORG_VIVO 106 108	Dr
+T60	ORG_VIVO 345 350	Varón
+T61	ORG_VIVO 363 370	taxista
+T62	ORG_VIVO 1680 1690	Enterococo
+T63	ORG_VIVO 2178 2186	patólogo
+T64	ORG_VIVO 2594 2610	Enterococcus spp
+T65	ORG_VIVO 2633 2666	Staphylococcus coagulasa negativo
+T66	ORG_VIVO 2761 2788	Corynebacterium ureoliticum
+T67	ORG_VIVO 2844 2856	microbiólogo
+T68	ENFERMEDAD 428 438	hipertenso
+T69	ENFERMEDAD 441 450	diabético
+T70	ENFERMEDAD 505 539	litiasis renoureteral oxalocálcica
+T71	ENFERMEDAD 557 572	cólicos renales
+T72	ENFERMEDAD 618 656	hematuria monosintomática con coágulos
+T73	ENFERMEDAD 679 757	neoformación vesical papilar multifocal que ocupa prácticamente toda la vejiga
+T74	ENFERMEDAD 801 820	carcinoma urotelial
+T75	ENFERMEDAD 845 858	tumor vesical
+T76	ENFERMEDAD 1056 1083	carcinoma urotelial papilar
+T77	ENFERMEDAD 1311 1329	infección urinaria
+T78	ENFERMEDAD 1541 1582	estenosis uretral post-inflamatoria aguda
+T79	ENFERMEDAD 1649 1690	cultivo de orina es positivo a Enterococo
+T80	ENFERMEDAD 2516 2538	Cistopatía Incrustante
+T81	ENFERMEDAD 3178 3196	infección urinaria
+T82	ENFERMEDAD 3338 3358	uropatía obstructiva
+T83	SANITARIO-PROFESION 295 301	Médico
+T84	PACIENTE-PROFESION 363 370	taxista

@@ -1,0 +1,11 @@
+
+No	O
+se	O
+detectó	O
+consumo	O
+de	O
+sustancias	O
+en	O
+tres	O
+meses	O
+.	O

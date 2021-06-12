@@ -1,0 +1,11 @@
+
+26	O
+.	O
+30	O
+pg	O
+;	O
+Plaquetas	O
+490000	O
+/	O
+mm3	O
+.	O

@@ -1,0 +1,26 @@
+
+También	O
+había	O
+observado	O
+tics	O
+que	O
+incluían	O
+la	O
+nariz	O
+y	O
+cuello	O
+,	O
+y	O
+que	O
+el	O
+paciente	O
+tenía	O
+"	O
+desde	O
+siempre	O
+"	O
+un	O
+tic	O
+de	O
+carraspeo	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+hipertensión	O
+arterial	O
+,	O
+dislipemia	O
+ni	O
+diabetes	O
+mellitus	O
+conocidas	O
+.	O

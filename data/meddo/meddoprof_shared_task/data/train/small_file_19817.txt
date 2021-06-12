@@ -1,0 +1,7 @@
+
+No	O
+se	O
+objetivan	O
+trastornos	O
+sensoperceptivos	O
+.	O

@@ -1,0 +1,26 @@
+
+Radiografía	O
+de	O
+tórax	O
+:	O
+se	O
+pueden	O
+observar	O
+todos	O
+los	O
+sistemas	O
+retenidos	O
+previos	O
+a	O
+la	O
+cirugía	O
+,	O
+así	O
+como	O
+el	O
+marcapasos	O
+de	O
+inserción	O
+femoral	O
+funcionante	O
+.	O

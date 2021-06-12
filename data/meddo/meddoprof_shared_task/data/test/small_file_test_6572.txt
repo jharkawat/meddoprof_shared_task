@@ -1,0 +1,11 @@
+
+No	O
+tiene	O
+otros	O
+antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+de	O
+interés	O
+.	O

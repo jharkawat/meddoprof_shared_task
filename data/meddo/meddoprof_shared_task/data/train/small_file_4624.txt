@@ -1,0 +1,15 @@
+
+No	O
+acudió	O
+a	O
+citación	O
+en	O
+la	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+por	O
+propia	O
+voluntad	O
+.	O

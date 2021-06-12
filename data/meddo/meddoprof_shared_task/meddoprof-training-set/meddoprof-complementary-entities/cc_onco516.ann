@@ -1,0 +1,54 @@
+T1	SINTOMA 523 533	Consciente
+T2	SINTOMA 535 544	orientada
+T3	SINTOMA 547 559	colaboradora
+T4	SINTOMA 577 591	normocoloreada
+T5	SINTOMA 3039 3045	emesis
+T6	PROCEDIMIENTO 422 436	antibioterapia
+T7	PROCEDIMIENTO 496 514	Exploración física
+T8	PROCEDIMIENTO 700 713	examen físico
+T9	PROCEDIMIENTO 779 797	ecografía cervical
+T10	PROCEDIMIENTO 1109 1124	nasofibroscopia
+T11	PROCEDIMIENTO 1254 1287	microcirugía laríngea diagnóstica
+T12	PROCEDIMIENTO 1300 1307	biopsia
+T13	PROCEDIMIENTO 1388 1406	inmunohistoquímica
+T14	PROCEDIMIENTO 1554 1565	TC cervical
+T15	PROCEDIMIENTO 1580 1591	TC torácica
+T16	PROCEDIMIENTO 2108 2143	laringectomía parcial con láser CO2
+T17	PROCEDIMIENTO 2146 2175	vaciamiento funcional derecho
+T18	PROCEDIMIENTO 2549 2571	vaciamiento ganglionar
+T19	PROCEDIMIENTO 2749 2778	tratamiento con quimioterapia
+T20	PROCEDIMIENTO 2866 2886	radioterapia externa
+T21	PROCEDIMIENTO 3149 3175	TC cérvico-toracoabdominal
+T22	NEG 397 408	ausencia de
+T23	NSCO 409 436	mejoría tras antibioterapia
+T24	UNC 914 929	compatibles con
+T25	USCO 930 953	adenopatías patológicas
+T26	NEG 1502 1510	negativo
+T27	NEG 2037 2048	ausencia de
+T28	NSCO 2049 2071	enfermedad a distancia
+T29	NEG 2176 2179	sin
+T30	NSCO 2180 2212	incidencias en el postoperatorio
+T31	NEG 2473 2476	sin
+T32	NSCO 2477 2530	identificarse permeación perineural con bordes libres
+T33	NEG 2705 2708	sin
+T34	NSCO 2709 2729	extensión extranodal
+T35	NEG 3221 3223	no
+T36	NSCO 3224 3263	se evidencia recaída local ni sistémica
+T37	NEG 3317 3320	sin
+T38	NSCO 3321 3339	toxicidad residual
+T39	FARMACO 2789 2799	cisplatino
+T40	ORG_VIVO 10 15	Mujer
+T41	ORG_VIVO 361 388	médico de Atención Primaria
+T42	ENFERMEDAD 47 57	exfumadora
+T43	ENFERMEDAD 141 171	fractura quística de astrágalo
+T44	ENFERMEDAD 930 953	adenopatías patológicas
+T45	ENFERMEDAD 1142 1211	lesión sobreelevada de 1cm en parte posterior de la banda ventricular
+T46	ENFERMEDAD 1325 1334	carcinoma
+T47	ENFERMEDAD 1879 1948	carcinoma neuroendocrino de células pequeñas (microcítico) de laringe
+T48	ENFERMEDAD 2253 2297	carcinoma neuroendocrino de células pequeñas
+T49	ENFERMEDAD 2299 2310	microcítico
+T50	ENFERMEDAD 2316 2351	ulceración superficial de la mucosa
+T51	ENFERMEDAD 2578 2588	metástasis
+T52	ENFERMEDAD 2646 2690	Carcinoma neuroendocrino de células pequeñas
+T53	ENFERMEDAD 3003 3033	mucositis G2 con radiodermitis
+T54	SANITARIO-PROFESION 361 388	médico de Atención Primaria

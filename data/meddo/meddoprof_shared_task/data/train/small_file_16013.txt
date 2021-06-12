@@ -1,0 +1,9 @@
+
+No	O
+elevación	O
+del	O
+velo	O
+del	O
+paladar	O
+izquierdo	O
+.	O

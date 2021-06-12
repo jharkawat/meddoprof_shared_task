@@ -1,0 +1,21 @@
+
+El	O
+padre	O
+había	O
+abandonado	O
+a	O
+la	O
+familia	O
+antes	O
+de	O
+que	O
+Raquel	O
+naciera	O
+y	O
+esta	O
+no	O
+lo	O
+había	O
+visto	O
+nunca	O
+.	O

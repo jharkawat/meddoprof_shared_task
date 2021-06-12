@@ -1,0 +1,12 @@
+
+Claudicación	O
+de	O
+la	O
+extremidad	O
+inferior	O
+izquierda	O
+en	O
+marcha	O
+en	O
+puntillas	O
+.	O

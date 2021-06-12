@@ -1,0 +1,17 @@
+
+La	O
+ausencia	O
+de	O
+sintomatología	O
+específica	O
+de	O
+las	O
+primeras	O
+causas	O
+hace	O
+más	O
+probable	O
+el	O
+origen	O
+parasitario	O
+.	O

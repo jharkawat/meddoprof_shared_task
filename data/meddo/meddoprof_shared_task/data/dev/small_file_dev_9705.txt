@@ -1,0 +1,8 @@
+
+No	O
+se	O
+realizó	O
+biopsia	O
+cutánea	O
+.	O
+?	O

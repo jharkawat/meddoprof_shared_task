@@ -1,0 +1,26 @@
+
+Actualmente	O
+tiene	O
+una	O
+relación	O
+estable	O
+con	O
+una	O
+mujer	O
+de	O
+30	O
+años	O
+,	O
+desde	O
+hace	O
+5	O
+meses	O
+,	O
+con	O
+2	O
+años	O
+previos	O
+de	O
+encuentros	O
+esporádicos	O
+.	O

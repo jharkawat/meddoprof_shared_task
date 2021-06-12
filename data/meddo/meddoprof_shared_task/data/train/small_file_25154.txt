@@ -1,0 +1,22 @@
+
+La	O
+madre	O
+destaca	O
+el	O
+progresivo	O
+aislamiento	O
+y	O
+apatía	O
+de	O
+su	O
+hijo	O
+,	O
+así	O
+como	O
+la	O
+sensación	O
+de	O
+tristeza	O
+y	O
+embotamiento	O
+.	O

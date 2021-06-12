@@ -1,0 +1,15 @@
+
+Correo	O
+electrónico	O
+:	O
+gcnavarro	O
+@	O
+yahoo	O
+.	O
+com	O
+/	O
+gcnavarro	O
+@	O
+hotmail	O
+.	O
+com	O

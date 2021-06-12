@@ -1,0 +1,12 @@
+
+No	O
+presenta	O
+adenopatías	O
+ni	O
+lesiones	O
+en	O
+la	O
+piel	O
+ni	O
+mucosas	O
+.	O

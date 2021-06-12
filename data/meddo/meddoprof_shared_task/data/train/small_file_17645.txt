@@ -1,0 +1,25 @@
+
+Durante	O
+el	O
+ingreso	O
+,	O
+gracias	O
+a	O
+la	O
+instauración	O
+de	O
+tratamiento	O
+sintomático	O
+,	O
+antibiótico	O
+y	O
+corticoterapia	O
+,	O
+la	O
+cefalea	O
+mejoró	O
+y	O
+la	O
+diplopía	O
+desapareció	O
+.	O

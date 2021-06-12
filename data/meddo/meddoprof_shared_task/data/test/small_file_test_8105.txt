@@ -1,0 +1,6 @@
+
+Sin	O
+otras	O
+masas	O
+palpables	O
+.	O

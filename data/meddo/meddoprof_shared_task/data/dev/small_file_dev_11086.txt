@@ -1,0 +1,9 @@
+
+Erupción	O
+o	O
+ulcera	O
+(	O
+lesión	O
+)	O
+cutánea	O
+.	O

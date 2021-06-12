@@ -1,0 +1,25 @@
+
+Tras	O
+el	O
+inicio	O
+del	O
+tratamiento	O
+,	O
+la	O
+paciente	O
+mejoró	O
+paulatinamente	O
+su	O
+estado	O
+general	O
+,	O
+actualmente	O
+se	O
+encuentra	O
+sana	O
+y	O
+sin	O
+secuelas	O
+del	O
+episodio	O
+.	O

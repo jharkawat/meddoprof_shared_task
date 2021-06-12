@@ -1,0 +1,148 @@
+T1	SINTOMA 500 522	sintomatología ansiosa
+T2	SINTOMA 665 678	fallecimiento
+T3	SINTOMA 850 872	pensamientos obsesivos
+T4	SINTOMA 1795 1804	fallecido
+T5	SINTOMA 2367 2397	disminución del estado anímico
+T6	SINTOMA 2412 2418	llanto
+T7	SINTOMA 2421 2446	pensamientos relacionados
+T8	SINTOMA 3569 3579	Consciente
+T9	SINTOMA 3582 3591	orientada
+T10	SINTOMA 3599 3615	alopsíquicamente
+T11	SINTOMA 4030 4038	tristeza
+T12	SINTOMA 4044 4050	llanto
+T13	SINTOMA 4056 4069	irritabilidad
+T14	SINTOMA 4165 4199	alteraciones de la psicomotricidad
+T15	SINTOMA 4464 4485	compulsividad/rigidez
+T16	SINTOMA 5034 5055	excesiva familiaridad
+T17	SINTOMA 5214 5219	ahogo
+T18	SINTOMA 5221 5234	palpitaciones
+T19	SINTOMA 5427 5440	incontinencia
+T20	SINTOMA 5634 5658	Persiste conducta pueril
+T21	SINTOMA 5667 5684	risas inmotivadas
+T22	SINTOMA 5727 5733	fiebre
+T23	SINTOMA 5787 5804	discurso inconexo
+T24	SINTOMA 5826 5831	risas
+T25	SINTOMA 5833 5841	insultos
+T26	SINTOMA 5843 5856	tics faciales
+T27	SINTOMA 5858 5874	rigidez muscular
+T28	SINTOMA 6090 6098	insomnio
+T29	SINTOMA 6162 6175	irritabilidad
+T30	SINTOMA 6178 6196	agresividad verbal
+T31	SINTOMA 6286 6292	fiebre
+T32	SINTOMA 6329 6336	eutimia
+T33	PROCEDIMIENTO 740 755	benzodiazepinas
+T34	PROCEDIMIENTO 3460 3478	Exploración física
+T35	PROCEDIMIENTO 3540 3567	Exploración psicopatológica
+T36	NEG 282 284	No
+T37	NSCO 285 288	AMC
+T38	NEG 1023 1026	sin
+T39	NSCO 1027 1039	interrupción
+T40	UNC 1877 1885	Probable
+T41	USCO 1886 1904	trastorno afectivo
+T42	UNC 3405 3412	Posible
+T43	USCO 3413 3431	trastorno afectivo
+T44	NEG 3507 3510	Sin
+T45	NSCO 3511 3538	otros hallazgos destacables
+T46	NEG 3844 3846	No
+T47	NSCO 3847 3880	ideación delirante de ningun tipo
+T48	NEG 3882 3887	Niega
+T49	NSCO 3888 3955	pensamientos de muerte o ideación suicida en el momento del ingreso
+T50	NEG 4161 4164	Sin
+T51	NSCO 4165 4225	alteraciones de la psicomotricidad, ni de la sensopercepción
+T52	NEG 4275 4277	No
+T53	NSCO 4278 4336	alteraciones bioquímicas ni hidroelectrolíticas a destacar
+T54	NEG 4349 4358	negativas
+T55	UNC 4682 4693	Orientación
+T56	UNC 6328 6329	¿
+T57	USCO 6329 6336	eutimia
+T58	UNC 6336 6337	?
+T59	FARMACO 694 704	paroxetina
+T60	FARMACO 716 727	pregabalina
+T61	FARMACO 740 755	benzodiazepinas
+T62	FARMACO 3378 3385	heroína
+T63	FARMACO 3388 3395	cocaína
+T64	FARMACO 4829 4841	Clomipramina
+T65	FARMACO 4888 4912	vitaminas del complejo B
+T66	FARMACO 4913 4923	Clonazepam
+T67	FARMACO 4934 4944	Quetiapina
+T68	FARMACO 5486 5495	valproato
+T69	FARMACO 5516 5528	clomipramina
+T70	FARMACO 5530 5540	Quetiapina
+T71	FARMACO 5916 5926	olanzapina
+T72	FARMACO 5964 5976	clomipramina
+T73	FARMACO 6016 6028	clomipramina
+T74	FARMACO 6053 6062	valproato
+T75	FARMACO 6811 6820	Valproato
+T76	FARMACO 6833 6843	Olanzapina
+T77	ORG_VIVO 16 21	mujer
+T78	ORG_VIVO 136 146	psiquiatra
+T79	ORG_VIVO 198 206	cannabis
+T80	ORG_VIVO 685 692	hermano
+T81	ORG_VIVO 905 915	PERSONALES
+T82	ORG_VIVO 974 982	Cannabis
+T83	ORG_VIVO 1475 1482	hermano
+T84	ORG_VIVO 1718 1725	Hermano
+T85	ORG_VIVO 1867 1875	paciente
+T86	ORG_VIVO 1917 1928	Tio paterno
+T87	ORG_VIVO 2034 2039	Padre
+T88	ORG_VIVO 2107 2118	tía paterna
+T89	ORG_VIVO 2134 2144	FAMILIARES
+T90	ORG_VIVO 2467 2474	hermano
+T91	ORG_VIVO 2590 2600	psiquiatra
+T92	ORG_VIVO 2646 2654	cannabis
+T93	ORG_VIVO 2736 2744	hermanos
+T94	ORG_VIVO 2752 2759	varones
+T95	ORG_VIVO 2843 2851	familiar
+T96	ORG_VIVO 2865 2870	padre
+T97	ORG_VIVO 2992 3004	Adolescencia
+T98	ORG_VIVO 3043 3058	núcleo familiar
+T99	ORG_VIVO 3113 3119	pareja
+T100	ORG_VIVO 3182 3187	novio
+T101	ORG_VIVO 3284 3289	madre
+T102	ORG_VIVO 3294 3301	hermano
+T103	ORG_VIVO 3307 3313	pareja
+T104	ORG_VIVO 3343 3350	hermano
+T105	ORG_VIVO 3762 3769	hermano
+T106	ORG_VIVO 4736 4744	cannabis
+T107	ORG_VIVO 5095 5103	enfermos
+T108	ORG_VIVO 5145 5153	enfermos
+T109	ORG_VIVO 5328 5337	pacientes
+T110	ORG_VIVO 5624 5632	paciente
+T111	ORG_VIVO 6205 6215	compañeros
+T112	ORG_VIVO 6439 6447	cannabis
+T113	ORG_VIVO 6650 6658	cannabis
+T114	ENFERMEDAD 290 346	Lesiones por quemaduras en la zona interna de ambas EESS
+T115	ENFERMEDAD 401 418	embarazo ectópico
+T116	ENFERMEDAD 606 609	TOC
+T117	ENFERMEDAD 612 631	trastorno depresivo
+T118	ENFERMEDAD 839 847	suicidio
+T119	ENFERMEDAD 850 872	pensamientos obsesivos
+T120	ENFERMEDAD 1823 1847	paro cardiorrespiratorio
+T121	ENFERMEDAD 1886 1915	trastorno afectivo co-mórbido
+T122	ENFERMEDAD 1949 1967	consumo de cocaína
+T123	ENFERMEDAD 2044 2080	trastorno por dependencia de alcohol
+T124	ENFERMEDAD 2082 2099	Trastorno bipolar
+T125	ENFERMEDAD 2486 2492	muerte
+T126	ENFERMEDAD 2700 2717	ENFERMEDAD ACTUAL
+T127	ENFERMEDAD 3413 3442	trastorno afectivo co-mórbido
+T128	ENFERMEDAD 3480 3505	Lesiones cutáneas en EESS
+T129	ENFERMEDAD 3904 3910	muerte
+T130	ENFERMEDAD 4087 4096	depresión
+T131	ENFERMEDAD 4707 4744	Trastorno por dependencia de cannabis
+T132	ENFERMEDAD 4746 4782	Trastorno por dependencia de alcohol
+T133	ENFERMEDAD 4784 4813	Trastorno obsesivo compulsivo
+T134	ENFERMEDAD 5010 5032	conductas inapropiadas
+T135	ENFERMEDAD 5179 5199	ansiedad psicofísica
+T136	ENFERMEDAD 6439 6447	cannabis
+T137	ENFERMEDAD 6448 6477	Trastorno obsesivo compulsivo
+T138	ENFERMEDAD 6478 6495	Trastorno bipolar
+T139	ENFERMEDAD 6518 6525	maníaco
+T140	ENFERMEDAD 6526 6551	Trastorno de personalidad
+T141	ENFERMEDAD 6687 6694	alcohol
+T142	ENFERMEDAD 6695 6719	Trastorno bipolar tipo I
+T143	ENFERMEDAD 6743 6750	maníaco
+T144	ENFERMEDAD 6751 6769	Trastorno obsesivo
+T145	ENFERMEDAD 6866 6886	DIAGNÓSTICOS DE ALTA
+T146	SANITARIO-PROFESION 136 146	psiquiatra
+T147	SANITARIO-PROFESION 2590 2600	psiquiatra
+T148	PACIENTE-PROFESION 3208 3258	Realiza trabajos esporádicos de baja cualificación

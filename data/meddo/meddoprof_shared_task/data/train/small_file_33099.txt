@@ -1,0 +1,19 @@
+
+Diagnosticada	O
+de	O
+trastorno	O
+depresivo	O
+recurrente	O
+,	O
+en	O
+tratamiento	O
+con	O
+sertralina	O
+,	O
+trazodona	O
+y	O
+bupropión	O
+con	O
+evolución	O
+tórpida	O
+.	O

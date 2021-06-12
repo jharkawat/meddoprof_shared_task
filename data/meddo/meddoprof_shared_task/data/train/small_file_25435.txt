@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+ha	O
+abandonado	O
+el	O
+uso	O
+abusivo	O
+de	O
+codeína	O
+y	O
+paracetamol	O
+.	O

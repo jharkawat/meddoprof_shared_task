@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+evolucionó	O
+favorablemente	O
+con	O
+el	O
+tratamiento	O
+antifúngico	O
+.	O

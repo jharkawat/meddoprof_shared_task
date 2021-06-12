@@ -1,0 +1,24 @@
+
+Tratamiento	O
+:	O
+Inducción	O
+con	O
+4	O
+ciclos	O
+tipo	O
+VTD	O
+con	O
+respuesta	O
+completa	O
+(	O
+ratio	O
+de	O
+cadenas	O
+ligeras	O
+e	O
+infiltración	O
+de	O
+médula	O
+ósea	O
+)	O
+.	O

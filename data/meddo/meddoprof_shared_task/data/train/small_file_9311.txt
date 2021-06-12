@@ -1,0 +1,24 @@
+
+06	O
+/	O
+02	O
+/	O
+2015	O
+:	O
+Se	O
+diagnosticó	O
+de	O
+amigdalitis	O
+pultácea	O
+tratada	O
+con	O
+Amoxicilina	O
+/	O
+Clavulánico	O
+500	O
+/	O
+125	O
+mg	O
+y	O
+Paracetamol	O
+.	O

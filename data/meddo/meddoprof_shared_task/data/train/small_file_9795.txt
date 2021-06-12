@@ -1,0 +1,15 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+y	O
+el	O
+trazado	O
+de	O
+electrocardiograma	O
+fueron	O
+de	O
+características	O
+normales	O
+.	O

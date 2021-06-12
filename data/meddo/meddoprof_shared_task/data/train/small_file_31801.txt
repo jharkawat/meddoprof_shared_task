@@ -1,0 +1,12 @@
+
+Se	O
+realizaron	O
+hemogramas	O
+de	O
+control	O
+semanales	O
+hasta	O
+la	O
+semana	O
+18	O
+.	O

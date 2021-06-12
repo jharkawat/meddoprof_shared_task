@@ -1,0 +1,7 @@
+
+Adenopatías	O
+supraclavicular	O
+izquierda	O
+patológica	O
+clara	O
+.	O

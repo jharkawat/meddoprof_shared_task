@@ -1,0 +1,10 @@
+
+Proteinograma	O
+con	O
+aumento	O
+de	O
+proteínas	O
+de	O
+fase	O
+aguda	O
+.	O

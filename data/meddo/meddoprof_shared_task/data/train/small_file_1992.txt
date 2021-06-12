@@ -1,0 +1,13 @@
+
+Se	O
+han	O
+propuesto	O
+dos	O
+importantes	O
+mecanismos	O
+medulares	O
+para	O
+explicar	O
+el	O
+DMF	O
+:	O

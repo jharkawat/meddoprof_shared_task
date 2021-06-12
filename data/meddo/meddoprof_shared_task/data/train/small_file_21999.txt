@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+niega	O
+el	O
+uso	O
+de	O
+laxantes	O
+,	O
+diuréticos	O
+o	O
+productos	O
+dietéticos	O
+para	O
+controlar	O
+su	O
+peso	O
+.	O

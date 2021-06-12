@@ -1,0 +1,27 @@
+
+En	O
+1999	O
+,	O
+cuando	O
+contaba	O
+35	O
+años	O
+,	O
+fallece	O
+su	O
+madre	O
+por	O
+suicidio	O
+consumado	O
+(	O
+ingesta	O
+de	O
+cáusticos	O
+)	O
+,	O
+produciéndose	O
+un	O
+empeoramiento	O
+clínico	O
+relevante	O
+.	O

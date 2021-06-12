@@ -1,0 +1,12 @@
+
+Onda	O
+T	O
+negativa	O
+I	O
+-	O
+aVL	O
+,	O
+V4	O
+-	O
+V6	O
+.	O

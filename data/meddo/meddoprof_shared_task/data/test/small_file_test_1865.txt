@@ -1,0 +1,16 @@
+
+Tuvo	O
+como	O
+toxicidad	O
+más	O
+destacable	O
+tos	O
+de	O
+tipo	O
+irritativo	O
+que	O
+controló	O
+adecuadamente	O
+con	O
+antitusivos	O
+.	O

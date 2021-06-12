@@ -1,0 +1,21 @@
+
+Válvula	O
+tricúspide	O
+buena	O
+apertura	O
+,	O
+insuficiencia	O
+ligera	O
+,	O
+no	O
+permite	O
+estimar	O
+presión	O
+sistólica	O
+de	O
+arteria	O
+pulmonar	O
+(	O
+PSAP	O
+)	O
+.	O

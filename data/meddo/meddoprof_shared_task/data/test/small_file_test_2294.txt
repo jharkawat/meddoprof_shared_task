@@ -1,0 +1,5 @@
+
+Grosor	O
+corticomedular	O
+normal	O
+.	O

@@ -1,0 +1,13 @@
+
+No	O
+ha	O
+realizado	O
+viajes	O
+al	O
+extranjero	O
+ni	O
+tiene	O
+contacto	O
+con	O
+animales	O
+.	O

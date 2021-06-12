@@ -1,0 +1,24 @@
+
+No	O
+trismus	O
+,	O
+piezas	O
+dentales	O
+en	O
+buen	O
+estado	O
+a	O
+simple	O
+vista	O
+,	O
+no	O
+hay	O
+salida	O
+de	O
+material	O
+purulento	O
+ni	O
+signos	O
+de	O
+sialolitiasis	O
+.	O

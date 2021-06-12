@@ -1,0 +1,11 @@
+
+Inicia	O
+sunitinib	O
+37	O
+,	O
+5	O
+mg	O
+cada	O
+24	O
+horas	O
+.	O

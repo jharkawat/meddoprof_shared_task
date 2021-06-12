@@ -1,0 +1,5 @@
+
+Polineuropatía	O
+periférica	O
+sintomática	O
+.	O

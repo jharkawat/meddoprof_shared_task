@@ -1,0 +1,10 @@
+
+Auscultación	O
+cardiorrespiratoria	O
+y	O
+exploración	O
+abdominal	O
+sin	O
+hallazgos	O
+relevantes	O
+.	O

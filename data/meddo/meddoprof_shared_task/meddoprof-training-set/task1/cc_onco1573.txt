@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 46 años de edad, con antecedentes personales de intervención quirúrgica por hernia discal lumbar, exfumador hasta hace 17 años y trabajador en la construcción. Antecedentes familiares sin interés oncológico.
+Consulta en febrero de 2011 por cuadro clínico de dos meses de evolución de tumoración en fosa supraclavicular derecha, palpable, de crecimiento progresivo, dolorosa, y que le provoca impotencia funcional en el miembro superior derecho. Se acompaña de fiebre vespertina de 38-38,5 oC sin ninguna otra sintomatología.
+
+Exploración física
+ECOG PS 0, buen estado general. Auscultación cardiorrespiratoria: tonos rítmicos, sin soplos a 70 lpm, murmullo vesicular conservado bilateral.
+Abdomen: no doloroso, no se palpan masas ni megalias, sin ascitis. Miembros inferiores: sin edemas.
+Se palpa un gran conglomerado adenopático en la fosa supraclavicular derecha, de aproximadamente 10 x 8 cm, fijo, no doloroso, no se palpan otras adenopatías periféricas a otros niveles.
+
+Pruebas complementarias
+• Analítica, hemograma, bioquímica, coagulación, y marcadores tumorales CEA, CA-19.9, PSA total, AFP, b-GCh y b-2-microglobulina dentro del rango de la normalidad.
+• TC cérvico-toracoabdominopélvica: donde se halla una masa de tejidos blandos con captación heterogénea de 47 x 35 mm de diámetro en la fosa supraclavicular derecha junto con adenopatías yugulodigástrica derecha de 13 mm y dorsal al esternocleidomastoideo izquierdo de 15 mm, todo ello sugerente de conglomerado adenopático metastásico.
+• Se realiza biopsia con resultado anatomopatológico de neoformación maligna indiferenciada, de células grandes, patrón epitelioide pleomórfico, sugerente de proceso metastático, probable carcinoma indiferenciado epitelioide.
+• En el análisis inmunohistoquímico, la celularidad neoplásica es positiva para las citoqueratinas CK 7, AE117, AE3, EMA y vimentina, siendo negativa para marcadores melanocíticos y linfoides, CK 5/6 (lo que hace poco probable un mesotelioma) y TTF-1.
+• Se solicita estado mutacional de EGFR, que resulta nativo, y de K-ras que aparece mutado en el codón 12.
+• PET-TC: se describe alta probabilidad de malignidad en el conglomerado adenopático supraclavicular sin evidenciar otras alteraciones metabólicas que sugieran enfermedad maligna macroscópica.
+• Se continúa el estudio de extensión mediante una valoración endoscópica ORL, digestiva alta y fibrobroncoscopia, todas ellas con resultado negativo.
+
+Tratamiento y evolución
+Dado que la enfermedad presenta un rápido crecimiento y aún desconociendo el origen del tumor primario se inicia tratamiento con cisplatino y docetaxel, del que recibe dos ciclos con progresión de la enfermedad, masa supraclavicular que en abril de 2011 mide 105 x 84 x 54 mm, con componente intratorácico y signos de infiltración local.
+Se solicita test molecular CancerTYPE ID® para intentar localizar origen del tumor y orientar con más exactitud el tratamiento. En espera de resultados, la masa presenta de nuevo un aumento de tamaño (127 x 88 x 87 mm), con sintomatología acompañante (sangrado por ulceración de la masa y linfedema importante en miembro superior derecho con impotencia funcional del mismo), por lo que se decide iniciar nuevo tratamiento con esquema ifosfamida + VP-16 del cual recibe dos ciclos, con nueva progresión tumoral local franca. El resultado de CancerTYPE ID® sugiere probable origen pulmonar en un 91% (adenocarcinoma pulmonar: 90%, carcinoma escamoso de pulmón: 1%), por lo que se inicia tratamiento con carboplatino + pemetrexed en tercera línea, del que recibe dos ciclos.
+Ingresa en agosto de 2011 por síndrome febril con abscesificación de conglomerado en la fosa supraclavicular.
+En la TC de reevaluación realizada en el ingreso se aprecia importante progresión no solo a nivel locorregional, sino también a nivel pulmonar, hepático, esplénico, pancreático y cerebral, además de trombosis de vena yugular y subclavia derechas.
+Durante el ingreso se instaura tratamiento sintomático, fundamentalmente analgésico y anticoagulante, además de radioterapia holocraneal y hemostática sobre la masa supraclavicular. Se inicia erlotinib como cuarta línea de tratamiento para intentar controlar la progresión de la enfermedad a pesar de las escasas posibilidades de respuesta al mismo.
+El tratamiento anticoagulante tiene que ser suspendido por sangrado incoercible de la masa, precisando varias transfusiones sanguíneas. Después de complicaciones infecciosas y progresión de la enfermedad, el enfermo fallece tras 20 días de ingreso, a los seis meses del diagnóstico.
+
+Diagnóstico
+Metástasis supraclavicular de adenocarcinoma pulmonar de rápida evolución.

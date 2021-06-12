@@ -1,0 +1,20 @@
+
+A	O
+su	O
+llegada	O
+es	O
+valorado	O
+por	O
+los	O
+médicos	B-PROFESION
+del	I-PROFESION
+Servicio	I-PROFESION
+de	I-PROFESION
+Urgencias	I-PROFESION
+,	O
+que	O
+activan	O
+el	O
+código	O
+ictus	O
+.	O

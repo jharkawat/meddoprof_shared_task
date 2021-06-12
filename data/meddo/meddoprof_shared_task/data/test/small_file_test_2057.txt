@@ -1,0 +1,7 @@
+
+TC	O
+de	O
+cráneo	O
+urgente	O
+normal	O
+.	O

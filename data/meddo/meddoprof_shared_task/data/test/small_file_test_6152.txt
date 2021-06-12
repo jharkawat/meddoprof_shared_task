@@ -1,0 +1,27 @@
+
+A	O
+la	O
+luz	O
+de	O
+las	O
+pruebas	O
+realizadas	O
+y	O
+la	O
+clínica	O
+de	O
+la	O
+paciente	O
+,	O
+se	O
+diagnostica	O
+de	O
+cuadro	O
+obstructivo	O
+por	O
+probable	O
+recidiva	O
+del	O
+tumor	O
+primario	O
+.	O

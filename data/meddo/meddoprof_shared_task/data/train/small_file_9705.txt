@@ -1,0 +1,13 @@
+
+Empeoramiento	O
+progresivo	O
+de	O
+la	O
+clínica	O
+con	O
+debilidad	O
+en	O
+miembro	O
+inferior	O
+derecho	O
+.	O

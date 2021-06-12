@@ -1,0 +1,20 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+sólo	O
+se	O
+aprecia	O
+un	O
+pequeño	O
+infiltrado	O
+residual	O
+a	O
+nivel	O
+del	O
+lóbulo	O
+superior	O
+izquierdo	O
+.	O

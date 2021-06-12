@@ -1,0 +1,18 @@
+
+DM	O
+1	O
+diagnosticada	O
+a	O
+los	O
+19	O
+años	O
+,	O
+con	O
+mal	O
+control	O
+glucémico	O
+,	O
+precisando	O
+varios	O
+ingresos	O
+.	O

@@ -1,0 +1,18 @@
+
+Una	O
+videobroncoscopía	O
+fue	O
+normal	O
+y	O
+en	O
+el	O
+lavado	O
+broncoalveolar	O
+no	O
+se	O
+encontró	O
+gérmenes	O
+ni	O
+células	O
+neoplásicas	O
+.	O

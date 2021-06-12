@@ -1,0 +1,13 @@
+
+Acude	O
+remitida	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+por	O
+depresión	O
+resistente	O
+.	O

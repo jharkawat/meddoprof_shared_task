@@ -1,0 +1,12 @@
+
+Trastorno	O
+esquizoafectivo	O
+,	O
+tipo	O
+bipolar	O
+(	O
+295	O
+.	O
+70	O
+)	O
+.	O

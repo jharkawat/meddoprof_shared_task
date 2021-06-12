@@ -1,0 +1,25 @@
+
+Dada	O
+la	O
+clínica	O
+y	O
+alteraciones	O
+analíticas	O
+debemos	O
+plantearnos	O
+un	O
+diagnóstico	O
+diferencial	O
+más	O
+allá	O
+de	O
+una	O
+infección	O
+respiratoria	O
+que	O
+no	O
+ha	O
+respondido	O
+a	O
+antibioterapia	O
+.	O

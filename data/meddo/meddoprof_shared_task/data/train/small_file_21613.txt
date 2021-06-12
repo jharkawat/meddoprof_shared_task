@@ -1,0 +1,15 @@
+
+En	O
+casa	O
+la	O
+situación	O
+era	O
+insostenible	O
+:	O
+"	O
+no	O
+hay	O
+quien	O
+lo	O
+soporte	O
+.	O

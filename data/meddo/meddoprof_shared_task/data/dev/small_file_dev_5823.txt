@@ -1,0 +1,15 @@
+
+Con	O
+respecto	O
+a	O
+la	O
+vesícula	O
+biliar	O
+,	O
+se	O
+informa	O
+una	O
+colecistitis	O
+crónica	O
+colelitiásica	O
+.	O

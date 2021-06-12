@@ -1,0 +1,18 @@
+
+La	O
+leucemia	O
+de	O
+células	O
+T	O
+del	O
+adulto	O
+está	O
+relacionada	O
+con	O
+el	O
+virus	O
+linfotrópico	O
+Humano	O
+tipo	O
+1	O
+.	O

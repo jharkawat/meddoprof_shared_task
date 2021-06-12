@@ -1,0 +1,18 @@
+
+Convive	O
+con	O
+sus	O
+padres	O
+,	O
+su	O
+hermano	O
+(	O
+3	O
+años	O
+mayor	O
+)	O
+y	O
+su	O
+hermana	O
+melliza	O
+.	O

@@ -1,0 +1,9 @@
+
+Importante	O
+derrame	O
+pleural	O
+izquierdo	O
+y	O
+moderado	O
+derecho	O
+.	O

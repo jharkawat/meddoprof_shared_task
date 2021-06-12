@@ -1,0 +1,11 @@
+
+Consulta	O
+por	O
+fiebre	O
+persistente	O
+de	O
+40	O
+días	O
+de	O
+evolución	O
+.	O

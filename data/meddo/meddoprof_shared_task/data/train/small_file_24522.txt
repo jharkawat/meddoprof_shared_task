@@ -1,0 +1,15 @@
+
+Peinada	O
+con	O
+raya	O
+en	O
+medio	O
+,	O
+recoge	O
+su	O
+flequillo	O
+con	O
+pinzas	O
+de	O
+colores	O
+.	O

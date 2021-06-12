@@ -1,0 +1,19 @@
+
+Alerta	O
+,	O
+atento	O
+al	O
+entrevistador	B-PROFESION
+,	O
+su	O
+actitud	O
+es	O
+cooperadora	O
+sin	O
+hacer	O
+contacto	O
+visual	O
+con	O
+el	O
+interlocutor	O
+.	O

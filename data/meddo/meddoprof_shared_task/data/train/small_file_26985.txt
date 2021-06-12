@@ -1,0 +1,12 @@
+
+Es	O
+alérgica	O
+al	O
+cromo	O
+y	O
+tiene	O
+diagnóstico	O
+de	O
+dermatitis	O
+atópica	O
+.	O

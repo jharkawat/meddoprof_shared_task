@@ -1,0 +1,25 @@
+
+Batería	O
+comercial	O
+especias	O
+negativa	O
+,	O
+Prick	O
+by	O
+Prick	O
+cacahuete	O
+(	O
+13	O
+mm	O
+)	O
+,	O
+Curry	O
+en	O
+polvo	O
+(	O
+18	O
+.	O
+5	O
+mm	O
+)	O
+.	O

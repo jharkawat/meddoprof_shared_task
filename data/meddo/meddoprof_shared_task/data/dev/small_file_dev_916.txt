@@ -1,0 +1,7 @@
+
+Hemograma	O
+y	O
+bioquímica	O
+:	O
+normales	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+se	O
+aprecia	O
+focalidad	O
+neurológica	O
+en	O
+la	O
+exploración	O
+grosera	O
+.	O

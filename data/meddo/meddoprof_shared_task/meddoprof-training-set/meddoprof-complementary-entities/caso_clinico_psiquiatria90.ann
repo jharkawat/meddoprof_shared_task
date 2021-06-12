@@ -1,0 +1,17 @@
+T1	SINTOMA 552 564	convulsiones
+T2	SINTOMA 775 797	irritabilidad excesiva
+T3	SINTOMA 826 837	ánimo lábil
+T4	NEG 270 272	no
+T5	NSCO 273 304	sentirse adecuadamente atendida
+T6	NEG 509 512	sin
+T7	NSCO 513 535	reaccionar a estímulos
+T8	NEG 540 551	ausencia de
+T9	NSCO 552 564	convulsiones
+T10	ORG_VIVO 0 5	Mujer
+T11	ORG_VIVO 198 203	madre
+T12	ORG_VIVO 333 343	familiares
+T13	ORG_VIVO 346 352	amigos
+T14	ORG_VIVO 357 362	madre
+T15	ORG_VIVO 569 577	paciente
+T16	ORG_VIVO 725 736	adolescente
+T17	ORG_VIVO 950 955	madre

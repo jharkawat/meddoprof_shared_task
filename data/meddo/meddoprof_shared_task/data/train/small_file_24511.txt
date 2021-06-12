@@ -1,0 +1,18 @@
+
+Se	O
+concertó	O
+una	O
+consulta	O
+de	O
+seguimiento	O
+tras	O
+4	O
+meses	O
+(	O
+6	O
+meses	O
+después	O
+del	O
+ACV	O
+)	O
+.	O

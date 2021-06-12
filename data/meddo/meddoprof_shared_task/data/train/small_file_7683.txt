@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+negaba	O
+traumatismos	O
+previos	O
+a	O
+la	O
+aparición	O
+de	O
+las	O
+lesiones	O
+,	O
+así	O
+como	O
+la	O
+aplicación	O
+de	O
+productos	O
+cosméticos	O
+diferentes	O
+a	O
+los	O
+habituales	O
+.	O

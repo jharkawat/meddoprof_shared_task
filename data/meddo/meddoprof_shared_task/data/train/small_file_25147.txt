@@ -1,0 +1,20 @@
+
+Me	O
+parece	O
+absurdo	O
+,	O
+sé	O
+que	O
+muchas	O
+cosas	O
+de	O
+estas	O
+son	O
+absurdas	O
+pero	O
+me	O
+siguen	O
+pasando	O
+todavía	O
+"	O
+.	O

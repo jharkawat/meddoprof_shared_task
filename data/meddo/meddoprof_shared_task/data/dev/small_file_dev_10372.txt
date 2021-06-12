@@ -1,0 +1,21 @@
+
+Se	O
+sentía	O
+más	O
+y	O
+más	O
+insuficiente	O
+en	O
+su	O
+trabajo	O
+y	O
+casi	O
+no	O
+podía	O
+hacer	O
+ninguna	O
+tarea	O
+en	O
+la	O
+casa	O
+.	O

@@ -1,0 +1,15 @@
+
+Tenía	O
+afectación	O
+mucosa	O
+genital	O
+,	O
+pero	O
+la	O
+paciente	O
+no	O
+nos	O
+permitió	O
+tomar	O
+imágenes	O
+.	O

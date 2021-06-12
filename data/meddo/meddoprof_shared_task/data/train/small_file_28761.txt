@@ -1,0 +1,13 @@
+
+En	O
+el	O
+pasado	O
+consumo	O
+episódico	O
+pero	O
+abusivo	O
+de	O
+alcohol	O
+y	O
+cannabis	O
+.	O

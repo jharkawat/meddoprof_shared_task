@@ -1,0 +1,23 @@
+
+Tras	O
+los	O
+resultados	O
+,	O
+el	O
+paciente	O
+recibió	O
+tratamiento	O
+con	O
+Azitromicina	O
+500	O
+mg	O
+cada	O
+24	O
+h	O
+por	O
+vía	O
+oral	O
+durante	O
+5	O
+días	O
+.	O

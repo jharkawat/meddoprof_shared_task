@@ -1,0 +1,20 @@
+
+Calcio	O
+libre	O
+1	O
+.	O
+11	O
+mmol	O
+/	O
+L	O
+;	O
+Lactato	O
+en	O
+sangre	O
+venosa	O
+1	O
+.	O
+30	O
+mmol	O
+/	O
+L	O

@@ -1,0 +1,17 @@
+
+Es	O
+la	O
+menor	O
+de	O
+una	O
+fratría	O
+de	O
+dos	O
+hermanas	O
+,	O
+existiendo	O
+escasa	O
+relación	O
+entre	O
+ellas	O
+.	O

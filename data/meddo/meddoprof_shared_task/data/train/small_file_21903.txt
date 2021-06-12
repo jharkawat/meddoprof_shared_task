@@ -1,0 +1,14 @@
+
+Marcadores	O
+de	O
+virus	O
+de	O
+hepatitis	O
+B	O
+y	O
+C	O
+y	O
+VIH	O
+:	O
+negativos	O
+.	O

@@ -1,0 +1,12 @@
+
+No	O
+presentaba	O
+lesiones	O
+en	O
+otras	O
+localizaciones	O
+de	O
+piel	O
+ni	O
+mucosas	O
+.	O

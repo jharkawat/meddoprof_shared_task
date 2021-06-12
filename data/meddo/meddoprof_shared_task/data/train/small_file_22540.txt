@@ -1,0 +1,15 @@
+
+Por	O
+lo	O
+general	O
+no	O
+muestra	O
+dificultades	O
+para	O
+ejecutar	O
+tareas	O
+que	O
+requieran	O
+atención	O
+sostenida	O
+.	O

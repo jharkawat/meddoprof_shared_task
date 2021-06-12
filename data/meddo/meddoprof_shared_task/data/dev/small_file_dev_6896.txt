@@ -1,0 +1,9 @@
+
+Los	O
+principales	O
+microorganismos	O
+causantes	O
+de	O
+NAC	O
+son	O
+:	O

@@ -1,0 +1,11 @@
+
+Artrodesis	O
+con	O
+placa	O
+y	O
+4	O
+tornillos	O
+C4	O
+-	O
+C5	O
+.	O

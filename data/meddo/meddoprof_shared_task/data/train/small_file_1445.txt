@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+13	O
+/	O
+09	O
+/	O
+1972	O
+.	O

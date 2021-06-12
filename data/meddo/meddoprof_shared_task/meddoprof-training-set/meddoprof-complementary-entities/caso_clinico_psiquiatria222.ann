@@ -1,0 +1,84 @@
+T1	SINTOMA 591 613	incontinencia afectiva
+T2	SINTOMA 615 631	hiperventilación
+T3	SINTOMA 766 787	estereotipias motoras
+T4	SINTOMA 816 850	inversión de ambos globos oculares
+T5	SINTOMA 1453 1461	Distimia
+T6	SINTOMA 1786 1791	temor
+T7	SINTOMA 2480 2508	agotamiento físico posterior
+T8	SINTOMA 2515 2531	lagunas mnésicas
+T9	SINTOMA 3083 3112	alteraciones sensoperceptivas
+T10	SINTOMA 4478 4544	dificultades en mecanismos de afrontamiento y habilidades sociales
+T11	SINTOMA 4579 4598	elevada inseguridad
+T12	PROCEDIMIENTO 2733 2736	EEG
+T13	PROCEDIMIENTO 2738 2741	RMN
+T14	PROCEDIMIENTO 2962 2989	exploración psicopatológica
+T15	UNC 2101 2109	probable
+T16	USCO 2110 2159	situación de acoso escolar en las últimas semanas
+T17	NEG 2559 2570	Se descarta
+T18	NSCO 2571 2616	etiología orgánica (epileptógena, estructural
+T19	NEG 3021 3023	no
+T20	NSCO 3024 3127	existe un trastorno del contenido o forma del pensamiento, alteraciones sensoperceptivas o del lenguaje
+T21	NEG 3571 3573	no
+T22	NSCO 3574 3595	así el centro escolar
+T23	NEG 3598 3600	No
+T24	NSCO 3601 3673	se identifica una alteración anímica ni ideación autolítica estructurada
+T25	NEG 4317 4320	sin
+T26	NSCO 4321 4394	evidenciarse clínica afectiva primaria o ideación autolítica estructurada
+T27	NEG 4766 4768	no
+T28	NSCO 4769 4783	había recibido
+T29	NEG 4784 4789	nunca
+T30	NSCO 4790 4862	tratamiento farmacológico ni presentado conductas auto u heteroagresivas
+T31	NEG 4987 4991	nula
+T32	NSCO 4992 5001	respuesta
+T33	NEG 5293 5295	no
+T34	NSCO 5296 5331	una remisión completa de las mismas
+T35	NEG 5832 5843	desaparecen
+T36	NSCO 5844 5857	completamente
+T37	NEG 6025 6028	sin
+T38	NSCO 6029 6043	psicopatología
+T39	FARMACO 4945 4955	clonazepam
+T40	FARMACO 5073 5083	clonazepam
+T41	FARMACO 5171 5182	risperidona
+T42	FARMACO 5202 5212	paroxetina
+T43	ORG_VIVO 29 34	Varón
+T44	ORG_VIVO 490 498	paciente
+T45	ORG_VIVO 528 538	compañeros
+T46	ORG_VIVO 891 901	personales
+T47	ORG_VIVO 905 913	paciente
+T48	ORG_VIVO 933 941	hermanos
+T49	ORG_VIVO 966 974	familiar
+T50	ORG_VIVO 985 991	padres
+T51	ORG_VIVO 1250 1255	madre
+T52	ORG_VIVO 1260 1265	madre
+T53	ORG_VIVO 1497 1502	padre
+T54	ORG_VIVO 1535 1540	madre
+T55	ORG_VIVO 1570 1578	familiar
+T56	ORG_VIVO 1653 1661	hermanos
+T57	ORG_VIVO 1681 1686	madre
+T58	ORG_VIVO 1716 1724	paciente
+T59	ORG_VIVO 1934 1942	paciente
+T60	ORG_VIVO 2325 2330	Niños
+T61	ORG_VIVO 2333 2345	adolescentes
+T62	ORG_VIVO 2948 2955	materna
+T63	ORG_VIVO 3132 3140	paciente
+T64	ORG_VIVO 3195 3203	personas
+T65	ORG_VIVO 3221 3231	compañeros
+T66	ORG_VIVO 3522 3532	compañeros
+T67	ORG_VIVO 3547 3554	familia
+T68	ORG_VIVO 3799 3804	madre
+T69	ORG_VIVO 4012 4020	paciente
+T70	ORG_VIVO 4754 4759	madre
+T71	ORG_VIVO 5385 5390	madre
+T72	ORG_VIVO 5544 5548	niño
+T73	ORG_VIVO 5551 5562	adolescente
+T74	ORG_VIVO 5728 5733	menor
+T75	ORG_VIVO 5781 5789	familiar
+T76	ORG_VIVO 5912 5922	familiares
+T77	ENFERMEDAD 165 183	crisis de ansiedad
+T78	ENFERMEDAD 1423 1451	Trastorno Personalidad mixto
+T79	ENFERMEDAD 1453 1461	Distimia
+T80	ENFERMEDAD 4830 4862	conductas auto u heteroagresivas
+T81	ENFERMEDAD 6061 6093	trastorno psiquiátrico primario/
+T82	OTROS-SITUACION_LABORAL 528 559	compañeros en el ámbito escolar
+T83	OTROS-SITUACION_LABORAL 3221 3231	compañeros
+T84	OTROS-SITUACION_LABORAL 3522 3532	compañeros

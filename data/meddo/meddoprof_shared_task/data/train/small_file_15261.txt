@@ -1,0 +1,23 @@
+
+Al	O
+año	O
+de	O
+seguimiento	O
+el	O
+paciente	O
+presenta	O
+hemianopsia	O
+temporal	O
+en	O
+ojo	O
+izquierdo	O
+y	O
+es	O
+diagnosticado	O
+en	O
+Oftalmología	O
+de	O
+neuropatía	O
+óptica	O
+isquémica	O
+.	O

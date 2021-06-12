@@ -1,0 +1,17 @@
+
+Discurso	O
+con	O
+tendencia	O
+a	O
+la	O
+desorganización	O
+con	O
+descarrilamiento	O
+;	O
+aumento	O
+de	O
+la	O
+presión	O
+del	O
+habla	O
+.	O

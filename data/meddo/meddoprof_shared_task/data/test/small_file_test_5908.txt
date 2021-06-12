@@ -1,0 +1,27 @@
+
+ECOG	O
+2	O
+TA	O
+120	O
+/	O
+70	O
+,	O
+SatO2	O
+de	O
+98	O
+%	O
+sin	O
+oxigenoterapia	O
+suplementaria	O
+,	O
+llegando	O
+hasta	O
+el	O
+93	O
+%	O
+durante	O
+los	O
+episodios	O
+de	O
+tos	O
+.	O

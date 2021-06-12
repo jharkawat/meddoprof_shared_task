@@ -1,0 +1,15 @@
+
+Podría	O
+tratarse	O
+de	O
+una	O
+pielonefritis	O
+,	O
+dado	O
+el	O
+antecedente	O
+reciente	O
+de	O
+infección	O
+urinaria	O
+.	O

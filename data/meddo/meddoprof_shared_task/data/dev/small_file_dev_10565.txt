@@ -1,0 +1,24 @@
+
+En	O
+el	O
+examen	O
+físico	O
+destacan	O
+las	O
+lesiones	O
+que	O
+se	O
+visualizan	O
+en	O
+la	O
+imagen	O
+,	O
+sin	O
+otro	O
+tipo	O
+de	O
+afectación	O
+cutánea	O
+ni	O
+mucosa	O
+.	O

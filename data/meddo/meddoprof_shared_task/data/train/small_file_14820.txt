@@ -1,0 +1,15 @@
+
+En	O
+UCI	O
+,	O
+se	O
+mantiene	O
+con	O
+tendencia	O
+a	O
+la	O
+hipertensión	O
+arterial	O
+y	O
+taquicardia	O
+.	O

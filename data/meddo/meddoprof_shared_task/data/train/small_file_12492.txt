@@ -1,0 +1,22 @@
+
+Paralelamente	O
+,	O
+dadas	O
+las	O
+molestias	O
+abdominales	O
+de	O
+la	O
+paciente	O
+,	O
+se	O
+realizaron	O
+una	O
+gastroscopia	O
+y	O
+una	O
+colonoscopia	O
+que	O
+resultaron	O
+normales	O
+.	O

@@ -1,0 +1,10 @@
+
+APARATO	O
+GENITAL	O
+:	O
+Sin	O
+antecedentes	O
+ni	O
+alteraciones	O
+aparentes	O
+.	O

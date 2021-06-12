@@ -1,0 +1,22 @@
+
+Dada	O
+la	O
+persistencia	O
+del	O
+dolor	O
+torácico	O
+,	O
+se	O
+decidió	O
+realizar	O
+una	O
+nueva	O
+radiografía	O
+de	O
+tórax	O
+,	O
+no	O
+mostrando	O
+alteraciones	O
+patológicas	O
+.	O

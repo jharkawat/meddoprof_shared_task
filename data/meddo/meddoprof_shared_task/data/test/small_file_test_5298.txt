@@ -1,0 +1,20 @@
+
+A	O
+la	O
+auscultación	O
+respiratoria	O
+,	O
+hipofonesis	O
+en	O
+ambas	O
+bases	O
+pulmonares	O
+y	O
+crepitantes	O
+a	O
+este	O
+nivel	O
+,	O
+sibilancias	O
+aisladas	O
+.	O

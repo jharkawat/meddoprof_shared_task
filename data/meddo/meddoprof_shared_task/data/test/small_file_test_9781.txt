@@ -1,0 +1,21 @@
+
+En	O
+junio	O
+de	O
+2016	O
+se	O
+extirpa	O
+el	O
+conglomerado	O
+adenopático	O
+supraclavicular	O
+izquierdo	O
+,	O
+resecándose	O
+al	O
+mes	O
+siguiente	O
+el	O
+conglomerado	O
+retroperitoneal	O
+.	O

@@ -1,0 +1,12 @@
+
+n	O
+A	O
+menudo	O
+mentía	O
+para	O
+obtener	O
+favores	O
+o	O
+evitar	O
+obligaciones	O
+.	O

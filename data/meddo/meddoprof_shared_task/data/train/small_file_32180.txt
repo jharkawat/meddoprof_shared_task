@@ -1,0 +1,27 @@
+
+En	O
+la	O
+historia	O
+del	O
+ingreso	O
+actual	O
+derivado	O
+por	O
+su	O
+psiquiatra	B-PROFESION
+habitual	O
+que	O
+re	O
+ere	O
+está	O
+presentando	O
+sintomatología	O
+positiva	O
+con	O
+suspicacia	O
+e	O
+ideas	O
+delirante	O
+de	O
+perjuicio	O
+.	O

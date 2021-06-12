@@ -1,0 +1,17 @@
+
+Ocupación	O
+mucosa	O
+de	O
+senos	O
+frontal	O
+,	O
+esferoidal	O
+y	O
+leve	O
+engrosamiento	O
+mucoso	O
+del	O
+seno	O
+maxilar	O
+izquierdo	O
+.	O

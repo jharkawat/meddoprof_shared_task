@@ -1,0 +1,14 @@
+
+Cirugía	O
+:	O
+placa	O
+de	O
+necrosis	O
+en	O
+unión	O
+recto	O
+sigmoidea	O
+por	O
+impactación	O
+fecal	O
+.	O

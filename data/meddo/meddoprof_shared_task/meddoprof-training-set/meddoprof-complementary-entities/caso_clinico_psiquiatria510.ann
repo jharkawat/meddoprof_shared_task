@@ -1,0 +1,58 @@
+T1	SINTOMA 304 327	síntomas megalomaníacos
+T2	SINTOMA 366 374	disforia
+T3	SINTOMA 1079 1095	virajes maniacos
+T4	PROCEDIMIENTO 891 906	benzodiacepinas
+T5	PROCEDIMIENTO 908 931	Requirió antidepresivos
+T6	PROCEDIMIENTO 1649 1662	TAC de cráneo
+T7	NEG 1664 1667	sin
+T8	NSCO 1668 1704	anomalías ni lesiones significativas
+T9	NEG 1717 1720	sin
+T10	NSCO 1721 1733	alteraciones
+T11	NEG 2241 2243	no
+T12	NSCO 2244 2282	ha necesitado nuevas hospitalizaciones
+T13	NEG 2284 2286	No
+T14	NSCO 2287 2339	se han registrado efectos secundarios significativos
+T15	NEG 2590 2592	no
+T16	NSCO 2593 2611	manía) actualmente
+T17	FARMACO 563 568	litio
+T18	FARMACO 609 624	levomepromazina
+T19	FARMACO 626 636	olanzapina
+T20	FARMACO 638 649	risperidona
+T21	FARMACO 651 662	haloperidol
+T22	FARMACO 664 674	quetiapina
+T23	FARMACO 676 687	ziprasidona
+T24	FARMACO 689 702	zuclopentixol
+T25	FARMACO 704 715	aripiprazol
+T26	FARMACO 717 730	clorpromazina
+T27	FARMACO 732 744	paliperidona
+T28	FARMACO 746 755	asenapina
+T29	FARMACO 785 795	topiromato
+T30	FARMACO 797 806	valproato
+T31	FARMACO 808 821	carbamazepina
+T32	FARMACO 823 834	lamotrigina
+T33	FARMACO 836 847	gabapentina
+T34	FARMACO 871 876	litio
+T35	FARMACO 1907 1916	clozapina
+T36	FARMACO 2022 2027	litio
+T37	FARMACO 2040 2049	valproato
+T38	FARMACO 2063 2075	paliperidona
+T39	FARMACO 2231 2240	clozapina
+T40	FARMACO 2467 2476	clozapina
+T41	ORG_VIVO 0 8	Paciente
+T42	ORG_VIVO 41 52	funcionario
+T43	ORG_VIVO 175 185	familiares
+T44	ORG_VIVO 187 192	padre
+T45	ORG_VIVO 420 428	familiar
+T46	ORG_VIVO 1417 1425	familiar
+T47	ORG_VIVO 1447 1455	paciente
+T48	ORG_VIVO 2145 2153	paciente
+T49	ORG_VIVO 2411 2419	paciente
+T50	ENFERMEDAD 107 132	trastorno bipolar tipo II
+T51	ENFERMEDAD 256 274	episodios maníacos
+T52	ENFERMEDAD 441 459	cuadros depresivos
+T53	ENFERMEDAD 1591 1612	trastornos de memoria
+T54	ENFERMEDAD 1736 1747	DIAGNÓSTICO
+T55	ENFERMEDAD 1748 1773	Trastorno bipolar tipo II
+T56	ENFERMEDAD 1796 1815	fracaso terapéutico
+T57	PACIENTE-PROFESION 41 52	funcionario
+T58	PACIENTE-SITUACION_LABORAL 53 61	jubilado

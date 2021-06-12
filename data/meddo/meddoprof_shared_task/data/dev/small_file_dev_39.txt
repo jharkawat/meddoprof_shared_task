@@ -1,0 +1,21 @@
+
+Maria	O
+Carmen	O
+Contreras	O
+es	O
+una	O
+mujer	O
+de	O
+46	O
+años	O
+,	O
+diagnosticada	O
+de	O
+trastorno	O
+psicótico	O
+inducido	O
+por	O
+sustancias	O
+/	O
+medicamentos	O
+.	O

@@ -1,0 +1,9 @@
+
+No	O
+se	O
+detectan	O
+células	O
+de	O
+inmunofenotipo	O
+aberrante	O
+.	O

@@ -1,0 +1,22 @@
+
+Se	O
+llegó	O
+a	O
+este	O
+diagnóstico	O
+porque	O
+los	O
+síntomas	O
+no	O
+pueden	O
+ser	O
+encuadrados	O
+en	O
+ninguno	O
+de	O
+los	O
+demás	O
+tipos	O
+de	O
+esquizofrenia	O
+.	O

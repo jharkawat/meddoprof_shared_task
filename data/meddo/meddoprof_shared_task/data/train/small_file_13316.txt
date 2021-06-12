@@ -1,0 +1,21 @@
+
+Se	O
+trata	O
+de	O
+un	O
+paciente	O
+asintomático	O
+,	O
+derivado	O
+desde	O
+Atención	O
+Primaria	O
+por	O
+hallazgo	O
+de	O
+sangre	O
+oculta	O
+en	O
+heces	O
+positiva	O
+.	O

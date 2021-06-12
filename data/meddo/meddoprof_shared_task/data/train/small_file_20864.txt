@@ -1,0 +1,23 @@
+
+Tiene	O
+38	O
+años	O
+,	O
+no	O
+enfermedades	O
+de	O
+interés	O
+,	O
+hace	O
+años	O
+fue	O
+bebedor	O
+de	O
+fin	O
+de	O
+semana	O
+y	O
+fumador	O
+de	O
+cannabis	O
+.	O

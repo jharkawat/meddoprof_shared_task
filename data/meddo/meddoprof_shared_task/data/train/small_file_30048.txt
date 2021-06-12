@@ -1,0 +1,17 @@
+
+Se	O
+aplica	O
+hipotermia	O
+,	O
+sedación	O
+y	O
+relajantes	O
+musculares	O
+se	O
+intuba	O
+y	O
+se	O
+conecta	O
+a	O
+respirador	O
+.	O

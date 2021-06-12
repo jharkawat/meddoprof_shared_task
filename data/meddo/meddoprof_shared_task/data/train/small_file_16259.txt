@@ -1,0 +1,17 @@
+
+Antecedentes	O
+personales	O
+:	O
+hipertensión	O
+arterial	O
+,	O
+fibrilación	O
+auricular	O
+,	O
+cardiopatía	O
+hipertensiva	O
+y	O
+adenoma	O
+de	O
+próstata	O
+.	O

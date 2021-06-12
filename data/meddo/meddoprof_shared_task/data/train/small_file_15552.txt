@@ -1,0 +1,8 @@
+
+El	O
+resto	O
+del	O
+examen	O
+fue	O
+normal	O
+.	O

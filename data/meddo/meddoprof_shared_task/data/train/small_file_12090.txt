@@ -1,0 +1,11 @@
+
+Antecedentes	O
+quirúrgicos	O
+:	O
+cirugía	O
+endoscopia	O
+nasosinusal	O
+por	O
+poliposis	O
+nasal	O
+.	O

@@ -1,0 +1,12 @@
+
+Paciente	O
+con	O
+sintomatología	O
+psicótica	O
+y	O
+trastorno	O
+anancástico	O
+de	O
+la	O
+personalidad	O
+.	O

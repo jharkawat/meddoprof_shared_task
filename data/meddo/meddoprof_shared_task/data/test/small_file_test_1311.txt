@@ -1,0 +1,24 @@
+
+Madre	O
+de	O
+41	O
+años	O
+a	O
+la	O
+que	O
+se	O
+le	O
+realizó	O
+una	O
+cesárea	O
+urgente	O
+por	O
+preeclampsia	O
+grave	O
+a	O
+la	O
+semana	O
+38	O
++	O
+4	O
+.	O

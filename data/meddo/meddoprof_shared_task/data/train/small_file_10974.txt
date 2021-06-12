@@ -1,0 +1,24 @@
+
+IgM	O
+micoplasma	O
+pneumoniae	O
+negativo	O
+,	O
+Ac	O
+lehismania	O
+negativo	O
+,	O
+IgG	O
++	O
+IgM	O
+Legionella	O
+pneumophila	O
+negativo	O
+,	O
+IgG	O
++	O
+IgM	O
+Chlamidia	O
+species	O
+negativo	O
+.	O

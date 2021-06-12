@@ -1,0 +1,13 @@
+
+lo	O
+sé	O
+porque	O
+he	O
+visto	O
+una	O
+raya	O
+de	O
+color	O
+carne	O
+"	O
+.	O

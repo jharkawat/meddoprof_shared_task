@@ -1,0 +1,14 @@
+
+Varón	O
+de	O
+25	O
+años	O
+,	O
+soltero	O
+,	O
+que	O
+reside	O
+con	O
+sus	O
+padres	O
+.	O

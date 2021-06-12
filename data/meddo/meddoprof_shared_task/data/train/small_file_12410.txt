@@ -1,0 +1,19 @@
+
+No	O
+presentaba	O
+signos	O
+de	O
+insuficiencia	O
+cardiaca	O
+,	O
+adenopatías	O
+,	O
+organomegalias	O
+ni	O
+lesiones	O
+hemorrágicas	O
+en	O
+piel	O
+y	O
+mucosas	O
+.	O

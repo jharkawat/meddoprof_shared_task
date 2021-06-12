@@ -1,0 +1,22 @@
+
+Se	O
+le	O
+recogieron	O
+los	O
+antecedentes	O
+familiares	O
+,	O
+que	O
+presenten	O
+factores	O
+de	O
+riesgo	O
+hereditarios	O
+para	O
+tumores	O
+ginecologicos	O
+para	O
+realizar	O
+cribados	O
+específicos	O
+.	O

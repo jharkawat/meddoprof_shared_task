@@ -1,0 +1,11 @@
+
+Los	O
+episodios	O
+disociativos	O
+empezaron	O
+a	O
+espaciarse	O
+en	O
+el	O
+tiempo	O
+.	O

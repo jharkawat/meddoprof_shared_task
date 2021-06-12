@@ -1,0 +1,15 @@
+
+Trabaja	O
+allí	O
+como	O
+albañil	B-PROFESION
+y	O
+carpintero	B-PROFESION
+;	O
+donde	O
+tiene	O
+problemas	O
+con	O
+algunos	O
+vecinos	O
+.	O

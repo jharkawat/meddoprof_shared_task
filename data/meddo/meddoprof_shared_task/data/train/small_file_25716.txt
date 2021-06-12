@@ -1,0 +1,12 @@
+
+Fumador	O
+,	O
+bebedor	O
+ocasional	O
+,	O
+no	O
+consumo	O
+de	O
+otros	O
+tóxicos	O
+.	O

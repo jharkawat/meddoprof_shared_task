@@ -1,0 +1,16 @@
+
+La	O
+paciente	O
+acude	O
+por	O
+urgencia	O
+miccional	O
+desde	O
+hace	O
+un	O
+mes	O
+acompañada	O
+de	O
+incontinencia	O
+urinaria	O
+.	O

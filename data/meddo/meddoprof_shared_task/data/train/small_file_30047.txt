@@ -1,0 +1,21 @@
+
+Se	O
+diagnostica	O
+un	O
+síndrome	O
+neuroléptico	O
+maligno	O
+y	O
+se	O
+traslada	O
+a	O
+UCI	O
+donde	O
+se	O
+trata	O
+con	O
+santroleno	O
+sódico	O
+y	O
+bromocriptina	O
+.	O

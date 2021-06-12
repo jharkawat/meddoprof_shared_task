@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+consultó	O
+por	O
+una	O
+masa	O
+inflamatoria	O
+en	O
+parrilla	O
+costal	O
+derecha	O
+,	O
+sin	O
+dolor	O
+,	O
+tos	O
+,	O
+fiebre	O
+ni	O
+síndrome	O
+constitucional	O
+.	O

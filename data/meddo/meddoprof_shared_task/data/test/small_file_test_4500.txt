@@ -1,0 +1,26 @@
+
+Se	O
+realiza	O
+un	O
+nuevo	O
+ECG	O
+,	O
+que	O
+muestra	O
+signos	O
+nuevos	O
+compatibles	O
+con	O
+pericarditis	O
+aguda	O
+(	O
+troponina	O
+T	O
+negativa	O
+)	O
+,	O
+sospechando	O
+compresión	O
+extrínseca	O
+pericárdica	O
+.	O

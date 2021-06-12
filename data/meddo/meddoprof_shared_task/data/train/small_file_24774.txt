@@ -1,0 +1,26 @@
+
+Señala	O
+intenso	O
+temor	O
+a	O
+engordar	O
+y	O
+distorsión	O
+de	O
+la	O
+imagen	O
+corporal	O
+(	O
+vientre	O
+)	O
+,	O
+motivando	O
+ello	O
+comprobciones	O
+compulsivas	O
+en	O
+espejos	O
+y	O
+aislamiento	O
+social	O
+.	O

@@ -1,0 +1,10 @@
+
+El	O
+reflejo	O
+estapedial	O
+estaba	O
+presente	O
+en	O
+exploraciones	O
+previas	O
+.	O

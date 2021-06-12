@@ -1,0 +1,23 @@
+
+La	O
+tolerancia	O
+al	O
+docetaxel	O
+ha	O
+sido	O
+buena	O
+,	O
+sin	O
+aparición	O
+de	O
+toxicidad	O
+de	O
+interés	O
+y	O
+el	O
+PS	O
+continúa	O
+siendo	O
+de	O
+1	O
+.	O

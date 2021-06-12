@@ -1,0 +1,13 @@
+
+A	O
+pesar	O
+de	O
+instaurarse	O
+medidas	O
+de	O
+resucitación	O
+,	O
+el	O
+paciente	O
+fallece	O
+.	O

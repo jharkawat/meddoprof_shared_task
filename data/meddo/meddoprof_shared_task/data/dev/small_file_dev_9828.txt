@@ -1,0 +1,15 @@
+
+Paciente	O
+se	O
+niega	O
+a	O
+mencionar	O
+la	O
+razón	O
+por	O
+la	O
+que	O
+ingirió	O
+el	O
+medicamento	O
+.	O

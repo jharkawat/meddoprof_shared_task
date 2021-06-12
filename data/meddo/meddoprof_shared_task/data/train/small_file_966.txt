@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Pilar	O
+Fraile	O
+Gómez	O
+NºCol	O
+:	O
+16	O
+16	O
+89231	O
+.	O

@@ -1,0 +1,12 @@
+
+Los	O
+acusó	O
+de	O
+perseguirla	O
+y	O
+de	O
+tenderle	O
+trampas	O
+para	O
+violarla	O
+.	O

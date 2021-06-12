@@ -1,0 +1,12 @@
+
+No	O
+refería	O
+ingesta	O
+de	O
+tóxicos	O
+,	O
+fármacos	O
+,	O
+ni	O
+hierbas	O
+.	O

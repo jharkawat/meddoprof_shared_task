@@ -1,0 +1,6 @@
+
+No	O
+presenta	O
+cefalea	O
+matutina	O
+.	O

@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+cuenta	O
+con	O
+un	O
+adecuado	O
+soporte	O
+familiar	O
+y	O
+social	O
+.	O

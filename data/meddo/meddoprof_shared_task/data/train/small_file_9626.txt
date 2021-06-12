@@ -1,0 +1,16 @@
+
+Biopsia	O
+ósea	O
+compatible	O
+con	O
+Mastocitosis	O
+(	O
+0	O
+.	O
+3	O
+%	O
+de	O
+mastocitos	O
+anormales	O
+)	O
+.	O

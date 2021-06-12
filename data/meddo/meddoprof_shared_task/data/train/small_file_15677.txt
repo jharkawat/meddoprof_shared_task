@@ -1,0 +1,15 @@
+
+Como	O
+únicos	O
+antecedentes	O
+destacaban	O
+consumo	O
+de	O
+marihuana	O
+ocasional	O
+y	O
+un	O
+episodio	O
+depresivo	O
+breve	O
+.	O

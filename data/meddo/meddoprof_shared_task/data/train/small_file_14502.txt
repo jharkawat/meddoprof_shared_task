@@ -1,0 +1,21 @@
+
+Bioquímica	O
+:	O
+Lipasa	O
+104	O
+U	O
+/	O
+I	O
+,	O
+Amilasa	O
+182	O
+U	O
+/	O
+L	O
+,	O
+función	O
+hepatorrenal	O
+y	O
+electrolitos	O
+normales	O
+.	O

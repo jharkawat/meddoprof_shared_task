@@ -1,0 +1,21 @@
+T1	SINTOMA 341 350	epistaxis
+T2	SINTOMA 353 367	gingivorragias
+T3	PROCEDIMIENTO 128 157	tratamiento con transfusiones
+T4	PROCEDIMIENTO 253 266	transfusiones
+T5	PROCEDIMIENTO 547 560	transfusiones
+T6	PROCEDIMIENTO 730 750	soporte hematológico
+T7	NEG 341 350	epistaxis
+T8	NSCO 351 367	o gingivorragias
+T9	NEG 369 371	No
+T10	NSCO 372 400	presenta deterioro cognitivo
+T11	FARMACO 767 778	Paracetamol
+T12	FARMACO 781 790	Enalapril
+T13	ORG_VIVO 0 8	Paciente
+T14	ORG_VIVO 431 439	personal
+T15	ORG_VIVO 687 694	párroco
+T16	ENFERMEDAD 40 43	HTA
+T17	ENFERMEDAD 46 70	Cardiopatía hipertensiva
+T18	ENFERMEDAD 101 125	Síndrome Mielodisplásico
+T19	ENFERMEDAD 305 327	insuficiencia cardiaca
+T20	ENFERMEDAD 511 531	enfermedad incurable
+T21	OTROS-PROFESION 687 694	párroco

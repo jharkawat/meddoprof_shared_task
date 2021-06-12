@@ -1,0 +1,61 @@
+T1	SINTOMA 185 191	fiebre
+T2	SINTOMA 194 203	ictericia
+T3	SINTOMA 272 291	dolor en fosa renal
+T4	SINTOMA 301 316	sudoración fría
+T5	SINTOMA 319 325	fiebre
+T6	SINTOMA 414 430	malestar general
+T7	SINTOMA 488 495	vómitos
+T8	SINTOMA 498 519	deposiciones líquidas
+T9	SINTOMA 625 656	edemas generalizados con fóveas
+T10	SINTOMA 806 817	neutrofilia
+T11	SINTOMA 1285 1291	febril
+T12	SINTOMA 1296 1310	esplenomegalia
+T13	SINTOMA 1591 1597	fiebre
+T14	SINTOMA 1637 1643	fiebre
+T15	SINTOMA 2120 2126	fiebre
+T16	SINTOMA 2128 2136	cefaleas
+T17	SINTOMA 2138 2151	artromialgias
+T18	SINTOMA 2153 2160	astenia
+T19	SINTOMA 2162 2186	sintomatología digestiva
+T20	SINTOMA 2188 2196	tos seca
+T21	SINTOMA 2242 2256	esplenomegalia
+T22	SINTOMA 2258 2271	hepatomegalia
+T23	SINTOMA 2273 2280	palidez
+T24	SINTOMA 2283 2292	ictericia
+T25	PROCEDIMIENTO 377 389	antitérmicos
+T26	PROCEDIMIENTO 1145 1163	electrocardiograma
+T27	PROCEDIMIENTO 1165 1196	radiografías de tórax y abdomen
+T28	PROCEDIMIENTO 2204 2222	exploración física
+T29	PROCEDIMIENTO 2352 2361	hemograma
+T30	NEG 33 36	sin
+T31	NSCO 37 72	antecedentes patológicos de interés
+T32	NEG 345 347	no
+T33	NSCO 348 389	cede tras el tratamiento con antitérmicos
+T34	NEG 520 523	sin
+T35	NSCO 524 545	productos patológicos
+T36	UNC 1413 1420	pudiera
+T37	USCO 1421 1450	tratar de un brote de malaria
+T38	NEG 2074 2086	inespecífica
+T39	NSCO 2087 2126	siendo frecuente la presencia de fiebre
+T40	ORG_VIVO 15 20	varón
+T41	ORG_VIVO 90 103	transportista
+T42	ORG_VIVO 1401 1409	paciente
+T43	ORG_VIVO 1721 1730	protozoos
+T44	ORG_VIVO 1735 1752	género Plasmodium
+T45	ORG_VIVO 1807 1825	mosquito Anopheles
+T46	ORG_VIVO 1834 1842	especies
+T47	ORG_VIVO 1906 1927	Plasmodium Falciparum
+T48	ENFERMEDAD 841 854	plaquetopenia
+T49	ENFERMEDAD 871 896	insuficiencia renal aguda
+T50	ENFERMEDAD 1025 1037	hiponatremia
+T51	ENFERMEDAD 1052 1066	hiperpotasemia
+T52	ENFERMEDAD 1296 1310	esplenomegalia
+T53	ENFERMEDAD 1434 1450	brote de malaria
+T54	ENFERMEDAD 1696 1752	enfermedad producida por protozoos del género Plasmodium
+T55	ENFERMEDAD 1906 1927	Plasmodium Falciparum
+T56	ENFERMEDAD 2242 2256	esplenomegalia
+T57	ENFERMEDAD 2258 2271	hepatomegalia
+T58	ENFERMEDAD 2373 2385	pancitopenia
+T59	ENFERMEDAD 2437 2449	hipoglucemia
+T60	ENFERMEDAD 2452 2460	acidosis
+T61	PACIENTE-PROFESION 90 103	transportista

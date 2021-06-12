@@ -1,0 +1,26 @@
+
+En	O
+este	O
+contexto	O
+,	O
+y	O
+analizando	O
+los	O
+datos	O
+obtenidos	O
+en	O
+las	O
+pruebas	O
+solicitadas	O
+,	O
+es	O
+importante	O
+realizar	O
+un	O
+diagnóstico	O
+diferencial	O
+entre	O
+varias	O
+entidades	O
+patológicas	O
+.	O

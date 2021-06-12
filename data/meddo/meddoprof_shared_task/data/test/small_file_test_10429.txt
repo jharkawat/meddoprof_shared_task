@@ -1,0 +1,14 @@
+
+Como	O
+efectos	O
+adversos	O
+destacables	O
+presentó	O
+pirexia	O
+,	O
+paniculitis	O
+,	O
+cefalea	O
+y	O
+náuseas	O
+.	O

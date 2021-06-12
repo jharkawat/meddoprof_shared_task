@@ -1,0 +1,10 @@
+
+La	O
+paciente	O
+tiene	O
+escaso	O
+o	O
+nulo	O
+apoyo	O
+familiar	O
+.	O

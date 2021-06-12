@@ -1,0 +1,13 @@
+
+A	O
+menudo	O
+se	O
+sentía	O
+tensa	O
+e	O
+incómoda	O
+al	O
+estar	O
+en	O
+compañía	O
+.	O

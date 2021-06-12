@@ -1,0 +1,13 @@
+
+»	O
+Biopsia	O
+percutánea	O
+:	O
+tumor	O
+maligno	O
+de	O
+la	O
+vaina	O
+nerviosa	O
+mediastínico	O
+.	O

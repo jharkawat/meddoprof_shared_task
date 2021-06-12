@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+57	O
+Años	O
+de	O
+edad	O
+que	O
+acudió	O
+a	O
+consulta	O
+(	O
+febrero	O
+2017	O
+)	O
+con	O
+molestias	O
+urinarias	O
+.	O

@@ -1,0 +1,22 @@
+
+Su	O
+padre	O
+también	O
+se	O
+había	O
+sentido	O
+preocupado	O
+porque	O
+,	O
+durante	O
+el	O
+pasado	O
+mes	O
+,	O
+Claudia	O
+parecía	O
+estar	O
+triste	O
+y	O
+ensimismada	O
+.	O

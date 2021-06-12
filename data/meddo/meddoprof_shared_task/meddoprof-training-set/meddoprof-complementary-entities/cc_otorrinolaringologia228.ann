@@ -1,0 +1,16 @@
+T1	SINTOMA 52 62	odinofagia
+T2	SINTOMA 464 469	dolor
+T3	SINTOMA 471 479	disfagia
+T4	SINTOMA 482 488	fiebre
+T5	PROCEDIMIENTO 112 134	intubación orotraqueal
+T6	PROCEDIMIENTO 508 526	exploración física
+T7	NEG 286 289	sin
+T8	NSCO 290 327	que se identifique una causa concreta
+T9	NEG 376 379	sin
+T10	NSCO 380 399	objetivar patología
+T11	ORG_VIVO 26 34	paciente
+T12	ORG_VIVO 272 285	especialistas
+T13	ORG_VIVO 404 412	paciente
+T14	ENFERMEDAD 552 568	absceso cervical
+T15	ENFERMEDAD 646 667	carcinoma epidermoide
+T16	SANITARIO-PROFESION 272 285	especialistas

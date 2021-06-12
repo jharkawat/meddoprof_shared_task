@@ -1,0 +1,18 @@
+
+En	O
+la	O
+actualidad	O
+no	O
+muestra	O
+evidencia	O
+de	O
+enfermedad	O
+y	O
+continúa	O
+con	O
+imatinib	O
+adyuvante	O
+con	O
+magnífica	O
+tolerancia	O
+.	O

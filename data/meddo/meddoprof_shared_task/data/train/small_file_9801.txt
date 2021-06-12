@@ -1,0 +1,13 @@
+
+La	O
+RMN	O
+de	O
+columna	O
+completa	O
+no	O
+manifestó	O
+alteraciones	O
+de	O
+interés	O
+clínico	O
+.	O

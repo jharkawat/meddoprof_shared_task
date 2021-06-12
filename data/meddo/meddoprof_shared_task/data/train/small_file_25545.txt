@@ -1,0 +1,22 @@
+
+Según	O
+el	O
+informe	O
+de	O
+derivación	O
+,	O
+fue	O
+atendido	O
+por	O
+la	O
+mañana	O
+en	O
+el	O
+hotel	O
+donde	O
+residía	O
+por	O
+intoxicación	O
+por	O
+ketamina	O
+.	O

@@ -1,0 +1,13 @@
+
+Consume	O
+2	O
+–	O
+3	O
+copas	O
+cuando	O
+sale	O
+los	O
+fines	O
+de	O
+semana	O
+.	O

@@ -1,0 +1,27 @@
+
+Convive	O
+con	O
+su	O
+madre	O
+,	O
+la	O
+nueva	O
+pareja	O
+de	O
+esta	O
+(	O
+en	O
+los	O
+últimos	O
+5	O
+años	O
+)	O
+y	O
+la	O
+hija	O
+de	O
+ambos	O
+de	O
+3	O
+años	O
+.	O

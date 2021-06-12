@@ -1,0 +1,16 @@
+
+Sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+,	O
+fumador	O
+40	O
+paquete	O
+/	O
+año	O
+;	O
+no	O
+refiere	O
+enolismo	O
+.	O

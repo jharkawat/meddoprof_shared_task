@@ -1,0 +1,7 @@
+
+Unión	O
+cráneo	O
+-	O
+cervical	O
+normal	O
+.	O

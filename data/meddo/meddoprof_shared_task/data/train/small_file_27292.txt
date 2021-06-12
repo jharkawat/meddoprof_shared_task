@@ -1,0 +1,11 @@
+
+Anticuerpos	O
+anti	O
+-	O
+peroxidasa	O
+tiroidal	O
+(	O
+TPO	O
+)	O
+negativo	O
+.	O

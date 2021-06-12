@@ -1,0 +1,16 @@
+
+Mujer	O
+de	O
+30	O
+an	O
+̃	O
+os	O
+con	O
+dolor	O
+abdominal	O
+de	O
+cuatro	O
+meses	O
+de	O
+evolución	O
+.	O

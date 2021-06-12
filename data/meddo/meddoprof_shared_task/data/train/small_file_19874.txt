@@ -1,0 +1,26 @@
+
+Tan	O
+sólo	O
+ha	O
+mantenido	O
+tiaprida	O
+300	O
+mg	O
+en	O
+las	O
+repetidas	O
+desintoxicaciones	O
+ambulatorias	O
+alcohólicas	O
+realizadas	O
+,	O
+con	O
+clometiazol	O
+y	O
+el	O
+complejo	O
+de	O
+la	O
+vitamina	O
+B	O
+.	O

@@ -1,0 +1,19 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+,	O
+el	O
+nivel	O
+de	O
+consciencia	O
+,	O
+la	O
+orientación	O
+y	O
+el	O
+lenguaje	O
+fueron	O
+normales	O
+.	O

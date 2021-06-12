@@ -1,0 +1,10 @@
+
+Fibrobroncoscopia	O
+con	O
+aspirado	O
+que	O
+no	O
+aísla	O
+flora	O
+patógena	O
+.	O

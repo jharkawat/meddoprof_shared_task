@@ -1,0 +1,5 @@
+
+PAD	O
+:	O
+71	O
+mmHg	O

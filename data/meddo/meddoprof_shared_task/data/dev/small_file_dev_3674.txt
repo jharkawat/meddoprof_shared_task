@@ -1,0 +1,26 @@
+
+Tiene	O
+ganas	O
+de	O
+llorar	O
+y	O
+ha	O
+perdido	O
+el	O
+interés	O
+por	O
+actividades	O
+que	O
+antes	O
+le	O
+resultaban	O
+placenteras	O
+y	O
+que	O
+ahora	O
+no	O
+es	O
+capaz	O
+de	O
+disfrutar	O
+.	O

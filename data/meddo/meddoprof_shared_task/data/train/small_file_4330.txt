@@ -1,0 +1,17 @@
+
+Exploración	O
+:	O
+el	O
+paciente	O
+presenta	O
+buen	O
+estado	O
+general	O
+,	O
+está	O
+consciente	O
+,	O
+orientado	O
+y	O
+colaborador	O
+.	O

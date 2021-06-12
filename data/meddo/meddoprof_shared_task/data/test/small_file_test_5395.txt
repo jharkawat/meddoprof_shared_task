@@ -1,0 +1,10 @@
+
+Márgenes	O
+no	O
+afectos	O
+(	O
+R0	O
+)	O
+:	O
+pT3N1Mx	O
+.	O

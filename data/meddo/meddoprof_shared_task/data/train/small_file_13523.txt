@@ -1,0 +1,22 @@
+
+En	O
+el	O
+resto	O
+de	O
+la	O
+exploración	O
+física	O
+destacaba	O
+un	O
+soplo	O
+sistólico	O
+en	O
+Foco	O
+Mitral	O
+2	O
+/	O
+6	O
+no	O
+conocido	O
+previamente	O
+.	O

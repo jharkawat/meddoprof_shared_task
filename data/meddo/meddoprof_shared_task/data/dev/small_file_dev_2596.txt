@@ -1,0 +1,12 @@
+
+Topiramato	O
+se	O
+eliminó	O
+por	O
+quejas	O
+cognitivas	O
+referidas	O
+por	O
+la	O
+paciente	O
+.	O

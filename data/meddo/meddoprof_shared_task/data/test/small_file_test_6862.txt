@@ -1,0 +1,23 @@
+
+En	O
+la	O
+evaluación	O
+inicial	O
+,	O
+se	O
+detectó	O
+una	O
+hipoglucemia	O
+grave	O
+de	O
+hasta	O
+37	O
+mg	O
+/	O
+dl	O
+sin	O
+otras	O
+alteraciones	O
+analíticas	O
+relevantes	O
+.	O

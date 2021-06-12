@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+,	O
+el	O
+paciente	O
+se	O
+encontraba	O
+hemodinámicamente	O
+estable	O
+y	O
+afebril	O
+.	O

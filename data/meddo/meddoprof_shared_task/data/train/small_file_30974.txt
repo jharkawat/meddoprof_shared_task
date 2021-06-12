@@ -1,0 +1,23 @@
+
+En	O
+abril	O
+de	O
+2015	O
+,	O
+ante	O
+la	O
+progresión	O
+del	O
+cuadro	O
+,	O
+su	O
+psiquiatra	B-PROFESION
+referente	O
+recomienda	O
+ingreso	O
+en	O
+la	O
+Unidad	O
+de	O
+Hospitalización	O
+.	O

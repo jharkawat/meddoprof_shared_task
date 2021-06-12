@@ -1,0 +1,20 @@
+Anamnesis
+Acude a consulta un varón de 52 años de edad con antecedentes personales de Diabetes Mellitus tipo II, hipertensión arterial y hepatitis C. El paciente había estado en seguimiento en nuestro servicio hacía 4 años por dermatitis atópica del adulto. Los primeros 2 años recibió tratamiento con terapia tópica (corticoterapia y tacrólimos) con respuesta parcial, con brotes frecuentes. Dada la respuesta insatisfactoria se decide realizar biopsia de las lesiones con diagnóstico histopatológico de espongiosis con datos de sobreinfección. Se inicia en ese momento tratamiento con fototerapia y antibioterapia sistémica con buena respuesta durante el siguiente año.
+Por motivos laborales el paciente abandona el seguimiento en nuestro servicio y viaja a Estados Unidos. A lo largo de los meses el paciente refiere empeoramiento progresivo de las lesiones, por lo que acude a diversas clínicas donde realizan un nuevo diagnóstico de psoriasis en placas iniciando tratamiento con metotrexate. El paciente realiza dicho tratamiento durante 6 meses con empeoramiento progresivo de sus lesiones. Tras el fracaso terapéutico deciden iniciar tratamiento con etanercept. Tras dos dosis de tratamiento el paciente sufre un empeoramiento brusco de las lesiones por lo que suspende el tratamiento y retorna a nuestro país.
+Cuando acude a urgencias dermatológicas de nuestro hospital el paciente refiere malestar general con distermia aunque sin fiebre termometrada y progresión de sus lesiones cutáneas.
+
+Exploración física
+En el momento de la exploración cutánea se aprecian en tronco múltiples placas eritematosas, descamativas, ligeramente infiltradas, la mayoría cubierta por escamas blanquecinas y otras intensamente exudativas. En mama derecha llamaba la atención una lesión tumoral de 2 cm de diámetro con borde elevado y centro deprimido, cubierto por escara necrótica. El resto de la exploración física no muestra otras alteraciones.
+
+Exploraciones complementarias
+En la analítica realizada en urgencias destacaba una eosinofilia del 14% sin otras alteraciones.
+Dado el estado general del paciente se decide ingreso en el servicio de dermatología para completar estudios y realizar tratamiento. Se realiza biopsia de las lesiones cutáneas en la que se observa un infiltrado linfocitario con atipia celular y epidermotropismo. En ese momento se realizan pruebas de imagen y biopsia de médula ósea descartando enfermedad extracutánea.
+
+Diagnóstico
+Tras el análisis de la historia clínica y las pruebas complementarias se realiza el diagnóstico de linfoma cutáneo T de alto grado (estadío IIIA).
+
+Tratamiento
+Dado el empeoramiento rápido de las lesiones durante la estancia en la planta de Dermatología se decide traslado del paciente a la planta de Hematología para realizar tratamiento conjunto por ambos servicios. Tras analizar el caso se decide iniciar tratamiento con quimioterapia, planteándose en un segundo tiempo el trasplante de médula ósea.
+
+Evolución
+Originalmente se inicia tratamiento con CHOP (ciclofosfamida, vincristina, adriamicina, prednisona) cambiando posteriormente a GenCisDXM (gemcitabina, cisplatino, dexametasona) y después a Promacecytabom (ara-C, bleomicina, vincristina, metotrexate) obteniéndose en todos los casos una mejoría inicial de las lesiones que duraba 5-6 días tras los cuales se producía un rápido deterioro del paciente con aparición de nuevos tumores, progresión de los previos y placas eritematoexudativas cubriendo prácticamente la totalidad de la superficie cutánea. En dos ocasiones el paciente es intervenido quirúrgicamente para reducir masa tumoral debido a impotencia funcional que le producían las lesiones en axila y el ojo. Finalmente se decide iniciar tratamiento con bortezomib, recibiendo una única dosis debido al fallecimiento por sepsis en contexto de neutropenia.

@@ -1,0 +1,11 @@
+
+Y	O
+ahora	O
+no	O
+tengo	O
+tiempo	O
+para	O
+hacer	O
+amistades	O
+"	O
+.	O

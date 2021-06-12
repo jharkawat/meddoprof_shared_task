@@ -1,0 +1,15 @@
+
+Electrocardiogarma	O
+:	O
+ritmo	O
+sinusal	O
+,	O
+85lpm	O
+,	O
+no	O
+trastornos	O
+de	O
+conducción	O
+ni	O
+repolarización	O
+.	O

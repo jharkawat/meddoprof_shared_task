@@ -1,0 +1,14 @@
+
+Discurso	O
+tangencial	O
+,	O
+con	O
+bloqueos	O
+verbales	O
+y	O
+aumento	O
+de	O
+latencia	O
+de	O
+respuesta	O
+.	O

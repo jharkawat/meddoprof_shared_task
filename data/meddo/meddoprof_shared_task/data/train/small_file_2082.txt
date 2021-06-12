@@ -1,0 +1,21 @@
+
+-	O
+Se	O
+produce	O
+un	O
+incidente	O
+digno	O
+de	O
+reseñar	O
+en	O
+el	O
+que	O
+la	O
+paciente	O
+reexperimenta	O
+la	O
+pérdida	O
+del	O
+miembro	O
+amputado	O
+.	O

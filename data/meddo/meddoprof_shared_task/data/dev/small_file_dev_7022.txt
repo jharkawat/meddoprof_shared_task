@@ -1,0 +1,20 @@
+
+Sin	O
+embargo	O
+,	O
+tras	O
+la	O
+realización	O
+de	O
+la	O
+TC	O
+de	O
+tórax	O
+y	O
+abdomen	O
+,	O
+esta	O
+entidad	O
+fue	O
+descartada	O
+.	O

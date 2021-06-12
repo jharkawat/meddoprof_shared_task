@@ -1,0 +1,25 @@
+
+Analíticamente	O
+,	O
+además	O
+de	O
+descenso	O
+de	O
+parámetros	O
+nutricionales	O
+,	O
+el	O
+hallazgo	O
+más	O
+llamativo	O
+resulta	O
+un	O
+PSA	O
+con	O
+niveles	O
+superiores	O
+a	O
+5000ng	O
+/	O
+ml	O
+.	O

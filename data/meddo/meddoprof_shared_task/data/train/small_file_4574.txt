@@ -1,0 +1,14 @@
+
+Iniciamos	O
+tratamiento	O
+con	O
+acetilcisteína	O
+y	O
+paracetamol	O
+,	O
+además	O
+de	O
+mantener	O
+sus	O
+inhaladores	O
+.	O

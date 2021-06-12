@@ -1,0 +1,10 @@
+
+Las	O
+luces	O
+se	O
+mantuvieron	O
+encendidas	O
+durante	O
+la	O
+noche	O
+.	O

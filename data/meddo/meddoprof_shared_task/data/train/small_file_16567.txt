@@ -1,0 +1,10 @@
+
+Macroadenoma	O
+hipofisario	O
+no	O
+productor	O
+con	O
+hipopituitarismo	O
+anterior	O
+secundario	O
+.	O

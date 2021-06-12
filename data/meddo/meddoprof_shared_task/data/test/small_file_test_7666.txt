@@ -1,0 +1,13 @@
+
+VIH	O
+negativo	O
+,	O
+VEB	O
+compatible	O
+con	O
+infección	O
+pasada	O
+,	O
+CMV	O
+negativo	O
+.	O

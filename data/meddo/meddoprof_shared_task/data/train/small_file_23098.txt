@@ -1,0 +1,22 @@
+
+Dos	O
+ingresos	O
+hospitalarios	O
+tras	O
+sobreingestas	O
+medicamentosas	O
+(	O
+oxcarbacepina	O
+)	O
+con	O
+intención	O
+suicida	O
+,	O
+requiriendo	O
+en	O
+ambas	O
+ocasiones	O
+ingreso	O
+en	O
+UCI	O
+.	O

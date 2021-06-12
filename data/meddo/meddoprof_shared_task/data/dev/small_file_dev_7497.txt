@@ -1,0 +1,26 @@
+
+Para	O
+el	O
+diagnóstico	O
+diferencial	O
+tenemos	O
+que	O
+valorar	O
+aquellos	O
+procesos	O
+que	O
+cursan	O
+con	O
+formación	O
+de	O
+colecciones	O
+a	O
+nivel	O
+retroperitoneal	O
+y	O
+afectación	O
+ósea	O
+a	O
+nivel	O
+vertebral	O
+.	O

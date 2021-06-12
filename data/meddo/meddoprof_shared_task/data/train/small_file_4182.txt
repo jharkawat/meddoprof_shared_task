@@ -1,0 +1,15 @@
+
+Se	O
+añadió	O
+al	O
+programa	O
+asistencial	O
+de	O
+diabetes	O
+y	O
+se	O
+instruyó	O
+en	O
+educación	O
+diabetológica	O
+.	O

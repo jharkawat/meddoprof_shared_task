@@ -1,0 +1,10 @@
+
+Tampoco	O
+presenta	O
+afectación	O
+de	O
+oculomotores	O
+ni	O
+clínica	O
+bulbar	O
+.	O

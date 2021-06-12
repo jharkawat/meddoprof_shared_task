@@ -1,0 +1,17 @@
+
+Presenta	O
+en	O
+su	O
+interior	O
+zonas	O
+de	O
+densidad	O
+heterogénea	O
+pero	O
+sin	O
+identificar	O
+puntos	O
+de	O
+sangrado	O
+activo	O
+.	O

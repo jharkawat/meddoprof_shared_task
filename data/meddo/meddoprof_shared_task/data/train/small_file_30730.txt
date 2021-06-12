@@ -1,0 +1,27 @@
+
+Tras	O
+un	O
+comentario	O
+que	O
+realiza	O
+en	O
+una	O
+reunión	O
+sindical	O
+,	O
+un	O
+compañero	B-SITUACION_LABORAL
+le	O
+dice	O
+"	O
+ya	O
+verás	O
+ahora	O
+van	O
+a	O
+ir	O
+a	O
+por	O
+ti	O
+"	O
+.	O

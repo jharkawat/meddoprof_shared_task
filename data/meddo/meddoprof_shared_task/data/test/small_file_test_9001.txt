@@ -1,0 +1,21 @@
+
+Sin	O
+contacto	O
+con	O
+otros	O
+tóxicos	O
+relacionados	O
+con	O
+el	O
+aumento	O
+de	O
+la	O
+incidencia	O
+de	O
+cáncer	O
+,	O
+niega	O
+contacto	O
+con	O
+asbesto	O
+.	O

@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+evoluciona	O
+favorablemente	O
+desde	O
+el	O
+punto	O
+de	O
+vista	O
+respiratorio	O
+.	O

@@ -1,0 +1,10 @@
+
+Auscultación	O
+pulmonar	O
+con	O
+hipoventilación	O
+en	O
+ambos	O
+campos	O
+pulmonares	O
+.	O

@@ -1,0 +1,21 @@
+
+Se	O
+hace	O
+necesaria	O
+la	O
+introducción	O
+de	O
+levomepromazina	O
+para	O
+manejo	O
+en	O
+domicilio	O
+y	O
+se	O
+comienza	O
+a	O
+introducir	O
+progresivamente	O
+,	O
+clozapina	O
+.	O

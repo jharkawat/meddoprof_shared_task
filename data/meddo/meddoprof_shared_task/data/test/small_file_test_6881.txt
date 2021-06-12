@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+presentó	O
+buena	O
+respuesta	O
+clínica	O
+,	O
+habiendo	O
+podido	O
+descender	O
+las	O
+dosis	O
+de	O
+esteroides	O
+hasta	O
+10	O
+mg	O
+/	O
+día	O
+.	O

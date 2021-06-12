@@ -1,0 +1,24 @@
+
+Se	O
+realiza	O
+estudio	O
+citológico	O
+del	O
+aspirado	O
+que	O
+muestra	O
+series	O
+conservadas	O
+,	O
+sin	O
+displasias	O
+,	O
+aspecto	O
+regenerativo	O
+y	O
+5	O
+%	O
+de	O
+células	O
+plasmáticas	O
+.	O

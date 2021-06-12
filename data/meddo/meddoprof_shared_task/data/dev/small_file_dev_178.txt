@@ -1,0 +1,10 @@
+
+Terminó	O
+bachiller	O
+y	O
+empezó	O
+la	O
+carrera	O
+de	O
+Derecho	O
+.	O

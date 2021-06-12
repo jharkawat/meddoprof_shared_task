@@ -1,0 +1,21 @@
+
+RX	O
+pelvis	O
+(	O
+03	O
+/	O
+2017	O
+)	O
+:	O
+fractura	O
+no	O
+despalzada	O
+de	O
+rama	O
+ilio	O
+e	O
+isquio	O
+-	O
+pubiana	O
+izquierda	O
+.	O

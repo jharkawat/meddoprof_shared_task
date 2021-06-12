@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 46 años de edad, con antecedentes personales de dislipemia e hiperglucemia de dos meses de evolución diagnosticada en analítica rutinaria en su centro de salud, fumador de 30 cigarrillos/día desde hace 30 años, bebedor moderado y con criterios clínicos de bronquitis crónica.
+En septiembre de 2011 consultó a su médico de Atención Primaria por pérdida de visión en el ojo izquierdo progresiva, disnea de moderados esfuerzos y síndrome constitucional con pérdida de peso >10% en los últimos dos meses. El paciente fue remitido a consultas de Oftalmología donde se objetivó una masa coroidoretiniana en arcada superior con bolsa de líquido hacia arcada temporal inferior. Se realizó RM de órbitas evidenciando lesión intraocular focal de 8 x 12 x 17 mm en la cara posterolateral y superior del globo ocular izquierdo que realzaba tras la administración de contraste por lo que se decidió ingreso hospitalario para continuar estudio.
+
+Exploración física
+En la exploración destacaba rubicundez facial, obesidad troncular con un peso de 100 kg y un índice de masa corporal de 34,6 kg/m2, leve hiperpigmentación cutánea y adenopatías supraclaviculares izquierdas.
+La auscultación cardiopulmonar fue normal y el resto de la exploración anodina.
+
+Pruebas complementarias
+• Bioquímica: glucosa 315 mg/dL; potasio 2,81 mEq/L; hemoglobina glicosilada 11,3%; TSH 0,284 uU/mL; T4 0,5 ng/dL; cortisoluria 1.814 mcg/24 horas; ACTH en dos determinaciones 208 y 221 pg/mL; cortisol basal 42,5 mcg/dL; test de Nugget tras 1mg de dexametasona 32,9 mcg/dL. CEA-19 8; LDH 656 mU/mL; GGT 995 mUIm/L.
+• RM de hipófisis: normal.
+• RM del globo ocular izquierdo: lesión intraocular focal de 8 x 12 x 17 mm de diámetro que compromete la cara posterolateral y superior del globo ocular, que realza tras la administración de contraste compatible con melanoma coroideo.
+• Ecografía del globo ocular izquierdo: masa en pared posterior de ojo izquierdo de 10 x 12 mm vascularizada.
+• TC cervical, torácica y abdominal: adenopatías supraclaviculares izquierdas 1,8 x 1,5 cm, masa mediastínica de 60 x 41 mm que afecta a cadenas paratraqueales, pretraqueal, ventana aortopulmonar, hilio izquierdo y mediastino posterior rodeando la aorta que además engloba y estenosa el bronquio principal izquierdo, engrosamientos pleurales nodulares en relación con metástasis, imágenes hepáticas hipodensas compatibles con metástasis. Derrame pleural izquierdo.
+• Broncoscopia: ensanchamiento de la carina principal con infiltración tumoral y estenosis completa del bonquio lobar superior izquierdo por masa exofítica.
+• Biopsia bronquial: carcinoma de células pequeñas con inmunohistoquímica: CK7, TTF, CD56 positivo.
+• Biopsia hepática: metástasis de carcinoma de células pequeñas.
+
+Diagnóstico
+Carcinoma microcítico pulmonar enfermedad extendida con síndrome de Cushing ACTH dependiente de origen ectópico secundario. Sospecha de melanoma coroideo en globo ocular izquierdo con debút sinérgico.
+
+Tratamiento y evolución
+Tras el diagnóstico de carcinoma microcítico enfermedad extendida y síndrome de Cushing inducido por ACTH ectópico que justificaba la aparición de diabetes mellitus, hipotiroidismo y alteraciones iónicas severas como la hipokalemia, se solicitó valoración por el Servicio de Endocrinología con optimización de tratamiento y ketoconazol.
+Al mismo tiempo, se realizaron varias biopsias de las lesiones metastásticas, siendo positivas para carcinoma microcítico y negativas para melanoma; por lo que, dado el mal pronóstico a corto plazo condicionado por el diagnóstico de carcinoma pulmonar oat-cell y la no disponibilidad de resultado anatomopatológico para melanoma, pudiéndose tratar de una lesión coroidea metastástica, se decidió iniciar durante su ingreso en septiembre de 2011 tratamiento con quimioterapia con intención paliativa según esquema cisplatino-etopósido cada 21 días.
+El paciente durante el tratamiento presentó mejoría clínica más evidente tras el segundo ciclo, con normalización de los valores analíticos. Tras el tercer ciclo se realizó la primera reevaluación con resultado en pruebas radiológicas según los criterios RECIST (Response Evaluation Criteria in Solid Tumors) de respuesta parcial.
+Tras la admnistración del cuarto ciclo y en una analítica rutinaria de control el paciente presentó hiponatremia (115 mEq/L) con hipoosmolaridad plasmática precisando ingreso hospitalario. Con sospecha de síndrome de secreción inadecuada de hormona antidiurética se inicia tratamiento con restricción hídrica y suplementos de cloruro sódico con recuperación de los valores analíticos.
+Tras completar sexto ciclo de quimioterapia paliativa en enero de 2012 y con deterioro del estado general del paciente, se realizó nueva reevaluación objetivándose progresión de la enfermedad a nivel hepático y pulmonar. Se propuso segunda línea de quimioterapia según esquema irinotecán-gemcitabina quincenal.
+A las dos semanas el paciente acudió a Urgencias por cuadro de insuficiencia respiratoria con secreciones bronquiales bilaterales, objetivándose en la radiografía de tórax aumento de atelectasia en el lóbulo inferior izquierdo y de la masa mediastínica con derrame pleural izquierdo masivo asociado. Se inició tratamiento y medidas de soporte con mala evolución del paciente y fallecimiento.

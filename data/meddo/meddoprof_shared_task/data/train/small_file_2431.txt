@@ -1,0 +1,19 @@
+
+No	O
+había	O
+precisado	O
+corticoterapia	O
+tópica	O
+ni	O
+oral	O
+en	O
+otras	O
+ocasiones	O
+,	O
+a	O
+pesar	O
+de	O
+presentar	O
+dermatitis	O
+atópica	O
+.	O

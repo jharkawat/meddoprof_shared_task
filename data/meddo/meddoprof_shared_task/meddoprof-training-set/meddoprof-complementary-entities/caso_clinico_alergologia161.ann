@@ -1,0 +1,29 @@
+T1	SINTOMA 122 128	disnea
+T2	SINTOMA 130 148	prurito nasoocular
+T3	SINTOMA 150 160	estornudos
+T4	SINTOMA 163 180	angioedema facial
+T5	SINTOMA 631 651	angioedema palpebral
+T6	SINTOMA 653 661	rinorrea
+T7	SINTOMA 664 674	estornudos
+T8	PROCEDIMIENTO 507 516	hemograma
+T9	PROCEDIMIENTO 538 556	prueba de esfuerzo
+T10	PROCEDIMIENTO 711 727	antihistamínicos
+T11	PROCEDIMIENTO 730 751	esteroides sistémicos
+T12	PROCEDIMIENTO 816 836	antihistamínico oral
+T13	NEG 417 425	negativo
+T14	NSCO 426 441	a los alimentos
+T15	NEG 888 891	sin
+T16	NSCO 892 922	nuevos episodios de anafilaxia
+T17	FARMACO 687 697	adrenalina
+T18	FARMACO 699 709	salbutamol
+T19	FARMACO 802 813	montelukast
+T20	ORG_VIVO 0 5	Varón
+T21	ORG_VIVO 283 293	familiares
+T22	ORG_VIVO 334 340	ácaros
+T23	ENFERMEDAD 36 51	asma controlada
+T24	ENFERMEDAD 54 71	rinoconjuntivitis
+T25	ENFERMEDAD 163 180	angioedema facial
+T26	ENFERMEDAD 297 303	atopia
+T27	ENFERMEDAD 631 651	angioedema palpebral
+T28	ENFERMEDAD 769 779	anafilaxia
+T29	ENFERMEDAD 912 922	anafilaxia

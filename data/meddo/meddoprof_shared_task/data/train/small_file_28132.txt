@@ -1,0 +1,10 @@
+
+Oro	O
+faringe	O
+no	O
+congestiva	O
+,	O
+sin	O
+lesiones	O
+mucosas	O
+.	O

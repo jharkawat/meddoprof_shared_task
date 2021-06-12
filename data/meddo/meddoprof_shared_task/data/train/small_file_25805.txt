@@ -1,0 +1,10 @@
+
+Desconocían	O
+su	O
+paradero	O
+desde	O
+hacía	O
+año	O
+y	O
+medio	O
+.	O

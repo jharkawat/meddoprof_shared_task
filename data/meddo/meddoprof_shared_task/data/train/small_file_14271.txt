@@ -1,0 +1,8 @@
+
+La	O
+RM	O
+de	O
+cráneo	O
+fue	O
+normal	O
+.	O

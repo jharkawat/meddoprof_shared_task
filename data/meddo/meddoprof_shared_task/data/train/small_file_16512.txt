@@ -1,0 +1,21 @@
+
+La	O
+RM	O
+craneal	O
+es	O
+compatible	O
+con	O
+encefalitis	O
+aguda	O
+del	O
+lóbulo	O
+temporal	O
+,	O
+ínsula	O
+y	O
+corteza	O
+frontobasal	O
+del	O
+hemisferio	O
+derecho	O
+.	O

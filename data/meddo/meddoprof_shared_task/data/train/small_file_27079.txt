@@ -1,0 +1,7 @@
+
+Sin	O
+antecedentes	O
+de	O
+salud	O
+mental	O
+.	O

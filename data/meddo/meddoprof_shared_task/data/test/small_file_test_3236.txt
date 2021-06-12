@@ -1,0 +1,23 @@
+
+Historia	O
+oncológica	O
+:	O
+desde	O
+el	O
+año	O
+2000	O
+presenta	O
+un	O
+quiste	O
+pilonidal	O
+que	O
+motiva	O
+la	O
+realización	O
+de	O
+varias	O
+intervenciones	O
+(	O
+fistulectomías	O
+)	O
+.	O

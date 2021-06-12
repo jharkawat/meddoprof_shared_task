@@ -1,0 +1,15 @@
+
+La	O
+paciente	O
+se	O
+encuentra	O
+correctamente	O
+orientada	O
+espacio	O
+-	O
+temporalmente	O
+y	O
+de	O
+manera	O
+autopsíquica	O
+.	O

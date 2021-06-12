@@ -1,0 +1,109 @@
+T1	SINTOMA 181 203	pérdida de consciencia
+T2	SINTOMA 206 223	ausencia de pulso
+T3	SINTOMA 1408 1417	cansancio
+T4	SINTOMA 1420 1429	debilidad
+T5	SINTOMA 2076 2089	ritmo sinusal
+T6	PROCEDIMIENTO 441 468	reanimación cardio-pulmonar
+T7	PROCEDIMIENTO 477 480	RCP
+T8	PROCEDIMIENTO 708 722	desfibrilación
+T9	PROCEDIMIENTO 2027 2030	ECG
+T10	PROCEDIMIENTO 2416 2431	coronariografía
+T11	PROCEDIMIENTO 2530 2552	biopsia endomiocárdica
+T12	PROCEDIMIENTO 2694 2705	TAC craneal
+T13	PROCEDIMIENTO 2768 2802	determinación de tóxicos en sangre
+T14	PROCEDIMIENTO 2874 2903	ecocardiografía transtorácica
+T15	PROCEDIMIENTO 3220 3235	ecocardiografía
+T16	PROCEDIMIENTO 3344 3373	resonancia magnética cardíaca
+T17	PROCEDIMIENTO 3946 3999	inhibidores de la enzima convertidora de angiotensina
+T18	PROCEDIMIENTO 4007 4022	betabloqueantes
+T19	PROCEDIMIENTO 4490 4505	implante de DAI
+T20	PROCEDIMIENTO 4739 4754	implante de DAI
+T21	NEG 36 39	sin
+T22	NSCO 40 73	antecedente personales de interés
+T23	NEG 206 217	ausencia de
+T24	NSCO 218 223	pulso
+T25	NEG 302 313	ausencia de
+T26	NSCO 314 328	pulso arterial
+T27	UNC 1476 1490	compatible con
+T28	USCO 1491 1504	cuadro vírico
+T29	NEG 1560 1562	no
+T30	NSCO 1563 1619	refería datos llamativos en su historia clínica personal
+T31	NEG 1710 1712	No
+T32	NEG 1913 1915	no
+T33	NSCO 1916 1938	le dio más importancia
+T34	NEG 2008 2010	no
+T35	NSCO 2011 2022	prevenibles
+T36	NEG 2178 2186	negativa
+T37	NSCO 2187 2192	I-aVL
+T38	NEG 2212 2215	sin
+T39	NSCO 2216 2255	otras alteraciones de la repolarización
+T40	NEG 2355 2358	sin
+T41	NSCO 2359 2385	otros hallazgos llamativos
+T42	NEG 2436 2438	no
+T43	NSCO 2439 2477	mostró lesiones coronarias destacables
+T44	UNC 2633 2641	probable
+T45	USCO 2642 2672	como causa del episodio actual
+T46	NEG 2710 2712	no
+T47	NSCO 2713 2761	mostró hallazgos de patología aguda intracraneal
+T48	NEG 2811 2819	negativa
+T49	UNC 3071 3086	compatibles con
+T50	USCO 3087 3127	cierta hipertrabeculación del endocardio
+T51	NEG 3130 3132	no
+T52	NSCO 3133 3172	se detectaron valvulopatías reseñables
+T53	UNC 3236 3248	sugestiva de
+T54	USCO 3249 3272	miocardiopatía dilatada
+T55	NEG 3572 3574	no
+T56	NSCO 3575 3587	compactación
+T57	NEG 3759 3761	no
+T58	NSCO 3762 3790	compactación en cara lateral
+T59	NEG 4521 4524	sin
+T60	NSCO 4525 4536	incidencias
+T61	NEG 4580 4582	no
+T62	NSCO 4583 4629	presentó nuevos eventos arrítmicos reseñables
+T63	NEG 4723 4725	no
+T64	NSCO 4726 4736	compactada
+T65	FARMACO 779 789	amiodarona
+T66	FARMACO 4024 4034	Bisoprolol
+T67	FARMACO 4083 4093	eplerenona
+T68	ORG_VIVO 15 23	paciente
+T69	ORG_VIVO 52 62	personales
+T70	ORG_VIVO 248 255	médicos
+T71	ORG_VIVO 608 616	paciente
+T72	ORG_VIVO 901 909	paciente
+T73	ORG_VIVO 1201 1209	paciente
+T74	ORG_VIVO 1315 1323	paciente
+T75	ORG_VIVO 1498 1504	vírico
+T76	ORG_VIVO 1549 1559	personales
+T77	ORG_VIVO 1611 1619	personal
+T78	ORG_VIVO 1687 1697	familiares
+T79	ORG_VIVO 1780 1783	tío
+T80	ORG_VIVO 1832 1840	juventud
+T81	ORG_VIVO 1849 1852	tío
+T82	ORG_VIVO 2056 2064	paciente
+T83	ORG_VIVO 2390 2398	paciente
+T84	ORG_VIVO 4182 4190	paciente
+T85	ORG_VIVO 4224 4232	paciente
+T86	ORG_VIVO 4571 4579	paciente
+T87	ORG_VIVO 4695 4703	paciente
+T88	ENFERMEDAD 349 374	parada cardiorespiratoria
+T89	ENFERMEDAD 660 683	fibrilación ventricular
+T90	ENFERMEDAD 685 687	FV
+T91	ENFERMEDAD 1026 1050	muerte súbita resucitada
+T92	ENFERMEDAD 1153 1168	parada cardíaca
+T93	ENFERMEDAD 1491 1504	cuadro vírico
+T94	ENFERMEDAD 1992 2022	infartos agudos no prevenibles
+T95	ENFERMEDAD 2446 2465	lesiones coronarias
+T96	ENFERMEDAD 2596 2616	enfermedad coronaria
+T97	ENFERMEDAD 2733 2761	patología aguda intracraneal
+T98	ENFERMEDAD 3147 3172	valvulopatías reseñables
+T99	ENFERMEDAD 3249 3272	miocardiopatía dilatada
+T100	ENFERMEDAD 3275 3302	disfunción sistólica severa
+T101	ENFERMEDAD 3727 3741	miocardiopatía
+T102	ENFERMEDAD 3792 3831	Disfunción sistólica severa ventricular
+T103	ENFERMEDAD 4126 4153	disfunción sistólica severa
+T104	ENFERMEDAD 4257 4279	muerte súbita cardiaca
+T105	ENFERMEDAD 4305 4334	arrítmico ventricular maligno
+T106	ENFERMEDAD 4363 4404	disfunción sistólica biventricular severa
+T107	ENFERMEDAD 4668 4681	muerte súbita
+T108	ENFERMEDAD 4708 4722	miocardiopatía
+T109	SANITARIO-PROFESION 248 255	médicos

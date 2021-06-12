@@ -1,0 +1,7 @@
+
+No	O
+se	O
+observaron	O
+fenómenos	O
+sensoperceptivos	O
+.	O

@@ -1,0 +1,22 @@
+
+Con	O
+esta	O
+edad	O
+,	O
+quedó	O
+embaraza	O
+y	O
+este	O
+hecho	O
+trajo	O
+en	O
+consecuencia	O
+un	O
+primer	O
+matrimonio	O
+fracasado	O
+y	O
+una	O
+separación	O
+traumática	O
+.	O

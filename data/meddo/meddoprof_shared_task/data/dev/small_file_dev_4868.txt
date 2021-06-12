@@ -1,0 +1,14 @@
+
+El	O
+diagnóstico	O
+del	O
+paciente	O
+fue	O
+hipertensión	O
+arterial	O
+secundaria	O
+a	O
+hiperesplenismo	O
+por	O
+mononucleosis	O
+.	O

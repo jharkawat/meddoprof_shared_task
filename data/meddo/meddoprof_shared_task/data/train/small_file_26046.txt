@@ -1,0 +1,16 @@
+
+En	O
+2018	O
+es	O
+valorado	O
+por	O
+alteraciones	O
+conductuales	O
+en	O
+la	O
+vía	O
+pública	O
+,	O
+decidiéndose	O
+ingreso	O
+.	O

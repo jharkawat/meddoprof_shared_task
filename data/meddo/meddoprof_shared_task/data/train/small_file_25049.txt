@@ -1,0 +1,25 @@
+
+Acude	O
+regularmente	O
+a	O
+Endocrinología	O
+,	O
+Digestivo	O
+,	O
+Reumatología	O
+,	O
+Trastornos	O
+Alimentarios	O
+,	O
+Conductas	O
+Adictivas	O
+y	O
+a	O
+grupos	O
+de	O
+autoayuda	O
+para	O
+pacientes	O
+con	O
+alcoholismo	O
+.	O

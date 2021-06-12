@@ -1,0 +1,123 @@
+T1	SINTOMA 407 412	dolor
+T2	SINTOMA 414 440	limitación de la movilidad
+T3	SINTOMA 443 493	alteraciones sensitivas en extremidades superiores
+T4	SINTOMA 616 622	febril
+T5	SINTOMA 745 751	fiebre
+T6	SINTOMA 754 762	mialgias
+T7	SINTOMA 790 803	omalgia aguda
+T8	SINTOMA 960 1048	parestesias asociadas de distribución predominante en los tres primeros dedos de la mano
+T9	SINTOMA 1454 1484	debilidad en cintura escapular
+T10	SINTOMA 1519 1560	parestesias en todos los dedos de la mano
+T11	SINTOMA 1690 1695	dolor
+T12	SINTOMA 1848 1886	leves protrusiones discales cervicales
+T13	SINTOMA 2183 2248	disestesias dolorosas parcheadas en ambas extremidades superiores
+T14	SINTOMA 2277 2308	síntomas en miembros inferiores
+T15	SINTOMA 2313 2337	alteración de esfínteres
+T16	SINTOMA 2478 2485	afebril
+T17	SINTOMA 2557 2610	limitación funcional en ambas extremidades superiores
+T18	SINTOMA 2618 2623	dolor
+T19	SINTOMA 3248 3309	disestesias dolorosas parcheadas en ambos miembros superiores
+T20	SINTOMA 3339 3371	cara palmar de las manos y dedos
+T21	SINTOMA 3389 3434	alteraciones de la sensibilidad propioceptiva
+T22	SINTOMA 3495 3545	paresia dolorosa progresiva de miembros superiores
+T23	SINTOMA 3557 3580	alteraciones sensitivas
+T24	SINTOMA 3745 3768	déficit de ácido fólico
+T25	SINTOMA 4163 4168	dolor
+T26	SINTOMA 4789 4853	edema generalizado de los músculos supraespinoso e infraespinoso
+T27	SINTOMA 5704 5715	disestesias
+T28	SINTOMA 5865 5870	dolor
+T29	PROCEDIMIENTO 509 531	tratamiento analgésico
+T30	PROCEDIMIENTO 540 552	fisioterapia
+T31	PROCEDIMIENTO 1076 1096	radiografía cervical
+T32	PROCEDIMIENTO 1213 1235	tratamiento analgésico
+T33	PROCEDIMIENTO 1258 1269	corticoides
+T34	PROCEDIMIENTO 1272 1293	relajantes musculares
+T35	PROCEDIMIENTO 1342 1354	fisioterapia
+T36	PROCEDIMIENTO 1780 1823	resonancia magnética nuclear (RMN) cervical
+T37	PROCEDIMIENTO 1929 1951	tratamiento analgésico
+T38	PROCEDIMIENTO 2490 2516	exploración cardiopulmonar
+T39	PROCEDIMIENTO 2628 2651	exploración neurológica
+T40	PROCEDIMIENTO 3614 3633	analítica sanguínea
+T41	PROCEDIMIENTO 3645 3654	hemograma
+T42	PROCEDIMIENTO 3781 3825	test de detección de antígeno de gripe A y B
+T43	PROCEDIMIENTO 3828 3863	reacción en cadena de la polimerasa
+T44	PROCEDIMIENTO 3900 3924	estudio de autoinmunidad
+T45	PROCEDIMIENTO 4405 4429	estudio neurofisiológico
+T46	PROCEDIMIENTO 4729 4766	resonancia magnética nuclear cervical
+T47	PROCEDIMIENTO 5012 5021	anamnesis
+T48	PROCEDIMIENTO 5236 5254	serología de virus
+T49	PROCEDIMIENTO 5505 5546	terapia con inmunoglobulinas intravenosas
+T50	PROCEDIMIENTO 6125 6139	rehabilitación
+T51	PROCEDIMIENTO 6162 6176	rehabilitación
+T52	NEG 70 73	sin
+T53	NSCO 74 136	alergias medicamentosas, ni antecedentes personales de interés
+T54	UNC 652 661	sin claro
+T55	USCO 662 677	foco infeccioso
+T56	UNC 692 702	interpretó
+T57	USCO 703 724	como de origen gripal
+T58	NEG 812 815	sin
+T59	NSCO 816 844	signos inflamatorios locales
+T60	NEG 850 852	no
+T61	NSCO 853 896	atribuía a traumatismo ni esfuerzo muscular
+T62	UNC 1639 1654	interpretó como
+T63	USCO 1655 1718	disfunción mecánica causada por el dolor en paciente carpintero
+T64	NEG 2250 2267	En ningún momento
+T65	NSCO 2268 2337	presentó síntomas en miembros inferiores, ni alteración de esfínteres
+T66	NEG 2478 2485	afebril
+T67	NEG 2517 2520	sin
+T68	NSCO 2521 2533	alteraciones
+T69	NEG 3185 3188	sin
+T70	NSCO 3189 3217	evidencia de fasciculaciones
+T71	NEG 3373 3376	sin
+T72	NSCO 3377 3434	encontrarse alteraciones de la sensibilidad propioceptiva
+T73	NEG 3663 3666	sin
+T74	NSCO 3667 3725	elevaciones significativas de los reactantes de fase aguda
+T75	NEG 3878 3886	negativa
+T76	UNC 4888 4900	sugestivo de
+T77	USCO 4901 4917	neuropatía aguda
+T78	NEG 4919 4922	sin
+T79	NSCO 4923 4985	evidencia de alteraciones sugestivas de pre o postganglionares
+T80	UNC 5154 5162	probable
+T81	USCO 5163 5198	relación con infección viral previa
+T82	NEG 5200 5202	no
+T83	NSCO 5203 5219	gripe estacional
+T84	NEG 5222 5224	No
+T85	NSCO 5225 5266	se realizó serología de virus específicos
+T86	NEG 5288 5290	no
+T87	NSCO 5291 5348	iba a influir en el pronóstico o en el manejo terapeútico
+T88	NEG 5909 5912	sin
+T89	NSCO 5913 5940	aparición de complicaciones
+T90	FARMACO 217 227	Sertralina
+T91	FARMACO 4283 4292	fentanilo
+T92	FARMACO 4295 4306	gabapentina
+T93	FARMACO 5389 5406	metilprednisolona
+T94	FARMACO 5980 5992	ácido fólico
+T95	FARMACO 6005 6014	fentanilo
+T96	FARMACO 6016 6027	gabapentina
+T97	FARMACO 6029 6042	amitriptilina
+T98	FARMACO 6067 6077	prednisona
+T99	ORG_VIVO 26 31	varón
+T100	ORG_VIVO 38 43	años
+T101	ORG_VIVO 45 55	carpintero
+T102	ORG_VIVO 115 125	personales
+T103	ORG_VIVO 1298 1306	paciente
+T104	ORG_VIVO 1699 1707	paciente
+T105	ORG_VIVO 1956 1964	paciente
+T106	ORG_VIVO 2427 2435	paciente
+T107	ORG_VIVO 3230 3238	paciente
+T108	ORG_VIVO 5249 5254	virus
+T109	ORG_VIVO 6092 6100	paciente
+T110	ENFERMEDAD 144 172	trastorno depresivo reactivo
+T111	ENFERMEDAD 718 724	gripal
+T112	ENFERMEDAD 790 803	omalgia aguda
+T113	ENFERMEDAD 1163 1181	cervicobraquialgia
+T114	ENFERMEDAD 3139 3175	atrofia del primer músculo intraóseo
+T115	ENFERMEDAD 4225 4244	fracaso terapeútico
+T116	ENFERMEDAD 4502 4575	lesión muy severa bilateral del nervio axilar y del nervio musculocutáneo
+T117	ENFERMEDAD 4589 4669	lesión parcial moderada de los nervios supraescapular izquierdo y musculocutáneo
+T118	ENFERMEDAD 4901 4917	neuropatía aguda
+T119	ENFERMEDAD 5092 5109	plexitis braquial
+T120	ENFERMEDAD 5122 5150	Síndrome de Parsonage-Turner
+T121	ENFERMEDAD 5176 5191	infección viral
+T122	PACIENTE-PROFESION 45 55	carpintero
+T123	PACIENTE-PROFESION 1708 1718	carpintero

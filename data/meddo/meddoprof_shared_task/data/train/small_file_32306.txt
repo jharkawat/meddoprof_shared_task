@@ -1,0 +1,25 @@
+
+Al	O
+finalizar	O
+el	O
+cumplimiento	O
+de	O
+la	O
+pena	O
+y	O
+,	O
+tras	O
+la	O
+salida	O
+del	O
+centro	O
+penitenciario	O
+,	O
+no	O
+reinicia	O
+el	O
+seguimiento	O
+en	O
+ningún	O
+dispositivo	O
+.	O

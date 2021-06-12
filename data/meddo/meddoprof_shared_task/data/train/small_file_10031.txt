@@ -1,0 +1,24 @@
+
+20	O
+semana	O
+de	O
+gestación	O
+,	O
+amenaza	O
+de	O
+parto	O
+prematuro	O
+,	O
+niveles	O
+de	O
+complemento	O
+y	O
+anti	O
+DNA	O
+:	O
+normales	O
+sin	O
+bloqueo	O
+cardiaco	O
+neonatal	O
+.	O

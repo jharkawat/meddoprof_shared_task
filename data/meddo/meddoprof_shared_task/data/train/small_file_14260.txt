@@ -1,0 +1,12 @@
+
+No	O
+tenía	O
+lesiones	O
+en	O
+otros	O
+lugares	O
+ni	O
+se	O
+palpaban	O
+adenopatías	O
+.	O

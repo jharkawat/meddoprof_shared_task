@@ -1,0 +1,23 @@
+
+Explica	O
+que	O
+tiene	O
+sentimientos	O
+de	O
+inseguridad	O
+sobre	O
+todo	O
+a	O
+casa	O
+suya	O
+,	O
+y	O
+que	O
+tiene	O
+baja	O
+autoestima	O
+desde	O
+hace	O
+muchos	O
+años	O
+.	O

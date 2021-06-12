@@ -1,0 +1,24 @@
+
+Toma	O
+ácido	O
+acetilsalicílico	O
+100	O
+mg	O
+al	O
+día	O
+,	O
+simvastatina	O
+20	O
+mg	O
+al	O
+día	O
+y	O
+metoprolol	O
+100	O
+mg	O
+al	O
+día	O
+como	O
+tratamiento	O
+habitual	O
+.	O

@@ -1,0 +1,15 @@
+
+No	O
+lesiones	O
+dérmicas	O
+destacables	O
+y	O
+no	O
+se	O
+palpan	O
+adenopatías	O
+en	O
+cadenas	O
+ganglionares	O
+superficiales	O
+.	O

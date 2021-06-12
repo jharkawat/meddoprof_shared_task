@@ -1,0 +1,5 @@
+
+Madre	O
+con	O
+ludopatía	O
+.	O

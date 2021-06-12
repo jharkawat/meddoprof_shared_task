@@ -1,0 +1,6 @@
+
+No	O
+se	O
+hallaron	O
+alteraciones	O
+.	O

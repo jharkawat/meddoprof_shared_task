@@ -1,0 +1,14 @@
+
+Murmullo	O
+vesicular	O
+disminuido	O
+en	O
+el	O
+campo	O
+pulmonar	O
+izquierdo	O
+(	O
+plano	O
+anterior	O
+)	O
+.	O

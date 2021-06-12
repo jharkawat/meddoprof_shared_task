@@ -1,0 +1,6 @@
+
+Vergüenza	O
+de	O
+sí	O
+misma	O
+.	O

@@ -1,0 +1,5 @@
+
+Cierta	O
+rigidez	O
+troncular	O
+.	O

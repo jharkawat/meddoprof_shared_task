@@ -1,0 +1,27 @@
+
+Desde	O
+los	O
+dos	O
+meses	O
+previos	O
+al	O
+inicio	O
+de	O
+la	O
+clínica	O
+,	O
+la	O
+paciente	O
+había	O
+comenzado	O
+a	O
+trabajar	O
+como	O
+esteticista	B-PROFESION
+manejando	O
+uñas	O
+postizas	O
+y	O
+tintes	O
+capilares	O
+.	O

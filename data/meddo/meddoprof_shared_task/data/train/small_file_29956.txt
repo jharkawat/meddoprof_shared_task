@@ -1,0 +1,11 @@
+
+Por	O
+ese	O
+motivo	O
+acudió	O
+a	O
+urgencias	O
+de	O
+nuestro	O
+hospital	O
+.	O

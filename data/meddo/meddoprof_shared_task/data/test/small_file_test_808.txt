@@ -1,0 +1,4 @@
+
+Ovario	O
+poliquístico	O
+.	O

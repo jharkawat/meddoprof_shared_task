@@ -1,0 +1,16 @@
+
+Abdomen	O
+distendido	O
+con	O
+ascitis	O
+a	O
+tensión	O
+,	O
+timpánico	O
+y	O
+no	O
+doloroso	O
+a	O
+la	O
+palpación	O
+.	O

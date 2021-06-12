@@ -1,0 +1,6 @@
+
+No	O
+diarrea	O
+ni	O
+estreñimiento	O
+.	O

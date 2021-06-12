@@ -1,0 +1,21 @@
+
+Además	O
+,	O
+dolor	O
+leve	O
+a	O
+nivel	O
+de	O
+cadera	O
+izquierda	O
+que	O
+no	O
+aumenta	O
+con	O
+la	O
+movilización	O
+ni	O
+origina	O
+limitación	O
+funcional	O
+.	O

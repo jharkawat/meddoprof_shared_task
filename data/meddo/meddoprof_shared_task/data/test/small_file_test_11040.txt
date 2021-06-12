@@ -1,0 +1,16 @@
+
+La	O
+PAAF	O
+y	O
+posterior	O
+biopsia	O
+abierta	O
+confirman	O
+el	O
+diagnóstico	O
+de	O
+carcinoma	O
+papilar	O
+de	O
+tiroides	O
+.	O

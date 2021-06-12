@@ -1,0 +1,10 @@
+
+Tampoco	O
+ha	O
+realizado	O
+reposo	O
+ni	O
+ha	O
+tenido	O
+traumatismos	O
+.	O

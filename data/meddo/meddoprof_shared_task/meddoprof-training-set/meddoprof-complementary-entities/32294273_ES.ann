@@ -1,0 +1,27 @@
+T1	SINTOMA 73 83	odinofagia
+T2	SINTOMA 95 111	artralgia difusa
+T3	SINTOMA 491 502	escalofríos
+T4	SINTOMA 504 518	dolor torácico
+T5	SINTOMA 521 527	fiebre
+T6	SINTOMA 552 566	linfocitopenia
+T7	SINTOMA 687 728	PCR de SARS-CoV-2) dio resultado positivo
+T8	PROCEDIMIENTO 433 460	tratamiento antihistamínico
+T9	PROCEDIMIENTO 667 704	prueba de COVID-19 (PCR de SARS-CoV-2
+T10	PROCEDIMIENTO 782 798	antihistamínicos
+T11	NEG 22 25	sin
+T12	NSCO 26 38	antecedentes
+T13	NEG 284 286	No
+T14	NSCO 287 353	se hallaron desencadenantes excepto por las circunstancias víricas
+T15	NEG 405 414	negativas
+T16	FARMACO 746 757	paracetamol
+T17	ORG_VIVO 5 10	mujer
+T18	ORG_VIVO 271 282	dermatólogo
+T19	ORG_VIVO 346 353	víricas
+T20	ORG_VIVO 375 382	víricas
+T21	ORG_VIVO 694 704	SARS-CoV-2
+T22	ENFERMEDAD 118 162	erupción de placas eritematosas pruriginosas
+T23	ENFERMEDAD 239 248	urticaria
+T24	ENFERMEDAD 677 685	COVID-19
+T25	ENFERMEDAD 687 704	PCR de SARS-CoV-2
+T26	SANITARIO-PROFESION 271 282	dermatólogo
+T27	PACIENTE-PROFESION 40 62	residente del hospital

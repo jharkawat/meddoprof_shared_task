@@ -1,0 +1,6 @@
+
+Discurso	O
+desorganizado	O
+,	O
+prolijo	O
+.	O

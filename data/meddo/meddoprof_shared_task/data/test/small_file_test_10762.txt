@@ -1,0 +1,27 @@
+
+La	O
+exploración	O
+física	O
+y	O
+radiológica	O
+rebelan	O
+un	O
+absceso	O
+cervical	O
+y	O
+una	O
+tumoración	O
+subyacente	O
+en	O
+el	O
+seno	O
+piriforme	O
+derecho	O
+,	O
+que	O
+resulta	O
+ser	O
+un	O
+carcinoma	O
+epidermoide	O
+.	O

@@ -1,0 +1,15 @@
+
+Fue	O
+tratado	O
+inicialmente	O
+con	O
+moxifloxacino	O
+inicialmente	O
+pensándose	O
+en	O
+un	O
+proceso	O
+rinosinusal	O
+sin	O
+mejoría	O
+.	O

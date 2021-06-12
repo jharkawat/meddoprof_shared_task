@@ -1,0 +1,5 @@
+
+Leucopenia	O
+en	O
+hemograma	O
+.	O

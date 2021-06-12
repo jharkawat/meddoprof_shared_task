@@ -1,0 +1,27 @@
+
+Al	O
+tercer	O
+día	O
+presentó	O
+mejora	O
+parcial	O
+del	O
+malestar	O
+general	O
+,	O
+apareció	O
+tos	O
+seca	O
+,	O
+día	O
+en	O
+que	O
+se	O
+le	O
+toma	O
+hisopado	O
+nasofaríngeo	O
+para	O
+prueba	O
+molecular	O
+.	O

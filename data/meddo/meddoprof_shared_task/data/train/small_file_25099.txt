@@ -1,0 +1,17 @@
+
+Eje	O
+I	O
+:	O
+Trastorno	O
+de	O
+la	O
+conducta	O
+alimentaria	O
+no	O
+especificado	O
+(	O
+F50	O
+.	O
+9	O
+)	O
+.	O

@@ -1,0 +1,11 @@
+
+Imagen	O
+lineal	O
+sugerente	O
+de	O
+fractura	O
+occipital	O
+izquierda	O
+no	O
+desplazada	O
+.	O

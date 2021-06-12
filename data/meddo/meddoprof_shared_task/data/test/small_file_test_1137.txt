@@ -1,0 +1,21 @@
+
+A	O
+través	O
+del	O
+interrogatorio	O
+se	O
+supo	O
+que	O
+había	O
+tenido	O
+dos	O
+vómitos	O
+con	O
+restos	O
+de	O
+alimentos	O
+,	O
+precedidos	O
+de	O
+náuseas	O
+.	O

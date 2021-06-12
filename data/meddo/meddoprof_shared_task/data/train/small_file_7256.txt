@@ -1,0 +1,18 @@
+
+En	O
+la	O
+anamnesis	O
+refiere	O
+síndrome	O
+de	O
+alergia	O
+oral	O
+(	O
+SAO	O
+)	O
+con	O
+la	O
+ingesta	O
+de	O
+pipas	O
+.	O

@@ -1,0 +1,15 @@
+
+Con	O
+4	O
+años	O
+apenas	O
+hablaba	O
+,	O
+por	O
+lo	O
+que	O
+inició	O
+apoyo	O
+de	O
+logopeda	B-PROFESION
+.	O

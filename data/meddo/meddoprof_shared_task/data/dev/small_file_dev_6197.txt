@@ -1,0 +1,27 @@
+
+En	O
+el	O
+sistema	O
+articular	O
+había	O
+disminución	O
+del	O
+rango	O
+articular	O
+en	O
+ambas	O
+muñecas	O
+,	O
+debido	O
+principalmente	O
+a	O
+la	O
+presencia	O
+de	O
+las	O
+lesiones	O
+dérmicas	O
+y	O
+de	O
+edema	O
+.	O

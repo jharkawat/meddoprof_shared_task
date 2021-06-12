@@ -1,0 +1,22 @@
+
+Paciente	O
+varón	O
+de	O
+49	O
+años	O
+sin	O
+antecedentes	O
+médicos	O
+ni	O
+quirúrgicos	O
+de	O
+interés	O
+,	O
+salvo	O
+el	O
+presentar	O
+un	O
+etilismo	O
+crónico	O
+activo	O
+.	O

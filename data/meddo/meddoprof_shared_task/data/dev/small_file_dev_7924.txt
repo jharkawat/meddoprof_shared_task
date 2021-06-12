@@ -1,0 +1,16 @@
+
+En	O
+contra	O
+de	O
+este	O
+diagnóstico	O
+,	O
+la	O
+presencia	O
+de	O
+una	O
+TC	O
+sin	O
+datos	O
+sugestivos	O
+.	O

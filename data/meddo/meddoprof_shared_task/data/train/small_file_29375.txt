@@ -1,0 +1,11 @@
+
+Se	O
+etiqueta	O
+de	O
+"	O
+trastorno	O
+psicótico	O
+agudo	O
+polimorfo	O
+"	O
+.	O

@@ -1,0 +1,27 @@
+
+Después	O
+de	O
+su	O
+liberación	O
+al	O
+finalizar	O
+la	O
+guerra	O
+del	O
+Golfo	O
+fue	O
+devuelto	O
+a	O
+su	O
+país	O
+donde	O
+se	O
+le	O
+practicaron	O
+varias	O
+operaciones	O
+para	O
+reconstituirle	O
+el	O
+ano	O
+.	O

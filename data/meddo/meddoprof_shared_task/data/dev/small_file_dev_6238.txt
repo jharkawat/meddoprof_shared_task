@@ -1,0 +1,27 @@
+
+La	O
+mayoría	O
+de	O
+las	O
+veces	O
+el	O
+paciente	O
+tiene	O
+algún	O
+factor	O
+de	O
+riesgo	O
+ocupacional	O
+o	O
+vive	O
+en	O
+una	O
+zona	O
+endémica	O
+para	O
+la	O
+adquisición	O
+del	O
+agente	O
+causal	O
+.	O

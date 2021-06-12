@@ -1,0 +1,22 @@
+
+Pero	O
+yo	O
+no	O
+estoy	O
+de	O
+acuerdo	O
+:	O
+hasta	O
+que	O
+no	O
+esté	O
+seguro	O
+de	O
+que	O
+puedo	O
+aprobar	O
+,	O
+no	O
+pienso	O
+presentarme	O
+.	O

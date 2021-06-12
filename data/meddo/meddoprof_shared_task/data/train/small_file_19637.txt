@@ -1,0 +1,12 @@
+
+Medicamentos	O
+que	O
+consume	O
+:	O
+No	O
+consume	O
+ningún	O
+medicamento	O
+en	O
+la	O
+actualidad	O

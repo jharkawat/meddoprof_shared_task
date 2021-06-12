@@ -1,0 +1,14 @@
+
+Se	O
+realizó	O
+hepatectomía	O
+izquierda	O
+con	O
+nodulectomía	O
+de	O
+los	O
+segmentos	O
+VIII	O
+y	O
+VI	O
+.	O

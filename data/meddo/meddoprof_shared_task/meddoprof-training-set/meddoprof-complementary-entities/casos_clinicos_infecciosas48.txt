@@ -1,0 +1,48 @@
+Antecedentes personales:
+Varón de 29 años, natural de Mali, que reside en España desde hace 4,5 años. No ha regresado a su país de origen. Su ruta migratoria fue: Costa de Marfil, Libia, Mali, Argelia, Marruecos y Fuerteventura. Trabaja en los invernaderos. Convive con 8 personas en una casa con buenas condiciones higiénicas. Antecedentes de malaria en repetidas ocasiones. No hábitos tóxicos ni otros antecedentes de interés. No realiza tratamiento de forma habitual. No alergias medicamentosas conocidas.
+
+Enfermedad actual: es remitido desde Atención Primaria a la consulta de Medicina Tropical (UMT) para estudio de hipertransaminasemia. El paciente acudió a su médico de cabecera por dolor abdominal que relacionaba con la ingesta de alimentos, con deposiciones normales, y que cedió con un tratamiento que no aporta. En esa visita, se le aplica el protocolo de atención inicial al inmigrante, que incluye la realización de un hemograma completo, bioquímica con perfil hepatorrenal, serología de VHB, VHC, VIH y sífilis, así como estudio de parásitos en heces y en orina (en sujetos procedentes de regiones endémicas de esquistosomiasis). Refiere también prurito de características inespecíficas, sin relación con la ducha. Antecedente de hematuria en la infancia para la que recibió un tratamiento que no recuerda, quedando desde entonces asintomático.
+
+
+Exploración física:
+TA: 145/90, Peso: 60 kg. Buen estado general, bien nutrido. Cabeza y cuello: no adenopatías, ni muguet. ACR: tonos rítmicos sin soplos; murmullo vesicular conservado sin ruidos patológicos. Abdomen blando, depresible, no doloroso, no se palpan megalias ni masas. MMII: no datos de filariasis; mínima micosis interdigital entre 4o-5o dedos de ambos pies.
+
+Pruebas complementarias iniciales:
+• Hemograma: leucocitos 9120/microL (57,9% Neutrófilos, 33,6% linfocitos, 8,5% eosinófilos; 775 eosinofilos/ mm3). Hb 15,7 mg/dl, Hto 46,5%, VCM 89,1; HCM 30,1; Plaquetas 279.000/microL.
+• Bioquímica: AST 93 UI/L, ALT 184 UI/L, GGT 125UI/L, FA 91 UI/L, resto normal.
+• Serología: VIH, VHC y lues negativo. VHB: AgHBs -, AcHBs -, AcHBc +.
+• Parásitos en heces con técnica de concentración (Ritchie) 3 muestras (x3): Blastocystis hominis.  
+
+Diagnóstico diferencial
+El diagnóstico diferencial lo planteamos por un lado en la eosinofilia y por otro en la hipertransaminasemia. La eosinofilia es uno de los síndromes más frecuentes con los que se enfrenta el clínico en pacientes con patología tropical importada. Aunque hay que considerar como causas posibles los procesos alérgicos y de hipersensibilidad, las enfermedades inflamatorias sistémicas y las neoplasias (hematológicas y de órgano sólido), la etiología más frecuente en pacientes procedentes de regiones tropicales (nuestro paciente procede de Mali) son las parasitosis, fundamentalmente las causadas por helmintos. La ausencia de sintomatología específica de las primeras causas hace más probable el origen parasitario. Ya en la anamnesis, el paciente hace referencia a episodios de hematuria en la infancia, posiblemente debido a una esquistosomiasis urinaria, enfermedad endémica de los países de África Occidental. Entre las posibilidades a considerar están: Nematodos, se incluyen:
+1. Geohelmintos (uncinarias, Trichuris trichuria, Ascaris lumbricoides, Strongyloides stercoralis).
+2. Filariosis (oncocercosis, filariasis linfática, género Mansonella, Loa loa).
+3. Y otros menos frecuentes como Toxocara o Anisakis. Cestodos: Tenia solium, Tenia saginata, Hymenolepis nana, Equinococcus granulosus. Trematodos: Schistosoma haematobium, Schistosoma intercalatum y Schistosoma mansoni, Fasciola hepática.
+
+En relación con la afectación hepática, las posibles causas a considerar en este paciente son:
+• Hepatitis virales. La hepatitis crónica por VHB afecta a más de 350 millones de personas en el mundo, y la prevalencia en la mayoría de los países de África Subsahariana es superior al 8%. En nuestro caso, el AgHBs es negativo, pero habría que valorar la posibilidad de una hepatitis B oculta (AcHBc+, AgHBs-, carga viral positiva). También habría que considerar la hepatitis crónica por VHC, aunque la prevalencia de la enfermedad es menor en pacientes procedentes de esta zona. Las otras etiologías (VHA, VHE) se manifiestan por hepatitis aguda, que parece razonable descartar.
+• Parasitosis. Entre las que pueden ocasionar afectación hepática destacan la Fasciola hepática, Ascaris lumbricoides (más asociada a colangitis, colecistitis, colestasis), y la esquistosomiasis. La esquistosomiasis, sobre todo producida por S. mansoni, puede dar lugar hipertensión portal presinusoidal, caracterizada por intensa fibrosis periportal, hiperesplenismo y varices esofágicas, conservando hasta estadios finales de la enfermedad la función hepatocelular.
+• Lesiones tumorales: el carcinoma hepatocelular es una entidad muy prevalente entre pacientes procedentes de zonas endémicas por VHB, en los que la adquisición de la enfermedad en la infancia permite la aparición de este tipo de tumores en pacientes de edad joven.
+• Otras posibilidades a considerar serían hepatitis de origen autoinmune, medicamentoso, alcohol, de causa metabólica, granulomatosa o idiopática.
+
+Evolución
+Se prescribe tratamiento tópico con ciclopiroxolamina y se solicita estudio según el protocolo de estudio y tratamiento de la eosinofilia de la UMT, así como ecografía abdominal y vesical, y carga viral de VHB para descartar hepatitis B oculta. Los resultados se muestran a continuación:
+• Hemograma: leucocitos 5.430/microL (4,2% eosinófilos; 230 eosinófilos/mm3). Hb 14,4 mg/dl. Plaquetas 189.000/microL.
+• Rasgo drepanocítico (heterocigoto para HbS; HbS 37%).
+• Bioquímica: AST 48 UI/L, ALT 74 UI/L, GGT 81UI/L, FA 119 UI/L, resto normal, incluyendo metabolismo del hierro, perfil renal y lipídico. IgE: 243 UI/mL.
+• Orina: sedimento normal.
+• Coagulación: TP 74%, INR: 1.2, TTPa 27.8 sg.
+• Serología: Strongyloides (ELISA): NEGATIVA; Schistosoma (ELISA): MUY POSITIVA. VHB: AgHBs -,
+• PCR VHB: POSITIVA; cuantificación ADN VHB: 1.000 UI/mL.
+• Estudios parasitológicos: 1. Parásitos en heces con técnica de concentración (x3): NEGATIVOS. 2. Estudio de microfilarias en sangre (test de Knott): NEGATIVO. 3. Parásitos en orina con técnica de concentración: NEGATIVOS.
+• Alfa-fetoproteína: 1,4 ng/mL
+• Rx de tórax y abdomen: sin alteraciones.
+• Mantoux: 10 mm.
+• Ecografía abdominal y vesical: hígado de tamaño normal con alteración de la ecoestructura. Hiperecogenicidad del tejido periportal con intensa fibrosis. Porta aumentada de calibre (15 mm) y bazo de 12 cm. Vejiga de paredes normales.
+
+Ante el diagnóstico de hepatitis B oculta y signos de hepatopatía crónica, con datos muy sugerentes de parasitación por Schistosoma, se solicita biopsia rectal que muestra mucosa con presencia de huevos de esquistosomas. Posteriormente, se decide realización de biopsia hepática para valorar el grado de actividad de la enfermedad, con el siguiente resultado: "Parénquima hepático reemplazado por nódulos de pequeño tamaño con tractos conectivos fibrosos gruesos, con infiltrado inflamatorio linfohistiocitario, necrosis parcelar erosiva y acúmulos de eosinófilos. Cambios regenerativos en hepatocitos. Diagnóstico final compatible con hepatopatía crónica de origen viral (grado 2 de actividad, grado 3 de fibrosis), y posiblemente secundaria a esquistosomiasis aunque no se han visualizado parásitos".
+
+Se solicita serología de VHDelta (AcVHD POSITIVA, PCR VHD: NEGATIVA) y gastroscopia, a la que se niega el paciente. Ante los hallazgos descritos se inicia tratamiento con praziquantel (40 mg/Kg de peso, 1 día y con tenofovir 300mg/ día, presentando actualmente buena adherencia al tratamiento, siendo la última carga viral de VHB negativa.
+
+Diagnóstico final
+Hepatopatía crónica secundaria a esquistosomiasis y hepatitis B oculta.

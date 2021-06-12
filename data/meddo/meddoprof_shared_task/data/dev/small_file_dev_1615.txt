@@ -1,0 +1,9 @@
+
+al	O
+polvo	O
+volverás	O
+.	O
+.	O
+.	O
+"	O
+.	O

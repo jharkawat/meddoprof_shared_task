@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+presenta	O
+dudas	O
+sobre	O
+la	O
+utilidad	O
+del	O
+ingreso	O
+en	O
+la	O
+unidad	O
+.	O

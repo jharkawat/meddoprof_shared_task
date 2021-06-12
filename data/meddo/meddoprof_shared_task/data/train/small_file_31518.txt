@@ -1,0 +1,17 @@
+
+Entabló	O
+más	O
+amistad	O
+con	O
+uno	O
+de	O
+los	O
+dos	O
+compañeros	O
+de	O
+piso	O
+que	O
+estudiaba	O
+con	O
+él	O
+.	O

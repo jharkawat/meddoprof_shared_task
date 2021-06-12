@@ -1,0 +1,8 @@
+
+Trabaja	O
+su	O
+presente	O
+y	O
+su	O
+agresividad	O
+.	O

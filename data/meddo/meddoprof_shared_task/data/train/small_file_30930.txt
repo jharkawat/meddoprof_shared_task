@@ -1,0 +1,7 @@
+
+Pruebas	O
+complementarias	O
+:	O
+ECG	O
+normal	O
+.	O

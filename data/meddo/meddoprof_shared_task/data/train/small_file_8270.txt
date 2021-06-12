@@ -1,0 +1,12 @@
+
+Lesiones	O
+óseas	O
+en	O
+metáfisis	O
+tibial	O
+y	O
+región	O
+intertrocantérica	O
+izquierdas	O
+inespecíficas	O
+.	O

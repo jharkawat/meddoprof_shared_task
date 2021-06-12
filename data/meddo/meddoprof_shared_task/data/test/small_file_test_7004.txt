@@ -1,0 +1,16 @@
+
+Como	O
+antecedentes	O
+quirúrgicos	O
+fue	O
+histerectomizada	O
+por	O
+miomas	O
+en	O
+2003	O
+y	O
+apendicectomizada	O
+en	O
+la	O
+infancia	O
+.	O

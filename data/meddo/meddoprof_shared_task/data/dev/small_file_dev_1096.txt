@@ -1,0 +1,24 @@
+
+Limitación	O
+en	O
+el	O
+habla	O
+,	O
+con	O
+ocasionales	O
+respuestas	O
+monosilábicas	O
+o	O
+parcas	O
+no	O
+siempre	O
+coherentes	O
+,	O
+lo	O
+que	O
+dificulta	O
+una	O
+exploración	O
+psicopatológica	O
+correcta	O
+.	O

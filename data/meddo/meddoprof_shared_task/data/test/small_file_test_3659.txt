@@ -1,0 +1,10 @@
+
+Continuó	O
+en	O
+controles	O
+cada	O
+3	O
+meses	O
+por	O
+protocolo	O
+.	O

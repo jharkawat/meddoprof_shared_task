@@ -1,0 +1,16 @@
+T1	SINTOMA 83 90	disuria
+T2	SINTOMA 92 103	polaquiuria
+T3	SINTOMA 106 132	dolor en región lumbosacra
+T4	SINTOMA 177 183	fiebre
+T5	PROCEDIMIENTO 315 324	anamnesis
+T6	PROCEDIMIENTO 489 501	tacto rectal
+T7	NEG 217 219	No
+T8	NSCO 220 307	constan alergias medicamentosas conocidas ni antecedentes médico-quirúrgicos de interés
+T9	NEG 325 330	niega
+T10	NSCO 331 373	haber tenido relaciones sexuales de riesgo
+T11	NEG 375 377	No
+T12	NSCO 378 413	refiere episodios previos similares
+T13	NEG 472 480	negativa
+T14	ORG_VIVO 0 5	Varón
+T15	ORG_VIVO 18 38	conductor de tractor
+T16	PACIENTE-PROFESION 18 38	conductor de tractor

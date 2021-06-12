@@ -1,0 +1,23 @@
+
+Por	O
+persistencia	O
+de	O
+la	O
+fiebre	O
+,	O
+consultó	O
+el	O
+11	O
+de	O
+junio	O
+en	O
+otro	O
+centro	O
+hospitalario	O
+,	O
+pautándose	O
+cefixima	O
+durante	O
+7	O
+días	O
+.	O

@@ -1,0 +1,351 @@
+T1	SINTOMA 470 485	Dolor Abdominal
+T2	SINTOMA 487 494	vómitos
+T3	SINTOMA 497 504	nauseas
+T4	SINTOMA 737 753	dolor en abdomen
+T5	SINTOMA 926 974	dolor se agranda por ingesta de alimentos grasos
+T6	SINTOMA 1051 1058	vómitos
+T7	SINTOMA 1061 1068	nauseas
+T8	SINTOMA 1263 1301	molestia en el abdomen, de tipo cólico
+T9	SINTOMA 1390 1397	vómitos
+T10	SINTOMA 1400 1407	nauseas
+T11	SINTOMA 1495 1500	dolor
+T12	SINTOMA 3640 3661	.....................
+T13	SINTOMA 4107 4112	dolor
+T14	SINTOMA 4114 4121	prurito
+T15	SINTOMA 4678 4686	pústulas
+T16	SINTOMA 4688 4695	prurito
+T17	SINTOMA 4794 4806	mala higiene
+T18	SINTOMA 5259 5265	edemas
+T19	SINTOMA 6026 6036	exoftalmos
+T20	SINTOMA 6039 6050	enoftalmias
+T21	SINTOMA 6056 6073	rasgos mongólicos
+T22	SINTOMA 6183 6189	ptosis
+T23	SINTOMA 6513 6530	dolor a palpación
+T24	SINTOMA 7445 7450	dolor
+T25	SINTOMA 7797 7830	dolor a la palpación, desplazable
+T26	SINTOMA 8248 8294	respiraciones bronquiales presentes y normales
+T27	SINTOMA 8663 8688	Ruidos cardiacos rítmicos
+T28	SINTOMA 8728 8734	soplos
+T29	SINTOMA 9011 9017	soplos
+T30	SINTOMA 9235 9274	respiración predominantemente abdominal
+T31	SINTOMA 9319 9337	reacción de defesa
+T32	SINTOMA 9339 9344	dolor
+T33	SINTOMA 9356 9377	irritación peritoneal
+T34	SINTOMA 9819 9844	ruidos hidroaérios suaves
+T35	SINTOMA 10364 10373	hipotonía
+T36	SINTOMA 10376 10386	hipertonía
+T37	SINTOMA 10392 10399	rigidez
+T38	SINTOMA 10661 10716	dolor en miembros superiores e inferiores - Vibratoria-
+T39	SINTOMA 10733 10779	alteración en miembros superiores e inferiores
+T40	SINTOMA 10780 10853	2-superficial- Táctil: conservada en los miembros superiores e inferiores
+T41	SINTOMA 11511 11520	.........
+T42	SINTOMA 13098 13119	Trastornos digestivos
+T43	SINTOMA 13121 13128	náuseas
+T44	SINTOMA 13130 13137	vómitos
+T45	SINTOMA 13140 13189	Dolor a la palpación en epigástrico y hipocondrio
+T46	SINTOMA 13229 13244	Pérdida de peso
+T47	SINTOMA 13342 13348	Fiebre
+T48	SINTOMA 13351 13361	sudoración
+T49	SINTOMA 13363 13390	Llenura abdominal por gases
+T50	SINTOMA 13595 13674	Dolor intenso y repentino en el centro de su abdomen, justo debajo del esternón
+T51	SINTOMA 13677 13693	Dolor de espalda
+T52	SINTOMA 13715 13733	Dolor en el hombro
+T53	SINTOMA 13755 13762	náuseas
+T54	SINTOMA 13765 13772	vómitos
+T55	SINTOMA 13774 13783	Ictericia
+T56	SINTOMA 13785 13792	Coluria
+T57	SINTOMA 13793 13799	Acolia
+T58	SINTOMA 13827 13838	inflamación
+T59	SINTOMA 13944 13996	contracción involuntaria de los músculos abdominales
+T60	SINTOMA 13997 14004	Rigidez
+T61	SINTOMA 14017 14050	músculos del abdomen están tensos
+T62	SINTOMA 14104 14119	dolor abdominal
+T63	SINTOMA 14400 14405	dolor
+T64	SINTOMA 14750 14764	Diverticulitis
+T65	SINTOMA 14863 14873	Saturnismo
+T66	SINTOMA 15581 15586	dolor
+T67	PROCEDIMIENTO 1153 1156	ECG
+T68	PROCEDIMIENTO 1159 1178	ecografía abdominal
+T69	PROCEDIMIENTO 1935 1944	lactancia
+T70	PROCEDIMIENTO 2335 2350	NEFROUROLOGICOS
+T71	PROCEDIMIENTO 2752 2766	INFECTOLOGICOS
+T72	PROCEDIMIENTO 2802 2818	ENDOCRINOLOGICOS
+T73	PROCEDIMIENTO 3640 3661	.....................
+T74	PROCEDIMIENTO 5511 5533	palpación de la cabeza
+T75	PROCEDIMIENTO 5631 5656	auscultación de la cabeza
+T76	PROCEDIMIENTO 7919 7931	Auscultación
+T77	PROCEDIMIENTO 8214 8226	Auscultación
+T78	PROCEDIMIENTO 9758 9770	Auscultación
+T79	PROCEDIMIENTO 11705 11716	Hemocultivo
+T80	PROCEDIMIENTO 11787 11805	ELECTROCARDIOGRAMA
+T81	PROCEDIMIENTO 12021 12024	ECG
+T82	PROCEDIMIENTO 12051 12071	RADIOGRAFIA DE TORAX
+T83	PROCEDIMIENTO 12182 12204	Silueta cardiovascular
+T84	PROCEDIMIENTO 12332 12351	Ecografia abdominal
+T85	PROCEDIMIENTO 12413 12426	ECO genicidad
+T86	PROCEDIMIENTO 12860 12875	ECO estructural
+T87	PROCEDIMIENTO 14701 14733	Perforación de una víscera hueca
+T88	PROCEDIMIENTO 15626 15654	Exámenes de función hepática
+T89	PROCEDIMIENTO 15655 15666	Ultrasonido
+T90	PROCEDIMIENTO 15727 15751	Tomografia computarizada
+T91	PROCEDIMIENTO 15824 15844	resonancia magnética
+T92	PROCEDIMIENTO 15973 15994	Radiografía con bario
+T93	PROCEDIMIENTO 15995 16006	Angiografía
+T94	PROCEDIMIENTO 16007 16014	Cirugía
+T95	PROCEDIMIENTO 16015 16025	Endoscopia
+T96	NEG 429 434	niega
+T97	NEG 656 659	sin
+T98	NSCO 660 670	dieta dash
+T99	NEG 845 847	no
+T100	NSCO 848 879	cede al uso de antiespasmódicos
+T101	NEG 1331 1334	sin
+T102	NSCO 1335 1346	irradiación
+T103	NEG 1372 1374	no
+T104	NSCO 1375 1397	se acompaño de vómitos
+T105	NEG 1486 1491	cedió
+T106	NSCO 1492 1500	el dolor
+T107	NEG 1616 1621	Niega
+T108	NEG 1631 1636	Niega
+T109	NEG 1650 1655	Niega
+T110	NEG 1761 1764	sin
+T111	NSCO 1765 1778	restricciones
+T112	NEG 1811 1813	no
+T113	NSCO 1814 1848	despierta por la noche para orinar
+T114	NEG 2004 2007	Sin
+T115	NSCO 2008 2020	antecedentes
+T116	NEG 2159 2162	sin
+T117	NSCO 2163 2173	dieta dash
+T118	NEG 2247 2250	Sin
+T119	NSCO 2251 2278	dados patológicos aparentes
+T120	NEG 2301 2304	Sin
+T121	NSCO 2305 2332	dados patológicos aparentes
+T122	NEG 2352 2355	Sin
+T123	NSCO 2356 2383	dados patológicos aparentes
+T124	NEG 2400 2403	Sin
+T125	NSCO 2404 2431	dados patológicos aparentes
+T126	NEG 2449 2452	Sin
+T127	NSCO 2453 2480	dados patológicos aparentes
+T128	NEG 2598 2600	No
+T129	NSCO 2601 2608	acuerda
+T130	NEG 2768 2771	Sin
+T131	NSCO 2772 2799	dados patológicos aparentes
+T132	NEG 2820 2823	Sin
+T133	NSCO 2824 2851	dados patológicos aparentes
+T134	NEG 2953 2956	Sin
+T135	NSCO 2957 2984	datos patológicos aparentes
+T136	NEG 3429 3432	sin
+T137	NSCO 3433 3481	antecedentes de hipertensión arterial y litiasis
+T138	NEG 4047 4049	No
+T139	NSCO 4050 4105	presenta cambios de coloración de la piel, pigmentación
+T140	NEG 4593 4595	No
+T141	NSCO 4596 4617	se observa turbéculos
+T142	NEG 5031 5038	excepto
+T143	NSCO 5039 5064	en la lúnula (blanquecida
+T144	NEG 5116 5118	no
+T145	NSCO 5119 5139	se observan lesiones
+T146	NEG 5168 5170	No
+T147	NSCO 5171 5181	infiltrado
+T148	NEG 5212 5214	no
+T149	NSCO 5215 5242	huella o godet a la presión
+T150	NEG 5244 5246	No
+T151	NSCO 5247 5265	a presentan edemas
+T152	NEG 5374 5376	no
+T153	NSCO 5377 5389	es abundante
+T154	NEG 5454 5457	sin
+T155	NSCO 5458 5488	lesiones ni cicatrices en piel
+T156	NEG 5575 5577	no
+T157	NSCO 5578 5626	se palpa nodulaciones, ni hundimientos craneales
+T158	NEG 5657 5659	no
+T159	NSCO 5660 5677	se asculta soplos
+T160	NEG 5730 5733	sin
+T161	NSCO 5734 5756	lesiones ni cicatrices
+T162	NEG 5772 5775	sin
+T163	NSCO 5776 5805	presencia de zonas alopecicas
+T164	NEG 5807 5809	no
+T165	NSCO 5810 5848	presentan pediculosis, ni exoparasitos
+T166	NEG 5892 5895	sin
+T167	NSCO 5896 5917	lesiones y cicatrices
+T168	NEG 6022 6025	sin
+T169	NSCO 6026 6050	exoftalmos y enoftalmias
+T170	NEG 6052 6055	sin
+T171	NSCO 6056 6073	rasgos mongólicos
+T172	NEG 6096 6099	sin
+T173	NSCO 6100 6112	limitaciones
+T174	NEG 6179 6182	sin
+T175	NSCO 6183 6212	ptosis, ni lesiones aparentes
+T176	NEG 6277 6280	sin
+T177	NSCO 6281 6299	lesiones aparentes
+T178	NEG 6331 6334	sin
+T179	NSCO 6335 6341	lesión
+T180	NEG 6471 6473	no
+T181	NSCO 6474 6487	hay seborreas
+T182	NEG 6509 6512	sin
+T183	NSCO 6513 6530	dolor a palpación
+T184	NEG 6625 6628	sin
+T185	NSCO 6629 6677	presencias de lesiones en las regiones del dorso
+T186	NEG 6934 6937	sin
+T187	NSCO 6938 6946	lesiones
+T188	UNC 7027 7040	aparentemente
+T189	USCO 7041 7058	lesiones e caries
+T190	NEG 7122 7125	sin
+T191	NSCO 7126 7137	hipertrofia
+T192	NEG 7164 7167	sin
+T193	NSCO 7168 7180	limitaciones
+T194	NEG 7424 7427	sin
+T195	NSCO 7428 7435	quistes
+T196	NEG 7649 7652	sin
+T197	NSCO 7653 7670	lesiones dérmicas
+T198	NEG 7728 7730	No
+T199	NSCO 7731 7748	se palpa ganglios
+T200	NEG 7793 7796	sin
+T201	NSCO 7797 7817	dolor a la palpación
+T202	NEG 7873 7875	no
+T203	NSCO 7876 7884	palpable
+T204	NEG 7897 7900	Sin
+T205	NSCO 7901 7917	particularidades
+T206	NEG 7933 7935	No
+T207	NSCO 7936 7954	se ausculta soplos
+T208	NEG 8296 8298	no
+T209	NSCO 8299 8331	se ausculta ruidos respiratorios
+T210	NEG 8438 8440	no
+T211	NSCO 8441 8448	visible
+T212	NEG 8625 8627	No
+T213	NSCO 8628 8645	presenta frémitos
+T214	NEG 8690 8693	sin
+T215	NSCO 8694 8754	presencia de ruidos agregados, ni soplos y ni desdoblamiento
+T216	NEG 9411 9413	no
+T217	NSCO 9414 9433	presenta hipertesia
+T218	NEG 9482 9484	no
+T219	NSCO 9485 9526	hay presencia de masas ni hernias o masas
+T220	NEG 9604 9606	no
+T221	NSCO 9607 9615	palpable
+T222	NEG 9617 9619	No
+T223	NSCO 9620 9636	se palpa riñones
+T224	NEG 9714 9716	No
+T225	NSCO 9717 9734	hay organomegalia
+T226	NEG 10010 10013	sin
+T227	NSCO 10014 10019	ayuda
+T228	NEG 10055 10057	no
+T229	NSCO 10058 10076	presenta parálisis
+T230	NEG 10134 10142	negativa
+T231	NEG 10171 10179	negativa
+T232	NEG 10349 10351	No
+T233	NSCO 10352 10386	a presentan hipotonía y hipertonía
+T234	NEG 10388 10391	sin
+T235	NSCO 10392 10399	rigidez
+T236	NEG 10430 10432	no
+T237	NSCO 10433 10495	a presenta resistencia a los movimientos pasivos (Espasticidad
+T238	NEG 10550 10553	sin
+T239	NSCO 10554 10570	particularidades
+T240	NEG 10729 10732	sin
+T241	NSCO 10733 10766	alteración en miembros superiores
+T242	NEG 11720 11722	NO
+T243	NSCO 11723 11733	Urocultivo
+T244	NEG 11737 11739	NO
+T245	NSCO 11740 11745	Otros
+T246	NEG 12025 12028	sin
+T247	NSCO 12029 12048	valores patológicos
+T248	NEG 12089 12092	sin
+T249	NSCO 12093 12107	particularidad
+T250	NEG 12123 12126	sin
+T251	NSCO 12127 12141	particularidad
+T252	NEG 12162 12165	sin
+T253	NSCO 12166 12180	particularidad
+T254	NEG 12206 12209	sin
+T255	NSCO 12210 12224	particularidad
+T256	NEG 12249 12252	sin
+T257	NSCO 12253 12267	particularidad
+T258	NEG 12283 12286	sin
+T259	NSCO 12287 12301	particularidad
+T260	FARMACO 636 645	Enalapril
+T261	FARMACO 881 890	Buscapina
+T262	FARMACO 1459 1468	Buscapina
+T263	FARMACO 2139 2148	Enalapril
+T264	ORG_VIVO 36 46	PERSONALES
+T265	ORG_VIVO 527 535	Paciente
+T266	ORG_VIVO 542 550	femenino
+T267	ORG_VIVO 1085 1095	familiares
+T268	ORG_VIVO 1217 1225	Paciente
+T269	ORG_VIVO 1412 1420	paciente
+T270	ORG_VIVO 1516 1526	PERSONALES
+T271	ORG_VIVO 1907 1912	hijos
+T272	ORG_VIVO 1955 1960	hijos
+T273	ORG_VIVO 2042 2050	Paciente
+T274	ORG_VIVO 2998 3006	Paciente
+T275	ORG_VIVO 3030 3037	plantas
+T276	ORG_VIVO 3257 3263	marido
+T277	ORG_VIVO 3268 3273	hijos
+T278	ORG_VIVO 3415 3420	Padre
+T279	ORG_VIVO 3423 3428	madre
+T280	ORG_VIVO 4259 4267	paciente
+T281	ORG_VIVO 9301 9309	Paciente
+T282	ORG_VIVO 9894 9902	paciente
+T283	ORG_VIVO 9993 10001	paciente
+T284	ORG_VIVO 10203 10211	paciente
+T285	ORG_VIVO 11526 11649	...........................................................................................................................
+T286	ORG_VIVO 11746 11784	......................................
+T287	ENFERMEDAD 507 524	ENFERMEDAD ACTUAL
+T288	ENFERMEDAD 589 610	Hipertensión Arterial
+T289	ENFERMEDAD 1181 1214	ANTECEDENTES DE ENFERMEDAD ACTUAL
+T290	ENFERMEDAD 2092 2113	hipertensión arterial
+T291	ENFERMEDAD 2926 2932	aborto
+T292	ENFERMEDAD 3020 3037	alergia a plantas
+T293	ENFERMEDAD 3449 3470	hipertensión arterial
+T294	ENFERMEDAD 3473 3481	litiasis
+T295	ENFERMEDAD 4501 4548	lesiones cutáneas tales como maculas vasculares
+T296	ENFERMEDAD 4559 4591	pápulas en el piel de la espalda
+T297	ENFERMEDAD 4697 4707	triquiasis
+T298	ENFERMEDAD 5267 5294	enfisema celular subcutáneo
+T299	ENFERMEDAD 5296 5355	linfomas subcutáneos, nódulos, abscesos, flemón y granuloma
+T300	ENFERMEDAD 5470 5506	cicatrices en piel y cuero cabelludo
+T301	ENFERMEDAD 5820 5831	pediculosis
+T302	ENFERMEDAD 6183 6189	ptosis
+T303	ENFERMEDAD 6643 6706	lesiones en las regiones del dorso, raíz, cuerpo y alas nasales
+T304	ENFERMEDAD 6979 6989	gingivitis
+T305	ENFERMEDAD 7052 7058	caries
+T306	ENFERMEDAD 7345 7356	foliculitis
+T307	ENFERMEDAD 9565 9572	hernias
+T308	ENFERMEDAD 10087 10097	hemiplejia
+T309	ENFERMEDAD 10099 10110	hemiparesia
+T310	ENFERMEDAD 13011 13029	Pancreatitis Aguda
+T311	ENFERMEDAD 13098 13119	Trastornos digestivos
+T312	ENFERMEDAD 13214 13227	Hepatomegalia
+T313	ENFERMEDAD 13484 13507	ulcera (lesión) cutánea
+T314	ENFERMEDAD 14462 14500	DIAGNOSTICOS ETIOLOGICOS (POR SINDROME
+T315	ENFERMEDAD 14505 14523	Pancreatitis Aguda
+T316	ENFERMEDAD 14588 14606	Pancreatitis Aguda
+T317	ENFERMEDAD 14630 14640	Colangitis
+T318	ENFERMEDAD 14643 14673	Isquemia / Infarto mesentérico
+T319	ENFERMEDAD 14676 14698	Obstrucción Intestinal
+T320	ENFERMEDAD 14701 14733	Perforación de una víscera hueca
+T321	ENFERMEDAD 14736 14747	Apendicitis
+T322	ENFERMEDAD 14750 14764	Diverticulitis
+T323	ENFERMEDAD 14767 14791	Rotura de quiste ovárico
+T324	ENFERMEDAD 14794 14811	Embarazo ectópico
+T325	ENFERMEDAD 14834 14837	IAM
+T326	ENFERMEDAD 14838 14848	– Neumonía
+T327	ENFERMEDAD 14853 14860	derrame
+T328	ENFERMEDAD 14876 14893	Púrpura de Henoch
+T329	ENFERMEDAD 14922 14939	PATOLOGÍA TUMORAL
+T330	ENFERMEDAD 14940 14967	Tumor benigno de vía biliar
+T331	ENFERMEDAD 14968 14986	Quiste de colédoco
+T332	ENFERMEDAD 14987 15005	Quiste pancreático
+T333	ENFERMEDAD 15006 15034	Cáncer de cabeza de páncreas
+T334	ENFERMEDAD 15035 15053	Cáncer de vesícula
+T335	ENFERMEDAD 15056 15066	vía biliar
+T336	ENFERMEDAD 15067 15076	Carcinoma
+T337	ENFERMEDAD 15119 15136	Apendicitis aguda
+T338	ENFERMEDAD 15138 15156	Colecistitis aguda
+T339	ENFERMEDAD 15157 15177	Úlcera péptica aguda
+T340	ENFERMEDAD 15192 15215	Enfermedad diverticular
+T341	ENFERMEDAD 15228 15253	Isquemia intestinal aguda
+T342	ENFERMEDAD 15258 15279	trombosis mesentérica
+T343	ENFERMEDAD 15281 15309	Obstrucción intestinal aguda
+T344	ENFERMEDAD 15314 15336	bridas postoperatorias
+T345	ENFERMEDAD 15362 15381	Hernia estrangulada
+T346	ENFERMEDAD 15383 15415	Traumatismo abdominal complicado
+T347	ENFERMEDAD 15428 15445	traumatismo renal
+T348	ENFERMEDAD 15448 15469	traumatismo de vejiga
+T349	ENFERMEDAD 15545 15563	isquémica cardiaca
+T350	PACIENTE-SITUACION_LABORAL 167 178	Ama de Casa
+T351	SANITARIO-PROFESION 16080 16086	MEDICO

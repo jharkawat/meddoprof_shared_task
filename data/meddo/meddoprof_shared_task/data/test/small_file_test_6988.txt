@@ -1,0 +1,24 @@
+
+Las	O
+características	O
+radiológicas	O
+descartan	O
+las	O
+causas	O
+más	O
+habituales	O
+de	O
+pancreatitis	O
+,	O
+tales	O
+como	O
+la	O
+litiásica	O
+y	O
+la	O
+secundaria	O
+a	O
+consumo	O
+de	O
+alcohol	O
+.	O

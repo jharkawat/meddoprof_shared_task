@@ -1,0 +1,11 @@
+
+Según	O
+el	O
+informe	O
+de	O
+la	O
+policía	B-PROFESION
+,	O
+la	O
+Sra	O
+.	O

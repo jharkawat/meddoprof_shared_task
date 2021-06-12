@@ -1,0 +1,19 @@
+
+Que	O
+no	O
+le	O
+pasa	O
+nada	O
+malo	O
+,	O
+que	O
+lo	O
+de	O
+las	O
+voces	O
+sólo	O
+le	O
+pasa	O
+a	O
+veces	O
+.	O

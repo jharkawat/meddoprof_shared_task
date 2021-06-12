@@ -1,0 +1,23 @@
+
+La	O
+familia	O
+describe	O
+la	O
+persistencia	O
+de	O
+la	O
+clínica	O
+como	O
+episodios	O
+de	O
+mutismo	O
+y	O
+desconexión	O
+recurrentes	O
+,	O
+de	O
+frecuencia	O
+cada	O
+vez	O
+mayor	O
+.	O

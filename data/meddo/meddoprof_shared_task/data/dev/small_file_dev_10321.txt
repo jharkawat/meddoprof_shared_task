@@ -1,0 +1,13 @@
+
+Antes	O
+de	O
+su	O
+enfermedad	O
+el	O
+paciente	O
+era	O
+considerado	O
+sociable	O
+y	O
+extrovertido	O
+.	O

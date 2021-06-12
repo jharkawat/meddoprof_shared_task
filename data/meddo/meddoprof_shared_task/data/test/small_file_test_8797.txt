@@ -1,0 +1,17 @@
+
+En	O
+noviembre	O
+se	O
+realizó	O
+PAAF	O
+transbronquial	O
+de	O
+adenopatías	O
+mediastínicas	O
+con	O
+resultado	O
+negativo	O
+para	O
+células	O
+malignas	O
+.	O

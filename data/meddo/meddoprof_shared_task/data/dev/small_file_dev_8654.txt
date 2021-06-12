@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+era	O
+natural	O
+de	O
+Gambia	O
+,	O
+con	O
+ruta	O
+migratoria	O
+:	O
+Gambia	O
+-	O
+Libia	O
+-	O
+Italia	O
+-	O
+España	O
+(	O
+2010	O
+)	O
+.	O

@@ -1,0 +1,27 @@
+
+•	O
+TC	O
+de	O
+cráneo	O
+:	O
+lesión	O
+hipodensa	O
+en	O
+el	O
+territorio	O
+posterior	O
+de	O
+la	O
+arteria	O
+cerebral	O
+media	O
+derecha	O
+,	O
+la	O
+lesión	O
+antigua	O
+había	O
+disminuido	O
+de	O
+tamaño	O
+.	O

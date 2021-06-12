@@ -1,0 +1,8 @@
+
+El	O
+curso	O
+del	O
+pensamiento	O
+estaba	O
+desorganizado	O
+.	O

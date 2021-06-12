@@ -1,0 +1,15 @@
+
+Intervenciones	O
+quirúrgicas	O
+:	O
+una	O
+cesárea	O
+,	O
+amigdalectomía	O
+y	O
+carcinoma	O
+in	O
+situ	O
+de	O
+cérvix	O
+.	O

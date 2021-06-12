@@ -1,0 +1,26 @@
+
+Los	O
+padres	O
+se	O
+separaron	O
+informalmente	O
+,	O
+hace	O
+15	O
+años	O
+quedando	O
+los	O
+3	O
+hijos	O
+a	O
+cargo	O
+del	O
+padre	O
+:	O
+"	O
+mi	O
+madre	O
+nos	O
+abandonó	O
+"	O
+.	O

@@ -1,0 +1,18 @@
+
+Ha	O
+sido	O
+visto	O
+,	O
+según	O
+él	O
+,	O
+varias	O
+veces	O
+,	O
+por	O
+el	O
+psicólogo	B-PROFESION
+de	O
+la	O
+policía	B-PROFESION
+.	O

@@ -1,0 +1,18 @@
+
+Dada	O
+la	O
+sospecha	O
+de	O
+una	O
+neumonía	O
+intrahospitalaria	O
+sobre	O
+-	O
+agregada	O
+,	O
+se	O
+ordenó	O
+cultivo	O
+de	O
+esputo	O
+.	O

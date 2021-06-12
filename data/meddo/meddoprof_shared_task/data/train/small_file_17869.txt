@@ -1,0 +1,21 @@
+
+Fue	O
+valorado	O
+por	O
+Psiquiatría	O
+,	O
+que	O
+confirmó	O
+el	O
+diagnóstico	O
+de	O
+dependencia	O
+de	O
+opiáceos	O
+y	O
+programó	O
+su	O
+seguimiento	O
+al	O
+alta	O
+.	O

@@ -1,0 +1,13 @@
+
+En	O
+la	O
+bioquímica	O
+el	O
+perfil	O
+hepatorrenal	O
+y	O
+los	O
+iones	O
+fueron	O
+normales	O
+.	O

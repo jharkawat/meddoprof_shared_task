@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+se	O
+muestra	O
+muy	O
+colaborador	O
+y	O
+adecuado	O
+durante	O
+la	O
+exploración	O
+.	O

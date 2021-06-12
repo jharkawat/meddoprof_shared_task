@@ -1,0 +1,17 @@
+
+Hiponatremia	O
+,	O
+anemia	O
+de	O
+6	O
+g	O
+/	O
+dl	O
+de	O
+Hb	O
+,	O
+y	O
+ECOG	O
+PS	O
+4	O
+.	O

@@ -1,0 +1,11 @@
+
+Boca	O
+normal	O
+sin	O
+signos	O
+de	O
+infección	O
+dentaria	O
+ni	O
+periodontitis	O
+.	O

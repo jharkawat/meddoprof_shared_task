@@ -1,0 +1,21 @@
+
+Las	O
+lesiones	O
+inicialmente	O
+adoptaban	O
+una	O
+morfología	O
+de	O
+eczema	O
+agudo	O
+exudativo	O
+pero	O
+posteriormente	O
+presentaban	O
+un	O
+aspecto	O
+más	O
+sub	O
+-	O
+agudo	O
+.	O

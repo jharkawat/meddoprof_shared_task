@@ -1,0 +1,10 @@
+
+»	O
+Auscultación	O
+cardiaca	O
+:	O
+ruidos	O
+cardiacos	O
+rítmicos	O
+sin	O
+soplos	O

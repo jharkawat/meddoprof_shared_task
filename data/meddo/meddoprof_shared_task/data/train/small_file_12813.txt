@@ -1,0 +1,10 @@
+
+Como	O
+único	O
+hallazgo	O
+:	O
+anticoagulante	O
+lúpico	O
+positivo	O
+débil	O
+.	O

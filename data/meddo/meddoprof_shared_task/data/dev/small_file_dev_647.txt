@@ -1,0 +1,8 @@
+
+No	O
+sintomatología	O
+de	O
+orden	O
+psicótico	O
+objetivable	O
+.	O

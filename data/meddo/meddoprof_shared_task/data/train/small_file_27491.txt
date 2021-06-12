@@ -1,0 +1,19 @@
+
+Cuenta	O
+con	O
+antecedentes	O
+de	O
+seguimiento	O
+en	O
+Psiquiatría	O
+desde	O
+los	O
+20	O
+años	O
+por	O
+un	O
+episodio	O
+depresivo	O
+según	O
+refiere	O
+.	O

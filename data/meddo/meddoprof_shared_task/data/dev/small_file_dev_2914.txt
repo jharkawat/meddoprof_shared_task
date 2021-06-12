@@ -1,0 +1,18 @@
+
+Parece	O
+que	O
+no	O
+sabe	O
+muy	O
+bien	O
+qué	O
+decir	O
+,	O
+la	O
+mirada	O
+la	O
+tiene	O
+un	O
+poco	O
+perdida	O
+.	O

@@ -1,0 +1,17 @@
+
+A	O
+los	O
+cinco	O
+años	O
+perdió	O
+a	O
+su	O
+padre	O
+quien	O
+murió	O
+en	O
+un	O
+accidente	O
+de	O
+autos	O
+.	O

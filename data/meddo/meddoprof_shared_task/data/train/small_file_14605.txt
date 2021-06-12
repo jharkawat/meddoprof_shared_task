@@ -1,0 +1,18 @@
+
+A	O
+la	O
+exploración	O
+física	O
+destaca	O
+una	O
+hipofonesis	O
+en	O
+los	O
+2	O
+/	O
+3	O
+inferiores	O
+del	O
+hemitórax	O
+izquierdo	O
+.	O

@@ -1,0 +1,27 @@
+
+Inicia	O
+en	O
+marzo	O
+de	O
+2017	O
+segunda	O
+línea	O
+basada	O
+en	O
+gemcitabina	O
++	O
+docetaxel	O
+,	O
+con	O
+respuesta	O
+parcial	O
+tras	O
+3	O
+ciclos	O
+y	O
+enfermedad	O
+estable	O
+tras	O
+6	O
+ciclos	O
+.	O

@@ -1,0 +1,14 @@
+
+Trastorno	O
+por	O
+consumo	O
+de	O
+cannabis	O
+,	O
+grave	O
+(	O
+304	O
+.	O
+30	O
+)	O
+.	O

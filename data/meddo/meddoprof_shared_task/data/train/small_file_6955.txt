@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+no	O
+sabía	O
+precisar	O
+el	O
+tiempo	O
+de	O
+evolución	O
+de	O
+la	O
+lesión	O
+.	O

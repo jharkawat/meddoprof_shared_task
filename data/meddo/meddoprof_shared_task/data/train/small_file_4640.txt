@@ -1,0 +1,23 @@
+
+Se	O
+decide	O
+trasladar	O
+a	O
+la	O
+paciente	O
+a	O
+Urgencias	O
+del	O
+Hospital	O
+mediante	O
+ambulancia	O
+con	O
+asistencia	O
+médica	O
+y	O
+siendo	O
+monitorizada	O
+en	O
+todo	O
+momento	O
+.	O

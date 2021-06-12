@@ -1,0 +1,13 @@
+
+No	O
+presentó	O
+fiebre	O
+ni	O
+aumento	O
+de	O
+la	O
+temperatura	O
+a	O
+nivel	O
+escrotal	O
+.	O

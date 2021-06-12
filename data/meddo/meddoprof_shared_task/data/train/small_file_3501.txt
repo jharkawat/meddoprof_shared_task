@@ -1,0 +1,19 @@
+
+Tratamiento	O
+habitual	O
+:	O
+Mirtazapina	O
+15mg	O
+cada	O
+24h	O
+,	O
+Ketazolam	O
+15mg	O
+cada	O
+24h	O
+,	O
+Lormetazepam	O
+1mg	O
+cada	O
+24h	O
+.	O

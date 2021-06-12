@@ -1,0 +1,22 @@
+
+Consumo	O
+regular	O
+de	O
+cannabis	O
+con	O
+incremento	O
+de	O
+consumo	O
+en	O
+el	O
+año	O
+2013	O
+,	O
+justo	O
+antes	O
+del	O
+comienzo	O
+de	O
+la	O
+enfermedad	O
+.	O

@@ -1,0 +1,7 @@
+
+-	O
+Marcadores	O
+tumorales	O
+:	O
+normales	O
+.	O

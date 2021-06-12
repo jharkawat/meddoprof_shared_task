@@ -1,0 +1,22 @@
+
+A	O
+los	O
+seis	O
+meses	O
+,	O
+no	O
+captaba	O
+en	O
+PET	O
+,	O
+manteniendo	O
+seguimiento	O
+y	O
+retirando	O
+esteroides	O
+tras	O
+dos	O
+años	O
+de	O
+estabilidad	O
+.	O

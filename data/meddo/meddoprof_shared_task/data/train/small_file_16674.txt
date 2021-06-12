@@ -1,0 +1,9 @@
+
+Ruidos	O
+cardiacos	O
+regulares	O
+sin	O
+soplos	O
+ni	O
+roce	O
+.	O

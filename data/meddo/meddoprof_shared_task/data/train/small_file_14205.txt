@@ -1,0 +1,27 @@
+
+Marcadores	O
+:	O
+AFP	O
+:	O
+1609	O
+,	O
+BHCG	O
+:	O
+1085	O
+CA	O
+-	O
+125	O
+:	O
+167	O
+.	O
+50	O
+,	O
+CYFRA	O
+21	O
+.	O
+1	O
+:	O
+14	O
+.	O
+88	O
+.	O

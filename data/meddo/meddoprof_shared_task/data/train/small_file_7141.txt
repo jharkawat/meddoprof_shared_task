@@ -1,0 +1,4 @@
+
+Diagnóstico	O
+y	O
+tratamiento	O

@@ -1,0 +1,9 @@
+
+Diagnóstico	O
+:	O
+Esofagitis	O
+por	O
+RGE	O
+grado	O
+I	O
+.	O

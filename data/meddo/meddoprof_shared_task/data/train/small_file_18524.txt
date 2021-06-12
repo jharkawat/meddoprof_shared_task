@@ -1,0 +1,18 @@
+
+Los	O
+informantes	O
+eran	O
+poco	O
+confiables	O
+porque	O
+no	O
+vivían	O
+continuamente	O
+con	O
+él	O
+(	O
+exesposa	O
+e	O
+hija	O
+)	O
+.	O

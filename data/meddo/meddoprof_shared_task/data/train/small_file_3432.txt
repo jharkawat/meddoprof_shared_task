@@ -1,0 +1,23 @@
+
+Por	O
+estas	O
+características	O
+,	O
+se	O
+definió	O
+el	O
+dolor	O
+como	O
+muscular	O
+junto	O
+a	O
+un	O
+posible	O
+dolor	O
+neuropático	O
+asociado	O
+,	O
+pautando	O
+tratamiento	O
+analgésico	O
+.	O

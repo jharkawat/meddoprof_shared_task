@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+recibió	O
+tratamiento	O
+oral	O
+con	O
+azitromicina	O
+500	O
+mg	O
+el	O
+primer	O
+día	O
+y	O
+250	O
+mg	O
+los	O
+cuatro	O
+siguientes	O
+.	O

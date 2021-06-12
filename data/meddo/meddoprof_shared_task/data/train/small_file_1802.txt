@@ -1,0 +1,18 @@
+
+El	O
+informe	O
+anatomopatológico	O
+del	O
+broncoaspirado	O
+reveló	O
+mínimo	O
+componente	O
+inflamatorio	O
+,	O
+sin	O
+histiocitos	O
+anómalos	O
+ni	O
+células	O
+atípicas	O
+.	O

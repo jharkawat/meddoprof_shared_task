@@ -1,0 +1,25 @@
+
+Respecto	O
+a	O
+los	O
+síntomas	O
+negativos	O
+predominaban	O
+la	O
+afectividad	O
+fría	O
+y	O
+embotada	O
+,	O
+el	O
+empobrecimiento	O
+al	O
+nivel	O
+de	O
+pensamiento	O
+y	O
+el	O
+importante	O
+retraimiento	O
+social	O
+.	O

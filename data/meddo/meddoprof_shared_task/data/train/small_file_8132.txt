@@ -1,0 +1,18 @@
+
+Como	O
+antecedentes	O
+refiere	O
+una	O
+neuritis	O
+óptica	O
+hace	O
+quince	O
+an	O
+̃	O
+os	O
+y	O
+un	O
+aborto	O
+hace	O
+diez	O
+.	O

@@ -1,0 +1,10 @@
+
+SUV	O
+5	O
+.	O
+15	O
+Adenopatía	O
+prevascular	O
+7	O
+mm	O
+.	O

@@ -1,0 +1,16 @@
+
+Cuando	O
+su	O
+madre	O
+fallece	O
+aumenta	O
+el	O
+consumo	O
+de	O
+alcohol	O
+y	O
+aparecen	O
+ideas	O
+de	O
+muerte	O
+.	O

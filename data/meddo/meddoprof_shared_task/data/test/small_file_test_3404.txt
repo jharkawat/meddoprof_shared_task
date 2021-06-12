@@ -1,0 +1,14 @@
+
+Ascitis	O
+mínima	O
+a	O
+nivel	O
+de	O
+la	O
+pelvis	O
+,	O
+adyacente	O
+al	O
+colon	O
+sigmoides	O
+.	O

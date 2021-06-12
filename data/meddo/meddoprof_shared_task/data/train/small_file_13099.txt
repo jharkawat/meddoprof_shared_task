@@ -1,0 +1,27 @@
+
+Es	O
+un	O
+tema	O
+que	O
+han	O
+tratado	O
+en	O
+casa	O
+previamente	O
+y	O
+ellas	O
+tienen	O
+claro	O
+que	O
+es	O
+mejor	O
+retirarle	O
+el	O
+respirador	O
+y	O
+que	O
+fallezca	O
+antes	O
+de	O
+despertar	O
+.	O

@@ -1,0 +1,6 @@
+
+Angustia	O
+psicótica	O
+en	O
+narrativa	O
+.	O

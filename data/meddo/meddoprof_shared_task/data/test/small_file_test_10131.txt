@@ -1,0 +1,11 @@
+
+Linfoma	O
+difuso	O
+de	O
+células	O
+grandes	O
+B	O
+,	O
+primitivo	O
+pulmonar	O
+.	O

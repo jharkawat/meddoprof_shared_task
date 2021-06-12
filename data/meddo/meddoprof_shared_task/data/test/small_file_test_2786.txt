@@ -1,0 +1,10 @@
+
+Abdomen	O
+:	O
+anodino	O
+,	O
+con	O
+reflejo	O
+hepatoyugular	O
+presente	O
+.	O

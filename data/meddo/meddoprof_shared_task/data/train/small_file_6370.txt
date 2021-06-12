@@ -1,0 +1,24 @@
+
+Anamnesis	O
+:	O
+se	O
+trata	O
+de	O
+una	O
+mujer	O
+de	O
+36	O
+años	O
+con	O
+los	O
+siguientes	O
+antecedentes	O
+personales	O
+:	O
+Reacciones	O
+alérgicas	O
+a	O
+medicamentos	O
+:	O
+Penicilina	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+la	O
+rinofibroscopia	O
+se	O
+visualiza	O
+una	O
+masa	O
+que	O
+ocupa	O
+el	O
+tercio	O
+superior	O
+de	O
+la	O
+fosa	O
+nasal	O
+derecha	O
+,	O
+entre	O
+el	O
+cornete	O
+medio	O
+y	O
+septum	O
+nasal	O
+.	O

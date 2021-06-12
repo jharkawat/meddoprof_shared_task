@@ -1,0 +1,20 @@
+
+ECG	O
+-	O
+dolor	O
+hemiabdomen	O
+superior	O
+para	O
+descartar	O
+isquémica	O
+cardiaca	O
+como	O
+causante	O
+de	O
+dolor	O
+referido	O
+y	O
+como	O
+estudio	O
+preoperatorio	O
+.	O

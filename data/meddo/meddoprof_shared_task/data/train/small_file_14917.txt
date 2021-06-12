@@ -1,0 +1,23 @@
+
+Por	O
+otra	O
+parte	O
+y	O
+tras	O
+25	O
+días	O
+de	O
+tratamiento	O
+dirigido	O
+presentó	O
+clínica	O
+de	O
+claudicación	O
+intermitente	O
+en	O
+miembros	O
+inferiores	O
+de	O
+predominio	O
+derecho	O
+.	O

@@ -1,0 +1,27 @@
+
+Esta	O
+enfermedad	O
+micótica	O
+puede	O
+tener	O
+compromiso	O
+cutáneo	O
+y	O
+linfocutáneo	O
+,	O
+y	O
+compromiso	O
+sistémico	O
+si	O
+el	O
+paciente	O
+tiene	O
+algún	O
+grado	O
+de	O
+inmunosupresión	O
+como	O
+en	O
+este	O
+caso	O
+.	O

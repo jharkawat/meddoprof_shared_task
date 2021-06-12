@@ -1,0 +1,23 @@
+
+Dentro	O
+de	O
+la	O
+exploración	O
+neurológica	O
+destacaba	O
+,	O
+parálisis	O
+facial	O
+izquierda	O
+residual	O
+,	O
+con	O
+resto	O
+de	O
+pares	O
+craneales	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

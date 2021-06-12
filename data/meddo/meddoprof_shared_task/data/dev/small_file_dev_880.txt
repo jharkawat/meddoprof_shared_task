@@ -1,0 +1,23 @@
+
+Tras	O
+este	O
+primer	O
+episodio	O
+psicótico	O
+,	O
+se	O
+suceden	O
+otros	O
+que	O
+,	O
+además	O
+,	O
+añaden	O
+sintomatología	O
+del	O
+espectro	O
+afectivo	O
+(	O
+maniforme	O
+)	O
+.	O

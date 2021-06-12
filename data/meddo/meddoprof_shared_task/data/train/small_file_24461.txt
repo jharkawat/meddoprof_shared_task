@@ -1,0 +1,22 @@
+
+El	O
+cuadro	O
+se	O
+orienta	O
+como	O
+un	O
+Trastorno	O
+de	O
+la	O
+Personalidad	O
+Cluster	O
+C	O
+(	O
+rasgos	O
+fóbicos	O
+,	O
+obsesivos	O
+y	O
+dependientes	O
+)	O
+.	O

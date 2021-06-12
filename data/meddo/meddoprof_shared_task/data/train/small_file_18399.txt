@@ -1,0 +1,15 @@
+
+Durante	O
+su	O
+hospitalización	O
+se	O
+inicia	O
+de	O
+forma	O
+gradual	O
+tratamiento	O
+con	O
+Escitalopram	O
+y	O
+Lorazepam	O
+.	O

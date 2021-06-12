@@ -1,0 +1,9 @@
+
+Negaba	O
+haber	O
+planificado	O
+o	O
+intentado	O
+el	O
+suicidio	O
+.	O

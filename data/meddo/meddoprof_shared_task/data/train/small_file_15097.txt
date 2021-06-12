@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+empeora	O
+progresivamente	O
+llegando	O
+a	O
+la	O
+intubación	O
+y	O
+posteriormente	O
+la	O
+muerte	O
+.	O

@@ -1,0 +1,20 @@
+
+Renata	O
+es	O
+una	O
+mujer	O
+de	O
+32	O
+años	O
+,	O
+la	O
+mayor	O
+de	O
+dos	O
+hermanos	O
+,	O
+soltera	O
+y	O
+sin	O
+hijos	O
+.	O

@@ -1,0 +1,70 @@
+T1	SINTOMA 1398 1414	malestar general
+T2	SINTOMA 1419 1428	distermia
+T3	SINTOMA 1440 1446	fiebre
+T4	SINTOMA 2022 2033	eosinofilia
+T5	SINTOMA 3774 3787	fallecimiento
+T6	PROCEDIMIENTO 302 316	terapia tópica
+T7	PROCEDIMIENTO 318 332	corticoterapia
+T8	PROCEDIMIENTO 587 598	fototerapia
+T9	PROCEDIMIENTO 601 625	antibioterapia sistémica
+T10	PROCEDIMIENTO 1500 1518	Exploración física
+T11	PROCEDIMIENTO 1539 1558	exploración cutánea
+T12	PROCEDIMIENTO 1888 1906	exploración física
+T13	PROCEDIMIENTO 2210 2217	biopsia
+T14	PROCEDIMIENTO 2377 2399	biopsia de médula ósea
+T15	PROCEDIMIENTO 2859 2888	tratamiento con quimioterapia
+T16	PROCEDIMIENTO 2927 2952	trasplante de médula ósea
+T17	NEG 1268 1276	suspende
+T18	NSCO 1277 1291	el tratamiento
+T19	NEG 1436 1439	sin
+T20	NSCO 1440 1459	fiebre termometrada
+T21	NEG 1907 1909	no
+T22	NSCO 1910 1936	muestra otras alteraciones
+T23	NEG 2042 2045	sin
+T24	NSCO 2046 2064	otras alteraciones
+T25	NEG 2400 2411	descartando
+T26	NSCO 2412 2435	enfermedad extracutánea
+T27	FARMACO 984 995	metotrexate
+T28	FARMACO 1157 1167	etanercept
+T29	FARMACO 3005 3009	CHOP
+T30	FARMACO 3011 3025	ciclofosfamida
+T31	FARMACO 3027 3038	vincristina
+T32	FARMACO 3040 3051	adriamicina
+T33	FARMACO 3053 3063	prednisona
+T34	FARMACO 3103 3114	gemcitabina
+T35	FARMACO 3116 3126	cisplatino
+T36	FARMACO 3128 3140	dexametasona
+T37	FARMACO 3154 3168	Promacecytabom
+T38	FARMACO 3177 3187	bleomicina
+T39	FARMACO 3189 3200	vincristina
+T40	FARMACO 3202 3213	metotrexate
+T41	FARMACO 3725 3735	bortezomib
+T42	ORG_VIVO 30 35	varón
+T43	ORG_VIVO 72 82	personales
+T44	ORG_VIVO 153 161	paciente
+T45	ORG_VIVO 250 256	adulto
+T46	ORG_VIVO 697 705	paciente
+T47	ORG_VIVO 803 811	paciente
+T48	ORG_VIVO 1000 1008	paciente
+T49	ORG_VIVO 1202 1210	paciente
+T50	ORG_VIVO 1381 1389	paciente
+T51	ORG_VIVO 2093 2101	paciente
+T52	ORG_VIVO 2727 2735	paciente
+T53	ORG_VIVO 3355 3363	paciente
+T54	ORG_VIVO 3535 3543	paciente
+T55	ENFERMEDAD 86 111	Diabetes Mellitus tipo II
+T56	ENFERMEDAD 113 134	hipertensión arterial
+T57	ENFERMEDAD 137 146	hepatitis
+T58	ENFERMEDAD 227 256	dermatitis atópica del adulto
+T59	ENFERMEDAD 505 516	espongiosis
+T60	ENFERMEDAD 530 544	sobreinfección
+T61	ENFERMEDAD 938 957	psoriasis en placas
+T62	ENFERMEDAD 1105 1124	fracaso terapéutico
+T63	ENFERMEDAD 1480 1497	lesiones cutáneas
+T64	ENFERMEDAD 1769 1840	lesión tumoral de 2 cm de diámetro con borde elevado y centro deprimido
+T65	ENFERMEDAD 2225 2242	lesiones cutáneas
+T66	ENFERMEDAD 2412 2435	enfermedad extracutánea
+T67	ENFERMEDAD 2549 2580	linfoma cutáneo T de alto grado
+T68	ENFERMEDAD 3652 3678	lesiones en axila y el ojo
+T69	ENFERMEDAD 3792 3798	sepsis
+T70	ENFERMEDAD 3814 3825	neutropenia

@@ -1,0 +1,23 @@
+
+Comienza	O
+a	O
+presentar	O
+sintomatología	O
+psicótica	O
+con	O
+19	O
+años	O
+cuando	O
+,	O
+tras	O
+terminar	O
+FP	O
+de	O
+hostelería	O
+,	O
+empieza	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+trabajar	I-SITUACION_LABORAL
+como	O
+cocinero	B-PROFESION
+.	O

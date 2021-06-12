@@ -1,0 +1,24 @@
+
+Acude	O
+al	O
+servicio	O
+de	O
+Urgencias	O
+por	O
+disnea	O
+de	O
+reposo	O
+de	O
+2	O
+-	O
+3	O
+días	O
+de	O
+evolución	O
+con	O
+tos	O
+no	O
+productiva	O
+sin	O
+fiebre	O
+.	O

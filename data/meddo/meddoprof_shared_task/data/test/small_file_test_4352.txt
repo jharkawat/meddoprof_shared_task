@@ -1,0 +1,22 @@
+
+Se	O
+hizo	O
+una	O
+determinación	O
+de	O
+k	O
+-	O
+ras	O
+en	O
+las	O
+dos	O
+lesiones	O
+resecadas	O
+y	O
+ambas	O
+mostraron	O
+k	O
+-	O
+ras	O
+nativo	O
+.	O

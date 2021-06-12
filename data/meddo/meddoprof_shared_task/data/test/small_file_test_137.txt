@@ -1,0 +1,18 @@
+
+También	O
+está	O
+la	O
+sala	O
+,	O
+el	O
+comedor	O
+,	O
+un	O
+baño	O
+,	O
+el	O
+jardín	O
+y	O
+la	O
+cochera	O
+.	O

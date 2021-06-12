@@ -1,0 +1,16 @@
+
+Eco	O
+doppler	O
+extremidad	O
+superior	O
+izquierda	O
+:	O
+trombosis	O
+de	O
+las	O
+venas	O
+superficiales	O
+basílica	O
+y	O
+cefálica	O
+.	O

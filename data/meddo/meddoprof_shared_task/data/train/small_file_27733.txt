@@ -1,0 +1,24 @@
+
+Inicialmente	O
+se	O
+prescribe	O
+risperidona	O
+(	O
+4	O
+mg	O
+/	O
+día	O
+)	O
+,	O
+que	O
+el	O
+paciente	O
+no	O
+llega	O
+a	O
+tomar	O
+por	O
+negativa	O
+al	O
+tratamiento	O
+.	O

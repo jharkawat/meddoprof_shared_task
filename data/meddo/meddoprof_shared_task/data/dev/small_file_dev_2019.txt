@@ -1,0 +1,24 @@
+
+La	O
+describe	O
+como	O
+una	O
+persona	O
+"	O
+muy	O
+fóbica	O
+,	O
+con	O
+temores	O
+constantes	O
+desde	O
+niña	O
+,	O
+siendo	O
+incapaz	O
+de	O
+funcionar	O
+de	O
+forma	O
+autónoma	O
+.	O

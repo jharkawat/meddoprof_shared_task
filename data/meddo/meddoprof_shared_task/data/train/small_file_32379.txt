@@ -1,0 +1,16 @@
+
+Antecedentes	O
+personales	O
+:	O
+el	O
+primero	O
+de	O
+una	O
+fratría	O
+de	O
+dos	O
+hermanos	O
+,	O
+es	O
+soltero	O
+.	O

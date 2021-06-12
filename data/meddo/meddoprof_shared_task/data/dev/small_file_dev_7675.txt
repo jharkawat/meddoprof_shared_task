@@ -1,0 +1,24 @@
+
+Tras	O
+24	O
+horas	O
+la	O
+situación	O
+clínica	O
+del	O
+paciente	O
+empeoró	O
+,	O
+con	O
+fiebre	O
+persistente	O
+,	O
+dolor	O
+abdominal	O
+y	O
+elevación	O
+de	O
+los	O
+parámetros	O
+inflamatorios	O
+.	O

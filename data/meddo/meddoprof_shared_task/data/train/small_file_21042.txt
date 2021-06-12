@@ -1,0 +1,18 @@
+
+No	O
+pudo	O
+copiar	O
+un	O
+cubo	O
+y	O
+fracasó	O
+completamente	O
+al	O
+copiar	O
+la	O
+figura	O
+del	O
+"	O
+Rey	O
+"	O
+.	O

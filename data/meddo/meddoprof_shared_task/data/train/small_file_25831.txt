@@ -1,0 +1,17 @@
+
+A	O
+los	O
+23	O
+migra	O
+a	O
+México	O
+donde	O
+sufre	O
+VG	O
+,	O
+lo	O
+cual	O
+motiva	O
+su	O
+regreso	O
+.	O

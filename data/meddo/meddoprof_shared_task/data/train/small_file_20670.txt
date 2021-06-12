@@ -1,0 +1,11 @@
+
+Por	O
+cultivo	O
+del	O
+LCR	O
+se	O
+aisló	O
+L	O
+.	O
+monocytogenes	O
+.	O

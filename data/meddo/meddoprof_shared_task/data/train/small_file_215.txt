@@ -1,0 +1,15 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+,	O
+no	O
+se	O
+identificaron	O
+anomalías	O
+de	O
+las	O
+extremidades	O
+superiores	O
+.	O

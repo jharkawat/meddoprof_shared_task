@@ -1,0 +1,26 @@
+
+Aumento	O
+del	O
+apetito	O
+que	O
+atribuyen	O
+a	O
+la	O
+medicación	O
+,	O
+con	O
+cierta	O
+preocupación	O
+por	O
+el	O
+aumento	O
+de	O
+peso	O
+y	O
+su	O
+repercusión	O
+en	O
+la	O
+imagen	O
+corporal	O
+.	O

@@ -1,0 +1,7 @@
+
+Motilidad	O
+ocular	O
+externa	O
+impresiona	O
+conservada	O
+.	O

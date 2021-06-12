@@ -1,0 +1,11 @@
+
+Como	O
+enfermedades	O
+crónicas	O
+destaca	O
+criterios	O
+de	O
+bronquitis	O
+crónica	O
+simple	O
+.	O

@@ -1,0 +1,15 @@
+
+Había	O
+sido	O
+intervenido	O
+de	O
+pseudoaneurisma	O
+de	O
+la	O
+arteria	O
+temporal	O
+derecha	O
+y	O
+patología	O
+anorrectal	O
+.	O

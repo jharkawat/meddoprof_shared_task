@@ -1,0 +1,26 @@
+
+Hemoglobina	O
+10	O
+,	O
+2	O
+g	O
+/	O
+dl	O
+,	O
+plaquetas	O
+685	O
+.	O
+000	O
+/	O
+mm3	O
+,	O
+leucocitos	O
+8	O
+.	O
+460	O
+/	O
+mm3	O
+con	O
+fórmula	O
+anodina	O
+.	O

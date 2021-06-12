@@ -1,0 +1,6 @@
+
+Temperatura	O
+:	O
+36	O
+°	O
+C	O

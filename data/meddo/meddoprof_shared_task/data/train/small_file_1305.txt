@@ -1,0 +1,14 @@
+
+Se	O
+descartaron	O
+la	O
+presencia	O
+de	O
+perforación	O
+y	O
+de	O
+defectos	O
+de	O
+repleción	O
+vasculares	O
+.	O

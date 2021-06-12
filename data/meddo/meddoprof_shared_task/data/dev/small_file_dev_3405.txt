@@ -1,0 +1,25 @@
+
+Muestra	O
+escasa	O
+conciencia	O
+de	O
+enfermedad	O
+,	O
+atribuyendo	O
+la	O
+sintomatología	O
+a	O
+acontecimientos	O
+vitales	O
+estresantes	O
+que	O
+comienzan	O
+,	O
+según	O
+dice	O
+,	O
+cuando	O
+tenía	O
+16	O
+años	O
+.	O

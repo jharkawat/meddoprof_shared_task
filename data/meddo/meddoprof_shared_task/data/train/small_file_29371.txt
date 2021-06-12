@@ -1,0 +1,17 @@
+
+Los	O
+ensayos	O
+con	O
+aripiprazol	O
+o	O
+paliperidona	O
+resultan	O
+fallidos	O
+por	O
+mala	O
+tolerancia	O
+y	O
+falta	O
+de	O
+eficacia	O
+.	O

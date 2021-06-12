@@ -1,0 +1,17 @@
+
+Serología	O
+VHC	O
+:	O
+antiVHC	O
+y	O
+PCRcVHC	O
+positivos	O
+;	O
+CV	O
+269684	O
+UI	O
+ARN	O
+-	O
+VHC	O
+ml	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+decidió	O
+a	O
+realizar	O
+un	O
+ingreso	O
+en	O
+Unidad	O
+de	O
+Agudos	O
+para	O
+la	O
+estabilización	O
+del	O
+cuadro	O
+clínico	O
+.	O

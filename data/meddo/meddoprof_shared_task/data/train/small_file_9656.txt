@@ -1,0 +1,14 @@
+
+No	O
+se	O
+aprecian	O
+masas	O
+ni	O
+megalias	O
+,	O
+sin	O
+signos	O
+de	O
+reacción	O
+peritoneal	O
+.	O

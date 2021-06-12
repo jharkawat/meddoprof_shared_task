@@ -1,0 +1,17 @@
+T1	SINTOMA 404 424	cefalea holocraneana
+T2	SINTOMA 597 618	deposiciones líquidas
+T3	SINTOMA 721 724	tos
+T4	SINTOMA 729 754	sensación de alza térmica
+T5	PROCEDIMIENTO 321 337	prueba molecular
+T6	PROCEDIMIENTO 340 364	aislamiento domiciliario
+T7	PROCEDIMIENTO 546 557	analgésicos
+T8	NEG 169 181	Asintomático
+T9	NEG 619 622	sin
+T10	NSCO 623 637	moco ni sangre
+T11	ORG_VIVO 0 5	Varón
+T12	ORG_VIVO 235 241	médico
+T13	ORG_VIVO 691 699	paciente
+T14	ENFERMEDAD 36 56	tuberculosis pleural
+T15	ENFERMEDAD 280 288	COVID-19
+T16	PACIENTE-PROFESION 96 126	Médico residente de nefrología
+T17	SANITARIO-PROFESION 235 251	médico residente

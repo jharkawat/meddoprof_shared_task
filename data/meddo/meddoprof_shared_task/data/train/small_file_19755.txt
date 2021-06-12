@@ -1,0 +1,19 @@
+
+NARIZ	O
+:	O
+no	O
+se	O
+observaron	O
+alteraciones	O
+en	O
+piel	O
+,	O
+rinorrea	O
+transparente	O
+,	O
+mucosahiperémica	O
+y	O
+tabique	O
+sin	O
+perforación	O
+.	O

@@ -1,0 +1,26 @@
+
+Se	O
+solicita	O
+un	O
+test	O
+de	O
+función	O
+plaquetar	O
+que	O
+resulta	O
+nuevamente	O
+alterado	O
+,	O
+tanto	O
+con	O
+epinefrina	O
+como	O
+ADP	O
+,	O
+así	O
+como	O
+hipoagregabilidad	O
+con	O
+ácido	O
+araquidónico	O
+.	O

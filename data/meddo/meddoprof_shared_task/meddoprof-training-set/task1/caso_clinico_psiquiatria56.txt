@@ -1,0 +1,51 @@
+MOTIVO CONSULTA: Valoración de Enfermería para ley de dependencia, en la consulta de Enfermería de un Centro de Salud de Sevilla
+
+EXPLORACIÓN: Niño de 4 años que presenta dificultad para el lenguaje (compresión), TDAH. Necesita ayuda para las ABVD, incontinencia fecal y urinaria. En el colegio se relaciona poco con los niños, no entiende las normas sociales, suele jugar solo y no presta atención cuando se le habla. La maestra del cole ha ha comunicado a los padres que estos problemas pueden afectar su evolución escolar.
+
+No duerme solo en su cama, suele levantarse por las noches y se duerme con los padres para conciliar el sueño. No sabe expresar sentimientos ni necesidades, si le ocurre algo grita angustiado. Se le realiza Índice de Barthel: puntuación 50, es dependiente severo.
+
+OBSERVACIONES: la entrevista se le realiza a la madre y abuela, ya que el niño está en el colegio. Adjunta informe de psiquiatría Infanto- juvenil.
+
+DIAGNÓSTICOS DE ENFERMERÍA
+
+(00052) Deterioro de la interacción social r/c TDAH m/p no se relaciona con los niños, juega solo
+
+NIC:
+
+(0051)Potenciación de la socialización
+
+(4306) Modificación de la conducta: hiperactividad/falta de atención
+
+NOC:
+
+(0116)Participación en juegos
+
+(1502) Habilidades de interacción social
+
+(1503) Implicación social
+
+(00095) Insomnio r/c TDHA m/p se levanta por las noches, duerme con los padres...
+
+NIC:
+
+(5880) Técnica de relajación
+
+(6482) Manejo ambiental: confort
+
+NOC:
+
+(1608) Control de síntomas
+
+(1204) Equilibrio emocional
+
+(00146) Ansiedad r/c no sabe expresar necesidades ni sentimientos m/p grita angustiado.
+
+NIC:
+
+(5230) Aumentar el afrontamiento
+
+(5820) Disminución de la ansiedad
+
+NOC:
+
+(1608) Control de síntomas

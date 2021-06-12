@@ -1,0 +1,7 @@
+
+Disfasia	O
+mixta	O
+de	O
+predominio	O
+motor	O
+.	O

@@ -1,0 +1,10 @@
+
+Romberg	O
+negativo	O
+y	O
+marcha	O
+parética	O
+con	O
+pierna	O
+izquierda	O
+.	O

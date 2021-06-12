@@ -1,0 +1,24 @@
+
+Aparte	O
+de	O
+una	O
+diabetes	O
+no	O
+insulino	O
+dependiente	O
+durante	O
+los	O
+últimos	O
+cinco	O
+años	O
+,	O
+había	O
+estado	O
+bien	O
+desde	O
+el	O
+punto	O
+de	O
+vista	O
+somático	O
+.	O

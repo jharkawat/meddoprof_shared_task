@@ -1,0 +1,10 @@
+
+Fumadora	O
+de	O
+un	O
+paquete	O
+de	O
+cigarrillos	O
+/	O
+día	O
+.	O

@@ -1,0 +1,6 @@
+
+No	O
+refiere	O
+ideas	O
+delirantes	O
+.	O

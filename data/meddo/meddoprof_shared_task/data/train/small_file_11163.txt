@@ -1,0 +1,11 @@
+
+No	O
+presenta	O
+otras	O
+enfermedades	O
+de	O
+interés	O
+ni	O
+intervenciones	O
+quirúrgicas	O
+.	O

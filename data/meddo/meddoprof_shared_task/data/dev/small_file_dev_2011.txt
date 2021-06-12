@@ -1,0 +1,14 @@
+
+El	O
+seguimiento	O
+ha	O
+sido	O
+irregular	O
+,	O
+con	O
+escasa	O
+adherencia	O
+al	O
+tratamiento	O
+farmacológico	O
+.	O

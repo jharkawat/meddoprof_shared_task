@@ -1,0 +1,11 @@
+
+El	O
+edema	O
+se	O
+extiente	O
+a	O
+mejilla	O
+y	O
+tejidos	O
+circundantes	O
+.	O

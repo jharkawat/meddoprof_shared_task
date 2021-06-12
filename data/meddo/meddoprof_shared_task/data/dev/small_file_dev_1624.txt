@@ -1,0 +1,11 @@
+
+Antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+:	O
+diabetes	O
+mellitus	O
+tipo	O
+2	O
+.	O

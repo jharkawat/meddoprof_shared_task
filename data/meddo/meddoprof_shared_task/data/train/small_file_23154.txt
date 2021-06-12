@@ -1,0 +1,20 @@
+
+Según	O
+la	O
+paciente	O
+no	O
+es	O
+la	O
+primera	O
+vez	O
+,	O
+sino	O
+que	O
+le	O
+ocurre	O
+cuando	O
+se	O
+siente	O
+gran	O
+ansiedad	O
+.	O

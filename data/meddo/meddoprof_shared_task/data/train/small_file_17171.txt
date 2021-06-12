@@ -1,0 +1,23 @@
+
+•	O
+Un	O
+electroencefalograma	O
+(	O
+EEG	O
+)	O
+mostró	O
+un	O
+trazado	O
+globalmente	O
+lentificado	O
+sugerente	O
+de	O
+una	O
+encefalopatía	O
+difusa	O
+,	O
+sin	O
+objetivarse	O
+actividad	O
+epiléptica	O
+.	O

@@ -1,0 +1,27 @@
+
+Se	O
+obtuvo	O
+una	O
+buena	O
+respuesta	O
+clínica	O
+y	O
+se	O
+objetivó	O
+la	O
+mejoría	O
+radiológica	O
+mediante	O
+la	O
+disminución	O
+del	O
+edema	O
+óseo	O
+y	O
+la	O
+resolución	O
+de	O
+la	O
+colección	O
+abscesificada	O
+.	O

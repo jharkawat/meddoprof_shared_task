@@ -1,0 +1,25 @@
+
+En	O
+un	O
+TAC	O
+cervical	O
+se	O
+comprueba	O
+la	O
+existencia	O
+de	O
+una	O
+colección	O
+parafaríngea	O
+derecha	O
+y	O
+se	O
+completa	O
+el	O
+drenaje	O
+en	O
+quirófano	O
+por	O
+vía	O
+transoral	O
+.	O

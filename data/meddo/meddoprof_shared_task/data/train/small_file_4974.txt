@@ -1,0 +1,7 @@
+
+Pruebas	O
+complementarias	O
+:	O
+electrocardiograma	O
+normal	O
+.	O

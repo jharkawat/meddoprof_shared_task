@@ -1,0 +1,48 @@
+T1	SINTOMA 19 30	Hemiparesia
+T2	SINTOMA 279 293	lumbociatalgia
+T3	SINTOMA 403 413	sudoración
+T4	SINTOMA 417 423	fiebre
+T5	SINTOMA 491 506	palidez cutánea
+T6	SINTOMA 508 516	Eupneico
+T7	SINTOMA 603 618	rigidez de nuca
+T8	SINTOMA 623 639	asimetría facial
+T9	SINTOMA 644 656	bradipsiquia
+T10	SINTOMA 1965 1971	disnea
+T11	SINTOMA 2129 2136	fallece
+T12	PROCEDIMIENTO 842 862	Rx cervical y lumbar
+T13	PROCEDIMIENTO 886 894	Rx tórax
+T14	PROCEDIMIENTO 935 945	TC craneal
+T15	PROCEDIMIENTO 1742 1761	cuidados paliativos
+T16	PROCEDIMIENTO 1915 1928	sedoanalgesia
+T17	PROCEDIMIENTO 2075 2089	toracocentesis
+T18	NEG 400 402	No
+T19	NSCO 403 423	sudoración ni fiebre
+T20	NEG 600 602	No
+T21	NSCO 603 618	rigidez de nuca
+T22	NEG 620 622	No
+T23	NSCO 623 639	asimetría facial
+T24	NEG 641 643	No
+T25	NSCO 644 656	bradipsiquia
+T26	NEG 658 660	No
+T27	NSCO 661 689	adneopatías laterocervicales
+T28	NEG 735 738	sin
+T29	NSCO 739 771	ruidos patológicos sobreañadidos
+T30	UNC 1106 1120	compatible con
+T31	USCO 1121 1180	Ca broncogénico con adenomegalias mediastínicas bilaterales
+T32	FARMACO 2189 2196	morfina
+T33	ORG_VIVO 124 138	paciente varón
+T34	ORG_VIVO 1559 1567	paciente
+T35	ORG_VIVO 1799 1816	médico de familia
+T36	ORG_VIVO 1933 1941	paciente
+T37	ORG_VIVO 2120 2128	paciente
+T38	ENFERMEDAD 193 218	hemiparesia de hemicuerpo
+T39	ENFERMEDAD 1121 1136	Ca broncogénico
+T40	ENFERMEDAD 1141 1168	adenomegalias mediastínicas
+T41	ENFERMEDAD 1182 1212	derrame pleural Loes hepáticas
+T42	ENFERMEDAD 1215 1231	metástasis óseas
+T43	ENFERMEDAD 1244 1274	anemia microcítica hipocrómica
+T44	ENFERMEDAD 1397 1415	neoplasia pulmonar
+T45	ENFERMEDAD 1420 1439	metástasis cerebral
+T46	ENFERMEDAD 1467 1500	LOE cerebral de origen infeccioso
+T47	ENFERMEDAD 2010 2054	derrame pleural hasta tercio medio de pulmón
+T48	SANITARIO-PROFESION 1799 1828	médico de familia y residente

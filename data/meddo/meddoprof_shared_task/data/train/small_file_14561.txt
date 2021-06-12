@@ -1,0 +1,27 @@
+
+Había	O
+viajado	O
+a	O
+su	O
+país	O
+natal	O
+para	O
+visitar	O
+a	O
+su	O
+familia	O
+,	O
+de	O
+donde	O
+había	O
+vuelto	O
+hacía	O
+4	O
+días	O
+y	O
+donde	O
+había	O
+permanecido	O
+un	O
+mes	O
+.	O

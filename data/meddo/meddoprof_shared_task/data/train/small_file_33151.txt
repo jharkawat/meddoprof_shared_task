@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+verbaliza	O
+quejas	O
+de	O
+excesiva	O
+sedación	O
+como	O
+efecto	O
+secundario	O
+.	O

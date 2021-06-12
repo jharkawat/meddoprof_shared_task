@@ -1,0 +1,24 @@
+
+La	O
+endoscopia	O
+digestiva	O
+alta	O
+confirmó	O
+una	O
+neoformación	O
+mamelonada	O
+y	O
+friable	O
+que	O
+ocupaba	O
+los	O
+33	O
+-	O
+39	O
+cm	O
+esofágicos	O
+desde	O
+la	O
+arcada	O
+dentaria	O
+.	O

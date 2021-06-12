@@ -1,0 +1,10 @@
+
+Ecocardiograma	O
+:	O
+Estudio	O
+ecocardiográfico	O
+dentro	O
+de	O
+límites	O
+normales	O
+.	O

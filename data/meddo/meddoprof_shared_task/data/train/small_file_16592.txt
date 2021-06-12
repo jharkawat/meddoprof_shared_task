@@ -1,0 +1,14 @@
+
+Mínima	O
+paresia	O
+facial	O
+inferior	O
+derecha	O
+,	O
+con	O
+resto	O
+de	O
+pares	O
+craneales	O
+normales	O
+.	O

@@ -1,0 +1,9 @@
+
+Los	O
+antecedentes	O
+remotos	O
+de	O
+Kevin	O
+eran	O
+normales	O
+.	O

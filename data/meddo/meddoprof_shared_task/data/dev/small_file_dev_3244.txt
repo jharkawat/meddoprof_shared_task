@@ -1,0 +1,9 @@
+
+Trabajo	B-PROFESION
+estable	I-PROFESION
+hasta	I-PROFESION
+2002	I-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+construcción	I-PROFESION
+.	O

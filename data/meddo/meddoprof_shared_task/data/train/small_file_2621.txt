@@ -1,0 +1,10 @@
+
+Madre	O
+con	O
+cuadros	O
+similares	O
+en	O
+la	O
+misma	O
+área	O
+.	O

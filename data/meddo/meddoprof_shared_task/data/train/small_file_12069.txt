@@ -1,0 +1,16 @@
+
+En	O
+su	O
+interior	O
+aparece	O
+una	O
+zona	O
+anecoica	O
+sugerente	O
+de	O
+lesión	O
+sólida	O
+con	O
+componente	O
+quístico	O
+.	O

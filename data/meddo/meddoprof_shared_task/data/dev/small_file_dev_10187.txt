@@ -1,0 +1,18 @@
+
+Su	O
+madre	O
+estaba	O
+viva	O
+y	O
+bien	O
+,	O
+pero	O
+había	O
+sido	O
+tratada	O
+por	O
+recurrentes	O
+episodios	O
+de	O
+depresión	O
+.	O

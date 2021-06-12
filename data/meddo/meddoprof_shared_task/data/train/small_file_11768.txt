@@ -1,0 +1,27 @@
+
+Se	O
+realizó	O
+serología	O
+para	O
+toxoplasma	O
+con	O
+IgM	O
+levemente	O
+positivo	O
+e	O
+IgG	O
+indeterminado	O
+(	O
+6	O
+,	O
+7	O
+mUI	O
+/	O
+ml	O
+)	O
+,	O
+sugerente	O
+de	O
+infección	O
+reciente	O
+.	O

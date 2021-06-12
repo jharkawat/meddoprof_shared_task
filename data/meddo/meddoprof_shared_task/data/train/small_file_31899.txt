@@ -1,0 +1,10 @@
+
+No	O
+ideación	O
+autolítica	O
+presente	O
+ni	O
+tampoco	O
+clínica	O
+psicótica	O
+.	O

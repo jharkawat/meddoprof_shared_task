@@ -1,0 +1,23 @@
+
+Realizamos	O
+una	O
+nueva	O
+radiografía	O
+periapical	O
+15	O
+meses	O
+tras	O
+la	O
+cirugía	O
+y	O
+se	O
+tomaron	O
+registros	O
+periodontales	O
+que	O
+se	O
+compararon	O
+con	O
+los	O
+previos	O
+.	O

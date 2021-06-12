@@ -1,0 +1,16 @@
+
+Es	O
+portador	O
+de	O
+traqueostomía	O
+.	O
+Hipotiroidismo	O
+secundario	O
+a	O
+cirugía	O
+cervical	O
+con	O
+tratamiento	O
+hormonal	O
+sustitutivo	O
+.	O

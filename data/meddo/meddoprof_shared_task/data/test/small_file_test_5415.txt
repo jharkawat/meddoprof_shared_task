@@ -1,0 +1,24 @@
+
+Primer	O
+TAC	O
+de	O
+evaluación	O
+en	O
+junio	O
+de	O
+2015	O
+(	O
+hasta	O
+entonces	O
+se	O
+han	O
+administrado	O
+4	O
+ciclos	O
+,	O
+sin	O
+toxicidad	O
+de	O
+interés	O
+)	O
+.	O

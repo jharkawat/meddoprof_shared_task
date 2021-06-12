@@ -1,0 +1,10 @@
+
+La	O
+paciente	O
+es	O
+la	O
+cuarta	O
+de	O
+5	O
+hermanos	O
+.	O

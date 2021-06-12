@@ -1,0 +1,13 @@
+
+Espirometría	O
+01	O
+/	O
+19	O
+:	O
+Normal	O
+(	O
+FVC	O
+85	O
+%	O
+)	O
+.	O

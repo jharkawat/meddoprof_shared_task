@@ -1,0 +1,5 @@
+
+Deambula	O
+con	O
+andador	O
+.	O

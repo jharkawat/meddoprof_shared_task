@@ -1,0 +1,27 @@
+
+La	O
+disminución	O
+se	O
+relacionaba	O
+con	O
+espacio	O
+de	O
+tiempo	O
+tras	O
+la	O
+amputación	O
+y	O
+se	O
+explicó	O
+como	O
+un	O
+correlato	O
+estructural	O
+con	O
+la	O
+pérdida	O
+de	O
+las	O
+entradas	O
+aferenciales	O
+.	O

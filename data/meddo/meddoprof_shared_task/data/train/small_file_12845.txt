@@ -1,0 +1,26 @@
+
+Tras	O
+valorar	O
+a	O
+la	O
+paciente	O
+en	O
+consulta	O
+se	O
+le	O
+ofrece	O
+la	O
+posibilidad	O
+de	O
+alargamiento	O
+bilateral	O
+de	O
+ambos	O
+fémures	O
+para	O
+conseguir	O
+la	O
+estatura	O
+citada	O
+anteriormente	O
+.	O

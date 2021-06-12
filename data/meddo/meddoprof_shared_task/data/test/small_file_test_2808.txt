@@ -1,0 +1,24 @@
+
+-	O
+Biopsia	O
+testicular	O
+derecha	O
+(	O
+13	O
+/	O
+9	O
+/	O
+2012	O
+)	O
+:	O
+datos	O
+morfológicos	O
+e	O
+inmunohistoquímicos	O
+compatibles	O
+con	O
+seminoma	O
+testicular	O
+ampliamente	O
+necrótico	O
+.	O

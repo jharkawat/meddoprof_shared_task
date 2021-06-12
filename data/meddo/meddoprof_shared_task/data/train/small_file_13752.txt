@@ -1,0 +1,12 @@
+
+PCR	O
+de	O
+enterovirus	O
+,	O
+Virus	O
+Herpes	O
+y	O
+Varicela	O
+Zóster	O
+negatvivo	O
+.	O

@@ -1,0 +1,9 @@
+
+Presencia	O
+de	O
+alucinaciones	O
+auditivas	O
+con	O
+importante	O
+repercusión	O
+.	O

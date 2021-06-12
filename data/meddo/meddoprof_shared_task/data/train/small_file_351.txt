@@ -1,0 +1,9 @@
+
+Edad	O
+:	O
+47	O
+años	O
+Sexo	O
+:	O
+H	O
+.	O

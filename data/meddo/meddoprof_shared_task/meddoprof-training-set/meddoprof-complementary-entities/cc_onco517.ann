@@ -1,0 +1,161 @@
+T1	SINTOMA 1575 1581	fiebre
+T2	SINTOMA 1690 1700	consciente
+T3	SINTOMA 1702 1711	orientado
+T4	SINTOMA 1714 1725	colaborador
+T5	SINTOMA 1753 1767	normocoloreado
+T6	SINTOMA 1769 1777	Eupneico
+T7	SINTOMA 1824 1839	soplos audibles
+T8	SINTOMA 1920 1947	Abdomen blando y depresible
+T9	SINTOMA 1953 1958	dolor
+T10	SINTOMA 2490 2496	febril
+T11	SINTOMA 2508 2514	fiebre
+T12	SINTOMA 2639 2646	afebril
+T13	SINTOMA 2777 2783	fiebre
+T14	SINTOMA 2803 2830	deterioro neurológico agudo
+T15	SINTOMA 2846 2853	mutismo
+T16	SINTOMA 2855 2884	paresia de las 4 extremidades
+T17	SINTOMA 3237 3252	proteinorraquia
+T18	SINTOMA 3880 3887	mutismo
+T19	SINTOMA 3931 3937	fiebre
+T20	SINTOMA 4535 4542	afebril
+T21	SINTOMA 4616 4623	confuso
+T22	PROCEDIMIENTO 86 105	Trasplante hepático
+T23	PROCEDIMIENTO 719 749	linfadenectomía axilar derecha
+T24	PROCEDIMIENTO 854 873	trasplante hepático
+T25	PROCEDIMIENTO 911 913	TC
+T26	PROCEDIMIENTO 1139 1158	inhibidores de BRAF
+T27	PROCEDIMIENTO 1663 1681	Exploración física
+T28	PROCEDIMIENTO 1789 1810	Auscultación cardiaca
+T29	PROCEDIMIENTO 1841 1862	Auscultación pulmonar
+T30	PROCEDIMIENTO 2080 2100	Radiografía de tórax
+T31	PROCEDIMIENTO 2152 2164	Hemocultivos
+T32	PROCEDIMIENTO 2420 2444	tratamiento antipirético
+T33	PROCEDIMIENTO 2447 2459	sueroterapia
+T34	PROCEDIMIENTO 2720 2733	antipiréticos
+T35	PROCEDIMIENTO 3083 3104	TC cerebral 9/09/2019
+T36	PROCEDIMIENTO 3162 3176	Punción lumbar
+T37	PROCEDIMIENTO 3254 3276	Estudio microbiológico
+T38	PROCEDIMIENTO 3326 3370	Ecografía de troncos supraaórticos 9/09/2019
+T39	PROCEDIMIENTO 3409 3412	EEG
+T40	PROCEDIMIENTO 3763 3775	antibióticos
+T41	PROCEDIMIENTO 4180 4206	TC cérvico-toracoabdominal
+T42	PROCEDIMIENTO 4329 4351	RM cerebral 19/09/2019
+T43	PROCEDIMIENTO 4452 4469	corticoesteroides
+T44	PROCEDIMIENTO 4834 4874	reducción paulatina de corticoesteroides
+T45	PROCEDIMIENTO 5169 5186	corticoesteroides
+T46	PROCEDIMIENTO 5397 5416	trasplante hepático
+T47	PROCEDIMIENTO 5420 5452	tratamiento con inmunosupresores
+T48	NEG 28 31	sin
+T49	NSCO 32 84	alergias medicamentosas conocidas ni hábitos tóxicos
+T50	NEG 558 561	sin
+T51	NSCO 562 585	evidencia de enfermedad
+T52	NEG 769 771	no
+T53	NSCO 772 801	recibió tratamiento adyuvante
+T54	NEG 1615 1618	sin
+T55	NSCO 1619 1634	foco infeccioso
+T56	NEG 1820 1823	sin
+T57	NSCO 1824 1839	soplos audibles
+T58	NEG 1899 1902	sin
+T59	NSCO 1903 1918	ruidos añadidos
+T60	NEG 1949 1952	sin
+T61	NSCO 1953 1979	dolor durante la palpación
+T62	NEG 2043 2046	sin
+T63	NSCO 2047 2059	alteraciones
+T64	NEG 2112 2114	no
+T65	NSCO 2115 2148	se observan hallazgos patológicos
+T66	NEG 2176 2185	negativos
+T67	NEG 2216 2219	sin
+T68	NSCO 2220 2235	foco infeccioso
+T69	NEG 2304 2307	Sin
+T70	NSCO 2308 2349	foco infeccioso claro tras la exploración
+T71	UNC 2499 2507	probable
+T72	USCO 2508 2533	fiebre secundaria a iBRAF
+T73	NEG 2551 2558	retirar
+T74	NSCO 2559 2605	Dabrafenib según indicaciones de ficha técnica
+T75	NEG 2639 2646	afebril
+T76	NEG 3066 3069	sin
+T77	NSCO 3070 3079	hallazgos
+T78	NEG 3106 3108	no
+T79	NSCO 3109 3158	se observan metástasis ni alteraciones vasculares
+T80	NEG 3277 3285	negativo
+T81	NEG 3298 3306	negativa
+T82	NSCO 3307 3322	para malignidad
+T83	NEG 3372 3374	no
+T84	NSCO 3375 3405	se observan estenosis de vasos
+T85	NEG 3640 3650	se retiran
+T86	NSCO 3651 3661	dabrafenib
+T87	NEG 3968 3978	descartado
+T88	NSCO 3979 3991	otras causas
+T89	UNC 3996 4007	sospecha de
+T90	USCO 4008 4044	toxicidad relacionada con dabrafenib
+T91	NEG 4238 4241	sin
+T92	NSCO 4242 4257	otros hallazgos
+T93	NEG 4316 4325	negativos
+T94	NEG 4471 4473	no
+T95	NSCO 4474 4520	presenta nuevos episodios de crisis comiciales
+T96	NEG 4535 4542	afebril
+T97	NEG 4963 4975	se descartan
+T98	NSCO 4976 5106	etiología metabólica, vascular, progresión radiológica, infecciosa o paraneoplásica como causa del estado neurológico del paciente
+T99	NEG 5202 5215	se interpreta
+T100	NSCO 5216 5242	como toxicidad neurológica
+T101	NEG 5300 5311	se suspende
+T102	NSCO 5312 5367	definitivamente tratamiento con dabrafenib y trametinib
+T103	NEG 5734 5737	sin
+T104	NSCO 5738 5767	nuevos episodios neurológicos
+T105	FARMACO 227 237	tacrolimus
+T106	FARMACO 240 252	micofenolato
+T107	FARMACO 806 816	interferón
+T108	FARMACO 1160 1165	iBRAF
+T109	FARMACO 1169 1172	MEK
+T110	FARMACO 1181 1191	Dabrafenib
+T111	FARMACO 1209 1219	trametinib
+T112	FARMACO 1253 1270	ácido zoledrónico
+T113	FARMACO 2559 2569	Dabrafenib
+T114	FARMACO 2676 2686	dabrafenib
+T115	FARMACO 3036 3046	tacrolimus
+T116	FARMACO 3651 3661	dabrafenib
+T117	FARMACO 3664 3674	trametinib
+T118	FARMACO 3733 3743	lacosamida
+T119	FARMACO 3746 3759	levetiracetam
+T120	FARMACO 3777 3787	ampicilina
+T121	FARMACO 3790 3799	aciclovir
+T122	FARMACO 4034 4044	dabrafenib
+T123	FARMACO 4047 4057	trametinib
+T124	FARMACO 4086 4103	metilprednisolona
+T125	FARMACO 5267 5272	iBRAF
+T126	FARMACO 5344 5354	dabrafenib
+T127	FARMACO 5357 5367	trametinib
+T128	FARMACO 5532 5535	MEK
+T129	FARMACO 5537 5548	vemurafenib
+T130	FARMACO 5551 5562	cobimetinib
+T131	ORG_VIVO 10 15	Varón
+T132	ORG_VIVO 257 280	profesor de universidad
+T133	ORG_VIVO 2239 2247	paciente
+T134	ORG_VIVO 3630 3638	paciente
+T135	ORG_VIVO 3858 3866	paciente
+T136	ORG_VIVO 4628 4636	paciente
+T137	ORG_VIVO 4944 4952	paciente
+T138	ORG_VIVO 5098 5106	paciente
+T139	ORG_VIVO 5621 5629	paciente
+T140	ENFERMEDAD 32 55	alergias medicamentosas
+T141	ENFERMEDAD 123 155	colangitis esclerosante primaria
+T142	ENFERMEDAD 157 160	CEP
+T143	ENFERMEDAD 203 206	CEP
+T144	ENFERMEDAD 341 402	melanoma cutáneo maligno estadio IB localizado en la escápula
+T145	ENFERMEDAD 616 642	recidiva ganglionar axilar
+T146	ENFERMEDAD 662 698	trombosis de vena subclavia y axilar
+T147	ENFERMEDAD 943 988	lesiones líticas múltiples en esqueleto axial
+T148	ENFERMEDAD 1028 1044	melanoma maligno
+T149	ENFERMEDAD 1307 1331	afectación ósea múltiple
+T150	ENFERMEDAD 2200 2215	Síndrome febril
+T151	ENFERMEDAD 2887 2934	crisis comiciales tónico-clónicas generalizadas
+T152	ENFERMEDAD 3121 3131	metástasis
+T153	ENFERMEDAD 3387 3405	estenosis de vasos
+T154	ENFERMEDAD 3513 3533	encefalopatía difusa
+T155	ENFERMEDAD 3890 3907	crisis comiciales
+T156	ENFERMEDAD 4008 4044	toxicidad relacionada con dabrafenib
+T157	ENFERMEDAD 4366 4412	lesiones microangiopáticas isquémicas crónicas
+T158	ENFERMEDAD 4503 4520	crisis comiciales
+T159	ENFERMEDAD 5045 5059	paraneoplásica
+T160	ENFERMEDAD 5221 5242	toxicidad neurológica
+T161	PACIENTE-PROFESION 257 280	profesor de universidad

@@ -1,0 +1,18 @@
+
+Ingresa	O
+refiriendo	O
+disnea	O
+progresiva	O
+,	O
+que	O
+se	O
+ha	O
+acentuado	O
+en	O
+las	O
+semanas	O
+previas	O
+a	O
+su	O
+hospitalización	O
+.	O

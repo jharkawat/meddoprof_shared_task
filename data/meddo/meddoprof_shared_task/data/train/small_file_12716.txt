@@ -1,0 +1,21 @@
+
+En	O
+analítica	O
+destaca	O
+proteína	O
+C	O
+reactiva	O
+37	O
+.	O
+9	O
+,	O
+procalcitonina	O
+1	O
+.	O
+80	O
+,	O
+con	O
+función	O
+renal	O
+normal	O
+.	O

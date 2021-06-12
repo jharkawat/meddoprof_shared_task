@@ -1,0 +1,20 @@
+
+En	O
+las	O
+extremidades	O
+no	O
+había	O
+edemas	O
+,	O
+signos	O
+de	O
+TVP	O
+,	O
+lesiones	O
+en	O
+piel	O
+ni	O
+estigmas	O
+de	O
+picaduras	O
+.	O

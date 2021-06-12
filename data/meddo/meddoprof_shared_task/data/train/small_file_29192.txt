@@ -1,0 +1,25 @@
+
+Aislamiento	O
+progresivo	O
+que	O
+él	O
+justifica	O
+"	O
+porque	O
+se	O
+ha	O
+quedado	O
+sin	O
+amigos	O
+"	O
+y	O
+"	O
+ya	O
+no	O
+le	O
+apetece	O
+salir	O
+de	O
+casa	O
+"	O
+.	O

@@ -1,0 +1,16 @@
+
+Mujer	O
+de	O
+83	O
+años	O
+de	O
+edad	O
+,	O
+residente	O
+y	O
+procedente	O
+de	O
+Carúpano	O
+,	O
+edo	O
+.	O

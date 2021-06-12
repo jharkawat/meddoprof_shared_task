@@ -1,0 +1,20 @@
+
+Su	O
+padre	O
+se	O
+ha	O
+vuelto	O
+a	O
+casar	O
+hace	O
+3	O
+años	O
+,	O
+y	O
+tiene	O
+un	O
+bebé	O
+de	O
+8	O
+meses	O
+.	O

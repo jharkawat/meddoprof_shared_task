@@ -1,0 +1,23 @@
+
+Se	O
+encierra	O
+en	O
+su	O
+cuarto	O
+y	O
+se	O
+duerme	O
+cuando	O
+se	O
+pone	O
+nerviosa	O
+,	O
+que	O
+suele	O
+ser	O
+por	O
+cosas	O
+ínfimas	O
+según	O
+Ana	O
+.	O

@@ -1,0 +1,8 @@
+
+El	O
+paciente	O
+no	O
+presentó	O
+nuevas	O
+crisis	O
+.	O

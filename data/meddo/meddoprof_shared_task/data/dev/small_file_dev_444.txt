@@ -1,0 +1,25 @@
+
+Además	O
+,	O
+se	O
+realizó	O
+interconsulta	O
+a	O
+Neurología	O
+,	O
+quienes	O
+optaron	O
+por	O
+disminuir	O
+la	O
+dosis	O
+de	O
+pramipexol	O
+a	O
+2	O
+,	O
+1	O
+mg	O
+/	O
+día	O
+.	O

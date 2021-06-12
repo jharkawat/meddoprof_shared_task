@@ -1,0 +1,233 @@
+T1	SINTOMA 318 327	lumbalgia
+T2	SINTOMA 477 491	picos febriles
+T3	SINTOMA 493 511	sudoración profusa
+T4	SINTOMA 514 521	disuria
+T5	SINTOMA 658 663	dolor
+T6	SINTOMA 665 675	consciente
+T7	SINTOMA 678 707	orientado en las tres esferas
+T8	SINTOMA 738 752	normocoloreado
+T9	SINTOMA 755 763	eupneico
+T10	SINTOMA 834 859	hemodinámicamente estable
+T11	SINTOMA 1225 1284	abdomen resultaba blando y depresible, ligeramente doloroso
+T12	SINTOMA 1372 1393	irritación peritoneal
+T13	SINTOMA 1400 1428	ruidos hidroaéreos presentes
+T14	SINTOMA 1510 1516	edemas
+T15	SINTOMA 1564 1615	pulsos pedios presentes y simétricos bilateralmente
+T16	SINTOMA 1682 1785	dolor a la palpación de musculatura paravertebral lumbosacra bilateral y de apófisis espinosas lumbares
+T17	SINTOMA 1948 1973	dolor a nivel sacroilíaco
+T18	SINTOMA 2541 2567	elevación de transaminasas
+T19	SINTOMA 2899 2914	dolor abdominal
+T20	SINTOMA 3098 3105	disuria
+T21	SINTOMA 3196 3243	engrosamiento sólido de la cabeza del epidídimo
+T22	SINTOMA 3302 3326	dolor a nivel lumbosacro
+T23	SINTOMA 4694 4700	fiebre
+T24	SINTOMA 4705 4717	leucocitosis
+T25	SINTOMA 4723 4733	sudoración
+T26	SINTOMA 4907 4914	disuria
+T27	SINTOMA 4933 4939	fiebre
+T28	SINTOMA 4942 4952	sudoración
+T29	SINTOMA 5008 5020	leucocitosis
+T30	SINTOMA 5263 5275	dolor lumbar
+T31	SINTOMA 5362 5368	fiebre
+T32	SINTOMA 5798 5805	disuria
+T33	SINTOMA 5932 5950	sudoración profusa
+T34	SINTOMA 5952 5970	pérdida de apetito
+T35	SINTOMA 5973 5979	fiebre
+T36	SINTOMA 6369 6375	fiebre
+T37	SINTOMA 6398 6412	picos febriles
+T38	SINTOMA 6426 6435	afebriles
+T39	SINTOMA 6438 6445	cefalea
+T40	SINTOMA 6447 6453	anemia
+T41	SINTOMA 6456 6474	sudoración profusa
+T42	SINTOMA 6485 6499	esplenomegalia
+T43	SINTOMA 7061 7073	leucocitosis
+T44	SINTOMA 7384 7400	elevación de VSG
+T45	SINTOMA 7510 7524	picos febriles
+T46	SINTOMA 7560 7569	afebriles
+T47	SINTOMA 8636 8641	dolor
+T48	SINTOMA 8906 8918	dolor lumbar
+T49	SINTOMA 9085 9097	dolor lumbar
+T50	SINTOMA 9513 9518	dolor
+T51	SINTOMA 9794 9799	dolor
+T52	PROCEDIMIENTO 412 421	analgesia
+T53	PROCEDIMIENTO 1039 1066	auscultación cardiopulmonar
+T54	PROCEDIMIENTO 1632 1657	exploración osteomuscular
+T55	PROCEDIMIENTO 1830 1861	maniobras de Lassegué y Bragard
+T56	PROCEDIMIENTO 2087 2116	radiografía de columna lumbar
+T57	PROCEDIMIENTO 2236 2256	radiografía de tórax
+T58	PROCEDIMIENTO 2368 2377	hemograma
+T59	PROCEDIMIENTO 2771 2800	análisis sistemático de orina
+T60	PROCEDIMIENTO 2816 2826	urocultivo
+T61	PROCEDIMIENTO 2932 2951	ecografía abdominal
+T62	PROCEDIMIENTO 3374 3410	resonancia magnética (RM) lumbosacra
+T63	PROCEDIMIENTO 3944 3957	RM lumbosacra
+T64	PROCEDIMIENTO 7614 7633	ecografía abdominal
+T65	PROCEDIMIENTO 7729 7742	RM lumbosacra
+T66	PROCEDIMIENTO 7871 7888	cultivos de orina
+T67	PROCEDIMIENTO 7917 7929	hemocultivos
+T68	PROCEDIMIENTO 8005 8028	test de Rosa de Bengala
+T69	PROCEDIMIENTO 8143 8166	tratamiento antibiótico
+T70	PROCEDIMIENTO 9105 9127	tratamiento analgésico
+T71	PROCEDIMIENTO 9172 9186	RM lumbosacras
+T72	PROCEDIMIENTO 9831 9844	RM lumbosacra
+T73	NEG 109 112	sin
+T74	NSCO 113 165	alergias medicamentosas ni hábitos tóxicos conocidos
+T75	NEG 263 266	sin
+T76	NSCO 267 280	trabajar allí
+T77	NEG 527 529	no
+T78	NSCO 530 567	presenta en el momento de su consulta
+T79	NEG 774 777	sin
+T80	NSCO 778 808	precisar oxígeno suplementario
+T81	NEG 984 987	sin
+T82	NSCO 988 1009	oxígeno suplementario
+T83	NEG 1107 1110	sin
+T84	NSCO 1111 1140	soplos ni extratonos audibles
+T85	NEG 1184 1187	sin
+T86	NSCO 1188 1220	ruidos patológicos sobreañadidos
+T87	NEG 1358 1361	sin
+T88	NSCO 1362 1393	signos de irritación peritoneal
+T89	NEG 1457 1468	ausencia de
+T90	NSCO 1469 1504	signos de trombosis venosa profunda
+T91	NEG 1506 1509	sin
+T92	NSCO 1510 1558	edemas ni signos de insuficiencia venosa crónica
+T93	NEG 1787 1790	sin
+T94	NSCO 1791 1824	crepitación ni otras alteraciones
+T95	NEG 1975 1977	No
+T96	NSCO 1978 2056	se identificaron otras alteraciones en el resto de la exploración por aparatos
+T97	NEG 2187 2190	sin
+T98	NSCO 2191 2221	otras alteraciones destacables
+T99	NEG 2322 2333	ausencia de
+T100	NSCO 2334 2360	otros hallazgos reseñables
+T101	NEG 2740 2751	ausencia de
+T102	NSCO 2752 2800	alteraciones en el análisis sistemático de orina
+T103	NEG 2869 2877	negativo
+T104	UNC 3254 3268	compatible con
+T105	USCO 3269 3281	epididimitis
+T106	NSCO 4330 4359	la piel o los tejidos blandos
+T107	NEG 4996 5007	ausencia de
+T108	NSCO 5008 5020	leucocitosis
+T109	NEG 5476 5488	asintomática
+T110	NEG 5504 5515	ausencia de
+T111	NSCO 5516 5528	conocimiento
+T112	NEG 5581 5592	no descarta
+T113	NSCO 5593 5607	esta patología
+T114	UNC 5858 5865	posible
+T115	USCO 5866 5894	tuberculosis renal o genital
+T116	UNC 5980 5986	podría
+T117	USCO 5987 6051	ir a favor de la tuberculosis vertebral como posible diagnóstico
+T118	NEG 6136 6138	no
+T119	NSCO 6139 6152	pasteurizados
+T120	NEG 6689 6691	no
+T121	NSCO 6692 6712	suele aparecer hasta
+T122	NEG 6717 6727	desaparece
+T123	NSCO 6728 6752	la sintomatología previa
+T124	NEG 7041 7043	no
+T125	NSCO 7044 7073	hay presencia de leucocitosis
+T126	NEG 7404 7415	ausencia de
+T127	NSCO 7416 7428	leucocitosis
+T128	UNC 7429 7435	podría
+T129	USCO 7436 7484	apuntar a la brucelosis como posible diagnóstico
+T130	UNC 7792 7802	se plantea
+T131	USCO 7803 7854	la posibilidad de una infección de origen zoonótico
+T132	NEG 7856 7870	Se solicitaron
+T133	NSCO 7871 7888	cultivos de orina
+T134	NEG 7905 7914	negativos
+T135	NSCO 7915 7929	y hemocultivos
+T136	NEG 8536 8544	negativo
+T137	NEG 9199 9202	sin
+T138	NSCO 9203 9210	cambios
+T139	UNC 9211 9220	aparentes
+T140	USCO 9221 9259	en la evolución del proceso infeccioso
+T141	NEG 9268 9270	no
+T142	NSCO 9271 9312	identificándose empeoramiento radiológico
+T143	NEG 9360 9363	sin
+T144	NSCO 9364 9425	identificar necesidad de drenaje del absceso en aquel momento
+T145	NEG 9741 9744	sin
+T146	NSCO 9745 9763	nuevas incidencias
+T147	NEG 9920 9936	desaparición del
+T148	NSCO 9937 9953	absceso epidural
+T149	NEG 9960 9968	ausencia
+T150	NSCO 9969 10042	casi completa de signos de espondilitis a nivel de cuerpos vertebrales L5
+T151	FARMACO 8189 8200	doxiciclina
+T152	FARMACO 8223 8234	rifampicina
+T153	FARMACO 8258 8269	gentamicina
+T154	FARMACO 8732 8743	doxiciclina
+T155	FARMACO 8746 8757	rifampicina
+T156	FARMACO 8962 8973	rifampicina
+T157	ORG_VIVO 26 31	varón
+T158	ORG_VIVO 601 609	paciente
+T159	ORG_VIVO 813 821	paciente
+T160	ORG_VIVO 1070 1078	paciente
+T161	ORG_VIVO 1662 1670	paciente
+T162	ORG_VIVO 3173 3181	paciente
+T163	ORG_VIVO 4127 4136	S. aureus
+T164	ORG_VIVO 4143 4157	microorganismo
+T165	ORG_VIVO 4236 4244	E. coli1
+T166	ORG_VIVO 4300 4309	pacientes
+T167	ORG_VIVO 4361 4376	Microorganismos
+T168	ORG_VIVO 4393 4408	Pseudomonas spp
+T169	ORG_VIVO 4410 4424	Salmonella spp
+T170	ORG_VIVO 4437 4446	S. aureus
+T171	ORG_VIVO 4547 4562	microorganismos
+T172	ORG_VIVO 4880 4888	paciente
+T173	ORG_VIVO 5543 5551	paciente
+T174	ORG_VIVO 5617 5625	paciente
+T175	ORG_VIVO 5764 5774	habitantes
+T176	ORG_VIVO 5813 5821	paciente
+T177	ORG_VIVO 5920 5928	paciente
+T178	ORG_VIVO 6179 6187	animales
+T179	ORG_VIVO 6205 6217	Brucella spp
+T180	ORG_VIVO 6221 6234	ganado bovino
+T181	ORG_VIVO 6234 6243	, porcino
+T182	ORG_VIVO 6244 6253	o caprino
+T183	ORG_VIVO 6524 6533	pacientes
+T184	ORG_VIVO 6938 6952	microorganismo
+T185	ORG_VIVO 7301 7309	paciente
+T186	ORG_VIVO 7782 7790	paciente
+T187	ORG_VIVO 7969 7989	Brucella mellitensis
+T188	ORG_VIVO 8580 8588	paciente
+T189	ORG_VIVO 8881 8889	paciente
+T190	ORG_VIVO 9448 9456	paciente
+T191	ORG_VIVO 9631 9639	paciente
+T192	ORG_VIVO 10226 10237	bacteriemia
+T193	ENFERMEDAD 1479 1504	trombosis venosa profunda
+T194	ENFERMEDAD 1530 1558	insuficiencia venosa crónica
+T195	ENFERMEDAD 2998 3012	esplenomegalia
+T196	ENFERMEDAD 3269 3281	epididimitis
+T197	ENFERMEDAD 3551 3568	espondilodiscitis
+T198	ENFERMEDAD 3774 3781	absceso
+T199	ENFERMEDAD 4063 4094	patologías de origen infeccioso
+T200	ENFERMEDAD 4098 4157	Infección de origen piógeno: S. aureus es el microorganismo
+T201	ENFERMEDAD 4191 4222	osteomielitis vertebral piógena
+T202	ENFERMEDAD 4273 4328	infección en el 50% de los pacientes el tracto urinario
+T203	ENFERMEDAD 4361 4479	Microorganismos virulentos como Pseudomonas spp, Salmonella spp o el propio S. aureus generan abscesos paravertebrales
+T204	ENFERMEDAD 4586 4594	abscesos
+T205	ENFERMEDAD 4780 4811	osteomielitis de origen piógeno
+T206	ENFERMEDAD 5008 5020	leucocitosis
+T207	ENFERMEDAD 5115 5137	Tuberculosis vertebral
+T208	ENFERMEDAD 5155 5173	enfermedad de Pott
+T209	ENFERMEDAD 5176 5200	espondilitis tuberculosa
+T210	ENFERMEDAD 5373 5397	espondilitis tuberculosa
+T211	ENFERMEDAD 5427 5441	primoinfección
+T212	ENFERMEDAD 5568 5580	tuberculosis
+T213	ENFERMEDAD 5682 5694	tuberculosis
+T214	ENFERMEDAD 5866 5894	tuberculosis renal o genital
+T215	ENFERMEDAD 6004 6026	tuberculosis vertebral
+T216	ENFERMEDAD 6447 6453	anemia
+T217	ENFERMEDAD 6485 6499	esplenomegalia
+T218	ENFERMEDAD 6667 6686	enfermedad brucelar
+T219	ENFERMEDAD 6770 6794	abscesos paravertebrales
+T220	ENFERMEDAD 6824 6836	tuberculosis
+T221	ENFERMEDAD 6888 6898	brucelosis
+T222	ENFERMEDAD 7061 7073	leucocitosis
+T223	ENFERMEDAD 7449 7459	brucelosis
+T224	ENFERMEDAD 7661 7680	enfermedad brucelar
+T225	ENFERMEDAD 7825 7854	infección de origen zoonótico
+T226	ENFERMEDAD 7955 7989	positivo para Brucella mellitensis
+T227	ENFERMEDAD 9241 9259	proceso infeccioso
+T228	ENFERMEDAD 9888 9906	proceso infeccioso
+T229	ENFERMEDAD 9937 9953	absceso epidural
+T230	ENFERMEDAD 9996 10047	espondilitis a nivel de cuerpos vertebrales L5 y S1
+T231	ENFERMEDAD 10068 10116	Espondilodiscitis lumbar por Brucella melitensis
+T232	ENFERMEDAD 10226 10237	bacteriemia
+T233	PACIENTE-PROFESION 203 240	trabajó durante un mes en un matadero

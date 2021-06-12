@@ -1,0 +1,8 @@
+
+Trabaja	O
+como	O
+conserje	B-PROFESION
+de	I-PROFESION
+dos	I-PROFESION
+edificios	I-PROFESION
+.	O

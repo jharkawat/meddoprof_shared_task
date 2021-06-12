@@ -1,0 +1,19 @@
+
+Densidad	O
+:	O
+1007	O
+pH	O
+orina	O
+muestra	O
+aislada	O
+:	O
+6	O
+,	O
+5	O
+;	O
+glucosa	O
+:	O
+negativo	O
+;	O
+c	O
+.	O

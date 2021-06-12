@@ -1,0 +1,14 @@
+
+En	O
+RM	O
+de	O
+control	O
+no	O
+se	O
+observa	O
+presencia	O
+de	O
+focos	O
+tumorales	O
+residuales	O
+.	O

@@ -1,0 +1,23 @@
+
+La	O
+asistencia	O
+respiratoria	O
+se	O
+retiró	O
+a	O
+las	O
+2	O
+horas	O
+de	O
+vida	O
+,	O
+siendo	O
+la	O
+exploración	O
+física	O
+a	O
+las	O
+9	O
+horas	O
+normal	O
+.	O

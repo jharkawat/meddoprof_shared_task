@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+ingresa	O
+en	O
+el	O
+servicio	O
+de	O
+neurología	O
+para	O
+ampliación	O
+del	O
+estudio	O
+.	O

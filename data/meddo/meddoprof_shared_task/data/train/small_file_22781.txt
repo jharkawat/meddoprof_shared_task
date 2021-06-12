@@ -1,0 +1,26 @@
+
+Su	O
+padre	O
+había	O
+padecido	O
+un	O
+episodio	O
+depresivo	O
+mayor	O
+,	O
+en	O
+una	O
+época	O
+que	O
+se	O
+quedó	O
+en	B-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+,	O
+presentando	O
+una	O
+recuperación	O
+completa	O
+posterior	O
+.	O

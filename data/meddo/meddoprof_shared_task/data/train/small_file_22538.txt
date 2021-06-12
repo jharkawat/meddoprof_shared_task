@@ -1,0 +1,21 @@
+
+Sus	O
+padres	O
+lo	O
+definen	O
+como	O
+un	O
+niño	O
+cariñoso	O
+,	O
+que	O
+busca	O
+el	O
+contacto	O
+y	O
+responde	O
+a	O
+gestos	O
+de	O
+afecto	O
+.	O

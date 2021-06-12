@@ -1,0 +1,10 @@
+
+me	O
+tomé	O
+pastillas	O
+porque	O
+me	O
+lo	O
+ordenaron	O
+"	O
+.	O

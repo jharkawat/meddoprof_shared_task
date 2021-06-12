@@ -1,0 +1,13 @@
+
+Hemos	O
+de	O
+tener	O
+en	O
+cuenta	O
+la	O
+criptococosis	O
+,	O
+histoplasmosis	O
+y	O
+blastomicosis	O
+.	O

@@ -1,0 +1,23 @@
+
+La	O
+paciente	O
+es	O
+dada	O
+de	O
+alta	O
+al	O
+domicilio	O
+con	O
+cita	O
+en	O
+Salud	O
+Mental	O
+y	O
+seguimiento	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

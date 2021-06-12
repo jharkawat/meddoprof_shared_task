@@ -1,0 +1,22 @@
+
+Mujer	O
+de	O
+31	O
+años	O
+,	O
+sin	O
+hábitos	O
+tóxicos	O
+(	O
+consumo	O
+esporádico	O
+de	O
+alcohol	O
+)	O
+,	O
+con	O
+hipertrigliceridemia	O
+e	O
+hipercolesterolemia	O
+leves	O
+.	O

@@ -1,0 +1,12 @@
+
+Leucocitos	O
+2	O
+.	O
+205	O
+/	O
+mm3	O
+,	O
+90	O
+%	O
+polimorfonucleares	O
+.	O

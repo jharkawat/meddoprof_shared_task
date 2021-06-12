@@ -1,0 +1,7 @@
+
+Ideación	O
+delirante	O
+autorreferencial	O
+y	O
+paranoide	O
+.	O

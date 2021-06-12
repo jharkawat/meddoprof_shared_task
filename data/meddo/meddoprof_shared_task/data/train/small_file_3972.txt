@@ -1,0 +1,15 @@
+
+En	O
+la	O
+figura	O
+1	O
+se	O
+puede	O
+observar	O
+el	O
+genograma	O
+familiar	O
+de	O
+la	O
+paciente	O
+.	O

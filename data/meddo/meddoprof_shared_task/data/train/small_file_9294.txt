@@ -1,0 +1,15 @@
+
+Posteriormente	O
+el	O
+paciente	O
+fue	O
+derivado	O
+a	O
+Consulta	O
+específica	O
+de	O
+Miopatía	O
+,	O
+para	O
+seguimiento	O
+.	O

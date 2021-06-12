@@ -1,0 +1,7 @@
+
+No	O
+se	O
+administró	O
+VAT	O
+ni	O
+toxoide	O

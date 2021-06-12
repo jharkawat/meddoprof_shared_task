@@ -1,0 +1,12 @@
+
+Auscultación	O
+cardiaca	O
+:	O
+rítmica	O
+,	O
+sin	O
+aparentes	O
+soplos	O
+ni	O
+extratonos	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+lesiones	O
+cutáneas	O
+en	O
+la	O
+exploración	O
+.	O

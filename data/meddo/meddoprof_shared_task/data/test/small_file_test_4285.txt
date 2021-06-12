@@ -1,0 +1,14 @@
+
+Se	O
+pauta	O
+dexametasona	O
+8	O
+mg	O
+cada	O
+8	O
+horas	O
+e	O
+inicia	O
+radioterapia	O
+holocraneal	O
+.	O

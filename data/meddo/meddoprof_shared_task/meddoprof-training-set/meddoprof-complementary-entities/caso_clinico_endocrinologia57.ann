@@ -1,0 +1,67 @@
+T1	SINTOMA 684 697	alucinaciones
+T2	SINTOMA 712 718	disnea
+T3	SINTOMA 861 867	disnea
+T4	SINTOMA 895 923	uso de musculatura accesoria
+T5	SINTOMA 987 996	fallecida
+T6	SINTOMA 1077 1112	masa cervical de consistencia firme
+T7	SINTOMA 1388 1401	masa cervical
+T8	SINTOMA 1563 1576	masa cervical
+T9	SINTOMA 3274 3280	exitus
+T10	PROCEDIMIENTO 364 382	prueba diagnóstica
+T11	PROCEDIMIENTO 1187 1206	gasometría arterial
+T12	PROCEDIMIENTO 1466 1476	intubación
+T13	PROCEDIMIENTO 1665 1704	maniobras de Reanimación Cardiopulmonar
+T14	PROCEDIMIENTO 1706 1709	RCP
+T15	PROCEDIMIENTO 1715 1723	intubado
+T16	PROCEDIMIENTO 1822 1842	radiografía de tórax
+T17	PROCEDIMIENTO 1907 1927	TC de cuello y tórax
+T18	PROCEDIMIENTO 2198 2217	tiroidectomía total
+T19	PROCEDIMIENTO 2710 2743	sustitución de hormonas tiroideas
+T20	PROCEDIMIENTO 2886 2899	traqueostomía
+T21	PROCEDIMIENTO 3300 3303	RCP
+T22	NEG 219 222	sin
+T23	NSCO 223 234	tratamiento
+T24	NEG 249 251	No
+T25	NSCO 252 279	consumo conocido de tóxicos
+T26	UNC 281 292	Sospecha de
+T27	USCO 293 319	bocio multinodular para el
+T28	UNC 2117 2125	probable
+T29	USCO 2126 2147	a nivel supraesternal
+T30	NEG 2460 2463	sin
+T31	NSCO 2464 2508	incidencias a pesar de la dificultad técnica
+T32	NEG 3110 3118	falta de
+T33	NSCO 3119 3139	apoyo socio-familiar
+T34	NEG 3246 3248	no
+T35	NSCO 3249 3256	filiado
+T36	FARMACO 127 137	Sertralina
+T37	FARMACO 151 171	Timolol/ Bimatoprost
+T38	FARMACO 2678 2687	rocaltrol
+T39	FARMACO 2690 2707	gluconato cálcico
+T40	FARMACO 2758 2770	levotiroxina
+T41	ORG_VIVO 0 8	Paciente
+T42	ORG_VIVO 63 73	personales
+T43	ORG_VIVO 327 335	paciente
+T44	ORG_VIVO 565 573	paciente
+T45	ORG_VIVO 980 986	esposa
+T46	ORG_VIVO 1026 1044	personal sanitario
+T47	ORG_VIVO 3021 3029	paciente
+T48	ORG_VIVO 3096 3104	paciente
+T49	ORG_VIVO 3131 3139	familiar
+T50	ENFERMEDAD 87 96	depresión
+T51	ENFERMEDAD 99 107	glaucoma
+T52	ENFERMEDAD 173 190	Diabetes mellitus
+T53	ENFERMEDAD 192 196	SAOS
+T54	ENFERMEDAD 199 218	hipetrigliceridemia
+T55	ENFERMEDAD 293 311	bocio multinodular
+T56	ENFERMEDAD 1211 1232	acidosis respiratoria
+T57	ENFERMEDAD 1345 1382	encefalopatía hipercápnica secundaria
+T58	ENFERMEDAD 1604 1630	parada cardiorrespiratoria
+T59	ENFERMEDAD 1929 2051	Bocio multinodular con extensión suprahioidea, retrofaríngea y endotorácica a expensas fundamentalmente de lóbulo tiroideo
+T60	ENFERMEDAD 2077 2147	estenosis crítica a nivel del hioides y probable a nivel supraesternal
+T61	ENFERMEDAD 2325 2351	bocio multinodular benigno
+T62	ENFERMEDAD 2526 2572	complicación hipoparatiroidismo postquirúrgico
+T63	ENFERMEDAD 2905 2919	traqueomalacia
+T64	ENFERMEDAD 3209 3235	parada cardiorrespiratoria
+T65	OTROS-PROFESION 486 499	Guardia Civil
+T66	SANITARIO-PROFESION 1484 1514	equipo de otorrinolaringología
+T67	SANITARIO-PROFESION 1026 1044	personal sanitario

@@ -1,0 +1,22 @@
+
+No	O
+ha	O
+vuelto	O
+a	O
+presentar	O
+alteraciones	O
+del	O
+metabolismo	O
+de	O
+la	O
+glucemia	O
+,	O
+realizando	O
+los	O
+controles	O
+hematológicos	O
+mensuales	O
+pertinentes	O
+sin	O
+alteraciones	O
+.	O

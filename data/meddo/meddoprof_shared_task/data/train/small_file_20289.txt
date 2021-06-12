@@ -1,0 +1,10 @@
+
+Madre	O
+de	O
+42	O
+años	O
+,	O
+trabaja	O
+como	O
+administrativa	B-PROFESION
+.	O

@@ -1,0 +1,23 @@
+
+Mujer	O
+de	O
+35	O
+años	O
+sin	O
+antecedentes	O
+médicos	O
+relevantes	O
+de	O
+interés	O
+remitida	O
+desde	O
+urgencias	O
+para	O
+la	O
+valoración	O
+de	O
+lesiones	O
+en	O
+mano	O
+derecha	O
+.	O

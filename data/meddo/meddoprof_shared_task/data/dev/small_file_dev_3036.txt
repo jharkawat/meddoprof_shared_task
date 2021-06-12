@@ -1,0 +1,7 @@
+
+JUICIO	O
+CLÍNICO	O
+:	O
+Esquizofrenia	O
+paranoide	O
+.	O

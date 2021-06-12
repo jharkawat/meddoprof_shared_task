@@ -1,0 +1,5 @@
+
+Posible	O
+episodio	O
+disociativo	O
+.	O

@@ -1,0 +1,19 @@
+
+A	O
+la	O
+auscultación	O
+cardiopulmonar	O
+presentaba	O
+unos	O
+ruidos	O
+cardiacos	O
+rítmicos	O
+sin	O
+soplos	O
+audibles	O
+y	O
+un	O
+murmullo	O
+vesicular	O
+conservado	O
+.	O

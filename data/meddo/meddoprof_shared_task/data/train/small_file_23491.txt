@@ -1,0 +1,7 @@
+
+Síndrome	O
+amotivacional	O
+versus	O
+Síndrome	O
+Depresivo	O
+.	O

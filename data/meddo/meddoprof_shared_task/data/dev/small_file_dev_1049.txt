@@ -1,0 +1,18 @@
+
+No	O
+puede	O
+llevar	O
+una	O
+conversación	O
+fluida	O
+porque	O
+no	O
+mantiene	O
+atención	O
+y	O
+no	O
+parece	O
+entender	O
+en	O
+ocasiones	O
+.	O

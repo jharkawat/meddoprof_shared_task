@@ -1,0 +1,5 @@
+
+Sexo	O
+:	O
+F	O
+.	O

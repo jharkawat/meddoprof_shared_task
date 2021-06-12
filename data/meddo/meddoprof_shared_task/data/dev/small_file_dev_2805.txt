@@ -1,0 +1,21 @@
+
+En	O
+este	O
+caso	O
+,	O
+las	O
+causas	O
+secundarias	O
+de	O
+agranulocitosis	O
+podrían	O
+ir	O
+ligadas	O
+a	O
+infecciones	O
+,	O
+discrasias	O
+sanguíneas	O
+o	O
+farmacológicas	O
+.	O

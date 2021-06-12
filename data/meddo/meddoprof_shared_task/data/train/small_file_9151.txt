@@ -1,0 +1,8 @@
+
+Medicación	O
+actual	O
+:	O
+Sintrom	O
+10mg	O
+semanales	O
+.	O

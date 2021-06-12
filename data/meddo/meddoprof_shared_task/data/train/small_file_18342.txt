@@ -1,0 +1,10 @@
+
+de	O
+Terrassa	O
+para	O
+desintoxicación	O
+por	O
+dependencia	O
+de	O
+heroína	O
+.	O

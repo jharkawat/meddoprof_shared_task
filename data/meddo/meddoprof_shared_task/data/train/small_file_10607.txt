@@ -1,0 +1,16 @@
+
+En	O
+el	O
+caso	O
+de	O
+nuestro	O
+paciente	O
+,	O
+mantuvimos	O
+el	O
+tratamiento	O
+sintomático	O
+con	O
+diclofenaco	O
+sódico	O
+.	O

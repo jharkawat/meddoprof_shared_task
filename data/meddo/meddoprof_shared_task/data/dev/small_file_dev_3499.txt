@@ -1,0 +1,17 @@
+
+En	O
+este	O
+paciente	O
+estos	O
+recursos	O
+están	O
+ausentes	O
+lo	O
+cual	O
+lo	O
+hace	O
+más	O
+vulnerable	O
+al	O
+estrés	O
+.	O

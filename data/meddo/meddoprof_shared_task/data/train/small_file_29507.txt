@@ -1,0 +1,6 @@
+
+Las	O
+frases	O
+son	O
+escuetas	O
+.	O

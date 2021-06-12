@@ -1,0 +1,18 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+mielopatía	O
+cervical	O
+con	O
+posible	O
+estatus	O
+migrañoso	O
+,	O
+se	O
+decide	O
+ingreso	O
+para	O
+estudio	O
+.	O

@@ -1,0 +1,20 @@
+
+Se	O
+administraron	O
+5	O
+bolos	O
+de	O
+metilprednisolona	O
+intravenosa	O
+,	O
+con	O
+mejoría	O
+evidente	O
+de	O
+la	O
+cefalea	O
+y	O
+la	O
+agudeza	O
+visual	O
+.	O

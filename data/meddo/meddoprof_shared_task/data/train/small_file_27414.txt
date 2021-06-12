@@ -1,0 +1,5 @@
+
+FIS	O
+aparentemente	O
+conservadas	O
+.	O

@@ -1,0 +1,16 @@
+
+Mama	O
+izquierda	O
+:	O
+tumoración	O
+compatible	O
+con	O
+hamartoma	O
+o	O
+fibroadenolipoma	O
+en	O
+cuadrante	O
+ínfero	O
+-	O
+externo	O
+.	O

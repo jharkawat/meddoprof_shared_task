@@ -1,0 +1,10 @@
+
+Se	O
+realiza	O
+durante	O
+el	O
+ingreso	O
+aspirado	O
+medular	O
+esternal	O
+.	O

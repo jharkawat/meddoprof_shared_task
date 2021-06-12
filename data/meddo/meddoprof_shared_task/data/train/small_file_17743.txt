@@ -1,0 +1,9 @@
+
+Campimetría	O
+por	O
+confrontación	O
+:	O
+ojo	O
+izquierdo	O
+normal	O
+.	O

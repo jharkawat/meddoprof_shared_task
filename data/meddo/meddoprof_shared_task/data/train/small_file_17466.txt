@@ -1,0 +1,13 @@
+
+No	O
+datos	O
+en	O
+la	O
+EMG	O
+de	O
+fenómeno	O
+distónico	O
+en	O
+la	O
+pierna	O
+.	O

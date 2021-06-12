@@ -1,0 +1,10 @@
+
+Los	O
+dos	O
+abuelos	O
+tenían	O
+antecedentes	O
+de	O
+dependencia	O
+alcohólica	O
+.	O

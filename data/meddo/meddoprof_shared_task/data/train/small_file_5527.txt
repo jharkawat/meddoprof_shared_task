@@ -1,0 +1,14 @@
+
+Su	O
+hija	O
+es	O
+enfermera	B-PROFESION
+y	O
+en	O
+todo	O
+este	O
+proceso	O
+,	O
+cuidadora	B-SITUACION_LABORAL
+principal	I-SITUACION_LABORAL
+.	O

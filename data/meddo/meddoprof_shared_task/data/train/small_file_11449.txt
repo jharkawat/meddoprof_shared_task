@@ -1,0 +1,15 @@
+
+Marcadores	O
+de	O
+autoinmunidad	O
+(	O
+AMA	O
+.	O
+ANA	O
+,	O
+SMA	O
+,	O
+antiLKM	O
+)	O
+negativos	O
+.	O

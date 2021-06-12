@@ -1,0 +1,25 @@
+
+El	O
+padre	O
+dice	O
+que	O
+habitualmente	O
+le	O
+ha	O
+costado	O
+trabajo	O
+relacionarse	O
+,	O
+pero	O
+que	O
+ha	O
+sido	O
+un	O
+buen	O
+estudiante	B-SITUACION_LABORAL
+,	O
+con	O
+media	O
+de	O
+sobresaliente	O
+.	O

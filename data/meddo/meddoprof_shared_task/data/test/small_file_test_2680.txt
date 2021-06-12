@@ -1,0 +1,15 @@
+
+Refiere	O
+meningitis	O
+bacteriana	O
+a	O
+los	O
+17	O
+años	O
+de	O
+edad	O
+con	O
+parálisis	O
+facial	O
+residual	O
+.	O

@@ -1,0 +1,22 @@
+
+Asiste	B-ACTIVIDAD
+en	I-ACTIVIDAD
+las	I-ACTIVIDAD
+mañanas	I-ACTIVIDAD
+a	I-ACTIVIDAD
+nadar	I-ACTIVIDAD
+a	O
+un	O
+deportivo	O
+cercano	O
+a	O
+su	O
+casa	O
+,	O
+por	O
+lo	O
+regular	O
+nada	O
+media	O
+hora	O
+.	O

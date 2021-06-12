@@ -1,0 +1,63 @@
+T1	SINTOMA 386 391	mareo
+T2	SINTOMA 394 417	alteración de la marcha
+T3	SINTOMA 611 637	deterioro de función renal
+T4	SINTOMA 856 877	comportamiento mórico
+T5	SINTOMA 880 886	fiebre
+T6	SINTOMA 900 957	disfasia sensitivo-motora transcortical y marcha apráxica
+T7	PROCEDIMIENTO 573 583	TC craneal
+T8	PROCEDIMIENTO 1119 1133	punción lumbar
+T9	PROCEDIMIENTO 1339 1381	PCR de virus JC en líquido cefalorraquídeo
+T10	PROCEDIMIENTO 1494 1517	terapia antirretroviral
+T11	PROCEDIMIENTO 1785 1800	antirretroviral
+T12	PROCEDIMIENTO 2190 2213	terapia antirretroviral
+T13	NEG 593 596	sin
+T14	NSCO 597 637	contraste por deterioro de función renal
+T15	NEG 1089 1092	sin
+T16	NSCO 1093 1105	resistencias
+T17	UNC 1415 1426	se sospecha
+T18	USCO 1427 1471	una leucoencefalopatía multifocal progresiva
+T19	NEG 1682 1684	no
+T20	NSCO 1685 1695	convulsivo
+T21	UNC 1802 1813	se sospecha
+T22	USCO 1814 1850	un síndrome de reconstitución inmune
+T23	NEG 1959 1962	sin
+T24	NSCO 1963 1985	captación de contraste
+T25	UNC 1999 2013	compatible con
+T26	USCO 2014 2016	la
+T27	UNC 2017 2025	sospecha
+T28	USCO 2026 2033	clínica
+T29	NEG 2035 2037	No
+T30	NEG 2122 2133	ausencia de
+T31	NSCO 2134 2157	tratamiento alternativo
+T32	FARMACO 201 210	tenofovir
+T33	FARMACO 211 224	emtricitavina
+T34	FARMACO 227 236	darunavir
+T35	FARMACO 237 247	cobicistat
+T36	FARMACO 1520 1529	tenofovir
+T37	FARMACO 1530 1541	alafenamida
+T38	FARMACO 1542 1555	emtricitabina
+T39	FARMACO 1558 1570	dolutegravir
+T40	FARMACO 2286 2298	dexametasona
+T41	ORG_VIVO 0 5	Varón
+T42	ORG_VIVO 306 322	inmunovirológica
+T43	ORG_VIVO 838 846	paciente
+T44	ORG_VIVO 1065 1070	viral
+T45	ORG_VIVO 1188 1190	RN
+T46	ORG_VIVO 1346 1354	virus JC
+T47	ORG_VIVO 1502 1517	antirretroviral
+T48	ORG_VIVO 1575 1583	paciente
+T49	ORG_VIVO 1785 1800	antirretroviral
+T50	ORG_VIVO 1887 1889	RN
+T51	ORG_VIVO 2079 2087	paciente
+T52	ORG_VIVO 2198 2213	antirretroviral
+T53	ORG_VIVO 2324 2332	paciente
+T54	ORG_VIVO 2490 2506	inmunovirológica
+T55	ENFERMEDAD 167 180	infección VIH
+T56	ENFERMEDAD 706 721	ictus isquémico
+T57	ENFERMEDAD 1431 1471	leucoencefalopatía multifocal progresiva
+T58	ENFERMEDAD 1663 1695	estatus epiléptico no convulsivo
+T59	ENFERMEDAD 1698 1719	síndrome pseudobulbar
+T60	ENFERMEDAD 1817 1850	síndrome de reconstitución inmune
+T61	ENFERMEDAD 1852 1856	IRIS
+T62	ENFERMEDAD 2253 2257	IRIS
+T63	PACIENTE-SITUACION_LABORAL 62 101	en régimen de internamiento presidiario

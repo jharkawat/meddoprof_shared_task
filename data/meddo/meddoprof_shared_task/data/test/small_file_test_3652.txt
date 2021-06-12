@@ -1,0 +1,7 @@
+
+Adenopatías	O
+sin	O
+evidencia	O
+de	O
+neoplasia	O
+.	O

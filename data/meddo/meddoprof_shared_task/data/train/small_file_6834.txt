@@ -1,0 +1,14 @@
+
+Trabajaba	O
+como	O
+camionero	B-PROFESION
+y	O
+comentaba	O
+ser	O
+asiduo	B-ACTIVIDAD
+a	I-ACTIVIDAD
+las	I-ACTIVIDAD
+actividades	I-ACTIVIDAD
+de	I-ACTIVIDAD
+caza	I-ACTIVIDAD
+.	O

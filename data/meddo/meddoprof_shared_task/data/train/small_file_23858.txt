@@ -1,0 +1,15 @@
+
+Al	O
+ingreso	O
+solamente	O
+era	O
+capaz	O
+de	O
+andar	O
+con	O
+un	O
+andador	O
+necesitando	O
+ser	O
+dirigido	O
+.	O

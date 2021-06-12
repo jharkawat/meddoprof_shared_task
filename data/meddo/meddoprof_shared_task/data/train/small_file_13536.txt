@@ -1,0 +1,14 @@
+
+El	O
+foco	O
+de	O
+infección	O
+por	O
+S	O
+gallolyticus	O
+probablemente	O
+ha	O
+sido	O
+este	O
+tumor	O
+.	O

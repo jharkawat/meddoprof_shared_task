@@ -1,0 +1,11 @@
+
+No	O
+hay	O
+alteración	O
+del	O
+ritmo	O
+circadiano	O
+,	O
+apetito	O
+conservado	O
+.	O

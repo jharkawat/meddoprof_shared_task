@@ -1,0 +1,7 @@
+
+Fuma	O
+además	O
+cannabis	O
+y	O
+tabaco	O
+.	O

@@ -1,0 +1,15 @@
+
+Acude	O
+acompañado	O
+de	O
+su	O
+padre	O
+a	O
+la	O
+entrevista	O
+inicial	O
+para	O
+ingreso	O
+en	O
+UME	O
+.	O

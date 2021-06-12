@@ -1,0 +1,13 @@
+
+Abdomen	O
+:	O
+Lesiones	O
+papulares	O
+con	O
+pigmentación	O
+marrón	O
+diseminadas	O
+predominando	O
+en	O
+abdomen	O
+.	O

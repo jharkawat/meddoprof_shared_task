@@ -1,0 +1,19 @@
+
+Asimismo	O
+,	O
+el	O
+paciente	O
+inicia	O
+psicoterapia	O
+en	O
+la	O
+Unidad	O
+mediante	O
+técnicas	O
+conductuales	O
+basadas	O
+en	O
+relajación	O
+y	O
+distracción	O
+.	O

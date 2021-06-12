@@ -1,0 +1,6 @@
+
+Ausencia	O
+de	O
+vesícula	O
+biliar	O
+.	O

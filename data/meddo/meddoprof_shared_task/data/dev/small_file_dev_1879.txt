@@ -1,0 +1,27 @@
+
+Antecedentes	O
+familiares	O
+:	O
+su	O
+hijo	O
+fue	O
+atendido	O
+por	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+Infanto	O
+Juvenil	O
+con	O
+el	O
+diagnóstico	O
+de	O
+TOC	O
+y	O
+su	O
+tía	O
+materna	O
+con	O
+esquizofrenia	O
+.	O

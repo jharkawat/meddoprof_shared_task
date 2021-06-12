@@ -1,0 +1,11 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+clopidogrel	O
+75	O
+mg	O
+/	O
+día	O
+.	O

@@ -1,0 +1,11 @@
+
+Se	O
+palpaba	O
+un	O
+neurofibroma	O
+profundo	O
+en	O
+el	O
+antebrazo	O
+izquierdo	O
+.	O

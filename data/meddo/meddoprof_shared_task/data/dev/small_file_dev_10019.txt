@@ -1,0 +1,21 @@
+
+A	O
+los	O
+21	O
+años	O
+se	O
+casó	O
+con	O
+una	O
+mujer	O
+de	O
+su	O
+edad	O
+que	O
+trabajaba	O
+como	O
+mesera	B-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+restaurante	I-PROFESION
+.	O

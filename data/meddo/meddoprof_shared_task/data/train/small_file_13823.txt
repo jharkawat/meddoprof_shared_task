@@ -1,0 +1,17 @@
+
+Consultó	O
+por	O
+empeoramiento	O
+brusco	O
+del	O
+dolor	O
+,	O
+debilidad	O
+de	O
+miembros	O
+inferiores	O
+y	O
+temperatura	O
+de	O
+39oC	O
+.	O

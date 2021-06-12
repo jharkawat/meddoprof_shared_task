@@ -1,0 +1,25 @@
+
+Se	O
+trasladó	O
+inmediatamente	O
+al	O
+paciente	O
+a	O
+nuestro	O
+centro	O
+(	O
+IHU	O
+Méditerranée	O
+Infection	O
+)	O
+para	O
+su	O
+hospitalización	O
+en	O
+una	O
+sala	O
+de	O
+pacientes	O
+altamente	O
+contagiosos	O
+.	O

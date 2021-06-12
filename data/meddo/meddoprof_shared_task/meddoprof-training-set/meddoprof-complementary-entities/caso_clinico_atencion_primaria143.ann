@@ -1,0 +1,138 @@
+T1	SINTOMA 712 717	torpe
+T2	SINTOMA 779 790	decaimiento
+T3	SINTOMA 793 800	torpeza
+T4	SINTOMA 832 839	temblor
+T5	SINTOMA 869 909	pérdida de fuerza de miembros inferiores
+T6	SINTOMA 915 924	dismetría
+T7	SINTOMA 927 936	disartria
+T8	SINTOMA 947 954	nauseas
+T9	SINTOMA 1051 1058	diarrea
+T10	SINTOMA 1156 1174	orinas más oscuras
+T11	SINTOMA 1301 1306	mareo
+T12	SINTOMA 1316 1348	pérdida del nivel de consciencia
+T13	SINTOMA 1412 1426	dolor torácico
+T14	SINTOMA 1430 1436	disnea
+T15	SINTOMA 1441 1456	dolor abdominal
+T16	SINTOMA 1461 1467	fiebre
+T17	SINTOMA 1524 1550	inestabilidad de la marcha
+T18	SINTOMA 1553 1560	temblor
+T19	SINTOMA 1754 1761	temblor
+T20	SINTOMA 1835 1858	limitación de movilidad
+T21	SINTOMA 1952 1962	consciente
+T22	SINTOMA 1965 1974	orientada
+T23	SINTOMA 2173 2182	disartria
+T24	SINTOMA 2231 2251	dismetría dedo-naríz
+T25	SINTOMA 2659 2684	dificultades de movilidad
+T26	SINTOMA 2916 2934	debilidad muscular
+T27	SINTOMA 2939 2962	alteración de la marcha
+T28	SINTOMA 2964 2975	decaimiento
+T29	SINTOMA 2977 2986	dismetría
+T30	SINTOMA 2989 3012	alteración del lenguaje
+T31	PROCEDIMIENTO 1663 1687	tratamiento psiquiátrico
+T32	PROCEDIMIENTO 3650 3661	TAC craneal
+T33	PROCEDIMIENTO 3664 3682	análisis sanguíneo
+T34	PROCEDIMIENTO 3763 3781	Electrocardiograma
+T35	NEG 77 80	sin
+T36	NSCO 81 114	alergias medicamentosas conocidas
+T37	NEG 232 235	Sin
+T38	NSCO 236 279	antecedentes quirúrgicos ni hábitos tóxicos
+T39	NEG 1114 1117	sin
+T40	NSCO 1118 1152	presencia de productos patológicos
+T41	NEG 1312 1315	sin
+T42	NSCO 1316 1348	pérdida del nivel de consciencia
+T43	NEG 1350 1352	No
+T44	NSCO 1353 1387	otros signos de alarma neurológica
+T45	NEG 1389 1394	Niega
+T46	NSCO 1395 1407	traumatismos
+T47	NEG 1409 1411	No
+T48	NSCO 1412 1436	dolor torácico ni disnea
+T49	NEG 1438 1440	No
+T50	NSCO 1441 1456	dolor abdominal
+T51	NEG 1458 1460	No
+T52	NSCO 1461 1467	fiebre
+T53	UNC 1564 1572	probable
+T54	USCO 1573 1594	origen multifactorial
+T55	NEG 1689 1703	se le suspende
+T56	NSCO 1704 1717	la quetiapina
+T57	UNC 1724 1735	sospecha de
+T58	USCO 1736 1761	posible causa del temblor
+T59	NEG 1767 1771	cede
+T60	NEG 1894 1897	sin
+T61	NSCO 1898 1927	necesidad de ayuda ortopédica
+T62	NEG 2558 2561	Sin
+T63	NSCO 2562 2605	problemas importantes en el ámbito familiar
+T64	NEG 3022 3031	sospechar
+T65	NSCO 3032 3101	en enfermedades del sistema nervioso como patología vascular cerebral
+T66	NEG 3355 3357	no
+T67	NSCO 3358 3395	podemos olvidar las causas psicógenas
+T68	NEG 4260 4269	suspender
+T69	NSCO 4270 4323	diurético tiacídico debido a interacción con el litio
+T70	NEG 4444 4455	se suspende
+T71	NSCO 4456 4461	litio
+T72	FARMACO 300 310	lisinopril
+T73	FARMACO 317 334	hidroclorotiacida
+T74	FARMACO 365 378	atorvastatina
+T75	FARMACO 407 415	tiroxina
+T76	FARMACO 446 451	litio
+T77	FARMACO 460 469	0.5- 0.5-
+T78	FARMACO 474 485	lamotrigina
+T79	FARMACO 503 513	alprazolam
+T80	FARMACO 519 524	mg/8h
+T81	FARMACO 527 535	tramadol
+T82	FARMACO 536 547	paracetamol
+T83	FARMACO 1707 1717	quetiapina
+T84	FARMACO 3933 3938	litio
+T85	FARMACO 4140 4145	litio
+T86	FARMACO 4318 4323	litio
+T87	FARMACO 4456 4461	litio
+T88	FARMACO 4512 4523	lamotrigina
+T89	ORG_VIVO 59 64	Mujer
+T90	ORG_VIVO 133 143	personales
+T91	ORG_VIVO 583 600	Médico de Familia
+T92	ORG_VIVO 657 661	hijo
+T93	ORG_VIVO 664 670	marido
+T94	ORG_VIVO 1978 1985	persona
+T95	ORG_VIVO 2365 2373	familiar
+T96	ORG_VIVO 2407 2412	hijos
+T97	ORG_VIVO 2426 2432	marido
+T98	ORG_VIVO 2437 2441	hijo
+T99	ORG_VIVO 2471 2475	hija
+T100	ORG_VIVO 2513 2521	paciente
+T101	ORG_VIVO 2597 2605	familiar
+T102	ORG_VIVO 2775 2792	Médico de Familia
+T103	ORG_VIVO 2805 2813	paciente
+T104	ORG_VIVO 3469 3477	paciente
+T105	ORG_VIVO 3501 3518	Médico de Familia
+T106	ORG_VIVO 4235 4252	Médico de Familia
+T107	ORG_VIVO 4377 4387	Psiquiatra
+T108	ORG_VIVO 4553 4558	hijos
+T109	ORG_VIVO 4662 4668	marido
+T110	ENFERMEDAD 81 104	alergias medicamentosas
+T111	ENFERMEDAD 147 168	hipertensión arterial
+T112	ENFERMEDAD 170 180	dislipemia
+T113	ENFERMEDAD 182 196	hipotiroidismo
+T114	ENFERMEDAD 198 215	trastorno bipolar
+T115	ENFERMEDAD 218 230	fibromialgia
+T116	ENFERMEDAD 842 864	trastorno de la marcha
+T117	ENFERMEDAD 1596 1618	poliartrosis/yatrogeno
+T118	ENFERMEDAD 2852 2867	trastorno agudo
+T119	ENFERMEDAD 3035 3068	enfermedades del sistema nervioso
+T120	ENFERMEDAD 3074 3101	patología vascular cerebral
+T121	ENFERMEDAD 3103 3120	patología medular
+T122	ENFERMEDAD 3122 3171	parkinsonismos secundarios inducidos por fármacos
+T123	ENFERMEDAD 3173 3196	neuropatías metabólicas
+T124	ENFERMEDAD 3221 3265	Descartaríamos enfermedades desmielinizantes
+T125	ENFERMEDAD 3284 3305	neoplasias cerebrales
+T126	ENFERMEDAD 3378 3395	causas psicógenas
+T127	ENFERMEDAD 3402 3410	histeria
+T128	ENFERMEDAD 3912 3938	sobredosificación de litio
+T129	ENFERMEDAD 4007 4021	deshidratación
+T130	ENFERMEDAD 4039 4054	gastroenteritis
+T131	ENFERMEDAD 4490 4507	trastorno bipolar
+T132	PACIENTE-SITUACION_LABORAL 2388 2399	Ama de casa
+T133	SANITARIO-PROFESION 3811 3830	Médico de Urgencias
+T134	SANITARIO-PROFESION 583 600	Médico de Familia
+T135	SANITARIO-PROFESION 2775 2792	Médico de Familia
+T136	SANITARIO-PROFESION 3501 3518	Médico de Familia
+T137	SANITARIO-PROFESION 4235 4252	Médico de Familia
+T138	SANITARIO-PROFESION 4377 4387	Psiquiatra

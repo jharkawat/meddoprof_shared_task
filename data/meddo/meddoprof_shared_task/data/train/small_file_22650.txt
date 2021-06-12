@@ -1,0 +1,12 @@
+
+Su	O
+personalidad	O
+estuvo	O
+signada	O
+por	O
+la	O
+sumisión	O
+y	O
+el	O
+apocamiento	O
+.	O

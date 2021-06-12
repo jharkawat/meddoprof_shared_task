@@ -1,0 +1,74 @@
+T1	SINTOMA 1079 1091	Hiponatremia
+T2	SINTOMA 1276 1297	agitación psicomotriz
+T3	SINTOMA 1300 1324	sintomatología maniforme
+T4	SINTOMA 1540 1561	Hiponatremia moderada
+T5	SINTOMA 2418 2447	sentimientos de desesperación
+T6	SINTOMA 2475 2484	anhedonia
+T7	SINTOMA 2486 2495	pesimismo
+T8	SINTOMA 2566 2575	hiporexia
+T9	SINTOMA 2578 2586	insomnio
+T10	PROCEDIMIENTO 167 177	venoclisis
+T11	PROCEDIMIENTO 437 456	antidepresivos ISRS
+T12	PROCEDIMIENTO 1397 1427	Tratamiento psicofarmacológico
+T13	PROCEDIMIENTO 2936 2946	diuréticos
+T14	PROCEDIMIENTO 2968 2993	tratamiento antidepresivo
+T15	NEG 1574 1577	Sin
+T16	NSCO 1578 1606	tratamiento tiazidico o ISRS
+T17	UNC 1827 1840	probablemente
+T18	USCO 1841 1869	asociada a IECA y olanzapina
+T19	UNC 2058 2069	sospecha de
+T20	USCO 2070 2089	deterioro cognitivo
+T21	UNC 2090 2104	compatible con
+T22	USCO 2105 2117	demenciasida
+T23	NEG 2456 2464	falta de
+T24	NSCO 2465 2484	interés y anhedonia
+T25	NEG 2587 2599	inespecífico
+T26	FARMACO 667 678	venlafaxina
+T27	FARMACO 733 743	citalopram
+T28	FARMACO 967 978	agomelatina
+T29	FARMACO 1035 1046	venlafaxina
+T30	FARMACO 1134 1145	agomelatina
+T31	FARMACO 1437 1459	clorazepato dipotásico
+T32	FARMACO 1472 1483	agomelatina
+T33	FARMACO 1492 1502	olanzapina
+T34	FARMACO 1627 1636	enalapril
+T35	FARMACO 1737 1759	clorazepato dipotásico
+T36	FARMACO 1761 1772	agomelatina
+T37	FARMACO 1774 1784	olanzapina
+T38	FARMACO 1859 1869	olanzapina
+T39	FARMACO 2209 2220	haloperidol
+T40	FARMACO 2233 2255	clorazepato dipotásico
+T41	FARMACO 3067 3079	escitalopram
+T42	FARMACO 3261 3273	escitalopram
+T43	FARMACO 3294 3305	haloperidol
+T44	FARMACO 3654 3665	haloperidol
+T45	ORG_VIVO 0 5	Mujer
+T46	ORG_VIVO 305 308	VIH
+T47	ORG_VIVO 324 329	TARGA
+T48	ORG_VIVO 342 345	VHC
+T49	ORG_VIVO 1921 1929	cannabis
+T50	ORG_VIVO 2124 2132	hermanos
+T51	ORG_VIVO 2283 2291	Paciente
+T52	ORG_VIVO 2762 2780	personal sanitario
+T53	ENFERMEDAD 179 205	sobreingesta medicamentosa
+T54	ENFERMEDAD 285 303	bronquitis crónica
+T55	ENFERMEDAD 305 319	VIH estadío C3
+T56	ENFERMEDAD 413 425	hiponatremia
+T57	ENFERMEDAD 497 509	hiponatremia
+T58	ENFERMEDAD 514 528	hiperpotasemia
+T59	ENFERMEDAD 1003 1046	hiponatremia grave inducida por venlafaxina
+T60	ENFERMEDAD 1079 1091	Hiponatremia
+T61	ENFERMEDAD 1342 1395	hiponatremia grave inducida por diuréticos tiazídicos
+T62	ENFERMEDAD 1540 1552	Hiponatremia
+T63	ENFERMEDAD 1805 1817	Hiponatremia
+T64	ENFERMEDAD 1921 1929	cannabis
+T65	ENFERMEDAD 2047 2055	distimia
+T66	ENFERMEDAD 2070 2089	deterioro cognitivo
+T67	ENFERMEDAD 2105 2117	demenciasida
+T68	ENFERMEDAD 2133 2143	fallecidos
+T69	ENFERMEDAD 2148 2156	suicidio
+T70	ENFERMEDAD 2727 2735	suicidio
+T71	ENFERMEDAD 2887 2899	hiponatremia
+T72	ENFERMEDAD 3623 3635	hiponatremia
+T73	ENFERMEDAD 3747 3763	cuadro depresivo
+T74	SANITARIO-PROFESION 2762 2780	personal sanitario

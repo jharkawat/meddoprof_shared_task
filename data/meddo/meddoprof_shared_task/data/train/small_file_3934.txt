@@ -1,0 +1,12 @@
+
+Coagulación	O
+normal	O
+,	O
+bioquímica	O
+normal	O
+,	O
+PCR	O
+46	O
+,	O
+72	O
+.	O

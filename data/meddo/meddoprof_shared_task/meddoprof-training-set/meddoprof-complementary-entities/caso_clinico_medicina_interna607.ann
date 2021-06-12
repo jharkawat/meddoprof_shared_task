@@ -1,0 +1,58 @@
+T1	SINTOMA 594 600	fiebre
+T2	SINTOMA 646 665	tos seca irritativa
+T3	SINTOMA 668 691	cefalea fronto temporal
+T4	SINTOMA 798 825	Abdomen blando, no doloroso
+T5	SINTOMA 1231 1237	fiebre
+T6	SINTOMA 1395 1402	afebril
+T7	SINTOMA 1426 1429	tos
+T8	PROCEDIMIENTO 48 61	esplenectomía
+T9	PROCEDIMIENTO 318 353	amputación de las falanges distales
+T10	PROCEDIMIENTO 777 789	Auscultación
+T11	PROCEDIMIENTO 843 854	laparotomía
+T12	PROCEDIMIENTO 856 879	Exploración neurológica
+T13	PROCEDIMIENTO 1205 1217	hemocultivos
+T14	PROCEDIMIENTO 1302 1322	radiografía de tórax
+T15	PROCEDIMIENTO 1527 1539	hemocultivos
+T16	UNC 18 24	dudosa
+T17	USCO 25 46	alergia a penicilinas
+T18	NEG 499 501	no
+T19	NSCO 502 542	ha realizado viajes en los últimos meses
+T20	NEG 545 550	niega
+T21	NSCO 551 580	relaciones sexuales de riesgo
+T22	NEG 720 723	sin
+T23	NSCO 724 750	adenopatías con orofaringe
+T24	NEG 814 816	no
+T25	NSCO 817 825	doloroso
+T26	NEG 1180 1189	negativas
+T27	NEG 1277 1279	No
+T28	NSCO 1280 1322	había hallazgos en la radiografía de tórax
+T29	NEG 1395 1402	afebril
+T30	UNC 1455 1466	sospecha de
+T31	USCO 1467 1483	infección vírica
+T32	FARMACO 420 431	pregabalina
+T33	FARMACO 434 447	amitriptilina
+T34	FARMACO 1356 1367	ceftriaxona
+T35	FARMACO 1666 1680	ciprofloxacino
+T36	ORG_VIVO 0 5	Varón
+T37	ORG_VIVO 492 497	perro
+T38	ORG_VIVO 998 1011	S. pneumoniae
+T39	ORG_VIVO 1013 1026	H. influenzae
+T40	ORG_VIVO 1028 1043	N. meningitidis
+T41	ORG_VIVO 1045 1058	M. pneumoniae
+T42	ORG_VIVO 1060 1073	C. pneumoniae
+T43	ORG_VIVO 1075 1092	Coxiella Burnetti
+T44	ORG_VIVO 1094 1116	Legionella pneumophila
+T45	ORG_VIVO 1118 1136	virus hepatotropos
+T46	ORG_VIVO 1138 1148	toxoplasma
+T47	ORG_VIVO 1150 1160	rickettsia
+T48	ORG_VIVO 1162 1172	leishmania
+T49	ORG_VIVO 1327 1335	paciente
+T50	ORG_VIVO 1551 1570	Bordetella holmesii
+T51	ORG_VIVO 1613 1621	paciente
+T52	ENFERMEDAD 25 46	alergia a penicilinas
+T53	ENFERMEDAD 66 114	trombocitopenia secundaria a secuestro esplénico
+T54	ENFERMEDAD 151 164	shock séptico
+T55	ENFERMEDAD 169 193	disfunción multiorgánica
+T56	ENFERMEDAD 207 224	NAC por neumococo
+T57	ENFERMEDAD 724 750	adenopatías con orofaringe
+T58	ENFERMEDAD 1467 1483	infección vírica

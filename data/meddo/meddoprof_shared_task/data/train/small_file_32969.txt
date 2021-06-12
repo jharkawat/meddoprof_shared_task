@@ -1,0 +1,10 @@
+
+Nacido	O
+de	O
+un	O
+parto	O
+natural	O
+,	O
+sin	O
+complicaciones	O
+.	O

@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+negó	O
+criar	O
+mascotas	O
+,	O
+no	O
+tenía	O
+familiares	O
+enfermos	O
+y	O
+negaba	O
+contacto	O
+con	O
+pacientes	O
+con	O
+tuberculosis	O
+.	O

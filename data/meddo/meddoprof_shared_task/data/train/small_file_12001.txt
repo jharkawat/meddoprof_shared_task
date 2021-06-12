@@ -1,0 +1,8 @@
+
+No	O
+se	O
+observaron	O
+malformaciones	O
+ni	O
+amputaciones	O
+.	O

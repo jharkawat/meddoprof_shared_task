@@ -1,0 +1,19 @@
+
+Actualmente	O
+en	O
+tratamiento	O
+con	O
+Azacitidina	O
+y	O
+pauta	O
+descendente	O
+de	O
+corticoides	O
+,	O
+con	O
+buena	O
+respuesta	O
+clínica	O
+y	O
+analítica	O
+.	O

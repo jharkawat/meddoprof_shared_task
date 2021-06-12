@@ -1,0 +1,10 @@
+
+Su	O
+padre	O
+es	O
+mecánico	B-PROFESION
+y	O
+su	O
+madre	O
+dependienta	B-PROFESION
+.	O

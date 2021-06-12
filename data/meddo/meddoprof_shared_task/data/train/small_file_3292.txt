@@ -1,0 +1,21 @@
+
+*	O
+*	O
+TC	O
+cervical	O
+:	O
+engrosamiento	O
+asimétrico	O
+de	O
+densidad	O
+homogénea	O
+del	O
+ECM	O
+que	O
+resulta	O
+sugestivo	O
+de	O
+Inflamacion	O
+/	O
+infección	O
+.	O

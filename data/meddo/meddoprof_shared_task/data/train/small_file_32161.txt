@@ -1,0 +1,19 @@
+
+Verbaliza	O
+sensación	O
+de	O
+pérdida	O
+de	O
+control	O
+sobre	O
+su	O
+propio	O
+pensamiento	O
+y	O
+la	O
+posibilidad	O
+de	O
+fenómenos	O
+de	O
+inserción	O
+.	O

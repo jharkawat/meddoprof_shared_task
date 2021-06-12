@@ -1,0 +1,13 @@
+
+Ecocardiografía	O
+transtorácica	O
+:	O
+estudio	O
+normal	O
+,	O
+sin	O
+imágenes	O
+sugestivas	O
+de	O
+endocarditis	O
+.	O

@@ -1,0 +1,12 @@
+
+Hace	O
+una	O
+vida	O
+activa	O
+,	O
+acude	B-ACTIVIDAD
+al	I-ACTIVIDAD
+gimnasio	I-ACTIVIDAD
+con	O
+frecuencia	O
+.	O

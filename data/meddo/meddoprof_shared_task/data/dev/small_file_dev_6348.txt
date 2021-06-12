@@ -1,0 +1,21 @@
+
+Dado	O
+el	O
+cuadro	O
+clínico	O
+y	O
+el	O
+antecedente	O
+epidemiológico	O
+,	O
+se	O
+diagnosticó	O
+una	O
+enfermedad	O
+de	O
+Lyme	O
+en	O
+etapa	O
+diseminada	O
+temprana	O
+.	O

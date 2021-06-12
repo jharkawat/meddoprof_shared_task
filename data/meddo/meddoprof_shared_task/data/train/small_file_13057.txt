@@ -1,0 +1,23 @@
+
+También	O
+se	O
+solicitó	O
+la	O
+interconsulta	O
+a	O
+preanestesia	O
+para	O
+proceder	O
+a	O
+la	O
+exeresis	O
+tumoral	O
+y	O
+la	O
+aplicación	O
+a	O
+posteriori	O
+de	O
+iodo	O
+radiactivo	O
+.	O

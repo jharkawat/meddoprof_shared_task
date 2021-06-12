@@ -1,0 +1,26 @@
+
+Se	O
+solicita	O
+serología	O
+de	O
+VHDelta	O
+(	O
+AcVHD	O
+POSITIVA	O
+,	O
+PCR	O
+VHD	O
+:	O
+NEGATIVA	O
+)	O
+y	O
+gastroscopia	O
+,	O
+a	O
+la	O
+que	O
+se	O
+niega	O
+el	O
+paciente	O
+.	O

@@ -1,0 +1,14 @@
+
+A	O
+la	O
+exploración	O
+,	O
+presenta	O
+una	O
+tetraparesia	O
+flácida	O
+hiporrefléxica	O
+sin	O
+afectación	O
+sensitiva	O
+.	O

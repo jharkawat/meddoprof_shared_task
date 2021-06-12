@@ -1,0 +1,12 @@
+
+No	O
+se	O
+identifican	O
+ideas	O
+suicidas	O
+,	O
+de	O
+muerte	O
+o	O
+delirantes	O
+.	O

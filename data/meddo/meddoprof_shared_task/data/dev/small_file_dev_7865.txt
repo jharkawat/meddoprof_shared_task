@@ -1,0 +1,17 @@
+
+PCR	O
+1	O
+,	O
+5	O
+mg	O
+/	O
+dL	O
+,	O
+procalcitonina	O
+0	O
+,	O
+4	O
+ng	O
+/	O
+mL	O
+.	O

@@ -1,0 +1,11 @@
+
+Buena	O
+relación	O
+con	O
+los	O
+padres	O
+y	O
+con	O
+la	O
+hermana	O
+.	O

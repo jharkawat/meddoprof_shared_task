@@ -1,0 +1,27 @@
+
+La	O
+segunda	O
+biopsia	O
+evidenció	O
+una	O
+ampolla	O
+subepidérmica	O
+con	O
+material	O
+fibrinoide	O
+,	O
+linfocitos	O
+y	O
+eosinófilos	O
+,	O
+junto	O
+con	O
+exocitosis	O
+eosinofílica	O
+espongiforme	O
+en	O
+bordes	O
+de	O
+la	O
+ampolla	O
+.	O

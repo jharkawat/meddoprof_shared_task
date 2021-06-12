@@ -1,0 +1,6 @@
+
+No	O
+refiere	O
+ningún	O
+hobbie	O
+.	O

@@ -1,0 +1,22 @@
+
+No	O
+refería	O
+focalidad	O
+en	O
+la	O
+anamnesis	O
+por	O
+aparatos	O
+,	O
+de	O
+forma	O
+ambulatoria	O
+realizó	O
+tratamiento	O
+con	O
+amoxicilina	O
+–	O
+clavulánico	O
+unas	O
+semanas	O
+.	O

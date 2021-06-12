@@ -1,0 +1,20 @@
+
+No	O
+hay	O
+un	O
+deterioro	O
+cognitivo	O
+global	O
+(	O
+están	O
+preservados	O
+el	O
+lenguaje	O
+,	O
+las	O
+gnosias	O
+y	O
+las	O
+praxias	O
+)	O
+.	O

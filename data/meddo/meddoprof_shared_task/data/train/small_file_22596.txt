@@ -1,0 +1,26 @@
+
+Teniendo	O
+plena	O
+conciencia	O
+de	O
+lo	O
+sucedid	O
+,	O
+indicándole	O
+al	O
+evaluador	B-PROFESION
+que	O
+"	O
+se	O
+quedaba	O
+pegada	O
+y	O
+que	O
+no	O
+podía	O
+pasar	O
+al	O
+siguiente	O
+número	O
+"	O
+.	O

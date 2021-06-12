@@ -1,0 +1,22 @@
+
+La	O
+acumetría	O
+con	O
+512	O
+,	O
+1024	O
+y	O
+2048	O
+Hz	O
+presenta	O
+rinne	O
+positivo	O
+bilateral	O
+con	O
+weber	O
+derecho	O
+en	O
+todas	O
+las	O
+frecuencias	O
+.	O

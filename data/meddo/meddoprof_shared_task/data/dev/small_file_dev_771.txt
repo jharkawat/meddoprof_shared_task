@@ -1,0 +1,8 @@
+
+Predominio	O
+del	O
+polo	O
+hipertímico	O
+y	O
+disfórico	O
+.	O

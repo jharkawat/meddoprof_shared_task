@@ -1,0 +1,14 @@
+
+Además	O
+ha	O
+presentado	O
+episodios	O
+de	O
+vómitos	O
+y	O
+deposiciones	O
+líquidas	O
+sin	O
+productos	O
+patológicos	O
+.	O

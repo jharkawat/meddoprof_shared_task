@@ -1,0 +1,23 @@
+
+Había	O
+tenido	O
+un	O
+cáncer	O
+de	O
+mama	O
+,	O
+pero	O
+estaba	O
+en	O
+seguimiento	O
+por	O
+Oncología	O
+y	O
+en	O
+remisión	O
+completa	O
+desde	O
+hacía	O
+varios	O
+años	O
+.	O

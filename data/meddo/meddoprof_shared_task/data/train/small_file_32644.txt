@@ -1,0 +1,12 @@
+
+No	O
+ha	O
+sido	O
+necesario	O
+ajuste	O
+de	O
+dosis	O
+por	O
+el	O
+momento	O
+.	O

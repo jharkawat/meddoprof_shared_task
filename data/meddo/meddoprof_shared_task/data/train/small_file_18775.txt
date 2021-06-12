@@ -1,0 +1,9 @@
+
+Esto	O
+le	O
+hace	O
+sentir	O
+todavía	O
+más	O
+culpable	O
+.	O

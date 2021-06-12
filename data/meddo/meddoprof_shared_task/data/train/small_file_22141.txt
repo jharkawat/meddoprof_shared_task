@@ -1,0 +1,20 @@
+
+En	O
+uno	O
+de	O
+esos	O
+episodios	O
+,	O
+Pilar	O
+amenazó	O
+con	O
+tirarse	O
+por	O
+la	O
+ventana	O
+,	O
+lo	O
+que	O
+finalmente	O
+hizo	O
+.	O

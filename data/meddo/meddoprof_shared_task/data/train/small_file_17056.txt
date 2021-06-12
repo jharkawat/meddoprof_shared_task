@@ -1,0 +1,22 @@
+
+Precisó	O
+durante	O
+el	O
+ingreso	O
+paracetamol	O
+1	O
+g	O
+/	O
+8	O
+h	O
+por	O
+vía	O
+oral	O
+,	O
+con	O
+buen	O
+control	O
+de	O
+la	O
+cefalea	O
+.	O

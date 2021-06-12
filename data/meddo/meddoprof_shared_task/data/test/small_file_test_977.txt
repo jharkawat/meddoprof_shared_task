@@ -1,0 +1,16 @@
+
+Hija	O
+de	O
+un	O
+gallego	O
+que	O
+dejó	O
+a	O
+su	O
+madre	O
+estando	O
+embarazada	O
+de	O
+5	O
+meses	O
+.	O

@@ -1,0 +1,27 @@
+
+El	O
+paciente	O
+refiere	O
+haber	O
+empezado	O
+a	O
+utilizar	O
+juegos	O
+MMORPG	O
+hace	O
+tres	O
+años	O
+tras	O
+la	O
+recomendación	O
+de	O
+un	O
+compañero	B-SITUACION_LABORAL
+suyo	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+universidad	I-SITUACION_LABORAL
+cuando	O
+ambos	O
+cursaban	O
+Informática	O
+.	O

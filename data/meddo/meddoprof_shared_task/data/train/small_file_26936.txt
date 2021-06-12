@@ -1,0 +1,4 @@
+
+Embarazo	O
+deseado	O
+.	O

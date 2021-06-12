@@ -1,0 +1,15 @@
+
+Tumor	O
+neuroendocrino	O
+de	O
+probable	O
+origen	O
+gastroenteropancreático	O
+bien	O
+diferenciado	O
+con	O
+metástasis	O
+hepáticas	O
+y	O
+ganglionares	O
+.	O

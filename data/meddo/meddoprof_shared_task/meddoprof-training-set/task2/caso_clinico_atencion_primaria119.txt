@@ -1,0 +1,28 @@
+Motivo de consulta
+Mal estado general y dolor en fosa renal izquierda (FRI).
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Antecedentes personales: paciente sin RAM, ni FRCV (no HTA, no diabética, no dislipemica). No cardiópata ni broncópata. No hábitos tóxicos conocidos.
+Antecedentes médicos: litiasis renal, obesidad grado II (IMC 35,84), hipotiroidismo autoinmune, hernia de hiato, cataratas, condrocalcinosis en ambas rodillas, síndrome subacromial derecho y sospecha de síndrome de apnea del sueño.
+Tratamiento habitual: Eutirox y Omeprazol.
+
+Anamnesis, exploración y pruebas complementarias
+Mujer de 68 años que acudió a urgencias de centro de salud rural por dolor contínuo en fosa renal izquierda de una hora de evolución mientras practicaba senderismo. A la exploración física, auscultación cardiorespiratoria sin alteraciones, abdomen blando y depresible no doloroso a la palpación, con puñopercusión renal izquierda positiva. Fue diagnosticada de cólico nefrítico, tratada con Metamizol y dada de alta con observación domiciliaria.
+Tras no mejoría con analgesia simple, la paciente acude 8 horas más tarde a urgencias hospitalarias por dolor persistente en región lumbar izquierda con irradiación hacia hipogastrio y región genital. Puñopercusion renal izquierda negativa. Presentó un vómito de contenido alimentario y estaba afebril.
+Se realizó radiografía de abdomen apreciándose heces y gases intestinales en marco cólico, sin imágenes de densidad calcio a nivel renoureteral.
+En analítica de sangre destacó leucocitosis con desviación a la izquierda, fibrinógeno 568 mg/dl, glucosa 138 mg/dl, filtrado glomerular de 49 con creatinina de 1,17 mg/dl y PCR 4,48 mg/L.
+En el sistemático de orina aparecieron 75 leucocitos, nitritos negativo y ningún hematíe. Durante su estancia en urgencias recibió tratamiento intravenoso con analgesicos, antiinflamatorios y antiespasmolíticos. Tras mejoría parcial de la sintomatología, fue dada de alta con recomendaciones de tratamiento en domicilio con Paracetamol, Tramadol a dosis altas de inicio (75 mg), Dexketoprofeno y seguimiento por su médico de atención primaria. Transcurridas 48 horas desde la primera consulta médica, la paciente es llevada por su esposo y hermana a su centro de salud habitual, por encontrarla muy decaída, somnolienta y con sudoración fría desde hace 12 horas. Su médico de Atención Primaria observó el mal estado general, apariencia de presentar enfermedad grave en estado de shock con tendencia al sueño, dificultad en el habla, palidez y frialdad piel. Al tomar las constantes encontramos hipotensión arterial (70/40 mmHg), frecuencia cardiaca en 90 lpm, glucemia de 24, saturación de oxígeno de 86% y estaba afebril.
+
+Enfoque familiar y comunitario
+Situación basal: independiente para actividades básicas de vida diaria. Es ama de casa. Vive con su esposo. Buen apoyo familiar y adecuadas relaciones sociales.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Diagnóstico diferencial: shock, cólico renoureteral, RAM a Tramadol.
+En este momento se establece el juicio clínico de shock, en espera de realizar más pruebas complementarias que orienten el origen del mismo.
+
+Plan de acción y evolución
+Se administró glucagón intramuscular y se procedió a toma de vía venosa periférica para aplicación de suero glucosado al 5%. Al cabo de cinco minutos, no se observó mejoría clínica manteniéndose signos de shock, hipotensión, y mejoró glucemia a 76 mg/dl. Ante la situación grave en la que se encontraba la paciente, se dio aviso al DCCU. Tras ser valorada in situ en el centro de salud, se decidió traslado urgente al hospital comarcal de referencia más cercano.
+A su llegada a urgencias hospitalarias, persistía tendencia al sueño y disnea. En nuevo control analítico, persistía leucocitosis con neutrofilia, elevación de PCR (352,5) y de creatinina (3.87). Tras ser revalorada, se comprobó valores de glucemia (117 mg/dl) y oligoanuria.
+Fue ingresada en unidad de cuidados intensivos (UCI), realizándose sondaje vesical para recogida de muestra y control de diuresis; y TAC de abdomen y pelvis (figura 1). En la prueba de imagen se describía dilatación uretero pielo calicial del sistema excretor de riñón izquierdo secundario a obstrucción completa por litiasis de 6 mm x 5 mm en uréter distal. Ante estos hallazgos se colocó un catéter doble J, para evacuar el contenido líquido purulento que se encontraba acumulado en dicha localización.
+
+Durante su ingreso en UCI, la paciente presentó fiebre y edemas generalizados. Se aisló en sangre bacilo gram negativo (Klebsiella pneumoniae). Se halló derrame pleural bilateral y consolidación pulmonar derecha en radiografía de tórax (figura 2). Tras empeoramiento respiratorio precisó de ayuda con ventilación mecánica, aplicación de amplia cobertura antibiótica, sedación y analgesia. Al no existir adecuada adaptación a dispositivo de ayuda ventilatoria, se realizó traqueotomía. Al cabo de 8 días de ingreso, presentó mala perfusión distal con evolución posterior a isquemia y necrosis de dedos de manos y pies con polineuropatía. Así mismo se aislaron levaduras coincidiendo con la situación de empeoramiento respiratorio.

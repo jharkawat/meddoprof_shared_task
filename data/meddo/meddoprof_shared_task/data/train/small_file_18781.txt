@@ -1,0 +1,12 @@
+
+Sensación	O
+de	O
+cansancio	O
+y	O
+desmotivación	O
+con	O
+las	O
+tareas	O
+de	O
+casa	O
+.	O

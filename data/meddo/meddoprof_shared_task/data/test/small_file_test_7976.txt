@@ -1,0 +1,17 @@
+
+El	O
+abdomen	O
+es	O
+blando	O
+y	O
+depresible	O
+sin	O
+dolor	O
+,	O
+con	O
+cicatrices	O
+postquirúrgicas	O
+presentando	O
+buen	O
+aspecto	O
+.	O

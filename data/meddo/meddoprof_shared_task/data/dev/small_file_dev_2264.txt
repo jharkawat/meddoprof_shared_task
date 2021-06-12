@@ -1,0 +1,23 @@
+
+Múltiples	O
+alergias	O
+diagnosticadas	O
+tras	O
+sufrir	O
+reacciones	O
+alérgicas	O
+de	O
+distinta	O
+consideración	O
+(	O
+flutox	O
+,	O
+zirtec	O
+,	O
+bisolvón	O
+,	O
+mentol	O
+y	O
+látex	O
+)	O
+.	O

@@ -1,0 +1,10 @@
+
+No	O
+presenta	O
+clínica	O
+respiratoria	O
+,	O
+digestiva	O
+o	O
+genitourinaria	O
+.	O

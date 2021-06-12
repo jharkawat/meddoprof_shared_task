@@ -1,0 +1,27 @@
+
+–	O
+Osteotomía	O
+femoral	O
+percutánea	O
+:	O
+Una	O
+vez	O
+colocados	O
+las	O
+cuatro	O
+fichas	O
+se	O
+realiza	O
+una	O
+incisión	O
+en	O
+el	O
+tercio	O
+proximal	O
+de	O
+la	O
+cara	O
+externa	O
+del	O
+fémur	O
+.	O

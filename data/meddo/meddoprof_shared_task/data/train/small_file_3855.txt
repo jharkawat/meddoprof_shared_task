@@ -1,0 +1,11 @@
+
+En	O
+Oncología	O
+se	O
+indica	O
+Quimioterapia	O
+y	O
+Radioterapia	O
+antiálgica	O
+torácica	O
+.	O

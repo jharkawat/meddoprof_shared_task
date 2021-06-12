@@ -1,0 +1,7 @@
+
+PCR	O
+VHS	O
+-	O
+1	O
+positivo	O
+.	O

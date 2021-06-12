@@ -1,0 +1,12 @@
+
+Abdomen	O
+blando	O
+,	O
+no	O
+doloroso	O
+,	O
+no	O
+masas	O
+ni	O
+megalias	O
+.	O

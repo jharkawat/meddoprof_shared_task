@@ -1,0 +1,38 @@
+T1	SINTOMA 370 437	grietas dolorosas localizadas en pulpejos de los dedos de las manos
+T2	SINTOMA 638 649	descamación
+T3	SINTOMA 652 742	fisuración en pulpejos de los primeros tres dedos de mano derecha y de primer dedo de mano
+T4	PROCEDIMIENTO 462 481	corticoides tópicos
+T5	PROCEDIMIENTO 901 920	pruebas epicutáneas
+T6	PROCEDIMIENTO 1067 1086	pruebas epicutáneas
+T7	PROCEDIMIENTO 1301 1317	butilmetacrilato
+T8	PROCEDIMIENTO 1326 1348	hidroxietilmetacrilato
+T9	PROCEDIMIENTO 1356 1380	hidroxipropilmetacrilato
+T10	PROCEDIMIENTO 1388 1413	etilenglicoldimetacrilato
+T11	PROCEDIMIENTO 1421 1449	trietilenglicoldimetacrilato
+T12	PROCEDIMIENTO 1460 1483	butanedioldimetacrilato
+T13	PROCEDIMIENTO 1490 1510	uretanodimetacrilato
+T14	PROCEDIMIENTO 1563 1592	tetrahidrofulfurilmetacrilato
+T15	PROCEDIMIENTO 1599 1630	tetraetileneglicoldimetacrilato
+T16	NEG 17 20	sin
+T17	NSCO 21 68	antecedentes personales ni familiares de atopia
+T18	NEG 513 522	suspender
+T19	NSCO 523 536	su aplicación
+T20	UNC 762 773	sospecha de
+T21	USCO 774 831	una posible dermatitis alérgica de contacto por acrilatos
+T22	UNC 2460 2467	posible
+T23	USCO 2468 2510	gracias los guantes 4H o de tela alumínica
+T24	FARMACO 1388 1413	etilenglicoldimetacrilato
+T25	FARMACO 1636 1657	butanediol diacrilato
+T26	FARMACO 1664 1690	trietilenglicol diacrilato
+T27	ORG_VIVO 0 5	Mujer
+T28	ORG_VIVO 34 44	personales
+T29	ORG_VIVO 48 58	familiares
+T30	ORG_VIVO 566 573	algodón
+T31	ORG_VIVO 868 876	paciente
+T32	ORG_VIVO 1738 1746	paciente
+T33	ORG_VIVO 2262 2270	paciente
+T34	ENFERMEDAD 62 68	atopia
+T35	ENFERMEDAD 323 424	lesiones eritematodescamativas con erosiones y grietas dolorosas localizadas en pulpejos de los dedos
+T36	ENFERMEDAD 786 831	dermatitis alérgica de contacto por acrilatos
+T37	ENFERMEDAD 2291 2352	pulpitis alérgica de contacto por sensibilización a acrilatos
+T38	PACIENTE-PROFESION 70 81	esteticista

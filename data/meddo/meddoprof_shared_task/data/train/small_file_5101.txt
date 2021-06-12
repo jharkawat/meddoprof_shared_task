@@ -1,0 +1,7 @@
+
+Ecografía	O
+abdominal	O
+:	O
+Sin	O
+hallazgos	O
+.	O

@@ -1,0 +1,7 @@
+
+Fuerza	O
+global	O
+y	O
+segmentaria	O
+conservada	O
+.	O

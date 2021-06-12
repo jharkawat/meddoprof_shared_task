@@ -1,0 +1,13 @@
+
+Enseña	O
+unas	O
+supuestas	O
+marcas	O
+en	O
+las	O
+manos	O
+que	O
+apoyan	O
+está	O
+creencia	O
+.	O

@@ -1,0 +1,11 @@
+
+Leucopenia	O
+G1	O
+en	O
+relación	O
+a	O
+déficit	O
+de	O
+vitamina	O
+B12	O
+.	O

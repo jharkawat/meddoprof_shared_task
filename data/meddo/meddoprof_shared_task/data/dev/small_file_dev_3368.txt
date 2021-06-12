@@ -1,0 +1,11 @@
+
+No	O
+presenta	O
+alteraciones	O
+del	O
+sueño	O
+ni	O
+de	O
+su	O
+alimentación	O
+.	O

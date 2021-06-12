@@ -1,0 +1,6 @@
+
+Alergia	O
+Medicamentos	O
+:	O
+no	O
+refiere	O

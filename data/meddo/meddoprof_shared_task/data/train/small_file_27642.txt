@@ -1,0 +1,25 @@
+
+Actualmente	O
+,	O
+ya	O
+con	O
+16	O
+años	O
+,	O
+ha	O
+acabado	O
+la	O
+ESO	O
+con	O
+calificaciones	O
+aceptables	O
+y	O
+está	O
+en	O
+planes	O
+para	O
+matricularse	O
+de	O
+grado	O
+medio	O
+.	O

@@ -1,0 +1,20 @@
+
+Su	O
+principal	O
+cuidadora	B-SITUACION_LABORAL
+es	O
+su	O
+hija	O
+,	O
+aunque	O
+recibe	O
+ayuda	O
+de	O
+una	O
+cuidadora	B-PROFESION
+remunerada	O
+algunas	O
+horas	O
+del	O
+día	O
+.	O

@@ -1,0 +1,4 @@
+
+Juicio	O
+Clínico	O
+:	O

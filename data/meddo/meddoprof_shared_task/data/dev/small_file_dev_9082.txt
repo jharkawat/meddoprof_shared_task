@@ -1,0 +1,24 @@
+
+El	O
+no	O
+haber	O
+realizado	O
+viajes	O
+al	O
+extranjero	O
+hace	O
+poco	O
+probable	O
+la	O
+infección	O
+por	O
+trematodos	O
+hepáticos	O
+como	O
+Clonorquiasis	O
+,	O
+Fasciola	O
+hepática	O
+y	O
+Opistorquiasis	O
+.	O

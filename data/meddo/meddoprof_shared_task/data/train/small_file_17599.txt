@@ -1,0 +1,7 @@
+
+Restos	O
+de	O
+pares	O
+craneales	O
+normales	O
+.	O

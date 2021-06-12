@@ -1,0 +1,19 @@
+
+En	O
+mediastino	O
+y	O
+espacio	O
+prevascular	O
+se	O
+observan	O
+imágenes	O
+ganglionares	O
+en	O
+rango	O
+no	O
+adenopático	O
+,	O
+de	O
+aspecto	O
+reactivo	O
+.	O

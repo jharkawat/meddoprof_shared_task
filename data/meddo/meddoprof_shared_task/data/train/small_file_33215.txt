@@ -1,0 +1,7 @@
+
+El	O
+electrocardiograma	O
+no	O
+muestra	O
+alteraciones	O
+.	O

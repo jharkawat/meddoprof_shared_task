@@ -1,0 +1,15 @@
+
+El	O
+paciente	O
+ingresa	O
+en	O
+planta	O
+de	O
+Neurología	O
+con	O
+sospecha	O
+inicial	O
+de	O
+ACV	O
+agudo	O
+.	O

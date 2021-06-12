@@ -1,0 +1,11 @@
+
+No	O
+hay	O
+nada	O
+que	O
+reseñar	O
+entre	O
+los	O
+antecedentes	O
+familiares	O
+.	O

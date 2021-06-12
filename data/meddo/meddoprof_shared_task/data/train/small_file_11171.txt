@@ -1,0 +1,15 @@
+
+A	O
+la	O
+inspección	O
+a	O
+destaca	O
+un	O
+desarrollo	O
+del	O
+hemicuerpo	O
+superior	O
+respecto	O
+del	O
+inferior	O
+.	O

@@ -1,0 +1,17 @@
+
+Poco	O
+a	O
+poco	O
+se	O
+ha	O
+ido	O
+aislando	O
+de	O
+sus	O
+amistades	O
+y	O
+del	O
+resto	O
+de	O
+la	O
+familia	O

@@ -1,0 +1,16 @@
+
+Cefalea	O
+secundaria	O
+a	O
+bajo	O
+volumen	O
+de	O
+LCR	O
+,	O
+secundario	O
+a	O
+múltiples	O
+fístulas	O
+de	O
+LCR	O
+.	O

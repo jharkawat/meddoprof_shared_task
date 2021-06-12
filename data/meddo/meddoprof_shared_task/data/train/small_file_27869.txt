@@ -1,0 +1,12 @@
+
+Los	O
+padres	O
+refieren	O
+que	O
+"	O
+vuelve	O
+a	O
+ser	O
+él	O
+"	O
+.	O

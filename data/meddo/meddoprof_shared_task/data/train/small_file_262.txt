@@ -1,0 +1,19 @@
+
+Su	O
+única	O
+medicación	O
+era	O
+alopurinol	O
+100	O
+mg	O
+al	O
+día	O
+por	O
+vía	O
+oral	O
+como	O
+prevención	O
+de	O
+la	O
+gota	O
+.	O

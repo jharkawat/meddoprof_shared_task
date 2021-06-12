@@ -1,0 +1,23 @@
+
+En	O
+octubre	O
+del	O
+2011	O
+es	O
+diagnosticada	O
+de	O
+un	O
+carcinoma	O
+papilar	O
+de	O
+riñón	O
+izquierdo	O
+(	O
+pT3N1M0	O
+)	O
+tratada	O
+quirúrgicamente	O
+mediante	O
+nefrectomía	O
+radical	O
+.	O

@@ -1,0 +1,24 @@
+
+Autoinmunidad	O
+:	O
+anticuerpos	O
+antineuronales	O
+,	O
+antigangliósidos	O
+,	O
+ENA	O
+,	O
+ANA	O
+,	O
+ANCA	O
+,	O
+crioglobulinas	O
+,	O
+negativos	O
+;	O
+factor	O
+reumatoide	O
+e	O
+inmunoglobulinas	O
+normales	O
+.	O

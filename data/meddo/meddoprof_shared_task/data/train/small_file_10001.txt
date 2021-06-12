@@ -1,0 +1,9 @@
+
+Los	O
+días	O
+previos	O
+había	O
+presentado	O
+síntomas	O
+catarrales	O
+.	O

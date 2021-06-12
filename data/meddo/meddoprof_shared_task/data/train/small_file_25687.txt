@@ -1,0 +1,14 @@
+
+Síndrome	O
+de	O
+Ekbom	O
+o	O
+delirio	O
+de	O
+parasitosis	O
+es	O
+una	O
+psicosis	O
+poco	O
+común	O
+.	O

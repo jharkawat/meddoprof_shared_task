@@ -1,0 +1,16 @@
+
+Paraparesia	O
+con	O
+balance	O
+3	O
+/	O
+5	O
+en	O
+MII	O
+y	O
+4	O
+/	O
+5	O
+en	O
+MID	O
+.	O

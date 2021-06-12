@@ -1,0 +1,10 @@
+
+La	O
+aglutinación	O
+del	O
+antígeno	O
+del	O
+criptococo	O
+es	O
+negativa	O
+.	O

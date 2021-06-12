@@ -1,0 +1,14 @@
+
+Todos	O
+eran	O
+negativos	O
+para	O
+CD61	O
+,	O
+CD56	O
+,	O
+antígenos	O
+B	O
+y	O
+T	O
+.	O

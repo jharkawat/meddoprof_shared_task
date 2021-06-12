@@ -1,0 +1,10 @@
+
+No	O
+se	O
+pude	O
+descartar	O
+enfermedad	O
+hepática	O
+venooclusiva	O
+periférica	O
+.	O

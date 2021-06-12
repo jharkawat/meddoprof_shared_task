@@ -1,0 +1,6 @@
+
+Exploración	O
+neurológica	O
+sin	O
+hallazgos	O
+.	O

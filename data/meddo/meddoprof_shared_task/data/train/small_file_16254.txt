@@ -1,0 +1,20 @@
+
+Se	O
+repitió	O
+el	O
+estudio	O
+de	O
+líquido	O
+cefalorraquídeo	O
+y	O
+se	O
+solicitó	O
+una	O
+RM	O
+cerebral	O
+ante	O
+la	O
+sospecha	O
+de	O
+meningoencefalitis	O
+.	O

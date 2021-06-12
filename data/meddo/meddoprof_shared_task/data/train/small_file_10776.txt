@@ -1,0 +1,24 @@
+
+Se	O
+realizaron	O
+determinaciones	O
+analíticas	O
+y	O
+una	O
+ecografía	O
+abdominal	O
+(	O
+12	O
+/	O
+05	O
+/	O
+2016	O
+)	O
+,	O
+que	O
+reveló	O
+moderada	O
+esteatosis	O
+hepática	O
+difusa	O
+.	O

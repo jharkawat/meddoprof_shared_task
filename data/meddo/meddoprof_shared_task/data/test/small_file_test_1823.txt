@@ -1,0 +1,21 @@
+
+Lesiones	O
+líticas	O
+en	O
+tercer	O
+y	O
+sexto	O
+arcos	O
+costales	O
+derechos	O
+,	O
+sugestivas	O
+de	O
+metástasis	O
+,	O
+no	O
+presentes	O
+en	O
+estudio	O
+previo	O
+.	O

@@ -1,0 +1,11 @@
+
+Histerectomía	O
+con	O
+doble	O
+anexectomía	O
+por	O
+motivo	O
+que	O
+no	O
+recuerda	O
+.	O

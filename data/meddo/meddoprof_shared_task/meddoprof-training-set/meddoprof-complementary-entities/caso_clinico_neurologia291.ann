@@ -1,0 +1,152 @@
+T1	SINTOMA 208 233	alteración de la conducta
+T2	SINTOMA 236 243	cefalea
+T3	SINTOMA 387 406	cefalea holocraneal
+T4	SINTOMA 408 416	opresiva
+T5	SINTOMA 610 623	fotofonofobia
+T6	SINTOMA 630 637	náuseas
+T7	SINTOMA 648 654	vómito
+T8	SINTOMA 721 728	cefalea
+T9	SINTOMA 1320 1326	apatía
+T10	SINTOMA 1337 1360	lentitud de pensamiento
+T11	SINTOMA 1503 1517	mirada perdida
+T12	SINTOMA 1587 1593	fiebre
+T13	SINTOMA 1733 1746	fallecimiento
+T14	SINTOMA 2010 2018	Eupneica
+T15	SINTOMA 2025 2044	palidez mucocutánea
+T16	SINTOMA 2049 2060	diaforética
+T17	SINTOMA 2169 2180	somnolienta
+T18	SINTOMA 2181 2191	obnubilada
+T19	SINTOMA 2440 2447	mutista
+T20	SINTOMA 3045 3050	dolor
+T21	SINTOMA 3463 3473	meningismo
+T22	SINTOMA 4088 4126	hipodensidad relativa de ambos tálamos
+T23	SINTOMA 4307 4388	aumento de volumen de ambos tálamos, caudados y brazo posterior de ambas cápsulas
+T24	SINTOMA 4419 4487	restricción de la difusión en la región posterior de ambos putámenes
+T25	SINTOMA 5931 5956	alteración de la conducta
+T26	SINTOMA 6225 6232	cefalea
+T27	SINTOMA 6234 6241	vómitos
+T28	SINTOMA 6243 6254	somnolencia
+T29	SINTOMA 6257 6272	edema de papila
+T30	SINTOMA 6299 6317	inhibición frontal
+T31	SINTOMA 6329 6346	mutismo acinético
+T32	SINTOMA 6414 6420	fiebre
+T33	SINTOMA 6453 6471	consumo de tóxicos
+T34	SINTOMA 7194 7206	hemodinámica
+T35	SINTOMA 7209 7233	neurológicamente estable
+T36	SINTOMA 7528 7540	bradipsiquia
+T37	PROCEDIMIENTO 1894 1912	Exploración física
+T38	PROCEDIMIENTO 2062 2088	Exploración cardiopulmonar
+T39	PROCEDIMIENTO 2913 2925	Fondo de ojo
+T40	PROCEDIMIENTO 3850 3868	Electrocardiograma
+T41	PROCEDIMIENTO 3914 3934	Radiografía de tórax
+T42	PROCEDIMIENTO 3946 4005	Tomografía computarizada (TC) craneal basal y con contraste
+T43	PROCEDIMIENTO 4169 4195	Angiorresonancia magnética
+T44	PROCEDIMIENTO 4204 4206	RM
+T45	PROCEDIMIENTO 4210 4258	resonancia magnética (RM) cerebral con contraste
+T46	PROCEDIMIENTO 4502 4528	angio-resonancia magnética
+T47	PROCEDIMIENTO 4825 4845	resonancia magnética
+T48	PROCEDIMIENTO 5657 5678	Estudio de hemostasia
+T49	PROCEDIMIENTO 6152 6161	anamnesis
+T50	PROCEDIMIENTO 6820 6830	TC craneal
+T51	PROCEDIMIENTO 6932 6983	tratamiento anticoagulante con heparina intravenosa
+T52	NEG 45 48	sin
+T53	NSCO 49 83	antecedentes personales de interés
+T54	NEG 85 87	no
+T55	NSCO 88 119	consumidora de alcohol o tabaco
+T56	NEG 590 592	No
+T57	NSCO 593 623	presentaba clara fotofonofobia
+T58	NEG 887 890	sin
+T59	NSCO 891 950	mostrar interés por ningún tipo de actividad o conversación
+T60	NEG 1519 1522	sin
+T61	NSCO 1523 1544	desconexión del medio
+T62	NEG 1812 1814	no
+T63	NSCO 1815 1847	se realizó el estudio etiológico
+T64	NEG 2046 2048	no
+T65	NSCO 2049 2060	diaforética
+T66	NEG 2129 2132	sin
+T67	NSCO 2133 2154	hallazgos patológicos
+T68	NEG 2324 2326	no
+T69	NSCO 2327 2363	hacía un seguimiento ocular adecuado
+T70	NEG 2365 2367	No
+T71	NSCO 2368 2432	obedecía órdenes sencillas ni complejas (axiales o apendiculares
+T72	NEG 2449 2451	no
+T73	NSCO 2452 2478	emitía lenguaje espontáneo
+T74	NEG 2639 2641	No
+T75	NSCO 2642 2649	repetía
+T76	NEG 2651 2653	No
+T77	NSCO 2654 2691	impresionaba de desconexión del medio
+T78	NEG 2693 2695	No
+T79	NSCO 2696 2718	actitud heminegligente
+T80	UNC 2811 2817	dudoso
+T81	NEG 2993 2996	sin
+T82	NSCO 2997 3009	limitaciones
+T83	NEG 3052 3054	No
+T84	NSCO 3055 3080	afectación de pares bajos
+T85	NEG 3199 3207	retirada
+T86	NSCO 3208 3249	en los cuatro miembros de forma simétrica
+T87	UNC 3443 3449	dudoso
+T88	NEG 3451 3453	No
+T89	NSCO 3454 3473	datos de meningismo
+T90	NEG 3894 3897	sin
+T91	NSCO 3898 3910	alteraciones
+T92	NEG 4541 4552	ausencia de
+T93	NSCO 4553 4591	flujo en las venas cerebrales internas
+T94	NEG 4636 4639	sin
+T95	NSCO 4640 4692	apreciarse defectos en el sistema venoso superficial
+T96	NEG 5060 5071	ausencia de
+T97	NSCO 5072 5077	flujo
+T98	NEG 5819 5827	negativo
+T99	NEG 5958 5961	sin
+T100	NSCO 5962 5980	datos de infección
+T101	NEG 6031 6033	no
+T102	NSCO 6034 6074	tener antecedentes psiquiátricos previos
+T103	UNC 6362 6370	posibles
+T104	USCO 6371 6392	etiologías era amplio
+T105	NEG 6402 6413	ausencia de
+T106	NSCO 6414 6420	fiebre
+T107	UNC 6534 6542	probable
+T108	USCO 6543 6639	las posibilidades de infección, intoxicación, trastorno conversivo o infarto/hemorragia cerebral
+T109	NEG 6708 6719	se sospechó
+T110	NSCO 6720 6786	como causa más plausible una posible trombosis de senos cerebrales
+T111	FARMACO 6963 6971	heparina
+T112	ORG_VIVO 10 24	Paciente mujer
+T113	ORG_VIVO 62 72	personales
+T114	ORG_VIVO 113 119	tabaco
+T115	ORG_VIVO 171 181	familiares
+T116	ORG_VIVO 313 323	familiares
+T117	ORG_VIVO 328 336	paciente
+T118	ORG_VIVO 561 569	paciente
+T119	ORG_VIVO 759 766	familia
+T120	ORG_VIVO 817 825	paciente
+T121	ORG_VIVO 1168 1178	familiares
+T122	ORG_VIVO 1409 1414	madre
+T123	ORG_VIVO 1421 1429	paciente
+T124	ORG_VIVO 1659 1667	paciente
+T125	ORG_VIVO 1754 1761	hermana
+T126	ORG_VIVO 1865 1876	dependienta
+T127	ORG_VIVO 5914 5922	paciente
+T128	ORG_VIVO 6664 6674	familiares
+T129	ORG_VIVO 7174 7182	paciente
+T130	ORG_VIVO 7297 7305	paciente
+T131	ORG_VIVO 7593 7603	familiares
+T132	ORG_VIVO 7643 7650	hermana
+T133	ENFERMEDAD 1595 1606	infecciones
+T134	ENFERMEDAD 1779 1803	tromboembolismo pulmonar
+T135	ENFERMEDAD 4020 4052	hiperdensidad en la hoz cerebral
+T136	ENFERMEDAD 4141 4165	trombosis del seno recto
+T137	ENFERMEDAD 4937 4951	infarto venoso
+T138	ENFERMEDAD 5080 5117	trombo intravascular en el seno recto
+T139	ENFERMEDAD 5308 5347	trombosis de dichas estructuras venosas
+T140	ENFERMEDAD 5456 5485	múltiples colaterales venosas
+T141	ENFERMEDAD 5512 5543	infarto venoso de ambos tálamos
+T142	ENFERMEDAD 5608 5653	trombosis venosa del sistema profundo central
+T143	ENFERMEDAD 5723 5767	mutaciones G20210A del gen de la protrombina
+T144	ENFERMEDAD 5971 5980	infección
+T145	ENFERMEDAD 6198 6223	hipertensión intracraneal
+T146	ENFERMEDAD 6564 6573	infección
+T147	ENFERMEDAD 6575 6587	intoxicación
+T148	ENFERMEDAD 6589 6609	trastorno conversivo
+T149	ENFERMEDAD 6612 6639	infarto/hemorragia cerebral
+T150	ENFERMEDAD 6757 6786	trombosis de senos cerebrales
+T151	ENFERMEDAD 6883 6920	trombosis del sistema profundo venoso
+T152	PACIENTE-PROFESION 1865 1891	dependienta en un comercio

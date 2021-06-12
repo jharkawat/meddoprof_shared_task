@@ -1,0 +1,8 @@
+
+Mujer	O
+de	O
+50	O
+años	O
+,	O
+profesora	B-PROFESION
+.	O

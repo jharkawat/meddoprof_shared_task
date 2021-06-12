@@ -1,0 +1,10 @@
+
+Estado	O
+general	O
+:	O
+índice	O
+de	O
+Karnofsky	O
+80	O
+%	O
+.	O

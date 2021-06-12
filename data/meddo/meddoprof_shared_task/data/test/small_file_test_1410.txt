@@ -1,0 +1,14 @@
+
+Se	O
+estableció	O
+un	O
+diagnóstico	O
+de	O
+periodontitis	O
+crónica	O
+generalizada	O
+moderadasevera	O
+según	O
+la	O
+localización	O
+.	O

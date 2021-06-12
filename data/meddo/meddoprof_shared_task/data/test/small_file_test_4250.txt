@@ -1,0 +1,26 @@
+
+A	O
+nivel	O
+dorsal	O
+medio	O
+,	O
+imagen	O
+de	O
+relieve	O
+posterior	O
+que	O
+impronta	O
+de	O
+forma	O
+suave	O
+en	O
+el	O
+espacio	O
+subaracnoideo	O
+premedular	O
+sin	O
+signos	O
+de	O
+afectación	O
+medular	O
+.	O

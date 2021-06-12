@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Cristina	O
+Sangrador	O
+Pelluz	O
+NºCol	O
+:	O
+28	O
+28	O
+49712	O
+.	O

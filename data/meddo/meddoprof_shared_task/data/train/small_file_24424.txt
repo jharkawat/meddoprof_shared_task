@@ -1,0 +1,24 @@
+
+El	O
+diagnóstico	O
+:	O
+'	O
+Trastorno	O
+Esquizoafectivo	O
+mixto	O
+,	O
+con	O
+síntomas	O
+psicóticos	O
+congruentes	O
+y	O
+no	O
+congruentes	O
+"	O
+;	O
+"	O
+Abuso	O
+de	O
+alcohol	O
+"	O
+.	O

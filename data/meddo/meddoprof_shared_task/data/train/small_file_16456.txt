@@ -1,0 +1,7 @@
+
+Arterias	O
+temporales	O
+superficiales	O
+sin	O
+alteraciones	O
+.	O

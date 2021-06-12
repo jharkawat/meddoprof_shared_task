@@ -1,0 +1,10 @@
+
+Llega	O
+a	O
+tener	O
+hasta	O
+unas	O
+20	O
+voces	O
+diferentes	O
+.	O

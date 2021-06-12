@@ -1,0 +1,27 @@
+
+Al	O
+ingreso	O
+,	O
+dada	O
+la	O
+estabilidad	O
+clínica	O
+y	O
+hemodinámica	O
+del	O
+paciente	O
+,	O
+se	O
+decide	O
+extraer	O
+hemocultivos	O
+seriados	O
+y	O
+esperar	O
+resultados	O
+para	O
+inicio	O
+de	O
+tratamiento	O
+antibiótico	O
+.	O

@@ -1,0 +1,18 @@
+
+En	O
+2012	O
+,	O
+oligoartritis	O
+en	O
+los	O
+dedos	O
+de	O
+la	O
+mano	O
+izquierda	O
+que	O
+fue	O
+valorada	O
+por	O
+Reumatología	O
+.	O

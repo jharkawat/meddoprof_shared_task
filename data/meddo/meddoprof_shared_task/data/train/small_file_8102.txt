@@ -1,0 +1,19 @@
+
+Un	O
+día	O
+después	O
+se	O
+agregó	O
+somnolencia	O
+,	O
+que	O
+evolucionó	O
+al	O
+deterioro	O
+neurológico	O
+,	O
+así	O
+como	O
+respiración	O
+estertorosa	O
+.	O

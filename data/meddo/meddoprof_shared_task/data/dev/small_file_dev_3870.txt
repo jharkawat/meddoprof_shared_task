@@ -1,0 +1,7 @@
+
+-	O
+Ausencia	O
+de	O
+enfermedad	O
+médica	O
+.	O

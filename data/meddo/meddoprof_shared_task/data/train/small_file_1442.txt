@@ -1,0 +1,7 @@
+
+Localidad	O
+/	O
+Provincia	O
+:	O
+Vitoria	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+interviene	O
+hallando	O
+colecistitis	O
+gangrenosa	O
+y	O
+se	O
+realiza	O
+colecistectomía	O
+,	O
+con	O
+postoperatorio	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

@@ -1,0 +1,24 @@
+
+Francisco	O
+Yagüe	O
+,	O
+un	O
+ejecutivo	B-PROFESION
+de	O
+40	O
+años	O
+de	O
+edad	O
+,	O
+acude	O
+a	O
+la	O
+consulta	O
+de	O
+un	O
+psiquiatra	B-PROFESION
+llevado	O
+por	O
+su	O
+esposa	O
+.	O

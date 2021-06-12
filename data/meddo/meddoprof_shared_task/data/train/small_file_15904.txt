@@ -1,0 +1,12 @@
+
+Estas	O
+lesiones	O
+no	O
+presentan	O
+captación	O
+tras	O
+la	O
+administración	O
+de	O
+contraste	O
+.	O

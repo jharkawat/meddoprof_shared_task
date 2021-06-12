@@ -1,0 +1,7 @@
+
+VCI	O
+con	O
+colapso	O
+inspiratorio	O
+adecuado	O
+.	O

@@ -1,0 +1,12 @@
+
+Luego	O
+le	O
+pedí	O
+perdón	O
+y	O
+me	O
+sentí	O
+fatal	O
+.	O
+.	O
+.	O

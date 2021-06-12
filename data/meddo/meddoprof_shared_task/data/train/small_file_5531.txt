@@ -1,0 +1,21 @@
+
+Cuando	O
+acudimos	O
+a	O
+visitarlo	O
+,	O
+además	O
+de	O
+presentar	O
+dolor	O
+,	O
+también	O
+lo	O
+vimos	O
+muy	O
+desconcertado	O
+,	O
+inquieto	O
+y	O
+depresivo	O
+.	O

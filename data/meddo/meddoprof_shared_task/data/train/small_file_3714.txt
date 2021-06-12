@@ -1,0 +1,19 @@
+
+Toda	O
+la	O
+familia	O
+es	O
+conocedora	O
+de	O
+la	O
+situación	O
+y	O
+hay	O
+un	O
+gran	O
+apoyo	O
+familiar	O
+hacia	O
+el	O
+paciente	O
+.	O

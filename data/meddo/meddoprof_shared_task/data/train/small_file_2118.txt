@@ -1,0 +1,6 @@
+
+Escuela	O
+Militar	O
+de	O
+Sanidad	O
+.	O

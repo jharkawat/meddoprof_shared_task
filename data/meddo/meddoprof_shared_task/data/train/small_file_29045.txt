@@ -1,0 +1,12 @@
+
+Padece	O
+como	O
+secuela	O
+un	O
+acortamiento	O
+en	O
+su	O
+miembro	O
+inferior	O
+izquierdo	O
+.	O

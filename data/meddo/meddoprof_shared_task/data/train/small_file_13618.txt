@@ -1,0 +1,11 @@
+
+También	O
+se	O
+solicitó	O
+radiografía	O
+de	O
+tórax	O
+que	O
+resultó	O
+anodina	O
+.	O

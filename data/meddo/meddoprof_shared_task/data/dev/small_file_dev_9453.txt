@@ -1,0 +1,19 @@
+
+Estudio	O
+abdominal	O
+sin	O
+hallazgos	O
+significativos	O
+,	O
+salvo	O
+hallazgos	O
+compatibles	O
+con	O
+ectasia	O
+dural	O
+/	O
+quistes	O
+aracnoideos	O
+en	O
+sacro	O
+.	O

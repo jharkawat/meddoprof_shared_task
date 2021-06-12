@@ -1,0 +1,15 @@
+
+No	O
+recuerda	O
+bien	O
+si	O
+ha	O
+sufrido	O
+alguna	O
+herida	O
+por	O
+parte	O
+de	O
+estos	O
+animales	O
+.	O

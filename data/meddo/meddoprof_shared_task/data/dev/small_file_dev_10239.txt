@@ -1,0 +1,27 @@
+
+Comenzó	O
+a	O
+transpirar	O
+y	O
+temblar	O
+,	O
+se	O
+sintió	O
+mareada	O
+,	O
+sentía	O
+un	O
+hormigueo	O
+en	O
+su	O
+brazo	O
+izquierdo	O
+y	O
+temío	O
+morir	O
+de	O
+un	O
+ataque	O
+al	O
+corazón	O
+.	O

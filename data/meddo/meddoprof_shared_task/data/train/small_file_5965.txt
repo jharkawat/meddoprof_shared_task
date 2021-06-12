@@ -1,0 +1,5 @@
+
+No	O
+irritación	O
+meníngea	O
+.	O

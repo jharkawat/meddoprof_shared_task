@@ -1,0 +1,7 @@
+
+Parto	O
+y	O
+desarrollo	O
+psicomotor	O
+normal	O
+.	O

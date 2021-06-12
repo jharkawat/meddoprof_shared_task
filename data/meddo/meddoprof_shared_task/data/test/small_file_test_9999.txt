@@ -1,0 +1,22 @@
+
+Dicha	O
+cirugía	O
+se	O
+consideró	O
+que	O
+había	O
+podido	O
+resecar	O
+más	O
+del	O
+90	O
+%	O
+de	O
+la	O
+enfermedad	O
+residual	O
+tras	O
+la	O
+primera	O
+quimioterapia	O
+.	O

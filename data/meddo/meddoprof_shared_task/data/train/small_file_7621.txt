@@ -1,0 +1,24 @@
+
+Dada	O
+la	O
+autorresolución	O
+característica	O
+de	O
+estas	O
+lesiones	O
+se	O
+pautó	O
+tratamiento	O
+sintomático	O
+con	O
+antitérmico	O
+para	O
+la	O
+febrícula	O
+y	O
+antihistamínico	O
+oral	O
+para	O
+el	O
+prurito	O
+.	O

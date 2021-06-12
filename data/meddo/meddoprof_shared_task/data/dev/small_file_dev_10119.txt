@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+es	O
+un	O
+vendedor	B-PROFESION
+de	O
+36	O
+años	O
+.	O

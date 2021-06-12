@@ -1,0 +1,40 @@
+T1	SINTOMA 93 109	prurito de manos
+T2	SINTOMA 112 132	lesiones eccematosas
+T3	PROCEDIMIENTO 217 236	corticoides tópicos
+T4	PROCEDIMIENTO 1458 1482	Prick test aeroalérgenos
+T5	NEG 712 714	no
+T6	NSCO 715 769	empleando guantes ni medidas de protección (mascarilla
+T7	NEG 961 971	suspensión
+T8	NEG 974 976	no
+T9	NSCO 977 1055	habiendo empleado durante toda la jornada laboral dichas medidas de protección
+T10	NEG 1180 1182	no
+T11	NSCO 1183 1239	refiere cirugías u otras posibilidades de tener prótesis
+T12	NEG 1310 1320	descartado
+T13	NEG 1358 1360	no
+T14	NSCO 1361 1397	presencia de cicatrices en su cuerpo
+T15	NEG 1864 1873	negativos
+T16	NSCO 1874 1916	tras la lectura inmediata a los 20 minutos
+T17	NEG 2093 2101	negativo
+T18	NEG 2143 2151	negativo
+T19	FARMACO 1972 1998	diclorhidrato de histamina
+T20	ORG_VIVO 17 25	paciente
+T21	ORG_VIVO 343 351	paciente
+T22	ORG_VIVO 1504 1510	ácaros
+T23	ORG_VIVO 1512 1542	Dermatophagoides pteronyssinus
+T24	ORG_VIVO 1544 1568	Dermatophagoides farinae
+T25	ORG_VIVO 1570 1583	Lepidoglyphus
+T26	ORG_VIVO 1606 1619	Olea europeae
+T27	ORG_VIVO 1621 1635	Lolium perenne
+T28	ORG_VIVO 1637 1656	Cupressus arizonica
+T29	ORG_VIVO 1658 1677	Platanus acerifolia
+T30	ORG_VIVO 1679 1691	Salsola Kali
+T31	ORG_VIVO 1693 1711	Parietaria judaica
+T32	ORG_VIVO 1714 1720	hongos
+T33	ORG_VIVO 1722 1742	Alternaria alternata
+T34	ORG_VIVO 1744 1765	Aspergillus fumigatus
+T35	ORG_VIVO 1779 1784	perro
+T36	ORG_VIVO 1786 1790	gato
+T37	ORG_VIVO 1792 1799	caballo
+T38	ENFERMEDAD 112 132	lesiones eccematosas
+T39	ENFERMEDAD 1374 1397	cicatrices en su cuerpo
+T40	PACIENTE-PROFESION 374 399	trabajando en una fábrica

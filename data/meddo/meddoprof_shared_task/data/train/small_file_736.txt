@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Manuel	O
+Solano	O
+Remírez	O
+NºCol	O
+:	O
+31	O
+28	O
+46571	O
+.	O

@@ -1,0 +1,23 @@
+
+Mujer	O
+de	O
+18	O
+años	O
+que	O
+acude	O
+a	O
+consulta	O
+por	O
+cuadro	O
+de	O
+fiebre	O
+termometrada	O
+a	O
+lo	O
+largo	O
+del	O
+día	O
+de	O
+hasta	O
+38	O
+.	O

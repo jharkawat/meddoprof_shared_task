@@ -1,0 +1,144 @@
+T1	SINTOMA 73 81	cefaleas
+T2	SINTOMA 249 264	cefalea frontal
+T3	SINTOMA 446 453	náuseas
+T4	SINTOMA 476 483	vómitos
+T5	SINTOMA 504 511	afebril
+T6	SINTOMA 581 588	cefalea
+T7	SINTOMA 616 628	leucocitosis
+T8	SINTOMA 1088 1099	hipoestesia
+T9	SINTOMA 1257 1264	cefalea
+T10	SINTOMA 1394 1404	consciente
+T11	SINTOMA 1407 1436	orientada en tiempo y espacio
+T12	SINTOMA 1452 1478	alteraciones campimétricas
+T13	SINTOMA 1575 1616	focalidad sensitivo-motora de vías largas
+T14	SINTOMA 1671 1686	rigidez de nuca
+T15	SINTOMA 2553 2559	fiebre
+T16	SINTOMA 4325 4332	cefalea
+T17	SINTOMA 4577 4584	cefalea
+T18	SINTOMA 4704 4711	cefalea
+T19	SINTOMA 4960 4967	cefalea
+T20	PROCEDIMIENTO 109 113	AINE
+T21	PROCEDIMIENTO 363 384	maniobras de Valsalva
+T22	PROCEDIMIENTO 517 540	exploración neurológica
+T23	PROCEDIMIENTO 660 679	analítica sanguínea
+T24	PROCEDIMIENTO 704 715	TC cerebral
+T25	PROCEDIMIENTO 722 736	punción lumbar
+T26	PROCEDIMIENTO 935 946	analgésicos
+T27	PROCEDIMIENTO 949 960	hidratación
+T28	PROCEDIMIENTO 984 1003	pruebas serológicas
+T29	PROCEDIMIENTO 1371 1384	Examen físico
+T30	PROCEDIMIENTO 1518 1552	exploración de los pares craneales
+T31	PROCEDIMIENTO 1775 1798	exploración orofaríngea
+T32	PROCEDIMIENTO 1893 1905	fondo de ojo
+T33	PROCEDIMIENTO 1934 1937	ECG
+T34	PROCEDIMIENTO 1956 1975	Analítica sanguínea
+T35	PROCEDIMIENTO 2051 2060	Hemograma
+T36	PROCEDIMIENTO 2388 2397	Hemograma
+T37	PROCEDIMIENTO 2678 2712	Estudio de líquido cefalorraquídeo
+T38	PROCEDIMIENTO 2919 2939	Cultivo de bacterias
+T39	PROCEDIMIENTO 3039 3058	Citometría de flujo
+T40	PROCEDIMIENTO 3279 3295	Citología de LCR
+T41	PROCEDIMIENTO 3316 3319	EEG
+T42	PROCEDIMIENTO 3426 3433	EcoDTSA
+T43	PROCEDIMIENTO 3445 3465	Doppler transcraneal
+T44	PROCEDIMIENTO 3498 3518	Radiografía de tórax
+T45	PROCEDIMIENTO 3540 3551	TC cerebral
+T46	PROCEDIMIENTO 3811 3822	RM cerebral
+T47	PROCEDIMIENTO 4024 4041	Angio-RM cerebral
+T48	PROCEDIMIENTO 4589 4618	analgesia por vía intravenosa
+T49	PROCEDIMIENTO 4773 4807	estudio de líquido cefalorraquídeo
+T50	PROCEDIMIENTO 4826 4837	RM cerebral
+T51	PROCEDIMIENTO 5006 5027	analgesia intravenosa
+T52	NEG 27 30	sin
+T53	NSCO 31 62	antecedentes médicos de interés
+T54	NEG 98 104	cedían
+T55	NSCO 105 113	con AINE
+T56	NEG 343 346	sin
+T57	NSCO 347 384	modificarse con maniobras de Valsalva
+T58	NEG 504 511	afebril
+T59	NEG 1004 1013	negativas
+T60	NEG 1219 1224	cedió
+T61	NSCO 1225 1242	en unos 5 minutos
+T62	NEG 1438 1440	No
+T63	NSCO 1441 1513	presentaba alteraciones campimétricas ni de los movimientos oculomotores
+T64	NEG 1566 1568	no
+T65	NSCO 1569 1616	había focalidad sensitivo-motora de vías largas
+T66	NEG 1646 1655	negativos
+T67	NEG 1657 1659	No
+T68	NSCO 1660 1686	presentaba rigidez de nuca
+T69	NEG 1855 1858	sin
+T70	NSCO 1859 1905	que identificaran anomalías en el fondo de ojo
+T71	NEG 2378 2386	negativa
+T72	NEG 2464 2473	negativos
+T73	NEG 2509 2517	negativa
+T74	NEG 2535 2544	negativas
+T75	NEG 2562 2570	negativa
+T76	NEG 2600 2608	negativa
+T77	NEG 2621 2629	negativa
+T78	NEG 2665 2674	negativas
+T79	NSCO 2827 2843	cultivo de virus
+T80	NEG 2844 2852	negativo
+T81	NEG 2908 2917	negativas
+T82	NSCO 2919 2939	Cultivo de bacterias
+T83	NEG 2940 2948	negativo
+T84	NSCO 2949 2975	tras 14 días de incubación
+T85	NEG 2999 3007	negativo
+T86	NEG 3027 3035	negativa
+T87	NEG 3133 3135	No
+T88	NSCO 3136 3183	se detectan células de inmunofenotipo aberrante
+T89	NEG 3364 3366	no
+T90	NSCO 3367 3422	se observan grafoelementos con morfología epileptiforme
+T91	NEG 3520 3523	sin
+T92	NSCO 3524 3536	alteraciones
+T93	NEG 3606 3609	sin
+T94	NSCO 3610 3643	desplazamientos de la línea media
+T95	NEG 3645 3647	No
+T96	NSCO 3648 3807	se identifican colecciones intra o extraaxiales, procesos expansivos parenquimatosos ni imágenes sugestivas de patología vascular aguda isquémica o hemorrágica
+T97	NEG 3919 3921	No
+T98	NSCO 3922 4020	se detectan alteraciones morfológicas, ni de señal en la sustancia blanca, ni en la sustancia gris
+T99	NEG 4196 4198	No
+T100	NSCO 4199 4248	se observan imágenes de malformaciones vasculares
+T101	UNC 4470 4481	sospecha de
+T102	USCO 4482 4505	meningitis por Listeria
+T103	NEG 4511 4523	se suspendió
+T104	NSCO 4524 4541	tras el resultado
+T105	NEG 4542 4553	negativo de
+T106	NSCO 4554 4560	la PCR
+T107	UNC 4846 4857	sospecha de
+T108	USCO 4858 4876	meningoencefalitis
+T109	NEG 4968 4971	sin
+T110	NSCO 4972 4981	focalidad
+T111	NEG 5070 5082	asintomática
+T112	NSCO 5083 5094	el vigésimo
+T113	FARMACO 279 289	ibuprofeno
+T114	FARMACO 4451 4461	ampicilina
+T115	ORG_VIVO 10 15	Mujer
+T116	ORG_VIVO 488 496	paciente
+T117	ORG_VIVO 860 868	paciente
+T118	ORG_VIVO 1385 1393	Paciente
+T119	ORG_VIVO 2444 2452	Brucella
+T120	ORG_VIVO 2454 2458	lúes
+T121	ORG_VIVO 2460 2463	VIH
+T122	ORG_VIVO 2479 2490	parotiditis
+T123	ORG_VIVO 2579 2599	Chlamydia pneumoniae
+T124	ORG_VIVO 2617 2620	VEB
+T125	ORG_VIVO 2644 2664	Borrelia burgdorferi
+T126	ORG_VIVO 2838 2843	virus
+T127	ORG_VIVO 2863 2876	herpes simple
+T128	ORG_VIVO 2878 2893	varicela zóster
+T129	ORG_VIVO 2896 2907	enterovirus
+T130	ORG_VIVO 2930 2939	bacterias
+T131	ORG_VIVO 2986 2998	criptocócico
+T132	ORG_VIVO 3018 3026	Listeria
+T133	ORG_VIVO 4418 4426	paciente
+T134	ORG_VIVO 4911 4919	paciente
+T135	ORG_VIVO 5044 5052	paciente
+T136	ENFERMEDAD 754 777	meningitis linfocitaria
+T137	ENFERMEDAD 895 919	Enfermedades Infecciosas
+T138	ENFERMEDAD 1102 1149	hemiparesia en el hemicuerpo derecho ascendente
+T139	ENFERMEDAD 2519 2534	Hepatitis B y C
+T140	ENFERMEDAD 3759 3793	patología vascular aguda isquémica
+T141	ENFERMEDAD 4223 4248	malformaciones vasculares
+T142	ENFERMEDAD 4482 4505	meningitis por Listeria
+T143	ENFERMEDAD 4858 4876	meningoencefalitis
+T144	PACIENTE-PROFESION 131 168	trabajo en un laboratorio veterinario

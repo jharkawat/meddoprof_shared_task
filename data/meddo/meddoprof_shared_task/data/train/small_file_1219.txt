@@ -1,0 +1,24 @@
+
+Fue	O
+evaluada	O
+por	O
+un	O
+médico	B-PROFESION
+internista	I-PROFESION
+quien	O
+la	O
+trató	O
+en	O
+forma	O
+empírica	O
+con	O
+albendazol	O
+400	O
+mg	O
+por	O
+día	O
+,	O
+durante	O
+15	O
+días	O
+.	O

@@ -1,0 +1,13 @@
+
+Abandonó	O
+el	O
+consumo	O
+de	O
+alcohol	O
+que	O
+venía	O
+realizando	O
+hace	O
+dos	O
+años	O
+.	O

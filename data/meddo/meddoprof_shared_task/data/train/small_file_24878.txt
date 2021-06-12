@@ -1,0 +1,26 @@
+
+Es	O
+dado	O
+de	O
+alta	O
+tras	O
+punción	O
+tiroidea	O
+que	O
+descartaba	O
+malignidad	O
+en	O
+el	O
+bocio	O
+coloide	O
+quístico	O
+,	O
+desechándose	O
+esta	O
+causa	O
+como	O
+responsable	O
+del	O
+cuadro	O
+clínico	O
+.	O

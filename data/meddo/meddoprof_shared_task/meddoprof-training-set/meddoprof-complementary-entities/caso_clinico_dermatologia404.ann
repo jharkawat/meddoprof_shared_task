@@ -1,0 +1,39 @@
+T1	SINTOMA 1645 1652	prurito
+T2	PROCEDIMIENTO 503 521	Exploración física
+T3	PROCEDIMIENTO 527 545	exploración física
+T4	PROCEDIMIENTO 933 952	estudio histológico
+T5	PROCEDIMIENTO 2111 2135	corticoterapia sistémica
+T6	NEG 326 328	no
+T7	NSCO 329 332	han
+T8	UNC 467 475	sospecha
+T9	USCO 476 500	clínica de herpes zóster
+T10	NEG 760 763	sin
+T11	NSCO 764 789	sobrepasar la línea media
+T12	NEG 849 851	No
+T13	NSCO 852 897	presenta afectación facial, palmar ni plantar
+T14	NEG 1621 1624	sin
+T15	NSCO 1625 1680	lograr controlar el prurito ni desaparecer las lesiones
+T16	NEG 1904 1916	asintomático
+T17	NEG 2150 2161	desaparecen
+T18	NSCO 2162 2208	dejando una hiperpigmentación postinflamatoria
+T19	FARMACO 126 134	losartan
+T20	FARMACO 136 148	levotiroxina
+T21	FARMACO 151 163	simvastatina
+T22	FARMACO 369 378	aciclovir
+T23	FARMACO 398 414	sulfato de cobre
+T24	FARMACO 1586 1603	metilprednisolona
+T25	FARMACO 1718 1728	prednisona
+T26	FARMACO 1757 1767	clobetasol
+T27	ORG_VIVO 10 15	Mujer
+T28	ORG_VIVO 431 458	médico de atención primaria
+T29	ORG_VIVO 1817 1825	paciente
+T30	ORG_VIVO 1969 1977	paciente
+T31	ENFERMEDAD 47 68	hipertensión arterial
+T32	ENFERMEDAD 70 89	hipercolesterolemia
+T33	ENFERMEDAD 92 106	hipotiroidismo
+T34	ENFERMEDAD 272 311	lesiones muy pruriginosas en hemicuerpo
+T35	ENFERMEDAD 487 500	herpes zóster
+T36	ENFERMEDAD 960 1049	lesión representativa localizada en región lumbar muestra hiperqueratosis ortoqueratósica
+T37	ENFERMEDAD 1501 1532	liquen plano blaschkoide lineal
+T38	ENFERMEDAD 2007 2054	lesiones similares en muslo y pierna izquierdas
+T39	SANITARIO-PROFESION 431 458	médico de atención primaria

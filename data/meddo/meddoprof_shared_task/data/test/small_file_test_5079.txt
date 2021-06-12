@@ -1,0 +1,25 @@
+
+En	O
+cuanto	O
+a	O
+los	O
+corticoides	O
+,	O
+se	O
+inicia	O
+reducción	O
+progresiva	O
+(	O
+40	O
+mg	O
+de	O
+metilprednisolona	O
+1	O
+semana	O
+,	O
+20	O
+mg	O
+la	O
+siguiente	O
+)	O
+.	O

@@ -1,0 +1,16 @@
+
+Comerciante	B-PROFESION
+jubilado	B-SITUACION_LABORAL
+,	O
+vivía	O
+con	O
+su	O
+esposa	O
+y	O
+era	O
+independiente	O
+para	O
+las	O
+actividades	O
+básicas	O
+.	O

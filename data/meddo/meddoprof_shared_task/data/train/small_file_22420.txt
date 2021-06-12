@@ -1,0 +1,9 @@
+
+En	O
+la	O
+orina	O
+no	O
+se	O
+observaban	O
+alteraciones	O
+.	O

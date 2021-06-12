@@ -1,0 +1,11 @@
+
+Tuvieron	O
+tres	O
+hijos	O
+y	O
+vivían	O
+en	O
+un	O
+departamento	O
+pequeño	O
+.	O

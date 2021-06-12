@@ -1,0 +1,25 @@
+
+Se	O
+trata	O
+de	O
+una	O
+paciente	O
+de	O
+64	O
+años	O
+que	O
+consulta	O
+en	O
+nuestro	O
+Servicio	O
+tras	O
+la	O
+resección	O
+en	O
+otro	O
+centro	O
+de	O
+una	O
+tumoración	O
+uterina	O
+.	O

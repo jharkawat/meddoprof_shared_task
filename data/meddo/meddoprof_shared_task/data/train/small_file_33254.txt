@@ -1,0 +1,26 @@
+
+En	O
+la	O
+exploración	O
+psicopatológica	O
+que	O
+se	O
+le	O
+realiza	O
+durante	O
+la	O
+entrevista	O
+el	O
+paciente	O
+se	O
+muestra	O
+consciente	O
+y	O
+orientado	O
+en	O
+tiempo	O
+,	O
+espacio	O
+y	O
+persona	O
+.	O

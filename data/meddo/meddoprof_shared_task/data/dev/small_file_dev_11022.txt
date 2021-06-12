@@ -1,0 +1,26 @@
+
+MOTILIDAD	O
+ACTIVA	O
+:	O
+el	O
+paciente	O
+efectúa	O
+sin	O
+ayuda	O
+,	O
+los	O
+movimientos	O
+que	O
+lo	O
+solicitan	O
+,	O
+no	O
+presenta	O
+parálisis	O
+,	O
+paresía	O
+,	O
+hemiplejia	O
+,	O
+hemiparesia	O
+.	O

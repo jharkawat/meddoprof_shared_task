@@ -1,0 +1,15 @@
+
+Múltiples	O
+adenopatías	O
+patológicas	O
+en	O
+hilio	O
+hepático	O
+,	O
+saco	O
+menor	O
+,	O
+mesentéricas	O
+y	O
+retroperitoneales	O
+.	O

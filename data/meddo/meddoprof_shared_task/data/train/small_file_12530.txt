@@ -1,0 +1,23 @@
+
+La	O
+biopsia	O
+del	O
+nervio	O
+sural	O
+para	O
+realizar	O
+el	O
+diagnóstico	O
+anatomopatológico	O
+no	O
+pudo	O
+realizarse	O
+por	O
+falta	O
+de	O
+personal	B-PROFESION
+entrenado	O
+en	O
+nuestro	O
+centro	O
+.	O

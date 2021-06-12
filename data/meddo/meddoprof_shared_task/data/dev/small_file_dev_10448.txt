@@ -1,0 +1,18 @@
+
+La	O
+paciente	O
+recordó	O
+que	O
+sus	O
+digestiones	O
+nunca	O
+habían	O
+sido	O
+mejores	O
+que	O
+cuando	O
+tomó	O
+esas	O
+primeras	O
+pastillas	O
+.	O

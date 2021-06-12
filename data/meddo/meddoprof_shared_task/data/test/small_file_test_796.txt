@@ -1,0 +1,6 @@
+
+Mujer	O
+de	O
+36	O
+años	O
+.	O

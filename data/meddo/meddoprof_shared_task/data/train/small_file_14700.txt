@@ -1,0 +1,10 @@
+
+Refería	O
+además	O
+una	O
+visión	O
+borrosa	O
+en	O
+ojo	O
+izquierdo	O
+.	O

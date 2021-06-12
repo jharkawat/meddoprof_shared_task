@@ -1,0 +1,23 @@
+
+Es	O
+una	O
+lesión	O
+ecogénica	O
+con	O
+un	O
+área	O
+central	O
+de	O
+morfología	O
+reticular	O
+hipoecoica	O
+sugestiva	O
+(	O
+no	O
+concluyente	O
+por	O
+ecografia	O
+)	O
+de	O
+HNF	O
+.	O

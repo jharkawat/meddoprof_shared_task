@@ -1,0 +1,24 @@
+
+Una	O
+vez	O
+en	O
+planta	O
+se	O
+documentan	O
+en	O
+la	O
+telemetría	O
+salvas	O
+de	O
+taquicardia	O
+ventricular	O
+no	O
+sostenida	O
+tipo	O
+torsades	O
+de	O
+pointes	O
+(	O
+TdP	O
+)	O
+.	O

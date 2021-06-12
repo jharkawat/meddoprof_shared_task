@@ -1,0 +1,24 @@
+
+Entre	O
+los	O
+antecedentes	O
+familiares	O
+,	O
+su	O
+padre	O
+está	O
+diagnosticado	O
+de	O
+distrofia	O
+miotónica	O
+tipo	O
+I	O
+(	O
+DM1	O
+)	O
+y	O
+es	O
+portador	O
+de	O
+marcapasos	O
+.	O

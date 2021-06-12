@@ -1,0 +1,12 @@
+
+El	O
+estilo	O
+educativo	O
+parental	O
+es	O
+poco	O
+adecuado	O
+en	O
+ambos	O
+progenitores	O
+.	O

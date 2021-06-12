@@ -1,0 +1,27 @@
+
+Al	O
+ingreso	O
+el	O
+paciente	O
+presentaba	O
+una	O
+temperatura	O
+de	O
+39	O
+°	O
+C	O
+,	O
+estaba	O
+hemodinámicamente	O
+estable	O
+y	O
+se	O
+auscultó	O
+un	O
+soplo	O
+sistólico	O
+irradiado	O
+a	O
+la	O
+axila	O
+.	O

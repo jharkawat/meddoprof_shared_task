@@ -1,0 +1,20 @@
+
+Por	O
+lo	O
+tanto	O
+,	O
+se	O
+redujo	O
+la	O
+dosis	O
+a	O
+37	O
+,	O
+5	O
+mg	O
+al	O
+cuarto	O
+ciclo	O
+de	O
+tratamiento	O
+.	O

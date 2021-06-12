@@ -1,0 +1,15 @@
+
+ECOCARDIOGRAFÍA	O
+TRANSTORÁCICA	O
+(	O
+ETT	O
+)	O
+:	O
+aurícula	O
+izquierda	O
+(	O
+AI	O
+)	O
+moderadamente	O
+dilatada	O
+.	O

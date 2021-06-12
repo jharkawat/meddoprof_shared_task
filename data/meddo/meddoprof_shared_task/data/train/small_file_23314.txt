@@ -1,0 +1,21 @@
+
+Al	O
+alta	O
+y	O
+traslado	O
+a	O
+su	O
+país	O
+de	O
+residencia	O
+se	O
+recomendó	O
+seguimiento	O
+especializado	O
+del	O
+episodio	O
+y	O
+control	O
+del	O
+tratamiento	O
+.	O

@@ -1,0 +1,18 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+el	O
+paciente	O
+se	O
+encuentra	O
+reincorporado	O
+de	O
+forma	O
+completa	O
+a	O
+sus	O
+actividades	O
+habituales	O
+.	O

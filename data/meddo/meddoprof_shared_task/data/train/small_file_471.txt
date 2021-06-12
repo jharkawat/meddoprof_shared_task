@@ -1,0 +1,12 @@
+
+Domicilio	O
+:	O
+Avenida	O
+Alarcos	O
+,	O
+25	O
+,	O
+4	O
+der	O
+.	O
+.	O

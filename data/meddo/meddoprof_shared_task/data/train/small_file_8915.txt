@@ -1,0 +1,14 @@
+
+Leucocitos	O
+9970	O
+con	O
+neutrófilos	O
+9160	O
+(	O
+91	O
+%	O
+)	O
+.	O
+Plaquetas	O
+304000	O
+.	O

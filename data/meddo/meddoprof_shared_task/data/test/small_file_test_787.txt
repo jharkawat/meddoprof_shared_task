@@ -1,0 +1,11 @@
+
+Se	O
+intuba	O
+a	O
+la	O
+paciente	O
+y	O
+se	O
+inicia	O
+VMC	O
+.	O

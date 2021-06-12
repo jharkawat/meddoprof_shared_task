@@ -1,0 +1,21 @@
+
+En	O
+la	O
+intraoral	O
+se	O
+observa	O
+un	O
+diastema	O
+interincisivo	O
+congénito	O
+y	O
+estrecha	O
+banda	O
+de	O
+tejido	O
+queratinizado	O
+en	O
+#	O
+43	O
+bucal	O
+.	O

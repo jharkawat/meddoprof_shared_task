@@ -1,0 +1,25 @@
+
+La	O
+LDH	O
+,	O
+AFP	O
+y	O
+la	O
+beta	O
+-	O
+HCG	O
+realizados	O
+previos	O
+a	O
+la	O
+cirugía	O
+se	O
+encontraban	O
+dentro	O
+de	O
+los	O
+límites	O
+de	O
+la	O
+normalidad	O
+.	O

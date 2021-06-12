@@ -1,0 +1,7 @@
+
+En	O
+Rx	O
+disminución	O
+espacio	O
+L5S1	O
+.	O

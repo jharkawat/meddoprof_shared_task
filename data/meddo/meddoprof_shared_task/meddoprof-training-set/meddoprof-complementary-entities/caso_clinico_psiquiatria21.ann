@@ -1,0 +1,83 @@
+T1	SINTOMA 310 318	insomnio
+T2	SINTOMA 321 329	jaquecas
+T3	SINTOMA 500 539	dificultad para las relaciones sociales
+T4	SINTOMA 1740 1749	irritable
+T5	SINTOMA 1754 1762	malhumor
+T6	SINTOMA 1828 1836	malestar
+T7	SINTOMA 1922 1929	apático
+T8	SINTOMA 3258 3277	síntomas depresivos
+T9	PROCEDIMIENTO 255 269	timpanoplastia
+T10	PROCEDIMIENTO 2816 2863	tratamiento con un antidepresivo y un hipnótico
+T11	NEG 163 171	negativa
+T12	NSCO 172 202	que puede ejercer en sus hijas
+T13	NEG 573 576	sin
+T14	NSCO 577 600	periodos de abstinencia
+T15	NEG 654 656	No
+T16	NSCO 657 694	consume ni ha consumido otros tóxicos
+T17	NEG 909 911	no
+T18	NSCO 912 923	consumidora
+T19	NEG 1034 1036	no
+T20	NSCO 1037 1075	mantiene ninguna relación con el padre
+T21	NEG 1217 1219	no
+T22	NSCO 1220 1225	fuera
+T23	NEG 1235 1237	no
+T24	NSCO 1238 1251	estaría vivo"
+T25	NEG 1695 1698	sin
+T26	NSCO 1699 1710	conseguirlo
+T27	NEG 1765 1767	no
+T28	NSCO 1768 1783	consigue dormir
+T29	NEG 1931 1934	sin
+T30	NSCO 1935 1970	ganas de hacer nada, ni de trabajar
+T31	NEG 2086 2095	ha dejado
+T32	NSCO 2096 2109	sus aficiones
+T33	NEG 2117 2119	no
+T34	NSCO 2120 2147	le atraen ni le entretienen
+T35	NEG 2416 2418	no
+T36	NSCO 2419 2438	se puede concentrar
+T37	UNC 2639 2646	no sabe
+T38	USCO 2647 2665	que hacer con ella
+T39	NEG 3235 3238	sin
+T40	NSCO 3239 3277	reaparición de los síntomas depresivos
+T41	UNC 3310 3317	valorar
+T42	USCO 3318 3416	la posibilidad de que el paciente presentara un trastorno depresivo comórbido al uso de sustancias
+T43	NEG 3886 3888	no
+T44	NSCO 3889 3937	ser este un diagnóstico muy ortodoxo en el eje I
+T45	ORG_VIVO 0 5	Varón
+T46	ORG_VIVO 197 202	hijas
+T47	ORG_VIVO 218 228	personales
+T48	ORG_VIVO 287 305	médico de cabecera
+T49	ORG_VIVO 423 431	cannabis
+T50	ORG_VIVO 488 494	amigos
+T51	ORG_VIVO 710 720	familiares
+T52	ORG_VIVO 721 726	Padre
+T53	ORG_VIVO 755 760	madre
+T54	ORG_VIVO 848 855	hermana
+T55	ORG_VIVO 929 934	hijas
+T56	ORG_VIVO 998 1004	padres
+T57	ORG_VIVO 1070 1075	padre
+T58	ORG_VIVO 1082 1087	madre
+T59	ORG_VIVO 1183 1189	esposa
+T60	ORG_VIVO 1274 1281	persona
+T61	ORG_VIVO 1471 1491	ingeniero industrial
+T62	ORG_VIVO 2059 2064	mujer
+T63	ORG_VIVO 2071 2076	hijas
+T64	ORG_VIVO 2268 2273	mujer
+T65	ORG_VIVO 2868 2876	paciente
+T66	ORG_VIVO 3343 3351	paciente
+T67	ORG_VIVO 3533 3541	paciente
+T68	ORG_VIVO 3657 3665	cannabis
+T69	ORG_VIVO 3866 3874	cannabis
+T70	ENFERMEDAD 412 431	consumo de cannabis
+T71	ENFERMEDAD 738 753	úlcera gástrica
+T72	ENFERMEDAD 765 783	alergias múltiples
+T73	ENFERMEDAD 788 804	crisis asmáticas
+T74	ENFERMEDAD 2515 2521	muerte
+T75	ENFERMEDAD 3366 3395	trastorno depresivo comórbido
+T76	ENFERMEDAD 3548 3566	trastorno de ánimo
+T77	ENFERMEDAD 3834 3852	trastorno de ánimo
+T78	PACIENTE-PROFESION 1471 1491	ingeniero industrial
+T79	SANITARIO-PROFESION 287 305	médico de cabecera
+T80	PACIENTE-PROFESION 1555 1593	montando su propia empresa informática
+T81	FAMILIAR-SITUACION_LABORAL 2274 2292	empieza a trabajar
+T82	PACIENTE-SITUACION_LABORAL 2312 2349	se encarga de los trabajos domésticos
+T83	PACIENTE-SITUACION_LABORAL 3095 3116	comenzando a trabajar

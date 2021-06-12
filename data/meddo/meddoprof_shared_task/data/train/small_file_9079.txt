@@ -1,0 +1,6 @@
+
+Leptospira	O
+IgM	O
+:	O
+Negativo	O
+.	O

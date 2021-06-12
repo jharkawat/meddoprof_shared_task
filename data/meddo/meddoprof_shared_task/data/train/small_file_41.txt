@@ -1,0 +1,22 @@
+
+Los	O
+urocultivos	O
+,	O
+los	O
+análisis	O
+de	O
+orina	O
+y	O
+las	O
+pruebas	O
+de	O
+uroantígenos	O
+para	O
+Streptococcus	O
+pneumoniae	O
+y	O
+Legionella	O
+pneumophila	O
+fueron	O
+normales	O
+.	O

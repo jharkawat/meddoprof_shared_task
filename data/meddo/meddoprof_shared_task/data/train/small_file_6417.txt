@@ -1,0 +1,19 @@
+
+Así	O
+mismo	O
+la	O
+frecuencia	O
+cardiaca	O
+era	O
+de	O
+75	O
+latidos	O
+por	O
+minuto	O
+y	O
+la	O
+SaO2	O
+del	O
+96	O
+%	O
+.	O

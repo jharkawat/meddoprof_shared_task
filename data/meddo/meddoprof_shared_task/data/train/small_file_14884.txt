@@ -1,0 +1,7 @@
+
+No	O
+se	O
+palpaban	O
+adenopatías	O
+periféricas	O
+.	O

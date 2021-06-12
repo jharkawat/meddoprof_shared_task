@@ -1,0 +1,20 @@
+
+Radiografía	O
+de	O
+tórax	O
+:	O
+cardiomegalia	O
+,	O
+signos	O
+de	O
+redistribución	O
+vascular	O
+,	O
+sin	O
+pinzamiento	O
+de	O
+senos	O
+,	O
+ni	O
+infiltrados	O
+.	O

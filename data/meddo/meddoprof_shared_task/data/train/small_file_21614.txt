@@ -1,0 +1,4 @@
+
+Pide	O
+cosas	O
+.	O

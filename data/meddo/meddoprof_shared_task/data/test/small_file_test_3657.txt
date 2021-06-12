@@ -1,0 +1,12 @@
+
+Toxicidad	O
+digestiva	O
+con	O
+náuseas	O
+,	O
+vómitos	O
+y	O
+diarrea	O
+grado	O
+3	O
+.	O

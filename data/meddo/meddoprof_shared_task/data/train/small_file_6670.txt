@@ -1,0 +1,19 @@
+
+Varón	O
+de	O
+74	O
+años	O
+con	O
+antecedentes	O
+personales	O
+de	O
+dislipemia	O
+y	O
+fibrilación	O
+auricular	O
+a	O
+tratamiento	O
+con	O
+anticoagulantes	O
+orales	O
+.	O

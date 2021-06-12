@@ -1,0 +1,17 @@
+
+Positiva	O
+desde	O
+el	O
+año	O
+1995	O
+,	O
+se	O
+declara	O
+soltera	O
+y	O
+de	O
+ocupación	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+.	O

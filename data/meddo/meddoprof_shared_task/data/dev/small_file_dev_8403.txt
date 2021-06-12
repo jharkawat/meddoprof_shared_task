@@ -1,0 +1,20 @@
+
+Coagulación	O
+básica	O
+con	O
+cifras	O
+de	O
+INR	O
+1	O
+,	O
+48	O
+y	O
+actividad	O
+de	O
+protrombina	O
+del	O
+55	O
+,	O
+7	O
+%	O
+.	O

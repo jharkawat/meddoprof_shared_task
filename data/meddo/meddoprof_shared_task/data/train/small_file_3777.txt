@@ -1,0 +1,19 @@
+
+El	O
+Médico	B-PROFESION
+de	I-PROFESION
+Urgencias	I-PROFESION
+solicita	O
+control	O
+de	O
+litemia	O
+obteniéndose	O
+cifras	O
+de	O
+2	O
+.	O
+68	O
+mEq	O
+/	O
+l	O
+.	O

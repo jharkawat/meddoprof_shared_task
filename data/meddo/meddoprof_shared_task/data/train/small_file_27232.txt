@@ -1,0 +1,14 @@
+
+Tío	O
+materno	O
+precisó	O
+ingreso	O
+en	O
+Psiquiatría	O
+y	O
+hermano	O
+menor	O
+diagnóstico	O
+de	O
+hipotiroidismo	O
+.	O

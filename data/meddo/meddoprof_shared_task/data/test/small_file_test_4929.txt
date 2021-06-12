@@ -1,0 +1,15 @@
+
+En	O
+abril	O
+de	O
+2009	O
+se	O
+practicó	O
+biopsia	O
+-	O
+extirpación	O
+de	O
+adenopatía	O
+cervical	O
+izquierda	O
+.	O

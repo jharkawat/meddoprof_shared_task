@@ -1,0 +1,13 @@
+
+Pesó	O
+al	O
+nacer	O
+2	O
+,	O
+900	O
+Kg	O
+y	O
+midió	O
+47	O
+cm	O
+.	O

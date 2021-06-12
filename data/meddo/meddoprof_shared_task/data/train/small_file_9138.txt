@@ -1,0 +1,14 @@
+
+·	O
+Trombosis	O
+venosa	O
+profunda	O
+en	O
+miembro	O
+inferior	O
+izquierdo	O
+en	O
+diciembre	O
+/	O
+2014	O
+.	O

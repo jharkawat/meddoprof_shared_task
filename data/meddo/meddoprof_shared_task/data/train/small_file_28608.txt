@@ -1,0 +1,12 @@
+
+Actúa	O
+con	O
+suspicacia	O
+,	O
+sin	O
+querer	O
+profundizar	O
+en	O
+su	O
+ideación	O
+.	O

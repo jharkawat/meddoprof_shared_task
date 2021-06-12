@@ -1,0 +1,14 @@
+
+Cafe	O
+:	O
+1	O
+taza	O
+al	O
+dia	O
+desde	O
+la	O
+niñez	O
+hasta	O
+la	O
+actualidad	O
+.	O

@@ -1,0 +1,12 @@
+
+Se	O
+realizó	O
+interconsulta	O
+con	O
+hematología	O
+pautándose	O
+tratamiento	O
+con	O
+Bexaroteno	O
+oral	O
+.	O

@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+días	O
+después	O
+inició	O
+picos	O
+febriles	O
+de	O
+39oC	O
+en	O
+las	O
+tardes	O
+asociando	O
+una	O
+importante	O
+afectación	O
+del	O
+estado	O
+general	O
+.	O

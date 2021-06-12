@@ -1,0 +1,35 @@
+T1	SINTOMA 705 714	lumbalgia
+T2	PROCEDIMIENTO 372 398	Radiografía columna lumbar
+T3	PROCEDIMIENTO 423 456	Resonancia Magnética (RMN) lumbar
+T4	PROCEDIMIENTO 744 749	AINES
+T5	PROCEDIMIENTO 1299 1317	Exploración física
+T6	PROCEDIMIENTO 1400 1416	Rx sacroiliaacas
+T7	PROCEDIMIENTO 1441 1464	RMN lumbar y lumbosacra
+T8	NEG 124 126	no
+T9	NSCO 127 160	alergias medicamentosas conocidas
+T10	NEG 360 369	negativos
+T11	NEG 1359 1367	negativo
+T12	NEG 1376 1384	negativo
+T13	UNC 1575 1590	compatibles con
+T14	USCO 1591 1603	sacroileitis
+T15	FARMACO 239 247	Losartan
+T16	ORG_VIVO 108 113	Varón
+T17	ORG_VIVO 667 684	médico de familia
+T18	ORG_VIVO 862 870	familiar
+T19	ORG_VIVO 978 984	esposa
+T20	ORG_VIVO 1026 1034	familiar
+T21	ENFERMEDAD 19 36	Lumbalgia crónica
+T22	ENFERMEDAD 162 183	Hipertensión arterial
+T23	ENFERMEDAD 185 224	Enfermedad Pulmonar Obstructiva Crónica
+T24	ENFERMEDAD 256 283	Lumbalgia crónica irradiada
+T25	ENFERMEDAD 458 493	hipertrofia facetaria lumbar distal
+T26	ENFERMEDAD 1100 1126	Lumbalgia crónica mecánica
+T27	ENFERMEDAD 1128 1145	Espondiloartrosis
+T28	ENFERMEDAD 1147 1165	Síndrome facetario
+T29	ENFERMEDAD 1167 1187	Hernia discal lumbar
+T30	ENFERMEDAD 1189 1208	Espondiloartropatía
+T31	ENFERMEDAD 1418 1439	esclerosis subcondral
+T32	ENFERMEDAD 1466 1490	síndrome facetario L4-L5
+T33	ENFERMEDAD 1539 1557	edema óseo medular
+T34	ENFERMEDAD 1591 1603	sacroileitis
+T35	SANITARIO-PROFESION 667 684	médico de familia

@@ -1,0 +1,26 @@
+
+Nunca	O
+ha	O
+pesado	O
+más	O
+de	O
+48	O
+kg	O
+(	O
+cuando	O
+tenía	O
+15	O
+años	O
+)	O
+,	O
+peso	O
+con	O
+el	O
+que	O
+se	O
+describe	O
+como	O
+"	O
+gorda	O
+"	O
+.	O

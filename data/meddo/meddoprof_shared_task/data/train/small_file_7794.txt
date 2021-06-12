@@ -1,0 +1,23 @@
+
+El	O
+servicio	O
+de	O
+Urología	O
+practica	O
+resección	O
+laparoscópica	O
+de	O
+suprarrenal	O
+izquierda	O
+,	O
+siendo	O
+su	O
+estudio	O
+histológico	O
+,	O
+positivo	O
+para	O
+metástasis	O
+de	O
+melanoma	O
+.	O

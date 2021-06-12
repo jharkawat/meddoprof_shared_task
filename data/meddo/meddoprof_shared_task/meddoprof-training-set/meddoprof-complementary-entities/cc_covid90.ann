@@ -1,0 +1,32 @@
+T1	PROCEDIMIENTO 1017 1028	ventilación
+T2	PROCEDIMIENTO 1159 1174	lavado de manos
+T3	NEG 1488 1490	No
+T4	NSCO 1491 1516	asistir a eventos masivos
+T5	UNC 1524 1531	posible
+T6	USCO 1532 1569	no utilizar transporte público masivo
+T7	NEG 2097 2109	asintomática
+T8	NEG 2498 2500	no
+T9	NSCO 2501 2533	haber presentado síntomas graves
+T10	ORG_VIVO 0 5	Mujer
+T11	ORG_VIVO 18 41	profesional de la salud
+T12	ORG_VIVO 150 154	hijo
+T13	ORG_VIVO 169 185	docente del área
+T14	ORG_VIVO 431 439	personas
+T15	ORG_VIVO 486 491	viral
+T16	ORG_VIVO 513 524	coronavirus
+T17	ORG_VIVO 526 536	SARS-COV-2
+T18	ORG_VIVO 757 767	SARS-COV-2
+T19	ORG_VIVO 1054 1062	personas
+T20	ORG_VIVO 1232 1240	personal
+T21	ORG_VIVO 1945 1953	familiar
+T22	ORG_VIVO 2089 2096	persona
+T23	ORG_VIVO 2130 2150	profesional de salud
+T24	ORG_VIVO 2428 2432	hijo
+T25	ORG_VIVO 2450 2460	familiares
+T26	ORG_VIVO 2751 2759	personas
+T27	PACIENTE-PROFESION 18 79	profesional de la salud cuya especialidad es la epidemiología
+T28	PACIENTE-SITUACION_LABORAL 583 594	profesional
+T29	PACIENTE-PROFESION 2130 2150	profesional de salud
+T30	PACIENTE-SITUACION_LABORAL 2715 2726	profesional
+T31	PACIENTE-SITUACION_LABORAL 2044 2055	teletrabajo
+T32	PACIENTE-PROFESION 169 197	docente del área de la salud

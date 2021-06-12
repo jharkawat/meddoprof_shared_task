@@ -1,0 +1,12 @@
+
+Camarera	B-PROFESION
+de	O
+profesión	O
+y	O
+fumadora	O
+de	O
+5	O
+cigarrillos	O
+/	O
+dia	O
+.	O

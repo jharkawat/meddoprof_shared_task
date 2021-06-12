@@ -1,0 +1,10 @@
+
+Se	O
+planteó	O
+radioterapia	O
+sobre	O
+los	O
+campos	O
+inicialmente	O
+afectos	O
+.	O

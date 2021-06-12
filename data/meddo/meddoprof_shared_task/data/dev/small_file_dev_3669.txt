@@ -1,0 +1,25 @@
+
+Los	O
+informes	O
+psicopedagógicos	O
+se	O
+emiten	O
+tras	O
+la	O
+evaluación	O
+de	O
+un	O
+alumno	B-SITUACION_LABORAL
+que	O
+ha	O
+tenido	O
+algún	O
+problema	O
+destacable	O
+,	O
+especialmente	O
+en	O
+el	O
+rendimiento	O
+académico	O
+.	O

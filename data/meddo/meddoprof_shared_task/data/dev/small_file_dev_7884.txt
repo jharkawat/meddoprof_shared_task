@@ -1,0 +1,27 @@
+
+Entre	O
+las	O
+neoplasias	O
+,	O
+el	O
+linfoma	O
+(	O
+especialmente	O
+no	O
+-	O
+Hodgkin	O
+)	O
+,	O
+leucemia	O
+,	O
+carcinoma	O
+de	O
+células	O
+renales	O
+,	O
+carcinoma	O
+hepatocelular	O
+o	O
+metástasis	O
+hepáticas	O
+.	O

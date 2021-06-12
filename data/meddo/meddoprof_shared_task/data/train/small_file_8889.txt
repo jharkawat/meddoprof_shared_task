@@ -1,0 +1,11 @@
+
+No	O
+hábitos	O
+tóxicos	O
+ni	O
+adicción	O
+a	O
+drogas	O
+vía	O
+parenteral	O
+.	O

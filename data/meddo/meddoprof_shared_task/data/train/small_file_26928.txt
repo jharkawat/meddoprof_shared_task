@@ -1,0 +1,8 @@
+
+Primo	O
+hermano	O
+paterno	O
+con	O
+hipoplasia	O
+digital	O
+.	O

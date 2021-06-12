@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Elisabel	O
+Martínez	O
+Litago	O
+NºCol	O
+:	O
+28	O
+28	O
+57815	O
+.	O

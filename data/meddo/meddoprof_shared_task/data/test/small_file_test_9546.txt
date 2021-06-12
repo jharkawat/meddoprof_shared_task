@@ -1,0 +1,27 @@
+
+Una	O
+vez	O
+en	O
+planta	O
+,	O
+se	O
+inicia	O
+tratamiento	O
+corticoide	O
+con	O
+prednisona	O
+a	O
+dosis	O
+de	O
+1	O
+mg	O
+/	O
+kg	O
+/	O
+día	O
+(	O
+peso	O
+90	O
+kg	O
+)	O
+.	O

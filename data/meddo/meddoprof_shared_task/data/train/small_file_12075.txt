@@ -1,0 +1,16 @@
+
+Se	O
+realiza	O
+exéresis	O
+del	O
+nódulo	O
+y	O
+toma	O
+de	O
+biopsia	O
+en	O
+quirófano	O
+bajo	O
+anestesia	O
+general	O
+.	O

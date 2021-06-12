@@ -1,0 +1,12 @@
+
+Una	O
+vez	O
+hospitalizado	O
+fue	O
+valorado	O
+y	O
+reinterrogado	O
+por	O
+el	O
+neurólogo	B-PROFESION
+.	O

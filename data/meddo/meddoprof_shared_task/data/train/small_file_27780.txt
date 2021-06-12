@@ -1,0 +1,26 @@
+
+Entre	O
+las	O
+pruebas	O
+complementarias	O
+realizadas	O
+durante	O
+su	O
+ingreso	O
+presenta	O
+ECG	O
+,	O
+bioquímica	O
+completa	O
+de	O
+sangre	O
+,	O
+hemograma	O
+,	O
+TSH	O
+y	O
+Cortisol	O
+8	O
+horas	O
+normales	O
+.	O

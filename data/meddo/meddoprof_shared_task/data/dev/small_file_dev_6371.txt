@@ -1,0 +1,19 @@
+
+A	O
+las	O
+48	O
+horas	O
+el	O
+paciente	O
+estaba	O
+afebril	O
+y	O
+en	O
+los	O
+días	O
+siguientes	O
+el	O
+cuadro	O
+desapareció	O
+progresivamente	O
+.	O

@@ -1,0 +1,10 @@
+
+Colocación	O
+de	O
+un	O
+torniquete	O
+y	O
+exploración	O
+quirúrgica	O
+urgente	O
+.	O

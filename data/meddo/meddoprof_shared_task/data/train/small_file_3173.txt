@@ -1,0 +1,16 @@
+
+Estaba	O
+convencido	O
+que	O
+una	O
+de	O
+sus	O
+hijas	O
+tenía	O
+un	O
+trastorno	O
+de	O
+la	O
+conducta	O
+alimentaria	O
+.	O

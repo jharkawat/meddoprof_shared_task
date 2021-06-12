@@ -1,0 +1,23 @@
+
+Se	O
+decide	O
+realizar	O
+embolización	O
+portal	O
+-	O
+hepática	O
+y	O
+posterior	O
+cirugía	O
+en	O
+julio	O
+de	O
+2017	O
+mediante	O
+hepatectomía	O
+parcial	O
+derecha	O
+y	O
+duodenopancreatectomía	O
+cefálica	O
+.	O

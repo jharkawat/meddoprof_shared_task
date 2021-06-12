@@ -1,0 +1,19 @@
+
+Los	O
+miembros	O
+inferiores	O
+no	O
+presentan	O
+edemas	O
+ni	O
+signos	O
+de	O
+trombosis	O
+venosa	O
+profunda	O
+,	O
+con	O
+pulsos	O
+periféricos	O
+simétricos	O
+.	O

@@ -1,0 +1,24 @@
+
+En	O
+mayo	O
+de	O
+2017	O
+y	O
+diciembre	O
+de	O
+2018	O
+,	O
+se	O
+repitió	O
+ecografía	O
+abdominal	O
+que	O
+no	O
+mostró	O
+cambios	O
+significativos	O
+respecto	O
+a	O
+estudio	O
+previo	O
+.	O

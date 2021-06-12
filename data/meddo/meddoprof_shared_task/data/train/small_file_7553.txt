@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+aseguraba	O
+que	O
+el	O
+cuadro	O
+le	O
+empeoraba	O
+al	O
+día	O
+siguiente	O
+de	O
+cada	O
+instilación	O
+.	O

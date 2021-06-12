@@ -1,0 +1,21 @@
+
+No	O
+se	O
+le	O
+tomó	O
+hisopado	O
+control	O
+hasta	O
+la	O
+fecha	O
+del	O
+presente	O
+reporte	O
+,	O
+completando	O
+21	O
+días	O
+de	O
+aislamiento	O
+domiciliario	O
+.	O

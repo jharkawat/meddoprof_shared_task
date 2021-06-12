@@ -1,0 +1,25 @@
+
+PACIENTE	O
+MUJER	O
+DE	O
+45	O
+AÑOS	O
+que	O
+acude	O
+a	O
+la	O
+consulta	O
+remitida	O
+por	O
+su	O
+dentista	B-PROFESION
+general	I-PROFESION
+para	O
+evaluar	O
+el	O
+estado	O
+periodontal	O
+de	O
+su	O
+boca	O
+.	O

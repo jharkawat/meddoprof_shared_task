@@ -1,0 +1,23 @@
+
+En	O
+los	O
+últimos	O
+meses	O
+refiere	O
+encontrarse	O
+constantemente	O
+preocupada	O
+y	O
+triste	O
+,	O
+con	O
+muchas	O
+ganas	O
+de	O
+llorar	O
+y	O
+con	O
+dificultad	O
+para	O
+dormir	O
+.	O

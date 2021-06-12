@@ -1,0 +1,15 @@
+
+Se	O
+solicita	O
+analítica	O
+con	O
+hemograma	O
+,	O
+hormonas	O
+tiroideas	O
+e	O
+inmunidad	O
+que	O
+resultó	O
+normal	O
+.	O

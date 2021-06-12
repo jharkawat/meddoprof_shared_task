@@ -1,0 +1,16 @@
+T1	PROFESION 5027 5041	administrativa
+T4	SITUACION_LABORAL 5055 5062	en paro
+T5	SITUACION_LABORAL 408 418	estudiante
+T6	PROFESION 2020 2030	profesores
+T7	SITUACION_LABORAL 295 302	Estudia
+T2	ACTIVIDAD 1242 1264	practica "kick boxing"
+T8	ACTIVIDAD 1167 1186	acude a un gimnasio
+T9	PROFESION 1312 1322	entrenador
+T10	ACTIVIDAD 1337 1347	compañeros
+T11	ACTIVIDAD 1632 1650	acudía al gimnasio
+T13	ACTIVIDAD 2415 2444	actividades delictivas (robos
+T14	ACTIVIDAD 2577 2587	compañeros
+T15	PROFESION 3097 3106	psicóloga
+T16	SITUACION_LABORAL 3107 3114	privada
+T3	PROFESION 4851 4873	técnico de una empresa
+T17	ACTIVIDAD 5945 5973	contacta con artes marciales

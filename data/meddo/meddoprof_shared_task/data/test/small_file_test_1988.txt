@@ -1,0 +1,19 @@
+
+Síndrome	O
+paraneoplásico	O
+neurológico	O
+por	O
+anticuerpos	O
+onconeuronales	O
+CV	O
+-	O
+2	O
+,	O
+sin	O
+hallar	O
+enfermedad	O
+neoplásica	O
+tras	O
+estudio	O
+exhaustivo	O
+.	O

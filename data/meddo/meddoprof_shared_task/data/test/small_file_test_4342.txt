@@ -1,0 +1,9 @@
+
+En	O
+ese	O
+momento	O
+la	O
+paciente	O
+estaba	O
+asintomática	O
+.	O

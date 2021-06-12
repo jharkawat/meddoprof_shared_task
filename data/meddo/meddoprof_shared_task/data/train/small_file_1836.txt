@@ -1,0 +1,15 @@
+
+Finalmente	O
+,	O
+la	O
+paciente	O
+sufrió	O
+úlcera	O
+duodenal	O
+a	O
+los	O
+35	O
+años	O
+de	O
+edad	O
+.	O

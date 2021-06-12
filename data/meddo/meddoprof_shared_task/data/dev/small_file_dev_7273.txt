@@ -1,0 +1,13 @@
+
+Tiene	O
+una	O
+prevalencia	O
+elevada	O
+en	O
+África	O
+tropical	O
+y	O
+el	O
+Sudeste	O
+asiático	O
+.	O

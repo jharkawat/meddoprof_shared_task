@@ -1,0 +1,21 @@
+
+Se	O
+reconocía	O
+consumidora	O
+de	O
+alcohol	O
+de	O
+forma	O
+social	O
+;	O
+sus	O
+familiares	O
+negaban	O
+tener	O
+conocimiento	O
+sobre	O
+consumo	O
+de	O
+otras	O
+sustancias	O
+.	O

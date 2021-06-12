@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+45	O
+años	O
+,	O
+no	O
+fumadora	O
+,	O
+sin	O
+historia	O
+médica	O
+relevante	O
+,	O
+que	O
+deseaba	O
+rehabilitar	O
+su	O
+dentición	O
+.	O

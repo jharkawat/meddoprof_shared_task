@@ -1,0 +1,13 @@
+
+Diagnóstico	O
+radiológico	O
+:	O
+adenopatía	O
+abscesificada	O
+,	O
+sin	O
+descartar	O
+otra	O
+patología	O
+subyacente	O
+.	O

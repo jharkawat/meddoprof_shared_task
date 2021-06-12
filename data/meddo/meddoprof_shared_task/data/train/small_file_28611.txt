@@ -1,0 +1,22 @@
+
+Para	O
+él	O
+,	O
+la	O
+enfermedad	O
+gástrica	O
+previa	O
+es	O
+una	O
+buena	O
+demostración	O
+de	O
+que	O
+su	O
+ideación	O
+delirante	O
+era	O
+y	O
+es	O
+real	O
+.	O

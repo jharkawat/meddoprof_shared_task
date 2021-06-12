@@ -1,0 +1,18 @@
+
+Se	O
+solicitó	O
+la	O
+realización	O
+de	O
+pruebas	O
+epicutáneas	O
+con	O
+Batería	O
+Standard	O
+con	O
+positividad	O
+a	O
+budesonida	O
+e	O
+hidrocortisona	O
+.	O

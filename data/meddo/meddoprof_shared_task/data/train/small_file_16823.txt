@@ -1,0 +1,15 @@
+
+Lupus	O
+eritematoso	O
+sistémico	O
+diagnosticado	O
+en	O
+el	O
+año	O
+1998	O
+tras	O
+un	O
+cuadro	O
+de	O
+poliartralgias	O
+.	O

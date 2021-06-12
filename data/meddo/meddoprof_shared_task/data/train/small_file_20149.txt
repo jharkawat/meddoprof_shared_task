@@ -1,0 +1,13 @@
+
+Dijo	O
+no	O
+tener	O
+antecedentes	O
+de	O
+abuso	O
+de	O
+alcohol	O
+u	O
+otras	O
+sustancias	O
+.	O

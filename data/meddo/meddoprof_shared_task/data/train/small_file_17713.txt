@@ -1,0 +1,10 @@
+
+No	O
+enfermedad	O
+cardiopulmonar	O
+,	O
+péptica	O
+ni	O
+renal	O
+conocida	O
+.	O

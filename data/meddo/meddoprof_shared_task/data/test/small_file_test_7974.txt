@@ -1,0 +1,17 @@
+
+No	O
+existe	O
+pérdida	O
+ponderal	O
+ni	O
+síndrome	O
+constitucional	O
+,	O
+con	O
+apetito	O
+conservado	O
+y	O
+hábito	O
+deposicional	O
+normal	O
+.	O

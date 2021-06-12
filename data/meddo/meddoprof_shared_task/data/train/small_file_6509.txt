@@ -1,0 +1,19 @@
+
+En	O
+la	O
+inmunofluorescencia	O
+directa	O
+se	O
+observó	O
+un	O
+depósito	O
+lineal	O
+de	O
+IgM	O
+y	O
+C3	O
+en	O
+la	O
+unión	O
+dermoepidérmica	O
+.	O

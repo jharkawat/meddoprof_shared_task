@@ -1,0 +1,11 @@
+
+Presentó	O
+episodios	O
+de	O
+cefalea	O
+que	O
+precisó	O
+analgesia	O
+de	O
+rescate	O
+.	O

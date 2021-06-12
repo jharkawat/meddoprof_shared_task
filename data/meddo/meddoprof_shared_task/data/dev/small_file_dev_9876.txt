@@ -1,0 +1,17 @@
+
+Estenosis	O
+aórtica	O
+leve	O
+con	O
+último	O
+estudio	O
+ecocardiográfico	O
+en	O
+octubre	O
+de	O
+2016	O
+:	O
+aorta	O
+ascendente	O
+normal	O
+.	O

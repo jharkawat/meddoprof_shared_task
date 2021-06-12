@@ -1,0 +1,5 @@
+
+Profesión	O
+:	O
+pescador	B-PROFESION
+.	O

@@ -1,0 +1,25 @@
+
+El	O
+estudio	O
+radiológico	O
+practicado	O
+,	O
+una	O
+cistouretrografía	O
+combinada	O
+,	O
+muestra	O
+una	O
+estenosis	O
+anular	O
+en	O
+la	O
+uretra	O
+bulbar	O
+con	O
+dilatación	O
+de	O
+la	O
+uretra	O
+proximal	O
+.	O

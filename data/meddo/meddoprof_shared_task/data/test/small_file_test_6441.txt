@@ -1,0 +1,14 @@
+
+-	O
+Biopsia	O
+con	O
+aguja	O
+gruesa	O
+(	O
+BAG	O
+)	O
+:	O
+carcinoma	O
+ductal	O
+infiltrante	O
+.	O

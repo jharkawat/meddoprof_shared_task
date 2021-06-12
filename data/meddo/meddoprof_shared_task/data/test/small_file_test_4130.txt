@@ -1,0 +1,16 @@
+
+Abdomen	O
+:	O
+no	O
+doloroso	O
+,	O
+no	O
+se	O
+palpan	O
+masas	O
+ni	O
+megalias	O
+,	O
+sin	O
+ascitis	O
+.	O

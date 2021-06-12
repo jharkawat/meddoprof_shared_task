@@ -1,0 +1,19 @@
+
+Además	O
+,	O
+se	O
+realizó	O
+una	O
+radiografía	O
+de	O
+tórax	O
+que	O
+mostró	O
+un	O
+patrón	O
+intersticial	O
+bilateral	O
+sugestivo	O
+de	O
+neumonía	O
+.	O

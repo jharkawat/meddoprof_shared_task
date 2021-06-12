@@ -1,0 +1,18 @@
+
+EEG	O
+(	O
+electroencefalograma	O
+)	O
+:	O
+Discreto	O
+enlentecimiento	O
+difuso	O
+,	O
+sin	O
+anomalías	O
+de	O
+carácter	O
+paroxístico	O
+o	O
+periódico	O
+.	O

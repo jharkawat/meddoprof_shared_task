@@ -1,0 +1,13 @@
+
+No	O
+se	O
+palpan	O
+adenopatías	O
+de	O
+significado	O
+patológico	O
+en	O
+ninguna	O
+estación	O
+linfática	O
+.	O

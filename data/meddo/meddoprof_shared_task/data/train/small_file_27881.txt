@@ -1,0 +1,24 @@
+
+Sólo	O
+acude	O
+a	O
+la	O
+primera	O
+consulta	O
+,	O
+solicitando	O
+la	O
+cita	O
+sucesiva	O
+más	O
+de	O
+medio	O
+año	O
+después	O
+por	O
+recomendaciones	O
+del	O
+servicio	O
+de	O
+ORL	O
+.	O

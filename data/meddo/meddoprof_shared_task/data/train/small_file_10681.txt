@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+es	O
+dada	O
+de	O
+alta	O
+con	O
+posología	O
+oral	O
+de	O
+45	O
+mg	O
+cada	O
+6	O
+horas	O
+vía	O
+oral	O
+.	O

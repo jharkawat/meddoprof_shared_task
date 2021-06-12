@@ -1,0 +1,6 @@
+
+Discurso	O
+fluido	O
+y	O
+coherente	O
+.	O

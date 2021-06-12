@@ -1,0 +1,17 @@
+
+No	O
+se	O
+palpan	O
+adenopatías	O
+cervicales	O
+,	O
+supraclaviculares	O
+o	O
+axilares	O
+,	O
+no	O
+se	O
+auscultan	O
+soplos	O
+carotideos	O
+.	O

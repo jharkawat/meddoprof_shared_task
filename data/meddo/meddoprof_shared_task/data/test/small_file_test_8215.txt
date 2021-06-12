@@ -1,0 +1,20 @@
+
+Mujer	O
+de	O
+54	O
+años	O
+de	O
+edad	O
+nunca	O
+fumadora	O
+y	O
+sin	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+ni	O
+familiares	O
+de	O
+cáncer	O
+.	O

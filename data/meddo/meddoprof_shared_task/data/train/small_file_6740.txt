@@ -1,0 +1,12 @@
+
+Loxoscelismo	O
+cutáneo	O
+por	O
+mordedura	O
+de	O
+araña	O
+del	O
+género	O
+Loxosceles	O
+rufescens	O
+.	O

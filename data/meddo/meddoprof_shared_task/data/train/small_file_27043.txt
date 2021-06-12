@@ -1,0 +1,7 @@
+
+No	O
+ideación	O
+ni	O
+planificación	O
+suicida	O
+.	O

@@ -1,0 +1,7 @@
+
+Rx	O
+sacroiliaacas	O
+:	O
+esclerosis	O
+subcondral	O
+.	O

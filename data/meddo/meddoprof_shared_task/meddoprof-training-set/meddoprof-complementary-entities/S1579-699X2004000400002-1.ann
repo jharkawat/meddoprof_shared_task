@@ -1,0 +1,96 @@
+T1	SINTOMA 619 629	embarazada
+T2	SINTOMA 1033 1081	niveles elevados de los metabolitos del estireno
+T3	SINTOMA 1502 1509	vértigo
+T4	SINTOMA 1511 1520	temblores
+T5	SINTOMA 1522 1542	debilidad de piernas
+T6	SINTOMA 1545 1556	parestesias
+T7	SINTOMA 1740 1755	dolor de cabeza
+T8	SINTOMA 1761 1768	vértigo
+T9	SINTOMA 2300 2311	desempleada
+T10	SINTOMA 2390 2409	ansiedad fluctuante
+T11	SINTOMA 2652 2659	vértigo
+T12	SINTOMA 2661 2688	tensión psíquica y somática
+T13	SINTOMA 2690 2701	parestesias
+T14	SINTOMA 2703 2727	debilidad en las piernas
+T15	SINTOMA 3186 3199	palpitaciones
+T16	SINTOMA 3202 3209	temblor
+T17	SINTOMA 3304 3324	molestias pectorales
+T18	SINTOMA 4007 4022	dolor emocional
+T19	SINTOMA 4024 4036	somatización
+T20	SINTOMA 4038 4049	inseguridad
+T21	SINTOMA 4052 4067	humor depresivo
+T22	SINTOMA 4250 4262	neuroticismo
+T23	SINTOMA 5046 5062	gpozzi@gmail.com
+T24	PROCEDIMIENTO 1000 1017	análisis de orina
+T25	PROCEDIMIENTO 1862 1885	fármacos antidepresivos
+T26	PROCEDIMIENTO 2790 2817	tratamientos antidepresivos
+T27	PROCEDIMIENTO 2892 2913	fármacos ansiolíticos
+T28	PROCEDIMIENTO 2943 2980	Evaluación psiquiátrica y psicológica
+T29	PROCEDIMIENTO 3410 3427	test de Rorschach
+T30	PROCEDIMIENTO 4207 4229	valoración psicológica
+T31	PROCEDIMIENTO 4338 4379	resonancia magnética (RM) axial y coronal
+T32	PROCEDIMIENTO 4395 4417	inyección de contraste
+T33	PROCEDIMIENTO 4477 4479	RM
+T34	NEG 1185 1187	no
+T35	NSCO 1188 1210	sólo habían persistido
+T36	NEG 2761 2763	no
+T37	NSCO 2764 2817	estaba satisfecha con los tratamientos antidepresivos
+T38	UNC 3862 3869	posible
+T39	USCO 3870 3956	daño orgánico, la pérdida de la capacidad de concentración puede deberse a la ansiedad
+T40	UNC 4135 4143	posibles
+T41	USCO 4144 4190	signos orgánicos estaban por debajo del umbral
+T42	NEG 4269 4271	no
+T43	NSCO 4272 4294	demostró daño cerebral
+T44	NEG 4822 4824	no
+T45	NSCO 4825 4937	se observaron señales de alteraciones de la intensidad intraparenquimatosa ni áreas intracraneales de hiperseñal
+T46	NEG 4966 4968	no
+T47	NSCO 4969 4994	había alteración cerebral
+T48	FARMACO 2843 2854	maprotilina
+T49	FARMACO 2861 2871	paroxetina
+T50	FARMACO 2930 2940	alprazolam
+T51	FARMACO 4425 4440	gadolinium-DTPA
+T52	ORG_VIVO 10 18	paciente
+T53	ORG_VIVO 368 376	paciente
+T54	ORG_VIVO 416 421	mujer
+T55	ORG_VIVO 693 701	paciente
+T56	ORG_VIVO 880 888	paciente
+T57	ORG_VIVO 907 913	médico
+T58	ORG_VIVO 1105 1113	paciente
+T59	ORG_VIVO 1426 1434	paciente
+T60	ORG_VIVO 2022 2030	paciente
+T61	ORG_VIVO 2284 2292	paciente
+T62	ORG_VIVO 2329 2335	marido
+T63	ORG_VIVO 2350 2354	hijo
+T64	ORG_VIVO 2372 2377	madre
+T65	ORG_VIVO 2506 2514	paciente
+T66	ORG_VIVO 2752 2760	paciente
+T67	ORG_VIVO 3062 3070	paciente
+T68	ORG_VIVO 3265 3273	paciente
+T69	ORG_VIVO 3634 3642	paciente
+T70	ORG_VIVO 4483 4490	sujetos
+T71	ORG_VIVO 4813 4821	paciente
+T72	ENFERMEDAD 1165 1184	conductas adictivas
+T73	ENFERMEDAD 1346 1354	ansiedad
+T74	ENFERMEDAD 1582 1590	ansiedad
+T75	ENFERMEDAD 1920 1938	trastorno afectivo
+T76	ENFERMEDAD 1967 1975	ansiedad
+T77	ENFERMEDAD 1995 2005	agorafobia
+T78	ENFERMEDAD 2038 2053	úlcera duodenal
+T79	ENFERMEDAD 2192 2200	ansiedad
+T80	ENFERMEDAD 2390 2398	ansiedad
+T81	ENFERMEDAD 2467 2486	abuso de inhalantes
+T82	ENFERMEDAD 2587 2606	trastornos mentales
+T83	ENFERMEDAD 2737 2747	agorafobia
+T84	ENFERMEDAD 3135 3143	ansiedad
+T85	ENFERMEDAD 3870 3883	daño orgánico
+T86	ENFERMEDAD 3948 3956	ansiedad
+T87	ENFERMEDAD 4281 4294	daño cerebral
+T88	ENFERMEDAD 4550 4566	atrofia cerebral
+T89	SANITARIO-PROFESION 297 303	Médico
+T90	SANITARIO-PROFESION 907 927	médico de la empresa
+T91	PACIENTE-PROFESION 485 494	soldadora
+T92	PACIENTE-SITUACION_LABORAL 590 608	empezar a trabajar
+T93	PACIENTE-SITUACION_LABORAL 639 646	de baja
+T94	PACIENTE-SITUACION_LABORAL 1114 1146	decidió despedirse de la fábrica
+T95	PACIENTE-SITUACION_LABORAL 2300 2311	desempleada
+T96	SANITARIO-PROFESION 5010 5014	Dra.

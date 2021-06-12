@@ -1,0 +1,9 @@
+
+Sin	O
+antecedentes	O
+de	O
+neoplasia	O
+en	O
+su	O
+familia	O
+.	O

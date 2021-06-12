@@ -1,0 +1,11 @@
+
+Por	O
+electroforesis	O
+de	O
+campo	O
+pulsado	O
+tenía	O
+un	O
+perfil	O
+comunitario	O
+.	O

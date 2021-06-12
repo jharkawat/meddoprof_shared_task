@@ -1,0 +1,25 @@
+
+Tras	O
+completar	O
+una	O
+semana	O
+con	O
+tratamiento	O
+empírico	O
+con	O
+Doxiciclina	O
+,	O
+Aciclovir	O
+y	O
+cuatro	O
+días	O
+con	O
+Piperacilina	O
+-	O
+Tazobactam	O
+,	O
+la	O
+paciente	O
+mejoró	O
+clínicamente	O
+.	O

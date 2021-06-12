@@ -1,0 +1,18 @@
+
+El	O
+trazado	O
+de	O
+electrocardiograma	O
+obtenido	O
+estaba	O
+en	O
+ritmo	O
+sinusal	O
+y	O
+no	O
+presentaba	O
+alteraciones	O
+de	O
+la	O
+repolarización	O
+.	O

@@ -1,0 +1,12 @@
+
+No	O
+se	O
+registraron	O
+incidencias	O
+quirúrgicas	O
+o	O
+anestésicas	O
+durante	O
+la	O
+intervención	O
+.	O

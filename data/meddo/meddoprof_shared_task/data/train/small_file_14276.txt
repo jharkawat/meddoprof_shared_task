@@ -1,0 +1,24 @@
+
+Estudiado	O
+por	O
+médico	B-PROFESION
+particular	O
+debido	O
+a	O
+que	O
+en	O
+uno	O
+de	O
+los	O
+episodios	O
+requirió	O
+de	O
+ingreso	O
+en	O
+UCI	O
+por	O
+hiperCKemia	O
+con	O
+fracaso	O
+renal	O
+.	O

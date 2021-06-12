@@ -1,0 +1,23 @@
+
+Se	O
+realiza	O
+nueva	O
+ecocardiografía	O
+que	O
+muestra	O
+mejoría	O
+de	O
+la	O
+función	O
+ventricular	O
+y	O
+persistencia	O
+de	O
+derrame	O
+pleural	O
+bilateral	O
+siendo	O
+severo	O
+el	O
+derecho	O
+.	O

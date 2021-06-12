@@ -1,0 +1,24 @@
+
+Positividad	O
+para	O
+el	O
+hierro	O
+,	O
+proliferación	O
+de	O
+células	O
+histiocitarias	O
+con	O
+núcleos	O
+ovoides	O
+y	O
+a	O
+veces	O
+lobulada	O
+que	O
+se	O
+acompañan	O
+de	O
+escasos	O
+eosinófilos	O
+.	O

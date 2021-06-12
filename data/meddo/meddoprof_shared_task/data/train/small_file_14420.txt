@@ -1,0 +1,7 @@
+
+MVC	O
+,	O
+sin	O
+ruidos	O
+sobreañadidos	O
+.	O

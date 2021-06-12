@@ -1,0 +1,7 @@
+
+Hepatomegalia	O
+con	O
+perfil	O
+férrico	O
+elevado	O
+.	O

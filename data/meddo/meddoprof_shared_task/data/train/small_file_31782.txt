@@ -1,0 +1,14 @@
+
+En	O
+columna	O
+dorso	O
+lumbar	O
+no	O
+se	O
+visualizan	O
+trazos	O
+de	O
+fractura	O
+.	O
+Analítica	O
+.	O

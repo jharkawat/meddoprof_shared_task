@@ -1,0 +1,24 @@
+
+Se	O
+le	O
+dan	O
+progresivos	O
+permisos	O
+para	O
+pasar	O
+el	O
+día	O
+/	O
+fin	O
+de	O
+semana	O
+con	O
+su	O
+familia	O
+,	O
+que	O
+transcurren	O
+sin	O
+incidencias	O
+reseñables	O
+.	O

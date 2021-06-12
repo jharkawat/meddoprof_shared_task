@@ -1,0 +1,16 @@
+
+Anestesia	O
+desde	O
+rodillas	O
+a	O
+distal	O
+,	O
+parestesias	O
+desde	O
+rodillas	O
+a	O
+distal	O
+y	O
+en	O
+guante	O
+.	O

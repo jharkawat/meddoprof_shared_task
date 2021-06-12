@@ -1,0 +1,10 @@
+
+Paraparesia	O
+bilateral	O
+4	O
+/	O
+5	O
+de	O
+predominio	O
+proximal	O
+.	O

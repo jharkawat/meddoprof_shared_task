@@ -1,0 +1,7 @@
+
+Aspirina	O
+100	O
+mg	O
+/	O
+día	O
+.	O

@@ -1,0 +1,14 @@
+
+Está	O
+bien	O
+hidratado	O
+y	O
+perfundido	O
+y	O
+parece	O
+gozar	O
+actualmente	O
+de	O
+buena	O
+alimentación	O
+.	O

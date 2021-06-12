@@ -1,0 +1,18 @@
+
+Al	O
+no	O
+haber	O
+presentado	O
+fiebre	O
+,	O
+no	O
+se	O
+procedió	O
+al	O
+cultivo	O
+de	O
+la	O
+punta	O
+del	O
+catéter	O
+.	O

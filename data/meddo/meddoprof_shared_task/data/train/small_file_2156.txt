@@ -1,0 +1,25 @@
+
+El	O
+paciente	O
+ingresó	O
+estable	O
+y	O
+con	O
+buen	O
+control	O
+del	O
+dolor	O
+en	O
+la	O
+unidad	O
+de	O
+cuidados	O
+intensivos	O
+y	O
+posteriormente	O
+pasó	O
+a	O
+sala	O
+de	O
+hospitalización	O
+.	O

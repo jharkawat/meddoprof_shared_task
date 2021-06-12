@@ -1,0 +1,17 @@
+
+Fue	O
+un	O
+niño	O
+pasivo	O
+con	O
+escasa	O
+respuesta	O
+a	O
+estímulos	O
+,	O
+retraído	O
+,	O
+tímido	O
+y	O
+solitario	O
+.	O

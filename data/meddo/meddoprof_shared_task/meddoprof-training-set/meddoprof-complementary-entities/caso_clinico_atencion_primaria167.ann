@@ -1,0 +1,113 @@
+T1	SINTOMA 929 934	dolor
+T2	SINTOMA 992 1002	Consciente
+T3	SINTOMA 1004 1013	orientado
+T4	SINTOMA 1016 1027	colaborador
+T5	SINTOMA 1058 1072	Normocoloreado
+T6	SINTOMA 1074 1082	Eupneico
+T7	SINTOMA 1105 1112	Afebril
+T8	SINTOMA 1238 1243	dolor
+T9	SINTOMA 1326 1393	Murmullo vesicular conservado con ruidos transmitidos de vías altas
+T10	SINTOMA 1422 1512	Abdomen globuloso, blando y depresible, ligeramente doloroso a la palpación en hipogastrio
+T11	SINTOMA 1545 1556	peritonismo
+T12	SINTOMA 1626 1632	edemas
+T13	SINTOMA 2141 2147	piuria
+T14	SINTOMA 2504 2525	Catarro de vías altas
+T15	SINTOMA 2835 2841	fiebre
+T16	SINTOMA 2924 2930	fiebre
+T17	SINTOMA 3274 3318	condensación en tercio superior de hemitórax
+T18	SINTOMA 3578 3624	disminución progresiva del nivel de conciencia
+T19	SINTOMA 3627 3659	aumento del trabajo respiratorio
+T20	SINTOMA 3729 3737	falleció
+T21	SINTOMA 3920 3928	malestar
+T22	PROCEDIMIENTO 45 54	anamnesis
+T23	PROCEDIMIENTO 150 155	AINEs
+T24	PROCEDIMIENTO 534 537	RTU
+T25	PROCEDIMIENTO 563 589	sondaje vesical permanente
+T26	PROCEDIMIENTO 937 955	Exploración física
+T27	PROCEDIMIENTO 1245 1277	Auscultación cardio-respiratoria
+T28	PROCEDIMIENTO 2183 2200	ciclo antibiótico
+T29	PROCEDIMIENTO 3231 3251	radiografía de tórax
+T30	PROCEDIMIENTO 3331 3343	PCR de gripe
+T31	UNC 121 128	Posible
+T32	USCO 129 148	alergia a metamizol
+T33	NEG 170 172	no
+T34	NSCO 173 185	documentadas
+T35	NEG 685 688	sin
+T36	NSCO 689 696	interés
+T37	NEG 1105 1112	Afebril
+T38	NEG 1295 1298	sin
+T39	NSCO 1299 1324	soplos a buena frecuencia
+T40	NEG 1395 1398	sin
+T41	NSCO 1399 1420	otros ruidos audibles
+T42	NEG 1514 1517	sin
+T43	NSCO 1518 1556	defensa ni otros signos de peritonismo
+T44	NEG 1558 1560	No
+T45	NSCO 1561 1588	se palpan masas ni megalias
+T46	NEG 1590 1592	No
+T47	NSCO 1593 1600	ascitis
+T48	NEG 1622 1625	sin
+T49	NSCO 1626 1671	edemas ni signos de trombosis venosa profunda
+T50	NEG 1808 1810	no
+T51	NSCO 1811 1863	hay acuerdo con respecto a los cuidados del paciente
+T52	NEG 1872 1874	no
+T53	NSCO 1875 1941	todos han asimilado de igual manera el pronóstico de su enfermedad
+T54	NEG 2734 2742	falta de
+T55	NSCO 2743 2750	mejoría
+T56	NEG 2774 2776	no
+T57	NSCO 2777 2823	encontramos cambios con respecto al día previo
+T58	NEG 2831 2834	sin
+T59	NSCO 2835 2841	fiebre
+T60	NEG 3348 3356	negativa
+T61	NEG 3855 3857	no
+T62	NSCO 3858 3895	habernos dado cuenta antes del cuadro
+T63	NEG 4008 4010	no
+T64	NSCO 4011 4035	pudimos evitar quedarnos
+T65	FARMACO 139 148	metamizol
+T66	FARMACO 158 169	clavulánico
+T67	FARMACO 295 305	amlodipino
+T68	FARMACO 308 318	furosemida
+T69	FARMACO 722 731	Omeprazol
+T70	FARMACO 752 762	Furosemida
+T71	FARMACO 783 793	Amlodipino
+T72	FARMACO 836 846	Budesonida
+T73	FARMACO 862 870	Diazepam
+T74	FARMACO 892 900	Tramadol
+T75	FARMACO 901 912	paracetamol
+T76	FARMACO 2569 2583	acetilcisteína
+T77	FARMACO 2586 2597	paracetamol
+T78	ORG_VIVO 107 117	personales
+T79	ORG_VIVO 674 684	familiares
+T80	ORG_VIVO 1682 1690	Familiar
+T81	ORG_VIVO 1708 1716	paciente
+T82	ORG_VIVO 1730 1739	cuidadora
+T83	ORG_VIVO 1750 1755	hijos
+T84	ORG_VIVO 1802 1807	hijos
+T85	ORG_VIVO 1855 1863	paciente
+T86	ORG_VIVO 2242 2250	paciente
+T87	ORG_VIVO 2368 2375	familia
+T88	ORG_VIVO 2432 2440	paciente
+T89	ORG_VIVO 2657 2665	paciente
+T90	ORG_VIVO 2711 2716	hijas
+T91	ORG_VIVO 2903 2911	paciente
+T92	ORG_VIVO 2936 2943	familia
+T93	ORG_VIVO 3362 3373	influenza A
+T94	ORG_VIVO 3374 3378	y B.
+T95	ORG_VIVO 3401 3409	paciente
+T96	ORG_VIVO 3675 3682	familia
+T97	ORG_VIVO 3767 3772	hijas
+T98	ORG_VIVO 4132 4140	paciente
+T99	ENFERMEDAD 129 148	alergia a metamizol
+T100	ENFERMEDAD 206 215	Exfumador
+T101	ENFERMEDAD 272 275	HTA
+T102	ENFERMEDAD 322 347	EPOC estadío B de la GOLD
+T103	ENFERMEDAD 351 385	Enfermedad renal crónica estadío 4
+T104	ENFERMEDAD 389 407	Carcinoma de colon
+T105	ENFERMEDAD 458 511	Carcinoma urotelial papilar de alto grado infiltrante
+T106	ENFERMEDAD 616 631	sepsis urinaria
+T107	ENFERMEDAD 633 658	Recidiva local neoplásica
+T108	ENFERMEDAD 1593 1600	ascitis
+T109	ENFERMEDAD 1646 1671	trombosis venosa profunda
+T110	ENFERMEDAD 1981 2006	sepsis de origen urinaria
+T111	ENFERMEDAD 2504 2525	Catarro de vías altas
+T112	ENFERMEDAD 3434 3468	Neumonía adquirida en la comunidad
+T113	OTROS-PROFESION 1730 1739	cuidadora

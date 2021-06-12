@@ -1,0 +1,20 @@
+
+En	O
+el	O
+fondo	O
+de	O
+ojo	O
+izquierdo	O
+presentaba	O
+exudados	O
+subretinianos	O
+masivos	O
+afectando	O
+a	O
+la	O
+retina	O
+nasal	O
+y	O
+temporal	O
+superior	O
+.	O

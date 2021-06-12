@@ -1,0 +1,12 @@
+
+»	O
+Carcinoma	O
+de	O
+células	O
+pequeñas	O
+,	O
+compatible	O
+con	O
+primario	O
+pulmonar	O
+.	O

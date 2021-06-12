@@ -1,0 +1,6 @@
+
+Las	O
+manos	O
+están	O
+heladas	O
+.	O

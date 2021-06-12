@@ -1,0 +1,24 @@
+
+Antecedentes	O
+psiquiátricos	O
+:	O
+a	O
+los	O
+17	O
+años	O
+se	O
+produce	O
+derivación	O
+a	O
+Psicología	O
+Infanto	O
+-	O
+Juvenil	O
+por	O
+parte	O
+de	O
+educadora	B-PROFESION
+social	I-PROFESION
+de	O
+zona	O
+.	O

@@ -1,0 +1,9 @@
+
+Iniciamos	O
+tratamiento	O
+con	O
+silodosina	O
+8	O
+mg	O
+diarios	O
+.	O

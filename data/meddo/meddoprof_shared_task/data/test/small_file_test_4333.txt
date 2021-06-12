@@ -1,0 +1,14 @@
+
+Anticuerpos	O
+anti	O
+Ro	O
++	O
+y	O
+ANA	O
+positivos	O
+(	O
+1	O
+/	O
+160	O
+)	O
+.	O

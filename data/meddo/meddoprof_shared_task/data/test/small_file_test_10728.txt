@@ -1,0 +1,10 @@
+
+No	O
+refiere	O
+antecedentes	O
+médicos	O
+ni	O
+quirurgicos	O
+de	O
+relevancia	O
+.	O

@@ -1,0 +1,18 @@
+
+El	O
+hueso	O
+cortical	O
+se	O
+adelgaza	O
+con	O
+un	O
+festoneado	O
+,	O
+patrón	O
+ondulado	O
+debido	O
+a	O
+la	O
+erosión	O
+endóstica	O
+.	O

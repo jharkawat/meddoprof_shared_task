@@ -1,0 +1,17 @@
+
+Además	O
+,	O
+presenta	O
+una	O
+lesión	O
+eritematosa	O
+tipo	O
+pápula	O
+en	O
+cara	O
+interna	O
+de	O
+la	O
+rodilla	O
+izquierda	O
+.	O

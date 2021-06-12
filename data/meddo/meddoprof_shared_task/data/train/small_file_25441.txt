@@ -1,0 +1,16 @@
+
+Tiene	O
+un	O
+hijo	O
+,	O
+que	O
+estuvo	O
+tutelado	O
+y	O
+con	O
+el	O
+que	O
+no	O
+mantiene	O
+relación	O
+.	O

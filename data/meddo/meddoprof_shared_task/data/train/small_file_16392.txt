@@ -1,0 +1,10 @@
+
+Asociación	O
+de	O
+tabaquismo	O
+y	O
+etilismo	O
+como	O
+diagnósticos	O
+secundarios	O
+.	O

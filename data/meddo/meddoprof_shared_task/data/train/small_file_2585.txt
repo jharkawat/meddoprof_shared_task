@@ -1,0 +1,16 @@
+
+El	O
+estudio	O
+de	O
+extensión	O
+de	O
+infección	O
+por	O
+BCG	O
+es	O
+negativo	O
+,	O
+orientándose	O
+como	O
+BCGitis	O
+.	O

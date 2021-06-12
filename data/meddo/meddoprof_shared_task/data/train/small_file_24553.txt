@@ -1,0 +1,27 @@
+
+Hacía	O
+tres	O
+semanas	O
+,	O
+cumplió	O
+su	O
+contrato	O
+de	O
+trabajo	O
+como	O
+limpiadora	B-PROFESION
+,	O
+por	O
+lo	O
+que	O
+gran	O
+parte	O
+del	O
+día	O
+se	B-SITUACION_LABORAL
+dedicaba	I-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+tareas	I-SITUACION_LABORAL
+del	I-SITUACION_LABORAL
+hogar	I-SITUACION_LABORAL
+.	O

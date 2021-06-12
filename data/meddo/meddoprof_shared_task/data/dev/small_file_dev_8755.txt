@@ -1,0 +1,19 @@
+
+Se	O
+solicitó	O
+la	O
+realización	O
+de	O
+una	O
+fibrobroncoscopia	O
+,	O
+demostrándose	O
+la	O
+presencia	O
+de	O
+Mycobacterium	O
+tuberculosis	O
+en	O
+el	O
+broncoaspirado	O
+.	O

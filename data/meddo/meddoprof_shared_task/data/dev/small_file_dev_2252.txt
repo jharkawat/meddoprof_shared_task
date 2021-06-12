@@ -1,0 +1,10 @@
+
+Principal	O
+:	O
+esquizofrenia	O
+paranoide	O
+episódica	O
+con	O
+defecto	O
+progresivo	O
+.	O

@@ -1,0 +1,20 @@
+
+Se	O
+instaura	O
+tratamiento	O
+con	O
+corticoides	O
+en	O
+dosis	O
+de	O
+1	O
+mg	O
+de	O
+prednisona	O
+por	O
+kilogramo	O
+de	O
+peso	O
+al	O
+día	O
+.	O

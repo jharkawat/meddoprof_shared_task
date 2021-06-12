@@ -1,0 +1,23 @@
+
+Tumefacción	O
+en	O
+región	O
+de	O
+aductores	O
+e	O
+iliacos	O
+con	O
+induración	O
+dolorosa	O
+a	O
+la	O
+palpación	O
+y	O
+limitación	O
+de	O
+la	O
+flexión	O
+en	O
+ambas	O
+extremidades	O
+.	O

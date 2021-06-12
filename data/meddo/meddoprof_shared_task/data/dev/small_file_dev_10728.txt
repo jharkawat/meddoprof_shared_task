@@ -1,0 +1,13 @@
+
+Actualmente	O
+presenta	O
+enfermedad	O
+en	O
+progresión	O
+a	O
+pesar	O
+del	O
+tratamiento	O
+quimioterápico	O
+administrado	O
+.	O

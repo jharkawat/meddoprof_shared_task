@@ -1,0 +1,26 @@
+
+El	O
+día	O
+8	O
+tras	O
+tratamiento	O
+,	O
+la	O
+paciente	O
+ya	O
+no	O
+sufría	O
+disnea	O
+y	O
+se	O
+la	O
+dio	O
+de	O
+alta	O
+con	O
+una	O
+pauta	O
+decreciente	O
+de	O
+esteroides	O
+.	O

@@ -1,0 +1,11 @@
+
+RADIOGRAFÍA	O
+DE	O
+TÓRAX	O
+:	O
+cardiomegalia	O
+y	O
+datos	O
+de	O
+ICC	O
+.	O

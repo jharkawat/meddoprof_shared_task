@@ -1,0 +1,8 @@
+
+Estaba	O
+desorientado	O
+en	O
+tiempo	O
+y	O
+lugar	O
+.	O

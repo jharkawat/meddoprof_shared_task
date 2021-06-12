@@ -1,0 +1,21 @@
+
+Tras	O
+empeoramiento	O
+respiratorio	O
+precisó	O
+de	O
+ayuda	O
+con	O
+ventilación	O
+mecánica	O
+,	O
+aplicación	O
+de	O
+amplia	O
+cobertura	O
+antibiótica	O
+,	O
+sedación	O
+y	O
+analgesia	O
+.	O

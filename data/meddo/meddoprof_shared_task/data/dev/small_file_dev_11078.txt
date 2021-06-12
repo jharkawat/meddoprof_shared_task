@@ -1,0 +1,9 @@
+
+Trastornos	O
+digestivos	O
+(	O
+náuseas	O
+,	O
+vómitos	O
+)	O
+.	O

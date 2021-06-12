@@ -1,0 +1,4 @@
+
+QRS	O
+estrecho	O
+.	O

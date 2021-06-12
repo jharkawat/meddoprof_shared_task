@@ -1,0 +1,14 @@
+
+Tras	O
+48	O
+horas	O
+de	O
+incubación	O
+se	O
+recibieron	O
+resultados	O
+de	O
+pruebas	O
+complementarias	O
+microbiológicas	O
+.	O

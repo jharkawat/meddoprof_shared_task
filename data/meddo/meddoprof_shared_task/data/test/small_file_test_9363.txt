@@ -1,0 +1,6 @@
+
+Permanece	O
+eupneica	O
+en	O
+reposo	O
+.	O

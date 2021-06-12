@@ -1,0 +1,11 @@
+
+TC	O
+toracoabdominal	O
+18	O
+/	O
+03	O
+/	O
+16	O
+:	O
+normal	O
+.	O

@@ -1,0 +1,27 @@
+
+El	O
+paciente	O
+se	O
+encuentra	O
+recién	O
+llegado	O
+de	O
+San	O
+Martín	O
+de	O
+los	O
+Andes	O
+,	O
+vino	O
+a	O
+visitar	O
+a	O
+familiares	O
+para	O
+las	O
+fiestas	O
+de	O
+fin	O
+de	O
+año	O
+.	O

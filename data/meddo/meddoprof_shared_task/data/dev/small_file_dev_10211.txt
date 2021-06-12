@@ -1,0 +1,22 @@
+
+En	O
+una	O
+pequeña	O
+casa	O
+vivían	O
+sus	O
+padres	O
+,	O
+su	O
+abuela	O
+materna	O
+,	O
+sus	O
+tres	O
+hermanos	O
+mayores	O
+y	O
+sus	O
+respectivas	O
+esposas	O
+.	O

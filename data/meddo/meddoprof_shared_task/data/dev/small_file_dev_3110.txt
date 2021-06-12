@@ -1,0 +1,6 @@
+
+Fondo	O
+de	O
+ojo	O
+normal	O
+.	O

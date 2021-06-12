@@ -1,0 +1,8 @@
+
+-	O
+Enfermedad	O
+de	O
+Parkinson	O
+/	O
+Demencia	O
+.	O

@@ -1,0 +1,12 @@
+
+No	O
+detectan	O
+desencadenante	O
+claro	O
+previo	O
+al	O
+inicio	O
+del	O
+cuadro	O
+clínico	O
+.	O

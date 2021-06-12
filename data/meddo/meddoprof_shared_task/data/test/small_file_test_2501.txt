@@ -1,0 +1,24 @@
+
+Se	O
+describe	O
+el	O
+caso	O
+de	O
+una	O
+mujer	O
+de	O
+57	O
+años	O
+,	O
+de	O
+nivel	O
+sociocultural	O
+alto	O
+,	O
+sin	O
+antecedentes	O
+médicos	O
+de	O
+interés	O
+previos	O
+.	O

@@ -1,0 +1,13 @@
+
+PRUEBAS	O
+DE	O
+IMAGEN	O
+:	O
+Rx	O
+de	O
+tórax	O
+:	O
+sin	O
+hallazgos	O
+patológicos	O
+.	O

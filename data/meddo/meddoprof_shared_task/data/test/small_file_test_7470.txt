@@ -1,0 +1,11 @@
+
+Se	O
+realizó	O
+amigdalectomía	O
+e	O
+histerectomía	O
+total	O
+por	O
+útero	O
+miomatoso	O
+.	O

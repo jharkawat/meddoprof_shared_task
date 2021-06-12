@@ -1,0 +1,27 @@
+
+Mujer	O
+de	O
+54	O
+años	O
+,	O
+dueña	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+,	O
+profesional	O
+,	O
+con	O
+antecedente	O
+de	O
+un	O
+trastorno	O
+del	O
+ánimo	O
+en	O
+el	O
+contexto	O
+de	O
+una	O
+separación	O
+conyugal	O
+.	O

@@ -1,0 +1,8 @@
+
+El	O
+paciente	O
+falleció	O
+4	O
+días	O
+después	O
+.	O

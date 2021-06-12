@@ -1,0 +1,16 @@
+
+Incremento	O
+de	O
+la	O
+dosificación	O
+inicial	O
+de	O
+12	O
+,	O
+5	O
+mg	O
+semanal	O
+hasta	O
+50	O
+mg	O
+.	O

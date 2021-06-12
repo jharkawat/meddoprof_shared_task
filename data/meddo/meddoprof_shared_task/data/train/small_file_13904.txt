@@ -1,0 +1,10 @@
+
+Al	O
+ingreso	O
+se	O
+inició	O
+tratamiento	O
+empírico	O
+con	O
+doxiciclina	O
+.	O

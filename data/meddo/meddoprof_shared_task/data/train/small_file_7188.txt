@@ -1,0 +1,10 @@
+
+No	O
+presenta	O
+afectación	O
+facial	O
+,	O
+palmar	O
+ni	O
+plantar	O
+.	O

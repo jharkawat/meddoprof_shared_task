@@ -1,0 +1,10 @@
+
+CORONARIOGRAFÍA	O
+:	O
+tronco	O
+coronario	O
+izquierdo	O
+:	O
+sin	O
+estenosis	O
+.	O

@@ -1,0 +1,7 @@
+
+»	O
+No	O
+toma	O
+medicación	O
+domiciliaria	O
+.	O

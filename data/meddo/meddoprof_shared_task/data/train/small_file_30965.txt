@@ -1,0 +1,25 @@
+
+Antecedentes	O
+familiares	O
+:	O
+varios	O
+familiares	O
+por	O
+línea	O
+paterna	O
+diagnosticados	O
+de	O
+cuadros	O
+psicóticos	O
+(	O
+bisabuela	O
+,	O
+tía	O
+abuela	O
+y	O
+dos	O
+primos	O
+del	O
+padre	O
+)	O
+.	O

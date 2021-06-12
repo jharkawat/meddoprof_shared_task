@@ -1,0 +1,16 @@
+
+Se	O
+descartó	O
+mediante	O
+RMN	O
+y	O
+punción	O
+lumbar	O
+,	O
+la	O
+afectación	O
+metastásica	O
+cerebral	O
+y	O
+meníngea	O
+.	O

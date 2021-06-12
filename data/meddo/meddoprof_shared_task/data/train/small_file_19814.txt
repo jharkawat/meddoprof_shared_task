@@ -1,0 +1,7 @@
+
+Hipotimia	O
+subjetiva	O
+con	O
+labilidad	O
+emocional	O
+.	O

@@ -1,0 +1,11 @@
+
+Miedo	O
+excesivo	O
+en	O
+los	O
+espacios	O
+abiertos	O
+o	O
+en	O
+cines	O
+.	O

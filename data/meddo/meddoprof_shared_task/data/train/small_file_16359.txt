@@ -1,0 +1,12 @@
+
+No	O
+refiere	O
+la	O
+toma	O
+de	O
+tratamientos	O
+farmacológicos	O
+de	O
+forma	O
+habitual	O
+.	O

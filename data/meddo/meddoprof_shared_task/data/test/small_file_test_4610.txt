@@ -1,0 +1,20 @@
+
+Fibrolaringoscopia	O
+:	O
+tumoración	O
+faríngea	O
+parcialmente	O
+ulcerada	O
+que	O
+ocupa	O
+la	O
+pared	O
+posterior	O
+de	O
+la	O
+rinofaringe	O
+,	O
+orofaringe	O
+e	O
+hipofaringe	O
+.	O

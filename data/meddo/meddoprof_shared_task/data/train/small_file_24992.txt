@@ -1,0 +1,21 @@
+
+Finaliza	B-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+básicos	I-SITUACION_LABORAL
+a	O
+los	O
+18	O
+años	O
+cuando	O
+se	O
+traslada	O
+a	O
+Barcelona	O
+para	O
+incorporarse	B-PROFESION
+a	I-PROFESION
+la	I-PROFESION
+empresa	I-PROFESION
+hostelera	I-PROFESION
+familiar	I-PROFESION
+.	O

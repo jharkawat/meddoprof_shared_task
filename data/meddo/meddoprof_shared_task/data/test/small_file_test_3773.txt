@@ -1,0 +1,11 @@
+
+La	O
+anatomía	O
+patológica	O
+fue	O
+de	O
+adenocarcinoma	O
+de	O
+colon	O
+mucosecretor	O
+.	O

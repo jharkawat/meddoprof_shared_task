@@ -1,0 +1,17 @@
+
+Se	O
+solicita	O
+radiografía	O
+de	O
+tórax	O
+y	O
+se	O
+deriva	O
+de	O
+forma	O
+preferente	O
+a	O
+consultas	O
+de	O
+neumología	O
+.	O

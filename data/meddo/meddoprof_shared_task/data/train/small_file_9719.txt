@@ -1,0 +1,8 @@
+
+Hipoestesia	O
+táctil	O
+en	O
+miembro	O
+inferior	O
+derecho	O
+.	O

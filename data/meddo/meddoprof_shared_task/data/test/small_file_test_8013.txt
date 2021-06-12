@@ -1,0 +1,15 @@
+
+Tratamiento	O
+habitual	O
+con	O
+citalopram	O
+30	O
+mg	O
+cada	O
+24	O
+horas	O
+y	O
+diazepam	O
+a	O
+demanda	O
+.	O

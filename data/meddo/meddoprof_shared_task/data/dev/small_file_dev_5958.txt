@@ -1,0 +1,17 @@
+
+Pequeña	O
+adenopatía	O
+redondeada	O
+,	O
+algo	O
+llamativa	O
+,	O
+de	O
+unos	O
+6	O
+mm	O
+en	O
+situación	O
+paraórtica	O
+izquierda	O
+.	O

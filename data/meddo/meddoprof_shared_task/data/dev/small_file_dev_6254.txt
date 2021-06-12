@@ -1,0 +1,14 @@
+
+Cabe	O
+resaltar	O
+que	O
+el	O
+cultivo	O
+creció	O
+al	O
+sexto	O
+día	O
+después	O
+del	O
+sembrado	O
+.	O

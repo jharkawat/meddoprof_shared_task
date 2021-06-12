@@ -1,0 +1,22 @@
+
+En	O
+el	O
+espesor	O
+de	O
+la	O
+pared	O
+gástrica	O
+se	O
+observa	O
+una	O
+imagen	O
+hiperintensa	O
+de	O
+unos	O
+3	O
+cm	O
+sugerente	O
+de	O
+cuerpo	O
+extraño	O
+.	O

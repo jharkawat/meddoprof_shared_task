@@ -1,0 +1,19 @@
+
+Antecedentes	O
+familiares	O
+:	O
+familiar	O
+de	O
+primer	O
+grado	O
+con	O
+antecedente	O
+de	O
+ingreso	O
+en	O
+hospital	O
+psiquiátrico	O
+por	O
+tentativa	O
+autolítica	O
+.	O

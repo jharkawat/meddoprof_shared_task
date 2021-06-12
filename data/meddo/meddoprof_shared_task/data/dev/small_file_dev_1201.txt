@@ -1,0 +1,20 @@
+
+Pruebas	O
+neurocognitivas	O
+(	O
+realizadas	O
+en	O
+inglés	O
+)	O
+:	O
+difícil	O
+interpretación	O
+de	O
+Mini	O
+Mental	O
+State	O
+Examination	O
+(	O
+MMSE	O
+)	O
+.	O

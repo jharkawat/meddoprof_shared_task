@@ -1,0 +1,170 @@
+T1	SINTOMA 134 144	ex-fumador
+T2	SINTOMA 200 210	ex-bebedor
+T3	SINTOMA 342 356	masa abdominal
+T4	SINTOMA 392 425	poliadenopatías retroperitoneales
+T5	SINTOMA 1874 1887	estreñimiento
+T6	SINTOMA 2397 2407	consciente
+T7	SINTOMA 2410 2419	orientado
+T8	SINTOMA 2438 2461	congnitivamente estable
+T9	SINTOMA 2521 2546	estable hemodinamicamente
+T10	SINTOMA 2580 2605	ruidos cardiacos rítmicos
+T11	SINTOMA 2610 2625	soplos audibles
+T12	SINTOMA 2627 2656	murmullo vesicular disminuido
+T13	SINTOMA 2684 2708	estertores en vías altas
+T14	SINTOMA 2725 2755	secreciones de las vías aéreas
+T15	SINTOMA 2834 2862	ingurgitación venosa yugular
+T16	SINTOMA 2864 2973	Abdomen globuloso, depresible, con gran masa palpable que abarca desde epigastrio hasta región infraumbilical
+T17	SINTOMA 3192 3203	peritonismo
+T18	SINTOMA 3419 3438	Diuresis conservada
+T19	SINTOMA 5275 5310	rarefacción de la grasa mesentérica
+T20	SINTOMA 5538 5553	dolor abdominal
+T21	SINTOMA 5664 5669	dolor
+T22	SINTOMA 5724 5744	pesadez postprandial
+T23	SINTOMA 5789 5804	pérdida de peso
+T24	SINTOMA 7491 7535	disminución de tamaño de la masa mesentérica
+T25	SINTOMA 8036 8065	edemas en miembros inferiores
+T26	SINTOMA 8103 8118	dolor abdominal
+T27	SINTOMA 8478 8484	éxitus
+T28	PROCEDIMIENTO 466 469	TAC
+T29	PROCEDIMIENTO 862 913	estudio panendoscópico (gastro y recto-colonoscopia
+T30	PROCEDIMIENTO 1441 1466	tratamiento radioterápico
+T31	PROCEDIMIENTO 1594 1607	traqueostomía
+T32	PROCEDIMIENTO 1657 1689	tratamiento hormonal sustitutivo
+T33	PROCEDIMIENTO 2317 2335	Exploración física
+T34	PROCEDIMIENTO 2342 2360	exploración física
+T35	PROCEDIMIENTO 2466 2482	test de Pfeiffer
+T36	PROCEDIMIENTO 2548 2575	auscultación cardiopulmonar
+T37	PROCEDIMIENTO 2757 2770	Traqueostomía
+T38	PROCEDIMIENTO 3529 3553	laparoscopia exploradora
+T39	PROCEDIMIENTO 4184 4227	Biopsia Trucut Masa retroperitoneal,(Agosto
+T40	PROCEDIMIENTO 4528 4535	biopsia
+T41	PROCEDIMIENTO 5011 5014	TAC
+T42	PROCEDIMIENTO 6141 6166	biopsia de la masa guiada
+T43	PROCEDIMIENTO 6371 6393	biopsia de médula ósea
+T44	PROCEDIMIENTO 6724 6756	tratamiento hormonal sustitutivo
+T45	PROCEDIMIENTO 6858 6883	valoración oncogeriátrica
+T46	PROCEDIMIENTO 7380 7393	traqueostomía
+T47	PROCEDIMIENTO 7440 7443	TAC
+T48	PROCEDIMIENTO 8133 8143	escala EVA
+T49	UNC 645 653	probable
+T50	USCO 654 671	origen neoplásico
+T51	NEG 801 810	descartar
+T52	NSCO 811 839	neoplasia de origen colónico
+T53	NEG 841 857	hecho descartado
+T54	NSCO 858 884	con estudio panendoscópico
+T55	NEG 915 928	negativo para
+T56	NSCO 929 939	malignidad
+T57	UNC 1012 1026	compatible con
+T58	USCO 1027 1076	Probable Enfermedad de Castleman Hialino-Vascular
+T59	NEG 1189 1192	sin
+T60	NSCO 1193 1204	tratamiento
+T61	NEG 2606 2609	sin
+T62	NSCO 2610 2625	soplos audibles
+T63	UNC 2709 2724	compatibles con
+T64	USCO 2725 2755	secreciones de las vías aéreas
+T65	NEG 2802 2805	sin
+T66	NSCO 2806 2829	datos de sobreinfección
+T67	NEG 2831 2833	No
+T68	NSCO 2834 2862	ingurgitación venosa yugular
+T69	NEG 2975 2977	no
+T70	NSCO 2978 2986	dolorosa
+T71	NEG 3008 3010	no
+T72	NSCO 3011 3020	a tensión
+T73	NEG 3179 3182	sin
+T74	NSCO 3183 3203	datos de peritonismo
+T75	NEG 3356 3358	No
+T76	NSCO 3359 3417	se aprecia focalidad neurológica en la exploración grosera
+T77	NEG 3461 3464	sin
+T78	NSCO 3465 3475	alteración
+T79	NEG 3694 3702	negativo
+T80	NEG 3721 3724	sin
+T81	NSCO 3725 3749	características malignas
+T82	NEG 3884 3892	negativo
+T83	NEG 4456 4464	negativo
+T84	NEG 4547 4549	no
+T85	NSCO 4550 4597	es el más adecuado para valorar la arquitectura
+T86	NEG 5618 5621	sin
+T87	NSCO 5622 5636	exacerbaciones
+T88	NEG 5845 5848	Sin
+T89	NSCO 5849 5962	cambios en el hábito deposicional ni presencia de productos patológicos en heces, ni otra sintomatología referida
+T90	UNC 5983 5990	posible
+T91	USCO 5991 6046	etiología colónica repitiendo un estudio panendoscópico
+T92	NEG 6061 6069	negativo
+T93	UNC 6089 6100	sospecha de
+T94	USCO 6101 6127	transformación linfomatosa
+T95	NEG 6249 6251	No
+T96	NSCO 6252 6259	Hodgkin
+T97	NEG 6419 6432	negativo para
+T98	NSCO 6433 6457	infiltración de la misma
+T99	NEG 7030 7033	Sin
+T100	NSCO 7034 7144	presentar reacción infusional en la primera administración ni otras reacciones adversas atribuibles al fármaco
+T101	UNC 7312 7319	posible
+T102	USCO 7320 7393	relación con el mal manejo de las secreciones a nivel de la traqueostomía
+T103	NEG 7643 7646	sin
+T104	NSCO 7647 7684	estenosis significativa de los mismos
+T105	NEG 8016 8031	desaparición de
+T106	NSCO 8032 8065	los edemas en miembros inferiores
+T107	NEG 8287 8298	se suspende
+T108	NSCO 8299 8313	al encontrarse
+T109	FARMACO 2209 2219	tapentadol
+T110	FARMACO 2230 2240	duloxetina
+T111	FARMACO 2252 2262	prednisona
+T112	FARMACO 2283 2295	levotiroxina
+T113	FARMACO 6965 6974	Rituximab
+T114	ORG_VIVO 11 25	Paciente varón
+T115	ORG_VIVO 101 109	marinero
+T116	ORG_VIVO 1222 1230	paciente
+T117	ORG_VIVO 1298 1308	personales
+T118	ORG_VIVO 2091 2099	cuidador
+T119	ORG_VIVO 2116 2123	hermano
+T120	ORG_VIVO 2378 2386	paciente
+T121	ORG_VIVO 3878 3883	HHV-8
+T122	ORG_VIVO 3977 3984	cebolla
+T123	ORG_VIVO 4833 4841	paciente
+T124	ORG_VIVO 6778 6781	VIH
+T125	ORG_VIVO 6787 6792	HHV 8
+T126	ORG_VIVO 6809 6827	virus hepatotropos
+T127	ORG_VIVO 6888 6896	paciente
+T128	ORG_VIVO 7965 7973	paciente
+T129	ORG_VIVO 8317 8325	paciente
+T130	ENFERMEDAD 392 425	poliadenopatías retroperitoneales
+T131	ENFERMEDAD 494 512	neoplasia Laríngea
+T132	ENFERMEDAD 614 625	adenopatías
+T133	ENFERMEDAD 632 671	implantes de probable origen neoplásico
+T134	ENFERMEDAD 811 839	neoplasia de origen colónico
+T135	ENFERMEDAD 1036 1076	Enfermedad de Castleman Hialino-Vascular
+T136	ENFERMEDAD 1310 1331	hipertensión arterial
+T137	ENFERMEDAD 1333 1343	dislipemia
+T138	ENFERMEDAD 1345 1375	Carcinoma epidermoide Laríngeo
+T139	ENFERMEDAD 1377 1384	T4N2aM0
+T140	ENFERMEDAD 1608 1622	Hipotiroidismo
+T141	ENFERMEDAD 1691 1730	Anemia macrocítica de procesos crónicos
+T142	ENFERMEDAD 1770 1801	Hiperplasia Benigna de Próstata
+T143	ENFERMEDAD 1803 1806	HBP
+T144	ENFERMEDAD 1874 1887	estreñimiento
+T145	ENFERMEDAD 1894 1918	espondilolistesis L5 -S1
+T146	ENFERMEDAD 2128 2151	Enfermedad de Alzheimer
+T147	ENFERMEDAD 2815 2829	sobreinfección
+T148	ENFERMEDAD 3033 3048	hernia inguinal
+T149	ENFERMEDAD 3096 3111	hernia inguinal
+T150	ENFERMEDAD 3316 3344	insuficiencia venosa crónica
+T151	ENFERMEDAD 4140 4180	Enfermedad de Castleman Hialino-Vascular
+T152	ENFERMEDAD 4252 4285	linfoma B difuso de célula grande
+T153	ENFERMEDAD 4638 4686	Enfermedad de Castleman subtipo Hialino-vascular
+T154	ENFERMEDAD 4735 4780	LNH B difuso de células grandes de alto grado
+T155	ENFERMEDAD 4993 4995	EC
+T156	ENFERMEDAD 5312 5323	paniculitis
+T157	ENFERMEDAD 5336 5376	conglomerado adenopático retroperitoneal
+T158	ENFERMEDAD 5401 5450	adenopatías a nivel de la bifurcación aortoiliaca
+T159	ENFERMEDAD 6241 6259	Linfoma No Hodgkin
+T160	ENFERMEDAD 6261 6307	LNH) difuso de células grandes B de alto grado
+T161	ENFERMEDAD 6521 6527	anemia
+T162	ENFERMEDAD 6673 6687	hipotiroidismo
+T163	ENFERMEDAD 7268 7307	infecciones respiratorias de vías altas
+T164	ENFERMEDAD 7742 7771	adenopatías retroperitoneales
+T165	ENFERMEDAD 8364 8394	neumonía aspirativa multilobar
+T166	ENFERMEDAD 8428 8447	sepsis respiratoria
+T167	ENFERMEDAD 8450 8469	fallo multiorgánico
+T168	PACIENTE-PROFESION 101 109	marinero
+T169	PACIENTE-SITUACION_LABORAL 2091 2109	cuidador principal
+T170	PACIENTE-SITUACION_LABORAL 73 81	jubilado

@@ -1,0 +1,9 @@
+
+Edad	O
+21	O
+:	O
+Relación	O
+con	O
+Ana	O
+Marina	O
+.	O

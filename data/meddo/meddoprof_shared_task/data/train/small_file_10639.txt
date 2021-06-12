@@ -1,0 +1,16 @@
+
+Acudió	O
+a	O
+la	O
+consulta	O
+en	O
+enero	O
+de	O
+2018	O
+,	O
+refiriendo	O
+pérdida	O
+de	O
+visión	O
+binocular	O
+.	O

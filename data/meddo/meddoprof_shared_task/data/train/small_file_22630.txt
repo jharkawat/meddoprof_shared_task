@@ -1,0 +1,20 @@
+
+Tuvo	O
+una	O
+marcada	O
+respuesta	O
+en	O
+tres	O
+semanas	O
+que	O
+se	O
+mantiene	O
+hasta	O
+julio	O
+de	O
+2008	O
+(	O
+14	O
+meses	O
+)	O
+.	O

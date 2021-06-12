@@ -1,0 +1,7 @@
+
+Tratamiento	O
+habitual	O
+:	O
+Tacrolimus	O
+tópico	O
+.	O

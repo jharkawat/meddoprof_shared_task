@@ -1,0 +1,10 @@
+
+PPD	O
+negativo	O
+,	O
+prueba	O
+de	O
+la	O
+leishmanina	O
+negativa	O
+.	O

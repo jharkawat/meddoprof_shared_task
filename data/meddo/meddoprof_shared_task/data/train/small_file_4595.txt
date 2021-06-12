@@ -1,0 +1,24 @@
+
+La	O
+paciente	O
+viene	O
+tras	O
+la	O
+insistencia	O
+de	O
+su	O
+jefa	B-PROFESION
+,	O
+la	O
+cual	O
+cree	O
+que	O
+la	O
+paciente	O
+no	O
+está	O
+en	O
+buenas	O
+condiciones	O
+laborales	O
+.	O

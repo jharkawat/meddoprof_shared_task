@@ -1,0 +1,9 @@
+
+Osteoartrosis	O
+cervical	O
+,	O
+cadera	O
+,	O
+y	O
+rodilla	O
+.	O

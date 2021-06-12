@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+realiza	O
+seguimiento	O
+por	O
+parte	O
+de	O
+Urología	O
+.	O

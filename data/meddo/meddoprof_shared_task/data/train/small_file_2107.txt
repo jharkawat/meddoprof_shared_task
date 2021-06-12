@@ -1,0 +1,10 @@
+
+No	O
+presentaba	O
+ni	O
+fiebre	O
+ni	O
+cuadro	O
+infeccioso	O
+previo	O
+.	O

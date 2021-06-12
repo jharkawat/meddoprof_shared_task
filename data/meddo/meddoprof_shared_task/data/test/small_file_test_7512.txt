@@ -1,0 +1,19 @@
+
+En	O
+el	O
+segmento	O
+hepático	O
+4	O
+,	O
+se	O
+identifica	O
+una	O
+LOE	O
+de	O
+16	O
+mm	O
+en	O
+su	O
+diámetro	O
+mayor	O
+.	O

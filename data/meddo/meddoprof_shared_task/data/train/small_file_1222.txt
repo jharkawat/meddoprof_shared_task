@@ -1,0 +1,22 @@
+
+Un	O
+mes	O
+después	O
+,	O
+la	O
+paciente	O
+volvió	O
+a	O
+consultar	O
+por	O
+haber	O
+eliminado	O
+por	O
+las	O
+deposiciones	O
+una	O
+nueva	O
+"	O
+lombriz	O
+"	O
+.	O

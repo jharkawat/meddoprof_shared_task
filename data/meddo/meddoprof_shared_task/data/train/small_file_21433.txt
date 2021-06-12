@@ -1,0 +1,15 @@
+
+Es	O
+una	O
+estudiante	B-SITUACION_LABORAL
+normal	O
+y	O
+no	O
+ha	O
+presentado	O
+problemas	O
+especiales	O
+en	O
+su	O
+escolarización	O
+.	O

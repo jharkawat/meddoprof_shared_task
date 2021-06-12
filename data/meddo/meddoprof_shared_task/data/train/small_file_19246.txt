@@ -1,0 +1,11 @@
+
+Afecto	O
+inapropiado	O
+"	O
+llora	O
+por	O
+los	O
+demás	O
+enfermos	O
+"	O
+.	O

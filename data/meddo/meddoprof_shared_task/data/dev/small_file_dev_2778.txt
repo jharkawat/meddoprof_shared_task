@@ -1,0 +1,12 @@
+
+Empezó	B-SITUACION_LABORAL
+a	I-SITUACION_LABORAL
+trabajar	I-SITUACION_LABORAL
+a	O
+los	O
+16	O
+años	O
+en	O
+diferentes	O
+oficios	O
+.	O

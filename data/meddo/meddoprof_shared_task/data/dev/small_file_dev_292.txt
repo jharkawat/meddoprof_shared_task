@@ -1,0 +1,15 @@
+
+Se	O
+agudiza	O
+en	O
+septiembre	O
+,	O
+inicio	O
+del	O
+curso	O
+escolar	O
+,	O
+y	O
+en	O
+Navidad	O
+.	O

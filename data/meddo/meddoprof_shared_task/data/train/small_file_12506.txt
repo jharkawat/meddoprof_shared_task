@@ -1,0 +1,13 @@
+
+Trabajó	B-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+juventud	I-PROFESION
+en	I-PROFESION
+el	I-PROFESION
+campo	I-PROFESION
+con	O
+exposición	O
+a	O
+pesticidas	O
+.	O

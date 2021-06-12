@@ -1,0 +1,15 @@
+
+TA	O
+:	O
+300	O
+/	O
+100	O
+mmHg	O
+FC	O
+75	O
+spm	O
+Saturación	O
+;	O
+100	O
+%	O
+.	O

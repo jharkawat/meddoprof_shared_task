@@ -1,0 +1,90 @@
+T1	SINTOMA 370 379	fallecido
+T2	SINTOMA 3560 3582	movimientos corporales
+T3	SINTOMA 3593 3630	alucinaciones auditivas egodistónicas
+T4	SINTOMA 4884 4895	hipersomnia
+T5	PROCEDIMIENTO 659 679	tratamiento con CPAP
+T6	PROCEDIMIENTO 1670 1697	tratamientos antipsicóticos
+T7	PROCEDIMIENTO 4198 4215	test de latencias
+T8	PROCEDIMIENTO 5034 5059	terapia electroconvulsiva
+T9	NEG 600 602	no
+T10	NSCO 603 614	intervenida
+T11	NEG 1806 1818	retirados de
+T12	NSCO 1819 1868	manera inmediata debido a los efectos secundarios
+T13	NEG 3825 3827	No
+T14	NSCO 3828 3845	presenta síntomas
+T15	NEG 3846 3858	negativos de
+T16	NSCO 3859 3870	ningún tipo
+T17	NEG 3872 3875	sin
+T18	NSCO 3876 3920	aplanamiento ni empobrecimiento ideoafectivo
+T19	UNC 4544 4552	pudieran
+T20	USCO 4553 4604	estar influenciados por la propia clínica psicótica
+T21	NEG 5093 5103	suspendida
+T22	NSCO 5104 5136	debido a una bradicardia maligna
+T23	NEG 5444 5452	retirado
+T24	NEG 5860 5862	no
+T25	NSCO 5863 5894	ha referido efectos secundarios
+T26	FARMACO 106 115	clozapina
+T27	FARMACO 498 509	haloperidol
+T28	FARMACO 511 524	clorpromacina
+T29	FARMACO 527 538	flufenazina
+T30	FARMACO 1747 1758	haloperidol
+T31	FARMACO 1760 1773	clorpromacina
+T32	FARMACO 1776 1787	flufenacina
+T33	FARMACO 4713 4724	risperidona
+T34	FARMACO 4726 4736	olanzapina
+T35	FARMACO 4738 4749	aripiprazol
+T36	FARMACO 4752 4764	paliperidona
+T37	FARMACO 5331 5340	clozapina
+T38	FARMACO 5610 5619	clozapina
+T39	ORG_VIVO 0 5	Varón
+T40	ORG_VIVO 143 153	personales
+T41	ORG_VIVO 179 187	hermanos
+T42	ORG_VIVO 194 202	hermanas
+T43	ORG_VIVO 263 271	cocinero
+T44	ORG_VIVO 312 317	madre
+T45	ORG_VIVO 352 362	familiares
+T46	ORG_VIVO 364 369	padre
+T47	ORG_VIVO 413 421	paciente
+T48	ORG_VIVO 923 931	cannabis
+T49	ORG_VIVO 1074 1082	cocinero
+T50	ORG_VIVO 1087 1095	paciente
+T51	ORG_VIVO 1454 1462	paciente
+T52	ORG_VIVO 1889 1897	paciente
+T53	ORG_VIVO 2174 2182	paciente
+T54	ORG_VIVO 3220 3228	personas
+T55	ORG_VIVO 3244 3249	bebés
+T56	ORG_VIVO 3298 3305	persona
+T57	ORG_VIVO 3749 3757	paciente
+T58	ORG_VIVO 4029 4039	residentes
+T59	ORG_VIVO 4055 4063	cocinero
+T60	ORG_VIVO 4141 4153	trabajadores
+T61	ORG_VIVO 4313 4321	paciente
+T62	ORG_VIVO 4902 4910	paciente
+T63	ORG_VIVO 5252 5260	paciente
+T64	ORG_VIVO 5345 5353	paciente
+T65	ORG_VIVO 5500 5508	personal
+T66	ORG_VIVO 5511 5519	familiar
+T67	ORG_VIVO 5832 5840	paciente
+T68	ENFERMEDAD 384 392	suicidio
+T69	ENFERMEDAD 540 564	Diabetes mellitus tipo 2
+T70	ENFERMEDAD 566 574	obesidad
+T71	ENFERMEDAD 576 599	colecistitis recurrente
+T72	ENFERMEDAD 616 655	síndrome de apnea obstructiva del sueño
+T73	ENFERMEDAD 681 692	narcolepsia
+T74	ENFERMEDAD 694 717	esquizofrenia paranoide
+T75	ENFERMEDAD 793 816	esquizofrenia paranoide
+T76	ENFERMEDAD 973 997	sintomatología psicótica
+T77	ENFERMEDAD 1105 1141	sintomatología psicótica persistente
+T78	ENFERMEDAD 1557 1610	ideación delirante paranoide de tipo autorreferencial
+T79	ENFERMEDAD 3790 3823	sintomatología psicótica positiva
+T80	ENFERMEDAD 4259 4270	narcolepsia
+T81	ENFERMEDAD 4360 4379	parálisis del sueño
+T82	ENFERMEDAD 4939 4950	narcolepsia
+T83	ENFERMEDAD 5117 5136	bradicardia maligna
+T84	ENFERMEDAD 5145 5154	asistolia
+T85	PACIENTE-PROFESION 263 271	cocinero
+T86	PACIENTE-PROFESION 1074 1082	cocinero
+T87	PACIENTE-PROFESION 4055 4076	cocinero de la Unidad
+T88	PACIENTE-SITUACION_LABORAL 1050 1068	empieza a trabajar
+T89	OTROS-SITUACION_LABORAL 4141 4153	trabajadores
+T90	PACIENTE-PROFESION 4087 4122	imparte cursos formativos de cocina

@@ -1,0 +1,18 @@
+
+Exploración	O
+neurológica	O
+sin	O
+alteraciones	O
+,	O
+salvo	O
+sintomatología	O
+parkinsoniana	O
+debido	O
+a	O
+los	O
+efectos	O
+extrapiramidales	O
+de	O
+la	O
+medicación	O
+.	O

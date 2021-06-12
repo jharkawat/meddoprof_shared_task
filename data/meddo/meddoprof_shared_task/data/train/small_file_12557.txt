@@ -1,0 +1,17 @@
+
+En	O
+tratamiento	O
+actual	O
+con	O
+:	O
+metformina	O
+,	O
+ácido	O
+acetilsalicílico	O
+,	O
+candesartán	O
+,	O
+pitavastatina	O
+y	O
+alopurinol	O
+.	O

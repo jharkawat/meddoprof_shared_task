@@ -1,0 +1,58 @@
+T1	SINTOMA 919 928	fallecido
+T2	SINTOMA 1445 1471	iris de color pardo oscuro
+T3	SINTOMA 1623 1663	rigidez incipiente de mandíbula y cuello
+T4	SINTOMA 2251 2297	vesículas grasas pequeñas en la región lateral
+T5	SINTOMA 3324 3339	cianosis distal
+T6	SINTOMA 3790 3890	protrusión de la lengua, edentia total en la hemiarcada superior y parcial en la hemiarcada inferior
+T7	SINTOMA 4150 4190	movilidad anormal de la columna cervical
+T8	PROCEDIMIENTO 122 143	necropsia del cadáver
+T9	PROCEDIMIENTO 1258 1285	examen exterior del cadáver
+T10	PROCEDIMIENTO 4942 4978	exploración del músculo esqueléticay
+T11	NEG 804 806	no
+T12	NSCO 807 837	se recogieron datos de interés
+T13	NEG 1772 1783	desaparecen
+T14	NSCO 1784 1802	a la digitopresión
+T15	NEG 1829 1831	No
+T16	NSCO 1832 1854	mancha verde abdominal
+T17	NEG 3300 3302	no
+T18	NSCO 3303 3339	violentos se detectó cianosis distal
+T19	NEG 3648 3650	no
+T20	NSCO 3651 3698	presentó nada a señalar de interés médico legal
+T21	NEG 4875 4877	no
+T22	NSCO 4878 4928	se observaron alteraciones de interés médico legal
+T23	ORG_VIVO 36 43	médicos
+T24	ORG_VIVO 136 143	cadáver
+T25	ORG_VIVO 150 156	adulto
+T26	ORG_VIVO 263 269	vecino
+T27	ORG_VIVO 393 399	esposa
+T28	ORG_VIVO 422 429	hermano
+T29	ORG_VIVO 470 478	hijastro
+T30	ORG_VIVO 570 576	médico
+T31	ORG_VIVO 793 803	personales
+T32	ORG_VIVO 872 879	cadáver
+T33	ORG_VIVO 919 928	fallecido
+T34	ORG_VIVO 1296 1303	cadáver
+T35	ORG_VIVO 1307 1313	adulto
+T36	ORG_VIVO 1341 1350	masculino
+T37	ORG_VIVO 1500 1507	biotipo
+T38	ORG_VIVO 3963 3970	cadáver
+T39	ENFERMEDAD 737 745	suicidio
+T40	ENFERMEDAD 1864 1870	muerte
+T41	ENFERMEDAD 2392 2459	excoriación en placa de 12 x 7 cm, localizada en la parrilla costal
+T42	ENFERMEDAD 2549 2634	excoriación en placa de 1,5 x 3,5 cm ubicada en el tercio supero anterior de la tibia
+T43	ENFERMEDAD 2760 2905	excoriación en placa redondeada, con pérdida de la epidermis, de 1,5 x 1,5 cm, localizada en el tercio medio de la región posterior del antebrazo
+T44	ENFERMEDAD 3040 3271	rodilla una excoriación en placa de 4 x 1,5 cm derecha, múltiples excoriaciones en placa de pequeño tamaño, paralelas entre sí, que abarcaban desde el tercio supero anterior de la pierna derecha hasta el borde interno de la rodilla
+T45	ENFERMEDAD 3341 3389	onicomicosis en el 1er y 2do dedos de ambos pies
+T46	ENFERMEDAD 3437 3488	várices y microvárices en ambos miembros inferiores
+T47	ENFERMEDAD 3490 3513	hallus valgus en el pie
+T48	ENFERMEDAD 3525 3586	Lesiones de dermatitis en la región anterior de ambas piernas
+T49	ENFERMEDAD 4239 4309	infiltrado hemorrágico de los músculos de la región anterior y lateral
+T50	ENFERMEDAD 4390 4452	infiltrado hemorrágico de la adventicia de la arteria carótida
+T51	ENFERMEDAD 4502 4550	desgarro transversal de 1 cm en la túnica intima
+T52	ENFERMEDAD 4569 4627	infiltrado hemorrágico a nivel de la tiroides y el hioides
+T53	ENFERMEDAD 4646 4679	fractura del asta mayor izquierda
+T54	ENFERMEDAD 4726 4784	infiltrado hemorrágico a nivel de la 3ra vértebra cervical
+T55	ENFERMEDAD 5034 5074	infiltrado hemorrágico de la musculatura
+T56	ENFERMEDAD 5089 5146	fractura del proceso espinoso de la 3ra vértebra cervical
+T57	ENFERMEDAD 5152 5203	infiltrado hemorrágico a nivel de la médula espinal
+T58	SANITARIO-PROFESION 36 43	médicos

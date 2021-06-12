@@ -1,0 +1,21 @@
+
+FG	O
+>	O
+60	O
+mL	O
+/	O
+min	O
+/	O
+1	O
+,	O
+73	O
+m2	O
+;	O
+Urea	O
+24	O
+.	O
+00	O
+mg	O
+/	O
+dl	O
+.	O

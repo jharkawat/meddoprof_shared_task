@@ -1,0 +1,21 @@
+
+Ante	O
+la	O
+presencia	O
+de	O
+hipertensión	O
+pulmonar	O
+severa	O
+en	O
+ecocardiografía	O
+,	O
+se	O
+comenzó	O
+protocolo	O
+de	O
+estudio	O
+etiológico	O
+de	O
+esta	O
+patología	O
+.	O

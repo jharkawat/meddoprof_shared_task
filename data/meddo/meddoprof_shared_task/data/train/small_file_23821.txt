@@ -1,0 +1,27 @@
+
+Tratamiento	O
+de	O
+soporte	O
+sintomático	O
+y	O
+posterior	O
+traslado	O
+al	O
+Servicio	O
+de	O
+Medicina	O
+Interna	O
+,	O
+dos	O
+días	O
+de	O
+estabilización	O
+somática	O
+y	O
+traslado	O
+voluntario	O
+al	O
+Servicio	O
+de	O
+Psiquiatría	O
+.	O

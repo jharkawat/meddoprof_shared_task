@@ -1,0 +1,5 @@
+
+Fue	O
+intervenido	O
+quirúrgicamente	O
+.	O

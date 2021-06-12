@@ -1,0 +1,10 @@
+
+Dos	O
+ingresos	O
+psiquiátricos	O
+hace	O
+más	O
+de	O
+25	O
+años	O
+.	O

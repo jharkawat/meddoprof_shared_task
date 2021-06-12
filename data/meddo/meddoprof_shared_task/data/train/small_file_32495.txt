@@ -1,0 +1,9 @@
+
+Paciente	O
+varón	O
+de	O
+48	O
+años	O
+de	O
+edad	O
+.	O

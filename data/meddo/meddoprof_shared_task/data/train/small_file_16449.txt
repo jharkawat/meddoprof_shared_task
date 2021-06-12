@@ -1,0 +1,11 @@
+
+No	O
+síndrome	O
+miccional	O
+ni	O
+cambios	O
+en	O
+el	O
+hábito	O
+intestinal	O
+.	O

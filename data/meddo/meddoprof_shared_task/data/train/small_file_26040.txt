@@ -1,0 +1,17 @@
+
+Ingresada	O
+en	O
+la	O
+unidad	O
+de	O
+hospitalización	O
+de	O
+psiquiatría	O
+con	O
+diagnóstico	O
+de	O
+psicosis	O
+inducida	O
+por	O
+levodopa	O
+.	O

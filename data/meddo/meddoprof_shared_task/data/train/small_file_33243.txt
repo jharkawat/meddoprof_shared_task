@@ -1,0 +1,14 @@
+
+No	O
+tiene	O
+ingresos	O
+propios	O
+en	O
+la	O
+actualidad	O
+ni	O
+se	O
+encuentra	O
+incapacitado	O
+civilmente	O
+.	O

@@ -1,0 +1,5 @@
+
+Se	O
+indicó	O
+seguimiento	O
+.	O

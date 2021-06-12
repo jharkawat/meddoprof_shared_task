@@ -1,0 +1,61 @@
+T1	SINTOMA 293 309	congestión nasal
+T2	SINTOMA 312 319	cefalea
+T3	SINTOMA 567 599	tumoración a nivel etmoidal alto
+T4	SINTOMA 1182 1192	meningismo
+T5	SINTOMA 1439 1457	masa en fosa nasal
+T6	PROCEDIMIENTO 131 145	Apendicectomía
+T7	PROCEDIMIENTO 452 474	nasofibrolaringoscopia
+T8	PROCEDIMIENTO 504 554	tomografía computarizada (TC) de senos paranasales
+T9	PROCEDIMIENTO 757 768	TC de tórax
+T10	PROCEDIMIENTO 831 862	cirugía endoscópica nasosinusal
+T11	PROCEDIMIENTO 882 917	biopsias múltiples de fosas nasales
+T12	PROCEDIMIENTO 1031 1044	Examen físico
+T13	PROCEDIMIENTO 1100 1103	EVA
+T14	PROCEDIMIENTO 1300 1309	Hemograma
+T15	PROCEDIMIENTO 1340 1355	perfil hepático
+T16	PROCEDIMIENTO 1367 1437	Resonancia magnética (RM) de cráneo, macizo facial y senos paranasales
+T17	PROCEDIMIENTO 1898 1910	TAC de tórax
+T18	PROCEDIMIENTO 2145 2177	quimiorradioterapia concomitante
+T19	PROCEDIMIENTO 2374 2376	RM
+T20	PROCEDIMIENTO 2427 2434	biopsia
+T21	PROCEDIMIENTO 2549 2551	RM
+T22	NEG 31 34	sin
+T23	NSCO 35 68	alergias medicamentosas conocidas
+T24	NEG 770 778	descarta
+T25	NSCO 779 801	afectación a distancia
+T26	NEG 1107 1109	No
+T27	NSCO 1110 1143	se palpan adenopatías periféricas
+T28	NEG 1145 1147	No
+T29	NSCO 1148 1192	presenta focalidad neurológica ni meningismo
+T30	NEG 1257 1260	sin
+T31	NSCO 1261 1273	alteraciones
+T32	UNC 1676 1685	sin clara
+T33	USCO 1686 1743	imagen que sugiera extensión del proceso tumoral a cráneo
+T34	NEG 1841 1843	No
+T35	NSCO 1844 1874	se observan otras alteraciones
+T36	NEG 1912 1914	No
+T37	NSCO 1915 1949	se observan nódulos ni adenopatías
+T38	NEG 2480 2483	sin
+T39	NSCO 2484 2512	evidencia de lesión residual
+T40	NEG 2694 2706	asintomático
+T41	FARMACO 2182 2192	cisplatino
+T42	ORG_VIVO 10 18	Paciente
+T43	ORG_VIVO 147 155	Tonelero
+T44	ORG_VIVO 2227 2235	paciente
+T45	ORG_VIVO 2258 2266	paciente
+T46	ORG_VIVO 2619 2627	paciente
+T47	ENFERMEDAD 35 58	alergias medicamentosas
+T48	ENFERMEDAD 70 79	Exfumador
+T49	ENFERMEDAD 99 112	Hiperuricemia
+T50	ENFERMEDAD 114 129	Talasemia minor
+T51	ENFERMEDAD 226 249	epixtasis de fosa nasal
+T52	ENFERMEDAD 384 432	degeneración polipoidea en la cabeza del cornete
+T53	ENFERMEDAD 615 685	destrucción de celdillas etmoidales, pared anterior de seno esfenoidal
+T54	ENFERMEDAD 936 994	adenocarcinoma moderadamente diferenciado de tipo entérico
+T55	ENFERMEDAD 1120 1143	adenopatías periféricas
+T56	ENFERMEDAD 1539 1582	Obstrucción de celdas etmoidales superiores
+T57	ENFERMEDAD 1719 1743	proceso tumoral a cráneo
+T58	ENFERMEDAD 1748 1819	lesión se encuentra en íntima relación con la pared medial de la órbita
+T59	ENFERMEDAD 1938 1949	adenopatías
+T60	ENFERMEDAD 1972 2017	Adenocarcinoma de tipo entérico de fosa nasal
+T61	PACIENTE-PROFESION 147 155	Tonelero

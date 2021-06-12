@@ -1,0 +1,15 @@
+
+Se	O
+reinterroga	O
+al	O
+paciente	O
+que	O
+insiste	O
+en	O
+no	O
+tener	O
+contacto	O
+directo	O
+con	O
+animales	O
+.	O

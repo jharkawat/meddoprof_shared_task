@@ -1,0 +1,16 @@
+
+Ante	O
+los	O
+hallazgos	O
+,	O
+deriva	O
+al	O
+paciente	O
+a	O
+Medicina	O
+Interna	O
+para	O
+completar	O
+el	O
+estudio	O
+.	O

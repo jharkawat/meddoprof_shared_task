@@ -1,0 +1,23 @@
+
+En	O
+la	O
+última	O
+semana	O
+aumento	O
+progresivo	O
+de	O
+la	O
+ansiedad	O
+,	O
+a	O
+pesar	O
+del	O
+ajuste	O
+en	O
+el	O
+tratamiento	O
+farmacológico	O
+para	O
+intentar	O
+contrarrestarlo	O
+.	O

@@ -1,0 +1,10 @@
+
+Consumidor	O
+habitual	O
+de	O
+pornografía	O
+y	O
+ocasional	O
+de	O
+prostitución	O
+.	O

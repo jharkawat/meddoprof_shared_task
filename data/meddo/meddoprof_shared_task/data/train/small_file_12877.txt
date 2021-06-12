@@ -1,0 +1,20 @@
+
+Dada	O
+la	O
+contraindicación	O
+de	O
+anticoagulación	O
+,	O
+es	O
+portador	O
+de	O
+un	O
+filtro	O
+de	O
+cava	O
+tipo	O
+Tulip	O
+en	O
+posición	O
+infrarrenal	O
+.	O

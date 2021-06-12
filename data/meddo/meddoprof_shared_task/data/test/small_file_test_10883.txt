@@ -1,0 +1,6 @@
+
+Moderada	O
+erosión	O
+del	O
+escutum	O
+.	O

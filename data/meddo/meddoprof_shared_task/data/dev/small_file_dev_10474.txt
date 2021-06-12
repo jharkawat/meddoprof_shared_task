@@ -1,0 +1,18 @@
+
+Cuando	O
+su	O
+madre	O
+apagó	O
+el	O
+estéreo	O
+,	O
+la	O
+paciente	O
+abrió	O
+la	O
+ventana	O
+y	O
+amenazó	O
+con	O
+saltar	O
+.	O

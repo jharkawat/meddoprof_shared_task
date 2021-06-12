@@ -1,0 +1,23 @@
+
+Como	O
+antecedentes	O
+personales	O
+,	O
+trabaja	O
+como	O
+̈	O
+cantaor	B-PROFESION
+̈	O
+,	O
+fumador	O
+habitual	O
+10	O
+años	O
+/	O
+paquete	O
+,	O
+consumo	O
+de	O
+30	O
+gr	O
+.	O

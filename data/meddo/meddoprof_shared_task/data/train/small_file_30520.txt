@@ -1,0 +1,13 @@
+
+Estas	O
+voces	O
+son	O
+mucho	O
+menos	O
+frecuentes	O
+e	O
+intensas	O
+que	O
+las	O
+anteriores	O
+.	O

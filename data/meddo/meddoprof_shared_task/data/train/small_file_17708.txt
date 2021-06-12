@@ -1,0 +1,26 @@
+
+El	O
+paciente	O
+comenzó	O
+el	O
+tratamiento	O
+profiláctico	O
+propuesto	O
+con	O
+indometacina	O
+,	O
+con	O
+buena	O
+tolerancia	O
+y	O
+desaparición	O
+de	O
+las	O
+punzadas	O
+pese	O
+al	O
+mantenimiento	O
+del	O
+clima	O
+frío	O
+.	O

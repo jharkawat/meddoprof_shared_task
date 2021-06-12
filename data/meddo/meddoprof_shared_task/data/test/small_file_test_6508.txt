@@ -1,0 +1,17 @@
+
+Ante	O
+el	O
+cuadro	O
+de	O
+toxicidad	O
+grave	O
+inducido	O
+por	O
+pembrolizumab	O
+el	O
+paciente	O
+salió	O
+del	O
+ensayo	O
+clínico	O
+.	O

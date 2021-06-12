@@ -1,0 +1,24 @@
+
+Los	O
+padres	O
+refieren	O
+rabietas	O
+y	O
+"	O
+tics	O
+"	O
+,	O
+que	O
+impresionan	O
+de	O
+estereotipias	O
+,	O
+en	O
+momentos	O
+de	O
+mayor	O
+frustración	O
+o	O
+desbordamiento	O
+emocional	O
+.	O

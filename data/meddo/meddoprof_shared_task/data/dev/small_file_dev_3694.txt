@@ -1,0 +1,9 @@
+
+Los	O
+profesores	B-PROFESION
+han	O
+objetivado	O
+problemas	O
+de	O
+concentración	O
+.	O

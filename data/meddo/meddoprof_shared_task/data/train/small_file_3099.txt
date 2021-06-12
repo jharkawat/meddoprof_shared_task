@@ -1,0 +1,21 @@
+
+-	O
+TC	O
+abdominal	O
+con	O
+contraste	O
+preferente	O
+:	O
+Tumoración	O
+anexial	O
+derecha	O
+de	O
+10	O
+cm	O
+con	O
+pared	O
+irregular	O
+,	O
+escasamente	O
+vascularizada	O
+.	O

@@ -1,0 +1,48 @@
+T1	SINTOMA 181 187	fiebre
+T2	SINTOMA 189 205	malestar general
+T3	SINTOMA 207 216	hiporexia
+T4	SINTOMA 219 249	disminución progresiva de peso
+T5	SINTOMA 279 293	tos productiva
+T6	SINTOMA 335 358	dificultad respiratoria
+T7	SINTOMA 451 469	mal estado general
+T8	SINTOMA 471 481	adelgazada
+T9	SINTOMA 483 495	taquicárdica
+T10	SINTOMA 497 508	taquipneica
+T11	SINTOMA 515 540	palidez de piel y mucosas
+T12	SINTOMA 586 625	subcrepitantes en la base del hemitórax
+T13	SINTOMA 734 746	leucocitosis
+T14	SINTOMA 750 761	eosinofilia
+T15	SINTOMA 1723 1729	fiebre
+T16	SINTOMA 1741 1744	tos
+T17	PROCEDIMIENTO 548 569	auscultación pulmonar
+T18	PROCEDIMIENTO 766 777	radiografía
+T19	PROCEDIMIENTO 783 828	tomografía espiral multicorte (TEM) torácicas
+T20	PROCEDIMIENTO 991 1012	tomografía pulmonares
+T21	PROCEDIMIENTO 1201 1220	terapia antibiótica
+T22	PROCEDIMIENTO 1300 1317	prueba de Mantoux
+T23	PROCEDIMIENTO 1361 1386	aspirado gástrico y heces
+T24	PROCEDIMIENTO 1408 1429	examen parasitológico
+T25	PROCEDIMIENTO 1807 1819	TEM torácica
+T26	NEG 730 733	sin
+T27	NSCO 734 761	leucocitosis ni eosinofilia
+T28	NEG 1394 1403	negativas
+T29	NEG 1698 1710	desaparición
+T30	FARMACO 1225 1236	ceftriaxona
+T31	FARMACO 1239 1251	clindamicina
+T32	FARMACO 1580 1594	triclabendazol
+T33	FARMACO 1647 1657	albendazol
+T34	ORG_VIVO 0 13	Escolar mujer
+T35	ORG_VIVO 1184 1192	paciente
+T36	ORG_VIVO 1343 1357	bacilo de Koch
+T37	ORG_VIVO 1415 1429	parasitológico
+T38	ORG_VIVO 1446 1472	huevos de Paragonimus spp.
+T39	ORG_VIVO 1486 1506	Ascaris lumbricoides
+T40	ORG_VIVO 1508 1518	uncinarias
+T41	ORG_VIVO 1521 1540	Trichuris trichiura
+T42	ENFERMEDAD 687 693	anemia
+T43	ENFERMEDAD 734 746	leucocitosis
+T44	ENFERMEDAD 927 965	lesiones quísticas en la base pulmonar
+T45	ENFERMEDAD 1107 1146	lesiones quísticas en la base izquierda
+T46	ENFERMEDAD 1486 1540	Ascaris lumbricoides, uncinarias y Trichuris trichiura
+T47	ENFERMEDAD 1915 1947	cavitaciones en la base pulmonar
+T48	PACIENTE-SITUACION_LABORAL 0 7	Escolar

@@ -1,0 +1,25 @@
+
+A	O
+ello	O
+se	O
+añade	O
+el	O
+desarrollo	O
+de	O
+desnutrición	O
+calórico	O
+-	O
+proteica	O
+severa	O
+,	O
+con	O
+pérdida	O
+de	O
+15	O
+kg	O
+en	O
+los	O
+últimos	O
+6	O
+meses	O
+.	O

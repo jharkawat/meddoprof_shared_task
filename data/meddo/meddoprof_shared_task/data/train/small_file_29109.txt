@@ -1,0 +1,21 @@
+
+Actualmente	O
+en	O
+tratamiento	O
+con	O
+clozapina	O
+a	O
+dosis	O
+de	O
+200	O
+mg	O
+en	O
+monoterapia	O
+antipsicótica	O
+,	O
+junto	O
+con	O
+fluoxetina	O
+20	O
+mg	O
+.	O

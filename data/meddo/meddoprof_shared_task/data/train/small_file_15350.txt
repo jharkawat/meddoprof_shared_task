@@ -1,0 +1,22 @@
+
+El	O
+tratamiento	O
+con	O
+antimonial	O
+trivalente	O
+,	O
+Repodral	O
+,	O
+fue	O
+satisfactorio	O
+con	O
+cicatrización	O
+,	O
+perdurando	O
+la	O
+perforación	O
+con	O
+características	O
+de	O
+permanente	O
+.	O

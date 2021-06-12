@@ -1,0 +1,123 @@
+T1	SINTOMA 189 197	cefaleas
+T2	SINTOMA 653 660	temblor
+T3	SINTOMA 662 673	hemiparesia
+T4	SINTOMA 795 802	cefalea
+T5	SINTOMA 1385 1434	escara en el cuero cabelludo de la región frontal
+T6	SINTOMA 1486 1496	consciente
+T7	SINTOMA 1499 1508	orientado
+T8	SINTOMA 1524 1539	lenguaje fluido
+T9	SINTOMA 1565 1574	disartria
+T10	SINTOMA 1855 1900	temblor fino de reposo en dichas extremidades
+T11	SINTOMA 1975 2008	hipoestesia subjetiva ipsilateral
+T12	SINTOMA 2010 2057	Reflejos osteotendinosos presentes y simétricos
+T13	SINTOMA 4392 4420	distonía de las extremidades
+T14	SINTOMA 5457 5464	cefalea
+T15	SINTOMA 5886 5893	cefalea
+T16	SINTOMA 6101 6131	lentificación parieto-temporal
+T17	SINTOMA 6472 6477	dolor
+T18	PROCEDIMIENTO 860 899	tomografía computarizada (TC) perfusión
+T19	PROCEDIMIENTO 906 914	angio-TC
+T20	PROCEDIMIENTO 985 1005	electroencefalograma
+T21	PROCEDIMIENTO 1007 1010	EEG
+T22	PROCEDIMIENTO 1117 1120	EEG
+T23	PROCEDIMIENTO 1295 1313	Exploración física
+T24	PROCEDIMIENTO 1613 1624	campimetría
+T25	PROCEDIMIENTO 2269 2286	Gasometría venosa
+T26	PROCEDIMIENTO 2300 2312	hematimetría
+T27	PROCEDIMIENTO 2404 2424	Radiografía de tórax
+T28	PROCEDIMIENTO 2455 2466	TC cerebral
+T29	PROCEDIMIENTO 2469 2491	angio-TC con perfusión
+T30	PROCEDIMIENTO 2565 2621	Resonancia magnética (RM) cerebral y de columna cervical
+T31	PROCEDIMIENTO 2623 2638	estudio craneal
+T32	PROCEDIMIENTO 2703 2731	estudio tomográfico cerebral
+T33	PROCEDIMIENTO 2740 2766	administración intravenosa
+T34	PROCEDIMIENTO 3060 3088	estudio tomográfico cerebral
+T35	PROCEDIMIENTO 3097 3123	administración intravenosa
+T36	PROCEDIMIENTO 3159 3170	RM cerebral
+T37	PROCEDIMIENTO 3456 3485	Resonancia magnética cerebral
+T38	PROCEDIMIENTO 3992 3995	EEG
+T39	PROCEDIMIENTO 4505 4521	Electromiografía
+T40	PROCEDIMIENTO 4523 4546	EMG)-electroneurografía
+T41	PROCEDIMIENTO 4886 4921	Estimulación magnética transcraneal
+T42	PROCEDIMIENTO 5617 5620	EEG
+T43	PROCEDIMIENTO 6044 6047	EEG
+T44	NEG 51 54	sin
+T45	NSCO 55 90	factores de riesgo cardiovasculares
+T46	NEG 260 262	No
+T47	NSCO 263 290	seguía tratamiento habitual
+T48	NEG 928 931	sin
+T49	NSCO 932 953	hallazgos patológicos
+T50	UNC 1024 1035	sospecha de
+T51	USCO 1036 1081	status parcial complejo con parálisis de Todd
+T52	NEG 1083 1085	no
+T53	NSCO 1086 1149	presentando alteraciones en el EEG, basal ni durante las crisis
+T54	NEG 1711 1713	no
+T55	NSCO 1714 1738	presentaban alteraciones
+T56	NEG 2179 2182	sin
+T57	NSCO 2183 2204	hallazgos patológicos
+T58	NEG 2341 2344	sin
+T59	NSCO 2345 2366	hallazgos patológicos
+T60	NEG 2391 2400	negativas
+T61	NEG 2426 2429	sin
+T62	NSCO 2430 2451	hallazgos patológicos
+T63	NEG 2493 2495	no
+T64	NSCO 2496 2561	se observaron lesiones isquémicas ni alteraciones de la perfusión
+T65	NEG 2639 2642	sin
+T66	NSCO 2643 2689	hallazgos significativos para el grupo de edad
+T67	NEG 2973 2986	interpretamos
+T68	NSCO 2987 3048	en relación con daño estructural a causa de una electrocución
+T69	NEG 3244 3246	No
+T70	NSCO 3247 3299	se objetivan asimetrías de los tractos reconstruidos
+T71	NEG 3411 3413	No
+T72	NSCO 3414 3454	se encuentran otros hallazgos reseñables
+T73	NEG 3561 3563	No
+T74	NSCO 3564 3657	se objetivan alteraciones en la distribución de los haces reconstruidos mediante tractografía
+T75	NEG 3959 3961	No
+T76	NSCO 3962 3988	otros hallazgos reseñables
+T77	NEG 4347 4358	ausencia de
+T78	NSCO 4359 4389	respuesta a estímulos verbales
+T79	NEG 4453 4455	no
+T80	NSCO 4456 4501	hay cambios en la actividad cerebral de fondo
+T81	NEG 4624 4626	No
+T82	NSCO 4627 4677	datos en la EMG de fenómeno distónico en la pierna
+T83	NEG 4734 4737	sin
+T84	NSCO 4738 4765	alteraciones retrococleares
+T85	NEG 4857 4860	sin
+T86	NSCO 4861 4882	hallazgos patológicos
+T87	NEG 5072 5074	No
+T88	NSCO 5075 5120	hay respuesta en reposo en la eminencia tenar
+T89	NEG 6190 6193	sin
+T90	NSCO 6194 6209	mejoría clínica
+T91	NEG 6541 6544	sin
+T92	NSCO 6545 6564	resolución completa
+T93	FARMACO 1183 1191	diazepam
+T94	FARMACO 1209 1222	carbamazepina
+T95	FARMACO 2780 2799	tecnecio 99m- HMPAO
+T96	FARMACO 5317 5330	Carbamazepina
+T97	FARMACO 5347 5360	levetiracetam
+T98	FARMACO 5375 5386	pregabalina
+T99	FARMACO 5402 5411	metamizol
+T100	FARMACO 5414 5425	paracetamol
+T101	FARMACO 5697 5710	carbamazepina
+T102	FARMACO 6156 6169	carbamazepina
+T103	FARMACO 6170 6178	diazepam
+T104	FARMACO 6344 6357	carbamazepina
+T105	FARMACO 6385 6398	levetiracetam
+T106	FARMACO 6456 6467	pregabalina
+T107	ORG_VIVO 25 30	varón
+T108	ORG_VIVO 820 829	neurólogo
+T109	ORG_VIVO 1363 1371	paciente
+T110	ORG_VIVO 2381 2384	VIH
+T111	ORG_VIVO 5520 5528	paciente
+T112	ENFERMEDAD 115 143	traumatismo craneoencefálico
+T113	ENFERMEDAD 662 673	hemiparesia
+T114	ENFERMEDAD 676 704	distonía de las extremidades
+T115	ENFERMEDAD 1064 1081	parálisis de Todd
+T116	ENFERMEDAD 1385 1434	escara en el cuero cabelludo de la región frontal
+T117	ENFERMEDAD 2510 2529	lesiones isquémicas
+T118	ENFERMEDAD 3322 3409	lesiones glióticas de aspecto residual en la sustancia blanca supratentorial bifronatal
+T119	ENFERMEDAD 4554 4612	afectación neurógena subaguda-crónica en el territorio CPE
+T120	ENFERMEDAD 5191 5219	distonía de las extremidades
+T121	ENFERMEDAD 5577 5603	crisis parciales complejas
+T122	SANITARIO-PROFESION 820 829	neurólogo
+T123	PACIENTE-PROFESION 371 416	Se encontraba trabajando (arreglando un techo

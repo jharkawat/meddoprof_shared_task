@@ -1,0 +1,19 @@
+Mujer de 68 años, natural de Inglaterra, con antecedentes de cardiopatía isquémica y estenosis de canal lumbar remitida para ingreso por neutropenia severa tras control analítico por su médico de atención primaria. La paciente refiere toma prolongada de metamizol por lumbociatalgia, junto con astenia y disnea. A la exploración destaca hipoventilación generalizada con saturación basal del 92%. Se solicita control analítico en el que destaca Leucopenia de 800/l y neutrófilos 100/l, PCR 140mg/l, VSG 70. En rx Tórax: patrón intersticial bilateral y nódulos pulmonares bilaterales.
+
+Diagnóstico diferencial
+Dada la clínica, antecedentes y resultados:
+Leucopenia tóxica por metamizol.
+Infiltración tumoral: anemia aplásica, sd mielodisplásico, leucemias agudas. Paraneoplásico.
+Autoinmune: vasculitis, Lupus eritematoso sistémico, artritis reumatoide, sd Sjogren Infeccioso: Sepsis grave, viral (hepatitis, VIH, gripe, VEB, CMV), tuberculosa, brucella.
+Déficit nutricional: déficit de b12, ácido fólico o cobre. Hiperesplenismo. Neutropenia crónica idiopática.
+
+Evolución
+Se inició tratamiento con factores estimulantes de colonias, ácido fólico y b12, junto a antibioterapia empírica con vancomicna y meropenem.
+Se solicitó analítica completa con función renal, hepática, iones, coagulación, función tiroidea, ácido fólico, b12: dentro de la normalidad; mantoux negativo, serologías: Negativas para brucella, VIH, Virus hepatotropos, VEB, CMV.
+En pruebas de imagen se evidenció: nódulos pulmonares bilaterales de 17 mm e infiltrados en vidrio deslustrado, derrame pleural bilateral-
+Se realizó Biopsia de medula ósea: agranulocitosis sin infiltración tumoral y cultivos negativos.
+Se solicitó estudio de autoinmunidad con: ANAs positivo 1/160 patrón homogéneo, antiDNA negativo, ENAS negativos, p- ANCA (IFI) positivos.
+Se realizó broncoscopia cultivos sin crecimiento y citometría normales.
+Tras descartar infección subyacente, se inició tratamiento con corticoides a dosis 1mg/kg/día con mejoría de neutropenia y desaparición de fiebre así como normalización de RFA.
+Tras las pruebas solicitadas y los hallazgos de agranulocitosis, nódulos pulmonares bilaterales. ANAs positivos y p-ANCA positivos: cuadro clínico compatible con GRANULOMATOSIS DE WEGENER.
+Se inició tratamiento con ciclofosfamida + prednisona con buena respuesta, desaparición de nódulos pulmonares.

@@ -1,0 +1,23 @@
+
+A	O
+nivel	O
+abdominal	O
+,	O
+destaca	O
+únicamente	O
+hepatomegalia	O
+no	O
+dolorosa	O
+a	O
+expensas	O
+del	O
+lóbulo	O
+hepático	O
+izquierdo	O
+a	O
+1	O
+centímetro	O
+del	O
+reborde	O
+costal	O
+.	O

@@ -1,0 +1,19 @@
+
+Al	O
+tacto	O
+rectal	O
+se	O
+aprecia	O
+una	O
+próstata	O
+aumentada	O
+de	O
+tamaño	O
+,	O
+dura	O
+y	O
+dolorosa	O
+a	O
+la	O
+palpación	O
+.	O

@@ -1,0 +1,25 @@
+
+Existía	O
+leve	O
+hiperemia	O
+conjuntival	O
+,	O
+restricciones	O
+en	O
+las	O
+supraducciones	O
+del	O
+OD	O
+con	O
+diplopia	O
+vertical	O
+y	O
+leve	O
+exoftalmos	O
+ipsilateral	O
+con	O
+párpados	O
+edematosos	O
+a	O
+tensión	O
+.	O

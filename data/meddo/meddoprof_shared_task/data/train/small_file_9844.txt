@@ -1,0 +1,20 @@
+
+Ante	O
+un	O
+paciente	O
+con	O
+fiebre	O
+y	O
+exantema	O
+hay	O
+multitud	O
+de	O
+diagnósticos	O
+que	O
+se	O
+deben	O
+descartar	O
+,	O
+como	O
+son	O
+:	O

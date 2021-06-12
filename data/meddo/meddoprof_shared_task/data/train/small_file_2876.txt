@@ -1,0 +1,22 @@
+
+A	O
+su	O
+llegada	O
+a	O
+Urgencias	O
+,	O
+mantiene	O
+semejante	O
+estado	O
+general	O
+,	O
+con	O
+tendencia	O
+a	O
+la	O
+hipotensión	O
+,	O
+taquicárdico	O
+y	O
+sudoroso	O
+.	O

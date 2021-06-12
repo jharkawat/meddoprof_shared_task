@@ -1,0 +1,13 @@
+
+En	O
+la	O
+anamnesis	O
+de	O
+la	O
+paciente	O
+no	O
+constan	O
+antecedentes	O
+psicopatológicos	O
+significativos	O
+.	O

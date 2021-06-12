@@ -1,0 +1,7 @@
+
+Padre	O
+biológico	O
+con	O
+probable	O
+T	O
+.	O

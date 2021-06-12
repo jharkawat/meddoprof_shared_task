@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+reanudó	O
+su	O
+programa	O
+de	O
+mantenimiento	O
+periodontal	O
+cada	O
+4	O
+meses	O
+.	O

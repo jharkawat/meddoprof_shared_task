@@ -1,0 +1,24 @@
+
+Confusión	O
+aguda	O
+mental	O
+o	O
+Delirium	O
+asociado	O
+al	O
+consumo	O
+de	O
+cannabis	O
+,	O
+depresión	O
+reactiva	O
+desde	O
+hace	O
+tres	O
+meses	O
+tras	O
+el	O
+fallecimiento	O
+de	O
+su	O
+esposa	O

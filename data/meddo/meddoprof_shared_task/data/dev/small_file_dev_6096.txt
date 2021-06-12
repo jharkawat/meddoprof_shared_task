@@ -1,0 +1,25 @@
+
+Al	O
+ingreso	O
+se	O
+instauró	O
+tratamiento	O
+antibiótico	O
+con	O
+eritromicina	O
+a	O
+dosis	O
+de	O
+500	O
+mg	O
+/	O
+6	O
+horas	O
+vía	O
+oral	O
+junto	O
+a	O
+broncodilatadores	O
+y	O
+oxígeno	O
+.	O

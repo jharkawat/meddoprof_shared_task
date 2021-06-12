@@ -1,0 +1,9 @@
+
+Se	O
+ausculta	O
+soplo	O
+interescapular	O
+II	O
+/	O
+VI	O
+.	O

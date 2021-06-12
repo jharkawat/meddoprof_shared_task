@@ -1,0 +1,11 @@
+
+No	O
+había	O
+regresado	O
+recientemente	O
+a	O
+su	O
+país	O
+de	O
+origen	O
+.	O

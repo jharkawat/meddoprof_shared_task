@@ -1,0 +1,19 @@
+ANAMNESIS
+Mujer de 82 años hipertensa de larga evolución en tratamiento con furosemida y valsartán. Hipotiroidismo en tratamiento sustitutivo. Insuficiencia renal crónica moderada y encefalopatía vascular de pequeño vaso. Situación basal: independiente para las actividades básicas de la vida diaria. Nivel cognitivo adecuado para su edad. Deambula con andador.
+La paciente ingresó en el Servicio de Medicina Interna de nuestro hospital por flúter auricular de morfología atípica y conducción variable, con frecuencia ventricular en torno a 145 latidos por minuto. Dada la edad de la paciente se decidió estrategia de control de la frecuencia cardiaca, que se consiguió con amiodarona, 200 mg cada 8 h, y bisoprolol, 5 mg cada 12 h. Al alta se fue en flúter auricular con una frecuencia ventricular en torno a 95 lpm.
+Una semana más tarde es remitida por un médico del 061 por cuadro de mareo y náuseas, así como pérdida de conciencia autolimitada con « ronquido» acompañante. Tras ser evaluada en domicilio y sospechar intoxicación/sobredosis farmacológica por presencia de bradicardia, se remite a Urgencias. A su llegada a Urgencias se encuentra en bradicardia sinusal a 40 latidos por minuto y se le administra 1 ampolla de atropina intravenosa. Estando en las camas de observación refieren un nuevo episodio de pérdida de conciencia autolimitado (no hay registros).
+
+EXPLORACIÓN FÍSICA
+Consciente y orientada. Buen estado general. Delgada. Sin cianosis. Tensión arterial: 125/90 mm de Hg. Frecuencia cardiaca: 42 latidos por minuto. Auscultación cardiaca: rítmica. Rítmicos. No soplos ni extratonos. Auscultación pulmonar: crepitantes bibasales. Abdomen blando, depresible y no doloroso. Edemas con fóvea hasta zonas pretibiales. Sin focalidad neurológica aparente.
+
+EXPLORACIONES COMPLEMENTARIAS
+Datos de laboratorio (básico): creatinina: 2,60 mg/dl; urea: 120 mg/dl; K: 3,8 mEq/l; Na: 140 mEq/l; hemoglobina: 11 g/dl; troponina T: 0,085 ng/ml. Resto de analítica: sin hallazgos significativos.
+Electrocardiograma de Urgencias: bradicardia sinusal a 54 lpm con bigeminismo ventricular polimórfico; PR: 130 ms, QRS estrecho y QT corregido (QTc) de 640 ms.
+Radiografía de tórax: ateroma aórtico calcificado con silueta cardiaca normal y mínima redistribución vascular.
+Ecocardiograma transtorácico: ventrículo izquierdo con diámetros normales, sin hipertrofia. Fracción de eyección del 65% con contractilidad segmentaria normal. Disfunción diastólica tipo I. Aurícula izquierda de tamaño normal. Válvula aórtica degenerativa sin flujos anómalos. Válvula mitral con anillo calcificado y regurgitación de grado leve. Cavidades derechas de dimensiones normales. Insuficiencia tricuspídea leve, no hipertensión pulmonar. Pericardio normal. Aorta ascendente normal.
+
+EVOLUCIÓN Y TRATAMIENTO
+Una vez en planta se documentan en la telemetría salvas de taquicardia ventricular no sostenida tipo torsades de pointes (TdP). Se interpreta el cuadro como TdP y QT largo secundario a amiodarona y bradicardia, por lo que se inicia tratamiento con isoproterenol para mantener la frecuencia cardiaca al menos por encima de 80 latidos por minuto. Se suspende la amiodarona y el bisoprolol y se aumentan las cifras de potasio. Presenta buena respuesta al tratamiento, con desaparición de los episodios arrítmicos tras la retirada de isoproterenol. En el electrocardiograma a los 15 días se encuentra en ritmo sinusal a 65 latidos por minuto y con un QTc de 460 ms.
+
+JUICIO CLÍNICO
+Taquicardia ventricular polimórfica tipo torsades de pointes secundaria a QT largo por amiodarona.

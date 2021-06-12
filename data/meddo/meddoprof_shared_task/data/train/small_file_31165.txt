@@ -1,0 +1,8 @@
+
+2a	O
+Analítican	O
+Hemograma	O
+:	O
+en	O
+rango	O
+.	O

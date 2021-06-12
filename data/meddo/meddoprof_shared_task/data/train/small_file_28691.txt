@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+ha	O
+permanecido	O
+ingresado	O
+un	O
+total	O
+de	O
+35	O
+días	O
+.	O

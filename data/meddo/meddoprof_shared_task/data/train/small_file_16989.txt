@@ -1,0 +1,23 @@
+
+En	O
+su	O
+centro	O
+de	O
+salud	O
+se	O
+le	O
+había	O
+prescrito	O
+progresivamente	O
+paracetamol	O
+,	O
+naproxeno	O
+,	O
+metamizol	O
+y	O
+lorazepam	O
+,	O
+sin	O
+mejoría	O
+alguna	O
+.	O

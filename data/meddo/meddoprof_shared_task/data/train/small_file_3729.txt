@@ -1,0 +1,26 @@
+
+Aporta	O
+documentación	O
+de	O
+EC	O
+,	O
+ya	O
+firmada	O
+,	O
+sin	O
+haber	O
+comprendido	O
+en	O
+qué	O
+consiste	O
+y	O
+cómo	O
+se	O
+realiza	O
+hasta	O
+que	O
+consulta	O
+con	O
+sus	O
+MdF	B-PROFESION
+.	O

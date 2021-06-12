@@ -1,0 +1,13 @@
+
+Ausencia	O
+de	O
+invasión	O
+del	O
+uréter	O
+y	O
+los	O
+vasos	O
+del	O
+hilio	O
+renal	O
+.	O

@@ -1,0 +1,14 @@
+
+Su	O
+conciencia	O
+se	O
+obnubiló	O
+y	O
+redujo	O
+su	O
+capacidad	O
+de	O
+atención	O
+y	O
+notación	O
+.	O

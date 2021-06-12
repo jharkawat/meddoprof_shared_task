@@ -1,0 +1,9 @@
+
+Motivo	O
+de	O
+Consulta	O
+:	O
+Lesión	O
+en	O
+piel	O
+.	O

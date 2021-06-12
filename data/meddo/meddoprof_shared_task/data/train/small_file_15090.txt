@@ -1,0 +1,16 @@
+
+Añadimos	O
+gastroscopia	O
+con	O
+biopsias	O
+,	O
+biopsia	O
+de	O
+nervio	O
+sural	O
+y	O
+fondo	O
+de	O
+ojo	O
+normales	O
+.	O

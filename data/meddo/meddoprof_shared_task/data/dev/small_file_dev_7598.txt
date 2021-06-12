@@ -1,0 +1,13 @@
+
+Dislipemia	O
+en	O
+tratamiento	O
+con	O
+estatinas	O
+,	O
+niega	O
+diabetes	O
+mellitus	O
+ni	O
+hipertensión	O
+.	O

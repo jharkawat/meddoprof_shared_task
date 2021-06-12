@@ -1,0 +1,17 @@
+
+Un	O
+hermano	O
+padece	O
+un	O
+trastorno	O
+bipolar	O
+en	O
+tratamiento	O
+con	O
+carbonato	O
+de	O
+litio	O
+,	O
+actualmente	O
+asintomático	O
+.	O

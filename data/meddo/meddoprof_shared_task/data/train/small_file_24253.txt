@@ -1,0 +1,14 @@
+
+También	O
+dio	O
+positivo	O
+en	O
+la	O
+serología	O
+del	O
+virus	O
+de	O
+la	O
+hepatitis	O
+C	O
+.	O

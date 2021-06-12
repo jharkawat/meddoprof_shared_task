@@ -1,0 +1,7 @@
+
+Abdomen	O
+:	O
+Ruidos	O
+hidroaéreos	O
+positivos	O
+.	O

@@ -1,0 +1,26 @@
+
+Boca	O
+:	O
+arcada	O
+dentaria	O
+superior	O
+e	O
+inferior	O
+normales	O
+,	O
+mucosa	O
+hidratada	O
+,	O
+faringe	O
+normal	O
+,	O
+amígalas	O
+palatinas	O
+sin	O
+rebasar	O
+el	O
+borde	O
+del	O
+pilar	O
+anterior	O
+.	O

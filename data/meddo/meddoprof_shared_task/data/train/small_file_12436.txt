@@ -1,0 +1,11 @@
+
+Los	O
+cultivos	O
+y	O
+la	O
+PCR	O
+de	O
+virus	O
+fueron	O
+negativos	O
+.	O

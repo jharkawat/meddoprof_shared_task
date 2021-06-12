@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+mejoró	O
+al	O
+iniciar	O
+una	O
+pauta	O
+de	O
+tratamiento	O
+con	O
+omeprazol	O
+.	O

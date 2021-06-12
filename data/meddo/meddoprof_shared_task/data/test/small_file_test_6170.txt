@@ -1,0 +1,7 @@
+
+Exfumador	O
+50	O
+paquetes	O
+-	O
+año	O
+.	O

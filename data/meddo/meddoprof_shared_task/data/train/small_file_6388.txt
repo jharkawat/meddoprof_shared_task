@@ -1,0 +1,22 @@
+
+En	O
+el	O
+hemograma	O
+cabe	O
+destacar	O
+24	O
+.	O
+700	O
+leucocitos	O
+con	O
+neutrofilia	O
+,	O
+siendo	O
+la	O
+serie	O
+roja	O
+y	O
+las	O
+plaquetas	O
+normales	O
+.	O

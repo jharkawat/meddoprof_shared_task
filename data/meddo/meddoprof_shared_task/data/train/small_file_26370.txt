@@ -1,0 +1,14 @@
+
+Dada	O
+la	O
+clínica	O
+persistente	O
+se	O
+realizó	O
+una	O
+revisión	O
+de	O
+la	O
+historia	O
+evolutiva	O
+.	O

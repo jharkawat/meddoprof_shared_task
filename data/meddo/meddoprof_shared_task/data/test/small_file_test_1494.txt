@@ -1,0 +1,16 @@
+
+Bajo	O
+anestesia	O
+troncular	O
+e	O
+infiltrativa	O
+,	O
+en	O
+esta	O
+intervención	O
+realizada	O
+por	O
+A	O
+.	O
+L	O
+.	O

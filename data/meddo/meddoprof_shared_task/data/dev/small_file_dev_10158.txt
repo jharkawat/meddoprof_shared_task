@@ -1,0 +1,14 @@
+
+La	O
+paciente	O
+es	O
+una	O
+mujer	O
+de	O
+32	O
+años	O
+que	O
+trabaja	O
+como	O
+bibliotecaria	B-PROFESION
+.	O

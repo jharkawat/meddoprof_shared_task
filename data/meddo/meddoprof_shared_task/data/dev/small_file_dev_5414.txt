@@ -1,0 +1,11 @@
+
+Intervenciones	O
+quirúrgicas	O
+previas	O
+:	O
+hernioplastia	O
+inguinal	O
+derecha	O
+en	O
+2009	O
+.	O

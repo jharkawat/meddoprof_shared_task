@@ -1,0 +1,23 @@
+
+En	O
+los	O
+signos	O
+patológicos	O
+no	O
+violentos	O
+se	O
+detectó	O
+cianosis	O
+distal	O
+,	O
+onicomicosis	O
+en	O
+el	O
+1er	O
+y	O
+2do	O
+dedos	O
+de	O
+ambos	O
+pies	O
+.	O

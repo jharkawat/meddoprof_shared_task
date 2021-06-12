@@ -1,0 +1,9 @@
+
+La	O
+crianza	O
+fue	O
+compartida	O
+materna	O
+y	O
+paterna	O
+.	O

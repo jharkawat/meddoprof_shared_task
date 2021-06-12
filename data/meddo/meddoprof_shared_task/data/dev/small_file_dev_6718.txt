@@ -1,0 +1,6 @@
+
+Auscultación	O
+cardiopulmonar	O
+sin	O
+hallazgos	O
+.	O

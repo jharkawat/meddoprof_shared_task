@@ -1,0 +1,18 @@
+
+Tratamiento	O
+citostático	O
+con	O
+carboplatino	O
+-	O
+paclitaxel	O
+,	O
+y	O
+octreótido	O
+mensual	O
+que	O
+se	O
+inicia	O
+durante	O
+el	O
+ingreso	O
+.	O

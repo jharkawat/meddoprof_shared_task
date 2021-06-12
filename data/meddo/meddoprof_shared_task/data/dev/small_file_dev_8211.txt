@@ -1,0 +1,27 @@
+
+Tras	O
+instauración	O
+de	O
+tratamiento	O
+el	O
+paciente	O
+se	O
+encuentra	O
+asintomático	O
+,	O
+con	O
+desaparición	O
+de	O
+la	O
+verruga	O
+en	O
+válvula	O
+aórtica	O
+y	O
+una	O
+ganancia	O
+ponderal	O
+de	O
+16	O
+kg	O
+.	O

@@ -1,0 +1,8 @@
+
+Bazo	O
+de	O
+tamaño	O
+y	O
+morfología	O
+normal	O
+.	O

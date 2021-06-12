@@ -1,0 +1,136 @@
+T1	SINTOMA 689 695	disnea
+T2	SINTOMA 780 813	edemas en extremidades inferiores
+T3	SINTOMA 815 822	astenia
+T4	SINTOMA 824 832	anorexia
+T5	SINTOMA 835 850	pérdida de peso
+T6	SINTOMA 879 885	fiebre
+T7	SINTOMA 935 945	Consciente
+T8	SINTOMA 947 956	orientado
+T9	SINTOMA 959 970	colaborador
+T10	SINTOMA 992 1001	Taquipnea
+T11	SINTOMA 1055 1082	ruidos cardíacos arrítmicos
+T12	SINTOMA 1088 1094	soplos
+T13	SINTOMA 1106 1119	broncoespasmo
+T14	SINTOMA 1125 1168	crepitantes finos en ambas bases pulmonares
+T15	SINTOMA 1170 1225	Abdomen: blando, depresible, no doloroso a la palpación
+T16	SINTOMA 1271 1282	peritonismo
+T17	SINTOMA 1284 1311	ruidos hidroaéreos audibles
+T18	SINTOMA 1353 1389	edema con fóvea hasta ambas rodillas
+T19	SINTOMA 4088 4109	masa en el ventrículo
+T20	SINTOMA 4596 4607	trombopenia
+T21	SINTOMA 4743 4751	falleció
+T22	PROCEDIMIENTO 265 278	quimioterapia
+T23	PROCEDIMIENTO 558 576	TC toracoabdominal
+T24	PROCEDIMIENTO 916 934	Exploración física
+T25	PROCEDIMIENTO 1026 1053	Auscultación cardiopulmonar
+T26	PROCEDIMIENTO 1597 1617	Radiografía de tórax
+T27	PROCEDIMIENTO 1708 1711	ECG
+T28	PROCEDIMIENTO 1777 1791	Toracocentesis
+T29	PROCEDIMIENTO 1825 1839	Ecocardiograma
+T30	PROCEDIMIENTO 1960 1982	Biopsia de médula ósea
+T31	PROCEDIMIENTO 2152 2170	TC toracoabdominal
+T32	PROCEDIMIENTO 3772 3782	diuréticos
+T33	PROCEDIMIENTO 3900 3914	oxigenoterapia
+T34	PROCEDIMIENTO 3917 3938	tratamiento diurético
+T35	PROCEDIMIENTO 4051 4065	ecocardiograma
+T36	PROCEDIMIENTO 4304 4320	biopsia cardíaca
+T37	PROCEDIMIENTO 4333 4344	cateterismo
+T38	PROCEDIMIENTO 4650 4663	transfusiones
+T39	PROCEDIMIENTO 4841 4849	autopsia
+T40	NEG 36 39	sin
+T41	NSCO 40 108	alergias medicamentosas conocidas ni antecedentes médicos de interés
+T42	NEG 166 168	No
+T43	NSCO 169 225	conocido en nuestro Servicio con anterioridad al ingreso
+T44	NEG 851 853	no
+T45	NSCO 854 866	cuantificada
+T46	NEG 868 870	No
+T47	NSCO 871 913	refiere fiebre ni otra clínica acompañante
+T48	NEG 1084 1087	sin
+T49	NSCO 1088 1094	soplos
+T50	NEG 1199 1201	no
+T51	NSCO 1202 1225	doloroso a la palpación
+T52	NEG 1227 1229	No
+T53	NSCO 1230 1282	se palpan masas ni megalias ni signos de peritonismo
+T54	NEG 1391 1394	sin
+T55	NSCO 1395 1430	signos de trombosis venosa profunda
+T56	UNC 1651 1659	probable
+T57	USCO 1660 1674	origen pleural
+T58	NEG 1736 1739	sin
+T59	NSCO 1740 1773	alteraciones en la repolarización
+T60	UNC 1929 1937	probable
+T61	USCO 1938 1956	origen metastásico
+T62	NEG 2084 2087	sin
+T63	NSCO 2088 2148	evidencia de infiltración neoplásica en el material remitido
+T64	UNC 2690 2704	compatible con
+T65	USCO 2705 2730	linfangitis carcinomatosa
+T66	UNC 2980 2994	compatible con
+T67	USCO 2995 3015	metástasis hepáticas
+T68	NEG 3188 3191	sin
+T69	NSCO 3192 3222	dilatación de la vía excretora
+T70	NEG 3224 3226	No
+T71	NSCO 3227 3272	se identifica líquido libre cavidad abdominal
+T72	NEG 3291 3294	sin
+T73	NSCO 3295 3319	hallazgos significativos
+T74	UNC 3948 3956	sospecha
+T75	USCO 3957 4017	diagnóstica de insuficiencia cardíaca secundaria a toxicidad
+T76	UNC 4164 4183	primera posibilidad
+T77	USCO 4184 4194	metástasis
+T78	NEG 4273 4285	Se desestimó
+T79	NSCO 4286 4344	la realización de biopsia cardíaca a través de cateterismo
+T80	UNC 4401 4412	sospecha de
+T81	USCO 4413 4431	progresión tumoral
+T82	NEG 4824 4826	No
+T83	NSCO 4827 4849	se realizó la autopsia
+T84	NEG 4862 4864	no
+T85	NSCO 4865 4897	tenemos confirmación histológica
+T86	NSCO 4957 5028	todos los datos orientan al origen metastático de la masa intracardíaca
+T87	FARMACO 280 293	doxorrubicina
+T88	FARMACO 3785 3794	sorafenib
+T89	FARMACO 4478 4487	sorafenib
+T90	FARMACO 4691 4700	sorafenib
+T91	ORG_VIVO 10 15	Varón
+T92	ORG_VIVO 388 396	paciente
+T93	ORG_VIVO 3333 3341	paciente
+T94	ORG_VIVO 3810 3818	paciente
+T95	ORG_VIVO 4383 4391	paciente
+T96	ORG_VIVO 4526 4534	paciente
+T97	ORG_VIVO 4734 4742	paciente
+T98	ENFERMEDAD 40 63	alergias medicamentosas
+T99	ENFERMEDAD 135 164	carcinoma papilar de tiroides
+T100	ENFERMEDAD 473 488	derrame pleural
+T101	ENFERMEDAD 499 530	nódulos mediastínicos tumorales
+T102	ENFERMEDAD 623 638	nódulo cervical
+T103	ENFERMEDAD 1405 1430	trombosis venosa profunda
+T104	ENFERMEDAD 1619 1674	nódulos en hemitórax derecho de probable origen pleural
+T105	ENFERMEDAD 1680 1704	derrame leve ipsilateral
+T106	ENFERMEDAD 1713 1734	fibrilación auricular
+T107	ENFERMEDAD 2101 2124	infiltración neoplásica
+T108	ENFERMEDAD 2339 2396	tumoral a mediastino con ocupación de región paratraqueal
+T109	ENFERMEDAD 2420 2431	adenopatías
+T110	ENFERMEDAD 2449 2487	infiltración tumoral de pared torácica
+T111	ENFERMEDAD 2594 2617	invasión a canal neural
+T112	ENFERMEDAD 2705 2730	linfangitis carcinomatosa
+T113	ENFERMEDAD 2732 2752	Adenopatías axilares
+T114	ENFERMEDAD 2777 2792	Derrame pleural
+T115	ENFERMEDAD 2807 2831	atelectasia basal pasiva
+T116	ENFERMEDAD 2833 2859	Lesiones focales hepáticas
+T117	ENFERMEDAD 2995 3015	metástasis hepáticas
+T118	ENFERMEDAD 3027 3090	adenopatías abdominales retroperitoneales (en el tronco celíaco
+T119	ENFERMEDAD 3346 3364	cáncer de tiroides
+T120	ENFERMEDAD 3369 3389	metástasis pleurales
+T121	ENFERMEDAD 3411 3466	tumoral a mediastino, pared torácica costal y vertebral
+T122	ENFERMEDAD 3470 3528	invasión del canal neural en los primeros cuerpos dorsales
+T123	ENFERMEDAD 3540 3565	linfangitis carcinomatosa
+T124	ENFERMEDAD 3567 3587	Metástasis hepáticas
+T125	ENFERMEDAD 3589 3665	Metástasis ganglionares axilares derechas, mediastínicas y retroperitoneales
+T126	ENFERMEDAD 3667 3682	Derrame pleural
+T127	ENFERMEDAD 3707 3736	Carcinoma papilar de tiroides
+T128	ENFERMEDAD 3865 3887	insuficiencia cardíaca
+T129	ENFERMEDAD 3972 3994	insuficiencia cardíaca
+T130	ENFERMEDAD 4008 4035	toxicidad por antraciclinas
+T131	ENFERMEDAD 4184 4194	metástasis
+T132	ENFERMEDAD 4413 4431	progresión tumoral
+T133	ENFERMEDAD 4596 4607	trombopenia
+T134	ENFERMEDAD 4610 4624	anemia severas
+T135	ENFERMEDAD 4804 4822	enfermedad tumoral
+T136	ENFERMEDAD 4931 4955	metastásica generalizada

@@ -1,0 +1,7 @@
+
+Hipoparestesia	O
+distal	O
+en	O
+miembros	O
+inferiores	O
+.	O

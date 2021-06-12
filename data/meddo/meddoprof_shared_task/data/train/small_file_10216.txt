@@ -1,0 +1,27 @@
+
+Los	O
+hallazgos	O
+descritos	O
+son	O
+:	O
+En	O
+mediastino	O
+existen	O
+adenopatías	O
+en	O
+ventana	O
+aorto	O
+-	O
+pulmonar	O
+y	O
+espacio	O
+prevascular	O
+de	O
+1	O
+,	O
+5	O
+cm	O
+.	O
+eje	O
+máximo	O
+.	O

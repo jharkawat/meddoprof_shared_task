@@ -1,0 +1,6 @@
+
+Dice	O
+no	O
+sentirse	O
+perseguido	O
+.	O

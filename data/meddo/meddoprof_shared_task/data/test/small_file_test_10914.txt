@@ -1,0 +1,12 @@
+
+La	O
+madre	O
+nos	O
+informa	O
+que	O
+es	O
+"	O
+mala	O
+comedora	O
+"	O
+.	O

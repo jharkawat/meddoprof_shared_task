@@ -1,0 +1,6 @@
+
+Fusión	O
+vertebral	O
+posterior	O
+C4C5	O
+.	O

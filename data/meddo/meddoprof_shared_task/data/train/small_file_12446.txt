@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+presentó	O
+una	O
+excelente	O
+respuesta	O
+diurética	O
+con	O
+rápida	O
+mejoría	O
+clínica	O
+y	O
+normalización	O
+de	O
+los	O
+parámetros	O
+bioquímicos	O
+.	O

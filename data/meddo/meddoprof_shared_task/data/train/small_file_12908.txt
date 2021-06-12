@@ -1,0 +1,19 @@
+
+Sin	O
+embargo	O
+,	O
+en	O
+este	O
+momento	O
+se	O
+plantea	O
+la	O
+disyuntiva	O
+:	O
+¿	O
+uso	O
+de	O
+un	O
+abordaje	O
+anterior	O
+?	O

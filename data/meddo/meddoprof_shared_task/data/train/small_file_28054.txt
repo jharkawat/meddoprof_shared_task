@@ -1,0 +1,15 @@
+
+David	O
+comenzó	O
+a	O
+trabajar	O
+como	O
+policía	B-PROFESION
+nacional	I-PROFESION
+a	O
+la	O
+edad	O
+de	O
+20	O
+años	O
+.	O

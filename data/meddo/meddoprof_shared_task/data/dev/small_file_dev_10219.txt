@@ -1,0 +1,14 @@
+
+La	O
+familia	O
+biológica	O
+de	O
+la	O
+paciente	O
+incluía	O
+varios	O
+casos	O
+de	O
+enfermedad	O
+psiquiátrica	O
+.	O

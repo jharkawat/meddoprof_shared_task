@@ -1,0 +1,6 @@
+
+Juicio	O
+clínico	O
+y	O
+diagnóstico	O
+diferencial	O

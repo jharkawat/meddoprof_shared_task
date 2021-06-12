@@ -1,0 +1,20 @@
+
+Tras	O
+el	O
+alta	O
+hospitalaria	O
+,	O
+fue	O
+remitido	O
+a	O
+un	O
+equipo	B-PROFESION
+multidisciplinar	I-PROFESION
+de	I-PROFESION
+asistencia	I-PROFESION
+a	I-PROFESION
+primeros	I-PROFESION
+episodios	I-PROFESION
+de	I-PROFESION
+psicosis	I-PROFESION
+.	O

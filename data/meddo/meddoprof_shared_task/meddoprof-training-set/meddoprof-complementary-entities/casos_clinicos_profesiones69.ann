@@ -1,0 +1,11 @@
+T1	SINTOMA 623 631	tristeza
+T2	SINTOMA 633 641	desánimo
+T3	PROCEDIMIENTO 94 118	tratamiento psiquiátrico
+T4	NEG 400 405	nunca
+T5	NSCO 406 420	ha sido severa
+T6	ORG_VIVO 17 22	mujer
+T7	ORG_VIVO 47 56	terapeuta
+T8	ORG_VIVO 152 162	psiquiatra
+T9	ORG_VIVO 545 549	hija
+T10	PACIENTE-PROFESION 47 68	terapeuta ocupacional
+T11	SANITARIO-PROFESION 152 162	psiquiatra

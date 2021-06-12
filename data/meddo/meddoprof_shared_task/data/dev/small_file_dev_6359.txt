@@ -1,0 +1,13 @@
+
+Su	O
+novia	O
+presentaba	O
+varias	O
+lesiones	O
+cutáneas	O
+similares	O
+,	O
+aunque	O
+permanecía	O
+asintomática	O
+.	O

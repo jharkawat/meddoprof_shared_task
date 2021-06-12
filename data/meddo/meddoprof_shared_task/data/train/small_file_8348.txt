@@ -1,0 +1,11 @@
+
+Puede	O
+ocurrir	O
+en	O
+todas	O
+aquellas	O
+enfermedades	O
+que	O
+produzcan	O
+esplenomegalia	O
+.	O

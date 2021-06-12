@@ -1,0 +1,74 @@
+T1	SINTOMA 1430 1446	dolor precordial
+T2	SINTOMA 1448 1454	llanto
+T3	SINTOMA 1465 1471	disnea
+T4	SINTOMA 1672 1680	Disneica
+T5	SINTOMA 2343 2348	dolor
+T6	SINTOMA 3150 3175	hemodinámicamente estable
+T7	SINTOMA 3812 3849	silviacarmen.oconnor@salud.madrid.org
+T8	PROCEDIMIENTO 1606 1624	Exploración física
+T9	PROCEDIMIENTO 1734 1744	gasometría
+T10	PROCEDIMIENTO 1927 1966	perfusión de nitroglicerina intravenosa
+T11	PROCEDIMIENTO 1969 2006	ventilación con mascarilla reservorio
+T12	PROCEDIMIENTO 2076 2079	ECG
+T13	PROCEDIMIENTO 2301 2304	ECG
+T14	PROCEDIMIENTO 2352 2363	Rx de tórax
+T15	PROCEDIMIENTO 2389 2418	Ecocardiografía transtorácica
+T16	PROCEDIMIENTO 2781 2796	coronariografía
+T17	PROCEDIMIENTO 2814 2835	vía femoral izquierda
+T18	PROCEDIMIENTO 2939 2955	ventriculografía
+T19	PROCEDIMIENTO 3205 3219	ecocardiograma
+T20	PROCEDIMIENTO 3812 3849	silviacarmen.oconnor@salud.madrid.org
+T21	NEG 988 990	no
+T22	NSCO 991 1047	se podían garantizar unas condiciones óptimas de trabajo
+T23	UNC 2218 2224	dudosa
+T24	USCO 2225 2258	supradesnivelación de ST en V1-V2
+T25	NEG 2280 2288	negativa
+T26	NSCO 2289 2299	en I y AVL
+T27	NEG 2329 2339	desaparece
+T28	NSCO 2340 2348	el dolor
+T29	UNC 2571 2582	sospecha de
+T30	USCO 2583 2585	Sd
+T31	NEG 2631 2634	sin
+T32	NSCO 2635 2663	aumento del valor enzimático
+T33	NEG 2838 2840	no
+T34	NSCO 2841 2896	se evidencian lesiones angiográficamente significativas
+T35	NEG 3178 3190	asintomática
+T36	NEG 3449 3457	descarta
+T37	NSCO 3458 3487	otros factores extralaborales
+T38	FARMACO 518 529	Paracetamol
+T39	FARMACO 1893 1903	Furosemida
+T40	FARMACO 1940 1954	nitroglicerina
+T41	FARMACO 2690 2693	AAS
+T42	FARMACO 2703 2714	clopidogrel
+T43	ORG_VIVO 10 18	paciente
+T44	ORG_VIVO 47 61	Recamal Chavez
+T45	ORG_VIVO 373 378	Mujer
+T46	ORG_VIVO 416 438	auxiliar de enfermería
+T47	ORG_VIVO 482 492	personales
+T48	ORG_VIVO 847 856	compañera
+T49	ORG_VIVO 1116 1127	trabajadora
+T50	ORG_VIVO 1364 1373	compañera
+T51	ORG_VIVO 1505 1515	compañeras
+T52	ORG_VIVO 1595 1604	compañera
+T53	ORG_VIVO 2034 2042	paciente
+T54	ENFERMEDAD 506 529	alérgica al Paracetamol
+T55	ENFERMEDAD 531 545	hipotiroidismo
+T56	ENFERMEDAD 547 558	microapneas
+T57	ENFERMEDAD 599 611	varices MMII
+T58	ENFERMEDAD 662 683	Hipertensión arterial
+T59	ENFERMEDAD 724 734	dislipemia
+T60	ENFERMEDAD 736 769	fibrilación auricular paroxística
+T61	ENFERMEDAD 1768 1800	insuficiencia respiratoria aguda
+T62	ENFERMEDAD 2365 2387	insuficiencia cardíaca
+T63	ENFERMEDAD 2583 2585	Sd
+T64	ENFERMEDAD 2590 2599	takotsubo
+T65	ENFERMEDAD 2601 2630	discinesia apical transitoria
+T66	ENFERMEDAD 3401 3446	desencadenantes emocionales de origen laboral
+T67	SANITARIO-PROFESION 317 323	Médico
+T68	SANITARIO-PROFESION 3658 3672	Médico Adjunto
+T69	PACIENTE-PROFESION 416 438	auxiliar de enfermería
+T70	OTROS-SITUACION_LABORAL 847 856	compañera
+T71	OTROS-SITUACION_LABORAL 1364 1373	compañera
+T72	OTROS-SITUACION_LABORAL 1595 1604	compañera
+T73	PACIENTE-SITUACION_LABORAL 1116 1127	trabajadora
+T74	OTROS-SITUACION_LABORAL 1505 1515	compañeras

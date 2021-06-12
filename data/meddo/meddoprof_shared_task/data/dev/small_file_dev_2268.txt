@@ -1,0 +1,10 @@
+
+Ella	O
+no	O
+considera	O
+que	O
+sean	O
+excesivas	O
+las	O
+cantidades	O
+.	O

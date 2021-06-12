@@ -1,0 +1,14 @@
+
+Se	O
+instaura	O
+tratamiento	O
+sintomático	O
+y	O
+se	O
+deriva	O
+a	O
+consultas	O
+de	O
+Medicina	O
+Interna	O
+.	O

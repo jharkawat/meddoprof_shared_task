@@ -1,0 +1,17 @@
+
+Los	O
+espasmos	O
+cervicales	O
+eran	O
+en	O
+rotación	O
+hacia	O
+la	O
+izquierda	O
+con	O
+antero	O
+/	O
+retro	O
+-	O
+colis	O
+.	O

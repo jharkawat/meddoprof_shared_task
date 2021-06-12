@@ -1,0 +1,18 @@
+
+Actualmente	O
+está	O
+en	B-SITUACION_LABORAL
+paro	I-SITUACION_LABORAL
+,	O
+aunque	O
+anteriormente	O
+trabajó	O
+de	O
+jardinera	B-PROFESION
+a	O
+los	O
+17	O
+años	O
+de	O
+edad	O
+.	O

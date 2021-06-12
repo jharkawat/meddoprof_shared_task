@@ -1,0 +1,10 @@
+
+Riñones	O
+y	O
+resto	O
+de	O
+cavidad	O
+abdominal	O
+sin	O
+anormalidades	O
+.	O

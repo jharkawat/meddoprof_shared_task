@@ -1,0 +1,9 @@
+
+Neoplasia	O
+pulmonar	O
+maligna	O
+:	O
+primaria	O
+o	O
+metastásica	O
+.	O

@@ -1,0 +1,16 @@
+
+Retina	O
+con	O
+aspecto	O
+edematoso	O
+en	O
+el	O
+ojo	O
+derecho	O
+,	O
+de	O
+predominio	O
+perifoveal	O
+y	O
+peripapilar	O
+.	O

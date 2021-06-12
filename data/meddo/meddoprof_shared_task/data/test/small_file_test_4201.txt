@@ -1,0 +1,22 @@
+
+Se	O
+desestimó	O
+la	O
+realización	O
+de	O
+biopsia	O
+cardíaca	O
+a	O
+través	O
+de	O
+cateterismo	O
+,	O
+por	O
+el	O
+alto	O
+riesgo	O
+que	O
+presentaba	O
+el	O
+paciente	O
+.	O

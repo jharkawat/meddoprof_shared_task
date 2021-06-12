@@ -1,0 +1,14 @@
+
+Ante	O
+este	O
+hallazgo	O
+el	O
+paciente	O
+ingresó	O
+a	O
+cargo	O
+del	O
+Servicio	O
+de	O
+Neurología	O
+.	O

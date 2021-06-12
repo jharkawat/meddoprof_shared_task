@@ -1,0 +1,13 @@
+
+En	O
+las	O
+horas	O
+siguientes	O
+se	O
+resuelve	O
+el	O
+cuadro	O
+,	O
+quedando	O
+asintomática	O
+.	O

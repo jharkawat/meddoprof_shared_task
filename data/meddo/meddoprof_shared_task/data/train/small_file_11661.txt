@@ -1,0 +1,24 @@
+
+Paciente	O
+de	O
+38	O
+an	O
+̃	O
+os	O
+,	O
+remitido	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+a	O
+consulta	O
+de	O
+Medicina	O
+Interna	O
+para	O
+estudio	O
+de	O
+anemia	O
+.	O

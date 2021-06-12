@@ -1,0 +1,17 @@
+
+Abdomen	O
+blando	O
+,	O
+depresible	O
+,	O
+no	O
+doloroso	O
+a	O
+la	O
+palpación	O
+;	O
+sin	O
+crecimientos	O
+viscerales	O
+palpables	O
+.	O

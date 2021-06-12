@@ -1,0 +1,15 @@
+
+En	O
+ocasiones	O
+puntuales	O
+ha	O
+sido	O
+necesario	O
+controlar	O
+su	O
+comportamiento	O
+desorganizado	O
+(	O
+parafilias	O
+)	O
+.	O

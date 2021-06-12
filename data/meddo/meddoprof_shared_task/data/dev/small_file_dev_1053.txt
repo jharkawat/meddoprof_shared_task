@@ -1,0 +1,14 @@
+
+Tiene	O
+hipoprosexia	O
+y	O
+ha	O
+presentado	O
+oscilaciones	O
+anímicas	O
+con	O
+episodios	O
+de	O
+euforia	O
+marcada	O
+.	O

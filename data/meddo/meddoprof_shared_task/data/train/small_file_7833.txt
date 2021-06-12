@@ -1,0 +1,8 @@
+
+Diabetes	O
+Mellitus	O
+tipo	O
+2	O
+con	O
+Metformina	O
+.	O

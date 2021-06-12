@@ -1,0 +1,14 @@
+
+Remitida	O
+a	O
+psiquiatría	O
+,	O
+donde	O
+se	O
+realizaba	O
+seguimiento	O
+por	O
+su	O
+enfermedad	O
+previa	O
+.	O

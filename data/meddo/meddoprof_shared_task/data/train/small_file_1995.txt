@@ -1,0 +1,17 @@
+
+La	O
+lesión	O
+periférica	O
+del	O
+nervio	O
+puede	O
+conducir	O
+a	O
+la	O
+degeneración	O
+de	O
+estas	O
+fibras	O
+C	O
+desmielinizadas	O
+.	O

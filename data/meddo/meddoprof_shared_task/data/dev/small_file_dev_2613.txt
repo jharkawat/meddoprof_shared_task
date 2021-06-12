@@ -1,0 +1,17 @@
+
+Al	O
+alta	O
+,	O
+se	O
+deriva	O
+de	O
+nuevo	O
+al	O
+paciente	O
+a	O
+la	O
+Unidad	O
+de	O
+Media	O
+Estancia	O
+.	O

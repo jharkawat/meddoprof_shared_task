@@ -1,0 +1,20 @@
+
+Como	O
+antecedente	O
+quirúrgico	O
+se	O
+le	O
+realizó	O
+una	O
+herniorrafía	O
+inguinal	O
+izquierda	O
+hace	O
+más	O
+de	O
+10	O
+años	O
+de	O
+manera	O
+programada	O
+.	O

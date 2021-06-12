@@ -1,0 +1,104 @@
+T1	SINTOMA 210 222	dolor lumbar
+T2	SINTOMA 252 284	dolor empezó en la región lumbar
+T3	SINTOMA 663 668	dolor
+T4	SINTOMA 688 693	dolor
+T5	SINTOMA 744 751	náuseas
+T6	SINTOMA 754 762	anorexia
+T7	SINTOMA 767 783	pérdida ponderal
+T8	SINTOMA 918 924	fiebre
+T9	SINTOMA 1072 1097	hemodinámicamente estable
+T10	SINTOMA 1099 1108	subfebril
+T11	SINTOMA 1177 1244	dolor lumbar difuso con irradiación al flanco derecho e hipogastrio
+T12	SINTOMA 1250 1269	reacción peritoneal
+T13	SINTOMA 1408 1443	elevación de la proteína C reactiva
+T14	SINTOMA 2505 2511	fiebre
+T15	SINTOMA 3230 3239	subfebril
+T16	SINTOMA 3473 3489	pérdida ponderal
+T17	SINTOMA 3679 3691	dolor lumbar
+T18	SINTOMA 3757 3762	dolor
+T19	PROCEDIMIENTO 592 624	antiinflamatorios no esteroideos
+T20	PROCEDIMIENTO 627 638	calor local
+T21	PROCEDIMIENTO 1039 1057	exploración física
+T22	PROCEDIMIENTO 1275 1294	palpación abdominal
+T23	PROCEDIMIENTO 1502 1511	hemograma
+T24	PROCEDIMIENTO 1610 1627	análisis de orina
+T25	PROCEDIMIENTO 1729 1748	ecografía abdominal
+T26	PROCEDIMIENTO 1879 1925	tomografía computarizada (TC) abdomino-pélvico
+T27	PROCEDIMIENTO 2127 2139	hemocultivos
+T28	PROCEDIMIENTO 2238 2308	prueba de liberación de Interferón gamma (IGRA) y marcadores tumorales
+T29	PROCEDIMIENTO 2557 2568	analgésicos
+T30	PROCEDIMIENTO 2585 2618	resonancia (RMN) abdomino-pélvico
+T31	PROCEDIMIENTO 2819 2843	RMN de la columna lumbar
+T32	PROCEDIMIENTO 3005 3016	laparotomía
+T33	PROCEDIMIENTO 3022 3067	biopsia escisional de la masa retroperitoneal
+T34	PROCEDIMIENTO 3257 3268	analgésicos
+T35	PROCEDIMIENTO 3271 3294	terapéutica antibiótica
+T36	PROCEDIMIENTO 4073 4080	biopsia
+T37	PROCEDIMIENTO 4214 4242	tratamiento de quimioterapia
+T38	NEG 65 68	sin
+T39	NSCO 69 111	hábitos tóxicos ni antecedentes de interés
+T40	NEG 113 116	sin
+T41	NSCO 117 136	medicación habitual
+T42	NEG 316 319	sin
+T43	NSCO 320 362	modificarse con los movimientos o posición
+T44	NEG 365 368	sin
+T45	NSCO 369 393	otros síntomas asociados
+T46	NEG 610 612	no
+T47	NSCO 613 624	esteroideos
+T48	NEG 1124 1127	sin
+T49	NSCO 1128 1168	otras alteraciones en el examen objetivo
+T50	NEG 1169 1176	excepto
+T51	NSCO 1177 1189	dolor lumbar
+T52	NEG 1246 1249	sin
+T53	NSCO 1250 1294	reacción peritoneal a la palpación abdominal
+T54	NEG 1296 1299	sin
+T55	NSCO 1300 1333	masas ni organomegalias palpables
+T56	NEG 1357 1365	negativa
+T57	NSCO 1366 1380	bilateralmente
+T58	NEG 2481 2484	sin
+T59	NSCO 2485 2511	nuevos episodios de fiebre
+T60	NEG 2844 2846	no
+T61	NSCO 2847 2873	se observaban alteraciones
+T62	NEG 3092 3095	sin
+T63	NSCO 3096 3110	complicaciones
+T64	UNC 3296 3301	podía
+T65	USCO 3302 3359	llevarnos a pensar que se tratase de un cuadro infeccioso
+T66	NEG 3795 3798	sin
+T67	NSCO 3799 3824	características mecánicas
+T68	UNC 4085 4099	compatible con
+T69	USCO 4100 4107	Linfoma
+T70	NEG 4108 4110	No
+T71	NSCO 4110 4146	-Hodgkin B difuso de células grandes
+T72	FARMACO 2403 2414	Amoxicilina
+T73	FARMACO 2417 2434	ácido-clavulánico
+T74	FARMACO 4249 4253	CHOP
+T75	ORG_VIVO 0 6	Hombre
+T76	ORG_VIVO 28 63	trabajador en una fábrica de caucho
+T77	ORG_VIVO 535 543	paciente
+T78	ORG_VIVO 974 982	animales
+T79	ORG_VIVO 984 990	perros
+T80	ORG_VIVO 992 997	gatos
+T81	ORG_VIVO 1000 1007	pájaros
+T82	ORG_VIVO 2169 2172	HIV
+T83	ORG_VIVO 2174 2177	VEB
+T84	ORG_VIVO 2179 2191	virus herpes
+T85	ORG_VIVO 2193 2203	toxoplasma
+T86	ORG_VIVO 2205 2212	sífilis
+T87	ORG_VIVO 2214 2222	brucella
+T88	ORG_VIVO 2225 2235	bartonella
+T89	ORG_VIVO 2363 2371	paciente
+T90	ORG_VIVO 3159 3167	paciente
+T91	ORG_VIVO 4198 4206	paciente
+T92	ENFERMEDAD 1770 1793	adenopatías abdominales
+T93	ENFERMEDAD 1958 1987	adenopatías retroperitoneales
+T94	ENFERMEDAD 2658 2737	lesiones sólidas en el compartimiento retroperitoneal posterior a la vena renal
+T95	ENFERMEDAD 2767 2790	adenopatías pre-aórtico
+T96	ENFERMEDAD 3342 3359	cuadro infeccioso
+T97	ENFERMEDAD 3515 3533	proceso neoplásico
+T98	ENFERMEDAD 3613 3638	Infecciosas o Neoplásicas
+T99	ENFERMEDAD 3944 3956	tuberculosis
+T100	ENFERMEDAD 3958 3982	enfermedades infecciosas
+T101	ENFERMEDAD 3986 3994	linfomas
+T102	ENFERMEDAD 3997 4025	metástasis de adenocarcinoma
+T103	ENFERMEDAD 4100 4146	Linfoma No-Hodgkin B difuso de células grandes
+T104	PACIENTE-PROFESION 28 63	trabajador en una fábrica de caucho

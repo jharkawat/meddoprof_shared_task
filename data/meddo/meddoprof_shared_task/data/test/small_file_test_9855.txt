@@ -1,0 +1,5 @@
+
+Peristaltismo	O
+presente	O
+normal	O
+.	O

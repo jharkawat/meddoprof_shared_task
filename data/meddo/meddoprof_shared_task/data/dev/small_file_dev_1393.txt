@@ -1,0 +1,22 @@
+
+Acude	O
+cada	O
+día	O
+a	O
+la	O
+Unidad	O
+con	O
+texanos	O
+y	O
+con	O
+un	O
+jersey	O
+de	O
+lana	O
+caliente	O
+,	O
+porque	O
+tiene	O
+siempre	O
+frío	O
+.	O

@@ -1,0 +1,5 @@
+
+Buena	O
+salud	O
+habitual	O
+.	O

@@ -1,0 +1,21 @@
+
+La	O
+subida	O
+de	O
+la	O
+dosis	O
+del	O
+fármaco	O
+se	O
+produjo	O
+a	O
+razón	O
+de	O
+12	O
+,	O
+5	O
+mg	O
+cada	O
+10	O
+días	O
+.	O

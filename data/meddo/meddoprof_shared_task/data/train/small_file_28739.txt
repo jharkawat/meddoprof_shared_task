@@ -1,0 +1,6 @@
+
+Juicio	O
+de	O
+realidad	O
+alterado	O
+.	O

@@ -1,0 +1,20 @@
+
+Anamnesis	O
+:	O
+La	O
+paciente	O
+acudió	O
+a	O
+consulta	O
+por	O
+molestias	O
+al	O
+orinar	O
+,	O
+tenesmo	O
+vesical	O
+y	O
+dolor	O
+en	O
+hipogastrio	O
+.	O

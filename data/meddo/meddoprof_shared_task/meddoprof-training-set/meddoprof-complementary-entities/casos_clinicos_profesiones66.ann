@@ -1,0 +1,12 @@
+T1	SINTOMA 190 199	irritable
+T2	SINTOMA 242 255	palpitaciones
+T3	SINTOMA 269 278	cansancio
+T4	SINTOMA 280 308	dificultad para concentrarse
+T5	SINTOMA 311 345	dificultad para conciliar el sueño
+T6	PROCEDIMIENTO 387 405	exploración física
+T7	ORG_VIVO 13 21	paciente
+T8	ORG_VIVO 37 54	oficio esteticien
+T9	ORG_VIVO 57 62	madre
+T10	ORG_VIVO 71 76	hijos
+T11	ORG_VIVO 118 124	marido
+T12	PACIENTE-PROFESION 44 54	esteticien

@@ -1,0 +1,10 @@
+
+En	O
+exudado	O
+vaginal	O
+,	O
+crecimiento	O
+de	O
+estreptococo	O
+agalactiae	O
+.	O

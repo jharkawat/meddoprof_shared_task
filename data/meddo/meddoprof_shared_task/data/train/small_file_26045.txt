@@ -1,0 +1,23 @@
+
+En	O
+2017	O
+se	O
+deriva	O
+a	O
+Urgencias	O
+desde	O
+el	O
+Juzgado	O
+para	O
+valoración	O
+psicopatológica	O
+,	O
+acusado	O
+de	O
+"	O
+exhibicionismo	O
+y	O
+provocación	O
+sexual	O
+"	O
+.	O

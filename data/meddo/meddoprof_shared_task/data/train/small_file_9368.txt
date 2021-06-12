@@ -1,0 +1,11 @@
+
+No	O
+se	O
+observa	O
+derrame	O
+pleural	O
+ni	O
+áreas	O
+de	O
+consolidación	O
+.	O

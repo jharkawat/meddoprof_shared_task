@@ -1,0 +1,17 @@
+
+El	O
+estudio	O
+anatomopatológico	O
+desvela	O
+que	O
+se	O
+trata	O
+de	O
+una	O
+metástasis	O
+de	O
+carcinoma	O
+de	O
+células	O
+claras	O
+.	O

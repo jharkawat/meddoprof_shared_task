@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+estuvo	O
+escolarizado	O
+hasta	O
+los	O
+15	O
+años	O
+.	O

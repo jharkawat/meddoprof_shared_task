@@ -1,0 +1,7 @@
+
+No	O
+tiene	O
+diarrea	O
+ni	O
+fiebre	O
+.	O

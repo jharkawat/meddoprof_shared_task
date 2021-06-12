@@ -1,0 +1,10 @@
+
+Embarazo	O
+normal	O
+,	O
+parto	O
+a	O
+término	O
+,	O
+vaginal	O
+.	O

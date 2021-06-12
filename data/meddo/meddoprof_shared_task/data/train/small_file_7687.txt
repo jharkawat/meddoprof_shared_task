@@ -1,0 +1,20 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+una	O
+dermatosis	O
+purpúrica	O
+pigmentaria	O
+se	O
+realizó	O
+una	O
+biopsia	O
+tipo	O
+punch	O
+para	O
+la	O
+confirmación	O
+diagnóstica	O
+.	O

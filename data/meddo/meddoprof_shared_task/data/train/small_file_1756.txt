@@ -1,0 +1,15 @@
+
+La	O
+fibrobroncoscopia	O
+permitió	O
+ver	O
+un	O
+gran	O
+coágulo	O
+en	O
+bronquio	O
+de	O
+lóbulo	O
+superior	O
+derecho	O
+.	O

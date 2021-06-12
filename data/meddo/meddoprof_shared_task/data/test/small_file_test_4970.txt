@@ -1,0 +1,21 @@
+
+Se	O
+lleva	O
+a	O
+cabo	O
+una	O
+biopsia	O
+de	O
+la	O
+lesión	O
+,	O
+diagnóstica	O
+para	O
+metástasis	O
+de	O
+adenocarcinoma	O
+de	O
+probable	O
+origen	O
+pulmonar	O
+.	O

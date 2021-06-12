@@ -1,0 +1,11 @@
+
+Primer	O
+episodio	O
+psicótico	O
+en	O
+seguimiento	O
+y	O
+pendiente	O
+de	O
+evolución	O
+.	O

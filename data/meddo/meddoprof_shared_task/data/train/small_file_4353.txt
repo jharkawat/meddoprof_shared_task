@@ -1,0 +1,8 @@
+
+Juicio	O
+clínico	O
+:	O
+Queratodermia	O
+palmoplantar	O
+paraneoplásica	O
+.	O

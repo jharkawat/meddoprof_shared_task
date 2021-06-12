@@ -1,0 +1,24 @@
+
+Dado	O
+el	O
+antecedente	O
+de	O
+tratamiento	O
+radioterápico	O
+12	O
+años	O
+atrás	O
+,	O
+se	O
+valora	O
+la	O
+posibilidad	O
+de	O
+que	O
+se	O
+trate	O
+de	O
+un	O
+tumor	O
+radioinducido	O
+.	O

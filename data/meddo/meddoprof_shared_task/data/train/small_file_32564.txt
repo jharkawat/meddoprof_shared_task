@@ -1,0 +1,21 @@
+
+La	O
+esquizofrenia	O
+es	O
+una	O
+enfermedad	O
+que	O
+puede	O
+producir	O
+una	O
+grave	O
+incapacidad	O
+en	O
+la	O
+edad	O
+más	O
+productiva	O
+del	O
+ser	O
+humano	O
+.	O

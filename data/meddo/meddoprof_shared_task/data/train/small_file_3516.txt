@@ -1,0 +1,13 @@
+
+-	O
+Tratamiento	O
+farmacológico	O
+:	O
+ansiolíticos	O
+y	O
+antidepresivos	O
+como	O
+Mirtazapina	O
+y	O
+Ketazolam	O
+.	O

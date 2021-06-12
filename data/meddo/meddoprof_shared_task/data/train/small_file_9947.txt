@@ -1,0 +1,10 @@
+
+Niega	O
+ingesta	O
+de	O
+alimentos	O
+o	O
+agua	O
+no	O
+controlados	O
+.	O

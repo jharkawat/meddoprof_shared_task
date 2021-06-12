@@ -1,0 +1,13 @@
+
+Consume	O
+bebidas	O
+fermentadas	O
+con	O
+apetencias	O
+importantes	O
+y	O
+con	O
+síntomas	O
+de	O
+deprivación	O
+.	O

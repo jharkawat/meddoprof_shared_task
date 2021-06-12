@@ -1,0 +1,132 @@
+T1	SINTOMA 401 411	masa renal
+T2	SINTOMA 693 743	molestias localizadas en parte anterior del cuello
+T3	SINTOMA 1443 1480	aumento del tamaño de lóbulo tiroideo
+T4	SINTOMA 2127 2137	consciente
+T5	SINTOMA 2140 2149	orientada
+T6	SINTOMA 2184 2192	Eupneica
+T7	SINTOMA 2204 2211	Afebril
+T8	SINTOMA 2353 2379	Abdomen blando, depresible
+T9	SINTOMA 2387 2395	doloroso
+T10	SINTOMA 2451 2457	edemas
+T11	SINTOMA 2676 2697	focalidad neurológica
+T12	SINTOMA 2977 3014	aumento del tamaño de lóbulo tiroideo
+T13	SINTOMA 4475 4482	vómitos
+T14	SINTOMA 4485 4492	diarrea
+T15	SINTOMA 4507 4518	neutropenia
+T16	SINTOMA 5004 5014	meteorismo
+T17	SINTOMA 5019 5034	dolor abdominal
+T18	SINTOMA 5083 5090	eritema
+T19	SINTOMA 5093 5103	prurito G1
+T20	SINTOMA 5105 5125	epistaxis leve nasal
+T21	SINTOMA 5128 5135	diarrea
+T22	SINTOMA 5586 5593	astenia
+T23	PROCEDIMIENTO 183 197	amigdalectomía
+T24	PROCEDIMIENTO 200 239	histerectomía total por útero miomatoso
+T25	PROCEDIMIENTO 460 489	nefrectomía radical izquierda
+T26	PROCEDIMIENTO 494 513	Anatomía Patológica
+T27	PROCEDIMIENTO 786 795	ecografía
+T28	PROCEDIMIENTO 874 899	hemitiroidectomía derecha
+T29	PROCEDIMIENTO 920 946	estudio inmunohistoquímico
+T30	PROCEDIMIENTO 1185 1231	tomografía computarizada toracoabdominopélvica
+T31	PROCEDIMIENTO 1233 1239	TC-TAP
+T32	PROCEDIMIENTO 1420 1438	ecografía tiroidea
+T33	PROCEDIMIENTO 1681 1708	hemitiroidectomía izquierda
+T34	PROCEDIMIENTO 1808 1814	TC-TAP
+T35	PROCEDIMIENTO 2082 2100	Exploración física
+T36	PROCEDIMIENTO 2298 2325	Auscultación cardiopulmonar
+T37	PROCEDIMIENTO 2726 2744	Ecografía tiroidea
+T38	PROCEDIMIENTO 2818 2824	TC-TAP
+T39	PROCEDIMIENTO 2952 2970	Ecografía tiroidea
+T40	PROCEDIMIENTO 3058 3064	TC-TAP
+T41	PROCEDIMIENTO 3290 3325	Resonancia magnética (RM) abdominal
+T42	PROCEDIMIENTO 3696 3702	TC-TAP
+T43	PROCEDIMIENTO 3763 3777	Eco-mamografía
+T44	PROCEDIMIENTO 4231 4260	nefrectomía radical izquierda
+T45	PROCEDIMIENTO 4270 4295	hemitiroidectomía derecha
+T46	PROCEDIMIENTO 4733 4760	hemitiroidectomía izquierda
+T47	PROCEDIMIENTO 5397 5416	radioterapia guiada
+T48	PROCEDIMIENTO 5632 5663	cuadrantectomía de mama derecha
+T49	PROCEDIMIENTO 5901 5907	TC-TAP
+T50	PROCEDIMIENTO 6259 6266	biopsia
+T51	PROCEDIMIENTO 6280 6299	Anatomía Patológica
+T52	PROCEDIMIENTO 6468 6499	cuadrantectomía de mama derecha
+T53	PROCEDIMIENTO 6501 6520	Anatomía Patológica
+T54	PROCEDIMIENTO 6580 6583	IHQ
+T55	PROCEDIMIENTO 6645 6660	cuadrantectomía
+T56	PROCEDIMIENTO 6757 6763	TC-TAP
+T57	NEG 241 243	No
+T58	NSCO 244 287	presenta antecedentes familiares de interés
+T59	UNC 552 558	claras
+T60	NEG 1035 1048	negativo para
+T61	NSCO 1049 1052	PTH
+T62	UNC 1115 1129	compatible con
+T63	USCO 1130 1160	metástasis procedentes de CCRc
+T64	UNC 1363 1376	sugestivos de
+T65	USCO 1377 1387	metástasis
+T66	NEG 2204 2211	Afebril
+T67	NEG 2326 2329	sin
+T68	NSCO 2330 2351	hallazgos patológicos
+T69	NEG 2381 2383	No
+T70	NSCO 2384 2395	es doloroso
+T71	NEG 2397 2400	sin
+T72	NSCO 2401 2425	palpar masas ni megalias
+T73	NEG 2447 2450	sin
+T74	NSCO 2451 2496	edemas ni signos de trombosis venosa profunda
+T75	NEG 2672 2675	Sin
+T76	NSCO 2676 2697	focalidad neurológica
+T77	UNC 2924 2937	sugestivos de
+T78	USCO 2938 2948	metástasis
+T79	UNC 3175 3190	compatibles con
+T80	USCO 3191 3206	tumores renales
+T81	UNC 3436 3451	compatibles con
+T82	USCO 3452 3467	tumores renales
+T83	UNC 3663 3675	sugestiva de
+T84	USCO 3676 3692	implante tumoral
+T85	UNC 4068 4074	claras
+T86	NEG 5755 5767	asintomática
+T87	NEG 5813 5816	sin
+T88	NSCO 5817 5838	tratamiento de cuatro
+T89	UNC 6339 6345	claras
+T90	USCO 6346 6381	en paciente con antecedente de CCRc
+T91	UNC 6558 6564	claras
+T92	FARMACO 1572 1581	sunitinib
+T93	FARMACO 1937 1946	sunitinib
+T94	FARMACO 4311 4320	sunitinib
+T95	FARMACO 4822 4831	sunitinib
+T96	ORG_VIVO 37 42	mujer
+T97	ORG_VIVO 266 276	familiares
+T98	ORG_VIVO 294 305	ama de casa
+T99	ORG_VIVO 671 679	paciente
+T100	ORG_VIVO 5712 5720	paciente
+T101	ORG_VIVO 6349 6357	paciente
+T102	ORG_VIVO 6681 6689	paciente
+T103	ENFERMEDAD 74 95	hipertensión arterial
+T104	ENFERMEDAD 98 108	dislipemia
+T105	ENFERMEDAD 110 118	fumadora
+T106	ENFERMEDAD 224 239	útero miomatoso
+T107	ENFERMEDAD 525 558	carcinoma renal de células claras
+T108	ENFERMEDAD 808 844	nódulo hipoecoico en lóbulo tiroideo
+T109	ENFERMEDAD 1130 1160	metástasis procedentes de CCRc
+T110	ENFERMEDAD 1245 1294	nódulos heterogéneos en cuerpo y cola de páncreas
+T111	ENFERMEDAD 1377 1387	metástasis
+T112	ENFERMEDAD 1727 1755	metástasis tiroidea por CCRc
+T113	ENFERMEDAD 2052 2078	LOE hepática y pancreática
+T114	ENFERMEDAD 2240 2281	nódulo tiroideo pétreo en lóbulo tiroideo
+T115	ENFERMEDAD 2471 2496	trombosis venosa profunda
+T116	ENFERMEDAD 2761 2797	nódulo hipoecoico en lóbulo tiroideo
+T117	ENFERMEDAD 2835 2884	nódulos heterogéneos en cuerpo y cola de páncreas
+T118	ENFERMEDAD 2938 2948	metástasis
+T119	ENFERMEDAD 3191 3206	tumores renales
+T120	ENFERMEDAD 3452 3467	tumores renales
+T121	ENFERMEDAD 3717 3731	nódulo mamario
+T122	ENFERMEDAD 4041 4085	Carcinoma renal de células claras, Fuhrman 2
+T123	ENFERMEDAD 4099 4169	metástasis pancreáticas, hepáticas, suprarrenales, tiroides y mamarias
+T124	ENFERMEDAD 4404 4419	nódulo tiroideo
+T125	ENFERMEDAD 4507 4518	neutropenia
+T126	ENFERMEDAD 4520 4529	mucositis
+T127	ENFERMEDAD 4532 4556	enfermedad palmo-plantar
+T128	ENFERMEDAD 4563 4584	hipertensión arterial
+T129	ENFERMEDAD 5349 5375	LOE hepática y pancreática
+T130	ENFERMEDAD 6318 6345	carcinoma de células claras
+T131	ENFERMEDAD 6522 6564	metástasis por carcinoma de células claras
+T132	PACIENTE-SITUACION_LABORAL 294 305	ama de casa

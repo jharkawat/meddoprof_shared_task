@@ -1,0 +1,10 @@
+
+Refiere	O
+una	O
+infancia	O
+normal	O
+,	O
+sin	O
+experiencias	O
+traumáticas	O
+.	O

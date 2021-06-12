@@ -1,0 +1,6 @@
+
+Situación	O
+basal	O
+:	O
+indigente	B-SITUACION_LABORAL
+.	O

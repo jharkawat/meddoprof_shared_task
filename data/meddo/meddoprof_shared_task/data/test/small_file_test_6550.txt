@@ -1,0 +1,25 @@
+
+Se	O
+realizó	O
+una	O
+biopsia	O
+hepática	O
+de	O
+parénquima	O
+hepático	O
+no	O
+afectado	O
+por	O
+el	O
+tumor	O
+donde	O
+destacaba	O
+la	O
+presencia	O
+de	O
+dilatación	O
+sinusoidal	O
+de	O
+distribución	O
+difusa	O
+.	O

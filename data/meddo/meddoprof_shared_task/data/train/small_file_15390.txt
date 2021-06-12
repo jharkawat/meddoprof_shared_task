@@ -1,0 +1,12 @@
+
+—	O
+Hemocultivo	O
+en	O
+busca	O
+de	O
+brucelas	O
+:	O
+no	O
+aislamiento	O
+bacteriano	O
+.	O

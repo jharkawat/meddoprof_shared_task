@@ -1,0 +1,22 @@
+
+La	O
+espondiloartropatía	O
+juvenil	O
+,	O
+al	O
+igual	O
+que	O
+la	O
+espondilitis	O
+anquilosante	O
+,	O
+suele	O
+tener	O
+manifestaciones	O
+crónicas	O
+y	O
+ser	O
+HLA	O
+B27	O
+positiva	O
+.	O

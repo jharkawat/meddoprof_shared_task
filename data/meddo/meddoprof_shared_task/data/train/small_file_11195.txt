@@ -1,0 +1,21 @@
+
+Refiere	O
+un	O
+aumento	O
+en	O
+el	O
+número	O
+de	O
+deposiciones	O
+(	O
+3	O
+-	O
+4	O
+deposiciones	O
+al	O
+día	O
+)	O
+sin	O
+productos	O
+patológicos	O
+.	O

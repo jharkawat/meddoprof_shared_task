@@ -1,0 +1,21 @@
+
+Cumplimiento	O
+de	O
+todas	O
+las	O
+visitas	O
+fijadas	O
+:	O
+psiquiatra	B-PROFESION
+referente	O
+en	O
+Centro	O
+de	O
+Salud	O
+Mental	O
+,	O
+Enfermería	O
+y	O
+trabajo	O
+social	O
+.	O

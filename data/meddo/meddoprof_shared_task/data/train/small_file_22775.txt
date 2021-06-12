@@ -1,0 +1,27 @@
+
+Extrasistolia	O
+ventricular	O
+muy	O
+frecuente	O
+con	O
+abundantes	O
+períodos	O
+de	O
+bigeminismo	O
+ventricular	O
+,	O
+algunos	O
+dupletes	O
+y	O
+alguna	O
+racha	O
+de	O
+escasos	O
+latidos	O
+de	O
+taquicardia	O
+ventricular	O
+no	O
+sostenida	O
+polimórfica	O
+.	O

@@ -1,0 +1,8 @@
+
+Procede	O
+de	O
+una	O
+familia	O
+normalmente	O
+estructurada	O
+.	O

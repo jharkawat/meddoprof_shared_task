@@ -1,0 +1,18 @@
+
+Sin	O
+embargo	O
+confiesa	O
+que	O
+debido	O
+a	O
+las	O
+"	O
+voces	O
+"	O
+no	O
+puede	O
+concentrarse	O
+en	O
+el	O
+colegio	O
+.	O

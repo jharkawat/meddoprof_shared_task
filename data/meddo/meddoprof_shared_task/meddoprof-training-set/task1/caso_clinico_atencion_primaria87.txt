@@ -1,0 +1,26 @@
+Motivo de consulta
+Parestesias distales en ambos miembros inferiores
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Paciente varón de 55 años que acude a su centro de salud por comenzar con cuadro febril de hasta 38oC de 5 días de evolución, sin otra sintomatología asociada. A la exploración destaca faringe hiperemica sin otros hallazgos de interés. Es diagnosticado de faringitis aguda y tratado con azitromicina, acetilcisteina y paracetamol.
+
+Tras 10 días de evolución del cuadro febril y una vez resuelto, vuelve a consultar por presentar parestesias distales en ambos miembros inferiores y en 3o-4o dedo de mano derecha asociado a debilidad de cuádriceps y sensación mareosa, manteniendo la capacidad para caminar. Niega dificultad deglutoria, fonatoria y respiratoria. No clínica gastrointestinal previa. A la exploración destaca agotamiento y falta de fuerza con la marcha en puntillas y talones y reflejos osteotendinosos hipoactivos. Ante los hallazgos, su médico decide derivarlo a urgencias del hospital para valoración de pruebas complementarias y descartar posible Síndrome de Guillain-Barré. En Urgencias se realiza TAC craneal con resultado de lesión hiperdensa inespecífica en sustancia blanca subcortical frontal izquierda de 9x7mm, sin efecto masa ni edema perilesional asociado que no presenta realce con administración de contraste intravenoso.
+
+Se decide ingreso y durante su estancia en el hospital se realiza:
+Analítica general incluyendo: hemograma; bioquímica con función renal, hepática e iones; tirotropina; serologías de virus de hepatitis A, B y C, parvovirus B19, Campylobacter jejuni, Treponema pallidum, Borrelia burgdorferi, Citomegalovirus, Herpes simple, VIH, rubeola y varicela-zóster; ANA; anticuerpos antiMOG anticuerpos antigangliósidos: todo ello normal o negativo.
+Punción lumbar: proteínas 87,9, leucocitos 2, PCR de virus neurotropos negativa. Cultivo del líquido negativo.
+RMN craneal para ampliar estudio de la lesión detectada en TAC: se confirma lesión ocupante de espacio intraparenquimatosa frontal izquierda, de intensidad heterogénea, con centro hiperintenso y halo hipointenso. Hallazgos en relación con cavernoma.
+
+Estudio electroneurofisiológico: normal. No se observan alteraciones significativas en la conducción sensitivo-motora ni en la respuesta refleja F de los nervios explorados de las cuatro extremidades (N. mediano, cubital, peroneal, tibial posterior, sural y peroneal superficial).
+
+Enfoque familiar y comunitario
+Trabaja como conserje de dos edificios. Su mujer no trabaja. Tiene una hija con Síndrome de Down. Cuenta con el apoyo completo y total de su familia durante su estancia en el hospital.
+
+Juicio clínico (diagnóstico diferencial)
+Juicio clínico: síndrome de Guillain-Barré. Cavernoma frontal izquierdo como hallazgo incidental.
+Como diagnósticos diferenciales que han sido descartados con las pruebas complementarias se encuentran: Miastenia Gravis, Esclerosis lateral amiotrófica, Poliomielitis viral aguda, Botulismo, Borreliosis (enfermedad de Lyme) y parálisis hipocalemica aguda.
+
+Plan de acción y evolución
+Durante su ingreso se le administran Inmunoglobulinas intravenosas con buena y rápida respuesta clínica de la debilidad crural proximal.
+
+No precisa tratamiento al alta. Es revisado en la consulta de Neurología a los dos meses, el paciente tras una mejoría progresiva durante su ingreso y en los días posteriores, quedó asintomático. Tiene una próxima revisión prevista en Neurología en un año.

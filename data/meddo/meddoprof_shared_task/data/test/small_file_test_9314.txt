@@ -1,0 +1,17 @@
+
+EGFR	O
+no	O
+mutado	O
+,	O
+ALK	O
+no	O
+traslocado	O
+con	O
+un	O
+PD	O
+-	O
+L1	O
+del	O
+1	O
+%	O
+.	O

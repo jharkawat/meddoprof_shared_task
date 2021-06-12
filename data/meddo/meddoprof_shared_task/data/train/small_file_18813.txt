@@ -1,0 +1,13 @@
+
+También	O
+refiere	O
+quejas	O
+de	O
+falta	O
+de	O
+energía	O
+y	O
+problemas	O
+de	O
+memoria	O
+.	O

@@ -1,0 +1,16 @@
+
+No	O
+lesiones	O
+muco	O
+-	O
+cutáneas	O
+,	O
+siendo	O
+la	O
+cicatrización	O
+de	O
+las	O
+heridas	O
+quirúrgicas	O
+normal	O
+.	O

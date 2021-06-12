@@ -1,0 +1,17 @@
+
+Durante	O
+todo	O
+el	O
+ingreso	O
+se	O
+realizan	O
+electrocardiogramas	O
+diarios	O
+,	O
+sin	O
+evidenciar	O
+alargamiento	O
+del	O
+intervalo	O
+QTc	O
+.	O

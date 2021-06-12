@@ -1,0 +1,19 @@
+
+Mediante	O
+radiografía	O
+de	O
+tórax	O
+se	O
+confirma	O
+neumotórax	O
+izquierdo	O
+a	O
+tensión	O
+que	O
+se	O
+drena	O
+colocando	O
+tubo	O
+de	O
+tórax	O
+.	O

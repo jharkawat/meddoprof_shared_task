@@ -1,0 +1,26 @@
+
+La	O
+finalidad	O
+era	O
+facilitar	O
+al	O
+paciente	O
+el	O
+expresarse	O
+con	O
+los	O
+demás	O
+;	O
+a	O
+pesar	O
+de	O
+poder	O
+hacerlo	O
+escribiendo	O
+es	O
+más	O
+cómodo	O
+señalar	O
+que	O
+escribir	O
+.	O

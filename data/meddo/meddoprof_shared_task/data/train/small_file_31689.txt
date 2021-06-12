@@ -1,0 +1,11 @@
+
+Vejiga	O
+de	O
+paredes	O
+finas	O
+sin	O
+evidencia	O
+de	O
+contenido	O
+patológico	O
+.	O

@@ -1,0 +1,16 @@
+
+La	O
+manifestación	O
+característica	O
+del	O
+síndrome	O
+de	O
+dependencia	O
+es	O
+el	O
+deseo	O
+de	O
+ingerir	O
+la	O
+sustancia	O
+.	O

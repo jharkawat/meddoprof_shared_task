@@ -1,0 +1,12 @@
+
+GOT	O
+y	O
+GPT	O
+normalizadas	O
+,	O
+GGT	O
+304	O
+UI	O
+/	O
+l	O
+.	O

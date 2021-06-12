@@ -1,0 +1,7 @@
+
+»	O
+Profesión	O
+:	O
+auxiliar	B-PROFESION
+administrativo	I-PROFESION
+.	O

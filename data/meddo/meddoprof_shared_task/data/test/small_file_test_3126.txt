@@ -1,0 +1,20 @@
+
+-	O
+Proteinuria	O
+de	O
+24	O
+horas	O
+:	O
+0	O
+.	O
+19	O
+g	O
+.	O
+proteinuria	O
+de	O
+Bence	O
+-	O
+Jones	O
+:	O
+negativa	O
+.	O

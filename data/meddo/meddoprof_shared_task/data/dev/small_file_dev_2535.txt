@@ -1,0 +1,27 @@
+
+Refiere	O
+sentirse	O
+profundamente	O
+triste	O
+y	O
+preocupada	O
+porque	O
+se	O
+le	O
+han	O
+desplazado	O
+los	O
+huesos	O
+de	O
+la	O
+mandíbula	O
+"	O
+por	O
+la	O
+fractura	O
+de	O
+una	O
+sutura	O
+craneal	O
+"	O
+.	O

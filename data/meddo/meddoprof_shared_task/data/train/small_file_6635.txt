@@ -1,0 +1,15 @@
+
+Se	O
+realizó	O
+una	O
+ecografía	O
+doppler	O
+de	O
+miembros	O
+inferiores	O
+que	O
+no	O
+mostró	O
+ninguna	O
+anomalía	O
+.	O

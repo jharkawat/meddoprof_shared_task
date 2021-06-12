@@ -1,0 +1,9 @@
+
+	O
+Alta	O
+:	O
+CSMA	O
+,	O
+CD	O
+,	O
+PSI	O

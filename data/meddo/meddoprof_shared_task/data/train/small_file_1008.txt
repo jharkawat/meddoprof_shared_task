@@ -1,0 +1,27 @@
+
+En	O
+el	O
+reconocimiento	O
+médico	O
+no	O
+se	O
+encontraron	O
+alteraciones	O
+en	O
+el	O
+examen	O
+físico	O
+ni	O
+en	O
+las	O
+exploraciones	O
+complementarias	O
+rutinarias	O
+,	O
+con	O
+excepción	O
+de	O
+su	O
+ECG	O
+basal	O
+.	O

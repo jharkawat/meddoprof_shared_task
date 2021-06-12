@@ -1,0 +1,24 @@
+
+Abdomen	O
+globuloso	O
+,	O
+blando	O
+y	O
+depresible	O
+,	O
+ligeramente	O
+doloroso	O
+a	O
+la	O
+palpación	O
+en	O
+hipogastrio	O
+,	O
+sin	O
+defensa	O
+ni	O
+otros	O
+signos	O
+de	O
+peritonismo	O
+.	O

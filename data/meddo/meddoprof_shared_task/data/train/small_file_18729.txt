@@ -1,0 +1,26 @@
+
+Después	O
+de	O
+la	O
+intervención	O
+en	O
+ambulatorio	O
+se	O
+verificó	O
+un	O
+aumento	O
+ponderal	O
+lentamente	O
+progresivo	O
+,	O
+con	O
+deterioro	O
+depresivo	O
+e	O
+ideación	O
+suicida	O
+frente	O
+al	O
+aumento	O
+ponderal	O
+.	O

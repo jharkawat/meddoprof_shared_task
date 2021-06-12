@@ -1,0 +1,13 @@
+
+Dijo	O
+no	O
+tener	O
+ningún	O
+otro	O
+antecedente	O
+de	O
+alucinaciones	O
+auditivas	O
+o	O
+visuales	O
+.	O

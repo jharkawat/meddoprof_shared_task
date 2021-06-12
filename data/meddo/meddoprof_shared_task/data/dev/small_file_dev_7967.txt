@@ -1,0 +1,22 @@
+
+Tras	O
+consultar	O
+a	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+atención	I-PROFESION
+primaria	I-PROFESION
+,	O
+es	O
+derivada	O
+a	O
+consulta	O
+de	O
+Medicina	O
+Interna	O
+donde	O
+se	O
+inicia	O
+estudio	O
+.	O

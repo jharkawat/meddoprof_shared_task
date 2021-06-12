@@ -1,0 +1,6 @@
+
+Anamnesis	O
+por	O
+aparatos	O
+anodina	O
+.	O

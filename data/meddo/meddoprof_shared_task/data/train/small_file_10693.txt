@@ -1,0 +1,23 @@
+
+Paciente	O
+varón	O
+que	O
+ingresa	O
+en	O
+nuestro	O
+centro	O
+el	O
+3	O
+de	O
+Noviembre	O
+de	O
+2016	O
+con	O
+fractura	O
+abierta	O
+Gustillo	O
+3B	O
+en	O
+calcáneo	O
+derecho	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+maneja	O
+inicialmente	O
+con	O
+analgesia	O
+,	O
+sondaje	O
+vesical	O
+y	O
+cefalosporina	O
+de	O
+tercera	O
+generación	O
+(	O
+ceftriaxona	O
+)	O
+.	O

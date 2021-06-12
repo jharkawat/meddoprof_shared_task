@@ -1,0 +1,5 @@
+
+Función	O
+tiroidea	O
+normal	O
+.	O

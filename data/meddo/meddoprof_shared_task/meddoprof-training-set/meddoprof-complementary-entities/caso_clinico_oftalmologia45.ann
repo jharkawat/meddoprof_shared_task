@@ -1,0 +1,45 @@
+T1	SINTOMA 1196 1212	edemas maculares
+T2	PROCEDIMIENTO 225 250	exploración oftalmológica
+T3	PROCEDIMIENTO 360 372	fondo de ojo
+T4	PROCEDIMIENTO 489 517	angiografía con fluoresceína
+T5	PROCEDIMIENTO 665 690	fotocoagulación bilateral
+T6	PROCEDIMIENTO 849 864	fotocoagulación
+T7	PROCEDIMIENTO 926 965	cirugía de catarata en el ojo izquierdo
+T8	PROCEDIMIENTO 988 1006	facoemulsificación
+T9	PROCEDIMIENTO 1135 1147	fondo de ojo
+T10	PROCEDIMIENTO 1218 1238	exploración auditiva
+T11	PROCEDIMIENTO 1370 1387	electrofisiología
+T12	PROCEDIMIENTO 1400 1419	Electrorretinograma
+T13	PROCEDIMIENTO 1470 1479	ERG Flash
+T14	PROCEDIMIENTO 1516 1533	Electrooculograma
+T15	PROCEDIMIENTO 1535 1538	EOG
+T16	NEG 373 376	sin
+T17	NSCO 377 398	retinopatía diabética
+T18	NEG 1007 1010	sin
+T19	NSCO 1011 1025	complicaciones
+T20	NEG 1192 1195	sin
+T21	NSCO 1196 1212	edemas maculares
+T22	NEG 1438 1449	ausencia de
+T23	NSCO 1450 1465	respuesta en AO
+T24	NEG 1620 1623	sin
+T25	NSCO 1624 1647	antecedentes familiares
+T26	UNC 1874 1888	compatible con
+T27	USCO 1889 1933	una diabetes de herencia materna con sordera
+T28	ORG_VIVO 0 8	Paciente
+T29	ORG_VIVO 462 470	paciente
+T30	ORG_VIVO 894 902	paciente
+T31	ORG_VIVO 1610 1618	paciente
+T32	ORG_VIVO 1637 1647	familiares
+T33	ORG_VIVO 1914 1921	materna
+T34	ENFERMEDAD 71 86	diabetes tipo 2
+T35	ENFERMEDAD 193 203	hipoacusia
+T36	ENFERMEDAD 377 398	retinopatía diabética
+T37	ENFERMEDAD 612 637	isquemia retiniana severa
+T38	ENFERMEDAD 746 790	retinopatía diabética proliferante en el ojo
+T39	ENFERMEDAD 812 836	hemorragia prerretiniana
+T40	ENFERMEDAD 937 955	catarata en el ojo
+T41	ENFERMEDAD 1084 1110	catarata cortical en el OD
+T42	ENFERMEDAD 1156 1177	retinopatía diabética
+T43	ENFERMEDAD 1252 1284	sordera neurosensorial bilateral
+T44	ENFERMEDAD 1893 1921	diabetes de herencia materna
+T45	ENFERMEDAD 1926 1933	sordera

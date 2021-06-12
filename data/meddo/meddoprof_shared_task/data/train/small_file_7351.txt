@@ -1,0 +1,23 @@
+
+Reconoció	O
+que	O
+se	O
+tintaba	O
+el	O
+pelo	O
+con	O
+un	O
+producto	O
+que	O
+traería	O
+en	O
+la	O
+próxima	O
+visita	O
+,	O
+una	O
+vez	O
+instaurado	O
+el	O
+tratamiento	O
+.	O

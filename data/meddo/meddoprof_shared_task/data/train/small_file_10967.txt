@@ -1,0 +1,9 @@
+
+Sedimento	O
+4	O
+-	O
+10	O
+leuc	O
+/	O
+campo	O
+.	O

@@ -1,0 +1,20 @@
+
+Comienza	O
+a	O
+interesarse	O
+por	O
+actividades	O
+como	O
+la	O
+lectura	O
+o	O
+la	O
+conducción	O
+que	O
+habían	O
+sido	O
+aficiones	O
+a	O
+nivel	O
+premórbido	O
+.	O

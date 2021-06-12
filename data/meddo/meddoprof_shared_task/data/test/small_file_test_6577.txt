@@ -1,0 +1,12 @@
+
+En	O
+tratamiento	O
+con	O
+suplementos	O
+de	O
+carbonato	O
+cálcico	O
+y	O
+vitamina	O
+D	O
+.	O

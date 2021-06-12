@@ -1,0 +1,25 @@
+
+-	O
+TC	O
+tóraco	O
+-	O
+abdómino	O
+-	O
+pélvica	O
+(	O
+17	O
+/	O
+12	O
+/	O
+2013	O
+)	O
+:	O
+lesión	O
+lítica	O
+,	O
+multiloculada	O
+en	O
+C6	O
+y	O
+C7	O
+.	O

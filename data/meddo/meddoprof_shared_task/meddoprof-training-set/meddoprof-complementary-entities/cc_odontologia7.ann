@@ -1,0 +1,12 @@
+T1	SINTOMA 841 864	estabilidad periodontal
+T2	PROCEDIMIENTO 338 361	tratamiento periodontal
+T3	PROCEDIMIENTO 380 406	desbridamiento subgingival
+T4	PROCEDIMIENTO 438 450	ultrasonidos
+T5	PROCEDIMIENTO 466 481	anestesia local
+T6	PROCEDIMIENTO 497 525	mantenimientos periodontales
+T7	PROCEDIMIENTO 612 635	tratamiento periodontal
+T8	PROCEDIMIENTO 692 730	reducción de la profundidad de sondaje
+T9	NEG 362 364	no
+T10	NSCO 365 375	quirúrgico
+T11	ENFERMEDAD 38 68	periodontitis crónica avanzada
+T12	ENFERMEDAD 89 115	defecto intraóseo profundo

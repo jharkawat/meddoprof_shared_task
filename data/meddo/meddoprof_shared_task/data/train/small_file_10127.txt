@@ -1,0 +1,22 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+destacaba	O
+una	O
+silueta	O
+cardiomediastínica	O
+en	O
+el	O
+límite	O
+superior	O
+de	O
+la	O
+normalidad	O
+,	O
+sin	O
+condensaciones	O
+neumónicas	O
+.	O

@@ -1,0 +1,17 @@
+
+Había	O
+comenzado	O
+a	O
+dormir	O
+algo	O
+más	O
+y	O
+sobre	O
+todo	O
+estaba	O
+más	O
+animado	O
+y	O
+más	O
+concentrado	O
+.	O

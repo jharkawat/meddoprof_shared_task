@@ -1,0 +1,26 @@
+
+Durante	O
+la	O
+hospitalización	O
+llama	O
+la	O
+atención	O
+la	O
+rápida	O
+normalización	O
+de	O
+la	O
+ingesta	O
+y	O
+la	O
+actitud	O
+minimizadora	O
+y	O
+racionalizadora	O
+de	O
+la	O
+madre	O
+de	O
+la	O
+paciente	O
+.	O

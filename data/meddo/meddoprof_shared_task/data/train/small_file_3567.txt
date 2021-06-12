@@ -1,0 +1,7 @@
+
+Lumbalgia	O
+aguda	O
+y	O
+retención	O
+urinaria	O
+.	O

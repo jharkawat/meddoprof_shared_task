@@ -1,0 +1,10 @@
+
+Metástasis	O
+hepáticas	O
+de	O
+carcinoma	O
+adenoide	O
+quístico	O
+de	O
+pulmón	O
+.	O

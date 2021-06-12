@@ -1,0 +1,21 @@
+
+En	O
+cuanto	O
+a	O
+la	O
+relación	O
+de	O
+pareja	O
+han	O
+iniciado	O
+la	O
+convivencia	O
+satisfactoriamente	O
+aunque	O
+se	O
+mantienen	O
+dificultades	O
+en	O
+la	O
+comunicación	O
+.	O

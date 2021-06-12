@@ -1,0 +1,19 @@
+
+Sin	O
+embargo	O
+,	O
+nuevamente	O
+presenta	O
+tendencia	O
+a	O
+la	O
+anemización	O
+con	O
+nuevo	O
+requerimiento	O
+transfusional	O
+aproximadamente	O
+cada	O
+5	O
+días	O
+.	O

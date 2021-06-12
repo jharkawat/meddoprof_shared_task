@@ -1,0 +1,12 @@
+
+Se	O
+decide	O
+,	O
+por	O
+lo	O
+tanto	O
+,	O
+ingreso	O
+para	O
+estudio	O
+.	O

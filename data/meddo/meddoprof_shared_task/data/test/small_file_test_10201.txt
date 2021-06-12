@@ -1,0 +1,24 @@
+
+Tras	O
+la	O
+primera	O
+administración	O
+se	O
+produjo	O
+la	O
+normalización	O
+de	O
+la	O
+coagulación	O
+,	O
+pero	O
+persistía	O
+la	O
+trombopenia	O
+,	O
+siendo	O
+esta	O
+de	O
+grado	O
+4	O
+.	O

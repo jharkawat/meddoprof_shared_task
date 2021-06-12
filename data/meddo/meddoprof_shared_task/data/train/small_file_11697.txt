@@ -1,0 +1,14 @@
+
+Un	O
+paciente	O
+con	O
+buen	O
+estado	O
+general	O
+,	O
+buena	O
+coloración	O
+e	O
+hidratación	O
+mucocutánea	O
+.	O

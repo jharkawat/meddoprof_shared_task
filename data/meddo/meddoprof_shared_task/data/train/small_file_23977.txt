@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+fue	O
+diagnosticada	O
+de	O
+esquizofrenia	O
+hebefrénica	O
+(	O
+F20	O
+.	O
+1	O
+de	O
+la	O
+CIE10	O
+)	O
+.	O

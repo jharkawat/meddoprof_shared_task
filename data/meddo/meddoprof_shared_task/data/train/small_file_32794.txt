@@ -1,0 +1,11 @@
+
+No	O
+presenta	O
+ideación	O
+suicida	O
+ni	O
+ideación	O
+pasiva	O
+de	O
+muerte	O
+.	O

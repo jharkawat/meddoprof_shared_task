@@ -1,0 +1,4 @@
+
+Obesidad	O
+supermórbida	O
+.	O

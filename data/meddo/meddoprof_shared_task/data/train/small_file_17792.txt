@@ -1,0 +1,9 @@
+
+Las	O
+auscultaciones	O
+cardiopulmonar	O
+y	O
+abdominal	O
+fueron	O
+normales	O
+.	O

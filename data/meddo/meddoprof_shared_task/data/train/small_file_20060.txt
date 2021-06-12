@@ -1,0 +1,25 @@
+
+Sabía	O
+que	O
+al	O
+padre	O
+de	O
+ambos	O
+lo	O
+habían	O
+tildado	O
+de	O
+esquizofrénico	O
+y	O
+bipolar	O
+,	O
+pero	O
+no	O
+lo	O
+había	O
+vuelto	O
+a	O
+ver	O
+desde	O
+niña	O
+.	O

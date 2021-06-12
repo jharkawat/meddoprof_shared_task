@@ -1,0 +1,16 @@
+
+Electrocardiograma	O
+:	O
+fibrilación	O
+auricular	O
+con	O
+respuesta	O
+ventricular	O
+rápida	O
+(	O
+más	O
+de	O
+160	O
+lpm	O
+)	O
+.	O

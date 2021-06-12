@@ -1,0 +1,23 @@
+
+Se	O
+desbridó	O
+el	O
+tejido	O
+de	O
+granulación	O
+,	O
+se	O
+utilizaron	O
+ultrasonidos	O
+,	O
+se	O
+realizó	O
+el	O
+raspado	O
+y	O
+se	O
+irrigó	O
+con	O
+suero	O
+salino	O
+.	O

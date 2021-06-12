@@ -1,0 +1,12 @@
+
+Se	O
+mudaron	O
+a	O
+otra	O
+ciudad	O
+donde	O
+consiguió	O
+trabajo	O
+como	O
+camionero	B-PROFESION
+.	O

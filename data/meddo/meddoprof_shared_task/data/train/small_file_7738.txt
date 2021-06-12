@@ -1,0 +1,12 @@
+
+PASI	O
+0	O
+,	O
+9	O
+y	O
+BSA	O
+0	O
+,	O
+9	O
+%	O
+.	O

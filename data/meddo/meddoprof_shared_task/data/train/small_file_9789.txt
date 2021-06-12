@@ -1,0 +1,11 @@
+
+Tomaba	O
+enalapril	O
+de	O
+20mg	O
+sin	O
+adecuada	O
+adhesión	O
+al	O
+tratamiento	O
+.	O

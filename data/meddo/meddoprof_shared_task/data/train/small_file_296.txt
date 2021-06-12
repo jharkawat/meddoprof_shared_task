@@ -1,0 +1,24 @@
+
+Tenía	O
+una	O
+erupción	O
+urticarial	O
+generalizada	O
+que	O
+afectaba	O
+al	O
+rostro	O
+,	O
+los	O
+brazos	O
+,	O
+el	O
+torso	O
+,	O
+las	O
+piernas	O
+y	O
+la	O
+zona	O
+lumbar	O
+.	O

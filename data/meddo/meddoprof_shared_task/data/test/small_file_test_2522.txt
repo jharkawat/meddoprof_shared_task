@@ -1,0 +1,13 @@
+
+Signos	O
+físicos	O
+al	O
+ingreso	O
+(	O
+24	O
+/	O
+4	O
+/	O
+2014	O
+)	O
+:	O

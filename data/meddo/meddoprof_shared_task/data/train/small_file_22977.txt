@@ -1,0 +1,20 @@
+
+Respecto	O
+al	O
+primer	O
+estudio	O
+se	O
+observó	O
+aparente	O
+progresión	O
+que	O
+sugería	O
+una	O
+mayor	O
+degeneración	O
+neuronal	O
+y	O
+depósito	O
+de	O
+hierro	O
+.	O

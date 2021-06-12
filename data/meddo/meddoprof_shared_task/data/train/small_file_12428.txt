@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+fue	O
+diagnosticado	O
+de	O
+Leucemia	O
+Mieloide	O
+Aguda	O
+Promielocítica	O
+(	O
+LPA	O
+)	O
+de	O
+riesgo	O
+intermedio	O
+.	O

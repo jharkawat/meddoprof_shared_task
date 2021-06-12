@@ -1,0 +1,8 @@
+
+Brucelosis	O
+y	O
+parotiditis	O
+en	O
+la	O
+infancia	O
+.	O

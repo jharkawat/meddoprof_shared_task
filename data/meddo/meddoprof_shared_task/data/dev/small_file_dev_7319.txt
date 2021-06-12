@@ -1,0 +1,23 @@
+
+La	O
+bioquímica	O
+básica	O
+,	O
+la	O
+proteína	O
+C	O
+reactiva	O
+,	O
+el	O
+perfil	O
+hepático	O
+y	O
+el	O
+proteinograma	O
+se	O
+encontraban	O
+dentro	O
+de	O
+la	O
+normalidad	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+insight	O
+clínico	O
+ni	O
+cognitivo	O
+.	O

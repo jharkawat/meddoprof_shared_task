@@ -1,0 +1,6 @@
+
+No	O
+ha	O
+presentado	O
+autolesiones	O
+.	O

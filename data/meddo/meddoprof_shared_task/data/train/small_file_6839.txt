@@ -1,0 +1,15 @@
+
+No	O
+había	O
+presentado	O
+fiebre	O
+ni	O
+lesiones	O
+a	O
+otros	O
+niveles	O
+cutáneos	O
+o	O
+sintomatología	O
+sistémica	O
+.	O

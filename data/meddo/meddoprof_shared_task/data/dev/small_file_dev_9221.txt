@@ -1,0 +1,15 @@
+
+Tras	O
+tres	O
+días	O
+de	O
+tratamiento	O
+empírico	O
+,	O
+el	O
+paciente	O
+no	O
+experimentó	O
+ninguna	O
+mejoría	O
+.	O

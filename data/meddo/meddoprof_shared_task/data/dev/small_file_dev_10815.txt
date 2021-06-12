@@ -1,0 +1,15 @@
+
+Tras	O
+unos	O
+meses	O
+,	O
+su	O
+psiquiatra	B-PROFESION
+sospecha	O
+relación	O
+del	O
+proceso	O
+con	O
+el	O
+trabajo	O
+.	O

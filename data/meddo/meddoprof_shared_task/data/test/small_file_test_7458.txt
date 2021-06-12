@@ -1,0 +1,14 @@
+
+A	O
+los	O
+5	O
+días	O
+se	O
+realizó	O
+un	O
+control	O
+analítico	O
+con	O
+mejoría	O
+progresiva	O
+.	O

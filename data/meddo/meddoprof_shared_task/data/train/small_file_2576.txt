@@ -1,0 +1,10 @@
+
+Exposición	O
+oral	O
+anacardo	O
+y	O
+pipas	O
+Tijuana	O
+con	O
+tolerancia	O
+.	O

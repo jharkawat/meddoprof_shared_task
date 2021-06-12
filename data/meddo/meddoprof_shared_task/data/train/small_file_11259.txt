@@ -1,0 +1,13 @@
+
+No	O
+ha	O
+estado	O
+en	O
+contacto	O
+con	O
+personas	O
+con	O
+alguna	O
+afección	O
+respiratoria	O
+.	O

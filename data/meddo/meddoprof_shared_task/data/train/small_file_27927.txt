@@ -1,0 +1,24 @@
+
+Se	O
+produce	O
+un	O
+enfrentamiento	O
+entre	O
+todos	O
+los	O
+miembros	O
+de	O
+la	O
+familia	O
+,	O
+en	O
+el	O
+que	O
+se	O
+llega	O
+incluso	O
+a	O
+la	O
+agresión	O
+física	O
+.	O

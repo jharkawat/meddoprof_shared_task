@@ -1,0 +1,25 @@
+
+Puede	O
+oír	O
+cómo	O
+estas	O
+criaturas	O
+le	O
+hablan	O
+y	O
+le	O
+hacen	O
+preguntas	O
+,	O
+aunque	O
+no	O
+parece	O
+que	O
+le	O
+digan	O
+lo	O
+que	O
+tiene	O
+que	O
+hacer	O
+.	O

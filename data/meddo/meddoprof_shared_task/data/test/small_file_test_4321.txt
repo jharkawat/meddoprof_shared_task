@@ -1,0 +1,11 @@
+
+En	O
+marzo	O
+de	O
+2012	O
+:	O
+abdomen	O
+con	O
+cicatriz	O
+infraumbilical	O
+.	O

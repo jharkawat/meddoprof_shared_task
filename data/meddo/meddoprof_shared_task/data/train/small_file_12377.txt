@@ -1,0 +1,25 @@
+
+Orina	O
+:	O
+positiva	O
+para	O
+cocaína	O
+y	O
+metadona	O
+,	O
+así	O
+como	O
+para	O
+benzodiacepinas	O
+y	O
+antidepresivos	O
+tricíclicos	O
+(	O
+ambos	O
+,	O
+tratamiento	O
+de	O
+base	O
+del	O
+paciente	O
+)	O

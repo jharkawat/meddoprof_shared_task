@@ -1,0 +1,19 @@
+
+Se	O
+trata	O
+de	O
+un	O
+varón	O
+de	O
+21	O
+años	O
+natural	O
+de	O
+Líbano	O
+,	O
+residente	O
+en	O
+España	O
+como	O
+refugiado	B-SITUACION_LABORAL
+.	O

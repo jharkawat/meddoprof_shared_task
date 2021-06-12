@@ -1,0 +1,24 @@
+
+Manifiesta	O
+que	O
+si	O
+no	O
+hace	O
+esto	O
+experimenta	O
+un	O
+gran	O
+malestar	O
+y	O
+que	O
+se	O
+siente	O
+culpable	O
+por	O
+sentirse	O
+mejor	O
+haciendo	O
+que	O
+se	O
+duchen	O
+.	O

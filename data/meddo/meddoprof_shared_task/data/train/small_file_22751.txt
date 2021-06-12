@@ -1,0 +1,13 @@
+
+En	O
+la	O
+actualidad	O
+persiste	O
+el	O
+consumo	O
+diario	O
+pero	O
+en	O
+menor	O
+cantidad	O
+.	O

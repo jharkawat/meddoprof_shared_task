@@ -1,0 +1,19 @@
+
+Trabajaba	O
+como	O
+camarera	B-PROFESION
+,	O
+estudiaba	B-SITUACION_LABORAL
+unas	I-SITUACION_LABORAL
+oposiciones	I-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+administrativo	I-SITUACION_LABORAL
+,	O
+estaba	O
+divorciada	O
+y	O
+cuidaba	O
+a	O
+un	O
+hijo	O
+.	O

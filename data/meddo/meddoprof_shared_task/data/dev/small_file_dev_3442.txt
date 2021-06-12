@@ -1,0 +1,17 @@
+
+Padecimiento	O
+que	O
+motiva	O
+su	O
+presentación	O
+como	O
+caso	O
+:	O
+Presencia	O
+de	O
+Síndrome	O
+depresivo	O
+asociado	O
+a	O
+estrés	O
+.	O

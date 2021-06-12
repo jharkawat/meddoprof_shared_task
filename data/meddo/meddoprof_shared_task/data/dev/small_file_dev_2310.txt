@@ -1,0 +1,15 @@
+
+El	O
+14	O
+de	O
+Marzo	O
+de	O
+2016	O
+la	O
+paciente	O
+es	O
+intervenida	O
+de	O
+forma	O
+programada	O
+.	O

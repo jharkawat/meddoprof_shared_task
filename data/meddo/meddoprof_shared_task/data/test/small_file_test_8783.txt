@@ -1,0 +1,22 @@
+
+Carcinoma	O
+epidermoide	O
+de	O
+pulmón	O
+estadio	O
+IV	O
+en	O
+lóbulo	O
+inferior	O
+derecho	O
+por	O
+metástasis	O
+pleuropulmonares	O
+izquierdas	O
+y	O
+en	O
+músculo	O
+dorsal	O
+ancho	O
+izquierdo	O
+.	O

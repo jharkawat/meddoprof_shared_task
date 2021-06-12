@@ -1,0 +1,129 @@
+T1	SINTOMA 319 340	pérdida de conciencia
+T2	SINTOMA 378 388	sudoración
+T3	SINTOMA 391 417	mareos sin giro de objetos
+T4	SINTOMA 517 523	vómito
+T5	SINTOMA 528 535	cefalea
+T6	SINTOMA 549 568	confusión posterior
+T7	SINTOMA 594 615	enrojecimiento facial
+T8	SINTOMA 760 776	malestar general
+T9	SINTOMA 778 793	dolor abdominal
+T10	SINTOMA 796 803	diarrea
+T11	SINTOMA 1056 1070	edema de labio
+T12	SINTOMA 1073 1085	prurito oral
+T13	SINTOMA 1108 1114	edemas
+T14	SINTOMA 1190 1200	Consciente
+T15	SINTOMA 1203 1212	orientado
+T16	SINTOMA 1214 1228	Normohidratado
+T17	SINTOMA 1230 1244	normocoloreado
+T18	SINTOMA 1247 1255	eupneico
+T19	SINTOMA 1438 1444	soplos
+T20	SINTOMA 4503 4512	dispepsia
+T21	PROCEDIMIENTO 218 232	Apendicectomía
+T22	PROCEDIMIENTO 1375 1407	Auscultación cardiorrespiratoria
+T23	PROCEDIMIENTO 1738 1761	Exploración neurológica
+T24	PROCEDIMIENTO 2000 2003	EKG
+T25	PROCEDIMIENTO 2100 2111	Rx de tórax
+T26	PROCEDIMIENTO 2120 2132	Tc de cráneo
+T27	PROCEDIMIENTO 2429 2438	Hemograma
+T28	PROCEDIMIENTO 3164 3179	Biopsia de piel
+T29	PROCEDIMIENTO 4003 4021	densitometría ósea
+T30	NEG 97 99	no
+T31	NSCO 100 132	presenta antecedentes de interés
+T32	NEG 164 166	No
+T33	NSCO 167 171	FRCV
+T34	NEG 398 401	sin
+T35	NSCO 402 417	giro de objetos
+T36	NEG 419 421	No
+T37	NSCO 422 442	recuerda su duración
+T38	NEG 444 446	No
+T39	NSCO 447 505	pérdida del control de esfínteres ni movimientos anormales
+T40	NEG 525 527	No
+T41	NSCO 528 568	cefalea ni signos de confusión posterior
+T42	UNC 899 907	probable
+T43	USCO 908 918	anafilaxia
+T44	NEG 1434 1437	sin
+T45	NSCO 1438 1458	soplos ni extratonos
+T46	NEG 1631 1639	negativo
+T47	NEG 1787 1789	no
+T48	NSCO 1790 1799	focalidad
+T49	NEG 1868 1870	No
+T50	NSCO 1871 1923	pérdida de fuerza ni de sensibilidad en extremidades
+T51	NEG 1925 1927	No
+T52	NSCO 1928 1945	disciadococinesia
+T53	NEG 2053 2055	No
+T54	NSCO 2056 2098	datos de alteraciones en la repolarización
+T55	NEG 2134 2137	sin
+T56	NSCO 2138 2150	alteraciones
+T57	NEG 2417 2425	negativo
+T58	NEG 2572 2575	sin
+T59	NSCO 2576 2588	alteraciones
+T60	NEG 2658 2667	negativas
+T61	NEG 2715 2718	sin
+T62	NSCO 2719 2756	hipersensibilidad inmediata ni tardía
+T63	NEG 2857 2859	no
+T64	NSCO 2860 2897	hay criterios mayores de mastocitosis
+T65	NEG 3035 3046	Ausencia de
+T66	NSCO 3047 3108	acúmulos mastocíticos diagnósticos de mastocitosis sistémicas
+T67	NEG 3131 3134	sin
+T68	NSCO 3135 3160	alteraciones histológicas
+T69	NEG 3425 3427	No
+T70	NSCO 3428 3436	animales
+T71	NEG 3698 3701	sin
+T72	NSCO 3702 3714	emancipación
+T73	NEG 4238 4248	suspendido
+T74	FARMACO 2705 2714	lidocaína
+T75	FARMACO 3922 3943	cromoglicato disódico
+T76	FARMACO 4148 4158	interferón
+T77	ORG_VIVO 85 95	familiares
+T78	ORG_VIVO 146 156	personales
+T79	ORG_VIVO 234 239	Varón
+T80	ORG_VIVO 579 585	esposa
+T81	ORG_VIVO 849 876	médico de atención primaria
+T82	ORG_VIVO 969 977	paciente
+T83	ORG_VIVO 1019 1026	naranja
+T84	ORG_VIVO 2206 2212	hongos
+T85	ORG_VIVO 2213 2223	alternaria
+T86	ORG_VIVO 2225 2236	aspergillus
+T87	ORG_VIVO 2250 2254	gato
+T88	ORG_VIVO 2256 2278	ácaro D. Pteronyssinus
+T89	ORG_VIVO 2292 2297	perro
+T90	ORG_VIVO 2311 2320	gramíneas
+T91	ORG_VIVO 2322 2327	olivo
+T92	ORG_VIVO 2330 2336	ciprés
+T93	ORG_VIVO 2360 2366	animal
+T94	ORG_VIVO 2379 2384	gamba
+T95	ORG_VIVO 2408 2415	vegetal
+T96	ORG_VIVO 2641 2646	gamba
+T97	ORG_VIVO 2649 2657	anisakis
+T98	ORG_VIVO 3301 3309	familiar
+T99	ORG_VIVO 3327 3335	paciente
+T100	ORG_VIVO 3388 3393	mujer
+T101	ORG_VIVO 3396 3400	hija
+T102	ORG_VIVO 3428 3436	animales
+T103	ORG_VIVO 3454 3461	familia
+T104	ORG_VIVO 3474 3483	parientes
+T105	ORG_VIVO 3500 3508	familiar
+T106	ORG_VIVO 3535 3542	familia
+T107	ORG_VIVO 3595 3603	familiar
+T108	ORG_VIVO 3692 3697	hijos
+T109	ORG_VIVO 4383 4391	paciente
+T110	ENFERMEDAD 158 162	NAMC
+T111	ENFERMEDAD 167 171	FRCV
+T112	ENFERMEDAD 173 183	Meningitis
+T113	ENFERMEDAD 197 212	Talasemia minor
+T114	ENFERMEDAD 688 705	síncope vasovagal
+T115	ENFERMEDAD 908 918	anafilaxia
+T116	ENFERMEDAD 1678 1692	Esplenomegalia
+T117	ENFERMEDAD 2885 2897	mastocitosis
+T118	ENFERMEDAD 3008 3033	Hiperplasia de mastocitos
+T119	ENFERMEDAD 3085 3108	mastocitosis sistémicas
+T120	ENFERMEDAD 3733 3760	Mastocitosis sistémica leve
+T121	ENFERMEDAD 3774 3784	Anafilaxia
+T122	ENFERMEDAD 3786 3804	Alergia al marisco
+T123	ENFERMEDAD 3806 3826	Urticaria pigmentosa
+T124	ENFERMEDAD 3864 3881	lesiones cutáneas
+T125	ENFERMEDAD 4365 4377	mastocitosis
+T126	ENFERMEDAD 4503 4512	dispepsia
+T127	ENFERMEDAD 4531 4554	hipersecreción gástrica
+T128	SANITARIO-PROFESION 849 876	médico de atención primaria
+T129	PACIENTE-PROFESION 3336 3373	se dedica a la ingeniería informática

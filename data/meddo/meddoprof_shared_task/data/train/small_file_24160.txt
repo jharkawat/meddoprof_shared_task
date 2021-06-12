@@ -1,0 +1,11 @@
+
+No	O
+se	O
+objetivan	O
+alteraciones	O
+en	O
+el	O
+contenido	O
+del	O
+pensamiento	O
+.	O

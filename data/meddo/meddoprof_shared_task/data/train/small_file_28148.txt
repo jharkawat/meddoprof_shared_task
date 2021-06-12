@@ -1,0 +1,8 @@
+
+Locomotor	O
+:	O
+Miembros	O
+alineados	O
+y	O
+simétricos	O
+.	O

@@ -1,0 +1,20 @@
+
+Mostraron	O
+al	O
+corte	O
+en	O
+bivalva	O
+vías	O
+urinarias	O
+permeables	O
+y	O
+buena	O
+delimitación	O
+córtico	O
+-	O
+medular	O
+,	O
+con	O
+uréteres	O
+permeables	O
+.	O

@@ -1,0 +1,27 @@
+
+Los	O
+diámetros	O
+aproximados	O
+de	O
+la	O
+lesión	O
+son	O
+de	O
+5	O
+,	O
+7	O
+x	O
+5	O
+,	O
+1	O
+x	O
+4	O
+,	O
+2	O
+cm	O
+CC	O
+x	O
+AP	O
+x	O
+T	O
+.	O

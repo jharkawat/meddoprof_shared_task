@@ -1,0 +1,18 @@
+
+Polineuropatía	O
+sensitivo	O
+-	O
+motora	O
+axonal	O
+-	O
+desmielizante	O
+en	O
+relación	O
+con	O
+enfermedad	O
+de	O
+Lyme	O
+(	O
+neuroborreliosis	O
+)	O
+.	O

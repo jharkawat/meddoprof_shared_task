@@ -1,0 +1,14 @@
+
+Es	O
+fumador	O
+,	O
+obeso	O
+mórbido	O
+,	O
+sin	O
+otros	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+.	O

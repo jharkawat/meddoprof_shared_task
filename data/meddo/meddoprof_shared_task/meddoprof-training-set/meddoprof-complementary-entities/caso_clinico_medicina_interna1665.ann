@@ -1,0 +1,220 @@
+T1	SINTOMA 661 669	embarazo
+T2	SINTOMA 680 710	serología rubeola IgG positiva
+T3	SINTOMA 1310 1360	dolor abdominal focalizado en flanco y fosa iliaca
+T4	SINTOMA 1398 1409	hipotensión
+T5	SINTOMA 1411 1422	escalofríos
+T6	SINTOMA 1425 1433	tiritona
+T7	SINTOMA 1448 1462	picos febriles
+T8	SINTOMA 1523 1534	taquicardia
+T9	SINTOMA 1537 1548	hipotensión
+T10	SINTOMA 1618 1631	disnea súbita
+T11	SINTOMA 1634 1648	dolor torácico
+T12	SINTOMA 1688 1693	mareo
+T13	SINTOMA 1696 1706	diaforesis
+T14	SINTOMA 1828 1880	dolor abdominal en fosa iliaca derecha e hipogastrio
+T15	SINTOMA 2131 2149	mal estado general
+T16	SINTOMA 2151 2158	afebril
+T17	SINTOMA 2175 2193	diaforesis profusa
+T18	SINTOMA 2195 2204	taquipnea
+T19	SINTOMA 2240 2260	palidez generalizada
+T20	SINTOMA 2275 2283	flebitis
+T21	SINTOMA 2336 2342	soplos
+T22	SINTOMA 2486 2516	ruidos hidroaéreos disminuidos
+T23	SINTOMA 2518 2594	dolor a la palpación fosa iliaca derecha e hipogastrio con Blumberg positivo
+T24	SINTOMA 2673 2679	edemas
+T25	SINTOMA 2923 2929	fiebre
+T26	SINTOMA 4185 4196	neutrofilia
+T27	SINTOMA 4399 4422	dificultad respiratoria
+T28	SINTOMA 4597 4608	hipotensión
+T29	SINTOMA 4832 4847	dolor abdominal
+T30	SINTOMA 4986 5016	cambios inflamatorios pélvicos
+T31	SINTOMA 5459 5471	taquicárdica
+T32	SINTOMA 5593 5617	estabilidad hemodinámica
+T33	SINTOMA 5865 5868	sed
+T34	SINTOMA 5887 5928	consumo de bicarbonato con lactato normal
+T35	SINTOMA 5983 5993	consciente
+T36	SINTOMA 5996 6008	colaboradora
+T37	SINTOMA 6010 6018	eupneica
+T38	SINTOMA 6139 6163	función renal conservada
+T39	SINTOMA 6212 6219	afebril
+T40	SINTOMA 6224 6236	leucocitosis
+T41	SINTOMA 6635 6642	afebril
+T42	SINTOMA 6883 6905	dolor a nivel cervical
+T43	PROCEDIMIENTO 107 126	inducción del parto
+T44	PROCEDIMIENTO 445 457	antibióticos
+T45	PROCEDIMIENTO 476 515	implantación de catéter doble J derecho
+T46	PROCEDIMIENTO 564 581	ciclo antibiótico
+T47	PROCEDIMIENTO 756 771	exudado vaginal
+T48	PROCEDIMIENTO 844 863	inducción del parto
+T49	PROCEDIMIENTO 875 882	cesárea
+T50	PROCEDIMIENTO 965 1000	histerotomía transversa segmentaria
+T51	PROCEDIMIENTO 1002 1053	extracción fetal en cefálica y dirigida de placenta
+T52	PROCEDIMIENTO 1083 1096	histerorrafia
+T53	PROCEDIMIENTO 1180 1202	profilaxis antibiótica
+T54	PROCEDIMIENTO 1596 1603	cesárea
+T55	PROCEDIMIENTO 1712 1739	administración de analgesia
+T56	PROCEDIMIENTO 2061 2084	ecografía ginecológicas
+T57	PROCEDIMIENTO 2290 2311	auscultación cardiaca
+T58	PROCEDIMIENTO 2344 2365	Auscultación pulmonar
+T59	PROCEDIMIENTO 2732 2750	electrocardiograma
+T60	PROCEDIMIENTO 2752 2782	radiografía de tórax y abdomen
+T61	PROCEDIMIENTO 2784 2810	ecografía abdómino-pélvica
+T62	PROCEDIMIENTO 2812 2831	analítica sanguínea
+T63	PROCEDIMIENTO 2846 2864	sedimento de orina
+T64	PROCEDIMIENTO 2866 2876	urocultivo
+T65	PROCEDIMIENTO 2879 2891	hemocultivos
+T66	PROCEDIMIENTO 2934 2937	ECG
+T67	PROCEDIMIENTO 3045 3064	electrocardiogramas
+T68	PROCEDIMIENTO 3081 3101	radiografía de tórax
+T69	PROCEDIMIENTO 3135 3157	radiografía de abdomen
+T70	PROCEDIMIENTO 3299 3331	Grapas metálicas en hipogástrico
+T71	PROCEDIMIENTO 3491 3510	Ecografía abdominal
+T72	PROCEDIMIENTO 4550 4562	sueroterapia
+T73	PROCEDIMIENTO 4686 4701	catéter doble J
+T74	PROCEDIMIENTO 4909 4922	TAC abdominal
+T75	PROCEDIMIENTO 5113 5120	cesárea
+T76	PROCEDIMIENTO 5354 5366	sueroterapia
+T77	PROCEDIMIENTO 5377 5390	histerectomía
+T78	PROCEDIMIENTO 5490 5510	administran sedantes
+T79	PROCEDIMIENTO 5536 5558	intubación orotraqueal
+T80	PROCEDIMIENTO 5658 5677	retirar la sedación
+T81	PROCEDIMIENTO 5739 5762	tratamiento antibiótico
+T82	PROCEDIMIENTO 6300 6313	histerectomía
+T83	PROCEDIMIENTO 6587 6600	histerectomía
+T84	PROCEDIMIENTO 6705 6731	estudio ecográfico pélvico
+T85	PROCEDIMIENTO 6994 7005	Eco-Doppler
+T86	PROCEDIMIENTO 7266 7302	estudio de inmunidad y autoinmunidad
+T87	PROCEDIMIENTO 7322 7336	ecocardiograma
+T88	PROCEDIMIENTO 7490 7500	urocultivo
+T89	PROCEDIMIENTO 7545 7592	eco-doppler de la unión cervico-torácica venosa
+T90	NEG 714 727	negativa para
+T91	NSCO 728 739	hepatitis B
+T92	NEG 1145 1148	sin
+T93	NSCO 1149 1174	incidencias administrando
+T94	NEG 1434 1437	sin
+T95	NSCO 1438 1462	objetivar picos febriles
+T96	NEG 2085 2088	sin
+T97	NSCO 2089 2101	alteraciones
+T98	NEG 2151 2158	afebril
+T99	NEG 2262 2264	No
+T100	NSCO 2265 2283	signos de flebitis
+T101	NEG 2332 2335	sin
+T102	NSCO 2336 2342	soplos
+T103	NEG 2405 2408	sin
+T104	NSCO 2409 2427	ruidos patológicos
+T105	NEG 2458 2461	sin
+T106	NSCO 2462 2484	signos de complicación
+T107	NEG 2596 2598	No
+T108	NSCO 2599 2612	globo vesical
+T109	NEG 2639 2647	negativa
+T110	NEG 2670 2672	no
+T111	NSCO 2673 2718	edemas ni signos de trombosis venosa profunda
+T112	NEG 2911 2922	ausencia de
+T113	NSCO 2923 2929	fiebre
+T114	NEG 3102 3104	no
+T115	NSCO 3105 3130	se objetivan alteraciones
+T116	NEG 3398 3410	inespecífico
+T117	NEG 3412 3415	sin
+T118	NSCO 3416 3448	signos de obstrucción intestinal
+T119	NEG 3450 3452	No
+T120	NSCO 3453 3489	se observan signos de neumoperitoneo
+T121	NEG 3553 3556	sin
+T122	NSCO 3557 3586	evidencia de lesiones focales
+T123	NEG 3647 3649	no
+T124	NSCO 3650 3658	dilatada
+T125	NEG 3833 3836	sin
+T126	NSCO 3837 3859	datos de hidronefrosis
+T127	NEG 3894 3897	sin
+T128	NSCO 3898 3907	hallazgos
+T129	NEG 3909 3911	No
+T130	NSCO 3912 3951	se aprecia líquido libre intraabdominal
+T131	NEG 3965 3968	sin
+T132	NSCO 3969 4021	datos concluyentes de patología intraabdominal aguda
+T133	NEG 4564 4573	se retira
+T134	NSCO 4574 4608	metamizol para reducir hipotensión
+T135	NEG 4702 4705	sin
+T136	NSCO 4706 4717	incidencias
+T137	UNC 4970 4985	compatibles con
+T138	USCO 4986 5064	cambios inflamatorios pélvicos a valorar en el contexto clínico de la paciente
+T139	NEG 5138 5140	no
+T140	NSCO 5141 5211	se pude descartar proceso inflamatorio/infeccioso en esta localización
+T141	NEG 5240 5242	No
+T142	NSCO 5243 5290	signos de uropatía obstructiva en este estudio"
+T143	NEG 5658 5665	retirar
+T144	NSCO 5666 5725	la sedación puede extubarse a las 4 horas de postoperatorio
+T145	NEG 6212 6219	afebril
+T146	NEG 6635 6642	afebril
+T147	NSCO 6643 6647	tras
+T148	NEG 6648 6659	retirada de
+T149	NSCO 6660 6671	paracetamol
+T150	UNC 6791 6803	sugestiva de
+T151	USCO 6804 6822	hematoma de cúpula
+T152	NEG 7310 7319	negativos
+T153	NEG 7341 7343	no
+T154	NSCO 7344 7363	mostró alteraciones
+T155	FARMACO 217 227	salbutamol
+T156	FARMACO 230 241	terbutalina
+T157	FARMACO 411 421	ampicilina
+T158	FARMACO 586 609	amoxicilina-clavulánico
+T159	FARMACO 1203 1213	cefazolina
+T160	FARMACO 1749 1760	paracetamol
+T161	FARMACO 1788 1797	metamizol
+T162	FARMACO 4574 4583	metamizol
+T163	FARMACO 4620 4628	Imipenem
+T164	FARMACO 5343 5351	Imipenem
+T165	FARMACO 5776 5784	imipenem
+T166	FARMACO 6350 6360	cefuroxima
+T167	FARMACO 6387 6398	ceftriaxona
+T168	FARMACO 6660 6671	paracetamol
+T169	FARMACO 6674 6683	metamizol
+T170	FARMACO 7166 7177	enoxaparina
+T171	FARMACO 7430 7440	cefuroxima
+T172	ORG_VIVO 0 8	Paciente
+T173	ORG_VIVO 390 397	E. coli
+T174	ORG_VIVO 741 744	VIH
+T175	ORG_VIVO 788 811	estreptococo agalactiae
+T176	ORG_VIVO 1013 1018	fetal
+T177	ORG_VIVO 1268 1276	paciente
+T178	ORG_VIVO 1497 1507	internista
+T179	ORG_VIVO 1553 1561	paciente
+T180	ORG_VIVO 1940 1948	paciente
+T181	ORG_VIVO 4722 4730	paciente
+T182	ORG_VIVO 4810 4818	paciente
+T183	ORG_VIVO 4885 4895	internista
+T184	ORG_VIVO 5056 5064	paciente
+T185	ORG_VIVO 5933 5941	paciente
+T186	ORG_VIVO 6321 6337	Esclerichia coli
+T187	ORG_VIVO 6604 6612	paciente
+T188	ORG_VIVO 7404 7412	paciente
+T189	ENFERMEDAD 132 161	rotura prematura de membranas
+T190	ENFERMEDAD 193 197	asma
+T191	ENFERMEDAD 290 327	insuficiencia respiratoria secundaria
+T192	ENFERMEDAD 330 338	neumonía
+T193	ENFERMEDAD 341 356	sepsis urinaria
+T194	ENFERMEDAD 376 421	gestación por E. coli resistente a ampicilina
+T195	ENFERMEDAD 539 552	pielonefritis
+T196	ENFERMEDAD 773 811	crecimiento de estreptococo agalactiae
+T197	ENFERMEDAD 1523 1534	taquicardia
+T198	ENFERMEDAD 1618 1631	disnea súbita
+T199	ENFERMEDAD 2275 2283	flebitis
+T200	ENFERMEDAD 2693 2718	trombosis venosa profunda
+T201	ENFERMEDAD 2950 2969	taquicardia sinusal
+T202	ENFERMEDAD 3426 3448	obstrucción intestinal
+T203	ENFERMEDAD 3475 3489	neumoperitoneo
+T204	ENFERMEDAD 3846 3859	hidronefrosis
+T205	ENFERMEDAD 3991 4021	patología intraabdominal aguda
+T206	ENFERMEDAD 4484 4496	sepsis grave
+T207	ENFERMEDAD 4510 4539	infección del tracto urinario
+T208	ENFERMEDAD 5066 5075	puerperio
+T209	ENFERMEDAD 5159 5190	proceso inflamatorio/infeccioso
+T210	ENFERMEDAD 5213 5237	endometritis/miometritis
+T211	ENFERMEDAD 5253 5273	uropatía obstructiva
+T212	ENFERMEDAD 5315 5351	shock séptico refractario a Imipenem
+T213	ENFERMEDAD 5474 5484	hipertensa
+T214	ENFERMEDAD 6084 6103	bradicardia sinusal
+T215	ENFERMEDAD 6168 6186	proceso infeccioso
+T216	ENFERMEDAD 6749 6765	sangrado vaginal
+T217	ENFERMEDAD 6804 6822	hematoma de cúpula
+T218	ENFERMEDAD 7041 7080	trombosis focal en vena yugular interna
+T219	SANITARIO-PROFESION 1497 1507	internista
+T220	SANITARIO-PROFESION 4885 4895	internista

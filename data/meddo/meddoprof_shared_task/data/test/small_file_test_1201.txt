@@ -1,0 +1,9 @@
+
+La	O
+auscultación	O
+cardíaca	O
+y	O
+pulmonar	O
+es	O
+normal	O
+.	O

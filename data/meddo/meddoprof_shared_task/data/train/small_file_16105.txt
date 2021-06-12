@@ -1,0 +1,5 @@
+
+No	O
+signos	O
+piramidales	O
+.	O

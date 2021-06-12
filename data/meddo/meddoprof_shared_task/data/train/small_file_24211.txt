@@ -1,0 +1,27 @@
+
+Tuvieron	O
+un	O
+hijo	O
+varón	O
+,	O
+con	O
+el	O
+que	O
+convive	O
+en	O
+la	O
+actualidad	O
+No	O
+se	O
+le	O
+conocen	O
+hábitos	O
+de	O
+consumo	O
+de	O
+tóxicos	O
+,	O
+alcohol	O
+o	O
+tabaco	O
+.	O

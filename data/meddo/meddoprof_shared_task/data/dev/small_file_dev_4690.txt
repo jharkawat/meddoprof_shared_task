@@ -1,0 +1,27 @@
+
+Paciente	O
+de	O
+46	O
+años	O
+de	O
+nacionalidad	O
+polaca	O
+sin	O
+alergias	O
+medicamentosas	O
+,	O
+con	O
+bocio	O
+coloide	O
+multinodular	O
+tratado	O
+con	O
+radiofrecuencia	O
+en	O
+Polonia	O
+hace	O
+menos	O
+de	O
+un	O
+año	O
+.	O

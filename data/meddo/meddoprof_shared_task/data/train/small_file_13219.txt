@@ -1,0 +1,17 @@
+
+En	O
+la	O
+serología	O
+,	O
+estudio	O
+de	O
+autoinmunidad	O
+y	O
+análisis	O
+del	O
+LCR	O
+no	O
+destacan	O
+hallazgos	O
+patológicos	O
+.	O

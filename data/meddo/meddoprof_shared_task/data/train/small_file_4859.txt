@@ -1,0 +1,7 @@
+
+ECG	O
+Rs	O
+a	O
+100	O
+lm	O
+.	O

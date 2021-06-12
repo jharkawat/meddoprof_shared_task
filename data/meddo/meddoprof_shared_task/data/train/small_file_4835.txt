@@ -1,0 +1,10 @@
+
+-	O
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+100	O
+lpm	O
+.	O

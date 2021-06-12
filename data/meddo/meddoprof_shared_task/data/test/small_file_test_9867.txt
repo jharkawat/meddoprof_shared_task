@@ -1,0 +1,17 @@
+
+Se	O
+realiza	O
+punción	O
+aspiración	O
+del	O
+conglomerado	O
+,	O
+enviándose	O
+la	O
+muestra	O
+al	O
+servicio	O
+de	O
+Anatomía	O
+Patológica	O
+.	O

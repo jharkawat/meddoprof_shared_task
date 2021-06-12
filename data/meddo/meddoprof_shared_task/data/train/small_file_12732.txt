@@ -1,0 +1,21 @@
+
+El	O
+proceso	O
+infeccioso	O
+se	O
+encuentra	O
+controlado	O
+(	O
+afebril	O
+,	O
+con	O
+leucocitosis	O
+y	O
+reactantes	O
+de	O
+fase	O
+aguda	O
+en	O
+descenso	O
+)	O
+.	O

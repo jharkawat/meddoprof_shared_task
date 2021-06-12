@@ -1,0 +1,38 @@
+T1	SINTOMA 287 294	astenia
+T2	SINTOMA 296 304	anorexia
+T3	SINTOMA 307 322	pérdida de peso
+T4	SINTOMA 1029 1041	hematoquecia
+T5	PROCEDIMIENTO 801 824	aspirado de médula ósea
+T6	PROCEDIMIENTO 836 856	Radiografía de tórax
+T7	PROCEDIMIENTO 859 867	Body-TAC
+T8	PROCEDIMIENTO 904 931	tratamiento antirretroviral
+T9	PROCEDIMIENTO 1054 1066	gastroscopia
+T10	PROCEDIMIENTO 1251 1263	colonoscopia
+T11	NEG 358 360	No
+T12	NSCO 361 403	enfermedades médico-quirúrgicas de interés
+T13	NEG 790 798	negativa
+T14	NEG 868 871	sin
+T15	NSCO 872 881	hallazgos
+T16	UNC 1205 1215	sugestivas
+T17	USCO 1216 1245	se sarcoma de Kaposi gástrico
+T18	NEG 1542 1557	desaparición de
+T19	NSCO 1558 1595	las lesiones a nivel gastrointestinal
+T20	FARMACO 933 946	emtricitabina
+T21	FARMACO 948 969	tenofovir alafenamida
+T22	FARMACO 971 980	darunavir
+T23	FARMACO 983 993	cobicistat
+T24	FARMACO 1438 1451	doxorrubicina
+T25	ORG_VIVO 19 24	Varón
+T26	ORG_VIVO 405 411	Músico
+T27	ORG_VIVO 458 464	pareja
+T28	ORG_VIVO 673 676	VIH
+T29	ORG_VIVO 916 931	antirretroviral
+T30	ENFERMEDAD 62 89	lesiones cutáneas violáceas
+T31	ENFERMEDAD 540 552	pancitopenia
+T32	ENFERMEDAD 758 780	leishmaniasis visceral
+T33	ENFERMEDAD 1085 1106	candidiasis esofágica
+T34	ENFERMEDAD 1142 1245	lesiones sobrelevadas nodulares de coloración rojiza de 2-3 cm sugestivas se sarcoma de Kaposi gástrico
+T35	ENFERMEDAD 1310 1393	lesiones nodulares rojo-cereza sobreelevadas similares a las de la cavidad gástrica
+T36	ENFERMEDAD 1562 1595	lesiones a nivel gastrointestinal
+T37	ENFERMEDAD 1605 1622	lesiones cutáneas
+T38	PACIENTE-PROFESION 405 411	Músico

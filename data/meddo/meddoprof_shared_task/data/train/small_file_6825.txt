@@ -1,0 +1,19 @@
+
+Se	O
+envió	O
+una	O
+muestra	O
+a	O
+microbiología	O
+,	O
+dónde	O
+se	O
+identificaron	O
+con	O
+microscopia	O
+electrónica	O
+partículas	O
+del	O
+género	O
+parapoxvirus	O
+.	O

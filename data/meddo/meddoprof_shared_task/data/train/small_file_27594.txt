@@ -1,0 +1,19 @@
+
+Estenosis	O
+subaórtica	O
+fija	O
+membranosa	O
+de	O
+grado	O
+moderado	O
+con	O
+insuficiencia	O
+de	O
+válvula	O
+aórtica	O
+diagnosticada	O
+a	O
+los	O
+2	O
+años	O
+.	O

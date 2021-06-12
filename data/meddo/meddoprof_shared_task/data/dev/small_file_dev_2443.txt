@@ -1,0 +1,13 @@
+
+En	O
+general	O
+,	O
+responde	O
+a	O
+órdenes	O
+de	O
+manera	O
+desordenada	O
+e	O
+irregular	O
+.	O

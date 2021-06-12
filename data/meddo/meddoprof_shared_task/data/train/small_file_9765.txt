@@ -1,0 +1,11 @@
+
+Se	O
+solicitan	O
+nuevas	O
+pruebas	O
+complementarias	O
+:	O
+Mantoux	O
+:	O
+negativo	O
+.	O

@@ -1,0 +1,20 @@
+
+Datos	O
+actuales	O
+:	O
+Al	O
+ser	O
+admitido	O
+,	O
+el	O
+paciente	O
+parecía	O
+perplejo	O
+y	O
+ansioso	O
+,	O
+pero	O
+estaba	O
+completamente	O
+orientado	O
+.	O

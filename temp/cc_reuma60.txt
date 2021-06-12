@@ -1,0 +1,304 @@
+Motivo	O
+de	O
+Consulta:	O
+
+Dolor	O
+en	O
+Trocánter	O
+Derecho	O
+
+AP:53	O
+años.	O
+Ganadero.	B-PROFESION
+
+Fumador	O
+de	O
+½	O
+paq/día.	O
+No	O
+bebedor.	O
+
+HTA	O
+en	O
+tto.	O
+
+TVP	O
+->	O
+MID	O
+
+No	O
+Iqx	O
+Previas	O
+
+Ttos	O
+Crónicos:	O
+
+Durogesic	O
+:50	O
+mg/72	O
+hrs	O
+
+Cod-Efferalgan:	O
+1-1-1	O
+
+Lyrica	O
+150:	O
+1-0-1	O
+
+Airtal:	O
+1-0-1	O
+
+Enfermedad	O
+Actual	O
+
+4	O
+meses	O
+
+Dolor	O
+mecánico	O
+en	O
+trocánter	O
+y	O
+glúteo	O
+derecho	O
+
+2	O
+meses	O
+
+Intensificación	O
+del	O
+dolor	O
+
+Ritmo	O
+inflamatorio	O
+
+Irradiación	O
+a	O
+rodilla	O
+
+Limitación	O
+funcional	O
+importante	O
+y	O
+claudicación	O
+a	O
+la	O
+marcha.	O
+
+Respuesta	O
+parcial	O
+a	O
+analgésicos:	O
+AINES	O
+y	O
+OPIOIDES	O
+
+Anamnesis	O
+x	O
+Aparatos	O
+
+Sudoración	O
+nocturna	O
+2	O
+meses.	O
+
+Pérdida	O
+de	O
+peso	O
+15	O
+kg	O
+en	O
+2	O
+meses	O
+
+Astenia	O
+leve	O
+
+Contacto	O
+con	O
+ganado	O
+
+NO	O
+Sinovitis,	O
+ni	O
+dolor	O
+a	O
+ningún	O
+otro	O
+nivel.	O
+
+NO	O
+Fiebre,	O
+ni	O
+clínica	O
+infecciosa	O
+previa	O
+
+NO	O
+Pérdida	O
+de	O
+apetito	O
+
+NO	O
+Clínica	O
+digestiva,	O
+ni	O
+urinaria	O
+
+NO	O
+Datos	O
+de	O
+colagenopatía	O
+
+NO	O
+Picaduras	O
+o	O
+viajes	O
+al	O
+extranjero	O
+
+NO	O
+Contactos	O
+sexuales	O
+de	O
+riesgo	O
+
+NO	O
+Antecedente	O
+traumático	O
+
+Ingreso	O
+
+Exploración	O
+Física	O
+
+TA:	O
+110/80	O
+mm/Hg.	O
+FC:	O
+68	O
+lpm.	O
+Peso:	O
+90	O
+kg.	O
+
+Afebril.	O
+Afectado,	O
+sudoroso.	O
+No	O
+adenopatías	O
+periféricas.	O
+
+ACP:	O
+Rigurosamente	O
+normal	O
+
+Abdomen:	O
+Normal.	O
+
+EII:	O
+No	O
+edemas,	O
+pedios	O
+laten	O
+simétricos.	O
+
+Reumatológica	O
+
+MID:	O
+Dolor	O
+en	O
+trocánter	O
+derecho.	O
+Nódulo	O
+en	O
+raíz	O
+interna	O
+del	O
+muslo.	O
+
+Atrofia	O
+del	O
+cuádriceps.	O
+Posición	O
+antiálgica	O
+de	O
+cadera.	O
+
+Gran	O
+limitación	O
+de	O
+la	O
+flexión	O
+y	O
+abducción	O
+de	O
+la	O
+articulación	O
+coxofemoral	O
+derecha.	O
+
+Pruebas	O
+Complementarias	O
+
+Hemograma	O
+
+Hb:10,8	O
+(Anemia	O
+normocítica-normocrómica)	O
+
+Leucocitos:16,500	O
+(N:	O
+67	O
+%)	O
+
+Plaquetas:345,000VSG:25	O
+
+Coagulación	O
+
+Normal	O
+
+Bioquímica	O
+general	O
+
+Urato:7.2	O
+
+PFH:	O
+FA:	O
+344,	O
+AST:	O
+32,	O
+ALT:	O
+49,	O
+GGT:	O
+522	O
+
+PCR:	O
+23.90	O
+
+Inmunología	O
+
+FR,	O
+Igs,	O
+complemento,	O
+ANAs,	O
+CCP	O
+y	O
+ANCAs:	O
+Normales.	O
+
+Serología	O
+Virus	O
+hepáticos	O
+y	O
+de	O
+artritis:	O
+Negativos	O
+
+NECROSIS	O
+AVASCULARDE	O
+CADERA	O
+Y	O
+HEMATOMA	O
+ADYACENTESARCOMA	O
+

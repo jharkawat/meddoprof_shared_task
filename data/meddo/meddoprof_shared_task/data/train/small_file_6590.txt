@@ -1,0 +1,21 @@
+
+Se	O
+observa	O
+eritema	O
+y	O
+descamación	O
+desde	O
+dorso	O
+del	O
+pie	O
+hasta	O
+tercio	O
+inferior	O
+de	O
+pierna	O
+con	O
+un	O
+borde	O
+geográfico	O
+eritematoso	O
+.	O

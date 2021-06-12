@@ -1,0 +1,26 @@
+
+La	O
+pancitopenia	O
+obliga	O
+a	O
+descartar	O
+una	O
+enfermedad	O
+en	O
+la	O
+médula	O
+ósea	O
+o	O
+bien	O
+un	O
+proceso	O
+periférico	O
+que	O
+explique	O
+el	O
+consumo	O
+o	O
+la	O
+destrucción	O
+celular	O
+.	O

@@ -1,0 +1,10 @@
+
+-	O
+Colonoscopia	O
+:	O
+evidencia	O
+de	O
+pancolitis	O
+ulcerosa	O
+leve	O
+.	O

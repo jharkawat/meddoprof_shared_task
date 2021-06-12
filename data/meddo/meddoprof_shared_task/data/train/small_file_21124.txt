@@ -1,0 +1,14 @@
+
+Su	O
+esposo	O
+la	O
+había	O
+abandonado	O
+,	O
+y	O
+se	O
+sospechó	O
+de	O
+un	O
+suicidio	O
+.	O

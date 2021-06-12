@@ -1,0 +1,13 @@
+
+Realiza	B-PROFESION
+un	I-PROFESION
+trabajo	I-PROFESION
+de	I-PROFESION
+oficina	I-PROFESION
+delante	O
+del	O
+ordenador	O
+,	O
+muy	O
+estático	O
+.	O

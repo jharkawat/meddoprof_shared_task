@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Inés	O
+Contreras	O
+Saenz	O
+NºCol	O
+:	O
+30	O
+30	O
+22503	O
+.	O

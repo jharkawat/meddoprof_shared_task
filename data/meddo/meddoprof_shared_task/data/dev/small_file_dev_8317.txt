@@ -1,0 +1,27 @@
+
+Sin	O
+embargo	O
+,	O
+ajustándonos	O
+a	O
+los	O
+recursos	O
+disponibles	O
+,	O
+la	O
+paciente	O
+no	O
+refirió	O
+en	O
+la	O
+anamnesis	O
+alteraciones	O
+gastrointestinales	O
+,	O
+ni	O
+urinarias	O
+o	O
+patología	O
+cardiaca	O
+previa	O
+.	O

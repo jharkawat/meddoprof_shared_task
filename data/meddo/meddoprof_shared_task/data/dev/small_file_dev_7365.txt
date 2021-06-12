@@ -1,0 +1,13 @@
+
+Poco	O
+probable	O
+sería	O
+que	O
+nuestro	O
+paciente	O
+tuviera	O
+una	O
+tuberculosis	O
+diseminada	O
+extrapulmonar	O
+.	O

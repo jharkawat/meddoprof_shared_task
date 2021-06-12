@@ -1,0 +1,18 @@
+
+El	O
+electrocardiograma	O
+presenta	O
+ritmo	O
+sinusal	O
+con	O
+eje	O
+a	O
+100o	O
+sin	O
+bloqueos	O
+ni	O
+alteraciones	O
+de	O
+la	O
+repolarización	O
+.	O

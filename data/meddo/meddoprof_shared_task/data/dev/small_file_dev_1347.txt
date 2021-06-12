@@ -1,0 +1,25 @@
+
+Alucinosis	O
+talámica	O
+o	O
+alucinosis	O
+peduncular	O
+,	O
+frecuente	O
+tras	O
+lesiones	O
+en	O
+el	O
+tronco	O
+cerebral	O
+(	O
+isquémicas	O
+,	O
+hemorrágicas	O
+,	O
+tumorales	O
+,	O
+etc	O
+.	O
+)	O
+.	O

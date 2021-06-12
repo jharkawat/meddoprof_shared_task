@@ -1,0 +1,9 @@
+
+Molero	O
+siguió	O
+viendo	O
+a	O
+su	O
+psiquiatra	B-PROFESION
+semanalmente	O
+.	O

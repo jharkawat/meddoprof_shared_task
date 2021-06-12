@@ -1,0 +1,7 @@
+
+FC	O
+:	O
+79	O
+/	O
+minuto	O
+.	O

@@ -1,0 +1,7 @@
+
+Tampoco	O
+la	O
+clínica	O
+es	O
+típica	O
+.	O

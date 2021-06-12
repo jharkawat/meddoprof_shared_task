@@ -1,0 +1,197 @@
+T1	SINTOMA 208 236	dolor en el miembro superior
+T2	SINTOMA 258 269	parestesias
+T3	SINTOMA 410 469	tumoración de gran tamaño, localizada en el lóbulo superior
+T4	SINTOMA 2090 2101	nerviosismo
+T5	SINTOMA 2103 2112	inquietud
+T6	SINTOMA 2115 2123	malestar
+T7	SINTOMA 2281 2305	estabilidad hemodinámica
+T8	SINTOMA 2579 2597	hipocinesia global
+T9	SINTOMA 2617 2663	disfunción sistólica moderada de el ventrículo
+T10	SINTOMA 3080 3104	relajación de esfínteres
+T11	SINTOMA 3743 3753	estuporosa
+T12	SINTOMA 3767 3774	afebril
+T13	SINTOMA 3786 3794	eupneica
+T14	SINTOMA 3848 3861	rigidez nucal
+T15	SINTOMA 3865 3881	signos meníngeos
+T16	SINTOMA 4016 4067	hipoventilación en la región superior del hemitórax
+T17	SINTOMA 4167 4173	edemas
+T18	SINTOMA 7106 7144	movimientos repetitivos de la hemicara
+T19	SINTOMA 7367 7388	deterioro neurológico
+T20	SINTOMA 7390 7448	disminución de fuerza más acentuada en el miembro superior
+T21	SINTOMA 7460 7477	nistagmo vertical
+T22	SINTOMA 8382 8387	edema
+T23	PROCEDIMIENTO 322 364	radiografía cervical y de hombro izquierdo
+T24	PROCEDIMIENTO 530 541	TC de tórax
+T25	PROCEDIMIENTO 856 863	biopsia
+T26	PROCEDIMIENTO 1257 1269	TC abdominal
+T27	PROCEDIMIENTO 1571 1585	tratamiento QT
+T28	PROCEDIMIENTO 1774 1777	PET
+T29	PROCEDIMIENTO 1793 1795	QT
+T30	PROCEDIMIENTO 1870 1884	TC diagnóstica
+T31	PROCEDIMIENTO 1922 1934	Radioterapia
+T32	PROCEDIMIENTO 2030 2042	Radioterapia
+T33	PROCEDIMIENTO 2213 2216	ECG
+T34	PROCEDIMIENTO 2398 2425	cardioversión farmacológica
+T35	PROCEDIMIENTO 2549 2563	ecocardiograma
+T36	PROCEDIMIENTO 2905 2917	Radioterapia
+T37	PROCEDIMIENTO 3145 3157	TC de cráneo
+T38	PROCEDIMIENTO 3324 3338	punción lumbar
+T39	PROCEDIMIENTO 3697 3710	Examen físico
+T40	PROCEDIMIENTO 4219 4238	TC tóraco-abdominal
+T41	PROCEDIMIENTO 4625 4640	Biopsia del LSI
+T42	PROCEDIMIENTO 4734 4737	PET
+T43	PROCEDIMIENTO 5130 5142	RM de cráneo
+T44	PROCEDIMIENTO 6207 6232	profilaxis anticoagulante
+T45	PROCEDIMIENTO 6376 6402	tratamiento quimioterápico
+T46	PROCEDIMIENTO 6603 6616	quimioterapia
+T47	PROCEDIMIENTO 6743 6765	perfusión de fenitoína
+T48	PROCEDIMIENTO 6945 6969	tratamiento anticomicial
+T49	PROCEDIMIENTO 7853 7864	RM cerebral
+T50	PROCEDIMIENTO 8116 8141	tratamiento antiagregante
+T51	PROCEDIMIENTO 8324 8326	RM
+T52	PROCEDIMIENTO 8565 8605	tratamiento antiagregante y anticomicial
+T53	PROCEDIMIENTO 8607 8620	levetirazetam
+T54	PROCEDIMIENTO 8768 8782	tratamiento RT
+T55	NEG 28 30	No
+T56	NSCO 31 34	RAM
+T57	NEG 36 38	No
+T58	NSCO 39 54	hábitos tóxicos
+T59	NEG 271 273	No
+T60	NSCO 274 305	refiere otra clínica a destacar
+T61	NEG 803 805	No
+T62	NSCO 806 843	adenopatías mediastínicas ni hiliares
+T63	UNC 912 927	compatibles con
+T64	USCO 928 955	carcinoma de célula pequeña
+T65	NEG 1026 1029	sin
+T66	NSCO 1030 1045	hábitos tóxicos
+T67	NEG 1271 1284	descartándose
+T68	NSCO 1285 1319	afectación metastásica a distancia
+T69	UNC 1403 1418	compatibles con
+T70	USCO 1419 1457	carcinoma de células pequeñas (cT4N0M0
+T71	UNC 1811 1826	compatibles con
+T72	USCO 1827 1850	respuesta parcial pobre
+T73	UNC 2337 2345	aparente
+T74	USCO 2346 2364	reciente aparición
+T75	UNC 3263 3277	compatible con
+T76	USCO 3278 3298	un quiste aracnoideo
+T77	NEG 3410 3413	sin
+T78	NSCO 3414 3438	alteraciones metabólicas
+T79	UNC 3443 3451	pudieran
+T80	USCO 3452 3488	haber precipitado el cuadro comicial
+T81	NEG 3767 3774	afebril
+T82	NEG 3845 3847	No
+T83	NSCO 3848 3881	rigidez nucal ni signos meníngeos
+T84	NEG 4079 4082	sin
+T85	NSCO 4083 4101	ruidos patológicos
+T86	NEG 4111 4114	sin
+T87	NSCO 4115 4141	hallazgos a la exploración
+T88	NEG 4163 4166	sin
+T89	NSCO 4167 4190	edemas ni signos de TVP
+T90	NEG 4581 4583	No
+T91	NSCO 4584 4621	adenopatías hiliares ni mediastínicas
+T92	UNC 5018 5032	Compatible con
+T93	USCO 5033 5073	malignidad con alto índice proliferativo
+T94	NEG 5082 5085	sin
+T95	NSCO 5086 5106	hallazgos a destacar
+T96	NEG 5118 5126	negativa
+T97	NEG 5150 5153	sin
+T98	NSCO 5154 5163	contraste
+T99	UNC 5434 5441	sugiere
+T100	USCO 5442 5460	zona de hemorragia
+T101	NEG 5483 5487	nula
+T102	NSCO 5488 5522	captación de contraste intravenoso
+T103	UNC 5539 5545	dudosa
+T104	USCO 5546 5572	restricción de la difusión
+T105	UNC 5589 5596	parecen
+T106	USCO 5597 5669	tener edema y ejercer efecto masa sobre el parénquima cerebral adyacente
+T107	NEG 5685 5693	sugieren
+T108	NSCO 5694 5728	patología isquémica aguda-subaguda
+T109	NEG 5802 5804	no
+T110	NSCO 5805 5849	se trate de infiltración tumoral metastásica
+T111	NEG 6203 6206	sin
+T112	NSCO 6207 6239	profilaxis anticoagulante previa
+T113	UNC 6538 6548	probables:
+T114	USCO 6549 6574	cuadro infeccioso del SNC
+T115	UNC 7663 7669	parece
+T116	USCO 7670 7692	un síndrome cerebeloso
+T117	NEG 7744 7753	retiramos
+T118	NSCO 7754 7758	esta
+T119	UNC 7950 7958	sugieren
+T120	USCO 7959 7993	patología isquémica aguda-subaguda
+T121	NEG 8040 8042	no
+T122	NSCO 8043 8045	es
+T123	UNC 8046 8063	posible descartar
+T124	USCO 8064 8086	afectación metastásica
+T125	NEG 8794 8797	sin
+T126	NSCO 8798 8813	QT concomitante
+T127	FARMACO 1593 1603	cisplatino
+T128	FARMACO 1604 1613	etopósido
+T129	FARMACO 2442 2453	propranolol
+T130	FARMACO 2461 2471	flecainida
+T131	FARMACO 2770 2780	bisoprolol
+T132	FARMACO 2800 2811	enoxaparina
+T133	FARMACO 6055 6076	cisplatino- etopósido
+T134	FARMACO 6714 6726	dexametasona
+T135	FARMACO 6756 6765	fenitoína
+T136	FARMACO 7242 7251	fenitoína
+T137	FARMACO 7566 7575	fenitoína
+T138	FARMACO 7733 7742	fenitoína
+T139	FARMACO 8607 8620	levetirazetam
+T140	ORG_VIVO 10 15	Mujer
+T141	ORG_VIVO 56 70	Abuelo paterno
+T142	ORG_VIVO 103 117	abuelo materno
+T143	ORG_VIVO 191 199	paciente
+T144	ORG_VIVO 1009 1017	paciente
+T145	ORG_VIVO 1703 1711	paciente
+T146	ORG_VIVO 1993 2001	paciente
+T147	ORG_VIVO 2922 2930	paciente
+T148	ORG_VIVO 3622 3630	paciente
+T149	ORG_VIVO 3734 3742	paciente
+T150	ORG_VIVO 5963 5971	paciente
+T151	ORG_VIVO 8031 8039	paciente
+T152	ORG_VIVO 8191 8199	paciente
+T153	ORG_VIVO 8449 8457	paciente
+T154	ORG_VIVO 8688 8696	paciente
+T155	ENFERMEDAD 84 100	cáncer de pulmón
+T156	ENFERMEDAD 121 136	cáncer gástrico
+T157	ENFERMEDAD 560 584	lesión sólida en el ápex
+T158	ENFERMEDAD 665 729	lesión presenta amplio contacto con el tercio superior esofágico
+T159	ENFERMEDAD 806 831	adenopatías mediastínicas
+T160	ENFERMEDAD 928 955	carcinoma de célula pequeña
+T161	ENFERMEDAD 1136 1185	carcinoma de rasgos neuroendocrinos de alto grado
+T162	ENFERMEDAD 1285 1307	afectación metastásica
+T163	ENFERMEDAD 1340 1378	carcinoma neuroendocrino de alto grado
+T164	ENFERMEDAD 1419 1448	carcinoma de células pequeñas
+T165	ENFERMEDAD 2190 2203	taquiarritmia
+T166	ENFERMEDAD 2969 2988	crisis generalizada
+T167	ENFERMEDAD 2990 3004	tónico-clónica
+T168	ENFERMEDAD 3055 3077	mordedura de la lengua
+T169	ENFERMEDAD 3281 3298	quiste aracnoideo
+T170	ENFERMEDAD 4187 4190	TVP
+T171	ENFERMEDAD 4248 4272	lesión sólida en el ápex
+T172	ENFERMEDAD 4584 4604	adenopatías hiliares
+T173	ENFERMEDAD 4642 4669	carcinoma de célula pequeña
+T174	ENFERMEDAD 4854 4881	lesión invade el mediastino
+T175	ENFERMEDAD 5182 5216	lesiones intraaxiales hemisféricas
+T176	ENFERMEDAD 5694 5728	patología isquémica aguda-subaguda
+T177	ENFERMEDAD 5817 5849	infiltración tumoral metastásica
+T178	ENFERMEDAD 5917 5954	crisis generalizadas, tónico-clónicas
+T179	ENFERMEDAD 5997 6025	cáncer microcítico de pulmón
+T180	ENFERMEDAD 6027 6034	cT4N0M0
+T181	ENFERMEDAD 6101 6122	fibrilación auricular
+T182	ENFERMEDAD 6150 6167	cuadro convulsivo
+T183	ENFERMEDAD 6285 6315	afectación metastásica del SNC
+T184	ENFERMEDAD 6339 6373	trastornos metabólicos secundarios
+T185	ENFERMEDAD 6404 6424	ictus cardioembólico
+T186	ENFERMEDAD 6438 6440	FA
+T187	ENFERMEDAD 6481 6516	síndrome paraneoplásico neurológico
+T188	ENFERMEDAD 6549 6574	cuadro infeccioso del SNC
+T189	ENFERMEDAD 6576 6600	encefalopatía secundaria
+T190	ENFERMEDAD 6828 6860	crisis convulsivas generalizadas
+T191	ENFERMEDAD 6975 6992	crisis comiciales
+T192	ENFERMEDAD 7066 7092	crisis parciales complejas
+T193	ENFERMEDAD 7673 7692	síndrome cerebeloso
+T194	ENFERMEDAD 7910 7944	lesiones intraaxiales hemisféricas
+T195	ENFERMEDAD 7959 7993	patología isquémica aguda-subaguda
+T196	ENFERMEDAD 8064 8086	afectación metastásica
+T197	PACIENTE-PROFESION 138 152	Fisioterapeuta

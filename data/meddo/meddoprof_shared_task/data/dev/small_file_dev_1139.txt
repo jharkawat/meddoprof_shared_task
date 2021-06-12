@@ -1,0 +1,22 @@
+
+Pernoctaban	O
+como	O
+ocupas	B-SITUACION_LABORAL
+en	O
+la	O
+zona	O
+portuaria	O
+y	O
+negaba	O
+que	O
+el	O
+paciente	O
+tomase	O
+fármacos	O
+o	O
+tuviese	O
+seguimiento	O
+en	O
+la	O
+ciudad	O
+.	O

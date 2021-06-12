@@ -1,0 +1,13 @@
+
+Refiere	O
+además	O
+infección	O
+respiratoria	O
+que	O
+ha	O
+tratado	O
+con	O
+antibioterapia	O
+y	O
+aerosoles	O
+.	O

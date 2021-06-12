@@ -1,0 +1,13 @@
+
+Se	O
+decide	O
+alta	O
+a	O
+su	O
+domicilio	O
+con	O
+profilaxis	O
+anticonvulsivante	O
+con	O
+fenitoína	O
+.	O

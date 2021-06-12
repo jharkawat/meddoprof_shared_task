@@ -1,0 +1,23 @@
+
+Extensión	O
+visceral	O
+con	O
+metástasis	O
+pulmonares	O
+y	O
+posible	O
+linfangitis	O
+carcinomatosa	O
+,	O
+así	O
+como	O
+la	O
+aparición	O
+de	O
+lesiones	O
+esplénicas	O
+sugestivas	O
+de	O
+nuevas	O
+metástasis	O
+.	O

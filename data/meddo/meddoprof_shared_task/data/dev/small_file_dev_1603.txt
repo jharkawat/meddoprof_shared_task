@@ -1,0 +1,18 @@
+
+Además	O
+,	O
+hay	O
+una	O
+discapacidad	O
+social	O
+menor	O
+,	O
+menos	O
+preocupaciones	O
+de	O
+tipo	O
+ansioso	O
+y	O
+menor	O
+hostilidad	O
+.	O

@@ -1,0 +1,20 @@
+
+Datos	O
+clínicos	O
+Varón	O
+de	O
+64	O
+años	O
+de	O
+profesión	O
+funcionario	B-PROFESION
+acude	O
+por	O
+hematuria	O
+macroscópica	O
+a	O
+urgencias	O
+y	O
+analítica	O
+normal	O
+.	O

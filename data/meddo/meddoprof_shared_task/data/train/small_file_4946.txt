@@ -1,0 +1,4 @@
+
+Urticaria	O
+pigmentosa	O
+.	O

@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+ingresa	O
+en	O
+Medicina	O
+Interna	O
+para	O
+estudio	O
+.	O

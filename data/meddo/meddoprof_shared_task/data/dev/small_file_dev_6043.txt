@@ -1,0 +1,12 @@
+
+La	O
+antigenuria	O
+de	O
+Streptococcus	O
+pneumoniae	O
+y	O
+Legionella	O
+pneumophila	O
+fue	O
+negativa	O
+.	O

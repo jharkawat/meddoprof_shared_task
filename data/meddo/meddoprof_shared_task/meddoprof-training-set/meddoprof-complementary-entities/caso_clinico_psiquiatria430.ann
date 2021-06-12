@@ -1,0 +1,201 @@
+T1	SINTOMA 1733 1756	alucinaciones auditivas
+T2	SINTOMA 1946 1981	alucinaciones cenestésicas táctiles
+T3	SINTOMA 2409 2417	insomnio
+T4	SINTOMA 4033 4043	consciente
+T5	SINTOMA 4046 4055	orientado
+T6	SINTOMA 4191 4212	agitación psicomotriz
+T7	SINTOMA 4215 4251	heteroagresividad física fluctuantes
+T8	SINTOMA 4390 4413	alucinaciones auditivas
+T9	SINTOMA 4973 4981	insomnio
+T10	SINTOMA 5183 5189	soplos
+T11	SINTOMA 5257 5284	Abdomen blando y depresible
+T12	SINTOMA 5341 5362	irritación peritoneal
+T13	SINTOMA 8748 8759	hipertermia
+T14	SINTOMA 8761 8785	bajo nivel de conciencia
+T15	SINTOMA 8787 8810	dificultad respiratoria
+T16	SINTOMA 8812 8844	descoordinación tóraco-abdominal
+T17	SINTOMA 9014 9024	hipotermia
+T18	PROCEDIMIENTO 337 367	tratamiento psicofarmacológico
+T19	PROCEDIMIENTO 2683 2709	Rehabilitación Psicosocial
+T20	PROCEDIMIENTO 2909 2936	tratamientos farmacológicos
+T21	PROCEDIMIENTO 5105 5123	palpación tiroidea
+T22	PROCEDIMIENTO 5149 5170	Auscultación cardiaca
+T23	PROCEDIMIENTO 5191 5212	Auscultación pulmonar
+T24	PROCEDIMIENTO 5454 5465	Rx cervical
+T25	PROCEDIMIENTO 5510 5537	TAC tóraco-abdominal-lumbar
+T26	PROCEDIMIENTO 5818 5820	Rx
+T27	PROCEDIMIENTO 6171 6174	ECG
+T28	PROCEDIMIENTO 6235 6245	TC cerebro
+T29	PROCEDIMIENTO 6307 6320	TC cerebrales
+T30	PROCEDIMIENTO 6351 6360	hemograma
+T31	PROCEDIMIENTO 6836 6871	Terapia Electroconvulsiva bilateral
+T32	PROCEDIMIENTO 8432 8457	Terapia Electroconvulsiva
+T33	PROCEDIMIENTO 9014 9024	hipotermia
+T34	PROCEDIMIENTO 9026 9034	sedación
+T35	PROCEDIMIENTO 9037 9058	relajantes musculares
+T36	PROCEDIMIENTO 9062 9068	intuba
+T37	PROCEDIMIENTO 9084 9094	respirador
+T38	PROCEDIMIENTO 10594 10614	extracción sanguínea
+T39	NEG 827 832	niega
+T40	NSCO 833 851	consumo de alcohol
+T41	NEG 2135 2137	no
+T42	NSCO 2138 2158	ve la TV porque cree
+T43	NEG 2312 2314	no
+T44	NSCO 2315 2324	han dicho
+T45	NEG 3114 3119	nunca
+T46	NSCO 3120 3133	ha sido buena
+T47	NEG 3351 3353	no
+T48	NSCO 3354 3395	tomaba el tratamiento por propia decisión
+T49	NEG 3570 3575	no de
+T50	NSCO 3576 3581	otras
+T51	NEG 3757 3759	no
+T52	NSCO 3760 3791	llegaban a desaparecer del todo
+T53	NEG 4569 4571	No
+T54	NSCO 4572 4633	se aprecian fenómenos de control o influencia del pensamiento
+T55	UNC 4643 4652	probables
+T56	USCO 4653 4682	fenómenos de difusión de este
+T57	NEG 5089 5091	no
+T58	NSCO 5092 5103	adenopatías
+T59	NEG 5179 5182	sin
+T60	NSCO 5183 5189	soplos
+T61	NEG 5218 5220	no
+T62	NSCO 5221 5254	se auscultan ruidos sobreañadidos
+T63	NEG 5286 5288	no
+T64	NSCO 5289 5316	se palpan masas ni megalias
+T65	NEG 5318 5320	no
+T66	NSCO 5321 5362	signos de defensa o irritación peritoneal
+T67	NEG 5369 5371	no
+T68	NSCO 5372 5382	edematosas
+T69	NEG 5383 5386	sin
+T70	NSCO 5387 5400	signos de TVP
+T71	NEG 5402 5404	No
+T72	NSCO 5405 5427	otros datos de interés
+T73	NEG 5480 5482	no
+T74	NSCO 5483 5508	alteraciones radiológicas
+T75	NEG 6197 6199	No
+T76	NSCO 6200 6233	otras alteraciones significativas
+T77	NEG 6274 6276	No
+T78	NSCO 6277 6295	otras alteraciones
+T79	NEG 8223 8225	no
+T80	NSCO 8226 8256	llegan a desaparecer nunca del
+T81	UNC 8290 8296	parece
+T82	USCO 8297 8327	tener conciencia de enfermedad
+T83	NEG 8654 8663	suspender
+T84	NSCO 8664 8717	todo el tratamiento para reiniciar con otros fármacos
+T85	NEG 10853 10858	Niega
+T86	NSCO 10859 10902	pensamientos de muerte en el momento actual
+T87	FARMACO 777 788	anfetaminas
+T88	FARMACO 935 944	clozapina
+T89	FARMACO 2943 2954	haloperidol
+T90	FARMACO 2956 2966	clotiapina
+T91	FARMACO 2968 2979	risperidona
+T92	FARMACO 2981 2994	diclorhidrato
+T93	FARMACO 2998 3013	trifluoperazina
+T94	FARMACO 3015 3025	biperideno
+T95	FARMACO 3027 3035	diazepam
+T96	FARMACO 3037 3058	lorazepato dipotásico
+T97	FARMACO 3060 3075	levomepromazina
+T98	FARMACO 3077 3086	ropinirol
+T99	FARMACO 6714 6723	clozapina
+T100	FARMACO 6755 6777	clorazepato dipotásico
+T101	FARMACO 7688 7701	zuclopentixol
+T102	FARMACO 7714 7724	olanzapina
+T103	FARMACO 7726 7736	quetiapina
+T104	FARMACO 7738 7748	alprazolam
+T105	FARMACO 7793 7808	levomepromazina
+T106	FARMACO 7810 7821	risperidona
+T107	FARMACO 7823 7834	gabapentina
+T108	FARMACO 7837 7847	clonazepam
+T109	FARMACO 8556 8571	levomepromazina
+T110	FARMACO 8573 8584	risperidona
+T111	FARMACO 8586 8595	lorazepam
+T112	FARMACO 8597 8605	diazepam
+T113	FARMACO 8608 8621	zuclopentixol
+T114	FARMACO 8969 8986	santroleno sódico
+T115	FARMACO 8989 9002	bromocriptina
+T116	FARMACO 9247 9256	clozapina
+T117	FARMACO 9272 9280	diazepam
+T118	FARMACO 9515 9524	clozapina
+T119	FARMACO 9546 9557	aripiprazol
+T120	FARMACO 9564 9576	amisulpirida
+T121	FARMACO 9578 9590	paliperidona
+T122	FARMACO 9597 9612	ácido valproico
+T123	FARMACO 9615 9640	palmitato de paliperidona
+T124	FARMACO 9834 9843	clozapina
+T125	FARMACO 9845 9855	clonazepam
+T126	FARMACO 9857 9872	levomepromazina
+T127	FARMACO 9875 9900	palmitato de paliperidona
+T128	FARMACO 10202 10211	clozapina
+T129	FARMACO 10641 10650	clozapina
+T130	FARMACO 10978 10987	clozapina
+T131	FARMACO 11004 11014	clonazepam
+T132	FARMACO 11029 11044	levomepromacina
+T133	FARMACO 11076 11088	paliperidona
+T134	ORG_VIVO 26 36	familiares
+T135	ORG_VIVO 74 82	familiar
+T136	ORG_VIVO 91 99	paciente
+T137	ORG_VIVO 116 126	familiares
+T138	ORG_VIVO 143 158	familia materna
+T139	ORG_VIVO 212 217	madre
+T140	ORG_VIVO 222 230	paciente
+T141	ORG_VIVO 235 240	padre
+T142	ORG_VIVO 406 414	paciente
+T143	ORG_VIVO 767 775	cannabis
+T144	ORG_VIVO 810 816	tabaco
+T145	ORG_VIVO 1185 1193	paciente
+T146	ORG_VIVO 1280 1285	madre
+T147	ORG_VIVO 1295 1304	padrastro
+T148	ORG_VIVO 1355 1363	hermanos
+T149	ORG_VIVO 1444 1449	padre
+T150	ORG_VIVO 1705 1713	paciente
+T151	ORG_VIVO 1848 1856	paciente
+T152	ORG_VIVO 2054 2062	paciente
+T153	ORG_VIVO 2105 2110	gente
+T154	ORG_VIVO 2258 2265	familia
+T155	ORG_VIVO 2617 2623	padres
+T156	ORG_VIVO 2759 2767	personal
+T157	ORG_VIVO 3400 3408	paciente
+T158	ORG_VIVO 3604 3612	hermanos
+T159	ORG_VIVO 3670 3680	familiares
+T160	ORG_VIVO 4011 4019	paciente
+T161	ORG_VIVO 4535 4543	paciente
+T162	ORG_VIVO 7075 7083	paciente
+T163	ORG_VIVO 7156 7164	paciente
+T164	ORG_VIVO 8091 8099	paciente
+T165	ORG_VIVO 8278 8286	paciente
+T166	ORG_VIVO 8726 8734	paciente
+T167	ORG_VIVO 9666 9674	paciente
+T168	ORG_VIVO 9784 9792	paciente
+T169	ORG_VIVO 10035 10043	paciente
+T170	ORG_VIVO 10384 10392	paciente
+T171	ORG_VIVO 10522 10530	paciente
+T172	ORG_VIVO 10693 10701	paciente
+T173	ENFERMEDAD 177 190	esquizofrenia
+T174	ENFERMEDAD 277 293	patología mental
+T175	ENFERMEDAD 833 851	consumo de alcohol
+T176	ENFERMEDAD 2491 2497	muerte
+T177	ENFERMEDAD 3224 3244	episodios psicóticos
+T178	ENFERMEDAD 3950 3958	suicidio
+T179	ENFERMEDAD 4863 4869	muerte
+T180	ENFERMEDAD 5092 5103	adenopatías
+T181	ENFERMEDAD 5397 5400	TVP
+T182	ENFERMEDAD 5552 5579	neumotórax derecho anterior
+T183	ENFERMEDAD 5589 5632	contusión-hemorragia en parénquima pulmonar
+T184	ENFERMEDAD 5672 5687	derrame pleural
+T185	ENFERMEDAD 5697 5782	Fractura-aplastamiento del cuerpo vertebral L2 con desplazamiento hacia canal medular
+T186	ENFERMEDAD 5784 5816	Fractura de la lámina derecha L2
+T187	ENFERMEDAD 5835 5874	fractura tercio medio de tibia y peroné
+T188	ENFERMEDAD 5886 5918	Fractura maleolo interno tobillo
+T189	ENFERMEDAD 5930 5957	Fractura luxación astrágalo
+T190	ENFERMEDAD 5969 5996	Fractura conminuta calcáneo
+T191	ENFERMEDAD 6008 6026	Luxación astrágalo
+T192	ENFERMEDAD 6036 6107	Fractura luxación de calcáneo, escafoides, cuboides y metatarsianos pie
+T193	ENFERMEDAD 6117 6142	Fractura-aplastamiento L2
+T194	ENFERMEDAD 6176 6195	taquicardia sinusal
+T195	ENFERMEDAD 6261 6272	sinusopatía
+T196	ENFERMEDAD 6511 6542	V295.90 esquizofrenia paranoide
+T197	ENFERMEDAD 7434 7442	suicidio
+T198	ENFERMEDAD 7967 7976	fracturas
+T199	ENFERMEDAD 7978 7988	neumotórax
+T200	ENFERMEDAD 8900 8929	síndrome neuroléptico maligno
+T201	ENFERMEDAD 10875 10881	muerte

@@ -1,0 +1,6 @@
+
+-	O
+Equimosis	O
+frontal	O
+izquierda	O
+.	O

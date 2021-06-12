@@ -1,0 +1,22 @@
+
+En	O
+un	O
+episodio	O
+de	O
+reagudización	O
+,	O
+se	O
+remite	O
+a	O
+la	O
+Unidad	O
+de	O
+Hospitalización	O
+Breve	O
+con	O
+el	O
+objetivo	O
+de	O
+instaurar	O
+TEC	O
+.	O

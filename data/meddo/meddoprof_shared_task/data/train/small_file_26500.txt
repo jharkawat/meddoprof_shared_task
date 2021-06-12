@@ -1,0 +1,9 @@
+
+La	O
+cuidadora	B-SITUACION_LABORAL
+principal	I-SITUACION_LABORAL
+ha	O
+sido	O
+la	O
+madre	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+se	O
+objetiva	O
+clínica	O
+afectiva	O
+endógena	O
+.	O

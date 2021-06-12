@@ -1,0 +1,10 @@
+
+Se	O
+solicita	O
+TC	O
+con	O
+contraste	O
+I	O
+.	O
+V	O
+.	O

@@ -1,0 +1,9 @@
+
+EEG	O
+vigilia	O
+y	O
+tras	O
+privación	O
+:	O
+normales	O
+.	O

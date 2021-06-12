@@ -1,0 +1,25 @@
+
+Se	O
+mudó	O
+junto	O
+a	O
+su	O
+marido	O
+y	O
+su	O
+hijo	O
+mayor	O
+,	O
+que	O
+actualmente	O
+tiene	O
+7	O
+años	O
+y	O
+estando	O
+embarazada	O
+de	O
+su	O
+hija	O
+pequeña	O
+.	O

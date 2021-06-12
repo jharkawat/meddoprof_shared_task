@@ -1,0 +1,22 @@
+
+A	O
+nivel	O
+de	O
+ápex	O
+de	O
+pulmón	O
+derecho	O
+se	O
+aprecia	O
+una	O
+lesión	O
+nodular	O
+de	O
+contornos	O
+espiculados	O
+con	O
+prolongaciones	O
+hacia	O
+la	O
+pleura	O
+.	O

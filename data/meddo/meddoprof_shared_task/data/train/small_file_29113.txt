@@ -1,0 +1,12 @@
+
+Acude	O
+a	O
+una	O
+escuela	O
+para	O
+aprender	O
+como	O
+adiestrador	B-PROFESION
+de	I-PROFESION
+perros	I-PROFESION
+.	O

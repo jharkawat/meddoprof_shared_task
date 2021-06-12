@@ -1,0 +1,24 @@
+
+Esta	O
+pérdida	O
+de	O
+control	O
+se	O
+manifiesta	O
+en	O
+forma	O
+de	O
+heteroagresividad	O
+hacia	O
+su	O
+pareja	O
+o	O
+hacia	O
+sí	O
+misma	O
+durante	O
+las	O
+crisis	O
+de	O
+pánico	O
+.	O

@@ -1,0 +1,23 @@
+
+La	O
+familia	O
+había	O
+acudido	O
+dos	O
+días	O
+antes	O
+a	O
+pedir	O
+ayuda	O
+sobre	O
+cómo	O
+convencer	O
+al	O
+paciente	O
+para	O
+que	O
+acudiera	O
+a	O
+la	O
+consulta	O
+.	O

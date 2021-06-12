@@ -1,0 +1,21 @@
+
+Además	O
+de	O
+tratamiento	O
+con	O
+furosemida	O
+,	O
+para	O
+evitar	O
+sobrecarga	O
+hídrica	O
+de	O
+la	O
+paciente	O
+,	O
+con	O
+patología	O
+cardiaca	O
+de	O
+base	O
+.	O

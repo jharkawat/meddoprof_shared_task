@@ -1,0 +1,20 @@
+
+Se	O
+comenta	O
+de	O
+nuevo	O
+en	O
+comité	O
+de	O
+tumores	O
+y	O
+se	O
+decide	O
+plantear	O
+vulvectomía	O
+radical	O
+que	O
+la	O
+paciente	O
+rechaza	O
+.	O

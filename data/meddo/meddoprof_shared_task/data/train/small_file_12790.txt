@@ -1,0 +1,14 @@
+
+Presentaba	O
+regular	O
+estado	O
+general	O
+,	O
+con	O
+coloración	O
+,	O
+nutrición	O
+e	O
+hidratación	O
+adecuadas	O
+.	O

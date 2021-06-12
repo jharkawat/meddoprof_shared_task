@@ -1,0 +1,12 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+NOHL	O
+el	O
+médico	B-PROFESION
+ORL	I-PROFESION
+referente	O
+decide	O
+:	O

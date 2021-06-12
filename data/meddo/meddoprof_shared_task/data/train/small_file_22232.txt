@@ -1,0 +1,7 @@
+
+No	O
+cuenta	O
+con	O
+hermanos	O
+consumidores	O
+.	O

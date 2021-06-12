@@ -1,0 +1,19 @@
+
+Se	O
+pautó	O
+tratamiento	O
+con	O
+Pimozide	O
+,	O
+psicoterapia	O
+y	O
+se	O
+tratan	O
+las	O
+lesiones	O
+con	O
+antibiótico	O
+y	O
+corticoide	O
+tópico	O
+.	O

@@ -1,0 +1,6 @@
+
+Mujer	O
+de	O
+nacionalidad	O
+española	O
+.	O

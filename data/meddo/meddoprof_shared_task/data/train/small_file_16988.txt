@@ -1,0 +1,23 @@
+
+Por	O
+otra	O
+parte	O
+,	O
+refería	O
+clínica	O
+de	O
+ansiedad	O
+que	O
+relacionaba	O
+con	O
+su	O
+situación	O
+laboral	O
+,	O
+pues	O
+llevaba	O
+seis	O
+meses	O
+sin	B-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+.	O

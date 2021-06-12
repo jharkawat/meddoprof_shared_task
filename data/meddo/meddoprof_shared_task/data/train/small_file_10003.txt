@@ -1,0 +1,5 @@
+
+Palidez	O
+cutánea	O
+intensa	O
+.	O

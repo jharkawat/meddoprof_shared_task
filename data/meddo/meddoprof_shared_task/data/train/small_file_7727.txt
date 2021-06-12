@@ -1,0 +1,11 @@
+
+No	O
+existen	O
+conductas	O
+de	O
+auto	O
+o	O
+hetero	O
+-	O
+agresividad	O
+.	O

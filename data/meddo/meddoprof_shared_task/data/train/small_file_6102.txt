@@ -1,0 +1,18 @@
+
+En	O
+los	O
+dias	O
+previos	O
+no	O
+había	O
+sufrido	O
+caídas	O
+o	O
+traumatismos	O
+recientes	O
+ni	O
+otro	O
+proceso	O
+patológico	O
+intercurrente	O
+.	O

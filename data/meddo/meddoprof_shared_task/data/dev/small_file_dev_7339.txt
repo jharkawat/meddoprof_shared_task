@@ -1,0 +1,16 @@
+
+En	O
+el	O
+TC	O
+de	O
+abdomen	O
+se	O
+observó	O
+hepatomegalia	O
+de	O
+contornos	O
+lisos	O
+y	O
+densidad	O
+homogénea	O
+.	O

@@ -1,0 +1,12 @@
+
+Se	O
+decide	O
+entonces	O
+iniciar	O
+tratamiento	O
+inmunoterápico	O
+(	O
+Ipilimumab	O
+-	O
+Nivolumab	O
+)	O

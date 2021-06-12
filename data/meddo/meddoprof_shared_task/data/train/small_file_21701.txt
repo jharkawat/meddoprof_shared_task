@@ -1,0 +1,14 @@
+
+No	O
+es	O
+capaz	O
+de	O
+especificar	O
+qué	O
+cosas	O
+lepreocupan	O
+especialmente	O
+ni	O
+por	O
+qué	O
+.	O

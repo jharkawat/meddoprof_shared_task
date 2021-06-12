@@ -1,0 +1,26 @@
+
+Durante	O
+el	O
+examen	O
+inicial	O
+en	O
+urgencias	O
+el	O
+niño	O
+estaba	O
+agotado	O
+,	O
+tenía	O
+somnolencia	O
+,	O
+carecía	O
+de	O
+fiebre	O
+,	O
+tosía	O
+y	O
+tenía	O
+secreción	O
+nasal	O
+espesa	O
+.	O

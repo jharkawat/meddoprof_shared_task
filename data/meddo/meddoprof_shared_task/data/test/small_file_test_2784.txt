@@ -1,0 +1,10 @@
+
+Auscultación	O
+cardiaca	O
+:	O
+ritmico	O
+sin	O
+soplos	O
+ni	O
+roces	O
+.	O

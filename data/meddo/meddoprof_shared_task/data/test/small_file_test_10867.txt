@@ -1,0 +1,5 @@
+
+Zona	O
+anatómica	O
+compleja	O
+.	O

@@ -1,0 +1,10 @@
+
+Primaria	O
+para	O
+vigilar	O
+tolerancia	O
+y	O
+adherencia	O
+al	O
+mismo	O
+.	O

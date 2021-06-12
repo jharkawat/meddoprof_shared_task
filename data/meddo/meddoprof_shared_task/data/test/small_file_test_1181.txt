@@ -1,0 +1,21 @@
+
+La	O
+PCR	O
+en	O
+exudado	O
+nasofaríngeo	O
+resultó	O
+positiva	O
+para	O
+SARS	O
+-	O
+CoV	O
+-	O
+2	O
+el	O
+1	O
+de	O
+abril	O
+de	O
+2020	O
+.	O

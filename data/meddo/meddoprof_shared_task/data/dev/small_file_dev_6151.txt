@@ -1,0 +1,15 @@
+
+La	O
+artritis	O
+suele	O
+afectar	O
+a	O
+las	O
+rodillas	O
+,	O
+caderas	O
+,	O
+tobillos	O
+y	O
+muñecas	O
+.	O

@@ -1,0 +1,25 @@
+
+Primer	O
+contacto	O
+con	O
+salud	O
+mental	O
+a	O
+los	O
+18	O
+años	O
+por	O
+sintomatología	O
+ansiosa	O
+en	O
+relación	O
+con	O
+dificultades	O
+para	O
+cumplir	O
+con	O
+las	O
+tareas	O
+del	O
+hogar	O
+.	O

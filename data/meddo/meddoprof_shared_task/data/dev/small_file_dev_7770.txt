@@ -1,0 +1,7 @@
+
+Nomina	O
+,	O
+comprende	O
+y	O
+repite	O
+.	O

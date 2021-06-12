@@ -1,0 +1,6 @@
+
+ANA	O
+y	O
+ECA	O
+normales	O
+.	O

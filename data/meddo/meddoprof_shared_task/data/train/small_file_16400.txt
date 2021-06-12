@@ -1,0 +1,8 @@
+
+Mujer	O
+de	O
+42	O
+años	O
+de	O
+edad	O
+.	O

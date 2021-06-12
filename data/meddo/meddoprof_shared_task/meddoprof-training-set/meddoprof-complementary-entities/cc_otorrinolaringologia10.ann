@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 84 108	estapedectomía izquierda
+T2	PROCEDIMIENTO 213 235	colgajo tímpano meatal
+T3	PROCEDIMIENTO 438 466	aspiración con cánula gruesa
+T4	NEG 66 69	sin
+T5	NSCO 70 108	incidentes de estapedectomía izquierda
+T6	NEG 379 391	imposibilita
+T7	NSCO 392 420	visualizar la caja timpánica
+T8	NEG 642 649	retirar
+T9	NSCO 650 657	la gasa
+T10	NEG 842 844	no
+T11	NSCO 845 899	presentó complicaciones en el postoperatorio inmediato
+T12	NEG 901 912	retirándose
+T13	NSCO 913 941	el taponamiento a los 8 días
+T14	ORG_VIVO 0 5	Varón
+T15	ORG_VIVO 833 841	paciente
+T16	ENFERMEDAD 34 46	otosclerosis
+T17	ENFERMEDAD 974 994	perforación residual

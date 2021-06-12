@@ -1,0 +1,15 @@
+
+Niega	O
+cuadro	O
+constitucional	O
+,	O
+dolor	O
+abdominal	O
+,	O
+fiebre	O
+y	O
+alteraciones	O
+del	O
+hábito	O
+intestinal	O
+.	O

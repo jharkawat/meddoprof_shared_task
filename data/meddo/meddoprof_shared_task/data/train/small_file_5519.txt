@@ -1,0 +1,25 @@
+
+A	O
+la	O
+exploración	O
+,	O
+evidente	O
+crepitación	O
+de	O
+dicha	O
+zona	O
+,	O
+además	O
+de	O
+ser	O
+dificultosa	O
+por	O
+intenso	O
+dolor	O
+y	O
+secundariamente	O
+,	O
+impotencia	O
+funcional	O
+evidente	O
+.	O

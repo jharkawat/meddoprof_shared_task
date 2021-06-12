@@ -1,0 +1,19 @@
+
+Bioquímica	O
+:	O
+potasio	O
+(	O
+K	O
+)	O
+:	O
+5	O
+,	O
+9	O
+,	O
+GGT	O
+:	O
+90	O
+,	O
+resto	O
+normal	O
+.	O

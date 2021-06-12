@@ -1,0 +1,203 @@
+T1	SINTOMA 52 61	exfumador
+T2	SINTOMA 702 713	parestesias
+T3	SINTOMA 846 855	lumbalgia
+T4	SINTOMA 871 882	cervicalgia
+T5	SINTOMA 900 927	calambre descendente dorsal
+T6	SINTOMA 1081 1164	hipopalestesia bilateral hasta espinas iliacas con apalestesia en dedos de los pies
+T7	SINTOMA 1240 1260	apraxia de la marcha
+T8	SINTOMA 1299 1315	reflejos corneal
+T9	SINTOMA 1318 1338	nauseoso hipoactivos
+T10	SINTOMA 1382 1443	calambre descendente desde región cervical hasta dorso-lumbar
+T11	SINTOMA 1507 1545	balance motor-sensitivo de MMSS normal
+T12	SINTOMA 5867 5872	dolor
+T13	SINTOMA 5874 5881	astenia
+T14	SINTOMA 5909 5926	debilidad en MMII
+T15	SINTOMA 6191 6219	deterioro del estado general
+T16	SINTOMA 6221 6230	dolor mal
+T17	SINTOMA 6243 6277	imposibilidad para la deambulación
+T18	SINTOMA 6280 6301	edematización de MMII
+T19	SINTOMA 6504 6507	tos
+T20	SINTOMA 6510 6516	disnea
+T21	SINTOMA 8647 8654	astenia
+T22	SINTOMA 8681 8719	dolor dorso-lumbar de tipo de mecánico
+T23	SINTOMA 8836 8842	disnea
+T24	SINTOMA 8865 8868	tos
+T25	SINTOMA 9448 9455	fallece
+T26	PROCEDIMIENTO 153 178	hernioplastia epigástrica
+T27	PROCEDIMIENTO 384 406	tratamiento analgésico
+T28	PROCEDIMIENTO 976 994	Exploración física
+T29	PROCEDIMIENTO 1006 1024	exploración física
+T30	PROCEDIMIENTO 1786 1834	radiografías, TC cráneo, cuello, tórax y abdomen
+T31	PROCEDIMIENTO 1856 1884	RM cráneo y columna cervical
+T32	PROCEDIMIENTO 2527 2529	TC
+T33	PROCEDIMIENTO 2532 2545	PET-TC cuerpo
+T34	PROCEDIMIENTO 2554 2564	RM craneal
+T35	PROCEDIMIENTO 2595 2597	RM
+T36	PROCEDIMIENTO 2894 2900	PET-TC
+T37	PROCEDIMIENTO 3046 3048	TC
+T38	PROCEDIMIENTO 3135 3159	estudio repetido del LCR
+T39	PROCEDIMIENTO 3189 3203	punción lumbar
+T40	PROCEDIMIENTO 3205 3207	PL
+T41	PROCEDIMIENTO 3383 3398	biopsia abierta
+T42	PROCEDIMIENTO 3400 3412	laminectomía
+T43	PROCEDIMIENTO 4054 4084	técnicas de inmunohistoquímica
+T44	PROCEDIMIENTO 4488 4522	estudio molecular por técnica FISH
+T45	PROCEDIMIENTO 5372 5403	radioterapia (RT) craneoespinal
+T46	PROCEDIMIENTO 5551 5553	RT
+T47	PROCEDIMIENTO 6019 6041	tratamiento esteroideo
+T48	PROCEDIMIENTO 6058 6081	exploración neurológica
+T49	PROCEDIMIENTO 6415 6433	RT+/-quimioterapia
+T50	PROCEDIMIENTO 6715 6723	TC tórax
+T51	PROCEDIMIENTO 6746 6748	RT
+T52	PROCEDIMIENTO 6851 6853	TC
+T53	PROCEDIMIENTO 7316 7322	PET-TC
+T54	PROCEDIMIENTO 7396 7421	corticoterapia prolongada
+T55	PROCEDIMIENTO 7460 7477	fibrobroncoscopia
+T56	PROCEDIMIENTO 7479 7482	FBC
+T57	PROCEDIMIENTO 7508 7529	lavado broncoalveolar
+T58	PROCEDIMIENTO 7531 7534	LBA
+T59	PROCEDIMIENTO 7602 7633	tratamiento empírico antigripal
+T60	PROCEDIMIENTO 7635 7646	antibiótico
+T61	PROCEDIMIENTO 7882 7893	corticoides
+T62	PROCEDIMIENTO 7895 7912	broncodilatadores
+T63	PROCEDIMIENTO 7915 7947	ventilación mecánica no invasiva
+T64	PROCEDIMIENTO 7949 7953	VMNI
+T65	PROCEDIMIENTO 8476 8501	tratamiento radioterápico
+T66	PROCEDIMIENTO 8516 8532	RT craneoespinal
+T67	PROCEDIMIENTO 9004 9006	TC
+T68	PROCEDIMIENTO 9302 9314	radioterapia
+T69	PROCEDIMIENTO 9521 9530	necropsia
+T70	PROCEDIMIENTO 9745 9754	necropsia
+T71	NEG 188 191	sin
+T72	NSCO 192 240	otros antecedentes personales (AP) ni familiares
+T73	NEG 268 271	Sin
+T74	NSCO 272 345	tratamiento domiciliario habitual antes del debut de la enfermedad actual
+T75	NEG 856 858	no
+T76	NSCO 859 868	irradiada
+T77	NEG 929 934	Niega
+T78	NSCO 935 966	síntomas en miembros superiores
+T79	NEG 1841 1844	sin
+T80	NSCO 1845 1854	contraste
+T81	NEG 1891 1894	sin
+T82	NSCO 1895 1904	contraste
+T83	NEG 2009 2012	sin
+T84	NSCO 2013 2085	otros hallazgos patológicos relevantes en el resto de pruebas realizadas
+T85	NEG 2101 2104	sin
+T86	NSCO 2105 2139	llegar a un diagnóstico definitivo
+T87	UNC 2608 2623	compatibles con
+T88	USCO 2624 2658	diseminación leptomeníngea extensa
+T89	NEG 2782 2785	sin
+T90	NSCO 2786 2807	evidencia de lesiones
+T91	UNC 2808 2821	sugestivas de
+T92	USCO 2822 2889	proceso neoformativo primario en las estructuras neurales incluidas
+T93	NEG 2951 2964	inespecíficas
+T94	NEG 3024 3026	no
+T95	NSCO 3027 3065	estar presentes en TC del mes anterior
+T96	UNC 3067 3075	sugieren
+T97	USCO 3076 3107	proceso inflamatorio/infeccioso
+T98	NEG 3213 3215	no
+T99	NSCO 3216 3301	mostrar resultados concluyentes (celularidad mixta de tipo inflamatorio agudo/crónico
+T100	NEG 3529 3532	sin
+T101	NSCO 3533 3555	incidencias reseñables
+T102	UNC 3828 3843	compatibles con
+T103	USCO 3844 3906	infiltración difusa por neoplasia indiferenciada de alto grado
+T104	NEG 4092 4103	se descarta
+T105	NSCO 4104 4143	un origen primario de estirpe carcinoma
+T106	NEG 4145 4156	negatividad
+T107	NEG 4235 4243	negativo
+T108	NEG 4262 4270	negativo
+T109	NEG 4301 4309	negativo
+T110	NEG 4534 4545	ausencia de
+T111	NSCO 4546 4572	reordenamientos BCOR-CCNB3
+T112	NEG 4704 4712	descarta
+T113	NSCO 4713 4760	las principales mutaciones asociadas a sarcomas
+T114	NEG 4954 4972	permiten descartar
+T115	NSCO 4973 5046	el diagnóstico de neoplasia primaria de SNC tipo sarcoma de Ewing o Ewing
+T116	NEG 5496 5498	no
+T117	NSCO 5499 5515	ha sido valorado
+T118	NEG 5538 5540	no
+T119	NSCO 5541 5543	se
+T120	NEG 5659 5664	sería
+T121	NSCO 5665 5714	la asociación de terapia sistémica al tratamiento
+T122	NEG 6043 6046	sin
+T123	NSCO 6047 6089	cambios en exploración neurológica al alta
+T124	NEG 6095 6098	sin
+T125	NSCO 6099 6125	haber iniciado tratamiento
+T126	NEG 6243 6261	imposibilidad para
+T127	NSCO 6262 6301	la deambulación y edematización de MMII
+T128	NEG 6561 6563	no
+T129	NSCO 6564 6612	mejoran a pesar de tratamiento depletivo inicial
+T130	UNC 7058 7066	sugieren
+T131	USCO 7067 7119	proceso inflamatorio/infeccioso como principal causa
+T132	NEG 7866 7869	sin
+T133	NSCO 7870 7893	respuesta a corticoides
+T134	NEG 7936 7938	no
+T135	NSCO 7939 7947	invasiva
+T136	UNC 8172 8180	probable
+T137	NEG 8870 8873	sin
+T138	NSCO 8874 8971	nuevos aislamientos microbiológicos ni datos sugerentes de recrudescencia de infecciones tratadas
+T139	UNC 9209 9216	posible
+T140	USCO 9217 9236	implante peritoneal
+T141	NEG 9285 9298	suspensión de
+T142	NSCO 9299 9301	la
+T143	FARMACO 422 434	indometacina
+T144	FARMACO 459 471	dexametasona
+T145	FARMACO 488 495	morfina
+T146	FARMACO 539 548	omeprazol
+T147	FARMACO 6415 6433	RT+/-quimioterapia
+T148	FARMACO 7665 7676	oseltamivir
+T149	FARMACO 7678 7689	voriconazol
+T150	FARMACO 7691 7700	meropenem
+T151	FARMACO 7703 7715	cotrimoxazol
+T152	ORG_VIVO 10 16	Hombre
+T153	ORG_VIVO 29 37	camarero
+T154	ORG_VIVO 93 101	juventud
+T155	ORG_VIVO 211 221	personales
+T156	ORG_VIVO 230 240	familiares
+T157	ORG_VIVO 2742 2749	caballo
+T158	ORG_VIVO 3485 3493	paciente
+T159	ORG_VIVO 5252 5260	paciente
+T160	ORG_VIVO 7623 7633	antigripal
+T161	ORG_VIVO 7649 7660	antifúngico
+T162	ORG_VIVO 7732 7740	paciente
+T163	ORG_VIVO 8354 8362	paciente
+T164	ORG_VIVO 8881 8909	aislamientos microbiológicos
+T165	ORG_VIVO 9439 9447	paciente
+T166	ORG_VIVO 9547 9554	familia
+T167	ENFERMEDAD 1956 1977	hidrocefalia moderada
+T168	ENFERMEDAD 1990 2007	mielopatía difusa
+T169	ENFERMEDAD 2624 2727	diseminación leptomeníngea extensa que afecta tanto al compartimento intracraneal como al canal medular
+T170	ENFERMEDAD 2752 2764	hidrocefalia
+T171	ENFERMEDAD 2822 2851	proceso neoformativo primario
+T172	ENFERMEDAD 2926 3000	lesiones pseudonodulares inespecíficas subcentimétricas en lóbulo superior
+T173	ENFERMEDAD 3076 3107	proceso inflamatorio/infeccioso
+T174	ENFERMEDAD 3445 3459	lesión medular
+T175	ENFERMEDAD 3868 3906	neoplasia indiferenciada de alto grado
+T176	ENFERMEDAD 4107 4143	origen primario de estirpe carcinoma
+T177	ENFERMEDAD 4246 4254	melanoma
+T178	ENFERMEDAD 4729 4760	mutaciones asociadas a sarcomas
+T179	ENFERMEDAD 4806 4893	neoplasia indiferenciada de alto grado con inmunofenotipo neuroepitelial/neuroendocrino
+T180	ENFERMEDAD 4991 5038	neoplasia primaria de SNC tipo sarcoma de Ewing
+T181	ENFERMEDAD 5041 5051	Ewing-like
+T182	ENFERMEDAD 5061 5094	metástasis de carcinoma epitelial
+T183	ENFERMEDAD 5132 5139	linfoma
+T184	ENFERMEDAD 5141 5149	melanoma
+T185	ENFERMEDAD 5152 5167	rabdomiosarcoma
+T186	ENFERMEDAD 7067 7098	proceso inflamatorio/infeccioso
+T187	ENFERMEDAD 7132 7180	infección por micobacterias u otros oportunistas
+T188	ENFERMEDAD 7201 7211	metástasis
+T189	ENFERMEDAD 7552 7576	infecciones oportunistas
+T190	ENFERMEDAD 7805 7825	distrés respiratorio
+T191	ENFERMEDAD 7830 7864	acidosis respiratoria hipercápnica
+T192	ENFERMEDAD 8072 8120	neumonía polimicrobiana por Pneumocystis carinii
+T193	ENFERMEDAD 8150 8171	aspergilosis pulmonar
+T194	ENFERMEDAD 8626 8642	toxicidad rádica
+T195	ENFERMEDAD 8951 8962	infecciones
+T196	ENFERMEDAD 9055 9072	fibrosis pulmonar
+T197	ENFERMEDAD 9075 9131	secuelas cicatriciales de procesos infecciosos padecidos
+T198	ENFERMEDAD 9178 9206	metástasis óseas vertebrales
+T199	ENFERMEDAD 9217 9236	implante peritoneal
+T200	ENFERMEDAD 9475 9507	insuficiencia respiratoria aguda
+T201	ENFERMEDAD 9622 9648	infiltración leptomeníngea
+T202	ENFERMEDAD 9653 9740	neoplasia indiferenciada de alto grado con inmunofenotipo neuroepitelial/neuroendocrino
+T203	PACIENTE-PROFESION 29 37	camarero

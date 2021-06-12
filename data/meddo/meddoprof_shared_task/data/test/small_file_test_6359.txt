@@ -1,0 +1,20 @@
+
+En	O
+enero	O
+de	O
+2015	O
+el	O
+paciente	O
+es	O
+trasladado	O
+a	O
+la	O
+planta	O
+de	O
+Oncología	O
+para	O
+inicio	O
+de	O
+tratamiento	O
+quimioterápico	O
+.	O

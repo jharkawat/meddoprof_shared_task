@@ -1,0 +1,5 @@
+
+Trabaja	O
+como	O
+maestra	B-PROFESION
+.	O

@@ -1,0 +1,5 @@
+
+Sin	O
+focalidad	O
+neurológica	O
+.	O

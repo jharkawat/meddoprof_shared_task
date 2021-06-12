@@ -1,0 +1,7 @@
+
+NIC	O
+:	O
+Administración	O
+de	O
+medicación	O
+.	O

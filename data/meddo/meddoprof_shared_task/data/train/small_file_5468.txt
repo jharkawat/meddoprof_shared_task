@@ -1,0 +1,24 @@
+
+Imagen	O
+redondeada	O
+heterogénea	O
+que	O
+depende	O
+de	O
+útero	O
+-	O
+anejos	O
+de	O
+9x7	O
+.	O
+5	O
+cm	O
+que	O
+puede	O
+corresponder	O
+a	O
+formación	O
+utero	O
+-	O
+anexial	O
+.	O

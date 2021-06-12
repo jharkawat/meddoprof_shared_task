@@ -1,0 +1,23 @@
+
+La	O
+lesión	O
+infiltra	O
+todo	O
+el	O
+sacro	O
+caudalmente	O
+a	O
+S2	O
+,	O
+los	O
+músculos	O
+piramidales	O
+y	O
+glúteos	O
+y	O
+los	O
+músculos	O
+elevadores	O
+del	O
+ano	O
+.	O

@@ -1,0 +1,9 @@
+
+Tiene	O
+estudios	O
+hasta	O
+3o	O
+de	O
+la	O
+ESO	O
+.	O

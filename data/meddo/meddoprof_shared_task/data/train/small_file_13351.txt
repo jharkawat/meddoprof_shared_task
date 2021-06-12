@@ -1,0 +1,24 @@
+
+Asocia	O
+además	O
+hiporexia	O
+,	O
+pérdida	O
+ponderal	O
+no	O
+cuantificada	O
+y	O
+astenia	O
+intensa	O
+en	O
+los	O
+últimos	O
+meses	O
+,	O
+así	O
+como	O
+fiebre	O
+de	O
+hasta	O
+38oC	O
+.	O

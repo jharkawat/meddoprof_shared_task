@@ -1,0 +1,19 @@
+
+Su	O
+estado	O
+de	O
+ánimo	O
+se	O
+ha	O
+caracterizado	O
+por	O
+inestabilidad	O
+con	O
+fluctuaciones	O
+entre	O
+el	O
+polo	O
+depresivo	O
+e	O
+hipomaniaco	O
+.	O

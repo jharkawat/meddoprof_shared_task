@@ -1,0 +1,22 @@
+
+Se	O
+estudió	O
+el	O
+estado	O
+de	O
+mutación	O
+EGFR	O
+,	O
+que	O
+resultó	O
+negativo	O
+,	O
+y	O
+la	O
+translocación	O
+ALK	O
+,	O
+fue	O
+negativa	O
+también	O
+.	O

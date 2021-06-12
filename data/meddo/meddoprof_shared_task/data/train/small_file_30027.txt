@@ -1,0 +1,7 @@
+
+Similar	O
+a	O
+TC	O
+cerebrales	O
+previos	O
+.	O

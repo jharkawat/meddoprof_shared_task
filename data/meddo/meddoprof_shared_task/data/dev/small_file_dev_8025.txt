@@ -1,0 +1,9 @@
+
+Se	O
+extrajeron	O
+hemocultivos	O
+y	O
+cultivos	O
+de	O
+esputo	O
+.	O

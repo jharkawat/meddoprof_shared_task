@@ -1,0 +1,6 @@
+
+Convivencia	O
+en	O
+domicilio	O
+familiar	O
+.	O

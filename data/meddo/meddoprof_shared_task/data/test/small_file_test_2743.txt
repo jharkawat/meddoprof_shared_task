@@ -1,0 +1,12 @@
+
+El	O
+postoperatorio	O
+se	O
+complica	O
+con	O
+infecciones	O
+y	O
+secuelas	O
+esfinterianas	O
+leves	O
+.	O

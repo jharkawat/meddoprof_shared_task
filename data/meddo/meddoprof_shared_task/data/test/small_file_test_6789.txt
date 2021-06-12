@@ -1,0 +1,11 @@
+
+A	O
+su	O
+llegada	O
+a	O
+planta	O
+,	O
+paciente	O
+estable	O
+hemodinámicamente	O
+.	O

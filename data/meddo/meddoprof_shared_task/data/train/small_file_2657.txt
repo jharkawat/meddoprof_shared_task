@@ -1,0 +1,15 @@
+
+Estaríamos	O
+ante	O
+un	O
+caso	O
+de	O
+sensibilización	O
+primaria	O
+a	O
+leche	O
+de	O
+cabra	O
+y	O
+oveja	O
+.	O

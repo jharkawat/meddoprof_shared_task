@@ -1,0 +1,24 @@
+
+El	O
+servicio	O
+de	O
+microbiología	O
+realizó	O
+un	O
+análisis	O
+de	O
+espectrometría	O
+de	O
+MALDI	O
+-	O
+TOF	O
+sobre	O
+la	O
+muestra	O
+y	O
+la	O
+clasificó	O
+de	O
+Abiotrophia	O
+defectiva	O
+.	O

@@ -1,0 +1,21 @@
+
+A	O
+esto	O
+le	O
+sumamos	O
+la	O
+exposición	O
+al	O
+tinte	O
+de	O
+pelo	O
+que	O
+utilizaba	O
+el	O
+paciente	O
+,	O
+que	O
+contenía	O
+dicho	O
+alérgeno	O
+.	O

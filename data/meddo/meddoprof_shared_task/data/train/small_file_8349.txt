@@ -1,0 +1,26 @@
+
+La	O
+causa	O
+principal	O
+son	O
+las	O
+neoplasias	O
+hematológicas	O
+,	O
+seguido	O
+de	O
+patología	O
+infecciosa	O
+(	O
+a	O
+destacar	O
+paludismo	O
+y	O
+síndrome	O
+mononucleósico	O
+por	O
+Virus	O
+de	O
+Ebstein	O
+Barr	O
+.	O

@@ -1,0 +1,9 @@
+
+Actitud	O
+de	O
+marcada	O
+hostilidad	O
+y	O
+heteroagresividad	O
+verbal	O
+.	O

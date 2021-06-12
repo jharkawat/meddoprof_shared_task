@@ -1,0 +1,32 @@
+T1	SINTOMA 101 135	dolor en la cara ventral de muñeca
+T2	SINTOMA 167 174	prurito
+T3	SINTOMA 177 182	dolor
+T4	SINTOMA 1301 1312	eosinofilia
+T5	PROCEDIMIENTO 1342 1365	tratamiento antifúngico
+T6	NEG 236 239	sin
+T7	NSCO 240 255	mejoría visible
+T8	UNC 881 896	compatibles con
+T9	USCO 897 916	un hongo dematiáceo
+T10	NEG 1199 1207	negativa
+T11	NSCO 1208 1216	para VIH
+T12	NEG 1440 1442	no
+T13	NSCO 1443 1496	regresó a su control y abandonó el tratamiento médico
+T14	FARMACO 1370 1381	itraconazol
+T15	ORG_VIVO 0 5	Varón
+T16	ORG_VIVO 27 37	agricultor
+T17	ORG_VIVO 395 413	células muriformes
+T18	ORG_VIVO 542 550	conidios
+T19	ORG_VIVO 662 680	células muriformes
+T20	ORG_VIVO 789 797	colonias
+T21	ORG_VIVO 900 916	hongo dematiáceo
+T22	ORG_VIVO 1046 1051	hifas
+T23	ORG_VIVO 1054 1062	conidios
+T24	ORG_VIVO 1088 1093	hongo
+T25	ORG_VIVO 1097 1105	pedrosoi
+T26	ORG_VIVO 1166 1174	paciente
+T27	ORG_VIVO 1213 1216	VIH
+T28	ORG_VIVO 1354 1365	antifúngico
+T29	ORG_VIVO 1431 1439	paciente
+T30	ENFERMEDAD 325 445	Cromoblastomicosis por Fonsecaea pedrosoi: Lesión eritemato-escamosa; células muriformes de color café y tabique central
+T31	ENFERMEDAD 738 756	cromoblastomicosis
+T32	PACIENTE-PROFESION 27 37	agricultor

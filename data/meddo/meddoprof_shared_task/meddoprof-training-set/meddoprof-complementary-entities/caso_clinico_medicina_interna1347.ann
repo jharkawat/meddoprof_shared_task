@@ -1,0 +1,78 @@
+T1	SINTOMA 358 370	leucocitosis
+T2	SINTOMA 509 530	sensación de saciedad
+T3	SINTOMA 562 569	vómitos
+T4	SINTOMA 588 603	dolor articular
+T5	SINTOMA 615 641	edema en pulsos y tobillos
+T6	SINTOMA 1104 1117	Hepatomegalia
+T7	SINTOMA 1120 1134	esplenomegalia
+T8	SINTOMA 1986 1991	picor
+T9	SINTOMA 2050 2063	hepatomegalia
+T10	SINTOMA 2065 2079	esplenomegalia
+T11	PROCEDIMIENTO 721 746	endoscopia digestiva alta
+T12	PROCEDIMIENTO 782 796	ecocardiograma
+T13	PROCEDIMIENTO 817 839	Rx tobillo e ecografía
+T14	PROCEDIMIENTO 887 895	Rx Tórax
+T15	PROCEDIMIENTO 963 966	TAC
+T16	PROCEDIMIENTO 969 997	TAC toraco-abdomino- pélvico
+T17	PROCEDIMIENTO 1147 1177	extracción de nódulo linfático
+T18	PROCEDIMIENTO 1344 1360	biopsia hepática
+T19	PROCEDIMIENTO 1440 1475	raspado de articulación del tobillo
+T20	PROCEDIMIENTO 1510 1522	Biopsia ósea
+T21	NEG 83 86	sin
+T22	NSCO 87 121	antecedentes familiares relevantes
+T23	UNC 755 769	compatible con
+T24	USCO 770 779	gastritis
+T25	NEG 798 801	sin
+T26	NSCO 802 814	alteraciones
+T27	UNC 856 870	compatible con
+T28	USCO 871 884	osteonecrosis
+T29	NEG 925 937	inespecífica
+T30	NEG 1320 1332	inespecífica
+T31	NEG 1375 1387	inespecífico
+T32	UNC 1477 1485	probable
+T33	USCO 1486 1508	osteonecrosis aséptica
+T34	UNC 1523 1537	compatible con
+T35	USCO 1538 1550	Mastocitosis
+T36	UNC 1600 1611	sospecha de
+T37	USCO 1612 1624	Mastocitosis
+T38	NEG 1920 1923	sin
+T39	NSCO 1924 1942	afectación cutánea
+T40	NEG 2126 2129	sin
+T41	NSCO 2130 2139	etiología
+T42	UNC 2140 2148	aparente
+T43	USCO 2148 2192	, osteopenia, osteoporosis o osteoesclerosis
+T44	NEG 2422 2425	sin
+T45	NSCO 2426 2464	olvidar que puede existir mastocitosis
+T46	NEG 2465 2468	sin
+T47	NSCO 2469 2486	afectar a la piel
+T48	ORG_VIVO 35 40	mujer
+T49	ORG_VIVO 100 110	familiares
+T50	ORG_VIVO 146 156	personales
+T51	ORG_VIVO 1748 1756	paciente
+T52	ORG_VIVO 1958 1967	pacientes
+T53	ENFERMEDAD 167 185	síndrome depresivo
+T54	ENFERMEDAD 214 234	pólipos intestinales
+T55	ENFERMEDAD 290 302	osteoporosis
+T56	ENFERMEDAD 390 401	monocitosis
+T57	ENFERMEDAD 770 779	gastritis
+T58	ENFERMEDAD 871 884	osteonecrosis
+T59	ENFERMEDAD 1030 1081	nódulos linfáticos mediastínicos, retroperitoneales
+T60	ENFERMEDAD 1081 1102	, en el hilo hepático
+T61	ENFERMEDAD 1104 1117	Hepatomegalia
+T62	ENFERMEDAD 1120 1134	esplenomegalia
+T63	ENFERMEDAD 1486 1508	osteonecrosis aséptica
+T64	ENFERMEDAD 1538 1550	Mastocitosis
+T65	ENFERMEDAD 1612 1624	Mastocitosis
+T66	ENFERMEDAD 1907 1919	Mastocitosis
+T67	ENFERMEDAD 2050 2063	hepatomegalia
+T68	ENFERMEDAD 2065 2079	esplenomegalia
+T69	ENFERMEDAD 2082 2093	adenopatías
+T70	ENFERMEDAD 2110 2125	fracturas óseas
+T71	ENFERMEDAD 2150 2160	osteopenia
+T72	ENFERMEDAD 2162 2174	osteoporosis
+T73	ENFERMEDAD 2177 2192	osteoesclerosis
+T74	ENFERMEDAD 2343 2355	mastocitosis
+T75	ENFERMEDAD 2389 2406	lesiones cutáneas
+T76	ENFERMEDAD 2408 2420	mastocitomas
+T77	ENFERMEDAD 2452 2464	mastocitosis
+T78	PACIENTE-PROFESION 62 81	funcionaria pública

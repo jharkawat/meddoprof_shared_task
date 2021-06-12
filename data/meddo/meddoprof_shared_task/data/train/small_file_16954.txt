@@ -1,0 +1,12 @@
+
+Su	O
+mujer	O
+le	O
+dijo	O
+que	O
+tenía	O
+la	O
+pupila	O
+izquierda	O
+dilatada	O
+.	O

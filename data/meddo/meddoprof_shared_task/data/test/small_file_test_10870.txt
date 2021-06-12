@@ -1,0 +1,11 @@
+
+Confirmación	O
+diagnóstica	O
+y	O
+posible	O
+tratamiento	O
+endovascular	O
+se	O
+realiza	O
+por	O
+arteriografía	O

@@ -1,0 +1,61 @@
+T1	SINTOMA 79 95	malestar general
+T2	SINTOMA 301 341	picadura en la parte posterior del muslo
+T3	SINTOMA 651 658	eritema
+T4	SINTOMA 661 691	dolor con sensación distérmica
+T5	SINTOMA 862 905	aumento ecogenicidad de la grasa subcutánea
+T6	SINTOMA 1971 1976	dolor
+T7	SINTOMA 1978 1985	eritema
+T8	PROCEDIMIENTO 809 818	ecografía
+T9	PROCEDIMIENTO 959 968	hemograma
+T10	PROCEDIMIENTO 2491 2505	antibioterapia
+T11	PROCEDIMIENTO 2746 2757	hemocultivo
+T12	PROCEDIMIENTO 2760 2791	cultivo del líquido de la bulla
+T13	PROCEDIMIENTO 2940 2961	limpieza de la herida
+T14	PROCEDIMIENTO 3012 3021	analgesia
+T15	PROCEDIMIENTO 3023 3060	profilaxis antitetánica y antibiótico
+T16	PROCEDIMIENTO 3249 3287	antihistamínicos u oxígeno hiperbárico
+T17	PROCEDIMIENTO 3341 3355	antibioterapia
+T18	NEG 350 353	sin
+T19	NSCO 354 382	poder identificar el insecto
+T20	NEG 745 748	sin
+T21	NSCO 749 756	mejoría
+T22	UNC 1643 1654	compatibles
+T23	USCO 1655 1738	se llegó a la conclusión que podía tratarse de un loxocelismo cutáneo confirmándose
+T24	NEG 2800 2809	negativas
+T25	NSCO 2810 2830	para otras entidades
+T26	UNC 3067 3078	sospecha de
+T27	USCO 3079 3093	sobreinfección
+T28	UNC 3360 3371	sospecha de
+T29	USCO 3372 3403	sobreinfección así como dapsona
+T30	FARMACO 505 522	metilprednisolona
+T31	FARMACO 719 730	amoxicilina
+T32	FARMACO 733 744	clavulánico
+T33	FARMACO 1215 1227	piperacilina
+T34	FARMACO 1228 1238	tazobactam
+T35	FARMACO 3225 3232	dapsona
+T36	FARMACO 3234 3247	tetraciclinas
+T37	FARMACO 3396 3403	dapsona
+T38	ORG_VIVO 0 5	Varón
+T39	ORG_VIVO 26 36	agricultor
+T40	ORG_VIVO 194 202	paciente
+T41	ORG_VIVO 375 382	insecto
+T42	ORG_VIVO 1157 1165	paciente
+T43	ORG_VIVO 1824 1830	arañas
+T44	ORG_VIVO 1848 1863	Loxosceles spp.
+T45	ORG_VIVO 1873 1894	especies de arácnidos
+T46	ORG_VIVO 2114 2124	Loxosceles
+T47	ORG_VIVO 2202 2219	especie Rufescens
+T48	ORG_VIVO 2372 2380	paciente
+T49	ORG_VIVO 3034 3046	antitetánica
+T50	ORG_VIVO 3489 3497	paciente
+T51	ENFERMEDAD 67 76	celulitis
+T52	ENFERMEDAD 127 148	hipertensión arterial
+T53	ENFERMEDAD 150 177	insuficiencia renal crónica
+T54	ENFERMEDAD 179 189	dislipemia
+T55	ENFERMEDAD 1347 1516	lesión eritematosa, caliente y dolorosa en cara posterior e interna de muslo derecho que se extendía desde hueco poplíteo hasta pliegue glúteo y raíz de miembro inferior
+T56	ENFERMEDAD 1705 1724	loxocelismo cutáneo
+T57	ENFERMEDAD 2446 2468	celulitis perilesional
+T58	ENFERMEDAD 2653 2675	lesiones por loxoceles
+T59	ENFERMEDAD 3079 3093	sobreinfección
+T60	ENFERMEDAD 3372 3386	sobreinfección
+T61	PACIENTE-PROFESION 26 36	agricultor

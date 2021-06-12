@@ -1,0 +1,5 @@
+
+Fallecieron	O
+5	O
+pacientes	O
+.	O

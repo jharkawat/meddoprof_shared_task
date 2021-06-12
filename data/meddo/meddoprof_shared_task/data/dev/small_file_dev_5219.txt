@@ -1,0 +1,26 @@
+
+Rx	O
+tórax	O
+:	O
+Nódulos	O
+diseminados	O
+en	O
+ambos	O
+campos	O
+pulmonares	O
+y	O
+patrón	O
+intersticial	O
+,	O
+sugestivo	O
+de	O
+carcinoma	O
+broncogénico	O
+o	O
+diseminación	O
+de	O
+un	O
+primario	O
+no	O
+conocido	O
+.	O

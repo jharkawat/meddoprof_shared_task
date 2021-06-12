@@ -1,0 +1,12 @@
+
+Es	O
+seguida	O
+ambulatoriamente	O
+tras	O
+presentar	O
+un	O
+episodio	O
+ansioso	O
+-	O
+depresivo	O
+.	O

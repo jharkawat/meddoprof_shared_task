@@ -1,0 +1,11 @@
+
+Interna	O
+,	O
+dado	O
+que	O
+el	O
+paciente	O
+continúa	O
+con	O
+ataxia	O
+.	O

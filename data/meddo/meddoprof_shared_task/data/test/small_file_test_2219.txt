@@ -1,0 +1,14 @@
+
+-	O
+Mamografía	O
+de	O
+la	O
+mama	O
+izquierda	O
+:	O
+nódulo	O
+espiculado	O
+de	O
+características	O
+malignas	O
+.	O

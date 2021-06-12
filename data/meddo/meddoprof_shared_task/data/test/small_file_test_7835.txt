@@ -1,0 +1,20 @@
+
+Positividad	O
+de	O
+las	O
+células	O
+neoplásicas	O
+para	O
+la	O
+proteína	O
+Melan	O
+A	O
+,	O
+sinaptofisina	O
+y	O
+EMA	O
+y	O
+negatividad	O
+para	O
+calretinina	O
+.	O

@@ -1,0 +1,9 @@
+
+Estos	O
+hallazgos	O
+son	O
+sugestivos	O
+de	O
+neoplasia	O
+primaria	O
+.	O

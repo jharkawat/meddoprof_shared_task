@@ -1,0 +1,20 @@
+
+Aislamiento	O
+social	O
+importante	O
+(	O
+apenas	O
+sale	O
+del	O
+domicilio	O
+,	O
+encarga	O
+la	O
+comida	O
+y	O
+agua	O
+a	O
+su	O
+hijo	O
+)	O
+.	O

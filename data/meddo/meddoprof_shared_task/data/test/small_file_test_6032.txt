@@ -1,0 +1,17 @@
+
+QT	O
+de	O
+inducción	O
+con	O
+la	O
+combinación	O
+cisplatino	O
+-	O
+vinblastina	O
+-	O
+dacarbazina	O
+(	O
+3	O
+ciclos	O
+)	O
+.	O

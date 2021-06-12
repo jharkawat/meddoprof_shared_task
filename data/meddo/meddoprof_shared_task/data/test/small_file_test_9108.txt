@@ -1,0 +1,25 @@
+
+Con	O
+un	O
+estudio	O
+preoperatorio	O
+que	O
+no	O
+contraindicaba	O
+la	O
+intervención	O
+,	O
+el	O
+4	O
+de	O
+junio	O
+de	O
+2014	O
+se	O
+realiza	O
+lobectomía	O
+superior	O
+derecha	O
+y	O
+linfadenectomía	O
+.	O

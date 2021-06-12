@@ -1,0 +1,14 @@
+
+Se	O
+llevó	O
+a	O
+cabo	O
+una	O
+punción	O
+lumbar	O
+que	O
+no	O
+mostró	O
+hallazgos	O
+patológicos	O
+.	O

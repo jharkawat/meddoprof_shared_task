@@ -1,0 +1,48 @@
+T1	SINTOMA 71 79	embarazo
+T2	SINTOMA 211 235	pérdida de visión de ojo
+T3	SINTOMA 255 274	cefalea holocraneal
+T4	SINTOMA 297 306	gestación
+T5	SINTOMA 518 544	pérdida completa de visión
+T6	SINTOMA 608 616	embarazo
+T7	SINTOMA 649 657	embarazo
+T8	SINTOMA 830 890	elevación del tercio superior del disco óptico de ambos ojos
+T9	SINTOMA 1675 1731	valores anormalmente bajos de cortisol para la gestación
+T10	PROCEDIMIENTO 682 700	exploración física
+T11	PROCEDIMIENTO 816 828	fondo de ojo
+T12	PROCEDIMIENTO 915 926	RMN craneal
+T13	PROCEDIMIENTO 1031 1034	RMN
+T14	PROCEDIMIENTO 1611 1626	perfil hormonal
+T15	PROCEDIMIENTO 1994 2011	parto por cesárea
+T16	NEG 24 27	sin
+T17	NSCO 28 62	antecedentes personales de interés
+T18	NEG 80 83	sin
+T19	NSCO 84 98	complicaciones
+T20	NEG 100 103	sin
+T21	NSCO 104 150	alergias conocidas ni tratamiento domiciliario
+T22	UNC 946 954	sospecha
+T23	USCO 955 995	inicial era de Hipertensión intracraneal
+T24	UNC 996 998	vs
+T25	USCO 999 1025	neuropatía óptica subaguda
+T26	UNC 1141 1155	compatible con
+T27	USCO 1156 1177	contenido hemorrágico
+T28	UNC 1277 1291	compatible con
+T29	USCO 1292 1313	apoplejía hipofisaria
+T30	NEG 1394 1396	no
+T31	NSCO 1397 1424	se aprecia déficit hormonal
+T32	NEG 2162 2165	sin
+T33	NSCO 2166 2180	complicaciones
+T34	FARMACO 370 381	paracetamol
+T35	FARMACO 1945 1954	cortisona
+T36	FARMACO 2070 2084	hidrocortisona
+T37	ORG_VIVO 41 51	personales
+T38	ORG_VIVO 778 789	Oftalmólogo
+T39	ORG_VIVO 2121 2129	paciente
+T40	ENFERMEDAD 636 643	migraña
+T41	ENFERMEDAD 970 995	Hipertensión intracraneal
+T42	ENFERMEDAD 999 1025	neuropatía óptica subaguda
+T43	ENFERMEDAD 1156 1177	contenido hemorrágico
+T44	ENFERMEDAD 1192 1221	compresión del quiasma óptico
+T45	ENFERMEDAD 1292 1313	apoplejía hipofisaria
+T46	ENFERMEDAD 1848 1873	insuficiencia suprarrenal
+T47	ENFERMEDAD 1878 1900	apoplejía hipofisiaria
+T48	SANITARIO-PROFESION 778 789	Oftalmólogo

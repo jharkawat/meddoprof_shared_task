@@ -1,0 +1,8 @@
+
+Manifiesta	O
+buen	O
+apoyo	O
+de	O
+red	O
+social	O
+.	O

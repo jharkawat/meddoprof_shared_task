@@ -1,0 +1,9 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+25	O
+de	O
+Octubre	O
+1968	O

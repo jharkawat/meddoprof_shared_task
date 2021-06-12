@@ -1,0 +1,13 @@
+
+Enfisema	O
+de	O
+partes	O
+blandas	O
+y	O
+subcutáneo	O
+de	O
+localización	O
+cervical	O
+y	O
+supraclavicular	O
+.	O

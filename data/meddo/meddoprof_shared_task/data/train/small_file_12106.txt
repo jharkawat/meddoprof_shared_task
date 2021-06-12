@@ -1,0 +1,27 @@
+
+Clínicamente	O
+presenta	O
+aumento	O
+en	O
+la	O
+intensidad	O
+de	O
+la	O
+cefalea	O
+que	O
+requiere	O
+percusión	O
+analgésica	O
+permanente	O
+para	O
+su	O
+control	O
+y	O
+aumento	O
+subjetivo	O
+de	O
+su	O
+hipoacusia	O
+y	O
+acúfenos	O
+.	O

@@ -1,0 +1,27 @@
+
+La	O
+transmisión	O
+de	O
+información	O
+en	O
+AH	O
+no	O
+es	O
+clara	O
+y	O
+el	O
+paciente	O
+acude	O
+nuevamente	O
+a	O
+nuestra	O
+consulta	O
+para	O
+resolver	O
+sus	O
+dudas	O
+y	O
+aclarar	O
+la	O
+situación	O
+.	O

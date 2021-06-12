@@ -1,0 +1,25 @@
+
+Con	O
+tratamiento	O
+de	O
+soporte	O
+y	O
+sintomática	O
+mejora	O
+y	O
+con	O
+PS	O
+2	O
+se	O
+inicia	O
+tratamiento	O
+citostático	O
+con	O
+carboplatino	O
+-	O
+paclitaxel	O
+,	O
+y	O
+octreótido	O
+mensual	O
+.	O

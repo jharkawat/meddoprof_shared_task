@@ -1,0 +1,19 @@
+
+Tenía	O
+gran	O
+interés	O
+por	O
+su	O
+trabajo	O
+y	O
+se	O
+preocupaba	O
+por	O
+las	O
+personas	O
+que	O
+él	O
+trataba	O
+de	O
+ayudar	O
+.	O

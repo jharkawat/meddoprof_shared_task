@@ -1,0 +1,13 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+en	O
+Urgencias	O
+se	O
+constataron	O
+los	O
+siguientes	O
+datos	O
+.	O

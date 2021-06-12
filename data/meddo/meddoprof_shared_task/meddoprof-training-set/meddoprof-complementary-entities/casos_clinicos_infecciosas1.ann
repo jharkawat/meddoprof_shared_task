@@ -1,0 +1,221 @@
+T1	SINTOMA 342 352	odinofagia
+T2	SINTOMA 713 747	empeoramiento de su estado general
+T3	SINTOMA 761 767	fiebre
+T4	SINTOMA 785 793	tos seca
+T5	SINTOMA 795 801	disnea
+T6	SINTOMA 804 816	dolor costal
+T7	SINTOMA 844 855	pleuríticas
+T8	SINTOMA 896 902	febril
+T9	SINTOMA 904 909	38,3o
+T10	SINTOMA 912 921	hipotensa
+T11	SINTOMA 936 948	taquicárdica
+T12	SINTOMA 961 972	taquipneica
+T13	SINTOMA 1044 1072	tonos rítmicos taquicárdicos
+T14	SINTOMA 1075 1098	buen murmullo vesicular
+T15	SINTOMA 1103 1130	crepitantes secos bibasales
+T16	SINTOMA 1132 1165	abdomen y extremidades inferiores
+T17	SINTOMA 1357 1366	dolorosas
+T18	SINTOMA 1681 1693	leucocitosis
+T19	SINTOMA 1698 1709	neutrofilia
+T20	SINTOMA 2289 2323	infiltrado reticulonodular bibasal
+T21	SINTOMA 2525 2568	consolidación en lóbulo inferior del pulmón
+T22	SINTOMA 3278 3305	sintomatología respiratoria
+T23	SINTOMA 3307 3310	tos
+T24	SINTOMA 3313 3319	disnea
+T25	SINTOMA 3648 3708	signos inflamatorios en suelo de la boca y región submaxilar
+T26	SINTOMA 3978 3984	fiebre
+T27	SINTOMA 3986 3997	adenopatías
+T28	SINTOMA 3999 4009	odinofagia
+T29	SINTOMA 4012 4033	hipertrofia amigdalar
+T30	SINTOMA 4058 4070	leucocitosis
+T31	SINTOMA 4332 4340	tos seca
+T32	SINTOMA 4345 4358	expectoración
+T33	SINTOMA 4373 4384	fiebre alta
+T34	SINTOMA 4387 4399	leucocitosis
+T35	SINTOMA 4712 4721	taquipnea
+T36	SINTOMA 8231 8241	odinofagia
+T37	PROCEDIMIENTO 135 154	prueba intradérmica
+T38	PROCEDIMIENTO 379 415	autopalpación de ganglios cervicales
+T39	PROCEDIMIENTO 527 546	corticoterapia oral
+T40	PROCEDIMIENTO 576 595	antibioterapia oral
+T41	PROCEDIMIENTO 1012 1039	auscultación cardiopulmonar
+T42	PROCEDIMIENTO 1184 1217	exploración otorrinolaringológica
+T43	PROCEDIMIENTO 1663 1669	frotis
+T44	PROCEDIMIENTO 2116 2133	gasometría venosa
+T45	PROCEDIMIENTO 2226 2246	radiografía de tórax
+T46	PROCEDIMIENTO 2325 2345	Radiografía de tórax
+T47	PROCEDIMIENTO 2421 2440	ecografía abdominal
+T48	PROCEDIMIENTO 2634 2643	anamnesis
+T49	PROCEDIMIENTO 3447 3467	exploración cervical
+T50	PROCEDIMIENTO 3788 3821	exploración otorrinolaringológica
+T51	PROCEDIMIENTO 4870 4889	TC cérvico-torácico
+T52	PROCEDIMIENTO 5300 5311	TC de tórax
+T53	PROCEDIMIENTO 5542 5553	hemocultivo
+T54	PROCEDIMIENTO 5623 5635	antibiograma
+T55	PROCEDIMIENTO 5722 5739	cultivo de esputo
+T56	PROCEDIMIENTO 5796 5817	serología de neumonía
+T57	PROCEDIMIENTO 6106 6108	TC
+T58	PROCEDIMIENTO 6111 6122	hemocultivo
+T59	PROCEDIMIENTO 6244 6257	fluidoterapia
+T60	PROCEDIMIENTO 6395 6409	amigdalectomía
+T61	PROCEDIMIENTO 6412 6430	drenaje de absceso
+T62	PROCEDIMIENTO 6527 6543	pruebas cutáneas
+T63	PROCEDIMIENTO 6653 6699	prueba de exposición controlada con penicilina
+T64	PROCEDIMIENTO 6713 6736	tratamiento antibiótico
+T65	PROCEDIMIENTO 6865 6880	anticoagulación
+T66	PROCEDIMIENTO 6963 6999	administración de aminas vasoactivas
+T67	PROCEDIMIENTO 7043 7055	hemocultivos
+T68	PROCEDIMIENTO 7205 7231	cultivo de líquido pleural
+T69	PROCEDIMIENTO 7342 7362	ventilación mecánica
+T70	PROCEDIMIENTO 7397 7416	TC cérvico-torácico
+T71	PROCEDIMIENTO 8262 8271	hemograma
+T72	NEG 156 158	No
+T73	NSCO 159 216	otros antecedentes medicoquirúrgicos conocidos de interés
+T74	NEG 242 244	No
+T75	NSCO 245 284	realizaba tratamiento de forma habitual
+T76	NEG 1166 1169	sin
+T77	NSCO 1170 1179	hallazgos
+T78	NEG 1324 1326	no
+T79	NSCO 1327 1355	adheridas a planos profundos
+T80	NEG 1378 1380	No
+T81	NSCO 1381 1453	presentaba hallazgos patológicos a la exploración en las piezas dentales
+T82	NEG 1808 1810	No
+T83	NSCO 1811 1833	agregados plaquetarios
+T84	UNC 2512 2524	sugestiva de
+T85	USCO 2525 2576	consolidación en lóbulo inferior del pulmón derecho
+T86	NEG 2994 3005	ausencia de
+T87	NSCO 3006 3060	afectación cutánea nos hace poner en duda dicho cuadro
+T88	NEG 3096 3099	sin
+T89	NSCO 3100 3116	dicha afectación
+T90	UNC 3241 3248	posible
+T91	USCO 3249 3305	amigdalitis, la presencia de sintomatología respiratoria
+T92	NEG 3336 3338	no
+T93	NSCO 3339 3467	contábamos por el momento con las suficientes pruebas complementarias, ni una semiología determinante en la exploración cervical
+T94	NEG 3580 3590	descartada
+T95	NEG 3636 3647	ausencia de
+T96	NSCO 3648 3668	signos inflamatorios
+T97	NEG 3750 3752	no
+T98	NSCO 3753 3772	podemos descartarla
+T99	NEG 3853 3855	no
+T100	NSCO 3856 3889	se aprecia lesión ulcerónecrótica
+T101	UNC 3946 3956	se plantea
+T102	USCO 3957 3984	ante la presencia de fiebre
+T103	UNC 4156 4163	posible
+T104	USCO 4164 4178	sobreinfección
+T105	NEG 4287 4298	ausencia de
+T106	NSCO 4299 4330	consolidación radiológica clara
+T107	NEG 4341 4344	sin
+T108	NSCO 4345 4358	expectoración
+T109	UNC 5151 5166	compatibles con
+T110	USCO 5167 5186	embolismos sépticos
+T111	UNC 5276 5290	compatible con
+T112	USCO 5291 5298	empiema
+T113	NEG 5709 5717	negativa
+T114	NEG 5752 5765	negativo para
+T115	NSCO 5766 5791	bacterias y micobacterias
+T116	NEG 5943 5951	negativa
+T117	NEG 6137 6148	ausencia de
+T118	NSCO 6149 6164	mejoría clínica
+T119	NEG 6621 6629	negativo
+T120	NEG 6943 6945	No
+T121	NSCO 6946 6999	fue necesaria la administración de aminas vasoactivas
+T122	NEG 7245 7253	negativo
+T123	NEG 7329 7332	sin
+T124	NSCO 7333 7384	requerir ventilación mecánica ni aminas vasoactivas
+T125	NEG 8201 8216	desaparición de
+T126	NSCO 8217 8241	la clínica de odinofagia
+T127	FARMACO 548 559	deflazacort
+T128	FARMACO 609 623	claritromicina
+T129	FARMACO 4514 4528	claritromicina
+T130	FARMACO 4821 4833	clindamicina
+T131	FARMACO 6689 6699	penicilina
+T132	FARMACO 6751 6761	pecinilina
+T133	FARMACO 6784 6796	clindamicina
+T134	FARMACO 6822 6839	metilprednisolona
+T135	FARMACO 6885 6919	heparina de bajo peso molecular SC
+T136	FARMACO 7144 7167	amoxicilina clavulánico
+T137	FARMACO 7169 7181	clindamicina
+T138	FARMACO 7185 7197	metronidazol
+T139	FARMACO 7910 7922	clindamicina
+T140	FARMACO 7966 7977	deflazacort
+T141	FARMACO 8006 8017	enoxaparina
+T142	ORG_VIVO 0 5	Mujer
+T143	ORG_VIVO 75 83	infancia
+T144	ORG_VIVO 300 327	médico de atención primaria
+T145	ORG_VIVO 681 689	paciente
+T146	ORG_VIVO 873 881	paciente
+T147	ORG_VIVO 3497 3505	paciente
+T148	ORG_VIVO 4588 4596	personal
+T149	ORG_VIVO 4626 4634	paciente
+T150	ORG_VIVO 4797 4809	Bacteriemias
+T151	ORG_VIVO 5563 5580	Fusobacterium spp
+T152	ORG_VIVO 5655 5679	Streptococcus pneumoniae
+T153	ORG_VIVO 5682 5704	Legionella pneumophila
+T154	ORG_VIVO 5766 5775	bacterias
+T155	ORG_VIVO 5778 5791	micobacterias
+T156	ORG_VIVO 5830 5851	Mycoplasma pneumoniae
+T157	ORG_VIVO 5853 5873	Chlamydia pneumoniae
+T158	ORG_VIVO 5875 5897	Chlamydophila psittaci
+T159	ORG_VIVO 5899 5916	Coxiella burnetti
+T160	ORG_VIVO 5919 5938	virus respiratorios
+T161	ORG_VIVO 5968 5986	Virus Epstein Barr
+T162	ORG_VIVO 5988 6003	Citomegalovirus
+T163	ORG_VIVO 6004 6021	Toxoplasma gondii
+T164	ORG_VIVO 6023 6040	virus hepatitis A
+T165	ORG_VIVO 6040 6042	,B
+T166	ORG_VIVO 6042 6044	,C
+T167	ORG_VIVO 6056 6086	virus inmunodeficiencia humana
+T168	ORG_VIVO 7095 7120	Fusobacterium necrophorum
+T169	ORG_VIVO 7292 7300	paciente
+T170	ORG_VIVO 7813 7821	paciente
+T171	ORG_VIVO 8042 8050	paciente
+T172	ENFERMEDAD 38 58	alergia a penicilina
+T173	ENFERMEDAD 396 415	ganglios cervicales
+T174	ENFERMEDAD 1290 1312	adenopatías cervicales
+T175	ENFERMEDAD 2392 2417	nódulos pulmonares en LSD
+T176	ENFERMEDAD 2458 2473	derrame pleural
+T177	ENFERMEDAD 2525 2568	consolidación en lóbulo inferior del pulmón
+T178	ENFERMEDAD 2736 2794	sepsis grave de origen otorrinolaringológico/ respiratorio
+T179	ENFERMEDAD 2845 2871	Amigdalitis estreptocócica
+T180	ENFERMEDAD 2890 2929	Síndrome de shock tóxico estreptocócico
+T181	ENFERMEDAD 3120 3142	Tromboflebitis séptica
+T182	ENFERMEDAD 3145 3165	síndrome de Lemierre
+T183	ENFERMEDAD 3204 3218	cuadro séptico
+T184	ENFERMEDAD 3249 3260	amigdalitis
+T185	ENFERMEDAD 3516 3544	trombosis de la vena yugular
+T186	ENFERMEDAD 3548 3564	Angina de Ludwig
+T187	ENFERMEDAD 3712 3735	Angina de Plaut-Vincent
+T188	ENFERMEDAD 3921 3944	Síndrome mononucleósico
+T189	ENFERMEDAD 3986 3997	adenopatías
+T190	ENFERMEDAD 4164 4178	sobreinfección
+T191	ENFERMEDAD 4182 4216	Neumonía adquirida en la comunidad
+T192	ENFERMEDAD 4387 4412	leucocitosis neutrofílica
+T193	ENFERMEDAD 4600 4621	alergia a penicilinas
+T194	ENFERMEDAD 4665 4678	shock séptico
+T195	ENFERMEDAD 4913 4933	absceso parafaringeo
+T196	ENFERMEDAD 4955 4991	trombosis de la vena yugular interna
+T197	ENFERMEDAD 5020 5040	absceso parafaringeo
+T198	ENFERMEDAD 5053 5089	trombosis de la vena yugular interna
+T199	ENFERMEDAD 5110 5138	nódulos pulmonares cavitados
+T200	ENFERMEDAD 5167 5186	embolismos sépticos
+T201	ENFERMEDAD 5199 5214	derrame pleural
+T202	ENFERMEDAD 5291 5298	empiema
+T203	ENFERMEDAD 5313 5341	émbolos sépticos bilaterales
+T204	ENFERMEDAD 5354 5369	derrame pleural
+T205	ENFERMEDAD 5542 5580	hemocultivo se aisló Fusobacterium spp
+T206	ENFERMEDAD 5809 5817	neumonía
+T207	ENFERMEDAD 6178 6215	insuficiencia respiratoria hipoxémica
+T208	ENFERMEDAD 6218 6241	hipotensión refractaria
+T209	ENFERMEDAD 7080 7142	aislamiento de Fusobacterium necrophorum sensible a penicilina
+T210	ENFERMEDAD 7521 7545	Enfermedades Infecciosas
+T211	ENFERMEDAD 7694 7712	nódulos pulmonares
+T212	ENFERMEDAD 7731 7767	trombosis crónica de la vena yugular
+T213	ENFERMEDAD 8089 8113	Enfermedades infecciosas
+T214	ENFERMEDAD 8326 8346	Síndrome de Lemierre
+T215	ENFERMEDAD 8364 8386	absceso periamigdalino
+T216	ENFERMEDAD 8389 8412	parafaríngeo complicado
+T217	ENFERMEDAD 8417 8466	tromboflebitis séptica de la vena yugular interna
+T218	ENFERMEDAD 8479 8509	embolismos sépticos pulmonares
+T219	ENFERMEDAD 8524 8539	empiema pleural
+T220	SANITARIO-PROFESION 4774 4809	equipo del Programa de Bacteriemias
+T221	SANITARIO-PROFESION 300 327	médico de atención primaria

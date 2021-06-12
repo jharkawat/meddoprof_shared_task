@@ -1,0 +1,5 @@
+
+Accidente	O
+isquémico	O
+transitorio	O
+.	O

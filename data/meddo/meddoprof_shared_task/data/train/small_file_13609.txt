@@ -1,0 +1,17 @@
+
+No	O
+afirmaba	O
+sintomatología	O
+de	O
+infección	O
+respiratoria	O
+,	O
+disuria	O
+u	O
+otra	O
+clínica	O
+por	O
+aparatos	O
+o	O
+sistemas	O
+.	O

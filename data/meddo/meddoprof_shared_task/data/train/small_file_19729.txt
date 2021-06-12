@@ -1,0 +1,20 @@
+
+HISTORIA	O
+FAMILIAR	O
+:	O
+asma	O
+en	O
+el	O
+abuelo	O
+paterno	O
+y	O
+epilepsia	O
+en	O
+una	O
+tía	O
+materna	O
+el	O
+resto	O
+poco	O
+relevante	O
+.	O

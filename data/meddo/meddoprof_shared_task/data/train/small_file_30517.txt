@@ -1,0 +1,27 @@
+
+Las	O
+voces	O
+que	O
+oye	O
+la	O
+paciente	O
+suelen	O
+insultarla	O
+,	O
+difamarla	O
+o	O
+menospreciarla	O
+y	O
+le	O
+dicen	O
+que	O
+lleve	O
+a	O
+cabo	O
+unas	O
+conductas	O
+para	O
+dejarla	O
+en	O
+ridículo	O
+.	O

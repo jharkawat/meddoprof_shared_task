@@ -1,0 +1,12 @@
+
+Maculas	O
+eritematosas	O
+ovaladas	O
+en	O
+dorso	O
+de	O
+manos	O
+y	O
+primeros	O
+dedos	O
+.	O

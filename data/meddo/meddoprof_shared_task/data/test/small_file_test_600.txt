@@ -1,0 +1,11 @@
+
+•	O
+Actitud	O
+de	O
+la	O
+paciente	O
+a	O
+solas	O
+con	O
+el	O
+psicólogo	B-PROFESION

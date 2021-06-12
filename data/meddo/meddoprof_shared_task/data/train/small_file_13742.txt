@@ -1,0 +1,15 @@
+
+La	O
+anatomía	O
+patológica	O
+de	O
+la	O
+pieza	O
+quirúrgica	O
+nos	O
+indica	O
+el	O
+diagnóstico	O
+.	O
+.	O
+.	O

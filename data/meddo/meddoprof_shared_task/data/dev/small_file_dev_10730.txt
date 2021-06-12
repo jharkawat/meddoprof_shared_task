@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+presenta	O
+un	O
+Índice	O
+de	O
+Karnosky	O
+de	O
+20	O
+-	O
+30	O
+con	O
+vida	O
+basal	O
+limitada	O
+a	O
+la	O
+cama	O
+.	O

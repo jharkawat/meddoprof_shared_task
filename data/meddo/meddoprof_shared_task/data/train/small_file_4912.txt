@@ -1,0 +1,6 @@
+
+Dismetría	O
+en	O
+mano	O
+derecha	O
+.	O

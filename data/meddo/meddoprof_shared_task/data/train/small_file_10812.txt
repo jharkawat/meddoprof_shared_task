@@ -1,0 +1,20 @@
+
+Es	O
+valorado	O
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+,	O
+indicando	O
+corticoterapia	O
+con	O
+Dexametasona	O
+,	O
+mejorando	O
+el	O
+cuadro	O
+artrítico	O
+.	O

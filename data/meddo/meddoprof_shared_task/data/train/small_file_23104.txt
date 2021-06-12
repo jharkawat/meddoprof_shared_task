@@ -1,0 +1,17 @@
+
+Personalidad	O
+previa	O
+:	O
+siempre	O
+fue	O
+una	O
+niña	O
+muy	O
+inquieta	O
+,	O
+con	O
+tendencia	O
+a	O
+la	O
+irritabilidad	O
+.	O

@@ -1,0 +1,11 @@
+
+La	O
+auscultación	O
+de	O
+la	O
+cabeza	O
+no	O
+se	O
+asculta	O
+soplos	O
+.	O

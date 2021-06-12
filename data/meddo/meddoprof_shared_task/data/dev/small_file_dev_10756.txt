@@ -1,0 +1,22 @@
+
+Refiere	O
+mucha	O
+tensión	O
+muscular	O
+cervical	O
+,	O
+palpitaciones	O
+ocasionales	O
+,	O
+cansancio	O
+,	O
+dificultad	O
+para	O
+concentrarse	O
+y	O
+dificultad	O
+para	O
+conciliar	O
+el	O
+sueño	O
+.	O

@@ -1,0 +1,11 @@
+T1	SINTOMA 144 159	lenguaje escaso
+T2	PROCEDIMIENTO 423 447	tomografía computarizada
+T3	PROCEDIMIENTO 476 481	SPECT
+T4	NEG 162 165	sin
+T5	NSCO 166 196	déficits cognitivos relevantes
+T6	NEG 214 216	no
+T7	NSCO 217 263	se aprecia sintomatología afectiva o psicótica
+T8	ORG_VIVO 35 40	mujer
+T9	ORG_VIVO 318 326	paciente
+T10	ENFERMEDAD 72 91	trastorno depresivo
+T11	ENFERMEDAD 580 599	deterioro cognitivo

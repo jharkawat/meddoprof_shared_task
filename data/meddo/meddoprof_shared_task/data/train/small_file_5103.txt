@@ -1,0 +1,10 @@
+
+Punción	O
+aspiración	O
+de	O
+médula	O
+ósea	O
+:	O
+Mieloma	O
+múltiple	O
+.	O

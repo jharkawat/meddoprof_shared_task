@@ -1,0 +1,6 @@
+
+No	O
+ha	O
+recibido	O
+trasfusiones	O
+.	O

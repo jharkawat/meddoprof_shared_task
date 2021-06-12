@@ -1,0 +1,27 @@
+
+En	O
+la	O
+actualidad	O
+,	O
+aunque	O
+la	O
+progresión	O
+es	O
+lenta	O
+,	O
+África	O
+se	O
+comunica	O
+en	O
+cada	O
+sesión	O
+mediante	O
+dibujos	O
+y	O
+gestos	O
+,	O
+pero	O
+también	O
+con	O
+palabras	O
+.	O

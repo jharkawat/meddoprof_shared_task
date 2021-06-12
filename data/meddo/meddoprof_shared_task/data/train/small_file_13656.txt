@@ -1,0 +1,10 @@
+
+-	O
+Angio	O
+-	O
+tac	O
+:	O
+confirma	O
+aortitis	O
+abdominal	O
+.	O

@@ -1,0 +1,18 @@
+
+al	O
+final	O
+se	O
+acabó	O
+el	O
+piso	O
+pero	O
+desde	O
+entonces	O
+yo	O
+ya	O
+no	O
+he	O
+sido	O
+el	O
+mismo	O
+.	O

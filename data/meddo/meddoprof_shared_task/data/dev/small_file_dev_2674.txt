@@ -1,0 +1,17 @@
+
+Padre	O
+fallecido	O
+cuando	O
+el	O
+paciente	O
+tenía	O
+8	O
+años	O
+de	O
+edad	O
+por	O
+infarto	O
+agudo	O
+de	O
+miocardio	O
+.	O

@@ -1,0 +1,17 @@
+
+Al	O
+interrogatorio	O
+dirigido	O
+,	O
+negaba	O
+ingesta	O
+de	O
+fármacos	O
+o	O
+clínica	O
+infecciosa	O
+en	O
+las	O
+semanas	O
+previas	O
+.	O

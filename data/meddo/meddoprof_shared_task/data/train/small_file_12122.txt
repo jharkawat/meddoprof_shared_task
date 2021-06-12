@@ -1,0 +1,22 @@
+
+Estando	O
+en	O
+las	O
+camas	O
+de	O
+observación	O
+refieren	O
+un	O
+nuevo	O
+episodio	O
+de	O
+pérdida	O
+de	O
+conciencia	O
+autolimitado	O
+(	O
+no	O
+hay	O
+registros	O
+)	O
+.	O

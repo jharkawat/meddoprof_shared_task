@@ -1,0 +1,23 @@
+
+Sistema	O
+ventricular	O
+de	O
+morfología	O
+normal	O
+,	O
+centrado	O
+en	O
+la	O
+línea	O
+media	O
+,	O
+de	O
+taman	O
+̃	O
+o	O
+acorde	O
+al	O
+patrón	O
+de	O
+surcos	O
+.	O

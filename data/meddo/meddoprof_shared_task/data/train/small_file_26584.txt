@@ -1,0 +1,16 @@
+
+Antecedentes	O
+familiares	O
+:	O
+El	O
+padre	O
+tiene	O
+problemas	O
+de	O
+abuso	O
+de	O
+alcohol	O
+y	O
+está	O
+desempleado	B-SITUACION_LABORAL
+.	O

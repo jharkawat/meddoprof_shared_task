@@ -1,0 +1,19 @@
+
+Llama	O
+la	O
+atención	O
+la	O
+nula	O
+captación	O
+de	O
+contraste	O
+intravenoso	O
+,	O
+existiendo	O
+una	O
+dudosa	O
+restricción	O
+de	O
+la	O
+difusión	O
+.	O

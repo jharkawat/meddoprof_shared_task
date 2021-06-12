@@ -1,0 +1,15 @@
+
+En	O
+ocasiones	O
+toma	O
+lorazepam	O
+de	O
+1	O
+mg	O
+por	O
+la	O
+noche	O
+si	O
+tiene	O
+insomnio	O
+.	O

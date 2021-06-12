@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 432 465	profunda herida incisa en abdomen
+T2	PROCEDIMIENTO 1208 1232	sacrificio autoinmolador
+T3	NEG 318 321	sin
+T4	NSCO 322 370	antecedentes conocidos de patología psiquiátrica
+T5	UNC 535 541	claras
+T6	USCO 542 562	y cubierto de sangre
+T7	ORG_VIVO 26 33	enfermo
+T8	ORG_VIVO 298 305	enfermo
+T9	ORG_VIVO 673 680	enfermo
+T10	ORG_VIVO 761 777	equipo sanitario
+T11	ORG_VIVO 995 1002	enfermo
+T12	ENFERMEDAD 270 293	psicosis esquizofrénica
+T13	ENFERMEDAD 632 649	delirio mesiánico
+T14	SANITARIO-PROFESION 761 777	equipo sanitario

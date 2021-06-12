@@ -1,0 +1,195 @@
+T1	SINTOMA 1334 1344	embarazada
+T2	SINTOMA 1923 1938	politoxicomanía
+T3	SINTOMA 1940 1949	fallecido
+T4	SINTOMA 2039 2048	fallecido
+T5	SINTOMA 2832 2840	asténico
+T6	SINTOMA 2855 2868	Facies triste
+T7	SINTOMA 2870 2879	adolorida
+T8	SINTOMA 2881 2887	pálida
+T9	SINTOMA 2890 2897	ojerosa
+T10	SINTOMA 3312 3324	colaboradora
+T11	SINTOMA 3349 3359	consciente
+T12	SINTOMA 3362 3400	orientada en espacio, tiempo y persona
+T13	SINTOMA 3507 3526	labilidad emocional
+T14	SINTOMA 3528 3535	Astenia
+T15	SINTOMA 3537 3543	apatía
+T16	SINTOMA 3546 3555	anhedonia
+T17	SINTOMA 3695 3709	heteroagresiva
+T18	SINTOMA 3795 3807	desesperanza
+T19	SINTOMA 3848 3853	miedo
+T20	SINTOMA 4510 4527	PCRcVHC positivos
+T21	SINTOMA 5082 5093	Puntúa alto
+T22	SINTOMA 8771 8788	malestar somático
+T23	SINTOMA 9035 9062	artromialgias generalizadas
+T24	SINTOMA 9087 9101	hipocondriasis
+T25	PROCEDIMIENTO 880 911	autolíticos con benzodiazepinas
+T26	PROCEDIMIENTO 4796 4804	opiáceos
+T27	PROCEDIMIENTO 6573 6587	antidepresivos
+T28	PROCEDIMIENTO 6676 6701	ansiolíticos e hipnóticos
+T29	PROCEDIMIENTO 7327 7344	antirretrovirales
+T30	PROCEDIMIENTO 8493 8501	opiáceos
+T31	PROCEDIMIENTO 8703 8730	tratamiento antirretroviral
+T32	NEG 564 566	no
+T33	NSCO 567 578	clasificado
+T34	NEG 806 808	No
+T35	NSCO 809 827	crisis convulsivas
+T36	NEG 829 831	No
+T37	NSCO 832 865	alergias medicamentosas conocidas
+T38	NEG 1419 1422	sin
+T39	NSCO 1423 1428	hijos
+T40	NEG 1582 1584	no
+T41	NSCO 1585 1605	contributiva en 2001
+T42	NEG 1793 1795	No
+T43	NSCO 1796 1830	tiene causas judiciales pendientes
+T44	NEG 2465 2470	Nunca
+T45	NSCO 2471 2494	ha utilizado la vía i.v
+T46	NEG 2629 2632	sin
+T47	NSCO 2633 2650	más consecuencias
+T48	NEG 2713 2716	sin
+T49	NSCO 2717 2722	éxito
+T50	NEG 2951 2954	Sin
+T51	NSCO 2955 2985	lesiones aparentes ni tatuajes
+T52	NEG 3571 3573	No
+T53	NSCO 3574 3614	se objetivan trastornos sensoperceptivos
+T54	NEG 3669 3671	No
+T55	NSCO 3672 3709	tiene ideación auto ni heteroagresiva
+T56	UNC 4088 4094	parece
+T57	USCO 4095 4124	que esté casada con mi padre"
+T58	NEG 4596 4607	indicios de
+T59	NSCO 4608 4618	leucocitos
+T60	NEG 4638 4646	negativo
+T61	NEG 5636 5638	no
+T62	NSCO 5639 5650	clasificado
+T63	NEG 5937 5940	sin
+T64	NSCO 5941 5965	mención de coma hepático
+T65	NEG 6185 6188	Sin
+T66	NSCO 6189 6208	relaciones sociales
+T67	NSCO 7054 7121	Los antipsicóticos atípicos como risperidona 3 mg y olanzapina 5 mg
+T68	NEG 7697 7700	sin
+T69	NSCO 7701 7709	consumir
+T70	NEG 8156 8158	no
+T71	NSCO 8159 8229	acepta la medicación que considera de "yonki" ni tampoco la derivación
+T72	NEG 9194 9196	No
+T73	NSCO 9197 9245	acude a ningún otro recurso de drogodependencias
+T74	FARMACO 219 227	Metadona
+T75	FARMACO 2269 2280	anfetaminas
+T76	FARMACO 3152 3160	metadona
+T77	FARMACO 4807 4814	cocaína
+T78	FARMACO 6323 6331	metadona
+T79	FARMACO 6376 6384	Metadona
+T80	FARMACO 6495 6505	naltrexona
+T81	FARMACO 6593 6603	paroxetina
+T82	FARMACO 6614 6624	citalopram
+T83	FARMACO 6632 6643	mirtazapina
+T84	FARMACO 6655 6664	trazodona
+T85	FARMACO 6725 6735	alprazolam
+T86	FARMACO 6746 6756	bromazepam
+T87	FARMACO 6764 6772	diazepam
+T88	FARMACO 6782 6794	lormetazepam
+T89	FARMACO 6802 6810	zolpidem
+T90	FARMACO 6896 6907	pregabalina
+T91	FARMACO 7087 7098	risperidona
+T92	FARMACO 7106 7116	olanzapina
+T93	FARMACO 7169 7177	tiaprida
+T94	FARMACO 7261 7272	clometiazol
+T95	FARMACO 7346 7355	ritonavir
+T96	FARMACO 7367 7377	saquinavir
+T97	FARMACO 7390 7403	emtricitabina
+T98	FARMACO 7410 7419	tenofovir
+T99	FARMACO 7474 7486	escitalopram
+T100	FARMACO 7499 7507	diazepam
+T101	FARMACO 8504 8511	cocaína
+T102	ORG_VIVO 30 35	Mujer
+T103	ORG_VIVO 430 440	personales
+T104	ORG_VIVO 525 528	VIH
+T105	ORG_VIVO 932 940	hermanos
+T106	ORG_VIVO 945 950	padre
+T107	ORG_VIVO 966 982	agente comercial
+T108	ORG_VIVO 1012 1017	madre
+T109	ORG_VIVO 1031 1038	maestra
+T110	ORG_VIVO 1093 1100	hermano
+T111	ORG_VIVO 1192 1208	graduado escolar
+T112	ORG_VIVO 1264 1269	amigo
+T113	ORG_VIVO 1274 1281	hermano
+T114	ORG_VIVO 1423 1428	hijos
+T115	ORG_VIVO 1456 1463	parejas
+T116	ORG_VIVO 1611 1617	padres
+T117	ORG_VIVO 1674 1679	hijos
+T118	ORG_VIVO 1692 1697	padre
+T119	ORG_VIVO 1703 1708	madre
+T120	ORG_VIVO 1749 1754	padre
+T121	ORG_VIVO 1847 1857	familiares
+T122	ORG_VIVO 1858 1863	Padre
+T123	ORG_VIVO 1908 1915	Hermano
+T124	ORG_VIVO 1973 1980	Hermano
+T125	ORG_VIVO 2027 2038	Tío paterno
+T126	ORG_VIVO 2150 2156	tabaco
+T127	ORG_VIVO 2168 2176	cannabis
+T128	ORG_VIVO 2185 2192	hermano
+T129	ORG_VIVO 3268 3274	tabaco
+T130	ORG_VIVO 3302 3310	paciente
+T131	ORG_VIVO 3393 3400	persona
+T132	ORG_VIVO 4080 4085	madre
+T133	ORG_VIVO 4118 4123	padre
+T134	ORG_VIVO 4449 4452	VIH
+T135	ORG_VIVO 4477 4480	VIH
+T136	ORG_VIVO 4495 4498	VHC
+T137	ORG_VIVO 4546 4549	VHC
+T138	ORG_VIVO 4568 4571	VHB
+T139	ORG_VIVO 4776 4784	cannabis
+T140	ORG_VIVO 5336 5344	paciente
+T141	ORG_VIVO 5465 5473	cannabis
+T142	ORG_VIVO 5851 5896	Virus de la inmunodefi ciencia humana, tipo 2
+T143	ORG_VIVO 5898 5903	HIV-2
+T144	ORG_VIVO 6178 6183	madre
+T145	ORG_VIVO 7327 7344	antirretrovirales
+T146	ORG_VIVO 8023 8031	paciente
+T147	ORG_VIVO 8430 8438	cannabis
+T148	ORG_VIVO 8715 8730	antirretroviral
+T149	ORG_VIVO 8832 8842	familiares
+T150	ORG_VIVO 9152 9160	cannabis
+T151	ENFERMEDAD 473 528	infección por virus de la inmunodefi ciencia humana-VIH
+T152	ENFERMEDAD 544 563	trastorno depresivo
+T153	ENFERMEDAD 580 599	Pancreatitis agudas
+T154	ENFERMEDAD 637 658	tuberculosis pulmonar
+T155	ENFERMEDAD 674 682	neumonía
+T156	ENFERMEDAD 698 731	fractura vertebral lumbar cerrada
+T157	ENFERMEDAD 765 802	hepatopatía por virus de la hepatitis
+T158	ENFERMEDAD 809 827	crisis convulsivas
+T159	ENFERMEDAD 1363 1379	infección de VIH
+T160	ENFERMEDAD 1865 1886	cardiopatía isquémica
+T161	ENFERMEDAD 1889 1906	diabetes mellitus
+T162	ENFERMEDAD 1988 2014	síndrome de fatiga crónica
+T163	ENFERMEDAD 2017 2025	ansiedad
+T164	ENFERMEDAD 2053 2072	cirrosis alcohólica
+T165	ENFERMEDAD 2601 2627	fractura de columna lumbar
+T166	ENFERMEDAD 3421 3444	intoxicación alcohólica
+T167	ENFERMEDAD 3450 3481	síndrome de abstinencia opiácea
+T168	ENFERMEDAD 3587 3614	trastornos sensoperceptivos
+T169	ENFERMEDAD 4991 5019	Trastorno de la personalidad
+T170	ENFERMEDAD 5036 5080	trastorno pasivo-agresivo de la personalidad
+T171	ENFERMEDAD 5103 5141	trastorno depresivo de la personalidad
+T172	ENFERMEDAD 5144 5172	trastorno de la personalidad
+T173	ENFERMEDAD 5381 5393	DIAGNÓSTICOS
+T174	ENFERMEDAD 5394 5399	EJE I
+T175	ENFERMEDAD 5610 5635	F32.9 Trastorno depresivo
+T176	ENFERMEDAD 5666 5678	Fobia social
+T177	ENFERMEDAD 5689 5717	trastorno de ansiedad social
+T178	ENFERMEDAD 5729 5763	F60.6 Trastorno de la personalidad
+T179	ENFERMEDAD 5863 5888	inmunodefi ciencia humana
+T180	ENFERMEDAD 5917 5936	Hepatitis C crónica
+T181	ENFERMEDAD 5952 5965	coma hepático
+T182	ENFERMEDAD 5977 5998	Tuberculosis pulmonar
+T183	ENFERMEDAD 6007 6015	Neumonía
+T184	ENFERMEDAD 6024 6040	Candidiasis oral
+T185	ENFERMEDAD 6051 6069	Pancreatitis aguda
+T186	ENFERMEDAD 6108 6143	Fractura vertebra, vertebral lumbar
+T187	ENFERMEDAD 9087 9101	hipocondriasis
+T188	ENFERMEDAD 9141 9160	consumo de cannabis
+T189	FAMILIAR-PROFESION 966 982	agente comercial
+T190	FAMILIAR-SITUACION_LABORAL 1755 1763	jubilado
+T191	FAMILIAR-PROFESION 1031 1038	maestra
+T192	PACIENTE-SITUACION_LABORAL 1179 1208	fi nalizó el graduado escolar
+T193	PACIENTE-SITUACION_LABORAL 1489 1500	Desempleada
+T194	PACIENTE-PROFESION 1502 1545	ha tenido trabajos eventuales en hostelería
+T195	PACIENTE-SITUACION_LABORAL 1574 1597	pensión no contributiva

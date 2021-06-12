@@ -1,0 +1,18 @@
+
+Patológicos	O
+:	O
+no	O
+presenta	O
+hipertensión	O
+arterial	O
+,	O
+diabetes	O
+mellitus	O
+,	O
+dislipidemia	O
+ni	O
+cardiopatía	O
+ni	O
+broncopatía	O
+conocida	O
+.	O

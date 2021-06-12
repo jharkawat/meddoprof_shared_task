@@ -1,0 +1,75 @@
+T1	SINTOMA 38 59	síntomas paragripales
+T2	SINTOMA 62 73	hipertermia
+T3	SINTOMA 418 479	RT-PCR a partir de frotis nasofaríngeo dio resultado negativo
+T4	SINTOMA 521 524	tos
+T5	SINTOMA 529 535	disnea
+T6	SINTOMA 541 547	fiebre
+T7	SINTOMA 697 703	disnea
+T8	SINTOMA 705 711	fiebre
+T9	SINTOMA 713 716	tos
+T10	SINTOMA 718 729	taquicardia
+T11	SINTOMA 732 741	hipoxemia
+T12	SINTOMA 747 770	crepitantes bilaterales
+T13	SINTOMA 1078 1092	linfocitopenia
+T14	SINTOMA 1220 1269	infiltración difusa bilateral en la zona inferior
+T15	SINTOMA 1294 1336	consolidación anular en el lóbulo superior
+T16	SINTOMA 1380 1409	opacidad de vidrio esmerilado
+T17	SINTOMA 1469 1542	opacidades de vidrio esmerilado difusas bilaterales en el lóbulo inferior
+T18	SINTOMA 2611 2617	fiebre
+T19	SINTOMA 2630 2636	disnea
+T20	SINTOMA 2934 2965	opacidades de vidrio esmerilado
+T21	PROCEDIMIENTO 318 330	antibióticos
+T22	PROCEDIMIENTO 333 346	antipiréticos
+T23	PROCEDIMIENTO 352 373	pruebas hematológicas
+T24	PROCEDIMIENTO 379 399	radiografía torácica
+T25	PROCEDIMIENTO 418 424	RT-PCR
+T26	PROCEDIMIENTO 437 456	frotis nasofaríngeo
+T27	PROCEDIMIENTO 573 595	prueba mediante RT-PCR
+T28	PROCEDIMIENTO 785 805	exploración torácica
+T29	PROCEDIMIENTO 1003 1015	cánula nasal
+T30	PROCEDIMIENTO 1052 1061	hemograma
+T31	PROCEDIMIENTO 1192 1212	radiografía torácica
+T32	PROCEDIMIENTO 1274 1286	TAC torácica
+T33	PROCEDIMIENTO 1566 1592	oxigenoterapia no invasiva
+T34	PROCEDIMIENTO 2279 2293	ecocardiograma
+T35	PROCEDIMIENTO 2542 2557	pruebas víricas
+T36	PROCEDIMIENTO 2715 2736	transfusión de plasma
+T37	PROCEDIMIENTO 2849 2861	cánula nasal
+T38	PROCEDIMIENTO 2866 2886	radiografía torácica
+T39	PROCEDIMIENTO 2970 2982	TAC torácica
+T40	PROCEDIMIENTO 3112 3118	RT-PCR
+T41	NEG 471 479	negativo
+T42	NEG 1581 1583	no
+T43	NSCO 1584 1592	invasiva
+T44	NEG 2990 3006	desaparición del
+T45	NSCO 3007 3022	derrame pleural
+T46	NEG 3164 3172	negativo
+T47	FARMACO 172 181	Valsartan
+T48	FARMACO 871 878	oxígeno
+T49	FARMACO 1594 1603	meronepem
+T50	FARMACO 1745 1762	hidroxicloroquina
+T51	FARMACO 1843 1854	enoxaparina
+T52	FARMACO 1882 1895	acetaminofeno
+T53	FARMACO 1910 1919	valsartan
+T54	FARMACO 1939 1949	amlodipina
+T55	FARMACO 2054 2061	oxígeno
+T56	FARMACO 2393 2453	suero de convaleciente de un paciente recuperado de COVID-19
+T57	ORG_VIVO 4 10	hombre
+T58	ORG_VIVO 249 257	personas
+T59	ORG_VIVO 273 281	paciente
+T60	ORG_VIVO 614 625	SARS-CoV-19
+T61	ORG_VIVO 641 649	paciente
+T62	ORG_VIVO 1557 1565	paciente
+T63	ORG_VIVO 1985 1993	paciente
+T64	ORG_VIVO 2366 2374	paciente
+T65	ORG_VIVO 2422 2430	paciente
+T66	ORG_VIVO 2516 2523	donante
+T67	ORG_VIVO 2550 2557	víricas
+T68	ORG_VIVO 2581 2589	paciente
+T69	ORG_VIVO 3027 3035	paciente
+T70	ENFERMEDAD 123 135	hipertensión
+T71	ENFERMEDAD 600 625	positiva para SARS-CoV-19
+T72	ENFERMEDAD 1441 1456	derrame pleural
+T73	ENFERMEDAD 2445 2453	COVID-19
+T74	ENFERMEDAD 3007 3022	derrame pleural
+T75	PACIENTE-PROFESION 183 199	Tenía una tienda

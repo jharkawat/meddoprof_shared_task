@@ -1,0 +1,17 @@
+
+Respiratorio	O
+:	O
+Buena	O
+entrada	O
+bilateral	O
+de	O
+aire	O
+,	O
+murmullo	O
+vesicular	O
+conservado	O
+,	O
+sin	O
+ruidos	O
+agregados	O
+.	O

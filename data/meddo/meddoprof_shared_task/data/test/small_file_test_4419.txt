@@ -1,0 +1,8 @@
+
+Se	O
+realiza	O
+cepillado	O
+y	O
+lavado	O
+broncoalveolar	O
+.	O

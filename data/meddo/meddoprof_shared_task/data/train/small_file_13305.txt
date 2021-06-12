@@ -1,0 +1,16 @@
+
+Se	O
+suspendió	O
+la	O
+anticoagulación	O
+y	O
+se	O
+inició	O
+tratamiento	O
+con	O
+betabloqueantes	O
+como	O
+profilaxis	O
+del	O
+resangrado	O
+.	O

@@ -1,0 +1,15 @@
+
+Mujer	O
+de	O
+44	O
+años	O
+pre	O
+menopáusica	O
+sin	O
+antecedentes	O
+médico	O
+-	O
+quirúrgicos	O
+de	O
+interés	O
+.	O

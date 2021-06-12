@@ -1,0 +1,223 @@
+T1	SINTOMA 56 62	fiebre
+T2	SINTOMA 65 81	malestar general
+T3	SINTOMA 279 286	Fumador
+T4	SINTOMA 327 334	bebedor
+T5	SINTOMA 706 712	fiebre
+T6	SINTOMA 847 858	escalofríos
+T7	SINTOMA 860 878	sudoración profusa
+T8	SINTOMA 889 907	delirios nocturnos
+T9	SINTOMA 930 937	astenia
+T10	SINTOMA 939 972	debilidad generalizada progresiva
+T11	SINTOMA 975 990	pérdida de peso
+T12	SINTOMA 1144 1158	dolor faríngeo
+T13	SINTOMA 1161 1182	molestias abdominales
+T14	SINTOMA 1215 1235	distensión abdominal
+T15	SINTOMA 1246 1254	tos seca
+T16	SINTOMA 1259 1272	expectoración
+T17	SINTOMA 1276 1282	disnea
+T18	SINTOMA 1325 1341	hábito tabáquico
+T19	SINTOMA 1406 1430	estabilidad hemodinámica
+T20	SINTOMA 1450 1461	hipotensión
+T21	SINTOMA 1541 1560	buen estado general
+T22	SINTOMA 1574 1591	rubicundez facial
+T23	SINTOMA 1627 1637	Consciente
+T24	SINTOMA 1640 1649	orientado
+T25	SINTOMA 2027 2033	edemas
+T26	SINTOMA 3132 3145	hepatomegalia
+T27	SINTOMA 3226 3232	fiebre
+T28	SINTOMA 3272 3292	hepatoesplenomegalia
+T29	SINTOMA 3419 3425	fiebre
+T30	SINTOMA 4201 4207	fiebre
+T31	SINTOMA 4210 4220	citopenias
+T32	SINTOMA 4586 4592	fiebre
+T33	SINTOMA 4594 4604	citopenias
+T34	SINTOMA 4607 4621	esplenomegalia
+T35	SINTOMA 6348 6354	fiebre
+T36	SINTOMA 6463 6472	apirético
+T37	SINTOMA 6566 6572	fiebre
+T38	SINTOMA 6577 6607	elevación de enzimas hepáticas
+T39	SINTOMA 6610 6620	citopenias
+T40	SINTOMA 6805 6811	fiebre
+T41	SINTOMA 7066 7072	fiebre
+T42	SINTOMA 7123 7133	citopenias
+T43	PROCEDIMIENTO 255 266	analgésicos
+T44	PROCEDIMIENTO 1080 1112	anamnesis por órganos y aparatos
+T45	PROCEDIMIENTO 1350 1368	exploración física
+T46	PROCEDIMIENTO 1661 1684	exploración neurológica
+T47	PROCEDIMIENTO 1866 1898	auscultación cardiorrespiratoria
+T48	PROCEDIMIENTO 2152 2161	hemograma
+T49	PROCEDIMIENTO 2789 2816	frotis de sangre periférica
+T50	PROCEDIMIENTO 2951 2954	ECG
+T51	PROCEDIMIENTO 2956 2976	radiografía de tórax
+T52	PROCEDIMIENTO 3030 3059	radiografía simple de abdomen
+T53	PROCEDIMIENTO 3102 3121	ecografía abdominal
+T54	PROCEDIMIENTO 5848 5868	TAC toraco-abdominal
+T55	PROCEDIMIENTO 6056 6089	punción-aspiración de médula ósea
+T56	PROCEDIMIENTO 6498 6510	hemocultivos
+T57	PROCEDIMIENTO 6918 6931	esplenectomía
+T58	PROCEDIMIENTO 7287 7314	PCR para Leishmania en bazo
+T59	NEG 124 126	no
+T60	NSCO 127 200	tenía antecedentes médico-quirúrgicos familiares ni personales de interés
+T61	NEG 457 460	sin
+T62	NSCO 461 466	hijos
+T63	NEG 589 591	no
+T64	NSCO 592 659	había realizado viajes internacionales recientes ni tenido contacto
+T65	NEG 991 993	no
+T66	NSCO 994 1022	ponderada desde hacía un año
+T67	NEG 1183 1196	inespecíficas
+T68	NEG 1255 1258	sin
+T69	NSCO 1259 1301	expectoración ni disnea de larga evolución
+T70	UNC 1685 1699	compatible con
+T71	USCO 1700 1713	la normalidad
+T72	NEG 1743 1746	sin
+T73	NSCO 1747 1754	exudado
+T74	NEG 1757 1759	no
+T75	NSCO 1760 1861	se palpaban adenopatías laterocervicales, preauriculares ni supraclaviculares, axilares ni inguinales
+T76	UNC 1903 1917	compatible con
+T77	USCO 1918 1931	la normalidad
+T78	NEG 1985 1987	no
+T79	NSCO 1988 1996	dolorosa
+T80	NEG 2018 2020	no
+T81	NSCO 2021 2091	había edemas, signos de TVP, lesiones en piel ni estigmas de picaduras
+T82	UNC 2817 2831	compatible con
+T83	USCO 2832 2845	la normalidad
+T84	NEG 3457 3459	no
+T85	NSCO 3460 3517	es infrecuente en un Servicio de Enfermedades Infecciosas
+T86	NEG 3636 3638	no
+T87	NSCO 3639 3673	podremos olvidar otras misceláneas
+T88	UNC 3800 3820	habría que descartar
+T89	USCO 3821 3838	infección por VIH
+T90	NEG 3956 3965	descartar
+T91	NSCO 3966 4021	la enfermedad por micobacterias (tuberculosa y atípicas
+T92	UNC 4802 4810	probable
+T93	USCO 4810 4894	, también debemos pensar en descartar las enfermedades autoinmunes o conectivopatías
+T94	UNC 5094 5100	podría
+T95	USCO 5101 5166	corresponder con un síndrome de linfohistiocitosis hemofagocítica
+T96	UNC 5181 5189	probable
+T97	USCO 5189 5190	,
+T98	UNC 5191 5198	tampoco
+T99	USCO 5199 5201	se
+T100	UNC 5202 5218	podría descartar
+T101	USCO 5219 5277	una histiocitosis o la hemoglobinuria paroxística nocturna
+T102	NEG 5667 5676	negativas
+T103	NEG 5727 5735	negativa
+T104	NEG 5793 5801	negativo
+T105	NEG 5923 5926	sin
+T106	NSCO 5927 6016	evidenciarse alteraciones pleuro-pulmonares, mediastínicas, LOES hepáticas ni adenopatías
+T107	NEG 6097 6109	inespecífica
+T108	NEG 6117 6119	no
+T109	NSCO 6120 6241	se observaron fenómenos de hemofagocitosis, parásitos, displasia, datos de mielofibrosis ni infiltrado celular patológico
+T110	NEG 6543 6552	negativos
+T111	NEG 6681 6690	se retiró
+T112	NSCO 6691 6702	a la semana
+T113	NEG 6707 6709	no
+T114	NSCO 6710 6738	evidenciarse mejoría ninguna
+T115	NEG 6748 6759	ausencia de
+T116	NSCO 6760 6771	diagnóstico
+T117	UNC 6940 6951	sospecha de
+T118	USCO 6952 6989	síndrome linfoproliferativo esplénico
+T119	NEG 7514 7517	sin
+T120	NSCO 7518 7529	recurrencia
+T121	FARMACO 243 252	omeprazol
+T122	FARMACO 6665 6676	doxiciclina
+T123	FARMACO 7365 7389	anfotericina B liposomal
+T124	ORG_VIVO 0 8	Paciente
+T125	ORG_VIVO 115 123	paciente
+T126	ORG_VIVO 165 175	familiares
+T127	ORG_VIVO 179 189	personales
+T128	ORG_VIVO 392 397	madre
+T129	ORG_VIVO 447 454	soltero
+T130	ORG_VIVO 461 466	hijos
+T131	ORG_VIVO 551 559	animales
+T132	ORG_VIVO 561 567	cabras
+T133	ORG_VIVO 569 575	perros
+T134	ORG_VIVO 578 586	gallinas
+T135	ORG_VIVO 815 828	bacteriémicas
+T136	ORG_VIVO 1386 1394	paciente
+T137	ORG_VIVO 3406 3414	paciente
+T138	ORG_VIVO 3738 3753	microorganismos
+T139	ORG_VIVO 3793 3798	virus
+T140	ORG_VIVO 3854 3857	VHS
+T141	ORG_VIVO 3859 3862	VEB
+T142	ORG_VIVO 3864 3867	CMV
+T143	ORG_VIVO 3869 3872	VH6
+T144	ORG_VIVO 3876 3890	Parvovirus B19
+T145	ORG_VIVO 3932 3942	bacteriana
+T146	ORG_VIVO 3984 3997	micobacterias
+T147	ORG_VIVO 3998 4010	(tuberculosa
+T148	ORG_VIVO 4011 4022	y atípicas)
+T149	ORG_VIVO 4108 4117	Anaplasma
+T150	ORG_VIVO 4119 4128	Ehrlichia
+T151	ORG_VIVO 4237 4246	parásitos
+T152	ORG_VIVO 4573 4581	paciente
+T153	ORG_VIVO 5365 5373	paciente
+T154	ORG_VIVO 5585 5603	virus hepatotrópos
+T155	ORG_VIVO 5605 5608	VIH
+T156	ORG_VIVO 5610 5624	Parvovirus B19
+T157	ORG_VIVO 5626 5629	VHS
+T158	ORG_VIVO 5631 5634	VH6
+T159	ORG_VIVO 5636 5640	lúes
+T160	ORG_VIVO 5643 5651	Brucella
+T161	ORG_VIVO 5694 5697	CMV
+T162	ORG_VIVO 5700 5703	VEB
+T163	ORG_VIVO 5762 5776	Leishmania spp
+T164	ORG_VIVO 6164 6173	parásitos
+T165	ORG_VIVO 6276 6284	paciente
+T166	ORG_VIVO 6781 6789	paciente
+T167	ORG_VIVO 7016 7024	paciente
+T168	ORG_VIVO 7296 7306	Leishmania
+T169	ORG_VIVO 7340 7348	paciente
+T170	ENFERMEDAD 1325 1341	hábito tabáquico
+T171	ENFERMEDAD 1772 1800	adenopatías laterocervicales
+T172	ENFERMEDAD 2045 2048	TVP
+T173	ENFERMEDAD 2166 2178	pancitopenia
+T174	ENFERMEDAD 2474 2494	colestasis disociada
+T175	ENFERMEDAD 2651 2657	anemia
+T176	ENFERMEDAD 3132 3145	hepatomegalia
+T177	ENFERMEDAD 3257 3269	pancitopenia
+T178	ENFERMEDAD 3272 3292	hepatoesplenomegalia
+T179	ENFERMEDAD 3322 3346	Enfermedades Infecciosas
+T180	ENFERMEDAD 3427 3439	pancitopenia
+T181	ENFERMEDAD 3442 3456	esplenomegalia
+T182	ENFERMEDAD 3493 3517	Enfermedades Infecciosas
+T183	ENFERMEDAD 3689 3711	etiologías infecciosas
+T184	ENFERMEDAD 3821 3838	infección por VIH
+T185	ENFERMEDAD 3840 3852	herpes virus
+T186	ENFERMEDAD 3969 3997	enfermedad por micobacterias
+T187	ENFERMEDAD 3999 4010	tuberculosa
+T188	ENFERMEDAD 4068 4106	infección por bacterias intracelulares
+T189	ENFERMEDAD 4145 4174	sepsis por bacterias piógenas
+T190	ENFERMEDAD 4210 4220	citopenias
+T191	ENFERMEDAD 4272 4318	infección por malaria, Toxoplasma o Leishmania
+T192	ENFERMEDAD 4340 4371	enfermedades onco-hematológicas
+T193	ENFERMEDAD 4422 4469	tumor de órgano sólido con infiltración medular
+T194	ENFERMEDAD 4486 4512	enfermedades hematológicas
+T195	ENFERMEDAD 4594 4604	citopenias
+T196	ENFERMEDAD 4607 4621	esplenomegalia
+T197	ENFERMEDAD 4652 4681	enfermedad linfoproliferativa
+T198	ENFERMEDAD 4701 4718	linfoma esplénico
+T199	ENFERMEDAD 4724 4737	tricoleucemia
+T200	ENFERMEDAD 4743 4756	mielofibrosis
+T201	ENFERMEDAD 4762 4786	síndrome mielodisplásico
+T202	ENFERMEDAD 4852 4876	enfermedades autoinmunes
+T203	ENFERMEDAD 4879 4894	conectivopatías
+T204	ENFERMEDAD 4914 4941	lupus eritematoso sistémico
+T205	ENFERMEDAD 4946 4957	sarcoidosis
+T206	ENFERMEDAD 4990 5010	artritis reumatoidea
+T207	ENFERMEDAD 5019 5036	síndrome de Felty
+T208	ENFERMEDAD 5121 5166	síndrome de linfohistiocitosis hemofagocítica
+T209	ENFERMEDAD 5223 5236	histiocitosis
+T210	ENFERMEDAD 5242 5277	hemoglobinuria paroxística nocturna
+T211	ENFERMEDAD 5987 6001	LOES hepáticas
+T212	ENFERMEDAD 6005 6016	adenopatías
+T213	ENFERMEDAD 6147 6162	hemofagocitosis
+T214	ENFERMEDAD 6195 6208	mielofibrosis
+T215	ENFERMEDAD 6610 6620	citopenias
+T216	ENFERMEDAD 6952 6989	síndrome linfoproliferativo esplénico
+T217	ENFERMEDAD 7123 7133	citopenias
+T218	ENFERMEDAD 7216 7231	hemofagocitosis
+T219	ENFERMEDAD 7577 7610	Linfohistiocitosis hemofagocítica
+T220	ENFERMEDAD 7612 7615	LHH
+T221	ENFERMEDAD 7630 7643	leishmaniasis
+T222	PACIENTE-PROFESION 468 498	Se dedicaba a tareas agrícolas
+T223	PACIENTE-PROFESION 468 510	Se dedicaba a tareas agrícolas y ganaderas

@@ -1,0 +1,25 @@
+
+Historia	O
+Clínica	O
+:	O
+Paciente	O
+de	O
+38	O
+años	O
+que	O
+presentaba	O
+como	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+:	O
+sin	O
+hábitos	O
+tóxicos	O
+ni	O
+factores	O
+de	O
+riesgo	O
+cardiovascular	O
+.	O

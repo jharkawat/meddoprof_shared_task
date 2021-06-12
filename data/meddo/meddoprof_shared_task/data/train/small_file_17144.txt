@@ -1,0 +1,23 @@
+
+Actualmente	O
+la	O
+paciente	O
+presenta	O
+únicamente	O
+sus	O
+crisis	O
+de	O
+cefalea	O
+habituales	O
+hemicraneales	O
+izquierdas	O
+de	O
+características	O
+migrañosas	O
+leves	O
+que	O
+calma	O
+con	O
+analgesia	O
+habitual	O
+.	O

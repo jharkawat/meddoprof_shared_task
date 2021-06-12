@@ -1,0 +1,24 @@
+
+Niño	O
+de	O
+diez	O
+años	O
+que	O
+acude	O
+a	O
+su	O
+centro	O
+de	O
+salud	O
+para	O
+valoración	O
+por	O
+cambios	O
+de	O
+conducta	O
+de	O
+seis	O
+meses	O
+de	O
+evolución	O
+.	O

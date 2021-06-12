@@ -1,0 +1,10 @@
+
+Paciente	O
+consciente	O
+y	O
+orientada	O
+en	O
+tiempo	O
+y	O
+espacio	O
+.	O

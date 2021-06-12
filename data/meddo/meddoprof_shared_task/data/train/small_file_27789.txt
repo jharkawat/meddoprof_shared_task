@@ -1,0 +1,10 @@
+
+No	O
+se	O
+registra	O
+actividad	O
+epileptiforme	O
+ni	O
+eventos	O
+ictales	O
+.	O

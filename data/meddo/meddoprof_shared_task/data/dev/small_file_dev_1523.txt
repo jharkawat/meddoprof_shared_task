@@ -1,0 +1,6 @@
+
+No	O
+signos	O
+inflamatorios	O
+adyacentes	O
+.	O

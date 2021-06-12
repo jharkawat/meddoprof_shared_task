@@ -1,0 +1,17 @@
+
+Acude	O
+a	O
+urgencias	O
+por	O
+presentar	O
+fiebre	O
+vespertina	O
+de	O
+5	O
+días	O
+de	O
+evolución	O
+de	O
+hasta	O
+40oC	O
+.	O

@@ -1,0 +1,20 @@
+
+Según	O
+refería	O
+no	O
+le	O
+dio	O
+más	O
+importancia	O
+porque	O
+fueron	O
+justificado	O
+de	O
+manera	O
+superficial	O
+como	O
+infartos	O
+agudos	O
+no	O
+prevenibles	O
+.	O

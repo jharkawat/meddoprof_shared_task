@@ -1,0 +1,23 @@
+
+Refería	O
+cefalea	O
+holocraneal	O
+desde	O
+el	O
+inicio	O
+de	O
+la	O
+gestación	O
+,	O
+que	O
+se	O
+acentuaba	O
+con	O
+esfuerzo	O
+físico	O
+y	O
+cedía	O
+parcialmente	O
+con	O
+paracetamol	O
+.	O

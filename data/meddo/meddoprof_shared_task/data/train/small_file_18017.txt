@@ -1,0 +1,26 @@
+
+La	O
+presión	O
+intraocular	O
+(	O
+PIO	O
+)	O
+era	O
+de	O
+15	O
+mmHg	O
+y	O
+de	O
+17	O
+mmHg	O
+en	O
+supraducción	O
+del	O
+OD	O
+y	O
+14	O
+mmHg	O
+en	O
+el	O
+OI	O
+.	O

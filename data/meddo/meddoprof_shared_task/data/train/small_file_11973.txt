@@ -1,0 +1,21 @@
+
+Ventrículo	O
+derecho	O
+ligeramente	O
+dilatado	O
+a	O
+nivel	O
+apical	O
+con	O
+función	O
+sistólica	O
+normal	O
+en	O
+segmentos	O
+basales	O
+(	O
+TAPSE	O
+:	O
+18	O
+)	O
+.	O

@@ -1,0 +1,19 @@
+
+El	O
+inicio	O
+de	O
+la	O
+sintomatología	O
+fue	O
+brusco	O
+,	O
+sin	O
+dolor	O
+asociado	O
+,	O
+y	O
+se	O
+produjo	O
+en	O
+reposo	O
+.	O

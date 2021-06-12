@@ -1,0 +1,37 @@
+Motivo de consulta
+Nerviosismo y desorientación.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: varón de 86 años con los siguientes antecedentes personales: Alergias medicamentosas: Levofloxacino, Celecoxib, Tramadol.
+Hábitos tóxicos: exfumador desde 1995. No bebedor.
+Sin factores de riesgo cardiovascular.
+Hernia de hiato y pangastritis crónica.
+Tratamiento: Esomeprazol, Cleboprida/Simeticona, Sulpirida, Lorazepam.
+
+Acude a urgencias traído por su hija porque ésta refiere que desde hace una semana encuentra a su padre más intranquilo y desorientado, con pérdida de fuerza generalizada y alteración del equilibrio. Debido a esto, ha comenzado a necesitar ayuda para las actividades básicas de la vida diaria (ABVD). Además, refiere incontinencia de esfínteres de reciente aparición. Niega traumatismo craneoencefálico previo.
+
+Exploración:
+Constantes: TA 119/99 mmHg, FC 100 lpm, SatO2 99%. Afebril.
+ACR: Rítmico a buena frecuencia y sin soplos audibles. Murmullo vesicular conservado sin ruidos patológicos.
+Abdomen: blando y depresible. Ruidos hidroaéreos conservados. No se palpan masas ni megalias. No doloroso a la palpación. Murphy y Blumberg negativos. No signos de peritonismo.
+Miembros inferiores: sin edemas, ni signos de trombosis venosa ni flebitis.
+Exploración neurológica: consciente con desorientación temporo-espacial. Pupilas isocóricas y normorreactivas. Movimientos oculares extrínsecos conservados. Pares craneales sin alteraciones. Marcha lenta e inestable con escaso braceo. Fuerza y tono muscular disminuidos en los cuatro miembros (4/5), así como rigidez articular. Sensibilidad conservada.
+Pulsos simétricos y conservados en los cuatro miembros.
+
+Pruebas complementarias:
+Analítica:
+Hemograma: Normal en las tres series
+Bioquímica: Glucosa, urea, iones, creatinina y proteína C reactiva normales. Sistemático de orina: Normal
+TAC cráneo: atrofia cortical sin datos de patología aguda.
+Se decide ingresar en planta de Neurología para ampliar estudio. La analítica solicitada, que incluía vitamina B12, ácido fólico y serología, fue normal. La resonancia magnética de cráneo mostró una atrofia cortico-subcortical y leucoaraiosis. El electroencefalograma no mostró hallazgos significativos. Durante su ingreso la evolución fue favorable, posiblemente en relación con la retirada de varios de los tratamientos previos.
+
+Enfoque familiar y comunitario
+Es viudo desde hace 4 años, vive solo, trabaja en el campo y hasta ahora era independiente para ABVD. Tiene dos hijas que viven en el mismo pueblo que él y le visitan semanalmente.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Tras descartar otras causas, se sospechó que el paciente padecía una encefalopatía tóxica en relación con los fármacos que tomaba (Sulpirida, Lorazepam, Cleboprida/Simeticona), ya que pueden afectar al sistema nervioso y provocar síntomas extrapiramidales o cuadros de desorientación y agitación, sobre todo en niños y ancianos, como es nuestro caso.
+Diagnóstico diferencial: hidrocefalia normotensiva del adulto, enfermedad de Alzheimer, enfermedad de Parkinson, infección (urinaria, respiratoria...)
+
+Plan de acción y evolución
+El paciente fue dado de alta, añadiendo Trazodona 100 mg en la cena y Citicolina 1 gr en el almuerzo. Además, se le proporcionó una cita en consultas externas de Neurología a los 6 meses.
+Evolución: en la revisión con Neurología el paciente negó nuevos episodios de desorientación, agitación o limitaciones de la marcha. Sin embargo, la familia refiere que últimamente le notan pérdidas de memoria reciente y con problemas para gestionar su dinero. Además, ha dejado de conducir porque refiere no acordarse de cómo se arranca el coche. Posiblemente se encuentre en una fase inicial de Alzheimer, por lo que tras descartar alteraciones en el EKG se inicia tratamiento con Donepezilo 5 mg al día durante 1 mes y posteriormente aumentará la dosis a 10 mg al día.

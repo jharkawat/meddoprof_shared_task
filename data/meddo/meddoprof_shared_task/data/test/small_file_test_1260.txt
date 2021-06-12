@@ -1,0 +1,22 @@
+
+Se	O
+le	O
+realizó	O
+hisopado	O
+control	O
+posterior	O
+a	O
+16	O
+días	O
+de	O
+aislamiento	O
+domiciliario	O
+,	O
+con	O
+resultado	O
+negativo	O
+para	O
+COVID	O
+-	O
+19	O
+.	O

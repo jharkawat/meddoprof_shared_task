@@ -1,0 +1,15 @@
+
+En	O
+la	O
+dermis	O
+superficial	O
+existen	O
+infiltrados	O
+perivasculares	O
+linfocitarios	O
+,	O
+acompañados	O
+de	O
+ocasionales	O
+melanófagos	O
+.	O

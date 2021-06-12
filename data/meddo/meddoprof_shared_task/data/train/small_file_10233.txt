@@ -1,0 +1,13 @@
+
+NOTA	O
+:	O
+Concordante	O
+con	O
+metástasis	O
+por	O
+Enfermedad	O
+de	O
+Paget	O
+previamente	O
+infiltrante	O
+.	O

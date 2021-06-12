@@ -1,0 +1,7 @@
+
+Embarazo	O
+:	O
+No	O
+recuerda	O
+datos	O
+.	O

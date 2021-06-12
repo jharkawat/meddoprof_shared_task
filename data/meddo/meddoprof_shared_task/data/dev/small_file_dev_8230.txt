@@ -1,0 +1,22 @@
+
+Niega	O
+cefalea	O
+,	O
+nauseas	O
+o	O
+vómitos	O
+,	O
+y	O
+no	O
+presenta	O
+otra	O
+sintomatología	O
+asociada	O
+en	O
+la	O
+anamnesis	O
+por	O
+órganos	O
+y	O
+aparatos	O
+.	O

@@ -1,0 +1,12 @@
+
+Dos	O
+lesiones	O
+hipodensas	O
+esplénicas	O
+en	O
+probable	O
+relación	O
+con	O
+infiltración	O
+linfomatosa	O
+.	O

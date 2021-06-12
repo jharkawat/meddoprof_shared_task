@@ -1,0 +1,27 @@
+
+En	O
+la	O
+PAAF	O
+se	O
+visualizaron	O
+células	O
+atípicas	O
+,	O
+con	O
+inmunohistoquímica	O
+negativa	O
+para	O
+células	O
+mesoteliales	O
+y	O
+positiva	O
+para	O
+marcadores	O
+epiteliales	O
+,	O
+sugiriendo	O
+la	O
+presencia	O
+de	O
+adenocarcinoma	O
+.	O

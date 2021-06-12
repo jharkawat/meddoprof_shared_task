@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 37 años. Antecedentes personales: no alergias medicamentosas. No factores de riesgo cardiovascular. No enfermedad cardiopulmonar, péptica ni renal conocida. Cefalea tensional episódica. No cirugías previas. Barrera idiomática. Marroquí. Al menos 7 años viviendo en España. Fumador 2 cigarrillos/día, no hábito enólico. Situación basal: adecuada a su edad. Trabajador agrícola. El paciente ingresa por un cuadro clínico de 3 semanas de evolución consistente en cefalea periocular derecha fluctuante, punzante, sin asociar náuseas ni vómitos, con fotofobia y sonofobia, de intensidad moderada, que asocia déficit altitudinal superior en el ojo derecho, de inicio subagudo y curso estable, y episodios de visión borrosa global de 5 minutos de duración. No ha tomado tratamiento analgésico. No lesión traumática. No signos disautonómicos oculares. No enfermedad intercurrente.
+
+Examen físico
+Exploración física general: tensión arterial 150/90 mmHg. Frecuencia cardiaca 60 lpm. Afebril. Pulsos temporales simétricos, arterias temporales no engrosadas. No soplos carotídeos. Auscultación cardiopulmonar: rítmico, sin soplos. Murmullo vesicular conservado. Abdomen: blando y depresible, no doloroso. Sin masas ni visceromegalias. Extremidades: sin edemas, pulsos periféricos presentes y simétricos. Exploración neurológica: nivel y contenido de consciencia normales. Lenguaje fluente, sin elementos afásicos ni disartria. Pupilas de forma irregular (ovaladas), levemente reactivas de forma simétrica bilateral. Agudeza visual: ojo izquierdo conservada (distingue dedos a cualquier distancia). Ojo derecho: distingue dedos a 30 cm, presentando déficit altitudinal superior a mayor distancia. Campimetría por confrontación: ojo izquierdo normal. Ojo derecho: déficit altitudinal superior. Fondo de ojo bilateral normal. Leucoma corneal izquierdo. Resto de pares craneales sin focalidad. Fuerza y sensibilidad normales. No alteración de la coordinación. Marcha normal. Romberg negativo.
+
+Pruebas complementarias
+• Analítica: normal, incluyendo hemograma, hormonas tiroideas, perfil hepático y lipídico, vitamina B12 y folato. Autoinmunidad: normal, incluyendo ANA, anti-DNA, ANOE, ANCA, anticoagulante lúpico. HLA DR4 positivo.
+• Resonancia magnética (RM) cerebral: sin alteraciones significativas.
+• Exploración oftalmológica: Tyndall en cámara anterior y vítreo. Retina con aspecto edematoso en el ojo derecho, de predominio perifoveal y peripapilar.
+• Angiografía fluoresceínica: se objetivan puntos de fuga con paso de contraste en tiempo arterio-venoso. Patrón "en cielo estrellado" en ambos ojos.
+• Tomografía de coherencia óptica (OCT): múltiples desprendimientos de la capa neurosensorial de la retina en ambos ojos, los más importantes a nivel perifoveal y peripapilar.
+• Potenciales evocados visuales: reducción en la amplitud de la onda P100 obtenida tras la estimulación del ojo derecho sugestiva de una neuropatía óptica axonal en dicho ojo.
+• Punción lumbar: líquido claro, con presión de apertura normal. Bioquímica de líquido cefalorraquídeo: leucocitos 25 (96% linfocitos, 4% neutrófilos). Hematíes 15. Glucosa 107. Proteínas 26. Cultivo de líquido cefalorraquídeo: negativo.
+
+Diagnóstico
+Ante un paciente joven, sin factores de riesgo vascular, en el que encontramos una panuveítis bilateral, con meningitis linfocitaria, se plantea diagnóstico diferencial con causas de uveomeningitis con diagnóstico de síndrome de Vogt-Koyanagi-Harada incompleto.
+
+Tratamiento
+Se administraron 5 bolos de metilprednisolona intravenosa, con mejoría evidente de la cefalea y la agudeza visual. Posteriormente se continuó con prednisona 1 mg/kg/día.
+
+Evolución
+Se revisó a los 2 meses del cuadro, con realización de una nueva OCT, con desaparición de los desprendimientos exudativos de retina multifocales que presentaba el paciente. Desprendimiento de capa neurosensorial de la retina. Tomografía de coherencia óptica del ojo derecho antes y después del tratamiento con corticoides. Se realizó disminución progresiva de corticoides, hasta mantenerlo con 30 mg de prednisona al día.

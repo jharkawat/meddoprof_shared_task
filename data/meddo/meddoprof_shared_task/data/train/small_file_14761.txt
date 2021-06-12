@@ -1,0 +1,10 @@
+
+Ecocardiograma	O
+transtorácico	O
+con	O
+signos	O
+de	O
+disfunción	O
+ventricular	O
+derecha	O
+.	O

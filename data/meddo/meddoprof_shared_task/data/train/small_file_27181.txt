@@ -1,0 +1,23 @@
+
+En	O
+las	O
+primeras	O
+entrevistas	O
+comunicación	O
+centrada	O
+en	O
+la	O
+sintomatología	O
+del	O
+paciente	O
+y	O
+desviación	O
+única	O
+al	O
+síntoma	O
+conversivo	O
+de	O
+todo	O
+conflicto	O
+familiar	O
+.	O

@@ -1,0 +1,11 @@
+
+Hepatopatía	O
+crónica	O
+secundaria	O
+a	O
+esquistosomiasis	O
+y	O
+hepatitis	O
+B	O
+oculta	O
+.	O

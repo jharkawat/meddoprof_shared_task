@@ -1,0 +1,20 @@
+
+A	O
+su	O
+llegada	O
+a	O
+Urgencias	O
+presenta	O
+un	O
+eritema	O
+en	O
+antebrazos	O
+,	O
+que	O
+desaparece	O
+tras	O
+la	O
+administración	O
+de	O
+corticoides	O
+.	O

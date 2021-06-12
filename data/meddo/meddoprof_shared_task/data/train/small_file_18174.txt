@@ -1,0 +1,6 @@
+
+No	O
+mancha	O
+verde	O
+abdominal	O
+.	O

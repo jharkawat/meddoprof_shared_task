@@ -1,0 +1,25 @@
+
+Preocupación	O
+y	O
+temor	O
+excesivo	O
+a	O
+dañarse	O
+a	O
+si	O
+misma	O
+o	O
+a	O
+sus	O
+familiares	O
+y	O
+a	O
+estar	O
+haciendo	O
+algo	O
+embarazoso	O
+o	O
+decir	O
+algo	O
+erróneo	O
+.	O

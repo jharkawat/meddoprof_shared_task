@@ -1,0 +1,19 @@
+
+Pletismografía	O
+con	O
+prueba	O
+de	O
+difusión	O
+pulmonar	O
+de	O
+monóxido	O
+de	O
+carbono	O
+:	O
+DLCO	O
+por	O
+debajo	O
+de	O
+lo	O
+normal	O
+.	O

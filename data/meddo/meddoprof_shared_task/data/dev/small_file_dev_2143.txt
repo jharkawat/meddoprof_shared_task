@@ -1,0 +1,12 @@
+
+El	O
+diagnóstico	O
+inicial	O
+en	O
+el	O
+ingreso	O
+fue	O
+de	O
+trastorno	O
+esquizofreniforme	O
+.	O

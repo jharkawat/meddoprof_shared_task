@@ -1,0 +1,13 @@
+
+Diagnosticado	O
+al	O
+nacimiento	O
+de	O
+Síndrome	O
+de	O
+Kartagener	O
+con	O
+situs	O
+inversus	O
+total	O
+.	O

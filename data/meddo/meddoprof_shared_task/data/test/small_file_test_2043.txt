@@ -1,0 +1,6 @@
+
+Movimientos	O
+oculares	O
+extrínsecos	O
+conservados	O
+.	O

@@ -1,0 +1,11 @@
+
+Auscultación	O
+cardiopulmonar	O
+:	O
+murmullo	O
+vesicular	O
+disminuido	O
+de	O
+forma	O
+generalizada	O
+.	O

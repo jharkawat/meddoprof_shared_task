@@ -1,0 +1,13 @@
+
+Acude	O
+con	O
+periodicidad	O
+normal	O
+a	O
+revisiones	O
+de	O
+Cardiología	O
+y	O
+Cirugía	O
+Cardiovascular	O
+.	O

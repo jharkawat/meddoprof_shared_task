@@ -1,0 +1,15 @@
+
+En	O
+Urgencias	O
+se	O
+realizó	O
+analítica	O
+sanguínea	O
+,	O
+radiografía	O
+de	O
+tórax	O
+y	O
+TC	O
+craneal	O
+.	O

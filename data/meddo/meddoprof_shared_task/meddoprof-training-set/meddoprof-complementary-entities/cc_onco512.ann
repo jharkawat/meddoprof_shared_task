@@ -1,0 +1,137 @@
+T1	SINTOMA 292 301	fallecido
+T2	SINTOMA 867 884	tumoración axilar
+T3	SINTOMA 1860 1892	deterioro de la función hepática
+T4	SINTOMA 1960 1993	alteración de la función hepática
+T5	SINTOMA 2214 2230	temblor de manos
+T6	SINTOMA 2244 2254	sudoración
+T7	SINTOMA 3049 3079	nódulos pulmonares bilaterales
+T8	SINTOMA 3383 3409	inestabilidad de la marcha
+T9	SINTOMA 3424 3431	náuseas
+T10	SINTOMA 3442 3448	vómito
+T11	SINTOMA 3464 3476	bradipsiquia
+T12	SINTOMA 3479 3511	sensación de embotamiento mental
+T13	SINTOMA 3856 3869	inestabilidad
+T14	SINTOMA 3883 3889	emesis
+T15	SINTOMA 3912 3963	aumento difuso de tamaño de la glándula hipofisaria
+T16	SINTOMA 5450 5473	aumento de la hipófisis
+T17	SINTOMA 5546 5582	engrosamiento del tallo hipofisiario
+T18	SINTOMA 6440 6458	nódulos pulmonares
+T19	SINTOMA 6525 6542	tumoración axilar
+T20	SINTOMA 6957 6968	falleciendo
+T21	PROCEDIMIENTO 262 266	CPAP
+T22	PROCEDIMIENTO 560 578	extirpación simple
+T23	PROCEDIMIENTO 665 694	extirpan 3 ganglios centinela
+T24	PROCEDIMIENTO 1017 1047	linfadenectomía axilar derecha
+T25	PROCEDIMIENTO 1244 1262	Exploración física
+T26	PROCEDIMIENTO 1462 1480	exploración física
+T27	PROCEDIMIENTO 1551 1587	tomografía por emisión de positrones
+T28	PROCEDIMIENTO 1589 1592	PET
+T29	PROCEDIMIENTO 1747 1768	tratamiento sistémico
+T30	PROCEDIMIENTO 2035 2060	estudio hormonal tiroideo
+T31	PROCEDIMIENTO 3186 3212	tratamiento inmunoterápico
+T32	PROCEDIMIENTO 3281 3305	tomografía computarizada
+T33	PROCEDIMIENTO 3307 3309	TC
+T34	PROCEDIMIENTO 3566 3577	TC cerebral
+T35	PROCEDIMIENTO 3650 3652	RM
+T36	PROCEDIMIENTO 3654 3684	resonancia magnética) cerebral
+T37	PROCEDIMIENTO 3739 3763	perfil hormonal completo
+T38	PROCEDIMIENTO 3897 3899	RM
+T39	PROCEDIMIENTO 5421 5423	RM
+T40	PROCEDIMIENTO 5678 5698	tratamiento tiroideo
+T41	PROCEDIMIENTO 5937 5947	esteroides
+T42	PROCEDIMIENTO 6193 6213	tratamiento tiroideo
+T43	PROCEDIMIENTO 6362 6364	TC
+T44	NEG 43 46	sin
+T45	NSCO 47 62	hábitos tóxicos
+T46	NEG 615 617	no
+T47	NSCO 618 626	ulcerado
+T48	NEG 708 716	negativo
+T49	NSCO 717 730	para melanoma
+T50	NEG 793 796	sin
+T51	NSCO 797 820	evidencia de enfermedad
+T52	UNC 906 920	compatible con
+T53	USCO 921 941	melanoma metastásico
+T54	NEG 946 957	ausencia de
+T55	NSCO 958 1004	enfermedad a distancia en estudio de extensión
+T56	UNC 1151 1165	compatible con
+T57	USCO 1166 1228	melanoma maligno y afectación de dos nódulos de tejido adiposo
+T58	NEG 1367 1370	Sin
+T59	NSCO 1371 1441	otras lesiones visibles, ni adenopatías periféricas groseras palpables
+T60	NEG 1956 1959	sin
+T61	NSCO 1960 1993	alteración de la función hepática
+T62	NEG 3025 3027	no
+T63	NSCO 3028 3079	significativo de los nódulos pulmonares bilaterales
+T64	NEG 3513 3516	Sin
+T65	NSCO 3517 3552	otra focalidad neurológica asociada
+T66	NEG 3579 3582	sin
+T67	NSCO 3583 3626	objetivar lesiones sugestivas de malignidad
+T68	NEG 3690 3699	descartar
+T69	NSCO 3700 3724	metástasis o hipofisitis
+T70	NEG 3965 3968	sin
+T71	NSCO 3969 3993	M1 (metástasis) visibles
+T72	NEG 4508 4511	sin
+T73	NSCO 4512 4532	datos de hipofunción
+T74	NEG 5013 5015	no
+T75	NSCO 5016 5025	valorable
+T76	NEG 5137 5139	no
+T77	NSCO 5140 5155	estaba alterada
+T78	NEG 5300 5303	sin
+T79	NSCO 5304 5309	ayuda
+T80	NEG 5502 5505	sin
+T81	NSCO 5506 5527	extensión suprasellar
+T82	UNC 5848 5855	posible
+T83	USCO 5856 5882	hipofunción hipofisaria vs
+T84	NEG 6790 6793	sin
+T85	NSCO 6794 6853	más opciones de tratamiento activo dado el estado funcional
+T86	FARMACO 1773 1782	nivolumab
+T87	FARMACO 2346 2356	carbimazol
+T88	FARMACO 2645 2654	nivolumab
+T89	FARMACO 2670 2680	carbimazol
+T90	FARMACO 4579 4596	metilprednisolona
+T91	FARMACO 4826 4838	levotiroxina
+T92	FARMACO 5359 5369	prednisona
+T93	FARMACO 6034 6044	prednisona
+T94	FARMACO 6283 6293	prednisona
+T95	ORG_VIVO 26 31	mujer
+T96	ORG_VIVO 286 291	padre
+T97	ORG_VIVO 356 364	familiar
+T98	ORG_VIVO 401 411	familiares
+T99	ORG_VIVO 3098 3106	paciente
+T100	ORG_VIVO 3358 3366	paciente
+T101	ORG_VIVO 3778 3786	paciente
+T102	ORG_VIVO 4036 4044	paciente
+T103	ORG_VIVO 5408 5416	paciente
+T104	ORG_VIVO 6463 6468	mujer
+T105	ENFERMEDAD 64 73	sobrepeso
+T106	ENFERMEDAD 75 87	hipertensión
+T107	ENFERMEDAD 90 109	hipercolesterolemia
+T108	ENFERMEDAD 151 189	síndrome de apneas-hipopneas del sueño
+T109	ENFERMEDAD 191 195	SAHS
+T110	ENFERMEDAD 306 332	adenocarcinoma de próstata
+T111	ENFERMEDAD 433 455	disfunciones tiroideas
+T112	ENFERMEDAD 498 526	lesión pigmentada en espalda
+T113	ENFERMEDAD 598 626	melanoma 1,1 mm, no ulcerado
+T114	ENFERMEDAD 722 730	melanoma
+T115	ENFERMEDAD 921 941	melanoma metastásico
+T116	ENFERMEDAD 1166 1182	melanoma maligno
+T117	ENFERMEDAD 1317 1349	recaída pericicatricial en axila
+T118	ENFERMEDAD 1399 1422	adenopatías periféricas
+T119	ENFERMEDAD 1607 1649	progresión muscular, ganglionar y pulmonar
+T120	ENFERMEDAD 1664 1685	Melanoma maligno BRAF
+T121	ENFERMEDAD 1931 1941	colestasis
+T122	ENFERMEDAD 2260 2275	hipertiroidismo
+T123	ENFERMEDAD 2525 2555	tiroiditis autoinmune inducido
+T124	ENFERMEDAD 3700 3710	metástasis
+T125	ENFERMEDAD 3713 3724	hipofisitis
+T126	ENFERMEDAD 3973 3983	metástasis
+T127	ENFERMEDAD 4238 4261	hipotiroidismo residual
+T128	ENFERMEDAD 4267 4307	hipertiroidismo autoinmune por anti-PD-1
+T129	ENFERMEDAD 4310 4327	hipercortisolismo
+T130	ENFERMEDAD 4352 4386	inflamación de glándula pituitaria
+T131	ENFERMEDAD 4493 4504	hipofisitis
+T132	ENFERMEDAD 4759 4779	hipofunción tiroidea
+T133	ENFERMEDAD 4935 4949	hipotiroidismo
+T134	ENFERMEDAD 5856 5879	hipofunción hipofisaria
+T135	ENFERMEDAD 6440 6458	nódulos pulmonares
+T136	ENFERMEDAD 6756 6775	miopatía esteroidea
+T137	PACIENTE-SITUACION_LABORAL 269 280	Ama de casa

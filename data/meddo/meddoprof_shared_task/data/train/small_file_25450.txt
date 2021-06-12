@@ -1,0 +1,13 @@
+
+En	O
+cuanto	O
+a	O
+enfermedades	O
+concomitantes	O
+:	O
+VIH	O
+(	O
+1995	O
+)	O
+C3	O
+.	O

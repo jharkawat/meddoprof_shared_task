@@ -1,0 +1,6 @@
+
+Diagnóstico	O
+de	O
+depresión	O
+psicótica	O
+.	O

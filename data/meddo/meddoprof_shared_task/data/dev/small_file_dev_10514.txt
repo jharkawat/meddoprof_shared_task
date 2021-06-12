@@ -1,0 +1,8 @@
+
+Había	O
+llorado	O
+y	O
+hablado	O
+de	O
+suicidio	O
+.	O

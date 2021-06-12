@@ -1,0 +1,22 @@
+
+El	O
+paciente	O
+no	O
+acudió	O
+a	O
+revisión	O
+,	O
+ya	O
+que	O
+tuvo	O
+que	O
+desplazarse	O
+por	O
+motivos	O
+laborales	O
+y	O
+se	O
+perdió	O
+el	O
+seguimiento	O
+.	O

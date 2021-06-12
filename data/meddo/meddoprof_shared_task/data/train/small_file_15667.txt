@@ -1,0 +1,13 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+modafinilo	O
+100	O
+mg	O
+en	O
+desayuno	O
+y	O
+comida	O
+.	O

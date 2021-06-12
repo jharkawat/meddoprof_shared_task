@@ -1,0 +1,19 @@
+
+Resto	O
+de	O
+serologías	O
+(	O
+Cisticerco	O
+,	O
+VIH	O
+,	O
+brucelosis	O
+,	O
+toxoplasma	O
+,	O
+rubéola	O
+,	O
+citomegalovirus	O
+)	O
+negativas	O
+.	O

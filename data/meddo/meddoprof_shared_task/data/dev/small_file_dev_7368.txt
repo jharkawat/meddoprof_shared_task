@@ -1,0 +1,12 @@
+
+Este	O
+bacilo	O
+gram	O
+negativo	O
+es	O
+endémico	O
+en	O
+todo	O
+el	O
+mundo	O
+.	O

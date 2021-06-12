@@ -1,0 +1,17 @@
+
+Adenocarcinoma	O
+de	O
+pulmón	O
+T3	O
+N1	O
+M0	O
+,	O
+estadio	O
+IIIA	O
+(	O
+AJCC	O
+7a	O
+Ed	O
+.	O
+)	O
+.	O

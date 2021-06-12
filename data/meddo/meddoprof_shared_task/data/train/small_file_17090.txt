@@ -1,0 +1,14 @@
+
+Al	O
+estímulo	O
+doloroso	O
+presentaba	O
+retirada	O
+en	O
+los	O
+cuatro	O
+miembros	O
+de	O
+forma	O
+simétrica	O
+.	O

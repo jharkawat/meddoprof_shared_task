@@ -1,0 +1,21 @@
+
+No	O
+se	O
+puede	O
+realizar	O
+test	O
+de	O
+Tensilón	O
+(	O
+prueba	O
+de	O
+edrofonio	O
+)	O
+por	O
+la	O
+disautonomía	O
+que	O
+presenta	O
+el	O
+paciente	O
+.	O

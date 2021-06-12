@@ -1,0 +1,8 @@
+
+No	O
+se	O
+corresponde	O
+con	O
+nuestro	O
+caso	O
+.	O

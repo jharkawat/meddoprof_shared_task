@@ -1,0 +1,23 @@
+
+Presentó	O
+una	O
+buena	O
+respuesta	O
+al	O
+tratamiento	O
+con	O
+risperidona	O
+,	O
+que	O
+posteriormente	O
+se	O
+sustituyó	O
+por	O
+palmitato	O
+de	O
+paliperidona	O
+por	O
+mal	O
+cumplimiento	O
+terapéutico	O
+.	O

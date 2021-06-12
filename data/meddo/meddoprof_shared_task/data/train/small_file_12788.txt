@@ -1,0 +1,8 @@
+
+Frecuencia	O
+cardíaca	O
+76	O
+latidos	O
+/	O
+minuto	O
+.	O

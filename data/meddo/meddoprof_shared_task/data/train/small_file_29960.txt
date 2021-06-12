@@ -1,0 +1,14 @@
+
+La	O
+exploración	O
+física	O
+,	O
+neurológica	O
+,	O
+electrocardiograma	O
+y	O
+analítica	O
+realizada	O
+fueron	O
+normales	O
+.	O

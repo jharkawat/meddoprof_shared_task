@@ -1,0 +1,8 @@
+
+Puede	O
+tener	O
+una	O
+latencia	O
+de	O
+años	O
+.	O

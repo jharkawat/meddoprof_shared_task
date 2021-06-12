@@ -1,0 +1,14 @@
+
+Se	O
+realizaron	O
+pruebas	O
+complementarias	O
+para	O
+determinar	O
+la	O
+causa	O
+de	O
+la	O
+hiponatremia	O
+grave	O
+.	O

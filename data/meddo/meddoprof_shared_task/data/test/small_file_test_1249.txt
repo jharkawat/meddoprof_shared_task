@@ -1,0 +1,18 @@
+
+Varón	O
+de	O
+28	O
+años	O
+con	O
+antecedente	O
+de	O
+tuberculosis	O
+pleural	O
+hace	O
+un	O
+año	O
+,	O
+con	O
+tratamiento	O
+completo	O
+.	O

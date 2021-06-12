@@ -1,0 +1,6 @@
+
+Fue	O
+minero	B-PROFESION
+y	O
+ganadero	B-PROFESION
+.	O

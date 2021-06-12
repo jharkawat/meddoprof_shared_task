@@ -1,0 +1,26 @@
+
+Se	O
+objetiva	O
+una	O
+lesión	O
+parcheada	O
+que	O
+restringe	O
+a	O
+la	O
+difusión	O
+en	O
+el	O
+territorio	O
+de	O
+la	O
+arteria	O
+cerebral	O
+posterior	O
+izquierda	O
+compatible	O
+con	O
+lesión	O
+isquémica	O
+aguda	O
+.	O

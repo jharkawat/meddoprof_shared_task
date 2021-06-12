@@ -1,0 +1,9 @@
+
+Paciente	O
+consciente	O
+,	O
+orientada	O
+,	O
+Glasgow	O
+15	O
+.	O

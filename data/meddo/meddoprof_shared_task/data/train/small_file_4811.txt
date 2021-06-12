@@ -1,0 +1,15 @@
+
+Acude	O
+a	O
+consulta	O
+por	O
+cefalea	O
+hemicraneal	O
+izquierda	O
+pulsátil	O
+de	O
+varios	O
+meses	O
+de	O
+evolución	O
+.	O

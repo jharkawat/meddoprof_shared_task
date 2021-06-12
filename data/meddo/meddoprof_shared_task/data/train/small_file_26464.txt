@@ -1,0 +1,5 @@
+
+Orientación	O
+diagnóstico	O
+-	O
+terapéutica	O

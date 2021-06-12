@@ -1,0 +1,6 @@
+
+Tiene	O
+cinco	O
+hijos	O
+independizados	O
+.	O

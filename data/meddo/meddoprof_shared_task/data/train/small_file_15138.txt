@@ -1,0 +1,22 @@
+
+A	O
+su	O
+ingreso	O
+se	O
+inició	O
+tratamiento	O
+con	O
+levofloxacino	O
+y	O
+ceftriaxona	O
+con	O
+mala	O
+respuesta	O
+persistiendo	O
+la	O
+fiebre	O
+y	O
+el	O
+malestar	O
+general	O
+.	O

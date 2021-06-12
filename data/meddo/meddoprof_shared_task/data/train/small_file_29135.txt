@@ -1,0 +1,26 @@
+
+En	O
+su	O
+primera	O
+consulta	O
+en	O
+este	O
+Centro	O
+se	O
+le	O
+ve	O
+de	O
+urgencia	O
+por	O
+un	O
+cuadro	O
+hipomaniaco	O
+que	O
+creen	O
+secundario	O
+a	O
+la	O
+toma	O
+de	O
+clomipramina	O
+.	O

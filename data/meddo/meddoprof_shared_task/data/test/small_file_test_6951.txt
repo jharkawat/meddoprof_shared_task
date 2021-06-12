@@ -1,0 +1,20 @@
+
+A	O
+principios	O
+de	O
+abril	O
+de	O
+ese	O
+mismo	O
+año	O
+inicia	O
+sunitinib	O
+50	O
+mg	O
+/	O
+24	O
+h	O
+con	O
+buena	O
+tolerancia	O
+.	O

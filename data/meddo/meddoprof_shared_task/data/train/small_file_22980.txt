@@ -1,0 +1,23 @@
+
+Los	O
+estudios	O
+genéticos	O
+que	O
+se	O
+realizaron	O
+comprobaron	O
+la	O
+presencia	O
+de	O
+la	O
+mutación	O
+del	O
+gen	O
+PANK2	O
+,	O
+asociado	O
+a	O
+esta	O
+enfermedad	O
+neurodegenerativa	O
+.	O

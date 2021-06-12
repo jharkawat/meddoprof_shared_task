@@ -1,0 +1,13 @@
+
+Focaliza	O
+excesivamente	O
+su	O
+juego	O
+hacia	O
+la	O
+relación	O
+con	O
+la	O
+figura	O
+materna	O
+.	O

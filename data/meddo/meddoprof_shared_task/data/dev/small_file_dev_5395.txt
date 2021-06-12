@@ -1,0 +1,18 @@
+
+Con	O
+dicho	O
+diagnóstico	O
+,	O
+el	O
+paciente	O
+fue	O
+intervenido	O
+de	O
+urgencia	O
+por	O
+el	O
+servicio	O
+de	O
+cirugía	O
+cardiovascular	O
+.	O

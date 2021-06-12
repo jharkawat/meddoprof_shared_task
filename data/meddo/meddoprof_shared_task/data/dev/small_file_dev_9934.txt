@@ -1,0 +1,25 @@
+
+DA	O
+proximal	O
+con	O
+estenosis	O
+del	O
+80	O
+%	O
+en	O
+el	O
+contexto	O
+de	O
+reestenosis	O
+intrastent	O
+,	O
+flujo	O
+de	O
+grado	O
+TIMI	O
+3	O
+con	O
+buen	O
+lecho	O
+distal	O
+.	O

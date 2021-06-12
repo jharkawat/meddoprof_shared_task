@@ -1,0 +1,15 @@
+
+Refiere	O
+el	O
+padre	O
+que	O
+empezó	O
+a	O
+preocuparse	O
+y	O
+habló	O
+directamente	O
+con	O
+su	O
+hija	O
+.	O

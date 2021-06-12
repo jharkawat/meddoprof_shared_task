@@ -1,0 +1,13 @@
+
+Además	O
+,	O
+se	O
+ha	O
+reducido	O
+quetiapina	O
+a	O
+100	O
+mg	O
+/	O
+día	O
+.	O

@@ -1,0 +1,6 @@
+
+Acude	O
+con	O
+la	O
+madre	O
+.	O

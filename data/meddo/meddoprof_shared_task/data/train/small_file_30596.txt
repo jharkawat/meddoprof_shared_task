@@ -1,0 +1,19 @@
+
+Tenía	O
+buen	O
+rendimiento	O
+escolar	O
+y	O
+posteriormente	O
+lograría	O
+acabar	O
+la	O
+carrera	O
+de	O
+Historia	O
+en	O
+la	O
+universidad	O
+de	O
+Zaragoza	O
+.	O

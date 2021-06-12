@@ -1,0 +1,18 @@
+
+La	O
+esposa	O
+,	O
+que	O
+lo	O
+acompañaba	O
+,	O
+afirmó	O
+estar	O
+desconcertada	O
+por	O
+la	O
+acción	O
+de	O
+su	O
+marido	O
+.	O

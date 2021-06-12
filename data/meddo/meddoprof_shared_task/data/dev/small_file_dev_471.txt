@@ -1,0 +1,12 @@
+
+Para	O
+ello	O
+entregamos	O
+una	O
+tabla	O
+con	O
+alimentos	O
+ricos	O
+en	O
+hierro	O
+.	O

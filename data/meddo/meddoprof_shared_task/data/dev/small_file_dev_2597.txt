@@ -1,0 +1,22 @@
+
+Las	O
+altas	O
+dosis	O
+de	O
+gabapentina	O
+y	O
+clonazepam	O
+nocturno	O
+se	O
+sustituyeron	O
+por	O
+pautas	O
+fijas	O
+de	O
+diazepam	O
+10	O
+mg	O
+cada	O
+ocho	O
+horas	O
+.	O

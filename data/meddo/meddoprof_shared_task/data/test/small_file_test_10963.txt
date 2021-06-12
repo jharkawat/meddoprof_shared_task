@@ -1,0 +1,22 @@
+
+En	O
+el	O
+estudio	O
+endocrinológico	O
+ha	O
+obtenido	O
+en	O
+cuanto	O
+a	O
+la	O
+calcemia	O
+unos	O
+niveles	O
+normales	O
+-	O
+altos	O
+aunque	O
+no	O
+presenta	O
+sintomatología	O
+.	O

@@ -1,0 +1,25 @@
+
+Ingresó	O
+en	O
+el	O
+Servicio	O
+de	O
+Medicina	O
+Intensiva	O
+por	O
+una	O
+crisis	O
+epiléptica	O
+generalizada	O
+tónico	O
+-	O
+clónica	O
+con	O
+estupor	O
+poscrítico	O
+prolongado	O
+,	O
+precisando	O
+intubación	O
+orotraqueal	O
+.	O

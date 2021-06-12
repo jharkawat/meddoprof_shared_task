@@ -1,0 +1,13 @@
+
+No	O
+tiene	O
+las	O
+uñas	O
+rotas	O
+,	O
+no	O
+refiere	O
+caída	O
+del	O
+cabello	O
+.	O

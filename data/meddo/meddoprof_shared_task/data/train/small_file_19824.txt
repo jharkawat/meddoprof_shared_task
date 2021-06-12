@@ -1,0 +1,24 @@
+
+Apenas	O
+sale	O
+de	O
+casa	O
+y	O
+ha	O
+asumido	O
+el	O
+rol	O
+de	O
+la	O
+madre	O
+:	O
+"	O
+parece	O
+que	O
+esté	O
+casada	O
+con	O
+mi	O
+padre	O
+"	O
+.	O

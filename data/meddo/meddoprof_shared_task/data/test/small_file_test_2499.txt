@@ -1,0 +1,19 @@
+
+El	O
+paciente	O
+continúa	O
+un	O
+programa	O
+de	O
+seguimientos	O
+en	O
+Oncología	O
+Médica	O
+sin	O
+evidencia	O
+de	O
+enfermedad	O
+hasta	O
+el	O
+momento	O
+.	O

@@ -1,0 +1,25 @@
+
+Debuta	O
+con	O
+cuadro	O
+de	O
+dolor	O
+intenso	O
+(	O
+EVA	O
+8	O
+-	O
+9	O
+)	O
+en	O
+ambas	O
+caderas	O
+y	O
+zona	O
+lumbar	O
+con	O
+febrícula	O
+casi	O
+a	O
+diario	O
+.	O

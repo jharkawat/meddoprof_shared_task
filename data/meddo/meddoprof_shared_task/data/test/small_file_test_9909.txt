@@ -1,0 +1,10 @@
+
+En	O
+el	O
+epigastrio	O
+se	O
+palpaba	O
+una	O
+dudosa	O
+masa	O
+.	O

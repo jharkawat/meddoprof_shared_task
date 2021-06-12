@@ -1,0 +1,20 @@
+
+Tras	O
+una	O
+buena	O
+respuesta	O
+inicial	O
+,	O
+durante	O
+las	O
+tres	O
+primeras	O
+semanas	O
+,	O
+el	O
+paciente	O
+sufre	O
+una	O
+nueva	O
+recaída	O
+.	O

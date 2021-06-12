@@ -1,0 +1,23 @@
+
+En	O
+sucesivas	O
+visitas	O
+la	O
+paciente	O
+se	O
+muestra	O
+más	O
+relajada	O
+y	O
+duerme	O
+mejor	O
+,	O
+ha	O
+comenzado	O
+a	O
+reducir	O
+tratamiento	O
+farmacológico	O
+para	O
+dormir	O
+.	O

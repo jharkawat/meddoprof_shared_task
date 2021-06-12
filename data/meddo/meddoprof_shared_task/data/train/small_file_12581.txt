@@ -1,0 +1,10 @@
+
+Se	O
+trata	O
+muy	O
+probablemente	O
+de	O
+una	O
+hemorragia	O
+glandular	O
+.	O

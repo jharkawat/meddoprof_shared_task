@@ -1,0 +1,18 @@
+
+La	O
+clínica	O
+y	O
+la	O
+confirmación	O
+histológica	O
+establecen	O
+el	O
+diagnóstico	O
+de	O
+liquen	O
+plano	O
+blaschkoide	O
+lineal	O
+y	O
+unilateral	O
+.	O

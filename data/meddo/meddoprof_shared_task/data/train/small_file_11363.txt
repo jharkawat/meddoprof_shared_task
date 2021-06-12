@@ -1,0 +1,17 @@
+
+VIH	O
+negativo	O
+.	O
+Cultivo	O
+de	O
+punción	O
+aspiración	O
+con	O
+jeringa	O
+de	O
+exudado	O
+/	O
+absceso	O
+cutáneo	O
+negativo	O
+.	O

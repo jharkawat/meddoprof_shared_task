@@ -1,0 +1,13 @@
+
+Se	O
+realizó	O
+diagnóstico	O
+de	O
+Trastorno	O
+obsesivo	O
+-	O
+compulsivo	O
+(	O
+F42	O
+)	O
+.	O

@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+vive	O
+con	O
+su	O
+esposa	O
+en	O
+un	O
+departamento	O
+alquilado	O
+.	O

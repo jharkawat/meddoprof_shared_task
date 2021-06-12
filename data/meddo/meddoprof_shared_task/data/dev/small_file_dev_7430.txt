@@ -1,0 +1,14 @@
+
+Leve	O
+edema	O
+y	O
+equimosis	O
+bipalpebral	O
+,	O
+hemorragia	O
+conjuntival	O
+bilateral	O
+,	O
+fondoscopía	O
+normal	O
+.	O

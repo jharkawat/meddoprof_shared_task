@@ -1,0 +1,37 @@
+El caso clínico que presentamos trata de una paciente mujer de 40 años, con antecedentes de alergia a diclofenaco, fumadora y con ingesta enólica habitual, presenta antecedentes de consumo de otros tóxicos. Otros antecedentes importantes son hipotiroidismo primario post-tiroidectomía total en el contexto de bocio multinodular, en tratamiento sustitutivo con levotiroxina y síndrome ansioso-depresivo y trastorno de la personalidad en seguimiento por salud mental y trabajador social.
+
+Se diagnostica de diabetes mellitus tipo 1 a los 23 años de edad, a raíz de gestación. Presenta mal control glucémico crónico precisando de ingresos frecuentes en nuestra planta de hospitalización por episodios de cetoacidosis moderada. Precisa elevados requerimientos de insulina y no presenta complicaciones micro o macrovasculares.
+
+Realiza tratamiento con insulinoterapia basal-bolo (glargina y lispro), eutirox 200 mcg, omeprazol 20 mg, paracetamol 1 g, metamizol 575 mg, citalopram 30 mg, clorazepato dipotásico 15 mg, venlafaxina 225 mg, lormetazepam 2 mg.
+
+En los últimos 2 años, presenta diarrea crónica con hasta 4-5 deposiciones al día, acompañado de náuseas y vómitos de contenido alimenticio, lo que empeora el control y la estabilidad glucémica, con hipoglucemias inadvertidas moderadas-severas frecuentes e hiperglucemia que se complica habitualmente con episodios de cetoacidosis diabética. A ello se añade el desarrollo de desnutrición calórico-proteica severa, con pérdida de 15 kg en los últimos 6 meses.
+
+La sospecha clínica inicial que se plantea es la gastroparesia diabética.
+
+Exploración física:
+-Peso habitual: 66 kg.
+-Peso actual: 51 kg (-21%). Talla 159 cm. IMC 20.2 kg/m2. -Exploración abdominal anodina.
+-No lipodistrofias.
+
+PRUEBAS COMPLEMENTARIAS
+En la analítica inicial de rutina destaca discreta anemia normocítica con una Hb 11.7 g/dl, hiperglucemia con una glucemia basal de 234 mg/dl e hipoproteinemia con PT 5.2 g/dl y albúmina 2.7 g/dl. Presenta una HbA1c 9.2% compatible con mal control glucémico y función tiroidea bien controlada con la dosis de levotiroxina actual: TSH 2.5 uUI/ml, FT4 1.5. Se realizó estudio de anemia con resultados dentro de la normalidad.
+Para el estudio de la diarrea crónica se realiza toxina de Clostridium difficile, coprocultivo y screening de celiaquía que resultaron negativos, colonoscopia normal.
+En cuanto al estudio de las náuseas y vómitos se realizaron distintas pruebas:
+-Endoscopia digestiva alta: Restos alimenticios en cámara gástrica tras 12 horas de ayuno.
+-TAC abdominal: Discreta hepatomegalia, sin otros hallazgos.
+-Tránsito esófago-gastro-duodenal: Tiempo de tránsito normal, importante fragmentación del contraste en las primeras asas de yeyuno, que se normaliza posteriormente.
+-Gammagrafía de estómago e intestino: Sin hallazgos.
+Se realiza test de neuropatía autónoma que presentó un índice espiración/ inspiración, índice 30/15 e índice de Valsalva anormales.
+
+DIAGNÓSTICO
+Con la presencia de restos alimentarios en la endoscopia digestiva realizada en ayunas sin datos de obstrucción y la presencia de neuropatía autónoma diagnosticamos a la paciente de cuadro compatible con gastroparesia diabética, sin poder descartar enteropatía diabética asociada.
+
+TRATAMIENTO
+Por la importante y severa repercusión metabólica y nutricional decidimos iniciar soporte nutricional mediante nutrición enteral completa por sonda nasoyeyunal. Inicialmente se emplea una fórmula estándar (1 kcal/ml, proporción calórica HC/P/L 52/15/33 sin fibra) con incremento progresivo del aporte.
+
+Debido a la persistencia de la diarrea fue necesario cambiar a una fórmula con fibra soluble (fórmula normoproteica y normocalórica 1 kcal/ml; proporción calórica HC/P/L 56.5/15/28.6, incluyendo 11 g de fibra goma guar parcialmente hidrolizada).
+Más adelante fue de nuevo necesario sustituir la fórmula anterior por una fórmula específica para diabetes debido a la dificultad para el control glucémico (fórmula normoproteica y normocalórica, 1.1 kcal/ml; proporción calórica HC/P/L 43/18/39 incluyendo 10 g de fibra, de los cuales 4,1 g son goma aguar parcialmente hidrolizada y el resto en forma de FOS, goma arábiga e inulina).
+
+La paciente presenta finalmente una evolución muy favorable, con importante mejoría desde el punto de vista digestivo y nutricional (ganancia ponderal de 10 kg de peso, recuperación de los parámetros analíticos con albúmina 4.1 g/dl y prealbúmina 21.7 mg/dl. Se decide colocar yeyunostomía por vía quirúrgica, que mantiene en la actualidad, pese a algunos problemas mecánicos.
+
+En la actualidad la paciente ha mejorado significativamente del cuadro digestivo mejorando a su vez con ello la calidad de vida y el control metabólico, si bien éste sigue siendo inestable y con difícil control; pero no ha requerido nuevos ingresos por cetoacidosis diabética y los episodios de hipoglucemias han reducido considerablemente su frecuencia.

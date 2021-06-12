@@ -1,0 +1,10 @@
+
+En	O
+la	O
+RM	O
+cerebral	O
+no	O
+se	O
+aprecian	O
+cambios	O
+.	O

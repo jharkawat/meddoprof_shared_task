@@ -1,0 +1,14 @@
+
+No	O
+ha	O
+manifestado	O
+alteraciones	O
+del	O
+apetito	O
+,	O
+ni	O
+conductas	O
+auto	O
+-	O
+heteroagresivas	O
+.	O

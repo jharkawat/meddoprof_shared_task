@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+66	O
+años	O
+sin	O
+antecedentes	O
+familiares	O
+de	O
+interés	O
+,	O
+alérgica	O
+a	O
+quinolonas	O
+y	O
+sin	O
+hábitos	O
+tóxicos	O
+.	O

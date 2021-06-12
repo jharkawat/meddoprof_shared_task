@@ -1,0 +1,26 @@
+
+Mujer	O
+de	O
+37	O
+años	O
+sin	O
+antecedentes	O
+médicos	O
+personales	O
+ni	O
+familiares	O
+de	O
+interés	O
+,	O
+salvo	O
+madre	O
+diagnosticada	O
+de	O
+cáncer	O
+de	O
+mama	O
+a	O
+los	O
+67	O
+años	O
+.	O

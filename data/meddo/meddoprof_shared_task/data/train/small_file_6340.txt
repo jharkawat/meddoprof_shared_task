@@ -1,0 +1,14 @@
+
+Se	O
+examinaron	O
+de	O
+forma	O
+exhaustiva	O
+miembros	O
+superiores	O
+e	O
+inferiores	O
+sin	O
+hallazgos	O
+relevantes	O
+.	O

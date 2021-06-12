@@ -1,0 +1,12 @@
+
+El	O
+embarazo	O
+y	O
+el	O
+parto	O
+de	O
+Beatriz	O
+fueron	O
+totalmente	O
+normales	O
+.	O

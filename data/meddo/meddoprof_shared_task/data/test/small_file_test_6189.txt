@@ -1,0 +1,18 @@
+
+Electrocardiograma	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+116	O
+lpm	O
+,	O
+patrón	O
+S1	O
+,	O
+Q	O
+III	O
+,	O
+T	O
+III	O
+.	O

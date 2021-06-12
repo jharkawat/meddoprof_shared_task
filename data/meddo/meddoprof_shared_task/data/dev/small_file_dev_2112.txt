@@ -1,0 +1,9 @@
+
+En	O
+el	O
+servicio	O
+de	O
+Urgencias	O
+:	O
+consciente	O
+.	O

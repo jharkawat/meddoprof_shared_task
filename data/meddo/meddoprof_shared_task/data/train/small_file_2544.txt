@@ -1,0 +1,10 @@
+
+PLUMAS	O
+:	O
+canario	O
+,	O
+gallina	O
+,	O
+paloma	O
+,	O
+periquito	O

@@ -1,0 +1,23 @@
+
+A	O
+la	O
+exploración	O
+psicopatológica	O
+la	O
+paciente	O
+se	O
+muestra	O
+vigil	O
+,	O
+consciente	O
+,	O
+orientada	O
+en	O
+tiempo	O
+,	O
+espacio	O
+y	O
+auto	O
+y	O
+alopsíquicamente	O
+.	O

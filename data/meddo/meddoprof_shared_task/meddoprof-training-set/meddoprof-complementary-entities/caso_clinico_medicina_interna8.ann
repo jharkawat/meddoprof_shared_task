@@ -1,0 +1,28 @@
+T1	SINTOMA 346 362	dolor pleurítico
+T2	SINTOMA 487 496	febrícula
+T3	SINTOMA 499 519	molestias en costado
+T4	SINTOMA 804 831	Abdomen sin visceromegalias
+T5	PROCEDIMIENTO 424 436	antibióticos
+T6	PROCEDIMIENTO 649 667	exploración física
+T7	PROCEDIMIENTO 935 944	Hemograma
+T8	PROCEDIMIENTO 1015 1041	Radiología simple de tórax
+T9	PROCEDIMIENTO 1083 1093	RM craneal
+T10	NEG 25 28	sin
+T11	NSCO 29 86	reacciones alérgicas medicamentosas ni consumo de tóxicos
+T12	NEG 267 269	No
+T13	NSCO 270 291	farmacoterapia activa
+T14	NEG 625 627	No
+T15	NSCO 628 640	otra clínica
+T16	NEG 709 711	No
+T17	NSCO 712 754	se palpan adenopatías periféricas ni bocio
+T18	NEG 812 815	sin
+T19	NSCO 816 831	visceromegalias
+T20	NEG 846 849	sin
+T21	NSCO 850 867	lesiones cutáneas
+T22	ORG_VIVO 0 5	Varón
+T23	ENFERMEDAD 29 64	reacciones alérgicas medicamentosas
+T24	ENFERMEDAD 228 235	migraña
+T25	ENFERMEDAD 722 745	adenopatías periféricas
+T26	ENFERMEDAD 749 754	bocio
+T27	ENFERMEDAD 850 867	lesiones cutáneas
+T28	PACIENTE-SITUACION_LABORAL 88 98	estudiante

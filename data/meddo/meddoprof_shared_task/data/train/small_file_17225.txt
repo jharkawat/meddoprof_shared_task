@@ -1,0 +1,26 @@
+
+El	O
+episodio	O
+duró	O
+cuatro	O
+horas	O
+,	O
+aunque	O
+la	O
+sensación	O
+de	O
+deslumbramiento	O
+por	O
+la	O
+luz	O
+y	O
+las	O
+alucinaciones	O
+de	O
+personas	O
+fueron	O
+remitiendo	O
+en	O
+24	O
+horas	O
+.	O

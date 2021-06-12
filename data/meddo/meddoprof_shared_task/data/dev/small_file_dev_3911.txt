@@ -1,0 +1,18 @@
+
+Por	O
+la	O
+noche	O
+tiene	O
+problemas	O
+para	O
+dormirse	O
+,	O
+y	O
+por	O
+la	O
+mañana	O
+le	O
+cuesta	O
+mucho	O
+levantarse	O
+.	O

@@ -1,0 +1,41 @@
+T1	SINTOMA 79 106	pérdida de visión bilateral
+T2	SINTOMA 183 198	pérdida de peso
+T3	SINTOMA 229 236	cefalea
+T4	SINTOMA 1257 1269	leucocitosis
+T5	SINTOMA 1526 1541	hipoalbuminemia
+T6	SINTOMA 2266 2272	afasia
+T7	SINTOMA 2274 2284	hemiplejia
+T8	SINTOMA 2286 2293	agnosia
+T9	SINTOMA 2296 2316	defecto campimétrico
+T10	PROCEDIMIENTO 254 279	exploración oftalmológica
+T11	PROCEDIMIENTO 458 470	fondo de ojo
+T12	PROCEDIMIENTO 978 995	estudio sistémico
+T13	PROCEDIMIENTO 1602 1644	ecografía Doppler de troncos supraaórticos
+T14	PROCEDIMIENTO 1732 1743	angiografía
+T15	PROCEDIMIENTO 1881 1908	tratamiento con corticoides
+T16	PROCEDIMIENTO 2104 2137	revascularización mediante bypass
+T17	PROCEDIMIENTO 2383 2395	fondo de ojo
+T18	NEG 17 20	sin
+T19	NSCO 21 52	antecedentes médicos de interés
+T20	NEG 133 138	ceden
+T21	NSCO 139 166	rápidamente con el decúbito
+T22	NEG 324 327	sin
+T23	NSCO 328 338	corrección
+T24	NEG 361 363	no
+T25	NSCO 364 401	presentaba ningún hallazgo patológico
+T26	NEG 495 497	no
+T27	NSCO 498 527	presentaba ninguna alteración
+T28	UNC 881 892	sospecha de
+T29	USCO 893 903	vasculitis
+T30	FARMACO 1929 1939	prednisona
+T31	ORG_VIVO 0 5	Mujer
+T32	ORG_VIVO 920 928	paciente
+T33	ORG_VIVO 2006 2014	paciente
+T34	ORG_VIVO 2159 2167	paciente
+T35	ENFERMEDAD 893 903	vasculitis
+T36	ENFERMEDAD 1140 1162	enfermedad de Takayasu
+T37	ENFERMEDAD 1274 1293	anemia normocrómica
+T38	ENFERMEDAD 1526 1541	hipoalbuminemia
+T39	ENFERMEDAD 1768 1828	lesiones estenosantes en un 90 % de ambas arterias carótidas
+T40	ENFERMEDAD 1838 1866	arteritis de Takayasu tipo 1
+T41	ENFERMEDAD 2184 2239	accidentes cerebrovasculares con afectación hemisférica

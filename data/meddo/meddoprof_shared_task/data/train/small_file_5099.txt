@@ -1,0 +1,7 @@
+
+TAC	O
+Cráneo	O
+:	O
+sin	O
+hallazgos	O
+.	O

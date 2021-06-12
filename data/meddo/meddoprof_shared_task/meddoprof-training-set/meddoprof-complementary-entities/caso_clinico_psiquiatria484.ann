@@ -1,0 +1,145 @@
+T1	SINTOMA 489 497	embarazo
+T2	SINTOMA 1414 1421	fumador
+T3	SINTOMA 1567 1584	patrón compulsivo
+T4	SINTOMA 2407 2430	alucinaciones auditivas
+T5	SINTOMA 2589 2618	alteraciones sensoperceptivas
+T6	SINTOMA 3700 3713	alucinaciones
+T7	SINTOMA 4207 4224	ganancia ponderal
+T8	SINTOMA 4384 4422	orientado en tiempo, espacio y persona
+T9	SINTOMA 4657 4680	Alucinaciones auditivas
+T10	SINTOMA 4789 4818	alteraciones sensoperceptivas
+T11	SINTOMA 4874 4889	clínica ansiosa
+T12	SINTOMA 4986 4994	angustia
+T13	SINTOMA 5854 5862	angustia
+T14	SINTOMA 5947 6005	alucinaciones auditivas egodistónicas de voces insultantes
+T15	SINTOMA 6109 6131	sintomatología ansiosa
+T16	SINTOMA 6134 6144	ánimo bajo
+T17	SINTOMA 6782 6797	hipervigilancia
+T18	SINTOMA 6802 6827	intrusión de pensamientos
+T19	SINTOMA 6845 6861	ideas delirantes
+T20	SINTOMA 6898 6914	reacción ansiosa
+T21	SINTOMA 7190 7205	pérdida de peso
+T22	PROCEDIMIENTO 499 504	parto
+T23	PROCEDIMIENTO 3473 3498	tratamiento antipsicótico
+T24	PROCEDIMIENTO 5244 5253	Hemograma
+T25	PROCEDIMIENTO 5414 5461	estudio de lúes, hepatitis B, hepatitis C y VIH
+T26	PROCEDIMIENTO 5475 5490	Analítica orina
+T27	PROCEDIMIENTO 5513 5525	TAC cerebral
+T28	NEG 535 538	sin
+T29	NSCO 539 553	complicaciones
+T30	NEG 555 560	Niega
+T31	NEG 757 760	sin
+T32	NSCO 761 770	problemas
+T33	NEG 1005 1007	no
+T34	NSCO 1008 1019	muy extenso
+T35	NEG 1311 1314	sin
+T36	NSCO 1315 1348	alergias medicamentosas conocidas
+T37	NEG 1350 1353	Sin
+T38	NSCO 1354 1396	antecedentes médico-quirúrgicos de interés
+T39	NEG 2569 2584	habiendo cedido
+T40	NSCO 2585 2633	las alteraciones sensoperceptivas en pocas horas
+T41	NEG 2786 2801	desaparición de
+T42	NSCO 2802 2819	clínica psicótica
+T43	NEG 3269 3274	niega
+T44	NEG 3651 3654	sin
+T45	NSCO 3655 3694	llegar a estructurar ideación delirante
+T46	NEG 3696 3699	sin
+T47	NSCO 3700 3755	alucinaciones ni fenómenos de pasividad del pensamiento
+T48	NEG 4231 4234	sin
+T49	NSCO 4235 4256	mejoría significativa
+T50	NEG 4317 4320	sin
+T51	NSCO 4321 4340	conseguir respuesta
+T52	NEG 4777 4782	Niega
+T53	NSCO 4783 4859	otras alteraciones sensoperceptivas o fenómenos de pasividad del pensamiento
+T54	NEG 4996 4999	sin
+T55	NSCO 5000 5034	planificación suicida estructurada
+T56	NEG 5382 5385	sin
+T57	NSCO 5386 5398	alteraciones
+T58	NEG 5464 5473	negativas
+T59	NEG 5527 5530	sin
+T60	NSCO 5531 5555	alteraciones patológicas
+T61	NEG 6674 6677	sin
+T62	NSCO 6678 6692	acompañamiento
+T63	NEG 7436 7446	se plantea
+T64	NSCO 7447 7520	el abandono del juego patológico por el problema económico que representa
+T65	NEG 7533 7543	se sugiere
+T66	NSCO 7544 7578	convenir unas medidas conductuales
+T67	NEG 8074 8077	sin
+T68	NSCO 8078 8108	pasar del plano interpretativo
+T69	FARMACO 1871 1878	cocaína
+T70	FARMACO 1881 1892	anfetaminas
+T71	FARMACO 2528 2535	cocaína
+T72	FARMACO 2538 2551	metanfetamina
+T73	FARMACO 2740 2752	paliperidona
+T74	FARMACO 2866 2878	escitalopram
+T75	FARMACO 3501 3512	aripiprazol
+T76	FARMACO 3871 3880	asenapina
+T77	FARMACO 4123 4133	olanzapina
+T78	FARMACO 4292 4304	paliperidona
+T79	FARMACO 6348 6360	paliperidona
+T80	FARMACO 6379 6388	clozapina
+T81	FARMACO 6541 6550	clozapina
+T82	FARMACO 8433 8445	escitalopram
+T83	FARMACO 8465 8474	clozapina
+T84	FARMACO 8497 8506	lorazepam
+T85	ORG_VIVO 15 20	varón
+T86	ORG_VIVO 131 141	personales
+T87	ORG_VIVO 172 177	menor
+T88	ORG_VIVO 185 192	fratría
+T89	ORG_VIVO 201 209	hermanos
+T90	ORG_VIVO 233 239	padres
+T91	ORG_VIVO 246 254	hermanos
+T92	ORG_VIVO 301 307	padres
+T93	ORG_VIVO 368 373	madre
+T94	ORG_VIVO 380 388	hermanos
+T95	ORG_VIVO 462 470	familiar
+T96	ORG_VIVO 475 480	madre
+T97	ORG_VIVO 514 522	neonatal
+T98	ORG_VIVO 640 645	madre
+T99	ORG_VIVO 663 672	cuidadora
+T100	ORG_VIVO 802 807	niños
+T101	ORG_VIVO 997 1003	amigos
+T102	ORG_VIVO 1066 1072	pareja
+T103	ORG_VIVO 1104 1111	familia
+T104	ORG_VIVO 1147 1152	madre
+T105	ORG_VIVO 1238 1245	hermano
+T106	ORG_VIVO 1270 1275	padre
+T107	ORG_VIVO 1503 1515	adolescencia
+T108	ORG_VIVO 1604 1612	cannabis
+T109	ORG_VIVO 1811 1823	adolescencia
+T110	ORG_VIVO 1955 1965	familiares
+T111	ORG_VIVO 1967 1972	madre
+T112	ORG_VIVO 2010 2017	hermano
+T113	ORG_VIVO 2133 2138	varón
+T114	ORG_VIVO 3100 3108	paciente
+T115	ORG_VIVO 3203 3211	paciente
+T116	ORG_VIVO 3404 3412	paciente
+T117	ORG_VIVO 4415 4422	persona
+T118	ORG_VIVO 4634 4642	personas
+T119	ORG_VIVO 4713 4721	personas
+T120	ORG_VIVO 5425 5429	lúes
+T121	ORG_VIVO 5444 5455	hepatitis C
+T122	ORG_VIVO 5458 5461	VIH
+T123	ORG_VIVO 5503 5511	cannabis
+T124	ORG_VIVO 5911 5919	personas
+T125	ORG_VIVO 7001 7009	paciente
+T126	ORG_VIVO 7616 7623	familia
+T127	ORG_VIVO 7845 7856	trabajadora
+T128	ORG_VIVO 7922 7930	personas
+T129	ORG_VIVO 8045 8050	gente
+T130	ENFERMEDAD 2068 2087	trastorno psicótico
+T131	ENFERMEDAD 2210 2239	consumo compulsivo de alcohol
+T132	ENFERMEDAD 2354 2389	ideación delirante autorreferencial
+T133	ENFERMEDAD 2704 2712	ansiedad
+T134	ENFERMEDAD 3431 3448	disfunción sexual
+T135	ENFERMEDAD 4958 4964	muerte
+T136	ENFERMEDAD 5431 5442	hepatitis B
+T137	ENFERMEDAD 5444 5461	hepatitis C y VIH
+T138	ENFERMEDAD 5492 5511	positivo a cannabis
+T139	ENFERMEDAD 5595 5618	esquizofrenia paranoide
+T140	ENFERMEDAD 7935 7952	enfermedad mental
+T141	FAMILIAR-SITUACION_LABORAL 653 672	principal cuidadora
+T142	OTROS-PROFESION 7845 7863	trabajadora social
+T143	PACIENTE-SITUACION_LABORAL 700 724	Inició la escolarización
+T144	PACIENTE-SITUACION_LABORAL 3951 3978	inicio de actividad laboral
+T145	PACIENTE-PROFESION 8211 8256	comienza a trabajar de nuevo en una cafetería

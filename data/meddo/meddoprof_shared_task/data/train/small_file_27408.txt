@@ -1,0 +1,9 @@
+
+Suspicacia	O
+centrada	O
+en	O
+un	O
+compañero	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+clase	I-SITUACION_LABORAL
+.	O

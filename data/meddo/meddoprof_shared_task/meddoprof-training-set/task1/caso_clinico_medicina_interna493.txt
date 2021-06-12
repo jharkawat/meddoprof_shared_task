@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 25 años sin alergias. No enfermedades relevantes ni hábitos tóxicos. 1 embarazo con parto normal. Ama de casa. Padre fallecido de disección aórtica. Acude por hipertensión arterial (PAS 170), taquicardia (121 lpm), rubor facial y nerviosismo. Su médico de cabecera trató con ansiolíticos sin mejoría.
+Al interrogar añade síndrome constitucional con pérdida de 5 kg en 1 mes y lumbalgia mecánica de semanas de evolución.
+La exploración sorprendentemente resulta anodina. Presenta buen estado general sin hallar ninguna anomalía tras la evaluación.
+
+Pruebas Complementarias
+- Electrocardiograma: taquicardia sinusal a 115 lpm.
+- Analítica sanguínea: anemia normocítica, aumento de reactantes de fase aguda (rfa) (pcr 52.5; vsg 49) y alteración de la coagulación (inr 1.26). Estudio endocrinológico negativo.
+- Radiografía de tórax: sin alteraciones
+- Ecocardiografía: sin alteraciones.
+- Ecografía doppler abdominal: estenosis arteria renal derecha con engrosamiento de la aorta abdominal desde el tronco celiaco hasta nivel infrarrenal
+- Resonancia magnética abdominal: engrosamiento de aorta abdominal con luz de 4,5 mm, afectación de arterias renales, tronco celiaco y mesentérica superior.
+- Angio-tac: confirma aortitis abdominal.
+
+Diagnóstico
+Hipertensión arterial renovascular secundaria a Arteritis de Takayasu.
+
+Evolución
+Se inician antihipertensivos e inducción durante 6 meses con metilprednisolona y ciclofosfamida.
+La clínica remitió y los controles analíticos reflejaban mejoría. Sin embargo, el Angio-TAC de control tras fin de la fase de inducción no mostró diferencias, persistiendo la afectación arterial.
+Conocer si la enfermedad se mantenía inflamatoriamente activa resultaba fundamental para marcar los nuevos pasos a seguir, debido a que hasta en el 40% los RFA son normales en fase activa.
+Por ello, se solicita un PET-TAC pero dicha petición fue denegada en dos ocasiones. Se insistió a Servicios Centrales Andaluces de Salud y, finalmente, fue concedida.
+El PET-TAC reflejó una captación del radiotrazador en aorta abdominal (signo de enfermedad en fase inflamatoria activa). Mantuvimos la fase de inducción empleando un nuevo tratamiento con infliximab y corticoides.

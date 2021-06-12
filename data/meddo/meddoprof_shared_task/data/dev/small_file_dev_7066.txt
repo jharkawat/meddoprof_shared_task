@@ -1,0 +1,11 @@
+
+Se	O
+realizó	O
+radiografía	O
+de	O
+tórax	O
+sin	O
+apreciar	O
+hallazgos	O
+patológicos	O
+.	O

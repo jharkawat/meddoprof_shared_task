@@ -1,0 +1,17 @@
+
+Serologías	O
+positivas	O
+(	O
+Infecciones	O
+pasadas	O
+)	O
+:	O
+IgG	O
+CMV	O
+,	O
+IgG	O
+VEB	O
+,	O
+VHA	O
+IgG	O
+.	O

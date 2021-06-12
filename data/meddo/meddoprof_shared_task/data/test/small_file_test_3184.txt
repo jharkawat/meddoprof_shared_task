@@ -1,0 +1,18 @@
+
+Carcinoma	O
+de	O
+mama	O
+ductal	O
+infiltrante	O
+cT1N0M0	O
+RE	O
++	O
+;	O
+HER2	O
+–	O
+Ki	O
+67	O
+:	O
+5	O
+%	O
+.	O

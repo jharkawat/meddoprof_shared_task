@@ -1,0 +1,20 @@
+
+Px	O
+refiere	O
+no	O
+haber	O
+tenido	O
+antecedentes	O
+de	O
+signos	O
+ni	O
+síntomas	O
+,	O
+previo	O
+a	O
+la	O
+aparición	O
+de	O
+caso	O
+actual	O
+.	O

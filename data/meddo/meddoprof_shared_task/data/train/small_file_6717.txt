@@ -1,0 +1,5 @@
+
+PCR	O
+ligeramente	O
+aumentada	O
+.	O

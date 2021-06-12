@@ -1,0 +1,11 @@
+
+Recibe	O
+dos	O
+sesiones	O
+semanales	O
+de	O
+Logoterapia	O
+en	B-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+colegio	I-SITUACION_LABORAL
+.	O

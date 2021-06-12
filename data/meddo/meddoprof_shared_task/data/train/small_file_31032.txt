@@ -1,0 +1,27 @@
+
+Describe	O
+,	O
+asimismo	O
+,	O
+fenómenos	O
+de	O
+influencia	O
+sobre	O
+otros	O
+pacientes	O
+,	O
+expresando	O
+que	O
+"	O
+a	O
+través	O
+de	O
+los	O
+gestos	O
+puede	O
+ayudar	O
+a	O
+otros	O
+pacientes	O
+"	O
+.	O

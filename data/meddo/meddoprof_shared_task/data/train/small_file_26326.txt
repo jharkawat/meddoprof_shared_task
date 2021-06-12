@@ -1,0 +1,10 @@
+
+En	O
+el	O
+futuro	O
+le	O
+gustaría	O
+trabajar	O
+como	O
+informática	B-PROFESION
+.	O

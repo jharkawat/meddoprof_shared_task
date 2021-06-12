@@ -1,0 +1,6 @@
+
+Auscultación	O
+cardiorrespiratoria	O
+:	O
+normal	O
+.	O

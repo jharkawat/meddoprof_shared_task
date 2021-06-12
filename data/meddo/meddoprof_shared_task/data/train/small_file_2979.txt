@@ -1,0 +1,25 @@
+
+Recientemente	O
+ha	O
+comenzado	O
+a	O
+mantener	O
+relaciones	O
+sexuales	O
+con	O
+su	O
+expareja	O
+con	O
+uso	O
+de	O
+preservativo	O
+en	O
+algunas	O
+relaciones	O
+pero	O
+no	O
+durante	O
+el	O
+acto	O
+completo	O
+.	O

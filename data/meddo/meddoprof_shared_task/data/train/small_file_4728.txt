@@ -1,0 +1,12 @@
+
+En	O
+la	O
+consulta	O
+podemos	O
+hablar	O
+con	O
+él	O
+mediante	O
+una	O
+traductora	B-PROFESION
+.	O

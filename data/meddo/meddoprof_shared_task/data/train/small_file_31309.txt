@@ -1,0 +1,26 @@
+
+En	O
+contraste	O
+,	O
+la	O
+inteligencia	O
+"	O
+fluida	O
+"	O
+se	O
+refiere	O
+a	O
+la	O
+capacidad	O
+de	O
+adquirir	O
+nuevos	O
+conceptos	O
+y	O
+de	O
+adaptarse	O
+a	O
+las	O
+nuevas	O
+situaciones	O
+.	O

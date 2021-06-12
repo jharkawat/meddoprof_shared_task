@@ -1,0 +1,21 @@
+
+Dado	O
+el	O
+mal	O
+estado	O
+general	O
+del	O
+paciente	O
+,	O
+se	O
+realiza	O
+TAC	O
+cerebral	O
+urgente	O
+que	O
+informa	O
+de	O
+edema	O
+cerebral	O
+significativo	O
+.	O

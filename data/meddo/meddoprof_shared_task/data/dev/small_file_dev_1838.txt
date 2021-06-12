@@ -1,0 +1,18 @@
+
+Múltiples	O
+trabajos	B-PROFESION
+desde	I-PROFESION
+los	I-PROFESION
+18	I-PROFESION
+años	I-PROFESION
+(	I-PROFESION
+hostelería	I-PROFESION
+,	O
+dependienta	B-PROFESION
+,	O
+empaquetadora	B-PROFESION
+,	O
+etc	O
+.	O
+)	O
+.	O

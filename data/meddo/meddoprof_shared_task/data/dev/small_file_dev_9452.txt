@@ -1,0 +1,6 @@
+
+Ventrículo	O
+izquierdo	O
+gravemente	O
+dilatado	O
+.	O

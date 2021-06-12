@@ -1,0 +1,26 @@
+
+En	O
+el	O
+control	O
+a	O
+los	O
+6	O
+meses	O
+después	O
+del	O
+inicio	O
+del	O
+tratamiento	O
+la	O
+paciente	O
+no	O
+presentaba	O
+lesiones	O
+y	O
+sólo	O
+se	O
+observaba	O
+leve	O
+hiperpigmentación	O
+residual	O
+.	O

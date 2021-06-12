@@ -1,0 +1,4 @@
+
+Ritmo	O
+regular	O
+.	O

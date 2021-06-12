@@ -1,0 +1,14 @@
+
+Gran	O
+fumador	O
+a	O
+diario	O
+de	O
+en	O
+torno	O
+a	O
+un	O
+paquete	O
+al	O
+día	O
+.	O

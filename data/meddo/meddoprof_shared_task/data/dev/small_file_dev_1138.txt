@@ -1,0 +1,22 @@
+
+Afirmaba	O
+que	O
+la	O
+noche	O
+anterior	O
+habían	O
+compartido	O
+varias	O
+botellas	O
+de	O
+"	O
+cider	O
+"	O
+(	O
+sidra	O
+artificial	O
+de	O
+bajo	O
+costo	O
+)	O
+.	O

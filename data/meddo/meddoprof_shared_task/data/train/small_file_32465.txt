@@ -1,0 +1,18 @@
+
+Alucinaciones	O
+auditivas	O
+en	O
+forma	O
+de	O
+voces	O
+masculinas	O
+de	O
+personas	O
+desconocidas	O
+,	O
+insultantes	O
+y	O
+comentadoras	O
+de	O
+actividad	O
+.	O

@@ -1,0 +1,22 @@
+
+Hasta	O
+hace	O
+poco	O
+estuvo	O
+cuidando	O
+de	O
+su	O
+suegro	O
+durante	O
+15	O
+años	O
+(	O
+fallecido	O
+el	O
+24	O
+/	O
+01	O
+/	O
+2017	O
+)	O
+.	O

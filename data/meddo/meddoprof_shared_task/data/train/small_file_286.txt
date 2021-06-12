@@ -1,0 +1,20 @@
+
+Nuestra	O
+paciente	O
+se	O
+hallaba	O
+en	O
+el	O
+día	O
+13	O
+de	O
+autoconfinamiento	O
+y	O
+esperaba	O
+regresar	B-SITUACION_LABORAL
+al	I-SITUACION_LABORAL
+trabajo	I-SITUACION_LABORAL
+al	O
+día	O
+siguiente	O
+.	O

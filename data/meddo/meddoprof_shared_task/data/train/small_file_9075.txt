@@ -1,0 +1,9 @@
+
+negativo	O
+,	O
+ANTI	O
+BETA2	O
+GLICOPROTEINA	O
+IgM	O
+negativo	O
+.	O

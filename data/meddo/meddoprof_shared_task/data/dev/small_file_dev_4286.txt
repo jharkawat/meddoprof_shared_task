@@ -1,0 +1,18 @@
+
+Dados	O
+los	O
+hallazgos	O
+,	O
+se	O
+reinterroga	O
+a	O
+la	O
+paciente	O
+por	O
+el	O
+antecedente	O
+de	O
+inyección	O
+de	O
+silicona	O
+.	O

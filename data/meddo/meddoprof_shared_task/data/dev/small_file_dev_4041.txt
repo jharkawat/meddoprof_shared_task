@@ -1,0 +1,10 @@
+
+Ni	O
+se	O
+lava	O
+ni	O
+se	O
+cambia	O
+de	O
+ropa	O
+.	O

@@ -1,0 +1,4 @@
+
+ENFERMEDAD	O
+ACTUAL	O
+:	O

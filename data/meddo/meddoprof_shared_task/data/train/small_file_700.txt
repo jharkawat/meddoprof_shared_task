@@ -1,0 +1,15 @@
+
+Se	O
+indica	O
+una	O
+laparotomía	O
+exploradora	O
+urgente	O
+bajo	O
+la	O
+sospecha	O
+de	O
+una	O
+apendicitis	O
+aguda	O
+.	O

@@ -1,0 +1,24 @@
+
+Cinco	O
+días	O
+después	O
+dichas	O
+levaduras	O
+son	O
+identificadas	O
+como	O
+Cándida	O
+famata	O
+,	O
+y	O
+crecen	O
+en	O
+6	O
+de	O
+7	O
+hemocultivos	O
+extraídos	O
+hasta	O
+el	O
+momento	O
+.	O

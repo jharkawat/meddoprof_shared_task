@@ -1,0 +1,22 @@
+
+Antecedentes	O
+personales	O
+:	O
+soltero	O
+y	O
+sin	O
+hijos	O
+,	O
+reside	O
+con	O
+sus	O
+padres	O
+y	O
+viven	O
+en	O
+entorno	O
+de	O
+alta	O
+expresividad	O
+emocional	O
+.	O

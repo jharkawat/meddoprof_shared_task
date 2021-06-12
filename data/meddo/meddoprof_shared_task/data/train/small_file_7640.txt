@@ -1,0 +1,18 @@
+
+Las	O
+úlceras	O
+de	O
+la	O
+región	O
+maleolar	O
+interna	O
+izquierda	O
+fueron	O
+desbridadas	O
+y	O
+posteriormente	O
+curadas	O
+con	O
+mupirocina	O
+tópica	O
+.	O

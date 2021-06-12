@@ -1,0 +1,20 @@
+
+A	O
+la	O
+exploración	O
+física	O
+,	O
+se	O
+encontraba	O
+afebril	O
+,	O
+eupneica	O
+y	O
+estable	O
+desde	O
+el	O
+punto	O
+de	O
+vista	O
+hemodinámico	O
+.	O

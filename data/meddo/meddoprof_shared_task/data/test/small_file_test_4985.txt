@@ -1,0 +1,14 @@
+
+Biopsia	O
+de	O
+lesión	O
+ósea	O
+con	O
+inmunohistoquímica	O
+para	O
+Ck	O
+7	O
+(	O
+10x	O
+)	O
+.	O

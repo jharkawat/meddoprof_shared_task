@@ -1,0 +1,4 @@
+
+Escolaridad	O
+:	O
+Profesional	B-SITUACION_LABORAL

@@ -1,0 +1,24 @@
+
+Distrofia	O
+miotónica	O
+tipo	O
+1	O
+asociada	O
+a	O
+narcolepsia	O
+con	O
+alucinaciones	O
+hipnagógicas	O
+y	O
+sin	O
+cataplejia	O
+,	O
+con	O
+síndrome	O
+de	O
+apneas	O
+obstructivas	O
+del	O
+sueño	O
+leve	O
+.	O

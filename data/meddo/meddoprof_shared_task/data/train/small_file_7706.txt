@@ -1,0 +1,27 @@
+
+En	O
+la	O
+siguiente	O
+revisión	O
+dermatológica	O
+a	O
+los	O
+3	O
+meses	O
+(	O
+mayo	O
+de	O
+2019	O
+)	O
+,	O
+la	O
+paciente	O
+había	O
+mejorado	O
+aún	O
+más	O
+,	O
+se	O
+encuentra	O
+eutímica	O
+.	O

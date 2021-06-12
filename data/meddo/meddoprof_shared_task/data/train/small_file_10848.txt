@@ -1,0 +1,26 @@
+
+Bebedor	O
+de	O
+2	O
+-	O
+3	O
+cervezas	O
+y	O
+250	O
+ml	O
+de	O
+vino	O
+diarios	O
+,	O
+más	O
+1	O
+ó	O
+2	O
+copas	O
+de	O
+licor	O
+los	O
+fines	O
+de	O
+semana	O
+.	O

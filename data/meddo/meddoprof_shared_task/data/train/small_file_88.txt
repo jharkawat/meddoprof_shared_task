@@ -1,0 +1,10 @@
+
+La	O
+prueba	O
+de	O
+COVID	O
+-	O
+19	O
+resultó	O
+positiva	O
+.	O

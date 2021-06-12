@@ -1,0 +1,18 @@
+
+El	O
+paciente	O
+afronta	O
+la	O
+pérdida	O
+de	O
+forma	O
+adecuada	O
+,	O
+sin	O
+descompensarse	O
+de	O
+su	O
+patología	O
+de	O
+base	O
+.	O

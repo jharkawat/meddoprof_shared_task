@@ -1,0 +1,16 @@
+
+Se	O
+coloca	O
+sonda	O
+nasogástrica	O
+(	O
+SNG	O
+)	O
+,	O
+se	O
+administra	O
+carbón	O
+activado	O
+y	O
+flumazenilo	O
+.	O

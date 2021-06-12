@@ -1,0 +1,24 @@
+
+Tras	O
+cumplimiento	O
+de	O
+antibioterapia	O
+intravenosa	O
+con	O
+Ertapenem	O
+durante	O
+14	O
+días	O
+y	O
+resolución	O
+del	O
+cuadro	O
+clínico	O
+,	O
+la	O
+paciente	O
+es	O
+dada	O
+de	O
+alta	O
+.	O

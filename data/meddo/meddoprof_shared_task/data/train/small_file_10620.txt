@@ -1,0 +1,21 @@
+
+Estos	O
+datos	O
+se	O
+reproducen	O
+en	O
+la	O
+telemetría	O
+,	O
+y	O
+se	O
+normalizan	O
+con	O
+la	O
+realización	O
+de	O
+una	O
+prueba	O
+de	O
+esfuerzo	O
+.	O

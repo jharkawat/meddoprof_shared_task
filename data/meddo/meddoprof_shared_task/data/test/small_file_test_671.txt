@@ -1,0 +1,14 @@
+
+Fue	O
+derivado	O
+a	O
+Neumonología	O
+y	O
+luego	O
+al	O
+Consultorio	O
+de	O
+Patología	O
+Ocupacional	O
+Respiratoria	O
+.	O

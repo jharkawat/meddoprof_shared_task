@@ -1,0 +1,19 @@
+
+No	O
+había	O
+afectación	O
+de	O
+mucosa	O
+oral	O
+ni	O
+genital	O
+y	O
+no	O
+se	O
+palpaban	O
+adenopatías	O
+en	O
+cadenas	O
+ganglionares	O
+accesibles	O
+.	O

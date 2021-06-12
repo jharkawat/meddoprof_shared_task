@@ -1,0 +1,17 @@
+
+El	O
+mango	O
+del	O
+martillo	O
+está	O
+ausente	O
+y	O
+existe	O
+osteolisis	O
+del	O
+yunque	O
+y	O
+cruras	O
+del	O
+estribo	O
+.	O

@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 222 233	corticoides
+T2	PROCEDIMIENTO 268 286	Exploración física
+T3	PROCEDIMIENTO 511 522	corticoides
+T4	NEG 28 31	sin
+T5	NSCO 32 66	antecedentes personales de interés
+T6	NEG 351 353	no
+T7	NSCO 354 365	infiltradas
+T8	ORG_VIVO 10 15	Varón
+T9	ORG_VIVO 45 55	personales
+T10	ORG_VIVO 68 90	trabajador en un bazar
+T11	ORG_VIVO 207 219	antifúngicos
+T12	ORG_VIVO 670 677	plantas
+T13	ORG_VIVO 824 832	paciente
+T14	ORG_VIVO 944 951	plantas
+T15	ORG_VIVO 1056 1063	plantas
+T16	ORG_VIVO 1252 1259	plantas
+T17	ORG_VIVO 1298 1305	plantas
+T18	ENFERMEDAD 105 143	lesiones persistentes en cara y cuello
+T19	ENFERMEDAD 630 661	Dermatitis alérgica de contacto
+T20	PACIENTE-PROFESION 68 90	trabajador en un bazar

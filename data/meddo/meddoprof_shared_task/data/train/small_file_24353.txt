@@ -1,0 +1,8 @@
+
+No	O
+síntomas	O
+patognomónicos	O
+del	O
+espectro	O
+autista	O
+.	O

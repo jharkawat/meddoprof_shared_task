@@ -1,0 +1,8 @@
+
+No	O
+hay	O
+alteraciones	O
+en	O
+pensamiento	O
+abstracto	O
+.	O

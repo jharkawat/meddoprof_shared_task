@@ -1,0 +1,17 @@
+
+Ella	O
+es	O
+una	O
+mujer	O
+sobreprotectora	O
+que	O
+sigue	O
+viendo	O
+a	O
+su	O
+hijo	O
+como	O
+un	O
+niño	O
+pequeño	O
+.	O

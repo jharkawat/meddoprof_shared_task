@@ -1,0 +1,15 @@
+
+Ingresa	O
+en	O
+el	O
+Servicio	O
+de	O
+Oftalmología	O
+para	O
+tratamiento	O
+corticoideo	O
+intravenoso	O
+y	O
+estudio	O
+complementario	O
+.	O

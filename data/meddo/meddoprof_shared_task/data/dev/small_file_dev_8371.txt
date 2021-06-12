@@ -1,0 +1,22 @@
+
+Posteriormente	O
+,	O
+se	O
+detectó	O
+en	O
+la	O
+paciente	O
+una	O
+sordera	O
+progresiva	O
+que	O
+se	O
+relacionó	O
+con	O
+ototoxicidad	O
+secundaria	O
+al	O
+tratamiento	O
+con	O
+aminoglucósidos	O
+.	O

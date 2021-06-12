@@ -1,0 +1,9 @@
+
+VCA	O
+IgM	O
+negativo	O
+,	O
+AntiEBNA	O
+IgG	O
+positivo	O
+.	O

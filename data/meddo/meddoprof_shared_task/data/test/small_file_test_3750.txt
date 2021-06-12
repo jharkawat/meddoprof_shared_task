@@ -1,0 +1,5 @@
+
+Pelvis	O
+sin	O
+alteraciones	O
+.	O

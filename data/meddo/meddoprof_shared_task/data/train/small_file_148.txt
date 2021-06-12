@@ -1,0 +1,15 @@
+
+Seis	O
+días	O
+antes	O
+del	O
+ingreso	O
+,	O
+el	O
+paciente	O
+acudió	O
+al	O
+médico	B-PROFESION
+de	I-PROFESION
+cabecera	I-PROFESION
+.	O

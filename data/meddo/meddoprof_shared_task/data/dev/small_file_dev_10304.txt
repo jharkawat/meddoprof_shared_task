@@ -1,0 +1,9 @@
+
+No	O
+podía	O
+concentrarse	O
+y	O
+se	O
+irritaba	O
+fácilmente	O
+.	O

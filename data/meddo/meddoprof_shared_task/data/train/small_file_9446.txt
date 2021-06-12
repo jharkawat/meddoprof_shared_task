@@ -1,0 +1,12 @@
+
+Mejoría	O
+radiológica	O
+con	O
+reducción	O
+de	O
+volumen	O
+de	O
+líquido	O
+libre	O
+intraperitoneal	O
+.	O

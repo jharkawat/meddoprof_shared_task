@@ -1,0 +1,21 @@
+
+Ha	O
+requerido	O
+varios	O
+ingresos	O
+hospitalarios	O
+en	O
+psiquiatría	O
+por	O
+episodios	O
+de	O
+agresividad	O
+hacia	O
+los	O
+demás	O
+y	O
+abandono	O
+del	O
+tratamiento	O
+farmacológico	O
+.	O

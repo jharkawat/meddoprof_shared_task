@@ -1,0 +1,12 @@
+
+Los	O
+hallazgos	O
+para	O
+la	O
+calcitonina	O
+y	O
+los	O
+anestésicos	O
+fueron	O
+variables	O
+.	O

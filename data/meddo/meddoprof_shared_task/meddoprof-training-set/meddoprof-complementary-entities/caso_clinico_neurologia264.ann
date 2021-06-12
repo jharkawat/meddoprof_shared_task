@@ -1,0 +1,59 @@
+T1	SINTOMA 155 175	midriasis unilateral
+T2	SINTOMA 178 192	visión borrosa
+T3	SINTOMA 400 407	cefalea
+T4	SINTOMA 412 419	náuseas
+T5	SINTOMA 423 430	vómitos
+T6	SINTOMA 1378 1388	anisocoria
+T7	SINTOMA 1393 1426	midriasis arreactiva de la pupila
+T8	SINTOMA 1775 1781	miosis
+T9	SINTOMA 2243 2257	déficit visual
+T10	PROCEDIMIENTO 1255 1273	Exploración física
+T11	PROCEDIMIENTO 1277 1295	exploración física
+T12	PROCEDIMIENTO 1342 1365	exploración neurológica
+T13	PROCEDIMIENTO 1451 1469	examen neurológico
+T14	PROCEDIMIENTO 1540 1549	hemograma
+T15	PROCEDIMIENTO 1625 1645	Radiografía de tórax
+T16	PROCEDIMIENTO 1698 1730	Tomografía computarizada craneal
+T17	PROCEDIMIENTO 1742 1761	Test de pilocarpina
+T18	NEG 28 31	sin
+T19	NSCO 32 75	antecedentes médico- quirúrgicos de interés
+T20	NEG 385 387	No
+T21	NSCO 388 407	historia de cefalea
+T22	NEG 409 411	no
+T23	NSCO 412 430	náuseas ni vómitos
+T24	NEG 432 434	No
+T25	NSCO 435 477	pérdida de fuerza, ni alteración sensitiva
+T26	NEG 914 919	nunca
+T27	NSCO 920 942	antes había manipulado
+T28	NEG 1093 1096	sin
+T29	NSCO 1097 1121	haberse lavado las manos
+T30	NEG 1304 1306	no
+T31	NSCO 1307 1334	presentaba particularidades
+T32	NEG 1470 1472	no
+T33	NSCO 1473 1492	mostró alteraciones
+T34	NEG 1647 1650	sin
+T35	NSCO 1651 1694	evidencia de patología pleuropulmonar aguda
+T36	NEG 1763 1774	ausencia de
+T37	NSCO 1775 1781	miosis
+T38	UNC 1933 1944	sospecha de
+T39	USCO 1945 1986	midriasis tóxica por contacto con plantas
+T40	ORG_VIVO 10 15	Varón
+T41	ORG_VIVO 331 336	mujer
+T42	ORG_VIVO 501 509	paciente
+T43	ORG_VIVO 612 621	neurólogo
+T44	ORG_VIVO 626 634	paciente
+T45	ORG_VIVO 717 724	plantas
+T46	ORG_VIVO 896 902	planta
+T47	ORG_VIVO 1882 1898	Atropa belladona
+T48	ORG_VIVO 1979 1986	plantas
+T49	ORG_VIVO 1991 1999	paciente
+T50	ORG_VIVO 2073 2081	especies
+T51	ORG_VIVO 2085 2092	plantas
+T52	ORG_VIVO 2121 2127	planta
+T53	ORG_VIVO 2147 2163	Atropa belladona
+T54	ENFERMEDAD 1664 1694	patología pleuropulmonar aguda
+T55	ENFERMEDAD 1832 1898	Midriasis farmacológica secundaria a contacto con Atropa belladona
+T56	ENFERMEDAD 1945 1961	midriasis tóxica
+T57	SANITARIO-PROFESION 612 621	neurólogo
+T58	PACIENTE-SITUACION_LABORAL 202 235	estaba trabajando en el ordenador
+T59	PACIENTE-ACTIVIDAD 763 804	dedicarse a las actividades de jardinería

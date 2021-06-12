@@ -1,0 +1,13 @@
+
+Neurológico	O
+:	O
+Alerta	O
+,	O
+colabora	O
+con	O
+el	O
+interrogatorio	O
+y	O
+examen	O
+físico	O
+.	O

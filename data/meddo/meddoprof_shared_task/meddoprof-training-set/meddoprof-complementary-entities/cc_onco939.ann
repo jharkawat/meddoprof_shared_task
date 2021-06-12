@@ -1,0 +1,91 @@
+T1	SINTOMA 813 820	cefalea
+T2	SINTOMA 892 910	mal estado general
+T3	SINTOMA 919 925	vómito
+T4	SINTOMA 3602 3638	fluctuación del nivel de consciencia
+T5	SINTOMA 3640 3646	afasia
+T6	SINTOMA 4193 4201	acatisia
+T7	SINTOMA 4417 4425	falleció
+T8	PROCEDIMIENTO 537 557	resonancia magnética
+T9	PROCEDIMIENTO 559 561	RM
+T10	PROCEDIMIENTO 944 967	exploración neurológica
+T11	PROCEDIMIENTO 1019 1058	tomografía computarizada (TC) de cráneo
+T12	PROCEDIMIENTO 1284 1302	Exploración física
+T13	PROCEDIMIENTO 1483 1506	exploración neurológica
+T14	PROCEDIMIENTO 1588 1608	Exploración cardiaca
+T15	PROCEDIMIENTO 1658 1692	exploración de miembros inferiores
+T16	PROCEDIMIENTO 1950 1970	Radiografía de fémur
+T17	PROCEDIMIENTO 2073 2093	Radiografía de tórax
+T18	PROCEDIMIENTO 2176 2194	TC de extremidades
+T19	PROCEDIMIENTO 2514 2555	Biopsia con aguja gruesa (BAG) percutánea
+T20	PROCEDIMIENTO 2622 2647	RM cerebral con contraste
+T21	PROCEDIMIENTO 2835 2860	Biopsia de partes blandas
+T22	PROCEDIMIENTO 3248 3265	poliquimioterapia
+T23	PROCEDIMIENTO 3355 3383	soporte con corticosteroides
+T24	PROCEDIMIENTO 3385 3397	sueroterapia
+T25	PROCEDIMIENTO 3399 3408	analgesia
+T26	PROCEDIMIENTO 3483 3513	biopsia de la lesión del muslo
+T27	PROCEDIMIENTO 3913 3930	poliquimioterapia
+T28	PROCEDIMIENTO 4026 4050	radioterapia holocraneal
+T29	NEG 36 39	sin
+T30	NSCO 40 82	antecedentes médico-quirúrgicos de interés
+T31	NEG 84 86	No
+T32	NSCO 87 122	era tomadora de tratamiento crónico
+T33	NEG 195 197	no
+T34	NSCO 198 243	presentaba historia familiar de neoplasias ni
+T35	NEG 244 251	tampoco
+T36	NSCO 252 291	refiere exposición a tóxicos o químicos
+T37	NEG 586 588	no
+T38	NSCO 589 627	había sido valorada en consulta médica
+T39	UNC 1106 1120	compatible con
+T40	USCO 1121 1140	metástasis cerebral
+T41	NEG 1507 1510	sin
+T42	NSCO 1511 1520	hallazgos
+T43	NEG 1553 1555	no
+T44	NSCO 1556 1586	presentó adenopatías palpables
+T45	NEG 1635 1638	sin
+T46	NSCO 1639 1650	incidencias
+T47	NEG 3967 3979	Se desestimó
+T48	NSCO 3980 4020	en un primer momento la cirugía cerebral
+T49	NEG 4278 4280	no
+T50	NSCO 4281 4297	presentó mejoría
+T51	NEG 4450 4453	sin
+T52	NSCO 4454 4485	presentar signos de sufrimiento
+T53	FARMACO 3270 3280	cisplatino
+T54	FARMACO 3283 3294	adriamicina
+T55	FARMACO 3941 3951	cisplatino
+T56	FARMACO 3954 3965	adriamicina
+T57	ORG_VIVO 10 24	Paciente mujer
+T58	ORG_VIVO 124 129	Mujer
+T59	ORG_VIVO 143 154	ama de casa
+T60	ORG_VIVO 157 162	madre
+T61	ORG_VIVO 170 175	hijos
+T62	ORG_VIVO 186 194	paciente
+T63	ORG_VIVO 218 226	familiar
+T64	ORG_VIVO 379 387	paciente
+T65	ORG_VIVO 508 513	mujer
+T66	ORG_VIVO 758 766	paciente
+T67	ORG_VIVO 1423 1430	persona
+T68	ORG_VIVO 2026 2033	cebolla
+T69	ORG_VIVO 2432 2439	cebolla
+T70	ORG_VIVO 3818 3826	paciente
+T71	ORG_VIVO 4055 4063	paciente
+T72	ORG_VIVO 4137 4145	paciente
+T73	ORG_VIVO 4269 4277	paciente
+T74	ORG_VIVO 4337 4344	familia
+T75	ORG_VIVO 4408 4416	paciente
+T76	ENFERMEDAD 230 240	neoplasias
+T77	ENFERMEDAD 344 354	neoplasias
+T78	ENFERMEDAD 420 439	coxalgia progresiva
+T79	ENFERMEDAD 650 724	lesión de aspecto tumoral que afecta a diáfisis femoral proximal de pierna
+T80	ENFERMEDAD 1077 1105	sangrado intraparenquimatoso
+T81	ENFERMEDAD 1121 1140	metástasis cerebral
+T82	ENFERMEDAD 1565 1576	adenopatías
+T83	ENFERMEDAD 2196 2264	lesión lítica intramedular en tercio proximal de la diáfisis femoral
+T84	ENFERMEDAD 2649 2705	lesión hemorrágica temporal derecha (2,8 cm) y occipital
+T85	ENFERMEDAD 2792 2821	Hematoma subdural y tentorial
+T86	ENFERMEDAD 3067 3113	osteosarcoma de células pequeñas de alto grado
+T87	ENFERMEDAD 3128 3160	Osteosarcoma de células pequeñas
+T88	ENFERMEDAD 3185 3215	afectación cerebral y pulmonar
+T89	ENFERMEDAD 3497 3513	lesión del muslo
+T90	ENFERMEDAD 3655 3675	síndrome vertiginoso
+T91	PACIENTE-SITUACION_LABORAL 143 154	ama de casa

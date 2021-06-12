@@ -1,0 +1,182 @@
+T1	SINTOMA 149 185	alteraciones conductuales depresivas
+T2	SINTOMA 187 194	astenia
+T3	SINTOMA 207 224	insomnio pertinaz
+T4	SINTOMA 469 491	alucinaciones visuales
+T5	SINTOMA 508 526	ideación delirante
+T6	SINTOMA 589 603	desorientación
+T7	SINTOMA 612 641	agitación psicomotriz florida
+T8	SINTOMA 644 651	vómitos
+T9	SINTOMA 1092 1101	apirética
+T10	SINTOMA 1136 1144	Eupneica
+T11	SINTOMA 1281 1302	agitación psicomotriz
+T12	SINTOMA 1630 1640	meningismo
+T13	SINTOMA 1885 1928	elevación de la enolasa neuronal específica
+T14	SINTOMA 2768 2783	proteinorraquia
+T15	SINTOMA 5653 5666	consolidación
+T16	SINTOMA 6334 6358	deterioro neurocognitivo
+T17	SINTOMA 6882 6894	bradipsiquia
+T18	SINTOMA 6897 6904	astenia
+T19	SINTOMA 7276 7283	astenia
+T20	SINTOMA 7407 7424	oligoasintomática
+T21	SINTOMA 7537 7550	consolidación
+T22	PROCEDIMIENTO 322 346	tratamiento psiquiátrico
+T23	PROCEDIMIENTO 351 366	benzodiacepinas
+T24	PROCEDIMIENTO 369 383	antidepresivos
+T25	PROCEDIMIENTO 993 1011	Exploración física
+T26	PROCEDIMIENTO 1182 1203	auscultación cardíaca
+T27	PROCEDIMIENTO 1713 1722	hemograma
+T28	PROCEDIMIENTO 2049 2073	Estudio de autoinmunidad
+T29	PROCEDIMIENTO 2184 2196	RM de cabeza
+T30	PROCEDIMIENTO 2506 2526	electroencefalograma
+T31	PROCEDIMIENTO 2625 2640	Estudio del LCR
+T32	PROCEDIMIENTO 2855 2859	Gram
+T33	PROCEDIMIENTO 2907 2921	punción lumbar
+T34	PROCEDIMIENTO 2927 2961	estudio de autoinmunidad en el LCR
+T35	PROCEDIMIENTO 3106 3130	TC toracoabdominopélvica
+T36	PROCEDIMIENTO 3773 3775	TC
+T37	PROCEDIMIENTO 3784 3806	RM de abdomen y pelvis
+T38	PROCEDIMIENTO 4014 4045	PAAF transabdominal pancreática
+T39	PROCEDIMIENTO 4217 4221	PAAF
+T40	PROCEDIMIENTO 4260 4264	PAAF
+T41	PROCEDIMIENTO 4379 4399	biopsia tipo tru-cut
+T42	PROCEDIMIENTO 4438 4460	punción transabdominal
+T43	PROCEDIMIENTO 4627 4654	ultrasonografía endoscópica
+T44	PROCEDIMIENTO 5011 5013	TC
+T45	PROCEDIMIENTO 5132 5156	megadosis de corticoides
+T46	PROCEDIMIENTO 5406 5419	quimioterapia
+T47	PROCEDIMIENTO 5637 5649	radioterapia
+T48	PROCEDIMIENTO 5862 5875	quimioterapia
+T49	PROCEDIMIENTO 6167 6176	analgesia
+T50	PROCEDIMIENTO 6394 6418	tratamiento anticomicial
+T51	PROCEDIMIENTO 6540 6566	estabilización neurológica
+T52	PROCEDIMIENTO 6721 6743	ciclo de quimioterapia
+T53	PROCEDIMIENTO 6969 6982	quimioterapia
+T54	PROCEDIMIENTO 6987 6989	TC
+T55	PROCEDIMIENTO 7134 7136	TC
+T56	PROCEDIMIENTO 7186 7199	quimioterapia
+T57	PROCEDIMIENTO 7515 7533	radioterapia local
+T58	PROCEDIMIENTO 7645 7647	RT
+T59	PROCEDIMIENTO 7709 7722	quimioterapia
+T60	PROCEDIMIENTO 7828 7830	TC
+T61	PROCEDIMIENTO 8018 8031	quimioterapia
+T62	NEG 41 44	sin
+T63	NSCO 45 82	otros antecedentes médicos de interés
+T64	NEG 385 388	sin
+T65	NSCO 389 420	que la paciente muestre mejoría
+T66	NEG 589 603	desorientación
+T67	NSCO 604 610	franca
+T68	NEG 941 943	No
+T69	NSCO 944 990	presentaba antecedentes familiares oncológicos
+T70	NEG 1146 1148	No
+T71	NSCO 1149 1203	se evidencian alteraciones en la auscultación cardíaca
+T72	NEG 1254 1257	sin
+T73	NSCO 1258 1270	alteraciones
+T74	NEG 1350 1362	desorientada
+T75	NSCO 1363 1382	en las tres esferas
+T76	NEG 1391 1393	no
+T77	NSCO 1394 1441	se objetivan alteraciones formales del lenguaje
+T78	NEG 1600 1602	no
+T79	NSCO 1603 1612	valorable
+T80	NEG 1614 1616	No
+T81	NSCO 1617 1640	se evidenció meningismo
+T82	NEG 1734 1737	sin
+T83	NSCO 1738 1750	alteraciones
+T84	NEG 2031 2034	sin
+T85	NSCO 2035 2047	alteraciones
+T86	NEG 2074 2082	negativo
+T87	NEG 2084 2087	ANA
+T88	NSCO 2088 2095	por IFI
+T89	NEG 2096 2104	negativo
+T90	NEG 2171 2180	negativos
+T91	UNC 2340 2348	sugieren
+T92	USCO 2349 2395	pequeñas lesiones hipóxico-isquémicas crónicas
+T93	NEG 2397 2400	Sin
+T94	NSCO 2401 2431	otros hallazgos significativos
+T95	NEG 2468 2471	sin
+T96	NSCO 2472 2499	hallarse otras alteraciones
+T97	NEG 2861 2869	negativa
+T98	NEG 2875 2883	negativa
+T99	NSCO 2884 2895	para herpes
+T100	NEG 3056 3058	no
+T101	NSCO 3059 3102	se objetivaron alteraciones citobioquímicas
+T102	NEG 3424 3435	ausencia de
+T103	NSCO 3436 3464	obstrucción de la vía biliar
+T104	UNC 3474 3481	posible
+T105	USCO 3482 3489	linfoma
+T106	NEG 3504 3506	no
+T107	NSCO 3507 3582	se objetivaron adenopatías retroperitoneales ni mesentéricas significativas
+T108	NEG 3593 3600	tampoco
+T109	NSCO 3601 3628	metástasis en otros órganos
+T110	NEG 3697 3700	sin
+T111	NSCO 3701 3743	observarse adenopatías supradiafragmáticas
+T112	NEG 3862 3865	sin
+T113	NSCO 3866 3906	signos de infiltración local ni vascular
+T114	NEG 4054 4062	negativa
+T115	NSCO 4063 4082	para adenocarcinoma
+T116	UNC 4095 4109	compatible con
+T117	USCO 4110 4136	proceso linfoproliferativo
+T118	NEG 4145 4147	no
+T119	NSCO 4148 4193	fue válida para filiar el infiltrado linfoide
+T120	NEG 4311 4314	sin
+T121	NSCO 4315 4353	poder descartar su origen inflamatorio
+T122	NEG 4535 4537	no
+T123	NSCO 4538 4552	significativos
+T124	UNC 4706 4720	compatible con
+T125	USCO 4721 4765	carcinoma indiferenciado de células pequeñas
+T126	UNC 4949 4960	sospecha de
+T127	USCO 4961 5013	encefalopatía autoinmune tras los hallazgos en la TC
+T128	NEG 5576 5579	sin
+T129	NSCO 5580 5588	retrasos
+T130	NEG 6058 6060	no
+T131	NSCO 6061 6109	ha precisado tratamiento concomitante de soporte
+T132	NEG 7221 7232	ausencia de
+T133	NSCO 7233 7259	toxicidades significativas
+T134	NEG 7427 7430	sin
+T135	NSCO 7431 7445	comorbilidades
+T136	NEG 7942 7953	ausencia de
+T137	NSCO 7954 7980	toxicidades significativas
+T138	FARMACO 864 874	irbesartán
+T139	FARMACO 5024 5039	inmunoglobulina
+T140	FARMACO 5273 5282	rituximab
+T141	FARMACO 5480 5492	carboplatino
+T142	FARMACO 5503 5512	etopósido
+T143	FARMACO 5880 5890	irinotecán
+T144	FARMACO 6196 6207	paracetamol
+T145	FARMACO 6210 6219	metamizol
+T146	FARMACO 6526 6535	rituximab
+T147	FARMACO 7871 7881	irinotecán
+T148	ORG_VIVO 10 15	Mujer
+T149	ORG_VIVO 396 404	paciente
+T150	ORG_VIVO 441 449	paciente
+T151	ORG_VIVO 571 579	paciente
+T152	ORG_VIVO 851 859	paciente
+T153	ORG_VIVO 928 939	ama de casa
+T154	ORG_VIVO 968 978	familiares
+T155	ORG_VIVO 1042 1050	paciente
+T156	ORG_VIVO 2848 2852	BAAR
+T157	ORG_VIVO 2889 2895	herpes
+T158	ORG_VIVO 5994 6002	paciente
+T159	ORG_VIVO 6049 6057	paciente
+T160	ORG_VIVO 6301 6309	paciente
+T161	ORG_VIVO 6760 6768	paciente
+T162	ORG_VIVO 7372 7380	paciente
+T163	ENFERMEDAD 28 38	hipertensa
+T164	ENFERMEDAD 1630 1640	meningismo
+T165	ENFERMEDAD 2218 2234	atrofia cerebral
+T166	ENFERMEDAD 2358 2395	lesiones hipóxico-isquémicas crónicas
+T167	ENFERMEDAD 2555 2575	sufrimiento cerebral
+T168	ENFERMEDAD 3436 3464	obstrucción de la vía biliar
+T169	ENFERMEDAD 3482 3489	linfoma
+T170	ENFERMEDAD 3522 3551	adenopatías retroperitoneales
+T171	ENFERMEDAD 3601 3611	metástasis
+T172	ENFERMEDAD 3670 3685	derrame pleural
+T173	ENFERMEDAD 3712 3743	adenopatías supradiafragmáticas
+T174	ENFERMEDAD 3952 3966	adenocarcinoma
+T175	ENFERMEDAD 3969 3976	linfoma
+T176	ENFERMEDAD 4110 4136	proceso linfoproliferativo
+T177	ENFERMEDAD 4721 4792	carcinoma indiferenciado de células pequeñas, de aspecto neuroendocrino
+T178	ENFERMEDAD 4807 4840	Carcinoma microcítico de páncreas
+T179	ENFERMEDAD 4863 4926	Encefalitis autoinmune paraneoplásica por anticuerpos anti-NMDA
+T180	ENFERMEDAD 4961 4985	encefalopatía autoinmune
+T181	ENFERMEDAD 6498 6509	encefalitis
+T182	PACIENTE-SITUACION_LABORAL 928 939	ama de casa

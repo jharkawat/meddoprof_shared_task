@@ -1,0 +1,25 @@
+
+La	O
+etapa	O
+2	O
+es	O
+una	O
+combinación	O
+de	O
+adenopatía	O
+e	O
+infiltrados	O
+,	O
+en	O
+tanto	O
+que	O
+la	O
+etapa	O
+3	O
+indica	O
+la	O
+presencia	O
+de	O
+infiltrados	O
+aislados	O
+.	O

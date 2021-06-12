@@ -1,0 +1,10 @@
+
+Adenocarcinoma	O
+de	O
+pulmón	O
+estadio	O
+IV	O
+(	O
+PL	O
+)	O
+.	O

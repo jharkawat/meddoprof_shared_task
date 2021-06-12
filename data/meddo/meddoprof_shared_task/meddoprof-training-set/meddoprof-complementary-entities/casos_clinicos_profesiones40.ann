@@ -1,0 +1,42 @@
+T1	SINTOMA 654 663	vergüenza
+T2	SINTOMA 666 679	desesperación
+T3	SINTOMA 1254 1268	desesperanzada
+T4	SINTOMA 1390 1398	insomnio
+T5	SINTOMA 2356 2363	lloraba
+T6	PROCEDIMIENTO 413 437	tratamiento psiquiátrico
+T7	NEG 264 266	no
+T8	NSCO 267 301	podía encontrar nada más que comer
+T9	NEG 915 917	no
+T10	NSCO 918 926	vomitaba
+T11	NEG 1169 1174	nunca
+T12	NSCO 1175 1193	había sido delgada
+T13	NEG 1759 1768	imposible
+T14	NEG 1902 1907	nunca
+T15	NSCO 1908 1932	se animó a comprometerse
+T16	UNC 1965 1977	posiblemente
+T17	USCO 1978 2009	por temor a una relación sexual
+T18	NEG 2417 2419	No
+T19	NSCO 2420 2455	se sospecharon elementos psicóticos
+T20	ORG_VIVO 16 21	joven
+T21	ORG_VIVO 47 56	enfermera
+T22	ORG_VIVO 118 126	paciente
+T23	ORG_VIVO 376 382	médico
+T24	ORG_VIVO 1347 1361	médico clínico
+T25	ORG_VIVO 1512 1520	paciente
+T26	ORG_VIVO 1550 1555	padre
+T27	ORG_VIVO 1611 1620	enfermera
+T28	ORG_VIVO 1740 1748	personal
+T29	ORG_VIVO 2082 2088	amigos
+T30	ORG_VIVO 2263 2271	paciente
+T31	ENFERMEDAD 456 465	depresión
+T32	ENFERMEDAD 497 505	ansiedad
+T33	ENFERMEDAD 1117 1131	crisis de gula
+T34	ENFERMEDAD 1290 1298	suicidio
+T35	ENFERMEDAD 1311 1339	sobredosis de los somníferos
+T36	SANITARIO-PROFESION 376 390	médico general
+T37	SANITARIO-PROFESION 1347 1353	médico
+T38	PACIENTE-PROFESION 47 71	enfermera en un hospital
+T39	FAMILIAR-PROFESION 1560 1567	maestro
+T40	PACIENTE-PROFESION 1611 1620	enfermera
+T41	PACIENTE-PROFESION 1623 1664	tuvo varios trabajos en salas geriátricas
+T42	PACIENTE-SITUACION_LABORAL 1470 1493	licencia por enfermedad

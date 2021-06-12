@@ -1,0 +1,26 @@
+
+Tras	O
+3	O
+meses	O
+de	O
+tratamiento	O
+con	O
+imatinib	O
+se	O
+observó	O
+respuesta	O
+citogenética	O
+y	O
+la	O
+paciente	O
+continuaba	O
+con	O
+el	O
+fármaco	O
+en	O
+dosis	O
+diaria	O
+de	O
+400	O
+mg	O
+.	O

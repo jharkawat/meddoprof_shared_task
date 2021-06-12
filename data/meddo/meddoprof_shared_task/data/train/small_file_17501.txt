@@ -1,0 +1,8 @@
+
+SPECT	O
+:	O
+hipoperfusión	O
+témporooccipito	O
+-	O
+parietal	O
+izquierda	O

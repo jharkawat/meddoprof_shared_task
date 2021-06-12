@@ -1,0 +1,17 @@
+
+El	O
+paciente	O
+recuperó	O
+sensibilidad	O
+y	O
+vigilia	O
+a	O
+los	O
+55	O
+minutos	O
+de	O
+la	O
+administración	O
+del	O
+tratamiento	O
+.	O

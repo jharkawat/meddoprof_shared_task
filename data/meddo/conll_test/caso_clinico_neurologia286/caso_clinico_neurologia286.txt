@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 47 años de edad. Entre los antecedentes personales destacaba una hernia de hiato e intolerancia a ciertos antiinflamatorios no esteroideos. No factores de riesgo cardiovascular, cardiopatía ni broncopatía conocidos. No intervenciones quirúrgicas previas. No accidentes ni traumatismos craneoencefálicos previos. Negaba hábitos tóxicos. No tomaba fármacos. Sin antecedentes familiares de interés. Trabajaba como conserje en un instituto.
+
+Desde hacía dos años el paciente venía sufriendo cefaleas episódicas de predominio frontal y con buena respuesta a los analgésicos. De forma progresiva su cefalea había ido aumentando en intensidad, haciéndose holocraneal, no pulsátil, de presentación diaria y acompañada de fotofobia y dolor periorbitario derecho. En varias ocasiones había consultado en el Servicio de Urgencias, siendo visto por Oftalmología con diagnóstico de "epiescleritis" y "cefalea oftálmica". Se realizó una resonancia magnética (RM) de las órbitas, que resultó normal. La cefalea le había despertado en alguna ocasión durante el sueño nocturno y no guardaba relación con cambios posturales, esfuerzo, alimentos o con factores estresantes. No se acompañaba de cortejo vegetativo, náuseas o vómitos, fiebre ni semiología infecciosa. Presentaba fotofobia sin otras alteraciones visuales. Finalmente, fue visto por el neurólogo de guardia, quien ingresó al paciente en el Servicio de Neurología para el estudio y manejo de la cefalea crónica reagudizada y rebelde al tratamiento médico.
+
+Exploración física
+La exploración física general y neurológica, incluyendo fondo de ojo, fueron normales, así como las constantes vitales (tensión arterial, frecuencia cardiaca, saturación de O2, temperatura y glucemia digital).
+
+Pruebas complementarias
+• Analítica sanguínea al ingreso: hemograma, bioquímica, hemostasia, función tiroidea, pruebas reumáticas y serológicas, autoanticuerpos (anticuerpos antinucleares, antí-antígeno nuclear extraíble, anticitoplasma del neutrófilo), marcadores tumorales, proteinograma, enzima de conversión de la angiotensina y Mantoux: normales o negativos. Proteína C reactiva normal (PCR) con una velocidad de sedimentación globular (VSG) de 20 mm/h. Colesterol 247 mg/dl
+ • RM cerebral y medular: engrosamiento difuso de las leptomeninges a nivel craneoespinal con captación homogénea de contraste. Resonancia magnética cerebral, corte coronal: secuencia T1 sin y con gadolinio que muestra engrosamiento difuso de la duramadre y captación de contraste homogénea. Resonancia magnética medular, corte sagital: T1 con gadolinio que muestra captación difusa de contraste a nivel meníngeo desde la primera vértebra y engrosamiento isointenso en T2.
+ • Líquido cefalorraquídeo (LCR) por punción lumbar: presión normal, 16 células (100% linfos), proteínas y glucosa normales. Cultivos negativos. Anatomía patológica LCR: no mostró células atípicas.
+ • Se propuso realizar una biopsia de meninges, pero el paciente la rechazó.
+
+Tratamiento
+El paciente recibió tratamiento con corticoides (metilprednisolona 1 g/día/5 días), con desaparición casi total de la cefalea. Fue dado de alta con prednisona 1 mg/kg/día y actualmente sigue asintomático con dosis de 20 mg/día.
+
+Evolución
+Durante el ingreso el paciente presentó una importante mejoría de la cefalea tras iniciar el tratamiento con corticoides. Al alta la cefalea había casi desaparecido. La normalidad de los parámetros en las pruebas analíticas sanguíneas y de LCR, incluyendo serología en LCR y plasma, el resultado de la RM y la gran respuesta de la cefalea al tratamiento corticoideo nos llevó a pensar en una paquimeningitis crónica hipertrófica.
+
+La biopsia de la duramadre es necesaria para la búsqueda de sus posibles causas en casos dudosos y para aquellos con progresión clínica o escasa respuesta al tratamiento. Teniendo en cuenta el rechazo de esta por parte del paciente, así como la buena evolución tras su seguimiento en consulta, el diagnóstico final fue de paquimeningitis crónica hipertrófica idiopática.
+
+Diagnóstico
+Paquimeningitis crónica hipertrófica idiopática (PCHI).

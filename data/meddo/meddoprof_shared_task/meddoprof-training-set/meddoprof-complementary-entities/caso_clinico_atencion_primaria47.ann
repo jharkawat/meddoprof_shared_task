@@ -1,0 +1,161 @@
+T1	SINTOMA 618 638	dolor en hipocondrio
+T2	SINTOMA 759 775	sensación febril
+T3	SINTOMA 815 835	síntomas miccionales
+T4	SINTOMA 840 847	diarrea
+T5	SINTOMA 851 864	estreñimiento
+T6	SINTOMA 869 875	acolia
+T7	SINTOMA 888 894	vómito
+T8	SINTOMA 925 931	fiebre
+T9	SINTOMA 1051 1061	consciente
+T10	SINTOMA 1063 1072	orientado
+T11	SINTOMA 1075 1086	colaborador
+T12	SINTOMA 1167 1175	Eupneico
+T13	SINTOMA 1276 1282	soplos
+T14	SINTOMA 1335 1411	Abdomen blando, depresible, levemente doloroso a la palpación en hipocondrio
+T15	SINTOMA 1437 1454	defensa abdominal
+T16	SINTOMA 1461 1482	irritación peritoneal
+T17	SINTOMA 1484 1499	Signo de Murphy
+T18	SINTOMA 1598 1626	Ruidos hidroaéreos presentes
+T19	SINTOMA 1723 1748	alteraciones de la marcha
+T20	SINTOMA 3274 3280	fiebre
+T21	SINTOMA 3282 3310	dolor en hipocondrio derecho
+T22	SINTOMA 3312 3321	ictericia
+T23	SINTOMA 3323 3335	leucocitosis
+T24	SINTOMA 3338 3357	hiperbilirrubinemia
+T25	SINTOMA 3725 3732	coluria
+T26	SINTOMA 4116 4136	dolor en hipocondrio
+T27	SINTOMA 4158 4164	fiebre
+T28	SINTOMA 4166 4175	ictericia
+T29	SINTOMA 4180 4192	leucocitosis
+T30	SINTOMA 4252 4271	hiperbilirrubinemia
+T31	SINTOMA 4274 4288	esplenomegalia
+T32	SINTOMA 4476 4486	faringitis
+T33	SINTOMA 4981 4993	asintomático
+T34	SINTOMA 5163 5169	fiebre
+T35	PROCEDIMIENTO 1010 1028	Exploración física
+T36	PROCEDIMIENTO 1522 1546	Puño percusión bilateral
+T37	PROCEDIMIENTO 1845 1858	Rx de abdomen
+T38	PROCEDIMIENTO 2819 2839	ecografía de abdomen
+T39	PROCEDIMIENTO 2912 2934	serología de los virus
+T40	PROCEDIMIENTO 2967 2987	ecografía de abdomen
+T41	PROCEDIMIENTO 3558 3567	ecografía
+T42	PROCEDIMIENTO 4093 4111	exploración física
+T43	PROCEDIMIENTO 4346 4355	ecografía
+T44	NEG 151 153	No
+T45	NSCO 154 188	antecedentes familiares de interés
+T46	NEG 190 192	No
+T47	NSCO 193 226	alergias medicamentosas conocidas
+T48	NEG 228 230	No
+T49	NSCO 231 264	factores de riesgo cardiovascular
+T50	NEG 266 268	No
+T51	NSCO 269 272	HTA
+T52	NEG 274 276	no
+T53	NSCO 277 279	DM
+T54	NEG 281 283	no
+T55	NSCO 284 287	DLP
+T56	NEG 289 291	No
+T57	NSCO 292 321	otras enfermedades de interés
+T58	NEG 323 325	No
+T59	NSCO 326 352	intervenciones quirúrgicas
+T60	NEG 354 356	No
+T61	NSCO 357 383	realiza tratamiento activo
+T62	NEG 670 672	no
+T63	NSCO 673 710	presente en el momento de la consulta
+T64	NEG 776 778	no
+T65	NSCO 779 810	termometrada en días anteriores
+T66	NEG 812 814	No
+T67	NSCO 815 835	síntomas miccionales
+T68	NEG 837 839	No
+T69	NSCO 840 864	diarrea ni estreñimiento
+T70	NEG 866 868	No
+T71	NSCO 869 875	acolia
+T72	NEG 922 924	No
+T73	NSCO 925 931	fiebre
+T74	NEG 933 935	No
+T75	NSCO 936 966	consumo de alimentos de riesgo
+T76	NEG 968 973	Niega
+T77	NSCO 974 1007	consumo de tóxicos y medicamentos
+T78	NEG 1272 1275	sin
+T79	NSCO 1276 1303	soplos, roces ni extratonos
+T80	NEG 1309 1312	sin
+T81	NSCO 1313 1331	ruidos patológicos
+T82	NEG 1423 1426	sin
+T83	NSCO 1427 1482	signos de defensa abdominal ni de irritación peritoneal
+T84	NEG 1511 1520	negativos
+T85	NEG 1547 1555	negativa
+T86	NEG 1557 1559	No
+T87	NSCO 1560 1596	se palpan hernias, masas ni megalias
+T88	NEG 1720 1722	No
+T89	NSCO 1723 1748	alteraciones de la marcha
+T90	NEG 1750 1752	No
+T91	NSCO 1753 1769	signos meníngeos
+T92	NEG 1771 1773	No
+T93	NSCO 1774 1817	se observan signos de focalidad neurológica
+T94	NEG 1939 1941	No
+T95	NSCO 1942 1993	imagen radiológica sugestiva de niveles hidroaéreos
+T96	NEG 2266 2269	sin
+T97	NSCO 2270 2318	antecedentes personales ni familiares de interés
+T98	NEG 2457 2459	No
+T99	NSCO 2460 2474	tiene hermanos
+T100	NEG 2544 2555	ausencia de
+T101	NSCO 2556 2604	situaciones clínicas de interés hasta el momento
+T102	NEG 2606 2608	no
+T103	NSCO 2609 2642	realiza seguimiento médico activo
+T104	NEG 2951 2959	negativa
+T105	UNC 3393 3399	podría
+T106	USCO 3400 3408	hacernos
+T107	UNC 3409 3418	sospechar
+T108	USCO 3419 3435	un cuadro biliar
+T109	UNC 3538 3551	probablemente
+T110	USCO 3552 3578	en la ecografía una imagen
+T111	UNC 3579 3593	compatible con
+T112	USCO 3594 3609	litiasis biliar
+T113	NEG 4294 4297	sin
+T114	NSCO 4298 4336	afectación de la vía biliar objetivada
+T115	UNC 4389 4397	probable
+T116	USCO 4398 4428	el de Mononucleosis Infecciosa
+T117	NEG 4981 4993	asintomático
+T118	NEG 5037 5040	sin
+T119	NSCO 5041 5078	presentar eventos adversos de interés
+T120	FARMACO 5129 5140	paracetamol
+T121	ORG_VIVO 100 105	varón
+T122	ORG_VIVO 167 177	familiares
+T123	ORG_VIVO 389 397	paciente
+T124	ORG_VIVO 422 427	madre
+T125	ORG_VIVO 2225 2233	familiar
+T126	ORG_VIVO 2248 2253	Varón
+T127	ORG_VIVO 2283 2293	personales
+T128	ORG_VIVO 2297 2307	familiares
+T129	ORG_VIVO 2333 2339	padres
+T130	ORG_VIVO 2387 2392	madre
+T131	ORG_VIVO 2437 2442	padre
+T132	ORG_VIVO 2446 2455	jornalero
+T133	ORG_VIVO 2466 2474	hermanos
+T134	ORG_VIVO 2489 2497	familiar
+T135	ORG_VIVO 2786 2789	VHC
+T136	ORG_VIVO 2791 2794	VHB
+T137	ORG_VIVO 2796 2799	VIH
+T138	ORG_VIVO 2929 2934	virus
+T139	ORG_VIVO 4960 4968	paciente
+T140	ORG_VIVO 5013 5018	madre
+T141	ORG_VIVO 5252 5279	médico de atención primaria
+T142	ENFERMEDAD 269 272	HTA
+T143	ENFERMEDAD 277 279	DM
+T144	ENFERMEDAD 851 864	estreñimiento
+T145	ENFERMEDAD 3038 3052	esplenomegalia
+T146	ENFERMEDAD 3338 3357	hiperbilirrubinemia
+T147	ENFERMEDAD 3422 3435	cuadro biliar
+T148	ENFERMEDAD 3446 3458	colecistitis
+T149	ENFERMEDAD 3594 3609	litiasis biliar
+T150	ENFERMEDAD 3788 3815	coledocolitiasis/colangitis
+T151	ENFERMEDAD 3935 3945	colestasis
+T152	ENFERMEDAD 3973 4014	dilatación de la vía biliar extrahepática
+T153	ENFERMEDAD 4197 4213	linfomonocitosis
+T154	ENFERMEDAD 4252 4271	hiperbilirrubinemia
+T155	ENFERMEDAD 4404 4428	Mononucleosis Infecciosa
+T156	ENFERMEDAD 4476 4486	faringitis
+T157	ENFERMEDAD 4489 4500	adenopatías
+T158	ENFERMEDAD 4791 4841	Mononucleosis Infecciosa por Virus de Epstein Barr
+T159	FAMILIAR-PROFESION 2446 2455	jornalero
+T160	FAMILIAR-PROFESION 2421 2431	limpiadora
+T161	SANITARIO-PROFESION 5252 5279	médico de atención primaria

@@ -1,0 +1,13 @@
+
+La	O
+agudeza	O
+visual	O
+era	O
+de	O
+20	O
+/	O
+20	O
+en	O
+ambos	O
+ojos	O
+.	O

@@ -1,0 +1,14 @@
+
+Los	O
+primeros	O
+días	O
+se	O
+muestra	O
+desconfiada	O
+y	O
+querulante	O
+con	O
+el	O
+personal	B-PROFESION
+sanitario	I-PROFESION
+.	O

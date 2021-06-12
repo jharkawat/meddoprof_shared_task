@@ -1,0 +1,10 @@
+
+Auscultación	O
+Cardiorrespiratoria	O
+:	O
+tonos	O
+rítmicos	O
+,	O
+sin	O
+soplos	O
+.	O

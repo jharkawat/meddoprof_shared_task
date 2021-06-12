@@ -1,0 +1,10 @@
+
+El	O
+aspecto	O
+menos	O
+favorecido	O
+es	O
+el	O
+pensamiento	O
+espacial	O
+.	O

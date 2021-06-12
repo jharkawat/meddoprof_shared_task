@@ -1,0 +1,87 @@
+T1	SINTOMA 52 74	alucinaciones visuales
+T2	SINTOMA 831 841	pesadillas
+T3	SINTOMA 890 898	angustia
+T4	SINTOMA 1071 1081	consciente
+T5	SINTOMA 1083 1089	alerta
+T6	SINTOMA 1092 1106	bien orientado
+T7	SINTOMA 1207 1213	apatía
+T8	SINTOMA 1288 1296	angustia
+T9	SINTOMA 1314 1343	alteraciones sensoperceptivas
+T10	SINTOMA 1413 1423	pesadillas
+T11	SINTOMA 1978 1991	alucinaciones
+T12	SINTOMA 2248 2270	alucinaciones visuales
+T13	SINTOMA 2280 2302	alteraciones del sueño
+T14	SINTOMA 2360 2372	asintomático
+T15	SINTOMA 2635 2657	alucinaciones visuales
+T16	SINTOMA 2673 2689	intensa angustia
+T17	SINTOMA 2696 2716	afectación del sueño
+T18	PROCEDIMIENTO 349 364	colecistectomía
+T19	PROCEDIMIENTO 2432 2441	hemograma
+T20	NEG 394 396	no
+T21	NSCO 397 431	tiene, ni personales ni familiares
+T22	NEG 1012 1015	sin
+T23	NSCO 1016 1031	obtener mejoría
+T24	NEG 1147 1149	no
+T25	NSCO 1150 1160	suspicacia
+T26	NEG 1215 1218	sin
+T27	NSCO 1219 1262	llegar a objetivarse clínica afectiva mayor
+T28	NEG 1345 1347	No
+T29	NSCO 1348 1384	ideación autolítica activa ni pasiva
+T30	NEG 1431 1443	inespecífico
+T31	NEG 1473 1476	sin
+T32	NSCO 1477 1532	llegar a constituir una ideación delirante estructurada
+T33	NEG 1645 1648	sin
+T34	NSCO 1649 1661	alteraciones
+T35	NEG 1783 1792	se retiró
+T36	NSCO 1793 1803	quetiapina
+T37	NEG 1816 1824	falta de
+T38	NSCO 1825 1836	efectividad
+T39	NEG 1915 1923	retirada
+T40	NSCO 1924 1946	por mala tolerabilidad
+T41	NEG 2040 2051	ausencia de
+T42	NSCO 2052 2078	alteraciones hematológicas
+T43	NEG 2152 2155	Sin
+T44	NSCO 2156 2186	llegar a aumentar más la dosis
+T45	NEG 2228 2243	desaparición de
+T46	NSCO 2244 2270	las alucinaciones visuales
+T47	NEG 2360 2372	asintomático
+T48	NEG 2400 2402	no
+T49	NSCO 2403 2441	mostraron alteraciones en el hemograma
+T50	NEG 2564 2567	sin
+T51	NSCO 2568 2591	un desencadenante claro
+T52	FARMACO 286 294	levodopa
+T53	FARMACO 488 497	carbidopa
+T54	FARMACO 498 506	levodopa
+T55	FARMACO 518 529	clometiazol
+T56	FARMACO 538 548	quetiapina
+T57	FARMACO 557 569	simvastatina
+T58	FARMACO 577 588	tamsulosina
+T59	FARMACO 597 619	ácido acetilsalicílico
+T60	FARMACO 629 638	omeprazol
+T61	FARMACO 939 949	quetiapina
+T62	FARMACO 971 982	clometiazol
+T63	FARMACO 1793 1803	quetiapina
+T64	FARMACO 1852 1862	olanzapina
+T65	FARMACO 1891 1901	olanzapina
+T66	FARMACO 1933 1946	tolerabilidad
+T67	FARMACO 2099 2108	clozapina
+T68	FARMACO 2454 2463	clozapina
+T69	FARMACO 2536 2546	clozapina-
+T70	FARMACO 2770 2779	clozapina
+T71	ORG_VIVO 0 5	Varón
+T72	ORG_VIVO 407 417	personales
+T73	ORG_VIVO 421 431	familiares
+T74	ORG_VIVO 455 463	paciente
+T75	ORG_VIVO 749 757	insectos
+T76	ORG_VIVO 760 768	personas
+T77	ORG_VIVO 1062 1070	Paciente
+T78	ORG_VIVO 1679 1687	paciente
+T79	ORG_VIVO 2340 2348	paciente
+T80	ENFERMEDAD 90 113	enfermedad de Parkinson
+T81	ENFERMEDAD 163 194	hiperplasia benigna de próstata
+T82	ENFERMEDAD 196 215	hipercolesterolemia
+T83	ENFERMEDAD 217 232	ictus isquémico
+T84	ENFERMEDAD 243 266	enfermedad de Parkinson
+T85	ENFERMEDAD 434 451	ENFERMEDAD ACTUAL
+T86	ENFERMEDAD 695 723	síndrome alucinatorio visual
+T87	ENFERMEDAD 1709 1728	Alucinosis orgánica

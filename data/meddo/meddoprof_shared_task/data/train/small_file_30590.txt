@@ -1,0 +1,8 @@
+
+Natural	O
+de	O
+un	O
+pueblo	O
+de	O
+Navarra	O
+.	O

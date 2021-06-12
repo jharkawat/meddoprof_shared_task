@@ -1,0 +1,15 @@
+
+Antecedentes	O
+:	O
+La	O
+paciente	O
+no	O
+refería	O
+antecedentes	O
+personales	O
+ni	O
+familiares	O
+de	O
+enfermedad	O
+mental	O
+.	O

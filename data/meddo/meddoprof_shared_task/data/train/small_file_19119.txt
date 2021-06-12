@@ -1,0 +1,11 @@
+
+La	O
+madre	O
+tiene	O
+52	O
+años	O
+y	O
+trabaja	O
+como	O
+limpiadora	B-PROFESION
+.	O

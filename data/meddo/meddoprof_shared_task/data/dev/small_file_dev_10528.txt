@@ -1,0 +1,12 @@
+
+Dejó	O
+la	O
+escuela	O
+y	O
+comenzó	B-PROFESION
+a	I-PROFESION
+trabajar	I-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+supermercado	I-PROFESION
+.	O

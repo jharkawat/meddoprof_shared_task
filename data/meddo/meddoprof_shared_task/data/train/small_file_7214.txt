@@ -1,0 +1,27 @@
+
+En	O
+mama	O
+derecha	O
+llamaba	O
+la	O
+atención	O
+una	O
+lesión	O
+tumoral	O
+de	O
+2	O
+cm	O
+de	O
+diámetro	O
+con	O
+borde	O
+elevado	O
+y	O
+centro	O
+deprimido	O
+,	O
+cubierto	O
+por	O
+escara	O
+necrótica	O
+.	O

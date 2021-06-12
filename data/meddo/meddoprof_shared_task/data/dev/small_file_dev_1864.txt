@@ -1,0 +1,10 @@
+
+y	O
+no	O
+aceptar	O
+las	O
+normas	O
+de	O
+la	O
+Unidad	O
+.	O

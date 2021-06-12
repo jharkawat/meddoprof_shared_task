@@ -1,0 +1,24 @@
+
+Ambas	O
+reconocen	O
+,	O
+de	O
+forma	O
+separada	O
+,	O
+que	O
+su	O
+vuelta	O
+a	O
+casa	O
+provoca	O
+cambios	O
+que	O
+hacen	O
+que	O
+se	O
+encuentren	O
+mal	O
+de	O
+ánimo	O
+.	O

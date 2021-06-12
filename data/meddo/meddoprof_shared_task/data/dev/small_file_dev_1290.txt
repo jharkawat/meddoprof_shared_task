@@ -1,0 +1,5 @@
+
+cállate	O
+tonta	O
+"	O
+.	O

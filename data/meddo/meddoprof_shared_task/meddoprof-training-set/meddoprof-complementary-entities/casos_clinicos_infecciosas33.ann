@@ -1,0 +1,159 @@
+T1	SINTOMA 97 113	bebedor excesivo
+T2	SINTOMA 341 352	hipotensión
+T3	SINTOMA 824 855	pérdida de más de 15 kg de peso
+T4	SINTOMA 1065 1072	astenia
+T5	SINTOMA 1074 1082	anorexia
+T6	SINTOMA 1085 1114	dolor abdominal periumbilical
+T7	SINTOMA 1230 1241	rectorragia
+T8	SINTOMA 1354 1366	termometrado
+T9	SINTOMA 1367 1373	fiebre
+T10	SINTOMA 1413 1429	deterioro físico
+T11	SINTOMA 1495 1505	consciente
+T12	SINTOMA 1507 1516	orientado
+T13	SINTOMA 1519 1530	colaborador
+T14	SINTOMA 1536 1549	bradipsíquico
+T15	SINTOMA 1612 1649	aumento de la pigmentación de la piel
+T16	SINTOMA 1734 1755	ingurgitación yugular
+T17	SINTOMA 1952 1958	edemas
+T18	SINTOMA 2243 2255	leucocitosis
+T19	SINTOMA 2913 2954	signos inflamatorios en intestino delgado
+T20	SINTOMA 3674 3689	hipoalbuminemia
+T21	SINTOMA 3943 3949	fiebre
+T22	SINTOMA 4173 4179	disnea
+T23	SINTOMA 4182 4188	mareos
+T24	SINTOMA 4274 4280	fiebre
+T25	SINTOMA 4611 4618	diarrea
+T26	SINTOMA 4637 4643	fiebre
+T27	PROCEDIMIENTO 1381 1399	exploración física
+T28	PROCEDIMIENTO 1770 1797	auscultación cardiopulmonar
+T29	PROCEDIMIENTO 2094 2117	exploración neurológica
+T30	PROCEDIMIENTO 2141 2150	hemograma
+T31	PROCEDIMIENTO 2771 2786	examen de orina
+T32	PROCEDIMIENTO 2807 2827	radiografía de tórax
+T33	PROCEDIMIENTO 2833 2851	electrocardiograma
+T34	PROCEDIMIENTO 2872 2898	ecografía abdomino-pélvica
+T35	PROCEDIMIENTO 2959 2980	TAC tóraco- abdominal
+T36	PROCEDIMIENTO 3201 3220	estudio del abdomen
+T37	PROCEDIMIENTO 3360 3375	pancolonoscopia
+T38	PROCEDIMIENTO 3378 3388	ileoscopia
+T39	PROCEDIMIENTO 3411 3459	gastroscopia el bulbo y segunda porción duodenal
+T40	PROCEDIMIENTO 3515 3523	biopsias
+T41	PROCEDIMIENTO 4132 4144	hemocultivos
+T42	PROCEDIMIENTO 4212 4241	ecocardiografía transtorácica
+T43	PROCEDIMIENTO 4394 4415	estudios endoscópicos
+T44	PROCEDIMIENTO 4735 4759	biopsia duodenal e ileal
+T45	PROCEDIMIENTO 4874 4903	ecocardiografía transtorácica
+T46	PROCEDIMIENTO 4921 4935	transesofágica
+T47	PROCEDIMIENTO 5022 5034	hemocultivos
+T48	PROCEDIMIENTO 5088 5102	antibioterapia
+T49	PROCEDIMIENTO 5715 5735	sustitución valvular
+T50	NEG 437 440	sin
+T51	NSCO 441 449	secuelas
+T52	NEG 893 895	no
+T53	NSCO 896 920	mejoraba con hierro oral
+T54	NEG 1286 1288	no
+T55	NSCO 1289 1297	consultó
+T56	NEG 1299 1301	No
+T57	NSCO 1302 1339	tenía síntomas de patología digestiva
+T58	NEG 1342 1344	no
+T59	NSCO 1345 1373	se había termometrado fiebre
+T60	NEG 1730 1733	sin
+T61	NSCO 1734 1765	ingurgitación yugular, ni bocio
+T62	NEG 1838 1840	no
+T63	NSCO 1841 1864	doloroso a la palpación
+T64	NEG 1865 1868	sin
+T65	NSCO 1869 1922	masas ni vísceromegalias con peristaltismo conservado
+T66	NEG 1948 1951	sin
+T67	NSCO 1952 1958	edemas
+T68	NEG 2050 2052	no
+T69	NSCO 2053 2117	presentaba datos relevantes, incluida la exploración neurológica
+T70	NEG 2229 2231	no
+T71	NSCO 2232 2255	presentaba leucocitosis
+T72	NEG 2679 2688	negativos
+T73	NEG 3221 3224	sin
+T74	NSCO 3225 3237	alteraciones
+T75	UNC 3282 3297	compatibles con
+T76	USCO 3298 3355	un cuadro inflamatorio regional o componente malabsortivo
+T77	NEG 4008 4010	no
+T78	NSCO 4011 4040	era advertida por el paciente
+T79	UNC 4047 4060	probablemente
+T80	USCO 4061 4097	estuvo presente en los últimos meses
+T81	NEG 4416 4418	no
+T82	NSCO 4419 4463	mostraron hallazgos en este sentido mientras
+T83	NEG 4599 4610	ausencia de
+T84	NSCO 4611 4618	diarrea
+T85	UNC 4659 4666	posible
+T86	USCO 4667 4690	endocarditis infecciosa
+T87	UNC 4947 4960	sugestivas de
+T88	USCO 4961 4981	endocarditis aórtica
+T89	NSCO 5018 5034	Los hemocultivos
+T90	NEG 5056 5065	negativos
+T91	NSCO 5066 5102	antes de comenzar con antibioterapia
+T92	NEG 5172 5180	negativa
+T93	NEG 5255 5266	negativa de
+T94	NSCO 5267 5285	escaso significado
+T95	NEG 5694 5697	sin
+T96	NSCO 5698 5735	haber necesitado sustitución valvular
+T97	NEG 5845 5857	asintomático
+T98	NEG 5863 5878	desaparición de
+T99	NSCO 5879 5908	la verruga en válvula aórtica
+T100	FARMACO 298 307	enalapril
+T101	FARMACO 468 471	AAS
+T102	FARMACO 556 565	sulpirida
+T103	FARMACO 573 584	betahistina
+T104	FARMACO 598 608	bromazepam
+T105	FARMACO 5561 5572	ceftriaxona
+T106	FARMACO 5669 5681	cotrimoxazol
+T107	ORG_VIVO 15 20	varón
+T108	ORG_VIVO 165 171	padres
+T109	ORG_VIVO 193 201	familiar
+T110	ORG_VIVO 232 242	personales
+T111	ORG_VIVO 792 819	médico de atención primaria
+T112	ORG_VIVO 3785 3793	paciente
+T113	ORG_VIVO 3890 3898	paciente
+T114	ORG_VIVO 4032 4040	paciente
+T115	ORG_VIVO 4149 4157	paciente
+T116	ORG_VIVO 4819 4838	Tropheryma whipplei
+T117	ORG_VIVO 4863 4869	germen
+T118	ORG_VIVO 5123 5131	gérmenes
+T119	ORG_VIVO 5222 5246	Chlamydophila pneumoniae
+T120	ORG_VIVO 5823 5831	paciente
+T121	ENFERMEDAD 41 50	exfumador
+T122	ENFERMEDAD 257 278	hipertensión arterial
+T123	ENFERMEDAD 479 499	síndrome vertiginoso
+T124	ENFERMEDAD 519 539	traumatismo acústico
+T125	ENFERMEDAD 634 642	ansiedad
+T126	ENFERMEDAD 711 727	hernia umbilical
+T127	ENFERMEDAD 882 888	anemia
+T128	ENFERMEDAD 1320 1339	patología digestiva
+T129	ENFERMEDAD 1682 1720	adenopatías en cadena yugular anterior
+T130	ENFERMEDAD 1760 1765	bocio
+T131	ENFERMEDAD 2305 2318	trombocitosis
+T132	ENFERMEDAD 2392 2398	anemia
+T133	ENFERMEDAD 2992 3012	adenopatías hiliares
+T134	ENFERMEDAD 3301 3329	cuadro inflamatorio regional
+T135	ENFERMEDAD 3539 3563	linfangiectasias difusas
+T136	ENFERMEDAD 3606 3627	síndrome malabsortivo
+T137	ENFERMEDAD 3644 3659	hipoproteinemia
+T138	ENFERMEDAD 3674 3689	hipoalbuminemia
+T139	ENFERMEDAD 3836 3866	desnutrición calórico-proteica
+T140	ENFERMEDAD 4362 4381	neoplasia digestiva
+T141	ENFERMEDAD 4491 4506	hipoproteinemia
+T142	ENFERMEDAD 4509 4530	hipoalbuminemia grave
+T143	ENFERMEDAD 4563 4591	enteropatía pierde proteínas
+T144	ENFERMEDAD 4667 4690	endocarditis infecciosa
+T145	ENFERMEDAD 4784 4805	Enfermedad de Whipple
+T146	ENFERMEDAD 4961 4981	endocarditis aórtica
+T147	ENFERMEDAD 4986 5016	insuficiencia aórtica moderada
+T148	ENFERMEDAD 5320 5378	endocarditis sobre válvula aórtica por Tropheryma Whipplei
+T149	ENFERMEDAD 5383 5413	insuficiencia aórtica moderada
+T150	ENFERMEDAD 5416 5437	Enfermedad de Whipple
+T151	ENFERMEDAD 5478 5501	malabsorción secundaria
+T152	ENFERMEDAD 5504 5534	malnutrición calórico-proteíca
+T153	ENFERMEDAD 5882 5908	verruga en válvula aórtica
+T154	ENFERMEDAD 5962 6020	Endocarditis sobre válvula aórtica por Tropheryma whipplei
+T155	ENFERMEDAD 6025 6055	insuficiencia aórtica moderada
+T156	ENFERMEDAD 6057 6078	Enfermedad de Whipple
+T157	ENFERMEDAD 6119 6142	malabsorción secundaria
+T158	ENFERMEDAD 6145 6175	malnutrición calórico-proteíca
+T159	SANITARIO-PROFESION 792 819	médico de atención primaria

@@ -1,0 +1,47 @@
+Motivo de consulta
+Episodios sincopales.
+
+Enfoque individual
+Anamnesis:
+Antecedentes familiares: no presenta antecedentes de interés
+Antecedentes personales: NAMC. No FRCV. Meningitis con 18 años. Talasemia minor. IQ: Apendicectomía.
+Varón de 51 años que acude a las consultas de atención primaria por dos episodios de pérdida de conciencia. El primero se presenta precedido de sudoración y mareos sin giro de objetos. No recuerda su duración. No pérdida del control de esfínteres ni movimientos anormales pero sí un vómito. No cefalea ni signos de confusión posterior aunque la esposa refiere enrojecimiento facial. Acude a urgencias del hospital y es dado de alta con el diagnóstico de síncope vasovagal.
+Dos meses más tarde sucede mismo cuadro precedido de malestar general, dolor abdominal y diarrea. En esta segunda ocasión, es valorado por su médico de atención primaria quien sospechando una probable anafilaxia, envía a consultas de alergia para valoración.
+El paciente sólo relaciona ambos cuadros con zumo de naranja. Refiere anteriormente tener edema de labio y prurito oral cuando come marisco y edemas si acompaña esta ingesta con ejercicio.
+
+Exploración: Buen estado general. Consciente y orientado. Normohidratado, normocoloreado y eupneico en reposo. Constitución tipo pícnica. TA: 135/110. Temperatura en consulta: 36,4o. FC: 74 lpm.
+FR: 14rpm. Sat 02: 98%.
+Auscultación cardiorrespiratoria: tonos rítmicos y fuertes sin soplos ni extratonos. Murmullo vesicular conservado con buena entrada de aire bilateral.
+Abdomen: Lesiones papulares con pigmentación marrón diseminadas predominando en abdomen.
+Dermografismo: negativo. Hepatomegalia de 2 traveses de dedo. Esplenomegalia de 1 través de dedo dolorosa a la palpación.
+Exploración neurológica dentro de la normalidad, no focalidad. Pares craneales conservados. Pupilas isocóricas y normorreactivas. No pérdida de fuerza ni de sensibilidad en extremidades. No disciadococinesia. Dismetría en mano derecha.
+
+Pruebas complementarias:
+EKG: Ritmo sinusal a 74 lpm. PR corto. QRS estrecho. No datos de alteraciones en la repolarización.
+Rx de tórax normal.
+Tc de cráneo: sin alteraciones.
+
+Pruebas cutáneas:
+- Alérgenos inhalantes: Positivo a hongos alternaria, aspergillus, epitelio de gato, ácaro D. Pteronyssinus, epitelio de perro y pólenes de gramíneas, olivo y ciprés.
+- Alérgenos de origen animal: Positivo a gamba.
+- Alérgenos de origen vegetal: negativo.
+- Hemograma, bioquímica, VSG, PCR, TSH. Proteinograma, anticuerpos antitiroideos, inmunoglobulinas séricas, serología equinococcus y complemento sin alteraciones.
+- Triptasa, IgE total normal y específica a látex, gamba y anisakis negativas.
+- Test de exposición controlada con lidocaína sin hipersensibilidad inmediata ni tardía.
+- Tc abdominal normal.
+-Aspirado de médula ósea (citología): Hematopoyesis bien presentada. Aunque no hay criterios mayores de mastocitosis, la tasa de mastocitos es superior a la normal, en su mayoría de aspecto patológico.
+-Biopsia de médula ósea: Hiperplasia de mastocitos. Ausencia de acúmulos mastocíticos diagnósticos de mastocitosis sistémicas. Resto de médula ósea sin alteraciones histológicas.
+- Biopsia de piel: realizada la técnica IHQ de c-kit, ésta ha resultado positiva en mastocitos, corroborando su número aumentado.
+
+Enfoque familiar y comunitario
+El paciente se dedica a la ingeniería informática y vive con su mujer e hija en la misma residencia. No animales. Se trata de una familia nuclear con parientes próximos. Apgar familiar con una puntuación de 10 (familia normofuncionante). Según el modelo de clasificación familiar de la OMS se colocaría en la etapa III o de extensión completa (nacimiento de todos los hijos sin emancipación).
+
+Juicio clínico
+Mastocitosis sistémica leve o indolente. Anafilaxia.
+Alergia al marisco.
+Urticaria pigmentosa.
+
+Evolución
+Mejoría sintomática y de lesiones cutáneas tras tratamiento sistémico y tópico con cromoglicato disódico pero dos años más tarde del diagnóstico se evidencia en la densitometría ósea de control un alto riesgo de fractura y altos niveles de triptasa, con lo que, con toda la evaluación, inició tratamiento con interferón que mantuvo durante 7 años de manera intermitente hasta la actualidad que está suspendido y la clínica se ha estabilizado junto con los niveles de triptasa (cuya elevación supone una actitud agresiva de la mastocitosis).
+El paciente sigue un control estrecho por parte de alergología (cada 4-5 meses) y por el servicio de digestivo debido a la dispepsia que le provoca la hipersecreción gástrica de esta patología.
+Actualmente con buena evolución y buen estado anímico.

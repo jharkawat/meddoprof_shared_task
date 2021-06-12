@@ -1,0 +1,9 @@
+
+No	O
+se	O
+sentía	O
+ni	O
+deprimido	O
+ni	O
+infeliz	O
+.	O

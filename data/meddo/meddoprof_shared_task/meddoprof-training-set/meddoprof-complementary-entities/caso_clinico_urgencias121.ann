@@ -1,0 +1,72 @@
+T1	SINTOMA 39 48	febrícula
+T2	SINTOMA 51 58	cefalea
+T3	SINTOMA 234 243	febrícula
+T4	SINTOMA 282 297	cefalea frontal
+T5	SINTOMA 299 307	pulsátil
+T6	SINTOMA 310 317	vómitos
+T7	SINTOMA 356 374	deposición líquida
+T8	SINTOMA 553 590	percusión dolorosa de senos frontales
+T9	SINTOMA 617 632	abdomen anodino
+T10	SINTOMA 886 897	hipertermia
+T11	SINTOMA 951 971	vómitos alimenticios
+T12	SINTOMA 988 1003	cefalea frontal
+T13	SINTOMA 1045 1063	rinorrea purulenta
+T14	SINTOMA 1087 1104	rubicundez facial
+T15	SINTOMA 1173 1183	meningismo
+T16	SINTOMA 1603 1610	afebril
+T17	SINTOMA 1624 1631	cefalea
+T18	SINTOMA 2095 2102	afebril
+T19	SINTOMA 2243 2249	fiebre
+T20	SINTOMA 2254 2261	cefalea
+T21	PROCEDIMIENTO 255 267	antitérmicos
+T22	PROCEDIMIENTO 422 440	exploración física
+T23	PROCEDIMIENTO 510 519	otoscopia
+T24	PROCEDIMIENTO 634 645	Rx de senos
+T25	PROCEDIMIENTO 661 670	Hemograma
+T26	PROCEDIMIENTO 731 754	tratamiento antibiótico
+T27	PROCEDIMIENTO 913 925	antitérmicos
+T28	PROCEDIMIENTO 1194 1222	exploración tóraco abdominal
+T29	PROCEDIMIENTO 1232 1241	Hemograma
+T30	PROCEDIMIENTO 1282 1294	TAC cerebral
+T31	PROCEDIMIENTO 1647 1657	analgésico
+T32	PROCEDIMIENTO 1659 1670	RM cerebral
+T33	PROCEDIMIENTO 1896 1953	drenaje quirúrgico por vía endoscópica de seno esfenoidal
+T34	PROCEDIMIENTO 1958 2001	apertura de pared antero-superior de clivus
+T35	PROCEDIMIENTO 2129 2152	tratamiento antibiótico
+T36	NEG 161 163	No
+T37	NSCO 164 198	antecedentes personales de interés
+T38	NEG 389 391	No
+T39	NSCO 392 415	alteraciones cognitivas
+T40	NEG 494 496	No
+T41	NSCO 497 508	adenopatías
+T42	NEG 531 534	sin
+T43	NSCO 535 551	exudado visibles
+T44	NEG 646 649	sin
+T45	NSCO 650 659	ocupación
+T46	NEG 756 769	descartándose
+T47	NSCO 770 817	signos clínico orientativos de meningitis aguda
+T48	NEG 1170 1172	No
+T49	NSCO 1173 1183	meningismo
+T50	NEG 1580 1583	sin
+T51	NSCO 1584 1601	crisis comiciales
+T52	NEG 1603 1610	afebril
+T53	NEG 2002 2005	sin
+T54	NSCO 2006 2033	hallarse material purulento
+T55	NEG 2095 2102	afebril
+T56	NEG 2219 2222	sin
+T57	NSCO 2223 2261	nuevos episodios de fiebre, ni cefalea
+T58	FARMACO 148 159	paracetamol
+T59	FARMACO 1524 1535	ceftriaxona
+T60	FARMACO 2153 2164	ceftriaxona
+T61	FARMACO 2167 2179	metronidazol
+T62	ORG_VIVO 0 5	Varón
+T63	ORG_VIVO 177 187	personales
+T64	ORG_VIVO 203 211	paciente
+T65	ORG_VIVO 702 710	paciente
+T66	ORG_VIVO 833 841	paciente
+T67	ORG_VIVO 2184 2192	paciente
+T68	ENFERMEDAD 497 508	adenopatías
+T69	ENFERMEDAD 801 817	meningitis aguda
+T70	ENFERMEDAD 1304 1402	ocupación parcial de seno frontal y celdillas etmoidales con ocupación completa de seno esfenoidal
+T71	ENFERMEDAD 1584 1601	crisis comiciales
+T72	ENFERMEDAD 1855 1883	absceso epidural retroclival

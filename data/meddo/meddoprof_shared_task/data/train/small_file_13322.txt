@@ -1,0 +1,15 @@
+
+Se	O
+diagnostica	O
+así	O
+al	O
+paciente	O
+de	O
+tuberculosis	O
+ganglionar	O
+con	O
+formación	O
+de	O
+fístula	O
+esofágica	O
+.	O

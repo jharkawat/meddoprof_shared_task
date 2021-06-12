@@ -1,0 +1,22 @@
+
+Tenía	O
+muy	O
+buenas	O
+notas	O
+en	O
+las	O
+materias	O
+que	O
+le	O
+interesaban	O
+,	O
+pero	O
+fracasaba	O
+completamente	O
+en	O
+las	O
+que	O
+no	O
+le	O
+gustaban	O
+.	O

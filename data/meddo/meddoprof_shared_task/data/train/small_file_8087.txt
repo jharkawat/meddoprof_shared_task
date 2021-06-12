@@ -1,0 +1,17 @@
+
+Se	O
+decide	O
+tiroidectomía	O
+total	O
+tras	O
+estabilización	O
+clínica	O
+,	O
+previa	O
+consulta	O
+con	O
+el	O
+Juzgado	O
+de	O
+Guardia	O
+.	O

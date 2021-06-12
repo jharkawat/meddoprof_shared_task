@@ -1,0 +1,11 @@
+
+No	O
+dificultad	O
+para	O
+la	O
+masticación	O
+ni	O
+para	O
+la	O
+deglución	O
+.	O

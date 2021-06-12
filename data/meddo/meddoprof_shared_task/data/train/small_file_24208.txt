@@ -1,0 +1,25 @@
+
+Completó	O
+estudios	O
+de	O
+delineante	B-PROFESION
+,	I-PROFESION
+y	I-PROFESION
+trabajó	I-PROFESION
+en	O
+esa	O
+función	O
+con	O
+buen	O
+rendimiento	O
+hasta	O
+que	O
+fue	O
+jubilado	B-SITUACION_LABORAL
+por	I-SITUACION_LABORAL
+enfermedad	I-SITUACION_LABORAL
+a	O
+los	O
+52	O
+años	O
+.	O

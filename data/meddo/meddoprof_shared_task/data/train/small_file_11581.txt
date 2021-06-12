@@ -1,0 +1,18 @@
+
+Varón	O
+de	O
+44	O
+an	O
+̃	O
+os	O
+,	O
+marmolista	B-PROFESION
+de	O
+profesión	O
+,	O
+sin	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+.	O

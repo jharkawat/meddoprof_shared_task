@@ -1,0 +1,12 @@
+
+Estado	O
+de	O
+ánimo	O
+bajo	O
+con	O
+preocupaciones	O
+acerca	O
+de	O
+su	O
+futuro	O
+.	O

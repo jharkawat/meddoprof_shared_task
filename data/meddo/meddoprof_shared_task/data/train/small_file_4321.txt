@@ -1,0 +1,17 @@
+
+Polineuropatía	O
+a	O
+filiar	O
+(	O
+estudio	O
+neurofisiológico	O
+con	O
+patrón	O
+mixto	O
+,	O
+no	O
+acude	O
+a	O
+consultas	O
+)	O
+.	O

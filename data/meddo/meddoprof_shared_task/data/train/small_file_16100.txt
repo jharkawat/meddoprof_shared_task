@@ -1,0 +1,7 @@
+
+Campimetría	O
+del	O
+ojo	O
+derecho	O
+normal	O
+.	O

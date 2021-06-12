@@ -1,0 +1,13 @@
+
+Tiene	O
+además	O
+sensación	O
+de	O
+hormigueo	O
+en	O
+las	O
+piernas	O
+desde	O
+la	O
+rodilla	O
+.	O

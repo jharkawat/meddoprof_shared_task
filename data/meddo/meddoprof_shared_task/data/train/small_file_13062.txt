@@ -1,0 +1,12 @@
+
+Carcinoma	O
+folicular	O
+de	O
+tiroides	O
+metastásico	O
+a	O
+columna	O
+dorsal	O
+y	O
+pulmón	O
+.	O

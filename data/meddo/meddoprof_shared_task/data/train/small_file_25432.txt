@@ -1,0 +1,14 @@
+
+Se	O
+siente	O
+responsable	O
+de	O
+su	O
+tratamiento	O
+,	O
+que	O
+recibe	O
+de	O
+forma	O
+sublingual	O
+.	O

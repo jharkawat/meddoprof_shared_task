@@ -1,0 +1,5 @@
+
+Profesión	B-PROFESION
+en	I-PROFESION
+hostelería	I-PROFESION
+.	O

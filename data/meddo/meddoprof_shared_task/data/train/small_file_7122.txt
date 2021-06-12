@@ -1,0 +1,10 @@
+
+Existen	O
+algunas	O
+pápulas	O
+aisladas	O
+confluentes	O
+en	O
+muslo	O
+derecho	O
+.	O

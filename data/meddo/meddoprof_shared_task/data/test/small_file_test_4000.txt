@@ -1,0 +1,18 @@
+
+Se	O
+solicita	O
+radiografía	O
+de	O
+tórax	O
+donde	O
+se	O
+objetiva	O
+imagen	O
+de	O
+masa	O
+en	O
+el	O
+lóbulo	O
+superior	O
+derecho	O
+.	O

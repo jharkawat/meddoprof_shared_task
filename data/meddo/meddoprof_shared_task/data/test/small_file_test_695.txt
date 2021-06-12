@@ -1,0 +1,20 @@
+
+En	O
+1991	O
+pasa	O
+a	O
+la	O
+usina	O
+de	O
+asfalto	O
+,	O
+en	O
+el	O
+área	O
+de	O
+control	O
+de	O
+calidad	O
+del	O
+laboratorio	O
+.	O

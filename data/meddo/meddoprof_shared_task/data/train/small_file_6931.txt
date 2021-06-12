@@ -1,0 +1,12 @@
+
+No	O
+tenía	O
+antecedentes	O
+familiares	O
+de	O
+psoriasis	O
+ni	O
+de	O
+enfermedades	O
+reumáticas	O
+.	O

@@ -1,0 +1,8 @@
+
+Probable	O
+trastorno	O
+afectivo	O
+co	O
+-	O
+mórbido	O
+.	O

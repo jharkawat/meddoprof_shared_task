@@ -1,0 +1,24 @@
+
+Se	O
+realizó	O
+una	O
+tomografía	O
+computarizada	O
+al	O
+ingreso	O
+,	O
+en	O
+la	O
+que	O
+no	O
+se	O
+hallaron	O
+alteraciones	O
+significativas	O
+para	O
+la	O
+edad	O
+de	O
+la	O
+paciente	O
+.	O

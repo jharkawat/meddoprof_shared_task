@@ -1,0 +1,17 @@
+
+Marcadores	O
+tumorales	O
+normales	O
+excepto	O
+beta	O
+-	O
+2	O
+microglobulina	O
+de	O
+5	O
+,	O
+19	O
+mg	O
+/	O
+l	O
+.	O

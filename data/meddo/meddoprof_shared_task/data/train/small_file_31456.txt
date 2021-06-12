@@ -1,0 +1,17 @@
+
+Tratamiento	O
+final	O
+:	O
+desvenlafaxina	O
+100	O
+mg	O
+1c	O
+al	O
+día	O
+y	O
+clozapina	O
+300	O
+mg	O
+al	O
+día	O
+.	O

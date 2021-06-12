@@ -1,0 +1,13 @@
+
+Parto	O
+y	O
+embarazo	O
+normales	O
+controlados	O
+,	O
+hace	O
+2	O
+meses	O
+y	O
+medio	O
+.	O

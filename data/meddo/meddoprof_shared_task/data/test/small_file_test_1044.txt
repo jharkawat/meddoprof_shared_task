@@ -1,0 +1,9 @@
+
+Poco	O
+despuéscorta	O
+la	O
+relación	O
+con	O
+su	O
+hermano	O
+.	O

@@ -1,0 +1,27 @@
+
+Por	O
+la	O
+información	O
+que	O
+aportaba	O
+la	O
+hermana	O
+,	O
+impresionaba	O
+que	O
+persistían	O
+síntomas	O
+positivos	O
+en	O
+la	O
+línea	O
+de	O
+lo	O
+delirante	O
+y	O
+alteración	O
+del	O
+ritmo	O
+de	O
+vigilia	O
+.	O

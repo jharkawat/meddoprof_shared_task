@@ -1,0 +1,16 @@
+
+Leguaje	O
+circunstancial	O
+;	O
+temática	O
+centrada	O
+en	O
+el	O
+manga	O
+,	O
+ocasionalmente	O
+provocadora	O
+con	O
+el	O
+discurso	O
+.	O

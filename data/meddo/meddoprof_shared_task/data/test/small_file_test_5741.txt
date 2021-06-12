@@ -1,0 +1,23 @@
+
+La	O
+paciente	O
+recibe	O
+un	O
+total	O
+de	O
+5	O
+ciclos	O
+,	O
+de	O
+los	O
+6	O
+previstos	O
+,	O
+último	O
+el	O
+23	O
+de	O
+Junio	O
+de	O
+2014	O
+.	O

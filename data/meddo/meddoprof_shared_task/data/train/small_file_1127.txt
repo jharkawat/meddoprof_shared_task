@@ -1,0 +1,17 @@
+
+Exploración	O
+física	O
+a	O
+su	O
+ingreso	O
+en	O
+la	O
+urgencia	O
+:	O
+TA	O
+:	O
+160	O
+/	O
+110	O
+mmHg	O
+.	O

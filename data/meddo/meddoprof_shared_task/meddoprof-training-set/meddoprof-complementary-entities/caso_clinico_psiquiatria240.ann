@@ -1,0 +1,15 @@
+T1	SINTOMA 587 606	reacciones adversas
+T2	PROCEDIMIENTO 197 211	antidepresivos
+T3	NEG 245 247	no
+T4	NSCO 248 268	hubo buena respuesta
+T5	NEG 537 539	no
+T6	NSCO 540 563	se ha observado recaída
+T7	NEG 566 573	tampoco
+T8	NSCO 574 606	se notifican reacciones adversas
+T9	FARMACO 369 382	carbamazepina
+T10	FARMACO 394 404	sertralina
+T11	ORG_VIVO 31 39	paciente
+T12	ORG_VIVO 68 85	médico de familia
+T13	ENFERMEDAD 113 122	depresión
+T14	ENFERMEDAD 472 481	depresión
+T15	SANITARIO-PROFESION 68 85	médico de familia

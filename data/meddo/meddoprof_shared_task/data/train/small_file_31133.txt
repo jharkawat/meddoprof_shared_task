@@ -1,0 +1,17 @@
+
+Cuando	O
+cumple	O
+los	O
+18	O
+años	O
+,	O
+se	O
+traslada	O
+a	B-SITUACION_LABORAL
+un	I-SITUACION_LABORAL
+piso	I-SITUACION_LABORAL
+tutelado	I-SITUACION_LABORAL
+por	O
+órdenes	O
+religiosas	O
+.	O

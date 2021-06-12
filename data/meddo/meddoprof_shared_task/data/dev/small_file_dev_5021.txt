@@ -1,0 +1,13 @@
+
+Se	O
+interconsulta	O
+a	O
+cirugía	O
+quien	O
+decide	O
+intervención	O
+programada	O
+de	O
+la	O
+paciente	O
+.	O

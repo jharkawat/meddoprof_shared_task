@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+no	O
+tenía	O
+antecedentes	O
+medico	O
+-	O
+quirúrgicos	O
+de	O
+interés	O
+.	O

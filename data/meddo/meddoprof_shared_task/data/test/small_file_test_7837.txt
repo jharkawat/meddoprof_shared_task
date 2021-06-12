@@ -1,0 +1,13 @@
+
+Se	O
+trata	O
+de	O
+hallazgos	O
+orientativos	O
+de	O
+neoplasia	O
+primaria	O
+de	O
+corteza	O
+adrenal	O
+.	O

@@ -1,0 +1,11 @@
+
+No	O
+refería	O
+contacto	O
+con	O
+animales	O
+en	O
+los	O
+últimos	O
+meses	O
+.	O

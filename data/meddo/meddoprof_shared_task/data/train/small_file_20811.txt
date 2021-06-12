@@ -1,0 +1,18 @@
+
+En	O
+la	O
+psicometría	O
+(	O
+IPDE	O
+versión	O
+DSM	O
+-	O
+IV	O
+)	O
+destacan	O
+rasgos	O
+antisociales	O
+y	O
+paranoides	O
+fundamentalmente	O
+.	O

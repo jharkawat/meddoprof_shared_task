@@ -1,0 +1,18 @@
+
+Se	O
+encuentra	O
+abstinente	O
+a	O
+cannabis	O
+desde	O
+la	O
+salida	O
+del	O
+hospital	O
+(	O
+THC	O
+negativo	O
+en	O
+orina	O
+)	O
+.	O

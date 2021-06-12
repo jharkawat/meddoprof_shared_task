@@ -1,0 +1,10 @@
+
+La	O
+auscultación	O
+cardiorrespiratoria	O
+era	O
+compatible	O
+con	O
+la	O
+normalidad	O
+.	O

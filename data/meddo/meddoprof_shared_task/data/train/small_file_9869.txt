@@ -1,0 +1,13 @@
+
+Se	O
+solicitó	O
+nuevamente	O
+serología	O
+para	O
+Leptospira	O
+y	O
+carga	O
+viral	O
+para	O
+CMV	O
+.	O

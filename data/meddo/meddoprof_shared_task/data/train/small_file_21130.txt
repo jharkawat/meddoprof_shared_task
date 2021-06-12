@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+siempre	O
+fue	O
+tranquilo	O
+y	O
+reticente	O
+con	O
+un	O
+carácter	O
+equilibrado	O
+.	O

@@ -1,0 +1,23 @@
+
+Al	O
+mes	O
+se	O
+mantuvo	O
+una	O
+PIO	O
+de	O
+18	O
+mmHg	O
+en	O
+OI	O
+sin	O
+medicación	O
+y	O
+de	O
+14	O
+mmHg	O
+en	O
+OD	O
+con	O
+Timolol	O
+.	O

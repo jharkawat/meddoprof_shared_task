@@ -1,0 +1,10 @@
+
+El	O
+hemograma	O
+,	O
+bioquímica	O
+y	O
+coagulación	O
+son	O
+normales	O
+.	O

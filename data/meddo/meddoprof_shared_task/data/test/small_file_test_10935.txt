@@ -1,0 +1,8 @@
+
+Ha	O
+comenzado	O
+a	O
+realizar	O
+juego	O
+simbólico	O
+.	O

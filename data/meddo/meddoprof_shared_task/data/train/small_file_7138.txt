@@ -1,0 +1,27 @@
+
+Pero	O
+el	O
+empeoramiento	O
+de	O
+su	O
+sintomatología	O
+fue	O
+notorio	O
+durante	O
+las	O
+últimas	O
+semanas	O
+,	O
+resultándole	O
+insoportable	O
+,	O
+por	O
+lo	O
+que	O
+consultó	O
+en	O
+el	O
+servicio	O
+de	O
+urgencias	O
+.	O

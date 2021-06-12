@@ -1,0 +1,25 @@
+
+Demanda	O
+ayuda	O
+periódicamente	O
+,	O
+pero	O
+boicotea	O
+activamente	O
+las	O
+opciones	O
+terapéuticas	O
+y	O
+las	O
+intervenciones	O
+sanas	O
+de	O
+otros	O
+miembros	O
+de	O
+la	O
+familia	O
+(	O
+hermana	O
+)	O
+.	O

@@ -1,0 +1,27 @@
+
+-	O
+En	O
+diciembre	O
+de	O
+2012	O
+acude	O
+a	O
+Urgencias	O
+por	O
+disfonía	O
+,	O
+mostrándose	O
+parálisis	O
+de	O
+la	O
+CVI	O
+e	O
+hipomovilidad	O
+de	O
+la	O
+CVD	O
+,	O
+realizándose	O
+traqueostomía	O
+urgente	O
+.	O

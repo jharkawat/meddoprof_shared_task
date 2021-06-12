@@ -1,0 +1,15 @@
+
+Se	O
+hospitaliza	O
+y	O
+controla	O
+el	O
+dolor	O
+en	O
+forma	O
+médica	O
+,	O
+que	O
+remite	O
+parcialmente	O
+.	O

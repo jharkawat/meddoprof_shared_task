@@ -1,0 +1,17 @@
+
+1a	O
+Analítican	O
+Hemograma	O
+:	O
+leucocitosis	O
+11	O
+.	O
+430	O
+(	O
+sin	O
+DI	O
+)	O
+.	O
+resto	O
+anodino	O
+.	O

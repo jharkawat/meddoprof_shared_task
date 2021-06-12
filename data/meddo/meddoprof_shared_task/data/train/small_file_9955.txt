@@ -1,0 +1,7 @@
+
+También	O
+presenta	O
+adenopatías	O
+laterocervicales	O
+bilaterales	O
+.	O

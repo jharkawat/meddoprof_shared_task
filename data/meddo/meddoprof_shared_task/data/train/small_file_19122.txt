@@ -1,0 +1,12 @@
+
+La	O
+hermana	O
+mayor	O
+está	O
+casada	O
+y	O
+vive	O
+de	O
+forma	O
+independiente	O
+.	O

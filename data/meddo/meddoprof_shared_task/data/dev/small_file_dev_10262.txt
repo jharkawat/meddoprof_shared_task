@@ -1,0 +1,25 @@
+
+Siempre	O
+fue	O
+tímida	O
+,	O
+sensible	O
+a	O
+las	O
+críticas	O
+y	O
+reacia	O
+a	O
+las	O
+relaciones	O
+con	O
+otras	O
+personas	O
+,	O
+a	O
+menos	O
+que	O
+las	O
+conociera	O
+bien	O
+.	O

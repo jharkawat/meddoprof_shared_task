@@ -1,0 +1,10 @@
+
+Ingresa	O
+en	O
+la	O
+Planta	O
+de	O
+Agudos	O
+del	O
+Psiquiatría	O
+.	O

@@ -1,0 +1,7 @@
+
+Posible	O
+fístula	O
+pleurobronquial	O
+en	O
+LSD	O
+.	O

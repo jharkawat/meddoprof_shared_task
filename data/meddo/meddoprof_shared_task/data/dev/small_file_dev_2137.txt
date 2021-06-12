@@ -1,0 +1,15 @@
+
+Al	O
+ingreso	O
+:	O
+RMN	O
+cerebral	O
+,	O
+analítica	O
+completa	O
+y	O
+ECG	O
+sin	O
+alteraciones	O
+reseñables	O
+.	O

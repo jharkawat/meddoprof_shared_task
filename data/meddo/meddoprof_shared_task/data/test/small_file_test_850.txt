@@ -1,0 +1,14 @@
+
+Plan	O
+de	O
+Tratamiento	O
+:	O
+Se	O
+recomienda	O
+valoración	O
+por	O
+dermatólogo	B-PROFESION
+para	O
+valorar	O
+tratamiento	O
+quirúrgico	O

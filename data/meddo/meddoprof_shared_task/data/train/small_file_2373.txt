@@ -1,0 +1,9 @@
+
+Patrón	O
+10	O
+:	O
+Adaptación	O
+y	O
+Tolerancia	O
+al	O
+estrés	O

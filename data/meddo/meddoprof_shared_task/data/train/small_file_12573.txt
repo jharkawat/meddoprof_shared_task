@@ -1,0 +1,7 @@
+
+Sin	O
+signos	O
+de	O
+irritación	O
+meníngea	O
+.	O

@@ -1,0 +1,9 @@
+
+contralateral	O
+en	O
+cara	O
+interna	O
+de	O
+muslo	O
+derecho	O
+.	O

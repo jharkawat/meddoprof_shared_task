@@ -1,0 +1,16 @@
+
+En	O
+vista	O
+de	O
+la	O
+mejoría	O
+se	O
+decide	O
+alta	O
+con	O
+cita	O
+próxima	O
+en	O
+Salud	O
+Mental	O
+.	O

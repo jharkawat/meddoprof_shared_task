@@ -1,0 +1,20 @@
+
+El	O
+EGFR	O
+no	O
+se	O
+encuentra	O
+mutado	O
+y	O
+la	O
+determinación	O
+inmunohistoquímica	O
+de	O
+ALK	O
+(	O
+clon	O
+D5F3	O
+)	O
+es	O
+negativa	O
+.	O

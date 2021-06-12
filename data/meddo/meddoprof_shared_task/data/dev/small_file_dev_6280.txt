@@ -1,0 +1,10 @@
+
+Mordedura	O
+de	O
+su	O
+perra	O
+en	O
+ala	O
+nasal	O
+izquierda	O
+.	O

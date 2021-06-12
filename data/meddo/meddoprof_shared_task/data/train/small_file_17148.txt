@@ -1,0 +1,27 @@
+
+En	O
+el	O
+momento	O
+del	O
+ingreso	O
+se	O
+encontraba	O
+en	O
+tratamiento	O
+con	O
+metadona	O
+,	O
+55	O
+mg	O
+diarios	O
+,	O
+siendo	O
+independiente	O
+para	O
+sus	O
+actividades	O
+de	O
+la	O
+vida	O
+diaria	O
+.	O

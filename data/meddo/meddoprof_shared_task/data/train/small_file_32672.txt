@@ -1,0 +1,25 @@
+
+Segunda	O
+semana	O
+ingreso	O
+:	O
+neutrófilos	O
+absolutos	O
+:	O
+5	O
+,	O
+20	O
+x109	O
+/	O
+l	O
+;	O
+linfocitos	O
+absolutos	O
+:	O
+3	O
+,	O
+10	O
+x109	O
+/	O
+l	O
+.	O

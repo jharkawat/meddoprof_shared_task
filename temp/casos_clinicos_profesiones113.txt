@@ -1,0 +1,75 @@
+Maria	O
+47	O
+años	O
+de	O
+profesión	O
+celadora	O
+con	O
+antecedente	O
+de	O
+fibromialgia	O
+con	O
+baja	O
+de	O
+mas	O
+de	O
+365	O
+días	O
+que	O
+el	O
+INSS	O
+le	O
+da	O
+el	O
+alta,	O
+que	O
+consulta	O
+3	O
+meses	O
+después	O
+por	O
+presentar	O
+lumbalgia	O
+,	O
+que	O
+no	O
+le	O
+impiden	O
+realizar	O
+su	O
+trabajo	O
+habitual	O
+
+1.	O
+Incapacidad	B-SITUACION_LABORAL
+temporal.	I-SITUACION_LABORAL
+
+2.	O
+IT	O
+como	O
+Recaída	O
+de	O
+proceso	O
+previo.	O
+
+3.	O
+It	O
+como	O
+nuevo	O
+proceso.	O
+
+4.	O
+No	O
+le	O
+damos	O
+IT.	O
+
+Nos	O
+encontramos	O
+ante	O
+un	O
+caso	O
+de	O
+probable	O
+recaída	O
+

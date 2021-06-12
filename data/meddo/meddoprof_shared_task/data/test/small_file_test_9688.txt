@@ -1,0 +1,17 @@
+
+No	O
+se	O
+evidencian	O
+alteraciones	O
+en	O
+la	O
+auscultación	O
+cardíaca	O
+y	O
+pulmonar	O
+y	O
+su	O
+abdomen	O
+era	O
+anodino	O
+.	O

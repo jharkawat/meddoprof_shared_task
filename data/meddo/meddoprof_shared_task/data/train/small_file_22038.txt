@@ -1,0 +1,22 @@
+
+Antonia	O
+era	O
+consciente	O
+de	O
+que	O
+tenía	O
+un	O
+problema	O
+grave	O
+,	O
+pues	O
+corría	O
+el	O
+riesgo	O
+de	O
+tener	O
+que	O
+afrontar	O
+un	O
+juicio	O
+.	O

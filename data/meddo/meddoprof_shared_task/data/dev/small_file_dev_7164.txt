@@ -1,0 +1,25 @@
+
+A	O
+su	O
+llegada	O
+a	O
+Urgencias	O
+,	O
+destacaba	O
+fiebre	O
+de	O
+39oC	O
+con	O
+franca	O
+sensación	O
+de	O
+postración	O
+y	O
+malestar	O
+general	O
+pese	O
+a	O
+parámetros	O
+hemodinámicos	O
+conservados	O
+.	O

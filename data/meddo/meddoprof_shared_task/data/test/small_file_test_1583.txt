@@ -1,0 +1,19 @@
+
+La	O
+paciente	O
+presentaba	O
+periodontitis	O
+ya	O
+que	O
+se	O
+encontraron	O
+profundidades	O
+de	O
+sondaje	O
+>	O
+4	O
+mm	O
+en	O
+varias	O
+localizaciones	O
+.	O

@@ -1,0 +1,11 @@
+
+Estuvo	O
+el	O
+primer	O
+mes	O
+en	O
+domicilio	O
+por	O
+aislamiento	O
+respiratorio	O
+.	O

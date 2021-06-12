@@ -1,0 +1,22 @@
+
+Realiza	O
+un	O
+buen	O
+seguimiento	O
+de	O
+su	O
+patología	O
+crónica	O
+en	O
+su	O
+Centro	O
+de	O
+Salud	O
+y	O
+es	O
+buen	O
+cumplidor	O
+de	O
+su	O
+tratamiento	O
+.	O

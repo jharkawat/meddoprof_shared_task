@@ -1,0 +1,14 @@
+
+Cuando	O
+contacta	O
+con	O
+el	O
+Programa	O
+no	O
+realizaba	O
+ninguna	B-SITUACION_LABORAL
+actividad	I-SITUACION_LABORAL
+formativa	I-SITUACION_LABORAL
+ni	I-SITUACION_LABORAL
+laboral	I-SITUACION_LABORAL
+.	O

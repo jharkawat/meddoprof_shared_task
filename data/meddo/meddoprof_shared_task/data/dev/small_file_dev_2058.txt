@@ -1,0 +1,9 @@
+
+y	O
+hormonas	O
+tiroideas	O
+dentro	O
+de	O
+límites	O
+normales	O
+.	O

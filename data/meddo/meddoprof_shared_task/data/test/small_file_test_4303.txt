@@ -1,0 +1,12 @@
+
+En	O
+la	O
+cirugía	O
+el	O
+ciego	O
+estaba	O
+desplazado	O
+a	O
+línea	O
+media	O
+.	O

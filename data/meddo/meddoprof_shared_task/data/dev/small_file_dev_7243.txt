@@ -1,0 +1,25 @@
+
+Se	O
+lleva	O
+a	O
+cabo	O
+la	O
+uretrocistoscopia	O
+donde	O
+se	O
+aprecia	O
+una	O
+vejiga	O
+con	O
+mucosa	O
+de	O
+aspecto	O
+granular	O
+en	O
+toda	O
+su	O
+superficie	O
+,	O
+realizándose	O
+biopsia	O
+.	O

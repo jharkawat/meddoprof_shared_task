@@ -1,0 +1,26 @@
+
+Paciente	O
+de	O
+21	O
+años	O
+,	O
+derivado	O
+para	O
+ingreso	O
+en	O
+la	O
+Unidad	O
+de	O
+Hospitalización	O
+Psiquiátrica	O
+por	O
+ideación	O
+autolítica	O
+en	O
+contexto	O
+de	O
+cuadro	O
+psicótico	O
+a	O
+estudio	O
+.	O

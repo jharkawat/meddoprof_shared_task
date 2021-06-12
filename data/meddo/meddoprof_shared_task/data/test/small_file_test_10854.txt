@@ -1,0 +1,27 @@
+
+En	O
+la	O
+misma	O
+consulta	O
+se	O
+tomaron	O
+biopsias	O
+con	O
+anestesia	O
+local	O
+,	O
+que	O
+informaron	O
+de	O
+un	O
+adenocarcinoma	O
+de	O
+tipo	O
+intestinal	O
+,	O
+de	O
+patrón	O
+mucinoso	O
+grado	O
+2	O
+.	O

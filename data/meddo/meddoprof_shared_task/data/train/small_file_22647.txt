@@ -1,0 +1,11 @@
+
+Cognitivamente	O
+estaba	O
+indemne	O
+y	O
+su	O
+nivel	O
+de	O
+conciencia	O
+eranormal	O
+.	O

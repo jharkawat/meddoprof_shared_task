@@ -1,0 +1,16 @@
+
+4	O
+-	O
+Fármacológica	O
+:	O
+Por	O
+uso	O
+de	O
+antiinflamatorios	O
+no	O
+esteroides	O
+y	O
+cotrimoxazol	O
+entre	O
+otros	O
+.	O

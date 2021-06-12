@@ -1,0 +1,22 @@
+
+Sin	O
+antecedentes	O
+familiares	O
+de	O
+hipoacusia	O
+ni	O
+de	O
+patología	O
+sindrómica	O
+;	O
+el	O
+embarazo	O
+,	O
+parto	O
+y	O
+periodo	O
+neonatal	O
+cursaron	O
+sin	O
+incidencias	O
+.	O

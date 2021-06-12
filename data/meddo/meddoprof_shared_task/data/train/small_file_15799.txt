@@ -1,0 +1,7 @@
+
+No	O
+se	O
+registran	O
+anomalías	O
+epileptiformes	O
+.	O

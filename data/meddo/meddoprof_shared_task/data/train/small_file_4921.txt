@@ -1,0 +1,19 @@
+
+-	O
+Alérgenos	O
+inhalantes	O
+:	O
+Positivo	O
+a	O
+hongos	O
+alternaria	O
+,	O
+aspergillus	O
+,	O
+epitelio	O
+de	O
+gato	O
+,	O
+ácaro	O
+D	O
+.	O

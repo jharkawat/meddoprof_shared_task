@@ -1,0 +1,8 @@
+
+Descripción	O
+del	O
+paciente	O
+/	O
+motivo	O
+de	O
+consulta	O

@@ -1,0 +1,27 @@
+
+También	O
+se	O
+realizó	O
+radiografía	O
+tórax	O
+urgente	O
+con	O
+ensanchamiento	O
+mediastínico	O
+y	O
+borramiento	O
+de	O
+la	O
+silueta	O
+cardiaca	O
+,	O
+senos	O
+costofrénicos	O
+libres	O
+,	O
+sin	O
+imágenes	O
+de	O
+condensación	O
+pulmonar	O
+.	O

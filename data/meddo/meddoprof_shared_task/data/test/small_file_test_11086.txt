@@ -1,0 +1,10 @@
+
+La	O
+paciente	O
+es	O
+la	O
+mayor	O
+de	O
+dos	O
+hermanas	O
+.	O

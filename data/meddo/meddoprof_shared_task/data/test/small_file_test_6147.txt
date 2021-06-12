@@ -1,0 +1,14 @@
+
+Imagen	O
+compatible	O
+con	O
+cuerpo	O
+extraño	O
+en	O
+el	O
+espesor	O
+de	O
+la	O
+pared	O
+gástrica	O
+.	O

@@ -1,0 +1,16 @@
+
+Varón	O
+de	O
+27	O
+años	O
+con	O
+antecedente	O
+médico	O
+de	O
+rinitis	O
+alérgica	O
+desde	O
+hace	O
+10	O
+años	O
+.	O

@@ -1,0 +1,12 @@
+
+Se	O
+quedó	O
+en	O
+el	O
+domicilio	O
+familiar	O
+ayudando	O
+en	O
+distintas	O
+tareas	O
+.	O

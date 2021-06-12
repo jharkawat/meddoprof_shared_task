@@ -1,0 +1,12 @@
+
+Antecedentes	O
+:	O
+La	O
+paciente	O
+era	O
+la	O
+segunda	O
+de	O
+seis	O
+hijos	O
+.	O

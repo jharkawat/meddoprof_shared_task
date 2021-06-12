@@ -1,0 +1,20 @@
+
+ANGIO	O
+-	O
+TAC	O
+aorta	O
+con	O
+contraste	O
+intravenoso	O
+(	O
+21	O
+/	O
+11	O
+/	O
+16	O
+)	O
+:	O
+Válvula	O
+aórtica	O
+trivalva	O
+.	O

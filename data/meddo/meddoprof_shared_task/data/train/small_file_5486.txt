@@ -1,0 +1,18 @@
+
+Refería	O
+además	O
+pérdida	O
+de	O
+unos	O
+6	O
+-	O
+7	O
+kilogramos	O
+de	O
+peso	O
+en	O
+los	O
+últimos	O
+2	O
+meses	O
+.	O

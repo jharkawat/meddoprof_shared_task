@@ -1,0 +1,14 @@
+
+Tras	O
+interrogatorio	O
+exhaustivo	O
+,	O
+el	O
+paciente	O
+reconoce	O
+tomar	O
+un	O
+"	O
+quemagrasas	O
+"	O
+.	O

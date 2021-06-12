@@ -1,0 +1,27 @@
+
+Deterioro	O
+cognitivo	O
+tipo	O
+enfermedad	O
+de	O
+Alzhéimer	O
+GDS	O
+-	O
+3	O
+en	O
+control	O
+por	O
+Neurología	O
+desde	O
+los	O
+80	O
+años	O
+de	O
+edad	O
+en	O
+tratamiento	O
+con	O
+parches	O
+de	O
+rivastigmina	O
+.	O

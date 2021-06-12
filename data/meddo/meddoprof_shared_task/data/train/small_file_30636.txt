@@ -1,0 +1,10 @@
+
+Sale	O
+con	O
+clozapina	O
+y	O
+haloperidol	O
+de	O
+este	O
+ingreso	O
+.	O

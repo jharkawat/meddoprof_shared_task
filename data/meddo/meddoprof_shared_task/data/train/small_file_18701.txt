@@ -1,0 +1,24 @@
+
+Mujer	O
+de	O
+22	O
+años	O
+de	O
+edad	O
+,	O
+europea	O
+,	O
+soltera	O
+,	O
+nacida	O
+en	O
+Lisboa	O
+,	O
+institucionalizada	O
+desde	O
+los	O
+22	O
+años	O
+de	O
+edad	O
+.	O

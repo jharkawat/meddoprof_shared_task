@@ -1,0 +1,51 @@
+T1	SINTOMA 859 882	alucinaciones auditivas
+T2	SINTOMA 911 919	delirios
+T3	SINTOMA 1362 1369	Fumador
+T4	SINTOMA 1978 1986	angustia
+T5	SINTOMA 3410 3433	hipotensión ortostática
+T6	PROCEDIMIENTO 233 241	opiáceos
+T7	PROCEDIMIENTO 1393 1402	Hemograma
+T8	PROCEDIMIENTO 1417 1435	electrocardiograma
+T9	PROCEDIMIENTO 2005 2022	sedación matutina
+T10	UNC 254 262	probable
+T11	USCO 263 280	trastorno bipolar
+T12	UNC 982 989	Tampoco
+T13	USCO 990 1063	remiten claramente las temáticas delirantes de características paranoides
+T14	NEG 1264 1266	No
+T15	NEG 1325 1328	Sin
+T16	NSCO 1329 1360	patologías somáticas de interés
+T17	NEG 1974 1977	sin
+T18	NSCO 1978 1986	angustia
+T19	NEG 2238 2240	No
+T20	NEG 3511 3513	No
+T21	NSCO 3514 3572	tiene disfunción sexual como con anteriores antipsicóticos
+T22	FARMACO 390 401	haloperidol
+T23	FARMACO 403 414	flufenazina
+T24	FARMACO 420 431	risperidona
+T25	FARMACO 455 465	olanzapina
+T26	FARMACO 467 478	aripiprazol
+T27	FARMACO 1753 1763	olanzapina
+T28	FARMACO 2075 2082	cafeína
+T29	FARMACO 2110 2120	olanzapina
+T30	FARMACO 2125 2134	clozapina
+T31	FARMACO 2323 2332	clozapina
+T32	FARMACO 2491 2500	clozapina
+T33	FARMACO 2519 2531	norclozapina
+T34	FARMACO 2630 2639	clozapina
+T35	FARMACO 2655 2667	norclozapina
+T36	FARMACO 3375 3384	clozapina
+T37	ORG_VIVO 26 36	personales
+T38	ORG_VIVO 38 43	varón
+T39	ORG_VIVO 134 142	cannabis
+T40	ORG_VIVO 157 167	familiares
+T41	ORG_VIVO 172 179	hermano
+T42	ORG_VIVO 246 249	tío
+T43	ORG_VIVO 1148 1156	cannabis
+T44	ORG_VIVO 3026 3032	pareja
+T45	ORG_VIVO 3163 3171	hermanos
+T46	ORG_VIVO 3216 3222	pareja
+T47	ENFERMEDAD 73 96	esquizofrenia paranoide
+T48	ENFERMEDAD 184 207	esquizofrenia paranoide
+T49	ENFERMEDAD 263 280	trastorno bipolar
+T50	ENFERMEDAD 1535 1561	Trastornos Mentales Graves
+T51	ENFERMEDAD 3410 3433	hipotensión ortostática

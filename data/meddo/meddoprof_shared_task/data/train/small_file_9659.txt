@@ -1,0 +1,8 @@
+
+Neurológicamente	O
+sin	O
+signos	O
+de	O
+focalidad	O
+neurológica	O
+.	O

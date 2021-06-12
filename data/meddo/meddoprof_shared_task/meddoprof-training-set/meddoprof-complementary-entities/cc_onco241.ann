@@ -1,0 +1,110 @@
+T1	SINTOMA 477 488	polaquiuria
+T2	SINTOMA 491 499	nicturia
+T3	SINTOMA 509 537	dolor leve a nivel de cadera
+T4	SINTOMA 2116 2152	dolor aumento de dolor en hemipelvis
+T5	SINTOMA 2286 2390	dolor lancinante de inicio en glúteo izquierdo con irradiación por cara posterior de extremidad inferior
+T6	SINTOMA 2692 2697	dolor
+T7	SINTOMA 2807 2812	dolor
+T8	SINTOMA 3165 3184	dolor en hemipelvis
+T9	SINTOMA 3225 3248	descenso de hemoglobina
+T10	SINTOMA 3374 3415	aumento de volumen en extremidad inferior
+T11	SINTOMA 3889 3914	hemodinámicamente estable
+T12	SINTOMA 3962 3977	palidez cutánea
+T13	SINTOMA 4038 4070	edema a nivel maleolar con fóvea
+T14	SINTOMA 5123 5145	tumoración sacroiliaca
+T15	PROCEDIMIENTO 414 432	Exploración física
+T16	PROCEDIMIENTO 731 749	exploración física
+T17	PROCEDIMIENTO 823 853	biopsia prostática ecodirigida
+T18	PROCEDIMIENTO 1185 1212	TAC toraco-abdomino-pélvico
+T19	PROCEDIMIENTO 1385 1392	PET-TAC
+T20	PROCEDIMIENTO 2663 2685	tratamiento analgésico
+T21	PROCEDIMIENTO 2723 2746	escala visual analógica
+T22	PROCEDIMIENTO 2846 2908	radioterápico paliativo sobre zona sacra-sacroiliaca izquierda
+T23	PROCEDIMIENTO 3495 3513	exploración física
+T24	PROCEDIMIENTO 3531 3541	Ecodoppler
+T25	PROCEDIMIENTO 4355 4364	hemograma
+T26	PROCEDIMIENTO 4584 4614	test de sangre oculta en heces
+T27	PROCEDIMIENTO 4688 4700	colonoscopia
+T28	PROCEDIMIENTO 4703 4715	gastroscopia
+T29	PROCEDIMIENTO 5062 5089	TAC toraco-abdomino-pélvico
+T30	PROCEDIMIENTO 5241 5257	Gammagrafía ósea
+T31	PROCEDIMIENTO 5854 5883	biopsia trucut de lesión ósea
+T32	PROCEDIMIENTO 5967 5993	biopsia guiada por escopia
+T33	PROCEDIMIENTO 6000 6025	estudio anatomopatológico
+T34	PROCEDIMIENTO 6376 6388	radioterapia
+T35	PROCEDIMIENTO 6510 6528	cirugía de legrado
+T36	PROCEDIMIENTO 6609 6620	RNM de cara
+T37	NEG 70 73	sin
+T38	NSCO 74 122	alergias medicamentosas conocidas hasta la fecha
+T39	NEG 124 126	No
+T40	NSCO 127 196	antecedentes médicos de interés ni intervenciones quirúrgicas previas
+T41	NEG 198 201	Sin
+T42	NSCO 202 237	antecedentes familiares oncológicos
+T43	NEG 552 554	no
+T44	NSCO 555 614	aumenta con la movilización ni origina limitación funcional
+T45	NEG 689 691	No
+T46	NSCO 692 749	se evidencian otras alteraciones en la exploración física
+T47	NEG 1110 1113	sin
+T48	NSCO 1114 1156	observarse invasión linfovascular ni local
+T49	UNC 1348 1355	posible
+T50	USCO 1356 1371	metástasis ósea
+T51	NEG 1688 1700	se desestima
+T52	NSCO 1701 1735	tratamiento radical sobre próstata
+T53	UNC 2440 2447	posible
+T54	USCO 2448 2480	componente neuropático del mismo
+T55	NEG 2553 2562	suspender
+T56	UNC 3426 3440	compatible con
+T57	USCO 3441 3446	edema
+T58	NEG 4365 4368	sin
+T59	NSCO 4369 4381	alteraciones
+T60	NSCO 4584 4614	test de sangre oculta en heces
+T61	NEG 4720 4722	no
+T62	NSCO 4723 4745	mostraron alteraciones
+T63	NEG 4833 4836	sin
+T64	NSCO 4837 4862	signos de sangrado activo
+T65	NSCO 4866 4902	Los marcadores tumorales solicitados
+T66	NEG 4944 4953	negativos
+T67	NEG 5561 5563	no
+T68	NSCO 5564 5607	existe evidencia de enfermedad a otro nivel
+T69	NEG 6192 6194	no
+T70	NSCO 6195 6282	se observaron mitosis atípicas ni otra alteración que indicara "transformación maligna"
+T71	UNC 6646 6653	valorar
+T72	USCO 6654 6701	la posibilidad de realizar una cirugía completa
+T73	FARMACO 625 636	paracetamol
+T74	FARMACO 1808 1820	Bicalutamida
+T75	FARMACO 2190 2198	tramadol
+T76	FARMACO 2204 2215	Paracetamol
+T77	FARMACO 2247 2256	Metamizol
+T78	FARMACO 2491 2502	pregabalina
+T79	ORG_VIVO 36 50	paciente varón
+T80	ORG_VIVO 215 225	familiares
+T81	ORG_VIVO 258 266	paciente
+T82	ORG_VIVO 384 411	Médico de Atención Primaria
+T83	ORG_VIVO 433 441	Paciente
+T84	ORG_VIVO 644 652	paciente
+T85	ORG_VIVO 1932 1940	paciente
+T86	ORG_VIVO 2098 2106	paciente
+T87	ORG_VIVO 2784 2792	paciente
+T88	ORG_VIVO 3705 3713	paciente
+T89	ORG_VIVO 3867 3875	paciente
+T90	ORG_VIVO 5526 5535	radiólogo
+T91	ORG_VIVO 5824 5832	paciente
+T92	ORG_VIVO 6298 6306	paciente
+T93	ORG_VIVO 6555 6563	paciente
+T94	ENFERMEDAD 953 991	adenocarcinoma infiltrante de próstata
+T95	ENFERMEDAD 1225 1258	lesión lítica a nivel sacroiliaco
+T96	ENFERMEDAD 1356 1371	metástasis ósea
+T97	ENFERMEDAD 1429 1475	metástasis ósea única en ala sacra-sacroiliaca
+T98	ENFERMEDAD 1500 1538	Adenocarcinoma infiltrante de próstata
+T99	ENFERMEDAD 1554 1595	metástasis ósea única a nivel sacroiliaco
+T100	ENFERMEDAD 1669 1687	tumores urológicos
+T101	ENFERMEDAD 3577 3602	trombosis venosa profunda
+T102	ENFERMEDAD 3672 3690	tumores urológicos
+T103	ENFERMEDAD 4566 4572	anemia
+T104	ENFERMEDAD 5650 5665	metástasis ósea
+T105	ENFERMEDAD 5667 5679	plasmocitoma
+T106	ENFERMEDAD 5682 5707	tumor de células gigantes
+T107	ENFERMEDAD 5921 5940	tumor óseo primario
+T108	ENFERMEDAD 6057 6122	tumor de células gigantes del hueso con amplias zonas de necrosis
+T109	SANITARIO-PROFESION 384 411	Médico de Atención Primaria
+T110	SANITARIO-PROFESION 5526 5535	radiólogo

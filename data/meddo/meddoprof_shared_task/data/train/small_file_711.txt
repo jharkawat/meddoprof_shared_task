@@ -1,0 +1,10 @@
+
+Se	O
+extrajeron	O
+hemocultivos	O
+que	O
+resultaron	O
+ser	O
+microbiológicamente	O
+estériles	O
+.	O

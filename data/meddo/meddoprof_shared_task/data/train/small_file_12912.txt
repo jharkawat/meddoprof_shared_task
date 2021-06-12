@@ -1,0 +1,18 @@
+
+Esa	O
+posición	O
+podía	O
+resultar	O
+desastrosa	O
+para	O
+un	O
+paciente	O
+con	O
+una	O
+hernia	O
+masiva	O
+y	O
+una	O
+instrumentación	O
+previa	O
+.	O

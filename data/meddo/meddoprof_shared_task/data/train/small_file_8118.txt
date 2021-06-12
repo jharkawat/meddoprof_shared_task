@@ -1,0 +1,6 @@
+
+De	O
+profesión	O
+ganadero	B-PROFESION
+ovino	I-PROFESION
+.	O

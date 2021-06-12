@@ -1,0 +1,19 @@
+
+Paciente	O
+de	O
+46	O
+años	O
+,	O
+natural	O
+de	O
+Marruecos	O
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+ni	O
+antecedentes	O
+patológicos	O
+relevantes	O
+.	O

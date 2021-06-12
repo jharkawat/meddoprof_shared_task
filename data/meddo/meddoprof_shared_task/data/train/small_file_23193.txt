@@ -1,0 +1,9 @@
+
+Los	O
+ganglios	O
+basales	O
+no	O
+presentan	O
+alteraciones	O
+significativas	O
+.	O

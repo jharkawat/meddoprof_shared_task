@@ -1,0 +1,8 @@
+
+Talla	O
+:	O
+1	O
+,	O
+7	O
+m	O
+.	O

@@ -1,0 +1,13 @@
+
+También	O
+se	O
+tuvieron	O
+que	O
+retrasar	O
+algunos	O
+ciclos	O
+por	O
+cuadros	O
+catarrales	O
+esporádicos	O
+.	O

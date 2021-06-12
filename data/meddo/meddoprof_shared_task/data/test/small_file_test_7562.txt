@@ -1,0 +1,14 @@
+
+Se	O
+completa	O
+estudio	O
+con	O
+IgA	O
+y	O
+estudio	O
+inmunológico	O
+tiroideo	O
+básico	O
+siendo	O
+negativo	O
+.	O

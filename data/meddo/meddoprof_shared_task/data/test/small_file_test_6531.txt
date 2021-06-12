@@ -1,0 +1,16 @@
+
+A	O
+su	O
+vez	O
+presenta	O
+edemas	O
+con	O
+fóvea	O
+en	O
+tobillos	O
+hasta	O
+raíces	O
+de	O
+miembros	O
+inferiores	O
+.	O

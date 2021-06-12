@@ -1,0 +1,25 @@
+
+Es	O
+entonces	O
+cuando	O
+se	O
+procede	O
+a	O
+un	O
+permiso	O
+terapéutico	O
+de	O
+fin	O
+de	O
+semana	O
+que	O
+transcurre	O
+sin	O
+incidencias	O
+,	O
+presentando	O
+la	O
+paciente	O
+estabilidad	O
+psicopatológica	O
+.	O

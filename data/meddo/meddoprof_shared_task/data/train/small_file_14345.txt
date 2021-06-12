@@ -1,0 +1,18 @@
+
+En	O
+el	O
+momento	O
+de	O
+la	O
+exploración	O
+física	O
+no	O
+se	O
+destacaron	O
+signos	O
+clínicos	O
+de	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

@@ -1,0 +1,6 @@
+
+Uroperitoneo	O
+por	O
+perforación	O
+ureteral	O
+.	O

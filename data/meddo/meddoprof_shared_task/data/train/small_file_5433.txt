@@ -1,0 +1,6 @@
+
+Mastitis	O
+subaguda	O
+en	O
+mama	O
+derecha	O

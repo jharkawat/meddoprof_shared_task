@@ -1,0 +1,27 @@
+
+Mantiene	O
+la	O
+convicción	O
+,	O
+delirante	O
+,	O
+bizarra	O
+,	O
+contumaz	O
+,	O
+de	O
+que	O
+su	O
+ex	O
+-	O
+amante	O
+la	O
+sigue	O
+amando	O
+a	O
+pesar	O
+de	O
+las	O
+circunstancias	O
+reales	O
+.	O

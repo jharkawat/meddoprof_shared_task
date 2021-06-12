@@ -1,0 +1,11 @@
+
+Relacionado	O
+con	O
+:	O
+Pérdida	O
+potencial	O
+percibida	O
+de	O
+alguien	O
+significativo	O
+.	O

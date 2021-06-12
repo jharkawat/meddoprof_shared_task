@@ -1,0 +1,24 @@
+
+Pensaba	O
+que	O
+la	O
+televisión	O
+se	O
+dirigía	O
+a	O
+él	O
+,	O
+que	O
+salían	O
+miembros	O
+de	O
+su	O
+familia	O
+que	O
+iban	O
+a	O
+competir	O
+en	O
+las	O
+Olimpiadas	O
+.	O

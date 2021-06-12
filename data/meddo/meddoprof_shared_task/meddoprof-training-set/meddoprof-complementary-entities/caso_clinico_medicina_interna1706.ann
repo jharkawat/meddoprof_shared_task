@@ -1,0 +1,173 @@
+T1	SINTOMA 290 298	disfagia
+T2	SINTOMA 597 603	fiebre
+T3	SINTOMA 616 624	tiritona
+T4	SINTOMA 690 693	tos
+T5	SINTOMA 698 721	expectoración purulenta
+T6	SINTOMA 1697 1719	deterioro respiratorio
+T7	SINTOMA 2612 2618	febril
+T8	SINTOMA 2633 2668	aumento de reactantes de fase aguda
+T9	SINTOMA 3092 3099	afebril
+T10	SINTOMA 7033 7039	febril
+T11	PROCEDIMIENTO 326 338	gastrostomía
+T12	PROCEDIMIENTO 928 960	ventilación mecánica no invasiva
+T13	PROCEDIMIENTO 962 966	VMNI
+T14	PROCEDIMIENTO 976 981	BiPAP
+T15	PROCEDIMIENTO 990 1020	tratamiento con antimicrobiano
+T16	PROCEDIMIENTO 1066 1080	corticoterapia
+T17	PROCEDIMIENTO 1093 1105	hemocultivos
+T18	PROCEDIMIENTO 1107 1131	test rápido de gripe A-B
+T19	PROCEDIMIENTO 1297 1311	oxigenoterapia
+T20	PROCEDIMIENTO 1428 1432	VMNI
+T21	PROCEDIMIENTO 1473 1487	oxigenoterapia
+T22	PROCEDIMIENTO 1492 1526	mascarilla con dispositivo venturi
+T23	PROCEDIMIENTO 1775 1779	VMNI
+T24	PROCEDIMIENTO 1784 1804	radiografía de tórax
+T25	PROCEDIMIENTO 1947 1964	tubo endotraqueal
+T26	PROCEDIMIENTO 1980 2000	ventilación mecánica
+T27	PROCEDIMIENTO 2136 2149	fluidoterapia
+T28	PROCEDIMIENTO 2332 2344	PCR de gripe
+T29	PROCEDIMIENTO 2448 2458	extubación
+T30	PROCEDIMIENTO 2477 2506	ventilación mecánica invasiva
+T31	PROCEDIMIENTO 2697 2709	reintubación
+T32	PROCEDIMIENTO 2734 2768	cultivos hemáticos y respiratorios
+T33	PROCEDIMIENTO 2780 2794	antibioterapia
+T34	PROCEDIMIENTO 2989 3009	soporte ventilatorio
+T35	PROCEDIMIENTO 3042 3066	traqueostomía percutánea
+T36	PROCEDIMIENTO 3147 3170	pruebas microbiológicas
+T37	PROCEDIMIENTO 3234 3248	antibioterapia
+T38	PROCEDIMIENTO 3445 3453	sedación
+T39	PROCEDIMIENTO 3557 3597	reclutamiento alveolar con el respirador
+T40	PROCEDIMIENTO 3629 3650	relajantes musculares
+T41	PROCEDIMIENTO 4015 4035	radiografía de tórax
+T42	PROCEDIMIENTO 4246 4261	masaje cardiaco
+T43	PROCEDIMIENTO 4312 4338	reanimación cardiopulmonar
+T44	PROCEDIMIENTO 4488 4502	ecocardiograma
+T45	PROCEDIMIENTO 4669 4687	electrocardiograma
+T46	PROCEDIMIENTO 4689 4692	ECG
+T47	PROCEDIMIENTO 4994 5022	administración de amiodarona
+T48	PROCEDIMIENTO 5101 5125	estudio coronariográfico
+T49	PROCEDIMIENTO 5524 5587	intervención percutánea coronaria sobre la descendente anterior
+T50	PROCEDIMIENTO 5949 5975	tratamiento betabloqueante
+T51	PROCEDIMIENTO 6236 6251	ecocardiografía
+T52	PROCEDIMIENTO 6507 6537	stents sobre coronaria derecha
+T53	PROCEDIMIENTO 6569 6664	stents solapados en descendente anterior, uno en arteria diagonal y otro en tronco común ostial
+T54	PROCEDIMIENTO 6734 6762	stents en el árbol coronario
+T55	PROCEDIMIENTO 6897 6917	ventilación mecánica
+T56	PROCEDIMIENTO 6936 6958	destete del respirador
+T57	PROCEDIMIENTO 7134 7151	ciclo antibiótico
+T58	PROCEDIMIENTO 7198 7213	ecocardiografía
+T59	PROCEDIMIENTO 7348 7371	drenaje pleural derecho
+T60	PROCEDIMIENTO 7505 7517	hemocultivos
+T61	PROCEDIMIENTO 7520 7531	urocultivos
+T62	PROCEDIMIENTO 7560 7579	terapia antibiótica
+T63	PROCEDIMIENTO 7711 7737	desconexión del respirador
+T64	PROCEDIMIENTO 7774 7794	ventilación mecánica
+T65	PROCEDIMIENTO 7870 7883	traqueostomía
+T66	PROCEDIMIENTO 7898 7917	cierra traqueostoma
+T67	NEG 612 615	sin
+T68	NSCO 616 633	tiritona asociada
+T69	NEG 890 893	sin
+T70	NSCO 894 905	O2 añadido
+T71	NEG 949 951	no
+T72	NSCO 952 960	invasiva
+T73	NEG 1139 1147	negativo
+T74	NEG 1205 1214	negativos
+T75	NEG 1224 1235	ausencia de
+T76	NSCO 1236 1253	respuesta inicial
+T77	NEG 1413 1424	retirada de
+T78	NSCO 1425 1432	la VMNI
+T79	NEG 2275 2284	suspender
+T80	NSCO 2285 2314	la perfusión de noradrenalina
+T81	NEG 2345 2353	negativa
+T82	NEG 2354 2365	se suspende
+T83	NSCO 2366 2377	oseltamivir
+T84	NEG 3092 3099	afebril
+T85	NEG 3171 3180	negativas
+T86	NEG 3222 3233	se suspende
+T87	NSCO 3234 3248	antibioterapia
+T88	NEG 3512 3523	ausencia de
+T89	NSCO 3524 3531	mejoría
+T90	UNC 3874 3888	compatible con
+T91	USCO 3889 3898	trasudado
+T92	NEG 4507 4515	descarta
+T93	NSCO 4516 4535	derrame pericárdico
+T94	NEG 4922 4931	arrítmica
+T95	UNC 5313 5326	impresiona de
+T96	USCO 5327 5350	crónica en tercio medio
+T97	NEG 5593 5595	no
+T98	NSCO 5596 5606	es exitosa
+T99	UNC 6382 6390	aparente
+T100	USCO 6391 6440	viabilidad miocárdica y un probable trombo apical
+T101	NEG 6800 6803	sin
+T102	NSCO 6804 6859	nuevas incidencias desde el punto de vista cardiológico
+T103	NEG 6926 6932	impide
+T104	NSCO 6933 6958	el destete del respirador
+T105	NEG 7400 7402	no
+T106	NSCO 7403 7430	complicado en gran cantidad
+T107	FARMACO 894 896	O2
+T108	FARMACO 1025 1036	ceftriaxona
+T109	FARMACO 1038 1050	azitromicina
+T110	FARMACO 1053 1064	oseltamivir
+T111	FARMACO 1618 1629	oseltamivir
+T112	FARMACO 2175 2188	noradrenalina
+T113	FARMACO 2301 2314	noradrenalina
+T114	FARMACO 2366 2377	oseltamivir
+T115	FARMACO 2827 2836	linezolid
+T116	FARMACO 2839 2847	imipenem
+T117	FARMACO 2875 2888	noradrenalina
+T118	FARMACO 3492 3502	furosemida
+T119	FARMACO 4361 4371	adrenalina
+T120	FARMACO 5012 5022	amiodarona
+T121	FARMACO 5079 5088	lidocaína
+T122	FARMACO 7156 7168	piperacilina
+T123	FARMACO 7169 7179	tazobactam
+T124	FARMACO 7582 7592	ampicilina
+T125	ORG_VIVO 15 20	varón
+T126	ORG_VIVO 105 113	infancia
+T127	ORG_VIVO 468 476	personas
+T128	ORG_VIVO 542 550	paciente
+T129	ORG_VIVO 1162 1172	Legionella
+T130	ORG_VIVO 1175 1187	S.pneumoniae
+T131	ORG_VIVO 1901 1909	paciente
+T132	ORG_VIVO 3071 3079	paciente
+T133	ORG_VIVO 4069 4077	paciente
+T134	ORG_VIVO 4197 4219	personal de enfermería
+T135	ORG_VIVO 4274 4289	personal médico
+T136	ORG_VIVO 4416 4424	paciente
+T137	ORG_VIVO 5697 5705	paciente
+T138	ORG_VIVO 5751 5759	paciente
+T139	ORG_VIVO 5829 5837	paciente
+T140	ORG_VIVO 6020 6028	paciente
+T141	ORG_VIVO 7004 7012	paciente
+T142	ORG_VIVO 7487 7501	polimicrobiano
+T143	ORG_VIVO 7605 7615	Enterococo
+T144	ORG_VIVO 7648 7656	paciente
+T145	ORG_VIVO 8001 8009	paciente
+T146	ORG_VIVO 8066 8072	médico
+T147	ENFERMEDAD 71 83	hipertensión
+T148	ENFERMEDAD 85 148	poliomielitis en la infancia con deformidad de miembro inferior
+T149	ENFERMEDAD 178 213	accidente cerebrovascular isquémico
+T150	ENFERMEDAD 261 277	parálisis facial
+T151	ENFERMEDAD 1122 1131	gripe A-B
+T152	ENFERMEDAD 1536 1578	infeccioso sale positivo el PCR de gripe A
+T153	ENFERMEDAD 2039 2044	shock
+T154	ENFERMEDAD 2049 2070	fracaso multiorgánico
+T155	ENFERMEDAD 3730 3745	derrame pleural
+T156	ENFERMEDAD 4140 4155	parada cardiaca
+T157	ENFERMEDAD 4169 4192	fibrilación ventricular
+T158	ENFERMEDAD 4378 4394	choque eléctrico
+T159	ENFERMEDAD 4516 4535	derrame pericárdico
+T160	ENFERMEDAD 4858 4873	parada cardiaca
+T161	ENFERMEDAD 4877 4900	fibrilación ventricular
+T162	ENFERMEDAD 5172 5247	suboclusión crónica en tercio proximal así como otra en tercio medio-distal
+T163	ENFERMEDAD 5273 5350	oclusión en la descendente anterior que impresiona de crónica en tercio medio
+T164	ENFERMEDAD 5474 5506	oclusión crónica en tercio medio
+T165	ENFERMEDAD 5791 5814	fibrilación ventricular
+T166	ENFERMEDAD 6165 6215	lesiones de la descendente anterior y la coronaria
+T167	ENFERMEDAD 6336 6365	disfunción ventricular severa
+T168	ENFERMEDAD 6427 6440	trombo apical
+T169	ENFERMEDAD 7278 7293	derrame pleural
+T170	SANITARIO-PROFESION 8066 8086	médico rehabilitador
+T171	SANITARIO-PROFESION 4197 4219	personal de enfermería
+T172	SANITARIO-PROFESION 4274 4289	personal médico
+T173	SANITARIO-PROFESION 8089 8118	fisioterapeutas hospitalarios

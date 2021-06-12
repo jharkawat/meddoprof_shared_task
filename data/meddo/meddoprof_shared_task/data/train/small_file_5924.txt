@@ -1,0 +1,13 @@
+
+Antecedentes	O
+personales	O
+:	O
+Fumadora	O
+de	O
+15	O
+cig	O
+/	O
+día	O
+hasta	O
+2017	O
+.	O

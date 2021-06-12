@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+negó	O
+en	O
+todo	O
+momento	O
+tos	O
+y	O
+/	O
+o	O
+sensación	O
+de	O
+alza	O
+térmica	O
+.	O

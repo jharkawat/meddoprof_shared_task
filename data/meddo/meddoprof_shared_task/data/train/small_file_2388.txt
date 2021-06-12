@@ -1,0 +1,17 @@
+
+Estas	O
+medidas	O
+tienen	O
+como	O
+fin	O
+,	O
+evitar	O
+la	O
+aparición	O
+de	O
+reacciones	O
+dudosas	O
+o	O
+resultados	O
+falsos	O
+.	O

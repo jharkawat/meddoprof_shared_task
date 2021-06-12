@@ -1,0 +1,22 @@
+
+En	O
+la	O
+otoscopia	O
+del	O
+oído	O
+izquierdo	O
+se	O
+objetiva	O
+una	O
+perforación	O
+inferior	O
+con	O
+supuración	O
+activa	O
+de	O
+la	O
+que	O
+se	O
+tomó	O
+muestra	O
+.	O

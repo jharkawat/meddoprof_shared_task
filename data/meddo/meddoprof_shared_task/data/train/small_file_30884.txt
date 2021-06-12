@@ -1,0 +1,10 @@
+
+Se	O
+incorpora	O
+al	O
+hospital	O
+de	O
+día	O
+del	O
+CTI	O
+.	O

@@ -1,0 +1,22 @@
+
+En	O
+2010	O
+se	O
+traslada	O
+a	O
+vivir	O
+a	O
+Madrid	O
+y	O
+allí	O
+comienza	O
+su	O
+"	O
+peregrinaje	O
+"	O
+por	O
+distintos	O
+Psiquiatras	B-PROFESION
+y	O
+Psicólogos	B-PROFESION
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+realizó	O
+ecografía	O
+abdominal	O
+,	O
+que	O
+objetivó	O
+múltiples	O
+lesiones	O
+hipodensas	O
+de	O
+pequeño	O
+tamaño	O
+compatibles	O
+con	O
+quistes	O
+.	O

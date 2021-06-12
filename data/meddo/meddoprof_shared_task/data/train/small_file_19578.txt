@@ -1,0 +1,6 @@
+
+Talla	O
+:	O
+1	O
+.	O
+73m	O

@@ -1,0 +1,17 @@
+
+Es	O
+valorado	O
+por	O
+Cirugía	O
+Vascular	O
+no	O
+precisando	O
+tratamiento	O
+en	O
+el	O
+momento	O
+actual	O
+por	O
+no	O
+complicación	O
+.	O

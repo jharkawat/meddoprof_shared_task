@@ -1,0 +1,80 @@
+T1	SINTOMA 1569 1579	consciente
+T2	SINTOMA 1581 1610	orientado en las tres esferas
+T3	SINTOMA 1862 1870	insomnio
+T4	SINTOMA 1904 1918	apatía intensa
+T5	SINTOMA 1920 1931	sentimiento
+T6	SINTOMA 1964 1972	ansiedad
+T7	SINTOMA 1975 1982	anergia
+T8	PROCEDIMIENTO 1223 1231	opiáceos
+T9	PROCEDIMIENTO 1439 1454	benzodiacepinas
+T10	NEG 413 415	No
+T11	NSCO 416 464	antecedentes familiares psiquiátricos de interés
+T12	NEG 633 635	no
+T13	NSCO 636 650	es consumidora
+T14	NEG 1206 1211	Niega
+T15	NSCO 1212 1245	consumo de opiáceos y anfetaminas
+T16	NEG 1727 1729	no
+T17	NSCO 1730 1745	seguir viviendo
+T18	UNC 1821 1828	posible
+T19	USCO 1829 1852	paternidad de sus hijos
+T20	NEG 1984 1986	No
+T21	NSCO 1987 2038	presenta alteraciones del contenido del pensamiento
+T22	NEG 2236 2238	no
+T23	NSCO 2239 2255	considera dañino
+T24	NEG 2684 2687	sin
+T25	NSCO 2688 2699	diagnóstico
+T26	FARMACO 1076 1087	venlafaxina
+T27	FARMACO 1234 1245	anfetaminas
+T28	FARMACO 1507 1517	disulfiram
+T29	FARMACO 2870 2881	venlafaxina
+T30	FARMACO 2930 2940	disulfiram
+T31	ORG_VIVO 19 24	Varón
+T32	ORG_VIVO 49 55	pareja
+T33	ORG_VIVO 58 63	nieto
+T34	ORG_VIVO 158 166	cannabis
+T35	ORG_VIVO 192 202	personales
+T36	ORG_VIVO 316 326	familiares
+T37	ORG_VIVO 327 332	Padre
+T38	ORG_VIVO 377 382	Madre
+T39	ORG_VIVO 429 439	familiares
+T40	ORG_VIVO 474 479	hijos
+T41	ORG_VIVO 485 489	hija
+T42	ORG_VIVO 583 592	ex pareja
+T43	ORG_VIVO 600 607	familia
+T44	ORG_VIVO 626 632	pareja
+T45	ORG_VIVO 712 720	cannabis
+T46	ORG_VIVO 727 739	adolescencia
+T47	ORG_VIVO 1002 1010	cannabis
+T48	ORG_VIVO 1148 1156	cannabis
+T49	ORG_VIVO 1560 1568	Paciente
+T50	ORG_VIVO 1656 1666	familiares
+T51	ORG_VIVO 1687 1694	persona
+T52	ORG_VIVO 1829 1839	paternidad
+T53	ORG_VIVO 1847 1852	hijos
+T54	ORG_VIVO 1948 1953	padre
+T55	ORG_VIVO 1956 1962	esposo
+T56	ORG_VIVO 2218 2226	cannabis
+T57	ORG_VIVO 2269 2277	familiar
+T58	ORG_VIVO 2343 2347	hija
+T59	ORG_VIVO 2360 2369	ex esposa
+T60	ORG_VIVO 2395 2399	hija
+T61	ORG_VIVO 2607 2615	cannabis
+T62	ORG_VIVO 3018 3026	cannabis
+T63	ENFERMEDAD 118 176	cuadro depresivo asociado al consumo de cannabis y alcohol
+T64	ENFERMEDAD 217 225	glaucoma
+T65	ENFERMEDAD 228 258	neuritis bilateral retrobulbar
+T66	ENFERMEDAD 280 300	infarto de miocardio
+T67	ENFERMEDAD 355 375	infarto de miocardio
+T68	ENFERMEDAD 397 411	cáncer de mama
+T69	ENFERMEDAD 991 1010	consumo de cannabis
+T70	ENFERMEDAD 1137 1156	consumo de cannabis
+T71	ENFERMEDAD 1964 1972	ansiedad
+T72	ENFERMEDAD 2592 2625	Dependencia de cannabis y alcohol
+T73	ENFERMEDAD 2627 2649	Síndrome amotivacional
+T74	ENFERMEDAD 2657 2675	Síndrome depresivo
+T75	ENFERMEDAD 2722 2742	neuritis retrobulbar
+T76	ENFERMEDAD 2754 2762	Glaucoma
+T77	ENFERMEDAD 2765 2793	infarto de miocardio antiguo
+T78	ENFERMEDAD 3005 3026	ingestión de cannabis
+T79	FAMILIAR-SITUACION_LABORAL 540 566	en reclusión penitenciaria
+T80	FAMILIAR-SITUACION_LABORAL 2405 2431	en un centro penitenciario

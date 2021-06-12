@@ -1,0 +1,11 @@
+T1	SINTOMA 254 278	expectoración hemoptoica
+T2	SINTOMA 291 297	disnea
+T3	SINTOMA 465 481	malestar general
+T4	SINTOMA 484 493	febrícula
+T5	NEG 84 87	sin
+T6	NSCO 88 117	otros antecedentes de interés
+T7	FARMACO 166 175	enalapril
+T8	ORG_VIVO 0 5	Mujer
+T9	ORG_VIVO 515 523	paciente
+T10	ENFERMEDAD 73 83	hipertensa
+T11	PACIENTE-PROFESION 132 141	peluquera

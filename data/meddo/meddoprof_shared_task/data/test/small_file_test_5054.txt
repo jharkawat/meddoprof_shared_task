@@ -1,0 +1,13 @@
+
+No	O
+se	O
+observan	O
+focos	O
+hipermetabólicos	O
+a	O
+distancia	O
+sugestivos	O
+de	O
+enfermedad	O
+tumoral	O
+.	O

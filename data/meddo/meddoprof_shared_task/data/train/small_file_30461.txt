@@ -1,0 +1,7 @@
+
+Consumo	O
+perjudicial	O
+de	O
+sustancias	O
+cannabinoides	O
+.	O

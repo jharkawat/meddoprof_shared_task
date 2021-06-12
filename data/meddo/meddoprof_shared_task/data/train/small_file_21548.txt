@@ -1,0 +1,17 @@
+
+Entonces	O
+se	O
+sentía	O
+deprimido	O
+y	O
+desesperanzado	O
+,	O
+incapaz	O
+de	O
+funcionar	O
+en	O
+su	O
+día	O
+a	O
+día	O
+.	O

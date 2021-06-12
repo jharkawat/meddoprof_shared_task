@@ -1,0 +1,13 @@
+
+No	O
+fiebre	O
+,	O
+no	O
+alteración	O
+de	O
+la	O
+visión	O
+,	O
+no	O
+fotofobia	O
+.	O

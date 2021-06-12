@@ -1,0 +1,8 @@
+
+Anticoagulante	O
+lúpico	O
+positivo	O
+,	O
+y	O
+ac	O
+.	O

@@ -1,0 +1,11 @@
+
+Levocardia	O
+-	O
+levoápex	O
+y	O
+situs	O
+solitus	O
+diagnosticado	O
+mediante	O
+ecografía	O
+.	O

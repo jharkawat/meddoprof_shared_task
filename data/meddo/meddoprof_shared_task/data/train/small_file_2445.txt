@@ -1,0 +1,25 @@
+
+Tras	O
+la	O
+dosis	O
+de	O
+placebo	O
+,	O
+la	O
+paciente	O
+reprodujo	O
+los	O
+mismos	O
+síntomas	O
+,	O
+los	O
+cuales	O
+remitieron	O
+progresivamente	O
+tras	O
+su	O
+dosis	O
+correspondiente	O
+de	O
+inmunoterapia	O
+.	O

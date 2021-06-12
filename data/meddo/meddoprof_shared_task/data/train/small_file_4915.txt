@@ -1,0 +1,4 @@
+
+PR	O
+corto	O
+.	O

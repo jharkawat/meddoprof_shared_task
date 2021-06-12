@@ -1,0 +1,24 @@
+
+Antecedentes	O
+familiares	O
+:	O
+se	O
+trata	O
+de	O
+una	O
+mujer	O
+soltera	O
+sin	O
+hijos	O
+,	O
+que	O
+vive	O
+con	O
+su	O
+madre	O
+en	O
+un	O
+área	O
+urbana	O
+marginal	O
+.	O

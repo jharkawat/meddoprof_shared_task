@@ -1,0 +1,5 @@
+
+Antecedentes	O
+médicos	O
+personales	O
+:	O

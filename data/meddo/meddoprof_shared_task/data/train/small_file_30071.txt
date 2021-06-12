@@ -1,0 +1,10 @@
+
+En	O
+seguimiento	O
+en	O
+la	O
+URA	O
+de	O
+forma	O
+irregular	O
+.	O

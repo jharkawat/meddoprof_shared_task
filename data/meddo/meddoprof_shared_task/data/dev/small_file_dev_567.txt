@@ -1,0 +1,10 @@
+
+Inquieto	O
+pero	O
+reconducible	O
+siendo	O
+abordable	O
+en	O
+la	O
+entrevista	O
+.	O

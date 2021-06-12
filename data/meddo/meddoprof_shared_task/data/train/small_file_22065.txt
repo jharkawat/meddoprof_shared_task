@@ -1,0 +1,22 @@
+
+Es	O
+lo	O
+mejor	O
+.	O
+T	O
+:	O
+No	O
+te	O
+gustan	O
+mucho	O
+las	O
+aventuras	O
+,	O
+o	O
+las	O
+novedades	O
+,	O
+¿	O
+es	O
+eso	O
+?	O

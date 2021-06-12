@@ -1,0 +1,23 @@
+
+Se	O
+decide	O
+ingreso	O
+en	O
+Medicina	O
+Interna	O
+para	O
+estudio	O
+porque	O
+en	O
+la	O
+radiografía	O
+de	O
+tórax	O
+se	O
+visualiza	O
+hallazgos	O
+compatibles	O
+con	O
+adenopatías	O
+mediastínicas	O
+.	O

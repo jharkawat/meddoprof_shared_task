@@ -1,0 +1,21 @@
+
+Describía	O
+que	O
+eran	O
+monitorizados	O
+por	O
+los	O
+vecinos	O
+,	O
+de	O
+manera	O
+que	O
+éstos	O
+dañaban	O
+de	O
+forma	O
+intencionada	O
+sus	O
+aparatos	O
+electrónicos	O
+.	O

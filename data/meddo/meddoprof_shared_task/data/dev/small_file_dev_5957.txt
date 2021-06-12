@@ -1,0 +1,9 @@
+
+No	O
+se	O
+observan	O
+adenopatías	O
+mesentéricas	O
+ni	O
+retroperitoneales	O
+.	O

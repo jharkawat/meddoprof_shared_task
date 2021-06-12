@@ -1,0 +1,11 @@
+
+Juicio	O
+de	O
+realidad	O
+alterado	O
+con	O
+escasa	O
+conciencia	O
+de	O
+enfermedad	O
+.	O

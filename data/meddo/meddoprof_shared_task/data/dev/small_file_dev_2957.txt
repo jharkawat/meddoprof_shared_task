@@ -1,0 +1,13 @@
+
+Nutricional	O
+-	O
+metabólico	O
+:	O
+peso	O
+adecuado	O
+según	O
+su	O
+altura	O
+y	O
+peso	O
+.	O

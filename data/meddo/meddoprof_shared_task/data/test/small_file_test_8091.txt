@@ -1,0 +1,11 @@
+
+O2	O
+:	O
+91	O
+%	O
+basal	O
+FR	O
+:	O
+14	O
+rpm	O
+.	O

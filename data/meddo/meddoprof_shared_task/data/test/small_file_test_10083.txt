@@ -1,0 +1,13 @@
+
+El	O
+diagnóstico	O
+anatomopatológico	O
+fue	O
+de	O
+una	O
+vasculitis	O
+granulomatosa	O
+y	O
+necrotizante	O
+mediastínica	O
+.	O

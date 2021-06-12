@@ -1,0 +1,27 @@
+
+Padre	O
+ausente	O
+,	O
+madre	O
+desbordada	O
+por	O
+los	O
+problemas	O
+económicos	O
+y	O
+atención	O
+a	O
+los	O
+abuelos	O
+gravemente	O
+enfermos	O
+,	O
+y	O
+hermana	O
+harta	O
+de	O
+los	O
+privilegios	O
+del	O
+paciente	O
+.	O

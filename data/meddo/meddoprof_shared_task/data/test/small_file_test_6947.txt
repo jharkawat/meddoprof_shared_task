@@ -1,0 +1,21 @@
+
+Todos	O
+los	O
+hallazgos	O
+son	O
+compatibles	O
+con	O
+una	O
+neoplasia	O
+renal	O
+izquierda	O
+primaria	O
+con	O
+metástasis	O
+(	O
+M1	O
+)	O
+pulmonares	O
+y	O
+suprarrenales	O
+.	O

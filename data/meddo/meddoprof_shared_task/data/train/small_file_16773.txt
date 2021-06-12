@@ -1,0 +1,15 @@
+
+Auscultación	O
+cardiopulmonar	O
+,	O
+cuello	O
+,	O
+tórax	O
+,	O
+abdomen	O
+y	O
+extremidades	O
+sin	O
+alteraciones	O
+reseñables	O
+.	O

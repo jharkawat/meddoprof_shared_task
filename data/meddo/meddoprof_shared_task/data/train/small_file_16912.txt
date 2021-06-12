@@ -1,0 +1,20 @@
+
+Se	O
+inició	O
+tratamiento	O
+orientado	O
+a	O
+reducir	O
+y	O
+modular	O
+el	O
+proceso	O
+inflamatorio	O
+,	O
+con	O
+altas	O
+dosis	O
+de	O
+metilprednisolona	O
+intravenosa	O
+.	O

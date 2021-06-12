@@ -1,0 +1,4 @@
+
+Juicio	O
+diagnóstico	O
+:	O

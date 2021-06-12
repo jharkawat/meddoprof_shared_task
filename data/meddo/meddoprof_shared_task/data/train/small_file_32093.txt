@@ -1,0 +1,23 @@
+
+Hemograma	O
+,	O
+bioquímica	O
+,	O
+serología	O
+,	O
+prolactina	O
+,	O
+perfil	O
+tiroideo	O
+básico	O
+de	O
+orina	O
+,	O
+vitamina	O
+B12	O
+y	O
+ácido	O
+fólico	O
+:	O
+normales	O
+.	O

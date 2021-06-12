@@ -1,0 +1,7 @@
+
+Diagnóstico	O
+:	O
+Encefalitis	O
+por	O
+adenovirus	O
+.	O

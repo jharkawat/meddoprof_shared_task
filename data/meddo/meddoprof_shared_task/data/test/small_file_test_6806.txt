@@ -1,0 +1,15 @@
+
+Derrame	O
+pericárdico	O
+leve	O
+posterior	O
+con	O
+fracción	O
+de	O
+eyección	O
+conservada	O
+y	O
+válvulas	O
+sin	O
+alteraciones	O
+.	O

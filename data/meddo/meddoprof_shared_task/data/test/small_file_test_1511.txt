@@ -1,0 +1,20 @@
+
+La	O
+paciente	O
+continuó	O
+con	O
+su	O
+tratamiento	O
+de	O
+rehabilitación	O
+que	O
+incluía	O
+prótesis	O
+implanto	O
+-	O
+soportadas	O
+en	O
+los	O
+cuadrantes	O
+derechos	O
+.	O

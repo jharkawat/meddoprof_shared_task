@@ -1,0 +1,25 @@
+
+Ante	O
+los	O
+datos	O
+clínicos	O
+y	O
+de	O
+imagen	O
+,	O
+se	O
+inició	O
+tratamiento	O
+empírico	O
+con	O
+vancomicina	O
+y	O
+ciprofloxacino	O
+basándose	O
+en	O
+los	O
+aislamientos	O
+previos	O
+de	O
+SE	O
+.	O

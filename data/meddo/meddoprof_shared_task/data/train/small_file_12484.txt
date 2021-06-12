@@ -1,0 +1,26 @@
+
+Los	O
+hallazgos	O
+eran	O
+compatibles	O
+,	O
+principalmente	O
+,	O
+con	O
+una	O
+carcinomatosis	O
+peritoneal	O
+,	O
+o	O
+menos	O
+probablemente	O
+dada	O
+la	O
+edad	O
+de	O
+la	O
+paciente	O
+con	O
+un	O
+mesotelioma	O
+.	O

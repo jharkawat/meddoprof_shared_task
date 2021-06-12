@@ -1,0 +1,25 @@
+
+Se	O
+realiza	O
+ingreso	O
+hospitalario	O
+para	O
+corregir	O
+cifras	O
+de	O
+litemia	O
+,	O
+disminuir	O
+dosis	O
+de	O
+litio	O
+de	O
+forma	O
+progresiva	O
+y	O
+valorar	O
+evolución	O
+de	O
+clínica	O
+asociada	O
+.	O

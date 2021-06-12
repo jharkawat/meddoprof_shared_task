@@ -1,0 +1,5 @@
+
+Cefalea	O
+tensional	O
+episódica	O
+.	O

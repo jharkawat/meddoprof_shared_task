@@ -1,0 +1,9 @@
+
+No	O
+se	O
+palpaban	O
+adenopatías	O
+supraclaviculares	O
+ni	O
+laterocervicales	O
+.	O

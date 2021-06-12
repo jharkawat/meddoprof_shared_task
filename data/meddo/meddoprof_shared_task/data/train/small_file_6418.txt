@@ -1,0 +1,17 @@
+
+Nuestro	O
+paciente	O
+se	O
+encontraba	O
+consciente	O
+,	O
+orientado	O
+y	O
+colaborador	O
+,	O
+bien	O
+hidratado	O
+y	O
+hemodinámicamente	O
+estable	O
+.	O

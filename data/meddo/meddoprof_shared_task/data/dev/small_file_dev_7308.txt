@@ -1,0 +1,20 @@
+
+Además	O
+lesiones	O
+cutáneas	O
+no	O
+pruriginosas	O
+ni	O
+dolorosas	O
+que	O
+se	O
+habían	O
+iniciado	O
+el	O
+mes	O
+anterior	O
+estando	O
+en	O
+su	O
+país	O
+.	O

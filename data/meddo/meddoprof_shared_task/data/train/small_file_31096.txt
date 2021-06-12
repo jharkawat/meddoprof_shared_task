@@ -1,0 +1,18 @@
+
+Mujer	O
+de	O
+37	O
+años	O
+que	O
+debuta	O
+a	O
+los	O
+20	O
+años	O
+con	O
+diagnóstico	O
+inicial	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

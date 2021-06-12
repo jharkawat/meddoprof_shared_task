@@ -1,0 +1,10 @@
+
+Diagnosticada	O
+de	O
+enfermedad	O
+celíaca	O
+en	O
+febrero	O
+del	O
+2018	O
+.	O

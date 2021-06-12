@@ -1,0 +1,26 @@
+
+Es	O
+ama	B-SITUACION_LABORAL
+de	I-SITUACION_LABORAL
+casa	I-SITUACION_LABORAL
+,	O
+es	O
+paciente	O
+del	O
+centro	O
+,	O
+pero	O
+usted	O
+no	O
+la	O
+conoce	O
+porque	O
+realiza	O
+sus	O
+controles	O
+de	O
+salud	O
+con	O
+otro	O
+médico	B-PROFESION
+.	O

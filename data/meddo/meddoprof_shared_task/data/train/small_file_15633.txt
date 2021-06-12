@@ -1,0 +1,6 @@
+
+Leve	O
+ptosis	O
+palpebral	O
+bilateral	O
+.	O

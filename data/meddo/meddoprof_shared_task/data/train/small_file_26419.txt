@@ -1,0 +1,19 @@
+
+La	O
+mamá	O
+consideraba	O
+que	O
+coqueteaba	O
+con	O
+la	O
+muerte	O
+,	O
+pero	O
+no	O
+pensaba	O
+que	O
+fuera	O
+a	O
+hacerse	O
+daño	O
+.	O

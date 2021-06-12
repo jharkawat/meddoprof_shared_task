@@ -1,0 +1,21 @@
+
+Como	O
+antecedentes	O
+oftalmológicos	O
+destaca	O
+haber	O
+recibido	O
+cuatro	O
+inyecciones	O
+de	O
+bevacizumab	O
+en	O
+el	O
+OI	O
+,	O
+la	O
+última	O
+hace	O
+un	O
+mes	O
+.	O

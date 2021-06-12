@@ -1,0 +1,26 @@
+
+Se	O
+realiza	O
+TAC	O
+de	O
+tórax	O
+,	O
+abdomen	O
+y	O
+extremidades	O
+inferiores	O
+que	O
+mostró	O
+como	O
+hallazgos	O
+patológicos	O
+:	O
+hígado	O
+aumentado	O
+de	O
+tamaño	O
+,	O
+de	O
+morfología	O
+normal	O
+.	O

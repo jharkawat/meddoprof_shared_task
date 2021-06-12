@@ -1,0 +1,14 @@
+
+La	O
+radiografía	O
+de	O
+tórax	O
+y	O
+el	O
+electrocardiograma	O
+no	O
+arrojaron	O
+datos	O
+de	O
+interés	O
+.	O

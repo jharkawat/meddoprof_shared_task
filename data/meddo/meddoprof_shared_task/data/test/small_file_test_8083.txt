@@ -1,0 +1,9 @@
+
+Sin	O
+dolor	O
+torácico	O
+ni	O
+sensación	O
+de	O
+palpitaciones	O
+.	O

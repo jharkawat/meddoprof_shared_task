@@ -1,0 +1,18 @@
+
+Ictus	O
+isquémico	O
+en	O
+el	O
+contexto	O
+de	O
+púrpura	O
+trombótica	O
+trombocitopénica	O
+asociada	O
+a	O
+lupus	O
+y	O
+tratamiento	O
+con	O
+hidroxicloroquina	O
+.	O

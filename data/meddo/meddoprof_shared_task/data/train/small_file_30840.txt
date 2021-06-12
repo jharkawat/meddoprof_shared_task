@@ -1,0 +1,18 @@
+
+Tratamiento	O
+actual	O
+:	O
+clozapina	O
+200	O
+mg	O
+y	O
+risperidona	O
+4	O
+mg	O
+,	O
+que	O
+se	O
+está	O
+retirando	O
+lentamente	O
+.	O

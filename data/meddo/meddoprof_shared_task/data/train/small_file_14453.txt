@@ -1,0 +1,10 @@
+
+Se	O
+deriva	O
+a	O
+Medicina	O
+Interna	O
+para	O
+completar	O
+estudio	O
+.	O

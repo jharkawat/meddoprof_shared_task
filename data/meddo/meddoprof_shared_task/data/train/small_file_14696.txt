@@ -1,0 +1,22 @@
+
+Durante	O
+ese	O
+mismo	O
+episodio	O
+también	O
+fue	O
+valorada	O
+por	O
+oftalmología	O
+por	O
+visión	O
+borrosa	O
+,	O
+objetivándose	O
+pre	O
+-	O
+trombosis	O
+en	O
+ojo	O
+izquierdo	O
+.	O

@@ -1,0 +1,7 @@
+
+Diabetes	O
+mellitus	O
+insulino	O
+-	O
+dependiente	O
+.	O

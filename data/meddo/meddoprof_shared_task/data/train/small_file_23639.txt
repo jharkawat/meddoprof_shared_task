@@ -1,0 +1,22 @@
+
+A	O
+los	O
+18	O
+años	O
+abandona	B-SITUACION_LABORAL
+los	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+y	O
+realiza	O
+un	O
+gesto	O
+autolítico	O
+que	O
+relacionan	O
+con	O
+la	O
+situación	O
+de	O
+fracaso	O
+escolar	O
+.	O

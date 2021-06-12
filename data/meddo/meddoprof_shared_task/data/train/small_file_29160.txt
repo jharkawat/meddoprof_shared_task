@@ -1,0 +1,25 @@
+
+Durante	O
+el	O
+ingreso	O
+,	O
+se	O
+optimiza	O
+la	O
+dosis	O
+del	O
+antipsicótico	O
+(	O
+olanzapina	O
+)	O
+y	O
+se	O
+añade	O
+clorpromacina	O
+en	O
+dosis	O
+nocturna	O
+con	O
+fines	O
+sedativos	O
+.	O

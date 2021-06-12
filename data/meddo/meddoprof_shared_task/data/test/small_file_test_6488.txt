@@ -1,0 +1,26 @@
+
+En	O
+el	O
+hemograma	O
+se	O
+observó	O
+una	O
+discreta	O
+anemia	O
+crónica	O
+microcítica	O
+-	O
+hipocrómica	O
+ya	O
+conocida	O
+,	O
+con	O
+serie	O
+blanca	O
+y	O
+plaquetas	O
+sin	O
+alteraciones	O
+de	O
+interés	O
+.	O

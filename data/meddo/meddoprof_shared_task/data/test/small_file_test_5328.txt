@@ -1,0 +1,9 @@
+
+Orofaringe	O
+:	O
+no	O
+presenta	O
+muguet	O
+ni	O
+hiperemia	O
+.	O

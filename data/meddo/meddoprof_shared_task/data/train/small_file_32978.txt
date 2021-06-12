@@ -1,0 +1,14 @@
+
+Cuatro	O
+meses	O
+después	O
+inició	O
+un	O
+trastorno	O
+de	O
+la	O
+marcha	O
+que	O
+empeoró	O
+progresivamente	O
+.	O

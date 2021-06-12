@@ -1,0 +1,7 @@
+
+La	O
+ecografía	O
+abdominal	O
+es	O
+normal	O
+.	O

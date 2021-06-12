@@ -1,0 +1,11 @@
+
+En	O
+adultos	O
+jóvenes	O
+le	O
+sigue	O
+en	O
+frecuencia	O
+Neisseria	O
+meningitidis	O
+.	O

@@ -1,0 +1,67 @@
+T1	SINTOMA 773 793	dolor en hipocondrio
+T2	SINTOMA 915 943	hipoventilación en hemitórax
+T3	SINTOMA 2616 2625	ictericia
+T4	SINTOMA 2627 2634	coluria
+T5	SINTOMA 2636 2642	acolia
+T6	SINTOMA 2645 2673	aumento de las transaminasas
+T7	SINTOMA 3544 3557	fallecimiento
+T8	PROCEDIMIENTO 177 205	apendicectomía y fisura anal
+T9	PROCEDIMIENTO 329 350	neumonectomía derecha
+T10	PROCEDIMIENTO 430 469	extirpación del lóbulo caudado hepático
+T11	PROCEDIMIENTO 614 629	radiofrecuencia
+T12	PROCEDIMIENTO 826 844	Exploración física
+T13	PROCEDIMIENTO 877 895	exploración física
+T14	PROCEDIMIENTO 1093 1104	TC de tórax
+T15	PROCEDIMIENTO 1107 1119	RMN hepática
+T16	PROCEDIMIENTO 1126 1137	TC de tórax
+T17	PROCEDIMIENTO 1149 1170	neumonectomía derecha
+T18	PROCEDIMIENTO 1197 1209	RMN hepática
+T19	PROCEDIMIENTO 1612 1638	quimioembolización con CPT
+T20	PROCEDIMIENTO 1903 1905	TC
+T21	PROCEDIMIENTO 2335 2354	determinación c-kit
+T22	PROCEDIMIENTO 2755 2774	ecografía abdominal
+T23	PROCEDIMIENTO 3105 3132	pruebas de función hepática
+T24	NEG 37 40	sin
+T25	NSCO 41 74	alergias medicamentosas conocidas
+T26	NEG 99 102	Sin
+T27	NSCO 103 160	factores de riesgo cardiovascular ni tratamiento habitual
+T28	NEG 352 355	sin
+T29	NSCO 356 377	tratamiento posterior
+T30	NEG 959 962	sin
+T31	NSCO 963 975	alteraciones
+T32	NEG 1171 1174	sin
+T33	NSCO 1175 1190	nuevas lesiones
+T34	NEG 2367 2375	negativa
+T35	NEG 2811 2814	sin
+T36	NSCO 2815 2842	datos de obstrucción biliar
+T37	FARMACO 1789 1799	cisplatino
+T38	FARMACO 1802 1813	vinorelbina
+T39	FARMACO 2054 2065	adriamicina
+T40	FARMACO 2068 2082	ciclofosfamida
+T41	FARMACO 2296 2304	imatinib
+T42	FARMACO 2420 2430	cisplatino
+T43	FARMACO 2941 2953	carboplatino
+T44	FARMACO 2956 2967	vinorelbina
+T45	FARMACO 3326 3338	carboplatino
+T46	FARMACO 3341 3352	vinorelbina
+T47	ORG_VIVO 10 24	Paciente varón
+T48	ORG_VIVO 76 84	Jubilado
+T49	ORG_VIVO 748 756	paciente
+T50	ORG_VIVO 845 853	Paciente
+T51	ORG_VIVO 2596 2604	paciente
+T52	ORG_VIVO 2884 2892	paciente
+T53	ORG_VIVO 3044 3052	paciente
+T54	ENFERMEDAD 41 64	alergias medicamentosas
+T55	ENFERMEDAD 194 205	fisura anal
+T56	ENFERMEDAD 258 294	carcinoma adenoide quístico pulmonar
+T57	ENFERMEDAD 474 524	metástasis de carcinoma adenoide quístico pulmonar
+T58	ENFERMEDAD 562 582	metástasis hepáticas
+T59	ENFERMEDAD 725 743	lesiones hepáticas
+T60	ENFERMEDAD 1383 1403	Metástasis hepáticas
+T61	ENFERMEDAD 1407 1444	carcinoma adenoide quístico de pulmón
+T62	ENFERMEDAD 1724 1752	progresión hepática múltiple
+T63	ENFERMEDAD 1948 1966	lesiones hepáticas
+T64	ENFERMEDAD 2791 2810	progresión hepática
+T65	ENFERMEDAD 2824 2842	obstrucción biliar
+T66	ENFERMEDAD 3453 3472	progresión hepática
+T67	PACIENTE-SITUACION_LABORAL 76 84	Jubilado

@@ -1,0 +1,13 @@
+
+Endocarditis	O
+infecciosa	O
+sobre	O
+comunicación	O
+interventricular	O
+por	O
+Abiotrophia	O
+defectiva	O
+con	O
+embolismos	O
+pulmonares	O
+sépticos	O

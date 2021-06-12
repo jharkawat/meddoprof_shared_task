@@ -1,0 +1,21 @@
+
+Su	O
+madre	O
+fue	O
+operada	O
+de	O
+Edema	O
+de	O
+Reinke	O
+y	O
+su	O
+hermana	O
+pequeña	O
+ha	O
+sido	O
+operada	O
+recientemente	O
+de	O
+nódulos	O
+laríngeos	O
+.	O

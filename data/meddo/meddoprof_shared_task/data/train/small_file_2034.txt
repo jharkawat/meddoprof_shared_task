@@ -1,0 +1,26 @@
+
+Los	O
+resultados	O
+de	O
+la	O
+gabapentina	O
+,	O
+en	O
+términos	O
+de	O
+alivio	O
+del	O
+dolor	O
+fueron	O
+conflictivos	O
+,	O
+pero	O
+combinando	O
+los	O
+resultados	O
+mostraban	O
+una	O
+tendencia	O
+al	O
+beneficio	O
+.	O

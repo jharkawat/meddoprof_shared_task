@@ -1,0 +1,56 @@
+Historia clínica realizada en urgencias
+
+Motivo de consulta
+Paciente desconectada de su entorno en las últimas 24 horas.
+
+Antecedentes personales
+
+Médicos.
+- No reacciones alérgicas a medicamentos, quistectomía ovárica. Episodio de "convulsión" hace 15 años descrito como unos temblores generalizados de breve duración y desconexión hace siete años que describe como "bloqueo similar al de hoy".
+
+Psiquiátricos.
+-Síndrome ansioso depresivo hace 8 años con crisis de ansiedad nocturnas. Tratamiento actual con Bromazepam 1,5 mg (0-0-1,5).
+
+Filiación.
+- Mujer de 45 años, divorciada hace un año y medio, tiene dos hijos (varón de 17 años y niña de 12 años). Vive sola con sus hijos, Trabaja de auxiliar de geriatría.
+
+Enfermedad actual
+En las últimas 2-3 semanas la paciente presenta episodios de desconexión que son más frecuentes en los últimos días. Durante las últimas 24 horas la paciente se encuentra continuamente desconectada con lentitud generalizada y mutismo.
+
+Exploración física
+Sin hallazgos significativos en la exploración física general.
+
+Exploración neurológica: Consciente y orientada en espacio y persona, desorientada en el tiempo. Pupilas isocóricas y normorreactivas, con mirada perdida sin movimientos anómalos, pares craneales sin alteraciones, fuerza 5/5 en 4 extremidades, ROTs 2/3 simétricos, reflejo cutáneo-plantar flexor, sensibilidad normal. Pruebas cerebelosas normales. Romberg y marcha sin alteraciones. Bradipsíquica, con bradilalia, lenguaje entrecortado y con lentitud en las respuestas, obedece órdenes sencillas. No se han presenciado movimientos convulsivos en ninguna ocasión.
+
+Juicio diagnóstico
+No se objetiva focalidad neurológica. Probable cuadro conversivo o estado disociativo, pasa a valoración por psiquiatría.
+
+
+
+Valoración en urgencias de psiquiatría
+Enfermedad actual
+(se reinterroga a la madre de la paciente): Según la madre, hace 15 años, la tarde anterior al episodio de temblores, "estuvo idéntica a hoy", refiriéndose a la clínica de desconexión y bloqueo mental. Los familiares han notado empeoramiento del estado de ánimo en el último año, congruente con su separación matrimonial y sus consecuencias sociales y económicas.
+
+Exploración psicopatológica
+Consciente, desorientada en el tiempo. Mutista, mirada perpleja, la entrevista es imposible de realizar, es incapaz de responder a las preguntas básicas existiendo latencia en sus respuestas a lo largo de sus frases, también tiene bloqueo del lenguaje: A la pregunta "¿cuántos hijos tiene?" responde "dos", y a la pregunta "¿cuántos años tienen sus hijos?", también responde "dos".
+
+Juicio diagnóstico
+Se planteó el siguiente diagnóstico diferencial entre crisis parcial compleja (EENC), cuadro disociativo/conversivo, episodio psicótico agudo y episodio depresivo con síntomas psicóticos.
+Como primera opción diagnóstica ante la sospecha clínica de EENC, se consideró necesario realizar EEG y completar el estudio orgánico con pruebas analíticas y de neuro-imagen, aunque la presentación clínica también orientaba a un cuadro disociativo o psicótico.
+
+Decisión conjunta Neurología y Psiquiatría
+Se decidió el ingreso en el servicio de observación de urgencias conjuntamente por parte de medicina interna y psiquiatría para completar el estudio y ver la evolución clínica. Paradójicamente al ingreso el juicio diagnóstico de medicina interna es probable cuadro disociativo/conversivo, y el de psiquiatría es probable estatus epiléptico no convulsivo.
+Se realizó una TC sin contraste de urgencia que fue informada como normal.
+Durante el registro EEG, la paciente está consciente, pero confusa, respondiendo ocasionalmente de forma incoherente. Finalmente el EEG es informado como: Estudio EEG muy patológico compatible con estatus eléctrico no convulsivo. Descargas de punta-onda entre 2-3 Hz y hasta 5 segundos de duración separados por periodos de atenuación y desincronización del trazado de base, observándose en alguno de estos periodos actividad rítmica entre 5-6 Hz de baja amplitud.
+Dado el diagnóstico EEG se procedió al ingreso de la paciente en la planta de neurología. 
+
+Ingreso en Neurología
+
+Juicio clínico:
+Estatus epiléptico no convulsivo.
+
+Tratamiento:
+Topiramato 100 mg/12h y Levetiracetam 1000 mg en bolo IV y después 1000 mg/12h IV, evolucionando las siguientes horas hacia una mejoría prácticamente completa y sin episodios clínicos ni de desconexión que sugieran crisis.
+Al día siguiente del ingreso se repite el EEG: Estudio patológico que muestra sobre una actividad cerebral dentro de límites normales, una actividad epileptiforme generalizada con posible inicio medio-temporal izquierdo de moderada persistencia.
+Una vez revisada la historia clínica completa y reinterrogada la paciente cuando ya ha remitido completamente el cuadro de EENC, se obtiene la siguiente información: Hace 8 años acude a psiquiatría por crisis de ansiedad nocturnas, 6 meses después es traída a urgencias por una pérdida de conciencia con movimientos tónico-clónicos en MMII, los dos días previos la paciente está ausente, aislada, mutista, no parece seguir las conversaciones. El EEG (Trastorno paroxístico muy activo de origen focal fronto-temporal derecho, con generalización muy frecuente), diagnostica de epilepsia del lóbulo temporal y trastorno ansioso depresivo y se trata con Bromazepam 1,5 (1-0-0) y Topiramato 150 (1-0-1). No ha tenido crisis en los últimos 7 años.
+En el episodio actual, las crisis de desconexión han sido más frecuentes a pesar del buen cumplimiento terapéutico. Un dato importante es que en estos últimos días, la paciente ha tomado antibiótico y expectorantes pautados por su Médico de Cabecera por cuadro de infección de vías respiratorias altas.La paciente es dada de alta después de 3 días de ingreso, con remisión completa de los síntomas y con tratamiento de Levetiracetam, 1000 mg (1-0-1) y Topiramato (100-0-150). En la revisión en consultas de neurología 3 meses después, la paciente está eutímica y continúa sin crisis. En el EEG no se observa actividad epileptiforme.

@@ -1,0 +1,8 @@
+
+-	O
+Uveítis	O
+intermedia	O
+de	O
+ojo	O
+derecho	O
+.	O

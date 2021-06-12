@@ -1,0 +1,27 @@
+
+Pene	O
+flácido	O
+,	O
+pero	O
+ascendido	O
+(	O
+simulando	O
+semierección	O
+)	O
+,	O
+mantenido	O
+por	O
+el	O
+cuerpo	O
+extraño	O
+intrauretral	O
+que	O
+no	O
+se	O
+puede	O
+ver	O
+a	O
+través	O
+del	O
+meato	O
+.	O

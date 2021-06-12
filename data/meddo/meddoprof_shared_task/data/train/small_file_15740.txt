@@ -1,0 +1,10 @@
+
+La	O
+biopsia	O
+fue	O
+negativa	O
+para	O
+toxoplasmosis	O
+y	O
+tumor	O
+.	O

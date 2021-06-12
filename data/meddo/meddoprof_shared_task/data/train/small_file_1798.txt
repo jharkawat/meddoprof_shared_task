@@ -1,0 +1,16 @@
+
+Con	O
+estos	O
+hallazgos	O
+se	O
+realizó	O
+broncoscopia	O
+sin	O
+apreciar	O
+alteraciones	O
+ni	O
+lesiones	O
+de	O
+la	O
+mucosa	O
+.	O

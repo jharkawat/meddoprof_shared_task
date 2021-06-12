@@ -1,0 +1,22 @@
+
+La	O
+positividad	O
+de	O
+las	O
+células	O
+tumorales	O
+frente	O
+a	O
+la	O
+vimentina	O
+,	O
+con	O
+citoqueratinas	O
+negativas	O
+orienta	O
+a	O
+un	O
+sarcoma	O
+o	O
+Melanoma	O
+.	O

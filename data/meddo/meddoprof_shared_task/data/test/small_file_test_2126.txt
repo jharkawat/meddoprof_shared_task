@@ -1,0 +1,27 @@
+
+Ante	O
+estos	O
+nuevos	O
+hallazgos	O
+analíticos	O
+(	O
+anti	O
+-	O
+YO	O
+positivo	O
+)	O
+y	O
+descartando	O
+otras	O
+causas	O
+,	O
+se	O
+diagnostica	O
+de	O
+síndrome	O
+paraneoplásico	O
+neurológico	O
+tipo	O
+degeneración	O
+cerebelosa	O
+.	O

@@ -1,0 +1,19 @@
+
+Se	O
+aprecian	O
+numerosas	O
+adenopatías	O
+mediastínicas	O
+de	O
+diferente	O
+localización	O
+,	O
+y	O
+nódulos	O
+pulmonares	O
+bilaterales	O
+subcentimétricos	O
+compatibles	O
+con	O
+metástasis	O
+.	O

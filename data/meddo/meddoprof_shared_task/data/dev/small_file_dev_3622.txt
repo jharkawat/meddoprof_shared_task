@@ -1,0 +1,19 @@
+
+A	O
+la	O
+exploración	O
+se	O
+muestra	O
+lábil	O
+,	O
+con	O
+afecto	O
+incongruente	O
+con	O
+risas	O
+inmotivadas	O
+,	O
+suspicaz	O
+en	O
+ocasiones	O
+.	O

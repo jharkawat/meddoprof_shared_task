@@ -1,0 +1,10 @@
+
+Exploración	O
+neurológica	O
+,	O
+cardiaca	O
+y	O
+respiratoria	O
+sin	O
+hallazgos	O
+.	O

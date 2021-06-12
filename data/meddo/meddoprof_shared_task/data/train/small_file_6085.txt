@@ -1,0 +1,15 @@
+
+Analítica	O
+:	O
+FR	O
+negativo	O
+,	O
+HLA27B	O
+negativo	O
+,	O
+PCR	O
+20	O
+mg	O
+/	O
+dl	O
+.	O

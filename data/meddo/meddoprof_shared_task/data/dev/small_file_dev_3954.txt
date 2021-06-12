@@ -1,0 +1,20 @@
+
+Eva	O
+fue	O
+con	O
+una	O
+nueva	O
+familia	O
+de	O
+acogida	O
+,	O
+y	O
+pasaba	O
+los	O
+fines	O
+de	O
+semana	O
+con	O
+su	O
+padre	O
+.	O

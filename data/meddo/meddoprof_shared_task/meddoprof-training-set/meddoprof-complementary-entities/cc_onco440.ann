@@ -1,0 +1,115 @@
+T1	SINTOMA 411 418	coluria
+T2	SINTOMA 421 427	acolia
+T3	SINTOMA 458 499	alteración de pruebas de función hepática
+T4	SINTOMA 510 553	elevación de las cifras de amilasa y lipasa
+T5	SINTOMA 1511 1535	Ictericia cutáneo-mucosa
+T6	SINTOMA 1556 1577	ictericia conjuntival
+T7	SINTOMA 1687 1712	ruidos cardiacos rítmicos
+T8	SINTOMA 1892 1900	flebitis
+T9	SINTOMA 1904 1910	edemas
+T10	PROCEDIMIENTO 566 584	TC toracoabdominal
+T11	PROCEDIMIENTO 840 847	biopsia
+T12	PROCEDIMIENTO 1109 1135	gammagrafía con octreótido
+T13	PROCEDIMIENTO 1408 1426	Exploración física
+T14	PROCEDIMIENTO 1652 1657	Tórax
+T15	PROCEDIMIENTO 1939 1948	Hemograma
+T16	PROCEDIMIENTO 2038 2062	TC toracoabdominopélvica
+T17	PROCEDIMIENTO 2294 2320	Gammagrafía con octreótido
+T18	PROCEDIMIENTO 2732 2734	TC
+T19	PROCEDIMIENTO 2926 2952	colocación de una prótesis
+T20	PROCEDIMIENTO 3180 3198	rebiopsia hepática
+T21	PROCEDIMIENTO 3323 3325	TC
+T22	PROCEDIMIENTO 3516 3529	quimioterapia
+T23	PROCEDIMIENTO 3698 3700	TC
+T24	PROCEDIMIENTO 3834 3836	TC
+T25	PROCEDIMIENTO 4003 4016	quimioterapia
+T26	PROCEDIMIENTO 4207 4209	TC
+T27	PROCEDIMIENTO 4628 4665	radiofrecuencia de la lesión hepática
+T28	PROCEDIMIENTO 4709 4751	TC de 22/02/2016 en el segmento 7 hepático
+T29	PROCEDIMIENTO 5179 5181	TC
+T30	NEG 52 55	sin
+T31	NSCO 56 74	alergias conocidas
+T32	NEG 76 78	No
+T33	NSCO 79 119	presenta antecedentes médicos de interés
+T34	NEG 121 124	Sin
+T35	NSCO 125 140	hábitos tóxicos
+T36	NEG 873 875	no
+T37	NSCO 876 911	se obtuvo tinción con citoqueratina
+T38	NEG 1058 1061	sin
+T39	NSCO 1062 1096	poder determinar el índice de Ki67
+T40	NEG 1604 1606	no
+T41	NSCO 1607 1648	se palpan adenopatías en rango patológico
+T42	NEG 1665 1668	sin
+T43	NSCO 1669 1676	nódulos
+T44	NEG 1773 1775	no
+T45	NSCO 1776 1791	se palpan masas
+T46	NEG 1879 1882	sin
+T47	NSCO 1883 1910	varices, flebitis ni edemas
+T48	NEG 2452 2463	desconocido
+T49	NEG 2997 3008	ausencia de
+T50	NSCO 3009 3041	respuesta al tratamiento pautado
+T51	UNC 3043 3054	se sospecha
+T52	USCO 3055 3058	que
+T53	UNC 3059 3065	podría
+T54	USCO 3066 3101	tratarse de un pan-TNE más agresivo
+T55	NEG 3393 3395	no
+T56	NSCO 3396 3426	cambios las lesiones hepáticas
+T57	NEG 3640 3652	se suspendió
+T58	NSCO 3653 3679	por toxicidad hematológica
+T59	NEG 4683 4686	sin
+T60	NSCO 4687 4701	complicaciones
+T61	NEG 4928 4940	se suspendió
+T62	NSCO 4941 4956	la temozolamida
+T63	UNC 5293 5307	compatible con
+T64	USCO 5308 5311	pan
+T65	NEG 5350 5353	sin
+T66	NSCO 5354 5361	cambios
+T67	NEG 5449 5452	sin
+T68	NSCO 5453 5536	visualizarse las metástasis hepáticas múltiples subcentimétricas ni las adenopatías
+T69	FARMACO 2571 2595	análogo de somatostatina
+T70	FARMACO 3261 3271	everolimus
+T71	FARMACO 3534 3546	carboplatino
+T72	FARMACO 3561 3570	etopósido
+T73	FARMACO 3627 3639	carboplatino
+T74	FARMACO 4030 4042	capecitabina
+T75	FARMACO 4068 4080	temozolamida
+T76	FARMACO 4913 4925	capecitabina
+T77	FARMACO 4944 4956	temozolamida
+T78	FARMACO 5116 5128	capecitabina
+T79	ORG_VIVO 24 34	personales
+T80	ORG_VIVO 35 40	Mujer
+T81	ORG_VIVO 155 164	enfermera
+T82	ORG_VIVO 179 189	familiares
+T83	ORG_VIVO 191 205	abuela materna
+T84	ORG_VIVO 250 261	Tía paterna
+T85	ORG_VIVO 295 306	Tía paterna
+T86	ORG_VIVO 378 386	paciente
+T87	ENFERMEDAD 219 234	cáncer gástrico
+T88	ENFERMEDAD 265 279	cáncer de mama
+T89	ENFERMEDAD 310 318	leucemia
+T90	ENFERMEDAD 733 744	adenopatías
+T91	ENFERMEDAD 1204 1218	tumor primario
+T92	ENFERMEDAD 1225 1235	metástasis
+T93	ENFERMEDAD 1617 1628	adenopatías
+T94	ENFERMEDAD 1892 1900	flebitis
+T95	ENFERMEDAD 2130 2145	cáncer primario
+T96	ENFERMEDAD 2212 2223	adenopatías
+T97	ENFERMEDAD 2384 2398	tumor primario
+T98	ENFERMEDAD 2405 2415	metástasis
+T99	ENFERMEDAD 2511 2546	metástasis hepáticas y ganglionares
+T100	ENFERMEDAD 2782 2840	progresión a nivel pancreático, hepático y retroperitoneal
+T101	ENFERMEDAD 2856 2909	ictericia obstructiva por compresión de la vía biliar
+T102	ENFERMEDAD 2977 2987	colangitis
+T103	ENFERMEDAD 3408 3426	lesiones hepáticas
+T104	ENFERMEDAD 3657 3679	toxicidad hematológica
+T105	ENFERMEDAD 3867 3904	ganglios retroperitoneales y pélvicos
+T106	ENFERMEDAD 4308 4331	tumores neuroendocrinos
+T107	ENFERMEDAD 4515 4530	lesión hepática
+T108	ENFERMEDAD 4650 4665	lesión hepática
+T109	ENFERMEDAD 4819 4829	metástasis
+T110	ENFERMEDAD 4867 4877	metástasis
+T111	ENFERMEDAD 5241 5283	lesión hipervascular en cabeza pancreática
+T112	ENFERMEDAD 5470 5490	metástasis hepáticas
+T113	ENFERMEDAD 5525 5536	adenopatías
+T114	ENFERMEDAD 5632 5647	TNE metastásico
+T115	PACIENTE-PROFESION 155 164	enfermera

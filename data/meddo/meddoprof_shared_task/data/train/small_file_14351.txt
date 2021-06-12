@@ -1,0 +1,17 @@
+
+Se	O
+realizó	O
+interconsulta	O
+a	O
+Oftalmología	O
+que	O
+descartó	O
+posibilidad	O
+de	O
+retinopatía	O
+o	O
+uveítis	O
+anterior	O
+o	O
+posterior	O
+.	O

@@ -1,0 +1,7 @@
+
+ECA	O
+17	O
+U	O
+/	O
+L	O
+.	O

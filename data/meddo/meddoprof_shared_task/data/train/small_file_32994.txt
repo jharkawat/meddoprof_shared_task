@@ -1,0 +1,5 @@
+
+Electrocardioagrama	O
+sin	O
+alteraciones	O
+.	O

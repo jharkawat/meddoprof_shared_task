@@ -1,0 +1,24 @@
+
+Nuestra	O
+paciente	O
+,	O
+refería	O
+episodios	O
+de	O
+prurito	O
+ocasionales	O
+y	O
+presenta	O
+en	O
+la	O
+analítica	O
+una	O
+elevación	O
+de	O
+la	O
+beta	O
+-	O
+2	O
+-	O
+microglobulina	O
+.	O

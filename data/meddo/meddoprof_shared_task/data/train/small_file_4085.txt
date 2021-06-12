@@ -1,0 +1,6 @@
+
+No	O
+existe	O
+derrame	O
+pleural	O
+.	O

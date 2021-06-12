@@ -1,0 +1,150 @@
+T1	SINTOMA 159 172	irritabilidad
+T2	SINTOMA 517 527	embarazada
+T3	SINTOMA 2018 2027	irritable
+T4	SINTOMA 2088 2101	facies triste
+T5	SINTOMA 2651 2666	ánimo depresivo
+T6	SINTOMA 2668 2681	facies triste
+T7	SINTOMA 2702 2708	llanto
+T8	SINTOMA 4730 4737	apático
+T9	SINTOMA 5227 5242	ánimo deprimido
+T10	PROCEDIMIENTO 927 941	antibioterapia
+T11	PROCEDIMIENTO 960 985	fisioterapia respiratoria
+T12	PROCEDIMIENTO 1693 1717	tratamiento psiquiátrico
+T13	PROCEDIMIENTO 3148 3173	fisioterapia respiratoria
+T14	PROCEDIMIENTO 3617 3640	drenaje de los pulmones
+T15	PROCEDIMIENTO 3811 3827	drenaje del oído
+T16	NEG 174 176	No
+T17	NSCO 177 200	se centra para estudiar
+T18	NEG 202 210	suspende
+T19	UNC 221 227	parece
+T20	USCO 228 241	no importarle
+T21	UNC 415 421	parece
+T22	USCO 422 446	que existen celos mutuos
+T23	NEG 483 485	no
+T24	NSCO 486 506	deseado por la madre
+T25	NEG 1146 1148	No
+T26	NSCO 1149 1170	acude a las consultas
+T27	NEG 1219 1227	se niega
+T28	NSCO 1228 1251	a entrar en el despacho
+T29	NEG 1433 1435	no
+T30	NSCO 1436 1468	se ha ocupado nunca de los hijos
+T31	NEG 1513 1515	no
+T32	NSCO 1516 1550	se atreve a plantear la separación
+T33	UNC 1566 1573	posible
+T34	USCO 1574 1602	reacción violenta del esposo
+T35	NEG 2048 2050	no
+T36	NSCO 2051 2086	tiene motivación o interés por nada
+T37	NEG 2281 2283	no
+T38	NSCO 2284 2294	esforzarse
+T39	NEG 2300 2302	no
+T40	NSCO 2303 2329	entiendo nada" y abandonar
+T41	NEG 2413 2415	no
+T42	NSCO 2416 2424	trabajar
+T43	NEG 2475 2477	no
+T44	NSCO 2478 2501	asume responsabilidades
+T45	NEG 2811 2813	no
+T46	NSCO 2814 2832	se centra en clase
+T47	NEG 2854 2856	no
+T48	NSCO 2857 2891	entiende los contenidos académicos
+T49	NEG 3113 3118	niega
+T50	NSCO 3119 3182	a realizar los ejercicios de fisioterapia respiratoria pautados
+T51	NEG 3245 3247	no
+T52	NSCO 3248 3280	va a poder hacer nada en la vida
+T53	NEG 3286 3288	no
+T54	NSCO 3289 3323	merece la pena esforzarse por nada
+T55	NEG 3331 3333	no
+T56	NSCO 3334 3377	va a poder trabajar o tener una vida normal
+T57	NEG 3481 3483	no
+T58	NSCO 3484 3513	se ha casado ni tiene trabajo
+T59	NEG 3646 3653	tampoco
+T60	NEG 3909 3911	no
+T61	NSCO 3912 3938	le ponen normas ni límites
+T62	NEG 3975 3977	no
+T63	NSCO 3978 4005	recibe la atención afectiva
+T64	NEG 4267 4269	no
+T65	NSCO 4270 4305	hacer las tareas escolares propicia
+T66	NEG 4448 4450	no
+T67	NSCO 4451 4486	me voy a pasar la tarde estudiando"
+T68	NEG 4496 4498	no
+T69	NSCO 4499 4524	realiza ninguna actividad
+T70	NEG 4526 4528	no
+T71	NSCO 4529 4559	ayuda con las tareas del hogar
+T72	NEG 4562 4569	tampoco
+T73	NSCO 4570 4612	se ocupa de su autocuidado o aseo personal
+T74	NEG 4614 4616	No
+T75	NSCO 4617 4629	tiene amigos
+T76	NEG 4739 4741	no
+T77	NSCO 4742 4767	da información de entrada
+T78	NEG 4769 4771	no
+T79	NSCO 4772 4831	sabe el motivo de la consulta ni cree que le podamos ayudar
+T80	NEG 5031 5033	No
+T81	NSCO 5034 5061	presenta signos de ansiedad
+T82	NEG 5063 5068	Niega
+T83	NSCO 5069 5087	ideación de muerte
+T84	NEG 5126 5128	No
+T85	NSCO 5129 5170	se aprecian alteraciones sensoperceptivas
+T86	ORG_VIVO 23 31	paciente
+T87	ORG_VIVO 287 297	compañeros
+T88	ORG_VIVO 311 333	miembros de la familia
+T89	ORG_VIVO 376 383	hermana
+T90	ORG_VIVO 462 472	personales
+T91	ORG_VIVO 501 506	madre
+T92	ORG_VIVO 547 554	paterna
+T93	ORG_VIVO 1068 1078	familiares
+T94	ORG_VIVO 1083 1088	padre
+T95	ORG_VIVO 1194 1199	madre
+T96	ORG_VIVO 1205 1213	paciente
+T97	ORG_VIVO 1332 1337	chico
+T98	ORG_VIVO 1406 1410	hijo
+T99	ORG_VIVO 1415 1420	madre
+T100	ORG_VIVO 1463 1468	hijos
+T101	ORG_VIVO 1596 1602	esposo
+T102	ORG_VIVO 1607 1612	madre
+T103	ORG_VIVO 1681 1688	familia
+T104	ORG_VIVO 1781 1788	Hermano
+T105	ORG_VIVO 1795 1800	madre
+T106	ORG_VIVO 1878 1885	hermano
+T107	ORG_VIVO 1892 1897	madre
+T108	ORG_VIVO 1929 1936	hermana
+T109	ORG_VIVO 1941 1946	padre
+T110	ORG_VIVO 1998 2006	paciente
+T111	ORG_VIVO 2628 2638	compañeros
+T112	ORG_VIVO 2725 2732	familia
+T113	ORG_VIVO 3430 3433	tío
+T114	ORG_VIVO 3754 3764	compañeros
+T115	ORG_VIVO 3872 3880	familiar
+T116	ORG_VIVO 4020 4025	Padre
+T117	ORG_VIVO 4035 4040	madre
+T118	ORG_VIVO 4098 4105	abuelos
+T119	ORG_VIVO 4117 4125	enfermos
+T120	ORG_VIVO 4129 4136	hermana
+T121	ORG_VIVO 4166 4174	paciente
+T122	ORG_VIVO 4229 4239	profesores
+T123	ORG_VIVO 4314 4324	profesores
+T124	ORG_VIVO 4604 4612	personal
+T125	ORG_VIVO 4623 4629	amigos
+T126	ENFERMEDAD 474 482	Embarazo
+T127	ENFERMEDAD 601 623	Síndrome de Kartagener
+T128	ENFERMEDAD 628 648	situs inversus total
+T129	ENFERMEDAD 848 857	dislalias
+T130	ENFERMEDAD 870 895	infecciones respiratorias
+T131	ENFERMEDAD 1108 1124	abuso de alcohol
+T132	ENFERMEDAD 1486 1506	maltrato psicológico
+T133	ENFERMEDAD 1722 1730	ansiedad
+T134	ENFERMEDAD 1733 1742	depresión
+T135	ENFERMEDAD 1818 1840	Síndrome de Kartagener
+T136	ENFERMEDAD 2683 2691	ansiedad
+T137	ENFERMEDAD 2947 2972	infecciones respiratorias
+T138	ENFERMEDAD 3056 3067	infecciones
+T139	ENFERMEDAD 3849 3855	otitis
+T140	ENFERMEDAD 5053 5061	ansiedad
+T141	ENFERMEDAD 5081 5087	muerte
+T142	ENFERMEDAD 5272 5296	patología física crónica
+T143	OTROS-SITUACION_LABORAL 287 297	compañeros
+T144	OTROS-SITUACION_LABORAL 2628 2638	compañeros
+T145	OTROS-SITUACION_LABORAL 3754 3773	compañeros de clase
+T146	FAMILIAR-SITUACION_LABORAL 1132 1143	desempleado
+T147	OTROS-PROFESION 4229 4239	profesores
+T148	OTROS-PROFESION 4314 4324	profesores
+T149	FAMILIAR-PROFESION 1613 1642	trabaja en ayuda domiciliaria
+T150	FAMILIAR-SITUACION_LABORAL 3497 3513	ni tiene trabajo

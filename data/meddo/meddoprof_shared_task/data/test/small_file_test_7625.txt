@@ -1,0 +1,6 @@
+
+HER	O
+-	O
+2	O
+negativo	O
+.	O

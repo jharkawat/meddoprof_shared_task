@@ -1,0 +1,12 @@
+
+Nunca	O
+ha	O
+sido	O
+capaz	O
+de	O
+poner	O
+límites	O
+ni	O
+de	O
+exigir	O
+.	O

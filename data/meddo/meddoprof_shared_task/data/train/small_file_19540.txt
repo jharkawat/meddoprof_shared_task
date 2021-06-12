@@ -1,0 +1,20 @@
+
+El	O
+padre	O
+termino	O
+sus	O
+estudios	O
+de	O
+secundaria	O
+y	O
+era	O
+bombero	B-PROFESION
+en	O
+Fuenlabrada	O
+,	O
+quien	O
+mantenía	O
+a	O
+la	O
+familia	O
+.	O

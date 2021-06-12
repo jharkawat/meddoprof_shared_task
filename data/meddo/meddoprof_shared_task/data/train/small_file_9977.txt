@@ -1,0 +1,20 @@
+
+El	O
+paciente	O
+se	O
+mantuvo	O
+afebril	O
+durante	O
+el	O
+ingreso	O
+y	O
+con	O
+mejoría	O
+clínica	O
+progresiva	O
+,	O
+presentando	O
+descamación	O
+cutánea	O
+generalizada	O
+.	O

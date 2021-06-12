@@ -1,0 +1,18 @@
+
+Refería	O
+antecedentes	O
+familiares	O
+de	O
+cefalea	O
+no	O
+especificada	O
+,	O
+y	O
+presentaba	O
+desde	O
+la	O
+adolescencia	O
+migraña	O
+sin	O
+aura	O
+.	O

@@ -1,0 +1,5 @@
+
+Eje	O
+QRS	O
+0o	O
+.	O

@@ -1,0 +1,16 @@
+
+La	O
+muestra	O
+fue	O
+negativa	O
+para	O
+cromogranina	O
+,	O
+napsina	O
+-	O
+A	O
+y	O
+P	O
+-	O
+40	O
+.	O

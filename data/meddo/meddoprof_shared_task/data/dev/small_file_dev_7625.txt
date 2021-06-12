@@ -1,0 +1,18 @@
+
+Ha	O
+sido	O
+remitida	O
+a	O
+consultas	O
+de	O
+trasplante	O
+hepático	O
+siendo	O
+por	O
+el	O
+momento	O
+desestimada	O
+para	O
+dicho	O
+tratamiento	O
+.	O

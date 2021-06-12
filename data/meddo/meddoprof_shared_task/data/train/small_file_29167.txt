@@ -1,0 +1,23 @@
+
+A	O
+su	O
+vez	O
+,	O
+el	O
+paciente	O
+se	O
+mantiene	O
+en	O
+un	O
+índice	O
+de	O
+masa	O
+corporal	O
+en	O
+torno	O
+a	O
+20	O
+con	O
+mínimas	O
+variaciones	O
+.	O

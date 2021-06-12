@@ -1,0 +1,12 @@
+
+Serología	O
+negativa	O
+para	O
+VIH	O
+,	O
+VHB	O
+,	O
+VHC	O
+y	O
+lúes	O
+.	O

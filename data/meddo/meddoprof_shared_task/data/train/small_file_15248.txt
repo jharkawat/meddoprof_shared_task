@@ -1,0 +1,14 @@
+
+Ante	O
+el	O
+empeoramiento	O
+progresivo	O
+,	O
+consulta	O
+en	O
+nuestro	O
+hospital	O
+y	O
+se	O
+ingresa	O
+.	O

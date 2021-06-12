@@ -1,0 +1,11 @@
+
+Entre	O
+sus	O
+antecedentes	O
+destacaba	O
+el	O
+haber	O
+trabajado	O
+como	O
+platero	B-PROFESION
+.	O

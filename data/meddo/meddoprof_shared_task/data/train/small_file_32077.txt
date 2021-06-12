@@ -1,0 +1,15 @@
+
+Se	O
+plantea	O
+y	O
+se	O
+procede	O
+al	O
+ingreso	O
+para	O
+estudio	O
+de	O
+la	O
+sintomatología	O
+psicótica	O
+.	O

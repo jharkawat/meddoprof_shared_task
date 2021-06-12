@@ -1,0 +1,20 @@
+
+Ante	O
+la	O
+sospecha	O
+de	O
+una	O
+alteración	O
+oftalmológica	O
+,	O
+es	O
+derivada	O
+al	O
+oftalmólogo	B-PROFESION
+por	O
+su	O
+médico	B-PROFESION
+de	I-PROFESION
+Atención	I-PROFESION
+Primaria	I-PROFESION
+.	O

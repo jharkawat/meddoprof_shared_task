@@ -1,0 +1,19 @@
+
+Como	O
+toxicidades	O
+menores	O
+grado	O
+1	O
+:	O
+fatiga	O
+,	O
+hemoptisis	O
+,	O
+rash	O
+cutáneo	O
+y	O
+síndrome	O
+mano	O
+-	O
+pie	O
+.	O

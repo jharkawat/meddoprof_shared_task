@@ -1,0 +1,21 @@
+
+Varios	O
+ingresos	O
+en	O
+nuestra	O
+USMH	O
+(	O
+hasta	O
+12	O
+)	O
+,	O
+por	O
+sendos	O
+episodios	O
+maniacos	O
+mediatizados	O
+por	O
+consumo	O
+de	O
+alcohol	O
+.	O

@@ -1,0 +1,20 @@
+
+Habla	O
+de	O
+una	O
+clara	O
+estructuración	O
+de	O
+la	O
+idea	O
+autolítica	O
+y	O
+sería	O
+pues	O
+una	O
+conducta	O
+suicida	O
+de	O
+origen	O
+psicótico	O
+.	O

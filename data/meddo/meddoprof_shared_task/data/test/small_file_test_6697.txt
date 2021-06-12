@@ -1,0 +1,21 @@
+
+Se	O
+realizó	O
+TC	O
+toracoabdominal	O
+donde	O
+se	O
+objetivó	O
+una	O
+masa	O
+de	O
+unos	O
+5	O
+cm	O
+en	O
+cabeza	O
+y	O
+cuerpo	O
+de	O
+páncreas	O
+.	O

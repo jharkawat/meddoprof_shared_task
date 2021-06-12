@@ -1,0 +1,20 @@
+
+Tras	O
+el	O
+tratamiento	O
+con	O
+radioterapia	O
+,	O
+la	O
+paciente	O
+continúa	O
+con	O
+terapia	O
+hormonal	O
+y	O
+existe	O
+una	O
+estabilidad	O
+neurológica	O
+actualmente	O
+.	O

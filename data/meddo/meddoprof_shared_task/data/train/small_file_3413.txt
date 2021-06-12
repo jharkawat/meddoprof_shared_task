@@ -1,0 +1,27 @@
+
+La	O
+familia	O
+se	O
+encuentra	O
+en	O
+el	O
+final	O
+del	O
+periodo	O
+de	O
+expansión	O
+,	O
+comprendido	O
+entre	O
+que	O
+nace	O
+el	O
+último	O
+hijo	O
+hasta	O
+que	O
+éste	O
+abandona	O
+el	O
+hogar	O
+.	O

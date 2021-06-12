@@ -1,0 +1,13 @@
+
+El	O
+paciente	O
+vuelve	O
+de	O
+nuevo	O
+a	O
+la	O
+UCI	O
+tras	O
+la	O
+cirugía	O
+.	O

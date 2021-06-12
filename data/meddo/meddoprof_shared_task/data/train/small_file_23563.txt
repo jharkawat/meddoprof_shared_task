@@ -1,0 +1,25 @@
+
+En	O
+el	O
+ultimo	O
+año	O
+ha	O
+aumentado	O
+el	O
+consumo	O
+de	O
+cannabis	O
+,	O
+llegando	O
+a	O
+consumir	O
+de	O
+8	O
+a	O
+10	O
+"	O
+porros	O
+"	O
+por	O
+día	O
+.	O

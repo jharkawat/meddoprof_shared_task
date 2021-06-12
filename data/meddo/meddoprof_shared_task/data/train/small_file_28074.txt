@@ -1,0 +1,8 @@
+
+Trastorno	O
+de	O
+estrés	O
+postraumático	O
+,	O
+crónico	O
+.	O

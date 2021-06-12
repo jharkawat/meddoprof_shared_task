@@ -1,0 +1,18 @@
+
+El	O
+estudio	O
+neurofisiológico	O
+detectó	O
+polineuropatía	O
+sensitiva	O
+de	O
+predominio	O
+axonal	O
+y	O
+simétrica	O
+distal	O
+en	O
+los	O
+miembros	O
+inferiores	O
+.	O

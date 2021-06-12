@@ -1,0 +1,24 @@
+
+Tras	O
+una	O
+operación	O
+quirúrgica	O
+,	O
+se	O
+produce	O
+la	O
+reaparición	O
+de	O
+ansiedad	O
+psicótica	O
+,	O
+condicionando	O
+la	O
+aceptación	O
+pasiva	O
+al	O
+cambio	O
+terapéutico	O
+a	O
+clozapina	O
+.	O

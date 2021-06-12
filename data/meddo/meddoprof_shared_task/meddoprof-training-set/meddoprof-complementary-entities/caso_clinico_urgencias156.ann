@@ -1,0 +1,25 @@
+T1	SINTOMA 130 197	dolor interescapular lacinante irradiado a región anterior de tórax
+T2	SINTOMA 310 346	disminución de la temperatura en MII
+T3	PROCEDIMIENTO 250 277	auscultación cardiopulmonar
+T4	PROCEDIMIENTO 398 424	angio-TAC tóraco-abdominal
+T5	PROCEDIMIENTO 447 481	disección de aorta toracoabdominal
+T6	PROCEDIMIENTO 770 792	perfusiones de mórfico
+T7	PROCEDIMIENTO 909 949	by-pass fémoro-femoral derecho-izquierdo
+T8	PROCEDIMIENTO 954 971	disección aórtica
+T9	NEG 289 300	ausencia de
+T10	NSCO 301 307	pulsos
+T11	UNC 356 367	sospecha de
+T12	USCO 368 385	disección aórtica
+T13	NEG 709 711	no
+T14	NSCO 712 723	calcificado
+T15	FARMACO 785 792	mórfico
+T16	FARMACO 794 808	nitroglicerina
+T17	FARMACO 811 819	propofol
+T18	ORG_VIVO 0 14	Paciente varón
+T19	ORG_VIVO 48 51	VHC
+T20	ORG_VIVO 1133 1142	pacientes
+T21	ENFERMEDAD 30 68	antecedentente de VHC postransfusional
+T22	ENFERMEDAD 232 244	hipertensiva
+T23	ENFERMEDAD 368 385	disección aórtica
+T24	ENFERMEDAD 688 702	trombo aórtico
+T25	ENFERMEDAD 1154 1169	ruptura aórtica

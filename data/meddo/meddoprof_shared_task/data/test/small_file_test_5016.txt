@@ -1,0 +1,23 @@
+
+Firma	O
+el	O
+consentimiento	O
+informado	O
+y	O
+se	O
+realiza	O
+una	O
+biopsia	O
+de	O
+una	O
+de	O
+las	O
+adenopatías	O
+axilares	O
+para	O
+determinación	O
+de	O
+PD	O
+-	O
+L1	O
+.	O

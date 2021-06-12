@@ -1,0 +1,7 @@
+
+Dolor	O
+en	O
+fosa	O
+renal	O
+derecha	O
+.	O

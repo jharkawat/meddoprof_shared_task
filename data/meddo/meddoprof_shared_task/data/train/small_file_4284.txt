@@ -1,0 +1,4 @@
+
+Tumor	O
+vesical	O
+.	O

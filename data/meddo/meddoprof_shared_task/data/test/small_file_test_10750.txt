@@ -1,0 +1,27 @@
+
+Se	O
+toman	O
+varias	O
+muestras	O
+quirúrgicas	O
+siendo	O
+diagnosticado	O
+histológicamente	O
+como	O
+Carcinoma	O
+Oncocítico	O
+de	O
+Parótida	O
+con	O
+varias	O
+metástasis	O
+ganglionares	O
+,	O
+estadiado	O
+como	O
+T1N3dM0	O
+(	O
+Estadio	O
+IVB	O
+)	O
+.	O

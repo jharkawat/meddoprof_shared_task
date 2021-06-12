@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+empeora	O
+,	O
+aumentando	O
+su	O
+disnea	O
+,	O
+por	O
+lo	O
+que	O
+ingresa	O
+de	O
+nuevo	O
+.	O

@@ -1,0 +1,14 @@
+
+Intervenido	O
+de	O
+aneurisma	O
+en	O
+aorta	O
+abdominal	O
+,	O
+cataratas	O
+y	O
+fractura	O
+de	O
+tobillo	O
+.	O

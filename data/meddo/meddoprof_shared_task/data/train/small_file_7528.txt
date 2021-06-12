@@ -1,0 +1,6 @@
+
+Trabajaba	B-PROFESION
+en	I-PROFESION
+un	I-PROFESION
+invernadero	I-PROFESION
+.	O

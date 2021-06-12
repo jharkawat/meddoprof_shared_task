@@ -1,0 +1,39 @@
+T1	SINTOMA 31 43	astenia leve
+T2	SINTOMA 46 55	hiporexia
+T3	SINTOMA 67 82	pérdida de peso
+T4	SINTOMA 117 130	palpitaciones
+T5	PROCEDIMIENTO 466 484	electrocardiograma
+T6	PROCEDIMIENTO 513 538	Holter-electrocardiograma
+T7	PROCEDIMIENTO 704 729	TAC toracoabdominopélvico
+T8	PROCEDIMIENTO 908 933	determinación de glucagón
+T9	PROCEDIMIENTO 1167 1209	PAAF de la lesión guiada por ecoendoscopia
+T10	PROCEDIMIENTO 1444 1454	octreoscan
+T11	NEG 151 164	inespecíficas
+T12	NEG 195 198	sin
+T13	NSCO 199 211	tipificación
+T14	NEG 350 352	no
+T15	NSCO 353 394	se encontraron hallazgos de significación
+T16	UNC 835 857	altamente sugestivo de
+T17	USCO 858 878	tumor neuroendocrino
+T18	UNC 1099 1107	sospecha
+T19	USCO 1108 1115	clínica
+T20	UNC 1405 1419	compatible con
+T21	USCO 1420 1431	glucagonoma
+T22	NEG 1460 1468	descartó
+T23	NSCO 1469 1505	captación patológica a otros niveles
+T24	NEG 1515 1517	no
+T25	NSCO 1518 1607	se detectaron mutaciones del síndrome de Von Hippel Lindau ni MEN 1 ni Von Recklinghausen
+T26	ORG_VIVO 0 5	Varón
+T27	ORG_VIVO 236 246	personales
+T28	ORG_VIVO 1299 1307	pimienta
+T29	ENFERMEDAD 133 164	lesiones cutáneas inespecíficas
+T30	ENFERMEDAD 295 316	hipertensión arterial
+T31	ENFERMEDAD 319 329	dislipemia
+T32	ENFERMEDAD 572 591	taquicardia sinusal
+T33	ENFERMEDAD 603 643	taquicardia supraventricular paroxística
+T34	ENFERMEDAD 671 694	síndrome constitucional
+T35	ENFERMEDAD 745 782	nódulo hiperdenso en cola de páncreas
+T36	ENFERMEDAD 858 878	tumor neuroendocrino
+T37	ENFERMEDAD 1384 1431	tumor neuroendocrino compatible con glucagonoma
+T38	ENFERMEDAD 1532 1576	mutaciones del síndrome de Von Hippel Lindau
+T39	SANITARIO-PROFESION 183 194	dermatólogo

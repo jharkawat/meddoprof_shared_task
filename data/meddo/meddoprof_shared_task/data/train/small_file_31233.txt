@@ -1,0 +1,23 @@
+
+En	O
+la	O
+exploración	O
+de	O
+Urgencias	O
+,	O
+el	O
+paciente	O
+se	O
+encontraba	O
+consciente	O
+y	O
+orientado	O
+,	O
+con	O
+aspecto	O
+cuidado	O
+y	O
+contacto	O
+visual	O
+parcial	O
+.	O

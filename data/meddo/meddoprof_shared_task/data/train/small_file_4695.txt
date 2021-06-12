@@ -1,0 +1,24 @@
+
+La	O
+lesión	O
+persiste	O
+,	O
+por	O
+lo	O
+que	O
+el	O
+paciente	O
+acude	O
+al	O
+hospital	O
+y	O
+recibe	O
+el	O
+diagnóstico	O
+de	O
+afta	O
+de	O
+posible	O
+origen	O
+traumático	O
+.	O

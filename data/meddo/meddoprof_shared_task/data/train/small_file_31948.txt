@@ -1,0 +1,16 @@
+
+Conducta	O
+de	O
+evitación	O
+en	O
+la	O
+mayoría	O
+de	O
+las	O
+ocasiones	O
+frente	O
+a	O
+los	O
+problemas	O
+rutinarios	O
+.	O

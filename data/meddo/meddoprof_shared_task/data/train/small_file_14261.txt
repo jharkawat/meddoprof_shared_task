@@ -1,0 +1,10 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+general	O
+era	O
+normal	O
+.	O

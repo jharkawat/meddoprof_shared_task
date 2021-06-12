@@ -1,0 +1,27 @@
+
+Gases	O
+venosos	O
+:	O
+pH	O
+7	O
+,	O
+2	O
+;	O
+PCO2	O
+67	O
+,	O
+8	O
+mmHg	O
+;	O
+PO2	O
+41	O
+,	O
+5	O
+mmHg	O
+;	O
+bicarbonato	O
+29	O
+meq	O
+/	O
+L	O
+.	O

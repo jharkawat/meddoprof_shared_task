@@ -1,0 +1,15 @@
+
+Tuvo	O
+una	O
+relación	O
+de	O
+7	O
+años	O
+con	O
+una	O
+chica	O
+que	O
+terminó	O
+hace	O
+dos	O
+.	O

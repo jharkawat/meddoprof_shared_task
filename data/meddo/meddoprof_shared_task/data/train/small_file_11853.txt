@@ -1,0 +1,11 @@
+
+Por	O
+amenaza	O
+de	O
+aborto	O
+precisó	O
+ingreso	O
+en	O
+varias	O
+ocasiones	O
+.	O

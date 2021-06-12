@@ -1,0 +1,24 @@
+
+La	O
+intensidad	O
+de	O
+las	O
+conductas	O
+es	O
+siempre	O
+bastante	O
+fuerte	O
+y	O
+su	O
+duración	O
+es	O
+de	O
+aproximadamente	O
+10	O
+minutos	O
+en	O
+sus	O
+momentos	O
+más	O
+violentos	O
+.	O

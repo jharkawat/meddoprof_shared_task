@@ -1,0 +1,45 @@
+T1	SINTOMA 183 197	fiebre elevada
+T2	SINTOMA 199 206	cefalea
+T3	SINTOMA 209 222	artromialgias
+T4	SINTOMA 383 395	leucocitosis
+T5	SINTOMA 409 443	elevación reactantes de fase aguda
+T6	SINTOMA 454 467	plaquetopenia
+T7	SINTOMA 701 725	alteración función renal
+T8	PROCEDIMIENTO 277 290	examen físico
+T9	PROCEDIMIENTO 321 339	exploración física
+T10	PROCEDIMIENTO 744 752	Rx tórax
+T11	PROCEDIMIENTO 755 774	Ecografía abdominal
+T12	PROCEDIMIENTO 1032 1084	Cultivo y PCR virus respiratorios en frotis faríngeo
+T13	PROCEDIMIENTO 1314 1344	serología para virus sarampión
+T14	PROCEDIMIENTO 1374 1398	aislamiento respiratorio
+T15	PROCEDIMIENTO 1433 1443	corticoide
+T16	NEG 19 22	sin
+T17	NSCO 23 65	alergias medicamentosas ni hábitos tóxicos
+T18	NEG 246 249	sin
+T19	NSCO 250 272	otra clínica sistémica
+T20	NEG 697 700	sin
+T21	NSCO 701 742	alteración función renal ni del ionograma
+T22	NEG 775 778	sin
+T23	NSCO 779 791	alteraciones
+T24	UNC 983 989	dudoso
+T25	NEG 1085 1093	negativo
+T26	UNC 1269 1284	compatibles con
+T27	USCO 1285 1302	manchas de Koplik
+T28	ORG_VIVO 0 5	Varón
+T29	ORG_VIVO 78 86	camarero
+T30	ORG_VIVO 94 99	perro
+T31	ORG_VIVO 883 886	VIH
+T32	ORG_VIVO 891 895	VHC-
+T33	ORG_VIVO 897 901	VHB-
+T34	ORG_VIVO 904 908	VHA-
+T35	ORG_VIVO 911 915	Lues
+T36	ORG_VIVO 919 922	CMV
+T37	ORG_VIVO 939 942	VEB
+T38	ORG_VIVO 959 977	Rickettsia conorii
+T39	ORG_VIVO 999 1016	Coxiella burnetti
+T40	ORG_VIVO 1046 1065	virus respiratorios
+T41	ORG_VIVO 1329 1344	virus sarampión
+T42	ENFERMEDAD 131 141	meningitis
+T43	ENFERMEDAD 454 467	plaquetopenia
+T44	ENFERMEDAD 593 602	hepatitis
+T45	PACIENTE-PROFESION 78 86	camarero

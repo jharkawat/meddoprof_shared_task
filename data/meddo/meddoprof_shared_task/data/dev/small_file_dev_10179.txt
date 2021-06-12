@@ -1,0 +1,13 @@
+
+El	O
+médico	B-PROFESION
+debió	O
+internarla	O
+en	O
+el	O
+hospital	O
+psiquiátrico	O
+contra	O
+su	O
+voluntad	O
+.	O

@@ -1,0 +1,22 @@
+
+TAC	O
+:	O
+sin	O
+hallazgos	O
+patológicos	O
+EEG	O
+:	O
+sin	O
+hallazgos	O
+patológicos	O
+Laboratorio	O
+:	O
+Hematología	O
+y	O
+bioquímica	O
+normales	O
+(	O
+transaminasas	O
+normales	O
+)	O
+.	O

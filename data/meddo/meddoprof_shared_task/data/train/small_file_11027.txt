@@ -1,0 +1,7 @@
+
+Exploración	O
+neurológica	O
+normal	O
+sin	O
+focalidad	O
+.	O

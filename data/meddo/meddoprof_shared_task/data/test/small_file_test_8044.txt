@@ -1,0 +1,11 @@
+
+El	O
+resto	O
+de	O
+órganos	O
+abdominopélvicos	O
+sin	O
+anomalías	O
+de	O
+interés	O
+.	O

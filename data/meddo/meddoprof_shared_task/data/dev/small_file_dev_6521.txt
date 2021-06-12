@@ -1,0 +1,27 @@
+
+coli1	O
+,	O
+siendo	O
+el	O
+foco	O
+primario	O
+de	O
+infección	O
+en	O
+el	O
+50	O
+%	O
+de	O
+los	O
+pacientes	O
+el	O
+tracto	O
+urinario	O
+,	O
+la	O
+piel	O
+o	O
+los	O
+tejidos	O
+blandos	O
+.	O

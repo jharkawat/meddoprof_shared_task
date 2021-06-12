@@ -1,0 +1,22 @@
+
+Refiere	O
+las	O
+lesiones	O
+como	O
+asintomáticas	O
+y	O
+de	O
+años	O
+de	O
+evolución	O
+,	O
+manteniéndose	O
+estables	O
+en	O
+tamaño	O
+y	O
+forma	O
+desde	O
+su	O
+aparición	O
+.	O

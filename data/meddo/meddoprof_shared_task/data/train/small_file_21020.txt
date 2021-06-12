@@ -1,0 +1,25 @@
+
+Según	O
+su	O
+marido	O
+,	O
+los	O
+problemas	O
+de	O
+memoria	O
+se	O
+hicieron	O
+evidentes	O
+cuando	O
+la	O
+paciente	O
+se	O
+quejaba	O
+de	O
+que	O
+no	O
+podía	O
+recordar	O
+algunos	O
+nombres	O
+.	O

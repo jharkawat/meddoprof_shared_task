@@ -1,0 +1,16 @@
+
+Las	O
+movilidades	O
+han	O
+disminuido	O
+hasta	O
+casi	O
+desaparecer	O
+y	O
+las	O
+variables	O
+clínicas	O
+se	O
+han	O
+estabilizado	O
+.	O

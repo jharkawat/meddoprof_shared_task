@@ -1,0 +1,16 @@
+
+Según	O
+ella	O
+,	O
+habían	O
+subido	O
+al	O
+autobús	O
+para	O
+ir	O
+a	O
+un	O
+centro	O
+comercial	O
+cercano	O
+.	O

@@ -1,0 +1,12 @@
+
+negativo	O
+,	O
+ANTI	O
+CARDIOLIPINA	O
+IgM	O
+negativo	O
+,	O
+ANTI	O
+BETA2	O
+GLICOPROTEINA	O
+IgG	O

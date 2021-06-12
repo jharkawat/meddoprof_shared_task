@@ -1,0 +1,18 @@
+T1	SINTOMA 160 182	sintomatología ansiosa
+T2	SINTOMA 303 324	síntomas disociativos
+T3	SINTOMA 326 348	alucinaciones visuales
+T4	SINTOMA 363 381	ideación delirante
+T5	SINTOMA 441 459	síntomas positivos
+T6	SINTOMA 793 811	síntomas negativos
+T7	PROCEDIMIENTO 498 525	tratamientos antipsicóticos
+T8	NEG 740 751	ausencia de
+T9	NSCO 752 801	trastornos formales del pensamiento y de síntomas
+T10	NEG 802 811	negativos
+T11	ORG_VIVO 27 32	joven
+T12	ORG_VIVO 93 101	infancia
+T13	ORG_VIVO 530 538	paciente
+T14	ENFERMEDAD 185 194	depresiva
+T15	ENFERMEDAD 226 234	suicidio
+T16	ENFERMEDAD 266 287	conductas autolesivas
+T17	ENFERMEDAD 572 585	esquizofrenia
+T18	ENFERMEDAD 588 623	trastorno límite de la personalidad

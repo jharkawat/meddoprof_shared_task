@@ -1,0 +1,14 @@
+
+Sus	O
+ataques	O
+de	O
+comer	O
+en	O
+exceso	O
+la	O
+hacían	O
+sentir	O
+culpable	O
+y	O
+desesperanzada	O
+.	O

@@ -1,0 +1,83 @@
+T1	SINTOMA 725 749	apetito había disminuido
+T2	SINTOMA 2440 2460	períodos menstruales
+T3	SINTOMA 2583 2589	pálida
+T4	PROCEDIMIENTO 2723 2736	examen físico
+T5	PROCEDIMIENTO 2752 2774	evaluación neurológica
+T6	NEG 635 637	no
+T7	NSCO 638 655	hablaba con nadie
+T8	NEG 812 814	no
+T9	NSCO 815 834	habló ni comió nada
+T10	NEG 990 993	sin
+T11	NSCO 994 1006	previo aviso
+T12	NEG 1009 1012	sin
+T13	NSCO 1013 1035	ninguna razón aparente
+T14	NEG 1752 1754	No
+T15	NSCO 1755 1797	era particularmente feliz en su matrimonio
+T16	NEG 1939 1941	no
+T17	NSCO 1942 2028	había mostrado ningún comportamiento o actitud inusual antes del suicidio de su cuñada
+T18	NEG 2491 2493	no
+T19	NSCO 2494 2517	había estado embarazada
+T20	NEG 2606 2608	No
+T21	NSCO 2609 2628	hablaba ni se movía
+T22	NEG 2631 2633	no
+T23	NSCO 2634 2669	reaccionó de forma alguna al examen
+T24	NEG 2775 2777	no
+T25	NSCO 2778 2798	mostró anormalidades
+T26	NEG 3104 3106	no
+T27	NSCO 3107 3123	servía para nada
+T28	ORG_VIVO 16 21	mujer
+T29	ORG_VIVO 53 60	familia
+T30	ORG_VIVO 67 73	esposo
+T31	ORG_VIVO 98 106	paciente
+T32	ORG_VIVO 144 150	marido
+T33	ORG_VIVO 404 410	esposa
+T34	ORG_VIVO 417 424	hermano
+T35	ORG_VIVO 470 478	paciente
+T36	ORG_VIVO 515 521	cuñada
+T37	ORG_VIVO 943 950	familia
+T38	ORG_VIVO 983 989	esposo
+T39	ORG_VIVO 1134 1142	paciente
+T40	ORG_VIVO 1173 1178	padre
+T41	ORG_VIVO 1224 1230	padres
+T42	ORG_VIVO 1235 1249	abuela materna
+T43	ORG_VIVO 1260 1268	hermanos
+T44	ORG_VIVO 1307 1314	familia
+T45	ORG_VIVO 1375 1383	paciente
+T46	ORG_VIVO 1399 1405	hombre
+T47	ORG_VIVO 1427 1433	esposo
+T48	ORG_VIVO 1464 1473	marihuana
+T49	ORG_VIVO 1530 1540	casamiento
+T50	ORG_VIVO 1556 1562	esposo
+T51	ORG_VIVO 1584 1590	padres
+T52	ORG_VIVO 1604 1612	hermanos
+T53	ORG_VIVO 1621 1628	esposas
+T54	ORG_VIVO 1642 1648	vecino
+T55	ORG_VIVO 1673 1680	persona
+T56	ORG_VIVO 1725 1735	personales
+T57	ORG_VIVO 1832 1838	marido
+T58	ORG_VIVO 1929 1936	familia
+T59	ORG_VIVO 2022 2028	cuñada
+T60	ORG_VIVO 2033 2040	familia
+T61	ORG_VIVO 2057 2065	paciente
+T62	ORG_VIVO 2118 2123	padre
+T63	ORG_VIVO 2130 2138	hermanos
+T64	ORG_VIVO 2290 2294	tíos
+T65	ORG_VIVO 2332 2340	paciente
+T66	ORG_VIVO 2371 2376	perro
+T67	ORG_VIVO 2414 2420	vacuna
+T68	ORG_VIVO 2693 2704	facultativo
+T69	ORG_VIVO 2987 2993	cuñada
+T70	ORG_VIVO 3087 3093	cuñada
+T71	ORG_VIVO 3194 3201	familia
+T72	ORG_VIVO 3338 3344	cuñada
+T73	ENFERMEDAD 362 370	suicidio
+T74	ENFERMEDAD 500 508	suicidio
+T75	ENFERMEDAD 803 811	suicidio
+T76	ENFERMEDAD 1064 1115	quemaduras al tratar de arrastrarla fuera del fuego
+T77	ENFERMEDAD 1495 1516	tuberculosis pulmonar
+T78	ENFERMEDAD 2007 2015	suicidio
+T79	ENFERMEDAD 2090 2113	enfermedad psiquiátrica
+T80	ENFERMEDAD 3229 3235	muerte
+T81	FAMILIAR-PROFESION 1183 1191	alfarero
+T82	FAMILIAR-PROFESION 1443 1453	barrendero
+T83	SANITARIO-PROFESION 2693 2704	facultativo

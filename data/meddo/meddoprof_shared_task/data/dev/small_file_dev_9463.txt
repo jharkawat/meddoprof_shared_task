@@ -1,0 +1,11 @@
+
+Ventrículo	O
+derecho	O
+no	O
+dilatado	O
+,	O
+con	O
+disfunción	O
+sistólica	O
+leve	O
+.	O

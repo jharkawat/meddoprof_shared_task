@@ -1,0 +1,6 @@
+
+Primer	O
+matrimonio	O
+en	O
+1990	O
+.	O

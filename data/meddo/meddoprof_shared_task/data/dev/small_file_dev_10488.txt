@@ -1,0 +1,13 @@
+
+Además	O
+,	O
+sus	O
+profesores	B-PROFESION
+se	O
+quejaban	O
+de	O
+que	O
+era	O
+muy	O
+indisciplinada	O
+.	O

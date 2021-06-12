@@ -1,0 +1,17 @@
+
+Lleva	O
+una	O
+vida	O
+sedentaria	O
+para	O
+deslazamientos	O
+de	O
+más	O
+de	O
+10	O
+minutos	O
+,	O
+utiliza	O
+su	O
+ciclomotor	O
+.	O

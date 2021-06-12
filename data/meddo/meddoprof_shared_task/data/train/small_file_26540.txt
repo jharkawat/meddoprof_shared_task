@@ -1,0 +1,10 @@
+
+Test	O
+de	O
+embarazo	O
+y	O
+tóxicos	O
+en	O
+orina	O
+negativos	O
+.	O

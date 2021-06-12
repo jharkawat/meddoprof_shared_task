@@ -1,0 +1,22 @@
+
+Según	O
+los	O
+padres	O
+,	O
+desde	O
+la	O
+primera	O
+infancia	O
+no	O
+aceptaba	O
+el	O
+contacto	O
+físico	O
+,	O
+persistiendo	O
+esta	O
+dificultad	O
+en	O
+la	O
+actualidad	O
+.	O

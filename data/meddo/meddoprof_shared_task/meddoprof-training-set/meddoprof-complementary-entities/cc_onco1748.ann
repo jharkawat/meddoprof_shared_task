@@ -1,0 +1,118 @@
+T1	SINTOMA 248 255	Fumador
+T2	SINTOMA 279 286	bebedor
+T3	SINTOMA 577 585	rinorrea
+T4	SINTOMA 611 618	anosmia
+T5	SINTOMA 2194 2199	dolor
+T6	SINTOMA 2202 2242	debilidad en las extremidades inferiores
+T7	SINTOMA 2247 2257	disestesia
+T8	SINTOMA 2274 2299	limitación para la marcha
+T9	SINTOMA 2342 2355	estreñimiento
+T10	SINTOMA 2424 2434	Consciente
+T11	SINTOMA 2437 2446	orientado
+T12	SINTOMA 2448 2456	Eupneico
+T13	SINTOMA 2479 2490	desinhibido
+T14	SINTOMA 2492 2504	Dolor lumbar
+T15	SINTOMA 2533 2568	Coloración normal de piel y mucosas
+T16	SINTOMA 2651 2666	rigidez de nuca
+T17	SINTOMA 2725 2731	soplos
+T18	SINTOMA 2805 2813	doloroso
+T19	SINTOMA 2829 2850	irritación peritoneal
+T20	SINTOMA 2856 2871	visceromegalias
+T21	SINTOMA 2894 2912	estímulo miccional
+T22	SINTOMA 3018 3024	edemas
+T23	SINTOMA 3138 3150	leucocitosis
+T24	SINTOMA 3155 3166	neutrofilia
+T25	SINTOMA 3235 3255	hiperproteinorraquia
+T26	SINTOMA 3258 3269	pleocitosis
+T27	PROCEDIMIENTO 702 715	quimioterapia
+T28	PROCEDIMIENTO 836 868	quimiorradioterapia concomitante
+T29	PROCEDIMIENTO 924 936	radioterapia
+T30	PROCEDIMIENTO 1064 1090	tratamiento quimioterápico
+T31	PROCEDIMIENTO 1153 1166	quimioterapia
+T32	PROCEDIMIENTO 1199 1211	radioterapia
+T33	PROCEDIMIENTO 1310 1330	resonancia magnética
+T34	PROCEDIMIENTO 1518 1564	craniectomía subtotal frontal con maxilectomía
+T35	PROCEDIMIENTO 1566 1581	esfenoidectomía
+T36	PROCEDIMIENTO 1584 1597	etmoidectomía
+T37	PROCEDIMIENTO 1860 1872	radioterapia
+T38	PROCEDIMIENTO 1901 1929	tratamiento de quimioterapia
+T39	PROCEDIMIENTO 1945 1977	quimiorradioterapia concomitante
+T40	PROCEDIMIENTO 2405 2423	Exploración física
+T41	PROCEDIMIENTO 2674 2695	auscultación cardíaca
+T42	PROCEDIMIENTO 2779 2800	exploración abdominal
+T43	PROCEDIMIENTO 2920 2947	palpación en el hipogastrio
+T44	PROCEDIMIENTO 3199 3233	Examen del líquido cefalorraquídeo
+T45	PROCEDIMIENTO 3273 3310	Citología del líquido cefalorraquídeo
+T46	PROCEDIMIENTO 3468 3538	Resonancia magnética de columna lumbosacra con contraste paramagnético
+T47	PROCEDIMIENTO 3920 3949	Resonancia magnética cerebral
+T48	PROCEDIMIENTO 4380 4402	radioterapia paliativa
+T49	PROCEDIMIENTO 4533 4555	tratamiento analgésico
+T50	NEG 36 39	sin
+T51	NSCO 40 73	alergias medicamentosas conocidas
+T52	NEG 1092 1094	no
+T53	NSCO 1095 1166	precisando reducción de dosis en ninguno de los ciclos de quimioterapia
+T54	UNC 1362 1375	sugestivas de
+T55	USCO 1376 1396	persistencia tumoral
+T56	NEG 1647 1656	negativos
+T57	NSCO 1657 1672	para malignidad
+T58	NEG 1711 1714	sin
+T59	NSCO 1715 1777	componente glandular tumoral viable en ninguna de las muestras
+T60	NEG 2617 2620	Sin
+T61	NSCO 2621 2645	adenomegalias cervicales
+T62	NEG 2647 2650	Sin
+T63	NSCO 2651 2666	rigidez de nuca
+T64	NEG 2721 2724	sin
+T65	NSCO 2725 2731	soplos
+T66	NEG 2802 2804	no
+T67	NSCO 2805 2813	doloroso
+T68	NEG 2815 2818	sin
+T69	NSCO 2819 2850	signos de irritación peritoneal
+T70	NEG 2852 2855	sin
+T71	NSCO 2856 2880	visceromegalias ni masas
+T72	NEG 2955 2957	no
+T73	NSCO 2958 2992	se delimita un claro globo vesical
+T74	NEG 3014 3017	sin
+T75	NSCO 3018 3024	edemas
+T76	NEG 3450 3452	no
+T77	NSCO 3453 3464	concluyente
+T78	UNC 3961 3976	compatibles con
+T79	USCO 3977 4005	carcinomatosis leptomeníngea
+T80	NEG 4691 4703	se desestima
+T81	NSCO 4704 4769	cualquier tipo de tratamiento citotóxico intravenoso o intratecal
+T82	FARMACO 752 762	cisplatino
+T83	FARMACO 775 790	5-fluorouracilo
+T84	FARMACO 885 895	cisplatino
+T85	FARMACO 4566 4584	sulfato de morfina
+T86	ORG_VIVO 10 15	Varón
+T87	ORG_VIVO 134 144	personales
+T88	ORG_VIVO 149 157	paciente
+T89	ORG_VIVO 1022 1030	paciente
+T90	ORG_VIVO 1982 1990	paciente
+T91	ORG_VIVO 3656 3663	caballo
+T92	ORG_VIVO 4611 4619	familiar
+T93	ENFERMEDAD 164 185	hipertensión arterial
+T94	ENFERMEDAD 187 197	dislipemia
+T95	ENFERMEDAD 200 213	hiperuricemia
+T96	ENFERMEDAD 349 368	meningitis a los 19
+T97	ENFERMEDAD 403 410	absceso
+T98	ENFERMEDAD 413 424	fisura anal
+T99	ENFERMEDAD 447 464	apendicitis aguda
+T100	ENFERMEDAD 549 575	insuficiencia respiratoria
+T101	ENFERMEDAD 626 661	adenocarcinoma mucinoso nasosinusal
+T102	ENFERMEDAD 1221 1229	dermitis
+T103	ENFERMEDAD 1240 1257	mucositis grado 1
+T104	ENFERMEDAD 2315 2339	radiculopatía lumbosacra
+T105	ENFERMEDAD 2342 2355	estreñimiento
+T106	ENFERMEDAD 2621 2645	adenomegalias cervicales
+T107	ENFERMEDAD 3026 3047	Paraparesia bilateral
+T108	ENFERMEDAD 3155 3166	neutrofilia
+T109	ENFERMEDAD 3839 3870	carcinomatosis meníngea extensa
+T110	ENFERMEDAD 3876 3916	diseminación vía líquido cefalorraquídeo
+T111	ENFERMEDAD 3977 4005	carcinomatosis leptomeníngea
+T112	ENFERMEDAD 4007 4019	Hidrocefalia
+T113	ENFERMEDAD 4098 4142	adenocarcinoma mucinoso de senos paranasales
+T114	ENFERMEDAD 4166 4197	carcinomatosis meníngea extensa
+T115	ENFERMEDAD 4203 4258	implantes leptomeníngeos que afectan a todo el neuroeje
+T116	ENFERMEDAD 4277 4301	radiculopatía compresiva
+T117	ENFERMEDAD 4304 4328	vejiga neurógena parcial
+T118	PACIENTE-PROFESION 75 98	Acuchillador de parqués

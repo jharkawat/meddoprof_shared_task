@@ -1,0 +1,73 @@
+T1	SINTOMA 540 561	pérdida de conciencia
+T2	SINTOMA 814 848	alucinaciones visuales y auditivas
+T3	SINTOMA 979 1001	afectividad inadecuada
+T4	SINTOMA 1004 1032	comportamiento desorganizado
+T5	SINTOMA 2324 2334	consciente
+T6	SINTOMA 2337 2342	vigil
+T7	SINTOMA 2638 2670	continuas alucinaciones visuales
+T8	SINTOMA 2699 2710	soliloquios
+T9	SINTOMA 2755 2791	alteraciones en la esfera instintiva
+T10	PROCEDIMIENTO 1409 1441	tratamientos psicofarmacológicos
+T11	PROCEDIMIENTO 1643 1646	EEG
+T12	PROCEDIMIENTO 1648 1651	RMN
+T13	PROCEDIMIENTO 1736 1741	parto
+T14	PROCEDIMIENTO 2229 2248	Exploración clínica
+T15	PROCEDIMIENTO 3683 3707	rehabilitación cognitiva
+T16	PROCEDIMIENTO 3803 3822	terapia psicológica
+T17	NEG 125 141	imposibilidad de
+T18	UNC 441 454	aparentemente
+T19	USCO 455 465	accidental
+T20	NEG 574 576	no
+T21	NSCO 577 586	precisada
+T22	NEG 736 738	no
+T23	NSCO 739 753	sistematizados
+T24	NEG 1047 1051	nula
+T25	NSCO 1052 1076	conciencia de enfermedad
+T26	NEG 1280 1282	no
+T27	NSCO 1283 1358	se obtuvo en ningún período una remisión parcial de su psicopatología basal
+T28	NEG 1653 1655	no
+T29	NSCO 1656 1702	hallaron ninguna etiología orgánica focalizada
+T30	NEG 1754 1757	sin
+T31	NSCO 1758 1769	incidencias
+T32	NEG 1870 1872	No
+T33	NSCO 1873 1942	hay descritas reacciones adversas medicametosas ni alergias conocidas
+T34	NEG 2157 2159	No
+T35	NSCO 2160 2226	constan antecedentes (neuro)psiquiátricos personales ni familiares
+T36	NEG 2555 2557	no
+T37	NSCO 2558 2572	sistematizadas
+T38	NEG 2751 2754	Sin
+T39	NSCO 2755 2791	alteraciones en la esfera instintiva
+T40	NEG 2974 2977	sin
+T41	NSCO 2978 3012	ningún período de remisión parcial
+T42	NEG 3089 3091	No
+T43	NSCO 3092 3124	se ha evidenciado sintomatología
+T44	NEG 3125 3133	negativa
+T45	NSCO 3134 3146	concomitante
+T46	NEG 3320 3323	sin
+T47	NSCO 3324 3376	haberse constatado un deterioro cognitivo manifiesto
+T48	NEG 3873 3875	No
+T49	FARMACO 3180 3189	Clozapina
+T50	FARMACO 3202 3213	Aripiprazol
+T51	ORG_VIVO 43 48	varón
+T52	ORG_VIVO 920 942	miembros de la familia
+T53	ORG_VIVO 958 966	paciente
+T54	ORG_VIVO 1534 1542	familiar
+T55	ORG_VIVO 1579 1587	cannabis
+T56	ORG_VIVO 1962 1970	infancia
+T57	ORG_VIVO 1979 1983	niño
+T58	ORG_VIVO 2113 2121	familiar
+T59	ORG_VIVO 2202 2212	personales
+T60	ORG_VIVO 2216 2226	familiares
+T61	ORG_VIVO 2403 2410	persona
+T62	ORG_VIVO 3228 3236	paciente
+T63	ORG_VIVO 3528 3537	pacientes
+T64	ORG_VIVO 3540 3558	personal sanitario
+T65	ENFERMEDAD 429 465	TCE cerrado aparentemente accidental
+T66	ENFERMEDAD 1202 1230	esquizofrenia indiferenciada
+T67	ENFERMEDAD 2837 2874	Psicosis orgánica postraumática F06.8
+T68	ENFERMEDAD 2876 2887	Tratamiento
+T69	ENFERMEDAD 2943 2959	cuadro psicótico
+T70	ENFERMEDAD 3346 3365	deterioro cognitivo
+T71	SANITARIO-PROFESION 3540 3558	personal sanitario
+T72	PACIENTE-PROFESION 2093 2121	ayudó en el negocio familiar
+T73	OTROS-PROFESION 3947 3970	monitores ocupacionales

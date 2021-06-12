@@ -1,0 +1,90 @@
+T1	SINTOMA 242 252	pesadillas
+T2	SINTOMA 255 279	pensamientos recurrentes
+T3	SINTOMA 356 369	irritabilidad
+T4	SINTOMA 420 433	intensa culpa
+T5	SINTOMA 468 477	anhedonia
+T6	SINTOMA 479 485	abulia
+T7	SINTOMA 487 506	ideación autolítica
+T8	SINTOMA 508 522	somatizaciones
+T9	SINTOMA 524 552	dificultad para concentrarse
+T10	SINTOMA 555 579	pensamientos repetitivos
+T11	SINTOMA 582 623	egodistónicos acompañados de compulsiones
+T12	SINTOMA 1674 1694	malestar psicológico
+T13	SINTOMA 2492 2501	anhedonia
+T14	SINTOMA 4099 4117	incapacidad física
+T15	PROCEDIMIENTO 1821 1840	terapia psicológica
+T16	PROCEDIMIENTO 5756 5794	técnicas de reestructuración cognitiva
+T17	PROCEDIMIENTO 7131 7148	terapia con David
+T18	NEG 153 155	no
+T19	NSCO 156 177	tiene pareja ni hijos
+T20	NEG 2211 2213	no
+T21	NSCO 2214 2248	habían remitido nunca por completo
+T22	UNC 2868 2875	posible
+T23	USCO 2876 2898	por ayudar a los demás
+T24	NEG 3098 3106	negativa
+T25	NSCO 3107 3189	que hacía que evitase toda interacción social o viviera estas situaciones sociales
+T26	NEG 4099 4110	incapacidad
+T27	NSCO 4111 4117	física
+T28	NEG 4195 4203	falta de
+T29	NSCO 4204 4216	apoyo social
+T30	NEG 4230 4232	no
+T31	NSCO 4233 4271	se relacionaba con su madre y hermanos
+T32	NEG 4828 4831	sin
+T33	NSCO 4832 4860	síntomas psicóticos, crónico
+T34	NEG 4945 4947	No
+T35	NSCO 4948 4963	hay diagnóstico
+T36	NEG 5817 5826	negativos
+T37	NEG 6419 6421	no
+T38	NSCO 6422 6469	solo el afrontamiento de estímulos relacionados
+T39	ORG_VIVO 19 27	Paciente
+T40	ORG_VIVO 47 55	jubilado
+T41	ORG_VIVO 162 168	pareja
+T42	ORG_VIVO 172 177	hijos
+T43	ORG_VIVO 216 224	paciente
+T44	ORG_VIVO 801 817	policía nacional
+T45	ORG_VIVO 957 967	compañeros
+T46	ORG_VIVO 1068 1076	paciente
+T47	ORG_VIVO 1524 1532	paciente
+T48	ORG_VIVO 2048 2056	paciente
+T49	ORG_VIVO 2786 2793	persona
+T50	ORG_VIVO 3402 3410	paciente
+T51	ORG_VIVO 3588 3597	población
+T52	ORG_VIVO 4220 4228	familiar
+T53	ORG_VIVO 4255 4260	madre
+T54	ORG_VIVO 4263 4271	hermanos
+T55	ORG_VIVO 4289 4296	hermana
+T56	ORG_VIVO 6349 6357	paciente
+T57	ORG_VIVO 6561 6569	paciente
+T58	ORG_VIVO 7549 7558	psicóloga
+T59	ORG_VIVO 7956 7966	personales
+T60	ORG_VIVO 7971 7979	paciente
+T61	ENFERMEDAD 1633 1656	abstinencia del alcohol
+T62	ENFERMEDAD 2677 2681	TEPT
+T63	ENFERMEDAD 2956 2985	trastorno obsesivo-compulsivo
+T64	ENFERMEDAD 3030 3042	fobia social
+T65	ENFERMEDAD 4634 4643	SCID-I-VC
+T66	ENFERMEDAD 4728 4761	Trastorno de estrés postraumático
+T67	ENFERMEDAD 4782 4801	Trastorno depresivo
+T68	ENFERMEDAD 4871 4900	Trastorno obsesivo-compulsivo
+T69	ENFERMEDAD 4911 4923	Fobia social
+T70	ENFERMEDAD 4984 5016	personalidad obsesiva-compulsiva
+T71	ENFERMEDAD 5032 5051	Hipercolesterolemia
+T72	ENFERMEDAD 5055 5065	Dermatitis
+T73	ENFERMEDAD 5069 5083	Diverticulitis
+T74	ENFERMEDAD 5087 5117	Amputación de miembro inferior
+T75	ENFERMEDAD 5305 5326	trastornos comórbidos
+T76	ENFERMEDAD 5554 5558	TEPT
+T77	ENFERMEDAD 5574 5596	trastornos de ansiedad
+T78	ENFERMEDAD 5674 5682	ansiedad
+T79	ENFERMEDAD 5890 5899	depresión
+T80	ENFERMEDAD 5909 5931	trastornos de ansiedad
+T81	PACIENTE-PROFESION 79 95	Policía Nacional
+T82	OTROS-SITUACION_LABORAL 2583 2592	compañero
+T83	OTROS-SITUACION_LABORAL 957 967	compañeros
+T84	PACIENTE-SITUACION_LABORAL 47 55	jubilado
+T85	PACIENTE-SITUACION_LABORAL 4086 4117	jubilado por incapacidad física
+T86	PACIENTE-PROFESION 801 817	policía nacional
+T87	OTROS-PROFESION 968 976	policías
+T88	OTROS-PROFESION 1022 1030	policías
+T89	SANITARIO-PROFESION 7549 7558	psicóloga
+T90	PACIENTE-SITUACION_LABORAL 1077 1104	se reincorporó a su trabajo

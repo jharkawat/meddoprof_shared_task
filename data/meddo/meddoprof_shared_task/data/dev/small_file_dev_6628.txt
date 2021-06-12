@@ -1,0 +1,24 @@
+
+Consultó	O
+en	O
+el	O
+servicio	O
+de	O
+urgencias	O
+de	O
+nuestro	O
+centro	O
+por	O
+picos	O
+febriles	O
+vespertinos	O
+de	O
+una	O
+semana	O
+de	O
+duración	O
+junto	O
+con	O
+sudoración	O
+profusa	O
+.	O

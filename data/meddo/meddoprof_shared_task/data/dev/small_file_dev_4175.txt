@@ -1,0 +1,7 @@
+
+Talla	O
+:	O
+5	O
+pies	O
+6	O
+pulgadas	O

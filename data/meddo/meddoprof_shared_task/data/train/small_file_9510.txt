@@ -1,0 +1,19 @@
+
+A	O
+la	O
+auscultación	O
+presenta	O
+tonos	O
+rítmicos	O
+a	O
+buena	O
+frecuencia	O
+,	O
+sin	O
+soplos	O
+y	O
+buen	O
+murmullo	O
+vesicular	O
+bilateral	O
+.	O

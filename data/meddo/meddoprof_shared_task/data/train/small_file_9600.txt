@@ -1,0 +1,18 @@
+
+Anatomía	O
+patológica	O
+biopsia	O
+esplénica	O
+con	O
+presencia	O
+de	O
+parásitos	O
+dentro	O
+del	O
+sistema	O
+mononuclear	O
+fagocítico	O
+compatibles	O
+con	O
+Leishmania	O
+.	O

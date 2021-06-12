@@ -1,0 +1,9 @@
+
+P	O
+/	O
+A	O
+:	O
+100	O
+/	O
+60	O
+mmHg	O

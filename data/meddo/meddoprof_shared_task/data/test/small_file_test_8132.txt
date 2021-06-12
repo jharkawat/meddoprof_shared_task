@@ -1,0 +1,6 @@
+
+Diagnóstico	O
+:	O
+neoplasia	O
+endobronquial	O
+.	O

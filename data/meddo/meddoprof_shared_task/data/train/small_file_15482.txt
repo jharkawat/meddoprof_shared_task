@@ -1,0 +1,16 @@
+
+Respiratorio	O
+,	O
+cardiovascular	O
+,	O
+digestivo	O
+,	O
+genito	O
+urinario	O
+y	O
+neurológico	O
+sin	O
+lesiones	O
+clínicas	O
+evidentes	O
+.	O

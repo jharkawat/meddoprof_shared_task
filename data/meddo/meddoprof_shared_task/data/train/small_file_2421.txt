@@ -1,0 +1,8 @@
+
+Clínicamente	O
+persiste	O
+la	O
+alergia	O
+a	O
+huevo	O
+.	O

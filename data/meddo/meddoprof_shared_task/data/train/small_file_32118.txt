@@ -1,0 +1,15 @@
+
+Atención	O
+por	O
+primer	O
+episodio	O
+psicótico	O
+4	O
+años	O
+antes	O
+,	O
+sin	O
+realizar	O
+posterior	O
+seguimiento	O
+.	O

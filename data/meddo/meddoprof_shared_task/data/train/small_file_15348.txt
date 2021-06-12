@@ -1,0 +1,15 @@
+
+Esta	O
+infección	O
+fue	O
+adquirida	O
+mientras	O
+trabajaba	B-PROFESION
+en	I-PROFESION
+la	I-PROFESION
+"	I-PROFESION
+montaña	I-PROFESION
+"	I-PROFESION
+de	O
+Portoviejo	O
+.	O

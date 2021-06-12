@@ -1,0 +1,23 @@
+
+Se	O
+observa	O
+persistencia	O
+tumoral	O
+a	O
+nivel	O
+del	O
+borde	O
+de	O
+resección	O
+superior	O
+,	O
+inferior	O
+e	O
+izquierdo	O
+y	O
+de	O
+los	O
+tejidos	O
+blandos	O
+retrosacros	O
+.	O

@@ -1,0 +1,24 @@
+
+Enfermedad	O
+coronaria	O
+de	O
+2	O
+vasos	O
+:	O
+DA	O
+proximal	O
+severa	O
+con	O
+reestenosis	O
+intrastent	O
+y	O
+DA	O
+media	O
+y	O
+distal	O
+graves	O
+;	O
+Cx	O
+distal	O
+moderada	O
+.	O

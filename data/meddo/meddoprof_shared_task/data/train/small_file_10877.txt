@@ -1,0 +1,12 @@
+
+Está	O
+previsto	O
+progresar	O
+ingesta	O
+hídrica	O
+y	O
+reducir	O
+el	O
+aporte	O
+parenteral	O
+.	O

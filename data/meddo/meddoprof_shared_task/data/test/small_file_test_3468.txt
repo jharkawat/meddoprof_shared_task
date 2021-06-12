@@ -1,0 +1,11 @@
+
+Se	O
+realizó	O
+extraccion	O
+de	O
+líquido	O
+pleural	O
+y	O
+biopsia	O
+escisional	O
+.	O

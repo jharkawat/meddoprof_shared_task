@@ -1,0 +1,24 @@
+
+Tras	O
+once	O
+días	O
+de	O
+ingreso	O
+se	O
+procedió	O
+al	O
+alta	O
+por	O
+encontrarse	O
+asintomático	O
+,	O
+continuando	O
+con	O
+el	O
+tratamiento	O
+establecido	O
+hasta	O
+completar	O
+14	O
+días	O
+.	O

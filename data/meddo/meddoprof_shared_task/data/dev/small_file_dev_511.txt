@@ -1,0 +1,23 @@
+
+En	O
+junio	O
+de	O
+2007	O
+,	O
+ingresó	O
+por	O
+primera	O
+vez	O
+en	O
+nuestro	O
+servicio	O
+con	O
+diagnóstico	O
+al	O
+alta	O
+de	O
+depresión	O
+mayor	O
+y	O
+TOC	O
+.	O

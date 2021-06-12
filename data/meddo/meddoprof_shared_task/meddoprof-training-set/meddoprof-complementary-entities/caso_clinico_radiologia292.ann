@@ -1,0 +1,18 @@
+T1	SINTOMA 104 112	gonalgia
+T2	SINTOMA 233 257	dolor lateral de rodilla
+T3	PROCEDIMIENTO 211 224	examen físico
+T4	PROCEDIMIENTO 280 306	Rx y RM de rodilla derecha
+T5	PROCEDIMIENTO 309 327	Rx rodilla derecha
+T6	PROCEDIMIENTO 538 559	RM de rodilla derecha
+T7	NEG 21 24	sin
+T8	NSCO 25 60	antecedentes médicos de importancia
+T9	NEG 145 147	no
+T10	NSCO 148 159	invalidante
+T11	NEG 381 383	no
+T12	NSCO 384 394	osificante
+T13	NEG 503 506	sin
+T14	NSCO 507 534	otros hallazgos patológicos
+T15	ORG_VIVO 0 8	Paciente
+T16	ENFERMEDAD 373 477	fibroma no osificante en el aspecto anteromedial de la región metafisio-diafisiaria de la tibia proximal
+T17	ENFERMEDAD 860 906	Lesión por estrés de la fisis distal del fémur
+T18	PACIENTE-ACTIVIDAD 62 89	cadete de escuela de fútbol

@@ -1,0 +1,11 @@
+
+Varón	O
+,	O
+64	O
+años	O
+,	O
+no	O
+alergias	O
+medicamentosas	O
+conocidas	O
+.	O

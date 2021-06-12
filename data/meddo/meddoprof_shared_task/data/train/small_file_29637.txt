@@ -1,0 +1,20 @@
+
+En	O
+el	O
+hemograma	O
+aparece	O
+neutropenia	O
+leve	O
+(	O
+1880	O
+neutrófilos	O
+/	O
+μl	O
+,	O
+leucocitos	O
+dentro	O
+de	O
+la	O
+normalidad	O
+)	O
+.	O

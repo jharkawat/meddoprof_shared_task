@@ -1,0 +1,24 @@
+
+En	O
+la	O
+exploración	O
+neurológica	O
+destacaba	O
+obnubilación	O
+,	O
+leve	O
+rigidez	O
+de	O
+nuca	O
+y	O
+lenguaje	O
+ininteligible	O
+que	O
+mejoró	O
+con	O
+el	O
+descenso	O
+de	O
+la	O
+fiebre	O
+.	O

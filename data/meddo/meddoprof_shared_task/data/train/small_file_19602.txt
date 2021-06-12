@@ -1,0 +1,11 @@
+
+El	O
+paciente	O
+es	O
+parcialmente	O
+consciente	O
+de	O
+su	O
+enfermedad	O
+psiquiátrica	O
+.	O

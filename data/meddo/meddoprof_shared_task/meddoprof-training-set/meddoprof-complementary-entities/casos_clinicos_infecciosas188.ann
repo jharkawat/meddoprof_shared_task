@@ -1,0 +1,318 @@
+T1	SINTOMA 548 555	fumador
+T2	SINTOMA 628 635	bebedor
+T3	SINTOMA 870 886	malestar general
+T4	SINTOMA 889 896	astenia
+T5	SINTOMA 925 936	hipertermia
+T6	SINTOMA 972 979	náuseas
+T7	SINTOMA 991 997	vómito
+T8	SINTOMA 1019 1038	cefalea holocraneal
+T9	SINTOMA 1041 1061	dolor interescapular
+T10	SINTOMA 1075 1085	sudoración
+T11	SINTOMA 1088 1111	quebrantamiento general
+T12	SINTOMA 1154 1157	tos
+T13	SINTOMA 1161 1174	expectoración
+T14	SINTOMA 1176 1199	sintomatología urinaria
+T15	SINTOMA 1203 1239	alteraciones del tránsito intestinal
+T16	SINTOMA 1244 1251	prurito
+T17	SINTOMA 1255 1262	coluria
+T18	SINTOMA 1296 1311	pérdida de peso
+T19	SINTOMA 1626 1633	Afebril
+T20	SINTOMA 1635 1654	buen estado general
+T21	SINTOMA 1656 1665	orientado
+T22	SINTOMA 1668 1679	colaborador
+T23	SINTOMA 1681 1689	Eupneico
+T24	SINTOMA 1732 1746	normocoloreado
+T25	SINTOMA 1771 1795	Tonos cardiacos rítmicos
+T26	SINTOMA 1812 1827	soplos audibles
+T27	SINTOMA 1892 1906	Abdomen blando
+T28	SINTOMA 1912 1926	organomegalias
+T29	SINTOMA 1930 1941	peritonismo
+T30	SINTOMA 2070 2085	rigidez de nuca
+T31	SINTOMA 2128 2138	consciente
+T32	SINTOMA 2311 2321	dismetrías
+T33	SINTOMA 2603 2631	movimientos tónico- clónicos
+T34	SINTOMA 2634 2659	postura de descerebración
+T35	SINTOMA 2797 2805	cianosis
+T36	SINTOMA 3388 3401	consolidación
+T37	SINTOMA 3558 3598	ocupación de senos de etmoides y maxilar
+T38	SINTOMA 4462 4490	deterioro del estado general
+T39	SINTOMA 4502 4509	cefalea
+T40	SINTOMA 4512 4518	fiebre
+T41	SINTOMA 5153 5162	debilidad
+T42	SINTOMA 5164 5171	cefalea
+T43	SINTOMA 5173 5179	fiebre
+T44	SINTOMA 5292 5300	letargia
+T45	SINTOMA 5302 5311	confusión
+T46	SINTOMA 5384 5391	estupor
+T47	SINTOMA 5393 5405	convulsiones
+T48	SINTOMA 5407 5418	hemiparesia
+T49	SINTOMA 5756 5763	cefalea
+T50	SINTOMA 5765 5771	fiebre
+T51	SINTOMA 5774 5789	rigidez de nuca
+T52	SINTOMA 5936 5970	alteración del nivel de conciencia
+T53	SINTOMA 5972 5978	fiebre
+T54	SINTOMA 5980 5992	convulsiones
+T55	SINTOMA 5995 6016	focalidad neurológica
+T56	SINTOMA 6630 6637	cefalea
+T57	SINTOMA 6661 6673	convulsiones
+T58	SINTOMA 6696 6714	fiebre persistente
+T59	SINTOMA 6895 6915	déficit neurológicos
+T60	SINTOMA 6950 6957	cefalea
+T61	SINTOMA 6962 6969	vómitos
+T62	SINTOMA 6972 6984	convulsiones
+T63	SINTOMA 7158 7165	cefalea
+T64	SINTOMA 7167 7179	convulsiones
+T65	SINTOMA 7181 7188	vómitos
+T66	SINTOMA 7190 7197	sincope
+T67	SINTOMA 7199 7224	alteraciones conductuales
+T68	SINTOMA 7227 7248	focalidad neurológica
+T69	SINTOMA 9106 9113	cefalea
+T70	SINTOMA 9162 9169	afebril
+T71	SINTOMA 9392 9404	leucocitosis
+T72	SINTOMA 9642 9648	fiebre
+T73	SINTOMA 10366 10392	excesiva tensión emocional
+T74	SINTOMA 10836 10848	asintomático
+T75	PROCEDIMIENTO 1119 1141	anamnesis por aparatos
+T76	PROCEDIMIENTO 1570 1588	exploración física
+T77	PROCEDIMIENTO 2042 2065	Exploración neurológica
+T78	PROCEDIMIENTO 2872 2886	oxigenoterapia
+T79	PROCEDIMIENTO 2917 2936	analítica de sangre
+T80	PROCEDIMIENTO 2957 2966	hemograma
+T81	PROCEDIMIENTO 3237 3252	test de tóxicos
+T82	PROCEDIMIENTO 3268 3283	benzodiacepinas
+T83	PROCEDIMIENTO 3431 3451	radiografía de tórax
+T84	PROCEDIMIENTO 3453 3475	radiografía de abdomen
+T85	PROCEDIMIENTO 3490 3502	TC de cráneo
+T86	PROCEDIMIENTO 3724 3751	frotis de sangre periférica
+T87	PROCEDIMIENTO 3929 3943	punción lumbar
+T88	PROCEDIMIENTO 4577 4591	punción lumbar
+T89	PROCEDIMIENTO 4901 4939	tratamiento corticoideo/inmunosupresor
+T90	PROCEDIMIENTO 5509 5524	antimicrobianos
+T91	PROCEDIMIENTO 5535 5551	análisis del LCR
+T92	PROCEDIMIENTO 7279 7310	antiinflamatorios no esteroides
+T93	PROCEDIMIENTO 8486 8510	estudios microbiológicos
+T94	PROCEDIMIENTO 8696 8708	TC de cráneo
+T95	PROCEDIMIENTO 9424 9447	tratamiento corticoideo
+T96	PROCEDIMIENTO 9736 9748	hemocultivos
+T97	PROCEDIMIENTO 10099 10111	antibiograma
+T98	PROCEDIMIENTO 10348 10351	EEG
+T99	PROCEDIMIENTO 10453 10465	RMN cerebral
+T100	PROCEDIMIENTO 10520 10532	RMN cerebral
+T101	NEG 165 167	no
+T102	NSCO 168 179	condensante
+T103	UNC 206 213	posible
+T104	USCO 214 239	brucelosis en la infancia
+T105	NEG 316 319	sin
+T106	NSCO 320 334	complicaciones
+T107	NEG 353 355	no
+T108	NSCO 356 380	sigue tratamiento alguno
+T109	NEG 495 498	sin
+T110	NSCO 499 529	causa recogida en su historial
+T111	NEG 692 694	no
+T112	NSCO 695 770	ha realizado viajes recientemente fuera de su localidad ni salidas al campo
+T113	NEG 1143 1145	no
+T114	NSCO 1146 1239	refiere tos ni expectoración, sintomatología urinaria ni alteraciones del tránsito intestinal
+T115	NEG 1241 1243	no
+T116	NSCO 1244 1262	prurito ni coluria
+T117	NEG 1285 1287	no
+T118	NSCO 1288 1311	comenta pérdida de peso
+T119	NEG 1402 1404	no
+T120	NSCO 1405 1447	podía relacionar con ninguna circunstancia
+T121	NEG 1449 1451	no
+T122	NSCO 1452 1519	se ha visualizado lesiones dérmicas ni recuerda picaduras recientes
+T123	NEG 1521 1523	No
+T124	NSCO 1524 1561	refiere relaciones sexuales de riesgo
+T125	NEG 1626 1633	Afebril
+T126	NEG 1690 1693	sin
+T127	NSCO 1694 1712	aportes de oxígeno
+T128	NEG 1808 1811	sin
+T129	NSCO 1812 1827	soplos audibles
+T130	NEG 1860 1863	sin
+T131	NSCO 1864 1890	otros ruidos respiratorios
+T132	NEG 1908 1911	sin
+T133	NSCO 1912 1941	organomegalias ni peritonismo
+T134	NEG 1943 1945	No
+T135	NSCO 1946 1975	lesiones dérmicas destacables
+T136	NEG 1978 1980	no
+T137	NSCO 1981 2040	se palpan adenopatías en cadenas ganglionares superficiales
+T138	NEG 2067 2069	no
+T139	NSCO 2070 2085	rigidez de nuca
+T140	NEG 2117 2126	negativos
+T141	NEG 2308 2310	No
+T142	NSCO 2311 2340	dismetrías ni diadococinesias
+T143	NEG 2356 2359	sin
+T144	NSCO 2360 2412	lateralización ni aumento de la base de sustentación
+T145	NEG 2671 2675	cede
+T146	NSCO 2676 2690	con clonazepam
+T147	NEG 2710 2712	no
+T148	NSCO 2713 2746	presenta relajación de esfínteres
+T149	NEG 3220 3229	negativos
+T150	NEG 3364 3366	no
+T151	NSCO 3367 3401	se observan focos de consolidación
+T152	NEG 3632 3645	descartándose
+T153	NSCO 3646 3682	signos de isquemia aguda establecida
+T154	NEG 4440 4452	inespecífica
+T155	UNC 4601 4612	sospecha de
+T156	USCO 4613 4623	meningitis
+T157	UNC 4640 4654	compatible con
+T158	USCO 4655 4678	meningitis linfocitaria
+T159	NEG 5180 5182	no
+T160	NSCO 5183 5220	muy elevada y cambios de personalidad
+T161	UNC 5829 5837	probable
+T162	USCO 5838 5873	el desarrollo de crisis convulsivas
+T163	NEG 6407 6409	No
+T164	NSCO 6410 6421	infecciosas
+T165	NEG 6823 6825	no
+T166	NSCO 6826 6844	Hodgkin extranodal
+T167	NEG 7297 7299	no
+T168	NSCO 7300 7310	esteroides
+T169	NEG 8795 8806	se sospechó
+T170	NSCO 8807 8831	inicialmente listeriosis
+T171	NEG 9162 9169	afebril
+T172	NEG 9210 9212	No
+T173	NSCO 9213 9249	presentó nuevos episodios comiciales
+T174	NEG 9613 9622	negativos
+T175	NEG 9712 9721	negativas
+T176	NEG 9791 9800	negativos
+T177	NEG 9871 9880	negativas
+T178	NSCO 9881 9895	a las 72 horas
+T179	NEG 10033 10036	sin
+T180	NSCO 10037 10111	poderse recuperar microorganismos viables para realización de antibiograma
+T181	NEG 10393 10396	sin
+T182	NSCO 10397 10445	recoger actividad paroxística ni otras anomalías
+T183	NEG 10646 10658	asintomático
+T184	NEG 10836 10848	asintomático
+T185	NEG 10893 10895	No
+T186	NSCO 10896 10986	quedan registrados nuevos ingresos hospitalarios o consultas a Urgencias desde el referido
+T187	FARMACO 434 448	ciprofloxacino
+T188	FARMACO 1705 1712	oxígeno
+T189	FARMACO 2680 2690	clonazepam
+T190	FARMACO 7313 7325	cotrimoxazol
+T191	FARMACO 8745 8756	Ceftriaxona
+T192	FARMACO 8772 8782	Ampicilina
+T193	FARMACO 10230 10253	amoxicilina/clavulánico
+T194	ORG_VIVO 231 239	infancia
+T195	ORG_VIVO 466 493	médico de Atención Primaria
+T196	ORG_VIVO 572 578	tabaco
+T197	ORG_VIVO 811 819	Animales
+T198	ORG_VIVO 840 845	perro
+T199	ORG_VIVO 4063 4078	microorganismos
+T200	ORG_VIVO 4091 4104	micobacterias
+T201	ORG_VIVO 4115 4120	virus
+T202	ORG_VIVO 4135 4144	neumococo
+T203	ORG_VIVO 4320 4323	VIH
+T204	ORG_VIVO 4396 4404	paciente
+T205	ORG_VIVO 4792 4814	Listeria monocytogenes
+T206	ORG_VIVO 4850 4859	pacientes
+T207	ORG_VIVO 5603 5627	Streptococcus pneumoniae
+T208	ORG_VIVO 5630 5652	Neisseria meningitidis
+T209	ORG_VIVO 6073 6078	VHS 1
+T210	ORG_VIVO 6079 6082	y 2
+T211	ORG_VIVO 6084 6095	Enterovirus
+T212	ORG_VIVO 6097 6118	virus varicela zóster
+T213	ORG_VIVO 6120 6123	VVZ
+T214	ORG_VIVO 6127 6142	virus West Nile
+T215	ORG_VIVO 6206 6229	Criptococcus neoformans
+T216	ORG_VIVO 6259 6268	pacientes
+T217	ORG_VIVO 6531 6540	pacientes
+T218	ORG_VIVO 7607 7615	paciente
+T219	ORG_VIVO 7680 7685	perro
+T220	ORG_VIVO 7781 7800	Capnocytophaga spp.
+T221	ORG_VIVO 7867 7876	pacientes
+T222	ORG_VIVO 7899 7907	animales
+T223	ORG_VIVO 7924 7929	perro
+T224	ORG_VIVO 7932 7936	gato
+T225	ORG_VIVO 7949 7959	reservorio
+T226	ORG_VIVO 7987 8004	Coxiella burnetii
+T227	ORG_VIVO 8146 8166	Borrelia burgdorferi
+T228	ORG_VIVO 8242 8251	garrapata
+T229	ORG_VIVO 8515 8523	paciente
+T230	ORG_VIVO 8992 9017	microorganismos patógenos
+T231	ORG_VIVO 9062 9070	paciente
+T232	ORG_VIVO 9299 9307	paciente
+T233	ORG_VIVO 9536 9541	virus
+T234	ORG_VIVO 9543 9554	enterovirus
+T235	ORG_VIVO 9556 9561	VHS 1
+T236	ORG_VIVO 9561 9564	, 2
+T237	ORG_VIVO 9567 9570	VVZ
+T238	ORG_VIVO 9589 9598	neumococo
+T239	ORG_VIVO 9657 9668	C. burnetti
+T240	ORG_VIVO 9671 9686	Leptospira spp.
+T241	ORG_VIVO 9689 9704	Bartonella spp.
+T242	ORG_VIVO 10007 10032	Capnocytophaga canimorsus
+T243	ORG_VIVO 10055 10070	microorganismos
+T244	ORG_VIVO 10537 10545	paciente
+T245	ORG_VIVO 10827 10835	paciente
+T246	ORG_VIVO 11000 11008	paciente
+T247	ORG_VIVO 11089 11095	perros
+T248	ORG_VIVO 11141 11155	microorganismo
+T249	ORG_VIVO 11359 11367	paciente
+T250	ENFERMEDAD 22 40	bronquitis crónica
+T251	ENFERMEDAD 102 139	insuficiencia respiratoria secundaria
+T252	ENFERMEDAD 142 191	infección respiratoria no condensante por gripe A
+T253	ENFERMEDAD 214 224	brucelosis
+T254	ENFERMEDAD 294 315	absceso isquiorrectal
+T255	ENFERMEDAD 1358 1386	herida abierta en el tobillo
+T256	ENFERMEDAD 1470 1487	lesiones dérmicas
+T257	ENFERMEDAD 1991 2040	adenopatías en cadenas ganglionares superficiales
+T258	ENFERMEDAD 2554 2571	crisis convulsiva
+T259	ENFERMEDAD 2971 2984	plaquetopenia
+T260	ENFERMEDAD 3656 3670	isquemia aguda
+T261	ENFERMEDAD 4320 4323	VIH
+T262	ENFERMEDAD 4326 4334	zoonosis
+T263	ENFERMEDAD 4547 4564	crisis convulsiva
+T264	ENFERMEDAD 4613 4623	meningitis
+T265	ENFERMEDAD 4655 4678	meningitis linfocitaria
+T266	ENFERMEDAD 4752 4763	Infecciones
+T267	ENFERMEDAD 4764 4788	* Meningitis bacterianas
+T268	ENFERMEDAD 4789 4814	1- Listeria monocytogenes
+T269	ENFERMEDAD 4828 4846	meningoencefalitis
+T270	ENFERMEDAD 4880 4896	inmunodeprimidos
+T271	ENFERMEDAD 4978 4995	cirrosis hepática
+T272	ENFERMEDAD 4997 5014	diabetes mellitus
+T273	ENFERMEDAD 5016 5043	insuficiencia renal crónica
+T274	ENFERMEDAD 5046 5062	neoplasia activa
+T275	ENFERMEDAD 5068 5090	Meningitis tuberculosa
+T276	ENFERMEDAD 5407 5418	hemiparesia
+T277	ENFERMEDAD 5420 5424	coma
+T278	ENFERMEDAD 5429 5461	Meningitis bacteriana decapitada
+T279	ENFERMEDAD 5597 5652	medio Streptococcus pneumoniae y Neisseria meningitidis
+T280	ENFERMEDAD 5691 5723	infección por Treponema pallidum
+T281	ENFERMEDAD 5855 5873	crisis convulsivas
+T282	ENFERMEDAD 5878 5904	Meningoencefalitis víricas
+T283	ENFERMEDAD 6147 6166	Meningitis fúngicas
+T284	ENFERMEDAD 6168 6229	Enfermedad oportunista, provocada por Criptococcus neoformans
+T285	ENFERMEDAD 6269 6285	inmunodeprimidos
+T286	ENFERMEDAD 6339 6357	meningoencefalitis
+T287	ENFERMEDAD 6388 6401	criptococomas
+T288	ENFERMEDAD 6426 6450	Arteritis de la temporal
+T289	ENFERMEDAD 6479 6489	vasculitis
+T290	ENFERMEDAD 6717 6740	síndrome constitucional
+T291	ENFERMEDAD 6745 6770	Linfoma primario cerebral
+T292	ENFERMEDAD 6815 6844	linfoma no Hodgkin extranodal
+T293	ENFERMEDAD 6895 6915	déficit neurológicos
+T294	ENFERMEDAD 6995 7013	tumores cerebrales
+T295	ENFERMEDAD 7018 7041	lesión tumoral cerebral
+T296	ENFERMEDAD 7062 7072	metástasis
+T297	ENFERMEDAD 7107 7119	glioblastoma
+T298	ENFERMEDAD 7122 7132	meningioma
+T299	ENFERMEDAD 7342 7353	Sarcoidosis
+T300	ENFERMEDAD 7364 7413	meningitis aséptica por inflamación granulomatosa
+T301	ENFERMEDAD 7820 7837	sepsis fulminante
+T302	ENFERMEDAD 7840 7863	meningitis linfocitaria
+T303	ENFERMEDAD 7877 7893	inmunodeprimidos
+T304	ENFERMEDAD 8114 8166	Enfermedad de Lyme: causada por Borrelia burgdorferi
+T305	ENFERMEDAD 8266 8336	meningitis linfocitaria con afectación cerebelosa y de pares craneales
+T306	ENFERMEDAD 8551 8575	Enfermedades Infecciosas
+T307	ENFERMEDAD 8820 8831	listeriosis
+T308	ENFERMEDAD 9392 9404	leucocitosis
+T309	ENFERMEDAD 9530 9533	TBC
+T310	ENFERMEDAD 10490 10518	atrofia de vermis cerebeloso
+T311	ENFERMEDAD 10554 10582	atrofia de vermis cerebeloso
+T312	ENFERMEDAD 11033 11047	herida abierta
+T313	ENFERMEDAD 11223 11262	infección por Capnocytophaga canimorsus
+T314	ENFERMEDAD 11267 11294	consumo excesivo de alcohol
+T315	ENFERMEDAD 11315 11355	Meningitis por Capnocytophaga canimorsus
+T316	ENFERMEDAD 11372 11387	enolismo activo
+T317	PACIENTE-SITUACION_LABORAL 784 809	en situación de desempleo
+T318	SANITARIO-PROFESION 466 493	médico de Atención Primaria

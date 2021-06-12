@@ -1,0 +1,21 @@
+
+Dentro	O
+de	O
+los	O
+marcadores	O
+tumorales	O
+,	O
+sólo	O
+era	O
+positivo	O
+el	O
+Ca	O
+19	O
+,	O
+9	O
+(	O
+1	O
+.	O
+067	O
+)	O
+.	O

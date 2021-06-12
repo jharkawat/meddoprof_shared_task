@@ -1,0 +1,12 @@
+
+Se	O
+deriva	O
+al	O
+equipo	B-PROFESION
+de	I-PROFESION
+soporte	I-PROFESION
+y	I-PROFESION
+cuidado	I-PROFESION
+paliativo	I-PROFESION
+domiciliario	I-PROFESION
+.	O

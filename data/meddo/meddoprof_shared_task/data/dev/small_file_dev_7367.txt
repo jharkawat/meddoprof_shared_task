@@ -1,0 +1,16 @@
+
+La	O
+angiomatosis	O
+bacilar	O
+sería	O
+otro	O
+diagnóstico	O
+a	O
+plantear	O
+,	O
+causada	O
+por	O
+la	O
+Bartonella	O
+henselae	O
+.	O

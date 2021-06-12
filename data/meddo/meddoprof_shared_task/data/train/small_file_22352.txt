@@ -1,0 +1,25 @@
+
+-	O
+Radiografía	O
+de	O
+tórax	O
+(	O
+realizada	O
+tras	O
+cuatro	O
+días	O
+de	O
+-	O
+hospitalización	O
+)	O
+:	O
+no	O
+se	O
+detectan	O
+infiltrados	O
+pulmonares	O
+ni	O
+otras	O
+imágenes	O
+importantes	O
+.	O

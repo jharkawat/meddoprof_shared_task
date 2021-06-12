@@ -1,0 +1,24 @@
+
+El	O
+padre	O
+no	O
+pudo	O
+hacerse	O
+cargo	O
+de	O
+la	O
+niña	O
+,	O
+trabajaba	B-SITUACION_LABORAL
+todo	I-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+día	I-SITUACION_LABORAL
+y	O
+no	O
+tenía	O
+familia	O
+para	O
+que	O
+le	O
+ayudara	O
+.	O

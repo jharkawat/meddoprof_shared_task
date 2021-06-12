@@ -1,0 +1,23 @@
+
+Tres	O
+días	O
+antes	O
+de	O
+su	O
+asistencia	O
+a	O
+Urgencias	O
+había	O
+decidido	O
+dejar	O
+de	O
+inyectarse	O
+morfina	O
+con	O
+el	O
+objetivo	O
+de	O
+abandonar	O
+su	O
+consumo	O
+.	O

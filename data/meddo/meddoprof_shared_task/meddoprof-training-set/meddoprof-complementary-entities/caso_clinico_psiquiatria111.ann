@@ -1,0 +1,205 @@
+T1	SINTOMA 380 390	hipertimia
+T2	SINTOMA 407 416	verborrea
+T3	SINTOMA 447 455	insomnio
+T4	SINTOMA 1370 1378	embarazo
+T5	SINTOMA 1833 1841	falleció
+T6	SINTOMA 2944 2965	oscilaciones anímicas
+T7	SINTOMA 5176 5186	embarazada
+T8	SINTOMA 5774 5784	embarazada
+T9	SINTOMA 6619 6649	alteración de la función renal
+T10	SINTOMA 7542 7551	verborrea
+T11	SINTOMA 7553 7568	insomnio global
+T12	SINTOMA 7570 7583	irritabilidad
+T13	SINTOMA 7586 7596	hipertimia
+T14	SINTOMA 7842 7851	orientada
+T15	SINTOMA 7896 7906	Taquilalia
+T16	SINTOMA 7908 7920	taquipsiquia
+T17	SINTOMA 7923 7958	aceleramiento de procesos psíquicos
+T18	SINTOMA 8042 8051	irritable
+T19	SINTOMA 8054 8063	disfórica
+T20	SINTOMA 8146 8162	ideación suicida
+T21	SINTOMA 8234 8260	elevación de la creatinina
+T22	SINTOMA 8275 8310	disminución del filtrado glomerular
+T23	SINTOMA 8376 8405	disminución de la hemoglobina
+T24	SINTOMA 8533 8541	embarazo
+T25	SINTOMA 8936 8953	ánimo hipertímico
+T26	SINTOMA 8959 8981	sensación de bienestar
+T27	SINTOMA 8983 9017	sobrevaloración de sus capacidades
+T28	SINTOMA 9097 9106	verborrea
+T29	SINTOMA 9113 9143	pérdida de la distancia social
+T30	SINTOMA 9153 9161	insomnio
+T31	SINTOMA 9326 9333	eutimia
+T32	PROCEDIMIENTO 3453 3483	tratamiento psicofarmacológico
+T33	PROCEDIMIENTO 4327 4352	terapia electroconvulsiva
+T34	PROCEDIMIENTO 6191 6198	cesárea
+T35	PROCEDIMIENTO 6255 6272	lactancia materna
+T36	PROCEDIMIENTO 7791 7818	Exploración psicopatológica
+T37	PROCEDIMIENTO 8547 8563	tóxicos en orina
+T38	PROCEDIMIENTO 8596 8611	benzodiacepinas
+T39	PROCEDIMIENTO 9456 9486	tratamiento psicofarmacológico
+T40	PROCEDIMIENTO 9881 9894	sesión de TEC
+T41	UNC 334 348	compatible con
+T42	USCO 349 363	fase maniforme
+T43	NEG 769 771	No
+T44	NSCO 772 813	refiere alergias medicamentosas conocidas
+T45	NEG 1102 1114	retirada del
+T46	NSCO 1115 1122	fármaco
+T47	NEG 1219 1221	No
+T48	NSCO 1222 1278	constan otros antecedentes médico-quirúrgicos de interés
+T49	NEG 1417 1420	sin
+T50	NSCO 1421 1435	complicaciones
+T51	NEG 2032 2040	finalizó
+T52	NSCO 2041 2063	los estudios primarios
+T53	NEG 2402 2404	no
+T54	NSCO 2405 2417	contributiva
+T55	NEG 3290 3300	orienta de
+T56	NSCO 3301 3325	trastorno bipolar tipo I
+T57	NEG 3356 3358	no
+T58	NSCO 3359 3368	consiguió
+T59	NEG 4195 4198	sin
+T60	NSCO 4199 4205	lograr
+T61	NEG 5222 5231	suspender
+T62	NSCO 5232 5246	el tratamiento
+T63	NEG 5261 5263	no
+T64	NSCO 5264 5298	se realizó consejo preconcepcional
+T65	NEG 5306 5308	no
+T66	NSCO 5309 5375	había verbalizado en las consultas su deseo de quedarse embarazada
+T67	NEG 5474 5481	retirar
+T68	NSCO 5482 5496	el tratamiento
+T69	NEG 5660 5663	sin
+T70	NSCO 5664 5694	lograr mejoría de los síntomas
+T71	NEG 5800 5802	no
+T72	NSCO 5803 5855	se consigue una remisión completa del cuadro clínico
+T73	NEG 6240 6242	No
+T74	NSCO 6243 6272	optó por la lactancia materna
+T75	UNC 6437 6444	posible
+T76	USCO 6445 6458	en su proceso
+T77	NEG 6667 6678	retirada de
+T78	NSCO 6679 6697	las sales de litio
+T79	NEG 8065 8067	No
+T80	NSCO 8068 8124	se evidencian alteraciones del contenido del pensamiento
+T81	NEG 8142 8145	Sin
+T82	NSCO 8146 8162	ideación suicida
+T83	NEG 8633 8641	negativo
+T84	NEG 9592 9603	se suspende
+T85	NSCO 9604 9616	la asenapina
+T86	UNC 10778 10785	pudiera
+T87	USCO 10786 10811	desempeñar un rol laboral
+T88	NEG 10870 10881	retirada de
+T89	NSCO 10882 10900	las sales de litio
+T90	FARMACO 1020 1034	sales de litio
+T91	FARMACO 3204 3209	litio
+T92	FARMACO 3228 3238	olanzapina
+T93	FARMACO 3509 3514	litio
+T94	FARMACO 3576 3586	olanzapina
+T95	FARMACO 3591 3602	risperidona
+T96	FARMACO 3618 3628	quetiapina
+T97	FARMACO 3658 3666	diazepam
+T98	FARMACO 3919 3924	litio
+T99	FARMACO 3943 3954	risperidona
+T100	FARMACO 4118 4123	litio
+T101	FARMACO 4163 4174	risperidona
+T102	FARMACO 4764 4769	litio
+T103	FARMACO 4797 4808	risperidona
+T104	FARMACO 4825 4835	quetiapina
+T105	FARMACO 4853 4863	clonazepam
+T106	FARMACO 5021 5026	litio
+T107	FARMACO 5041 5052	risperidona
+T108	FARMACO 5634 5645	risperidona
+T109	FARMACO 5887 5898	risperidona
+T110	FARMACO 5920 5930	quetiapina
+T111	FARMACO 5979 5984	litio
+T112	FARMACO 6015 6026	risperidona
+T113	FARMACO 6038 6048	quetiapina
+T114	FARMACO 6692 6697	litio
+T115	FARMACO 6719 6728	valproato
+T116	FARMACO 6780 6789	asenapina
+T117	FARMACO 6809 6820	risperidona
+T118	FARMACO 6832 6842	quetiapina
+T119	FARMACO 7670 7680	quetiapina
+T120	FARMACO 7702 7713	risperidona
+T121	FARMACO 7727 7736	asenapina
+T122	FARMACO 7753 7762	valproato
+T123	FARMACO 7778 7788	clotiapina
+T124	FARMACO 9524 9535	risperidona
+T125	FARMACO 9607 9616	asenapina
+T126	FARMACO 9646 9655	valproato
+T127	FARMACO 9672 9682	quetiapina
+T128	FARMACO 9693 9706	tolerabilidad
+T129	FARMACO 10895 10900	litio
+T130	ORG_VIVO 19 27	paciente
+T131	ORG_VIVO 45 50	mujer
+T132	ORG_VIVO 62 70	gestante
+T133	ORG_VIVO 210 218	paciente
+T134	ORG_VIVO 647 655	familiar
+T135	ORG_VIVO 738 748	personales
+T136	ORG_VIVO 1318 1324	pareja
+T137	ORG_VIVO 1330 1334	hija
+T138	ORG_VIVO 1468 1472	hija
+T139	ORG_VIVO 1546 1551	madre
+T140	ORG_VIVO 1554 1558	hija
+T141	ORG_VIVO 1593 1599	Padres
+T142	ORG_VIVO 1648 1656	paciente
+T143	ORG_VIVO 1661 1666	padre
+T144	ORG_VIVO 1686 1697	pensionista
+T145	ORG_VIVO 1703 1708	madre
+T146	ORG_VIVO 1725 1736	ama de casa
+T147	ORG_VIVO 1747 1754	hermano
+T148	ORG_VIVO 1825 1832	hermano
+T149	ORG_VIVO 1848 1856	infancia
+T150	ORG_VIVO 1935 1950	núcleo familiar
+T151	ORG_VIVO 1960 1967	familia
+T152	ORG_VIVO 2023 2031	paciente
+T153	ORG_VIVO 2095 2124	profesional de administrativa
+T154	ORG_VIVO 2698 2704	tabaco
+T155	ORG_VIVO 2761 2771	familiares
+T156	ORG_VIVO 2926 2934	paciente
+T157	ORG_VIVO 4956 4964	paciente
+T158	ORG_VIVO 5765 5773	paciente
+T159	ORG_VIVO 6177 6181	hija
+T160	ORG_VIVO 6265 6272	materna
+T161	ORG_VIVO 6369 6376	mujeres
+T162	ORG_VIVO 6897 6905	paciente
+T163	ORG_VIVO 7042 7046	hija
+T164	ORG_VIVO 7632 7640	paciente
+T165	ORG_VIVO 8915 8923	paciente
+T166	ORG_VIVO 10309 10314	madre
+T167	ORG_VIVO 10317 10321	hija
+T168	ORG_VIVO 11302 11312	psiquiatra
+T169	ORG_VIVO 11315 11324	psicóloga
+T170	ORG_VIVO 11367 11375	paciente
+T171	ORG_VIVO 11404 11413	pacientes
+T172	ORG_VIVO 11729 11737	paciente
+T173	ENFERMEDAD 144 169	trastorno bipolar tipo I.
+T174	ENFERMEDAD 380 390	hipertimia
+T175	ENFERMEDAD 555 573	episodios maníacos
+T176	ENFERMEDAD 780 803	alergias medicamentosas
+T177	ENFERMEDAD 815 837	Dermatitis de contacto
+T178	ENFERMEDAD 840 846	atopia
+T179	ENFERMEDAD 880 912	Condilomatosis vulvar y perianal
+T180	ENFERMEDAD 1155 1172	teratoma quístico
+T181	ENFERMEDAD 1193 1209	hernia umbilical
+T182	ENFERMEDAD 1800 1818	parálisis cerebral
+T183	ENFERMEDAD 1870 1898	enfermedad neurodegenerativa
+T184	ENFERMEDAD 2284 2307	enfermedad psiquiátrica
+T185	ENFERMEDAD 2790 2807	trastorno bipolar
+T186	ENFERMEDAD 3301 3325	trastorno bipolar tipo I
+T187	ENFERMEDAD 4076 4095	síntomas psicóticos
+T188	ENFERMEDAD 5593 5616	descompensación maníaca
+T189	ENFERMEDAD 7586 7596	hipertimia
+T190	ENFERMEDAD 8005 8022	Hipertimia franca
+T191	ENFERMEDAD 8126 8140	Insomnio mixto
+T192	ENFERMEDAD 10353 10358	DSM V
+T193	ENFERMEDAD 10359 10383	Trastorno Bipolar Tipo I
+T194	ENFERMEDAD 10422 10428	296.43
+T195	ENFERMEDAD 11425 11448	Trastorno Mental Severo
+T196	FAMILIAR-SITUACION_LABORAL 1725 1736	ama de casa
+T197	FAMILIAR-SITUACION_LABORAL 1686 1697	pensionista
+T198	OTROS-PROFESION 2989 3034	profesionales fuera del ámbito de la medicina
+T199	SANITARIO-PROFESION 11302 11312	psiquiatra
+T200	FAMILIAR-SITUACION_LABORAL 1767 1785	institucionalizado
+T201	PACIENTE-PROFESION 2309 2369	Ha trabajado en diversos locales del sector de la hostelería
+T202	PACIENTE-SITUACION_LABORAL 2374 2401	beneficiaria de una pensión
+T203	PACIENTE-SITUACION_LABORAL 2446 2465	65% de discapacidad
+T204	PACIENTE-SITUACION_LABORAL 2032 2063	finalizó los estudios primarios
+T205	SANITARIO-PROFESION 11315 11324	psicóloga

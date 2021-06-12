@@ -1,0 +1,5 @@
+
+Esquizofrenia	O
+paranoide	O
+conocida	O
+.	O

@@ -1,0 +1,21 @@
+
+Con	O
+su	O
+marido	O
+habla	O
+poco	O
+y	O
+comparte	O
+poco	O
+tiempo	O
+,	O
+más	O
+los	O
+fines	O
+de	O
+semana	O
+,	O
+por	O
+su	O
+trabajo	O
+.	O

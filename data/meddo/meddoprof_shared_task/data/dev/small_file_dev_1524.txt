@@ -1,0 +1,11 @@
+
+Vía	O
+biliar	O
+intra	O
+/	O
+extra	O
+hepática	O
+de	O
+calibre	O
+normal	O
+.	O

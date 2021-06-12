@@ -1,0 +1,25 @@
+
+Se	O
+inició	O
+tratamiento	O
+con	O
+ácido	O
+retinoico	O
+al	O
+0	O
+.	O
+05	O
+%	O
+crema	O
+(	O
+aplicación	O
+nocturna	O
+)	O
+y	O
+fluticasona	O
+crema	O
+(	O
+aplicación	O
+diurna	O
+)	O
+.	O

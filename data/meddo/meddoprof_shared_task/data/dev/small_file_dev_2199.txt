@@ -1,0 +1,24 @@
+
+Entre	O
+los	O
+mismos	O
+,	O
+ha	O
+presentado	O
+una	O
+evolución	O
+estable	O
+,	O
+aunque	O
+persisten	O
+síntomas	O
+residuales	O
+,	O
+principalmente	O
+negativos	O
+(	O
+abulia	O
+,	O
+alogia	O
+)	O
+.	O

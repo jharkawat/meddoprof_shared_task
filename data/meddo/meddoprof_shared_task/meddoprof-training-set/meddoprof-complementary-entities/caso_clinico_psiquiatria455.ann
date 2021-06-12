@@ -1,0 +1,162 @@
+T1	SINTOMA 192 216	alteraciones de conducta
+T2	SINTOMA 219 240	agitación psicomotriz
+T3	SINTOMA 1303 1312	inquietud
+T4	SINTOMA 1335 1359	bloqueos del pensamiento
+T5	SINTOMA 1389 1411	sensación de extrañeza
+T6	SINTOMA 2016 2024	embarazo
+T7	SINTOMA 2801 2835	dificultad para poder concentrarse
+T8	SINTOMA 3619 3640	agitación psicomotriz
+T9	SINTOMA 3643 3667	alteraciones de conducta
+T10	SINTOMA 3952 3969	heteroagresividad
+T11	SINTOMA 3972 3980	ansiedad
+T12	SINTOMA 4115 4124	paranoias
+T13	SINTOMA 4251 4259	inquieto
+T14	SINTOMA 4262 4273	desconfiado
+T15	SINTOMA 4681 4690	orientado
+T16	SINTOMA 4858 4881	alucinaciones auditivas
+T17	SINTOMA 5485 5492	mutismo
+T18	SINTOMA 5582 5591	agitación
+T19	SINTOMA 5623 5641	flexibilidad cérea
+T20	SINTOMA 5643 5653	ecopraxias
+T21	SINTOMA 5656 5667	negativismo
+T22	SINTOMA 5669 5698	Signo de la almohada positivo
+T23	SINTOMA 5818 5827	febrícula
+T24	SINTOMA 6664 6680	hipomimia facial
+T25	SINTOMA 6682 6694	bradicinesia
+T26	SINTOMA 6696 6707	negativismo
+T27	SINTOMA 6710 6719	ecopraxia
+T28	PROCEDIMIENTO 2026 2031	parto
+T29	PROCEDIMIENTO 5206 5229	Exploración neurológica
+T30	PROCEDIMIENTO 5750 5762	sueroterapia
+T31	PROCEDIMIENTO 6004 6007	TAC
+T32	PROCEDIMIENTO 6010 6022	RM de cráneo
+T33	PROCEDIMIENTO 6024 6027	EEG
+T34	PROCEDIMIENTO 6120 6136	serología de VIH
+T35	PROCEDIMIENTO 6153 6194	estudio de autoinmunidad y ceruloplasmina
+T36	PROCEDIMIENTO 6487 6502	benzodiacepinas
+T37	PROCEDIMIENTO 7157 7170	sesión de TEC
+T38	NEG 735 738	sin
+T39	NSCO 739 772	antecedentes somáticos de interés
+T40	NEG 1901 1904	sin
+T41	NSCO 1905 1962	seguimiento por Salud Mental ni tratamiento farmacológico
+T42	NEG 2186 2188	no
+T43	NSCO 2189 2224	llega a terminar 2o de Bachillerato
+T44	NEG 3161 3163	no
+T45	NSCO 3164 3182	ha trabajado nunca
+T46	NEG 3229 3232	sin
+T47	NSCO 3233 3261	mayor relevancia al respecto
+T48	UNC 3672 3680	probable
+T49	USCO 3681 3712	contexto de abuso de sustancias
+T50	NEG 4613 4616	sin
+T51	NSCO 4617 4638	querer comer ni beber
+T52	UNC 4822 4832	Impresiona
+T53	USCO 4833 4881	la presencia de posibles alucinaciones auditivas
+T54	NEG 4884 4886	no
+T55	NSCO 4887 4912	se descartan las visuales
+T56	NEG 4914 4917	sin
+T57	NSCO 4918 4934	poder explorarlo
+T58	NEG 5034 5039	Niega
+T59	NSCO 5040 5059	ideación autolítica
+T60	UNC 5308 5322	compatible con
+T61	USCO 5323 5370	síndrome catatónico el día posterior al ingreso
+T62	NEG 6434 6443	Se retira
+T63	NSCO 6444 6460	el antipsicótico
+T64	NEG 6887 6897	Se reciben
+T65	NSCO 6898 6954	los resultados de las pruebas complementarias realizadas
+T66	NEG 6963 6972	negativos
+T67	NEG 6974 6987	descartándose
+T68	UNC 7022 7036	posibilidad de
+T69	USCO 7037 7076	un cuadro orgánico cerebral o sistémico
+T70	NEG 7198 7208	desaparece
+T71	NSCO 7209 7224	el cuadro motor
+T72	NEG 7768 7783	desaparición de
+T73	NSCO 7784 7808	los síntomas catatónicos
+T74	NEG 8735 8738	sin
+T75	NSCO 8739 8815	referir secundarismos de forma espontánea, ni al explorarlos específicamente
+T76	NEG 8928 8931	sin
+T77	NSCO 8932 8965	evidencia de afectación cognitiva
+T78	FARMACO 1112 1122	olanzapina
+T79	FARMACO 1132 1141	lorazepam
+T80	FARMACO 1562 1572	fluoxetina
+T81	FARMACO 1583 1605	clorazepato dipotásico
+T82	FARMACO 1817 1827	fluoxetina
+T83	FARMACO 3743 3754	haloperidol
+T84	FARMACO 3756 3766	biperideno
+T85	FARMACO 3769 3777	diazepam
+T86	FARMACO 3846 3856	olanzapina
+T87	FARMACO 5268 5279	haloperidol
+T88	FARMACO 5282 5290	diazepam
+T89	FARMACO 6505 6513	heparina
+T90	FARMACO 8010 8019	clozapina
+T91	FARMACO 8259 8268	clozapina
+T92	FARMACO 8662 8671	clozapina
+T93	ORG_VIVO 0 5	Varón
+T94	ORG_VIVO 285 295	familiares
+T95	ORG_VIVO 304 314	familiares
+T96	ORG_VIVO 325 332	paterna
+T97	ORG_VIVO 371 380	bisabuela
+T98	ORG_VIVO 382 392	tía abuela
+T99	ORG_VIVO 399 405	primos
+T100	ORG_VIVO 410 415	padre
+T101	ORG_VIVO 418 424	Padres
+T102	ORG_VIVO 454 462	paciente
+T103	ORG_VIVO 512 517	madre
+T104	ORG_VIVO 524 531	hermana
+T105	ORG_VIVO 592 597	padre
+T106	ORG_VIVO 605 617	progenitores
+T107	ORG_VIVO 698 706	familiar
+T108	ORG_VIVO 723 733	personales
+T109	ORG_VIVO 813 821	cannabis
+T110	ORG_VIVO 923 931	cannabis
+T111	ORG_VIVO 1202 1212	psiquiatra
+T112	ORG_VIVO 1278 1286	paciente
+T113	ORG_VIVO 1656 1663	juvenil
+T114	ORG_VIVO 2006 2012	padres
+T115	ORG_VIVO 2070 2078	infancia
+T116	ORG_VIVO 2086 2091	chico
+T117	ORG_VIVO 2143 2149	amigos
+T118	ORG_VIVO 2264 2272	cannabis
+T119	ORG_VIVO 2496 2504	cannabis
+T120	ORG_VIVO 2670 2678	familiar
+T121	ORG_VIVO 3118 3125	familia
+T122	ORG_VIVO 3201 3208	parejas
+T123	ORG_VIVO 3461 3466	padre
+T124	ORG_VIVO 3577 3585	paciente
+T125	ORG_VIVO 4064 4071	público
+T126	ORG_VIVO 4228 4236	paciente
+T127	ORG_VIVO 4964 4972	paciente
+T128	ORG_VIVO 5380 5388	paciente
+T129	ORG_VIVO 6133 6136	VIH
+T130	ORG_VIVO 6138 6141	VHC
+T131	ORG_VIVO 6144 6151	sífilis
+T132	ORG_VIVO 6396 6404	cannabis
+T133	ORG_VIVO 6740 6745	padre
+T134	ORG_VIVO 7230 7238	paciente
+T135	ORG_VIVO 7488 7497	pacientes
+T136	ORG_VIVO 7559 7568	pacientes
+T137	ORG_VIVO 7873 7881	paciente
+T138	ORG_VIVO 8400 8408	paciente
+T139	ORG_VIVO 8855 8863	cannabis
+T140	ORG_VIVO 9115 9120	padre
+T141	ENFERMEDAD 351 369	cuadros psicóticos
+T142	ENFERMEDAD 779 793	asma bronquial
+T143	ENFERMEDAD 912 931	consumo de cannabis
+T144	ENFERMEDAD 1495 1529	trastorno de ansiedad generalizada
+T145	ENFERMEDAD 3528 3545	ENFERMEDAD ACTUAL
+T146	ENFERMEDAD 3546 3547	A
+T147	ENFERMEDAD 3693 3712	abuso de sustancias
+T148	ENFERMEDAD 3972 3980	ansiedad
+T149	ENFERMEDAD 5323 5342	síndrome catatónico
+T150	ENFERMEDAD 6144 6151	sífilis
+T151	ENFERMEDAD 6197 6208	DIAGNÓSTICO
+T152	ENFERMEDAD 6209 6233	Esquizofrenia catatónica
+T153	ENFERMEDAD 6235 6244	F20.2 CIE
+T154	ENFERMEDAD 7040 7064	cuadro orgánico cerebral
+T155	ENFERMEDAD 8446 8466	fenómenos psicóticos
+T156	OTROS-PROFESION 168 175	policía
+T157	SANITARIO-PROFESION 1202 1212	psiquiatra
+T158	OTROS-PROFESION 178 186	bomberos
+T159	FAMILIAR-PROFESION 622 634	funcionarios
+T160	PACIENTE-SITUACION_LABORAL 2151 2183	Completa la Educación Secundaria
+T161	PACIENTE-SITUACION_LABORAL 3161 3182	no ha trabajado nunca
+T162	PACIENTE-ACTIVIDAD 3290 3318	le gusta hacer deporte (remo

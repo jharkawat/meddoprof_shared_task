@@ -1,0 +1,27 @@
+
+Mujer	O
+de	O
+24	O
+años	O
+,	O
+profesional	B-PROFESION
+en	I-PROFESION
+administración	I-PROFESION
+y	I-PROFESION
+finanzas	I-PROFESION
+,	O
+sin	O
+alergias	O
+medicamentosas	O
+conocidas	O
+,	O
+sin	O
+hábitos	O
+tóxicos	O
+,	O
+sin	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+.	O

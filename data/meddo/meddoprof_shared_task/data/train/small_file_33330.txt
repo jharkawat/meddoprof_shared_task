@@ -1,0 +1,12 @@
+
+Revisar	O
+el	O
+conocimiento	O
+que	O
+el	O
+paciente	O
+tiene	O
+de	O
+cada	O
+medicación	O
+.	O

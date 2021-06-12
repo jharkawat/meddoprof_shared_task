@@ -1,0 +1,10 @@
+
+No	O
+se	O
+visualizan	O
+adenomegalias	O
+o	O
+líquido	O
+libre	O
+intrabdominal	O
+.	O

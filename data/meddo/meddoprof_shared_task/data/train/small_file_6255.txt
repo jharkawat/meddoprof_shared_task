@@ -1,0 +1,9 @@
+
+Tiene	O
+una	O
+hija	O
+con	O
+Síndrome	O
+de	O
+Down	O
+.	O

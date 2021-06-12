@@ -1,0 +1,8 @@
+
+Si	O
+son	O
+mías	O
+,	O
+son	O
+mías	O
+.	O

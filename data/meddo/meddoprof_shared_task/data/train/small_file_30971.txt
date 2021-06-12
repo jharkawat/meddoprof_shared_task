@@ -1,0 +1,18 @@
+
+Consumo	O
+diario	O
+de	O
+cannabis	O
+y	O
+puntual	O
+de	O
+alucinógenos	O
+(	O
+LSD	O
+)	O
+en	O
+los	O
+dos	O
+últimos	O
+años	O
+.	O

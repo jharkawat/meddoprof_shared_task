@@ -1,0 +1,11 @@
+
+No	O
+se	O
+evidenció	O
+exantema	O
+en	O
+piel	O
+ni	O
+déficit	O
+neurológico	O
+.	O

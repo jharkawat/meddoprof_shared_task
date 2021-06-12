@@ -1,0 +1,7 @@
+
+Presenta	O
+un	O
+deterioro	O
+cognitivo	O
+moderado	O
+.	O

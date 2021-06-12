@@ -1,0 +1,10 @@
+
+No	O
+signos	O
+de	O
+intoxicación	O
+/	O
+abstinencia	O
+de	O
+tóxicos	O
+.	O

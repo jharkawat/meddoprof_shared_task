@@ -1,0 +1,17 @@
+
+Actualmente	O
+,	O
+la	O
+auxiliar	B-PROFESION
+no	O
+presenta	O
+ninguna	O
+secuela	O
+y	O
+está	O
+recuperada	O
+totalmente	O
+de	O
+su	O
+lesión	O
+.	O

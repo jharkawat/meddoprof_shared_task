@@ -1,0 +1,20 @@
+
+Inmediatamente	O
+dejó	O
+al	O
+bebé	O
+en	O
+la	O
+clase	O
+y	O
+fue	O
+a	O
+la	O
+sala	O
+de	O
+urgencias	O
+para	O
+que	O
+la	O
+atiendan	O
+.	O

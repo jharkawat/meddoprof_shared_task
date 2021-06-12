@@ -1,0 +1,24 @@
+
+El	O
+paciente	O
+está	O
+en	O
+politerapia	O
+y	O
+la	O
+evolución	O
+es	O
+tórpida	O
+incluso	O
+en	O
+un	O
+centro	O
+asistido	O
+como	O
+en	O
+el	O
+que	O
+se	B-SITUACION_LABORAL
+encuentra	I-SITUACION_LABORAL
+internado	I-SITUACION_LABORAL
+.	O

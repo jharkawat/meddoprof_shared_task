@@ -1,0 +1,10 @@
+
+Sano	O
+,	O
+no	O
+toma	O
+medicación	O
+,	O
+no	O
+fuma	O
+.	O

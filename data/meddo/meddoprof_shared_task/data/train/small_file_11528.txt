@@ -1,0 +1,14 @@
+
+Orina	O
+con	O
+microhematuria	O
+y	O
+920mg	O
+de	O
+proteinuria	O
+en	O
+orina	O
+de	O
+24	O
+horas	O
+.	O

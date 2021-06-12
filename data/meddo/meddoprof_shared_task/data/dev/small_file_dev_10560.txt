@@ -1,0 +1,12 @@
+
+No	O
+presenta	O
+lesiones	O
+cutáneas	O
+ni	O
+de	O
+anejos	O
+a	O
+otro	O
+nivel	O
+.	O

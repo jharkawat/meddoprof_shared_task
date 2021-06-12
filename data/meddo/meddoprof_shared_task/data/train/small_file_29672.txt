@@ -1,0 +1,7 @@
+
+No	O
+ingresos	O
+previos	O
+en	O
+UHP	O
+.	O

@@ -1,0 +1,5 @@
+
+VRDL	O
+:	O
+negativo	O
+.	O

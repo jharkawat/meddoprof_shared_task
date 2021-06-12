@@ -1,0 +1,123 @@
+T1	SINTOMA 417 438	agitación psicomotora
+T2	SINTOMA 441 455	desorientación
+T3	SINTOMA 457 483	acompañado de hemiparesia
+T4	SINTOMA 496 524	desviación de comisura bucal
+T5	SINTOMA 575 582	agitado
+T6	SINTOMA 584 592	Eupneico
+T7	SINTOMA 610 617	Afebril
+T8	SINTOMA 641 647	soplos
+T9	SINTOMA 677 753	Abdomen: blando, depresible, doloroso a la palpación profunda en hipogastrio
+T10	SINTOMA 785 791	edemas
+T11	SINTOMA 815 825	consciente
+T12	SINTOMA 840 849	orientado
+T13	SINTOMA 851 871	pupilas normocóricas
+T14	SINTOMA 891 916	desviación comisura bucal
+T15	SINTOMA 926 961	pérdida de fuerza 4/5 en hemicuerpo
+T16	SINTOMA 3155 3190	infiltrados algodonosos bilaterales
+T17	PROCEDIMIENTO 544 562	Exploración Física
+T18	PROCEDIMIENTO 720 753	palpación profunda en hipogastrio
+T19	PROCEDIMIENTO 1055 1064	Hemograma
+T20	PROCEDIMIENTO 1150 1170	Frotis de plasmodium
+T21	PROCEDIMIENTO 1181 1189	Rx tórax
+T22	PROCEDIMIENTO 1201 1213	TAC cerebral
+T23	PROCEDIMIENTO 1935 1947	RMN cerebral
+T24	PROCEDIMIENTO 2405 2419	punción lumbar
+T25	PROCEDIMIENTO 2525 2527	RT
+T26	PROCEDIMIENTO 2831 2844	Eco abdominal
+T27	PROCEDIMIENTO 3120 3140	radiografía de tórax
+T28	PROCEDIMIENTO 3535 3557	Biopsia de Médula ósea
+T29	PROCEDIMIENTO 3828 3859	antibióticos de amplio espectro
+T30	PROCEDIMIENTO 3885 3903	PCR de Médula ósea
+T31	NEG 161 163	No
+T32	NSCO 164 172	alergias
+T33	NEG 192 194	No
+T34	NSCO 195 216	otros hábitos tóxicos
+T35	NEG 218 220	No
+T36	NSCO 221 224	HTA
+T37	NEG 441 455	desorientación
+T38	NEG 610 617	Afebril
+T39	NEG 638 640	no
+T40	NSCO 641 647	soplos
+T41	NEG 653 656	sin
+T42	NSCO 657 675	ruidos patológicos
+T43	NEG 755 757	no
+T44	NSCO 758 775	masas ni megalias
+T45	NEG 782 784	no
+T46	NSCO 785 808	edemas ni signos de TVP
+T47	NEG 1171 1179	negativo
+T48	NEG 1831 1833	No
+T49	NSCO 1834 1879	se observan hemorragias intra ni extraaxiales
+T50	NEG 1881 1883	No
+T51	NSCO 1884 1931	se identifican signos de lesión isquémica aguda
+T52	UNC 2299 2310	sospecha de
+T53	USCO 2311 2333	Toxoplasmosis cerebral
+T54	NEG 2391 2393	No
+T55	NSCO 2394 2453	se realiza punción lumbar por riesgo de herniación cerebral
+T56	NEG 2802 2810	negativo
+T57	NEG 3523 3531	negativa
+T58	UNC 3571 3585	compatible con
+T59	USCO 3586 3606	pancitopenia central
+T60	NEG 3938 3946	negativo
+T61	NEG 3998 4006	negativo
+T62	FARMACO 2362 2374	Sulfadiazina
+T63	FARMACO 2377 2389	pirimetamina
+T64	FARMACO 2606 2614	Abacavir
+T65	FARMACO 2617 2627	Lamivudina
+T66	FARMACO 2630 2639	Darunavir
+T67	FARMACO 2642 2651	Ritonavir
+T68	FARMACO 3791 3808	metilprednisolona
+T69	ORG_VIVO 0 5	Varón
+T70	ORG_VIVO 323 328	Varón
+T71	ORG_VIVO 353 363	familiares
+T72	ORG_VIVO 1160 1170	plasmodium
+T73	ORG_VIVO 2234 2242	paciente
+T74	ORG_VIVO 2489 2492	VIH
+T75	ORG_VIVO 2667 2670	VHA
+T76	ORG_VIVO 2678 2681	VHB
+T77	ORG_VIVO 2682 2687	HbsAg
+T78	ORG_VIVO 2690 2697	AntiHbc
+T79	ORG_VIVO 2701 2708	AntiHbc
+T80	ORG_VIVO 2716 2719	HBe
+T81	ORG_VIVO 2728 2731	Hbe
+T82	ORG_VIVO 2735 2739	VHC-
+T83	ORG_VIVO 2741 2744	CMV
+T84	ORG_VIVO 2766 2769	Tox
+T85	ORG_VIVO 2812 2818	FTA BS
+T86	ORG_VIVO 3036 3044	paciente
+T87	ORG_VIVO 3480 3485	viral
+T88	ORG_VIVO 3486 3489	CMV
+T89	ORG_VIVO 3924 3937	micobacterias
+T90	ORG_VIVO 3952 3955	CMV
+T91	ORG_VIVO 3958 3977	herpes virus tipo 8
+T92	ORG_VIVO 4030 4054	Blastomyces dermatitidis
+T93	ORG_VIVO 4087 4095	paciente
+T94	ORG_VIVO 4272 4280	paciente
+T95	ORG_VIVO 4343 4346	VIH
+T96	ENFERMEDAD 174 190	Etilismo crónico
+T97	ENFERMEDAD 221 224	HTA
+T98	ENFERMEDAD 226 228	DM
+T99	ENFERMEDAD 231 234	DLP
+T100	ENFERMEDAD 472 493	hemiparesia izquierda
+T101	ENFERMEDAD 496 524	desviación de comisura bucal
+T102	ENFERMEDAD 805 808	TVP
+T103	ENFERMEDAD 1225 1361	lesiones parenquimatosas de bordes mal definidos, isodensas respecto al parénquima cerebral adyacente, de localización en región frontal
+T104	ENFERMEDAD 1564 1593	cerebritis versus metastático
+T105	ENFERMEDAD 1688 1730	colapso del VL derecho y tercer ventrículo
+T106	ENFERMEDAD 1758 1774	herniación uncal
+T107	ENFERMEDAD 1909 1931	lesión isquémica aguda
+T108	ENFERMEDAD 2053 2102	colapso de ventrículo ipsilateral y 3o ventrículo
+T109	ENFERMEDAD 2267 2291	Enfermedades Infecciosas
+T110	ENFERMEDAD 2311 2333	Toxoplasmosis cerebral
+T111	ENFERMEDAD 2434 2453	herniación cerebral
+T112	ENFERMEDAD 3586 3598	pancitopenia
+T113	ENFERMEDAD 3690 3705	hemofagocitosis
+T114	ENFERMEDAD 3732 3755	síndrome hemofagocítico
+T115	ENFERMEDAD 3958 3986	herpes virus tipo 8 positivo
+T116	ENFERMEDAD 4008 4054	Cultivo positivo para Blastomyces dermatitidis
+T117	ENFERMEDAD 4136 4160	disfunción multiorgánica
+T118	ENFERMEDAD 4162 4186	disfunción renal anúrica
+T119	ENFERMEDAD 4189 4208	acidosis metabólica
+T120	ENFERMEDAD 4213 4237	hiperlactacidemia severa
+T121	ENFERMEDAD 4343 4354	VIH ESTADIO
+T122	ENFERMEDAD 4361 4395	SOSPECHA DE TOXOPLASMOSIS CEREBRAL
+T123	PACIENTE-PROFESION 236 266	Trabaja en una fábrica de yeso

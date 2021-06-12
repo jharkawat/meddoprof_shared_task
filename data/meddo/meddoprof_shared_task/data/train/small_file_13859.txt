@@ -1,0 +1,25 @@
+
+Sin	O
+embargo	O
+en	O
+las	O
+últimas	O
+24horas	O
+se	O
+añade	O
+a	O
+la	O
+clínica	O
+del	O
+paciente	O
+ictericia	O
+y	O
+coluria	O
+que	O
+motivaron	O
+su	O
+consulta	O
+en	O
+este	O
+hospital	O
+.	O

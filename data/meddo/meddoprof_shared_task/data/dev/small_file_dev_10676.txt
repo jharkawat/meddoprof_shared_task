@@ -1,0 +1,7 @@
+
+Josep	O
+no	O
+tiene	O
+ninguna	O
+clínica	O
+.	O

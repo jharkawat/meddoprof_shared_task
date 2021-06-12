@@ -1,0 +1,17 @@
+
+La	O
+neumonía	O
+cavitada	O
+por	O
+P	O
+.	O
+aeruginosa	O
+puede	O
+ser	O
+fulminante	O
+sobre	O
+todo	O
+si	O
+asocia	O
+bacteriemia	O
+.	O

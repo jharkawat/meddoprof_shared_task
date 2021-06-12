@@ -1,0 +1,23 @@
+
+Al	O
+día	O
+siguiente	O
+empeora	O
+clínicamente	O
+pese	O
+a	O
+antibioterapia	O
+de	O
+amplio	O
+espectro	O
+,	O
+furosemida	O
+,	O
+corticoides	O
+y	O
+oxigenoterapia	O
+e	O
+ingresa	O
+a	O
+UCI	O
+.	O

@@ -1,0 +1,23 @@
+
+Se	O
+realiza	O
+gastrectomía	O
+2	O
+/	O
+3	O
+con	O
+gran	O
+dificultad	O
+por	O
+la	O
+rigidez	O
+del	O
+tejido	O
+,	O
+con	O
+reconstrucción	O
+en	O
+Y	O
+de	O
+Roux	O
+.	O

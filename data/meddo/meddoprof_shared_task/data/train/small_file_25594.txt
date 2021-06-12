@@ -1,0 +1,20 @@
+
+Nació	O
+en	O
+un	O
+pueblo	O
+de	O
+Vizcaya	O
+en	O
+donde	O
+pasó	O
+su	O
+infancia	O
+y	O
+los	O
+primeros	O
+años	O
+de	O
+su	O
+adolescencia	O
+.	O

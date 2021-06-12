@@ -1,0 +1,15 @@
+
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+84	O
+lpm	O
+,	O
+sin	O
+alteraciones	O
+en	O
+la	O
+repolarización	O
+.	O

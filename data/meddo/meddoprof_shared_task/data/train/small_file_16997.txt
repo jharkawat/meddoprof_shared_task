@@ -1,0 +1,11 @@
+
+Las	O
+arterias	O
+carótidas	O
+y	O
+temporales	O
+no	O
+mostraban	O
+signos	O
+patológicos	O
+.	O

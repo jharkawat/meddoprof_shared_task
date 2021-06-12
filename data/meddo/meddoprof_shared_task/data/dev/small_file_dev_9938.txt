@@ -1,0 +1,8 @@
+
+Arteria	O
+coronaria	O
+derecha	O
+:	O
+sin	O
+estenosis	O
+.	O

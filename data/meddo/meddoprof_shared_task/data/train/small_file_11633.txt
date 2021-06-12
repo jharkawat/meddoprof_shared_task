@@ -1,0 +1,12 @@
+
+Diagnosticada	O
+un	O
+mes	O
+antes	O
+del	O
+ingreso	O
+de	O
+síndrome	O
+mielodisplásico	O
+hipocelular	O
+.	O

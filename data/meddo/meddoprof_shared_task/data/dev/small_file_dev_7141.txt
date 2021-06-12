@@ -1,0 +1,22 @@
+
+Se	O
+realizó	O
+ecocardiograma	O
+transtorácico	O
+,	O
+en	O
+el	O
+que	O
+se	O
+informó	O
+de	O
+derrame	O
+pericárdico	O
+severo	O
+con	O
+datos	O
+ecocardiográficos	O
+de	O
+compromiso	O
+hemodinámico	O
+.	O

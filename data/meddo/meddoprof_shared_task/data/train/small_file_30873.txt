@@ -1,0 +1,6 @@
+
+Hemograma	O
+y	O
+electrocardiograma	O
+normales	O
+.	O

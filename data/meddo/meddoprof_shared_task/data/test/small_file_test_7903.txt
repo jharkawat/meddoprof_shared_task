@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+inicia	O
+el	O
+tratamiento	O
+sistémico	O
+con	O
+quimioterapia	O
+paliativa	O
+,	O
+esquema	O
+doxorrubicina	O
+-	O
+olaratumab	O
+completando	O
+un	O
+total	O
+de	O
+2	O
+ciclos	O
+.	O

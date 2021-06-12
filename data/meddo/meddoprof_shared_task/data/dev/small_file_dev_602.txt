@@ -1,0 +1,24 @@
+
+Ante	O
+los	O
+dolores	O
+articulares	O
+derivados	O
+de	O
+la	O
+hiperuricemia	O
+se	O
+abordó	O
+con	O
+tratamiento	O
+analgésico	O
+(	O
+paracetamol	O
+)	O
+y	O
+medidas	O
+dietéticas	O
+que	O
+resultaron	O
+efectivas	O
+.	O

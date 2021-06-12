@@ -1,0 +1,20 @@
+
+Estando	O
+su	O
+domicilio	O
+viendo	O
+la	O
+televisión	O
+sufre	O
+un	O
+episodio	O
+de	O
+pérdida	O
+súbita	O
+de	O
+conciencia	O
+con	O
+caída	O
+al	O
+suelo	O
+.	O

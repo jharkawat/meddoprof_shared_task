@@ -1,0 +1,9 @@
+
+Se	O
+aprecian	O
+otras	O
+adenopatías	O
+patológicas	O
+inguinales	O
+derechas	O
+.	O

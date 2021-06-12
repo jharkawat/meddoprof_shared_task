@@ -1,0 +1,11 @@
+
+-	O
+TAC	O
+:	O
+ligera	O
+atrofia	O
+cortico	O
+-	O
+subcortical	O
+difusa	O
+.	O

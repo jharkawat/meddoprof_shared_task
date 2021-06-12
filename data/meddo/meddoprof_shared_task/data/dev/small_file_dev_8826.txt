@@ -1,0 +1,12 @@
+
+Se	O
+recogen	O
+los	O
+antecedentes	O
+con	O
+dificultad	O
+por	O
+la	O
+barrera	O
+lingüística	O
+.	O

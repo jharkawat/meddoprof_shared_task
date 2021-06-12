@@ -1,0 +1,12 @@
+
+Médico	B-PROFESION
+:	O
+Jorge	O
+Rojo	O
+Álvaro	O
+NºCol	O
+:	O
+31	O
+28	O
+26086	O
+.	O

@@ -1,0 +1,18 @@
+
+Se	O
+evidenció	O
+la	O
+elevación	O
+de	O
+las	O
+aminotransferasas	O
+séricas	O
+al	O
+final	O
+de	O
+la	O
+segunda	O
+serie	O
+del	O
+tratamiento	O
+.	O

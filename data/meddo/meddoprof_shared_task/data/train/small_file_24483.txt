@@ -1,0 +1,6 @@
+
+Nunca	O
+trabajó	O
+como	O
+abogado	B-PROFESION
+.	O

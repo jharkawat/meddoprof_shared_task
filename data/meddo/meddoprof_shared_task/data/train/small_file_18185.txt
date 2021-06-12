@@ -1,0 +1,23 @@
+
+Manchas	O
+seniles	O
+en	O
+ambos	O
+miembros	O
+superiores	O
+,	O
+várices	O
+y	O
+microvárices	O
+en	O
+ambos	O
+miembros	O
+inferiores	O
+,	O
+hallus	O
+valgus	O
+en	O
+el	O
+pie	O
+izquierdo	O
+.	O

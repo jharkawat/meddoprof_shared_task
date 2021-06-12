@@ -1,0 +1,10 @@
+
+Tinción	O
+de	O
+Gram	O
+:	O
+no	O
+leucocitos	O
+ni	O
+bacterias	O
+.	O

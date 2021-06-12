@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+no	O
+tenía	O
+alergias	O
+a	O
+medicamentos	O
+conocidas	O
+,	O
+antecedentes	O
+no	O
+psiquiátricos	O
+de	O
+interés	O
+ni	O
+historia	O
+de	O
+consumo	O
+de	O
+tóxicos	O
+.	O

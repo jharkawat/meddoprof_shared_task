@@ -1,0 +1,24 @@
+
+El	O
+día	O
+14	O
+/	O
+11	O
+/	O
+2017	O
+recibe	O
+el	O
+primer	O
+ciclo	O
+de	O
+nivolumab	O
++	O
+ipilimumab	O
++	O
+paclitaxel	O
++	O
+carboplatino	O
+con	O
+adecuada	O
+tolerancia	O
+.	O

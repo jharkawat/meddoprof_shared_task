@@ -1,0 +1,20 @@
+
+A	O
+diferencia	O
+,	O
+en	O
+los	O
+tumores	O
+de	O
+composición	O
+,	O
+un	O
+clon	O
+neoplásico	O
+diverge	O
+en	O
+dos	O
+linajes	O
+celulares	O
+distintos	O
+.	O

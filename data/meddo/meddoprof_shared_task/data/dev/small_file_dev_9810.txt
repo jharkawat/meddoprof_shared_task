@@ -1,0 +1,15 @@
+
+Ha	O
+presentado	O
+clinica	O
+delirante	O
+y	O
+autorreferencial	O
+,	O
+que	O
+ha	O
+empeorado	O
+al	O
+suspender	O
+neurolépticos	O
+.	O

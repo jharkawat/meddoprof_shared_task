@@ -1,0 +1,19 @@
+
+Posteriormente	O
+se	O
+retiraron	O
+los	O
+antibióticos	O
+dado	O
+que	O
+los	O
+resultados	O
+de	O
+diversos	O
+cultivos	O
+de	O
+Líquido	O
+Cefalorraquídeo	O
+fueron	O
+negativos	O
+.	O

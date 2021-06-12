@@ -1,0 +1,21 @@
+
+Añadía	O
+disnea	O
+a	O
+moderados	O
+esfuerzos	O
+de	O
+aparición	O
+el	O
+día	O
+anterior	O
+,	O
+sin	O
+tos	O
+,	O
+expectoración	O
+ni	O
+otra	O
+clínica	O
+acompañante	O
+.	O

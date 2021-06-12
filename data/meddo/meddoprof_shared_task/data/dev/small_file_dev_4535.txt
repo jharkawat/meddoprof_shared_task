@@ -1,0 +1,23 @@
+
+Pieza	O
+dentaria	O
+en	O
+la	O
+emergencia	O
+del	O
+bronquio	O
+lobar	O
+inferior	O
+asociado	O
+a	O
+imágenes	O
+mucosas	O
+endoluminales	O
+distales	O
+con	O
+disposición	O
+de	O
+arbol	O
+en	O
+brote	O
+.	O

@@ -1,0 +1,5 @@
+
+Padece	O
+espondilitis	O
+anquilosante	O
+.	O

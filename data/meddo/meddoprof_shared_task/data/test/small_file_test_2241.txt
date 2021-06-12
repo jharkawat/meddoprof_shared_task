@@ -1,0 +1,8 @@
+
+Debilidad	O
+en	O
+el	O
+miembro	O
+superior	O
+derecho	O
+.	O

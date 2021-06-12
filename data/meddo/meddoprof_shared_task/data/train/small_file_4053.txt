@@ -1,0 +1,16 @@
+
+Nos	O
+cuenta	O
+está	O
+mejor	O
+,	O
+ya	O
+casi	O
+no	O
+le	O
+quedan	O
+lesiones	O
+en	O
+la	O
+piel	O
+.	O

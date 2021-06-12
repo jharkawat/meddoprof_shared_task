@@ -1,0 +1,20 @@
+
+Se	O
+nos	O
+refiere	O
+que	O
+había	O
+emigrado	O
+a	O
+Escocia	O
+en	O
+un	O
+contexto	O
+de	O
+búsqueda	O
+de	O
+trabajo	O
+un	O
+año	O
+antes	O
+.	O

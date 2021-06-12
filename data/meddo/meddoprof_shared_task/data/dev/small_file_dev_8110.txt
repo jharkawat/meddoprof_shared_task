@@ -1,0 +1,23 @@
+
+La	O
+auscultación	O
+cardiaca	O
+era	O
+rítmica	O
+y	O
+sin	O
+soplos	O
+,	O
+con	O
+tonos	O
+apagados	O
+,	O
+y	O
+en	O
+la	O
+auscultación	O
+respiratoria	O
+presentaba	O
+hipoventilación	O
+bibasal	O
+.	O

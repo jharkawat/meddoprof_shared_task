@@ -1,0 +1,9 @@
+
+La	O
+serie	O
+mieloide	O
+madura	O
+presente	O
+era	O
+hipogranular	O
+.	O

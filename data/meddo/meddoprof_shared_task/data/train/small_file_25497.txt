@@ -1,0 +1,8 @@
+
+Tiene	O
+formación	O
+en	O
+auxiliar	B-PROFESION
+de	I-PROFESION
+geriatría	I-PROFESION
+.	O

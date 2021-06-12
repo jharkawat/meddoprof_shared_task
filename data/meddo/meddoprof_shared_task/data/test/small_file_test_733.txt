@@ -1,0 +1,18 @@
+
+Medidas	O
+preventivas	O
+en	O
+la	O
+empresa	O
+:	O
+No	O
+disponía	O
+de	O
+guantes	O
+adecuados	O
+,	O
+tampoco	O
+mascarilla	O
+o	O
+gafas	O
+.	O

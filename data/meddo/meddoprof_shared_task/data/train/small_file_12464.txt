@@ -1,0 +1,11 @@
+
+Trombosis	O
+parcial	O
+de	O
+vena	O
+cava	O
+inferior	O
+y	O
+vena	O
+porta	O
+.	O

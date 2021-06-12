@@ -1,0 +1,7 @@
+
+No	O
+existen	O
+antecedentes	O
+psiquiátricos	O
+personales	O
+.	O

@@ -1,0 +1,12 @@
+
+-	O
+ElMazabraudsyndromesecaracterizapordisplasiafibrosaymixomasdetejblandos	O
+que	O
+suele	O
+superponerse	O
+con	O
+el	O
+McCune	O
+Albright	O
+syndrome	O
+.	O

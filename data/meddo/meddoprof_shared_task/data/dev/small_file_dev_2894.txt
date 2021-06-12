@@ -1,0 +1,10 @@
+
+Con	O
+su	O
+familia	O
+no	O
+hay	O
+muy	O
+buena	O
+relación	O
+.	O

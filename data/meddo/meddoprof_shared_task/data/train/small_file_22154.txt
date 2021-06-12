@@ -1,0 +1,25 @@
+
+Estos	O
+síntomas	O
+no	O
+han	O
+remitido	O
+con	O
+la	O
+medicación	O
+y	O
+culminan	O
+con	O
+un	O
+intento	O
+de	O
+suicidio	O
+que	O
+es	O
+el	O
+que	O
+motiva	O
+la	O
+consulta	O
+actual	O
+.	O

@@ -1,0 +1,8 @@
+
+No	O
+se	O
+palpa	O
+hepatomegalia	O
+ni	O
+esplenomegalia	O
+.	O

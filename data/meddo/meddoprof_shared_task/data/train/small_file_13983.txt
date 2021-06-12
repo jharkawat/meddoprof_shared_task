@@ -1,0 +1,16 @@
+
+Primeras	O
+Complementarias	O
+:	O
+Hemograma	O
+,	O
+bioquímica	O
+,	O
+ECG	O
+y	O
+radiografía	O
+torácica	O
+sin	O
+alteraciones	O
+relevantes	O
+.	O

@@ -1,0 +1,24 @@
+
+Mantenía	O
+posturas	O
+adoptadas	O
+pasivamente	O
+por	O
+el	O
+explorador	O
+(	O
+catatónicas	O
+)	O
+como	O
+,	O
+por	O
+ejemplo	O
+,	O
+mantener	O
+un	O
+brazo	O
+elevado	O
+durante	O
+unos	O
+segundos	O
+.	O

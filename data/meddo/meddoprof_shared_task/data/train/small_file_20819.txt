@@ -1,0 +1,17 @@
+
+En	O
+este	O
+contexto	O
+y	O
+buscando	O
+implementar	O
+la	O
+eficacia	O
+,	O
+planteamos	O
+iniciar	O
+tratamiento	O
+con	O
+Aripiprazol	O
+inyectable	O
+.	O

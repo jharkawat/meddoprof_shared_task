@@ -1,0 +1,18 @@
+
+TAC	O
+cérvico	O
+-	O
+toraco	O
+-	O
+abdomino	O
+-	O
+pélvico	O
+:	O
+Cuello	O
+:	O
+adenopatías	O
+de	O
+hasta	O
+15	O
+mm	O
+.	O

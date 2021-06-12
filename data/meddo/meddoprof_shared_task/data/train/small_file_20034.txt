@@ -1,0 +1,12 @@
+
+En	O
+aquel	O
+momento	O
+le	O
+hicieron	O
+pruebas	O
+toxicológicas	O
+que	O
+dieron	O
+negativo	O
+.	O

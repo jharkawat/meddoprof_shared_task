@@ -1,0 +1,63 @@
+T1	SINTOMA 296 304	acúfenos
+T2	SINTOMA 308 313	mareo
+T3	PROCEDIMIENTO 180 185	parto
+T4	PROCEDIMIENTO 359 389	exploración de cabeza y cuello
+T5	PROCEDIMIENTO 463 472	otoscopia
+T6	PROCEDIMIENTO 476 493	fondo del tímpano
+T7	PROCEDIMIENTO 520 533	timpanometría
+T8	PROCEDIMIENTO 547 558	audiometría
+T9	PROCEDIMIENTO 748 775	corticoides tópicos nasales
+T10	PROCEDIMIENTO 778 797	antibióticos orales
+T11	PROCEDIMIENTO 876 887	audiometría
+T12	PROCEDIMIENTO 964 1004	potenciales evocados auditivos de tronco
+T13	PROCEDIMIENTO 1006 1010	PEAT
+T14	PROCEDIMIENTO 1122 1169	Tomografía computerizada (TC) de hueso temporal
+T15	PROCEDIMIENTO 1186 1198	audiometrías
+T16	PROCEDIMIENTO 1302 1322	estudio audiométrico
+T17	PROCEDIMIENTO 1422 1438	estudio genético
+T18	UNC 48 59	sospecha de
+T19	USCO 60 70	hipoacusia
+T20	NEG 97 100	Sin
+T21	NSCO 101 165	antecedentes familiares de hipoacusia ni de patología sindrómica
+T22	NEG 214 217	sin
+T23	NSCO 218 229	incidencias
+T24	NEG 282 284	no
+T25	NSCO 285 313	presentaba acúfenos ni mareo
+T26	NEG 315 322	Tampoco
+T27	NSCO 323 353	refería antecedentes de otitis
+T28	NEG 402 404	no
+T29	NSCO 405 455	objetivándose signos de patología polimalformativa
+T30	NEG 827 842	desaparición de
+T31	NSCO 843 859	la otitis serosa
+T32	UNC 1028 1041	sugestivos de
+T33	USCO 1042 1076	hipoacusia neurosensorial moderada
+T34	NEG 1255 1257	no
+T35	NSCO 1258 1297	demostraron progresión de la hipoacusia
+T36	NEG 1853 1855	no
+T37	NSCO 1856 1909	siendo susceptible de tratamiento médico o quirúrgico
+T38	NEG 1941 1943	no
+T39	NSCO 1944 1983	se han objetivado cambios audiométricos
+T40	ORG_VIVO 0 8	Paciente
+T41	ORG_VIVO 32 39	familia
+T42	ORG_VIVO 114 124	familiares
+T43	ORG_VIVO 196 204	neonatal
+T44	ORG_VIVO 1339 1345	padres
+T45	ORG_VIVO 1451 1457	padres
+T46	ORG_VIVO 1468 1472	niña
+T47	ORG_VIVO 1537 1545	paciente
+T48	ORG_VIVO 1619 1624	madre
+T49	ORG_VIVO 1685 1690	padre
+T50	ENFERMEDAD 60 70	hipoacusia
+T51	ENFERMEDAD 128 138	hipoacusia
+T52	ENFERMEDAD 145 165	patología sindrómica
+T53	ENFERMEDAD 170 178	embarazo
+T54	ENFERMEDAD 347 353	otitis
+T55	ENFERMEDAD 581 597	hipoacusia mixta
+T56	ENFERMEDAD 704 727	otitis serosa bilateral
+T57	ENFERMEDAD 846 859	otitis serosa
+T58	ENFERMEDAD 892 917	hipoacusia neurosensorial
+T59	ENFERMEDAD 1042 1117	hipoacusia neurosensorial moderada, con umbral en 60 db y de origen coclear
+T60	ENFERMEDAD 1287 1297	hipoacusia
+T61	ENFERMEDAD 1560 1607	mutación M34T/N206S en el gen de la conexina 26
+T62	ENFERMEDAD 1764 1800	Hipoacusia neurosensorial secundaria
+T63	ENFERMEDAD 1806 1851	mutación M34T/N206S del gen de la conexina 26

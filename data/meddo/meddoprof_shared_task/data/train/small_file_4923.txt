@@ -1,0 +1,11 @@
+
+-	O
+Alérgenos	O
+de	O
+origen	O
+animal	O
+:	O
+Positivo	O
+a	O
+gamba	O
+.	O

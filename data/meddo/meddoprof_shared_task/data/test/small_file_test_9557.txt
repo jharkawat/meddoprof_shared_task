@@ -1,0 +1,11 @@
+
+Sin	O
+antecedentes	O
+personales	O
+de	O
+interés	O
+y	O
+sin	O
+tratamiento	O
+habitual	O
+.	O

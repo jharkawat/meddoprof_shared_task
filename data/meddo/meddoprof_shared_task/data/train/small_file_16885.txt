@@ -1,0 +1,21 @@
+
+La	O
+auscultación	O
+cardiopulmonar	O
+era	O
+normal	O
+y	O
+no	O
+presentaba	O
+alteraciones	O
+en	O
+el	O
+abdomen	O
+,	O
+las	O
+extremidades	O
+ni	O
+en	O
+la	O
+piel	O
+.	O

@@ -1,0 +1,116 @@
+T1	SINTOMA 102 126	alteraciones de conducta
+T2	SINTOMA 391 400	fallecido
+T3	SINTOMA 428 437	fallecido
+T4	SINTOMA 1046 1071	convulsiones disociativas
+T5	SINTOMA 1783 1791	inquieto
+T6	SINTOMA 2864 2885	agitación psicomotriz
+T7	SINTOMA 3197 3208	hiperalerta
+T8	SINTOMA 3233 3244	hipertímico
+T9	SINTOMA 4051 4067	alienación yoica
+T10	SINTOMA 4075 4083	insomnio
+T11	SINTOMA 4306 4317	DIAGNÓSTICO
+T12	SINTOMA 4811 4840	omnipotencia e hipercapacidad
+T13	SINTOMA 5444 5452	acatisia
+T14	SINTOMA 6060 6068	insomnio
+T15	PROCEDIMIENTO 1249 1279	tratamiento psicofarmacológico
+T16	PROCEDIMIENTO 4137 4146	hemograma
+T17	PROCEDIMIENTO 4214 4225	TAC craneal
+T18	NEG 225 228	sin
+T19	NSCO 229 234	hijos
+T20	NEG 695 697	no
+T21	NSCO 698 721	ha dado ningún problema
+T22	NEG 722 727	nunca
+T23	NSCO 727 728	"
+T24	NEG 1151 1153	no
+T25	NSCO 1154 1187	alergias medicamentosas conocidas
+T26	NEG 1189 1191	No
+T27	NSCO 1192 1202	IQ previas
+T28	NEG 1204 1206	No
+T29	NSCO 1207 1244	visto nunca en la red de Salud Mental
+T30	NEG 1246 1248	No
+T31	NSCO 1249 1297	tratamiento psicofarmacológico previo al ingreso
+T32	NEG 1349 1354	niega
+T33	NSCO 1355 1382	el consumo de otros tóxicos
+T34	NEG 2221 2223	no
+T35	NSCO 2224 2248	disponía de tal cantidad
+T36	UNC 2361 2367	podría
+T37	USCO 2368 2395	adquirir el anhelado objeto
+T38	NEG 2405 2413	negativa
+T39	NSCO 2414 2422	mostrada
+T40	NEG 3520 3522	no
+T41	NSCO 3523 3530	pueden"
+T42	NEG 3891 3893	no
+T43	NSCO 3894 3920	quiero que la policía sepa
+T44	NEG 3975 3977	No
+T45	NSCO 3978 4067	parecen existir fenómenos alucinatorios sensoperceptivos ni fenómenos de alienación yoica
+T46	NEG 4069 4074	Niega
+T47	NSCO 4075 4099	insomnio en días previos
+T48	NEG 4203 4212	negativos
+T49	NEG 4226 4229	sin
+T50	NSCO 4230 4254	hallazgos significativos
+T51	NEG 4267 4275	negativo
+T52	NSCO 4276 4292	a lúes, VIH, VHS
+T53	NEG 4355 4358	sin
+T54	NSCO 4359 4392	síntomas de esquizofrenia - F23.0
+T55	NEG 5898 5900	no
+T56	NSCO 5901 5970	presentando secundarismo reactivo alguno al tratamiento con clozapina
+T57	FARMACO 5071 5081	olanzapina
+T58	FARMACO 5154 5165	risperidona
+T59	FARMACO 5395 5406	aripiprazol
+T60	FARMACO 5520 5529	clozapina
+T61	FARMACO 5961 5970	clozapina
+T62	FARMACO 5991 6000	clozapina
+T63	FARMACO 6016 6026	clonazepam
+T64	ORG_VIVO 0 8	Paciente
+T65	ORG_VIVO 183 193	personales
+T66	ORG_VIVO 215 222	Soltero
+T67	ORG_VIVO 229 234	hijos
+T68	ORG_VIVO 236 242	Padres
+T69	ORG_VIVO 280 288	hermanos
+T70	ORG_VIVO 302 309	materna
+T71	ORG_VIVO 348 356	hermanos
+T72	ORG_VIVO 364 376	rama paterna
+T73	ORG_VIVO 422 427	padre
+T74	ORG_VIVO 469 477	paciente
+T75	ORG_VIVO 529 539	estudiante
+T76	ORG_VIVO 676 681	chico
+T77	ORG_VIVO 852 862	familiares
+T78	ORG_VIVO 864 869	madre
+T79	ORG_VIVO 1438 1446	educador
+T80	ORG_VIVO 1518 1526	paciente
+T81	ORG_VIVO 1854 1858	hijo
+T82	ORG_VIVO 2085 2093	paciente
+T83	ORG_VIVO 2455 2463	paciente
+T84	ORG_VIVO 2488 2499	trabajadora
+T85	ORG_VIVO 2704 2712	paciente
+T86	ORG_VIVO 3019 3029	psiquiatra
+T87	ORG_VIVO 3851 3859	personal
+T88	ORG_VIVO 4278 4282	lúes
+T89	ORG_VIVO 4284 4287	VIH
+T90	ORG_VIVO 4289 4292	VHS
+T91	ORG_VIVO 4294 4297	VEB
+T92	ORG_VIVO 4300 4303	CMV
+T93	ORG_VIVO 4979 4987	paciente
+T94	ORG_VIVO 5655 5663	paciente
+T95	ENFERMEDAD 405 416	cardiopatía
+T96	ENFERMEDAD 442 458	cáncer digestivo
+T97	ENFERMEDAD 965 984	trastorno psicótico
+T98	ENFERMEDAD 1008 1044	trastorno somatomorfo indiferenciado
+T99	ENFERMEDAD 1046 1071	convulsiones disociativas
+T100	ENFERMEDAD 1073 1085	pseudocrisis
+T101	ENFERMEDAD 1317 1346	consumo esporádico de alcohol
+T102	ENFERMEDAD 1385 1402	ENFERMEDAD ACTUAL
+T103	ENFERMEDAD 1403 1404	A
+T104	ENFERMEDAD 4318 4353	Trastorno psicótico agudo polimorfo
+T105	ENFERMEDAD 4371 4392	esquizofrenia - F23.0
+T106	ENFERMEDAD 6049 6057	ansiedad
+T107	PACIENTE-SITUACION_LABORAL 529 552	estudiante en un módulo
+T108	OTROS-PROFESION 3851 3889	personal que lo ingresa en el calabozo
+T109	OTROS-PROFESION 2763 2770	policía
+T110	OTROS-PROFESION 3908 3915	policía
+T111	OTROS-PROFESION 3394 3402	policías
+T112	SANITARIO-PROFESION 3019 3029	psiquiatra
+T113	PACIENTE-ACTIVIDAD 3407 3424	tocar la guitarra
+T114	OTROS-PROFESION 2488 2499	trabajadora
+T115	OTROS-PROFESION 1438 1466	educador del piso de acogida
+T116	OTROS-PROFESION 2274 2295	dependienta del local

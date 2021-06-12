@@ -1,0 +1,7 @@
+T1	NEG 42 45	sin
+T2	NSCO 46 107	antecedentes personales de interés a la cual le administraron
+T3	ORG_VIVO 17 41	estudiante de enfermería
+T4	ORG_VIVO 59 69	personales
+T5	ORG_VIVO 151 157	vacuna
+T6	ORG_VIVO 256 267	postvacunal
+T7	PACIENTE-SITUACION_LABORAL 17 27	estudiante

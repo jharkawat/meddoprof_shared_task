@@ -1,0 +1,22 @@
+
+El	O
+diagnóstico	O
+final	O
+es	O
+de	O
+discinesia	O
+tardía	O
+en	O
+paciente	O
+con	O
+trastorno	O
+de	O
+ideas	O
+delirantes	O
+de	O
+base	O
+y	O
+retraso	O
+mental	O
+leve	O
+.	O

@@ -1,0 +1,15 @@
+
+La	O
+lesión	O
+se	O
+habia	O
+desarrollado	O
+en	O
+pocas	O
+semanas	O
+y	O
+desde	O
+entonces	O
+permanecía	O
+estable	O
+.	O

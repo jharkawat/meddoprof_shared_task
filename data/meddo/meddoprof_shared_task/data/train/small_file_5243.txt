@@ -1,0 +1,5 @@
+
+Fermentos	O
+cardíacos	O
+normales	O
+.	O

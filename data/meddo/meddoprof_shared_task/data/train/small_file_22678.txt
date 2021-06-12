@@ -1,0 +1,21 @@
+
+1a	O
+)	O
+Aparece	O
+en	O
+el	O
+período	O
+preescolar	O
+,	O
+la	O
+dificultad	O
+es	O
+episódica	O
+y	O
+existe	O
+un	O
+alto	O
+porcentaje	O
+de	O
+recuperación	O
+.	O

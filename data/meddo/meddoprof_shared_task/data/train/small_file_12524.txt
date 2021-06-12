@@ -1,0 +1,22 @@
+
+Durante	O
+el	O
+ingreso	O
+en	O
+planta	O
+de	O
+hospitalización	O
+,	O
+se	O
+completó	O
+estudio	O
+con	O
+las	O
+pruebas	O
+complementarias	O
+reflejadas	O
+en	O
+la	O
+tabla	O
+1	O
+.	O

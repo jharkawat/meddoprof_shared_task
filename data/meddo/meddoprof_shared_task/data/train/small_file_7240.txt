@@ -1,0 +1,18 @@
+
+Las	O
+radiografías	O
+objetivaron	O
+una	O
+osteomielitis	O
+por	O
+lo	O
+que	O
+se	O
+procedió	O
+a	O
+la	O
+amputación	O
+del	O
+ortejo	O
+comprometido	O
+.	O

@@ -1,0 +1,24 @@
+
+TA	O
+90	O
+/	O
+70mmHg	O
+,	O
+FC	O
+140	O
+lpm	O
+,	O
+saturación	O
+de	O
+O2	O
+95	O
+%	O
+con	O
+ventimask	O
+al	O
+28	O
+%	O
+a	O
+6	O
+litros	O
+.	O

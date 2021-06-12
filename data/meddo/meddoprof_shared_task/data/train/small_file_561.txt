@@ -1,0 +1,15 @@
+
+En	O
+un	O
+principio	O
+apreciamos	O
+congelaciones	O
+en	O
+la	O
+nariz	O
+y	O
+en	O
+los	O
+miembros	O
+inferiores	O
+.	O

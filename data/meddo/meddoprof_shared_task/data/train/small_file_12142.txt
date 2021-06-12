@@ -1,0 +1,13 @@
+
+Ecocardiograma	O
+transtorácico	O
+:	O
+ventrículo	O
+izquierdo	O
+con	O
+diámetros	O
+normales	O
+,	O
+sin	O
+hipertrofia	O
+.	O

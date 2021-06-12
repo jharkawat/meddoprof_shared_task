@@ -1,0 +1,25 @@
+
+En	O
+la	O
+última	O
+sesión	O
+se	O
+prescribieron	O
+antibióticos	O
+sistémicos	O
+(	O
+Metronidazol	O
+500	O
+mg	O
+y	O
+Amoxicilina	O
+500	O
+mg	O
+cada	O
+8	O
+horas	O
+)	O
+durante	O
+7	O
+días	O
+.	O

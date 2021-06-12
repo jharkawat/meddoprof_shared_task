@@ -1,0 +1,13 @@
+
+En	O
+tratamiento	O
+con	O
+:	O
+bisoprolol	O
+,	O
+olmesartán	O
+/	O
+amlodipino	O
+,	O
+acenocumarol	O
+.	O

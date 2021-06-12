@@ -1,0 +1,26 @@
+
+El	O
+paciente	O
+muestra	O
+conductas	O
+disruptivas	O
+con	O
+abandono	O
+completo	O
+de	O
+las	O
+actividades	O
+básicas	O
+de	O
+la	O
+vida	O
+diaria	O
+(	O
+alimentación	O
+,	O
+aseo	O
+personal	O
+y	O
+tareas	O
+)	O
+.	O

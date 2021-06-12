@@ -1,0 +1,9 @@
+
+No	O
+se	O
+ha	O
+sometido	O
+a	O
+cirugías	O
+recientes	O
+.	O

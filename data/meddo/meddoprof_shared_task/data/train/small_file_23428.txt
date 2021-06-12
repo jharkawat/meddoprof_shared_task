@@ -1,0 +1,12 @@
+
+El	O
+paciente	O
+acude	O
+al	O
+día	O
+siguiente	O
+al	O
+Servicio	O
+de	O
+Urgencias	O
+.	O

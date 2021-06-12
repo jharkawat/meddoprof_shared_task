@@ -1,0 +1,13 @@
+
+Médico	B-PROFESION
+:	O
+Tomás	O
+Lázaro	O
+Rodríguez	O
+Collar	O
+NºCol	O
+:	O
+28	O
+28	O
+46712	O
+.	O

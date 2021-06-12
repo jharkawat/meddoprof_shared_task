@@ -1,0 +1,17 @@
+
+*	O
+ECG	O
+:	O
+ritmo	O
+sinusal	O
+a	O
+118	O
+lpm	O
+,	O
+eje	O
+a	O
+0o	O
+,	O
+QRS	O
+estrecho	O
+.	O

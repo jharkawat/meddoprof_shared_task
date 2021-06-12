@@ -1,0 +1,4 @@
+
+Voz	O
+nasal	O
+.	O

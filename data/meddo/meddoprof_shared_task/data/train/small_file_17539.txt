@@ -1,0 +1,7 @@
+
+Auscultación	O
+cardiaca	O
+:	O
+tonos	O
+arrítmicos	O
+.	O

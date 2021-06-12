@@ -1,0 +1,11 @@
+
+Sin	O
+progresar	O
+en	O
+el	O
+estudio	O
+por	O
+riesgo	O
+de	O
+iatrogenia	O
+.	O

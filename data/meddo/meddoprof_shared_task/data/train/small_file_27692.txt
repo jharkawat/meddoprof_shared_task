@@ -1,0 +1,23 @@
+
+El	O
+paciente	O
+y	O
+su	O
+entorno	O
+Luis	O
+es	O
+un	O
+varón	O
+que	O
+en	O
+el	O
+momento	O
+de	O
+la	O
+primera	O
+consulta	O
+psiquiátrica	O
+tiene	O
+23	O
+años	O
+.	O

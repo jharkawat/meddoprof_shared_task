@@ -1,0 +1,17 @@
+
+En	O
+octubre	O
+de	O
+2002	O
+(	O
+13	O
+años	O
+)	O
+fue	O
+evaluado	O
+por	O
+Psiquiatría	O
+derivado	O
+por	O
+Neuropediatría	O
+.	O

@@ -1,0 +1,14 @@
+
+Fractura	O
+luxación	O
+de	O
+calcáneo	O
+,	O
+escafoides	O
+,	O
+cuboides	O
+y	O
+metatarsianos	O
+pie	O
+derecho	O
+.	O

@@ -1,0 +1,12 @@
+
+Debe	O
+procurarse	O
+gran	O
+atención	O
+a	O
+la	O
+higiene	O
+general	O
+y	O
+personal	O
+.	O

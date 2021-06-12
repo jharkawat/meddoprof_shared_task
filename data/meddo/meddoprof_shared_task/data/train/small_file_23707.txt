@@ -1,0 +1,13 @@
+
+Hipotiroidismo	O
+clínicamente	O
+evidente	O
+desde	O
+los	O
+16	O
+años	O
+en	O
+tratamiento	O
+con	O
+levotiroxina	O
+.	O

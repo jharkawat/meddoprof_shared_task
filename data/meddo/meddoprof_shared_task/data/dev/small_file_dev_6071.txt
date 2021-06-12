@@ -1,0 +1,11 @@
+
+El	O
+ecocardiograma	O
+transesofágico	O
+no	O
+demostró	O
+datos	O
+de	O
+endocarditis	O
+activa	O
+.	O

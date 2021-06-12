@@ -1,0 +1,10 @@
+
+Ecografía	O
+abdominal	O
+con	O
+hepatomegalia	O
+leve	O
+,	O
+sin	O
+esplenomegalia	O
+.	O

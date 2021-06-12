@@ -1,0 +1,21 @@
+
+Analíticamente	O
+anemia	O
+ferropénica	O
+,	O
+leucocitosis	O
+de	O
+21000	O
+con	O
+fórmula	O
+normal	O
+con	O
+dímero	O
+D	O
+,	O
+troponina	O
+y	O
+marcadores	O
+tumorales	O
+negativos	O
+.	O

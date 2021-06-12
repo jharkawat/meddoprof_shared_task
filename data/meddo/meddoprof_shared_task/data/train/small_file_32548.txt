@@ -1,0 +1,4 @@
+
+Ecografía	O
+abdominal	O
+.	O

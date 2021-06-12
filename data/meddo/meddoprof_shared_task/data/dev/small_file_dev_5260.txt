@@ -1,0 +1,14 @@
+
+Determinación	O
+de	O
+drogas	O
+en	O
+orina	O
+:	O
+positivo	O
+para	O
+benzodiacepinas	O
+y	O
+antidepresivos	O
+tricíclicos	O
+.	O

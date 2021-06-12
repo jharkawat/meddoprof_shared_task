@@ -1,0 +1,10 @@
+
+Tiene	O
+una	O
+hermana	O
+(	O
+25	O
+años	O
+)	O
+emancipada	O
+.	O

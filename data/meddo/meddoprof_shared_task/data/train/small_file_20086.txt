@@ -1,0 +1,19 @@
+
+Este	O
+había	O
+sido	O
+un	O
+hombre	B-PROFESION
+de	I-PROFESION
+negocios	I-PROFESION
+enormemente	O
+informal	O
+y	O
+bebedor	O
+al	O
+que	O
+la	O
+paciente	O
+quería	O
+mucho	O
+.	O

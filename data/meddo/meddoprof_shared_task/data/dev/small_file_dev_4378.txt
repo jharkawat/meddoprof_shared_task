@@ -1,0 +1,27 @@
+
+Esta	O
+situación	O
+se	O
+mantuvo	O
+por	O
+varios	O
+meses	O
+,	O
+hecho	O
+que	O
+le	O
+impedía	O
+las	O
+actividades	O
+mínimas	O
+de	O
+una	O
+vida	O
+normal	O
+dependiendo	O
+del	O
+uso	O
+de	O
+O2	O
+suplementario	O
+.	O

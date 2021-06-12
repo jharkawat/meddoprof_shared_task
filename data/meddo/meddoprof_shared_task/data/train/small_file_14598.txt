@@ -1,0 +1,10 @@
+
+Ingresa	O
+en	O
+junio	O
+de	O
+2017	O
+por	O
+síndrome	O
+febril	O
+.	O

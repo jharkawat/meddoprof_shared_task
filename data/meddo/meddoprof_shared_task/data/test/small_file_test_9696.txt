@@ -1,0 +1,6 @@
+
+No	O
+se	O
+evidenció	O
+meningismo	O
+.	O

@@ -1,0 +1,6 @@
+
+Hemograma	O
+sin	O
+hallazgo	O
+patológicos	O
+.	O

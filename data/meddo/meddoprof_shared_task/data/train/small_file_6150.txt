@@ -1,0 +1,21 @@
+
+Solicitamos	O
+un	O
+Electrocardiograma	O
+,	O
+radiografía	O
+de	O
+tórax	O
+y	O
+una	O
+analítica	O
+con	O
+hemograma	O
+,	O
+bioquímica	O
+y	O
+estudio	O
+de	O
+hormonas	O
+tiroideas	O
+.	O

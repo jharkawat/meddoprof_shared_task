@@ -1,0 +1,13 @@
+
+La	O
+PCR	O
+se	O
+elevó	O
+a	O
+su	O
+ingreso	O
+en	O
+UCI	O
+descendiendo	O
+posteriormente	O
+.	O

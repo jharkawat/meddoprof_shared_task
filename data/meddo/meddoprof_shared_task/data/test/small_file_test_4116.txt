@@ -1,0 +1,15 @@
+
+Metástasis	O
+en	O
+1	O
+de	O
+los	O
+25	O
+ganglios	O
+resecados	O
+;	O
+infiltración	O
+neural	O
+y	O
+vascular	O
+.	O

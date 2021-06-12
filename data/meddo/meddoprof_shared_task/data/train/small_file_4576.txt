@@ -1,0 +1,14 @@
+
+Al	O
+acudir	O
+a	O
+valorarlo	O
+no	O
+encontramos	O
+cambios	O
+con	O
+respecto	O
+al	O
+día	O
+previo	O
+.	O

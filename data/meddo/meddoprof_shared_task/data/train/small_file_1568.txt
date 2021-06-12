@@ -1,0 +1,12 @@
+
+Teresa	O
+Sada	O
+Ovalle	O
+Doctor	O
+Vertiz	O
+737	O
+interior	O
+35	O
+Colonia	O
+Narvarte	O
+.	O

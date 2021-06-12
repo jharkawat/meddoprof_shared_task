@@ -1,0 +1,13 @@
+
+El	O
+diagnóstico	O
+actual	O
+es	O
+el	O
+de	O
+trastorno	O
+esquizofrénico	O
+de	O
+tipo	O
+paranoide	O
+.	O

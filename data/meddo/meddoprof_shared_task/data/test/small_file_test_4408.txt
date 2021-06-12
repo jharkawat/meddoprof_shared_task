@@ -1,0 +1,26 @@
+
+En	O
+el	O
+abdomen	O
+no	O
+se	O
+palpan	O
+masas	O
+ni	O
+megalias	O
+y	O
+los	O
+miembros	O
+inferiores	O
+están	O
+ausentes	O
+de	O
+edemas	O
+ni	O
+de	O
+signos	O
+de	O
+trombosis	O
+venosa	O
+profunda	O
+.	O

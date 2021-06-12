@@ -1,0 +1,8 @@
+
+Quimioterapia	O
+(	O
+docetaxel	O
++	O
+cabazitaxel	O
+)	O
+.	O

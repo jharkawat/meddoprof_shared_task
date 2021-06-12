@@ -1,0 +1,13 @@
+
+Datos	O
+que	O
+deben	O
+ser	O
+corroborados	O
+al	O
+examinar	O
+la	O
+cartilla	O
+de	O
+vacunación	O
+.	O

@@ -1,0 +1,19 @@
+
+Artrosis	O
+generalizada	O
+,	O
+pero	O
+le	O
+permitía	O
+realizar	O
+"	O
+caminatas	O
+"	O
+en	O
+su	O
+grupo	O
+de	O
+la	O
+tercera	O
+edad	O
+.	O

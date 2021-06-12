@@ -1,0 +1,10 @@
+
+Abuelo	O
+materno	O
+diagnosticado	O
+clínicamente	O
+de	O
+Corea	O
+de	O
+Huntington	O
+.	O

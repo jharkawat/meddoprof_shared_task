@@ -1,0 +1,27 @@
+
+Al	O
+cabo	O
+de	O
+semanas	O
+y	O
+con	O
+repetición	O
+de	O
+brotes	O
+de	O
+las	O
+lesiones	O
+en	O
+la	O
+piel	O
+,	O
+los	O
+padres	O
+se	O
+mantenían	O
+intranquilos	O
+y	O
+exigían	O
+tratamiento	O
+curativo	O
+.	O

@@ -1,0 +1,17 @@
+
+Explicó	O
+que	O
+venía	O
+tomando	O
+los	O
+medicamentos	O
+desde	O
+hacía	O
+largo	O
+tiempo	O
+,	O
+quizá	O
+20	O
+años	O
+antes	O
+.	O

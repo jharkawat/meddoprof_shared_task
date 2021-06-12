@@ -1,0 +1,17 @@
+
+La	O
+coagulación	O
+era	O
+normal	O
+,	O
+salvo	O
+por	O
+un	O
+fibrinógeno	O
+de	O
+612	O
+,	O
+1mg	O
+/	O
+dL	O
+.	O

@@ -1,0 +1,11 @@
+
+Negaba	O
+pérdida	O
+ponderal	O
+,	O
+clínica	O
+respiratoria	O
+o	O
+dolor	O
+torácico	O
+.	O

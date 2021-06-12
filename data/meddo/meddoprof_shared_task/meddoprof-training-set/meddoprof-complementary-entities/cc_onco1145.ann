@@ -1,0 +1,88 @@
+T1	SINTOMA 88 122	alteraciones del hábito intestinal
+T2	SINTOMA 128 135	astenia
+T3	SINTOMA 137 146	hiporexia
+T4	SINTOMA 605 615	consciente
+T5	SINTOMA 617 626	orientada
+T6	SINTOMA 629 641	colaboradora
+T7	SINTOMA 643 651	Eupneica
+T8	SINTOMA 840 877	Abdomen blando y depresible sin masas
+T9	SINTOMA 3721 3727	exitus
+T10	PROCEDIMIENTO 391 437	tomografía computarizada (TC) tóraco-abdominal
+T11	PROCEDIMIENTO 565 578	Examen físico
+T12	PROCEDIMIENTO 783 810	Auscultación cardiopulmonar
+T13	PROCEDIMIENTO 1026 1048	estudio de coagulación
+T14	PROCEDIMIENTO 1051 1060	hemograma
+T15	PROCEDIMIENTO 1160 1170	Mamografía
+T16	PROCEDIMIENTO 1259 1266	Biopsia
+T17	PROCEDIMIENTO 1341 1360	TC tóraco-abdominal
+T18	PROCEDIMIENTO 1635 1647	Colonoscopia
+T19	PROCEDIMIENTO 1702 1709	Biopsia
+T20	PROCEDIMIENTO 1923 1970	sigmoidectomía con anastomosis término-terminal
+T21	PROCEDIMIENTO 2067 2099	mastectomía + vaciamiento axilar
+T22	PROCEDIMIENTO 2174 2176	QT
+T23	PROCEDIMIENTO 2345 2360	metastasectomía
+T24	PROCEDIMIENTO 2865 2880	radiofrecuencia
+T25	PROCEDIMIENTO 3025 3052	quimioembolización arterial
+T26	PROCEDIMIENTO 3390 3402	TC trifásico
+T27	UNC 469 484	compatibles con
+T28	USCO 485 495	metástasis
+T29	UNC 530 544	compatible con
+T30	USCO 545 562	neoplasia de mama
+T31	NEG 811 814	sin
+T32	NSCO 815 838	alteraciones relevantes
+T33	NEG 868 871	sin
+T34	NSCO 872 889	masas ni megalias
+T35	NEG 1329 1337	negativo
+T36	UNC 1421 1435	Compatible con
+T37	USCO 1436 1453	neoplasia de mama
+T38	NEG 2597 2600	sin
+T39	NSCO 2601 2624	evidencia de enfermedad
+T40	UNC 2799 2813	compatible con
+T41	USCO 2814 2841	recidiva de hepatocarcinoma
+T42	NEG 2938 2940	no
+T43	NSCO 2941 3001	subsidiario de radiofrecuencia por localización de la lesión
+T44	NEG 3089 3092	sin
+T45	NSCO 3093 3126	ser candidata a tratamiento local
+T46	NEG 3269 3280	ausencia de
+T47	NSCO 3281 3298	beneficio clínico
+T48	UNC 3407 3422	compatibles con
+T49	USCO 3423 3438	hepatocarcinoma
+T50	FARMACO 2196 2208	oxaliplatino
+T51	FARMACO 2211 2223	capecitabina
+T52	FARMACO 2680 2690	anastrozol
+T53	FARMACO 3135 3144	sorafenib
+T54	FARMACO 3497 3508	adriamicina
+T55	ORG_VIVO 10 15	Mujer
+T56	ORG_VIVO 43 70	médico de Atención Primaria
+T57	ORG_VIVO 1115 1133	virus hepatotropos
+T58	ORG_VIVO 1135 1146	hepatitis C
+T59	ORG_VIVO 2587 2595	paciente
+T60	ORG_VIVO 3639 3647	paciente
+T61	ENFERMEDAD 333 356	adenocarcinoma de sigma
+T62	ENFERMEDAD 450 495	lesiones hepáticas compatibles con metástasis
+T63	ENFERMEDAD 502 519	lesión en la mama
+T64	ENFERMEDAD 545 562	neoplasia de mama
+T65	ENFERMEDAD 1135 1156	hepatitis C IgG ELISA
+T66	ENFERMEDAD 1172 1257	nódulo en el cuadrante superoexterno de la mama izquierda de características malignas
+T67	ENFERMEDAD 1268 1302	carcinoma ductal infiltrante G1 RE
+T68	ENFERMEDAD 1362 1409	lesión en el cuadrante superoexterno de la mama
+T69	ENFERMEDAD 1436 1453	neoplasia de mama
+T70	ENFERMEDAD 1455 1483	Neoplasia de colon sigmoides
+T71	ENFERMEDAD 1550 1602	Lesiones focales hepáticas en los segmentos VI y VII
+T72	ENFERMEDAD 1649 1700	lesión estenosante de sigma a 20 cm del margen anal
+T73	ENFERMEDAD 1711 1725	adenocarcinoma
+T74	ENFERMEDAD 1740 1784	Adenocarcinoma estenosante de sigma cT3cN2M1
+T75	ENFERMEDAD 1811 1835	Carcinoma de mama ductal
+T76	ENFERMEDAD 2014 2044	adenocarcinoma de sigma pT3pN2
+T77	ENFERMEDAD 2118 2146	carcinoma ductal infiltrante
+T78	ENFERMEDAD 2368 2386	lesiones hepáticas
+T79	ENFERMEDAD 2420 2449	hepatocarcinoma multicéntrico
+T80	ENFERMEDAD 2485 2544	cirrosis hepática de nódulo irregular, de tipo posthepático
+T81	ENFERMEDAD 2721 2738	carcinoma de mama
+T82	ENFERMEDAD 2783 2798	lesión hepática
+T83	ENFERMEDAD 2826 2841	hepatocarcinoma
+T84	ENFERMEDAD 3196 3231	toxicidad dermatológica y digestiva
+T85	ENFERMEDAD 3333 3368	lesiones focales a nivel del hígado
+T86	ENFERMEDAD 3423 3438	hepatocarcinoma
+T87	ENFERMEDAD 3732 3753	fracaso multiorgánico
+T88	SANITARIO-PROFESION 43 70	médico de Atención Primaria

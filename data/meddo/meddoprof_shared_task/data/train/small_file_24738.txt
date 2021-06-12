@@ -1,0 +1,20 @@
+
+Su	O
+hermano	O
+mayor	O
+es	O
+el	O
+encargado	O
+de	O
+suministrar	O
+el	O
+dinero	O
+al	O
+paciente	O
+de	O
+forma	O
+ocasional	O
+para	O
+sus	O
+gastos	O
+.	O

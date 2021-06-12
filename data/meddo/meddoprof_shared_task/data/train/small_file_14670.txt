@@ -1,0 +1,19 @@
+
+En	O
+ausencia	O
+de	O
+tratamiento	O
+específico	O
+se	O
+ha	O
+realizado	O
+seguimiento	O
+con	O
+recomendación	O
+de	O
+rehabilitación	O
+evitando	O
+el	O
+ejercicio	O
+extenuante	O
+.	O

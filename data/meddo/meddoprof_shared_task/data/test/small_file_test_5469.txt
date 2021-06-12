@@ -1,0 +1,11 @@
+
+8	O
+)	O
+Debut	O
+diabético	O
+y	O
+de	O
+probable	O
+etiología	O
+autoinmue	O
+.	O

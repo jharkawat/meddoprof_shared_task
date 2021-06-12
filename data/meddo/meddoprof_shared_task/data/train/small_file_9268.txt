@@ -1,0 +1,17 @@
+
+En	O
+el	O
+diagnóstico	O
+diferencial	O
+planteado	O
+al	O
+ingreso	O
+del	O
+paciente	O
+se	O
+englobaban	O
+distintos	O
+grupos	O
+de	O
+enfermedades	O
+.	O

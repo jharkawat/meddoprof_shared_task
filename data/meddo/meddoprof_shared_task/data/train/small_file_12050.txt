@@ -1,0 +1,17 @@
+
+—	O
+Enfermedad	O
+pulmonar	O
+obstructiva	O
+crónica	O
+con	O
+enfisema	O
+panlobulillar	O
+bilateral	O
+y	O
+áreas	O
+focales	O
+de	O
+enfisema	O
+traumático	O
+.	O

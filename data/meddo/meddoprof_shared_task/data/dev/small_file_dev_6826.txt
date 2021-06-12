@@ -1,0 +1,21 @@
+
+En	O
+la	O
+radiografía	O
+de	O
+tórax	O
+se	O
+apreció	O
+una	O
+lesión	O
+condensante	O
+y	O
+cavitada	O
+en	O
+lóbulo	O
+superior	O
+derecho	O
+(	O
+LSD	O
+)	O
+.	O

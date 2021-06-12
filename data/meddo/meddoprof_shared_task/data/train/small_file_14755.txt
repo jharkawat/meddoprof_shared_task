@@ -1,0 +1,21 @@
+
+Ocho	O
+días	O
+más	O
+tarde	O
+acude	O
+a	O
+Urgencias	O
+por	O
+malestar	O
+general	O
+,	O
+disnea	O
+súbita	O
+y	O
+febrícula	O
+de	O
+37	O
+,	O
+5Co	O
+.	O

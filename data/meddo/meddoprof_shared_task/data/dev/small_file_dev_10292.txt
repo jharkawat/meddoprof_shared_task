@@ -1,0 +1,13 @@
+
+Datos	O
+actuales	O
+:	O
+La	O
+paciente	O
+era	O
+de	O
+contextura	O
+frágil	O
+y	O
+pequeña	O
+.	O

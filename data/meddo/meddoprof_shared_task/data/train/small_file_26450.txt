@@ -1,0 +1,27 @@
+
+En	O
+fechas	O
+recientes	O
+la	O
+madre	O
+ha	O
+ido	O
+sin	O
+cita	O
+a	O
+consulta	O
+para	O
+mostrar	O
+a	O
+la	O
+psiquiatra	B-PROFESION
+un	O
+dibujo	O
+que	O
+había	O
+hecho	O
+África	O
+una	O
+semana	O
+antes	O
+.	O

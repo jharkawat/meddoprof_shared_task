@@ -1,0 +1,13 @@
+
+Resonancia	O
+magnética	O
+craneal	O
+secuencia	O
+T2	O
+FLAIR	O
+donde	O
+se	O
+objetiva	O
+hipomielinización	O
+difusa	O
+.	O

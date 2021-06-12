@@ -1,0 +1,26 @@
+
+Los	O
+días	O
+previos	O
+al	O
+tratamiento	O
+,	O
+la	O
+pareja	O
+de	O
+la	O
+madre	O
+se	O
+ha	O
+ido	O
+de	O
+casa	O
+pues	O
+no	O
+soporta	O
+la	O
+convivencia	O
+con	O
+el	O
+paciente	O
+.	O

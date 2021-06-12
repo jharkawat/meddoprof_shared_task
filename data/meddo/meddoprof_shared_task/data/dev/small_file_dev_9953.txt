@@ -1,0 +1,7 @@
+
+SCASEST	O
+tipo	O
+IAM	O
+no	O
+Q	O
+.	O

@@ -1,0 +1,7 @@
+
+Trabaja	B-PROFESION
+en	I-PROFESION
+poda	I-PROFESION
+de	I-PROFESION
+árboles	I-PROFESION
+.	O

@@ -1,0 +1,12 @@
+
+No	O
+obstante	O
+el	O
+paciente	O
+se	O
+encuentra	O
+tranquilo	O
+en	O
+actitud	O
+plácida	O
+.	O

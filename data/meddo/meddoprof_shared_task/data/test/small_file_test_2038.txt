@@ -1,0 +1,8 @@
+
+Queda	O
+ingresada	O
+a	O
+cargo	O
+de	O
+Neurología	O
+.	O

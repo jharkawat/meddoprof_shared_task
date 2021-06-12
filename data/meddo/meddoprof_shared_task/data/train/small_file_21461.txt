@@ -1,0 +1,7 @@
+
+Lin	O
+,	O
+lin	O
+,	O
+lin	O
+.	O

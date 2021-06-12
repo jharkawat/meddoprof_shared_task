@@ -1,0 +1,20 @@
+
+Se	O
+expone	O
+el	O
+caso	O
+de	O
+una	O
+paciente	O
+de	O
+36	O
+años	O
+,	O
+derivada	O
+a	O
+consulta	O
+por	O
+síntomas	O
+de	O
+ansiedad	O
+.	O

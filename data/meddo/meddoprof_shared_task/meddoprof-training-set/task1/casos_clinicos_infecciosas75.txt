@@ -1,0 +1,22 @@
+Presentamos el caso de un varón de 37 años, natural de Rumanía, residente en España desde hacía 6 años. Fumador de unos 30 cigarrillos/día desde los 15 años (33 paquetes/ año). Trabajó en una fábrica de plásticos y estaba diagnosticado de silicosis por exposición laboral a chorros de arena. Presentó una tuberculosis pulmonar (TBP) 10 años antes tratada en su país durante seis meses con una pauta diaria que contenía rifampicina. Acudió a urgencias por fiebre de 39oC de una semana de evolución, tos seca y odinofagia sin otra clínica a la anamnesis por aparatos y sistemas.
+
+A la exploración física: febril, 39oC, TA 130/70 mmHg, FC 112 lpm. FR 12. SatO2 98% a FiO2 ambiente. No se palpaban adenopatías periféricas. La auscultación cardiaca era normal, sin soplos ni roces. A la auscultación pulmonar destacaba hipofonesis generalizada sin estertores. En la analítica de urgencias presentaba 9600 x10e9/L leucocitos, 13.5% monocitos; resto normal. Función renal, ionograma y transaminasas dentro de la normalidad. PCR 112mg/l.
+
+El ECG no mostró alteraciones relevantes. En la radiografía de tórax se objetivó aumento del índice cardiotorácico, imagen nodular en lóbulo superior izquierdo e infiltrado intersticial perihiliar bilateral. La TC de tórax puso de manifiesto una fibrosis masiva progresiva secundaria a silicosis con tractos fibróticos residuales tuberculosos superpuestos, afectación infecciosa de la vía aérea distal y un derrame pericárdico severo confirmado por ecocardiografía transtorácica que reveló datos de taponamiento.
+
+Diagnóstico diferencial
+A su ingreso se estableció el diagnóstico diferencial entre las causas de derrame pericárdico:
+• Causas infecciosas: cualquier microorganismo puede afectar al pericardio.
+• Virus, principalmente coxsackievirus. También hay que pensar en infección por VIH.
+• Bacterias: las más frecuentemente aisladas en líquido pericárdico son Staphylococcus spp, S. pneumoniae y Streptococcus spp. Menos frecuente, aunque a considerar en nuestro paciente, es la pericarditis tuberculosa (PTB). • Otros: Rickettsias, espiroquetas, hongos, parásitos, Tropheryma whippelii o Chlamydia.
+• Causas neoplásicas: fundamentalmente cáncer de mama, de pulmón y el linfoma de Hodgkin.
+• Causas autoinmunes: las más frecuentes el lupus eritematoso sistémico y la artritis reumatoide.
+• Causas metabólicas: pericarditis urémica, hipotiroidismo.
+• Otras: secundario a infarto agudo de miocardio, a radiación, post-quirúrgica, traumatológica, farmacológica, quimioterapia.
+• Idiopático: hasta en el 70% de los casos puede no establecerse una etiología del derrame. Se cree que la mayoría de ellos es de origen viral.
+
+Evolución
+Se realizó una ventana pericárdica drenándose 150 ml de líquido sero-sanguinolento con 2380 leucocitos/ μl (80% mononucleares) con determinación de ADA y glucosa dentro de la normalidad. Ante la sospecha clínica de pericarditis tuberculosa se instauró tratamiento con 4 fármacos antituberculosos de primera línea (isoniazida, rifampicina, pirazinamida y etambutol) sin mejoría del cuadro. El test de VIH fue negativo. Las baciloscopias y el cultivo en medio de micobacterias de cuatro muestras de esputo inducido fueron negativas. La baciloscopia del líquido pericárdico fue negativa y en el cultivo del mismo, en medio de micobacterias, creció M. tuberculosis resistente a rifampicina (R), isoniazida (I), pirazinamida (P) y etambutol (E) así como a capreomicina y amikacina, siendo sensible al resto de fármacos de segunda línea. Se modificó tratamiento a moxifloxacino, protionamida y linezolid y se añadió prednisona 50 mg/día. Se mantuvo el tratamiento antituberculoso durante 18 meses con buena evolución clínica y se realizó seguimiento durante 24 meses sin recidiva.
+
+Diagnóstico final
+Pericarditis tuberculosa por M. tuberculosis multidrogorresistente.

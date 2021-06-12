@@ -1,0 +1,19 @@
+
+Potomanía	O
+y	O
+enuresis	O
+secundarias	O
+a	O
+episodios	O
+de	O
+diabetes	O
+insípida	O
+nefrogénica	O
+que	O
+se	O
+corrigieron	O
+con	O
+autoregistro	O
+y	O
+tiacídicos	O
+.	O

@@ -1,0 +1,13 @@
+
+Prima	O
+hermana	O
+paterna	O
+con	O
+cáncer	O
+de	O
+mama	O
+a	O
+los	O
+43	O
+años	O
+.	O

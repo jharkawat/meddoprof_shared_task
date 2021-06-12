@@ -1,0 +1,9 @@
+
+El	O
+carboplatino	O
+se	O
+suspendió	O
+por	O
+toxicidad	O
+hematológica	O
+.	O

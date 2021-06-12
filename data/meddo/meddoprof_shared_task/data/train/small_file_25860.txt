@@ -1,0 +1,14 @@
+
+Iniciamos	O
+tratamiento	O
+antipsicótico	O
+oral	O
+,	O
+buena	O
+respuesta	O
+inicial	O
+,	O
+pero	O
+mala	O
+adherencia	O
+.	O

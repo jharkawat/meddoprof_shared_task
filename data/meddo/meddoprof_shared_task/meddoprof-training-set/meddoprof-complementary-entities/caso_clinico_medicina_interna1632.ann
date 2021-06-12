@@ -1,0 +1,135 @@
+T1	SINTOMA 165 175	sudoración
+T2	SINTOMA 177 182	mareo
+T3	SINTOMA 185 192	palidez
+T4	SINTOMA 1010 1016	disnea
+T5	SINTOMA 1526 1533	astenia
+T6	SINTOMA 1536 1545	hiporexia
+T7	SINTOMA 1574 1597	pérdida de 4 kg de peso
+T8	SINTOMA 1623 1644	ictericia mucocutánea
+T9	SINTOMA 1657 1664	prurito
+T10	SINTOMA 1860 1895	dolor a la palpación en hipocondrio
+T11	SINTOMA 1906 1919	hepatomegalia
+T12	SINTOMA 1956 1977	irritación peritoneal
+T13	SINTOMA 2063 2072	ictericia
+T14	SINTOMA 2170 2189	hiperbilirrubinemia
+T15	SINTOMA 3056 3089	elevación de la alfa-fetoproteína
+T16	SINTOMA 3569 3576	prurito
+T17	SINTOMA 3792 3799	nauseas
+T18	SINTOMA 3810 3825	dolor abdominal
+T19	SINTOMA 3893 3914	irritación peritoneal
+T20	SINTOMA 5850 5868	hipertransaminemia
+T21	SINTOMA 5910 5932	aumento de bilirrubina
+T22	PROCEDIMIENTO 768 790	cateterismo realizado–
+T23	PROCEDIMIENTO 1211 1272	tratamiento con antagonistas de los receptores α-adrenérgicos
+T24	PROCEDIMIENTO 1841 1859	exploración física
+T25	PROCEDIMIENTO 2143 2158	perfil hepático
+T26	PROCEDIMIENTO 2541 2560	ecografía abdominal
+T27	PROCEDIMIENTO 3404 3426	tratamiento analgésico
+T28	PROCEDIMIENTO 3705 3715	resonancia
+T29	PROCEDIMIENTO 3943 3955	TC ABDOMINAL
+T30	PROCEDIMIENTO 4599 4621	tratamiento analgésico
+T31	PROCEDIMIENTO 4677 4692	anticoagulación
+T32	PROCEDIMIENTO 5115 5166	drenaje percutáneo interno-externo de la vía biliar
+T33	PROCEDIMIENTO 5191 5213	colocación del drenaje
+T34	PROCEDIMIENTO 5229 5258	punción de la lesión hepática
+T35	PROCEDIMIENTO 5355 5367	TAC torácico
+T36	PROCEDIMIENTO 6178 6196	medidas paliativas
+T37	NEG 316 318	no
+T38	NSCO 319 352	era alérgico a ningún medicamento
+T39	NEG 666 669	sin
+T40	NSCO 670 678	secuelas
+T41	NEG 764 767	sin
+T42	NSCO 768 790	cateterismo realizado–
+T43	NEG 804 807	sin
+T44	NSCO 808 833	tratamiento farmacológico
+T45	NEG 1942 1945	sin
+T46	NSCO 1946 1986	signos de irritación peritoneal asociada
+T47	NEG 2641 2644	sin
+T48	NSCO 2645 2690	signos de obstrucción ni dilatación de la vía
+T49	NEG 2835 2838	sin
+T50	NSCO 2839 2874	dilatación inicial de la vía biliar
+T51	UNC 3023 3031	sospecha
+T52	USCO 3032 3043	diagnóstica
+T53	UNC 4030 4038	sospecha
+T54	USCO 4039 4080	alta de neoplasia de la vía biliar/hígado
+T55	UNC 4270 4278	probable
+T56	USCO 4279 4307	colangiocarcinoma multifocal
+T57	NEG 4308 4311	sin
+T58	NSCO 4312 4343	poder descartar hepatocarcinoma
+T59	NEG 5368 5371	sin
+T60	NSCO 5372 5417	contraste para completar estudio de extensión
+T61	NEG 5422 5424	no
+T62	NSCO 5425 5473	evidenció lesiones metastásicas a nivel pulmonar
+T63	NEG 6094 6096	no
+T64	NSCO 6097 6153	se considera subsidiario a tratamiento oncológico activo
+T65	FARMACO 501 509	insulina
+T66	FARMACO 590 601	pregabalina
+T67	FARMACO 1096 1107	fluticasona
+T68	FARMACO 1274 1285	tamsulosina
+T69	FARMACO 3439 3450	paracetamol
+T70	FARMACO 3453 3462	metamizol
+T71	FARMACO 3500 3507	morfina
+T72	FARMACO 3518 3535	dexclorfeniramina
+T73	FARMACO 4697 4708	enoxaparina
+T74	ORG_VIVO 15 20	varón
+T75	ORG_VIVO 27 32	años
+T76	ORG_VIVO 34 42	jubilado
+T77	ORG_VIVO 307 315	paciente
+T78	ORG_VIVO 1434 1452	médico de cabecera
+T79	ORG_VIVO 1720 1728	paciente
+T80	ORG_VIVO 2091 2099	paciente
+T81	ORG_VIVO 3391 3399	paciente
+T82	ORG_VIVO 3720 3728	paciente
+T83	ORG_VIVO 4017 4025	paciente
+T84	ORG_VIVO 4649 4657	paciente
+T85	ORG_VIVO 4880 4888	paciente
+T86	ORG_VIVO 5548 5556	paciente
+T87	ORG_VIVO 5764 5772	paciente
+T88	ENFERMEDAD 395 416	hipertensión arterial
+T89	ENFERMEDAD 456 481	diabetes mellitus tipo II
+T90	ENFERMEDAD 550 570	neuropatía diabética
+T91	ENFERMEDAD 603 629	enfermedad cerebrovascular
+T92	ENFERMEDAD 642 665	ictus isquémico antiguo
+T93	ENFERMEDAD 681 717	leucoencefalopatía vascular crónicay
+T94	ENFERMEDAD 718 739	cardiopatía isquémica
+T95	ENFERMEDAD 793 803	dislipemia
+T96	ENFERMEDAD 836 852	obesidad grado I
+T97	ENFERMEDAD 922 949	insuficiencia renal crónica
+T98	ENFERMEDAD 1010 1031	disnea multifactorial
+T99	ENFERMEDAD 1034 1038	SAHS
+T100	ENFERMEDAD 1132 1148	litiasis renales
+T101	ENFERMEDAD 1188 1207	síndrome prostático
+T102	ENFERMEDAD 1298 1332	infecciones de orina de repetición
+T103	ENFERMEDAD 1335 1354	esteatosis hepática
+T104	ENFERMEDAD 1457 1480	síndrome constitucional
+T105	ENFERMEDAD 2170 2189	hiperbilirrubinemia
+T106	ENFERMEDAD 2462 2490	obstrucción de la vía biliar
+T107	ENFERMEDAD 2583 2609	esteatosis hepática difusa
+T108	ENFERMEDAD 2612 2627	quistes renales
+T109	ENFERMEDAD 2813 2834	ictericia obstructiva
+T110	ENFERMEDAD 2877 2900	síndrome constitucional
+T111	ENFERMEDAD 3187 3213	neoplasia de la vía biliar
+T112	ENFERMEDAD 3226 3241	hepatocarcinoma
+T113	ENFERMEDAD 4047 4080	neoplasia de la vía biliar/hígado
+T114	ENFERMEDAD 4128 4163	tumoración hepática sólido-quística
+T115	ENFERMEDAD 4279 4307	colangiocarcinoma multifocal
+T116	ENFERMEDAD 4328 4343	hepatocarcinoma
+T117	ENFERMEDAD 4346 4398	Trombosis parcial de vena cava inferior y vena porta
+T118	ENFERMEDAD 4410 4497	adenopatías patológicas en hilio hepático, saco menor, mesentéricas y retroperitoneales
+T119	ENFERMEDAD 4504 4511	ascitis
+T120	ENFERMEDAD 4751 4768	trombosis venosas
+T121	ENFERMEDAD 4841 4856	lesión hepática
+T122	ENFERMEDAD 5010 5052	obstrucción de la vía biliar intrahepática
+T123	ENFERMEDAD 5243 5258	lesión hepática
+T124	ENFERMEDAD 5310 5325	HEPATOCARCINOMA
+T125	ENFERMEDAD 5435 5473	lesiones metastásicas a nivel pulmonar
+T126	ENFERMEDAD 5563 5619	Hepatocarcinoma estadio avanzado (C) por invasión portal
+T127	ENFERMEDAD 5622 5646	afectación extrahepática
+T128	ENFERMEDAD 5648 5677	adenopatías retroperitoneales
+T129	ENFERMEDAD 5801 5834	encefalopatía hepática progresiva
+T130	ENFERMEDAD 5850 5868	hipertransaminemia
+T131	ENFERMEDAD 5962 5990	insuficiencia hepática grave
+T132	ENFERMEDAD 5995 6005	CHILD-PUGH
+T133	ENFERMEDAD 6049 6081	hepatocarcinoma estadio terminal
+T134	PACIENTE-SITUACION_LABORAL 34 42	jubilado
+T135	SANITARIO-PROFESION 1434 1452	médico de cabecera

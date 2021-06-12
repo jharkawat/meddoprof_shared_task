@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+presenta	O
+mejoría	O
+en	O
+la	O
+cuarta	O
+de	O
+8	O
+sesiones	O
+.	O

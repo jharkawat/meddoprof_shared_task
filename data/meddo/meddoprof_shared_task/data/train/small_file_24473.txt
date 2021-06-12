@@ -1,0 +1,21 @@
+
+En	O
+un	O
+reconocimiento	O
+más	O
+detallado	O
+,	O
+observó	O
+que	O
+su	O
+hermano	O
+poseía	O
+3	O
+o	O
+4	O
+copias	O
+de	O
+los	O
+mismos	O
+libros	O
+.	O

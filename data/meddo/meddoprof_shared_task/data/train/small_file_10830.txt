@@ -1,0 +1,17 @@
+
+Los	O
+pulsos	O
+pedios	O
+y	O
+tibial	O
+posterior	O
+están	O
+presentes	O
+y	O
+se	O
+descarta	O
+una	O
+isquemia	O
+arterial	O
+aguda	O
+.	O

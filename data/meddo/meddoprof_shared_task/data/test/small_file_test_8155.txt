@@ -1,0 +1,16 @@
+
+Se	O
+realiza	O
+ecocardiograma	O
+por	O
+presencia	O
+de	O
+derrame	O
+pericárdico	O
+,	O
+que	O
+no	O
+condiciona	O
+complicaciones	O
+agudas	O
+.	O

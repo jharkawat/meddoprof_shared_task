@@ -1,0 +1,17 @@
+
+AP	O
+:	O
+tórax	O
+tipo	O
+enfisematoso	O
+,	O
+crepitantes	O
+de	O
+despegamiento	O
+en	O
+campos	O
+medios	O
+e	O
+inferiores	O
+izq	O
+.	O

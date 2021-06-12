@@ -1,0 +1,19 @@
+
+Este	O
+paciente	O
+presentó	O
+hematuria	O
+por	O
+lo	O
+que	O
+pudiera	O
+pensarse	O
+en	O
+tumor	O
+de	O
+vías	O
+urinarias	O
+como	O
+primera	O
+opción	O
+.	O

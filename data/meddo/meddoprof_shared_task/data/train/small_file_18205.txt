@@ -1,0 +1,10 @@
+
+Presentaba	O
+exoftalmos	O
+axial	O
+OD	O
+desde	O
+hace	O
+5	O
+meses	O
+.	O

@@ -1,0 +1,14 @@
+
+Discreta	O
+ascitis	O
+en	O
+región	O
+pélvica	O
+,	O
+así	O
+como	O
+mínimo	O
+derrame	O
+pleural	O
+izquierdo	O
+.	O

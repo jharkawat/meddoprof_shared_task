@@ -1,0 +1,27 @@
+
+Ha	O
+notado	O
+gran	O
+empeoramiento	O
+durante	O
+el	O
+último	O
+año	O
+,	O
+coincidiendo	O
+con	O
+salida	O
+de	O
+su	O
+país	O
+y	O
+emigración	O
+por	O
+diversos	O
+países	O
+ocasionándole	O
+intensos	O
+recorridos	O
+a	O
+pie	O
+.	O

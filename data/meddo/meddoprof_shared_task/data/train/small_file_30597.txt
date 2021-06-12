@@ -1,0 +1,10 @@
+
+A	O
+los	O
+19	O
+años	O
+comienza	O
+con	O
+tratamiento	O
+antiobsesivo	O
+.	O

@@ -1,0 +1,23 @@
+
+El	O
+discurso	O
+ya	O
+no	O
+resultaba	O
+sobre	O
+-	O
+inclusivo	O
+,	O
+el	O
+tic	O
+verbal	O
+había	O
+desaparecido	O
+,	O
+si	O
+bien	O
+mantenía	O
+el	O
+acento	O
+gallego	O
+.	O

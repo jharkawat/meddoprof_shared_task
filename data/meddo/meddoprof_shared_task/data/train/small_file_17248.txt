@@ -1,0 +1,22 @@
+
+Sin	O
+embargo	O
+,	O
+persistía	O
+una	O
+afasia	O
+motora	O
+con	O
+imposibilidad	O
+de	O
+emitir	O
+ninguna	O
+palabra	O
+,	O
+no	O
+existía	O
+dismetría	O
+ni	O
+déficit	O
+sensitivo	O
+.	O

@@ -1,0 +1,12 @@
+
+No	O
+lesiones	O
+coronarias	O
+,	O
+flujo	O
+TIMI	O
+3	O
+tras	O
+el	O
+procedimiento	O
+.	O

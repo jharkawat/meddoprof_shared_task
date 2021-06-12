@@ -1,0 +1,20 @@
+
+Hemorragia	O
+subaracnoidea	O
+en	O
+el	O
+contexto	O
+de	O
+trombosis	O
+incompleta	O
+del	O
+seno	O
+longitudinal	O
+superior	O
+secundaria	O
+a	O
+déficit	O
+de	O
+proteína	O
+S	O
+.	O

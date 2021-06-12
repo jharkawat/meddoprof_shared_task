@@ -1,0 +1,25 @@
+
+Acude	O
+a	O
+consultas	O
+del	O
+centro	O
+de	O
+salud	O
+por	O
+presentar	O
+desde	O
+hace	O
+1	O
+mes	O
+ganancia	O
+de	O
+peso	O
+,	O
+dispepsia	O
+y	O
+aumento	O
+del	O
+perímetro	O
+abdominal	O
+.	O

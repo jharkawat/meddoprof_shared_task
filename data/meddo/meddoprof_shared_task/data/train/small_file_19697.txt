@@ -1,0 +1,10 @@
+
+DIRECCIÓN	O
+:	O
+no	O
+refiere	O
+ya	O
+que	O
+son	O
+viajeros	O
+.	O

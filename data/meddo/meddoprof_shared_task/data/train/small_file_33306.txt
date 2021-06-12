@@ -1,0 +1,16 @@
+
+Al	O
+preguntarle	O
+no	O
+refiere	O
+que	O
+esto	O
+haya	O
+influido	O
+en	O
+el	O
+curso	O
+de	O
+su	O
+enfermedad	O
+.	O

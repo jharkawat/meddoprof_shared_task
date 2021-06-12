@@ -1,0 +1,14 @@
+
+Fue	O
+descartado	O
+ante	O
+la	O
+ausencia	O
+de	O
+consumo	O
+de	O
+tóxicos	O
+de	O
+nuestro	O
+paciente	O
+.	O

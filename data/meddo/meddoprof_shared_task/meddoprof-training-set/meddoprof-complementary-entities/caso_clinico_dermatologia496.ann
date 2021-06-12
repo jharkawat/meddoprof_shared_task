@@ -1,0 +1,43 @@
+T1	SINTOMA 690 776	intensa erupción pruriginosa en cara y cuello, así como en dorso de antebrazos y manos
+T2	SINTOMA 3237 3249	asintomático
+T3	PROCEDIMIENTO 818 831	fotoprotector
+T4	PROCEDIMIENTO 923 936	AINEs tópicos
+T5	PROCEDIMIENTO 943 961	exploración física
+T6	PROCEDIMIENTO 1718 1753	fototest con lámpara de fototerapia
+T7	PROCEDIMIENTO 2206 2225	pruebas epicutáneas
+T8	NEG 1466 1468	no
+T9	NSCO 1469 1478	irradiada
+T10	UNC 1650 1661	sospecha de
+T11	USCO 1662 1694	implicación del antihipertensivo
+T12	NEG 2837 2846	desestimó
+T13	NSCO 2847 2885	la realización de un tercer fotoparche
+T14	UNC 3081 3089	probable
+T15	USCO 3090 3120	reacción cruzada a ketoprofeno
+T16	NEG 3237 3249	asintomático
+T17	NEG 3252 3255	sin
+T18	NSCO 3256 3315	lesiones utilizando fotoprotector a base de filtros físicos
+T19	FARMACO 92 100	ramipril
+T20	FARMACO 103 120	hidroclorotiazida
+T21	FARMACO 1980 1988	ramipril
+T22	FARMACO 1993 2010	hidroclorotiazida
+T23	FARMACO 2015 2025	bisoprolol
+T24	FARMACO 2027 2037	doxazosina
+T25	FARMACO 2040 2049	valsartán
+T26	FARMACO 2589 2600	ketoprofeno
+T27	FARMACO 2714 2725	ketoprofeno
+T28	FARMACO 3009 3026	hidroclorotiazida
+T29	FARMACO 3109 3120	ketoprofeno
+T30	ORG_VIVO 0 5	Varón
+T31	ORG_VIVO 18 24	pintor
+T32	ORG_VIVO 55 65	personales
+T33	ORG_VIVO 2828 2836	paciente
+T34	ENFERMEDAD 69 72	HTA
+T35	ENFERMEDAD 188 237	dermatitis de contacto alérgica a sales de Níquel
+T36	ENFERMEDAD 296 361	eccema de predisposición flexural y de tipo dishidrótico en manos
+T37	ENFERMEDAD 577 635	lesiones en áreas expuestas de predominio en cara y cuello
+T38	ENFERMEDAD 698 735	erupción pruriginosa en cara y cuello
+T39	ENFERMEDAD 2418 2440	Dermatitis de Contacto
+T40	ENFERMEDAD 2443 2458	Alergia Cutánea
+T41	ENFERMEDAD 2965 2991	fotosensibilidad sistémica
+T42	PACIENTE-PROFESION 18 24	pintor
+T43	PACIENTE-SITUACION_LABORAL 25 36	prejubilado

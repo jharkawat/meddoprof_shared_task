@@ -1,0 +1,16 @@
+
+No	O
+se	O
+muestra	O
+muy	O
+partidario	O
+de	O
+comentar	O
+las	O
+posibles	O
+causas	O
+de	O
+la	O
+situación	O
+actual	O
+.	O

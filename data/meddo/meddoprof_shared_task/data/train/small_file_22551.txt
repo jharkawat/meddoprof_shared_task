@@ -1,0 +1,15 @@
+
+Tampoco	O
+ha	O
+presentado	O
+alteraciones	O
+en	O
+el	O
+ritmo	O
+del	O
+sueño	O
+ni	O
+en	O
+su	O
+alimentación	O
+.	O

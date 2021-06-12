@@ -1,0 +1,21 @@
+
+En	O
+cuanto	O
+a	O
+sus	O
+antecedentes	O
+familiares	O
+relevantes	O
+,	O
+su	O
+padre	O
+falleció	O
+por	O
+adenocarcinoma	O
+de	O
+colon	O
+a	O
+los	O
+75	O
+años	O
+.	O

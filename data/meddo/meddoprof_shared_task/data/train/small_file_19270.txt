@@ -1,0 +1,13 @@
+
+Trastorno	O
+de	O
+personalidad	O
+(	O
+obsesivo	O
+,	O
+histriónico	O
+,	O
+límite	O
+,	O
+dependiente	O
+)	O

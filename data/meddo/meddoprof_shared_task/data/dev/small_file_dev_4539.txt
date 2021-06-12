@@ -1,0 +1,21 @@
+
+La	O
+radiografía	O
+AP	O
+de	O
+tórax	O
+muestra	O
+una	O
+imagen	O
+lobulada	O
+retrocardíaca	O
+izquierda	O
+y	O
+pobre	O
+definición	O
+del	O
+hemidiafragma	O
+en	O
+este	O
+lado	O
+.	O

@@ -1,0 +1,20 @@
+
+Por	O
+el	O
+momento	O
+la	O
+paciente	O
+no	O
+quiere	O
+ser	O
+valorada	O
+por	O
+el	O
+psicólogo	B-PROFESION
+de	O
+nuestro	O
+Equipo	B-PROFESION
+de	I-PROFESION
+Salud	I-PROFESION
+Mental	I-PROFESION
+.	O

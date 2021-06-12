@@ -1,0 +1,11 @@
+
+En	O
+hemocultivos	O
+se	O
+aisló	O
+además	O
+bacteriemia	O
+por	O
+Acinetobacter	O
+Ursigii	O
+.	O

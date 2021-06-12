@@ -1,0 +1,22 @@
+
+Recibió	O
+tratamiento	O
+sintomático	O
+con	O
+dexametasona	O
+y	O
+antieméticos	O
+,	O
+y	O
+se	O
+remitió	O
+a	O
+Oncología	O
+Radioterápica	O
+para	O
+valorar	O
+radioterapia	O
+holocraneal	O
+paliativa	O
+preferente	O
+.	O

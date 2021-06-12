@@ -1,0 +1,21 @@
+
+No	O
+presenta	O
+alergias	O
+medicamentosas	O
+,	O
+hábitos	O
+tóxicos	O
+ni	O
+toma	O
+tratamiento	O
+habitualmente	O
+,	O
+presentando	O
+como	O
+único	O
+antecedente	O
+personal	O
+migraña	O
+ocasional	O
+.	O

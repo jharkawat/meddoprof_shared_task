@@ -1,0 +1,11 @@
+
+Antecedente	O
+de	O
+trabajos	O
+poco	O
+cualificados	O
+y	O
+de	O
+forma	O
+temporal	O
+.	O

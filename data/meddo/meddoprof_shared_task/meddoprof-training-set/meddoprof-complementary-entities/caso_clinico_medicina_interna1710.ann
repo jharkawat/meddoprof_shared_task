@@ -1,0 +1,123 @@
+T1	SINTOMA 677 687	estuporoso
+T2	SINTOMA 700 724	dificultad para respirar
+T3	SINTOMA 752 761	hipotenso
+T4	SINTOMA 1026 1035	hipotenso
+T5	SINTOMA 1069 1108	pupilas mióticas isocóricas y reactivas
+T6	SINTOMA 3869 3891	respiración artificial
+T7	SINTOMA 6357 6369	tetrapléjico
+T8	PROCEDIMIENTO 914 917	IOT
+T9	PROCEDIMIENTO 1120 1133	fluidoterapia
+T10	PROCEDIMIENTO 1136 1162	perfusión de Noradrenalina
+T11	PROCEDIMIENTO 1287 1301	TAC total body
+T12	PROCEDIMIENTO 1318 1330	TAC cervical
+T13	PROCEDIMIENTO 1598 1610	TAC torácico
+T14	PROCEDIMIENTO 2140 2163	TAC Craneal y Abdominal
+T15	PROCEDIMIENTO 2365 2368	IOT
+T16	PROCEDIMIENTO 2379 2393	conectado a VM
+T17	PROCEDIMIENTO 2441 2450	hemograma
+T18	PROCEDIMIENTO 2527 2538	Rx de tórax
+T19	PROCEDIMIENTO 2541 2544	ECG
+T20	PROCEDIMIENTO 2585 2588	RMN
+T21	PROCEDIMIENTO 3016 3068	estabilización de eje cervical con tracción cervical
+T22	PROCEDIMIENTO 3115 3143	cirugía de fijación cervical
+T23	PROCEDIMIENTO 3368 3384	microdiscectomía
+T24	PROCEDIMIENTO 3387 3441	limpieza de platillos vertebrales, ligamento vertebral
+T25	PROCEDIMIENTO 3474 3518	injerto tricortical de cresta iliaca derecha
+T26	PROCEDIMIENTO 3520 3554	Artrodesis con placa y 4 tornillos
+T27	PROCEDIMIENTO 3869 3891	respiración artificial
+T28	PROCEDIMIENTO 3987 3997	respirador
+T29	PROCEDIMIENTO 4397 4411	rehabilitación
+T30	PROCEDIMIENTO 4422 4448	desconectar del respirador
+T31	PROCEDIMIENTO 5507 5533	desconexión del respirador
+T32	PROCEDIMIENTO 6263 6281	punción testicular
+T33	NEG 365 367	No
+T34	NSCO 368 387	tratamiento crónico
+T35	NEG 733 735	No
+T36	NSCO 736 749	consignan MVO
+T37	NEG 919 922	sin
+T38	NSCO 923 934	incidencias
+T39	UNC 1176 1190	compatible con
+T40	USCO 1191 1204	Shock medular
+T41	NEG 1938 1940	no
+T42	NSCO 1941 1951	desplazada
+T43	NEG 2113 2116	sin
+T44	NSCO 2117 2138	evidencia de fractura
+T45	NEG 2164 2167	sin
+T46	NSCO 2168 2176	lesiones
+T47	NEG 2545 2548	sin
+T48	NSCO 2549 2561	alteraciones
+T49	NEG 3767 3769	no
+T50	NSCO 3770 3788	se haya despertado
+T51	NEG 3800 3802	no
+T52	NSCO 3803 3805	va
+T53	NEG 3974 3983	retirarle
+T54	NSCO 3984 3997	el respirador
+T55	NEG 4063 4065	no
+T56	NSCO 4066 4081	esta de acuerdo
+T57	NEG 4634 4636	no
+T58	NSCO 4637 4655	me desconectaran?"
+T59	NEG 4808 4810	No
+T60	NSCO 4811 4845	nos dijo otra cosa durante semanas
+T61	NEG 5002 5004	no
+T62	NSCO 5005 5015	conseguían
+T63	NEG 5204 5207	sin
+T64	NSCO 5208 5233	conseguir ninguna mejoría
+T65	NEG 5475 5477	No
+T66	NEG 5890 5892	no
+T67	NSCO 5893 5941	nos atrevimos a llamar a preguntar por Guillermo
+T68	FARMACO 857 866	Etomidato
+T69	FARMACO 884 893	Rocuronio
+T70	FARMACO 1149 1162	Noradrenalina
+T71	FARMACO 2417 2425	dopamina
+T72	ORG_VIVO 15 20	varón
+T73	ORG_VIVO 140 148	paciente
+T74	ORG_VIVO 167 177	personales
+T75	ORG_VIVO 197 205	cannabis
+T76	ORG_VIVO 412 420	paciente
+T77	ORG_VIVO 655 663	paciente
+T78	ORG_VIVO 1004 1012	paciente
+T79	ORG_VIVO 3566 3574	paciente
+T80	ORG_VIVO 3646 3656	familiares
+T81	ORG_VIVO 3671 3676	madre
+T82	ORG_VIVO 3679 3686	hermana
+T83	ORG_VIVO 3701 3714	equipo médico
+T84	ORG_VIVO 4036 4051	personal médico
+T85	ORG_VIVO 4161 4171	familiares
+T86	ORG_VIVO 4307 4317	familiares
+T87	ORG_VIVO 4588 4593	madre
+T88	ORG_VIVO 4709 4727	personal sanitario
+T89	ORG_VIVO 4862 4867	madre
+T90	ORG_VIVO 4870 4877	hermana
+T91	ORG_VIVO 5309 5319	familiares
+T92	ORG_VIVO 6192 6219	fisioterapeuta del hospital
+T93	ORG_VIVO 6254 6258	hijo
+T94	ENFERMEDAD 116 135	Traumatismo Medular
+T95	ENFERMEDAD 186 205	fumador de cannabis
+T96	ENFERMEDAD 274 292	crisis de ansiedad
+T97	ENFERMEDAD 390 407	ENFERMEDAD ACTUAL
+T98	ENFERMEDAD 1191 1204	Shock medular
+T99	ENFERMEDAD 1441 1483	fractura-luxación facetaria de C4 sobre C5
+T100	ENFERMEDAD 1509 1559	estenosis del canal central con compresión medular
+T101	ENFERMEDAD 1561 1596	fractura de apófisis espinosa de C4
+T102	ENFERMEDAD 1622 1641	neumotórax anterior
+T103	ENFERMEDAD 1654 1706	contusiones pulmonares en lóbulo superior e inferior
+T104	ENFERMEDAD 1760 1775	derrame pleural
+T105	ENFERMEDAD 1790 1808	atelectasia pasiva
+T106	ENFERMEDAD 1898 1926	fractura de espina escapular
+T107	ENFERMEDAD 1953 1979	Fractura de arcos costales
+T108	ENFERMEDAD 2004 2026	fisura de 7o izquierda
+T109	ENFERMEDAD 2028 2071	Fractura de tercio medio de 3o, 4o, 5o y 7o
+T110	ENFERMEDAD 2073 2102	Hematoma en brazo y antebrazo
+T111	ENFERMEDAD 2130 2138	fractura
+T112	ENFERMEDAD 2642 2698	Fractura luxación en C5-C6 con mielopatía cervical aguda
+T113	ENFERMEDAD 2710 2773	afectación de partes blandas y complejo ligamentoso paraespinal
+T114	ENFERMEDAD 2775 2794	Hernia discal C6-C7
+T115	ENFERMEDAD 3228 3242	luxación C4-C5
+T116	ENFERMEDAD 3844 3866	tetraplejia permanente
+T117	ENFERMEDAD 5458 5473	shock emocional
+T118	OTROS-SITUACION_LABORAL 6105 6115	compañera
+T119	SANITARIO-PROFESION 5761 5774	equipo de UCI
+T120	SANITARIO-PROFESION 3701 3714	equipo médico
+T121	SANITARIO-PROFESION 6192 6219	fisioterapeuta del hospital
+T122	SANITARIO-PROFESION 4036 4061	personal médico de la UCI
+T123	SANITARIO-PROFESION 4709 4727	personal sanitario

@@ -1,0 +1,10 @@
+
+Negó	O
+tener	O
+ideas	O
+de	O
+suicidio	O
+o	O
+de	O
+homicidio	O
+.	O

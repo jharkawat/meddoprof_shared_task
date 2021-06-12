@@ -1,0 +1,21 @@
+
+Derivación	O
+al	O
+Servicio	O
+de	O
+Hematología	O
+dados	O
+los	O
+hallazgos	O
+analíticos	O
+obtenidos	O
+,	O
+así	O
+como	O
+,	O
+los	O
+resultados	O
+de	O
+la	O
+citomorfología	O
+.	O

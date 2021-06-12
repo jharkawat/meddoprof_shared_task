@@ -1,0 +1,20 @@
+
+El	O
+hermano	O
+mayor	O
+fallece	O
+el	O
+5	O
+-	O
+Enero	O
+de	O
+2006	O
+,	O
+fecha	O
+que	O
+José	O
+Luis	O
+recuerda	O
+muy	O
+bien	O
+.	O

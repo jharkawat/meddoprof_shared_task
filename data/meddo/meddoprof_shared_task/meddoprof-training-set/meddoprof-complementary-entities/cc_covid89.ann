@@ -1,0 +1,75 @@
+T1	SINTOMA 458 481	dificultad respiratoria
+T2	SINTOMA 882 891	febrícula
+T3	SINTOMA 960 974	picos febriles
+T4	SINTOMA 977 997	clínica respiratoria
+T5	SINTOMA 1232 1238	febril
+T6	SINTOMA 2412 2433	polipnea intermitente
+T7	SINTOMA 2443 2461	tiraje intercostal
+T8	SINTOMA 2968 3002	RT-PCR COVID-19 que sigue positiva
+T9	PROCEDIMIENTO 44 51	cesárea
+T10	PROCEDIMIENTO 361 416	reanimación con aspiración de secreciones en orofaringe
+T11	PROCEDIMIENTO 499 536	dispositivo de presión continua nasal
+T12	PROCEDIMIENTO 538 542	CPAP
+T13	PROCEDIMIENTO 641 659	exploración física
+T14	PROCEDIMIENTO 1019 1039	radiografía de tórax
+T15	PROCEDIMIENTO 1214 1221	cesárea
+T16	PROCEDIMIENTO 1521 1538	test de su pareja
+T17	PROCEDIMIENTO 1856 1862	RT-PCR
+T18	PROCEDIMIENTO 1900 1921	aspirado nasofaríngeo
+T19	PROCEDIMIENTO 2164 2184	exudado nasofaríngeo
+T20	PROCEDIMIENTO 2570 2588	gasometría capilar
+T21	PROCEDIMIENTO 2682 2702	radiografía de tórax
+T22	PROCEDIMIENTO 2968 2974	RT-PCR
+T23	PROCEDIMIENTO 3045 3065	ventilación mecánica
+T24	NEG 544 547	sin
+T25	NSCO 548 569	oxígeno suplementario
+T26	NEG 598 607	se retiró
+T27	NSCO 608 629	a las 2 horas de vida
+T28	UNC 697 712	interpretó como
+T29	USCO 713 760	un distrés de adaptación a la vida extrauterina
+T30	NEG 892 905	descartándose
+T31	NSCO 906 932	complicaciones obstétricas
+T32	NEG 1079 1081	no
+T33	NSCO 1082 1165	refería viajes a zonas de riesgo de Coronavirus ni contacto con personas infectadas
+T34	NEG 1614 1626	asintomática
+T35	NEG 1930 1938	negativa
+T36	NEG 1973 1988	negatividad del
+T37	NSCO 1989 2004	test de la niña
+T38	NEG 2274 2277	sin
+T39	NSCO 2278 2312	realizarse pruebas complementarias
+T40	NEG 2328 2340	asintomática
+T41	NEG 2803 2811	negativa
+T42	NEG 2886 2898	asintomática
+T43	FARMACO 548 555	oxígeno
+T44	ORG_VIVO 0 5	Madre
+T45	ORG_VIVO 215 228	recién nacida
+T46	ORG_VIVO 445 453	neonatal
+T47	ORG_VIVO 797 818	plantas de maternidad
+T48	ORG_VIVO 826 831	madre
+T49	ORG_VIVO 864 869	madre
+T50	ORG_VIVO 1073 1078	madre
+T51	ORG_VIVO 1118 1129	Coronavirus
+T52	ORG_VIVO 1146 1154	personas
+T53	ORG_VIVO 1177 1183	pareja
+T54	ORG_VIVO 1424 1435	coronavirus
+T55	ORG_VIVO 1492 1497	viral
+T56	ORG_VIVO 1532 1538	pareja
+T57	ORG_VIVO 1598 1602	niña
+T58	ORG_VIVO 1634 1639	madre
+T59	ORG_VIVO 1647 1668	plantas de maternidad
+T60	ORG_VIVO 1737 1742	madre
+T61	ORG_VIVO 1838 1851	recién nacida
+T62	ORG_VIVO 2000 2004	niña
+T63	ORG_VIVO 2045 2055	maternidad
+T64	ORG_VIVO 2078 2096	personal sanitario
+T65	ORG_VIVO 2265 2273	neonatal
+T66	ORG_VIVO 3007 3012	madre
+T67	ENFERMEDAD 64 82	preeclampsia grave
+T68	ENFERMEDAD 180 194	hipotiroidismo
+T69	ENFERMEDAD 1044 1068	neumonía bilateral grave
+T70	ENFERMEDAD 1243 1258	gastroenteritis
+T71	ENFERMEDAD 1286 1305	infecciones víricas
+T72	ENFERMEDAD 1448 1456	COVID-19
+T73	ENFERMEDAD 2598 2618	acidosis transitoria
+T74	ENFERMEDAD 2975 2983	COVID-19
+T75	SANITARIO-PROFESION 2078 2096	personal sanitario

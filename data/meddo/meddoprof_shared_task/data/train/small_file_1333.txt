@@ -1,0 +1,6 @@
+
+Se	O
+avisó	O
+a	O
+emergencias	O
+.	O

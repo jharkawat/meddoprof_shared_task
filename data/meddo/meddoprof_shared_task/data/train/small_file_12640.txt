@@ -1,0 +1,23 @@
+
+Se	O
+recanaliza	O
+el	O
+segmento	O
+trombosado	O
+y	O
+se	O
+coloca	O
+catéter	O
+de	O
+fribinolisis	O
+multiperforado	O
+de	O
+15	O
+cm	O
+con	O
+buen	O
+resultado	O
+morfológico	O
+y	O
+funcional	O
+.	O

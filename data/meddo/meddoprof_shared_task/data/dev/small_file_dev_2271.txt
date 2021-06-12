@@ -1,0 +1,9 @@
+
+Su	O
+hija	O
+de	O
+7	O
+años	O
+padece	O
+sobrepeso	O
+.	O

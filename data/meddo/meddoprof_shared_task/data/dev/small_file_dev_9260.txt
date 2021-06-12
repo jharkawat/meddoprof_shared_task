@@ -1,0 +1,10 @@
+
+La	O
+bipedestación	O
+estaba	O
+parcialmente	O
+limitada	O
+por	O
+el	O
+dolor	O
+.	O

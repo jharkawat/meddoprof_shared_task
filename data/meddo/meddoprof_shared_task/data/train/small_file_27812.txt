@@ -1,0 +1,8 @@
+
+Contacto	O
+distante	O
+,	O
+bloqueado	O
+,	O
+perplejo	O
+.	O

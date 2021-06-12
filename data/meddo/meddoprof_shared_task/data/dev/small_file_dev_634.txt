@@ -1,0 +1,26 @@
+
+En	O
+los	O
+últimos	O
+años	O
+,	O
+la	O
+evolución	O
+de	O
+su	O
+enfermedad	O
+se	O
+ha	O
+caracterizado	O
+por	O
+frecuentes	O
+descompensaciones	O
+de	O
+tipo	O
+maníaco	O
+o	O
+con	O
+sintomatología	O
+afectiva	O
+mixta	O
+.	O

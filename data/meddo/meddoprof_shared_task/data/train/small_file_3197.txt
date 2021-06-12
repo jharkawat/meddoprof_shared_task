@@ -1,0 +1,10 @@
+
+Se	O
+derivó	O
+a	O
+la	O
+paciente	O
+a	O
+dicha	O
+consulta	O
+.	O

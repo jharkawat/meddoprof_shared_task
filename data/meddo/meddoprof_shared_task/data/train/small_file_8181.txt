@@ -1,0 +1,14 @@
+
+Se	O
+descartó	O
+anomalía	O
+anatómica	O
+o	O
+vascular	O
+mediante	O
+eco	O
+-	O
+doppler	O
+y	O
+RMN	O
+.	O

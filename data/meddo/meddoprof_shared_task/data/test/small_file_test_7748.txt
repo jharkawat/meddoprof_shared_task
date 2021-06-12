@@ -1,0 +1,17 @@
+
+Orientado	O
+en	O
+tiempo	O
+,	O
+espacio	O
+y	O
+persona	O
+,	O
+sin	O
+focalización	O
+neurológica	O
+,	O
+pares	O
+craneales	O
+normales	O
+.	O

@@ -1,0 +1,16 @@
+
+El	O
+paciente	O
+ha	O
+sido	O
+revisado	O
+en	O
+consultas	O
+con	O
+recuperación	O
+casi	O
+completa	O
+y	O
+sin	O
+secuelas	O
+.	O

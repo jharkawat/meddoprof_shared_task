@@ -1,0 +1,8 @@
+
+Sigue	O
+tratamiento	O
+con	O
+pregabalina	O
+y	O
+amitriptilina	O
+.	O

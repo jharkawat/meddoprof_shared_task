@@ -1,0 +1,25 @@
+
+ANA	O
+:	O
+negativo	O
+;	O
+ANTI	O
+-	O
+DNA	O
+:	O
+negativo	O
+;	O
+ECA	O
+:	O
+normal	O
+;	O
+ANTI	O
+RO	O
+/	O
+LA	O
+:	O
+negativo	O
+;	O
+IGs	O
+:	O
+normales	O

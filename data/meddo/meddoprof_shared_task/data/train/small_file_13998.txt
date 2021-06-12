@@ -1,0 +1,7 @@
+
+HTA	O
+esencial	O
+tratada	O
+con	O
+enalapril	O
+.	O

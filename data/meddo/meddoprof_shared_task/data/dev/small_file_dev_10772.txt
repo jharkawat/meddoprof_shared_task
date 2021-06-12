@@ -1,0 +1,10 @@
+
+Se	O
+siente	O
+cansada	O
+y	O
+sin	O
+fuerzas	O
+para	O
+vivir	O
+.	O

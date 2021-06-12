@@ -1,0 +1,13 @@
+
+Está	O
+casada	O
+,	O
+es	O
+madre	O
+de	O
+una	O
+hija	O
+de	O
+9	O
+años	O
+.	O

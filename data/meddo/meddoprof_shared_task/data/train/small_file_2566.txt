@@ -1,0 +1,17 @@
+
+Las	O
+determinaciones	O
+de	O
+IgE	O
+específica	O
+(	O
+cefaclor	O
+,	O
+amoxicilina	O
+,	O
+penicilina	O
+G	O
+)	O
+fueron	O
+negativas	O
+.	O

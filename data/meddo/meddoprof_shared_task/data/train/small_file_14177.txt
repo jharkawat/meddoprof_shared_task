@@ -1,0 +1,15 @@
+
+Aumento	O
+de	O
+tamaño	O
+testículo	O
+izquierdo	O
+con	O
+desestructuración	O
+ecográfica	O
+relacionada	O
+con	O
+neoplasia	O
+testicular	O
+izquierda	O
+.	O

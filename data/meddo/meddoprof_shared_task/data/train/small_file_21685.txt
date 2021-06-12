@@ -1,0 +1,17 @@
+
+Me	O
+gustaría	O
+saber	O
+si	O
+sería	O
+Usted	O
+tan	O
+amable	O
+de	O
+atenderme	O
+y	O
+darme	O
+su	O
+valiosísima	O
+opinión	O
+.	O

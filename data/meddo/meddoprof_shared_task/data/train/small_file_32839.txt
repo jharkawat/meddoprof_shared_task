@@ -1,0 +1,26 @@
+
+Instruir	O
+al	O
+paciente	O
+acerca	O
+del	O
+tipo	O
+de	O
+ejercicio	O
+adecuado	O
+para	O
+su	O
+nivel	O
+de	O
+salud	O
+,	O
+en	O
+colaboración	O
+con	O
+el	O
+médico	B-PROFESION
+y	O
+/	O
+o	O
+fisioterapeuta	B-PROFESION
+.	O

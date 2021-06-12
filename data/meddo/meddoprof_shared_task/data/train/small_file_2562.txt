@@ -1,0 +1,11 @@
+
+Se	O
+administró	O
+tratamiento	O
+antihistamínico	O
+y	O
+corticoide	O
+con	O
+evolución	O
+favorable	O
+.	O

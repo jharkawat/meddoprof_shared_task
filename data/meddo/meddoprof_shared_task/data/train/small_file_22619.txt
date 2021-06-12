@@ -1,0 +1,25 @@
+
+Su	O
+irritabilidad	O
+y	O
+episodios	O
+disociativos	O
+mejoran	O
+pero	O
+continuó	O
+con	O
+síncopes	O
+que	O
+mejoraron	O
+paulatinamente	O
+y	O
+desde	O
+febrero	O
+2003	O
+hasta	O
+enero	O
+de	O
+2005	O
+estuvo	O
+asintomático	O
+.	O

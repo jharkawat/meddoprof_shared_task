@@ -1,0 +1,25 @@
+
+Sus	O
+padres	O
+de	O
+57	O
+y	O
+63	O
+años	O
+y	O
+su	O
+hermano	O
+de	O
+27	O
+,	O
+que	O
+convive	O
+en	O
+pareja	O
+,	O
+viven	O
+en	O
+su	O
+pueblo	O
+natal	O
+.	O

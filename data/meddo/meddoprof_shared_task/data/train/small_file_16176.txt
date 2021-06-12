@@ -1,0 +1,19 @@
+
+Pequeña	O
+lesión	O
+hipodensa	O
+en	O
+el	O
+centro	O
+semioval	O
+derecho	O
+,	O
+también	O
+de	O
+características	O
+que	O
+sugieren	O
+lesión	O
+isquémica	O
+subaguda	O
+.	O

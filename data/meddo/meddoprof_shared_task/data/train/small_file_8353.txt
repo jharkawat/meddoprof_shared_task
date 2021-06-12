@@ -1,0 +1,16 @@
+
+Se	O
+realizó	O
+en	O
+esa	O
+visita	O
+una	O
+biopsia	O
+cutánea	O
+informada	O
+como	O
+"	O
+prúrigo	O
+subagudo	O
+"	O
+.	O

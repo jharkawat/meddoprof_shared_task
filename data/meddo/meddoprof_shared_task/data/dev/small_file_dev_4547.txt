@@ -1,0 +1,17 @@
+
+Contenido	O
+visceral	O
+en	O
+contacto	O
+con	O
+la	O
+pleura	O
+o	O
+signo	O
+de	O
+la	O
+"	O
+víscera	O
+caída	O
+"	O
+.	O

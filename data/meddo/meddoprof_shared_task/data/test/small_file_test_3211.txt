@@ -1,0 +1,12 @@
+
+No	O
+se	O
+palpan	O
+adenomegalias	O
+,	O
+sin	O
+hepatomegalia	O
+,	O
+ni	O
+esplenomegalia	O
+.	O

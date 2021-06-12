@@ -1,0 +1,86 @@
+T1	SINTOMA 110 130	palidez generalizada
+T2	SINTOMA 133 153	exantema pruriginoso
+T3	SINTOMA 232 246	síntomas leves
+T4	SINTOMA 419 425	fiebre
+T5	SINTOMA 429 444	tos persistente
+T6	SINTOMA 461 477	congestión nasal
+T7	SINTOMA 513 519	fiebre
+T8	SINTOMA 739 841	exantema urticarial clásico que afectaba a las extremidades superiores e inferiores así como al tronco
+T9	SINTOMA 1002 1010	exantema
+T10	SINTOMA 1039 1066	hinchazón de labios y manos
+T11	SINTOMA 1090 1096	febril
+T12	SINTOMA 1105 1113	tos seca
+T13	SINTOMA 1137 1147	sibilancia
+T14	SINTOMA 1162 1200	inflamación de la lengua o la garganta
+T15	SINTOMA 2080 2109	inflamación de labios y manos
+T16	SINTOMA 2119 2127	exantema
+T17	SINTOMA 2141 2152	pruriginoso
+T18	SINTOMA 2233 2241	exantema
+T19	PROCEDIMIENTO 343 360	autoconfinamiento
+T20	PROCEDIMIENTO 1601 1617	prueba de RT-PCR
+T21	PROCEDIMIENTO 1630 1662	frotis nasofaríngeo/orofaríngeos
+T22	PROCEDIMIENTO 1756 1771	biopsia cutánea
+T23	PROCEDIMIENTO 1969 1986	autoconfinamiento
+T24	PROCEDIMIENTO 2351 2368	prueba más de PCR
+T25	NEG 248 250	no
+T26	NSCO 251 276	se le hizo ninguna prueba
+T27	NEG 410 412	No
+T28	NSCO 413 444	tenía fiebre ni tos persistente
+T29	UNC 530 537	posible
+T30	USCO 538 564	alergia a los frutos secos
+T31	NEG 578 580	No
+T32	NSCO 581 659	tomaba ninguna medicación crónica ni había tomado ningún medicamento de compra
+T33	NEG 660 663	sin
+T34	NSCO 664 670	receta
+T35	NEG 672 674	no
+T36	NSCO 675 714	tenía alergias farmacológicas conocidas
+T37	UNC 869 877	probable
+T38	USCO 878 898	urticaria idiopática
+T39	NEG 1153 1155	no
+T40	NSCO 1156 1200	había inflamación de la lengua o la garganta
+T41	UNC 1535 1549	posibilidad de
+T42	USCO 1550 1595	una reacción alérgica o una enfermedad vírica
+T43	NEG 1742 1744	No
+T44	NSCO 1745 1771	se realizó biopsia cutánea
+T45	NEG 2327 2329	no
+T46	NSCO 2330 2397	se sometió a ninguna prueba más de PCR antes de volver a su trabajo
+T47	FARMACO 914 942	hidrocloruro de fexofenadina
+T48	FARMACO 1828 1856	hidrocloruro de fexofenadina
+T49	FARMACO 1899 1911	prednisolona
+T50	FARMACO 2057 2069	prednisolona
+T51	FARMACO 2180 2203	maleato de clorfenamina
+T52	ORG_VIVO 5 14	enfermera
+T53	ORG_VIVO 38 57	médico de urgencias
+T54	ORG_VIVO 158 164	pareja
+T55	ORG_VIVO 307 315	paciente
+T56	ORG_VIVO 482 490	paciente
+T57	ORG_VIVO 524 528	heno
+T58	ORG_VIVO 719 725	médico
+T59	ORG_VIVO 1071 1079	paciente
+T60	ORG_VIVO 1240 1246	médico
+T61	ORG_VIVO 1482 1488	médico
+T62	ORG_VIVO 1589 1595	vírica
+T63	ORG_VIVO 1681 1691	SARS-CoV-2
+T64	ORG_VIVO 1790 1798	paciente
+T65	ORG_VIVO 1953 1959	médico
+T66	ORG_VIVO 2291 2299	paciente
+T67	ENFERMEDAD 200 221	infección de COVID-19
+T68	ENFERMEDAD 538 564	alergia a los frutos secos
+T69	ENFERMEDAD 567 576	asma leve
+T70	ENFERMEDAD 681 704	alergias farmacológicas
+T71	ENFERMEDAD 739 766	exantema urticarial clásico
+T72	ENFERMEDAD 878 898	urticaria idiopática
+T73	ENFERMEDAD 1370 1402	erupción urticarial generalizada
+T74	ENFERMEDAD 1554 1571	reacción alérgica
+T75	ENFERMEDAD 1578 1595	enfermedad vírica
+T76	ENFERMEDAD 1667 1691	positiva para SARS-CoV-2
+T77	ENFERMEDAD 2028 2052	infección por SARS-CoV-2
+T78	PACIENTE-PROFESION 5 14	enfermera
+T79	SANITARIO-PROFESION 719 725	médico
+T80	SANITARIO-PROFESION 1240 1246	médico
+T81	SANITARIO-PROFESION 1482 1488	médico
+T82	SANITARIO-PROFESION 1953 1959	médico
+T83	SANITARIO-PROFESION 38 57	médico de urgencias
+T84	FAMILIAR-SITUACION_LABORAL 279 297	regresó al trabajo
+T85	PACIENTE-SITUACION_LABORAL 372 391	regresar al trabajo
+T86	PACIENTE-SITUACION_LABORAL 2378 2397	volver a su trabajo

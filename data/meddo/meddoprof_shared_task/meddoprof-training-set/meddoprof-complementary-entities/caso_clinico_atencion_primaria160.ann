@@ -1,0 +1,111 @@
+T1	SINTOMA 381 388	Fumador
+T2	SINTOMA 1060 1066	fiebre
+T3	SINTOMA 1211 1234	disminución del apetito
+T4	SINTOMA 1237 1252	pérdida de peso
+T5	SINTOMA 1359 1369	consciente
+T6	SINTOMA 1371 1380	orientado
+T7	SINTOMA 1383 1394	colaborador
+T8	SINTOMA 1396 1404	Eupneico
+T9	SINTOMA 1443 1450	Afebril
+T10	SINTOMA 1481 1510	murmullo vesicular disminuido
+T11	SINTOMA 1537 1548	crepitantes
+T12	SINTOMA 1553 1564	sibilancias
+T13	SINTOMA 1569 1575	roncus
+T14	SINTOMA 1637 1643	edemas
+T15	SINTOMA 3569 3576	astenia
+T16	SINTOMA 3578 3595	dolor dorsolumbar
+T17	SINTOMA 3607 3613	mareos
+T18	SINTOMA 3616 3642	inestabilidad de la marcha
+T19	SINTOMA 3676 3718	empeoramiento paulatino del estado general
+T20	SINTOMA 3720 3727	astenia
+T21	PROCEDIMIENTO 571 595	estudio neurofisiológico
+T22	PROCEDIMIENTO 1452 1479	Auscultación cardiopulmonar
+T23	PROCEDIMIENTO 1827 1847	radiografía de tórax
+T24	PROCEDIMIENTO 1910 1956	radiografía anteroposterior y lateral de tórax
+T25	PROCEDIMIENTO 2962 2984	TAC de tórax y abdomen
+T26	PROCEDIMIENTO 2986 2992	PET-TC
+T27	PROCEDIMIENTO 2994 3013	ecografía abdominal
+T28	PROCEDIMIENTO 3016 3062	biopsia pulmonar del lóbulo superior izquierdo
+T29	PROCEDIMIENTO 3169 3195	tratamiento quimioterápico
+T30	PROCEDIMIENTO 3244 3247	TAC
+T31	PROCEDIMIENTO 3324 3362	neumectomía izquierda intrapericárdica
+T32	PROCEDIMIENTO 3445 3448	TAC
+T33	NEG 198 200	No
+T34	NSCO 201 234	alergias medicamentosas conocidas
+T35	NSCO 235 242	Fumador
+T36	NEG 532 544	asintomático
+T37	NEG 614 616	no
+T38	NSCO 617 634	acude a consultas
+T39	NEG 1013 1015	no
+T40	NSCO 1016 1055	refiere sangrado ni supuración asociada
+T41	NEG 1057 1059	No
+T42	NSCO 1060 1066	fiebre
+T43	NEG 1253 1256	sin
+T44	NSCO 1257 1271	saber precisar
+T45	NEG 1443 1450	Afebril
+T46	NEG 1534 1536	No
+T47	NSCO 1537 1548	crepitantes
+T48	NEG 1550 1552	No
+T49	NSCO 1553 1564	sibilancias
+T50	NEG 1566 1568	No
+T51	NSCO 1569 1575	roncus
+T52	NEG 1586 1589	sin
+T53	NSCO 1590 1611	hallazgos patológicos
+T54	NEG 1634 1636	no
+T55	NSCO 1637 1643	edemas
+T56	NEG 1645 1647	No
+T57	NSCO 1648 1658	signos TVP
+T58	NEG 1726 1729	sin
+T59	NSCO 1730 1752	otros datos reseñables
+T60	NEG 2168 2170	no
+T61	NSCO 2171 2186	viven con ellos
+T62	UNC 3081 3089	sospecha
+T63	USCO 3090 3146	diagnóstica de neoplasia pulmonar con estadiaje T4N1/2M0
+T64	NEG 3616 3632	inestabilidad de
+T65	NSCO 3633 3642	la marcha
+T66	FARMACO 792 805	atorvastatina
+T67	FARMACO 816 825	enalapril
+T68	FARMACO 836 846	metformina
+T69	FARMACO 858 871	pentoxifilina
+T70	ORG_VIVO 19 24	Varón
+T71	ORG_VIVO 725 733	Jubilado
+T72	ORG_VIVO 883 891	Paciente
+T73	ORG_VIVO 913 923	personales
+T74	ORG_VIVO 1194 1202	paciente
+T75	ORG_VIVO 1315 1323	paciente
+T76	ORG_VIVO 2070 2078	Familiar
+T77	ORG_VIVO 2093 2101	Paciente
+T78	ORG_VIVO 2143 2148	mujer
+T79	ORG_VIVO 2158 2163	hijos
+T80	ORG_VIVO 2249 2257	familiar
+T81	ORG_VIVO 2290 2317	equipo de atención primaria
+T82	ORG_VIVO 2370 2397	equipo de atención primaria
+T83	ORG_VIVO 3540 3548	paciente
+T84	ENFERMEDAD 86 108	úlcera en talón de pie
+T85	ENFERMEDAD 201 224	alergias medicamentosas
+T86	ENFERMEDAD 359 362	HTA
+T87	ENFERMEDAD 364 367	DM2
+T88	ENFERMEDAD 369 379	dislipemia
+T89	ENFERMEDAD 455 476	Cardiopatía isquémica
+T90	ENFERMEDAD 546 560	Polineuropatía
+T91	ENFERMEDAD 655 659	EPOC
+T92	ENFERMEDAD 961 976	lesión en talón
+T93	ENFERMEDAD 1105 1136	hiperqueratosis palmo-plantares
+T94	ENFERMEDAD 1655 1658	TVP
+T95	ENFERMEDAD 1660 1675	Hiperqueratosis
+T96	ENFERMEDAD 1791 1813	hiperqueratosis palmar
+T97	ENFERMEDAD 2537 2577	queratodermias palmoplantares adquiridas
+T98	ENFERMEDAD 2579 2604	queratodermia climatérica
+T99	ENFERMEDAD 2620 2628	mixedema
+T100	ENFERMEDAD 2630 2667	queratodermia palmo-plantar arsenical
+T101	ENFERMEDAD 2669 2711	queratodermia palmo-plantar paraneoplásica
+T102	ENFERMEDAD 2713 2720	Tylosis
+T103	ENFERMEDAD 2722 2740	Síndrome de Reiter
+T104	ENFERMEDAD 2758 2799	Queratodermia palmoplantar paraneoplásica
+T105	ENFERMEDAD 3105 3123	neoplasia pulmonar
+T106	PACIENTE-SITUACION_LABORAL 725 733	Jubilado
+T107	SANITARIO-PROFESION 2290 2317	equipo de atención primaria
+T108	SANITARIO-PROFESION 2370 2397	equipo de atención primaria
+T109	SANITARIO-PROFESION 2400 2431	equipo de atención hospitalaria
+T110	PACIENTE-SITUACION_LABORAL 2102 2110	jubilado
+T111	SANITARIO-PROFESION 2290 2344	equipo de atención primaria o de atención hospitalaria

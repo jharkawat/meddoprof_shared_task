@@ -1,0 +1,60 @@
+T1	SINTOMA 631 663	alteración de la imagen corporal
+T2	SINTOMA 1245 1255	consciente
+T3	SINTOMA 1258 1267	orientado
+T4	SINTOMA 1336 1354	contacto psicótico
+T5	SINTOMA 1670 1680	ánimo bajo
+T6	SINTOMA 1693 1702	Hiporexia
+T7	SINTOMA 1705 1713	insomnio
+T8	SINTOMA 2439 2462	sintomatología negativa
+T9	SINTOMA 2741 2775	consumo activo de tóxicos ilegales
+T10	PROCEDIMIENTO 2038 2055	TAC y RMN craneal
+T11	NEG 134 137	sin
+T12	NSCO 138 143	hijos
+T13	NEG 317 319	no
+T14	NSCO 320 368	realizaba ninguna actividad formativa ni laboral
+T15	NEG 468 471	sin
+T16	NSCO 472 479	interés
+T17	NEG 841 843	No
+T18	NSCO 844 868	consume en la actualidad
+T19	NEG 1584 1586	no
+T20	NSCO 1587 1599	estructurada
+T21	NEG 1907 1910	sin
+T22	NSCO 1911 1954	evidenciarse una adecuada respuesta clínica
+T23	UNC 2101 2108	pudiera
+T24	USCO 2109 2156	justificar la ausencia de respuesta terapéutica
+T25	NEG 2316 2327	remisión de
+T26	NSCO 2328 2345	la sintomatología
+T27	NEG 2454 2462	negativa
+T28	NEG 2671 2683	asintomático
+T29	NEG 2737 2740	Sin
+T30	NSCO 2741 2775	consumo activo de tóxicos ilegales
+T31	FARMACO 1832 1843	aripiprazol
+T32	FARMACO 1881 1892	risperidona
+T33	FARMACO 2222 2231	clozapina
+T34	FARMACO 2606 2615	clozapina
+T35	ORG_VIVO 0 8	Paciente
+T36	ORG_VIVO 113 123	personales
+T37	ORG_VIVO 125 132	soltero
+T38	ORG_VIVO 138 143	hijos
+T39	ORG_VIVO 159 164	madre
+T40	ORG_VIVO 170 176	padres
+T41	ORG_VIVO 200 205	menor
+T42	ORG_VIVO 211 219	hermanos
+T43	ORG_VIVO 384 394	familiares
+T44	ORG_VIVO 396 401	madre
+T45	ORG_VIVO 416 421	Padre
+T46	ORG_VIVO 544 552	pediatra
+T47	ORG_VIVO 779 787	cannabis
+T48	ORG_VIVO 1008 1016	paciente
+T49	ORG_VIVO 1222 1230	paciente
+T50	ORG_VIVO 2370 2378	paciente
+T51	ENFERMEDAD 406 414	ansiedad
+T52	ENFERMEDAD 770 787	consumir cannabis
+T53	ENFERMEDAD 871 888	ENFERMEDAD ACTUAL
+T54	ENFERMEDAD 1649 1667	Angustia psicótica
+T55	ENFERMEDAD 1736 1747	DIAGNÓSTICO
+T56	ENFERMEDAD 1748 1771	Esquizofrenia paranoide
+T57	SANITARIO-PROFESION 544 552	pediatra
+T58	PACIENTE-SITUACION_LABORAL 221 249	Cursó sus estudios primarios
+T59	PACIENTE-SITUACION_LABORAL 330 368	ninguna actividad formativa ni laboral
+T60	PACIENTE-SITUACION_LABORAL 2822 2838	realiza un curso

@@ -1,0 +1,16 @@
+
+Los	O
+neuromas	O
+muestran	O
+actividad	O
+evocada	O
+espontánea	O
+y	O
+anormal	O
+tras	O
+la	O
+estimulación	O
+mecánica	O
+o	O
+química	O
+.	O

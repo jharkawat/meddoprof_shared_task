@@ -1,0 +1,10 @@
+
+Peso	O
+al	O
+nacer	O
+:	O
+3	O
+.	O
+500	O
+Kg	O
+.	O

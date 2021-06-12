@@ -1,0 +1,6 @@
+
+Tiotropio	O
+bromuro	O
+a	O
+demanda	O
+.	O

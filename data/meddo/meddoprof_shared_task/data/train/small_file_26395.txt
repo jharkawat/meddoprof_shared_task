@@ -1,0 +1,7 @@
+
+África	O
+es	O
+originaria	O
+de	O
+Etiopía	O
+.	O

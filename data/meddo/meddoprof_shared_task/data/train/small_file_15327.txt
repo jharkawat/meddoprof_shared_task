@@ -1,0 +1,19 @@
+
+Los	O
+resultados	O
+de	O
+una	O
+tomografía	O
+computarizada	O
+de	O
+encéfalo	O
+,	O
+una	O
+punción	O
+lumbar	O
+y	O
+un	O
+electroencefalograma	O
+fueron	O
+normales	O
+.	O

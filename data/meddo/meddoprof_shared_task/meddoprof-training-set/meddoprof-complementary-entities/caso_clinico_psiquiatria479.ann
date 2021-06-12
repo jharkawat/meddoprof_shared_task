@@ -1,0 +1,59 @@
+T1	SINTOMA 1386 1399	irritabilidad
+T2	SINTOMA 1401 1424	delirios megalomaníacos
+T3	SINTOMA 1437 1467	sintomatología sensoperceptiva
+T4	SINTOMA 1469 1492	alucinaciones auditivas
+T5	SINTOMA 1519 1566	alteraciones marcadas del curso del pensamiento
+T6	SINTOMA 1918 1924	apatía
+T7	SINTOMA 1926 1932	abulia
+T8	SINTOMA 1935 1944	anhedonia
+T9	PROCEDIMIENTO 760 790	tratamiento psicofarmacológico
+T10	PROCEDIMIENTO 2034 2045	TAC craneal
+T11	PROCEDIMIENTO 2092 2111	analítica de sangre
+T12	PROCEDIMIENTO 2222 2238	tóxicos en orina
+T13	PROCEDIMIENTO 2241 2261	analíticas de sangre
+T14	PROCEDIMIENTO 2370 2386	tóxicos en orina
+T15	PROCEDIMIENTO 2560 2569	hemograma
+T16	NEG 574 576	no
+T17	NSCO 577 609	había iniciado actividad laboral
+T18	NEG 1062 1073	retirándose
+T19	NSCO 1074 1084	olanzapina
+T20	NEG 1861 1869	negativa
+T21	NEG 2116 2118	no
+T22	NSCO 2119 2158	mostró alteraciones ni tóxicos en orina
+T23	UNC 2293 2300	posible
+T24	USCO 2301 2356	síndrome metabólico y de una posible hiperprolactinemia
+T25	NEG 3112 3120	negativa
+T26	NSCO 3121 3133	concomitante
+T27	NEG 3694 3696	no
+T28	NSCO 3697 3709	ha requerido
+T29	NSCO 3727 3808	más ingresos en Hospitalización de Agudos ni en Unidades de tratamiento intensivo
+T30	NEG 4123 4125	No
+T31	NSCO 4126 4162	realiza un consumo activo de tóxicos
+T32	FARMACO 795 806	risperidona
+T33	FARMACO 823 833	olanzapina
+T34	FARMACO 1074 1084	olanzapina
+T35	FARMACO 1135 1144	clozapina
+T36	FARMACO 2511 2520	clozapina
+T37	FARMACO 3941 3953	paliperidona
+T38	FARMACO 3985 3994	clozapina
+T39	ORG_VIVO 0 14	Paciente varón
+T40	ORG_VIVO 295 303	paciente
+T41	ORG_VIVO 533 541	paciente
+T42	ORG_VIVO 741 749	paciente
+T43	ORG_VIVO 862 870	paciente
+T44	ORG_VIVO 1109 1117	paciente
+T45	ORG_VIVO 1730 1738	paciente
+T46	ORG_VIVO 2007 2015	paciente
+T47	ORG_VIVO 2444 2452	paciente
+T48	ORG_VIVO 2725 2733	paciente
+T49	ORG_VIVO 3068 3076	paciente
+T50	ORG_VIVO 3520 3528	paciente
+T51	ORG_VIVO 3589 3597	paciente
+T52	ORG_VIVO 4028 4036	paciente
+T53	ENFERMEDAD 179 207	F.20 esquizofrenia paranoide
+T54	ENFERMEDAD 2301 2320	síndrome metabólico
+T55	ENFERMEDAD 2338 2356	hiperprolactinemia
+T56	ENFERMEDAD 2771 2790	trastornos mentales
+T57	ENFERMEDAD 3173 3202	F. 20 esquizofrenia paranoide
+T58	PACIENTE-SITUACION_LABORAL 542 571	había abandonado los estudios
+T59	PACIENTE-SITUACION_LABORAL 574 609	no había iniciado actividad laboral

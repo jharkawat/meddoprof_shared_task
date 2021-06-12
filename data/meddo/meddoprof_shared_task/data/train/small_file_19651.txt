@@ -1,0 +1,8 @@
+
+Edad	O
+en	O
+que	O
+gateo	O
+:	O
+7	O
+meses	O

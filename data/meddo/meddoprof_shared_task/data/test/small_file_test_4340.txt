@@ -1,0 +1,26 @@
+
+Por	O
+nuestra	O
+parte	O
+,	O
+se	O
+solicitó	O
+la	O
+realización	O
+de	O
+un	O
+nuevo	O
+PET	O
+-	O
+TC	O
+para	O
+reevaluar	O
+las	O
+adenopatías	O
+que	O
+describían	O
+en	O
+el	O
+PET	O
+basal	O
+.	O

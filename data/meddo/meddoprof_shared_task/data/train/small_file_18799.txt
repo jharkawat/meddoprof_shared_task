@@ -1,0 +1,6 @@
+
+No	O
+se	O
+siente	O
+querida	O
+.	O

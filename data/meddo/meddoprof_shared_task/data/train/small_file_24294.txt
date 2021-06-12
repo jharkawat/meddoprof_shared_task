@@ -1,0 +1,25 @@
+
+Poco	O
+a	O
+poco	O
+comienza	O
+a	O
+sentirse	O
+raro	O
+,	O
+con	O
+sentimientos	O
+de	O
+extrañeza	O
+ante	O
+si	O
+mismo	O
+,	O
+muy	O
+inquieto	O
+y	O
+con	O
+un	O
+habla	O
+incoherente	O
+.	O

@@ -1,0 +1,23 @@
+
+En	O
+el	O
+posoperatorio	O
+,	O
+la	O
+paciente	O
+evolucionó	O
+con	O
+neutropenia	O
+,	O
+fiebre	O
+,	O
+candidiasis	O
+oral	O
+y	O
+lesión	O
+perianal	O
+por	O
+herpes	O
+virus	O
+activa	O
+.	O

@@ -1,0 +1,26 @@
+
+En	O
+su	O
+domicilio	O
+refirió	O
+incremento	O
+de	O
+episodios	O
+migran	O
+̃	O
+osos	O
+habituales	O
+(	O
+fue	O
+tratado	O
+con	O
+Nadolol	O
+y	O
+Triptizol	O
+,	O
+con	O
+mejoría	O
+del	O
+cuadro	O
+clínico	O
+.	O

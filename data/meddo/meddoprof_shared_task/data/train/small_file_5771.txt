@@ -1,0 +1,20 @@
+
+Paciente	O
+que	O
+presenta	O
+dolor	O
+en	O
+ojo	O
+derecho	O
+y	O
+aumento	O
+de	O
+inflamación	O
+de	O
+forma	O
+progresiva	O
+desde	O
+hace	O
+tres	O
+días	O
+.	O

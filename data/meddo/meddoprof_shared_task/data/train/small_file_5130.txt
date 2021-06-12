@@ -1,0 +1,15 @@
+
+Auscultación	O
+tonos	O
+rítmicos	O
+a	O
+buena	O
+frecuencia	O
+,	O
+no	O
+se	O
+auscultan	O
+soplos	O
+ni	O
+extratonos	O
+.	O

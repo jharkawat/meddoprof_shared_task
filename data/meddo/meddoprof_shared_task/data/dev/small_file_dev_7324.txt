@@ -1,0 +1,18 @@
+
+Además	O
+se	O
+realiza	O
+PCR	O
+de	O
+exudado	O
+nasofaríngeo	O
+que	O
+resulta	O
+positiva	O
+para	O
+virus	O
+influenza	O
+A	O
+no	O
+H1N1	O
+.	O

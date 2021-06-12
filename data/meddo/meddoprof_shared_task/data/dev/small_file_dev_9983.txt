@@ -1,0 +1,14 @@
+
+Tenía	O
+dos	O
+hijas	O
+mayores	O
+de	O
+edad	O
+que	O
+vivían	O
+en	O
+el	O
+mismo	O
+distrito	O
+.	O

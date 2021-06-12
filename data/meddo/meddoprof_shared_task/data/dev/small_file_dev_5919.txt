@@ -1,0 +1,22 @@
+
+Biopsia	O
+prostática	O
+transrectal	O
+:	O
+la	O
+ecografía	O
+revela	O
+una	O
+próstata	O
+homogénea	O
+y	O
+sin	O
+nódulos	O
+,	O
+de	O
+un	O
+volumen	O
+de	O
+50	O
+cc	O
+.	O

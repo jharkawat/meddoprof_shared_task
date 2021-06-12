@@ -1,0 +1,12 @@
+
+Con	O
+test	O
+de	O
+Coombs	O
+directo	O
+negativo	O
+se	O
+descarto	O
+origen	O
+inmune	O
+.	O

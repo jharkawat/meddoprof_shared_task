@@ -1,0 +1,7 @@
+
+Verbaliza	O
+ideación	O
+delirante	O
+de	O
+perjuicio	O
+.	O

@@ -1,0 +1,19 @@
+
+Antecedentes	O
+familiares	O
+:	O
+madre	O
+con	O
+diagnóstico	O
+de	O
+depresión	O
+mayor	O
+en	O
+seguimiento	O
+psiquiátrico	O
+,	O
+ingresos	O
+anteriores	O
+en	O
+psiquiatría	O
+.	O

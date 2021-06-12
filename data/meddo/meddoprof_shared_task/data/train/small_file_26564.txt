@@ -1,0 +1,6 @@
+
+No	O
+tomó	O
+ninguna	O
+medicación	O
+.	O

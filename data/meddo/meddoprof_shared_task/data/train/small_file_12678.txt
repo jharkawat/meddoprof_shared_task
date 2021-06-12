@@ -1,0 +1,16 @@
+
+Entre	O
+sus	O
+antecedentes	O
+figura	O
+asma	O
+en	O
+tratamiento	O
+con	O
+salbutamol	O
+y	O
+terbutalina	O
+durante	O
+las	O
+reagudizaciones	O
+.	O

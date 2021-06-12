@@ -1,0 +1,12 @@
+
+Su	O
+sueño	O
+es	O
+fragmentado	O
+y	O
+niega	O
+ideación	O
+auto	O
+ni	O
+heteroagresiva	O
+.	O

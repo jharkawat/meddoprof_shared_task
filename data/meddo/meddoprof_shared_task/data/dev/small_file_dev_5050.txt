@@ -1,0 +1,21 @@
+
+Colonoscopia	O
+(	O
+13	O
+/	O
+04	O
+/	O
+11	O
+)	O
+:	O
+Se	O
+observan	O
+múltiples	O
+lesiones	O
+vasculares	O
+,	O
+no	O
+sugestivas	O
+de	O
+vasculitis	O
+.	O

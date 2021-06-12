@@ -1,0 +1,5 @@
+
+Alérgico	O
+a	O
+lácteos	O
+.	O

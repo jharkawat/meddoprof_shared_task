@@ -1,0 +1,11 @@
+
+Presentaba	O
+buen	O
+estado	O
+general	O
+y	O
+se	O
+mantuvo	O
+hemodinámicamente	O
+estable	O
+.	O

@@ -1,0 +1,51 @@
+T1	SINTOMA 566 588	masa irregular frontal
+T2	PROCEDIMIENTO 867 885	Exploración física
+T3	PROCEDIMIENTO 893 902	anamnesis
+T4	PROCEDIMIENTO 1196 1228	exploración física y neurológica
+T5	PROCEDIMIENTO 1373 1384	RM cerebral
+T6	PROCEDIMIENTO 1440 1460	angiografía cerebral
+T7	PROCEDIMIENTO 1901 1913	embolización
+T8	PROCEDIMIENTO 2083 2102	resección de la MAV
+T9	PROCEDIMIENTO 2169 2187	incisión bicoronal
+T10	PROCEDIMIENTO 2603 2614	angiografía
+T11	PROCEDIMIENTO 2634 2665	coagulación por radiofrecuencia
+T12	PROCEDIMIENTO 2751 2802	resección de todos los vasos sanguíneos subcutáneos
+T13	PROCEDIMIENTO 2923 2967	transfundir con dos concentrados de hematíes
+T14	NEG 828 831	sin
+T15	NSCO 832 866	antecedentes personales de interés
+T16	NSCO 867 885	Exploración física
+T17	NEG 1160 1162	no
+T18	NSCO 1163 1190	refiere otra sintomatología
+T19	UNC 1285 1296	sospecha de
+T20	USCO 1297 1365	malformación arteriovenosa traumática se solicitan pruebas de imagen
+T21	NEG 1385 1387	no
+T22	NSCO 1388 1431	se evidenciaron alteraciones significativas
+T23	NEG 1879 1881	No
+T24	NSCO 1882 2053	se llevó a cabo la embolización ni de las ramas provenientes de los aportes intracraneales debido al alto riesgo de amaurosis de uno o ambos ojos, ni de las extracraneales
+T25	UNC 2072 2079	posible
+T26	USCO 2080 2153	la resección de la MAV mediante la intervención quirúrgica exclusivamente
+T27	UNC 2362 2369	posible
+T28	USCO 2370 2421	la resección de la misma con un sangrado controlado
+T29	NEG 3222 3224	no
+T30	NSCO 3225 3266	se produjeron complicaciones neurológicas
+T31	NEG 3304 3307	sin
+T32	NSCO 3308 3349	desarrollar zonas de necrosis ni alopecia
+T33	NEG 3407 3409	no
+T34	NSCO 3410 3430	ha mostrado recidiva
+T35	ORG_VIVO 382 387	mujer
+T36	ORG_VIVO 845 855	personales
+T37	ORG_VIVO 907 915	paciente
+T38	ORG_VIVO 2673 2677	mono
+T39	ORG_VIVO 3445 3448	Dr.
+T40	ENFERMEDAD 514 546	malformación del cuero cabelludo
+T41	ENFERMEDAD 970 987	contusión frontal
+T42	ENFERMEDAD 1023 1051	hematoma subgaleal bifrontal
+T43	ENFERMEDAD 1297 1334	malformación arteriovenosa traumática
+T44	ENFERMEDAD 1998 2027	amaurosis de uno o ambos ojos
+T45	ENFERMEDAD 2099 2102	MAV
+T46	ENFERMEDAD 2264 2267	MAV
+T47	ENFERMEDAD 3341 3349	alopecia
+T48	SANITARIO-PROFESION 3445 3448	Dr.
+T49	SANITARIO-PROFESION 317 323	Médico
+T50	PACIENTE-PROFESION 421 433	equilibrista
+T51	PACIENTE-PROFESION 434 446	funambulista

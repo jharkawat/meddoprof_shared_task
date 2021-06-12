@@ -1,0 +1,25 @@
+
+Si	O
+no	O
+hubiera	O
+sido	O
+por	O
+sus	O
+tres	O
+hijos	O
+y	O
+su	O
+familia	O
+,	O
+que	O
+dependían	O
+de	O
+él	O
+,	O
+hubiera	O
+tratado	O
+de	O
+quitarse	O
+la	O
+vida	O
+.	O

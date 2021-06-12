@@ -1,0 +1,21 @@
+
+El	O
+cuadro	O
+se	O
+trató	O
+exitosamente	O
+con	O
+la	O
+administración	O
+de	O
+glucosa	O
+,	O
+lo	O
+que	O
+permitió	O
+la	O
+retirada	O
+del	O
+tratamiento	O
+antipsicótico	O
+.	O

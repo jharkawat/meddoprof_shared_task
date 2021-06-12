@@ -1,0 +1,8 @@
+
+Cultivo	O
+de	O
+LCR	O
+:	O
+GRAM	O
+negativo	O
+.	O

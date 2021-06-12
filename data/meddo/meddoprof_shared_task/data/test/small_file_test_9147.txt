@@ -1,0 +1,24 @@
+
+Además	O
+,	O
+desde	O
+hace	O
+varios	O
+días	O
+se	O
+le	O
+ha	O
+añadido	O
+el	O
+cuadro	O
+respiratorio	O
+descrito	O
+anteriormente	O
+para	O
+el	O
+cual	O
+está	O
+recibiendo	O
+tratamiento	O
+antibiótico	O
+.	O

@@ -1,0 +1,7 @@
+
+No	O
+otros	O
+datos	O
+de	O
+interés	O
+.	O

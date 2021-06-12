@@ -1,0 +1,6 @@
+
+Escala	O
+Quick	O
+sofa	O
+2	O
+.	O

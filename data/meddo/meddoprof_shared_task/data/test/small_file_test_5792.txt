@@ -1,0 +1,14 @@
+
+La	O
+intervención	O
+quirúrgica	O
+del	O
+cáncer	O
+de	O
+mama	O
+se	O
+demora	O
+por	O
+el	O
+ingreso	O
+.	O

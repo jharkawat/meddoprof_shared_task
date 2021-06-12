@@ -1,0 +1,25 @@
+
+En	O
+ese	O
+ingreso	O
+dice	O
+no	O
+recordar	O
+los	O
+motivos	O
+exactos	O
+de	O
+su	O
+intento	O
+,	O
+si	O
+bien	O
+reconoce	O
+haber	O
+discutido	O
+con	O
+un	O
+compañero	O
+de	O
+piso	O
+.	O

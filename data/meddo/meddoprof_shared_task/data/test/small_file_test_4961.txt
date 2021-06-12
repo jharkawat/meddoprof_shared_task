@@ -1,0 +1,15 @@
+
+Linfoma	O
+anaplásico	O
+T	O
+de	O
+células	O
+grandes	O
+ALK	O
+negativo	O
+,	O
+estadio	O
+III	O
+-	O
+B	O
+.	O

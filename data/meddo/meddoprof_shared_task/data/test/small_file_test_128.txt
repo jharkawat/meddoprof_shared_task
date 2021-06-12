@@ -1,0 +1,18 @@
+
+Algunas	O
+veces	O
+huevo	O
+con	O
+frijoles	O
+(	O
+consume	O
+en	O
+total	O
+4	O
+ó	O
+5	O
+huevos	O
+por	O
+semana	O
+)	O
+.	O

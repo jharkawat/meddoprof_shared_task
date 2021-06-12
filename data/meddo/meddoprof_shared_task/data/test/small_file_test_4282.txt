@@ -1,0 +1,26 @@
+
+Se	O
+aprecian	O
+algunas	O
+pequeñas	O
+imágenes	O
+hiperintensas	O
+T2	O
+y	O
+Flair	O
+a	O
+nivel	O
+de	O
+la	O
+sustancia	O
+blanca	O
+supratentorial	O
+que	O
+no	O
+parecen	O
+guardar	O
+relación	O
+con	O
+las	O
+anteriores	O
+.	O

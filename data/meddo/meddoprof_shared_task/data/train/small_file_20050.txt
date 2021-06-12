@@ -1,0 +1,24 @@
+
+Al	O
+preguntarle	O
+por	O
+la	O
+fecha	O
+respondió	O
+con	O
+una	O
+larga	O
+explicación	O
+sobre	O
+el	O
+significado	O
+oculto	O
+esta	O
+,	O
+no	O
+acertando	O
+por	O
+un	O
+solo	O
+día	O
+.	O

@@ -1,0 +1,17 @@
+
+Realizado	O
+a	O
+partir	O
+de	O
+la	O
+recogida	O
+de	O
+datos	O
+y	O
+utilizando	O
+los	O
+patrones	O
+funcionales	O
+de	O
+M	O
+.	O

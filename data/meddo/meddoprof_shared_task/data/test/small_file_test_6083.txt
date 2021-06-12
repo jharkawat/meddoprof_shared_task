@@ -1,0 +1,12 @@
+
+Tumefacción	O
+en	O
+pómulo	O
+derecho	O
+altamente	O
+dolorosa	O
+a	O
+la	O
+palpación	O
+externa	O
+.	O

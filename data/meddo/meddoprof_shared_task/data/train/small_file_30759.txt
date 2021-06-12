@@ -1,0 +1,22 @@
+
+Interpreta	O
+en	O
+los	O
+desconocidos	O
+el	O
+toser	O
+o	O
+rascarse	O
+la	O
+cabeza	O
+como	O
+señales	O
+para	O
+que	O
+deje	O
+de	O
+fumar	O
+o	O
+se	O
+suicide	O
+.	O

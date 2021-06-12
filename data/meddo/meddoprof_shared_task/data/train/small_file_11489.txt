@@ -1,0 +1,19 @@
+
+Refería	O
+contacto	O
+frecuente	O
+con	O
+animales	O
+(	O
+perros	O
+,	O
+gatos	O
+y	O
+pájaros	O
+)	O
+y	O
+era	O
+donante	O
+de	O
+sangre	O
+.	O

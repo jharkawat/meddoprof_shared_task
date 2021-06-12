@@ -1,0 +1,24 @@
+
+Para	O
+ello	O
+se	O
+han	O
+empleado	O
+fármacos	O
+antidepresivos	O
+y	O
+ansiolíticos	O
+como	O
+la	O
+clomipramina	O
+,	O
+paroxetina	O
+,	O
+fluoxetina	O
+,	O
+citalopram	O
+,	O
+sertralina	O
+y	O
+alprazolam	O
+.	O

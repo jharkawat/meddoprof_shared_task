@@ -1,0 +1,11 @@
+
+No	O
+realiza	O
+dieta	O
+pautada	O
+por	O
+Digestivo	O
+de	O
+protección	O
+biliar	O
+.	O

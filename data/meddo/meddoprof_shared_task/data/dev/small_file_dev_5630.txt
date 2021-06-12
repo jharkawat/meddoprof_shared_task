@@ -1,0 +1,13 @@
+
+La	O
+paciente	O
+mostraba	O
+abdomen	O
+blando	O
+y	O
+depresible	O
+,	O
+sin	O
+puntos	O
+dolorosos	O
+.	O

@@ -1,0 +1,22 @@
+
+Mujer	O
+de	O
+26	O
+años	O
+en	O
+seguimiento	O
+en	O
+salud	O
+mental	O
+desde	O
+la	O
+juventud	O
+por	O
+inestabilidad	O
+emocional	O
+,	O
+autolesiones	O
+y	O
+pseudoalucinaciones	O
+auditivas	O
+.	O

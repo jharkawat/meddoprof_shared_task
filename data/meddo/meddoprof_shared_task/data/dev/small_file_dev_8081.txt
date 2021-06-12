@@ -1,0 +1,21 @@
+
+Neoplasias	O
+:	O
+pueden	O
+presentarse	O
+con	O
+relativa	O
+frecuencia	O
+como	O
+fiebre	O
+sin	O
+foco	O
+el	O
+carcinoma	O
+de	O
+células	O
+renales	O
+y	O
+el	O
+linfoma	O
+.	O

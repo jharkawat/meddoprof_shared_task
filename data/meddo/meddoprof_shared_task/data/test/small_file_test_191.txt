@@ -1,0 +1,11 @@
+
+Ingresa	O
+a	O
+la	O
+educación	O
+preescolar	O
+a	O
+los	O
+cinco	O
+años	O
+.	O

@@ -1,0 +1,5 @@
+
+También	O
+repite	O
+frases	O
+.	O

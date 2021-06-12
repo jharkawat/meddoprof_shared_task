@@ -1,0 +1,18 @@
+
+Se	O
+instauró	O
+tratamiento	O
+con	O
+la	O
+primera	O
+sesión	O
+de	O
+TFD	O
+asociada	O
+a	O
+una	O
+inyección	O
+intravítrea	O
+de	O
+ranibizumab	O
+.	O

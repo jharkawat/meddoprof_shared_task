@@ -1,0 +1,11 @@
+
+A	O
+la	O
+exploración	O
+neurológica	O
+presentaba	O
+pupilas	O
+isocóricas	O
+,	O
+normorreactivas	O
+.	O

@@ -1,0 +1,16 @@
+
+Ánimo	O
+depresivo	O
+con	O
+sentimientos	O
+de	O
+tristeza	O
+,	O
+que	O
+presenta	O
+ritmo	O
+circadiano	O
+,	O
+mejoría	O
+vespertina	O
+.	O

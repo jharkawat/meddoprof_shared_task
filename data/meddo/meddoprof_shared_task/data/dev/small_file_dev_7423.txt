@@ -1,0 +1,27 @@
+
+Se	O
+agrega	O
+dolor	O
+retro	O
+esternal	O
+,	O
+edema	O
+en	O
+cara	O
+,	O
+artralgias	O
+en	O
+muñecas	O
+y	O
+tobillos	O
+,	O
+coluria	O
+y	O
+exantema	O
+petequial	O
+pruriginoso	O
+en	O
+tórax	O
+y	O
+extremidades	O
+.	O

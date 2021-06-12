@@ -1,0 +1,13 @@
+
+Psicosis	O
+inducida	O
+por	O
+cannabis	O
+asociada	O
+a	O
+trastorno	O
+límite	O
+de	O
+la	O
+personalidad	O
+.	O

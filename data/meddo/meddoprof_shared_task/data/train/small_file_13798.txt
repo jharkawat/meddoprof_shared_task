@@ -1,0 +1,18 @@
+
+Además	O
+,	O
+se	O
+solicitó	O
+un	O
+TAC	O
+que	O
+evidenciaba	O
+un	O
+acusado	O
+patrón	O
+bulloso	O
+bilateral	O
+y	O
+atelectasias	O
+subsegmentarias	O
+.	O

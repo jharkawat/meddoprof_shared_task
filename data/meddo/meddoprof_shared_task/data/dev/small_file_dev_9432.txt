@@ -1,0 +1,24 @@
+
+Diámetros	O
+máximos	O
+a	O
+nivel	O
+de	O
+los	O
+senos	O
+:	O
+seno	O
+CD	O
+-	O
+comisura	O
+67	O
+mm	O
+;	O
+seno	O
+NC	O
+-	O
+seno	O
+CI	O
+67	O
+mm	O
+.	O

@@ -1,0 +1,8 @@
+
+Apalestesia	O
+distal	O
+en	O
+las	O
+extremidades	O
+inferiores	O
+.	O

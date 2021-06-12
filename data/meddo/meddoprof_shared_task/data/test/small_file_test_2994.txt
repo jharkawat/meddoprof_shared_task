@@ -1,0 +1,8 @@
+
+Fracción	O
+gamma	O
+(	O
+23	O
+%	O
+)	O
+.	O

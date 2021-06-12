@@ -1,0 +1,43 @@
+T1	SINTOMA 18 25	fumador
+T2	SINTOMA 271 290	inflamación cutánea
+T3	SINTOMA 342 357	síndrome febril
+T4	SINTOMA 883 911	signos inflamatorios severos
+T5	SINTOMA 913 920	eritema
+T6	SINTOMA 938 971	aumento de la temperatura cutánea
+T7	SINTOMA 1594 1601	afebril
+T8	PROCEDIMIENTO 798 816	exploración física
+T9	PROCEDIMIENTO 1074 1092	exploración física
+T10	PROCEDIMIENTO 1119 1128	hemograma
+T11	PROCEDIMIENTO 1174 1191	gasometría venosa
+T12	PROCEDIMIENTO 1359 1371	hemocultivos
+T13	PROCEDIMIENTO 1422 1445	tratamiento antibiótico
+T14	NEG 28 31	sin
+T15	NSCO 32 66	reacciones adversas medicamentosas
+T16	NEG 126 129	sin
+T17	NSCO 130 153	tratamientos habituales
+T18	NEG 471 474	sin
+T19	NSCO 475 487	gran mejoría
+T20	UNC 608 615	no sabe
+T21	USCO 616 656	explicar cómo ni con qué se ha realizado
+T22	NEG 1016 1018	no
+T23	NSCO 1019 1040	claramente delimitada
+T24	NEG 1594 1601	afebril
+T25	NEG 1604 1607	sin
+T26	NSCO 1608 1656	otros signos de respuesta inflamatoria sistémica
+T27	FARMACO 446 469	Amoxicilina-Clavulánico
+T28	FARMACO 780 791	paracetamol
+T29	FARMACO 1459 1473	Ciprofloxacino
+T30	FARMACO 1476 1488	Clindamicina
+T31	ORG_VIVO 0 5	Varón
+T32	ORG_VIVO 85 95	personales
+T33	ORG_VIVO 188 196	animales
+T34	ORG_VIVO 362 389	médico de Atención Primaria
+T35	ORG_VIVO 1784 1806	Francisella tularensis
+T36	ENFERMEDAD 99 112	hiperuricemia
+T37	ENFERMEDAD 115 124	psoriasis
+T38	ENFERMEDAD 342 357	síndrome febril
+T39	ENFERMEDAD 571 594	herida en dorso de mano
+T40	ENFERMEDAD 818 869	herida en fase costrosa, negruzca, en dorso de mano
+T41	SANITARIO-PROFESION 362 389	médico de Atención Primaria
+T42	PACIENTE-PROFESION 156 174	Se dedica al campo
+T43	PACIENTE-PROFESION 176 196	trabaja con animales

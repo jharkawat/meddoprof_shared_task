@@ -1,0 +1,14 @@
+
+Muestra	O
+citoplasma	O
+eosinófilo	O
+,	O
+abundante	O
+,	O
+bien	O
+delimitado	O
+y	O
+escasa	O
+actividad	O
+mitótica	O
+.	O

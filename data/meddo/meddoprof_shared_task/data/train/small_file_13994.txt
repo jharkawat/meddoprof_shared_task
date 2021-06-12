@@ -1,0 +1,10 @@
+
+Precisó	O
+terapia	O
+antihipertensiva	O
+escalonada	O
+con	O
+tres	O
+grupos	O
+farmacológicos	O
+.	O

@@ -1,0 +1,24 @@
+
+Cuando	O
+lee	O
+un	O
+libro	O
+,	O
+ve	O
+palabras	O
+que	O
+no	O
+se	O
+encuentran	O
+en	O
+él	O
+y	O
+a	O
+menudo	O
+cambia	O
+el	O
+sentido	O
+de	O
+las	O
+frases	O
+.	O

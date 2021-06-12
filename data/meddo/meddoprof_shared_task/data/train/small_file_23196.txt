@@ -1,0 +1,12 @@
+
+Hipoperfusión	O
+en	O
+el	O
+putamen	O
+derecho	O
+y	O
+cabeza	O
+del	O
+caudado	O
+izquierdo	O
+.	O

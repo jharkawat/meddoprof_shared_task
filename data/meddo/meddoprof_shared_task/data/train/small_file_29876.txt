@@ -1,0 +1,26 @@
+
+Al	O
+ser	O
+un	O
+paciente	O
+ya	O
+crónico	O
+,	O
+está	O
+claro	O
+desde	O
+cuasi	O
+el	O
+principio	O
+,	O
+ya	O
+que	O
+mostraba	O
+todos	O
+los	O
+síntomas	O
+de	O
+una	O
+esquizofrenia	O
+paranoide	O
+.	O

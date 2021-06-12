@@ -1,0 +1,21 @@
+
+Tras	O
+la	O
+crisis	O
+presentó	O
+episodio	O
+postcrítico	O
+con	O
+cianosis	O
+central	O
+que	O
+paulatinamente	O
+fue	O
+mejorando	O
+con	O
+medidas	O
+de	O
+soporte	O
+y	O
+oxigenoterapia	O
+.	O

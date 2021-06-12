@@ -1,0 +1,11 @@
+
+Se	O
+realizó	O
+broncoscopia	O
+cultivos	O
+sin	O
+crecimiento	O
+y	O
+citometría	O
+normales	O
+.	O

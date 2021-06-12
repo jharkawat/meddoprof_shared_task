@@ -1,0 +1,75 @@
+T1	SINTOMA 3123 3131	inseguro
+T2	SINTOMA 3137 3152	baja autoestima
+T3	SINTOMA 3155 3197	dificultad para adquirir responsabilidades
+T4	PROCEDIMIENTO 614 632	controles de orina
+T5	PROCEDIMIENTO 1189 1204	benzodiacepinas
+T6	NEG 400 402	no
+T7	NSCO 403 419	poder encargarse
+T8	NEG 1519 1526	retirar
+T9	NSCO 1527 1540	la medicación
+T10	NEG 1764 1766	no
+T11	NSCO 1767 1803	obtuvo el titulo de Graduado Escolar
+T12	NEG 2753 2758	Nunca
+T13	NSCO 2759 2802	ha sido capaz de poner límites ni de exigir
+T14	NEG 2815 2817	no
+T15	NSCO 2818 2890	consiguen ponerse de acuerdo sobre cómo actuar en relación con este hijo
+T16	NEG 3549 3557	falta de
+T17	NSCO 3558 3618	apoyo familiar para realizar una desintoxicación ambulatoria
+T18	FARMACO 601 611	naltrexona
+T19	FARMACO 1408 1418	naltrexona
+T20	FARMACO 1584 1591	heroína
+T21	ORG_VIVO 216 224	paciente
+T22	ORG_VIVO 267 272	varón
+T23	ORG_VIVO 423 430	familia
+T24	ORG_VIVO 708 716	paciente
+T25	ORG_VIVO 790 796	médico
+T26	ORG_VIVO 798 807	psicólogo
+T27	ORG_VIVO 810 827	trabajador social
+T28	ORG_VIVO 1010 1018	familiar
+T29	ORG_VIVO 1104 1110	tabaco
+T30	ORG_VIVO 1128 1136	cannabis
+T31	ORG_VIVO 1480 1498	médico de cabecera
+T32	ORG_VIVO 1503 1511	paciente
+T33	ORG_VIVO 1677 1685	paciente
+T34	ORG_VIVO 1787 1803	Graduado Escolar
+T35	ORG_VIVO 1826 1834	paciente
+T36	ORG_VIVO 1937 1945	camarero
+T37	ORG_VIVO 2171 2179	paciente
+T38	ORG_VIVO 2323 2331	familiar
+T39	ORG_VIVO 2351 2358	familia
+T40	ORG_VIVO 2369 2374	madre
+T41	ORG_VIVO 2392 2400	familiar
+T42	ORG_VIVO 2415 2421	padres
+T43	ORG_VIVO 2427 2435	paciente
+T44	ORG_VIVO 2461 2466	madre
+T45	ORG_VIVO 2514 2520	marido
+T46	ORG_VIVO 2559 2565	hombre
+T47	ORG_VIVO 2602 2607	mujer
+T48	ORG_VIVO 2615 2619	hijo
+T49	ORG_VIVO 2682 2687	mujer
+T50	ORG_VIVO 2726 2730	hijo
+T51	ORG_VIVO 2739 2743	niño
+T52	ORG_VIVO 2808 2814	padres
+T53	ORG_VIVO 2886 2890	hijo
+T54	ORG_VIVO 3533 3541	paciente
+T55	ORG_VIVO 3564 3572	familiar
+T56	ORG_VIVO 3870 3876	médico
+T57	ORG_VIVO 3878 3887	psicólogo
+T58	ORG_VIVO 3889 3906	trabajador social
+T59	ENFERMEDAD 1559 1591	recaída en el consumo de heroína
+T60	ENFERMEDAD 2099 2119	hepatitis C positiva
+T61	ENFERMEDAD 2542 2551	ludopatía
+T62	ENFERMEDAD 3306 3314	suicidio
+T63	ENFERMEDAD 3438 3474	déficit en el desarrollo intelectual
+T64	ENFERMEDAD 3969 3972	PTI
+T65	PACIENTE-PROFESION 1937 1945	camarero
+T66	SANITARIO-PROFESION 3862 3876	equipo (médico
+T67	SANITARIO-PROFESION 770 788	equipo terapéutico
+T68	SANITARIO-PROFESION 790 796	médico
+T69	SANITARIO-PROFESION 1480 1498	médico de cabecera
+T70	SANITARIO-PROFESION 798 807	psicólogo
+T71	SANITARIO-PROFESION 3878 3887	psicólogo
+T72	OTROS-PROFESION 810 827	trabajador social
+T73	OTROS-PROFESION 3889 3906	trabajador social
+T74	PACIENTE-SITUACION_LABORAL 1725 1755	Realizó los estudios primarios
+T75	PACIENTE-PROFESION 1924 1934	repartidor

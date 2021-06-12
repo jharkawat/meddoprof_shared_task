@@ -1,0 +1,22 @@
+
+Bioquímica	O
+:	O
+glucosa	O
+105	O
+,	O
+urea	O
+21	O
+,	O
+creatinina	O
+0	O
+.	O
+96	O
+,	O
+Na	O
+135	O
+,	O
+K	O
+3	O
+.	O
+8	O
+.	O

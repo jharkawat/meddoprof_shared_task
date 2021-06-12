@@ -1,0 +1,6 @@
+
+Extremidades	O
+sin	O
+lesiones	O
+cutáneas	O
+.	O

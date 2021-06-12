@@ -1,0 +1,8 @@
+
+El	O
+diagnóstico	O
+es	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

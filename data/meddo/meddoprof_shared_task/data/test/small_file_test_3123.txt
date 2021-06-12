@@ -1,0 +1,20 @@
+
+0	O
+.	O
+9	O
+g	O
+/	O
+dl	O
+,	O
+beta	O
+glob	O
+0	O
+.	O
+8	O
+g	O
+/	O
+dl	O
+,	O
+gamma	O
+glob	O
+.	O

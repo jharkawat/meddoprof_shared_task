@@ -1,0 +1,14 @@
+
+Este	O
+paciente	O
+relaciona	O
+la	O
+discinesia	O
+con	O
+crisis	O
+de	O
+angustia	O
+y	O
+conductas	O
+evitativas	O
+.	O

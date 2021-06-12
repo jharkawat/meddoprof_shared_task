@@ -1,0 +1,18 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+Bicalutamida	O
+,	O
+presentando	O
+plaquetopenia	O
+severa	O
+lo	O
+que	O
+contraindica	O
+tratamiento	O
+con	O
+análogos	O
+LHRH	O
+.	O

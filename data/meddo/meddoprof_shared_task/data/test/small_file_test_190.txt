@@ -1,0 +1,18 @@
+
+Empieza	O
+a	O
+balbucear	O
+a	O
+los	O
+cinco	O
+meses	O
+y	O
+dice	O
+sus	O
+primeras	O
+palabras	O
+a	O
+los	O
+15	O
+meses	O
+.	O

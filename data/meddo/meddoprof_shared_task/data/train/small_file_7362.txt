@@ -1,0 +1,12 @@
+
+En	O
+el	O
+momento	O
+de	O
+consulta	O
+la	O
+paciente	O
+se	O
+encontraba	O
+asintomática	O
+.	O

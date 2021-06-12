@@ -1,0 +1,23 @@
+
+Y	O
+no	O
+podemos	O
+olvidar	O
+las	O
+causas	O
+psicógenas	O
+,	O
+como	O
+histeria	O
+o	O
+simulación	O
+,	O
+dado	O
+a	O
+los	O
+antecedentes	O
+psiquiátricos	O
+de	O
+la	O
+paciente	O
+.	O

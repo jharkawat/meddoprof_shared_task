@@ -1,0 +1,60 @@
+T1	SINTOMA 139 162	sensación de distensión
+T2	SINTOMA 165 228	edema en cuello, hueco supraclavicular, miembro superior y mama
+T3	SINTOMA 251 289	tejido celular subcutáneo de hemitórax
+T4	SINTOMA 430 449	constantes normales
+T5	SINTOMA 451 479	auscultación cardíaca normal
+T6	SINTOMA 481 527	disminución de murmullo vesicular en hemitórax
+T7	SINTOMA 1082 1140	edema en región cervical y pared antero-superior del tórax
+T8	SINTOMA 2066 2071	edema
+T9	PROCEDIMIENTO 385 394	anamnesis
+T10	PROCEDIMIENTO 451 472	auscultación cardíaca
+T11	PROCEDIMIENTO 723 732	hemograma
+T12	PROCEDIMIENTO 839 861	Estudio de trombofilia
+T13	PROCEDIMIENTO 870 878	Rx tórax
+T14	PROCEDIMIENTO 907 925	Eco-Doppler de MSI
+T15	PROCEDIMIENTO 1033 1053	Mamografía bilateral
+T16	PROCEDIMIENTO 1064 1080	AngioTC pulmonar
+T17	PROCEDIMIENTO 1486 1504	AngioRMN funcional
+T18	PROCEDIMIENTO 1724 1753	drenaje del Conducto Torácico
+T19	PROCEDIMIENTO 1924 1940	Linfogammagrafía
+T20	PROCEDIMIENTO 2022 2040	reposo de los MMSS
+T21	PROCEDIMIENTO 2135 2142	AngioTC
+T22	NEG 329 331	No
+T23	NSCO 332 394	cuadro constitucional ni otros datos de interés a la anamnesis
+T24	NEG 591 594	sin
+T25	NSCO 595 613	fóvea a la presión
+T26	NEG 615 626	Ausencia de
+T27	NSCO 627 651	adenomegalias cervicales
+T28	NEG 764 766	no
+T29	NSCO 767 827	elevación de reactantes de fase aguda y marcadores tumorales
+T30	NEG 828 837	negativos
+T31	NEG 1054 1062	negativa
+T32	NEG 1280 1283	sin
+T33	NSCO 1284 1293	trombosis
+T34	NEG 1295 1297	No
+T35	NSCO 1298 1356	hallazgos patológicos en mediastino ni parénquima pulmonar
+T36	NEG 1366 1380	negatividad de
+T37	NSCO 1381 1410	las exploraciones practicadas
+T38	UNC 1416 1427	sospecha de
+T39	USCO 1428 1461	un síndrome del estrecho torácico
+T40	NEG 1816 1827	se sospechó
+T41	NSCO 1828 1895	la existencia de una obstrucción del drenaje linfático a este nivel
+T42	NEG 2048 2062	desapareciendo
+T43	NSCO 2063 2071	el edema
+T44	FARMACO 70 82	levotiroxina
+T45	ORG_VIVO 0 5	Mujer
+T46	ORG_VIVO 1997 2005	paciente
+T47	ENFERMEDAD 36 50	hipotiroidismo
+T48	ENFERMEDAD 627 674	adenomegalias cervicales, axilares e inguinales
+T49	ENFERMEDAD 850 861	trombofilia
+T50	ENFERMEDAD 880 895	derrame pleural
+T51	ENFERMEDAD 927 957	estenosis de la vena subclavia
+T52	ENFERMEDAD 1142 1157	derrame pleural
+T53	ENFERMEDAD 1167 1208	circulación colateral en miembro superior
+T54	ENFERMEDAD 1221 1268	estenosis del tercio proximal de vena subclavia
+T55	ENFERMEDAD 1284 1293	trombosis
+T56	ENFERMEDAD 1431 1470	síndrome del estrecho torácico superior
+T57	ENFERMEDAD 1585 1649	compresión de la vena subclavia por el musculo escaleno anterior
+T58	ENFERMEDAD 1849 1882	obstrucción del drenaje linfático
+T59	ENFERMEDAD 2215 2244	Síndrome de Estrecho Torácico
+T60	PACIENTE-PROFESION 84 115	Empleada en empresa de limpieza

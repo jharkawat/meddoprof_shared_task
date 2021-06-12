@@ -1,0 +1,23 @@
+
+En	O
+radiografía	O
+anteroposterior	O
+y	O
+lateral	O
+de	O
+tórax	O
+se	O
+observa	O
+aumento	O
+de	O
+densidad	O
+radiológica	O
+parahiliar	O
+izquierda	O
+,	O
+signo	O
+del	O
+pico	O
+yuxtafrénico	O
+izquierdo	O
+.	O

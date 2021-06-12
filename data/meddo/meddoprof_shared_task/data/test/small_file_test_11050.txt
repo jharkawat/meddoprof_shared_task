@@ -1,0 +1,14 @@
+
+Paciente	O
+mujer	O
+de	O
+81	O
+años	O
+con	O
+hipoacusia	O
+bilateral	O
+progresiva	O
+de	O
+larga	O
+evolución	O
+.	O

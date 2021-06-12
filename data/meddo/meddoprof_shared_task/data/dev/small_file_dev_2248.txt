@@ -1,0 +1,16 @@
+
+Interconsulta	O
+a	O
+Ginecología	O
+:	O
+el	O
+crecimiento	O
+fetal	O
+es	O
+acorde	O
+a	O
+la	O
+semana	O
+de	O
+gestación	O
+.	O

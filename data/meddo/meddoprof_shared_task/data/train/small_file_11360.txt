@@ -1,0 +1,10 @@
+
+GPT	O
+10	O
+,	O
+GOT	O
+12	O
+,	O
+LDH	O
+90	O
+.	O

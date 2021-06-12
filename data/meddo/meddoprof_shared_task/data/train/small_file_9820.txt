@@ -1,0 +1,5 @@
+
+No	O
+diaforesis	O
+nocturna	O
+.	O

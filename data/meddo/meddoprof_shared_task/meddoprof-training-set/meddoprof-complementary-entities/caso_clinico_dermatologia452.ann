@@ -1,0 +1,27 @@
+T1	SINTOMA 520 552	positividad al cromo y al níquel
+T2	PROCEDIMIENTO 474 493	pruebas epicutáneas
+T3	PROCEDIMIENTO 786 805	pruebas epicutáneas
+T4	NEG 43 46	Sin
+T5	NSCO 47 106	antecedentes personales médicos o dermatológicos de interés
+T6	NEG 425 428	sin
+T7	NSCO 429 448	objetivarse mejoría
+T8	NEG 1601 1604	sin
+T9	NSCO 1605 1628	nuevo brote de pulpitis
+T10	FARMACO 396 402	Claral
+T11	FARMACO 406 417	Celestoderm
+T12	FARMACO 636 644	Decloban
+T13	ORG_VIVO 0 5	Mujer
+T14	ORG_VIVO 30 41	ama de casa
+T15	ORG_VIVO 60 70	personales
+T16	ORG_VIVO 119 122	ajo
+T17	ORG_VIVO 581 584	ajo
+T18	ORG_VIVO 926 933	plantas
+T19	ORG_VIVO 1131 1139	paciente
+T20	ORG_VIVO 1357 1360	ajo
+T21	ORG_VIVO 1401 1409	paciente
+T22	ORG_VIVO 1454 1457	ajo
+T23	ORG_VIVO 1595 1598	ajo
+T24	ENFERMEDAD 222 260	pulpitis fisurada en dedos 1-4 de mano
+T25	ENFERMEDAD 1321 1360	dermatitis alérgica de contacto por ajo
+T26	ENFERMEDAD 1620 1628	pulpitis
+T27	PACIENTE-SITUACION_LABORAL 30 41	ama de casa

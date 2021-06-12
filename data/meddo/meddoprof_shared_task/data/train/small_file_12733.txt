@@ -1,0 +1,25 @@
+
+Cultivo	O
+obtenido	O
+tras	O
+histerectomía	O
+,	O
+crece	O
+Esclerichia	O
+coli	O
+,	O
+sensible	O
+a	O
+cefuroxima	O
+por	O
+lo	O
+que	O
+se	O
+desescala	O
+a	O
+ceftriaxona	O
+2g	O
+iv	O
+/	O
+24h	O
+.	O

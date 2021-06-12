@@ -1,0 +1,975 @@
+Paciente	O
+de	O
+16	O
+a	O
+os	O
+.	O
+
+Acude	O
+a	O
+consulta	O
+acompa	O
+ada	O
+por	O
+ppsus	O
+padres	O
+.	O
+
+Derivada	O
+por	O
+su	O
+m	B-SANITARIO
+dico	I-SANITARIO
+de	I-SANITARIO
+familia	I-SANITARIO
+(	O
+Tratamiento	O
+ambulatorio	O
+)	O
+.	O
+
+
+Motivo	O
+de	O
+consulta	O
+:	O
+
+1.P	O
+rdida	O
+de	O
+peso	O
+desde	O
+hace	O
+4	O
+a	O
+os	O
+(	O
+39,2	O
+kg	O
+y	O
+1,62	O
+m	O
+)	O
+,	O
+desde	O
+el	O
+comienzo	O
+del	O
+trastorno	O
+y	O
+1,62	O
+m	O
+)	O
+,	O
+desde	O
+el	O
+comienzo	O
+del	O
+trastorno	O
+un	O
+total	O
+de	O
+22	O
+kg	O
+de	O
+peso	O
+(	O
+p	O
+rdida	O
+de	O
+un	O
+36	O
+%	O
+del	O
+peso	O
+corporal	O
+)	O
+.	O
+
+2.Dietas	O
+restrictivas	O
+(	O
+productos	O
+bajos	O
+en	O
+calor	O
+as	O
+y	O
+diet	O
+ticos	O
+)	O
+y	O
+
+3.En	O
+los	O
+ltimos	O
+tres	O
+meses	O
+p	O
+rdida	O
+de	O
+peso	O
+de	O
+6Kg	O
+.	O
+
+
+
+DATOS	O
+CL	O
+NICOS	O
+
+1	O
+Ejercicio	O
+f	O
+sico	O
+excesivo	O
+
+2	O
+.	O
+Desde	O
+hac	O
+a	O
+tres	O
+a	O
+os	O
+:	O
+episodios	O
+bul	O
+micos	O
+con	O
+v	O
+mitos	O
+consecutivos	O
+.	O
+En	O
+la	O
+actualidad	O
+,	O
+y	O
+desde	O
+hac	O
+a	O
+dos	O
+y	O
+a	O
+os	O
+,	O
+ten	O
+a	O
+una	O
+media	O
+semanal	O
+de	O
+cuatro	O
+atracones/v	O
+mitos	O
+.	O
+
+3	O
+.	O
+Amenorrea	O
+secundaria	O
+desde	O
+hace	O
+tres	O
+a	O
+os	O
+.	O
+
+
+DATOS	O
+DE	O
+LA	O
+ENTREVISTA	O
+
+Actitud	O
+de	O
+la	O
+paciente	O
+:	O
+
+El	O
+grado	O
+de	O
+motivaci	O
+n	O
+de	O
+la	O
+paciente	O
+era	O
+escaso	O
+
+``	O
+Mis	O
+padres	O
+est	O
+n	O
+obsesionados	O
+''	O
+,	O
+s	O
+lo	O
+hacen	O
+que	O
+controlarme	O
+.	O
+
+``	O
+Yo	O
+puedo	O
+solucionar	O
+mis	O
+problemas	O
+sola	O
+''	O
+
+Actitud	O
+mutista	O
+y	O
+desafiante	O
+.	O
+
+
+Actitud	O
+de	O
+los	O
+padres	O
+:	O
+
+Gran	O
+preocupaci	O
+n	O
+e	O
+irritabilidad	O
+.	O
+
+Peleas	O
+continuas	O
+en	O
+torno	O
+a	O
+la	O
+comida	O
+.	O
+
+No	O
+saber	O
+qu	O
+hacer	O
+para	O
+que	O
+su	O
+hija	O
+comiese	O
+normal	O
+,	O
+sin	O
+vomitar	O
+los	O
+alimentos	O
+ingeridos	O
+,	O
+a	O
+pesar	O
+de	O
+que	O
+ellos	O
+intentaban	O
+controlarla	O
+para	O
+impedirlo	O
+,	O
+llegando	O
+incluso	O
+a	O
+la	O
+agresi	O
+n	O
+f	O
+sica	O
+.	O
+
+Desesperaci	O
+n	O
+.	O
+
+
+A	O
+causa	O
+de	O
+la	O
+situaci	O
+n	O
+conflictiva	O
+familiar	O
+,	O
+tras	O
+este	O
+primer	O
+sondeo	O
+de	O
+informaci	O
+n	O
+en	O
+el	O
+que	O
+se	O
+observ	O
+
+el	O
+modelo	O
+t	O
+pico	O
+de	O
+interacci	O
+n	O
+entre	O
+padres	O
+e	O
+hija	O
+,	O
+se	O
+opt	O
+por	O
+entrevistar	O
+a	O
+la	O
+paciente	O
+a	O
+solas	O
+.	O
+
+
+Actitud	O
+de	O
+la	O
+paciente	O
+a	O
+solas	O
+con	O
+el	O
+psic	B-SANITARIO
+logo	I-SANITARIO
+
+M	O
+s	O
+motivada	O
+y	O
+comunicativa	O
+.	O
+
+Tristeza	O
+y	O
+lloro	O
+f	O
+cil	O
+.	O
+
+he	O
+cre	O
+do	O
+que	O
+pod	O
+a	O
+solucionar	O
+mis	O
+problemas	O
+con	O
+la	O
+alimentaci	O
+n	O
+,	O
+pero	O
+no	O
+lo	O
+consigo	O
+,	O
+mi	O
+vida	O
+ha	O
+de	O
+cambiar	O
+,	O
+pues	O
+as	O
+no	O
+soy	O
+feliz	O
+.	O
+
+
+
+DATOS	O
+PERSONALES	O
+
+Vive	O
+en	O
+Barcelona	O
+.	O
+
+Vive	O
+con	O
+sus	O
+padres	O
+y	O
+su	O
+hermana	O
+peque	O
+a	O
+(	O
+13a	O
+os	O
+)	O
+.	O
+
+Familia	O
+de	O
+clase	O
+media	O
+,	O
+padre	O
+tiene	B-FAMILIAR
+un	I-FAMILIAR
+negocio	I-FAMILIAR
+familiar	I-FAMILIAR
+(	I-FAMILIAR
+tienda	I-FAMILIAR
+de	I-FAMILIAR
+bolsos	I-FAMILIAR
+)	I-FAMILIAR
+y	O
+la	O
+madre	O
+trabaja	B-FAMILIAR
+en	I-FAMILIAR
+el	I-FAMILIAR
+banco	I-FAMILIAR
+.	O
+
+
+
+DATOS	O
+PERSONALES	O
+
+Embarazo	O
+deseado	O
+.	O
+
+Parto	O
+dist	O
+cico	O
+y	O
+pas	O
+una	O
+semana	O
+en	O
+incubadora	O
+.	O
+
+Desarrollo	O
+psicomotor	O
+normal	O
+.	O
+
+Obesidad	O
+infantil	O
+leve	O
+.	O
+La	O
+paciente	O
+presentaba	O
+un	O
+peso	O
+prem	O
+rbido	O
+a	O
+los	O
+11a	O
+os	O
+de	O
+61	O
+kg	O
+(	O
+obesidad	O
+prem	O
+rbida	O
+)	O
+.	O
+
+Menarqu	O
+a	O
+a	O
+los	O
+11	O
+a	O
+os	O
+.	O
+
+
+RENDIMIENTO	O
+ESCOLAR	O
+
+Inicio	O
+la	O
+guarderia	O
+al	O
+a	O
+o	O
+,	O
+dificultad	O
+de	O
+adaptaci	O
+n	O
+,	O
+muy	O
+dependiente	O
+de	O
+la	O
+madre	O
+.	O
+
+A	O
+los	O
+3	O
+a	O
+os	O
+inicia	O
+el	O
+colegio	O
+.	O
+
+Siempre	O
+muy	O
+buen	O
+rendimiento	O
+escolar	O
+.	O
+
+Muy	O
+responsable	O
+.	O
+
+Perfeccionista	O
+.	O
+
+Actualmente	O
+se	O
+bloquea	O
+angustia	O
+de	O
+anticipaci	O
+n	O
+.	O
+
+Se	O
+pasa	O
+todo	O
+el	O
+d	O
+a	O
+estudiando	O
+.	O
+
+
+RELACIONES	O
+SOCIALES	O
+
+T	O
+mida	O
+,	O
+inhibida	O
+.	O
+
+Pocas	O
+amigas	O
+.	O
+
+Actualmente	O
+s	O
+lo	O
+tiene	O
+una	O
+amiga	O
+del	O
+colegio	O
+.	O
+
+Desde	O
+hace	O
+un	O
+a	O
+o	O
+apenas	O
+sale	O
+,	O
+principalmente	O
+con	O
+su	O
+madre	O
+y	O
+su	O
+hermana	O
+.	O
+
+No	O
+realiza	O
+actividades	O
+propias	O
+de	O
+su	O
+edad	O
+.	O
+
+No	O
+ha	O
+tenido	O
+nunca	O
+relaci	O
+n	O
+de	O
+pareja	O
+.	O
+
+Seg	O
+n	O
+ella	O
+,	O
+nunca	O
+ha	O
+despertado	O
+inter	O
+s	O
+en	O
+los	O
+chicos	O
+.	O
+
+
+EXPLORACI	O
+N	O
+PSICOL	O
+GICA	O
+
+Cuestionario	O
+de	O
+Inteligencia	O
+de	O
+Weshler	O
+(	O
+Wais	O
+III	O
+)	O
+:	O
+CI	O
+Verbal:127	O
+;	O
+CI	O
+Manipulativa	O
+:	O
+119	O
+;	O
+CI	O
+Total:124	O
+
+Cuestionario	O
+de	O
+Ansiedad	O
+(	O
+STAI	O
+)	O
+:	O
+Ansiedad	O
+Rasgo	O
+95	O
+;	O
+Ansiedad	O
+Estado	O
+:	O
+97	O
+
+Cuestionario	O
+de	O
+Depresi	O
+n	O
+de	O
+Beck	O
+:	O
+Tristeza	O
+,	O
+Baja	O
+autoestima	O
+,	O
+Ideaci	O
+n	O
+Autol	O
+tica	O
+,	O
+Insomnio	O
+.	O
+
+
+EXPLORACI	O
+N	O
+PSICOL	O
+GICA	O
+
+Entrevista	O
+semiestructurada	O
+de	O
+personalidad	O
+:	O
+personalidad	O
+evitadora	O
+,	O
+dependiente	O
+y	O
+rasgos	O
+obsesivos	O
+.	O
+
+Escala	O
+de	O
+habilidades	O
+sociales	O
+(	O
+E.H.S	O
+)	O
+:	O
+conducta	O
+social	O
+evitadora	O
+y	O
+baja	O
+asertividad	O
+.	O
+
+Test	O
+de	O
+la	O
+Familia	O
+:	O
+dependencia	O
+con	O
+la	O
+figura	O
+materna	O
+,	O
+padre	O
+ausente	O
+,	O
+madre	O
+ansiosa	O
+y	O
+protectora	O
+.	O
+D	O
+ficit	O
+de	O
+la	O
+expresi	O
+n	O
+afectiva	O
+.	O
+
+Cuestionarios	O
+de	O
+conducta	O
+alimentaria	O
+(	O
+EDI	O
+EAT	O
+40	O
+)	O
+:	O
+restricci	O
+n	O
+de	O
+los	O
+alimentos	O
+,	O
+miedo	O
+a	O
+aumentar	O
+de	O
+peso	O
+v	O
+mitos	O
+ejercicio	O
+f	O
+sico	O
+en	O
+exceso	O
+,	O
+ideaci	O
+n	O
+obsesiva	O
+referente	O
+a	O
+la	O
+comida	O
+el	O
+peso	O
+y	O
+su	O
+imagen	O
+y	O
+alteraci	O
+n	O
+de	O
+la	O
+imagen	O
+corporal	O
+.	O
+
+
+
+CRITERIOS	O
+DIAGN	O
+STICOS	O
+
+Rechazo	O
+o	O
+mantener	O
+el	O
+peso	O
+corporal	O
+igual	O
+o	O
+encima	O
+del	O
+valor	O
+m	O
+nimo	O
+normal	O
+considerando	O
+la	O
+edad	O
+y	O
+la	O
+talla	O
+.	O
+
+Miedo	O
+intenso	O
+a	O
+ganar	O
+peso	O
+.	O
+
+Alteraci	O
+n	O
+de	O
+la	O
+percepci	O
+n	O
+de	O
+la	O
+imagen	O
+corporal	O
+
+Amenorrea	O
+(	O
+m	O
+nimo	O
+tres	O
+ciclos	O
+menstruales	O
+consecutivos	O
+)	O
+.	O
+
+
+DIAGN	O
+STICO	O
+DIFERENCIAL	O
+
+Trastornos	O
+afectivos	O
+
+Esquizofrenia	O
+
+Neurosis	O
+hist	O
+rica	O
+
+Neurosis	O
+f	O
+bica	O
+
+Neurosis	O
+obsesiva	O
+
+
+ORIENTACI	O
+N	O
+DIAGN	O
+STICA	O
+
+Orientaci	O
+n	O
+diagn	O
+stica	O
+(	O
+DSM	O
+IV	O
+)	O
+
+Eje1	O
+:	O
+Anorexia	O
+nerviosa	O
+(	O
+subtipo	O
+purgativo	O
+)	O
+.	O
+Trastorno	O
+depresivo	O
+mayor	O
+
+La	O
+grave	O
+sintomatolog	O
+a	O
+de	O
+la	O
+paciente	O
+(	O
+marcado	O
+bajo	O
+peso	O
+,	O
+trastorno	O
+de	O
+la	O
+alimentaci	O
+n	O
+severo	O
+,	O
+sintomatolog	O
+a	O
+depresiva	O
+)	O
+,	O
+la	O
+poca	O
+efectividad	O
+mostrada	O
+por	O
+el	O
+tratamiento	O
+ambulatorio	O
+y	O
+la	O
+situaci	O
+n	O
+familiar	O
+inestable	O
+aconsejaron	O
+su	O
+ingreso	O
+.	O
+
+
+

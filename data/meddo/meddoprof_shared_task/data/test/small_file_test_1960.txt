@@ -1,0 +1,13 @@
+
+Tumor	O
+vesical	O
+(	O
+PTA	O
+G2	O
+)	O
+que	O
+requirió	O
+RTU	O
+en	O
+2009	O
+.	O

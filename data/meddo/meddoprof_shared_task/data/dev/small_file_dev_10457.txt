@@ -1,0 +1,24 @@
+
+Tuvo	O
+una	O
+vida	O
+matrimonial	O
+exitosa	O
+y	O
+feliz	O
+hasta	O
+que	O
+su	O
+esposo	O
+murió	O
+de	O
+un	O
+ataque	O
+al	O
+corazón	O
+cuando	O
+ella	O
+tenía	O
+53	O
+años	O
+.	O

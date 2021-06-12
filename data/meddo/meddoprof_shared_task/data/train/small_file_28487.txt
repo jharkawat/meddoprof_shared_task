@@ -1,0 +1,25 @@
+
+Niega	O
+haber	O
+presentado	O
+alucinaciones	O
+auditivas	O
+en	O
+la	O
+evolución	O
+,	O
+por	O
+lo	O
+que	O
+inicialmente	O
+se	O
+orientó	O
+como	O
+clínica	O
+obsesiva	O
+y	O
+realizó	O
+tratamiento	O
+con	O
+clomipramina	O
+.	O

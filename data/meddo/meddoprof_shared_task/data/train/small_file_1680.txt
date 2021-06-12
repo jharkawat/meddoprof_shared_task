@@ -1,0 +1,10 @@
+
+Domicilio	O
+:	O
+Calle	O
+de	O
+la	O
+Asunción	O
+,	O
+23	O
+.	O

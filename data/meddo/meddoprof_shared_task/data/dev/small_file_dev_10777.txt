@@ -1,0 +1,15 @@
+
+Tiene	O
+muy	O
+poco	O
+apetito	O
+,	O
+ha	O
+perdido	O
+casi	O
+5	O
+kg	O
+en	O
+un	O
+mes	O
+.	O

@@ -1,0 +1,12 @@
+
+No	O
+había	O
+recibido	O
+ninguna	O
+medicación	O
+regularmente	O
+y	O
+no	O
+tomaba	O
+alcohol	O
+.	O

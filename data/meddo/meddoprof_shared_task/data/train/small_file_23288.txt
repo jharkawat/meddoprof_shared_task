@@ -1,0 +1,27 @@
+
+En	O
+informe	O
+médico	O
+actual	O
+previo	O
+a	O
+su	O
+llegada	O
+a	O
+España	O
+se	O
+recoge	O
+que	O
+no	O
+estaba	O
+tomando	O
+ningún	O
+tratamiento	O
+farmacológico	O
+en	O
+la	O
+actualidad	O
+,	O
+ni	O
+pasado	O
+.	O

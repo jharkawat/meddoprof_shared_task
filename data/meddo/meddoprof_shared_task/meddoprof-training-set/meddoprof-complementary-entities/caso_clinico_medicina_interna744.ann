@@ -1,0 +1,49 @@
+T1	SINTOMA 327 335	mialgias
+T2	SINTOMA 338 347	debilidad
+T3	SINTOMA 892 900	poliuria
+T4	PROCEDIMIENTO 551 568	gasometría venosa
+T5	PROCEDIMIENTO 635 664	corrección metabólica parcial
+T6	PROCEDIMIENTO 1194 1206	sueroterapia
+T7	PROCEDIMIENTO 1328 1344	estudio tiroideo
+T8	PROCEDIMIENTO 1483 1501	ecografía tiroidea
+T9	PROCEDIMIENTO 1591 1615	estudio de autoinmunidad
+T10	NEG 260 263	sin
+T11	NSCO 264 291	cursar ingreso hospitalario
+T12	NEG 438 441	sin
+T13	NSCO 442 462	afectación sensitiva
+T14	NEG 943 954	ausencia de
+T15	NSCO 955 965	diuréticos
+T16	NEG 1019 1022	sin
+T17	NSCO 1023 1049	alteraciones del sedimento
+T18	UNC 1112 1123	sospecha de
+T19	USCO 1124 1187	acidosis tubular distal tipo I. Con respecto a la rabdomiolisis
+T20	UNC 1506 1520	compatible con
+T21	USCO 1521 1573	una tiroiditis autoinmune en fase de descompensación
+T22	UNC 1845 1857	posiblemente
+T23	USCO 1858 1867	periódica
+T24	ORG_VIVO 18 23	mujer
+T25	ORG_VIVO 92 119	Médico de Atención Primaria
+T26	ORG_VIVO 195 209	mononucleósico
+T27	ORG_VIVO 2029 2036	adultos
+T28	ENFERMEDAD 55 69	hipotiroidismo
+T29	ENFERMEDAD 195 209	mononucleósico
+T30	ENFERMEDAD 214 242	hipopotasemia moderada-grave
+T31	ENFERMEDAD 402 437	tetraparesia flácida hiporrefléxica
+T32	ENFERMEDAD 518 531	hipopotasemia
+T33	ENFERMEDAD 796 815	acidosis metabólica
+T34	ENFERMEDAD 818 838	hipopotasemia severa
+T35	ENFERMEDAD 1092 1105	rabdomiolisis
+T36	ENFERMEDAD 1124 1155	acidosis tubular distal tipo I.
+T37	ENFERMEDAD 1174 1187	rabdomiolisis
+T38	ENFERMEDAD 1525 1546	tiroiditis autoinmune
+T39	ENFERMEDAD 1749 1766	miopatía tiroidea
+T40	ENFERMEDAD 1802 1843	tetraparesia flácida hipopotasémica grave
+T41	ENFERMEDAD 1873 1909	acidosis tubular renal distal tipo I
+T42	ENFERMEDAD 1921 1940	Síndrome de Sjogren
+T43	ENFERMEDAD 1943 1974	tiroiditis linfocitaria crónica
+T44	ENFERMEDAD 2002 2025	acidosis tubular distal
+T45	ENFERMEDAD 2045 2069	enfermedades autoinmunes
+T46	ENFERMEDAD 2090 2109	Síndrome de Sjögren
+T47	ENFERMEDAD 2112 2131	artritis reumatoide
+T48	ENFERMEDAD 2163 2197	parálisis periódica hipopotasémica
+T49	SANITARIO-PROFESION 92 119	Médico de Atención Primaria

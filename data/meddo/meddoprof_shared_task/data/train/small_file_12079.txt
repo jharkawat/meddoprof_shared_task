@@ -1,0 +1,22 @@
+
+Ante	O
+la	O
+confirmación	O
+de	O
+tumoración	O
+retrorrectal	O
+de	O
+tipo	O
+congénito	O
+hamartoma	O
+quístico	O
+se	O
+decide	O
+la	O
+exéresis	O
+del	O
+nódulo	O
+rectal	O
+más	O
+profundo	O
+.	O

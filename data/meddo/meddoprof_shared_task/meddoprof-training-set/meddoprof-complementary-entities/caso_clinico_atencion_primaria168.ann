@@ -1,0 +1,109 @@
+T1	SINTOMA 19 35	Pérdida ponderal
+T2	SINTOMA 168 183	pérdida de peso
+T3	SINTOMA 229 246	insomnio nocturno
+T4	SINTOMA 249 267	somnolencia diurna
+T5	SINTOMA 2258 2271	consolidación
+T6	SINTOMA 3199 3207	Anorexia
+T7	SINTOMA 4559 4567	anorexia
+T8	SINTOMA 4672 4689	ganancia ponderal
+T9	PROCEDIMIENTO 661 679	Exploración física
+T10	PROCEDIMIENTO 856 887	exploración cardiorrespiratoria
+T11	PROCEDIMIENTO 933 954	exploración abdominal
+T12	PROCEDIMIENTO 1287 1306	ecografía abdominal
+T13	PROCEDIMIENTO 1453 1472	Ecografía abdominal
+T14	PROCEDIMIENTO 3175 3197	serología de hepatitis
+T15	PROCEDIMIENTO 3947 3965	serología hepática
+T16	NEG 348 350	no
+T17	NSCO 351 387	está en buenas condiciones laborales
+T18	NEG 530 532	no
+T19	NSCO 533 566	acudir a las citas en Psiquiatría
+T20	NEG 628 630	no
+T21	NSCO 631 658	tiene otros hábitos tóxicos
+T22	NEG 888 890	no
+T23	NSCO 891 925	se vieron alteraciones patológicas
+T24	NEG 1529 1532	sin
+T25	NSCO 1533 1559	otros hallazgos de interés
+T26	NEG 1940 1942	No
+T27	NEG 2152 2154	no
+T28	NSCO 2155 2192	se sabe quién es el padre de la menor
+T29	NEG 2392 2394	no
+T30	NSCO 2395 2412	se siente apoyada
+T31	NEG 3284 3287	sin
+T32	NSCO 3288 3312	seguimiento psiquiátrico
+T33	NEG 3637 3648	incapacidad
+T34	NSCO 3649 3672	temporal de la paciente
+T35	NEG 3855 3857	No
+T36	NSCO 3858 3875	acudió a citación
+T37	NEG 3926 3937	Se descartó
+T38	NSCO 3938 3991	mediante serología hepática la presencia de hepatitis
+T39	UNC 4116 4124	probable
+T40	USCO 4125 4139	hemocromatosis
+T41	NEG 4165 4167	no
+T42	NSCO 4168 4184	acudió a la cita
+T43	FARMACO 3575 3587	Ácido fólico
+T44	FARMACO 3595 3607	Optovite B12
+T45	ORG_VIVO 147 152	mujer
+T46	ORG_VIVO 272 280	paciente
+T47	ORG_VIVO 313 317	jefa
+T48	ORG_VIVO 339 347	paciente
+T49	ORG_VIVO 407 417	personales
+T50	ORG_VIVO 707 715	paciente
+T51	ORG_VIVO 1570 1578	familiar
+T52	ORG_VIVO 1601 1609	paciente
+T53	ORG_VIVO 1622 1626	hija
+T54	ORG_VIVO 1660 1675	núcleo familiar
+T55	ORG_VIVO 1704 1709	madre
+T56	ORG_VIVO 1715 1720	mujer
+T57	ORG_VIVO 1744 1751	hermano
+T58	ORG_VIVO 1756 1762	hombre
+T59	ORG_VIVO 1863 1871	paciente
+T60	ORG_VIVO 1923 1929	abuela
+T61	ORG_VIVO 1935 1938	tío
+T62	ORG_VIVO 1952 1957	madre
+T63	ORG_VIVO 1960 1967	hermano
+T64	ORG_VIVO 2022 2030	paciente
+T65	ORG_VIVO 2094 2109	núcleo familiar
+T66	ORG_VIVO 2126 2133	familia
+T67	ORG_VIVO 2137 2142	madre
+T68	ORG_VIVO 2175 2180	padre
+T69	ORG_VIVO 2187 2192	menor
+T70	ORG_VIVO 2237 2245	familiar
+T71	ORG_VIVO 2294 2302	familiar
+T72	ORG_VIVO 2309 2317	paciente
+T73	ORG_VIVO 2372 2380	paciente
+T74	ORG_VIVO 2420 2427	hermano
+T75	ORG_VIVO 2433 2438	madre
+T76	ORG_VIVO 2555 2559	hija
+T77	ORG_VIVO 3045 3053	paciente
+T78	ORG_VIVO 3221 3229	paciente
+T79	ORG_VIVO 3479 3487	paciente
+T80	ORG_VIVO 3664 3672	paciente
+T81	ORG_VIVO 3845 3853	paciente
+T82	ORG_VIVO 4156 4164	paciente
+T83	ORG_VIVO 4254 4262	paciente
+T84	ORG_VIVO 4335 4340	madre
+T85	ORG_VIVO 4346 4353	hermano
+T86	ORG_VIVO 4635 4643	paciente
+T87	ORG_VIVO 4765 4770	madre
+T88	ORG_VIVO 4776 4783	hermano
+T89	ENFERMEDAD 466 483	anorexia nerviosa
+T90	ENFERMEDAD 737 751	deshidratación
+T91	ENFERMEDAD 1230 1236	anemia
+T92	ENFERMEDAD 1500 1519	esteatosis hepática
+T93	ENFERMEDAD 2639 2656	Anorexia nerviosa
+T94	ENFERMEDAD 2673 2686	Hepatomegalia
+T95	ENFERMEDAD 2806 2820	hemocromatosis
+T96	ENFERMEDAD 2822 2841	síndrome metabólico
+T97	ENFERMEDAD 2843 2851	enolismo
+T98	ENFERMEDAD 2853 2862	hepatitis
+T99	ENFERMEDAD 2864 2883	anemia inflamatoria
+T100	ENFERMEDAD 2885 2895	neoplasias
+T101	ENFERMEDAD 2898 2927	síndrome de hiperferritinemia
+T102	ENFERMEDAD 2930 2939	cataratas
+T103	ENFERMEDAD 3055 3072	Hiperferritinemia
+T104	ENFERMEDAD 3188 3197	hepatitis
+T105	ENFERMEDAD 3489 3504	Hipovitaminosis
+T106	ENFERMEDAD 3982 3991	hepatitis
+T107	ENFERMEDAD 4125 4139	hemocromatosis
+T108	OTROS-PROFESION 313 317	jefa
+T109	PACIENTE-SITUACION_LABORAL 3637 3657	incapacidad temporal

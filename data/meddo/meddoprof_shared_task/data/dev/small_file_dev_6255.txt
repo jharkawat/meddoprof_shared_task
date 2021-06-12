@@ -1,0 +1,16 @@
+
+Los	O
+cultivos	O
+del	O
+lavado	O
+bronquioalveolar	O
+fueron	O
+negativos	O
+,	O
+tanto	O
+para	O
+micobacterias	O
+como	O
+para	O
+hongos	O
+.	O

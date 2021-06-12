@@ -1,0 +1,19 @@
+
+A	O
+la	O
+palpación	O
+abdominal	O
+destacaba	O
+una	O
+molestia	O
+en	O
+hipocondrio	O
+derecho	O
+sin	O
+defensa	O
+y	O
+no	O
+se	O
+apreciaron	O
+visceromegalias	O
+.	O

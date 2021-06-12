@@ -1,0 +1,24 @@
+
+Un	O
+día	O
+,	O
+al	O
+volver	O
+de	O
+clase	O
+,	O
+observó	O
+a	O
+dos	O
+desconocidos	O
+fuera	O
+de	O
+su	O
+apartamento	O
+y	O
+se	O
+preguntó	O
+qué	O
+hacían	O
+allí	O
+.	O

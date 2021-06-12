@@ -1,0 +1,11 @@
+
+-	O
+Cabeza	O
+y	O
+cuello	O
+:	O
+No	O
+ingurgitación	O
+venosa	O
+yugular	O
+.	O

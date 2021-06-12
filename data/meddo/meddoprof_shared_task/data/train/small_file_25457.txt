@@ -1,0 +1,19 @@
+
+El	O
+último	O
+ingreso	O
+se	O
+produjo	O
+en	O
+enero	O
+de	O
+2009	O
+cuando	O
+se	O
+le	O
+diagnosticó	O
+una	O
+pancreatitis	O
+crónica	O
+calcificada	O
+.	O

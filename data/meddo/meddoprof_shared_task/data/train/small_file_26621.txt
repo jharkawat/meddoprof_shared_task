@@ -1,0 +1,23 @@
+
+Para	O
+él	O
+es	O
+una	O
+consulta	O
+médica	O
+más	O
+,	O
+de	O
+las	O
+múltiples	O
+a	O
+las	O
+que	O
+le	O
+llevan	O
+a	O
+lo	O
+largo	O
+del	O
+año	O
+.	O

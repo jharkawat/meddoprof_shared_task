@@ -1,0 +1,11 @@
+
+El	O
+antibiograma	O
+mostró	O
+sensibilidad	O
+para	O
+los	O
+betalactámicos	O
+y	O
+aminoglucósidos	O
+.	O

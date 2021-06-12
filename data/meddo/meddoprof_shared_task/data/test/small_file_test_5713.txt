@@ -1,0 +1,25 @@
+
+Asimismo	O
+,	O
+se	O
+realizó	O
+un	O
+octreoscan	O
+con	O
+muy	O
+alta	O
+captación	O
+(	O
+4	O
+/	O
+4	O
+en	O
+la	O
+escala	O
+Krenning	O
+)	O
+de	O
+las	O
+lesiones	O
+hepáticas	O
+.	O

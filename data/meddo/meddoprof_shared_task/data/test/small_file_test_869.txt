@@ -1,0 +1,19 @@
+
+Luego	O
+es	O
+remitida	O
+al	O
+especialista	B-PROFESION
+en	I-PROFESION
+neurología	I-PROFESION
+para	O
+ser	O
+valorada	O
+,	O
+como	O
+se	O
+exigen	O
+en	O
+estos	O
+casos	O
+.	O

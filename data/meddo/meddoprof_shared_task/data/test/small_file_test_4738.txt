@@ -1,0 +1,6 @@
+
+Áreas	O
+malácicas	O
+frontobasales	O
+bilaterales	O
+.	O

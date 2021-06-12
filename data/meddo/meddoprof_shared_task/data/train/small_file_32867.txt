@@ -1,0 +1,12 @@
+
+Instruir	O
+al	O
+paciente	O
+sobre	O
+el	O
+uso	O
+de	O
+técnicas	O
+de	O
+relajación	O
+.	O

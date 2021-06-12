@@ -1,0 +1,5 @@
+
+Confirmado	O
+por	O
+immunoblot	O
+.	O

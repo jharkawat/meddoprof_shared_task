@@ -1,0 +1,10 @@
+
+No	O
+discrimina	O
+frío	O
+/	O
+calor	O
+en	O
+las	O
+manos	O
+.	O

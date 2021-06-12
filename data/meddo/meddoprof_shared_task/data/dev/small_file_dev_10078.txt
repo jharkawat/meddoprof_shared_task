@@ -1,0 +1,12 @@
+
+No	O
+tenía	O
+mucho	O
+apetito	O
+y	O
+había	O
+perdido	O
+algo	O
+de	O
+peso	O
+.	O

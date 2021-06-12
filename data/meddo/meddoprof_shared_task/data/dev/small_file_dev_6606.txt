@@ -1,0 +1,8 @@
+
+No	O
+se	O
+realizaron	O
+otros	O
+aislamientos	O
+microbiológicos	O
+.	O

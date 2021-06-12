@@ -1,0 +1,20 @@
+
+Fue	O
+valorado	O
+por	O
+el	O
+Servicio	O
+de	O
+Neurocirugía	O
+,	O
+sin	O
+identificar	O
+necesidad	O
+de	O
+drenaje	O
+del	O
+absceso	O
+en	O
+aquel	O
+momento	O
+.	O

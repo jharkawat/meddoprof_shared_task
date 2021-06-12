@@ -1,0 +1,7 @@
+
+En	O
+tratamiento	O
+con	O
+antidiabéticos	O
+orales	O
+.	O

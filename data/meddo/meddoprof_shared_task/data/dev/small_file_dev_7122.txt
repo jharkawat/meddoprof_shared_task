@@ -1,0 +1,15 @@
+
+•	O
+ECG	O
+:	O
+taquicardia	O
+sinusal	O
+a	O
+124	O
+lpm	O
+,	O
+sin	O
+otros	O
+hallazgos	O
+patológicos	O
+.	O

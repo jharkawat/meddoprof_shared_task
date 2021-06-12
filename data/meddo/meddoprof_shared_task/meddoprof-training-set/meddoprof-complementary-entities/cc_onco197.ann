@@ -1,0 +1,105 @@
+T1	SINTOMA 424 433	fallecido
+T2	SINTOMA 1516 1522	disnea
+T3	SINTOMA 1571 1579	ortopnea
+T4	SINTOMA 1581 1608	disnea paroxística nocturna
+T5	SINTOMA 1611 1644	edemas en los miembros inferiores
+T6	SINTOMA 1848 1862	tonos rítmicos
+T7	SINTOMA 2019 2030	sibilancias
+T8	SINTOMA 2041 2087	Edema en los miembros inferiores, infrapatelar
+T9	SINTOMA 2327 2340	cardiomegalia
+T10	SINTOMA 2514 2527	ritmo sinusal
+T11	SINTOMA 3324 3335	bradicardia
+T12	SINTOMA 3902 3914	leucocitosis
+T13	SINTOMA 3919 3930	neutrofilia
+T14	SINTOMA 3946 3955	hipoxemia
+T15	PROCEDIMIENTO 759 772	quimioterapia
+T16	PROCEDIMIENTO 1647 1665	Exploración física
+T17	PROCEDIMIENTO 1671 1689	exploración física
+T18	PROCEDIMIENTO 1825 1846	auscultación cardíaca
+T19	PROCEDIMIENTO 1926 1951	auscultación respiratoria
+T20	PROCEDIMIENTO 2297 2317	radiografía de tórax
+T21	PROCEDIMIENTO 2486 2504	electrocardiograma
+T22	PROCEDIMIENTO 2705 2733	ecocardiograma transtorácico
+T23	PROCEDIMIENTO 3205 3244	tratamiento depletivo y betabloqueantes
+T24	PROCEDIMIENTO 3340 3371	tratamiento con betabloqueantes
+T25	PROCEDIMIENTO 3981 3992	TC de tórax
+T26	PROCEDIMIENTO 4176 4210	tratamiento antibiótico endovenoso
+T27	NEG 86 88	no
+T28	NSCO 89 97	fumadora
+T29	UNC 476 485	desconoce
+T30	USCO 486 501	más información
+T31	NEG 1102 1113	ausencia de
+T32	NSCO 1114 1123	toxicidad
+T33	NEG 2342 2345	sin
+T34	NSCO 2346 2386	cambios respecto de radiografías previas
+T35	NEG 2431 2444	se interpreta
+T36	NSCO 2445 2481	como un componente de fallo cardíaco
+T37	NEG 2608 2610	no
+T38	NSCO 2611 2682	presenta alteraciones agudas de la repolarización ni signos de isquemia
+T39	NEG 3157 3168	Se suspende
+T40	NSCO 3169 3193	temporalmente crizotinib
+T41	NEG 3312 3323	ausencia de
+T42	NSCO 3324 3371	bradicardia con tratamiento con betabloqueantes
+T43	NEG 3433 3444	ausencia de
+T44	NSCO 3445 3550	literatura sólida que especifique la relación causal entre crizotinib e insuficiencia cardíaca congestiva
+T45	NEG 4090 4101	ausencia de
+T46	NSCO 4102 4123	condensaciones agudas
+T47	NEG 4221 4224	sin
+T48	NSCO 4225 4247	microorganismo filiado
+T49	NEG 4249 4260	Se suspende
+T50	NSCO 4261 4271	crizotinib
+T51	NEG 4361 4363	No
+T52	NSCO 4364 4388	existe literatura sólida
+T53	UNC 4538 4543	clara
+T54	USCO 4544 4624	relación temporal que asocia el cuadro clínico con la administración del fármaco
+T55	NEG 4850 4861	ausencia de
+T56	NSCO 4862 4907	síntomas de insuficiencia cardíaca congestiva
+T57	FARMACO 169 178	omeprazol
+T58	FARMACO 193 203	furosemida
+T59	FARMACO 223 233	olmesartán
+T60	FARMACO 804 814	cisplatino
+T61	FARMACO 817 827	pemetrexed
+T62	FARMACO 920 930	pemetrexed
+T63	FARMACO 1375 1385	crizotinib
+T64	FARMACO 1486 1496	crizotinib
+T65	FARMACO 3183 3193	crizotinib
+T66	FARMACO 3417 3427	crizotinib
+T67	FARMACO 3504 3514	crizotinib
+T68	FARMACO 3630 3640	crizotinib
+T69	FARMACO 4261 4271	crizotinib
+T70	FARMACO 4485 4495	crizotinib
+T71	FARMACO 4718 4728	crizotinib
+T72	ORG_VIVO 10 15	Mujer
+T73	ORG_VIVO 111 117	esposo
+T74	ORG_VIVO 406 416	familiares
+T75	ORG_VIVO 418 423	padre
+T76	ORG_VIVO 467 475	paciente
+T77	ORG_VIVO 2587 2592	mujer
+T78	ORG_VIVO 3704 3712	paciente
+T79	ORG_VIVO 4225 4239	microorganismo
+T80	ORG_VIVO 4525 4533	paciente
+T81	ENFERMEDAD 283 299	obesidad mórbida
+T82	ENFERMEDAD 302 323	hipertensión arterial
+T83	ENFERMEDAD 438 462	patología cardiovascular
+T84	ENFERMEDAD 581 627	adenocarcinoma de pulmón en el lóbulo inferior
+T85	ENFERMEDAD 651 658	T1N2M1a
+T86	ENFERMEDAD 664 679	derrame pleural
+T87	ENFERMEDAD 714 750	EGFR wild type, translocación de ALK
+T88	ENFERMEDAD 1720 1741	hipertensión arterial
+T89	ENFERMEDAD 2327 2340	cardiomegalia
+T90	ENFERMEDAD 2467 2481	fallo cardíaco
+T91	ENFERMEDAD 2674 2682	isquemia
+T92	ENFERMEDAD 2737 2794	miocardiopatía hipertrófica obstructiva septal asimétrica
+T93	ENFERMEDAD 2879 2906	miocardiopatía hipertrófica
+T94	ENFERMEDAD 3005 3038	insuficiencia cardíaca congestiva
+T95	ENFERMEDAD 3103 3142	miocardiopatía hipertrófica obstructiva
+T96	ENFERMEDAD 3324 3335	bradicardia
+T97	ENFERMEDAD 3517 3550	insuficiencia cardíaca congestiva
+T98	ENFERMEDAD 3753 3786	insuficiencia cardíaca congestiva
+T99	ENFERMEDAD 3830 3871	infección de las vías respiratorias bajas
+T100	ENFERMEDAD 4026 4043	cuadro infeccioso
+T101	ENFERMEDAD 4128 4145	cuadro infeccioso
+T102	ENFERMEDAD 4336 4358	insuficiencia cardíaca
+T103	ENFERMEDAD 4433 4466	insuficiencia cardíaca congestiva
+T104	ENFERMEDAD 4874 4907	insuficiencia cardíaca congestiva
+T105	PACIENTE-PROFESION 119 140	trabajó en hostelería

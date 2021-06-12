@@ -1,0 +1,27 @@
+
+Dijo	O
+que	O
+,	O
+en	O
+aquella	O
+reunión	O
+,	O
+había	O
+dicho	O
+que	O
+no	O
+tenía	O
+necesidad	O
+de	O
+dormir	O
+y	O
+que	O
+luego	O
+estuvo	O
+hablando	O
+de	O
+sus	O
+«	O
+dones	O
+»	O
+.	O

@@ -1,0 +1,11 @@
+
+Vena	O
+cava	O
+inferior	O
+no	O
+dilatada	O
+,	O
+adecuado	O
+colapso	O
+inspiratorio	O
+.	O

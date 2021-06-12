@@ -1,0 +1,14 @@
+
+Si	O
+ella	O
+tenía	O
+alguna	O
+conducta	O
+infantil	O
+,	O
+él	O
+la	O
+volvía	O
+a	O
+rasurar	O
+.	O

@@ -1,0 +1,10 @@
+
+Niegan	O
+otros	O
+antecedentes	O
+somáticos	O
+o	O
+psicopatológicos	O
+de	O
+interés	O
+.	O

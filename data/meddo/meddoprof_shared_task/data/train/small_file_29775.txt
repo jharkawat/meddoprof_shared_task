@@ -1,0 +1,20 @@
+
+La	O
+tolerancia	O
+es	O
+buena	O
+,	O
+salvo	O
+ligera	O
+somnolencia	O
+a	O
+dosis	O
+por	O
+encima	O
+de	O
+los	O
+300	O
+mg	O
+/	O
+día	O
+.	O

@@ -1,0 +1,25 @@
+
+Relata	O
+que	O
+no	O
+se	O
+modifica	O
+con	O
+los	O
+movimientos	O
+respiratorios	O
+ni	O
+con	O
+la	O
+postura	O
+,	O
+de	O
+horas	O
+de	O
+evolución	O
+que	O
+se	O
+inicia	O
+en	O
+reposo	O
+.	O

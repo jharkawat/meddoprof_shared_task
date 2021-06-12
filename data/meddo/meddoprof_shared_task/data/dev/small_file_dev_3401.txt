@@ -1,0 +1,17 @@
+
+La	O
+paciente	O
+se	O
+describe	O
+como	O
+generosa	O
+,	O
+alegre	O
+y	O
+con	O
+facilidad	O
+para	O
+las	O
+relaciones	O
+sociales	O
+.	O

@@ -1,0 +1,15 @@
+
+Auscultación	O
+cardíaca	O
+:	O
+Tonos	O
+puros	O
+y	O
+rítmicos	O
+no	O
+soplos	O
+audibles	O
+ni	O
+ruidos	O
+sobreañadidos	O
+.	O

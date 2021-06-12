@@ -1,0 +1,14 @@
+
+No	O
+paraba	O
+quieta	O
+y	O
+se	O
+mecía	O
+en	O
+la	O
+silla	O
+atrás	O
+y	O
+adelante	O
+.	O

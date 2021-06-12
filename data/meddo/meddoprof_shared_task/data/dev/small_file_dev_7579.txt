@@ -1,0 +1,12 @@
+
+El	O
+diagnóstico	O
+de	O
+las	O
+tres	O
+anteriores	O
+se	O
+realizaría	O
+por	O
+serología	O
+.	O

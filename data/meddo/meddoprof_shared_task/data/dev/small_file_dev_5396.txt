@@ -1,0 +1,27 @@
+
+Se	O
+realizó	O
+,	O
+bajo	O
+cirugía	O
+extracorpórea	O
+,	O
+cirugía	O
+de	O
+Bentall	O
+-	O
+Bono	O
+con	O
+tubo	O
+valvulado	O
+no	O
+28	O
+(	O
+con	O
+reimplante	O
+de	O
+ambas	O
+arterias	O
+coronarias	O
+)	O
+.	O

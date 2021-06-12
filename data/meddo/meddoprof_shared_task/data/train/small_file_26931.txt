@@ -1,0 +1,14 @@
+
+Bisabuelo	O
+materno	O
+fallecido	O
+a	O
+causa	O
+de	O
+las	O
+complicaciones	O
+de	O
+una	O
+colitis	O
+ulcerosa	O
+.	O

@@ -1,0 +1,9 @@
+
+ACR	O
+:	O
+ruidos	O
+rítmicos	O
+sin	O
+soplos	O
+audibles	O
+.	O

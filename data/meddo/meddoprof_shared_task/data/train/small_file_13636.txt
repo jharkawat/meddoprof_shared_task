@@ -1,0 +1,24 @@
+
+A	O
+los	O
+17meses	O
+reingresa	O
+de	O
+nuevo	O
+por	O
+fibrosis	O
+retroperitoneal	O
+activa	O
+que	O
+precisa	O
+tratamiento	O
+con	O
+Ciclofosfamida	O
+y	O
+,	O
+finalmente	O
+,	O
+nefrostomias	O
+de	O
+descarga	O
+.	O

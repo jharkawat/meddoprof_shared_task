@@ -1,0 +1,12 @@
+
+-	O
+Fluencia	O
+verbal	O
+con	O
+clave	O
+fonética	O
+(	O
+FAS	O
+-	O
+)	O
+.	O

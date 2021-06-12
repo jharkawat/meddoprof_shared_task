@@ -1,0 +1,7 @@
+
+No	O
+refiere	O
+ningún	O
+desencadenante	O
+claro	O
+.	O

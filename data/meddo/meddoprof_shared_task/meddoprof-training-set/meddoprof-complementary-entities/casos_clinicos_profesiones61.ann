@@ -1,0 +1,8 @@
+T1	PROCEDIMIENTO 206 216	mamografía
+T2	NEG 17 20	sin
+T3	NSCO 21 44	antecedentes de interés
+T4	NEG 253 255	no
+T5	NSCO 256 290	se había detectado ningún problema
+T6	ORG_VIVO 0 5	Mujer
+T7	ORG_VIVO 80 107	médico de Atención Primaria
+T8	SANITARIO-PROFESION 80 107	médico de Atención Primaria

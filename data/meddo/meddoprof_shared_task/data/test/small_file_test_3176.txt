@@ -1,0 +1,17 @@
+
+-	O
+TC	O
+tóraco	O
+-	O
+abdominal	O
+:	O
+lesión	O
+en	O
+el	O
+cuadrante	O
+superoexterno	O
+de	O
+la	O
+mama	O
+izquierda	O
+.	O

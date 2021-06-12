@@ -1,0 +1,13 @@
+
+Se	O
+suspende	O
+temporalmente	O
+crizotinib	O
+,	O
+se	O
+inicia	O
+tratamiento	O
+depletivo	O
+y	O
+betabloqueantes	O
+.	O

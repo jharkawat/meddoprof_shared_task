@@ -1,0 +1,8 @@
+
+-	O
+"	O
+¿	O
+Le	O
+gustan	O
+doctor	B-PROFESION
+?	O

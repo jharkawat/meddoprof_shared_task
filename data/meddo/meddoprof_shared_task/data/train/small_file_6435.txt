@@ -1,0 +1,11 @@
+
+Neoplasia	O
+pulmonar	O
+benigna	O
+:	O
+hamartoma	O
+,	O
+lipoma	O
+o	O
+fibroma	O
+.	O

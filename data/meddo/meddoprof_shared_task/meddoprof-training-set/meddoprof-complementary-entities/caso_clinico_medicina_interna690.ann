@@ -1,0 +1,73 @@
+T1	SINTOMA 76 83	Fumador
+T2	SINTOMA 1192 1199	Afebril
+T3	SINTOMA 1222 1232	consciente
+T4	SINTOMA 1235 1244	orientado
+T5	SINTOMA 1360 1368	doloroso
+T6	SINTOMA 1384 1405	irritación peritoneal
+T7	SINTOMA 1434 1440	edemas
+T8	SINTOMA 2270 2279	debilidad
+T9	SINTOMA 2281 2294	artromialgias
+T10	SINTOMA 2297 2313	inyección ciliar
+T11	PROCEDIMIENTO 820 842	corticoides sistémicos
+T12	PROCEDIMIENTO 906 915	Hemograma
+T13	PROCEDIMIENTO 1026 1046	Radiografía de tórax
+T14	PROCEDIMIENTO 1128 1139	TC torácico
+T15	PROCEDIMIENTO 1833 1861	TC torácico con contraste IV
+T16	PROCEDIMIENTO 2019 2026	Biopsia
+T17	PROCEDIMIENTO 2373 2406	tratamiento corticoideo sistémico
+T18	NEG 107 109	No
+T19	NSCO 110 131	consumidor de alcohol
+T20	NEG 188 190	No
+T21	NSCO 191 194	HTA
+T22	NEG 372 374	no
+T23	NSCO 375 391	describe costras
+T24	NEG 429 431	No
+T25	NSCO 432 458	intervenciones quirúrgicas
+T26	NEG 727 730	sin
+T27	NSCO 731 760	otra sintomatología sistémica
+T28	NEG 807 819	supresión de
+T29	NSCO 820 868	corticoides sistémicos por parte de oftalmología
+T30	NEG 967 975	negativo
+T31	NSCO 976 990	reiteradamente
+T32	NEG 1192 1199	Afebril
+T33	NEG 1314 1317	sin
+T34	NSCO 1318 1338	ruidos sobreañadidos
+T35	NEG 1357 1359	no
+T36	NSCO 1360 1368	doloroso
+T37	NEG 1370 1373	sin
+T38	NSCO 1374 1405	signos de irritación peritoneal
+T39	NEG 1430 1433	Sin
+T40	NSCO 1434 1457	edemas ni signos de TVP
+T41	NEG 1459 1461	No
+T42	NSCO 1462 1478	alteraciones ORL
+T43	NEG 1480 1482	No
+T44	NSCO 1483 1494	adenopatías
+T45	NEG 1710 1713	Sin
+T46	NSCO 1714 1730	datos reseñables
+T47	NEG 1745 1747	no
+T48	NSCO 1748 1756	reactivo
+T49	NEG 2143 2145	No
+T50	NSCO 2146 2194	se visualizan granulomas ni signos de vasculitis
+T51	FARMACO 482 492	Tacrolimus
+T52	ORG_VIVO 13 23	Personales
+T53	ORG_VIVO 30 35	Varón
+T54	ORG_VIVO 66 74	soldador
+T55	ORG_VIVO 553 561	Paciente
+T56	ORG_VIVO 2218 2226	paciente
+T57	ORG_VIVO 2446 2454	paciente
+T58	ENFERMEDAD 133 152	Hipercolesterolemia
+T59	ENFERMEDAD 191 194	HTA
+T60	ENFERMEDAD 310 328	hipoacusia derecha
+T61	ENFERMEDAD 353 370	otitis seromucosa
+T62	ENFERMEDAD 667 699	queratitis ulcerativa periférica
+T63	ENFERMEDAD 1079 1092	nódulo en LSD
+T64	ENFERMEDAD 1454 1457	TVP
+T65	ENFERMEDAD 1483 1494	adenopatías
+T66	ENFERMEDAD 1932 1952	adenopatías hiliares
+T67	ENFERMEDAD 1966 1992	adenopatías paratraqueales
+T68	ENFERMEDAD 2184 2194	vasculitis
+T69	ENFERMEDAD 2459 2473	granulomatosis
+T70	ENFERMEDAD 2478 2490	poliangeitis
+T71	ENFERMEDAD 2511 2543	queratitis ulcerativa periférica
+T72	ENFERMEDAD 2558 2578	otitis de repetición
+T73	PACIENTE-PROFESION 66 74	soldador

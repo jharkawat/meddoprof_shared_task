@@ -1,0 +1,9 @@
+
+En	O
+esta	O
+ocasión	O
+no	O
+se	O
+repuso	O
+hueso	O
+.	O

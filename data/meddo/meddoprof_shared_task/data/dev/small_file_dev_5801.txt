@@ -1,0 +1,24 @@
+
+Abdomen	O
+blando	O
+,	O
+no	O
+doloroso	O
+a	O
+la	O
+palpación	O
+;	O
+se	O
+evidencia	O
+una	O
+masa	O
+en	O
+el	O
+mesogastrio	O
+con	O
+puñopercusión	O
+renal	O
+derecha	O
+discretamente	O
+positiva	O
+.	O

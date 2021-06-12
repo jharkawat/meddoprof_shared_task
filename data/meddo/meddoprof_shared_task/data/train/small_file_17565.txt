@@ -1,0 +1,19 @@
+
+Alargamiento	O
+de	O
+la	O
+latencia	O
+distal	O
+motora	O
+en	O
+los	O
+nervios	O
+medianos	O
+y	O
+cubitales	O
+con	O
+disminución	O
+de	O
+velocidad	O
+motora	O
+.	O

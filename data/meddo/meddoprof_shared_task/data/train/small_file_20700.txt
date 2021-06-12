@@ -1,0 +1,11 @@
+
+VDRL	O
+en	O
+suero	O
+negativo	O
+,	O
+serología	O
+para	O
+HIV	O
+negativa	O
+.	O

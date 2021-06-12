@@ -1,0 +1,12 @@
+
+En	O
+el	O
+citoplasma	O
+de	O
+algunos	O
+basófilos	O
+se	O
+aprecia	O
+granulación	O
+azudófila	O
+.	O

@@ -1,0 +1,218 @@
+T1	SINTOMA 710 721	nerviosismo
+T2	SINTOMA 1045 1058	irritabilidad
+T3	SINTOMA 1729 1737	inquieto
+T4	SINTOMA 1740 1749	irritable
+T5	SINTOMA 1966 1974	inquieto
+T6	SINTOMA 2018 2027	irritable
+T7	SINTOMA 2237 2246	irritable
+T8	SINTOMA 3823 3832	irritable
+T9	SINTOMA 3957 3974	síntomas ansiosos
+T10	SINTOMA 4146 4159	palpitaciones
+T11	SINTOMA 4162 4174	precordalgia
+T12	SINTOMA 4372 4383	nerviosismo
+T13	SINTOMA 4385 4426	retuerce las manos y mueve piernas y pies
+T14	SINTOMA 4497 4508	colaborador
+T15	SINTOMA 4960 4969	anhedonia
+T16	SINTOMA 4971 4977	apatía
+T17	SINTOMA 4980 4986	abulia
+T18	SINTOMA 5051 5068	actos autolíticos
+T19	SINTOMA 5265 5286	ideaciones delirantes
+T20	SINTOMA 5438 5459	inquietud psicomotora
+T21	SINTOMA 5479 5514	movimiento continuo de manos y pies
+T22	SINTOMA 5665 5689	incapaz de estar sentado
+T23	SINTOMA 6819 6825	alerta
+T24	SINTOMA 6830 6836	fobias
+T25	SINTOMA 6840 6862	pensamientos obsesivos
+T26	SINTOMA 6866 6883	actos ritualistas
+T27	SINTOMA 7661 7688	hiperactividad/impulsividad
+T28	SINTOMA 9470 9478	cefaleas
+T29	SINTOMA 9481 9492	nerviosismo
+T30	SINTOMA 10123 10132	irritable
+T31	SINTOMA 10199 10205	apatía
+T32	SINTOMA 10208 10214	abulia
+T33	PROCEDIMIENTO 2529 2561	tratamiento cognitivo conductual
+T34	PROCEDIMIENTO 4256 4283	Exploración psicopatológica
+T35	PROCEDIMIENTO 6916 6925	Hemograma
+T36	PROCEDIMIENTO 7038 7055	Prueba de Mantoux
+T37	PROCEDIMIENTO 7058 7078	Radiografía de tórax
+T38	NEG 1811 1814	sin
+T39	NSCO 1815 1827	alteraciones
+T40	NEG 2252 2254	no
+T41	NSCO 2255 2262	atiende
+T42	NEG 2584 2586	no
+T43	NSCO 2587 2606	dió mucho resultado
+T44	NEG 3935 3940	nunca
+T45	NSCO 3941 3988	le ha provocado síntomas ansiosos ni psicóticos
+T46	NEG 4202 4204	no
+T47	NSCO 4205 4225	ha vuelto a probarla
+T48	NEG 4227 4229	No
+T49	NSCO 4230 4253	ha probado otras drogas
+T50	UNC 4354 4364	impresiona
+T51	USCO 4365 4383	por su nerviosismo
+T52	UNC 4536 4542	parece
+T53	USCO 4543 4566	más infantil de la edad
+T54	NEG 4850 4852	no
+T55	NSCO 4853 4879	consiguiendo la reparación
+T56	NEG 4881 4883	No
+T57	NSCO 4884 4925	se detecta alteración del estado de ánimo
+T58	NEG 5019 5024	nunca
+T59	NSCO 5025 5068	ha tenido pensamientos ni actos autolíticos
+T60	NEG 5070 5072	No
+T61	NSCO 5073 5104	refiere conductas autoagresivas
+T62	NEG 5184 5186	No
+T63	NSCO 5187 5251	existe alteración en el curso ni en el contenido del pensamiento
+T64	NEG 5253 5255	no
+T65	NSCO 5256 5306	presenta ideaciones delirantes ni autorreferencias
+T66	NEG 5665 5675	incapaz de
+T67	NSCO 5676 5689	estar sentado
+T68	NEG 5771 5776	nunca
+T69	NSCO 5777 5806	ha tenido capacidad de espera
+T70	NEG 6055 6058	sin
+T71	NSCO 6059 6083	pensar las consecuencias
+T72	NEG 6194 6204	incapaz de
+T73	NSCO 6205 6241	leer textos como periódicos o libros
+T74	NEG 6253 6255	no
+T75	NSCO 6256 6273	le gusta realizar
+T76	NEG 6774 6776	No
+T77	NSCO 6777 6883	refiere crisis de ansiedad, ni estados de alerta, ni fobias ni pensamientos obsesivos ni actos ritualistas
+T78	NEG 6947 6950	sin
+T79	NSCO 6951 6963	alteraciones
+T80	NEG 7011 7020	negativos
+T81	NEG 7028 7036	negativo
+T82	NEG 7080 7083	Sin
+T83	NSCO 7084 7096	alteraciones
+T84	NEG 8309 8311	No
+T85	NSCO 8312 8337	hay diagnóstico en eje II
+T86	UNC 9062 9069	posible
+T87	USCO 9070 9089	efectos secundarios
+T88	NEG 9541 9555	desapareciendo
+T89	NSCO 9556 9579	los efectos secundarios
+T90	NEG 9968 9970	no
+T91	NSCO 9971 9989	se "dispara" tanto
+T92	NEG 9995 9997	no
+T93	NSCO 9998 10012	se mueve tanto
+T94	NEG 10095 10097	no
+T95	NSCO 10098 10110	se ha salido
+T96	NEG 10138 10140	no
+T97	NSCO 10141 10166	se pelea tanto como antes
+T98	UNC 10352 10359	posible
+T99	USCO 10360 10405	que al finalizar el mismo le puedan contratar
+T100	NEG 10620 10622	no
+T101	NSCO 10623 10648	se pelea con los hermanos
+T102	NEG 10773 10787	ningún momento
+T103	NSCO 10788 10827	se ha hecho un mal uso de la medicación
+T104	FARMACO 8883 8896	metilfenidato
+T105	ORG_VIVO 39 44	varón
+T106	ORG_VIVO 98 103	novia
+T107	ORG_VIVO 149 171	vigilante de seguridad
+T108	ORG_VIVO 222 230	hermanos
+T109	ORG_VIVO 264 270	padres
+T110	ORG_VIVO 293 298	padre
+T111	ORG_VIVO 333 341	cannabis
+T112	ORG_VIVO 461 466	novia
+T113	ORG_VIVO 610 616	padres
+T114	ORG_VIVO 623 631	hermanos
+T115	ORG_VIVO 851 873	vigilante de seguridad
+T116	ORG_VIVO 1083 1093	personales
+T117	ORG_VIVO 1118 1124	ácaros
+T118	ORG_VIVO 1287 1297	familiares
+T119	ORG_VIVO 1301 1306	madre
+T120	ORG_VIVO 1359 1364	padre
+T121	ORG_VIVO 1437 1448	tío paterno
+T122	ORG_VIVO 1496 1507	tía materna
+T123	ORG_VIVO 1542 1553	tío materno
+T124	ORG_VIVO 1628 1636	infancia
+T125	ORG_VIVO 1652 1662	personales
+T126	ORG_VIVO 1681 1687	padres
+T127	ORG_VIVO 1715 1719	bebé
+T128	ORG_VIVO 2186 2193	tutores
+T129	ORG_VIVO 2320 2330	compañeros
+T130	ORG_VIVO 2351 2357	padres
+T131	ORG_VIVO 2373 2382	psicólogo
+T132	ORG_VIVO 2577 2583	padres
+T133	ORG_VIVO 2611 2619	paciente
+T134	ORG_VIVO 2740 2756	vigilante jurado
+T135	ORG_VIVO 3164 3170	tabaco
+T136	ORG_VIVO 3419 3427	cannabis
+T137	ORG_VIVO 3851 3857	padres
+T138	ORG_VIVO 3859 3867	hermanos
+T139	ORG_VIVO 3869 3874	novia
+T140	ORG_VIVO 3926 3934	cannabis
+T141	ORG_VIVO 4287 4295	paciente
+T142	ORG_VIVO 4467 4474	persona
+T143	ORG_VIVO 4693 4698	novia
+T144	ORG_VIVO 4700 4706	padres
+T145	ORG_VIVO 4936 4944	paciente
+T146	ORG_VIVO 5163 5173	familiares
+T147	ORG_VIVO 5176 5182	pareja
+T148	ORG_VIVO 6416 6424	paciente
+T149	ORG_VIVO 6434 6440	padres
+T150	ORG_VIVO 6721 6738	policía municipal
+T151	ORG_VIVO 6979 6999	virus de hepatitis B
+T152	ORG_VIVO 7000 7003	y C
+T153	ORG_VIVO 7006 7009	VIH
+T154	ORG_VIVO 7022 7026	VRDL
+T155	ORG_VIVO 7130 7138	cannabis
+T156	ORG_VIVO 7237 7243	padres
+T157	ORG_VIVO 7267 7273	padres
+T158	ORG_VIVO 7306 7314	paciente
+T159	ORG_VIVO 7326 7330	niño
+T160	ORG_VIVO 7393 7401	paciente
+T161	ORG_VIVO 7568 7576	paciente
+T162	ORG_VIVO 7725 7733	infancia
+T163	ORG_VIVO 7875 7881	padres
+T164	ORG_VIVO 7933 7941	paciente
+T165	ORG_VIVO 8141 8149	cannabis
+T166	ORG_VIVO 8281 8287	adulto
+T167	ORG_VIVO 8525 8534	amistades
+T168	ORG_VIVO 8749 8757	familiar
+T169	ORG_VIVO 8789 8795	pareja
+T170	ORG_VIVO 8870 8878	paciente
+T171	ORG_VIVO 9211 9219	paciente
+T172	ORG_VIVO 9250 9260	familiares
+T173	ORG_VIVO 9281 9289	paciente
+T174	ORG_VIVO 9419 9427	paciente
+T175	ORG_VIVO 9699 9707	paciente
+T176	ORG_VIVO 9746 9754	cannabis
+T177	ORG_VIVO 9880 9887	familia
+T178	ORG_VIVO 9892 9900	paciente
+T179	ORG_VIVO 10306 10314	soldador
+T180	ORG_VIVO 10507 10513	padres
+T181	ORG_VIVO 10640 10648	hermanos
+T182	ORG_VIVO 10653 10658	novia
+T183	ENFERMEDAD 322 341	consumo de cannabis
+T184	ENFERMEDAD 1143 1162	bronquitis asmática
+T185	ENFERMEDAD 1165 1182	rinoconjuntivitis
+T186	ENFERMEDAD 1184 1201	adenoidectomizado
+T187	ENFERMEDAD 1329 1348	trastorno depresivo
+T188	ENFERMEDAD 1527 1536	depresión
+T189	ENFERMEDAD 1571 1604	trastorno por déficit de atención
+T190	ENFERMEDAD 2446 2467	trastorno de conducta
+T191	ENFERMEDAD 2482 2509	trastorno de hiperactividad
+T192	ENFERMEDAD 2955 2960	fobia
+T193	ENFERMEDAD 3408 3427	consumo de cannabis
+T194	ENFERMEDAD 3915 3934	consumo de cannabis
+T195	ENFERMEDAD 5081 5104	conductas autoagresivas
+T196	ENFERMEDAD 6785 6803	crisis de ansiedad
+T197	ENFERMEDAD 7098 7138	Tóxicos en orina: positivo para cannabis
+T198	ENFERMEDAD 7182 7201	déficit de atención
+T199	ENFERMEDAD 7222 7226	TDAH
+T200	ENFERMEDAD 7443 7449	53/100
+T201	ENFERMEDAD 7661 7688	hiperactividad/impulsividad
+T202	ENFERMEDAD 8112 8149	Trastorno por dependencia de cannabis
+T203	ENFERMEDAD 9735 9754	consumo de cannabis
+T204	PACIENTE-SITUACION_LABORAL 117 124	en paro
+T205	PACIENTE-PROFESION 10306 10314	soldador
+T206	PACIENTE-PROFESION 149 171	vigilante de seguridad
+T207	PACIENTE-SITUACION_LABORAL 173 200	cobra subsidio de desempleo
+T208	PACIENTE-SITUACION_LABORAL 134 143	despedido
+T209	PACIENTE-SITUACION_LABORAL 394 415	he perdido el trabajo
+T210	PACIENTE-PROFESION 851 873	vigilante de seguridad
+T211	PACIENTE-SITUACION_LABORAL 2141 2169	inicia las etapas preescolar
+T212	PACIENTE-SITUACION_LABORAL 2141 2180	inicia las etapas preescolar y primaria
+T213	OTROS-PROFESION 2186 2193	tutores
+T214	OTROS-PROFESION 2373 2382	psicólogo
+T215	OTROS-SITUACION_LABORAL 2383 2390	privado
+T216	PACIENTE-PROFESION 2727 2737	frigorista
+T217	PACIENTE-PROFESION 2740 2756	vigilante jurado
+T218	OTROS-PROFESION 6721 6738	policía municipal

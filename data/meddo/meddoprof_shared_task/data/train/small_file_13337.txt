@@ -1,0 +1,17 @@
+
+Refiere	O
+que	O
+estuvo	O
+en	O
+África	O
+(	O
+golfo	O
+de	O
+Guinea	O
+)	O
+hace	O
+2	O
+meses	O
+de	O
+voluntariado	O
+.	O

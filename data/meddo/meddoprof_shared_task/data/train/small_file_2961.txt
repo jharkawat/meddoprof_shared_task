@@ -1,0 +1,23 @@
+
+El	O
+diagnóstico	O
+se	O
+realizará	O
+con	O
+todos	O
+los	O
+cuadros	O
+disneícos	O
+:	O
+TEPA	O
+,	O
+cardiopatía	O
+isquémica	O
+,	O
+estados	O
+anémicos	O
+,	O
+valvulopatías	O
+,	O
+ansiedad	O
+.	O

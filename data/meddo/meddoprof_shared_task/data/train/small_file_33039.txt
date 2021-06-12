@@ -1,0 +1,8 @@
+
+TC	O
+craneal	O
+:	O
+sin	O
+alteraciones	O
+reseñables	O
+.	O

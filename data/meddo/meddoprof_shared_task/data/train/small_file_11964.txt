@@ -1,0 +1,15 @@
+
+No	O
+presentaba	O
+signos	O
+de	O
+insuficiencia	O
+cardiaca	O
+ni	O
+lesiones	O
+telangiectásicas	O
+en	O
+piel	O
+y	O
+mucosas	O
+.	O

@@ -1,0 +1,27 @@
+
+En	O
+ese	O
+momento	O
+,	O
+ella	O
+se	O
+decide	O
+a	O
+publicar	O
+por	O
+la	O
+primera	O
+vez	O
+en	O
+su	O
+vida	O
+un	O
+ensayo	O
+íntimo	O
+y	O
+personal	O
+escrito	O
+por	O
+ella	O
+misma	O
+.	O

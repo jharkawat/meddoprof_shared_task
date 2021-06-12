@@ -1,0 +1,18 @@
+
+En	O
+este	O
+momento	O
+,	O
+la	O
+paciente	O
+presentaba	O
+exploración	O
+física	O
+anodina	O
+,	O
+sin	O
+palparse	O
+adenopatías	O
+ni	O
+hepatomegalia	O
+.	O

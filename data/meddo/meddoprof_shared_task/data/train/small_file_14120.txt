@@ -1,0 +1,5 @@
+
+Negaba	O
+antecedentes	O
+cardiorrespiratorios	O
+.	O

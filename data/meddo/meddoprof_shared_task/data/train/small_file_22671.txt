@@ -1,0 +1,10 @@
+
+No	O
+se	O
+hallaron	O
+anomalías	O
+significativas	O
+en	O
+estas	O
+pruebas	O
+.	O

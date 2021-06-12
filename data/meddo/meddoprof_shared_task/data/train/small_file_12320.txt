@@ -1,0 +1,20 @@
+
+Todos	O
+los	O
+episodios	O
+son	O
+de	O
+características	O
+similares	O
+,	O
+habiendo	O
+ocurrido	O
+en	O
+distintas	O
+circunstancias	O
+ambientales	O
+,	O
+posturales	O
+y	O
+horarias	O
+.	O

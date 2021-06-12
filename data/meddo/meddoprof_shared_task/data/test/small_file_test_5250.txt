@@ -1,0 +1,14 @@
+
+Como	O
+antecedentes	O
+familiares	O
+de	O
+interés	O
+tenía	O
+familiares	O
+maternos	O
+diagnosticados	O
+de	O
+artritis	O
+reumatoide	O
+.	O

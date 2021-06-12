@@ -1,0 +1,5 @@
+
+Patrón	O
+3	O
+:	O
+Eliminación	O

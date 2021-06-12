@@ -1,0 +1,19 @@
+
+Pequeños	O
+focos	O
+hiperintensos	O
+en	O
+T2	O
+y	O
+FLAIR	O
+en	O
+la	O
+sustancia	O
+blanca	O
+,	O
+sin	O
+edema	O
+ni	O
+efecto	O
+masa	O
+.	O

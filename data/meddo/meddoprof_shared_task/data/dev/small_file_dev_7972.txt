@@ -1,0 +1,23 @@
+
+Tras	O
+realizar	O
+despistaje	O
+de	O
+endocarditis	O
+asociada	O
+(	O
+hemocultivos	O
+y	O
+ecocardiografía	O
+transesofágica	O
+negativos	O
+)	O
+,	O
+se	O
+procede	O
+a	O
+nueva	O
+TPC	O
+del	O
+sistema	O
+.	O

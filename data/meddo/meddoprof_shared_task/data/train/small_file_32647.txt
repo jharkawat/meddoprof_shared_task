@@ -1,0 +1,25 @@
+
+En	O
+la	O
+última	O
+semana	O
+el	O
+paciente	O
+refiere	O
+reagudización	O
+de	O
+alteraciones	O
+sensoperceptivas	O
+en	O
+forma	O
+de	O
+voces	O
+,	O
+generándole	O
+gran	O
+angustia	O
+psíquica	O
+e	O
+inquietud	O
+psicomotriz	O
+.	O

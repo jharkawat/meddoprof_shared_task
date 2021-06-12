@@ -1,0 +1,7 @@
+
+El	O
+abdomen	O
+blando	O
+,	O
+normal	O
+.	O

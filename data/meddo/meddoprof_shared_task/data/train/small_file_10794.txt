@@ -1,0 +1,12 @@
+
+No	O
+fumador	O
+y	O
+sin	O
+historia	O
+de	O
+consumo	O
+abusivo	O
+de	O
+alcohol	O
+.	O

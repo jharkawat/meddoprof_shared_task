@@ -1,0 +1,19 @@
+
+Debido	O
+a	O
+la	O
+dificultad	O
+de	O
+manejo	O
+sintomatológico	O
+y	O
+farmacológico	O
+fue	O
+derivado	O
+al	O
+Hospital	O
+de	O
+Día	O
+de	O
+Psiquiatría	O
+.	O

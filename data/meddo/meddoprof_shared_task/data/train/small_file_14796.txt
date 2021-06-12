@@ -1,0 +1,17 @@
+
+Neoplasias	O
+:	O
+linfoma	O
+,	O
+leucemia	O
+,	O
+neoplasia	O
+órgano	O
+sólido	O
+,	O
+síndrome	O
+mielodisplásico	O
+,	O
+mixoma	O
+auricular	O
+.	O

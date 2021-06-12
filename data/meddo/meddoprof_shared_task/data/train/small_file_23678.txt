@@ -1,0 +1,20 @@
+
+En	O
+la	O
+resonancia	O
+magnética	O
+se	O
+identifican	O
+por	O
+primera	O
+vez	O
+lesiones	O
+desmielinizantes	O
+compatibles	O
+con	O
+esclerosis	O
+múltiple	O
+(	O
+EM	O
+)	O
+.	O

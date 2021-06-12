@@ -1,0 +1,23 @@
+
+Mientras	O
+la	O
+profesora	B-PROFESION
+y	O
+otros	O
+alumnos	B-SITUACION_LABORAL
+intentaban	O
+separarles	O
+,	O
+Raúl	O
+estaba	O
+completamente	O
+descontrolado	O
+y	O
+gritaba	O
+"	O
+vuelve	O
+a	O
+llamarme	O
+imbécil	O
+"	O
+.	O

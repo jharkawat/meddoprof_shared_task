@@ -1,0 +1,91 @@
+T1	SINTOMA 1138 1148	artralgias
+T2	SINTOMA 1221 1244	edema facial y cervical
+T3	SINTOMA 1354 1360	Fiebre
+T4	SINTOMA 1370 1394	estabilidad hemodinámica
+T5	SINTOMA 1660 1706	pérdida de fuerza muscular en las extremidades
+T6	SINTOMA 1724 1740	signos meníngeos
+T7	SINTOMA 1745 1770	alteraciones en la marcha
+T8	SINTOMA 1836 1854	hiperemia faríngea
+T9	SINTOMA 1860 1874	edema de úvula
+T10	SINTOMA 2094 2103	dolorosas
+T11	SINTOMA 2116 2137	tumefacción parotídea
+T12	SINTOMA 2220 2244	tonos cardíacos rítmicos
+T13	SINTOMA 2250 2265	soplos audibles
+T14	SINTOMA 2313 2321	dolorosa
+T15	SINTOMA 2327 2340	hepatomegalia
+T16	SINTOMA 2342 2357	Murphy negativo
+T17	SINTOMA 2373 2394	irritación peritoneal
+T18	SINTOMA 2424 2462	pulsos pedios conservados y simétricos
+T19	SINTOMA 2468 2474	edemas
+T20	SINTOMA 2747 2758	neutrofilia
+T21	PROCEDIMIENTO 678 694	antihistamínicos
+T22	PROCEDIMIENTO 1298 1307	anamnesis
+T23	PROCEDIMIENTO 1322 1340	Exploración física
+T24	PROCEDIMIENTO 1459 1489	suplementario en gafas nasales
+T25	PROCEDIMIENTO 2152 2184	auscultación cardiorrespiratoria
+T26	PROCEDIMIENTO 2554 2563	hemograma
+T27	PROCEDIMIENTO 2609 2631	estudio de coagulación
+T28	PROCEDIMIENTO 2633 2650	gasometría venosa
+T29	PROCEDIMIENTO 2818 2821	EKG
+T30	PROCEDIMIENTO 2851 2884	imágen de bloqueo de rama derecha
+T31	PROCEDIMIENTO 2886 2894	Rx tórax
+T32	NEG 280 282	No
+T33	NSCO 283 343	otros antecedentes médicos/quirúrgicos/familiares de interés
+T34	NEG 439 442	sin
+T35	NSCO 443 481	prácticas de riesgo sexual reconocidas
+T36	NEG 516 518	No
+T37	NSCO 519 535	viajes recientes
+T38	NEG 1029 1032	sin
+T39	NSCO 1033 1082	respetar cara, cuero cabelludo, palmas ni plantas
+T40	NEG 1084 1086	No
+T41	NSCO 1087 1120	aparece afectación de las mucosas
+T42	NEG 1185 1188	sin
+T43	NSCO 1189 1197	artritis
+T44	NEG 1246 1249	sin
+T45	NSCO 1250 1320	acompañarse de otra semiología sistémica en la anamnesis por aparatos
+T46	NEG 1656 1659	sin
+T47	NSCO 1660 1740	pérdida de fuerza muscular en las extremidades, ni presencia de signos meníngeos
+T48	NEG 1856 1859	sin
+T49	NSCO 1860 1891	edema de úvula ni aftas bucales
+T50	UNC 2109 2115	dudosa
+T51	USCO 2116 2147	tumefacción parotídea bilateral
+T52	NEG 2246 2249	sin
+T53	NSCO 2250 2265	soplos audibles
+T54	NEG 2310 2312	no
+T55	NSCO 2313 2321	dolorosa
+T56	NEG 2323 2326	sin
+T57	NSCO 2327 2340	hepatomegalia
+T58	NEG 2349 2357	negativo
+T59	NEG 2359 2362	sin
+T60	NSCO 2363 2394	signos de irritación peritoneal
+T61	NEG 2464 2467	sin
+T62	NSCO 2468 2498	edemas, ni signos de trombosis
+T63	NEG 2927 2930	sin
+T64	NSCO 2931 2967	imágenes de condensación ni derrames
+T65	NEG 2986 2994	Negativo
+T66	FARMACO 637 652	Oxcarbamazepina
+T67	FARMACO 654 665	Paracetamol
+T68	FARMACO 667 676	Naproxeno
+T69	FARMACO 697 708	Amoxicilina
+T70	ORG_VIVO 13 23	personales
+T71	ORG_VIVO 28 36	paciente
+T72	ORG_VIVO 322 332	familiares
+T73	ORG_VIVO 351 366	varicela zoster
+T74	ORG_VIVO 373 381	infancia
+T75	ORG_VIVO 392 402	vacunación
+T76	ORG_VIVO 430 437	Soltero
+T77	ORG_VIVO 487 493	perros
+T78	ORG_VIVO 774 782	paciente
+T79	ORG_VIVO 3205 3213	paciente
+T80	ENFERMEDAD 75 92	tabaquismo activo
+T81	ENFERMEDAD 135 162	consumo de cocaína inhalada
+T82	ENFERMEDAD 351 366	varicela zoster
+T83	ENFERMEDAD 733 749	cuadro bronquial
+T84	ENFERMEDAD 892 979	lesiones eritematosas en la piel, que se inician en la espalda y a nivel retroauricular
+T85	ENFERMEDAD 1189 1197	artritis
+T86	ENFERMEDAD 1878 1891	aftas bucales
+T87	ENFERMEDAD 1893 1961	Lesiones dérmicas confluentes en tronco, eritematosas y pruriginosas
+T88	ENFERMEDAD 2033 2072	Adenopatías palpables latero-cervicales
+T89	ENFERMEDAD 2489 2498	trombosis
+T90	PACIENTE-PROFESION 548 581	trabajo previo en la construcción
+T91	PACIENTE-PROFESION 584 608	en labores de jardinería

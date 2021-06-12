@@ -1,0 +1,9 @@
+T1	SINTOMA 429 486	retracción palpebral de 3 mm en ambos párpados superiores
+T2	PROCEDIMIENTO 182 204	estudio microbiológico
+T3	NEG 134 136	no
+T4	NSCO 137 176	respondía a los tratamientos habituales
+T5	NEG 205 213	negativo
+T6	ORG_VIVO 3 11	paciente
+T7	ORG_VIVO 19 24	varón
+T8	ENFERMEDAD 88 118	queratoconjuntivitis bilateral
+T9	ENFERMEDAD 383 393	exoftalmos

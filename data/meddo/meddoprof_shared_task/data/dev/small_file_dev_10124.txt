@@ -1,0 +1,11 @@
+
+Conversaba	O
+con	O
+gente	O
+día	O
+y	O
+noche	O
+y	O
+bebía	O
+excesivamente	O
+.	O

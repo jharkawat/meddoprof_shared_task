@@ -1,0 +1,17 @@
+
+Estela	O
+comenta	O
+que	O
+su	O
+padre	O
+no	O
+se	O
+queja	O
+nunca	O
+y	O
+está	O
+muy	O
+preocupada	O
+por	O
+él	O
+.	O

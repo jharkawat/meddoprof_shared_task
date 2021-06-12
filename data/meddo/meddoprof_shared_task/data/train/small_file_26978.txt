@@ -1,0 +1,23 @@
+
+Además	O
+del	O
+seguimiento	O
+psiquiátrico	O
+,	O
+acude	O
+regularmente	O
+a	O
+asociación	O
+en	O
+la	O
+que	O
+realiza	O
+actividades	O
+grupales	O
+para	O
+el	O
+trabajo	O
+de	O
+habilidades	O
+sociales	O
+.	O

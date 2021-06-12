@@ -1,0 +1,21 @@
+
+Traumatismo	O
+craneoencefálico	O
+con	O
+secuelas	O
+de	O
+:	O
+síndrome	O
+orbitofrontal	O
+,	O
+epilepsia	O
+secundaria	O
+,	O
+lesión	O
+del	O
+segundo	O
+y	O
+tercer	O
+par	O
+izquierdos	O
+.	O

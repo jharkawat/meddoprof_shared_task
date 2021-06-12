@@ -1,0 +1,23 @@
+
+Dada	O
+la	O
+negatividad	O
+para	O
+PD	O
+-	O
+L1	O
+,	O
+se	O
+propone	O
+al	O
+paciente	O
+entrar	O
+en	O
+el	O
+ensayo	O
+clínico	O
+D419300003	O
+(	O
+CONDOR	O
+)	O
+.	O

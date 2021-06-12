@@ -1,0 +1,5 @@
+
+No	O
+sintomatología	O
+negativa	O
+.	O

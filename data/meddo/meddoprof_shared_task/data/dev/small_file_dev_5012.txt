@@ -1,0 +1,19 @@
+
+A	O
+la	O
+exploración	O
+,	O
+inicialmente	O
+destaca	O
+su	O
+morfotipo	O
+caracterizado	O
+por	O
+una	O
+obesidad	O
+troncular	O
+y	O
+extremidades	O
+muy	O
+delgadas	O
+.	O

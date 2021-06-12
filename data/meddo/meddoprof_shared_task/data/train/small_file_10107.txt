@@ -1,0 +1,26 @@
+
+El	O
+abdomen	O
+mostraba	O
+aspecto	O
+globuloso	O
+,	O
+era	O
+blando	O
+y	O
+depresible	O
+a	O
+la	O
+palpación	O
+,	O
+sin	O
+masas	O
+ni	O
+megalias	O
+,	O
+con	O
+molestias	O
+difusas	O
+en	O
+hipogastrio	O
+.	O

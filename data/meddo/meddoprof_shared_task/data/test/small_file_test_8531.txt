@@ -1,0 +1,20 @@
+
+Alfa	O
+-	O
+fetoproteína	O
+(	O
+AFP	O
+)	O
+:	O
+2	O
+,	O
+2	O
+ng	O
+/	O
+ml	O
+(	O
+1	O
+-	O
+20	O
+)	O
+.	O

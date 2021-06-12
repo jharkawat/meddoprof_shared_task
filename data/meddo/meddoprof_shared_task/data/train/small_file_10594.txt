@@ -1,0 +1,23 @@
+
+Cuando	O
+acudió	O
+,	O
+una	O
+semana	O
+después	O
+,	O
+ya	O
+no	O
+se	O
+apreciaba	O
+la	O
+erupción	O
+cutánea	O
+y	O
+había	O
+mejorado	O
+mucho	O
+la	O
+afectación	O
+articular	O
+.	O

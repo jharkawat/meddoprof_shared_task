@@ -1,0 +1,25 @@
+
+En	O
+base	O
+a	O
+ello	O
+a	O
+nuestro	O
+paciente	O
+le	O
+correspondía	O
+una	O
+fase	O
+de	O
+consolidación	O
+consistente	O
+únicamente	O
+en	O
+8	O
+ciclos	O
+de	O
+VAC	O
+,	O
+sin	O
+radioterapia	O
+.	O

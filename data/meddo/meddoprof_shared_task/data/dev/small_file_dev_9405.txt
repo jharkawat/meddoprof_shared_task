@@ -1,0 +1,11 @@
+
+No	O
+aumento	O
+de	O
+presión	O
+venosa	O
+central	O
+(	O
+PVC	O
+)	O
+.	O

@@ -1,0 +1,12 @@
+
+El	O
+resto	O
+de	O
+la	O
+exploración	O
+neurológica	O
+y	O
+cardiorrespiratoria	O
+fue	O
+normal	O
+.	O

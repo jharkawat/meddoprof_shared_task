@@ -1,0 +1,18 @@
+
+Es	O
+capaz	O
+de	O
+responder	O
+a	O
+nuestras	O
+preguntas	O
+con	O
+cierta	O
+congruencia	O
+,	O
+aunque	O
+rápidamente	O
+divaga	O
+y	O
+verbigera	O
+.	O

@@ -1,0 +1,14 @@
+
+Llama	O
+la	O
+atención	O
+la	O
+alteración	O
+de	O
+la	O
+escritura	O
+y	O
+la	O
+apraxia	O
+constructiva	O
+.	O

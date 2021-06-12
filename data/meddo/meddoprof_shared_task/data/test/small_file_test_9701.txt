@@ -1,0 +1,20 @@
+
+Resto	O
+,	O
+incluyendo	O
+pro	O
+-	O
+grp	O
+(	O
+36	O
+,	O
+3	O
+pg	O
+/	O
+ml	O
+)	O
+,	O
+con	O
+valores	O
+normales	O
+.	O

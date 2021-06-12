@@ -1,0 +1,35 @@
+Motivo de consulta
+Dolor e inflamación pantorrilla derecha.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Antecedentes personales y tratamiento
+- Mujer de 92 años muy dependiente
+- Fibrilación Auricular (FA) crónica.
+- Valvulopatía mitroaórtica ligera.
+- Enfermedad de Parkinson/Demencia.
+- Hemorragias previas dérmicas frecuentes con el uso de Sintrom y anticoagulantes de acción directa, por lo que estaba en tratamiento con ácido acetil salicílico (AAS) y no con estos últimos.
+Tratamiento actual: Levodopa 100/Carbidopa 25mg, Bisoprolol 2,5mg, AAS 300 mg, Omeprazol 20 mg.
+
+Anamnesis y exploración
+Acudimos al domicilio a valorar a la paciente por presentar, desde hace dos dias, dolor e inflamación de la pierna derecha.
+En los dias previos no había sufrido caídas o traumatismos recientes ni otro proceso patológico intercurrente. No cambios o abandono de su tratamiento de base.
+La paciente presentaba buen estado de salud, bien hidratada y nutrida, se encontraba afebril, constantes vitales mantenidas (tensión arterial 130/70, pulso arrítmico a 68 latidos) Pierna derecha, a nivel de la pantorrilla y mitad distal, aumentada de tamaño, roja, caliente, empastada y edematosa. Presentaba dolor a la palpación en toda la zona afectada. No se observaban heridas ni lesiones dérmicas y los pulsos estaban presentes.
+
+Enfoque familiar y comunitario
+Anciana muy limitada físicamente, vida cama-sillón con adecuado apoyo familiar y cuidados personales. Vive una hija con ella, que es la cuidadora principal, y dos cuidadoras externas que complementan el aseo y la movilización. Tiene una nuera médica, con buenos contactos hospitalarios.
+
+Juicio clínico (lista de problemas y diagnóstico diferencial)
+El principal diagnóstico que nos planteamos ante el cuadro clínico que presentaba la paciente fue la trombosis venosa profunda (TVP), por las características personales de la paciente sus factores de riesgo y la forma de presentación de los síntomas. Otra opción que tuvimos en cuenta fue la celulitis extensa de la pierna, pero la ausencia de fiebre, de lesiones dérmicas como puerta de entrada y la forma de presentación, nos hizo optar por el primer diagnostico.
+
+Plan de acción y evolución
+Con la sospecha de trombosis venosa profunda, optamos por el tratamiento domiciliario, dada su edad, situación clínica basal y antecedentes. Indicamos vendaje compresivo, analgésicos, pierna en alto y heparina subcutánea (dalteparina 5000 UI/24 h). Decidimos comenzar con dosis infraterapéuticas de heparina debido a sus antecedentes de hemorragias con anticoagulantes y a la localización distal de la TVP (la dosis teóricamente indicada para el tratamiento de la TVP estaría entre 10.000-15.000 UI, 200UI/kg/dia)
+
+Evolución
+Programamos nueva visita domiciliaria a la semana para ver la evolución del problema:
+La paciente había mejorado del dolor, apenas existían signos de inflamación, desapareció el edema, tan solo persistía leve eritema en el dorso del pie. Dada la buena evolución de la TVP indicamos continuar heparina siete dias más, movilización progresiva y revisión en una semana.
+Pocos dias después, la familia consulta con un cirujano vascular que, sin valorar a la paciente, le incrementa la dosis de heparina a 10.000UI y le indica reiniciar AAS 300mg, por considerar insuficiente el tratamiento. Tras este aumento, la paciente desarrolla una hemorragia dérmica extensa en la pantorrilla de la pierna contralateral, con perdida de la integridad de la piel y necrosis subcutánea que fue evolucionando desfavorablemente a lo largo de los dias, aparecieron signos de infección local, a pesar de las curas y cuidados locales. La paciente presentaba debilidad, mal estado general y palidez cutaneomucosa.
+
+Ante esta complicación remitimos a urgencias donde se objetivó la aparición de una anemia severa (hg 7,8 g), debida a la hemorragia progresiva de la pierna, que meses antes no tenía, precisando transfusión de dos concentrados de hematíes. Desde urgencias, tras consultar con el cirujano vascular, se instauró tratamiento con antibióticos y, ahora sí, disminuyeron la dosis de heparina a 2.500UI (anulando la toma de AAS).
+A pesar de estas medidas, la infección del hematoma y la necrosis aumentaron rápidamente, produciendo sepsis secundaria que obligaron a un nuevo ingreso hospitalario. La infección no se contuvo con tratamiento antibiótico amplio intravenoso, y se tuvo que indicar una amputación supracondílea de la pierna derecha para contener la infección.
+
+La paciente actualmente se encuentra bien, recuperada de la anemia, la infección y la amputación, aunque ya no puede darse sus pequeños paseos desde la cama al sillón.

@@ -1,0 +1,6 @@
+
+FC	O
+:	O
+74	O
+lpm	O
+.	O

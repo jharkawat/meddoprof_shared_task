@@ -1,0 +1,119 @@
+T1	SINTOMA 2704 2723	hiperbilirrubinemia
+T2	SINTOMA 2881 2891	pesadillas
+T3	SINTOMA 5335 5344	orientado
+T4	SINTOMA 5352 5368	alopsíquicamente
+T5	SINTOMA 5416 5428	Bradicinesia
+T6	SINTOMA 5431 5447	hipotonía global
+T7	SINTOMA 5591 5597	pueril
+T8	SINTOMA 5970 5979	anhedonia
+T9	SINTOMA 6291 6302	EEG vigilia
+T10	PROCEDIMIENTO 2283 2307	tratamiento con insulina
+T11	PROCEDIMIENTO 2348 2355	cesárea
+T12	PROCEDIMIENTO 2629 2646	anestesia materna
+T13	PROCEDIMIENTO 2763 2780	lactancia materna
+T14	PROCEDIMIENTO 6253 6264	RM cerebral
+T15	PROCEDIMIENTO 6291 6294	EEG
+T16	PROCEDIMIENTO 6360 6377	Gasometría venosa
+T17	PROCEDIMIENTO 6419 6434	Ecocardiografía
+T18	PROCEDIMIENTO 6508 6524	Estudio genético
+T19	PROCEDIMIENTO 6778 6795	Test psicológicos
+T20	PROCEDIMIENTO 7728 7767	Test de vocabulario en imágenes Peabody
+T21	UNC 883 894	Orientación
+T22	USCO 895 904	Educativa
+T23	UNC 1249 1263	compatible con
+T24	USCO 1264 1304	un Trastorno Generalizado del Desarrollo
+T25	NEG 1305 1307	No
+T26	NSCO 1308 1320	Especificado
+T27	NEG 1580 1582	no
+T28	NSCO 1583 1595	especificado
+T29	NEG 2041 2047	Niegan
+T30	NSCO 2048 2106	otros antecedentes somáticos o psicopatológicos de interés
+T31	NEG 2144 2146	no
+T32	NSCO 2147 2181	se han realizado pruebas genéticas
+T33	NEG 2752 2754	no
+T34	NSCO 2755 2780	recibió lactancia materna
+T35	NEG 2782 2784	no
+T36	NSCO 2785 2827	describiéndose otros problemas en la misma
+T37	NEG 3031 3033	No
+T38	NSCO 3034 3091	problemas en la adquisición del control de los esfínteres
+T39	NEG 3655 3657	No
+T40	NSCO 3658 3685	se describe juego simbólico
+T41	NEG 3833 3835	no
+T42	NSCO 3836 3873	se le concedía el capricho que quería
+T43	NEG 5789 5791	No
+T44	NSCO 5792 5843	alteraciones en contenido o proceso del pensamiento
+T45	NEG 5845 5850	Niega
+T46	NEG 5853 5855	no
+T47	NSCO 5856 5904	impresiona de alteraciones en la sensopercepción
+T48	NEG 5945 5948	sin
+T49	NSCO 5949 6020	mostrar apatoabulia, anhedonia u otros síntomas de melancolía o elación
+T50	NEG 6081 6083	no
+T51	NSCO 6084 6105	se siente partícipe o
+T52	NEG 6106 6108	no
+T53	NSCO 6109 6125	logra comprender
+T54	NEG 6163 6168	Niega
+T55	NSCO 6169 6195	ideación autolítica activa
+T56	NEG 8553 8555	No
+T57	NSCO 8556 8582	se ha prescrito medicación
+T58	FARMACO 2299 2307	insulina
+T59	ORG_VIVO 0 5	Varón
+T60	ORG_VIVO 60 68	Infantil
+T61	ORG_VIVO 321 331	Personales
+T62	ORG_VIVO 820 830	Personales
+T63	ORG_VIVO 1673 1683	Familiares
+T64	ORG_VIVO 1684 1691	Familia
+T65	ORG_VIVO 1759 1767	paciente
+T66	ORG_VIVO 1784 1789	menor
+T67	ORG_VIVO 1798 1806	hermanos
+T68	ORG_VIVO 1808 1813	Madre
+T69	ORG_VIVO 1832 1837	Padre
+T70	ORG_VIVO 1885 1892	Hermana
+T71	ORG_VIVO 2117 2127	familiares
+T72	ORG_VIVO 2229 2234	madre
+T73	ORG_VIVO 2270 2277	materna
+T74	ORG_VIVO 2573 2585	neonatología
+T75	ORG_VIVO 2619 2624	fetal
+T76	ORG_VIVO 2639 2646	materna
+T77	ORG_VIVO 2665 2670	madre
+T78	ORG_VIVO 2773 2780	materna
+T79	ORG_VIVO 2918 2923	madre
+T80	ORG_VIVO 3287 3294	hermano
+T81	ORG_VIVO 4304 4312	Infantil
+T82	ORG_VIVO 5062 5067	gente
+T83	ORG_VIVO 5243 5251	familiar
+T84	ORG_VIVO 6568 6576	paciente
+T85	ORG_VIVO 6688 6693	padre
+T86	ORG_VIVO 7037 7045	infancia
+T87	ORG_VIVO 7278 7286	familiar
+T88	ENFERMEDAD 218 236	retraso psicomotor
+T89	ENFERMEDAD 279 305	Síndrome de Deleción 22q11
+T90	ENFERMEDAD 343 360	Alérgico al polen
+T91	ENFERMEDAD 362 416	Estenosis subaórtica fija membranosa de grado moderado
+T92	ENFERMEDAD 421 453	insuficiencia de válvula aórtica
+T93	ENFERMEDAD 580 589	Sobrepeso
+T94	ENFERMEDAD 749 782	Síndrome de Microdeleción 22q11.2
+T95	ENFERMEDAD 949 977	discapacidad mental moderada
+T96	ENFERMEDAD 1014 1036	trastorno generalizado
+T97	ENFERMEDAD 1267 1289	Trastorno Generalizado
+T98	ENFERMEDAD 1339 1356	déficit cognitivo
+T99	ENFERMEDAD 1542 1564	Trastorno Generalizado
+T100	ENFERMEDAD 1814 1830	diabética tipo 1
+T101	ENFERMEDAD 1850 1883	síndrome de microdeleción 22q11.2
+T102	ENFERMEDAD 1907 1930	enfermedad cardiológica
+T103	ENFERMEDAD 2209 2217	Embarazo
+T104	ENFERMEDAD 2261 2277	diabetes materna
+T105	ENFERMEDAD 2648 2660	hipoglucemia
+T106	ENFERMEDAD 2671 2680	diabética
+T107	ENFERMEDAD 2682 2701	síndrome infeccioso
+T108	ENFERMEDAD 2704 2723	hiperbilirrubinemia
+T109	ENFERMEDAD 4322 4349	trastorno en el aprendizaje
+T110	ENFERMEDAD 6436 6467	Estenosis subaórtica membranosa
+T111	ENFERMEDAD 6588 6613	Síndrome de Microdeleción
+T112	ENFERMEDAD 6615 6622	22q11.2
+T113	ENFERMEDAD 7966 7974	ansiedad
+T114	SANITARIO-PROFESION 873 922	Equipo de Orientación Educativa y Psicopedagógica
+T115	SANITARIO-PROFESION 1123 1178	Equipo Específico de Alteraciones Graves del Desarrollo
+T116	PACIENTE-SITUACION_LABORAL 4244 4287	alumno de necesidades educativas especiales
+T117	SANITARIO-PROFESION 3223 3231	logopeda
+T118	PACIENTE-SITUACION_LABORAL 4449 4474	Ha realizado hasta 4o ESO
+T119	PACIENTE-PROFESION 5222 5251	ayuda en restaurante familiar

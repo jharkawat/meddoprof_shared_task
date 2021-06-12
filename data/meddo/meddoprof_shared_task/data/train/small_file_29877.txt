@@ -1,0 +1,16 @@
+
+Actualmente	O
+los	O
+síntomas	O
+son	O
+de	O
+tipo	O
+residual	O
+con	O
+algunas	O
+alucinaciones	O
+auditivas	O
+de	O
+baja	O
+intensidad	O
+.	O

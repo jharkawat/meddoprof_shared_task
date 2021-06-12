@@ -1,0 +1,9 @@
+
+Soltero	O
+,	O
+actualmente	O
+reside	O
+con	O
+los	O
+padres	O
+.	O

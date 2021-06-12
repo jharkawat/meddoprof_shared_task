@@ -1,0 +1,16 @@
+
+Se	O
+mantiene	O
+tratamiento	O
+con	O
+hemodiálisis	O
+intermitente	O
+cada	O
+48h	O
+tratando	O
+de	O
+optimizar	O
+balances	O
+en	O
+negativo	O
+.	O

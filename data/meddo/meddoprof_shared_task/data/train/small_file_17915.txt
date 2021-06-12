@@ -1,0 +1,18 @@
+
+Epilepsia	O
+sintomática	O
+cursando	O
+con	O
+crisis	O
+parciales	O
+complejas	O
+secundaria	O
+a	O
+lesión	O
+temporal	O
+derecha	O
+de	O
+probable	O
+origen	O
+neoplásico	O
+.	O

@@ -1,0 +1,9 @@
+
+TEST	O
+CUTÁNEO	O
+ASPERGILLUS	O
+FUMIGATUS	O
+:	O
+discretamente	O
+positivo	O
+.	O

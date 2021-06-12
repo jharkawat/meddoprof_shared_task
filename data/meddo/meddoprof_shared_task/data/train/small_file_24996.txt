@@ -1,0 +1,23 @@
+
+En	O
+los	O
+antecedentes	O
+médicos	O
+únicamente	O
+consta	O
+apendicetomía	O
+en	O
+la	O
+infancia	O
+y	O
+alergia	O
+a	O
+las	O
+sulfamidas	O
+por	O
+haber	O
+presentado	O
+reacción	O
+cutánea	O
+eritematosa	O
+.	O

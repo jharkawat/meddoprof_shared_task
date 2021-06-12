@@ -1,0 +1,9 @@
+
+Al	O
+examen	O
+físico	O
+presentaba	O
+estertores	O
+crepitantes	O
+bilaterales	O
+.	O

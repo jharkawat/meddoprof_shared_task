@@ -1,0 +1,15 @@
+
+Comía	O
+muy	O
+poco	O
+porque	O
+estaba	O
+muy	O
+ocupada	O
+para	O
+sentarse	O
+y	O
+terminar	O
+su	O
+comida	O
+.	O

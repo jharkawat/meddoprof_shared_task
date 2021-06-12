@@ -1,0 +1,13 @@
+
+Por	O
+la	O
+escasa	O
+respuesta	O
+se	O
+realiza	O
+una	O
+broncofibroscopia	O
+con	O
+biopsia	O
+transbronquial	O
+.	O

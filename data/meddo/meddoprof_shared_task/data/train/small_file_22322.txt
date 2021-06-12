@@ -1,0 +1,25 @@
+
+Se	O
+le	O
+diagnostica	O
+de	O
+trastorno	O
+depresivo	O
+y	O
+se	O
+le	O
+instaura	O
+un	O
+nuevo	O
+tratamiento	O
+con	O
+venlafaxina	O
+150mg	O
+/	O
+día	O
+y	O
+Ketazolam	O
+30mg	O
+/	O
+día	O
+.	O

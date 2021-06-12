@@ -1,0 +1,21 @@
+
+En	O
+los	O
+ciclos	O
+posteriores	O
+se	O
+pautó	O
+tratamiento	O
+de	O
+soporte	O
+con	O
+pegfilgrastim	O
+6	O
+mg	O
+subcutáneo	O
+,	O
+asociado	O
+a	O
+la	O
+quimioterapia	O
+.	O

@@ -1,0 +1,10 @@
+
+Rigidez	O
+cervical	O
+con	O
+movilidad	O
+limitada	O
+por	O
+dolor	O
+intenso	O
+.	O

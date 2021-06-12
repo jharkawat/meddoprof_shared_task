@@ -1,0 +1,84 @@
+T1	SINTOMA 818 840	pérdidas de conciencia
+T2	SINTOMA 958 978	alteración cognitiva
+T3	SINTOMA 1092 1106	desorientación
+T4	SINTOMA 1137 1143	disnea
+T5	SINTOMA 1492 1499	astenia
+T6	SINTOMA 1517 1523	disnea
+T7	SINTOMA 1525 1533	ortopnea
+T8	SINTOMA 1545 1572	disnea paroxística nocturna
+T9	SINTOMA 1575 1580	ángor
+T10	SINTOMA 1709 1724	palidez de piel
+T11	SINTOMA 1814 1839	ruidos cardíacos audibles
+T12	SINTOMA 1891 1911	estertores bibasales
+T13	SINTOMA 1914 1939	sibilancias inspiratorias
+T14	SINTOMA 3455 3461	disnea
+T15	SINTOMA 3505 3512	fallece
+T16	PROCEDIMIENTO 2095 2101	RX ECG
+T17	PROCEDIMIENTO 2253 2256	TAC
+T18	PROCEDIMIENTO 2262 2265	RNM
+T19	PROCEDIMIENTO 3473 3491	sedación paliativa
+T20	NEG 222 224	no
+T21	NSCO 225 258	alergias medicamentosas conocidas
+T22	NEG 261 263	no
+T23	NSCO 264 279	hábitos tóxicos
+T24	NEG 954 957	sin
+T25	NSCO 958 986	alteración cognitiva grosera
+T26	UNC 1003 1011	probable
+T27	USCO 1012 1033	etología cardiológica
+T28	NEG 1092 1106	desorientación
+T29	NEG 1598 1604	impide
+T30	NSCO 1605 1655	realizar las actividades básicas de la vida diaria
+T31	FARMACO 530 543	Pitavastatina
+T32	FARMACO 545 555	metformina
+T33	FARMACO 562 571	enalapril
+T34	FARMACO 579 601	isosorbida mononitrato
+T35	FARMACO 608 629	ditiazem hidrocloruro
+T36	FARMACO 638 646	tramadol
+T37	FARMACO 654 664	Doxazocina
+T38	FARMACO 671 681	Acecumarol
+T39	FARMACO 687 695	digoxina
+T40	FARMACO 705 715	bromazepam
+T41	FARMACO 722 732	salbutamol
+T42	FARMACO 745 766	bromuro de ipratropio
+T43	FARMACO 1432 1439	oxígeno
+T44	FARMACO 3232 3239	morfina
+T45	FARMACO 3262 3265	MST
+T46	FARMACO 3288 3295	morfina
+T47	FARMACO 3389 3396	morfina
+T48	ORG_VIVO 170 175	mujer
+T49	ORG_VIVO 790 798	paciente
+T50	ORG_VIVO 1054 1062	paciente
+T51	ORG_VIVO 1456 1464	paciente
+T52	ORG_VIVO 2315 2323	familiar
+T53	ORG_VIVO 2338 2346	Paciente
+T54	ORG_VIVO 2444 2450	Casada
+T55	ORG_VIVO 2464 2470	marido
+T56	ORG_VIVO 2490 2495	hijos
+T57	ORG_VIVO 2512 2527	núcleo familiar
+T58	ORG_VIVO 2539 2548	cuidadora
+T59	ORG_VIVO 2565 2569	hija
+T60	ORG_VIVO 3089 3097	paciente
+T61	ORG_VIVO 3103 3110	familia
+T62	ORG_VIVO 3496 3504	paciente
+T63	ENFERMEDAD 225 248	alergias medicamentosas
+T64	ENFERMEDAD 317 338	hipertensión arterial
+T65	ENFERMEDAD 365 375	dislipemia
+T66	ENFERMEDAD 376 392	- Hipotiroidismo
+T67	ENFERMEDAD 393 417	- Marcapasos monocameral
+T68	ENFERMEDAD 422 449	Fibrilación auricular lenta
+T69	ENFERMEDAD 450 466	- Asma Bronquial
+T70	ENFERMEDAD 470 479	obesidad,
+T71	ENFERMEDAD 480 505	- distimia y polimedicada
+T72	ENFERMEDAD 933 953	cuadro amnésico leve
+T73	ENFERMEDAD 1385 1418	insuficiencia cardiorrespiratoria
+T74	ENFERMEDAD 2759 2792	Insuficiencia cardiorrespiratoria
+T75	ENFERMEDAD 2794 2816	insuficiencia cardíaca
+T76	ENFERMEDAD 2821 2842	disfunción diastólica
+T77	ENFERMEDAD 2844 2876	Hipertensión pulmonar secundaria
+T78	ENFERMEDAD 2878 2898	Cardiopatía terminal
+T79	ENFERMEDAD 2986 2990	TEPA
+T80	ENFERMEDAD 2992 3013	cardiopatía isquémica
+T81	ENFERMEDAD 3033 3046	valvulopatías
+T82	ENFERMEDAD 3048 3056	ansiedad
+T83	FAMILIAR-SITUACION_LABORAL 2539 2558	cuidadora principal
+T84	PACIENTE-SITUACION_LABORAL 2367 2378	dependiente

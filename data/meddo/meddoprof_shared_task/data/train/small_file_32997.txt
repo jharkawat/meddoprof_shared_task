@@ -1,0 +1,19 @@
+
+Se	O
+realizó	O
+una	O
+interconsulta	O
+con	O
+el	O
+servicio	O
+de	O
+Neurología	O
+para	O
+descartar	O
+la	O
+presencia	O
+de	O
+patología	O
+neurológica	O
+aguda	O
+.	O

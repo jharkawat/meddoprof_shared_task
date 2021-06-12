@@ -1,0 +1,6 @@
+
+No	O
+consumidor	O
+de	O
+alcohol	O
+.	O

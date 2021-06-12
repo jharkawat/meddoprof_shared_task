@@ -1,0 +1,16 @@
+
+Deja	O
+el	O
+hospital	O
+y	O
+el	O
+delirio	O
+persiste	O
+con	O
+cierta	O
+intensidad	O
+durante	O
+su	O
+seguimiento	O
+ambulatorio	O
+.	O

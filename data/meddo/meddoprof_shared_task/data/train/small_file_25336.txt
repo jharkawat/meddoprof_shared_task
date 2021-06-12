@@ -1,0 +1,15 @@
+
+No	O
+presenta	O
+ninguna	O
+actividad	O
+de	O
+ocio	O
+que	O
+no	O
+esté	O
+relacionada	O
+con	O
+el	O
+consumo	O
+.	O

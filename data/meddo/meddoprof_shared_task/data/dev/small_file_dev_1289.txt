@@ -1,0 +1,14 @@
+
+tú	O
+lo	O
+único	O
+que	O
+haces	O
+bien	O
+es	O
+limpiar	O
+los	O
+suelos	O
+.	O
+.	O
+.	O

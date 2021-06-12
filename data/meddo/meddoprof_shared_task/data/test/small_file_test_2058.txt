@@ -1,0 +1,10 @@
+
+Cultivo	O
+y	O
+Gram	O
+de	O
+LCR	O
+:	O
+sin	O
+hallazgos	O
+.	O

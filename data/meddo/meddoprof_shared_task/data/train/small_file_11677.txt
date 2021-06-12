@@ -1,0 +1,18 @@
+
+Se	O
+propone	O
+laparotomía	O
+para	O
+extirpación	O
+del	O
+rin	O
+̃	O
+ón	O
+derecho	O
+con	O
+suprarrenal	O
+así	O
+como	O
+adenopatías	O
+retroperitoneales	O
+.	O

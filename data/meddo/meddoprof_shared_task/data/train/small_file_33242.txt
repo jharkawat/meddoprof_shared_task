@@ -1,0 +1,14 @@
+
+Trabajos	O
+esporádicos	O
+como	O
+camarero	B-PROFESION
+y	O
+"	O
+gamer	B-PROFESION
+"	O
+remunerado	O
+,	O
+según	O
+refiere	O
+.	O

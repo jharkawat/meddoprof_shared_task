@@ -1,0 +1,11 @@
+
+AP	O
+:	O
+m	O
+.	O
+v	O
+conservado	O
+sin	O
+ruidos	O
+añadidos	O
+.	O

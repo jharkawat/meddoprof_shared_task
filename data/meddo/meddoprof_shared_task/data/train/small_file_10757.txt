@@ -1,0 +1,16 @@
+
+Descenso	O
+progresivo	O
+esteroideo	O
+hasta	O
+una	O
+dosis	O
+actual	O
+de	O
+prednisona	O
+de	O
+40	O
+mg	O
+/	O
+día	O
+.	O

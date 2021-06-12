@@ -1,0 +1,11 @@
+
+Varón	O
+de	O
+66	O
+años	O
+que	O
+vive	O
+en	O
+medio	O
+rural	O
+.	O

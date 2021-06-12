@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 49 años sin antecedentes médico-quirúrgicos de interés que es trasladado al hospital por presentar una crisis tónico-clónica generalizada. Desde hacía 3 días refería cefalea intensa holocraneal que había comenzado mientras trabajaba en el campo en el contexto de esfuerzo físico intenso, exposición al sol y maniobras de Valsalva.
+
+
+Examen físico
+Consciente, orientado, cefalea intensa, sin signos de focalidad neurológica. No rigidez de nuca. Fondo de ojo normal.
+ 
+ Pruebas complementarias
+• Bioquímica, hemograma, estudio de coagulación, vitamina B12 y ácido fólico: sin alteraciones.
+• Estudio de autoinmunidad sin alteraciones.
+• Dímero-D: 3.612 mg/l (rango de normalidad 0-250 mg/l).
+• Estudio de trombofilia: déficit de proteína S.
+• Electrocardiograma: ritmo sinusal.
+• Tomografía computarizada (TC) craneal urgente: hemorragia subaracnoidea a nivel de los surcos de la convexidad parietal posterior de predominio derecho. Foco contusivo hemorrágico de escasos milímetros frontal izquierdo. Tomografía computarizada craneal: hemorragia subaracnoidea en los surcos de la convexidad parietal posterior.
+• Angio-TC cerebral: sin alteraciones.
+• Arteriografía cerebral: sin imágenes sugerentes de aneurismas, malformaciones vasculares o trayectos fistulosos. En fases parenquimatosa/venosa se observa una estasis del drenaje venoso parietal posterior derecho (en la región de la sufusión hemorrágica apreciada en la TC) debido a una trombosis incompleta del seno longitudinal superior. Drenaje profundo de la vena de Galeno al seno longitudinal superior normal.
+• Angio-RM cerebral de control: resolución de trombosis venosa. Angio-RM cerebral: resolución de la trombosis del seno longitudinal superior.
+
+Diagnóstico
+Hemorragia subaracnoidea en el contexto de trombosis incompleta del seno longitudinal superior secundaria a déficit de proteína S.
+
+Tratamiento
+Al ingreso se inició tratamiento con nimodipino en perfusión continua como tratamiento preventivo de vasoespasmo, fenitoína 100 mg cada 8 horas para la prevención de crisis y analgesia. Al tercer día de ingreso se realizó una arteriografía, objetivando una trombosis parcial del seno longitudinal superior con mínima lámina de drenaje venoso peritrombótico. Creemos que el desencadenante de dicha trombosis fue un enlentecimiento de la circulación venosa cerebral en el contexto de esfuerzo físico en relación con maniobras de Valsalva y posible deshidratación por exposición al sol en un paciente con predisposición a trombosis por déficit de proteína S. Ante tal situación, atribuyendo la hemorragia subaracnoidea a la ruptura de un vaso venoso congestionado a causa de la trombosis, se inició tratamiento anticoagulante al octavo día del ingreso.
+
+Evolución
+La evolución fue favorable, resolviéndose la trombosis y siendo dado de alta el paciente asintomático.

@@ -1,0 +1,22 @@
+
+Se	O
+acordó	O
+con	O
+el	O
+Servicio	O
+de	O
+Radiología	O
+realizar	O
+una	O
+biopsia	O
+con	O
+aguja	O
+gruesa	O
+guiada	O
+por	O
+ecografía	O
+de	O
+los	O
+implantes	O
+peritoneales	O
+.	O

@@ -1,0 +1,14 @@
+
+Abdomen	O
+globuloso	O
+,	O
+doloroso	O
+a	O
+la	O
+palpación	O
+en	O
+el	O
+cuadrante	O
+superior	O
+derecho	O
+.	O

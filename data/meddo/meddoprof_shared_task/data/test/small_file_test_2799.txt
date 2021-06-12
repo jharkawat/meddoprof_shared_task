@@ -1,0 +1,23 @@
+
+Nódulos	O
+pulmonares	O
+bilaterales	O
+,	O
+el	O
+de	O
+mayor	O
+tamaño	O
+en	O
+el	O
+LSD	O
+,	O
+subpleural	O
+,	O
+de	O
+4	O
+,	O
+6	O
+x	O
+4	O
+cm	O
+.	O

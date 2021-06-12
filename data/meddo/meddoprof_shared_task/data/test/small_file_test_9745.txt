@@ -1,0 +1,19 @@
+
+El	O
+tratamiento	O
+empírico	O
+para	O
+la	O
+encefalitis	O
+consiguió	O
+,	O
+tras	O
+rituximab	O
+,	O
+la	O
+estabilización	O
+neurológica	O
+como	O
+mejor	O
+respuesta	O
+.	O

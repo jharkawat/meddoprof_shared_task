@@ -1,0 +1,11 @@
+
+El	O
+Electrocardiograma	O
+revela	O
+taquicardia	O
+sinusal	O
+sin	O
+otros	O
+hallazgos	O
+significativos	O
+.	O

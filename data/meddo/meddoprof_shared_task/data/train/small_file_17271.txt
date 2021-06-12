@@ -1,0 +1,16 @@
+
+También	O
+se	O
+administraron	O
+estatinas	O
+,	O
+lorazepam	O
+(	O
+por	O
+insomnio	O
+)	O
+y	O
+omeprazol	O
+20	O
+mg	O
+.	O

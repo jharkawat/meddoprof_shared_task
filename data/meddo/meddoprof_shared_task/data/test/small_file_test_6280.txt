@@ -1,0 +1,11 @@
+
+Mama	O
+izquierda	O
+aumentada	O
+de	O
+tamaño	O
+con	O
+edema	O
+y	O
+eritema	O
+.	O

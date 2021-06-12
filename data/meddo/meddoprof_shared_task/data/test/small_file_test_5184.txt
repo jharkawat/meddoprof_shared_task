@@ -1,0 +1,11 @@
+
+Su	O
+morfología	O
+es	O
+lobulada	O
+,	O
+con	O
+múltiples	O
+nódulos	O
+satélite	O
+.	O

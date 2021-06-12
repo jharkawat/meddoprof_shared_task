@@ -1,0 +1,23 @@
+
+Con	O
+la	O
+comida	O
+consume	O
+2	O
+ó	O
+3	O
+tortillas	O
+de	O
+maíz	O
+,	O
+salsa	O
+,	O
+queso	O
+y	O
+abundante	O
+aguade	O
+frutas	O
+endulzada	O
+con	O
+azúcar	O
+.	O

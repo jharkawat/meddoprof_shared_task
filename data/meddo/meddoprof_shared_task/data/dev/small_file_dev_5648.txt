@@ -1,0 +1,26 @@
+
+Se	O
+solicita	O
+valoración	O
+al	O
+Servicio	O
+de	O
+Oncología	O
+para	O
+completar	O
+el	O
+tratamiento	O
+,	O
+proponiendo	O
+quimioterapia	O
+con	O
+cisplatino	O
+y	O
+gemcitabina	O
+y	O
+radioterapia	O
+adyuvante	O
+mediante	O
+intensidad	O
+modulada	O
+.	O

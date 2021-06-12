@@ -1,0 +1,23 @@
+
+Había	O
+perdido	O
+3	O
+kilos	O
+en	O
+los	O
+2	O
+últimos	O
+meses	O
+y	O
+tenía	O
+el	O
+sueño	O
+interrumpido	O
+por	O
+periodos	O
+de	O
+insomnio	O
+con	O
+rurniaciones	O
+angustiosas	O
+.	O

@@ -1,0 +1,17 @@
+
+Se	O
+objetiva	O
+un	O
+PASI	O
+de	O
+5	O
+,	O
+40	O
+y	O
+un	O
+BSA	O
+de	O
+5	O
+,	O
+30	O
+.	O

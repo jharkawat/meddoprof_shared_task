@@ -1,0 +1,27 @@
+
+Cuando	O
+acude	O
+a	O
+urgencias	O
+dermatológicas	O
+de	O
+nuestro	O
+hospital	O
+el	O
+paciente	O
+refiere	O
+malestar	O
+general	O
+con	O
+distermia	O
+aunque	O
+sin	O
+fiebre	O
+termometrada	O
+y	O
+progresión	O
+de	O
+sus	O
+lesiones	O
+cutáneas	O
+.	O

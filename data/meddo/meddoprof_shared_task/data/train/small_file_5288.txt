@@ -1,0 +1,5 @@
+
+Ausencia	O
+de	O
+cianosis	O
+.	O

@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+es	O
+tratado	O
+con	O
+itraconazol	O
+400	O
+mg	O
+cada	O
+12	O
+horas	O
+,	O
+con	O
+excelente	O
+respuesta	O
+a	O
+las	O
+8	O
+semanas	O
+.	O

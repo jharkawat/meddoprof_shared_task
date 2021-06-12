@@ -1,0 +1,17 @@
+
+Se	O
+completó	O
+el	O
+estudio	O
+con	O
+una	O
+angio	O
+-	O
+RM	O
+cerebral	O
+,	O
+que	O
+no	O
+mostró	O
+hallazgos	O
+.	O

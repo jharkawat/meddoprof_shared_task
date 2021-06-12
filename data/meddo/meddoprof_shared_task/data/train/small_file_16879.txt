@@ -1,0 +1,17 @@
+
+La	O
+cefalea	O
+respondió	O
+al	O
+tratamiento	O
+pero	O
+continuaba	O
+con	O
+episodios	O
+que	O
+la	O
+despertaban	O
+por	O
+las	O
+noches	O
+.	O

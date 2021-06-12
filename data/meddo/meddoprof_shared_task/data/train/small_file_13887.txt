@@ -1,0 +1,18 @@
+
+Hasta	O
+el	O
+30	O
+%	O
+de	O
+las	O
+infecciones	O
+por	O
+S	O
+.	O
+pyogenes	O
+podrían	O
+desarrollar	O
+shock	O
+tóxico	O
+estreptocócico	O
+.	O

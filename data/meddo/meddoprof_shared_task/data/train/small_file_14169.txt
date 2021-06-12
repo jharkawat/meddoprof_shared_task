@@ -1,0 +1,11 @@
+
+LDH	O
+3431	O
+.	O
+PCR	O
+19	O
+.	O
+26mg	O
+/	O
+dL	O
+.	O

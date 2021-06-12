@@ -1,0 +1,14 @@
+
+Se	O
+terminó	O
+dando	O
+alta	O
+por	O
+mejoría	O
+a	O
+la	O
+edad	O
+de	O
+12	O
+años	O
+.	O

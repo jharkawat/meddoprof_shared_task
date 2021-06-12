@@ -1,0 +1,18 @@
+
+Al	O
+cabo	O
+de	O
+un	O
+año	O
+de	O
+tratamiento	O
+con	O
+sunitinib	O
+,	O
+el	O
+paciente	O
+presenta	O
+una	O
+respuesta	O
+parcial	O
+.	O

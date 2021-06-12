@@ -1,0 +1,10 @@
+
+Reconocía	O
+seguir	O
+cuentas	O
+en	O
+Instagram	O
+relacionadas	O
+con	O
+autolesiones	O
+.	O

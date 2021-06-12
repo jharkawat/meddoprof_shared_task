@@ -1,0 +1,22 @@
+
+-	O
+PET	O
+de	O
+reevaluación	O
+:	O
+masa	O
+hipermetabólica	O
+con	O
+centro	O
+hipometabólico	O
+,	O
+de	O
+bordes	O
+bien	O
+definidos	O
+,	O
+localizada	O
+en	O
+el	O
+LSI	O
+.	O

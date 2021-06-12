@@ -1,0 +1,9 @@
+
+Adenopatía	O
+supraclavicular	O
+derecha	O
+dolorosa	O
+,	O
+no	O
+móvil	O
+.	O

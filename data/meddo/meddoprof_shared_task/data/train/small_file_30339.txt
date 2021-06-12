@@ -1,0 +1,24 @@
+
+La	O
+entrevista	O
+se	O
+ve	O
+imposibilitada	O
+por	O
+la	O
+nula	O
+colaboración	O
+de	O
+la	O
+paciente	O
+,	O
+siendo	O
+imposible	O
+descartar	O
+posibles	O
+alteraciones	O
+de	O
+la	O
+esfera	O
+psicótica	O
+.	O

@@ -1,0 +1,10 @@
+
+En	O
+el	O
+cultivo	O
+de	O
+LCR	O
+desarrolló	O
+L	O
+monocytogenes	O
+.	O

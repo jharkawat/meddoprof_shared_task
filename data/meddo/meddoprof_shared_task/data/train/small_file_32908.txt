@@ -1,0 +1,17 @@
+
+En	O
+consecuencia	O
+,	O
+se	O
+añade	O
+al	O
+tratamiento	O
+perfenazina	O
+a	O
+16	O
+mg	O
+,	O
+pero	O
+no	O
+mejora	O
+.	O

@@ -1,0 +1,126 @@
+T1	SINTOMA 69 94	dolor mecánico en rodilla
+T2	SINTOMA 150 181	dificultad para la deambulación
+T3	SINTOMA 778 785	fallece
+T4	SINTOMA 999 1009	Consciente
+T5	SINTOMA 1012 1021	orientada
+T6	SINTOMA 1040 1054	normocoloreada
+T7	SINTOMA 1132 1138	soplos
+T8	SINTOMA 1165 1173	eupneica
+T9	SINTOMA 1372 1378	edemas
+T10	SINTOMA 1380 1410	Dolor y tumefacción en rodilla
+T11	SINTOMA 3669 3754	tumoración abomba levemente la cortical de la vertiente articular del cóndilo femoral
+T12	PROCEDIMIENTO 925 943	Exploración física
+T13	PROCEDIMIENTO 1089 1110	Auscultación cardíaca
+T14	PROCEDIMIENTO 1142 1163	Auscultación pulmonar
+T15	PROCEDIMIENTO 1461 1523	Ecografía Doppler venosa urgente de miembro inferior izquierdo
+T16	PROCEDIMIENTO 1824 1847	RM de rodilla izquierda
+T17	PROCEDIMIENTO 2532 2559	administración de contraste
+T18	PROCEDIMIENTO 2940 2951	TC de tórax
+T19	PROCEDIMIENTO 2988 3027	administración de contraste intravenoso
+T20	PROCEDIMIENTO 3100 3123	TC de rodilla izquierda
+T21	PROCEDIMIENTO 4187 4218	Biopsia con aguja gruesa guiada
+T22	PROCEDIMIENTO 4940 4950	analgésico
+T23	PROCEDIMIENTO 5138 5164	Eco Doppler venoso del MII
+T24	PROCEDIMIENTO 5222 5245	TC de rodilla izquierda
+T25	PROCEDIMIENTO 6504 6518	anticoagulante
+T26	PROCEDIMIENTO 7040 7042	TC
+T27	NEG 342 345	Sin
+T28	NSCO 346 379	alergias medicamentosas conocidas
+T29	NEG 383 386	Sin
+T30	NSCO 387 444	diabetes mellitus, ni hipertensión arterial ni dislipemia
+T31	NEG 446 448	No
+T32	NSCO 449 470	tiene hábitos tóxicos
+T33	NEG 474 477	Sin
+T34	NSCO 478 502	antecedentes quirúrgicos
+T35	NEG 504 506	No
+T36	NSCO 507 552	tiene cardio, gastro ni broncopatía conocidas
+T37	NEG 1058 1061	Sin
+T38	NSCO 1062 1085	adenopatías periféricas
+T39	NEG 1128 1131	sin
+T40	NSCO 1132 1138	soplos
+T41	NEG 1206 1209	sin
+T42	NSCO 1210 1230	ruidos sobreañadidos
+T43	NEG 1263 1265	no
+T44	NSCO 1266 1292	es doloroso a la palpación
+T45	NEG 1294 1297	Sin
+T46	NSCO 1298 1315	masas ni megalias
+T47	NEG 1368 1371	sin
+T48	NSCO 1372 1378	edemas
+T49	UNC 2420 2434	menos probable
+T50	USCO 2435 2460	la opción de osteosarcoma
+T51	UNC 2592 2605	probablemente
+T52	USCO 2606 2619	por sinovitis
+T53	NEG 2699 2701	no
+T54	NSCO 2702 2774	existiendo evidencia de rotura o degeneración en la presente exploración
+T55	UNC 2887 2895	Probable
+T56	USCO 2896 2924	signo de la banda iliotibial
+T57	NEG 3029 3031	No
+T58	NSCO 3032 3084	hay signos de extensión de la enfermedad a distancia
+T59	NEG 3638 3640	no
+T60	NSCO 3641 3664	muestra borde escleroso
+T61	UNC 4046 4061	compatible como
+T62	USCO 4062 4076	primera opción
+T63	NEG 4155 4158	Sin
+T64	NSCO 4159 4171	alteraciones
+T65	UNC 4311 4326	compatibles con
+T66	USCO 4327 4379	diagnóstico radiológico de tumor de células gigantes
+T67	NEG 4770 4772	no
+T68	NSCO 4773 4821	presenta toxicidades relacionadas con el fármaco
+T69	NEG 5166 5168	No
+T70	NSCO 5169 5206	SE observan signos ecográficos de TVP
+T71	NEG 6474 6483	se retira
+T72	NSCO 6484 6518	enoxaparina a dosis anticoagulante
+T73	NEG 6934 6936	no
+T74	NSCO 6937 6958	dañar la articulación
+T75	FARMACO 303 314	enoxaparina
+T76	FARMACO 614 625	enoxaparina
+T77	FARMACO 639 650	paracetamol
+T78	FARMACO 4547 4556	denosumab
+T79	FARMACO 5526 5535	denosumab
+T80	FARMACO 6484 6495	enoxaparina
+T81	FARMACO 6819 6828	denosumab
+T82	ORG_VIVO 10 15	Mujer
+T83	ORG_VIVO 329 339	personales
+T84	ORG_VIVO 567 590	auxiliar administrativo
+T85	ORG_VIVO 673 683	familiares
+T86	ORG_VIVO 684 698	Abuelo materno
+T87	ORG_VIVO 763 777	Abuela paterna
+T88	ORG_VIVO 828 843	hermana paterna
+T89	ORG_VIVO 878 889	Tío paterno
+T90	ORG_VIVO 4761 4769	paciente
+T91	ORG_VIVO 6976 6984	paciente
+T92	ENFERMEDAD 227 272	trombosis venosa profunda en miembro inferior
+T93	ENFERMEDAD 346 369	alergias medicamentosas
+T94	ENFERMEDAD 387 404	diabetes mellitus
+T95	ENFERMEDAD 409 430	hipertensión arterial
+T96	ENFERMEDAD 434 444	dislipemia
+T97	ENFERMEDAD 531 542	broncopatía
+T98	ENFERMEDAD 699 714	cáncer de colon
+T99	ENFERMEDAD 731 747	cáncer de pulmón
+T100	ENFERMEDAD 804 820	cáncer de pulmón
+T101	ENFERMEDAD 848 862	cáncer de mama
+T102	ENFERMEDAD 890 908	cáncer de páncreas
+T103	ENFERMEDAD 1062 1085	adenopatías periféricas
+T104	ENFERMEDAD 1535 1625	trombosis venosa profunda en la vena femoral superficial desde su tercio medio en el muslo
+T105	ENFERMEDAD 1625 1655	, así como en la vena poplítea
+T106	ENFERMEDAD 1865 1921	lesión ocupante de espacio en el cóndilo femoral interno
+T107	ENFERMEDAD 2300 2335	lesión agresiva neoplásica primaria
+T108	ENFERMEDAD 2398 2411	condrosarcoma
+T109	ENFERMEDAD 2448 2460	osteosarcoma
+T110	ENFERMEDAD 2505 2522	derrame articular
+T111	ENFERMEDAD 2610 2619	sinovitis
+T112	ENFERMEDAD 2776 2868	Trombosis de la vena poplítea con edema en la musculatura de la cara posterior de la rodilla
+T113	ENFERMEDAD 2870 2885	Quiste de Baker
+T114	ENFERMEDAD 3148 3209	Tumoración ósea centrada en cóndilo femoral interno del fémur
+T115	ENFERMEDAD 3879 3896	derrame articular
+T116	ENFERMEDAD 3908 3931	trombo en vena poplítea
+T117	ENFERMEDAD 3934 3949	gemelar interna
+T118	ENFERMEDAD 4022 4045	cóndilo femoral interno
+T119	ENFERMEDAD 4093 4118	tumor de células gigantes
+T120	ENFERMEDAD 4229 4280	lesión lítica en cóndilo femoral interno de rodilla
+T121	ENFERMEDAD 4354 4379	tumor de células gigantes
+T122	ENFERMEDAD 4394 4438	Tumor de células gigantes en cóndilo femoral
+T123	ENFERMEDAD 5203 5206	TVP
+T124	ENFERMEDAD 5268 5339	Tumoración lítica en región epifisometafisaria distal interna del fémur
+T125	ENFERMEDAD 5381 5406	tumor de células gigantes
+T126	PACIENTE-PROFESION 567 590	auxiliar administrativo

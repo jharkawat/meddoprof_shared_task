@@ -1,0 +1,17 @@
+
+La	O
+cicatriz	O
+de	O
+la	O
+orquiectomía	O
+inguinal	O
+derecha	O
+se	O
+encontraba	O
+reciente	O
+pero	O
+sin	O
+signos	O
+de	O
+complicación	O
+.	O

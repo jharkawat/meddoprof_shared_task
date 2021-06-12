@@ -1,0 +1,8 @@
+
+Propranolol	O
+20	O
+mg	O
+/	O
+8	O
+h	O
+.	O

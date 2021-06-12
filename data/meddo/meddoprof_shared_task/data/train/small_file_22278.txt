@@ -1,0 +1,19 @@
+
+Mujer	O
+de	O
+35	O
+años	O
+con	O
+un	O
+primer	O
+episodio	O
+psicótico	O
+y	O
+tratamiento	O
+con	O
+risperidona	O
+9	O
+mg	O
+/	O
+día	O
+.	O

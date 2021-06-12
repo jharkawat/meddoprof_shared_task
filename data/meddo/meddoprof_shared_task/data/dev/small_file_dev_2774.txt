@@ -1,0 +1,23 @@
+
+Varón	O
+de	O
+59	O
+años	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+de	O
+unos	O
+29	O
+años	O
+de	O
+evolución	O
+coincidiendo	O
+con	O
+una	O
+separación	O
+matrimonial	O
+bastante	O
+traumática	O
+.	O

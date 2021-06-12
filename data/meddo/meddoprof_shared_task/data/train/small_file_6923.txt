@@ -1,0 +1,12 @@
+
+Penicilina	O
+G	O
+2	O
+.	O
+400	O
+.	O
+000	O
+U	O
+–	O
+intramuscular	O
+.	O

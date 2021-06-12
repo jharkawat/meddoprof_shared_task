@@ -1,0 +1,10 @@
+
+Jubilada	B-SITUACION_LABORAL
+(	O
+pescadera	B-PROFESION
+hasta	O
+agosto	O
+de	O
+2012	O
+)	O
+.	O

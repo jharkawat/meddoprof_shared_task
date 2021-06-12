@@ -1,0 +1,25 @@
+
+pH	O
+7	O
+.	O
+32	O
+,	O
+pCO2	O
+24	O
+,	O
+pO2	O
+124	O
+,	O
+HCO3	O
+12	O
+.	O
+4	O
+,	O
+BE	O
+13	O
+.	O
+7	O
+,	O
+SO2	O
+99	O
+%	O

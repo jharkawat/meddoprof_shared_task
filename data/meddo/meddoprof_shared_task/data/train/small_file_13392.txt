@@ -1,0 +1,12 @@
+
+CD3	O
++	O
+CD4	O
++	O
+absoluto	O
+:	O
+225	O
+Cél	O
+/	O
+mcrL	O
+.	O

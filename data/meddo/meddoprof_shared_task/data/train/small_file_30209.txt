@@ -1,0 +1,9 @@
+
+Mantiene	O
+un	O
+discurso	O
+desorganizado	O
+y	O
+nula	O
+colaboración	O
+.	O

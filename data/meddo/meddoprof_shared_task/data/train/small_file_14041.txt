@@ -1,0 +1,7 @@
+
+Se	O
+inicia	O
+tratamiento	O
+con	O
+ciprofloxacino	O
+.	O

@@ -1,0 +1,10 @@
+
+Depende	O
+de	O
+la	O
+pensión	O
+del	O
+estado	O
+para	O
+vivir	O
+.	O

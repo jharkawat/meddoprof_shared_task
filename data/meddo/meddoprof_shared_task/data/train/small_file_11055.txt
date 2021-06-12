@@ -1,0 +1,21 @@
+
+Ecocardiografía	O
+transtorácica	O
+:	O
+Flujo	O
+aórtico	O
+con	O
+insuficiencia	O
+aórtica	O
+moderada	O
+sin	O
+datos	O
+estenóticos	O
+(	O
+THP	O
+280mseg	O
+,	O
+mal	O
+definido	O
+)	O
+.	O

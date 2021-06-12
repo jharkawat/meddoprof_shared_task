@@ -1,0 +1,9 @@
+
+Mujer	O
+de	O
+67	O
+años	O
+sin	O
+alergias	O
+conocidas	O
+.	O

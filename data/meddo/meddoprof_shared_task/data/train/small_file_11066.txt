@@ -1,0 +1,10 @@
+
+Múltiples	O
+lesiones	O
+blásticas	O
+en	O
+cuerpos	O
+dorsales	O
+y	O
+esternón	O
+.	O

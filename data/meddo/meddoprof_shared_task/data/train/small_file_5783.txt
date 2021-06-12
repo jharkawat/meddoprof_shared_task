@@ -1,0 +1,8 @@
+
+Motilidad	O
+y	O
+sensibilidad	O
+conservada	O
+en	O
+miembros	O
+.	O

@@ -1,0 +1,19 @@
+
+En	O
+los	O
+2	O
+meses	O
+siguientes	O
+presenta	O
+3	O
+crisis	O
+similares	O
+al	O
+intentar	O
+por	O
+su	O
+cuenta	O
+disminuir	O
+el	O
+consumo	O
+.	O

@@ -1,0 +1,20 @@
+
+Durante	O
+su	O
+estancia	O
+en	O
+la	O
+planta	O
+se	O
+realizó	O
+una	O
+nueva	O
+TC	O
+de	O
+control	O
+,	O
+que	O
+no	O
+mostró	O
+enfermedad	O
+.	O

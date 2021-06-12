@@ -1,0 +1,9 @@
+
+La	O
+auscultación	O
+cardíaca	O
+era	O
+normofrecuente	O
+y	O
+regular	O
+.	O

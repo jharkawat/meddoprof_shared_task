@@ -1,0 +1,8 @@
+
+Sin	O
+clínica	O
+con	O
+guantes	O
+de	O
+latex	O
+.	O

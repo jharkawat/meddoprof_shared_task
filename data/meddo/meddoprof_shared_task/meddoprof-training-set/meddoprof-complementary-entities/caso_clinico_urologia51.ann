@@ -1,0 +1,62 @@
+T1	SINTOMA 285 292	disuria
+T2	SINTOMA 306 339	disminución del calibre miccional
+T3	SINTOMA 2325 2334	hematuria
+T4	SINTOMA 2384 2404	síntomas miccionales
+T5	PROCEDIMIENTO 342 355	Examen físico
+T6	PROCEDIMIENTO 356 363	Abdomen
+T7	PROCEDIMIENTO 408 420	Tacto rectal
+T8	PROCEDIMIENTO 518 527	Hemograma
+T9	PROCEDIMIENTO 744 774	Ecografía del aparato urinario
+T10	PROCEDIMIENTO 960 979	Citologías en orina
+T11	PROCEDIMIENTO 1045 1056	Cistoscopia
+T12	PROCEDIMIENTO 1487 1498	cistoscopia
+T13	PROCEDIMIENTO 1534 1555	resección endoscópica
+T14	PROCEDIMIENTO 1584 1602	biopsia prostática
+T15	PROCEDIMIENTO 1604 1621	Resección uretral
+T16	PROCEDIMIENTO 2097 2127	Biopsia prostática transrectal
+T17	PROCEDIMIENTO 2132 2141	ecografía
+T18	PROCEDIMIENTO 2226 2245	biopsias por lóbulo
+T19	PROCEDIMIENTO 2409 2432	estudio histopatológico
+T20	PROCEDIMIENTO 2734 2760	estudio inmunohistoquímico
+T21	PROCEDIMIENTO 3125 3141	gammagrafía ósea
+T22	PROCEDIMIENTO 3144 3168	tomografía computarizada
+T23	PROCEDIMIENTO 3232 3255	bloqueo hormonal simple
+T24	NEG 122 125	sin
+T25	NSCO 126 160	antecedentes urológicos de interés
+T26	NEG 364 366	no
+T27	NSCO 367 377	patológico
+T28	NEG 529 532	sin
+T29	NSCO 533 565	hallazgos patológicos relevantes
+T30	NEG 591 594	sin
+T31	NSCO 595 627	hallazgos patológicos relevantes
+T32	NEG 844 847	sin
+T33	NSCO 848 899	lesiones excrecentes intraluminales ni divertículos
+T34	NEG 1331 1333	no
+T35	NSCO 1334 1377	permite el paso del cistoscopio a la vejiga
+T36	NEG 2174 2177	sin
+T37	NSCO 2178 2185	nódulos
+T38	NEG 2313 2321	cediendo
+T39	NSCO 2322 2347	la hematuria intermitente
+T40	NEG 2921 2930	negativos
+T41	NSCO 2931 2961	los marcadores uroteliales CK7
+T42	NEG 3170 3172	no
+T43	NSCO 3173 3218	hallándose enfermedad en otras localizaciones
+T44	ORG_VIVO 10 15	Varón
+T45	ORG_VIVO 63 73	personales
+T46	ORG_VIVO 181 208	médico de Atención Primaria
+T47	ORG_VIVO 2290 2298	paciente
+T48	ORG_VIVO 3317 3325	paciente
+T49	ENFERMEDAD 35 44	exfumador
+T50	ENFERMEDAD 77 98	hipertensión arterial
+T51	ENFERMEDAD 101 120	hipercolesterolemia
+T52	ENFERMEDAD 213 235	hematuria macroscópica
+T53	ENFERMEDAD 1022 1041	carcinoma urotelial
+T54	ENFERMEDAD 1392 1409	Neoplasia uretral
+T55	ENFERMEDAD 1563 1581	lesiones uretrales
+T56	ENFERMEDAD 2325 2347	hematuria intermitente
+T57	ENFERMEDAD 2468 2509	carcinoma urotelial papilar de alto grado
+T58	ENFERMEDAD 2515 2561	infiltración focal aislada de la lámina propia
+T59	ENFERMEDAD 2575 2620	adenocarcinoma acinar pobremente diferenciado
+T60	ENFERMEDAD 3009 3035	adenocarcinoma de próstata
+T61	ENFERMEDAD 3064 3084	metástasis uretrales
+T62	SANITARIO-PROFESION 181 208	médico de Atención Primaria

@@ -1,0 +1,129 @@
+T1	SINTOMA 221 243	dificultad para dormir
+T2	SINTOMA 1436 1447	nerviosismo
+T3	SINTOMA 1526 1534	malestar
+T4	SINTOMA 1941 1949	malestar
+T5	SINTOMA 2662 2670	malestar
+T6	SINTOMA 3201 3209	malestar
+T7	SINTOMA 4031 4042	avergonzada
+T8	SINTOMA 6673 6695	déficit en asertividad
+T9	SINTOMA 6738 6759	déficit de autoestima
+T10	SINTOMA 7097 7111	malestar grave
+T11	SINTOMA 8015 8029	temor excesivo
+T12	SINTOMA 8307 8321	temor excesivo
+T13	SINTOMA 8663 8672	debilidad
+T14	SINTOMA 8943 8956	Irritabilidad
+T15	PROCEDIMIENTO 5539 5578	tratamiento psicofarmacológico anterior
+T16	PROCEDIMIENTO 6414 6445	Inventario de Depresión de Beck
+T17	PROCEDIMIENTO 7705 7726	Análisis hematológico
+T18	NEG 440 442	No
+T19	NSCO 443 502	hay antecedentes familiares somáticos o mentales relevantes
+T20	UNC 1064 1071	pudiera
+T21	USCO 1072 1097	pasarle tras la mordedura
+T22	NEG 1470 1472	No
+T23	NSCO 1473 1518	comenta a partir de esto ningún periodo en el
+T24	NEG 1689 1691	no
+T25	NSCO 1692 1718	poder salir de su problema
+T26	NEG 1750 1752	no
+T27	NSCO 1753 1798	haber pensado en la forma de quitarse la vida
+T28	NEG 2288 2290	no
+T29	NSCO 2291 2325	tocar nada desde que entra a hasta
+T30	NEG 2629 2631	no
+T31	NSCO 2632 2670	hace esto experimenta un gran malestar
+T32	NEG 3539 3541	no
+T33	NSCO 3542 3566	se había quedado abierta
+T34	NEG 3963 3965	no
+T35	NSCO 3966 3989	entienden su "problema"
+T36	NEG 4353 4355	no
+T37	NSCO 4356 4378	puede entrar a su casa
+T38	NEG 4386 4388	no
+T39	NSCO 4389 4393	sale
+T40	NEG 4496 4498	No
+T41	NSCO 4499 4561	tiene amigos, ni otras relaciones sociales fuera de la familia
+T42	NEG 4761 4763	no
+T43	NSCO 4764 4782	muy frecuentemente
+T44	NEG 4982 4984	no
+T45	NSCO 4985 5029	teniendo sensación de descanso al levantarse
+T46	NEG 5946 5949	sin
+T47	NSCO 5950 5984	posibilidad de hacer frente a esto
+T48	NEG 6176 6178	no
+T49	NSCO 6179 6226	especifica nada más sobre dosis y tomas diarias
+T50	NEG 7139 7143	cede
+T51	NSCO 7144 7154	ante estas
+T52	NEG 9037 9039	no
+T53	NSCO 9040 9060	pensar en obsesiones
+T54	NEG 9066 9068	no
+T55	NSCO 9069 9080	lo consigue
+T56	FARMACO 5648 5659	Trankimazin
+T57	FARMACO 6055 6064	Lorazepam
+T58	ORG_VIVO 9 19	personales
+T59	ORG_VIVO 21 26	Mujer
+T60	ORG_VIVO 54 58	hija
+T61	ORG_VIVO 75 86	ama de casa
+T62	ORG_VIVO 269 277	paciente
+T63	ORG_VIVO 339 346	familia
+T64	ORG_VIVO 365 371	padres
+T65	ORG_VIVO 378 385	hermana
+T66	ORG_VIVO 460 470	familiares
+T67	ORG_VIVO 526 531	madre
+T68	ORG_VIVO 588 595	persona
+T69	ORG_VIVO 774 781	familia
+T70	ORG_VIVO 795 801	marido
+T71	ORG_VIVO 829 849	conductor de autobús
+T72	ORG_VIVO 856 860	hija
+T73	ORG_VIVO 971 976	niñez
+T74	ORG_VIVO 980 985	madre
+T75	ORG_VIVO 1005 1010	perro
+T76	ORG_VIVO 1178 1182	hija
+T77	ORG_VIVO 1275 1283	animales
+T78	ORG_VIVO 1319 1323	hija
+T79	ORG_VIVO 1348 1358	familiares
+T80	ORG_VIVO 1365 1371	marido
+T81	ORG_VIVO 1999 2005	marido
+T82	ORG_VIVO 2013 2017	hija
+T83	ORG_VIVO 2066 2073	persona
+T84	ORG_VIVO 2142 2150	paciente
+T85	ORG_VIVO 2398 2404	marido
+T86	ORG_VIVO 2410 2414	hija
+T87	ORG_VIVO 3117 3123	marido
+T88	ORG_VIVO 3129 3133	hija
+T89	ORG_VIVO 3716 3722	marido
+T90	ORG_VIVO 3728 3732	hija
+T91	ORG_VIVO 3766 3770	hija
+T92	ORG_VIVO 3840 3846	marido
+T93	ORG_VIVO 4213 4220	hermana
+T94	ORG_VIVO 4477 4483	marido
+T95	ORG_VIVO 4489 4493	hija
+T96	ORG_VIVO 4505 4511	amigos
+T97	ORG_VIVO 4554 4561	familia
+T98	ORG_VIVO 4712 4719	hermana
+T99	ORG_VIVO 4725 4732	familia
+T100	ORG_VIVO 5158 5168	familiares
+T101	ORG_VIVO 5419 5429	Personales
+T102	ORG_VIVO 5872 5880	paciente
+T103	ORG_VIVO 5925 5932	persona
+T104	ORG_VIVO 6100 6127	médico de atención primaria
+T105	ORG_VIVO 7870 7878	paciente
+T106	ORG_VIVO 8109 8116	persona
+T107	ORG_VIVO 8181 8187	marido
+T108	ORG_VIVO 8193 8197	hija
+T109	ORG_VIVO 8280 8290	familiares
+T110	ORG_VIVO 8351 8361	familiares
+T111	ORG_VIVO 8464 8471	familia
+T112	ORG_VIVO 8518 8528	familiares
+T113	ORG_VIVO 8599 8605	marido
+T114	ORG_VIVO 8611 8615	hija
+T115	ORG_VIVO 8838 8844	marido
+T116	ORG_VIVO 8850 8854	hija
+T117	ORG_VIVO 8887 8895	familiar
+T118	ENFERMEDAD 1620 1628	suicidio
+T119	ENFERMEDAD 5431 5443	Preeclampsia
+T120	ENFERMEDAD 5814 5853	trastorno de ansiedad en forma obsesiva
+T121	ENFERMEDAD 6395 6403	ansiedad
+T122	ENFERMEDAD 6516 6546	ideación suicida leve-moderada
+T123	ENFERMEDAD 6991 6994	TOC
+T124	PACIENTE-SITUACION_LABORAL 75 86	ama de casa
+T125	PACIENTE-PROFESION 653 685	ha realizado (trabajos agrícolas
+T126	PACIENTE-PROFESION 687 707	taller de confección
+T127	FAMILIAR-PROFESION 829 849	conductor de autobús
+T128	PACIENTE-SITUACION_LABORAL 278 321	ha realizado estudios escolares elementales
+T129	SANITARIO-PROFESION 6100 6127	médico de atención primaria

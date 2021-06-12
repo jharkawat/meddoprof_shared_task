@@ -1,0 +1,10 @@
+
+No	O
+se	O
+identifican	O
+signos	O
+de	O
+lesión	O
+isquémica	O
+aguda	O
+.	O

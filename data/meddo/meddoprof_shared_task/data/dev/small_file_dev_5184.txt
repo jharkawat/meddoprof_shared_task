@@ -1,0 +1,4 @@
+
+Raza	O
+negra	O
+.	O

@@ -1,0 +1,23 @@
+
+Refiere	O
+la	O
+familia	O
+que	O
+lleva	O
+aproximadamente	O
+cuatro	O
+meses	O
+cada	O
+vez	O
+más	O
+aislado	O
+,	O
+en	O
+casa	O
+le	O
+ven	O
+hablar	O
+y	O
+reírse	O
+solo	O
+.	O

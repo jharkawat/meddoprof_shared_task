@@ -1,0 +1,6 @@
+
+Broncoscopia	O
+:	O
+Sin	O
+hallazgos	O
+.	O

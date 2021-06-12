@@ -1,0 +1,27 @@
+
+La	O
+madre	O
+refiere	O
+que	O
+está	O
+«	O
+agotada	O
+»	O
+y	O
+añade	O
+que	O
+es	O
+muy	O
+difícil	O
+criar	O
+a	O
+un	O
+hijo	O
+que	O
+«	O
+no	O
+conoce	O
+las	O
+normas	O
+»	O
+.	O

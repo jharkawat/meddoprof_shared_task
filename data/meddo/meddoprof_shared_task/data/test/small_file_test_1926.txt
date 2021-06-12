@@ -1,0 +1,27 @@
+
+Como	O
+parte	O
+del	O
+estudio	O
+de	O
+extensión	O
+,	O
+se	O
+realizó	O
+una	O
+fibrobroncoscopia	O
+en	O
+la	O
+que	O
+no	O
+se	O
+apreciaron	O
+alteraciones	O
+relevantes	O
+,	O
+salvo	O
+signos	O
+de	O
+broncopatía	O
+crónica	O
+.	O

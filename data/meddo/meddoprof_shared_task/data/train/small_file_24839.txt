@@ -1,0 +1,8 @@
+
+No	O
+contacto	O
+con	O
+Salud	O
+Mental	O
+previo	O
+.	O

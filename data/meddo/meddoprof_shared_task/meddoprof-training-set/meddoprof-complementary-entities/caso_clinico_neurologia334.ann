@@ -1,0 +1,58 @@
+T1	SINTOMA 588 595	afebril
+T2	SINTOMA 597 607	Consciente
+T3	SINTOMA 610 616	alerta
+T4	SINTOMA 948 961	rigidez nucal
+T5	SINTOMA 966 982	signos meníngeos
+T6	SINTOMA 1470 1507	ondas lentas de localización temporal
+T7	SINTOMA 1669 1676	cefalea
+T8	SINTOMA 1679 1699	déficit neurológicos
+T9	SINTOMA 1922 1929	cefalea
+T10	SINTOMA 2086 2109	alteración del lenguaje
+T11	SINTOMA 2115 2125	parafasias
+T12	SINTOMA 2127 2135	ecolalia
+T13	PROCEDIMIENTO 541 559	Exploración física
+T14	PROCEDIMIENTO 1048 1057	Hemograma
+T15	PROCEDIMIENTO 1084 1102	electrocardiograma
+T16	PROCEDIMIENTO 1104 1124	radiografía de tórax
+T17	PROCEDIMIENTO 1127 1164	tomografía computarizada (TC) craneal
+T18	PROCEDIMIENTO 1177 1219	Punción lumbar con líquido cefalorraquídeo
+T19	PROCEDIMIENTO 1357 1377	Cultivo de bacterias
+T20	PROCEDIMIENTO 1416 1436	Electroencefalograma
+T21	PROCEDIMIENTO 1519 1552	Resonancia magnética (RM) craneal
+T22	PROCEDIMIENTO 1555 1578	estudio neurosonológico
+T23	PROCEDIMIENTO 1591 1615	Estudio de autoinmunidad
+T24	NEG 35 38	sin
+T25	NSCO 39 73	antecedentes personales de interés
+T26	NEG 447 449	no
+T27	NSCO 450 456	mejora
+T28	NEG 588 595	afebril
+T29	NEG 693 695	No
+T30	NSCO 696 719	obedece órdenes motoras
+T31	NEG 747 749	No
+T32	NSCO 750 798	hay alteraciones campimétricas por confrontación
+T33	NEG 884 887	sin
+T34	NSCO 888 939	otro déficit motor ni sensitivo en las extremidades
+T35	NEG 941 943	No
+T36	NSCO 944 982	hay rigidez nucal, ni signos meníngeos
+T37	NEG 1343 1346	sin
+T38	NSCO 1347 1355	gérmenes
+T39	NEG 1378 1381	sin
+T40	NSCO 1382 1402	gérmenes y PCR virus
+T41	NEG 1403 1412	negativas
+T42	NEG 1836 1839	sin
+T43	NSCO 1840 1893	alteración del lenguaje ni otra focalidad neurológica
+T44	NEG 2259 2271	asintomática
+T45	FARMACO 405 413	diazepam
+T46	ORG_VIVO 10 15	Mujer
+T47	ORG_VIVO 52 62	personales
+T48	ORG_VIVO 321 348	médico de Atención Primaria
+T49	ORG_VIVO 424 436	acompañantes
+T50	ORG_VIVO 1347 1355	gérmenes
+T51	ORG_VIVO 1368 1377	bacterias
+T52	ORG_VIVO 1382 1390	gérmenes
+T53	ORG_VIVO 1397 1402	virus
+T54	ORG_VIVO 1813 1821	paciente
+T55	ENFERMEDAD 374 392	crisis de ansiedad
+T56	ENFERMEDAD 1657 1676	Síndrome de cefalea
+T57	PACIENTE-SITUACION_LABORAL 113 130	estaba trabajando
+T58	SANITARIO-PROFESION 321 348	médico de Atención Primaria

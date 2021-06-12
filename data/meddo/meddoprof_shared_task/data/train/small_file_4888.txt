@@ -1,0 +1,18 @@
+
+Dos	O
+meses	O
+más	O
+tarde	O
+sucede	O
+mismo	O
+cuadro	O
+precedido	O
+de	O
+malestar	O
+general	O
+,	O
+dolor	O
+abdominal	O
+y	O
+diarrea	O
+.	O

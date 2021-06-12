@@ -1,0 +1,25 @@
+
+Resonancia	O
+magnética	O
+(	O
+RSM	O
+)	O
+cerebral	O
+:	O
+no	O
+se	O
+aprecian	O
+lesiones	O
+isquémicas	O
+ni	O
+hemorrágicas	O
+,	O
+ni	O
+tampoco	O
+se	O
+aprecian	O
+lesiones	O
+ocupantes	O
+de	O
+espacio	O
+.	O

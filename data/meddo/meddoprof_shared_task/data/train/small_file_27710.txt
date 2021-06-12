@@ -1,0 +1,7 @@
+
+No	O
+ha	O
+presentado	O
+adicciones	O
+comportamentales	O
+.	O

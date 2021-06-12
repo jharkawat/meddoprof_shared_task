@@ -1,0 +1,9 @@
+
+NANDA	O
+:	O
+deterioro	O
+de	O
+la	O
+interacción	O
+social	O
+.	O

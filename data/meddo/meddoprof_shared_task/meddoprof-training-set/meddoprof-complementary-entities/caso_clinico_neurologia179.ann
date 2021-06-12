@@ -1,0 +1,116 @@
+T1	SINTOMA 432 454	inseguridad al caminar
+T2	SINTOMA 529 553	hormigueo en las piernas
+T3	SINTOMA 580 603	dolor en la zona lumbar
+T4	SINTOMA 689 697	disfagia
+T5	SINTOMA 701 709	disfonía
+T6	SINTOMA 1240 1256	asimetría facial
+T7	SINTOMA 1355 1409	disestesia en las extremidades superiores e inferiores
+T8	SINTOMA 1548 1581	dismetría en la prueba dedo-nariz
+T9	SINTOMA 1654 1668	rotulianos 1/4
+T10	SINTOMA 1751 1787	inestabilidad en la marcha en tándem
+T11	SINTOMA 4494 4522	acorchamiento en las piernas
+T12	SINTOMA 4539 4561	estabilidad al caminar
+T13	PROCEDIMIENTO 888 901	Examen físico
+T14	PROCEDIMIENTO 1216 1228	Fondo de ojo
+T15	PROCEDIMIENTO 1564 1581	prueba dedo-nariz
+T16	PROCEDIMIENTO 1904 1933	resonancia magnética cerebral
+T17	PROCEDIMIENTO 2200 2229	Resonancia magnética cerebral
+T18	PROCEDIMIENTO 2356 2380	estudio neurofisiológico
+T19	PROCEDIMIENTO 2385 2388	EMG
+T20	PROCEDIMIENTO 2732 2741	hemograma
+T21	PROCEDIMIENTO 2743 2770	pruebas de función hepática
+T22	PROCEDIMIENTO 2838 2862	estudio de autoinmunidad
+T23	PROCEDIMIENTO 2883 2914	inmunofijación en suero y orina
+T24	PROCEDIMIENTO 3132 3149	serología de Lyme
+T25	PROCEDIMIENTO 3236 3250	punción lumbar
+T26	PROCEDIMIENTO 3266 3315	estudio de bioquímica del líquido cefalorraquídeo
+T27	PROCEDIMIENTO 3378 3413	cultivo virológico y bacteriológico
+T28	PROCEDIMIENTO 3416 3436	serología de sífilis
+T29	PROCEDIMIENTO 3493 3512	TC tóraco-abdominal
+T30	PROCEDIMIENTO 3665 3689	estudio neurofisiológico
+T31	PROCEDIMIENTO 3699 3737	potenciales evocados somatosensoriales
+T32	PROCEDIMIENTO 4368 4393	tratamiento antiagregante
+T33	PROCEDIMIENTO 4569 4583	estudio de EMG
+T34	NEG 147 149	No
+T35	NSCO 150 190	diabetes mellitus ni hipercolesterolemia
+T36	NEG 192 194	No
+T37	NSCO 195 202	fumador
+T38	NEG 610 612	no
+T39	NSCO 613 627	en las piernas
+T40	NEG 629 631	No
+T41	NSCO 632 684	describe torpeza para movimientos de motricidad fina
+T42	NEG 686 688	No
+T43	NSCO 689 709	disfagia ni disfonía
+T44	NEG 711 713	No
+T45	NSCO 714 730	ha tenido caídas
+T46	NEG 758 760	no
+T47	NSCO 761 828	ha estado en contacto con animales domésticos ni recuerda picaduras
+T48	NEG 1073 1075	No
+T49	NSCO 1076 1093	lesiones dérmicas
+T50	NEG 1162 1165	sin
+T51	NSCO 1166 1176	limitación
+T52	NEG 1237 1239	No
+T53	NSCO 1240 1256	asimetría facial
+T54	NEG 1545 1547	No
+T55	NSCO 1548 1581	dismetría en la prueba dedo-nariz
+T56	NEG 1626 1633	excepto
+T57	NSCO 1634 1651	aquíleos abolidos
+T58	UNC 2152 2164	sugestiva de
+T59	USCO 2165 2198	encefalopatía arteriolosclerótica
+T60	UNC 2270 2284	compatible con
+T61	USCO 2285 2345	enfermedad de pequeño vaso (encefalopatía arterioesclerótica
+T62	NEG 3113 3122	negativas
+T63	NEG 3449 3458	negativos
+T64	NEG 4094 4097	sin
+T65	NSCO 4098 4129	cambios en el control evolutivo
+T66	FARMACO 278 288	feladipino
+T67	FARMACO 290 298	digoxina
+T68	FARMACO 301 328	amiloride-hidroclorotiazida
+T69	FARMACO 4158 4169	ceftriaxona
+T70	FARMACO 4220 4231	doxiciclina
+T71	FARMACO 4398 4407	triflusal
+T72	ORG_VIVO 10 15	Varón
+T73	ORG_VIVO 41 51	personales
+T74	ORG_VIVO 217 227	familiares
+T75	ORG_VIVO 229 234	madre
+T76	ORG_VIVO 787 795	animales
+T77	ORG_VIVO 853 862	camionero
+T78	ORG_VIVO 877 885	animales
+T79	ORG_VIVO 3072 3079	sífilis
+T80	ORG_VIVO 3081 3092	hepatitis C
+T81	ORG_VIVO 3095 3098	VIH
+T82	ORG_VIVO 3145 3149	Lyme
+T83	ORG_VIVO 3386 3396	virológico
+T84	ORG_VIVO 3399 3413	bacteriológico
+T85	ORG_VIVO 3429 3436	sífilis
+T86	ORG_VIVO 4342 4350	paciente
+T87	ORG_VIVO 4450 4458	paciente
+T88	ENFERMEDAD 53 74	hipertensión arterial
+T89	ENFERMEDAD 76 97	fibrilación auricular
+T90	ENFERMEDAD 99 123	cardiopatía hipertensiva
+T91	ENFERMEDAD 126 145	adenoma de próstata
+T92	ENFERMEDAD 150 167	diabetes mellitus
+T93	ENFERMEDAD 171 190	hipercolesterolemia
+T94	ENFERMEDAD 239 253	demencia senil
+T95	ENFERMEDAD 1076 1093	lesiones dérmicas
+T96	ENFERMEDAD 1293 1340	Hipopalestesia distal en la extremidad inferior
+T97	ENFERMEDAD 1973 2000	leucoaraiosis bihemisférica
+T98	ENFERMEDAD 2165 2198	encefalopatía arteriolosclerótica
+T99	ENFERMEDAD 2242 2269	leucoaraiosis bihemisférica
+T100	ENFERMEDAD 2285 2311	enfermedad de pequeño vaso
+T101	ENFERMEDAD 2313 2345	encefalopatía arterioesclerótica
+T102	ENFERMEDAD 2443 2508	polineuropatía sensitivo-motora de carácter axono-desmielinizante
+T103	ENFERMEDAD 2661 2675	polineuropatía
+T104	ENFERMEDAD 3072 3079	sífilis
+T105	ENFERMEDAD 3081 3098	hepatitis C y VIH
+T106	ENFERMEDAD 3429 3436	sífilis
+T107	ENFERMEDAD 3561 3602	nódulo de unos 5 mm en el lóbulo superior
+T108	ENFERMEDAD 3836 3888	Polineuropatía sensitivo-motora axonal-desmielizante
+T109	ENFERMEDAD 3905 3923	enfermedad de Lyme
+T110	ENFERMEDAD 3925 3941	neuroborreliosis
+T111	ENFERMEDAD 3944 3996	Enfermedad cerebrovascular isquémica de pequeño vaso
+T112	ENFERMEDAD 3998 4019	Hipertensión arterial
+T113	ENFERMEDAD 4021 4045	Cardiopatía hipertensiva
+T114	ENFERMEDAD 4047 4068	Fibrilación auricular
+T115	ENFERMEDAD 4296 4323	patología vascular cerebral
+T116	PACIENTE-PROFESION 853 885	camionero transportando animales

@@ -1,0 +1,9 @@
+
+El	O
+resultado	O
+anatomopatológico	O
+es	O
+de	O
+hiperplasia	O
+tímica	O
+.	O

@@ -1,0 +1,14 @@
+
+Dada	O
+la	O
+persistencia	O
+del	O
+dolor	O
+junto	O
+con	O
+la	O
+hiponatremia	O
+se	O
+decide	O
+ingreso	O
+.	O

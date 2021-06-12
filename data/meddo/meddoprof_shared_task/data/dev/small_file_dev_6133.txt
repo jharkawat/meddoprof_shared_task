@@ -1,0 +1,17 @@
+
+Se	O
+caracteriza	O
+por	O
+dolor	O
+e	O
+inflamación	O
+condroesternal	O
+o	O
+esternoclavicular	O
+,	O
+relacionándose	O
+con	O
+artropatías	O
+seronegativas	O
+principalmente	O
+.	O

@@ -1,0 +1,21 @@
+
+Sin	O
+desencadenantes	O
+presenta	O
+cambios	O
+bruscos	O
+de	O
+humor	O
+,	O
+irritabilidad	O
+y	O
+heteroagresividad	O
+verbal	O
+indiscriminada	O
+tanto	O
+hacia	O
+familiares	O
+como	O
+a	O
+conocidos	O
+.	O

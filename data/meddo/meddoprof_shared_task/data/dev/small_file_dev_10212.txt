@@ -1,0 +1,11 @@
+
+La	O
+familia	O
+tenía	O
+poco	O
+dinero	O
+y	O
+poca	O
+educación	O
+formal	O
+.	O

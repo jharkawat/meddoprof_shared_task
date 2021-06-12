@@ -1,0 +1,6 @@
+
+Consumía	O
+con	O
+su	O
+marido	O
+.	O

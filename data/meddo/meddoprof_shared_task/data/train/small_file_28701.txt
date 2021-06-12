@@ -1,0 +1,6 @@
+
+Tiene	O
+2	O
+hijos	O
+varones	O
+.	O

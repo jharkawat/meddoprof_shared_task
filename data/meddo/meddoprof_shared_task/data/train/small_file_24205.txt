@@ -1,0 +1,10 @@
+
+El	O
+paciente	O
+acaba	O
+siendo	O
+diagnosticado	O
+de	O
+esquizofrenia	O
+paranoide	O
+.	O

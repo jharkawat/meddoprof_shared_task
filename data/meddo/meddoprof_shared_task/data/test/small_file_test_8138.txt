@@ -1,0 +1,16 @@
+
+Determinación	O
+del	O
+estado	O
+del	O
+gen	O
+EGFR	O
+:	O
+mutado	O
+(	O
+mutaciones	O
+Ex19Del	O
+,	O
+L861Q	O
+)	O
+.	O

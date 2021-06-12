@@ -1,0 +1,21 @@
+
+Se	O
+decide	O
+ingreso	O
+hospitalario	O
+para	O
+contención	O
+,	O
+filiación	O
+diagnóstica	O
+e	O
+introducción	O
+de	O
+tratamiento	O
+psicofarmacológico	O
+ante	O
+situación	O
+de	O
+desbordamiento	O
+familiar	O
+.	O

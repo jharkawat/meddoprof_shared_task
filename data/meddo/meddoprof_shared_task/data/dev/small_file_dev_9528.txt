@@ -1,0 +1,4 @@
+
+Terminó	B-SITUACION_LABORAL
+Bachillerato	I-SITUACION_LABORAL
+.	O

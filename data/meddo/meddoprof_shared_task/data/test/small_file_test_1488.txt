@@ -1,0 +1,21 @@
+
+Sin	O
+embargo	O
+,	O
+persistían	O
+bolsas	O
+profundas	O
+en	O
+las	O
+localizaciones	O
+con	O
+defectos	O
+intraóseos	O
+3	O
+.	O
+2	O
+y	O
+3	O
+.	O
+4	O
+.	O

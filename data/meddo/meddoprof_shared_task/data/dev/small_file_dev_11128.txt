@@ -1,0 +1,6 @@
+
+Cáncer	O
+de	O
+cabeza	O
+de	O
+páncreas	O

@@ -1,0 +1,13 @@
+
+Además	O
+requirió	O
+soporte	O
+vasoactivo	O
+con	O
+norepinefrina	O
+por	O
+una	O
+hipotensión	O
+arterial	O
+persistente	O
+.	O

@@ -1,0 +1,22 @@
+
+Tras	O
+suspensión	O
+de	O
+la	O
+enzalutamida	O
+,	O
+recibe	O
+6	O
+dosis	O
+de	O
+radio	O
+223	O
+de	O
+manera	O
+mensual	O
+sin	O
+buena	O
+respuesta	O
+al	O
+tratamiento	O
+.	O

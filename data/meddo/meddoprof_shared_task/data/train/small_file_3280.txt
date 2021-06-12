@@ -1,0 +1,27 @@
+
+Es	O
+valorado	O
+por	O
+cirugía	O
+maxilofacial	O
+que	O
+ante	O
+los	O
+hallazgos	O
+clínico	O
+-	O
+radiológicos	O
+,	O
+no	O
+se	O
+trata	O
+de	O
+una	O
+patología	O
+con	O
+enfoque	O
+quirúrgico	O
+en	O
+ese	O
+momento	O
+.	O

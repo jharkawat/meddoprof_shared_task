@@ -1,0 +1,18 @@
+
+PBA	O
+de	O
+nódulo	O
+pulmonar	O
+(	O
+20	O
+/	O
+06	O
+/	O
+2013	O
+)	O
+:	O
+negativo	O
+para	O
+células	O
+malignas	O
+.	O

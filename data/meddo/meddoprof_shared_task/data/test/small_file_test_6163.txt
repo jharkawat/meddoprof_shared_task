@@ -1,0 +1,11 @@
+
+Adenopatías	O
+con	O
+linfadenitis	O
+reactiva	O
+inespecífica	O
+sin	O
+indicios	O
+de	O
+neoplasia	O
+.	O

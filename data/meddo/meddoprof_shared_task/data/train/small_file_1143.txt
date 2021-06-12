@@ -1,0 +1,4 @@
+
+Médico	B-PROFESION
+Adjunto	I-PROFESION
+.	O

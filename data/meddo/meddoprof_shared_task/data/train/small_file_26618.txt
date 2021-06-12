@@ -1,0 +1,10 @@
+
+No	O
+tiene	O
+amigos	O
+,	O
+apenas	O
+sale	O
+de	O
+casa	O
+.	O

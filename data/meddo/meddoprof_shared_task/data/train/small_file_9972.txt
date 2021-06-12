@@ -1,0 +1,20 @@
+
+Se	O
+decidió	O
+realizar	O
+frotis	O
+faríngeo	O
+debido	O
+a	O
+que	O
+la	O
+primera	O
+posibilidad	O
+diagnostica	O
+que	O
+se	O
+pensó	O
+fue	O
+la	O
+escarlatina	O
+.	O

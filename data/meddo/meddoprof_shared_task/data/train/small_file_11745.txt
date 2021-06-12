@@ -1,0 +1,10 @@
+
+Mostraban	O
+una	O
+cortical	O
+engrosada	O
+de	O
+hasta	O
+3	O
+cm	O
+.	O

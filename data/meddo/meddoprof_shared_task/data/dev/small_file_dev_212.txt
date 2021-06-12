@@ -1,0 +1,25 @@
+
+Ve	O
+la	O
+tele	O
+con	O
+volumen	O
+bajo	O
+para	O
+estar	O
+pendiente	O
+,	O
+pide	O
+a	O
+los	O
+padres	O
+que	O
+bajen	O
+todas	O
+las	O
+persianas	O
+para	O
+evitar	O
+ser	O
+vigilados	O
+.	O

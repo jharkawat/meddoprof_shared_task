@@ -1,0 +1,7 @@
+
+Trombopenia	O
+periférica	O
+de	O
+aspecto	O
+secundario	O
+.	O

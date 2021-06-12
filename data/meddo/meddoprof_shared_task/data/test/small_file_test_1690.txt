@@ -1,0 +1,22 @@
+
+No	O
+podemos	O
+olvidar	O
+que	O
+estamos	O
+ante	O
+una	O
+técnica	O
+de	O
+"	O
+prótesis	O
+inmediata	O
+"	O
+y	O
+no	O
+de	O
+"	O
+carga	O
+inmediata	O
+"	O
+.	O

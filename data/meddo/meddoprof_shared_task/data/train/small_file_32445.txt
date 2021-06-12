@@ -1,0 +1,7 @@
+
+Escasa	O
+relación	O
+con	O
+su	O
+padre	O
+.	O

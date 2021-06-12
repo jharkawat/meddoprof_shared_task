@@ -1,0 +1,8 @@
+
+Resto	O
+normal	O
+(	O
+CEA	O
+normal	O
+)	O
+.	O

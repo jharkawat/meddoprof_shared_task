@@ -1,0 +1,17 @@
+
+-	O
+TC	O
+del	O
+tórax	O
+y	O
+cuello	O
+con	O
+CIV	O
+(	O
+15	O
+/	O
+6	O
+/	O
+17	O
+)	O
+:	O

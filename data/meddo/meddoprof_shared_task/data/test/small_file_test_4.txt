@@ -1,0 +1,13 @@
+
+Traumatismo	O
+abdominal	O
+complicado	O
+,	O
+incluyendo	O
+traumatismo	O
+renal	O
+y	O
+traumatismo	O
+de	O
+vejiga	O
+.	O

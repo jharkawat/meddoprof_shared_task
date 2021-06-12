@@ -1,0 +1,20 @@
+
+A	O
+pesar	O
+de	O
+las	O
+medidas	O
+de	O
+soporte	O
+tomadas	O
+,	O
+y	O
+del	O
+tratamiento	O
+tuberculostático	O
+,	O
+no	O
+presenta	O
+mejoría	O
+clínica	O
+.	O

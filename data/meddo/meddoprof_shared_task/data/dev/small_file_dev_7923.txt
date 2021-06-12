@@ -1,0 +1,22 @@
+
+A	O
+favor	O
+del	O
+foco	O
+abdominal	O
+,	O
+los	O
+antecedentes	O
+de	O
+cirrosis	O
+hepática	O
+,	O
+la	O
+sensación	O
+de	O
+distensión	O
+abdominal	O
+y	O
+el	O
+estreñimiento	O
+.	O

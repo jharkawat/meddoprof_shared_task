@@ -1,0 +1,17 @@
+
+Abdomen	O
+:	O
+blando	O
+,	O
+no	O
+doloroso	O
+,	O
+sin	O
+signos	O
+de	O
+irritación	O
+peritoneal	O
+,	O
+RHA	O
+conservados	O
+.	O

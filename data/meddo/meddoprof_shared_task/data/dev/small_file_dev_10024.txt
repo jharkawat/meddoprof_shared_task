@@ -1,0 +1,19 @@
+
+Estos	O
+problemas	O
+comenzaron	O
+después	O
+de	O
+comenzar	O
+a	O
+consumir	O
+metanfetamina	O
+inyectable	O
+,	O
+pero	O
+no	O
+quiso	O
+consultar	O
+al	O
+médico	B-PROFESION
+.	O

@@ -1,0 +1,12 @@
+
+Utiliza	O
+el	O
+discurso	O
+esteriotipado	O
+de	O
+manga	O
+como	O
+medio	O
+de	O
+venganza	O
+.	O

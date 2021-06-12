@@ -1,0 +1,50 @@
+T1	SINTOMA 284 290	fiebre
+T2	SINTOMA 390 400	tos húmeda
+T3	SINTOMA 413 426	falta de aire
+T4	SINTOMA 485 492	vómitos
+T5	SINTOMA 497 516	restos de alimentos
+T6	SINTOMA 532 539	náuseas
+T7	SINTOMA 1098 1150	murmullo vesicular disminuido hacia la base pulmonar
+T8	SINTOMA 1161 1169	polipnea
+T9	SINTOMA 1340 1351	neutrofilia
+T10	SINTOMA 2676 2728	moteado algodonoso difuso en ambos campos pulmonares
+T11	PROCEDIMIENTO 1033 1046	Examen físico
+T12	PROCEDIMIENTO 1291 1301	Leucograma
+T13	PROCEDIMIENTO 1355 1387	Rayos X de tórax posteroanterior
+T14	PROCEDIMIENTO 1748 1774	terapia poliantimicrobiana
+T15	PROCEDIMIENTO 1986 2001	ecocardiografía
+T16	PROCEDIMIENTO 2093 2134	tratamiento convencional antihipertensivo
+T17	PROCEDIMIENTO 2351 2370	Ecografía abdominal
+T18	PROCEDIMIENTO 2580 2600	Radiografía de tórax
+T19	PROCEDIMIENTO 2869 2879	Leucograma
+T20	PROCEDIMIENTO 2938 2948	Gasometría
+T21	NEG 413 421	falta de
+T22	NSCO 422 426	aire
+T23	NEG 1694 1696	no
+T24	NSCO 1697 1735	complicada en la base pulmonar derecha
+T25	NEG 2006 2008	no
+T26	NSCO 2009 2033	mostró alteración alguna
+T27	NEG 2797 2800	Sin
+T28	NSCO 2801 2813	alteraciones
+T29	NEG 3281 3283	no
+T30	NSCO 3284 3337	presentaba historia epidemiológica de previo contacto
+T31	FARMACO 702 711	captopril
+T32	FARMACO 1781 1792	oseltamivir
+T33	ORG_VIVO 34 45	adolescente
+T34	ORG_VIVO 572 582	personales
+T35	ORG_VIVO 976 984	paciente
+T36	ORG_VIVO 2042 2050	paciente
+T37	ORG_VIVO 2314 2322	paciente
+T38	ORG_VIVO 3142 3150	paciente
+T39	ORG_VIVO 3272 3280	paciente
+T40	ORG_VIVO 3615 3623	paciente
+T41	ENFERMEDAD 594 632	hipertensión arterial crónica esencial
+T42	ENFERMEDAD 786 804	parálisis braquial
+T43	ENFERMEDAD 891 907	obesidad mórbida
+T44	ENFERMEDAD 1006 1030	alérgico a la penicilina
+T45	ENFERMEDAD 1340 1351	neutrofilia
+T46	ENFERMEDAD 1659 1727	neumonía adquirida en la comunidad no complicada en la base pulmonar
+T47	ENFERMEDAD 2407 2422	derrame pleural
+T48	ENFERMEDAD 2741 2772	derrame pleural en el izquierdo
+T49	ENFERMEDAD 3155 3183	infección respiratoria aguda
+T50	ENFERMEDAD 3246 3254	COVID-19

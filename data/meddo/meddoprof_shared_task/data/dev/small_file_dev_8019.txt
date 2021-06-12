@@ -1,0 +1,18 @@
+
+En	O
+la	O
+auscultación	O
+respiratoria	O
+,	O
+hipofonesis	O
+en	O
+campo	O
+superior	O
+y	O
+medio	O
+derechos	O
+con	O
+crepitantes	O
+inspiratorios	O
+aislados	O
+.	O

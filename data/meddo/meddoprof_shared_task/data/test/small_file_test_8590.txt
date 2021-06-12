@@ -1,0 +1,27 @@
+
+»	O
+Ecografía	O
+ginecológica	O
+:	O
+endometrio	O
+de	O
+aspecto	O
+hiperplásico	O
+con	O
+útero	O
+miomatoso	O
+aumentado	O
+de	O
+tamaño	O
+de	O
+11	O
+x	O
+10	O
+x	O
+8	O
+cm	O
+sin	O
+definirse	O
+claro	O
+mioma	O
+.	O

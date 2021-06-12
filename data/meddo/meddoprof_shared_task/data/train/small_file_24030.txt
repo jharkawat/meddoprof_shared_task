@@ -1,0 +1,21 @@
+
+Pablo	O
+tiene	O
+39	O
+años	O
+y	O
+fue	O
+consumidor	O
+de	O
+drogas	O
+,	O
+incluida	O
+la	O
+vía	O
+parenteral	O
+,	O
+desde	O
+los	O
+14	O
+años	O
+.	O

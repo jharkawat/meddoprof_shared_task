@@ -1,0 +1,23 @@
+
+Diagnosticado	O
+de	O
+trastorno	O
+mixto	O
+de	O
+la	O
+personalidad	O
+Cluster	O
+B	O
+con	O
+rasgos	O
+antisociales	O
+y	O
+antecedente	O
+de	O
+episodios	O
+previos	O
+de	O
+intento	O
+de	O
+autolisis	O
+.	O

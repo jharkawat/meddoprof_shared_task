@@ -1,0 +1,23 @@
+
+Esta	O
+temática	O
+delirante	O
+se	O
+extiende	O
+desde	O
+febrero	O
+,	O
+aproximadamente	O
+,	O
+a	O
+raíz	O
+de	O
+una	O
+caída	O
+de	O
+su	O
+hijo	O
+en	B-SITUACION_LABORAL
+el	I-SITUACION_LABORAL
+colegio	I-SITUACION_LABORAL
+.	O

@@ -1,0 +1,25 @@
+
+Se	O
+decide	O
+instaurar	O
+clozapina	O
+y	O
+asumir	O
+los	O
+riesgos	O
+de	O
+la	O
+misma	O
+en	O
+estas	O
+circunstancias	O
+(	O
+serie	O
+blanca	O
+ya	O
+afectada	O
+por	O
+el	O
+VIH	O
+)	O
+.	O

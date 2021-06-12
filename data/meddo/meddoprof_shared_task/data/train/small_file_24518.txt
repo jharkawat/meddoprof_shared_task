@@ -1,0 +1,11 @@
+
+El	O
+acento	O
+extranjero	O
+había	O
+desaparecido	O
+los	O
+tics	O
+seguían	O
+ausentes	O
+.	O

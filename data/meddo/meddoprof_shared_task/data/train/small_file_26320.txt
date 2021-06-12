@@ -1,0 +1,23 @@
+
+Tuvo	O
+una	O
+mala	O
+adaptación	O
+al	O
+nuevo	O
+centro	O
+,	O
+donde	O
+permaneció	O
+desde	O
+2o	O
+a	O
+5o	O
+de	O
+Primaria	O
+,	O
+realizando	O
+un	O
+nuevo	O
+cambio	O
+.	O

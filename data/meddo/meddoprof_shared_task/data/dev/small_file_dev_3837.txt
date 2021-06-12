@@ -1,0 +1,11 @@
+
+Los	O
+padres	O
+de	O
+Susana	O
+tienen	O
+alrededor	O
+de	O
+40	O
+años	O
+.	O

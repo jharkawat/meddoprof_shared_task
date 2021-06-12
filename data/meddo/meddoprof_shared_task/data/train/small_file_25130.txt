@@ -1,0 +1,16 @@
+
+De	O
+pequeño	O
+había	O
+sido	O
+un	O
+chico	O
+inquieto	O
+,	O
+mal	O
+estudiante	B-SITUACION_LABORAL
+y	O
+dado	O
+a	O
+peleas	O
+.	O

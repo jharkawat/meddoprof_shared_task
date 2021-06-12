@@ -1,0 +1,23 @@
+
+Esta	O
+trombopenia	O
+obligó	O
+a	O
+la	O
+retirada	O
+de	O
+anticoagulación	O
+por	O
+riesgo	O
+hemorrágico	O
+,	O
+e	O
+implantación	O
+temporal	O
+de	O
+filtro	O
+de	O
+vena	O
+de	O
+cava	O
+.	O

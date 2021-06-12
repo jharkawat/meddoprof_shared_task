@@ -1,0 +1,9 @@
+
+Sin	O
+incidencias	O
+durante	O
+la	O
+anestesia	O
+ni	O
+recuperación	O
+.	O

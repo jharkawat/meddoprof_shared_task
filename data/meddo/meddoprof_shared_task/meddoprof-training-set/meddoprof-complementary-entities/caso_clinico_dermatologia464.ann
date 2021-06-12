@@ -1,0 +1,36 @@
+T1	PROCEDIMIENTO 356 385	cremas de corticoides tópicos
+T2	PROCEDIMIENTO 657 668	corticoides
+T3	PROCEDIMIENTO 689 708	pruebas epicutáneas
+T4	PROCEDIMIENTO 865 887	batería de corticoides
+T5	PROCEDIMIENTO 1017 1038	colocar el corticoide
+T6	PROCEDIMIENTO 1483 1500	corticoide tópico
+T7	NEG 524 526	no
+T8	NSCO 527 544	presenta lesiones
+T9	UNC 639 650	sospecha de
+T10	USCO 651 668	DAC a corticoides
+T11	NEG 937 939	no
+T12	NSCO 940 972	se pudieron parchear debido a la
+T13	NEG 973 975	no
+T14	NSCO 976 1004	disponibilidad de los mismos
+T15	NEG 1075 1077	no
+T16	NSCO 1078 1106	era el sospechoso del cuadro
+T17	NEG 1559 1568	negativos
+T18	FARMACO 457 478	betametasona valerato
+T19	FARMACO 891 899	MartiTor
+T20	FARMACO 1313 1323	budesonida
+T21	FARMACO 1335 1362	hidrocortisona-17- butirato
+T22	FARMACO 1529 1550	betametasona valerato
+T23	ORG_VIVO 0 5	Mujer
+T24	ORG_VIVO 18 28	estudiante
+T25	ORG_VIVO 61 71	personales
+T26	ORG_VIVO 103 111	infancia
+T27	ORG_VIVO 123 129	ácaros
+T28	ORG_VIVO 149 157	animales
+T29	ENFERMEDAD 75 93	dermatitis atópica
+T30	ENFERMEDAD 113 157	alergia a ácaros, polen y epitelios animales
+T31	ENFERMEDAD 218 269	lesiones cutáneas en huecos antecubitales y muñecas
+T32	ENFERMEDAD 406 424	dermatitis atópica
+T33	ENFERMEDAD 575 630	lesiones eritematosas en huecos antecubitales y muñecas
+T34	ENFERMEDAD 771 793	Dermatitis de Contacto
+T35	ENFERMEDAD 796 811	Alergia Cutánea
+T36	PACIENTE-SITUACION_LABORAL 18 42	estudiante universitaria

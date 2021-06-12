@@ -1,0 +1,14 @@
+
+Anisopoiquilocitosis	O
+eritrocitaria	O
+con	O
+presencia	O
+de	O
+dacriocitos	O
+,	O
+estomatocitos	O
+y	O
+2	O
+%	O
+esquistocitos	O
+.	O

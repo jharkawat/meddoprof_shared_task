@@ -1,0 +1,22 @@
+
+Un	O
+hermano	O
+,	O
+que	O
+convive	O
+con	O
+el	O
+paciente	O
+,	O
+también	O
+sigue	O
+tratamiento	O
+por	O
+trastorno	O
+esquizofreniforme	O
+asociado	O
+al	O
+consumo	O
+de	O
+tóxicos	O
+.	O

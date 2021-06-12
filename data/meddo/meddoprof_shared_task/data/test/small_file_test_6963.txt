@@ -1,0 +1,7 @@
+
+Finalmente	O
+se	O
+decide	O
+ingreso	O
+hospitalario	O
+.	O

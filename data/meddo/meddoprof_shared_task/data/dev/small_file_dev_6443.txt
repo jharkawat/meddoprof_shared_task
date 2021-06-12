@@ -1,0 +1,23 @@
+
+La	O
+clínica	O
+neurológica	O
+consistente	O
+en	O
+cefalea	O
+y	O
+en	O
+algunas	O
+ocasiones	O
+convulsiones	O
+se	O
+asocia	O
+a	O
+cuadro	O
+de	O
+fiebre	O
+persistente	O
+y	O
+síndrome	O
+constitucional	O
+.	O

@@ -1,0 +1,26 @@
+
+Nosotros	O
+explicamos	O
+la	O
+patología	O
+que	O
+ha	O
+sufrido	O
+el	O
+paciente	O
+y	O
+la	O
+importancia	O
+de	O
+no	O
+tener	O
+hábitos	O
+tóxicos	O
+tanto	O
+a	O
+él	O
+como	O
+a	O
+sus	O
+familiares	O
+.	O

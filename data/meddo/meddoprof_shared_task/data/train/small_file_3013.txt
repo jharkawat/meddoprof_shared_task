@@ -1,0 +1,10 @@
+
+Sospecha	O
+de	O
+Síndrome	O
+Coronario	O
+Agudo	O
+Sin	O
+Elevación	O
+ST	O
+.	O

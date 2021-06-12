@@ -1,0 +1,15 @@
+
+Se	O
+realizó	O
+una	O
+TC	O
+sin	O
+contraste	O
+de	O
+urgencia	O
+que	O
+fue	O
+informada	O
+como	O
+normal	O
+.	O

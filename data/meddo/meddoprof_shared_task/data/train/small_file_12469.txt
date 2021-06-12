@@ -1,0 +1,26 @@
+
+Al	O
+día	O
+siguiente	O
+de	O
+la	O
+colocación	O
+del	O
+drenaje	O
+,	O
+se	O
+realizó	O
+la	O
+punción	O
+de	O
+la	O
+lesión	O
+hepática	O
+para	O
+confirmación	O
+anatomopatológica	O
+,	O
+informando	O
+de	O
+HEPATOCARCINOMA	O
+.	O

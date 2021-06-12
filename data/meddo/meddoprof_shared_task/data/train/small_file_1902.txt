@@ -1,0 +1,11 @@
+
+Fecha	O
+de	O
+nacimiento	O
+:	O
+02	O
+/	O
+06	O
+/	O
+1953	O
+.	O

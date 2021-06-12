@@ -1,0 +1,23 @@
+
+A	O
+los	O
+15	O
+años	O
+aumentó	O
+el	O
+consumo	O
+a	O
+10	O
+-	O
+12	O
+porros	O
+diarios	O
+,	O
+consumo	O
+que	O
+ha	O
+continuado	O
+hasta	O
+la	O
+actualidad	O
+.	O

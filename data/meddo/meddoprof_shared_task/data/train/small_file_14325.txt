@@ -1,0 +1,24 @@
+
+Se	O
+da	O
+de	O
+alta	O
+con	O
+anticoagulación	O
+oral	O
+(	O
+Sintrom	O
+)	O
+,	O
+tratamiento	O
+erradicador	O
+de	O
+H	O
+.	O
+pilory	O
+y	O
+control	O
+posterior	O
+en	O
+Consulta	O
+.	O

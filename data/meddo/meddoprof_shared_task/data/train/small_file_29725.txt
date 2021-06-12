@@ -1,0 +1,12 @@
+
+La	O
+paciente	O
+toleró	O
+bien	O
+los	O
+medicamentos	O
+,	O
+aunque	O
+presentó	O
+neurosis	O
+.	O

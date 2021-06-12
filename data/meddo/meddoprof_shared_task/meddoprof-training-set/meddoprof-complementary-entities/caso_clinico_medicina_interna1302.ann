@@ -1,0 +1,139 @@
+T1	SINTOMA 194 201	Fumador
+T2	SINTOMA 422 438	pérdida ponderal
+T3	SINTOMA 1224 1258	hematoma en región supraclavicular
+T4	SINTOMA 1485 1496	hipotensión
+T5	SINTOMA 1499 1509	sudoración
+T6	SINTOMA 2545 2551	edemas
+T7	SINTOMA 6900 6926	inestabilidad hemodinámica
+T8	PROCEDIMIENTO 737 764	ecografía de partes blandas
+T9	PROCEDIMIENTO 1281 1299	ecografía hematoma
+T10	PROCEDIMIENTO 1422 1452	PAAF sobre adenopatía cervical
+T11	PROCEDIMIENTO 1746 1753	angioTC
+T12	PROCEDIMIENTO 1907 1943	arteriografía vía braquial izquierda
+T13	PROCEDIMIENTO 1949 1993	emboliza rama de arteria subclavia izquierda
+T14	PROCEDIMIENTO 2220 2238	Exploración física
+T15	PROCEDIMIENTO 2395 2422	Auscultación cardiopulmonar
+T16	PROCEDIMIENTO 2760 2769	Hemograma
+T17	PROCEDIMIENTO 3003 3025	Estudio de coagulación
+T18	PROCEDIMIENTO 3460 3481	Estudio autoinmunidad
+T19	PROCEDIMIENTO 4022 4065	Arteriografía Miembros Superiores Bilateral
+T20	PROCEDIMIENTO 4228 4249	TC Torácico-Abdominal
+T21	PROCEDIMIENTO 5637 5646	Hemograma
+T22	PROCEDIMIENTO 6127 6136	Hemograma
+T23	PROCEDIMIENTO 6941 6993	embolectomía de ramas de arteria subclavia izquierda
+T24	PROCEDIMIENTO 7072 7105	PAAF de una adenopatía puncionada
+T25	PROCEDIMIENTO 7765 7782	corticoesteroides
+T26	PROCEDIMIENTO 8397 8407	esteroides
+T27	NEG 101 103	No
+T28	NSCO 104 137	alergias medicamentosas conocidas
+T29	NEG 262 267	Niega
+T30	NSCO 268 305	enfermedades ni tratamientos crónicos
+T31	NEG 622 624	no
+T32	NSCO 625 661	presenta alteraciones significativas
+T33	NEG 700 702	no
+T34	NSCO 703 708	basal
+T35	UNC 1647 1658	sospecha de
+T36	USCO 1659 1674	sangrado activo
+T37	NEG 1846 1849	sin
+T38	NSCO 1850 1890	apreciar otra patología a nivel torácico
+T39	NEG 2448 2450	no
+T40	NSCO 2451 2459	doloroso
+T41	NEG 2485 2487	no
+T42	NSCO 2488 2515	se palpan masas ni megalias
+T43	NEG 2541 2544	sin
+T44	NSCO 2545 2574	edemas con pulsos conservados
+T45	NEG 3483 3486	ANA
+T46	NEG 3487 3495	negativo
+T47	NEG 3503 3511	negativo
+T48	NSCO 3513 3534	ANTI CARDIOLIPINA IgG
+T49	NEG 3535 3543	negativo
+T50	NEG 3567 3575	negativo
+T51	NSCO 3577 3605	ANTI BETA2 GLICOPROTEINA IgG
+T52	NEG 3606 3614	negativo
+T53	NEG 3645 3653	negativo
+T54	NEG 3754 3762	Negativo
+T55	NEG 3784 3792	Negativo
+T56	NEG 3814 3822	Negativo
+T57	NEG 3840 3848	Negativo
+T58	NEG 3909 3917	Negativo
+T59	NEG 3932 3940	Negativo
+T60	NEG 3955 3963	Negativo
+T61	NEG 3989 3997	Negativo
+T62	NEG 4010 4018	Negativo
+T63	NEG 4524 4527	sin
+T64	NSCO 4528 4565	identificar puntos de sangrado activo
+T65	NEG 4642 4644	no
+T66	NSCO 4645 4669	se trata de un hemitórax
+T67	NEG 4714 4716	No
+T68	NSCO 4717 4770	se observa la presencia de sangrados intraabdominales
+T69	NEG 7617 7626	descartar
+T70	NSCO 7627 7643	causa subyacente
+T71	FARMACO 7784 7794	Prednisona
+T72	FARMACO 7808 7820	Ciclosporina
+T73	FARMACO 7895 7907	Ciclosporina
+T74	FARMACO 7967 7979	Ciclosporina
+T75	FARMACO 7984 7998	Ciclofosfamida
+T76	FARMACO 8436 8444	insulina
+T77	FARMACO 8690 8702	Ciclosporina
+T78	ORG_VIVO 71 81	personales
+T79	ORG_VIVO 82 87	Varón
+T80	ORG_VIVO 165 192	Jubilado de la construcción
+T81	ORG_VIVO 326 334	Paciente
+T82	ORG_VIVO 895 903	paciente
+T83	ORG_VIVO 2135 2143	paciente
+T84	ORG_VIVO 3741 3752	Sífilis G+M
+T85	ORG_VIVO 3764 3782	Rickettsia conorii
+T86	ORG_VIVO 3794 3808	Parvovirus B19
+T87	ORG_VIVO 3824 3834	Leptospira
+T88	ORG_VIVO 3850 3853	CMV
+T89	ORG_VIVO 3879 3882	CMV
+T90	ORG_VIVO 3898 3901	VIH
+T91	ORG_VIVO 3919 3922	VHC
+T92	ORG_VIVO 3942 3945	VHB
+T93	ORG_VIVO 3946 3953	antiHBs
+T94	ORG_VIVO 3965 3968	VHB
+T95	ORG_VIVO 3969 3976	antiHBc
+T96	ORG_VIVO 3999 4002	VHB
+T97	ORG_VIVO 4003 4008	HBsAg
+T98	ORG_VIVO 6802 6810	Paciente
+T99	ORG_VIVO 7023 7031	paciente
+T100	ORG_VIVO 7341 7349	paciente
+T101	ORG_VIVO 7514 7522	paciente
+T102	ORG_VIVO 8084 8092	paciente
+T103	ENFERMEDAD 19 25	Anemia
+T104	ENFERMEDAD 28 55	trastorno de la coagulación
+T105	ENFERMEDAD 356 365	diabética
+T106	ENFERMEDAD 553 570	hematoma en muslo
+T107	ENFERMEDAD 786 831	hematoma en la región del triángulo de Scarpa
+T108	ENFERMEDAD 836 890	adenopatías de aspecto inflamatorio en cadenas iliacas
+T109	ENFERMEDAD 946 987	hematomas en antebrazo izquierdo y pierna
+T110	ENFERMEDAD 1085 1101	rotura de fibras
+T111	ENFERMEDAD 1302 1330	adenopatías laterocervicales
+T112	ENFERMEDAD 1433 1452	adenopatía cervical
+T113	ENFERMEDAD 1485 1496	hipotensión
+T114	ENFERMEDAD 1524 1535	anemización
+T115	ENFERMEDAD 1571 1588	shock hemorrágico
+T116	ENFERMEDAD 1659 1674	sangrado activo
+T117	ENFERMEDAD 1775 1835	sangrado a través de ramas dependientes de arteria subclavia
+T118	ENFERMEDAD 1864 1890	patología a nivel torácico
+T119	ENFERMEDAD 1949 1983	emboliza rama de arteria subclavia
+T120	ENFERMEDAD 4574 4589	derrame pleural
+T121	ENFERMEDAD 4686 4712	atelectasia pasiva del LII
+T122	ENFERMEDAD 4744 4770	sangrados intraabdominales
+T123	ENFERMEDAD 4772 4882	Ateromatosis aórtica con presencia de placa irregular y ulcerada en la pared posterior de la aorta descendente
+T124	ENFERMEDAD 4884 4924	Aneurisma fusiforme de aorta infrarrenal
+T125	ENFERMEDAD 5144 5190	Aneurisma de 19 mm de arteria ilíaca primitiva
+T126	ENFERMEDAD 5245 5299	Litiasis de 5 mm en grupo calicial superior del riñón
+T127	ENFERMEDAD 7045 7063	sangrado iatrógeno
+T128	ENFERMEDAD 7084 7105	adenopatía puncionada
+T129	ENFERMEDAD 7128 7149	adenopatías múltiples
+T130	ENFERMEDAD 7161 7182	hematomas espontáneos
+T131	ENFERMEDAD 7449 7509	Hemofilia adquirida por autoanticuerpos contra el Factor VII
+T132	ENFERMEDAD 7605 7614	hemofilia
+T133	ENFERMEDAD 8339 8364	diabetes mellitus tipo II
+T134	ENFERMEDAD 8546 8578	Hemofilia A adquirida idiopática
+T135	ENFERMEDAD 8607 8641	Anemia secundaria a sangrado agudo
+T136	ENFERMEDAD 8643 8668	Diabetes Mellitus tipo II
+T137	ENFERMEDAD 8670 8702	Hepatotoxicidad por Ciclosporina
+T138	PACIENTE-SITUACION_LABORAL 165 173	Jubilado
+T139	PACIENTE-PROFESION 174 192	de la construcción

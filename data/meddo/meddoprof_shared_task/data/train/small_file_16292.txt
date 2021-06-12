@@ -1,0 +1,9 @@
+
+Leve	O
+inestabilidad	O
+en	O
+la	O
+marcha	O
+en	O
+tándem	O
+.	O

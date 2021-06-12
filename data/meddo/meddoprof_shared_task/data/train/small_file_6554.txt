@@ -1,0 +1,25 @@
+
+Diez	O
+días	O
+después	O
+de	O
+la	O
+primera	O
+visita	O
+la	O
+paciente	O
+acudió	O
+a	O
+consulta	O
+sin	O
+lesiones	O
+activas	O
+,	O
+presentando	O
+únicamente	O
+máculas	O
+eritemato	O
+-	O
+parduzcas	O
+residuales	O
+.	O

@@ -1,0 +1,21 @@
+
+Se	O
+realizó	O
+un	O
+sarcófago	O
+en	O
+región	O
+anterointerna	O
+de	O
+la	O
+tibia	O
+,	O
+consiguiendo	O
+con	O
+ello	O
+la	O
+exéresis	O
+del	O
+trayecto	O
+fistuloso	O
+.	O

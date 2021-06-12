@@ -1,0 +1,14 @@
+
+Fiebre	O
+de	O
+38	O
+oC	O
+con	O
+expectoración	O
+mucosa	O
+,	O
+que	O
+cede	O
+con	O
+Paracetamol	O
+.	O

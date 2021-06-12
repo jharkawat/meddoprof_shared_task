@@ -1,0 +1,4 @@
+
+Niega	O
+sangrado	O
+.	O

@@ -1,0 +1,9 @@
+
+Tórax	O
+para	O
+resección	O
+quirúrgica	O
+de	O
+ambos	O
+tumores	O
+.	O

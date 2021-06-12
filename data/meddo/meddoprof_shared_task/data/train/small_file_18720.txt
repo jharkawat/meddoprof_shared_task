@@ -1,0 +1,27 @@
+
+Nunca	O
+llegó	O
+a	O
+andar	O
+ni	O
+asumió	O
+posturas	O
+activas	O
+,	O
+sólo	O
+en	O
+decúbito	O
+,	O
+adquiriendo	O
+la	O
+primera	O
+silla	O
+de	O
+ruedas	O
+adaptada	O
+con	O
+6	O
+años	O
+de	O
+edad	O
+.	O

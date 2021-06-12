@@ -1,0 +1,6 @@
+
+No	O
+trastorno	O
+del	O
+lenguaje	O
+.	O

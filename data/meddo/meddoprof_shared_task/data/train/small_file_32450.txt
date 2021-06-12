@@ -1,0 +1,26 @@
+
+Asimismo	O
+,	O
+inició	O
+en	O
+la	O
+adolescencia	O
+consumo	O
+de	O
+psicoestimulantes	O
+por	O
+vía	O
+inhalada	O
+(	O
+cocaína	O
+y	O
+anfetaminas	O
+)	O
+,	O
+asociado	O
+habitualmente	O
+al	O
+consumo	O
+de	O
+alcohol	O
+.	O

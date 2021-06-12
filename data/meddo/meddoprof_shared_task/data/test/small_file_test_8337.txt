@@ -1,0 +1,25 @@
+
+En	O
+la	O
+inmunohistoquímica	O
+destaca	O
+marcada	O
+positividad	O
+para	O
+vimentina	O
+y	O
+S100	O
+,	O
+así	O
+como	O
+positividad	O
+en	O
+alguna	O
+célula	O
+aislada	O
+para	O
+HMB45	O
+y	O
+melan	O
+A	O
+.	O

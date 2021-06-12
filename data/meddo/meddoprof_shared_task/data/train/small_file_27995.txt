@@ -1,0 +1,23 @@
+
+Comenta	O
+que	O
+la	O
+relación	O
+entre	O
+sus	O
+padres	O
+la	O
+aterrorizaba	O
+,	O
+particularmente	O
+porque	O
+el	O
+padre	O
+,	O
+alcohólico	O
+,	O
+golpeaba	O
+a	O
+la	O
+madre	O
+.	O

@@ -1,0 +1,22 @@
+
+En	O
+noviembre	O
+de	O
+2016	O
+,	O
+inicia	O
+tratamiento	O
+sistémico	O
+con	O
+nivolumab	O
+a	O
+dosis	O
+de	O
+3	O
+mg	O
+/	O
+kg	O
+cada	O
+dos	O
+semanas	O
+.	O

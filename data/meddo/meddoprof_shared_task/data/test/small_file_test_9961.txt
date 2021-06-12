@@ -1,0 +1,19 @@
+
+En	O
+enero	O
+de	O
+2012	O
+,	O
+en	O
+una	O
+TC	O
+de	O
+control	O
+se	O
+describió	O
+progresión	O
+de	O
+las	O
+lesiones	O
+hepáticas	O
+.	O

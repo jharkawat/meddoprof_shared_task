@@ -1,0 +1,195 @@
+T1	SINTOMA 113 136	bebedor social moderado
+T2	SINTOMA 144 151	fumador
+T3	SINTOMA 497 531	dolor en zona inguinal/fosa iliaca
+T4	SINTOMA 821 826	dolor
+T5	SINTOMA 845 857	dolor lumbar
+T6	SINTOMA 1046 1073	dolor muscular generalizado
+T7	SINTOMA 1291 1296	dolor
+T8	SINTOMA 1593 1629	dolor de espalda a nivel dorsal bajo
+T9	SINTOMA 2001 2010	febrícula
+T10	SINTOMA 2022 2033	taquicardia
+T11	SINTOMA 2061 2070	taquipnea
+T12	SINTOMA 2200 2210	consciente
+T13	SINTOMA 2213 2222	orientado
+T14	SINTOMA 2244 2270	deshidratación mucocutánea
+T15	SINTOMA 2355 2383	ingurgitación venosa yugular
+T16	SINTOMA 2393 2399	álgico
+T17	SINTOMA 2604 2651	déficit de fuerza de 4/5 en miembros superiores
+T18	SINTOMA 2779 2784	dolor
+T19	SINTOMA 2943 3013	dolor a la palpación a la palpación de las apófisis espinosas de L1-L2
+T20	SINTOMA 3092 3103	neutrofilia
+T21	SINTOMA 3366 3381	hipoproteinemia
+T22	SINTOMA 4014 4058	disminución del espacio intervertebral L1-L2
+T23	SINTOMA 4194 4202	mialgias
+T24	SINTOMA 4286 4316	elevación de enzimas hepáticas
+T25	SINTOMA 6019 6030	neutrofilia
+T26	SINTOMA 9171 9221	molestias musculares inespecíficas y generalizadas
+T27	SINTOMA 9434 9456	alteraciones hepáticas
+T28	SINTOMA 9460 9497	elevación de reactantes de fase aguda
+T29	PROCEDIMIENTO 758 791	tratamiento con antiinflamatorios
+T30	PROCEDIMIENTO 1565 1582	antiinflamatorios
+T31	PROCEDIMIENTO 1871 1889	Exploración física
+T32	PROCEDIMIENTO 2147 2161	oxigenoterapia
+T33	PROCEDIMIENTO 2445 2477	auscultación cardiorrespiratoria
+T34	PROCEDIMIENTO 2482 2503	exploración abdominal
+T35	PROCEDIMIENTO 2550 2573	exploración neurológica
+T36	PROCEDIMIENTO 2874 2910	palpación de las arterias temporales
+T37	PROCEDIMIENTO 3059 3068	hemograma
+T38	PROCEDIMIENTO 3816 3833	gasometría venosa
+T39	PROCEDIMIENTO 3920 3951	radiografías de tórax y abdomen
+T40	PROCEDIMIENTO 5397 5408	corticoides
+T41	PROCEDIMIENTO 5663 5686	tratamiento antibiótico
+T42	PROCEDIMIENTO 5720 5734	corticoterapia
+T43	PROCEDIMIENTO 6808 6815	Mantoux
+T44	PROCEDIMIENTO 7401 7420	ecografía abdominal
+T45	PROCEDIMIENTO 7488 7514	RMN de columna dorsolumbar
+T46	PROCEDIMIENTO 7667 7685	hemocultivo venoso
+T47	PROCEDIMIENTO 7920 7946	aislamiento microbiológico
+T48	PROCEDIMIENTO 8090 8120	ecocardiografías transtorácica
+T49	PROCEDIMIENTO 8123 8137	transesofágica
+T50	PROCEDIMIENTO 8159 8171	hemocultivos
+T51	PROCEDIMIENTO 8462 8469	PET-TAC
+T52	PROCEDIMIENTO 8826 8865	biopsia muscular de deltoides izquierdo
+T53	PROCEDIMIENTO 9502 9525	análisis microbiológico
+T54	PROCEDIMIENTO 9532 9548	biopsia muscular
+T55	NEG 31 34	sin
+T56	NSCO 35 83	antecedentes personales ni familiares de interés
+T57	NEG 86 89	sin
+T58	NSCO 90 111	tratamientos crónicos
+T59	NEG 138 143	nunca
+T60	NSCO 144 151	fumador
+T61	NEG 153 156	sin
+T62	NSCO 157 180	consumo de otras drogas
+T63	NEG 208 211	sin
+T64	NSCO 212 274	contacto con animales, viajes ni relaciones sexuales de riesgo
+T65	NEG 401 404	sin
+T66	NSCO 405 425	consumo de productos
+T67	NEG 426 429	sin
+T68	NSCO 430 450	controles sanitarios
+T69	NEG 542 545	sin
+T70	NSCO 546 557	irradiación
+T71	NEG 563 570	impedía
+T72	NSCO 571 591	el descanso nocturno
+T73	NEG 637 639	no
+T74	NSCO 640 717	se encontraron alteraciones en las pruebas complementarias básicas realizadas
+T75	NEG 898 900	no
+T76	NSCO 901 910	irradiado
+T77	NEG 1709 1711	no
+T78	NSCO 1712 1795	había apreciado pérdida de fuerza a ningún nivel ni otra sintomatología neurológica
+T79	NEG 1797 1799	No
+T80	NSCO 1800 1868	existía otra clínica en la anamnesis completa por órganos y aparatos
+T81	NEG 2143 2146	sin
+T82	NSCO 2147 2161	oxigenoterapia
+T83	NEG 2351 2354	sin
+T84	NSCO 2355 2383	ingurgitación venosa yugular
+T85	UNC 2672 2684	imposible de
+T86	USCO 2685 2715	valorar en miembros inferiores
+T87	NEG 2786 2788	No
+T88	NSCO 2789 2869	se palpaba bocio, adenopatías a ningún nivel, ni se observaban lesiones cutáneas
+T89	NEG 4060 4063	sin
+T90	NSCO 4064 4079	otros hallazgos
+T91	NEG 5283 5285	no
+T92	NSCO 5286 5322	se podía descartar la posibilidad de
+T93	NSCO 5440 5511	La naturaleza neoplásica del cuadro parecía inicialmente más improbable
+T94	UNC 5792 5803	sospecha de
+T95	USCO 5804 5825	polimialgia reumática
+T96	NEG 5923 5935	se suspendió
+T97	NSCO 5936 5949	al tercer día
+T98	NEG 6833 6842	negativos
+T99	NEG 6897 6906	negativas
+T100	NEG 7580 7583	sin
+T101	NSCO 7584 7599	otros hallazgos
+T102	NSCO 8155 8182	Los hemocultivos de control
+T103	NEG 8208 8217	negativos
+T104	NEG 9072 9075	sin
+T105	NSCO 9076 9098	tratamiento específico
+T106	NEG 9192 9205	inespecíficas
+T107	NEG 9230 9233	sin
+T108	NSCO 9234 9272	la intensidad anteriormente presentada
+T109	NEG 9430 9433	sin
+T110	NSCO 9434 9497	alteraciones hepáticas ni elevación de reactantes de fase aguda
+T111	NEG 9591 9593	no
+T112	NSCO 9594 9620	aportó ninguna información
+T113	UNC 10025 10039	compatible con
+T114	USCO 10040 10068	miopatía metabólica lipídica
+T115	UNC 10070 10083	probablemente
+T116	USCO 10084 10131	por déficit múltiple de Acyl-CoA deshidrogenasa
+T117	FARMACO 955 964	metamizol
+T118	FARMACO 5421 5431	colchicina
+T119	FARMACO 5700 5709	ertapenem
+T120	FARMACO 5739 5749	prednisona
+T121	FARMACO 6970 6984	ceruloplasmina
+T122	FARMACO 7772 7781	oxacilina
+T123	FARMACO 7796 7810	sulfametoxazol
+T124	FARMACO 7812 7824	eritromicina
+T125	FARMACO 7827 7839	clindamicina
+T126	FARMACO 7869 7880	cloxacilina
+T127	ORG_VIVO 10 18	Paciente
+T128	ORG_VIVO 48 58	personales
+T129	ORG_VIVO 62 72	familiares
+T130	ORG_VIVO 225 233	animales
+T131	ORG_VIVO 1700 1708	paciente
+T132	ORG_VIVO 1943 1951	paciente
+T133	ORG_VIVO 4126 4134	paciente
+T134	ORG_VIVO 4451 4459	paciente
+T135	ORG_VIVO 4557 4560	VIH
+T136	ORG_VIVO 4562 4580	virus hepatotropos
+T137	ORG_VIVO 4596 4604	triquina
+T138	ORG_VIVO 6859 6866	virales
+T139	ORG_VIVO 6881 6889	triquina
+T140	ORG_VIVO 7698 7706	paciente
+T141	ORG_VIVO 7751 7781	S. aureus sensible a oxacilina
+T142	ORG_VIVO 7897 7905	paciente
+T143	ORG_VIVO 7920 7946	aislamiento microbiológico
+T144	ORG_VIVO 8273 8284	bacteriemia
+T145	ORG_VIVO 9005 9013	paciente
+T146	ORG_VIVO 9134 9142	paciente
+T147	ORG_VIVO 9554 9562	gérmenes
+T148	ORG_VIVO 10151 10159	paciente
+T149	ENFERMEDAD 2244 2270	deshidratación mucocutánea
+T150	ENFERMEDAD 2800 2805	bocio
+T151	ENFERMEDAD 2807 2818	adenopatías
+T152	ENFERMEDAD 2852 2869	lesiones cutáneas
+T153	ENFERMEDAD 3293 3310	hiponatremia leve
+T154	ENFERMEDAD 3366 3381	hipoproteinemia
+T155	ENFERMEDAD 3851 3872	acidosis respiratoria
+T156	ENFERMEDAD 4245 4263	rabdomiolisis leve
+T157	ENFERMEDAD 4379 4394	sepsis urinaria
+T158	ENFERMEDAD 4557 4560	VIH
+T159	ENFERMEDAD 4582 4594	tuberculosis
+T160	ENFERMEDAD 4617 4640	endocarditis infecciosa
+T161	ENFERMEDAD 4661 4680	embolismos sépticos
+T162	ENFERMEDAD 4762 4783	polimialgia reumática
+T163	ENFERMEDAD 4789 4810	miopatía inflamatoria
+T164	ENFERMEDAD 4812 4824	polimiositis
+T165	ENFERMEDAD 4827 4867	dermatomiositis),una espondiloartropatía
+T166	ENFERMEDAD 4869 4872	LES
+T167	ENFERMEDAD 4880 4902	hepatopatía autoinmune
+T168	ENFERMEDAD 4986 5005	alteración tiroidea
+T169	ENFERMEDAD 5011 5036	insuficiencia suprarrenal
+T170	ENFERMEDAD 5042 5064	hepatopatía metabólica
+T171	ENFERMEDAD 5066 5080	hemocromatosis
+T172	ENFERMEDAD 5082 5102	enfermedad de Wilson
+T173	ENFERMEDAD 5116 5135	miopatía metabólica
+T174	ENFERMEDAD 5164 5189	trastornos mitocondriales
+T175	ENFERMEDAD 5191 5228	trastornos en el metabolismo lipídico
+T176	ENFERMEDAD 5230 5262	déficit de vitamina D, escorbuto
+T177	ENFERMEDAD 5804 5825	polimialgia reumática
+T178	ENFERMEDAD 6050 6068	trombocitosis leve
+T179	ENFERMEDAD 6231 6247	dislipemia mixta
+T180	ENFERMEDAD 7012 7046	autoinmunidad sistémica y hepática
+T181	ENFERMEDAD 7449 7468	esteatosis hepática
+T182	ENFERMEDAD 7531 7573	deshidratación degenerativa discal D11-D12
+T183	ENFERMEDAD 8026 8049	endocarditis infecciosa
+T184	ENFERMEDAD 8273 8314	bacteriemia ocasionada por la venopunción
+T185	ENFERMEDAD 8510 8558	hipermetabolismo leve a nivel del ganglio iliaco
+T186	ENFERMEDAD 8651 8676	masas musculares (glúteas
+T187	ENFERMEDAD 8751 8769	proceso infeccioso
+T188	ENFERMEDAD 9411 9427	dislipemia mixta
+T189	ENFERMEDAD 9434 9456	alteraciones hepáticas
+T190	ENFERMEDAD 10040 10068	miopatía metabólica lipídica
+T191	ENFERMEDAD 10088 10131	déficit múltiple de Acyl-CoA deshidrogenasa
+T192	ENFERMEDAD 10198 10206	Miopatía
+T193	ENFERMEDAD 10244 10263	Miopatía metabólica
+T194	ENFERMEDAD 10268 10311	déficit múltiple de ACYL-COA DESHIDROGENASA
+T195	PACIENTE-PROFESION 289 325	técnico de mantenimiento en un hotel

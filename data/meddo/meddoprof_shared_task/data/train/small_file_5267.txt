@@ -1,0 +1,22 @@
+
+Durante	O
+el	O
+tratamiento	O
+,	O
+aparece	O
+nueva	O
+gestación	O
+y	O
+la	O
+paciente	O
+decide	O
+suspensión	O
+brusca	O
+de	O
+toda	O
+la	O
+medicación	O
+sin	O
+supervisión	O
+médica	O
+.	O

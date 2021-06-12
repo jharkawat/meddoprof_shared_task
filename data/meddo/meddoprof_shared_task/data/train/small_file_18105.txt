@@ -1,0 +1,25 @@
+
+La	O
+angiografía	O
+realizada	O
+mostraba	O
+unas	O
+lesiones	O
+estenosantes	O
+en	O
+un	O
+90	O
+%	O
+de	O
+ambas	O
+arterias	O
+carótidas	O
+comunes	O
+(	O
+arteritis	O
+de	O
+Takayasu	O
+tipo	O
+1	O
+)	O
+.	O

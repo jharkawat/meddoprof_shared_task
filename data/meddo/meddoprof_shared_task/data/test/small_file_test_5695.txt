@@ -1,0 +1,8 @@
+
+Hipertenso	O
+,	O
+fumador	O
+activo	O
+hasta	O
+2013	O
+.	O

@@ -1,0 +1,11 @@
+
+Fumador	O
+de	O
+20	O
+cigarrillos	O
+/	O
+día	O
+y	O
+bebedor	O
+ocasional	O
+.	O

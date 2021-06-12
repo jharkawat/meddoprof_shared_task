@@ -1,0 +1,25 @@
+
+»	O
+TC	O
+con	O
+contraste	O
+de	O
+tórax	O
+,	O
+abdomen	O
+y	O
+pelvis	O
+(	O
+1	O
+/	O
+3	O
+/	O
+2018	O
+)	O
+:	O
+derrame	O
+pleural	O
+derecho	O
+radiológicamente	O
+estable	O
+.	O

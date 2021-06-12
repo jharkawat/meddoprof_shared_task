@@ -1,0 +1,14 @@
+
+En	O
+el	O
+examen	O
+microbiológico	O
+directo	O
+se	O
+vieron	O
+escasos	O
+cocobacilos	O
+Gram	O
++	O
+intraleucocitarios	O
+.	O

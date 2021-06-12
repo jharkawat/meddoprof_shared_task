@@ -1,0 +1,18 @@
+
+En	O
+estas	O
+últimas	O
+semanas	O
+la	O
+familia	O
+había	O
+empezado	O
+a	O
+preocuparse	O
+seriamente	O
+por	O
+su	O
+cambio	O
+de	O
+comportamiento	O
+.	O

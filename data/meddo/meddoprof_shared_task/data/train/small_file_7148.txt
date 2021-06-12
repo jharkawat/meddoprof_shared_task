@@ -1,0 +1,16 @@
+
+Consulta	O
+por	O
+placa	O
+de	O
+rápido	O
+crecimiento	O
+en	O
+antebrazo	O
+derecho	O
+de	O
+2	O
+semanas	O
+de	O
+evolución	O
+.	O

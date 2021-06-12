@@ -1,0 +1,14 @@
+
+El	O
+paciente	O
+no	O
+refiere	O
+antecedentes	O
+médico	O
+ni	O
+quirúrgicos	O
+de	O
+interés	O
+ni	O
+familiares	O
+.	O

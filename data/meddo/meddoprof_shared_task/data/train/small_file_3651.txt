@@ -1,0 +1,24 @@
+
+Tiene	O
+una	O
+relación	O
+muy	O
+estrecha	O
+con	O
+su	O
+hija	O
+y	O
+con	O
+su	O
+nieto	O
+,	O
+y	O
+estrecha	O
+con	O
+sus	O
+otros	O
+hijos	O
+y	O
+su	O
+marido	O
+.	O

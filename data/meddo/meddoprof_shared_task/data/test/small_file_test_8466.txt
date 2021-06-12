@@ -1,0 +1,9 @@
+
+Ligera	O
+pronación	O
+de	O
+mano	O
+derecha	O
+en	O
+Marré	O
+.	O

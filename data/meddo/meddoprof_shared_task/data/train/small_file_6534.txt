@@ -1,0 +1,23 @@
+
+El	O
+cuadro	O
+había	O
+comenzado	O
+con	O
+una	O
+lesión	O
+en	O
+el	O
+párpado	O
+superior	O
+izquierdo	O
+ligeramente	O
+pruriginosa	O
+con	O
+posterior	O
+extensión	O
+a	O
+otras	O
+áreas	O
+faciales	O
+.	O

@@ -1,0 +1,16 @@
+
+Proliferación	O
+trabecular	O
+de	O
+células	O
+neoplásicas	O
+de	O
+tamaño	O
+intermedio	O
+con	O
+citoplasmas	O
+eosinófilos	O
+y	O
+algunos	O
+vacuolados	O
+.	O

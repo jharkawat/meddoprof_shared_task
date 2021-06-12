@@ -1,0 +1,23 @@
+
+Lumbalgia	O
+crónica	O
+que	O
+ha	O
+asociado	O
+a	O
+su	O
+trabajo	O
+en	O
+tratamiento	O
+con	O
+antifinflamatorio	O
+no	O
+esteroideo	O
+,	O
+Dexketoprofeno	O
+(	O
+AINE	O
+)	O
+y	O
+benzodiacepina	O
+.	O

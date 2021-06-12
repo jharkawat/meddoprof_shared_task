@@ -1,0 +1,9 @@
+
+Ánimo	O
+bajo	O
+,	O
+sueño	O
+normalizado	O
+con	O
+medicación	O
+.	O

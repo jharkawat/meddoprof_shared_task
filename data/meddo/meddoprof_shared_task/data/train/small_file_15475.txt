@@ -1,0 +1,26 @@
+
+Leishmaniosis	O
+cutánea	O
+diagnosticada	O
+hace	O
+7	O
+años	O
+localizada	O
+en	O
+la	O
+región	O
+escapular	O
+izquierda	O
+,	O
+cicatrizada	O
+espontáneamente	O
+sin	O
+tratamiento	O
+,	O
+luego	O
+de	O
+un	O
+año	O
+de	O
+evolución	O
+.	O

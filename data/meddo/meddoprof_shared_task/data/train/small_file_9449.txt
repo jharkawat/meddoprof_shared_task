@@ -1,0 +1,5 @@
+
+Mielolipoma	O
+adrenal	O
+izquierdo	O
+.	O

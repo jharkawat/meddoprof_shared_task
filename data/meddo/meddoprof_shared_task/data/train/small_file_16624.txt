@@ -1,0 +1,15 @@
+
+Tensión	O
+arterial	O
+120	O
+/	O
+75	O
+mmHg	O
+,	O
+frecuencia	O
+cardiaca	O
+84	O
+lpm	O
+,	O
+afebril	O
+.	O

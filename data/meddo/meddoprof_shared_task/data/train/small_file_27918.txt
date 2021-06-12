@@ -1,0 +1,22 @@
+
+La	O
+paciente	O
+procede	O
+de	O
+una	O
+familia	O
+de	O
+tres	O
+hermanos	O
+(	O
+un	O
+varón	O
+mayor	O
+que	O
+ella	O
+y	O
+una	O
+hermana	O
+gemela	O
+)	O
+.	O

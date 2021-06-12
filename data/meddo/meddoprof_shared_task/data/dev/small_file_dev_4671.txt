@@ -1,0 +1,15 @@
+
+Varón	O
+71	O
+años	O
+con	O
+antecedentes	O
+de	O
+gonartrosis	O
+con	O
+prótesis	O
+de	O
+rodilla	O
+y	O
+exbebedor	O
+.	O

@@ -1,0 +1,26 @@
+
+El	O
+gen	O
+de	O
+fusión	O
+EWSR1	O
+/	O
+WT1	O
+estudiado	O
+mediante	O
+RT	O
+-	O
+PCR	O
+e	O
+hibridación	O
+in	O
+situ	O
+con	O
+sonda	O
+fluorescente	O
+(	O
+FISH	O
+)	O
+fue	O
+positivo	O
+.	O

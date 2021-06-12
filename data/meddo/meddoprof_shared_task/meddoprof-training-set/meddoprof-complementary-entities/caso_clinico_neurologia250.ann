@@ -1,0 +1,57 @@
+T1	SINTOMA 219 226	estupor
+T2	SINTOMA 531 563	disminución de la agudeza visual
+T3	SINTOMA 651 667	cefalea pulsátil
+T4	SINTOMA 693 710	malestar gástrico
+T5	SINTOMA 801 808	cefalea
+T6	SINTOMA 3251 3258	cefalea
+T7	PROCEDIMIENTO 261 283	intubación orotraqueal
+T8	PROCEDIMIENTO 291 300	anamnesis
+T9	PROCEDIMIENTO 951 969	Exploración física
+T10	PROCEDIMIENTO 1123 1145	intubación orotraqueal
+T11	PROCEDIMIENTO 1214 1237	exploración neurológica
+T12	PROCEDIMIENTO 1304 1322	Electrocardiograma
+T13	PROCEDIMIENTO 1529 1538	Hemograma
+T14	PROCEDIMIENTO 1643 1661	Analítica de orina
+T15	PROCEDIMIENTO 1693 1730	Tomografía computarizada (TC) craneal
+T16	PROCEDIMIENTO 1837 1869	Tomografía computarizada craneal
+T17	PROCEDIMIENTO 1917 1929	TC-perfusión
+T18	PROCEDIMIENTO 1969 1986	Angio-TC cerebral
+T19	PROCEDIMIENTO 2023 2043	Electroencefalograma
+T20	PROCEDIMIENTO 2055 2069	Ecocardiograma
+T21	PROCEDIMIENTO 2128 2161	Resonancia magnética (RM) craneal
+T22	PROCEDIMIENTO 2310 2338	Resonancia magnética craneal
+T23	PROCEDIMIENTO 2734 2767	estudio de neuroimagen multimodal
+T24	NEG 1680 1689	negativos
+T25	NEG 1988 1991	sin
+T26	NSCO 1992 2019	signos de oclusión vascular
+T27	NEG 2266 2268	no
+T28	NSCO 2269 2308	se objetivaba patología vascular actual
+T29	NEG 2769 2772	sin
+T30	NSCO 2773 2829	encontrar datos compatibles con patología vascular aguda
+T31	NEG 2923 2926	sin
+T32	NSCO 2927 2949	evidencia de focalidad
+T33	NEG 3289 3292	sin
+T34	NSCO 3293 3321	otra sintomatología asociada
+T35	FARMACO 2574 2587	levetiracetam
+T36	FARMACO 3098 3111	levetiracetam
+T37	ORG_VIVO 10 15	Mujer
+T38	ORG_VIVO 403 411	paciente
+T39	ORG_VIVO 921 948	médico de Atención Primaria
+T40	ORG_VIVO 2883 2891	paciente
+T41	ORG_VIVO 3209 3217	paciente
+T42	ENFERMEDAD 48 69	hipertensión arterial
+T43	ENFERMEDAD 101 114	migraña común
+T44	ENFERMEDAD 169 214	crisis epiléptica generalizada tónico-clónica
+T45	ENFERMEDAD 866 901	crisis tónico- clónica generalizada
+T46	ENFERMEDAD 1470 1489	Hipercolesterolemia
+T47	ENFERMEDAD 1738 1763	lesión residual occipital
+T48	ENFERMEDAD 1793 1825	dilatación del atrio ventricular
+T49	ENFERMEDAD 1871 1905	lesión hipodensa crónica occipital
+T50	ENFERMEDAD 2002 2019	oclusión vascular
+T51	ENFERMEDAD 2071 2095	cardiopatía hipertensiva
+T52	ENFERMEDAD 2163 2205	lesión residual crónica vascular occipital
+T53	ENFERMEDAD 2359 2444	lesión cortical occipital basal medial derecha de características vasculares crónicas
+T54	ENFERMEDAD 2481 2503	crisis focal occipital
+T55	ENFERMEDAD 2666 2687	hipertensión arterial
+T56	ENFERMEDAD 2805 2829	patología vascular aguda
+T57	SANITARIO-PROFESION 921 948	médico de Atención Primaria

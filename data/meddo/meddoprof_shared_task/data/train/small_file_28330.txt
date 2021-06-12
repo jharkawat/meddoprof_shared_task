@@ -1,0 +1,12 @@
+
+Sentimientos	O
+de	O
+culpabilidad	O
+secundariosa	O
+la	O
+consumación	O
+de	O
+estas	O
+fantasías	O
+masoquistas	O
+.	O

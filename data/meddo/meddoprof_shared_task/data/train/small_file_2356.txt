@@ -1,0 +1,8 @@
+
+-	O
+Duerme	O
+6	O
+horas	O
+al	O
+día	O
+.	O

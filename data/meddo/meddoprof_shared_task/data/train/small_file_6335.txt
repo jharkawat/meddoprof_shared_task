@@ -1,0 +1,16 @@
+
+Cavidad	O
+bucal	O
+dentro	O
+de	O
+la	O
+normalidad	O
+sin	O
+lesiones	O
+,	O
+con	O
+amígdalas	O
+normales	O
+sin	O
+exudados	O
+.	O

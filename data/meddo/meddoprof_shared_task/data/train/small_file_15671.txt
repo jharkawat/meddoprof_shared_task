@@ -1,0 +1,26 @@
+
+En	O
+esta	O
+revisión	O
+,	O
+la	O
+paciente	O
+tenía	O
+ya	O
+un	O
+adecuado	O
+sueño	O
+nocturno	O
+y	O
+aceptable	O
+nivel	O
+de	O
+alerta	O
+diurna	O
+,	O
+aunque	O
+todavía	O
+realizaba	O
+alguna	O
+siesta	O
+.	O

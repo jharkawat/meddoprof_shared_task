@@ -1,0 +1,18 @@
+
+Actualmente	O
+,	O
+el	O
+paciente	O
+toma	O
+100	O
+mg	O
+en	O
+la	O
+mañana	O
+y	O
+100	O
+mg	O
+en	O
+la	O
+noche	O
+.	O

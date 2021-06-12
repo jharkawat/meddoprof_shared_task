@@ -1,0 +1,22 @@
+
+Encontrándose	O
+la	O
+paciente	O
+pendiente	O
+de	O
+valoración	O
+por	O
+Radioterapia	O
+para	O
+la	O
+planificación	O
+del	O
+tratamiento	O
+,	O
+refiere	O
+nerviosismo	O
+,	O
+inquietud	O
+y	O
+malestar	O
+.	O

@@ -1,0 +1,10 @@
+
+Eje	O
+III	O
+:	O
+Enfermedades	O
+Medicas	O
+:	O
+cuadro	O
+clínico	O
+migrañoso	O

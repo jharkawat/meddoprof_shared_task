@@ -1,0 +1,10 @@
+
+Presenta	O
+antecedentes	O
+familiares	O
+positivos	O
+para	O
+el	O
+trastorno	O
+bipolar	O
+.	O

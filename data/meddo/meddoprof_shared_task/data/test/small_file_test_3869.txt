@@ -1,0 +1,11 @@
+
+Estadio	O
+patológico	O
+pT4N0	O
+(	O
+0	O
+/	O
+10	O
+)	O
+R2	O
+.	O

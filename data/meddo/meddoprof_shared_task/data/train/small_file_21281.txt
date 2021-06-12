@@ -1,0 +1,18 @@
+
+Son	O
+originarios	O
+del	O
+lugar	O
+en	O
+el	O
+que	O
+residen	O
+,	O
+nunca	O
+han	O
+cambiado	O
+su	O
+localidad	O
+de	O
+residencia	O
+.	O

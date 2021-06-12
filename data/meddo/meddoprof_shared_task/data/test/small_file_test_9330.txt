@@ -1,0 +1,26 @@
+
+Durante	O
+el	O
+ingreso	O
+se	O
+realiza	O
+una	O
+TC	O
+que	O
+muestra	O
+estabilidad	O
+de	O
+la	O
+lesión	O
+pulmonar	O
+,	O
+pero	O
+aparición	O
+de	O
+una	O
+lesión	O
+hepática	O
+sugestiva	O
+de	O
+metástasis	O
+.	O

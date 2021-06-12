@@ -1,0 +1,19 @@
+
+Casado	O
+,	O
+con	O
+pareja	O
+desde	O
+hace	O
+unos	O
+12	O
+años	O
+,	O
+sin	O
+hijos	O
+y	O
+buena	O
+dinámica	O
+familiar	O
+previa	O
+.	O

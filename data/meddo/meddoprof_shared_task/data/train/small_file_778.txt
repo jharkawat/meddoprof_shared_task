@@ -1,0 +1,23 @@
+
+Un	O
+análisis	O
+de	O
+rutina	O
+refirió	O
+un	O
+hematocrito	O
+de	O
+32	O
+%	O
+,	O
+hemoglobina	O
+de	O
+10	O
+y	O
+glóbulos	O
+blancos	O
+de	O
+3	O
+.	O
+800	O
+.	O

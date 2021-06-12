@@ -1,0 +1,21 @@
+
+El	O
+paciente	O
+ingreso	O
+en	O
+Medicina	O
+Interna	O
+del	O
+HUCA	O
+para	O
+completar	O
+estudios	O
+etiológicos	O
+de	O
+dicha	O
+hemofilia	O
+y	O
+descartar	O
+causa	O
+subyacente	O
+.	O

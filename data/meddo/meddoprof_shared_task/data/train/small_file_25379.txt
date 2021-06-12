@@ -1,0 +1,9 @@
+
+Su	O
+marido	O
+tiene	O
+un	O
+problema	O
+de	O
+ludopatía	O
+.	O

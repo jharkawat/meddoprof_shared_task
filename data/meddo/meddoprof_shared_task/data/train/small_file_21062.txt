@@ -1,0 +1,25 @@
+
+La	O
+paciente	O
+estaba	O
+tan	O
+confusa	O
+e	O
+inquieta	O
+que	O
+merodeaba	O
+por	O
+la	O
+sala	O
+de	O
+traumatología	O
+durante	O
+la	O
+noche	O
+,	O
+molestando	O
+a	O
+los	O
+otros	O
+pacientes	O
+.	O

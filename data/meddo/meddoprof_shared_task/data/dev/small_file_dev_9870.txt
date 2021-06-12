@@ -1,0 +1,11 @@
+
+Dislipemia	O
+a	O
+tratamiento	O
+con	O
+estatinas	O
+desde	O
+el	O
+año	O
+2002	O
+.	O

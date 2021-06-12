@@ -1,0 +1,9 @@
+
+Durante	O
+estos	O
+meses	O
+el	O
+paciente	O
+persiste	O
+asintomático	O
+.	O

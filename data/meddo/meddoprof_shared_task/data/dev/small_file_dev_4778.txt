@@ -1,0 +1,9 @@
+
+Ecografía	O
+abdominal	O
+:	O
+Mínimo	O
+derrame	O
+pleural	O
+izquierdo	O
+.	O

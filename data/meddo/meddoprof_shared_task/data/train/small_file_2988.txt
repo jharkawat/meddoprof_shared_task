@@ -1,0 +1,8 @@
+
+Conductas	O
+de	O
+riesgo	O
+en	O
+paciente	O
+adolescente	O
+.	O

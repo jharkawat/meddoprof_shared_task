@@ -1,0 +1,26 @@
+
+El	O
+tratamiento	O
+neuropsicológico	O
+seguido	O
+con	O
+nuestra	O
+paciente	O
+,	O
+es	O
+el	O
+Tratamiento	O
+del	O
+dolor	O
+de	O
+miembro	O
+fantasma	O
+mediante	O
+la	O
+Técnica	O
+del	O
+Espejo	O
+propuesto	O
+por	O
+Ramachandran36	O
+.	O

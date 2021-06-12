@@ -1,0 +1,25 @@
+
+Entre	O
+sus	O
+antecedentes	O
+figura	O
+:	O
+diabetes	O
+mellitus	O
+tipo	O
+2	O
+insulinodependiente	O
+con	O
+buen	O
+control	O
+metabólico	O
+,	O
+hipertensión	O
+arterial	O
+,	O
+fibrilación	O
+auricular	O
+anticoagulada	O
+con	O
+dabigatrán	O
+.	O

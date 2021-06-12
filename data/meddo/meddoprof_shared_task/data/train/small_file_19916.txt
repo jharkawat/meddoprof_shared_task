@@ -1,0 +1,23 @@
+
+Rebuscó	O
+en	O
+el	O
+bolso	O
+pero	O
+,	O
+en	O
+lugar	O
+del	O
+importe	O
+exacto	O
+,	O
+sacó	O
+un	O
+cuchillo	O
+de	O
+cocina	O
+que	O
+llevaba	O
+para	O
+protegerse	O
+.	O
