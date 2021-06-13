@@ -158,11 +158,14 @@ dice	O
 la	O
 madre.	O
 
+
 EVALUACIÓN	O
 PSICOLÓGICA.	O
 
+
 Historia	O
 clínica	O
+
 
 Antecedentes	O
 personales	O
@@ -283,6 +286,7 @@ de	O
 impotencia	O
 y	O
 soledad.	O
+
 
 Genograma	O
 
@@ -588,6 +592,7 @@ y	O
 me	O
 ayuda».	O
 
+
 Datos	O
 evolutivosEl	O
 embarazo	O
@@ -781,6 +786,7 @@ el	O
 desarrollo	O
 de	O
 Nadia.	O
+
 
 Una	O
 hermana	O
@@ -1186,7 +1192,6 @@ la	O
 agobio,	O
 la	O
 persigo...	O
-
 estoy	O
 distanciada	O
 con	O
@@ -1217,6 +1222,7 @@ habitación	O
 todo	O
 el	O
 día...».	O
+
 UICIO	O
 CLÍNICOEs	O
 una	O
@@ -1371,6 +1377,7 @@ en	O
 algunos	O
 momentos.	O
 
+
 resenta	O
 tristeza,	O
 preocupación,	O
@@ -1423,6 +1430,7 @@ F	O
 C.I.E.	O
 10	O
 (12).	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -1677,6 +1685,7 @@ de	O
 las	O
 niñas.	O
 
+
 Nadia	O
 utiliza	O
 el	O
@@ -1808,4 +1817,3 @@ de	O
 la	O
 trabajadora	B-PROFESION
 social.	I-PROFESION
-

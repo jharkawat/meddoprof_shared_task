@@ -50,8 +50,10 @@ de	O
 trabajo	O
 previo.	O
 
+
 Situación	O
 preoperatoria	O
+
 
 Resultado	O
 de	O
@@ -72,4 +74,3 @@ minimización	O
 del	O
 impacto	O
 estético.	O
-

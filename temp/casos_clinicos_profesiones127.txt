@@ -239,6 +239,7 @@ protegida	O
 por	O
 Pedro.	O
 
+
 Historia	O
 laboral	O
 
@@ -288,6 +289,7 @@ trabaja	B-PROFESION
 en	I-PROFESION
 la	I-PROFESION
 limpieza.	I-PROFESION
+
 
 Enfermedad	O
 actual	O
@@ -408,6 +410,7 @@ encuentra	O
 sintomatología	O
 psicótica.	O
 
+
 Impresión	O
 diagnóstica	O
 
@@ -425,6 +428,7 @@ depresión.	O
 (Duelo	O
 patológico).	O
 
+
 Tratamiento	O
 farmacológico	O
 
@@ -434,6 +438,7 @@ Paroxetina	O
 y	O
 Alprazolam	O
 0,5mg(0-0-1)	O
+
 
 La	O
 siguiente	O
@@ -484,6 +489,7 @@ residente	B-PROFESION
 de	I-PROFESION
 psicología.	I-PROFESION
 
+
 Se	O
 plantea	O
 una	O
@@ -500,6 +506,7 @@ con	O
 los	O
 siguientes	O
 objetivos:	O
+
 
 1.	O
 ACEPTAR	O
@@ -532,6 +539,7 @@ RELACIÓNEMOCIONAL	O
 CON	O
 EL	O
 AUSENTE.	O
+
 
 Evolución	O
 
@@ -638,4 +646,3 @@ dicho	O
 que	O
 no	O
 corriera".	O
-

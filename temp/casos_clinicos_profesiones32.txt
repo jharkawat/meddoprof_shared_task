@@ -441,7 +441,6 @@ paciente	O
 era	O
 una	O
 mujer	O
-
 delgada,	O
 limpia	O
 y	O

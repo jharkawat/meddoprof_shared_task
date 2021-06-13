@@ -34,6 +34,8 @@ en	O
 períodos	O
 discontinuos.	O
 
+
+
 Datos	O
 biográficos:	O
 
@@ -143,6 +145,7 @@ los	O
 estudios	O
 primarios.	O
 
+
 Vive	O
 con	O
 su	O
@@ -179,6 +182,7 @@ se	O
 mantuvo	O
 abstinente.	O
 
+
 El	O
 paciente	O
 expresa	O
@@ -202,6 +206,7 @@ en	O
 su	O
 vida	O
 diaria.	O
+
 
 Antecedentes	O
 personales:	O
@@ -237,6 +242,8 @@ derecho	O
 con	O
 posterior	O
 osteomielitis.	O
+
+
 
 Historia	O
 abuso	O
@@ -363,6 +370,7 @@ en	O
 el	O
 consumo.	O
 
+
 Exploración	O
 
 Consciente	O
@@ -434,6 +442,7 @@ de	O
 realidad	O
 conservado.	O
 
+
 Juicio	O
 Diagnóstico	O
 
@@ -472,4 +481,3 @@ de	O
 cannabis	O
 (DSM-IV	O
 305.20)	O
-

@@ -44,6 +44,7 @@ una	O
 discusión	O
 familiar.	O
 
+
 Como	O
 antecedentes	O
 de	O
@@ -63,6 +64,7 @@ de	O
 cigarrillos	O
 al	O
 día.	O
+
 
 Al	O
 examen	O
@@ -102,6 +104,7 @@ flacidez	O
 muscular	O
 generalizada.	O
 
+
 Del	O
 interrogatorio	O
 se	O
@@ -127,6 +130,7 @@ Irritabilidad.	O
 •	O
 Labilidad	O
 emocional.	O
+
 
 Al	O
 examen	O
@@ -231,6 +235,7 @@ marcha	O
 atáxica	O
 persistente.	O
 
+
 Planteamiento	O
 clínico	O
 
@@ -285,4 +290,3 @@ metálico	O
 (extracción	O
 de	O
 oro).	O
-

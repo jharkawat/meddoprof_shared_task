@@ -49,6 +49,7 @@ de	O
 su	O
 salud.	O
 
+
 Contacta	O
 telefónicamente	O
 con	O
@@ -86,6 +87,7 @@ con	O
 buena	O
 tolerancia	O
 oral.	O
+
 
 Aplicando	O
 el	O
@@ -148,6 +150,7 @@ caso	O
 de	O
 que	O
 aparezcan.	O
+
 
 Se	O
 realiza	O
@@ -230,6 +233,7 @@ seguimiento	O
 continuo	O
 del	O
 riesgo.	O
+
 
 Al	O
 noveno	O
@@ -408,6 +412,7 @@ servicio	O
 de	O
 Neumología.	O
 
+
 Estudio	O
 de	O
 la	O
@@ -501,6 +506,7 @@ compatibles	O
 con	O
 COVID-19.	O
 
+
 A	O
 nivel	O
 analítico,	O
@@ -571,6 +577,7 @@ activado:	O
 0,64	O
 UI/ml.	O
 
+
 Hemocultivos,	O
 cultivo	O
 de	O
@@ -601,6 +608,7 @@ repolarización.	O
 QTc	O
 457	O
 ms.	O
+
 
 Abordaje	O
 de	O
@@ -641,6 +649,7 @@ el	O
 diagnóstico	O
 de	O
 TEP.	O
+
 
 Se	O
 realiza	O
@@ -684,6 +693,7 @@ compresión	O
 del	O
 nervio	O
 ciático.	O
+
 
 Evolución:	O
 tras	O
@@ -754,4 +764,3 @@ de	O
 incidencias	O
 y	O
 complicaciones.	O
-

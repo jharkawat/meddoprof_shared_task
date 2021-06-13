@@ -296,4 +296,3 @@ considerado	O
 accidente	O
 de	O
 trabajo.	O
-

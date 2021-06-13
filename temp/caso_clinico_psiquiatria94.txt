@@ -439,7 +439,6 @@ sus	O
 hermanos,	O
 y	O
 cree	O
-
 que	O
 le	O
 han	O
@@ -574,6 +573,7 @@ psicológica	O
 de	O
 la	O
 hija.	O
+
 Diagnóstico	O
 DSM-IV-R:	O
 
@@ -617,6 +617,7 @@ hospitalización)	O
 y	O
 80	O
 (actual).	O
+
 
 Síntomas:	O
 
@@ -739,6 +740,7 @@ tiempo	O
 de	O
 evolución.	O
 
+
 Diagnóstico	O
 Diferencial:	O
 
@@ -809,6 +811,7 @@ Tr.	O
 de	O
 personalidad.	O
 
+
 Tratamiento:	O
 
 -	O
@@ -833,4 +836,3 @@ decidir	O
 terapeútica	O
 según	O
 resultados).	O
-

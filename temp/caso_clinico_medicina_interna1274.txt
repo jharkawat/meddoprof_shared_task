@@ -85,6 +85,7 @@ kilogramos	O
 de	O
 peso.	O
 
+
 Exploración	O
 física	O
 
@@ -179,6 +180,7 @@ la	O
 exploración	O
 fue	O
 normal.	O
+
 
 Pruebas	O
 complementarias	O
@@ -408,6 +410,7 @@ enfermedad	O
 inflamatoria	O
 intestinal.	O
 
+
 Diagnóstico	O
 diferencial	O
 en	O
@@ -543,6 +546,7 @@ de	O
 peso	O
 descrita	O
 anteriormente.	O
+
 
 Evolución	O
 
@@ -871,7 +875,6 @@ por	O
 lo	O
 que	O
 se	O
-
 realizó	O
 hemicolectomía	O
 derecha	O
@@ -907,6 +910,7 @@ y	O
 de	O
 Cirugía	O
 General.	O
+
 Diagnóstico	O
 final	O
 (juicio	O
@@ -931,4 +935,3 @@ con	O
 posterior	O
 perforación	O
 ileo-cólica.	O
-

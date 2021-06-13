@@ -27,6 +27,7 @@ en	O
 la	O
 infancia.	O
 
+
 Cinco	O
 años	O
 antes	O
@@ -92,6 +93,7 @@ de	O
 las	O
 lesiones	O
 cutáneas.	O
+
 
 El	O
 paciente	O
@@ -192,6 +194,7 @@ Ciudad	O
 de	O
 México.	O
 
+
 Al	O
 momento	O
 de	O
@@ -226,6 +229,7 @@ y	O
 xerosis	O
 intensa	O
 generalizada.	O
+
 
 Se	O
 realizaron	O
@@ -286,6 +290,7 @@ Dermatitis	O
 de	O
 Contacto.	O
 
+
 Se	O
 le	O
 recomendó	O
@@ -344,4 +349,3 @@ y	O
 remisión	O
 del	O
 cuadro.	O
-

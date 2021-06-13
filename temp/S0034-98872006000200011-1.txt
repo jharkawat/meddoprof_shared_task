@@ -186,6 +186,7 @@ de	O
 la	O
 arteria.	O
 
+
 Se	O
 procedió	O
 a	O
@@ -254,6 +255,7 @@ poplíteo	O
 y	O
 tibial	O
 posterior.	O
+
 
 El	O
 informe	O

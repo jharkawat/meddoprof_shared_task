@@ -16,6 +16,7 @@ patología	O
 de	O
 base.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -50,6 +51,7 @@ Escasa	O
 red	O
 social.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 no	O
@@ -67,6 +69,7 @@ antecedentes	O
 médicos	O
 de	O
 interés.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -170,6 +173,7 @@ risperidona	O
 (distonía	O
 aguda).	O
 
+
 Hábitos	O
 tóxicos:	O
 antecedentes	O
@@ -188,6 +192,7 @@ de	O
 años.	O
 Hábito	O
 tabáquico.	O
+
 
 ENFERMEDAD	O
 ACTUAL	O
@@ -276,6 +281,7 @@ los	O
 últimos	O
 años.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -339,6 +345,7 @@ en	O
 las	O
 últimas	O
 semanas.	O
+
 
 PRUEBAS	O
 COMPLEMENTARIAS	O
@@ -408,10 +415,12 @@ kg.	O
 Talla:	O
 1,75m.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
 paranoide.	O
+
 
 TRATAMIENTO	O
 
@@ -502,4 +511,3 @@ insomnio:	O
 lorazepam	O
 1	O
 mg.	O
-

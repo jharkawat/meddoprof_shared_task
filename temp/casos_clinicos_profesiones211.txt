@@ -52,6 +52,7 @@ atenolol	O
 50	O
 mg/día.	O
 
+
 Motivo	O
 de	O
 consulta	O
@@ -130,6 +131,7 @@ vuelve	O
 a	O
 consultar.	O
 
+
 Exploración	O
 física.	O
 El	O
@@ -206,6 +208,7 @@ había	O
 focalidad	O
 neurológica.	O
 
+
 Exploraciones	O
 complementarias.	O
 Se	O
@@ -271,6 +274,7 @@ obtuvieron	O
 hallazgos	O
 significativos.	O
 
+
 Juicio	O
 clínico.	O
 Presíncope	O
@@ -290,6 +294,7 @@ beta.	O
 Insuficiencia	O
 renal	O
 leve.	O
+
 
 Tratamiento.	O
 Tras	O
@@ -353,6 +358,7 @@ del	O
 tratamiento	O
 sigue	O
 igual.	O
+
 
 Al	O
 día	O
@@ -482,4 +488,3 @@ al	O
 tomar	O
 la	O
 medicación.	O
-

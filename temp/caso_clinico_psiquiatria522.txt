@@ -30,6 +30,7 @@ los	O
 17	O
 años.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -78,6 +79,7 @@ con	O
 heteroagresividad	O
 hacia	O
 familiares.	O
+
 
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
@@ -185,6 +187,7 @@ la	O
 realidad	O
 conservado.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -199,6 +202,7 @@ hipercolesterolemia.	O
 Resto	O
 sin	O
 alteraciones.	O
+
 
 DIAGNÓSTICO	O
 
@@ -288,6 +292,7 @@ diagnostica	O
 de	O
 esquizofrenia	O
 paranoide.	O
+
 
 TRATAMIENTO	O
 
@@ -447,6 +452,7 @@ desaparecido	O
 los	O
 EPS.	O
 
+
 Tratamientos	O
 antipsicóticos	O
 ensayados:	O
@@ -473,4 +479,3 @@ desde	O
 hace	O
 4	O
 años.	O
-

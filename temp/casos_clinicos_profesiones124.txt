@@ -32,6 +32,7 @@ recuento	O
 CD4	O
 bajo.	O
 
+
 Consulta	O
 al	O
 HUAP	O
@@ -130,6 +131,7 @@ de	O
 la	O
 visión.	O
 
+
 Al	O
 ingreso,	O
 se	O
@@ -150,6 +152,7 @@ focalización	O
 ni	O
 signos	O
 meníngeos.	O
+
 
 Exámenes	O
 de	O
@@ -180,6 +183,7 @@ LDH:	O
 297	O
 U/L	O
 
+
 Se	O
 realiza	O
 Tomografía	O
@@ -195,6 +199,7 @@ observa	O
 moderada	O
 atrofia	O
 cortical:	O
+
 
 Posteriormente,	O
 se	O
@@ -241,4 +246,3 @@ trasladado	O
 a	O
 hospital	O
 base.	O
-

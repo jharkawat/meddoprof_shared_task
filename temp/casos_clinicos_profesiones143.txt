@@ -1,6 +1,7 @@
 Historia	O
 clínica	O
 
+
 Presentamos	O
 un	O
 caso	O
@@ -130,12 +131,14 @@ provenía)	O
 se	O
 solicita:	O
 
+
 Analítica	O
 completa	O
 (bioquímica,	O
 hemograma	O
 y	O
 coagulación)	O
+
 
 Hemocultivos	O
 (por	O
@@ -145,12 +148,14 @@ sin	O
 foco	O
 aparente)	O
 
+
 Frotis	O
 de	O
 sangre	O
 y	O
 gota	O
 gruesa	O
+
 
 Pendiente	O
 de	O
@@ -211,6 +216,7 @@ con	O
 buena	O
 respuesta.	O
 
+
 El	O
 2/07/2019	O
 avisan	O
@@ -232,6 +238,7 @@ localizado	O
 para	O
 tramitar	O
 ingreso.	O
+
 
 El	O
 examen	O
@@ -264,6 +271,7 @@ paludismo	O
 por	O
 Plasmodium	O
 falciparum.	O
+
 
 En	O
 cuanto	O
@@ -306,6 +314,7 @@ ligeramente	O
 elevada	O
 (47	O
 mg/dL).	O
+
 
 Dada	O
 su	O
@@ -449,4 +458,3 @@ días	O
 de	O
 su	O
 ingreso.	O
-

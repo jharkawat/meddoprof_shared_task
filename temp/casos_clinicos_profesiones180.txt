@@ -318,4 +318,3 @@ se	O
 resolvió	O
 la	O
 dermatosis.	O
-

@@ -26,6 +26,7 @@ cig/día	O
 (IPA	O
 10).	O
 
+
 Acude	O
 a	O
 su	O
@@ -77,6 +78,7 @@ vez	O
 al	O
 mes).	O
 
+
 No	O
 consultó	O
 previamente	O
@@ -90,6 +92,7 @@ sedentarismo	O
 y	O
 al	O
 cigarro.	O
+
 
 El	O
 paciente	O
@@ -130,6 +133,7 @@ en	O
 el	O
 MC.	O
 
+
 Padre	O
 con	O
 asma	O
@@ -141,6 +145,7 @@ madre	O
 con	O
 DM2	O
 NIR.	O
+
 
 No	O
 toma	O
@@ -175,6 +180,7 @@ ni	O
 sudoración	O
 nocturna.	O
 
+
 Al	O
 examen	O
 físico	O
@@ -193,4 +199,3 @@ espiratorias	O
 a	O
 la	O
 auscultación.	O
-

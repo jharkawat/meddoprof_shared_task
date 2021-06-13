@@ -19,6 +19,7 @@ Rehabilitación	O
 Psicosocial	O
 "LAR".	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -291,6 +292,7 @@ la	O
 vida	O
 diaria.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -392,6 +394,9 @@ de	O
 difícil	O
 control.	O
 
+
+
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -449,6 +454,7 @@ cuanto	O
 a	O
 tolerancia/metabolización.	O
 
+
 DIAGNÓSTICO	O
 
 El	O
@@ -499,6 +505,7 @@ especificación	O
 de	O
 la	O
 CIE-10).	O
+
 
 TRATAMIENTO	O
 
@@ -632,4 +639,3 @@ mianserina	O
 30	O
 mg	O
 (0-0-1).	O
-

@@ -84,6 +84,7 @@ y	O
 otros	O
 síntomas.	O
 
+
 •	O
 Examen	O
 físico:	O
@@ -104,6 +105,7 @@ abdominal	O
 y	O
 matidez	O
 generalizada.	O
+
 
 •	O
 Exámenes	O
@@ -318,6 +320,7 @@ aproximadamente	O
 2800	O
 cc.	O
 
+
 Tomografía	O
 axial	O
 computarizada	O
@@ -355,6 +358,7 @@ aspecto	O
 y	O
 tamaño	O
 normal.	O
+
 
 •	O
 Resultado	O
@@ -459,4 +463,3 @@ vida	O
 e	O
 incorporada	O
 socialmente.	O
-

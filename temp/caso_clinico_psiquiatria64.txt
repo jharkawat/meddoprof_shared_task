@@ -61,6 +61,7 @@ ejerce	O
 la	O
 prostitución.	O
 
+
 Paciente	O
 VIH	O
 positivo	O
@@ -68,6 +69,7 @@ en	O
 tratamiento	O
 con	O
 antirretrovirales.	O
+
 
 A	O
 las	O
@@ -121,6 +123,7 @@ A	O
 y	O
 B.	O
 
+
 El	O
 diagnóstico	O
 se	O
@@ -164,6 +167,7 @@ con	O
 los	O
 demás	O
 pacientes.	O
+
 
 Una	O
 vez	O
@@ -215,6 +219,7 @@ aislamiento	O
 de	O
 contacto.	O
 
+
 Resultados	O
 
 Seguimiento	O
@@ -227,6 +232,7 @@ no	O
 siempre	O
 presencial.	O
 
+
 Detección	O
 tardía	O
 de	O
@@ -235,6 +241,7 @@ infección	O
 por	O
 el	O
 virus.	O
+
 
 No	O
 se	O
@@ -249,6 +256,7 @@ la	O
 transmisión	O
 del	O
 virus.	O
+
 
 Se	O
 ha	O
@@ -286,4 +294,3 @@ su	O
 puesto	O
 de	O
 trabajo.	O
-

@@ -10,6 +10,7 @@ de	O
 29	O
 años.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -57,6 +58,7 @@ por	O
 la	O
 madre.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 antecedentes	O
@@ -88,6 +90,7 @@ No	O
 consume	O
 otros	O
 tóxicos.	O
+
 
 Antecedentes	O
 familiares:	O
@@ -123,6 +126,7 @@ trastorno	O
 esquizoafectivo	O
 tipo	O
 depresivo.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -197,6 +201,7 @@ clonazepam	O
 2	O
 mg/24	O
 h.	O
+
 
 ENFERMEDAD	O
 ACTUAL	O
@@ -369,6 +374,10 @@ clonazepam	O
 mg/12	O
 h.	O
 
+
+
+
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -428,6 +437,7 @@ Conciencia	O
 de	O
 enfermedad	O
 nula.	O
+
 
 EXPLORACIONES	O
 COMPLEMENTARIAS	O
@@ -625,7 +635,6 @@ absolutos	O
 (en	O
 sangre)	O
 0,1	O
-
 x	O
 109/l	O
 (0,00	O
@@ -813,6 +822,7 @@ grafoelementos	O
 epileptiformes	O
 intercríticos.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
@@ -835,6 +845,7 @@ y	O
 síntomas	O
 negativos	O
 3⁄4.	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -1005,4 +1016,3 @@ han	O
 desaparecido	O
 por	O
 completo.	O
-

@@ -253,6 +253,7 @@ todos	O
 los	O
 servicios.	O
 
+
 El	O
 paciente	O
 no	O
@@ -530,6 +531,7 @@ los	O
 límites	O
 normales.	O
 
+
 Se	O
 realizó	O
 una	O
@@ -540,6 +542,7 @@ cortes	O
 de	O
 alta	O
 resolución.	O
+
 
 Dr.	O
 Spina:	O
@@ -601,6 +604,7 @@ la	O
 evaluación	O
 diagnóstica.	O
 
+
 Dr.	B-PROFESION
 Delgado:	O
 Con	O
@@ -631,4 +635,3 @@ la	O
 bronquiolitis	O
 obliterante	O
 (BO).	O
-

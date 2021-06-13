@@ -44,6 +44,7 @@ colchicina,	O
 y	O
 omeprazol.	O
 
+
 Enfermedad	O
 actual.	O
 El	O
@@ -245,6 +246,8 @@ inicio	O
 del	O
 cuadro.	O
 
+
+
 Exploración	O
 física	O
 
@@ -323,6 +326,7 @@ sin	O
 hallazgos	O
 de	O
 interés.	O
+
 
 Pruebas	O
 complementarias	O
@@ -554,6 +558,7 @@ con	O
 flujo	O
 normal.	O
 
+
 Evolución	O
 
 Durante	O
@@ -727,6 +732,7 @@ para	O
 completar	O
 estudio.	O
 
+
 Diagnóstico	O
 
 IAMSEST	O
@@ -740,4 +746,3 @@ I	O
 inducido	O
 por	O
 alimentos.	O
-

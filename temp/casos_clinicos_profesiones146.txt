@@ -1,6 +1,7 @@
 Actividad	B-SITUACION_LABORAL
 laboral	I-SITUACION_LABORAL
 
+
 Paciente,	O
 varón	O
 de	O
@@ -28,6 +29,7 @@ en	O
 el	O
 establo.	O
 
+
 Esta	O
 incluido	O
 en	O
@@ -51,8 +53,10 @@ profesionales	O
 desde	O
 2012.	O
 
+
 Antecedentes	O
 Personales:	O
+
 
 El	O
 paciente	O
@@ -78,6 +82,7 @@ desde	O
 el	O
 año	O
 2009.	O
+
 
 En	O
 2017	O
@@ -114,6 +119,7 @@ aumento	O
 de	O
 la	O
 vascularización.	O
+
 
 En	O
 Diciembre	O
@@ -164,6 +170,7 @@ con	O
 diuréticos	O
 y	O
 nitroglicerina.	O
+
 
 En	O
 Febrero	O
@@ -230,8 +237,10 @@ retirada	O
 de	O
 Oxigeno.	O
 
+
 Estudio	O
 realizado:	O
+
 
 Pruebas	O
 Cutáneas	O
@@ -240,6 +249,7 @@ PRICK	O
 30-12-2018:	O
 Negativa	O
 inhalantes.	O
+
 
 Pruebas	O
 Cutáneas	O
@@ -251,6 +261,7 @@ lectura	O
 inmediata	O
 para	O
 Hongos.	O
+
 
 RMN	O
 Cardiaca	O
@@ -266,6 +277,7 @@ ventrículo	O
 izquierdo)	O
 55%	O
 
+
 Coronariografía	O
 marzo	O
 2018:	O
@@ -276,6 +288,7 @@ arterias	O
 coronarias.	O
 Ventriculografía	O
 normal.	O
+
 
 Lavado	O
 bronquio-Alveolar:	O
@@ -297,6 +310,7 @@ granulomas	O
 de	O
 células	O
 gigantes.	O
+
 
 Espirometria	O
 2018	O
@@ -325,6 +339,7 @@ oxido	O
 nítrico)33	O
 PPB	O
 
+
 Test	O
 de	O
 Difusión	O
@@ -336,6 +351,7 @@ pulmonar)	O
 55%,	O
 KCO	O
 58%.	O
+
 
 La	O
 DLCO	O
@@ -417,6 +433,7 @@ realiza	O
 la	O
 espiración).	O
 
+
 2015-	O
 2016	O
 Se	O
@@ -481,6 +498,7 @@ patología	O
 laboral	O
 irresoluble.	O
 
+
 2016-	O
 2018	O
 Presenta	O
@@ -505,6 +523,7 @@ contaminados	O
 y	O
 pulvigenos.	O
 
+
 Pruebas	O
 Complementarias	O
 a	O
@@ -513,6 +532,7 @@ largo	O
 de	O
 su	O
 enfermedad:	O
+
 
 2018:	O
 Varios	O
@@ -538,6 +558,7 @@ derecha	O
 que	O
 precisa	O
 ablación.	O
+
 
 Ecocardiograma:	O
 Hipertrofia	O
@@ -572,6 +593,7 @@ de	O
 HTP(hipertensión	O
 portal)	O
 severa.	O
+
 
 RMN	O
 Cardiaca:	O
@@ -609,6 +631,7 @@ de	O
 la	O
 normalidad	O
 
+
 TAC	O
 Tórax	O
 Adenopatías	O
@@ -636,7 +659,9 @@ de	O
 cambios	O
 crónicos.	O
 
+
 Exploración:	O
+
 
 Disnea	O
 de	O
@@ -656,7 +681,9 @@ MMII.	O
 Obesidad	O
 central.	O
 
+
 Diagnóstico:	O
+
 
 Insuficiencia	O
 cardiaca	O
@@ -700,7 +727,9 @@ de	O
 un	O
 caso.	O
 
+
 Evolución:	O
+
 
 Ante	O
 la	O
@@ -729,4 +758,3 @@ hemodinámico	O
 y	O
 biopsia	O
 endomiocárdica.	O
-

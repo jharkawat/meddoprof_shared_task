@@ -425,7 +425,6 @@ excitada.	O
 Tenía	O
 tendencia	O
 a	O
-
 agitar	O
 la	O
 mano	O

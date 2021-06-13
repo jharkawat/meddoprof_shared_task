@@ -47,7 +47,7 @@ de	O
 sintomatología	O
 psicótica	O
 
+
 DIAGNOSTICO:	O
 Psicosis	O
 Cicloides	O
-

@@ -105,4 +105,3 @@ por	O
 parte	O
 del	O
 trabajador.	B-SITUACION_LABORAL
-

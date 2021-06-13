@@ -143,6 +143,7 @@ predominio	O
 de	O
 lateralidad.	O
 
+
 Pruebas	O
 Complementarias	O
 
@@ -341,12 +342,14 @@ especificidad	O
 del	O
 100%)	O
 
+
 Diagnóstico	O
 
 Enfermedad	O
 de	O
 Creutzfeldt-Jakob	O
 esporádica	O
+
 
 Evolución	O
 
@@ -365,4 +368,3 @@ No	O
 se	O
 solicitó	O
 necropsia.	O
-

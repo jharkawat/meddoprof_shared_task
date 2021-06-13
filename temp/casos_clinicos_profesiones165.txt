@@ -118,6 +118,7 @@ administrativo	B-PROFESION
 de	I-PROFESION
 sucursal.	I-PROFESION
 
+
 A	O
 la	O
 exploración	O
@@ -224,6 +225,7 @@ y	O
 estrecho	O
 seguimiento	O
 psicológico.	O
+
 
 Ante	O
 la	O
@@ -361,4 +363,3 @@ y	O
 presenta	O
 buen	O
 pronóstico.	O
-

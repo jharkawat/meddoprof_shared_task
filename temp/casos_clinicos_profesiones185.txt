@@ -91,9 +91,11 @@ en	O
 la	O
 anamnesis.	O
 
+
 Resumen	O
 del	O
 ingreso	O
+
 
 Paciente	O
 que	O
@@ -145,6 +147,7 @@ dermatólogo	B-PROFESION
 de	O
 guardia.	O
 
+
 Exploración	O
 física:	O
 Placas	O
@@ -183,8 +186,10 @@ exploración	O
 sin	O
 alteraciones.	O
 
+
 Pruebas	O
 complentarias:	O
+
 
 Hemograma:	O
 Leucocitosis	O
@@ -211,6 +216,7 @@ Positivo	O
 sanguis	O
 >100.000UFC/ml).	O
 
+
 Estudio	O
 de	O
 complemento,	O
@@ -224,6 +230,7 @@ VHB	O
 y	O
 VHC:	O
 negativas.	O
+
 
 Biopsia	O
 de	O
@@ -304,6 +311,7 @@ pustulosis	O
 exantemática	O
 aguda.	O
 
+
 Cultivo	O
 de	O
 lesiones	O
@@ -313,7 +321,9 @@ flora	O
 comensal	O
 habitual.	O
 
+
 Evolución:	O
+
 
 La	O
 paciente	O
@@ -350,6 +360,7 @@ el	O
 urocultivo	O
 al	O
 alta.	O
+
 
 La	O
 paciente	O
@@ -406,6 +417,7 @@ evitar	O
 AINES	O
 arilpropiónicos.	O
 
+
 La	O
 paciente	O
 acude	O
@@ -444,6 +456,7 @@ S.	O
 de	O
 Alergología:	O
 
+
 Se	O
 reinicia	O
 el	O
@@ -463,6 +476,7 @@ marcada	O
 de	O
 la	O
 TA.	O
+
 
 Pruebas	O
 epicutáneas	O
@@ -524,6 +538,7 @@ y	O
 +++	O
 a	O
 96h).	O
+
 
 Se	O
 realiza	O
@@ -593,6 +608,7 @@ aplicándose	O
 dicho	O
 compuesto.	O
 
+
 Se	O
 realiza	O
 prueba	O
@@ -604,6 +620,7 @@ ibuprofeno	O
 que	O
 resulta	O
 negativa.	O
+
 
 La	O
 paciente	O
@@ -641,4 +658,3 @@ y	O
 sulfato	O
 de	O
 níquel".	O
-

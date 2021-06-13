@@ -37,6 +37,7 @@ de	O
 su	O
 empresa.	O
 
+
 Exploración	O
 física	O
 
@@ -111,6 +112,7 @@ detectarse	O
 enfermedad	O
 ósea.	O
 
+
 Diagnóstico	O
 
 El	O
@@ -124,6 +126,7 @@ próstata	O
 estadio	O
 IVa.	O
 
+
 Tratamiento	O
 
 Se	O
@@ -135,6 +138,7 @@ androgénico	O
 simple	O
 (leuprorelina	O
 semestral).	O
+
 
 Evolución	O
 
@@ -727,4 +731,3 @@ actualidad	O
 con	O
 enfermedad	O
 estable.	O
-

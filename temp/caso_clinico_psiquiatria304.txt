@@ -2,6 +2,7 @@ Motivo	O
 de	O
 consulta	O
 
+
 Paciente	O
 femenina	O
 de	O
@@ -58,11 +59,13 @@ vómitos	O
 no	O
 autoinducidos.	O
 
+
 Historia	O
 del	O
 problema	O
 y	O
 psicobiografía	O
+
 
 Paciente	O
 originaria	O
@@ -160,6 +163,7 @@ con	O
 ambos	O
 hijos.	O
 
+
 Ambos	O
 padres	O
 fallecidos,	O
@@ -246,6 +250,7 @@ importante	O
 en	O
 la	O
 paciente.	O
+
 
 Desde	O
 el	O
@@ -359,6 +364,7 @@ asistir	O
 a	O
 la	O
 boda.	O
+
 
 El	O
 marido	O
@@ -506,10 +512,12 @@ de	O
 la	O
 paciente.	O
 
+
 Antecedentes	O
 familiares	O
 y	O
 personales	O
+
 
 En	O
 la	O
@@ -886,7 +894,6 @@ de	O
 ansiedad,	O
 el	O
 médico	O
-
 de	O
 cabecera	O
 vuelve	O
@@ -960,6 +967,7 @@ apetito	O
 y	O
 malestar	O
 general.	O
+
 A	O
 principios	O
 del	O
@@ -1032,8 +1040,10 @@ a	O
 los	O
 aeropuertos.	O
 
+
 Enfermedad	O
 actual	O
+
 
 Realiza	O
 alguna	O
@@ -1176,6 +1186,7 @@ estudio	O
 y	O
 tratamiento.	O
 
+
 La	O
 evaluación	O
 psicológica	O
@@ -1262,6 +1273,7 @@ Infelicidad	O
 y	O
 Ansiedad	O
 (26/28).	O
+
 
 Exploración	O
 médica	O
@@ -1410,6 +1422,7 @@ Mirtazapina	O
 Acfol	O
 5mg/d	O
 
+
 Durante	O
 el	O
 ingreso	O
@@ -1531,4 +1544,3 @@ HLA-DQ2	O
 Desnutrición	O
 proteicocalórica	O
 severa.	O
-

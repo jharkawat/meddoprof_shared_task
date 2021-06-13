@@ -39,6 +39,7 @@ sin	O
 hallazgos	O
 patológicos	O
 
+
 Llevada	O
 por	O
 el	O
@@ -91,6 +92,7 @@ femorales	O
 y	O
 pedios	O
 
+
 Desde	O
 hacía	O
 una	O
@@ -119,6 +121,7 @@ al	O
 médico	B-PROFESION
 para	O
 valoración	O
+
 
 -ANALÍTICA	O
 
@@ -151,6 +154,7 @@ hepatitis	O
 y	O
 sífilis:	O
 negativos	O
+
 
 -TAC	O
 CRANEAL	O
@@ -194,6 +198,7 @@ cerebral	O
 media	O
 izquierda	O
 
+
 Lesiones	O
 isquémicas	O
 incipientes	O
@@ -205,6 +210,7 @@ cerebral	O
 media	O
 en	O
 TAC	O
+
 
 RM	O
 CRÁNEO	O
@@ -228,6 +234,7 @@ ANGIO	O
 RM	O
 CEREBRAL	O
 
+
 Obstrucción	O
 de	O
 carótida	O
@@ -238,6 +245,7 @@ proximal	O
 de	O
 ACM	O
 izquierda	O
+
 
 Estudio	O
 de	O
@@ -255,6 +263,7 @@ media	O
 izquierda	O
 en	O
 RM	O
+
 
 -ANGIO-RM	O
 TRONCOS	O
@@ -290,6 +299,7 @@ en	O
 carótida	O
 intracavernosa	O
 izquierda	O
+
 
 -ARTERIOGRAFÍA	O
 SELECTIVA	O
@@ -335,6 +345,7 @@ en	O
 su	O
 trayecto	O
 vertebral	O
+
 
 Se	O
 colocan	O
@@ -420,6 +431,7 @@ lederfolín	O
 comprimido/	O
 semana	O
 
+
 EVOLUCIÓN	O
 
 -En	O
@@ -473,6 +485,7 @@ a	O
 5	O
 mg/Kg	O
 
+
 TRATAMIENTO	O
 ACTUAL	O
 
@@ -513,6 +526,7 @@ desde	O
 mayo	O
 2012)	O
 
+
 EVOLUCIÓN	O
 
 -Realiza	O
@@ -531,6 +545,7 @@ depresivo	O
 secuelas	O
 motoras	O
 
+
 DIAGNÓSTICO	O
 
 ARTERITIS	O
@@ -544,4 +559,3 @@ ARTERIA	O
 CEREBRAL	O
 MEDIA	O
 IZQUIERDA	O
-

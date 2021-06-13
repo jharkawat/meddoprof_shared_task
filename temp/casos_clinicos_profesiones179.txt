@@ -124,6 +124,7 @@ para	O
 ser	O
 estudiado.	O
 
+
 •	O
 Pruebas	O
 cutáneas:	O
@@ -455,6 +456,7 @@ que	O
 resultaron	O
 negativos.	O
 
+
 RESULTADOS	O
 
 •	O
@@ -770,4 +772,3 @@ valor	O
 de	O
 la	O
 resistenciatotal.	O
-

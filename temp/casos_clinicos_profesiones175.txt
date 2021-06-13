@@ -33,6 +33,7 @@ Temporal	O
 (IT)	O
 prolongada	O
 
+
 Antecedentes	O
 
 -	O
@@ -212,6 +213,7 @@ Sin	O
 cirugías	O
 previas.	O
 
+
 Se	O
 emiten	O
 restricciones	O
@@ -254,4 +256,3 @@ trabajo	O
 y	O
 fatiga	O
 mental.	O
-

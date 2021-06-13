@@ -175,6 +175,7 @@ rítmicos	O
 y	O
 simétricos.	O
 
+
 En	O
 la	O
 segunda	O
@@ -356,6 +357,7 @@ las	O
 cuatro	O
 extremidades.	O
 
+
 El	O
 paciente	O
 ingresó	O
@@ -466,6 +468,7 @@ ni	O
 incidentes	O
 evidentes.	O
 
+
 La	O
 radiografía	O
 de	O
@@ -496,6 +499,7 @@ sondas	O
 endopleurales	O
 bilaterales.	O
 
+
 Asimismo,	O
 una	O
 radiografía	O
@@ -522,6 +526,7 @@ sugirió	O
 lesión	O
 de	O
 aorta.	O
+
 
 La	O
 tomografía	O
@@ -564,6 +569,7 @@ con	O
 neumomediastino	O
 (superior).	O
 
+
 Durante	O
 la	O
 realización	O
@@ -594,6 +600,7 @@ y	O
 mg	O
 de	O
 adrenalina.	O
+
 
 El	O
 paciente	O
@@ -693,12 +700,14 @@ para	O
 cuidados	O
 postquirúrgicos.	O
 
+
 Tratamiento	O
 del	O
 trauma	O
 penetrante	O
 de	O
 tórax	O
+
 
 El	O
 tratamiento	O
@@ -836,6 +845,7 @@ antecedentes	O
 médico-quirúrgicos,	O
 etcétera.	O
 
+
 Todos	O
 los	O
 pacientes	O
@@ -875,4 +885,3 @@ o	O
 neumotórax	O
 a	O
 tensión.	O
-

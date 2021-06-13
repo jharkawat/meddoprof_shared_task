@@ -42,6 +42,7 @@ derecha	O
 y	O
 afagia.	O
 
+
 En	O
 la	O
 anamnesis	O
@@ -110,6 +111,7 @@ lesión	O
 tumoral	O
 cervical.	O
 
+
 Su	O
 oncólogo	B-PROFESION
 responsable	O
@@ -127,6 +129,7 @@ realizar	O
 valoración	O
 nutricional	O
 completa:	O
+
 
 En	O
 el	O
@@ -194,6 +197,7 @@ de	O
 en	O
 6	O
 meses).	O
+
 
 En	O
 la	O
@@ -292,6 +296,7 @@ la	O
 luz	O
 glótica.	O
 
+
 Se	O
 prescribe	O
 de	O
@@ -349,6 +354,7 @@ concomitante	O
 con	O
 intención	O
 radical.	O
+
 
 A	O
 lo	O
@@ -484,6 +490,7 @@ con	O
 intención	O
 paliativa.	O
 
+
 En	O
 este	O
 contexto,	O
@@ -545,4 +552,3 @@ la	O
 tolerancia	O
 del	O
 paciente.	O
-

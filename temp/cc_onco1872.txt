@@ -130,6 +130,7 @@ cáncer	O
 de	O
 mama.	O
 
+
 Exploración	O
 física	O
 
@@ -206,6 +207,7 @@ Múltiples	O
 adenopatías	O
 axilares	O
 derechas.	O
+
 
 Pruebas	O
 complementarias	O
@@ -412,6 +414,7 @@ sin	O
 hallazgos	O
 de	O
 interés.	O
+
 
 Tratamiento	O
 
@@ -648,6 +651,7 @@ en	O
 ECO-FEVI	O
 de	O
 control.	O
+
 
 Evolución	O
 
@@ -977,7 +981,6 @@ del	O
 22/11/2007	O
 al	O
 13/12/2007,	O
-
 irradiación	O
 holocraneal	O
 incluyendo	O

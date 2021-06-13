@@ -57,6 +57,7 @@ en	I-PROFESION
 una	I-PROFESION
 lavandería.	I-PROFESION
 
+
 Todo	O
 el	O
 contenido	O
@@ -82,6 +83,7 @@ por	O
 los	O
 brazos.	O
 
+
 Fue	O
 derivada	O
 a	O
@@ -94,12 +96,15 @@ instaurar	O
 tratamiento	O
 farmacológico.	O
 
+
 Antecedentes	O
 Personales	O
+
 
 Sin	O
 hábitos	O
 tóxicos.	O
+
 
 Sordomuda	O
 por	O
@@ -115,9 +120,11 @@ hernia	O
 de	O
 hiato.	O
 
+
 Intervenciones	O
 quirúrgicas:	O
 apendicectomizada	O
+
 
 Antecedentes	O
 Familiares;	O
@@ -125,8 +132,10 @@ No	O
 se	O
 conocen.	O
 
+
 Antecedentes	O
 Psiquiátricos	O
+
 
 En	O
 Enero	O
@@ -154,6 +163,7 @@ dificultad	O
 en	O
 el	O
 trabajo.	O
+
 
 Se	O
 pauto	O
@@ -195,8 +205,10 @@ alta	O
 la	O
 paciente	O
 
+
 Exploración	O
 Psicopatológica	O
+
 
 Vigil,	O
 buen	O
@@ -207,13 +219,17 @@ vestida	O
 y	O
 aseada	O
 
+
 Orientada	O
+
 
 No	O
 alteraciones	O
 mnésicas	O
 
+
 Normoproséxica	O
+
 
 Animo	O
 hipotímico,	O
@@ -224,6 +240,7 @@ afectiva	O
 sin	O
 ideación	O
 autolítica	O
+
 
 Ansiedad	O
 psíquica	O
@@ -236,8 +253,10 @@ mareos.	O
 Posibles	O
 parestesias	O
 
+
 Autorreferencialidad,	O
 suspicacia.	O
+
 
 No	O
 ideación	O
@@ -247,6 +266,7 @@ si	O
 ideas	O
 sobrevaloradas	O
 
+
 Alucinaciones	O
 auditivas	O
 intrapsíquicas	O
@@ -254,6 +274,7 @@ simples,	O
 posibles	O
 alucinaciones	O
 hápticas	O
+
 
 Cogniciones	O
 depresivas:	O
@@ -263,16 +284,20 @@ sentimiento	O
 de	O
 culpa	O
 
+
 Conciencia	O
 de	O
 enfermedad	O
 
+
 Apetito	O
 conservado.	O
+
 
 Insomnio	O
 de	O
 conciliación	O
+
 
 Diagnóstico	O
 Síndrome	O
@@ -280,4 +305,3 @@ depresivo	O
 con	O
 síntomas	O
 psicóticos	O
-

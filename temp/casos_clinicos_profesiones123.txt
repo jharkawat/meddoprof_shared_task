@@ -12,6 +12,7 @@ supermercado	I-PROFESION
 País:	O
 España	O
 
+
 Motivo	O
 de	O
 consulta:	O
@@ -53,4 +54,3 @@ mama	O
 (una	O
 tía	O
 paterna)	O
-

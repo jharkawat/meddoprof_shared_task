@@ -131,6 +131,7 @@ progresivo	O
 sin	O
 prurito.	O
 
+
 Exploración	O
 física	O
 
@@ -196,6 +197,7 @@ en	O
 tronco	O
 y	O
 espalda.	O
+
 
 Exploraciones	O
 complementarias	O
@@ -271,6 +273,7 @@ ARN	O
 enterovirus:	O
 positiva.	O
 
+
 Diagnóstico	O
 
 Enfermedad	O
@@ -278,6 +281,7 @@ mano-boca-pie	O
 (MBP)	O
 en	O
 adulto.	O
+
 
 Tratamiento	O
 
@@ -300,6 +304,7 @@ dolor	O
 o	O
 fiebre.	O
 
+
 Evolución	O
 
 Resolución	O
@@ -314,4 +319,3 @@ cicatriz	O
 ni	O
 hipo/hiperpigmentación	O
 residual.	O
-

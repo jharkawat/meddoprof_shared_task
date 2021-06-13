@@ -119,6 +119,7 @@ antecedentes	O
 de	O
 inmunosupresión.	O
 
+
 Exploración	O
 física	O
 
@@ -163,6 +164,7 @@ interna	O
 de	O
 ambos	O
 muslos.	O
+
 
 Pruebas	O
 complementarias	O
@@ -219,6 +221,7 @@ en	O
 ambos	O
 casos.	O
 
+
 Diagnóstico	O
 
 El	O
@@ -231,6 +234,7 @@ contagiosum	O
 por	O
 transmisión	O
 vertical.	O
+
 
 Tratamiento	O
 
@@ -253,6 +257,7 @@ ella	O
 como	O
 el	O
 lactante.	O
+
 
 Evolución	O
 

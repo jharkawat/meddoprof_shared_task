@@ -72,6 +72,7 @@ alergias	O
 medicamentosas	O
 conocidas.	O
 
+
 Examen	O
 físico	O
 
@@ -91,6 +92,7 @@ delimitada,	O
 sospechosa	O
 de	O
 malignidad.	O
+
 
 Pruebas	O
 complementarias	O
@@ -183,6 +185,7 @@ afectación	O
 ósea	O
 metastásica.	O
 
+
 Diagnóstico	O
 
 El	O
@@ -262,6 +265,7 @@ T2c	O
 N1	O
 M0.	O
 
+
 Tratamiento	O
 
 En	O
@@ -338,6 +342,7 @@ concurrente	O
 a	O
 la	O
 radioterapia.	O
+
 
 Evolución	O
 
@@ -431,4 +436,3 @@ enfermedad	O
 tumoral	O
 en	O
 regresión.	O
-

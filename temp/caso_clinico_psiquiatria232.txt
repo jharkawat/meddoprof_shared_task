@@ -80,4 +80,3 @@ con	O
 los	O
 cuidadores	B-SITUACION_LABORAL
 principales.	O
-

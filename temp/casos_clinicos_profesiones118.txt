@@ -159,6 +159,7 @@ sufre	O
 la	O
 enfermedad.	O
 
+
 EXPLORACION	O
 Y	O
 VALORACION	O
@@ -223,6 +224,7 @@ referida	O
 al	O
 dolor.	O
 
+
 ¿Qué	O
 sensación	O
 tienes	O
@@ -251,6 +253,7 @@ un	O
 esfuerzo	O
 físico.	O
 
+
 ¿Qué	O
 síntomas	O
 tienes	O
@@ -264,6 +267,7 @@ a	O
 referirse	O
 al	O
 cansancio.	O
+
 
 Exploración	O
 física	O
@@ -435,6 +439,7 @@ equilibrio	O
 muy	O
 considerable.	O
 
+
 -	O
 Palpación:	O
 encontramos	O
@@ -494,6 +499,7 @@ nivel	O
 de	O
 los	O
 trapecios	O
+
 
 -	O
 Exploración	O
@@ -651,6 +657,7 @@ normal	O
 pero	O
 lenta.	O
 
+
 -	O
 Balance	O
 Muscular:	O
@@ -704,6 +711,7 @@ valoración	O
 de	O
 movimientos	O
 funcionales.	O
+
 
 Valoración	O
 articular.	O
@@ -834,4 +842,3 @@ de	O
 una	O
 medición	O
 analítica.	O
-

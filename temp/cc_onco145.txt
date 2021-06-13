@@ -52,6 +52,7 @@ paquetes/año).	O
 No	O
 bebedor.	O
 
+
 El	O
 paciente	O
 acude	O
@@ -175,6 +176,7 @@ M0,	O
 estadio	O
 I-B.	O
 
+
 Se	O
 indica	O
 seguimiento,	O
@@ -188,6 +190,7 @@ decide	O
 abandonar	O
 el	O
 seguimiento.	O
+
 
 Acude	O
 a	O
@@ -255,6 +258,7 @@ múltiple	O
 axilar	O
 derecha.	O
 
+
 Se	O
 realizó	O
 extirpación	O
@@ -296,6 +300,7 @@ para	O
 valorar	O
 tratamiento	O
 complementario.	O
+
 
 Exploración	O
 física	O
@@ -348,6 +353,7 @@ del	O
 examen	O
 físico	O
 normal.	O
+
 
 Pruebas	O
 complementarias	O
@@ -418,6 +424,7 @@ derechas,	O
 compatibles	O
 con	O
 metástasis.	O
+
 
 Diagnóstico	O
 
@@ -543,6 +550,7 @@ la	O
 progresión	O
 sintomática.	O
 
+
 Tratamiento	O
 
 En	O
@@ -618,6 +626,7 @@ la	O
 región	O
 interglútea	O
 G-1.	O
+
 
 En	O
 septiembre	O
@@ -720,6 +729,7 @@ derecha	O
 tras	O
 tres	O
 ciclos.	O
+
 
 En	O
 junio	O
@@ -996,6 +1006,7 @@ meses	O
 de	O
 tratamiento.	O
 
+
 Evolución	O
 
 Tras	O
@@ -1079,4 +1090,3 @@ tras	O
 meses	O
 de	O
 tratamiento.	O
-

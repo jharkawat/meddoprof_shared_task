@@ -26,6 +26,7 @@ de	O
 cuadro	O
 psicótico.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -133,6 +134,7 @@ con	O
 enfermedad	O
 mental.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 no	O
@@ -150,6 +152,7 @@ ni	O
 alergias	O
 medicamentosas	O
 conocidas.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -210,6 +213,7 @@ dependencia	O
 de	O
 sus	O
 familiares.	O
+
 
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
@@ -367,6 +371,7 @@ de	O
 la	O
 exploración.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -404,6 +409,7 @@ alteraciones	O
 de	O
 repolarización.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
@@ -411,6 +417,7 @@ paranoide	O
 resistente	O
 al	O
 tratamiento.	O
+
 
 TRATAMIENTO	O
 
@@ -625,4 +632,3 @@ dipotásico	O
 mg,	O
 si	O
 precisa.	O
-

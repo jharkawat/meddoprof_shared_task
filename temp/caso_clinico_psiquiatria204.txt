@@ -61,6 +61,7 @@ hasta	O
 ese	O
 momento.	O
 
+
 HISTORIA	O
 DEL	O
 PROBLEMA	O
@@ -269,6 +270,7 @@ en	O
 una	O
 ULE.	O
 
+
 PSICOBIOGRAFÍA	O
 
 Fue	O
@@ -366,6 +368,7 @@ el	O
 trabajo	O
 familiar.	O
 
+
 EXPLORACIÓN	O
 CLÍNICA	O
 
@@ -434,6 +437,7 @@ conciencia	O
 de	O
 enfermedad.	O
 
+
 DIAGNÓSTICO	O
 
 Trastorno	O
@@ -442,6 +446,7 @@ episodio	O
 maníaco	O
 único	O
 F.296.0	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -624,4 +629,3 @@ visadas	O
 por	O
 monitores	B-PROFESION
 ocupacionales.	O
-

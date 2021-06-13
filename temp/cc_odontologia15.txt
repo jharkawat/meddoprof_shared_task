@@ -75,6 +75,7 @@ de	O
 enfermedad	O
 periodontal.	O
 
+
 2.	O
 Diagnóstico	O
 
@@ -201,6 +202,7 @@ el	O
 diente	O
 1.1.	O
 
+
 3.	O
 Objetivo	O
 del	O
@@ -224,6 +226,7 @@ anterior	O
 del	O
 maxilar	O
 superior.	O
+
 
 4.	O
 Factores	O
@@ -281,6 +284,8 @@ de	O
 la	O
 periodontitis.	O
 
+
+
 5.	O
 Pronóstico	O
 
@@ -303,6 +308,7 @@ presentaron	O
 un	O
 buen	O
 pronóstico.	O
+
 
 6.	O
 Plan	O
@@ -889,6 +895,7 @@ una	O
 situación	O
 periodontal	O
 óptima.	O
+
 
 7.	O
 Mantenimiento	O

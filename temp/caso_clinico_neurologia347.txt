@@ -94,6 +94,7 @@ de	O
 enfermedad	O
 sistémica.	O
 
+
 Exploración	O
 física	O
 
@@ -174,6 +175,7 @@ cabeza	O
 hacia	O
 la	O
 derecha.	O
+
 
 Pruebas	O
 complementarias	O
@@ -300,6 +302,7 @@ la	O
 lesión	O
 osteofítica.	O
 
+
 Diagnóstico	O
 
 El	O
@@ -320,6 +323,7 @@ de	O
 la	O
 columna	O
 cervical.	O
+
 
 Tratamiento	O
 y	O
@@ -375,4 +379,3 @@ acudió	O
 a	O
 más	O
 revisiones.	O
-

@@ -144,6 +144,7 @@ ni	O
 semiología	O
 infecciosa.	O
 
+
 Examen	O
 físico	O
 
@@ -176,6 +177,7 @@ extremidades	O
 inferiores	O
 sin	O
 hallazgos.	O
+
 
 Pruebas	O
 complementarias	O
@@ -298,6 +300,7 @@ BHCG	O
 AFP	O
 22.048.	O
 
+
 Diagnóstico	O
 
 Tumor	O
@@ -344,6 +347,7 @@ pT3pNxM1b,	O
 estadio	O
 IIIC-S3.	O
 
+
 Tratamiento	O
 
 Se	O
@@ -374,6 +378,7 @@ factores	O
 estimuladores	O
 de	O
 colonias.	O
+
 
 Evolución	O
 
@@ -514,4 +519,3 @@ a	O
 las	O
 pocas	O
 horas.	O
-

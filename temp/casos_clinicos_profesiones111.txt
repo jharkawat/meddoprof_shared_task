@@ -72,4 +72,3 @@ zona.	O
 Incapacidad	B-SITUACION_LABORAL
 temporal	I-SITUACION_LABORAL
 (IT).	O
-

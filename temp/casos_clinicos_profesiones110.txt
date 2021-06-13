@@ -100,6 +100,7 @@ vías	O
 respiratorias	O
 altas..	O
 
+
 El	O
 día	O
 del	O
@@ -148,6 +149,7 @@ cefalea	O
 y	O
 pierde	O
 conciencia.	O
+
 
 Es	O
 llevado	O
@@ -220,6 +222,7 @@ a	O
 latidos/	O
 mi..	O
 
+
 Rx.	O
 Tórax:	O
 Aumento	O
@@ -233,6 +236,7 @@ congestión	O
 y	O
 redistribución	O
 vascular.	O
+
 
 Analítica	O
 de	O
@@ -260,6 +264,7 @@ normal.	O
 Química	O
 Básica:	O
 normal.	O
+
 
 Se	O
 instaura	O
@@ -305,6 +310,7 @@ UCI	O
 de	O
 nuestro	O
 Hospital.	O
+
 
 En	O
 nuestro	O
@@ -430,6 +436,7 @@ hemocultivos	O
 y	O
 urinocltivos.	O
 
+
 Se	O
 practican	O
 Ecocardiografía	O
@@ -483,6 +490,7 @@ y	O
 proteinograma:	O
 Normales.	O
 
+
 Serología	O
 Luética	O
 y	O
@@ -495,6 +503,7 @@ destaca	O
 microhematuria	O
 .	O
 
+
 Precisamos	O
 dos	O
 exploraciones	O
@@ -506,6 +515,7 @@ neurorradiológica,	O
 para	O
 el	O
 diagnóstico.	O
+
 
 En	O
 conclusión,	O
@@ -556,6 +566,7 @@ una	O
 endocarditis	O
 bacteriana.	O
 
+
 Las	O
 pruebas	O
 complementarias	O
@@ -581,6 +592,7 @@ una	O
 arteriografía	O
 cerebral.	O
 
+
 Diagnóstico	O
 Clínico:	O
 
@@ -603,4 +615,3 @@ arteria	O
 cerebral	O
 media	O
 izquierda.	O
-

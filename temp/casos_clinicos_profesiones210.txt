@@ -207,4 +207,3 @@ hiperplasia	O
 adenomatosa	O
 de	O
 próstata.	O
-

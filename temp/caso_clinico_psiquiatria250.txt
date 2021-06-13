@@ -188,4 +188,3 @@ potenciar	O
 la	O
 toxicidad	O
 hepática.	O
-

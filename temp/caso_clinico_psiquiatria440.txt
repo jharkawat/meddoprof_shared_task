@@ -18,6 +18,7 @@ mental	O
 leve	O
 (CIE-10).	O
 
+
 ANTECEDENTES	O
 
 Presenta	O
@@ -79,6 +80,7 @@ paliperidona	O
 12	O
 mg/día).	O
 
+
 MOTIVO	O
 DE	O
 CONSULTA	O
@@ -127,6 +129,7 @@ en	O
 sala	O
 de	O
 Agudos.	O
+
 
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
@@ -254,6 +257,7 @@ de	O
 su	O
 vida.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
@@ -263,6 +267,7 @@ retraso	O
 mental	O
 leve	O
 (CIE-10).	O
+
 
 TRATAMIENTO	O
 
@@ -403,4 +408,3 @@ y	O
 la	O
 buena	O
 tolerancia.	O
-

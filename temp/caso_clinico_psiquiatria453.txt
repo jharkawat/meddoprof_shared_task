@@ -19,6 +19,7 @@ de	O
 difícil	O
 control.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -71,6 +72,7 @@ fallecido	O
 por	O
 ahorcamiento.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 seguimiento	O
@@ -94,6 +96,7 @@ subcutáneo	O
 de	O
 etonogestrel	O
 trianual.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -293,6 +296,7 @@ fomentar	O
 la	O
 autonomía.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -416,6 +420,7 @@ hallazgos	O
 clínicos	O
 significativos.	O
 
+
 DIAGNÓSTICO	O
 
 Al	O
@@ -519,6 +524,7 @@ las	O
 pruebas	O
 psicométricas	O
 realizadas.	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -719,4 +725,3 @@ mg:	O
 antes	O
 de	O
 dormir.	O
-

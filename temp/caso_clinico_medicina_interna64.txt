@@ -349,7 +349,6 @@ tanto,	O
 el	O
 paciente	O
 persistía	O
-
 con	O
 fiebre	O
 vespertina	O

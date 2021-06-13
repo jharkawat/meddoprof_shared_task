@@ -57,6 +57,7 @@ solicitándose	O
 estudios	O
 complementarios.	O
 
+
 A	O
 su	O
 ingreso:	O
@@ -144,6 +145,7 @@ pérdida	O
 de	O
 sustancia.	O
 
+
 Terapéutica:	O
 se	O
 realiza	O
@@ -170,6 +172,7 @@ las	O
 maniobras	O
 de	O
 reanimación.	O
+
 
 En	O
 este	O
@@ -236,4 +239,3 @@ la	O
 caída	O
 de	O
 altura.	O
-

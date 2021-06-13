@@ -194,4 +194,3 @@ derrame	O
 pleural	O
 derecho	O
 leve.	O
-

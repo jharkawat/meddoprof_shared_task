@@ -90,6 +90,7 @@ una	O
 cardiopatía	O
 isquémica.	O
 
+
 Desde	O
 este	O
 episodio	O
@@ -113,6 +114,7 @@ con	O
 un	O
 buen	O
 cumplimiento.	O
+
 
 Desde	O
 nuestra	O
@@ -223,6 +225,7 @@ por	O
 un	O
 proceso	O
 catarral.	O
+
 
 Tras	O
 venir	O
@@ -355,6 +358,7 @@ especialista	B-PROFESION
 de	O
 digestivo.	O
 
+
 Mientras	O
 el	O
 paciente	O
@@ -456,6 +460,7 @@ analítica	O
 en	O
 3	O
 meses.	O
+
 
 Pero	O
 debido	O
@@ -604,6 +609,7 @@ nuevo	O
 al	O
 hospital.	O
 
+
 Dos	O
 días	O
 más	O
@@ -730,6 +736,7 @@ anti-mitocondriales	O
 y	O
 anti-LKM1.	O
 
+
 El	O
 paciente	O
 es	O
@@ -787,6 +794,7 @@ hepática	O
 salvo	O
 GGT	O
 217.	O
+
 
 Característicamente	O
 el	O
@@ -910,4 +918,3 @@ la	O
 membrana	O
 del	O
 eritrocito.	O
-

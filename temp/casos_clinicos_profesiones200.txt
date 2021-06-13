@@ -3,6 +3,7 @@ de	O
 81	O
 años	O
 
+
 •	O
 Antecedentes	O
 de:	O
@@ -32,6 +33,7 @@ C4-C6)	O
 -	O
 Artrosis	O
 
+
 Hábitos	O
 tóxicos:	O
 un	O
@@ -44,6 +46,7 @@ en	O
 la	O
 comida.	O
 
+
 Intervenciones	O
 quirúrgicas:	O
 Cataratas,	O
@@ -51,6 +54,7 @@ estenosis	O
 del	O
 canal	O
 cervical	O
+
 
 Medicación:	O
 Valsartan	O
@@ -83,6 +87,7 @@ Etnia:	O
 raza	O
 blanca	O
 
+
 Historia	O
 Laboral:	O
 fábrica	I-PROFESION
@@ -96,6 +101,7 @@ a	O
 los	O
 59	O
 años.	O
+
 
 Enfermedad	O
 actual:	O
@@ -189,6 +195,7 @@ a	O
 la	O
 derecha	O
 
+
 SUH	O
 EF:	O
 Estrabismo	O
@@ -250,6 +257,7 @@ insulinoterapia	O
 Parche	O
 ocular	O
 
+
 PLAN	O
 DE	O
 INTERVENCION	O
@@ -289,6 +297,7 @@ dependencia	O
 del	O
 paciente	O
 
+
 Domicilio	O
 
 Planta	O
@@ -317,4 +326,3 @@ años	O
 Situación	O
 socio-económica:	O
 media-baja	O
-

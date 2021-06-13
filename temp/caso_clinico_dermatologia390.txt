@@ -55,6 +55,7 @@ Trabaja	O
 de	O
 limpiadora.	B-PROFESION
 
+
 Exploración	O
 física	O
 
@@ -176,6 +177,7 @@ de	O
 otras	O
 localizaciones.	O
 
+
 Exploraciones	O
 complementarias	O
 
@@ -183,11 +185,13 @@ No	O
 se	O
 precisan.	O
 
+
 Diagnóstico	O
 
 Síndrome	O
 de	O
 Laugier-Hunziker.	O
+
 
 Tratamiento	O
 y	O
@@ -210,4 +214,3 @@ con	O
 repercusión	O
 puramente	O
 estética.	O
-

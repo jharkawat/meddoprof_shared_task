@@ -53,6 +53,7 @@ administrativo	I-PROFESION
 desde	O
 2007.	O
 
+
 En	O
 la	O
 última	O
@@ -201,4 +202,3 @@ objetivo	O
 por	O
 ineptitud	O
 sobrevenida.	O
-

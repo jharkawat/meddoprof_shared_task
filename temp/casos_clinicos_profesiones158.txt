@@ -208,4 +208,3 @@ realizando	O
 exitosamente	O
 su	O
 especialidad.	O
-

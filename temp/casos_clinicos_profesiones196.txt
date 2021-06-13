@@ -165,6 +165,7 @@ el	O
 cuadro	O
 actual.	O
 
+
 Al	O
 examen	O
 físico:	O
@@ -272,6 +273,7 @@ conciencia	O
 del	O
 paciente.	O
 
+
 Planteamiento	O
 clínico	O
 
@@ -336,6 +338,7 @@ relacionen	O
 con	O
 enfermedad	O
 actual.	O
+
 
 Recomendaciones	O
 al	O
@@ -414,4 +417,3 @@ ante	O
 la	O
 autoridad	O
 competente.	O
-

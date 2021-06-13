@@ -429,7 +429,6 @@ para	O
 dormir,	O
 se	O
 despertaba	O
-
 temprano	O
 y	O
 se	O

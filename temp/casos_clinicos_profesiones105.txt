@@ -29,6 +29,7 @@ apartada	O
 del	O
 país.	O
 
+
 Al	O
 ser	O
 recibido	O
@@ -104,6 +105,7 @@ brindó	O
 soporte	O
 múltiple.	O
 
+
 Durante	O
 el	O
 manejo	O
@@ -164,6 +166,7 @@ proceso	O
 séptico	O
 secundario.	O
 
+
 Durante	O
 la	O
 evolución	O
@@ -221,6 +224,7 @@ de	O
 la	O
 necrosis.	O
 
+
 Por	O
 la	O
 extensión	O
@@ -271,6 +275,7 @@ cuales	O
 tuvieron	O
 adecuada	O
 evolución.	O
+
 
 A	O
 nivel	O
@@ -328,6 +333,7 @@ de	O
 piel	O
 parcial.	O
 
+
 El	O
 paciente	O
 presentó	O
@@ -380,4 +386,3 @@ ortopedia,	O
 nutrición	O
 y	O
 nefrología.	O
-

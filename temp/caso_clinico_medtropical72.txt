@@ -65,6 +65,7 @@ red	O
 de	O
 pigmento.	O
 
+
 Con	O
 la	O
 sospecha	O
@@ -119,6 +120,7 @@ indicativas	O
 de	O
 hongos	O
 dematiáceos.	O
+
 
 Los	O
 cultivos	O
@@ -233,6 +235,7 @@ hifas	O
 antes	O
 descritas.	O
 
+
 En	O
 el	O
 caso	O
@@ -308,4 +311,3 @@ werneckii	O
 y	O
 Exophiala	O
 werneckii).	O
-

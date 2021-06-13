@@ -50,9 +50,12 @@ marzo	O
 del	O
 2007	O
 
+
+
 Fuentes	O
 de	O
 información.	O
+
 
 Es	O
 la	O
@@ -66,6 +69,7 @@ en	O
 3	O
 entrevistas.	O
 
+
 La	O
 madre	O
 de	O
@@ -78,9 +82,11 @@ en	O
 dos	O
 entrevistas.	O
 
+
 Motivo	O
 de	O
 internación.	O
+
 
 Ha	O
 sido	O
@@ -104,6 +110,7 @@ de	O
 su	O
 ingreso	O
 fueron:	O
+
 
 "Vomito	O
 todos	O
@@ -140,11 +147,13 @@ desesperanza	O
 e	O
 impotencia	O
 
+
 Historia	O
 de	O
 la	O
 enfermedad	O
 actual.	O
+
 
 Paciente	O
 con	O
@@ -307,6 +316,7 @@ la	O
 consideraban	O
 gorda.	O
 
+
 "Yo	O
 era	O
 coqueta"	O
@@ -362,6 +372,7 @@ a	O
 la	O
 basura.	O
 
+
 Durante	O
 este	O
 tiempo	O
@@ -396,6 +407,7 @@ lapso	O
 de	O
 10	O
 años.	O
+
 
 Comienza	B-PROFESION
 a	I-PROFESION
@@ -554,6 +566,7 @@ mano	O
 y	O
 los	O
 dedos.	O
+
 
 Las	O
 actividades	O
@@ -742,6 +755,7 @@ y	O
 su	O
 medicación.	O
 
+
 Con	O
 esta	O
 conducta	O
@@ -897,6 +911,7 @@ fácil	O
 de	O
 vomitarlos.	O
 
+
 A	O
 los	O
 23	O
@@ -985,6 +1000,7 @@ no	O
 preocupo	O
 de	O
 inicio.	O
+
 
 Empezó	O
 a	O
@@ -1131,6 +1147,7 @@ de	O
 su	O
 embarazo.	O
 
+
 Después	O
 de	O
 su	O
@@ -1270,6 +1287,7 @@ todo	O
 el	O
 día.	O
 
+
 Su	O
 primera	O
 internación	O
@@ -1400,6 +1418,7 @@ un	O
 trazo	O
 normal.	O
 
+
 Por	O
 el	O
 estado	O
@@ -1527,6 +1546,7 @@ de	I-PROFESION
 enfermería	I-PROFESION
 era	O
 deficiente.	O
+
 
 Aparentemente	O
 en	O
@@ -1660,6 +1680,7 @@ se	O
 de	O
 ella".	O
 
+
 En	O
 su	O
 casa	O
@@ -1769,6 +1790,7 @@ delgada	O
 y	O
 pálida.	O
 
+
 En	O
 fecha	O
 19	O
@@ -1874,6 +1896,7 @@ en	O
 el	O
 servicio.	O
 
+
 Fue	O
 evaluada	O
 e	O
@@ -1957,8 +1980,10 @@ separarse	O
 de	O
 él.	O
 
+
 Historia	O
 personal.	O
+
 
 Paciente	O
 producto	O
@@ -2038,6 +2063,7 @@ por	O
 3	O
 años	O
 consecutivos.	O
+
 
 Posteriormente	O
 continuó	O
@@ -2145,6 +2171,7 @@ en	I-PROFESION
 una	I-PROFESION
 fotocopiadora.	I-PROFESION
 
+
 Se	O
 casó	O
 a	O
@@ -2234,6 +2261,7 @@ familia	O
 en	O
 forma	O
 independiente.	O
+
 
 El	O
 año	O
@@ -2405,8 +2433,10 @@ atrae	O
 este	O
 tema.	O
 
+
 Antecedentes	O
 familiares.	O
+
 
 Padre:	O
 de	O
@@ -2501,6 +2531,7 @@ con	O
 la	O
 paciente.	O
 
+
 Madre:	O
 de	O
 59	O
@@ -2558,6 +2589,7 @@ madre	O
 es	O
 buena.	O
 
+
 Los	O
 Padres	O
 de	O
@@ -2614,6 +2646,7 @@ de	O
 la	O
 paciente.	O
 
+
 Es	O
 la	O
 última	O
@@ -2625,14 +2658,17 @@ padre	O
 y	O
 madre.	O
 
+
 Antecedentes	O
 personales	O
 patológicos.	O
+
 
 No	O
 refiere	O
 antecedentes	O
 quirúrgicos.	O
+
 
 Diagnosticada	O
 y	O
@@ -2680,6 +2716,7 @@ en	O
 el	O
 HMI.	O
 
+
 No	O
 tabaquismo.	O
 No	O
@@ -2691,8 +2728,10 @@ haber	O
 consumido	O
 drogas.	O
 
+
 Antecedentes	O
 gineco-obstétricos.	O
+
 
 Menarquia:	O
 13	O
@@ -2765,10 +2804,12 @@ a	O
 6	O
 días.	O
 
+
 Examen	O
 físico	O
 de	O
 ingreso.	O
+
 
 Paciente	O
 en	O
@@ -2817,6 +2858,7 @@ corporal	O
 13.3	O
 kg/m2.	O
 
+
 Cabeza	O
 normocránea,	O
 relación	O
@@ -2854,6 +2896,7 @@ tiroides	O
 de	O
 aspecto	O
 normal.	O
+
 
 Tórax	O
 simétrico,	O
@@ -2897,6 +2940,7 @@ Ruidos	O
 hidroaéreos	O
 normoactivos.	O
 
+
 Genitourinario:	O
 puñopersusión	O
 bilateral	O
@@ -2921,6 +2965,7 @@ varicosos.	O
 Relieves	O
 óseos	O
 realzados.	O
+
 
 Al	O
 examen	O
@@ -2981,10 +3026,12 @@ normal.	O
 Romberg	O
 negativo.	O
 
+
 Examen	O
 mental	O
 de	O
 ingreso.	O
+
 
 Paciente	O
 con	O
@@ -3086,9 +3133,11 @@ ni	O
 alteraciones	O
 sensoperceptivas.	O
 
+
 Diagnóstico	O
 de	O
 ingreso.	O
+
 
 Ejes:	O
 
@@ -3116,9 +3165,11 @@ actual	O
 del	O
 55%.	O
 
+
 Examen	O
 físico	O
 actual.	O
+
 
 Paciente	O
 en	O
@@ -3168,6 +3219,7 @@ corporal	O
 (IMC)	O
 13.13	O
 kg/m2.	O
+
 
 Cabeza	O
 normocránea,	O
@@ -3288,6 +3340,7 @@ y	O
 medios	O
 (-).	O
 
+
 Miembros	O
 con	O
 tono,	O
@@ -3312,9 +3365,11 @@ de	O
 masas	O
 musculares.	O
 
+
 El	O
 examen	O
 neurológico:	O
+
 
 Examen	O
 del	O
@@ -3388,6 +3443,7 @@ escritura	O
 y	O
 repetición.	O
 
+
 Exploración	O
 de	O
 los	O
@@ -3395,6 +3451,7 @@ pares	O
 craneales:	O
 sin	O
 alteraciones.	O
+
 
 Exploración	O
 del	O
@@ -3444,9 +3501,11 @@ Dominancia	O
 cerebral	O
 derecha.	O
 
+
 Examen	O
 mental	O
 actual.	O
+
 
 Con	O
 aseo	O
@@ -3647,7 +3706,9 @@ sensoperceptivas	O
 al	O
 momento.	O
 
+
 Diagnóstico.	O
+
 
 Ejes:	O
 
@@ -3706,6 +3767,7 @@ actual	O
 del	O
 60%.	O
 
+
 Justificación	O
 diagnóstica.	O
 
@@ -3720,4 +3782,3 @@ F	O
 DSM	O
 IV:	O
 307.1).	O
-

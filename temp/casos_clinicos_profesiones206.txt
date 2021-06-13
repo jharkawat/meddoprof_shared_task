@@ -54,6 +54,7 @@ tratamiento	O
 de	O
 base.	O
 
+
 Se	O
 realizó	O
 una	O
@@ -93,6 +94,7 @@ positiva	O
 para	O
 el	O
 virus.	O
+
 
 Ante	O
 el	O
@@ -205,6 +207,7 @@ los	O
 parámetros	O
 normales.	O
 
+
 Así	O
 mismo,	O
 fue	O
@@ -284,6 +287,7 @@ del	O
 propio	O
 proceso	O
 respiratorio.	O
+
 
 Se	O
 planificó	O
@@ -374,6 +378,7 @@ provisión	O
 de	O
 material,	O
 etc.	O
+
 
 La	O
 paciente	O
@@ -483,6 +488,7 @@ toda	O
 la	O
 intervención.	O
 
+
 La	O
 posición	O
 en	O
@@ -580,6 +586,7 @@ conexión	O
 a	O
 OAF.	O
 
+
 Finalmente	O
 fue	O
 trasladada	O
@@ -597,6 +604,7 @@ la	O
 terapia	O
 con	O
 OAF.	O
+
 
 El	O
 neonato	O
@@ -687,6 +695,7 @@ negativas	O
 para	O
 COVID-19.	O
 
+
 En	O
 las	O
 siguientes	O
@@ -759,6 +768,7 @@ los	O
 parámetros	O
 normales.	O
 
+
 A	O
 las	O
 48	O
@@ -813,4 +823,3 @@ de	O
 esta	O
 resultó	O
 negativa.	O
-

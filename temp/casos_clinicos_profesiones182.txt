@@ -12,6 +12,7 @@ tos	O
 y	O
 disnea.	O
 
+
 ANTECEDENTES:	O
 
 -	O
@@ -212,6 +213,7 @@ Medicación	O
 Habitual:	O
 Ninguna	O
 
+
 ENFERMEDAD	O
 ACTUAL:	O
 Inicia	O
@@ -374,6 +376,7 @@ peso,	O
 no	O
 expectoración.	O
 
+
 EXPLORACIÓN	O
 FÍSICA:	O
 PA:	O
@@ -493,6 +496,7 @@ sensitivo,	O
 no	O
 signos	O
 meníngeos.	O
+
 
 EXAMENES	O
 AUXILIARES:	O
@@ -670,6 +674,7 @@ no	O
 se	O
 detecta;	O
 
+
 -	O
 MICROBIOLOGÍA	O
 
@@ -758,4 +763,3 @@ Se	O
 realiza	O
 procedimiento	O
 diagnóstico.	O
-

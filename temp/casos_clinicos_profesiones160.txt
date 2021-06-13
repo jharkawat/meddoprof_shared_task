@@ -167,4 +167,3 @@ mantiene	O
 asintomática	O
 sin	O
 medicación.	O
-

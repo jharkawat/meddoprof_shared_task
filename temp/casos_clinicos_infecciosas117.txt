@@ -96,6 +96,7 @@ ingreso	O
 al	O
 hospital.	O
 
+
 El	O
 examen	O
 físico	O
@@ -177,6 +178,7 @@ por	O
 la	O
 paciente.	O
 
+
 Exámenes	O
 de	O
 laboratorio:	O
@@ -246,6 +248,7 @@ Valencia	O
 CA	O
 USA).	O
 
+
 A	O
 la	O
 paciente	O
@@ -266,6 +269,7 @@ neurológicas,	O
 reumatológicas	O
 ni	O
 hepáticas.	O
+
 
 Exámenes	O
 de	O
@@ -303,4 +307,3 @@ Hospital	O
 México,	O
 Costa	O
 Rica)	O
-

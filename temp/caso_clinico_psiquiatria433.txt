@@ -34,6 +34,7 @@ psicólogos	B-PROFESION
 clínicos,	I-PROFESION
 etc.	O
 
+
 ANTECEDENTES	O
 
 El	O
@@ -718,6 +719,7 @@ nivel	O
 de	O
 tolerancia.	O
 
+
 TESTS	O
 
 Recuentos	O
@@ -756,6 +758,7 @@ los	O
 niveles	O
 de	O
 cortisol.	O
+
 
 DIAGNÓSTICO	O
 
@@ -973,6 +976,7 @@ periodo	O
 de	O
 elaboración.	O
 
+
 TRATAMIENTO	O
 
 Fuera	O
@@ -1051,4 +1055,3 @@ a	O
 partir	O
 de	O
 ahora.	O
-

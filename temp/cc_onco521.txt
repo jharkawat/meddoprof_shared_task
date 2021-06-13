@@ -215,6 +215,7 @@ actina+/-,	O
 inhibina+/-	O
 focal.	O
 
+
 Exploración	O
 física	O
 
@@ -253,6 +254,7 @@ dentro	O
 de	O
 la	O
 normalidad.	O
+
 
 Pruebas	O
 complementarias	O
@@ -334,6 +336,7 @@ de	O
 implantes	O
 peritoneales.	O
 
+
 Diagnóstico	O
 
 Tumor	O
@@ -350,6 +353,7 @@ IV	O
 hepática	O
 y	O
 peritoneal).	O
+
 
 Tratamiento	O
 
@@ -385,6 +389,7 @@ consensúa	O
 seguimiento	O
 clínico	O
 estrecho.	O
+
 
 Evolución	O
 
@@ -822,4 +827,3 @@ pendiente	O
 de	O
 nueva	O
 reevaluación.	O
-

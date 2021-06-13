@@ -91,6 +91,7 @@ apto	O
 con	O
 limitaciones.	O
 
+
 Entre	O
 sus	O
 antecedentes	O
@@ -207,6 +208,7 @@ insulina	O
 tipo	O
 Humalog®.	O
 
+
 En	O
 la	O
 exploración	O
@@ -290,6 +292,7 @@ de	O
 tiroides	O
 micronodular.	O
 
+
 Con	O
 respecto	O
 al	O
@@ -369,6 +372,7 @@ almacenamiento	O
 normales	O
 de	O
 glucosa.	O
+
 
 La	O
 trabajadora	O
@@ -509,6 +513,7 @@ con	O
 tratamiento	O
 insulínico.	O
 
+
 Desde	O
 el	O
 Servicio	O
@@ -625,4 +630,3 @@ de	O
 periódicas	O
 revisiones	O
 médicas.	O
-

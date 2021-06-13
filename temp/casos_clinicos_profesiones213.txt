@@ -89,6 +89,7 @@ el	O
 consentimiento	O
 informado.	O
 
+
 En	O
 la	O
 valoración	O
@@ -154,6 +155,7 @@ CVRS,	O
 mediante	O
 encuesta	O
 EuroQol-5D.	O
+
 
 Para	O
 la	O
@@ -228,6 +230,7 @@ realización	O
 del	O
 ejercicio	O
 terapéutico.	O
+
 
 La	O
 intervención	O
@@ -313,6 +316,7 @@ en	O
 su	O
 domicilio.	O
 
+
 El	O
 grado	O
 de	O
@@ -342,6 +346,7 @@ de	O
 CNP	O
 vía	O
 telefónica.	O
+
 
 La	O
 evolución	O
@@ -415,6 +420,7 @@ el	O
 paciente	O
 estuvo	O
 afebril.	O
+
 
 Se	O
 destaca	O
@@ -504,4 +510,3 @@ visual	O
 analógica	O
 del	O
 EuroQol-5D.	O
-

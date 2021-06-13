@@ -81,6 +81,7 @@ durante	O
 una	O
 semana.	O
 
+
 A	O
 las	O
 3	O
@@ -123,6 +124,7 @@ y	O
 sin	O
 factor	O
 predisponente.	O
+
 
 Acudió	O
 al	O
@@ -214,6 +216,7 @@ posición	O
 de	O
 bloqueo.	O
 
+
 Durante	O
 la	O
 valoración	O
@@ -260,6 +263,7 @@ y	O
 sin	O
 contraste.	O
 
+
 En	O
 la	O
 exploración	O
@@ -287,6 +291,7 @@ anticuerpo	O
 IgG	O
 era	O
 positivo.	O
+
 
 En	O
 el	O
@@ -322,4 +327,3 @@ espaciados	O
 en	O
 el	O
 tiempo.	O
-

@@ -746,6 +746,7 @@ Barbado	O
 Variables	O
 disposicionales	O
 
+
 Dentro	O
 de	O
 su	O
@@ -1007,11 +1008,13 @@ tiene	O
 tiempo	O
 libre.	O
 
+
 Variables	O
 funcionales:	O
 atracones	O
 y	O
 vómitos	O
+
 
 Hipótesis	O
 de	O
@@ -1176,11 +1179,13 @@ por	O
 las	O
 mismas.	O
 
+
 Variables	O
 funcionales:	O
 ingesta	O
 de	O
 alcohol	O
+
 
 Hipótesis	O
 de	O
@@ -1442,6 +1447,7 @@ de	O
 la	O
 intervención.	O
 
+
 Tratamiento	O
 
 Con	O
@@ -1460,6 +1466,7 @@ de	O
 objetivos	O
 de	O
 tratamiento:	O
+
 
 Fomentar	O
 un	O
@@ -1719,6 +1726,7 @@ por	O
 buscar	O
 pareja.	O
 
+
 Para	O
 lograr	O
 estos	O
@@ -1752,6 +1760,7 @@ tareas	O
 para	O
 la	O
 semana:	O
+
 
 El	O
 objetivo	O
@@ -2003,6 +2012,7 @@ de	O
 los	O
 demás	O
 objetivos.	O
+
 
 Un	O
 objetivo	O
@@ -2306,6 +2316,7 @@ y	O
 Cortés-Tomás,	O
 2008).	O
 
+
 Resultados	O
 
 Para	O
@@ -2368,6 +2379,7 @@ calendario	O
 de	O
 organización	O
 conductual.	O
+
 
 A	O
 lo	O
@@ -2653,6 +2665,7 @@ claras	O
 de	O
 cerveza.	O
 
+
 El	O
 exceso	O
 percibido	O
@@ -2755,6 +2768,7 @@ cuándo	O
 dejar	O
 de	O
 beber.	O
+
 
 En	O
 la	O

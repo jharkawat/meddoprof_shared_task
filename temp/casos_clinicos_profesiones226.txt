@@ -327,7 +327,6 @@ en	O
 pectíneo,	O
 ileopsoas,	O
 cuádriceps	O
-
 y	O
 aductores	O
 del	O
@@ -357,6 +356,7 @@ facetaria	O
 a	O
 nivel	O
 lumbar.	O
+
 El	O
 dolor	O
 es	O
@@ -413,6 +413,7 @@ bilateral.	O
 −	O
 Espondiloartrosis	O
 lumbar.	O
+
 
 Tras	O
 evaluación	O
@@ -501,6 +502,7 @@ cada	O
 24	O
 horas.	O
 
+
 Se	O
 realizaron	O
 revisiones	O
@@ -578,4 +580,3 @@ control	O
 del	O
 tratamiento	O
 analgésico.	O
-

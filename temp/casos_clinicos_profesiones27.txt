@@ -424,7 +424,6 @@ con	O
 diagnóstico	O
 de	O
 esquizofrenia.	O
-
 Tanto	O
 la	O
 paciente	O

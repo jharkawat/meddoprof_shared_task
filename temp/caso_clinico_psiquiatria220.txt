@@ -39,6 +39,7 @@ ingreso	O
 en	O
 UCI.	O
 
+
 Situación	O
 sociofamiliar	O
 
@@ -72,6 +73,7 @@ en	O
 las	O
 relaciones	O
 interpersonales.	O
+
 
 Situación	O
 laboral,	O
@@ -116,6 +118,7 @@ patológico	O
 hace	O
 2	O
 meses.	O
+
 
 Situación	O
 judicial	O
@@ -171,6 +174,7 @@ del	O
 dictamen	O
 del	O
 fiscal.	B-PROFESION
+
 
 Historia	O
 toxicológica	O
@@ -264,6 +268,7 @@ a	O
 la	O
 pareja.	O
 
+
 Antecedentes	O
 somáticos	O
 
@@ -286,6 +291,7 @@ VIH,	O
 VHC	O
 y	O
 VHB.	O
+
 
 Evolución	O
 
@@ -1066,6 +1072,8 @@ personalidad	O
 y	O
 acepta.	O
 
+
+
 Diagnóstico	O
 
 La	O
@@ -1185,4 +1193,3 @@ Trastorno	O
 límite	O
 de	O
 personalidad.	O
-

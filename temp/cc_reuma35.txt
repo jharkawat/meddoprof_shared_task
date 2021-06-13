@@ -158,4 +158,3 @@ tomografía	O
 sólo	O
 mostró	O
 hepatoesplenomegalia.	O
-

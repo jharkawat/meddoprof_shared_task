@@ -126,6 +126,7 @@ no	O
 realiza	O
 tratamiento.	O
 
+
 EXPLORACIÓN	O
 Y	O
 PRUEBAS	O
@@ -190,6 +191,7 @@ ni	O
 heteroagresividad	O
 fisica.	O
 
+
 -Pruebas	O
 complementarias:	O
 
@@ -212,6 +214,7 @@ negativo.	O
 -Resto	O
 sin	O
 alteraciones.	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -274,6 +277,7 @@ psicóticos.	O
 -Otros	O
 trastornos	O
 psicóticos.	O
+
 
 El	O
 caso	O
@@ -359,4 +363,3 @@ psicosis	O
 de	O
 la	O
 paciente.	O
-

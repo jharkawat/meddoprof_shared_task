@@ -112,6 +112,7 @@ en	O
 11	O
 puntos).	O
 
+
 Al	O
 interrogatorio	O
 posterior,	O
@@ -207,6 +208,7 @@ sin	O
 encontrar	O
 mejoría.	O
 
+
 Al	O
 ingreso	O
 se	O
@@ -278,6 +280,7 @@ paquetes	O
 globulares	O
 adicionales.	O
 
+
 Las	O
 pruebas	O
 de	O
@@ -314,6 +317,7 @@ el	O
 tiempo	O
 de	O
 hospitalización.	O
+
 
 Al	O
 octavo	O
@@ -354,6 +358,7 @@ infestación	O
 parasitaria	O
 del	O
 colon.	O
+
 
 Se	O
 inicia	O
@@ -423,4 +428,3 @@ séptimo	O
 día	O
 de	O
 tratamiento.	O
-

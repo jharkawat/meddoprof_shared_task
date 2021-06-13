@@ -46,6 +46,7 @@ en	O
 Salud	O
 Mental.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -165,6 +166,7 @@ con	O
 el	O
 tiempo.	O
 
+
 ENFERMEDAD	O
 ACTUAL	O
 
@@ -276,6 +278,7 @@ hospital	O
 lo	O
 hice	O
 yo".	O
+
 
 EXPLORACIÓN	O
 PSICOPATÓLOGICA	O
@@ -421,6 +424,7 @@ sueño	O
 ni	O
 apetito.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -470,6 +474,7 @@ sin	O
 hallazgos	O
 patológicos.	O
 
+
 DIAGNÓSTICO	O
 
 En	O
@@ -511,6 +516,7 @@ visión	O
 longitudinal	O
 del	O
 paciente.	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -802,4 +808,3 @@ realidad	O
 de	O
 los	O
 demás.	O
-

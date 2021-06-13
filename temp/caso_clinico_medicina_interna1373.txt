@@ -112,6 +112,7 @@ enzimas	O
 de	O
 colestasis.	O
 
+
 Diagnóstico	O
 diferencial.	O
 
@@ -191,6 +192,7 @@ tabaquismo,	O
 inflamación	O
 crónica,	O
 sarcoidosis..).	O
+
 
 Discusión	O
 y	O
@@ -386,4 +388,3 @@ una	O
 presentación	O
 completamente	O
 excepcional.	O
-

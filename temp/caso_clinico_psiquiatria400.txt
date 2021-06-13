@@ -19,6 +19,7 @@ el	O
 momento	O
 actual.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -157,6 +158,7 @@ trabajadora	O
 y	O
 suspicaz.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 parto	O
@@ -194,6 +196,7 @@ ferropénica.Sin	O
 hábitos	O
 tóxicos.	O
 
+
 Antecedentes	O
 familiares:	O
 por	O
@@ -220,6 +223,7 @@ diagnosticado	O
 de	O
 retraso	O
 mental.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -450,6 +454,8 @@ pautándose	O
 tratamiento	O
 con	O
 metilfenidato.	O
+
+
 
 ENFERMEDAD	O
 ACTUAL	O
@@ -816,6 +822,7 @@ el	O
 examen	O
 práctico.	O
 
+
 TESTS	O
 
 Se	O
@@ -905,6 +912,8 @@ hemograma,	O
 no	O
 detectándose	O
 alteraciones.	O
+
+
 
 DIAGNÓSTICO	O
 
@@ -996,6 +1005,7 @@ ansioso,	O
 TDAH,	O
 etc.).	O
 
+
 TRATAMIENTO	O
 
 Clozapina	O
@@ -1015,4 +1025,3 @@ cabergolina	O
 (1	O
 toma	O
 semanal).	O
-

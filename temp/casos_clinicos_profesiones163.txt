@@ -97,6 +97,7 @@ cuales	O
 permanecía	O
 asintomática.	O
 
+
 Se	O
 recibió	O
 información	O
@@ -122,6 +123,7 @@ de	O
 exposición	O
 ambiental.	O
 
+
 La	O
 paciente	O
 fue	O
@@ -144,6 +146,7 @@ descarte	O
 de	O
 etiología	O
 extralaboral.	O
+
 
 Se	O
 realizaron	O
@@ -231,6 +234,7 @@ y	O
 tardía	O
 respectivamente.	O
 
+
 Las	O
 SPT	O
 y	O
@@ -253,6 +257,7 @@ FEV1/FVC	O
 con	O
 PBD	O
 negativa.	O
+
 
 Controles	O
 seriados	O
@@ -282,6 +287,7 @@ con	O
 dichas	O
 sustancias.	O
 
+
 Seguimiento	O
 de	O
 PF	O
@@ -304,6 +310,7 @@ L/min	O
 cese	O
 de	O
 exposición).	O
+
 
 PBE	O
 con	O
@@ -352,6 +359,7 @@ con	O
 PBD	O
 positiva).	O
 
+
 Espirometría	O
 de	O
 control	O
@@ -370,4 +378,3 @@ FEV1	O
 con	O
 PBD	O
 negativa.	O
-

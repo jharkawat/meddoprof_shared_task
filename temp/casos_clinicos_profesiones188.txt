@@ -152,6 +152,7 @@ pipas	O
 de	O
 girasol.	O
 
+
 Pruebas	O
 cutáneas	O
 
@@ -173,6 +174,7 @@ Negativo	O
 Sésamo,	O
 mostaza:	O
 Positivo	O
+
 
 Prick-prick	O
 
@@ -199,6 +201,7 @@ sin	O
 alcohol:	O
 Negativo	O
 
+
 Exploración	O
 física:	O
 
@@ -218,6 +221,7 @@ alteraciones.	O
 No	O
 lesiones	O
 cutáneas.	O
+
 
 Estudio	O
 alergológico	O
@@ -406,6 +410,7 @@ valorar	O
 la	O
 eosinofilia.	O
 
+
 Estudio	O
 alergológico	O
 "in	O
@@ -486,6 +491,7 @@ I+D	O
 de	O
 Laboratorios	O
 Leti).	O
+
 
 Con	O
 estas	O
@@ -577,6 +583,7 @@ cerveza	O
 sin	O
 alcohol.	O
 
+
 Juicio	O
 clínico	O
 
@@ -655,6 +662,7 @@ cerveza	O
 sin	O
 alcohol.	O
 
+
 Evolución	O
 
 Tras	O
@@ -724,4 +732,3 @@ la	O
 ingesta	O
 de	O
 semillas.	O
-

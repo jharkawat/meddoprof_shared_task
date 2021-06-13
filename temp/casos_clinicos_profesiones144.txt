@@ -246,6 +246,7 @@ concordante	O
 con	O
 sarcoidosis.	O
 
+
 Dado	O
 que	O
 la	O
@@ -301,6 +302,7 @@ alternativa	O
 a	O
 la	O
 misma:	O
+
 
 Por	O
 un	O
@@ -416,6 +418,7 @@ específicos	O
 de	O
 berilio).	O
 
+
 Por	O
 otro	O
 lado	O
@@ -503,6 +506,7 @@ citocinas	O
 que	O
 había.	O
 
+
 Ambas	O
 técnicas	O
 evidenciaron	O
@@ -516,6 +520,7 @@ celular	O
 frente	O
 a	O
 berilio.	O
+
 
 La	O
 paciente	O
@@ -560,4 +565,3 @@ hay	O
 datos	O
 de	O
 progresión.	O
-

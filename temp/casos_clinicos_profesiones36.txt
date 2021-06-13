@@ -440,7 +440,6 @@ nunca	O
 tuvo	O
 alucinaciones.	O
 Antecedentes:	O
-
 El	O
 paciente	O
 nació	O

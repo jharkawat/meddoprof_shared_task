@@ -148,6 +148,7 @@ auxiliar	B-PROFESION
 de	I-PROFESION
 clínica.	I-PROFESION
 
+
 Diagonostico	O
 
 Diagnosticada	O
@@ -191,6 +192,7 @@ negativos;	O
 estadío	O
 pT1N0	O
 (sn)Mx.	O
+
 
 Tratamiento	O
 
@@ -241,6 +243,7 @@ Iridio-192,	O
 totalizando	O
 8	O
 Gy.	O
+
 
 Evolución	O
 
@@ -307,6 +310,7 @@ a	O
 radiaciones	O
 ionizantes.	O
 
+
 Discusión	O
 
 La	O
@@ -372,6 +376,7 @@ EN	O
 DETERMINADAS	O
 CONDICIONES	O
 (especifíquese).	O
+
 
 La	O
 trabajadora	B-SITUACION_LABORAL
@@ -446,6 +451,7 @@ mSv	O
 año	O
 oficial).	O
 
+
 Conclusiones	O
 
 La	O
@@ -515,6 +521,7 @@ contra	O
 radiaciones	O
 ionizantes.	O
 
+
 Dirección	O
 para	O
 correspondencia:	O
@@ -552,6 +559,7 @@ de	O
 marzo	O
 de	O
 2015	O
+
 
 Dirección	O
 para	O

@@ -48,6 +48,7 @@ somáticos	O
 Sin	O
 interés.	O
 
+
 Antecedentes	O
 familiares	O
 
@@ -276,6 +277,7 @@ Vive	O
 con	O
 sus	O
 padres.	O
+
 
 Antecedentes	O
 psiquiátricos	O
@@ -1016,6 +1018,7 @@ de	O
 cannabis(	O
 F12.1).	O
 
+
 Enfermedad	O
 actual	O
 
@@ -1147,6 +1150,7 @@ actos	O
 y	O
 conductas.	O
 
+
 Exploración	O
 psicopatológica	O
 
@@ -1226,6 +1230,7 @@ ni	O
 ideación	O
 autolítica.	O
 
+
 Juicio	O
 diagnóstico	O
 
@@ -1268,4 +1273,3 @@ Olanzapina10mg	O
 0-0-1	O
 Gabapentina	O
 1-0-1	O
-

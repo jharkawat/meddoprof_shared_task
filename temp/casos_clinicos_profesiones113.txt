@@ -40,6 +40,7 @@ su	O
 trabajo	O
 habitual	O
 
+
 1.	O
 Incapacidad	B-SITUACION_LABORAL
 temporal.	I-SITUACION_LABORAL
@@ -64,6 +65,7 @@ le	O
 damos	O
 IT.	O
 
+
 Nos	O
 encontramos	O
 ante	O
@@ -72,4 +74,3 @@ caso	O
 de	O
 probable	O
 recaída	O
-

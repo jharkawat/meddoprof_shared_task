@@ -131,6 +131,7 @@ aórtica	O
 sacular	O
 secundaria".	O
 
+
 Angio-TC	O
 de	O
 aorta	O
@@ -192,6 +193,7 @@ disección	O
 de	O
 clase	O
 3.	O
+
 
 El	O
 paciente	O
@@ -259,4 +261,3 @@ paciente	O
 se	O
 encuentra	O
 asintomático.	O
-

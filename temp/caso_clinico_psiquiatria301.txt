@@ -34,6 +34,7 @@ de	O
 dos	O
 décadas.	O
 
+
 Nace	O
 en	O
 una	O
@@ -179,7 +180,11 @@ el	O
 medio	O
 familiar.	O
 
+
+
+
 Intervención	O
+
 
 Tras	O
 tres	O
@@ -261,6 +266,7 @@ vuelta	O
 al	O
 entorno	O
 familiar.	O
+
 
 En	O
 la	O
@@ -536,7 +542,11 @@ en	O
 algún	O
 acompañamiento.	O
 
+
+
+
 Resultados	O
+
 
 Montse	O
 es	O
@@ -801,6 +811,7 @@ a	O
 su	O
 hogar.	O
 
+
 Tras	O
 un	O
 año	O
@@ -873,4 +884,3 @@ estabilización	O
 de	O
 su	O
 sintomatología.	O
-

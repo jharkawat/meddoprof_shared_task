@@ -84,6 +84,7 @@ compatible	O
 con	O
 Südeck.	O
 
+
 RESULTADOS.	O
 
 •	O
@@ -126,6 +127,7 @@ para	O
 transposiciones	O
 tendinosas.	O
 
+
 CONCLUSIONES.	O
 
 •	O
@@ -160,6 +162,7 @@ un	O
 estadio	O
 crónico.	O
 
+
 Se	O
 describe	O
 la	O
@@ -178,4 +181,3 @@ una	O
 enfermera	B-PROFESION
 de	O
 quirófano.	O
-

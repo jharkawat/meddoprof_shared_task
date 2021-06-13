@@ -413,7 +413,6 @@ en	O
 el	O
 consumo.	O
 Refiere	O
-
 que	O
 en	O
 su	O
@@ -434,6 +433,7 @@ crítica	O
 de	O
 esa	O
 actitud.	O
+
 Exploración	O
 psicopatológica	O
 
@@ -597,6 +597,7 @@ móvil.	O
 Explosivo	O
 y	O
 agresivo.	O
+
 
 Análisis	O
 del	O
@@ -773,6 +774,7 @@ puede	O
 ser	O
 frecuente.	O
 
+
 El	O
 patrón	O
 de	O
@@ -846,6 +848,7 @@ esquizoide,	O
 antisocial	O
 y	O
 pasivo/agresiva.	O
+
 
 Diagnóstico	O
 
@@ -958,4 +961,3 @@ rencor	O
 hacia	O
 las	O
 personas.	O
-

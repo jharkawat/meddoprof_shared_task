@@ -173,6 +173,7 @@ infección	O
 por	O
 HIV.	O
 
+
 Exploración	O
 física	O
 
@@ -215,6 +216,7 @@ dolorosas	O
 a	O
 la	O
 palpación.	O
+
 
 Exploraciones	O
 complementarias	O
@@ -414,6 +416,7 @@ mostrando	O
 una	O
 seroconversión.	O
 
+
 Diagnóstico	O
 
 Se	O
@@ -432,6 +435,7 @@ en	O
 muslo	O
 izquierdo.	O
 
+
 Tratamiento	O
 
 Se	O
@@ -448,6 +452,7 @@ benzatina	O
 2.400.000	O
 UI	O
 intramuscular.	O
+
 
 Evolución	O
 
@@ -487,4 +492,3 @@ cabo	O
 de	O
 6	O
 meses.	O
-

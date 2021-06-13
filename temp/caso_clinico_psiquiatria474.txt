@@ -44,6 +44,7 @@ esporádico	O
 de	O
 anfetaminas.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -132,6 +133,7 @@ año	O
 y	O
 medio.	O
 
+
 Antecedentes	O
 familiares:	O
 el	O
@@ -149,6 +151,7 @@ limitadas	O
 a	O
 las	O
 intoxicaciones.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -255,6 +258,7 @@ oculogiras	O
 como	O
 efecto	O
 secundario).	O
+
 
 ENFERMEDAD	O
 ACTUAL	O
@@ -853,7 +857,6 @@ nula	O
 capacidad	O
 de	O
 introspección,	O
-
 en	O
 base	O
 a	O
@@ -936,6 +939,8 @@ comunitario	O
 (Hospital	O
 de	O
 Día).	O
+
+
 EXPLORACIÓN	O
 NEUROPSICOLÓGICA	O
 
@@ -1242,6 +1247,7 @@ déficit	O
 ejecutivo	O
 específico.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -1509,6 +1515,8 @@ capacidad	O
 de	O
 adaptación.	O
 
+
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -1523,6 +1531,7 @@ VHB	O
 y	O
 VIH:	O
 negativas.	O
+
 
 DIAGNÓSTICO	O
 
@@ -1632,6 +1641,7 @@ moderada	O
 (DSM-V);	O
 F12.20	O
 (CIE-10).	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -2002,7 +2012,6 @@ porque	O
 observa	O
 una	O
 deformación	O
-
 en	O
 la	O
 misma)	O
@@ -2195,4 +2204,3 @@ todo	O
 tipo	O
 de	O
 tóxicos.	O
-

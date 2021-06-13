@@ -98,6 +98,7 @@ otra	O
 clínica	O
 acompañante.	O
 
+
 Exploración	O
 física	O
 
@@ -208,6 +209,7 @@ y	O
 el	O
 malestar	O
 general.	O
+
 
 Pruebas	O
 complementarias	O
@@ -414,6 +416,7 @@ la	O
 lesión	O
 renal.	O
 
+
 Diagnóstico	O
 
 En	O
@@ -528,6 +531,7 @@ inferior	O
 a	O
 un	O
 año.	O
+
 
 Tratamiento	O
 
@@ -1388,6 +1392,7 @@ para	O
 diagnóstico	O
 definitivo.	O
 
+
 Evolución	O
 
 El	O
@@ -1637,4 +1642,3 @@ sin	O
 evidencia	O
 de	O
 enfermedad.	O
-

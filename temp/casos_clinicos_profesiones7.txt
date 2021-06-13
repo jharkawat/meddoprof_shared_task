@@ -158,4 +158,3 @@ médicos	O
 específicos	O
 del	O
 trabajador.	B-SITUACION_LABORAL
-

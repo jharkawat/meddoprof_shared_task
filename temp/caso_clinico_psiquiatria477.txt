@@ -40,6 +40,7 @@ y	O
 estudio	O
 diagnóstico.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -114,6 +115,7 @@ en	O
 la	O
 normalidad.	O
 
+
 Hábitos	O
 tóxicos:	O
 dependencia	O
@@ -139,6 +141,7 @@ de	O
 forma	O
 puntual.	O
 
+
 Antecedentes	O
 familiares:	O
 una	O
@@ -151,6 +154,7 @@ trastorno	O
 mental	O
 (diagnóstico	O
 desconocido).	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -290,6 +294,7 @@ el	O
 paciente	O
 abandona.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -325,6 +330,7 @@ tóxicos	O
 de	O
 manera	O
 puntual).	O
+
 
 DIAGNÓSTICO	O
 
@@ -393,6 +399,7 @@ remisión	O
 parcial	O
 sostenida	O
 (304.30).	O
+
 
 TRATAMIENTO	O
 
@@ -717,4 +724,3 @@ paliperidona	O
 palmitato	O
 150	O
 mg/mensual.	O
-

@@ -330,7 +330,6 @@ elevados	O
 el	O
 Ca	O
 19,9	O
-
 de	O
 12.327	O
 U/	O
@@ -464,6 +463,7 @@ D11,	O
 sugestiva	O
 de	O
 metástasis.	O
+
 DIAGNÓSTICO	O
 
 Pulmón	O
@@ -473,4 +473,3 @@ a	O
 adenocarcinoma	O
 pleural	O
 metastásico.	O
-

@@ -411,6 +411,7 @@ y	O
 denosumab	O
 mensual.	O
 
+
 Exploración	O
 física	O
 
@@ -504,6 +505,7 @@ percusión	O
 renal	O
 bilateral	O
 negativa.	O
+
 
 Pruebas	O
 complementarias	O
@@ -702,6 +704,7 @@ tumoral	O
 en	O
 fondo.	O
 
+
 Diagnóstico	O
 
 1-	O
@@ -732,6 +735,7 @@ intraabdominal	O
 por	O
 Enterococcus	O
 faecium.	O
+
 
 Tratamiento	O
 
@@ -815,6 +819,7 @@ posteriormente	O
 en	O
 tratamiento	O
 sintomático.	O
+
 
 Evolución	O
 
@@ -1023,4 +1028,3 @@ positividad	O
 a	O
 E.	O
 faecium.	O
-

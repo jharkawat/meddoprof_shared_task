@@ -56,6 +56,7 @@ omeprazol	O
 20	O
 mg/día.	O
 
+
 Se	O
 presenta	O
 la	O
@@ -119,6 +120,7 @@ a	O
 60	O
 ml/min.	O
 
+
 El	O
 paciente	O
 realizó	O
@@ -152,6 +154,7 @@ vasculopatía	O
 universal	O
 importante.	O
 
+
 Con	O
 el	O
 objetivo	O
@@ -184,6 +187,7 @@ mg/día	O
 a	O
 dosis	O
 fijas.	O
+
 
 A	O
 los	O
@@ -235,6 +239,7 @@ mg/dl	O
 SI/EZ	O
 40/10	O
 mg/día).	O
+
 
 El	O
 médico	B-PROFESION
@@ -326,6 +331,7 @@ de	O
 LDL	O
 cumplidos.	O
 
+
 De	O
 nuevo	O
 se	O
@@ -356,6 +362,7 @@ control	O
 de	O
 colesterol	O
 LDL.	O
+
 
 Los	O
 resultados	O
@@ -498,6 +505,7 @@ atención	O
 especializada	O
 hospitalaria.	O
 
+
 Aunque	O
 no	O
 se	O
@@ -556,4 +564,3 @@ formulario	O
 de	O
 tarjeta	O
 amarilla.	O
-

@@ -83,6 +83,7 @@ la	O
 vida	O
 independiente.	O
 
+
 La	O
 usuaria	O
 aclara	O
@@ -259,6 +260,7 @@ familia	O
 y	O
 profesionales.	B-PROFESION
 
+
 Contexto	O
 cultural:	O
 la	O
@@ -268,6 +270,7 @@ salmantina	O
 y	O
 creyente	O
 practicante.	O
+
 
 Contexto	O
 personal:	O
@@ -304,6 +307,7 @@ es	O
 bastante	O
 limitada.	O
 
+
 Entorno	O
 físico:	O
 actualmente	O
@@ -336,6 +340,7 @@ de	O
 la	O
 usuaria.	O
 
+
 Entorno	O
 social:	O
 la	O
@@ -363,4 +368,3 @@ profesionales	B-PROFESION
 de	O
 la	O
 misma.	O
-

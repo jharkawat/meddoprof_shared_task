@@ -24,6 +24,7 @@ a	O
 una	O
 desconocida.	O
 
+
 Antecedentes	O
 de	O
 interés	O
@@ -188,6 +189,7 @@ y	O
 sertralina	O
 (100	O
 mg/día).	O
+
 
 Enfermedad	O
 actual	O
@@ -507,6 +509,7 @@ reciente	O
 maniaco	O
 (296.4).	O
 
+
 Aspectos	O
 médico-legales	O
 
@@ -685,4 +688,3 @@ reiteración	O
 de	O
 conductas	O
 heteroagresivas.	O
-

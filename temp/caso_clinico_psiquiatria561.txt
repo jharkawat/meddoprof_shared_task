@@ -58,6 +58,7 @@ de	O
 sus	O
 vecinos.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -83,6 +84,7 @@ ocasional	O
 consumo	O
 de	O
 alcohol.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -229,6 +231,7 @@ de	O
 sueño	O
 nocturno.	O
 
+
 VALORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -354,6 +357,7 @@ día	O
 del	O
 ingreso.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -413,11 +417,13 @@ asimismo,	O
 resultaron	O
 anodinos.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
 paranoide	O
 crónica.	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -677,4 +683,3 @@ abandonado	O
 un	O
 año	O
 atrás.	O
-

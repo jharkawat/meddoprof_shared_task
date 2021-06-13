@@ -50,6 +50,7 @@ años	O
 de	O
 evolución.	O
 
+
 Antecedentes	O
 funcionales:	O
 sin	O
@@ -111,6 +112,7 @@ enfermedad	O
 intersticial	O
 difusa	O
 crónica.	O
+
 
 Espirometrías	O
 en	O
@@ -174,6 +176,7 @@ residual,	O
 enfisema	O
 paraseptal.	O
 
+
 Prueba	O
 de	O
 esfuerzo	O
@@ -196,6 +199,7 @@ capacidad	O
 aeróbica	O
 es	O
 buena.	O
+
 
 El	O
 paciente	O
@@ -264,6 +268,7 @@ físico	O
 sin	O
 alteraciones.	O
 
+
 Criterio	O
 Ocupacional	O
 
@@ -300,6 +305,7 @@ para	O
 el	O
 consumo	O
 humano.	O
+
 
 Criterio	O
 Higiénico	O
@@ -417,6 +423,7 @@ se	O
 hacían	O
 a	O
 diario.	O
+
 
 Estos	O
 electrodos	O
@@ -642,6 +649,7 @@ a	O
 condiciones	O
 disergonomicas.	O
 
+
 El	O
 trabajador	B-SITUACION_LABORAL
 se	O
@@ -815,4 +823,3 @@ periodos	O
 de	O
 tiempo	O
 prolongados.	O
-

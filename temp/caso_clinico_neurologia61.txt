@@ -179,6 +179,7 @@ por	O
 vía	O
 intravenosa.	O
 
+
 Examen	O
 físico	O
 
@@ -365,6 +366,7 @@ negativo.	O
 No	O
 signos	O
 meníngeos.	O
+
 
 Pruebas	O
 complementarias	O
@@ -739,6 +741,7 @@ con	O
 edema	O
 circundante.	O
 
+
 Diagnóstico	O
 
 Cefalea	O
@@ -747,6 +750,7 @@ a	O
 paquimeningitis	O
 hipertrófica	O
 idiopática.	O
+
 
 Tratamiento	O
 
@@ -770,6 +774,7 @@ oral	O
 cada	O
 8	O
 horas.	O
+
 
 Evolución	O
 
@@ -800,4 +805,3 @@ mejoría	O
 de	O
 las	O
 lesiones.	O
-

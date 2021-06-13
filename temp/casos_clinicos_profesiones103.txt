@@ -137,6 +137,7 @@ crónicas	O
 ni	O
 alergias.	O
 
+
 Al	O
 examen	O
 físico	O
@@ -202,6 +203,7 @@ vendaje	O
 de	O
 inmovilización.	O
 
+
 Se	O
 realizo	O
 la	O
@@ -253,6 +255,7 @@ sangre,	O
 Hemograma	O
 y	O
 Coagulograma).	O
+
 
 Al	O
 primer	O
@@ -494,6 +497,7 @@ encontró	O
 ninguna	O
 particularidad.	O
 
+
 El	O
 día	O
 21	O
@@ -535,14 +539,17 @@ de	O
 las	O
 quemaduras.	O
 
+
 Diagnostico	O
 Diferencial	O
+
 
 1.	O
 Estenosis	O
 de	O
 Arteria	O
 renal.	O
+
 
 Hipertensión	O
 vasculorrenal.	O
@@ -766,9 +773,11 @@ acelerada	O
 o	O
 maligna.	O
 
+
 2.	O
 Cardiopatía	O
 chagásica	O
+
 
 En	O
 la	O
@@ -815,6 +824,7 @@ la	O
 enfermedad	O
 de	O
 Chagas.	O
+
 
 La	O
 sintomatología	O
@@ -959,9 +969,11 @@ los	O
 rangos	O
 normales.	O
 
+
 3.	O
 Estenosis	O
 Aórtica	O
+
 
 La	O
 estenosis	O
@@ -1084,7 +1096,9 @@ por	O
 una	O
 arritmia.	O
 
+
 Diagnostico	O
+
 
 Crisis	O
 Pseudohipertensiva	O
@@ -1093,4 +1107,3 @@ secundaria	O
 a	O
 trauma	O
 eléctrico	O
-

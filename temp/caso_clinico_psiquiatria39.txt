@@ -92,6 +92,7 @@ antecedentes	O
 médicos	O
 relevantes.	O
 
+
 Personalidad	O
 premórbida	O
 con	O
@@ -144,6 +145,7 @@ del	O
 alcohol	O
 nunca	O
 tratada.	O
+
 
 Consumo	O
 de	O
@@ -262,6 +264,7 @@ tabaco	O
 en	O
 cantidades	O
 moderadas.	O
+
 
 Evolución	O
 clínica	O
@@ -844,6 +847,7 @@ la	O
 consumación	O
 del	O
 suicidio.	O
+
 
 Diagnóstico	O
 y	O

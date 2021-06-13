@@ -249,6 +249,7 @@ otra	O
 área	O
 corporal.	O
 
+
 En	O
 el	O
 momento	O
@@ -483,6 +484,7 @@ de	O
 los	O
 rotadores.	O
 
+
 En	O
 este	O
 momento	O
@@ -527,6 +529,7 @@ el	O
 diagnóstico	O
 etiológico	O
 final.	O
+
 
 Evolución	O
 
@@ -890,7 +893,6 @@ sangre	O
 A.	O
 baumannii-complex	O
 y	O
-
 E.	O
 faecalis,	O
 se	O
@@ -917,6 +919,7 @@ colonias	O
 de	O
 M.	O
 hominis.	O
+
 DIAGNÓSTICO	O
 SINDRÓMICO	O
 Y	O
@@ -944,4 +947,3 @@ catéter	O
 vascular	O
 con	O
 flebitis.	O
-

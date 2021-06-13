@@ -36,6 +36,7 @@ social	O
 precaria	O
 (indigencia).	O
 
+
 Entre	O
 sus	O
 antecedentes	O
@@ -181,6 +182,7 @@ como	O
 en	O
 tibia.	O
 
+
 Consulta	O
 ahora	O
 por	O
@@ -234,6 +236,7 @@ ninguna	O
 otra	O
 clínica	O
 asociada.	O
+
 
 En	O
 la	O
@@ -331,6 +334,7 @@ exploración	O
 neurológica	O
 fue	O
 normal.	O
+
 
 Las	O
 pruebas	O
@@ -463,6 +467,8 @@ en	O
 lóbulo	O
 superior	O
 derecho.	O
+
+
 
 Diagnóstico	O
 diferencial	O
@@ -757,6 +763,7 @@ la	O
 no	O
 consolidación.	O
 
+
 No	O
 obstante	O
 no	O
@@ -804,6 +811,7 @@ crónica	O
 de	O
 origen	O
 incierto.	O
+
 
 Por	O
 ello	O
@@ -890,6 +898,7 @@ eosinófilo,	O
 sarcoidosis,	O
 histiocitoma...	O
 
+
 Nuestra	O
 hipótesis	O
 diagnóstica	O
@@ -925,6 +934,7 @@ el	O
 estudio	O
 del	O
 paciente.	O
+
 
 Evolución	O
 
@@ -1368,6 +1378,8 @@ derivados	O
 del	O
 tratamiento.	O
 
+
+
 Diagnóstico	O
 final	O
 
@@ -1410,4 +1422,3 @@ parcial	O
 de	O
 dicho	O
 material.	O
-

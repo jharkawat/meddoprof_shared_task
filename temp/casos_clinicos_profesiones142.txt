@@ -29,10 +29,12 @@ a	O
 radiaciones	O
 ionizantes.	O
 
+
 Información	O
 detallada	O
 de	O
 antecedentes	O
+
 
 Se	O
 trata	O
@@ -49,6 +51,7 @@ ni	O
 familiares	O
 de	O
 interés.	O
+
 
 No	O
 refiere	O
@@ -81,6 +84,7 @@ con	O
 ecografías	O
 hepáticas	O
 periódicas.	O
+
 
 Se	O
 realiza	O
@@ -169,11 +173,13 @@ tienen	O
 alteraciones	O
 significativas.	O
 
+
 Manejo	O
 y	O
 evolución	O
 del	O
 caso	O
+
 
 El	O
 Centro	O
@@ -216,6 +222,7 @@ Radiológica	O
 del	O
 Hospital.	O
 
+
 Inmediatamente	O
 el	O
 SRPR	O
@@ -253,6 +260,7 @@ Medicina	O
 Nuclear	O
 del	O
 Hospital.	O
+
 
 El	O
 SPRL	O
@@ -309,6 +317,7 @@ el	O
 fraccionamiento	O
 del	O
 radiofármaco.	O
+
 
 El	O
 SRPR,	O
@@ -438,6 +447,7 @@ contra	O
 radiaciones	O
 ionizantes.	O
 
+
 El	O
 SPRL	O
 realiza	O
@@ -501,4 +511,3 @@ complementarias	O
 siguieron	O
 siendo	O
 normales.	O
-

@@ -1,7 +1,0 @@
-T1	SINTOMA 66 89	dificultad en la marcha
-T2	SINTOMA 496 531	deterioro cognitivo a nivel general
-T3	PROCEDIMIENTO 239 267	exploración neuropsicológica
-T4	NSCO 473 531	Los resultados revelan deterioro cognitivo a nivel general
-T5	ORG_VIVO 0 5	Mujer
-T6	ENFERMEDAD 92 108	ptosis palpebral
-T7	ENFERMEDAD 127 148	síndrome Kearns-Sayre

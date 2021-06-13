@@ -2,6 +2,7 @@ Identificación	O
 del	O
 paciente	O
 
+
 El	O
 paciente,	O
 J.N.,	O
@@ -48,11 +49,13 @@ gerencia	O
 del	O
 mismo.	O
 
+
 Análisis	O
 del	O
 motivo	O
 de	O
 consulta	O
+
 
 J.N.	O
 acude	O
@@ -155,6 +158,7 @@ crisis	O
 de	O
 ansiedad.	O
 
+
 Refiere	O
 estar	O
 en	O
@@ -189,6 +193,7 @@ doce	O
 horas	O
 seguidas.	O
 
+
 Reconoce,	O
 además,	O
 que	O
@@ -219,6 +224,7 @@ no	O
 rumiar	O
 sus	O
 preocupaciones.	O
+
 
 Hasta	O
 la	O
@@ -260,6 +266,7 @@ situación.	O
 Historia	O
 del	O
 problema	O
+
 
 El	O
 paciente	O
@@ -405,6 +412,7 @@ que	O
 resolverlas	O
 él.	O
 
+
 No	O
 existen	O
 antecedentes	O
@@ -413,6 +421,7 @@ de	O
 enfermedad	O
 mental.	O
 
+
 Análisis	O
 y	O
 descripción	O
@@ -420,6 +429,7 @@ de	O
 las	O
 conductas	O
 problema	O
+
 
 Las	O
 principales	O
@@ -463,6 +473,7 @@ funcional	O
 de	O
 la	O
 conducta.	O
+
 
 Las	O
 conductas	O
@@ -672,6 +683,7 @@ produciendo	O
 estrés	O
 laboral.	O
 
+
 Ante	O
 esta	O
 sobrecarga	O
@@ -749,6 +761,7 @@ bebe	O
 hasta	O
 la	O
 embriaguez.	O
+
 
 Por	O
 otro	O
@@ -905,6 +918,7 @@ las	O
 metas	O
 del	O
 tratamiento	O
+
 
 De	O
 acuerdo	O
@@ -1072,6 +1086,7 @@ los	O
 objetivos	O
 terapéuticos	O
 
+
 Los	O
 primeros	O
 objetivos	O
@@ -1174,6 +1189,7 @@ del	O
 tratamiento	O
 más	O
 adecuado	O
+
 
 Según	O
 la	O
@@ -1320,6 +1336,7 @@ partir	O
 del	O
 análisis	O
 funcional.	O
+
 
 La	O
 terapia	O
@@ -1541,6 +1558,7 @@ la	O
 situación	O
 ansiógena.	O
 
+
 Con	O
 respecto	O
 al	O
@@ -1617,6 +1635,7 @@ autoevaluación	O
 y	O
 autorrefuerzo.	O
 
+
 Para	O
 gestionar	O
 de	O
@@ -1683,6 +1702,7 @@ y	O
 resultados	O
 obtenidos	O
 
+
 Como	O
 estrategias	O
 de	O
@@ -1700,6 +1720,7 @@ directa	O
 y	O
 algunos	O
 autoinformes.	O
+
 
 La	O
 entrevista	O
@@ -1742,6 +1763,7 @@ largo	O
 de	O
 las	O
 sesiones.	O
+
 
 Por	O
 otro	O
@@ -1826,6 +1848,7 @@ de	O
 las	O
 crisis.	O
 
+
 Como	O
 se	O
 puede	O
@@ -1841,6 +1864,7 @@ fundamentalmente	O
 de	O
 tipo	O
 cognitiva.	O
+
 
 Como	O
 conclusión	O
@@ -1948,6 +1972,7 @@ fisiológicos	O
 de	O
 la	O
 ansiedad.	O
+
 
 Es	O
 posible	O
@@ -2278,6 +2303,7 @@ figuras	O
 de	O
 apego.	O
 
+
 Una	O
 vez	O
 obtenidos	O
@@ -2318,4 +2344,3 @@ la	O
 CIE-10	O
 (OMS,	O
 1992).	O
-

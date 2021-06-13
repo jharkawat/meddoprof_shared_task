@@ -26,6 +26,7 @@ consumo	O
 de	O
 cannabis.	O
 
+
 Se	O
 observa,	O
 según	O
@@ -65,6 +66,7 @@ inactividad	O
 y	O
 apatía.	O
 
+
 Así	O
 mismo,	O
 han	O
@@ -97,6 +99,9 @@ de	O
 alucinaciones	O
 auditivas.	O
 
+
+
+
 VALORACIÓN	O
 
 PATRÓN	O
@@ -105,14 +110,17 @@ DE	O
 LA	O
 SALUD	O
 
+
 Aspecto	O
 físico	O
 descuidado.	O
+
 
 Nula	O
 conciencia	O
 de	O
 enfermedad.	O
+
 
 Hábitos	O
 tóxicos:	O
@@ -151,12 +159,15 @@ fines	O
 de	O
 semana).	O
 
+
 No	O
 alergias	O
 conocidas	O
 
+
 PATRÓN	O
 NUTRICIONAL/METABÓLICO:	O
+
 
 Peso:	O
 60	O
@@ -166,6 +177,7 @@ Talla:	O
 IMC:	O
 19"5	O
 (Normopeso)	O
+
 
 Alimentación	O
 inadecuada	O
@@ -186,6 +198,7 @@ familiar	O
 de	O
 envenenamiento).	O
 
+
 Se	O
 provoca	O
 el	O
@@ -202,6 +215,7 @@ por	O
 el	O
 paciente).	O
 
+
 Pérdida	O
 de	O
 peso	O
@@ -211,9 +225,11 @@ los	O
 últimos	O
 meses.	O
 
+
 PATRÓN	O
 ELIMINACIÓN	O
 /INTERCAMBIO	O
+
 
 Continente	O
 mixto.	O
@@ -224,13 +240,16 @@ cada	O
 3	O
 días.	O
 
+
 No	O
 uso	O
 de	O
 laxantes	O
 
+
 PATRÓN	O
 ACTIVIDAD/EJERCICIO	O
+
 
 Autocuidados:	O
 precisa	O
@@ -248,6 +267,7 @@ tareas	O
 sin	O
 ayuda.	O
 
+
 Actividades	O
 de	O
 ocio:	O
@@ -260,14 +280,17 @@ por	O
 ninguna	O
 actividad.	O
 
+
 Movilidad:	O
 ritmo	O
 enlentecido	O
+
 
 PATRÓN	O
 SUEÑO	O
 –	O
 DESCANSO	O
+
 
 Horas	O
 de	O
@@ -284,6 +307,7 @@ medicación	O
 hipnótica	O
 ocasionalmente	O
 
+
 Otros	O
 descansos:	O
 siesta	O
@@ -292,10 +316,12 @@ de	O
 hora	O
 diaria	O
 
+
 PATRÓN	O
 COGNITIVO	O
 –	O
 PERCEPTIVO	O
+
 
 Consciente	O
 y	O
@@ -308,6 +334,7 @@ Alerta.;	O
 poco	O
 colaborador	O
 
+
 Contenido	O
 del	O
 pensamiento:	O
@@ -315,6 +342,7 @@ ideas	O
 delirantes	O
 de	O
 perjuicio	O
+
 
 Se	O
 observan	O
@@ -327,6 +355,7 @@ deliroides	O
 de	O
 perjuicio	O
 
+
 Lenguaje	O
 pobre	O
 en	O
@@ -338,6 +367,7 @@ anhedonia,	O
 así	O
 como	O
 abulia.	O
+
 
 Curso	O
 del	O
@@ -373,15 +403,18 @@ de	O
 interacción	O
 social).	O
 
+
 PATRÓN	O
 AUTOPERCEPCIÓN	O
 –	O
 AUTOCONCEPTO	O
 
+
 Reactividad	O
 emocional:	O
 apatía,	O
 abulia.	O
+
 
 No	O
 ideas	O
@@ -390,10 +423,12 @@ ni	O
 de	O
 muerte.	O
 
+
 PATRÓN	O
 ROL	O
 –	O
 RELACIONES	O
+
 
 Convive	O
 con	O
@@ -428,6 +463,7 @@ heteroagresividad	O
 que	O
 presenta.	O
 
+
 A	O
 nivel	O
 académico,	O
@@ -435,6 +471,7 @@ finalizó	B-SITUACION_LABORAL
 los	I-SITUACION_LABORAL
 estudios	I-SITUACION_LABORAL
 primarios.	I-SITUACION_LABORAL
+
 
 En	O
 la	O
@@ -451,14 +488,17 @@ reparto	I-PROFESION
 de	I-PROFESION
 paquetería.	I-PROFESION
 
+
 PATRÓN	O
 SEXUALIDAD	O
 –	O
 REPRODUCCIÓN	O
 
+
 Actualmente	O
 sin	O
 pareja	O
+
 
 Anteriormente,	O
 conductas	O
@@ -476,12 +516,14 @@ frente	O
 a	O
 ETS.	O
 
+
 PATRÓN	O
 AFRONTAMIENTO	O
 –	O
 TOLERANCIA	O
 AL	O
 ESTRÉS	O
+
 
 Factor	O
 desencadenante	O
@@ -492,6 +534,7 @@ delirantes	O
 y	O
 alucinaciones	O
 auditivas	O
+
 
 No	O
 adopta	O
@@ -522,12 +565,13 @@ afrontar	O
 situaciones	O
 estresantes.	O
 
+
 PATRÓN	O
 VALORES/CREENCIAS	O
+
 
 Sin	O
 alteraciones	O
 en	O
 dicho	O
 patrón	O
-

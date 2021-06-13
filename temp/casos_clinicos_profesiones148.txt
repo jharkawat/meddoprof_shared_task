@@ -66,6 +66,7 @@ todos	O
 los	O
 años.	O
 
+
 Durante	O
 el	O
 desarrollo	O
@@ -166,6 +167,7 @@ con	O
 hormigueo	O
 difuso.	O
 
+
 Tras	O
 30	O
 minutos	O
@@ -233,6 +235,7 @@ en	O
 ambas	O
 manos.	O
 
+
 Durante	O
 la	O
 exploración	O
@@ -260,6 +263,7 @@ de	O
 anormalidades	O
 ungüeales.	O
 
+
 El	O
 estudio	O
 cardiológico	O
@@ -280,6 +284,7 @@ alteraciones	O
 del	O
 ritmo	O
 cardiaco.	O
+
 
 La	O
 conjunción	O
@@ -341,6 +346,7 @@ intolerancia	O
 al	O
 frío.	O
 
+
 Ante	O
 lo	O
 dudoso	O
@@ -399,4 +405,3 @@ presencia	O
 de	O
 FR	O
 secundario.	O
-

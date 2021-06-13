@@ -102,6 +102,7 @@ montaje	O
 de	O
 muebles.	O
 
+
 Las	O
 pruebas	O
 cutáneas	O
@@ -170,6 +171,7 @@ y	O
 para	O
 HT.	O
 
+
 Una	O
 espirometría	O
 realizada	O
@@ -212,6 +214,7 @@ positiva	O
 (dosis	O
 acumulativa	O
 0,21mg).	O
+
 
 En	O
 el	O
@@ -346,4 +349,3 @@ habían	O
 observado	O
 cambios	O
 significativos.	O
-

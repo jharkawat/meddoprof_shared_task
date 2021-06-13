@@ -387,4 +387,3 @@ desastre	O
 por	O
 su	O
 culpa.	O
-

@@ -32,6 +32,7 @@ No	O
 otros	O
 antecedentes.	O
 
+
 Radiografía	O
 de	O
 Torax	O
@@ -77,6 +78,7 @@ la	O
 cisura	O
 menor.	O
 
+
 Tomografía	O
 Axial	O
 Computada	O
@@ -110,6 +112,7 @@ paredes	O
 de	O
 aspecto	O
 inflamatorio.	O
+
 
 Tomografía	O
 Axial	O
@@ -151,6 +154,7 @@ la	O
 vía	O
 aérea.	O
 
+
 En	O
 un	O
 paciente	O
@@ -187,4 +191,3 @@ el	O
 síndrome	O
 de	O
 Swyer-James.	O
-

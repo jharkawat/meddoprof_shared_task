@@ -25,6 +25,7 @@ de	O
 trastorno	O
 esquizoafectivo.	O
 
+
 Antecedentes	O
 médicos:	O
 NAMC.	O
@@ -33,6 +34,7 @@ patologías	O
 somáticas	O
 de	O
 interés.	O
+
 
 Hábitos	O
 tóxicos:	O
@@ -50,6 +52,7 @@ por	O
 temporadas.	O
 Leve	O
 sobrepeso.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -177,6 +180,7 @@ cognitivo.	O
 Apatoabulia	O
 importante.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -190,10 +194,12 @@ función	O
 tiroidea)	O
 normales.	O
 
+
 DIAGNÓSTICO	O
 
 Trastorno	O
 esquizofectivo.	O
+
 
 TRATAMIENTO	O
 
@@ -345,4 +351,3 @@ con	O
 clozapina	O
 600	O
 mg/día.	O
-

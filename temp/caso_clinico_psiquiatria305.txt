@@ -178,6 +178,7 @@ si	O
 fuera	O
 necesario.	O
 
+
 A	O
 las	O
 dos	O
@@ -214,6 +215,7 @@ por	O
 Neurología	O
 y	O
 Psiquiatría.	O
+
 
 El	O
 paciente	O
@@ -263,6 +265,7 @@ diagnóstica	O
 a	O
 cuadro	O
 conversivo.	O
+
 
 Al	O
 mes	O
@@ -399,6 +402,7 @@ pauta	O
 Olanzapina	O
 5mg.	O
 
+
 A	O
 la	O
 semana	O
@@ -418,6 +422,7 @@ clínico	O
 de	O
 Trastorno	O
 Conversivo.	O
+
 
 En	O
 el	O
@@ -534,6 +539,7 @@ en	O
 planta	O
 de	O
 Neurología.	O
+
 
 El	O
 resultado	O
@@ -734,6 +740,7 @@ para	O
 ECJ	O
 esporádico.	O
 
+
 El	O
 deterioro	O
 motor	O
@@ -760,4 +767,3 @@ el	O
 fallecimiento	O
 del	O
 paciente.	O
-

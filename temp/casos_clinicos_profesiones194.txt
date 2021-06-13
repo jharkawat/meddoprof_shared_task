@@ -130,6 +130,7 @@ y	O
 antihistamínicos	O
 endovenosos.	O
 
+
 Por	O
 la	O
 anamnesis	O
@@ -216,6 +217,7 @@ amaretto	O
 (3%),	O
 especias	O
 (2%).	O
+
 
 No	O
 presentaba	O
@@ -422,6 +424,7 @@ y	O
 tronco	O
 superior.	O
 
+
 Los	O
 autores	O
 concluyen	O
@@ -496,4 +499,3 @@ experimentar	O
 urticaria	O
 ni	O
 angioedema.	O
-

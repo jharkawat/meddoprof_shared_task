@@ -31,6 +31,7 @@ antecedentes	O
 familiares	O
 relevantes.	O
 
+
 ENFERMEDAD	O
 ACTUAL	O
 
@@ -71,6 +72,7 @@ Pérdida	O
 de	O
 piezas	O
 dentales.	O
+
 
 EXPLORACIÓN	O
 FÍSICA	O
@@ -116,6 +118,7 @@ Hipoplasiatercio	O
 medio	O
 facial	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -149,8 +152,10 @@ y	O
 pelvis	O
 normales	O
 
+
 DIAGNÓSTICO	O
 DIFERENCIAL	O
+
 
 ADQUIRIDAS	O
 
@@ -172,6 +177,7 @@ Hiperparatiroidismo	O
 Lepra	O
 
 Esclerodermia	O
+
 
 CONGÉNITAS	O
 
@@ -212,6 +218,7 @@ progeria	O
 de	O
 Hutchinson-Gilford	O
 
+
 DIAGNÓSTICO	O
 GENÉTICO	O
 
@@ -226,6 +233,7 @@ DEL	O
 GEN	O
 NOTCH2	O
 
+
 DIAGNÓSTICO	O
 DEFINITIVO	O
 
@@ -233,4 +241,3 @@ SÍNDROMEDE	O
 HAJDU-CHENEY	O
 O	O
 ACRO-DENTO-OSEO-DISPLASIA	O
-

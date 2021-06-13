@@ -1,8 +1,0 @@
-T1	SINTOMA 123 150	defecto óseo a nivel mesial
-T2	PROCEDIMIENTO 249 266	test de vitalidad
-T3	PROCEDIMIENTO 338 361	tratamiento periodontal
-T4	PROCEDIMIENTO 782 822	administración sistémica de antibióticos
-T5	NEG 362 364	no
-T6	NSCO 365 420	quirúrgico con administración sistémica de Metronidazol
-T7	FARMACO 408 420	Metronidazol
-T8	ENFERMEDAD 38 68	periodontitis crónica moderada

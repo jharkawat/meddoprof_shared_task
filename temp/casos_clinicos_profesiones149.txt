@@ -117,6 +117,7 @@ dogmatil	O
 a	O
 demanda.	O
 
+
 Acude	O
 a	O
 nuestro	O
@@ -183,6 +184,7 @@ su	O
 puesto	O
 de	O
 trabajo.	O
+
 
 A	O
 la	O
@@ -294,6 +296,7 @@ desodorantes,	O
 fármacos	O
 orales...).	O
 
+
 En	O
 la	O
 exploración	O
@@ -313,6 +316,7 @@ habonosas	O
 aisladas	O
 en	O
 piel.	O
+
 
 Ante	O
 la	O
@@ -342,6 +346,7 @@ se	O
 realizaron	O
 recomendaciones	O
 preventivas.	O
+
 
 En	O
 el	O
@@ -543,4 +548,3 @@ la	O
 entidad	O
 como	O
 patología.	O
-

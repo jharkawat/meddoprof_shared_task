@@ -1,8 +1,0 @@
-T1	SINTOMA 240 247	fumador
-T2	NEG 490 492	No
-T3	NSCO 493 516	antecedentes familiares
-T4	ORG_VIVO 0 8	Paciente
-T5	ORG_VIVO 21 50	trabajador de la construcción
-T6	ORG_VIVO 228 238	personales
-T7	ORG_VIVO 506 516	familiares
-T8	PACIENTE-PROFESION 21 50	trabajador de la construcción

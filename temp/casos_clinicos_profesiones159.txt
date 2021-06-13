@@ -202,6 +202,7 @@ por	O
 el	O
 trabajo?	O
 
+
 Verificar	O
 si	O
 el	O
@@ -220,6 +221,7 @@ Permanente	I-SITUACION_LABORAL
 por	O
 Enfermedad	O
 Profesional.	O
+
 
 Se	O
 deriva	O
@@ -246,6 +248,7 @@ sospecha	O
 de	O
 Enfermedad	O
 Profesional.	O
+
 
 Revisión	O
 de	O
@@ -310,4 +313,3 @@ restauradora	B-PROFESION
 por	O
 Enfermedad	O
 Profesional.	O
-

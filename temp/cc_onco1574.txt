@@ -473,6 +473,7 @@ de	O
 expectoración	O
 verdosa.	O
 
+
 Exploración	O
 física	O
 
@@ -530,6 +531,7 @@ resto	O
 de	O
 exploración	O
 normal.	O
+
 
 Pruebas	O
 complementarias	O
@@ -945,6 +947,7 @@ sin	O
 captaciones	O
 patológicas.	O
 
+
 Diagnóstico	O
 
 Tras	O
@@ -970,6 +973,7 @@ cecal	O
 con	O
 metástasis	O
 hepáticas.	O
+
 
 Evolución	O
 y	O
@@ -1058,4 +1062,3 @@ sin	O
 evaluación	O
 de	O
 respuesta.	O
-

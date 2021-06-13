@@ -66,6 +66,7 @@ de	O
 Boletus	O
 edulis.	O
 
+
 Pruebas	O
 cutáneas:	O
 
@@ -214,6 +215,7 @@ hasta	O
 45	O
 kDa.	O
 
+
 Presentamos	O
 un	O
 caso	O
@@ -254,4 +256,3 @@ en	O
 la	O
 industria	O
 alimentaria.	O
-

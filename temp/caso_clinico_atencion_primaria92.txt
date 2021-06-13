@@ -7,6 +7,7 @@ en	O
 miembros	O
 inferiores.	O
 
+
 Enfoque	O
 individual	O
 (anamnesis,	O
@@ -29,6 +30,7 @@ renal	O
 de	O
 donante	O
 vivo.	O
+
 
 Anamnesis:	O
 paciente	O
@@ -121,6 +123,7 @@ pérdida	O
 de	O
 sensibilidad.	O
 Afebril.	O
+
 
 Exploración	O
 física:	O
@@ -238,6 +241,7 @@ No	O
 obtengo	O
 aquíleos.	O
 
+
 Enfoque	O
 familiar	O
 y	O
@@ -269,6 +273,7 @@ sociocultural	O
 medio-	O
 alto.	O
 
+
 Juicio	O
 clínico	O
 (listado	O
@@ -284,6 +289,7 @@ aguda	O
 (Síndrome	O
 Guillain	O
 Barré).	O
+
 
 Plan	O
 de	O
@@ -392,4 +398,3 @@ limitación	O
 en	O
 ambas	O
 manos.	O
-

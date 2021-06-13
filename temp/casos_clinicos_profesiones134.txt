@@ -241,6 +241,7 @@ de	O
 analíticas	O
 normales.	O
 
+
 La	O
 paciente	O
 es	O
@@ -320,6 +321,7 @@ con	O
 bronquiolitis	O
 obliterante.	O
 
+
 Con	O
 el	O
 diagnóstico	O
@@ -374,4 +376,3 @@ de	O
 la	O
 alteración	O
 ventilatoria.	O
-

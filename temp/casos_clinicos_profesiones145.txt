@@ -326,4 +326,3 @@ obteniéndose	O
 una	O
 respuesta	O
 parcial.	O
-

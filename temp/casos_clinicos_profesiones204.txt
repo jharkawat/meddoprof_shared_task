@@ -100,6 +100,7 @@ puntos	O
 (alto	O
 riesgo).	O
 
+
 Los	O
 signos	O
 vitales	O
@@ -213,6 +214,7 @@ de	O
 la	O
 paciente.	O
 
+
 El	O
 resultado	O
 de	O
@@ -279,6 +281,7 @@ el	O
 plan	O
 de	O
 cuidados.	O
+
 
 La	O
 familia	O
@@ -366,6 +369,7 @@ las	O
 autoridades	B-PROFESION
 sanitarias.	I-PROFESION
 
+
 Para	O
 facilitar	O
 el	O
@@ -445,6 +449,7 @@ por	O
 una	O
 crisis	O
 epidémica.	O
+
 
 Por	O
 otro	O
@@ -579,4 +584,3 @@ aun	O
 en	O
 la	O
 lejanía.	O
-

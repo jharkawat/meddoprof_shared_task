@@ -92,6 +92,7 @@ benceno	O
 e	O
 isocianatos.	O
 
+
 En	O
 septiembre	O
 2019	O
@@ -156,6 +157,7 @@ prevención	O
 de	O
 riesgos	O
 laborales.	O
+
 
 Los	O
 datos	O
@@ -281,6 +283,7 @@ platenero	O
 y	O
 salsola).	O
 
+
 El	O
 paciente	O
 refería	O
@@ -377,6 +380,7 @@ dianilina)	O
 que	O
 resultó	O
 negativa.	O
+
 
 Se	O
 deriva	O
@@ -578,4 +582,3 @@ NDI,	O
 MDI	O
 y	O
 HDI.	O
-

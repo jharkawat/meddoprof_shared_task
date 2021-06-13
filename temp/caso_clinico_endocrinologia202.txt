@@ -51,6 +51,7 @@ patología	O
 tiroidea	O
 autoinmune.	O
 
+
 A	O
 la	O
 anamnesis	O
@@ -184,6 +185,7 @@ a	O
 la	O
 palpación.	O
 
+
 Aportaba	O
 una	O
 analítica	O
@@ -224,6 +226,7 @@ de	O
 hasta	O
 3	O
 cm.	O
+
 
 A	O
 la	O
@@ -373,6 +376,7 @@ de	O
 31	O
 mm.	O
 
+
 Ante	O
 la	O
 sospecha	O
@@ -411,6 +415,7 @@ la	O
 exploración	O
 del	O
 cuello.	O
+
 
 La	O
 determinación	O
@@ -480,6 +485,7 @@ de	O
 forma	O
 homogénea.	O
 
+
 Se	O
 revisa	O
 finalmente	O
@@ -520,4 +526,3 @@ los	O
 niveles	O
 de	O
 tiroglobulina.	O
-

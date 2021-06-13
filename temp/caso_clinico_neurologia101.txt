@@ -171,6 +171,7 @@ productos	O
 de	O
 herbolario.	O
 
+
 Examen	O
 físico	O
 
@@ -281,6 +282,7 @@ dentro	O
 de	O
 la	O
 normalidad.	O
+
 
 Pruebas	O
 complementarias	O
@@ -603,11 +605,13 @@ de	O
 células	O
 malignas.	O
 
+
 Diagnóstico	O
 
 Síndrome	O
 de	O
 Tolosa-Hunt.	O
+
 
 Tratamiento	O
 
@@ -633,6 +637,7 @@ con	O
 pauta	O
 descendente	O
 escalonada.	O
+
 
 Evolución	O
 
@@ -669,4 +674,3 @@ tamaño	O
 de	O
 las	O
 lesiones.	O
-

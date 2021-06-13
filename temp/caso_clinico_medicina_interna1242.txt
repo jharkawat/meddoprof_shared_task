@@ -26,6 +26,7 @@ en	I-PROFESION
 fábrica	I-PROFESION
 textil.	I-PROFESION
 
+
 Historia	O
 clínica	O
 
@@ -74,6 +75,7 @@ de	O
 meses	O
 de	O
 evolución.	O
+
 
 Antecedentes	O
 
@@ -173,6 +175,7 @@ hábitos	O
 alcohólicos	O
 o	O
 tabáquicos	O
+
 
 Antecedentes	O
 ginecológicos	O
@@ -429,7 +432,6 @@ radiografía	O
 de	O
 tórax,	O
 electrocardiograma,	O
-
 ecografía	O
 abdominal.	O
 Resaltamos	O
@@ -818,7 +820,6 @@ periférica	O
 sin	O
 alteraciones	O
 morfológicas	O
-
 de	O
 las	O
 varias	O

@@ -30,6 +30,7 @@ junio	O
 de	O
 2016.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -151,6 +152,7 @@ y	O
 un	O
 primo.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 sin	O
@@ -172,6 +174,7 @@ tabaco	O
 20	O
 cigarrillos/día).	O
 
+
 Antecedentes	O
 de	O
 consumo	O
@@ -189,6 +192,7 @@ unos	O
 10	O
 años	O
 abstinente).	O
+
 
 Antecedentes	O
 familiares:	O
@@ -211,6 +215,7 @@ tío	O
 de	O
 rama	O
 paterna.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -359,6 +364,7 @@ en	O
 mayo	O
 de	O
 2015.	O
+
 
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
@@ -706,10 +712,12 @@ tendré	O
 que	O
 seguir".	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
 paranoide.	O
+
 
 TRATAMIENTO	O
 
@@ -862,4 +870,3 @@ dentro	O
 de	O
 la	O
 normalidad.	O
-

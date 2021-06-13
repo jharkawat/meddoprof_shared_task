@@ -283,6 +283,7 @@ con	O
 algunas	O
 ampollas.	O
 
+
 El	O
 6.5%	O
 de	O
@@ -624,7 +625,6 @@ se	O
 cubrió	O
 la	O
 totalidad	O
-
 de	O
 la	O
 lesión	O

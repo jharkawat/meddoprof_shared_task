@@ -636,6 +636,7 @@ de	O
 prótesis	O
 esofágica.	O
 
+
 Exploración	O
 física	O
 
@@ -682,6 +683,7 @@ siendo	O
 el	O
 resto	O
 normal.	O
+
 
 Pruebas	O
 complementarias	O
@@ -949,6 +951,7 @@ de	O
 compromiso	O
 hemodinámico.	O
 
+
 Diagnóstico	O
 
 Los	O
@@ -1028,6 +1031,7 @@ es	O
 de	O
 pseudoprogresión.	O
 
+
 Tratamiento	O
 
 Durante	O
@@ -1081,6 +1085,7 @@ sólida	O
 con	O
 excelente	O
 tolerancia.	O
+
 
 Evolución	O
 

@@ -1,9 +1,0 @@
-T1	PROCEDIMIENTO 305 333	exploración neuropsicológica
-T2	NEG 248 250	no
-T3	NSCO 251 261	patológico
-T4	UNC 346 354	sospecha
-T5	USCO 355 362	clínica
-T6	ORG_VIVO 0 8	Paciente
-T7	ENFERMEDAD 51 80	trastorno obsesivo compulsivo
-T8	ENFERMEDAD 192 217	proceso neurodegenerativo
-T9	ENFERMEDAD 502 526	trastorno neurocognitivo

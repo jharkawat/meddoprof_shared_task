@@ -17,6 +17,7 @@ con	O
 varios	O
 antipsicóticos.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -28,11 +29,13 @@ por	O
 anorexia	O
 nerviosa.	O
 
+
 Antececentes	O
 personales	O
 somáticos:	O
 no	O
 refiere.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -706,6 +709,8 @@ hasta	O
 30	O
 mg.	O
 
+
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -1007,6 +1012,7 @@ familiar.	O
 Aislamiento	O
 social.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -1045,12 +1051,14 @@ como	O
 clínicamente	O
 irrelevantes.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
 resistente	O
 al	O
 tratamiento.	O
+
 
 TRATAMIENTO	O
 
@@ -1219,4 +1227,3 @@ seguir	O
 trabajando	O
 con	O
 él.	O
-

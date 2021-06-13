@@ -374,7 +374,6 @@ que	O
 refería	O
 era	O
 de	O
-
 10-12	O
 canutos	O
 al	O
@@ -789,6 +788,7 @@ responde	O
 de	O
 manera	O
 satisfactoria.	O
+
 Diagnóstico	O
 
 Dependencia	O
@@ -805,4 +805,3 @@ ansiedad	O
 inducido	O
 por	O
 cannabis.	O
-

@@ -82,6 +82,7 @@ hasta	O
 su	O
 muerte.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -150,6 +151,7 @@ mental	O
 no	O
 especificado.	O
 
+
 ENFERMEDAD	O
 ACTUAL	O
 
@@ -217,6 +219,7 @@ horas	O
 sin	O
 rumbo	O
 fijo.	O
+
 
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
@@ -326,6 +329,7 @@ de	O
 contenido	O
 somático.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -350,6 +354,8 @@ tóxicos	O
 en	O
 orina	O
 negativos.	O
+
+
 
 DIAGNÓSTICO	O
 
@@ -391,6 +397,7 @@ trastorno	O
 del	O
 espectro	O
 esquizofrénico.	O
+
 
 TRATAMIENTO	O
 
@@ -610,4 +617,3 @@ un	O
 estado	O
 funcional	O
 óptimo.	O
-

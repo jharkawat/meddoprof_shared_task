@@ -60,6 +60,7 @@ cursado	O
 sin	O
 incidencias.	O
 
+
 Cuarenta	O
 días	O
 antes	O
@@ -195,6 +196,7 @@ había	O
 realizado	O
 anteriormente.	O
 
+
 A	O
 la	O
 semana	O
@@ -275,6 +277,7 @@ en	O
 pocos	O
 días.	O
 
+
 En	O
 la	O
 exploración	O
@@ -328,6 +331,7 @@ exploración	O
 fue	O
 rigurosamente	O
 normal.	O
+
 
 En	O
 la	O
@@ -443,6 +447,7 @@ abdominal:	O
 sin	O
 alteraciones.	O
 
+
 Diagnóstico	O
 diferencial	O
 
@@ -555,6 +560,7 @@ y	O
 la	O
 eosinofilia.	O
 
+
 Los	O
 primeros	O
 estudios	O
@@ -596,6 +602,7 @@ a	O
 una	O
 infección	O
 parasitaria.	O
+
 
 La	O
 fiebre	O
@@ -735,6 +742,7 @@ rickettsiosis	O
 o	O
 fiebre	O
 Q2.	O
+
 
 Respecto	O
 a	O
@@ -893,6 +901,7 @@ para	O
 fasciolasis,	O
 etc.	O
 
+
 En	O
 las	O
 helmintosis,	O
@@ -941,6 +950,7 @@ que	O
 pueden	O
 causar	O
 eosinofilia.	O
+
 
 Evolución	O
 
@@ -1030,6 +1040,7 @@ mg/día	O
 durante	O
 5	O
 días.	O
+
 
 La	O
 paciente	O
@@ -1126,6 +1137,7 @@ heces	O
 y	O
 orina)	O
 negativo.	O
+
 
 La	O
 paciente	O
@@ -1231,6 +1243,7 @@ en	O
 ese	O
 momento.	O
 
+
 La	O
 paciente,	O
 al	O
@@ -1320,6 +1333,7 @@ fiebre	O
 de	O
 Katayama.	O
 
+
 Diagnóstico	O
 final	O
 
@@ -1328,4 +1342,3 @@ de	O
 Katayama	O
 (esquistosomiasis	O
 aguda).	O
-

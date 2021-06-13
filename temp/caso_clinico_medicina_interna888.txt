@@ -241,4 +241,3 @@ anatomopatológico	O
 de	O
 adenoma	O
 paratiroideo.	O
-

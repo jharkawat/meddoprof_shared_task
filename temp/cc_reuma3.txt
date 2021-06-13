@@ -133,4 +133,3 @@ desenlace	O
 ominoso	O
 del	O
 paciente.	O
-

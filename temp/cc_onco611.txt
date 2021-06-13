@@ -191,6 +191,7 @@ estudio	O
 de	O
 imagen.	O
 
+
 Exploración	O
 física	O
 
@@ -258,6 +259,7 @@ con	O
 pruebas	O
 de	O
 imagen.	O
+
 
 Pruebas	O
 complementarias	O
@@ -500,6 +502,7 @@ con	O
 actividad	O
 osteogénica.	O
 
+
 Diagnóstico	O
 
 El	O
@@ -596,6 +599,7 @@ cT4cN1M0	O
 (estadio	O
 IIIB).	O
 
+
 Tratamiento	O
 
 Se	O
@@ -650,6 +654,7 @@ seguido	O
 de	O
 TAXOL	O
 semanal.	O
+
 
 Evolución	O
 
@@ -750,4 +755,3 @@ la	O
 posibilidad	O
 de	O
 tumorectomía.	O
-

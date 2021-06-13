@@ -397,7 +397,6 @@ quererse	O
 quedar	O
 en	O
 casa	O
-
 de	O
 sus	O
 tíos	O

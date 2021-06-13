@@ -52,6 +52,7 @@ de	O
 la	O
 baja.	O
 
+
 1.	O
 IT	O
 por	O
@@ -89,4 +90,3 @@ baja.	I-SITUACION_LABORAL
 Incapacidad	B-SITUACION_LABORAL
 temporal	I-SITUACION_LABORAL
 (IT).	O
-

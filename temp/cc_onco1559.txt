@@ -316,6 +316,7 @@ de	O
 Oncología	O
 médica.	O
 
+
 Exploración	O
 física	O
 
@@ -389,6 +390,7 @@ patológicos	O
 de	O
 interés.	O
 
+
 Pruebas	O
 complementarias	O
 
@@ -453,6 +455,7 @@ necesidad	O
 de	O
 biopsia.	O
 
+
 Diagnóstico	O
 
 Melanoma	O
@@ -466,6 +469,7 @@ pulmonar	O
 y	O
 gástrica	O
 resecadas.	O
+
 
 Tratamiento	O
 y	O
@@ -707,4 +711,3 @@ Dermatología	O
 y	O
 Oncología	O
 Médica.	O
-

@@ -53,6 +53,7 @@ de	O
 cuerpo	O
 extraño.	O
 
+
 HALLAZGOS	O
 RADIOLÓGICOSSe	O
 practica	O
@@ -129,6 +130,7 @@ estómago	O
 del	O
 paciente.	O
 
+
 DIAGNÓSTICO	O
 FINAL	O
 
@@ -161,4 +163,3 @@ heces	O
 la	O
 prótesis	O
 dental.	O
-

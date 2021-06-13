@@ -283,7 +283,6 @@ una	O
 fractura	O
 acabalgada	O
 con	O
-
 cayo	O
 en	O
 formación	O

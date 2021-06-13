@@ -205,4 +205,3 @@ o	O
 isquemia	O
 por	O
 vasculitis.	O
-

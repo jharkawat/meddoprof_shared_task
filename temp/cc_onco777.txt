@@ -124,6 +124,7 @@ ni	O
 síndrome	O
 constitucional.	O
 
+
 Exploración	O
 física	O
 
@@ -148,6 +149,7 @@ exploración	O
 sin	O
 hallazgos	O
 patológicos.	O
+
 
 Pruebas	O
 complementarias	O
@@ -422,6 +424,7 @@ con	O
 adenocarcinoma	O
 mucinoso.	O
 
+
 Diagnóstico	O
 
 Adenocarcinoma	O
@@ -449,6 +452,7 @@ PD-L1	O
 <	O
 1	O
 %.	O
+
 
 Tratamiento	O
 
@@ -552,6 +556,7 @@ adición	O
 de	O
 antiangiogénicos	O
 (carboplatino-paclitaxel-bevacizumab).	O
+
 
 Evolución	O
 
@@ -663,4 +668,3 @@ de	O
 enfermedad	O
 estable	O
 mantenida.	O
-

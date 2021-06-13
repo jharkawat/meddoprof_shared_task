@@ -688,6 +688,7 @@ resistente	O
 a	O
 meticilina.	O
 
+
 Evolución:	O
 Una	O
 vez	O
@@ -821,4 +822,3 @@ Clorhexidina	O
 para	O
 descontaminación	O
 cutánea.	O
-

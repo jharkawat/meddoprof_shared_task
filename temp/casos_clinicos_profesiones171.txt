@@ -71,6 +71,7 @@ cita	O
 al	O
 alta.	O
 
+
 En	O
 los	O
 casos	O
@@ -107,4 +108,3 @@ pudiendo	O
 realizar	O
 cirugías	O
 orales.	O
-

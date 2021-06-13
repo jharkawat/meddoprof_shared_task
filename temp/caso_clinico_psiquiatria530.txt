@@ -24,6 +24,7 @@ por	O
 agravamiento	O
 clínico.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -79,6 +80,7 @@ Psicología	O
 y	O
 Psiquiatría.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 cabe	O
@@ -89,6 +91,7 @@ realizada	O
 hace	O
 diez	O
 años.	O
+
 
 Antecedentes	O
 familiares:	O
@@ -122,6 +125,7 @@ fue	O
 diagnosticado	O
 de	O
 esquizofrenia.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -352,6 +356,7 @@ aliviar	O
 su	O
 sufrimiento.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -558,6 +563,7 @@ y	O
 volitiva	O
 conservada.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -637,6 +643,7 @@ informado	O
 como	O
 normal.	O
 
+
 DIAGNÓSTICO	O
 
 Se	O
@@ -715,6 +722,7 @@ paciente	O
 estas	O
 compulsiones	O
 ceden.	O
+
 
 TRATAMIENTO	O
 
@@ -1086,4 +1094,3 @@ realiza	O
 buen	O
 cumplimiento	O
 terapéutico.	O
-

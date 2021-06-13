@@ -49,6 +49,7 @@ en	O
 la	O
 fibroscopia.	O
 
+
 Acudió	O
 a	O
 ORL	O
@@ -233,6 +234,7 @@ la	O
 lesión	O
 cervical.	O
 
+
 Con	O
 diagnóstico	O
 de	O
@@ -387,4 +389,3 @@ síndrome	O
 del	O
 primer	O
 mordisco.	O
-

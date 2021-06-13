@@ -181,6 +181,7 @@ refiere	O
 otra	O
 sintomatología.	O
 
+
 Examen	O
 físico	O
 
@@ -315,6 +316,7 @@ en	O
 la	O
 exploración	O
 neurológica.	O
+
 
 Pruebas	O
 complementarias	O
@@ -529,6 +531,7 @@ de	O
 líquido	O
 cefalorraquídeo.	O
 
+
 Tratamiento	O
 
 Durante	O
@@ -573,6 +576,7 @@ el	O
 Servicio	O
 de	O
 Anestesia.	O
+
 
 Evolución	O
 
@@ -653,4 +657,3 @@ de	O
 la	O
 rigidez	O
 cervical.	O
-

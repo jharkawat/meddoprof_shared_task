@@ -24,6 +24,7 @@ un	O
 año	O
 atrás.	O
 
+
 ANTECEDENTES	O
 
 A	O
@@ -365,6 +366,7 @@ Se	O
 decide	O
 ingreso.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -383,6 +385,7 @@ poco	O
 espontáneo,	O
 correctamente	O
 estructurado.	O
+
 
 Niega	O
 sintomatología	O
@@ -441,6 +444,7 @@ signos	O
 de	O
 auto/heteroagresividad.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -462,12 +466,14 @@ TAC	O
 inicial	O
 normal.	O
 
+
 DIAGNÓSTICO	O
 
 Primer	O
 episodio	O
 psicótico:	O
 esquizofrenia.	O
+
 
 TRATAMIENTO	O
 Y	O
@@ -786,6 +792,7 @@ a	O
 tratamiento	O
 intramuscular.	O
 
+
 La	O
 familia	O
 refiere	O
@@ -1005,4 +1012,3 @@ continuar	O
 tratamiento	O
 ambulatorio	O
 intensivo.	O
-

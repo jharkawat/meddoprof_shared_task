@@ -126,6 +126,7 @@ posible	O
 masa	O
 testicular.	O
 
+
 Exploración	O
 física	O
 
@@ -249,6 +250,7 @@ cervicales,	O
 axilares	O
 ni	O
 inguinales.	O
+
 
 Pruebas	O
 complementarias	O
@@ -521,6 +523,7 @@ libre	O
 de	O
 tumor.	O
 
+
 Diagnóstico	O
 
 La	O
@@ -549,6 +552,7 @@ clínico:	O
 seminoma	O
 estadio	O
 IV.	O
+
 
 Tratamiento	O
 
@@ -639,6 +643,7 @@ conjuntivitis	O
 y	O
 neurotoxicidad	O
 leve.	O
+
 
 Evolución	O
 
@@ -1120,4 +1125,3 @@ sigue	O
 en	O
 respuesta	O
 completa.	O
-

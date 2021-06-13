@@ -66,6 +66,7 @@ horas	O
 cada	O
 día.	O
 
+
 Desde	O
 hacía	O
 dos	O
@@ -285,6 +286,7 @@ de	O
 su	O
 realización.	O
 
+
 Los	O
 test	O
 cutáneos	O
@@ -325,6 +327,7 @@ fueron	O
 dudosas	O
 o	O
 negativas.	O
+
 
 La	O
 hoja	O
@@ -395,4 +398,3 @@ se	O
 encontraba	O
 totalmente	O
 asintomática.	O
-

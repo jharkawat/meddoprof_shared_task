@@ -95,6 +95,7 @@ de	O
 la	O
 DT.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -142,6 +143,7 @@ por	O
 patología	O
 psiquiátrica.	O
 
+
 Antecedentes	O
 familiares:	O
 padre	O
@@ -172,6 +174,7 @@ familiares	O
 de	O
 enfermedad	O
 psiquiátrica.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -409,6 +412,7 @@ cervicales	O
 y	O
 tronculares.	O
 
+
 EXPLORACIÓN	O
 FÍSICA	O
 
@@ -511,6 +515,7 @@ está	O
 algo	O
 artefactuado.	O
 
+
 EXPLORACION	O
 PSICOPATOLÓGICA	O
 
@@ -563,6 +568,7 @@ ideación	O
 autolítica	O
 ni	O
 heteroagresividad.	O
+
 
 DIAGNÓSTICO	O
 
@@ -687,6 +693,7 @@ de	O
 espacio	O
 en	O
 SNC.	O
+
 
 TRATAMIENTO	O
 
@@ -923,6 +930,7 @@ a	O
 dosis	O
 creciente.	O
 
+
 EVOLUCIÓN	O
 
 Actualmente,	O
@@ -957,4 +965,3 @@ así	O
 como	O
 la	O
 DT.	O
-

@@ -43,6 +43,7 @@ los	O
 dedos	O
 seccionados.	O
 
+
 Como	O
 resultado	O
 de	O
@@ -58,4 +59,3 @@ función	O
 en	O
 ambas	O
 manos.	O
-

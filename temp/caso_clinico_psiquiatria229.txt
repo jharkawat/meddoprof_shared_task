@@ -47,4 +47,3 @@ procede	O
 a	O
 su	O
 retirada.	O
-

@@ -115,6 +115,7 @@ de	O
 la	O
 sintomatología.	O
 
+
 Exploración	O
 física	O
 
@@ -165,6 +166,7 @@ en	O
 la	O
 exploración	O
 física.	O
+
 
 Exploraciones	O
 complementarias	O
@@ -349,6 +351,7 @@ citología	O
 cervicovaginal	O
 realizada.	O
 
+
 Diagnóstico	O
 
 Vulvitis	O
@@ -360,6 +363,7 @@ o	O
 vulvitis	O
 de	O
 Zoon.	O
+
 
 Tratamiento	O
 
@@ -422,6 +426,7 @@ lavados	O
 excesivos,	O
 etc.).	O
 
+
 Evolución	O
 
 Tras	O
@@ -477,4 +482,3 @@ el	O
 momento	O
 del	O
 diagnóstico.	O
-

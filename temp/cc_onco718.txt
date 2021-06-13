@@ -132,6 +132,7 @@ completó	O
 el	O
 estudio.	O
 
+
 Exploración	O
 física	O
 
@@ -160,6 +161,7 @@ palpaban	O
 masas	O
 ni	O
 visceromegalias.	O
+
 
 Pruebas	O
 complementarias	O
@@ -548,6 +550,7 @@ pancreatobiliares	O
 (Springer	O
 2015).	O
 
+
 Diagnóstico	O
 
 Adenocarcinoma	O
@@ -558,6 +561,7 @@ uT2	O
 N0	O
 cM0	O
 resecable.	O
+
 
 Tratamiento	O
 
@@ -583,6 +587,7 @@ con	O
 montaje	O
 tipo	O
 Child.	O
+
 
 Evolución	O
 
@@ -827,4 +832,3 @@ está	O
 pendiente	O
 nueva	O
 reevaluación.	O
-

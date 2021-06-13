@@ -250,6 +250,7 @@ un	O
 episodio	O
 similar.	O
 
+
 Examen	O
 físico	O
 
@@ -355,6 +356,7 @@ No	O
 dismetrías.	O
 Marcha	O
 normal.	O
+
 
 Pruebas	O
 complementarias	O
@@ -587,6 +589,7 @@ las	O
 arterias	O
 coronarias.	O
 
+
 Diagnóstico	O
 
 •	O
@@ -631,6 +634,7 @@ aórtica	O
 bicúspide	O
 asintomática.	O
 
+
 Tratamiento	O
 
 Lamotrigina	O
@@ -639,6 +643,7 @@ mg	O
 cada	O
 12	O
 horas.	O
+
 
 Evolución	O
 
@@ -776,4 +781,3 @@ control	O
 de	O
 las	O
 crisis.	O
-

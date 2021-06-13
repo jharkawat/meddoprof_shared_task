@@ -33,6 +33,7 @@ Distrito	O
 Atención	O
 Primaria.	O
 
+
 Antecedentes:	O
 
 -Grado	O
@@ -143,6 +144,7 @@ por	O
 Servicio	O
 Neurología.	O
 
+
 Discusión	O
 y	O
 conclusiones	O
@@ -195,6 +197,7 @@ Permanentes	O
 con	O
 revisión	O
 anual.	O
+
 
 Los	O
 traslados	O
@@ -264,4 +267,3 @@ puesto	O
 de	O
 trabajo	O
 concreto.	O
-

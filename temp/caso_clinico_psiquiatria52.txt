@@ -118,7 +118,9 @@ conducía	O
 el	O
 coche.	O
 
+
 EXPLORACIÓN:	O
+
 
 TA:	O
 140/90	O
@@ -155,12 +157,14 @@ Captopril	O
 mgr,	O
 Imipramina.	O
 
+
 VALORACIÓN	O
 SEGÚN	O
 NECESIDADES	O
 DE	O
 VIRGINIA	O
 HERDERSON:	O
+
 
 Necesidad	O
 de	O
@@ -400,12 +404,15 @@ su	O
 tratamiento	O
 adecuadamente.	O
 
+
 PLAN	O
 DE	O
 CUIDADOS	O
 
+
 Diagnóstico:	O
 ANSIEDAD	O
+
 
 NOC:	O
 Que	O
@@ -415,17 +422,20 @@ que	O
 ha	O
 disminuido.	O
 
+
 NIC:	O
 Disminución	O
 de	O
 la	O
 ansiedad.	O
 
+
 Diagnóstico:	O
 RIESGO	O
 DE	O
 VIOLENCIA	O
 AUTODIRIGIDA	O
+
 
 NOC:	O
 Que	O
@@ -434,15 +444,18 @@ sufra	O
 lesiones	O
 autoprovocadas.	O
 
+
 NIC:	O
 Prevención	O
 de	O
 suicidio.	O
 
+
 Diagnóstico:	O
 INCUMPLIMIENTO	O
 DEL	O
 TRATAMIENTO	O
+
 
 NOC:	O
 Que	O
@@ -453,6 +466,7 @@ de	O
 seguir	O
 el	O
 tratamiento.	O
+
 
 NIC:	O
 Enseñanza	O
@@ -480,12 +494,14 @@ toma	O
 de	O
 medicación.	O
 
+
 Diagnóstico:	O
 DETERIORO	O
 DE	O
 LA	O
 INTERACCIÓN	O
 SOCIAL	O
+
 
 NOC:	O
 Que	O
@@ -495,11 +511,13 @@ de	O
 forma	O
 adecuada.	O
 
+
 NIC:	O
 Potenciación	O
 de	O
 la	O
 socialización.	O
+
 
 Diagnóstico:	O
 RIESGO	O
@@ -510,6 +528,7 @@ LOS	O
 PROCESOS	O
 FAMILIARES	O
 
+
 NOC:	O
 Que	O
 la	O
@@ -518,6 +537,7 @@ elabore	O
 un	O
 plan	O
 realista	O
+
 
 NIC:	O
 Apoyo	O
@@ -532,11 +552,13 @@ la	O
 integridad	O
 familiar.	O
 
+
 Diagnóstico:	O
 DÉFICIT	O
 DE	O
 AUTOCUIDADOS	O
 BAÑO/HIGIENE	O
+
 
 NOC:	O
 Que	O
@@ -546,6 +568,7 @@ manejo	O
 de	O
 su	O
 autocuidado.	O
+
 
 NIC:	O
 Reforzar	O
@@ -564,11 +587,13 @@ actividades	O
 de	O
 autocuidado.	O
 
+
 Diagnóstico:	O
 DÉFICIT	O
 DE	O
 ACTIVIDADES	O
 RECREATIVAS	O
+
 
 NOC:	O
 Que	O
@@ -577,12 +602,14 @@ en	O
 actividades	O
 recreativas.	O
 
+
 NIC:	O
 Terapia	O
 con	O
 juegos	O
 por	O
 ejemplo.	O
+
 
 Diagnóstico:	O
 DETERIORO	O
@@ -591,6 +618,7 @@ PATRÓN	O
 DEL	O
 SUEÑO	O
 
+
 NOC:	O
 Que	O
 manifieste	O
@@ -598,6 +626,7 @@ haber	O
 dormido	O
 y	O
 descansado.	O
+
 
 NIC:	O
 Disminución	O
@@ -609,8 +638,10 @@ mejorar	O
 el	O
 sueño.	O
 
+
 Diagnóstico:	O
 ESTREÑIMIENTO	O
+
 
 NOC:	O
 Que	O
@@ -619,6 +650,7 @@ patrón	O
 normal	O
 de	O
 eliminación.	O
+
 
 NIC:	O
 Mejorar	O
@@ -629,8 +661,8 @@ fibras	O
 y	O
 verduras.	O
 
+
 Problema	O
 de	O
 Colaboración:	O
 DEPRESIÓN	O
-

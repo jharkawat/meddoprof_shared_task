@@ -41,6 +41,7 @@ un	I-PROFESION
 centro	I-PROFESION
 comercial.	I-PROFESION
 
+
 Enfermedad	O
 actual.	O
 Valorada	O
@@ -171,6 +172,7 @@ urografía	O
 sin	O
 alteraciones.	O
 
+
 Se	O
 decide	O
 ingreso	O
@@ -194,6 +196,7 @@ con	O
 la	O
 vida	O
 diaria.	O
+
 
 Exploración	O
 física	O
@@ -262,6 +265,7 @@ EEII	O
 sin	O
 alteraciones.	O
 
+
 Pruebas	O
 complementarias	O
 
@@ -318,6 +322,7 @@ citología	O
 y	O
 HPV	O
 negativos.	O
+
 
 Evolución	O
 
@@ -397,6 +402,7 @@ en	O
 dicha	O
 exploración.	O
 
+
 Ante	O
 estos	O
 hallazgos	O
@@ -435,6 +441,7 @@ en	O
 la	O
 pared	O
 abdominal.	O
+
 
 La	O
 paciente	O
@@ -541,4 +548,3 @@ asintomática	O
 en	O
 la	O
 actualidad.	O
-

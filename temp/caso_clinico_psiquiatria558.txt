@@ -66,6 +66,7 @@ ingreso	O
 en	O
 UHP.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -150,6 +151,7 @@ de	O
 peso	O
 y	O
 sialorrea).	O
+
 
 ENFERMEDAD	O
 ACTUAL	O
@@ -395,6 +397,7 @@ atropina	O
 al	O
 alta.	O
 
+
 EVOLUCIÓN	O
 
 La	O
@@ -489,4 +492,3 @@ sin	O
 presentar	O
 nuevas	O
 recaídas.	O
-

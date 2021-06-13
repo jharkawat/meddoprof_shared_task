@@ -43,6 +43,7 @@ relató	O
 su	O
 familiar.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -203,6 +204,7 @@ clonazepam	O
 mg	O
 1-1-0-1.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -278,6 +280,7 @@ de	O
 grados	O
 aproximadamente.	O
 
+
 EXPLORACIÓN	O
 NEUROLÓGICA	O
 
@@ -292,6 +295,7 @@ Bradicinesia	O
 leve	O
 global.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
@@ -300,6 +304,7 @@ Distonía	O
 tardía	O
 de	O
 tronco.	O
+
 
 TRATAMIENTO	O
 
@@ -416,6 +421,7 @@ y	O
 45	O
 grados.	O
 
+
 Tratamiento	O
 actual:	O
 clozapina	O
@@ -433,4 +439,3 @@ mg	O
 comprimido	O
 si	O
 insomnio.	O
-

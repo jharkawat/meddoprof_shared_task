@@ -113,8 +113,10 @@ insecticidas	O
 y	O
 pesticidas.	O
 
+
 Exploración	O
 física	O
+
 
 Se	O
 aprecia	O
@@ -218,6 +220,7 @@ digno	O
 de	O
 mención.	O
 
+
 Exploraciones	O
 complementarias	O
 solicitadas	O
@@ -226,6 +229,7 @@ el	O
 centro	O
 de	O
 salud	O
+
 
 La	O
 hematimetría	O
@@ -243,6 +247,7 @@ globular	O
 y	O
 coagulación	O
 normales.	O
+
 
 En	O
 la	O
@@ -271,6 +276,7 @@ y	O
 transferrina	O
 normal.	O
 
+
 El	O
 sistemático	O
 de	O
@@ -279,6 +285,7 @@ y	O
 sedimento	O
 fue	O
 normal.	O
+
 
 La	O
 serología	O
@@ -329,6 +336,7 @@ H	O
 screening	O
 negativo.	O
 
+
 El	O
 test	O
 de	O
@@ -345,6 +353,7 @@ se	O
 encontraron	O
 alteraciones	O
 destacables.	O
+
 
 Por	O
 los	O
@@ -373,6 +382,7 @@ le	O
 prescribió	O
 tratamiento	O
 sintomático.	O
+
 
 Un	O
 mes	O
@@ -410,6 +420,7 @@ vitamínico	O
 del	O
 grupo	O
 B.	O
+
 
 En	O
 abril	O
@@ -450,6 +461,7 @@ para	O
 su	O
 estudio.	O
 
+
 En	O
 dicho	O
 Servicio	O
@@ -464,6 +476,7 @@ con	O
 los	O
 siguientes	O
 resultados:	O
+
 
 Hemograma,	O
 VSG	O
@@ -487,6 +500,7 @@ T4	O
 libres	O
 normales.	O
 
+
 Marcadores	O
 tumorales:	O
 alfafetoproteína,	O
@@ -504,6 +518,7 @@ carbohidratado	O
 19,9	O
 negativos.	O
 
+
 Anticuerpos	O
 antinucleares,	O
 IgE	O
@@ -511,6 +526,7 @@ total	O
 y	O
 magnesio	O
 normales.	O
+
 
 Serología	O
 infecciosa:	O
@@ -578,6 +594,7 @@ H	O
 screening	O
 negativo.	O
 
+
 Con	O
 estos	O
 datos	O
@@ -629,6 +646,7 @@ inicio	O
 de	O
 los	O
 síntomas.	O
+
 
 Dicho	O
 diagnóstico	O
@@ -754,6 +772,7 @@ a	O
 la	O
 recidiva.	O
 
+
 Durante	O
 el	O
 tratamiento	O
@@ -810,6 +829,7 @@ de	O
 colon	O
 irritable.	O
 
+
 Se	O
 revisa	O
 en	O
@@ -833,6 +853,7 @@ astenia	O
 marcada	O
 y	O
 febrícula).	O
+
 
 Se	O
 repitieron	O
@@ -877,6 +898,7 @@ sangre	O
 periférica	O
 fue	O
 normal.	O
+
 
 En	O
 septiembre	O
@@ -1048,6 +1070,7 @@ h	O
 screening	O
 negative.	O
 
+
 Durante	O
 su	O
 estancia	O
@@ -1098,6 +1121,7 @@ astenia	O
 y	O
 mialgias.	O
 
+
 En	O
 el	O
 informe	O
@@ -1110,6 +1134,7 @@ servicio	O
 se	O
 lee	O
 textualmente:	O
+
 
 "No	O
 presenta	O
@@ -1153,6 +1178,7 @@ encontramos	O
 ante	O
 dicho	O
 cuadro".	O
+
 
 La	O
 paciente	O
@@ -1198,6 +1224,7 @@ de	O
 dicho	O
 Servicio.	O
 
+
 Se	O
 le	O
 prescribe	O
@@ -1232,6 +1259,7 @@ de	O
 Medicina	O
 Interna.	O
 
+
 En	O
 su	O
 evolución,	O
@@ -1263,6 +1291,7 @@ de	O
 la	O
 Comunidad	O
 Autónoma.	O
+
 
 Tras	O
 un	O
@@ -1300,10 +1329,12 @@ siguientes	O
 juicios	O
 diagnósticos:	O
 
+
 1)	O
 Brucelosis	O
 previa	O
 tratada.	O
+
 
 2)	O
 Cuadro	O
@@ -1316,10 +1347,12 @@ síndrome	O
 de	O
 SFC.	O
 
+
 3)	O
 Síndrome	O
 depresivo	O
 añadido.	O
+
 
 Mantienen	O
 el	O
@@ -1346,6 +1379,7 @@ su	O
 hospital	O
 de	O
 origen.	O
+
 
 La	O
 paciente	O
@@ -1493,6 +1527,7 @@ los	O
 siguientes	O
 datos:	O
 
+
 ­	O
 RNAsa	O
 L:	O
@@ -1518,8 +1553,8 @@ la	O
 normal	O
 y	O
 la	O
-
 patológica.	O
+
 ­	O
 Actividad	O
 RNAsa	O
@@ -1537,8 +1572,8 @@ de	O
 la	O
 molécula	O
 de	O
-
 RNAsa.	O
+
 También	O
 se	O
 le	O
@@ -1585,6 +1620,7 @@ calculado	O
 para	O
 la	O
 paciente.	O
+
 
 Tras	O
 completar	O
@@ -1652,6 +1688,7 @@ caracteriza	O
 este	O
 síndrome.	O
 
+
 Dicho	O
 informe	O
 establece	O
@@ -1676,6 +1713,7 @@ cognitivo,	O
 muscular	O
 e	O
 inmune.	O
+
 
 Del	O
 mismo	O
@@ -1746,6 +1784,7 @@ la	O
 vida	O
 cotidiana.	O
 
+
 En	O
 la	O
 actualidad	O
@@ -1772,6 +1811,7 @@ mg®	O
 y	O
 Lyrica	O
 mg®.	O
+
 
 En	O
 la	O
@@ -1816,6 +1856,7 @@ horas	O
 durante	O
 tres	O
 meses.	O
+
 
 Continúa	O
 con	O
@@ -1863,4 +1904,3 @@ de	O
 la	O
 Seguridad	O
 Social.	O
-

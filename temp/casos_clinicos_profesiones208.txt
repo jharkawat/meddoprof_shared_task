@@ -46,6 +46,7 @@ como	O
 auxiliar	B-PROFESION
 administrativo.	B-PROFESION
 
+
 Como	O
 antecedentes	O
 personales	O
@@ -63,6 +64,7 @@ tratamiento	O
 por	O
 cuadros	O
 depresivos.	O
+
 
 Entre	O
 los	O
@@ -175,6 +177,7 @@ falta	O
 de	O
 mejoría.	O
 
+
 En	O
 cuanto	O
 a	O
@@ -239,6 +242,7 @@ queja	O
 de	O
 síntomas	O
 diversos.	O
+
 
 El	O
 episodio	O
@@ -327,6 +331,7 @@ crisis	O
 de	O
 pánico.	O
 
+
 La	O
 exploración	O
 física	O
@@ -410,6 +415,7 @@ tampoco	O
 hallazgos	O
 significativos.	O
 
+
 La	O
 presencia	O
 de	O
@@ -449,6 +455,7 @@ con	O
 criterios	O
 CIE	O
 103.	O
+
 
 Ante	O
 la	O
@@ -560,6 +567,7 @@ afianzando	O
 el	O
 encuadre	O
 quincenal.	O
+
 
 Durante	O
 las	O
@@ -703,6 +711,7 @@ las	O
 quejas	O
 somáticas.	O
 
+
 Al	O
 abordar	O
 aspectos	O
@@ -795,6 +804,7 @@ abandonada	O
 por	O
 ella.	O
 
+
 Otro	O
 punto	O
 de	O
@@ -876,6 +886,7 @@ inseguridades	O
 como	O
 propios.	O
 
+
 Tras	O
 esta	O
 revisión	O
@@ -950,6 +961,7 @@ las	O
 quiere	O
 mucho".	O
 
+
 Daniela	O
 comienza	O
 a	O
@@ -1018,6 +1030,7 @@ cuando	O
 tengo	O
 miedo,	O
 incertidumbre.."	O
+
 
 En	O
 las	O
@@ -1128,6 +1141,7 @@ y	O
 menor	O
 sufrimiento.	O
 
+
 En	O
 una	O
 sesión	O
@@ -1217,4 +1231,3 @@ acude	O
 compulsivamente	O
 a	O
 urgencias.	O
-

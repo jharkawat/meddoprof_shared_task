@@ -30,6 +30,7 @@ la	O
 seguridad	O
 social.	O
 
+
 Antecedentes	O
 personales:	O
 
@@ -308,6 +309,7 @@ aislamiento	O
 y	O
 mutismo.	O
 
+
 Situación	O
 familiar:	O
 Conviven	O
@@ -427,6 +429,7 @@ la	O
 enfermedad	O
 de	O
 Parkinson.	O
+
 
 Historia	O
 de	O
@@ -662,6 +665,8 @@ sentada.	O
 Desbordamiento	O
 familiar.	O
 
+
+
 Juicio	O
 Clínico:	O
 
@@ -686,6 +691,7 @@ la	O
 personalidad	O
 (F60.6.	O
 CIE-10).	O
+
 
 Tratamiento	O
 en	O
@@ -747,4 +753,3 @@ para	O
 adultos.	O
 TEA.	O
 1995.	O
-

@@ -126,6 +126,7 @@ de	O
 forma	O
 ambulatoria.	O
 
+
 Examen	O
 físico	O
 
@@ -165,6 +166,7 @@ dolorosa.	O
 Genitales	O
 externos	O
 normales.	O
+
 
 Pruebas	O
 complementarias	O
@@ -567,6 +569,8 @@ parénquima	O
 de	O
 riñón.	O
 
+
+
 Diagnóstico	O
 
 Hallazgos	O
@@ -585,6 +589,7 @@ urotelio	O
 de	O
 alto	O
 grado.	O
+
 
 Tratamiento	O
 
@@ -607,6 +612,7 @@ vesical	O
 de	O
 forma	O
 laparoscópica.	O
+
 
 Evolución	O
 

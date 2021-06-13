@@ -250,4 +250,3 @@ de	O
 la	O
 medicación	O
 aversiva.	O
-

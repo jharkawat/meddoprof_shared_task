@@ -1028,6 +1028,7 @@ por	O
 los	O
 suelos").	O
 
+
 Cree	O
 que	O
 su	O
@@ -1214,6 +1215,7 @@ centro	O
 de	O
 psicología	O
 clínica.	O
+
 
 Eje	O
 I	O
@@ -1411,6 +1413,7 @@ y	O
 tensión	O
 muscular.	O
 
+
 En	O
 la	O
 descripción	O
@@ -1513,6 +1516,7 @@ un	O
 trastorno	O
 somatoforme.	O
 
+
 Verificamos	O
 así	O
 mismo	O
@@ -1546,6 +1550,7 @@ y	O
 social	O
 del	O
 paciente.	O
+
 
 Finalmente,	O
 el	O
@@ -1595,6 +1600,7 @@ trastorno	O
 psicótico	O
 (Criterio	O
 F).	O
+
 
 En	O
 este	O
@@ -1771,6 +1777,7 @@ los	O
 21	O
 años).	O
 
+
 La	O
 asignación	O
 del	O
@@ -1796,6 +1803,7 @@ torno	O
 a	O
 tres	O
 puntos:	O
+
 
 1-	O
 La	O
@@ -1903,6 +1911,7 @@ parte	O
 del	O
 paciente.	O
 
+
 Por	O
 lo	O
 que	O
@@ -1986,6 +1995,7 @@ mayor	O
 como	O
 la	O
 depresión.	O
+
 
 Esta	O
 página	O
@@ -2086,6 +2096,7 @@ se	O
 ve	O
 afectada.	O
 
+
 Eje	O
 V	O
 (Evaluación	O
@@ -2131,4 +2142,3 @@ actividad	O
 social	O
 y	O
 laboral.	O
-

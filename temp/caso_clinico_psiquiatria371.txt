@@ -297,6 +297,8 @@ durante	O
 el	O
 verano.	O
 
+
+
 ANTECEDENTES	O
 PERSONALES	O
 
@@ -403,6 +405,8 @@ y	O
 actualmente	O
 está	O
 amenorreica.	O
+
+
 
 ANTECEDENTES	O
 FAMILIARES	O
@@ -606,6 +610,8 @@ con	O
 la	O
 familia.	O
 
+
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -673,6 +679,8 @@ o	O
 contenido	O
 del	O
 pensamiento.	O
+
+
 
 EXPLORACIONES	O
 COMPLEMENTARIAS	O
@@ -840,6 +848,8 @@ alteraciones	O
 en	O
 la	O
 repolarización.	O
+
+
 
 EXPLORACIÓN	O
 PSICOLÓGICA	O
@@ -1246,6 +1256,8 @@ corporal	O
 por	O
 sobrestimación.	O
 
+
+
 DIAGNÓSTICO	O
 
 •	O
@@ -1315,6 +1327,7 @@ ingreso	O
 al	O
 alta	O
 65.	O
+
 
 EVOLUCIÓN	O
 Y	O
@@ -2004,6 +2017,7 @@ trastorno	O
 de	O
 personalidad.	O
 
+
 TRATAMIENTO	O
 FARMACOLÓGICO	O
 
@@ -2060,4 +2074,3 @@ y	O
 conseguir	O
 mayor	O
 estabilización.	O
-

@@ -33,6 +33,7 @@ entre	O
 otros	O
 síntomas.	O
 
+
 HISTORIA	O
 CLÍNICA:	O
 ANAMNESIS:	O
@@ -141,6 +142,7 @@ muerte	O
 o	O
 suicidio.	O
 
+
 La	O
 puntuación	O
 siendo	O
@@ -241,6 +243,7 @@ ideas	O
 y	O
 deseos	O
 suicidas.	O
+
 
 DIAGNOSTICO:	O
 
@@ -344,6 +347,7 @@ la	O
 latencia	O
 Rem.	O
 
+
 TRATAMIENTO:	O
 
 Se	O
@@ -431,4 +435,3 @@ Terapia	O
 psicológica,	O
 llamada	O
 psicoterapia.	O
-

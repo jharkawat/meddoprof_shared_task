@@ -1,6 +1,7 @@
 -	O
 Anamnesis:	O
 
+
 Paciente	O
 de	O
 39	O
@@ -89,22 +90,27 @@ consumir	O
 estos	O
 alimentos.	O
 
+
 -	O
 Exploración	O
 física:	O
 
+
 Sin	O
 alteraciones.	O
+
 
 -	O
 Diagnostico	O
 de	O
 presunción:	O
 
+
 -	O
 Asma	O
 a	O
 filiar.	O
+
 
 -	O
 Síndrome	O
@@ -112,9 +118,11 @@ de	O
 alergia	O
 oral.	O
 
+
 -	O
 Datos	O
 complementarios:	O
+
 
 -	O
 Pruebas	O
@@ -131,6 +139,7 @@ en	O
 nuestro	O
 medio:	O
 
+
 Pólenes	O
 (	O
 Phleum,	O
@@ -142,6 +151,7 @@ y	O
 ciprés):	O
 negativas.	O
 
+
 Acaros	O
 (D.	O
 pteronyssinus,	O
@@ -149,6 +159,7 @@ Thyrophagus	O
 y	O
 Lepidoglyphus):	O
 negativas.	O
+
 
 Epitelios	O
 de	O
@@ -164,8 +175,10 @@ aerógenos	O
 Cladosporium):	O
 negativas.	O
 
+
 Látex:	O
 negativo	O
+
 
 -	O
 Pruebas	O
@@ -177,6 +190,7 @@ inmediata	O
 para	O
 trofoalergenos	O
 comunes:	O
+
 
 Pescados	O
 (bacalao,	O
@@ -203,6 +217,7 @@ de	O
 8	O
 mm.	O
 
+
 Crustáceos	O
 (gamba	O
 y	O
@@ -227,6 +242,7 @@ almeja	O
 (10	O
 mm).	O
 
+
 Cefalópodos	O
 (pulpo	O
 y	O
@@ -240,6 +256,7 @@ y	O
 sepia	O
 (9	O
 mm).	O
+
 
 -	O
 Espirometría	O
@@ -274,37 +291,45 @@ y	O
 FEF25-75%,	O
 respectivamente.	O
 
+
 -	O
 IgE	O
 total:	O
 908	O
 KU/L.	O
 
+
 -	O
 IgE	O
 especifica	O
 para:	O
+
 
 D.Pteronissinus:	O
 positiva,	O
 18.20	O
 KU/L.	O
 
+
 Camarón/gamba:	O
 positiva,	O
 >100	O
 KU/L	O
+
 
 Cucaracha:	O
 positiva,	O
 31.60	O
 KU/L.	O
 
+
 Resto	O
 negativa.	O
 
+
 -	O
 Tratamiento:	O
+
 
 Evitar	O
 la	O
@@ -324,9 +349,11 @@ cefalópodos	O
 y	O
 bivalvos.	O
 
+
 -	O
 Diagnostico	O
 definitivo:	O
+
 
 Asma	O
 alérgica	O
@@ -335,4 +362,3 @@ en	O
 el	O
 medio	O
 doméstico.	O
-

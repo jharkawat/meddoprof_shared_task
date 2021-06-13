@@ -78,6 +78,7 @@ tracto	O
 urinario	O
 inferior.	O
 
+
 Exploración	O
 física	O
 
@@ -112,6 +113,7 @@ masa	O
 corporal	O
 (20,14	O
 kg/m2).	O
+
 
 Pruebas	O
 complementarias	O
@@ -409,6 +411,7 @@ en	O
 el	O
 caso.	O
 
+
 Diagnóstico	O
 y	O
 diagnóstico	O
@@ -547,6 +550,7 @@ inflamatorio	O
 con	O
 características	O
 atípicas.	O
+
 
 Tratamiento	O
 
@@ -688,6 +692,7 @@ Lutte	O
 Contre	O
 le	O
 Cancer).	O
+
 
 Evolución	O
 
@@ -1091,4 +1096,3 @@ de	O
 Karnofsky	O
 del	O
 100%.	O
-

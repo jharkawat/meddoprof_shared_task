@@ -567,4 +567,3 @@ la	O
 paciente	O
 permanecía	O
 asintomática.	O
-

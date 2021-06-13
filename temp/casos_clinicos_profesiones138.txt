@@ -100,6 +100,7 @@ furosemida	O
 mg/24	O
 h.	O
 
+
 Enfermedad	O
 actual.	O
 La	O
@@ -157,6 +158,7 @@ en	O
 el	O
 último	O
 año.	O
+
 
 Exploración	O
 física.	O
@@ -230,6 +232,7 @@ de	O
 trombosis	O
 venosa	O
 profunda.	O
+
 
 Electrocardiograma:	O
 ritmo	O
@@ -526,6 +529,8 @@ torácica	O
 descendente	O
 normal.	O
 
+
+
 Evolución	O
 
 Se	O
@@ -677,6 +682,7 @@ observar	O
 reflujos	O
 significativos	O
 
+
 Diagnóstico	O
 
 Disfunción	O
@@ -697,4 +703,3 @@ mitral.	O
 
 Insuficiencia	O
 cardíaca.	O
-

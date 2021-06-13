@@ -42,6 +42,7 @@ Primaria	I-PROFESION
 sin	O
 mejoría.	O
 
+
 Exploración	O
 física:	O
 
@@ -67,6 +68,7 @@ con	O
 erosionadas	O
 y	O
 costrosas.	O
+
 
 Exploraciones	O
 complementarias	O
@@ -189,12 +191,14 @@ que	O
 fue	O
 normal.	O
 
+
 Diagnóstico	O
 
 Sarcoma	O
 de	O
 Kaposi	O
 ampolloso.	O
+
 
 Tratamiento	O
 

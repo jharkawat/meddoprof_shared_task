@@ -78,6 +78,7 @@ mg	O
 vía	O
 oral.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -87,6 +88,7 @@ con	O
 dos	O
 hijos	O
 pequeños.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -369,6 +371,7 @@ de	O
 los	O
 síntomas.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -485,6 +488,7 @@ diario	O
 de	O
 cannabis.	O
 
+
 EXPLORACIÓN	O
 FÍSICA	O
 
@@ -531,6 +535,7 @@ que	O
 presentaba	O
 el	O
 paciente.	O
+
 
 EXPLORACIONES	O
 COMPLEMENTARIAS	O
@@ -602,6 +607,7 @@ rango	O
 de	O
 mantenimiento.	O
 
+
 DIAGNÓSTICO	O
 
 En	O
@@ -672,6 +678,7 @@ de	O
 F55.	O
 trastorno	O
 esquizoafectivo.	O
+
 
 TRATAMIENTO	O
 
@@ -808,4 +815,3 @@ estilo	O
 de	O
 vida	O
 actual.	O
-

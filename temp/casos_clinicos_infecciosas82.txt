@@ -131,6 +131,7 @@ agosto	O
 de	O
 2009.	O
 
+
 A	O
 su	O
 ingreso	O
@@ -366,6 +367,7 @@ otras	O
 alteraciones	O
 reseñables.	O
 
+
 Diagnóstico	O
 diferencial	O
 
@@ -403,6 +405,7 @@ en	O
 nuestro	O
 medio	O
 destacamos:	O
+
 
 Causas	O
 infecciosas:	O
@@ -577,6 +580,7 @@ la	O
 esquistosomiasis	O
 hepatoesplénica.	O
 
+
 Causas	O
 neoplásicas:	O
 
@@ -614,6 +618,7 @@ suelen	O
 producir	O
 fiebre.	O
 
+
 Causas	O
 inflamatorias:	O
 
@@ -644,6 +649,7 @@ hepato-esplenomegalia,	O
 pancitopenia	O
 e	O
 hipertransaminasemia.	O
+
 
 Enfermedades	O
 por	O
@@ -676,6 +682,7 @@ hepato-esplenomegalia,	O
 proteinuria	O
 e	O
 hipertransaminasemia.	O
+
 
 Evolución	O
 
@@ -961,10 +968,10 @@ de	O
 la	O
 enfermedad.	O
 
+
 Diagnóstico	O
 final	O
 
 Leishmaniasis	O
 visceral	O
 hepato-esplénica.	O
-

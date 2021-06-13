@@ -30,6 +30,7 @@ No	O
 Iqx	O
 Previas	O
 
+
 Ttos	O
 Crónicos:	O
 
@@ -48,6 +49,8 @@ Lyrica	O
 Airtal:	O
 1-0-1	O
 
+
+
 Enfermedad	O
 Actual	O
 
@@ -62,8 +65,10 @@ y	O
 glúteo	O
 derecho	O
 
+
 2	O
 meses	O
+
 
 Intensificación	O
 del	O
@@ -85,6 +90,7 @@ a	O
 la	O
 marcha.	O
 
+
 Respuesta	O
 parcial	O
 a	O
@@ -93,9 +99,11 @@ AINES	O
 y	O
 OPIOIDES	O
 
+
 Anamnesis	O
 x	O
 Aparatos	O
+
 
 Sudoración	O
 nocturna	O
@@ -117,6 +125,7 @@ leve	O
 Contacto	O
 con	O
 ganado	O
+
 
 NO	O
 Sinovitis,	O
@@ -167,6 +176,7 @@ NO	O
 Antecedente	O
 traumático	O
 
+
 Ingreso	O
 
 Exploración	O
@@ -203,6 +213,7 @@ pedios	O
 laten	O
 simétricos.	O
 
+
 Reumatológica	O
 
 MID:	O
@@ -238,6 +249,7 @@ articulación	O
 coxofemoral	O
 derecha.	O
 
+
 Pruebas	O
 Complementarias	O
 
@@ -254,9 +266,11 @@ Leucocitos:16,500	O
 
 Plaquetas:345,000VSG:25	O
 
+
 Coagulación	O
 
 Normal	O
+
 
 Bioquímica	O
 general	O
@@ -276,6 +290,7 @@ GGT:	O
 PCR:	O
 23.90	O
 
+
 Inmunología	O
 
 FR,	O
@@ -287,6 +302,7 @@ y	O
 ANCAs:	O
 Normales.	O
 
+
 Serología	O
 Virus	O
 hepáticos	O
@@ -295,10 +311,11 @@ de	O
 artritis:	O
 Negativos	O
 
+
+
 NECROSIS	O
 AVASCULARDE	O
 CADERA	O
 Y	O
 HEMATOMA	O
 ADYACENTESARCOMA	O
-

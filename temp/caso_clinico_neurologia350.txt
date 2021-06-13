@@ -213,6 +213,7 @@ cuidar	O
 el	O
 jardín.	O
 
+
 Exploración	O
 física	O
 
@@ -352,6 +353,7 @@ la	O
 base	O
 de	O
 sustentación.	O
+
 
 Pruebas	O
 complementarias	O
@@ -513,6 +515,7 @@ Proteína	O
 14.3.3	O
 positiva.	O
 
+
 Diagnóstico	O
 
 Síndrome	O
@@ -525,6 +528,7 @@ Enfermedad	O
 de	O
 Creutzfeldt-	O
 Jakob.	O
+
 
 Evolución	O
 
@@ -579,4 +583,3 @@ fallece	O
 2	O
 meses	O
 después.	O
-

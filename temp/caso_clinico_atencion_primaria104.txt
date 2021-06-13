@@ -7,6 +7,7 @@ y	O
 ansiedad	O
 vital.	O
 
+
 Enfoque	O
 individual	O
 
@@ -55,6 +56,7 @@ semanas	O
 de	O
 evolución.	O
 
+
 Antecedentes	O
 personales:	O
 síndrome	O
@@ -96,6 +98,7 @@ filiado	O
 en	O
 su	O
 país).	O
+
 
 Exploración	O
 física:	O
@@ -177,6 +180,7 @@ sin	O
 hallazgos	O
 de	O
 interés.	O
+
 
 Enfoque	O
 familiar	O
@@ -329,6 +333,7 @@ a	O
 este	O
 mundo".	O
 
+
 Juicio	O
 clínico	O
 (listado	O
@@ -340,6 +345,7 @@ diferencial)	O
 Duelo	O
 de	O
 riesgo.	O
+
 
 Plan	O
 de	O
@@ -369,6 +375,7 @@ para	O
 descartar	O
 organicidad.	O
 
+
 Sin	O
 embargo,	O
 acude	O
@@ -392,6 +399,7 @@ impiden	O
 la	O
 hidratación	O
 oral.	O
+
 
 Se	O
 decide	O
@@ -497,4 +505,3 @@ tratamiento	O
 frenador	O
 y	O
 betabloqueante.	O
-

@@ -163,6 +163,7 @@ capas	O
 retinianas	O
 internas.	O
 
+
 Asimismo,	O
 se	O
 realiza	O
@@ -219,4 +220,3 @@ de	O
 hipoplasia	O
 foveal	O
 idiopática.	O
-

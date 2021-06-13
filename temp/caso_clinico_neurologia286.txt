@@ -59,6 +59,7 @@ en	I-PROFESION
 un	I-PROFESION
 instituto.	I-PROFESION
 
+
 Desde	O
 hacía	O
 dos	O
@@ -214,6 +215,7 @@ al	O
 tratamiento	O
 médico.	O
 
+
 Exploración	O
 física	O
 
@@ -245,6 +247,7 @@ temperatura	O
 y	O
 glucemia	O
 digital).	O
+
 
 Pruebas	O
 complementarias	O
@@ -414,6 +417,7 @@ paciente	O
 la	O
 rechazó.	O
 
+
 Tratamiento	O
 
 El	O
@@ -450,6 +454,7 @@ dosis	O
 de	O
 20	O
 mg/día.	O
+
 
 Evolución	O
 
@@ -522,6 +527,7 @@ paquimeningitis	O
 crónica	O
 hipertrófica.	O
 
+
 La	O
 biopsia	O
 de	O
@@ -581,6 +587,7 @@ crónica	O
 hipertrófica	O
 idiopática.	O
 
+
 Diagnóstico	O
 
 Paquimeningitis	O
@@ -588,4 +595,3 @@ crónica	O
 hipertrófica	O
 idiopática	O
 (PCHI).	O
-

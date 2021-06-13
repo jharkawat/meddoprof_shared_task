@@ -233,6 +233,7 @@ enemas	O
 de	O
 limpieza.	O
 
+
 Exploración	O
 física	O
 
@@ -365,6 +366,7 @@ con	O
 apoyo	O
 bilateral.	O
 
+
 Pruebas	O
 complementarias	O
 
@@ -490,6 +492,7 @@ creció	O
 Haemophilus	O
 influenzae.	O
 
+
 ·	O
 Pruebas	O
 de	O
@@ -594,6 +597,7 @@ de	O
 origen	O
 inflamatoria.	O
 
+
 ·	O
 Otras	O
 exploraciones:	O
@@ -639,6 +643,7 @@ y	O
 nervios	O
 tibiales	O
 posteriores.	O
+
 
 Diagnóstico	O
 diferencial	O
@@ -915,6 +920,7 @@ de	O
 probable	O
 origen	O
 paraneoplásico.	O
+
 
 Evolución	O
 
@@ -1246,7 +1252,6 @@ día	O
 de	O
 inicio	O
 de	O
-
 la	O
 QMT,	O
 el	O
@@ -1299,6 +1304,7 @@ contexto	O
 de	O
 shock	O
 séptico.	O
+
 Diagnóstico	O
 final	O
 
@@ -1321,4 +1327,3 @@ carcinoma	O
 microcítico	O
 de	O
 pulmón.	O
-

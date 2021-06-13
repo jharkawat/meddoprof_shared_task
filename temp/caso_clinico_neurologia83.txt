@@ -206,6 +206,7 @@ evolución	O
 del	O
 cuadro.	O
 
+
 Examen	O
 físico	O
 
@@ -309,6 +310,7 @@ y	O
 sensitivas)	O
 completamente	O
 normal.	O
+
 
 Pruebas	O
 complementarias	O
@@ -580,6 +582,7 @@ S)	O
 es	O
 normal.	O
 
+
 Diagnóstico	O
 
 Trombosis	O
@@ -610,6 +613,7 @@ desencadenantes	O
 (tratamiento	O
 anticonceptivo,	O
 ferropenia).	O
+
 
 Tratamiento	O
 
@@ -718,6 +722,7 @@ de	O
 la	O
 ferropenia.	O
 
+
 Evolución	O
 
 Un	O
@@ -728,4 +733,3 @@ paciente	O
 se	O
 encontraba	O
 asintomática.	O
-

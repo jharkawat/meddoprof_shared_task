@@ -20,8 +20,10 @@ de	O
 analgésicos	O
 opiáceos.	O
 
+
 Antecedentes	O
 personales	O
+
 
 Psicobiografía.	O
 Es	O
@@ -135,8 +137,10 @@ robo	O
 con	O
 fuerza.	O
 
+
 Antecedentes	O
 médicos	O
+
 
 Según	O
 el	O
@@ -234,9 +238,11 @@ a	O
 las	O
 adicciones.	O
 
+
 Anamnesis	O
 y	O
 exploración	O
+
 
 Durante	O
 la	O
@@ -346,7 +352,9 @@ salud	O
 mental	O
 comunitaria.	O
 
+
 Evolución	O
+
 
 Finalmente,	O
 durante	O
@@ -601,7 +609,9 @@ de	O
 funcionamiento	O
 socio-laboral.	O
 
+
 Tratamientos	O
+
 
 En	O
 salud	O
@@ -693,8 +703,10 @@ deshabituación	O
 a	O
 opiáceos.	O
 
+
 Juicios	O
 diagnósticos	O
+
 
 El	O
 caso	O
@@ -798,4 +810,3 @@ alcohol.	O
 
 Esquizofrenia	O
 paranoide.	O
-

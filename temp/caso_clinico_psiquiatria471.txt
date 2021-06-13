@@ -12,6 +12,7 @@ los	O
 35	O
 años.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -35,6 +36,7 @@ de	B-SITUACION_LABORAL
 baja	I-SITUACION_LABORAL
 laboral.	I-SITUACION_LABORAL
 
+
 Antecedentes	O
 familiares:	O
 destacan	O
@@ -53,6 +55,7 @@ por	O
 defenestración	O
 en	O
 2001.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -165,6 +168,7 @@ y	O
 reorganización	O
 ocupacional.	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 tiene	O
@@ -201,6 +205,7 @@ aproximadamente	O
 cigarrillos	O
 al	O
 día.	O
+
 
 ENFERMEDAD	O
 ACTUAL	O
@@ -841,6 +846,7 @@ la	O
 medicación	O
 depot.	O
 
+
 EXPLORACIÓN	O
 FÍSICA	O
 
@@ -900,6 +906,7 @@ de	O
 masa	O
 corporal:	O
 28.	O
+
 
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
@@ -1008,6 +1015,7 @@ de	O
 realidad	O
 alterado.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -1106,6 +1114,7 @@ a	O
 ningún	O
 nivel.	O
 
+
 DIAGNÓSTICO	O
 
 El	O
@@ -1164,6 +1173,7 @@ de	O
 consumo	O
 de	O
 sustancias.	O
+
 
 TRATAMIENTO	O
 
@@ -1461,6 +1471,7 @@ medicación	O
 tolerada	O
 adecuadamente.	O
 
+
 EVOLUCIÓN	O
 
 El	O
@@ -1593,4 +1604,3 @@ seguimiento	O
 en	O
 su	O
 CSM.	O
-

@@ -181,6 +181,7 @@ por	O
 cuatro	O
 días.	O
 
+
 Al	O
 quinto	O
 día	O
@@ -208,6 +209,7 @@ paciente	O
 observando	O
 P.	O
 canis.	O
+
 
 Una	O
 tomografía	O
@@ -241,6 +243,7 @@ higroma	O
 fronto-parietal	O
 derecho.	O
 
+
 Su	O
 evolución	O
 posterior	O
@@ -271,4 +274,3 @@ hemocultivos	O
 posteriores	O
 fueron	O
 negativos.	O
-

@@ -87,6 +87,7 @@ sus	O
 conductas	O
 agresivas.	O
 
+
 Descripción	O
 de	O
 la	O
@@ -210,6 +211,7 @@ era	O
 bueno	O
 para	O
 él.	O
+
 
 Presenta	O
 abuso	O
@@ -365,6 +367,7 @@ rasgos	O
 de	O
 inestabilidad.	O
 
+
 En	O
 el	O
 momento	O
@@ -453,6 +456,7 @@ que	O
 le	O
 hace	O
 sufrir.	O
+
 
 Ángel	O
 cursa	O
@@ -557,6 +561,7 @@ son	O
 dignos	O
 para	O
 él.	O
+
 
 En	O
 casa	O
@@ -665,6 +670,7 @@ tenerles	O
 en	O
 cuenta.	O
 
+
 El	O
 grupo	O
 de	O
@@ -733,6 +739,7 @@ según	O
 "son	O
 para	O
 pobres").	O
+
 
 Historia	O
 del	O
@@ -876,6 +883,7 @@ aprendizajes	O
 mal	O
 realizados.	O
 
+
 Su	O
 madre	O
 siempre	O
@@ -977,6 +985,7 @@ comporte	O
 como	O
 un	O
 hombre".	O
+
 
 En	O
 la	O
@@ -1291,6 +1300,7 @@ tiene	O
 dinero	O
 lo	O
 coge.	O
+
 
 Intervención	O
 
@@ -1636,6 +1646,7 @@ regresan	O
 al	O
 centro.	O
 
+
 Ante	O
 el	O
 incremento	O
@@ -1733,6 +1744,7 @@ trabajo	O
 de	O
 vigilante	B-PROFESION
 jurado.	I-PROFESION
+
 
 Mantiene	O
 esta	O
@@ -1842,6 +1854,7 @@ de	O
 enfrentarse	O
 a	O
 él.	O
+
 
 Todo	O
 esto	O

@@ -177,6 +177,7 @@ reflujo	O
 gastroesofagofaringolaringeal	O
 leve.	O
 
+
 Recibe	O
 tratamiento	O
 por	O
@@ -334,6 +335,7 @@ Cáncer	O
 epidermoide	O
 metastásico.	O
 
+
 Recibe	O
 tratamiento	O
 con	O
@@ -428,6 +430,7 @@ físico	O
 sin	O
 alteraciones.	O
 
+
 Criterio	O
 Ocupacional	O
 
@@ -482,4 +485,3 @@ diámetro	O
 para	O
 elaborar	O
 tornillos.	O
-

@@ -57,6 +57,7 @@ el	O
 video	O
 adjunto.	O
 
+
 El	O
 paciente	O
 fue	O
@@ -239,4 +240,3 @@ infiltrados	O
 con	O
 estadio	O
 pT3N0.	O
-

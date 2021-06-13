@@ -61,6 +61,7 @@ encargada	B-PROFESION
 de	I-PROFESION
 mantenimiento.	I-PROFESION
 
+
 Como	O
 antecedentes	O
 familiares	O
@@ -86,6 +87,7 @@ está	O
 diagnosticada	O
 de	O
 distimia.	O
+
 
 En	O
 los	O
@@ -147,6 +149,7 @@ realiza	O
 desde	O
 entonces.	O
 
+
 Acude	O
 al	O
 Servicio	O
@@ -180,6 +183,7 @@ palpitaciones	O
 y	O
 síndrome	O
 seudogripal.	O
+
 
 A	O
 la	O
@@ -321,6 +325,7 @@ de	O
 conciliación	O
 e	O
 hiporexia.	O
+
 
 En	O
 su	O
@@ -543,6 +548,7 @@ otras	O
 sustancias	O
 tóxicas.	O
 
+
 La	O
 paciente	O
 refiere	O
@@ -605,6 +611,7 @@ de	O
 pastillas	O
 de	O
 tranquilizantes.	O
+
 
 Según	O
 nos	O
@@ -700,6 +707,7 @@ Hospitalización	O
 de	O
 Psiquiatría.	O
 
+
 El	O
 facultativo	B-PROFESION
 especialista	I-PROFESION
@@ -715,4 +723,3 @@ residente	O
 de	O
 primer	O
 año.	O
-

@@ -124,6 +124,7 @@ pomada)	O
 sin	O
 respuesta.	O
 
+
 Exploración	O
 física	O
 
@@ -186,6 +187,7 @@ su	O
 mano	O
 dominante	O
 (derecha).	O
+
 
 Exploraciones	O
 complementarias	O
@@ -406,6 +408,7 @@ para	O
 el	O
 dedal.	O
 
+
 Diagnóstico	O
 
 Dermatitis	O
@@ -430,6 +433,7 @@ en	O
 el	O
 rosario.	O
 
+
 Tratamiento	O
 
 Evitar	O
@@ -439,6 +443,7 @@ positivos,	O
 sulfato	O
 de	O
 niquel.	O
+
 
 Evolución	O
 
@@ -469,4 +474,3 @@ desde	O
 hace	O
 9	O
 meses.	O
-

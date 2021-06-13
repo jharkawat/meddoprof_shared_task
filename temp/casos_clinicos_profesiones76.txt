@@ -68,4 +68,3 @@ región	O
 articular	O
 del	O
 cuerpo.	O
-

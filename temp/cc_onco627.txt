@@ -1,5 +1,6 @@
 Anamnesis	O
 
+
 Antecedentes	O
 personales	O
 
@@ -69,6 +70,7 @@ familiares:	O
 no	O
 presenta.	O
 
+
 Historia	O
 oncológica	O
 
@@ -109,6 +111,7 @@ cervical	O
 y	O
 disfagia.	O
 
+
 Síntomas	O
 al	O
 diagnóstico	O
@@ -147,6 +150,7 @@ dolor	O
 regularmente	O
 controlado.	O
 
+
 Además,	O
 disfagia	O
 a	O
@@ -174,6 +178,7 @@ No	O
 muestra	O
 otra	O
 sintomatología.	O
+
 
 Exploración	O
 física	O
@@ -246,6 +251,7 @@ reducida	O
 un	O
 70	O
 %.	O
+
 
 Pruebas	O
 complementarias	O
@@ -406,6 +412,7 @@ sanguínea	O
 sin	O
 alteraciones.	O
 
+
 Diagnóstico	O
 
 Paciente	O
@@ -476,6 +483,7 @@ con	O
 quimioterapia	O
 paliativa.	O
 
+
 Tratamiento	O
 
 Se	O
@@ -523,6 +531,7 @@ tratamiento	O
 médico	O
 se	O
 autolimitan.	O
+
 
 Evolución	O
 
@@ -1265,4 +1274,3 @@ controles	O
 de	O
 forma	O
 periódica.	O
-

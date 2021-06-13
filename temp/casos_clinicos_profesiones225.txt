@@ -204,4 +204,3 @@ efecto	O
 secundario	O
 dosis	O
 dependiente.	O
-

@@ -15,6 +15,7 @@ sintomatología	O
 depresiva	O
 grave.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -41,6 +42,7 @@ hipertrofia	O
 benigna	O
 de	O
 próstata.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -207,6 +209,7 @@ su	O
 ingreso	O
 hospitalario.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -343,6 +346,7 @@ de	O
 forma	O
 ocasional.	O
 
+
 DIAGNÓSTICO	O
 
 Enfermedad	O
@@ -361,6 +365,7 @@ el	O
 estado	O
 de	O
 ánimo.	O
+
 
 TRATAMIENTO	O
 
@@ -509,4 +514,3 @@ forma	O
 consensuada	O
 con	O
 Neurología.	O
-

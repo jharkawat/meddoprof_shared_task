@@ -1,7 +1,0 @@
-T1	PROCEDIMIENTO 211 236	terapia electroconvulsiva
-T2	PROCEDIMIENTO 287 310	fármacos antidepresivos
-T3	PROCEDIMIENTO 313 327	antipsicóticos
-T4	ORG_VIVO 35 43	paciente
-T5	ORG_VIVO 411 419	paciente
-T6	ENFERMEDAD 66 84	depresivo unipolar
-T7	ENFERMEDAD 146 163	delirio de Cotard

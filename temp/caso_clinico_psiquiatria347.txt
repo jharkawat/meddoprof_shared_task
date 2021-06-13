@@ -40,6 +40,7 @@ consumo	O
 de	O
 tóxicos.	O
 
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA:	O
 
@@ -98,6 +99,7 @@ a	O
 tóxicos	O
 negativo.	O
 
+
 DIAGNOSTICO	O
 
 El	O
@@ -149,6 +151,7 @@ paliperidona	O
 con	O
 estabilidad	O
 clínica.	O
+
 
 A	O
 la	O
@@ -207,4 +210,3 @@ ocurre	O
 en	O
 este	O
 caso.	O
-

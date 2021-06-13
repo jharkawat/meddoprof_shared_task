@@ -112,6 +112,7 @@ de	O
 las	O
 citologías.	O
 
+
 Pruebas	O
 complementarias:	O
 Test	O
@@ -140,6 +141,7 @@ de	O
 disfunción	O
 vegetativa.	O
 
+
 Pronóstico,	O
 tratamiento	O
 y	O
@@ -165,6 +167,7 @@ hoy,	O
 únicamente	O
 tratamiento	O
 sintomático.	O
+
 
 Discusión	O
 de	O
@@ -312,4 +315,3 @@ sin	O
 el	O
 respaldo	O
 científico.	O
-

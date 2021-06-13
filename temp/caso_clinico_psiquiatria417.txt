@@ -43,6 +43,7 @@ compañeras	B-SITUACION_LABORAL
 de	I-SITUACION_LABORAL
 piso.	I-SITUACION_LABORAL
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -82,6 +83,7 @@ a	O
 la	O
 sintomatología	O
 psicótica.	O
+
 
 Antecedentes	O
 médico-quirúrgicos:	O
@@ -125,6 +127,7 @@ la	O
 clínica	O
 psicótica.	O
 
+
 Antecedentes	O
 familiares:	O
 abuela	O
@@ -141,6 +144,7 @@ le	O
 fue	O
 la	O
 cabeza".	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -161,6 +165,7 @@ a	O
 la	O
 sintomatología	O
 psicótica.	O
+
 
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
@@ -243,6 +248,7 @@ en	O
 un	O
 mes.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -261,6 +267,8 @@ de	O
 prolactina:	O
 33,4	O
 ng/dL.	O
+
+
 
 TRATAMIENTO	O
 
@@ -583,7 +591,6 @@ prolactina	O
 minimamente	O
 elevados	O
 (33,4	O
-
 ng/dl)	O
 sin	O
 clínica,	O

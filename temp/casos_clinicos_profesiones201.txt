@@ -42,6 +42,7 @@ y	O
 conductuales	O
 significativos.	O
 
+
 En	O
 cuanto	O
 a	O
@@ -102,6 +103,7 @@ día,	O
 como	O
 máximo.	O
 
+
 El	O
 paciente	O
 ingresa	O
@@ -154,6 +156,7 @@ corticoterapia	O
 durante	O
 el	O
 proceso.	O
+
 
 En	O
 la	O
@@ -242,6 +245,7 @@ ingreso	O
 y	O
 al	O
 alta.	O
+
 
 Psicopatológicamente	O
 resulta	O
@@ -424,6 +428,7 @@ y	O
 de	O
 recencia.	O
 
+
 Ante	O
 la	O
 sospecha	O
@@ -465,6 +470,7 @@ quetiapina	O
 mg	O
 al	O
 día).	O
+
 
 Se	O
 realizan	O
@@ -575,6 +581,7 @@ infección	O
 por	O
 SARS-CoV-2.	O
 
+
 Durante	O
 los	O
 dos	O
@@ -681,6 +688,7 @@ completa	O
 en	O
 nueve	O
 días.	O
+
 
 Al	O
 mes	O
@@ -793,4 +801,3 @@ previamente	O
 no	O
 estaban	O
 presentes.	O
-

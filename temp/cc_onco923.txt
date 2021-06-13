@@ -71,6 +71,7 @@ presentado	O
 expectoración	O
 hemática.	O
 
+
 Exploración	O
 física	O
 
@@ -119,6 +120,7 @@ miembros	O
 inferiores	O
 sin	O
 alteraciones.	O
+
 
 Pruebas	O
 complementarias	O
@@ -427,6 +429,7 @@ probable	O
 es	O
 T2N2M0.	O
 
+
 Diagnóstico	O
 
 Carcinoma	O
@@ -440,6 +443,7 @@ tipo	O
 epidermoide	O
 estadio	O
 IIIB.	O
+
 
 Tratamiento	O
 
@@ -541,6 +545,7 @@ del	O
 LSD.	O
 Neumonitis	O
 posradiación.	O
+
 
 Evolución	O
 

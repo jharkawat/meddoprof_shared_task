@@ -210,6 +210,7 @@ de	O
 3	O
 años.	O
 
+
 1.	O
 DATOS	O
 DE	O
@@ -231,6 +232,7 @@ de	O
 3	O
 años.	O
 
+
 2.	O
 REFERENTE	O
 Y	O
@@ -243,6 +245,7 @@ Acude	O
 por	O
 su	O
 cuenta	O
+
 
 3.	O
 QUEJA/	O
@@ -270,6 +273,7 @@ pasado	O
 estando	O
 en	O
 casa.	O
+
 
 4.	O
 DESCRIPCIÓN	O
@@ -355,6 +359,7 @@ de	O
 la	O
 alimentación.	O
 
+
 5.	O
 HISTORIA	O
 Y	O
@@ -434,6 +439,7 @@ los	O
 episodios	O
 actuales.	O
 
+
 6.	O
 INTERFERENCIA	O
 
@@ -468,6 +474,7 @@ salir	O
 de	O
 casa.	O
 
+
 7.	O
 TRATAMIENTOS	O
 PROBLEMA	O
@@ -475,6 +482,7 @@ ACTUAL.	O
 
 No	O
 refiere	O
+
 
 8.	O
 PROBLEMAS	O
@@ -490,6 +498,7 @@ información	O
 al	O
 respecto	O
 
+
 9.	O
 HISTORIAL	O
 MÉDICO	O
@@ -500,6 +509,7 @@ de	O
 información	O
 al	O
 respecto	O
+
 
 10.	O
 INFORMACIÓN	O
@@ -531,6 +541,7 @@ padres	O
 no	O
 aprueban.	O
 
+
 11.	O
 ANTECEDENTES	O
 FAMILIARES	O
@@ -549,6 +560,7 @@ una	O
 sintomatología	O
 similar.	O
 
+
 12.	O
 PERSONALIDAD	O
 PREMÓRBIDA	O
@@ -559,6 +571,7 @@ de	O
 información	O
 al	O
 respecto	O
+
 
 13.	O
 PSICOPATOGRAMA	O
@@ -633,6 +646,7 @@ el	O
 pecho,	O
 mareos	O
 
+
 14.	O
 DIAGNÓSTICO	O
 SEGÚN	O
@@ -645,6 +659,7 @@ y	O
 trastorno	O
 de	O
 agorafobia	O
+
 
 15.	O
 DIAGNÓSTICO	O
@@ -762,4 +777,3 @@ de	O
 una	O
 enfermedad	O
 médica.	O
-

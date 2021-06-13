@@ -42,6 +42,7 @@ diagnóstica	O
 esquizofrenia	O
 desorganizada.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -58,6 +59,8 @@ interés.Antecedentes	O
 médicos:	O
 sin	O
 interés	O
+
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -159,6 +162,7 @@ y	O
 a	O
 la	O
 recaída.	O
+
 
 PRUEBAS	O
 COMPLEMENTARIAS	O
@@ -344,6 +348,7 @@ de	O
 tipo	O
 inespecífico.	O
 
+
 DIAGNÓSTICO	O
 
 Durante	O
@@ -400,6 +405,7 @@ desorganizada	O
 de	O
 la	O
 CIE-10).	O
+
 
 TRATAMIENTO	O
 
@@ -472,6 +478,7 @@ manteniéndose	O
 monoterapia	O
 antipsicótica.	O
 
+
 EVOLUCIÓN	O
 
 Durante	O
@@ -519,4 +526,3 @@ clozapina	O
 25	O
 mg	O
 0-0-1.	O
-

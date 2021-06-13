@@ -152,6 +152,7 @@ fue	O
 de	O
 12,5.	O
 
+
 Examen	O
 físico:	O
 Rn	O
@@ -214,6 +215,7 @@ en	O
 oreja	O
 derecha.	O
 
+
 Tórax:	O
 
 Pulmones:	O
@@ -243,6 +245,7 @@ depresible,	O
 no	O
 doloroso,	O
 RHAnormales.	O
+
 
 Extremidades	O
 superiores:	O
@@ -276,6 +279,7 @@ cutáneas	O
 (sindactilia	O
 cutánea).	O
 
+
 Extremidades	O
 inferiores:	O
 Pies	O
@@ -300,6 +304,7 @@ separados,	O
 anchos,	O
 malformados.	O
 
+
 Genitales:	O
 Femeninos,	O
 labios	O
@@ -321,6 +326,7 @@ conservado,	O
 reflejos	O
 osteotendinosos	O
 presentes.	O
+
 
 Exámenes	O
 Complementarios:	O
@@ -371,6 +377,7 @@ la	O
 mano	O
 izquierda.	O
 
+
 EVOLUCIÓN	O
 
 Durante	O
@@ -420,4 +427,3 @@ los	O
 días	O
 de	O
 vida.	O
-

@@ -12,15 +12,18 @@ años	O
 Queja/Síntoma:	O
 Sincope	O
 
+
 Diagnóstico	O
 final:	O
 Sincope	O
 vasovagal	O
 
+
 Otros	O
 posibles	O
 diagnósticos:	O
 Ninguno	O
+
 
 Visión	O
 borrosa,	O
@@ -29,6 +32,7 @@ de	O
 calor	O
 y	O
 palidez.	O
+
 
 Está	O
 preocupada	O
@@ -40,6 +44,7 @@ a	O
 ocurriren	O
 el	O
 trabajo.	O
+
 
 Mujer	O
 de	O
@@ -74,6 +79,7 @@ familiares	O
 de	O
 interés.	O
 
+
 En	O
 consulta:	O
 buen	O
@@ -90,6 +96,7 @@ FC	O
 lpm.	O
 Resto	O
 normal.	O
+
 
 Edad:	O
 29	O
@@ -195,6 +202,7 @@ ajustados	O
 al	O
 caso:	O
 Ninguno	O
+
 
 Anamnesis:	O
 
@@ -383,6 +391,7 @@ una	O
 muerte	O
 súbita.	O
 
+
 Antecedentes	O
 personales.	O
 
@@ -401,6 +410,7 @@ Estilo	O
 de	O
 vida	O
 cardiosaludable.	O
+
 
 Antecedentes	O
 familiares	O
@@ -423,6 +433,7 @@ hermanos	O
 sin	O
 antecedentes.	O
 
+
 Datos	O
 sociales:	O
 
@@ -437,10 +448,12 @@ y	O
 socioeconómico	O
 medio.	O
 
+
 Estilo	O
 de	O
 vida	O
 cardiosaludable.	O
+
 
 Exploración	O
 Clínica:	O
@@ -479,6 +492,7 @@ Abdomen	O
 y	O
 MMII:	O
 normales.	O
+
 
 Manejo	O
 clínico:	O
@@ -537,4 +551,3 @@ precisa	O
 más	O
 exploraciones	O
 complementarias.	O
-

@@ -28,6 +28,7 @@ el	O
 ambiente	O
 domiciliario.	O
 
+
 Psicobiografía	O
 
 Natural	O
@@ -152,6 +153,7 @@ previo	O
 completamente	O
 normal.	O
 
+
 Antecedentes	O
 Familiares	O
 
@@ -163,8 +165,10 @@ con	O
 el	O
 caso.	O
 
+
 Antecedentes	O
 Personales	O
+
 
 Antecedentes	O
 personales	O
@@ -233,6 +237,7 @@ Parotiditis)	O
 y	O
 Varicela.	O
 
+
 Antecedentes	O
 personales	O
 en	O
@@ -269,6 +274,7 @@ olanzapina	O
 /	O
 8h.	O
 
+
 Hábitos	O
 tóxicos	O
 
@@ -280,6 +286,7 @@ los	O
 familiares	O
 los	O
 niegan.	O
+
 
 Enfermedad	O
 actual	O
@@ -545,6 +552,7 @@ de	O
 la	O
 normalidad.	O
 
+
 Posteriormente,	O
 la	O
 hermana	O
@@ -641,6 +649,7 @@ insomnio	O
 y	O
 desorganización	O
 conductual.	O
+
 
 Exploración	O
 psicopatológica	O
@@ -768,6 +777,7 @@ con	O
 capacidades	O
 volitivas	O
 abolidas.	O
+
 
 Evolución	O
 
@@ -1205,6 +1215,7 @@ presentar	O
 alteraciones	O
 psicopatológicas.	O
 
+
 Exploraciones	O
 complementarias	O
 realizadas	O
@@ -1370,4 +1381,3 @@ informada	O
 sin	O
 alteraciones	O
 significativas.	O
-

@@ -42,6 +42,7 @@ consentimiento	O
 del	O
 paciente.	O
 
+
 Motivo	O
 de	O
 consulta	O
@@ -58,6 +59,7 @@ acorchamiento	O
 de	O
 hemicara	O
 izquierda.	O
+
 
 Enfoque	O
 individual	O
@@ -165,6 +167,7 @@ de	O
 herpes	O
 zoster.	O
 
+
 Entre	O
 sus	O
 antecedentes	O
@@ -221,6 +224,7 @@ calcipotriol	O
 espuma	O
 cutánea.	O
 
+
 En	O
 consulta,	O
 se	O
@@ -238,6 +242,7 @@ parches	O
 oculares,	O
 lágrimas	O
 artificiales.	O
+
 
 Tras	O
 la	O
@@ -294,6 +299,9 @@ establecido:	O
 Síndrome	O
 de	O
 Ransay-Hunt.	O
+
+
+
 
 Exploración:	O
 buen	O
@@ -372,6 +380,7 @@ auditivo	O
 externo	O
 izquierdo.	O
 
+
 Pruebas	O
 complementarias	O
 
@@ -433,6 +442,7 @@ sin	O
 hallazgos	O
 relevantes.	O
 
+
 Enfoque	O
 familiar	O
 y	O
@@ -467,6 +477,7 @@ familiar	O
 completa,	O
 familia	O
 madura.	O
+
 
 Plan	O
 de	O
@@ -553,6 +564,7 @@ quirúrgico	O
 que	O
 rechaza.	O
 
+
 Juicio	O
 clínico	O
 (listado	O
@@ -596,6 +608,7 @@ el	O
 contexto	O
 de	O
 infección.	O
+
 
 Evolución	O
 

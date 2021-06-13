@@ -7,6 +7,7 @@ para	O
 mantenerse	O
 quieta.	O
 
+
 Enfoque	O
 individual	O
 
@@ -116,6 +117,7 @@ gotas/8horas	O
 como	O
 refuerzo.	O
 
+
 Acude	O
 a	O
 consulta	O
@@ -188,6 +190,7 @@ de	O
 estarse	O
 quieta.	O
 
+
 La	O
 paciente	O
 ha	O
@@ -245,6 +248,7 @@ cambio	O
 de	O
 medicación.	O
 
+
 En	O
 los	O
 últimos	O
@@ -275,6 +279,7 @@ en	O
 periodo	O
 de	O
 latencia.	O
+
 
 En	O
 exploración	O
@@ -351,6 +356,7 @@ hallazgos	O
 patológicos	O
 de	O
 interés.	O
+
 
 Enfoque	O
 familiar	O
@@ -450,6 +456,7 @@ y	O
 del	O
 hijo	O
 mayor.	O
+
 
 Juicio	O
 clínico	O
@@ -560,6 +567,7 @@ neurológico	O
 de	O
 la	O
 medicación.	O
+
 
 Plan	O
 de	O
@@ -680,6 +688,7 @@ presentar	O
 mejoría	O
 sintomática.	O
 
+
 Evolución	O
 
 Actualmente	O
@@ -747,4 +756,3 @@ Unidad	O
 de	O
 Salud	O
 Mental.	O
-

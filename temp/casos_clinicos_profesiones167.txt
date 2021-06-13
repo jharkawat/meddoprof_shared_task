@@ -42,6 +42,7 @@ años	O
 de	O
 evolución.	O
 
+
 La	O
 exploración	O
 y	O
@@ -93,6 +94,7 @@ de	O
 hombro	O
 izquierdo.	O
 
+
 Los	O
 músicos	B-PROFESION
 profesionales	O
@@ -123,4 +125,3 @@ al	O
 tocar	O
 los	O
 instrumentos.	O
-

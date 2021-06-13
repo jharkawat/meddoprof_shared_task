@@ -48,6 +48,7 @@ factores	O
 de	O
 riesgo.	O
 
+
 Al	O
 ingreso	O
 presentaba:	O
@@ -299,4 +300,3 @@ con	O
 buena	O
 evolución	O
 clínica.	O
-

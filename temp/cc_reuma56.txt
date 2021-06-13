@@ -42,6 +42,7 @@ Enfermedad	O
 de	O
 Crohn	O
 
+
 ENFERMEDAD	O
 ACTUAL	O
 
@@ -99,6 +100,7 @@ y	O
 celestone	O
 IM	O
 
+
 2ª	O
 VISITA	O
 
@@ -118,6 +120,7 @@ interno	O
 de	O
 pie	O
 derecho.	O
+
 
 PPCC:	O
 Normales	O
@@ -149,6 +152,7 @@ manos	O
 y	O
 pies.	O
 
+
 PLAN	O
 
 ▪	O
@@ -157,6 +161,7 @@ Prednisona10mg	O
 ▪	O
 ECA,	O
 TACAR	O
+
 
 3ª	O
 VISITA	O
@@ -183,6 +188,7 @@ ampollosa.	O
 No	O
 fiebre.	O
 
+
 INGRESO	O
 
 ▪	O
@@ -194,6 +200,7 @@ IV	O
 RMN	O
 Tobillo	O
 derecho	O
+
 
 EF	O
 
@@ -215,6 +222,7 @@ mediotarsianas.	O
 Dolor	O
 MTF	O
 bilateral.	O
+
 
 PPCC	O
 
@@ -266,6 +274,7 @@ con	O
 etiología	O
 metabólica.	O
 
+
 LIQUIDO	O
 SINOVIAL	O
 TOBILLO	O
@@ -280,6 +289,7 @@ consumo	O
 glucosa.	O
 Cultivo	O
 negativo	O
+
 
 NEUROARTROPATÍA	O
 DE	O
@@ -300,4 +310,3 @@ con	O
 artropatía	O
 mediotarsiana	O
 izquierda.	O
-

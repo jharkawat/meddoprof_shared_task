@@ -8,6 +8,7 @@ en	O
 mejilla	O
 derecha.	O
 
+
 Enfoque	O
 individual	O
 (anamnesis,	O
@@ -138,6 +139,7 @@ con	O
 el	O
 afeitado.	O
 
+
 Enfoque	O
 familiar	O
 y	O
@@ -200,6 +202,7 @@ de	O
 su	O
 evolución.	O
 
+
 Juicio	O
 clínico	O
 (lista	O
@@ -211,6 +214,7 @@ diferencial)	O
 Sospecha	O
 de	O
 melanoma.	O
+
 
 Plan	O
 de	O
@@ -658,4 +662,3 @@ el	O
 día	O
 20	O
 Enero.	O
-

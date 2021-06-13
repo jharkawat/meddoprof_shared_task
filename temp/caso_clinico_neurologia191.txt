@@ -63,6 +63,7 @@ Servicio	O
 de	O
 Urgencias.	O
 
+
 Examen	O
 físico	O
 
@@ -110,6 +111,7 @@ ojo	O
 no	O
 muestra	O
 alteraciones.	O
+
 
 Pruebas	O
 complementarias	O
@@ -290,6 +292,7 @@ seno	O
 sigmoide	O
 izquierdo.	O
 
+
 Diagnóstico	O
 
 Trombosis	O
@@ -302,6 +305,7 @@ sigmoide	O
 y	O
 transverso	O
 izquierdos.	O
+
 
 Tratamiento	O
 
@@ -336,6 +340,7 @@ retiró	O
 la	O
 anticoncepción	O
 oral.	O
+
 
 Evolución	O
 
@@ -411,4 +416,3 @@ inicio	O
 del	O
 tratamiento	O
 anticoagulante.	O
-

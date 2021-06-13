@@ -154,6 +154,7 @@ excepto	O
 los	O
 siguientes:	O
 
+
 Parámetro	O
 Resultado	O
 Intervalo	O
@@ -194,6 +195,7 @@ Anticuerpos	O
 Antinucleares	O
 Negativo	O
 Título<1/160	O
+
 
 A	O
 la	O
@@ -284,4 +286,3 @@ y	O
 con	O
 peor	O
 pronóstico.	O
-

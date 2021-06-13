@@ -426,7 +426,6 @@ en	O
 su	O
 sábana.	O
 Estaba	O
-
 desorientado	O
 con	O
 relación	O

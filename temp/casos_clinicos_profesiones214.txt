@@ -57,6 +57,7 @@ desde	O
 el	O
 12/03/2020.	O
 
+
 Durante	O
 la	O
 pandemia	O
@@ -105,6 +106,7 @@ tratamiento	O
 domiciliario	O
 sin	O
 mejoría.	O
+
 
 Ante	O
 la	O
@@ -228,6 +230,7 @@ sin	O
 evidenciarse	O
 alteraciones.	O
 
+
 Se	O
 procedió	O
 a	O
@@ -269,6 +272,7 @@ este	O
 >	O
 1,2	O
 g/dl.	O
+
 
 Ante	O
 la	O
@@ -345,4 +349,3 @@ vía	O
 percutánea	O
 sin	O
 complicaciones.	O
-

@@ -33,6 +33,7 @@ consumo	O
 de	O
 tóxicos.	O
 
+
 Se	O
 trata	O
 de	O
@@ -125,6 +126,7 @@ desde	O
 hace	O
 16	O
 días.	O
+
 
 Durante	O
 la	O
@@ -340,6 +342,7 @@ la	O
 prueba	O
 PCR.	O
 
+
 En	O
 el	O
 examen	O
@@ -483,6 +486,7 @@ la	O
 realidad	O
 comprometido.	O
 
+
 Se	O
 solicitó	O
 una	O
@@ -527,6 +531,7 @@ PCR	O
 para	O
 SARS-CoV-2.	O
 
+
 La	O
 impresión	O
 diagnóstica	O
@@ -565,6 +570,7 @@ parte	O
 de	O
 Atención	O
 Primaria.	O
+
 
 Evolución:	O
 a	O
@@ -643,4 +649,3 @@ dado	O
 la	O
 estabilidad	O
 clínica.	O
-

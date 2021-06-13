@@ -75,6 +75,7 @@ horas	O
 del	O
 día.	O
 
+
 La	O
 paciente	O
 refiere	O
@@ -167,6 +168,7 @@ energía	O
 durante	O
 el	O
 día.	O
+
 
 Se	O
 puede	O
@@ -264,6 +266,7 @@ Sentido	O
 del	O
 Cuidado	O
 (ESC).	O
+
 
 En	O
 este	O
@@ -385,6 +388,7 @@ del	O
 cuidador	B-PROFESION
 quemado.	O
 
+
 Para	O
 el	O
 tratamiento	O
@@ -486,6 +490,7 @@ un	O
 hipnótico	O
 suave.	O
 
+
 Se	O
 intenta	O
 potenciar	O
@@ -551,6 +556,7 @@ consultar	O
 sus	O
 dudas.	O
 
+
 También	O
 se	O
 planificará	O
@@ -572,6 +578,7 @@ y	O
 reforzar	O
 las	O
 conseguidas.	O
+
 
 Tras	O
 la	O
@@ -662,4 +669,3 @@ los	O
 resultados	O
 posiblemente	O
 mejorarían.	O
-

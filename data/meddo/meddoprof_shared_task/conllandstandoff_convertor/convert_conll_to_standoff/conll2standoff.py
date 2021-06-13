@@ -5,8 +5,6 @@
 # file into BioNLP ST-flavored standoff and a reconstruction of the
 # original text.
 
-
-
 import codecs
 import os
 import re
@@ -158,9 +156,9 @@ def process(fn,  output_directory ):
             # Assume it's a normal line. The format for spanish is
             # is word and BIO tag separated by space, and for dutch
             # word, POS and BIO tag separated by space. Try both.
-            m = re.match(r'^(\S+)\s(\S+)$', l)
+            m = re.match(r'^(\S+|\n)\s(\S+|\n)$', l)
             if not m:
-                m = re.match(r'^(\S+)\s\S+\s(\S+)$', l)
+                m = re.match(r'^(\S+|\n)\s\S+|\n\s(\S+|\n)$', l)
             assert m, "Error parsing line %d: %s" % (ln + 1, l)
             token, tag = m.groups()
 
@@ -197,7 +195,7 @@ if __name__ == "__main__":
 
         output_directory= standoff_output_directory
 
-
+        print(file_name)
         process(file_name, output_directory)
         # # for line in open(file):
         #     # print(line)

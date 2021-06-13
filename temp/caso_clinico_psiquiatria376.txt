@@ -25,10 +25,12 @@ Atención	O
 e	O
 Hiperactividad.	O
 
+
 Antecedentes	O
 Familiares:	O
 No	O
 existen.	O
+
 
 Antecedentes	O
 Personales:	O
@@ -72,6 +74,7 @@ un	O
 episodio	O
 de	O
 bronquiolitis.	O
+
 
 Evaluación	O
 y	O
@@ -183,6 +186,7 @@ se	O
 muestra	O
 colaboradora.	O
 
+
 Evaluación	O
 psicométrica	O
 
@@ -225,6 +229,7 @@ Inteligencia	O
 Wechsler	O
 (WISC-IV)	O
 (12)	O
+
 
 Orientación	O
 diagnóstica	O
@@ -338,6 +343,7 @@ cuatro	O
 por	O
 separado.	O
 
+
 Tras	O
 la	O
 valoración	O
@@ -387,4 +393,3 @@ un	O
 Síndrome	O
 de	O
 Noonan.	O
-

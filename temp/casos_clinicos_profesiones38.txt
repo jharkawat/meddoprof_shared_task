@@ -429,7 +429,6 @@ Tenía	O
 dificultad	O
 para	O
 dormir	O
-
 y	O
 no	O
 tenía	O

@@ -254,6 +254,7 @@ trombofilia	O
 resultó	O
 negativo.	O
 
+
 La	O
 RMC	O
 de	O
@@ -369,6 +370,7 @@ acenocumarol	O
 al	O
 alta.	O
 
+
 Aproximadamente	O
 un	O
 mes	O
@@ -471,4 +473,3 @@ reiniciar	O
 tratamiento	O
 con	O
 HBPM.	O
-

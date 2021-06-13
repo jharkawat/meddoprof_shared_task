@@ -22,6 +22,7 @@ Unidad	O
 de	O
 Agudos.	O
 
+
 ANTECEDENTES	O
 
 Antecedentes	O
@@ -60,6 +61,7 @@ cáncer	O
 de	O
 pulmón).	O
 
+
 Antecedentes	O
 médico-quirúrgicos:	O
 el	O
@@ -86,6 +88,7 @@ alergias	O
 medicamentosas	O
 conocidas.	O
 
+
 Antecedentes	O
 familiares:	O
 antecedentes	O
@@ -98,6 +101,7 @@ materna	O
 diagnosticado	O
 de	O
 esquizofrenia.	O
+
 
 Antecedentes	O
 psiquiátricos:	O
@@ -236,6 +240,8 @@ limpieza	O
 del	O
 hogar.	O
 
+
+
 EXPLORACIÓN	O
 PSICOPATOLÓGICA	O
 
@@ -304,6 +310,7 @@ el	O
 alta	O
 hospitalaria.	O
 
+
 PRUEBAS	O
 COMPLEMENTARIAS	O
 
@@ -325,10 +332,12 @@ infección	O
 por	O
 VHC.	O
 
+
 DIAGNÓSTICO	O
 
 Esquizofrenia	O
 paranoide.	O
+
 
 TRATAMIENTO	O
 
@@ -445,4 +454,3 @@ con	O
 clozapina	O
 en	O
 monoterapia.	O
-
