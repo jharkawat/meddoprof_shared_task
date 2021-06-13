@@ -1,0 +1,22 @@
+Anamnesis
+Paciente de 46 años de edad remitido desde su médico de Atención Primaria por detectar en una analítica de control a petición del propio paciente unos valores de antígeno prostático específico (PSA) de 104 ng/ml. Asintomático. Los antecedentes personales más destacados fueron: intervenido de estrabismo en la infancia. Padre en seguimiento por urólogo con PSA elevado y dos biopsias negativas. Tío paterno diagnosticado de adenocarcinoma de próstata. No alergias medicamentosas conocidas.
+
+Examen físico
+Se realiza tacto rectal, apreciando próstata grado II, masivamente indurada, aunque bien delimitada, sospechosa de malignidad.
+
+Pruebas complementarias
+• Ecografía transrectal: próstata heterogénea de 40 cc, con límites capsulares nítidos.
+• Biopsia de próstata: se extraen 20 cilindros. Se mandan a analizar al Servicio de Anatomía Patológica.
+• Tomografía computarizada (TC) tóraco-abdómino-pélvica: se aprecian como hallazgos significativos, adenopatías de hasta 35 mm en ambas cadenas iliacas, algunas de ellas con núcleo hipodenso por necrosis. Próstata de gran tamaño, lobulada y heterogénea. Adenopatías inguinales de tamaño no significativo. Resto sin hallazgos de interés.
+• Gammagrafía ósea: estudio sin evidencia de afectación ósea metastásica.
+
+Diagnóstico
+El resultado de la anatomía patológica dio como diagnóstico adenocarcinoma acinar prostático, Gleason 5 + 4 = 9, bilateral, con diferenciación neuroendocrina de alto grado de tipo células pequeñas en un 20% y de tipo células en anillo de sello. Se extrajeron 20 cilindros (10 por lóbulo): lóbulo derecho afectado en el centro 3/4 y en la base 3/3; lóbulo izquierdo afectado en el ápex 2/3, el centro 3/4 y la base 3/3. T2c N1 M0.
+
+Tratamiento
+En sesión multidisciplinar se decide realizar tratamiento multimodal con radioterapia, hormonoterapia neocoadyuvante y quimioterapia. El paciente inició tratamiento con bicalutamida 50 mg/24 h, asociado a acetato de leuprorelina 45 mg semestral; durante 2 meses se sometió a radioterapia externa mediante fotones de 18 Mv y técnica conformacional 3D sobre las adenopatías pélvicas además de la próstata y las vesículas seminales. Recibió, asimismo, seis ciclos de quimioterapia con cisplatino y etopósido, concurrente a la radioterapia.
+
+Evolución
+Tras la finalización de la radioterapia y la quimioterapia, el paciente se encuentra con una puntuación en la escala del Eastern Cooperative Oncology Group (ECOG) de 0-1. Refiere parestesias esporádicas en manos y pies como posible efecto secundario de la quimioterapia.
+En las pruebas complementarias de control se encontró PSA de 0,5 ng/ml, y en la TC tóraco-abdómino-pélvica se aprecia reducción significativa de adenopatías iliacas, sin nuevos signos de progresión de enfermedad.
+Tras 12 meses de seguimiento, el paciente evoluciona de forma favorable con enfermedad tumoral en regresión.
