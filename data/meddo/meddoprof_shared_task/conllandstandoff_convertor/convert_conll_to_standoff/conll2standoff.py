@@ -28,7 +28,7 @@ def space(t1, t2, quote_count=None):
 
     if re.match(r'^[\(]$', t1):
         return False
-    if re.match(r'^[.,\)\?\!]$', t2):
+    #if re.match(r'^[.,\)\?\!]$', t2):
         return False
     if quote(t1) and quote_count is not None and quote_count % 2 == 1:
         return False
@@ -81,13 +81,16 @@ def output(infn, output_directory, sentences):
 
             if prev_token is not None and space(
                     prev_token, token, quote_count):
-                doctext = doctext + ' '
-                offset += 1
+                if prev_token== '\n' or token == '\n':
+                    doctext = doctext + ''
+                    offset += 0
+                else:
+                    doctext = doctext + ' '
+                    offset += 1
 
             if curr_type is None and ttag != "O":
                 # a new tagged sequence begins here
                 curr_start, curr_type = offset, ttype
-
             doctext = doctext + token
             offset += len(token)
 
@@ -126,8 +129,11 @@ def process(fn,  output_directory ):
             print(fn, "is empty")
 
         for ln, l in enumerate(lines):
-            l = l.strip()
-
+            if l == '\n':
+                current.append(('\n',None, None))
+                continue
+            else:
+                l = l.strip()
             if re.match(r'^\s*$', l):
                 # blank lines separate sentences
                 if len(current) > 0:
