@@ -1,2 +1,32 @@
+MOTIVO DE CONSULTA: Paciente de 37 años que consulta por tos y disnea.
+
+ANTECEDENTES:
+- Alergias: Niega alergias a medicamentos
+- Hábitos tóxicos: Niega consumo de tabaco, aunque frecuenta bares donde ha tenido algún contacto pasivo. Alcohol de forma esporádica. No uso de drogas inhaladas o endovenosas.
+- Historia laboral: Informático, trabaja en oficina desde hace 5 años (7 horas diarias) entre otras cosas, se dedicaba a reparar ordenadores, niega contacto con sustancias volátiles.
+- Antecedentes epidemiológicos: Vive Barcelona ciudad (Sant Andreu) con padres, niega viajes fuera de Barcelona en último año, Viaje a Francia hace 15 años, paseos rurales hasta el 2002. No contactos recientes con animales (Canario hasta 1994).
+- Antecedentes Médicos Generales: No Hipertensión arterial, no diabetes mellitus, no dislipidemia. Tos ferina durante la infancia, rubéola, parotiditis. Vacunas completas, no hospitalizaciones. Acné en tratamiento con cremas hasta hace 2 años, aún persisten lesiones. Depresión en diciembre de 1997 por fallecimiento de hermana, recibió antidepresivos durante 6 meses
+- Antecedentes Pulmonares: No asma, no neumonías - Antecedentes familiares: padre hipertenso, hiperglucemia, artritis. Madre trombocitosis en tratamiento, artritis. Hermana fallecida 1997 por tumor cerebral (recibió QT + RT)
+- Antecedentes quirúrgicos: polipectomía de cuerdas vocales en 2002 (lesión benigna)
+- Medicación Habitual: Ninguna
+
+ENFERMEDAD ACTUAL: Inicia cuadro en Diciembre del 2008 refiriendo tos sin expectoración, a predominio diurno, durante las horas de trabajo y asociadas al esfuerzo físico (subir escaleras, caminar, etc). Es evaluado por el médico de cabecera quien solicita una Rx Tórax, que es informada como normal, por lo que pauta tratamiento sintomático de la tos (Romilar®) con leve disminución de síntomas. En febrero del 2009, además de la tos, nota sensación de disnea con el esfuerzo (al subir escaleras tiene que parar por disnea). Durante ese tiempo aparece además un eritema en las articulaciones metacarpo-falángicas de ambas manos y metatarso-falángicas de ambos pies, sin dolor ni limitación funcional; es evaluado por médico de cabecera quien le diagnostica Eczema. Los síntomas respiratorios persisten y se agrega ahora astenia. Se acentúa disnea de esfuerzo, por lo que en Julio del 2009 acude a consultas externas de neumología, en donde se decide ingreso hospitalario para estudio. Niega fiebre, no baja de peso, no expectoración.
+
+EXPLORACIÓN FÍSICA: PA: 110/70 mmHg; FC:98x"; FR:20x" SatO2: 97% (basal); Tº: 36,5ºC Regular estado general, hidratado, despierto. Piel no ictérica, no cianosis, leve eritema en zona de articulaciones metatarso falángicas sin aumento de temperatura, ni edema, ni dolor. Múltiples lesiones "acneiformes" en la región dorsal. No se palpan adenopatías significativas, no aumento de glándula tiroides. Torax y Pulmones: Murmullo vesicular levemente disminuido en base de hemitórax derecho. Presencia de crepitantes tipo "crackles" en ambas bases. Cardiovascular: Ruidos cardíacos rítmicos, de buena intensidad, soplo diastólico multifocal, no IY, no RHY.
+ABD: ruidos presentes, blando depresible, no se palpan masas, no dolor, no signos de irritación peritoneal. Sistema nervioso: despierto, Glasgow 15, no déficit motor ni sensitivo, no signos meníngeos.
+
+EXAMENES AUXILIARES:
+- ANALÍTICAS:
+- Hemograma: Hb: 14,4 g/dL, Hto: 42%, VCM: 84, HCM: 28, Plaquetas: 298.000 /uL, Leucocitos: 8.040 /uL (E: 3,5%; B: 0,5%; L:18%; M: 9%; N:68%); VSG: 9 mm;
+- Bioquímica: Glucosa: 90 mg/dL; creatinina 1 mg/dL; ALT:17 U/L; AST:20 U/L; GGT:17 U/L; Fosfatasa alcalina: 78 U/L; LDH: 545 U/L; Na: 139 mEq/L, Potasio: 3,9 mEq/L; Calcio: 97 mg/L; PCR: 5,5 mg/L; Proteinograma: Albúmina:41g/L; Globulina 31 g/L (no bandas monoclonales);
+- Inmunología: Factor Reumatoideo: 114 UI/mL; ECA 56 U/L (VN: hasta 52); ANA: 3,26 (índice, VN hasta 1,10); ANA IFI: 1/320 patrón Moteado; Anti DNA nativo 4,4 IU/mL; Anti antígeno de Histonas: 1,5 U/mL; Anti JO-1:<0,1 U/mL; Anti RNP: 1,22 U/mL; Anti Sm: 2,1 U/mL; Anti Scl 70: 1,8 U/mL; Anti Ro: 30,3 U/mL; Antígeno La: 1,5 U/mL; ; ANCA-P y ANCA-C normales, Complemento C3: 97 mg/dL (VN: 90-180); Complemento C4: 26 mg/dL (VN:10-40); RAST IgE específicas: negativas;
+- Microbiología: Antígeno B superficie: no se detecta; Anti Hep C: no se detecta; anti VIH: no se detecta;
+
+- MICROBIOLOGÍA
+BAL: BK (-), Löwenstein (-) Cultivo (-)
+- PFR: (14/08/09) CVF:2,92 L (53%); VEF1: 2,45 L (56%); VEF1/VEF 0,83; TLC-He: 4,34 L (60%); VR-He 1,39 L(74%); TLCO: 3,54 L (31%); VA: 4,05 (57%); KCO: 0,87 (55%)
+- Ecocardiografía: FE: 71%; no alteraciones estructurales
+- Fondo de ojo: normal
+- Broncoscopia: sin lesiones endobronquiales
 - BAL: leucocitos 3.190; con 542 linfocitos (17%), de los cuales CD4 38 (7%) CD8 244 (45%). Relación CD4/CD8 <0,8.
 - Radiología: Se realiza procedimiento diagnóstico.

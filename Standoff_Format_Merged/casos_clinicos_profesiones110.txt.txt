@@ -1,15 +1,27 @@
 Paciente varón, de 55 años, albañil de profesión, casado, sin practicas sexuales de riesgo conocidas. Fumador de un paquete de cigarrillos diario y bebedor moderado de vino en comidas. Desde hacia un mes presentaba astenia, adelgazamiento, y mal estar indefinido que no le llegaba a impedir su trabajo, habiéndole solicitado su médico de cabecera una analítica básica y una Rx tórax que se informaron como normales. Una semana antes de ingresar se había acentuado esta clínica añadiéndose febrícula de 37,5- 38 ºC. sin sudoración nocturna, mínima disnea de esfuerzo y tos, a veces nocturna, atribuidas a infección de vías respiratorias altas..
+
 El día del ingreso al despertar del sueño nocturno, presenta sensación de acorchamiento y parestesias facio-braquiales derechas, que ceden en unos minutos (10-15),acompañadas de mal estar general y escalofríos. Acude a su trabajo y 30 minutos después, de manera súbita nota sensación de desequilibrio, cefalea y pierde conciencia.
-Es llevado a Urgencias del hospital más próximo donde llega inconsciente, pupilas iscóricas y fotorreactivas, TA sistólica 60 mm Hg, diastólica indetectable. Pulso arrítmico. Taquipnea evidente con trabajo respiratorio. Auscultación cardio- pulmonar. Taquicardia dificilmente audible con abundantes crepitantes húmedos en ambos campos pulmonares. Signos de mala perfusión tisular periférica, con palidez y pulsos periféricos debiles. ECG: Fibrilación Auricular con respuesta ventricular media rápida, superior a 150 latidos/ mi..
+
+Es llevado a Urgencias del hospital más próximo donde llega inconsciente, pupilas iscóricas y fotorreactivas, TA sistólica 60 mm Hg, diastólica indetectable. Pulso arrítmico. Taquipnea evidente con trabajo respiratorio. Auscultación cardio- pulmonar. Taquicardia dificilmente audible con abundantes crepitantes húmedos en ambos campos pulmonares. Signos de mala perfusión tisular periférica , con palidez y pulsos periféricos debiles . ECG: Fibrilación Auricular con respuesta ventricular media rápida, superior a 150 latidos/ mi..
+
 Rx. Tórax: Aumento del diámetro hiliar con signos de congestión y redistribución vascular.
-Analítica de Sangre: 15.660 Leucocitos (Seg:88.3%, Linf.: 6.3%). Htes: 3.55. Hgb.: 9.8. Hto.: 29,5. VCM 83. CHCM 31. Coagulación estandar : normal. Química Básica: normal.
+
+Analítica de Sangre: 15.660 Leucocitos (Seg:88.3%, Linf.: 6.3%). Htes: 3.55 . Hgb.: 9.8. Hto.: 29,5. VCM 83. CHCM 31. Coagulación estandar : normal. Química Básica: normal.
+
 Se instaura tratamiento con Amiodarona y Furosemida intravenosas, se ventila al paciente y se seda, practicándose un TAC Cerebral que muestra sangre en espacio subaracnoideo de distribución generalizada, aunque con mayor predominio en cisura de Silvio izquierda. Se traslada a UCI de nuestro Hospital.
-En nuestro centro, tras 24h, retirada la sedación, se observa un paciente febril (38,3ºC) TA: 110/65 mm Hg.78 latidos/mi. rítmicos, palpándose bien pulsos periféricos. La auscultación muestra tonos cardiacos arrítmicos con soplo mesosistólico, rudo, que se ausculta en todos los focos, con crepitantes humedos en ambas bases pulmonares. El enfermo está somnoliento, reacciona a la voz con apertura ocular. No obedece ordenes sencillas y cuando es estimulado emite alguna palabra ininteligible. moderada rigidez de nuca con resto de signos meníngeos positivos. Pupilas isocóricas y fotorreactivas. F. Ojo: papilas con limites normales. Paresia facial inferior derecha. Hemiparesia derecha de predominio braquial, con reflejo plantar extensor. No colabora lo suficiente para valorar sensibilidad y cerebelo. Se cursan hemocultivos y urinocltivos.
+
+En nuestro centro, tras 24h, retirada la sedación , se observa un paciente febril (38,3ºC) TA: 110/65 mm Hg.78 latidos/mi. rítmicos, palpándose bien pulsos periféricos . La auscultación muestra tonos cardiacos arrítmicos con soplo mesosistólico , rudo, que se ausculta en todos los focos, con crepitantes humedos en ambas bases pulmonares. El enfermo está somnoliento, reacciona a la voz con apertura ocular . No obedece ordenes sencillas y cuando es estimulado emite alguna palabra ininteligible . moderada rigidez de nuca con resto de signos meníngeos positivos. Pupilas isocóricas y fotorreactivas. F. Ojo: papilas con limites normales. Paresia facial inferior derecha. Hemiparesia derecha de predominio braquial, con reflejo plantar extensor. No colabora lo suficiente para valorar sensibilidad y cerebelo. Se cursan hemocultivos y urinocltivos.
+
 Se practican Ecocardiografía transtorácica y Ecografía Abdominal urgentes sin resultados patológicos significativos. La analítica de sangre muestra una anemia normocítica, hipocroma, con sideremia disminuida y ferritina elevada. VSG 58. Siendo la química básica que incluye función hepática, renal, iones, enzimas, h. Tiroideas,, Anti DNA, ANA, C3, C4, F. Reumatoide y proteinograma: Normales.
-Serología Luética y VIH negativas. En la Orina destaca microhematuria.
+
+Serología Luética y VIH negativas. En la Orina destaca microhematuria .
+
 Precisamos dos exploraciones complemetarias, una de ellas neurorradiológica, para el diagnóstico.
+
 En conclusión, las manifestaciones clínicas de nuestro paciente (síndrome constitucional, fiebre, soplo cardíaco y hemorragia subaracnoidea), junto con los hallazgos de laboratorio (anemia de proceso crónico, elevación de la VSG, microhematuria), hacen probable el diagnóstico de ruptura de aneurisma cerebral micótico en el contexto de una endocarditis bacteriana.
+
 Las pruebas complementarias indicadas en este momento serían: una ecocardiografía transesofágica que comprobara la existencia de la EB, unos hemocultivos y una arteriografía cerebral.
+
 Diagnóstico Clínico:
 1.- Endocarditis infecciosa subaguda
 2.- Hemorragia subaracnoidea por ruptura de aneurisma micótico de la arteria cerebral media izquierda.

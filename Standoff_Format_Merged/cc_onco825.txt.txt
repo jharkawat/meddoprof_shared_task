@@ -8,6 +8,7 @@ Anamnesis
 » Trabaja en la hostelería. Buen apoyo familiar. Independiente para las actividades básicas de la vida diaria.
 Paciente con los antecedentes descritos que consulta a su médico de Atención Primaria por notar un aumento del tamaño del testículo derecho de unos meses de evolución. No presenta dolor ni molestias miccionales. No tiene fiebre ni síntomas bacteriémicos. Ausencia de relaciones sexuales de riesgo.
 Se deriva a la consulta de Urología para estudio de una posible masa testicular.
+
 Exploración física
 » Constantes vitales mantenidas. Afebril.
 » Consciente, orientado y colaborador. Eupneico en reposo. Normohidratado y normoperfundido. Buen estado general.
@@ -18,6 +19,7 @@ Exploración física
 » Testículos: aumento de tamaño de testículo derecho de forma global y de consistencia dura, no doloroso a la palpación. Sin líquido libre aparentemente. Escroto sin alteraciones.
 » Miembros inferiores: sin edemas ni signos de trombosis venosa profunda.
 » Exploración cadenas ganglionares: no se palpan adenopatías cervicales, axilares ni inguinales.
+
 Pruebas complementarias
 Tras la exploración física en Urología se realiza analítica con marcadores tumorales y ecografía testicular:
 » Analítica: bioquímica, hemograma y coagulación sin alteraciones.
@@ -28,9 +30,11 @@ Tras los hallazgos clínicos, ecográficos y analíticos, que orientan más prob
 » TC abdominopélvica: conglomerado adenopático masivo retroperitoneal situado bajo la salida de los vasos renales, con adenopatías de hasta 6 x 5 cm de máximas dimensiones. Compatible con metástasis ganglionares de neoplasia testicular o linfoma primario.
 » PET-TC: se aprecian focos hipermetabólicos que se correlacionan con los hallazgos descritos por la TC, localizados en mediastino y retroperitoneo, sugerentes de actividad metastásica.
 » Anatomía Patológica de la pieza quirúrgica: seminoma clásico con extensas áreas de necrosis. Infiltra la túnica albugínea. Imágenes de invasión vascular y afectación del cordón espermático. Borde quirúrgico de resección libre de tumor.
+
 Diagnóstico
 La Anatomía Patológica confirma la sospecha de neoplasia testicular primaria tipo seminoma, apoyada además por la elevación del marcador BHCG.
 Juicio clínico: seminoma estadio IV.
+
 Tratamiento
 Se inicia primera línea de quimioterapia para tumores germinales con el esquema BEP, con 4 ciclos de tratamiento (cada 21 días).
 BEP
@@ -38,6 +42,7 @@ BEP
 »E: etopósido 100 mg/m2 días 1-5.
 »B: bleomicina 30 mg DT días 1, 8 y 15.
 Tras el primer ciclo, se normaliza el marcador tumoral y, como efectos secundarios, presenta astenia y sabor metálico de los alimentos, manteniéndose dichos síntomas durante todo el tratamiento. Tras el tercer ciclo comienza con conjuntivitis y neurotoxicidad leve.
+
 Evolución
 Con el fin del tratamiento se realiza una PET/TC de control, en la que se aprecia que, tanto el conglomerado adenopático retroperitoneal, como las adenopatías mediastínicas tienen captación patológica, lo que sugiere actividad metastásica residual.
 Ante estos hallazgos, se presenta en el Comité de Tumores multidisciplinar y se decide iniciar una segunda línea de quimioterapia con el esquema TIP por 4 ciclos:

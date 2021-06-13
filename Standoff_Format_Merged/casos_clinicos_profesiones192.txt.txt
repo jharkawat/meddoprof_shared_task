@@ -1,4 +1,5 @@
 Paciente, varón, de 34 años, sin antecedentes de interés. Trabajador, desde hace 12 años, en una empresa donde manipulan alimentos deshidratados. Dos meses antes de la consulta, cribando una partida de Boletus edulis, presentó prurito oculonasal, lagrimeo, rinorrea y disnea. Tras este episodio, pese al uso de mascarilla, ha presentado clínica similar, más leve, coincidiendo con el manejo de esta seta. Tolera la ingesta de Boletus edulis.
+
 Pruebas cutáneas:
 Prick-tests con extractos comerciales de aeroalérgenos habituales: negativas.Prick tests con extractos de Boletus edulisdeshidratado, seta shiitaki, Agaricus bisporus, Pleurotus ostreatus, Morchella esculeta, Macrolepiota pucera, trompeta de la muerte y esporas de pleurotus: Histamina 6x6 mm, Boletus edulis6x6 mm, seta shiitaki 4x4 mm.
 IgE total:18 UI/ml
@@ -8,4 +9,5 @@ Espirometría basal: Alteración ventilatoria obstructiva leve con test broncodi
 Test de provocación bronquial inespecífico (Metacolina): Hiperrespuesta bronquial moderada.
 Test de provocación nasalcon extracto de Boletus edulis: mediante rinomanometría anterior activa, positivo a 1 mg/ml.
 SDS PAGE IgE immunoblotting: con extracto de Boletus edulisse detectan bandas de 30, 29,17 y 16 kDa; con extracto del polvo de Boletus edulisse observa además una banda de alta fijación desde altas masas moleculares hasta 45 kDa.
+
 Presentamos un caso de rinoconjuntivis y asma ocupacional, IgE mediada, por sensibilización frente a Boletus edulis. La prevalencia de alergia ocupacional por Boletus edulispuede ir en aumento, dado la mayor exposición tanto en las cocinas como en la industria alimentaria.

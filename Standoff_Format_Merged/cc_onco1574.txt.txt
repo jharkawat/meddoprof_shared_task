@@ -12,8 +12,10 @@ Se solicitaron los siguientes estudios complementarios:
 Tras estos hallazgos y el diagnóstico de adenocarcinoma de colon pobremente diferenciado estadio IV (hepáticas), es remitida a Oncología Médica, donde tras la realización de historia clínica, exploración física, y tras informar a la paciente de su enfermedad y opciones de tratamiento, y previa firma de consentimiento informado e implantación de reservorio venoso, comenzamos tratamiento con intención paliativa según esquema FOLFOX y bevacizumab, recibiendo un total de cinco ciclos y estando pendiente de reevaluación tras el sexto. Desde el inicio del tratamiento debuta con hipertensión arterial, siendo necesario el uso de dos fármacos para su control.
 Tras la administración del segundo ciclo de tratamiento, presentó cifras de potasio por debajo del valor normal, por lo que fue preciso suplementarlo vía oral.
 La paciente acude a Urgencias diez días después de la administración del quinto ciclo por presentar cuadro clínico miasteniforme (ptosis palpebral bilateral, debilidad muscular generalizada y parestesias en cara), acompañado de crisis de hipertensión arterial, motivo por el que es ingresada en nuestro servicio. En la anamnesis refería debilidad extrema que le impedía la deambulación, e incluso dos días antes le había imposibilitado salir de la bañera, junto a dificultad para la ingesta por la existencia de lesiones en cavidad oral y tos acompañada de expectoración verdosa.
+
 Exploración física
 En la exploración física presentaba un PS de 1, temperatura de 37,5 oC, y tensión arterial de 164/ 87 mm Hg, junto a hiperpigmentación a nivel de pliegues cutáneos (axilas e ingles), el resto de la piel era de color cetrino, también tenía xerosis y un lenguaje enlentecido, siendo el resto de exploración normal.
+
 Pruebas complementarias
 Durante dicho ingreso, solicitamos los siguientes estudios complementarios:
 • Análisis de sangre: leucocitos 1.770/mmc (neutrófilos 45,7%, monocitos 7,9%); plaquetas 81.000/mmc; glucosa 343 mg/dL; potasio 1,5 mmol/L; GOT 93 U/L; GPT 122 U/L; PCR 140 mg/L; hierro sérico < 10 mg/dL, el resto era normal incluidos hormona tiroideas, CK y coagulación.
@@ -30,7 +32,9 @@ Durante dicho ingreso, solicitamos los siguientes estudios complementarios:
 • Revisión AP biopsia de colon: carcinoma pobremente diferenciado con diferenciación neuroendocrina (proliferación de células neoplásicas dispuestas en nidos sólidos con formación de estructuras microacinares/rosetoides con tendencia a la empalizada), con un 5% de las células con positividad para cromogranina y CD 56, siendo el resto del estudio inmunohistoquímico negativo excepto para pancitoqueratina. La actividad proliferativa de dicho tumor (Ki-67) era del 30%.
 • Biopsia de las metástasis hepáticas: resultado similar al de la biopsia colónica. Ante dichos resultados solicitamos estudio de extensión:
 • PET-TC con FDG: múltiples lesiones hipodensas en ambos lóbulos hepáticos con SUV máximo de 3,4. A nivel de ciego captación con SUV máximo de 3,1. Resto sin captaciones patológicas.
+
 Diagnóstico
 Tras estos hallazgos se diagnostica de síndrome de Cushing ectópico secundario a tumor neuroendocrino de alto grado de localización cecal con metástasis hepáticas.
+
 Evolución y tratamiento
 Tras este diagnóstico iniciamos tratamiento con ketoconazol y corticoides. Cuando se resuelve el cuadro infeccioso, mejoran los síntomas asociados a su síndrome paraneoplásico y se normalizan las alteraciones analíticas (potasio, glucemia, leucocitos y plaquetas), decidimos inicio de segunda línea de tratamiento quimioterápico basado en cisplatino y etopósido, presentando buena tolerancia al mismo y pendiente de reevaluar después del tercer ciclo. Tras la administración del segundo, la paciente ingresa con clínica compatible con cuadro séptico, falleciendo a las 48 horas sin evaluación de respuesta.

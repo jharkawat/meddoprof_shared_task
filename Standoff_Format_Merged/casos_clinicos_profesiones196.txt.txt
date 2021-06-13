@@ -6,6 +6,7 @@ Con estos datos el médico del servicio de urgencias realiza un primer diagnóst
 • El paciente fue despojado de sus pertenencias.
 • El paciente permaneció desaparecido durante aproximadamente 24horas.
 • No existen antecedentes familiares o personales que expliquen el cuadro actual.
+
 Al examen físico:
 • Cabeza: Normocéfalo, pequeñas escoriaciones a nivel del ala de la nariz.
 • Ojos: Pupilas midriáticas, isocóricas, reactivas a la luz. Marcada inyección conjuntival.
@@ -15,6 +16,7 @@ Al examen físico:
 • Neurológico: Paciente somnoliento, desorientado en espacio y tiempo.
 • Amnesia anterógrada de los hechos de aproximadamente 24 horas.
 • Marcha inestable, hiporreflexia generalizada, pruebas de coordinación alteradas, nistagmus horizontal. Resto de examen neurológico no valorable por estado de conciencia del paciente.
+
 Planteamiento clínico
 • Caso de aproximadamente 24 horas de evolución.
 • Compromiso evidentemente neurológico, con un hallazgo característico: amnesia anterógrada de 24 horas de evolución.
@@ -22,6 +24,7 @@ Planteamiento clínico
 • Ingirió alimento y bebida en establecimiento público.
 • Evidencia de trauma facial leve.
 • No hay antecedentes familiares o personales que se relacionen con enfermedad actual.
+
 Recomendaciones al paciente
 • Comprar licores y alimentos en sitios conocidos, que garanticen la seguridad de los mismos.
 • No entablar conversación con extraños y mucho menos recogerlos,especialmente en horas nocturnas.

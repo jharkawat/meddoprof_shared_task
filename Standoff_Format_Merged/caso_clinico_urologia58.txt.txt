@@ -1,8 +1,10 @@
 Anamnesis
 Mujer de 48 años de edad que acude al Servicio de Urgencias refiriendo dolor en la fosa renal derecha con irradiación anterior y febrícula intermitente de un mes de evolución. Refiere náuseas sin vómitos. Episodio de hematuria macroscópica aislado sin clínica miccional 15 días antes de su ingreso en Urgencias.
 Su médico de Atención Primaria realiza un urocultivo e inicia tratamiento antibiótico que cumple durante una semana. El resultado del urocultivo es negativo. Presenta episodios aislados de fiebre termometrada desde la finalización del tratamiento hasta su ingreso en Urgencias. Tras la administración de tratamiento antibiótico y analgésico intravenoso y la realización de pruebas complementarias es dada de alta del Servicio de Urgencias con tratamiento por vía oral para continuar el estudio de forma ambulatoria.
+
 Examen físico
 Abdomen blando, depresible, no presencia de globo vesical. Molestia a la palpación en la fosa renal derecha e hipocondrio derecho. No signos de irritación peritoneal. Puñopercusión renal derecha dolorosa e izquierda no dolorosa. Genitales externos normales.
+
 Pruebas complementarias
 • Analítica sanguínea: hemograma normal. No presenta leucocitosis; la fórmula leucocitaria y la coagulación están dentro de rangos normales. Función renal conservada. Fibrinógeno 657 mg/dl. Proteína C reactiva 41,8 mg/l.
 • Sedimento de orina: pH 8, 1-5 leucocitos/campo.
@@ -12,13 +14,18 @@ Pruebas complementarias
 Se comenta el caso con el Servicio de Radiología, y se decide conjuntamente la realización de biopsia de la zona descrita en la ecografía y la TC para llegar a un diagnóstico final.
 • Citología-biopsia con aguja gruesa de tumoración en el riñón derecho: citología positiva para células neoplásicas. Compatible con carcinoma de células claras de riñón.
 • Biopsia compatible con carcinoma de urotelio de alto grado con infiltración del parénquima de riñón.
+
+
 Diagnóstico
 Hallazgos discordantes entre carcinoma de células claras de riñón y carcinoma de urotelio de alto grado.
+
 Tratamiento
 Ante los hallazgos encontrados se decide la realización de una nefroureterectomía con extirpación del rodete vesical de forma laparoscópica.
+
 Evolución
 La paciente presentó un postoperatorio favorable y sin complicaciones. Al alta se encontraba afebril, asintomática, con buena dinámica miccional y correcta evolución de la herida quirúrgica. Se objetiva mediante control analítico la conservación de la función renal.
 El resultado anatomopatológico desveló un carcinoma de conductos colectores, con trombosis tumoral macro y microscópica en la vena renal. Fascia de Gerota y borde quirúrgico de uréter libre de lesión, pT3a.
 En la pieza macroscópica se observa un riñón con silueta bien conservada y crecimiento tumoral que sustituye la cortical y la medular, de color blanco, que no protruye hacia la cápsula pero sí hacia la pelvis renal. Se observa, asimismo, la presencia de un trombo tumoral en el hilio renal.
 En las piezas microscópicas se describen túbulos tumorales, con crecimiento papilar y celularidad a expensas de células de gran tamaño, con abundante citoplasma, núcleos hipercromáticos con nucléolo patente. Túbulos con crecimiento celular con aspecto en tachuela y contenido tumoral.
 Se presenta el caso en el Comité de Uro-Oncología, y se decide instaurar tratamiento adyuvante basado en gemcitabina y cisplatino.
+

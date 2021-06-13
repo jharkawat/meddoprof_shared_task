@@ -1,4 +1,4 @@
-Nombre: Lucas.
+Nombre: Lucas .
 Apellidos:San Martin Ramon.
 NHC: 39574.
 NASS: 47 24876134 13.
@@ -20,3 +20,4 @@ A los 15 días de sufrir el accidente y tras la mejora clínica y la recuperaci�
 Durante su ingreso el enfermo presentó dolor de intensidad variable (EVA 2/10, 3/10, 7/10 y 1/10 durante su estancia en Urgencias, UCI, Sala de Hospitalización y al alta, respectivamente), de características punzantes, localizado en la región torácica derecha, pelvis derecha y glútea, no irradiado, que se incrementaba con la sedestación y disminuía en decúbito supino sin provocar sintomatología vegetativa. Concilió el sueño de forma satisfactoria y durmió sin interrupción aproximadamente 8 horas al día. Presentó ligera distimia probablemente por no poder estar con su familia que vivía en Colombia.
 El tratamiento analgésico administrado durante la evacuación hasta el hospital fue: fentanilo 100 µg, en la UCI: paracetamol 1 g/8 h i.v. y dexketoprofeno-trometamol 50 mg/8 h i.v., durante los 6 primeros días en sala de hospitalización: paracetamol 1 g/8 h v.o. y dexketoprofeno-trometamol 50 mg/8 h v.o. y finalmente hasta el alta: se administró dexketoprofeno-trometamol 50mg/8 h v.o. y fentanilo 400 µg transmucoso 30 minutos antes de realizar cualquier movimiento potencialmente doloroso (ducharse, realización de radiografía en bipedestación.
 Remitido por: Ricardo Navarro Suay. Servicio de Anestesiología, Reanimación y Terapéutica del Dolor Hospital Universitario Central de la Defensa "Gómez Ulla" Glorieta del Ejército, 1 28047 Madrid e-mail: r_navarro_suay@yahoo.es
+

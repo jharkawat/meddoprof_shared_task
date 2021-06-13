@@ -3,15 +3,20 @@ Varón de 34 años, sin alergias conocidas ni hábitos tóxicos, amigdalectomiza
 En mayo de 2014, el paciente comienza con cuadro de dispepsia, epigastralgia, aumento del perímetro abdominal y pérdida de peso progresiva de unos 6 kg de peso. Acude a centro privado donde se objetiva, en tomografía computarizada de tórax-abdomen y pelvis (TC-TAP), una gran masa abdominal de aproximadamente 22 x 15 x 22 cm que desplaza estómago y colon y en contacto con páncreas, bazo y duodeno.
 Es entonces cuando se remite al Servicio de Cirugía General y Digestiva de nuestro hospital. El 24/02/2015 el paciente es sometido a exéresis en bloque con gastrectomía total, segmentectomía II-III, resección de cola pancreática, bazo e implantes tumorales en diafragma izquierdo y adenopatía en cabeza de páncreas, con reconstrucción mediante Y de Roux con anastomosis esófago-yeyunal.
 Macroscópicamente, el tumor tenía un tamaño de 35 x 19 x 16 cm. Microscópicamente, el tumor mostraba un 10-15 % de necrosis. La inmunohistoquímica fue Cam 5,2+, vimentina+, CKAE1-AE3 débilmente, EMA+, enolasa neuronal específica+, desmina positiva focal, WT-1 (Nterminal)-, mioglobina-, CD99-, S-100-, Melan A-, calretinina-, CK-, 34 beta E12-, DOG-1-, c-kit-, CD34-, calponina-, LCA-, RCC-, cromogranina-, sinaptofisina-, C56+/-, actina+/-, inhibina+/- focal.
+
 Exploración física
 Buen estado general. Eastern Cooperative Oncology Group (ECOG) 1. Hemodinámicamente, estable. Destaca masa abdominal indurada, fija y dolorosa a palpación en hemiabdomen superior. Resto de exploración física por órganos y aparatos dentro de la normalidad.
+
 Pruebas complementarias
 » Analítica sanguínea: bioquímica con función renal y perfil hepático dentro de la normalidad. hemograma y coagulación normal. Marcadores tumorales: destaca la elevación de CA-125 de 159 UI/ml (valor de normalidad menor o igual a 35 UI/ml).
 » TC-TAP con contraste de diciembre 2014: objetiva masa sólida abdominal de 23 x 15 x 23 cm que comprime cámara gástrica, improntanto lóbulo hepático izquierdo con desplazamiento de estructuras intraabdominales e imágenes nodulares sugestivas de implantes peritoneales.
+
 Diagnóstico
 Tumor desmoplásico abdominal de células pequeñas y redondas estadio IV (afectación hepática y peritoneal).
+
 Tratamiento
 En marzo de 2015 es valorado en consultas externas de Oncología Médica y, dada la inexistencia de datos acerca de tratamiento adyuvante en este tipo de tumores, se consensúa seguimiento clínico estrecho.
+
 Evolución
 En agosto de 2015, se evidencia en TC-TAP progresión tumoral a expensas de múltiples implantes tumorales metastásicos (retroperitoneal, paraaórticos, intraabdominales, iliaca izquierda y retroumbilical), lesiones ocupantes de espacio (LOE) hepáticas y masa suprarrenal izquierda. Tras revisión de la literatura disponible, se consensúa inicio de quimioterapia según esquema vincristina, doxorrubicina, ciclofosfamida, isofosfamida y etopósido (VIDE) en régimen de hospitalización y con factores de estimulación de colonias de granulocitos (G-CSF) profilácticos, recibiendo un total de 8 ciclos entre septiembre de 2015 y marzo de 2016, con excelente tolerancia y respuesta tumoral de los nódulos abdominopélvicos por estudio de imagen.
 Dado que el paciente mantenía ECOG 0, se mantuvo tratamiento de mantenimiento con etopósido oral, por el elevado riesgo de recidiva con el cese de tratamiento oncológico. El paciente presenta buena tolerancia salvo diarreas moderadas que obligan a reducir dosis al 80 %.
