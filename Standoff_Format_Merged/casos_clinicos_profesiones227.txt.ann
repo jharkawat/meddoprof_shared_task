@@ -1,9 +1,9 @@
 T1	PROFESION 83 93	psiquiatra
-T2	PROFESION 1670 1692	trabaja en una empresa
-T3	PROFESION 1780 1786	jefes.
-T4	SITUACION_LABORAL 1799 1810	ama de casa
-T5	PROFESION 2625 2662	trabajó en un servicio de lavandería,
-T6	PROFESION 6173 6181	cuidador
-T7	PROFESION 8067 8112	equipos de Salud Mental y Servicios Sociales.
-T8	PROFESION 8307 8326	trabajadora social,
-T9	PROFESION 10260 10279	trabajadora social.
+T2	PROFESION 1635 1657	trabaja en una empresa
+T3	PROFESION 1743 1748	jefes
+T4	SITUACION_LABORAL 1761 1772	ama de casa
+T5	PROFESION 2568 2604	trabajó en un servicio de lavandería
+T6	PROFESION 6010 6018	cuidador
+T7	PROFESION 7839 7883	equipos de Salud Mental y Servicios Sociales
+T8	PROFESION 8076 8094	trabajadora social
+T9	PROFESION 9988 10006	trabajadora social

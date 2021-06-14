@@ -1,55 +1,55 @@
-- Anamnesis:
+ Anamnesis
 
-Paciente de 39 años, asistenta de hogar, sin antecedentes de interés que, desde hace unos 7 años, viene presentando un cuadro clínico respiratorio consistente en episodios de tos seca o con ligera expectoración viscosa, opresión torácica, disnea, sibilantes y síntomas de hiperreactividad bronquial inespecífica. Acompañando a esta sintomatología, presenta prurito nasal y salvas de estornudos. La paciente refiere que empeora de su sintomatología cuando se expone al vapor de cocción de mariscos y al polvo domestico. Asocia, también, prurito labial y de orofaringe al consumir estos alimentos.
+Paciente de 39 años asistenta de hogar sin antecedentes de interés que desde hace unos 7 años viene presentando un cuadro clínico respiratorio consistente en episodios de tos seca o con ligera expectoración viscosa opresión torácica disnea sibilantes y síntomas de hiperreactividad bronquial inespecífica Acompañando a esta sintomatología presenta prurito nasal y salvas de estornudos La paciente refiere que empeora de su sintomatología cuando se expone al vapor de cocción de mariscos y al polvo domestico Asocia también prurito labial y de orofaringe al consumir estos alimentos
 
-- Exploración física:
+ Exploración física
 
-Sin alteraciones.
+Sin alteraciones
 
-- Diagnostico de presunción:
+ Diagnostico de presunción
 
-- Asma a filiar.
+ Asma a filiar
 
-- Síndrome de alergia oral.
+ Síndrome de alergia oral
 
-- Datos complementarios:
+ Datos complementarios
 
-- Pruebas cutáneas de hipersensibilidad inmediata (prick-test) para aeroalergenos comunes presentes en nuestro medio:
+ Pruebas cutáneas de hipersensibilidad inmediata pricktest para aeroalergenos comunes presentes en nuestro medio
 
-Pólenes (Phleum, Olea, Parietaria, Salsola, plátano y ciprés): negativas.
+Pólenes  Phleum Olea Parietaria Salsola plátano y ciprés negativas
 
-Acaros (D. pteronyssinus, Thyrophagus y Lepidoglyphus): negativas.
+Acaros D pteronyssinus Thyrophagus y Lepidoglyphus negativas
 
-Epitelios de animales (perro y gato): Negativas. § Hongos aerógenos (Alternaria, Cladosporium): negativas.
+Epitelios de animales perro y gato Negativas  Hongos aerógenos Alternaria Cladosporium negativas
 
-Látex: negativo
+Látex negativo
 
-- Pruebas cutáneas de hipersensibilidad inmediata (prick-test) para trofoalergenos comunes:
+ Pruebas cutáneas de hipersensibilidad inmediata pricktest para trofoalergenos comunes
 
-Pescados (bacalao, gallo, atún y sardina): positivas para bacalao (10 mm, gallo (9 mm) y sardina (8 mm), sobre una histamina de 8 mm.
+Pescados bacalao gallo atún y sardina positivas para bacalao 10 mm gallo 9 mm y sardina 8 mm sobre una histamina de 8 mm
 
-Crustáceos (gamba y langostino): positivos para gamba (16 mm) y langostino (10 mm). § Bivalvos (mejillón y almeja): positivos para almeja (10 mm).
+Crustáceos gamba y langostino positivos para gamba 16 mm y langostino 10 mm  Bivalvos mejillón y almeja positivos para almeja 10 mm
 
-Cefalópodos (pulpo y sepia): positivos para pulpo (12 mm) y sepia (9 mm).
+Cefalópodos pulpo y sepia positivos para pulpo 12 mm y sepia 9 mm
 
-- Espirometría basal: FVC: 107.3%, FEV1: 94.3 %, FEV1/FVC: 71.56, PEF: 83.4 , FEF25-75: 44%. Prueba broncodilatadora: positiva; mejoría del 20 % y del 68 %, en el FEV-1 y FEF25-75%, respectivamente.
+ Espirometría basal FVC 1073 FEV1 943  FEV1FVC 7156 PEF 834  FEF2575 44 Prueba broncodilatadora positiva mejoría del 20  y del 68  en el FEV1 y FEF2575 respectivamente
 
-- IgE total: 908 KU/L.
+ IgE total 908 KUL
 
-- IgE especifica para:
+ IgE especifica para
 
-D.Pteronissinus: positiva, 18.20 KU/L.
+DPteronissinus positiva 1820 KUL
 
-Camarón/gamba: positiva, >100 KU/L
+Camaróngamba positiva 100 KUL
 
-Cucaracha: positiva, 31.60 KU/L.
+Cucaracha positiva 3160 KUL
 
-Resto negativa.
+Resto negativa
 
-- Tratamiento:
+ Tratamiento
 
-Evitar la exposición a los vapores espontáneos y de cocción desprendidos por los crustáceos, cefalópodos y bivalvos.
+Evitar la exposición a los vapores espontáneos y de cocción desprendidos por los crustáceos cefalópodos y bivalvos
 
-- Diagnostico definitivo:
+ Diagnostico definitivo
 
-Asma alérgica ocupacional en el medio doméstico.
+Asma alérgica ocupacional en el medio doméstico

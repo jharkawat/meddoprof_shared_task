@@ -1,12 +1,12 @@
-T1	PROFESION 184 211	médico de atención primaria
-T2	PROFESION 520 559	Equipo de Salud Mental Infanto-Juvenil,
-T3	PROFESION 569 579	psiquiatra
-T4	SITUACION_LABORAL 2097 2116	Inició la guardería
-T5	SITUACION_LABORAL 2499 2517	estudios primarios
-T6	PROFESION 2520 2543	trabaja en una joyería.
-T7	SITUACION_LABORAL 2903 2926	hizo estudios primarios
-T8	PROFESION 2929 2935	estaba
-T9	PROFESION 7942 7963	experto en nutrición.
-T10	PROFESION 8824 8835	profesional
-T11	PROFESION 11137 11146	psicóloga
-T12	PROFESION 11157 11168	psiquiatra.
+T1	PROFESION 181 208	médico de atención primaria
+T2	PROFESION 510 547	Equipo de Salud Mental InfantoJuvenil
+T3	PROFESION 557 567	psiquiatra
+T4	SITUACION_LABORAL 2061 2080	Inició la guardería
+T5	SITUACION_LABORAL 2455 2473	estudios primarios
+T6	PROFESION 2476 2498	trabaja en una joyería
+T7	SITUACION_LABORAL 2850 2873	hizo estudios primarios
+T8	PROFESION 2876 2882	estaba
+T9	PROFESION 7757 7777	experto en nutrición
+T10	PROFESION 8628 8639	profesional
+T11	PROFESION 10916 10925	psicóloga
+T12	PROFESION 10936 10946	psiquiatra

@@ -1,13 +1,13 @@
-T1	PROFESION 2064 2083	médico de cabecera.
-T2	PROFESION 2496 2524	médico de atención primaria,
-T3	PROFESION 2585 2591	médico
-T4	PROFESION 2615 2621	médico
-T5	PROFESION 4261 4283	equipo de psiquiatría.
-T6	PROFESION 4888 4909	equipo de psiquiatría
-T7	PROFESION 5149 5158	enfermera
-T8	PROFESION 5303 5324	equipo de psiquiatría
-T9	PROFESION 5803 5812	enfermera
-T10	SITUACION_LABORAL 6149 6158	compañero
-T11	PROFESION 6235 6244	enfermera
-T12	PROFESION 7039 7061	equipo de psiquiatría;
-T13	PROFESION 7308 7327	médico de cabecera;
+T1	PROFESION 2011 2029	médico de cabecera
+T2	PROFESION 2437 2464	médico de atención primaria
+T3	PROFESION 2525 2531	médico
+T4	PROFESION 2552 2558	médico
+T5	PROFESION 4145 4166	equipo de psiquiatría
+T6	PROFESION 4750 4771	equipo de psiquiatría
+T7	PROFESION 5006 5015	enfermera
+T8	PROFESION 5158 5179	equipo de psiquiatría
+T9	PROFESION 5647 5656	enfermera
+T10	SITUACION_LABORAL 5987 5996	compañero
+T11	PROFESION 6071 6080	enfermera
+T12	PROFESION 6857 6878	equipo de psiquiatría
+T13	PROFESION 7121 7139	médico de cabecera

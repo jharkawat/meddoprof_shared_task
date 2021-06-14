@@ -1,8 +1,8 @@
-T1	PROFESION 846 863	Médico de Familia
-T2	PROFESION 1398 1416	Médico de Familia,
-T3	PROFESION 1602 1612	psiquiatra
-T4	PROFESION 1704 1717	profesionales
-T5	PROFESION 2497 2516	Trabaja en Correos.
-T6	SITUACION_LABORAL 2532 2562	estado de incapacidad temporal
-T7	PROFESION 4122 4132	psiquiatra
-T8	PROFESION 4971 4981	psiquiatra
+T1	PROFESION 828 845	Médico de Familia
+T2	PROFESION 1374 1391	Médico de Familia
+T3	PROFESION 1573 1583	psiquiatra
+T4	PROFESION 1673 1686	profesionales
+T5	PROFESION 2446 2464	Trabaja en Correos
+T6	SITUACION_LABORAL 2480 2510	estado de incapacidad temporal
+T7	PROFESION 4042 4052	psiquiatra
+T8	PROFESION 4875 4885	psiquiatra
