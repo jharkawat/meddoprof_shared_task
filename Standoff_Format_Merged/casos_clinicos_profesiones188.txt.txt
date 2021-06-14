@@ -1,37 +1,37 @@
 Anamnesis y exploración física
-Varón de 43 años natural de Ecuador que reside en España desde el 2004 sin antecedentes de atopia Desde ese mismo año comienza a trabajar en un horno de panadería sin presentar ningún tipo de sintomatología A partir del cuarto año 2008 refiere síntomas oculonasales y disnea sibilante al manipular harina de trigo harina multicereales y harina con pipas de girasol tolerando su ingesta Al preguntarle por la intensidad de los síntomas en función del tiempo el paciente refiere que los síntomas aparecen a los 30 minutos de iniciar la jornada laboral y los relaciona claramente con los periodos de trabajo estando asintomático durante las vacaciones Asimismo refiere que desde 2010 ha presentado episodios de prurito orofaríngeo rinoconjuntivitis y disnea con sibilancias que relaciona con la ingesta de mostaza semillas de sésamo y cerveza con alcohol Refiere tolerar la cerveza sin alcohol Nunca ha comido pipas de girasol
+Varón de 43 años, natural de Ecuador que reside en España desde el 2004, sin antecedentes de atopia. Desde ese mismo año comienza a trabajar en un horno de panadería, sin presentar ningún tipo de sintomatología. A partir del cuarto año (2008), refiere síntomas oculonasales y disnea sibilante al manipular harina de trigo, harina multicereales y harina con pipas de girasol, tolerando su ingesta. Al preguntarle por la intensidad de los síntomas en función del tiempo, el paciente refiere que los síntomas aparecen a los 30 minutos de iniciar la jornada laboral y los relaciona claramente con los periodos de trabajo, estando asintomático durante las vacaciones. Asimismo, refiere que desde 2010 ha presentado episodios de prurito orofaríngeo, rinocon-juntivitis y disnea con sibilancias que relaciona con la ingesta de mostaza, semillas de sésamo y cerveza con alcohol. Refiere tolerar la cerveza sin alcohol. Nunca ha comido pipas de girasol.
 
 Pruebas cutáneas
-Pricktest
-Pólenes acaros domésticos y almacenamiento hongos epitelios de animales cereales levaduras Negativo
-Sésamo mostaza Positivo
+Prick-test
+Pólenes, acaros (domésticos y almacenamiento), hongos, epitelios de animales, cereales, levaduras: Negativo
+Sésamo, mostaza: Positivo
 
-Prickprick
-Harina de trigo harina con pipas de girasol harina multicereales pipas de girasol cerveza con alcohol Positivo
-Cerveza sin alcohol Negativo
+Prick-prick
+Harina de trigo, harina con pipas de girasol, harina multicereales, pipas de girasol, cerveza con alcohol: Positivo
+Cerveza sin alcohol: Negativo
 
-Exploración física
- Auscultación cardiopulmonar sin alteraciones
- Rinoscopia anterior sin alteraciones
- No lesiones cutáneas
+Exploración física:
+• Auscultación cardiopulmonar: sin alteraciones.
+• Rinoscopia anterior: sin alteraciones.
+• No lesiones cutáneas.
 
-Estudio alergológico in vivo
-1 Se realizan pruebas cutáneas en pricktest con baterías comerciales de inhalantes cereales levaduras y semillas así como con productos de panadería aportados por el paciente harina de trigo harina con pipas de girasol harina multicereales pipas de girasol cerveza con alcohol Mahou y cerveza sin alcohol Finkbrau Se realizan pruebas cutáneas con dichos productos en controles no atópicos y son negativas
-2 Las pruebas respiratorias se realizaron en periodo de baja laboral siendo la espirometría con broncodilatación normal y la FeNO elevada con un valor de 116 ppm
-3 El paciente realizó un registro de picoflujo durante el periodo laboral y vacacional presentando una variabilidad diaria del 27 en el trabajo y estabilidad de los registros durante vacaciones
-4 Test de manipulación por baldeo sin contacto directo con harina de trigo y pipas de girasol en el que se valoró la sintomatología ocular mediante la puntuación de Abelson y los síntomas nasales según la puntuación de Lebel Se realizaron controles espirométricos pre y postmanipulación así como toma de exudados nasales en ambos tiempos para valorar la eosinofilia
+Estudio alergológico "in vivo"
+1. Se realizan pruebas cutáneas en prick-test con baterías comerciales de inhalantes, cereales, levaduras y semillas, así como con productos de panadería aportados por el paciente (harina de trigo, harina con pipas de girasol, harina multicereales, pipas de girasol, cerveza con alcohol Mahou® y cerveza sin alcohol Finkbrau®). Se realizan pruebas cutáneas con dichos productos en controles no atópicos y son negativas.
+2. Las pruebas respiratorias se realizaron en periodo de baja laboral, siendo la espirometría con broncodilatación normal y la FeNO elevada, con un valor de 116 ppm.
+3. El paciente realizó un registro de pico-flujo durante el periodo laboral y vacacional, presentando una variabilidad diaria del 27% en el trabajo y estabilidad de los registros durante vacaciones.
+4. Test de manipulación por baldeo, sin contacto directo con harina de trigo y pipas de girasol en el que se valoró la sintomatología ocular mediante la puntuación de Abelson, y los síntomas nasales según la puntuación de Lebel. Se realizaron controles espirométricos pre y post-manipulación, así como toma de exudados nasales en ambos tiempos para valorar la eosinofilia.
 
-Estudio alergológico in vitro
-1 Determinación de valores de IgE específica con metodología ImmunoCAPe ISAC
-2 Determinación de IgE específica frente a diferentes alérgenos vegetales mediante microarray desarrollado por Araceli DíazPerales Centro de Biotecnología y Genómica de Plantas UPMINIA reconociéndose alérgenos pertenecientes a las superfamilias de las prolaminas y de las cupinas
-3 SDSPAGE Immunoblot y posterior secuenciación mediante LCMCMC Liquid chromatographytándem mass spectometry realizado gracias a la colaboración de Jerónimo Carnés Departamento ID de Laboratorios Leti
+Estudio alergológico "in vitro"
+1. Determinación de valores de IgE específica con metodología ImmunoCAP®e ISAC®.
+2. Determinación de IgE específica frente a diferentes alérgenos vegetales mediante microarray desarrollado por Araceli Díaz-Perales (Centro de Biotecnología y Genómica de Plantas- UPM-INIA), reconociéndose alérgenos pertenecientes a las superfamilias de las prolaminas y de las cupinas.
+3. SDS-PAGE Immunoblot y posterior secuenciación mediante LC/MC-MC (Liquid chromatography-tándem mass spectometry), realizado gracias a la colaboración de Jerónimo Carnés (Departamento I+D de Laboratorios Leti).
 
-Con estas técnicas se identificaron dos bandas en el extracto de harina de trigo correspondientes al inhibidor de alfaamilasa monomérico Tri a 15 y dimérico Tri a 28 En el extracto del pipa de girasol aparece una banda intensa de 18 kDa identificada como 2S albúmina prolamina En cuanto a la cerveza con alcohol aparece una banda menor de 14 kDa que se identifica como la LTP de la cebada Esta banda aparece con menos intensidad en la cerveza hervida y no está presente en la cerveza sin alcohol
+Con estas técnicas se identificaron dos bandas en el extracto de harina de trigo correspondientes al inhibidor de alfa-amilasa monomérico (Tri a 15) y dimérico (Tri a 28). En el extracto del pipa de girasol aparece una banda intensa de 18 kDa identificada como 2S albúmina (prolamina). En cuanto a la cerveza con alcohol, aparece una banda menor de 14 kDa que se identifica como la LTP de la cebada. Esta banda aparece con menos intensidad en la cerveza hervida y no está presente en la cerveza sin alcohol.
 
 Juicio clínico
- Rinoconjuntivitis y asma ocupacional en panadero por sensibilización a proteínas del grupo de prolaminas 2Salbúmina de pipa de girasol así como inhibidor de alfaamilasa gliadina y LTP de cereales
- Anafilaxia por ingesta de semillas con sensibilización a proteínas de almacenamiento de los grupos prolamina 2Salbúmina y cupina 7Svicilina y 11Sglobulina
- Anafilaxia por ingesta de cerveza con alcohol sensibilización a LTP de cebada con buena tolerancia a cerveza sin alcohol
+– Rinoconjuntivitis y asma ocupacional en panadero por sensibilización a proteínas del grupo de prolaminas (2S-albúmina de pipa de girasol, así como inhibidor de alfa-amilasa, gliadina y LTP de cereales).
+– Anafilaxia por ingesta de semillas con sensibilización a proteínas de almacenamiento de los grupos prolamina (2S-albúmina) y cupina (7S-vicilina y 11S-globulina).
+– Anafilaxia por ingesta de cerveza con alcohol (sensibilización a LTP de cebada) con buena tolerancia a cerveza sin alcohol.
 
 Evolución
-Tras iniciar el tratamiento con antihistamínicos fluticasona nasal montelukast y fluticasonasalmeterol inhalado el paciente refería una clara mejoría clínica pero mantenía reactivaciones al iniciar el trabajo que precisaban tratamiento con salbutamol diario Con nuestro diagnóstico alergológico el paciente consiguió una incapacidad laboral para el desarrollo de su trabajo en panadería y actualmente trabaja como conductor estando asintomático y sin precisar tratamiento Sigue evitando la ingesta de semillas
+Tras iniciar el tratamiento con antihistamínicos, fluticasona nasal, montelukast y fluticasona/salmeterol inhalado, el paciente refería una clara mejoría clínica, pero mantenía reactivaciones al iniciar el trabajo que precisaban tratamiento con salbutamol diario. Con nuestro diagnóstico alergológico el paciente consiguió una incapacidad laboral para el desarrollo de su trabajo en panadería y actualmente trabaja como conductor, estando asintomático y sin precisar tratamiento. Sigue evitando la ingesta de semillas.

@@ -1,9 +1,9 @@
 T1	PROFESION 50 70	técnico de postventa
-T2	PROFESION 98 121	dedica a la instalación
-T3	PROFESION 263 279	técnico de campo
-T4	PROFESION 280 290	frigorista
-T5	PROFESION 2545 2558	especialistas
-T6	SITUACION_LABORAL 2578 2598	incapacidad temporal
-T7	PROFESION 2768 2777	neumólogo
-T8	SITUACION_LABORAL 3422 3432	trabajador
-T9	SITUACION_LABORAL 3646 3656	trabajador
+T2	PROFESION 99 122	dedica a la instalación
+T3	PROFESION 267 284	técnico de campo/
+T4	PROFESION 285 295	frigorista
+T5	PROFESION 2643 2656	especialistas
+T6	SITUACION_LABORAL 2677 2697	incapacidad temporal
+T7	PROFESION 2872 2881	neumólogo
+T8	SITUACION_LABORAL 3543 3553	trabajador
+T9	SITUACION_LABORAL 3769 3779	trabajador

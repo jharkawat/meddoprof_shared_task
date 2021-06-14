@@ -1,6 +1,6 @@
-T1	PROFESION 20 79	Inició su actividad laboral en una asociación de hostelería
-T2	PROFESION 99 113	administrativa
-T3	SITUACION_LABORAL 389 398	compañera
-T4	SITUACION_LABORAL 1279 1294	de baja laboral
-T5	SITUACION_LABORAL 1632 1660	incapacidad laboral absoluta
-T6	PROFESION 3125 3132	abogado
+T1	PROFESION 21 81	Inició su actividad laboral en una asociación de hostelería,
+T2	PROFESION 101 115	administrativa
+T3	SITUACION_LABORAL 396 405	compañera
+T4	SITUACION_LABORAL 1300 1315	de baja laboral
+T5	SITUACION_LABORAL 1655 1683	incapacidad laboral absoluta
+T6	PROFESION 3167 3174	abogado

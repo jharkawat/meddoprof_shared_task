@@ -70,7 +70,7 @@ def output(infn, output_directory, sentences):
         quote_count = 0
 
         for token, ttag, ttype in sentence:
-
+            #ttag = re.sub(r'[^\w\s]', '', ttag)
             if curr_type is not None and (ttag != "I" or ttype != curr_type):
                 # a previously started tagged sequence does not
                 # continue into this position.
@@ -117,7 +117,7 @@ def process(fn,  output_directory ):
 
     docnum = 1
     sentences = []
-
+    cont = 0
     with codecs.open(fn, encoding=INPUT_ENCODING) as f:
 
         # store (token, BIO-tag, type) triples for sentence
@@ -172,10 +172,17 @@ def process(fn,  output_directory ):
             m = re.match(r'^([BIO])((?:-[A-Za-z_\-]+)?)$', tag)
             assert m, "ERROR: failed to parse tag '%s' in %s" % (tag, fn)
             ttag, ttype = m.groups()
+
             if len(ttype) > 0 and ttype[0] == "-":
                 ttype = ttype[1:]
 
             current.append((token, ttag, ttype))
+            # print("token: {}".format(token))
+            # print("ttag: {}".format(ttag))
+            # print("ttype: {}".format(ttype))
+            # cont = cont+1
+            # if cont  > 100:
+            # exit()
 
         # process leftovers, if any
         if len(current) > 0:

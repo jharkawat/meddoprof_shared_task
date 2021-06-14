@@ -1,9 +1,9 @@
-T1	PROFESION 3 71	trabajador del servicio de Medicina Nuclear de un hospital terciario
-T2	SITUACION_LABORAL 265 275	trabajador
-T3	SITUACION_LABORAL 632 642	trabajador
-T4	PROFESION 1622 1632	trabajador
-T5	SITUACION_LABORAL 1984 1994	trabajador
-T6	SITUACION_LABORAL 2619 2631	trabajadores
-T7	SITUACION_LABORAL 2829 2839	trabajador
-T8	SITUACION_LABORAL 2988 2998	trabajador
-T9	SITUACION_LABORAL 3066 3076	trabajador
+T1	PROFESION 3 72	trabajador del servicio de Medicina Nuclear de un hospital terciario,
+T2	SITUACION_LABORAL 268 278	trabajador
+T3	SITUACION_LABORAL 641 652	trabajador,
+T4	PROFESION 1649 1659	trabajador
+T5	SITUACION_LABORAL 2014 2024	trabajador
+T6	SITUACION_LABORAL 2661 2673	trabajadores
+T7	SITUACION_LABORAL 2876 2886	trabajador
+T8	SITUACION_LABORAL 3035 3045	trabajador
+T9	SITUACION_LABORAL 3115 3125	trabajador

@@ -1,9 +1,9 @@
-T1	PROFESION 536 543	taxista
-T2	PROFESION 646 652	cajera
-T3	PROFESION 708 712	juez
-T4	PROFESION 1455 1480	trabaja en una peluquería
-T5	PROFESION 2450 2457	taxista
-T6	SITUACION_LABORAL 2688 2698	compañeros
-T7	PROFESION 5665 5674	compañera
-T8	PROFESION 5681 5709	peluquería en la que trabaja
-T9	PROFESION 6162 6179	médico de familia
+T1	PROFESION 555 563	taxista;
+T2	PROFESION 667 673	cajera
+T3	PROFESION 731 735	juez
+T4	PROFESION 1496 1522	trabaja en una peluquería.
+T5	PROFESION 2520 2527	taxista
+T6	SITUACION_LABORAL 2763 2773	compañeros
+T7	PROFESION 5849 5858	compañera
+T8	PROFESION 5865 5893	peluquería en la que trabaja
+T9	PROFESION 6355 6373	médico de familia;

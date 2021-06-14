@@ -1,13 +1,13 @@
-T1	PROFESION 236 242	Médico
-T2	PROFESION 315 372	trabajadora del servicio de radiodiagnóstico del hospital
-T3	PROFESION 583 623	técnico de radiodiagnóstico del hospital
-T4	PROFESION 849 862	Anteriormente
-T5	PROFESION 863 895	trabajó en otro centro sanitario
-T6	PROFESION 901 920	auxiliar de clínica
-T7	PROFESION 1918 1926	oncólogo
-T8	SITUACION_LABORAL 1995 2006	trabajadora
-T9	PROFESION 2010 2037	técnico de radiodiagnóstico
-T10	SITUACION_LABORAL 2327 2337	trabajador
-T11	SITUACION_LABORAL 2423 2434	trabajadora
-T12	SITUACION_LABORAL 2832 2843	trabajadora
-T13	PROFESION 2897 2937	Técnico Especialista en Radiodiagnóstico
+T1	PROFESION 264 271	Médico:
+T2	PROFESION 349 407	trabajadora del servicio de radiodiagnóstico del hospital.
+T3	PROFESION 621 662	técnico de radiodiagnóstico del hospital.
+T4	PROFESION 893 906	Anteriormente
+T5	PROFESION 907 939	trabajó en otro centro sanitario
+T6	PROFESION 945 965	auxiliar de clínica.
+T7	PROFESION 1990 1998	oncólogo
+T8	SITUACION_LABORAL 2068 2079	trabajadora
+T9	PROFESION 2083 2110	técnico de radiodiagnóstico
+T10	SITUACION_LABORAL 2404 2414	trabajador
+T11	SITUACION_LABORAL 2506 2517	trabajadora
+T12	SITUACION_LABORAL 2928 2939	trabajadora
+T13	PROFESION 2993 3034	Técnico Especialista en Radiodiagnóstico,

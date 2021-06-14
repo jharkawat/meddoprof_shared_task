@@ -1,9 +1,9 @@
-T1	PROFESION 26 35	terapeuta
-T2	PROFESION 2639 2652	profesionales
-T3	PROFESION 2748 2758	psiquiatra
-T4	PROFESION 4661 4672	profesional
-T5	PROFESION 4727 4737	psiquiatra
-T6	PROFESION 4753 4762	terapeuta
-T7	PROFESION 5983 5992	directora
-T8	PROFESION 5996 6014	trabajadora social
-T9	PROFESION 6020 6042	terapeuta del servicio
+T1	PROFESION 27 36	terapeuta
+T2	PROFESION 2685 2698	profesionales
+T3	PROFESION 2795 2805	psiquiatra
+T4	PROFESION 4750 4761	profesional
+T5	PROFESION 4818 4828	psiquiatra
+T6	PROFESION 4845 4854	terapeuta
+T7	PROFESION 6095 6105	directora,
+T8	PROFESION 6109 6127	trabajadora social
+T9	PROFESION 6133 6155	terapeuta del servicio

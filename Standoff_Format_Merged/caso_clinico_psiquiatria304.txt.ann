@@ -1,12 +1,12 @@
-T1	PROFESION 2230 2260	operario en una fábrica textil
-T2	SITUACION_LABORAL 2627 2630	sin
-T3	SITUACION_LABORAL 2659 2667	jubilado
-T4	SITUACION_LABORAL 2673 2680	en paro
-T5	PROFESION 3600 3627	médico de atención primaria
-T6	PROFESION 3631 3640	neurólogo
-T7	PROFESION 4026 4037	naturalista
-T8	PROFESION 4217 4235	médico de cabecera
-T9	PROFESION 4381 4408	médico de atención primaria
-T10	PROFESION 4878 4896	médico de cabecera
-T11	PROFESION 6570 6577	médicos
-T12	PROFESION 6957 6966	Naturista
+T1	PROFESION 2283 2314	operario en una fábrica textil.
+T2	SITUACION_LABORAL 2686 2689	sin
+T3	SITUACION_LABORAL 2719 2728	jubilado,
+T4	SITUACION_LABORAL 2734 2741	en paro
+T5	PROFESION 3679 3706	médico de atención primaria
+T6	PROFESION 3710 3720	neurólogo,
+T7	PROFESION 4114 4126	naturalista,
+T8	PROFESION 4308 4326	médico de cabecera
+T9	PROFESION 4477 4504	médico de atención primaria
+T10	PROFESION 4988 5006	médico de cabecera
+T11	PROFESION 6718 6725	médicos
+T12	PROFESION 7113 7122	Naturista
