@@ -59,16 +59,27 @@ Input files from data/{dataset_name}/{train, test, Val}
     ``` python train.py```
 
 3. To get the output for submission:
-This script takes the sentences from (./data/{dataset_name}/interactive/sentences/.) and write ouput in ./output_data (Berts output)
+This script takes the sentences from (./data/{dataset_name}/interactive/sentences/.) and write ouput in ./output-data_bert (Berts output)
 
     ```python inference.py```
 
 ## Post-Processing Instruction 
 The post processing is done as per the submission requirement of [sharetask]()
-- use ```submit_format_generator.ipynb``` for generting conll formate
+- use ```submit_format_generator.ipynb``` for generting conll formate  
+    This will generate ```temp``` containing files in conll formate
+
+**Task Specific Processing**
+- Conversion to standoff formate
+    run 
+    ```
+      ./data/meddo/meddoprof_shared_task/conllandstandoff_convertor/convert_conll_to_standoff/conll2standoff.py
+    ```
+    The above scipt store generated standoff formate data at ```./ouput-Standoff_Format```
+- use ```Post_processor.ipynb```
+    output store in ```output-desire_submission_formate```
 
 ## License
-MIT
+**MIT**
 
 ## Miscellanous
 - You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
