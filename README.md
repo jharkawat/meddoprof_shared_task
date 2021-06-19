@@ -47,7 +47,7 @@ conda env create -f env.yml
 ## Preprocessing Instruction
 1. Create the {test/train/Val}_bio files in the ```./data``` containing dataset in conll format  (more detail refer ```./data/README.md```)
 2. Run ```python build_dataset_tags.py ```  
-    This will generate ```./train```, ```./test``` and ```./Val folder``` inside ```data/{dataset_name}/{train, test, Val}```
+  This will generate ```./train```, ```./test``` and ```./Val folder``` inside ```data/{dataset_name}/{train, test, Val}```
 3. Scripts for conll-standoff conversion ```data\meddo\meddoprof_shared_task\conllandstandoff_convertor```
 
 ## Training Instruction
@@ -73,12 +73,9 @@ The post processing is done as per the submission requirement of [sharetask]()
     Run ```./data/meddo/meddoprof_shared_task/conllandstandoff_convertor/convert_conll_to_standoff/conll2standoff.py```
     The above scipt store generated standoff format data at ```./ouput-Standoff_Format```
 - Use ```Post_processor.ipynb```
-    output store in ```output-desire_submission_format```
-
-## License
-**MIT**.
+    output store in ```output-desire_submission_format```  
 
 ## Miscellanous
 - You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
-
-
+- License: **MIT**
+- Code Credits: [NER_Lab_Protocols](https://github.com/tejasvaidhyadev/NER_Lab_Protocols)
