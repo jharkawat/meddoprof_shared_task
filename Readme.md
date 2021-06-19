@@ -1,5 +1,5 @@
 ## MEDDOPROF_SHAREDTASK
-The code for submission of Meddoprof_sharedtask 
+The code for submission of [Meddoprof_sharedtask] ()
 
 ## Dependencies
 
@@ -46,13 +46,13 @@ conda env create -f env.yml
 
 ## Preprocessing Instruction
 1. Create the {test/train/Val}_bio files in the ```./data``` containing dataset in conll format  (more detail refer ```./data/README.md```)
-2. run ```python build_dataset_tags.py ```  
+2. Run ```python build_dataset_tags.py ```  
     This will generate ```./train```, ```./test``` and ```./Val folder``` inside ```data/{dataset_name}/{train, test, Val}```
 3. Scripts for conll-standoff conversion ```data\meddo\meddoprof_shared_task\conllandstandoff_convertor```
 
 ## Training Instruction
-1. download pretrained model form [link](https://github.com/jharkawat/meddoprof_shared_task/releases/download/v0.1/meddo.zip)
- ```mkdir expeirments``` and unzip file inside it
+1. Download pretrained model form [link](https://github.com/jharkawat/meddoprof_shared_task/releases/download/v0.1/meddo.zip)
+ ```mkdir experiments``` and unzip file inside experiments.
 
 2. For Training the model:
 Input files from data/{dataset_name}/{train, test, Val}
@@ -61,25 +61,22 @@ Input files from data/{dataset_name}/{train, test, Val}
 3. To get the output for submission:
 This script takes the sentences from (./data/{dataset_name}/interactive/sentences/.) and write ouput in ./output-data_bert (Berts output)
 
-    ```python inference.py```
+    ```python inference.py --dataset meddo```
 
 ## Post-Processing Instruction 
 The post processing is done as per the submission requirement of [sharetask]()
-- use ```submit_format_generator.ipynb``` for generting conll formate  
+- Use ```submit_format_generator.ipynb``` for generting conll formate  
     This will generate ```temp``` containing files in conll formate
 
 **Task Specific Processing**
-- Conversion to standoff formate
-    run 
-    ```
-      ./data/meddo/meddoprof_shared_task/conllandstandoff_convertor/convert_conll_to_standoff/conll2standoff.py
-    ```
-    The above scipt store generated standoff formate data at ```./ouput-Standoff_Format```
-- use ```Post_processor.ipynb```
-    output store in ```output-desire_submission_formate```
+- Conversion to standoff format
+    Run ```./data/meddo/meddoprof_shared_task/conllandstandoff_convertor/convert_conll_to_standoff/conll2standoff.py```
+    The above scipt store generated standoff format data at ```./ouput-Standoff_Format```
+- Use ```Post_processor.ipynb```
+    output store in ```output-desire_submission_format```
 
 ## License
-**MIT**
+**MIT**.
 
 ## Miscellanous
 - You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
