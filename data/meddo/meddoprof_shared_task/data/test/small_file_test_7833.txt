@@ -1,6 +1,0 @@
-
-BAG	O
-de	O
-lesión	O
-suprarrenal	O
-derecha	O

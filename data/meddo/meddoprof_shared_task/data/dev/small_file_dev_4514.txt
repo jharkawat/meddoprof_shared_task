@@ -1,6 +1,0 @@
-
-Sin	O
-antecedentes	O
-de	O
-exposición	O
-.	O

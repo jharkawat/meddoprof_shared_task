@@ -1,6 +1,0 @@
-
-Reciba	O
-un	O
-cordial	O
-saludo	O
-"	O

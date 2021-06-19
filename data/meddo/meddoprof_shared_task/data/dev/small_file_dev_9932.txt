@@ -1,7 +1,0 @@
-
-PSAP	O
-32	O
-mmHg	O
-+	O
-PVC	O
-.	O

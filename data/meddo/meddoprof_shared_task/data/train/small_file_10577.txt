@@ -1,9 +1,0 @@
-
-Enf	O
-2a	O
-motoneurona	O
-:	O
-a	O
-)	O
-ELA	O
-.	O

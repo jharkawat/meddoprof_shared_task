@@ -1,7 +1,0 @@
-
-Muy	O
-afectado	O
-por	O
-el	O
-dolor	O
-.	O

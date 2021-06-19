@@ -1,8 +1,0 @@
-
-Ideación	O
-delirante	O
-de	O
-perjuicio	O
-y	O
-autorreferencial	O
-.	O

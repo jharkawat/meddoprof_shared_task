@@ -1,7 +1,0 @@
-
-Persiste	O
-engrosamiento	O
-con	O
-hipodensidad	O
-periportal	O
-.	O

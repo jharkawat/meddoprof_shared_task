@@ -1,5 +1,0 @@
-
-Abdomen	O
-no	O
-patológico	O
-.	O

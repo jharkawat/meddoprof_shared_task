@@ -1,9 +1,0 @@
-
-CENTRO	O
-SANITARIO	O
-:	O
-Complejo	O
-Hospitalario	O
-de	O
-Jaén	O
-.	O

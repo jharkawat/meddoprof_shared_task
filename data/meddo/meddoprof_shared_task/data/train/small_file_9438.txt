@@ -1,9 +1,0 @@
-
-No	O
-se	O
-observan	O
-signos	O
-de	O
-tromboembolismo	O
-pulmonar	O
-.	O

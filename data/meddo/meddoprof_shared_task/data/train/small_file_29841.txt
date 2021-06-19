@@ -1,6 +1,0 @@
-
-Lenguaje	O
-fluido	O
-bien	O
-articulado	O
-.	O

@@ -1,7 +1,0 @@
-
-La	O
-madre	O
-confirma	O
-esta	O
-información	O
-.	O

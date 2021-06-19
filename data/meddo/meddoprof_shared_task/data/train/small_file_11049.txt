@@ -1,6 +1,0 @@
-
-Gastroscopia	O
-:	O
-Esófago	O
-normal	O
-.	O

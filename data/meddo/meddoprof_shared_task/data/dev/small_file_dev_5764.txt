@@ -1,5 +1,0 @@
-
-Estadio	O
-patológico	O
-pT1	O
-.	O

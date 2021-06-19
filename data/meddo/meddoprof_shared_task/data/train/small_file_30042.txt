@@ -1,8 +1,0 @@
-
-Precisa	O
-intervención	O
-quirúrgica	O
-de	O
-las	O
-fracturas	O
-.	O

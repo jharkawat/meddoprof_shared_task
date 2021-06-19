@@ -1,4 +1,0 @@
-
-Trastorno	O
-depresivo	O
-mayor	O

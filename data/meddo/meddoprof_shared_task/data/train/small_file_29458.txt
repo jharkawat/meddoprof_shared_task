@@ -1,7 +1,0 @@
-
-Había	O
-sido	O
-un	O
-buen	O
-estudiante	B-SITUACION_LABORAL
-.	O

@@ -1,8 +1,0 @@
-
-Taquipnea	O
-en	O
-reposo	O
-a	O
-40	O
-rpm	O
-.	O

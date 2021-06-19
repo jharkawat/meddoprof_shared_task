@@ -1,9 +1,0 @@
-
-Ventrículo	O
-derecho	O
-normal	O
-de	O
-morfología	O
-y	O
-función	O
-.	O

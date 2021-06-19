@@ -1,7 +1,0 @@
-
-Trastorno	O
-esquizoafectivo	O
-frente	O
-esquizofrenia	O
-paranoide	O
-.	O

@@ -1,9 +1,0 @@
-
-Descendente	O
-anterior	O
-tras	O
-la	O
-colocación	O
-del	O
-stent	O
-.	O

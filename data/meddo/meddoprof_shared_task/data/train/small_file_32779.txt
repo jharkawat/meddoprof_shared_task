@@ -1,9 +1,0 @@
-
-No	O
-presenta	O
-incontinencia	O
-urinaria	O
-de	O
-ningún	O
-tipo	O
-.	O

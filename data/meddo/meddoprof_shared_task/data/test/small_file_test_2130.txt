@@ -1,7 +1,0 @@
-
-El	O
-resto	O
-,	O
-sin	O
-hallazgos	O
-.	O

@@ -1,5 +1,0 @@
-
-Ruidos	O
-cardiacos	O
-apagados	O
-.	O

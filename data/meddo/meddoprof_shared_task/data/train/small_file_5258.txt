@@ -1,9 +1,0 @@
-
-Un	O
-hermano	O
-mayor	O
-soltero	O
-y	O
-sin	O
-hijos	O
-.	O

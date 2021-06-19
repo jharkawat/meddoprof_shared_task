@@ -1,6 +1,0 @@
-
-Citología	O
-negativa	O
-para	O
-malignidad	O
-.	O

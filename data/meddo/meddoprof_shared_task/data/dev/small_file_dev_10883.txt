@@ -1,8 +1,0 @@
-
-Dolor	O
-Abdominal	O
-,	O
-vómitos	O
-y	O
-nauseas	O
-.	O

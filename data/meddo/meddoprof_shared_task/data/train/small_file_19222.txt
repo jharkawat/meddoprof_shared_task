@@ -1,4 +1,0 @@
-
-Ansiedad	O
-flotante	O
-.	O

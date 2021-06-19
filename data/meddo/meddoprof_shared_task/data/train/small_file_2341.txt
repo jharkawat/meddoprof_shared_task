@@ -1,8 +1,0 @@
-
--	O
-No	O
-presenta	O
-alergias	O
-medicamentosas	O
-conocidas	O
-.	O

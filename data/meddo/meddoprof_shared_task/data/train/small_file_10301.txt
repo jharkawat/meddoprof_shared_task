@@ -1,8 +1,0 @@
-
-Complemento	O
-C3	O
-74	O
-,	O
-C4	O
-10	O
-.	O

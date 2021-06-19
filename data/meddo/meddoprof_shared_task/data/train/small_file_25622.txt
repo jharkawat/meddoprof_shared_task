@@ -1,7 +1,0 @@
-
-Trastorno	O
-sexual	O
-(	O
-parafilias	O
-)	O
-.	O

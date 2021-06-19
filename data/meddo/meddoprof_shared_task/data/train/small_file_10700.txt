@@ -1,5 +1,0 @@
-
-tolera	O
-bien	O
-)	O
-.	O

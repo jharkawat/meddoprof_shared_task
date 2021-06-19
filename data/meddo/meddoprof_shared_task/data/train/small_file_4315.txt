@@ -1,7 +1,0 @@
-
-Anamnesis	O
-,	O
-exploración	O
-y	O
-pruebas	O
-complementarias	O

@@ -1,8 +1,0 @@
-
-EDSS	O
-estimado	O
-de	O
-1	O
-,	O
-0	O
-.	O

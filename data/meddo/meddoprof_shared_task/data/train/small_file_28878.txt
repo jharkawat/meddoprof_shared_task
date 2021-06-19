@@ -1,8 +1,0 @@
-
-Tabaquismo	O
-de	O
-una	O
-cajetilla	O
-al	O
-día	O
-.	O

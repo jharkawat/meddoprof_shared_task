@@ -1,7 +1,0 @@
-
-IgM	O
-de	O
-Chlamydia	O
-pneumoniae	O
-negativa	O
-.	O

@@ -1,5 +1,0 @@
-
-Marcha	O
-con	O
-andador	O
-.	O

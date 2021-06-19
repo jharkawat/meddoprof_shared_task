@@ -1,7 +1,0 @@
-
-Hiperreflexia	O
-derecha	O
-,	O
-Babinski	O
-derecho	O
-.	O

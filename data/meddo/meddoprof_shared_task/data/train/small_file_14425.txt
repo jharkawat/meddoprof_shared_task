@@ -1,9 +1,0 @@
-
-Quetatitis	O
-en	O
-limbo	O
-esclerocorneal	O
-de	O
-ojo	O
-derecho	O
-.	O

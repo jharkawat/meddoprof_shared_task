@@ -1,4 +1,0 @@
-
-Dominancia	O
-izquierda	O
-.	O

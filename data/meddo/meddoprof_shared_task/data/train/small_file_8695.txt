@@ -1,7 +1,0 @@
-
-No	O
-se	O
-palpan	O
-adenopatías	O
-cervicales	O
-.	O

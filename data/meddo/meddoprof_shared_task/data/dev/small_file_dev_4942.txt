@@ -1,5 +1,0 @@
-
-Arbol	O
-bronquial	O
-permeable	O
-.	O

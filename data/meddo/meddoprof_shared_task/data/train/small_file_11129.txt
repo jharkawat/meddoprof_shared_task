@@ -1,7 +1,0 @@
-
-Sodio	O
-60	O
-mEq	O
-/	O
-L	O
-.	O

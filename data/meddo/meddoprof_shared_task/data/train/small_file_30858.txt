@@ -1,6 +1,0 @@
-
-Dos	O
-ingresos	O
-en	O
-UHP	O
-.	O

@@ -1,9 +1,0 @@
-
-El	O
-hermano	O
-vive	O
-en	O
-la	O
-casa	O
-familiar	O
-.	O

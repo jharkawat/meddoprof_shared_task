@@ -1,9 +1,0 @@
-
-Derrame	O
-pleural	O
-bilateral	O
-,	O
-de	O
-predominio	O
-izquierdo	O
-.	O

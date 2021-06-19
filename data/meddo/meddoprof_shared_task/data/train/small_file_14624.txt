@@ -1,9 +1,0 @@
-
-Trabajó	O
-de	O
-ganadero	B-PROFESION
-,	O
-continúa	O
-teniendo	O
-aves	O
-.	O

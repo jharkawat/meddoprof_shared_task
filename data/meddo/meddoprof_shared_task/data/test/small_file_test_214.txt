@@ -1,7 +1,0 @@
-
-No	O
-recuerda	O
-haber	O
-tenido	O
-parasitosis	O
-.	O

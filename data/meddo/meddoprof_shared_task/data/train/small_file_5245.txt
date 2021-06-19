@@ -1,6 +1,0 @@
-
-Serie	O
-blanca	O
-en	O
-rango	O
-.	O

@@ -1,6 +1,0 @@
-
-Mujer	O
-de	O
-65	O
-años	O
-.	O

@@ -1,9 +1,0 @@
-
-Calcio	O
-en	O
-orina	O
-de	O
-24	O
-horas	O
-normal	O
-.	O

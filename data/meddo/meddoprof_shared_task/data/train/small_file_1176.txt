@@ -1,7 +1,0 @@
-
-No	O
-había	O
-déficit	O
-focal	O
-neurológico	O
-.	O

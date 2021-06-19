@@ -1,6 +1,0 @@
-
-Inmunohistoquímica	O
-negativa	O
-para	O
-citomegalovirus	O
-.	O

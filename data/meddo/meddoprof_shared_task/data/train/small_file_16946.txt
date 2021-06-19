@@ -1,8 +1,0 @@
-
-Meningoencefalitis	O
-por	O
-virus	O
-de	O
-la	O
-Toscana	O
-.	O

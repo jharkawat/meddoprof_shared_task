@@ -1,8 +1,0 @@
-
-No	O
-otros	O
-antecedentes	O
-personales	O
-de	O
-interés	O
-.	O

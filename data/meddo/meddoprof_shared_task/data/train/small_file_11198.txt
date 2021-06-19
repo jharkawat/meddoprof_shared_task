@@ -1,8 +1,0 @@
-
-No	O
-otra	O
-sintomatología	O
-a	O
-otro	O
-nivel	O
-.	O

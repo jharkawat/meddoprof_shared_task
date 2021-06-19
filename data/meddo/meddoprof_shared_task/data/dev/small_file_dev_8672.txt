@@ -1,9 +1,0 @@
-
-HBsAg	O
-negativo	O
-AntiHBc	O
-positivo	O
-,	O
-AntiHBs	O
-positivo	O
-.	O

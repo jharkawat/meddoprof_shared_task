@@ -1,8 +1,0 @@
-
-Mucosa	O
-del	O
-árbol	O
-bronquial	O
-izquierdo	O
-eritematosa	O
-.	O

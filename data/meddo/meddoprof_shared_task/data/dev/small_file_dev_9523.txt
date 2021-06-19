@@ -1,4 +1,0 @@
-
-Hepatitis	O
-B	O
-tratada	O

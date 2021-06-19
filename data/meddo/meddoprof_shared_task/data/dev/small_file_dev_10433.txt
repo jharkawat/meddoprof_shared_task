@@ -1,7 +1,0 @@
-
-No	O
-se	O
-sospecharon	O
-elementos	O
-psicóticos	O
-.	O

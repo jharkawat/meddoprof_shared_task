@@ -1,5 +1,0 @@
-
-Gram	O
-sin	O
-gérmenes	O
-.	O

@@ -1,9 +1,0 @@
-
-Anatomía	O
-patológica	O
-:	O
-ausencia	O
-de	O
-células	O
-neoplásicas	O
-.	O

@@ -1,7 +1,0 @@
-
-Paciente	O
-varón	O
-de	O
-52	O
-años	O
-.	O

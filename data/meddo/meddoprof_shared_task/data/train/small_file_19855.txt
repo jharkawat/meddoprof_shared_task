@@ -1,9 +1,0 @@
-
--	O
-Candidiasis	O
-oral	O
-[	O
-112	O
-.	O
-0	O
-]	O

@@ -1,8 +1,0 @@
-
-No	O
-hubo	O
-lactancia	O
-materna	O
-por	O
-hipergalactorrea	O
-.	O

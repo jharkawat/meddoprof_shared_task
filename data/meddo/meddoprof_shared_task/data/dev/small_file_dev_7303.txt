@@ -1,7 +1,0 @@
-
-Era	O
-consumidor	O
-habitual	O
-de	O
-cannabis	O
-.	O

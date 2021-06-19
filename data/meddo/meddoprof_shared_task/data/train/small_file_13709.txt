@@ -1,5 +1,0 @@
-
-Proteínas	O
-:	O
-neg	O
-.	O

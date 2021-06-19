@@ -1,8 +1,0 @@
-
-El	O
-esposo	O
-se	O
-compromete	O
-a	O
-colaborar	O
-.	O

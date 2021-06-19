@@ -1,9 +1,0 @@
-
-Paciente	O
-zurda	O
-,	O
-colaboradora	O
-y	O
-desorientada	O
-temporalmente	O
-.	O

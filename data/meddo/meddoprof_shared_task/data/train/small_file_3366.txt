@@ -1,8 +1,0 @@
-
-Continuaba	O
-con	O
-fiebre	O
-ocasional	O
-y	O
-tos	O
-.	O

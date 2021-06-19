@@ -1,9 +1,0 @@
-
-Acude	O
-a	O
-consulta	O
-acompañada	O
-por	O
-su	O
-pareja	O
-.	O

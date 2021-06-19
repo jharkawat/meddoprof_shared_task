@@ -1,7 +1,0 @@
-
-Nunca	O
-ha	O
-presentado	O
-sintomatología	O
-positiva	O
-.	O

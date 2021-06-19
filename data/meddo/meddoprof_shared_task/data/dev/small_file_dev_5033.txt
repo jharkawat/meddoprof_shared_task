@@ -1,9 +1,0 @@
-
-Diagnóstico	O
-en	O
-urgencias	O
-:	O
-Tumor	O
-retroperitoneal	O
-gigante	O
-.	O

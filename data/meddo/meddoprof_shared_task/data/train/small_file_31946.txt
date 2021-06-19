@@ -1,9 +1,0 @@
-
-Patrón	O
-X	O
-:	O
-Afrontamiento	O
-/	O
-tolerancia	O
-al	O
-estrés	O

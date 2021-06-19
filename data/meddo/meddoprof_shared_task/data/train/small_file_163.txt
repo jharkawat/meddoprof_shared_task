@@ -1,6 +1,0 @@
-
-Un	O
-ECG	O
-fue	O
-normal	O
-.	O

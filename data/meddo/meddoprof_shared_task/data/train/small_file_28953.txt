@@ -1,7 +1,0 @@
-
-Sin	O
-patologías	O
-somáticas	O
-de	O
-interés	O
-.	O

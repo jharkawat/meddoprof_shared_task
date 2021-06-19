@@ -1,7 +1,0 @@
-
-No	O
-episodios	O
-clínicos	O
-previos	O
-similares	O
-.	O

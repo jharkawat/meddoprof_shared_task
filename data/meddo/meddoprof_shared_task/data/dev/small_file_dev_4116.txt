@@ -1,8 +1,0 @@
-
-Fecha	O
-de	O
-nacimiento	O
-:	O
-3	O
-enero	O
-1956	O

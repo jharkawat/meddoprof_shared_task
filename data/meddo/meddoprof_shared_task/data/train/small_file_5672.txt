@@ -1,9 +1,0 @@
-
-La	O
-paciente	O
-acude	O
-acompañada	O
-por	O
-su	O
-madre	O
-.	O

@@ -1,6 +1,0 @@
-
-Adecuado	O
-control	O
-de	O
-esfínteres	O
-.	O

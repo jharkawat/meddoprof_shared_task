@@ -1,8 +1,0 @@
-
-Rey	O
-dijo	O
-no	O
-tener	O
-antecedentes	O
-psiquiátricos	O
-.	O

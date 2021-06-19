@@ -1,9 +1,0 @@
-
-Lenguaje	O
-enlentecido	O
-con	O
-tono	O
-de	O
-voz	O
-baja	O
-.	O

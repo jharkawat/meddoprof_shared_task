@@ -1,9 +1,0 @@
-
-También	O
-se	O
-confirmó	O
-mediante	O
-ELISA	O
-IgG	O
-Ac	O
-.	O

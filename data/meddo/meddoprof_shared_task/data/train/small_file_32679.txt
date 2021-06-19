@@ -1,8 +1,0 @@
-
-No	O
-se	O
-observan	O
-lesiones	O
-óseas	O
-craneales	O
-.	O

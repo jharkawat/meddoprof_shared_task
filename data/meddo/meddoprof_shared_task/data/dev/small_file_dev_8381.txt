@@ -1,7 +1,0 @@
-
-Toxicidad	O
-al	O
-tratamiento	O
-tuberculostático	O
-multirresistente	O
-:	O

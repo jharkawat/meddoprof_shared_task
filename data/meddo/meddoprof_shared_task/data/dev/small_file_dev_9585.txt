@@ -1,8 +1,0 @@
-
-Tiene	O
-interpuesta	O
-una	O
-orden	O
-de	O
-alejamiento	O
-.	O

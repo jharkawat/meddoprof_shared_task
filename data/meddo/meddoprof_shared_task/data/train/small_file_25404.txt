@@ -1,7 +1,0 @@
-
-Separada	O
-y	O
-con	O
-una	O
-hija	O
-.	O

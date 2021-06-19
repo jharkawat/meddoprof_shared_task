@@ -1,9 +1,0 @@
-
-Vive	O
-en	O
-domicilio	O
-familiar	O
-con	O
-su	O
-madre	O
-.	O

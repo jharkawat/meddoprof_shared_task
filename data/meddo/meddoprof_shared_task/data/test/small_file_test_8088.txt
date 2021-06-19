@@ -1,6 +1,0 @@
-
-El	O
-resto	O
-sin	O
-incidencias	O
-.	O

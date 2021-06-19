@@ -1,6 +1,0 @@
-
-No	O
-refería	O
-alergias	O
-medicamentosas	O
-.	O

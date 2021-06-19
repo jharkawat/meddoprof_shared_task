@@ -1,6 +1,0 @@
-
-FEVI	O
-conservada	O
-sin	O
-asinergias	O
-.	O

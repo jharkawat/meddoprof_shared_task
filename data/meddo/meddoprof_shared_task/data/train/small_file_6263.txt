@@ -1,7 +1,0 @@
-
-No	O
-precisa	O
-tratamiento	O
-al	O
-alta	O
-.	O

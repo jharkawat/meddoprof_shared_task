@@ -1,7 +1,0 @@
-
-No	O
-tomó	O
-ácido	O
-fólico	O
-preconcepcional	O
-.	O

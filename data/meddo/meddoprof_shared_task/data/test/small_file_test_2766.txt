@@ -1,8 +1,0 @@
-
-Fumador	O
-de	O
-30	O
-paquetes	O
-/	O
-año	O
-.	O

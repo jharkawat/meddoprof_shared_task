@@ -1,8 +1,0 @@
-
-Mujer	O
-de	O
-70	O
-años	O
-de	O
-edad	O
-.	O

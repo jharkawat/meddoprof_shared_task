@@ -1,8 +1,0 @@
-
-Madre	O
-de	O
-60	O
-años	O
-con	O
-diabetes	O
-.	O

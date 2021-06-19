@@ -1,5 +1,0 @@
-
-Consume	O
-en	O
-soledad	O
-.	O

@@ -1,8 +1,0 @@
-
-Se	O
-interrumpe	O
-el	O
-tratamiento	O
-con	O
-clomipramina	O
-.	O

@@ -1,8 +1,0 @@
-
-El	O
-paciente	O
-no	O
-presentó	O
-toxicidades	O
-graves	O
-.	O

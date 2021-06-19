@@ -1,8 +1,0 @@
-
-Diplopía	O
-por	O
-paresia	O
-MOE	O
-ojo	O
-izdo	O
-.	O

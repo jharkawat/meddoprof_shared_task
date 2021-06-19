@@ -1,9 +1,0 @@
-
-Antecedente	O
-familiar	O
-:	O
-madre	O
-diagnosticada	O
-de	O
-fibromialgia	O
-.	O

@@ -1,9 +1,0 @@
-
-Screening	O
-anticoagulante	O
-lúpico	O
-positivo	O
-,	O
-confirmación	O
-negativo	O
-.	O

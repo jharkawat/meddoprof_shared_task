@@ -1,9 +1,0 @@
-
-Citológico	O
-BAL	O
-:	O
-Negativo	O
-para	O
-células	O
-neoplásicas	O
-.	O

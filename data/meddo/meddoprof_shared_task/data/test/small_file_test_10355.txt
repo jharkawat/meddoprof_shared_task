@@ -1,7 +1,0 @@
-
-Escaso	O
-osteoide	O
-en	O
-espacio	O
-intersticial	O
-.	O

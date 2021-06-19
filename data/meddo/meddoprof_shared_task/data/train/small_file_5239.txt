@@ -1,6 +1,0 @@
-
-Abdomen	O
-blando	O
-no	O
-doloroso	O
-.	O

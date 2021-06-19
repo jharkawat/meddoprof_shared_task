@@ -1,6 +1,0 @@
-
-Filiación	O
-del	O
-cuadro	O
-clínico	O
-.	O

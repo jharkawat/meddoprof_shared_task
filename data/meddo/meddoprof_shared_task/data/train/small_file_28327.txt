@@ -1,8 +1,0 @@
-
-Discurso	O
-espontáneo	O
-y	O
-bien	O
-estructurado	O
-morfosintácticamente	O
-.	O

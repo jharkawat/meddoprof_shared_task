@@ -1,8 +1,0 @@
-
-Dosis	O
-ajustada	O
-a	O
-CD4	O
->	O
-100	O
-.	O

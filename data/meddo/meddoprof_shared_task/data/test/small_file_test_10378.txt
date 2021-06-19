@@ -1,7 +1,0 @@
-
-No	O
-tiene	O
-antecedentes	O
-familiares	O
-oncológicos	O
-.	O

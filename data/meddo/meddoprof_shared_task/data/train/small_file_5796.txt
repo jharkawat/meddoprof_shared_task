@@ -1,8 +1,0 @@
-
-La	O
-paciente	O
-presenta	O
-un	O
-pseudotumor	O
-orbitario	O
-.	O

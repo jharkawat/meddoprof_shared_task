@@ -1,4 +1,0 @@
-
-JUICIO	O
-CLÍNICO	O
-:	O

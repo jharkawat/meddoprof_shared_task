@@ -1,6 +1,0 @@
-
-Apellidos	O
-:	O
-Perez	O
-Duarte	O
-.	O

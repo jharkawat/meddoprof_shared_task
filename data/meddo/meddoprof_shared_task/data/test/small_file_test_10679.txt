@@ -1,6 +1,0 @@
-
-ECOG	O
-performance	O
-status	O
-1	O
-.	O

@@ -1,6 +1,0 @@
-
-Sin	O
-patologías	O
-de	O
-interés	O
-.	O

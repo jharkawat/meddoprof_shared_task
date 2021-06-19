@@ -1,6 +1,0 @@
-
-Trastorno	O
-de	O
-personalidad	O
-F05	O
-depresivo	O

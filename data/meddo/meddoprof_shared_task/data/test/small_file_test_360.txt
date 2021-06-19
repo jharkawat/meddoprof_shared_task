@@ -1,6 +1,0 @@
-
-No	O
-se	O
-aprecian	O
-masas	O
-.	O

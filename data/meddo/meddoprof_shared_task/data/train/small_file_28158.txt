@@ -1,9 +1,0 @@
-
-Contracciones	O
-involuntarias	O
-intermitentes	O
-de	O
-los	O
-músculos	O
-abdominales	O
-.	O

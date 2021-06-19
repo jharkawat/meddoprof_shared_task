@@ -1,9 +1,0 @@
-
-Refiere	O
-que	O
-todo	O
-comenzó	O
-hace	O
-muchos	O
-años	O
-.	O

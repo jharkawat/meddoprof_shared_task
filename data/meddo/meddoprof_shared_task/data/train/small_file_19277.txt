@@ -1,7 +1,0 @@
-
-Valproato	O
-1	O
-,	O
-200mg	O
-/	O
-día	O

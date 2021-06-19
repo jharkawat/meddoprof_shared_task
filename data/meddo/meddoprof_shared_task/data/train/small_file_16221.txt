@@ -1,7 +1,0 @@
-
-IgM	O
-de	O
-fiebre	O
-Q	O
-negativa	O
-.	O

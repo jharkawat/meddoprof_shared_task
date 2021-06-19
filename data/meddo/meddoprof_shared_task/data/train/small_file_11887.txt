@@ -1,4 +1,0 @@
-
-Abdomen	O
-normal	O
-.	O

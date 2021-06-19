@@ -1,7 +1,0 @@
-
-Como	O
-tratamiento	O
-habitual	O
-toma	O
-enalapril	O
-.	O

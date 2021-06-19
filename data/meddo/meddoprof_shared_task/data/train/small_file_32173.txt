@@ -1,9 +1,0 @@
-
-Astenia	O
-tratamiento	O
-:	O
-no	O
-.	O
-Serología	O
-quimioluminiscencia	O
-.	O

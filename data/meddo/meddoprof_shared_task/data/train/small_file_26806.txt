@@ -1,9 +1,0 @@
-
-No	O
-se	O
-evidencian	O
-síntomas	O
-delirantes	O
-ni	O
-alucinatorios	O
-.	O

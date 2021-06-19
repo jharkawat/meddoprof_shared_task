@@ -1,9 +1,0 @@
-
-Edad	O
-1	O
-:	O
-Nace	O
-su	O
-hermana	O
-Lorena	O
-.	O

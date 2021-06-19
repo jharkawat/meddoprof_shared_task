@@ -1,5 +1,0 @@
-
-Otoscopia	O
-bilateral	O
-normal	O
-.	O

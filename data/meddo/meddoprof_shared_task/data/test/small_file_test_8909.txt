@@ -1,9 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-dislipemia	O
-en	O
-tratamiento	O
-dietético	O
-.	O

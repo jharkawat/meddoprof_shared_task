@@ -1,8 +1,0 @@
-
-Se	O
-tomaron	O
-muestras	O
-para	O
-cultivo	O
-microbiológico	O
-.	O

@@ -1,9 +1,0 @@
-
-Buena	O
-relación	O
-con	O
-su	O
-padre	O
-y	O
-hermana	O
-.	O

@@ -1,7 +1,0 @@
-
-Coordinación	O
-dedo	O
--	O
-nariz	O
-normal	O
-.	O

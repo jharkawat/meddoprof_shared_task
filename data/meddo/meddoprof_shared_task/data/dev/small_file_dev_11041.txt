@@ -1,8 +1,0 @@
-
-Glucemia	O
-:	O
-140	O
-mg	O
-/	O
-dl	O
-.	O

@@ -1,5 +1,0 @@
-
-Sin	O
-datos	O
-relevantes	O
-.	O

@@ -1,6 +1,0 @@
-
-helicobacter	O
-@	O
-gmail	O
-.	O
-com	O

@@ -1,7 +1,0 @@
-
-Hematoma	O
-subdural	O
-y	O
-tentorial	O
-izquierdo	O
-.	O

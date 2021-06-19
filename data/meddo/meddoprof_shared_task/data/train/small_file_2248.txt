@@ -1,6 +1,0 @@
-
-Glorieta	O
-del	O
-Ejército	O
-1	O
-.	O

@@ -1,5 +1,0 @@
-
-Leucoma	O
-corneal	O
-izquierdo	O
-.	O

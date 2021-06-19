@@ -1,7 +1,0 @@
-
-Niega	O
-antecedentes	O
-familiares	O
-al	O
-respecto	O
-.	O

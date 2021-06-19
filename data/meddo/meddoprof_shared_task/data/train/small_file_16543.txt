@@ -1,6 +1,0 @@
-
-Fuerza	O
-y	O
-sensibilidades	O
-conservadas	O
-.	O

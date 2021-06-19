@@ -1,7 +1,0 @@
-
--	O
-TC	O
-de	O
-abdomen	O
-normal	O
-.	O

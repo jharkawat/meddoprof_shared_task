@@ -1,6 +1,0 @@
-
-Senso	O
--	O
-Percepción	O
-100	O
-%	O

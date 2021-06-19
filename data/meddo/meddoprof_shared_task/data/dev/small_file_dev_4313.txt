@@ -1,8 +1,0 @@
-
-Varón	O
-de	O
-6	O
-meses	O
-de	O
-edad	O
-.	O

@@ -1,6 +1,0 @@
-
-Se	O
-refieren	O
-cefalalgias	O
-ocasionales	O
-.	O

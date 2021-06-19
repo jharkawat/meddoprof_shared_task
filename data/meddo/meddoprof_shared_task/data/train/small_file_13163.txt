@@ -1,9 +1,0 @@
-
-Proteína	O
-S	O
--	O
-100	O
-y	O
-CD1a	O
-positiva	O
-.	O

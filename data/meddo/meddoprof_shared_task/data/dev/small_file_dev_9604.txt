@@ -1,6 +1,0 @@
-
-Actitud	O
-hostil	O
-y	O
-retadora	O
-.	O

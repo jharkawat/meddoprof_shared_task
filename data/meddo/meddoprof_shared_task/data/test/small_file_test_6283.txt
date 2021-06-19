@@ -1,9 +1,0 @@
-
-PR	O
-constante	O
-a	O
-0	O
-,	O
-2	O
-ms	O
-.	O

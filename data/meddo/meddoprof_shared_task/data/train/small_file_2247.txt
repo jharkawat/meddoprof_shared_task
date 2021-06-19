@@ -1,9 +1,0 @@
-
-Hospital	O
-Central	O
-de	O
-la	O
-Defensa	O
-Gómez	O
-Ulla	O
-.	O

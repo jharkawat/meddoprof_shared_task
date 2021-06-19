@@ -1,9 +1,0 @@
-
-Hablaba	O
-deprisa	O
-y	O
-en	O
-voz	O
-muy	O
-alta	O
-.	O

@@ -1,7 +1,0 @@
-
-Sentimientos	O
-de	O
-culpa	O
-y	O
-desesperanza	O
-.	O

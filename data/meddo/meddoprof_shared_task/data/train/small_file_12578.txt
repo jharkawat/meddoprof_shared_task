@@ -1,7 +1,0 @@
-
-Fosa	O
-craneal	O
-posterior	O
-sin	O
-alteraciones	O
-.	O

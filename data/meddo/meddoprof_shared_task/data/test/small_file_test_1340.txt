@@ -1,7 +1,0 @@
-
-No	O
-asistir	O
-a	O
-eventos	O
-masivos	O
-.	O

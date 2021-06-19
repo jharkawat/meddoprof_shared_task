@@ -1,8 +1,0 @@
-
-Antecedentes	O
-médicos	O
-:	O
-sin	O
-alergias	O
-conocidas	O
-.	O

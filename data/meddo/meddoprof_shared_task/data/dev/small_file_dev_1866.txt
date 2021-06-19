@@ -1,8 +1,0 @@
-
-Sus	O
-padres	O
-firman	O
-el	O
-consentimiento	O
-informado	O
-.	O

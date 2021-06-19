@@ -1,8 +1,0 @@
-
-Patrón	O
-4	O
-:	O
-Actividad	O
--	O
-Ejercicio	O
-físico	O

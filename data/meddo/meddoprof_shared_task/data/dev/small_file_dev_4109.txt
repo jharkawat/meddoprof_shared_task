@@ -1,5 +1,0 @@
-
-RX	O
-de	O
-torax	O
-.	O

@@ -1,7 +1,0 @@
-
-Nódulos	O
-pulmonares	O
-de	O
-predominio	O
-derecho	O
-.	O

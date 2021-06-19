@@ -1,6 +1,0 @@
-
-Hospital	O
-Universitario	O
-de	O
-Canarias	O
-.	O

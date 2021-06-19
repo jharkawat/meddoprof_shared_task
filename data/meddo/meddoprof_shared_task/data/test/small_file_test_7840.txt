@@ -1,4 +1,0 @@
-
-ACTH	O
-normal	O
-.	O

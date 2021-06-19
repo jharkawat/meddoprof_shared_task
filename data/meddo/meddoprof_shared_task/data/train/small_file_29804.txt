@@ -1,9 +1,0 @@
-
-Intervenciones	O
-quirúrgicas	O
-de	O
-tabique	O
-nasal	O
-y	O
-fimosis	O
-.	O

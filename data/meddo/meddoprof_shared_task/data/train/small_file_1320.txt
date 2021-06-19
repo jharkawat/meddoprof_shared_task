@@ -1,6 +1,0 @@
-
-Apellidos	O
-:	O
-Rubio	O
-López	O
-.	O

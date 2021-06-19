@@ -1,9 +1,0 @@
-
-Niega	O
-flujo	O
-vaginal	O
-maloliente	O
-o	O
-dolor	O
-abdominal	O
-.	O

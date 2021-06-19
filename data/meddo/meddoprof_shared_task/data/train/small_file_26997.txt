@@ -1,8 +1,0 @@
-
-Embarazo	O
-gemelar	O
-controlado	O
-,	O
-sin	O
-incidencias	O
-.	O

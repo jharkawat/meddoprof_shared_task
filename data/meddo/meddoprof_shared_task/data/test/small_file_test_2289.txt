@@ -1,5 +1,0 @@
-
-Pequeño	O
-derrame	O
-pleural	O
-.	O

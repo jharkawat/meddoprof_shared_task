@@ -1,8 +1,0 @@
-
-Actitud	O
-autoritaria	O
-,	O
-amenazante	O
-y	O
-desafiante	O
-.	O

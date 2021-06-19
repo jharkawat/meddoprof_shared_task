@@ -1,8 +1,0 @@
-
-No	O
-ingresos	O
-ni	O
-intervenciones	O
-quirúrgicas	O
-previas	O
-.	O

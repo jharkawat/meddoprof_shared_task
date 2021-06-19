@@ -1,9 +1,0 @@
-
-Y	O
-así	O
-fue	O
-como	O
-África	O
-pidió	O
-ayuda	O
-.	O

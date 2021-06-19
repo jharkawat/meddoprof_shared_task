@@ -1,8 +1,0 @@
-
-Tomografía	O
-computarizada	O
-craneal	O
-y	O
-electroencefalograma	O
-normales	O
-.	O

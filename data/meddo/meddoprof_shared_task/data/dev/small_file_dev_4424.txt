@@ -1,6 +1,0 @@
-
-No	O
-se	O
-palpan	O
-masas	O
-.	O

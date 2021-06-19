@@ -1,8 +1,0 @@
-
-Es	O
-natural	O
-de	O
-una	O
-gran	O
-ciudad	O
-.	O

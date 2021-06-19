@@ -1,8 +1,0 @@
-
-Fumador	O
-de	O
-20	O
-cigarrillos	O
-/	O
-día	O
-.	O

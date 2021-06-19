@@ -1,8 +1,0 @@
-
-No	O
-se	O
-palpan	O
-masas	O
-ni	O
-visceromegalias	O
-.	O

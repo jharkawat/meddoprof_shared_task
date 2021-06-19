@@ -1,6 +1,0 @@
-
-Perforación	O
-de	O
-víscera	O
-hueca	O
-.	O

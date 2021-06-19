@@ -1,6 +1,0 @@
-
-Es	O
-fabricante	B-PROFESION
-de	I-PROFESION
-ropa	I-PROFESION
-.	O

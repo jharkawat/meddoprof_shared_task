@@ -1,6 +1,0 @@
-
-Motivo	O
-de	O
-la	O
-consulta	O
-:	O

@@ -1,7 +1,0 @@
-
-Síndrome	O
-de	O
-vena	O
-cava	O
-superior	O
-.	O

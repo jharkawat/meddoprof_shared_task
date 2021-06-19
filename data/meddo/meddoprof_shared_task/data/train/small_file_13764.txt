@@ -1,8 +1,0 @@
-
-EMG	O
-fibra	O
-simple	O
-:	O
-estudio	O
-normal	O
-.	O

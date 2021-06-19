@@ -1,7 +1,0 @@
-
-Aspecto	O
-extraño	O
-,	O
-vestimentas	O
-ambiguas	O
-.	O

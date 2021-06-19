@@ -1,6 +1,0 @@
-
-No	O
-otros	O
-síntomas	O
-destacables	O
-.	O

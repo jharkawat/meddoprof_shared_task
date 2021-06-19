@@ -1,7 +1,0 @@
-
-GGT	O
-198	O
-U	O
-/	O
-l	O
-.	O

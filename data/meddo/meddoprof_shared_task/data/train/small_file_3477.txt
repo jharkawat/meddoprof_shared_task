@@ -1,6 +1,0 @@
-
-Marcha	O
-en	O
-tándem	O
-inestable	O
-.	O

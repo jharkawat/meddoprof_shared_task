@@ -1,6 +1,0 @@
-
-Ingiere	O
-2	O
-litros	O
-de	O
-agua	O

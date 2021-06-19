@@ -1,7 +1,0 @@
-
-Jubilado	B-SITUACION_LABORAL
-,	O
-ginecólogo	B-PROFESION
-de	O
-profesión	O
-.	O

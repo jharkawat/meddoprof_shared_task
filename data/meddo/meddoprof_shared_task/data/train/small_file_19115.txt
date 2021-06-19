@@ -1,8 +1,0 @@
-
-A	O
-partir	O
-de	O
-entonces	O
-el	O
-pensionista	B-SITUACION_LABORAL
-.	O

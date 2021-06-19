@@ -1,7 +1,0 @@
-
-Discurso	O
-verborreico	O
-,	O
-difícilmente	O
-interrumpible	O
-.	O

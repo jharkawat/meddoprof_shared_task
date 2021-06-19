@@ -1,9 +1,0 @@
-
-además	O
-está	O
-ocupado	O
-el	O
-surco	O
-AV	O
-ipsilateral	O
-.	O

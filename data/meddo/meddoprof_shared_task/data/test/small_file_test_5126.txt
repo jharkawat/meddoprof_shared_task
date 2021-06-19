@@ -1,7 +1,0 @@
-
-EGFR	O
-y	O
-ALK	O
-:	O
-Negativos	O
-.	O

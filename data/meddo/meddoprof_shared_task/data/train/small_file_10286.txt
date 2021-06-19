@@ -1,6 +1,0 @@
-
-Hepatitis	O
-C	O
-:	O
-negativo	O
-.	O

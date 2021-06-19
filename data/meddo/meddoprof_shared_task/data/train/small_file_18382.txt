@@ -1,8 +1,0 @@
-
-Hiporexia	O
-con	O
-perdida	O
-ponderal	O
-no	O
-cuantificada	O
-.	O

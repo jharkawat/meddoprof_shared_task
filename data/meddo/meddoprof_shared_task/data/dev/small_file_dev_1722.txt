@@ -1,6 +1,0 @@
-
-Actitud	O
-de	O
-escucha	O
-evidente	O
-.	O

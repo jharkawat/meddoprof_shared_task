@@ -1,5 +1,0 @@
-
-No	O
-signos	O
-TVP	O
-.	O

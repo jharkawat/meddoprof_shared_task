@@ -1,7 +1,0 @@
-
-Consumía	O
-alcohol	O
-de	O
-forma	O
-ocasional	O
-.	O

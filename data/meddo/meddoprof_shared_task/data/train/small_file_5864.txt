@@ -1,6 +1,0 @@
-
-Gas	O
-en	O
-ampolla	O
-rectal	O
-.	O

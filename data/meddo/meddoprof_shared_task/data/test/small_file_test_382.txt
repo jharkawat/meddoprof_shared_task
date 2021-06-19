@@ -1,9 +1,0 @@
-
-No	O
-se	O
-reportan	O
-otros	O
-datos	O
-de	O
-importancia	O
-.	O

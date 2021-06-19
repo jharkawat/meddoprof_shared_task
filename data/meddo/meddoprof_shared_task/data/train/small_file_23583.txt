@@ -1,7 +1,0 @@
-
-Eje	O
-2	O
-:	O
-sin	O
-diagnóstico	O
-.	O

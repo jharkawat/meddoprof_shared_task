@@ -1,8 +1,0 @@
-
-Eupneico	O
-en	O
-reposo	O
-y	O
-al	O
-habla	O
-.	O

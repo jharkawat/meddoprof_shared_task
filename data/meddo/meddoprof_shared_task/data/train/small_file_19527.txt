@@ -1,9 +1,0 @@
-
-Fractura	O
-de	O
-nariz	O
-por	O
-un	O
-golpe	O
-directo	O
-.	O

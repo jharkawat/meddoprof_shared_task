@@ -1,8 +1,0 @@
-
-Datos	O
-sociodemográficos	O
-Varón	O
-de	O
-33	O
-años	O
-.	O

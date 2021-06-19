@@ -1,6 +1,0 @@
-
-Sin	O
-antecedentes	O
-quirúrgicos	O
-previos	O
-.	O

@@ -1,6 +1,0 @@
-
-Cicatriz	O
-en	O
-región	O
-malar	O
-.	O

@@ -1,7 +1,0 @@
-
-Paciente	O
-sin	O
-antecedentes	O
-médicos	O
-conocidos	O
-.	O

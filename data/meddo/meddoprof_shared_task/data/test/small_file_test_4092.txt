@@ -1,9 +1,0 @@
-
-No	O
-se	O
-observan	O
-adenopatías	O
-sospechosas	O
-de	O
-malignidad	O
-.	O

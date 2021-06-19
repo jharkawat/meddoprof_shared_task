@@ -1,7 +1,0 @@
-
-Peso	O
-al	O
-nacimiento	O
-:	O
-3kg	O
-.	O

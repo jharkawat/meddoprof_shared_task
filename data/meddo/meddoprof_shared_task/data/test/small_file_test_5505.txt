@@ -1,7 +1,0 @@
-
-Hidrocefalia	O
-tetraventricular	O
-con	O
-edema	O
-transependimario	O
-.	O

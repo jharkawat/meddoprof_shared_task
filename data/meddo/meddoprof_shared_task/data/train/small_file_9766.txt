@@ -1,9 +1,0 @@
-
-Ecografía	O
-abdominal	O
-:	O
-dentro	O
-de	O
-la	O
-normalidad	O
-.	O

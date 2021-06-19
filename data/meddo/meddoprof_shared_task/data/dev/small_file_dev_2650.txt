@@ -1,8 +1,0 @@
-
-Hígado	O
-con	O
-signos	O
-de	O
-hepatopatía	O
-crónica	O
-.	O

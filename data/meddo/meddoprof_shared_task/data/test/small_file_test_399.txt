@@ -1,6 +1,0 @@
-
-Datos	O
-de	O
-identificación	O
-del	O
-usuario	O

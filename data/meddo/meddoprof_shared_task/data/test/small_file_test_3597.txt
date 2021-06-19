@@ -1,6 +1,0 @@
-
-Angiosarcoma	O
-cardiaco	O
-estadio	O
-IV	O
-.	O

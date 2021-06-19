@@ -1,9 +1,0 @@
-
-Las	O
-lesiones	O
-desaparecen	O
-dejando	O
-una	O
-hiperpigmentación	O
-postinflamatoria	O
-.	O

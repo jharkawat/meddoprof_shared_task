@@ -1,8 +1,0 @@
-
-Se	O
-trata	O
-de	O
-un	O
-individuo	O
-premutado	O
-.	O

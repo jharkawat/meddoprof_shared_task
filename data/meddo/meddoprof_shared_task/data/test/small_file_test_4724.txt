@@ -1,6 +1,0 @@
-
-Murmullo	O
-vesicular	O
-conservado	O
-bilateral	O
-.	O

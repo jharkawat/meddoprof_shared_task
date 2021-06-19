@@ -1,7 +1,0 @@
-
-Abandonó	O
-el	O
-tratamiento	O
-por	O
-mejoría	O
-.	O

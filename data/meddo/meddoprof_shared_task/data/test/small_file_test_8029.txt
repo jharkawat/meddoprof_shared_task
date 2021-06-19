@@ -1,9 +1,0 @@
-
-Moderada	O
-cantidad	O
-de	O
-líquido	O
-libre	O
-en	O
-pelvis	O
-.	O

@@ -1,7 +1,0 @@
-
-Las	O
-serologías	O
-no	O
-fueron	O
-relevantes	O
-.	O

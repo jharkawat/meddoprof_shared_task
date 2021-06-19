@@ -1,8 +1,0 @@
-
-Hígado	O
-palpable	O
-,	O
-Bazo	O
-no	O
-palpable	O
-.	O

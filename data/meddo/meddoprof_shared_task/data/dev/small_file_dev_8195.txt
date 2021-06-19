@@ -1,7 +1,0 @@
-
-Enzima	O
-convertidora	O
-de	O
-angiotensina	O
-aumentada	O
-.	O

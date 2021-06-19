@@ -1,9 +1,0 @@
-
-Su	O
-estado	O
-general	O
-de	O
-salud	O
-era	O
-bueno	O
-.	O

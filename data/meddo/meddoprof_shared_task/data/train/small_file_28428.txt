@@ -1,7 +1,0 @@
-
-Niega	O
-intencionalidad	O
-autolítica	O
-o	O
-heterolítica	O
-.	O

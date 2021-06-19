@@ -1,7 +1,0 @@
-
-Sin	O
-antecedentes	O
-medicamentosos	O
-ni	O
-tóxicos	O
-.	O

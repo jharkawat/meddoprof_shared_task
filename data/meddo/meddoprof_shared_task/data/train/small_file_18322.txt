@@ -1,8 +1,0 @@
-
-Convive	O
-con	O
-sus	O
-padres	O
-en	O
-Masquefa	O
-.	O

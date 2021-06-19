@@ -1,8 +1,0 @@
-
-Antecedentes	O
-personales	O
-y	O
-familiares	O
-no	O
-relevantes	O
-.	O

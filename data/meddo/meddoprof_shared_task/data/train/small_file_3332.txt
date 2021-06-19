@@ -1,7 +1,0 @@
-
-Esa	O
-misma	O
-mañana	O
-expectoración	O
-hemoptoica	O
-.	O

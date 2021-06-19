@@ -1,8 +1,0 @@
-
-es	O
-la	O
-mayor	O
-de	O
-cuatro	O
-hermanos	O
-.	O

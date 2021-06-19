@@ -1,9 +1,0 @@
-
-Ausencia	O
-de	O
-sintomatología	O
-de	O
-la	O
-esfera	O
-psicótica	O
-.	O

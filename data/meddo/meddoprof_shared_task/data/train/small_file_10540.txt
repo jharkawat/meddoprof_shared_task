@@ -1,8 +1,0 @@
-
-Tiempo	O
-de	O
-protrombina	O
-12	O
-,	O
-4seg	O
-.	O

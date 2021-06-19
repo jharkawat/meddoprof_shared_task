@@ -1,9 +1,0 @@
-
-Antecedentes	O
-personales	O
-de	O
-pancitopenia	O
-y	O
-artritis	O
-reumatoide	O
-.	O

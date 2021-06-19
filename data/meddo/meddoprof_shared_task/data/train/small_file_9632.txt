@@ -1,8 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-Alérgico	O
-a	O
-penicilina	O
-.	O

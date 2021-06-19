@@ -1,7 +1,0 @@
-
-Únicamente	O
-es	O
-posible	O
-tratamiento	O
-sintomático	O
-.	O

@@ -1,6 +1,0 @@
-
-Melanoma	O
-vulvar	O
-localmente	O
-avanzado	O
-.	O

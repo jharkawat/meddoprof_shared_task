@@ -1,7 +1,0 @@
-
-Su	O
-pensamiento	O
-se	O
-hizo	O
-lento	O
-.	O

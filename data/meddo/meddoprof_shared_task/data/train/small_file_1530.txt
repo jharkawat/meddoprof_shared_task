@@ -1,7 +1,0 @@
-
-Médico	B-PROFESION
-:	O
-Teresa	O
-Sada	O
-Ovalle	O
-.	O

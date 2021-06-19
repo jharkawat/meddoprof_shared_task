@@ -1,8 +1,0 @@
-
-Ánimo	O
-subdepresivo	O
-enmarcado	O
-en	O
-lo	O
-anterior	O
-.	O

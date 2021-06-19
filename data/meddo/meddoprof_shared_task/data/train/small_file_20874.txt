@@ -1,5 +1,0 @@
-
-Nunca	O
-ha	O
-ingresado	O
-.	O

@@ -1,6 +1,0 @@
-
-Como	O
-antecedentes	O
-personales	O
-destacaban	O
-:	O

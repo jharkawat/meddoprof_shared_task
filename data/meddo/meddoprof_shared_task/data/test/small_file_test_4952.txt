@@ -1,5 +1,0 @@
-
-Simulación	O
-virtual	O
-3D	O
-.	O

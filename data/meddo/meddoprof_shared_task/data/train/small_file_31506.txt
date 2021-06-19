@@ -1,7 +1,0 @@
-
-Contacto	O
-ocasional	O
-con	O
-el	O
-padre	O
-.	O

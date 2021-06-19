@@ -1,7 +1,0 @@
-
-Dos	O
-abuelos	O
-tuvieron	O
-fiebre	O
-recurrente	O
-.	O

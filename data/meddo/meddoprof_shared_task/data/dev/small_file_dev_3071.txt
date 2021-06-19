@@ -1,6 +1,0 @@
-
-NANDA	O
-:	O
-afrontamiento	O
-ineficaz	O
-.	O

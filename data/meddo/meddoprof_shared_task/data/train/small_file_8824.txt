@@ -1,7 +1,0 @@
-
-No	O
-se	O
-evidencia	O
-fibrosis	O
-reticulínica	O
-.	O

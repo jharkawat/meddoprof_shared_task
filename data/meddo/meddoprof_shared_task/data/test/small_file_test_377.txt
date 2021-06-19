@@ -1,9 +1,0 @@
-
-No	O
-se	O
-hallaron	O
-alteraciones	O
-a	O
-la	O
-exploración	O
-.	O

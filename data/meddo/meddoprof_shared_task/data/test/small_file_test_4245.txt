@@ -1,7 +1,0 @@
-
-Sugieren	O
-un	O
-carácter	O
-isquémico	O
-agudo	O
-.	O

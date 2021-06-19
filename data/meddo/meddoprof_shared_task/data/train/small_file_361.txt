@@ -1,9 +1,0 @@
-
-La	O
-glicemia	O
-era	O
-48	O
-mg	O
-/	O
-dl	O
-.	O

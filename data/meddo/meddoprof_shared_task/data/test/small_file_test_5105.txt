@@ -1,8 +1,0 @@
-
-Nódulo	O
-suprarrenal	O
-derecho	O
-de	O
-16	O
-mm	O
-.	O

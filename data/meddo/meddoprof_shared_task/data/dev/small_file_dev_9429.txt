@@ -1,8 +1,0 @@
-
-Válvula	O
-aórtica	O
-trivalva	O
-con	O
-normal	O
-apertura	O
-.	O

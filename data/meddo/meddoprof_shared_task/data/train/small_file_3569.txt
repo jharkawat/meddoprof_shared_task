@@ -1,9 +1,0 @@
-
-Mujer	O
-de	O
-34	O
-años	O
-con	O
-lumbalgia	O
-aguda	O
-.	O

@@ -1,7 +1,0 @@
-
-Coombs	O
-directo	O
-positivo	O
-para	O
-C3	O
-.	O

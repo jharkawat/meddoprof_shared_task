@@ -1,8 +1,0 @@
-
-Separado	O
-y	O
-padre	O
-de	O
-dos	O
-hijos	O
-.	O

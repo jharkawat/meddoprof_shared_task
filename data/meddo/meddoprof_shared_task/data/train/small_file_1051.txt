@@ -1,9 +1,0 @@
-
-Domicilio	O
-:	O
-Calle	O
-de	O
-Boteros	O
-,	O
-6	O
-.	O

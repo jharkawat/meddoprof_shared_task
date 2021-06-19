@@ -1,9 +1,0 @@
-
-Se	O
-descartó	O
-también	O
-enfermedad	O
-autoinmune	O
-de	O
-Wegener	O
-.	O

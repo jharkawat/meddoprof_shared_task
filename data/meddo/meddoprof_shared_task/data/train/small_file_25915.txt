@@ -1,8 +1,0 @@
-
-Convive	O
-con	O
-la	O
-familia	O
-de	O
-origen	O
-.	O

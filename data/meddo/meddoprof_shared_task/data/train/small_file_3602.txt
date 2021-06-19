@@ -1,8 +1,0 @@
-
-Sistema	O
-venoso	O
-femoral	O
-en	O
-buen	O
-estado	O
-.	O

@@ -1,5 +1,0 @@
-
-Alérgico	O
-a	O
-penicilina	O
-.	O

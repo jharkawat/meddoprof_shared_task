@@ -1,9 +1,0 @@
-
-FRECUENCIA	O
-CARDIACA	O
-:	O
-83	O
-veces	O
-por	O
-minuto	O
-.	O

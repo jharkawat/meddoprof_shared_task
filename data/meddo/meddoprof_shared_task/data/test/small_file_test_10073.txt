@@ -1,8 +1,0 @@
-
-No	O
-tiene	O
-otros	O
-síntomas	O
-por	O
-aparatos	O
-.	O

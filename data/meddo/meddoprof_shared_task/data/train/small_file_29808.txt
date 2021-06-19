@@ -1,9 +1,0 @@
-
-Varios	O
-ingresos	O
-en	O
-Unidad	O
-de	O
-Media	O
-Estancia	O
-.	O

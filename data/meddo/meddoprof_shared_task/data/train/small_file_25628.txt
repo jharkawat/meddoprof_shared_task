@@ -1,8 +1,0 @@
-
-Consumo	O
-de	O
-THC	O
-y	O
-alcohol	O
-esporádico	O
-.	O

@@ -1,7 +1,0 @@
-
-Afectación	O
-de	O
-las	O
-praxias	O
-melocinéticas	O
-.	O

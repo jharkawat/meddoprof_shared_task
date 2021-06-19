@@ -1,6 +1,0 @@
-
-Paciente	O
-natural	O
-de	O
-Madrid	O
-.	O

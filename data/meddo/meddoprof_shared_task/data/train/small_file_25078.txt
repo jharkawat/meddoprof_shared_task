@@ -1,8 +1,0 @@
-
-Electroencefalograma	O
-(	O
-EEG	O
-)	O
-:	O
-normal	O
-.	O

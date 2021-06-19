@@ -1,5 +1,0 @@
-
-Es	O
-hijo	O
-único	O
-.	O

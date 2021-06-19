@@ -1,5 +1,0 @@
-
-Eje	O
-normalmente	O
-orientado	O
-.	O

@@ -1,9 +1,0 @@
-
-Estresores	O
-presentes	O
-en	O
-la	O
-vida	O
-del	O
-paciente	O
-:	O

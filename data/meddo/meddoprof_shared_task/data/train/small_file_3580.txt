@@ -1,5 +1,0 @@
-
-Marido	O
-trabaja	B-SITUACION_LABORAL
-fuera	I-SITUACION_LABORAL
-.	O

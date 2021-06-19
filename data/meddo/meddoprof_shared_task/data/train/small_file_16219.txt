@@ -1,9 +1,0 @@
-
-IgG	O
-parotiditis	O
-positiva	O
-,	O
-con	O
-IgM	O
-negativa	O
-.	O

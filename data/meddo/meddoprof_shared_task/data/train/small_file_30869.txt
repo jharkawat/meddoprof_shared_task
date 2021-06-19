@@ -1,5 +1,0 @@
-
-Dislipemia	O
-a	O
-tratamiento	O
-.	O

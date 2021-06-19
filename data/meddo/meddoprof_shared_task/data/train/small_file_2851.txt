@@ -1,9 +1,0 @@
-
-Endoscopia	O
-,	O
-colonoscopia	O
-y	O
-cápsula	O
-endoscópica	O
-normales	O
-.	O

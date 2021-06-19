@@ -1,5 +1,0 @@
-
-Fiebre	O
-del	O
-heno	O
-.	O

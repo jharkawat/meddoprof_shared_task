@@ -1,6 +1,0 @@
-
-Calendario	O
-vacunal	O
-correctamente	O
-cumplimentado	O
-.	O

@@ -1,7 +1,0 @@
-
-Abuela	O
-paterna	O
-con	O
-depresiones	O
-recurrentes	O
-.	O

@@ -1,9 +1,0 @@
-
-Campos	O
-pulmonares	O
-con	O
-murmullo	O
-vesicular	O
-globalmente	O
-disminuido	O
-.	O

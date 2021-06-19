@@ -1,9 +1,0 @@
-
-Perímetro	O
-sural	O
-:	O
-42	O
-.	O
-5	O
-cm	O
-.	O

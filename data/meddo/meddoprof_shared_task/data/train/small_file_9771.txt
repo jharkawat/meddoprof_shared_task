@@ -1,6 +1,0 @@
-
-West	O
--	O
-Nile	O
-negativo	O
-.	O

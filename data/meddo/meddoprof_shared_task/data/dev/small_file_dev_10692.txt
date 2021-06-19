@@ -1,6 +1,0 @@
-
-Tiene	B-PROFESION
-una	I-PROFESION
-clínica	I-PROFESION
-dental	I-PROFESION
-.	O

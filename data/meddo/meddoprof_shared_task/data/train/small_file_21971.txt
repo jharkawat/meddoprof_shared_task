@@ -1,7 +1,0 @@
-
-No	O
-se	O
-provoca	O
-el	O
-vómito	O
-.	O

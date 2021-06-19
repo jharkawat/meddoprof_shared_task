@@ -1,7 +1,0 @@
-
-No	O
-telorragia	O
-ni	O
-signos	O
-inflamatorios	O
-.	O

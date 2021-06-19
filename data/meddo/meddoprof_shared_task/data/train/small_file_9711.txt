@@ -1,6 +1,0 @@
-
-Lenguaje	O
-y	O
-atención	O
-normales	O
-.	O

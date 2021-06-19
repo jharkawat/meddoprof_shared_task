@@ -1,9 +1,0 @@
-
-El	O
-paciente	O
-es	O
-valorado	O
-por	O
-Medicina	O
-Interna	O
-.	O

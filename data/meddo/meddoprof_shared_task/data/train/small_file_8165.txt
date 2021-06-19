@@ -1,7 +1,0 @@
-
-*	O
-Al	O
-ingreso	O
-se	O
-realizan	O
-:	O

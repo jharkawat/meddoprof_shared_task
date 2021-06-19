@@ -1,9 +1,0 @@
-
-A	O
-continuación	O
-se	O
-reproduce	O
-parte	O
-del	O
-diálogo	O
-.	O

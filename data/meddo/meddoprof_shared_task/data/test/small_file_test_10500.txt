@@ -1,7 +1,0 @@
-
-Niega	O
-fiebre	O
-y	O
-clínica	O
-infecciosa	O
-.	O

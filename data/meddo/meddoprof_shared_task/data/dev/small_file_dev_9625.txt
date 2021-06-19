@@ -1,7 +1,0 @@
-
-Trastorno	O
-de	O
-la	O
-Personalidad	O
-Disocial	O
-.	O

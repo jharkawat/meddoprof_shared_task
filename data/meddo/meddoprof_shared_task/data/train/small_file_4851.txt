@@ -1,8 +1,0 @@
-
-Exploración	O
-en	O
-consulta	O
-de	O
-Medicina	O
-Interna	O
-:	O

@@ -1,6 +1,0 @@
-
-Trastorno	O
-ciclotímico	O
-F34	O
-.	O
-0	O

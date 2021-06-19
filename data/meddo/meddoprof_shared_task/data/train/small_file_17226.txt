@@ -1,8 +1,0 @@
-
-El	O
-oftalmólogo	B-PROFESION
-no	O
-objetivó	O
-patología	O
-ocular	O
-.	O

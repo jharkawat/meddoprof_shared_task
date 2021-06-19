@@ -4,7 +4,7 @@ import random
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--dataset', default='proto', help="Directory containing the dataset")
+parser.add_argument('--dataset', default='meddo', help="Directory containing the dataset inside datafolder")
 
 
 def load_dataset(path_dataset):

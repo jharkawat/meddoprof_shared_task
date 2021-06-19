@@ -1,7 +1,0 @@
-
-—	O
-Cardiomegalia	O
-con	O
-tumoración	O
-cardiaca	O
-.	O

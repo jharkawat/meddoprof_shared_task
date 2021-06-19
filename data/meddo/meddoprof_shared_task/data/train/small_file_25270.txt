@@ -1,4 +1,0 @@
-
-de	O
-alcohol	O
-.	O

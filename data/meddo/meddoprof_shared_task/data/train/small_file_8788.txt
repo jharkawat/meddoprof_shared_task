@@ -1,6 +1,0 @@
-
-VIH1	O
-/	O
-2	O
-negativo	O
-.	O

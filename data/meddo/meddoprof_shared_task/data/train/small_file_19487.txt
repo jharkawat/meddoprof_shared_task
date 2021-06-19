@@ -1,5 +1,0 @@
-
-Ocupación	O
-:	O
-Bombero	B-PROFESION
-.	O

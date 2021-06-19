@@ -1,8 +1,0 @@
-
-Insuficiencia	O
-venosa	O
-crónica	O
-en	O
-miembros	O
-inferiores	O
-.	O

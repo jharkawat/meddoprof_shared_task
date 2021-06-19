@@ -1,5 +1,0 @@
-
-Memoria	O
-diferida	O
-conservada	O
-.	O

@@ -1,8 +1,0 @@
-
-Urea	O
-:	O
-36	O
-mg	O
-/	O
-dl	O
-.	O

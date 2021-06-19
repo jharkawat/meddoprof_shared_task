@@ -1,7 +1,0 @@
-
-En	O
-4000Hz	O
-,	O
-precisa	O
-25dB	O
-.	O

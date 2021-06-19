@@ -1,7 +1,0 @@
-
-Los	O
-padres	O
-tienen	O
-estudios	O
-superiores	O
-.	O

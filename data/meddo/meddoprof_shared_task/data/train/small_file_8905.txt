@@ -1,9 +1,0 @@
-
-AC	O
-:	O
-Tonos	O
-cardiacos	O
-rítmicos	O
-sin	O
-soplos	O
-.	O

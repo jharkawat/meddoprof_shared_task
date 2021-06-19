@@ -1,7 +1,0 @@
-
-Asimismo	O
-negó	O
-consumo	O
-de	O
-tóxicos	O
-.	O

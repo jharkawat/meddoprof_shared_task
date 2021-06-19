@@ -1,6 +1,0 @@
-
-Tuberculosis	O
-pulmonar	O
-en	O
-2007	O
-.	O

@@ -1,5 +1,0 @@
-
-Anticoagulado	O
-con	O
-acenocumarol	O
-.	O

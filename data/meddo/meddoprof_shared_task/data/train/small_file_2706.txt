@@ -1,5 +1,0 @@
-
-Mielopatía	O
-cervical	O
-intervenida	O
-.	O

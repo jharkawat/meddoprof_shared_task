@@ -1,6 +1,0 @@
-
-Esplenomegalia	O
-de	O
-147	O
-mm	O
-.	O

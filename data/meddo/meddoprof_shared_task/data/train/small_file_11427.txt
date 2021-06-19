@@ -1,9 +1,0 @@
-
-No	O
-ha	O
-realizado	O
-viajes	O
-al	O
-extranjero	O
-recientemente	O
-.	O

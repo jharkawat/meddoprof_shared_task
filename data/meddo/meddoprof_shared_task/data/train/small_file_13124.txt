@@ -1,7 +1,0 @@
-
-Se	O
-realiza	O
-también	O
-ecocardiograma	O
-transesofágico	O
-.	O

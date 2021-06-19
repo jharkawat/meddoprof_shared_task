@@ -1,6 +1,0 @@
-
-Puñopercusion	O
-renal	O
-izquierda	O
-negativa	O
-.	O

@@ -1,6 +1,0 @@
-
-Tensión	O
-arterial150	O
-/	O
-105	O
-.	O

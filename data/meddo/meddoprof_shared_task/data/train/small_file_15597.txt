@@ -1,9 +1,0 @@
-
-Disección	O
-de	O
-arteria	O
-carótida	O
-interna	O
-izquierda	O
-postraumática	O
-.	O

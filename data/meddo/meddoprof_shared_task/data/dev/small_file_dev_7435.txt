@@ -1,8 +1,0 @@
-
-Serología	O
-positiva	O
-IgM	O
-para	O
-Rickettsia	O
-prowazekii	O
-.	O

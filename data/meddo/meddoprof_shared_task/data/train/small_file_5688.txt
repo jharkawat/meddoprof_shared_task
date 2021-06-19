@@ -1,6 +1,0 @@
-
-Sus	O
-padres	O
-son	O
-odontólogos	B-PROFESION
-.	O

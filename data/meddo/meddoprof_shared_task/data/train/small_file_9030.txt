@@ -1,4 +1,0 @@
-
-Motivo	O
-del	O
-ingreso	O

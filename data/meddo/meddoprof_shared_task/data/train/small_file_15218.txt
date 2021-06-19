@@ -1,9 +1,0 @@
-
-Autograft	O
-:	O
-no	O
-debe	O
-usarse	O
-porque	O
-suele	O
-reabsorberse	O

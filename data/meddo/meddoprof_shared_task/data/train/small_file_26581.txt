@@ -1,7 +1,0 @@
-
-Recibió	O
-tratamiento	O
-logopédico	O
-por	O
-dislalias	O
-.	O

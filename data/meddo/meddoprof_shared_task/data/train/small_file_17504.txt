@@ -1,6 +1,0 @@
-
-Desorientada	O
-parcialmente	O
-en	O
-espacio	O
-.	O

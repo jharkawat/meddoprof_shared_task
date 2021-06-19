@@ -1,8 +1,0 @@
-
-En	O
-parénquima	O
-pulmonar	O
-dos	O
-nódulos	O
-subpleurales	O
-.	O

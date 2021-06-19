@@ -1,6 +1,0 @@
-
-Movilidad	O
-adecuada	O
-sin	O
-anomalías	O
-.	O

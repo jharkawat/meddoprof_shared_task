@@ -1,9 +1,0 @@
-
-No	O
-hay	O
-afectación	O
-adenopática	O
-en	O
-el	O
-estudio	O
-.	O

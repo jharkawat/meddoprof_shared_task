@@ -1,4 +1,0 @@
-
-Pulmón	O
-derecho	O
-:	O

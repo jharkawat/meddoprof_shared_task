@@ -1,9 +1,0 @@
-
-El	O
-abuelo	O
-paterno	O
-boxeaba	B-ACTIVIDAD
-de	O
-forma	O
-regular	O
-.	O

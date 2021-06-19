@@ -1,9 +1,0 @@
-
-Nódulo	O
-pulmonar	O
-periférico	O
-en	O
-el	O
-mismo	O
-lóbulo	O
-.	O

@@ -1,4 +1,0 @@
-
-RPR	O
-negativo	O
-.	O

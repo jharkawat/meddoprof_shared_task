@@ -1,8 +1,0 @@
-
-Niega	O
-disnea	O
-,	O
-náuseas	O
-o	O
-vómitos	O
-.	O

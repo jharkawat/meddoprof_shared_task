@@ -1,6 +1,0 @@
-
-Proteinuria	O
-de	O
-1	O
-gramo	O
-.	O

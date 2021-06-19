@@ -1,9 +1,0 @@
-
-Hb	O
-13	O
-.	O
-9	O
-,	O
-plaquetas	O
-144000	O
-.	O

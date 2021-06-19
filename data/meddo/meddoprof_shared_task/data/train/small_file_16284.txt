@@ -1,9 +1,0 @@
-
-Hipopalestesia	O
-distal	O
-en	O
-la	O
-extremidad	O
-inferior	O
-derecha	O
-.	O

@@ -1,6 +1,0 @@
-
-ECOGRAFÍA	O
-ABDOMINO	O
-PELVICA	O
-:	O
-Normal	O

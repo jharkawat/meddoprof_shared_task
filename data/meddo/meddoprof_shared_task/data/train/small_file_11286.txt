@@ -1,5 +1,0 @@
-
-Patrón	O
-intersticial	O
-difuso	O
-.	O

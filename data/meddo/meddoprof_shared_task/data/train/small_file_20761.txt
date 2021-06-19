@@ -1,5 +1,0 @@
-
-Niega	O
-otras	O
-sustancias	O
-.	O

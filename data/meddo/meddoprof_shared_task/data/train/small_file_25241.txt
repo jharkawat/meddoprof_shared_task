@@ -1,8 +1,0 @@
-
-Trastorno	O
-depresivo	O
-no	O
-especificado	O
-F32	O
-.	O
-9	O

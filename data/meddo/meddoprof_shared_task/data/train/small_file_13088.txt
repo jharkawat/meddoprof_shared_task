@@ -1,7 +1,0 @@
-
-Hernia	O
-discal	O
-C6	O
--	O
-C7	O
-.	O

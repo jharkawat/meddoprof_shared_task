@@ -1,8 +1,0 @@
-
-Es	O
-capaz	O
-de	O
-mantener	O
-la	O
-atención	O
-.	O

@@ -1,8 +1,0 @@
-
-Lateralidad	O
-Mano	O
-:	O
-D	O
-Ojo	O
-:	O
-D	O

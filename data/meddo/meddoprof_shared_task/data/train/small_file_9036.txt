@@ -1,6 +1,0 @@
-
-Jubilado	B-SITUACION_LABORAL
-de	B-PROFESION
-la	I-PROFESION
-construcción	I-PROFESION
-.	O

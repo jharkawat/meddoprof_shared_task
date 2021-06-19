@@ -1,9 +1,0 @@
-
-Leve	O
-ictericia	O
-cutáneo	O
--	O
-mucosa	O
-y	O
-conjuntival	O
-.	O

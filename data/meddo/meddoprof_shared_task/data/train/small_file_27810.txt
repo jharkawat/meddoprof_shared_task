@@ -1,6 +1,0 @@
-
-Abordable	O
-,	O
-parcialmente	O
-colaborador	O
-.	O

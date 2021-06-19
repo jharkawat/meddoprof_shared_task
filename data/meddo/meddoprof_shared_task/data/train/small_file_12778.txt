@@ -1,7 +1,0 @@
-
-Peso	O
-al	O
-nacimiento	O
-2940	O
-gramos	O
-.	O

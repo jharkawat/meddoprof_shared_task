@@ -1,9 +1,0 @@
-
-Rol	O
--	O
-relaciones	O
-:	O
-actualmente	O
-no	B-SITUACION_LABORAL
-trabaja	I-SITUACION_LABORAL
-.	O

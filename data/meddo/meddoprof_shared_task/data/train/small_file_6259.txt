@@ -1,8 +1,0 @@
-
-Cavernoma	O
-frontal	O
-izquierdo	O
-como	O
-hallazgo	O
-incidental	O
-.	O

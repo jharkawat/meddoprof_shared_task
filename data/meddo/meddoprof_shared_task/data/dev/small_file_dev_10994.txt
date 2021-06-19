@@ -1,5 +1,0 @@
-
-Tiroides	O
-no	O
-palpable	O
-.	O

@@ -1,9 +1,0 @@
-
-Seguimiento	O
-MI	O
-un	O
-poco	O
-irregular	O
-por	O
-ausencias	O
-.	O

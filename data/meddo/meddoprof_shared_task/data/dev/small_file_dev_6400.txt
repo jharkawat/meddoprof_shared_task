@@ -1,6 +1,0 @@
-
-Bien	O
-perfundido	O
-y	O
-normocoloreado	O
-.	O

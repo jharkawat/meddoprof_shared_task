@@ -1,8 +1,0 @@
-
-Subtipo	O
-PR	O
-:	O
-CRF02	O
-_	O
-AG	O
-.	O

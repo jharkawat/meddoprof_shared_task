@@ -1,9 +1,0 @@
-
-No	O
-ha	O
-presentado	O
-traumatismo	O
-local	O
-ni	O
-picaduras	O
-.	O

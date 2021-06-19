@@ -1,8 +1,0 @@
-
-Escoliosis	O
-con	O
-elevación	O
-de	O
-región	O
-derecha	O
-.	O

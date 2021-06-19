@@ -1,6 +1,0 @@
-
-Perforación	O
-probable	O
-de	O
-sigma	O
-.	O

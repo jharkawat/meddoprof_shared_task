@@ -1,9 +1,0 @@
-
-Varón	O
-de	O
-43	O
-años	O
-de	O
-raza	O
-caucásica	O
-.	O

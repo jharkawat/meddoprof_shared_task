@@ -1,5 +1,0 @@
-
-Alergia	O
-al	O
-marisco	O
-.	O

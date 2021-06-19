@@ -1,6 +1,0 @@
-
-Sequedad	O
-de	O
-mucosa	O
-oral	O
-.	O

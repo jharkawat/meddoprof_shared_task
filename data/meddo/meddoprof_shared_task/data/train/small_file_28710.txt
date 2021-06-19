@@ -1,9 +1,0 @@
-
-Diagnosticada	O
-en	O
-la	O
-actualidad	O
-de	O
-esquizofrenia	O
-paranoide	O
-.	O

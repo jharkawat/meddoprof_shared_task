@@ -1,7 +1,0 @@
-
-Hernia	O
-discal	O
-L4	O
--	O
-L5	O
-.	O

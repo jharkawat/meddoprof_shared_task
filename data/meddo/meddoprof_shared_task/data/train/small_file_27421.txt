@@ -1,5 +1,0 @@
-
-QRS	O
-100	O
-mseg	O
-.	O

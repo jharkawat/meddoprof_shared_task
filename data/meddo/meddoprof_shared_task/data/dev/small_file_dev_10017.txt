@@ -1,6 +1,0 @@
-
-Su	O
-padre	O
-era	O
-almacenero	B-PROFESION
-.	O

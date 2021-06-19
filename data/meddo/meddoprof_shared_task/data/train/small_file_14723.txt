@@ -1,7 +1,0 @@
-
-Plaquetas	O
-y	O
-serie	O
-blanca	O
-normal	O
-.	O

@@ -1,7 +1,0 @@
-
-Localidad	O
-/	O
-Provincia	O
-:	O
-Rosario	O
-.	O

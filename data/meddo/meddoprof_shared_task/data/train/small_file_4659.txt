@@ -1,5 +1,0 @@
-
-Parálisis	O
-facial	O
-izq	O
-.	O

@@ -1,7 +1,0 @@
-
-Paciente	O
-varón	O
-de	O
-18	O
-años	O
-.	O

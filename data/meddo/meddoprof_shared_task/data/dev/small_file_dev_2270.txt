@@ -1,8 +1,0 @@
-
-Trabaja	O
-de	O
-chofer	B-PROFESION
-de	I-PROFESION
-transporte	I-PROFESION
-internacional	I-PROFESION
-.	O

@@ -1,9 +1,0 @@
-
-Catecolaminas	O
-normales	O
-en	O
-orina	O
-de	O
-24	O
-horas	O
-.	O

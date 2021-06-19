@@ -1,5 +1,0 @@
-
-INFORME	O
-RADIOGRAFÍA	O
-TÓRAX	O
-:	O

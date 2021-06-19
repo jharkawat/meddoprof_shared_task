@@ -1,8 +1,0 @@
-
-ECG	O
-01	O
-/	O
-19	O
-:	O
-Normal	O
-.	O

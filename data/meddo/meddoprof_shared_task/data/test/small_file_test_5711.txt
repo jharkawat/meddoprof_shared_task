@@ -1,7 +1,0 @@
-
-Ecocardiograma	O
-descartó	O
-valvulopatía	O
-derecha	O
-carcinoide	O
-.	O

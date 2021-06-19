@@ -1,6 +1,0 @@
-
-Escolarizado	O
-con	O
-buen	O
-rendimiento	O
-.	O

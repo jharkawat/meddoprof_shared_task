@@ -1,6 +1,0 @@
-
-Trabajadora	B-PROFESION
-de	I-PROFESION
-servicio	I-PROFESION
-doméstico	I-PROFESION
-.	O

@@ -1,4 +1,0 @@
-
-ROMBERG	O
-negativo	O
-.	O

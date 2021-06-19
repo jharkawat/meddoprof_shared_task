@@ -1,9 +1,0 @@
-
-Hemograma	O
-y	O
-bioquímica	O
-sanguínea	O
-:	O
-sin	O
-alteraciones	O
-.	O

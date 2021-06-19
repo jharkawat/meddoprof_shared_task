@@ -1,9 +1,0 @@
-
-Vacaciones	O
-sur	O
-california	O
-3	O
-semanas	O
-e	O
-Israel	O
-.	O

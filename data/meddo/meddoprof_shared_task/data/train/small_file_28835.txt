@@ -1,7 +1,0 @@
-
-Se	O
-empezó	O
-a	O
-reducir	O
-lorazepam	O
-.	O

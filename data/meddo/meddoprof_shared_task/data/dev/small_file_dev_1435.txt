@@ -1,9 +1,0 @@
-
-Siempre	O
-tiene	O
-frío	O
-y	O
-las	O
-manos	O
-heladas	O
-.	O

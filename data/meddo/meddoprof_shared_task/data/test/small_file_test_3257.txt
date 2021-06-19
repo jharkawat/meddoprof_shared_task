@@ -1,9 +1,0 @@
-
-Marcadores	O
-tumorales	O
-:	O
-SCC	O
-43	O
-,	O
-4	O
-.	O

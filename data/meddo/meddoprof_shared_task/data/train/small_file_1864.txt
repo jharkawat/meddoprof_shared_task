@@ -1,9 +1,0 @@
-
-Edad	O
-:	O
-18	O
-años	O
-Sexo	O
-:	O
-M	O
-.	O

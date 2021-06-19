@@ -1,8 +1,0 @@
-
-Reconoce	O
-consumo	O
-esporádico	O
-excesivo	O
-de	O
-alcohol	O
-.	O

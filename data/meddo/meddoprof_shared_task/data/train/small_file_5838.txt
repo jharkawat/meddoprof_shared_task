@@ -1,8 +1,0 @@
-
-Niega	O
-consumo	O
-de	O
-tóxicos	O
-y	O
-medicamentos	O
-.	O

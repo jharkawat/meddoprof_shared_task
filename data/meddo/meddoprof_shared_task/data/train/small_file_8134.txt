@@ -1,7 +1,0 @@
-
-Trabaja	O
-como	O
-empleada	B-PROFESION
-del	I-PROFESION
-hogar	I-PROFESION
-.	O

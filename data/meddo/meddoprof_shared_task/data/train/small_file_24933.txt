@@ -1,8 +1,0 @@
-
-Está	O
-casada	O
-y	O
-tiene	O
-una	O
-hija	O
-.	O

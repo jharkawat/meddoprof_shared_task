@@ -1,9 +1,0 @@
-
-Toxoplasma	O
-,	O
-CMV	O
-,	O
-Sarampión	O
-,	O
-Parotiditis	O
-.	O

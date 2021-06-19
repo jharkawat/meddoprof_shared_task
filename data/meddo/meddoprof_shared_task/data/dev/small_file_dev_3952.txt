@@ -1,6 +1,0 @@
-
-Los	O
-padres	O
-se	O
-separaron	O
-.	O

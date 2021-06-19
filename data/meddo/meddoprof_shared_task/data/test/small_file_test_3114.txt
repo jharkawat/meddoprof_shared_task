@@ -1,7 +1,0 @@
-
-T3	O
-y	O
-T4	O
-libre	O
-normales	O
-.	O

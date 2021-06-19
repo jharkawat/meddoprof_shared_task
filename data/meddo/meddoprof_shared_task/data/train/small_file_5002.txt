@@ -1,7 +1,0 @@
-
-Actualmente	O
-no	O
-prurito	O
-ni	O
-fiebre	O
-.	O

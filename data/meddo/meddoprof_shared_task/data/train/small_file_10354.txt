@@ -1,6 +1,0 @@
-
-No	O
-seguía	O
-tratamiento	O
-alguno	O
-.	O

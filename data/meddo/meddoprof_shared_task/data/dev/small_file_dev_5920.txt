@@ -1,8 +1,0 @@
-
-Se	O
-toman	O
-siete	O
-biopsias	O
-por	O
-lóbulo	O
-.	O

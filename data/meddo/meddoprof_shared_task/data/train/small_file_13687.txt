@@ -1,7 +1,0 @@
-
-Asma	O
-no	O
-estacional	O
-sin	O
-estudio	O
-.	O

@@ -1,9 +1,0 @@
-
-Ki	O
--	O
-67	O
-alto	O
->	O
-60	O
-%	O
-.	O

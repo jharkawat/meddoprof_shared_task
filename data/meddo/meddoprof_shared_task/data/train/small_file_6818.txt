@@ -1,8 +1,0 @@
-
-No	O
-presenta	O
-fiebre	O
-ni	O
-otra	O
-sintomatología	O
-.	O

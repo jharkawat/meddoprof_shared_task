@@ -1,8 +1,0 @@
-
-A	O
-su	O
-hijo	O
-también	O
-se	O
-refiere	O
-.	O

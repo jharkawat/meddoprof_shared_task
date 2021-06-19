@@ -1,5 +1,0 @@
-
-EPOC	O
-tipo	O
-enfisematoso	O
-.	O

@@ -1,9 +1,0 @@
-
-No	O
-hábito	O
-enólico	O
-ni	O
-otros	O
-consumos	O
-tóxicos	O
-.	O

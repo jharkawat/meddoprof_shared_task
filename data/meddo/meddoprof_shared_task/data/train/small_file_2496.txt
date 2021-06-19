@@ -1,6 +1,0 @@
-
-Sedimento	O
-urinario	O
-con	O
-bacteriuria	O
-.	O

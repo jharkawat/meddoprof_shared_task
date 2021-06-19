@@ -1,6 +1,0 @@
-
-Mesotelioma	O
-maligno	O
-inguinal	O
-monofásico	O
-.	O

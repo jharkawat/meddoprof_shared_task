@@ -1,6 +1,0 @@
-
-Cáncer	O
-de	O
-pulmón	O
-padre	O
-.	O

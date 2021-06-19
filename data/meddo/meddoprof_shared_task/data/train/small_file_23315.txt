@@ -1,6 +1,0 @@
-
-Cuadro	O
-que	O
-motiva	O
-el	O
-ingreso	O

@@ -1,8 +1,0 @@
-
-Los	O
-antecedentes	O
-clínicos	O
-no	O
-fueron	O
-relevantes	O
-.	O

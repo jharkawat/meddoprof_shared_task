@@ -1,7 +1,0 @@
-
-En	O
-resumen	O
-se	O
-trata	O
-de	O
-:	O

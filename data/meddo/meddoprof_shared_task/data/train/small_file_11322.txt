@@ -1,6 +1,0 @@
-
-VSG	O
-73mm	O
-/	O
-h	O
-.	O

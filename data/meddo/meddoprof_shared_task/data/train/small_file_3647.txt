@@ -1,5 +1,0 @@
-
-APGAR	O
-familiar	O
-:	O
-8	O

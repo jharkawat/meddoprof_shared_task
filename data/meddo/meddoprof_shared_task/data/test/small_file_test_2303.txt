@@ -1,8 +1,0 @@
-
-No	O
-tiene	O
-efecto	O
-de	O
-masa	O
-significativo	O
-.	O

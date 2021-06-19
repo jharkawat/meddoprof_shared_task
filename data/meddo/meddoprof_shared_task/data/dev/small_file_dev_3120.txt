@@ -1,9 +1,0 @@
-
-No	O
-presenta	O
-ronquidos	O
-ni	O
-apneas	O
-del	O
-sueño	O
-.	O

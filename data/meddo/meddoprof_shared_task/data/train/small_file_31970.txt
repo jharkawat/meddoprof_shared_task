@@ -1,6 +1,0 @@
-
-Relacionado	O
-con	O
-:	O
-Ansiedad	O
-grave	O

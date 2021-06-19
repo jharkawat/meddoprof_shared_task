@@ -1,8 +1,0 @@
-
-GOT	O
-,	O
-GTP	O
-y	O
-GGT	O
-normales	O
-.	O

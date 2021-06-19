@@ -1,5 +1,0 @@
-
-Come	O
-en	O
-casa	O
-.	O

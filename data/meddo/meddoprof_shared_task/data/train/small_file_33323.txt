@@ -1,5 +1,0 @@
-
-1601	O
-Conducta	O
-de	O
-cumplimiento	O

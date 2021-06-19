@@ -1,6 +1,0 @@
-
-Enfermedades	O
-Familiares	O
-:	O
-Ninguna	O
-referida	O

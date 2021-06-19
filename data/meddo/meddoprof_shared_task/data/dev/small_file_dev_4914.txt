@@ -1,6 +1,0 @@
-
-Disestesia	O
-en	O
-hemicuerpo	O
-derecho	O
-.	O

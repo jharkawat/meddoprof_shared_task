@@ -1,9 +1,0 @@
-
-Los	O
-padres	O
-adoptivos	O
-son	O
-de	O
-nacionalidad	O
-francesa	O
-.	O

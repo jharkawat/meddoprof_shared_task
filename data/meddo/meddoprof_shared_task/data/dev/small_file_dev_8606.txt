@@ -1,4 +1,0 @@
-
-Jornalero	B-PROFESION
-agrícola	I-PROFESION
-.	O

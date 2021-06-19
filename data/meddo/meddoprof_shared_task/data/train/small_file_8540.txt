@@ -1,9 +1,0 @@
-
-Niega	O
-consumo	O
-de	O
-suplementos	O
-cálcicos	O
-o	O
-vitaminas	O
-.	O

@@ -1,7 +1,0 @@
-
-Anormales	O
-y	O
-Sedimento	O
-sin	O
-alteración	O
-.	O

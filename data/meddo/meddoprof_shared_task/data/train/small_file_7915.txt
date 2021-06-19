@@ -1,8 +1,0 @@
-
-Glicemia	O
-:	O
-3	O
-mmol	O
-/	O
-l	O
-.	O

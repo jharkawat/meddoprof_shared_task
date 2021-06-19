@@ -1,7 +1,0 @@
-
-Hospital	O
-Clínico	O
-Universitario	O
-San	O
-Cecilio	O
-.	O

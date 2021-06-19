@@ -1,6 +1,0 @@
-
-No	O
-diarrea	O
-ni	O
-fiebre	O
-.	O

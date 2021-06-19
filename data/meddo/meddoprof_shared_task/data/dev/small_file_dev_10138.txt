@@ -1,9 +1,0 @@
-
-Antecedentes	O
-:	O
-El	O
-paciente	O
-era	O
-hijo	O
-único	O
-.	O

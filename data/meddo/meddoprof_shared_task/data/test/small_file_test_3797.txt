@@ -1,9 +1,0 @@
-
-Probable	O
-infiltración	O
-de	O
-arteria	O
-ilíaca	O
-externa	O
-izquierda	O
-.	O

@@ -1,5 +1,0 @@
-
-Sin	O
-alergias	O
-conocidas	O
-.	O

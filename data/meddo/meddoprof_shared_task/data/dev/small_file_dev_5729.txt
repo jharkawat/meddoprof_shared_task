@@ -1,7 +1,0 @@
-
-Cápsula	O
-renal	O
-libre	O
-de	O
-infiltración	O
-.	O

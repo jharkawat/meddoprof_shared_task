@@ -1,6 +1,0 @@
-
-No	O
-tiene	O
-deprivación	O
-matutina	O
-.	O

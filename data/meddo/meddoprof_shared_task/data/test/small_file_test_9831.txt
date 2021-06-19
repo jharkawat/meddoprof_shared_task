@@ -1,8 +1,0 @@
-
-Angioma	O
-en	O
-dedo	O
-y	O
-fractura	O
-tibial	O
-.	O

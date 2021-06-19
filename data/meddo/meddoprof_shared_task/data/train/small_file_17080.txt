@@ -1,7 +1,0 @@
-
-Reflejo	O
-de	O
-amenaza	O
-presente	O
-bilateral	O
-.	O

@@ -1,6 +1,0 @@
-
-Estómago	O
-y	O
-píloro	O
-normales	O
-.	O

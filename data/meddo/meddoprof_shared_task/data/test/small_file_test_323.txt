@@ -1,7 +1,0 @@
-
-de	O
-largo	O
-sin	O
-complicaciones	O
-detectables	O
-.	O

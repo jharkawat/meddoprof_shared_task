@@ -1,9 +1,0 @@
-
-Apgar	O
-desconocido	O
-,	O
-pero	O
-no	O
-precisó	O
-reanimación	O
-.	O

@@ -1,7 +1,0 @@
-
-TAC	O
-craneal	O
-:	O
-sin	O
-alteraciones	O
-.	O

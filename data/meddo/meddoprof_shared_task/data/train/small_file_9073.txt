@@ -1,7 +1,0 @@
-
-ANCAs	O
-negativo	O
-,	O
-ANTI	O
-CARDIOLIPINA	O
-IgG	O

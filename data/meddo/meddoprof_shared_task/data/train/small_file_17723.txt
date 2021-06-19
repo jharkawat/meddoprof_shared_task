@@ -1,7 +1,0 @@
-
-No	O
-ha	O
-tomado	O
-tratamiento	O
-analgésico	O
-.	O

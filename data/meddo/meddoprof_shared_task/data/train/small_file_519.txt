@@ -1,7 +1,0 @@
-
-Con	O
-posterioridad	O
-se	O
-identificará	O
-Estaphylococo	O
-.	O

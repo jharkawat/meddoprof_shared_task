@@ -1,6 +1,0 @@
-
-No	O
-imágenes	O
-de	O
-sangrado	O
-.	O

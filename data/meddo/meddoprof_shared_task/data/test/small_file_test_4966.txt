@@ -1,6 +1,0 @@
-
-No	O
-toma	O
-medicación	O
-habitual	O
-.	O

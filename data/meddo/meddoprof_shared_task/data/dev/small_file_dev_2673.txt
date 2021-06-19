@@ -1,7 +1,0 @@
-
-Convicción	O
-religiosa	O
-,	O
-cristianismo	O
-católico	O
-.	O

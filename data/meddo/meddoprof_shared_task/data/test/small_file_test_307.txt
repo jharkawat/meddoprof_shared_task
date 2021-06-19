@@ -1,6 +1,0 @@
-
-Frecuencia	O
-respiratoria	O
-:	O
-30	O
-RPM	O

@@ -1,6 +1,0 @@
-
-Espirometría	O
-:	O
-Patrón	O
-restrictivo	O
-.	O

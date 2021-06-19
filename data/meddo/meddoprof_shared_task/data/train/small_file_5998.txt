@@ -1,8 +1,0 @@
-
-Aneurisma	O
-aorta	O
-ascendente	O
-causante	O
-de	O
-cardioembolias	O
-.	O

@@ -1,9 +1,0 @@
-
-Niega	O
-dificultad	O
-deglutoria	O
-,	O
-fonatoria	O
-y	O
-respiratoria	O
-.	O

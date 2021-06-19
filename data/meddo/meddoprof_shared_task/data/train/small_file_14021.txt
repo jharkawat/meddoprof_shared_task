@@ -1,7 +1,0 @@
-
-Coronariografía	O
-ambulatoria	O
-posterior	O
-sin	O
-lesiones	O
-.	O

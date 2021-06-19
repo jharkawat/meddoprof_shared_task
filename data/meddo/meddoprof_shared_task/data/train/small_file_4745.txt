@@ -1,6 +1,0 @@
-
-Fractura	O
-subcapital	O
-izquierda	O
-crónica	O
-.	O

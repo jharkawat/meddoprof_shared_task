@@ -1,7 +1,0 @@
-
--	O
-padecimiento	O
-subjetivo	O
-es	O
-muy	O
-intenso	O

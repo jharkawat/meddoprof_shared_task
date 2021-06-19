@@ -1,6 +1,0 @@
-
-Hay	O
-buena	O
-relación	O
-familiar	O
-.	O

@@ -1,9 +1,0 @@
-
-Es	O
-como	O
-si	O
-todo	O
-le	O
-diera	O
-igual	O
-.	O

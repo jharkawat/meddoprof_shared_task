@@ -1,9 +1,0 @@
-
-Ausencia	O
-de	O
-disnea	O
-y	O
-mantiene	O
-el	O
-apetito	O
-.	O

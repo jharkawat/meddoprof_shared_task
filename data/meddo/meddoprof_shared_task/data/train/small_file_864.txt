@@ -1,7 +1,0 @@
-
-Domicilio	O
-:	O
-Cundinamarca	O
-,	O
-Cra	O
-.	O

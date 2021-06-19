@@ -1,6 +1,0 @@
-
-Cede	O
-con	O
-el	O
-reposo	O
-.	O

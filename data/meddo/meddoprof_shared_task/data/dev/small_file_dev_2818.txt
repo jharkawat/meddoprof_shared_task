@@ -1,8 +1,0 @@
-
-Ánimo	O
-triste	O
-,	O
-anhedonia	O
-,	O
-apatía	O
-.	O

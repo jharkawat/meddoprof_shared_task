@@ -1,9 +1,0 @@
-
-Aurícula	O
-izquierda	O
-de	O
-taman	O
-̃	O
-o	O
-normal	O
-.	O

@@ -1,8 +1,0 @@
-
-La	O
-citología	O
-confirma	O
-su	O
-origen	O
-maligno	O
-.	O

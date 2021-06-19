@@ -1,7 +1,0 @@
-
-Discurso	O
-muy	O
-pobre	O
-y	O
-reiterativo	O
-.	O

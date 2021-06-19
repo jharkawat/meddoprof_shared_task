@@ -1,5 +1,0 @@
-
-Hueso	O
-sin	O
-lesiones	O
-.	O

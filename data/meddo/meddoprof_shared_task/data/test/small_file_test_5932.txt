@@ -1,6 +1,0 @@
-
-Ausencia	O
-de	O
-derrame	O
-pericárdico	O
-.	O

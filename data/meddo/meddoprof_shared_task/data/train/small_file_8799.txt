@@ -1,5 +1,0 @@
-
-PSAP	O
-27	O
-mmHg	O
-.	O

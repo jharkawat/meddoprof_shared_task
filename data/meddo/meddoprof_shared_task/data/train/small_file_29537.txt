@@ -1,9 +1,0 @@
-
-Fosfatasa	O
-alcalina	O
-hasta	O
-284	O
-(	O
-LSNx2	O
-)	O
-.	O

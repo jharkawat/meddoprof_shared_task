@@ -1,5 +1,0 @@
-
-Arterias	O
-temporales	O
-normales	O
-.	O

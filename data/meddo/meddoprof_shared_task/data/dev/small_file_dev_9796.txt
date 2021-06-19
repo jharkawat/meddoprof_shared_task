@@ -1,7 +1,0 @@
-
-No	O
-trastornos	O
-formales	O
-del	O
-pensamiento	O
-.	O

@@ -1,9 +1,0 @@
-
-Hemocultivos	O
-,	O
-coprocultivo	O
-,	O
-urocultivo	O
-:	O
-negativos	O
-.	O

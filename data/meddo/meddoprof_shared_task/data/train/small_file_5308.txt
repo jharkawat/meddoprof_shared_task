@@ -1,9 +1,0 @@
-
-No	O
-se	O
-aprecian	O
-signos	O
-de	O
-derrame	O
-pleural	O
-.	O

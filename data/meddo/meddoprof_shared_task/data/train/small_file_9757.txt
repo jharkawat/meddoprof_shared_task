@@ -1,9 +1,0 @@
-
-TAC	O
-Craneal	O
-y	O
-RMN	O
-Craneal	O
-:	O
-normales	O
-.	O

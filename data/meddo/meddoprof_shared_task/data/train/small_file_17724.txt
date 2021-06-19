@@ -1,5 +1,0 @@
-
-No	O
-lesión	O
-traumática	O
-.	O

@@ -1,7 +1,0 @@
-
-Colonoscopia	O
-:	O
-colon	O
-bien	O
-preparado	O
-.	O

@@ -1,6 +1,0 @@
-
-Lugar	O
-de	O
-nacimiento	O
-:	O
-Chile	O

@@ -1,9 +1,0 @@
-
-En	O
-ese	O
-momento	O
-presenta	O
-diplopía	O
-y	O
-cefalea	O
-.	O

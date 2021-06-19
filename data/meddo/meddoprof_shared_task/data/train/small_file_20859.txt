@@ -1,8 +1,0 @@
-
-DOMINIO	O
-:	O
-1	O
-Promoción	O
-de	O
-la	O
-Salud	O

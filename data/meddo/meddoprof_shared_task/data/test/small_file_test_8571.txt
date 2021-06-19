@@ -1,8 +1,0 @@
-
-Tratamiento	O
-habitual	O
-:	O
-antihistamínicos	O
-a	O
-demanda	O
-.	O

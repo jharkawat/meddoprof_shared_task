@@ -1,5 +1,0 @@
-
-VHB	O
-no	O
-inmunizado	O
-.	O

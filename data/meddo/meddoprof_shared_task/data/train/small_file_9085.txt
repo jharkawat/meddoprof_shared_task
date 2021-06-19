@@ -1,8 +1,0 @@
-
-VHB	O
-antiHBc	O
-Ac	O
-totales	O
-:	O
-Negativo	O
-.	O

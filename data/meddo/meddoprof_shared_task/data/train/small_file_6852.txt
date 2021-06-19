@@ -1,9 +1,0 @@
-
-El	O
-cultivo	O
-bacteriano	O
-fue	O
-negativo	O
-para	O
-patógenos	O
-.	O

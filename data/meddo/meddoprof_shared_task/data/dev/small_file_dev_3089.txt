@@ -1,7 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-Embarazo	O
-normal	O
-.	O

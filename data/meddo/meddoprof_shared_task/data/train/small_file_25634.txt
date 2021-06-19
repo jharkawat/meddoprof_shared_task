@@ -1,6 +1,0 @@
-
-No	O
-hay	O
-síntomas	O
-generales	O
-.	O

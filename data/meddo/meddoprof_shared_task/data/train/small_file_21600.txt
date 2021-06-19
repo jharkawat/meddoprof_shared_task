@@ -1,6 +1,0 @@
-
-Madre	O
-:	O
-sus	B-SITUACION_LABORAL
-labores	I-SITUACION_LABORAL
-.	O

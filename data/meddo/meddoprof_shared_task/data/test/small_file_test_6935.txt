@@ -1,6 +1,0 @@
-
-Ha	O
-trabajado	O
-como	O
-mecánico	B-PROFESION
-.	O

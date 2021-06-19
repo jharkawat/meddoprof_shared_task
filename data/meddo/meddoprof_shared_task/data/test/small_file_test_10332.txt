@@ -1,6 +1,0 @@
-
-Orientada	O
-sólo	O
-en	O
-persona	O
-.	O

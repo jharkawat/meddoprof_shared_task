@@ -1,6 +1,0 @@
-
-Estado	O
-general	O
-ECOG	O
-0	O
-.	O

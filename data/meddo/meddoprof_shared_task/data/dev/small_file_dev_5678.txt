@@ -1,9 +1,0 @@
-
-Y	O
-muestra	O
-de	O
-exudado	O
-uretral	O
-para	O
-cultivo	O
-.	O

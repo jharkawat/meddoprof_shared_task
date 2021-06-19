@@ -1,7 +1,0 @@
-
-Correspondientes	O
-con	O
-absceso	O
-epidural	O
-retroclival	O
-.	O

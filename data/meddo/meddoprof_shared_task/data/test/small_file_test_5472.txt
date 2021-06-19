@@ -1,8 +1,0 @@
-
-Los	O
-hemocultivos	O
-de	O
-control	O
-fueron	O
-negativos	O
-.	O

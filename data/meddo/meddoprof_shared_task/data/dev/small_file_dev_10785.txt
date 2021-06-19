@@ -1,6 +1,0 @@
-
-Esto	O
-le	O
-molestaba	O
-mucho	O
-.	O

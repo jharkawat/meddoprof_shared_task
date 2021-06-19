@@ -1,8 +1,0 @@
-
-Con	O
-perfusión	O
-de	O
-NA	O
-y	O
-dopamina	O
-.	O

@@ -1,8 +1,0 @@
-
-Domicilio	O
-:	O
-Calle	O
-Viento	O
-,	O
-15	O
-.	O

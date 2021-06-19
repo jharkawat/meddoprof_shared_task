@@ -1,6 +1,0 @@
-
-Alergias	O
-:	O
-no	O
-RAMC	O
-.	O

@@ -1,9 +1,0 @@
-
-Reconstrucción	O
-corona	O
-yacoronales	O
-reconstrucción	O
-coronal	O
-en	O
-MIP	O
-.	O

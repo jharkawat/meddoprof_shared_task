@@ -1,8 +1,0 @@
-
-Biopsias	O
-múltiples	O
-normalizadas	O
-:	O
-sin	O
-tumor	O
-.	O

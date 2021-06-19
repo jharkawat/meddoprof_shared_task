@@ -1,8 +1,0 @@
-
-Delegación	O
-Benito	O
-Juárez	O
-Código	O
-Postal	O
-03020	O
-.	O

@@ -1,9 +1,0 @@
-
-Mastitis	O
-de	O
-repetición	O
-y	O
-dolor	O
-al	O
-amamantar	O
-.	O

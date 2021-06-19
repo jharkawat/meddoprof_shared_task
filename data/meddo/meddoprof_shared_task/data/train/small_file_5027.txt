@@ -1,5 +1,0 @@
-
-Alergias	O
-a	O
-penicilina	O
-.	O

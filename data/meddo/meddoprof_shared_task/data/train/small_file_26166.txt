@@ -1,6 +1,0 @@
-
-EEG	O
-y	O
-RM	O
-normales	O
-.	O

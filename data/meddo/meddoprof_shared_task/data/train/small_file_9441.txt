@@ -1,7 +1,0 @@
-
-No	O
-se	O
-identifican	O
-nódulos	O
-contralaterales	O
-.	O

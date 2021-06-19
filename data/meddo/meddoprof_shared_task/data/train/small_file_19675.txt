@@ -1,7 +1,0 @@
-
-Dx	O
-:	O
-Trastorno	O
-bipolar	O
-tipo	O
-I	O

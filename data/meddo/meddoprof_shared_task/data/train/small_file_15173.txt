@@ -1,9 +1,0 @@
-
-Biopsia	O
-adenopatía	O
-paraesofágica	O
-:	O
-metástasis	O
-de	O
-carcinoma	O
-.	O

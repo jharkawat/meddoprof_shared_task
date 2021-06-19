@@ -1,8 +1,0 @@
-
-Marcadores	O
-tumorales	O
-:	O
-en	O
-límites	O
-normales	O
-.	O

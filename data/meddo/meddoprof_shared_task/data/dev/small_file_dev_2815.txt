@@ -1,8 +1,0 @@
-
-En	O
-un	O
-primer	O
-momento	O
-niega	O
-desencadenantes	O
-.	O

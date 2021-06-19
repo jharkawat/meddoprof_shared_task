@@ -1,8 +1,0 @@
-
-Adenopatías	O
-paratraqueales	O
-derechas	O
-superiores	O
-e	O
-inferiores	O
-.	O

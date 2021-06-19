@@ -1,5 +1,0 @@
-
-y	O
-corticoides	O
-tópicos	O
-.	O

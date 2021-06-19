@@ -1,8 +1,0 @@
-
-No	O
-ha	O
-vuelto	O
-a	O
-repetir	O
-crisis	O
-.	O

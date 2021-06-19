@@ -1,9 +1,0 @@
-
-Hemocultivos	O
-:	O
-Staphylococcus	O
-Aureus	O
-(	O
-meticilin	O
-sensible	O
-)	O

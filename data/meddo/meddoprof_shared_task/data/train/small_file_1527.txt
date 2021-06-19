@@ -1,7 +1,0 @@
-
-País	O
-de	O
-nacimiento	O
-:	O
-México	O
-.	O

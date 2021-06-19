@@ -1,7 +1,0 @@
-
-FC	O
-:	O
-72	O
-Lat	O
-/	O
-min	O

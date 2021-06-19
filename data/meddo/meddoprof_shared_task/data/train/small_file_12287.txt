@@ -1,7 +1,0 @@
-
-Senos	O
-costofrénicos	O
-y	O
-cardiofrénicos	O
-libres	O
-.	O

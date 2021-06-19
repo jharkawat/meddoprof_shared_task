@@ -1,5 +1,0 @@
-
-Paciente	O
-estable	O
-hemodinámicamente	O
-.	O

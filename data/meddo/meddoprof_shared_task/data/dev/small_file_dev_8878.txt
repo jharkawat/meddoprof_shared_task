@@ -1,9 +1,0 @@
-
-No	O
-se	O
-realizó	O
-aspirado	O
-de	O
-médula	O
-ósea	O
-.	O

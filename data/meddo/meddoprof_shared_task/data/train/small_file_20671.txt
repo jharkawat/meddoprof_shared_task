@@ -1,6 +1,0 @@
-
-Los	O
-hemocultivos	O
-fueron	O
-negativos	O
-.	O

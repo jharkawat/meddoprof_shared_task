@@ -1,8 +1,0 @@
-
-Tratado	O
-posteriormente	O
-con	O
-radioterapia	O
-y	O
-bicalutamida	O
-.	O

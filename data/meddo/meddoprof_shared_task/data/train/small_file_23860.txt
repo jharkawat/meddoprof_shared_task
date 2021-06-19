@@ -1,8 +1,0 @@
-
-Acude	O
-diariamente	O
-al	O
-Servicio	O
-de	O
-Rehabilitación	O
-.	O

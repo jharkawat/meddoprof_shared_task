@@ -1,8 +1,0 @@
-
-La	O
-broncoscopia	O
-urgente	O
-no	O
-es	O
-diagnóstica	O
-.	O

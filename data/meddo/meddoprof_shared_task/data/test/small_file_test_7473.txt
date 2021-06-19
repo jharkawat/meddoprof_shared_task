@@ -1,7 +1,0 @@
-
-Se	O
-realiza	O
-nefrectomía	O
-radical	O
-izquierda	O
-.	O

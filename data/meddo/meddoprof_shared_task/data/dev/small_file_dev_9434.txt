@@ -1,7 +1,0 @@
-
-Diámetro	O
-anillo	O
-aórtico	O
-28	O
-mm	O
-.	O

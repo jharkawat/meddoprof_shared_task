@@ -1,9 +1,0 @@
-
-SD	O
-paraneoplásico	O
-neurológico	O
-por	O
-anticuerpos	O
-onconeuronales	O
-CV2	O
-.	O

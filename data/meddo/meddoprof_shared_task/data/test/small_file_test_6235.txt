@@ -1,7 +1,0 @@
-
-Nódulo	O
-en	O
-LII	O
-de	O
-13mm	O
-.	O

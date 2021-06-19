@@ -1,7 +1,0 @@
-
-Ventrículo	O
-izquierdo	O
-con	O
-buena	O
-contractilidad	O
-.	O

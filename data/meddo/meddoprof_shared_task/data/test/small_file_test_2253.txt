@@ -1,6 +1,0 @@
-
-Karnofsky	O
-:	O
-80	O
-%	O
-.	O

@@ -1,8 +1,0 @@
-
-Fuerza	O
-,	O
-tono	O
-y	O
-sensibilidad	O
-conservados	O
-.	O

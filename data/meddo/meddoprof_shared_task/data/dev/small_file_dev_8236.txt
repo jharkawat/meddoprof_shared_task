@@ -1,9 +1,0 @@
-
-No	O
-presenta	O
-alteraciones	O
-en	O
-cabeza	O
-y	O
-cuello	O
-.	O

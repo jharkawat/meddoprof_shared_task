@@ -1,9 +1,0 @@
-
-Serología	O
-para	O
-VIH	O
-negativa	O
-,	O
-hemocultivos	O
-negativos	O
-.	O

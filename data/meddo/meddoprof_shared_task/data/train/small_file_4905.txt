@@ -1,8 +1,0 @@
-
-Hepatomegalia	O
-de	O
-2	O
-traveses	O
-de	O
-dedo	O
-.	O

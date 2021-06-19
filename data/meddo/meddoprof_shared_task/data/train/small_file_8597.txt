@@ -1,9 +1,0 @@
-
-El	O
-Cultivo	O
-y	O
-tinción	O
-GRAM	O
-fue	O
-negativa	O
-.	O

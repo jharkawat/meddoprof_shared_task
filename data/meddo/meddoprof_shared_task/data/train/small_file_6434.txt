@@ -1,4 +1,0 @@
-
-Granuloma	O
-infeccioso	O
-.	O

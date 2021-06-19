@@ -1,9 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-zurdo	O
-;	O
-escolaridad	B-SITUACION_LABORAL
-básica	I-SITUACION_LABORAL
-.	O

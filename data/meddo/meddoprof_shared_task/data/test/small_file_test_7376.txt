@@ -1,5 +1,0 @@
-
-Karnofsky	O
-90	O
-%	O
-.	O

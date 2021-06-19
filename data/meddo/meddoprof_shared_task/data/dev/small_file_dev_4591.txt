@@ -1,9 +1,0 @@
-
-Hora	O
-de	O
-Inicio	O
-:	O
-8	O
-:	O
-00	O
-hrs	O

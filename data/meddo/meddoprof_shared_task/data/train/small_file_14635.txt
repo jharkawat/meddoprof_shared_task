@@ -1,6 +1,0 @@
-
-No	O
-estigmas	O
-de	O
-endocarditis	O
-.	O

@@ -1,7 +1,0 @@
-
-Sensibilidad	O
-profunda	O
-y	O
-superficial	O
-normal	O
-.	O

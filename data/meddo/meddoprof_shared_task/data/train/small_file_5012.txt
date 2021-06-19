@@ -1,9 +1,0 @@
-
-Varón	O
-de	O
-27	O
-años	O
-y	O
-nacionalidad	O
-española	O
-.	O

@@ -1,6 +1,0 @@
-
-Ausencia	O
-de	O
-focalidad	O
-neurológica	O
-.	O

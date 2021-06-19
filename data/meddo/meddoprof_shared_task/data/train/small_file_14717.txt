@@ -1,5 +1,0 @@
-
-Abdomen	O
-sin	O
-visceromegalias	O
-.	O

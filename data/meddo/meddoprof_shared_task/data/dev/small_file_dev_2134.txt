@@ -1,9 +1,0 @@
-
-Rigidez	O
-en	O
-rueda	O
-dentada	O
-y	O
-clínica	O
-parkinsoniana	O
-.	O

@@ -1,6 +1,0 @@
-
-Convive	O
-con	O
-su	O
-familia	O
-.	O

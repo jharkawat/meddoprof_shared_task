@@ -1,9 +1,0 @@
-
-En	O
-el	O
-ámbito	O
-familiar	O
-verbaliza	O
-buena	O
-comunicación	O
-.	O

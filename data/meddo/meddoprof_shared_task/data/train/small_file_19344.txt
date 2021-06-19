@@ -1,9 +1,0 @@
-
-	O
-ALTA	O
-:	O
-CSMA	O
-,	O
-CD	O
-y	O
-PSI	O

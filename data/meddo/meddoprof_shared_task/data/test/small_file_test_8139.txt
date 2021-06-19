@@ -1,5 +1,0 @@
-
-ALK	O
-no	O
-traslocado	O
-.	O

@@ -1,8 +1,0 @@
-
-Lupus	O
-eritematoso	O
-cutáneo	O
-y	O
-anemia	O
-ferropénica	O
-.	O

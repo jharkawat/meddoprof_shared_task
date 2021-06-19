@@ -1,6 +1,0 @@
-
-Normoprosexico	O
-con	O
-comprensión	O
-adecuada	O
-.	O

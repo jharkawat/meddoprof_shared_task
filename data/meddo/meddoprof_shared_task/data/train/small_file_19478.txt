@@ -1,5 +1,0 @@
-
-Hospital	O
-psiquiátrico	O
-de	O
-Leganés	O

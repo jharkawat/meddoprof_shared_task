@@ -1,9 +1,0 @@
-
-Corta	O
-sus	O
-uñas	O
-una	O
-vez	O
-por	O
-semana	O
-.	O

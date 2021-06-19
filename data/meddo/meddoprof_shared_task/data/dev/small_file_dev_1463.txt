@@ -1,8 +1,0 @@
-
-Es	O
-religiosa	O
-,	O
-católica	O
-y	O
-practicante	O
-.	O

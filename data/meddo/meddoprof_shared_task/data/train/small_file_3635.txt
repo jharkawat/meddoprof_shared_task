@@ -1,9 +1,0 @@
-
-Recidiva	O
-en	O
-mama	O
-contralateral	O
-intervenido	O
-en	O
-2014	O
-.	O

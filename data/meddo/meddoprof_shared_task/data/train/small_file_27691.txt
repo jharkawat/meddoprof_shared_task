@@ -1,7 +1,0 @@
-
-No	O
-se	O
-ha	O
-prescrito	O
-medicación	O
-.	O

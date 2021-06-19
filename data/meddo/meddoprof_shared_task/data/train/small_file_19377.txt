@@ -1,5 +1,0 @@
-
-•	O
-Ocupación	O
-:	O
-Estudiante	B-SITUACION_LABORAL

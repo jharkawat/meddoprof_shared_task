@@ -1,7 +1,0 @@
-
-No	O
-se	O
-observan	O
-adenopatías	O
-mediastínicas	O
-.	O

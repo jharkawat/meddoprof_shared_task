@@ -1,9 +1,0 @@
-
-Insuficiencia	O
-tricuspídea	O
-leve	O
-con	O
-PSAP	O
-:	O
-40mmHg	O
-.	O

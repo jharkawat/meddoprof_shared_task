@@ -1,7 +1,0 @@
-
-Sin	O
-hipertensión	O
-ni	O
-diabetes	O
-mellitus	O
-.	O

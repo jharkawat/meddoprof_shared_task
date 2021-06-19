@@ -1,8 +1,0 @@
-
-Miedo	O
-por	O
-volver	O
-a	O
-intentar	O
-suicidarse	O
-.	O

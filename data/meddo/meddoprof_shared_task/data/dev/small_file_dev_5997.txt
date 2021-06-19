@@ -1,8 +1,0 @@
-
-No	O
-se	O
-evidencia	O
-diseminación	O
-linfática	O
-tumoral	O
-.	O

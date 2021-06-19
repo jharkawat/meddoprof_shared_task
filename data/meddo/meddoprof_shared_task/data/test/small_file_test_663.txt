@@ -1,8 +1,0 @@
-
-No	O
-hay	O
-humedad	O
-en	O
-la	O
-casa	O
-.	O

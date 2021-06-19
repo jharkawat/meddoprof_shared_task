@@ -1,6 +1,0 @@
-
-Tóxicos	O
-en	O
-orina	O
-negativos	O
-.	O

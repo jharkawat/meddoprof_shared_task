@@ -1,7 +1,0 @@
-
-Motilidad	O
-ocular	O
-extrínseca	O
-sin	O
-restricciones	O
-.	O

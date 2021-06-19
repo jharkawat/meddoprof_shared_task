@@ -1,9 +1,0 @@
-
-Condensación	O
-LSI	O
-segmento	O
-anterior	O
-,	O
-segmento	O
-superior	O
-LII	O

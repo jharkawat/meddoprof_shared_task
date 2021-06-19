@@ -1,7 +1,0 @@
-
-Enfermedad	O
-por	O
-arañazo	O
-de	O
-gato	O
-.	O

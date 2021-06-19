@@ -1,7 +1,0 @@
-
-No	O
-refería	O
-ningún	O
-hábito	O
-tóxico	O
-.	O

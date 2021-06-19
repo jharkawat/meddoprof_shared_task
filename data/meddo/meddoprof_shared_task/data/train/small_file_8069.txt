@@ -1,7 +1,0 @@
-
-No	O
-consumo	O
-conocido	O
-de	O
-tóxicos	O
-.	O

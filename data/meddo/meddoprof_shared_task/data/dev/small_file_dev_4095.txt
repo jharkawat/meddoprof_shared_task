@@ -1,5 +1,0 @@
-
-Del	O
-borde	O
-costal	O
-.	O

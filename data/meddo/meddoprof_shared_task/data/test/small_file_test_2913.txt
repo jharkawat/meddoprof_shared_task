@@ -1,5 +1,0 @@
-
-Niega	O
-viajes	O
-recientes	O
-.	O

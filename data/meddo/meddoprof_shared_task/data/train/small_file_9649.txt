@@ -1,6 +1,0 @@
-
-Leve	O
-taquipnea	O
-en	O
-reposo	O
-.	O

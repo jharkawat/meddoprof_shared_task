@@ -1,7 +1,0 @@
-
-No	O
-reconocía	O
-un	O
-claro	O
-desencadenante	O
-.	O

@@ -1,7 +1,0 @@
-
-Complejo	O
-vitamínico	O
-contenedor	O
-de	O
-zinc	O
-.	O

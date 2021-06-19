@@ -1,9 +1,0 @@
-
-Sufre	O
-un	O
-episodio	O
-aislado	O
-de	O
-crisis	O
-convulsiva	O
-.	O

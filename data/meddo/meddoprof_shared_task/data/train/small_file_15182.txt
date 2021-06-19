@@ -1,8 +1,0 @@
-
-En	O
-su	O
-EF	O
-presentaba	O
-Constantes	O
-normales	O
-.	O

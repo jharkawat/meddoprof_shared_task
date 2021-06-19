@@ -1,6 +1,0 @@
-
-No	O
-padecía	O
-ninguna	O
-enfermedad	O
-.	O

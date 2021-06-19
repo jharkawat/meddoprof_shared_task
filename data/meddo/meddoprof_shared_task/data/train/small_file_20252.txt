@@ -1,8 +1,0 @@
-
-Estudia	B-SITUACION_LABORAL
-2o	O
-de	O
-Educación	O
-Secundaria	O
-Obligatoria	O
-.	O

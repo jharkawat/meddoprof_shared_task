@@ -1,8 +1,0 @@
-
-Ausencia	O
-de	O
-lesiones	O
-cutáneo	O
--	O
-mucosas	O
-.	O

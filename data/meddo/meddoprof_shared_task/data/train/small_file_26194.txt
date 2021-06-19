@@ -1,5 +1,0 @@
-
-Autolesiones	O
-en	O
-brazos	O
-.	O

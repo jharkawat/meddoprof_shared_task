@@ -1,7 +1,0 @@
-
-Se	O
-considera	O
-encefalitis	O
-autoinmune	O
-paraneoplásica	O
-.	O

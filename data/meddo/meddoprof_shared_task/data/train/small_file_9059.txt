@@ -1,9 +1,0 @@
-
-Extenso	O
-hematoma	O
-laterocervial	O
-izquierdo	O
-y	O
-escapular	O
-homolateral	O
-.	O

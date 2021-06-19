@@ -1,6 +1,0 @@
-
-Leucopenia	O
-tóxica	O
-por	O
-metamizol	O
-.	O

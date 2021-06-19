@@ -1,9 +1,0 @@
-
-Se	O
-continúa	O
-tratamiento	O
-antibiótico	O
-empírico	O
-con	O
-imipenem	O
-.	O

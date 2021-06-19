@@ -1,5 +1,0 @@
-
-HLA	O
-DR4	O
-positivo	O
-.	O

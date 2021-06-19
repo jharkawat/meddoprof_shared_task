@@ -1,7 +1,0 @@
-
-Retrombosis	O
-de	O
-ART	O
-femoral	O
-superficial	O
-.	O

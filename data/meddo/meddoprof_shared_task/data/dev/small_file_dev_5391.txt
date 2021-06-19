@@ -1,6 +1,0 @@
-
-TAC	O
-cerebral	O
-y	O
-torácico	O
-.	O

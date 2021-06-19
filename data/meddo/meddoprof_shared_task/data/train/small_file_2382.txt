@@ -1,9 +1,0 @@
-
-Tiene	O
-antecedentes	O
-de	O
-asma	O
-alérgico	O
-a	O
-gramíneas	O
-.	O

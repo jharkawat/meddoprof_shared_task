@@ -1,7 +1,0 @@
-
-Esquizofrenia	O
-paranoide	O
-continua	O
-CIE	O
-10	O
-.	O

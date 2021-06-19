@@ -1,7 +1,0 @@
-
-No	O
-ha	O
-realizado	O
-viajes	O
-previos	O
-.	O

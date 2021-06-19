@@ -1,8 +1,0 @@
-
-Citología	O
-de	O
-LCR	O
-negativa	O
-para	O
-malignidad	O
-.	O

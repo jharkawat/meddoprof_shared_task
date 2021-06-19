@@ -1,7 +1,0 @@
-
-Auscultaciones	O
-cardiaca	O
-y	O
-pulmonar	O
-normales	O
-.	O

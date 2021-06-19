@@ -1,6 +1,0 @@
-
-Lactancia	O
-materna	O
-11	O
-meses	O
-.	O

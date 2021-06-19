@@ -1,9 +1,0 @@
-
-Paciente	O
-varón	O
-de	O
-29	O
-años	O
-,	O
-soltero	O
-.	O

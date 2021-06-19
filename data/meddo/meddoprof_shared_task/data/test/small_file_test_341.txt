@@ -1,9 +1,0 @@
-
-Presencia	O
-de	O
-irritación	O
-nasal	O
-sin	O
-detectarse	O
-secreciones	O
-.	O

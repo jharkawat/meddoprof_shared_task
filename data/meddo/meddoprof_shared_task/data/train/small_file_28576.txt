@@ -1,6 +1,0 @@
-
-Posteriormente	O
-cambia	O
-de	O
-terapeuta	B-PROFESION
-.	O

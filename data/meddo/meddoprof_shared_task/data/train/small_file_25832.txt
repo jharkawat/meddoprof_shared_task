@@ -1,8 +1,0 @@
-
-Poco	O
-después	O
-debuta	O
-con	O
-sintomatología	O
-psicótica	O
-.	O

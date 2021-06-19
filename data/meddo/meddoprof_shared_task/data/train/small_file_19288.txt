@@ -1,7 +1,0 @@
-
-Cuidador	B-SITUACION_LABORAL
-ppal	I-SITUACION_LABORAL
-:	O
-La	O
-madre	O
-	O

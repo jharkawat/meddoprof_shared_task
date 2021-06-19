@@ -1,6 +1,0 @@
-
-Obserban	O
-que	O
-habla	O
-solo	O
-.	O

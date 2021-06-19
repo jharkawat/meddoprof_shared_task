@@ -1,3 +1,5 @@
+## Use to create train test and dev in conll
+
 file = open("test.txt", "r")
 lines = file.readlines()
 count = 0
@@ -15,18 +17,3 @@ for line in lines:
 if smallfile:
     smallfile.close()
 file.close()
-
-
-# 33405 697157
-# 11135 935652
-# 11136 1165844
-
-    # for lineno, line in enumerate(bigfile):
-    #     if lineno % lines_per_file == 0:
-    #         if smallfile:
-    #             smallfile.close()
-    #         small_filename = 'small_file_{}.txt'.format(lineno + lines_per_file)
-    #         smallfile = open(small_filename, "w")
-    #     smallfile.write(line)
-    # if smallfile:
-    #     smallfile.close()

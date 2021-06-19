@@ -1,6 +1,0 @@
-
-Se	O
-indica	O
-ceftriaxona	O
-endovenosa	O
-.	O

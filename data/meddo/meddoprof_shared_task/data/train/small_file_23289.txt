@@ -1,7 +1,0 @@
-
-Refieren	O
-ausencia	O
-de	O
-hábitos	O
-tóxicos	O
-.	O

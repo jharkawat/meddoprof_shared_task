@@ -1,9 +1,0 @@
-
-El	O
-resto	O
-del	O
-examen	O
-físico	O
-era	O
-normal	O
-.	O

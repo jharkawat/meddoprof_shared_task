@@ -1,8 +1,0 @@
-
-Dermatitis	O
-alérgica	O
-de	O
-contacto	O
-por	O
-corticoides	O
-.	O

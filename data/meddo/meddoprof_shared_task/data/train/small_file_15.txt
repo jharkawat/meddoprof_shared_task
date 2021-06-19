@@ -1,7 +1,0 @@
-
-Se	O
-estableció	O
-un	O
-tratamiento	O
-antihistamínico	O
-.	O

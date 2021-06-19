@@ -1,7 +1,0 @@
-
-Temblor	O
-intencional	O
-de	O
-predominio	O
-derecho	O
-.	O

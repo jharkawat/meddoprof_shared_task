@@ -1,9 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-fumador	O
-asiduo	O
-de	O
-cachimba	O
-.	O

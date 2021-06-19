@@ -1,5 +1,0 @@
-
-Talla	O
-158	O
-cm	O
-.	O

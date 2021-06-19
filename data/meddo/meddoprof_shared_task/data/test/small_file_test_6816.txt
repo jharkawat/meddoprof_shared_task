@@ -1,6 +1,0 @@
-
-Discreto	O
-derrame	O
-pleural	O
-izquierdo	O
-.	O

@@ -1,8 +1,0 @@
-
-Relación	O
-con	O
-personas	O
-de	O
-varias	O
-nacionalidades	O
-.	O

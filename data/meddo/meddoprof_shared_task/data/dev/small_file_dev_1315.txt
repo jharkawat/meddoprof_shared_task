@@ -1,7 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-está	O
-casada	O
-.	O

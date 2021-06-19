@@ -1,7 +1,0 @@
-
-Sin	O
-lesiones	O
-a	O
-distancia	O
-M0	O
-.	O

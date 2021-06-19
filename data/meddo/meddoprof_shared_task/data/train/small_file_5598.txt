@@ -1,9 +1,0 @@
-
-Marcha	O
-lenta	O
-e	O
-inestable	O
-con	O
-escaso	O
-braceo	O
-.	O

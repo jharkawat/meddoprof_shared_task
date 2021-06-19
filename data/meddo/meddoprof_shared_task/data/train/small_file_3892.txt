@@ -1,9 +1,0 @@
-
-Está	O
-en	O
-tratamiento	O
-con	O
-Enalapril	O
-/	O
-HCTZ	O
-.	O

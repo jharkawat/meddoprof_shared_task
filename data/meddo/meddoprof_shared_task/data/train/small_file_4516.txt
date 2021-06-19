@@ -1,8 +1,0 @@
-
-Su	O
-Médico	B-PROFESION
-de	I-PROFESION
-Familia	I-PROFESION
-intenta	O
-tranquilizar	O
-.	O

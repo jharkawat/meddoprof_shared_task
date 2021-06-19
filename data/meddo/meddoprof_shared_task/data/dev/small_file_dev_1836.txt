@@ -1,6 +1,0 @@
-
-Tiene	O
-una	O
-hermana	O
-mayor	O
-.	O

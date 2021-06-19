@@ -1,5 +1,0 @@
-
-Diabetes	O
-tipo	O
-2	O
-.	O

@@ -1,7 +1,0 @@
-
-Tratamiento	O
-habitual	O
-:	O
-No	O
-refiere	O
-.	O

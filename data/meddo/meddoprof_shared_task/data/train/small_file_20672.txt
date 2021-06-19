@@ -1,7 +1,0 @@
-
-Serología	O
-para	O
-VIH	O
-:	O
-negativa	O
-.	O

@@ -1,9 +1,0 @@
-
-ECG	O
-:	O
-ritmo	O
-sinusal	O
-a	O
-75	O
-lpm	O
-.	O

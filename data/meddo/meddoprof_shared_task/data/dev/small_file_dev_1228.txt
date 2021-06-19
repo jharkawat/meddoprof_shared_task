@@ -1,8 +1,0 @@
-
-El	O
-nistagmo	O
-superior	O
-desaparece	O
-por	O
-completo	O
-.	O

@@ -1,8 +1,0 @@
-
-Edad	O
-:	O
-36años	O
-Sexo	O
-:	O
-M	O
-.	O

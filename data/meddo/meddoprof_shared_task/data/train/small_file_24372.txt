@@ -1,9 +1,0 @@
-
--	O
-Trastorno	O
-por	O
-estrés	O
-postraumático	O
-F43	O
-.	O
-1	O

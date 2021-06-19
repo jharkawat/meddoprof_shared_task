@@ -1,9 +1,0 @@
-
-No	O
-lesiones	O
-cutáneas	O
-ni	O
-mucosas	O
-sugestivas	O
-de	O
-embolismos	O

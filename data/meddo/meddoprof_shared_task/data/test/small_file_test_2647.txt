@@ -1,9 +1,0 @@
-
-Se	O
-decide	O
-mantener	O
-el	O
-tratamiento	O
-ATB	O
-inicial	O
-.	O

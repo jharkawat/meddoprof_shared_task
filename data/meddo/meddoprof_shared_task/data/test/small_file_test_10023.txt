@@ -1,6 +1,0 @@
-
-Compatible	O
-con	O
-queratosis	O
-seborreica	O
-.	O

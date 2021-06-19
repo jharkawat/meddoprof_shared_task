@@ -1,9 +1,0 @@
-
-Edad	O
-:	O
-68	O
-años	O
-Sexo	O
-:	O
-F	O
-.	O

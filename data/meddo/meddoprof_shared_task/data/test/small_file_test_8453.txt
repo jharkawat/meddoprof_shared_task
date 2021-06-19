@@ -1,7 +1,0 @@
-
-Sin	O
-invasión	O
-linfovascular	O
-o	O
-perineural	O
-.	O

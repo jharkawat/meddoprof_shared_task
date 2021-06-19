@@ -1,7 +1,0 @@
-
-No	O
-refiere	O
-intervenciones	O
-quirúrgicas	O
-recientes	O
-.	O

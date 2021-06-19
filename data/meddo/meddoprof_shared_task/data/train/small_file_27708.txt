@@ -1,6 +1,0 @@
-
-Consume	O
-alcohol	O
-con	O
-moderación	O
-.	O

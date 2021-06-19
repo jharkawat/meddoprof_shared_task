@@ -1,9 +1,0 @@
-
-La	O
-paciente	O
-no	O
-acude	O
-a	O
-las	O
-citas	O
-.	O

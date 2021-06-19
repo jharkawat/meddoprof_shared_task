@@ -1,7 +1,0 @@
-
-Adenocarcinoma	O
-de	O
-recto	O
-in	O
-situ	O
-.	O

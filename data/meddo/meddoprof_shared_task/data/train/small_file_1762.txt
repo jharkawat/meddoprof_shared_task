@@ -1,6 +1,0 @@
-
-C	O
-/	O
-Rosal	O
-23	O
-.	O

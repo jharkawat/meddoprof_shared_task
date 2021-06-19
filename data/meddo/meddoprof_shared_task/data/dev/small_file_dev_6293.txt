@@ -1,5 +1,0 @@
-
-PAD	O
-:	O
-69	O
-mmHg	O

@@ -1,6 +1,0 @@
-
-Sin	O
-tratamiento	O
-domiciliario	O
-concomitante	O
-.	O

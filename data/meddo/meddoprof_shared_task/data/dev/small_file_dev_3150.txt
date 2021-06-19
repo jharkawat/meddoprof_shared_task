@@ -1,8 +1,0 @@
-
-Necesidad	O
-de	O
-ocupar	O
-su	O
-tiempo	O
-libre	O
-.	O

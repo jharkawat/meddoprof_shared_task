@@ -1,7 +1,0 @@
-
-Juicio	O
-de	O
-la	O
-realidad	O
-conservado	O
-.	O

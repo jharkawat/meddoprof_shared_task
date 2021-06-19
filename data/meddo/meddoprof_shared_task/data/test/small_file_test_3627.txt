@@ -1,9 +1,0 @@
-
-Se	O
-decidió	O
-SU	O
-ingreso	O
-hospitalario	O
-para	O
-estudio	O
-.	O

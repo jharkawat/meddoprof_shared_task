@@ -1,6 +1,0 @@
-
-Estado	O
-Civil	O
-:	O
-Casada	O
-.	O

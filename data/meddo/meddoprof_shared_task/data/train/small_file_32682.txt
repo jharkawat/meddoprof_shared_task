@@ -1,7 +1,0 @@
-
-Ateromatosis	O
-calcificada	O
-en	O
-sifones	O
-carotídeos	O
-.	O

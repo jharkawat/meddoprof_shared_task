@@ -1,7 +1,0 @@
-
-Leve	O
-molestia	O
-a	O
-la	O
-palpación	O
-.	O

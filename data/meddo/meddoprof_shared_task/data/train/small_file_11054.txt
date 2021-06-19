@@ -1,7 +1,0 @@
-
-Se	O
-toman	O
-biopsias	O
-de	O
-ileon	O
-.	O

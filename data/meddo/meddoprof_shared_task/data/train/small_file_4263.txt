@@ -1,5 +1,0 @@
-
-Auscultación	O
-respiratoria	O
-:	O
-Normal	O

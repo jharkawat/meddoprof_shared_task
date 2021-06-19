@@ -1,6 +1,0 @@
-
-No	O
-fallos	O
-mnésicos	O
-groseros	O
-.	O

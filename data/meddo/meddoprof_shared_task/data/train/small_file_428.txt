@@ -1,6 +1,0 @@
-
-Correspondencia	O
-a	O
-:	O
-Dra	B-PROFESION
-.	I-PROFESION

@@ -1,9 +1,0 @@
-
-Se	O
-derivó	O
-a	O
-la	O
-paciente	O
-a	O
-Ginecología	O
-.	O

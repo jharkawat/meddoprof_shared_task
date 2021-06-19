@@ -1,9 +1,0 @@
-
-Feocromocitoma	O
-maligno	O
-no	O
-funcionante	O
-sin	O
-enfermedad	O
-residual	O
-.	O

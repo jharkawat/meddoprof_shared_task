@@ -1,6 +1,0 @@
-
-Colesterol	O
-y	O
-triglicéridos	O
-normales	O
-.	O

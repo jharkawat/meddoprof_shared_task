@@ -1,5 +1,0 @@
-
-Enfermedad	O
-mental	O
-y	O
-evolución	O

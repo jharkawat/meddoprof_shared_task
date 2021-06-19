@@ -1,8 +1,0 @@
-
-NOMBRE	O
-DEL	O
-REGISTRADOR	O
-:	O
-Juliana	O
-Barragan	O
-.	O

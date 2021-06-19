@@ -1,6 +1,0 @@
-
-Estabilización	O
-de	O
-la	O
-enfermedad	O
-.	O

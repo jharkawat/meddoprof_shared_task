@@ -1,9 +1,0 @@
-
-De	O
-profesión	O
-trabajaba	B-PROFESION
-colocando	I-PROFESION
-paneles	I-PROFESION
-de	I-PROFESION
-pladur	I-PROFESION
-.	O

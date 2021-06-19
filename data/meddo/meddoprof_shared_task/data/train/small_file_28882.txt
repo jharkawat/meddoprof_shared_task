@@ -1,9 +1,0 @@
-
-Sí	O
-continúa	O
-con	O
-el	O
-consumo	O
-de	O
-cocaína	O
-.	O

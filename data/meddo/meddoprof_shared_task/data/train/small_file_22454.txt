@@ -1,9 +1,0 @@
-
-Ex	O
-–	O
-ADVP	O
-desde	O
-hace	O
-20	O
-años	O
-.	O

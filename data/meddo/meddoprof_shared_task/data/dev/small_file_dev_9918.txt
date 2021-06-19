@@ -1,6 +1,0 @@
-
-ECG	O
-seriados	O
-sin	O
-cambios	O
-.	O

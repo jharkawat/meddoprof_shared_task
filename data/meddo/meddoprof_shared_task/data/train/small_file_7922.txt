@@ -1,9 +1,0 @@
-
-Antecedentes	O
-patológicos	O
-personales	O
-:	O
-N	O
-/	O
-R	O
-.	O

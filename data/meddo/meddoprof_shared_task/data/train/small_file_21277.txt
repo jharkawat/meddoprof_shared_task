@@ -1,8 +1,0 @@
-
-en	O
-un	O
-Instituto	O
-de	O
-Educación	O
-Secundaria	O
-.	O

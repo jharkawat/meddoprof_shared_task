@@ -1,6 +1,0 @@
-
-Sin	O
-tratamiento	O
-médico	O
-habitual	O
-.	O

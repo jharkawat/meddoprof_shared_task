@@ -1,8 +1,0 @@
-
-Dice	O
-haber	O
-perdido	O
-algo	O
-de	O
-apetito	O
-.	O

@@ -1,9 +1,0 @@
-
-Consciencia	O
-de	O
-enfermedad	O
-y	O
-de	O
-requerir	O
-ayuda	O
-.	O

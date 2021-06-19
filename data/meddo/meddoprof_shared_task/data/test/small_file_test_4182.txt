@@ -1,9 +1,0 @@
-
-Derrame	O
-pleural	O
-izquierdo	O
-con	O
-atelectasia	O
-basal	O
-pasiva	O
-.	O

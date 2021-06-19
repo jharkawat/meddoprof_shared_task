@@ -1,7 +1,0 @@
-
-Médico	B-PROFESION
-:	O
-Tomás	O
-Lázaro	O
-Rodríguez	O
-Collar	O

@@ -1,7 +1,0 @@
-
-Dolor	O
-e	O
-inflamación	O
-pantorrilla	O
-derecha	O
-.	O

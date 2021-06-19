@@ -1,7 +1,0 @@
-
-Memoria	O
-anterógrada	O
-2	O
-/	O
-3	O
-.	O

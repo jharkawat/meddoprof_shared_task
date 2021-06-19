@@ -1,7 +1,0 @@
-
-AP	O
-:	O
-Murmullo	O
-vesicular	O
-conservado	O
-.	O

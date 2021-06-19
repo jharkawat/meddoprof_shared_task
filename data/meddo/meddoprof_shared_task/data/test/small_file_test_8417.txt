@@ -1,7 +1,0 @@
-
-Sin	O
-afectación	O
-del	O
-estado	O
-general	O
-.	O

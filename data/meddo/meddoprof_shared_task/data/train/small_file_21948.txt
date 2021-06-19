@@ -1,9 +1,0 @@
-
-Es	O
-enfermera	B-PROFESION
-y	O
-trabaja	B-PROFESION
-en	I-PROFESION
-un	I-PROFESION
-hospital	I-PROFESION
-.	O

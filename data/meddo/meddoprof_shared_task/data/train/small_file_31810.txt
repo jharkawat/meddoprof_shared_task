@@ -1,8 +1,0 @@
-
-Incapacidad	B-SITUACION_LABORAL
-laboral	I-SITUACION_LABORAL
-permanente	I-SITUACION_LABORAL
-(	O
-maestra	B-PROFESION
-)	O
-.	O

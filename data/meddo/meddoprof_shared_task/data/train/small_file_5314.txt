@@ -1,5 +1,0 @@
-
-Aurícula	O
-izquierda	O
-normal	O
-.	O

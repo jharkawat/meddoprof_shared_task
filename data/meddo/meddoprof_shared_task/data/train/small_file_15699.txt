@@ -1,7 +1,0 @@
-
-Encefalitis	O
-anti	O
-R	O
--	O
-NMDA	O
-.	O

@@ -1,7 +1,0 @@
-
-Biopsia	O
-compatible	O
-con	O
-lupus	O
-cutáneo	O
-.	O

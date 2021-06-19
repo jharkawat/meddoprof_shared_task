@@ -1,9 +1,0 @@
-
-Ama	B-SITUACION_LABORAL
-de	I-SITUACION_LABORAL
-casa	I-SITUACION_LABORAL
-,	O
-con	O
-2	O
-hijos	O
-.	O

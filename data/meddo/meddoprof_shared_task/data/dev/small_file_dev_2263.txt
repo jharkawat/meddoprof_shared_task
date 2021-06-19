@@ -1,6 +1,0 @@
-
-Madre	O
-con	O
-Hipertensión	O
-arterial	O
-.	O

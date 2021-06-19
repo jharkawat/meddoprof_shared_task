@@ -1,7 +1,0 @@
-
-Grado	O
-de	O
-Instrucción	O
-:	O
-Secundaria	O
-completa	O

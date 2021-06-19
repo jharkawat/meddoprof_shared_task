@@ -1,8 +1,0 @@
-
-Buen	O
-estado	O
-general	O
-,	O
-PS	O
-0	O
-.	O

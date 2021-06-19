@@ -1,5 +1,0 @@
-
-Granolomatosis	O
-de	O
-Wegener	O
-.	O

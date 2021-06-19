@@ -1,6 +1,0 @@
-
-PCR	O
-para	O
-micobacterias	O
-negativa	O
-.	O

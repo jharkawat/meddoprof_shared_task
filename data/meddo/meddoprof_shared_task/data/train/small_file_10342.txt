@@ -1,6 +1,0 @@
-
-Hemaglutinación	O
-negativa	O
-para	O
-hidatidosis	O
-.	O

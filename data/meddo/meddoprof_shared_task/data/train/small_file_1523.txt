@@ -1,9 +1,0 @@
-
-Localidad	O
-/	O
-Provincia	O
-:	O
-Ciudad	O
-de	O
-México	O
-.	O

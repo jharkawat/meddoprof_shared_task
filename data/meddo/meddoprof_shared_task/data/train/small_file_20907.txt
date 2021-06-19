@@ -1,9 +1,0 @@
-
-NOC	O
-:	O
-Salud	O
-emocional	O
-del	O
-cuidador	B-PROFESION
-familiar	I-PROFESION
-.	O

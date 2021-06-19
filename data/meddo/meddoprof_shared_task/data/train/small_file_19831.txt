@@ -1,5 +1,0 @@
-
-Inmunizada	O
-de	O
-VHB	O
-.	O

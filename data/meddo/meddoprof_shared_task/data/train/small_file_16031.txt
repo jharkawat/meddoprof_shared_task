@@ -1,8 +1,0 @@
-
-Citología	O
-con	O
-presencia	O
-de	O
-linfocitos	O
-maduros	O
-.	O

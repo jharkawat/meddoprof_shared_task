@@ -1,7 +1,0 @@
-
-Triglicéridos	O
-604	O
-mg	O
-/	O
-dl	O
-.	O

@@ -1,8 +1,0 @@
-
-Cólico	O
-nefrítico	O
-de	O
-repetición	O
-(	O
-2000	O
-)	O

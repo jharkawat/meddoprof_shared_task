@@ -1,8 +1,0 @@
-
-Se	O
-decide	O
-mantener	O
-seguimiento	O
-sin	O
-medicación	O
-.	O

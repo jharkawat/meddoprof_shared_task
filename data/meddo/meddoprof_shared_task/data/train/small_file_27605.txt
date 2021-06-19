@@ -1,6 +1,0 @@
-
-Madre	O
-diabética	O
-tipo	O
-1	O
-.	O

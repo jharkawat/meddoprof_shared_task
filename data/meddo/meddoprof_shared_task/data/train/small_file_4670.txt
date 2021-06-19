@@ -1,5 +1,0 @@
-
-Nivel	O
-socioeconómico	O
-medio	O
-.	O

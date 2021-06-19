@@ -1,6 +1,0 @@
-
-Padre	O
-diagnosticado	O
-de	O
-psoriasis	O
-.	O

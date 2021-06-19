@@ -1,6 +1,0 @@
-
-No	O
-hay	O
-derrame	O
-pleural	O
-.	O

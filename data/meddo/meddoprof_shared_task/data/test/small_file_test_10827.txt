@@ -1,5 +1,0 @@
-
-No	O
-presenta	O
-fiebre	O
-.	O

@@ -1,8 +1,0 @@
-
-No	O
-había	O
-realizado	O
-ninguna	O
-profilaxis	O
-antiinfecciosa	O
-.	O

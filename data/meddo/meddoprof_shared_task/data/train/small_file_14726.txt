@@ -1,9 +1,0 @@
-
-Se	O
-recibió	O
-una	O
-prueba	O
-que	O
-resultó	O
-diagnóstica	O
-.	O

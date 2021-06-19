@@ -1,6 +1,0 @@
-
-La	O
-familia	O
-está	O
-desesperada	O
-.	O

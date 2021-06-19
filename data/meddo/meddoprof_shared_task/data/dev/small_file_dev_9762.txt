@@ -1,7 +1,0 @@
-
-Hepatitis	O
-C	O
-tratada	O
-y	O
-curada	O
-.	O

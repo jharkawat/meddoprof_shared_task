@@ -1,8 +1,0 @@
-
-Al	O
-toser	O
-le	O
-duele	O
-la	O
-espalda	O
-.	O

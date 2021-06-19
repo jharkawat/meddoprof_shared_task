@@ -1,9 +1,0 @@
-
-Cicatriz	O
-a	O
-nivel	O
-dorsal	O
-con	O
-buen	O
-aspecto	O
-.	O

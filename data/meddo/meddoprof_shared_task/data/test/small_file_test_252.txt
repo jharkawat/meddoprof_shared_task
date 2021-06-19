@@ -1,8 +1,0 @@
-
-No	O
-se	O
-detectan	O
-anomalías	O
-o	O
-complicaciones	O
-.	O

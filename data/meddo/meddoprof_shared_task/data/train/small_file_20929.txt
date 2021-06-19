@@ -1,6 +1,0 @@
-
-Lugar	O
-de	O
-Nacimiento	O
-:	O
-Lima	O

@@ -1,8 +1,0 @@
-
-Melanoma	O
-maligno	O
-BRAF	O
-nativo	O
-estadio	O
-IV	O
-.	O

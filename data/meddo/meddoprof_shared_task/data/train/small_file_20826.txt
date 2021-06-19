@@ -1,6 +1,0 @@
-
-Trastorno	O
-Paranoide	O
-de	O
-Personalidad	O
-.	O

@@ -1,8 +1,0 @@
-
-Presenta	O
-ECOG	O
-1	O
-,	O
-IK	O
-70	O
-.	O

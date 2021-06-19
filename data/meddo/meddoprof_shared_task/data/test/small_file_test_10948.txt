@@ -1,9 +1,0 @@
-
-La	O
-respiración	O
-es	O
-bucal	O
-porque	O
-está	O
-acatarrada	O
-.	O

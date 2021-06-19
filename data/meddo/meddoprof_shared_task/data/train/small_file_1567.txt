@@ -1,7 +1,0 @@
-
-Dirección	O
-para	O
-correspondencia	O
-:	O
-Dra	B-PROFESION
-.	I-PROFESION

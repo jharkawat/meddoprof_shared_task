@@ -1,8 +1,0 @@
-
-Estudios	O
-:	O
-Trabajadora	B-PROFESION
-Social	I-PROFESION
-y	O
-Sociología	O
-.	O

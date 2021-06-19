@@ -1,9 +1,0 @@
-
-No	O
-asociaba	O
-fiebre	O
-ni	O
-otros	O
-síntomas	O
-sistémicos	O
-.	O

@@ -1,9 +1,0 @@
-
-Antecedentes	O
-médico	O
--	O
-quirúrgicos	O
-:	O
-no	O
-conocidos	O
-.	O

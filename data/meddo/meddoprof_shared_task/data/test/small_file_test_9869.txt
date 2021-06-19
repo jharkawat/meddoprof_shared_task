@@ -1,9 +1,0 @@
-
-Área	O
-cervical	O
-sin	O
-adenopatías	O
-de	O
-tamaño	O
-significativo	O
-.	O

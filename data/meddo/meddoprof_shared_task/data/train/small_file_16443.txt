@@ -1,9 +1,0 @@
-
-Sin	O
-crisis	O
-durante	O
-4	O
--	O
-5	O
-meses	O
-.	O

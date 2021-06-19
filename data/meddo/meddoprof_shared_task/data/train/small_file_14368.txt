@@ -1,7 +1,0 @@
-
-Abdomen	O
-sin	O
-masas	O
-ni	O
-visceromegalias	O
-.	O

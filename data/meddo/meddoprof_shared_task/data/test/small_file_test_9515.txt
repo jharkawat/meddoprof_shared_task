@@ -1,9 +1,0 @@
-
-No	O
-toma	O
-ningún	O
-fármaco	O
-de	O
-forma	O
-habitual	O
-.	O

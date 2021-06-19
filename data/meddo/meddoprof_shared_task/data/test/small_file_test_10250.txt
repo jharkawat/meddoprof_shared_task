@@ -1,8 +1,0 @@
-
-Se	O
-realizan	O
-serologías	O
-que	O
-descartan	O
-hepatitis	O
-.	O

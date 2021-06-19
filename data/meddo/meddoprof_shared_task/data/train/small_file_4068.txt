@@ -1,7 +1,0 @@
-
-Sin	O
-adenopatías	O
-ni	O
-ingurgitación	O
-yugular	O
-.	O

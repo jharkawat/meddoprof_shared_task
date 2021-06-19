@@ -1,6 +1,0 @@
-
-Esquizofrenia	O
-resistente	O
-al	O
-tratamiento	O
-.	O

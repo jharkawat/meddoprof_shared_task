@@ -1,5 +1,0 @@
-
-Habla	O
-3	O
-idiomas	O
-.	O

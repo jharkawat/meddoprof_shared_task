@@ -1,8 +1,0 @@
-
-Tensión	O
-arterial	O
-123	O
-/	O
-67	O
-mmHg	O
-.	O

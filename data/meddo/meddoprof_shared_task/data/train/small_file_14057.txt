@@ -1,9 +1,0 @@
-
-AR	O
-:	O
-MVC	O
-sin	O
-ruidos	O
-patológicos	O
-sobreañadidos	O
-.	O

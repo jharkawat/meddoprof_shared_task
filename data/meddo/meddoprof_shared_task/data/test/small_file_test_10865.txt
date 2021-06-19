@@ -1,8 +1,0 @@
-
-Seguimiento	O
-un	O
-año	O
-dada	O
-escasa	O
-sintomatología	O
-.	O

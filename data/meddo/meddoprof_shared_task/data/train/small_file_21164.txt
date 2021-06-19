@@ -1,7 +1,0 @@
-
-F06	O
-.	O
-7	O
-Trastorno	O
-cognoscitivo	O
-leve	O

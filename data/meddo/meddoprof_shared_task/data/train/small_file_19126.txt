@@ -1,7 +1,0 @@
-
-No	B-SITUACION_LABORAL
-trabaja	I-SITUACION_LABORAL
-en	O
-la	O
-actualidad	O
-.	O

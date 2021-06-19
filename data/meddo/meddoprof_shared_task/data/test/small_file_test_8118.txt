@@ -1,8 +1,0 @@
-
-Derrame	O
-pleural	O
-derecho	O
-de	O
-moderada	O
-cuantía	O
-.	O

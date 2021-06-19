@@ -1,8 +1,0 @@
-
-AVE	O
-1	O
-:	O
-Fallecimiento	O
-del	O
-abuelo	O
-.	O

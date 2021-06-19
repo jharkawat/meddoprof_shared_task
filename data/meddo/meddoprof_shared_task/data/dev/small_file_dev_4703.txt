@@ -1,7 +1,0 @@
-
-Edemas	O
-con	O
-fóvea	O
-hasta	O
-rodillas	O
-.	O

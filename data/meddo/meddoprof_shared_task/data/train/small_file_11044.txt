@@ -1,7 +1,0 @@
-
-Algún	O
-engrosamiento	O
-pleural	O
-con	O
-calcificaciones	O
-.	O

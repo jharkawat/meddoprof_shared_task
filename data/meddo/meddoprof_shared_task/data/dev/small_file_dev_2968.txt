@@ -1,8 +1,0 @@
-
-Autopercepción	O
--	O
-autoconcepto	O
-:	O
-apoyo	O
-familiar	O
-.	O

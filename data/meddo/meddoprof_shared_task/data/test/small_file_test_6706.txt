@@ -1,8 +1,0 @@
-
-Superficie	O
-corporal	O
-1	O
-,	O
-6	O
-m2	O
-.	O

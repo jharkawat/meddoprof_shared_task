@@ -1,7 +1,0 @@
-
-Niega	O
-enfermedades	O
-ni	O
-tratamientos	O
-crónicos	O
-.	O

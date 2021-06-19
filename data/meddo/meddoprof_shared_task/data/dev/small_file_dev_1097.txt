@@ -1,9 +1,0 @@
-
-Impresiona	O
-comprender	O
-órdenes	O
-sencillas	O
-,	O
-no	O
-complejas	O
-.	O

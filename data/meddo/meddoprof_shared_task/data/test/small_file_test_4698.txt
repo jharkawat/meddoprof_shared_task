@@ -1,8 +1,0 @@
-
-Acuchillador	B-PROFESION
-de	I-PROFESION
-parqués	I-PROFESION
-durante	O
-25	O
-años	O
-.	O

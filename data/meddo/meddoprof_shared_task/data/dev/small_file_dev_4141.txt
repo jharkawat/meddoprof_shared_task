@@ -1,4 +1,0 @@
-
-Agua	O
-:	O
-Potable	O

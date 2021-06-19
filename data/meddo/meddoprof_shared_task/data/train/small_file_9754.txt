@@ -1,9 +1,0 @@
-
-Electrocardiograma	O
-:	O
-Ritmo	O
-sinusal	O
-a	O
-75	O
-lpm	O
-.	O

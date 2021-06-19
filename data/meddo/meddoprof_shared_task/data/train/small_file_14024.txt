@@ -1,6 +1,0 @@
-
-Asistolia	O
-sincopal	O
-por	O
-BAVC	O
-.	O

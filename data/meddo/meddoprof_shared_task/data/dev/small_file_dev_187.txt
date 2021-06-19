@@ -1,7 +1,0 @@
-
-Continúa	O
-viviendo	O
-con	O
-sus	O
-padres	O
-.	O

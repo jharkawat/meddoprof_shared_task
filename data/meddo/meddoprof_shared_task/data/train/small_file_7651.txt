@@ -1,8 +1,0 @@
-
-No	O
-presenta	O
-lesiones	O
-en	O
-otras	O
-localizaciones	O
-.	O

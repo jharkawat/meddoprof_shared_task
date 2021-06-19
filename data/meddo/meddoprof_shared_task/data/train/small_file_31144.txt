@@ -1,6 +1,0 @@
-
-Sin	O
-tratamiento	O
-psicofarmacológico	O
-previo	O
-.	O

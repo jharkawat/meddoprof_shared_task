@@ -1,7 +1,0 @@
-
-Médico	B-PROFESION
-:	O
-Ricardo	O
-Galán	O
-Suárez	O
-.	O

@@ -1,7 +1,0 @@
-
-Movimientos	O
-oculares	O
-extrínsecos	O
-sin	O
-limitación	O
-.	O

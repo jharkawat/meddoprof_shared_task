@@ -1,7 +1,0 @@
-
-de	O
-sulpirida	O
-y	O
-20	O
-mg	O
-.	O

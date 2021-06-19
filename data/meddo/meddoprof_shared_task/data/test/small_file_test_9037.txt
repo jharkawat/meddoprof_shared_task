@@ -1,9 +1,0 @@
-
-ART	O
-tibial	O
-posterior	O
-vascularizada	O
-por	O
-ramas	O
-colaterales	O
-.	O

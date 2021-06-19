@@ -1,8 +1,0 @@
-
-Tenía	O
-un	O
-perro	O
-en	O
-el	O
-domicilio	O
-.	O

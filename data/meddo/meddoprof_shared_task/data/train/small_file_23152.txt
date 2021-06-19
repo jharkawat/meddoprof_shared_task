@@ -1,8 +1,0 @@
-
-La	O
-mayoría	O
-han	O
-cedido	O
-sin	O
-medicación	O
-.	O

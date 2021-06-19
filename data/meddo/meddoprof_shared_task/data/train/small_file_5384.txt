@@ -1,7 +1,0 @@
-
-En	O
-planta	O
-de	O
-Medicina	O
-interna	O
-:	O

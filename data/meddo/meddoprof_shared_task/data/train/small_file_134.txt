@@ -1,7 +1,0 @@
-
-Refirió	O
-sentirse	O
-confuso	O
-y	O
-aterrado	O
-.	O

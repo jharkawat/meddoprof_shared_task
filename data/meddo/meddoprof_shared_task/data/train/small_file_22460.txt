@@ -1,7 +1,0 @@
-
-Quejas	O
-mnésicas	O
-groseras	O
-y	O
-atencionales	O
-.	O

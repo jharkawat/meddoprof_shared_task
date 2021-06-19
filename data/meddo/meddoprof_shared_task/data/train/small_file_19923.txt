@@ -1,8 +1,0 @@
-
-No	O
-respondió	O
-a	O
-ninguna	O
-otra	O
-pregunta	O
-.	O

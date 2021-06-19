@@ -1,8 +1,0 @@
-
-Ingresa	O
-tras	O
-agitación	O
-con	O
-ideas	O
-heteroagresivas	O
-.	O

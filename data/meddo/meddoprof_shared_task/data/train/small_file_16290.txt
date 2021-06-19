@@ -1,6 +1,0 @@
-
-Signo	O
-de	O
-Babinski	O
-bilateral	O
-.	O

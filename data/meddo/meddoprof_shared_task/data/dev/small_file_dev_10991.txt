@@ -1,8 +1,0 @@
-
-Palpación	O
-:	O
-No	O
-se	O
-palpa	O
-ganglios	O
-.	O

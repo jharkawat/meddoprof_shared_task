@@ -1,6 +1,0 @@
-
-RMN	O
-cerebro	O
-sin	O
-alteraciones	O
-.	O

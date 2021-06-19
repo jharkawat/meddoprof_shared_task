@@ -1,4 +1,0 @@
-
-Administrativo	B-PROFESION
-jubilado	B-SITUACION_LABORAL
-.	O

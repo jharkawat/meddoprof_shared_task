@@ -1,7 +1,0 @@
-
-Dejándose	O
-después	O
-perfusión	O
-de	O
-uroquinasa	O
-.	O

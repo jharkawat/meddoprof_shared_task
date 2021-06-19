@@ -1,7 +1,0 @@
-
-Estudio	O
-anatomopatológico	O
-de	O
-la	O
-pieza	O
-quirúrgica	O

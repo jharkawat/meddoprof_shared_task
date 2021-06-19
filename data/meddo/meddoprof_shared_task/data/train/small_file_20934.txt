@@ -1,9 +1,0 @@
-
-Lugar	O
-de	O
-Entrevista	O
-y	O
-Evaluación	O
-:	O
-Consultorio	O
-Particular	O

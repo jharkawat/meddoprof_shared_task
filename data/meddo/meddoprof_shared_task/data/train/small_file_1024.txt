@@ -1,8 +1,0 @@
-
-Domicilio	O
-:	O
-Calle	O
-Gamazo	O
-,	O
-16	O
-.	O

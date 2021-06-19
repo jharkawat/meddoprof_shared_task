@@ -1,7 +1,0 @@
-
-Serie	O
-blanca	O
-y	O
-plaquetaria	O
-normal	O
-.	O

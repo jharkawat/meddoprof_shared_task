@@ -1,5 +1,0 @@
-
-Síndrome	O
-psicótico	O
-agudo	O
-.	O

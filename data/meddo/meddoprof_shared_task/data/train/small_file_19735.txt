@@ -1,8 +1,0 @@
-
-BOCA	O
-Y	O
-FARINGE	O
-:	O
-sin	O
-historia	O
-.	O

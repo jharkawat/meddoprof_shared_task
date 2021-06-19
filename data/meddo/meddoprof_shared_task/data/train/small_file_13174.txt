@@ -1,7 +1,0 @@
-
-Empleada	B-PROFESION
-en	I-PROFESION
-empresa	I-PROFESION
-de	I-PROFESION
-limpieza	I-PROFESION
-.	O

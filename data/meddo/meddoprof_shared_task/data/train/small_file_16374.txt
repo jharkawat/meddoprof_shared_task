@@ -1,7 +1,0 @@
-
-Pronación	O
-del	O
-miembro	O
-superior	O
-derecho	O
-.	O

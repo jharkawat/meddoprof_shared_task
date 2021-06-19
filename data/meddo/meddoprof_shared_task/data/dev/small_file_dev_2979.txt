@@ -1,8 +1,0 @@
-
-NIC	O
-:	O
-enseñanza	O
-:	O
-medicamentos	O
-prescritos	O
-.	O

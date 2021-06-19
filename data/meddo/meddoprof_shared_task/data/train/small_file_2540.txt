@@ -1,5 +1,0 @@
-
-SÍNDROME	O
-AVE	O
--	O
-HUEVO	O

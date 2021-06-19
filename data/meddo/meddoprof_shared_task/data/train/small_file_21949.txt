@@ -1,6 +1,0 @@
-
-Su	O
-marido	O
-es	O
-médico	B-PROFESION
-.	O

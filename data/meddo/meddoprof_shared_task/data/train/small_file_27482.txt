@@ -1,5 +1,0 @@
-
-Neonatología	O
-sin	O
-patología	O
-.	O

@@ -1,9 +1,0 @@
-
-La	O
-TAC	O
-craneal	O
-no	O
-dio	O
-resultados	O
-relevantes	O
-.	O

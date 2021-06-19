@@ -1,8 +1,0 @@
-
-Episodio	O
-actual	O
-maníaco	O
-con	O
-síntomas	O
-psicóticos	O
-.	O

@@ -1,6 +1,0 @@
-
-Lenguaje	O
-acelerado	O
-,	O
-entrecortado	O
-.	O

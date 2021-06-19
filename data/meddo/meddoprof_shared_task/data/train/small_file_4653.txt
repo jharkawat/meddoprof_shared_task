@@ -1,6 +1,0 @@
-
-No	O
-signos	O
-de	O
-repolarización	O
-.	O

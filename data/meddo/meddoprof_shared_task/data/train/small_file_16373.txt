@@ -1,6 +1,0 @@
-
-Pares	O
-craneales	O
-no	O
-afectados	O
-.	O

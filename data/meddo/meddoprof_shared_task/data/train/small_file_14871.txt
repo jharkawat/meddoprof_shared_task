@@ -1,4 +1,0 @@
-
-Pylori	O
-negativo	O
-.	O

@@ -1,4 +1,0 @@
-
-Motor	O
-normal	O
-.	O

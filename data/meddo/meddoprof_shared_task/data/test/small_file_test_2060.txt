@@ -1,8 +1,0 @@
-
-RMN	O
-craneal	O
-:	O
-sin	O
-hallazgos	O
-patológicos	O
-.	O

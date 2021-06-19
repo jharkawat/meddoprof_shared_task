@@ -1,8 +1,0 @@
-
-Eje	O
-I	O
-:	O
-Trastorno	O
-esquizoafectivo	O
-tipo	O
-bipolar	O

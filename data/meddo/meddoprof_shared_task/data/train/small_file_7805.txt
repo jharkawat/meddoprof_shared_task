@@ -1,9 +1,0 @@
-
-Lesiones	O
-que	O
-van	O
-emergiendo	O
-cada	O
-vez	O
-más	O
-.	O

@@ -1,9 +1,0 @@
-
-Ventrículo	O
-derecho	O
-no	O
-dilatado	O
-con	O
-función	O
-conservada	O
-.	O

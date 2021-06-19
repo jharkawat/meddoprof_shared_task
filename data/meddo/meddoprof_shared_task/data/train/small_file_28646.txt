@@ -1,8 +1,0 @@
-
-Su	O
-padre	O
-fallecido	O
-hace	O
-5	O
-años	O
-.	O

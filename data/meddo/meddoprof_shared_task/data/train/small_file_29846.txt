@@ -1,9 +1,0 @@
-
-EEG	O
-:	O
-trazado	O
-dentro	O
-de	O
-la	O
-normalidad	O
-.	O

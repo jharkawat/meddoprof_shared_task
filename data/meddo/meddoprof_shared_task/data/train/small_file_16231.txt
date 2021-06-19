@@ -1,6 +1,0 @@
-
-PCR	O
-para	O
-Listeria	O
-negativa	O
-.	O

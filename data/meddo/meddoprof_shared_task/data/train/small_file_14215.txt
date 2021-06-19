@@ -1,5 +1,0 @@
-
-Trabaja	O
-como	O
-camarera	B-PROFESION
-.	O

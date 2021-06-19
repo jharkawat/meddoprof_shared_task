@@ -1,9 +1,0 @@
-
-Fumador	O
-activo	O
-(	O
-IPA	O
-:	O
-35	O
-)	O
-.	O

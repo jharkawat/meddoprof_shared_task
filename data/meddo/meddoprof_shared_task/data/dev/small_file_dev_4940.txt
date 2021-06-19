@@ -1,9 +1,0 @@
-
-TAC	O
-toracoabdominal	O
-:	O
-No	O
-se	O
-visualizan	O
-adenopatías	O
-.	O

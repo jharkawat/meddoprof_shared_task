@@ -1,6 +1,0 @@
-
-Glasgow	O
-15	O
-/	O
-15	O
-.	O

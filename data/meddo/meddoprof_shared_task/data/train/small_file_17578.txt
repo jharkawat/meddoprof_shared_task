@@ -1,7 +1,0 @@
-
-Estudio	O
-sugestivo	O
-de	O
-miocardiopatía	O
-infiltrante	O
-.	O

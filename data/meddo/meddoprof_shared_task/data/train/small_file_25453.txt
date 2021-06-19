@@ -1,8 +1,0 @@
-
-No	O
-constan	O
-enfermedades	O
-de	O
-transmisión	O
-sexual	O
-.	O

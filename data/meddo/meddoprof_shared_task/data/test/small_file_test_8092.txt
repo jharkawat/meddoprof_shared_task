@@ -1,8 +1,0 @@
-
-Glucosa	O
-:	O
-124	O
-mg	O
-/	O
-dl	O
-.	O

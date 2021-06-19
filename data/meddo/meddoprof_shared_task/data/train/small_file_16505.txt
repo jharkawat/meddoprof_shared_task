@@ -1,9 +1,0 @@
-
-Manejo	O
-empírico	O
-inicial	O
-con	O
-aciclovir	O
-y	O
-antiepilépticos	O
-.	O

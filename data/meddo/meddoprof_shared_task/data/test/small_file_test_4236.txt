@@ -1,6 +1,0 @@
-
-IgG	O
--	O
-CMV	O
-+	O
-.	O

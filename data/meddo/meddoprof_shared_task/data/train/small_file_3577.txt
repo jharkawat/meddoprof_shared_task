@@ -1,5 +1,0 @@
-
-Unidad	O
-familiar	O
-homoparental	O
-.	O

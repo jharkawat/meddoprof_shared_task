@@ -1,9 +1,0 @@
-
-Sin	O
-mejoría	O
-con	O
-corticoides	O
-y	O
-antivirales	O
-orales	O
-.	O

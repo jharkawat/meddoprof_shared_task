@@ -1,9 +1,0 @@
-
-Niega	O
-síncope	O
-,	O
-palpitaciones	O
-u	O
-otra	O
-sintomatología	O
-.	O

@@ -1,4 +1,0 @@
-
-Control	O
-TA	O
-.	O

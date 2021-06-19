@@ -1,9 +1,0 @@
-
-Paciente	O
-masculino	O
-de	O
-84	O
-años	O
-de	O
-edad	O
-.	O

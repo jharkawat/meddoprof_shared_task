@@ -1,5 +1,0 @@
-
-Laborales	B-PROFESION
-:	I-PROFESION
-textil	I-PROFESION
-.	O

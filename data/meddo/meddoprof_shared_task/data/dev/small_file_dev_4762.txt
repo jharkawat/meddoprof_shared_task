@@ -1,7 +1,0 @@
-
-Hematocrito	O
-44	O
-,	O
-5	O
-%	O
-.	O

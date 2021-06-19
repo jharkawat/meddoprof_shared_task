@@ -1,7 +1,0 @@
-
-Se	O
-diagnostica	O
-de	O
-dermatitis	O
-granulomatosa	O
-.	O

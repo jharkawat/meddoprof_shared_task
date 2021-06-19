@@ -1,7 +1,0 @@
-
-No	O
-hay	O
-signos	O
-de	O
-peritonismo	O
-.	O

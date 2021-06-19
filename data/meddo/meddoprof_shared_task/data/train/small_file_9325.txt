@@ -1,9 +1,0 @@
-
-Hematíes	O
-de	O
-50	O
-a	O
-100	O
-por	O
-campo	O
-.	O

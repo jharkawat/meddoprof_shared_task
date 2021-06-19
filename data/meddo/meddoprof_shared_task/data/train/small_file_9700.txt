@@ -1,8 +1,0 @@
-
-No	O
-otras	O
-antecedentes	O
-médicoquirúrgicos	O
-de	O
-interés	O
-.	O

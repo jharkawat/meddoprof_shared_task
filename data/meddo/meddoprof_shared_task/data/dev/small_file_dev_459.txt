@@ -1,7 +1,0 @@
-
-Empleo	O
-:	O
-Agente	B-PROFESION
-de	I-PROFESION
-seguros	I-PROFESION
-.	O

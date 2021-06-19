@@ -1,6 +1,0 @@
-
-Esfera	O
-cognitiva	O
-al	O
-ingreso	O
-:	O

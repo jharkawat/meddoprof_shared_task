@@ -1,8 +1,0 @@
-
-Edemas	O
-con	O
-fóvea	O
-hasta	O
-zonas	O
-pretibiales	O
-.	O

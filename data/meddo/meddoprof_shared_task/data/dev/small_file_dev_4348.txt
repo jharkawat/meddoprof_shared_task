@@ -1,4 +1,0 @@
-
-PPD	O
-negativa	O
-.	O

@@ -1,8 +1,0 @@
-
-Resto	O
-de	O
-anamnesis	O
-dirigida	O
-sin	O
-interés	O
-.	O

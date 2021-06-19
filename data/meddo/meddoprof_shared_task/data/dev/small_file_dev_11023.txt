@@ -1,9 +1,0 @@
-
-Maniobra	O
-de	O
-Barré	O
-(	O
--	O
-)	O
-negativa	O
-.	O

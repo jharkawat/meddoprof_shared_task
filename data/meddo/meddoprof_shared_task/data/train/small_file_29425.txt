@@ -1,5 +1,0 @@
-
-ECG	O
-:	O
-normal	O
-.	O

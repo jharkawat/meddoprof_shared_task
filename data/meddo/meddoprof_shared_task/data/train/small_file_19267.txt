@@ -1,6 +1,0 @@
-
-Trastorno	O
-por	O
-dependencia	O
-a	O
-cannabis	O

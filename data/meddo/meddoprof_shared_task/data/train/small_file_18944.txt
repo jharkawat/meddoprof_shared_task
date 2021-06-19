@@ -1,9 +1,0 @@
-
-El	O
-paciente	O
-se	O
-marcha	O
-de	O
-alta	O
-voluntaria	O
-.	O

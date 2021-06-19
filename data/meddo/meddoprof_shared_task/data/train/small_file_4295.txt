@@ -1,9 +1,0 @@
-
-Se	O
-explican	O
-signos	O
-de	O
-alarma	O
-de	O
-hiperglucemia	O
-.	O

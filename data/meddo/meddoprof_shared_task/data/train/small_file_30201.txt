@@ -1,5 +1,0 @@
-
-Ingresó	O
-en	O
-C	O
-.	O

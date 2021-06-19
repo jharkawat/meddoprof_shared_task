@@ -1,6 +1,0 @@
-
-Murphy	O
-y	O
-Blumberg	O
-negativos	O
-.	O

@@ -1,9 +1,0 @@
-
-Se	O
-interconsulta	O
-caso	O
-con	O
-UCI	O
-que	O
-realizan	O
-:	O

@@ -1,6 +1,0 @@
-
-II	O
-MOTIVO	O
-DE	O
-CONSULTA	O
-:	O

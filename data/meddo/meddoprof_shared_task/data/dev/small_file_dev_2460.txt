@@ -1,9 +1,0 @@
-
-No	O
-se	O
-introduce	O
-en	O
-ningún	O
-momento	O
-antibioterapia	O
-.	O

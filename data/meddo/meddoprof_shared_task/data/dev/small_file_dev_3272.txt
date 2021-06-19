@@ -1,9 +1,0 @@
-
-La	O
-familia	O
-decide	O
-no	O
-denunciar	O
-al	O
-paciente	O
-.	O

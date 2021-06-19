@@ -1,9 +1,0 @@
-
-Discurso	O
-parco	O
-,	O
-respuestas	O
-breves	O
-y	O
-retardadas	O
-.	O
