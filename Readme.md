@@ -1,13 +1,13 @@
 ## MEDDOPROF_SHAREDTASK
 The code for submission of Meddoprof_sharedtask 
 
-## Dependencies and setup
+## Dependencies
 
 | Dependency | Version | Installation Command |
 | ---------- | ------- | -------------------- |
 | Python     | 3.8     | `conda create --name covid_entities python=3.8` and `conda activate covid_entities` |
 | PyTorch, cudatoolkit    | 1.5.0, 10.1   | `conda install pytorch==1.5.0 cudatoolkit=10.1 -c pytorch` |
-| Transformers (Huggingface) | 2.9.0 | `pip install transformers==2.9.0` |
+| Transformers:hugs: (Huggingface) | 2.9.0 | `pip install transformers==2.9.0` |
 | Scikit-learn | 0.23.1 | `pip install scikit-learn==0.23.1` |
 | scipy        | 1.5.0  | `pip install scipy==1.5.0` |
 | NLTK    | 3.5  | `pip install nltk==3.5` |
@@ -25,47 +25,47 @@ The code for submission of Meddoprof_sharedtask
 ```pip install scipy==1.5.0```
 - ekphrasis 0.5.1
 ```pip install nltk==3.5```
-
 -->
 
-## Environment setup
+## Environment Setup
 ```
 conda env create -f env.yml
 ```
-## Dir Structure
 
-- data (contains data and preprocessing scripts; for more details ./data/README.md)
-- build_dataset_tags.py (use to generate {test/train/Val}.bio files from conll files) 
-- data_loader.py (customized dataloader for token level classification)
-- train.py (contain code for training loop and validation)
-- metrics.py (contains metrics implemenatation)
-- utils.py (utility function like logging and running avgerage implementation)
-- SeqenceTagger.py (model (forward and backward passes) implementation of pytorch)
-- evaluate.py (evaluation loop for Valid and Test set)
-- inference.py (scipt to run during inference time; provide output in txt )
+## Directory  Structure
+
+- **data/** (contains data and preprocessing scripts; for more details ./data/README.md)
+- **build_dataset_tags.py** (use to generate {test/train/Val}.bio files from conll files) 
+- **data_loader.py** (customized dataloader for token level classification)
+- **train.py** (contain code for training loop and validation)
+- **metrics.py** (contains metrics implemenatation)
+- **utils.py** (utility function like logging and running avgerage implementation)
+- **SeqenceTagger.py** (model (forward and backward passes) implementation of pytorch)
+- **evaluate.py** (evaluation loop for Valid and Test set)
+- **inference.py** (scipt to run during inference time; provide output in txt )
 
 ## Preprocessing Instruction
-- Get the data in conll format you can creat the {test/train/Val}_bio files in the data folder (more detail refer ./data/README.md)
-- run ```python build_dataset_tags.py ```
-    This will generate train, test and Val folder inside ```data/{dataset_name}/{train, test, Val}```
-- Scripts for conll-standoff conversion ```data\meddo\meddoprof_shared_task\conllandstandoff_convertor```
+1. Create the {test/train/Val}_bio files in the ```./data``` containing dataset in conll format  (more detail refer ```./data/README.md```)
+2. run ```python build_dataset_tags.py ```  
+    This will generate ```./train```, ```./test``` and ```./Val folder``` inside ```data/{dataset_name}/{train, test, Val}```
+3. Scripts for conll-standoff conversion ```data\meddo\meddoprof_shared_task\conllandstandoff_convertor```
 
 ## Training Instruction
-- download pretrained model form [link](https://github.com/jharkawat/meddoprof_shared_task/releases/download/v0.1/meddo.zip)
+1. download pretrained model form [link](https://github.com/jharkawat/meddoprof_shared_task/releases/download/v0.1/meddo.zip)
  ```mkdir expeirments``` and unzip file inside it
 
-- For Training the model:
+2. For Training the model:
 Input files from data/{dataset_name}/{train, test, Val}
     ``` python train.py```
 
-- To get the output for submission:
+3. To get the output for submission:
 This script takes the sentences from (./data/{dataset_name}/interactive/sentences/.) and write ouput in ./output_data (Berts output)
 
     ```python inference.py```
 
-### Post processing Instruction 
+## Post-Processing Instruction 
 The post processing is done as per the submission requirement of [sharetask]()
-- use submit_format_generator.ipynb for generting conll formate
+- use ```submit_format_generator.ipynb``` for generting conll formate
 
 ## License
 MIT
