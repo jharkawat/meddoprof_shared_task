@@ -1,6 +1,6 @@
-T1	PROFESION 32 78	trabajo en una empresa del sector de la banca,
-T2	PROFESION 391 421	directora de oficina bancaria.
-T3	PROFESION 702 729	administrativo de sucursal.
+T1	PROFESION 32 77	trabajo en una empresa del sector de la banca
+T2	PROFESION 391 420	directora de oficina bancaria
+T3	PROFESION 702 728	administrativo de sucursal
 T4	SITUACION_LABORAL 998 1006	empleada
-T5	PROFESION 1157 1185	médico de Atención Primaria.
+T5	PROFESION 1157 1184	médico de Atención Primaria
 T6	SITUACION_LABORAL 1436 1444	empleada

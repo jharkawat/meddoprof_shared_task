@@ -1,20 +1,20 @@
 T1	PROFESION 195 209	Administradora
-T2	PROFESION 996 1025	profesor de educación física,
+T2	PROFESION 996 1024	profesor de educación física
 T3	SITUACION_LABORAL 1713 1734	compañeros de colegio
-T4	PROFESION 2267 2308	Comienza a trabajar en una fotocopiadora,
-T5	ACTIVIDAD 6911 6924	con su primo;
+T4	PROFESION 2267 2307	Comienza a trabajar en una fotocopiadora
+T5	ACTIVIDAD 6911 6923	con su primo
 T6	PROFESION 9100 9115	personal médico
 T7	PROFESION 9118 9131	de enfermería
 T8	PROFESION 9484 9491	médicos
 T9	SITUACION_LABORAL 12260 12263	sus
 T10	PROFESION 12356 12380	bachiller en humanidades
-T11	PROFESION 12503 12513	ejecutivo,
+T11	PROFESION 12503 12512	ejecutivo
 T12	SITUACION_LABORAL 12594 12603	Inicia su
 T13	PROFESION 12604 12621	actividad laboral
 T14	PROFESION 12647 12667	en una fotocopiadora
 T15	PROFESION 12703 12740	trabaja en un laboratorio fotográfico
-T16	PROFESION 12824 12883	desempeña funciones de administración en una fotocopiadora.
+T16	PROFESION 12824 12882	desempeña funciones de administración en una fotocopiadora
 T17	PROFESION 14002 14010	pastores
 T18	PROFESION 14456 14464	rentista
 T19	SITUACION_LABORAL 14465 14473	jubilado
-T20	PROFESION 14474 14501	de una fábrica de fósforos.
+T20	PROFESION 14474 14500	de una fábrica de fósforos
