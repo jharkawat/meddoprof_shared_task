@@ -1,7 +1,0 @@
-
-en	O
-una	O
-familia	O
-de	O
-acogida	O
-.	O

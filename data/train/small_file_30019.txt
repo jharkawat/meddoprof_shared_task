@@ -1,6 +1,0 @@
-
-Fractura	O
-conminuta	O
-calcáneo	O
-izquierdo	O
-.	O

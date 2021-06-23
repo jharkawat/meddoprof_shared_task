@@ -1,9 +1,0 @@
-
-Se	O
-realizaron	O
-ECO	O
-doppler	O
-y	O
-angio	O
-TAC	O
-.	O

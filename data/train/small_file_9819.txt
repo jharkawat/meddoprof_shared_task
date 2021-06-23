@@ -1,8 +1,0 @@
-
-No	O
-síntomas	O
-sugestivos	O
-de	O
-enfermedad	O
-sistémica	O
-.	O

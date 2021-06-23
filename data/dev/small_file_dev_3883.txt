@@ -1,8 +1,0 @@
-
--	O
-Trastorno	O
-depresivo	O
-con	O
-síntomas	O
-psicóticos	O
-.	O

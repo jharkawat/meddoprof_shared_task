@@ -1,5 +1,0 @@
-
-Adherencia	O
-al	O
-tratamiento	O
-.	O

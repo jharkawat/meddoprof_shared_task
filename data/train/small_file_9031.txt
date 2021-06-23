@@ -1,8 +1,0 @@
-
-Anemia	O
-y	O
-trastorno	O
-de	O
-la	O
-coagulación	O
-.	O

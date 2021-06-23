@@ -1,7 +1,0 @@
-
-Talla	O
-de	O
-ambos	O
-progenitores	O
-normal	O
-.	O

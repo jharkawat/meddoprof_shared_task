@@ -1,5 +1,0 @@
-
-Depedencia	O
-a	O
-THC	O
-.	O

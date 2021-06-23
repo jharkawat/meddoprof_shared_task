@@ -1,7 +1,0 @@
-
-1	O
-embarazo	O
-con	O
-parto	O
-normal	O
-.	O

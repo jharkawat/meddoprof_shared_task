@@ -1,8 +1,0 @@
-
-Proteína	O
-C	O
-reactiva	O
-4	O
-.	O
-9	O
-.	O

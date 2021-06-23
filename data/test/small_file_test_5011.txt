@@ -1,9 +1,0 @@
-
-Buen	O
-control	O
-del	O
-dolor	O
-con	O
-analgesia	O
-pautada	O
-.	O

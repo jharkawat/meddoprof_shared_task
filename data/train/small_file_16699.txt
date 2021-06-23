@@ -1,7 +1,0 @@
-
-Arteria	O
-oftálmica	O
-derecha	O
-no	O
-invertida	O
-.	O

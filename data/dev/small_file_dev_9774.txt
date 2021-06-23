@@ -1,8 +1,0 @@
-
-Tía	O
-materna	O
-con	O
-posible	O
-psicosis	O
-injertada	O
-.	O

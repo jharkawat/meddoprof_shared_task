@@ -1,6 +1,0 @@
-
-PESO	O
-:	O
-46	O
-kg	O
-.	O

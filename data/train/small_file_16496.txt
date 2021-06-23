@@ -1,9 +1,0 @@
-
-Las	O
-lesiones	O
-presentan	O
-restricción	O
-a	O
-la	O
-difusión	O
-.	O

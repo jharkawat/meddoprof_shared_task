@@ -1,7 +1,0 @@
-
-No	O
-refiere	O
-antecedentes	O
-familiares	O
-destacables	O
-.	O

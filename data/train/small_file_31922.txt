@@ -1,7 +1,0 @@
-
-Patrón	O
-IV	O
-:	O
-Actividad	O
-/	O
-Ejercicio	O

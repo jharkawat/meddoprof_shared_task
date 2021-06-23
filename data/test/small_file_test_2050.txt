@@ -1,5 +1,0 @@
-
-Auscultación	O
-cardiopulmonar	O
-normal	O
-.	O

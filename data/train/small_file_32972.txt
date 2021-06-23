@@ -1,9 +1,0 @@
-
-En	O
-el	O
-momento	O
-del	O
-ingreso	O
-no	B-SITUACION_LABORAL
-trabajaba	I-SITUACION_LABORAL
-.	O

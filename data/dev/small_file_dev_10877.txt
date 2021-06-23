@@ -1,8 +1,0 @@
-
-Grado	O
-de	O
-Instrucción	O
-:	O
-Primario	O
-incompleto	O
-.	O

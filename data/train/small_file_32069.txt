@@ -1,7 +1,0 @@
-
-Medicación	O
-habitual	O
-,	O
-no	O
-referida	O
-.	O

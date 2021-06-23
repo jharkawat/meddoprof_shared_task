@@ -1,8 +1,0 @@
-
-Ha	O
-presentado	O
-lagrimeo	O
-ocular	O
-derecho	O
-ocasional	O
-.	O

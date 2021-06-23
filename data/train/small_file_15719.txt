@@ -1,8 +1,0 @@
-
-No	O
-refiere	O
-otros	O
-síntomas	O
-ni	O
-focalidad	O
-.	O

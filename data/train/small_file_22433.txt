@@ -1,8 +1,0 @@
-
-Sodio	O
-pretratamiento	O
-:	O
-129mEq	O
-/	O
-L	O
-.	O

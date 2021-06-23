@@ -1,7 +1,0 @@
-
-Respiración	O
-oral	O
-,	O
-paladar	O
-ojival	O
-.	O

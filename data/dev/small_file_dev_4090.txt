@@ -1,7 +1,0 @@
-
-Ocupación	O
-habitual	O
-ama	B-SITUACION_LABORAL
-de	I-SITUACION_LABORAL
-casa	I-SITUACION_LABORAL
-.	O

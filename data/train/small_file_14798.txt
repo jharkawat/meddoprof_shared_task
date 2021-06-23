@@ -1,8 +1,0 @@
-
-Still	O
-del	O
-adulto	O
-,	O
-artritis	O
-reumatoide	O
-.	O

@@ -1,6 +1,0 @@
-
-Nula	O
-en	O
-el	O
-laboral	O
-.	O

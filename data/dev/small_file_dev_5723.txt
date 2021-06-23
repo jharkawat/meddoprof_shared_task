@@ -1,5 +1,0 @@
-
-Tumor	O
-renal	O
-izquierdo	O
-.	O

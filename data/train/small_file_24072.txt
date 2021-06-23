@@ -1,7 +1,0 @@
-
-TAC	O
-y	O
-RMN	O
-cerebral	O
-normales	O
-.	O

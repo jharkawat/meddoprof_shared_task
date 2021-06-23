@@ -1,7 +1,0 @@
-
-MVC	O
-,	O
-no	O
-ruidos	O
-patológicos	O
-.	O

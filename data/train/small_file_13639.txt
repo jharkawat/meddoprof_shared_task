@@ -1,8 +1,0 @@
-
-No	O
-enfermedades	O
-relevantes	O
-ni	O
-hábitos	O
-tóxicos	O
-.	O

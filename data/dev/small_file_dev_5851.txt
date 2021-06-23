@@ -1,7 +1,0 @@
-
-de	O
-12	O
-ml	O
-/	O
-s	O
-.	O

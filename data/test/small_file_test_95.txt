@@ -1,5 +1,0 @@
-
-No	O
-se	O
-detectó	O
-:	O

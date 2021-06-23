@@ -1,6 +1,0 @@
-
-No	O
-refiere	O
-intervenciones	O
-quirúrgicas	O
-.	O

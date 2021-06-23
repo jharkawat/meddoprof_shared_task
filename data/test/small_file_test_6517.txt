@@ -1,8 +1,0 @@
-
-No	O
-tiene	O
-antecedente	O
-de	O
-transfusiones	O
-previas	O
-.	O

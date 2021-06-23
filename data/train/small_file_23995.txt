@@ -1,7 +1,0 @@
-
-Buena	O
-red	O
-de	O
-apoyo	O
-sociofamiliar	O
-.	O

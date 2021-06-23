@@ -1,8 +1,0 @@
-
-Es	O
-dado	O
-de	O
-alta	O
-por	O
-mejoría	O
-.	O

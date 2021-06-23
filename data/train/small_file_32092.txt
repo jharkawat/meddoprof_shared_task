@@ -1,7 +1,0 @@
-
-nEEG	O
-:	O
-sin	O
-actividad	O
-anómala	O
-.	O

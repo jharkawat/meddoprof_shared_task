@@ -1,5 +1,0 @@
-
-Faringe	O
-:	O
-normal	O
-.	O

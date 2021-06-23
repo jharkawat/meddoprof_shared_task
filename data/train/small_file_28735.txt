@@ -1,5 +1,0 @@
-
-Ansiedad	O
-basal	O
-aumentada	O
-.	O

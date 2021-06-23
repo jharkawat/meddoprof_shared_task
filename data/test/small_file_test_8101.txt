@@ -1,9 +1,0 @@
-
-Hipoventilación	O
-basal	O
-derecha	O
-sin	O
-ruidos	O
-patológicos	O
-añadidos	O
-.	O

@@ -1,7 +1,0 @@
-
-Ha	O
-precisado	O
-dos	O
-ingresos	O
-hospitalarios	O
-.	O

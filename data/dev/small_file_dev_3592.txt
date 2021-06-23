@@ -1,5 +1,0 @@
-
-Sentimientos	O
-de	O
-fracaso	O
-.	O

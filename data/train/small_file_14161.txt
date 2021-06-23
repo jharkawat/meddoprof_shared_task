@@ -1,6 +1,0 @@
-
-Lenguaje	O
-y	O
-marcha	O
-normal	O
-.	O

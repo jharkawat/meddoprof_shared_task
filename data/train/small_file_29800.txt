@@ -1,7 +1,0 @@
-
-Incapacidad	B-SITUACION_LABORAL
-laboral	I-SITUACION_LABORAL
-absoluta	I-SITUACION_LABORAL
-desde	O
-2010	O
-.	O

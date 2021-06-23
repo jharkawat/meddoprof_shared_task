@@ -1,8 +1,0 @@
-
-Se	O
-realizó	O
-ELISA	O
-para	O
-HIV	O
-negativo	O
-.	O

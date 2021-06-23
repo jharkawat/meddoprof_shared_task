@@ -1,6 +1,0 @@
-
-Estatus	O
-epiléptico	O
-no	O
-convulsivo	O
-.	O

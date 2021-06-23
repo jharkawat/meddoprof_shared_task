@@ -1,5 +1,0 @@
-
-Carcinoma	O
-anexial	O
-microquístico	O
-.	O

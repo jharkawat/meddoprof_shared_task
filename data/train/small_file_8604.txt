@@ -1,9 +1,0 @@
-
-Paciente	O
-mujer	O
-de	O
-66	O
-an	O
-̃	O
-os	O
-.	O

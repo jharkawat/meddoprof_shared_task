@@ -1,6 +1,0 @@
-
-Cultivo	O
-negativo	O
-para	O
-micobacterias	O
-.	O

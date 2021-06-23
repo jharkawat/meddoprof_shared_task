@@ -1,7 +1,0 @@
-
-de	O
-isoniazida	O
-y	O
-1500	O
-mgr	O
-.	O

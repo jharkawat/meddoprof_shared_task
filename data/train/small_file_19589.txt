@@ -1,7 +1,0 @@
-
-Tono	O
-muscular	O
-y	O
-fuerza	O
-normales	O
-.	O

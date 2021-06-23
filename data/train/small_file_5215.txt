@@ -1,9 +1,0 @@
-
-ICC	O
-crónica	O
-con	O
-FEV1	O
-preservada	O
-clase	O
-funcional	O
-II	O

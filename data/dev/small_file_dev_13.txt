@@ -1,8 +1,0 @@
-
-No	O
-se	O
-le	O
-conocen	O
-hábitos	O
-tóxicos	O
-.	O

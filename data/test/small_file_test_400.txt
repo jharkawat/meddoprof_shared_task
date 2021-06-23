@@ -1,9 +1,0 @@
-
-Nombre	O
-y	O
-Apellido	O
-:	O
-De	O
-la	O
-Cruz	O
-Torres	O

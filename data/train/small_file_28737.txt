@@ -1,6 +1,0 @@
-
-Sueño	O
-conservado	O
-con	O
-medicación	O
-.	O

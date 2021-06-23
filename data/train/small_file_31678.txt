@@ -1,8 +1,0 @@
-
-Hormonas	O
-tiroideas	O
-en	O
-límites	O
-de	O
-normalidad	O
-.	O

@@ -1,9 +1,0 @@
-
-Tenue	O
-lesión	O
-osteoblástica	O
-a	O
-nivel	O
-de	O
-D12	O
-.	O

@@ -1,9 +1,0 @@
-
-Hábito	O
-enólico	O
-intenso	O
-hasta	O
-hace	O
-7	O
-meses	O
-.	O

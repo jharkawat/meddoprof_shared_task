@@ -1,6 +1,0 @@
-
-Subpoblaciones	O
-linfocitarias	O
-totales	O
-2304	O
-.	O

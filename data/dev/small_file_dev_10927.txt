@@ -1,6 +1,0 @@
-
-Sin	O
-dados	O
-patológicos	O
-aparentes	O
-.	O

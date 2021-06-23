@@ -1,8 +1,0 @@
-
-EF	O
-:	O
-No	O
-abdomen	O
-en	O
-tabla	O
-.	O

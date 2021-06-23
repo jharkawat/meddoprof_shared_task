@@ -1,9 +1,0 @@
-
-Fuerza	O
-,	O
-tono	O
-y	O
-motilidad	O
-global	O
-normal	O
-.	O

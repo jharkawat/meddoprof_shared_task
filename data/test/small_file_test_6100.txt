@@ -1,9 +1,0 @@
-
-Adenocarcinoma	O
-poco	O
-diferenciado	O
-del	O
-seno	O
-maxilar	O
-cT4acN0	O
-.	O

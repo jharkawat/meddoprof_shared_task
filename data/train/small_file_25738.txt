@@ -1,9 +1,0 @@
-
-Académicamente	O
-llegó	O
-a	O
-finalizar	O
-sólo	O
-estudios	O
-primarios	O
-.	O

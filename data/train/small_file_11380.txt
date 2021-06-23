@@ -1,8 +1,0 @@
-
-Fumadora	O
-de	O
-10	O
-cig	O
-/	O
-día	O
-.	O

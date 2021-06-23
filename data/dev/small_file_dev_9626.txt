@@ -1,6 +1,0 @@
-
-Trastorno	O
-Generalizado	O
-del	O
-Desarrollo	O
-.	O

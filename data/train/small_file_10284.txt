@@ -1,6 +1,0 @@
-
-AMA	O
-Y	O
-ASMA	O
-negativos	O
-.	O

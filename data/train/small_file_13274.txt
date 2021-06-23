@@ -1,7 +1,0 @@
-
-Folato	O
-y	O
-Vitamina	O
-B12	O
-normal	O
-.	O

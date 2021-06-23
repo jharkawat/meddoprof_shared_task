@@ -1,9 +1,0 @@
-
-Fuerza	O
-en	O
-las	O
-extremidades	O
-5	O
-/	O
-5	O
-.	O

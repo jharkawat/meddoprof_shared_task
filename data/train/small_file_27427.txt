@@ -1,7 +1,0 @@
-
-Leucocitos	O
-4	O
-a	O
-6	O
-campo	O
-.	O

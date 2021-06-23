@@ -1,9 +1,0 @@
-
-Sin	O
-datos	O
-de	O
-alargamiento	O
-del	O
-intervalo	O
-QTc	O
-.	O

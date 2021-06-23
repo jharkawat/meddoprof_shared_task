@@ -1,5 +1,0 @@
-
-Facies	O
-poco	O
-expresiva	O
-.	O

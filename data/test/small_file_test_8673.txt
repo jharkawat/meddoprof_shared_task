@@ -1,9 +1,0 @@
-
-Poliposis	O
-colónica	O
-con	O
-resección	O
-de	O
-varios	O
-pólipos	O
-.	O

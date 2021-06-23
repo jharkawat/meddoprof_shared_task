@@ -1,9 +1,0 @@
-
-Se	O
-decide	O
-iniciar	O
-tratamiento	O
-con	O
-risperidona	O
-RILD	O
-.	O

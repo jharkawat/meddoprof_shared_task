@@ -1,5 +1,0 @@
-
-Enfermedad	O
-de	O
-Chagas	O
-.	O

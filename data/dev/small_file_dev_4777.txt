@@ -1,5 +1,0 @@
-
-Silueta	O
-cardiovascular	O
-normal	O
-.	O

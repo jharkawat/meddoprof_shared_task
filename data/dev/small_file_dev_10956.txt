@@ -1,6 +1,0 @@
-
-Mucosas	O
-se	O
-observan	O
-normales	O
-.	O

@@ -1,8 +1,0 @@
-
-Dermatosis	O
-pustular	O
-subcorneal	O
-de	O
-Sneddon	O
-Wilkinson	O
-.	O

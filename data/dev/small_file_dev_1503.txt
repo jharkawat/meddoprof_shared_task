@@ -1,8 +1,0 @@
-
-Discurso	O
-pobre	O
-,	O
-en	O
-ocasiones	O
-desorganizado	O
-.	O

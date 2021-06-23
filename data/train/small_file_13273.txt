@@ -1,5 +1,0 @@
-
-Serie	O
-plaquetar	O
-normal	O
-.	O

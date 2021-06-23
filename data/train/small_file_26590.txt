@@ -1,9 +1,0 @@
-
-En	O
-tratamiento	O
-psiquiátrico	O
-por	O
-ansiedad	O
-y	O
-depresión	O
-.	O

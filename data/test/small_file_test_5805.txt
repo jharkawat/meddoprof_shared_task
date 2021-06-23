@@ -1,8 +1,0 @@
-
-Casado	O
-y	O
-comercial	B-PROFESION
-de	I-PROFESION
-material	I-PROFESION
-electrónico	I-PROFESION
-.	O

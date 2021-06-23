@@ -1,7 +1,0 @@
-
-Sin	O
-pérdida	O
-de	O
-peso	O
-asociada	O
-.	O

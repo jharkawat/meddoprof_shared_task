@@ -1,5 +1,0 @@
-
-Sexo	O
-:	O
-Masculino	O
-.	O

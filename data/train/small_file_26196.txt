@@ -1,5 +1,0 @@
-
-Deformidad	O
-en	O
-manos	O
-.	O

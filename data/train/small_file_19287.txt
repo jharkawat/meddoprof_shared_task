@@ -1,8 +1,0 @@
-
-Embarazo	O
-N	O
-,	O
-parto	O
-x	O
-Cesárea	O
-	O

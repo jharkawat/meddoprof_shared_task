@@ -1,9 +1,0 @@
-
-Puntuación	O
-en	O
-la	O
-escala	O
-NIHSS	O
-0	O
-puntos	O
-.	O

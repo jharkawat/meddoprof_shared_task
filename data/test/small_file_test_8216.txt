@@ -1,9 +1,0 @@
-
-Trabaja	O
-como	O
-administrativa	B-PROFESION
-en	I-PROFESION
-una	I-PROFESION
-empresa	I-PROFESION
-familiar	O
-.	O

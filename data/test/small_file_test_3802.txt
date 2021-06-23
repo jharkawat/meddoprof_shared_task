@@ -1,8 +1,0 @@
-
-Nódulo	O
-subcutáneo	O
-en	O
-región	O
-inguinal	O
-derecha	O
-.	O

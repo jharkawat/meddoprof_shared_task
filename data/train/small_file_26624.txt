@@ -1,7 +1,0 @@
-
-No	O
-presenta	O
-signos	O
-de	O
-ansiedad	O
-.	O

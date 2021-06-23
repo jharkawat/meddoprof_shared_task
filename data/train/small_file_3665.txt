@@ -1,6 +1,0 @@
-
-Planteamos	O
-derivación	O
-al	O
-psicólogo	B-PROFESION
-.	O

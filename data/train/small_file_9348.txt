@@ -1,9 +1,0 @@
-
-IgM	O
-e	O
-IgG	O
-Parvovirus	O
-B19	O
-y	O
-Ac	O
-.	O

@@ -1,6 +1,0 @@
-
-Diabetes	O
-mellitus	O
-tipo	O
-lada	O
-.	O

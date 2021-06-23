@@ -1,8 +1,0 @@
-
-Desorientación	O
-y	O
-pérdida	O
-de	O
-memoria	O
-transitoria	O
-.	O

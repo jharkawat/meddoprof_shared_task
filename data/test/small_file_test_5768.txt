@@ -1,4 +1,0 @@
-
-CMV	O
-indetectable	O
-.	O

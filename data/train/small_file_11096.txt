@@ -1,7 +1,0 @@
-
-Anemia	O
-ferropénica	O
-estudiada	O
-por	O
-Digestivo	O
-.	O

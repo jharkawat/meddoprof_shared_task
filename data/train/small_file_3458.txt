@@ -1,6 +1,0 @@
-
-Tuberculosis	O
-en	O
-la	O
-infancia	O
-.	O

@@ -1,8 +1,0 @@
-
-Hemograma	O
-,	O
-bioquímica	O
-y	O
-electrocardiograma	O
-normales	O
-.	O

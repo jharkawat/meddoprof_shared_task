@@ -1,7 +1,0 @@
-
-Abdomen	O
-y	O
-miembros	O
-inferiores	O
-normales	O
-.	O

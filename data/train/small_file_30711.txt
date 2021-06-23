@@ -1,9 +1,0 @@
-
-Actitud	O
-suspicaz	O
-y	O
-desconfiada	O
-,	O
-parcialmente	O
-colaboradora	O
-.	O

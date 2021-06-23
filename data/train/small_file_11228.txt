@@ -1,8 +1,0 @@
-
-Alfa	O
-1	O
-antitripsina	O
-y	O
-ceruloplasmina	O
-normales	O
-.	O

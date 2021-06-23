@@ -1,4 +1,0 @@
-
-Ocupación	O
-:	O
-Comerciante	B-PROFESION

@@ -1,9 +1,0 @@
-
-Abdomen	O
-no	O
-doloroso	O
-,	O
-sin	O
-masas	O
-palpables	O
-.	O

@@ -1,5 +1,0 @@
-
-Ansiedad	O
-moderada	O
-flotante	O
-.	O

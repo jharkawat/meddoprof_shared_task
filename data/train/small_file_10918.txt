@@ -1,6 +1,0 @@
-
-Marcadores	O
-tumorales	O
-:	O
-negativos	O
-.	O

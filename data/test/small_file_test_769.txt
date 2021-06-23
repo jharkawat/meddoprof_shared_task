@@ -1,7 +1,0 @@
-
-Trabaja	B-PROFESION
-en	I-PROFESION
-una	I-PROFESION
-plantación	I-PROFESION
-agrícola	I-PROFESION
-.	O

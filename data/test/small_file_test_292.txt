@@ -1,7 +1,0 @@
-
-Extremidad	O
-inferior	O
-:	O
-95	O
-cm	O
-.	O

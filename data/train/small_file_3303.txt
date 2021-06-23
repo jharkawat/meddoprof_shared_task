@@ -1,8 +1,0 @@
-
-Síndrome	O
-poliadenopático	O
-por	O
-linfadenitis	O
-reactiva	O
-inespecífica	O
-.	O

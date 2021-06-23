@@ -1,8 +1,0 @@
-
-No	O
-suele	O
-dormir	O
-siestas	O
-entre	O
-semana	O
-.	O

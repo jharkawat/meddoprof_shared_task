@@ -1,9 +1,0 @@
-
-La	O
-madre	O
-refiere	O
-que	O
-no	O
-están	O
-separados	O
-.	O

@@ -1,7 +1,0 @@
-
-No	O
-ha	O
-recibido	O
-tratamientos	O
-previos	O
-.	O

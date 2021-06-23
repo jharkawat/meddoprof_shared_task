@@ -1,8 +1,0 @@
-
-Los	O
-urocultivo	O
-y	O
-hemocultivos	O
-fueron	O
-negativos	O
-.	O

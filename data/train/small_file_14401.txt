@@ -1,9 +1,0 @@
-
-Perforación	O
-timpánica	O
-de	O
-oído	O
-izquierdo	O
-por	O
-Buceo	O
-.	O

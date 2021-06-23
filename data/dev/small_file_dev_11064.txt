@@ -1,7 +1,0 @@
-
-Silueta	O
-cardiovascular	O
-:	O
-sin	O
-particularidad	O
-.	O

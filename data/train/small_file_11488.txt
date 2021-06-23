@@ -1,7 +1,0 @@
-
-Negaba	O
-fiebre	O
-u	O
-otros	O
-síntomas	O
-.	O

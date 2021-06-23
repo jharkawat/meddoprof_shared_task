@@ -1,9 +1,0 @@
-
--	O
-Hemograma	O
-:	O
-Hematíes	O
-4310000	O
-/	O
-mm3	O
-.	O

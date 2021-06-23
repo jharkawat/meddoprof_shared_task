@@ -1,8 +1,0 @@
-
-Rx	O
-de	O
-tórax	O
-:	O
-insuficiencia	O
-cardíaca	O
-.	O

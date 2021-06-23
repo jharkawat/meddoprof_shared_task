@@ -1,8 +1,0 @@
-
-Endoscopia	O
-:	O
-se	O
-inserta	O
-un	O
-tubo	O
-delgado	O

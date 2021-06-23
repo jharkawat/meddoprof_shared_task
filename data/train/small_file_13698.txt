@@ -1,7 +1,0 @@
-
-IMC	O
-19	O
-kg	O
-/	O
-m	O
-.	O

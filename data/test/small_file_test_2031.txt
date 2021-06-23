@@ -1,7 +1,0 @@
-
-Profesión	O
-:	O
-técnico	B-PROFESION
-de	I-PROFESION
-radiología	I-PROFESION
-.	O

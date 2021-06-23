@@ -1,6 +1,0 @@
-
-Análisis	O
-del	O
-motivo	O
-de	O
-consulta	O

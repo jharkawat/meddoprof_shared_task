@@ -1,6 +1,0 @@
-
-Negó	O
-que	O
-tomara	O
-drogas	O
-.	O

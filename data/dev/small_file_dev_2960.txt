@@ -1,9 +1,0 @@
-
-Eliminación	O
-:	O
-no	O
-incontinencia	O
-urinaria	O
-ni	O
-fecal	O
-.	O

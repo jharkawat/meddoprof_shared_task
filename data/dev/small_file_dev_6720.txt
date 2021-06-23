@@ -1,8 +1,0 @@
-
-El	O
-electrocardiograma	O
-muestra	O
-un	O
-ritmo	O
-sinusal	O
-.	O

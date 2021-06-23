@@ -1,7 +1,0 @@
-
-Niega	O
-fiebre	O
-o	O
-síntomas	O
-sistémicos	O
-.	O

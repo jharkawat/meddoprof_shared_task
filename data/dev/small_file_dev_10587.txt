@@ -1,9 +1,0 @@
-
-Enfermedades	O
-de	O
-la	O
-infancia	O
-:	O
-sarampión	O
-y	O
-varicela	O

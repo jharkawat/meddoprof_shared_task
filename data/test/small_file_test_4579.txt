@@ -1,5 +1,0 @@
-
-Hepatomegalia	O
-tumoral	O
-metastásica	O
-.	O

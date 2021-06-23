@@ -1,9 +1,0 @@
-
-Persiste	O
-dolor	O
-abdominal	O
-difuso	O
-de	O
-tipo	O
-cólico	O
-.	O

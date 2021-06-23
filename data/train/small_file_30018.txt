@@ -1,6 +1,0 @@
-
-Fractura	O
-luxación	O
-astrágalo	O
-izquierdo	O
-.	O

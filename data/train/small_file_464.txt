@@ -1,9 +1,0 @@
-
-En	O
-los	O
-controles	O
-ambulatorios	O
-posteriores	O
-estaba	O
-asintomático	O
-.	O

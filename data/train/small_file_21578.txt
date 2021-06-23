@@ -1,8 +1,0 @@
-
-Completó	O
-la	O
-menopausia	O
-hace	O
-un	O
-año	O
-.	O

@@ -1,8 +1,0 @@
-
-Dificultad	O
-en	O
-la	O
-articulación	O
-del	O
-lenguaje	O
-.	O

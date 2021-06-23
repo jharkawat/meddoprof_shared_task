@@ -1,8 +1,0 @@
-
-Diagnóstico	O
-:	O
-Romboencefalitis	O
-probablemente	O
-por	O
-LM	O
-.	O

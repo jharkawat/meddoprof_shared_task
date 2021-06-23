@@ -1,8 +1,0 @@
-
-Hiperactividad	O
-y	O
-retraso	O
-en	O
-el	O
-lenguaje	O
-.	O

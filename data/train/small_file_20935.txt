@@ -1,8 +1,0 @@
-
-Examinador	B-PROFESION
-:	O
-José	O
-Carlos	O
-Charca	O
-Padilla	O
-.	O

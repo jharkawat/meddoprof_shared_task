@@ -1,7 +1,0 @@
-
-Se	O
-prescriben	O
-ansiolíticos	O
-y	O
-antidepresivos	O
-.	O

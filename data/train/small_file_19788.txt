@@ -1,7 +1,0 @@
-
-Nivel	O
-económico	O
-medio	O
--	O
-alto	O
-.	O

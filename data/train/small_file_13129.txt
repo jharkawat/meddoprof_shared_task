@@ -1,7 +1,0 @@
-
-Angio	O
-TAC	O
-de	O
-aorta	O
-normal	O
-.	O

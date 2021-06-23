@@ -1,7 +1,0 @@
-
-No	O
-disnea	O
-en	O
-relación	O
-a	O
-esfuerzos	O

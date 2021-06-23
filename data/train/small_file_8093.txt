@@ -1,8 +1,0 @@
-
-Precisa	O
-traqueostomía	O
-(	O
-por	O
-traqueomalacia	O
-)	O
-.	O

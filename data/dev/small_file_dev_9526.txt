@@ -1,4 +1,0 @@
-
-Nacionalidad	O
-española	O
-.	O

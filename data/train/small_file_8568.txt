@@ -1,6 +1,0 @@
-
-Marcadores	O
-tumorales	O
-sin	O
-elevación	O
-.	O

@@ -1,5 +1,0 @@
-
-Contacto	O
-ocular	O
-esquivo	O
-.	O

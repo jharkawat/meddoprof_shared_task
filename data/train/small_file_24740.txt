@@ -1,6 +1,0 @@
-
-Impresión	O
-contratransferencial	O
-del	O
-examinador	B-PROFESION
-:	O

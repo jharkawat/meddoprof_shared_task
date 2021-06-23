@@ -1,5 +1,0 @@
-
-Abdomen	O
-sin	O
-peritonismo	O
-.	O

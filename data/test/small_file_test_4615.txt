@@ -1,7 +1,0 @@
-
-Hemograma	O
-y	O
-hemostasia	O
-sin	O
-hallazgos	O
-.	O

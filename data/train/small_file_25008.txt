@@ -1,8 +1,0 @@
-
-Niega	O
-cualquier	O
-otro	O
-consumo	O
-de	O
-tóxicos	O
-.	O

@@ -1,9 +1,0 @@
-
-Ausencia	O
-de	O
-bandas	O
-oligoclonales	O
-en	O
-el	O
-LCR	O
-.	O

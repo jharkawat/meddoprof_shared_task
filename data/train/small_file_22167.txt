@@ -1,8 +1,0 @@
-
-Estaba	O
-con	B-SITUACION_LABORAL
-permiso	I-SITUACION_LABORAL
-en	O
-su	O
-trabajo	O
-.	O

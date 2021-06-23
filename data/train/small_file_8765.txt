@@ -1,7 +1,0 @@
-
-IgG	O
-e	O
-IgM	O
-antiCardiolipina	O
-negativo	O
-.	O

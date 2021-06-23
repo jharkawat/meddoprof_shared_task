@@ -1,7 +1,0 @@
-
-Se	O
-refiere	O
-buen	O
-clima	O
-familiar	O
-.	O

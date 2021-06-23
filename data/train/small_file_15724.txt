@@ -1,7 +1,0 @@
-
-Temperatura	O
-36	O
-,	O
-9	O
-oC	O
-.	O

@@ -1,9 +1,0 @@
-
-No	O
-regresó	O
-para	O
-su	O
-tratamiento	O
-de	O
-control	O
-.	O

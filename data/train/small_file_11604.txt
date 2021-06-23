@@ -1,9 +1,0 @@
-
-A	O
-la	O
-exploración	O
-sólo	O
-presenta	O
-afasia	O
-mixta	O
-.	O

@@ -1,7 +1,0 @@
-
-Distracción	O
-ocasional	O
-durante	O
-la	O
-entrevista	O
-.	O

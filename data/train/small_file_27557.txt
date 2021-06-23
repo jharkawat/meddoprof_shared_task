@@ -1,8 +1,0 @@
-
-Ansiedad	O
-ideica	O
-leve	O
-,	O
-no	O
-somática	O
-.	O

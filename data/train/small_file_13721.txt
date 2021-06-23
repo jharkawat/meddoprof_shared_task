@@ -1,5 +1,0 @@
-
-ALFA1	O
-ANTITRIPSINA	O
-:	O
-normal	O

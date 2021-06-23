@@ -1,5 +1,0 @@
-
-Sin	O
-otros	O
-hallazgos	O
-.	O

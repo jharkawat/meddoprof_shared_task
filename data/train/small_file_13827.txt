@@ -1,8 +1,0 @@
-
-Auscultación	O
-cardiorrespiratoria	O
-y	O
-palpación	O
-abdominal	O
-normales	O
-.	O

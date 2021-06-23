@@ -1,8 +1,0 @@
-
-Trombo	O
-en	O
-la	O
-vena	O
-cava	O
-superior	O
-.	O

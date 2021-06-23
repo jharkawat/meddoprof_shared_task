@@ -1,8 +1,0 @@
-
-No	O
-tiene	O
-ideación	O
-auto	O
-ni	O
-heteroagresiva	O
-.	O

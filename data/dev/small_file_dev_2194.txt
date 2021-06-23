@@ -1,4 +1,0 @@
-
-CI	O
-normal	O
-.	O

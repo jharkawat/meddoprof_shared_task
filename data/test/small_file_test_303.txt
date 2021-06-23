@@ -1,7 +1,0 @@
-
-Segmento	O
-Inferior	O
-:	O
-83	O
-cm	O
-.	O

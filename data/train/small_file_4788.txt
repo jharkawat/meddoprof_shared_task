@@ -1,9 +1,0 @@
-
-Radiografía	O
-de	O
-tórax	O
-:	O
-índice	O
-cardiotorácico	O
-conservado	O
-.	O

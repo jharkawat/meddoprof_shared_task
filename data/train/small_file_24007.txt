@@ -1,7 +1,0 @@
-
-Psicosis	O
-orgánica	O
-postraumática	O
-F06	O
-.	O
-8	O

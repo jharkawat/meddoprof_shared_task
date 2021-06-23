@@ -1,8 +1,0 @@
-
-No	O
-se	O
-logran	O
-encontrar	O
-los	O
-proyectiles	O
-.	O

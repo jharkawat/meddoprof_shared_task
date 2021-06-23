@@ -1,6 +1,0 @@
-
-Clavulánico	O
-sin	O
-mejoría	O
-clínica	O
-.	O

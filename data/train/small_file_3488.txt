@@ -1,4 +1,0 @@
-
-Activo	B-SITUACION_LABORAL
-profesionalmente	I-SITUACION_LABORAL
-.	O

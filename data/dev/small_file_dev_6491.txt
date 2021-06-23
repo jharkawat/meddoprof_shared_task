@@ -1,6 +1,0 @@
-
-Antígeno	O
-Cryptococcus	O
-neoformans	O
-negativo	O
-.	O

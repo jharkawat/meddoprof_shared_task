@@ -1,6 +1,0 @@
-
-Datos	O
-clínicos	O
-de	O
-EPOC	O
-.	O

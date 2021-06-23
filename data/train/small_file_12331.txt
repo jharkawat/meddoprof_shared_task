@@ -1,7 +1,0 @@
-
-Resto	O
-de	O
-pares	O
-craneales	O
-centrados	O
-.	O

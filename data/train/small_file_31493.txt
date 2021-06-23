@@ -1,8 +1,0 @@
-
-Electroencefalograma	O
-:	O
-informe	O
-de	O
-neurofisiología	O
-clínica	O
-.	O

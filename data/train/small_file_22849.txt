@@ -1,9 +1,0 @@
-
-En	O
-la	O
-actualidad	O
-carecía	O
-de	O
-red	O
-social	O
-.	O

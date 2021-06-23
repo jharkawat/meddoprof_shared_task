@@ -1,8 +1,0 @@
-
-4oESO	B-SITUACION_LABORAL
-con	O
-muy	O
-buenos	O
-resultados	O
-académicos	O
-.	O

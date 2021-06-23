@@ -1,7 +1,0 @@
-
-No	O
-hay	O
-presencia	O
-de	O
-nistagmus	O
-.	O

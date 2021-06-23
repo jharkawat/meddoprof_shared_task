@@ -1,7 +1,0 @@
-
-AVE	O
-2	O
-:	O
-Enfermedad	O
-actual	O
-.	O

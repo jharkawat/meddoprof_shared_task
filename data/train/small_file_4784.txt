@@ -1,8 +1,0 @@
-
-Claudicación	O
-de	O
-ambos	O
-miembros	O
-en	O
-bipedestación	O
-.	O

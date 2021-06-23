@@ -1,6 +1,0 @@
-
-Alergias	O
-medicamentosas	O
-:	O
-aspirina	O
-.	O

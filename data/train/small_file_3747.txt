@@ -1,7 +1,0 @@
-
-No	O
-dolor	O
-torácico	O
-ni	O
-disnea	O
-.	O

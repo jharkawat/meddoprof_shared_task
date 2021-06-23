@@ -1,7 +1,0 @@
-
-Hemocultivos	O
-x2	O
-y	O
-urocultivo	O
-negativos	O
-.	O

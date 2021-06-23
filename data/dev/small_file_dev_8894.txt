@@ -1,9 +1,0 @@
-
-En	O
-TC	O
-abdominopélvico	O
-solo	O
-destaca	O
-hepatomegalia	O
-homogénea	O
-"	O

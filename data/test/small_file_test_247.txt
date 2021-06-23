@@ -1,9 +1,0 @@
-
-No	O
-ha	O
-padecido	O
-infecciones	O
-de	O
-vías	O
-urinarias	O
-.	O

@@ -1,8 +1,0 @@
-
-Ecocardiograma	O
-transtorácico	O
-sin	O
-signos	O
-de	O
-endocarditis	O
-.	O

@@ -1,9 +1,0 @@
-
-SPECT	O
-con	O
-Ioflupano	O
-I123	O
-(	O
-DaTscan	O
-)	O
-.	O

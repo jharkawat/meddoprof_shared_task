@@ -1,7 +1,0 @@
-
-No	O
-hay	O
-antecedentes	O
-familiares	O
-relevantes	O
-.	O

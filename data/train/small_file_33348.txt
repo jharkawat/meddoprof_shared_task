@@ -1,7 +1,0 @@
-
-00198	O
-Trastorno	O
-del	O
-patrón	O
-del	O
-sueño	O

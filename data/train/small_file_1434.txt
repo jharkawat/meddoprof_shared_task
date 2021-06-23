@@ -1,6 +1,0 @@
-
-Remitido	O
-por	O
-:	O
-Dra	B-PROFESION
-.	I-PROFESION

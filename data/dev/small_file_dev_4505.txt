@@ -1,6 +1,0 @@
-
-Ocupación	B-PROFESION
-:	I-PROFESION
-trabajo	I-PROFESION
-administrativo	I-PROFESION
-.	O

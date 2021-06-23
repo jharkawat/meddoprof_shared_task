@@ -1,9 +1,0 @@
-
-Buen	O
-aspecto	O
-y	O
-cuidado	O
-personal	O
-en	O
-general	O
-.	O

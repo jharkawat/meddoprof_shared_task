@@ -1,9 +1,0 @@
-
-Abdomen	O
-blando	O
-,	O
-sin	O
-organomegalias	O
-ni	O
-peritonismo	O
-.	O

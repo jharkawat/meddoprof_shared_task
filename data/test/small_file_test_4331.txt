@@ -1,6 +1,0 @@
-
-Espectro	O
-electroforético	O
-sérico	O
-normal	O
-.	O

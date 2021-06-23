@@ -1,7 +1,0 @@
-
-Ecocardiograma	O
-Doppler	O
-:	O
-No	O
-HTP	O
-.	O

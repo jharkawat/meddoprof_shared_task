@@ -1,5 +1,0 @@
-
-Barthel	O
-100	O
-puntos	O
-.	O

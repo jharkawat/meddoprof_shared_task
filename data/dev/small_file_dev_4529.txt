@@ -1,7 +1,0 @@
-
-Tomografía	O
-axial	O
-computada	O
-sin	O
-contraste	O
-.	O

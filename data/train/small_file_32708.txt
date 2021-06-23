@@ -1,6 +1,0 @@
-
-Posee	O
-estudios	B-SITUACION_LABORAL
-primarios	I-SITUACION_LABORAL
-incompletos	I-SITUACION_LABORAL
-.	O

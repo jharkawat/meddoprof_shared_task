@@ -1,5 +1,0 @@
-
-Extremidades	O
-inferiores	O
-normales	O
-.	O

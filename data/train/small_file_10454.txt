@@ -1,6 +1,0 @@
-
-Rx	O
-tórax	O
-:	O
-Normal	O
-.	O

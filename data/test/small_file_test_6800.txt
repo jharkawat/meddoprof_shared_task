@@ -1,9 +1,0 @@
-
-Hemograma	O
-:	O
-anemia	O
-leve	O
-normocítica	O
-y	O
-normocroma	O
-.	O

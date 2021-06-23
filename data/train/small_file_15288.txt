@@ -1,9 +1,0 @@
-
-Radiografía	O
-de	O
-tórax	O
-posterior	O
-al	O
-tratamiento	O
-farmacológico	O
-.	O

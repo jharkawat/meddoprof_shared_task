@@ -1,6 +1,0 @@
-
-Ocupación	O
-anterior	O
-:	O
-Tornero	B-PROFESION
-.	O

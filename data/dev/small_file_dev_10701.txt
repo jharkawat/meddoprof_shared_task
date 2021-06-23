@@ -1,8 +1,0 @@
-
-Tratamiento	O
-actual	O
-con	O
-enalapril	O
-y	O
-anticonceptivos	O
-.	O

@@ -1,9 +1,0 @@
-
-y	O
-se	O
-toma	O
-30	O
-minutos	O
-para	O
-ello	O
-.	O

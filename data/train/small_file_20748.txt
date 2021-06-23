@@ -1,9 +1,0 @@
-
-Radiografía	O
-de	O
-tórax	O
-:	O
-sin	O
-hallazgos	O
-significativos	O
-.	O

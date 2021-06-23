@@ -1,8 +1,0 @@
-
-Peso	O
-:	O
-34	O
-.	O
-5	O
-Kg	O
-.	O

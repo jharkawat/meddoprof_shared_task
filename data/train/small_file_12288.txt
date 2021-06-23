@@ -1,6 +1,0 @@
-
-Hilio	O
-derecho	O
-ligeramente	O
-congestivo	O
-.	O

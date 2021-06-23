@@ -1,6 +1,0 @@
-
-El	O
-EEG	O
-aparece	O
-normal	O
-.	O

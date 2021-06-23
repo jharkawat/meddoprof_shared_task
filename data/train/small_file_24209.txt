@@ -1,7 +1,0 @@
-
-Se	O
-casó	O
-con	O
-30	O
-años	O
-.	O

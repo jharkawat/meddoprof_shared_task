@@ -1,9 +1,0 @@
-
-TAC	O
-cerebral	O
-y	O
-EEG	O
-basal	O
-sin	O
-alteraciones	O
-.	O

@@ -1,7 +1,0 @@
-
-Sin	O
-adenopatías	O
-a	O
-ningún	O
-nivel	O
-.	O

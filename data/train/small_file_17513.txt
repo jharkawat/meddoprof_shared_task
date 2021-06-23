@@ -1,6 +1,0 @@
-
-Con	O
-lenguaje	O
-espontáneo	O
-fluido	O
-.	O

@@ -1,9 +1,0 @@
-
-Trastorno	O
-de	O
-angustia	O
-con	O
-agorafobia	O
-F40	O
-.	O
-01	O

@@ -1,7 +1,0 @@
-
-Trastorno	O
-de	O
-personalidad	O
-:	O
-Sin	O
-trastorno	O

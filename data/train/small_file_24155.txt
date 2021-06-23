@@ -1,9 +1,0 @@
-
-Orientado	O
-en	O
-tiempo	O
-,	O
-lugar	O
-y	O
-persona	O
-.	O

@@ -1,4 +1,0 @@
-
-Anamnesis	O
-por	O
-aparatos	O

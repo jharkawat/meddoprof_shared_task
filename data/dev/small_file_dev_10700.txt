@@ -1,5 +1,0 @@
-
-Trabaja	O
-como	O
-peluquera	B-PROFESION
-.	O

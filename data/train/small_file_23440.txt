@@ -1,6 +1,0 @@
-
-Respuesta	O
-cutaneoplantar	O
-flexor	O
-bilateral	O
-.	O

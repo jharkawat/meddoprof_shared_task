@@ -1,7 +1,0 @@
-
-Patrón	O
-7	O
-:	O
-Autopercepción	O
--	O
-Autoconcepto	O

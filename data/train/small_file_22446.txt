@@ -1,7 +1,0 @@
-
-Sin	O
-tratamiento	O
-tiazidico	O
-o	O
-ISRS	O
-.	O

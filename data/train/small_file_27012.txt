@@ -1,9 +1,0 @@
-
-Realiza	B-ACTIVIDAD
-actividades	I-ACTIVIDAD
-extraescolares	I-ACTIVIDAD
-de	I-ACTIVIDAD
-música	I-ACTIVIDAD
-y	I-ACTIVIDAD
-natación	I-ACTIVIDAD
-.	O

@@ -1,7 +1,0 @@
-
-Niega	O
-consumo	O
-de	O
-sustancias	O
-tóxicas	O
-.	O

@@ -1,8 +1,0 @@
-
-El	O
-ECG	O
-no	O
-mostró	O
-alteraciones	O
-relevantes	O
-.	O

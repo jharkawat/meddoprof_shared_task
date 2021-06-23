@@ -1,8 +1,0 @@
-
-Intervenida	O
-quirúrgicamente	O
-de	O
-fístula	O
-en	O
-sacro	O
-.	O

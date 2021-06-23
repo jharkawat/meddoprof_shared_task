@@ -1,8 +1,0 @@
-
-No	O
-muestra	O
-otros	O
-ruidos	O
-respiratorios	O
-sobreañadidos	O
-.	O

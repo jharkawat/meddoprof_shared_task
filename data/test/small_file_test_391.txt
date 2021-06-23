@@ -1,9 +1,0 @@
-
-Favorable	O
-para	O
-la	O
-vida	O
-y	O
-para	O
-la	O
-función	O

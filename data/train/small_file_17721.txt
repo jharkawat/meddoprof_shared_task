@@ -1,4 +1,0 @@
-
-Trabajador	B-PROFESION
-agrícola	I-PROFESION
-.	O

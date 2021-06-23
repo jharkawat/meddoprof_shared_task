@@ -1,9 +1,0 @@
-
-El	O
-paciente	O
-fue	O
-sometido	O
-a	O
-una	O
-biopsia	O
-.	O

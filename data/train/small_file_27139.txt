@@ -1,5 +1,0 @@
-
-Niega	O
-sintomatología	O
-depresiva	O
-.	O

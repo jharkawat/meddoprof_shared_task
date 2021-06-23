@@ -1,8 +1,0 @@
-
-Administrativa	B-PROFESION
-,	O
-jubilada	B-SITUACION_LABORAL
-desde	O
-el	O
-2014	O
-.	O

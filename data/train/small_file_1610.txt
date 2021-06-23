@@ -1,7 +1,0 @@
-
-Médico	B-PROFESION
-:	O
-Gabriel	O
-Maldonado	O
-Fonseca	O
-.	O

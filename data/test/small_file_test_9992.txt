@@ -1,9 +1,0 @@
-
-Tumor	O
-desmoplásico	O
-de	O
-células	O
-pequeñas	O
-y	O
-redondas	O
-.	O

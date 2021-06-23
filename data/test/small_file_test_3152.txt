@@ -1,7 +1,0 @@
-
-Mieloma	O
-Múltiple	O
-oligosecretor	O
-ISS	O
-I	O
-.	O

@@ -1,6 +1,0 @@
-
-Infestación	O
-por	O
-Taenia	O
-saginata	O
-.	O

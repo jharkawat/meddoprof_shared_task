@@ -1,8 +1,0 @@
-
-Mastectomía	O
-bilateral	O
-por	O
-cáncer	O
-de	O
-mama	O
-.	O

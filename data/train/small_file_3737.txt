@@ -1,8 +1,0 @@
-
-Sin	O
-antecedentes	O
-quirúrgicos	O
-ni	O
-hábitos	O
-tóxicos	O
-.	O

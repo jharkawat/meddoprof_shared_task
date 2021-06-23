@@ -1,5 +1,0 @@
-
-Hemograma	O
-con	O
-diferencial	O
-.	O

@@ -1,9 +1,0 @@
-
-Saturación	O
-basal	O
-de	O
-oxígeno	O
-:	O
-97	O
-%	O
-.	O

@@ -1,6 +1,0 @@
-
-Trabajador	B-PROFESION
-de	I-PROFESION
-la	I-PROFESION
-construcción	I-PROFESION
-.	O

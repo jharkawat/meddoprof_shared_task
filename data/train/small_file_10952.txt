@@ -1,7 +1,0 @@
-
-Sin	O
-adenopatías	O
-ni	O
-lesiones	O
-cutáneas	O
-.	O

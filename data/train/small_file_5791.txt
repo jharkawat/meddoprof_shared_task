@@ -1,6 +1,0 @@
-
-No	O
-otra	O
-clínica	O
-asociada	O
-.	O

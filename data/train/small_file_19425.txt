@@ -1,6 +1,0 @@
-
-Boca	O
-:	O
-Mucosa	O
-oralhúmeda	O
-.	O

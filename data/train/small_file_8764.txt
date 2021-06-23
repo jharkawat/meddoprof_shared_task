@@ -1,8 +1,0 @@
-
-ANA	O
-positivo	O
-1	O
-/	O
-320	O
-moteado	O
-.	O

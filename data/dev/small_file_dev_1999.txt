@@ -1,8 +1,0 @@
-
-Doble	O
-nacionalidad	O
-,	O
-francesa	O
-y	O
-española	O
-.	O

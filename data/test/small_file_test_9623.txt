@@ -1,6 +1,0 @@
-
-RM	O
-de	O
-rodilla	O
-izquierda	O
-.	O

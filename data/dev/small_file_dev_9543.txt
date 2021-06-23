@@ -1,9 +1,0 @@
-
-Escolarización	B-SITUACION_LABORAL
-:	I-SITUACION_LABORAL
-guardería	I-SITUACION_LABORAL
-a	O
-los	O
-2	O
-años	O
-.	O

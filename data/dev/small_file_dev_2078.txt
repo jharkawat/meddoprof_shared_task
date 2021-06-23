@@ -1,9 +1,0 @@
-
-Trastorno	O
-obsesivo	O
--	O
-compulsivo	O
-(	O
-TOC	O
-)	O
-.	O

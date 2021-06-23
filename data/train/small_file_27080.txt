@@ -1,8 +1,0 @@
-
-Migrañas	O
-intermitentes	O
-que	O
-ceden	O
-con	O
-ibuprofeno	O
-.	O

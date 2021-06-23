@@ -1,6 +1,0 @@
-
-Solicitada	O
-la	O
-incapacidad	O
-laboral	O
-.	O

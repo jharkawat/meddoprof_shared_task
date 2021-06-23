@@ -1,6 +1,0 @@
-
-Sus	O
-padres	O
-están	O
-separados	O
-.	O

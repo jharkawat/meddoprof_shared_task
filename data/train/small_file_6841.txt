@@ -1,9 +1,0 @@
-
-El	O
-paciente	O
-estaba	O
-hemodinámicamente	O
-estable	O
-y	O
-afebril	O
-.	O

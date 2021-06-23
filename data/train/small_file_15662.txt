@@ -1,6 +1,0 @@
-
-Resto	O
-del	O
-estudio	O
-normal	O
-.	O

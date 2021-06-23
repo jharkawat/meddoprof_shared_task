@@ -1,8 +1,0 @@
-
-Ojo	O
-derecho	O
-:	O
-déficit	O
-altitudinal	O
-superior	O
-.	O

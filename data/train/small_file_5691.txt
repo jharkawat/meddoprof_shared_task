@@ -1,9 +1,0 @@
-
-Anorexia	O
-nerviosa	O
-actualmente	O
-en	O
-fase	O
-de	O
-control	O
-.	O

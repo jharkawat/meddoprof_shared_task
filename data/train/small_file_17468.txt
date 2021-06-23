@@ -1,8 +1,0 @@
-
-Moderado	O
-aumento	O
-bilateral	O
-del	O
-umbral	O
-auditivo	O
-.	O

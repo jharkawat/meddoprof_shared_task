@@ -1,6 +1,0 @@
-
-En	O
-planta	O
-de	O
-Oncología	O
-Médica	O

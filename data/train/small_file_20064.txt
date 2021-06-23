@@ -1,6 +1,0 @@
-
-Hill	O
-se	O
-tranquilizó	O
-considerablemente	O
-.	O

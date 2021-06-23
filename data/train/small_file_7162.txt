@@ -1,5 +1,0 @@
-
-Granuloma	O
-de	O
-Majocchi	O
-.	O

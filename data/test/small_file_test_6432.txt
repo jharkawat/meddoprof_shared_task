@@ -1,6 +1,0 @@
-
-Categoría	O
-radiológica	O
-:	O
-5	O
-.	O

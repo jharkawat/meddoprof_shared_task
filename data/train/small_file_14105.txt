@@ -1,7 +1,0 @@
-
-PCR	O
-para	O
-Leishmania	O
-:	O
-negativa	O
-.	O

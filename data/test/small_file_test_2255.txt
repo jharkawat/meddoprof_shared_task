@@ -1,5 +1,0 @@
-
-Ocupación	O
-:	O
-Empresario	B-PROFESION
-.	O

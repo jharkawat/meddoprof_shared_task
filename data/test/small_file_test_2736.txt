@@ -1,6 +1,0 @@
-
-Lesión	O
-compatible	O
-con	O
-cordoma	O
-.	O

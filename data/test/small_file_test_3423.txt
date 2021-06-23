@@ -1,6 +1,0 @@
-
-Auscultación	O
-cardiorrespiratoria	O
-sin	O
-alteraciones	O
-.	O

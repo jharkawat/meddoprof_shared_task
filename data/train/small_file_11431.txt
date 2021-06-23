@@ -1,8 +1,0 @@
-
-No	O
-refiere	O
-otra	O
-sintomatología	O
-por	O
-aparatos	O
-.	O

@@ -1,7 +1,0 @@
-
-Con	O
-la	O
-sospecha	O
-de	O
-Sd	O
-.	O

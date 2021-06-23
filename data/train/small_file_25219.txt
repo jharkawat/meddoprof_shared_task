@@ -1,8 +1,0 @@
-
-No	O
-ha	O
-realizado	O
-ningún	O
-ingreso	O
-hospitalario	O
-.	O

@@ -1,6 +1,0 @@
-
-Convive	O
-con	O
-un	O
-pájaro	O
-.	O

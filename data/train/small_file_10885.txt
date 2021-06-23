@@ -1,9 +1,0 @@
-
-Extirpación	O
-de	O
-pilomatrixoma	O
-de	O
-pala	O
-ilíaca	O
-izquierda	O
-.	O

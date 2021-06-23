@@ -1,4 +1,0 @@
-
-Es	O
-bibliotecaria	B-PROFESION
-.	O

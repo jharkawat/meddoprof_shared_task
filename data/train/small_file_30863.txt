@@ -1,9 +1,0 @@
-
-Ganancia	O
-ponderal	O
-,	O
-clara	O
-obesidad	O
-y	O
-dislipemia	O
-.	O

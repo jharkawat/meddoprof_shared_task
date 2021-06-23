@@ -1,5 +1,0 @@
-
-Biopsia	O
-:	O
-adenocarcinoma	O
-.	O

@@ -1,7 +1,0 @@
-
-Sin	O
-otras	O
-intervenciones	O
-quirúrgicas	O
-conocidas	O
-.	O

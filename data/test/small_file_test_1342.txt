@@ -1,9 +1,0 @@
-
-Control	O
-de	O
-temperatura	O
-3	O
-veces	O
-al	O
-día	O
-.	O

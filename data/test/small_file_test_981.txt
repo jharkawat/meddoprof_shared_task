@@ -1,9 +1,0 @@
-
-Edad	O
-2	O
-:	O
-Su	O
-madre	O
-se	O
-electrocutó	O
-.	O

@@ -1,8 +1,0 @@
-
-Leve	O
-dismetría	O
-dedo	O
--	O
-nariz	O
-bilateral	O
-.	O

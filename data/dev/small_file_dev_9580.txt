@@ -1,6 +1,0 @@
-
-Comienza	O
-una	O
-relación	O
-sentimental	O
-.	O

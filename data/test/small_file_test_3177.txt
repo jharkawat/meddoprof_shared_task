@@ -1,7 +1,0 @@
-
-Compatible	O
-con	O
-neoplasia	O
-de	O
-mama	O
-.	O

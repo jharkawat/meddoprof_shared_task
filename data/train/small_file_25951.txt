@@ -1,6 +1,0 @@
-
-Electroencefalograma	O
-sin	O
-hallazgos	O
-destacados	O
-.	O

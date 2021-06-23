@@ -1,5 +1,0 @@
-
-Hablaba	O
-tres	O
-idiomas	O
-.	O

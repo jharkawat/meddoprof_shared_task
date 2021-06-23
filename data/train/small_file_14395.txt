@@ -1,4 +1,0 @@
-
-Profesión	O
-soldador	B-PROFESION
-.	O

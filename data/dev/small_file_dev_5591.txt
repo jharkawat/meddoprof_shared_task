@@ -1,6 +1,0 @@
-
-Rasgos	O
-paranoides	O
-de	O
-personalidad	O
-.	O

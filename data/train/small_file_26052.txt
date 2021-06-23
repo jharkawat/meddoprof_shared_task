@@ -1,9 +1,0 @@
-
-Ánimo	O
-inapropiado	O
-,	O
-con	O
-difícil	O
-sintonización	O
-afectiva	O
-.	O

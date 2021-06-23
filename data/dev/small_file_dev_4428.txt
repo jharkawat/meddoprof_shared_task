@@ -1,9 +1,0 @@
-
-Radiografía	O
-Tórax	O
-F	O
-y	O
-L	O
-:	O
-imagen	O
-1	O

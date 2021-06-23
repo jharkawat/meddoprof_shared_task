@@ -1,6 +1,0 @@
-
-Tumoración	O
-cervical	O
-y	O
-fiebre	O
-.	O

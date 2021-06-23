@@ -1,8 +1,0 @@
-
-Mantuvo	O
-lactancia	O
-mixta	O
-durante	O
-2	O
-meses	O
-.	O

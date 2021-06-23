@@ -1,6 +1,0 @@
-
-Continencia	O
-urinaria	O
-y	O
-fecal	O
-.	O

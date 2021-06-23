@@ -1,7 +1,0 @@
-
-Nódulo	O
-en	O
-la	O
-mama	O
-izquierda	O
-.	O

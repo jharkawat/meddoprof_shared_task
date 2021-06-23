@@ -1,6 +1,0 @@
-
-Seguro	O
-de	O
-Salud	O
-:	O
-MAPFRE	O

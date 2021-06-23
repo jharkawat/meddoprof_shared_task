@@ -1,7 +1,0 @@
-
-No	O
-se	O
-aprecia	O
-empeoramiento	O
-cognitivo	O
-.	O

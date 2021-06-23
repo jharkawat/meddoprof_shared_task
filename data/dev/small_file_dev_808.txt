@@ -1,7 +1,0 @@
-
-Abandono	O
-del	O
-consumo	O
-de	O
-anfetaminas	O
-.	O

@@ -1,6 +1,0 @@
-
-Informe	O
-clínico	O
-del	O
-paciente	O
-.	O

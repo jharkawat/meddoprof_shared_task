@@ -1,6 +1,0 @@
-
-Cultivo	O
-y	O
-serologías	O
-negativas	O
-.	O

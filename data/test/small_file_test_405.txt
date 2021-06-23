@@ -1,7 +1,0 @@
-
-Fecha	O
-y	O
-lugar	O
-nacimiento	O
-:	O
-Cajamarca	O

@@ -1,9 +1,0 @@
-
-El	O
-paciente	O
-fallece	O
-en	O
-Noviembre	O
-de	O
-2016	O
-.	O

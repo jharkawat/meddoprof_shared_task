@@ -1,4 +1,0 @@
-
-SEXO	O
-:	O
-FEMENINO	O

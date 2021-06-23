@@ -1,7 +1,0 @@
-
-Niega	O
-otra	O
-patología	O
-de	O
-interés	O
-.	O

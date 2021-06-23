@@ -1,4 +1,0 @@
-
-Romberg	O
-negativo	O
-.	O

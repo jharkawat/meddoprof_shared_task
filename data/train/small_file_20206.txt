@@ -1,6 +1,0 @@
-
-Era	O
-un	O
-bebedor	O
-social	O
-.	O

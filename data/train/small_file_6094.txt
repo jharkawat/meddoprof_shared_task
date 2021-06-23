@@ -1,8 +1,0 @@
-
--	O
-Mujer	O
-de	O
-92	O
-años	O
-muy	O
-dependiente	B-SITUACION_LABORAL

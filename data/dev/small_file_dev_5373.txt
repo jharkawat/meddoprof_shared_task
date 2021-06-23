@@ -1,7 +1,0 @@
-
-Recuento	O
-celular	O
-:	O
-Hematíes	O
-aislados	O
-.	O

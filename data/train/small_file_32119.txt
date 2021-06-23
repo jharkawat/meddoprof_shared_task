@@ -1,9 +1,0 @@
-
-Ingresa	O
-por	O
-heteroagresividad	O
-verbal	O
-contra	O
-la	O
-familia	O
-.	O

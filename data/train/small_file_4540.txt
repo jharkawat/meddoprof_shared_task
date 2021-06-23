@@ -1,8 +1,0 @@
-
--	O
-Enfermedad	O
-renal	O
-crónica	O
-estadío	O
-4	O
-.	O

@@ -1,8 +1,0 @@
-
-Receptores	O
-hormonales	O
-positivos	O
-y	O
-Herceptest	O
-negativo	O
-.	O

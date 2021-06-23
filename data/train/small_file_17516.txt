@@ -1,8 +1,0 @@
-
-Acalculia	O
-,	O
-confusión	O
-derecha	O
--	O
-izquierda	O
-.	O

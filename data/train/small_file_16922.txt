@@ -1,9 +1,0 @@
-
-Su	O
-medicación	O
-habitual	O
-era	O
-calcipotriol	O
-y	O
-betametasona	O
-.	O

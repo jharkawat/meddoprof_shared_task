@@ -1,7 +1,0 @@
-
-GOT	O
-44	O
-,	O
-GPT	O
-72	O
-.	O

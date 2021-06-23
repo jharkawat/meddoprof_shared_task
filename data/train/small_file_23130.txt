@@ -1,9 +1,0 @@
-
-Ingresa	O
-en	O
-la	O
-Unidad	O
-de	O
-Cuidados	O
-Intensivos	O
-.	O

@@ -1,7 +1,0 @@
-
-CIPA	O
-:	O
-nhc	O
--	O
-456125	O
-.	O

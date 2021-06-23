@@ -1,5 +1,0 @@
-
-Auscultación	O
-carotídea	O
-normal	O
-.	O

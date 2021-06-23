@@ -1,8 +1,0 @@
-
-Murmullo	O
-vesicular	O
-conservado	O
-son	O
-ruidos	O
-patológicos	O
-.	O

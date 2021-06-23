@@ -1,7 +1,0 @@
-
-Hamartoma	O
-hipotalámico	O
-con	O
-crisis	O
-gelásticas	O
-.	O

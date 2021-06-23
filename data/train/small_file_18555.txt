@@ -1,9 +1,0 @@
-
-Serología	O
-VHB	O
-positiva	O
-con	O
-carga	O
-viral	O
-negativa	O
-.	O

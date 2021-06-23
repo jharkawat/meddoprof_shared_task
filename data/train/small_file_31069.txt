@@ -1,5 +1,0 @@
-
-Escasa	O
-ingesta	O
-alimentaria	O
-.	O

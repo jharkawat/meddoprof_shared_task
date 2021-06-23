@@ -1,9 +1,0 @@
-
-Mejoró	O
-en	O
-cuadro	O
-depresivo	O
-y	O
-su	O
-impulsividad	O
-.	O

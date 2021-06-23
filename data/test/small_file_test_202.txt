@@ -1,9 +1,0 @@
-
-Nunca	O
-le	O
-han	O
-practicado	O
-ninguna	O
-intervención	O
-quirúrgica	O
-.	O

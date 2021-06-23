@@ -1,6 +1,0 @@
-
-No	O
-tratamiento	O
-farmacológico	O
-activo	O
-.	O

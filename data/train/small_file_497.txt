@@ -1,6 +1,0 @@
-
-Nombre	O
-:	O
-Juan	O
-Manuel	O
-.	O

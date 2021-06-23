@@ -1,6 +1,0 @@
-
-Su	O
-aspecto	O
-es	O
-cuidado	O
-.	O

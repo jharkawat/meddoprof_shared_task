@@ -1,9 +1,0 @@
-
-Solía	O
-pedir	O
-ayuda	O
-y	O
-buscó	O
-consejo	O
-médico	O
-.	O

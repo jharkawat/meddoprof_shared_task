@@ -1,8 +1,0 @@
-
-No	O
-se	O
-aprecia	O
-suspicacia	O
-ni	O
-autorreferencialidad	O
-.	O

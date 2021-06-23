@@ -1,7 +1,0 @@
-
-Su	O
-esposo	O
-se	O
-encuentra	O
-desempleado	B-SITUACION_LABORAL
-.	O

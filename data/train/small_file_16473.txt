@@ -1,6 +1,0 @@
-
-Cefalea	O
-en	O
-racimos	O
-episódica	O
-.	O

@@ -1,7 +1,0 @@
-
-La	O
-piel	O
-subyacente	O
-era	O
-normal	O
-.	O

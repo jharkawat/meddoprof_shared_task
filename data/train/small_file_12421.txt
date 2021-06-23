@@ -1,9 +1,0 @@
-
-Sin	O
-evidencia	O
-de	O
-masas	O
-ni	O
-infiltrados	O
-pulmonares	O
-.	O

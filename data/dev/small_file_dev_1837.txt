@@ -1,7 +1,0 @@
-
-Trabajó	B-PROFESION
-en	I-PROFESION
-hostelería	I-PROFESION
-hasta	O
-diciembre	O
-.	O

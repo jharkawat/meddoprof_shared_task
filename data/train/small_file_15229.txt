@@ -1,9 +1,0 @@
-
-Se	O
-solicita	O
-ecocardiografía	O
-transesofágica	O
-que	O
-descarta	O
-endocarditis	O
-.	O

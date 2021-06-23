@@ -1,9 +1,0 @@
-
-La	O
-biopsia	O
-de	O
-medula	O
-ósea	O
-mostraría	O
-fibrosis	O
-.	O

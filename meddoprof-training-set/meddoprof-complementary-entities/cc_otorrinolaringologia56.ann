@@ -1,8 +1,0 @@
-T1	PROCEDIMIENTO 129 156	otoscopia el oído izquierdo
-T2	PROCEDIMIENTO 268 279	audiometría
-T3	ORG_VIVO 0 14	Paciente mujer
-T4	ENFERMEDAD 30 50	hipoacusia bilateral
-T5	ENFERMEDAD 108 121	otitis medias
-T6	ENFERMEDAD 170 212	perforación total con otitis media crónica
-T7	ENFERMEDAD 235 263	perforación pequeña anterior
-T8	ENFERMEDAD 306 322	hipoacusia mixta

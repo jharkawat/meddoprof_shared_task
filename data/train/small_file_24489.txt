@@ -1,9 +1,0 @@
-
-No	O
-se	O
-le	O
-había	O
-conocido	O
-pareja	O
-sentimental	O
-.	O

@@ -1,9 +1,0 @@
-
-En	O
-ese	O
-momento	O
-acude	O
-a	O
-su	O
-USMC	O
-.	O

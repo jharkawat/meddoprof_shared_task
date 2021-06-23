@@ -1,7 +1,0 @@
-
-Comienza	O
-con	O
-disnea	O
-y	O
-sibilancias	O
-.	O

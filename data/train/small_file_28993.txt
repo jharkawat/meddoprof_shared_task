@@ -1,9 +1,0 @@
-
-Angustia	O
-en	O
-relación	O
-con	O
-sus	O
-contenidos	O
-delirantes	O
-.	O

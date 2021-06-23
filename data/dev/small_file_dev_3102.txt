@@ -1,8 +1,0 @@
-
-Auscultación	O
-cardio	O
--	O
-pulmonar	O
-:	O
-Normal	O
-.	O

@@ -1,7 +1,0 @@
-
-Émbolos	O
-tumorales	O
-en	O
-estructuras	O
-venosas	O
-.	O

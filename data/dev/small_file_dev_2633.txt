@@ -1,7 +1,0 @@
-
-Trastornos	O
-formales	O
-del	O
-pensamiento	O
-fluctuantes	O
-.	O

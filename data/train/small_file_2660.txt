@@ -1,8 +1,0 @@
-
-Gonalgia	O
-bilateral	O
-y	O
-rigidez	O
-de	O
-piernas	O
-.	O

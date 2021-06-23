@@ -1,9 +1,0 @@
-
-Se	O
-decide	O
-esperar	O
-una	O
-semana	O
-sin	O
-TEC	O
-.	O

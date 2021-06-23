@@ -1,9 +1,0 @@
-
-Otras	O
-causas	O
-parecen	O
-improbables	O
-ante	O
-estos	O
-hallazgos	O
-.	O

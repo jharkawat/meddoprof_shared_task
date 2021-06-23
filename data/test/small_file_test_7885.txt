@@ -1,7 +1,0 @@
-
-Peso	O
-43	O
-,	O
-7	O
-kg	O
-.	O

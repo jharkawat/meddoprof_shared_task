@@ -1,6 +1,0 @@
-
-Serología	O
-para	O
-autoanticuerpos	O
-negativa	O
-.	O

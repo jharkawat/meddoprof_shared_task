@@ -1,6 +1,0 @@
-
-Es	O
-ingeniero	B-PROFESION
-de	O
-profesión	O
-.	O

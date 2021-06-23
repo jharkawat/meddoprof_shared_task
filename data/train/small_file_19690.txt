@@ -1,6 +1,0 @@
-
-SEGURO	O
-SALUD	O
-:	O
-Adeslas	O
-.	O

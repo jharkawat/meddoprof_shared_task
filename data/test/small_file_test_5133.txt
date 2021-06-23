@@ -1,6 +1,0 @@
-
-No	O
-hay	O
-nuevos	O
-hallazgos	O
-.	O

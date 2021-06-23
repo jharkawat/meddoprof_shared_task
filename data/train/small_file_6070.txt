@@ -1,9 +1,0 @@
-
-Acompañado	O
-de	O
-sintomatología	O
-afectiva	O
-precipitada	O
-por	O
-el	O
-dolor	O

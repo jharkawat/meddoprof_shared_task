@@ -1,7 +1,0 @@
-
-Onda	O
-T	O
-negativa	O
-en	O
-III	O
-.	O

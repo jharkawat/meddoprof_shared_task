@@ -1,8 +1,0 @@
-
-Serología	O
-de	O
-Hepatitis	O
-y	O
-HIV	O
-negativo	O
-.	O

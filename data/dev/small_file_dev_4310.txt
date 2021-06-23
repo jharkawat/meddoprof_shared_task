@@ -1,7 +1,0 @@
-
-Hallazgos	O
-sugestivos	O
-de	O
-encefalitis	O
-viral	O
-.	O

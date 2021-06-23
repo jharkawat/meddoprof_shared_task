@@ -1,9 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-vive	O
-con	O
-sus	O
-padres	O
-.	O

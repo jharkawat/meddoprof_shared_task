@@ -1,9 +1,0 @@
-
-No	O
-consume	O
-ni	O
-ha	O
-consumido	O
-otros	O
-tóxicos	O
-.	O

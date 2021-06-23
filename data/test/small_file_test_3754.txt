@@ -1,8 +1,0 @@
-
-Tumor	O
-germinal	O
-no	O
-seminomatoso	O
-tipo	O
-coriocarcinoma	O
-.	O

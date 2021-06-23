@@ -1,8 +1,0 @@
-
-Servicio	O
-de	O
-Medicina	O
-del	O
-Aparato	O
-Digestivo	O
-.	O

@@ -1,7 +1,0 @@
-
-Tomó	O
-anticonceptivos	O
-orales	O
-durante	O
-años	O
-.	O

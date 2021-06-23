@@ -1,5 +1,0 @@
-
-Campos	O
-visuales	O
-normales	O
-.	O

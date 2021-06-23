@@ -1,6 +1,0 @@
-
-Perfil	O
-bioquímico	O
-sin	O
-alteraciones	O
-.	O

@@ -1,8 +1,0 @@
-
-Historia	O
-cardiológica	O
-previa	O
-:	O
-Cardiopatía	O
-isquémica	O
-.	O

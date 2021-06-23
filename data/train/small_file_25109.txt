@@ -1,6 +1,0 @@
-
-Infección	O
-del	O
-tracto	O
-urinario	O
-.	O

@@ -1,6 +1,0 @@
-
-VHC	O
-antiVHC	O
-:	O
-Negativo	O
-.	O

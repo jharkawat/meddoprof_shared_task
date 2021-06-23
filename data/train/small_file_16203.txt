@@ -1,7 +1,0 @@
-
-Los	O
-signos	O
-meníngeos	O
-fueron	O
-negativos	O
-.	O

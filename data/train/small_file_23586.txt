@@ -1,8 +1,0 @@
-
-Eje	O
-4	O
-:	O
-red	O
-social	O
-desestructurada	O
-.	O

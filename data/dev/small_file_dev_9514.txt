@@ -1,7 +1,0 @@
-
-Madre	O
-biológica	O
-:	O
-Trastorno	O
-Esquizoafectivo	O
-.	O

@@ -1,7 +1,0 @@
-
-Trombosis	O
-secundaria	O
-del	O
-seno	O
-sigmoideo	O
-.	O

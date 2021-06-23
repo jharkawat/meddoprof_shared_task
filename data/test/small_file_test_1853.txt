@@ -1,8 +1,0 @@
-
-Resto	O
-de	O
-órganos	O
-toracoabdominales	O
-sin	O
-alteraciones	O
-.	O

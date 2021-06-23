@@ -1,8 +1,0 @@
-
-Vómitos	O
-,	O
-diarrea	O
-y	O
-dolor	O
-abdominal	O
-.	O

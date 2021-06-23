@@ -1,9 +1,0 @@
-
-Murmullo	O
-vesicular	O
-conservado	O
-sin	O
-ruidos	O
-patológicos	O
-sobreañadidos	O
-.	O

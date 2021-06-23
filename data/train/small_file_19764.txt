@@ -1,7 +1,0 @@
-
-GENITALES	O
-EXTERNOS	O
-:	O
-no	O
-evaluados	O
-.	O

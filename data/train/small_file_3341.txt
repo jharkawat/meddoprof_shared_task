@@ -1,8 +1,0 @@
-
-Murmullo	O
-vesicular	O
-conservado	O
-sin	O
-ruidos	O
-añadidos	O
-.	O

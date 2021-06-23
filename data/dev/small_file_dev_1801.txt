@@ -1,7 +1,0 @@
-
-AAAA	O
-extracampinas	O
-comentatorias	O
-e	O
-imperativas	O
-.	O

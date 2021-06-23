@@ -1,6 +1,0 @@
-
-Pliegue	O
-palmar	O
-único	O
-bilateral	O
-.	O

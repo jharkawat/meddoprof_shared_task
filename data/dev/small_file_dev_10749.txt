@@ -1,8 +1,0 @@
-
-Fue	O
-tratada	O
-mediante	O
-cirugía	O
-y	O
-quimioterapia	O
-.	O

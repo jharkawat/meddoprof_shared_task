@@ -1,9 +1,0 @@
-
-EDAD	O
-:	O
-17	O
-años	O
-y	O
-11	O
-meses	O
-.	O

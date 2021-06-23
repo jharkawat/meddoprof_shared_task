@@ -1,9 +1,0 @@
-
-Balance	O
-motor	O
-en	O
-MMSS	O
-conservado	O
-y	O
-simétrico	O
-.	O

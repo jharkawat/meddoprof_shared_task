@@ -1,5 +1,0 @@
-
-Líquido	O
-libre	O
-intrabdominal	O
-.	O

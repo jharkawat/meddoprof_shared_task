@@ -1,9 +1,0 @@
-
-Auscultación	O
-cardiopulmonar	O
-y	O
-exploración	O
-abdominal	O
-sin	O
-hallazgos	O
-.	O

@@ -1,6 +1,0 @@
-
-Lactato	O
-0	O
-.	O
-81	O
-.	O

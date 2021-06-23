@@ -1,9 +1,0 @@
-
-Esta	O
-situación	O
-supone	O
-un	O
-gran	O
-estrés	O
-familiar	O
-.	O

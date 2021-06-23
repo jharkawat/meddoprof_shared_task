@@ -1,7 +1,0 @@
-
-Auscultación	O
-cardiopulmonar	O
-sin	O
-hallazgos	O
-patológicos	O
-.	O

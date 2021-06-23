@@ -1,6 +1,0 @@
-
-Contacto	O
-ocular	O
-excesivamente	O
-aumentado	O
-.	O

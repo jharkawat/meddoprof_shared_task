@@ -1,5 +1,0 @@
-
-Profesión	O
-:	O
-Cocinera	B-PROFESION
-.	O

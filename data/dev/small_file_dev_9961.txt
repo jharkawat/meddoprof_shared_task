@@ -1,7 +1,0 @@
-
-Colesterol	O
-LDL	O
-fuera	O
-de	O
-objetivo	O
-.	O

@@ -1,9 +1,0 @@
-
-Vive	O
-con	O
-ambos	O
-progenitores	O
-y	O
-su	O
-hermana	O
-.	O

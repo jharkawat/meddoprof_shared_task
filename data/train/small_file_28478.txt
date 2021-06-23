@@ -1,8 +1,0 @@
-
-Tiene	O
-alergia	O
-respiratoria	O
-a	O
-los	O
-ácaros	O
-.	O

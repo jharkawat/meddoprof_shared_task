@@ -1,9 +1,0 @@
-
-Insuficiencia	O
-cardiaca	O
-grado	O
-II	O
-de	O
-la	O
-NYHA	O
-.	O

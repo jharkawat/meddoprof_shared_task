@@ -1,7 +1,0 @@
-
-Hallazgos	O
-en	O
-relación	O
-con	O
-cavernoma	O
-.	O

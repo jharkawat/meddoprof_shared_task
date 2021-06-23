@@ -1,7 +1,0 @@
-
-Fibrilación	O
-auricular	O
-anticoagulada	O
-con	O
-acenocumarol	O
-.	O

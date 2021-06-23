@@ -1,4 +1,0 @@
-
-Ocupacion	O
-:	O
-Pensionado	B-SITUACION_LABORAL

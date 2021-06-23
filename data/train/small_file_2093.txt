@@ -1,6 +1,0 @@
-
-Nombre	O
-:	O
-Andres	O
-Manuel	O
-.	O

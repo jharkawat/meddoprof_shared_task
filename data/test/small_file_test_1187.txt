@@ -1,7 +1,0 @@
-
-Es	O
-enfermera	B-PROFESION
-de	O
-nuestro	O
-centro	O
-.	O

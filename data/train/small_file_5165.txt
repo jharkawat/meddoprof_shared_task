@@ -1,8 +1,0 @@
-
-Mantienen	O
-doble	O
-antiagregacion	O
-durante	O
-un	O
-año	O
-.	O

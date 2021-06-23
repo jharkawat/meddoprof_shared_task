@@ -1,9 +1,0 @@
-
-También	O
-acude	O
-a	O
-psicoterapia	O
-con	O
-una	O
-psicóloga	B-PROFESION
-.	O

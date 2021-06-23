@@ -1,9 +1,0 @@
-
-No	O
-nos	O
-dijo	O
-otra	O
-cosa	O
-durante	O
-semanas	O
-.	O

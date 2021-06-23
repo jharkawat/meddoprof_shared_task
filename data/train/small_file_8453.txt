@@ -1,9 +1,0 @@
-
-Hormonas	O
-:	O
-Cortisol	O
-basal	O
-,	O
-PTHi	O
-normales	O
-.	O

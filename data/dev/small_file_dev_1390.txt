@@ -1,8 +1,0 @@
-
-Expresión	O
-verbal	O
-y	O
-lenguaje	O
-:	O
-Normal	O
-.	O

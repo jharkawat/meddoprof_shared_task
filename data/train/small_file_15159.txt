@@ -1,7 +1,0 @@
-
-Anisocitosis	O
-,	O
-codocitos	O
-,	O
-eliptocitos	O
-.	O

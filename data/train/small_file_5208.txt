@@ -1,7 +1,0 @@
-
-Indice	O
-Barthel	O
-:	O
-puntuación	O
-70	O
-.	O

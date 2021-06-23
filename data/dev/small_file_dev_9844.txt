@@ -1,8 +1,0 @@
-
-Familiares	O
-:	O
-No	O
-enfermedades	O
-en	O
-la	O
-familia	O

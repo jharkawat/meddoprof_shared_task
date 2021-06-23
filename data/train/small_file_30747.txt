@@ -1,6 +1,0 @@
-
-Bebedor	O
-social	O
-de	O
-alcohol	O
-.	O

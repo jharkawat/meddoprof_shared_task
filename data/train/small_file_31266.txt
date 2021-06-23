@@ -1,7 +1,0 @@
-
-Antecedentes	O
-personales	O
-patológicos	O
-:	O
-Negados	O
-.	O

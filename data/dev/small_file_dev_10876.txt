@@ -1,7 +1,0 @@
-
-Residencia	O
-Anterior	O
-:	O
-Villa	O
-Luro	O
-.	O

@@ -1,7 +1,0 @@
-
-Escolarizado	O
-hasta	O
-los	O
-17	O
-años	O
-.	O

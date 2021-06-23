@@ -1,9 +1,0 @@
-
-Permaneció	O
-en	O
-mascarilla	O
-con	O
-reservorio	O
-100	O
-%	O
-.	O

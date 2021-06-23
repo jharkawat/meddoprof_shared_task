@@ -1,9 +1,0 @@
-
-Beta	O
-2	O
-microglobulina	O
-:	O
-4mcg	O
-/	O
-ml	O
-.	O

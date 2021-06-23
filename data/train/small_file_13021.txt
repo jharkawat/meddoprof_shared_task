@@ -1,6 +1,0 @@
-
-Bloqueo	O
-incompleto	O
-rama	O
-izquierda	O
-.	O

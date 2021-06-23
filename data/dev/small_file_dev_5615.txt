@@ -1,8 +1,0 @@
-
-El	O
-urólogo	B-PROFESION
-indica	O
-revisión	O
-quirúrgica	O
-urgente	O
-.	O

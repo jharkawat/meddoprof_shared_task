@@ -1,7 +1,0 @@
-
-Localidad	O
-/	O
-Provincia	O
-:	O
-Pamplona	O
-.	O

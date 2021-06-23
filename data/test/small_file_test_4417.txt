@@ -1,9 +1,0 @@
-
-Sin	O
-hallazgos	O
-reseñables	O
-en	O
-los	O
-cortes	O
-abdominales	O
-.	O

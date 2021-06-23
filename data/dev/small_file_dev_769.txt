@@ -1,8 +1,0 @@
-
-Inquietud	O
-psicomotriz	O
-marcada	O
-con	O
-ánimo	O
-disfórico	O
-.	O

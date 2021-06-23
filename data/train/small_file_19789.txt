@@ -1,7 +1,0 @@
-
-No	O
-tiene	O
-causas	O
-judiciales	O
-pendientes	O
-.	O

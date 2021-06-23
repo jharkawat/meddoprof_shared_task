@@ -1,9 +1,0 @@
-
-Edad	O
-8	O
-:	O
-Día	O
-de	O
-su	O
-comunión	O
-.	O

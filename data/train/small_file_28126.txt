@@ -1,5 +1,0 @@
-
-Humedad	O
-mucocutánea	O
-conservada	O
-.	O

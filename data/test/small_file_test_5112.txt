@@ -1,6 +1,0 @@
-
-Negativa	O
-para	O
-células	O
-malignas	O
-.	O

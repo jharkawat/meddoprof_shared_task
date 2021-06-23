@@ -1,6 +1,0 @@
-
-Aspecto	O
-cuidado	O
-y	O
-aseado	O
-.	O

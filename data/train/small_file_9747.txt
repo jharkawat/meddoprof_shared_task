@@ -1,7 +1,0 @@
-
-Proteína	O
-C	O
-:	O
-151	O
-%	O
-.	O

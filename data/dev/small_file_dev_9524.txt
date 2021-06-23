@@ -1,9 +1,0 @@
-
-Discapacidad	O
-del	O
-36	O
-%	O
-por	O
-Trastorno	O
-del	O
-desarrollo	O

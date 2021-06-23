@@ -1,8 +1,0 @@
-
-TSH	O
-y	O
-T4	O
-dentro	O
-de	O
-normalidad	O
-.	O

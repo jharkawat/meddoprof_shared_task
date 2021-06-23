@@ -1,6 +1,0 @@
-
-Destacaba	O
-intensa	O
-palidez	O
-cutánea	O
-.	O

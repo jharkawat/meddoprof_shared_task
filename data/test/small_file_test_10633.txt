@@ -1,7 +1,0 @@
-
-No	O
-presenta	O
-adenopatías	O
-periféricas	O
-palpables	O
-.	O

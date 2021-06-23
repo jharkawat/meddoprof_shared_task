@@ -1,8 +1,0 @@
-
-Isquemia	O
-intestinal	O
-aguda	O
-por	O
-trombosis	O
-mesentérica	O
-.	O

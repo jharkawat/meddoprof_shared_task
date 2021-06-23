@@ -1,6 +1,0 @@
-
-Consumidor	O
-habitual	O
-de	O
-THC	O
-.	O

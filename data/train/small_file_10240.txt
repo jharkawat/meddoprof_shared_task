@@ -1,5 +1,0 @@
-
-No	O
-otras	O
-enfermedades	O
-.	O

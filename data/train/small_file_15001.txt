@@ -1,9 +1,0 @@
-
-Serologías	O
-para	O
-virus	O
-B	O
-y	O
-C	O
-negativas	O
-.	O

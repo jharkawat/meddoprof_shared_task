@@ -1,7 +1,0 @@
-
-Nunca	O
-pudo	O
-hacer	O
-amigos	O
-íntimos	O
-.	O

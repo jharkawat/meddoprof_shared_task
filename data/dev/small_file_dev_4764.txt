@@ -1,6 +1,0 @@
-
-Leucocitos	O
-10	O
-.	O
-200	O
-.	O

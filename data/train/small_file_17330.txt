@@ -1,9 +1,0 @@
-
-Residía	O
-en	O
-España	O
-desde	O
-hacía	O
-3	O
-meses	O
-.	O

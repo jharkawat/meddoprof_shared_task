@@ -1,8 +1,0 @@
-
-Relación	O
-sustancia	O
-gris	O
--	O
-blanca	O
-normal	O
-.	O

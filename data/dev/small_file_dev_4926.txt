@@ -1,5 +1,0 @@
-
-RM	O
-con	O
-vasos	O
-.	O

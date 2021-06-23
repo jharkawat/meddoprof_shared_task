@@ -1,8 +1,0 @@
-
-Está	O
-jubilada	B-SITUACION_LABORAL
-tras	O
-trabajar	O
-como	O
-panadera	B-PROFESION
-.	O

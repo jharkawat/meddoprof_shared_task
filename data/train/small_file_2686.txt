@@ -1,6 +1,0 @@
-
-Hiperalgesia	O
-de	O
-muslo	O
-derecho	O
-.	O

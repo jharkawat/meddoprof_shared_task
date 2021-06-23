@@ -1,7 +1,0 @@
-
-La	O
-paciente	O
-es	O
-hija	O
-única	O
-.	O

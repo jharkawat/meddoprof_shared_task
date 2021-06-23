@@ -1,9 +1,0 @@
-
-Plaquetas	O
-:	O
-62	O
-000	O
-x10e3	O
-/	O
-microL	O
-.	O

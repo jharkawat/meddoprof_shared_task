@@ -1,8 +1,0 @@
-
-AP	O
-:	O
-negativa	O
-para	O
-células	O
-malignas	O
-.	O

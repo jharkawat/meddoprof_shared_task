@@ -1,8 +1,0 @@
-
-No	O
-ha	O
-tenido	O
-contacto	O
-con	O
-animales	O
-.	O

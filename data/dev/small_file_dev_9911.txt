@@ -1,7 +1,0 @@
-
-Plaquetas	O
-158	O
-x103	O
-/	O
-μl	O
-.	O

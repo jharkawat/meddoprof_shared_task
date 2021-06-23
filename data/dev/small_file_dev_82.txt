@@ -1,6 +1,0 @@
-
-Pulso	O
-:	O
-70	O
-lpm	O
-.	O

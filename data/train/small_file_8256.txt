@@ -1,9 +1,0 @@
-
-Trabaja	B-PROFESION
-en	I-PROFESION
-agricultura	I-PROFESION
-,	O
-no	O
-viajes	O
-recientes	O
-.	O

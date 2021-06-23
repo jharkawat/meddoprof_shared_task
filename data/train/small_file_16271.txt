@@ -1,9 +1,0 @@
-
-Hace	O
-años	O
-trabajó	O
-como	O
-camionero	B-PROFESION
-transportando	I-PROFESION
-animales	I-PROFESION
-.	O

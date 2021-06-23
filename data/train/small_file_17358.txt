@@ -1,6 +1,0 @@
-
-BAAR	O
-en	O
-esputo	O
-negativo	O
-.	O

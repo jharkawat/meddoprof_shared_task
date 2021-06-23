@@ -1,5 +1,0 @@
-
-Antígeno	O
-Plasmodium	O
-negativo	O
-.	O

@@ -1,7 +1,0 @@
-
-Contraindicada	O
-metformina	O
-por	O
-insuficiencia	O
-renal	O
-.	O

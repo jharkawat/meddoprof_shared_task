@@ -1,6 +1,0 @@
-
-Las	O
-lesiones	O
-son	O
-asintomáticas	O
-.	O

@@ -1,6 +1,0 @@
-
-Estudia	B-SITUACION_LABORAL
-1o	O
-de	O
-Bachillerato	O
-.	O

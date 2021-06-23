@@ -1,6 +1,0 @@
-
-Aurícula	O
-izquierda	O
-ligeramente	O
-dilatada	O
-.	O

@@ -1,8 +1,0 @@
-
-Tinción	O
-Ziehl	O
-Nielsen	O
-a	O
-micobacterias	O
-negativo	O
-.	O

@@ -1,5 +1,0 @@
-
-Facies	O
-:	O
-Normal	O
-.	O

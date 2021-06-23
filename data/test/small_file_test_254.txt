@@ -1,8 +1,0 @@
-
-No	O
-hay	O
-disminución	O
-dela	O
-capacidad	O
-motora	O
-.	O

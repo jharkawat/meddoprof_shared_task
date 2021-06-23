@@ -1,5 +1,0 @@
-
-Embarazo	O
-actual	O
-deseado	O
-.	O

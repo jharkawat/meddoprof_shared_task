@@ -1,6 +1,0 @@
-
-No	O
-sospechosa	O
-de	O
-malignidad	O
-.	O

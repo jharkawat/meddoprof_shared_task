@@ -1,9 +1,0 @@
-
-Ecocardiograma	O
-transtorácico	O
-:	O
-ausencia	O
-de	O
-vegetaciones	O
-valvulares	O
-.	O

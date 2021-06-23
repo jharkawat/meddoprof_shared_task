@@ -1,7 +1,0 @@
-
-Mioma	O
-uterino	O
-hace	O
-30	O
-años	O
-.	O

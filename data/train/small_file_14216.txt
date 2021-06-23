@@ -1,6 +1,0 @@
-
-No	O
-consumo	O
-de	O
-tóxicos	O
-.	O

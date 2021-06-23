@@ -1,6 +1,0 @@
-
-Mirada	O
-fija	O
-,	O
-perdida	O
-.	O

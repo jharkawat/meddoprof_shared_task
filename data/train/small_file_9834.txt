@@ -1,9 +1,0 @@
-
-Se	O
-decide	O
-cambiar	O
-nuevamente	O
-antibioterapia	O
-por	O
-Levofloxacino	O
-.	O

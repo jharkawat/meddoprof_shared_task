@@ -1,8 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-no	O
-alergias	O
-medicamentosas	O
-.	O

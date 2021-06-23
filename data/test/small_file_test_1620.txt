@@ -1,5 +1,0 @@
-
-Radiografía	O
-postoperatoria	O
-inmediata	O
-.	O

@@ -1,8 +1,0 @@
-
-Adenopatías	O
-en	O
-cadena	O
-del	O
-obturador	O
-interno	O
-.	O

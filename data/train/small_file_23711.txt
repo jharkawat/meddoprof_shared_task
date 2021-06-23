@@ -1,7 +1,0 @@
-
-Niega	O
-consumir	O
-otras	O
-sustancias	O
-psicoactivas	O
-.	O

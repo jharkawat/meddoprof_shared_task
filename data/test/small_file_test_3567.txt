@@ -1,7 +1,0 @@
-
-Recientemente	O
-casado	O
-y	O
-en	B-SITUACION_LABORAL
-paro	I-SITUACION_LABORAL
-.	O

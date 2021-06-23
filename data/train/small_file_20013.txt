@@ -1,6 +1,0 @@
-
-Dijo	O
-no	O
-tener	O
-alucinaciones	O
-.	O

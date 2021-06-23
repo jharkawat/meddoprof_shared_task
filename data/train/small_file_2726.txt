@@ -1,6 +1,0 @@
-
-Sin	O
-otra	O
-sintomatología	O
-acompañante	O
-.	O

@@ -1,7 +1,0 @@
-
-Trastorno	O
-de	O
-la	O
-personalidad	O
-esquizotípica	O
-.	O

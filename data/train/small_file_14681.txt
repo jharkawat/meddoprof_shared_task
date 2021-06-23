@@ -1,8 +1,0 @@
-
-Disartria	O
-con	O
-buena	O
-comprensión	O
-y	O
-nominación	O
-.	O

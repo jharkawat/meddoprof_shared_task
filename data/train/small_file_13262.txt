@@ -1,8 +1,0 @@
-
-Hígado	O
-sin	O
-evidencia	O
-de	O
-lesiones	O
-focales	O
-.	O

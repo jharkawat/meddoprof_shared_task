@@ -1,8 +1,0 @@
-
-Embotamiento	O
-afectivo	O
-contacto	O
-pobre	O
-y	O
-defectual	O
-.	O

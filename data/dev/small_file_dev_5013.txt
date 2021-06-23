@@ -1,7 +1,0 @@
-
-Neurológicamente	O
-no	O
-se	O
-detectan	O
-alteraciones	O
-.	O

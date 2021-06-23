@@ -1,9 +1,0 @@
-
-No	O
-se	O
-aprecian	O
-adenopatías	O
-intra	O
-ni	O
-retroperitoneales	O
-.	O

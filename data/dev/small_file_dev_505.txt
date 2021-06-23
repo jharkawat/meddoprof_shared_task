@@ -1,6 +1,0 @@
-
-Acúfeno	O
-en	O
-oído	O
-izquierdo	O
-.	O

@@ -1,7 +1,0 @@
-
-No	O
-líquido	O
-libre	O
-en	O
-cavidad	O
-.	O

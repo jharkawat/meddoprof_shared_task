@@ -1,8 +1,0 @@
-
-EEAG	O
-al	O
-ingreso	O
-31	O
--	O
-40	O
-.	O

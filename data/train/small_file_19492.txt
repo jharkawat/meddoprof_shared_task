@@ -1,5 +1,0 @@
-
-Relación	O
-:	O
-Padre	O
-.	O

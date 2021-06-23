@@ -1,8 +1,0 @@
-
-Llenado	O
-capilar	O
-distal	O
-de	O
-2	O
-segundos	O
-.	O

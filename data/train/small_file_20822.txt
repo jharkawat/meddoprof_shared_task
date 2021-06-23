@@ -1,7 +1,0 @@
-
-Trastorno	O
-de	O
-Ideas	O
-Delirantes	O
-Persistentes	O
-.	O

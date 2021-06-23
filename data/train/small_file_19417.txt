@@ -1,6 +1,0 @@
-
-Apariencia	O
-general	O
-:	O
-Regular	O
-.	O

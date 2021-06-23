@@ -1,6 +1,0 @@
-
-No	O
-conoce	O
-alergias	O
-medicamentosas	O
-.	O

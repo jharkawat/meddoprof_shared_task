@@ -1,8 +1,0 @@
-
-Antecedentes	O
-en	O
-Salud	O
-Mental	O
-:	O
-No	O
-constan	O

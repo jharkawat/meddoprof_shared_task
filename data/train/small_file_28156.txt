@@ -1,6 +1,0 @@
-
-Motilidad	O
-ocular	O
-externa	O
-conservada	O
-.	O

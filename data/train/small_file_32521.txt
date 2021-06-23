@@ -1,6 +1,0 @@
-
-Aspecto	O
-descuidado	O
-y	O
-desaliñado	O
-.	O

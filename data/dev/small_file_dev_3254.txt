@@ -1,8 +1,0 @@
-
-Es	O
-perceptor	O
-de	O
-pensión	B-SITUACION_LABORAL
-por	I-SITUACION_LABORAL
-invalidez	I-SITUACION_LABORAL
-.	O

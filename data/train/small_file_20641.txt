@@ -1,5 +1,0 @@
-
-Trastorno	O
-somatomorfo	O
-no	O
-especificado	O

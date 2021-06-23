@@ -1,9 +1,0 @@
-
-Inexactitud	O
-en	O
-dedo	O
--	O
-nariz	O
-con	O
-MSD	O
-.	O

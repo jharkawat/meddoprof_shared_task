@@ -1,9 +1,0 @@
-
-Labilidad	O
-afectiva	O
-con	O
-tendencia	O
-a	O
-la	O
-megalomanía	O
-.	O

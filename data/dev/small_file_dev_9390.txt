@@ -1,9 +1,0 @@
-
-Osteomielitis	O
-de	O
-tibia	O
-izquierda	O
-por	O
-Mycobacterium	O
-tuberculosis	O
-.	O

@@ -1,6 +1,0 @@
-
-Niega	O
-tener	O
-hábitos	O
-tóxicos	O
-.	O

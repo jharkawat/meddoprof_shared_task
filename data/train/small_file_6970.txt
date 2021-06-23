@@ -1,7 +1,0 @@
-
-No	O
-se	O
-palpaban	O
-adenopatías	O
-locorregionales	O
-.	O

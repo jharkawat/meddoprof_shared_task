@@ -1,9 +1,0 @@
-
-Concluye	O
-estas	O
-capacitaciones	O
-en	O
-el	O
-año	O
-2014	O
-.	O

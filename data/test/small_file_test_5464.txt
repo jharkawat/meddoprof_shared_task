@@ -1,8 +1,0 @@
-
-3	O
-)	O
-Bacteriemia	O
-por	O
-Acinetobacter	O
-Ursigii	O
-.	O

@@ -1,9 +1,0 @@
-
-También	O
-refiere	O
-disnea	O
-de	O
-esfuerzo	O
-grado	O
-1	O
-.	O

@@ -1,8 +1,0 @@
-
-Edad	O
-10	O
-:	O
-Nace	O
-su	O
-hermano	O
-.	O

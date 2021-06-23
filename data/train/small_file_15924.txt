@@ -1,5 +1,0 @@
-
-Profesor	B-PROFESION
-de	I-PROFESION
-ciencias	I-PROFESION
-.	O

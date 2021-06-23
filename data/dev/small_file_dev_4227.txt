@@ -1,7 +1,0 @@
-
-Rx	O
-frente	O
-de	O
-fémur	O
-derecho	O
-.	O

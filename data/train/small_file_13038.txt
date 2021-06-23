@@ -1,6 +1,0 @@
-
-RMN	O
-T2	O
-cervical	O
-sagital	O
-.	O

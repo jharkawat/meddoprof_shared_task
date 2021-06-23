@@ -1,8 +1,0 @@
-
-Se	O
-decide	O
-mantener	O
-el	O
-diagnóstico	O
-aplazado	O
-.	O

@@ -1,9 +1,0 @@
-
-Ha	O
-precisado	O
-ingresos	O
-anteriores	O
-en	O
-psiquiatría	O
-hospitalaria	O
-.	O

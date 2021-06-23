@@ -1,5 +1,0 @@
-
-Colinesterasa	O
-en	O
-rango	O
-.	O

@@ -1,8 +1,0 @@
-
-Intervención	O
-quirúrgica	O
-:	O
-fractura	O
-bilateral	O
-calcáneo	O
-.	O

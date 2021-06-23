@@ -1,8 +1,0 @@
-
-Nacimiento	O
-a	O
-término	O
-y	O
-sin	O
-incidencias	O
-.	O

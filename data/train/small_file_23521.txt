@@ -1,7 +1,0 @@
-
-Abordaje	O
-multidisciplinar	O
-para	O
-completar	O
-estudio	O
-.	O

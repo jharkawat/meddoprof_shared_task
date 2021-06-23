@@ -1,5 +1,0 @@
-
-Tuberculosis	O
-pulmonar	O
-cavitada	O
-.	O

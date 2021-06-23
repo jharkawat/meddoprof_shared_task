@@ -1,6 +1,0 @@
-
-Ecografía	O
-abdominal	O
-:	O
-normal	O
-.	O

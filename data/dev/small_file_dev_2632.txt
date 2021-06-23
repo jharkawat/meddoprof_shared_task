@@ -1,8 +1,0 @@
-
-Discurso	O
-empobrecido	O
-,	O
-parco	O
-en	O
-palabras	O
-.	O

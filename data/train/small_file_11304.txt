@@ -1,7 +1,0 @@
-
-No	O
-se	O
-evidencia	O
-pico	O
-monoclonal	O
-.	O

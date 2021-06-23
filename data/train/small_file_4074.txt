@@ -1,6 +1,0 @@
-
-Sin	O
-masas	O
-ni	O
-organomegalias	O
-.	O

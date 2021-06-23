@@ -1,5 +1,0 @@
-
-RMN	O
-craneal	O
-normal	O
-.	O

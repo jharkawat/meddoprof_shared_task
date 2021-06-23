@@ -1,6 +1,0 @@
-
-CP	O
-:	O
-27047	O
-Madrid	O
-.	O

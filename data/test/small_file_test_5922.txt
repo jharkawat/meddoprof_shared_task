@@ -1,8 +1,0 @@
-
-También	O
-parece	O
-infiltrar	O
-al	O
-pericardio	O
-adyacente	O
-.	O

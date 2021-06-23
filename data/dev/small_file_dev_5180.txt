@@ -1,7 +1,0 @@
-
-Lleva	O
-en	O
-España	O
-20	O
-años	O
-.	O

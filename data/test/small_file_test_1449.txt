@@ -1,6 +1,0 @@
-
-No	O
-se	O
-prescribieron	O
-antibióticos	O
-.	O

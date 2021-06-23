@@ -1,7 +1,0 @@
-
-Apenas	O
-come	O
-frutas	O
-y	O
-verduras	O
-.	O

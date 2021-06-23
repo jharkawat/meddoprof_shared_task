@@ -1,5 +1,0 @@
-
-Tratamiento	O
-farmacológico	O
-habitual	O
-:	O

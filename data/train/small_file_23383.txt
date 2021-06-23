@@ -1,8 +1,0 @@
-
-Percepciones	O
-delirantes	O
-de	O
-perjuicio	O
-y	O
-autorreferencialidad	O
-.	O

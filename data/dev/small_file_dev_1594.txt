@@ -1,9 +1,0 @@
-
-Trastorno	O
-esquizoafectivo	O
-(	O
-DSM	O
--	O
-V	O
-)	O
-:	O

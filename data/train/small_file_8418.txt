@@ -1,5 +1,0 @@
-
-Cabeza	O
-y	O
-Cuello	O
-.	O

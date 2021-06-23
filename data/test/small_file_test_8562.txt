@@ -1,7 +1,0 @@
-
-Sin	O
-cardiopatía	O
-ni	O
-broncopatía	O
-conocidas	O
-.	O

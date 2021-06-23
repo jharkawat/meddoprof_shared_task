@@ -1,9 +1,0 @@
-
-Trabaja	O
-desde	O
-los	O
-18	O
-años	O
-como	O
-ebanista	B-PROFESION
-.	O

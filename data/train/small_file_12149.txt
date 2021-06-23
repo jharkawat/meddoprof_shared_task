@@ -1,9 +1,0 @@
-
-Insuficiencia	O
-tricuspídea	O
-leve	O
-,	O
-no	O
-hipertensión	O
-pulmonar	O
-.	O

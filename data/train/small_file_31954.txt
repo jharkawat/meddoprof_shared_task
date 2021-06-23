@@ -1,9 +1,0 @@
-
-Trastorno	O
-Emocional	O
-en	O
-la	O
-niñez	O
-no	O
-especificado	O
-.	O

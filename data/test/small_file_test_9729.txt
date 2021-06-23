@@ -1,9 +1,0 @@
-
-Carcinoma	O
-microcítico	O
-de	O
-páncreas	O
-;	O
-enfermedad	O
-limitada	O
-.	O

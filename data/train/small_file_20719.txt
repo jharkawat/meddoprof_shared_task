@@ -1,8 +1,0 @@
-
-No	O
-existen	O
-déficit	O
-motores	O
-en	O
-miembros	O
-.	O

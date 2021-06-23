@@ -1,6 +1,0 @@
-
-Índice	O
-Karnofsky	O
-100	O
-%	O
-.	O

@@ -1,8 +1,0 @@
-
-En	O
-junio	O
-ingresa	O
-en	O
-medicina	O
-interna	O
-.	O

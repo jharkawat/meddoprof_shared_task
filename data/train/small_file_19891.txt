@@ -1,9 +1,0 @@
-
-Sin	O
-antecedentes	O
-personales	O
-ni	O
-familiares	O
-de	O
-interés	O
-.	O

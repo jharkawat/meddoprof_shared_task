@@ -1,9 +1,0 @@
-
--	O
-Metástasis	O
-:	O
-tumor	O
-maligno	O
-más	O
-frecuente	O
-.	O

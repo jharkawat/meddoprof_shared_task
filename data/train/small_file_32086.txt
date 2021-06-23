@@ -1,7 +1,0 @@
-
-Discurso	O
-fluido	O
-y	O
-bien	O
-articulado	O
-.	O

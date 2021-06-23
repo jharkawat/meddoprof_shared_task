@@ -1,6 +1,0 @@
-
-No	O
-cardiópata	O
-ni	O
-broncópata	O
-.	O

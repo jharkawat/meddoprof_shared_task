@@ -1,6 +1,0 @@
-
-ECG	O
-con	O
-taquicardia	O
-sinusal	O
-.	O

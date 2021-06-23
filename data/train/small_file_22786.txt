@@ -1,7 +1,0 @@
-
-Tuvo	O
-muy	O
-buen	O
-rendimiento	O
-académico	O
-.	O

@@ -1,9 +1,0 @@
-
-No	O
-astenia	O
-,	O
-no	O
-pérdida	O
-de	O
-apetito	O
-.	O

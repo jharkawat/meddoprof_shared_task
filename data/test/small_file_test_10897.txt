@@ -1,7 +1,0 @@
-
-Antecedentes	O
-personales	O
-:	O
-Hija	O
-única	O
-.	O

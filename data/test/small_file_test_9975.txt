@@ -1,7 +1,0 @@
-
-Su	O
-estado	O
-general	O
-era	O
-excelente	O
-.	O

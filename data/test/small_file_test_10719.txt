@@ -1,9 +1,0 @@
-
-La	O
-paciente	O
-presenta	O
-neuropatía	O
-residual	O
-grado	O
-1	O
-.	O

@@ -1,9 +1,0 @@
-
-Tratamiento	O
-habitual	O
-:	O
-ibuprofeno	O
-600	O
-mg	O
-ocasional	O
-.	O

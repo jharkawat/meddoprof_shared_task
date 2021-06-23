@@ -1,6 +1,0 @@
-
-Trombopenia	O
-autoinmune	O
-paraneoplásica	O
-G4	O
-.	O

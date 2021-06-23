@@ -1,6 +1,0 @@
-
-Metástasis	O
-de	O
-carcinoma	O
-epidermoide	O
-.	O

@@ -1,7 +1,0 @@
-
-No	O
-se	O
-auscultan	O
-soplos	O
-carotideos	O
-.	O

@@ -1,5 +1,0 @@
-
-Grave	O
-afectación	O
-sistémica	O
-.	O

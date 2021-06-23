@@ -1,9 +1,0 @@
-
-Inquieto	O
-en	O
-la	O
-infancia	O
-pero	O
-nunca	O
-conflictivo	O
-.	O

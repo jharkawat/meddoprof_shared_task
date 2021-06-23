@@ -1,8 +1,0 @@
-
-La	O
-paciente	O
-presentó	O
-buena	O
-evolución	O
-clínica	O
-.	O

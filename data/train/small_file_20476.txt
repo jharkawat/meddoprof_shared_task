@@ -1,6 +1,0 @@
-
-Viven	O
-en	O
-ambiente	O
-urbano	O
-.	O

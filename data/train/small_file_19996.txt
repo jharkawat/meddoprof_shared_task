@@ -1,7 +1,0 @@
-
-Negó	O
-sentirse	O
-exultante	O
-o	O
-eufórico	O
-.	O

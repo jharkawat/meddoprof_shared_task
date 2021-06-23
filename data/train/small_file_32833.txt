@@ -1,8 +1,0 @@
-
-NOC	O
-:	O
-(	O
-0003	O
-)	O
-Descanso	O
-.	O

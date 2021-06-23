@@ -1,7 +1,0 @@
-
-Fumaba	O
-5	O
-cigarrillos	O
-al	O
-día	O
-.	O

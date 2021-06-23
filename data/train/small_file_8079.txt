@@ -1,7 +1,0 @@
-
-Resto	O
-de	O
-pruebas	O
-analíticas	O
-normales	O
-.	O

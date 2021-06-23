@@ -1,8 +1,0 @@
-
-Lactancia	O
-materna	O
-durante	O
-el	O
-primer	O
-año	O
-.	O

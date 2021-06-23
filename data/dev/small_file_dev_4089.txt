@@ -1,8 +1,0 @@
-
-Alimentación	O
-adecuada	O
-en	O
-cantidad	O
-y	O
-calidad	O
-.	O

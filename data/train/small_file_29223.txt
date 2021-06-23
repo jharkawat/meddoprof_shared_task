@@ -1,6 +1,0 @@
-
-Discurso	O
-reiterativo	O
-e	O
-incoherente	O
-.	O

@@ -1,7 +1,0 @@
-
-Descanso	O
-nocturno	O
-de	O
-8	O
-horas	O
-.	O

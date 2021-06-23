@@ -1,7 +1,0 @@
-
-Perfusión	O
-continua	O
-de	O
-uroquinasa	O
-posterior	O
-.	O

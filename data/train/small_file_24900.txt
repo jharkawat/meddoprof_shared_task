@@ -1,6 +1,0 @@
-
-Retrato	O
-subjetivo	O
-de	O
-su	O
-biografía	O

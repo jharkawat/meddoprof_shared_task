@@ -1,7 +1,0 @@
-T1	SINTOMA 111 145	adelgazamiento del centro de salud
-T2	NEG 191 193	no
-T3	NSCO 194 205	perdía peso
-T4	ORG_VIVO 4 12	paciente
-T5	ORG_VIVO 246 252	médico
-T6	ENFERMEDAD 13 18	obesa
-T7	SANITARIO-PROFESION 246 252	médico

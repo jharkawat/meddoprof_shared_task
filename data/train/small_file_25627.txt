@@ -1,9 +1,0 @@
-
-Fumador	O
-(	O
-20	O
-cig	O
-/	O
-d	O
-)	O
-.	O

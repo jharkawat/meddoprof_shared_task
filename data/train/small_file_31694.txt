@@ -1,6 +1,0 @@
-
-Sin	O
-otros	O
-hallazgos	O
-valorables	O
-.	O

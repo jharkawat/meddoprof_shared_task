@@ -1,9 +1,0 @@
-
-La	O
-lesión	O
-era	O
-dolorosa	O
-a	O
-la	O
-palpación	O
-.	O

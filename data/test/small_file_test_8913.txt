@@ -1,5 +1,0 @@
-
-BRAF	O
-no	O
-mutado	O
-.	O

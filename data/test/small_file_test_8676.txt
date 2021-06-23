@@ -1,7 +1,0 @@
-
-Intervenido	O
-de	O
-hernia	O
-inguinal	O
-derecha	O
-.	O

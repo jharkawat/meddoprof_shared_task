@@ -1,5 +1,0 @@
-
-No	O
-fiebre	O
-termometrada	O
-.	O

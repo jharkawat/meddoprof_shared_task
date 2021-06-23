@@ -1,9 +1,0 @@
-
-Buena	O
-perfusión	O
-periférica	O
-con	O
-pulsos	O
-femorales	O
-presentes	O
-.	O

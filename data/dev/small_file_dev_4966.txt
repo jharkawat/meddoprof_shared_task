@@ -1,7 +1,0 @@
-
-Agujero	O
-de	O
-trepanación	O
-parietal	O
-izquierdo	O
-.	O

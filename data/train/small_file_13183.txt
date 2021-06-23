@@ -1,5 +1,0 @@
-
-Mamografía	O
-bilateral	O
-negativa	O
-.	O

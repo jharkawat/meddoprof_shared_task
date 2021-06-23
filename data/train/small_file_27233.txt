@@ -1,6 +1,0 @@
-
-Enfermedad	O
-actual	O
-y	O
-evolución	O
-:	O

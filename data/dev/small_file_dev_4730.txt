@@ -1,9 +1,0 @@
-
-Hemograma	O
-con	O
-leucocitosis	O
-de	O
-21	O
-.	O
-000	O
-.	O

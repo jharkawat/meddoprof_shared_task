@@ -1,9 +1,0 @@
-
-Mantenía	O
-no	O
-obstante	O
-su	O
-trabajo	O
-sin	O
-incidencias	O
-.	O

@@ -1,7 +1,0 @@
-
-Pseudoalucinaciones	O
-visuales	O
-de	O
-contenido	O
-amenazante	O
-.	O

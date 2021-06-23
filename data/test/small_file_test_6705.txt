@@ -1,7 +1,0 @@
-
-Talla	O
-1	O
-,	O
-60	O
-m	O
-.	O

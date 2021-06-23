@@ -1,7 +1,0 @@
-
-Sospecha	O
-de	O
-hemorragia	O
-digestiva	O
-alta	O
-.	O

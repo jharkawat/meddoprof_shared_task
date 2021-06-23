@@ -1,9 +1,0 @@
-
-No	O
-refiere	O
-fiebre	O
-ni	O
-otra	O
-clínica	O
-acompañante	O
-.	O

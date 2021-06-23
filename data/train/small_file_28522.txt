@@ -1,5 +1,0 @@
-
-Clínica	O
-residual	O
-marcada	O
-.	O

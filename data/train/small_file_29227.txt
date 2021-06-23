@@ -1,7 +1,0 @@
-
-Ritmo	O
-vigilia	O
--	O
-sueño	O
-alterado	O
-.	O

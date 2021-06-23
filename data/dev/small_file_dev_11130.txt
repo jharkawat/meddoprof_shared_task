@@ -1,7 +1,0 @@
-
-Carcinoma	O
-de	O
-la	O
-ampolla	O
-de	O
-Váter	O

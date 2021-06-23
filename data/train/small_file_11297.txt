@@ -1,8 +1,0 @@
-
-Cultivo	O
-en	O
-Medio	O
-Lowenstein	O
-:	O
-Negativo	O
-.	O

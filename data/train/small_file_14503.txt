@@ -1,9 +1,0 @@
-
-PCR	O
-7	O
-.	O
-29	O
-mg	O
-/	O
-L	O
-.	O

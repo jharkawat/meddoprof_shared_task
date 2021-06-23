@@ -1,8 +1,0 @@
-
-Intervenido	O
-de	O
-hipospadias	O
-con	O
-8	O
-años	O
-.	O

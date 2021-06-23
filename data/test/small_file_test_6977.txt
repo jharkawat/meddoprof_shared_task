@@ -1,7 +1,0 @@
-
-Niega	O
-fiebre	O
-o	O
-sensación	O
-distérmica	O
-.	O

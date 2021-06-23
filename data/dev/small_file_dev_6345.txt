@@ -1,9 +1,0 @@
-
-Lesiones	O
-en	O
-la	O
-cara	O
-dorsal	O
-de	O
-muslos	O
-.	O

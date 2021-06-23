@@ -1,7 +1,0 @@
-
-Tras	O
-el	O
-alta	O
-recibe	O
-radioterapia	O
-.	O

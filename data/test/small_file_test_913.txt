@@ -1,9 +1,0 @@
-
-Por	O
-estas	O
-circunstancias	O
-se	O
-decide	O
-ingreso	O
-hospitalario	O
-.	O

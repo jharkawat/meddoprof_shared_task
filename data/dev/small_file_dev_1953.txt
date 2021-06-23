@@ -1,8 +1,0 @@
-
-No	O
-tratamiento	O
-psicofarmacológico	O
-previo	O
-al	O
-ingreso	O
-.	O

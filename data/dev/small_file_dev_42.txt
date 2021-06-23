@@ -1,6 +1,0 @@
-
-Actualmente	O
-sin	B-SITUACION_LABORAL
-ocupación	I-SITUACION_LABORAL
-laboral	I-SITUACION_LABORAL
-.	O

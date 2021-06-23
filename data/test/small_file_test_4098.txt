@@ -1,9 +1,0 @@
-
-Afectación	O
-vascular	O
-locorregional	O
-limitada	O
-por	O
-cambios	O
-inflamatorios	O
-.	O

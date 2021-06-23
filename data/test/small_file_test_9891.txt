@@ -1,8 +1,0 @@
-
-Mejor	O
-control	O
-analgésico	O
-en	O
-localización	O
-lumbosacra	O
-.	O

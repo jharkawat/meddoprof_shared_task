@@ -1,6 +1,0 @@
-
-Auscultación	O
-cardiaca	O
-:	O
-rítmica	O
-.	O

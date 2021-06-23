@@ -1,7 +1,0 @@
-
-Estática	O
-y	O
-marcha	O
-no	O
-exploradas	O
-.	O

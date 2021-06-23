@@ -1,7 +1,0 @@
-
-HISTORIA	O
-CLÍNICA	O
-:	O
-Descripción	O
-del	O
-caso	O

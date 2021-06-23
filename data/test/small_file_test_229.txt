@@ -1,9 +1,0 @@
-
-No	O
-se	O
-detecta	O
-la	O
-presencia	O
-de	O
-parafilias	O
-.	O

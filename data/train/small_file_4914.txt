@@ -1,9 +1,0 @@
-
-EKG	O
-:	O
-Ritmo	O
-sinusal	O
-a	O
-74	O
-lpm	O
-.	O

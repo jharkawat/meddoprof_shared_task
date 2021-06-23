@@ -1,7 +1,0 @@
-
-Resto	O
-de	O
-EPP	O
-sin	O
-hallazgos	O
-.	O

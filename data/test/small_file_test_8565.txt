@@ -1,6 +1,0 @@
-
-Nunca	O
-ha	O
-tomado	O
-anticonceptivos	O
-.	O

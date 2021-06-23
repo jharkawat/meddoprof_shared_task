@@ -1,6 +1,0 @@
-
-Paciente	O
-consciente	O
-y	O
-orientado	O
-.	O

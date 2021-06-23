@@ -1,5 +1,0 @@
-
-I	O
-DATOS	O
-GENERALES	O
-:	O

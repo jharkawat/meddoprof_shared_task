@@ -1,9 +1,0 @@
-
-TAC	O
-craneal	O
-:	O
-estudio	O
-sin	O
-contraste	O
-intravenoso	O
-.	O

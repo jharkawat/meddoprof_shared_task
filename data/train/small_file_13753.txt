@@ -1,8 +1,0 @@
-
-Cultivo	O
-baceriano	O
-y	O
-de	O
-hongos	O
-negativo	O
-.	O

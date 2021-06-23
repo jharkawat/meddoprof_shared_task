@@ -1,7 +1,0 @@
-
-Estatus	O
-socioeconómico	O
-medio	O
--	O
-bajo	O
-.	O

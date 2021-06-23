@@ -1,6 +1,0 @@
-
-Electrocardiograma	O
-en	O
-ritmo	O
-sinusal	O
-.	O

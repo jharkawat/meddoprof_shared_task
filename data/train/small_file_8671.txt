@@ -1,7 +1,0 @@
-
-Situación	O
-basal	O
-:	O
-Vida	O
-activa	O
-.	O

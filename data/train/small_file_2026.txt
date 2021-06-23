@@ -1,9 +1,0 @@
-
-Tratamiento	O
-farmacológico	O
-para	O
-el	O
-dolor	O
-del	O
-miembro	O
-fantasma	O

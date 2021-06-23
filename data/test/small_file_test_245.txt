@@ -1,6 +1,0 @@
-
-Nictámero	O
-4	O
-x	O
-0	O
-.	O

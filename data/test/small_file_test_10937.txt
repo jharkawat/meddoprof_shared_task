@@ -1,8 +1,0 @@
-
-y	O
-ha	O
-mejorado	O
-el	O
-control	O
-manual	O
-.	O

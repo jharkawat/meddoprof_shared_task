@@ -1,9 +1,0 @@
-
-Masa	O
-suprarrenal	O
-derecha	O
-y	O
-engrosamiento	O
-suprarrenal	O
-izquierdo	O
-.	O

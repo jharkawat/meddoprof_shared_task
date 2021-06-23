@@ -1,8 +1,0 @@
-
-Es	O
-alérgica	O
-a	O
-penicilina	O
-y	O
-derivados	O
-.	O

@@ -1,9 +1,0 @@
-
-Fluidez	O
-fonémica	O
-:	O
-13	O
-palabras	O
-/	O
-min	O
-.	O

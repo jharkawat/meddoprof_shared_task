@@ -1,7 +1,0 @@
-
-Asocia	O
-sensación	O
-distérmica	O
-no	O
-termometrada	O
-.	O

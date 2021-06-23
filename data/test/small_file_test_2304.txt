@@ -1,8 +1,0 @@
-
-Estos	O
-hallazgos	O
-son	O
-compatibles	O
-con	O
-metástasis	O
-.	O

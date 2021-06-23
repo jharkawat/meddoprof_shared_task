@@ -1,9 +1,0 @@
-
-Reconoce	O
-ideación	O
-delirante	O
-autorreferencial	O
-y	O
-de	O
-perjuicio	O
-.	O

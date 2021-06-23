@@ -1,8 +1,0 @@
-
-HER	O
--	O
-2	O
-no	O
-estaba	O
-amplificado	O
-.	O

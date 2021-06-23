@@ -1,9 +1,0 @@
-
-Polo	O
-posterior	O
-del	O
-ojo	O
-izquierdo	O
-sin	O
-alteraciones	O
-.	O

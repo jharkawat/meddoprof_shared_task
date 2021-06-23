@@ -1,9 +1,0 @@
-
-Los	O
-síntomas	O
-respiratorios	O
-no	O
-volvieron	O
-a	O
-repetirse	O
-.	O

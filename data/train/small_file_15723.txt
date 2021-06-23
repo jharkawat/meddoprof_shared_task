@@ -1,6 +1,0 @@
-
-Examen	O
-físico	O
-Constantes	O
-normales	O
-.	O

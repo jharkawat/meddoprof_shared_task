@@ -1,9 +1,0 @@
-
-Domicilio	O
-:	O
-Calle	O
-del	O
-pez	O
-,	O
-28	O
-.	O

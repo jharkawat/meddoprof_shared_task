@@ -1,8 +1,0 @@
-T1	PROCEDIMIENTO 65 89	transfusiones sanguíneas
-T2	NEG 217 219	no
-T3	NSCO 220 239	pueden donar sangre
-T4	NEG 247 249	no
-T5	NSCO 250 273	cumplen las condiciones
-T6	ORG_VIVO 14 36	auxiliar de enfermería
-T7	ORG_VIVO 128 136	personas
-T8	PACIENTE-PROFESION 14 36	auxiliar de enfermería

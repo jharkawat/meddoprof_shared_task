@@ -1,6 +1,0 @@
-
-Ag	O
-Legionella	O
-pneumophyla	O
-negativo	O
-.	O

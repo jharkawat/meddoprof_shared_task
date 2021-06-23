@@ -1,8 +1,0 @@
-
-Altura	O
-:	O
-1	O
-,	O
-70	O
-m	O
-.	O

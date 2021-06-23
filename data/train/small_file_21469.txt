@@ -1,8 +1,0 @@
-
-Pero	O
-sabía	O
-que	O
-iba	O
-a	O
-morir	O
-.	O

@@ -1,8 +1,0 @@
-
-Mantiene	O
-una	O
-adecuada	O
-conciencia	O
-de	O
-enfermedad	O
-.	O

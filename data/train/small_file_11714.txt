@@ -1,7 +1,0 @@
-
-Presenta	O
-una	O
-PCR	O
-de	O
-40	O
-.	O

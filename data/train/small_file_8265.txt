@@ -1,6 +1,0 @@
-
-Radiografía	O
-tórax	O
-:	O
-normal	O
-.	O

@@ -1,7 +1,0 @@
-
-Orientada	O
-en	O
-persona	O
-y	O
-tiempo	O
-.	O

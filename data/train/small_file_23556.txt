@@ -1,5 +1,0 @@
-
-Tiene	O
-4	O
-hijos	O
-.	O

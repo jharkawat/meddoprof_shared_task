@@ -1,9 +1,0 @@
-
-En	O
-tratamiento	O
-substitutivo	O
-y	O
-seguimiento	O
-por	O
-Endocrinología	O
-.	O

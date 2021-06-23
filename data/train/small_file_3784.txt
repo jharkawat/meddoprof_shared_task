@@ -1,7 +1,0 @@
-
-Bultoma	O
-en	O
-región	O
-axilar	O
-derecha	O
-.	O

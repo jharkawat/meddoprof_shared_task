@@ -1,6 +1,0 @@
-
-Nariz	O
-:	O
-Fosas	O
-nasalespermeables	O
-.	O

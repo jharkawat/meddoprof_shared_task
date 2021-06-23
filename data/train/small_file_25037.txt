@@ -1,6 +1,0 @@
-
-No	O
-sale	O
-de	O
-casa	O
-.	O

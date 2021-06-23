@@ -1,9 +1,0 @@
-
-En	O
-el	O
-cuello	O
-no	O
-se	O
-evidenciaron	O
-adenopatías	O
-.	O

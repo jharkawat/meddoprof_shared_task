@@ -1,9 +1,0 @@
-
-Aripiprazol	O
-10	O
-mg	O
-,	O
-por	O
-mala	O
-tolerancia	O
-.	O

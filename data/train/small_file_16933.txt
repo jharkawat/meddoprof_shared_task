@@ -1,9 +1,0 @@
-
-No	O
-se	O
-observaron	O
-signos	O
-de	O
-irritación	O
-meníngea	O
-.	O

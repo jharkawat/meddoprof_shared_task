@@ -1,8 +1,0 @@
-
-Cardiópata	O
-(	O
-IAM	O
-en	O
-2004	O
-)	O
-.	O

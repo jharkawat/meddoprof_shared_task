@@ -1,7 +1,0 @@
-
-No	O
-quiere	O
-iniciar	O
-una	O
-terapia	O
-.	O

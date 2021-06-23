@@ -1,9 +1,0 @@
-
-Se	O
-derivó	O
-a	O
-urgencias	O
-hospitalarias	O
-para	O
-valoración	O
-.	O

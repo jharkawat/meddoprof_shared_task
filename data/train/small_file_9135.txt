@@ -1,6 +1,0 @@
-
-Esteatosis	O
-hepática	O
-no	O
-alcohólica	O
-.	O

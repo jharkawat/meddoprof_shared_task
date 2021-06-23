@@ -1,7 +1,0 @@
-
-Edad	O
-13	O
-:	O
-Posible	O
-suspenso	O
-.	O

@@ -1,7 +1,0 @@
-
-Madre	O
-y	O
-abuelo	O
-materno	O
-:	O
-psicosis	O

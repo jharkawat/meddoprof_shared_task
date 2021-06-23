@@ -1,9 +1,0 @@
-
-IgG	O
-e	O
-IgM	O
-de	O
-Borrelia	O
-burgdorferi	O
-negativas	O
-.	O

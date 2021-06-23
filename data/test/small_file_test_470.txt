@@ -1,6 +1,0 @@
-
-Tipo	O
-de	O
-parto	O
-:	O
-vaginal	O

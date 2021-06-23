@@ -1,9 +1,0 @@
-
-Persiste	O
-con	O
-síndrome	O
-febril	O
-durante	O
-tres	O
-meses	O
-.	O

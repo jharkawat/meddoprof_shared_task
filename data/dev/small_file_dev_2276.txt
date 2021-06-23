@@ -1,9 +1,0 @@
-
-Tiene	O
-la	O
-autoestima	O
-baja	O
-y	O
-está	O
-acomplejada	O
-.	O

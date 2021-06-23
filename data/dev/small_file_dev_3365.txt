@@ -1,6 +1,0 @@
-
-Es	O
-cajera	B-PROFESION
-de	I-PROFESION
-supermercado	I-PROFESION
-.	O

@@ -1,7 +1,0 @@
-
-Hipertensión	O
-arterial	O
-en	O
-tratamiento	O
-farmacológico	O
-.	O

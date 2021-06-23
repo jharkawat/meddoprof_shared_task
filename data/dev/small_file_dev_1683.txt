@@ -1,9 +1,0 @@
-
-Diagnóstico	O
-de	O
-trastorno	O
-anancástico	O
-de	O
-la	O
-personalidad	O
-.	O

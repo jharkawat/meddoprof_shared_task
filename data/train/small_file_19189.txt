@@ -1,9 +1,0 @@
-
-Padre	O
-con	O
-trastorno	O
-por	O
-dependencia	O
-de	O
-alcohol	O
-.	O

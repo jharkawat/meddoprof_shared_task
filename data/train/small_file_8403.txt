@@ -1,5 +1,0 @@
-
-Trabaja	O
-como	O
-administrativa	B-PROFESION
-.	O

@@ -1,9 +1,0 @@
-
-No	O
-rinocojuntivitis	O
-ni	O
-síntomas	O
-bronquiales	O
-con	O
-pólenes	O
-.	O

@@ -1,8 +1,0 @@
-
-Alcoholismo	O
-y	O
-tabaquismo	O
-desde	O
-la	O
-juventud	O
-.	O

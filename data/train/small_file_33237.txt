@@ -1,6 +1,0 @@
-
-Padres	O
-divorciados	O
-en	O
-2008	O
-.	O

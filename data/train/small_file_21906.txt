@@ -1,9 +1,0 @@
-
-Tóxicos	O
-en	O
-orina	O
-:	O
-positivo	O
-para	O
-cannabis	O
-.	O

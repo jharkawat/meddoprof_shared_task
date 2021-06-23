@@ -1,7 +1,0 @@
-
-TC	O
-craneal	O
-:	O
-dilatación	O
-ventricular	O
-.	O

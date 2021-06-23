@@ -1,8 +1,0 @@
-
-Ag	O
-Legionella	O
-/	O
-neumococo	O
-:	O
-neg	O
-.	O

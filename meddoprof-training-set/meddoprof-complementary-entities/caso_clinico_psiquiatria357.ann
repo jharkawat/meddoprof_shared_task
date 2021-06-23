@@ -1,7 +1,0 @@
-T1	SINTOMA 43 51	malestar
-T2	PROCEDIMIENTO 163 193	tratamiento psicofarmacológico
-T3	FARMACO 382 393	risperidona
-T4	FARMACO 396 408	escitalopram
-T5	ORG_VIVO 0 5	Mujer
-T6	ENFERMEDAD 298 317	Trastorno delirante
-T7	ENFERMEDAD 319 351	idea delirante de tipo somáticos

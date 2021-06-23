@@ -1,6 +1,0 @@
-
-FUM	O
-:	O
-No	O
-acuerda	O
-.	O

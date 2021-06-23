@@ -1,8 +1,0 @@
-
-Tabique	O
-nasal	O
-desplazado	O
-hacia	O
-la	O
-izquierda	O
-.	O

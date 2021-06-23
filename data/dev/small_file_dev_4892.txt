@@ -1,8 +1,0 @@
-
-Ingresa	O
-en	O
-planta	O
-para	O
-finalizar	O
-tratamiento	O
-.	O

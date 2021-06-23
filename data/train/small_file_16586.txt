@@ -1,8 +1,0 @@
-
-Normocoloreado	O
-,	O
-normohidratado	O
-,	O
-bien	O
-nutrido	O
-.	O

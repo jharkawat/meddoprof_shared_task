@@ -1,7 +1,0 @@
-
-Hospital	O
-Regional	O
-Universitario	O
-Carlos	O
-Haya	O
-.	O

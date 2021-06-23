@@ -1,6 +1,0 @@
-
-Médico	B-PROFESION
-:	O
-Iñigo	O
-Marín	O
-Montín	O

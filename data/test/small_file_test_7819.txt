@@ -1,6 +1,0 @@
-
-No	O
-hay	O
-adenopatías	O
-retroperitoneales	O
-.	O

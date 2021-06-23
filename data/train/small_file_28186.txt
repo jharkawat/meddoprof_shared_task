@@ -1,6 +1,0 @@
-
-Examen	O
-toxicológico	O
-de	O
-orina	O
-:	O

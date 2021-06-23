@@ -1,9 +1,0 @@
-
-Tuvo	O
-a	O
-su	O
-hija	O
-cuando	O
-era	O
-adolescente	O
-.	O

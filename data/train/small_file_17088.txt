@@ -1,7 +1,0 @@
-
-No	O
-afectación	O
-de	O
-pares	O
-bajos	O
-.	O

@@ -1,7 +1,0 @@
-
-Dismetría	O
-dedo	O
--	O
-nariz	O
-bilateral	O
-.	O

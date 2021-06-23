@@ -1,8 +1,0 @@
-
-Se	O
-administra	O
-analgesia	O
-intravenosa	O
-con	O
-dexketoprofeno	O
-.	O

@@ -1,5 +1,0 @@
-
-Parto	O
-a	O
-término	O
-.	O

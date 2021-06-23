@@ -1,8 +1,0 @@
-
-El	O
-médico	B-PROFESION
-tratante	O
-solicita	O
-tomografía	O
-computada	O
-.	O

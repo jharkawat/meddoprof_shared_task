@@ -1,9 +1,0 @@
-
-No	O
-líquido	O
-libre	O
-en	O
-fondo	O
-de	O
-saco	O
-.	O

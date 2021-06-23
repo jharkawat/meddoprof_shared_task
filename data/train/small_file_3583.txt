@@ -1,5 +1,0 @@
-
-Síndrome	O
-Cola	O
-caballo	O
-.	O

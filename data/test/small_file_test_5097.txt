@@ -1,7 +1,0 @@
-
-Parálisis	O
-de	O
-cuerda	O
-vocal	O
-izquierda	O
-.	O

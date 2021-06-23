@@ -1,8 +1,0 @@
-
-Auscultación	O
-:	O
-No	O
-se	O
-ausculta	O
-soplos	O
-.	O

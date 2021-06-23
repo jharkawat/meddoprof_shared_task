@@ -1,5 +1,0 @@
-
-Botón	O
-aórtico	O
-esclerótico	O
-.	O

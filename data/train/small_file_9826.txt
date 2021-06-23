@@ -1,8 +1,0 @@
-
-Profesión	O
-:	O
-Disen	B-PROFESION
-̃	I-PROFESION
-ador	I-PROFESION
-gráfico	I-PROFESION
-.	O

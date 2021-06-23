@@ -1,5 +1,0 @@
-
-No	O
-farmacoterapia	O
-activa	O
-.	O

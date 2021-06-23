@@ -1,5 +1,0 @@
-
-Patrón	O
-Fe	O
-medular	O
-.	O

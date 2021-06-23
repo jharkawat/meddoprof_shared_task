@@ -1,7 +1,0 @@
-
-La	O
-citología	O
-peritoneal	O
-fue	O
-negativa	O
-.	O

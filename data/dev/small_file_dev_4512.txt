@@ -1,6 +1,0 @@
-
-No	O
-presenta	O
-síntomas	O
-respiratorios	O
-.	O

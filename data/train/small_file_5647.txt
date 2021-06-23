@@ -1,4 +1,0 @@
-
-Actualmente	O
-desempleado	B-SITUACION_LABORAL
-.	O

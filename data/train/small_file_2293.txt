@@ -1,6 +1,0 @@
-
-Hospital	O
-Universitario	O
-La	O
-Paz	O
-.	O

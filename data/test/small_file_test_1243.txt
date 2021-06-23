@@ -1,7 +1,0 @@
-
-Al	O
-segundo	O
-día	O
-empezaron	O
-mialgias	O
-.	O

@@ -1,5 +1,0 @@
-
-Ataxia	O
-de	O
-tronco	O
-.	O

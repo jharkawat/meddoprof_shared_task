@@ -1,8 +1,0 @@
-
-Domicilio	O
-:	O
-Calle	O
-La	O
-Guairita	O
-3	O
-.	O

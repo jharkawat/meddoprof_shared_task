@@ -1,5 +1,0 @@
-
-Auxiliar	B-PROFESION
-de	I-PROFESION
-farmacia	I-PROFESION
-.	O

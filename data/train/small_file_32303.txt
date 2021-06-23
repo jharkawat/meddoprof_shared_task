@@ -1,7 +1,0 @@
-
-Se	O
-recomienda	O
-inicio	O
-tratamiento	O
-farmacológico	O
-.	O

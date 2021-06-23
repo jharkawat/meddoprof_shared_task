@@ -1,9 +1,0 @@
-
-Desde	O
-atención	O
-primaria	O
-se	O
-realizó	O
-analítica	O
-con	O
-:	O

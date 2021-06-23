@@ -1,9 +1,0 @@
-
-Saluda	O
-y	O
-se	O
-despide	O
-adecuadamente	O
-de	O
-entrevistadores	B-PROFESION
-.	O

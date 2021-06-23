@@ -1,4 +1,0 @@
-
-Abdomen	O
-anodino	O
-.	O

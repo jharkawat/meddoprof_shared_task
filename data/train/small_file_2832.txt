@@ -1,9 +1,0 @@
-
-Diagnosticando	O
-enfermedad	O
-renal	O
-crónica	O
-de	O
-etiología	O
-vascular	O
-.	O

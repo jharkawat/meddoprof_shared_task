@@ -1,8 +1,0 @@
-
-Signo	O
-de	O
-Jordano	O
-(	O
-+	O
-)	O
-.	O

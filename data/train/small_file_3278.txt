@@ -1,5 +1,0 @@
-
-ORL	O
-sin	O
-exudado	O
-.	O

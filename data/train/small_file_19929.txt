@@ -1,8 +1,0 @@
-
-Según	O
-el	O
-psiquiatra	B-PROFESION
-,	O
-la	O
-Sra	O
-.	O

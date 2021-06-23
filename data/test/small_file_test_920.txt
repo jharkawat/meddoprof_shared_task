@@ -1,5 +1,0 @@
-
-Ecocardiografia	O
-transtorácica	O
-normal	O
-.	O

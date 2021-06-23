@@ -1,7 +1,0 @@
-
-Hipotiroidismo	O
-subclínico	O
-detectado	O
-en	O
-2014	O
-.	O

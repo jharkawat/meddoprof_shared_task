@@ -1,9 +1,0 @@
-
-Colitis	O
-eosinofílica	O
-en	O
-paciente	O
-con	O
-síndrome	O
-diarreico	O
-crónico	O

@@ -1,7 +1,0 @@
-
-Moqueo	O
-nasal	O
-con	O
-congestión	O
-importante	O
-.	O

@@ -1,9 +1,0 @@
-
--	O
-Derrame	O
-pleural	O
-derecho	O
-(	O
-ametabólico	O
-)	O
-.	O

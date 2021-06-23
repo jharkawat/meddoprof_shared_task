@@ -1,8 +1,0 @@
-
-Endoscopia	O
-oral	O
-:	O
-sin	O
-alteraciones	O
-patológicas	O
-.	O

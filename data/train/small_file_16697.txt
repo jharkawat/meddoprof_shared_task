@@ -1,9 +1,0 @@
-
-ACM	O
-izquierda	O
-permeable	O
-en	O
-todo	O
-su	O
-trayecto	O
-.	O

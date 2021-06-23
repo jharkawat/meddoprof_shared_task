@@ -1,6 +1,0 @@
-
-No	O
-sigue	O
-tratamiento	O
-domiciliario	O
-.	O

@@ -1,8 +1,0 @@
-
-Temperatura	O
-:	O
-35	O
-,	O
-8	O
-oC	O
-.	O

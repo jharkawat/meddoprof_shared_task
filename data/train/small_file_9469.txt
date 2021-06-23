@@ -1,8 +1,0 @@
-
-Extubación	O
-precoz	O
-y	O
-recuperación	O
-neurológica	O
-completa	O
-.	O

@@ -1,4 +1,0 @@
-
-Porta	O
-permeable	O
-.	O

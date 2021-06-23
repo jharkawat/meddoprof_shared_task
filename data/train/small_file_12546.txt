@@ -1,8 +1,0 @@
-
-No	O
-presenta	O
-cardiopatías	O
-ni	O
-broncopatías	O
-conocidas	O
-.	O

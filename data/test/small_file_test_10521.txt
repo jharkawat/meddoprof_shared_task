@@ -1,8 +1,0 @@
-
-Miocarditis	O
-secundaria	O
-a	O
-nivolumab	O
-grado	O
-4	O
-.	O

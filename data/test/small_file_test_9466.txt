@@ -1,8 +1,0 @@
-
-Estudiante	B-SITUACION_LABORAL
-de	O
-un	O
-módulo	O
-de	O
-mecánica	O
-.	O

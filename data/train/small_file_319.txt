@@ -1,8 +1,0 @@
-
-Hombre	O
-de	O
-28	O
-años	O
-,	O
-soldado	B-PROFESION
-.	O

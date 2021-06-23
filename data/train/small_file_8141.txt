@@ -1,7 +1,0 @@
-
-Resto	O
-de	O
-estudio	O
-microbiológico	O
-negativo	O
-.	O

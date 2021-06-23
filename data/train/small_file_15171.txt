@@ -1,6 +1,0 @@
-
-Cultivo	O
-BAS	O
-:	O
-negativo	O
-.	O

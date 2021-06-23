@@ -1,9 +1,0 @@
-
-Vive	O
-con	O
-la	O
-familia	O
-de	O
-su	O
-esposo	O
-.	O

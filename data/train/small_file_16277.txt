@@ -1,5 +1,0 @@
-
-No	O
-lesiones	O
-dérmicas	O
-.	O

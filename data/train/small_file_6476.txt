@@ -1,9 +1,0 @@
-
-Fluorescencia	O
-artefacta	O
-tras	O
-aplicación	O
-de	O
-filtro	O
-solar	O
-.	O

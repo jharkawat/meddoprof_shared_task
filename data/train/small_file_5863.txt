@@ -1,8 +1,0 @@
-
-Heces	O
-y	O
-gas	O
-en	O
-marco	O
-cólico	O
-.	O

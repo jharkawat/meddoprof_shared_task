@@ -1,6 +1,0 @@
-
-Sospecha	O
-de	O
-tormenta	O
-tiroidea	O
-.	O

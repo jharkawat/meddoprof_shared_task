@@ -1,9 +1,0 @@
-
-Hemoglobina	O
-10	O
-,	O
-5	O
-g	O
-/	O
-dl	O
-.	O

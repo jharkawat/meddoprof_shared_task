@@ -1,8 +1,0 @@
-
-Tratamiento	O
-habitual	O
-:	O
-Eutirox	O
-y	O
-Omeprazol	O
-.	O

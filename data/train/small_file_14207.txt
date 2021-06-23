@@ -1,7 +1,0 @@
-
-No	O
-se	O
-detectan	O
-células	O
-malignas	O
-.	O

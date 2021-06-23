@@ -1,5 +1,0 @@
-
-Pulso	O
-distal	O
-conservado	O
-.	O

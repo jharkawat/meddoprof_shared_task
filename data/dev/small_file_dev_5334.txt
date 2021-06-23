@@ -1,9 +1,0 @@
-
-Disartria	O
-atáxica	O
-:	O
-por	O
-afectación	O
-del	O
-cerebelo	O
-.	O

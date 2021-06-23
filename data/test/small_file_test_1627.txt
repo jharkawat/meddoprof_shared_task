@@ -1,9 +1,0 @@
-
-Imagen	O
-radiográfi	O
-ca	O
-que	O
-muestra	O
-trabeculado	O
-óseo	O
-.	O

@@ -1,8 +1,0 @@
-
-Recibe	O
-tratamiento	O
-oncológico	O
-únicamente	O
-con	O
-exemestano	O
-.	O

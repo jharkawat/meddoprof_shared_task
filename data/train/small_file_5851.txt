@@ -1,6 +1,0 @@
-
-Puño	O
-percusión	O
-bilateral	O
-negativa	O
-.	O

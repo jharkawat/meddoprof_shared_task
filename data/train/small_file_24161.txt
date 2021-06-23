@@ -1,8 +1,0 @@
-
-Niega	O
-sintomatología	O
-en	O
-la	O
-esfera	O
-sensoperceptiva	O
-.	O

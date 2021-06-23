@@ -1,6 +1,0 @@
-
-Probable	O
-carcinoma	O
-biliar	O
-indiferenciado	O
-.	O

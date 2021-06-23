@@ -1,8 +1,0 @@
-
-Trastorno	O
-bipolar	O
-en	O
-una	O
-tía	O
-paterna	O
-.	O

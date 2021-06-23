@@ -1,8 +1,0 @@
-
-Sin	O
-datos	O
-de	O
-deterioro	O
-cognitivo	O
-grosero	O
-.	O

@@ -1,8 +1,0 @@
-
-Niega	O
-antecedentes	O
-de	O
-consumo	O
-de	O
-tóxicos	O
-.	O

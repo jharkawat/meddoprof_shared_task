@@ -1,7 +1,0 @@
-
-Fluoxetina	O
-20	O
-mg	O
-/	O
-día	O
-.	O

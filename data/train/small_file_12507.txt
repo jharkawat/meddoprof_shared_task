@@ -1,8 +1,0 @@
-
-Sin	O
-antecedentes	O
-de	O
-patología	O
-neurológica	O
-previa	O
-.	O

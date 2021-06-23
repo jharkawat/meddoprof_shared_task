@@ -1,9 +1,0 @@
-
-Masa	O
-toracoabdominal	O
-anterior	O
-descrita	O
-en	O
-el	O
-informe	O
-.	O

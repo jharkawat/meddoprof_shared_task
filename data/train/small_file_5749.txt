@@ -1,9 +1,0 @@
-
-Rx	O
-cervical	O
-y	O
-lumbar	O
-:	O
-signos	O
-degenerativos	O
-.	O

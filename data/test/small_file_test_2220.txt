@@ -1,4 +1,0 @@
-
-BIRADS	O
-4	O
-.	O

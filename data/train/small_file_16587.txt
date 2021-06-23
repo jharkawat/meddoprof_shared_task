@@ -1,7 +1,0 @@
-
-Cabeza	O
-y	O
-cuello	O
-sin	O
-alteraciones	O
-.	O

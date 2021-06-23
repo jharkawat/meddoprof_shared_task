@@ -1,7 +1,0 @@
-
-Hospital	O
-Universitario	O
-Virgen	O
-del	O
-Rocío	O
-.	O

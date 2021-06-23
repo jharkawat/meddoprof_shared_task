@@ -1,8 +1,0 @@
-
-Derivada	O
-a	O
-Psiquiatría	O
-para	O
-retomar	O
-seguimiento	O
-.	O

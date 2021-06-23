@@ -1,9 +1,0 @@
-
-Carcinoma	O
-papilar	O
-de	O
-tiroides	O
-,	O
-estadio	O
-IV	O
-.	O

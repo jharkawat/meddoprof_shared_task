@@ -1,9 +1,0 @@
-
-Marcha	O
-cautelosa	O
-,	O
-con	O
-disminución	O
-del	O
-braceo	O
-.	O

@@ -1,6 +1,0 @@
-
-Eje	O
-I	O
-Trastorno	O
-esquizofreniforme	O
-orgánico	O

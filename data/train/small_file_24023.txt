@@ -1,8 +1,0 @@
-
-Tiene	O
-un	O
-trabajo	O
-estable	O
-como	O
-camarero	B-PROFESION
-.	O

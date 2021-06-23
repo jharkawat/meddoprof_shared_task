@@ -1,7 +1,0 @@
-
-Se	O
-inició	O
-tratamiento	O
-con	O
-itraconazol	O
-.	O

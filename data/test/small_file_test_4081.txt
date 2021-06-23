@@ -1,6 +1,0 @@
-
-No	O
-presenta	O
-déficit	O
-neurológico	O
-.	O

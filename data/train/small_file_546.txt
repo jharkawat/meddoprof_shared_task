@@ -1,9 +1,0 @@
-
-Edad	O
-:	O
-56	O
-años	O
-Sexo	O
-:	O
-H	O
-.	O

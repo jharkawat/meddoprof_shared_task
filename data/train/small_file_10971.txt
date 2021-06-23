@@ -1,8 +1,0 @@
-
-Coombs	O
-directo	O
-a	O
-brucella	O
-:	O
-negativo	O
-.	O

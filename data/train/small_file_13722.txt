@@ -1,7 +1,0 @@
-
-FROTIS	O
-SANGRE	O
-PERIFÉRICA	O
-:	O
-Eosinofilia	O
-.	O

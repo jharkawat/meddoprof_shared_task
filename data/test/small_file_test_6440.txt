@@ -1,9 +1,0 @@
-
-Resto	O
-del	O
-estudio	O
-dentro	O
-de	O
-la	O
-normalidad	O
-.	O

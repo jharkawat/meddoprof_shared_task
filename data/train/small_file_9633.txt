@@ -1,6 +1,0 @@
-
-Niega	O
-tabaquismo	O
-ni	O
-etilismo	O
-.	O

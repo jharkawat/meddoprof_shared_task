@@ -1,5 +1,0 @@
-
-Enfermedad	O
-inflamatoria	O
-intestinal	O
-.	O

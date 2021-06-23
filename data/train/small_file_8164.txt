@@ -1,9 +1,0 @@
-
-No	O
-heridas	O
-o	O
-puerta	O
-de	O
-entrada	O
-visible	O
-.	O

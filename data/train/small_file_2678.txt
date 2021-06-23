@@ -1,6 +1,0 @@
-
-Lenguaje	O
-y	O
-campimetría	O
-normales	O
-.	O

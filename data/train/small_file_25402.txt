@@ -1,8 +1,0 @@
-
-En	O
-España	O
-tiene	O
-pocas	O
-relaciones	O
-sociales	O
-.	O

@@ -1,8 +1,0 @@
-
-Actualmente	O
-desempleado	B-SITUACION_LABORAL
-y	O
-sin	B-SITUACION_LABORAL
-prestación	I-SITUACION_LABORAL
-económica	I-SITUACION_LABORAL
-.	O

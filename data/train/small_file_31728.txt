@@ -1,7 +1,0 @@
-
-Fractura	O
-subtrocantérea	O
-de	O
-cadera	O
-izquierda	O
-.	O

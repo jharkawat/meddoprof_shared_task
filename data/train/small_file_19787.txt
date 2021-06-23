@@ -1,9 +1,0 @@
-
-Actualmente	O
-,	O
-vive	O
-con	O
-el	O
-padre	O
-jubilado	B-SITUACION_LABORAL
-.	O

@@ -1,6 +1,0 @@
-
-Trastorno	O
-psicótico	O
-no	O
-especificado	O
-.	O

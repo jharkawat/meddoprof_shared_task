@@ -1,8 +1,0 @@
-
-Estuvo	O
-en	O
-tratamiento	O
-durante	O
-dos	O
-meses	O
-.	O

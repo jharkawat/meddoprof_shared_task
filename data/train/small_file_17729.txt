@@ -1,6 +1,0 @@
-
-Frecuencia	O
-cardiaca	O
-60	O
-lpm	O
-.	O

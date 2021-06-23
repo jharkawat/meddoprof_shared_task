@@ -1,7 +1,0 @@
-
-regurgitación	O
-mitral	O
-y	O
-aórtica	O
-ligera	O
-.	O

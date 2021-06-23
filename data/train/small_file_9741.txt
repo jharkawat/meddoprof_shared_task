@@ -1,6 +1,0 @@
-
-Factor	O
-reumatoide	O
-:	O
-normal	O
-.	O

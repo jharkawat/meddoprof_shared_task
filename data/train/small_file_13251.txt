@@ -1,6 +1,0 @@
-
-Trabajaba	B-PROFESION
-en	I-PROFESION
-la	I-PROFESION
-construcción	I-PROFESION
-.	O

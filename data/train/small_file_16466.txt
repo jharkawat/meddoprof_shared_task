@@ -1,6 +1,0 @@
-
-Marcha	O
-y	O
-estática	O
-normales	O
-.	O

@@ -1,7 +1,0 @@
-
-El	O
-ingreso	O
-duró	O
-3	O
-meses	O
-.	O

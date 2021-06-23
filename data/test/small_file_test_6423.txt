@@ -1,9 +1,0 @@
-
-Impotencia	O
-funcional	O
-del	O
-brazo	O
-derecho	O
-por	O
-dolor	O
-.	O

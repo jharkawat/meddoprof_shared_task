@@ -1,8 +1,0 @@
-
-Nunca	O
-ha	O
-consumido	O
-LSD	O
-ni	O
-heroína	O
-.	O

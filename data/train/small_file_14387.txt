@@ -1,8 +1,0 @@
-
-Ecografía	O
-abdominal	O
-:	O
-quistes	O
-simples	O
-renales	O
-.	O

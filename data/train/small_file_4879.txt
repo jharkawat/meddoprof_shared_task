@@ -1,6 +1,0 @@
-
-Meningitis	O
-con	O
-18	O
-años	O
-.	O

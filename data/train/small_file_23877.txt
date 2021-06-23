@@ -1,6 +1,0 @@
-
-Padre	O
-con	O
-demencia	O
-vascular	O
-.	O

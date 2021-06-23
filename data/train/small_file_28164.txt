@@ -1,8 +1,0 @@
-
-Electrocardiograma	O
-:	O
-Ritmo	O
-regular	O
-,	O
-sinusal	O
-.	O

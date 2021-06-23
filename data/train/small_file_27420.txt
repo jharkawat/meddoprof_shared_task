@@ -1,5 +1,0 @@
-
-PR	O
-120	O
-mseg	O
-.	O

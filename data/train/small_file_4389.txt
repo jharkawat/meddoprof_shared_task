@@ -1,6 +1,0 @@
-
-Nunca	O
-lo	O
-dejan	O
-solo	O
-.	O

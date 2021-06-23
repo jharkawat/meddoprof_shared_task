@@ -1,9 +1,0 @@
-
-Comercial	B-PROFESION
-de	I-PROFESION
-empresa	I-PROFESION
-de	I-PROFESION
-equipamiento	I-PROFESION
-para	I-PROFESION
-laboratorios	I-PROFESION
-.	O

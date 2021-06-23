@@ -1,9 +1,0 @@
-
-Cabeza	O
-y	O
-cuello	O
-:	O
-Cavidad	O
-oral	O
-normal	O
-.	O

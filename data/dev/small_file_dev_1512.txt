@@ -1,7 +1,0 @@
-
-Eco	O
-abdomen	O
-:	O
-hepatoesplenomegalia	O
-leve	O
-.	O

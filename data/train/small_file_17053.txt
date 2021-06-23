@@ -1,9 +1,0 @@
-
-Malformación	O
-arteriovenosa	O
-en	O
-el	O
-lóbulo	O
-parietal	O
-izquierdo	O
-.	O

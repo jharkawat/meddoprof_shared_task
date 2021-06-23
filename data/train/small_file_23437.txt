@@ -1,5 +1,0 @@
-
-Apraxia	O
-del	O
-vestir	O
-.	O

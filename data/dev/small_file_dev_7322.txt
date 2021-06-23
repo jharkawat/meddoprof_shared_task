@@ -1,6 +1,0 @@
-
-El	O
-electrocardiograma	O
-era	O
-normal	O
-.	O

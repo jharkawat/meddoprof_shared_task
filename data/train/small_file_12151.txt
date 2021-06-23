@@ -1,5 +1,0 @@
-
-Aorta	O
-ascendente	O
-normal	O
-.	O

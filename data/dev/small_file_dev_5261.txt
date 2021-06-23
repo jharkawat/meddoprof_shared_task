@@ -1,8 +1,0 @@
-
-Rx	O
-tórax	O
-:	O
-Hemidiafragma	O
-derecho	O
-bilobulado	O
-.	O

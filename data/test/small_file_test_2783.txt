@@ -1,9 +1,0 @@
-
-Taquipneico	O
-,	O
-cianosis	O
-central	O
-,	O
-edema	O
-facial	O
-.	O

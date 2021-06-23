@@ -1,9 +1,0 @@
-
-Complementa	O
-la	O
-vía	O
-oral	O
-con	O
-sonda	O
-nasogástrica	O
-.	O

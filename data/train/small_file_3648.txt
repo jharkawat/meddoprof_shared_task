@@ -1,9 +1,0 @@
-
-Valoración	O
-APGAR	O
-familiar	O
-:	O
-Familia	O
-muy	O
-funcional	O
-.	O

@@ -1,7 +1,0 @@
-
--	O
-EKG	O
-:	O
-Ritmo	O
-sinusal	O
-.	O
