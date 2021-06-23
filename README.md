@@ -51,7 +51,10 @@ conda env create -f env.yml
 3. Scripts for conll-standoff conversion ```data\meddo\meddoprof_shared_task\conllandstandoff_convertor```
 
 ## Training Instruction
-1. Download pretrained model form [link](https://github.com/jharkawat/meddoprof_shared_task/releases/download/v0.1/meddo.zip)
+1. Download pretrained model 
+  - Finetuned-BETO: [link](https://github.com/jharkawat/meddoprof_shared_task/releases/download/v0.1/meddo.zip)
+  - Multi-lang-bert-cased: [link](https://github.com/jharkawat/meddoprof_shared_task/releases/download/V.01/multi_meddo.zip)
+  
  ```mkdir experiments``` and unzip file inside experiments.
 
 2. For Training the model:
