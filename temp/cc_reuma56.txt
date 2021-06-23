@@ -1,0 +1,312 @@
+ANTECEDENTES	O
+PERSONALES	O
+
+Mujer	O
+de	O
+23	O
+años.	O
+
+Natural	O
+de	O
+Oviedo.	O
+Trabaja	O
+como	O
+comercial	B-PROFESION
+
+DM	O
+tipo	O
+1(4	O
+años)	O
+mal	O
+controlada→Retinopatía	O
+diabética	O
+no	O
+proliferativa	O
+
+Diarrea	O
+crónica	O
+asociada	O
+a	O
+disbacteriosis.	O
+
+A.	O
+familiares	O
+:	O
+Madre	O
+con	O
+AR	O
+FR+	O
+ACPA+.	O
+Tía	O
+Enfermedad	O
+de	O
+Crohn	O
+
+
+ENFERMEDAD	O
+ACTUAL	O
+
+1ª	O
+VISITA	O
+
+Oligoartritis	O
+rodilla	O
+y	O
+tobillo	O
+izquierdos	O
+aditivos	O
+15	O
+días	O
+de	O
+evolución	O
+→sin	O
+factor	O
+desencadenante.	O
+
+•	O
+Anamnesis:	O
+No	O
+datos	O
+compatibles	O
+con	O
+AR,	O
+SpA	O
+ni	O
+conectivopatías.	O
+
+•	O
+EF:	O
+Sinovitis	O
+de	O
+tobillo	O
+y	O
+rodilla	O
+izquierda,	O
+no	O
+otras	O
+áreas	O
+afectadas.	O
+
+•	O
+PCR	O
+3,1	O
+resto	O
+normal.	O
+
+•	O
+Tto:	O
+Vimovo	O
+y	O
+celestone	O
+IM	O
+
+
+2ª	O
+VISITA	O
+
+15	O
+días	O
+
+Sinovitis	O
+ambos	O
+tobillos	O
+y	O
+mediopié+	O
+placa	O
+eritemato-violácea	O
+en	O
+maleolo	O
+interno	O
+de	O
+pie	O
+derecho.	O
+
+
+PPCC:	O
+Normales	O
+o	O
+negativos	O
+
+▪	O
+Hemograma,	O
+bioquímica	O
+
+▪	O
+FR,	O
+ACPA,	O
+ANA,	O
+HLA-B27	O
+
+▪	O
+Serologías,	O
+TSH,	O
+Ig,	O
+C3,	O
+C4	O
+
+▪	O
+Radiografías	O
+tórax,	O
+pelvis,	O
+manos	O
+y	O
+pies.	O
+
+
+PLAN	O
+
+▪	O
+Prednisona10mg	O
+
+▪	O
+ECA,	O
+TACAR	O
+
+
+3ª	O
+VISITA	O
+
+¿Artritis	O
+séptica?	O
+
+20	O
+días	O
+
+Empeoramiento	O
+tobillo	O
+derecho	O
+con	O
+sinovitis,	O
+intenso	O
+dolor,	O
+limitación	O
+y	O
+rotura	O
+espontánea	O
+lesión	O
+ampollosa.	O
+No	O
+fiebre.	O
+
+
+INGRESO	O
+
+▪	O
+Cloxacilina+	O
+Ceftriaxona	O
+IV	O
+
+▪	O
+RMN	O
+Tobillo	O
+derecho	O
+
+
+EF	O
+
+▪	O
+Edematizaciónsin	O
+fóvea	O
+hasta	O
+región	O
+infrarotuliana	O
+
+▪	O
+Sinovitis	O
+ambos	O
+tobillos	O
+y	O
+mediotarsianas.	O
+
+▪	O
+Dolor	O
+MTF	O
+bilateral.	O
+
+
+PPCC	O
+
+▪	O
+HG:	O
+mínima	O
+leucocitosis	O
+con	O
+Dizq.	O
+
+▪	O
+BQ:	O
+Glucosa	O
+488,	O
+ECA	O
+70	O
+
+▪	O
+PCR	O
+3,5	O
+mg/dL,	O
+VSG	O
+54	O
+mm/h,	O
+PCT	O
+negativa.	O
+
+▪	O
+Proteinograma:	O
+Inflamación	O
+aguda	O
+
+•	O
+TACAR:	O
+Normal	O
+
+•	O
+EMG:	O
+Polineuropatía	O
+sensitivo	O
+motor	O
+a	O
+predominio	O
+distal	O
+y	O
+sensitivo	O
+compatible	O
+con	O
+etiología	O
+metabólica.	O
+
+
+LIQUIDO	O
+SINOVIAL	O
+TOBILLO	O
+
+350.000	O
+hematíes,	O
+588	O
+células	O
+nucleadas,	O
+sin	O
+consumo	O
+glucosa.	O
+Cultivo	O
+negativo	O
+
+
+NEUROARTROPATÍA	O
+DE	O
+CHARCOT	O
+
+Artropatía	O
+neuropática	O
+destructiva	O
+atrófica	O
+sin	O
+componente	O
+infeccioso	O
+en	O
+tobillo	O
+derecho	O
+junto	O
+con	O
+artropatía	O
+mediotarsiana	O
+izquierda.	O

@@ -1,0 +1,561 @@
+Mujerde	O
+28	O
+años	O
+que	O
+presenta	O
+cuadro	O
+agudo	O
+de	O
+desorientación	O
+cuando	O
+estaba	O
+sola	O
+en	O
+el	O
+metro.	O
+
+AP:	O
+Trabaja	B-PROFESION
+en	I-PROFESION
+una	I-PROFESION
+empresa	I-PROFESION
+de	I-PROFESION
+casino	I-PROFESION
+
+Dudosa	O
+alergia	O
+a	O
+pirazolonas	O
+
+AIT	O
+a	O
+los	O
+18	O
+años	O
+estudiado	O
+en	O
+Suiza	O
+sin	O
+hallazgos	O
+patológicos	O
+
+
+Llevada	O
+por	O
+el	O
+SAMUR	O
+a	O
+urgencias	O
+presentaba	O
+a	O
+la	O
+exploración	O
+neurológica	O
+estado	O
+estuporosa,	O
+anisocoria	O
+con	O
+midriasis	O
+pupilar	O
+izquierda	O
+reactiva,	O
+afasia	O
+motora,	O
+heminegligencia	O
+derecha	O
+y	O
+claudicación	O
+de	O
+la	O
+mano	O
+derecha.	O
+
+En	O
+la	O
+exploración	O
+general	O
+dificultad	O
+para	O
+la	O
+palpación	O
+de	O
+pulsos	O
+carotídeos	O
+y	O
+en	O
+miembros	O
+superiores	O
+con	O
+buenos	O
+pulsos	O
+femorales	O
+y	O
+pedios	O
+
+
+Desde	O
+hacía	O
+una	O
+año	O
+refería	O
+mareos	O
+ocasionales,	O
+con	O
+cefalea,	O
+amaurosis	O
+fugax	O
+y	O
+pérdida	O
+de	O
+fuerza	O
+a	O
+los	O
+que	O
+no	O
+dio	O
+importancia	O
+y	O
+no	O
+acudió	O
+al	O
+médico	B-PROFESION
+para	O
+valoración	O
+
+
+-ANALÍTICA	O
+
+VSG	O
+30	O
+
+Hemograma,	O
+bioquímica,	O
+proteinograma	O
+y	O
+coagulación:	O
+normal	O
+
+ANA,	O
+anticuerpos	O
+antimúsculo	O
+liso,	O
+antimitocodriales	O
+y	O
+antiLKM:	O
+negativos	O
+
+p-ANCA	O
+y	O
+c-ANCA:	O
+negativos	O
+
+Serología	O
+hepatitis	O
+y	O
+sífilis:	O
+negativos	O
+
+
+-TAC	O
+CRANEAL	O
+URGENTE	O
+
+Hipodensidad	O
+en	O
+corteza	O
+insular	O
+anterior	O
+izquierda,	O
+cabeza	O
+del	O
+núcleo	O
+caudado,	O
+segmento	O
+anterior	O
+del	O
+núcleo	O
+lenticulary	O
+corteza	O
+del	O
+opérculo	O
+frontal	O
+izquierdo	O
+
+Compatible	O
+con	O
+infarto	O
+precoz	O
+en	O
+territorio	O
+periférico	O
+y	O
+ramas	O
+lentículo-estriadas	O
+de	O
+la	O
+arteria	O
+cerebral	O
+media	O
+izquierda	O
+
+
+Lesiones	O
+isquémicas	O
+incipientes	O
+en	O
+territorio	O
+de	O
+laarteria	O
+cerebral	O
+media	O
+en	O
+TAC	O
+
+
+RM	O
+CRÁNEO	O
+URGENTE	O
+
+Infarto	O
+agudo	O
+en	O
+opérculo	O
+frontal,	O
+ínsula	O
+anterior	O
+y	O
+cabeza	O
+del	O
+núcleo	O
+caudado	O
+izquierdo	O
+
+ANGIO	O
+RM	O
+CEREBRAL	O
+
+
+Obstrucción	O
+de	O
+carótida	O
+supraclinoidea	O
+y	O
+segmento	O
+proximal	O
+de	O
+ACM	O
+izquierda	O
+
+
+Estudio	O
+de	O
+difusión	O
+con	O
+afectación	O
+de	O
+la	O
+rama	O
+anterior	O
+de	O
+arteria	O
+cerebral	O
+media	O
+izquierda	O
+en	O
+RM	O
+
+
+-ANGIO-RM	O
+TRONCOS	O
+SUPRAAORTICOS	O
+
+Estenosis	O
+proximal	O
+de	O
+las	O
+ramas	O
+del	O
+tronco	O
+braquiocéfalico	O
+derecho	O
+y	O
+segmento	O
+proximal	O
+de	O
+arteria	O
+vertebral	O
+derecha,	O
+carótida	O
+izquierda	O
+y	O
+arteria	O
+subclavia	O
+izquierda.	O
+
+Engrosamiento	O
+mural	O
+simétrico	O
+en	O
+carótida	O
+intracavernosa	O
+izquierda	O
+
+
+-ARTERIOGRAFÍA	O
+SELECTIVA	O
+
+En	O
+aorta	O
+torácica	O
+afectación	O
+de	O
+todos	O
+los	O
+troncos	O
+superiores	O
+aórticos:	O
+estenosis	O
+larga	O
+de	O
+tronco	O
+braquiocefálico	O
+derecho	O
+arteria	O
+vertebral	O
+izquierda	O
+y	O
+la	O
+subclavia	O
+distal	O
+se	O
+identifican	O
+através	O
+de	O
+colaterales	O
+colaterales	O
+cervicales	O
+y	O
+mediastínicas	O
+recanalizan	O
+la	O
+arteria	O
+vertebral	O
+derecha	O
+en	O
+su	O
+trayecto	O
+vertebral	O
+
+
+Se	O
+colocan	O
+stent	O
+en	O
+la	O
+arteria	O
+carótida	O
+común	O
+izquierda	O
+y	O
+en	O
+la	O
+subclavia	O
+izquierda	O
+
+Se	O
+fibrinoliza	O
+con	O
+rTPA,	O
+antiagregación	O
+con	O
+inyesprin	O
+y	O
+bolos	O
+heparina	O
+
+Se	O
+trata	O
+con	O
+dosis	O
+de	O
+carga	O
+de	O
+clopidogrel	O
+600	O
+mg	O
+y	O
+AAS300	O
+mg/24	O
+h	O
+y	O
+luego	O
+clopidogrel	O
+75/	O
+24	O
+h	O
+
+Se	O
+pauta	O
+tratamiento	O
+con	O
+bolos	O
+de	O
+500	O
+mg	O
+al	O
+día	O
+de	O
+6-metilprednisolona	O
+durante	O
+3	O
+días	O
+y	O
+luego	O
+60	O
+mg/24	O
+h.	O
+
+Al	O
+tercer	O
+día	O
+se	O
+inicia	O
+tratamiento	O
+con	O
+metotrexate	O
+im	O
+20/mg/semana	O
+y	O
+lederfolín	O
+1	O
+comprimido/	O
+semana	O
+
+
+EVOLUCIÓN	O
+
+-En	O
+mayo	O
+de	O
+2012	O
+episodio	O
+de	O
+dos	O
+horas	O
+de	O
+duración	O
+de	O
+mareo	O
+sin	O
+giro	O
+de	O
+objetos	O
+y	O
+sensación	O
+de	O
+dificultad	O
+de	O
+control	O
+de	O
+movimientos	O
+en	O
+miembros	O
+superiores	O
+
+-Diagnosticada	O
+de	O
+estenosis	O
+intrastent	O
+de	O
+la	O
+subclaviaizquierda	O
+
+-Se	O
+colocan	O
+dos	O
+stent	O
+a	O
+dicho	O
+nivel-Se	O
+sube	O
+dosis	O
+de	O
+infliximab	O
+a	O
+5	O
+mg/Kg	O
+
+
+TRATAMIENTO	O
+ACTUAL	O
+
+Adiro	O
+100	O
+mg/	O
+24hMetoject	O
+25	O
+mg/semana	O
+
+Acfol	O
+1	O
+comprimido	O
+a	O
+la	O
+semana	O
+
+Infliximab	O
+300	O
+mg/iv/8	O
+semanas	O
+(inicio	O
+en	O
+noviembre	O
+de	O
+2011	O
+adosis	O
+de	O
+3	O
+mg/Kg	O
+y	O
+a	O
+dosis	O
+e	O
+5	O
+mg/k	O
+desde	O
+mayo	O
+2012)	O
+
+
+EVOLUCIÓN	O
+
+-Realiza	O
+tratamiento	O
+con	O
+logopeda	B-PROFESION
+con	O
+recuperación	O
+del	O
+habla	O
+
+-Cuadro	O
+depresivo	O
+
+-No	O
+secuelas	O
+motoras	O
+
+
+DIAGNÓSTICO	O
+
+ARTERITIS	O
+DE	O
+TAKAYASU	O
+CON	O
+INFARTO	O
+DE	O
+LA	O
+ARTERIA	O
+CEREBRAL	O
+MEDIA	O
+IZQUIERDA	O

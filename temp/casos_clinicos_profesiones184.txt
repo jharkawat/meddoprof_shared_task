@@ -1,0 +1,364 @@
+-	O
+Anamnesis:	O
+
+
+Paciente	O
+de	O
+39	O
+años,	O
+asistenta	B-PROFESION
+de	I-PROFESION
+hogar,	I-PROFESION
+sin	O
+antecedentes	O
+de	O
+interés	O
+que,	O
+desde	O
+hace	O
+unos	O
+7	O
+años,	O
+viene	O
+presentando	O
+un	O
+cuadro	O
+clínico	O
+respiratorio	O
+consistente	O
+en	O
+episodios	O
+de	O
+tos	O
+seca	O
+o	O
+con	O
+ligera	O
+expectoración	O
+viscosa,	O
+opresión	O
+torácica,	O
+disnea,	O
+sibilantes	O
+y	O
+síntomas	O
+de	O
+hiperreactividad	O
+bronquial	O
+inespecífica.	O
+Acompañando	O
+a	O
+esta	O
+sintomatología,	O
+presenta	O
+prurito	O
+nasal	O
+y	O
+salvas	O
+de	O
+estornudos.	O
+La	O
+paciente	O
+refiere	O
+que	O
+empeora	O
+de	O
+su	O
+sintomatología	O
+cuando	O
+se	O
+expone	O
+al	O
+vapor	O
+de	O
+cocción	O
+de	O
+mariscos	O
+y	O
+al	O
+polvo	O
+domestico.	O
+Asocia,	O
+también,	O
+prurito	O
+labial	O
+y	O
+de	O
+orofaringe	O
+al	O
+consumir	O
+estos	O
+alimentos.	O
+
+
+-	O
+Exploración	O
+física:	O
+
+
+Sin	O
+alteraciones.	O
+
+
+-	O
+Diagnostico	O
+de	O
+presunción:	O
+
+
+-	O
+Asma	O
+a	O
+filiar.	O
+
+
+-	O
+Síndrome	O
+de	O
+alergia	O
+oral.	O
+
+
+-	O
+Datos	O
+complementarios:	O
+
+
+-	O
+Pruebas	O
+cutáneas	O
+de	O
+hipersensibilidad	O
+inmediata	O
+(prick-test)	O
+para	O
+aeroalergenos	O
+comunes	O
+presentes	O
+en	O
+nuestro	O
+medio:	O
+
+
+Pólenes	O
+(	O
+Phleum,	O
+Olea,	O
+Parietaria,	O
+Salsola,	O
+plátano	O
+y	O
+ciprés):	O
+negativas.	O
+
+
+Acaros	O
+(D.	O
+pteronyssinus,	O
+Thyrophagus	O
+y	O
+Lepidoglyphus):	O
+negativas.	O
+
+
+Epitelios	O
+de	O
+animales	O
+(perro	O
+y	O
+gato):	O
+Negativas.	O
+§	O
+Hongos	O
+aerógenos	O
+(Alternaria,	O
+Cladosporium):	O
+negativas.	O
+
+
+Látex:	O
+negativo	O
+
+
+-	O
+Pruebas	O
+cutáneas	O
+de	O
+hipersensibilidad	O
+inmediata	O
+(prick-test)	O
+para	O
+trofoalergenos	O
+comunes:	O
+
+
+Pescados	O
+(bacalao,	O
+gallo,	O
+atún	O
+y	O
+sardina):	O
+positivas	O
+para	O
+bacalao	O
+(10	O
+mm,	O
+gallo	O
+(9	O
+mm)	O
+y	O
+sardina	O
+(8	O
+mm),	O
+sobre	O
+una	O
+histamina	O
+de	O
+8	O
+mm.	O
+
+
+Crustáceos	O
+(gamba	O
+y	O
+langostino):	O
+positivos	O
+para	O
+gamba	O
+(16	O
+mm)	O
+y	O
+langostino	O
+(10	O
+mm).	O
+§	O
+Bivalvos	O
+(mejillón	O
+y	O
+almeja):	O
+positivos	O
+para	O
+almeja	O
+(10	O
+mm).	O
+
+
+Cefalópodos	O
+(pulpo	O
+y	O
+sepia):	O
+positivos	O
+para	O
+pulpo	O
+(12	O
+mm)	O
+y	O
+sepia	O
+(9	O
+mm).	O
+
+
+-	O
+Espirometría	O
+basal:	O
+FVC:	O
+107.3%,	O
+FEV1:	O
+94.3	O
+%,	O
+FEV1/FVC:	O
+71.56,	O
+PEF:	O
+83.4	O
+,	O
+FEF25-75:	O
+44%.	O
+Prueba	O
+broncodilatadora:	O
+positiva;	O
+mejoría	O
+del	O
+20	O
+%	O
+y	O
+del	O
+68	O
+%,	O
+en	O
+el	O
+FEV-1	O
+y	O
+FEF25-75%,	O
+respectivamente.	O
+
+
+-	O
+IgE	O
+total:	O
+908	O
+KU/L.	O
+
+
+-	O
+IgE	O
+especifica	O
+para:	O
+
+
+D.Pteronissinus:	O
+positiva,	O
+18.20	O
+KU/L.	O
+
+
+Camarón/gamba:	O
+positiva,	O
+>100	O
+KU/L	O
+
+
+Cucaracha:	O
+positiva,	O
+31.60	O
+KU/L.	O
+
+
+Resto	O
+negativa.	O
+
+
+-	O
+Tratamiento:	O
+
+
+Evitar	O
+la	O
+exposición	O
+a	O
+los	O
+vapores	O
+espontáneos	O
+y	O
+de	O
+cocción	O
+desprendidos	O
+por	O
+los	O
+crustáceos,	O
+cefalópodos	O
+y	O
+bivalvos.	O
+
+
+-	O
+Diagnostico	O
+definitivo:	O
+
+
+Asma	O
+alérgica	O
+ocupacional	O
+en	O
+el	O
+medio	O
+doméstico.	O

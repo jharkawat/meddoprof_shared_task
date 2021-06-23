@@ -1,0 +1,246 @@
+Antecedentes.	O
+
+Varón	O
+de	O
+66	O
+años,	O
+asintomático	O
+hasta	O
+septiembre	O
+de	O
+2017,	O
+en	O
+contexto	O
+de	O
+una	O
+IRVB,	O
+realizan	O
+RX	O
+de	O
+tórax	O
+y	O
+es	O
+derivado	O
+a	O
+consulta	O
+de	O
+neumología.	O
+
+Ex	O
+fumador	O
+hace	O
+20	O
+años,	O
+30	O
+paquetes/año.	O
+
+Trabajó	B-PROFESION
+cortando	I-PROFESION
+mármol	I-PROFESION
+los	O
+últimos	O
+20	O
+años	O
+(sin	O
+uso	O
+de	O
+EPI).	O
+
+-Exploración	O
+física:	O
+Normal.	O
+
+
+-Pruebas	O
+complementarias:	O
+
+IT	O
+67%,	O
+test	O
+Broncodilatación	O
+positivo.	O
+Difusión	O
+y	O
+Capacidad	O
+pulmonar	O
+total	O
+normales.	O
+
+RX	O
+de	O
+tórax	O
+16.10.2017:	O
+patrón	O
+reticulonodular	O
+en	O
+campos	O
+pulmonares	O
+superiores,	O
+
+TACAR:	O
+patrón	O
+intersticial	O
+micronodular,	O
+predominio	O
+en	O
+lóbulos	O
+superiores,	O
+lesiones	O
+pleuroparenquimatosas	O
+apicales	O
+bilaterales.	O
+Pequeñas	O
+adenopatías	O
+mediastínicas	O
+e	O
+hiliares	O
+bilaterales.	O
+Dx:	O
+silicosis/sarcoidosis	O
+.	O
+
+-Tratamiento:	O
+Ventolín	O
+de	O
+rescate.	O
+
+-Evolución:	O
+asintomático	O
+respiratorio.	O
+Síntomas	O
+de	O
+rinoconjuntivitis	O
+alérgica.	O
+Examen	O
+físico	O
+y	O
+saturación	O
+normal.	O
+Se	O
+solicita	O
+Tomografía,	O
+prick	O
+test.	O
+
+
+-Discusión:	O
+
+Neumoconiosis	O
+consecuencia	O
+de	O
+inhalación	O
+mantenida	O
+de	O
+sílice	O
+cristalina	O
+y	O
+respuesta	O
+fibrótica	O
+del	O
+parénquima	O
+pulmonar.	O
+Riesgo	O
+relacionado	O
+con	O
+exposición	O
+acumulada	O
+y	O
+susceptibilidad	O
+individual.Presentación	O
+y	O
+curso	O
+clínico	O
+variable.	O
+No	O
+tratamiento	O
+efectivo.	O
+Exposición	O
+casi	O
+exclusiva	O
+del	O
+ámbito	O
+laboral.	O
+Enfermedad	O
+ocupacional	O
+frecuente	O
+en	O
+nuestro	O
+entorno.	O
+
+Formas	O
+clínicas:	O
+crónica	O
+(simple,	O
+complicada	O
+y	O
+fibrosis	O
+pulmonar	O
+intersticial),	O
+silicosis	O
+acelerada	O
+y	O
+silicosis	O
+aguda.	O
+
+
+-Diagnóstico:	O
+
+•	O
+Historia	O
+laboral.	O
+
+•	O
+Estudios	O
+radiológicos:	O
+clasificación	O
+ILO	O
+
+•	O
+Exclusión	O
+de	O
+otras	O
+entidades.	O
+
+Este	O
+caso	O
+se	O
+trata	O
+de	O
+Silicosis	O
+crónica	O
+simple,	O
+presentación	O
+asintomática	O
+y	O
+diagnóstico	O
+casual	O
+por	O
+hallazgo	O
+radiológico.	O
+
+El	O
+seguimiento	O
+debe	O
+realizarse	O
+cada	O
+1-3	O
+años,	O
+con	O
+valoración	O
+clínica,	O
+espirometría,	O
+RX	O
+de	O
+tórax,	O
+y	O
+Saturación	O
+de	O
+oxígeno.	O
+Pueden	O
+requerirse	O
+otras	O
+pruebas	O
+de	O
+función	O
+pulmonar.	O
+

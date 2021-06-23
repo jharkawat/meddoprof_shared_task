@@ -1,0 +1,56 @@
+Sexo:	O
+Mujer	O
+
+Edad:	O
+45	O
+años	O
+
+Profesión:	O
+Cajera	B-PROFESION
+supermercado	I-PROFESION
+
+País:	O
+España	O
+
+
+Motivo	O
+de	O
+consulta:	O
+Paciente	O
+intervenida	O
+de	O
+cuadrantectomía	O
+en	O
+mama	O
+izda	O
+con	O
+linfadenectomía	O
+axilar	O
+izda.	O
+No	O
+alergias	O
+conocidas.	O
+No	O
+habitos	O
+tóxicos.	O
+No	O
+tratamiento	O
+farmacológico	O
+habitual.	O
+Antecedentes	O
+quirúrgicos:	O
+No.	O
+Historia	O
+ginecológica:	O
+1	O
+parto	O
+(fórceps).	O
+Antecedentes	O
+familiares	O
+de	O
+cáncer	O
+de	O
+mama	O
+(una	O
+tía	O
+paterna)	O

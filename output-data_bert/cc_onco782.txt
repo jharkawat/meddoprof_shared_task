@@ -1,0 +1,33 @@
+O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    B-PROFESION    O    B-SITUACION_LABORAL    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O    O
+O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O
+
+O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O

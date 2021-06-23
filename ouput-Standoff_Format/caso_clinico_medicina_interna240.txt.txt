@@ -1,0 +1,10 @@
+Varón de 44 años, natural de Marruecos, fumador 1-2 cig/día. Trabaja en la jardinería. No otros antecedentes personales ni familiares de interés. El paciente es valorado en las consultas externas de Medicina Interna por un cuadro de 2 semanas de evolución consistente en la presencia de unas lesiones faciales nodulares, eritemato violáceas.
+El paciente es diagnosticado de infección VIH debut tardío (CD4 60 uL, Carga VIH 317000 copias) .
+Se realiza biopsia de las mismas, siendo el resultado inespecífico. Se plantea como diagnóstico diferencial Sarcoma de Kaposi vs Angiomatosis bacilar.
+Se pauta Doxiciclina 100 md/12 h vo con desaparición de las lesiones cutáneas a los pocos días.
+Se inicia tratamiento con EGV /cobicistat, FTC, ABC (Stribild®).
+Tras 10 días de tratamiento, el paciente acude a urgencias por cuadro agudo de malestar general, fiebre elevada, oligoanuria e hipotensión. En la analítica, progresivo aumento de leucocitos y de la procalcitonina, siendo normales el sist de orina y la radiografía tórax. Ingresa en UVI con el diagnóstico de sepsis sin foco evidente. Se recibe PCR en biopsia de lesión cutánea positiva para Bartonella henselae.
+Nos planteamos el diagnóstico de Fiebre de las trincheras exacerbada por cuadro de reconstitución inmune inducido por el TARGA.
+Se añaden gentamicina iv y corticoides a dosis altas. Evoluciona favorablemente siendo dado de alta y continua su seguimiento en las consultas de infecciosas.
+El Síndrome de reconstitución inmune hay que sospecharlo en pacientes con infección VIH que, tras el inicio del TAR, desarrollan cuadros de reactivación "paradójica" de infecciones oportunistas previamente controladas con tratamiento.
+Los patógenos habituales con los que está descrito son M. tuberculosis, MAI, CMV, Cryptococcus, Pneumocystis y Herpes virus 8, pero hay casos más raros asociados a Bartonella como el nuestro.

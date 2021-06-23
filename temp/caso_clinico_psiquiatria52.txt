@@ -1,0 +1,668 @@
+Julio	O
+es	O
+un	O
+señor	O
+soltero	O
+de	O
+52	O
+años,	O
+diseñor	B-PROFESION
+gráfico	O
+que	O
+nos	O
+llega	O
+a	O
+la	O
+Unidad	O
+de	O
+Salud	O
+Mental	O
+del	O
+Hospital	O
+para	O
+realizar	O
+su	O
+ingreso.	O
+El	O
+motivo	O
+del	O
+ingreso	O
+es	O
+que	O
+Julio	O
+sufre	O
+una	O
+grave	O
+depresión	O
+desde	O
+hace	O
+5	O
+años	O
+con	O
+un	O
+intento	O
+de	O
+suicidio.	O
+Viene	O
+acompañado	O
+de	O
+su	O
+hermana,	O
+menor	O
+que	O
+él,	O
+y	O
+con	O
+la	O
+que	O
+vive	O
+actualmente,	O
+quien	O
+relata	O
+muy	O
+nerviosa	O
+que	O
+desde	O
+hace	O
+una	O
+semana	O
+viene	O
+notando	O
+cambios	O
+de	O
+humor	O
+y	O
+de	O
+conducta	O
+sin	O
+causa	O
+aparente.	O
+Después	O
+de	O
+ese	O
+tiempo	O
+la	O
+hermana	O
+lo	O
+encontró	O
+en	O
+su	O
+habitación	O
+tirado	O
+después	O
+de	O
+haber	O
+ingerido	O
+gran	O
+cantidad	O
+de	O
+fármacos.	O
+Julio	O
+y	O
+su	O
+hermana	O
+perdieron	O
+a	O
+sus	O
+padres	O
+en	O
+un	O
+accidente	O
+de	O
+tráfico	O
+en	O
+el	O
+cuál	O
+él	O
+conducía	O
+el	O
+coche.	O
+
+
+EXPLORACIÓN:	O
+
+
+TA:	O
+140/90	O
+mmHg,	O
+FC:	O
+80	O
+l/min	O
+SatO:	O
+95	O
+Temperatura:	O
+36,5	O
+oC	O
+
+Fumador	O
+de	O
+15	O
+cigarrillos/	O
+día	O
+
+HTA	O
+
+Sin	O
+alergias	O
+conocidas.	O
+
+Tratamiento	O
+actual:	O
+Plantaben	O
+fibra	O
+según	O
+necesidad,	O
+Captopril	O
+25	O
+mgr,	O
+Imipramina.	O
+
+
+VALORACIÓN	O
+SEGÚN	O
+NECESIDADES	O
+DE	O
+VIRGINIA	O
+HERDERSON:	O
+
+
+Necesidad	O
+de	O
+respirar	O
+normalmente:	O
+FR:	O
+15	O
+resp/min.	O
+Sin	O
+tos	O
+ni	O
+ruidos.	O
+
+Necesidad	O
+de	O
+comer	O
+y	O
+beber	O
+adecuadamente:	O
+Relación	O
+peso/talla	O
+y	O
+parámetros	O
+antropométricos	O
+normales.	O
+Dieta	O
+pobre	O
+en	O
+fibras	O
+y	O
+verduras.	O
+Restringe	O
+la	O
+sal	O
+y	O
+bebe	O
+aproximadamente	O
+1,5	O
+litros	O
+líquidos/día.	O
+
+Necesidad	O
+de	O
+eliminar	O
+por	O
+todas	O
+las	O
+vías	O
+corporales:	O
+Micciona	O
+5-6	O
+veces	O
+al	O
+día.	O
+A	O
+veces	O
+está	O
+estreñido	O
+y	O
+pasa	O
+días	O
+sin	O
+defecar.	O
+
+Necesidad	O
+de	O
+moverse	O
+y	O
+mantener	O
+posturas	O
+adecuadas:	O
+sin	O
+problemas.	O
+
+Necesidad	O
+de	O
+dormir	O
+y	O
+descansar:	O
+en	O
+la	O
+actualidad	O
+refiere	O
+dormir	O
+muy	O
+mal	O
+durante	O
+la	O
+noche.	O
+
+Necesidad	O
+de	O
+escoger	O
+ropas	O
+adecuadas,	O
+vestirse	O
+y	O
+desvestirse:	O
+sin	O
+problemas.	O
+
+Necesidad	O
+de	O
+mantener	O
+la	O
+temperatura	O
+corporal	O
+dentro	O
+de	O
+los	O
+límites	O
+normales:	O
+sin	O
+problemas.	O
+
+Necesidad	O
+de	O
+mantener	O
+higiene	O
+corporal	O
+y	O
+la	O
+integridad	O
+de	O
+la	O
+piel:	O
+aspecto	O
+desaliñado	O
+y	O
+no	O
+aseado.	O
+
+Necesidad	O
+de	O
+evitar	O
+peligros	O
+ambientales	O
+y	O
+de	O
+lesionar	O
+a	O
+otras	O
+personas:	O
+presenta	O
+ansiedad	O
+al	O
+subir	O
+a	O
+cualquier	O
+vehículo.	O
+
+Necesidad	O
+de	O
+comunicarse	O
+con	O
+los	O
+demás	O
+expresando	O
+emociones:	O
+es	O
+un	O
+hombre	O
+poco	O
+comunicativo	O
+con	O
+su	O
+hermana,	O
+aunque	O
+tienen	O
+buena	O
+relación.	O
+No	O
+suele	O
+salir	O
+muy	O
+a	O
+menudo	O
+de	O
+casa.	O
+
+Necesidad	O
+de	O
+vivir	O
+de	O
+acuerdo	O
+con	O
+sus	O
+creencias	O
+y	O
+valores:	O
+se	O
+considera	O
+católico	O
+no	O
+practicante.	O
+
+Necesidad	O
+de	O
+ocupación	O
+y	O
+ocio	O
+para	O
+autorrealizarse:	O
+está	O
+parado	O
+y	O
+no	O
+se	O
+encuentra	O
+motivado	O
+para	O
+buscar	O
+trabajo	O
+ni	O
+para	O
+salir	O
+y	O
+reunirse	O
+con	O
+amigos.	O
+Aunque	O
+sí	O
+participa	O
+en	O
+las	O
+labores	O
+de	O
+la	O
+casa.	O
+
+Necesidad	O
+de	O
+aprender:	O
+no	O
+toma	O
+su	O
+tratamiento	O
+adecuadamente.	O
+
+
+PLAN	O
+DE	O
+CUIDADOS	O
+
+
+Diagnóstico:	O
+ANSIEDAD	O
+
+
+NOC:	O
+Que	O
+verbalice	O
+que	O
+ésta	O
+ha	O
+disminuido.	O
+
+
+NIC:	O
+Disminución	O
+de	O
+la	O
+ansiedad.	O
+
+
+Diagnóstico:	O
+RIESGO	O
+DE	O
+VIOLENCIA	O
+AUTODIRIGIDA	O
+
+
+NOC:	O
+Que	O
+no	O
+sufra	O
+lesiones	O
+autoprovocadas.	O
+
+
+NIC:	O
+Prevención	O
+de	O
+suicidio.	O
+
+
+Diagnóstico:	O
+INCUMPLIMIENTO	O
+DEL	O
+TRATAMIENTO	O
+
+
+NOC:	O
+Que	O
+exprese	O
+la	O
+importancia	O
+de	O
+seguir	O
+el	O
+tratamiento.	O
+
+
+NIC:	O
+Enseñanza	O
+de	O
+medicamentos	O
+prescritos,	O
+del	O
+proceso	O
+de	O
+enfermedad,	O
+informar	O
+de	O
+las	O
+consecuencias	O
+del	O
+abandono	O
+del	O
+tratamiento	O
+y	O
+vigilar	O
+y	O
+asegurar	O
+la	O
+toma	O
+de	O
+medicación.	O
+
+
+Diagnóstico:	O
+DETERIORO	O
+DE	O
+LA	O
+INTERACCIÓN	O
+SOCIAL	O
+
+
+NOC:	O
+Que	O
+interaccione	O
+socialmente	O
+de	O
+forma	O
+adecuada.	O
+
+
+NIC:	O
+Potenciación	O
+de	O
+la	O
+socialización.	O
+
+
+Diagnóstico:	O
+RIESGO	O
+DE	O
+INTERRUPCIÓN	O
+DE	O
+LOS	O
+PROCESOS	O
+FAMILIARES	O
+
+
+NOC:	O
+Que	O
+la	O
+hermana	O
+elabore	O
+un	O
+plan	O
+realista	O
+
+
+NIC:	O
+Apoyo	O
+a	O
+la	O
+hermana	O
+y	O
+la	O
+estimulación	O
+de	O
+la	O
+integridad	O
+familiar.	O
+
+
+Diagnóstico:	O
+DÉFICIT	O
+DE	O
+AUTOCUIDADOS	O
+BAÑO/HIGIENE	O
+
+
+NOC:	O
+Que	O
+demuestre	O
+el	O
+manejo	O
+de	O
+su	O
+autocuidado.	O
+
+
+NIC:	O
+Reforzar	O
+positivamente	O
+la	O
+iniciativa	O
+propia,	O
+establecer	O
+límites	O
+y	O
+estimular/favorecer	O
+la	O
+realización	O
+de	O
+actividades	O
+de	O
+autocuidado.	O
+
+
+Diagnóstico:	O
+DÉFICIT	O
+DE	O
+ACTIVIDADES	O
+RECREATIVAS	O
+
+
+NOC:	O
+Que	O
+participe	O
+en	O
+actividades	O
+recreativas.	O
+
+
+NIC:	O
+Terapia	O
+con	O
+juegos	O
+por	O
+ejemplo.	O
+
+
+Diagnóstico:	O
+DETERIORO	O
+DEL	O
+PATRÓN	O
+DEL	O
+SUEÑO	O
+
+
+NOC:	O
+Que	O
+manifieste	O
+haber	O
+dormido	O
+y	O
+descansado.	O
+
+
+NIC:	O
+Disminución	O
+de	O
+la	O
+ansiedad	O
+y	O
+mejorar	O
+el	O
+sueño.	O
+
+
+Diagnóstico:	O
+ESTREÑIMIENTO	O
+
+
+NOC:	O
+Que	O
+consiga	O
+patrón	O
+normal	O
+de	O
+eliminación.	O
+
+
+NIC:	O
+Mejorar	O
+su	O
+dieta,	O
+introducción	O
+fibras	O
+y	O
+verduras.	O
+
+
+Problema	O
+de	O
+Colaboración:	O
+DEPRESIÓN	O

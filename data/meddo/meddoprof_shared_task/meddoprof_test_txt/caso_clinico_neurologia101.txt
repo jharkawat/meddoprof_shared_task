@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 42 años, ecuatoriano, que acude a Urgencias por cefalea frontal y periorbitaria izquierda, de una semana de evolución de 3-5 minutos de duración y con cinco episodios al día, de intensidad y frecuencia crecientes, sin fotofobia, rinorrea, lagrimeo, ni modificación tras maniobras de Valsalva. Se acompañó progresivamente de diplopía en la mirada horizontal hacia la izquierda, así como de hipoestesia facial superior y media izquierdas, presentando además durante su ingreso hipoestesia y paresia de la musculatura mandibular, así como una parálisis facial completa izquierda, sin fiebre, ni otra clínica sistémica o neurológica.
+Entre los antecedentes personales no existían factores de riesgo cerebrovascular, pero sí un episodio similar al actual de cefalea y diplopía 5 años antes, por el que acudió a otro hospital, sin diagnóstico claro, que se resolvió completamente. Residía en España desde hacía 15 años, siendo el último viaje a su país de origen 3 años atrás. Trabajaba en la construcción. Padre fallecido por ictus. No refería ingesta de tóxicos, fármacos, ni productos de herbolario.
+
+Examen físico
+Consciente y orientado en las tres esferas. Bien hidratado y nutrido. Temperatura 36,8 oC, tensión arterial 140/96 mmHg, frecuencia cardiaca 64 lpm. Buena perfusión distal. Eupneico. Ausencia de lesiones cutáneo-mucosas. Pupilas isocóricas y normorreactivas a la luz, no meningismo. Fondo de ojos sin alteraciones. Paresia del nervio VI, con hipoestesia en el territorio V1,V2,V3, paresia de la musculatura mandibular y parálisis facial superior e inferior ipsilaterales en el lado izquierdo, sin otras alteraciones. Fuerza y sensibilidad en todas sus modalidades conservadas de forma simétrica en las cuatro extremidades. Reflejos miotáticos simétricos y normoactivos, con reflejo cutáneo plantar flexor bilateral. Coordinación, postura y marcha dentro de la normalidad.
+
+Pruebas complementarias
+• Se realizaron una bioquímica general, hemograma, coagulación, autoinmunidad, PCR, VSG, espectro electroforético e inmunoelectroforético, enzima convertidora de angiotensina, marcadores tumorales, sedimento orina, electrocardiograma y radiografía de tórax sin alteraciones.
+• Punción lumbar: presión de apertura 14 cm de agua. Líquido cristalino, sin bloqueos. Citobioquímica de líquido cefalorraquídeo dentro de la normalidad, citometría de flujo y citología negativas para células malignas. Índice de IgG en LCR normal y ausencia de bandas oligoclonales.
+• Microbiología: serologías sífilis, VIH, Borrelia, virus hepatotropos negativas. Mantoux negativo. BAAR en esputo negativo.
+• Tomografía computarizada (TC) craneal (sin contraste): se observa en la región del seno cavernoso izquierdo asimetría respecto al derecho, así como engrosamiento mucoso del seno maxilar izquierdo. Tomografía computarizada craneal axial sin contraste. 1B. Resonancia magnética craneal axial T1 con contraste con supresión grasa. Se observa una imagen hiperdensa en el seno cavernoso izquierdo que capta contraste en la resonancia magnética.
+• Resonancia magnética (RM) craneal sin y con contraste: se objetiva un engrosamiento de la región del seno cavernoso izquierdo, que aparece isointenso en T2 y con realce homogéneo tras la administración de contraste. Asocia engrosamiento y captación de la duramadre que recubre la base del lóbulo temporal izquierdo, así como del borde libre del tentorio. Existe además un engrosamiento y captación del V par craneal izquierdo en su salida a través del foramen oval, sin afectación de estructuras perineurales. Resonancia magnética craneal coronal T1 con contraste y supresión grasa. Pretratamiento. Dos meses postratamiento. Apreciamos una disminución de captación en el seno cavernoso y la duramadre que recubre la base del lóbulo temporal.
+• TC tóraco-abdómino-pélvica: sin alteraciones.
+• PET-TC: incremento de la actividad metabólica de carácter bilateral y simétrico en las amígdalas palatinas, de carácter inflamatorio-infeccioso. No se objetivan adenopatías con actividad metabólica ni otros focos que sugieran actividad metabólica anormal.
+• Biopsia amigdalar bilateral: sin hallazgos de células malignas.
+
+Diagnóstico
+Síndrome de Tolosa-Hunt.
+
+Tratamiento
+Se inició tratamiento con analgésicos no esteroideos, y prednisona 1 mg/kg/día durante una semana, con buena respuesta, continuándose con pauta descendente escalonada.
+
+Evolución
+Mejoría de la cefalea y de la afectación de los nervios craneales, resolviéndose por completo. Se realizan sucesivos controles radiológicos mediante RM craneal que evidencian la disminución significativa del tamaño de las lesiones.

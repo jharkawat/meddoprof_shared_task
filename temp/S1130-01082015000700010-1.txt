@@ -1,0 +1,178 @@
+Datos	O
+del	O
+paciente.	O
+
+Nombre:	O
+Sandro.	O
+
+Apellidos:	O
+Rodriguez	O
+Mung.	O
+
+NHC:	O
+78912364.	O
+
+NASS:	O
+34	O
+58702578	O
+53.	O
+
+Domicilio:	O
+Calle	O
+de	O
+Alejandro	O
+Martín	O
+Ortega,	O
+7,	O
+6	O
+A.	O
+
+Localidad/	O
+Provincia:	O
+Madrid.	O
+
+CP:	O
+50009.	O
+
+Datos	O
+asistenciales.	O
+
+Fecha	O
+de	O
+nacimiento:	O
+29/08/1975.	O
+
+País	O
+de	O
+nacimiento:	O
+España.	O
+
+Edad:	O
+60	O
+años	O
+Sexo:	O
+H.	O
+
+Fecha	O
+de	O
+Ingreso:	O
+08/12/2016.	O
+
+Médico:	B-PROFESION
+Manuel	O
+Salgueira	O
+NºCol:	O
+02	O
+02	O
+45618.	O
+
+Varón	O
+de	O
+33	O
+años,	O
+español,	O
+ingeniero	B-PROFESION
+de	I-PROFESION
+caminos	I-PROFESION
+que	O
+ha	O
+residido	O
+18	O
+meses	O
+en	O
+Costa	O
+de	O
+Marfil	O
+por	O
+motivos	O
+laborales.	O
+En	O
+la	O
+actualidad	O
+regresa	O
+a	O
+España	O
+y	O
+presenta	O
+prurito	O
+perianal	O
+y	O
+dolor	O
+abdominal	O
+difuso	O
+tipo	O
+cólico.	O
+No	O
+asocia	O
+fiebre	O
+y	O
+la	O
+última	O
+deposición	O
+es	O
+diarreica,	O
+y	O
+deja	O
+entrever	O
+un	O
+gusano	O
+de	O
+gran	O
+tamaño.	O
+
+A	O
+la	O
+exploración	O
+destaca	O
+dolor	O
+leve	O
+a	O
+la	O
+palpación	O
+profunda	O
+en	O
+fosa	O
+iliaca	O
+derecha.	O
+En	O
+las	O
+pruebas	O
+resalta	O
+discreta	O
+eosinofilia	O
+(750	O
+eosinófilos	O
+por	O
+microlitro).	O
+
+La	O
+visualización	O
+macroscópica	O
+del	O
+parásito	O
+impresiona	O
+de	O
+Taenia.	O
+El	O
+análisis	O
+diferido	O
+microbiológico	O
+lo	O
+describe	O
+como	O
+Taenia	O
+saginata	O
+(T.	O
+saginata).	O
+
+Dirección	O
+para	O
+correspondencia:	O
+M.a	O
+Mercedes	O
+Mingarro	O
+Castillo.	O
+Correo	O
+electrónico:	O
+merchemingarro@yahoo.es	O
+

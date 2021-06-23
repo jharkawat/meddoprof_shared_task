@@ -1,0 +1,577 @@
+Varón	O
+de	O
+21	O
+años	O
+de	O
+edad,	O
+que	O
+ingresa	O
+de	O
+forma	O
+involuntaria	O
+en	O
+la	O
+unidad	O
+de	O
+hospitalización	O
+psiquiátrica,	O
+tras	O
+presentar	O
+el	O
+primer	O
+episodio	O
+psicótico	O
+por	O
+consumo	O
+de	O
+cannabis.	O
+
+
+Se	O
+observa,	O
+según	O
+indica	O
+el	O
+padre,	O
+un	O
+progresivo	O
+abandono	O
+de	O
+las	O
+actividades	O
+(laborales,	O
+ocio)	O
+y	O
+de	O
+las	O
+relaciones	O
+afectivas	O
+(amistades),	O
+llegando	O
+a	O
+encontrarse	O
+el	O
+paciente	O
+en	O
+los	O
+últimos	O
+6	O
+meses,	O
+en	O
+una	O
+situación	O
+de	O
+aislamiento,	O
+inactividad	O
+y	O
+apatía.	O
+
+
+Así	O
+mismo,	O
+han	O
+aumentado	O
+las	O
+alteraciones	O
+conductuales,	O
+con	O
+heteroagresividad	O
+en	O
+el	O
+domicilio	O
+y	O
+síntomas	O
+psicóticos;	O
+ideas	O
+delirantes	O
+de	O
+perjuicio,	O
+centradas	O
+en	O
+el	O
+entorno	O
+familiar.	O
+Así	O
+como	O
+la	O
+presencia	O
+de	O
+alucinaciones	O
+auditivas.	O
+
+
+
+
+VALORACIÓN	O
+
+PATRÓN	O
+PERCEPCIÓN/MANTENIMIENTO	O
+DE	O
+LA	O
+SALUD	O
+
+
+Aspecto	O
+físico	O
+descuidado.	O
+
+
+Nula	O
+conciencia	O
+de	O
+enfermedad.	O
+
+
+Hábitos	O
+tóxicos:	O
+Fumador	O
+de	O
+cannabis	O
+desde	O
+los	O
+15	O
+años,	O
+llegando	O
+a	O
+cantidades	O
+de	O
+unos	O
+8	O
+porros	O
+diarios.	O
+Consumidor	O
+de	O
+cocaína	O
+por	O
+vía	O
+intranasal	O
+desde	O
+los	O
+18	O
+años,	O
+de	O
+forma	O
+esporádica	O
+(consumo	O
+recreativo	O
+los	O
+fines	O
+de	O
+semana).	O
+
+
+No	O
+alergias	O
+conocidas	O
+
+
+PATRÓN	O
+NUTRICIONAL/METABÓLICO:	O
+
+
+Peso:	O
+60	O
+kg	O
+Talla:	O
+1"75m	O
+IMC:	O
+19"5	O
+(Normopeso)	O
+
+
+Alimentación	O
+inadecuada	O
+debido	O
+a	O
+las	O
+ideas	O
+delirantes	O
+de	O
+perjuicio	O
+que	O
+tiene	O
+con	O
+el	O
+entorno	O
+familiar	O
+(ideas	O
+de	O
+envenenamiento).	O
+
+
+Se	O
+provoca	O
+el	O
+vómito	O
+de	O
+manera	O
+ocasional,	O
+coincidiendo	O
+con	O
+actividad	O
+delirante	O
+(verbalizada	O
+por	O
+el	O
+paciente).	O
+
+
+Pérdida	O
+de	O
+peso	O
+importante	O
+en	O
+los	O
+últimos	O
+meses.	O
+
+
+PATRÓN	O
+ELIMINACIÓN	O
+/INTERCAMBIO	O
+
+
+Continente	O
+mixto.	O
+Ritmo	O
+intestinal	O
+adecuado:	O
+cada	O
+3	O
+días.	O
+
+
+No	O
+uso	O
+de	O
+laxantes	O
+
+
+PATRÓN	O
+ACTIVIDAD/EJERCICIO	O
+
+
+Autocuidados:	O
+precisa	O
+supervisión	O
+para	O
+el	O
+baño/higiene	O
+aunque	O
+es	O
+capaz	O
+de	O
+realizar	O
+las	O
+tareas	O
+sin	O
+ayuda.	O
+
+
+Actividades	O
+de	O
+ocio:	O
+verbaliza	O
+anhedonia.	O
+No	O
+muestra	O
+interés	O
+por	O
+ninguna	O
+actividad.	O
+
+
+Movilidad:	O
+ritmo	O
+enlentecido	O
+
+
+PATRÓN	O
+SUEÑO	O
+–	O
+DESCANSO	O
+
+
+Horas	O
+de	O
+sueño:	O
+9	O
+horas.	O
+Patrón	O
+del	O
+sueño	O
+actualmente	O
+conservado,	O
+precisando	O
+medicación	O
+hipnótica	O
+ocasionalmente	O
+
+
+Otros	O
+descansos:	O
+siesta	O
+de	O
+1	O
+hora	O
+diaria	O
+
+
+PATRÓN	O
+COGNITIVO	O
+–	O
+PERCEPTIVO	O
+
+
+Consciente	O
+y	O
+orientado	O
+en	O
+las	O
+tres	O
+esferas.	O
+Alerta.;	O
+poco	O
+colaborador	O
+
+
+Contenido	O
+del	O
+pensamiento:	O
+ideas	O
+delirantes	O
+de	O
+perjuicio	O
+
+
+Se	O
+observan	O
+fenómenos	O
+alucinatorios	O
+auditivos	O
+e	O
+interpretaciones	O
+deliroides	O
+de	O
+perjuicio	O
+
+
+Lenguaje	O
+pobre	O
+en	O
+contenido,	O
+verbalizando	O
+sentimientos	O
+de	O
+anhedonia,	O
+así	O
+como	O
+abulia.	O
+
+
+Curso	O
+del	O
+pensamiento	O
+enlentecido;	O
+se	O
+objetiva	O
+una	O
+ideación	O
+delirante	O
+de	O
+perjuicio,	O
+así	O
+como	O
+vivencias	O
+autorreferenciales	O
+y	O
+alucinaciones	O
+auditivas	O
+con	O
+repercusión	O
+emocional	O
+y	O
+conductual	O
+(irritabilidad,	O
+heteroagresividad,	O
+aislamiento,	O
+abandono	O
+de	O
+actividades	O
+y	O
+de	O
+interacción	O
+social).	O
+
+
+PATRÓN	O
+AUTOPERCEPCIÓN	O
+–	O
+AUTOCONCEPTO	O
+
+
+Reactividad	O
+emocional:	O
+apatía,	O
+abulia.	O
+
+
+No	O
+ideas	O
+autolíticas	O
+ni	O
+de	O
+muerte.	O
+
+
+PATRÓN	O
+ROL	O
+–	O
+RELACIONES	O
+
+
+Convive	O
+con	O
+su	O
+padre	O
+y	O
+sus	O
+hermanos,	O
+en	O
+el	O
+domicilio	O
+familiar.	O
+Es	O
+el	O
+mayor	O
+de	O
+tres	O
+hermanos.	O
+Conflicto	O
+en	O
+las	O
+relaciones	O
+familiares,	O
+debido	O
+a	O
+las	O
+ideas	O
+de	O
+perjuicio	O
+y	O
+heteroagresividad	O
+que	O
+presenta.	O
+
+
+A	O
+nivel	O
+académico,	O
+finalizó	B-SITUACION_LABORAL
+los	I-SITUACION_LABORAL
+estudios	I-SITUACION_LABORAL
+primarios.	I-SITUACION_LABORAL
+
+
+En	O
+la	O
+actualidad	O
+inactivo	B-SITUACION_LABORAL
+laboralmente.	I-SITUACION_LABORAL
+Previamente	O
+distintos	O
+trabajos	B-PROFESION
+en	I-PROFESION
+empresas	I-PROFESION
+de	I-PROFESION
+reparto	I-PROFESION
+de	I-PROFESION
+paquetería.	I-PROFESION
+
+
+PATRÓN	O
+SEXUALIDAD	O
+–	O
+REPRODUCCIÓN	O
+
+
+Actualmente	O
+sin	O
+pareja	O
+
+
+Anteriormente,	O
+conductas	O
+de	O
+riesgo:	O
+varias	O
+parejas	O
+sexuales	O
+simultáneamente.	O
+No	O
+uso	O
+de	O
+protección	O
+frente	O
+a	O
+ETS.	O
+
+
+PATRÓN	O
+AFRONTAMIENTO	O
+–	O
+TOLERANCIA	O
+AL	O
+ESTRÉS	O
+
+
+Factor	O
+desencadenante	O
+del	O
+estrés:	O
+ideas/pensamientos	O
+delirantes	O
+y	O
+alucinaciones	O
+auditivas	O
+
+
+No	O
+adopta	O
+estrategias	O
+de	O
+adaptación,	O
+por	O
+incapacidad	O
+para	O
+afrontar	O
+los	O
+problemas	O
+de	O
+manera	O
+eficaz.	O
+Presenta	O
+dificultad	O
+para	O
+la	O
+resolución	O
+de	O
+problemas	O
+y	O
+pocas	O
+estrategias	O
+para	O
+afrontar	O
+situaciones	O
+estresantes.	O
+
+
+PATRÓN	O
+VALORES/CREENCIAS	O
+
+
+Sin	O
+alteraciones	O
+en	O
+dicho	O
+patrón	O

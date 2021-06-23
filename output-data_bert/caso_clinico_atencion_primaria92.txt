@@ -1,0 +1,18 @@
+O    O    O
+O    O    O    O
+
+O    O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O    O    O    O
+O    O    O    O    O    O    O    O    O    O    B-SITUACION_LABORAL    I-SITUACION_LABORAL    O    O    O    O    O    O    O    O    O    O    O    O    O
+
+O    O    O    O    O    O    O
+O    O    O    O    O    O    O
+
+O    O    O    O    O
+O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O

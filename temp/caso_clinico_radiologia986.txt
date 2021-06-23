@@ -1,0 +1,266 @@
+Mujer	O
+46	O
+años.	O
+
+Profesora.	B-PROFESION
+
+Alergia	O
+a	O
+PNC.	O
+
+Viajes	O
+frecuentes	O
+a	O
+EEUU.	O
+Vacaciones	O
+sur	O
+california	O
+3	O
+semanas	O
+e	O
+Israel.	O
+
+Tos	O
+irritativa	O
+1	O
+mes	O
+persistente	O
+exacerba	O
+en	O
+las	O
+noches,	O
+sin	O
+fiebre	O
+ni	O
+rinorrea,	O
+sudoración	O
+nocturna	O
+ocasional.	O
+
+Ultima	O
+semana	O
+dolor	O
+al	O
+toser	O
+sin	O
+tope	O
+inspiratorio.	O
+
+Baja	O
+3	O
+kilos	O
+peso	O
+
+
+Exámenes	O
+de	O
+laboratorio:	O
+
+•	O
+HCTO:	O
+37%	O
+
+•	O
+Leucocitos:	O
+7.900	O
+
+•	O
+Eosinofilos;	O
+22%	O
+
+•	O
+Linfocitos:	O
+7,5%	O
+
+•	O
+PCR	O
+3,5	O
+
+
+
+Condensación	O
+LSI	O
+segmento	O
+anterior,	O
+segmento	O
+superior	O
+LII	O
+
+Focos	O
+de	O
+condensación	O
+de	O
+predominio	O
+subpleural	O
+y	O
+peribroncovascular,	O
+algunos	O
+de	O
+los	O
+cuales	O
+tienen	O
+áreas	O
+centrales	O
+en	O
+vidrio	O
+esmerilado,	O
+los	O
+que	O
+se	O
+distribuyen	O
+predominantemente	O
+en	O
+LSI,	O
+segmento	O
+superior	O
+del	O
+LII.	O
+Se	O
+observan	O
+otras	O
+múltiples	O
+pequeños	O
+focos	O
+de	O
+condensación	O
+de	O
+similares	O
+características	O
+y	O
+de	O
+menor	O
+tamaño	O
+en	O
+el	O
+segmento	O
+anterior	O
+del	O
+LSD,	O
+LM	O
+y	O
+segmentos	O
+superior	O
+y	O
+basal	O
+lateral	O
+del	O
+LID.	O
+
+Se	O
+observan	O
+otros	O
+múltiples	O
+pequeños	O
+focos	O
+de	O
+condensación	O
+de	O
+similares	O
+características	O
+y	O
+de	O
+menor	O
+tamaño	O
+en	O
+el	O
+segmento	O
+anterior	O
+del	O
+LSD,	O
+LM	O
+y	O
+segmentos	O
+superior	O
+y	O
+basal	O
+lateral	O
+del	O
+LID.	O
+
+Signo	O
+radiológico:	O
+Halo	O
+inverso	O
+
+
+Exámenes	O
+del	O
+paciente:	O
+
+•	O
+PCR	O
+TBC	O
+(–)	O
+
+•	O
+GRAM	O
+SIN	O
+BACTERIAS	O
+
+•	O
+Panel	O
+FilmArray	O
+(–)	O
+
+•	O
+BIOPSIA	O
+TRANSBRONQUIAL:	O
+Neumonía	O
+eosinoflica	O
+
+
+Cuadro	O
+clínico	O
++	O
+Antecedente	O
+viaje	O
+
+•	O
+Muestra	O
+LBA	O
+Clínica	O
+Mayo	O
+
+•	O
+IgMCoccidioides	O
+por	O
+ELISA	O
+positivo	O
+
+•	O
+Diagnóstico:	O
+Coccidioidomicosis	O
+pulmonar	O
+
+•	O
+Tratamiento	O
+con	O
+fluconazol	O
+450	O
+mg/día	O
+(	O
+2	O
+meses	O
+1	O
+semana)	O
+
+•	O
+TC	O
+tórax	O
+control.	O
+
+
+Minip	O
+demuestra	O
+mejor	O
+las	O
+áreas	O
+en	O
+vidrio	O
+esmerilado	O
+
+
+Diagnóstico:	O
+
+COCCIDIOIDOMICOSIS	O
+PULMONAR	O
