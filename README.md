@@ -1,5 +1,13 @@
-## MEDDOPROF_SHAREDTASK
-The code for submission of [**Meddoprof_Shared_Task**](https://temu.bsc.es/meddoprof/) 
+## Spanish Pre-Trained Language Models for HealthCare Industry
+
+The code for the paper "Spanish Pre-Trained Language Models for HealthCare Industry"  
+Accepted to appear at Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021), CEUR Workshop Proceedings, 2021.  
+
+**Authors**
+[Jalaj Harkawat*](https://www.linkedin.com/in/jalaj-harkawat/) | [Tejas Vaidhya*](https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)  
+ `* equal contribution`
+
+**ArXiv link**: coming-soon
 
 ## Dependencies
 
@@ -43,6 +51,8 @@ conda env create -f env.yml
 - **SeqenceTagger.py** (model (forward and backward passes) implementation of pytorch)
 - **evaluate.py** (evaluation loop for Valid and Test set)
 - **inference.py** (scipt to run during inference time; provide output in txt )
+## Dataset
+MEDDOPROF: MEDical DOcuments PROFessions recognition shared task: [website link](https://temu.bsc.es/meddoprof/) | [Training data](https://zenodo.org/record/4775741/files/meddoprof-training-set.zip?download=1) | [Test dataset](https://zenodo.org/record/5077976/files/meddoprof-test-GS.zip?download=1)
 
 ## Preprocessing Instruction
 1. Create the {test/train/Val}_bio files in the ```./data``` containing dataset in conll format  (more detail refer ```./data/README.md```)
@@ -82,3 +92,4 @@ The post processing is done as per the submission requirement of [sharetask]()
 - You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
 - License: **MIT**
 - Code Credits: [NER_Lab_Protocols](https://github.com/tejasvaidhyadev/NER_Lab_Protocols)
+- **Citation**: coming soon
