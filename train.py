@@ -143,7 +143,7 @@ if __name__ == '__main__':
         bert_class = 'dmis-lab/biobert-v1.1' # auto
         # bert_class = 'pretrained_bert_models/bert-base-chinese/' # manual
     elif args.dataset in ["meddo"]:
-        bert_class = 'mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es'
+        bert_class = 'bert-base-multilingual-cased'
     
     data_loader = DataLoader(data_dir, bert_class, params, token_pad_idx=0, tag_pad_idx=-1)
     
