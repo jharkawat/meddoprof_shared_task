@@ -7,7 +7,7 @@ Accepted to appear at Proceedings of the Iberian Languages Evaluation Forum (Ibe
 [Jalaj Harkawat*](https://www.linkedin.com/in/jalaj-harkawat/) | [Tejas Vaidhya*](https://scholar.google.com/citations?user=dGedZKoAAAAJ&hl=en)  
  `* equal contribution`
 
-**ArXiv link**: coming-soon
+[**Paper link**](http://ceur-ws.org/Vol-2943/meddoprof_paper7.pdf)
 
 ## Dependencies
 
@@ -87,6 +87,16 @@ The post processing is done as per the submission requirement of [sharetask]()
     The above scipt store generated standoff format data at ```./ouput-Standoff_Format```
 - Use ```Post_processor.ipynb```
     output store in ```output-desire_submission_format```  
+
+## Bibtex
+```
+@inproceedings{salvador2021nlp,
+    title={NLP applied to occupational health: MEDDOPROF shared task at IberLEF 2021 on automatic recognition, classification and normalization of professions and occupations from medical texts},
+    author={Lima-López, Salvador and Farré-Maduell,Eulàlia and Miranda-Escalada, Antonio and Brivá-Iglesias, Vicent and Krallinger, Martin},
+    booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021), CEUR Workshop Proceedings, 2021},
+    year={2021}
+}
+```
 
 ## Miscellanous
 - You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
